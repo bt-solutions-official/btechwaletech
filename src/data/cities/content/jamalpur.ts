@@ -34,7 +34,7 @@ const jamalpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English", "Workshop vendor profiles", "Coaching admissions online", "WhatsApp all week"],
   },
   quickAnswer:
-    "In Jamalpur, a business website from us starts from ₹10,000 and usually goes live in one to two weeks. SEO sites of 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We work remotely with no Jamalpur office, and maintain every site free for five months.",
+    "In Jamalpur, a business website from us starts from ₹10,000 and usually goes live in one to two weeks. SEO sites of 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We work remotely with no Jamalpur office, and maintain every site free for two months.",
   snapshot: [
     { label: "District", value: "Jamalpur is in Munger district, about 9 km from Munger town, and the two form a twin-city area" },
     { label: "Nickname", value: "Rail Nagri, the railway town, built around the workshop founded by the East Indian Railway Company in 1862" },
@@ -51,10 +51,10 @@ const jamalpur: CityContent = {
     ai: "WhatsApp assistants that answer batch, fee and stock questions in Hindi or English and pass harder chats to a person.",
     data: "Simple dashboards for coaching results, admission enquiries or supplier billing, built from your existing sheets.",
     app: "Android and iOS apps for students, delivery staff and field technicians that work well on low-cost phones, starting at ₹40,000.",
-    maintenance: "Five months of free updates and security care after launch; afterwards maintenance starts from ₹8,000 a month.",
+    maintenance: "Two months of free updates and security care after launch; afterwards maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Jamalpur owners usually choose between a Patna or Bhagalpur agency that is hard to reach after payment and a local helper with no time for search or support. We show starting prices, write natural Hindi, reply on WhatsApp every day, and look after your site free for five months after it goes live.",
+    "Jamalpur owners usually choose between a Patna or Bhagalpur agency that is hard to reach after payment and a local helper with no time for search or support. We show starting prices, write natural Hindi, reply on WhatsApp every day, and look after your site free for two months after it goes live.",
   pricingIntro:
     "These figures are where Jamalpur projects begin, not bundled packages. What you actually pay depends on pages, languages, products and features. You get an itemised written quote first, and nothing is billed until you approve it in writing.",
   sections: [
@@ -182,11 +182,11 @@ const jamalpur: CityContent = {
     },
     {
       id: "ownership-upkeep-jamalpur",
-      heading: "Your domain, your code, and five free months of upkeep",
+      heading: "Your domain, your code, and two free months of upkeep",
       paragraphs: [
         "More than one Jamalpur business has lost its website because the person who made it booked the domain under their own name and then stopped answering calls. When the renewal lapsed, the site went offline and the business email went with it.",
         "We register the domain and hosting in your name, hand over every login at launch and give you full ownership of the source code. You are free to move to another developer at any time without an exit fee, and we provide a short note explaining how the site is built so the next person can pick it up.",
-        "For five months after launch, we handle updates, fixes, security patches, backups and uptime monitoring free of charge. After that, maintenance continues from ₹8,000 a month, or you can come to us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains what each build covers.",
+        "For two months after launch, we handle updates, fixes, security patches, backups and uptime monitoring free of charge. After that, maintenance continues from ₹8,000 a month, or you can come to us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains what each build covers.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const jamalpur: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we take care of content edits, bug fixes, security and software updates, backups and uptime checks at no cost. After that, you can continue maintenance from ₹8,000 a month or simply reach out when you need a change.",
+        "For two months after launch we take care of content edits, bug fixes, security and software updates, backups and uptime checks at no cost. After that, you can continue maintenance from ₹8,000 a month or simply reach out when you need a change.",
     },
     {
       question: "How long before SEO starts working?",

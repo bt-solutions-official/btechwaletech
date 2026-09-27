@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: build, AI and data, project management" },
     { value: "2", label: "Working days to an itemised written quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["Quote format", "Proposal or retainer", "Varies", "Itemised line by line in about 2 working days"],
       ["Holiday and sickness cover", "Covered by staff", "Project pauses", "Another team member picks up"],
       ["Ownership of code and domain", "Check the contract", "Check the contract", "In your name from the first day"],
-      ["After launch", "Paid support plans", "Ad hoc", `5 months free, then optional care from ${P.care}`],
+      ["After launch", "Paid support plans", "Ad hoc", `2 months free, then optional care from ${P.care}`],
       ["Apps and AI work", "Often outsourced", "Rarely", "Built by the same three people"],
       ["Local knowledge", "Walk-in familiarity with the city", "Often strong", "Researched with you; you supply local detail"],
     ],
@@ -159,7 +159,7 @@ const content: FreelanceContent = {
       heading: "How much does a web developer in Manchester cost compared with a remote team?",
       paragraphs: [
         `Quotes from Manchester agencies and freelancers vary widely, and we will not quote other people’s rates. What we can say is where the difference comes from: office costs, account managers, sales teams, and whether the price includes strategy, copywriting and ongoing support.`,
-        `Our own starting prices are public. A business website starts at ${P.site}, an SEO website of 299 or more pages at ${P.seoSite}, an online shop at ${P.shop}, an Android and iOS app at ${P.app}, a custom web app at ${P.software} and AI automation at ${P.ai}. Monthly SEO is from ${P.seo}, and care after the five free months is from ${P.care}.`,
+        `Our own starting prices are public. A business website starts at ${P.site}, an SEO website of 299 or more pages at ${P.seoSite}, an online shop at ${P.shop}, an Android and iOS app at ${P.app}, a custom web app at ${P.software} and AI automation at ${P.ai}. Monthly SEO is from ${P.seo}, and care after the two free months is from ${P.care}.`,
         `To compare fairly, ask every web developer Manchester side or remote for the same three things: an itemised quote, a list of what is excluded, and who owns the domain, hosting and code at the end. Then total the cost over three years, not just the build. A cheap build on a platform you rent can cost more by year three than a bigger one you own. The <a href='/uk/website-design-cost/'>UK website cost guide</a> walks through each cost driver in more depth.`,
       ],
     },
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is an illustrative scenario, not a real client. Picture a small skincare brand run from a unit in Salford, selling around sixty products through a marketplace and an ageing shop that crashes on sale days. The owners want a faster shop, better product pages and a way to sell refills on subscription.`,
         `The plan starts with a video call and a written brief. The brand chooses Shopify so the two owners are not managing servers. We import products with clean variant data, write redirects from the old shop’s addresses, set up card and wallet checkout under the brand’s own merchant account, and add a subscription app for refills. Delivery rules cover next-day across the UK and a local courier option for Greater Manchester postcodes.`,
-        `Before launch we place test orders, refunds and subscription renewals, and check the shop on mid-range phones. A shop like this would start from ${P.shop}; the final quote depends on the number of custom templates, the subscription setup and any integration with accounting software. After launch, five months of free maintenance cover fixes and small changes.`,
+        `Before launch we place test orders, refunds and subscription renewals, and check the shop on mid-range phones. A shop like this would start from ${P.shop}; the final quote depends on the number of custom templates, the subscription setup and any integration with accounting software. After launch, two months of free maintenance cover fixes and small changes.`,
       ],
     },
     {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting, code repository, Search Console and analytics are opened or transferred into accounts you control."],
       ["See it on a preview link", "Pages appear on a private link as they are built. You comment in one list; we update overnight."],
       ["Test before launch", "Forms, calls, checkout and speed are tested on real phones, and redirects are checked if you are replacing an old site."],
-      ["Launch and look after it", "The site goes live, Search Console is monitored, and five months of free maintenance begin. Optional care follows."],
+      ["Launch and look after it", "The site goes live, Search Console is monitored, and two months of free maintenance begin. Optional care follows."],
     ],
   },
   faqHeading: "Web developer Manchester: questions from Greater Manchester businesses",
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
     { question: "Do you build apps as well as websites?", answer: `Yes. Android and iOS apps are built with Flutter or React Native and published under your own Google Play and Apple developer accounts, from ${P.app}. Google Play charges a one-time US$25 registration fee and Apple’s programme costs US$99 a year, paid by you directly. Typical Manchester requests are booking apps, loyalty apps and staff job-tracking apps.` },
     { question: "What if I already have a website with a Manchester developer?", answer: "We can take it over, rebuild it or fix specific problems. First we check who holds the domain, hosting and code, because that decides how smooth the move is. If you are redesigning, we map old page addresses to new ones so search visibility carries over. Your existing developer’s contract terms are worth reading before you switch." },
     { question: "Do you sign an NDA or contract?", answer: "Every project runs on a written, itemised quote you approve before anything is billed. If you need a non-disclosure agreement or specific contract terms, ask us and we agree them in writing as part of your quote. Our general terms and refund policy pages set out the standard arrangements; your own solicitor can review anything specific." },
-    { question: "What happens after my Manchester website launches?", answer: `You get five months of free maintenance: fixes, small changes, updates and monitoring. After that, you can edit the site yourself, hire anyone you like, or take our optional care plan from ${P.care}. Hosting and domain renewals are paid by you directly to the providers, so there is no hidden rent in the background.` },
+    { question: "What happens after my Manchester website launches?", answer: `You get two months of free maintenance: fixes, small changes, updates and monitoring. After that, you can edit the site yourself, hire anyone you like, or take our optional care plan from ${P.care}. Hosting and domain renewals are paid by you directly to the providers, so there is no hidden rent in the background.` },
     { question: "Is it cheaper to hire a remote web developer than a Manchester one?", answer: "Often, because a remote team carries no Manchester office costs, but not always, and price alone is a poor way to choose. Compare itemised quotes for the same brief, check what is excluded, and add up three years of total cost including hosting, support and any platform subscriptions. Ownership of the domain and code matters as much as the build price." },
     { question: "Can you help my website appear in AI search answers?", answer: "We can make it easier for AI tools to understand and quote your site: clear service and area pages, short factual answers to common questions, structured data, fast loading and a consistent Google Business Profile. No one controls which sources AI Overviews or chat assistants cite, so treat this as improving your odds rather than a promise." },
     { question: "Do you work with Manchester professional firms such as solicitors and accountants?", answer: "Yes. We build sites for professional practices with named team pages, clear service descriptions, regulator details where they apply, fee guidance and secure enquiry or upload forms. Regulatory wording comes from you and your compliance lead; we build the pages to carry it and keep forms collecting only the data you actually need." },

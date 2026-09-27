@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who can read your server, CMS and Search Console" },
     { value: "2", label: "Working days to an itemised recovery quote" },
-    { value: "5", label: "Months of free maintenance on sites we build" },
+    { value: "2", label: "Months of free maintenance on sites we build" },
     { value: "0", label: "Platform fees or middlemen between you and us" },
   ],
   answer: {

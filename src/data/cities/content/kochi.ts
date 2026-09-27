@@ -31,11 +31,11 @@ const kochi: CityContent = {
     eyebrow: "Kochi · Kerala",
     h1: "Websites, apps, SEO and AI automation for Kochi and Ernakulam",
     lede:
-      "We are three remote engineers who build fast websites, stores and automations for Kochi: seafood and spice exporters, Fort Kochi homestays, Kakkanad software firms, Edappally retailers and clinics across Ernakulam. Our starting prices are public, you deal directly with the developers, and after launch the first five months of maintenance are free.",
+      "We are three remote engineers who build fast websites, stores and automations for Kochi: seafood and spice exporters, Fort Kochi homestays, Kakkanad software firms, Edappally retailers and clinics across Ernakulam. Our starting prices are public, you deal directly with the developers, and after launch the first two months of maintenance are free.",
     pills: ["From ₹10,000", "Malayalam and English", "Export-ready B2B sites", "Homestay booking pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "For a Kochi business, a simple website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote team of three engineers with no Kochi office. Hosting setup, search basics and five months of free maintenance are part of every project.",
+    "For a Kochi business, a simple website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote team of three engineers with no Kochi office. Hosting setup, search basics and two months of free maintenance are part of every project.",
   snapshot: [
     { label: "Commercial core", value: "MG Road, Broadway, Marine Drive, Kaloor, Palarivattom and Edappally" },
     { label: "Technology parks", value: "Infopark and SmartCity at Kakkanad, plus the Kerala Startup Mission complex at Kalamassery" },
@@ -52,10 +52,10 @@ const kochi: CityContent = {
     ai: "WhatsApp and email automations that answer guests, patients and buyers in Malayalam or English and log every enquiry.",
     data: "Dashboards for export shipments, room occupancy or clinic appointments, built from the spreadsheets you already keep.",
     app: "Android and iOS apps for bookings, dealer orders and member accounts across Ernakulam, built once and published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Monsoon-season fixes, tariff and menu updates, backups and security patches, free for five months and then from ₹8,000 a month.",
+    maintenance: "Monsoon-season fixes, tariff and menu updates, backups and security patches, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Kochi has no shortage of web agencies, many of them in Kakkanad and Palarivattom, and most price only on request. We print our prices, reply on WhatsApp every day, register domains in your name and stay responsible for the site for five months after it goes live, without charging for that period.",
+    "Kochi has no shortage of web agencies, many of them in Kakkanad and Palarivattom, and most price only on request. We print our prices, reply on WhatsApp every day, register domains in your name and stay responsible for the site for two months after it goes live, without charging for that period.",
   pricingIntro:
     "Kochi quotes for websites vary a great deal and are seldom itemised. These are our real starting figures. Your final quote depends on the number of pages, languages, features and existing content, and it arrives as an itemised list before we start any work.",
   sections: [
@@ -164,11 +164,11 @@ const kochi: CityContent = {
     },
     {
       id: "ownership-kochi",
-      heading: "Ownership, handover and five free months of support",
+      heading: "Ownership, handover and two free months of support",
       paragraphs: [
         "We regularly meet Kochi businesses that cannot edit their own website. The developer registered the domain under their own name, the hosting renewal email goes to an address no one checks, and when the SSL certificate lapsed, browsers began warning visitors. Untangling this can take weeks.",
         "Our rule is simple. The domain is registered in your name, hosting sits on an account you control, and at launch you receive every login, the full source code and a short note explaining how the site is put together. If you ever want to move to another developer, you can do so the same day without paying us anything.",
-        "The first five months after launch include free maintenance: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. That covers at least one monsoon and one festival season. Afterwards, maintenance continues from ₹8,000 a month, or you can pay only for individual changes.",
+        "The first two months after launch include free maintenance: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. That covers at least one monsoon and one festival season. Afterwards, maintenance continues from ₹8,000 a month, or you can pay only for individual changes.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const kochi: CityContent = {
     {
       question: "What does the free maintenance period cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance is available from ₹8,000 a month. If your site rarely changes, you can instead contact us only when you need something done.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance is available from ₹8,000 a month. If your site rarely changes, you can instead contact us only when you need something done.",
     },
     {
       question: "Can you guarantee my business will rank first on Google?",

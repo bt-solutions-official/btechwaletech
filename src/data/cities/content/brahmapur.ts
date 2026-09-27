@@ -7,7 +7,7 @@ const brahmapur: CityContent = {
   meta: {
     title: "IT Services in Brahmapur: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Berhampur shops, silk weavers, clinics and coaching centres. From ₹10,000 with 5 months of free maintenance.",
+      "Websites, local SEO and WhatsApp automation for Berhampur shops, silk weavers, clinics and coaching centres. From ₹10,000 with 2 months of free maintenance.",
     keywords: [
       "website development team in Berhampur",
       "website designer Brahmapur",
@@ -30,11 +30,11 @@ const brahmapur: CityContent = {
     eyebrow: "Brahmapur (Berhampur) · Odisha",
     h1: "Website design, local SEO and automation for Berhampur businesses",
     lede:
-      "From silk sellers in Bada Bazaar to clinics near MKCG and coaching centres around Gandhi Nagar, Berhampur customers now look you up before they visit. Our remote team of three engineers builds fast websites, online stores and WhatsApp automations at published prices, with five free months of maintenance after launch.",
+      "From silk sellers in Bada Bazaar to clinics near MKCG and coaching centres around Gandhi Nagar, Berhampur customers now look you up before they visit. Our remote team of three engineers builds fast websites, online stores and WhatsApp automations at published prices, with two free months of maintenance after launch.",
     pills: ["Sites from ₹10,000", "Odia, Telugu and English searches", "Silk and sweets stores with UPI", "WhatsApp enquiry automation", "Domain in your name"],
   },
   quickAnswer:
-    "In Berhampur (Brahmapur), a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, and every project includes five months of free maintenance.",
+    "In Berhampur (Brahmapur), a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, and every project includes two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The Silk City of Odisha, also called the state’s food capital" },
     { label: "Main markets", value: "Bada Bazaar, Annapurna Market, Bhapur Bazaar and Gate Bazar" },
@@ -51,10 +51,10 @@ const brahmapur: CityContent = {
     ai: "WhatsApp assistants that reply to routine questions in Odia or English and hand real enquiries to your staff before they go cold.",
     data: "Sales and stock reports turned into simple dashboards for traders who supply shops across Ganjam and the southern districts.",
     app: "Android and iOS apps for orders, appointments and student portals that run well on budget phones, from ₹40,000 in six to ten weeks.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, with Thakurani Yatra and festival rushes planned for.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then from ₹8,000 a month, with Thakurani Yatra and festival rushes planned for.",
   },
   whyUsIntro:
-    "Berhampur has plenty of people who can make a website, but few who publish prices or stay reachable once the job is done. We list our starting prices openly, reply on WhatsApp seven days a week, and look after every site for five months after launch without charging for it.",
+    "Berhampur has plenty of people who can make a website, but few who publish prices or stay reachable once the job is done. We list our starting prices openly, reply on WhatsApp seven days a week, and look after every site for two months after launch without charging for it.",
   pricingIntro:
     "Website prices in Berhampur are often shared only after a meeting, and they can differ several times over for the same work. Here are our starting prices in writing. Your exact quote depends on the pages, products and features you need, and it comes itemised before we start anything.",
   sections: [
@@ -72,7 +72,7 @@ const brahmapur: CityContent = {
       heading: "Website prices for Berhampur businesses",
       paragraphs: [
         "We publish our starting prices so you can plan before talking to anyone. A simple website of up to 100 pages starts at ₹10,000 and is usually live within one to two weeks. A 299+ page SEO site, with separate pages for each service, product line and area you cover, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card payments starts at ₹50,000. Custom web applications such as booking systems or dealer portals start at ₹60,000.",
-        "Automation projects begin at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the five free months are over. You can compare these on our <a href=\"/pricing/\">pricing page</a>.",
+        "Automation projects begin at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the two free months are over. You can compare these on our <a href=\"/pricing/\">pricing page</a>.",
         "What changes the final number is scope. A sweet shop with fifteen items and good photos is quicker to build than a saree store with three hundred designs and no descriptions. We list every page and feature in the quote, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -172,11 +172,11 @@ const brahmapur: CityContent = {
     },
     {
       id: "ownership-maintenance-berhampur",
-      heading: "Your domain, your code, and free maintenance for five months",
+      heading: "Your domain, your code, and free maintenance for two months",
       paragraphs: [
         "Many older Berhampur websites were set up by someone who kept the domain in their own name. When that person moves away or stops answering, the business loses control of its own website. We make sure that cannot happen.",
         "Your domain is registered to you, your hosting account is in your name, and at launch you get every login and a short guide to what runs where. The code is yours, and you can hand it to any other developer at any time without an exit fee.",
-        "For five months after launch, maintenance costs nothing. That includes content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. Afterwards, maintenance starts at ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance costs nothing. That includes content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. Afterwards, maintenance starts at ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const brahmapur: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks without charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change instead.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks without charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change instead.",
     },
     {
       question: "Do you work with businesses in Gopalpur, Chhatrapur and other Ganjam towns?",

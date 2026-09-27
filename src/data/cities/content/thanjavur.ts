@@ -30,7 +30,7 @@ const thanjavur: CityContent = {
     eyebrow: "Thanjavur · Tamil Nadu",
     h1: "Websites, apps, SEO and AI automation for Thanjavur's rice mills, craft workshops, clinics and temple-town trade",
     lede:
-      "We are three engineers working remotely for businesses in Thanjavur and the Kaveri delta: rice millers on Nanjikottai Road, painting and art plate workshops, veena makers, hotels near the Big Temple, hospitals on Medical College Road and colleges around Vallam. Prices are published, you deal with the developers directly, and the first five months of maintenance cost nothing.",
+      "We are three engineers working remotely for businesses in Thanjavur and the Kaveri delta: rice millers on Nanjikottai Road, painting and art plate workshops, veena makers, hotels near the Big Temple, hospitals on Medical College Road and colleges around Vallam. Prices are published, you deal with the developers directly, and the first two months of maintenance cost nothing.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Craft stores with UPI", "Rice mill and agri sites", "WhatsApp enquiry handling"],
   },
   quickAnswer:
@@ -51,7 +51,7 @@ const thanjavur: CityContent = {
     ai: "WhatsApp replies in Tamil and English that send price lists, painting sizes or hotel availability while you are in the workshop or at the mandi.",
     data: "Season-by-season dashboards of paddy intake, milling output, room bookings or patient visits that you can read on your phone.",
     app: "Android and iOS apps for hostel attendance, clinic tokens or dealer orders, published on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Content changes, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content changes, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Thanjavur has plenty of skilled people but few firms that build and look after websites properly. Many local sites were made once, for a festival season or an admission drive, and never touched again. We publish starting prices, write in Tamil and English, reply on WhatsApp every day of the week, and hand you full ownership of the domain and code from day one.",
@@ -167,7 +167,7 @@ const thanjavur: CityContent = {
       paragraphs: [
         "A familiar story in smaller cities: a developer registers the domain in their own name, moves away or stops answering, and the business cannot renew it or change a phone number. Years of Google reputation disappear with the domain.",
         "We avoid that from the start. Domain and hosting are registered in your name, and at launch you receive every login, the complete source code and a short note on how the site is set up. You can move to another developer at any time without an exit fee or permission from us.",
-        "The first five months after launch include free maintenance: content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when something needs changing. Either way, the site keeps working for you rather than depending on us.",
+        "The first two months after launch include free maintenance: content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when something needs changing. Either way, the site keeps working for you rather than depending on us.",
       ],
     },
     {
@@ -261,9 +261,9 @@ const thanjavur: CityContent = {
         "Yes. The domain and hosting are in your name, and at launch you receive all logins, the full source code and setup notes. You can move to any developer whenever you like, without an exit fee. We do this because lost domains are a very common problem for small businesses.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch we handle updates, fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change. You are never locked into a contract to keep the site running.",
+        "For two months after launch we handle updates, fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change. You are never locked into a contract to keep the site running.",
     },
     {
       question: "Do you also work in Kumbakonam, Pattukkottai and Thiruvarur?",

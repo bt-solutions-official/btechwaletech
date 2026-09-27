@@ -7,7 +7,7 @@ const pune: CityContent = {
   meta: {
     title: "Pune Website Development & SEO | Sites from ₹10,000",
     description:
-      "Websites, SEO, web apps and AI automation for Pune businesses by a remote team of three engineers. From ₹10,000, with five months of free maintenance after launch.",
+      "Websites, SEO, web apps and AI automation for Pune businesses by a remote team of three engineers. From ₹10,000, with two months of free maintenance after launch.",
     keywords: [
       "website development team in Pune",
       "web design team Pune",
@@ -31,11 +31,11 @@ const pune: CityContent = {
     eyebrow: "Pune · Maharashtra",
     h1: "Web development, SEO and automation for Pune firms, factories and institutes",
     lede:
-      "Three engineers building websites, web apps and automation for Chakan and Bhosari suppliers, Hinjewadi and Kharadi tech teams, peth-area traders, colleges and clinics across Pune. Our prices are on this page, you work directly with the people writing the code, and five months of maintenance after launch are included free.",
+      "Three engineers building websites, web apps and automation for Chakan and Bhosari suppliers, Hinjewadi and Kharadi tech teams, peth-area traders, colleges and clinics across Pune. Our prices are on this page, you work directly with the people writing the code, and two months of maintenance after launch are included free.",
     pills: ["Sites from ₹10,000", "Marathi and English SEO", "UPI checkout stores", "WhatsApp automation", "Custom web apps"],
   },
   quickAnswer:
-    "For a Pune business, a website with us starts at ₹10,000, and a 299+ page SEO website at ₹20,000, typically delivered within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote three-engineer team with no Pune office, and five months of maintenance come free.",
+    "For a Pune business, a website with us starts at ₹10,000, and a 299+ page SEO website at ₹20,000, typically delivered within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote three-engineer team with no Pune office, and two months of maintenance come free.",
   snapshot: [
     { label: "Business districts", value: "Deccan, FC Road, JM Road, Camp and MG Road, Koregaon Park, Baner and the old peth areas" },
     { label: "IT hubs", value: "Rajiv Gandhi Infotech Park in Hinjewadi, EON Free Zone and WTC in Kharadi, Magarpatta, SP Infocity at Phursungi" },
@@ -52,10 +52,10 @@ const pune: CityContent = {
     ai: "AI assistants and WhatsApp workflows that handle admission, appointment and order questions in Marathi, Hindi or English.",
     data: "Production, sales and admissions data turned into dashboards that a plant head or principal can open on a phone.",
     app: "Android and iOS apps for bookings, field service and dealer orders, built in Flutter or React Native and published on both stores from ₹40,000.",
-    maintenance: "Updates, backups, security patches and speed monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and speed monitoring, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Pune is full of capable developers, many of them working at large IT firms by day. Finding one who will commit to a small business website, publish a price and still reply six months later is harder. We publish our starting prices, answer on WhatsApp every day and look after your site free for five months after it goes live.",
+    "Pune is full of capable developers, many of them working at large IT firms by day. Finding one who will commit to a small business website, publish a price and still reply six months later is harder. We publish our starting prices, answer on WhatsApp every day and look after your site free for two months after it goes live.",
   pricingIntro:
     "Pune web design quotes range from a few thousand rupees to lakhs, often for sites that look alike. These are our real starting prices. The final amount depends on the pages, features and content you need, and you see every line of it before we begin.",
   sections: [
@@ -182,11 +182,11 @@ const pune: CityContent = {
     },
     {
       id: "ownership-maintenance-pune",
-      heading: "Full ownership from launch, with five months of free maintenance",
+      heading: "Full ownership from launch, with two months of free maintenance",
       paragraphs: [
         "Many Pune businesses discover too late that they don't control their own website. The domain was booked by a freelancer who has since moved to Bengaluru, the hosting is billed to someone else's card, and nobody knows how to change a phone number on the contact page.",
         "We set things up the other way round. Your domain and hosting are registered in your name, and at launch you get every login, the complete source code and a short document explaining the setup. You can switch developers whenever you like, with no exit fee.",
-        "For five months after launch, maintenance is free. That covers text and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can message us only when a change is needed and pay for that work.",
+        "For two months after launch, maintenance is free. That covers text and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can message us only when a change is needed and pay for that work.",
       ],
     },
   ],
@@ -271,9 +271,9 @@ const pune: CityContent = {
         "Yes. The domain and hosting are in your name, and at launch you receive all logins plus the full source code. You can move to any other developer at any time, with no exit charge.",
     },
     {
-      question: "What does the free five-month maintenance include?",
+      question: "What does the free two-month maintenance include?",
       answer:
-        "After launch, the first five months cover content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes.",
+        "After launch, the first two months cover content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Do you work with businesses in Pimpri-Chinchwad, Talegaon and Satara?",

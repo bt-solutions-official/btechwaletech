@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Haridwar · Uttarakhand · Freelance software and automation",
     h1: "Freelance software and AI developers in Haridwar for factories, trusts and pilgrim services",
     lede:
-      "If you are comparing a software development team in Haridwar with other options, consider BtechWaleTech: a freelance group of three engineers working remotely from India. We write vendor and batch software for SIDCUL and Bhagwanpur units, donation and room systems for ashrams and trusts, AI agents for pilgrim enquiries, dashboards and apps, all with public starting prices and five free months of maintenance.",
+      "If you are comparing a software development team in Haridwar with other options, consider BtechWaleTech: a freelance group of three engineers working remotely from India. We write vendor and batch software for SIDCUL and Bhagwanpur units, donation and room systems for ashrams and trusts, AI agents for pilgrim enquiries, dashboards and apps, all with public starting prices and two free months of maintenance.",
     pills: ["Factory software from ₹60,000", "AI automation from ₹40,000", "Kumbh and Kanwar-ready hosting", "Trust donation receipts", "Hindi-first screens"],
   },
   quickAnswer:
-    "Freelance software development for Haridwar with BtechWaleTech starts at ₹60,000 for custom software such as SIDCUL vendor portals or trust management systems, and ₹40,000 for AI and WhatsApp automation. Builds take two to twelve weeks. We are three engineers working remotely from India, quoting in about two working days, with five months of free maintenance.",
+    "Freelance software development for Haridwar with BtechWaleTech starts at ₹60,000 for custom software such as SIDCUL vendor portals or trust management systems, and ₹40,000 for AI and WhatsApp automation. Builds take two to twelve weeks. We are three engineers working remotely from India, quoting in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Industrial base", value: "The SIIDCUL Integrated Industrial Estate near Roshnabad, BHEL's heavy electrical plant at Ranipur, and the Bhagwanpur and Bahadrabad manufacturing belts" },
     { label: "Main manufacturing sectors", value: "FMCG, pharmaceuticals, Ayurvedic and herbal products, electrical equipment, packaging and fabrication" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI assistants that answer pilgrims in several Indian languages and read purchase orders or delivery schedules from email for factory staff.",
     data: "Dashboards covering production, dispatch, room occupancy or donations, readable on a phone by owners and trustees.",
     app: "Android and iOS apps for Haridwar factory supervisors, dharamshala guests and Ayurveda customers, built in Flutter or React Native and published on both app stores, from ₹40,000.",
-    maintenance: "Fixes, backups and updates free for five months after launch, then from ₹8,000 a month, with extra checks ahead of peak pilgrimage dates.",
+    maintenance: "Fixes, backups and updates free for two months after launch, then from ₹8,000 a month, with extra checks ahead of peak pilgrimage dates.",
   },
   whyUsIntro:
     "Haridwar's industrial estate and its pilgrim economy both need dependable software, yet local choice is limited and Delhi vendors seldom understand either. A freelance group that writes its own code, plans for Kanwar and Kumbh traffic and answers WhatsApp every day offers a steadier arrangement than a distant sales office.",
@@ -189,7 +189,7 @@ const content: CityContent = {
       id: "it-support-haridwar",
       heading: "IT support and maintenance for Haridwar clients",
       paragraphs: [
-        "Every Haridwar project we deliver includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you can pay only when work is needed.",
+        "Every Haridwar project we deliver includes two months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you can pay only when work is needed.",
         "For trusts and pilgrim services, we schedule a pre-season check before the Kanwar Yatra and major festivals: load testing, backup restores, content updates for timings and rules, and a review of who can access what. For factories, we align updates with low-production periods so changes never disrupt dispatch.",
         "Support runs on WhatsApp seven days a week with the same engineers who built the system, so problems are diagnosed quickly without handovers.",
       ],
@@ -283,7 +283,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "Five months of maintenance come free after launch, covering bug fixes, security updates, backups, uptime monitoring, speed checks and small content or setting changes. After that, plans start at ₹8,000 a month, or you contact us only when you need work done.",
+        "Two months of maintenance come free after launch, covering bug fixes, security updates, backups, uptime monitoring, speed checks and small content or setting changes. After that, plans start at ₹8,000 a month, or you contact us only when you need work done.",
     },
     {
       question: "Can an AI assistant reply to pilgrims in different languages?",

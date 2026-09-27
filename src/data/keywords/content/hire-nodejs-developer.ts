@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Stack", "Node.js LTS, TypeScript, SQL or NoSQL"],
     ["Code ownership", "Your GitHub or GitLab from day one"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can read and review your backend" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Backend project", value: `From ${P.software}, 6–12 weeks` },
       { label: "Small automation or bot", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Ownership", value: "Repo, cloud account and secrets vault in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does it cost to hire a Node.js developer in India?",
       paragraphs: [
-        `Project work is the easiest to budget. With BtechWaleTech, a custom Node.js backend or web application starts at ${P.software} (${P.softwareUsd} for clients abroad) and takes 6–12 weeks. A focused automation or integration service starts at ${P.ai}. After five free months of maintenance, ongoing care starts at ${P.care} per month.`,
+        `Project work is the easiest to budget. With BtechWaleTech, a custom Node.js backend or web application starts at ${P.software} (${P.softwareUsd} for clients abroad) and takes 6–12 weeks. A focused automation or integration service starts at ${P.ai}. After two free months of maintenance, ongoing care starts at ${P.care} per month.`,
         `If you compare hourly or monthly rates from other developers, you will see a wide spread. The spread reflects experience with production systems, whether testing and documentation are included, time-zone overlap, and whether the price covers DevOps and front-end work or only the API. Two quotes are only comparable when the scope lists the same endpoints, integrations and quality bar.`,
         `Remember the costs that are not the developer’s fee: cloud hosting, managed database, logging and monitoring tools, SMS or email providers, and API usage for AI models. We estimate these monthly running costs in the quote, because an elegant backend that costs too much to run is not a success.`,
       ],
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to illustrate the process, not a description of a real client.`,
         `A group of three physiotherapy clinics wants patients to book slots from a mobile app and the website, receive WhatsApp reminders, and pay online. The owners want to hire a Node.js developer for the backend while a front-end developer they already know builds the app screens.`,
-        `A good plan would start with an OpenAPI contract for patients, therapists, clinics, slots, bookings and payments, agreed with the app developer in week one. The booking endpoint needs a database constraint so two patients can never hold the same slot, even under simultaneous requests. Payment callbacks are handled idempotently. Reminders go to a queue so a slow WhatsApp API never delays a booking response. Patient phone numbers are encrypted at rest and masked in logs. The estimate would start at ${P.software}, run about eight weeks, and include staging, CI and a runbook, with five months of free fixes after go-live.`,
+        `A good plan would start with an OpenAPI contract for patients, therapists, clinics, slots, bookings and payments, agreed with the app developer in week one. The booking endpoint needs a database constraint so two patients can never hold the same slot, even under simultaneous requests. Payment callbacks are handled idempotently. Reminders go to a queue so a slow WhatsApp API never delays a booking response. Patient phone numbers are encrypted at rest and masked in logs. The estimate would start at ${P.software}, run about eight weeks, and include staging, CI and a runbook, with two months of free fixes after go-live.`,
       ],
     },
     {
@@ -327,7 +327,7 @@ const content: FreelanceContent = {
         ["Android and iOS app with backend", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "API for the app, push jobs"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Orders, payments, stock sync"],
         ["AI or WhatsApp automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Webhooks, queues, LLM calls"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Upgrades, patches, monitoring"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Upgrades, patches, monitoring"],
       ],
       hideSm: [2],
     },
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Repository and cloud in your name", "You create the GitHub or GitLab organisation and cloud account and invite us. CI, staging and secrets management are set up first."],
       ["Build in reviewed slices", "Features arrive on staging with API docs and tests. Every pull request is reviewed by a second team member before merging."],
       ["Harden and release", "Load tests on busy endpoints, the security checklist, monitoring, alerts and a tested backup restore come before production traffic."],
-      ["Hand over and support", "You receive the architecture note and runbook. Five months of fixes are free; ongoing care starts at " + P.care + " per month if you want it."],
+      ["Hand over and support", "You receive the architecture note and runbook. Two months of fixes are free; ongoing care starts at " + P.care + " per month if you want it."],
     ],
   },
   faqHeading: "Hire a Node.js developer: common questions",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Which database should a Node.js backend use?", answer: "PostgreSQL is our default for business systems because it handles relations, transactions and constraints well, and it can store JSON when needed. MongoDB suits document-shaped data with flexible fields, and Redis is used for caching, rate limits and queues. The right choice follows your data, not the language; a good developer explains the reason." },
     { question: "What does a Node.js developer need from me to start?", answer: "A description of the users and what each must be able to do, the systems the backend must connect to with any existing API documentation, examples of similar products you like, your expected number of users in the first year, and access to your repository and cloud account. A short call answers the rest." },
     { question: "How do payments work when I hire your Node.js developers?", answer: "Work is split into milestones that end in something you can test on staging, such as core endpoints with tests or completed integrations. Each milestone is demonstrated before its payment. Clients in India pay by UPI or bank transfer, and international clients by Wise, bank wire or PayPal. Nothing is billed before you approve the written estimate." },
-    { question: "What support do I get after the Node.js backend goes live?", answer: `Five months of maintenance are free after launch, covering bug fixes, small changes, security patches and monitoring checks. After that, optional care starts at ${P.care} per month and includes Node.js and dependency upgrades, backups checks and small feature work. You can also hand the documented codebase to your own team at any time.` },
+    { question: "What support do I get after the Node.js backend goes live?", answer: `Two months of maintenance are free after launch, covering bug fixes, small changes, security patches and monitoring checks. After that, optional care starts at ${P.care} per month and includes Node.js and dependency upgrades, backups checks and small feature work. You can also hand the documented codebase to your own team at any time.` },
     { question: "Nodejs developer chahiye, kaise hire karein?", answer: `Pehle likh lijiye ki backend ko kya karna hai aur kin systems se judna hai. Phir chaar se chhe ghante ka paid test task dijiye aur code saath baith kar dekhiye. Code hamesha aapke repository mein ho. BtechWaleTech custom Node.js backend ${P.software} se banata hai, aur quote lagbhag do working days mein milta hai.` },
     { question: "What are the biggest mistakes when hiring a Node.js developer?", answer: "Hiring on framework keywords instead of tested skills, skipping a paid test task, letting code live in the developer’s personal account, accepting no tests around payments or authentication, and approving microservices for a product without users. Each of these is cheap to avoid at the start and expensive to fix six months later." },
   ],

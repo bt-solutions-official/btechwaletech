@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Booking + payment build", `From ${P.software}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Client data stored", "Your accounts, not ours"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
     ["Languages", "English and Hindi pages"],
   ],
   stats: [
     { value: "3", label: "Developers who know your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Client records kept on our side" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Reminder automation", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Where data lives", value: "Hosting and storage accounts in the practice’s name" },
       { label: "Search visibility", value: `Monthly SEO from ${P.seo}; no ranking promises` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp reminders", note: `Session reminders and reschedule links that never mention therapy in the message preview, from ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "md" },
       { name: "Therapy app", note: `A private Android and iOS app for journaling, worksheets or group programmes, from ${P.app}, published in your own store accounts.`, href: "/it-services/android-ios-app/", size: "sm" },
       { name: "Search and local visibility", note: `Google Business Profile, schema and helpful articles written without fear-selling, from ${P.seo} a month.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Upkeep and security updates", note: `Five free months after launch, then optional care from ${P.care}: backups, updates and small content edits.`, size: "sm" },
+      { name: "Upkeep and security updates", note: `Two free months after launch, then optional care from ${P.care}: backups, updates and small content edits.`, size: "sm" },
     ],
   },
   comparison: {
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own all of it: domain, hosting, code and every record. We work inside accounts registered to you and keep no copies of client data on our side.`,
         `At handover you receive repository access, admin logins, a list of every service with renewal dates, and a one-page note on how intake data flows, where backups sit and how to remove a staff member’s access. That note is useful if you ever need to explain your setup to a lawyer or a new practice manager.`,
-        `After launch, five months of maintenance are free: security updates, backups checks, small edits to fees or timings, and fixes. After that, care continues from ${P.care} a month only if you want it, or you can hand the site to anyone else. Because the code and accounts are yours, leaving is simple.`,
+        `After launch, two months of maintenance are free: security updates, backups checks, small edits to fees or timings, and fixes. After that, care continues from ${P.care} a month only if you want it, or you can hand the site to anyone else. Because the code and accounts are yours, leaving is simple.`,
       ],
     },
     {
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
         ["Booking, payment, intake, portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Practices with several therapists"],
         ["WhatsApp reminders and follow-ups", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Busy calendars with no-shows"],
         ["Companion app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Group programmes, worksheets"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, edits"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, edits"],
       ],
       hideSm: [2],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Accounts opened in your name", "Domain, hosting, database and meeting accounts belong to the practice. We join as users you can remove at any time."],
       ["Private staging site for review", "You read every page on your own phone. We rewrite anything that sounds like a sales pitch or a promise about outcomes."],
       ["Pretend-client testing", "Before launch, we book, pay, reschedule and cancel as a test client, check reminder previews and confirm no answers leak into email."],
-      ["Launch, handover, five free months", `Search Console, handover notes and logins go to you. Maintenance is free for five months, then optional from ${P.care}.`],
+      ["Launch, handover, two free months", `Search Console, handover notes and logins go to you. Maintenance is free for two months, then optional from ${P.care}.`],
     ],
   },
   faqHeading: "Psychologist website design: questions therapists ask",
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
     { question: "How do payments to BtechWaleTech work?", answer: "In India you pay by UPI or bank transfer in stages tied to work you can see, starting only after you approve the itemised written quote. Clients outside India pay in USD by Wise, bank wire or PayPal. Specific milestones and terms are agreed in your written quote; see our terms page for general conditions." },
     { question: "Is a mobile app useful for a therapy practice?", answer: `Usually not at the start. A mobile-friendly site with booking covers most needs. An app makes sense for ongoing group programmes, guided exercises between sessions or journaling features. BtechWaleTech builds Android and iOS apps from ${P.app}, published in your own Google Play and App Store accounts.` },
     { question: "Can you move my existing therapy website without losing search traffic?", answer: "Yes. We list every current URL, rebuild the pages, set up permanent redirects from old addresses to new ones, and check Google Search Console after launch. We also remove any old forms that store answers insecurely, and move enquiry data only if you ask and it is needed." },
-    { question: "What happens after the five free months of maintenance?", answer: `You choose. Maintenance can continue from ${P.care} a month for security updates, backups, fee changes and small edits, or you can manage the site yourself or pass it to another developer. Since everything sits in your accounts, no handover fee or permission is needed.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You choose. Maintenance can continue from ${P.care} a month for security updates, backups, fee changes and small edits, or you can manage the site yourself or pass it to another developer. Since everything sits in your accounts, no handover fee or permission is needed.` },
     { question: "Psychologist ki website banwane mein kitna time aur kharcha lagta hai?", answer: `Simple practice website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Online booking, payment aur private video link wala system ${P.software} se shuru hota hai. Client ka data aapke apne account mein encrypted rehta hai. Quote itemised milta hai aur approval ke baad hi kaam shuru hota hai.` },
   ],
   related: {
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a therapy practice website? Start with a data conversation",
-    note: `Message us on WhatsApp with how you book clients today. You get an itemised quote in about two working days, with practice sites from ${P.site}, every account in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with how you book clients today. You get an itemised quote in about two working days, with practice sites from ${P.site}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

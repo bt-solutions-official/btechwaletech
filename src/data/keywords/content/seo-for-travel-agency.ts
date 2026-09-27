@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who build and optimise the site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after a new build" },
+    { value: "2", label: "Months of free maintenance after a new build" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
         ["Large catalogue of packages and cities", "SEO travel site with 299+ generated pages", `${P.seoSite}`, "3–5 weeks"],
         ["Want online booking with payment", "Travel store with UPI and card checkout", `${P.shop}`, "4–8 weeks"],
         ["Too many WhatsApp enquiries to handle", "AI-assisted replies and lead sorting", `${P.ai}`, "2–4 weeks"],
-        ["Need upkeep after launch", "Maintenance after 5 free months", `${P.care} per month`, "Ongoing"],
+        ["Need upkeep after launch", "Maintenance after 2 free months", `${P.care} per month`, "Ongoing"],
       ],
       hideSm: [1],
     },

@@ -7,7 +7,7 @@ const rampur: CityContent = {
   meta: {
     title: "Rampur Website Design, SEO & Stores from ₹10,000",
     description:
-      "Websites, local SEO, UPI stores and WhatsApp automation for Rampur zari, patchwork, mentha and trade businesses. Fixed starting prices and 5 months free upkeep.",
+      "Websites, local SEO, UPI stores and WhatsApp automation for Rampur zari, patchwork, mentha and trade businesses. Fixed starting prices and 2 months free upkeep.",
     keywords: [
       "website development team in Rampur",
       "web designer Rampur UP",
@@ -31,11 +31,11 @@ const rampur: CityContent = {
     eyebrow: "Rampur · Uttar Pradesh",
     h1: "Web, app, SEO and automation services for Rampur's zari workshops, mentha traders and bazaar shops",
     lede:
-      "We are three engineers who work remotely and build websites, online stores, Google Maps visibility and WhatsApp workflows for Rampur district, from zari and appliqué workshops near Shahabad Gate to mentha buyers in Bilaspur and clinics on Civil Lines. Prices are published, you deal directly with the people writing the code, and the first five months of upkeep cost nothing.",
-    pills: ["Sites from ₹10,000", "Urdu, Hindi and English pages", "Zari and appliqué catalogues", "Mentha trade enquiries", "Five months free upkeep"],
+      "We are three engineers who work remotely and build websites, online stores, Google Maps visibility and WhatsApp workflows for Rampur district, from zari and appliqué workshops near Shahabad Gate to mentha buyers in Bilaspur and clinics on Civil Lines. Prices are published, you deal directly with the people writing the code, and the first two months of upkeep cost nothing.",
+    pills: ["Sites from ₹10,000", "Urdu, Hindi and English pages", "Zari and appliqué catalogues", "Mentha trade enquiries", "Two months free upkeep"],
   },
   quickAnswer:
-    "A business website in Rampur costs from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store with UPI at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Rampur office, and upkeep is free for five months.",
+    "A business website in Rampur costs from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store with UPI at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Rampur office, and upkeep is free for two months.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Rampur district, Moradabad division, on the Lucknow–Moradabad rail line and NH 9" },
     { label: "Tehsils", value: "Rampur, Bilaspur, Suar, Tanda, Shahabad and Milak" },
@@ -52,10 +52,10 @@ const rampur: CityContent = {
     ai: "WhatsApp bots that send the day's mentha rate sheet, design photos or fee details in Urdu, Hindi or English and hand serious buyers to you.",
     data: "Dashboards that show which designs sold, which karigars finished on time and which trade buyers still owe money.",
     app: "Android and iOS apps for school notices, coaching batches or wholesale reorders, available on Google Play and the App Store starting at ₹40,000.",
-    maintenance: "Five months of free updates, backups and security fixes after launch; after that ₹8,000 a month, or only pay when you need a change.",
+    maintenance: "Two months of free updates, backups and security fixes after launch; after that ₹8,000 a month, or only pay when you need a change.",
   },
   whyUsIntro:
-    "Rampur businesses usually get websites through a relative, a cyber café or an agency in Moradabad or Bareilly, and the result is often a site nobody can update. We publish our prices, answer on WhatsApp every day of the week, put the domain in your name and keep looking after the site for five months without charge.",
+    "Rampur businesses usually get websites through a relative, a cyber café or an agency in Moradabad or Bareilly, and the result is often a site nobody can update. We publish our prices, answer on WhatsApp every day of the week, put the domain in your name and keep looking after the site for two months without charge.",
   pricingIntro:
     "Website pricing in Rampur is mostly word of mouth, and two quotes for the same job can differ tenfold. Below are our real starting prices. The final amount depends on how many pages, products and features you need, and you get it item by item in writing before we start.",
   sections: [
@@ -168,7 +168,7 @@ const rampur: CityContent = {
       paragraphs: [
         "We hear the same story in Rampur again and again: a relative or local operator registered the domain in his own name, moved away or stopped answering, and the business lost its site and email address with it. Fixing that later is slow and sometimes impossible.",
         "So the domain and hosting are bought in your name from day one. At launch you receive every password, the complete source code and a short note on how things are set up. If you ever want another developer, you can move without asking our permission and without paying any exit fee.",
-        "Maintenance is free for five months after launch: text and price edits, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it costs from ₹8,000 a month, or you can skip the plan and message us only when you need something done.",
+        "Maintenance is free for two months after launch: text and price edits, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it costs from ₹8,000 a month, or you can skip the plan and message us only when you need something done.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const rampur: CityContent = {
     {
       question: "What is covered by free maintenance?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can message us only when a change is needed and pay for that work alone.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can message us only when a change is needed and pay for that work alone.",
     },
     {
       question: "How soon will SEO show results in Rampur?",

@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Who owns the property", "You", "Sometimes created under the seller's login", "Created in your Google account"],
       ["Testing before handover", "Whatever you notice", "Screenshot of real-time report", "DebugView and live test leads for each event"],
       ["Reports for the owner", "Default GA4 screens", "Default GA4 screens", "Lead-source report built around your enquiries"],
-      ["Help after setup", "Forums", "Ends with the gig", "WhatsApp, and 5 months free maintenance on sites we build"],
+      ["Help after setup", "Forums", "Ends with the gig", "WhatsApp, and 2 months free maintenance on sites we build"],
     ],
     fine: "A careful owner can do a basic GA4 install alone; the value of a setup service is mostly in the planning, the testing and the lead events that tutorials skip.",
   },
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
         "Custom reports or a Looker Studio dashboard for the owner.",
       ],
       after: [
-        `Ongoing work, such as checking tracking after site changes and reviewing lead sources monthly, fits inside monthly SEO from ${P.seo} (${P.seoUsd}). Sites we build come with 5 months of free maintenance, after which care plans start at ${P.care}. For the broader picture of SEO spend, see <a href='/seo-services-for-small-business/'>SEO services for small business</a>.`,
+        `Ongoing work, such as checking tracking after site changes and reviewing lead sources monthly, fits inside monthly SEO from ${P.seo} (${P.seoUsd}). Sites we build come with 2 months of free maintenance, after which care plans start at ${P.care}. For the broader picture of SEO spend, see <a href='/seo-services-for-small-business/'>SEO services for small business</a>.`,
       ],
     },
     {
@@ -438,7 +438,7 @@ const content: FreelanceContent = {
     { question: "Will GA4 show traffic from ChatGPT and AI search?", answer: "Visits from AI assistants usually arrive as referrals from their domains, and some AI features pass no referrer at all. We add a custom channel group so identifiable AI referrals appear on their own row, and you can see whether they produce key events. GA4 cannot show whether you are mentioned inside AI answers; it only sees people who click through." },
     { question: "Should I hire a freelancer or an agency for GA4 setup?", answer: "Either can do it well; check the scope, not the label. Ask for a written measurement plan, confirmation that the property stays in your account, and a testing method covering mobile. With BtechWaleTech you speak directly to the developer building your setup, on WhatsApp, and the quote is itemised before any work begins." },
     { question: "Do you set up GA4 for mobile apps too?", answer: "We build Android and iOS apps in Flutter or React Native, with apps starting at " + P.app + ". App analytics uses Firebase with GA4, with app data streams that behave differently from web streams, including a limit of 500 distinctly named events per app user noted in Google’s help centre. For an app we plan events as part of the build rather than as a separate web setup." },
-    { question: "What happens after the GA4 setup is finished?", answer: "You receive the measurement plan, a changelog, the owner report and a short walkthrough video. Tracking breaks when sites change, so recheck after redesigns, new forms or plugin updates. Sites we build include 5 months of free maintenance, and ongoing tracking checks can be part of monthly SEO. For any other arrangement, ask us and it will be agreed in your written quote." },
+    { question: "What happens after the GA4 setup is finished?", answer: "You receive the measurement plan, a changelog, the owner report and a short walkthrough video. Tracking breaks when sites change, so recheck after redesigns, new forms or plugin updates. Sites we build include 2 months of free maintenance, and ongoing tracking checks can be part of monthly SEO. For any other arrangement, ask us and it will be agreed in your written quote." },
     { question: "How do I pay for a GA4 setup service?", answer: "Clients in India pay by UPI or bank transfer, and clients abroad pay by Wise, bank wire or PayPal, with quotes in US dollars. You receive an itemised quote first and nothing is billed until you approve it in writing. Payment milestones for larger jobs are set out in the quote; our terms and refund policy pages cover the general rules." },
   ],
   related: {

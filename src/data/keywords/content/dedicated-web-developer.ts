@@ -35,14 +35,14 @@ const content: FreelanceContent = {
   facts: [
     ["Project builds from", `${P.site} (site) · ${P.software} (web app)`],
     ["Ongoing care from", `${P.care} · ${P.careUsd}`],
-    ["Free period after launch", "5 months of maintenance"],
+    ["Free period after launch", "2 months of maintenance"],
     ["Who you work with", "Ankur, Santosh and Vedansh directly"],
     ["Monthly scope", "Agreed in your written quote"],
     ["Payment", "UPI, bank transfer, Wise, wire or PayPal"],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
-    { value: "5", label: "Free months of maintenance after a build" },
+    { value: "2", label: "Free months of maintenance after a build" },
     { value: "2", label: "Working days to an itemised estimate" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Pick dedicated when", value: "Work arrives every week and priorities shift" },
       { label: "Pick project when", value: "You can list the deliverables on one page" },
       { label: "Web app build", value: `From ${P.software}, 6–12 weeks` },
-      { label: "Monthly care", value: `From ${P.care} after 5 free months` },
+      { label: "Monthly care", value: `From ${P.care} after 2 free months` },
       { label: "Ownership", value: "Repository, hosting and domain in your name" },
     ],
   },
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How dedicated web developer costs compare with project pricing",
-    note: `Project work is priced from the starting points in the table below: sites from ${P.site}, web apps from ${P.software}, apps from ${P.app}. A dedicated or monthly arrangement is priced differently: you pay for an agreed slice of the team's time or an agreed monthly scope, whether or not every hour is used. That is why it only makes sense when the backlog is steady. After any build you get five months of maintenance free; ongoing care after that starts at ${P.care}, and larger monthly development blocks are quoted separately. The estimate is itemised and arrives in about two working days.`,
+    note: `Project work is priced from the starting points in the table below: sites from ${P.site}, web apps from ${P.software}, apps from ${P.app}. A dedicated or monthly arrangement is priced differently: you pay for an agreed slice of the team's time or an agreed monthly scope, whether or not every hour is used. That is why it only makes sense when the backlog is steady. After any build you get two months of maintenance free; ongoing care after that starts at ${P.care}, and larger monthly development blocks are quoted separately. The estimate is itemised and arrives in about two working days.`,
   },
   guideLabel: "Dedicated developer guide",
   guide: [
@@ -160,7 +160,7 @@ const content: FreelanceContent = {
       heading: "How much does a dedicated web developer cost in India?",
       paragraphs: [
         `Market quotes for dedicated developers vary widely, and the gap comes from five factors: seniority, exclusivity, hours per month, the stack, and how much management the vendor provides. Two offers with the same headline can differ enormously once you ask how many hours are actually included.`,
-        `Our pricing has two layers. Builds are priced as projects from the published starting points. Continuing work after a build begins with five free months of maintenance, then care from ${P.care} covering updates, backups, fixes and small changes. When a product needs regular feature development on top of that, we quote a monthly scope in writing, with the expected work described, so you can compare it with a project quote for the same list.`,
+        `Our pricing has two layers. Builds are priced as projects from the published starting points. Continuing work after a build begins with two free months of maintenance, then care from ${P.care} covering updates, backups, fixes and small changes. When a product needs regular feature development on top of that, we quote a monthly scope in writing, with the expected work described, so you can compare it with a project quote for the same list.`,
         `Do the maths on value, not rate. Divide the monthly cost by the number of useful things shipped in a typical month. If a monthly arrangement ships two meaningful features plus fixes, and the same items quoted as separate projects would cost more, the dedicated model wins. If the backlog is thin, it loses.`,
       ],
       list: [
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       id: "example",
       heading: "Worked example: moving a store from projects to monthly work",
       paragraphs: [
-        `This is a hypothetical scenario, not a real client. A small skincare brand launches an online store as a scoped project. For the first five months after launch, requests go through free maintenance: banner swaps, a broken coupon, a shipping-rate tweak.`,
+        `This is a hypothetical scenario, not a real client. A small skincare brand launches an online store as a scoped project. For the first two months after launch, requests go through free maintenance: banner swaps, a broken coupon, a shipping-rate tweak.`,
         `By month four the owner notices a pattern. Beyond small fixes, there is a steady list of bigger wishes: a bundle builder, a reorder reminder on WhatsApp, a faster collection page, a quiz that recommends products. Quoting each as a separate project would mean four rounds of estimates and four start-up delays.`,
         `The owner and the team write the list down, rank it, and agree a monthly scope in writing starting when the free period ends. Each month opens with the top items, closes with a summary, and uses a staging store for review. After three months, the owner compares shipped work with what separate project quotes would have cost, and decides to continue. Had the list been short, the right answer would have been to stay on plain maintenance.`,
       ],
@@ -326,7 +326,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "Project"],
         ["Web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "Project"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "Project"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly"],
       ],
       hideSm: [2],
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
   faqHeading: "Dedicated web developer: questions people ask",
   faqs: [
     { question: "What does a dedicated web developer do?", answer: "A dedicated web developer works on your product continuously, usually under a monthly arrangement, taking tasks from a backlog you prioritise. That includes new features, bug fixes, performance work, integrations and releases. Unlike a project freelancer who leaves at launch, they stay with the codebase, so they build up knowledge that makes each later change faster and safer." },
-    { question: "How much does it cost to hire a dedicated web developer in India?", answer: `Quotes vary widely with seniority, exclusivity, hours included and stack. With BtechWaleTech, builds are priced as projects, such as web apps from ${P.software}, and ongoing care starts at ${P.care} after five free months of maintenance. Monthly development scopes beyond care are quoted in writing so you can compare them with project quotes.` },
+    { question: "How much does it cost to hire a dedicated web developer in India?", answer: `Quotes vary widely with seniority, exclusivity, hours included and stack. With BtechWaleTech, builds are priced as projects, such as web apps from ${P.software}, and ongoing care starts at ${P.care} after two free months of maintenance. Monthly development scopes beyond care are quoted in writing so you can compare them with project quotes.` },
     { question: "Is a dedicated developer cheaper than hiring for each project?", answer: "Only when you have a steady flow of work. Monthly capacity is paid whether or not the backlog is full, so it saves money when requests arrive every week and loses money when they arrive twice a quarter. Track three months of real requests after launch before deciding, and compare shipped output against separate project quotes." },
     { question: "Will the dedicated developer work only on my project?", answer: "Not with us. We are three freelance developers who also work with other clients, and a monthly scope reserves agreed work rather than an exclusive person. If you need someone exclusively yours, full time, within your internal team routines, a direct employee or a staffing vendor seat is the better fit." },
     { question: "How do I manage a remote dedicated web developer?", answer: "Keep one ranked backlog, answer questions quickly, and review a staging site each week. Ask for a written weekly update and a month-end summary of shipped changes. Measure progress by what reaches production and how few bugs return, rather than by tracking hours. A short video call once a week is usually enough." },
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Can foreign clients hire a dedicated web developer from your team?", answer: `Yes. Clients abroad use the same approach, with USD pricing such as web apps from ${P.softwareUsd} and care from ${P.careUsd}. We overlap part of your working day for calls, share progress on staging links and invoice for payment by Wise, bank wire or PayPal.` },
     { question: "Does a dedicated web developer also look after SEO?", answer: `Technical SEO often overlaps with development: page speed, structured data, sitemaps, redirects and indexing issues. Santosh handles that side on our team. Content and ongoing search work are usually a separate monthly SEO service from ${P.seo}. Be wary of anyone who promises rankings; nobody can guarantee them.` },
     { question: "What should be in a dedicated developer agreement?", answer: "Describe what the monthly fee covers, how urgent bugs are treated, where the backlog lives, who owns the accounts and code, how progress is reported, who covers absences, how payments work and how the arrangement ends. A detailed written quote both sides confirm can serve as the agreement for small businesses." },
-    { question: "Dedicated developer rakhna sahi hai ya project par kaam karwana?", answer: "Agar har hafte naye features aur changes aate hain, to monthly dedicated arrangement faydemand hai. Agar sirf ek website ya app banana hai, to project par kaam karwana sasta aur saaf rehta hai. Hum pehle project banate hain, phir 5 mahine free maintenance dete hain, uske baad aap decide kar sakte hain." },
+    { question: "Dedicated developer rakhna sahi hai ya project par kaam karwana?", answer: "Agar har hafte naye features aur changes aate hain, to monthly dedicated arrangement faydemand hai. Agar sirf ek website ya app banana hai, to project par kaam karwana sasta aur saaf rehta hai. Hum pehle project banate hain, phir 2 mahine free maintenance dete hain, uske baad aap decide kar sakte hain." },
     { question: "Can you take over an existing codebase on a monthly basis?", answer: "Yes. We start with a short review of the code, hosting and deployment process, list any urgent risks, and document how to run the project. That review is priced in your itemised quote. Once we understand the codebase, monthly work proceeds from your backlog like any other engagement, with access set up in your own accounts." },
   ],
   related: {

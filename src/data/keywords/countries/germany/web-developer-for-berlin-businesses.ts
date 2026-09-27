@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers on your project, no account managers" },
     { value: "2", label: "Working days to a line-by-line quote" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
   ],
   answer: {
     heading: "Why hire a remote web developer for Berlin instead of a local freelancer?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "AI features and automation", note: `LLM features inside your product or internal automations with n8n, from ${P.ai}.`, href: "/germany/n8n-automation-agency/", size: "md" },
       { name: "Extra hands for your CTO", note: "Pull requests into your repository, reviewed by your own engineers, when the roadmap outruns your team.", href: "/germany/dedicated-development-team/", size: "md" },
       { name: "SEO for content-led startups", note: `Technical SEO, programmatic pages and monthly work from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Care after launch", note: `Five months free after go-live, then from ${P.care} if you want us to keep watch.`, href: "/pricing/", size: "sm" },
+      { name: "Care after launch", note: `Two months free after go-live, then from ${P.care} if you want us to keep watch.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
         "What happens after launch, and what does support cost?",
       ],
       after: [
-        `Our answers: we can walk you through our <a href='/portfolio/'>portfolio</a>; changes are re-quoted before work starts; every account is yours; you get a staging link from week two; three people share the project so no single illness stops it; and five months of maintenance are included, then from ${P.care}.`,
+        `Our answers: we can walk you through our <a href='/portfolio/'>portfolio</a>; changes are re-quoted before work starts; every account is yours; you get a staging link from week two; three people share the project so no single illness stops it; and two months of maintenance are included, then from ${P.care}.`,
       ],
     },
     {
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Line-by-line quote", "In about two working days you get a USD quote listing features, integrations, hosting and milestones. You sign it off before any invoice goes out."],
       ["Accounts in your name", "You create or approve the repository, hosting, database and payment accounts; we join as collaborators with the access the work needs."],
       ["Weekly demos on staging", "Features appear on a staging link, with a demo call each week in the Berlin morning and a written changelog after every release."],
-      ["Launch and handover", "We ship to production, connect Search Console, hand over docs and a recorded walkthrough, and look after fixes for five months at no charge."],
+      ["Launch and handover", "We ship to production, connect Search Console, hand over docs and a recorded walkthrough, and look after fixes for two months at no charge."],
     ],
   },
   faqHeading: "Web developer Berlin: questions founders and teams ask",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
     { question: "Do you sign NDAs with startups?", answer: "Ask us when you request a quote. Confidentiality and IP terms that apply to your project are written into the quote you approve, and our general terms and refund policy are published on the website. If investors need specific IP assignment wording, send it before the quote is finalised so it can be included." },
     { question: "Will my startup website rank on Google and show up in AI search?", answer: `Nobody can guarantee rankings, but a fast, server-rendered site with clean headings, structured data and a sitemap gives you the best technical start. We set up Google Search Console at launch and structure pages so AI search tools can quote them. Ongoing SEO work starts at ${P.seo} a month if you want help growing traffic.` },
     { question: "Can you add AI features to our product?", answer: `Yes. We build features such as document summaries, smart search, support triage and chat assistants using large language model APIs, with prompts, logging and cost limits in code you own. Internal automations with tools like n8n start at ${P.ai}. We keep personal data out of prompts where possible and document which providers process what.` },
-    { question: "What happens after launch?", answer: `Five months of maintenance are included after go-live, covering bug fixes, dependency updates and small changes. After that, care starts at ${P.care} if you want us to continue, or you can hand the codebase to your own engineers using the documentation and recorded walkthrough we provide. You are not locked in.` },
+    { question: "What happens after launch?", answer: `Two months of maintenance are included after go-live, covering bug fixes, dependency updates and small changes. After that, care starts at ${P.care} if you want us to continue, or you can hand the codebase to your own engineers using the documentation and recorded walkthrough we provide. You are not locked in.` },
     { question: "Why would a Berlin company choose a web developer outside Berlin?", answer: "A search for “web developer Berlin” shows local names first, but many teams work remotely anyway: English-speaking founders, distributed hires and async tools make location less important than skills, price and reliability. A remote crew of three can own a full build within a startup budget. The trade-off is partial time overlap and no in-person meetings, which suits some teams and not others." },
     { question: "Do you also build mobile apps for Berlin startups?", answer: `Yes. We build Android and iOS apps with Flutter or React Native, starting at ${P.app}, usually sharing the same Supabase or Firebase back end as your web app. Apps are published under your own Google Play Console and App Store Connect accounts; Google charges a one-time US$25 registration fee and Apple's developer programme costs US$99 a year.` },
   ],

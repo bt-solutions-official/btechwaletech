@@ -56,7 +56,7 @@ const narwana: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rate, stock, fee and timing questions and hand real decisions back to you.",
     data: "Season dashboards of arrivals, purchases by farmer, paddy milled, bags dispatched and payments pending.",
     app: "Android and iOS apps for arhtiya-farmer payment updates or coaching attendance and tests, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Narwana traders judge people by whether their word holds from one season to the next. We publish starting prices, send quotes line by line, reply on WhatsApp every day of the week and put the domain, hosting, code and store accounts in your name. If something will not earn back its cost in your business, we tell you plainly.",
@@ -168,7 +168,7 @@ const narwana: CityContent = {
       heading: "Ownership and maintenance for Narwana websites, software and apps",
       paragraphs: [
         "We have heard many versions of the same story: a designer registered the domain in his own name, moved away or stopped answering, and the business lost its site and email. To avoid that, we register the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts in your name, and hand over logins in writing.",
-        "Maintenance is free for the first five months after launch. That covers content and rate updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "Maintenance is free for the first two months after launch. That covers content and rate updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
         "Ledger software and apps need attention before each season, because a failure during procurement costs far more than one in the off-season. We schedule reviews and backups ahead of the paddy and wheat rush so the tools hold up when you need them most.",
       ],
     },
@@ -260,7 +260,7 @@ const narwana: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you choose.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you choose.",
     },
     {
       question: "Do you work in Uchana, Tohana and Jind too?",

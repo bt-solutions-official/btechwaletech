@@ -30,11 +30,11 @@ const kapurthala: CityContent = {
     eyebrow: "Kapurthala · Doaba · Punjab",
     h1: "Websites, software, SEO and AI tools for Kapurthala traders, RCF suppliers and Doaba families",
     lede:
-      "We are three remote engineers who build websites, search visibility and practical software for Kapurthala district: Sadar Bazar shops, small engineering units supplying the Rail Coach Factory, IELTS and visa offices, schools, clinics, and businesses in Phagwara, Sultanpur Lodhi and Bhulath. You speak to the builders directly, prices start low and are public, and upkeep is free for five months.",
+      "We are three remote engineers who build websites, search visibility and practical software for Kapurthala district: Sadar Bazar shops, small engineering units supplying the Rail Coach Factory, IELTS and visa offices, schools, clinics, and businesses in Phagwara, Sultanpur Lodhi and Bhulath. You speak to the builders directly, prices start low and are public, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Punjabi, Hindi and English pages", "NRI-friendly design", "Vendor capability sites", "Google Maps setup"],
   },
   quickAnswer:
-    "A website for a Kapurthala business starts from ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kapurthala office, and the first five months of maintenance are free.",
+    "A website for a Kapurthala business starts from ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kapurthala office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "History", value: "Former capital of Kapurthala State; the city was taken by Jassa Singh Ahluwalia in 1743 and is named after Nawab Kapur Singh" },
     { label: "Sub-divisions", value: "Kapurthala, Phagwara, Sultanpur Lodhi and Bhulath; Phagwara tehsil is separate from the main part of the district" },
@@ -51,7 +51,7 @@ const kapurthala: CityContent = {
     ai: "WhatsApp replies in Punjabi or English for fee, batch and document questions, with human handover for anything sensitive.",
     data: "Dashboards of enquiries, admissions, orders and dispatches that owners can check from a phone, even while travelling abroad.",
     app: "Android and iOS apps for parents, students or field staff, listed on Google Play and the App Store and ready in six to ten weeks.",
-    maintenance: "Five months of free updates, backups and edits after launch, then maintenance from ₹8,000 a month if you choose to continue.",
+    maintenance: "Two months of free updates, backups and edits after launch, then maintenance from ₹8,000 a month if you choose to continue.",
   },
   whyUsIntro:
     "Kapurthala businesses often have a website made by a nephew, a Jalandhar agency or a relative abroad, and nobody quite knows who holds the password. We fix that from the first day. Prices are published, each quote lists every item, the domain and hosting are in your name, and three engineers answer your WhatsApp messages seven days a week, with no sales layer in between.",
@@ -175,8 +175,8 @@ const kapurthala: CityContent = {
       heading: "Keeping ownership in the family, and the site in good health",
       paragraphs: [
         "In Kapurthala, a website is often set up by one relative and later needed by another, sometimes after the first has moved abroad. If the domain sits in someone's personal email, the business can get locked out. We register the domain and hosting in the business's name from day one, share every login and the source code at launch, and include a short note explaining the setup so anyone in the family can pick it up.",
-        "The first five months after launch include free maintenance: text and price edits, software and security updates, backups, bug fixes and speed checks. Admission seasons, intake dates for foreign universities and wedding months all bring changes, and we handle them in that period without charge.",
-        "After five months you can continue with maintenance from ₹8,000 a month, or simply message us when something needs doing and pay for that job alone. You are free to move to another developer at any time, with no exit fee.",
+        "The first two months after launch include free maintenance: text and price edits, software and security updates, backups, bug fixes and speed checks. Admission seasons, intake dates for foreign universities and wedding months all bring changes, and we handle them in that period without charge.",
+        "After two months you can continue with maintenance from ₹8,000 a month, or simply message us when something needs doing and pay for that job alone. You are free to move to another developer at any time, with no exit fee.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const kapurthala: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "After five free months, you can take maintenance from ₹8,000 a month for updates, backups, security fixes and edits, or pay per job when you need a change. Both are fine with us, and you can switch between them.",
+        "After two free months, you can take maintenance from ₹8,000 a month for updates, backups, security fixes and edits, or pay per job when you need a change. Both are fine with us, and you can switch between them.",
     },
     {
       question: "Can you guarantee first position on Google?",

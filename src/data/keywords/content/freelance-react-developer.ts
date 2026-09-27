@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Stack", "React, TypeScript, Next.js, Node.js"],
     ["Repository", "Yours on GitHub or GitLab"],
     ["Quote", "Itemised in about 2 working days"],
-    ["Aftercare", "5 months free maintenance"],
+    ["Aftercare", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who review each other’s React code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Platform fees between you and the coder" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Language", value: "TypeScript by default, plain JavaScript on request" },
       { label: "Rendering", value: "SPA, SSR or static export chosen per page type" },
       { label: "Ownership", value: "Repo, hosting and API keys in your accounts" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance React developer cost in India?",
       paragraphs: [
         `Budget by screens and integrations, not by hours alone. A React project with eight screens reading one tidy API costs far less than one with thirty screens, three user roles and a legacy database to reconcile.`,
-        `With BtechWaleTech, a custom React web app with authentication, a database and an API starts at ${P.software} (${P.softwareUsd} for overseas clients). A public website built on Next.js with hundreds of indexable pages starts at ${P.seoSite}. A small marketing site that uses React only for a calculator or form widget can start at ${P.site}. Maintenance after the five free months starts at ${P.care}.`,
+        `With BtechWaleTech, a custom React web app with authentication, a database and an API starts at ${P.software} (${P.softwareUsd} for overseas clients). A public website built on Next.js with hundreds of indexable pages starts at ${P.seoSite}. A small marketing site that uses React only for a calculator or form widget can start at ${P.site}. Maintenance after the two free months starts at ${P.care}.`,
         `Across the market, React quotes vary widely. Differences usually come from whether tests are included, whether the backend is in scope, who designs the screens, and whether deployment and monitoring are part of the job. Compare scope line by line before comparing totals. Our <a href='/freelance-web-developer-rates/'>freelance developer rates</a> page explains hourly versus project billing.`,
       ],
     },
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
         ["Dashboard, portal or SaaS MVP", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "SPA behind login, or hybrid"],
         ["React Native companion app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Native app sharing logic with web"],
         ["AI feature inside a React app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Streaming UI over your API"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Dependency updates, fixes, small features"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Dependency updates, fixes, small features"],
       ],
       hideSm: [2],
     },
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Create accounts and the repo", "We set up the repository, hosting and third-party keys under your organisation so ownership is clear from the first commit."],
       ["Click through staging builds", "Each merged change deploys to a private staging URL. You test on your own phone and send feedback on WhatsApp; we adjust in the next cycle."],
       ["Harden and launch", "Tests on critical flows, accessibility and performance checks, error tracking and a production deploy. Public pages are verified in Google Search Console."],
-      ["Five months of fixes included", "Bugs, dependency updates and small tweaks are free for five months. After that, ongoing care starts from " + P.care + " if you want it."],
+      ["Two months of fixes included", "Bugs, dependency updates and small tweaks are free for two months. After that, ongoing care starts from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Freelance React developer: common questions",
@@ -374,9 +374,9 @@ const content: FreelanceContent = {
     { question: "How do payments and billing work for a React project?", answer: "Work is split into stages tied to things you can see on staging, such as the app shell, core screens and launch. Indian clients pay by UPI or bank transfer; clients abroad pay through Wise, bank wire or PayPal. The exact stages are agreed in your written quote, and nothing is billed before you approve it." },
     { question: "Can the same team build a mobile app alongside my React web app?", answer: `Yes. We build Android and iOS apps with React Native from ${P.app}, sharing TypeScript types, validation rules and design tokens with the React web app. Apps are published on Google Play and the App Store under your own developer accounts, so both products stay under your control.` },
     { question: "Will you sign an NDA before I share my product idea?", answer: "A reasonable NDA can be signed before you share sensitive details; the terms are agreed with you directly. For most first conversations a general description of the product is enough to give a rough estimate, and detailed specifications can follow once the NDA is in place. See our terms page for how we handle client information." },
-    { question: "What happens after my React app goes live?", answer: `You get five months of free maintenance covering bugs, dependency updates and small changes. After that, monthly care starts from ${P.care} if you want it, or you can take the code to your own team. React libraries update often, so someone should review dependencies every few months to avoid painful jumps later.` },
+    { question: "What happens after my React app goes live?", answer: `You get two months of free maintenance covering bugs, dependency updates and small changes. After that, monthly care starts from ${P.care} if you want it, or you can take the code to your own team. React libraries update often, so someone should review dependencies every few months to avoid painful jumps later.` },
     { question: "Can you add AI features to an existing React app?", answer: `Yes. Common additions are a chat assistant over your own documents, smart search, summaries of long records and auto-filled forms. The model calls run on your server so API keys stay private, and the React side streams responses for a responsive feel. AI automation work starts from ${P.ai}, with running costs explained up front.` },
-    { question: "React developer chahiye, kaise shuru karein?", answer: `WhatsApp par batayiye ki app kaun use karega, kaun se screens chahiye aur koi design ya reference hai toh bhej dijiye. Lagbhag do working days mein itemised quote milega. Login, database aur API wala React web app ${P.software} se shuru hota hai. Code aur hosting aapke naam par rehte hain, aur launch ke baad 5 mahine ka maintenance free hai.` },
+    { question: "React developer chahiye, kaise shuru karein?", answer: `WhatsApp par batayiye ki app kaun use karega, kaun se screens chahiye aur koi design ya reference hai toh bhej dijiye. Lagbhag do working days mein itemised quote milega. Login, database aur API wala React web app ${P.software} se shuru hota hai. Code aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine ka maintenance free hai.` },
     { question: "Do you work with React teams outside India?", answer: `Yes. We work with product teams in the USA, UK, UAE, Australia and elsewhere, overlapping a few hours each day for calls and reviewing pull requests asynchronously. Custom web apps start from ${P.softwareUsd}, billed in USD through Wise, bank wire or PayPal, with the same itemised estimate and ownership terms as Indian clients.` },
   ],
   related: {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance React developer? Send us your screens",
-    note: `Share your product idea or designs on WhatsApp and get a screen-by-screen quote in about two working days. React web apps start at ${P.software}, the code lives in your repository, and five months of maintenance come free after launch.`,
+    note: `Share your product idea or designs on WhatsApp and get a screen-by-screen quote in about two working days. React web apps start at ${P.software}, the code lives in your repository, and two months of maintenance come free after launch.`,
   },
 };
 

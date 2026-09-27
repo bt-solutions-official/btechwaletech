@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers, no account managers in between" },
     { value: "2", label: "Working days to your itemized quote" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
-    { value: "5", label: "Months of free fixes once you go live" },
+    { value: "2", label: "Months of free fixes once you go live" },
   ],
   answer: {
     heading: "How much does law firm website design cost compared with an agency?",
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     columns: ["What you compare", "Legal marketing agency", "Law website template service", "BtechWaleTech build"],
     rows: [
       ["Up-front cost", "Typically the highest", "Low set-up, then monthly", `From ${P.site}`],
-      ["Ongoing cost", "Retainer common, often with a term", "Monthly subscription", `Optional SEO from ${P.seo}; care after 5 free months`],
+      ["Ongoing cost", "Retainer common, often with a term", "Monthly subscription", `Optional SEO from ${P.seo}; care after 2 free months`],
       ["Practice-area content", "Custom, usually strong", "Library copy shared across subscribers", "Drafted for your matters, approved by your attorneys"],
       ["Intake and conflict fields", "Usually available", "Basic contact form", "Conflict-check fields, routed to your intake platform"],
       ["Bar-rule disclosures", "Usually handled; confirm who signs off", "Generic footer text", "Built to the checklist you and your state rules set"],
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       ["Agree pages and disclosures", "We map practice-area pages and draft a disclosure checklist from your state’s rules for you or your ethics counsel to confirm."],
       ["Draft, design and connect", "Practice pages and bios go to your attorneys for edits while the conflict-check intake is wired to Clio Grow, Lawmatics or your inbox."],
       ["Test everything", "Dummy inquiries through every form, speed checks on real phones, keyboard and screen reader passes, and a final ethics review by you."],
-      ["Launch and hand over", "Redirects, analytics and Search Console in your name, a list of every account and script, and five months of free fixes."],
+      ["Launch and hand over", "Redirects, analytics and Search Console in your name, a list of every account and script, and two months of free fixes."],
     ],
   },
   faqHeading: "Law firm website design: questions attorneys ask",
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
     { question: "Can you build a bilingual law firm website?", answer: "Yes. We build Spanish or other language versions of your pages with the practice supplying or approving the translated copy. Disclosures appear in each language used, which Texas Rule 7.01(d) requires for required statements, and intake forms and alerts work the same way in each language." },
     { question: "How do law firms show up in AI search answers?", answer: "AI tools such as Google AI Overviews, ChatGPT search and Perplexity tend to quote pages that answer a question directly with specific, consistent details. Practice pages that open with a short answer, name the attorney and jurisdiction, and match your details elsewhere online give them reliable material. Nobody can guarantee a citation." },
     { question: "Can you redesign my law firm website without losing rankings?", answer: "We list every current URL, keep strong pages at the same address or redirect them to their closest replacement, carry over content that already ranks, and watch Search Console after launch. Some movement is normal after any redesign and no one can promise positions, but careful redirects protect most existing traffic." },
-    { question: "What happens after my law firm website launches?", answer: `Five months of free fixes and small edits come first, such as new practice pages, bio updates or disclosure changes. After that, maintenance starts at ${P.care}. Your staff can also update bios, FAQs and results from the content editor using the handover guide, keeping your ethics review in the loop.` },
+    { question: "What happens after my law firm website launches?", answer: `Two months of free fixes and small edits come first, such as new practice pages, bio updates or disclosure changes. After that, maintenance starts at ${P.care}. Your staff can also update bios, FAQs and results from the content editor using the handover guide, keeping your ethics review in the loop.` },
   ],
   related: {
     heading: "More US pages for law and professional practices",

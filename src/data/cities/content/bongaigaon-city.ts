@@ -56,7 +56,7 @@ const bongaigaon: CityContent = {
     ai: "WhatsApp assistants that reply in Assamese, Bengali or Hindi to rate and stock questions and pass orders to your team.",
     data: "Dashboards of orders by retailer and route, stock movement, contractor hours and pending payments.",
     app: "Android and iOS apps for retailers across Lower Assam to reorder stock or for students to get class updates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "No maintenance charge for the first five months after going live; later upkeep begins at ₹8,000 a month if you want it.",
+    maintenance: "No maintenance charge for the first two months after going live; later upkeep begins at ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Bongaigaon's traders deal with suppliers from Siliguri to Guwahati and have little time for vague vendors. We publish starting prices, send an itemised written quote, reply on WhatsApp seven days a week and register the domain, hosting, code and app store accounts in your name. When a feature is not worth the money, we say so up front.",
@@ -168,7 +168,7 @@ const bongaigaon: CityContent = {
       heading: "Ownership and maintenance of Bongaigaon websites and apps",
       paragraphs: [
         "A story we hear often: the nephew or freelancer who made the site kept the domain under his own login, then changed his number, and the business lost its address on the internet. To stop that happening, the domain, server, code repository, Google Business Profile and Play Store and App Store developer accounts are opened under your name before we write a line of code.",
-        "Upkeep costs nothing for the first five months that the site or app is live. In that period we change text and prices on request, keep backups, apply security and software updates, and test that enquiry forms, payment links and WhatsApp buttons still respond. Afterwards, continued care begins at ₹8,000 a month; you may also take the full set of logins to a different developer.",
+        "Upkeep costs nothing for the first two months that the site or app is live. In that period we change text and prices on request, keep backups, apply security and software updates, and test that enquiry forms, payment links and WhatsApp buttons still respond. Afterwards, continued care begins at ₹8,000 a month; you may also take the full set of logins to a different developer.",
         "Google and Apple revise their store policies every year, and an app that is not updated can be delisted, so we watch for those deadlines. Search work after launch is covered on our <a href=\"/services/seo-services/\">SEO services</a> page, and app details on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -260,7 +260,7 @@ const bongaigaon: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You pay nothing for upkeep during the first five months: updates, backups, security fixes and tests of forms, payment links and WhatsApp buttons are included. After that, continued care begins at ₹8,000 a month if you want it. Because every login is already in your name, changing developers later is straightforward.",
+        "You pay nothing for upkeep during the first two months: updates, backups, security fixes and tests of forms, payment links and WhatsApp buttons are included. After that, continued care begins at ₹8,000 a month if you want it. Because every login is already in your name, changing developers later is straightforward.",
     },
     {
       question: "Do you work in Abhayapuri, Bijni and Kokrajhar too?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Code and cloud", "Your repository, your AWS or cloud account"],
     ["Stack", "React or Next.js, Node.js or Python, PostgreSQL"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering front end, back end, cloud and delivery" },
     { value: "2", label: "Working days to an itemised SaaS quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees when you hire us directly" },
   ],
   answer: {
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We work in short cycles with a staging environment you can log into from week two. You see real software every few days, not slide decks.`,
         `Week one covers workflow mapping, the data model, the tenancy decision and screen sketches for the core flow. Weeks two to four build authentication, workspaces, roles and the main workflow on staging. The following weeks add billing, emails, the admin panel and whatever integrations are in scope. The final stretch is testing: tenant isolation, payment edge cases, load on the busiest screens, and a pass on a phone browser since many users will open the app on mobile.`,
-        `Launch is a controlled event: production environment set up in your cloud account, domain and email records configured, monitoring and alerts on, backups verified. Then we watch the first real customers closely, fixing issues within the free maintenance period that runs for five months after launch.`,
+        `Launch is a controlled event: production environment set up in your cloud account, domain and email records configured, monitoring and alerts on, backups verified. Then we watch the first real customers closely, fixing issues within the free maintenance period that runs for two months after launch.`,
       ],
     },
     {
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
       heading: "SaaS product banwana hai? Seedha jawab",
       paragraphs: [
         `SaaS matlab aisa software jo kai companies online use karti hain aur har mahine subscription deti hain. Iske liye login, har customer ka alag data, billing aur admin panel chahiye.`,
-        `Pehla version chhota rakhiye: sirf woh feature jiske liye customer paisa dega. Hamare saath SaaS MVP ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Code aapke repository mein, cloud account aapke naam par. Launch ke baad 5 mahine maintenance free hai.`,
+        `Pehla version chhota rakhiye: sirf woh feature jiske liye customer paisa dega. Hamare saath SaaS MVP ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Code aapke repository mein, cloud account aapke naam par. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -327,7 +327,7 @@ const content: FreelanceContent = {
         ["Weeks 5–7", "Billing, emails, admin panel, integrations", "Test payments end to end"],
         ["Weeks 8–10", "Isolation, payment and load testing, fixes", "Release candidate"],
         ["Launch", "Production in your cloud, monitoring, backups", "Live product and handover notes"],
-        ["Next 5 months", "Fixes and small changes", "Free maintenance period"],
+        ["Next 2 months", "Fixes and small changes", "Free maintenance period"],
       ],
     },
   ],
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Itemised quote in two working days", "Each module is priced on its own line with a timeline. Nothing is billed until you approve the quote in writing."],
       ["Repository and cloud in your name", "Your organisation owns the code repository, cloud account, domain and payment provider account. We join as users."],
       ["Build on staging, review weekly", "You log in to staging from week two, try the real workflow and send feedback on WhatsApp. Payments follow agreed stages."],
-      ["Launch, watch, hand over", "Production goes live with monitoring and tested backups. Five months of free maintenance follow, plus documentation for any future in-house team."],
+      ["Launch, watch, hand over", "Production goes live with monitoring and tested backups. Two months of free maintenance follow, plus documentation for any future in-house team."],
     ],
   },
   faqHeading: "Freelance SaaS developer: questions founders ask",
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
     { question: "Can you add AI features to my SaaS?", answer: `Yes. Common additions are document summaries, smart search across a customer’s data, draft replies and data extraction from uploaded files. These use large language model APIs with usage limits per plan so costs stay predictable. AI features start at ${P.ai} when added separately, and we test answers on your real data before switching them on.` },
     { question: "How do you keep SaaS customer data secure?", answer: "We hash passwords, use HTTPS everywhere, validate every input on the server, keep secrets out of the code, isolate tenants at the database level and test that isolation automatically. Uploaded files use private storage with signed links, admin actions are logged, and daily backups are stored separately and restore-tested before launch." },
     { question: "Do you build the SaaS marketing website too?", answer: `Yes. We keep the marketing site separate from the app so each can change on its own schedule. A fast static site for features, pricing and sign-ups starts at ${P.site}, and an SEO website with many feature, use-case and comparison pages starts at ${P.seoSite}. Both link into the app’s sign-up flow.` },
-    { question: "What happens after the SaaS launches?", answer: `We watch the first customers closely and fix issues during five months of free maintenance. After that, ongoing maintenance starts at ${P.care}, and new features are quoted separately as needed. You can also hire in-house engineers at any point; we provide documentation and a recorded walkthrough so they can take over smoothly.` },
+    { question: "What happens after the SaaS launches?", answer: `We watch the first customers closely and fix issues during two months of free maintenance. After that, ongoing maintenance starts at ${P.care}, and new features are quoted separately as needed. You can also hire in-house engineers at any point; we provide documentation and a recorded walkthrough so they can take over smoothly.` },
     { question: "Can a freelance SaaS developer work with founders outside India?", answer: `Yes. We work with founders in the USA, UK, Canada, Australia, the UAE and elsewhere, billing in USD with SaaS builds from ${P.softwareUsd}. Payments go through Wise, bank wire or PayPal. We overlap some working hours for calls and keep progress visible on staging and in your repository, so time zones rarely slow decisions.` },
     { question: "Is no-code better than hiring a SaaS developer?", answer: "No-code tools can validate an idea cheaply and quickly, and are worth considering before any custom build. They become limiting when you need strict tenant isolation, complex billing, custom integrations or control over performance and data location. Many founders validate with no-code, then move to custom code once paying customers confirm the product." },
     { question: "Can you take over an existing SaaS codebase?", answer: "Often, yes. We start with a paid review of the code, database and infrastructure to judge its condition, then recommend fixing, refactoring or rebuilding parts. The review needs access to the repository and cloud account. If the previous developer holds those accounts, getting them transferred to your company is the first priority." },
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a SaaS product? Talk to a freelance SaaS developer team",
-    note: `Tell us on WhatsApp who your customers are and what they will pay for. You get an itemised quote in about two working days, SaaS MVPs starting at ${P.software}, the code and cloud in your name, and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp who your customers are and what they will pay for. You get an itemised quote in about two working days, SaaS MVPs starting at ${P.software}, the code and cloud in your name, and two months of free maintenance after launch.`,
   },
 };
 

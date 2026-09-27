@@ -56,7 +56,7 @@ const vinukonda: CityContent = {
     ai: "A Telugu chat helper on WhatsApp that handles rate and stock questions from farmers while you deal with the counter.",
     data: "Season-wise dashboards of purchases by crop, stock by lot, farmer credit and dealer sales by village.",
     app: "Mobile apps on Google Play and the App Store, from ₹40,000, so village retailers can reorder from a Vinukonda dealer or parents can see school notices.",
-    maintenance: "Launch is followed by five months of upkeep at no charge; afterwards care plans begin at ₹8,000 per month.",
+    maintenance: "Launch is followed by two months of upkeep at no charge; afterwards care plans begin at ₹8,000 per month.",
   },
   whyUsIntro:
     "Traders in Vinukonda run on thin margins and long credit, so software has to pay its own way. Our prices are public, each quote is broken into lines, WhatsApp gets a reply every day, and all accounts are opened in your name. When an add-on will not earn back its cost here, you will hear that from us first.",
@@ -169,7 +169,7 @@ const vinukonda: CityContent = {
       paragraphs: [
         "Distance makes us careful about paperwork. After an opening call about your customers and goals, you get a sitemap or app screen list, dates for each stage, and the priced quote. Once you say yes, a preview link lets you watch the build take shape on your own mobile. Messages get answered on every day of the week, IST, and any Telugu wording waits for your okay before it goes public.",
         "Ownership stays with you. The domain, hosting plan, code repository, Google listing and developer accounts on Play Store and App Store carry your name, and passwords come to you in a written handover. We raise no bill until the quote is approved, then split payment across finished stages. <a href=\"/contact/\">Message us</a> whenever you are ready.",
-        "For the first five months after going live, upkeep costs nothing: content edits, backups, patches, and regular tests of forms, UPI links and chat buttons. From month six, a care plan begins at ₹8,000 per month, entirely optional, and you are free to hand the work to someone else. Store apps also get the annual updates Google and Apple demand.",
+        "For the first two months after going live, upkeep costs nothing: content edits, backups, patches, and regular tests of forms, UPI links and chat buttons. From month three, a care plan begins at ₹8,000 per month, entirely optional, and you are free to hand the work to someone else. Store apps also get the annual updates Google and Apple demand.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const vinukonda: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of free care after launch, including edits, backups, patches and checks that forms and payment links still work. After that, continuing with us costs from ₹8,000 per month. It is optional; the code is yours to take to any other developer.",
+        "You get two months of free care after launch, including edits, backups, patches and checks that forms and payment links still work. After that, continuing with us costs from ₹8,000 per month. It is optional; the code is yours to take to any other developer.",
     },
     {
       question: "Do you work in Narasaraopet, Nuzendla and nearby mandals?",

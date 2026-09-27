@@ -39,7 +39,7 @@ const shahdol: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first local SEO", "Coal-belt supplier sites", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
-    "For Shahdol businesses, our websites start from ₹10,000 (ready in one to two weeks), a 299+ page SEO website from ₹20,000, and Android and iOS apps from ₹40,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no Shahdol office, and the first five months of maintenance are free.",
+    "For Shahdol businesses, our websites start from ₹10,000 (ready in one to two weeks), a 299+ page SEO website from ₹20,000, and Android and iOS apps from ₹40,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote team of three with no Shahdol office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Shahdol district and of Shahdol division in north-eastern Madhya Pradesh" },
     { label: "Coal and energy", value: "Sohagpur Coalfield around Burhar and Dhanpuri, plus coal bed methane blocks in Sohagpur East and West" },
@@ -56,7 +56,7 @@ const shahdol: CityContent = {
     ai: "WhatsApp assistants that answer OPD timings, batch fees or stock rates in Hindi while your staff handles the counter.",
     data: "Dashboards that pull enquiries, admissions or material dispatches into one screen your manager can open on a phone.",
     app: "Android and iOS apps for coaching attendance, clinic tokens or dealer orders, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free fixes and updates after launch, then optional maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free fixes and updates after launch, then optional maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Shahdol has grown into the service centre for a large, mostly tribal and forested division, but many firms here still depend on referrals and pamphlets. Outside agencies from Jabalpur or Bhopal often go quiet after the invoice is paid. We publish starting prices, register everything in your name and answer WhatsApp every day of the week.",
@@ -186,7 +186,7 @@ const shahdol: CityContent = {
       paragraphs: [
         "Plenty of Shahdol businesses have lost a website because the developer booked the domain in his own name and later stopped answering calls. The owner could not renew it, change the phone number or move it anywhere, and the site eventually vanished along with its Google history.",
         "We register the domain, hosting, Google Play developer account and Apple App Store account in your name from day one. At launch you receive every login, the complete source code and a short written note on how the project is put together. You can move to any other developer whenever you wish, with no exit fee.",
-        "Maintenance is free for five months after launch: text and price updates, bug fixes, security patches, backups and uptime checks. After that you can continue with us from ₹8,000 a month or simply call when you need a change.",
+        "Maintenance is free for two months after launch: text and price updates, bug fixes, security patches, backups and uptime checks. After that you can continue with us from ₹8,000 a month or simply call when you need a change.",
       ],
     },
     {
@@ -282,7 +282,7 @@ const shahdol: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months after launch are free and cover text and price updates, fixes, security patches, backups and uptime checks. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need a change and pay for that work.",
+        "The first two months after launch are free and cover text and price updates, fixes, security patches, backups and uptime checks. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need a change and pay for that work.",
     },
     {
       question: "Can you guarantee the first rank on Google?",

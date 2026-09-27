@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Estimate", "Itemised, about 2 working days"],
     ["Tracking", "Form, call and WhatsApp events set up"],
     ["Ownership", "Page, domain and analytics in your name"],
-    ["After launch", "5 months of free changes and fixes"],
+    ["After launch", "2 months of free changes and fixes"],
   ],
   stats: [
     { value: "1", label: "Goal per page, and one main button" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free tweaks after launch" },
+    { value: "2", label: "Months of free tweaks after launch" },
     { value: "0", label: "Platform fees on top of the quote" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Includes", value: "Copy structure, mobile layout, forms, tracking, speed work" },
       { label: "Testing", value: "Variant setup once traffic is large enough" },
       { label: "Traffic sources", value: "Google Ads, Meta ads, email, WhatsApp, LinkedIn" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care}` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most landing pages go from brief to live in one to two weeks. The pace depends on how quickly copy and offer details are agreed, far more than on design or code.`,
         `Days one and two: a short call about the campaign, audience, offer and ads, then a message brief listing the headline direction, proof points, objections and action. Days three to five: a wireframe and first copy draft, which you review on your phone. Week two: the designed and built page on a staging link, tracking wired up, speed checked, and a round of changes. Launch: DNS or subfolder setup, test submissions end to end, and conversion events confirmed in your ad accounts.`,
-        `After launch we watch the first weeks of data with you and suggest changes. Those tweaks are covered by the five months of free maintenance.`,
+        `After launch we watch the first weeks of data with you and suggest changes. Those tweaks are covered by the two months of free maintenance.`,
       ],
     },
     {
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       heading: "Landing page banwana hai? Simple steps",
       paragraphs: [
         `Pehle tay kijiye ki page se ek hi kaam chahiye: call, WhatsApp message, form ya payment. Phir humein apna ad, offer aur customers ke common sawal bhejiye. Hum headline aur copy ka draft banayenge jo aapke ad se match kare.`,
-        `Page pehle mobile ke liye design hota hai, halka aur tez, WhatsApp button ke saath. Tracking lagti hai taaki pata chale kaunsa ad leads la raha hai. Landing page ${P.site} se shuru hota hai, 1–2 hafte mein live, aur 5 mahine tak chhote badlav free.`,
+        `Page pehle mobile ke liye design hota hai, halka aur tez, WhatsApp button ke saath. Tracking lagti hai taaki pata chale kaunsa ad leads la raha hai. Landing page ${P.site} se shuru hota hai, 1–2 hafte mein live, aur 2 mahine tak chhote badlav free.`,
       ],
     },
   ],
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
       ["Message brief and wireframe", "We agree headline direction, proof points, objections and the single action, then show a phone-sized wireframe with draft copy."],
       ["Design and build on staging", "The finished page appears on a private link. You test it on your phone, submit the form and send changes on WhatsApp."],
       ["Launch with tracking verified", "We publish on your domain, confirm events in analytics and ad platforms, and check speed on real devices."],
-      ["Improve with real data", "In the five free months after launch we review results with you and make the changes the data points to."],
+      ["Improve with real data", "In the two free months after launch we review results with you and make the changes the data points to."],
     ],
   },
   faqHeading: "Freelance landing page designer: frequently asked questions",
@@ -359,10 +359,10 @@ const content: FreelanceContent = {
     { question: "How fast should a landing page load?", answer: "Fast enough that the headline and button appear almost immediately on a mid-range Android phone over mobile data. We aim for Core Web Vitals to pass and check with PageSpeed Insights before launch, by using static files, compressed images, minimal JavaScript and delayed loading of chat widgets and video." },
     { question: "Can you redesign my existing landing page?", answer: "Yes. We audit the current page against its ads and data, looking at message match, form drop-off, speed and tracking gaps, then rewrite and rebuild it on the same URL so running campaigns continue. Where there is enough traffic, the new version can be tested against the old one before switching fully." },
     { question: "Can you build a landing page from my Figma design?", answer: "Yes. We build Figma designs faithfully as fast, accessible pages that work on every screen size. If we see something likely to hurt conversions, such as the main button hidden below a large image on phones, we point it out with a suggested fix and let you decide." },
-    { question: "Do you offer changes after the landing page goes live?", answer: `Yes. Every page includes five months of free maintenance for edits, fixes and small improvements based on real data. After that, ongoing support is optional and starts at ${P.care}. You can also edit the page yourself or pass it to your own team at any time.` },
+    { question: "Do you offer changes after the landing page goes live?", answer: `Yes. Every page includes two months of free maintenance for edits, fixes and small improvements based on real data. After that, ongoing support is optional and starts at ${P.care}. You can also edit the page yourself or pass it to your own team at any time.` },
     { question: "Should I hire a freelancer or use a landing page builder tool?", answer: "A builder tool suits teams that launch many short campaigns and have a marketer editing pages daily. A freelance landing page designer suits businesses that want the message thought through, a faster custom page, tracking set up properly and full ownership without a monthly subscription. Some businesses use both for different campaigns." },
     { question: "Can a landing page take payments?", answer: `Yes. A sales page can include UPI and card checkout for a single product, course or booking, with confirmation by email or WhatsApp. If you sell many products with stock and shipping, an online store is the better fit, starting at ${P.shop}.` },
-    { question: "Landing page banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath landing page ${P.site} se shuru hota hai aur aam taur par 1–2 hafte mein live ho jaata hai. Copy likhna, alag ads ke liye alag versions, Hindi page ya payment jodna ho toh estimate badhta hai. Quote line by line milta hai, approval ke baad hi billing hoti hai, aur 5 mahine chhote badlav free hain.` },
+    { question: "Landing page banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath landing page ${P.site} se shuru hota hai aur aam taur par 1–2 hafte mein live ho jaata hai. Copy likhna, alag ads ke liye alag versions, Hindi page ya payment jodna ho toh estimate badhta hai. Quote line by line milta hai, approval ke baad hi billing hoti hai, aur 2 mahine chhote badlav free hain.` },
     { question: "Do you design landing pages for clients outside India?", answer: `Yes. We design landing pages for campaigns in the USA, UK, Canada, Australia, the UAE and elsewhere, starting at ${P.siteUsd}. We handle consent banners where required, overlap some working hours for calls and accept payment through Wise, bank wire or PayPal, with the page on your own domain.` },
   ],
   related: {
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a landing page that earns its ad spend?",
-    note: `Send us your ad, offer and audience on WhatsApp. You get an itemised estimate in about two working days, landing pages from ${P.site}, tracking set up properly and five months of free changes after launch.`,
+    note: `Send us your ad, offer and audience on WhatsApp. You get an itemised estimate in about two working days, landing pages from ${P.site}, tracking set up properly and two months of free changes after launch.`,
   },
 };
 

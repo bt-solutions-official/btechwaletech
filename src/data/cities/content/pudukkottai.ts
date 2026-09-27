@@ -51,7 +51,7 @@ const pudukkottai: CityContent = {
     ai: "WhatsApp assistants that reply in Tamil or English with price lists, OPD days, admission details or today's catch rates.",
     data: "Simple dashboards for sales by branch, dealer dues and seasonal stock, fed from Tally exports or daily sheets.",
     app: "Android and iOS apps for school fee reminders, field sales visits and repeat orders, one codebase released on Google Play and the App Store.",
-    maintenance: "Price edits, backups, updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Price edits, backups, updates and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Pudukkottai businesses tend to deal through people they know and trust, so we try to earn that the slow way. Our starting prices are on the website, every quote lists each item in writing, WhatsApp messages get an answer seven days a week, and the domain, hosting and code sit in your name from the start.",
@@ -148,7 +148,7 @@ const pudukkottai: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom web app or software:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -189,10 +189,10 @@ const pudukkottai: CityContent = {
     },
     {
       id: "ownership-maintenance",
-      heading: "Ownership, handover and five months of free care",
+      heading: "Ownership, handover and two months of free care",
       paragraphs: [
         "Everything we build for you belongs to you. The domain is registered in your name, hosting is opened in your account and the full code with every password is handed over at launch. If you later want a developer in Pudukkottai or Trichy to take over, you can move without asking our permission or paying a release fee.",
-        "For the first five months after launch we maintain the site free of charge: security updates, backups, uptime checks and small edits such as new prices, festival offers, doctor timings or admission notices. After that, maintenance is from ₹8,000 a month and can be stopped whenever you choose. If you would rather edit the site yourselves, we train your staff before handover.",
+        "For the first two months after launch we maintain the site free of charge: security updates, backups, uptime checks and small edits such as new prices, festival offers, doctor timings or admission notices. After that, maintenance is from ₹8,000 a month and can be stopped whenever you choose. If you would rather edit the site yourselves, we train your staff before handover.",
       ],
     },
   ],
@@ -279,7 +279,7 @@ const pudukkottai: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "The first five months after launch are free, covering updates, backups, monitoring and small edits such as prices or timings. After that, maintenance is from ₹8,000 a month and you can cancel whenever you like. We can also train your staff to make routine changes themselves.",
+        "The first two months after launch are free, covering updates, backups, monitoring and small edits such as prices or timings. After that, maintenance is from ₹8,000 a month and you can cancel whenever you like. We can also train your staff to make routine changes themselves.",
     },
     {
       question: "How long does a website take?",

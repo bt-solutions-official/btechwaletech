@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Freelance iOS developer · iPhone and iPad apps, built remotely from India",
     h1: "Freelance iOS developer for your iPhone app, from Apple account setup to TestFlight and App Store approval",
     lede: `A freelance iOS developer does more than write code for iPhones: the job includes your Apple Developer account, signing certificates, TestFlight betas and getting past App Store review. BtechWaleTech is three freelance developers in India who ship iOS and Android apps together from ${P.app}, published in accounts you own. Below you will find how Apple's pipeline works, what gets apps rejected, realistic timelines and what the work costs.`,
-    pills: ["iPhone and iPad", "Apple account in your name", "TestFlight betas", "App Store review support", "Android from the same code", "Privacy labels done right", "5 months free updates"],
+    pills: ["iPhone and iPad", "Apple account in your name", "TestFlight betas", "App Store review support", "Android from the same code", "Privacy labels done right", "2 months free updates"],
     origin: "Three freelance developers · Remote from India · Founders, shops, clinics and startups in India and abroad",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Apple account", "Yours, individual or organisation"],
     ["Beta testing", "TestFlight, internal and external groups"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app" },
     { value: "2", label: "Stores from one codebase: App Store and Google Play" },
-    { value: "5", label: "Months of free fixes and OS updates" },
+    { value: "2", label: "Months of free fixes and OS updates" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Apple account", value: "Enrolled in your name; we are added as team members" },
       { label: "Testing", value: "TestFlight builds shared with your staff and testers" },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Review rejections", "Fixes may cost extra", "Handled by account team", "Handled directly by the developers"],
       ["Who you talk to", "One person via platform chat", "Project manager", "The three developers on WhatsApp"],
       ["Platform fees", "Service fee on each payment", "Overheads built in", "No middleman fee"],
-      ["After launch", "Paid per fix", "Retainer", `5 months free, then from ${P.care}`],
+      ["After launch", "Paid per fix", "Retainer", `2 months free, then from ${P.care}`],
       ["Team size ceiling", "One person", "Large teams", "Three people; not suited to huge multi-team apps"],
     ],
     fine: "If your app depends heavily on low-level Apple frameworks such as ARKit, CarPlay or custom hardware accessories, a specialist native Swift team will likely be a better fit than any cross-platform freelance iOS developer.",
@@ -238,7 +238,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An iPhone app is never quite finished. Apple releases a major iOS version every year, usually in September, and periodically raises the minimum Xcode and SDK versions required for new uploads. An app nobody touches can stop being updatable, even if it still runs.`,
         `Plan for three kinds of upkeep. Compatibility work when a new iOS or new iPhone screen size arrives. Dependency updates for Flutter or React Native and the plugins the app uses. And the normal flow of fixes and small features that real users request once the app is in their hands.`,
-        `Our first five months after launch include free maintenance for fixes and updates. After that, optional monthly support starts at ${P.care}. Because the code sits in your repository and the app in your Apple account, you are also free to hand upkeep to your own staff or another freelance iOS developer at any point.`,
+        `Our first two months after launch include free maintenance for fixes and updates. After that, optional monthly support starts at ${P.care}. Because the code sits in your repository and the app in your Apple account, you are also free to hand upkeep to your own staff or another freelance iOS developer at any point.`,
       ],
     },
     {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       heading: "iPhone app banwana hai? Freelance iOS developer se seedhi baat",
       paragraphs: [
         `Pehle dekhiye ki aapke customers mein kitne log iPhone use karte hain. Agar achhe customers iPhone par hain, toh iOS app ka fayda hai. Hum ek hi code se iPhone aur Android dono app banate hain, isliye alag se double kharcha nahi hota.`,
-        `Apple Developer account apne business ke naam par banwaiye; hum sirf team member ke roop mein judte hain. App ${P.app} se shuru hota hai aur 6–10 hafte mein App Store par submit ho jaata hai. Testing TestFlight se hoti hai, jisme aap apne phone par app chala kar dekh sakte hain. Launch ke baad 5 mahine maintenance free hai.`,
+        `Apple Developer account apne business ke naam par banwaiye; hum sirf team member ke roop mein judte hain. App ${P.app} se shuru hota hai aur 6–10 hafte mein App Store par submit ho jaata hai. Testing TestFlight se hoti hai, jisme aap apne phone par app chala kar dekh sakte hain. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -282,7 +282,7 @@ const content: FreelanceContent = {
         ["Shopping app with store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, cart, UPI and card checkout"],
         ["AI feature added to an app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Chat help, document reading, smart search"],
         ["Landing site for the app", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Download page, privacy policy, support page"],
-        ["Maintenance (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "iOS updates, SDK upgrades, fixes"],
+        ["Maintenance (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "iOS updates, SDK upgrades, fixes"],
       ],
       hideSm: [2],
     },
@@ -348,7 +348,7 @@ const content: FreelanceContent = {
       ["Enrol with Apple in your name", "You enrol as an individual or organisation and invite us as team members, while we start designs so no time is lost waiting on verification."],
       ["Test every week on TestFlight", "Each cycle ends with a new build on your iPhone and an Android test build. Your comments go straight into the next cycle."],
       ["Submit and see it through review", "We prepare privacy labels, screenshots and a demo login, submit to both stores and answer any reviewer questions until the app is approved."],
-      ["Stay current for five months free", `Fixes, small changes and iOS compatibility updates are free for five months. Afterwards, support from ${P.care} is optional; the code stays in your repository.`],
+      ["Stay current for two months free", `Fixes, small changes and iOS compatibility updates are free for two months. Afterwards, support from ${P.care} is optional; the code stays in your repository.`],
     ],
   },
   faqHeading: "Freelance iOS developer: questions people ask",
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
     { question: "Is a freelance iOS developer better than an app studio?", answer: "A freelance team suits apps with a clear scope, a limited budget and a wish to speak directly with the people building it. A large studio suits very big apps needing many specialists at once. Either way, insist that the Apple account, the code repository and the backend hosting are all in your name." },
     { question: "How long does it take to build an iOS app?", answer: "A typical iPhone and Android app with BtechWaleTech takes 6–10 weeks from approved scope to store submission, plus review time. Apple enrolment runs in parallel with design in the first weeks. Delays usually come from late account verification, late content such as photos and prices, or changes after features have been approved." },
     { question: "Will you publish my app on the App Store for me?", answer: "Yes. We prepare the listing text, screenshots, privacy labels and review notes, upload the build and submit it from your account, then answer any reviewer questions. You keep the Account Holder role, the banking details and the final say on the release date, while we handle the technical steps." },
-    { question: "What happens to my app when a new iOS version comes out?", answer: `Most apps keep working, but some need fixes, and Apple periodically raises the minimum Xcode and SDK versions for uploads, so apps must be rebuilt to stay updatable. BtechWaleTech covers this free for five months after launch; afterwards support starts at ${P.care}, or your own team can take it over.` },
+    { question: "What happens to my app when a new iOS version comes out?", answer: `Most apps keep working, but some need fixes, and Apple periodically raises the minimum Xcode and SDK versions for uploads, so apps must be rebuilt to stay updatable. BtechWaleTech covers this free for two months after launch; afterwards support starts at ${P.care}, or your own team can take it over.` },
     { question: "Do I need a privacy policy for an iOS app?", answer: "Yes. Apple requires a privacy policy link for every app, and you must also answer App Store Connect's privacy questions, which become the privacy labels on your listing. The answers must match what your app and its SDKs actually collect. We draft the technical details with you and host the page on your website." },
     { question: "Can you fix an iOS app another developer built?", answer: "Usually, yes. We need access to the source code repository and a team role in your Apple Developer account. We first check whether the project builds with current Xcode, review the rejection or bug history, and then advise whether to repair, update or rebuild. Without the source code, only a rebuild is possible." },
     { question: "Can clients outside India hire your freelance iOS developers?", answer: `Yes. Many clients abroad have mostly iPhone users, so iOS is often their main platform. We schedule calls in overlapping hours, share TestFlight builds weekly and bill in USD, with apps from ${P.appUsd}, through Wise, bank wire or PayPal. The Apple account stays in your name in your own country.` },
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance iOS developer who handles Apple's side too?",
-    note: `Message us on WhatsApp with your app idea. You will get an itemised quote in about two working days, iPhone and Android apps starting at ${P.app}, the Apple account kept in your name, and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with your app idea. You will get an itemised quote in about two working days, iPhone and Android apps starting at ${P.app}, the Apple account kept in your name, and two months of free maintenance after launch.`,
   },
 };
 

@@ -32,7 +32,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["New WooCommerce shop from", `${P.shop}, 4–8 weeks`],
-    ["Care plan from", `${P.care}, after 5 free months`],
+    ["Care plan from", `${P.care}, after 2 free months`],
     ["Payments we configure", "iDEAL, cards, SEPA Direct Debit renewals"],
     ["Languages", "Dutch and English via WPML or Polylang"],
     ["Hosting", "EU data centres, on an account you own"],
@@ -40,7 +40,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Freelance developers, one shared codebase" },
-    { value: "5", label: "Free maintenance months after launch" },
+    { value: "2", label: "Free maintenance months after launch" },
     { value: "2", label: "Working days to an itemised estimate" },
     { value: "0", label: "Marketplace fees added to your invoice" },
   ],
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Custom plugin or integration", value: `From ${P.software}, 6–12 weeks` },
       { label: "Payments", value: "iDEAL at checkout, SEPA Direct Debit for renewals, refunds tested" },
       { label: "Shipping", value: "MyParcel or Sendcloud labels printed in bulk from orders" },
-      { label: "Care after launch", value: `Five months free, then from ${P.care}` },
+      { label: "Care after launch", value: `Two months free, then from ${P.care}` },
       { label: "How you pay", value: "USD quotes; Wise, wire or PayPal in milestones" },
     ],
   },
@@ -87,14 +87,14 @@ const content: FreelanceContent = {
       ["Dutch copy and marketing", "Often part of the package", "You write it", "You supply it; we build around it"],
       ["Hosting account", "Sometimes on the bureau's server", "Your choice", "Always an EU host under your name"],
       ["Response at weekends", "Varies by contract", "Depends on you", "WhatsApp replies 7 days a week"],
-      ["Cost pattern", "Highest monthly rate of the three", "Low cash, high time cost", `Care from ${P.care} after 5 free months`],
+      ["Cost pattern", "Highest monthly rate of the three", "Low cash, high time cost", `Care from ${P.care} after 2 free months`],
       ["Knowledge if someone leaves", "Stays in the bureau", "Stays with you", "Shared by three developers plus written docs"],
     ],
     fine: "If your shop needs an on-site workshop, Dutch copywriting or a team of ten, a Dutch bureau is the better choice; we are a compact team that works remotely.",
   },
   pricing: {
     heading: "What WooCommerce work costs with us",
-    note: `All figures are starting prices in USD. A new WooCommerce shop starts from ${P.shop}; that includes a block theme styled for your brand, product types and attributes set up, iDEAL at checkout, one shipping plugin, transactional emails and a consent banner. Subscriptions with SEPA renewals, a second language through WPML or Polylang, large product imports and accounting links each add a line. Custom plugins and ERP integrations start from ${P.software}. Premium plugin licences and hosting are bought in your name and paid by you. After five months of free maintenance, care plans start from ${P.care}. Your itemised quote usually arrives within two working days.`,
+    note: `All figures are starting prices in USD. A new WooCommerce shop starts from ${P.shop}; that includes a block theme styled for your brand, product types and attributes set up, iDEAL at checkout, one shipping plugin, transactional emails and a consent banner. Subscriptions with SEPA renewals, a second language through WPML or Polylang, large product imports and accounting links each add a line. Custom plugins and ERP integrations start from ${P.software}. Premium plugin licences and hosting are bought in your name and paid by you. After two months of free maintenance, care plans start from ${P.care}. Your itemised quote usually arrives within two working days.`,
   },
   guideLabel: "WooCommerce developer Netherlands guide",
   guide: [
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a WooCommerce developer in the Netherlands cost?",
       paragraphs: [
-        `A WooCommerce developer's price depends on whether you need a build, a rescue, an integration or ongoing care. With us, new WooCommerce shops start from ${P.shop}, custom plugins and integrations from ${P.software}, SEO from ${P.seo} a month and care plans from ${P.care} after five free months.`,
+        `A WooCommerce developer's price depends on whether you need a build, a rescue, an integration or ongoing care. With us, new WooCommerce shops start from ${P.shop}, custom plugins and integrations from ${P.software}, SEO from ${P.seo} a month and care plans from ${P.care} after two free months.`,
         `Dutch bureaus and freelancers quote in very different ways: hourly, per strip of hours, per project or per month. That makes headline numbers hard to compare. Ask each for the same breakdown and you will see where the differences come from.`,
       ],
       list: [
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
         { heading: "Quarterly", text: `Plugin inventory review: anything unused removed, anything abandoned replaced. PHP version and hosting capacity checked against growth.` },
       ],
       after: [
-        `Every shop we launch gets five months of free maintenance. After that, care plans start from ${P.care}; the exact tasks and response expectations are written into your quote rather than implied. Details that go beyond this, such as specific response times, are agreed in writing and covered by our <a href='/terms/'>terms</a>.`,
+        `Every shop we launch gets two months of free maintenance. After that, care plans start from ${P.care}; the exact tasks and response expectations are written into your quote rather than implied. Details that go beyond this, such as specific response times, are agreed in writing and covered by our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Imagine a small coffee roaster in Rotterdam with a WooCommerce shop that sells 60 products, mostly beans in three grinds and two sizes. Staff print PostNL labels by copying addresses by hand, and customers keep asking for a subscription. The shop takes eight seconds to load a category page.`,
         `A sensible plan would run in three parts. First, a speed and plugin audit: remove duplicate plugins, switch to HPOS once each plugin is confirmed compatible, move to EU hosting with object caching. Second, a subscriptions extension with first payment by iDEAL and renewals by SEPA Direct Debit, plus Dutch emails for upcoming and failed renewals. Third, MyParcel or Sendcloud so labels print in one batch each morning.`,
-        `That fits within a shop project from ${P.shop}, itemised so the roaster could start with labels and speed, then add subscriptions a month later. Care from ${P.care} would apply only after the five free months. This scenario is invented to show how a quote is built; it is not a past client or a promised result.`,
+        `That fits within a shop project from ${P.shop}, itemised so the roaster could start with labels and speed, then add subscriptions a month later. Care from ${P.care} would apply only after the two free months. This scenario is invented to show how a quote is built; it is not a past client or a promised result.`,
       ],
     },
     {
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
       id: "care-schedule",
       eyebrow: "Care plan",
       heading: "What happens in a WooCommerce care plan, and when",
-      note: `Care is free for five months after launch, then from ${P.care}. Exact tasks are written into your quote.`,
+      note: `Care is free for two months after launch, then from ${P.care}. Exact tasks are written into your quote.`,
       columns: ["Frequency", "Task", "Why it matters for a Dutch shop"],
       rows: [
         ["Weekly", "Updates staged, tested, then applied live", "Security fixes without broken checkouts"],
@@ -459,12 +459,12 @@ const content: FreelanceContent = {
       ["Findings and itemised quote", "Within about two working days you receive a written list of findings and an itemised USD quote, with exclusions and optional lines kept separate."],
       ["Build or fix on staging", "All work happens on staging first. You get a link, a change list and a video walkthrough; nothing reaches the live shop until you approve it."],
       ["Deploy at a quiet hour", "Changes go live when Dutch traffic is low, followed by test orders, refund checks and a look at the error logs over the next days."],
-      ["Care and handover", "Five months of free maintenance, then an optional care plan. You keep documentation, repository access and every account in your name."],
+      ["Care and handover", "Two months of free maintenance, then an optional care plan. You keep documentation, repository access and every account in your name."],
     ],
   },
   faqHeading: "WooCommerce developer in the Netherlands: common questions",
   faqs: [
-    { question: "What does a WooCommerce developer cost in the Netherlands?", answer: `It varies with the work. With BtechWaleTech, a new WooCommerce shop starts from ${P.shop}, custom plugins and integrations from ${P.software}, and care plans from ${P.care} after five free months. Dutch bureaus and freelancers charge in different ways, hourly, per strip of hours or per project, so ask each for an itemised scope and compare line by line rather than by headline total.` },
+    { question: "What does a WooCommerce developer cost in the Netherlands?", answer: `It varies with the work. With BtechWaleTech, a new WooCommerce shop starts from ${P.shop}, custom plugins and integrations from ${P.software}, and care plans from ${P.care} after two free months. Dutch bureaus and freelancers charge in different ways, hourly, per strip of hours or per project, so ask each for an itemised scope and compare line by line rather than by headline total.` },
     { question: "Is WooCommerce still a good choice for a Dutch webshop?", answer: "Yes, for the right shop. WooCommerce suits businesses that want control over hosting and data, run content that already ranks, or sell products with custom logic. It asks more of you in maintenance than a hosted platform. If updates keep breaking things and your products are simple, a move to Shopify may be the calmer option." },
     { question: "How do I add iDEAL to WooCommerce?", answer: "Install the WooCommerce plugin from a payment provider that offers iDEAL, connect it with API keys from your own provider account, and enable iDEAL in the WooCommerce payment settings. Then test carefully: make sure webhooks reach your site so paid orders are marked paid even if the shopper closes the bank app, and check that refunds work from the order screen." },
     { question: "Why are my WooCommerce orders stuck on pending payment after iDEAL?", answer: "Usually because the payment provider's confirmation call, the webhook, is not reaching your shop. Common causes are a firewall or security plugin blocking it, page caching on the webhook path, maintenance mode, or scheduled tasks not running. The provider's dashboard shows whether webhook calls failed. Fixing the cause is quicker than updating orders by hand every day." },
@@ -473,7 +473,7 @@ const content: FreelanceContent = {
     { question: "Should I use WPML or Polylang for Dutch and English?", answer: "WPML suits larger catalogues and teams translating many strings in one interface. Polylang suits smaller shops and lighter set-ups, with WooCommerce support as a paid add-on. Either way, keep stock shared across languages, use subfolders such as /en/, and make sure order emails follow the customer's language. You supply or approve the Dutch copy; we build the structure." },
     { question: "Why is my WooCommerce store so slow?", answer: "The usual causes are underpowered shared hosting, too many plugins, a bloated database with leftover data, order storage still on the legacy posts table, and filters or search querying the database directly. A speed audit measures each one. Fixes often include moving to EU hosting with object caching, switching to HPOS, cleaning autoloaded data and removing unused scripts." },
     { question: "Where should I host a WooCommerce shop for Dutch customers?", answer: "In an EU data centre, on a hosting account in your name, with enough PHP workers for peak checkouts, object caching, staging and off-site backups. Being close to your customers helps latency, and EU hosting keeps privacy discussions simpler. Cheap shared plans often struggle at checkout, because cart and payment pages cannot be served from cache." },
-    { question: "What should a WooCommerce maintenance plan include?", answer: "Updates tested on staging before going live, an iDEAL test order after updates, backups with regular restore tests, security scans, uptime monitoring, and periodic reviews of plugins and hosting. A plan that only clicks ‘update all’ on the live shop is not maintenance. Ours is free for five months after launch and then starts from the monthly care price." },
+    { question: "What should a WooCommerce maintenance plan include?", answer: "Updates tested on staging before going live, an iDEAL test order after updates, backups with regular restore tests, security scans, uptime monitoring, and periodic reviews of plugins and hosting. A plan that only clicks ‘update all’ on the live shop is not maintenance. Ours is free for two months after launch and then starts from the monthly care price." },
     { question: "Can a developer in India maintain my WooCommerce shop safely?", answer: "Yes, if access is set up properly. You create individual accounts for WordPress, hosting and SFTP with only the permissions needed, turn on two-factor login, and remove them when work ends. All changes go through staging first. Location matters less than process; a careless local developer is riskier than a careful remote one." },
     { question: "Do I own my WooCommerce shop if you build it?", answer: "Yes. Hosting, domain and premium plugin licences are bought in your company's name, custom code goes into a repository you own, and payment or carrier API keys are created in your own dashboards. You receive documentation of every plugin and setting. Nothing depends on an account we control, so ending the relationship never means losing the shop." },
     { question: "Can WooCommerce connect to Exact Online or Moneybird?", answer: "Yes. Existing connectors cover common cases, such as sending orders as sales invoices. When your needs go further, such as syncing stock, customer records or cost centres, a custom integration handles it with error logging and retries. Our Exact Online integration page explains when a connector is enough and when custom work pays off." },

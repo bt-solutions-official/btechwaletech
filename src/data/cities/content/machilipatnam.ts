@@ -31,11 +31,11 @@ const machilipatnam: CityContent = {
     eyebrow: "Machilipatnam (Bandar) · Krishna district, Andhra Pradesh",
     h1: "Web, app, SEO and automation services for Machilipatnam's jewellery makers, Kalamkari printers and coastal traders",
     lede:
-      "Three remote engineers building product catalogues, UPI stores and WhatsApp order flows for Bandar's imitation jewellery units, Pedana Kalamkari workshops, aquaculture and seafood traders, and the colleges, hospitals and shops of the Krishna district headquarters. Starting prices are public, you speak directly with the developers, and upkeep is free for five months.",
+      "Three remote engineers building product catalogues, UPI stores and WhatsApp order flows for Bandar's imitation jewellery units, Pedana Kalamkari workshops, aquaculture and seafood traders, and the colleges, hospitals and shops of the Krishna district headquarters. Starting prices are public, you speak directly with the developers, and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Jewellery catalogues", "Telugu and English pages", "Stores with UPI checkout", "Wholesale orders on WhatsApp"],
   },
   quickAnswer:
-    "A Machilipatnam business website starts at ₹10,000 with us and is usually ready in one to two weeks. Large catalogue sites of 299+ pages start at ₹20,000, online stores for jewellery or Kalamkari start at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team without a Machilipatnam office, and maintenance is free for five months.",
+    "A Machilipatnam business website starts at ₹10,000 with us and is usually ready in one to two weeks. Large catalogue sites of 299+ pages start at ₹20,000, online stores for jewellery or Kalamkari start at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team without a Machilipatnam office, and maintenance is free for two months.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Krishna district, about 60 km from Vijayawada on the Bay of Bengal coast" },
     { label: "History", value: "Old port known as Masulipatnam or Bandar; Dutch and English traders set up here, the English in 1611" },
@@ -52,7 +52,7 @@ const machilipatnam: CityContent = {
     ai: "WhatsApp assistants that share design photos, rates and MOQ with resellers in Telugu or English, then pass bulk orders to the owner.",
     data: "Sales dashboards showing which designs, resellers and states move stock, built from your billing or Tally exports.",
     app: "Android and iOS apps for resellers to browse new Kalamkari designs and place repeat orders, released on both stores from ₹40,000.",
-    maintenance: "New designs, rate changes, backups and security updates free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "New designs, rate changes, backups and security updates free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Machilipatnam firms have been sold a website that looked fine on launch day and then never changed, because every update meant chasing the developer. We publish starting prices, write pages around what your buyers search, reply on WhatsApp all seven days, and hand you full control of the domain, hosting and code.",
@@ -94,7 +94,7 @@ const machilipatnam: CityContent = {
       heading: "What a website costs in Machilipatnam",
       paragraphs: [
         "In Machilipatnam you will find quotes from a few thousand rupees for a template to large sums from agencies in Vijayawada or Hyderabad. The cheap version rarely includes search setup, and the expensive one often includes features you will never use. Our starting prices are on the <a href=\"/pricing/\">pricing page</a> for anyone to see.",
-        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and is ready in one to two weeks, suitable for a shop, clinic, school or small trader. A 299+ page SEO site for a jewellery or Kalamkari catalogue starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000, and maintenance from ₹8,000 a month after five free months.",
+        "A static site of up to 100 pages starts at <strong>₹10,000</strong> and is ready in one to two weeks, suitable for a shop, clinic, school or small trader. A 299+ page SEO site for a jewellery or Kalamkari catalogue starts at <strong>₹20,000</strong> and takes three to five weeks. WhatsApp and AI automation begins at <strong>₹40,000</strong>, online stores at <strong>₹50,000</strong> and custom software at <strong>₹60,000</strong>. Monthly SEO starts at ₹10,000, and maintenance from ₹8,000 a month after two free months.",
         "Your final price depends on page count, product count, features and how much content you already have. The quote arrives in about two working days.",
       ],
       list: [
@@ -175,10 +175,10 @@ const machilipatnam: CityContent = {
     },
     {
       id: "ownership-maintenance-machilipatnam",
-      heading: "Ownership, handover and five free months of care",
+      heading: "Ownership, handover and two free months of care",
       paragraphs: [
         "Your domain and hosting are registered in your own name from the start. At launch you receive all logins, the full source code and a short guide to updating products. If you ever decide to move to another developer, you can do so without paying any exit fee.",
-        "Maintenance is free for the first five months after launch. We add new designs, update rates, fix bugs, apply security updates, take backups and check uptime. After that, maintenance continues from ₹8,000 a month, or you can call us only when a change is needed. See our <a href=\"/services/web-development/\">web development</a> page for what each build includes.",
+        "Maintenance is free for the first two months after launch. We add new designs, update rates, fix bugs, apply security updates, take backups and check uptime. After that, maintenance continues from ₹8,000 a month, or you can call us only when a change is needed. See our <a href=\"/services/web-development/\">web development</a> page for what each build includes.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const machilipatnam: CityContent = {
     {
       question: "What does the free maintenance period cover?",
       answer:
-        "For five months after launch we add designs and products, update rates, fix bugs, apply security updates, take backups and monitor uptime at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we add designs and products, update rates, fix bugs, apply security updates, take backups and monitor uptime at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long does SEO take to show results?",

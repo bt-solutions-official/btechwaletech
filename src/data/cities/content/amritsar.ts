@@ -31,11 +31,11 @@ const amritsar: CityContent = {
     eyebrow: "Amritsar · Punjab",
     h1: "Websites and SEO for Amritsar hotels, traders, food brands and NRI services",
     lede:
-      "We are three engineers building websites, online stores and WhatsApp automations for Amritsar businesses: hotels near the Golden Temple, textile dealers in Katra Jaimal Singh, papad-warian makers, jewellers, clinics and firms serving Punjabi families abroad. We work remotely, publish our prices, and give you full ownership plus five months of free maintenance.",
+      "We are three engineers building websites, online stores and WhatsApp automations for Amritsar businesses: hotels near the Golden Temple, textile dealers in Katra Jaimal Singh, papad-warian makers, jewellers, clinics and firms serving Punjabi families abroad. We work remotely, publish our prices, and give you full ownership plus two months of free maintenance.",
     pills: ["Websites from ₹10,000", "Hotel and guest house sites", "Food and textile stores", "Punjabi, Hindi and English SEO", "Built for NRI customers"],
   },
   quickAnswer:
-    "An Amritsar business website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote team of three engineers with no Amritsar office, and five months of maintenance is included after launch.",
+    "An Amritsar business website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and a custom web app from ₹60,000. We are a remote team of three engineers with no Amritsar office, and two months of maintenance is included after launch.",
   snapshot: [
     { label: "Old city trade", value: "Hall Bazaar, Katra Jaimal Singh, Guru Bazaar, Majith Mandi and the Heritage Street leading to the Golden Temple" },
     { label: "Modern commercial areas", value: "Ranjit Avenue, Lawrence Road, Mall Road, Green Avenue and the GT Road corridor" },
@@ -52,7 +52,7 @@ const amritsar: CityContent = {
     ai: "WhatsApp assistants that answer room, tour and order questions in Punjabi, Hindi or English and pass real bookings to your staff.",
     data: "Reports on bookings, stock, dispatches and receivables so a family business can see which products and seasons carry the year.",
     app: "Android and iOS apps for guests, repeat buyers and field staff, available on Google Play and the App Store, with prices starting at ₹40,000.",
-    maintenance: "Rate changes, festival offers, backups and security updates free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Rate changes, festival offers, backups and security updates free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Amritsar has plenty of web designers, many of them busy with IELTS centres and immigration firms along Ranjit Avenue. Few publish prices, and fewer hand over the domain and hosting. We publish our starting prices, register everything in your name, and answer WhatsApp messages every day of the week, which matters when your customers include relatives in other time zones.",
@@ -183,11 +183,11 @@ const amritsar: CityContent = {
     },
     {
       id: "ownership-maintenance-amritsar",
-      heading: "Ownership, hosting and five months of free maintenance",
+      heading: "Ownership, hosting and two months of free maintenance",
       paragraphs: [
         "Many Amritsar websites were built by a relative or a local operator who kept the domain in his own name. When that person moves abroad, as many do, the business is left unable to renew the domain or change a phone number.",
         "We register your domain and hosting in your name from the start. On launch day you receive every login, the source code and a short explanation of how the site is set up. You can move to another developer at any time with no fee.",
-        "The first five months after launch include free maintenance: content and rate updates, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you can contact us only when needed. <a href=\"/contact/\">Send us your details</a> to get a plan.",
+        "The first two months after launch include free maintenance: content and rate updates, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you can contact us only when needed. <a href=\"/contact/\">Send us your details</a> to get a plan.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const amritsar: CityContent = {
     {
       question: "What is covered by the free maintenance period?",
       answer:
-        "For five months after launch, we handle content and rate updates, festival offers, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance is from ₹8,000 a month or on request.",
+        "For two months after launch, we handle content and rate updates, festival offers, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance is from ₹8,000 a month or on request.",
     },
     {
       question: "Do you work with businesses in Tarn Taran, Batala and Gurdaspur?",

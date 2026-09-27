@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Custom commerce build", `From ${P.software}, 6–12 weeks`],
     ["Platform fees", "Paid by you to the platform"],
     ["Our commission on sales", "None"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Then", `Maintenance from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Percentage of your sales taken by us" },
     { value: "2", label: "Working days to an itemised store quote" },
-    { value: "5", label: "Months of free maintenance post-launch" },
+    { value: "2", label: "Months of free maintenance post-launch" },
     { value: "3", label: "Developers who know your store's code" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Payments", value: "Per-transaction fees set by your payment provider" },
       { label: "Delivery", value: "Courier rates plus any shipping app subscription" },
       { label: "Product content", value: "Photos, descriptions and data for every SKU" },
-      { label: "Upkeep", value: `5 free months, then from ${P.care}` },
+      { label: "Upkeep", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -86,7 +86,7 @@ const content: FreelanceContent = {
       ["Paid apps", "Often several", "Tends to grow month by month", "Audited; replaced with theme code where sensible"],
       ["Payment fees", "Set by your provider", "Set by your provider", "Set by your provider; we help compare"],
       ["Product photos and copy", "Sometimes quoted", "You do it", "Data import and cleanup quoted as its own line"],
-      ["Retainer or care plan", "Often bundled", "None; you fix issues", `5 free months, then from ${P.care}`],
+      ["Retainer or care plan", "Often bundled", "None; you fix issues", `2 free months, then from ${P.care}`],
       ["Commission on sales", "Occasionally", "None", "None"],
       ["In-person meetings", "Yes", "Not applicable", "No; video calls only"],
       ["Who owns the store", "Check the contract", "You", "You; accounts in your business name"],
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Ecommerce website cost for Singapore stores, explained",
-    note: `The build starts at ${P.shop} for a Shopify or WooCommerce store and at ${P.software} for custom commerce. What moves your quote: catalogue size and how messy the product data is, the number of custom templates, payment methods (cards, wallets, PayNow), delivery rules such as same-day slots or self-collection, accounting or inventory sync, and whether you need a second language. Platform plans, paid apps and payment fees are shown as separate lines you pay to those providers directly, never marked up. Maintenance is free for five months, then from ${P.care}.`,
+    note: `The build starts at ${P.shop} for a Shopify or WooCommerce store and at ${P.software} for custom commerce. What moves your quote: catalogue size and how messy the product data is, the number of custom templates, payment methods (cards, wallets, PayNow), delivery rules such as same-day slots or self-collection, accounting or inventory sync, and whether you need a second language. Platform plans, paid apps and payment fees are shown as separate lines you pay to those providers directly, never marked up. Maintenance is free for two months, then from ${P.care}.`,
   },
   guideLabel: "Ecommerce website cost Singapore guide",
   guide: [
@@ -120,7 +120,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Year one is the expensive year because it carries every one-off cost plus twelve months of running fees. It is also the year you learn which features customers actually use.`,
         `With us, the build line starts at ${P.shop}. On top of that, budget for the platform plan (monthly or yearly), any paid apps you choose, payment fees on your expected order value, courier costs, and the work of getting product photos and descriptions ready. If you are moving from Shopee or Lazada, product data often exists already but needs rewriting, because copying marketplace listings word for word gives Google little reason to rank your own store.`,
-        `Keep a contingency for the first three months after launch. Real shoppers always find something: a delivery rule that confuses them, a missing filter, a payment option they expected. Our five months of free maintenance cover fixes to what we built; new features are quoted separately so the budget stays visible.`,
+        `Keep a contingency for the first three months after launch. Real shoppers always find something: a delivery rule that confuses them, a missing filter, a payment option they expected. Our two months of free maintenance cover fixes to what we built; new features are quoted separately so the budget stays visible.`,
       ],
     },
     {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Platform plan", "12 months", "12 months, reviewed", "Shopify or your host"],
         ["Apps and plugins", "Chosen at launch", "After a yearly audit", "App vendors"],
         ["Payment and delivery fees", "Per order", "Per order", "Payment provider, couriers"],
-        ["Maintenance", "5 months free", `From ${P.care}`, "BtechWaleTech, optional"],
+        ["Maintenance", "2 months free", `From ${P.care}`, "BtechWaleTech, optional"],
       ],
       hideSm: [3],
     },
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "How much does delivery integration add to an online store?", answer: "Basic options such as flat rates, a free-delivery threshold and self-collection add little build work. Time slots, live multi-courier rates, locker selection or multi-warehouse routing add more configuration and often a shipping-app subscription. Price your delivery promise as an operations cost too, not only a website feature." },
     { question: "Who owns the online store after it is built?", answer: "You do. The platform or hosting account, domain, payment accounts, code and product data are all in your business's name, and we work as staff users. If you move to another developer later, you remove our access and give them theirs. Nothing is held back or licensed from us." },
     { question: "Can a remote team in India handle my Singapore store's support?", answer: "Yes. India is two and a half hours behind Singapore, so we overlap with most of your working day and reply on WhatsApp seven days a week. We cannot visit your premises or handle physical products, so packing, photography and courier pickups stay with your team or local partners." },
-    { question: "What does ecommerce maintenance cost after launch?", answer: `Maintenance is free for five months after launch, then starts at ${P.care}. For Shopify it mostly covers theme fixes, app reviews and small changes; for WooCommerce it adds WordPress, plugin and security updates plus backups. The exact scope is agreed in writing, and you can stop at any time.` },
+    { question: "What does ecommerce maintenance cost after launch?", answer: `Maintenance is free for two months after launch, then starts at ${P.care}. For Shopify it mostly covers theme fixes, app reviews and small changes; for WooCommerce it adds WordPress, plugin and security updates plus backups. The exact scope is agreed in writing, and you can stop at any time.` },
     { question: "Will my online store rank on Google Singapore?", answer: `Nobody can guarantee rankings. We build product and category templates with unique titles, structured data, fast loading and clean URLs, then submit the sitemap to Search Console. Ranking depends on original product copy and time. Ongoing SEO for google.com.sg starts at ${P.seo} if you want help after launch.` },
     { question: "How do I pay for an online store build from Singapore?", answer: "We quote in USD and accept Wise, bank wire or PayPal, with milestones agreed in your written quote. Nothing is billed before you approve that quote. Invoices come from India, so check any tax treatment with your accountant. Refund points are set out in our published refund policy." },
     { question: "Should I start with a cheap store and upgrade later?", answer: "Start lean, not cheap. A lean store has a clean build, few apps and correct payments, delivery and GST, so it can grow without a rebuild. A cheap store built on a heavy theme with many apps often needs replacing within two years, which ends up costing more than doing it properly once." },

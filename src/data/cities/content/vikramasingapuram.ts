@@ -56,7 +56,7 @@ const vikramasingapuram: CityContent = {
     ai: "Tamil WhatsApp assistants that answer room, fee and appointment questions and pass real decisions to you.",
     data: "Simple dashboards of bookings by season, orders by town and dues by customer, built from the sheets you already keep.",
     app: "Android and iOS apps for school parent notices or lodge repeat guests, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "A town of about forty-seven thousand people tends to know who delivers and who disappears. We keep that reputation simple to check: starting prices on the site, an itemised written quote, WhatsApp replies every day of the week, and your domain, hosting, code and app accounts registered to you from the first day.",
@@ -168,7 +168,7 @@ const vikramasingapuram: CityContent = {
       heading: "Who owns your site or app, and how upkeep works",
       paragraphs: [
         "You do, completely. We register the domain on your email address, the hosting is billed in your name, the source code is handed to you, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. On handover you get a written sheet of every login and password.",
-        "For the first five months after launch, maintenance is free. That covers changing prices before the festival season, backups, security and software updates, and periodic checks that forms, checkout and WhatsApp buttons still work. After that you can keep us from ₹8,000 a month, manage it yourself, or give the code to any other developer without asking our permission.",
+        "For the first two months after launch, maintenance is free. That covers changing prices before the festival season, backups, security and software updates, and periodic checks that forms, checkout and WhatsApp buttons still work. After that you can keep us from ₹8,000 a month, manage it yourself, or give the code to any other developer without asking our permission.",
         "Apps need attention even when they are not broken. Google and Apple raise their minimum requirements every year, and an app that falls behind can be hidden from the store. We track those deadlines and release an update in time, so your parents or guests never find a missing app.",
       ],
     },
@@ -260,7 +260,7 @@ const vikramasingapuram: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "Maintenance is free for five months after launch: price and photo changes, backups, security updates and checks on forms and payment buttons. After that you can continue with us from ₹8,000 a month, manage it yourself or move to another developer, since all code and accounts are already yours.",
+        "Maintenance is free for two months after launch: price and photo changes, backups, security updates and checks on forms and payment buttons. After that you can continue with us from ₹8,000 a month, manage it yourself or move to another developer, since all code and accounts are already yours.",
     },
     {
       question: "Do you also work in Ambasamudram, Kallidaikurichi and Tirunelveli?",

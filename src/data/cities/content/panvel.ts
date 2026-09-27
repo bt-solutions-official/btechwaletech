@@ -31,11 +31,11 @@ const panvel: CityContent = {
     eyebrow: "Panvel · Raigad district, Mumbai Metropolitan Region",
     h1: "Web, app, SEO and automation services for Panvel's nodes, markets and MIDC firms",
     lede:
-      "Three remote engineers building websites, dealer catalogues, online stores and WhatsApp workflows for businesses across Panvel: Old Panvel shops, clinics and coaching classes in Kharghar and Kamothe, Kalamboli steel traders, Taloja chemical units and the property, logistics and hospitality firms growing around the new airport. Starting prices are published, and maintenance is free for five months.",
+      "Three remote engineers building websites, dealer catalogues, online stores and WhatsApp workflows for businesses across Panvel: Old Panvel shops, clinics and coaching classes in Kharghar and Kamothe, Kalamboli steel traders, Taloja chemical units and the property, logistics and hospitality firms growing around the new airport. Starting prices are published, and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Marathi, Hindi, English", "Steel and chemical catalogues", "Node-wise local SEO", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "For a Panvel business, a website with our team starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panvel office, and maintenance is free for five months after launch.",
+    "For a Panvel business, a website with our team starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panvel office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Civic body", value: "Panvel Municipal Corporation, formed in October 2016; the town's municipal council dates back to 1852" },
     { label: "Urban nodes", value: "Old and New Panvel, Kharghar, Kamothe, Kalamboli, Taloja and Karanjade, many planned by CIDCO" },
@@ -52,10 +52,10 @@ const panvel: CityContent = {
     ai: "WhatsApp assistants that answer fees, availability, site-visit slots or product specs in English, Hindi or Marathi, then hand over to your team.",
     data: "Lead, sales and dispatch figures combined into a dashboard, so a builder, dealer or clinic chain in Panvel can see which source actually converts.",
     app: "Android and iOS apps for society notices, dealer orders, patient tokens or student portals, published on both stores and starting at ₹40,000.",
-    maintenance: "Content changes, updates, backups and monitoring free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content changes, updates, backups and monitoring free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Panvel businesses can hire from Mumbai agencies, Navi Mumbai freelancers or someone in the next building. Prices are rarely written down, and the domain often ends up in the wrong name. We publish our starting prices, register everything to you, reply on WhatsApp all seven days and cover maintenance free for the first five months after launch.",
+    "Panvel businesses can hire from Mumbai agencies, Navi Mumbai freelancers or someone in the next building. Prices are rarely written down, and the domain often ends up in the wrong name. We publish our starting prices, register everything to you, reply on WhatsApp all seven days and cover maintenance free for the first two months after launch.",
   pricingIntro:
     "These are starting prices. A single-branch physiotherapy clinic in Kamothe and a Taloja chemical maker with sixty product data sheets are very different jobs, so the final figure follows your pages, features and content. You get it itemised in writing within about two working days, and nothing is billed before you approve it.",
   sections: [
@@ -171,7 +171,7 @@ const panvel: CityContent = {
       paragraphs: [
         "A lot of Panvel businesses discover their website problem only when the site goes down: the domain was registered by a previous developer, the hosting renewed on someone else's card, and nobody answers the phone. Recovering a domain from a stranger's account can take weeks.",
         "With us, the domain is in your name and the hosting account belongs to you from the start. At launch you get every login, the complete source code and a short document explaining the setup. You can move to another developer whenever you like, with no exit fee.",
-        "Maintenance is free for five months after launch and includes content edits, bug fixes, security updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month or contact us only when something needs changing.",
+        "Maintenance is free for two months after launch and includes content edits, bug fixes, security updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month or contact us only when something needs changing.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const panvel: CityContent = {
     {
       question: "What is included in the free maintenance period?",
       answer:
-        "For five months after launch we handle content edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long does SEO take in Panvel?",

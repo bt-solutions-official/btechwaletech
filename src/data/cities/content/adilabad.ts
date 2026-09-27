@@ -30,11 +30,11 @@ const adilabad: CityContent = {
     eyebrow: "Adilabad · Telangana",
     h1: "Websites, software, SEO and AI tools for Adilabad's cotton trade, highway businesses and crafts",
     lede:
-      "Three engineers working remotely to build websites, Telugu, Marathi and English search pages, online stores and WhatsApp tools for Adilabad ginning mills, cotton traders, agri dealers, NH 44 hotels, Dokra artisans, RIMS-area clinics and shops near Vinayak Chowk. All prices are starting figures, accounts stay in your name, and maintenance is free for five months.",
+      "Three engineers working remotely to build websites, Telugu, Marathi and English search pages, online stores and WhatsApp tools for Adilabad ginning mills, cotton traders, agri dealers, NH 44 hotels, Dokra artisans, RIMS-area clinics and shops near Vinayak Chowk. All prices are starting figures, accounts stay in your name, and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Telugu, Marathi and Hindi pages", "Ginning and trade profiles", "Dokra craft stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Adilabad, a static business website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 299+ page SEO website starts from ₹20,000, and an online store starts from ₹50,000. We are three remote engineers with no Adilabad office, and every site includes five months of free maintenance after launch.",
+    "In Adilabad, a static business website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 299+ page SEO website starts from ₹20,000, and an online store starts from ₹50,000. We are three remote engineers with no Adilabad office, and every site includes two months of free maintenance after launch.",
   snapshot: [
     { label: "Town", value: "Headquarters of Adilabad district at Telangana's northern edge; about 117,000 people in the 2011 Census" },
     { label: "Roads and rail", value: "NH 44 and NH 353B; Adilabad station on the Mudkhed–Adilabad line; Nagpur about 196 km, Hyderabad about 304 km" },
@@ -51,7 +51,7 @@ const adilabad: CityContent = {
     ai: "WhatsApp assistants that answer routine questions on rates, stock, rooms or OP timings in Telugu, Marathi, Hindi or English, and hand over the rest.",
     data: "Dashboards for arrivals, bales pressed, dispatches, dealer dues and enquiry sources, easy to read on a phone during the busy season.",
     app: "Android and iOS apps for field staff visiting villages, college students and patients, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Adilabad sits far from Hyderabad's agencies and close to Maharashtra, so owners often end up with a relative's half-finished site or a quote with no detail. We publish starting prices, send an itemised quote before billing, write in Telugu, Marathi or Hindi where your customers need it, and reply on WhatsApp every day.",
@@ -205,7 +205,7 @@ const adilabad: CityContent = {
       paragraphs: [
         "In many towns, a developer registers the client's domain in his own name, and when he stops answering and the renewal lapses, the website and email disappear. We make sure that cannot happen to you.",
         "Your domain and hosting are opened in your name from day one. At launch you receive every login, the complete source code and a short guide for simple edits. You can move to another developer at any time without an exit fee.",
-        "For five months after launch, maintenance is free: content updates, bug fixes, security patches, backups and speed checks. After that it is from ₹8,000 a month, or you can message us only when something needs changing. Reach us on the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "For two months after launch, maintenance is free: content updates, bug fixes, security patches, backups and speed checks. After that it is from ₹8,000 a month, or you can message us only when something needs changing. Reach us on the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -297,7 +297,7 @@ const adilabad: CityContent = {
     {
       question: "What is covered by free maintenance?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security patches, backups and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when something needs changing.",
+        "For two months after launch we handle content updates, bug fixes, security patches, backups and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when something needs changing.",
     },
     {
       question: "What do I send to get a quote?",

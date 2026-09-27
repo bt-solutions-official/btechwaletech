@@ -31,11 +31,11 @@ const tirupati: CityContent = {
     eyebrow: "Tirupati · Andhra Pradesh",
     h1: "Web development, search and automation for Tirupati's pilgrim, education and industrial economy",
     lede:
-      "Three remote engineers building booking-ready websites for lodges and travel operators, course sites for colleges, supplier pages for the Renigunta and Sri City belt, and WhatsApp workflows for clinics and shops across Tirupati. Prices are published, you keep full ownership, and five months of maintenance after launch are included free.",
+      "Three remote engineers building booking-ready websites for lodges and travel operators, course sites for colleges, supplier pages for the Renigunta and Sri City belt, and WhatsApp workflows for clinics and shops across Tirupati. Prices are published, you keep full ownership, and two months of maintenance after launch are included free.",
     pills: ["Websites from ₹10,000", "Telugu, English, Tamil", "Hotel and travel bookings", "Supplier sites for EMC and Sri City", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Tirupati, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, with online stores from ₹50,000 and booking or custom web apps from ₹60,000. We are a remote team of three engineers with no Tirupati office, and each project comes with five months of free maintenance.",
+    "In Tirupati, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, with online stores from ₹50,000 and booking or custom web apps from ₹60,000. We are a remote team of three engineers with no Tirupati office, and each project comes with two months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage economy", value: "Sri Venkateswara Temple at Tirumala, run by Tirumala Tirupati Devasthanams (TTD), draws devotees from across India" },
     { label: "Electronics and industry", value: "APIIC Electronics Manufacturing Cluster (home to a Foxlink facility), Renigunta, and Sri City SEZ in the district" },
@@ -52,10 +52,10 @@ const tirupati: CityContent = {
     ai: "WhatsApp auto-replies that answer the repetitive questions pilgrims and parents ask, from room rates to fee structures, in Telugu, Tamil, Hindi or English.",
     data: "Occupancy, sales and admissions dashboards that help owners plan staff and stock around festival rushes and exam seasons.",
     app: "Android and iOS apps for room bookings, cab requests and student portals that run on modest phones, listed on Google Play and the App Store.",
-    maintenance: "Rate changes, festival updates, backups and security fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Rate changes, festival updates, backups and security fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Tirupati has plenty of local web designers, and many sites they build look identical: a temple photograph, a phone number and little else. We publish our prices, reply on WhatsApp seven days a week, and look after your site for five months after launch at no charge, so a festival-week rate change never waits on an unanswered call.",
+    "Tirupati has plenty of local web designers, and many sites they build look identical: a temple photograph, a phone number and little else. We publish our prices, reply on WhatsApp seven days a week, and look after your site for two months after launch at no charge, so a festival-week rate change never waits on an unanswered call.",
   pricingIntro:
     "Website quotes in Tirupati range widely, and a hotel owner often cannot tell what separates a cheap offer from an expensive one. These are our real starting prices. The final figure depends on pages, languages, booking features and content, and you see each item listed before we bill anything.",
   sections: [
@@ -177,7 +177,7 @@ const tirupati: CityContent = {
       paragraphs: [
         "Many older Tirupati business websites have the same weakness: the domain was booked by whoever built the site, under their own account. When that person moves on, renewals lapse, the site goes offline and the business loses a web address printed on brochures and signboards. We set things up so that cannot happen.",
         "Your domain and hosting are registered in your name. At launch you receive every login, the full source code and a short note explaining how everything is connected. If you ever want another developer to take over, they can start immediately, and we charge no exit fee.",
-        "The first five months of maintenance after launch are free, covering content and rate changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need something done. Reach us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "The first two months of maintenance after launch are free, covering content and rate changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need something done. Reach us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const tirupati: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle content and rate updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle content and rate updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "What do you need from me to send a quote?",

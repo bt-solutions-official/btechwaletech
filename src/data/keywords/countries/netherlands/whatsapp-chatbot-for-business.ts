@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Meta billing", "Per delivered template message"],
     ["Customer replies", "Free inside the 24-hour service window"],
     ["Languages", "Dutch and English flows; you approve Dutch text"],
-    ["Upkeep from", `${P.care} after 5 free months`],
+    ["Upkeep from", `${P.care} after 2 free months`],
   ],
   stats: [
     { value: "24", label: "Hours in WhatsApp's customer service window" },
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Opt-in", value: "Collected at checkout or booking, stored with wording and timestamp" },
       { label: "Top flows", value: "Where is my order, track my parcel, book or move an appointment" },
       { label: "Handover", value: "Keyword, button or bot confidence triggers a human agent" },
-      { label: "After launch", value: `5 free months, then upkeep from ${P.care}` },
+      { label: "After launch", value: `2 free months, then upkeep from ${P.care}` },
     ],
   },
   services: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Human handover inbox", note: "A shared inbox so staff take over a conversation with its history, and the bot stays quiet until they hand it back.", href: "/whatsapp-crm-for-small-business/", size: "md" },
       { name: "Opt-in and consent capture", note: "Opt-in boxes at checkout and booking, stored with the wording shown, plus a working stop keyword.", size: "sm" },
       { name: "Template messages", note: "Order confirmations, shipping updates and reminders written, categorised and submitted for Meta approval.", size: "sm" },
-      { name: "Upkeep", note: `Monitoring, template updates, flow tweaks and API changes handled, from ${P.care} after five free months.`, size: "sm" },
+      { name: "Upkeep", note: `Monitoring, template updates, flow tweaks and API changes handled, from ${P.care} after two free months.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a WhatsApp chatbot costs for a Dutch business",
-    note: `There are two separate costs. Our build starts from ${P.ai} for a custom WhatsApp chatbot with one or two flows, platform set-up, templates, opt-in capture and handover to staff; more flows, AI answers or extra integrations raise the quote. Meta's own charges are billed to your Meta account per delivered template message, by category and recipient country, and Meta publishes rate cards in EUR among other currencies. Hosting for the bot runs in your cloud account. After five months of free upkeep, care starts from ${P.care}. The quote is itemised in USD.`,
+    note: `There are two separate costs. Our build starts from ${P.ai} for a custom WhatsApp chatbot with one or two flows, platform set-up, templates, opt-in capture and handover to staff; more flows, AI answers or extra integrations raise the quote. Meta's own charges are billed to your Meta account per delivered template message, by category and recipient country, and Meta publishes rate cards in EUR among other currencies. Hosting for the bot runs in your cloud account. After two months of free upkeep, care starts from ${P.care}. The quote is itemised in USD.`,
   },
   guideLabel: "Guide to a WhatsApp chatbot for business in the Netherlands",
   guide: [
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
         ["Booking bot", "Calendar link, booking, reminders, rescheduling", P.ai, "2–4 weeks"],
         ["AI-assisted bot", "Answers from your content, labels, logging, caps", P.ai, "3–4 weeks"],
         ["Bot plus custom back-end", "New booking or order system behind the bot", P.software, "6–12 weeks"],
-        ["Upkeep", "Monitoring, template and flow changes, API updates", P.care, "Monthly, after 5 free months"],
+        ["Upkeep", "Monitoring, template and flow changes, API updates", P.care, "Monthly, after 2 free months"],
       ],
       hideSm: [3],
     },
@@ -450,7 +450,7 @@ const content: FreelanceContent = {
       ["Meta platform set-up", "Business portfolio, verification, number and display name under your company, with the Cloud API connected to a test environment."],
       ["Build and test on your phone", "Flows go live on a test number first. You and your staff try to break them; we fix what you find within days."],
       ["Templates and opt-in", "Templates submitted in Dutch and English, opt-in added at checkout or booking, stop keyword and handover tested."],
-      ["Launch and upkeep", "Switch to the live number, monitor the first weeks closely, then five months of free upkeep before care plans begin."],
+      ["Launch and upkeep", "Switch to the live number, monitor the first weeks closely, then two months of free upkeep before care plans begin."],
     ],
   },
   faqHeading: "WhatsApp chatbot for business: questions from Dutch companies",
@@ -472,7 +472,7 @@ const content: FreelanceContent = {
     { question: "Can I send promotions through the WhatsApp chatbot?", answer: "Yes, as marketing templates to customers who opted in to marketing specifically. They are charged by Meta and affect how customers perceive you, so keep volume modest and content relevant. Many blocks or reports can lower your quality rating and messaging limits. We keep service and marketing opt-ins separate." },
     { question: "Who owns a WhatsApp chatbot for business and its account?", answer: "You do. The Meta Business portfolio, WhatsApp Business account, phone number, cloud account and bot code are all in your company's name. We are added as users or partners that you can remove. Handover includes documentation of the flows, integrations and hosting so another developer could continue." },
     { question: "Why use a developer instead of a chatbot SaaS tool?", answer: "A SaaS tool is quicker for standard flows and suits businesses without special integrations. A custom build makes sense when you need live data from your own systems, want no per-seat monthly fees, or want the bot and logs in your own EU cloud account. We will tell you if a SaaS tool would serve you better." },
-    { question: "What happens after a WhatsApp chatbot for business launches?", answer: `We monitor closely in the first weeks, adjust flows based on real questions, and cover five months of upkeep for free. After that, care starts from ${P.care} and covers monitoring, template changes, small flow edits and updates when Meta or your shop platform changes an API. New flows are quoted separately.` },
+    { question: "What happens after a WhatsApp chatbot for business launches?", answer: `We monitor closely in the first weeks, adjust flows based on real questions, and cover two months of upkeep for free. After that, care starts from ${P.care} and covers monitoring, template changes, small flow edits and updates when Meta or your shop platform changes an API. New flows are quoted separately.` },
     { question: "Is it practical to work with a team in India on this?", answer: "Yes. You test flows on your own phone from week one, and we talk during your mornings and early afternoons, which overlap with our working day. WhatsApp messages are answered seven days a week. Quotes are in USD, paid by Wise, bank wire or PayPal in milestones, with nothing billed before you approve." },
     { question: "Can the WhatsApp bot connect to my CRM or helpdesk?", answer: "Usually yes, if your CRM or helpdesk has an API. The bot can create or update contacts, open tickets and attach the conversation, and staff can work from the tool they already use. We check where each connected tool stores data, since that belongs in your privacy documentation." },
   ],

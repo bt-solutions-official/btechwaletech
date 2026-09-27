@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI workflows that read distributor price lists, update your catalogue and draft quotations from customer requirements sent on WhatsApp or email.",
     data: "Margin, stock ageing, receivables and quotation-conversion dashboards for owners who deal across hundreds of SKUs and customers.",
     app: "Android and iOS apps for Nehru Place dealers and technicians, from B2B catalogue apps to field service apps, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Nehru Place traders already know technology better than most clients, and they can spot padding in a quote. As a freelance group we keep it transparent: three engineers, itemised modules with starting prices, weekly releases you can test, and full ownership of the code and data at handover.",
@@ -174,7 +174,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for Nehru Place businesses moves quotation, inventory and service systems off a single shop computer onto managed servers with SSL, daily backups and monitoring, so a failed hard disk or a stolen laptop does not wipe out records. Ironically, many IT traders run their own business on the least protected machine in the shop.",
         "We deploy on AWS or comparable providers, set up access controls so staff logins are individual, and configure backups that are tested. Everything is documented, and all credentials are handed to you.",
-        "Five months of maintenance are free after launch, covering fixes, updates, backups, security patches and speed checks. Afterwards, plans start from ₹8,000 a month. We build with Next.js, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, so any developer can extend the system later.",
+        "Two months of maintenance are free after launch, covering fixes, updates, backups, security patches and speed checks. Afterwards, plans start from ₹8,000 a month. We build with Next.js, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, so any developer can extend the system later.",
       ],
     },
     {
@@ -200,7 +200,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000",
         "B2B store or dealer portal: from ₹50,000",
         "Quotation, inventory or AMC software: from ₹60,000",
-        "Maintenance after five free months: from ₹8,000 a month",
+        "Maintenance after two free months: from ₹8,000 a month",
       ],
     },
     {
@@ -296,7 +296,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can request work as needed.",
+        "Two months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can request work as needed.",
     },
     {
       question: "Can the catalogue show different prices to different dealers?",

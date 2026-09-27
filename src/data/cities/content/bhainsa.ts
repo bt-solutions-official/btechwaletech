@@ -56,7 +56,7 @@ const bhainsa: CityContent = {
     ai: "WhatsApp assistants that reply in Telugu, Urdu, Hindi or Marathi on rates, stock and timings, then hand real decisions to you.",
     data: "Season dashboards of quintals bought, lots pressed, payments due and dealer balances, readable on a phone.",
     app: "Android and iOS apps for farmer rate alerts or school notices, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Bhainsa owners run tight businesses through a cotton season that rewards speed and punishes mistakes. We publish our starting prices, put every item of the quote in writing, answer WhatsApp every day of the week, and register the domain, hosting, code and store accounts in your name. If something will not pay for itself, we say so first.",
@@ -188,7 +188,7 @@ const bhainsa: CityContent = {
       heading: "Ownership, maintenance and IT services around Bhainsa: Mudhole, Basar, Kubeer",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered on your email, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as the owner. You get a written sheet of every login at handover, so nobody, including us, can lock you out.",
-        "The first five months after launch include free maintenance: price and photo updates, backups, security and version updates, and checks that forms, payments and WhatsApp links still work. After that, continue with us from ₹8,000 a month, handle it yourself, or give the code to another developer. Apps need a yearly rebuild as Google and Apple raise their minimum versions, and we plan it before the deadline.",
+        "The first two months after launch include free maintenance: price and photo updates, backups, security and version updates, and checks that forms, payments and WhatsApp links still work. After that, continue with us from ₹8,000 a month, handle it yourself, or give the code to another developer. Apps need a yearly rebuild as Google and Apple raise their minimum versions, and we plan it before the deadline.",
         "We work across the revenue division, including Mudhole, Basar, Kubeer, Kuntala, Tanoor and Lokeswaram, and further to Nirmal, Nizamabad, Bodhan, Adilabad and Nanded across the border. Businesses serving several towns can have a page for each, but each page carries real facts: branch or no branch, delivery times, villages covered and the right number to call.",
         "Not sure what you need? Send two lines on WhatsApp. Sometimes the answer is a website or app; sometimes it is just fixing your map pin, which you can do yourself, and we will tell you.",
       ],
@@ -272,7 +272,7 @@ const bhainsa: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance after launch are free: price and photo updates, backups, security and version updates, and checks on forms, payments and WhatsApp links. After that, continue from ₹8,000 a month, manage it yourself, or move to another developer, since every account is already in your name.",
+        "Two months of maintenance after launch are free: price and photo updates, backups, security and version updates, and checks on forms, payments and WhatsApp links. After that, continue from ₹8,000 a month, manage it yourself, or move to another developer, since every account is already in your name.",
     },
     {
       question: "Do you work in Mudhole, Basar and Nirmal as well?",

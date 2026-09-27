@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that draft quotations from enquiries, read incoming emails for tender deadlines and answer routine WhatsApp questions from customers and parents.",
     data: "Production, dispatch and receivables dashboards built from Tally, Excel and shop-floor entries, readable on a supervisor's phone.",
     app: "Android and iOS apps for Durgapur maintenance crews, site engineers, students and patients, published on Google Play and the App Store with an admin panel behind them, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month covering updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month covering updates, backups and fixes.",
   },
   whyUsIntro:
     "Durgapur has a strong engineering talent pool, yet many small and mid-sized firms here still run operations on Excel and paper because custom software looked either too expensive or too risky. We try to remove both fears: starting prices are published, quotes are itemised by module, and you speak directly with the three engineers who build the system.",
@@ -169,7 +169,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for a Durgapur firm puts your software on managed servers with daily backups, SSL and monitoring, so a failed office PC or a power fluctuation no longer threatens your records. We set up hosting on AWS or a comparable provider, configure domains and business email records, and document everything we deploy.",
         "Many small industrial firms still keep critical data on one desktop with no backup. Moving to a hosted web app means the owner can check figures from home, supervisors can enter data from the shop floor, and a hardware failure costs a morning rather than a year of records. We right-size hosting so monthly bills stay modest.",
-        "Every project includes five months of maintenance free after launch, covering fixes, updates, backups and speed checks. After that you can choose a plan from ₹8,000 per month or request work only when needed. You keep the admin credentials for the domain, hosting and repository throughout, so you are free to move to another provider at any time.",
+        "Every project includes two months of maintenance free after launch, covering fixes, updates, backups and speed checks. After that you can choose a plan from ₹8,000 per month or request work only when needed. You keep the admin credentials for the domain, hosting and repository throughout, so you are free to move to another provider at any time.",
       ],
     },
     {
@@ -214,7 +214,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000",
         "Ecommerce or B2B ordering: from ₹50,000",
         "Custom software or web app: from ₹60,000",
-        "Maintenance after the free five months: from ₹8,000 per month",
+        "Maintenance after the free two months: from ₹8,000 per month",
       ],
     },
     {
@@ -239,7 +239,7 @@ const content: CityContent = {
         "Weeks 2–3: clickable screens and feedback",
         "Weeks 3–9: development in weekly releases",
         "Final weeks: data migration, training and parallel run",
-        "After launch: five months of free maintenance",
+        "After launch: two months of free maintenance",
       ],
     },
   ],
@@ -300,7 +300,7 @@ const content: CityContent = {
     {
       question: "What happens after launch?",
       answer:
-        "Five months of maintenance are included free once hosting is live: bug fixes, minor changes, security updates, backups and uptime and speed checks. Afterwards you can choose a plan from ₹8,000 a month or ask for help only when needed, paying for that specific work.",
+        "Two months of maintenance are included free once hosting is live: bug fixes, minor changes, security updates, backups and uptime and speed checks. Afterwards you can choose a plan from ₹8,000 a month or ask for help only when needed, paying for that specific work.",
     },
     {
       question: "How much does an Android and iOS app cost for a Durgapur business?",

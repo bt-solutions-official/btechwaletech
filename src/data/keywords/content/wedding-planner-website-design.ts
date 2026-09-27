@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Usual build time", "1–2 weeks, or 3–5 with many venues"],
     ["Enquiry routing", "Budget form to WhatsApp and email"],
     ["Overseas couples", "Card checkout for deposits, calls by time zone"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support the site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Lead capture", value: "Budget band, guest count, dates, destination, family contact" },
       { label: "Overseas clients", value: "Calendar shows slots in the visitor’s local time" },
       { label: "Follow-up automation", value: `WhatsApp and email sequences from ${P.ai}` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: domain, hosting, code, content, photos and every enquiry the site collects. We are added as users on your accounts during the build and removed or kept on as you choose.`,
         `At handover you receive the admin login for stories, venues and packages; access to the hosting and domain accounts registered in your business name; the code repository; and a short recorded walkthrough showing your team how to add a new real-wedding story in about ten minutes. Enquiries go to your WhatsApp, email and, if connected, your own CRM or sheet.`,
-        `For five months after launch, maintenance is free: fixing anything that breaks, small content changes your team gets stuck on, and checking forms still deliver. After that, maintenance is optional from ${P.care} a month. Many planners take it only for the wedding season and pause it in quieter months. Contract terms for anything beyond that are written into your quote; our <a href='/terms/'>terms</a> page explains the general position.`,
+        `For two months after launch, maintenance is free: fixing anything that breaks, small content changes your team gets stuck on, and checking forms still deliver. After that, maintenance is optional from ${P.care} a month. Many planners take it only for the wedding season and pause it in quieter months. Contract terms for anything beyond that are written into your quote; our <a href='/terms/'>terms</a> page explains the general position.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Approve the structure", "We send a sitemap, the budget form steps and a wireframe of a story page. Your team signs off before any design starts, so nobody redoes work later."],
       ["Design and fill on staging", "Tier, destination and story templates are designed, then filled with your content on a private link your partners and family can review on their phones."],
       ["Test enquiries end to end", "Your team submits test briefs from India and abroad, books test calls and checks WhatsApp alerts, confirmations and email copies arrive correctly."],
-      ["Launch and hand over", `We connect your domain, verify Search Console, hand over every login and record a short guide to adding stories. Five months of free maintenance follow, then optional care from ${P.care}.`],
+      ["Launch and hand over", `We connect your domain, verify Search Console, hand over every login and record a short guide to adding stories. Two months of free maintenance follow, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Wedding planner website design: questions planners ask",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Will my wedding planner website rank first on Google?", answer: `No one can honestly promise that. Rankings depend on competition, your content, reviews and many factors outside a developer’s control. We build fast, crawlable pages with clear destination and story content, structured data and Search Console set up. Ongoing SEO from ${P.seo} a month focuses on content and technical health, reported transparently.` },
     { question: "How do AI search tools decide which wedding planner to mention?", answer: "They tend to draw on pages that state facts plainly: destinations covered, typical head counts, what each package includes, how overseas planning works, plus consistent business details across the web. A site with question-style headings and short direct answers gives assistants and Google’s AI Overviews something quotable, while a photo-only site gives them nothing." },
     { question: "Can the website be in Hindi as well as English?", answer: "Yes. We often build package, form and how-we-work pages in Hindi for parents, with the rest in English, and can add another Indian language. You supply or approve the translated text, and each language gets proper tags so search engines serve the right version. A language switch sits on every page." },
-    { question: "What does maintenance include after the site goes live?", answer: `Five months of free maintenance follow launch: fixing anything that breaks, helping when your team gets stuck adding a story, and checking that forms and bookings still deliver. After that, maintenance is optional from ${P.care} a month. Many planners keep it through the wedding season and pause it in quieter months.` },
+    { question: "What does maintenance include after the site goes live?", answer: `Two months of free maintenance follow launch: fixing anything that breaks, helping when your team gets stuck adding a story, and checking that forms and bookings still deliver. After that, maintenance is optional from ${P.care} a month. Many planners keep it through the wedding season and pause it in quieter months.` },
     { question: "Can the site handle large photo galleries without becoming slow?", answer: "Yes, if it is built for it. We resize each photo to the sizes actually shown, serve WebP or AVIF, load galleries only as the visitor scrolls and host films on a video platform. That keeps story pages quick on mobile data, which matters because relatives often open links on older phones." },
     { question: "How do I pay for the website?", answer: "Planners in India pay by UPI or bank transfer; clients abroad pay in US dollars by Wise, bank wire or PayPal. Payments are staged against visible work as set out in your written quote, and nothing is billed before your approval. Invoicing details are agreed at quote stage, and our refund policy page explains the general position." },
     { question: "Can you sign an NDA before I share client photos and budgets?", answer: "Ask us, and confidentiality terms can be discussed and written into your quote. For most planner sites we only need photos you have permission to publish and your package descriptions, not private client budgets. Where we do handle personal data, it stays in your accounts and is used only for the build." },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want briefs with dates, guests and budgets instead of “rates?”",
-    note: `Send your packages, destinations and a few favourite weddings on WhatsApp. An itemised quote follows in about two working days, with wedding planner websites from ${P.site}, all accounts in your name and five months of free maintenance after launch.`,
+    note: `Send your packages, destinations and a few favourite weddings on WhatsApp. An itemised quote follows in about two working days, with wedding planner websites from ${P.site}, all accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

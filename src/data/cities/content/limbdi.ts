@@ -56,7 +56,7 @@ const limbdi: CityContent = {
     ai: "WhatsApp assistants that answer rate, admission and room enquiries in Gujarati and hand the real decisions back to you.",
     data: "Season dashboards showing kapas bought, bales pressed, dispatches and money still owed, updated from the yard office.",
     app: "Android and iOS apps for ginning buyers logging farmer arrivals, or for college and hotel users, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Limbdi traders work on thin margins and remember who kept their word last season. So we publish starting prices, send an itemised written quote, reply on WhatsApp every day of the week and register the domain, hosting, code and app accounts in your name. When a feature will not earn back its cost, we tell you plainly.",
@@ -186,7 +186,7 @@ const limbdi: CityContent = {
       paragraphs: [
         "You own it outright. The domain is registered to your email, the hosting account is in your name, the full source code is handed over, and the Google Play, App Store and Google Business Profile accounts list you as owner.",
         "This matters more than it sounds. Small businesses in the district have lost websites because whoever built them kept the domain login and then stopped answering. With us, the handover sheet lists every username and recovery email, and you can move to another developer whenever you like without asking our permission.",
-        "For five months after launch, maintenance costs nothing. We update rates and photographs, take backups, apply security and version updates, and check that forms, UPI checkout and WhatsApp links still work. After that, paid maintenance starts at ₹8,000 a month if you want it, and you can pause it and restart later.",
+        "For two months after launch, maintenance costs nothing. We update rates and photographs, take backups, apply security and version updates, and check that forms, UPI checkout and WhatsApp links still work. After that, paid maintenance starts at ₹8,000 a month if you want it, and you can pause it and restart later.",
         "Apps need care even when nothing is broken, since Google and Apple raise their minimum requirements every year. We watch those deadlines and ship the required update before your store listing is at risk.",
       ],
     },
@@ -273,7 +273,7 @@ const limbdi: CityContent = {
     {
       question: "What maintenance do you provide for Limbdi websites after launch?",
       answer:
-        "Every Limbdi website or app gets five months of free maintenance after launch: rate and photo edits, backups, security updates and regular checks of forms, UPI checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you choose it. Because the code and accounts are already yours, you can also hand upkeep to anyone else.",
+        "Every Limbdi website or app gets two months of free maintenance after launch: rate and photo edits, backups, security updates and regular checks of forms, UPI checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you choose it. Because the code and accounts are already yours, you can also hand upkeep to anyone else.",
     },
     {
       question: "Do you also serve Chuda, Sayla, Lakhtar and Dhandhuka?",

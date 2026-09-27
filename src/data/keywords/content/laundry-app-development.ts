@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks for the apps"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Tags", "Printed barcodes read by phone camera or scanner"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and publish" },
     { value: "2", label: "Working days for your itemised quote" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
     { value: "0", label: "Commission taken on your orders" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Laundry app development pricing",
-    note: `Laundry app development is quoted in modules so you can see what each part costs. The customer and rider apps start at ${P.app}; the store and factory panel with tagging, pricing and invoices starts at ${P.software}. The biggest cost drivers are a separate processing factory with its own logins, franchise outlets, slot capacity rules, hardware such as label printers and scanners, and moving your current customer list across. A laundry that only needs counter tagging and WhatsApp status can start with the panel alone. Every quote is itemised, nothing is billed before your written approval, and the first 5 months of maintenance after launch are free; ongoing care starts at ${P.care}.`,
+    note: `Laundry app development is quoted in modules so you can see what each part costs. The customer and rider apps start at ${P.app}; the store and factory panel with tagging, pricing and invoices starts at ${P.software}. The biggest cost drivers are a separate processing factory with its own logins, franchise outlets, slot capacity rules, hardware such as label printers and scanners, and moving your current customer list across. A laundry that only needs counter tagging and WhatsApp status can start with the panel alone. Every quote is itemised, nothing is billed before your written approval, and the first 2 months of maintenance after launch are free; ongoing care starts at ${P.care}.`,
   },
   guideLabel: "Laundry app development guide",
   guide: [
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, laundry app development starts at ${P.app} for the customer and rider apps and ${P.software} for the store and factory panel. A laundry that only needs counter tagging, pricing and WhatsApp status can start with the panel alone.`,
         `What pushes cost up: a separate factory with its own workflow, several stores or franchise outlets, slot capacity logic per area, packages and prepaid credit, integration with existing billing software, and data migration. What barely moves it: adding services to the price list, extra reports on data already stored, and a second language for labels.`,
-        `Running costs sit in your accounts, not ours: cloud hosting, WhatsApp template charges billed by Meta, payment gateway fees, label stock, Google Play’s one-time US$25 registration and Apple’s US$99 yearly fee if you publish on iPhone. After the first five free months, maintenance starts at ${P.care}. The wider budget picture is on <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
+        `Running costs sit in your accounts, not ours: cloud hosting, WhatsApp template charges billed by Meta, payment gateway fees, label stock, Google Play’s one-time US$25 registration and Apple’s US$99 yearly fee if you publish on iPhone. After the first two free months, maintenance starts at ${P.care}. The wider budget picture is on <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
       ],
     },
     {
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["iPhone customer app", "Same Flutter app published on the App Store", "Quoted as an add-on", "1–2 weeks extra"],
         ["Franchise and factory module", "Outlet logins, shared factory queue, settlements", "Quoted with the panel", "2–4 weeks extra"],
         ["Website with booking link", "Services, areas, prices from, WhatsApp button", `${P.site}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", "Updates, store requirements, backups, fixes", `${P.care}`, "Ongoing"],
+        ["Maintenance after 2 free months", "Updates, store requirements, backups, fixes", `${P.care}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Agree stages and screens", "We list your garment stages, pricing rules and slot logic, and sketch the counter, factory, rider and customer screens for you to correct."],
       ["Panel and tagging go live first", "Counter and factory staff start tagging and scanning with your label printer while old slips run in parallel, so gaps show quickly."],
       ["Riders and customer app follow", "The rider app and customer app launch with capped slots and itemised bills, published under your own developer accounts."],
-      ["Hand over, then five months of care", "You receive the code, logins and system notes. Bugs and store requirement changes are handled free for five months after launch."],
+      ["Hand over, then two months of care", "You receive the code, logins and system notes. Bugs and store requirement changes are handled free for two months after launch."],
     ],
   },
   faqHeading: "Laundry app development: frequently asked questions",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "How do I handle damage and stain disputes in the app?", answer: "At pickup or receiving, staff note existing stains, tears or missing buttons and take a photo attached to that garment’s tag. The customer sees these notes on the itemised bill before processing and can approve or query them. If a dispute arises later, the photo and timestamp show the garment’s condition when it arrived." },
     { question: "Can customers approve the bill before processing starts?", answer: "Yes. After the store itemises the order, the bill appears in the app and on WhatsApp with item counts, services, prices and any damage notes. The customer approves it or raises a question. You choose whether processing waits for approval or starts automatically after a set time for regular customers." },
     { question: "Can the laundry app offer monthly packages and prepaid credit?", answer: "Yes. You can sell wash plans with a weight or item allowance per month, and prepaid credit that customers top up by UPI or card. The app shows the remaining balance after every order. Hostels, PGs and families often prefer packages, and they give you predictable revenue each month." },
-    { question: "What does laundry app maintenance cost after launch?", answer: `The first 5 months after launch include free maintenance: bug fixes, small adjustments and updates needed for store requirements. After that, maintenance starts at ${P.care}. Hosting, WhatsApp message charges, payment fees and store fees are billed to your own accounts by those providers, so there are no hidden markups in them.` },
+    { question: "What does laundry app maintenance cost after launch?", answer: `The first 2 months after launch include free maintenance: bug fixes, small adjustments and updates needed for store requirements. After that, maintenance starts at ${P.care}. Hosting, WhatsApp message charges, payment fees and store fees are billed to your own accounts by those providers, so there are no hidden markups in them.` },
     { question: "Can you move my existing laundry customers into the new app?", answer: "Yes. We give you a sheet template for customers, addresses, phone numbers, preferences and outstanding balances, or we export data from your current software if it allows. Open orders can be entered once at go-live. Customers then receive a WhatsApp message inviting them to the app without re-registering from scratch." },
     { question: "Will a laundry app help me get more customers from Google?", answer: `An app alone does not bring discovery. Customers search for laundry or dry cleaners near them on Google and in AI answers. A complete Google Business Profile, a small website with services and areas from ${P.site}, and genuine reviews help. We also offer local SEO from ${P.seo}, though nobody can honestly guarantee rankings.` },
     { question: "Can the app handle hotel, hostel and gym linen accounts?", answer: "Yes. Business accounts can have their own price list, scheduled weekly pickups, bag or item counts per pickup, and monthly GST invoices with a statement. Items can be tagged by account rather than individually if volumes are high, and discrepancies between items sent and returned are shown per pickup." },

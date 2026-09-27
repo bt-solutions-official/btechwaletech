@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Multi-agent property portal", `From ${P.software}`],
     ["Property app (Android & iOS)", `From ${P.app}`],
     ["Lead alerts", "WhatsApp and email, per listing"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your property site" },
     { value: "700+", label: "Pages possible in the locality SEO plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free care after launch" },
+    { value: "2", label: "Months of free care after launch" },
   ],
   answer: {
     heading: "What does a real estate website developer build, and what does it cost?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Portal with owner and agent logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Lead handling", value: "Form, call and WhatsApp leads logged with source" },
       { label: "Compliance display", value: "RERA number and authority link on project pages" },
-      { label: "Care", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Property projects move fastest when the data comes first. We ask for your inventory list, project details and sales process before anyone opens a design tool.`,
         `Week one: we agree the site type, data fields (price, carpet area, BHK, possession, RERA, amenities), lead routing rules and page list, and you receive an itemised quote in about two working days. Design follows on a staging link for your phone. Then we build the admin panel and load real listings early, because layouts that look fine with sample data often break with real project names and long amenity lists.`,
-        `Before launch we test every filter combination, every lead path including WhatsApp and call buttons, and form alerts to each salesperson. On launch day the domain points to the new site, HTTPS goes live, Search Console is verified and the sitemap is submitted. Five months of free maintenance follows. For a builder site this whole cycle usually takes one to two weeks; a locality SEO build three to five; a portal six to twelve.`,
+        `Before launch we test every filter combination, every lead path including WhatsApp and call buttons, and form alerts to each salesperson. On launch day the domain points to the new site, HTTPS goes live, Search Console is verified and the sitemap is submitted. Two months of free maintenance follows. For a builder site this whole cycle usually takes one to two weeks; a locality SEO build three to five; a portal six to twelve.`,
       ],
     },
     {
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       heading: "Property website banwana hai? Aasan bhasha mein",
       paragraphs: [
         `Agar aap builder hain toh har project ka alag page chahiye jismein floor plan, amenities, location map, RERA number aur brochure ho. Agar aap broker hain toh search wali website chahiye jahan buyer area, budget aur BHK se property dhoondh sake.`,
-        `Har enquiry seedha aapke sales wale ke WhatsApp par aani chahiye, saath mein yeh bhi ki buyer ne kaunsi property dekhi. Hamare saath builder ya broker website ${P.site} se shuru hoti hai, bahut saare locality pages wali SEO website ${P.seoSite} se, aur owners aur agents ke login wala portal ${P.software} se. Domain, code aur leads sab aapke naam par. Launch ke baad 5 mahine maintenance free hai.`,
+        `Har enquiry seedha aapke sales wale ke WhatsApp par aani chahiye, saath mein yeh bhi ki buyer ne kaunsi property dekhi. Hamare saath builder ya broker website ${P.site} se shuru hoti hai, bahut saare locality pages wali SEO website ${P.seoSite} se, aur owners aur agents ke login wala portal ${P.software} se. Domain, code aur leads sab aapke naam par. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
     {
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Domain, hosting, repository and lead database are created under your email, with separate staff logins planned for each executive."],
       ["Review with real listings", "We load your actual projects early on a staging link, so you judge layouts, filters and forms with real names, prices and photos."],
       ["Test every lead path", "Forms, call buttons, WhatsApp links and brochure downloads are tested end to end, with alerts confirmed for each salesperson before launch."],
-      ["Go live and support", `We launch, verify Search Console, submit the sitemap and hand over guides. Five free months of care follow, then plans from ${P.care}.`],
+      ["Go live and support", `We launch, verify Search Console, submit the sitemap and hand over guides. Two free months of care follow, then plans from ${P.care}.`],
     ],
   },
   faqHeading: "Real estate website developer: questions buyers of property sites ask",
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
     { question: "Who owns my property website and lead data?", answer: "You do. With BtechWaleTech the domain, hosting, source code, listing data and every lead are held in accounts in your name. Staff have individual logins you can disable when they leave, and leads can be exported at any time. Any other developer can take over the site later without rebuilding it." },
     { question: "Can I also get a real estate app?", answer: `Yes. We build Android and iOS apps from ${P.app} for buyers browsing listings or for your field sales team logging site visits. The app shares the same listings and lead database as the website, so inventory updates once and appears everywhere.` },
     { question: "How do I pay for a real estate website?", answer: "After you approve an itemised written quote, payment is made in stages tied to work you can see on staging links. Clients in India pay by UPI or bank transfer; NRI and overseas clients use Wise, bank wire or PayPal. Nothing is billed before written approval, and our terms and refund policy pages explain the details." },
-    { question: "What maintenance does a property website need?", answer: `Regular backups, security and software updates, fixing broken listings or forms, removing expired listings, checking lead alerts, and watching Search Console for errors. BtechWaleTech covers the first five months after launch free. After that, maintenance plans start at ${P.care} a month, or your team can manage routine updates through the admin panel.` },
+    { question: "What maintenance does a property website need?", answer: `Regular backups, security and software updates, fixing broken listings or forms, removing expired listings, checking lead alerts, and watching Search Console for errors. BtechWaleTech covers the first two months after launch free. After that, maintenance plans start at ${P.care} a month, or your team can manage routine updates through the admin panel.` },
     { question: "Property website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath builder ya broker website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban sakti hai. Locality pages wali SEO website ${P.seoSite} se aur owners-agents ke login wala portal ${P.software} se shuru hota hai. Har enquiry sales team ke WhatsApp par aati hai, aur sab accounts aapke naam par rehte hain.` },
     { question: "Can a remote developer build a website for my local property business?", answer: "Yes. Everything a property website needs, from inventory data and photos to lead routing tests, happens online through staging links, WhatsApp and video calls. We do not visit sites or shoot photos ourselves, so you or a local photographer supply images and walkthrough videos, and we make sure they load quickly and look good." },
   ],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a real estate website developer? Send your inventory",
-    note: `Share on WhatsApp your projects or listing count and how your sales team works. In about two working days you get an itemised quote. Property sites start at ${P.site}, leads and accounts stay in your name, and the first five months of maintenance are free.`,
+    note: `Share on WhatsApp your projects or listing count and how your sales team works. In about two working days you get an itemised quote. Property sites start at ${P.site}, leads and accounts stay in your name, and the first two months of maintenance are free.`,
   },
 };
 

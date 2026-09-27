@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Odia and English interfaces", "Online stores from ₹50,000", "Serving all 30 districts"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT services in Odisha as a freelance group of three engineers, not a software development team: websites from ₹10,000 (1 to 2 weeks), AI automation or Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000 (6 to 12 weeks). We work remotely with every district, and maintenance is free for five months.",
+    "BtechWaleTech provides IT services in Odisha as a freelance group of three engineers, not a software development team: websites from ₹10,000 (1 to 2 weeks), AI automation or Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000 (6 to 12 weeks). We work remotely with every district, and maintenance is free for two months.",
   snapshot: [
     { label: "Capital and IT hub", value: "Bhubaneswar, with the Infocity and Infovalley IT SEZs and several IT towers" },
     { label: "Software parks network", value: "STPI Bhubaneswar with sub-centres at Berhampur, Rourkela, Balasore, Jeypore (Koraput) and Jajpur" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that read documents, answer questions from company data and draft replies in English, with Odia output checked by staff before use.",
     data: "Dashboards that pull together production, dispatch, sales and collections data from Tally, spreadsheets and custom systems across multiple Odisha locations.",
     app: "Android and iOS apps for Odisha field sales teams, transporters, institutes and retailers, from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Remote maintenance with updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote maintenance with updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Odisha's IT market is concentrated in Bhubaneswar, and businesses elsewhere in the state often pay capital-city rates or settle for whoever is nearby. A remote freelance group removes geography from the equation: the same engineers, the same published prices and the same handover whether you are in Jharsuguda, Jeypore or Jagatsinghpur.",
@@ -222,7 +222,7 @@ const content: CityContent = {
       id: "support-across-odisha-districts",
       heading: "How does maintenance and support work across Odisha's districts?",
       paragraphs: [
-        "Maintenance and support work the same way in every Odisha district: remotely, over WhatsApp, calls and screen-sharing, seven days a week. Every project includes five months of free maintenance after hosting goes live, covering updates, backups, security, bug fixes and small changes; afterwards, plans start from ₹8,000 a month.",
+        "Maintenance and support work the same way in every Odisha district: remotely, over WhatsApp, calls and screen-sharing, seven days a week. Every project includes two months of free maintenance after hosting goes live, covering updates, backups, security, bug fixes and small changes; afterwards, plans start from ₹8,000 a month.",
         "Remote support suits browser-based systems well, because we can inspect logs and deploy fixes without anyone travelling. Training happens by video with recorded guides for new staff. We support software, hosting, domains, email and integrations; hardware and local networks need a nearby technician.",
         "If you prefer city-specific detail, see our pages for <a href=\"/it-services/odisha/bhubaneswar/\">Bhubaneswar</a>, <a href=\"/it-services/odisha/cuttack/\">Cuttack</a>, <a href=\"/it-services/odisha/rourkela/\">Rourkela</a> and <a href=\"/it-services/odisha/sambalpur/\">Sambalpur</a>, or the wider <a href=\"/it-services/\">IT services hub</a>.",
       ],
@@ -301,7 +301,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included?",
       answer:
-        "Yes. Five months of maintenance come free after hosting goes live, covering updates, backups, security, fixes and small changes. After that, you can continue from ₹8,000 a month or contact us only when needed. The system runs on hosting in your name either way.",
+        "Yes. Two months of maintenance come free after hosting goes live, covering updates, backups, security, fixes and small changes. After that, you can continue from ₹8,000 a month or contact us only when needed. The system runs on hosting in your name either way.",
     },
     {
       question: "Do you build Android and iOS apps for Odisha businesses?",
@@ -321,7 +321,7 @@ const content: CityContent = {
     {
       question: "Do you handle everything, including hosting and deployment?",
       answer:
-        "Yes. We plan, design, build, set up hosting, configure the domain, SSL and email, deploy and train your staff. Everything is documented at handover, and the five free months of maintenance begin when hosting goes live.",
+        "Yes. We plan, design, build, set up hosting, configure the domain, SSL and email, deploy and train your staff. Everything is documented at handover, and the two free months of maintenance begin when hosting goes live.",
     },
   ],
   nearby: ["bhubaneswar", "cuttack", "raurkela", "sambalpur", "puri", "brahmapur", "baleshwar-town", "jharsuguda", "bhadrak", "balangir"],

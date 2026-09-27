@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["First release", "6–12 weeks"],
     ["Quote", "Itemised within about 2 working days"],
     ["Hosting", "Your cloud account, your data"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, English and Hindi" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free maintenance post-launch" },
+    { value: "2", label: "Months of free maintenance post-launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Pharmacy", value: "Classical and proprietary medicines by form, batch and expiry" },
       { label: "Records", value: "Case sheets, consent, therapy logs, standardised codes where used" },
       { label: "Starts at", value: `${P.software}; guest app from ${P.app}` },
-      { label: "Support", value: `5 months free, then optional from ${P.care}` },
+      { label: "Support", value: `2 months free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Ayurvedic clinic software pricing",
-    note: `Custom ayurvedic clinic software starts at ${P.software}. The first release covers patient registration, prakriti and case records, therapy plans, the therapist and room scheduler, billing with GST invoices and WhatsApp reminders. The quote grows with the in-house pharmacy module, therapy-oil consumption tracking, residential stays and diet lists, wellness packages with deposits, standardised coding, multiple branches, and a guest app from ${P.app}. Content such as questionnaires and treatment templates comes from your doctors. Hosting and WhatsApp charges are paid by you directly. After five free months, maintenance is optional from ${P.care}.`,
+    note: `Custom ayurvedic clinic software starts at ${P.software}. The first release covers patient registration, prakriti and case records, therapy plans, the therapist and room scheduler, billing with GST invoices and WhatsApp reminders. The quote grows with the in-house pharmacy module, therapy-oil consumption tracking, residential stays and diet lists, wellness packages with deposits, standardised coding, multiple branches, and a guest app from ${P.app}. Content such as questionnaires and treatment templates comes from your doctors. Hosting and WhatsApp charges are paid by you directly. After two free months, maintenance is optional from ${P.care}.`,
   },
   guideLabel: "Ayurvedic clinic software guide",
   guide: [
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
         `A custom build with our team starts at ${P.software} (about ${P.softwareUsd}) for registration, prakriti and case records, therapy plans, the therapist and room scheduler, billing and reminders. The pharmacy, stays, packages and guest app are separate lines, the app from ${P.app}.`,
         `The biggest cost drivers are the complexity of scheduling rules, the pharmacy with purchases and therapy consumption, residential stays with diet lists, the number of branches, and data import from old registers. A small OPD clinic with three therapy rooms is a very different project from a forty-room retreat, and the quote reflects that.`,
         `Ready-made Ayurveda products and general hospital systems price by users, beds or modules, usually monthly or yearly. Quotes from other developers vary widely as well, mostly because of scope and testing. Compare what each option does with your own therapies and your own pharmacy, not with a feature list.`,
-        `After launch you pay your cloud host and WhatsApp charges directly, and maintenance is free for five months, then optional from ${P.care}.`,
+        `After launch you pay your cloud host and WhatsApp charges directly, and maintenance is free for two months, then optional from ${P.care}.`,
       ],
     },
     {
@@ -247,7 +247,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The finished ayurvedic clinic software belongs to your centre: code in your repository, data in your cloud account, any app in your store accounts. You can run it, change it or move it to another developer at any time.`,
         `Handover includes admin access and a practical guide for adding therapies, rooms, therapists, packages, medicines and message templates, so most changes happen without us. Technical notes cover the database and deployment for any future developer.`,
-        `For five months after launch, bug fixes and small adjustments are free. After that, maintenance is optional from ${P.care}. Additions like a second branch or a guest app are quoted separately. Commercial conditions beyond this are agreed in your written quote; our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the defaults.`,
+        `For two months after launch, bug fixes and small adjustments are free. After that, maintenance is optional from ${P.care}. Additions like a second branch or a guest app are quoted separately. Commercial conditions beyond this are agreed in your written quote; our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the defaults.`,
       ],
     },
     {
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
       ["Build records and scheduler", "Case records, prakriti forms, programme templates and the therapist and room scheduler go up on a test link first."],
       ["Add pharmacy, packages and stays", "Medicine stock, therapy consumption, wellness packages, room allocation and diet lists follow, each shown to your team."],
       ["Load data and train staff", "Therapies, rooms, therapists, medicines and guest lists are imported, and each role is trained on its own screens."],
-      ["Launch and support", "The system moves to your cloud account with five months of free fixes, then optional maintenance if you want it."],
+      ["Launch and support", "The system moves to your cloud account with two months of free fixes, then optional maintenance if you want it."],
     ],
   },
   faqHeading: "Ayurvedic clinic software: frequently asked questions",
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
     { question: "Does it send WhatsApp reminders to guests?", answer: "Yes, through the official WhatsApp Business Platform with approved templates for booking confirmation, pre-arrival notes, daily schedules, diet reminders and post-programme follow-ups. Message charges are billed to your own WhatsApp Business account. We prepare the templates early because approval can take up to a day." },
     { question: "Can one system run several Ayurveda centres?", answer: "Yes. Guest records and case histories are usually shared across centres, while therapists and rooms stay local. Pharmacy stock can be central with transfers or separate per branch. Packages can be sold group-wide. Owners see revenue, utilisation and pharmacy margin by branch, and managers see only their own centre." },
     { question: "Who owns the ayurvedic clinic software after it is built?", answer: "Your centre owns it. The code is in a repository under your account, the data is in your cloud account, and any app is listed under your store accounts. Handover includes admin access and a guide for adding therapies, rooms, medicines and packages, so your team handles most changes and any developer can take over later." },
-    { question: "What happens after launch?", answer: `Bug fixes and small adjustments are free for five months after launch. After that, maintenance is optional from ${P.care}, or your own developer can take over with our notes. New features, a second branch or a guest app are quoted separately, and nothing is billed without your written approval.` },
+    { question: "What happens after launch?", answer: `Bug fixes and small adjustments are free for two months after launch. After that, maintenance is optional from ${P.care}, or your own developer can take over with our notes. New features, a second branch or a guest app are quoted separately, and nothing is billed without your written approval.` },
     { question: "Can a small Ayurveda OPD clinic use this software?", answer: "Yes, with a smaller scope. A clinic with a doctor and a few therapy rooms may need only records, simple therapy booking, billing and pharmacy stock. That keeps the build near our starting price. Larger modules such as stays, packages and branches can be added later when the centre grows." },
     { question: "How do we pay for the project?", answer: "You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. Centres in India pay by UPI or bank transfer; centres outside India pay in USD through Wise, bank wire or PayPal. Milestones and other conditions are written into your quote, with our terms page covering the general rules." },
     { question: "Ayurvedic clinic ke liye software banwana ho to kya tayyar rakhein?", answer: `Apna prakriti form, therapies ki list (kitne therapist, kaunsa room, kitna time), rooms ki list, package brochure aur pharmacy stock list tayyar rakhiye. WhatsApp par bhejiye. Hum video call par aapka programme samjhenge aur do working days mein itemised quote denge. Custom software ${P.software} se shuru hota hai.` },

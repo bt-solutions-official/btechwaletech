@@ -32,10 +32,10 @@ const kishanganj: CityContent = {
     h1: "Web, app, SEO and automation services for Kishanganj, Bihar's tea district",
     lede:
       "We are three remote engineers who build websites, Google Business Profiles, UPI stores and WhatsApp tools for Kishanganj district. Our clients here include tea growers and leaf buyers in Pothia and Thakurganj, pineapple traders, clinics near the medical colleges, coaching centres, and shops around Gandhi Chowk and Dharamganj, all served on WhatsApp seven days a week.",
-    pills: ["Websites from ₹10,000", "Tea and pineapple trade pages", "Hindi, Urdu and Bangla options", "Clinic and coaching sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Tea and pineapple trade pages", "Hindi, Urdu and Bangla options", "Clinic and coaching sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "In Kishanganj, a static website from our team starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We work remotely with no Kishanganj office, and the first five months of maintenance after launch cost nothing.",
+    "In Kishanganj, a static website from our team starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We work remotely with no Kishanganj office, and the first two months of maintenance after launch cost nothing.",
   snapshot: [
     { label: "Position", value: "Easternmost district of Bihar, bordering Nepal and West Bengal, in Purnia division" },
     { label: "Tea", value: "The only tea-producing district in Bihar, with gardens in Pothia, Thakurganj, Bahadurganj, Dighalbank and Kishanganj blocks" },
@@ -52,7 +52,7 @@ const kishanganj: CityContent = {
     ai: "WhatsApp replies in Hindi or Urdu for rates, OPD timings and batch schedules, with serious buyers and patients handed to a person.",
     data: "Dashboards that show daily leaf intake, pineapple dispatches, sales or admissions by month, drawn from the records you already keep.",
     app: "Android and iOS apps for field staff, delivery riders and teachers that run well on low-cost phones, released on both app stores.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month or paid per job.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month or paid per job.",
   },
   whyUsIntro:
     "Kishanganj sits at a crossroads of states and languages, and its businesses deal with customers from Bihar, Bengal and Nepal. Most still sell through personal contacts. A clear website and an accurate Google listing help strangers trust you before they call. We publish starting prices, answer on WhatsApp every day and register everything in your name.",
@@ -151,7 +151,7 @@ const kishanganj: CityContent = {
       paragraphs: [
         "Our prices are starting points, not packages. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. It suits a clinic, a shop, a coaching institute or a small trader who needs a clear, trustworthy presence with a map, a contact form and a WhatsApp button.",
         "An SEO website of 700 or more pages starts at ₹20,000 and takes three to five weeks. This suits a business covering many products, services or locations, such as a distributor with a large catalogue or a coaching network with separate pages for each course and exam. Ecommerce stores with UPI and Razorpay checkout start at ₹50,000, and custom web applications, such as a leaf-purchase register or a hospital appointment system, start at ₹60,000.",
-        "AI and WhatsApp automation starts at ₹40,000, and ongoing monthly SEO starts at ₹10,000 a month. After five months of free maintenance, you can continue with a maintenance plan from ₹8,000 a month or pay only when you need a change. You can see the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "AI and WhatsApp automation starts at ₹40,000, and ongoing monthly SEO starts at ₹10,000 a month. After two months of free maintenance, you can continue with a maintenance plan from ₹8,000 a month or pay only when you need a change. You can see the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "What raises the price is scope: more pages, more languages, a bigger product catalogue, integrations with billing or accounting software, or features that need custom code. We send an itemised written quote within about two working days, and nothing is billed until you approve it. If you only need a basic site today, we will say so rather than sell you a larger project you do not need yet.",
       ],
     },
@@ -167,12 +167,12 @@ const kishanganj: CityContent = {
     },
     {
       id: "kishanganj-ownership",
-      heading: "Your domain, your code and five months of free care",
+      heading: "Your domain, your code and two months of free care",
       paragraphs: [
         "A common story in smaller towns goes like this: a business paid someone to make a website years ago, the developer registered the domain in their own name, and now the site is down and nobody can reach him. We avoid that by registering the domain and hosting in your name from the start and handing over every login, including the code, at launch.",
         "You own everything. If you later want to move to another developer or bring the work in-house, you can do so without asking our permission or paying an exit fee. We would rather keep clients because the work is good than because they are locked in.",
-        "For the first five months after launch, maintenance is free. That covers text and price changes, small layout fixes, security updates, backups and uptime monitoring. Early months are when most businesses find things they want to adjust, such as a new doctor joining, a batch timing changing or a product going out of stock, so we include that period at no cost.",
-        "After five months, maintenance continues from ₹8,000 a month if you want us to keep watching the site, or you can contact us only when something needs doing and pay for that job. Either way, you receive a written explanation of what was changed. You can read more about our process on the <a href=\"/services/web-development/\">web development page</a>.",
+        "For the first two months after launch, maintenance is free. That covers text and price changes, small layout fixes, security updates, backups and uptime monitoring. Early months are when most businesses find things they want to adjust, such as a new doctor joining, a batch timing changing or a product going out of stock, so we include that period at no cost.",
+        "After two months, maintenance continues from ₹8,000 a month if you want us to keep watching the site, or you can contact us only when something needs doing and pay for that job. Either way, you receive a written explanation of what was changed. You can read more about our process on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -262,9 +262,9 @@ const kishanganj: CityContent = {
         "You do. We register the domain and hosting in your name and hand over every login and the full code at launch. You can move to another developer at any time without an exit fee. We insist on this because lost domains are a common problem for small-town businesses.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch, we handle text changes, fixes, security updates, backups and uptime checks at no cost. After that, you can continue with maintenance from ₹8,000 a month, or simply contact us when something needs doing and pay for that job alone.",
+        "For two months after launch, we handle text changes, fixes, security updates, backups and uptime checks at no cost. After that, you can continue with maintenance from ₹8,000 a month, or simply contact us when something needs doing and pay for that job alone.",
     },
     {
       question: "Do you also work in Thakurganj, Bahadurganj, Purnia and Siliguri?",

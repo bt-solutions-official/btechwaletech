@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Hire freelance web developers in Gurgaon for web apps, portals and SaaS",
     lede:
       "Freelance web developers for Gurgaon businesses who need more than a brochure: BtechWaleTech is three independent engineers who design and build full-stack web applications, customer and vendor portals, SaaS MVPs, API integrations, ecommerce stores and fast CMS websites. We work remotely from India, publish our starting prices openly, and hand over every repository, domain and cloud account in your name.",
-    pills: ["Websites from ₹10,000", "Custom web apps from ₹60,000", "Next.js, React, Node.js, Python", "Android and iOS apps from ₹40,000", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Custom web apps from ₹60,000", "Next.js, React, Node.js, Python", "Android and iOS apps from ₹40,000", "2 months free maintenance"],
   },
   quickAnswer:
-    "Web development in Gurgaon with BtechWaleTech starts at ₹10,000 for a static business website (one to two weeks), ₹50,000 for an ecommerce store and ₹60,000 for a custom web application or portal (six to twelve weeks). We are a freelance group of three engineers working remotely, and every launch includes five months of free maintenance.",
+    "Web development in Gurgaon with BtechWaleTech starts at ₹10,000 for a static business website (one to two weeks), ₹50,000 for an ecommerce store and ₹60,000 for a custom web application or portal (six to twelve weeks). We are a freelance group of three engineers working remotely, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Tech employers", value: "Global capability centres, consulting majors and consumer-internet startups cluster around Cyber City, Golf Course Road and Sohna Road" },
     { label: "Startup demand", value: "Early-stage founders need MVPs, admin panels and investor-ready product demos on short timelines" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI features inside your web app, such as document extraction, smart search and support chat, plus back-office automation with n8n and LLM APIs.",
     data: "Reporting dashboards that pull from your app database, ERP or spreadsheets, so Gurgaon managers stop compiling Excel reports by hand every Monday.",
     app: "Android and iOS apps from ₹40,000 built once in Flutter or React Native, sharing the same API and admin panel as your Gurgaon web application.",
-    maintenance: "Dependency upgrades, security patches, backups, uptime monitoring and small feature changes for Gurugram web apps after the five free months.",
+    maintenance: "Dependency upgrades, security patches, backups, uptime monitoring and small feature changes for Gurugram web apps after the two free months.",
   },
   whyUsIntro:
     "Gurgaon has no shortage of developers, so the difference is in how work is run. You speak to the three engineers who architect, code and deploy your application, see a live preview every week, and keep ownership of the code from the first commit.",
@@ -222,7 +222,7 @@ const content: CityContent = {
       id: "maintenance-after-launch-gurgaon",
       heading: "What happens after launch: maintenance and support for Gurgaon sites",
       paragraphs: [
-        "After launch, every Gurgaon site or application we build gets five months of free maintenance covering bug fixes, content updates, dependency and security updates, backups and performance checks. After that, maintenance plans start from ₹8,000 per month, or you can simply message us when something needs changing and pay per task.",
+        "After launch, every Gurgaon site or application we build gets two months of free maintenance covering bug fixes, content updates, dependency and security updates, backups and performance checks. After that, maintenance plans start from ₹8,000 per month, or you can simply message us when something needs changing and pay per task.",
         "Web applications age faster than people expect. Frameworks release security patches, browsers change behaviour, APIs you depend on get deprecated, and your team asks for small improvements once they start using the system daily. A maintenance plan keeps those from piling up into an expensive rebuild two years later.",
         "Support happens on WhatsApp, email and calls, seven days a week, with priority for anything that stops your business from taking orders or serving customers. We keep a simple change log so you always know what was updated and when.",
       ],
@@ -295,7 +295,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. Five months of maintenance are free after your site or app goes live, covering bug fixes, updates, backups, security patches and performance checks. After that, plans start at ₹8,000 per month, or you can pay per task when something needs changing.",
+        "Yes. Two months of maintenance are free after your site or app goes live, covering bug fixes, updates, backups, security patches and performance checks. After that, plans start at ₹8,000 per month, or you can pay per task when something needs changing.",
     },
     {
       question: "Can you add AI features to our existing web application?",

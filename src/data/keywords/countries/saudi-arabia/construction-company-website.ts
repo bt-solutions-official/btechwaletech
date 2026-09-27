@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["Tender or vendor portal from", `${P.software}, 6–12 weeks`],
     ["Languages", "Arabic RTL and English, you supply the Arabic"],
     ["Documents", "Versioned prequalification pack"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "100", label: "Pages in the static website plan" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Free months of maintenance after launch" },
+    { value: "2", label: "Free months of maintenance after launch" },
   ],
   answer: {
     heading: "What should a construction company website in Saudi Arabia include?",
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, construction company website design in Saudi Arabia starts from ${P.site} for a bilingual site of up to 100 pages, from ${P.seoSite} for a site with discipline, sector and region pages, and from ${P.software} for a vendor or tender portal. These are starting prices; your itemised quote follows your scope.`,
         `The biggest cost drivers are the number of projects and how structured they are, the document library and whether it is gated, the number of discipline and region pages, and any portal features behind logins. Content usually sets the timetable: contractors often have hundreds of site photographs but few approved project descriptions, and Arabic copy may need translation and engineering review. We can supply a project template that your team fills in, which speeds everything up.`,
-        `Hosting and any document storage are paid by you directly, and five months of maintenance are free after launch; afterwards care starts from ${P.care}. Quotes across the market vary widely because some include copywriting, photography or drone filming and others do not, so ask each bidder to separate those lines. The full list of our plans is on the <a href='/pricing/'>pricing page</a>, and our <a href='/saudi-arabia/website-design-cost/'>Saudi website cost breakdown</a> explains what moves quotes generally.`,
+        `Hosting and any document storage are paid by you directly, and two months of maintenance are free after launch; afterwards care starts from ${P.care}. Quotes across the market vary widely because some include copywriting, photography or drone filming and others do not, so ask each bidder to separate those lines. The full list of our plans is on the <a href='/pricing/'>pricing page</a>, and our <a href='/saudi-arabia/website-design-cost/'>Saudi website cost breakdown</a> explains what moves quotes generally.`,
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Designs on staging", "Arabic-first mobile and desktop designs for home, discipline, project and certificates pages, shared on a private link for your management to review."],
       ["Projects and documents loaded", "Your approved project cases, certificates with dates and prequalification files go into the admin, and each enquiry form is wired to its team."],
       ["Checks before launch", "Speed, RTL layout, forms, document links, certificate dates and permissions are tested; your reviewers confirm technical terms read correctly in both languages."],
-      ["Launch and handover", "The domain goes live, Search Console and analytics connect, and you receive admin access, documentation, a walkthrough video and five free months of maintenance."],
+      ["Launch and handover", "The domain goes live, Search Console and analytics connect, and you receive admin access, documentation, a walkthrough video and two free months of maintenance."],
     ],
   },
   faqHeading: "Construction company website design in Saudi Arabia: questions contractors ask",
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "How do we handle drone footage and site photos?", answer: "Only publish media you have rights to and that your contracts allow, and use a drone operator who holds the required permissions. We compress images, create several sizes and stream video from a platform such as YouTube or Vimeo, so a large portfolio still loads quickly on phones." },
     { question: "Can you build a supplier or subcontractor portal?", answer: `Yes, as custom software from ${P.software}. Suppliers register, choose categories and regions, upload certificates and receive reminders before documents expire, while your procurement team filters and approves them. Most contractors start with a registration form on the website and move to a portal when volume grows.` },
     { question: "Who owns the website and documents?", answer: "You do. The domain, hosting, code and every file are held in your business's name from the start. At handover you get admin access, documentation and a walkthrough video, so any other developer could maintain the site without needing anything from us." },
-    { question: "What support do we get after launch?", answer: `Five months of free maintenance after launch covers fixes, updates and small changes. After that, care plans start from ${P.care} for adding projects, renewing certificates, security updates and backups. Larger additions such as a portal are quoted separately and approved in writing first.` },
+    { question: "What support do we get after launch?", answer: `Two months of free maintenance after launch covers fixes, updates and small changes. After that, care plans start from ${P.care} for adding projects, renewing certificates, security updates and backups. Larger additions such as a portal are quoted separately and approved in writing first.` },
     { question: "Is it practical to use developers in India for a Saudi contractor website?", answer: "Yes. India is 2.5 hours ahead, so most of your working day overlaps with ours, and we answer on WhatsApp seven days a week. Work is reviewed on staging links and short video calls. We do not visit offices or sites, so your team collects photos and documents." },
     { question: "How do we pay and what is agreed in writing?", answer: "Quotes and invoices are in USD, payable by Wise, bank wire or PayPal, with invoices issued from India. The itemised quote you approve in writing sets scope and milestones, and nothing is billed before that. For confidentiality or other terms, ask us and they are recorded in the quote or our published terms." },
     { question: "Can the website protect applicants' personal data?", answer: "Yes. Career forms collect only what HR needs, send applications only to HR, and support deletion after the retention period you set. Data is encrypted in transit and admin access is limited by role. Saudi Arabia's PDPL applies to your processing, and your own lawyer confirms your policies." },

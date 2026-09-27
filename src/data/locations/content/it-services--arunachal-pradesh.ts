@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Websites from ₹10,000", "Android and iOS apps from ₹40,000", "Built for weak networks", "Tourism and homestay booking", "English and Hindi"],
   },
   quickAnswer:
-    "For IT services in Arunachal Pradesh, BtechWaleTech is a remote freelance group of three engineers. Websites start at ₹10,000, AI automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Delivery is one to twelve weeks, quotes arrive in about two working days, and five months of maintenance are free.",
+    "For IT services in Arunachal Pradesh, BtechWaleTech is a remote freelance group of three engineers. Websites start at ₹10,000, AI automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Delivery is one to twelve weeks, quotes arrive in about two working days, and two months of maintenance are free.",
   snapshot: [
     { label: "Capital region", value: "Itanagar and its twin town Naharlagun in Papum Pare district, home to most offices, institutions and larger businesses" },
     { label: "Key towns", value: "Itanagar, Naharlagun, Pasighat, Tawang, Ziro, Bomdila, Namsai, Tezu, Roing, Aalo and Daporijo" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that answer permit, route, season and booking questions for Arunachal tour operators and homestays on WhatsApp, any time of day.",
     data: "Dashboards for Arunachal businesses and institutions that combine data from several districts into one view for owners and managers.",
     app: "Android and iOS apps from ₹40,000 for Arunachal operators, schools and field teams, built in Flutter or React Native with offline saving for low-signal valleys.",
-    maintenance: "Hosting, backups, updates and fixes for Arunachal clients, five months free after launch and from ₹8,000 a month after that.",
+    maintenance: "Hosting, backups, updates and fixes for Arunachal clients, two months free after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Arunachal businesses often find few local developers and pay Guwahati or Kolkata rates for work that is then hard to maintain. We are a freelance group of three engineers who work remotely, publish prices, hand over every account and reply on WhatsApp seven days a week.",
@@ -154,7 +154,7 @@ const content: CityContent = {
       paragraphs: [
         "A dashboard for an Arunachal business or institution brings data from several towns into one view: bookings across properties, collections across schools, progress across construction sites or produce collected across villages. Owners and managers see current numbers without waiting for reports to be carried or emailed from district offices.",
         "We host systems on AWS or similar platforms in an Indian region, with daily backups, HTTPS and uptime monitoring. Websites built with Astro are served from edge networks and kept light so they load on slow connections. Code sits in a Git repository registered to you.",
-        "Support after launch covers fixes, updates, backups and small changes, free for five months and from ₹8,000 a month afterwards. We work remotely and cannot provide on-site hardware or network repair; a local technician is still needed for that.",
+        "Support after launch covers fixes, updates, backups and small changes, free for two months and from ₹8,000 a month afterwards. We work remotely and cannot provide on-site hardware or network repair; a local technician is still needed for that.",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "cost-arunachal",
       heading: "How much do IT services cost in Arunachal Pradesh?",
       paragraphs: [
-        "IT services in Arunachal Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first five free months.",
+        "IT services in Arunachal Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first two free months.",
         "The final quote depends on pages or screens, offline requirements, languages, integrations and how quickly content and photos arrive. Good photographs are often the hardest part for tourism businesses in remote areas, so we plan around what you can send.",
         "Payment is made only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote.",
       ],
@@ -236,7 +236,7 @@ const content: CityContent = {
       "id": "arunachal-running-costs",
       "heading": "What does it cost to keep a website or app running in Arunachal Pradesh?",
       "paragraphs": [
-        "Keeping a website or app running in Arunachal Pradesh means paying a yearly domain renewal, hosting that matches your traffic, usage fees for any WhatsApp or AI features, app store fees if you publish an app, and optional support after the five free months. A homestay in Ziro or Dirang with a simple site pays very little; a cooperative portal in Itanagar with member records and photos pays more because it stores and backs up more data.",
+        "Keeping a website or app running in Arunachal Pradesh means paying a yearly domain renewal, hosting that matches your traffic, usage fees for any WhatsApp or AI features, app store fees if you publish an app, and optional support after the two free months. A homestay in Ziro or Dirang with a simple site pays very little; a cooperative portal in Itanagar with member records and photos pays more because it stores and backs up more data.",
         "Seasons matter for Arunachal tourism. Enquiries rise around events such as the Ziro music festival and Losar in Tawang, and in the drier months when roads are more dependable, then fall away in the monsoon. Usage-based services, such as WhatsApp Business API conversations billed by Meta and AI replies billed per request, follow that curve, so bills are higher in busy months and lower in quiet ones. We switch on spending alerts in each account so owners are never caught off guard.",
         "Fixed costs are easier to plan. Google Play asks for a one-time registration before your first Android app goes live, and Apple asks for a yearly developer membership for an iPhone app. The domain renews every year. Our support after the free period starts from ₹8,000 a month, or you can pay only when a change is needed."
       ],
@@ -282,12 +282,12 @@ const content: CityContent = {
     { question: "How long does a project take?", answer: "Websites take one to five weeks, AI automation two to four weeks, Android and iOS apps six to ten weeks, online stores four to eight weeks and custom software six to twelve weeks. Tourism businesses should aim to launch before the main travel season." },
     { question: "Can an AI agent answer tourist questions for us?", answer: "Yes. An AI agent on WhatsApp or your website can answer questions about permits, seasons, routes, rooms and prices from information you approve, and collect booking details for your team. AI automation starts from ₹40,000." },
     { question: "Will we own our website and accounts?", answer: "Yes. Domain, hosting, cloud, app store and WhatsApp accounts and the code repository are registered to your business wherever possible. You receive every credential and a short technical guide at handover." },
-    { question: "What maintenance is included?", answer: "Five months of free maintenance after launch: bug fixes, small content changes, security updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change." },
+    { question: "What maintenance is included?", answer: "Two months of free maintenance after launch: bug fixes, small content changes, security updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change." },
     { question: "How long before SEO brings bookings?", answer: "A complete Google Business Profile and detailed destination pages can bring enquiries within weeks for less competitive searches. Popular searches, such as Tawang packages, usually need three to six months or more. We report monthly and never guarantee rankings." },
     { question: "Which languages do you work in?", answer: "Our calls and messages are in English and Hindi. Websites and apps are usually in English and Hindi, and we can add content in local languages when you provide or approve the text." },
     { question: "Do you provide on-site IT support?", answer: "No. We support the software, websites and apps we build, remotely. For hardware, networks or CCTV at your premises, you will need a local technician." },
     { question: "How do we get started?", answer: "Send a WhatsApp message or use the contact page with a short description of your business. Photos of your property or current registers help. We reply seven days a week, schedule a call and send an itemised quote in about two working days." },
-    { "question":"Is there a yearly fee after our website is built?","answer":"Yes, a small one. The domain renews every year and hosting is billed monthly or yearly by the provider, directly to your account. Our maintenance is free for five months after launch; after that it is optional, from ₹8,000 a month, or you pay only for the changes you ask for." },
+    { "question":"Is there a yearly fee after our website is built?","answer":"Yes, a small one. The domain renews every year and hosting is billed monthly or yearly by the provider, directly to your account. Our maintenance is free for two months after launch; after that it is optional, from ₹8,000 a month, or you pay only for the changes you ask for." },
     { "question":"Can you build a festival or event website for an Arunachal organiser?","answer":"Yes. A static event website starts from ₹10,000 with the schedule, travel and permit information, stay options and a WhatsApp enquiry button. Registration or ticketing with online payment through a payment gateway account in the organiser's name is custom software from ₹60,000. Launch it months ahead so search engines have time to index the pages." },
   ],
   nearby: ["guwahati", "dibrugarh", "tinsukia", "nagaon", "shillong", "dimapur", "kohima", "imphal"],

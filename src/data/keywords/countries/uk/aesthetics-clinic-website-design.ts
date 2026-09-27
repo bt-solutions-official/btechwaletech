@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["Typical build", "1–2 weeks after photos and practitioner details arrive"],
     ["Large treatment library", `From ${P.seoSite} for 299+ pages`],
     ["Custom consultation portal", `From ${P.software}`],
-    ["Aftercare included", "5 months of free maintenance"],
+    ["Aftercare included", "2 months of free maintenance"],
     ["Itemised quote", "About 2 working days"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, search visibility and project management" },
     { value: "2", label: "Working days to an itemised written quote" },
-    { value: "5", label: "Months of free fixes and small edits after launch" },
+    { value: "2", label: "Months of free fixes and small edits after launch" },
     { value: "0", label: "Commission taken on the bookings your site brings in" },
   ],
   answer: {
@@ -100,7 +100,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What aesthetics clinic website design costs with us",
-    note: `A single-location aesthetics clinic site of up to 100 pages starts at ${P.site}: concern and treatment pages, practitioner profiles, a consented gallery, aftercare guides, a prices-from page and booking links into your clinic software. Clinics that want a large library of concern pages for several towns start at ${P.seoSite}. A custom consultation portal with questionnaires, photo upload and deposit logic starts at ${P.software}. Monthly search work starts at ${P.seo}, and care plans start at ${P.care} after five free months. All figures are starting prices; your quote is itemised after we see your treatment list.`,
+    note: `A single-location aesthetics clinic site of up to 100 pages starts at ${P.site}: concern and treatment pages, practitioner profiles, a consented gallery, aftercare guides, a prices-from page and booking links into your clinic software. Clinics that want a large library of concern pages for several towns start at ${P.seoSite}. A custom consultation portal with questionnaires, photo upload and deposit logic starts at ${P.software}. Monthly search work starts at ${P.seo}, and care plans start at ${P.care} after two free months. All figures are starting prices; your quote is itemised after we see your treatment list.`,
   },
   guideLabel: "Aesthetics clinic website design guide",
   guide: [
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
       ["Booking and questionnaire design", "We agree how consultations are booked, what deposit applies, which questionnaire fields are genuinely needed and where the answers are stored securely."],
       ["Design on staging", "You review concern pages, profiles and the gallery on a private staging link from your phone, and request changes in one shared list rather than scattered messages."],
       ["Copy sign-off and launch", "Your adviser approves wording, we load consented photos, connect Search Console and your Business Profile, test deposits and publish on your own hosting."],
-      ["Five months of support", "Fixes, small edits and new practitioner profiles are covered for five months after launch. After that, care plans start at a price you see in advance."],
+      ["Two months of support", "Fixes, small edits and new practitioner profiles are covered for two months after launch. After that, care plans start at a price you see in advance."],
     ],
   },
   faqHeading: "Aesthetics clinic website design: questions clinic owners ask",
@@ -440,7 +440,7 @@ const content: FreelanceContent = {
     { question: "Can I sell skincare on my aesthetics clinic website?", answer: `Yes, cosmetic skincare can be sold online with card and wallet checkout. A full shop starts at ${P.shop}. Prescription medicines are a different matter entirely and are not something we would build a public shop for. We keep the shop separate from consultation booking so patients never confuse buying a product with booking a treatment.` },
     { question: "How do we communicate during the project?", answer: "Mostly on WhatsApp, where we reply seven days a week, with calls on Zoom, Meet or Teams booked around your clinic hours. Our day overlaps the UK working day from late morning. Every decision goes into a shared list so nothing is lost between your appointments and our replies." },
     { question: "How do I pay a team in India from the UK?", answer: "Quotes are in USD, and you can pay in USD or GBP by Wise, bank wire or PayPal. Invoices come from India. Payment milestones are set out in the written quote you approve, and nothing is billed before that approval. For VAT or tax treatment of an overseas supplier, speak to your own accountant." },
-    { question: "What happens after the site launches?", answer: `Five months of maintenance are included free: fixes, small edits, new practitioner profiles and plugin updates. After that, care plans start at ${P.care}. You can also stop at that point and manage the site yourself, since you hold every login.` },
+    { question: "What happens after the site launches?", answer: `Two months of maintenance are included free: fixes, small edits, new practitioner profiles and plugin updates. After that, care plans start at ${P.care}. You can also stop at that point and manage the site yourself, since you hold every login.` },
     { question: "Can you add an AI assistant to answer patient questions?", answer: `Yes. A chat or WhatsApp assistant can answer opening hours, aftercare basics and booking questions, starting at ${P.ai}. It is set up to hand anything medical, any complaint or any complication straight to your team, and it does not give treatment advice or recommend a prescription medicine.` },
     { question: "Do you work with clinics in Scotland, Wales and Northern Ireland?", answer: "Yes. The build process is the same, but regulatory arrangements differ between the four nations and are changing. We keep registration and licence fields configurable by location so a clinic group with sites in more than one nation can show the right details for each, confirmed by your own adviser." },
   ],

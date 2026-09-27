@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Program-rich or multi-chapter site", `From ${P.seoSite}`],
     ["Donation platform fees", "Paid by you to the platform, never marked up"],
     ["Donor follow-up automation", `From ${P.ai}`],
-    ["After launch", `5 free months, then care from ${P.care}`],
+    ["After launch", `2 free months, then care from ${P.care}`],
     ["Board and staff calls", "US Eastern mornings = IST evenings"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your site" },
     { value: "2", label: "Working days to an itemized quote" },
-    { value: "5", label: "Months of free updates after going live" },
+    { value: "2", label: "Months of free updates after going live" },
     { value: "0", label: "Cut taken from your donations" },
   ],
   answer: {
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario for illustration only. Suppose a volunteer-run food pantry in Milwaukee, Wisconsin, with two part-time staff, a board of seven and a four-page site that sends donors to a payment link with a different look.`,
         `The plan: a homepage with the mission sentence, next distribution day and three buttons (Get Food, Give, Volunteer); a Get Food page in English and Spanish, with the Spanish copy supplied by a bilingual board member; a two-step donation form embedded from their chosen platform with monthly giving and amounts linked to meal counts from their own records; three program pages with consented stories; volunteer shift signup; a transparency page with EIN, board and annual report; and three landing pages matched to search themes for their Ad Grants account.`,
-        `The pantry’s treasurer approves receipt wording, and a board member signs off on privacy wording and a quick-exit button on the Get Food page. This fits the core plan from ${P.site}, launching in about two weeks after copy approval, with five months of free updates to cover the first year-end appeal.`,
+        `The pantry’s treasurer approves receipt wording, and a board member signs off on privacy wording and a quick-exit button on the Get Food page. This fits the core plan from ${P.site}, launching in about two weeks after copy approval, with two months of free updates to cover the first year-end appeal.`,
       ],
     },
     {
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
       ["Gather stories and consent", "Program staff fill a simple template for each story, with consent confirmed, while we agree the page map and donation flow."],
       ["Design, write and embed", "Pages drafted and edited with you, the donation form embedded, a real test gift made and refunded, forms wired to your CRM."],
       ["Check policies and access", "Ad Grants website checks, receipt wording, privacy policy, accessibility testing with a screen reader and speed tests on phones."],
-      ["Launch and hand over", "Accounts confirmed under your organization, a written editing guide delivered, and five months of free updates begin."],
+      ["Launch and hand over", "Accounts confirmed under your organization, a written editing guide delivered, and two months of free updates begin."],
     ],
   },
   faqHeading: "Nonprofit website design: questions directors and boards ask",
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
     { question: "Can a team in India handle nonprofit website design for a US organization?", answer: "Yes. Donation platforms, CRMs and Ad Grants all run online, and your organization keeps control of every account. We work by WhatsApp and calls in your morning, quote in USD and accept Wise, wire or PayPal, with invoices from India. We never need access to donor records or funds." },
     { question: "Do state charity rules affect our website?", answer: "They can. Several states require charities that solicit donations to register, and some require specific disclosure statements on solicitations. The rules vary by state and change, so ask your counsel or a charitable registration service what applies. We place the wording they provide on the Donate page and in the footer." },
     { question: "Can our website handle gala tickets and auctions?", answer: `Yes. Ticketed event checkout starts at ${P.shop}, and receipts can separate the fair value of a ticket from the donation portion, using wording your accountant approves. Some donation platforms also include event ticketing, in which case we embed theirs instead of building checkout.` },
-    { question: "What happens after our nonprofit website launches?", answer: `The first five months of updates are free, covering new campaign pages, story updates, staff changes and small fixes. After that, care starts at ${P.care} a month. Your staff can also update stories and events themselves with the written guide we hand over at launch.` },
+    { question: "What happens after our nonprofit website launches?", answer: `The first two months of updates are free, covering new campaign pages, story updates, staff changes and small fixes. After that, care starts at ${P.care} a month. Your staff can also update stories and events themselves with the written guide we hand over at launch.` },
     { question: "How do we keep donor information private on our website?", answer: "Collect only what you use, keep payment details in your donation platform, run HTTPS everywhere and protect admin accounts with two-factor sign-in. Keep advertising pixels off pages where people ask for help, add a quick-exit button on sensitive service pages, and have your board or counsel approve the privacy policy." },
   ],
   related: {

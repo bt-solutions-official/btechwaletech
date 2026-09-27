@@ -58,7 +58,7 @@ const manjlegaon: CityContent = {
     ai: "Marathi WhatsApp assistants that quote rates, confirm stock, take appointment requests and hand real decisions back to you.",
     data: "Season dashboards showing tonnage lifted, advances paid to gangs, mandi arrivals sold and dues still open by buyer.",
     app: "Android and iOS apps for Majalgaon cane gangs, mandi commission agents or school parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, patches and form checks.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, patches and form checks.",
   },
   whyUsIntro:
     "Rain decides the year in this part of Marathwada, so a Majalgaon owner wants to know exactly what a line item buys before agreeing to it. We publish starting prices, send an itemised written quote, keep the domain and code in your name, and reply on WhatsApp every day of the week. When a feature will not earn back its cost in your trade, we say that instead of quoting it.",
@@ -188,7 +188,7 @@ const manjlegaon: CityContent = {
       heading: "Who owns the website, and what happens after launch in Majalgaon",
       paragraphs: [
         "You do, entirely. The domain is booked on your email address, the hosting account is in your name, the complete source code is handed to you, and the Google Business Profile, Google Play developer account and Apple developer account all list you as owner. At handover you get a written sheet of every login. Nobody, including us, can hold your site or your app to ransom later.",
-        "For five months after launch the upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check that the enquiry form, the payment step and the WhatsApp link still work. When it ends you choose: stay with us from ₹8,000 a month, hand it to someone in Beed or Parbhani, or manage it yourself with the logins you already hold.",
+        "For two months after launch the upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check that the enquiry form, the payment step and the WhatsApp link still work. When it ends you choose: stay with us from ₹8,000 a month, hand it to someone in Beed or Parbhani, or manage it yourself with the logins you already hold.",
         "Apps need an annual pass even when nothing appears broken, because Google and Apple keep raising the minimum versions they will accept and pull listings that fall behind. We track those deadlines for app clients and ship the rebuild before the cut-off rather than after a takedown notice arrives.",
       ],
     },
@@ -285,7 +285,7 @@ const manjlegaon: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after going live cost you nothing: rate and photo edits, backups, security patches and routine checks of your forms, payment step and WhatsApp link are all included. After that you can continue with us from ₹8,000 a month, or leave. Since the code and every account are already in your name, moving to another developer needs no permission from us.",
+        "The first two months after going live cost you nothing: rate and photo edits, backups, security patches and routine checks of your forms, payment step and WhatsApp link are all included. After that you can continue with us from ₹8,000 a month, or leave. Since the code and every account are already in your name, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you work in Pathri, Manwath, Selu and Parbhani as well?",

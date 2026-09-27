@@ -57,7 +57,7 @@ const rajauri: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock, room and road-status questions in English, Hindi or Urdu and hand tricky chats to you.",
     data: "Dashboards of retailer orders by tehsil, admissions by batch, trips per vehicle and seasonal walnut sales.",
     app: "Android and iOS apps from ₹40,000 for retailer reorders, coaching test results or lab reports, published on Google Play and the App Store under your accounts.",
-    maintenance: "Five months of free upkeep after launch, then optional support from ₹8,000 a month for edits, backups and updates.",
+    maintenance: "Two months of free upkeep after launch, then optional support from ₹8,000 a month for edits, backups and updates.",
   },
   whyUsIntro:
     "Rajouri clients usually want three things before they commit: a clear price, proof that the work will still be theirs if we part ways, and someone who answers when they message. We publish starting prices, send itemised written quotes, reply on WhatsApp every day of the week, and put your domain, hosting, code and store accounts in your name.",
@@ -178,7 +178,7 @@ const rajauri: CityContent = {
       heading: "Ownership and maintenance for Rajouri websites and apps",
       paragraphs: [
         "Everything we build is registered to you from day one. The domain is booked under your name and email, the hosting account is yours, and you receive the complete source code. Your Play Console and Apple developer memberships are opened under your own identity, and you are the primary owner on the Google Business Profile. The handover note lists every login and its recovery route, which means nobody, us included, can hold the site back from you.",
-        "For five months after launch, upkeep is free: text and price edits, backups, security and version updates, and regular checks that forms, payments and WhatsApp links still work. After that you can stay with us from ₹8,000 a month, look after it yourself, or give the code to another developer without asking our permission.",
+        "For two months after launch, upkeep is free: text and price edits, backups, security and version updates, and regular checks that forms, payments and WhatsApp links still work. After that you can stay with us from ₹8,000 a month, look after it yourself, or give the code to another developer without asking our permission.",
         "Apps need at least one update a year to meet the minimum requirements Google and Apple keep raising. We plan those releases well before the deadline instead of waiting for a warning email, so your listing never disappears from the stores at a bad moment.",
       ],
     },
@@ -270,7 +270,7 @@ const rajauri: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: edits, backups, updates and checks on forms, payments and WhatsApp links. After that you may continue with us from ₹8,000 a month or manage things yourself. Because all accounts and code already belong to you, switching to another developer needs no permission from us.",
+        "The first two months after launch are free: edits, backups, updates and checks on forms, payments and WhatsApp links. After that you may continue with us from ₹8,000 a month or manage things yourself. Because all accounts and code already belong to you, switching to another developer needs no permission from us.",
     },
     {
       question: "Do you work with businesses in Nowshera, Sunderbani, Kalakote and Poonch?",

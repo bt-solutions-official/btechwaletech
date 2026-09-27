@@ -37,10 +37,10 @@ const content: CityContent = {
     h1: "Hire freelance software developers in Bathinda for Malwa's industrial vendors, agri traders, institutes and hospitals",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Bathinda businesses hire us as freelance software developers to build vendor and work-order trackers, fleet and transport records, cotton and agri-trade tools, IELTS and coaching CRMs, WhatsApp AI agents and owner dashboards, along with corporate websites, cloud hosting and the maintenance that keeps them running.",
-    pills: ["Vendor and work-order tools", "Fleet and transport records", "Agri-trade software", "Owner dashboards", "Maintenance included 5 months"],
+    pills: ["Vendor and work-order tools", "Fleet and transport records", "Agri-trade software", "Owner dashboards", "Maintenance included 2 months"],
   },
   quickAnswer:
-    "Freelance software developers in Bathinda from BtechWaleTech build custom software and dashboards from ₹60,000 in six to twelve weeks, WhatsApp and AI automation from ₹40,000 in two to four weeks, and corporate websites from ₹10,000 in one to two weeks, with five months of free maintenance. We are three freelance engineers working remotely from India, with no Bathinda office.",
+    "Freelance software developers in Bathinda from BtechWaleTech build custom software and dashboards from ₹60,000 in six to twelve weeks, WhatsApp and AI automation from ₹40,000 in two to four weeks, and corporate websites from ₹10,000 in one to two weeks, with two months of free maintenance. We are three freelance engineers working remotely from India, with no Bathinda office.",
   snapshot: [
     { label: "Energy and industry", value: "The Guru Gobind Singh Refinery near Raman Mandi, the National Fertilizers unit and thermal power at Lehra Mohabbat" },
     { label: "Agricultural base", value: "Heart of Punjab's Malwa cotton and wheat belt, with ginning units, grain markets and agri-input dealers" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that answer rates, stock, course or appointment questions in Punjabi, Hindi or English on WhatsApp and pass real leads to your team.",
     data: "Owner dashboards for purchases, sales, trips, collections and admissions, pulled together from Tally, spreadsheets and your software.",
     app: "Android and iOS apps for Bathinda transporters, agri dealers, contractors, institutes and hospitals, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Hosting, backups, fixes and security updates, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, fixes and security updates, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "A familiar story in Bathinda, as in many mid-size cities: a website that nobody updated after launch, software that stopped working when its developer moved on, and no one answering the phone. We are three freelance engineers who build with maintenance in mind, hand over every login and keep answering on WhatsApp.",
@@ -181,7 +181,7 @@ const content: CityContent = {
       heading: "Website maintenance and IT support for Bathinda businesses",
       paragraphs: [
         "Website and software maintenance means keeping your systems updated, backed up, secure and working, and fixing problems quickly when they appear. It matters in Bathinda because many local businesses have been left with sites and software that nobody maintains.",
-        "Every project includes five months of free maintenance after launch: bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We also take over maintenance of existing sites after a review.",
+        "Every project includes two months of free maintenance after launch: bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We also take over maintenance of existing sites after a review.",
         "We host on AWS or comparable providers in your name, with automated deployments that can be rolled back. Hardware, printers and office networking remain with your local technician; we handle everything that runs online. We reply on WhatsApp seven days a week.",
       ],
       list: [
@@ -214,7 +214,7 @@ const content: CityContent = {
         "Online store: from ₹50,000",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Custom software or dashboard: from ₹60,000",
-        "Maintenance: five months free, then from ₹8,000 a month",
+        "Maintenance: two months free, then from ₹8,000 a month",
       ],
     },
     {
@@ -306,7 +306,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "Five months after launch are free: bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week.",
+        "Two months after launch are free: bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How much does an Android and iOS app cost in Bathinda?",

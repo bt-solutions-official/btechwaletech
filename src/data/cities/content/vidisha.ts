@@ -30,11 +30,11 @@ const vidisha: CityContent = {
     eyebrow: "Vidisha · Madhya Pradesh",
     h1: "Websites, apps, SEO and AI automation for Vidisha's grain traders, stone suppliers, shops and schools",
     lede:
-      "We are a remote team of three engineers building websites, search visibility and WhatsApp automation for businesses in Vidisha and the surrounding district: Sharbati wheat and pulse traders, Ganjbasoda sandstone firms, retailers around Madhavganj, clinics, schools and heritage tourism operators. Starting prices are public and the first five months of maintenance are free.",
+      "We are a remote team of three engineers building websites, search visibility and WhatsApp automation for businesses in Vidisha and the surrounding district: Sharbati wheat and pulse traders, Ganjbasoda sandstone firms, retailers around Madhavganj, clinics, schools and heritage tourism operators. Starting prices are public and the first two months of maintenance are free.",
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Grain and pulse traders", "Sandstone export sites", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Vidisha, a static business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are three engineers working remotely, with no Vidisha office, and we maintain every site free for five months after launch.",
+    "In Vidisha, a static business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are three engineers working remotely, with no Vidisha office, and we maintain every site free for two months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Vidisha district, about 62 km north-east of Bhopal, on the Betwa river" },
     { label: "Farm economy", value: "Wheat, including the premium Sharbati variety, along with soybean and gram (chana) on black soil" },
@@ -51,7 +51,7 @@ const vidisha: CityContent = {
     ai: "WhatsApp replies that share today's rates, stock and dispatch timelines in Hindi, so buyers get answers while you are at the mandi.",
     data: "Dashboards of purchases, sales, outstanding dues and seasonal price movement, built from registers and Tally data you already keep.",
     app: "Android and iOS apps for school notices, clinic appointments or dealer orders, with a store link you can share on WhatsApp, from ₹40,000.",
-    maintenance: "Five months of free updates, backups and security checks after launch, and maintenance from ₹8,000 a month after that.",
+    maintenance: "Two months of free updates, backups and security checks after launch, and maintenance from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Vidisha has old trading families, a busy mandi and a stone industry with international buyers, but most of its businesses are still invisible online or rely on directory listings. Bhopal agencies can help, but often price for city clients. We publish starting prices, reply on WhatsApp seven days a week and give you full ownership of everything we build.",
@@ -186,7 +186,7 @@ const vidisha: CityContent = {
       paragraphs: [
         "A common story in towns like Vidisha: the website was made by a relative's friend, the domain is in their name, and years later nobody can change the phone number or renew it. The site simply disappears one day.",
         "We register the domain and hosting in your name from the start. At launch you receive every login, the full source code and a short note on how it is set up. You can move to any other developer at any time with no exit fee.",
-        "For five months after launch, maintenance is free: content and price changes, bug fixes, security updates, backups and uptime checks. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch, maintenance is free: content and price changes, bug fixes, security updates, backups and uptime checks. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something done.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const vidisha: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can simply contact us when you need something changed.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can simply contact us when you need something changed.",
     },
     {
       question: "Do you also work in Ganjbasoda, Sironj, Bhopal and Raisen?",

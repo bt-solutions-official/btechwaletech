@@ -56,7 +56,7 @@ const nangal: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and booking questions in Punjabi or Hindi and hand anything unusual to your staff.",
     data: "Dashboards of open work orders, pending bills, retention money and labour days for vendors serving the plants.",
     app: "Android and iOS apps from ₹40,000 for school notices or clinic tokens in the townships, listed on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and small changes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and small changes.",
   },
   whyUsIntro:
     "Nangal is a town of engineers, supervisors and retired plant staff, people who read a specification before they sign. We write ours down: starting prices on the site, an itemised quote before any work begins, WhatsApp replies every day, and the domain, hosting, code and app store accounts registered to you from the first day.",
@@ -186,7 +186,7 @@ const nangal: CityContent = {
       heading: "Who owns your Nangal website, and what maintenance covers",
       paragraphs: [
         "You do, entirely. The domain is registered with your email, hosting is billed to you, the full source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as owner. We send a written sheet of every login, so no single person, including us, ever controls your online presence.",
-        "The first five months after launch come with free maintenance: backups, security and version updates, content and price changes, and checks that forms, UPI payments and WhatsApp links still work. After that you can continue from ₹8,000 a month or move to another developer without asking our permission. Many small sites need little more than an annual renewal and an occasional update.",
+        "The first two months after launch come with free maintenance: backups, security and version updates, content and price changes, and checks that forms, UPI payments and WhatsApp links still work. After that you can continue from ₹8,000 a month or move to another developer without asking our permission. Many small sites need little more than an annual renewal and an occasional update.",
       ],
     },
     {
@@ -277,7 +277,7 @@ const nangal: CityContent = {
     {
       question: "What maintenance do Nangal clients get after launch?",
       answer:
-        "Nangal clients get five months of free maintenance after launch, covering backups, security and version updates, content changes and checks on forms, payments and WhatsApp links. Afterwards, maintenance continues from ₹8,000 a month if you want it. Since the code and accounts are yours, you can also switch developers freely.",
+        "Nangal clients get two months of free maintenance after launch, covering backups, security and version updates, content changes and checks on forms, payments and WhatsApp links. Afterwards, maintenance continues from ₹8,000 a month if you want it. Since the code and accounts are yours, you can also switch developers freely.",
     },
     {
       question: "Do you also serve Anandpur Sahib, Una and Rupnagar?",

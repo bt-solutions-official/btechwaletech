@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Hosting", "Your AWS account, Canadian regions available"],
     ["Billing", "CAD and USD price lists, tax by location"],
     ["Security", "Audit logs, MFA, least-privilege access from day one"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "2", label: "AWS regions in Canada to host in" },
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Mobile client", note: `A companion app for your SaaS, often in React Native to share code with the web product. Apps start at ${P.app}.`, href: "/canada/react-native-app-development/", size: "md" },
       { name: "AI features", note: `Summaries, smart search, document extraction or an in-product assistant, scoped per tenant. AI automation starts at ${P.ai}.`, href: "/canada/ai-chatbot-development/", size: "md" },
       { name: "Integrations and public API", note: "Webhooks, an API for customers and integrations with tools like accounting software, planned so they do not break tenant isolation.", href: "/canada/quickbooks-online-integration/", size: "sm" },
-      { name: "Operations and care", note: `Five free months after launch, then care plans from ${P.care} for upgrades, patches and monitoring.`, size: "sm" },
+      { name: "Operations and care", note: `Two free months after launch, then care plans from ${P.care} for upgrades, patches and monitoring.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What building SaaS costs compared with hiring a SaaS development company in Canada",
-    note: `Custom SaaS builds start at ${P.software}. The quote depends mainly on the number of tenant roles, the complexity of billing (flat plans, seats or usage), integrations, AI features, which start at ${P.ai}, and whether you need a mobile app, from ${P.app}. Running costs are separate and paid to providers directly: AWS hosting, email sending and your payment processor's fees. After five months of free maintenance, care plans start at ${P.care}. We quote in USD; you can pay from a CAD account through Wise, wire or PayPal.`,
+    note: `Custom SaaS builds start at ${P.software}. The quote depends mainly on the number of tenant roles, the complexity of billing (flat plans, seats or usage), integrations, AI features, which start at ${P.ai}, and whether you need a mobile app, from ${P.app}. Running costs are separate and paid to providers directly: AWS hosting, email sending and your payment processor's fees. After two months of free maintenance, care plans start at ${P.care}. We quote in USD; you can pay from a CAD account through Wise, wire or PayPal.`,
   },
   guideLabel: "Building SaaS from Canada: architecture, billing, residency and roadmap",
   guide: [
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
       ["Your accounts, our access", "You open AWS, repository, payment processor, domain and email accounts in your company's name and invite us. Staging goes live in your Canadian region."],
       ["Platform layer first", "Tenants, users, roles, isolation tests, audit logs and billing plumbing are built and demonstrated before the feature screens, so the foundation is proven early."],
       ["Product layer in slices", "Your core workflow arrives in weekly slices on staging, reviewed on a call in your morning, with design partners invited as soon as it is usable."],
-      ["Launch, bill, iterate", "Billing switches on, monitoring and runbooks are handed over, and five months of free maintenance cover fixes while you sign your first paying customers."],
+      ["Launch, bill, iterate", "Billing switches on, monitoring and runbooks are handed over, and two months of free maintenance cover fixes while you sign your first paying customers."],
     ],
   },
   faqHeading: "SaaS development company in Canada: questions founders ask",

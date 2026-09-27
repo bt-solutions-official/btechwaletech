@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: build, data and SEO, project coordination" },
     { value: "2", label: "Working days to an itemized quote for your solar website" },
-    { value: "5", label: "Months of free maintenance, including incentive-page edits" },
+    { value: "2", label: "Months of free maintenance, including incentive-page edits" },
     { value: "0", label: "Platform or marketplace fees added to your quote" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Accuracy safeguards", value: "Dated incentive copy, labeled estimates, lender-approved financing wording" },
       { label: "Consent", value: "Clear call-and-text authorization naming your business, stored with each lead" },
       { label: "Starting price", value: `From ${P.site}; multi-market builds from ${P.seoSite}; custom calculators from ${P.software}` },
-      { label: "After launch", value: `5 months of free maintenance, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care} a month` },
     ],
   },
   services: {
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Draft regulated wording", "Incentive, financing and consent text drafted from official sources and your partners' materials, then reviewed by your attorney and lender."],
       ["Design and calculator", "A mobile-first design on staging with the savings estimate running on your assumptions and the form routing test leads to your CRM."],
       ["Build and connect", "Pages, galleries, CRM integration with consent records, follow-up texts and call tracking are built and tested end to end."],
-      ["Launch and keep current", "Speed and accessibility checks, Search Console, quarterly incentive-review reminders, and five months of free maintenance after launch."],
+      ["Launch and keep current", "Speed and accessibility checks, Search Console, quarterly incentive-review reminders, and two months of free maintenance after launch."],
     ],
   },
   faqHeading: "Solar company website design questions from US installers",
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
     { question: "What should a solar company website include?", answer: "A savings estimate, residential, commercial, battery and EV pages, a financing comparison, dated incentive pages linked to official sources, an install gallery, genuine reviews, credentials you hold, a short roof-and-bill qualification form and clear consent wording for calls and texts. It should load quickly on phones and route leads with context into your CRM." },
     { question: "Can my solar website calculate savings from a homeowner's address?", answer: `Yes, as a custom tool. Google's Solar API documentation describes building insights covering a building's location, dimensions and solar potential, plus shade data layers, where coverage exists. We can build an estimate on that data from ${P.software}. A simpler bill-based estimate using your own assumptions is included in starter sites.` },
     { question: "Is the 30% federal solar tax credit still available for homeowners?", answer: "The IRS page on the Residential Clean Energy Credit says the credit is not available for any property placed in service after December 31, 2025. Business credits follow different rules. Because incentives change, your website should show sourced, dated incentive information, and homeowners should confirm their situation with a tax professional." },
-    { question: "How do I keep solar incentive pages up to date?", answer: "Build each incentive as an editable block with the program name, eligibility, status, official source link and last-reviewed date, reused across the site. Review them every quarter and whenever a law or utility program changes. We set this up and include incentive edits during the five months of free maintenance after launch." },
+    { question: "How do I keep solar incentive pages up to date?", answer: "Build each incentive as an editable block with the program name, eligibility, status, official source link and last-reviewed date, reused across the site. Review them every quarter and whenever a law or utility program changes. We set this up and include incentive edits during the two months of free maintenance after launch." },
     { question: "How should my solar website explain leasing versus buying?", answer: "Compare who owns the system, who can claim credits, upfront and monthly costs, contract length and what happens when the home is sold. The FTC notes that credits available to buyers are not available to homeowners who lease or use a power purchase agreement. Only describe the options you actually offer." },
     { question: "Do solar lead forms need TCPA consent?", answer: "If you will contact leads with autodialed or prerecorded marketing calls or texts, the FCC's rules generally require prior express written consent. We place a consent statement naming your business above the submit button, use an unticked checkbox and store the text, time and page with each lead. Your attorney sets the final wording." },
     { question: "Can I show monthly payments for solar loans on my website?", answer: "Yes, with care. Under Regulation Z, stating a triggering term such as a payment amount or number of payments means you must also disclose the down payment, repayment terms and APR. We keep payment figures on the financing page with your lender's approved disclosures and use neutral wording elsewhere." },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "How is homeowner data protected on a solar website?", answer: "We collect only what the sales process needs, use encrypted connections, route bill uploads to secure storage in your own account, and limit CRM access by role. Your attorney writes or approves the privacy policy, which we link from every form. Your counsel can also assess which state privacy laws apply to you." },
     { question: "Do you design solar systems or do site surveys?", answer: "No. We are web developers working remotely. We build the website, calculators, forms and integrations; your team or engineering partner designs systems, surveys roofs and handles permits. If you use design or proposal software, we can link to it or pass lead data into it where it offers an API." },
     { question: "Does my solar website need to be ADA accessible?", answer: "The Department of Justice says the ADA applies to what businesses open to the public offer online and points to WCAG as helpful guidance. We build with readable contrast, labeled form fields, keyboard-friendly calculators and alt text on install photos. Your attorney can advise on your specific obligations." },
-    { question: "What does solar website maintenance cost after launch?", answer: `The first five months after launch include free maintenance: updates, backups, security checks and small edits, including incentive changes. After that, care starts from ${P.care} a month. Your team can edit incentive blocks, galleries and calculator assumptions yourselves, and we show you how at handover.` },
+    { question: "What does solar website maintenance cost after launch?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits, including incentive changes. After that, care starts from ${P.care} a month. Your team can edit incentive blocks, galleries and calculator assumptions yourselves, and we show you how at handover.` },
   ],
   related: {
     heading: "Related website pages for US installers and contractors",

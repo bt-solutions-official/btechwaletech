@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Answers come from", "Your catalogue, FAQs and policies"],
     ["Escalation", "Handoff to your team on WhatsApp"],
     ["Working overlap", "Saudi 9 am–5 pm = 11:30 am–7:30 pm IST"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and test the bot" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Platform fees added by us on top of your AI usage" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Starting price", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Model choice", value: "Hosted API or open-weight model, chosen by Arabic test results" },
       { label: "Data handling", value: "Consent notice, masked logs, retention period you set" },
-      { label: "Care", value: `5 months free, then from ${P.care}` },
+      { label: "Care", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, AI chatbot development in Saudi Arabia starts from ${P.ai} for a bilingual bot grounded on your FAQs and pages, with lead capture and WhatsApp handoff. Larger builds are quoted line by line, and there are two running costs to plan for.`,
         `The build cost moves with the number of content sources, whether live catalogue data is involved, how many systems the bot writes to, and how deep the Arabic testing goes. A 40-question FAQ bot sits near the starting price. A shopping assistant reading a live catalogue, writing to a CRM and handing off to a shared WhatsApp inbox takes more weeks and more testing.`,
-        `Running costs are the language-model usage, billed per token by the provider to your account, and hosting for the retrieval database and chat backend. Both depend on conversation volume and answer length, so we estimate them from your current enquiry numbers and set usage caps in the provider console. Maintenance is free for five months after launch and then optional from ${P.care}.`,
+        `Running costs are the language-model usage, billed per token by the provider to your account, and hosting for the retrieval database and chat backend. Both depend on conversation volume and answer length, so we estimate them from your current enquiry numbers and set usage caps in the provider console. Maintenance is free for two months after launch and then optional from ${P.care}.`,
       ],
       after: [`Quotes from other developers and agencies for similar work vary widely; compare scope line by line, especially testing and data handling. General site costs are explained on <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a>.`],
     },
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
         ["Chatbot plus CRM and WhatsApp handoff", `From ${P.ai}`, "3–4 weeks", "Lead records, transcripts, shared inbox handoff"],
         ["Chatbot inside a new mobile app", `From ${P.app}`, "6–10 weeks", "App build plus shared knowledge base"],
         ["Chatbot plus a customer portal", `From ${P.software}`, "6–12 weeks", "Logins, order lookups, admin panel"],
-        ["Monthly care after 5 free months", `From ${P.care}`, "Monthly", "Failed-question review, content and prompt fixes"],
+        ["Monthly care after 2 free months", `From ${P.care}`, "Monthly", "Failed-question review, content and prompt fixes"],
       ],
       hideSm: [3],
     },
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
       ["Build the Arabic test set", "We draft test questions in formal Arabic, Gulf dialect and mixed language; your team corrects them so the test reflects how your customers really write."],
       ["Pick the model by results", "Two or three candidate models run the test set. The one with the best score for your questions, cost and data needs is chosen with you."],
       ["Staging, fixes and handoff", "You try the bot on a private link, we fix failed answers, connect your CRM and WhatsApp handoff and agree the consent notice text."],
-      ["Launch and monthly learning", "The bot goes live with usage caps set. For five months we review failed questions free; after that, care continues from " + P.care + " if you want it."],
+      ["Launch and monthly learning", "The bot goes live with usage caps set. For two months we review failed questions free; after that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "AI chatbot development in Saudi Arabia: common questions",
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
     { question: "Can the same chatbot work on my website and mobile app?", answer: "Yes. We keep one knowledge base and one chat backend and connect several front ends to it: a website widget, a screen inside your Flutter or React Native app, and optionally WhatsApp. Updating an answer once updates it everywhere, which is cheaper to maintain than separate bots with drifting content." },
     { question: "How do you stop people misusing the chatbot?", answer: "The bot treats everything a user types as data rather than instructions, keeps no secrets or other customers' details in its context, and cannot take sensitive actions. Rate limits stop automated abuse, and test cases include attempts to push it off topic. Any change to prompts is re-tested against these cases before going live." },
     { question: "Will an AI chatbot improve my Google ranking?", answer: "Not directly, and nobody can guarantee rankings. Search engines rank pages, not chat widgets. However, the clear bilingual answers written to ground a chatbot also make strong FAQ content on your pages, which helps both search and AI assistants understand your business. We also make sure the widget does not slow your pages down." },
-    { question: "What happens after the chatbot goes live?", answer: `For five months after launch, maintenance is free: we review failed questions, update content and fix issues. After that, care is optional from ${P.care}. The monthly routine adds new questions to the Arabic test set, reruns it and fixes regressions, so answers improve instead of drifting as your products and policies change.` },
+    { question: "What happens after the chatbot goes live?", answer: `For two months after launch, maintenance is free: we review failed questions, update content and fix issues. After that, care is optional from ${P.care}. The monthly routine adds new questions to the Arabic test set, reruns it and fixes regressions, so answers improve instead of drifting as your products and policies change.` },
     { question: "How do payments and contracts work from Saudi Arabia?", answer: "You receive an itemised quote in USD, and nothing is charged until you approve it in writing. Payments go by Wise, bank wire or PayPal, with invoices issued from India. Specific terms such as milestones are set in your written quote; see our terms and refund policy pages. For tax treatment of foreign invoices, ask your accountant." },
     { question: "Can you build a chatbot for a Salla or Zid store?", answer: "Yes. A shopping assistant can read product names, prices, sizes and stock from the store so answers match what is on sale, then send buyers to the product page or to WhatsApp. What can be read depends on each platform's API and your plan. Order-specific questions need customer verification before any details are shown." },
   ],
@@ -460,7 +460,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an Arabic AI chatbot? Send us ten real customer questions",
-    note: `Message us on WhatsApp with a few questions your customers actually ask. You will get an itemised USD quote in about two working days, with chatbot builds starting from ${P.ai}, every account in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with a few questions your customers actually ask. You will get an itemised USD quote in about two working days, with chatbot builds starting from ${P.ai}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

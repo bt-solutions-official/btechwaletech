@@ -56,7 +56,7 @@ const jangaon: CityContent = {
     ai: "Telugu and English WhatsApp assistants that handle rate, stock, fee and appointment questions and pass real decisions to your staff.",
     data: "Dashboards showing paddy received by village, rice dispatched by buyer, dues by trader and enquiries by channel.",
     app: "Android and iOS apps for a mill's field agents, a school's parents or a brass workshop's repeat buyers, from ₹40,000, listed on Google Play and the App Store.",
-    maintenance: "Five months of maintenance at no charge after launch, after which it continues from ₹8,000 a month if you want it.",
+    maintenance: "Two months of maintenance at no charge after launch, after which it continues from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Jangaon owners often have a relative in Hyderabad or the US who already has an opinion about their website, and a Hyderabad agency's quote in hand. We keep it simple: prices published, scope written down, WhatsApp answered every day, and domain, hosting and code in the owner's name from day one.",
@@ -177,7 +177,7 @@ const jangaon: CityContent = {
       heading: "Ownership and maintenance for Jangaon websites and apps",
       paragraphs: [
         "Your website, app and data are your property. The domain is bought using your email address, hosting renewals are billed to you, the complete source code is handed over, and you are the owner on your Google Business Profile and your Google Play and Apple developer accounts. A document listing every login is part of the handover, so control never rests with a single employee or with us.",
-        "For five months after launch, upkeep is free. We edit rates and notices, keep backups, install security and version updates, and check that forms, payment and WhatsApp buttons behave. After that you pick: stay on with us from ₹8,000 per month, manage it in-house, or pass the code to another developer with no permission needed from us.",
+        "For two months after launch, upkeep is free. We edit rates and notices, keep backups, install security and version updates, and check that forms, payment and WhatsApp buttons behave. After that you pick: stay on with us from ₹8,000 per month, manage it in-house, or pass the code to another developer with no permission needed from us.",
         "Apps listed in the stores must be refreshed about once a year, since Google and Apple regularly lift their minimum version rules. We track those dates and update ahead of them so your app does not disappear from the store. Our <a href=\"/services/web-development/\">web development page</a> describes how we keep sites quick and protected after go-live.",
       ],
     },
@@ -269,7 +269,7 @@ const jangaon: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are covered free: content edits, backups, security updates and checks on forms, payments and WhatsApp buttons. From then on it is optional, starting at ₹8,000 per month. Because you already own the code and every login, switching to another developer needs no approval from us.",
+        "The first two months after launch are covered free: content edits, backups, security updates and checks on forms, payments and WhatsApp buttons. From then on it is optional, starting at ₹8,000 per month. Because you already own the code and every login, switching to another developer needs no approval from us.",
     },
     {
       question: "Do you work in Station Ghanpur, Warangal and Siddipet as well?",

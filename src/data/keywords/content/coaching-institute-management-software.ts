@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Parent and student app", `From ${P.app}, Android & iOS`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Per-student fees", "None on a custom build"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on your coaching software" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Batch changes mid-course", "Crossed out and rewritten", "Possible, often clumsy", "Transfer with fee and attendance history intact"],
       ["Test analysis", "Marks in Excel", "Varies by product", "Rank lists, subject trends, reports in your format"],
       ["Branding for parents", "None", "Vendor’s app name and logo", "Your centre’s name on the app and messages"],
-      ["Running cost", "Staff time", "Subscription, often per student", `No per-student fee; care from ${P.care} after 5 free months`],
+      ["Running cost", "Staff time", "Subscription, often per student", `No per-student fee; care from ${P.care} after 2 free months`],
       ["Student data", "Registers and phones", "On the vendor’s servers", "In your hosting account"],
       ["Best for", "Very small tuition classes", "Standard setups wanting a quick start", "Growing centres with their own way of working"],
     ],
@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom build from BtechWaleTech starts at ${P.software} (${P.softwareUsd}) for a web system with enquiries, admissions, batches, fees with receipts and core reports. That price assumes one branch and standard instalment rules. Each additional module or branch adds an itemised line.`,
         `The biggest cost drivers are automated parent messaging (SMS and WhatsApp setup and templates), test analysis with OMR import, multi-branch reporting, a faculty payout module, and a branded Android and iOS app for parents and students, which starts at ${P.app}. Migrating several years of fee records from messy spreadsheets can also take real effort; many centres move only the current session.`,
-        `Running costs are hosting, which you pay directly to your cloud provider, and message charges from your SMS or WhatsApp provider. There is no per-student licence, which matters for centres whose enrolment swings between a quiet summer and a crowded admission season. After five free months of maintenance, ongoing care starts at ${P.care} if you want it.`,
+        `Running costs are hosting, which you pay directly to your cloud provider, and message charges from your SMS or WhatsApp provider. There is no per-student licence, which matters for centres whose enrolment swings between a quiet summer and a crowded admission season. After two free months of maintenance, ongoing care starts at ${P.care} if you want it.`,
         "Ready-made coaching apps quote per student or per month, and their prices vary widely. Compare the total over three years, including the cost of workarounds, not only the first month.",
       ],
     },
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
         ["Plus tests, rank lists and faculty module", `Above ${P.software}, itemised`, `Above ${P.softwareUsd}`, "8–11 weeks", "Test-prep institutes"],
         ["Plus multi-branch and franchise statements", `Above ${P.software}, itemised`, `Above ${P.softwareUsd}`, "9–12 weeks", "Chains and franchise networks"],
         ["Branded parent and student app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Daily notes, timetables, results"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New sessions, changes, updates"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New sessions, changes, updates"],
       ],
       hideSm: [2],
     },
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your centre’s name", "Hosting, domain, SMS sender registration and WhatsApp Business account are created under your ownership, with us added as users."],
       ["Front desk goes first", "Enquiries, admissions, batches and fees are released on a staging link, tested by your counsellor and accounts person, then launched before the new batch cycle."],
       ["Classroom modules follow", "Attendance alerts, tests, faculty and branch reports are tested with one or two batches, adjusted from teacher feedback and then rolled out."],
-      ["Handover and five free months", `You get code, logins and role guides. Five months of maintenance are free; after that, care from ${P.care} is optional and you can move to any developer.`],
+      ["Handover and two free months", `You get code, logins and role guides. Two months of maintenance are free; after that, care from ${P.care} is optional and you can move to any developer.`],
     ],
   },
   faqHeading: "Coaching institute management software: questions owners ask",
@@ -402,9 +402,9 @@ const content: FreelanceContent = {
     { question: "Can the software work in Hindi?", answer: "Yes. Screens used by counsellors and front-desk staff, and messages sent to parents, can carry Hindi text alongside English, with you approving the wording. Owner reports and accounts exports usually stay in English. We work in both English and Hindi, so requirements calls can happen in whichever language your team prefers." },
     { question: "Does the software collect fees online?", answer: "It can show parents the amount due with a payment link in reminders, and record payments made by UPI, card, cash or bank transfer with an automatic receipt. Online collection uses a payment provider account in your centre’s name. Many centres keep counter payments too, and the software records both into the same fee ledger." },
     { question: "Can you also build our coaching website and handle SEO?", answer: `Yes. A coaching website starts at ${P.site}, and enquiry forms on it can feed the management software directly. Monthly SEO starts at ${P.seo} and covers technical fixes, content and Google Business Profile work. No one can guarantee rankings, but a fast site with clear course pages gives you a fair chance in local search.` },
-    { question: "What support is available after launch?", answer: `Five months of maintenance are included free after launch, covering fixes, small changes and updates such as new batches or fee plans. After that, care starts at ${P.care} per month if you want it. Because you hold the code and accounts, you can also bring support in-house or give it to another developer.` },
+    { question: "What support is available after launch?", answer: `Two months of maintenance are included free after launch, covering fixes, small changes and updates such as new batches or fee plans. After that, care starts at ${P.care} per month if you want it. Because you hold the code and accounts, you can also bring support in-house or give it to another developer.` },
     { question: "How do we pay for the project?", answer: "Payment is staged against delivered work as written in your itemised quote. In India you pay by UPI or bank transfer; overseas clients pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. For anything the quote does not cover, check our terms page or ask us before you start." },
-    { question: "Coaching institute ke liye software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom coaching software ${P.software} se shuru hota hai, jismein enquiry, admission, batch, fees aur receipts aate hain. Parent SMS ya WhatsApp alerts, tests, extra branch aur app alag line mein quote hote hain. Per student koi fees nahi lagti, code aur data aapke naam par rehta hai, aur launch ke baad 5 mahine support free hai.` },
+    { question: "Coaching institute ke liye software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom coaching software ${P.software} se shuru hota hai, jismein enquiry, admission, batch, fees aur receipts aate hain. Parent SMS ya WhatsApp alerts, tests, extra branch aur app alag line mein quote hote hain. Per student koi fees nahi lagti, code aur data aapke naam par rehta hai, aur launch ke baad 2 mahine support free hai.` },
   ],
   related: {
     heading: "More for coaching centres, education and operations software",
@@ -427,7 +427,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us how your coaching centre runs and get a quote",
-    note: `Send your batch list, fee plans and test pattern on WhatsApp. You will receive an itemised quote in about two working days, with coaching institute management software starting at ${P.software}, everything in your centre’s name and five months of free maintenance after launch.`,
+    note: `Send your batch list, fee plans and test pattern on WhatsApp. You will receive an itemised quote in about two working days, with coaching institute management software starting at ${P.software}, everything in your centre’s name and two months of free maintenance after launch.`,
   },
 };
 

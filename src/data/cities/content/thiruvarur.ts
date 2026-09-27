@@ -56,7 +56,7 @@ const thiruvarur: CityContent = {
     ai: "WhatsApp assistants that answer Tamil and English questions about stock, OPD timings, admissions or temple-season rooms and pass real enquiries to you.",
     data: "Season-by-season dashboards showing paddy bought, rice sold, outstanding dues and which villages send the most business.",
     app: "Android and iOS apps from ₹40,000, published on Google Play and the App Store, for use cases like college notices, clinic tokens or trader order booking.",
-    maintenance: "Five months of free upkeep after launch, then maintenance from ₹8,000 a month for edits, backups, updates and checks before the chariot festival rush.",
+    maintenance: "Two months of free upkeep after launch, then maintenance from ₹8,000 a month for edits, backups, updates and checks before the chariot festival rush.",
   },
   whyUsIntro:
     "Thiruvarur customers tend to judge a supplier on whether promises made in the first call are still being kept in the third year. We publish starting prices, send an itemised quote in writing, reply on WhatsApp all seven days, and register the domain, hosting, code and app store accounts under your name. When a feature will not earn its cost in a delta town, we tell you.",
@@ -185,7 +185,7 @@ const thiruvarur: CityContent = {
       heading: "Ownership, handover and maintenance for Thiruvarur websites and apps",
       paragraphs: [
         "Delta businesses sometimes find that an earlier developer registered the domain in his own name and then stopped answering. We avoid this entirely. The domain, hosting, source code, Google Business Profile and any Google Play or App Store accounts are set up in your name from the beginning, and you hold the passwords.",
-        "Every site and app gets five months of free maintenance after launch: price and photo updates, backups, security patches, and checks that forms, UPI checkout and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month. It is optional, and you can move to another provider at any time with a clean handover of code and access.",
+        "Every site and app gets two months of free maintenance after launch: price and photo updates, backups, security patches, and checks that forms, UPI checkout and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month. It is optional, and you can move to another provider at any time with a clean handover of code and access.",
         "For seasonal businesses, we time the heavier work sensibly. A lodge's booking pages are checked before the chariot festival, a college's admissions pages before results are announced, a mill's software before the Samba harvest. That way the systems are tested when the pressure is lowest, not discovered broken at the busiest moment.",
       ],
     },
@@ -268,7 +268,7 @@ const thiruvarur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: we make price and photo changes, take backups, apply security updates and test your forms, UPI payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month and is optional. You can leave at any time and take the full code and access with you.",
+        "The first two months after launch are free: we make price and photo changes, take backups, apply security updates and test your forms, UPI payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month and is optional. You can leave at any time and take the full code and access with you.",
     },
     {
       question: "Do you serve Mannargudi, Kodavasal and Nannilam as well?",

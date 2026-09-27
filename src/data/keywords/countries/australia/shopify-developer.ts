@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, about 2 working days"],
     ["Store owner", "You, on your own Shopify plan"],
     ["Call window", "Your afternoon, our morning"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your store's code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Marketplace fees added to your invoice" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Shipping", value: "Australia Post, Sendle or Starshipit, with metro and remote zones" },
       { label: "Pricing display", value: "GST-inclusive single price on product, cart and checkout" },
       { label: "Billing", value: "Quoted in USD, paid by Wise or bank wire; AUD transfers via Wise" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care}` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       heading: "What drives the cost of hiring a Shopify developer in Australia?",
       paragraphs: [
         `Scope drives cost far more than hourly rates. Quotes for the same brief vary widely across Australian agencies, marketplace freelancers and remote teams, and the spread almost always comes from how many custom templates, integrations and data-cleaning hours each supplier assumed.`,
-        `Our numbers: a new Shopify store starts from ${P.shop} and takes 4–8 weeks. A custom app or deeper integration starts from ${P.software}. Theme edits are priced per task once we have seen the store. After launch you get five months of free maintenance, then optional care from ${P.care}. Ongoing store SEO starts at ${P.seo}.`,
+        `Our numbers: a new Shopify store starts from ${P.shop} and takes 4–8 weeks. A custom app or deeper integration starts from ${P.software}. Theme edits are priced per task once we have seen the store. After launch you get two months of free maintenance, then optional care from ${P.care}. Ongoing store SEO starts at ${P.seo}.`,
         `Budget separately for things that are not developer fees: your Shopify plan, paid theme licence if you use one, app subscriptions, carrier accounts and BNPL merchant fees. We list every recurring cost we know of in the quote so there are no surprises in month three.`,
       ],
       subs: [
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario, not a client story. Say a two-person skincare brand in Brunswick sells 40 products through marketplaces and wants its own store before the Christmas rush.`,
         `A Shopify developer would start with the data: ingredients, sizes and batch notes go into metafields so every product page shows them the same way. The theme gets a custom ingredients section and a routine builder block. Tax settings are switched to GST-inclusive. Shopify Payments, Apple Pay and Afterpay are enabled and tested. Shipping uses satchel rates for metro and regional Victoria, separate zones for remote WA and NT, and click-and-collect from the studio.`,
-        `We would quote this from the ${P.shop} starting point, with separate lines for the routine builder and product data cleanup. The build would run about five weeks: week one on data and theme preview, weeks two and three on templates and checkout, week four on shipping, policies and speed, and week five on test orders and launch. After launch the five free months of maintenance would cover new product templates for seasonal gift sets.`,
+        `We would quote this from the ${P.shop} starting point, with separate lines for the routine builder and product data cleanup. The build would run about five weeks: week one on data and theme preview, weeks two and three on templates and checkout, week four on shipping, policies and speed, and week five on test orders and launch. After launch the two free months of maintenance would cover new product templates for seasonal gift sets.`,
       ],
     },
     {
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
       ["Collaborator access and a duplicate theme", "You approve our collaborator request, we duplicate the live theme and set up a repository, so your store keeps selling untouched."],
       ["Build and review on a preview", "Changes appear on the unpublished theme with notes after your working day. You review in the morning and reply with one list."],
       ["Test orders and publish", "We run card, wallet and BNPL test orders, check GST and shipping totals, then publish during your business hours."],
-      ["Five free months, then optional care", `Fixes and small edits are free for five months after launch. Ongoing care starts from ${P.care} only if you want it.`],
+      ["Two free months, then optional care", `Fixes and small edits are free for two months after launch. Ongoing care starts from ${P.care} only if you want it.`],
     ],
   },
   faqHeading: "Shopify developer Australia: common questions",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Will a Shopify developer improve my Google rankings?", answer: `A good Shopify developer fixes the technical side: clean collection structure, redirects, Product structured data, speed and crawlable filters. That gives your content a fair chance to rank. Rankings also depend on competition, content and links, so nobody can honestly guarantee positions. Monthly SEO with us starts from ${P.seo}.` },
     { question: "Why is my Shopify store slow and can you fix it?", answer: "The usual causes are too many apps injecting scripts on every page, leftover code from uninstalled apps, and oversized images. We audit every app, remove what is unused along with its leftover snippets, resize images, lazy-load content below the first screen and measure again with PageSpeed Insights and Search Console field data." },
     { question: "Can you help with a Shopify refund and returns policy?", answer: "We build and format the policy page, link it from checkout and product pages, and make sure it does not tell shoppers refunds are never available, because the ACCC says consumer guarantees cannot be removed. We do not write legal advice, so your lawyer or a legal template service should approve the final wording." },
-    { question: "Do you offer Shopify maintenance after launch?", answer: `Yes. Every new build includes five months of free maintenance for fixes, small edits and checks after Shopify updates. After that, monthly care is optional and starts from ${P.care}. You can also manage the store yourself, since the admin and all accounts are already yours.` },
+    { question: "Do you offer Shopify maintenance after launch?", answer: `Yes. Every new build includes two months of free maintenance for fixes, small edits and checks after Shopify updates. After that, monthly care is optional and starts from ${P.care}. You can also manage the store yourself, since the admin and all accounts are already yours.` },
     { question: "Can you migrate my WooCommerce store to Shopify?", answer: "Yes. We export products, customers and order history where the tools allow, map old URLs to new ones with redirects so search traffic carries over, and rebuild key templates. Migration is quoted as its own line because data quality varies a lot between stores. If you would rather stay on WooCommerce, our WooCommerce developer page covers that route." },
     { question: "Do you work with Shopify Plus stores?", answer: "Yes, and that work has its own considerations such as checkout extensions, Shopify Functions for discount logic and B2B catalogues. We cover it on our Shopify Plus developer page. Most small and medium Australian stores do not need Plus, and we will say so if your plan already does what you need." },
     { question: "Can you connect Shopify to Xero?", answer: "Yes. Depending on volume and how you want orders, fees and refunds to appear in your books, we either configure a maintained connector app or build a custom integration through the Xero API. Your bookkeeper should confirm the account mapping and tax codes before we switch it on." },

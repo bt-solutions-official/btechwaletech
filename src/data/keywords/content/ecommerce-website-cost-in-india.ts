@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Checkout", "UPI, cards, netbanking, optional COD"],
     ["Quote", "Line by line, in about 2 working days"],
     ["Owner of accounts", "Your business, from day one"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support your store" },
     { value: "2", label: "Working days to receive an itemised store quote" },
-    { value: "5", label: "Months of free maintenance once the store is live" },
+    { value: "2", label: "Months of free maintenance once the store is live" },
     { value: "0", label: "Commission taken by us on your sales" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Platforms we build on", value: "Shopify, WooCommerce or a custom Next.js store" },
       { label: "Payment options", value: "UPI, cards, netbanking, wallets; COD with rules" },
       { label: "Recurring costs", value: "Domain, hosting or plan fee, gateway charges, messaging" },
-      { label: "Maintenance", value: `First 5 months free, then from ${P.care}` },
+      { label: "Maintenance", value: `First 2 months free, then from ${P.care}` },
       { label: "Growth add-ons", value: `Monthly SEO from ${P.seo}; shopping app from ${P.app}` },
     ],
   },
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
         "<strong>Payment gateway charges:</strong> a percentage per prepaid order plus GST on that fee.",
         "<strong>Shipping and returns:</strong> per shipment, plus return-to-origin charges on refused COD parcels.",
         "<strong>Messaging:</strong> WhatsApp Business API conversations, SMS OTPs and transactional email.",
-        `<strong>Maintenance:</strong> free for the first 5 months with us, then from ${P.care} if you want continued support.`,
+        `<strong>Maintenance:</strong> free for the first 2 months with us, then from ${P.care} if you want continued support.`,
         `<strong>Marketing:</strong> ads, and store SEO from ${P.seo} if organic traffic is part of the plan.`,
       ],
       after: [
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Domain, platform or hosting, payment gateway and courier accounts are opened in your business name. We help with document checklists for gateway activation."],
       ["Build on a private preview", "You see the store on a preview link and place test orders from your own phone. Feedback on WhatsApp, revisions in rounds."],
       ["Test real orders, then launch", "We run live prepaid, COD and refund tests, print a real shipping label and check an invoice with your accountant before pointing the domain."],
-      ["Train, hand over and support", `A screen-share walkthrough for your team, a list of every account and renewal date, and 5 months of free care. After that, support from ${P.care} if you want it.`],
+      ["Train, hand over and support", `A screen-share walkthrough for your team, a list of every account and renewal date, and 2 months of free care. After that, support from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Ecommerce website cost in India: common questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "What is the cost of an ecommerce website for 100 products?", answer: `A store with around 100 products usually sits close to our starting price of ${P.shop}, provided photos, prices and descriptions are ready in a spreadsheet. The number that matters more is variants: 100 products in five sizes each is 500 stock items to manage. Tell us both numbers and the quote will reflect them accurately.` },
     { question: "Is Shopify cheaper than a custom ecommerce website in India?", answer: "Shopify is usually cheaper to build and more expensive to run: the upfront work is lighter, but you pay a monthly plan and often several paid apps. A custom store costs more upfront and mainly costs hosting afterwards. Over two or three years the totals can come closer than people expect, so compare total cost, not just the build fee." },
     { question: "Is WooCommerce free?", answer: "The WooCommerce plugin itself is free and open source, and it runs on WordPress. A working store still needs hosting, a domain, usually a few paid extensions, and regular updates for WordPress, the theme and plugins. So the platform is free, but the store has running costs, and maintenance matters more than on a hosted platform." },
-    { question: "What are the monthly or yearly costs of running an online store?", answer: `Expect a yearly domain renewal, hosting or a platform subscription, paid apps or plugins, payment gateway charges on prepaid orders, shipping and return charges, and messaging costs for WhatsApp or SMS. With us, maintenance is free for five months after launch and then starts from ${P.care} if you want it. We list all of these in the quote.` },
+    { question: "What are the monthly or yearly costs of running an online store?", answer: `Expect a yearly domain renewal, hosting or a platform subscription, paid apps or plugins, payment gateway charges on prepaid orders, shipping and return charges, and messaging costs for WhatsApp or SMS. With us, maintenance is free for two months after launch and then starts from ${P.care} if you want it. We list all of these in the quote.` },
     { question: "How much does a payment gateway cost for a website in India?", answer: "Payment gateways usually charge a percentage of each successful prepaid transaction, with GST on that fee; rates differ by provider, payment method and volume, so compare published pricing from two or three RBI-authorised aggregators. Integrating the gateway into your store is normally part of the build. We do not name or resell any gateway; you open the merchant account in your business’s name." },
     { question: "Should I offer cash on delivery on my store?", answer: "Offer COD if your customers expect it, but add rules. Limit COD to serviceable pincodes, set order value limits, confirm COD orders by OTP or WhatsApp before dispatch, and give a small discount for prepaid UPI payments. Refused COD parcels come back at your cost, so unmanaged COD is one of the biggest hidden costs of selling online in India." },
     { question: "Can my online store generate GST invoices automatically?", answer: "Yes. We store the HSN code and GST rate for each product, apply CGST and SGST for buyers in your state and IGST for other states, number invoices in sequence and email a PDF invoice with each order. B2B buyers can enter their GSTIN at checkout. Your chartered accountant should confirm rates and invoice format; we build to their instructions." },
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "What legal pages does an Indian ecommerce website need?", answer: "At minimum: terms of use, privacy policy, shipping policy, returns and refund policy, and contact details including a grievance officer, which the Consumer Protection (E-Commerce) Rules, 2020 require sellers to display. Payment gateways also check for these pages before activation. We build the pages and structure; your lawyer should approve the final wording." },
     { question: "Does the ecommerce website cost include SEO?", answer: `Setup SEO is included: clean URLs, product schema, sitemaps, Search Console and a Google Merchant Center feed. Ongoing SEO, such as writing category content, fixing technical issues and reporting, is a separate monthly service from ${P.seo}. Nobody can honestly guarantee rankings, but a store structured well at launch avoids costly fixes later.` },
     { question: "Can you integrate my store with Tally or billing software?", answer: "Often, yes. Depending on your version and setup, orders can be pushed to accounting or billing software and stock pulled back into the store. This is quoted as its own line after we see your current system, because integrations vary a lot. For deeper operations needs across purchase and production, an ERP may fit better than store plugins." },
-    { question: "How much does it cost to maintain an ecommerce website?", answer: `With us, the first five months after launch are free: updates, fixes and small changes. After that, maintenance starts from ${P.care} and covers updates, backups, security checks and small edits. Shopify stores need less technical upkeep than WooCommerce, but both need someone watching payments, apps and speed after peak sale seasons.` },
+    { question: "How much does it cost to maintain an ecommerce website?", answer: `With us, the first two months after launch are free: updates, fixes and small changes. After that, maintenance starts from ${P.care} and covers updates, backups, security checks and small edits. Shopify stores need less technical upkeep than WooCommerce, but both need someone watching payments, apps and speed after peak sale seasons.` },
     { question: "Is it better to sell on marketplaces or my own website?", answer: "Marketplaces bring ready buyers but take commission and keep the customer relationship. Your own store keeps margins and customer data but needs you to bring traffic. Many Indian sellers do both: marketplaces for discovery and volume, their own store for repeat buyers, bundles and better margins. Your margins and marketing budget decide the balance." },
     { question: "Ecommerce website banane ka kharcha kitna aata hai?", answer: `Hamare saath ek online store ${P.shop} se shuru hota hai aur 4–8 hafte mein ready ho jaata hai. Isme catalogue, cart, UPI aur card payment, order email aur admin panel aata hai. Products zyada hon, COD rules chahiye hon ya courier integration chahiye, toh quote badhta hai. Domain, hosting aur gateway charges alag se har saal lagte hain.` },
     { question: "Can you also build a shopping app for my store?", answer: `Yes. Once the store has regular repeat buyers, we can build an Android and iOS app on the same catalogue using Flutter or React Native, from ${P.app}. Google Play charges a one-time US$25 developer registration and Apple charges US$99 a year for its developer programme; those accounts are opened in your name.` },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want an honest ecommerce website quote? Send us your catalogue",
-    note: `Share a sample of your product sheet and how you sell today on WhatsApp. You will get an itemised store quote in about two working days, starting from ${P.shop}, with every account in your name and five months of free care after launch.`,
+    note: `Share a sample of your product sheet and how you sell today on WhatsApp. You will get an itemised store quote in about two working days, starting from ${P.shop}, with every account in your name and two months of free care after launch.`,
   },
 };
 

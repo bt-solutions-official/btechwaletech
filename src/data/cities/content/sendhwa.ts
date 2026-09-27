@@ -56,7 +56,7 @@ const sendhwa: CityContent = {
     ai: "Hindi WhatsApp assistants that share today's kapas rate, bale stock and timings, and pass negotiation to you.",
     data: "Season dashboards of kapas arrivals, outturn per lot, bales dispatched, buyer dues and truck earnings.",
     app: "Android and iOS apps from ₹40,000 for transport fleets, dealer reorders and school or clinic notices, listed on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for changes, backups and security.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for changes, backups and security.",
   },
   whyUsIntro:
     "Sendhwa does business with people it can hold to a number. We publish starting prices, send a written list of every item before any work, answer WhatsApp all seven days, and put the domain, hosting, code and app store accounts in your name from day one. When a feature is not worth the money for your trade, we say so.",
@@ -168,7 +168,7 @@ const sendhwa: CityContent = {
       heading: "Website cost in Sendhwa: starting prices and how to compare offers",
       paragraphs: [
         "Here are the starting points in plain numbers. A static website of up to 100 pages is from ₹10,000 and usually takes one to two weeks. A large SEO website of 700 or more pages, useful for a dealer with a big catalogue or a hospital that wants a page for every service, is from ₹20,000 and takes three to five weeks. Android and iOS apps begin at ₹40,000, and AI or WhatsApp automation also begins at ₹40,000.",
-        "An online store starts at ₹50,000 with four to eight weeks of work. Custom software, such as a ginning lot register or a fleet management tool, starts at ₹60,000 and takes six to twelve weeks. Monthly SEO is from ₹10,000 a month. Maintenance is free for five months after launch and then from ₹8,000 a month.",
+        "An online store starts at ₹50,000 with four to eight weeks of work. Custom software, such as a ginning lot register or a fleet management tool, starts at ₹60,000 and takes six to twelve weeks. Monthly SEO is from ₹10,000 a month. Maintenance is free for two months after launch and then from ₹8,000 a month.",
         "What pushes a quote above the starting point is always something you choose: Hindi and English versions, many products, delivery rules, online payment, staff logins, SMS alerts or a link to Tally. Each appears as its own line, so you can drop anything that is not worth it now. Sending your own text and phone photos keeps content costs low.",
         "Prices from different developers around Indore, Khargone and Barwani can vary a lot for similar-sounding work. Ask each one who owns the domain and hosting, whether the site is checked on basic phones, what SEO is included, how many revisions are allowed and what support will cost later. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written itemised quote reaches you in about two working days.",
       ],
@@ -188,7 +188,7 @@ const sendhwa: CityContent = {
       heading: "Ownership, handover and maintenance for Sendhwa projects",
       paragraphs: [
         "You own what we build, fully. The domain is registered with your email, hosting is billed in your name, the source code is handed to you, and the Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you receive a written list of every login, so no one, including us, can ever hold your site or app hostage.",
-        "For five months after launch, maintenance costs nothing. We update rates, photos and text when you ask, take regular backups, install security and version updates, and test that forms, UPI checkout and WhatsApp links still work. After that, you decide whether to continue with us from ₹8,000 a month, manage it yourself, or pass the code to another developer.",
+        "For two months after launch, maintenance costs nothing. We update rates, photos and text when you ask, take regular backups, install security and version updates, and test that forms, UPI checkout and WhatsApp links still work. After that, you decide whether to continue with us from ₹8,000 a month, manage it yourself, or pass the code to another developer.",
         "Apps need yearly attention because Google and Apple keep raising their technical requirements, and apps that fall behind can disappear from the stores. We track those deadlines and update early.",
         "We also serve clients across Barwani district and the border belt, including Warla, Niwali, Palsud, Pansemal, Rajpur and Barwani, and towns such as Shirpur, Dhule, Nandurbar, Manawar, Sanawad and Indore. A business that serves several places gets separate pages with real details for each, never copies with the name swapped. If you are unsure what you need, send us a few lines on WhatsApp; sometimes the honest answer is just fixing your Maps listing yourself.",
       ],
@@ -267,7 +267,7 @@ const sendhwa: CityContent = {
     {
       question: "What happens after my website or app goes live?",
       answer:
-        "Maintenance is free for five months after launch, covering content updates, backups, security patches and checks on forms, UPI payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it yourself, or move to another developer, since the code and every account are already yours.",
+        "Maintenance is free for two months after launch, covering content updates, backups, security patches and checks on forms, UPI payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it yourself, or move to another developer, since the code and every account are already yours.",
     },
     {
       question: "Can transport companies in Sendhwa get a trip tracking app?",

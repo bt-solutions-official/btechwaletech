@@ -56,7 +56,7 @@ const kanhangad: CityContent = {
     ai: "WhatsApp assistants that answer room, fee, stock and appointment questions in Malayalam and English, including late-night messages from the Gulf.",
     data: "Dashboards showing enquiries by source, bookings by month and dues by customer, readable on a phone in Kanhangad or Dubai.",
     app: "Android and iOS apps for clinics issuing tokens, schools messaging parents or shops taking repeat orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for content changes, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for content changes, backups and security updates.",
   },
   whyUsIntro:
     "Many Kanhangad business owners are also managing family matters from the Gulf, so they want a partner who answers in writing and does not need chasing. We publish starting prices, reply on WhatsApp every day, keep your domain, hosting and code in your name, and explain plainly when something will not pay for itself.",
@@ -177,7 +177,7 @@ const kanhangad: CityContent = {
       heading: "Ownership and maintenance for Kanhangad websites and apps",
       paragraphs: [
         "Small businesses in the district often discover, years later, that their domain was registered by a designer who has since moved away. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your name, and hand over every login in writing.",
-        "Maintenance is free for the first five months after launch. That covers text and price updates, backups, security patches and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any point.",
+        "Maintenance is free for the first two months after launch. That covers text and price updates, backups, security patches and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any point.",
         "Apps need yearly updates to meet Google and Apple requirements. We track those changes, so your app is not pulled from the stores for falling behind on a rule that changed quietly.",
       ],
     },
@@ -269,7 +269,7 @@ const kanhangad: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue with us. You can also take the code and move to another developer whenever you choose.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue with us. You can also take the code and move to another developer whenever you choose.",
     },
     {
       question: "Do you work in Nileshwar, Periye and Kasaragod as well?",

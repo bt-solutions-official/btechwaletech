@@ -56,7 +56,7 @@ const theni: CityContent = {
     ai: "WhatsApp assistants that share daily rates, take bookings and answer common questions in Tamil or English, handing the rest to your staff.",
     data: "Dashboards that show purchases by grower, sales by buyer and pending dues from records you already keep.",
     app: "Android and iOS apps from ₹40,000 for dealer ordering, clinic appointments or school notices, published on Google Play and the App Store.",
-    maintenance: "No maintenance charge for the first five months; later care starts at ₹8,000 monthly and covers patches, backups and changes to rate pages.",
+    maintenance: "No maintenance charge for the first two months; later care starts at ₹8,000 monthly and covers patches, backups and changes to rate pages.",
   },
   whyUsIntro:
     "Theni business owners are usually offered either a cheap template that nobody maintains or an agency in Madurai or Coimbatore quoting well beyond what the job needs. We publish starting prices, write every quote line by line, keep the domain and code in your name and reply on WhatsApp every day.",
@@ -168,7 +168,7 @@ const theni: CityContent = {
         "Online store with UPI and Razorpay: ₹50,000 onwards, 4–8 weeks",
         "Custom software or web app: ₹60,000 onwards, 6–12 weeks",
         "SEO each month: ₹10,000 onwards",
-        "Maintenance after the free first five months: ₹8,000 a month onwards",
+        "Maintenance after the free first two months: ₹8,000 a month onwards",
       ],
     },
     {
@@ -185,7 +185,7 @@ const theni: CityContent = {
       heading: "What you own, and how maintenance works",
       paragraphs: [
         "Your domain is registered in your name and your hosting is in your own account. At launch you receive the full source code and all passwords, and the Google Play and App Store developer accounts are yours. If you later hire a developer in Madurai or Coimbatore, they can take over without any help from us.",
-        "For five months from launch, upkeep costs nothing: we apply security patches, take backups, watch that the site stays up and make minor edits like a new rate, product or opening time. Beyond that, care plans begin at ₹8,000 monthly with no lock-in. Your trading or mill records can be pulled into Excel whenever needed, and a brief handover note lists renewal dates and which login controls what.",
+        "For two months from launch, upkeep costs nothing: we apply security patches, take backups, watch that the site stays up and make minor edits like a new rate, product or opening time. Beyond that, care plans begin at ₹8,000 monthly with no lock-in. Your trading or mill records can be pulled into Excel whenever needed, and a brief handover note lists renewal dates and which login controls what.",
       ],
     },
   ],
@@ -227,7 +227,7 @@ const theni: CityContent = {
     {
       question: "Which is the best IT services team in Theni for a small business?",
       answer:
-        "Judge any provider on three things: a written quote broken into items, the domain and code registered to you, and support that continues after the site is live. We meet all three, list our starting prices publicly and give five free months of upkeep. Bear in mind we are a remote group, not a shop with an office in Theni.",
+        "Judge any provider on three things: a written quote broken into items, the domain and code registered to you, and support that continues after the site is live. We meet all three, list our starting prices publicly and give two free months of upkeep. Bear in mind we are a remote group, not a shop with an office in Theni.",
     },
     {
       question: "Can you build a website for my cardamom trading business?",
@@ -272,7 +272,7 @@ const theni: CityContent = {
     {
       question: "What happens after launch? Is maintenance included?",
       answer:
-        "Yes, for the first five months at no charge: we patch security issues, keep backups, monitor uptime and make small edits. From the sixth month, plans begin at ₹8,000 a month and you can stop whenever you like. Domain, hosting, code and store accounts remain registered to you the whole time.",
+        "Yes, for the first two months at no charge: we patch security issues, keep backups, monitor uptime and make small edits. From the third month, plans begin at ₹8,000 a month and you can stop whenever you like. Domain, hosting, code and store accounts remain registered to you the whole time.",
     },
     {
       question: "Theni-la website panna evvalavu selavu aagum?",

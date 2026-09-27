@@ -56,7 +56,7 @@ const madhubani: CityContent = {
     ai: "WhatsApp assistants in Hindi and English that answer price, size and shipping questions and pass custom orders to you.",
     data: "Dashboards of orders by city, top-selling painting sizes, makhana stock by grade and payments due from wholesalers.",
     app: "Android and iOS apps for coaching centres or makhana brands with repeat buyers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Launch is followed by five free months of upkeep; later care runs from ₹8,000 monthly, covering new listings, backups and patches.",
+    maintenance: "Launch is followed by two free months of upkeep; later care runs from ₹8,000 monthly, covering new listings, backups and patches.",
   },
   whyUsIntro:
     "Madhubani artists and traders have often seen middlemen take most of the margin, and they want something that brings buyers to them directly. We publish starting prices, send written itemised quotes, reply on WhatsApp all week, and keep the domain, hosting, code and store accounts in your own name.",
@@ -178,7 +178,7 @@ const madhubani: CityContent = {
       heading: "Ownership, maintenance and keeping your store current",
       paragraphs: [
         "Nothing we make stays with us. Your domain, server, code repository, Google Business Profile, Razorpay account and both app store developer accounts sit under your name and email. Should you change developers one day, passing on those logins is all it takes for the new person to continue.",
-        "The first five months after going live cost nothing for upkeep. From the sixth month, care plans begin at ₹8,000 monthly and include updates, backups, security patches and minor text edits. Art sellers use this mainly to upload fresh paintings and take sold ones down quickly, because a collector who pays for a piece that has already gone seldom tries again.",
+        "The first two months after going live cost nothing for upkeep. From the third month, care plans begin at ₹8,000 monthly and include updates, backups, security patches and minor text edits. Art sellers use this mainly to upload fresh paintings and take sold ones down quickly, because a collector who pays for a piece that has already gone seldom tries again.",
         "Prefer to pay per change? Tell us, and each edit gets its own small quote with no monthly commitment.",
       ],
     },
@@ -261,7 +261,7 @@ const madhubani: CityContent = {
     {
       question: "What maintenance do you provide?",
       answer:
-        "For five months after going live, upkeep is free. After that, plans begin at ₹8,000 per month for backups, security patches and edits. Painting and makhana sellers mainly use it to list new stock, retire sold items and revise prices ahead of Chhath, Diwali and wedding months.",
+        "For two months after going live, upkeep is free. After that, plans begin at ₹8,000 per month for backups, security patches and edits. Painting and makhana sellers mainly use it to list new stock, retire sold items and revise prices ahead of Chhath, Diwali and wedding months.",
     },
     {
       question: "Do you work with businesses near Madhubani, like Darbhanga or Jainagar?",

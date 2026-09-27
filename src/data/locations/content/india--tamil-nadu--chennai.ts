@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Free first consultation", "SaaS and web apps from ₹60,000", "Android & iOS from ₹40,000", "Tamil and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Chennai as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000, and custom software or SaaS builds from ₹60,000, with five months of free maintenance after launch.",
+    "BtechWaleTech provides IT consulting and IT solutions in Chennai as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000, and custom software or SaaS builds from ₹60,000, with two months of free maintenance after launch.",
   snapshot: [
     { label: "IT corridor", value: "Old Mahabalipuram Road (OMR) from Taramani and Perungudi to Sholinganallur and Siruseri, with TIDEL Park, SIPCOT IT Park and many tech campuses" },
     { label: "Industrial estates", value: "Guindy and Ambattur industrial estates in the city; Sriperumbudur, Oragadam, Irungattukottai and Mahindra World City, Chengalpattu on the outskirts" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents and process automation for Chennai operations: document extraction, lead qualification, patient and customer messaging, and approval workflows with human checks.",
     data: "Data pipelines and dashboards that combine ERP, Tally, CRM and spreadsheet data into reliable daily reporting for Chennai managers.",
     app: "Android and iOS apps for Chennai customers, field teams and patients, developed in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then monthly plans from ₹8,000 with WhatsApp support every day of the week.",
+    maintenance: "Two months of free maintenance after launch, then monthly plans from ₹8,000 with WhatsApp support every day of the week.",
   },
   whyUsIntro:
     "Chennai buyers tend to respect engineering over salesmanship. That suits us: we are three engineers, the ones on your call are the ones writing your code, and we document our work well enough that anyone competent could continue it.",
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "chennai-cost-payment-process",
       heading: "What IT solutions cost in Chennai and how payment works",
       paragraphs: [
-        "IT solutions in Chennai with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or SaaS. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Chennai with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or SaaS. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after two free months.",
         "These figures are starting points. Scope, integrations, number of user roles, data migration and content writing decide the final price. After the consultation, you receive an itemised estimate in about two working days, and you can move features to a later phase to fit your budget.",
         "Chennai clients pay us only through UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Projects are split into milestones tied to visible progress. We have no office in Chennai and do not work on site; you get a live preview from the first week, weekly updates and WhatsApp replies seven days a week. See the wider state picture on our <a href='/india/tamil-nadu/'>Tamil Nadu page</a> or the <a href='/india/'>India hub</a>.",
       ],
@@ -299,7 +299,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of maintenance are free after hosting goes live: bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; on-site hardware support needs a local technician.",
+        "Two months of maintenance are free after hosting goes live: bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; on-site hardware support needs a local technician.",
     },
     {
       question: "Can you reduce our cloud hosting bill?",

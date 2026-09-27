@@ -37,8 +37,8 @@ const content: CityContent = {
     eyebrow: "IT services · Salem, Tamil Nadu",
     h1: "Freelance software developers for Salem's traders, mills and manufacturers",
     lede:
-      "BtechWaleTech is a freelance group of three engineers offering Salem businesses what they would usually seek from a software development team in Salem: B2B product catalogues, trade order portals for sago, textile and silver wholesalers, online stores, WhatsApp AI agents, stock and dues dashboards, apps and search visibility. We work remotely, publish starting prices, and include five months of maintenance after launch.",
-    pills: ["B2B catalogues and price lists", "Distributor order portals", "Online stores with UPI checkout", "Tamil and English", "Five months free maintenance"],
+      "BtechWaleTech is a freelance group of three engineers offering Salem businesses what they would usually seek from a software development team in Salem: B2B product catalogues, trade order portals for sago, textile and silver wholesalers, online stores, WhatsApp AI agents, stock and dues dashboards, apps and search visibility. We work remotely, publish starting prices, and include two months of maintenance after launch.",
+    pills: ["B2B catalogues and price lists", "Distributor order portals", "Online stores with UPI checkout", "Tamil and English", "Two months free maintenance"],
   },
   quickAnswer:
     "BtechWaleTech is a freelance group of three engineers, working remotely from India, building software for Salem traders and manufacturers. Catalogue websites start from ₹10,000 (one to two weeks), online stores from ₹50,000 (four to eight weeks), automation from ₹40,000 and custom order or ERP-style software from ₹60,000. An itemised quote takes about two working days.",
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "WhatsApp AI agents that share price lists, check stock, take draft orders and remind buyers about dues, with a human approving anything unusual.",
     data: "Dashboards for sales by buyer and region, stock by grade, pending dispatches and receivables, readable on a phone before the market opens.",
     app: "Android and iOS apps in Flutter or React Native, published on Google Play and the App Store, for Salem trade buyers and field agents across Namakkal, Dharmapuri and Krishnagiri, from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and catalogue changes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security fixes and catalogue changes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Salem traders value straight dealing: a clear price, delivery when promised and a phone that gets answered. A freelance group of three works the same way. The engineer who quotes your project writes it, you can reach us on WhatsApp any day, and all accounts stay in your name.",
@@ -150,7 +150,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Salem project runs on cloud hosting registered in the client's name, typically AWS or a similar provider in an Indian region, with HTTPS, daily off-site backups, uptime alerts and a staging copy for testing. Deployments are scripted through Git so updates are quick and reversible.",
         "This matters because many small businesses have lost data when a single office computer failed or a previous developer disappeared with the passwords. With accounts in your name and backups stored separately, neither can happen.",
-        "IT support after launch runs on WhatsApp seven days a week. The first five months of maintenance are free, covering fixes, updates, backups and small changes. After that, plans start from ₹8,000 a month, or you can pay per change.",
+        "IT support after launch runs on WhatsApp seven days a week. The first two months of maintenance are free, covering fixes, updates, backups and small changes. After that, plans start from ₹8,000 a month, or you can pay per change.",
       ],
     },
     {
@@ -217,14 +217,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom order portal or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
       id: "how-we-work-salem",
       heading: "How our freelance software developers deliver Salem projects",
       paragraphs: [
-        "Our freelance software developers deliver Salem projects through a short discovery call, a written itemised quote, weekly demos, launch with training and five months of free maintenance. You can follow progress on a live staging link and give feedback on WhatsApp at any time.",
+        "Our freelance software developers deliver Salem projects through a short discovery call, a written itemised quote, weekly demos, launch with training and two months of free maintenance. You can follow progress on a live staging link and give feedback on WhatsApp at any time.",
         "Our stack is deliberately common: React and Next.js for web apps, Astro for fast websites, Node.js or Python on the server, PostgreSQL for data, n8n and the WhatsApp Business API for automation, and Flutter or React Native when native apps are needed. Any competent developer can maintain this later if you choose.",
         "At handover you receive source code, database access, every login and a document explaining deployment. We will not promise rankings, write fake reviews or quote before understanding your process. Learn <a href=\"/about/\">about us</a>, view <a href=\"/portfolio/\">our portfolio</a>, explore <a href=\"/services/\">all services</a>, or reach us through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -307,7 +307,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "Five months of maintenance come free after launch, covering bug fixes, security and dependency updates, backups, uptime checks and small content or catalogue changes. After that, maintenance starts at ₹8,000 a month, or you can pay per change. New features and modules are quoted separately before any work starts.",
+        "Two months of maintenance come free after launch, covering bug fixes, security and dependency updates, backups, uptime checks and small content or catalogue changes. After that, maintenance starts at ₹8,000 a month, or you can pay per change. New features and modules are quoted separately before any work starts.",
     },
     {
       question: "How long before SEO helps a Salem business?",

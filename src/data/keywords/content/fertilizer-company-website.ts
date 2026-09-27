@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Helpline and WhatsApp automation", `From ${P.ai}`],
     ["Dealer or field staff app", `From ${P.app}`],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Support", "5 months free maintenance after launch"],
+    ["Support", "2 months free maintenance after launch"],
   ],
   stats: [
     { value: "3", label: "Developers: full-stack, AI and automation, project management" },
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
         `Quotes vary widely between developers for work that looks similar. Ask each one whether translations, product data entry, locator data cleaning and helpline setup are included, and who owns the domain. The cheapest quote often leaves those to you.`,
       ],
       after: [
-        `After five free months, maintenance starts at ${P.care}. See every starting price on our <a href='/pricing/'>pricing page</a>.`,
+        `After two free months, maintenance starts at ${P.care}. See every starting price on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
         "Dealer data in your sheet or sales system",
         "Farmer enquiries visible only to named staff",
         "Consent text approved by your adviser",
-        "Five months free maintenance, then optional support",
+        "Two months free maintenance, then optional support",
       ],
     },
     {
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "How does a fertilizer company website appear in AI answers?", answer: "AI assistants draw on pages that answer questions clearly and consistently. Short factual summaries at the top of crop pages, product details in text rather than images, structured data and consistent company information across the site and your Google Business Profile all help. No method is guaranteed, but accurate, well-structured pages are the foundation." },
     { question: "Do we need a dealer app as well as a website?", answer: `Start with the website if you need new dealers and farmer awareness. Add a dealer app when existing dealers need to order, check schemes or earn points regularly, or when field staff log visits. Both can share one product database. Android and iOS apps start at ${P.app}, and Google Play charges a one-time US$25 developer registration fee.` },
     { question: "How do payments work for the project?", answer: "In India, payment is by UPI or bank transfer against milestones written into your itemised quote. International clients pay by Wise, bank wire or PayPal in USD. Nothing is billed before you approve the quote in writing. For contract specifics, ask us and we will agree them in the written quote; our general terms are on the terms page." },
-    { question: "What happens after the site launches?", answer: `Five months of free maintenance follow launch, covering fixes and small updates. After that, maintenance starts at ${P.care} if you want continued support. Adding new products, crops or languages later is quoted separately, and your team can update dealers and existing products themselves using the handover guide.` },
+    { question: "What happens after the site launches?", answer: `Two months of free maintenance follow launch, covering fixes and small updates. After that, maintenance starts at ${P.care} if you want continued support. Adding new products, crops or languages later is quoted separately, and your team can update dealers and existing products themselves using the handover guide.` },
     { question: "Khad company ki website me kya hona chahiye?", answer: `Khad ya beej company ki website me crop ke hisaab se product pages, pincode se dealer locator, dealership form, licence aur quality details, Hindi aur regional language pages, aur missed call ya WhatsApp helpline honi chahiye. BtechWaleTech ke saath aisi website ${P.site} se shuru hoti hai, aur quote lagbhag 2 working days me milta hai.` },
   ],
   related: {
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a fertilizer company website ready before the next sowing season?",
-    note: `Send your product count, crops, states and dealer numbers on WhatsApp. You will get a page plan and itemised quote in about two working days, starting at ${P.site}, with every account in your company's name and five months of free maintenance after launch.`,
+    note: `Send your product count, crops, states and dealer numbers on WhatsApp. You will get a page plan and itemised quote in about two working days, starting at ${P.site}, with every account in your company's name and two months of free maintenance after launch.`,
   },
 };
 

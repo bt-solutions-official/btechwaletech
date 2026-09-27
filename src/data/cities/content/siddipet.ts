@@ -56,7 +56,7 @@ const siddipet: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer fee, stock and appointment questions and route real decisions to you.",
     data: "Dashboards of sales by branch, patients by department, admissions by course and loom output by weaver.",
     app: "Android and iOS apps for hospitals, coaching centres and retail chains in Siddipet, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Siddipet has changed quickly in the last decade, and new money brings new vendors promising a lot. We keep it plain: public starting prices, written itemised quotes, WhatsApp replies every day, and the domain, hosting, code and store accounts registered in your name. If a feature will not help your business, we will say so.",
@@ -172,7 +172,7 @@ const siddipet: CityContent = {
       heading: "Ownership and upkeep of your Siddipet website and app",
       paragraphs: [
         "Businesses sometimes lose a website because the developer kept the domain in his name. We register your domain, hosting, source code, Google Business Profile and app store developer accounts in your name and hand over all logins in writing.",
-        "Maintenance is free for the first five months after launch. It covers content and price updates, backups, security and software updates, and checks that forms, payments and WhatsApp links keep working. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish.",
+        "Maintenance is free for the first two months after launch. It covers content and price updates, backups, security and software updates, and checks that forms, payments and WhatsApp links keep working. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish.",
         "Apps need regular updates as Google and Apple change their rules. We track those changes so your app remains on the stores.",
         "We also keep a short written handover note for every project: where the site is hosted, how backups are taken, which plugins or libraries are used and how to update prices yourself. If a staff member leaves or you change developers, that note means nobody has to guess how your system was put together.",
       ],
@@ -270,7 +270,7 @@ const siddipet: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months after launch are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you wish to continue. You can take your code to another developer at any time.",
+        "The first two months after launch are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you wish to continue. You can take your code to another developer at any time.",
     },
     {
       question: "Do you work in Gajwel, Dubbak and Husnabad as well?",

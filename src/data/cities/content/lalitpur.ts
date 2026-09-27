@@ -35,7 +35,7 @@ const lalitpur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Trader and supplier sites", "Clinic and coaching pages", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "For a Lalitpur business, a static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Lalitpur office, and upkeep is free for five months after launch.",
+    "For a Lalitpur business, a static website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Lalitpur office, and upkeep is free for two months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Lalitpur district, carved out of Jhansi in 1974, in the Jhansi division of Bundelkhand" },
     { label: "Borders", value: "A salient of Uttar Pradesh surrounded by Madhya Pradesh on three sides, with the Betwa river on the west" },
@@ -52,7 +52,7 @@ const lalitpur: CityContent = {
     ai: "Hindi WhatsApp replies for timings, fees, rates and stock questions, with payment and medical matters passed to a person.",
     data: "Phone dashboards for arrivals, dispatches, outstanding dues or admissions, built from the sheets your staff already maintain.",
     app: "Android and iOS apps for field staff, drivers and site supervisors that save entries offline and sync on reaching signal, from ₹40,000.",
-    maintenance: "Five months of free updates, backups and edits after launch, then maintenance from ₹8,000 a month if you choose.",
+    maintenance: "Two months of free updates, backups and edits after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
     "Most Lalitpur businesses that have a website got it from a Jhansi or Bhopal agency, or from a relative who has since moved away. Many cannot change a single line. We are a small remote team with public starting prices, direct WhatsApp access to the engineers and every account registered in your own name.",
@@ -191,7 +191,7 @@ const lalitpur: CityContent = {
       paragraphs: [
         "A familiar story in smaller towns: the developer registered the domain in his own name, kept the hosting login and then disappeared. When renewal came, the business lost its site.",
         "We register your domain and hosting in your name and account from day one. At launch you receive every login, the full source code and a short setup note. Our <a href=\"/services/web-development/\">web development</a> uses standard, documented tools so another developer can take over, with no exit fee from us.",
-        "Maintenance is free for five months after launch, covering updates, backups, security fixes, uptime checks and small edits. After that you can continue from ₹8,000 a month or contact us only when you need something.",
+        "Maintenance is free for two months after launch, covering updates, backups, security fixes, uptime checks and small edits. After that you can continue from ₹8,000 a month or contact us only when you need something.",
       ],
     },
     {
@@ -282,7 +282,7 @@ const lalitpur: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "Five months of free maintenance covering updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can reach out only when needed. Monthly SEO is separate and starts from ₹10,000.",
+        "Two months of free maintenance covering updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can reach out only when needed. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long does SEO take in Lalitpur?",

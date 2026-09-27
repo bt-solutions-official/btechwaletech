@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "IT services · Hyderabad, Telangana",
     h1: "Freelance software developers for Hyderabad startups, SMEs and old-city businesses",
     lede:
-      "Hire freelance software developers in Hyderabad instead of a full software development team: BtechWaleTech is a freelance group of three remote engineers who build MVPs, SaaS modules, internal tools, AI agents, WhatsApp automation, cloud and DevOps setups, dashboards and mobile apps for founders in HITEC City and Gachibowli, pharma suppliers in Jeedimetla and traders in Begum Bazaar. Starting prices are published and maintenance is free for five months after launch.",
+      "Hire freelance software developers in Hyderabad instead of a full software development team: BtechWaleTech is a freelance group of three remote engineers who build MVPs, SaaS modules, internal tools, AI agents, WhatsApp automation, cloud and DevOps setups, dashboards and mobile apps for founders in HITEC City and Gachibowli, pharma suppliers in Jeedimetla and traders in Begum Bazaar. Starting prices are published and maintenance is free for two months after launch.",
     pills: ["MVPs and SaaS modules", "AI agents and automation", "AWS, CI/CD and DevOps", "React, Next.js, Node, Python", "Code in your repo"],
   },
   quickAnswer:
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents for support triage, document extraction, lead qualification and WhatsApp replies in English, Telugu or Urdu, with human approval where it matters.",
     data: "Product analytics, revenue and operations dashboards that pull from your database, billing exports, CRMs and spreadsheets into one live view.",
     app: "Android and iOS apps from one Flutter or React Native codebase, published on Google Play and the App Store, for Hyderabad startups, clinics, coaching institutes and logistics teams, from ₹40,000.",
-    maintenance: "Monitoring, patches, dependency updates, backups and small features, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Monitoring, patches, dependency updates, backups and small features, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Hyderabad has no shortage of developers, but founders and SME owners often struggle to find a small team that ships quickly, writes clean code and stays reachable after launch. A freelance group of three offers that: senior engineers on every call, no bench, no account managers, and your code in your repository from the first commit.",
@@ -216,14 +216,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "MVP, custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
       id: "how-we-work-hyderabad",
       heading: "How our freelance developers work with Hyderabad teams",
       paragraphs: [
-        "Our freelance developers work with Hyderabad teams through a scoping call, an itemised quote in about two working days, weekly demos on staging, pull requests into your repository, launch with monitoring, and five months of free maintenance. We join your Slack or WhatsApp group, keep a shared task board and write short notes on every decision.",
+        "Our freelance developers work with Hyderabad teams through a scoping call, an itemised quote in about two working days, weekly demos on staging, pull requests into your repository, launch with monitoring, and two months of free maintenance. We join your Slack or WhatsApp group, keep a shared task board and write short notes on every decision.",
         "At handover you receive the code, infrastructure access, environment documentation and a list of known limitations. We do not inflate estimates to look safe or promise dates we cannot meet. We also do not claim credentials we do not have or invent client names.",
         "Read <a href=\"/about/\">about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, see <a href=\"/services/\">all services</a>, or compare with our <a href=\"/it-services/telangana/\">Telangana overview</a>. When ready, send a brief through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -303,7 +303,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of maintenance are free after launch, covering bug fixes, security and dependency updates, backups, monitoring and small changes. After that, plans start from ₹8,000 a month or you can pay per change. New features are quoted separately, so maintenance costs never grow silently.",
+        "Two months of maintenance are free after launch, covering bug fixes, security and dependency updates, backups, monitoring and small changes. After that, plans start from ₹8,000 a month or you can pay per change. New features are quoted separately, so maintenance costs never grow silently.",
     },
     {
       question: "How long does SEO take for a Hyderabad business?",

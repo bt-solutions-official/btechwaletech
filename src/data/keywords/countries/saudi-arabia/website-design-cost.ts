@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Saudi Arabia · What a website really costs, line by line",
     h1: "Website design cost in Saudi Arabia: what you pay for and why quotes differ",
     lede: `Website design cost in Saudi Arabia ranges widely because a quote bundles very different things: design effort, Arabic and English versions, content, integrations and a year or more of running costs. BtechWaleTech is three freelance developers in India who price each line separately, in US dollars, so you can compare like with like. A static business site starts from ${P.site}, a large SEO site from ${P.seoSite} and an online store from ${P.shop}. See the <a href='/pricing/'>full starting price list</a>.`,
-    pills: ["Starting prices, not packages", "Itemised in USD", "Bilingual RTL costed separately", "Hosting and domain in your name", "5 months free maintenance", "No payment before written approval", "Tax points flagged for your accountant"],
+    pills: ["Starting prices, not packages", "Itemised in USD", "Bilingual RTL costed separately", "Hosting and domain in your name", "2 months free maintenance", "No payment before written approval", "Tax points flagged for your accountant"],
     origin: "Three freelance developers in India · 2.5 hours ahead of Riyadh · WhatsApp replies 7 days a week",
   },
   facts: [
@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Online store from", `${P.shop}, 4–8 weeks`],
     ["Portal or web app from", `${P.software}, 6–12 weeks`],
     ["Monthly SEO from", P.seo],
-    ["Care after 5 free months", `From ${P.care}`],
+    ["Care after 2 free months", `From ${P.care}`],
   ],
   stats: [
     { value: "100", label: "Pages included in the starting static website plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Charges billed before you approve the quote in writing" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "WordPress websites", note: "Familiar editing for your team; cost rises with custom blocks and each premium plugin's licence.", href: "/saudi-arabia/wordpress-website-design/", size: "md" },
       { name: "Booking and portal features", note: `Online booking, customer logins and dashboards move a project into custom work from ${P.software}.`, href: "/saudi-arabia/custom-software-development/", size: "sm" },
       { name: "Payments and invoicing add-ons", note: "Gateway checkout and ZATCA-ready invoicing are costed as separate lines.", href: "/saudi-arabia/payment-gateway-integration/", size: "sm" },
-      { name: "Maintenance and monthly SEO", note: `Care from ${P.care} after five free months; SEO from ${P.seo}.`, href: "/saudi-arabia/local-seo-services/", size: "sm" },
+      { name: "Maintenance and monthly SEO", note: `Care from ${P.care} after two free months; SEO from ${P.seo}.`, href: "/saudi-arabia/local-seo-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,14 +89,14 @@ const content: FreelanceContent = {
       ["Bilingual RTL engineering", "Varies a lot by person", "Usually covered", "Built in from the first template"],
       ["Quote format", "Often one lump sum", "Package or proposal", "Itemised lines in USD, starting prices"],
       ["Ownership of domain, hosting and code", "Check the contract", "Check the contract", "Yours from day one"],
-      ["Maintenance after launch", "Depends on availability", "Retainer contracts", `5 months free, then from ${P.care}`],
+      ["Maintenance after launch", "Depends on availability", "Retainer contracts", `2 months free, then from ${P.care}`],
       ["Starting point with us", "Not applicable", "Not applicable", `From ${P.site}`],
     ],
     fine: "If you need weekly face-to-face workshops in Riyadh or Jeddah, or native Arabic copywriting in the same contract, a local agency may suit you better than any remote team, us included.",
   },
   pricing: {
     heading: "Our starting prices for Saudi websites",
-    note: `Every figure below is a starting price in US dollars, not a package. A static business website of up to 100 pages starts from ${P.site}; a large SEO site of 299 or more pages from ${P.seoSite}; an online store from ${P.shop}; a portal or web app from ${P.software}. Your quote rises with unique templates, Arabic and English versions launched together, forms and integrations, content entry, and custom features such as calculators or booking. It does not include Arabic copywriting, stock photography licences, domain and hosting fees, or third-party plugin and gateway fees, which you pay directly to those providers. Maintenance is free for five months, then from ${P.care}.`,
+    note: `Every figure below is a starting price in US dollars, not a package. A static business website of up to 100 pages starts from ${P.site}; a large SEO site of 299 or more pages from ${P.seoSite}; an online store from ${P.shop}; a portal or web app from ${P.software}. Your quote rises with unique templates, Arabic and English versions launched together, forms and integrations, content entry, and custom features such as calculators or booking. It does not include Arabic copywriting, stock photography licences, domain and hosting fees, or third-party plugin and gateway fees, which you pay directly to those providers. Maintenance is free for two months, then from ${P.care}.`,
   },
   guideLabel: "Saudi website budget guide",
   guide: [
@@ -182,7 +182,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The build is a one-off; the site then costs money every year. Budget for the first twelve months, not just launch day, and make sure every recurring account is in your business's name.`,
         `The domain renews yearly. A .sa domain is registered through a licensed registrar, as SaudiNIC, which runs the .sa registry under the Communications, Space and Technology Commission, requires for private-sector registrations; a .com is bought from any registrar. Hosting renews monthly or yearly, and business email is often a separate subscription per mailbox.`,
-        `Then come the less obvious ones: premium theme or plugin licences on WordPress, a map or search API if usage is high, payment gateway fees on each transaction for stores, stock photo licences, and Arabic copy for new pages you add later. Maintenance keeps software updated and backups working; with us it is free for five months after launch and then from ${P.care}. Monthly SEO, if you want it, starts from ${P.seo}.`,
+        `Then come the less obvious ones: premium theme or plugin licences on WordPress, a map or search API if usage is high, payment gateway fees on each transaction for stores, stock photo licences, and Arabic copy for new pages you add later. Maintenance keeps software updated and backups working; with us it is free for two months after launch and then from ${P.care}. Monthly SEO, if you want it, starts from ${P.seo}.`,
       ],
       list: [
         "Domain renewal (.sa through a licensed registrar, or .com)",
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Take an air-conditioning installation and maintenance contractor in Dammam, invented for illustration, that wants a bilingual site to win more service calls across the Eastern Province. It has no site today, a logo, and a few phone photos of past installations.`,
         `The brief lists a home page, six service pages, a page for each of five cities it covers, an about page, a contact page with a quote form that sends to WhatsApp, and Arabic plus English versions of everything. That fits the static plan, starting from ${P.site}, with extra lines for the bilingual templates, the city pages and content entry. Arabic copy is written by a freelance translator the contractor hires directly.`,
-        `The first-year budget then adds items paid to others: a .sa domain through a licensed registrar, hosting, and business email. Maintenance is free for five months, then from ${P.care} if the contractor wants it. Online booking with deposits is deliberately left for a later phase. This example shows how a budget is assembled; it does not describe a real business or a guaranteed final figure.`,
+        `The first-year budget then adds items paid to others: a .sa domain through a licensed registrar, hosting, and business email. Maintenance is free for two months, then from ${P.care} if the contractor wants it. Online booking with deposits is deliberately left for a later phase. This example shows how a budget is assembled; it does not describe a real business or a guaranteed final figure.`,
       ],
     },
     {
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
         ["Hosting and SSL", "Monthly or yearly", "Paid to others", "Account in your name"],
         ["Business email", "Per mailbox", "Paid to others", "Often separate from hosting"],
         ["Licences and APIs", "Yearly or usage", "Paid to others", "Themes, plugins, maps"],
-        ["Maintenance", "Monthly", "Your developer", `Free for 5 months, then from ${P.care}`],
+        ["Maintenance", "Monthly", "Your developer", `Free for 2 months, then from ${P.care}`],
         ["SEO", "Monthly, optional", "Your SEO provider", `From ${P.seo} with us`],
       ],
       hideSm: [2],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get a USD quote split into lines you can keep, drop or phase. Nothing is billed before written approval."],
       ["Design and build", "Templates appear on a staging link in both languages, and any change request is priced before it is done."],
       ["Review and launch", "You check every page on your phone, the site goes live on hosting in your name, and search consoles are set up."],
-      ["Free care, then your choice", "Five months of free maintenance follow launch; after that, care from the maintenance plan is optional."],
+      ["Free care, then your choice", "Two months of free maintenance follow launch; after that, care from the maintenance plan is optional."],
     ],
   },
   faqHeading: "Website design cost in Saudi Arabia: questions people ask",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Why is one website quote so much higher than another?", answer: "Usually because they cover different work. One may include custom design, Arabic copywriting, hosting and a year of maintenance; another may cover a theme install only. Overheads differ too: agencies with offices and sales teams have costs a remote freelance team does not. Ask each provider for a line-by-line breakdown against the same sitemap." },
     { question: "How much extra does an Arabic and English website cost?", answer: "A bilingual site needs RTL templates, Arabic fonts, paired URLs and hreflang, and content entry and review in both languages, so it costs more than a single-language site. The extra is smaller when both languages are designed in from the start. Arabic copywriting is a separate cost paid to your writer or translator." },
     { question: "Does the website price include Arabic copywriting?", answer: "Not with us. The team writes English, so Arabic copy comes from your staff, a translator or a copywriter you hire. We give them a structured copy sheet and show the Arabic in the real layout for approval. Some local agencies include Arabic copywriting; if you need that in one contract, compare quotes on that basis." },
-    { question: "What are the yearly costs of running a website?", answer: `Domain renewal, hosting, business email, any theme or plugin licences, and maintenance. Stores add payment gateway fees on each sale. With us, maintenance is free for five months after launch and then starts from ${P.care}; monthly SEO is optional from ${P.seo}. Keep every account in your business's name so costs stay visible.` },
+    { question: "What are the yearly costs of running a website?", answer: `Domain renewal, hosting, business email, any theme or plugin licences, and maintenance. Stores add payment gateway fees on each sale. With us, maintenance is free for two months after launch and then starts from ${P.care}; monthly SEO is optional from ${P.seo}. Keep every account in your business's name so costs stay visible.` },
     { question: "Is it cheaper to hire a freelancer or an agency in Saudi Arabia?", answer: "Freelancers usually have lower overheads, and agencies offer more people, local meetings and often Arabic copywriting. The cheaper option is the one whose quote matches your scope with fewest surprises. A small remote freelance team sits between the two: several skills, low overheads, but no in-person meetings. Compare on the same brief." },
     { question: "Why hire a team in India for a Saudi website?", answer: "Mainly for cost and capability together: three developers covering build, SEO and project management, without office overheads, working in a time zone 2.5 hours ahead of Riyadh. The limits are honest ones: no face-to-face meetings, no site visits and no native Arabic copywriting. If those matter, a local provider may be the better choice." },
     { question: "Are your prices fixed packages?", answer: "No. Every figure is a starting price. Your itemised quote builds on it with the templates, languages, content and features your project needs, and you can remove or phase any line. Changes requested during the build are priced in writing before any work is done, so the final invoice matches what you approved." },
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
     { question: "Is a cheap website worth it?", answer: "It can be, if you own the domain, hosting and code, the Arabic version is properly right to left, and maintenance is clear. It is poor value if the site sits on a provider's locked platform, the domain is in their name, or you cannot access the admin. Those turn a low price into a second build later." },
     { question: "Who owns the website after I pay?", answer: "With us, your business owns everything: domain, hosting account, code repository and content. These are set up in your name from the start, and we work as invited users you can remove. At handover you get notes on editing pages, so another developer could take over without rebuilding anything." },
     { question: "Is SEO included in the website price?", answer: `Basic SEO is part of every build: clean URLs, titles and descriptions per language, structured data, sitemaps, hreflang for bilingual sites and fast loading. Ongoing monthly SEO, covering research, content and local listings, is separate and starts from ${P.seo}. Nobody can honestly guarantee rankings, and we do not.` },
-    { question: "How much does website maintenance cost in Saudi Arabia?", answer: `With us, maintenance is free for the first five months after launch and then starts from ${P.care}. It covers updates, backups, security fixes and small changes. Other providers structure maintenance differently, from pay-per-change to retainers, so compare what each plan actually includes rather than the monthly figure alone.` },
+    { question: "How much does website maintenance cost in Saudi Arabia?", answer: `With us, maintenance is free for the first two months after launch and then starts from ${P.care}. It covers updates, backups, security fixes and small changes. Other providers structure maintenance differently, from pay-per-change to retainers, so compare what each plan actually includes rather than the monthly figure alone.` },
     { question: "What does a website redesign cost compared with a new build?", answer: "A redesign costs less only when the existing structure, platform and content are sound. If the site has no proper Arabic version, sits on an outdated or locked platform, or needs new features, a fresh build is often similar in cost and gives a better result. We review the current site first and quote both routes where they make sense." },
     { question: "What do you need from me to give an accurate quote?", answer: "A short description of your business, the pages you want, which languages, any features such as forms, booking, checkout or WhatsApp, examples of sites you like, and your launch date. With that we send an itemised quote in about two working days, and nothing is billed before your written approval." },
     { question: "Do website prices differ between Riyadh, Jeddah and Dammam?", answer: "Our prices do not, because all work is remote and quoted in US dollars wherever you are in the Kingdom. What differs is the kind of site businesses in each city tend to need, such as bilingual corporate sites in Riyadh, stores in Jeddah or contractor lead sites in Dammam, and that changes the scope rather than the rate." },

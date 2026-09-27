@@ -56,7 +56,7 @@ const jagraon: CityContent = {
     ai: "WhatsApp assistants that reply in Punjabi, Hindi or English on prices, service slots and admissions, passing real decisions to you.",
     data: "Season-wise dashboards of arrivals, payments to farmers, dealer sales and service visits across the Jagraon belt.",
     app: "Android and iOS apps from ₹40,000 for farmer account statements, dealer service bookings or school notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Jagraon traders deal with money every day and read terms closely. We keep ours plain: starting prices on this page, a written itemised quote, WhatsApp answers every day of the week, and your domain, hosting, code and app store accounts registered in your name from the first day.",
@@ -166,7 +166,7 @@ const jagraon: CityContent = {
       paragraphs: [
         "Whether the question arrives as “Jagraon me website banwana kitne ka hai” or in English, people ask about the <strong>website cost in Jagraon</strong> before anything else, and that is fair. Local quotes vary widely, so compare what is included rather than just the total: who owns the domain, whether hosting renewal is extra, how many revisions are allowed, whether Punjabi content is written properly, and what support you get after launch.",
         "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 (one to two weeks). An SEO website with 299+ pages starts at ₹20,000 (three to five weeks). Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, and custom software at ₹60,000. See the full list on our <a href=\"/pricing/\">pricing page</a>.",
-        "Send us your requirements and you receive an itemised written quote in around two working days. Nothing is billed until you approve it. Monthly SEO starts at ₹10,000 a month, and maintenance starts from ₹8,000 a month after five free months.",
+        "Send us your requirements and you receive an itemised written quote in around two working days. Nothing is billed until you approve it. Monthly SEO starts at ₹10,000 a month, and maintenance starts from ₹8,000 a month after two free months.",
       ],
     },
     {
@@ -183,7 +183,7 @@ const jagraon: CityContent = {
       heading: "Ownership and maintenance for Jagraon websites and apps",
       paragraphs: [
         "Many owners in Punjab have lost a website because the domain was in a developer's name. With us, the domain, hosting, source code, Google Business Profile and app store developer accounts are all in your name, and every login is handed over in writing.",
-        "After launch you get five months of free maintenance covering security updates, backups, small content changes and fixes. After that, plans start from ₹8,000 a month. You can also manage the site yourself or move to another developer whenever you like, with no lock-in.",
+        "After launch you get two months of free maintenance covering security updates, backups, small content changes and fixes. After that, plans start from ₹8,000 a month. You can also manage the site yourself or move to another developer whenever you like, with no lock-in.",
         "If you want to keep improving results, our <a href=\"/services/seo-services/\">SEO service</a> and <a href=\"/services/web-development/\">web development service</a> can continue month to month, but neither is compulsory.",
       ],
     },
@@ -271,7 +271,7 @@ const jagraon: CityContent = {
     {
       question: "What happens after launch, and what does maintenance cost?",
       answer:
-        "The first five months after launch are free, covering security updates, backups, small content edits and fixes. After that, maintenance starts from ₹8,000 a month. If your site hardly changes, we can suggest a lighter arrangement, and you are never tied to us.",
+        "The first two months after launch are free, covering security updates, backups, small content edits and fixes. After that, maintenance starts from ₹8,000 a month. If your site hardly changes, we can suggest a lighter arrangement, and you are never tied to us.",
     },
     {
       question: "Do you work in Moga, Raikot and Ludhiana too?",

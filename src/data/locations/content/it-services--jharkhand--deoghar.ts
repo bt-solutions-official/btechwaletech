@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Peak-season booking systems", "Android and iOS apps from ₹40,000", "AI assistants from ₹40,000", "Scalable hosting", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Looking for a software development team in Deoghar? BtechWaleTech is a freelance group of three remote engineers. Booking and order software starts at ₹60,000 (6–12 weeks), Android and iOS apps and AI assistants at ₹40,000, websites at ₹10,000 (1–2 weeks) and online stores at ₹50,000. Quotes are itemised in about two working days, with five months of free maintenance.",
+    "Looking for a software development team in Deoghar? BtechWaleTech is a freelance group of three remote engineers. Booking and order software starts at ₹60,000 (6–12 weeks), Android and iOS apps and AI assistants at ₹40,000, websites at ₹10,000 (1–2 weeks) and online stores at ₹50,000. Quotes are itemised in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage", value: "Baba Baidyanath Dham, one of the twelve Jyotirlingas, the centre of the town's economy" },
     { label: "Shravani Mela", value: "A month-long festival in Shravan (July–August) when kanwariyas walk about 105 km from Sultanganj carrying Ganga water" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI assistants that answer pilgrim questions about timings, distances, rooms and rates in Hindi around the clock, and pass bookings to your staff.",
     data: "Dashboards comparing Shravani Mela, Mahashivratri and off-season performance so owners can plan staff, stock and prices.",
     app: "Android and iOS apps from ₹40,000 for Deoghar lodges, taxi operators and prasad sellers, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Updates, backups, pre-season load checks and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, pre-season load checks and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Deoghar businesses live by the pilgrim calendar, so software that fails in Shravan is worse than none. We are three engineers who plan for the peak, publish starting prices, hand over everything and answer on WhatsApp every day of the week.",
@@ -72,7 +72,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Deoghar, or a freelance team serving Deoghar businesses, builds systems that let lodges, prasad sellers, taxi operators, trusts and clinics handle huge seasonal demand with small teams: booking engines, order management, pilgrim records, taxi dispatch, volunteer rosters, Android and iOS apps, AI assistants, dashboards and websites that stay online when traffic spikes.",
         "Deoghar's economy follows Baba Baidyanath Dham. Crowds swell on Mondays, during Mahashivratri and above all during the Shravani Mela in July and August, when kanwariyas walk from Sultanganj on the Ganga. Then there are quieter months when businesses must keep costs down. AIIMS Deoghar near Devipur has added a year-round flow of patients and attendants, and the airport and Jasidih Junction bring visitors from further away.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Deoghar and do not pretend to. We work through WhatsApp, calls and test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every account and repository, and include five months of maintenance after launch. The <a href='/deoghar/'>Deoghar city page</a> covers websites and local search; this page focuses on software, apps and automation.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Deoghar and do not pretend to. We work through WhatsApp, calls and test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every account and repository, and include two months of maintenance after launch. The <a href='/deoghar/'>Deoghar city page</a> covers websites and local search; this page focuses on software, apps and automation.",
       ],
     },
     {
@@ -189,14 +189,14 @@ const content: CityContent = {
       paragraphs: [
         "Scalable hosting means your website and booking system run on cloud infrastructure that can handle sudden traffic spikes, such as the first days of Shravan or Mahashivratri, without slowing down or crashing. For Deoghar businesses, a site that fails on the busiest day loses the income of the whole year's best week.",
         "We serve static pages from global content networks, which cope with very high traffic at low cost, and run booking and ordering apps on cloud platforms with automatic scaling, database backups and uptime alerts. Before each major season we run a pre-season check: load testing, renewing certificates, updating rates and content, and confirming payment and messaging flows work end to end.",
-        "Every project includes five months of free maintenance after launch, covering fixes, updates, backups and small changes. After that, plans start from ₹8,000 a month, or you can pay per change, and we reply on WhatsApp seven days a week. Accounts are registered to you. More detail is on our <a href='/services/'>services page</a>.",
+        "Every project includes two months of free maintenance after launch, covering fixes, updates, backups and small changes. After that, plans start from ₹8,000 a month, or you can pay per change, and we reply on WhatsApp seven days a week. Accounts are registered to you. More detail is on our <a href='/services/'>services page</a>.",
       ],
     },
     {
       id: "cost-deoghar-software",
       heading: "Software development cost in Deoghar: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Deoghar are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for booking, dispatch or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
+        "Our starting prices for Deoghar are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for booking, dispatch or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after two free months.",
         "Costs depend on the number of rooms or properties, products, vehicles, languages, integrations and the level of load testing needed for peak season. A single lodge with twenty rooms is simpler than a group of properties with group bookings and a guest app. Starting early, before the season, avoids rush charges and gives time for proper testing.",
         "You receive an itemised quote in about two working days, and work begins only after written approval. Payment to us is only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],
@@ -278,9 +278,9 @@ const content: CityContent = {
         "You do. The code repository, hosting account, domain, database and app store developer accounts are registered to you or transferred at handover. No licence fee is owed to us, and another developer can take over with full access if you ever choose.",
     },
     {
-      question: "What is covered in the five months of free maintenance?",
+      question: "What is covered in the two months of free maintenance?",
       answer:
-        "Bug fixes, small changes, rate and content updates, security and dependency updates, backups, uptime checks and a pre-season review if the Mela falls within that period. After five months, plans start from ₹8,000 a month, or you can pay per change request.",
+        "Bug fixes, small changes, rate and content updates, security and dependency updates, backups, uptime checks and a pre-season review if the Mela falls within that period. After two months, plans start from ₹8,000 a month, or you can pay per change request.",
     },
     {
       question: "Can an AI assistant reply to pilgrims in Hindi at night?",

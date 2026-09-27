@@ -31,11 +31,11 @@ const nandyal: CityContent = {
     eyebrow: "Nandyal · district headquarters, Rayalaseema",
     h1: "Websites, software, SEO and AI tools for Nandyal's mills, mango growers and pilgrim trade",
     lede:
-      "We are three remote engineers building websites, online stores and WhatsApp workflows for Nandyal businesses: rice mills and seed dealers, Banaganapalle mango growers, hotels and travel firms serving Mahanandi, Ahobilam and Srisailam pilgrims, hospitals in Srinivasa Nagar, engineering and junior colleges, and shops around Gandhi Chowk. Starting prices are public, and upkeep is free for five months.",
+      "We are three remote engineers building websites, online stores and WhatsApp workflows for Nandyal businesses: rice mills and seed dealers, Banaganapalle mango growers, hotels and travel firms serving Mahanandi, Ahobilam and Srisailam pilgrims, hospitals in Srinivasa Nagar, engineering and junior colleges, and shops around Gandhi Chowk. Starting prices are public, and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Telugu and English", "Mango and rice stores", "Pilgrim hotel enquiries", "New-district ready"],
   },
   quickAnswer:
-    "A website for a Nandyal business starts from ₹10,000 with our team and takes one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Nandyal office, and maintenance is free for five months after launch.",
+    "A website for a Nandyal business starts from ₹10,000 with our team and takes one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Nandyal office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Status", value: "Headquarters of Nandyal district, carved out of Kurnool district on 4 April 2022" },
     { label: "Landscape", value: "A valley town between the Nallamala and Erramala ranges in western Rayalaseema" },
@@ -52,10 +52,10 @@ const nandyal: CityContent = {
     ai: "WhatsApp replies in Telugu or English on timings, fees, stock or room availability, with your staff taking over when a person is needed.",
     data: "Season-wise arrivals, sales and dues in one dashboard, so a mill owner or dealer can plan before kharif and rabi begin.",
     app: "Android and iOS apps for mango pre-orders, patient tokens or student portals, published on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Nandyal businesses usually find a website maker through a relative in Kurnool, Hyderabad or Bengaluru, or through a listing portal that keeps the leads. Prices are seldom written down, and ownership is often unclear. We publish starting prices, register the domain and hosting in your name, reply on WhatsApp seven days a week and maintain your site free for five months.",
+    "Nandyal businesses usually find a website maker through a relative in Kurnool, Hyderabad or Bengaluru, or through a listing portal that keeps the leads. Prices are seldom written down, and ownership is often unclear. We publish starting prices, register the domain and hosting in your name, reply on WhatsApp seven days a week and maintain your site free for two months.",
   pricingIntro:
     "Treat every figure below as a starting price. A mango grower selling one variety in season needs less than a rice mill with a dealer portal, so we price the real scope. You receive an itemised written quote within about two working days, and no bill is raised until you approve it.",
   sections: [
@@ -178,7 +178,7 @@ const nandyal: CityContent = {
       paragraphs: [
         "A frequent complaint from Nandyal businesses is that the old website vanished because the domain was in a former developer's name and nobody renewed it. Recovering a domain from someone else's account can take weeks, and sometimes it cannot be done.",
         "With us, the domain is registered to you and the hosting account is in your name from the beginning. At launch you receive every login, the full source code and a short note explaining the setup. You can move to another developer whenever you want, with no exit fee.",
-        "Maintenance is free for five months after launch, covering content and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that, it continues from ₹8,000 a month, or you can message us only when you need something changed.",
+        "Maintenance is free for two months after launch, covering content and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that, it continues from ₹8,000 a month, or you can message us only when you need something changed.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const nandyal: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "For two months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
     },
     {
       question: "How long does SEO take for a Nandyal business?",

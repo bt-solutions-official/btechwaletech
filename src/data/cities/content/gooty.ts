@@ -56,7 +56,7 @@ const gooty: CityContent = {
     ai: "Telugu WhatsApp assistants that quote rates, confirm timings and hand the genuinely tricky messages back to you with the full chat.",
     data: "Season dashboards of lots purchased, moisture and outturn, trips completed, diesel spend and money still to be collected.",
     app: "Android and iOS apps from ₹40,000 for lorry drivers to log trips or for village retailers to reorder farm inputs, published on Google Play and the App Store under your accounts.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups, security patches and form checks.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups, security patches and form checks.",
   },
   whyUsIntro:
     "Gooty buyers ask hard questions about money, and rightly so. We answer them with published starting prices, a written quote that itemises every line, WhatsApp replies on all seven days in Indian time, and every account, from the domain to the Play Console, registered under your own name. When something you have asked for will not earn back its cost, we tell you before you pay for it.",
@@ -167,7 +167,7 @@ const gooty: CityContent = {
       heading: "Who owns your Gooty website, and what maintenance actually covers",
       paragraphs: [
         "You do, on paper and in practice. The domain is booked on your email address, the hosting invoice carries your name, the complete source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account all list you as owner. At handover you get a written sheet of every login, so nobody, us included, can hold your site or app hostage in a disagreement later.",
-        "For the first five months after launch, upkeep costs you nothing. In that window we change prices and photographs when you ask, take backups, apply security and version updates, and periodically test that the enquiry form, UPI and card checkout and WhatsApp button still work. After five months you choose: stay with us from ₹8,000 a month, move it in-house, or hand the code to any other developer in Anantapur or Bengaluru.",
+        "For the first two months after launch, upkeep costs you nothing. In that window we change prices and photographs when you ask, take backups, apply security and version updates, and periodically test that the enquiry form, UPI and card checkout and WhatsApp button still work. After two months you choose: stay with us from ₹8,000 a month, move it in-house, or hand the code to any other developer in Anantapur or Bengaluru.",
         "Apps need a yearly touch even when nothing appears broken, because Google and Apple keep raising the minimum versions they will accept. We watch those deadlines and ship the rebuild early, so a listing is never pulled for being out of date in the middle of your season.",
       ],
     },
@@ -259,7 +259,7 @@ const gooty: CityContent = {
     {
       question: "What does maintenance include after my Gooty site goes live?",
       answer:
-        "For five months after launch you pay nothing: we handle price and photo edits, backups, security patches and routine tests of forms, checkout and WhatsApp links. After that, staying on starts at ₹8,000 a month. Because the code and every account already sit in your name, moving to another developer needs no permission from us.",
+        "For two months after launch you pay nothing: we handle price and photo edits, backups, security patches and routine tests of forms, checkout and WhatsApp links. After that, staying on starts at ₹8,000 a month. Because the code and every account already sit in your name, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you also work in Guntakal, Pamidi and Uravakonda?",

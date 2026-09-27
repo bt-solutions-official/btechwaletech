@@ -51,7 +51,7 @@ const anantnag: CityContent = {
     ai: "WhatsApp assistants that answer room availability, yatra dates, OPD timings and fruit rates in Urdu, Hindi or English.",
     data: "Season-by-season dashboards of bookings, fruit dispatches or bat orders, so owners plan winter stock with real numbers.",
     app: "Android and iOS apps for guest bookings, school notices and dealer re-orders that keep working when the signal drops, from ₹40,000 on both stores.",
-    maintenance: "Tariff and rate changes, backups, security updates and uptime checks, free for five months and from ₹8,000 a month after.",
+    maintenance: "Tariff and rate changes, backups, security updates and uptime checks, free for two months and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Businesses in south Kashmir have often paid for websites that were never finished or were held hostage by the developer. We work the other way. Starting prices are public, the written quote lists every item, nothing is billed before you approve it, and the domain, hosting and code are in your name from the first day.",
@@ -148,7 +148,7 @@ const anantnag: CityContent = {
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI checkout:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software or web app:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five months free.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two months free.",
       ],
     },
     {
@@ -189,10 +189,10 @@ const anantnag: CityContent = {
     },
     {
       id: "ownership-care-anantnag",
-      heading: "Your website stays yours, with five months of care included",
+      heading: "Your website stays yours, with two months of care included",
       paragraphs: [
         "The domain is registered in your name, hosting is opened in your account, and the full code and every password are handed over at launch. If you later want a developer in Srinagar or anywhere else to take over, you move without asking us and without any release charge.",
-        "For five months after launch we look after the site at no cost: security updates, backups, uptime monitoring and small changes such as new tariffs, seasonal offers, fruit rates or doctor timings. After that, maintenance starts at ₹8,000 a month and can be cancelled at any time. If your staff would rather make routine edits themselves, we show them how before handover.",
+        "For two months after launch we look after the site at no cost: security updates, backups, uptime monitoring and small changes such as new tariffs, seasonal offers, fruit rates or doctor timings. After that, maintenance starts at ₹8,000 a month and can be cancelled at any time. If your staff would rather make routine edits themselves, we show them how before handover.",
       ],
     },
   ],
@@ -279,7 +279,7 @@ const anantnag: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Maintenance is free for the first five months, covering updates, backups, monitoring and small changes such as tariffs or rates. After that it is from ₹8,000 a month, cancellable at any time. We can also train your staff to handle routine edits themselves.",
+        "Maintenance is free for the first two months, covering updates, backups, monitoring and small changes such as tariffs or rates. After that it is from ₹8,000 a month, cancellable at any time. We can also train your staff to handle routine edits themselves.",
     },
     {
       question: "How long does it take to build a website?",

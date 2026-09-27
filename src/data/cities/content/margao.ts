@@ -7,7 +7,7 @@ const margao: CityContent = {
   meta: {
     title: "IT Services in Margao: Websites, Apps, SEO & AI",
     description:
-      "Websites, apps, SEO, ecommerce and AI automation for Margao shops, hotels, clinics, Verna suppliers and Salcete homestays. Sites from ₹10,000, 5 months free upkeep.",
+      "Websites, apps, SEO, ecommerce and AI automation for Margao shops, hotels, clinics, Verna suppliers and Salcete homestays. Sites from ₹10,000, 2 months free upkeep.",
     keywords: [
       "IT services Margao",
       "website development team in Margao",
@@ -31,11 +31,11 @@ const margao: CityContent = {
     eyebrow: "Margao · Salcete, South Goa",
     h1: "Websites, apps, SEO and AI automation for Margao's traders, hosts and clinics",
     lede:
-      "Three remote engineers building websites, booking systems, custom software and WhatsApp automation for businesses in Margao, Fatorda, Navelim and the Salcete coast. We work with market shops, beach-belt guesthouses, doctors, schools and Verna suppliers, we publish starting prices, and every launch comes with five months of maintenance at no charge.",
+      "Three remote engineers building websites, booking systems, custom software and WhatsApp automation for businesses in Margao, Fatorda, Navelim and the Salcete coast. We work with market shops, beach-belt guesthouses, doctors, schools and Verna suppliers, we publish starting prices, and every launch comes with two months of maintenance at no charge.",
     pills: ["Sites from ₹10,000", "Konkani, English and Hindi pages", "Booking and enquiry flows", "Apps and custom software", "Code and domain in your name"],
   },
   quickAnswer:
-    "For a Margao business, a static website with us starts from ₹10,000 and a 299+ page SEO website from ₹20,000. AI automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-person team with no Margao office, and five months of maintenance come free after launch.",
+    "For a Margao business, a static website with us starts from ₹10,000 and a 299+ page SEO website from ₹20,000. AI automation starts from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-person team with no Margao office, and two months of maintenance come free after launch.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Salcete taluka and the commercial centre of South Goa district" },
     { label: "Population", value: "About 87,650 in the city and 1.06 lakh in the urban area (Census 2011)" },
@@ -52,7 +52,7 @@ const margao: CityContent = {
     ai: "WhatsApp assistants that answer room, menu and appointment questions in English or Konkani and pass real bookings to a person.",
     data: "Dashboards that show a hotel's season, a shop's best sellers or a supplier's pending orders on one screen instead of several files.",
     app: "Android and iOS apps for delivery staff, field sales teams and tour operators across South Goa, published on both stores in six to ten weeks.",
-    maintenance: "Five free months of fixes, updates and backups after launch, then maintenance from ₹8,000 a month if you want us to stay on.",
+    maintenance: "Two free months of fixes, updates and backups after launch, then maintenance from ₹8,000 a month if you want us to stay on.",
   },
   whyUsIntro:
     "A lot of Margao businesses have a website someone built years ago and nobody can edit now, or a listing page on a portal they pay for every year. We keep things simpler: published starting prices, the domain and hosting in your name, and three engineers who answer WhatsApp every day of the week.",
@@ -154,7 +154,7 @@ const margao: CityContent = {
       heading: "Ownership, handover and upkeep after launch",
       paragraphs: [
         "Several Margao owners have told developers a familiar story: the website stopped working, the old developer changed numbers, and the domain was registered in someone else's name. We avoid this by registering the domain and hosting in your name from the start and handing over the full source code and every login at launch.",
-        "After launch, maintenance is free for five months. That covers content changes such as new rates or menus, bug fixes, security and plugin updates, backups, uptime checks and speed monitoring. After that, maintenance continues from ₹8,000 a month if you want us on call, or you can come back only when something needs changing and pay for that work.",
+        "After launch, maintenance is free for two months. That covers content changes such as new rates or menus, bug fixes, security and plugin updates, backups, uptime checks and speed monitoring. After that, maintenance continues from ₹8,000 a month if you want us on call, or you can come back only when something needs changing and pay for that work.",
         "Because you own everything, you are free to move to another developer or bring the work in-house whenever you like, without an exit fee. Want to talk it through? <a href=\"/contact/\">Contact us</a> with a few details about your business.",
       ],
     },
@@ -216,7 +216,7 @@ const margao: CityContent = {
     {
       question: "Margao mein website banwane ka kharcha kitna hai aur kitna time lagega?",
       answer:
-        "Static website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se shuru hoti hai. Launch ke baad paanch mahine maintenance free hai. Apne shop, clinic ya hotel ke baare mein WhatsApp par thoda bataiye, do working days mein itemised quote bhej denge.",
+        "Static website ₹10,000 se shuru hoti hai aur aam taur par ek se do hafte mein live ho jaati hai. 299+ page wali SEO website ₹20,000 se shuru hoti hai. Launch ke baad do mahine maintenance free hai. Apne shop, clinic ya hotel ke baare mein WhatsApp par thoda bataiye, do working days mein itemised quote bhej denge.",
     },
     {
       question: "Do you only build websites, or apps and software too?",
@@ -249,9 +249,9 @@ const margao: CityContent = {
         "You do. The domain and hosting are registered in your name, and you receive every login and the complete source code at launch. You can move to another developer at any time without paying an exit fee. We insist on this because lost domain access is a common problem for older Goa websites.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During those five months we handle content changes, bug fixes, security updates, backups and uptime checks at no cost. Afterwards, maintenance continues from ₹8,000 a month if you want us on call, or you can contact us only when you need a change and pay for that specific work.",
+        "During those two months we handle content changes, bug fixes, security updates, backups and uptime checks at no cost. Afterwards, maintenance continues from ₹8,000 a month if you want us on call, or you can contact us only when you need a change and pay for that specific work.",
     },
     {
       question: "Can you guarantee my site will rank first on Google?",

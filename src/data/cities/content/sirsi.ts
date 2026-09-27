@@ -56,7 +56,7 @@ const sirsi: CityContent = {
     ai: "WhatsApp assistants in Kannada that answer rate, room, fee and timing questions and send real decisions to a person.",
     data: "Dashboards of arrivals and prices by variety, homestay bookings by month and dues by grower.",
     app: "Android and iOS apps for growers checking sale proceeds, homestay guests booking stays or parents getting school notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of care after launch, then from ₹8,000 a month for edits, backups and security work.",
+    maintenance: "Two free months of care after launch, then from ₹8,000 a month for edits, backups and security work.",
   },
   whyUsIntro:
     "Sirsi's trade runs on cooperatives and long relationships, and people here expect the same straightness from a developer. Starting prices are published on our site, quotes come itemised in writing, WhatsApp is answered all seven days, and your domain, hosting, code and store accounts are opened in your name. When something is not worth building, we tell you.",
@@ -178,7 +178,7 @@ const sirsi: CityContent = {
       paragraphs: [
         "Projects start with a conversation about what you sell and to whom. Within roughly two working days you receive a written plan of pages or screens, a schedule and a line-by-line cost. After you sign off, progress shows up on a preview link you can check from your own phone, and Kannada copy is sent to you for proofreading before anything is public.",
         "We answer WhatsApp on every day of the week, Indian Standard Time. Payments are linked to finished stages, and no invoice goes out before you have approved the quote in writing. If something slips, you hear about it straight away.",
-        "Ownership is settled on day one: domain, hosting, code repository, Google Business Profile and store developer accounts are opened in your name and the logins handed over in writing. The first five months of maintenance after launch are free. After that, care starts at ₹8,000 a month if you want it, and you are free to take everything to another developer. Apps also get the yearly updates Google and Apple demand, so they stay listed.",
+        "Ownership is settled on day one: domain, hosting, code repository, Google Business Profile and store developer accounts are opened in your name and the logins handed over in writing. The first two months of maintenance after launch are free. After that, care starts at ₹8,000 a month if you want it, and you are free to take everything to another developer. Apps also get the yearly updates Google and Apple demand, so they stay listed.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const sirsi: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering edits, backups, security fixes and checks on forms and payments. After that, ongoing care starts at ₹8,000 a month and is entirely optional. If you later choose another developer, your code and accounts are already in your name.",
+        "Two months of maintenance are free after launch, covering edits, backups, security fixes and checks on forms and payments. After that, ongoing care starts at ₹8,000 a month and is entirely optional. If you later choose another developer, your code and accounts are already in your name.",
     },
     {
       question: "Do you work in Siddapur, Yellapur and Banavasi?",

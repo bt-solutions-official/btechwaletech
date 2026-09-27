@@ -57,7 +57,7 @@ const wadhwan: CityContent = {
     ai: "WhatsApp assistants that share daily cotton or salt rates, ceramic catalogues and OPD timings in Gujarati, Hindi or English.",
     data: "Dashboards of bales pressed, trucks dispatched and payments outstanding by party, built from Tally exports and daily entries.",
     app: "Android and iOS apps for ceramic dealers to reorder, or for ginning buyers to check lots, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Rate updates, catalogue changes, backups and security patches, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Rate updates, catalogue changes, backups and security patches, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Surendranagar traders bargain hard and remember every rupee. We publish our starting prices, break every quote into separate lines, answer WhatsApp seven days a week and register the domain, hosting, code and app store accounts to you. If a feature will not pay for itself in your trade, we will tell you before you spend on it.",
@@ -148,7 +148,7 @@ const wadhwan: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software such as bale or dispatch registers:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -195,7 +195,7 @@ const wadhwan: CityContent = {
       heading: "Ownership, handover and maintenance after launch",
       paragraphs: [
         "The domain is registered in your name, hosting sits in your account, and the full code and every password are handed over at launch. For apps, the Google Play and App Store developer accounts are yours too. If you later want a developer in Rajkot, Ahmedabad or Surendranagar itself to take over, you can do so without our permission and without paying any release fee.",
-        "Maintenance is free for five months after launch: security updates, backups, uptime checks and small changes such as new rates, catalogue items or doctor timings. After that it costs from ₹8,000 a month and can be stopped whenever you like. If your staff want to update rates or photos themselves, we train them before handover.",
+        "Maintenance is free for two months after launch: security updates, backups, uptime checks and small changes such as new rates, catalogue items or doctor timings. After that it costs from ₹8,000 a month and can be stopped whenever you like. If your staff want to update rates or photos themselves, we train them before handover.",
         "Data stored in your software, whether bale lots, salt dispatches or dealer orders, lives in your account and can be exported to Excel at any time. You are never locked in to us. Read more on our <a href=\"/services/web-development/\">web development</a> page or <a href=\"/contact/\">contact us</a> to start.",
       ],
     },
@@ -288,7 +288,7 @@ const wadhwan: CityContent = {
     {
       question: "How much does maintenance cost after launch?",
       answer:
-        "The first five months after launch are free, covering security updates, backups, monitoring and small edits such as rates, photos or timings. After that, maintenance starts at ₹8,000 a month and can be cancelled whenever you like. We can also train your staff to handle simple updates.",
+        "The first two months after launch are free, covering security updates, backups, monitoring and small edits such as rates, photos or timings. After that, maintenance starts at ₹8,000 a month and can be cancelled whenever you like. We can also train your staff to handle simple updates.",
     },
     {
       question: "Can you guarantee the first rank on Google in Surendranagar?",

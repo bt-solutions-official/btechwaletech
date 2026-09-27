@@ -39,10 +39,10 @@ const content: CityContent = {
     h1: "Freelance software and app developers for Wokha's traders, growers and tourism hosts",
     lede:
       "Few people searching for a software development team in Wokha find one nearby that builds more than a basic site. BtechWaleTech is a freelance group of three engineers working remotely from India. For Wokha district we build produce and trade software, bookings for the Amur falcon season, mobile-first sites, WhatsApp ordering, AI helpers, dashboards and SEO, with starting prices published and every account left in your name.",
-    pills: ["Trade and produce software", "Falcon-season bookings", "Mobile sites from ₹10,000", "WhatsApp ordering", "5 months free upkeep"],
+    pills: ["Trade and produce software", "Falcon-season bookings", "Mobile sites from ₹10,000", "WhatsApp ordering", "2 months free upkeep"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT solutions in Wokha as freelance developers, not a software development team: mobile websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom trade or booking software from ₹60,000. Three engineers work remotely from India, with five months of free maintenance.",
+    "BtechWaleTech provides IT solutions in Wokha as freelance developers, not a software development team: mobile websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom trade or booking software from ₹60,000. Three engineers work remotely from India, with two months of free maintenance.",
   snapshot: [
     { label: "Identity", value: "Headquarters of Wokha district, homeland of the Lotha Naga, often called the 'Land of Plenty' for its fertile valleys and farm produce" },
     { label: "Landscape", value: "Mount Tiyi, the district's highest peak at about 1,970 metres, and the Doyang river flowing past the Bhandari, Sanis and Wokha ranges" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI helpers that answer common questions for tourism hosts and offices, draft notices and summarise messages, with a person checking anything important.",
     data: "Dashboards for farmer groups, self-help groups and conservation projects that turn scattered records into figures a committee can act on.",
     app: "Android and iOS apps for Wokha produce collectors, falcon-season guides and shops, from ₹40,000, built once in Flutter or React Native for Google Play and the App Store.",
-    maintenance: "Updates, backups, fixes and content changes handled remotely, free for five months once hosting is live and from ₹8,000 a month after.",
+    maintenance: "Updates, backups, fixes and content changes handled remotely, free for two months once hosting is live and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Wokha businesses often have two options: a relative who can make a page, or a distant vendor whose quote bundles hosting you never control. A freelance group of engineers offers a third path: published starting prices, direct conversation with the people building, and complete ownership handed over at the end.",
@@ -197,7 +197,7 @@ const content: CityContent = {
       id: "maintenance-small-town-wokha",
       heading: "Why do small-town websites break, and how does maintenance prevent it?",
       paragraphs: [
-        "Small-town websites usually break because the domain or hosting expires on someone else's account, security updates are skipped, or nobody knows the login. Regular maintenance prevents this by renewing on time, updating software, keeping backups and recording every credential. Every BtechWaleTech launch includes five months of maintenance free.",
+        "Small-town websites usually break because the domain or hosting expires on someone else's account, security updates are skipped, or nobody knows the login. Regular maintenance prevents this by renewing on time, updating software, keeping backups and recording every credential. Every BtechWaleTech launch includes two months of maintenance free.",
         "Maintenance covers security and dependency updates, daily backups, uptime and speed checks, bug fixes and content changes. After the free period, plans start from ₹8,000 a month, or you can contact us only when something needs doing. We reply on WhatsApp seven days a week.",
         "Support is remote and covers software, hosting, domains and email. Computers, printers and local networks need a technician in Wokha. More about our approach is on the <a href=\"/about/\">about page</a>, and examples of builds are on the <a href=\"/portfolio/\">portfolio</a>.",
       ],
@@ -299,7 +299,7 @@ const content: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "Five months after hosting goes live: security and software updates, backups, uptime and speed checks, bug fixes and content changes. Afterwards, plans start from ₹8,000 a month, or you can request work only when needed. The site remains on hosting registered to you.",
+        "Two months after hosting goes live: security and software updates, backups, uptime and speed checks, bug fixes and content changes. Afterwards, plans start from ₹8,000 a month, or you can request work only when needed. The site remains on hosting registered to you.",
     },
     {
       question: "Can you build an Android and iOS app for a Wokha business?",
@@ -314,7 +314,7 @@ const content: CityContent = {
     {
       question: "Do you set up hosting and deploy the system?",
       answer:
-        "Yes. We handle hosting, domain, SSL, email records, backups, monitoring and deployment, and document everything at handover. The five months of free maintenance begin when hosting goes live, so the system is looked after from its first day online.",
+        "Yes. We handle hosting, domain, SSL, email records, backups, monitoring and deployment, and document everything at handover. The two months of free maintenance begin when hosting goes live, so the system is looked after from its first day online.",
     },
     {
       question: "Can you improve an existing website instead of building a new one?",

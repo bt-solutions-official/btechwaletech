@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: integrations, apps and delivery management" },
     { value: "2", label: "Working days to an itemised, phased quote" },
-    { value: "5", label: "Months of free maintenance per go-live" },
+    { value: "2", label: "Months of free maintenance per go-live" },
     { value: "0", label: "Invoices before you approve the written quote" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Approach", value: "Build around your TMS or WMS first; replace only when it truly blocks you" },
       { label: "Carrier APIs", value: "PostNL, DHL and DPD, using your own contract credentials" },
       { label: "Driver data", value: "Location and photos handled with role-based access and retention limits" },
-      { label: "Support", value: `5 free months after each go-live, then care from ${P.care}` },
+      { label: "Support", value: `2 free months after each go-live, then care from ${P.care}` },
     ],
   },
   services: {
@@ -229,7 +229,7 @@ const content: FreelanceContent = {
         "<strong>Data migration and history:</strong> importing years of shipments for reporting takes time to verify.",
       ],
       after: [
-        `There is no per-shipment or per-user licence fee on custom code; you pay for hosting and any third-party services directly. After five free months of maintenance per go-live, care continues from ${P.care}. See the <a href='/pricing/'>pricing page</a> for every starting price.`,
+        `There is no per-shipment or per-user licence fee on custom code; you pay for hosting and any third-party services directly. After two free months of maintenance per go-live, care continues from ${P.care}. See the <a href='/pricing/'>pricing page</a> for every starting price.`,
       ],
     },
     {
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
         ["3. Driver app", "Stops, photos, signatures, offline sync", `${P.app}`, "6–10 weeks"],
         ["4. Dock booking", "Online slots, gate log, dock view", `${P.software}`, "6–8 weeks"],
         ["5. Document AI", "Partner documents read into your TMS", `${P.ai}`, "2–4 weeks"],
-        ["Care", "Fixes, API updates, small changes", `${P.care}`, "Monthly, after 5 free months"],
+        ["Care", "Fixes, API updates, small changes", `${P.care}`, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
       ["Integration check", "Sandbox access to carriers and your TMS or WMS is arranged first, so the riskiest part of the project is tested in week one rather than discovered late."],
       ["Build with fortnightly demos", "Screens and integrations are built in two-week cycles, each ending with a demo on a test environment and a written summary for your operations lead."],
       ["Parallel running", "The module goes live beside the old way on a few customers, routes or docks. Issues are fixed before wider rollout, so operations never depend on untested software."],
-      ["Handover and care", "Code, credentials and runbooks are handed over in your accounts. Five months of free maintenance follow; then optional care from the monthly starting price."],
+      ["Handover and care", "Code, credentials and runbooks are handed over in your accounts. Two months of free maintenance follow; then optional care from the monthly starting price."],
     ],
   },
   faqHeading: "Logistics software development: questions from Dutch operators",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks, in releases"],
     ["Licence fee per room", "None; you own the code"],
     ["Booking website", `From ${P.site}`],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support your PMS" },
     { value: "0", label: "Per-room fees charged by us" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "2", label: "Working days to a written quote" },
   ],
   answer: {
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do: the source code sits in a repository you own, the cloud account and database are in your business name, and the domain used by the booking engine is registered to you. Guest records are your guest records.`,
         `That ownership has practical value. You can export anything at any time, connect a new accounting tool, hire another developer to extend the PMS, or sell the property with its systems intact. Nothing about the software is tied to us personally, and there is no licence or per-room fee payable to us.`,
-        `At handover you receive repository access, admin logins, a staff manual in English and Hindi, a backup and restore note, and a list of paid services (cloud, channel manager, WhatsApp, SMS) with renewal dates. The first five months of maintenance are free. After that, care is optional from ${P.care}; a sensible approach is to keep it through your first peak season and decide once the busy months are behind you.`,
+        `At handover you receive repository access, admin logins, a staff manual in English and Hindi, a backup and restore note, and a list of paid services (cloud, channel manager, WhatsApp, SMS) with renewal dates. The first two months of maintenance are free. After that, care is optional from ${P.care}; a sensible approach is to keep it through your first peak season and decide once the busy months are behind you.`,
         `One more safeguard: daily backups go to storage in your cloud account, and at handover we show your manager how to download one. If anything ever goes wrong with a server, with us or with any future developer, your bookings and invoices can be restored without anyone’s permission.`,
       ],
     },
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
         ["Housekeeping and maintenance app", "Two", `From ${P.app}`, "Android, Hindi and English"],
         ["Restaurant POS or QR room service link", "Two", "Quoted per project", "Depends on your POS API"],
         ["Direct booking website", "Two", `From ${P.site}`, "UPI and cards via your account"],
-        ["Maintenance after 5 free months", "Ongoing", `From ${P.care}`, "Updates, fixes, small changes"],
+        ["Maintenance after 2 free months", "Ongoing", `From ${P.care}`, "Updates, fixes, small changes"],
       ],
       hideSm: [3],
     },
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
       ["Share rooms, rates and formats", "You fill our templates for rooms, rate plans, taxes and invoice layout, and share your channel manager’s API details if you use one. We flag anything unclear before building."],
       ["Click through a staging PMS", "Your manager tests bookings, room moves, folios and night audit on a staging system and sends feedback on WhatsApp each week, with changes shown in the next build."],
       ["Migrate and go live in a quiet week", "We import future bookings, check them with your team, train staff by video and switch over during a low-occupancy week while the old system stays read-only."],
-      ["Add modules and keep improving", "Channel sync, housekeeping and F&B follow in release two. Five months of maintenance are free after go-live, then optional from " + P.care + " if you want it."],
+      ["Add modules and keep improving", "Channel sync, housekeeping and F&B follow in release two. Two months of maintenance are free after go-live, then optional from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Hotel management software: questions hoteliers ask",
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "Is guest ID data safe in a custom PMS?", answer: "It should be, if the build is careful. We store ID images in encrypted storage, show masked numbers on screens, restrict access by role, keep an audit log of who viewed what and back up daily. Collect only what the law and local police require, and keep a clear retention rule agreed with your adviser so old ID images are deleted on schedule." },
     { question: "Can you move our data from our current hotel software?", answer: "Usually. Most PMS products allow export of reservations, guests and rates to Excel or CSV. We import into a staging system first so your front office manager can compare future bookings line by line. If export is not possible, plan an extra week for manual entry of future reservations, and keep the old system read-only for reference." },
     { question: "Do you provide on-site installation and training?", answer: "No. We are three freelance developers working remotely from India, so installation and training happen over video calls, with recorded sessions staff can rewatch. The PMS runs in a browser, so setup is mostly logins and a printer. Your staff or a local hardware vendor handles any physical setup, such as a desk computer or invoice printer." },
-    { question: "What does maintenance of hotel software cost after launch?", answer: `The first five months after go-live are free, covering fixes, updates and small changes. After that, maintenance is optional and starts at ${P.care}. You pay cloud hosting, channel manager and messaging services directly to those providers, not through us, so you always see what each service costs and can switch providers if you choose.` },
+    { question: "What does maintenance of hotel software cost after launch?", answer: `The first two months after go-live are free, covering fixes, updates and small changes. After that, maintenance is optional and starts at ${P.care}. You pay cloud hosting, channel manager and messaging services directly to those providers, not through us, so you always see what each service costs and can switch providers if you choose.` },
     { question: "Can you build hotel software for a property outside India?", answer: `Yes. The PMS works anywhere, with taxes, currency and guest reporting configured for your country as your accountant instructs. International clients are quoted in USD, with custom builds from ${P.softwareUsd}, and pay through Wise, bank wire or PayPal. Calls are scheduled in overlapping working hours, and progress is shared on a staging link you can open anytime.` },
     { question: "Hotel ke liye software banwane mein kitna kharcha aata hai?", answer: `Custom hotel software jisme booking, room chart, check-in, check-out aur GST bill ho, ${P.software} se shuru hota hai. Housekeeping app ${P.app} se aur booking website ${P.site} se shuru hoti hai. OTA sync aur restaurant link alag module hain. Quote lagbhag do working days mein milta hai aur approval ke baad hi payment hota hai.` },
   ],
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Running a hotel on registers and extranets? Let us look at it",
-    note: `Send us your room count, room types and what your current system cannot do on WhatsApp. You will get a module-wise quote in about two working days, with custom hotel management software from ${P.software}, code and data in your name, and five months of free maintenance.`,
+    note: `Send us your room count, room types and what your current system cannot do on WhatsApp. You will get a module-wise quote in about two working days, with custom hotel management software from ${P.software}, code and data in your name, and two months of free maintenance.`,
   },
 };
 

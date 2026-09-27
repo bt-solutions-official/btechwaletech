@@ -56,7 +56,7 @@ const nohar: CityContent = {
     ai: "A Hindi WhatsApp helper that handles daily questions on mandi rates, stock, room availability and fees, leaving any bargaining to you.",
     data: "Season dashboards of arrivals by crop, payments due to farmers, dealer credit and sales by village.",
     app: "Android and iOS apps for farmers to check sale and payment status or for parents to get school notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Launch is followed by five months of upkeep at no charge; after that, support plans start from ₹8,000 a month.",
+    maintenance: "Launch is followed by two months of upkeep at no charge; after that, support plans start from ₹8,000 a month.",
   },
   whyUsIntro:
     "Nohar traders count every rupee and remember who kept their word. We publish starting prices, send quotes with each item on its own line, answer WhatsApp seven days a week and register your domain, hosting, code and app store accounts in your name. If something will not earn its cost in a town of Nohar's size, we say that clearly.",
@@ -187,7 +187,7 @@ const nohar: CityContent = {
       heading: "Ownership and maintenance for Nohar websites and apps",
       paragraphs: [
         "The things that matter are registered to you from the first day: the domain, the hosting account, the source code and, if you have an app, the Google Play and App Store developer accounts. We never hold them back as leverage. If you move to another developer later, you already have every login, plus a short plain-language guide we write at launch.",
-        "For five months after launch, upkeep costs nothing. That covers fixing bugs, small text changes, rate-list or photo updates, backups and security updates. From the sixth month you can keep us on from ₹8,000 a month or run the site yourself; there is no lock-in.",
+        "For two months after launch, upkeep costs nothing. That covers fixing bugs, small text changes, rate-list or photo updates, backups and security updates. From the third month you can keep us on from ₹8,000 a month or run the site yourself; there is no lock-in.",
         "Apps carry one extra duty. Google and Apple raise their minimum technical requirements each year, and an app left behind can be pulled from the stores. We track those deadlines and update early. Our <a href=\"/services/web-development/\">web development service</a> page explains how sites are built and handed over.",
       ],
     },
@@ -270,7 +270,7 @@ const nohar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Upkeep is free for the first five months after launch: bug fixes, small edits to text or rates, backups and security updates. Later, plans begin at ₹8,000 a month. Or run it yourself, since you receive every login and a short guide on launch day.",
+        "Upkeep is free for the first two months after launch: bug fixes, small edits to text or rates, backups and security updates. Later, plans begin at ₹8,000 a month. Or run it yourself, since you receive every login and a short guide on launch day.",
     },
     {
       question: "Do you work in Bhadra, Rawatsar, Hanumangarh and Sirsa too?",

@@ -56,7 +56,7 @@ const umred: CityContent = {
     ai: "WhatsApp assistants in Marathi and Hindi that answer safari, fee, stock and appointment questions and hand real decisions back to you.",
     data: "Dashboards of trips per vehicle, pending bills by client, safari bookings by month and chilli lots bought and sold.",
     app: "Android and iOS apps for transport crews to log trips or for safari guests to book slots, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "Umred owners are used to contractors who promise a lot and disappear after payment. We work the other way: starting prices in public, a written itemised quote, WhatsApp replies every day of the week, and your domain, hosting, code and app store accounts registered in your own name from day one. If something will not earn back its cost, we tell you.",
@@ -176,7 +176,7 @@ const umred: CityContent = {
       heading: "Ownership and maintenance for Umred websites and apps",
       paragraphs: [
         "Everything we build for you is yours, on paper and in practice. The domain is registered on your email, the hosting account is in your name, you receive the full source code, and your Google Business Profile and Google Play and Apple developer accounts list you as the owner. At handover you get a written sheet of every login, so no single person, including us, can hold your website or app hostage later.",
-        "For five months after launch, maintenance is free. In that period we update prices and photographs, take backups, apply security and version updates, and check from time to time that your forms, payment page and WhatsApp buttons still work. After that the choice is yours: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
+        "For two months after launch, maintenance is free. In that period we update prices and photographs, take backups, apply security and version updates, and check from time to time that your forms, payment page and WhatsApp buttons still work. After that the choice is yours: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
         "Apps need a yearly refresh even when nothing is broken, because Google and Apple keep raising the minimum versions they accept. We track those deadlines and release the update early so your listing is not removed. Websites need less, but a quick check before the safari season or the admission months saves last-minute trouble.",
       ],
     },
@@ -268,7 +268,7 @@ const umred: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: price and photo edits, backups, security patches and regular checks of your forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move on. Since the code and every account are already in your name, switching developers needs no permission from us.",
+        "Maintenance is free for two months after launch: price and photo edits, backups, security patches and regular checks of your forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move on. Since the code and every account are already in your name, switching developers needs no permission from us.",
     },
     {
       question: "Do you also work in Bhiwapur, Kuhi and Nagpur?",

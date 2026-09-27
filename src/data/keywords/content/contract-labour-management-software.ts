@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Used by", "Factories, plants, construction sites"],
     ["Gate options", "QR card, RFID, face terminal"],
     ["Data and code", "Owned by you, on your cloud"],
-    ["Maintenance", "5 months free after go-live"],
+    ["Maintenance", "2 months free after go-live"],
   ],
   stats: [
     { value: "3", label: "Developers you speak to directly" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Free maintenance months" },
+    { value: "2", label: "Free maintenance months" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Gate hardware", value: "Works with your QR scanners, RFID readers or face terminals" },
       { label: "Contractor access", value: "Portal for contractors to upload workers and challans" },
       { label: "Timeline", value: "6–12 weeks depending on sites and integrations" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What contract labour management software costs to build",
-    note: `A single-site contract labour system with contractor register, worker enrolment, induction log, QR gate entry and register exports starts at ${P.software}. Costs rise with the number of sites and gates, the type of gate hardware (face terminals need device integration), a contractor self-service portal, wage verification against gate data, and a native gate or supervisor app, which starts from ${P.app} if built separately. AI features such as reading ID documents to prefill enrolment start from ${P.ai}. You pay your cloud provider for hosting directly. After five months of free maintenance, support starts at ${P.care}. The written quote itemises every module and nothing is billed before you approve it.`,
+    note: `A single-site contract labour system with contractor register, worker enrolment, induction log, QR gate entry and register exports starts at ${P.software}. Costs rise with the number of sites and gates, the type of gate hardware (face terminals need device integration), a contractor self-service portal, wage verification against gate data, and a native gate or supervisor app, which starts from ${P.app} if built separately. AI features such as reading ID documents to prefill enrolment start from ${P.ai}. You pay your cloud provider for hosting directly. After two months of free maintenance, support starts at ${P.care}. The written quote itemises every module and nothing is billed before you approve it.`,
   },
   guideLabel: "Contract labour guide",
   guide: [
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Agree the entry rules", "HR, safety and security decide what blocks entry, what only warns and who may override. We write these as a short rule sheet everyone signs."],
       ["Gate module first", "Contractor register, enrolment and the gate app go live at one pilot gate in warning mode, so contractors and guards get used to it without stopping work."],
       ["Wage checks and exports", "With real gate data flowing, we add contractor wage sheet uploads, automatic comparison, bill holds and register exports in your consultant's format."],
-      ["Handover and support", "You receive the repository, server access, documentation and training recordings. Five months of free maintenance start from go-live at the last gate."],
+      ["Handover and support", "You receive the repository, server access, documentation and training recordings. Two months of free maintenance start from go-live at the last gate."],
     ],
   },
   faqHeading: "Contract labour management software: common questions",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Can the canteen and transport systems use the same worker list?", answer: "Yes. The worker master can feed a canteen system for meal entitlements, a bus manifest or a visitor system at the same gate. Contract workers then use one card for entry and meals. Our canteen management system page covers how subsidy rules differ between permanent staff and contractor workers." },
     { question: "Do you visit our plant or site for setup?", answer: "No. We are three freelance developers working remotely from India. Setup runs over video calls, WhatsApp and screen sharing, with a pilot gate managed by your security team. For anything physical, such as mounting terminals or running network cables, your local vendor does the work and we handle the software side." },
     { question: "Contract labour ka record rakhne ke liye app kaise banwayein?", answer: `Pehle apne contractors, gate aur abhi ke registers ki details WhatsApp par bhejiye. Hum ek video call par ek worker ka poora din samajhte hain, phir 2 working days mein itemised quote dete hain. Custom system ${P.software} se shuru hota hai aur 6 se 12 hafte lagte hain. Gate app offline bhi chalta hai.` },
-    { question: "What support do we get after go-live?", answer: `Five months of free maintenance start from go-live, covering fixes and help as contractors and guards settle in. After that, support starts at ${P.care}. New sites, new register formats or extra modules are quoted in writing before work starts, and the detailed terms sit in your written quote and on our terms page.` },
+    { question: "What support do we get after go-live?", answer: `Two months of free maintenance start from go-live, covering fixes and help as contractors and guards settle in. After that, support starts at ${P.care}. New sites, new register formats or extra modules are quoted in writing before work starts, and the detailed terms sit in your written quote and on our terms page.` },
     { question: "How do we pay for the project?", answer: "Nothing is billed until you approve the itemised quote in writing. Clients in India pay by UPI or bank transfer against invoices; overseas clients pay in USD by Wise, bank wire or PayPal. Milestones and confidentiality are set out in the written quote, and our general terms and refund policy are published on the site." },
   ],
   related: {

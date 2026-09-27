@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "2", label: "ERPs compared side by side, without a reseller interest" },
     { value: "3", label: "Years in the cost model, not just year one" },
     { value: "3", label: "Freelance developers who build on both" },
-    { value: "5", label: "Months of free maintenance after our work" },
+    { value: "2", label: "Months of free maintenance after our work" },
   ],
   answer: {
     heading: "Odoo vs ERPNext: which is better for an Indian SME?",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Pilot plan and quote", "If you want a structured pilot or implementation, you get an itemised quote in about two working days. Nothing is billed before written approval."],
       ["Two-week pilot", "We load real items and customers into trials of both, and your staff run the five processes while we record every workaround."],
       ["Decision and cost sheet", "You receive a filled three-year cost sheet and a short report comparing workarounds, so the decision is yours and documented."],
-      ["Build and handover", "We set up the chosen ERP, migrate data and build custom modules or apps in your repository, followed by five months of free maintenance."],
+      ["Build and handover", "We set up the chosen ERP, migrate data and build custom modules or apps in your repository, followed by two months of free maintenance."],
     ],
   },
   faqHeading: "Odoo vs ERPNext questions",

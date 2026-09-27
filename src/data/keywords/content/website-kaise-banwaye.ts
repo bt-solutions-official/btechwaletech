@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Website kaise banwaye · simple Hinglish guide",
     h1: "Website kaise banwaye: kya chahiye, kitna kharcha aata hai aur kaam kaise hota hai",
     lede: `<strong>Website kaise banwaye</strong>, yeh sawal har us business owner ka hai jo customers ko online milna chahta hai par coding nahi jaanta. Iska jawab paanch steps mein hai: maqsad tay kijiye, saamaan ikattha kijiye, developer chuniye, kaam phone par check kijiye, aur launch ke baad dekhbhaal kijiye. BtechWaleTech teen freelance developers ki team hai jo India se remote kaam karti hai. Is page par aapko kharcha (${P.site} se), time, zaroori documents aur dhokha se bachne ke tareeke milenge.`,
-    pills: ["Simple Hinglish mein", "Website " + P.site + " se", "1–2 hafte mein live", "Domain aapke naam", "UPI se payment", "5 mahine free maintenance", "WhatsApp par baat"],
+    pills: ["Simple Hinglish mein", "Website " + P.site + " se", "1–2 hafte mein live", "Domain aapke naam", "UPI se payment", "2 mahine free maintenance", "WhatsApp par baat"],
     origin: "Teen freelance developers · India se remote kaam · Har shehar aur kasbe ke liye",
   },
   facts: [
@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Lagbhag 2 working days mein, line by line"],
     ["Malik kaun", "Aap: domain, hosting, code"],
     ["Baat kahan", "WhatsApp, hafte ke saaton din"],
-    ["Launch ke baad", "5 mahine maintenance free"],
+    ["Launch ke baad", "2 mahine maintenance free"],
   ],
   stats: [
     { value: "3", label: "Developers jo aapka project jaante hain" },
     { value: "100", label: "Pages tak static website plan mein" },
-    { value: "5", label: "Mahine free maintenance" },
+    { value: "2", label: "Mahine free maintenance" },
     { value: "2", label: "Working days mein itemised quote" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Online dukaan", value: `${P.shop} se, 4–8 hafte` },
       { label: "Payment", value: "UPI ya bank transfer, stages mein" },
       { label: "Malik", value: "Domain, hosting aur code aapke naam par" },
-      { label: "Baad mein", value: `5 mahine free, phir ${P.care} se` },
+      { label: "Baad mein", value: `2 mahine free, phir ${P.care} se` },
     ],
   },
   services: {
@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["Code ka malik", "Builder company ke platform par", "Seller par depend", "Aap, pehle din se"],
       ["Speed aur SEO", "Template ki limit", "Aksar extra charge", "Schema, sitemap, fast loading shamil"],
       ["Hindi pages", "Kuch builders mein mushkil", "Seller par depend", "Hindi aur English dono ban sakte hain"],
-      ["Kuch toota toh", "Khud theek kijiye", "Har fix ka alag paisa", "5 mahine free, phir " + P.care + " se"],
+      ["Kuch toota toh", "Khud theek kijiye", "Har fix ka alag paisa", "2 mahine free, phir " + P.care + " se"],
       ["Platform fee", "Monthly plan", "Platform service fee", "Koi fee nahi"],
       ["Aage app ya automation", "Nahi", "Naya seller dhoondhiye", "Wahi team kar deti hai"],
     ],
@@ -165,7 +165,7 @@ const content: FreelanceContent = {
         { heading: "Text aur photos", text: "Aap final text aur photos dete hain toh kharcha kam. Agar humein likhna ya sudharna pade, toh woh alag line hoti hai." },
         { heading: "Features", text: "Appointment booking, calculator, login, online payment, multiple bhashayein: har feature mein banane aur test karne ka time lagta hai." },
         { heading: "Doosre tools se jodna", text: "Google Sheets, CRM, WhatsApp ya billing software se connect karna API ka kaam hai." },
-        { heading: "Launch ke baad ka support", text: "Kitne mahine fixes aur updates shamil hain, yeh quote ka bada hissa hai. Hamare yahan 5 mahine free hain." },
+        { heading: "Launch ke baad ka support", text: "Kitne mahine fixes aur updates shamil hain, yeh quote ka bada hissa hai. Hamare yahan 2 mahine free hain." },
       ],
       after: [`Budget kam hai toh pehle zaroori pages banwaiye aur baaki baad mein jodiye. <a href='/affordable-web-developer/'>Affordable web developer</a> page batata hai ki kya taalna safe hai aur kya nahi.`],
     },
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       heading: "Launch ke baad: maintenance, updates aur unka kharcha",
       paragraphs: [
         `Website ek baar ban kar khatam nahi hoti. Rate badalte hain, naye products aate hain, security updates aate hain, aur kabhi-kabhi form kaam karna band kar deta hai.`,
-        `Hamare saath launch ke baad 5 mahine maintenance free hai: text badalna, chhote fixes, updates aur backup. Uske baad maintenance chahiye toh ${P.care} se shuru hota hai, aur yeh zaroori nahi hai. Aap chahein toh khud sambhal sakte hain ya kisi aur developer ko de sakte hain, kyunki saare logins aur code aapke paas hote hain.`,
+        `Hamare saath launch ke baad 2 mahine maintenance free hai: text badalna, chhote fixes, updates aur backup. Uske baad maintenance chahiye toh ${P.care} se shuru hota hai, aur yeh zaroori nahi hai. Aap chahein toh khud sambhal sakte hain ya kisi aur developer ko de sakte hain, kyunki saare logins aur code aapke paas hote hain.`,
         `Har saal yaad se domain aur hosting renew kijiye; iske liye hum launch par renewal dates ki list dete hain. Mahine mein ek baar Search Console dekhiye ki koi error toh nahi. Aur jab bhi naya offer ya service ho, WhatsApp par bhej dijiye. Chhoti updates hi website ko zinda aur Google ki nazar mein taaza rakhti hain.`,
       ],
     },
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yeh ek kalpanik udaharan hai, kisi asli client ki kahani nahi, bas yeh dikhane ke liye ki kaam kaise chalta hai.`,
         `Maan lijiye ek chhote shehar mein mithai ki dukaan hai jo tyohaaron par gift boxes ke bulk order leti hai. Maqsad: log website dekhein aur WhatsApp par order ya rate poochein. Pages: home, about, mithai ki categories, festival gift boxes, bulk order ke liye form, photos, contact aur map. Hindi aur English dono mein.`,
-        `Hum static website plan suggest karenge, ${P.site} se, jisme Hindi pages aur text likhne ki alag lines hongi agar maalik khud nahi likh sakte. Pehle hafte mein pages ki list aur home page ka design staging link par. Doosre hafte mein baaki pages, “Diwali gift box ka rate bhejiye” wala WhatsApp button, Google Business Profile ka link, schema aur Search Console. Domain maalik ke naam par, payment UPI se teen stages mein. Launch ke baad 5 mahine tak naye boxes aur rate free mein update honge.`,
+        `Hum static website plan suggest karenge, ${P.site} se, jisme Hindi pages aur text likhne ki alag lines hongi agar maalik khud nahi likh sakte. Pehle hafte mein pages ki list aur home page ka design staging link par. Doosre hafte mein baaki pages, “Diwali gift box ka rate bhejiye” wala WhatsApp button, Google Business Profile ka link, schema aur Search Console. Domain maalik ke naam par, payment UPI se teen stages mein. Launch ke baad 2 mahine tak naye boxes aur rate free mein update honge.`,
       ],
     },
     {
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
       heading: "In plain English: how to get a website made in India",
       paragraphs: [
         `If you prefer English, here is the short version. Decide what the website must achieve: calls, WhatsApp enquiries, visits or online orders. Gather your logo, photos, service list, address and contact details. Send the same written brief to two or three developers and compare itemised quotes line by line rather than totals.`,
-        `Make sure the domain and hosting are registered in your own name, pay in stages linked to work you can see, and get the support terms in writing. With BtechWaleTech a static business website starts at ${P.site} and goes live in 1–2 weeks, an online store starts at ${P.shop}, and every project includes five months of free maintenance after launch.`,
+        `Make sure the domain and hosting are registered in your own name, pay in stages linked to work you can see, and get the support terms in writing. With BtechWaleTech a static business website starts at ${P.site} and goes live in 1–2 weeks, an online store starts at ${P.shop}, and every project includes two months of free maintenance after launch.`,
       ],
     },
   ],
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Domain aur hosting apne naam", "Short call par aapki email aur card se account bante hain, taaki website pehle din se aapki ho."],
       ["Phone par kaam dekhiye", "Design aur pages staging link par aate hain. Badlaav WhatsApp par likhiye ya bolkar bhejiye; hum turant sudharte hain."],
       ["Launch aur saare logins", "Domain jodna, SSL, Google Search Console, aur aapko admin password, code aur renewal list milti hai."],
-      ["5 mahine free dekhbhaal", "Text badlaav, chhote fixes aur updates 5 mahine free. Uske baad chahein toh maintenance " + P.care + " se."],
+      ["2 mahine free dekhbhaal", "Text badlaav, chhote fixes aur updates 2 mahine free. Uske baad chahein toh maintenance " + P.care + " se."],
     ],
   },
   faqHeading: "Website kaise banwaye: aam sawal",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Kya developer ko poora paisa pehle dena chahiye?", answer: "Nahi. Payment stages mein kijiye: shuru karne ke liye advance, design dekhne ke baad agla hissa, aur launch se pehle baaki. BtechWaleTech ke saath India mein UPI ya bank transfer se payment hota hai, aur jab tak aap likhit quote approve nahi karte, koi paisa nahi liya jaata." },
     { question: "Mere shehar mein developer nahi hai, toh website kaise banwaye?", answer: "Aas-paas developer hona zaroori nahi. Hum video call par baat samajhte hain, kaam staging link par aapke phone mein dikhate hain, aur WhatsApp par hafte ke saaton din jawab dete hain. Chhote kasbe ka business bhi wahi process, wahi daam aur wahi support paata hai jo bade shehar mein." },
     { question: "Website banwane ke baad Google par kaise aayegi?", answer: `Achhi website mein shuru se hi SEO ki neev hoti hai: har page ka title, sitemap, schema, tez loading aur Google Search Console. Local business ke liye Google Business Profile bhi zaroori hai. Ranking mein mahine lagte hain aur koi guarantee nahi de sakta. Lagatar kaam ke liye monthly SEO ${P.seo} se shuru hota hai.` },
-    { question: "Website banwane ke baad maintenance ka kitna kharcha hai?", answer: `BtechWaleTech ke saath launch ke baad 5 mahine maintenance free hai, jisme text badlaav, chhote fixes, updates aur backup shamil hain. Uske baad chahein toh maintenance ${P.care} se shuru hota hai. Yeh zaroori nahi hai; aap khud sambhal sakte hain ya kisi aur developer ko de sakte hain.` },
+    { question: "Website banwane ke baad maintenance ka kitna kharcha hai?", answer: `BtechWaleTech ke saath launch ke baad 2 mahine maintenance free hai, jisme text badlaav, chhote fixes, updates aur backup shamil hain. Uske baad chahein toh maintenance ${P.care} se shuru hota hai. Yeh zaroori nahi hai; aap khud sambhal sakte hain ya kisi aur developer ko de sakte hain.` },
     { question: "Dukaan ke liye online order wali website kaise banwaye?", answer: `Online order ke liye ecommerce website chahiye jisme products, cart aur UPI ya card payment ho. BtechWaleTech ke saath online store ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Agar abhi sirf WhatsApp par order lena hai, toh static website mein product list aur WhatsApp button se bhi achhi shuruaat ho jaati hai.` },
     { question: "Website aur app mein se pehle kya banwaye?", answer: `Zyada tar business ke liye pehle website sahi hai, kyunki log Google par dhoondhte hain aur website bina download ke khulti hai. App tab faydemand hai jab customer baar-baar order karte hain ya aapko notifications bhejni hain. BtechWaleTech Android aur iOS app ${P.app} se banata hai.` },
     { question: "Developer bhaag gaya ya phone nahi uthata, ab kya karein?", answer: "Agar domain aur hosting aapke naam par hain, toh koi bhi naya developer kaam sambhal sakta hai. Agar developer ke naam par hain, toh domain provider ke support se ownership ke baare mein baat kijiye aur apne payment records sambhal kar rakhiye. Isi liye pehle din se account apne naam par banwana sabse zaroori hai." },
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Website kaise banwaye, ab samajh aa gaya? WhatsApp par shuru kijiye",
-    note: `Apna business aur website ka maqsad batayiye. Lagbhag do working days mein line by line quote milega. Website ${P.site} se, domain aur hosting aapke naam, aur launch ke baad 5 mahine maintenance free.`,
+    note: `Apna business aur website ka maqsad batayiye. Lagbhag do working days mein line by line quote milega. Website ${P.site} se, domain aur hosting aapke naam, aur launch ke baad 2 mahine maintenance free.`,
   },
 };
 

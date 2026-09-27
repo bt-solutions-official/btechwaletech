@@ -38,11 +38,11 @@ const content: FreelanceContent = {
     ["Where it runs", "Website widget and WhatsApp"],
     ["Build time", "2–4 weeks for the core bot"],
     ["Measurement", "GA4 events and order attribution"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your store bot" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Commission taken on your sales" },
   ],
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
         "Languages supported and the review effort for each",
       ],
       after: [
-        `Running costs are separate and paid directly: AI usage, WhatsApp template messages and hosting. Compare chatbot budgets more broadly on <a href='/chatbot-development-cost-in-india/'>chatbot development cost in India</a>, or see <a href='/whatsapp-chatbot-price-in-india/'>WhatsApp chatbot price in India</a> for the WhatsApp side. Maintenance is free for five months after launch, then optional from ${P.care}.`,
+        `Running costs are separate and paid directly: AI usage, WhatsApp template messages and hosting. Compare chatbot budgets more broadly on <a href='/chatbot-development-cost-in-india/'>chatbot development cost in India</a>, or see <a href='/whatsapp-chatbot-price-in-india/'>WhatsApp chatbot price in India</a> for the WhatsApp side. Maintenance is free for two months after launch, then optional from ${P.care}.`,
       ],
     },
     {
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       ["Send an itemised quote", "In about two working days you get modules, running costs, exclusions and timeline. Nothing is billed until you approve in writing."],
       ["Connect store and channels", "Scoped API access, catalogue sync, WhatsApp on your number and the website widget are set up in accounts owned by your business."],
       ["Test on real questions", "A set of real past questions, including tricky ones, runs through the bot. Wrong answers are traced to data or rules and fixed before launch."],
-      ["Launch, measure, hand over", "GA4 events and a dashboard go live with the bot. You get the code, a walkthrough and five months of free maintenance."],
+      ["Launch, measure, hand over", "GA4 events and a dashboard go live with the bot. You get the code, a walkthrough and two months of free maintenance."],
     ],
   },
   faqHeading: "AI chatbot for ecommerce: common questions",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
     { question: "Is a marketplace chatbot app enough, or do I need a custom one?", answer: "A chatbot app from your platform's app store is often enough for smaller stores with standard policies. Choose a custom build when the app cannot read your product fields, handle your return rules, work on WhatsApp the way you need, or keep data in your own accounts. We will tell you honestly if an app already fits." },
     { question: "Who owns the chatbot after it is built?", answer: "Your business owns the code, the WhatsApp account, the AI provider account, hosting and all chat data. At handover you receive the source code in your repository, setup notes and a recorded walkthrough. Our access is removed when you ask. You can maintain it yourself or with anyone else afterwards." },
     { question: "What happens when the chatbot cannot answer?", answer: "It says so honestly, then hands the conversation to your team inbox with the customer's details, order and chat history attached, so nobody has to ask again. Meta's WhatsApp policy expects a clear path to a person when automation replies. Handover reasons are reviewed weekly, and frequent gaps are fixed by adding missing product data." },
-    { question: "How do I pay, and what does maintenance cost?", answer: `In India by UPI or bank transfer; international clients pay by Wise, wire or PayPal in US dollars. Nothing is billed before written approval of the itemised quote. Maintenance is free for five months after launch, then optional from ${P.care} for catalogue changes, template updates and fixes. Detailed terms sit in your quote and on our terms page.` },
+    { question: "How do I pay, and what does maintenance cost?", answer: `In India by UPI or bank transfer; international clients pay by Wise, wire or PayPal in US dollars. Nothing is billed before written approval of the itemised quote. Maintenance is free for two months after launch, then optional from ${P.care} for catalogue changes, template updates and fixes. Detailed terms sit in your quote and on our terms page.` },
     { question: "Online store ke liye AI chatbot kaise kaam karta hai?", answer: "Customer website ya WhatsApp par sawal poochta hai, jaise size, fabric ya order kab aayega. Chatbot aapke store ke live catalogue aur order data se jawab deta hai, stock mein available products suggest karta hai, COD order confirm karta hai aur return request policy ke hisaab se lagata hai. Jo sawal samajh na aaye, woh aapki team ko chala jaata hai." },
   ],
   related: {

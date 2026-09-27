@@ -56,7 +56,7 @@ const bodhan: CityContent = {
     ai: "WhatsApp assistants that share rice rates, confirm stock or book clinic appointments in Telugu, Urdu or English.",
     data: "Dashboards of paddy bought, rice dispatched and payments pending, built from Tally exports and daily yard entries.",
     app: "Android and iOS apps for rice mill agents, dealer re-orders or school parents, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Bodhan business owners tend to buy from people they can reach. We cannot sit across a table in Shakkarnagar, so we make up for it with daily WhatsApp replies, written itemised quotes, public starting prices and every account registered in your name from the first day.",
@@ -155,7 +155,7 @@ const bodhan: CityContent = {
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> from ₹50,000, four to eight weeks.",
         "<strong>Custom software such as a rice mill register:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO</strong> from ₹10,000 a month; <strong>maintenance</strong> from ₹8,000 a month after five free months.",
+        "<strong>Monthly SEO</strong> from ₹10,000 a month; <strong>maintenance</strong> from ₹8,000 a month after two free months.",
       ],
     },
     {
@@ -192,7 +192,7 @@ const bodhan: CityContent = {
       heading: "Ownership, handover and maintenance after launch",
       paragraphs: [
         "The domain is registered in your name, hosting sits in an account you control, and app store listings are published under your own Google Play and Apple developer accounts. At handover you receive the full source code and every password. If you later want a developer in Nizamabad or Hyderabad to take over, you can do it without asking us.",
-        "For five months after launch, maintenance costs nothing. That covers security updates, backups, uptime checks and small edits such as new rates, doctor timings or festival banners. After that, maintenance starts at ₹8,000 a month and can be stopped whenever you choose. We also train your staff to make simple updates themselves if you prefer.",
+        "For two months after launch, maintenance costs nothing. That covers security updates, backups, uptime checks and small edits such as new rates, doctor timings or festival banners. After that, maintenance starts at ₹8,000 a month and can be stopped whenever you choose. We also train your staff to make simple updates themselves if you prefer.",
         "Data in any software we build, such as paddy lots or dealer orders, stays in your account and can be exported to Excel at any time.",
       ],
     },
@@ -285,7 +285,7 @@ const bodhan: CityContent = {
     {
       question: "What does maintenance cost after the website goes live?",
       answer:
-        "The first five months after launch are free, covering security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled at any time. We can also teach your staff to update rates, notices and photographs themselves.",
+        "The first two months after launch are free, covering security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled at any time. We can also teach your staff to update rates, notices and photographs themselves.",
     },
     {
       question: "Will you guarantee first rank on Google in Bodhan?",

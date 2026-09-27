@@ -56,7 +56,7 @@ const nowgong: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about room rates, course fees, stock and mandi-day timings, then hand over to you.",
     data: "Simple dashboards of daily purchases, sales, outstanding payments and seasonal trends that a trader can read on a phone.",
     app: "Android and iOS apps for a coaching institute's students or a trader's regular retailers, from ₹40,000, listed on Google Play and the App Store.",
-    maintenance: "Maintenance costs nothing for five months after launch, then starts at ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Maintenance costs nothing for two months after launch, then starts at ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "People in Nowgong have heard plenty of promises from people selling websites. We keep ours small and written: starting prices on the website, an itemised quote, replies on WhatsApp every day, and the domain, hosting, code and app accounts in your name. When a free Google listing will do the job, we tell you that instead.",
@@ -168,7 +168,7 @@ const nowgong: CityContent = {
       heading: "Ownership and maintenance for Nowgong websites and apps",
       paragraphs: [
         "Too many small businesses lose their website because someone else registered the domain. With us, the domain and hosting are registered on your email from the first day, the source code is handed to you in full, and the Google Business Profile, Google Play developer account and Apple developer account are in your name. You receive a written list of every login at handover.",
-        "The first five months after launch include free maintenance: changing rates and photos, taking backups, applying security and software updates, and checking that forms, payments and WhatsApp buttons work. After that you can continue with us from ₹8,000 a month, handle it yourself, or give the code to another developer without asking our permission.",
+        "The first two months after launch include free maintenance: changing rates and photos, taking backups, applying security and software updates, and checking that forms, payments and WhatsApp buttons work. After that you can continue with us from ₹8,000 a month, handle it yourself, or give the code to another developer without asking our permission.",
         "Apps need an update every year even if nothing looks broken, because Google and Apple keep raising their requirements. We watch those deadlines and ship the update before the store removes an outdated app.",
       ],
     },
@@ -255,7 +255,7 @@ const nowgong: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "Maintenance is free for five months: rate and photo changes, backups, security updates and checks on forms and payments. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer. All logins are given to you in writing.",
+        "Maintenance is free for two months: rate and photo changes, backups, security updates and checks on forms and payments. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer. All logins are given to you in writing.",
     },
     {
       question: "Can a coaching institute in Nowgong get more admissions online?",

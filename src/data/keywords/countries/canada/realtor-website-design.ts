@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build time", "1–2 weeks core site, 3–5 weeks with area pages"],
     ["Listing sources", "REALTOR.ca DDF® or your board's feed"],
     ["Who owns it", "You: domain, hosting, code, feed agreements"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build, no sales layer" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free fixes and updates after launch" },
+    { value: "2", label: "Months of free fixes and updates after launch" },
     { value: "0", label: "Platform or per-lead fees charged by us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "CRM", value: "Leads posted to your existing CRM by email parsing, webhook or API" },
       { label: "Compliance basics", value: "Brokerage name as registered, MLS® and REALTOR® wording checked" },
       { label: "Paying from Canada", value: "USD quote; pay by Wise, wire or PayPal from a CAD account" },
-      { label: "Upkeep", value: `5 months free, then care from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then care from ${P.care}` },
     ],
   },
   services: {
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
         ["Lead assistant", "Busy agent or team", "After-hours replies and call booking", `${P.ai}`],
         ["Custom portal", "Brokerage", "Agent dashboards, internal tools, routing", `${P.software}`],
         ["Monthly SEO", "Any of the above", "New area content, Search Console work", `${P.seo}`],
-        ["Care plan", "After the free 5 months", "Updates, fixes, feed checks", `${P.care}`],
+        ["Care plan", "After the free 2 months", "Updates, fixes, feed checks", `${P.care}`],
       ],
     },
     {
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
       ["Feed authorisation", "You apply for the DDF® or board feed as the member. We supply the technical details the application asks for and wait for approval."],
       ["Preview and review", "Pages appear on a private link as they are built. You check local accuracy, names and brokerage wording before anything goes public."],
       ["Lead routing tests", "Every form sends test leads to your CRM. You confirm tags, routing and the alert emails buyers will receive."],
-      ["Launch and handover", "The site goes live, Search Console gets the sitemap, and you receive every login. Five months of free maintenance start that day."],
+      ["Launch and handover", "The site goes live, Search Console gets the sitemap, and you receive every login. Two months of free maintenance start that day."],
     ],
   },
   faqHeading: "Realtor website design in Canada: questions agents ask",
@@ -442,7 +442,7 @@ const content: FreelanceContent = {
     { question: "Can you add a chatbot to answer buyer questions after hours?", answer: `Yes, from ${P.ai}. It answers questions from your own content, captures contact details and books calls. We block it from giving pricing opinions, legal advice or anything that sounds like a valuation, and it hands the conversation to you when a question falls outside what it knows.` },
     { question: "What do I need to send before the build starts?", answer: "Your registered name and brokerage details, headshots, a list of neighbourhoods and buildings you sell in, any area notes you already have, your CRM's lead intake details, and your feed application status. Photos of your area help a lot. We send a short checklist right after you approve the quote." },
     { question: "Can you move my old realtor site without losing search traffic?", answer: "Usually, yes. We crawl the old site, map every URL that earns visits to its new equivalent, set up redirects, and move blog posts and area content across. Expired listing pages are handled deliberately rather than left as errors. Search Console then shows whether the move settled as expected." },
-    { question: "What maintenance does a realtor website need?", answer: `Feed connections, plugin updates, form tests and brokerage-detail changes are the main jobs. The first five months after launch are covered free. After that you can use a care plan from ${P.care}, hire anyone else with the handover document, or handle small edits yourself.` },
+    { question: "What maintenance does a realtor website need?", answer: `Feed connections, plugin updates, form tests and brokerage-detail changes are the main jobs. The first two months after launch are covered free. After that you can use a care plan from ${P.care}, hire anyone else with the handover document, or handle small edits yourself.` },
   ],
   related: {
     heading: "More for Canadian real estate professionals",

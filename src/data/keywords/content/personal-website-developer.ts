@@ -38,17 +38,17 @@ const content: FreelanceContent = {
     ["Pages", "Up to 100 in the static plan"],
     ["Domain", "Your name, registered to you"],
     ["Editing", "We edit for you, or you get a simple editor"],
-    ["After launch", "5 months of free updates"],
+    ["After launch", "2 months of free updates"],
   ],
   stats: [
     { value: "3", label: "Developers who build and look after your site" },
     { value: "100", label: "Pages allowed in the starting plan" },
-    { value: "5", label: "Months of free changes after going live" },
+    { value: "2", label: "Months of free changes after going live" },
     { value: "0", label: "Platform fees or builder branding" },
   ],
   answer: {
     heading: "What does a personal website developer build, and what does it cost?",
-    text: `A personal website developer builds a fast site on your own domain that presents your credentials, expertise, work samples, media mentions and contact options, set up so Google shows it when people search your name. With BtechWaleTech a personal website starts at ${P.site} (${P.siteUsd} abroad), is usually live in 1–2 weeks, and includes five months of free updates.`,
+    text: `A personal website developer builds a fast site on your own domain that presents your credentials, expertise, work samples, media mentions and contact options, set up so Google shows it when people search your name. With BtechWaleTech a personal website starts at ${P.site} (${P.siteUsd} abroad), is usually live in 1–2 weeks, and includes two months of free updates.`,
     more: `If your site is mainly a gallery of work for clients or employers, see <a href='/portfolio-website-developer/'>portfolio website developer</a>; for clinic-focused sites, see <a href='/doctor-website-developer/'>doctor website developer</a>.`,
   },
   snapshot: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Search goal", value: "Your page first when people search your name" },
       { label: "Contact options", value: "Email form, WhatsApp, booking link, social profiles" },
       { label: "Ownership", value: "Domain, hosting and code in your name" },
-      { label: "Ongoing help", value: `5 months free, then from ${P.care}` },
+      { label: "Ongoing help", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A hypothetical example to show how a personal website developer would plan the work; it is not a client story.`,
         `A consultant physician practising at two hospitals in a tier-2 city gets patients mainly by referral, and patients often search the doctor’s name before the first visit. Search results currently show directory listings with outdated timings.`,
-        `The plan on the static website plan from ${P.site}: a home page with portrait, name, speciality and one “Book an appointment” button linking to each hospital’s system; an about page with qualifications and registration details; speciality pages on diabetes, thyroid and hypertension care in plain Hindi and English; a consulting times page with both hospitals on maps; and six patient education articles. Person and Physician schema, Search Console, and matching details on the hospital profile pages would round it out. Updated timings would be free for the first five months.`,
+        `The plan on the static website plan from ${P.site}: a home page with portrait, name, speciality and one “Book an appointment” button linking to each hospital’s system; an about page with qualifications and registration details; speciality pages on diabetes, thyroid and hypertension care in plain Hindi and English; a consulting times page with both hospitals on maps; and six patient education articles. Person and Physician schema, Search Console, and matching details on the hospital profile pages would round it out. Updated timings would be free for the first two months.`,
       ],
     },
     {
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       heading: "Apni personal website banwani hai? Aasaan bhasha mein",
       paragraphs: [
         `Personal website aapke naam ka online address hai, jaise yourname.com. Jab koi aapka naam Google par search kare, toh sabse pehle aapki apni website dikhe, jisme aapki qualification, kaam aur contact ho.`,
-        `Hamare saath personal website ${P.site} se shuru hoti hai aur 1–2 hafte mein ready ho jaati hai. Aapko bas apni details, ek achhi photo aur kuch sawalon ke jawab dene hain. Domain aapke naam par hota hai, aur launch ke baad 5 mahine tak badlav free hain.`,
+        `Hamare saath personal website ${P.site} se shuru hoti hai aur 1–2 hafte mein ready ho jaati hai. Aapko bas apni details, ek achhi photo aur kuch sawalon ke jawab dene hain. Domain aapke naam par hota hai, aur launch ke baad 2 mahine tak badlav free hain.`,
       ],
     },
   ],
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
       ["Domain in your name", "We help you register yourname.com or a close alternative in your own account, and set up hosting and email records."],
       ["Draft on a private link", "The home and about pages appear on a staging link you can open on your phone. You edit wording directly or send notes; we revise."],
       ["Launch and name search setup", "We publish, add Person schema, verify Search Console and suggest matching updates to your LinkedIn and directory profiles."],
-      ["Five free months", `New articles, updated timings, talks and media mentions are added free for five months. After that, updates are available from ${P.care}.`],
+      ["Two free months", `New articles, updated timings, talks and media mentions are added free for two months. After that, updates are available from ${P.care}.`],
     ],
   },
   faqHeading: "Personal website developer: questions people ask",
@@ -338,14 +338,14 @@ const content: FreelanceContent = {
     { question: "Should I use my name as the domain?", answer: "Usually yes. A domain like yourname.com or yourname.in is easy to remember, looks professional on visiting cards and email, and supports name searches. If your exact name is taken, try adding a title or profession, such as drfirstname.com or firstnamelastnamelaw.in. Register it in your own account." },
     { question: "What do I need to give the personal website developer?", answer: "Your story in brief, qualifications and memberships, the services or topics you cover, a few factual achievements, the questions clients or patients ask most, a portrait and a couple of work photos, links to your profiles, and the action you want visitors to take. We send a questionnaire so nothing is missed." },
     { question: "Can you write the content for my personal website?", answer: "Yes, as a separate line in the quote. We draft from your questionnaire answers and a short call, then you review and approve every word, since the content is about you and may be subject to professional rules. Many clients write the first draft themselves and ask us to edit and structure it." },
-    { question: "Can I update the personal website myself?", answer: "Yes, if you want to. We can add a simple editor for articles and page text. Many professionals prefer to send updates on WhatsApp and let us publish them, which keeps the site simpler and faster. For five months after launch those updates are free; after that, maintenance starts at a modest monthly amount." },
+    { question: "Can I update the personal website myself?", answer: "Yes, if you want to. We can add a simple editor for articles and page text. Many professionals prefer to send updates on WhatsApp and let us publish them, which keeps the site simpler and faster. For two months after launch those updates are free; after that, maintenance starts at a modest monthly amount." },
     { question: "Is a personal website different from a portfolio website?", answer: "They overlap. A portfolio site centres on showing work samples, typical for designers, photographers and job seekers. A personal website centres on the person: credentials, expertise, point of view and how to engage them, typical for doctors, lawyers, consultants and creators. Many personal sites include a smaller work section." },
     { question: "Can my personal website sell consultations or courses?", answer: `Yes. A simple booking link fits the basic plan. If you want visitors to pay for sessions, courses or downloads on the site with UPI and card checkout, that moves to the store plan starting at ${P.shop}. A members-only area with logins is a custom build starting at ${P.software}.` },
     { question: "Who owns my personal website?", answer: "You do. The domain is registered in your name, hosting is in your account, and you receive the code and logins at launch. That way the site stays with you if you change developers, move cities or switch jobs, and nobody can hold your name hostage for a renewal fee." },
     { question: "Can the website be in Hindi or another Indian language?", answer: "Yes. Many professionals serve people who prefer Hindi, Bengali, Tamil, Telugu, Marathi, Malayalam or another language. We can build pages in two languages with proper language tags, so Google shows the right version. Professional terms and credentials should be checked by you in both languages before launch." },
     { question: "How do you keep my personal details safe?", answer: "We keep personal addresses and private numbers off the site, use a contact form or business number instead, hide email addresses from scrapers, add spam protection to forms and keep domain contact details private where possible. Forms for doctors and counsellors collect only what is needed to arrange a first contact." },
     { question: "Do you work with Indians living abroad?", answer: `Yes. NRIs and overseas professionals work with us the same way, over WhatsApp, video calls and staging links, and pay in USD through Wise, bank wire or PayPal. A personal website for clients abroad starts at ${P.siteUsd}, and we schedule calls to suit your time zone.` },
-    { question: "Personal website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath personal website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Content hum likhein, do bhashaon mein chahiye, ya booking jaisa feature ho toh quote badhta hai. Domain aapke naam par hota hai aur launch ke baad 5 mahine tak updates free hain.` },
+    { question: "Personal website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath personal website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Content hum likhein, do bhashaon mein chahiye, ya booking jaisa feature ho toh quote badhta hai. Domain aapke naam par hota hai aur launch ke baad 2 mahine tak updates free hain.` },
   ],
   related: {
     heading: "Related pages for professionals and creators",
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want your name to lead to your own website? Let’s start",
-    note: `Message us on WhatsApp with your profession and what people should do after finding you. You get an itemised quote in about two working days, with personal websites from ${P.site}, the domain in your name and five months of free updates.`,
+    note: `Message us on WhatsApp with your profession and what people should do after finding you. You get an itemised quote in about two working days, with personal websites from ${P.site}, the domain in your name and two months of free updates.`,
   },
 };
 

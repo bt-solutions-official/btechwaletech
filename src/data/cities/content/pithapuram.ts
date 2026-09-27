@@ -55,7 +55,7 @@ const pithapuram: CityContent = {
     ai: "Telugu WhatsApp assistants that answer room, darshan-timing, price and stock questions and pass bookings to your desk.",
     data: "Dashboards of room occupancy by festival, saree orders by city, and trader dues by buyer and season.",
     app: "Android and iOS apps for pilgrims, repeat saree buyers or school parents, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months after launch, then maintenance from ₹8,000 a month with festival-season updates.",
+    maintenance: "Two free months after launch, then maintenance from ₹8,000 a month with festival-season updates.",
   },
   whyUsIntro:
     "Pithapuram people buy on trust, and trust with an outside developer has to be earned on paper. We publish our starting prices, send itemised written quotes, reply on WhatsApp seven days a week, and put the domain, hosting, code and app store accounts in your name. When something you ask for will not pay for itself, we tell you before you spend.",
@@ -150,7 +150,7 @@ const pithapuram: CityContent = {
       heading: "Website cost in Pithapuram: starting points and optional extras",
       paragraphs: [
         "The first question from most Pithapuram owners is price. A static website up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299-plus page SEO site, useful for a lodge group or trader who wants pages for every room type, product or nearby village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000.",
-        "Online stores start at ₹50,000, custom software and web apps at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for five months after launch and afterwards starts at ₹8,000 a month if you want us to continue.",
+        "Online stores start at ₹50,000, custom software and web apps at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for two months after launch and afterwards starts at ₹8,000 a month if you want us to continue.",
         "The quote rises only with choices you make: Telugu plus other languages, a large saree catalogue, international shipping, UPI checkout, booking calendars, staff logins or Tally sync. Send your own text and phone photographs and content costs stay low.",
         "Local quotes differ a great deal, so ask each provider who owns the domain, whether the site is tested on budget phones, what SEO basics are included, how many revisions you get and what yearly support costs. Our list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote reaches you in about two working days.",
       ],
@@ -169,7 +169,7 @@ const pithapuram: CityContent = {
       heading: "Ownership and maintenance for Pithapuram websites and apps",
       paragraphs: [
         "Everything we make for you is registered to you. The domain sits on your email, hosting is billed to you, the full source code is handed over, and the Google Business Profile, Google Play account and Apple developer account name you as owner. A written login sheet comes with handover so no developer, us included, can hold your business hostage.",
-        "Maintenance is included free for five months after launch. We update tariffs, photographs and festival notices, take backups, apply security and version updates and test forms, UPI payments and WhatsApp buttons. After that, continue with us from ₹8,000 a month, handle it yourself, or pass the code to another developer.",
+        "Maintenance is included free for two months after launch. We update tariffs, photographs and festival notices, take backups, apply security and version updates and test forms, UPI payments and WhatsApp buttons. After that, continue with us from ₹8,000 a month, handle it yourself, or pass the code to another developer.",
         "Apps also need an annual update to meet Google and Apple's rising requirements, and we plan those ahead so your app is never pulled from the store.",
       ],
     },
@@ -261,7 +261,7 @@ const pithapuram: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance is free: tariff and photo updates, backups, security patches and routine checks of forms, UPI payment and WhatsApp buttons, with extra attention before festivals. After that it is optional, starting at ₹8,000 a month, and since the code and accounts are yours you can move whenever you like.",
+        "For two months after launch, maintenance is free: tariff and photo updates, backups, security patches and routine checks of forms, UPI payment and WhatsApp buttons, with extra attention before festivals. After that it is optional, starting at ₹8,000 a month, and since the code and accounts are yours you can move whenever you like.",
     },
     {
       question: "Do you work in Kakinada, Samalkot and Peddapuram as well?",

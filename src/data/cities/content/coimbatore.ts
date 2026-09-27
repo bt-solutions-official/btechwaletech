@@ -32,10 +32,10 @@ const coimbatore: CityContent = {
     h1: "Websites, SEO and automation for Coimbatore manufacturers and merchants",
     lede:
       "Three engineers building product catalogues, dealer portals, online stores and WhatsApp workflows for Kovai businesses: pump and motor makers, spinning mills, foundries, jewellery workshops, hospitals and the shops of Town Hall and Gandhipuram. Every starting price is published, and the code, domain and hosting stay yours.",
-    pills: ["Sites from ₹10,000", "Product catalogues and RFQs", "Tamil and English pages", "Dealer portals", "Free upkeep for 5 months"],
+    pills: ["Sites from ₹10,000", "Product catalogues and RFQs", "Tamil and English pages", "Dealer portals", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "A Coimbatore business website with us starts at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000 and dealer portals or custom web apps at ₹60,000. We are a remote team of three engineers with no Coimbatore office, and every project includes five months of free maintenance.",
+    "A Coimbatore business website with us starts at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000 and dealer portals or custom web apps at ₹60,000. We are a remote team of three engineers with no Coimbatore office, and every project includes two months of free maintenance.",
   snapshot: [
     { label: "Engineering base", value: "Pumps and motors, wet grinders (a GI-tagged product), foundries, auto components and machine tools" },
     { label: "Textiles", value: "Spinning mills and textile machinery across the district, with knitwear in neighbouring Tiruppur" },
@@ -52,10 +52,10 @@ const coimbatore: CityContent = {
     ai: "WhatsApp bots that answer spare-part, warranty and price questions for pump and appliance brands, and route real complaints to a technician.",
     data: "Dispatch, dealer-wise sales and machine utilisation reports pulled from Tally or spreadsheets into dashboards the proprietor can read in two minutes.",
     app: "Android and iOS apps for field technicians and sales staff to log service calls and orders, even with weak signal at a farm borewell site.",
-    maintenance: "Catalogue edits, price revisions, security patches and backups at no charge for five months, then from ₹8,000 a month.",
+    maintenance: "Catalogue edits, price revisions, security patches and backups at no charge for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Coimbatore has no shortage of web agencies, from Avinashi Road firms to freelancers near the colleges. What we offer is simpler: published prices, direct access to the three engineers doing the work, WhatsApp replies seven days a week, and five months of free maintenance once your site is live.",
+    "Coimbatore has no shortage of web agencies, from Avinashi Road firms to freelancers near the colleges. What we offer is simpler: published prices, direct access to the three engineers doing the work, WhatsApp replies seven days a week, and two months of free maintenance once your site is live.",
   pricingIntro:
     "Coimbatore business owners are careful with money and tend to ask for a breakdown before committing, which we think is right. Below are our actual starting prices. Your quote will depend on how many products or pages you have, what features you need and how much material is ready, and it comes itemised before anything is billed.",
   sections: [
@@ -164,11 +164,11 @@ const coimbatore: CityContent = {
     },
     {
       id: "ownership-coimbatore",
-      heading: "Ownership, handover and five months of free maintenance",
+      heading: "Ownership, handover and two months of free maintenance",
       paragraphs: [
         "Older Coimbatore company websites often have the same problem: the domain was registered by a previous vendor, the hosting account is in someone else's name, and the only person who knew the login has left. When a renewal lapses or an SSL certificate expires, the site either vanishes or shows browser warnings to every dealer who opens it.",
         "We avoid that from the start. Your domain is registered in your company's name, the hosting account is yours, and at handover you receive every credential together with a short document explaining where everything runs. The source code belongs to you. If you later want an in-house team or another vendor to take over, you can hand it to them with no exit fee.",
-        "After launch, the first five months of maintenance are free. That includes catalogue and price edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when changes are needed and pay for that work alone.",
+        "After launch, the first two months of maintenance are free. That includes catalogue and price edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when changes are needed and pay for that work alone.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const coimbatore: CityContent = {
     {
       question: "What does maintenance cover after launch?",
       answer:
-        "For the first five months after launch, maintenance is free and covers catalogue and price edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For the first two months after launch, maintenance is free and covers catalogue and price edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "Do you work with businesses in Tiruppur, Erode and Pollachi too?",

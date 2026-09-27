@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Large visa library site from", P.seoSite],
     ["Client document portal from", P.software],
     ["Booking and intake automation from", P.ai],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Quote turnaround", "About 2 working days, itemised in USD"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, search and project management" },
     { value: "2", label: "Languages the team works in day to day: English and Hindi" },
-    { value: "5", label: "Months of free fixes after your site goes live" },
+    { value: "2", label: "Months of free fixes after your site goes live" },
     { value: "7", label: "Days a week we answer WhatsApp messages" },
   ],
   answer: {
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, immigration adviser website design starts from ${P.site} for a practice site with core visa pages, from ${P.seoSite} for a large visa library across languages, and from ${P.software} for a client document portal. Booking and intake automation starts from ${P.ai}.`,
         `Quotes from other providers vary widely. The factors that move the price are the number of visa categories, the number of languages, whether you need a portal, and how much content you supply ready to publish. Portals cost the most because security, access control and testing take real time. Design style matters far less.`,
-        `After launch, five months of maintenance are free. Then a care plan starts from ${P.care}, which covers updates, fixes and edits such as changing a visa page after a rule change. Monthly search work starts from ${P.seo} for practices that want ongoing new pages and ranking reviews. You pay domain and hosting providers directly, so no one sits between you and those accounts.`,
+        `After launch, two months of maintenance are free. Then a care plan starts from ${P.care}, which covers updates, fixes and edits such as changing a visa page after a rule change. Monthly search work starts from ${P.seo} for practices that want ongoing new pages and ranking reviews. You pay domain and hosting providers directly, so no one sits between you and those accounts.`,
       ],
     },
     {
@@ -380,12 +380,12 @@ const content: FreelanceContent = {
       ["Templates and licence layout", "We design adviser profiles, the IAA mark placement and one visa page template. You check it against the Code and approve the layout."],
       ["Your content, our structure", "You write or dictate visa notes; we format them into pages with summaries, FAQs and official links. You approve every page before it is published."],
       ["Languages, booking, testing", "Translations you supply are laid out and checked, the booking flow is tested with real payments, and every form is run from a phone overseas."],
-      ["Launch and care", "The site goes live on your accounts, Search Console is verified, and five months of free maintenance begin, covering fixes and small visa page updates."],
+      ["Launch and care", "The site goes live on your accounts, Search Console is verified, and two months of free maintenance begin, covering fixes and small visa page updates."],
     ],
   },
   faqHeading: "Immigration adviser website design: common questions",
   faqs: [
-    { question: "How much does an immigration adviser website cost in New Zealand?", answer: `With BtechWaleTech, a practice site with licence pages and core visa pages starts from ${P.site}. A larger library across many visa categories and languages starts from ${P.seoSite}, and a secure client document portal from ${P.software}. Other providers' quotes vary widely, driven mostly by languages, portal needs and how much content you supply. Five months of maintenance after launch are free.` },
+    { question: "How much does an immigration adviser website cost in New Zealand?", answer: `With BtechWaleTech, a practice site with licence pages and core visa pages starts from ${P.site}. A larger library across many visa categories and languages starts from ${P.seoSite}, and a secure client document portal from ${P.software}. Other providers' quotes vary widely, driven mostly by languages, portal needs and how much content you supply. Two months of maintenance after launch are free.` },
     { question: "Do I have to show my licence number on my website?", answer: "If you use the “Licensed by Immigration Advisers Authority” trade mark, the IAA's guidance says your name and licence number must appear next to it, and all licensed advisers in the practice should be listed near the mark. The mark must not suggest your business itself is licensed. We place these details for you, and you confirm the final layout against the Code." },
     { question: "Can my website say my visa success rate is high?", answer: "Be very careful. Clause 29 of the Code of Conduct prohibits misrepresenting yourself, your business or immigration opportunities. A success percentage without a clear basis can be misleading, and the IAA's toolkit cites “100% guaranteed” visa advertising as an example of misrepresentation. Describe your experience factually instead: categories handled, years licensed, languages spoken." },
     { question: "Can you write the visa pages for my website?", answer: "We build the structure and format the content, but the immigration information should come from you as the licensed adviser. The IAA says anyone giving New Zealand immigration advice must be licensed unless exempt. You send notes or a recording, we turn it into a page template, and nothing goes live until you approve every word." },
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Do you use the IAA logo on every page?", answer: "Only where you want it and only with each licensed adviser's name and licence number beside it, as the IAA's trade mark guidance requires. It is usually in the footer and on adviser profiles. If a licence lapses, we can switch the mark off site-wide at once. The mark is never altered or used in hidden text." },
     { question: "Can staff who are not licensed appear on the website?", answer: "Yes, as long as their roles are described accurately, such as office manager or client coordinator, so no visitor mistakes them for licensed advisers. Only licensed individuals are shown beside the IAA mark with licence numbers. Clause 29 of the Code prohibits misrepresenting your business or employees, so clear role descriptions matter." },
     { question: "How do AI search tools treat immigration adviser websites?", answer: "Tools like ChatGPT and Google's AI Overviews summarise pages that answer a question directly, show who wrote them, and cite official sources. A visa page reviewed and dated by a named licensed adviser, linking to Immigration New Zealand, fits that pattern well. Clear headings, short summary paragraphs and FAQ markup also make answers easier to quote." },
-    { question: "What happens to my site after the free maintenance period?", answer: `After five months of free maintenance, you choose. You can manage updates yourself, hand the code to another developer, or take a care plan from ${P.care} for fixes and content edits such as visa rule changes. Monthly search work starts from ${P.seo}. Your site keeps running either way, since hosting and domain are in your name.` },
+    { question: "What happens to my site after the free maintenance period?", answer: `After two months of free maintenance, you choose. You can manage updates yourself, hand the code to another developer, or take a care plan from ${P.care} for fixes and content edits such as visa rule changes. Monthly search work starts from ${P.seo}. Your site keeps running either way, since hosting and domain are in your name.` },
     { question: "Do you build websites for immigration lawyers too?", answer: "Yes, though the display rules may differ. Lawyers answer to the New Zealand Law Society, so a law practice that includes immigration work should confirm with its own professional body what its site must show. Our NZ law firm website design page is the better starting point for that kind of practice. We build the structure; you confirm every compliance point." },
     { question: "Can the website handle enquiries from employers as well as migrants?", answer: "Yes. Many advisers split the site into two paths: one for individuals and families, one for employers seeking accreditation or recruiting overseas. Each path has its own pages, intake questions and booking options. That keeps employer enquiries from getting lost among individual visa questions and makes both audiences feel addressed." },
     { question: "Do you meet advisers in person?", answer: "No. We are three freelance developers working remotely from India, so everything happens by video call, WhatsApp and email. New Zealand afternoons overlap our mornings, which keeps replies quick. If in-person workshops matter to you, a local studio is a better fit, and we are happy to say so." },

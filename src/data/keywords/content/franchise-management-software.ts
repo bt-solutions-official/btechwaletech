@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Typical first phase", "6–12 weeks"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Data", "In your cloud account, exportable any time"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering portal, apps and data" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-outlet licence fees paid to us" },
   ],
   answer: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Onboarding new franchisees", "Tracked in someone's head", "Not covered", "Stage-by-stage tracker from enquiry to opening day"],
       ["Who sees what", "Everyone in the group sees everything", "Designed for employees, not independent owners", "Roles for head office, master franchisees, outlets, auditors"],
       ["Disputes over numbers", "Common: two versions of the same sheet", "Fewer, if outlets use it properly", "One shared record with an audit trail"],
-      ["Cost pattern", "Free, but staff time grows with outlets", "Licences, often per user or outlet", `One-time build; maintenance from ${P.care} after 5 free months`],
+      ["Cost pattern", "Free, but staff time grows with outlets", "Licences, often per user or outlet", `One-time build; maintenance from ${P.care} after 2 free months`],
       ["Fits your process", "Whatever people improvise", "You adjust your process to the software", "Software follows your manual and agreement"],
       ["Best for", "Under ten outlets, all nearby", "Brands that own most outlets themselves", "Growing franchise networks with their own rules"],
     ],
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech a custom franchisor portal starts at ${P.software} (${P.softwareUsd}), outlet and auditor apps at ${P.app} (${P.appUsd}), and WhatsApp summaries or AI-assisted checks at ${P.ai}. A first phase usually covers the portal plus one or two modules.`,
         `The cost moves with the number of modules, the complexity of royalty formulas, the depth of POS integration and whether you have a master or area franchise layer. It does not move with outlet count. Running costs such as cloud hosting, SMS and WhatsApp charges are billed to your accounts directly.`,
-        `Ready-made franchise tools usually charge per outlet or per user each month, which is predictable at first and grows with every opening. A custom build is a larger first payment with no per-outlet licence, plus maintenance after the five free months from ${P.care}. Quotes from other developers vary widely, largely because some price only screens while others include integrations, data migration and training. Ask for each of those as a separate line.`,
+        `Ready-made franchise tools usually charge per outlet or per user each month, which is predictable at first and grows with every opening. A custom build is a larger first payment with no per-outlet licence, plus maintenance after the two free months from ${P.care}. Quotes from other developers vary widely, largely because some price only screens while others include integrations, data migration and training. Ask for each of those as a separate line.`,
       ],
     },
     {
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The franchisor does. Code sits in a repository you control, the database in your cloud account, and the apps in your developer accounts from the first day.`,
         `For a franchise brand this is strategic. Years of outlet-level sales, audit history and franchisee performance are what you use to decide where to open next, which formats work and which owners deserve a second outlet. If that history lives in a vendor's system with per-outlet fees, it becomes expensive to leave.`,
-        `At handover you receive repository and admin access, documentation of the royalty engine's formulas, integration notes, and a list of paid services with renewal dates. Five months of maintenance are free after launch, then optional from ${P.care}. Specific support terms are written into your quote, with general terms on the <a href='/terms/'>terms page</a>.`,
+        `At handover you receive repository and admin access, documentation of the royalty engine's formulas, integration notes, and a list of paid services with renewal dates. Two months of maintenance are free after launch, then optional from ${P.care}. Specific support terms are written into your quote, with general terms on the <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Outlet and auditor app", "Indents, sales entry, SOP audits, announcements", `${P.app} · ${P.appUsd}`, "6–10 weeks"],
         ["Automation and AI checks", "WhatsApp digests, overdue reminders, photo review assistance", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
         ["Franchise and outlet website", "Enquiry page plus one page per outlet", `${P.seoSite} · ${P.seoSiteUsd}`, "3–5 weeks"],
-        ["Maintenance after 5 free months", "Updates, new formulas, integration fixes", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", "Updates, new formulas, integration fixes", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Map agreements and manuals", "We turn royalty formulas, indent rules and audit checklists into a written specification that your operations and finance heads sign."],
       ["Review working screens", "Portal and app builds appear on staging and test links every week, so your team clicks through real flows early."],
       ["Pilot with a few outlets", "Three to five franchisees use the system live. We fix what slows them down before asking the whole network to switch."],
-      ["Roll out and hand over", "Network launch, admin training, repository and cloud access, documentation, then five months of free maintenance before the next phase."],
+      ["Roll out and hand over", "Network launch, admin training, repository and cloud access, documentation, then two months of free maintenance before the next phase."],
     ],
   },
   faqHeading: "Franchise management software: questions franchisors ask",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Can you track franchise leads and onboarding in the same system?", answer: "Yes. Enquiries from your website and other channels enter a pipeline with stages such as call, visit, agreement, site approval, fit-out, licences, training and opening. Each stage has a checklist, documents are uploaded with expiry dates, and you can see which lead sources produce franchisees who actually open." },
     { question: "Does franchise management software work in Hindi and regional languages?", answer: "The outlet app can. Screens and checklists can appear in Hindi, Marathi, Tamil, Telugu, Bengali or other languages, with text stored in files your team updates. We draft English and Hindi; you supply or approve other translations. The head office portal usually stays in English." },
     { question: "What does the founder's dashboard show?", answer: "Typically today's and this week's sales by outlet compared with the same period before, royalty due and collected, late indents, audit scores, and outlets trending up or down. Filters by region, format, master franchisee and outlet age make comparisons fair. Owners can see their own numbers and, if you choose, anonymised comparisons." },
-    { question: "What happens after the franchise system goes live?", answer: `You get five months of free maintenance covering fixes, small changes and updates. After that, maintenance continues from ${P.care} a month if you want it. New royalty formulas, audit checklists and price lists are managed from the portal by your team; new modules are quoted as new phases.` },
+    { question: "What happens after the franchise system goes live?", answer: `You get two months of free maintenance covering fixes, small changes and updates. After that, maintenance continues from ${P.care} a month if you want it. New royalty formulas, audit checklists and price lists are managed from the portal by your team; new modules are quoted as new phases.` },
     { question: "Can you also build our franchise enquiry website and outlet pages?", answer: `Yes. A franchise enquiry page and outlet pages generated from the same database help people find the nearest outlet and help prospective franchisees understand the offer. For large networks, an SEO website with hundreds of pages starts at ${P.seoSite}. Nobody can guarantee rankings, but accurate outlet data helps search and AI assistants.` },
     { question: "Franchise ke royalty ka hisaab software se kaise hoga?", answer: "Har outlet ki daily sales POS ya app se system mein aati hai. Us outlet ke agreement ka formula, jaise sales ka percentage, minimum guarantee aur marketing fund, system mein save hota hai. Mahine ke end mein software har outlet ka statement bana deta hai, jise aapki accounts team check karke invoice bhejti hai. Purane agreement ke terms bhi alag se chalte rehte hain." },
     { question: "How do we pay for franchise management software development?", answer: "Payments are staged against the milestones in your written quote, phase by phase. Clients in India pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised estimate in writing, and each new phase gets its own quote." },
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Growing a franchise network? Show us how it runs today",
-    note: `Send us your outlet count, royalty terms and the sheets you use now on WhatsApp. You will get an itemised phase-one quote in about two working days, with the franchisor portal from ${P.software}, code and data in your name, and five months of free maintenance after launch.`,
+    note: `Send us your outlet count, royalty terms and the sheets you use now on WhatsApp. You will get an itemised phase-one quote in about two working days, with the franchisor portal from ${P.software}, code and data in your name, and two months of free maintenance after launch.`,
   },
 };
 

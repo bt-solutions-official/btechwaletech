@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Hire a website developer · buy it as a project",
     h1: "Hire a website developer for a fixed scope: write the brief, compare quotes, pay by milestone",
     lede: `When you hire a website developer, you are really buying a project with a start, an end and a list of deliverables, so treat it like a purchase and not a job interview. BtechWaleTech is three freelance developers in India who quote every website line by line, starting at ${P.site}. This page gives you a scope template, a method for comparing quotes that look nothing alike, and a milestone plan that keeps your money tied to work you can actually open and click.`,
-    pills: ["One-page scope template", "Line-by-line quotes", "Milestone payments", "Accounts in your name", "Staging link reviews", "5 months free care", "Quote in ~2 working days"],
+    pills: ["One-page scope template", "Line-by-line quotes", "Milestone payments", "Accounts in your name", "Staging link reviews", "2 months free care", "Quote in ~2 working days"],
     origin: "Three freelance developers · Remote from India · Projects for clients across India and abroad",
   },
   facts: [
@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Billing", "Only after written approval of the estimate"],
     ["Payments", "Staged against visible milestones"],
     ["Ownership", "Domain, hosting, code in your name"],
-    ["Aftercare", "5 months free, then optional"],
+    ["Aftercare", "2 months free, then optional"],
   ],
   stats: [
     { value: "2", label: "Working days to an itemised quote" },
     { value: "3", label: "Developers who know your project" },
     { value: "0", label: "Platform or middleman fees" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How do you hire a website developer without overpaying?",
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
       heading: "Worked example: comparing three quotes for a coaching centre site",
       paragraphs: [
         `This is an invented scenario to show the method, not a real client. A coaching centre sends one scope to three developers: 15 pages, a batch enquiry form, a results gallery, Hindi versions of four pages, and launch before the admission season.`,
-        `Quote A is the lowest single figure with no breakdown. Asked for detail, it turns out the Hindi pages and content editing are not included, and the full amount is due before work starts. Quote B is itemised but bundles hosting in the developer’s own account. Quote C, in this example ours, lists each page group, the Hindi pages, content editing, form setup and Search Console as separate lines, with three payment stages and five months of free care.`,
+        `Quote A is the lowest single figure with no breakdown. Asked for detail, it turns out the Hindi pages and content editing are not included, and the full amount is due before work starts. Quote B is itemised but bundles hosting in the developer’s own account. Quote C, in this example ours, lists each page group, the Hindi pages, content editing, form setup and Search Console as separate lines, with three payment stages and two months of free care.`,
         `After adding Hindi and editing to A, and moving hosting into the client’s name for B, the three totals sit much closer together. The centre now chooses on timeline, ownership and payment terms rather than on a misleading headline number. That is how you should hire a website developer: by comparing like with like.`,
       ],
     },
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "4 stages, one per module"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "4–5 stages"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "4 stages, last after store approval"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Monthly, cancel any time"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Monthly, cancel any time"],
       ],
       hideSm: [2],
     },
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Approve in writing", "Nothing is billed until you confirm the estimate. The advance is then paid by UPI or bank transfer, or by Wise, wire or PayPal from abroad."],
       ["Accounts in your name", "Domain, hosting and the code repository are created under your email on a short call, so you control them from the first day."],
       ["Milestones on a staging link", "Each stage appears on a private link you check on your phone. You approve it, pay the stage, and the next one begins."],
-      ["Launch and five months of care", "We connect your domain, hand over every login, then handle fixes and small edits free for five months before any monthly plan."],
+      ["Launch and two months of care", "We connect your domain, hand over every login, then handle fixes and small edits free for two months before any monthly plan."],
     ],
   },
   faqHeading: "Hiring a website developer: common questions",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "How do I hire a website developer for my business?", answer: "Write a one-page scope with your goal, pages, features, content responsibility, deadline and budget range. Send it unchanged to three developers whose live work you like, ask for itemised quotes and payment stages, and compare line by line. Choose on scope coverage, ownership terms and milestones, then confirm everything in writing before paying the advance." },
     { question: "How much does it cost to hire a website developer in India?", answer: `It depends mainly on project type. With BtechWaleTech a static website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite}, an online store at ${P.shop} and a custom web app at ${P.software}. The final amount depends on unique layouts, features and content work, all shown as separate lines.` },
     { question: "What should a website quotation include?", answer: "A good quotation lists each page or page group, every feature, content writing or editing, integrations, SEO basics, the timeline, payment stages with what triggers each one, ownership of domain and code, and the support period after launch. A single total with no breakdown makes it impossible to compare against other quotes or to settle disagreements later." },
-    { question: "Why are website quotes so different for the same requirement?", answer: "Usually because they are not pricing the same thing. One may include content editing, custom layouts and five months of support, while another assumes you supply finished text and stops at launch. Put every quote against your scope in a sheet, ask each developer to price the missing lines, and the totals normally move much closer together." },
+    { question: "Why are website quotes so different for the same requirement?", answer: "Usually because they are not pricing the same thing. One may include content editing, custom layouts and two months of support, while another assumes you supply finished text and stops at launch. Put every quote against your scope in a sheet, ask each developer to price the missing lines, and the totals normally move much closer together." },
     { question: "Should I pay a website developer upfront?", answer: "Pay a reasonable advance, not the full amount. A common structure is an advance on approval, a second payment when layouts appear on a staging link, and the balance when all pages are complete and tested, before the domain goes live. Each payment should match something you can open and check yourself." },
     { question: "How long does it take to build a website after hiring a developer?", answer: "A static business site usually takes 1–2 weeks, an SEO website 3–5 weeks, an online store 4–8 weeks and a custom portal 6–12 weeks. Those times start once content and decisions arrive. Sending all text and photos together and naming one decision-maker are the two easiest ways to keep the project on schedule." },
     { question: "Is it better to hire a website developer or use a website builder?", answer: "A builder works if you want a simple profile, can do the setup yourself and accept monthly fees and limited control. Hiring a developer makes sense when you need custom layouts, search-friendly structure, integrations, a second language or full ownership of the code. Many businesses start on a builder and hire a developer when they outgrow it." },
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Do I need a contract or NDA to hire a website developer?", answer: "You need at least a written agreement: scope attached, price, milestones, revision rounds, change handling, ownership and support terms. A confirmed email can serve. An NDA is worth adding when you share customer data or unlaunched products. BtechWaleTech signs reasonable NDAs before you share anything sensitive." },
     { question: "What payment methods can I use?", answer: "Clients in India pay each milestone by UPI or bank transfer. Clients abroad pay the same milestone structure through Wise, bank wire or PayPal, with prices quoted in USD. Nothing is billed before you approve the itemised estimate in writing, and each later payment follows a milestone you have already checked on the staging link." },
     { question: "Will the website developer handle SEO too?", answer: "SEO basics should be in the scope: unique titles and descriptions, clean headings, sitemap, schema markup, fast loading and Search Console setup. Ongoing SEO, such as content and local listings, is a separate monthly service. Be cautious of anyone who promises a first-page ranking, because nobody can guarantee where Google places a page." },
-    { question: "What happens after the website goes live?", answer: `With BtechWaleTech the first five months after launch include free maintenance: small text changes, fixes, updates and backups. After that you can continue from ${P.care}, move to another developer using the handover note, or manage the site yourself. Nothing continues automatically without your agreement.` },
+    { question: "What happens after the website goes live?", answer: `With BtechWaleTech the first two months after launch include free maintenance: small text changes, fixes, updates and backups. After that you can continue from ${P.care}, move to another developer using the handover note, or manage the site yourself. Nothing continues automatically without your agreement.` },
     { question: "Can the same developer build an app later?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app} with Flutter or React Native and publishes them in your own Play Console and App Store Connect accounts. Because the team already knows your website, the app can reuse its data, design and login without rewriting the brief from scratch.` },
     { question: "What are red flags in a website quote?", answer: "Watch for a single total with no breakdown, most of the money due before any work is shown, the domain or hosting registered in the developer’s name, promises of guaranteed rankings, no mention of what happens after launch, and a refusal to put the scope in writing. Any one of these is a reason to ask more questions." },
     { question: "Website developer hire karna hai, kaise shuru karein?", answer: `Pehle ek page ka scope likhiye: kaunse pages chahiye, kya features, content kaun dega, deadline aur budget. Wahi scope teen developers ko bhejiye aur line by line quote maangiye. Payment stages mein kijiye, kaam dekh kar. BtechWaleTech ke saath simple website ${P.site} se shuru hoti hai aur quote lagbhag 2 working days mein milta hai.` },
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a website developer? Send your scope",
-    note: `Share your scope or a rough idea on WhatsApp. You will receive an itemised estimate with milestones in about two working days, with websites starting at ${P.site}, every account in your name and five months of free care after launch.`,
+    note: `Share your scope or a rough idea on WhatsApp. You will receive an itemised estimate with milestones in about two working days, with websites starting at ${P.site}, every account in your name and two months of free care after launch.`,
   },
 };
 

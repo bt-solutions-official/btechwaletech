@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Software from ₹60,000", "Automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Pay by UPI QR or bank transfer"],
   },
   quickAnswer:
-    "Freelance software developers in Jowai: BtechWaleTech, three engineers working remotely from India, builds custom software and web apps from ₹60,000 in 6 to 12 weeks, AI and WhatsApp automation from ₹40,000 in 2 to 4 weeks, and websites from ₹10,000 in 1 to 2 weeks. There is no Jowai office; five months of maintenance are free.",
+    "Freelance software developers in Jowai: BtechWaleTech, three engineers working remotely from India, builds custom software and web apps from ₹60,000 in 6 to 12 weeks, AI and WhatsApp automation from ₹40,000 in 2 to 4 weeks, and websites from ₹10,000 in 1 to 2 weeks. There is no Jowai office; two months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of West Jaintia Hills district and the traditional centre of the Pnar (Jaintia) people" },
     { label: "Languages", value: "Pnar and Khasi in daily life, English in offices and schools, Hindi and Bengali among traders" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that answer price, availability and booking questions on WhatsApp and pass tricky chats to a person on your staff.",
     data: "Season-by-season dashboards showing how much produce was bought, from which villages, at what rates, and what remains unpaid.",
     app: "Android and iOS apps from ₹40,000, one Flutter or React Native build published on Google Play and the App Store, for collection agents, wholesale reorders and school updates across the Jaintia Hills.",
-    maintenance: "Backups, fixes and security updates, free for five months after launch and from ₹8,000 a month afterwards if you want continuity.",
+    maintenance: "Backups, fixes and security updates, free for two months after launch and from ₹8,000 a month afterwards if you want continuity.",
   },
   whyUsIntro:
     "In Jowai, buying software has usually meant a trip to Shillong or a vendor who disappears after installation. We are a freelance group instead: you message the engineer, see progress weekly, and keep every password, file and line of code when the project ends.",
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "support-after-launch-jowai",
       heading: "IT support and maintenance after your Jowai project goes live",
       paragraphs: [
-        "After launch, every Jowai project gets five months of free maintenance: bug fixes, security updates, small content edits, backup checks and uptime monitoring. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
+        "After launch, every Jowai project gets two months of free maintenance: bug fixes, security updates, small content edits, backup checks and uptime monitoring. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
         "Our support is remote and covers what we built: the software, website, hosting, domains, email setup and automations. We cannot visit Jowai to fix a printer or router, so for hardware you will still need a local technician, and we are happy to guide them on the software side over a call.",
         "Requests come in on WhatsApp or email seven days a week. Outages get restored first and explained afterwards. Before the free period ends we send a short health report listing what was updated, what should be watched and what renewals are coming, so you can decide calmly whether a monthly plan makes sense.",
       ],
@@ -269,7 +269,7 @@ const content: CityContent = {
     {
       question: "What happens after the free maintenance ends?",
       answer:
-        "After five free months you choose. Continue on a monthly plan from ₹8,000 covering updates, backups, fixes and checks, or contact us only when something needs changing and pay for that job. We send a health report before the free period ends so you know what needs attention and which renewals are coming.",
+        "After two free months you choose. Continue on a monthly plan from ₹8,000 covering updates, backups, fixes and checks, or contact us only when something needs changing and pay for that job. We send a health report before the free period ends so you know what needs attention and which renewals are coming.",
     },
     {
       question: "Do you build Android and iOS apps for Jowai businesses?",

@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers: build, data and SEO, project management" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "299+", label: "Pages in the SEO website plan for listing sites" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a Dubai real estate website need to generate leads and stay compliant?",
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
         "Content writing for community guides, which you can also supply",
       ],
       after: [
-        `The <a href='/uae/website-development-cost/'>website development cost guide for Dubai</a> sets these against other project types. Five months of maintenance are free after launch, then care plans start from ${P.care}.`,
+        `The <a href='/uae/website-development-cost/'>website development cost guide for Dubai</a> sets these against other project types. Two months of maintenance are free after launch, then care plans start from ${P.care}.`,
       ],
     },
     {
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
       ["Feed mapping sign-off", "We document every feed field and where it appears, including permit, BRN and ORN placement, and your operations lead approves it."],
       ["Templates with live data", "Listing, agent and project templates go up on staging populated from your real feed, so you review actual units, not placeholders."],
       ["Languages, routing and tracking", "Professionally translated pages are placed, WhatsApp routing rules configured and tested per agent, and GA4 and CRM lead logging set up."],
-      ["Launch and five free months", "Old URLs redirected, site launched on your hosting, handover document delivered, then five months of free maintenance and feed monitoring."],
+      ["Launch and two free months", "Old URLs redirected, site launched on your hosting, handover document delivered, then two months of free maintenance and feed monitoring."],
     ],
   },
   faqHeading: "Real estate website design Dubai: questions brokers ask",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Can you add AI to a real estate website in Dubai?", answer: `Yes. Common uses are qualifying WhatsApp enquiries with a few questions before an agent picks up, matching buyers to listings from their saved searches, and drafting follow-up reminders for agents. AI automation starts from ${P.ai} and usually takes 2–4 weeks, built on your CRM data with access controls.` },
     { question: "Do you also build real estate apps?", answer: `Yes. Android and iOS apps for buyers or agents start from ${P.app} and usually take 6–10 weeks, using Flutter or React Native, published under your own Google Play and App Store accounts. The app can share the same listing database as your website, so a feed update reaches both at once.` },
     { question: "How do payments and quotes work for Dubai brokerages?", answer: "You receive an itemised quote in USD within about two working days. Nothing is billed until you approve it in writing, and payments follow the stages in that quote, by Wise or bank wire. Invoices are issued from India. Ask your accountant how to treat an overseas supplier, as we do not give tax advice." },
-    { question: "What maintenance does a property website need after launch?", answer: `Feed imports need monitoring, agent records need updating as your team changes, and software needs security updates. You get five months of free maintenance after launch, covering these and small fixes. After that, care plans start from ${P.care}, or your own team can take over using the handover documentation.` },
+    { question: "What maintenance does a property website need after launch?", answer: `Feed imports need monitoring, agent records need updating as your team changes, and software needs security updates. You get two months of free maintenance after launch, covering these and small fixes. After that, care plans start from ${P.care}, or your own team can take over using the handover documentation.` },
     { question: "Can you design a website for a Dubai property developer rather than a broker?", answer: "Yes. Developer sites centre on projects rather than resale listings: project pages with phases, payment plans, floor plans, construction updates and brochure downloads, plus broker registration forms and register-interest flows. The same compliance fields, multilingual structure and lead routing apply, adjusted to how your sales team and agency partners work." },
   ],
   related: {

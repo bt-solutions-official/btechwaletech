@@ -7,7 +7,7 @@ const ichalkaranji: CityContent = {
   meta: {
     title: "IT Services in Ichalkaranji: Websites, Apps, SEO & AI",
     description:
-      "Websites, fabric catalogues, SEO and WhatsApp automation for Ichalkaranji powerloom units, yarn traders, clinics and shops. From ₹10,000 with 5 months free upkeep.",
+      "Websites, fabric catalogues, SEO and WhatsApp automation for Ichalkaranji powerloom units, yarn traders, clinics and shops. From ₹10,000 with 2 months free upkeep.",
     keywords: [
       "website development team in Ichalkaranji",
       "web designer Ichalkaranji",
@@ -35,7 +35,7 @@ const ichalkaranji: CityContent = {
     pills: ["Sites from ₹10,000", "Fabric catalogues", "Marathi and English", "Loom and job-work dashboards", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Ichalkaranji, a basic business website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000; fabric catalogues and trade portals are quoted by scope, with custom web apps from ₹60,000. We are a remote three-engineer team with no local office, and every project includes five months of free maintenance.",
+    "In Ichalkaranji, a basic business website with us starts at ₹10,000 and a 299+ page SEO site at ₹20,000; fabric catalogues and trade portals are quoted by scope, with custom web apps from ₹60,000. We are a remote three-engineer team with no local office, and every project includes two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The “Manchester of Maharashtra”, a major powerloom and textile centre in the Panchganga valley" },
     { label: "Textile base", value: "Around 25 spinning units, over a lakh powerlooms, plus semi-automatic and shuttleless looms" },
@@ -52,10 +52,10 @@ const ichalkaranji: CityContent = {
     ai: "WhatsApp flows that send daily rate updates to buyers, log incoming fabric enquiries and chase pending payments, with the owner approving anything unusual.",
     data: "Production, meterage and payment dashboards that show a loom owner or trader what was woven, dispatched and still unpaid, on a phone, each morning.",
     app: "Android and iOS apps that shed supervisors and agents use to record loom production, photos and dispatches, published on both stores from ₹40,000.",
-    maintenance: "Content changes, backups, security updates and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Content changes, backups, security updates and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Most textile businesses in Ichalkaranji have been sold a website once already: a few pages, a stock image of a loom, and a developer who stopped picking up the phone. We publish our prices, reply on WhatsApp every day of the week, and stay responsible for your site for five months after launch without charging for it.",
+    "Most textile businesses in Ichalkaranji have been sold a website once already: a few pages, a stock image of a loom, and a developer who stopped picking up the phone. We publish our prices, reply on WhatsApp every day of the week, and stay responsible for your site for two months after launch without charging for it.",
   pricingIntro:
     "A loom shed owner in Ichalkaranji can get three website quotes and find nothing in common between them. Here are our actual starting prices. A catalogue with two hundred fabric qualities costs more than a five-page profile, and you see exactly why in an itemised quote before paying anything.",
   sections: [
@@ -177,7 +177,7 @@ const ichalkaranji: CityContent = {
       paragraphs: [
         "A common story in Ichalkaranji goes like this: a website was made years ago, the domain was booked in the developer's name, the renewal reminder went to an email nobody checks, and one day the site simply vanished, along with the address printed on every invoice and visiting card. We set things up so this cannot happen.",
         "Your domain is registered in your name, the hosting account is yours, and at launch you receive every login plus a short document explaining where everything lives. The source code belongs to you. If you ever want another developer to take over, they can do so the same day, with no exit fee from us.",
-        "The first five months of maintenance after launch are free. That covers text and product updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can simply message us when you need something changed. To begin, send a few lines through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "The first two months of maintenance after launch are free. That covers text and product updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can simply message us when you need something changed. To begin, send a few lines through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const ichalkaranji: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "What should I send to get a quote?",

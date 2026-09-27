@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store timeline", "4–8 weeks, depending on catalogue"],
     ["COD and WhatsApp automation", `From ${P.ai}`],
     ["Ownership", "Store, domain and data in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your store" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance post-launch" },
+    { value: "2", label: "Months of free maintenance post-launch" },
     { value: "0", label: "Commission taken on your sales" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "COD confirmation, WhatsApp updates", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Shopping app later", value: `From ${P.app}, 6–10 weeks` },
       { label: "Paying us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -226,7 +226,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The domain, store account, hosting, code (for custom builds), analytics, Merchant Center and every customer record are registered to your business. The design we create for you is yours to use and change.`,
         `This matters more for a fashion label than most businesses, because your customer list is the asset that lets you sell each new drop without paying for ads. If a developer holds the store account, you are renting your own brand. We open accounts under your email from day one and add ourselves as collaborators or staff, which you can remove at any time.`,
-        `At handover you get admin logins, a short video walkthrough of daily tasks (adding products, handling an exchange, checking COD confirmations) and a document listing every app or service the store uses and what it costs. Five months of free maintenance follow launch; after that, maintenance starts at ${P.care}.`,
+        `At handover you get admin logins, a short video walkthrough of daily tasks (adding products, handling an exchange, checking COD confirmations) and a document listing every app or service the store uses and what it costs. Two months of free maintenance follow launch; after that, maintenance starts at ${P.care}.`,
       ],
     },
     {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Prepare products", "You fill a product template with measurements, fit notes and photos; we check it and flag gaps while the store takes shape."],
       ["Build and connect", "Storefront, checkout with UPI, cards and COD rules, returns portal, WhatsApp updates and marketplace sync go up on a test link."],
       ["Test like a customer", "Together we place real orders, refuse a COD parcel, run an exchange and a refund, and fix whatever feels clumsy."],
-      ["Launch and support", "Accounts and walkthroughs are handed over, the store goes live for your drop, and five months of free maintenance begin."],
+      ["Launch and support", "Accounts and walkthroughs are handed over, the store goes live for your drop, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Clothing brand website: questions founders ask",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Can I sell to NRI and overseas customers from my clothing website?", answer: "Yes. The store can show prices in other currencies, accept international cards and calculate international shipping. You handle export shipping and any duties with your courier, and your CA advises on tax. Size guides in inches and centimetres help overseas buyers choose correctly." },
     { question: "Do I need an app for my clothing brand?", answer: `Not at launch. A fast mobile website serves new customers better, because they will not install an app from a brand they do not know yet. An app makes sense once repeat buyers are a large share of sales. We build Android and iOS apps from ${P.app} when that point comes.` },
     { question: "How do I pay BtechWaleTech?", answer: "Indian clients pay by UPI or bank transfer against an itemised quote they have approved in writing, with stages set out in that quote. Overseas founders pay in US dollars by Wise, bank wire or PayPal. We never bill before written approval." },
-    { question: "What happens after launch if something breaks?", answer: `Five months of free maintenance start on launch day, covering fixes and help with store tasks. After that, monthly maintenance starts at ${P.care}, or your team or another developer can manage the store, since everything is in your name. Details are agreed in your written quote.` },
+    { question: "What happens after launch if something breaks?", answer: `Two months of free maintenance start on launch day, covering fixes and help with store tasks. After that, monthly maintenance starts at ${P.care}, or your team or another developer can manage the store, since everything is in your name. Details are agreed in your written quote.` },
     { question: "Can AI shopping answers mention my clothing brand?", answer: "AI assistants cite pages that are public and state facts plainly. Product pages that describe fabric, fit and care in simple sentences, with structured data and accurate feeds, are easier to quote than pages of adjectives. There is no guaranteed way in, but a clean, factual store improves your chances." },
     { question: "Apne clothing brand ki website kaise banaye?", answer: `Pehle decide kariye Shopify chahiye ya custom store. Phir har product par size chart, fit note aur return policy saaf likhiye, UPI aur card checkout lagaiye, aur COD orders ko WhatsApp par confirm karwaiye. BtechWaleTech ke saath store ${P.shop} se shuru hota hai aur quote lagbhag do working days mein milta hai.` },
   ],
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to move your label off DMs and onto your own store?",
-    note: `Send your Instagram handle, catalogue size and launch date on WhatsApp. You will get an itemised quote in about two working days, D2C stores from ${P.shop}, lookbook sites from ${P.site}, every account in your name and five months of free maintenance.`,
+    note: `Send your Instagram handle, catalogue size and launch date on WhatsApp. You will get an itemised quote in about two working days, D2C stores from ${P.shop}, lookbook sites from ${P.site}, every account in your name and two months of free maintenance.`,
   },
 };
 

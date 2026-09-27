@@ -56,7 +56,7 @@ const ladnu: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer room, fee, timing and stock questions and pass real decisions to a person.",
     data: "Dashboards of room occupancy by festival, fee collection by class, and sales and dues by village retailer.",
     app: "Android and iOS apps for school notices, satsang schedules or retailer re-orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Ladnun has a long trading culture, and trading families read a quote line by line. Our starting prices are public, each estimate is written and itemised, and WhatsApp is answered on every day of the week. The domain, hosting, source code and store accounts go in your name, and we tell you when a feature will not repay its cost.",
@@ -169,7 +169,7 @@ const ladnu: CityContent = {
       heading: "Ownership and maintenance for Ladnun websites and apps",
       paragraphs: [
         "Small-town websites often disappear because the builder registered the domain in his own name and then moved on. We register the domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts in your name, and we hand over every login in writing.",
-        "Maintenance is free for five months after launch. That covers content and rate changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. Afterwards, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer with all your files at any time.",
+        "Maintenance is free for two months after launch. That covers content and rate changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. Afterwards, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer with all your files at any time.",
         "Apps need attention every year because Google and Apple change their requirements. We track those changes and update your app in good time, so it is not removed from the stores for falling behind.",
       ],
     },
@@ -261,7 +261,7 @@ const ladnu: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for the first five months, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue. You can take your code and files to another developer at any time.",
+        "Maintenance is free for the first two months, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue. You can take your code and files to another developer at any time.",
     },
     {
       question: "Do you work in Jaswantgarh, Didwana and Sujangarh too?",

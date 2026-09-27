@@ -56,7 +56,7 @@ const sardhana: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rate, stock and design questions and send serious buyers to you.",
     data: "Dashboards of orders, fabric stock by design, job-worker payments and sales by city.",
     app: "Android and iOS apps for retailers and resellers to order fabric designs or for school parents to get notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Sardhana sits in Meerut's orbit, where buyers compare options carefully and ask for rates in writing. We work the same way: starting prices published openly, an itemised quote before any work, replies on WhatsApp seven days a week, and your domain, hosting, code and app accounts registered in your name from day one.",
@@ -180,7 +180,7 @@ const sardhana: CityContent = {
       heading: "Ownership and maintenance for Sardhana websites and apps",
       paragraphs: [
         "What we build is yours. The domain is registered with your email, hosting is billed to you, the source code is handed over, and your Google Business Profile and app store developer accounts list you as owner. You get a written list of every login at handover.",
-        "Maintenance is free for five months after launch: content changes, new designs added to the catalogue, backups, security patches and checks of forms, checkout and WhatsApp buttons. After that, continue with us from ₹8,000 a month, manage it yourself, or give the code to any other developer.",
+        "Maintenance is free for two months after launch: content changes, new designs added to the catalogue, backups, security patches and checks of forms, checkout and WhatsApp buttons. After that, continue with us from ₹8,000 a month, manage it yourself, or give the code to any other developer.",
         "Apps need a yearly update because Google and Apple raise their minimum requirements. We watch those deadlines so your app is not removed from the stores.",
       ],
     },
@@ -272,7 +272,7 @@ const sardhana: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: content and catalogue updates, backups, patches and checks of forms, checkout and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are yours, you can move to another developer anytime.",
+        "The first two months after launch are free: content and catalogue updates, backups, patches and checks of forms, checkout and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are yours, you can move to another developer anytime.",
     },
     {
       question: "Do you serve Meerut, Daurala and nearby towns too?",

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `App Maintenance Cost in India: Plans from ${P.care}`,
-    description: `App maintenance cost in India, line by line: OS and SDK updates, Play target-API deadlines, Firebase bills, store fees. 5 months free, then from ${P.care}.`,
+    description: `App maintenance cost in India, line by line: OS and SDK updates, Play target-API deadlines, Firebase bills, store fees. 2 months free, then from ${P.care}.`,
     keywords: [
       "app maintenance cost in india", "mobile app maintenance cost india", "app maintenance charges", "android app maintenance cost",
       "ios app maintenance cost india", "yearly app maintenance cost", "annual maintenance cost of mobile app", "app amc cost india",
@@ -28,33 +28,33 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Yearly app budgets · Android and iOS",
     h1: "App maintenance cost in India: the yearly bill for keeping an Android or iOS app alive",
-    lede: `App maintenance cost in India is not one number: it is a yearly bill made of developer time for OS and SDK updates, server and Firebase usage, crash fixing, store account renewals and small feature changes. BtechWaleTech is three freelance developers who build apps from ${P.app} and include 5 months of free maintenance after launch; after that, plans start from ${P.care}. This page breaks the yearly bill into lines you can check, including the <a href='https://developer.android.com/google/play/requirements/target-sdk' rel='noopener'>Google Play target API deadline</a> that forces an update every year.`,
-    pills: [`Plans from ${P.care}`, "5 months free after launch", "Play target-API updates", "Xcode and iOS SDK updates", "Crash monitoring", "Server bills in your name", "Retainer or per-task quotes"],
+    lede: `App maintenance cost in India is not one number: it is a yearly bill made of developer time for OS and SDK updates, server and Firebase usage, crash fixing, store account renewals and small feature changes. BtechWaleTech is three freelance developers who build apps from ${P.app} and include 2 months of free maintenance after launch; after that, plans start from ${P.care}. This page breaks the yearly bill into lines you can check, including the <a href='https://developer.android.com/google/play/requirements/target-sdk' rel='noopener'>Google Play target API deadline</a> that forces an update every year.`,
+    pills: [`Plans from ${P.care}`, "2 months free after launch", "Play target-API updates", "Xcode and iOS SDK updates", "Crash monitoring", "Server bills in your name", "Retainer or per-task quotes"],
     origin: "Three freelance developers in India · Android and iOS upkeep · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Maintenance plans from", `${P.care} · ${P.careUsd}`],
-    ["Free period", "5 months after your app goes live"],
+    ["Free period", "2 months after your app goes live"],
     ["Android deadline", "Target API rises every August on Google Play"],
     ["iOS requirement", "Uploads built with Xcode 26 since April 2026"],
     ["Store accounts", "Google Play US$25 once · Apple US$99 a year"],
     ["Hosting and Firebase", "Billed to your own account"],
   ],
   stats: [
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to get an itemised maintenance quote" },
     { value: "3", label: "Developers: app code, cloud and data, project coordination" },
     { value: "7", label: "Days a week we read and answer WhatsApp" },
   ],
   answer: {
     heading: "What is the app maintenance cost in India per year?",
-    text: `App maintenance cost in India has two parts: developer time and running costs. With BtechWaleTech, the first 5 months after launch are free and ongoing plans start from ${P.care} (${P.careUsd}), covering OS and SDK updates, crash fixes and small changes. Running costs such as servers, Firebase and the US$99 Apple fee are billed to your own accounts.`,
+    text: `App maintenance cost in India has two parts: developer time and running costs. With BtechWaleTech, the first 2 months after launch are free and ongoing plans start from ${P.care} (${P.careUsd}), covering OS and SDK updates, crash fixes and small changes. Running costs such as servers, Firebase and the US$99 Apple fee are billed to your own accounts.`,
     more: `If your app is not live yet, start with our guide to <a href='/app-development-cost-in-india/'>app development cost in India</a>; if another developer built it, see how we handle <a href='/mobile-app-maintenance-services/'>mobile app maintenance services</a> and takeovers.`,
   },
   snapshot: {
     caption: "App upkeep at a glance",
     rows: [
-      { label: "After launch", value: "5 months of free maintenance" },
+      { label: "After launch", value: "2 months of free maintenance" },
       { label: "Ongoing plan", value: `From ${P.care}, scope agreed in writing` },
       { label: "Android yearly update", value: "New target API level each August on Google Play" },
       { label: "iOS yearly update", value: "New Xcode and SDK required for uploads each spring" },
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["Yearly Android and iOS updates", "Only when you remember, often after a rejection", "Usually included; check the fine print", "Planned before each deadline"],
       ["Crash monitoring", "Nobody watches until users complain", "Varies by contract", "Crashlytics and Play vitals reviewed"],
-      ["Cost predictability", "Low: each fix priced separately", "High, but paid upfront for the year", `Monthly, from ${P.care} after 5 free months`],
+      ["Cost predictability", "Low: each fix priced separately", "High, but paid upfront for the year", `Monthly, from ${P.care} after 2 free months`],
       ["Response to urgent bugs", "Depends on who is free", "Defined in the contract, if at all", "WhatsApp 7 days a week, fix quoted first"],
       ["Server and Firebase accounts", "Often in the developer’s name", "Often in the agency’s name", "Always in your name"],
       ["Source code access", "May be on someone’s laptop", "Handed over only if negotiated", "Your repository from day one"],
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How app maintenance cost in India maps to our starting prices",
-    note: `Maintenance is the last row in the table below: after the 5 free months that follow launch, plans start from ${P.care}. That figure covers a modest app, one backend and a handful of SDKs, with the yearly Android and iOS compliance updates planned in. App maintenance cost in India rises with the number of platforms, the count of third-party integrations, how often you want new features, and how busy the backend is. Server, Firebase, SMS and maps usage are separate running costs billed straight to your account, so you always see them. New modules are quoted like a small build, starting from the Android and iOS app row.`,
+    note: `Maintenance is the last row in the table below: after the 2 free months that follow launch, plans start from ${P.care}. That figure covers a modest app, one backend and a handful of SDKs, with the yearly Android and iOS compliance updates planned in. App maintenance cost in India rises with the number of platforms, the count of third-party integrations, how often you want new features, and how busy the backend is. Server, Firebase, SMS and maps usage are separate running costs billed straight to your account, so you always see them. New modules are quoted like a small build, starting from the Android and iOS app row.`,
   },
   guideLabel: "App maintenance cost guide",
   guide: [
@@ -108,7 +108,7 @@ const content: FreelanceContent = {
         `App maintenance cost in India covers everything you pay after launch to keep the app installable, working and accepted by Google Play and the App Store. It splits cleanly into two budgets: people (developer hours) and platforms (servers, services and store accounts).`,
         `The people budget pays for compliance updates, library upgrades, crash fixes, small changes, security patches and releases. The platform budget pays for your hosting or Firebase usage, SMS for OTP, maps or other paid APIs, email delivery, domain and SSL, and the Apple Developer Program renewal. The first budget is what a developer quotes; the second is what your cloud and service providers bill, and it grows with users rather than with features.`,
         `Most confusion about app maintenance cost in India comes from quotes that mix the two. A developer might say “maintenance included” and mean only bug fixes, leaving you to discover later that the server bill, the Play target-API rebuild and the iOS SDK update were never part of it. Another quote might bundle hosting inside a monthly fee, so you cannot tell how much is labour and how much is infrastructure.`,
-        `We keep them apart on purpose. Running costs go to accounts you own, so the invoices come to you directly. Our maintenance plan, from ${P.care} after 5 free months, is only the labour, with a written list of what it includes.`,
+        `We keep them apart on purpose. Running costs go to accounts you own, so the invoices come to you directly. Our maintenance plan, from ${P.care} after 2 free months, is only the labour, with a written list of what it includes.`,
       ],
       list: [
         "<strong>People:</strong> platform updates, SDK upgrades, crash fixes, minor changes, security, release management.",
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
         "<strong>Mix both</strong> by keeping a retainer for platform updates and monitoring, and quoting larger features separately.",
       ],
       after: [
-        `Our maintenance plans start from ${P.care} after the 5 free months; one-off fixes are quoted before any work starts, and terms sit in your written quote alongside our <a href='/terms/'>terms of service</a>.`,
+        `Our maintenance plans start from ${P.care} after the 2 free months; one-off fixes are quoted before any work starts, and terms sit in your written quote alongside our <a href='/terms/'>terms of service</a>.`,
       ],
     },
     {
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
         `Here is a hypothetical case to show the method, not a real client. Say a coaching institute in Indore has a Flutter app on Android and iOS: students log in with OTP, watch recorded lectures, take tests and pay fees by UPI. There is a small admin panel for teachers.`,
         `Counting platforms gives two, so two yearly compliance updates: the Play target-API change before August and the Xcode rebuild each spring. The SDK list includes the payment SDK, a video player, Firebase Auth, Crashlytics and Cloud Messaging, so roughly five to watch. Change requests over the last quarter averaged two small ones a month, such as a new batch timetable screen and a test result format.`,
         `Running costs come from video storage and bandwidth, which will be the largest line once students watch in bulk before exams; OTP SMS on login; and a modest Firestore bill. The institute would pull three months of these invoices to average them and would set a budget alert for exam months.`,
-        `On that profile, a maintenance plan from ${P.care} after the 5 free months covers the compliance updates, SDK upgrades, crash review and the two monthly changes. A new live-class module would be quoted separately. The institute keeps the Play and Apple accounts, the Firebase project and the video storage bill in its own name. For a similar, larger build, see <a href='/education-app-development-cost/'>education app development cost</a>.`,
+        `On that profile, a maintenance plan from ${P.care} after the 2 free months covers the compliance updates, SDK upgrades, crash review and the two monthly changes. A new live-class module would be quoted separately. The institute keeps the Play and Apple accounts, the Firebase project and the video storage bill in its own name. For a similar, larger build, see <a href='/education-app-development-cost/'>education app development cost</a>.`,
       ],
     },
     {
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
       id: "yearly-lines",
       eyebrow: "Yearly budget lines",
       heading: "Every line in a yearly app maintenance budget",
-      note: `Labour lines are covered by our plans from ${P.care} after 5 free months; running costs are billed by providers to you. Compare all plans on our <a href='/pricing/'>pricing page</a>.`,
+      note: `Labour lines are covered by our plans from ${P.care} after 2 free months; running costs are billed by providers to you. Compare all plans on our <a href='/pricing/'>pricing page</a>.`,
       columns: ["Budget line", "Who bills you", "How often", "What changes the size"],
       rows: [
         ["Android target-API update", "Your developer", "Once a year, before August", "Framework version, plugins, screens affected"],
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Booking or ordering app with payments", `Monthly plan from ${P.care}`, "Downtime loses money; several SDKs"],
         ["Marketplace or delivery app", "Monthly plan plus quoted feature sprints", "Many roles, live tracking, frequent change"],
         ["App built by someone else", "Audit first, then a plan", "Unknown code, accounts and keys"],
-        ["App not yet launched", "Build with 5 months free maintenance", "Upkeep planned from the start"],
+        ["App not yet launched", "Build with 2 months free maintenance", "Upkeep planned from the start"],
       ],
     },
   ],
@@ -388,8 +388,8 @@ const content: FreelanceContent = {
   },
   faqHeading: "App maintenance cost in India: questions app owners ask",
   faqs: [
-    { question: "What is the average app maintenance cost in India per year?", answer: `There is no honest single average app maintenance cost in India, because it depends on platforms, SDKs, backend and how often you change things. As a sanity check, many people use 15–20% of the build cost per year for labour. With BtechWaleTech, the first 5 months after launch are free and plans then start from ${P.care}, with servers and store fees billed to your own accounts.` },
-    { question: "How much does it cost to maintain an app per month in India?", answer: `For monthly app maintenance cost in India, labour for a modest app with BtechWaleTech starts from ${P.care} (${P.careUsd}) per month after 5 free months. Add your running costs: Firebase or server usage, OTP SMS, maps and email. Small apps on Firebase’s no-cost Spark plan may pay very little in running costs, while video or real-time apps can pay more for infrastructure than for developers.` },
+    { question: "What is the average app maintenance cost in India per year?", answer: `There is no honest single average app maintenance cost in India, because it depends on platforms, SDKs, backend and how often you change things. As a sanity check, many people use 15–20% of the build cost per year for labour. With BtechWaleTech, the first 2 months after launch are free and plans then start from ${P.care}, with servers and store fees billed to your own accounts.` },
+    { question: "How much does it cost to maintain an app per month in India?", answer: `For monthly app maintenance cost in India, labour for a modest app with BtechWaleTech starts from ${P.care} (${P.careUsd}) per month after 2 free months. Add your running costs: Firebase or server usage, OTP SMS, maps and email. Small apps on Firebase’s no-cost Spark plan may pay very little in running costs, while video or real-time apps can pay more for infrastructure than for developers.` },
     { question: "Is app maintenance really needed if my app works fine?", answer: "Yes, at least once a year, and that is the floor of any app maintenance cost in India. Google Play raises its target API level requirement every August, and Apple requires uploads built with a recent Xcode each spring. An app that works today will eventually be blocked from updates and hidden from new Android users if nobody makes these changes, even if its own code never breaks." },
     { question: "What does an app maintenance plan include?", answer: "A proper plan includes yearly Android and iOS compliance updates, SDK and framework upgrades, crash monitoring and fixes, security patches, small agreed changes and release management with staged rollouts. It should state in writing what is excluded, such as new modules or redesigns, and it should keep hosting and store accounts in your name rather than bundling them into the fee." },
     { question: "Is the 15–20% of development cost rule accurate for maintenance?", answer: "For app maintenance cost in India it is a useful rough check, not a quote. Simple apps with few integrations often need less, while apps with payments, live tracking and weekly changes can need more. The rule also ignores running costs such as servers and SMS. Estimate line by line, then compare with 15–20% of your build invoice to catch quotes that leave something out." },
@@ -403,12 +403,12 @@ const content: FreelanceContent = {
     { question: "What happens if I stop paying for app maintenance?", answer: "Your app maintenance cost in India drops to zero for a while, and nothing visible happens. Then Google Play stops showing the app to new users on newer Android versions, Apple refuses updates built with old Xcode, and SDKs for payments or login expire one by one. When you eventually need a fix, the backlog of upgrades turns it into a much larger and more expensive job." },
     { question: "Does maintenance cost more for Flutter or native apps?", answer: "On app maintenance cost in India, a cross-platform Flutter or React Native app usually costs less to maintain than two separate native apps, because most fixes are made once. It adds framework upgrades and depends on plugins keeping up with new Android and iOS releases. Native apps avoid that layer but double the code to update. Plugin choices at build time matter more than the framework name." },
     { question: "How do you handle urgent app bugs?", answer: "Message us on WhatsApp any day of the week, in English or Hindi, with a screenshot or crash detail. We reply in IST working hours, confirm what is wrong and, if it falls outside your plan, quote the fix before starting. Response commitments beyond that are agreed in your written quote rather than assumed." },
-    { question: "App ka maintenance kharcha kitna aata hai?", answer: `App ka maintenance do hisson mein hota hai: developer ka kaam aur server ka bill. BtechWaleTech ke saath launch ke baad 5 mahine maintenance free hai, uske baad plans ${P.care} se shuru hote hain. Server, Firebase, SMS aur Apple ki US$99 saalana fees seedha aapke account mein bill hoti hai, taaki sab kuch aapke control mein rahe.` },
+    { question: "App ka maintenance kharcha kitna aata hai?", answer: `App ka maintenance do hisson mein hota hai: developer ka kaam aur server ka bill. BtechWaleTech ke saath launch ke baad 2 mahine maintenance free hai, uske baad plans ${P.care} se shuru hote hain. Server, Firebase, SMS aur Apple ki US$99 saalana fees seedha aapke account mein bill hoti hai, taaki sab kuch aapke control mein rahe.` },
     { question: "How do I pay for app maintenance?", answer: `In India, pay by UPI or bank transfer, invoiced from India. International clients pay in USD, from ${P.careUsd} for a plan, by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and billing and cancellation terms are set out in that quote and on our terms page.` },
     { question: "Will maintenance improve my app’s Play Store ranking?", answer: "Maintenance helps indirectly. Google Play considers app quality signals such as crash and ANR rates, and a regularly updated app with answered reviews and current screenshots tends to convert more visitors. No one can guarantee a ranking, but a neglected, crashing app is reliably pushed down and loses installs over time." },
     { question: "Who owns the app code during a maintenance plan?", answer: "You do, throughout. Code lives in a repository in your account, store listings in your Play and Apple accounts, and backends in your cloud account. We work as invited users with limited roles. If you ever end the plan, you remove our access and keep everything, with an access register showing where each key and account lives." },
     { question: "Does app maintenance include new features?", answer: "Small agreed changes, such as a new field, banner or report column, fit inside a monthly plan. New modules, redesigns or integrations are quoted separately like a small project, starting from our app build pricing, so the monthly plan stays predictable and you decide which features are worth paying for." },
-    { question: "What does the free 5-month maintenance after launch cover?", answer: "For apps we build, the 5 months after launch are free maintenance: bugs and crashes that surface in real use get fixed, and the exact scope is listed in your written quote. It is the period when most real-world issues appear. After it ends, you choose whether to continue on a plan from our maintenance starting price or pay per task." },
+    { question: "What does the free 2-month maintenance after launch cover?", answer: "For apps we build, the 2 months after launch are free maintenance: bugs and crashes that surface in real use get fixed, and the exact scope is listed in your written quote. It is the period when most real-world issues appear. After it ends, you choose whether to continue on a plan from our maintenance starting price or pay per task." },
   ],
   related: {
     heading: "Related app, upkeep and cost guides",

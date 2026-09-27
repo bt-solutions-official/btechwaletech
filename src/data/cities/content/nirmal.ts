@@ -56,7 +56,7 @@ const nirmal: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer price, stock and timing questions and route real decisions to you.",
     data: "Season-wise dashboards of purchases, sales, dues from village retailers and orders by state for craft sellers.",
     app: "Android and iOS apps from ₹40,000 for retailer re-orders, patient appointments or college notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Nirmal businesses deal with customers from dozens of villages and three languages, and they want technology that copes with that without fuss. We publish starting prices, send itemised written quotes, reply on WhatsApp every day, and register your domain, hosting, code and app store accounts in your name. If something will not pay for itself, we tell you.",
@@ -185,7 +185,7 @@ const nirmal: CityContent = {
       heading: "Ownership, handover and maintenance for Nirmal clients",
       paragraphs: [
         "Everything we build for you stays yours. The domain, hosting, code repository and Google Play and App Store developer accounts are registered in your name, and all passwords are handed over in writing at launch. If you ever want another developer to take over, they will have everything they need.",
-        "Each project includes five months of free maintenance after launch: fixes, small text and photo changes, backups and security updates. After that, maintenance starts at ₹8,000 a month and you can stop it anytime.",
+        "Each project includes two months of free maintenance after launch: fixes, small text and photo changes, backups and security updates. After that, maintenance starts at ₹8,000 a month and you can stop it anytime.",
         "For a craft seller or a hospital in Nirmal, steady upkeep matters more than a flashy launch. Prices change, doctors join and leave, new pieces are made. A site that is kept current earns trust; one frozen at launch loses it quietly.",
       ],
     },
@@ -278,7 +278,7 @@ const nirmal: CityContent = {
     {
       question: "What maintenance do I get after my Nirmal website launches?",
       answer:
-        "Five months of free maintenance is included, covering fixes, small edits, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be stopped whenever you like. Your domain, hosting, code and app store accounts remain in your name throughout.",
+        "Two months of free maintenance is included, covering fixes, small edits, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be stopped whenever you like. Your domain, hosting, code and app store accounts remain in your name throughout.",
     },
     {
       question: "Can Basara lodges take bookings through a website?",

@@ -56,7 +56,7 @@ const savarkundla: CityContent = {
     ai: "WhatsApp assistants that answer model, capacity, price and delivery questions in Gujarati or Hindi and pass serious leads to you.",
     data: "Dashboards of orders by model and state, dealer dues, production batches and yard purchases by season.",
     app: "Android and iOS apps for scale dealers to re-order stock or for field staff to log service visits, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Savarkundla's manufacturers know the value of an honest weight, and they expect the same from anyone they pay. We publish starting prices, send an itemised written quote, reply on WhatsApp every day of the week, and register your domain, hosting, code and app store accounts in your name from day one.",
@@ -177,7 +177,7 @@ const savarkundla: CityContent = {
       heading: "Ownership and maintenance for Savarkundla websites and apps",
       paragraphs: [
         "Many small-town websites disappear because the designer registered the domain in his own name and later stopped answering. We register the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts in your name, and hand over every login in writing.",
-        "Maintenance is free for five months after launch: model and price updates, backups, security patches, software updates and regular checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can take the full code to another developer at any time.",
+        "Maintenance is free for two months after launch: model and price updates, backups, security patches, software updates and regular checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can take the full code to another developer at any time.",
         "Apps need yearly updates because Google and Apple keep changing their rules. We follow those changes and update your app before deadlines so it stays in the stores.",
       ],
     },
@@ -274,7 +274,7 @@ const savarkundla: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. You can take the full code to another developer whenever you wish.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. You can take the full code to another developer whenever you wish.",
     },
     {
       question: "Do you work in Amreli, Rajula and Mahuva too?",

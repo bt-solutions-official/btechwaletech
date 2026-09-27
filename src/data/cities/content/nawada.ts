@@ -31,11 +31,11 @@ const nawada: CityContent = {
     eyebrow: "Nawada · Magadh, Bihar",
     h1: "Websites, software, SEO and AI tools for Nawada's shops, clinics and coaching centres",
     lede:
-      "A remote team of three engineers building websites, Google Maps profiles, small online stores and WhatsApp automation for Nawada district: traders around Prajatantra Chowk, doctors and diagnostic labs, coaching and school owners, silk weavers of Kadirganj, and dealers in Hisua, Warisaliganj and Rajauli. We publish our starting prices and keep your site maintained free for five months.",
+      "A remote team of three engineers building websites, Google Maps profiles, small online stores and WhatsApp automation for Nawada district: traders around Prajatantra Chowk, doctors and diagnostic labs, coaching and school owners, silk weavers of Kadirganj, and dealers in Hisua, Warisaliganj and Rajauli. We publish our starting prices and keep your site maintained free for two months.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Google Maps profile setup", "Coaching and clinic sites", "WhatsApp enquiry records"],
   },
   quickAnswer:
-    "For a Nawada business, a static website with us starts from ₹10,000 and is ready in about one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Nawada office, and the first five months of maintenance after launch are free.",
+    "For a Nawada business, a static website with us starts from ₹10,000 and is ready in about one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Nawada office, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Nawada district in Magadh division, a separate district since 26 January 1973" },
     { label: "Town", value: "About 81,000 people in 2011, split by the Khuri river into an older left bank and a newer right bank" },
@@ -52,7 +52,7 @@ const nawada: CityContent = {
     ai: "WhatsApp replies that give fees, timings or stock in Hindi and pass anything serious to you with the chat attached.",
     data: "Admission, sales and collection records from registers turned into a phone dashboard you can actually read.",
     app: "Android and iPhone apps for test series, school notices or repeat orders, published on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Five free months of edits, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two free months of edits, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Nawada businesses often end up with a site made by someone in Patna who never answers after the payment, or no site at all. We publish our starting prices, send every quote in writing with each item listed, and answer on WhatsApp seven days a week, directly from the engineers who build the work.",
@@ -178,7 +178,7 @@ const nawada: CityContent = {
       paragraphs: [
         "A common problem in district towns is a website whose domain sits in the developer's account. When that developer changes numbers or loses interest, the owner cannot update the site or renew the domain, and the address is lost with whatever search ranking it had built.",
         "We register the domain and hosting in your name, using your email, from the start. At launch you receive every login, the full source code and a short explanation of how everything is set up. You can move to another developer at any time without asking us and without any exit charge.",
-        "Maintenance is free for five months after launch: edits to text and prices, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month, or contact us only when you need something done. The <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
+        "Maintenance is free for two months after launch: edits to text and prices, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month, or contact us only when you need something done. The <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const nawada: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle text and price edits, bug fixes, security updates, backups and uptime and speed checks without charge. Afterwards, maintenance continues from ₹8,000 a month, or you can simply contact us whenever a change is needed.",
+        "For two months after launch we handle text and price edits, bug fixes, security updates, backups and uptime and speed checks without charge. Afterwards, maintenance continues from ₹8,000 a month, or you can simply contact us whenever a change is needed.",
     },
     {
       question: "How soon will SEO show results in Nawada?",

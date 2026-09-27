@@ -52,7 +52,7 @@ const davanagere: CityContent = {
     ai: "WhatsApp assistants that answer admission, appointment and rate questions in Kannada and English and pass serious enquiries to your staff.",
     data: "Dashboards showing admissions by course, patients by department or purchases by season, built from spreadsheets and Tally.",
     app: "Android and iOS apps for college attendance, hospital queues and field collection agents, one Flutter build listed on Google Play and the App Store.",
-    maintenance: "Content changes, notices, backups and security updates, free for five months and from ₹8,000 a month afterwards.",
+    maintenance: "Content changes, notices, backups and security updates, free for two months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Davanagere clients tend to ask direct questions: how much, how long, and who owns the site. We answer all three in writing before any work starts, reply on WhatsApp every day of the week, and hand over every login and the source code at launch, so you are never stuck with us.",
@@ -182,11 +182,11 @@ const davanagere: CityContent = {
     },
     {
       id: "ownership-davanagere",
-      heading: "You own the site, and maintenance is free for five months",
+      heading: "You own the site, and maintenance is free for two months",
       paragraphs: [
         "Many Davanagere institutions have learned the hard way that a website is only as safe as the account it sits in. A college's domain registered by a former staff member, a hospital site hosted on a developer's reseller account, an expired renewal nobody saw: each can take a site offline for weeks.",
         "We register everything to you. The domain is in your organisation's name, hosting is on your account, and at launch you receive every login, the source code and a short written guide to the setup. You can move to another developer whenever you choose, with no exit fee.",
-        "For five months after launch, maintenance is free: content and notice updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you can <a href=\"/contact/\">reach us</a> only when you need a change.",
+        "For two months after launch, maintenance is free: content and notice updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you can <a href=\"/contact/\">reach us</a> only when you need a change.",
       ],
     },
   ],
@@ -278,7 +278,7 @@ const davanagere: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle content and notice updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you pay only for changes when you need them.",
+        "For two months after launch we handle content and notice updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you pay only for changes when you need them.",
     },
     {
       question: "How do I get started?",

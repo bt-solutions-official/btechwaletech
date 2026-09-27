@@ -57,7 +57,7 @@ const muktsar: CityContent = {
     ai: "Punjabi WhatsApp assistants that answer rate, stock, admission and appointment questions and pass serious deals to you.",
     data: "Season dashboards of arrivals, payments outstanding, jutti orders by size and admissions by course.",
     app: "Android and iOS apps for farmers checking dues with their arhtiya or students following a coaching batch, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Muktsar business runs on long relationships between arhtiyas, farmers and shopkeepers, and nobody likes surprises in the account. We work the same way: public starting prices, an itemised written quote, WhatsApp replies on all seven days, and the domain, hosting, code and store accounts registered in your name.",
@@ -172,7 +172,7 @@ const muktsar: CityContent = {
       heading: "IT services team in Muktsar without an office: how we work and what you own",
       paragraphs: [
         "Working remotely means we write everything down. After a first call you receive a page or screen plan, a timeline and an itemised quote. Once you approve, you follow progress on preview links on your own phone and can show them to family or partners. We answer WhatsApp every day of the week on Indian Standard Time, and Punjabi text is sent for your check before it goes live.",
-        "Everything is registered in your name: domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts. Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it, and you can move to another developer whenever you like.",
+        "Everything is registered in your name: domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts. Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it, and you can move to another developer whenever you like.",
         "Payments follow visible progress, and nothing is billed before the quote is approved in writing. To start, <a href=\"/contact/\">send us a message</a> describing your business.",
       ],
     },
@@ -264,7 +264,7 @@ const muktsar: CityContent = {
     {
       question: "What maintenance do you give after launch?",
       answer:
-        "The first five months of maintenance are free, including updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can take the code to another developer at any time.",
+        "The first two months of maintenance are free, including updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can take the code to another developer at any time.",
     },
     {
       question: "Do you work in Malout, Gidderbaha and Kotkapura too?",

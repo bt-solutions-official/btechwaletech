@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who all know your project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees between you and the developers" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Live call window", value: "UK morning to early afternoon, most days" },
       { label: "Personal data", value: "Minimised access, DPA and transfer terms agreed" },
       { label: "Hosting", value: "UK or EU region, in your account" },
-      { label: "After launch", value: `5 months free, then from ${P.careUsd}` },
+      { label: "After launch", value: `2 months free, then from ${P.careUsd}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Search-focused sites", note: `Service and location pages across UK towns, generated from structured data, from ${P.seoSiteUsd}.`, href: "/seo-website-developer/", size: "md" },
       { name: "Redesign and migration", note: "Move off an ageing site or builder while keeping URLs, redirects and search traffic intact.", href: "/website-migration-freelancer/", size: "sm" },
       { name: "AI and workflow automation", note: `Email triage, document reading and CRM updates, built with data protection in mind, from ${P.aiUsd}.`, href: "/ai-automation-freelancer/", size: "sm" },
-      { name: "Maintenance", note: `Updates, backups and small edits after five free months, from ${P.careUsd} a month.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Updates, backups and small edits after two free months, from ${P.careUsd} a month.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -171,7 +171,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance web developer for UK clients cost?",
       paragraphs: [
         `Quotes vary widely across UK and offshore freelancers, and the gap is mostly explained by scope, experience and how much support is included, not by location alone. Compare line items, not totals.`,
-        `Our starting prices in USD: a business website of up to 100 pages from ${P.siteUsd}, a search-focused site with 299+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, a custom web app or portal from ${P.softwareUsd}, an Android and iOS app from ${P.appUsd}, and AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd}, and maintenance after five free months starts at ${P.careUsd}.`,
+        `Our starting prices in USD: a business website of up to 100 pages from ${P.siteUsd}, a search-focused site with 299+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, a custom web app or portal from ${P.softwareUsd}, an Android and iOS app from ${P.appUsd}, and AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd}, and maintenance after two free months starts at ${P.careUsd}.`,
         `UK-specific work can add lines: a detailed cookie audit, accessibility testing beyond the standard checks, a Welsh-language version, integration with UK accounting or delivery services, or content written in a UK voice. Each appears separately so you can decide. For hourly versus project billing across markets, see <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`,
       ],
     },
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show the flow, not a client story.`,
         `A two-van heating and plumbing business in the English Midlands wants a new website. Its old one runs on a builder, loads slowly and has a contact form that emails the owner’s personal address. The owner wants more boiler service bookings and less time on the phone.`,
-        `Week one, over a morning video call, we agree the pages: home, boiler servicing, boiler installation, repairs, landlord gas safety certificates, areas covered, about, reviews linking to their existing profile, and contact. The quote starts from ${P.siteUsd} with separate lines for a booking request form and for writing the service pages. Domain, hosting in a London region and Search Console are set up under the owner’s email. The form asks only for name, phone, postcode, job type and preferred day, and sends to a shared business inbox. The cookie banner blocks analytics until consent, and the footer carries the company number and registered office. Week two, we publish, redirect the old URLs, and hand over logins and a short note on handling data requests. The five free months cover new service areas and seasonal offers.`,
+        `Week one, over a morning video call, we agree the pages: home, boiler servicing, boiler installation, repairs, landlord gas safety certificates, areas covered, about, reviews linking to their existing profile, and contact. The quote starts from ${P.siteUsd} with separate lines for a booking request form and for writing the service pages. Domain, hosting in a London region and Search Console are set up under the owner’s email. The form asks only for name, phone, postcode, job type and preferred day, and sends to a shared business inbox. The cookie banner blocks analytics until consent, and the footer carries the company number and registered office. Week two, we publish, redirect the old URLs, and hand over logins and a short note on handling data requests. The two free months cover new service areas and seasonal offers.`,
       ],
     },
     {
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],
         ["AI automation", `From ${P.aiUsd}`, `From ${P.ai}`, "2–4 weeks"],
         ["Monthly SEO", `From ${P.seoUsd}`, `From ${P.seo}`, "Ongoing"],
-        ["Maintenance after 5 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Sign the paperwork", "Scope, ownership and, if we will touch personal data, a data processing agreement and transfer terms your adviser is happy with."],
       ["Set up accounts in your name", "Domain, hosting in a UK or EU region, repository and analytics under your business email, with individual access and MFA for us."],
       ["Build and review on staging", "Progress appears on a private link overnight UK time. You review in your morning and reply on the shared thread."],
-      ["Launch, hand over, five free months", "We launch, hand over logins and notes, and keep changes free for five months. After that, maintenance continues from " + P.careUsd + " if you want it."],
+      ["Launch, hand over, two free months", "We launch, hand over logins and notes, and keep changes free for two months. After that, maintenance continues from " + P.careUsd + " if you want it."],
     ],
   },
   faqHeading: "Freelance web developer for UK clients: questions answered",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Do UK company websites need to show company details?", answer: "Yes. UK limited companies should display their registered name, company number, place of registration and registered office address on their website, commonly in the footer or on a legal page. We add these from the details you provide, along with a privacy notice template and cookie information." },
     { question: "Can you work as a white-label partner for a UK agency?", answer: "Yes. UK agencies send us builds to deliver under their own brand, with confidentiality terms agreed in writing and no contact with the end client unless the agency wants it. Process, pricing and handover follow the same itemised approach, and the agency keeps ownership of the relationship." },
     { question: "Will you meet me in person in the UK?", answer: "No. All our work is remote, over video calls, screen sharing and a shared message thread. For most website projects that covers everything an in-person meeting would. If on-site workshops or visits to your premises matter to you, a UK-based freelancer is the better choice." },
-    { question: "What happens after my UK website launches?", answer: `Five months of free maintenance follow launch, covering small edits, fixes, updates and backups. After that, maintenance is optional and starts from ${P.careUsd} a month. You can also take the site in-house or give it to another developer, since every account and all code are already in your name.` },
+    { question: "What happens after my UK website launches?", answer: `Two months of free maintenance follow launch, covering small edits, fixes, updates and backups. After that, maintenance is optional and starts from ${P.careUsd} a month. You can also take the site in-house or give it to another developer, since every account and all code are already in your name.` },
     { question: "Can you help with SEO on google.co.uk?", answer: `Yes. Every build includes the basics: UK English titles and descriptions, clean URLs, schema, a sitemap and Google Search Console. Ongoing SEO, including content and local search work for the towns you serve, starts at ${P.seoUsd} a month. Nobody can honestly guarantee rankings, and we will not promise any.` },
     { question: "What if a developer in India becomes unavailable mid-project?", answer: "With accounts and code already in your name, another developer can continue with little disruption. BtechWaleTech is a team of three who share each project’s code and notes, so one person being away does not stop the work or lock you out of anything." },
   ],

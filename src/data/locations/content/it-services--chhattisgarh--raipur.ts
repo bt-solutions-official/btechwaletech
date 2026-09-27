@@ -40,10 +40,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Raipur for ERP-style tools, transport apps, AI agents and cloud",
     lede:
       "BtechWaleTech is a freelance group of three engineers who work remotely for Raipur businesses: order-to-dispatch tools for Siltara and Urla manufacturers, trip and freight software for Tatibandh transporters, distributor apps, real estate CRMs, MVPs for Nava Raipur startups, AI agents, dashboards and corporate websites. Prices start where they are published, and the developers answer your messages themselves.",
-    pills: ["ERP-style tools from ₹60,000", "AI agents from ₹40,000", "Android and iOS apps from ₹40,000", "Management dashboards", "5 months free maintenance"],
+    pills: ["ERP-style tools from ₹60,000", "AI agents from ₹40,000", "Android and iOS apps from ₹40,000", "Management dashboards", "2 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Raipur firms from ₹60,000 for custom software or ERP-style tools (six to twelve weeks), ₹40,000 for Android and iOS apps (six to ten weeks) or AI agents, ₹50,000 for online stores and ₹10,000 for corporate websites. We are three remote engineers in India, with five months of free maintenance.",
+    "BtechWaleTech's freelance software developers build for Raipur firms from ₹60,000 for custom software or ERP-style tools (six to twelve weeks), ₹40,000 for Android and iOS apps (six to ten weeks) or AI agents, ₹50,000 for online stores and ₹10,000 for corporate websites. We are three remote engineers in India, with two months of free maintenance.",
   snapshot: [
     { label: "Industrial belts", value: "Siltara, Urla, Bhanpuri and Sondongri, with steel re-rolling, sponge iron, fabrication, plastics and food processing units" },
     { label: "Wholesale and retail", value: "Pandri cloth market, Gol Bazar, Sadar Bazar, Malviya Road and the Ganj grain market around the old city" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders and LR copies, answer rate and availability questions on WhatsApp, and prepare daily summaries for owners.",
     data: "Management dashboards for production, dispatch, freight, sales and collections that pull from Tally, spreadsheets and your custom software.",
     app: "Android and iOS apps from ₹40,000 for Raipur drivers, dealers, home buyers and patients, built in Flutter or React Native and released on Google Play and the App Store.",
-    maintenance: "Backups, updates, fixes and monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, updates, fixes and monitoring, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Raipur has capable software firms and plenty of website designers, but mid-sized manufacturers and transporters often fall between them: too specific for a packaged ERP, too complex for a template. As a freelance group of three engineers we build that specific tool, explain it in Hindi, and remain reachable on WhatsApp after launch.",
@@ -219,7 +219,7 @@ const content: CityContent = {
       heading: "What do freelance software developers in Raipur cost, and how long does it take?",
       paragraphs: [
         "BtechWaleTech's starting prices for Raipur are ₹60,000 for custom software, ERP-style tools or web apps (six to twelve weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store (four to eight weeks), ₹10,000 for a corporate website (one to two weeks) and ₹20,000 for a 299+ page SEO site. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Android and iOS apps start at ₹40,000 and take six to ten weeks.",
-        "Scope drives cost: user roles, plants or branches, reports, integrations with Tally, GPS, weighbridges or payment gateways, offline apps and data migration. Every project includes five months of free maintenance after launch, covering fixes, updates, backups and small changes. We answer on WhatsApp seven days a week, and urgent issues come first. Read more <a href='/about/'>about us</a> or compare with <a href='/it-services/chhattisgarh/bhilai/'>Bhilai</a> and <a href='/it-services/chhattisgarh/durg/'>Durg</a>.",
+        "Scope drives cost: user roles, plants or branches, reports, integrations with Tally, GPS, weighbridges or payment gateways, offline apps and data migration. Every project includes two months of free maintenance after launch, covering fixes, updates, backups and small changes. We answer on WhatsApp seven days a week, and urgent issues come first. Read more <a href='/about/'>about us</a> or compare with <a href='/it-services/chhattisgarh/bhilai/'>Bhilai</a> and <a href='/it-services/chhattisgarh/durg/'>Durg</a>.",
       ],
     },
   ],
@@ -290,7 +290,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free after hosting goes live, covering bug fixes, security and library updates, backups, uptime and speed checks, and small changes such as new fields or reports. Afterwards, plans start at ₹8,000 a month, or you can pay per request. Requests are answered on WhatsApp seven days a week.",
+        "Two months of maintenance are free after hosting goes live, covering bug fixes, security and library updates, backups, uptime and speed checks, and small changes such as new fields or reports. Afterwards, plans start at ₹8,000 a month, or you can pay per request. Requests are answered on WhatsApp seven days a week.",
     },
     {
       question: "How long will SEO take to show results in Raipur?",

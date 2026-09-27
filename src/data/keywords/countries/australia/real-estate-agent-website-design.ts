@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Suburb-heavy SEO build", `From ${P.seoSite}`],
     ["Quote", "Itemised within about 2 working days"],
     ["Listing sources", "Rex, VaultRE, Agentbox and similar CRMs"],
-    ["Aftercare", `5 free months, then from ${P.care}`],
+    ["Aftercare", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to receive your quote" },
-    { value: "5", label: "Months of free maintenance post-launch" },
+    { value: "2", label: "Months of free maintenance post-launch" },
     { value: "0", label: "Per-lead fees on enquiries from your own site" },
   ],
   answer: {
@@ -183,7 +183,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, real estate agent website design starts from ${P.site} for a single-office agency site with CRM-fed listings, and from ${P.seoSite} for multi-office agencies with extensive suburb content. Quotes elsewhere vary widely, from template subscriptions to fully custom agency builds, and the difference usually comes from design depth, feed complexity and ongoing marketing.`,
         `The main cost drivers are the CRM integration (a well-documented API is quicker than a legacy feed), the number of offices and suburbs, custom search features such as map search or saved searches, and how much copy we write for agent profiles and suburb pages. Listing pages themselves are generated from the feed, so a hundred active listings do not cost more than ten.`,
-        `Running costs are yours to pay directly: domain, hosting, any address autocomplete or mapping service fees, and your CRM subscription. Maintenance is free for five months, then optional from ${P.care} per month, which includes monitoring that the feed keeps working. The <a href='/australia/website-design-cost/'>website design cost guide for Australia</a> compares scopes across industries.`,
+        `Running costs are yours to pay directly: domain, hosting, any address autocomplete or mapping service fees, and your CRM subscription. Maintenance is free for two months, then optional from ${P.care} per month, which includes monitoring that the feed keeps working. The <a href='/australia/website-design-cost/'>website design cost guide for Australia</a> compares scopes across industries.`,
       ],
     },
     {
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
       ["Structure and appraisal flow", "We map pages, agent profiles, suburb pages and routing rules, and wireframe the appraisal flow so you can test it before design."],
       ["Build with live listings", "The site is built on a preview link, the feed is connected, and we test withheld prices, auctions, withdrawals and off-market handling with your data."],
       ["Content and approvals", "Agent bios and suburb pages are drafted from your input and approved by the principal, including all price display wording."],
-      ["Midweek launch and aftercare", "We launch midweek, redirect old URLs, submit the sitemap to Google Search Console, and monitor the feed during five free months of maintenance."],
+      ["Midweek launch and aftercare", "We launch midweek, redirect old URLs, submit the sitemap to Google Search Console, and monitor the feed during two free months of maintenance."],
     ],
   },
   faqHeading: "Real estate agent website design: questions agencies ask",
@@ -371,8 +371,8 @@ const content: FreelanceContent = {
     { question: "What are your working hours for Australian agencies?", answer: "India is four and a half hours behind the eastern states in winter and five and a half behind the daylight-saving states in summer; Brisbane stays four and a half hours ahead all year. Your afternoon is our morning, and Perth is just two and a half hours ahead of India. We answer WhatsApp seven days a week, including weekends." },
     { question: "How do agencies pay for the build?", answer: "You receive an itemised quote in USD, invoices come from India, and payment is by Wise, bank wire or PayPal. The payment schedule is written into the quote, and nothing is billed before your written approval. Speak with your accountant about how the expense is treated in your books." },
     { question: "Who owns the website and listing data?", answer: "Your agency. The domain, hosting, analytics, Google Business Profiles and website code are in your agency's name, and listing data stays in your CRM. We hand over every login at launch. If you move to another developer or change CRM, the site and its content go with you." },
-    { question: "Can our office manager edit the site?", answer: "Yes. Suburb pages, agent bios, news, property management information and office details can be edited without a developer, and we provide a recorded walkthrough. Listings update from the CRM automatically, so nobody needs to touch them on the website. Small edits are included in the five free months of maintenance." },
-    { question: "What happens after the five free months of maintenance?", answer: `You can manage the site yourself, hand it to another developer, or keep us on from ${P.care} per month for updates, backups, security and feed monitoring. Any ongoing arrangement is agreed in writing, and our terms and refund policy pages set out how agreements work.` },
+    { question: "Can our office manager edit the site?", answer: "Yes. Suburb pages, agent bios, news, property management information and office details can be edited without a developer, and we provide a recorded walkthrough. Listings update from the CRM automatically, so nobody needs to touch them on the website. Small edits are included in the two free months of maintenance." },
+    { question: "What happens after the two free months of maintenance?", answer: `You can manage the site yourself, hand it to another developer, or keep us on from ${P.care} per month for updates, backups, security and feed monitoring. Any ongoing arrangement is agreed in writing, and our terms and refund policy pages set out how agreements work.` },
     { question: "Can you build a real estate app as well as the website?", answer: `Yes, Android and iOS apps start from ${P.app}. For most agencies an app adds little over a fast mobile website, because buyers already use portal apps. An app can make sense for property management, such as tenant maintenance requests and landlord statements, if your CRM does not already offer a client app.` },
     { question: "Do you photograph properties or write listing copy?", answer: "No. Property photography, floor plans and listing descriptions come from your team and suppliers through the CRM, and the website displays them. We can draft agent profiles and suburb pages from your input, and we optimise images for speed, but we do not visit properties or take photos." },
   ],

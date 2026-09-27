@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Messaging channel", "Official WhatsApp Business Platform"],
     ["Store platform", "WooCommerce on WordPress"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who read your store’s code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Middleman fees added to Meta’s message charges" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Starting price", value: `From ${P.ai} (${P.aiUsd})` },
       { label: "Timeline", value: "2–4 weeks, including Meta template review" },
       { label: "Meta’s charges", value: "Billed by Meta per message to your own account" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
         `There are two separate costs: the one-time integration build, which starts from ${P.ai} with BtechWaleTech, and Meta’s per-message charges, which Meta bills to your own account. Keeping them separate is the most important thing to check in any quote.`,
         `The build cost depends on how many flows you want and how clean the store is. A store that only needs order and dispatch messages is at the starting end. Each extra flow, whether COD confirmation with write-back, OTP login, abandoned-cart reminders or a support bot, adds a line. Custom statuses, multi-warehouse stock and courier integrations add more. A store with conflicting plugins or no staging copy may need tidying first.`,
         `Meta’s charges vary by template category and the recipient’s country, and Meta publishes its current rate cards. Our <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost in India</a> page walks through how those charges work. We don’t resell messages or add a margin to them.`,
-        `Running costs for a custom build are usually small: a modest cloud instance or serverless function for the webhook service. We set it up in your cloud account so the bill is yours and transparent. After the five free months, maintenance starts from ${P.care} a month if you want us to keep watching it.`,
+        `Running costs for a custom build are usually small: a modest cloud instance or serverless function for the webhook service. We set it up in your cloud account so the bill is yours and transparent. After the two free months, maintenance starts from ${P.care} a month if you want us to keep watching it.`,
       ],
     },
     {
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
         ["Plus OTP login and support bot", `From ${P.ai}, quoted per flow`, `From ${P.aiUsd}`, "3–4 weeks", "Stores with repeat buyers"],
         ["New WooCommerce store with WhatsApp built in", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "New brands or full rebuilds"],
         ["Custom portal (B2B ordering, dealer pricing)", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Wholesalers and distributors"],
-        ["Monthly care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Template edits, monitoring, updates"],
+        ["Monthly care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Template edits, monitoring, updates"],
       ],
       hideSm: [2],
     },
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Build on staging", "We write the webhook receiver or configure the plugin, add COD or OTP flows, and connect write-back so replies update orders. Nothing touches your live store yet."],
       ["Test with real phones", "We run orders through every status on staging using real WhatsApp numbers, including failures, wrong replies and slow courier APIs, and fix what breaks."],
       ["Go live on a quiet day", "We switch on messages on a weekday morning, keep email notifications as a backup for a week, and watch delivery and replies with you."],
-      ["Handover and care", "You get the code, credentials list and a short guide to editing templates. Five months of free maintenance follow, then monthly care if you want it."],
+      ["Handover and care", "You get the code, credentials list and a short guide to editing templates. Two months of free maintenance follow, then monthly care if you want it."],
     ],
   },
   faqHeading: "WooCommerce WhatsApp integration: questions store owners ask",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Is WooCommerce WhatsApp integration safe for customer data?", answer: "It is when built carefully. We keep API tokens in server environment variables, check signatures on every webhook, store only the order fields messages need and delete logs on an agreed schedule. Opt-in is recorded at checkout. Your own lawyer should confirm your privacy notice meets India’s data protection law for your business." },
     { question: "WooCommerce WhatsApp integration kaise kare bina developer ke?", answer: "Bina developer ke aap ek plugin install karke basic order messages chala sakte hain, lekin Meta Business account, number verification aur template approval aapko khud karne honge. COD confirmation, OTP login ya custom status ke liye developer ki zarurat padti hai. Hum yeh setup aapke saath screen share par karte hain aur account aapke naam par hi rehta hai." },
     { question: "Do you also build WhatsApp integrations for Shopify or custom stores?", answer: "Yes. Shopify stores follow a similar idea using Shopify’s own webhooks and apps, and custom stores or billing systems can send events to the same kind of message service. If you sell mainly through chats rather than a website, a WhatsApp catalogue and ordering setup may suit you better than a WooCommerce integration." },
-    { question: "What happens after the integration goes live?", answer: "You get five months of free maintenance covering fixes, template edits after Meta rejections, WooCommerce and plugin update checks, and monitoring alerts. After that, monthly care starts from the maintenance starting price if you want us to keep watching delivery rates and webhooks. You can also manage it yourself using the handover guide." },
+    { question: "What happens after the integration goes live?", answer: "You get two months of free maintenance covering fixes, template edits after Meta rejections, WooCommerce and plugin update checks, and monitoring alerts. After that, monthly care starts from the maintenance starting price if you want us to keep watching delivery rates and webhooks. You can also manage it yourself using the handover guide." },
   ],
   related: {
     heading: "More on WhatsApp automation and WooCommerce",
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want WooCommerce orders to talk to buyers on WhatsApp?",
-    note: `Send us your store link and the messages you wish went out automatically. You will get an itemised quote in about two working days, with integration work starting from ${P.ai}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send us your store link and the messages you wish went out automatically. You will get an itemised quote in about two working days, with integration work starting from ${P.ai}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

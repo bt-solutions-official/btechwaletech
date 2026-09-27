@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Export software from ₹60,000", "Android and iOS apps from ₹40,000", "Port and seafood workflows", "Telugu and English", "UPI QR or bank transfer only"],
   },
   quickAnswer:
-    "To hire freelance IT and software developers in Kakinada, BtechWaleTech offers a remote group of three engineers. Custom software starts from ₹60,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Projects take one to twelve weeks, quotes arrive in about two working days, and five months of maintenance are free.",
+    "To hire freelance IT and software developers in Kakinada, BtechWaleTech offers a remote group of three engineers. Custom software starts from ₹60,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Projects take one to twelve weeks, quotes arrive in about two working days, and two months of maintenance are free.",
   snapshot: [
     { label: "Port", value: "Kakinada deep water port and the older anchorage port, handling rice, fertiliser, edible oil, cement and other bulk cargo" },
     { label: "Energy", value: "Base for Krishna-Godavari (KG) basin offshore oil and gas operations and their service contractors" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that read shipping and purchase documents, answer buyer or patient questions on WhatsApp, and route leads for Kakinada firms.",
     data: "Dashboards for Kakinada processors and traders showing procurement, yield, shipments, dues and cash flow in one view.",
     app: "Android and iOS apps from ₹40,000 for Kakinada agents, supervisors, drivers and patients, built in Flutter or React Native with offline sync and published on both app stores.",
-    maintenance: "Updates, fixes, backups and monitoring for Kakinada systems, five months free after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, fixes, backups and monitoring for Kakinada systems, two months free after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Kakinada businesses often end up hiring developers from Vizag, Hyderabad or Chennai and paying for their overheads. We are a freelance group of three engineers who work remotely, publish prices, hand over every account and reply on WhatsApp seven days a week.",
@@ -160,7 +160,7 @@ const content: CityContent = {
       paragraphs: [
         "A dashboard for a Kakinada owner brings procurement, production, shipments, receivables and cash into one screen that updates automatically from your software, Tally and spreadsheets. Instead of waiting for month-end, the owner sees today's position, including which buyers owe money and which containers are pending.",
         "Systems are hosted on AWS or comparable platforms in an Indian region with daily backups, HTTPS, uptime and error monitoring. Websites built with Astro are served from fast edge networks. Code lives in a Git repository registered to your business, and changes pass through a staging copy before going live.",
-        "Support covers bug fixes, updates, backups and small enhancements, free for five months after launch and from ₹8,000 a month afterwards. We work remotely and do not provide on-site hardware or network repairs.",
+        "Support covers bug fixes, updates, backups and small enhancements, free for two months after launch and from ₹8,000 a month afterwards. We work remotely and do not provide on-site hardware or network repairs.",
       ],
     },
     {
@@ -212,7 +212,7 @@ const content: CityContent = {
       paragraphs: [
         "Software in Kakinada with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce, ₹20,000 for an SEO website and ₹10,000 for a static website. Custom systems take six to twelve weeks, automation two to four weeks, stores four to eight weeks and websites one to five weeks.",
         "The final quote depends on modules, roles, integrations with Tally, WhatsApp or courier services, foreign-currency invoicing, data migration and how quickly sample documents and approvals arrive. Starting with procurement or job files, then adding modules, keeps the first release affordable.",
-        "Payment is accepted only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote. Five months of maintenance after launch are included.",
+        "Payment is accepted only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote. Two months of maintenance after launch are included.",
       ],
     },
     {
@@ -276,7 +276,7 @@ const content: CityContent = {
     { question: "Can AI read our invoices and packing lists?", answer: "Yes, in most cases. An AI step can read PDFs or photos of bills, purchase orders, packing lists and lab reports and fill a checking sheet or your software. Staff confirm the extracted fields before they are saved. AI automation starts from ₹40,000." },
     { question: "Can you make a website for our KG basin or industrial services firm?", answer: "Yes. We build English capability websites with services, equipment, safety credentials and project types described factually, plus RFQ forms that reach the right person. We never invent client names or claims; only details you can verify go on the site." },
     { question: "Will we own the software and accounts?", answer: "Yes. Domain, hosting, cloud, WhatsApp Business and payment gateway accounts, and the code repository, are registered to your business wherever possible. You receive every credential and a short technical guide at handover." },
-    { question: "What is included in free maintenance?", answer: "Five months of maintenance after launch: bug fixes, small changes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change." },
+    { question: "What is included in free maintenance?", answer: "Two months of maintenance after launch: bug fixes, small changes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change." },
     { question: "Can you sell Uppada sarees or Kakinada kaja online?", answer: "Yes. Stores start from ₹50,000 with product pages, UPI and card checkout through a gateway account in your name, courier integration and WhatsApp order updates. We plan detailed saree photos and care notes, and clear shipping limits for sweets." },
     { question: "How long before SEO brings results in Kakinada?", answer: "Local visibility can improve within weeks of technical fixes and an optimised Google Business Profile, since competition in Kakinada is moderate. National product searches usually need three to six months or more. We report monthly and never guarantee rankings." },
     { question: "Can the software be in Telugu?", answer: "Yes. Screens, messages and website pages can be in Telugu, English or both, with Telugu text written or reviewed by a native speaker you approve. AI agents are tested on Telugu and mixed-language messages before launch." },

@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Billing and inventory tools", "Cloud hosting in your name", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech, a freelance group of software developers serving Panaji, builds custom web apps and billing systems from ₹60,000 in six to twelve weeks, AI agents from ₹40,000, Android and iOS apps from ₹40,000 in six to ten weeks, and websites from ₹10,000. We are three remote engineers with no Panaji office, and five months of maintenance is free after launch.",
+    "BtechWaleTech, a freelance group of software developers serving Panaji, builds custom web apps and billing systems from ₹60,000 in six to twelve weeks, AI agents from ₹40,000, Android and iOS apps from ₹40,000 in six to ten weeks, and websites from ₹10,000. We are three remote engineers with no Panaji office, and two months of maintenance is free after launch.",
   snapshot: [
     { label: "Status", value: "Capital of Goa and headquarters of North Goa district, on the south bank of the Mandovi in Tiswadi taluka" },
     { label: "Office cluster", value: "Patto Plaza and the EDC complex, with banks, insurers, tax and passport offices beside the Kadamba bus stand" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read documents, draft replies, qualify leads and answer customer questions on WhatsApp, with a person approving anything important.",
     data: "Dashboards that bring sales, footfall, bookings and collections from several branches into one screen for owners who travel between Panaji and Margao.",
     app: "Android and iOS apps for Panaji event organisers, clinics, clubs and delivery services, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of fixes, updates and backups after launch, then IT support plans from ₹8,000 a month or pay-as-you-need help.",
+    maintenance: "Two free months of fixes, updates and backups after launch, then IT support plans from ₹8,000 a month or pay-as-you-need help.",
   },
   whyUsIntro:
     "Panaji firms often choose between a big outstation agency and a single freelancer who disappears after launch. We sit between the two: three engineers who publish starting prices, write the code ourselves, hand over every account and reply on WhatsApp seven days a week.",
@@ -175,7 +175,7 @@ const content: CityContent = {
       id: "it-support-panaji",
       heading: "IT support and maintenance for Panaji offices after launch",
       paragraphs: [
-        "IT support after launch means someone reliable fixes bugs, applies security updates, keeps backups running and makes small changes, so the software you paid for keeps working. BtechWaleTech includes five months of this free after hosting goes live, then offers maintenance plans from ₹8,000 a month.",
+        "IT support after launch means someone reliable fixes bugs, applies security updates, keeps backups running and makes small changes, so the software you paid for keeps working. BtechWaleTech includes two months of this free after hosting goes live, then offers maintenance plans from ₹8,000 a month.",
         "We look after the software and hosting we build or take over: code fixes, dependency updates, content changes, performance checks, uptime alerts and backup tests. We are remote, so we do not visit offices to repair printers or replace network cables. For that, a local hardware technician in Panjim is the right call, and we are happy to coordinate with one.",
         "Response times matter more than contract length. Our clients message us on WhatsApp seven days a week, and urgent issues such as a site being down or a payment flow failing are handled first. Changes are made on a staging copy, tested and then deployed, so a quick fix does not break something else.",
       ],
@@ -194,7 +194,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Custom web app, portal or billing system:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance and IT support?",
       answer:
-        "Five months of maintenance is free after launch. It covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small content or configuration changes. After that, plans start from ₹8,000 a month, or you can pay only when you need something. We support software and hosting remotely; we do not repair office hardware or networks on site.",
+        "Two months of maintenance is free after launch. It covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small content or configuration changes. After that, plans start from ₹8,000 a month, or you can pay only when you need something. We support software and hosting remotely; we do not repair office hardware or networks on site.",
     },
     {
       question: "Can your software work in Konkani or Marathi?",

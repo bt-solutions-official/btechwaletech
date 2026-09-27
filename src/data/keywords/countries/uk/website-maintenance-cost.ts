@@ -12,7 +12,7 @@ const content: FreelanceContent = {
   updated: "2026-09-25",
   meta: {
     title: `Website Maintenance Cost UK: Care Plans from ${P.care}`,
-    description: `Website maintenance cost UK explained: hosting, domain, SSL, licences, care-plan tiers, emergency fixes and agency lock-in. Care from ${P.care} after 5 free months.`,
+    description: `Website maintenance cost UK explained: hosting, domain, SSL, licences, care-plan tiers, emergency fixes and agency lock-in. Care from ${P.care} after 2 free months.`,
     keywords: [
       "website maintenance cost uk", "website maintenance cost per month uk", "how much does website maintenance cost uk",
       "website maintenance cost per year", "website care plan uk", "website maintenance packages uk",
@@ -28,27 +28,27 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Running costs explained · for UK sole traders, SMEs and charities",
     h1: "Website maintenance cost in the UK: what you pay each month, and what you should get for it",
-    lede: `Website maintenance cost in the UK is the sum of your fixed running bills (domain, hosting, certificates, email, licences) and the labour to keep the site updated, backed up and fixed when it breaks. The labour part is what care plans sell, and what they include varies enormously. This guide separates the two, shows what each care tier should cover, and explains the lock-in that turns cheap plans expensive. BtechWaleTech is three freelance developers in India: every site we build gets five months of free maintenance, then care from ${P.care}.`,
+    lede: `Website maintenance cost in the UK is the sum of your fixed running bills (domain, hosting, certificates, email, licences) and the labour to keep the site updated, backed up and fixed when it breaks. The labour part is what care plans sell, and what they include varies enormously. This guide separates the two, shows what each care tier should cover, and explains the lock-in that turns cheap plans expensive. BtechWaleTech is three freelance developers in India: every site we build gets two months of free maintenance, then care from ${P.care}.`,
     pills: ["Fixed bills vs labour", "Hosting, domain, SSL", "Plugin and theme licences", "Care-plan tiers compared", "Emergency fix costs", "Agency lock-in", "Logins in your name"],
     origin: "Three freelance developers in India · care plans quoted in USD, replies on WhatsApp 7 days a week",
   },
   facts: [
     ["Website care from", P.care],
-    ["Free maintenance after our builds", "5 months"],
+    ["Free maintenance after our builds", "2 months"],
     ["Monthly SEO alongside care", `From ${P.seo}`],
     ["Hosting and domain", "In your name, paid by you"],
     ["Messages answered", "WhatsApp, 7 days a week (IST)"],
     ["Quote", "Itemised care scope in about 2 working days"],
   ],
   stats: [
-    { value: "5", label: "Months of free maintenance after a build with us" },
+    { value: "2", label: "Months of free maintenance after a build with us" },
     { value: "7", label: "Days a week we read and answer WhatsApp messages" },
     { value: "2", label: "Working days to a written care-plan quote" },
     { value: "0", label: "Logins we keep that you cannot see" },
   ],
   answer: {
     heading: "How much does website maintenance cost in the UK?",
-    text: `Website maintenance in the UK costs your fixed running bills (domain renewal, hosting, email and any premium licences) plus labour for updates, backups, monitoring and fixes. Care plans range from basic update-only tiers to business plans with developer hours included. BtechWaleTech includes five months free after any build, then care from ${P.care}, with hosting and logins always in your name.`,
+    text: `Website maintenance in the UK costs your fixed running bills (domain renewal, hosting, email and any premium licences) plus labour for updates, backups, monitoring and fixes. Care plans range from basic update-only tiers to business plans with developer hours included. BtechWaleTech includes two months free after any build, then care from ${P.care}, with hosting and logins always in your name.`,
     more: `Running WordPress? Our <a href='/uk/wordpress-maintenance-services/'>WordPress maintenance service for UK sites</a> covers the platform-specific work. Weighing a rebuild instead? See <a href='/uk/website-redesign-services/'>website redesign services</a>.`,
   },
   snapshot: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Fixed yearly bills", value: "Domain, hosting, business email, premium licences" },
       { label: "SSL certificate", value: "Free options exist; many hosts include one" },
       { label: "Care labour", value: "Updates, backups, monitoring, small edits, fixes" },
-      { label: "Care with us", value: `From ${P.care}, after 5 free months on our builds` },
+      { label: "Care with us", value: `From ${P.care}, after 2 free months on our builds` },
       { label: "Emergency fixes", value: "Quoted per job if outside your plan" },
       { label: "Biggest hidden cost", value: "An agency holding your hosting and logins" },
       { label: "Lowest-maintenance option", value: "A static site with few moving parts" },
@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     note: "The monthly figure matters less than what it includes, how fast things get fixed, and whether you can leave with your site.",
     columns: ["Question", "Typical agency care plan", "Doing it yourself", "BtechWaleTech (remote)"],
     rows: [
-      ["Monthly cost", "Varies widely by tier", "Your time plus the fixed bills", `From ${P.care}, after 5 free months`],
+      ["Monthly cost", "Varies widely by tier", "Your time plus the fixed bills", `From ${P.care}, after 2 free months`],
       ["Who holds hosting", "Often the agency", "You", "You, always"],
       ["Updates and backups", "Included in most tiers", "When you remember", "Included, logged monthly"],
       ["Fixing a broken site", "Included or billed per hour", "You search forums", "Covered if in scope; otherwise quoted first"],
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How our website maintenance cost is worked out",
-    note: `Care starts at ${P.care} a month and begins after the five free months that follow any site we build. The starting tier suits a brochure site: updates, backups, uptime monitoring, a monthly check and a small allowance of content edits. The price rises with the number of plugins or apps to manage, online shops where checkout must be tested, sites with custom functionality, heavier edit allowances and add-on SEO work from ${P.seo}. For sites built by someone else, we first review hosting, access and code, then quote a care tier. Hosting, domain and licences are paid by you to the providers.`,
+    note: `Care starts at ${P.care} a month and begins after the two free months that follow any site we build. The starting tier suits a brochure site: updates, backups, uptime monitoring, a monthly check and a small allowance of content edits. The price rises with the number of plugins or apps to manage, online shops where checkout must be tested, sites with custom functionality, heavier edit allowances and add-on SEO work from ${P.seo}. For sites built by someone else, we first review hosting, access and code, then quote a care tier. Hosting, domain and licences are paid by you to the providers.`,
   },
   guideLabel: "Website maintenance cost UK: complete guide",
   guide: [
@@ -255,11 +255,11 @@ const content: FreelanceContent = {
     },
     {
       id: "free-months",
-      heading: "What do the five free months of maintenance cover?",
+      heading: "What do the two free months of maintenance cover?",
       paragraphs: [
-        `Every site, shop or app we build includes five months of free maintenance after launch. It exists because the first months are when real users find the things testing missed.`,
+        `Every site, shop or app we build includes two months of free maintenance after launch. It exists because the first months are when real users find the things testing missed.`,
         `During that time we fix bugs, apply updates, make small adjustments to text and images, and answer questions about editing the site yourself. It is not a disguised redesign allowance; larger changes are quoted, but you will not pay for fixing something we built.`,
-        `At the end of the five months, you choose. Carry on with care from ${P.care}, handle maintenance yourself with the documentation we provide, or hand it to someone else. Because the hosting, domain and code are already in your name, any of those options is straightforward.`,
+        `At the end of the two months, you choose. Carry on with care from ${P.care}, handle maintenance yourself with the documentation we provide, or hand it to someone else. Because the hosting, domain and code are already in your name, any of those options is straightforward.`,
       ],
     },
     {
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
       id: "yearly-bill",
       eyebrow: "Yearly budget",
       heading: "What goes into a UK website's yearly maintenance bill",
-      note: `Provider prices change often, so check them directly. Our care starts at ${P.care} a month after five free months on sites we build.`,
+      note: `Provider prices change often, so check them directly. Our care starts at ${P.care} a month after two free months on sites we build.`,
       columns: ["Cost line", "Paid to", "How often", "Who should hold the account", "Ways to reduce it"],
       rows: [
         ["Domain (.co.uk / .uk / .com)", "Registrar", "Yearly or multi-year", "You", "Renew for several years; avoid resold domains"],
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
         ["SSL certificate", "Often free via host", "Automatic renewal", "You", "Use free certificates where suitable"],
         ["Business email", "Email provider", "Monthly per mailbox", "You", "Only pay for mailboxes people use"],
         ["Premium licences", "Theme and plugin vendors", "Yearly", "You", "Remove unused premium plugins"],
-        ["Care labour", "Your developer", "Monthly", "Not applicable", `Five free months with us, then from ${P.care}`],
+        ["Care labour", "Your developer", "Monthly", "Not applicable", `Two free months with us, then from ${P.care}`],
         ["Emergency fixes", "Your developer", "When needed", "Not applicable", "Routine updates and tested backups"],
       ],
       hideSm: [3],
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Website maintenance cost UK: frequently asked questions",
   faqs: [
-    { question: "How much does website maintenance cost per month in the UK?", answer: `Monthly website maintenance in the UK combines fixed bills, such as hosting and licences, with labour for updates, backups, monitoring and edits. Care plans vary widely by tier and site type. With BtechWaleTech, sites we build get five months free, then care starts at ${P.care} a month, while you pay hosting and domain providers directly.` },
+    { question: "How much does website maintenance cost per month in the UK?", answer: `Monthly website maintenance in the UK combines fixed bills, such as hosting and licences, with labour for updates, backups, monitoring and edits. Care plans vary widely by tier and site type. With BtechWaleTech, sites we build get two months free, then care starts at ${P.care} a month, while you pay hosting and domain providers directly.` },
     { question: "How much does website maintenance cost per year?", answer: "Add up a year of domain renewal, hosting, business email, premium theme and plugin licences, and twelve months of care labour. Then allow something for occasional fixes or small projects. A static site keeps every line low; a WordPress shop with many plugins sits at the top. List each line separately so you can see what could be trimmed." },
     { question: "What does a website care plan include?", answer: "A proper care plan includes tested software updates, off-site backups with occasional restore tests, uptime and security monitoring, fixes when something breaks, a small allowance of content edits and a short monthly report. Redesigns, new features, copywriting and SEO campaigns are usually separate. Always ask for the task list in writing before comparing prices." },
     { question: "Is website maintenance cost in the UK really necessary to pay?", answer: "For sites running WordPress or another CMS, yes. Unpatched plugins and unsupported PHP versions stop receiving security fixes, and broken forms can go unnoticed for weeks. A static site needs far less, but someone should still watch the domain, hosting and contact forms. Think of maintenance as insurance against quiet failures that cost you enquiries." },
@@ -387,13 +387,13 @@ const content: FreelanceContent = {
     { question: "Is WordPress more expensive to maintain than other websites?", answer: "Generally yes, compared with static sites, because WordPress core, themes and plugins all need regular updates and PHP must stay on a supported version. The cost scales with plugin count. A lean WordPress site is not expensive to maintain; one with thirty plugins and a heavy page builder is. Shopify moves hosting and platform security onto Shopify." },
     { question: "How often should a website be updated?", answer: "Security and software updates should be checked at least monthly, and applied promptly when a security fix is released. Content should be updated whenever something changes, such as prices, opening hours, staff or services. Search engines and visitors both notice stale pages, so a quick quarterly review of key pages is a good habit even for quiet sites." },
     { question: "Can I maintain my website myself?", answer: "Yes, if you are comfortable applying updates, checking backups, testing forms and reading error messages. Many owners start that way. The risk is that it slips when the business is busy. A middle path is doing content edits yourself while paying for updates, backups and monitoring, which is usually the cheaper part of a care plan." },
-    { question: "What is the website maintenance cost for an online shop in the UK?", answer: `More than for a brochure site, because checkout, payments, stock and shipping must be tested after updates, and failures lose sales immediately. The platform matters too: Shopify handles hosting and security, while WooCommerce needs full plugin and server upkeep. With us, shop care is scoped per store and starts from ${P.care} after the five free months.` },
+    { question: "What is the website maintenance cost for an online shop in the UK?", answer: `More than for a brochure site, because checkout, payments, stock and shipping must be tested after updates, and failures lose sales immediately. The platform matters too: Shopify handles hosting and security, while WooCommerce needs full plugin and server upkeep. With us, shop care is scoped per store and starts from ${P.care} after the two free months.` },
     { question: "Why choose a remote team in India for website maintenance?", answer: "Maintenance is remote work anyway, so location matters mainly for cost and hours. Our day overlaps the UK from late morning, and routine updates can run while your customers sleep. You message us on WhatsApp, seven days a week, and keep every account in your own name. We cannot visit premises, so on-site IT help is not included." },
     { question: "How do I pay for website maintenance from the UK?", answer: "Care is quoted in USD, and UK clients usually pay monthly from a GBP account through Wise, bank wire or PayPal. Invoices come from India. Nothing is billed before you approve the written quote. For how an overseas service is treated for VAT in your books, please check with your accountant, as we do not give tax advice." },
     { question: "Is there a minimum contract for website care?", answer: "We do not state a standard minimum term here. Any term, notice period or pause option is agreed in your written quote, so ask us about what suits you. Because your hosting, domain and licences stay in your own name, ending care never means losing the site. General conditions are on our terms page." },
     { question: "Does website maintenance include SEO?", answer: `Routine maintenance protects SEO by keeping the site fast, secure and free of broken pages, but it is not an SEO campaign. Content strategy, new pages and link building are separate. We offer monthly SEO from ${P.seo} alongside care. Nobody can honestly guarantee Google rankings, and we will not claim to.` },
     { question: "Does maintenance help my site appear in AI search answers?", answer: "Indirectly. AI assistants and Google's AI Overviews draw on pages that load reliably and answer questions clearly. Maintenance keeps pages fast, accessible and error-free, and routine content updates keep facts such as prices, hours and services accurate. Clear, current pages give you a better chance of being quoted, though no one can promise inclusion." },
-    { question: "What maintenance is included after you build a website?", answer: "Every site, shop or app we build includes five months of free maintenance after launch: bug fixes, updates, small edits and help using the admin area. Larger new features are quoted separately. After five months you can continue with paid care, maintain it yourself, or move to another provider, with every account already in your name." },
+    { question: "What maintenance is included after you build a website?", answer: "Every site, shop or app we build includes two months of free maintenance after launch: bug fixes, updates, small edits and help using the admin area. Larger new features are quoted separately. After two months you can continue with paid care, maintain it yourself, or move to another provider, with every account already in your name." },
     { question: "Do you maintain websites built by other developers?", answer: "Yes. We start with a review of hosting, domain ownership, plugins, licences, PHP version, backups and code quality, then quote care based on what we find. If urgent fixes are needed first, they are quoted separately. Sometimes the honest recommendation is a simpler rebuild, and we will say so if the numbers point that way." },
   ],
   related: {
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Find out what your website should cost to maintain",
-    note: `Send your website address and who hosts it, if you know. We review the set-up and reply with a written care quote in USD in about two working days. Care starts at ${P.care}, and sites we build get five months free.`,
+    note: `Send your website address and who hosts it, if you know. We review the set-up and reply with a written care quote in USD in about two working days. Care starts at ${P.care}, and sites we build get two months free.`,
   },
 };
 

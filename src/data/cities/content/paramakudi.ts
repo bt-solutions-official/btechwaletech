@@ -56,7 +56,7 @@ const paramakudi: CityContent = {
     ai: "WhatsApp assistants that send saree photos and price bands, confirm clinic tokens or share daily chilli rates in Tamil.",
     data: "Monthly views of sarees woven and sold, dues by retailer and bags traded, built from Tally exports or daily entries.",
     app: "Android and iOS apps for saree retailers to reorder from looms or for a clinic's token booking, on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free fixes, backups and small edits for five months after launch, then care plans from ₹8,000 a month you can stop anytime.",
+    maintenance: "Free fixes, backups and small edits for two months after launch, then care plans from ₹8,000 a month you can stop anytime.",
   },
   whyUsIntro:
     "Many Paramakudi owners have been burnt by a relative's friend who built a site, kept the password and vanished. We work the other way: prices are published as starting points, every quote is itemised in writing, the domain and code stay in your name, and WhatsApp messages get an answer seven days a week.",
@@ -159,7 +159,7 @@ const paramakudi: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online saree or produce store:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software or web app:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000;</strong> maintenance from ₹8,000 a month after five free months.",
+        "<strong>Monthly SEO from ₹10,000;</strong> maintenance from ₹8,000 a month after two free months.",
       ],
     },
     {
@@ -176,7 +176,7 @@ const paramakudi: CityContent = {
       heading: "Ownership, handover and maintenance after launch",
       paragraphs: [
         "The domain is booked in your name, the hosting is in your account and the full source code plus every password is handed over at launch. For apps, the Play Console and App Store developer accounts are yours too. If you later hire a developer in Madurai or elsewhere, they can take over without asking us.",
-        "The first five months after launch come with free maintenance: security updates, backups, uptime checks and small edits such as new designs, price changes or doctor timings. After that, care plans start at ₹8,000 a month, and you can stop them whenever you choose. We also teach your staff to make simple updates themselves if they prefer.",
+        "The first two months after launch come with free maintenance: security updates, backups, uptime checks and small edits such as new designs, price changes or doctor timings. After that, care plans start at ₹8,000 a month, and you can stop them whenever you choose. We also teach your staff to make simple updates themselves if they prefer.",
       ],
     },
     {
@@ -232,7 +232,7 @@ const paramakudi: CityContent = {
     {
       question: "Which is the best website development team in Paramakudi?",
       answer:
-        "The best choice is whoever puts the domain and code in your name, gives a written itemised quote and still answers after launch. Ask every provider for those three things. We meet all of them, publish our starting prices and provide five months of free maintenance, but we are remote, not a local office.",
+        "The best choice is whoever puts the domain and code in your name, gives a written itemised quote and still answers after launch. Ask every provider for those three things. We meet all of them, publish our starting prices and provide two months of free maintenance, but we are remote, not a local office.",
     },
     {
       question: "Can you sell my handloom sarees online?",
@@ -277,7 +277,7 @@ const paramakudi: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers security updates, backups, uptime checks and small edits such as new designs or timings. After that, plans start at ₹8,000 a month and can be cancelled anytime. We can also train your staff to handle simple changes.",
+        "Maintenance is free for two months after launch and covers security updates, backups, uptime checks and small edits such as new designs or timings. After that, plans start at ₹8,000 a month and can be cancelled anytime. We can also train your staff to handle simple changes.",
     },
     {
       question: "Will you guarantee first rank on Google for Paramakudi searches?",

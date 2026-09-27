@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Calendar", "Gregorian plus Hijri columns"],
     ["Security", "Row-level security per branch or region"],
     ["Licences", "Bought by you, directly from Microsoft"],
-    ["After handover", "5 months of free support"],
+    ["After handover", "2 months of free support"],
   ],
   stats: [
     { value: "8", label: "Scheduled refreshes a day on shared capacity, per Microsoft" },
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Power BI developer costs for a Saudi business",
-    note: `A first Power BI project with us starts from ${P.ai}. That covers connecting a small number of sources, one data model with a Hijri-aware calendar, a first set of report pages, row-level security for branches and a refresh schedule. The quote grows with the number of systems, the state of your exports, how many branches and roles need separate views, and whether a staging database or API pipeline is needed first, which starts from ${P.software}. Microsoft licences are paid by you, straight to Microsoft or your reseller. Five months of support follow handover free; after that, care starts from ${P.care}. All quotes are itemised in USD.`,
+    note: `A first Power BI project with us starts from ${P.ai}. That covers connecting a small number of sources, one data model with a Hijri-aware calendar, a first set of report pages, row-level security for branches and a refresh schedule. The quote grows with the number of systems, the state of your exports, how many branches and roles need separate views, and whether a staging database or API pipeline is needed first, which starts from ${P.software}. Microsoft licences are paid by you, straight to Microsoft or your reseller. Two months of support follow handover free; after that, care starts from ${P.care}. All quotes are itemised in USD.`,
   },
   guideLabel: "Power BI for Saudi companies, section by section",
   guide: [
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a first Power BI project starts from ${P.ai}. Market quotes vary widely, and the difference is mostly scope, data quality and overheads rather than the software.`,
         `The biggest cost driver is the number and condition of sources. One clean Salla export is quick; Foodics across twelve branches, a Qoyod file with inconsistent cost centres and three budget spreadsheets take longer. Next come the number of security roles, the number of report pages, whether a staging database is needed, and how much training your team wants. A pipeline that reads APIs on a schedule is quoted as a small software build from ${P.software}.`,
-        `Running costs are separate and predictable: Microsoft licences for the people who need them, and, if we build a pipeline, a small cloud database in your account. After five months of free support, an optional care plan starts from ${P.care} for fixes, new measures and adjustments when a source system changes. Hiring an in-house analyst is the other benchmark; it suits companies with a constant stream of new analysis, not a one-off build.`,
+        `Running costs are separate and predictable: Microsoft licences for the people who need them, and, if we build a pipeline, a small cloud database in your account. After two months of free support, an optional care plan starts from ${P.care} for fixes, new measures and adjustments when a source system changes. Hiring an in-house analyst is the other benchmark; it suits companies with a constant stream of new analysis, not a one-off build.`,
       ],
       after: [
         `For comparable figures on software and apps in the Kingdom, the <a href='/saudi-arabia/app-development-cost/'>Saudi app development cost guide</a> uses the same starting-price approach.`,
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
       ["Data review and definitions", "We read sample exports, map every column, and agree definitions for net sales, VAT, branches and dates with your finance lead before building anything."],
       ["Model, calendar and first page", "The star schema, Hijri-aware calendar and core measures are built, totals are reconciled against a closed month, and the owner page is shown on a call."],
       ["Pages, security and refresh", "Remaining pages arrive in batches, row-level security is tested with real managers, and refresh times are set in Riyadh time under an account you own."],
-      ["Handover and support", "A recorded walkthrough, a glossary of measures and the files are handed over, followed by five months of free support, then optional care if you want it."],
+      ["Handover and support", "A recorded walkthrough, a glossary of measures and the files are handed over, followed by two months of free support, then optional care if you want it."],
     ],
   },
   faqHeading: "Questions about hiring a Power BI developer in Saudi Arabia",
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
     { question: "Do we need a data gateway?", answer: "Only if some data sits where Power BI cannot reach it directly, such as a SQL Server inside your office network. Cloud sources and files in SharePoint or OneDrive usually refresh without one. If a gateway is needed, it runs on a machine you control that must stay on during refresh times." },
     { question: "Can Power BI show Zid store data?", answer: "Yes. Zid publishes developer documentation and APIs for apps that work with stores, and exports are available for simpler reporting. We check which endpoints your account can use and match Zid product variants to the names used in your POS or accounting system, so online and in-store sales appear side by side." },
     { question: "Will you sign an NDA before seeing our data?", answer: "Confidentiality terms can be agreed in your written quote, and you are welcome to send your own agreement for review. We only work with data inside your tenant and prefer sample exports with personal fields removed during the review. Our general terms apply to every project; raise special requirements before you approve the quote." },
-    { question: "What happens after the dashboards are handed over?", answer: `You get five months of free support for fixes, small changes and adjustments when a source export changes. After that, an optional care plan starts from ${P.care}. New pages, extra sources or a pipeline are quoted separately. Your team also receives a recorded walkthrough so an internal person can maintain simple changes.` },
+    { question: "What happens after the dashboards are handed over?", answer: `You get two months of free support for fixes, small changes and adjustments when a source export changes. After that, an optional care plan starts from ${P.care}. New pages, extra sources or a pipeline are quoted separately. Your team also receives a recorded walkthrough so an internal person can maintain simple changes.` },
     { question: "Does Power BI help with PDPL obligations?", answer: "Power BI is a tool, not a compliance measure. We help by keeping personal fields out of models that do not need them, restricting pages that do, and limiting workspace access. The Personal Data Protection Law and its guidance are published by SDAIA; whether your reports and access rules are acceptable is for your own lawyer to confirm." },
     { question: "Can we ask questions about our sales in Arabic?", answer: `Power BI's built-in Q&A works in English only, according to Microsoft. For Arabic questions, a separate AI assistant can read the same model or staging database and answer with the same figures, limited by branch security. Assistants start from ${P.ai} and work best once the dashboards are trusted.` },
     { question: "Can you build a web dashboard instead of using Power BI?", answer: `Yes, when you need dashboards inside your own portal for customers or franchise partners, or want to avoid per-user licences. A custom web dashboard starts from ${P.software}. For internal management reporting, Power BI is usually faster and cheaper to build and change, so we recommend it first and explain when a custom build pays off.` },

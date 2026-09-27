@@ -30,8 +30,8 @@ const anand: CityContent = {
     eyebrow: "Anand · Gujarat",
     h1: "Websites, SEO and automation for Anand, Vidyanagar and the Charotar belt",
     lede:
-      "BtechWaleTech is three remote engineers building websites, Google Maps profiles, online stores and WhatsApp workflows for Anand's dairy and food suppliers, Vitthal Udyognagar manufacturers, Vallabh Vidyanagar colleges and coaching classes, hospitals, real estate firms and shops. Starting prices are public, you own the domain and code, and five months of maintenance come free after launch.",
-    pills: ["Sites from ₹10,000", "Gujarati and English SEO", "GIDC supplier catalogues", "Student and NRI enquiries", "Free upkeep for five months"],
+      "BtechWaleTech is three remote engineers building websites, Google Maps profiles, online stores and WhatsApp workflows for Anand's dairy and food suppliers, Vitthal Udyognagar manufacturers, Vallabh Vidyanagar colleges and coaching classes, hospitals, real estate firms and shops. Starting prices are public, you own the domain and code, and two months of maintenance come free after launch.",
+    pills: ["Sites from ₹10,000", "Gujarati and English SEO", "GIDC supplier catalogues", "Student and NRI enquiries", "Free upkeep for two months"],
   },
   quickAnswer:
     "An Anand business website starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote, with no Anand office, and you own the domain and code.",
@@ -51,10 +51,10 @@ const anand: CityContent = {
     ai: "WhatsApp assistants that answer admission, hostel, stock or appointment questions in Gujarati or English, then hand leads to your team.",
     data: "Dashboards for milk collection, supplier orders, student enquiries or clinic bookings, readable at a glance.",
     app: "Android and iOS apps for hostel attendance, dealer ordering or field technicians visiting dairies and farms, from ₹40,000 in six to ten weeks.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay per change.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay per change.",
   },
   whyUsIntro:
-    "Anand firms often hire an agency in Vadodara or Ahmedabad and then wait for small changes. Others trust a student freelancer who graduates and leaves Vidyanagar. We publish starting prices, itemise quotes, reply on WhatsApp seven days a week and maintain your site free for five months after launch.",
+    "Anand firms often hire an agency in Vadodara or Ahmedabad and then wait for small changes. Others trust a student freelancer who graduates and leaves Vidyanagar. We publish starting prices, itemise quotes, reply on WhatsApp seven days a week and maintain your site free for two months after launch.",
   pricingIntro:
     "The figures below are where prices begin. A GIDC manufacturer with sixty product pages needs more work than a single physiotherapy clinic near the station, so quotes differ. Every item is priced separately, and you approve the breakdown in writing before anything is billed.",
   sections: [
@@ -185,7 +185,7 @@ const anand: CityContent = {
       paragraphs: [
         "In a student town, a common story is a website built by a talented freelancer who later graduates and moves to Bengaluru or abroad, taking the domain login along. When the renewal is missed, the site and business email stop working, and customers who saved the address see an error.",
         "We register the domain in your name and set up hosting on your own account. At launch you receive every login, the complete source code and a short guide to how everything works. You can move to another developer at any time without an exit fee or our permission.",
-        "Maintenance is free for five months after launch, covering updates, bug fixes, security patches, backups and uptime checks. After that, a plan starts at ₹8,000 a month, or you can pay per change if your site rarely needs edits.",
+        "Maintenance is free for two months after launch, covering updates, bug fixes, security patches, backups and uptime checks. After that, a plan starts at ₹8,000 a month, or you can pay per change if your site rarely needs edits.",
       ],
     },
   ],
@@ -277,7 +277,7 @@ const anand: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "The first five months after launch are free. After that, a plan starts at ₹8,000 a month for updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you request.",
+        "The first two months after launch are free. After that, a plan starts at ₹8,000 a month for updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you request.",
     },
     {
       question: "How soon will SEO bring enquiries in Anand?",

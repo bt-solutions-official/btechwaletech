@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Mumbai · Maharashtra · Web development",
     h1: "Hire freelance web developers in Mumbai for web apps, portals and SaaS",
     lede:
-      "Freelance web developers for Mumbai businesses that have outgrown a brochure site: BtechWaleTech is three independent engineers who build full-stack web applications, B2B ordering portals, SaaS products, APIs, ecommerce stores and fast CMS-driven websites for traders, brokers, clinics, media houses and startups across the city. We work remotely from India, publish starting prices, deploy on your own cloud accounts and include five months of maintenance after launch.",
+      "Freelance web developers for Mumbai businesses that have outgrown a brochure site: BtechWaleTech is three independent engineers who build full-stack web applications, B2B ordering portals, SaaS products, APIs, ecommerce stores and fast CMS-driven websites for traders, brokers, clinics, media houses and startups across the city. We work remotely from India, publish starting prices, deploy on your own cloud accounts and include two months of maintenance after launch.",
     pills: ["Websites from ₹10,000", "Web apps from ₹60,000", "Ecommerce from ₹50,000", "Android and iOS apps from ₹40,000", "Code and domain in your name"],
   },
   quickAnswer:
-    "Web development in Mumbai with BtechWaleTech starts at ₹10,000 for a static website (one to two weeks), ₹50,000 for ecommerce (four to eight weeks) and ₹60,000 for a custom web application or portal (six to twelve weeks). We are a freelance group of three engineers working remotely, and every launch includes five months of free maintenance.",
+    "Web development in Mumbai with BtechWaleTech starts at ₹10,000 for a static website (one to two weeks), ₹50,000 for ecommerce (four to eight weeks) and ₹60,000 for a custom web application or portal (six to twelve weeks). We are a freelance group of three engineers working remotely, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Business mix", value: "Finance, wholesale trade, jewellery, media, logistics, pharma, real estate and a large D2C and startup scene" },
     { label: "Where web projects come from", value: "BKC and Lower Parel corporates, Andheri and Powai startups, Kalbadevi traders and suburban clinics and retailers" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI inside Mumbai web apps: smart search, document extraction, support reply drafting and automated reports, plus n8n workflows between systems.",
     data: "Reporting screens and dashboards built into your Mumbai web app, or separate Metabase and Looker Studio views over your data.",
     app: "Android and iOS apps from ₹40,000 that share the API and admin panel of your Mumbai web application, built once in Flutter or React Native.",
-    maintenance: "Framework upgrades, security patches, uptime monitoring and small features for Mumbai web projects, free for five months after launch.",
+    maintenance: "Framework upgrades, security patches, uptime monitoring and small features for Mumbai web projects, free for two months after launch.",
   },
   whyUsIntro:
     "Mumbai web projects often pass through salespeople, project managers and outsourced coders before reaching you. With us, the three engineers who scope the work also design the database, write the code, deploy it and answer your WhatsApp messages.",
@@ -232,7 +232,7 @@ const content: CityContent = {
       heading: "What to check before hiring web developers in Mumbai",
       paragraphs: [
         "Before hiring web developers in Mumbai, check how they plan, what you will own, and how they handle problems after launch. Visual portfolios matter less than evidence that they can structure data, integrate systems and deploy safely.",
-        "Ask for a written scope with phases. Ask where the code will live and who holds admin rights to the domain and hosting. Ask how they back up data and roll back a failed release. Ask what support looks like in month six. Clear answers indicate experience.",
+        "Ask for a written scope with phases. Ask where the code will live and who holds admin rights to the domain and hosting. Ask how they back up data and roll back a failed release. Ask what support looks like in month three. Clear answers indicate experience.",
         "See examples on our <a href='/portfolio/'>portfolio</a>, learn about us on the <a href='/about/'>about page</a>, or read our <a href='/india/maharashtra/mumbai/'>Mumbai IT consulting page</a> for the wider range of services. Our general <a href='/services/web-development/'>web development service</a> page explains our process.",
       ],
     },
@@ -240,7 +240,7 @@ const content: CityContent = {
       id: "maintenance-mumbai-web",
       heading: "Maintenance and support after your Mumbai website or web app goes live",
       paragraphs: [
-        "After launch, every Mumbai site or application gets five months of free maintenance: bug fixes, content updates, dependency and security updates, backups and performance checks. After that, plans start at ₹8,000 per month, or you pay per task.",
+        "After launch, every Mumbai site or application gets two months of free maintenance: bug fixes, content updates, dependency and security updates, backups and performance checks. After that, plans start at ₹8,000 per month, or you pay per task.",
         "Web apps need steady care as frameworks release patches, browsers change and your team requests improvements. Regular maintenance avoids costly rebuilds later. We reply on WhatsApp, email and calls seven days a week, prioritising anything that stops orders or bookings, and keep a change log so you know what was updated.",
       ],
     },
@@ -341,7 +341,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. Five months of maintenance are free after launch, covering fixes, updates, backups, security and performance checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
+        "Yes. Two months of maintenance are free after launch, covering fixes, updates, backups, security and performance checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
     },
     {
       question: "Can you add AI features to our web app?",

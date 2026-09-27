@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Full Android and iPhone app from", `${P.app} · ${P.appUsd}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Customer list", "Stored in your account, not ours"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "0", label: "App downloads needed for WhatsApp loyalty" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Messages to customers", "None", "Often limited or paid per message", "Opted-in WhatsApp messages on your own business account"],
       ["Rules", "One rule printed on the card", "Preset options", "Stamps, points, cashback, tiers, any mix you define"],
       ["Customer data", "Not collected", "Stored by the POS vendor", "In your own database and account"],
-      ["Running cost", "Printing", "Subscription and add-on fees", `Message charges from Meta; maintenance from ${P.care} after 5 free months`],
+      ["Running cost", "Printing", "Subscription and add-on fees", `Message charges from Meta; maintenance from ${P.care} after 2 free months`],
       ["Best for", "Very small, single counter, trial", "Owners happy with their POS vendor's features", "Owners who want their own rules and data"],
     ],
     fine: "If your billing software already includes a loyalty module you like, use it; a custom customer loyalty app for small business makes sense when you want different rules, WhatsApp delivery or ownership of the list.",
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, WhatsApp-based loyalty starts at ${P.ai} (${P.aiUsd}), an owner dashboard with POS integration at ${P.software} (${P.softwareUsd}), and a branded mobile app at ${P.app} (${P.appUsd}). Most single-outlet shops only need the first.`,
         `The quote grows with the number of outlets, automatic POS links, tiers and expiry rules, and extras such as online ordering, table booking or appointment booking inside the same app. It does not grow with the number of customers. Running costs are separate and paid by you directly: WhatsApp conversation charges from Meta, any SMS, and a small cloud hosting bill.`,
-        `Other developers and loyalty platforms price this very differently, from monthly subscriptions per outlet to one-off builds. The honest comparison is total cost over two or three years plus who owns the customer list. A subscription that looks cheap per month can cost more over time, while a custom build needs someone to maintain it. After the five free months, our maintenance starts at ${P.care}.`,
+        `Other developers and loyalty platforms price this very differently, from monthly subscriptions per outlet to one-off builds. The honest comparison is total cost over two or three years plus who owns the customer list. A subscription that looks cheap per month can cost more over time, while a custom build needs someone to maintain it. After the two free months, our maintenance starts at ${P.care}.`,
       ],
     },
     {
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, completely. The WhatsApp Business account, the database, the code repository and any app store listings are in your business name, and you can export the full customer list whenever you like.`,
         `This is the point many owners miss when a platform runs their customer loyalty app for small business. If a delivery app or a POS vendor runs your programme, the customer relationship is partly theirs; switching vendors can mean losing years of visit history. With your own system, the list moves wherever you go, into a new POS, a new app or an email tool.`,
-        `At handover you get admin logins, repository access, a one-page guide for staff and a list of running costs with renewal dates. The first five months of maintenance are free; after that it is optional, from ${P.care}. Specific support terms are written into your quote, and our general terms are on the <a href='/terms/'>terms page</a>.`,
+        `At handover you get admin logins, repository access, a one-page guide for staff and a list of running costs with renewal dates. The first two months of maintenance are free; after that it is optional, from ${P.care}. Specific support terms are written into your quote, and our general terms are on the <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
         ["Dashboard and POS link", "Automatic points from bills, multi-outlet, reports on reward cost", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["Branded mobile app", "Wallet, member QR, offers, ordering or booking", `${P.app} · ${P.appUsd}`, "6–10 weeks"],
         ["Loyalty page on your website", "How to join, rewards, FAQs, local SEO basics", `${P.site} · ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", "Fixes, template changes, updates", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", "Fixes, template changes, updates", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "In about two working days you get each piece priced separately. Nothing is billed until you approve it in writing."],
       ["Set up accounts in your name", "WhatsApp Business Platform, cloud hosting and templates are registered to your business, with us added as users."],
       ["Test with your staff", "Your team tries joining, stamping and redeeming on their own phones. We fix anything confusing before customers see it."],
-      ["Soft launch and review", "Staff invite regulars for two weeks, then QR posters go up. After launch you get five months of free maintenance."],
+      ["Soft launch and review", "Staff invite regulars for two weeks, then QR posters go up. After launch you get two months of free maintenance."],
     ],
   },
   faqHeading: "Customer loyalty app for small business: common questions",
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "Can a loyalty programme help with Google reviews?", answer: "Indirectly. A thank-you message after a visit is a good moment to share your review link with opted-in customers. Rewards must never be offered in exchange for reviews, because Google's policies forbid incentivised reviews. More genuine reviews help your Google Business Profile, which local searchers and AI assistants rely on." },
     { question: "Can you build loyalty for a kirana or grocery store?", answer: "Yes. Grocery stores usually suit points or cashback on spend rather than stamps, because baskets vary. Points can be added from the billing software or entered at the counter, and win-back messages go to households whose visit gap suddenly grows. Hindi or regional-language messages work better than English for many neighbourhood stores." },
     { question: "Mere shop ke liye loyalty program kaise shuru karein?", answer: `Sabse aasaan tareeka WhatsApp loyalty hai: customer counter par QR scan karta hai ya apna number deta hai, aur har bill par stamp ya points WhatsApp par aa jaate hain. Koi app download nahi chahiye. BtechWaleTech ke saath yeh ${P.ai} se shuru hota hai. Pehle ek simple reward rule chunein, jaise dasvi coffee free, aur teen mahine baad numbers dekh kar badlein.` },
-    { question: "What happens after my loyalty system goes live?", answer: `You get five months of free maintenance covering fixes, template changes and updates. After that, maintenance continues from ${P.care} a month only if you want it. Day-to-day changes such as reward rules, expiry periods and offers are settings in your dashboard, so you rarely need a developer for them.` },
+    { question: "What happens after my loyalty system goes live?", answer: `You get two months of free maintenance covering fixes, template changes and updates. After that, maintenance continues from ${P.care} a month only if you want it. Day-to-day changes such as reward rules, expiry periods and offers are settings in your dashboard, so you rarely need a developer for them.` },
     { question: "How do I pay BtechWaleTech for a loyalty app?", answer: "Payment is staged against milestones in your written quote. In India you pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised estimate in writing. Refund and cancellation questions are covered in the refund policy and your quote." },
   ],
   related: {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want regulars to come back more often? Tell us about your shop",
-    note: `Send us a WhatsApp message with what you sell and how you bill today. You will get an itemised quote in about two working days, with WhatsApp loyalty from ${P.ai}, the customer list in your name and five months of free maintenance after launch.`,
+    note: `Send us a WhatsApp message with what you sell and how you bill today. You will get an itemised quote in about two working days, with WhatsApp loyalty from ${P.ai}, the customer list in your name and two months of free maintenance after launch.`,
   },
 };
 

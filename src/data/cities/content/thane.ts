@@ -7,7 +7,7 @@ const thane: CityContent = {
   meta: {
     title: "IT Services in Thane: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and automation for Thane clinics, classes, restaurants, builders and Wagle Estate firms. From ₹10,000 with 5 months free maintenance.",
+      "Websites, local SEO and automation for Thane clinics, classes, restaurants, builders and Wagle Estate firms. From ₹10,000 with 2 months free maintenance.",
     keywords: [
       "website development team in Thane",
       "website design team Thane",
@@ -35,7 +35,7 @@ const thane: CityContent = {
     pills: ["Starts at ₹10,000", "Ghodbunder Road local SEO", "Clinic and class bookings", "UPI stores", "WhatsApp workflows"],
   },
   quickAnswer:
-    "In Thane, we build static business websites from ₹10,000 and 299+ page SEO websites from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote team of three engineers, so you pay no agency overheads, you own everything, and maintenance is free for five months.",
+    "In Thane, we build static business websites from ₹10,000 and 299+ page SEO websites from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web applications at ₹60,000. We are a remote team of three engineers, so you pay no agency overheads, you own everything, and maintenance is free for two months.",
   snapshot: [
     { label: "Old city centre", value: "Naupada, Gokhale Road, Ram Maruti Road, Jambli Naka and the streets around Masunda (Talao Pali) lake" },
     { label: "Growth corridor", value: "Ghodbunder Road, Majiwada, Manpada, Hiranandani Estate, Kolshet and Balkum" },
@@ -52,7 +52,7 @@ const thane: CityContent = {
     ai: "WhatsApp assistants that confirm appointments, answer class and menu questions in Marathi, Hindi or English, and route real enquiries to your team.",
     data: "Dashboards that bring together bookings, sales, leads and collections across branches, so owners stop chasing staff for numbers every evening.",
     app: "Android and iPhone apps for class schedules, member logins and repeat orders for Thane residents, listed on Google Play and the App Store.",
-    maintenance: "Five months of free updates, fixes, backups and speed checks after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates, fixes, backups and speed checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Thane is served by agencies in Wagle Estate and Naupada, by the big firms of Mumbai and by countless freelancers on Instagram. Very few publish prices, and many disappear after launch. We list our starting prices, reply on WhatsApp seven days a week, and put your domain, hosting and code in your name from the first day.",
@@ -177,7 +177,7 @@ const thane: CityContent = {
       paragraphs: [
         "A frequent Thane problem is a website built by a relative, a former employee or an agency that has since closed, with the domain and hosting in someone else's account. When the card on that account expires, the site goes offline, and recovering the domain can take weeks of emails and paperwork.",
         "We set up every project to prevent that. The domain and hosting are registered in your name, and at launch you receive every login, the full source code and a short note explaining how things fit together. You can move the site to any developer at any time without an exit fee.",
-        "Maintenance is free for five months after launch and covers text and price updates, fixes, security patches, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you can pay only for the changes you need. See our <a href=\"/services/web-development/\">web development service</a> for the full list.",
+        "Maintenance is free for two months after launch and covers text and price updates, fixes, security patches, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you can pay only for the changes you need. See our <a href=\"/services/web-development/\">web development service</a> for the full list.",
       ],
     },
     {
@@ -273,7 +273,7 @@ const thane: CityContent = {
     {
       question: "What does the free maintenance cover, and what happens afterwards?",
       answer:
-        "For five months after launch we handle updates, fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can pay only for individual changes when you need them.",
+        "For two months after launch we handle updates, fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can pay only for individual changes when you need them.",
     },
     {
       question: "Do you work with businesses in Kalyan, Bhiwandi, Mumbai and Navi Mumbai too?",

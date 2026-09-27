@@ -56,7 +56,7 @@ const nailaJanjgir: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and appointment questions in Hindi and pass real decisions to the owner.",
     data: "Season dashboards of paddy received, rice dispatched, lorry trips and money owed by each buyer.",
     app: "Android and iOS apps from ₹40,000 for school parents, clinic patients or traders' retail buyers, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Business in Janjgir runs on relationships and trust built over years, so we keep things simple and written: published starting prices, an itemised quote, replies on WhatsApp every day of the week, and your name on the domain, hosting, code and store accounts. When a feature will not earn back its cost, we tell you before you pay for it.",
@@ -177,7 +177,7 @@ const nailaJanjgir: CityContent = {
       heading: "Ownership, handover and maintenance for Janjgir websites and apps",
       paragraphs: [
         "Everything we build for you is registered to you. The domain uses your email, hosting is billed in your name, the source code is handed over in full, and the Google Business Profile and app store developer accounts list you as owner. At launch you receive a written list of every login and password, kept with you, not with us.",
-        "For five months after launch, maintenance is free. That covers content edits, price changes, backups, security and software updates, and periodic tests of forms, checkout and WhatsApp buttons. After that you can continue with us from ₹8,000 a month, look after it yourself, or give the code to another developer without asking our permission.",
+        "For two months after launch, maintenance is free. That covers content edits, price changes, backups, security and software updates, and periodic tests of forms, checkout and WhatsApp buttons. After that you can continue with us from ₹8,000 a month, look after it yourself, or give the code to another developer without asking our permission.",
         "Apps need an update every year or so even when nothing is wrong, because Google and Apple regularly raise their technical requirements. We watch those deadlines and release updates in time so your app stays listed.",
       ],
     },
@@ -274,7 +274,7 @@ const nailaJanjgir: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Five months of maintenance are free after launch: content and price edits, backups, security updates and checks on forms, checkout and WhatsApp buttons. After that you can continue from ₹8,000 a month, manage it yourself or switch developers. The code and every account are already in your name, so switching needs nobody's permission.",
+        "Two months of maintenance are free after launch: content and price edits, backups, security updates and checks on forms, checkout and WhatsApp buttons. After that you can continue from ₹8,000 a month, manage it yourself or switch developers. The code and every account are already in your name, so switching needs nobody's permission.",
     },
     {
       question: "Do you work in Champa, Akaltara, Sakti and Bilaspur too?",

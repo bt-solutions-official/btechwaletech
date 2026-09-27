@@ -41,7 +41,7 @@ const faqs = [
   },
   {
     question: "How does acceptance testing work, and who fixes defects after delivery?",
-    answer: "Before handover we test against the acceptance criteria in the scope, and we write a test specification listing the main cases and their expected results, which fits Japanese acceptance (kenshu) routines. Your team then tests on the staging environment for an agreed period and signs off. Anything that does not match the agreed scope is fixed at no charge, and after launch you get five months of free maintenance. How long formal liability for non-conformity lasts should be written into the contract and checked by your adviser.",
+    answer: "Before handover we test against the acceptance criteria in the scope, and we write a test specification listing the main cases and their expected results, which fits Japanese acceptance (kenshu) routines. Your team then tests on the staging environment for an agreed period and signs off. Anything that does not match the agreed scope is fixed at no charge, and after launch you get two months of free maintenance. How long formal liability for non-conformity lasts should be written into the contract and checked by your adviser.",
   },
   {
     question: "Can you integrate with kintone, freee and Money Forward Cloud?",
@@ -85,7 +85,7 @@ const faqs = [
   },
   {
     question: "What support do we get after launch?",
-    answer: `Every project includes five months of free maintenance after launch: bug fixes, security and dependency updates, backups, monitoring and small changes. After that, maintenance continues from ${both("Maintenance")}, or you contact us only when you need something. We agree response times in writing, such as same-day replies to issues raised within our working hours, but we do not run a 24-hour operations centre. If your system needs round-the-clock on-call support, we will say so early and help you plan for it.`,
+    answer: `Every project includes two months of free maintenance after launch: bug fixes, security and dependency updates, backups, monitoring and small changes. After that, maintenance continues from ${both("Maintenance")}, or you contact us only when you need something. We agree response times in writing, such as same-day replies to issues raised within our working hours, but we do not run a 24-hour operations centre. If your system needs round-the-clock on-call support, we will say so early and help you plan for it.`,
   },
   {
     question: "Can an IT subsidy pay for our project?",
@@ -169,7 +169,7 @@ const facts: [string, string][] = [
   ["Cloud", "AWS, Google Cloud or Azure in Tokyo and Osaka"],
   ["Contracts", "Fixed-scope builds with milestone payments"],
   ["Billing", "USD, or JPY on request, via Wise or wire"],
-  ["After launch", "5 months of maintenance free"],
+  ["After launch", "2 months of maintenance free"],
 ];
 const pills = ["Business systems", "B2B ordering portals", "kintone, freee and LINE integrations", "Excel and legacy replacement", "Cloud migration in Tokyo", "Data dashboards"];
 const heroOrigin = "Engineers based in India · Remote delivery across Japan · No Japan office";
@@ -181,11 +181,11 @@ const stats = [
   { value: "3", label: "Engineers who scope and write your code" },
   { value: usd("Custom web app"), label: `Custom web app starting price, about ${jpy("Custom web app")}` },
   { value: "790,000", label: "IT workers Japan could lack by 2030 (METI estimate)" },
-  { value: "5", label: "Months of maintenance free after launch" },
+  { value: "2", label: "Months of maintenance free after launch" },
 ];
 
 const answerHeading = "Looking for a software development team or IT outsourcing partner for Japan?";
-const quickAnswer = `BtechWaleTech is a team of three engineers in India that builds custom web applications, business systems, integrations, cloud setups and data dashboards for companies in Japan, remotely and in English. Custom web apps start from ${both("Custom web app")} and AI automation from ${both("AI automation")}, compared with ¥500,000 to ¥2,000,000 for a small web system in 2026 Japanese price guides. You get a written scope, a staging environment within the first weeks, code and accounts in your company's name, and five months of free maintenance.`;
+const quickAnswer = `BtechWaleTech is a team of three engineers in India that builds custom web applications, business systems, integrations, cloud setups and data dashboards for companies in Japan, remotely and in English. Custom web apps start from ${both("Custom web app")} and AI automation from ${both("AI automation")}, compared with ¥500,000 to ¥2,000,000 for a small web system in 2026 Japanese price guides. You get a written scope, a staging environment within the first weeks, code and accounts in your company's name, and two months of free maintenance.`;
 const answerMore = "We suit teams with at least one person who can work in English. We have no Japan office, do not hold ISO 27001 and are not eligible for IT subsidies, so if any of those is a firm requirement, a Japanese vendor will suit you better.";
 const snapshotCaption = "Software development for Japan at a glance";
 const snapshot = [
@@ -372,7 +372,7 @@ const guide: Article[] = [
       `<strong>AI automation, from ${both("AI automation")}:</strong> one mapped and integrated workflow, for example FAX or PDF orders read by AI-OCR into your order system with a person checking uncertain fields, or kintone records synced with freee and announced in Chatwork. Details are on the <a href="/japan/ai-automation-engineer/">AI automation page for Japan</a>.`,
       `<strong>Android and iOS app, from ${both("Android")}:</strong> one Flutter or React Native app for iPhone and Android with login, forms, push notifications and an admin panel, often the mobile front end of a custom system. See <a href="/it-services/android-ios-app/">our Android and iOS app service</a>.`,
       `<strong>Ecommerce, from ${both("Ecommerce")}:</strong> a store with cart, checkout, Japanese payment methods and order management, which can connect to your inventory or accounting system as part of a larger build.`,
-      `<strong>Maintenance, from ${both("Maintenance")}:</strong> bug fixes, security and dependency updates, backups, monitoring and small changes, after the five free months that follow every launch.`,
+      `<strong>Maintenance, from ${both("Maintenance")}:</strong> bug fixes, security and dependency updates, backups, monitoring and small changes, after the two free months that follow every launch.`,
     ],
     after: [
       `<strong>Why our prices are lower.</strong> A Japanese system vendor's price has to cover a Tokyo or Osaka office, a sales team that wins the project, a project manager who coordinates it, and often second and third-tier subcontractors who each keep a margin, a pattern the industry itself calls multi-layer subcontracting (${ja("多重下請け構造")}). We carry none of those costs. Three engineers in India, working remotely, scope, build and support the system themselves. That is the reason for the gap, not shortcuts in testing or security.`,
@@ -421,7 +421,7 @@ const guide: Article[] = [
       "<strong>How we adapt it.</strong> We keep the discipline and drop the weight. Requirements become a short English scope with a screen list, user roles, data items, business rules and acceptance criteria. Design becomes screen sketches and a data model reviewed together in a call. Instead of one delivery at the end, features are released to staging in small batches, so your team checks real screens against the scope every week.",
       `<strong>Test specifications.</strong> Japanese clients often expect a test specification (${ja("テスト仕様書")}): a table of test cases with steps, expected results, actual results and a pass or fail mark. We write one for the main workflows and for the business rules that matter most, such as tax rounding, closing dates and permission checks, and we add automated tests for calculations and integrations so the same checks run on every future change.`,
       "<strong>Acceptance.</strong> Before release, your team tests on staging for an agreed period using real scenarios, ideally with anonymised copies of real data. Issues go into one shared list with screenshots and are classified as defects against the scope or as new requests, then fixed or quoted accordingly. Sign-off happens when the agreed criteria pass, and it triggers the final milestone payment.",
-      `<strong>Defects after delivery.</strong> Since the revision of Japan's Civil Code in 2020, the old concept of warranty against defects (${ja("瑕疵担保責任")}) has been replaced by liability for non-conformity with the contract (${ja("契約不適合責任")}), under which a client can generally ask for repair, a price reduction, damages or termination when a deliverable does not match the contract. Under the default rules the client must notify the vendor within one year of discovering the problem, but contracts commonly set their own period and limits, so this should be written into your contract and reviewed by your adviser. In practice, anything that does not match the agreed scope is fixed at no cost, and the five free months of maintenance after launch cover fixes and small changes.`,
+      `<strong>Defects after delivery.</strong> Since the revision of Japan's Civil Code in 2020, the old concept of warranty against defects (${ja("瑕疵担保責任")}) has been replaced by liability for non-conformity with the contract (${ja("契約不適合責任")}), under which a client can generally ask for repair, a price reduction, damages or termination when a deliverable does not match the contract. Under the default rules the client must notify the vendor within one year of discovering the problem, but contracts commonly set their own period and limits, so this should be written into your contract and reviewed by your adviser. In practice, anything that does not match the agreed scope is fixed at no cost, and the two free months of maintenance after launch cover fixes and small changes.`,
     ],
   },
   {
@@ -559,7 +559,7 @@ const guide: Article[] = [
     id: "maintenance",
     heading: "Maintenance, response times, documentation and handover",
     paragraphs: [
-      `In Japan, maintenance and operations (${ja("保守運用")}) are usually a separate contract from the build, and over the life of a system they can cost more than the build itself. Every system we launch includes five months of free maintenance: bug fixes, security and dependency updates, backups, monitoring and small changes. After that, maintenance continues from ${both("Maintenance")}, or you can call on us only when needed.`,
+      `In Japan, maintenance and operations (${ja("保守運用")}) are usually a separate contract from the build, and over the life of a system they can cost more than the build itself. Every system we launch includes two months of free maintenance: bug fixes, security and dependency updates, backups, monitoring and small changes. After that, maintenance continues from ${both("Maintenance")}, or you can call on us only when needed.`,
       "<strong>Response times.</strong> We agree response times in writing, typically a same-day reply to issues raised during our working hours and priority handling for anything that stops the business. We do not run a 24-hour staffed operations centre. For systems that must be watched around the clock, we set up automated monitoring and alerts and help you plan out-of-hours cover.",
       "<strong>Documentation in English.</strong> At handover you receive a developer README, an architecture diagram, the data model, a list of integrations and where their credentials are stored, deployment and rollback instructions, and a short operations guide covering backups and routine tasks. Screen manuals for Japanese staff can be produced as short recorded walkthroughs, with Japanese captions or text added by your translator.",
       "<strong>No lock-in.</strong> Code sits in a repository your company owns, infrastructure is defined as code, and every account is in your name. If you later move maintenance to an in-house engineer or another vendor in Japan, the handover takes days rather than months.",
@@ -628,7 +628,7 @@ const comparison: [string, string, string, string][] = [
   ["Meetings in person", "Yes, including on-site", "Sometimes, if local", "No: video calls, WhatsApp and staging only"],
   ["Security certification", "Larger vendors often hold ISO 27001 or the Privacy Mark", "Rarely", "None; documented practices and honest check sheets"],
   ["Hours in Japan time", "Weekday office hours", "Depends on the person", "12:30 pm to 12:30 am JST, seven days on WhatsApp"],
-  ["After launch and ownership", "Paid maintenance contract; code ownership depends on the contract", "Often hard to reach after delivery", "5 months free maintenance; code and accounts in your name"],
+  ["After launch and ownership", "Paid maintenance contract; code ownership depends on the contract", "Often hard to reach after delivery", "2 months free maintenance; code and accounts in your name"],
 ];
 
 // ---------- Process ----------
@@ -640,7 +640,7 @@ const process: [string, string][] = [
   ["Design", "Screen sketches, data model and integration plan, reviewed with your team before any code is written."],
   ["Build in stages", "Features released to a private staging environment every few days, so you test with real workflows as the system grows."],
   ["Test & acceptance", "Test cases run against the scope, your team's acceptance testing, a data migration rehearsal and security checks."],
-  ["Launch & handover", "Production release in your cloud account, logins and English documentation handed over, then 5 months of free maintenance."],
+  ["Launch & handover", "Production release in your cloud account, logins and English documentation handed over, then 2 months of free maintenance."],
 ];
 const timelineFine = "Timelines assume requirements are approved on time and that access to existing systems and data is available early. Data migration, integrations with older systems and multi-person approvals add time to custom builds.";
 

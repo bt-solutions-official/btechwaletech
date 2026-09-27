@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First release", "Typically 6–12 weeks"],
     ["Quote", "Itemised within about 2 working days"],
     ["Hosting", "Your cloud account, your data"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers you talk to directly" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free support after go-live" },
+    { value: "2", label: "Months of free support after go-live" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom platform", value: `From ${P.software}, 6–12 weeks` },
       { label: "Devices", value: "Android tablet kiosk, guard phone, thermal printer you buy" },
       { label: "Data", value: "Hosted in your own cloud account with retention rules you set" },
-      { label: "Support", value: `5 months free, then from ${P.care} monthly` },
+      { label: "Support", value: `2 months free, then from ${P.care} monthly` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Visitor management system pricing",
-    note: `A custom visitor management system usually means a web back office plus one or two apps, so it starts at ${P.software}. If you already have a back end and only need a guard or host app, that piece starts at ${P.app}. Cost goes up with the number of site types (office, plant, school), approval layers, printing and kiosk modes, contractor compliance checks, and integrations with HR, attendance or access-control hardware that exposes an API. WhatsApp invites and alerts beyond basic notifications, or AI features such as reading ID documents, start at ${P.ai}. Maintenance starts at ${P.care} a month after five free months.`,
+    note: `A custom visitor management system usually means a web back office plus one or two apps, so it starts at ${P.software}. If you already have a back end and only need a guard or host app, that piece starts at ${P.app}. Cost goes up with the number of site types (office, plant, school), approval layers, printing and kiosk modes, contractor compliance checks, and integrations with HR, attendance or access-control hardware that exposes an API. WhatsApp invites and alerts beyond basic notifications, or AI features such as reading ID documents, start at ${P.ai}. Maintenance starts at ${P.care} a month after two free months.`,
   },
   guideLabel: "Visitor management system guide",
   guide: [
@@ -244,7 +244,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom visitor management system from BtechWaleTech starts at ${P.software} for the web platform with a guard or kiosk app, and a standalone guard or host app starts at ${P.app}. The final quote depends on scope, not on the number of visitors you expect.`,
         `Five drivers set the price: how many site types you need to model, how complex approvals are, whether you need kiosk and printing modes, how many integrations are involved (HR directory, attendance, access control, ERP), and whether you want WhatsApp automation or AI features such as reading details off an ID card. Multi-site groups add a head-office layer and per-site settings.`,
-        `Running costs are separate and usually modest: cloud hosting in your account, SMS or WhatsApp message charges from the provider, and your devices. After five free months, maintenance starts at ${P.care} a month. Compare this with custom work in general on <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
+        `Running costs are separate and usually modest: cloud hosting in your account, SMS or WhatsApp message charges from the provider, and your devices. After two free months, maintenance starts at ${P.care} a month. Compare this with custom work in general on <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
       ],
     },
     {
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose subscription visitor software when your flow is standard and speed matters most; choose a custom visitor management system when your rules, sites or integrations are specific enough that you would otherwise be working around the product every day.`,
         `Signals that point to custom: a plant with contractor induction and material passes; a campus with schools, hostels and offices under one security team; a group with many sites where per-site fees add up; data that must stay in your own cloud account; or integration with an in-house HR, attendance or ERP system. Signals that point to subscription: a single office, no special rules, and nobody to own the software internally.`,
-        `A custom build also brings responsibilities: you own upkeep, updates and hosting. That is why we include five months of free maintenance and document everything, but it is still a real consideration. The general trade-off is discussed in <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf vs custom software</a>.`,
+        `A custom build also brings responsibilities: you own upkeep, updates and hosting. That is why we include two months of free maintenance and document everything, but it is still a real consideration. The general trade-off is discussed in <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf vs custom software</a>.`,
       ],
     },
     {
@@ -327,7 +327,7 @@ const content: FreelanceContent = {
         ["Standalone guard or host app", "App on your existing back end", `From ${P.app}`, "6–10 weeks"],
         ["WhatsApp and AI add-ons", "Automated invites, ID reading, smart alerts", `From ${P.ai}`, "2–4 weeks"],
         ["Visitor information website", "Directions, parking, rules and forms", `From ${P.site}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", "Fixes, updates, new Android versions", `From ${P.care}/month`, "Ongoing"],
+        ["Maintenance after 2 free months", "Fixes, updates, new Android versions", `From ${P.care}/month`, "Ongoing"],
       ],
     },
   ],
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Flow design and screens", "We draw the approval chains and design guard, kiosk and host screens as a clickable prototype your security head and admin team can try."],
       ["Build and device testing", "Ankur builds the apps and back office, Santosh sets up hosting in your cloud account, and we test on the exact tablet and printer models you bought."],
       ["Pilot gate", "One gate or reception goes live with the paper register running alongside. Vedansh gathers guard feedback daily and we fix issues before wider rollout."],
-      ["Full rollout and handover", "Remaining gates switch over, you receive code, credentials, guides and training recordings, and five months of free maintenance begins."],
+      ["Full rollout and handover", "Remaining gates switch over, you receive code, credentials, guides and training recordings, and two months of free maintenance begins."],
     ],
   },
   faqHeading: "Visitor management system: frequently asked questions",
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Replacing your visitor register? Send us your gate layout",
-    note: `Share how many gates and sites you run and who your visitors are. We reply on WhatsApp with questions and send an itemised quote in about two working days. Custom visitor management systems start at ${P.software}, hosted in your account, with five months of free maintenance.`,
+    note: `Share how many gates and sites you run and who your visitors are. We reply on WhatsApp with questions and send an itemised quote in about two working days. Custom visitor management systems start at ${P.software}, hosted in your account, with two months of free maintenance.`,
   },
 };
 

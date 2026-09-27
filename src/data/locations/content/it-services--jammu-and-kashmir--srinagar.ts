@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Srinagar · Kashmir · Jammu and Kashmir",
     h1: "Freelance software developers in Srinagar for booking systems, AI agents and apps that survive the off-season",
     lede:
-      "Searching for a software development team in Srinagar usually means you want a system, not just a web page: a room and houseboat booking engine, a tour desk CRM, an order tool for a handicraft exporter, or an AI assistant that answers the same guest questions every day. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, web apps, mobile apps, AI automation, dashboards, online stores and SEO for Kashmir businesses, with published starting prices and five months of free maintenance after launch.",
+      "Searching for a software development team in Srinagar usually means you want a system, not just a web page: a room and houseboat booking engine, a tour desk CRM, an order tool for a handicraft exporter, or an AI assistant that answers the same guest questions every day. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, web apps, mobile apps, AI automation, dashboards, online stores and SEO for Kashmir businesses, with published starting prices and two months of free maintenance after launch.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Online stores from ₹50,000", "Works on weak mobile data", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that answer guest and customer questions on WhatsApp, draft itineraries, and summarise enquiries so owners see what matters each morning.",
     data: "Dashboards for occupancy, package margins, order status and receivables that pull from spreadsheets, Tally or the software we build.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for Srinagar guests, drivers, delivery staff and orchard field teams.",
-    maintenance: "Five months of free maintenance after launch, then monthly care from ₹8,000 for fixes, updates, backups and uptime checks.",
+    maintenance: "Two months of free maintenance after launch, then monthly care from ₹8,000 for fixes, updates, backups and uptime checks.",
   },
   whyUsIntro:
     "A Srinagar business often has two choices: a local vendor who resells a template, or a metro agency that bills metro rates. BtechWaleTech sits between. Three engineers write your code directly, publish starting prices up front, and put every account in your name.",
@@ -146,7 +146,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for a Srinagar business means your website and software run on servers in a data centre, not on an office computer, so a local power cut or a burst pipe in January does not take your system down. We deploy on AWS, DigitalOcean or similar providers, with daily backups and monitoring.",
         "Every account is registered in your name: domain, hosting, email and the code repository. We set up SSL, automatic deploys from the repository, uptime alerts and security updates. If you ever change developers, the new team receives everything without negotiation. We also help with business email, Google Workspace, and moving old sites off expensive shared hosting.",
-        "After launch, the first five months of maintenance are included free, covering fixes, updates, backups and speed checks. Afterwards support starts from ₹8,000 a month, or you can call us only when something needs changing. We reply on WhatsApp seven days a week, which matters in a season when a booking form cannot wait until Monday.",
+        "After launch, the first two months of maintenance are included free, covering fixes, updates, backups and speed checks. Afterwards support starts from ₹8,000 a month, or you can call us only when something needs changing. We reply on WhatsApp seven days a week, which matters in a season when a booking form cannot wait until Monday.",
       ],
     },
     {
@@ -191,7 +191,7 @@ const content: CityContent = {
       paragraphs: [
         "A Srinagar tourism business should start a software project in autumn or early winter, so it is tested and running before bookings pick up in March. Most custom systems need six to twelve weeks plus a few weeks of real use to smooth out, and launching in the middle of peak season leaves no time for staff to learn it.",
         "Craft and dry fruit sellers have the opposite rhythm: the months before Diwali, winter weddings and year-end gifting are busiest, so a store or order system should launch by late summer. Schools plan around admission months, and clinics can start any time.",
-        "Our process is simple: a discovery call, a written scope with an itemised quote, weekly staging links you can test on your phone, a training session for staff, then launch and five months of included maintenance. The biggest cause of delay is waiting for photos, rate cards and approvals, so we agree a content checklist on day one.",
+        "Our process is simple: a discovery call, a written scope with an itemised quote, weekly staging links you can test on your phone, a training session for staff, then launch and two months of included maintenance. The biggest cause of delay is waiting for photos, rate cards and approvals, so we agree a content checklist on day one.",
       ],
       list: [
         "Week 1: discovery call and written scope",
@@ -263,7 +263,7 @@ const content: CityContent = {
     },
     {
       question: "What maintenance do you provide after launch?",
-      answer: "Five months of maintenance come free after your system goes live, covering bug fixes, content updates, security patches, backups and uptime and speed checks. After that you can choose a monthly plan from ₹8,000 or contact us only when something needs changing. We reply on WhatsApp seven days a week, including during the tourist season.",
+      answer: "Two months of maintenance come free after your system goes live, covering bug fixes, content updates, security patches, backups and uptime and speed checks. After that you can choose a monthly plan from ₹8,000 or contact us only when something needs changing. We reply on WhatsApp seven days a week, including during the tourist season.",
     },
     {
       question: "How long before SEO brings results for a Srinagar website?",

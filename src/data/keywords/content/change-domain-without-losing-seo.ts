@@ -261,7 +261,7 @@ const content: FreelanceContent = {
         `The cost to change domain without losing SEO is mostly people’s time, and the time depends on URL count, hostnames, email setup and how many listings need updating. The domain itself is a small registrar fee you pay directly.`,
         `A small business site moving with no design change, one hostname and email on a standard provider is a modest job: map, rule, test, file, update listings, monitor. A large store or content site with subdomains, several email-sending services, old campaign URLs and hundreds of listings takes several days of preparation plus weeks of monitoring.`,
         `Across the market, quotes vary widely because some include only the redirect rule while others include outreach, email work and monitoring. Ask which of the steps on this page are included. Our quote lists them as separate lines so you can take on the listing updates yourself if you prefer.`,
-        `Monitoring through the forwarding window is part of monthly SEO from ${P.seo} (${P.seoUsd} abroad). If the rebrand needs a new site, a business site starts at ${P.site} and an SEO site of 299+ pages at ${P.seoSite}, with redirects from the old domain planned from the start. After launch, 5 months of maintenance are free, then from ${P.care}. See all plans on <a href='/pricing/'>pricing</a>.`,
+        `Monitoring through the forwarding window is part of monthly SEO from ${P.seo} (${P.seoUsd} abroad). If the rebrand needs a new site, a business site starts at ${P.site} and an SEO site of 299+ pages at ${P.seoSite}, with redirects from the old domain planned from the start. After launch, 2 months of maintenance are free, then from ${P.care}. See all plans on <a href='/pricing/'>pricing</a>.`,
       ],
     },
     {
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["Rebrand with a large SEO site", "299+ pages, path-preserving URL plan", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`],
         ["Store moving to a new domain", "Ecommerce build with product and collection mapping", `From ${P.shop}`, `From ${P.shopUsd}`],
         ["Web app or portal on a new domain", "Callbacks, logins and APIs moved", `From ${P.software}`, `From ${P.softwareUsd}`],
-        ["Upkeep after month five", "Updates, backups, redirect and renewal checks", `From ${P.care}`, `From ${P.careUsd}`],
+        ["Upkeep after month two", "Updates, backups, redirect and renewal checks", `From ${P.care}`, `From ${P.careUsd}`],
       ],
       hideSm: [3],
     },

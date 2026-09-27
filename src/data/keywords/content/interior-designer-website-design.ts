@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Main goal", "Qualified site-visit bookings"],
     ["Instagram", "Posts shown without heavy scripts"],
     ["Quote", "Line by line, about 2 working days"],
-    ["Free care", "5 months after launch"],
+    ["Free care", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on every build" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free edits and fixes" },
+    { value: "2", label: "Months of free edits and fixes" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Media", value: "Before/after sliders, 3D walkthroughs on click" },
       { label: "Social", value: "Instagram posts shown as fast static tiles" },
       { label: "Starting price", value: `From ${P.site}, 1–2 weeks` },
-      { label: "Ongoing", value: `5 months free, then from ${P.care}` },
+      { label: "Ongoing", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -196,7 +196,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A studio site with a room-wise portfolio, package pages and a booking form usually fits our static plan starting at ${P.site} (${P.siteUsd} abroad) and takes one to two weeks. Larger studios with many projects, several cities and a CMS for the team to add work take longer and cost more.`,
         `Across the market, quotes for interior designer website design differ widely for briefs that sound identical. Look for the differences in scope: how many photographs are tagged by room, whether before-and-after pairs are built, whether the booking connects to a calendar, and whether Instagram is embedded the heavy way or integrated properly. A cheaper quote that skips the form and booking step often costs more in lost visits.`,
-        `Our quote itemises structure, room tagging, before-and-after pairs, package pages, walkthrough embeds, booking and integrations separately. Maintenance is free for five months after launch, then optional from ${P.care} a month. Monthly SEO starts at ${P.seo}. Domain and hosting are paid by you directly.`,
+        `Our quote itemises structure, room tagging, before-and-after pairs, package pages, walkthrough embeds, booking and integrations separately. Maintenance is free for two months after launch, then optional from ${P.care} a month. Monthly SEO starts at ${P.seo}. Domain and hosting are paid by you directly.`,
       ],
     },
     {
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
         { heading: "Days 6–9", text: "All room pages, before-and-after pairs, package pages, walkthrough embeds, Instagram grid." },
         { heading: "Days 10–12", text: "Form, slot booking, WhatsApp alerts, schema, Search Console, a single review round and launch." },
       ],
-      after: [`New projects added during the five free months of maintenance are included; send photographs on WhatsApp and they go up tagged by room.`],
+      after: [`New projects added during the two free months of maintenance are included; send photographs on WhatsApp and they go up tagged by room.`],
     },
     {
       id: "local-seo",
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is illustrative, not a client story. A three-person interior studio in Hyderabad mostly furnishes new 2BHK and 3BHK flats in gated communities on the western side of the city. Enquiries arrive as Instagram DMs asking “price?”, and half the site visits turn out to be outside budget.`,
         `The plan would put room filters on the home page, two package pages for 2BHK and 3BHK with inclusions and exclusions in the studio’s words, and one per sq ft page for custom work. Twelve homes would each get a complete-home page with before-and-after pairs from fixed corners. The form would ask community name, flat type, carpet area, rooms in scope, budget band and possession month, then show visit slots on weekday evenings and Saturdays, with a WhatsApp confirmation.`,
-        `The quote would start from the static plan at ${P.site}, with separate lines for tagging photographs, building the before-and-after pairs and the calendar-linked booking. The Instagram grid would refresh automatically, and the bio link would point to a short landing page with the booking form. During the five free months, new homes would be added as the supervisor sends handover photographs.`,
+        `The quote would start from the static plan at ${P.site}, with separate lines for tagging photographs, building the before-and-after pairs and the calendar-linked booking. The Instagram grid would refresh automatically, and the bio link would point to a short landing page with the booking form. During the two free months, new homes would be added as the supervisor sends handover photographs.`,
       ],
     },
     {
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
         ["Lead scoring and WhatsApp follow-up", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High-volume enquiry handling"],
         ["Client project-tracking app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Studios sharing progress with clients"],
         ["Monthly local SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Locality pages, profile, Search Console"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New projects, price updates, backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New projects, price updates, backups"],
       ],
       hideSm: [2],
     },
@@ -348,7 +348,7 @@ const content: FreelanceContent = {
       ["See one room page working", "A real room filter page and one complete home go onto a private staging link first, so you judge them on your own phone."],
       ["Build the rest", "Remaining rooms, before-and-after sliders, package pages, walkthrough previews, Instagram grid, form and slot booking are added and tested."],
       ["Launch in your accounts", "Domain, hosting and code stay yours. We connect Search Console and your calendar, test WhatsApp alerts and hand over every login."],
-      ["Keep adding homes", "For five months after launch, new projects and price updates are free. After that, maintenance is optional."],
+      ["Keep adding homes", "For two months after launch, new projects and price updates are free. After that, maintenance is optional."],
     ],
   },
   faqHeading: "Interior designer website design: common questions",
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
     { question: "Is Instagram enough for an interior designer, or do I need a website?", answer: "Instagram is excellent for discovery, but it cannot filter by room, show price ranges clearly or capture budget and possession date before a call. A website catches the people ready to act. Most studios keep both, with the Instagram bio link pointing to a landing page with the booking form." },
     { question: "How long does it take to build an interior designer website?", answer: "One to two weeks when photographs are already grouped by home, two to three weeks if they need sorting and tagging from scratch. Collecting good before photographs and agreeing price ranges usually takes longer than the build itself, so starting there saves time." },
     { question: "What questions should an interior design enquiry form ask?", answer: "Property type, carpet area, city and locality or society, rooms in scope, budget band and possession or start date. An optional floor plan upload helps. Use dropdowns so it takes under a minute on a phone, and match budget bands to the ranges on your pricing page." },
-    { question: "Can my team upload new projects themselves?", answer: "Yes, with a headless CMS or WordPress. Your team fills a simple form per home, tags photographs by room and uploads before and after images from a phone; the site resizes everything automatically. With a static build you send photographs to us, and during the five free months that is included." },
+    { question: "Can my team upload new projects themselves?", answer: "Yes, with a headless CMS or WordPress. Your team fills a simple form per home, tags photographs by room and uploads before and after images from a phone; the site resizes everything automatically. With a static build you send photographs to us, and during the two free months that is included." },
     { question: "Does interior designer website design include SEO?", answer: `The basics are built in: descriptive titles, alt text, schema markup, sitemap, Search Console and consistency with your Google Business Profile. Ongoing local SEO, such as locality pages backed by real projects, starts at ${P.seo} a month. No one can guarantee rankings; real local work presented clearly is the most reliable path.` },
     { question: "Can I show client reviews on my interior design website?", answer: "Only genuine ones, used with the client’s consent. We do not write testimonials or copy reviews. A link to your Google Business Profile lets visitors read reviews where they were posted. Real before-and-after photographs and a clear process often persuade more than quotes." },
     { question: "Should I list packages like 2BHK and 3BHK on my website?", answer: "If many clients have similar new flats, yes. Package pages with a fixed list of modular units, finishes and exclusions make comparison easy and suit gated communities with repeating layouts. Keep a per sq ft or custom option alongside for homes that do not fit, and review the figures regularly." },
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Can you connect the website to WhatsApp and my calendar?", answer: "Yes. Enquiries arrive as a formatted WhatsApp message and optionally in a Google Sheet or CRM. A slot picker reads your Google Calendar so visitors choose from real availability, and both sides get a WhatsApp confirmation with the visit details." },
     { question: "Freelancer or agency for interior designer website design?", answer: "A small freelance team suits most studios, because the work is structure, photographs, forms and speed, and you speak directly with the people building it. An agency makes sense if you also want branding, photography and paid campaigns under one contract. Ask any candidate how they would handle Instagram and before-and-after images." },
     { question: "How are payments made for the website project?", answer: "Payments are staged against work you can see, and nothing is billed before you approve the itemised quote in writing. Studios in India pay by UPI or bank transfer with an invoice; studios abroad pay in USD by Wise, bank wire or PayPal. Domain and hosting are billed to you directly." },
-    { question: "What happens after my interior design website goes live?", answer: `For five months, new homes, price updates, small changes and fixes are included free. After that, maintenance is optional from ${P.care} a month, or you can manage the site through a CMS yourself. Revisit your price ranges whenever material costs move, so the site stays honest.` },
+    { question: "What happens after my interior design website goes live?", answer: `For two months, new homes, price updates, small changes and fixes are included free. After that, maintenance is optional from ${P.care} a month, or you can manage the site through a CMS yourself. Revisit your price ranges whenever material costs move, so the site stays honest.` },
     { question: "Can you build a project-tracking app for my clients?", answer: `Yes, as a separate build. An Android and iOS app starting at ${P.app} can show clients their design approvals, production status, site photographs and payment milestones. Most studios start with the website and add an app once they know which updates clients ask about most.` },
     { question: "Do you visit homes or photograph projects?", answer: "No. We work remotely from India, with reviews on private staging links and calls over WhatsApp or video. Photographs come from you, your supervisor or a photographer. We sort, tag, compress and present them, and we can send a short shot list so before-and-after pairs line up." },
   ],
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want your interior designer website design to book more site visits?",
-    note: `Send us a few homes you are proud of and your price approach on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with everything in your name and five months of free care after launch.`,
+    note: `Send us a few homes you are proud of and your price approach on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with everything in your name and two months of free care after launch.`,
   },
 };
 

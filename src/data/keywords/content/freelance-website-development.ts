@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     eyebrow: "Freelance website development · Every phase, in order",
     h1: "Freelance website development, step by step: from the first sitemap to launch day",
     lede: `Freelance website development is the full job of planning, designing, coding and publishing a business website with an independent developer or a small freelance team instead of an agency. This page walks through every phase as BtechWaleTech runs it: the one-page brief, the <strong>sitemap</strong>, content, phone-first design, the build, testing and the launch-day checklist. You will see what happens each week, what you are asked to supply, and where the cost comes from, with static sites starting at ${P.site}.`,
-    pills: ["Brief and sitemap", "Content plan", "Phone-first design", "Build on staging", "Testing checklist", "Launch and handover", "5 months free care"],
+    pills: ["Brief and sitemap", "Content plan", "Phone-first design", "Build on staging", "Testing checklist", "Launch and handover", "2 months free care"],
     origin: "Three freelance developers · Remote from India · Projects for every state and abroad",
   },
   facts: [
@@ -45,7 +45,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers who know your project" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "100", label: "Pages covered by the static plan" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "What are the steps in freelance website development?",
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Step 4", value: "Design: home page and one inner template, phone first" },
       { label: "Step 5", value: "Build: all pages coded on a private staging link" },
       { label: "Step 6", value: "Testing: forms, speed, links, devices, SEO tags" },
-      { label: "Step 7", value: `Launch and care: DNS, SSL, Search Console, then 5 free months` },
+      { label: "Step 7", value: `Launch and care: DNS, SSL, Search Console, then 2 free months` },
     ],
   },
   services: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Landing page for ads", note: "A one-page sitemap, but tracking, form routing and load speed get extra attention because ad spend depends on them.", href: "/landing-page-developer/", size: "md" },
       { name: "Redesign of an old site", note: "Starts with an inventory of existing URLs so the new sitemap keeps search traffic through redirects.", href: "/website-redesign-freelancer/", size: "sm" },
       { name: "Monthly SEO after launch", note: `Content, fixes and Search Console reporting once the site is live, from ${P.seo}. No ranking promises.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Maintenance", note: `Five months free after launch, then from ${P.care} a month for updates, backups and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Two months free after launch, then from ${P.care} a month for updates, backups and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["SEO and speed", "Basic settings", "Sometimes skipped", "Titles, schema, sitemap and Core Web Vitals checked before launch"],
       ["Testing", "Whatever you notice", "Varies", "Written checklist across devices, forms and links"],
       ["Launch", "One click, platform domain", "DNS help if asked", "DNS, SSL, Search Console and analytics set up in your accounts"],
-      ["After launch", "Monthly platform fee", "Paid per fix", `5 months free, then from ${P.care}`],
+      ["After launch", "Monthly platform fee", "Paid per fix", `2 months free, then from ${P.care}`],
       ["Limit", "Locked to the platform", "Stops if one person is away", "Three people; not a fit for 20-developer programmes"],
     ],
     fine: "A DIY builder is a sensible choice for a hobby page or a two-week event; the phases on this page matter most once the site has to bring in enquiries.",
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Launch day is short if the earlier phases were done properly. We point your domain’s DNS to the hosting, confirm the SSL certificate, switch off the staging “noindex” instruction, and check that the live site matches staging page for page.`,
         `Next comes the search setup. The domain is verified in Google Search Console under your Google account, the XML sitemap is submitted, and analytics starts recording. For local businesses we also check that the website link and details on your Google Business Profile match the new site. If an older site existed on the same domain, redirects from old URLs to new ones go live at the same moment.`,
-        `Finally you receive handover notes: where each account lives, how to request changes, how backups work and what the next five months of free maintenance cover. The balance payment is due at launch, and nothing beyond the approved quote is billed.`,
+        `Finally you receive handover notes: where each account lives, how to request changes, how backups work and what the next two months of free maintenance cover. The balance payment is due at launch, and nothing beyond the approved quote is billed.`,
       ],
     },
     {
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
       heading: "Handover and ownership: what you should hold when the build ends",
       paragraphs: [
         `When freelance website development finishes, you should hold every key yourself. That means the domain registered in your name, the hosting account billed to you, the Git repository with the full source code, the Google Search Console property and analytics under your Google account, and admin access to any CMS or form tool.`,
-        `We create these accounts in your name from the first week, so there is never a “transfer later” step to chase. If you ever want another developer to take over, you can share access without asking us. That independence is also why we are comfortable offering five months of free maintenance: you stay because the work is useful, not because you are locked in.`,
+        `We create these accounts in your name from the first week, so there is never a “transfer later” step to chase. If you ever want another developer to take over, you can share access without asking us. That independence is also why we are comfortable offering two months of free maintenance: you stay because the work is useful, not because you are locked in.`,
         `After the free period, maintenance is optional and starts at ${P.care} a month for updates, backups, security checks and small edits. You can also make text changes yourself if the site uses a CMS, or send them over WhatsApp in batches.`,
       ],
     },
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue and checkout testing"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Database design and testing"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Content and technical fixes"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates and backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates and backups"],
       ],
       hideSm: [2],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Fill the content outlines", "Use the per-page outlines to supply text, photos and facts, or ask us to write from your notes as a separate priced line."],
       ["Review on your phone", "Open the staging link on your own handset, gather everyone’s comments and send them in one message marked must-have or nice-to-have."],
       ["Final check and launch", "Walk through the tested site, approve it, pay the balance and share DNS access. We handle SSL, Search Console and analytics the same day."],
-      ["Use the free months", "For five months after launch, send fixes and small updates on WhatsApp. After that, keep maintenance or manage the site yourself."],
+      ["Use the free months", "For two months after launch, send fixes and small updates on WhatsApp. After that, keep maintenance or manage the site yourself."],
     ],
   },
   faqHeading: "Freelance website development: common questions",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Who owns the website after the freelancer finishes?", answer: "You should own everything: the domain, the hosting account, the source code in a Git repository, the Search Console property and the analytics account. BtechWaleTech sets up all of these in the client’s name from the first week, so there is nothing to transfer later and you can move to any developer whenever you choose." },
     { question: "How are payments split for a freelance website project?", answer: "Payments are usually staged: an advance when the quote is approved, a middle payment when designs or a working staging build are shown, and the balance at launch. BtechWaleTech accepts UPI or bank transfer in India and Wise, bank wire or PayPal from abroad, and nothing is billed before you approve the itemised written quote." },
     { question: "Does freelance website development include SEO?", answer: "It should include on-page and technical SEO basics built into the site: unique titles and descriptions, clean URLs, schema markup, an XML sitemap, fast loading and Search Console setup. Ongoing work such as new content, local listings and monthly reporting is a separate service. Nobody can honestly guarantee specific Google rankings, so treat such promises as a warning sign." },
-    { question: "What maintenance does a new website need after launch?", answer: `A new site needs security and software updates, backups, uptime checks, fixes for anything that breaks and small content changes. BtechWaleTech includes five months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care} a month, or you can manage the site yourself with the handover notes provided.` },
+    { question: "What maintenance does a new website need after launch?", answer: `A new site needs security and software updates, backups, uptime checks, fixes for anything that breaks and small content changes. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care} a month, or you can manage the site yourself with the handover notes provided.` },
     { question: "Should I sign a contract with a freelance web developer?", answer: "Yes. At minimum you need a written scope listing pages and features, the price per line, the timeline, payment stages, ownership of accounts and code, and what support follows launch. A confirmed email can serve as the agreement for small projects. If you share confidential business data, ask for an NDA before sending it; a reasonable one is standard practice." },
     { question: "Can the same team build an app or automation later?", answer: `Yes, if the team has those skills. BtechWaleTech builds Android and iOS apps with Flutter or React Native from ${P.app} and AI or WhatsApp automations from ${P.ai}. Planning the website’s data and logins with a future app in mind avoids rebuilding the backend later, so mention any app plans during the brief.` },
     { question: "Website banwane ka process kya hota hai?", answer: `Pehle aap WhatsApp par batate hain ki website se kya chahiye. Phir hum pages ki list (sitemap) aur itemised quote bhejte hain. Aap content aur photos dete hain, hum phone par design dikhate hain, staging link par poori site banti hai, testing hoti hai aur phir launch. Simple site ${P.site} se shuru hoti hai aur 1–2 hafte lagte hain.` },
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Start your freelance website development with a one-page brief",
-    note: `Send your goal and a rough page list on WhatsApp. Within about two working days you get a sitemap draft and an itemised quote, with static sites starting at ${P.site}, all accounts in your name and five months of free maintenance after launch.`,
+    note: `Send your goal and a rough page list on WhatsApp. Within about two working days you get a sitemap draft and an itemised quote, with static sites starting at ${P.site}, all accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

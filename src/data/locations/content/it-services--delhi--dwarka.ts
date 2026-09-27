@@ -39,7 +39,7 @@ const content: CityContent = {
     h1: "Freelance software and app developers for Dwarka's clinics, schools and housing societies",
     lede:
       "Before you shortlist a software development team in Dwarka, look at what the sub-city actually needs: appointment systems for its hospitals and clinics, admission and fee portals for its schools and coaching centres, apps for its cooperative housing societies, and booking tools for hotels near the airport. BtechWaleTech is a freelance group of three remote engineers who build all of those, plus the local SEO that helps Dwarka residents find you.",
-    pills: ["Booking systems from ₹60,000", "Android and iOS apps from ₹40,000", "Clinic and school sites from ₹10,000", "Sector-level local SEO", "5 months free maintenance"],
+    pills: ["Booking systems from ₹60,000", "Android and iOS apps from ₹40,000", "Clinic and school sites from ₹10,000", "Sector-level local SEO", "2 months free maintenance"],
   },
   quickAnswer:
     "Instead of a software development team in Dwarka, you can hire BtechWaleTech, a freelance group of three remote engineers. We build booking systems, school portals and society apps from ₹60,000 (six to twelve weeks), WhatsApp and AI automation from ₹40,000 (two to four weeks) and clinic or institute websites from ₹10,000. No Dwarka office; itemised quotes in about two working days.",
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that book appointments, answer admission questions and handle society complaints outside office hours.",
     data: "Dashboards for clinic chains, schools and societies showing bookings, fee collection, maintenance dues and complaints at a glance.",
     app: "Android and iOS apps for Dwarka patients, parents and society residents, covering bookings, fees, reports and complaints, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups and fixes, free for five months after launch and from ₹8,000 per month thereafter.",
+    maintenance: "Updates, backups and fixes, free for two months after launch and from ₹8,000 per month thereafter.",
   },
   whyUsIntro:
     "Dwarka's small businesses are usually owner-run: a doctor, a school director, a coaching founder or a society secretary with limited time. As a freelance group, we keep things simple for them: one WhatsApp thread with the engineers, clear starting prices, an itemised quote and ownership of every account from the first day.",
@@ -214,7 +214,7 @@ const content: CityContent = {
         "Android and iOS app for patients, parents or residents: from ₹40,000",
         "Neighbourhood online store: from ₹50,000",
         "Booking system, school portal or society app: from ₹60,000",
-        "Maintenance after five free months: from ₹8,000 per month",
+        "Maintenance after two free months: from ₹8,000 per month",
       ],
     },
     {
@@ -223,13 +223,13 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and maintenance for a Dwarka organisation keep its booking system, fee portal, society app or website online, backed up and secure, so a clinic does not lose a morning of appointments and a school does not lose fee records when a laptop fails. BtechWaleTech sets up hosting on AWS or a comparable provider, with SSL, daily backups and uptime monitoring.",
         "Many small practices and societies in Dwarka still depend on a single desktop at the reception or in the society office. Moving the system to the cloud means the doctor can check tomorrow's list from home, the society treasurer can review dues from the office, and a hardware failure becomes an inconvenience rather than a loss of data. We size hosting to your real usage so monthly costs stay small.",
-        "Every project includes five months of maintenance free after launch: bug fixes, minor content changes, security and dependency updates, backups and speed checks. After that, plans start from ₹8,000 per month, or you can message us only when something needs changing. You hold the admin credentials for the domain, hosting, code repository and database at all times.",
+        "Every project includes two months of maintenance free after launch: bug fixes, minor content changes, security and dependency updates, backups and speed checks. After that, plans start from ₹8,000 per month, or you can message us only when something needs changing. You hold the admin credentials for the domain, hosting, code repository and database at all times.",
         "On the technical side, we build Dwarka projects with Next.js and React for portals and dashboards, Astro for fast websites, Node.js or Python for server logic, PostgreSQL for data, Flutter or React Native for Android and iOS apps, and n8n with the WhatsApp Business API for automation. These are mainstream tools, so any competent developer, including graduates from NSUT in Sector 3, can maintain the system later if you choose.",
       ],
       list: [
         "Hosting on AWS or equivalent with SSL and daily backups",
         "Uptime and speed monitoring with alerts",
-        "Five months of free maintenance after launch",
+        "Two months of free maintenance after launch",
         "Plans from ₹8,000 a month afterwards",
         "All credentials and documentation handed to you",
       ],
@@ -292,7 +292,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: bug fixes, small updates, security patches, backups and uptime checks. Afterwards, plans start at ₹8,000 a month, or you can request changes only when needed.",
+        "Two months of free maintenance after launch: bug fixes, small updates, security patches, backups and uptime checks. Afterwards, plans start at ₹8,000 a month, or you can request changes only when needed.",
     },
     {
       question: "Will the booking bot reply in Hindi?",

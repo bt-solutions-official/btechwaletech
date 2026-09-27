@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering Liquid, apps, data and automation" },
     { value: "2", label: "Working days to an itemized Plus quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Staff logins needed; collaborator access only" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Store build or migration", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom Functions or private app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Flow automations and AI workflows", value: `From ${P.ai}` },
-      { label: "Ongoing Plus care", value: `5 months free, then from ${P.care}` },
+      { label: "Ongoing Plus care", value: `2 months free, then from ${P.care}` },
       { label: "Call window", value: "8–11 am Eastern; early Pacific by arrangement" },
       { label: "Not a fit", value: "Replatforms needing a large team on site or around-the-clock US staffing" },
     ],
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Speed of small changes", "Ticket queue", "Same day", "Overnight: request in your morning, review next morning"],
       ["Scale for a big replatform", "Large team available", "One person", "Three people; we will say if the job needs more"],
       ["Access to your store", "Collaborator or staff", "Staff account", "Collaborator account, permissions you choose"],
-      ["After launch", "Paid retainer", "Ongoing salary", `5 months free, then from ${P.care}`],
+      ["After launch", "Paid retainer", "Ongoing salary", `2 months free, then from ${P.care}`],
     ],
     fine: "For a flagship brand relaunch with in-house creative, a large ERP rollout and a hard deadline, a bigger US partner may be safer; we would rather tell you that than overpromise.",
   },
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a hypothetical skincare brand in Austin sells direct to consumers, wants spas and salons to order wholesale, and plans to launch in Canada. It upgrades to Plus. Here is how a Shopify Plus developer might scope it; the brand and details are illustrative.`,
         `Phase one is B2B: create companies for spa accounts, a wholesale catalog with case-pack pricing, a quick-order page in the theme and a Function that validates minimum order quantities. Phase two is Markets: a Canada market with Canadian-dollar pricing, a French translation the brand supplies for Quebec shoppers, duties settings confirmed by its customs advisor and hreflang tags on the subfolder. Phase three is operations: a Flow workflow that tags wholesale orders for the warehouse and a Launchpad event for the Canadian launch morning.`,
-        `The quote would list each phase separately: B2B configuration and theme work under the store line from ${P.shop}, the validation Function under the custom app line from ${P.software}, and the workflows under automation from ${P.ai}. The brand approves phase one first, sees it working on a development store, then approves the rest. After launch, five months of maintenance are free. Nothing here is a real client or result; it shows how the work breaks down.`,
+        `The quote would list each phase separately: B2B configuration and theme work under the store line from ${P.shop}, the validation Function under the custom app line from ${P.software}, and the workflows under automation from ${P.ai}. The brand approves phase one first, sees it working on a development store, then approves the rest. After launch, two months of maintenance are free. Nothing here is a real client or result; it shows how the work breaks down.`,
       ],
     },
     {
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
       ["Itemized USD quote", "Within about two working days you get a quote by feature and phase, with a timeline and what we need from your team."],
       ["Build on a development store", "Functions and extensions are built and tested against the written test cases before they touch your live store."],
       ["Staged rollout", "We deploy switched off, verify on a duplicate theme, then enable at a quiet hour, checking orders and tracking."],
-      ["Handover and care", "You get the repository, settings log and test sheet, followed by five months of free maintenance."],
+      ["Handover and care", "You get the repository, settings log and test sheet, followed by two months of free maintenance."],
     ],
   },
   faqHeading: "Shopify Plus developer questions from US brands",
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
     { question: "Can a remote team in India handle a Plus store for a US brand?", answer: "Yes, for scoped development work. US Eastern mornings overlap with IST evenings, so requests you send in your morning are usually built and tested by the next day. We do not do site visits or around-the-clock live support. For large replatforms needing a big team on a hard deadline, a larger partner may fit better." },
     { question: "Should we go headless with Hydrogen on Plus?", answer: "Only with a clear reason, such as a content-heavy experience a Liquid theme cannot deliver or a shared frontend across several systems. Headless adds hosting, development and maintenance work. For most DTC brands, a well-built Liquid theme with custom sections is faster to launch and cheaper to run. We explain the trade-offs before recommending either." },
     { question: "How do you test discount Functions before a big sale?", answer: "Every rule gets written test cases covering normal carts, mixed carts, stacked discount codes, B2B buyers and international addresses. We run them on a development store, deploy the Function switched off to your store, verify on a duplicate theme, then enable it at a quiet time. You keep the test sheet for future sales." },
-    { question: "What happens after the Plus project launches?", answer: `You get five months of free maintenance for fixes and small changes. After that, care plans start at ${P.care}. Custom apps need occasional updates because Shopify versions its APIs regularly, and the care plan covers that. Larger new features, such as another market or Function, are quoted separately.` },
+    { question: "What happens after the Plus project launches?", answer: `You get two months of free maintenance for fixes and small changes. After that, care plans start at ${P.care}. Custom apps need occasional updates because Shopify versions its APIs regularly, and the care plan covers that. Larger new features, such as another market or Function, are quoted separately.` },
     { question: "How do we pay and sign a contract?", answer: "Quotes and invoices are in USD from India, paid by bank wire, Wise or PayPal. The written quote and our published terms form the basis of the work, and nothing is billed before you approve the scope in writing. If you need an NDA or your own contract, send it before we start and we will review it." },
     { question: "Can you connect Shopify Plus to our ERP or 3PL?", answer: `Yes, where the ERP or 3PL has a documented API. We build private integrations that sync orders, inventory, customers and B2B pricing, with error logging so failures do not go unnoticed. Custom integration work starts at ${P.software}. Slow or poorly documented vendor APIs add time, and we flag that risk in the quote.` },
     { question: "Does a Shopify Plus developer help with store speed?", answer: "They should. Plus stores often run many apps, and every storefront script slows the page. We measure Core Web Vitals against Google’s thresholds, remove or replace display-only apps with theme sections, compress media and lazy-load content below the fold, then measure again. Faster pages help conversion, and they help search and AI engines crawl the store." },

@@ -56,7 +56,7 @@ const masaurhi: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer fee, timing, stock and appointment questions and hand real decisions to you.",
     data: "Simple dashboards showing daily sales, pending udhaar, fee dues or seasonal seed and fertiliser demand.",
     app: "Android and iOS apps for coaching students to see tests and notes or for regular customers to reorder, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Masaurhi owners often have a cousin in Patna who “knows computers” and a bad memory of a website that vanished when the developer stopped answering. We work the other way: written starting prices, an itemised quote, WhatsApp replies every day of the week, and your domain, hosting and code registered in your own name.",
@@ -173,10 +173,10 @@ const masaurhi: CityContent = {
     },
     {
       id: "ownership-maintenance",
-      heading: "You own it: domain, hosting, code and the five free months after launch",
+      heading: "You own it: domain, hosting, code and the two free months after launch",
       paragraphs: [
         "A common story in small towns is the website that disappeared because the developer registered the domain in his own name and then moved on. We avoid that from day one. Your domain, hosting account, source code, Google Business Profile and any Google Play or App Store developer accounts are registered in your name, with your email and phone.",
-        "After launch you get five months of free maintenance: fixing bugs, small text and photo changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for businesses that want us to keep watching the site or app. You are free to take the code to another developer at any time, and we will hand over everything.",
+        "After launch you get two months of free maintenance: fixing bugs, small text and photo changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for businesses that want us to keep watching the site or app. You are free to take the code to another developer at any time, and we will hand over everything.",
         "We also show you how to change basic content yourself, such as fees, timings, notices and prices, so that a small update does not wait on us. Most Masaurhi clients learn this in a single screen-share session.",
       ],
     },
@@ -259,7 +259,7 @@ const masaurhi: CityContent = {
     {
       question: "What happens after my website is launched?",
       answer:
-        "You get five months of free maintenance after launch, covering bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month if you want us to keep looking after it. We also show you how to update prices, timings and notices yourself, so small changes need no waiting.",
+        "You get two months of free maintenance after launch, covering bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month if you want us to keep looking after it. We also show you how to update prices, timings and notices yourself, so small changes need no waiting.",
     },
     {
       question: "Do you also work with businesses in Punpun, Dhanarua and nearby towns?",

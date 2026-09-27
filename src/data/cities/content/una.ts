@@ -57,7 +57,7 @@ const una: CityContent = {
     ai: "WhatsApp assistants in Gujarati and Hindi that answer price, stock, room and timing questions and hand negotiations to you.",
     data: "Dashboards of daily catch value, mango boxes sold, truck trips or shop sales by month, built from your existing sheets.",
     app: "Android and iOS apps for boat owners, repeat mango buyers or large retailers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates and seasonal content changes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates and seasonal content changes.",
   },
   whyUsIntro:
     "Una's traders are sharp with numbers and expect a quote to mean what it says. We publish starting prices, send itemised written quotes, reply on WhatsApp seven days a week, and register the domain, hosting, code and app store accounts in your name. If something will not pay back, we say so before you spend on it.",
@@ -153,7 +153,7 @@ const una: CityContent = {
       heading: "Website cost in Una: starting prices and what affects the quote",
       paragraphs: [
         "Static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages, useful when you serve many villages or list many products, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000 with two to four weeks of work.",
-        "Online stores start at ₹50,000 and take four to eight weeks. Custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. Every launch includes five months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
+        "Online stores start at ₹50,000 and take four to eight weeks. Custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. Every launch includes two months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
         "Quotes in the region vary widely, so compare them on the same points: domain and code ownership, Gujarati content, revisions, hosting terms and support after launch. Our itemised quote arrives in about two working days, and nothing is billed before your written approval. The full list is on our <a href=\"/pricing/\">pricing</a> page.",
       ],
     },
@@ -181,7 +181,7 @@ const una: CityContent = {
       heading: "Ownership and maintenance: your Una website stays yours",
       paragraphs: [
         "Small businesses often lose websites because a developer registered the domain in his own name and then disappeared. We register your domain, hosting, code repository and Google Play and App Store accounts in your name from the start. You keep the passwords, and we work with the access you give us.",
-        "After launch you receive five months of free maintenance covering fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month for backups, updates, uptime checks and routine changes such as new prices, rooms or products. For mango sellers, a pre-season check each March keeps the store ready.",
+        "After launch you receive two months of free maintenance covering fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month for backups, updates, uptime checks and routine changes such as new prices, rooms or products. For mango sellers, a pre-season check each March keeps the store ready.",
         "If you ever want to move to another developer, everything goes with you, with no release fee. We would rather keep your business with good work than with locked accounts.",
       ],
     },
@@ -254,7 +254,7 @@ const una: CityContent = {
     {
       question: "What maintenance comes after launch?",
       answer:
-        "You get five months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and routine content changes. All accounts are in your name, so you can also manage it yourself.",
+        "You get two months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and routine content changes. All accounts are in your name, so you can also manage it yourself.",
     },
     {
       question: "You have no office in Una. How will we work?",

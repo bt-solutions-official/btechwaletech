@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers across app, backend and data" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Mobile app", value: `From ${P.app}, 6–10 weeks` },
       { label: "Web platform", value: `From ${P.software}, 6–12 weeks` },
       { label: "AI-assisted moderation", value: `From ${P.ai}, added when volume needs it` },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
         ["Web community platform or large admin", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Dashboards, reports, integrations"],
         ["AI-assisted moderation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Content types and review workflow"],
         ["Community website or landing site", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Public pages and sign-up flow"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Feature requests and growth"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Feature requests and growth"],
       ],
       hideSm: [2],
     },
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Google Play Console, Apple developer account, cloud account and code repository are set up under your organisation, with us added as users."],
       ["Build with test builds", "Clickable designs first, then weekly test builds on your phone. You try posting, reporting and moderating as each piece lands."],
       ["Closed beta with real members", "A small group of active members uses the app before launch, filling the feed and testing reports while we prepare store listings and privacy forms."],
-      ["Launch and five months of care", `We watch crashes, costs and moderation queues after launch, fixing issues free for five months. Ongoing support then starts at ${P.care} if you want it.`],
+      ["Launch and two months of care", `We watch crashes, costs and moderation queues after launch, fixing issues free for two months. Ongoing support then starts at ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Social media app developer: common questions",

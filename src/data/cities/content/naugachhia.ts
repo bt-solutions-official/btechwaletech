@@ -56,7 +56,7 @@ const naugachhia: CityContent = {
     ai: "WhatsApp assistants in Hindi that give rates, stock and timings, and pass bargaining and complaints to the owner.",
     data: "Dashboards of daily arrivals, dispatch by destination mandi, farmer dues and seasonal price movement.",
     app: "Android and iOS apps from ₹40,000 for coaching centres, clinics and trade agents, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Traders in Naugachhia judge people by whether they keep their word on price and time. We print our starting prices, send a written list of every item before work begins, reply on WhatsApp all seven days, and register the domain, hosting, code and app accounts in your name. If something will not earn back its cost, we tell you plainly.",
@@ -158,7 +158,7 @@ const naugachhia: CityContent = {
       heading: "Website cost in Naugachhia: starting prices and what changes them",
       paragraphs: [
         "Owners here usually want a figure before they want a meeting, so the entry points are simple. A static website of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. An SEO website of 299 pages or more, for a dealer, institute or hospital that wants a page for every service, course or village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation also starts at ₹40,000.",
-        "Online stores start at ₹50,000 and take four to eight weeks. Custom software, such as a trading register or a coaching management system, starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance, after five free months, starts at ₹8,000 a month.",
+        "Online stores start at ₹50,000 and take four to eight weeks. Custom software, such as a trading register or a coaching management system, starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance, after two free months, starts at ₹8,000 a month.",
         "Your own figure moves up only with choices you make: content in both Hindi and English, a large product list, delivery rules, online payment, staff logins, SMS alerts or a link to your accounting software. Each shows up as a separate line you can keep or remove. If you write your own text and send phone photographs, the cost of content drops sharply.",
         "Quotes from different providers in the Bhagalpur area vary widely for jobs that look the same. When comparing, ask who will own the domain and hosting, whether the site is tested on cheap phones, whether basic SEO is included, how many revisions are covered and what support costs after the first year. Our full list of starting prices is on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote reaches you in about two working days.",
       ],
@@ -178,7 +178,7 @@ const naugachhia: CityContent = {
       heading: "Ownership and maintenance for Naugachhia websites and apps",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered with your email, hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you get a written sheet of every login and password, so no single person, including us, can lock you out of your own website.",
-        "We maintain the site or app for free for five months after launch. In that time we update rates and photos when you ask, take regular backups, apply security patches and version updates, and check that forms, UPI checkout and WhatsApp buttons keep working. After five months, you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without needing our permission.",
+        "We maintain the site or app for free for two months after launch. In that time we update rates and photos when you ask, take regular backups, apply security patches and version updates, and check that forms, UPI checkout and WhatsApp buttons keep working. After two months, you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without needing our permission.",
         "Apps need attention even when nothing is broken. Google and Apple raise their minimum requirements every year, and apps that fall behind can be hidden from the store. We track those deadlines and push updates ahead of them.",
         "Websites also age. A clinic adds doctors, a trader changes numbers, a coaching institute starts new batches. Keeping these details current is often worth more than any redesign, and our maintenance plan is built around small, quick changes rather than large yearly projects.",
       ],
@@ -267,7 +267,7 @@ const naugachhia: CityContent = {
     {
       question: "What maintenance do you provide after the website goes live?",
       answer:
-        "For five months after launch, maintenance is free: we update content on request, take backups, apply security patches and test forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer, since every account and the code are already in your name.",
+        "For two months after launch, maintenance is free: we update content on request, take backups, apply security patches and test forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer, since every account and the code are already in your name.",
     },
     {
       question: "Do you work in Bihpur, Kharik and Bhagalpur too?",

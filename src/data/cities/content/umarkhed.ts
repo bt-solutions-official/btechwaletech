@@ -56,7 +56,7 @@ const umarkhed: CityContent = {
     ai: "WhatsApp assistants that answer daily rate, stock, fee and timing questions in Marathi and Hindi, and hand real decisions back to you.",
     data: "Season dashboards showing arrivals, purchases, dues by farmer and stock by godown, readable on a phone.",
     app: "Android and iOS apps for input dealers taking orders from village retailers or clinics issuing tokens, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Umarkhed business owners tend to decide after talking to people they trust, and they remember who delivered and who vanished. We give you written starting prices, a costed list of every item, WhatsApp replies on all seven days, and every account in your own name. When something is not worth your money, we tell you before you pay for it.",
@@ -168,7 +168,7 @@ const umarkhed: CityContent = {
       heading: "Website cost in Umarkhed: starting prices and what to compare",
       paragraphs: [
         "Here are our entry prices, stated plainly. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 700 or more pages, useful for a dealer covering many products and villages or a college covering many courses, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation, which takes two to four weeks.",
-        "An online store starts at ₹50,000 over four to eight weeks, and custom web software, such as a trader's purchase register, starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance at ₹8,000 a month once the five free months after launch are over.",
+        "An online store starts at ₹50,000 over four to eight weeks, and custom web software, such as a trader's purchase register, starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance at ₹8,000 a month once the two free months after launch are over.",
         "Your final number moves with your choices: Marathi and English versions, product count, app screens, payment options, staff logins and links to Tally or other billing software. Each appears as a separate line, so you can remove what you do not need. Full details sit on our <a href=\"/pricing/\">pricing page</a>.",
         "Local quotes vary widely for jobs that sound alike. When comparing, ask who registers the domain, whether you get the code, how many revisions are included, whether the site is tested on a cheap phone, and what support costs after a year.",
       ],
@@ -185,10 +185,10 @@ const umarkhed: CityContent = {
     },
     {
       id: "ownership-maintenance-umarkhed",
-      heading: "Your Umarkhed website and app stay in your name, with five months of free maintenance",
+      heading: "Your Umarkhed website and app stay in your name, with two months of free maintenance",
       paragraphs: [
         "Everything we build is registered to you from the first day. The domain uses your email, hosting is billed to you, the source code is handed over, and the Google Business Profile, Google Play account and Apple developer account are in your name. At handover you receive a written list of every login.",
-        "For five months after launch, maintenance costs nothing. That covers changes to prices and photographs, backups, security and software updates, and regular checks that forms, payments and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, hand upkeep to your own staff, or give the code to another developer, with no permission needed from us.",
+        "For two months after launch, maintenance costs nothing. That covers changes to prices and photographs, backups, security and software updates, and regular checks that forms, payments and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, hand upkeep to your own staff, or give the code to another developer, with no permission needed from us.",
         "Apps need an update each year even when nothing breaks, because Google and Apple keep raising their minimum requirements. We track those deadlines so your listing is not removed. Websites need less, but domain renewals and hosting payments still have dates, and we remind you before they fall due.",
         "Owning your accounts protects you. If any developer, us included, stopped responding, your website and app would keep running and could be handed to someone else within a day.",
       ],
@@ -276,7 +276,7 @@ const umarkhed: CityContent = {
     {
       question: "What maintenance do you give after an Umarkhed site goes live?",
       answer:
-        "The first five months after launch are free: content edits, backups, updates, security fixes and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move the work to your own staff or another developer at any time.",
+        "The first two months after launch are free: content edits, backups, updates, security fixes and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move the work to your own staff or another developer at any time.",
     },
     {
       question: "Do you work with businesses in Pusad, Mahagaon and Nanded as well?",

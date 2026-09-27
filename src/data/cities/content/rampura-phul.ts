@@ -56,7 +56,7 @@ const rampuraPhul: CityContent = {
     ai: "WhatsApp assistants that reply in Punjabi, Hindi or English about rates, stock and timings, and pass real negotiations back to you.",
     data: "Season dashboards showing crop arrivals, payments due, milling progress and which villages send the most business.",
     app: "Android and iOS apps from ₹40,000 for dairy farmers booking vet visits or village retailers re-ordering spares, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month, with updates timed around the wheat and paddy seasons when traffic peaks.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month, with updates timed around the wheat and paddy seasons when traffic peaks.",
   },
   whyUsIntro:
     "Rampura Phul runs on trust built over many harvests, and a new supplier is judged on whether he keeps his word. We publish starting prices, send a written line-by-line quote, reply on WhatsApp all seven days, and register the domain, hosting, code and app store accounts in your name from day one. If something will not earn back its cost, we tell you.",
@@ -169,7 +169,7 @@ const rampuraPhul: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom software or web app: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -186,7 +186,7 @@ const rampuraPhul: CityContent = {
       heading: "Who owns the website, app and data, and what maintenance covers",
       paragraphs: [
         "You do, entirely. The domain is booked on your email, hosting is billed to you and the full source code is handed over. Your Google Business Profile, Google Play developer account and Apple developer account are created in your firm's name. At launch you receive a sheet listing every login, so no developer, ourselves included, can ever hold your business to ransom.",
-        "The first five months after launch are maintained free. That covers security updates, backups, small text and price changes, and regular checks that forms, UPI checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, look after the site yourselves, or hand the code to another developer without asking our permission.",
+        "The first two months after launch are maintained free. That covers security updates, backups, small text and price changes, and regular checks that forms, UPI checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, look after the site yourselves, or hand the code to another developer without asking our permission.",
         "Apps need attention even when nothing is broken, because Google and Apple raise their minimum requirements every year. We track those deadlines and ship updates before the stores send warnings, so your app does not vanish from the Play Store in the middle of a procurement season.",
       ],
     },
@@ -273,7 +273,7 @@ const rampuraPhul: CityContent = {
     {
       question: "What happens after the free maintenance period ends?",
       answer:
-        "Rampura Phul clients get five months of free maintenance after launch, covering backups, security updates, small edits and checks on forms and payments. After that you choose: continue with us from ₹8,000 a month, manage the site in-house, or move it to another developer. Since every account and all the code are already yours, switching needs nobody's permission.",
+        "Rampura Phul clients get two months of free maintenance after launch, covering backups, security updates, small edits and checks on forms and payments. After that you choose: continue with us from ₹8,000 a month, manage the site in-house, or move it to another developer. Since every account and all the code are already yours, switching needs nobody's permission.",
     },
     {
       question: "Do you work in Bhucho, Tapa, Maur and Bathinda as well?",

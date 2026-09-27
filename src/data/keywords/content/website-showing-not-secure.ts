@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "4", label: "Root causes behind almost every Not secure label" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance on sites we build" },
+    { value: "2", label: "Months of free maintenance on sites we build" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The certificate itself can cost nothing. What you pay for is the time to diagnose, clean mixed content, set redirects and verify everything, and that depends on how messy the site is.`,
         `Our approach is to look first and quote second, because an honest quote for “SSL fix” is impossible without seeing the site. A small static site with an expired certificate is at the cheap end. A large WordPress site full of page-builder data, several subdomains and a CDN in front sits at the other end. Very old sites on unsupported PHP sometimes make a rebuild the more sensible spend.`,
-        `For ongoing care, our maintenance starts at ${P.care} (${P.careUsd} for clients abroad), which covers certificate watch alongside updates and backups; website charges are explained in depth on <a href='/website-maintenance-charges/'>website maintenance charges</a>. If rebuilding wins, a static site starts at ${P.site} and an online store at ${P.shop}, each with five months of free maintenance after launch.`,
+        `For ongoing care, our maintenance starts at ${P.care} (${P.careUsd} for clients abroad), which covers certificate watch alongside updates and backups; website charges are explained in depth on <a href='/website-maintenance-charges/'>website maintenance charges</a>. If rebuilding wins, a static site starts at ${P.site} and an online store at ${P.shop}, each with two months of free maintenance after launch.`,
       ],
       list: [
         "Number of hostnames and subdomains involved",

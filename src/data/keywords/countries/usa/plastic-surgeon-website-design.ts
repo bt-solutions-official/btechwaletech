@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Large procedure library or several surgeons", `From ${P.seoSite}`],
     ["Consult-request assistant", `From ${P.ai}`],
     ["Ongoing search work", `From ${P.seo} a month`],
-    ["After launch", `5 months of free fixes, then care from ${P.care}`],
+    ["After launch", `2 months of free fixes, then care from ${P.care}`],
     ["Calls", "Eastern mornings = our evenings in India; early Pacific slots too"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your practice site" },
     { value: "2", label: "Working days to an itemized quote" },
-    { value: "5", label: "Months of free post-launch fixes" },
+    { value: "2", label: "Months of free post-launch fixes" },
     { value: "0", label: "Patient photos published without a consent record" },
   ],
   answer: {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Agree pages and data paths", "We map every procedure, surgeon and gallery section, and write down where each form sends data and what each notification says."],
       ["Draft, design and connect", "Procedure and profile drafts go to surgeons for edits, the gallery admin is built with placeholder cases, and the consult form is tested with dummy data."],
       ["Test the sensitive paths", "Metadata stripping, pixel-free consult pages, alert wording, contrast, captions, keyboard use and phone speed on real devices."],
-      ["Launch and hand over", "Redirects, Search Console and analytics in the practice’s name, a written list of every script and account, and five months of free fixes."],
+      ["Launch and hand over", "Redirects, Search Console and analytics in the practice’s name, a written list of every script and account, and two months of free fixes."],
     ],
   },
   faqHeading: "Plastic surgeon website design: questions practices ask",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Can you add a Spanish version of my plastic surgery site?", answer: "Yes. We build a separate language section with its own URLs and language tags. Your practice supplies or approves the Spanish copy, ideally reviewed by a bilingual staff member or professional translator, since clinical wording must be accurate. We handle the structure, navigation and search setup for both languages." },
     { question: "Who writes the procedure pages in plastic surgeon website design?", answer: "In our plastic surgeon website design projects we draft them from your notes and a short call with the surgeon, in plain English, covering candidacy, technique, recovery, risks and fees. The operating surgeon then edits every clinical sentence before anything goes live. We don’t make outcome promises, and we never publish clinical content the surgeon hasn’t approved." },
     { question: "How are payments and contracts handled for a US practice?", answer: "Quotes are in USD and itemized. Payment is by bank wire, Wise or PayPal, and invoices come from India. The written quote sets out scope, timeline and ownership; anything it doesn’t cover is set out on our terms page or agreed in writing. We don’t advise on how your practice records the expense." },
-    { question: "What happens after my plastic surgery website launches?", answer: `The first five months of fixes and small changes are free, such as adding a procedure page, updating fees or removing a gallery case. After that, care starts at ${P.care} and monthly search work at ${P.seo}. You also get a short guide so your coordinator can add gallery cases and edit text without us.` },
+    { question: "What happens after my plastic surgery website launches?", answer: `The first two months of fixes and small changes are free, such as adding a procedure page, updating fees or removing a gallery case. After that, care starts at ${P.care} and monthly search work at ${P.seo}. You also get a short guide so your coordinator can add gallery cases and edit text without us.` },
     { question: "Can the website help with after-hours consultation requests?", answer: `Yes. A consult-request assistant, from ${P.ai}, can answer logistics questions such as location, parking and how consultations work, then hand the request to your coordinator. It is set up not to give medical opinions or collect clinical details, and it tells the visitor clearly that a person will follow up.` },
   ],
   related: {

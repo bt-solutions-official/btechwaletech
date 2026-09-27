@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Platforms", "Windows, macOS, Linux"],
     ["Updates", "Signed auto-updates you control"],
     ["Quote in", "About 2 working days"],
-    ["After release", "5 months of free fixes"],
+    ["After release", "2 months of free fixes"],
   ],
   stats: [
     { value: "3", label: "Operating systems from one Electron codebase" },
     { value: "3", label: "Freelance developers: app, back end and delivery" },
     { value: "2", label: "Working days to an itemised desktop quote" },
-    { value: "5", label: "Months of free fixes after your first release" },
+    { value: "2", label: "Months of free fixes after your first release" },
   ],
   answer: {
     heading: "What does Electron app development involve, and what does it cost?",
@@ -201,7 +201,7 @@ const content: FreelanceContent = {
       list: [
         `Electron conversion or new desktop app: from ${P.software} · ${P.softwareUsd}`,
         `AI features such as document reading added to the app: from ${P.ai} · ${P.aiUsd}`,
-        `Monthly care after 5 free months: from ${P.care} · ${P.careUsd}`,
+        `Monthly care after 2 free months: from ${P.care} · ${P.careUsd}`,
       ],
     },
     {
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan to move to a new Electron major version a few times a year. Electron’s release timeline documentation says new major versions arrive every 8 weeks and that only the latest three stable majors are supported, so an app left alone falls out of security support within months.`,
         `Each Electron release brings a newer Chromium and Node.js, which means browser security fixes reach your users only if you upgrade. Skipping versions makes each eventual upgrade larger and riskier, because deprecated APIs pile up. We recommend a small upgrade every release or two, tested against your app’s main flows and your update path from older versions.`,
-        `This fits naturally into monthly care. After the 5 free months of fixes, maintenance from ${P.care} covers Electron upgrades, dependency updates, certificate renewals before they expire, and compatibility checks when Windows or macOS release major updates. A lapsed signing certificate is one of the most common reasons an Electron app suddenly starts showing warnings, so we track expiry dates for you.`,
+        `This fits naturally into monthly care. After the 2 free months of fixes, maintenance from ${P.care} covers Electron upgrades, dependency updates, certificate renewals before they expire, and compatibility checks when Windows or macOS release major updates. A lapsed signing certificate is one of the most common reasons an Electron app suddenly starts showing warnings, so we track expiry dates for you.`,
       ],
     },
     {
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Hardware-integrated app", "Printers, scanners, serial devices", `${P.software} · ${P.softwareUsd}`, "8–12 weeks"],
         ["Electron upgrade and security fix", "Version jump, context isolation, sandbox", "Quoted after review", "1–3 weeks"],
         ["AI add-on", "Document reading, summaries, automation", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Monthly care", "Upgrades, certificate renewals, fixes", `${P.care} · ${P.careUsd}`, "Monthly, after 5 free months"],
+        ["Monthly care", "Upgrades, certificate renewals, fixes", `${P.care} · ${P.careUsd}`, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Accounts and certificates early", "Apple developer membership and Windows signing are set up in your name in week one, since paperwork can take days."],
       ["Weekly test builds", "Installers for your own PCs every week, so staff try real features such as offline billing or printing well before launch."],
       ["Signing, updates and rollout", "Notarised Mac builds, signed Windows installers, Linux packages and auto-updates tested from older versions to the new one."],
-      ["Handover and care", "README, recorded release walkthrough, 5 months of free fixes, then optional care covering Electron upgrades and certificate renewals."],
+      ["Handover and care", "README, recorded release walkthrough, 2 months of free fixes, then optional care covering Electron upgrades and certificate renewals."],
     ],
   },
   faqHeading: "Electron app development: questions people ask",

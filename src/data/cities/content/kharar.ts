@@ -57,7 +57,7 @@ const kharar: CityContent = {
     ai: "WhatsApp assistants that share vacant rooms, rent, meal plans or flat details and collect visit bookings while you are out.",
     data: "Dashboards showing occupancy, rent dues, lead sources and admission enquiries, built from the sheets you already keep.",
     app: "Android and iOS apps for PG tenants, coaching students or society residents to pay, book and get notices, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Rent, listing and fee updates, backups and security fixes, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Rent, listing and fee updates, backups and security fixes, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Kharar business owners get a steady stream of calls from web agencies in Mohali and Chandigarh, and most quotes are hard to compare. We publish starting prices, list every item in writing, answer on WhatsApp seven days a week, and register the domain, hosting, code and app store accounts to you.",
@@ -147,7 +147,7 @@ const kharar: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software such as a tenant or lead register:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -193,7 +193,7 @@ const kharar: CityContent = {
       heading: "Ownership, handover and maintenance after launch",
       paragraphs: [
         "Your domain is registered in your name, hosting runs in your account, and your Android and iOS apps are published under your Google Play and Apple developer accounts. At launch you receive the full source code and every password. If you later want a developer in Mohali or Chandigarh to take over, you can do so without asking us and without paying a release fee.",
-        "The first five months after launch include free maintenance: security updates, backups, uptime checks, app updates required by the stores and small edits such as new room rents, property listings or fee changes. After that, maintenance starts at ₹8,000 a month and can be stopped at any time.",
+        "The first two months after launch include free maintenance: security updates, backups, uptime checks, app updates required by the stores and small edits such as new room rents, property listings or fee changes. After that, maintenance starts at ₹8,000 a month and can be stopped at any time.",
         "Data in a tenant register, lead tracker or booking system stays in your account and can be exported to Excel whenever you like. Before handover we show your staff how to update listings, prices and photographs themselves, so routine changes never wait for us.",
       ],
     },
@@ -286,7 +286,7 @@ const kharar: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months are free, covering security updates, backups, uptime checks, store-required app updates and small edits like new rents or listings. After that, maintenance starts at ₹8,000 a month and can be cancelled whenever you choose. We also train your staff to handle routine updates themselves.",
+        "The first two months are free, covering security updates, backups, uptime checks, store-required app updates and small edits like new rents or listings. After that, maintenance starts at ₹8,000 a month and can be cancelled whenever you choose. We also train your staff to handle routine updates themselves.",
     },
     {
       question: "Do you work with businesses in Mohali, Kurali and Landran too?",

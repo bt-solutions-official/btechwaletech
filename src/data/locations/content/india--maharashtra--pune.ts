@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Free scoping call", "Custom software from ₹60,000", "AI automation from ₹40,000", "Android and iOS apps from ₹40,000", "Marathi and English"],
   },
   quickAnswer:
-    "BtechWaleTech offers freelance IT consulting and development in Pune: a free scoping call, then websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three remote engineers, not a Pune office, with five months of free maintenance.",
+    "BtechWaleTech offers freelance IT consulting and development in Pune: a free scoping call, then websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three remote engineers, not a Pune office, with two months of free maintenance.",
   snapshot: [
     { label: "IT hubs", value: "Rajiv Gandhi Infotech Park in Hinjewadi, EON IT Park in Kharadi, Magarpatta City and offices in Baner, Viman Nagar and Yerawada" },
     { label: "Automotive and engineering", value: "Pimpri-Chinchwad, Bhosari, Chakan, Talegaon and Ranjangaon MIDC, with vehicle makers and hundreds of component suppliers" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI automation for Pune teams: reading RFQs and drawings metadata, answering WhatsApp enquiries, routing leads and drafting reports, with human approval.",
     data: "Shop-floor and business dashboards for Pune owners, combining machine logs, Tally, ERP and spreadsheets into one clear daily view.",
     app: "Android and iOS apps from ₹40,000 for Pune businesses, built once in Flutter or React Native and published on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Post-launch support for Pune systems: patches, backups, monitoring and small changes, with the first five months free.",
+    maintenance: "Post-launch support for Pune systems: patches, backups, monitoring and small changes, with the first two months free.",
   },
   whyUsIntro:
     "Pune has deep engineering talent, but most of it works for large employers, leaving small manufacturers and institutions short of reliable help. We are three engineers who advise, build and support, and you speak to us directly.",
@@ -243,7 +243,7 @@ const content: CityContent = {
       id: "support-handover-pune",
       heading: "Support, maintenance and ownership after a Pune project",
       paragraphs: [
-        "After a Pune project goes live, you own everything: code, domain, hosting and app store accounts. You also get five months of free maintenance covering fixes, updates, backups, security and performance checks. After that, support starts at ₹8,000 per month, or per task.",
+        "After a Pune project goes live, you own everything: code, domain, hosting and app store accounts. You also get two months of free maintenance covering fixes, updates, backups, security and performance checks. After that, support starts at ₹8,000 per month, or per task.",
         "We reply on WhatsApp, email and calls seven days a week, and treat anything that stops production, admissions, bookings or orders as urgent. A change log records every update.",
         "Handover documentation explains deployment, data storage and backup restoration. Learn more on our <a href='/about/'>about page</a>, see our <a href='/portfolio/'>portfolio</a>, or explore the <a href='/india/maharashtra/'>Maharashtra overview</a> and our <a href='/india/maharashtra/mumbai/'>Mumbai IT consulting page</a>.",
       ],
@@ -343,7 +343,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. Five months of maintenance are free after go-live, covering fixes, updates, backups and security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
+        "Yes. Two months of maintenance are free after go-live, covering fixes, updates, backups and security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
     },
     {
       question: "Can you work with our Tally or ERP system?",

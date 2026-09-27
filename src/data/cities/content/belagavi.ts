@@ -7,7 +7,7 @@ const belagavi: CityContent = {
   meta: {
     title: "Belagavi Web Design, SEO and Automation | ₹10,000 Up",
     description:
-      "Websites for Belagavi foundries, aerospace suppliers, Kunda shops, clinics and colleges. From ₹10,000, itemised quotes, 5 months free maintenance, you own the code.",
+      "Websites for Belagavi foundries, aerospace suppliers, Kunda shops, clinics and colleges. From ₹10,000, itemised quotes, 2 months free maintenance, you own the code.",
     keywords: [
       "website development team in Belagavi",
       "web design Belgaum",
@@ -31,11 +31,11 @@ const belagavi: CityContent = {
     eyebrow: "Belagavi · Karnataka",
     h1: "Websites, software, SEO and AI tools for Belagavi's foundries, shops and colleges",
     lede:
-      "Belagavi sells castings to carmakers, precision parts to aircraft programmes and Kunda to half of Karnataka, yet many of its businesses still have weak websites. We are a remote team of three engineers who build fast sites, stores and automations at published prices, with direct WhatsApp access and five months of free maintenance.",
+      "Belagavi sells castings to carmakers, precision parts to aircraft programmes and Kunda to half of Karnataka, yet many of its businesses still have weak websites. We are a remote team of three engineers who build fast sites, stores and automations at published prices, with direct WhatsApp access and two months of free maintenance.",
     pills: ["Sites from ₹10,000", "Foundry and machining catalogues", "Kannada, Marathi and English", "Kunda and sweet shop stores", "College and clinic sites"],
   },
   quickAnswer:
-    "For a Belagavi business, our websites start at ₹10,000 for a simple static site and ₹20,000 for a 299+ page SEO site, taking one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no office in Belagavi, and every launch includes five months of free maintenance.",
+    "For a Belagavi business, our websites start at ₹10,000 for a simple static site and ₹20,000 for a 299+ page SEO site, taking one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no office in Belagavi, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Old trading core", value: "Khade Bazar, Maruti Galli, Ramdev Galli, Shahapur and the Camp area" },
     { label: "Industrial estates", value: "Udyambag, Macche and the BEMCIEL cooperative estate, home to the foundry cluster" },
@@ -52,7 +52,7 @@ const belagavi: CityContent = {
     ai: "WhatsApp assistants that reply to routine price, admission or appointment questions in English, Kannada or Hindi and escalate the rest to a person.",
     data: "Rejection-rate, furnace output and order-book dashboards built from the Excel sheets your plant already keeps.",
     app: "Android and iOS apps for college admissions, clinic bookings and dealer ordering, built in Flutter or React Native and released on both stores.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month for continued care.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then from ₹8,000 a month for continued care.",
   },
   whyUsIntro:
     "Belagavi has plenty of web providers, but many of them either copy a template or disappear once the site is paid for. We publish our starting prices, keep the same three engineers on your project from the first call to launch and beyond, and answer WhatsApp messages seven days a week.",
@@ -168,7 +168,7 @@ const belagavi: CityContent = {
       paragraphs: [
         "We regularly meet Belagavi businesses locked out of their own websites: a domain registered by a nephew who moved to Pune, hosting renewals billed to an old email, or a builder platform that refuses to export the site. Recovering access can take weeks.",
         "From the start, everything is set up in your name. You own the domain, the hosting account and the source code, and at launch you get every login plus a short document explaining where things live. If you ever want to switch developers, you can do it without an exit fee or our permission.",
-        "The first five months after launch include free maintenance: content and price edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can contact us only when needed.",
+        "The first two months after launch include free maintenance: content and price edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const belagavi: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can simply message us when something needs changing.",
+        "For two months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can simply message us when something needs changing.",
     },
     {
       question: "Do you work with businesses in Hubballi, Gokak and Kolhapur?",

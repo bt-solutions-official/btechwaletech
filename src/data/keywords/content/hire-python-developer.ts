@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks for an app, 2–4 for automation"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Code", "Your Git repository from the first commit"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering backend, data and AI" },
     { value: "2", label: "Working days to a written estimate" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "AI or automation", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Billing", value: "Per project, itemised; INR or USD" },
       { label: "Hosting", value: "AWS or your existing cloud, in your account" },
-      { label: "After release", value: `5 months free, then from ${P.care}` },
+      { label: "After release", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -207,7 +207,7 @@ const content: FreelanceContent = {
         { heading: "Monthly retainer", text: "Suits steady, ongoing improvement after launch. Define what a month includes, how requests are prioritised and how unused time is handled." },
       ],
       after: [
-        `A common pattern is a scoped build for version one, then a smaller monthly arrangement for fixes and features. Our maintenance, after the free five months, starts at ${P.care}. See <a href='/dedicated-web-developer/'>dedicated developer vs project model</a> for the longer comparison.`,
+        `A common pattern is a scoped build for version one, then a smaller monthly arrangement for fixes and features. Our maintenance, after the free two months, starts at ${P.care}. See <a href='/dedicated-web-developer/'>dedicated developer vs project model</a> for the longer comparison.`,
       ],
     },
     {
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
         ["AI document or chat automation", "Python, LLM API, vector search", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Data pipeline and dashboard", "pandas, SQL, scheduler", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Automation scripts", "Python, openpyxl, email APIs", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Ongoing maintenance", "Your existing stack", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 5 free months"],
+        ["Ongoing maintenance", "Your existing stack", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 2 free months"],
       ],
       hideSm: [1, 3],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Repository and accounts", "You create or share the Git organisation and cloud account; we join as collaborators with limited permissions you control."],
       ["Build in short cycles", "Work lands as pull requests, deployed to a staging environment. You get a weekly demo and a short written update on progress and blockers."],
       ["Release and handover", "We deploy to production, switch on monitoring and backups, and hand over the README, setup guide and architecture notes."],
-      ["Five months of support", `Bug fixes and small adjustments are free for five months after release. Afterwards, maintenance continues from ${P.care} if you want it.`],
+      ["Two months of support", `Bug fixes and small adjustments are free for two months after release. Afterwards, maintenance continues from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Hire Python developer: frequently asked questions",
@@ -389,10 +389,10 @@ const content: FreelanceContent = {
     { question: "Can a Python developer in India work in US or UK hours?", answer: `Yes, with planning. We keep daily written updates for async work and schedule calls in your morning or evening depending on the time zone overlap. Overseas projects are billed in USD, with custom web apps from ${P.softwareUsd}, paid through Wise, bank wire or PayPal.` },
     { question: "Do you charge hourly?", answer: "We usually quote per project or milestone, so the budget is clear before work starts and estimate risk sits with us. For open-ended investigation, such as debugging an unfamiliar legacy system, we may agree a small capped discovery phase first, then quote the fix." },
     { question: "Can you deploy the Python app on AWS?", answer: "Yes. Santosh handles AWS deployments: containers or managed services, a managed database, storage, queues, logging, alerts and automated backups, all inside your AWS account. We also document monthly running costs so there are no surprises on your cloud bill." },
-    { question: "What happens after the project is delivered?", answer: `You get five months of free maintenance for bug fixes and small adjustments. After that, maintenance is optional and starts at ${P.care}. You also receive the README, setup guide and deployment notes, so your own team or another developer can take over whenever you choose.` },
+    { question: "What happens after the project is delivered?", answer: `You get two months of free maintenance for bug fixes and small adjustments. After that, maintenance is optional and starts at ${P.care}. You also receive the README, setup guide and deployment notes, so your own team or another developer can take over whenever you choose.` },
     { question: "Can the same team build the website or mobile app too?", answer: `Yes. Ankur builds web front ends, and we build Android and iOS apps with Flutter or React Native from ${P.app}. Having one team handle the Python backend and the app avoids mismatched APIs and finger-pointing between vendors.` },
     { question: "What Python work do you not take on?", answer: "We do not take on embedded or hardware programming, very large programmes that need many developers at once, or research-grade model training that requires specialised GPUs and long timelines. We will tell you on the first call if your project falls outside what three developers can do well." },
-    { question: "Python developer chahiye, kitna kharcha hoga?", answer: `BtechWaleTech ke saath Python web app ya backend ${P.software} se shuru hota hai, aur AI ya data automation ${P.ai} se. Kaam ke hisaab se itemised quote lagbhag do working days mein milta hai. Code aapke GitHub mein rehta hai, aur release ke baad 5 mahine tak fixes free hain.` },
+    { question: "Python developer chahiye, kitna kharcha hoga?", answer: `BtechWaleTech ke saath Python web app ya backend ${P.software} se shuru hota hai, aur AI ya data automation ${P.ai} se. Kaam ke hisaab se itemised quote lagbhag do working days mein milta hai. Code aapke GitHub mein rehta hai, aur release ke baad 2 mahine tak fixes free hain.` },
   ],
   related: {
     heading: "Related Python, data and AI pages",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need to hire a Python developer? Send the outcome and a sample",
-    note: `Tell us on WhatsApp what the system must do and share a sample of your data. You get an itemised estimate in about two working days, with custom web apps from ${P.software}, AI automation from ${P.ai}, code in your repository and five months of free support.`,
+    note: `Tell us on WhatsApp what the system must do and share a sample of your data. You get an itemised estimate in about two working days, with custom web apps from ${P.software}, AI automation from ${P.ai}, code in your repository and two months of free support.`,
   },
 };
 

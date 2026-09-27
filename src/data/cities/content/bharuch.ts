@@ -32,10 +32,10 @@ const bharuch: CityContent = {
     h1: "Web, app, SEO and automation services for Bharuch's chemical suppliers, Dahej contractors and Narmada-bank traders",
     lede:
       "Three remote engineers building product catalogues, capability sites, stores and WhatsApp workflows for Bharuch chemical traders and manufacturers, vendors to the Dahej, Ankleshwar and Jhagadia estates, industrial contractors, khari sing sellers, and the clinics, schools and shops of Zadeshwar, Link Road and Station Road. Starting prices are listed openly.",
-    pills: ["Sites from ₹10,000", "Chemical product catalogues", "Gujarati and English pages", "RFQs routed to WhatsApp", "Five months free upkeep"],
+    pills: ["Sites from ₹10,000", "Chemical product catalogues", "Gujarati and English pages", "RFQs routed to WhatsApp", "Two months free upkeep"],
   },
   quickAnswer:
-    "For a Bharuch business, our static websites start at ₹10,000 and are ready in one to two weeks. SEO sites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, have no office in Bharuch, and include five months of free maintenance.",
+    "For a Bharuch business, our static websites start at ₹10,000 and are ready in one to two weeks. SEO sites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely, have no office in Bharuch, and include two months of free maintenance.",
   snapshot: [
     { label: "Location", value: "On the Narmada river near its mouth in south Gujarat, with the Gulf of Khambhat to the west" },
     { label: "History", value: "The ancient port Bharukachchha, known to Greek and Roman traders as Barygaza" },
@@ -52,7 +52,7 @@ const bharuch: CityContent = {
     ai: "WhatsApp assistants that answer grade, pack size and availability queries from buyers, then pass qualified RFQs to your sales team.",
     data: "Dashboards showing enquiries, quotes and orders by product and customer, built from your ERP or Tally exports.",
     app: "Android and iOS apps for site supervisors to log attendance, work progress and material use from the plant gate, from ₹40,000.",
-    maintenance: "Product list changes, document updates, backups and security fixes free for five months, then from ₹8,000 a month.",
+    maintenance: "Product list changes, document updates, backups and security fixes free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Bharuch firms often get quotes from Vadodara or Surat agencies that price for a big-city office, or from freelancers who disappear after launch. We publish starting prices, write technically accurate pages for industrial buyers, reply on WhatsApp all seven days, and keep your domain, hosting and code in your name.",
@@ -192,10 +192,10 @@ const bharuch: CityContent = {
     },
     {
       id: "ownership-maintenance-bharuch",
-      heading: "Ownership, handover and five free months",
+      heading: "Ownership, handover and two free months",
       paragraphs: [
         "Your domain and hosting are registered in your company's name from the start. At launch you receive every login and the complete source code, and you can move to another developer at any time without paying an exit fee.",
-        "For five months after launch, maintenance is free. That includes adding or updating products and documents, bug fixes, security and software updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change. Our <a href=\"/services/web-development/\">web development</a> page details what each build includes.",
+        "For two months after launch, maintenance is free. That includes adding or updating products and documents, bug fixes, security and software updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change. Our <a href=\"/services/web-development/\">web development</a> page details what each build includes.",
       ],
     },
     {
@@ -286,7 +286,7 @@ const bharuch: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle product and document updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle product and document updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long does SEO take to show results?",

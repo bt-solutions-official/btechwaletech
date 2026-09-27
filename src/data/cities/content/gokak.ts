@@ -56,7 +56,7 @@ const gokak: CityContent = {
     ai: "WhatsApp assistants in Kannada that answer order, price and timing questions and pass real decisions to you.",
     data: "Season-wise dashboards of trips, tonnage delivered, payments due and sweet orders by city.",
     app: "Android and iOS apps for cane transport crews to log trips or for repeat sweet customers to re-order, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Gokak businesses are careful with money and expect work to hold up over several crushing seasons. We publish starting prices, send written itemised quotes, answer WhatsApp every day of the week, and register your domain, hosting, code and store accounts in your name. If a feature will not pay back, we say so.",
@@ -168,7 +168,7 @@ const gokak: CityContent = {
       heading: "Ownership and maintenance for Gokak websites and apps",
       paragraphs: [
         "Whatever we build for you belongs to you, on paper and in practice. The web address is booked on your email, the hosting bill comes in your name, the full source code is shared with you, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you receive a written sheet with each login, so no single person, us included, can hold your website hostage later.",
-        "Upkeep is on us for the first five months after launch. During that time we swap prices before festival season, take backups, apply security and version updates, and check now and then that the enquiry form, UPI payment and WhatsApp button still work. Once that period ends, you decide: continue with us from ₹8,000 a month, handle it in-house, or hand the code to any other developer.",
+        "Upkeep is on us for the first two months after launch. During that time we swap prices before festival season, take backups, apply security and version updates, and check now and then that the enquiry form, UPI payment and WhatsApp button still work. Once that period ends, you decide: continue with us from ₹8,000 a month, handle it in-house, or hand the code to any other developer.",
         "An app needs a yearly refresh even when nothing is broken, because Google and Apple keep raising the minimum versions they accept. We keep an eye on those deadlines and ship the rebuild early, so your listing is never pulled for being out of date.",
       ],
     },
@@ -260,7 +260,7 @@ const gokak: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after going live you pay nothing for upkeep: we handle edits to prices and photos, backups, patches and routine tests of your forms, UPI checkout and WhatsApp links. Staying on after that is your choice, starting at ₹8,000 a month. Because the code and every account are already in your name, moving elsewhere needs no permission from us.",
+        "For two months after going live you pay nothing for upkeep: we handle edits to prices and photos, backups, patches and routine tests of your forms, UPI checkout and WhatsApp links. Staying on after that is your choice, starting at ₹8,000 a month. Because the code and every account are already in your name, moving elsewhere needs no permission from us.",
     },
     {
       question: "Do you work in Konnur, Ghataprabha and Mudalagi as well?",

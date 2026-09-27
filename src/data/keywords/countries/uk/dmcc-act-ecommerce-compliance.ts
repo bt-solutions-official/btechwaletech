@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "10%", label: "Maximum CMA fine as a share of global turnover" },
     { value: "14", label: "Days of initial cooling-off in the subscription regime" },
     { value: "2", label: "Working days to an itemised audit quote" },
-    { value: "5", label: "Months of free fixes after we change your store" },
+    { value: "2", label: "Months of free fixes after we change your store" },
   ],
   answer: {
     heading: "What does DMCC Act ecommerce compliance mean for a UK online shop?",
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
         `It depends on how your store adds fees, shows prices and handles reviews today, so we quote after an audit. Quotes in the UK market vary widely, from quick theme tweaks to full legal-and-technical programmes, and the difference usually comes down to scope and evidence.`,
         `The factors that move our development quote are easy to name. How many places display price (templates, quick-view, search, emails, feeds, marketplaces). Whether fees come from apps you can reconfigure, custom code, or checkout extensions. Whether your review app can be configured properly or must be replaced, and whether historic reviews need cleaning. The number of urgency features. And whether subscription reminders and a cancellation path need building.`,
         `When the store is old and heavily patched, a rebuild can cost less than repairing it. New ecommerce stores with us start from ${P.shop} and include all-in price display, a review setup that follows the CMA's guidance, and no fabricated urgency features. Custom commerce and subscription systems start from ${P.software}.`,
-        `Legal advice, any review platform subscription, and app fees are separate and billed by those providers. After our changes go live, five months of fixes are free, and the care plan from ${P.care} can include re-checking new apps and campaigns so drip pricing does not creep back in through a new plugin.`,
+        `Legal advice, any review platform subscription, and app fees are separate and billed by those providers. After our changes go live, two months of fixes are free, and the care plan from ${P.care} can include re-checking new apps and campaigns so drip pricing does not creep back in through a new plugin.`,
       ],
     },
     {
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Trace findings to code", "Each issue is linked to the app, setting, theme file or plugin responsible, with a proposed fix and items flagged for your solicitor."],
       ["Quote the fixes", "An itemised USD quote in about two working days, grouped by risk. You approve before anything is billed."],
       ["Fix in staging", "Prices, fees, review settings, timers and subscription flows changed in a staging copy or unpublished theme for you to review."],
-      ["Publish and hand over", "We go live, re-test every journey, save after-evidence and cover fixes free for five months."],
+      ["Publish and hand over", "We go live, re-test every journey, save after-evidence and cover fixes free for two months."],
     ],
   },
   faqHeading: "DMCC Act ecommerce compliance: questions from UK shop owners",

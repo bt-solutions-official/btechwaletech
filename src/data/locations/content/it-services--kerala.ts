@@ -39,7 +39,7 @@ const content: CityContent = {
     h1: "Freelance IT services in Kerala, from Kasaragod to Thiruvananthapuram",
     lede:
       "Looking for IT services in Kerala but unsure whether to hire a software development team in Kerala or freelancers? BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, booking systems, AI and WhatsApp automation, dashboards, apps, cloud setups, ecommerce and SEO websites for businesses in all fourteen districts, with every account kept in the client's name.",
-    pills: ["Serving all 14 districts", "Malayalam and English", "Custom software from ₹60,000", "AI automation from ₹40,000", "5 months free maintenance"],
+    pills: ["Serving all 14 districts", "Malayalam and English", "Custom software from ₹60,000", "AI automation from ₹40,000", "2 months free maintenance"],
   },
   quickAnswer:
     "BtechWaleTech provides freelance IT services in Kerala remotely, as a lean alternative to a software development team in Kerala. Websites start at ₹10,000, AI automation at ₹40,000, ecommerce at ₹50,000 and custom software at ₹60,000, with timelines from one to twelve weeks. We are three engineers in India, with no Kerala office, and quote itemised within about two working days.",
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that answer guest, patient and Gulf-customer questions at any hour and hand qualified leads to staff.",
     data: "Dashboards for occupancy, footfall, stock, collections and branch performance across towns and districts.",
     app: "Android and iOS apps for Kerala resorts, hospitals, schools and retailers, built in Flutter or React Native, in Malayalam or English, published on both stores, from ₹40,000.",
-    maintenance: "Five free months of fixes, updates and backups after launch, then plans from ₹8,000 a month.",
+    maintenance: "Two free months of fixes, updates and backups after launch, then plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kerala has capable IT companies in every major city, so why a remote freelance trio? Because many owners tell us they want published prices, a written scope, direct access to the engineers, weekend replies and full ownership of their code. We offer exactly that, without office overheads.",
@@ -240,7 +240,7 @@ const content: CityContent = {
       id: "maintenance-support-kerala",
       heading: "Maintenance and IT support for Kerala clients after launch",
       paragraphs: [
-        "Every BtechWaleTech project includes five months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
+        "Every BtechWaleTech project includes two months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
         "We reply on WhatsApp seven days a week, which matters for a resort on a long weekend or a clinic on a Monday morning. Learn more <a href='/about/'>about our team</a> or browse <a href='/it-services/'>IT services across India</a>.",
       ],
     },
@@ -301,7 +301,7 @@ const content: CityContent = {
     { question: "How can we pay you from Kerala or abroad?", answer: "We accept only UPI, by scanning our QR code, or direct bank transfer to our bank account, in INR. We do not use payment gateways or payment links for our invoices. Payments follow milestones, each after you review work on staging." },
     { question: "Can you build websites and software in Malayalam?", answer: "Yes. We build interfaces, websites and messages in Malayalam and English, with Unicode fonts that display correctly on phones, and we handle Manglish input in chat automation. A native speaker on your side should review final Malayalam text for tone and accuracy." },
     { question: "Will we own the code, domain and hosting?", answer: "Yes. The domain, hosting, code repository and any payment gateway are set up in your name. At handover you receive credentials and documentation, so any developer in Kerala or elsewhere can take over without our permission." },
-    { question: "What maintenance is included?", answer: "Five months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
+    { question: "What maintenance is included?", answer: "Two months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
     { question: "How long before SEO results show in Kerala?", answer: "Usually three to six months for local and district-level searches, longer for competitive tourism or statewide terms. Indexing happens in weeks, but rankings build with content, reviews and time. We never guarantee positions and report monthly using Search Console data." },
     { question: "Can AI automation reply to Gulf customers at night?", answer: "Yes. An AI assistant on WhatsApp or your website can answer common questions, collect details and book slots at any hour, then pass a summary to staff in the morning. Projects start at ₹40,000 and take two to four weeks, with human review for sensitive replies." },
     { question: "Do you build Android and iOS apps for Kerala businesses?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. We build once in Flutter or React Native, in Malayalam, English or both, with login, push notifications, forms and an admin panel, and publish on Google Play and the Apple App Store under your name." },

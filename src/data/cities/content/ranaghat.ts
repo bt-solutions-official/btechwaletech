@@ -35,7 +35,7 @@ const ranaghat: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Saree stores with UPI", "Flower trade catalogues", "WhatsApp replies in Bangla"],
   },
   quickAnswer:
-    "A website for a Ranaghat business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, a handloom or retail store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Ranaghat office, and maintenance is free for five months after launch.",
+    "A website for a Ranaghat business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, a handloom or retail store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Ranaghat office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Nadia district on the Churni river, about 74 km north of Kolkata and 26 km south of Krishnanagar" },
     { label: "Population", value: "About 75,000 in the city and over 2.3 lakh in the urban agglomeration (2011 census)" },
@@ -52,7 +52,7 @@ const ranaghat: CityContent = {
     ai: "WhatsApp replies in Bengali or English for saree stock, clinic timings, tuition fees or flower rates, handled outside shop hours.",
     data: "Festival and wedding season sales, stock and dues arranged on one phone dashboard for traders and weaving units.",
     app: "Android and iPhone apps for tuition attendance, clinic tokens, weaver orders or dealer bookings, released on both app stores from ₹40,000.",
-    maintenance: "Updates, backups and security checks free for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Updates, backups and security checks free for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Ranaghat businesses often get websites through someone in Kolkata who has never seen the town, or through a relative who stops answering after a year. We are three remote engineers who publish starting prices, reply on WhatsApp every day and keep the domain in the owner's name.",
@@ -173,11 +173,11 @@ const ranaghat: CityContent = {
     },
     {
       id: "ownership-ranaghat",
-      heading: "You own the domain and code; maintenance free for five months",
+      heading: "You own the domain and code; maintenance free for two months",
       paragraphs: [
         "A familiar Ranaghat problem: the website was made by a cousin or a local shop, the domain was registered on his email, and years later nobody can renew it. When it lapses, the site, the email address and the search listing all vanish together.",
         "We avoid that from the first day. The domain and hosting are in your name, and at launch you receive every login, the full source code and a short written note on how the site is set up. If you later choose someone else to look after it, you hand over access. There is no exit fee.",
-        "Maintenance is free for five months after launch, covering text and price updates, bug fixes, security patches, backups, uptime and speed checks. That usually carries a new site through its first Puja or wedding season. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what every build includes.",
+        "Maintenance is free for two months after launch, covering text and price updates, bug fixes, security patches, backups, uptime and speed checks. That usually carries a new site through its first Puja or wedding season. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what every build includes.",
       ],
     },
   ],
@@ -262,9 +262,9 @@ const ranaghat: CityContent = {
         "You do. The domain and hosting are registered in your name, and you receive every login and the full source code at launch. You can move to another developer at any time without paying an exit fee.",
     },
     {
-      question: "What is included in the five free months of maintenance?",
+      question: "What is included in the two free months of maintenance?",
       answer:
-        "Text and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks are free for five months after launch. After that, maintenance continues from ₹8,000 a month, or you contact us only when you need a change.",
+        "Text and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks are free for two months after launch. After that, maintenance continues from ₹8,000 a month, or you contact us only when you need a change.",
     },
     {
       question: "Do you work in Santipur, Krishnanagar, Kalyani and other nearby towns?",

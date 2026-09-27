@@ -31,11 +31,11 @@ const etawah: CityContent = {
     eyebrow: "Etawah · Uttar Pradesh",
     h1: "Websites, apps, SEO and AI automation for weavers, dairy and ghee sellers, doctors and the businesses on NH-19",
     lede:
-      "Three engineers, working remotely, who build websites, Google listings and WhatsApp workflows for Etawah and its towns: textile and tailoring units, ghee and dairy traders, clinics serving families from across the district, schools and coaching centres, and hotels, dhabas and dealers along the highway and expressway. Prices are public, you talk to the developers, and upkeep costs nothing for five months.",
+      "Three engineers, working remotely, who build websites, Google listings and WhatsApp workflows for Etawah and its towns: textile and tailoring units, ghee and dairy traders, clinics serving families from across the district, schools and coaching centres, and hotels, dhabas and dealers along the highway and expressway. Prices are public, you talk to the developers, and upkeep costs nothing for two months.",
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Textile catalogues", "Clinic and school sites", "WhatsApp enquiry sheets"],
   },
   quickAnswer:
-    "In Etawah, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three remote engineers with no Etawah office, and the first five months of maintenance after launch are free.",
+    "In Etawah, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three remote engineers with no Etawah office, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "On the Yamuna in western Uttar Pradesh, near the confluence of the Yamuna and Chambal, roughly midway between Agra and Kanpur" },
     { label: "ODOP focus", value: "Textile products, embroidery and tailoring are Etawah's One District One Product categories" },
@@ -52,10 +52,10 @@ const etawah: CityContent = {
     ai: "WhatsApp replies in Hindi that answer fee, timing, stock and rate questions automatically and hand everything unusual to you.",
     data: "Sales, admissions or patient figures turned into a phone dashboard, so owners can spot a slow week before it becomes a slow month.",
     app: "Android and iOS apps for school notices, staff attendance or order booking, listed on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Free updates, backups, security fixes and uptime checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups, security fixes and uptime checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Etawah businesses often end up with a website from a relative's contact or an agency in Agra, Kanpur or Lucknow, with the domain in someone else's name and no one answering when it breaks. We work differently: published prices, written itemised quotes, direct access to the three engineers, Hindi content that reads naturally, and free maintenance for five months after launch.",
+    "Etawah businesses often end up with a website from a relative's contact or an agency in Agra, Kanpur or Lucknow, with the domain in someone else's name and no one answering when it breaks. We work differently: published prices, written itemised quotes, direct access to the three engineers, Hindi content that reads naturally, and free maintenance for two months after launch.",
   pricingIntro:
     "Few people in Etawah can tell you what a website should cost, because quotes are usually verbal and vary wildly. Our starting prices are listed below. Your final number depends on pages, features and how much writing we handle, and you receive it in writing, item by item, before anything is billed.",
   sections: [
@@ -170,7 +170,7 @@ const etawah: CityContent = {
       paragraphs: [
         "A familiar problem in Etawah: the person who made the website registered the domain in their own name, then moved away or stopped answering. The owner cannot renew the site, change a phone number or move it elsewhere, and eventually it disappears.",
         "We register the domain and hosting in your name and on your payment method from the beginning. At launch you receive every login, the complete code and a short written note explaining the setup. If you later want another developer, you hand over the access, with no exit fee. Our <a href=\"/services/web-development/\">web development</a> uses common, well-documented tools so the handover is easy.",
-        "For five months after launch, maintenance is free: security and software updates, backups, uptime checks, bug fixes and small text or price changes. After that it continues from ₹8,000 a month, or you can simply call us when you need something changed.",
+        "For two months after launch, maintenance is free: security and software updates, backups, uptime checks, bug fixes and small text or price changes. After that it continues from ₹8,000 a month, or you can simply call us when you need something changed.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const etawah: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle security and software updates, backups, uptime checks, bug fixes and small text or price changes at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle security and software updates, backups, uptime checks, bug fixes and small text or price changes at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long does SEO take in Etawah?",

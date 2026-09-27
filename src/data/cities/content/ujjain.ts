@@ -7,7 +7,7 @@ const ujjain: CityContent = {
   meta: {
     title: "Ujjain Websites & SEO for Temple-Town Businesses",
     description:
-      "Websites, local SEO, booking pages and WhatsApp automation for Ujjain hotels, puja services, batik sellers, shops and factories. From ₹10,000, 5 months free support.",
+      "Websites, local SEO, booking pages and WhatsApp automation for Ujjain hotels, puja services, batik sellers, shops and factories. From ₹10,000, 2 months free support.",
     keywords: [
       "website development team in Ujjain",
       "website designer Ujjain",
@@ -30,11 +30,11 @@ const ujjain: CityContent = {
     eyebrow: "Ujjain · Madhya Pradesh",
     h1: "Websites, apps, SEO and AI automation for Ujjain's temple-town and trading businesses",
     lede:
-      "A team of three remote engineers building websites, online stores and automation for Ujjain: hotels and dharamshalas near Mahakal, puja and pandit services, Bherugarh batik printers, mandi traders, and units on Maksi Road and in Vikram Udyogpuri. You get published prices, direct contact with the developers, and five free months of maintenance after launch.",
+      "A team of three remote engineers building websites, online stores and automation for Ujjain: hotels and dharamshalas near Mahakal, puja and pandit services, Bherugarh batik printers, mandi traders, and units on Maksi Road and in Vikram Udyogpuri. You get published prices, direct contact with the developers, and two free months of maintenance after launch.",
     pills: ["Sites from ₹10,000", "Hotel and puja bookings", "Batik stores with UPI", "Hindi search pages", "Ready for Simhastha traffic"],
   },
   quickAnswer:
-    "For an Ujjain business, a basic website with us starts at ₹10,000 and is usually live within two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote team without an Ujjain office, and every project includes five months of free maintenance.",
+    "For an Ujjain business, a basic website with us starts at ₹10,000 and is usually live within two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote team without an Ujjain office, and every project includes two months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage", value: "Mahakaleshwar Jyotirlinga, the Shri Mahakal Lok corridor, Kal Bhairav, Harsiddhi and Ram Ghat on the Shipra" },
     { label: "Next big event", value: "Simhastha 2028, with very large pilgrim numbers expected and major city works under way" },
@@ -51,10 +51,10 @@ const ujjain: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that answer the same questions about rooms, puja timings, prices or stock and pass the rest to a person.",
     data: "Bookings, sales and procurement data turned into clear dashboards, useful for planning staff and stock before festival peaks.",
     app: "Android and iOS apps for guests, devotees and field staff on basic phones and weak networks, published on both stores from ₹40,000.",
-    maintenance: "Free content updates, backups, security fixes and speed checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free content updates, backups, security fixes and speed checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Many Ujjain businesses have been quoted high prices by Indore agencies, or had sites built cheaply that stopped working when traffic rose during a festival. We publish our starting prices, reply on WhatsApp every day of the week, and keep supporting your site for free for its first five months.",
+    "Many Ujjain businesses have been quoted high prices by Indore agencies, or had sites built cheaply that stopped working when traffic rose during a festival. We publish our starting prices, reply on WhatsApp every day of the week, and keep supporting your site for free for its first two months.",
   pricingIntro:
     "Website quotes in Ujjain vary widely and rarely come with an explanation. Below are the real starting prices we charge. Your quote depends on pages, booking features, products and integrations, and it is itemised so you know exactly what you are approving before any work is done.",
   sections: [
@@ -185,7 +185,7 @@ const ujjain: CityContent = {
       paragraphs: [
         "We often meet Ujjain businesses whose website went offline because a domain renewal was missed by a developer who had moved on. For a hotel, that can mean weeks of lost bookings, sometimes in the busiest season.",
         "From the start, your domain is registered in your name and the hosting is set up in your account. At launch you receive every login, the full source code and a short note explaining where everything is. You can move to another developer at any time without an exit fee.",
-        "For five months after launch, maintenance is free: content and tariff updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free: content and tariff updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -273,9 +273,9 @@ const ujjain: CityContent = {
         "Yes. The domain and hosting are registered to you, and you receive every login and the full source code at launch. You can move to another developer at any time with no exit fee. We insist on this because lost domains are a common problem for older Ujjain websites.",
     },
     {
-      question: "What is included in five months of free maintenance?",
+      question: "What is included in two months of free maintenance?",
       answer:
-        "For five months after launch we handle content and tariff updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can message us only when you need a change.",
+        "For two months after launch we handle content and tariff updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can message us only when you need a change.",
     },
     {
       question: "Can you guarantee my hotel will rank first on Google?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Single-centre launch", "1–2 weeks once content is approved"],
     ["Lead capture", "Self-check forms, callback, WhatsApp"],
     ["Follow-up flows", `WhatsApp reminders from ${P.ai}`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on your hospital’s website" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Lead forms", value: "Refractive self-check, cataract questionnaire, callback" },
       { label: "Payment clarity", value: "Cost ranges, cashless partners, scheme empanelment, EMI if offered" },
       { label: "Follow-up", value: `Work-up reminders and post-op check-ins, from ${P.ai}` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       heading: "Handover, ownership and upkeep of the hospital website",
       paragraphs: [
         `With our eye hospital website design projects, the hospital owns the domain, hosting, code, lead records, WhatsApp number and any payment account. We set them up in the hospital’s name or you create them and add us as users.`,
-        `At handover you receive the repository, admin logins, a list of paid services with renewal dates, and a short guide for updating surgeon OPD days, cost ranges, camps and branches. Small changes are free for five months after launch; then care is optional from ${P.care} a month, or your IT team or another developer can take over.`,
+        `At handover you receive the repository, admin logins, a list of paid services with renewal dates, and a short guide for updating surgeon OPD days, cost ranges, camps and branches. Small changes are free for two months after launch; then care is optional from ${P.care} a month, or your IT team or another developer can take over.`,
         `Hospitals change: new branches open, surgeons join and leave, partnerships form. Clean ownership and documentation mean the website keeps up without anyone having to chase an old vendor for access.`,
       ],
     },
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
       ["Accounts in the hospital’s name", "Domain, hosting, WhatsApp Business number and analytics are registered to the hospital, with us added as users."],
       ["Clinical content sessions", "Short calls with each sub-speciality head to settle candidacy, steps, recovery, cost bands and self-check questions for their pages."],
       ["Surgeon review on staging", "Pages appear on a private link that surgeons read on their phones; comments come back through your coordinator and we revise."],
-      ["Launch and five free months", `We connect the domain, verify Search Console, link Business Profiles and hand over logins. Edits are free for five months, then optional care from ${P.care}.`],
+      ["Launch and two free months", `We connect the domain, verify Search Console, link Business Profiles and hand over logins. Edits are free for two months, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Eye hospital website design: questions hospitals ask",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Should an eye hospital hire a freelancer or an agency?", answer: "A small freelance team suits hospitals that want direct contact with the people building the site and a clear scope: procedure pages, forms, branches, follow-ups. A large agency suits hospital groups that also want advertising, video production and brand work at scale. For most single centres and regional networks, a focused freelance build works well." },
     { question: "Can a remote team build our eye hospital website?", answer: "Yes. Eye hospital website design depends on clinical content, clear forms and good photos, all of which can be handled over Google Meet and WhatsApp. Surgeons review pages on staging links from their phones, and we guide your team or a local photographer on photographing OPD, diagnostics and OT areas without showing patients." },
     { question: "Who owns the eye hospital website and patient leads?", answer: "The hospital does. Domain, hosting, code, lead records and the WhatsApp number are set up in the hospital’s name. At handover you receive the repository, admin logins and a list of paid services with renewal dates, so your IT team or any developer can take over without needing anything from us." },
-    { question: "What happens after the eye hospital website goes live?", answer: `Small edits and fixes are free for five months after launch: new surgeons, changed OPD days, updated cost ranges, new camps. After that, maintenance is optional from ${P.care} a month. Staff can also update surgeon schedules, costs and camp pages through the admin screens we set up.` },
+    { question: "What happens after the eye hospital website goes live?", answer: `Small edits and fixes are free for two months after launch: new surgeons, changed OPD days, updated cost ranges, new camps. After that, maintenance is optional from ${P.care} a month. Staff can also update surgeon schedules, costs and camp pages through the admin screens we set up.` },
     { question: "Will our eye hospital rank first for “LASIK near me”?", answer: `Nobody can honestly guarantee that. Rankings depend on your Business Profile, distance, reviews, content quality and local competition. We build fast, well-structured procedure and branch pages, add Ophthalmology or MedicalClinic structured data and set up Search Console. Monthly SEO starts at ${P.seo} if you want continuing work.` },
     { question: "How do AI search tools choose eye care answers to show?", answer: "They tend to quote short, clear passages from trustworthy pages: a direct answer on recovery time, a plain comparison of LASIK and SMILE, or what cataract surgery costs locally. Procedure pages that open with an answer, state who reviewed them, and keep costs and timings as text are more likely to be quoted by Google’s AI Overviews and chat assistants." },
     { question: "How is patient data protected on an eye hospital website?", answer: "The site collects only contact details, preferences and optional self-check answers, over HTTPS, stored in the hospital’s own database with role-based access and an audit trail. Reports and scans go through your hospital system, not form emails, and WhatsApp reminders avoid clinical details. Your lawyer approves the privacy notice in line with India’s DPDP Rules, 2025." },
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want more LASIK work-ups and cataract consultations from your website?",
-    note: `Send your procedures, branches and surgeons on WhatsApp. You will get an itemised quote in about two working days, with eye hospital websites from ${P.site}, every account in the hospital’s name and five months of free maintenance after launch.`,
+    note: `Send your procedures, branches and surgeons on WhatsApp. You will get an itemised quote in about two working days, with eye hospital websites from ${P.site}, every account in the hospital’s name and two months of free maintenance after launch.`,
   },
 };
 

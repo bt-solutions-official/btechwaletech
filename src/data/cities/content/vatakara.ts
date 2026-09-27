@@ -56,7 +56,7 @@ const vatakara: CityContent = {
     ai: "WhatsApp assistants in Malayalam and English for orders, appointments and admissions that hand real decisions back to you.",
     data: "Dashboards of daily fish or copra purchases, festival-season sweet orders, patient visits and fee collection.",
     app: "Android and iOS apps for tuition centres, clinics or repeat snack buyers in the Gulf and other cities, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Vatakara has a long cooperative tradition and a well-read public, and people here ask detailed questions before paying anyone. We answer them in writing: starting prices on the site, an item-by-item quote, WhatsApp replies every day of the week, and domain, hosting, source code and app store accounts registered in your name.",
@@ -169,7 +169,7 @@ const vatakara: CityContent = {
       paragraphs: [
         "Because we are not in Vatakara, we write everything down. After a first call, you receive a page or screen plan, a timeline and a line-by-line quote. Once approved, we share live preview links that you can open on your own phone and show to family members, including those abroad. Malayalam text is sent for your check before it goes live.",
         "We reply on WhatsApp every day, weekends included, on Indian Standard Time. If something is delayed, we say so as soon as we know. Payments are staged against visible progress, and nothing is billed before you approve the quote in writing.",
-        "The domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, with logins handed over in writing. Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms and payments. After that, it is from ₹8,000 a month if you want us to continue, and you can switch providers whenever you like.",
+        "The domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, with logins handed over in writing. Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms and payments. After that, it is from ₹8,000 a month if you want us to continue, and you can switch providers whenever you like.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const vatakara: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance is from ₹8,000 a month if you want us to continue. You can take your code to another developer at any time.",
+        "Two months of maintenance are free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance is from ₹8,000 a month if you want us to continue. You can take your code to another developer at any time.",
     },
     {
       question: "Do you work in Payyoli, Kuttiady and Mahé too?",

@@ -57,7 +57,7 @@ const perambalur: CityContent = {
     ai: "Tamil-speaking WhatsApp assistants that quote pack rates, confirm OPD timings or answer admission questions, and hand real decisions back to you.",
     data: "Season dashboards showing arrivals, grades, dispatch destinations, pending payments and course-wise admission enquiries.",
     app: "Android and iOS apps from ₹40,000 for onion buyers to see daily lots, for parents to get campus notices, or for field staff to log village collections, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for content edits, backups, security patches and store updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for content edits, backups, security patches and store updates.",
   },
   whyUsIntro:
     "Perambalur buyers are used to dealing with people they can question directly, so we keep everything on paper. Starting prices are published, quotes are itemised, WhatsApp is answered all seven days on Indian time, and your domain, hosting, source code and app store accounts are registered in your own name from the first day. When a feature will not earn its cost, we tell you before you pay for it.",
@@ -178,7 +178,7 @@ const perambalur: CityContent = {
       heading: "Ownership and maintenance for Perambalur websites and apps",
       paragraphs: [
         "Everything we build for you is yours, legally and practically. The domain is booked on your email address, the hosting account is in your name, the complete source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account all list you as owner. At handover you get a written sheet of every login, so nobody, including us, can hold your site to ransom later.",
-        "Upkeep is free for the first five months after go-live. In that window we change prices and photographs, take backups, apply security and version updates, and test now and then that the enquiry form, payment step and WhatsApp link still behave. After that you choose: stay with us from ₹8,000 a month, run it with your own staff, or hand the code to any other developer in Tiruchirappalli.",
+        "Upkeep is free for the first two months after go-live. In that window we change prices and photographs, take backups, apply security and version updates, and test now and then that the enquiry form, payment step and WhatsApp link still behave. After that you choose: stay with us from ₹8,000 a month, run it with your own staff, or hand the code to any other developer in Tiruchirappalli.",
         "Apps need one predictable job a year even when nothing has broken, because Google and Apple keep raising the minimum versions they will accept. We watch those deadlines and ship the rebuild early, so your listing is never pulled during admission season or the onion peak.",
       ],
     },
@@ -270,7 +270,7 @@ const perambalur: CityContent = {
     {
       question: "What maintenance do you provide after a Perambalur project goes live?",
       answer:
-        "The first five months of upkeep cost you nothing: price and photo edits, backups, security patches and periodic checks that forms, checkout and WhatsApp links work. After that, continuing with us starts at ₹8,000 a month, and it is entirely optional. Since the code and every account already sit in your name, moving to another developer needs no permission from us.",
+        "The first two months of upkeep cost you nothing: price and photo edits, backups, security patches and periodic checks that forms, checkout and WhatsApp links work. After that, continuing with us starts at ₹8,000 a month, and it is entirely optional. Since the code and every account already sit in your name, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you also work in Padalur, Kurumbalur and Thuraiyur?",

@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "0", label: "Google's charge for clicks on free booking links" },
     { value: "3", label: "Freelance developers who build and optimise" },
     { value: "2", label: "Working days to receive an itemised quote" },
-    { value: "5", label: "Months of free maintenance on a new website" },
+    { value: "2", label: "Months of free maintenance on a new website" },
   ],
   answer: {
     heading: "How do hotel SEO services increase direct bookings instead of OTA bookings?",
@@ -247,7 +247,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, hotel SEO services start at ${P.seo} a month. The quote depends on the number of properties, room types and languages, the destination content planned and whether the booking path needs development. A six-room homestay needs much less than a three-property resort group with two language versions.`,
         `In the wider market, quotes vary widely, and the difference usually comes from scope: whether content is written for you, whether booking engine and tracking work is included, whether OTA listing management is part of it, and how often reporting happens. The useful comparison is not price alone but what share of your name searches ends in a direct booking before and after.`,
-        `One-time costs are separate. A new hotel or homestay website of up to 100 pages starts at ${P.site} (${P.siteUsd}). A larger multilingual or multi-property site starts at ${P.seoSite}. A custom booking tool starts at ${P.software}, and a guest app for Android and iOS at ${P.app}, though most properties do not need an app. Maintenance after the five free months starts at ${P.care}.`,
+        `One-time costs are separate. A new hotel or homestay website of up to 100 pages starts at ${P.site} (${P.siteUsd}). A larger multilingual or multi-property site starts at ${P.seoSite}. A custom booking tool starts at ${P.software}, and a guest app for Android and iOS at ${P.app}, though most properties do not need an app. Maintenance after the two free months starts at ${P.care}.`,
       ],
       after: [
         `All figures are starting prices on our <a href='/pricing/'>pricing page</a>; every quote is itemised and nothing is billed before written approval.`,
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
         ["Multilingual or multi-property SEO website", `${P.seoSite} (${P.seoSiteUsd})`, "Hotel groups and properties with several language versions"],
         ["Custom booking or property tool", `${P.software} (${P.softwareUsd})`, "Properties with needs a standard engine does not cover"],
         ["WhatsApp enquiry and booking assistant", `${P.ai} (${P.aiUsd})`, "Homestays and resorts handling many chat enquiries"],
-        ["Maintenance after 5 free months", `${P.care} (${P.careUsd})`, "Ongoing updates, backups and speed checks"],
+        ["Maintenance after 2 free months", `${P.care} (${P.careUsd})`, "Ongoing updates, backups and speed checks"],
       ],
     },
   ],

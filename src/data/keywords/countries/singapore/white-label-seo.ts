@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "AI search readiness add-on", note: "Answer-first page structure, entity markup and crawler access checks so client pages can be cited in AI Overviews and chat answers.", href: "/singapore/ai-seo-services/", size: "md" },
       { name: "Local SEO for Singapore outlets", note: "Google Business Profile hygiene, location pages for each outlet, and consistent name, address and phone details across the site.", size: "sm" },
       { name: "SEO-ready site builds under your brand", note: `When a client's site is too weak to rank, we rebuild it white label, from ${P.site} for smaller sites and ${P.seoSite} for large content sites.`, href: "/singapore/website-revamp/", size: "sm" },
-      { name: "Aftercare for the sites you resell", note: `Updates, backups and uptime checks behind your brand, from ${P.care} after the five free months on sites we build.`, href: "/singapore/website-maintenance/", size: "sm" },
+      { name: "Aftercare for the sites you resell", note: `Updates, backups and uptime checks behind your brand, from ${P.care} after the two free months on sites we build.`, href: "/singapore/website-maintenance/", size: "sm" },
     ],
   },
   comparison: {

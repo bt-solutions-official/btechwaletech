@@ -31,11 +31,11 @@ const moga: CityContent = {
     eyebrow: "Moga · Punjab",
     h1: "Websites, apps, SEO and AI automation for Moga's IELTS centres, visa consultants, implement makers and shops",
     lede:
-      "Three engineers, working remotely, building websites, local search setups and WhatsApp lead tools for businesses in Moga and its surrounding towns. We work with coaching centres and study-abroad consultants on Dutt Road and GT Road, farm implement makers, dairies, clinics, showrooms and NRI-facing services, with published starting prices and five months of free maintenance.",
+      "Three engineers, working remotely, building websites, local search setups and WhatsApp lead tools for businesses in Moga and its surrounding towns. We work with coaching centres and study-abroad consultants on Dutt Road and GT Road, farm implement makers, dairies, clinics, showrooms and NRI-facing services, with published starting prices and two months of free maintenance.",
     pills: ["Sites from ₹10,000", "Punjabi, Hindi, English", "Lead tracking for IELTS", "Implement catalogues", "NRI-friendly pages"],
   },
   quickAnswer:
-    "In Moga, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI lead automation from ₹40,000 and custom software such as a student CRM from ₹60,000. We are a remote team with no office in Moga, and the first five months of maintenance are free.",
+    "In Moga, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI lead automation from ₹40,000 and custom software such as a student CRM from ₹60,000. We are a remote team with no office in Moga, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Moga district, formed in 1995 as Punjab's 17th district, on the Ferozepur–Ludhiana road" },
     { label: "Farming", value: "Around 90% of the district's land is agricultural, and it is among Punjab's larger wheat and rice producers" },
@@ -52,10 +52,10 @@ const moga: CityContent = {
     ai: "WhatsApp flows that answer batch, fee and course questions, collect a student's profile and route warm leads to the right counsellor.",
     data: "Dashboards showing enquiries by source, conversion by counsellor, or implement sales by season and dealer.",
     app: "Android and iOS apps for student attendance, mock test scores or dealer orders, available on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Moga has plenty of businesses that already spend on advertising: hoardings on GT Road, newspaper inserts, Facebook ads. Far fewer have a website that turns that attention into tracked enquiries. We build sites and lead tools at published starting prices, reply on WhatsApp seven days a week, and look after the site free for five months.",
+    "Moga has plenty of businesses that already spend on advertising: hoardings on GT Road, newspaper inserts, Facebook ads. Far fewer have a website that turns that attention into tracked enquiries. We build sites and lead tools at published starting prices, reply on WhatsApp seven days a week, and look after the site free for two months.",
   pricingIntro:
     "These are starting prices, not packages. A small shop site costs less than an IELTS centre that wants course pages, a lead system and counsellor logins. You get an itemised written quote for your exact needs within about two working days, and nothing is billed until you approve it.",
   sections: [
@@ -177,7 +177,7 @@ const moga: CityContent = {
       paragraphs: [
         "Many Moga businesses have had a site built by an agency or a freelancer who kept the domain and hosting in their own account. When the relationship ended, so did the website, sometimes along with years of student enquiries stored in a system the owner could not open.",
         "We register the domain and hosting in your name from the start. At launch you get every login, the full source code and a short document explaining the setup. Lead and student data stays in accounts you control, and you can export it whenever you want. If you choose another developer later, you leave with everything and pay no exit fee.",
-        "Maintenance is free for five months after launch: text and fee changes, new course pages, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you contact us only when you need a change. See our <a href=\"/services/web-development/\">web development service</a> for details.",
+        "Maintenance is free for two months after launch: text and fee changes, new course pages, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you contact us only when you need a change. See our <a href=\"/services/web-development/\">web development service</a> for details.",
       ],
     },
     {
@@ -268,7 +268,7 @@ const moga: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we update fees, courses, text and photos, fix bugs, apply security updates, take backups and check speed, at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we update fees, courses, text and photos, fix bugs, apply security updates, take backups and check speed, at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Can an implement maker sell online from Moga?",

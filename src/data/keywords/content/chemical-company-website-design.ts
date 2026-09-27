@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Customer or distributor portal", `From ${P.software}`],
     ["Quote and sample automation", `From ${P.ai}`],
     ["Itemised quote", "In about 2 working days"],
-    ["Support after launch", "5 months free maintenance"],
+    ["Support after launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building and maintaining your site" },
     { value: "16", label: "Sections in a GHS safety data sheet, all kept downloadable" },
     { value: "299+", label: "Pages in the SEO plan for large product catalogues" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What should a chemical company website include to win industrial buyers?",
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Chemical company website design starts at ${P.site} for a static site of up to 100 pages, which covers a small or mid-sized catalogue with document downloads and quote forms. A site with 299+ product, grade and application pages starts at ${P.seoSite}. Customer or distributor portals start at ${P.software}.`,
         `The biggest cost driver is data. Two hundred products with CAS numbers, grades, parameters and matched TDS and SDS files take careful entry and checking, especially if the source is scattered across old brochures and email attachments. The second driver is application content, which needs technical input. The third is gated documents and portals, which need logins, permissions and logging.`,
-        `You save money by sending one clean product spreadsheet and a folder of current documents named consistently. After launch, running costs are hosting, domain renewal and any messaging fees; maintenance is free for five months and then optional from ${P.care}. Export-focused businesses sometimes prefer USD quotes, for example a static site from ${P.siteUsd} or a large catalogue site from ${P.seoSiteUsd}.`,
+        `You save money by sending one clean product spreadsheet and a folder of current documents named consistently. After launch, running costs are hosting, domain renewal and any messaging fees; maintenance is free for two months and then optional from ${P.care}. Export-focused businesses sometimes prefer USD quotes, for example a static site from ${P.siteUsd} or a large catalogue site from ${P.seoSiteUsd}.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       heading: "Who owns the chemical company website and its data?",
       paragraphs: [
         `You own it all: the domain, hosting, code, product database, documents and every enquiry and download record. Nothing is registered under the developer's name.`,
-        `At handover you receive admin logins, the code repository, a renewal calendar and a short guide for routine work such as adding a product, replacing an SDS, uploading a certificate and exporting enquiries. The first five months of maintenance after launch are free, covering fixes, updates, backups and small edits. Afterwards you can continue from ${P.care}, manage it internally or hand it to another developer. Terms beyond these, including confidentiality, are agreed in your written quote; see our <a href='/terms/'>terms</a> for general conditions.`,
+        `At handover you receive admin logins, the code repository, a renewal calendar and a short guide for routine work such as adding a product, replacing an SDS, uploading a certificate and exporting enquiries. The first two months of maintenance after launch are free, covering fixes, updates, backups and small edits. Afterwards you can continue from ${P.care}, manage it internally or hand it to another developer. Terms beyond these, including confidentiality, are agreed in your written quote; see our <a href='/terms/'>terms</a> for general conditions.`,
       ],
       list: [
         "Accounts opened in your business name from the start",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
       ["Clean the data together", "We send a product template with fixed columns; your team fills or corrects it and names documents consistently, while we build templates and search."],
       ["Test with real buyer tasks", "On a staging link you search by CAS number, download documents and submit quote and sample requests to confirm routing works."],
       ["Go live in your accounts", "The site launches on your domain and hosting, structured data is validated, the sitemap submitted, and your team receives logins and a short guide."],
-      ["Five months of free maintenance", `Fixes, updates and small edits are free for five months after launch. Maintenance afterwards is optional from ${P.care} a month.`],
+      ["Two months of free maintenance", `Fixes, updates and small edits are free for two months after launch. Maintenance afterwards is optional from ${P.care} a month.`],
     ],
   },
   faqHeading: "Chemical company website design: questions manufacturers and traders ask",
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
     { question: "Do I own the website, product data and documents?", answer: "Yes. The domain, hosting, code, product database, documents and all enquiry and download records are registered to your business. At handover you receive admin logins, repository access and renewal dates, and the product data can be exported as a spreadsheet whenever you need it. Nothing depends on our accounts." },
     { question: "Can you build a customer portal for CoAs and order status?", answer: `Yes. A portal lets approved customers log in to download certificates of analysis for their lots, see order and dispatch status, view invoices you upload and access price lists. It is custom software starting at ${P.software}, usually added after the public site has proved itself, and it shares the same product database.` },
     { question: "Freelance team or agency for a chemical company website?", answer: "A small freelance team like BtechWaleTech suits chemical businesses that want to work directly with the developers, build in stages and keep ownership simple. Large agencies may suit multi-country brand programmes. Whoever you hire, check that they plan the product data properly, keep accounts in your name and quote item by item." },
-    { question: "What maintenance does a chemical website need?", answer: `Replacing revised SDS and TDS files, adding products, updating certificates before they expire, security updates, backups and checking that forms route correctly. Five months of maintenance are free after launch. After that it is optional from ${P.care} a month, and your team can make routine document updates through the admin panel.` },
+    { question: "What maintenance does a chemical website need?", answer: `Replacing revised SDS and TDS files, adding products, updating certificates before they expire, security updates, backups and checking that forms route correctly. Two months of maintenance are free after launch. After that it is optional from ${P.care} a month, and your team can make routine document updates through the admin panel.` },
     { question: "How do payments and contracts work?", answer: "You receive a written, itemised quote with scope, stages and timeline in about two working days. Nothing is billed before you approve it in writing. Payments in India are by UPI or bank transfer; overseas clients can pay by Wise, bank wire or PayPal against a USD quote. Confidentiality and other terms are agreed in the quote." },
     { question: "Do you visit plants or take product photos?", answer: "No. The team works remotely from India and does not make site visits or handle photography. You or a local photographer can supply photos of packing, plant areas you are allowed to show and product samples, and we send a shot list so the images suit the pages. Everything else runs over WhatsApp, email and video calls." },
     { question: "Chemical company ki website mein kya kya hona chahiye?", answer: `Chemical company website mein CAS number ke saath product catalogue, har product ka TDS aur SDS download, industry wise application pages, bulk quote aur sample request form, aur certificates ki details honi chahiye. Chemical company website design ${P.site} se shuru hota hai; pehle itemised quote milta hai.` },
@@ -470,7 +470,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to start chemical company website design that buyers can shortlist?",
-    note: `Send your product list, a few TDS and SDS files and your certificates on WhatsApp. You will receive a catalogue plan and itemised quote in about two working days, starting at ${P.site}, with every account in your name and five months of free maintenance after launch.`,
+    note: `Send your product list, a few TDS and SDS files and your certificates on WhatsApp. You will receive a catalogue plan and itemised quote in about two working days, starting at ${P.site}, with every account in your name and two months of free maintenance after launch.`,
   },
 };
 

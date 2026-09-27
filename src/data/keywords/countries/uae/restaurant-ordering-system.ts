@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["POS or multi-branch logic", `Quoted as custom work from ${P.software}`],
     ["Our cut of your orders", "None; you pay card fees to your own provider"],
     ["You own", "Domain, menu data, customer list, payment account"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Commission we take on your orders" },
     { value: "3", label: "Developers building and supporting it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What is the best restaurant ordering system for a Dubai restaurant that wants to stop paying commission?",
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a restaurant ordering system costs",
-    note: `A direct ordering website with menu, cart, delivery zones and card checkout is priced like an online store, from ${P.shop}. A view-only QR menu with no ordering or payments starts from ${P.site}. Deep POS integration, multi-branch routing or a multi-brand cloud kitchen setup is quoted as custom software from ${P.software}. WhatsApp reorder automation starts from ${P.ai}, and a customer app from ${P.app} if your regulars order often enough to install one. Maintenance after five free months starts from ${P.care}. None of these include any cut of your orders.`,
+    note: `A direct ordering website with menu, cart, delivery zones and card checkout is priced like an online store, from ${P.shop}. A view-only QR menu with no ordering or payments starts from ${P.site}. Deep POS integration, multi-branch routing or a multi-brand cloud kitchen setup is quoted as custom software from ${P.software}. WhatsApp reorder automation starts from ${P.ai}, and a customer app from ${P.app} if your regulars order often enough to install one. Maintenance after two free months starts from ${P.care}. None of these include any cut of your orders.`,
   },
   guideLabel: "Restaurant ordering system guide for UAE restaurants",
   guide: [
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
         "Google Business Profile order links point to the live site, and analytics records orders.",
       ],
       after: [
-        `Five months of free maintenance follow launch for bug fixes and small changes. Menu edits are yours to make in the admin panel at any time. When the free period ends, <a href='/uae/website-maintenance-services/'>website maintenance</a> starts from ${P.care}.`,
+        `Two months of free maintenance follow launch for bug fixes and small changes. Menu edits are yours to make in the admin panel at any time. When the free period ends, <a href='/uae/website-maintenance-services/'>website maintenance</a> starts from ${P.care}.`,
       ],
     },
   ],
@@ -394,12 +394,12 @@ const content: FreelanceContent = {
       ["Menu, zones and design", "Your team fills in the menu sheet with modifiers; we draw delivery zones with you and share clickable phone designs for approval."],
       ["Build and kitchen setup", "Weekly staging demos with your real menu. A test ticket prints in your kitchen and the pass tablet rings before launch day."],
       ["Mock service", "We run a burst of test orders with your staff, including sold-out items, cancellations and a switched-off printer, then fix anything that wobbles."],
-      ["Launch, promote, maintain", "Go live under your accounts, add QR stands and profile links, watch the first busy weekends and cover fixes free for five months."],
+      ["Launch, promote, maintain", "Go live under your accounts, add QR stands and profile links, watch the first busy weekends and cover fixes free for two months."],
     ],
   },
   faqHeading: "Restaurant ordering system in Dubai: questions owners ask",
   faqs: [
-    { question: "How much does a restaurant ordering system cost in Dubai?", answer: `With BtechWaleTech, a direct ordering website with delivery zones, pickup and card checkout starts from ${P.shop}. A view-only QR menu starts from ${P.site}, and POS integration or multi-branch setups start from ${P.software}. We take no commission on your orders. Your running costs are card processing, hosting and delivery, plus maintenance after five free months.` },
+    { question: "How much does a restaurant ordering system cost in Dubai?", answer: `With BtechWaleTech, a direct ordering website with delivery zones, pickup and card checkout starts from ${P.shop}. A view-only QR menu starts from ${P.site}, and POS integration or multi-branch setups start from ${P.software}. We take no commission on your orders. Your running costs are card processing, hosting and delivery, plus maintenance after two free months.` },
     { question: "Is there a restaurant ordering system in Dubai with no commission?", answer: "Yes, if you own it. When you build your own restaurant ordering system, nobody takes a percentage of each order. You still pay your card provider's processing fees, delivery costs, hosting and maintenance, so direct orders are not free, but those costs are usually lower than marketplace commission on the same repeat orders. Check with your own statements." },
     { question: "How long does it take to set up a restaurant ordering system?", answer: "A view-only QR menu takes about 1–2 weeks. A full ordering website with delivery zones, pickup, card checkout and kitchen printing takes about 4–8 weeks. POS integration or several branches with different menus can take 6–12 weeks. Speed depends heavily on how quickly your menu sheet is filled in and your payment account is approved." },
     { question: "Should I leave Talabat, Deliveroo or Careem if I build my own ordering system?", answer: "Usually not. Aggregators are strong at bringing you new customers, and your own ordering system brings none by itself. The better plan is to stay listed, then give regulars a reason to order direct, such as loyalty points, pickup convenience or exclusive dishes. Check your contracts for any terms on pricing and marketing inside their orders." },
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
     { question: "Can guests split the bill and tip through QR ordering?", answer: "Yes, at level three (order and pay). Guests can pay the whole table, split evenly, or pay for selected items, and add a tip if you enable it. The bill updates live so the last person sees what remains. Tip distribution among staff is your internal policy; the system reports tips separately so your manager can allocate them." },
     { question: "Is a remote team in India practical for a Dubai restaurant?", answer: "For the software, yes. India is 1.5 hours ahead of the UAE, calls fit before dinner service, and we reply on WhatsApp seven days a week. We cannot visit, install printers or take food photos, so a local supplier or your staff handles hardware and photography with our guidance over video. Everything else happens online." },
     { question: "How do I pay for the project?", answer: "Quotes are in USD, and you can pay by Wise, bank wire or PayPal, with invoices issued from India. Nothing is billed before you approve a written quote that sets out scope and milestones. For NDAs or other commercial terms, ask us and we agree them in writing before work starts; our terms and refund policy pages explain the general approach." },
-    { question: "What happens if the ordering system goes down during service?", answer: "We host on reliable cloud infrastructure in your account, monitor uptime and get alerted if the site stops responding. During the five free months after launch, bug fixes are covered. The kitchen tablet shows a clear warning if it loses connection. As a fallback, your aggregator listings and phone orders keep working independently of your own system." },
+    { question: "What happens if the ordering system goes down during service?", answer: "We host on reliable cloud infrastructure in your account, monitor uptime and get alerted if the site stops responding. During the two free months after launch, bug fixes are covered. The kitchen tablet shows a clear warning if it loses connection. As a fallback, your aggregator listings and phone orders keep working independently of your own system." },
     { question: "Can you build an Arabic version of the menu?", answer: "Yes. We build a full right-to-left Arabic menu and checkout with a language switcher, including modifiers, zone messages and receipts. You supply or approve the Arabic dish names and descriptions, because our team writes English and does not offer native Arabic copywriting. Dish names can also appear in both languages on the kitchen ticket if staff prefer." },
     { question: "Can hotel outlets or beach clubs use QR ordering to sunbeds or rooms?", answer: "Yes. Instead of table numbers, QR codes carry location codes such as sunbed numbers, cabanas or room numbers. Orders route to the right outlet and show the location on the ticket. Charging to a room needs a connection to the hotel's property management system, which we check case by case before quoting." },
   ],

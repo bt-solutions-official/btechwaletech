@@ -56,7 +56,7 @@ const arambagh: CityContent = {
     ai: "WhatsApp replies in Bengali and English for bond status, stock, doctor timings and tuition batches, with money matters passed to you.",
     data: "Dashboards of storage occupancy by chamber, bonds due for release, paddy bought per day and rice dispatched by buyer.",
     app: "Android and iOS apps for cold storages whose farmers check bond status, or for tuition centres with daily tests, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then care plans from ₹8,000 a month covering backups, updates and security patches.",
+    maintenance: "Two free months of upkeep after launch, then care plans from ₹8,000 a month covering backups, updates and security patches.",
   },
   whyUsIntro:
     "Arambagh owners are used to dealing face to face and settling accounts after the harvest, so trust has to be earned in writing. Our starting prices are public, every quote is itemised, WhatsApp gets answered daily, and the domain, hosting, code and app store accounts are opened in your name, not ours.",
@@ -176,7 +176,7 @@ const arambagh: CityContent = {
       heading: "Ownership, upkeep and flood-season backups",
       paragraphs: [
         "What we build is yours outright. Domain, hosting, code repository, database, Google Business Profile and both app store developer accounts are opened under your name and email. If you ever hand the work to someone else, passing on those logins is enough for them to continue.",
-        "The first five months after launch carry no maintenance charge. After that, care plans start at ₹8,000 a month and cover updates, backups, security patches and small edits. Parts of the subdivision flood in heavy monsoons, and an office computer can be lost with the ground floor, so for cold storage and mill software we keep automatic cloud backups that do not depend on anything in your building.",
+        "The first two months after launch carry no maintenance charge. After that, care plans start at ₹8,000 a month and cover updates, backups, security patches and small edits. Parts of the subdivision flood in heavy monsoons, and an office computer can be lost with the ground floor, so for cold storage and mill software we keep automatic cloud backups that do not depend on anything in your building.",
         "If you prefer to pay only when you need a change, we quote each job on its own with no monthly commitment.",
       ],
     },
@@ -259,7 +259,7 @@ const arambagh: CityContent = {
     {
       question: "What does maintenance include after launch?",
       answer:
-        "The first five months after launch carry no maintenance charge. After that, care plans start at ₹8,000 a month and include backups, security patches, updates and small edits. For software holding bond or purchase records, automatic cloud backups are part of every plan, which protects you if the office floods.",
+        "The first two months after launch carry no maintenance charge. After that, care plans start at ₹8,000 a month and include backups, security patches, updates and small edits. For software holding bond or purchase records, automatic cloud backups are part of every plan, which protects you if the office floods.",
     },
     {
       question: "Do you offer monthly SEO services in Arambagh?",

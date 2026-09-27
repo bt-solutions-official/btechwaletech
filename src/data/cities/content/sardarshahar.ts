@@ -56,7 +56,7 @@ const sardarshahar: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rate, stock, timing and admission questions, then hand real decisions to you.",
     data: "Monthly dashboards of orders by city, silver stock by weight, fee collections and enquiries by source.",
     app: "Android and iOS apps for school notices and fee reminders or for repeat jewellery and sweet customers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security checks.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security checks.",
   },
   whyUsIntro:
     "Sardarshahar has a long trading culture, and people here read a quote line by line before they agree to anything. We publish starting prices, send an itemised written quote, answer WhatsApp every day of the week and put your domain, hosting, code and app store accounts in your own name. If a feature will not earn its cost, we tell you.",
@@ -178,7 +178,7 @@ const sardarshahar: CityContent = {
       heading: "Website and app ownership and maintenance for Sardarshahar businesses",
       paragraphs: [
         "A familiar story in smaller towns is a website that vanished because the person who built it registered the domain in his own name and then stopped answering calls. We avoid that from day one. Your domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and we hand over every login in writing.",
-        "Maintenance is free for the first five months after launch. That covers content and price updates, backups, security patches, software updates, and checks that forms, WhatsApp links and payments still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "Maintenance is free for the first two months after launch. That covers content and price updates, backups, security patches, software updates, and checks that forms, WhatsApp links and payments still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
         "Apps need attention every year because Google and Apple keep changing their rules. We track those changes and update your app in time so it is not removed from the stores. Silver rate pages and school fee pages also need regular updates, and we can set them up so your own staff can change them in a minute.",
       ],
     },
@@ -270,7 +270,7 @@ const sardarshahar: CityContent = {
     {
       question: "What maintenance do you offer after the website goes live?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you choose.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you choose.",
     },
     {
       question: "Do you work in Ratangarh, Taranagar and Churu as well?",

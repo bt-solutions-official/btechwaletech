@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["Retainer from", `${P.care} · ${P.careUsd}`],
-    ["Stores we build", "5 months of maintenance free after launch"],
+    ["Stores we build", "2 months of maintenance free after launch"],
     ["Access", "Staff or collaborator login you control"],
     ["Reporting", "Monthly note: done, found, next"],
     ["Requests", "On WhatsApp, in English or Hindi"],
@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Developers who know your store" },
-    { value: "5", label: "Free months of care on stores we launch" },
+    { value: "2", label: "Free months of care on stores we launch" },
     { value: "2", label: "Working days to quote a retainer" },
     { value: "0", label: "Platform commission taken by us" },
   ],
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Shopify maintenance pricing: a retainer sized to your store",
-    note: `The maintenance retainer starts at ${P.care}. What moves it up is volume and risk, not the platform: how many products you add each month, how much custom code sits in the theme, how many apps talk to each other, and whether you run frequent sales that need banner and collection changes. A small catalogue with a Theme Store theme and five apps sits near the starting point. A store with a heavily edited theme, several integrations and weekly launches needs more hours. You get an itemised scope in about two working days, and stores we build ourselves get their first five months of maintenance free.`,
+    note: `The maintenance retainer starts at ${P.care}. What moves it up is volume and risk, not the platform: how many products you add each month, how much custom code sits in the theme, how many apps talk to each other, and whether you run frequent sales that need banner and collection changes. A small catalogue with a Theme Store theme and five apps sits near the starting point. A store with a heavily edited theme, several integrations and weekly launches needs more hours. You get an itemised scope in about two working days, and stores we build ourselves get their first two months of maintenance free.`,
   },
   guideLabel: "Shopify maintenance guide",
   guide: [
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Do you maintain Shopify stores outside India?", answer: `Yes. The work is remote and Shopify is the same everywhere. International stores are quoted in USD, with maintenance starting at ${P.careUsd}, paid by Wise, bank wire or PayPal. We schedule any calls in overlapping hours and share all changes in writing on WhatsApp or email.` },
     { question: "Can you fix a Shopify store that someone else built?", answer: "Yes. Most maintenance clients come to us with stores built by someone else. The first month includes an audit: theme backup, app list with costs, a note on custom code we find and a list of the most urgent fixes. Heavily modified themes take a little longer to document before routine work begins." },
     { question: "Shopify store ka monthly maintenance kya hota hai?", answer: `Shopify server aur security khud sambhalta hai, lekin theme update, apps ka kharcha, product upload, speed aur checkout changes aapki zimmedari hai. Monthly maintenance mein yeh sab check hota hai aur chhote changes kiye jaate hain. BtechWaleTech ka retainer ${P.care} se shuru hota hai, pehle store dekh kar itemised quote milta hai.` },
-    { question: "How do I start Shopify maintenance with BtechWaleTech?", answer: "Send your store URL on WhatsApp with the problems that worry you most. We look at the store, ask for limited staff access, and send an itemised monthly scope in about two working days. Nothing is billed before you approve it in writing. Stores we build ourselves also get five months of maintenance free after launch." },
+    { question: "How do I start Shopify maintenance with BtechWaleTech?", answer: "Send your store URL on WhatsApp with the problems that worry you most. We look at the store, ask for limited staff access, and send an itemised monthly scope in about two working days. Nothing is billed before you approve it in writing. Stores we build ourselves also get two months of maintenance free after launch." },
   ],
   related: {
     heading: "More Shopify and store support pages",

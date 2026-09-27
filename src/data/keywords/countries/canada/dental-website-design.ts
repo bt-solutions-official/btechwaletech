@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks; 3–5 for larger groups"],
     ["Accessibility target", "WCAG 2.0 Level AA"],
     ["Ownership", "Domain, hosting, code and content are yours"],
-    ["Included upkeep", "5 months of free maintenance"],
+    ["Included upkeep", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Wording", value: "Checked against your college's advertising standards" },
       { label: "Accessibility", value: "Built to WCAG 2.0 Level AA" },
       { label: "Locations", value: "One page per clinic with hours, parking, transit and dentists" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
       ["Accounts and content", "Domain, hosting and analytics in your clinic's name. You send dentist bios, registration status, photos and coverage wording."],
       ["Wording review", "Draft pages arrive on a preview link with any wording we think your college may question highlighted for your dentists."],
       ["Booking and accessibility tests", "Test bookings from staff phones, keyboard and contrast checks, and location details compared line by line with your Google profiles."],
-      ["Launch and handover", "The site goes live, sitemaps go to Search Console, and you receive every login. Five months of free maintenance begin."],
+      ["Launch and handover", "The site goes live, sitemaps go to Search Console, and you receive every login. Two months of free maintenance begin."],
     ],
   },
   faqHeading: "Dental website design in Canada: frequently asked questions",
@@ -438,7 +438,7 @@ const content: FreelanceContent = {
     { question: "Who owns the dental website when it is finished?", answer: "Your clinic does. The domain, hosting, code, photos and all text are in your name from the start, and the handover document lists every login. If you move to another developer, they can take over without anything being locked or rebuilt." },
     { question: "Can you redesign our existing dental website?", answer: "Yes. We audit the current site, keep pages that earn visits, redirect old URLs to their new equivalents, rewrite wording that may conflict with your college's standards and rebuild the booking path. See our website redesign page for how we protect search traffic during a move." },
     { question: "Do orthodontists and specialists need a different website?", answer: "The structure is similar, but specialist status must be stated correctly, treatment pages go deeper on one area, and referral information for general dentists often matters. We follow your college's rules on how specialty designations are displayed and confirm the wording with you." },
-    { question: "What maintenance does a dental website need?", answer: `Keeping hours, dentists, coverage policy and booking links current, plus software updates and accessibility checks after changes. The first five months after launch are free; after that, a care plan starts at ${P.care}, or your team can manage simple edits.` },
+    { question: "What maintenance does a dental website need?", answer: `Keeping hours, dentists, coverage policy and booking links current, plus software updates and accessibility checks after changes. The first two months after launch are free; after that, a care plan starts at ${P.care}, or your team can manage simple edits.` },
   ],
   related: {
     heading: "More for Canadian clinics and practices",

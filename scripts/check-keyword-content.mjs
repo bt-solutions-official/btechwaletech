@@ -1,6 +1,7 @@
 // Quality gate for keyword pages rendered by FreelancePage.astro:
 //   src/data/keywords/content/{slug}.ts             -> /{slug}/            (listed in keywords.json)
 //   src/data/keywords/countries/{country}/{slug}.ts -> /{country}/{slug}/  (listed in countries.json)
+//   src/data/bhiwadi/content/{slug}.ts               -> /bhiwadi-rajasthan/{slug}/  (listed in src/data/bhiwadi/pages.json)
 // Overlap is measured against every keyword page plus the /freelancers/ and /freelancing/ pages.
 // Compiled pages are cached by mtime in node_modules/.cache/keyword-check, so re-runs only rebuild edited files.
 // Usage: node scripts/check-keyword-content.mjs [slug | country/slug ...]   (no args = check all)
@@ -10,6 +11,7 @@ import { buildSync } from "esbuild";
 
 const MIN_PAGE_WORDS = 5500; // rendered <main> words, template included
 const MIN_NEW_PAGE_WORDS = 6300; // batch-2 India pages and every country page (~5,650 unique words + template)
+const MIN_LOCAL_PAGE_WORDS = 5300; // /bhiwadi-rajasthan/ pages (~4,650 unique words + template)
 const TEMPLATE_WORDS = 650; // shared FreelancePage words (price table, quote card, CTA links); ~700 measured on /freelance-web-developer/
 const MAX_OVERLAP = 0.12; // share of a page's 8-word phrases also found in any other single page
 const root = process.cwd();
@@ -19,6 +21,8 @@ const keywordList = JSON.parse(readFileSync(join(kwDir, "keywords.json"), "utf8"
 const keywordSlugs = new Map(keywordList.map((k) => [k.slug, k]));
 const countryList = existsSync(join(kwDir, "countries.json")) ? JSON.parse(readFileSync(join(kwDir, "countries.json"), "utf8")) : {};
 const countryIds = new Set(Object.entries(countryList).flatMap(([country, list]) => list.map((k) => `${country}/${k.slug}`)));
+const localDir = join(root, "src", "data", "bhiwadi");
+const localIds = new Set(JSON.parse(readFileSync(join(localDir, "pages.json"), "utf8")).map((k) => `bhiwadi-rajasthan/${k.slug}`));
 const citySlugs = new Set(readdirSync(join(root, "src", "data", "cities", "content")).map((f) => f.replace(/\.ts$/, "")));
 const planInr = new Set([...plans.matchAll(/price: "(₹[\d,]+)"/g)].map((m) => m[1]));
 const inrToUsd = Number(plans.match(/INR_TO_USD = ([\d.]+)/)[1]);
@@ -79,7 +83,7 @@ function validHref(href) {
   if (!p.startsWith("/") || p === "/") return true;
   const segs = p.split("/").filter(Boolean);
   if (segs.length === 1 && (keywordSlugs.has(segs[0]) || citySlugs.has(segs[0]))) return true;
-  if (segs.length === 2 && countryIds.has(`${segs[0]}/${segs[1]}`)) return true;
+  if (segs.length === 2 && (countryIds.has(`${segs[0]}/${segs[1]}`) || localIds.has(`${segs[0]}/${segs[1]}`))) return true;
   if (["india", "it-services", "countries"].includes(segs[0])) return true;
   const base = join(root, "src", "pages", ...segs);
   return existsSync(join(base, "index.astro")) || existsSync(`${base}.astro`);
@@ -90,6 +94,7 @@ const countriesDir = join(kwDir, "countries");
 if (existsSync(countriesDir)) for (const country of readdirSync(countriesDir)) {
   for (const f of readdirSync(join(countriesDir, country)).filter((f) => f.endsWith(".ts"))) files.push({ id: `${country}/${f.replace(/\.ts$/, "")}`, file: join(countriesDir, country, f) });
 }
+for (const f of readdirSync(join(localDir, "content")).filter((f) => f.endsWith(".ts"))) files.push({ id: `bhiwadi-rajasthan/${f.replace(/\.ts$/, "")}`, file: join(localDir, "content", f) });
 const pages = [];
 for (const { id, file } of files) {
   try { pages.push({ id, ...(await load(file, id)) }); }
@@ -131,16 +136,17 @@ for (const { id, c, h, error } of pages) {
   if (!isTarget(id)) continue;
   checked++;
   const problems = [];
-  const intl = id.includes("/");
+  const local = id.startsWith("bhiwadi-rajasthan/");
+  const intl = id.includes("/") && !local;
   if (error) problems.push(`does not compile: ${error}`);
   else {
     const text = renderedText(c);
     const raw = JSON.stringify(c);
     const entry = intl ? null : keywordSlugs.get(id);
-    if (intl ? !countryIds.has(id) : !entry) problems.push(`"${id}" is not in ${intl ? "countries.json" : "keywords.json"}`);
+    if (local ? !localIds.has(id) : intl ? !countryIds.has(id) : !entry) problems.push(`"${id}" is not in ${local ? "bhiwadi/pages.json" : intl ? "countries.json" : "keywords.json"}`);
     if (c.path !== `/${id}/`) problems.push(`path "${c.path}" must be "/${id}/"`);
     const total = words(text).length + TEMPLATE_WORDS;
-    const min = intl || entry?.batch === 2 ? MIN_NEW_PAGE_WORDS : MIN_PAGE_WORDS;
+    const min = local ? MIN_LOCAL_PAGE_WORDS : intl || entry?.batch === 2 ? MIN_NEW_PAGE_WORDS : MIN_PAGE_WORDS;
     if (total < min) problems.push(`~${total} page words, need ${min}+ (add ~${min - total} unique words)`);
     const tLen = `${c.meta.title} | BtechWaleTech`.length;
     if (tLen > 70) problems.push(`title ${tLen} chars with brand suffix, keep <= 70`);
@@ -155,6 +161,20 @@ for (const { id, c, h, error } of pages) {
     if (c.areas.cards.length < (intl ? 12 : 14)) problems.push(`${c.areas.cards.length} area cards, need ${intl ? 12 : 14}+`);
     if (c.related.links.length < 12) problems.push(`${c.related.links.length} related links, need 12+`);
     if (!/^\d{4}-\d{2}-\d{2}$/.test(c.updated)) problems.push("updated must be YYYY-MM-DD");
+    // Bhiwadi pages sell one-to-one meetings in Bhiwadi, so every page must say so, without inventing an office there.
+    if (local) {
+      const town = (text.match(/\bBhiwadi\b/g) ?? []).length;
+      if (town < 40) problems.push(`"Bhiwadi" appears ${town} times, need 40+`);
+      const meet = (text.match(/\b(?:face[- ]to[- ]face|one[- ]to[- ]one|in[- ]person)\b/gi) ?? []).length;
+      if (meet < 6) problems.push(`in-person meeting mentioned ${meet} times, need 6+ ("face to face", "one to one", "in person")`);
+      if (!c.facts.some(([label]) => /meet/i.test(label))) problems.push(`facts need a meetings card, e.g. ["Meetings", "One to one in Bhiwadi, at your unit"]`);
+      const office = text.match(/\b(?:our|an?|the) (?:office|branch|centre|center|address) (?:in|at) Bhiwadi\b|\bBhiwadi (?:office|branch)\b/gi);
+      if (office) problems.push(`claims an office in Bhiwadi, found: ${[...new Set(office)].join(", ")}`);
+      if (!c.related.links.some((l) => l.href === "/bhiwadi-rajasthan/")) problems.push("related links must include the /bhiwadi-rajasthan/ hub");
+      // The owner asked for no team member names on the Bhiwadi pages; describe roles instead.
+      const names = text.match(/\b(?:Ankur|Santosh|Vedansh|Shrivastava)\b/g);
+      if (names) problems.push(`names a team member (${[...new Set(names)].join(", ")}); say "the BtechWaleTech team" and describe roles without names`);
+    }
     // We are a freelance group: never call ourselves a company/agency, and don't run a "we are not a company" disclaimer either.
     const company = text.match(/\bnot an? (?:company|agency|firm)\b|\b(?:our|this) (?:company|agency|firm|organi[sz]ation)\b|\bwe(?: are|'re) an? (?:\w+ )?(?:company|agency|firm)\b|\bBtechWaleTech (?:is|as) an? (?:\w+ )?(?:company|agency|firm)\b/gi);
     if (company) problems.push(`company wording, found: ${[...new Set(company)].join(", ")}`);

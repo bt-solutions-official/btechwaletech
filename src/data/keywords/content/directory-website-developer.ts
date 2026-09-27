@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Typical build", "3–5 weeks static; 6–12 weeks with accounts"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Domain, database and listings data are yours"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "700+", label: "Pages in our SEO website plan, a common directory start" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Revenue options", value: "Featured listings, subscriptions, lead fees, ads" },
       { label: "Payments you collect", value: "UPI and card checkout for paid plans" },
       { label: "Ownership", value: "Listings database and code in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get a line-by-line estimate, static or with accounts. Nothing is billed before you approve it in writing."],
       ["Templates and data import", "Listing, category and city templates are built with schema; your data is imported, cleaned and deduplicated on a staging site."],
       ["Accounts and payments if needed", "Owner sign-up, claim flow, paid plans with UPI and card checkout, reviews and moderation are added and tested before launch."],
-      ["Launch and look after it", "The directory goes live on your domain with Search Console set up. Five months of free maintenance follow; later care starts at " + P.care + "."],
+      ["Launch and look after it", "The directory goes live on your domain with Search Console set up. Two months of free maintenance follow; later care starts at " + P.care + "."],
     ],
   },
   faqHeading: "Directory website developer: frequently asked questions",
@@ -384,8 +384,8 @@ const content: FreelanceContent = {
     { question: "Can you turn my directory into a mobile app later?", answer: `Yes. If the directory has a proper backend with owner accounts, the same data can power an Android and iOS app built in Flutter or React Native. BtechWaleTech apps start at ${P.app}. For most directories a fast mobile website is enough at first; an app makes sense when users return often or need saved favourites and alerts.` },
     { question: "Is a directory website developer near me better than a remote one?", answer: "Local knowledge helps with collecting listings, but that is your job or your team’s, not the developer’s. The build itself happens online: you review templates and data on a staging site, discuss on video calls and message on WhatsApp. Choose a developer on their data and SEO thinking, ownership terms and staged delivery rather than distance." },
     { question: "How do payments to the developer work?", answer: "Payments are staged against visible work, such as the approved data model, templates on staging, imported data, and the finished site, with the balance before launch. In India BtechWaleTech accepts UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Stages are listed in your written, itemised quote." },
-    { question: "What happens after the directory launches?", answer: `BtechWaleTech covers fixes and small changes free for five months after launch. After that, maintenance starts at ${P.care} and is optional. Growth work such as new category pages, content and Search Console reviews can be handled through monthly SEO from ${P.seo}. Because code and data are yours, you can also bring in your own team.` },
-    { question: "Directory website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath simple data-driven directory ${P.seoSite} se shuru hoti hai aur 3 se 5 hafte lagte hain. Agar business khud login karke listing edit karenge, featured listing ke liye payment karenge aur reviews honge, toh yeh ${P.software} se shuru hota hai. Pehle itemised quote milta hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "What happens after the directory launches?", answer: `BtechWaleTech covers fixes and small changes free for two months after launch. After that, maintenance starts at ${P.care} and is optional. Growth work such as new category pages, content and Search Console reviews can be handled through monthly SEO from ${P.seo}. Because code and data are yours, you can also bring in your own team.` },
+    { question: "Directory website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath simple data-driven directory ${P.seoSite} se shuru hoti hai aur 3 se 5 hafte lagte hain. Agar business khud login karke listing edit karenge, featured listing ke liye payment karenge aur reviews honge, toh yeh ${P.software} se shuru hota hai. Pehle itemised quote milta hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can you build a directory for clients outside India?", answer: `Yes. BtechWaleTech builds directories for founders abroad remotely, billed in USD from ${P.seoSiteUsd} for data-driven builds and ${P.softwareUsd} for versions with accounts and payments. Calls are held in overlapping hours, progress is shared on staging links, and payments go through Wise, bank wire or PayPal.` },
   ],
   related: {

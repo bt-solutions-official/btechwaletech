@@ -102,7 +102,7 @@ const faqs = [
   },
   {
     question: "What happens after launch, and how do we start?",
-    answer: `Five months of maintenance are included free once hosting is live, then maintenance starts from ${P.care} if you want us to continue. To start, send a WhatsApp message or email with what your business does, the provinces you serve, the languages you need and any deadline. You get questions first, then a written scope and itemized quote, usually within two working days.`,
+    answer: `Two months of maintenance are included free once hosting is live, then maintenance starts from ${P.care} if you want us to continue. To start, send a WhatsApp message or email with what your business does, the provinces you serve, the languages you need and any deadline. You get questions first, then a written scope and itemized quote, usually within two working days.`,
   },
 ];
 
@@ -169,7 +169,7 @@ const facts = [
   ["Starting price", `Websites from ${P.site}`],
   ["Languages", "English and French (fr-CA) sites"],
   ["Billing", "USD, or CAD on request, via Wise or wire"],
-  ["After launch", "5 months of maintenance free"],
+  ["After launch", "2 months of maintenance free"],
   ["Coverage", "10 provinces and 3 territories"],
 ];
 
@@ -178,7 +178,7 @@ const pills = ["Bilingual EN/FR websites", "Shopify & Moneris stores", "SEO for 
 const stats = [
   { value: "3", label: "Engineers you talk to directly" },
   { value: P.site, label: "Websites starting price" },
-  { value: "5", label: "Months maintenance free" },
+  { value: "2", label: "Months maintenance free" },
   { value: "13", label: "Provinces and territories served remotely" },
 ];
 
@@ -189,7 +189,7 @@ const snapshot = [
   { label: "Languages", value: "English and French site structure; French copy from you or your translator" },
   { label: "Payments we set up", value: "Stripe, Shopify Payments, PayPal, Square and Moneris, with GST/HST/PST/QST rules you confirm" },
   { label: "Starting prices", value: `From ${P.site} for a website; every figure is a starting price in USD, CAD invoice on request` },
-  { label: "After launch", value: `5 months of free maintenance, then from ${P.care} or pay-as-needed` },
+  { label: "After launch", value: `2 months of free maintenance, then from ${P.care} or pay-as-needed` },
 ];
 
 // ---------- Services bento ----------
@@ -202,7 +202,7 @@ const services = [
   { name: "Web, Android & iOS apps", note: `Web apps and MVPs plus Android and iPhone apps from ${usd("Android")}, with admin panels and Canadian cloud hosting on request.`, size: "sm" },
   { name: "AI automation", note: "Enquiry routing, document intake and first-draft replies in the enquiry's language, with a human check.", size: "sm" },
   { name: "Website design", note: "Layouts designed for both English and French text from the first mock-up.", size: "sm" },
-  { name: "Maintenance & support", note: "Bilingual content edits, security updates, backups and uptime checks; the first 5 months are free.", size: "sm" },
+  { name: "Maintenance & support", note: "Bilingual content edits, security updates, backups and uptime checks; the first 2 months are free.", size: "sm" },
 ] as const;
 
 // ---------- Comparison ----------
@@ -213,7 +213,7 @@ const comparison = [
   ["French version", "Often available, sometimes in-house writers", "Frequently a translation plugin", "Proper fr-CA structure; copy from your translator"],
   ["Written scope", "Formal proposal", "Often a job post and a chat thread", "Itemized scope before any payment"],
   ["Privacy and accessibility", "Usually covered, sometimes extra", "Frequently skipped", "Consent, opt-in and WCAG practices in every build"],
-  ["After launch", "Paid retainer from day one", "Often ends when the contract closes", "5 months of maintenance free"],
+  ["After launch", "Paid retainer from day one", "Often ends when the contract closes", "2 months of maintenance free"],
   ["Ownership", "Usually transferred, check licensed themes", "Varies by marketplace terms", "Code, .ca domain and accounts in your name"],
   ["Meeting in person", "Possible if local", "Rarely", "Remote only: video calls and a staging link"],
 ];
@@ -226,7 +226,7 @@ const process = [
   ["Design", "Sitemap and wireframes first, then visual design for key pages, tested with French text where the site is bilingual."],
   ["Build on staging", "A private staging link you can open at any time, updated overnight your time, so feedback lands by your next morning."],
   ["Test & SEO", "Titles, hreflang, schema, redirects, speed, accessibility, consent, forms, payments and provincial taxes checked before launch."],
-  ["Launch & support", "Deployed to hosting in your name, logins handed over, then 5 months of free maintenance."],
+  ["Launch & support", "Deployed to hosting in your name, logins handed over, then 2 months of free maintenance."],
 ];
 
 // ---------- Industries table ----------
@@ -281,7 +281,7 @@ const guide = [
       `<strong>SEO for Google in Canada.</strong> Technical SEO, on-page work, content and local search, with en-CA and fr-CA hreflang done properly and, where you also sell into the US, en-US pages that do not cannibalize your Canadian ones. Monthly SEO starts from ${P.seo}; see the <a href="/services/seo-services/">SEO services page</a> and the SEO section below.`,
       `<strong>Custom software and web apps.</strong> Custom web applications start from ${P.app}. Canadian projects we are suited to include booking and scheduling for clinics and trades, client portals for accounting and consulting firms, estimating tools for contractors, inventory dashboards for small manufacturers, volunteer and donor tools for nonprofits, and admin panels that replace a tangle of spreadsheets. We build the first useful version, put it in front of real users and extend it from there, hosted in a Canadian cloud region if you prefer.`,
       `<strong>AI automation.</strong> AI automation starts from ${P.ai} and fits repetitive work: routing enquiries, extracting data from invoices and shipping documents, drafting product descriptions, or answering routine questions from your own documentation. For bilingual businesses, automation can detect whether an enquiry arrived in English or French, route it to the right person and draft a first reply in the same language for a human to check before it goes out. We keep a person in the loop for anything customer-facing and do not send personal information to third-party AI services unless you have approved it, which matters under Quebec's Law 25 in particular.`,
-      `<strong>Maintenance.</strong> The first five months after launch are included free: content updates in both languages, bug fixes, security updates, backups, uptime and speed checks, and basic SEO health checks. Once those months end, you can keep a plan from ${P.care} or simply message us when a change comes up. The <a href="/pricing/">pricing page</a> lists what each plan covers.`,
+      `<strong>Maintenance.</strong> The first two months after launch are included free: content updates in both languages, bug fixes, security updates, backups, uptime and speed checks, and basic SEO health checks. Once those months end, you can keep a plan from ${P.care} or simply message us when a change comes up. The <a href="/pricing/">pricing page</a> lists what each plan covers.`,
     ],
   },
   {
@@ -625,7 +625,7 @@ const servicePages = countryPageLinks("canada");
             <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}{plan.unit ? <small> /mo</small> : null}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">Starting prices in USD; CAD invoice on request. Your quote depends on requirements. 5 months maintenance free after launch.</p>
+        <p class="quote-foot">Starting prices in USD; CAD invoice on request. Your quote depends on requirements. 2 months maintenance free after launch.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>
@@ -650,7 +650,7 @@ const servicePages = countryPageLinks("canada");
       <div>
         <p class="eyebrow">The short answer</p>
         <h2 id="answer-heading">Looking to hire web developers for a Canadian business?</h2>
-        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automations for Canadian businesses, working remotely. A business website starts from {P.site}, an online store from {P.shop} and a custom web application from {P.app}. Each figure is a starting price in USD with CAD invoicing on request, bilingual English and French builds are planned from day one, and the first five months of maintenance are free.</p>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automations for Canadian businesses, working remotely. A business website starts from {P.site}, an online store from {P.shop} and a custom web application from {P.app}. Each figure is a starting price in USD with CAD invoicing on request, bilingual English and French builds are planned from day one, and the first two months of maintenance are free.</p>
         <p class="answer-more">Canada is several markets at once. A renovation company in Mississauga, a boutique in Montreal and an energy supplier in Calgary need different things from a website, in different languages, with different sales taxes at checkout. This page covers what we build, what it costs, how bilingual sites and provincial taxes work, the privacy and accessibility rules we build around, and what businesses in each province typically need.</p>
         <p class="updated">Last updated <time datetime={updated}>September 21, 2026</time></p>
       </div>
@@ -956,7 +956,7 @@ const servicePages = countryPageLinks("canada");
         <h2 id="cta-heading">Tell us what your Canadian business needs</h2>
         <p class="closing-note">
           Send a few lines about your business, the provinces you serve and the languages you need. You get questions first, then a page plan,
-          a timeline and an itemized quote in USD or CAD. You pay nothing before approving the scope, and maintenance is free for the first five months after launch.
+          a timeline and an itemized quote in USD or CAD. You pay nothing before approving the scope, and maintenance is free for the first two months after launch.
         </p>
         <div class="hero-actions closing-actions">
           <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">

@@ -55,7 +55,7 @@ const raghogarhVijaypur: CityContent = {
     ai: "WhatsApp assistants in Hindi and English that answer routine questions and pass anything important to you.",
     data: "Dashboards of manpower deployed, bills raised and paid, vehicle hours and monthly shop sales.",
     app: "Android and iOS apps for contractor attendance, student hostels or township grocery orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security.",
   },
   whyUsIntro:
     "Businesses around the Vijaipur plants are used to written work orders, measured bills and deadlines. We work the same way: published starting prices, an itemised written quote, no billing until you approve, WhatsApp replies every day, and domain, hosting, code and app store accounts registered in your name.",
@@ -177,7 +177,7 @@ const raghogarhVijaypur: CityContent = {
       heading: "Your accounts, your code: ownership and maintenance",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and app store developer accounts are registered in your name, and you keep the logins. No designer can hold your website hostage, including us.",
-        "After launch you get five months of free maintenance: edits, backups, security updates and checks that forms, UPI checkout and WhatsApp links work. After that, maintenance starts at ₹8,000 a month and is optional. You may move to any developer at any time without our permission.",
+        "After launch you get two months of free maintenance: edits, backups, security updates and checks that forms, UPI checkout and WhatsApp links work. After that, maintenance starts at ₹8,000 a month and is optional. You may move to any developer at any time without our permission.",
         "We also leave a short handover note explaining hosting, renewal dates and how to update common content. For apps, build files and store listings are kept organised so another developer could continue if needed.",
       ],
     },
@@ -269,7 +269,7 @@ const raghogarhVijaypur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of free maintenance covering edits, backups, security updates and checks on forms and payments. After that, maintenance starts at ₹8,000 a month and is optional. You own the code and accounts, so switching developers never needs our permission.",
+        "Two months of free maintenance covering edits, backups, security updates and checks on forms and payments. After that, maintenance starts at ₹8,000 a month and is optional. You own the code and accounts, so switching developers never needs our permission.",
     },
     {
       question: "Do you work in Guna, Ruthiyai, Aron and Ashok Nagar?",

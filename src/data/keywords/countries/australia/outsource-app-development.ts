@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Outsource app development · a safe route for Australian businesses",
     h1: "Outsource app development from Australia without losing control of scope, money or code",
     lede: `To outsource app development safely, an Australian business needs four things in place before any code is written: a spec a stranger could quote on, milestones you can test, a written IP assignment, and a communication rhythm that suits both time zones. BtechWaleTech is three freelance developers in India who work exactly that way, building iOS and Android apps from ${P.app} with payments tied to milestones and the repository in your account from day one. This guide walks through each safeguard, whoever you hire.`,
-    pills: ["Spec before quote", "Milestones you can test", "IP assigned in writing", "Repository in your account", "Pay stage by stage", "Afternoon calls, AEST", "5 months free maintenance"],
+    pills: ["Spec before quote", "Milestones you can test", "IP assigned in writing", "Repository in your account", "Pay stage by stage", "Afternoon calls, AEST", "2 months free maintenance"],
     origin: "Three freelance developers in India · English and Hindi · WhatsApp 7 days a week",
   },
   facts: [
@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "6–10", label: "Weeks for most first releases" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "3", label: "Developers who know your codebase" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How do you outsource app development safely from Australia?",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Communication", value: "Daily written update, weekly video demo in your afternoon" },
       { label: "Ownership", value: "Repository, store accounts and cloud billing in your name" },
       { label: "Starting price", value: `iOS and Android apps from ${P.app}` },
-      { label: "After launch", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "MVP for founders", note: "A narrow first release to test demand before you commit to the full roadmap.", href: "/australia/mvp-development-for-startups/", size: "md" },
       { name: "Rescue of a stalled project", note: "Code audit, account recovery plan and a realistic path to launch when a previous vendor went quiet.", size: "sm" },
       { name: "AI features", note: `Assistants, summaries or smart search built into the app, from ${P.ai}.`, size: "sm" },
-      { name: "Ongoing care", note: `Updates, fixes and store policy changes after the free five months, from ${P.care}.`, size: "sm" },
+      { name: "Ongoing care", note: `Updates, fixes and store policy changes after the free two months, from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Before the last payment, make sure you could hand the app to another developer tomorrow. That means code, credentials, documentation and a working build process, all in your accounts.`,
         `Because our repository and accounts sit with you from day one, handover is mostly documentation: a readme explaining how to build and release the app, a list of third-party services and who pays for them, environment settings, backup and restore notes for the database, and a short video walkthrough of the codebase.`,
-        `After launch you get five months of free maintenance, which covers fixes and compatibility updates while real users find the rough edges. After that you choose: a care plan from ${P.care}, another provider, or in-house staff. The exit is a matter of removing our access.`,
+        `After launch you get two months of free maintenance, which covers fixes and compatibility updates while real users find the rough edges. After that you choose: a care plan from ${P.care}, another provider, or in-house staff. The exit is a matter of removing our access.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Sign and set up accounts", "You approve in writing, sign the IP assignment, create the repository and start the Apple and Google developer registrations in your entity's name."],
       ["Build in tested stages", "Each milestone ends with a build on your phone and acceptance criteria you check before the next payment is released."],
       ["Launch under your name", "We submit the app from your developer accounts, answer store review questions with you and hand over documentation and credentials."],
-      ["Maintain, then decide", `Five months of free maintenance follow launch; afterwards choose care from ${P.care}, another vendor or your own staff.`],
+      ["Maintain, then decide", `Two months of free maintenance follow launch; afterwards choose care from ${P.care}, another vendor or your own staff.`],
     ],
   },
   faqHeading: "Outsource app development: questions Australian businesses ask",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "What happens if the outsourced developer disappears?", answer: "If you have kept the repository, store accounts, cloud billing and documentation in your own name, another developer can pick up the work. That is why those safeguards matter from day one. Our team is three people who all know each codebase, which reduces the single-person risk of hiring one freelancer." },
     { question: "Do I need a technical person to outsource an app?", answer: "No, but you need someone who owns decisions and tests builds each week. A clear spec, acceptance criteria written in plain English and a weekly demo let a non-technical owner run the project. If you want a second opinion on code quality, an independent developer can review the repository at any milestone." },
     { question: "Can you work from a spec another vendor wrote?", answer: "Yes. We review it, ask questions about any gaps and quote against it, listing any assumptions. If you do not have a spec yet, we can run a short scope workshop and write one with you, and you are free to use it with other vendors as well." },
-    { question: "What does maintenance look like after an outsourced app launches?", answer: `Five months of free maintenance follow launch, covering bug fixes and keeping the app running, with exact inclusions listed in your written quote. After that, care plans start from ${P.care}, or you can move maintenance to anyone else, since the code, accounts and documentation are already yours.` },
+    { question: "What does maintenance look like after an outsourced app launches?", answer: `Two months of free maintenance follow launch, covering bug fixes and keeping the app running, with exact inclusions listed in your written quote. After that, care plans start from ${P.care}, or you can move maintenance to anyone else, since the code, accounts and documentation are already yours.` },
     { question: "Can an outsourced team publish the app on the App Store?", answer: "Yes, from your accounts. Apple requires organisations to enrol as a legal entity with a D-U-N-S number, and Google Play requires one for organisation accounts too. You register; we join as team members, prepare the listing and submit. We never publish a client's app under our own account." },
     { question: "How are change requests handled mid-project?", answer: "Every change is written into a log with its cost and effect on the schedule, and work starts only after you approve it in writing. New features or user types are priced as extra lines. This keeps the budget visible throughout." },
     { question: "Can you sign our NDA before we share the idea?", answer: "Send it over and we will review it. Confidentiality terms are agreed in writing before you share sensitive details, and they sit alongside our written quote and terms. Many founders share a high-level description first and the detailed spec after the paperwork is settled." },

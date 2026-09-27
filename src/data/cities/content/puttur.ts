@@ -56,7 +56,7 @@ const puttur: CityContent = {
     ai: "WhatsApp assistants that answer daily rate, stock and admission questions in Kannada and pass the real bargaining to you.",
     data: "Dashboards of purchases by grade, supplier balances, seasonal stock and student enquiries by course.",
     app: "Android and iOS apps from ₹40,000 for grower-to-trader rate alerts, student portals or clinic bookings, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Puttur buyers tend to compare two or three quotes, ask a relative in Mangaluru for an opinion and only then decide. We make that easy: starting prices are public, the quote lists every item in writing, WhatsApp replies come seven days a week, and your domain, hosting, code and store accounts are registered in your own name from day one.",
@@ -168,7 +168,7 @@ const puttur: CityContent = {
         "AI automation: from ₹40,000, 2–4 weeks",
         "Ecommerce store: from ₹50,000, 4–8 weeks",
         "Custom web app or software: from ₹60,000, 6–12 weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -185,7 +185,7 @@ const puttur: CityContent = {
       heading: "Ownership, hosting and maintenance for Puttur websites and apps",
       paragraphs: [
         "Too many local businesses discover, years later, that their website domain was registered in a developer's name and cannot be moved. We do the opposite. Your domain, hosting account, source code and Google Play and App Store developer accounts are set up in your name, and we hand over every password at launch.",
-        "After launch, you get five months of free maintenance: fixes, small text changes, plugin and security updates, and help if something breaks. After that, maintenance starts at ₹8,000 a month, covering backups, updates, uptime checks and a set amount of change requests. You can also stop maintenance and manage the site yourself, or hire anyone else, because nothing is locked to us.",
+        "After launch, you get two months of free maintenance: fixes, small text changes, plugin and security updates, and help if something breaks. After that, maintenance starts at ₹8,000 a month, covering backups, updates, uptime checks and a set amount of change requests. You can also stop maintenance and manage the site yourself, or hire anyone else, because nothing is locked to us.",
         "For apps, maintenance includes keeping up with new Android and iOS versions, which matters because stores remove apps that fall too far behind. We warn you ahead of such changes rather than after the app disappears.",
       ],
     },
@@ -272,7 +272,7 @@ const puttur: CityContent = {
     {
       question: "What maintenance do you offer after the site goes live?",
       answer:
-        "Every project gets five months of free maintenance after launch, covering fixes, small changes and security updates. After that, maintenance starts at ₹8,000 a month for backups, updates, uptime checks and a set number of change requests. You can pause or cancel it whenever you like.",
+        "Every project gets two months of free maintenance after launch, covering fixes, small changes and security updates. After that, maintenance starts at ₹8,000 a month for backups, updates, uptime checks and a set number of change requests. You can pause or cancel it whenever you like.",
     },
     {
       question: "Can my website be in Kannada as well as English?",

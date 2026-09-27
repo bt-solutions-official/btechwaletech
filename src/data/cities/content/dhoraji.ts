@@ -56,7 +56,7 @@ const dhoraji: CityContent = {
     ai: "WhatsApp assistants in Gujarati, Hindi or English that answer rate, stock and delivery questions and pass the rest to you.",
     data: "Dashboards of daily production, raw material stock, dispatches by dealer and payments pending, readable on the owner's phone.",
     app: "Android and iOS apps for dealer orders, sales staff visits or school updates, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then ₹8,000 a month onwards for edits, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then ₹8,000 a month onwards for edits, backups and security updates.",
   },
   whyUsIntro:
     "Dhoraji traders are careful with money and remember who kept their word. We publish starting rates, give an itemised quote in writing, answer WhatsApp every day of the week and open the domain, hosting, code and app store accounts in your name. If a feature will not pay for itself in your business, we tell you before you spend on it.",
@@ -169,7 +169,7 @@ const dhoraji: CityContent = {
       paragraphs: [
         "None of us is based in Saurashtra, so written records take the place of a shop visit. The first call is about your products, your buyers and the one or two things the site or app must get right. A written scope follows, with pages or screens, dates and an itemised price. Billing starts only after your written approval. During the build, preview links arrive on your phone so you, a partner or your son can check them and comment, and each later payment follows work you have already seen running.",
         "WhatsApp messages are answered seven days a week in IST hours. Gujarati text is shown to you for approval before it goes live, and if a date is at risk, we tell you as soon as we see it rather than on the deadline.",
-        "Many business owners have lost an old website because the developer kept the domain. With us, the domain, hosting, source code, Google Business Profile and app store developer accounts are opened in your name, and all passwords are handed over in writing. The first five months after launch include free maintenance: fixes, backups, security updates and checks of forms, payments and WhatsApp buttons. After that, maintenance is ₹8,000 a month onwards, optional, and you can move the code to another developer whenever you wish.",
+        "Many business owners have lost an old website because the developer kept the domain. With us, the domain, hosting, source code, Google Business Profile and app store developer accounts are opened in your name, and all passwords are handed over in writing. The first two months after launch include free maintenance: fixes, backups, security updates and checks of forms, payments and WhatsApp buttons. After that, maintenance is ₹8,000 a month onwards, optional, and you can move the code to another developer whenever you wish.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const dhoraji: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: text and price edits, backups, security updates and checks of forms, payments and buttons. After that you can continue at ₹8,000 a month onwards, or move to another developer, since every account and all the code are yours.",
+        "The first two months after launch are free: text and price edits, backups, security updates and checks of forms, payments and buttons. After that you can continue at ₹8,000 a month onwards, or move to another developer, since every account and all the code are yours.",
     },
     {
       question: "Do you also work in Upleta, Jetpur, Gondal and Rajkot?",

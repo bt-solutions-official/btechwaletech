@@ -56,7 +56,7 @@ const kotKapura: CityContent = {
     ai: "WhatsApp assistants in Punjabi and Hindi that answer rate, stock, fee and timing questions and pass real decisions to you.",
     data: "Season-wise dashboards of arrivals, payments due to farmers, bales pressed and sweet orders by city.",
     app: "Android and iOS apps for arhtiya firms to share bills with farmers or for sweet shops to take repeat orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kot Kapura's traders keep sharp accounts and know every rupee that goes out of the shop. We publish our starting prices, send a written itemised quote, reply on WhatsApp every day of the week, and put your domain, hosting, code and app store accounts in your name. If something will not earn its cost back, you hear that from us first.",
@@ -177,7 +177,7 @@ const kotKapura: CityContent = {
       heading: "Ownership and maintenance for Kot Kapura websites and apps",
       paragraphs: [
         "A common story in Punjab towns is a website that disappears because the developer registered the domain in his own name and then stopped answering. We register the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts in your name, and hand over all logins in writing.",
-        "Maintenance is free for five months after launch. That covers content and price updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "Maintenance is free for two months after launch. That covers content and price updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
         "Apps need yearly updates because Google and Apple change their rules. We track those changes so your app is not removed from the stores. Mandi software gets a check before each wheat and paddy season, so problems show up before the arrivals rush, not in the middle of it.",
       ],
     },
@@ -269,7 +269,7 @@ const kotKapura: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like, with no lock-in.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like, with no lock-in.",
     },
     {
       question: "Do you work in Faridkot, Jaitu and Moga as well?",

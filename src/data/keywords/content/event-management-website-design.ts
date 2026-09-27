@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Enquiry routing", "WhatsApp alert, sheet or CRM"],
     ["Media rule", "No autoplay video on first load"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "2.5s", label: "“Good” LCP threshold on web.dev we aim under" },
     { value: "3", label: "Developers who know your site" },
-    { value: "5", label: "Months of free care after launch" },
+    { value: "2", label: "Months of free care after launch" },
     { value: "0", label: "Middleman or platform fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Enquiry form", value: "Event type, date, city, guests, budget band" },
       { label: "Media handling", value: "Compressed galleries, video loads on tap" },
       { label: "Starting price", value: `From ${P.site}, 1–2 weeks` },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A site with event-type pages, eight to twelve past-event case pages and a budget-based form fits our static plan starting at ${P.site} (${P.siteUsd} for companies abroad), and takes one to two weeks. Larger companies with dozens of case pages, several cities and a CMS for weekly updates cost more because of media preparation, not special technology.`,
         `Across the market, quotes for event management website design vary widely for similar briefs. The difference is usually in media: whether galleries are curated and compressed or dumped in full, whether videos are embedded properly or autoplayed, whether case pages are written or just titled. Ask each designer how they will handle a hundred photographs from one event; the answer tells you what the site will feel like on a phone.`,
-        `Our quote lists structure, number of event-type and case pages, media preparation, form and integrations separately. Maintenance is free for five months after launch, then optional from ${P.care} a month. Monthly SEO starts at ${P.seo}. If you later want a planning tool for tasks, vendors and budgets, custom software starts at ${P.software}.`,
+        `Our quote lists structure, number of event-type and case pages, media preparation, form and integrations separately. Maintenance is free for two months after launch, then optional from ${P.care} a month. Monthly SEO starts at ${P.seo}. If you later want a planning tool for tasks, vendors and budgets, custom software starts at ${P.software}.`,
       ],
     },
     {
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
         { heading: "Days 6–9", text: "Remaining event types and case pages, vendor section, corporate page, galleries and video previews." },
         { heading: "Days 10–12", text: "Form, WhatsApp alerts, sheet or CRM, schema, speed testing on mobile data, one review round and launch." },
       ],
-      after: [`During the five free months after launch, new case pages from recent events are part of maintenance; send the selected photographs and a few facts on WhatsApp.`],
+      after: [`During the two free months after launch, new case pages from recent events are part of maintenance; send the selected photographs and a few facts on WhatsApp.`],
     },
     {
       id: "schema",
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is illustrative, not a client story. An events team in Jaipur runs corporate offsites and dealer meets for companies from Delhi and Gurgaon, plus milestone birthdays and anniversaries for local families. Enquiries come mainly through Instagram and referrals, and corporate buyers keep asking for a capability deck by email.`,
         `The plan would open with two paths. The corporate path would hold pages for offsites, dealer meets and award nights, eight case pages with guest counts, venue types and highlight reels behind click-to-play previews, a GST and coverage block, and a capability PDF. The private path would hold birthday and anniversary pages with package structures in the team’s own figures and a gallery of décor setups. A vendor section would list décor, catering, sound and light and photography partners who agreed to be named.`,
-        `The form would ask event type, date, city, guests, venue status and budget band, and add company name and proposal deadline on the corporate path. The quote would start from the static plan at ${P.site}, with separate lines for media preparation across the case pages, the CMS and the CRM link. After launch, new events would be added from the team’s WhatsApp during the five free months.`,
+        `The form would ask event type, date, city, guests, venue status and budget band, and add company name and proposal deadline on the corporate path. The quote would start from the static plan at ${P.site}, with separate lines for media preparation across the case pages, the CMS and the CRM link. After launch, new events would be added from the team’s WhatsApp during the two free months.`,
       ],
     },
     {
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
         ["Planning and vendor software", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Run sheets, budgets, vendor schedules"],
         ["Lead scoring and WhatsApp follow-up", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High enquiry volumes"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Event-type and city pages, Search Console"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New case pages, updates, backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New case pages, updates, backups"],
       ],
       hideSm: [2],
     },
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Review one case page", "A real event goes onto a private staging link first, so you judge media quality and speed on your own phone over mobile data."],
       ["Build out the site", "Remaining event types, case pages, vendor section, corporate page and galleries are added, then every page is tested for load time."],
       ["Go live in your accounts", "Domain, hosting and code stay in your name. We test WhatsApp alerts and the sheet or CRM, connect Search Console and hand over logins."],
-      ["Post new events as they happen", "Case pages from recent events are added free for five months after launch; after that, maintenance is optional."],
+      ["Post new events as they happen", "Case pages from recent events are added free for two months after launch; after that, maintenance is optional."],
     ],
   },
   faqHeading: "Event management website design: questions event companies ask",
@@ -378,11 +378,11 @@ const content: FreelanceContent = {
     { question: "Will my event website appear in AI search answers?", answer: "There is no guarantee, but clear pages help. Open each event-type page with a factual sentence about what you deliver, for whom, at what scale and where. Use question-style headings, consistent business details and structured data. AI tools tend to quote plain, specific passages rather than slogans." },
     { question: "Can enquiries from my website go straight to WhatsApp?", answer: "Yes. Each submission arrives as one formatted WhatsApp message with event type, date, city, guests, budget band and contact, and the same data is saved in a Google Sheet or CRM. Corporate and private enquiries can alert different people, and Meta lead ads can feed the same list." },
     { question: "Is Instagram enough for an event management company?", answer: "Instagram is strong for discovery, especially for private celebrations, but it cannot hold case details, GST information or a capability deck, and it ranks poorly for service searches. A website converts the people Instagram brings in. Link your bio to a landing page with the enquiry form." },
-    { question: "Can my team add new events to the website themselves?", answer: "Yes, with a headless CMS. After each event, a team member fills in type, city, guest count and a few lines, uploads selected photographs and pastes the video link; the site resizes images and rebuilds automatically. With a static build, you send the material to us, which is free during the first five months." },
+    { question: "Can my team add new events to the website themselves?", answer: "Yes, with a headless CMS. After each event, a team member fills in type, city, guest count and a few lines, uploads selected photographs and pastes the video link; the site resizes images and rebuilds automatically. With a static build, you send the material to us, which is free during the first two months." },
     { question: "Who owns the event website and its content?", answer: "You own the domain, hosting and code; we set them up in your name and hand over every login at launch. Photograph and video rights depend on your agreements with photographers, so confirm web use is covered. Get client permission before naming companies or showing guests." },
     { question: "Freelancer or agency for event management website design?", answer: "A small freelance team suits most event companies, because the work is structure, media handling, forms and speed, and you deal directly with the builders. A larger agency makes sense if you want branding, video production and paid campaigns in one contract. Ask any candidate how they would present a hundred photographs from one event." },
     { question: "How do payments work for an event website project?", answer: "Payments are staged against work you can see, and nothing is billed before you approve the itemised quote in writing. In India we accept UPI or bank transfer with an invoice; clients abroad pay in USD by Wise, bank wire or PayPal. Domain and hosting are billed to you directly by the providers." },
-    { question: "What maintenance does an event management website need?", answer: `Mostly new case pages after events, updated packages, seasonal banners, security updates and backups. The first five months after launch are free. After that, maintenance is optional from ${P.care} a month, or your team can post events through a CMS.` },
+    { question: "What maintenance does an event management website need?", answer: `Mostly new case pages after events, updated packages, seasonal banners, security updates and backups. The first two months after launch are free. After that, maintenance is optional from ${P.care} a month, or your team can post events through a CMS.` },
     { question: "Can you build software to manage events, vendors and budgets?", answer: `Yes, as a custom web app from ${P.software}, usually six to twelve weeks. It can hold run sheets, vendor schedules, budgets, guest lists and client approvals. Most companies launch the marketing site first and build the planning tool once they know which spreadsheets cause the most trouble.` },
     { question: "Event management ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath event company ki website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Isme event-type pages, past events ki galleries aur videos, budget wala enquiry form aur WhatsApp alert shaamil hote hain. Zyada events ya CMS alag line mein quote hote hain. Domain aur hosting aapke naam par rehte hain.` },
   ],
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning event management website design? Send us your best events",
-    note: `Share the event types you want more of and a few past events on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with everything in your name and five months of free care after launch.`,
+    note: `Share the event types you want more of and a few past events on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with everything in your name and two months of free care after launch.`,
   },
 };
 

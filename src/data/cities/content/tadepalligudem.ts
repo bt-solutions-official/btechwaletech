@@ -35,7 +35,7 @@ const tadepalligudem: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English", "Rice mill catalogues", "Aqua dealer pages", "Replies 7 days a week"],
   },
   quickAnswer:
-    "A Tadepalligudem business website with us costs from ₹10,000 and is ready in roughly one to two weeks. Bigger builds scale up: 299+ page SEO sites from ₹20,000, WhatsApp or AI automation from ₹40,000, UPI stores from ₹50,000 and custom software from ₹60,000. Our team is remote, keeps no local office, and covers maintenance free for five months.",
+    "A Tadepalligudem business website with us costs from ₹10,000 and is ready in roughly one to two weeks. Bigger builds scale up: 299+ page SEO sites from ₹20,000, WhatsApp or AI automation from ₹40,000, UPI stores from ₹50,000 and custom software from ₹60,000. Our team is remote, keeps no local office, and covers maintenance free for two months.",
   snapshot: [
     { label: "District", value: "West Godavari district, Andhra Pradesh; a municipality since 1958 on the Godavari delta's upland edge" },
     { label: "Population", value: "232,346 in the 2011 census, with literacy above 83%" },
@@ -52,10 +52,10 @@ const tadepalligudem: CityContent = {
     ai: "WhatsApp assistants that answer stock, rate, room and fee questions in Telugu or English, then hand over to staff.",
     data: "Dashboards for paddy arrivals, feed sales by village, pond harvests or hostel occupancy, built from your sheets.",
     app: "Android and iOS apps for field staff visiting ponds and farms, lorry drivers and students, built for basic phones and published on both stores.",
-    maintenance: "No upkeep bill for the first five months; after that, care plans for your Tadepalligudem site begin at ₹8,000 monthly.",
+    maintenance: "No upkeep bill for the first two months; after that, care plans for your Tadepalligudem site begin at ₹8,000 monthly.",
   },
   whyUsIntro:
-    "Tadepalligudem owners often choose between a Vijayawada or Hyderabad agency with city rates and a local helper who stops responding after launch. We list starting prices, write natural Telugu, reply on WhatsApp every day and look after your site for five months after it goes live, free of charge.",
+    "Tadepalligudem owners often choose between a Vijayawada or Hyderabad agency with city rates and a local helper who stops responding after launch. We list starting prices, write natural Telugu, reply on WhatsApp every day and look after your site for two months after it goes live, free of charge.",
   pricingIntro:
     "Read the figures below as floors for Tadepalligudem work rather than bundles. Page count, Telugu and English versions, product lists and extra features move the number up. You see a line-by-line quote in writing before anything starts, and payment is only asked for once you have signed off on it.",
   sections: [
@@ -183,11 +183,11 @@ const tadepalligudem: CityContent = {
     },
     {
       id: "ownership-care-tadepalligudem",
-      heading: "Full ownership and five months of free care",
+      heading: "Full ownership and two months of free care",
       paragraphs: [
         "Plenty of Tadepalligudem businesses have had a website disappear because the person who built it registered the domain under their own name and then moved on. When the renewal lapsed, the site went offline and the business email printed on bills and lorry receipts stopped working.",
         "With us, the registrar and hosting accounts carry your business name from the first day. On launch day you get the passwords for all of them, and the code itself is handed to you as your own asset. If you later prefer a different developer, you take everything with you and pay no exit charge; a brief technical note travels with the files so the next person is not guessing.",
-        "The first five months after going live cost you nothing for upkeep: software updates, bug fixes, security patches, backups and uptime watching are all on us. From the sixth month you can choose a plan starting at ₹8,000 a month, or skip the plan and call us only when a change is needed. What each type of build contains is set out on our <a href=\"/services/web-development/\">web development page</a>.",
+        "The first two months after going live cost you nothing for upkeep: software updates, bug fixes, security patches, backups and uptime watching are all on us. From the third month you can choose a plan starting at ₹8,000 a month, or skip the plan and call us only when a change is needed. What each type of build contains is set out on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
   ],
@@ -267,9 +267,9 @@ const tadepalligudem: CityContent = {
         "You do, completely. The domain and hosting accounts are opened under your business, all passwords are handed over on launch day, and the code is yours to keep. Moving to another developer later costs nothing extra, and a short technical note goes with the files.",
     },
     {
-      question: "What happens during the five free months of maintenance?",
+      question: "What happens during the two free months of maintenance?",
       answer:
-        "We look after text and photo changes, fixes, security and software updates, backups and uptime monitoring without billing you. Once the five months end, you can pick a care plan from ₹8,000 a month or simply message us whenever something needs changing.",
+        "We look after text and photo changes, fixes, security and software updates, backups and uptime monitoring without billing you. Once the two months end, you can pick a care plan from ₹8,000 a month or simply message us whenever something needs changing.",
     },
     {
       question: "How soon will SEO show results?",

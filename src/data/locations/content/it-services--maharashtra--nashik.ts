@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders, draft quotes and answer routine WhatsApp questions for traders and service firms across the district.",
     data: "Dashboards that pull Tally, spreadsheets and machine logs into one screen for owners who want yesterday's output before the first shift.",
     app: "Android and iOS apps for Nashik dealers, field reps, farm supervisors and service engineers, built once in Flutter or React Native and published on both stores.",
-    maintenance: "Hosting, backups, bug fixes and user support, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Hosting, backups, bug fixes and user support, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Most Nashik software buyers choose between a big Pune vendor and a local freelancer. We sit in between: three engineers who scope carefully, write the code ourselves and reply on WhatsApp seven days a week.",
@@ -100,7 +100,7 @@ const content: CityContent = {
       paragraphs: [
         "Yes, software helps agri exporters in Nashik district mainly by tying farmer lots, packhouse records and shipment documents together so that nothing has to be retyped. Grape exports in particular depend on traceability from the farm plot onwards, and exporters juggle residue test reports, packing data, container details and buyer specifications across a short, intense season.",
         "For a packhouse or trading firm we build lot registers linked to grower details, intake weighment screens, grading and packing entries, and a shipment file that collects every document for one container. Onion and vegetable traders dealing through Lasalgaon, Pimpalgaon or Nashik APMC tend to need something simpler: a purchase ledger, a stock view across godowns, and a customer statement they can send on WhatsApp in one tap.",
-        "Seasonality matters for how we schedule these projects. It is far better to build and test between seasons, train staff before the first harvest, and keep changes small while fruit is moving. We plan timelines around your calendar rather than ours, and the five months of free maintenance after launch usually covers the first busy season.",
+        "Seasonality matters for how we schedule these projects. It is far better to build and test between seasons, train staff before the first harvest, and keep changes small while fruit is moving. We plan timelines around your calendar rather than ours, and the two months of free maintenance after launch usually covers the first busy season.",
       ],
     },
     {
@@ -227,7 +227,7 @@ const content: CityContent = {
         "2. Written scope and itemised quote in about two working days",
         "3. First working version, usually within two weeks of starting",
         "4. Feedback rounds on real screens",
-        "5. Launch, training, handover and five months of free maintenance",
+        "5. Launch, training, handover and two months of free maintenance",
       ],
     },
     {
@@ -236,7 +236,7 @@ const content: CityContent = {
       paragraphs: [
         "Most Nashik projects with us follow a predictable timeline: websites in one to two weeks, large SEO websites in three to five weeks, automation in two to four weeks, stores in four to eight weeks, and custom software in six to twelve weeks. The biggest variable is usually how quickly content, sample documents and feedback come back from your side.",
         "We share a working version early, often within the first two weeks of a software project, so your team can click through real screens rather than approve a static document. Feedback goes into a shared list, and each round of changes is tracked. At handover you receive the source code, admin credentials, a short user guide and, where useful, a recorded training session in Marathi, Hindi or English.",
-        "After launch, five months of maintenance are included free: bug fixes, small content changes, backups, security updates and uptime checks. After that you can continue from ₹8,000 a month or simply message us when something needs attention. You can see how the full service range fits together on our <a href='/services/'>services page</a>, or browse other cities on the <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a>.",
+        "After launch, two months of maintenance are included free: bug fixes, small content changes, backups, security updates and uptime checks. After that you can continue from ₹8,000 a month or simply message us when something needs attention. You can see how the full service range fits together on our <a href='/services/'>services page</a>, or browse other cities on the <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a>.",
       ],
     },
   ],
@@ -307,7 +307,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are included free once your system is live. That covers bug fixes, small content or text changes, backups, security and dependency updates, and uptime checks. After that you can continue on a monthly plan from ₹8,000 or contact us only when needed. Larger new features are quoted separately so you always know the cost first.",
+        "Two months of maintenance are included free once your system is live. That covers bug fixes, small content or text changes, backups, security and dependency updates, and uptime checks. After that you can continue on a monthly plan from ₹8,000 or contact us only when needed. Larger new features are quoted separately so you always know the cost first.",
     },
     {
       question: "Can you write pages and interfaces in Marathi?",

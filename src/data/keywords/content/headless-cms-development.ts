@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Android and iOS app on the same CMS", `From ${P.app}`],
     ["CMS options we build on", "Strapi, Sanity, Contentful, Payload"],
     ["Itemised quote", "About 2 working days"],
-    ["Free upkeep after launch", "5 months"],
+    ["Free upkeep after launch", "2 months"],
   ],
   stats: [
     { value: "4", label: "Headless CMS platforms compared on this page" },
     { value: "3", label: "Freelance developers: full-stack, cloud and SEO, project management" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance once you go live" },
+    { value: "2", label: "Months of free maintenance once you go live" },
   ],
   answer: {
     heading: "Which headless CMS should you choose, and what does headless CMS development cost?",
@@ -238,7 +238,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Headless CMS development with BtechWaleTech starts at ${P.site} for a marketing site, ${P.seoSite} for a 299+ page content site and ${P.software} for a portal or tool built around the CMS. The final quote depends on content types, front ends, migration volume and integrations.`,
         `Rates elsewhere vary widely. Some quotes include years of hosted CMS fees bundled in; others leave out preview, migration or training and add them later. When comparing, ask each developer to split the quote into content model, CMS setup, front end, migration, integrations and handover, so you compare like with like.`,
-        `Running costs matter as much as build cost. A self-hosted Strapi or Payload install costs whatever your cloud server costs. Hosted CMS vendors have free tiers for small teams and paid plans that scale with seats, locales and API usage; check their current pricing pages, because those change. The front end is often cheap to host on a static or edge platform. After launch you get five months of free maintenance, then care plans start at ${P.care} (${P.careUsd}) a month if you want us to keep things updated.`,
+        `Running costs matter as much as build cost. A self-hosted Strapi or Payload install costs whatever your cloud server costs. Hosted CMS vendors have free tiers for small teams and paid plans that scale with seats, locales and API usage; check their current pricing pages, because those change. The front end is often cheap to host on a static or edge platform. After launch you get two months of free maintenance, then care plans start at ${P.care} (${P.careUsd}) a month if you want us to keep things updated.`,
       ],
     },
     {
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
       ["Content model sign-off", "We draw every content type, field and reference in a shared document, and nothing is built until you approve it."],
       ["Build and preview", "CMS configuration and front-end templates are built in parallel on a staging link, with draft preview working from the first templates."],
       ["Content and migration", "Existing content is imported by script, cleaned, checked by your team and redirected, while new pages are filled in."],
-      ["Launch and training", "DNS, redirects, sitemaps and Search Console go live, editors get a recorded walkthrough, and five months of free maintenance begin."],
+      ["Launch and training", "DNS, redirects, sitemaps and Search Console go live, editors get a recorded walkthrough, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Headless CMS development: questions people ask",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Do I need to pay monthly for a headless CMS?", answer: "It depends on the CMS. Self-hosted Strapi or Payload costs only your server and database bill. Sanity and Contentful have free tiers for small teams and paid plans that grow with seats, locales and usage. We check the vendor’s current pricing with you before choosing, and you pay any subscription directly to the vendor, not through us." },
     { question: "Should I hire a freelancer or an agency for headless CMS development?", answer: "Hire whoever can explain the content model and show a working preview, whatever their size. A small freelance team like ours suits projects where you want to talk directly to the people building it. Very large programmes needing many parallel developers or on-site workshops may suit a bigger team, and we will say so honestly." },
     { question: "Can a headless CMS handle Hindi and regional languages?", answer: "Yes. Strapi, Sanity, Contentful and Payload all support localised content, so each field can hold English, Hindi or another language version. We set up locales, fallback rules and language-specific URLs with hreflang tags. You supply or approve the translated copy; we make sure the structure, fonts and layouts handle each script cleanly." },
-    { question: "What happens after launch?", answer: `You get five months of free maintenance covering fixes, small changes and CMS or framework updates. After that, care plans start at ${P.care} a month if you want us to continue, or you can take the handover document to any developer. Monthly SEO work, if you want it, starts at ${P.seo}.` },
+    { question: "What happens after launch?", answer: `You get two months of free maintenance covering fixes, small changes and CMS or framework updates. After that, care plans start at ${P.care} a month if you want us to continue, or you can take the handover document to any developer. Monthly SEO work, if you want it, starts at ${P.seo}.` },
     { question: "How do payments and contracts work?", answer: "You receive an itemised written quote with milestones, and nothing is billed before you approve it in writing. Indian clients pay by UPI or bank transfer with GST invoices where applicable; overseas clients pay in USD by Wise, bank wire or PayPal. Terms for confidentiality or specific clauses are agreed in your written quote; see our terms page for details." },
     { question: "Is headless CMS development worth it for a small business?", answer: "Often not. A small business with a ten-page site, rare updates and no app plans usually does better with a fast static site or a lean WordPress build. Headless CMS development starts making sense when content feeds several channels, runs to hundreds of pages, or needs custom layouts that a theme cannot produce without constant workarounds." },
     { question: "Can AI help manage content in a headless CMS?", answer: `Yes. Because content is structured, AI workflows can draft summaries, suggest tags, prepare translation drafts or flag missing SEO fields, with a person approving before anything publishes. Such automation built around your CMS starts at ${P.ai}. We keep humans in the loop because AI output still needs checking for accuracy.` },

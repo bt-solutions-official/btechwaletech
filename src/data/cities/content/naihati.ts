@@ -30,7 +30,7 @@ const naihati: CityContent = {
     eyebrow: "Naihati · West Bengal",
     h1: "Web, app, SEO and automation services for Naihati's shops, tutors, clinics and riverside trades",
     lede:
-      "We are three engineers working remotely for businesses in Naihati and the Barrackpore belt: sweet shops and grocers near the station, private tutors and coaching centres, nursing homes, workshops around the old jute mills, and traders who ship across the Hooghly to Chinsurah and Bandel. Clear starting prices, direct contact with developers, five months of free upkeep.",
+      "We are three engineers working remotely for businesses in Naihati and the Barrackpore belt: sweet shops and grocers near the station, private tutors and coaching centres, nursing homes, workshops around the old jute mills, and traders who ship across the Hooghly to Chinsurah and Bandel. Clear starting prices, direct contact with developers, two months of free upkeep.",
     pills: ["Websites from ₹10,000", "Bengali and English", "Tutor and coaching sites", "Clinic appointment pages", "WhatsApp auto-replies"],
   },
   quickAnswer:
@@ -51,7 +51,7 @@ const naihati: CityContent = {
     ai: "WhatsApp replies in Bengali or English that share fees, batch timings, menus or doctor schedules while you are busy with customers.",
     data: "Monthly sales, fees collected or patient visits turned into one simple chart you can check on your phone.",
     app: "Android and iOS apps for coaching attendance, clinic tokens or home delivery orders, one codebase released on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Naihati's businesses mostly live on word of mouth and a few Facebook posts. That works for regulars but misses the newcomers, commuters and families from nearby towns who search first. We publish starting prices, write in Bengali and English, reply on WhatsApp seven days a week, and give you full ownership of the domain and code at launch.",
@@ -178,7 +178,7 @@ const naihati: CityContent = {
       paragraphs: [
         "Small businesses in the Barrackpore belt often lose websites because the domain was registered by a relative's friend or a freelancer who later stopped answering. When the renewal lapses, the site vanishes along with any reviews and search history attached to it.",
         "We register the domain and hosting in your name from the beginning. At launch you receive every login, the complete source code and a short note explaining the setup. You can hand the site to another developer at any time without paying an exit fee.",
-        "Maintenance is free for five months after launch: text and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that it starts from ₹8,000 a month, or you can contact us only when something needs to change.",
+        "Maintenance is free for two months after launch: text and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that it starts from ₹8,000 a month, or you can contact us only when something needs to change.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const naihati: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For two months after launch we handle content changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need something changed.",
     },
     {
       question: "How soon will SEO show results in Naihati?",

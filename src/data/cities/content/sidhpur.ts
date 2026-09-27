@@ -56,7 +56,7 @@ const sidhpur: CityContent = {
     ai: "WhatsApp assistants that share price lists, product specifications and pilgrimage booking details in Gujarati, Hindi and English.",
     data: "Dashboards comparing purchase rates, yields per lot, export orders and outstanding payments across a season.",
     app: "Android and iOS apps from ₹40,000, listed on Google Play and the App Store, for trader order booking, school notices or clinic appointments.",
-    maintenance: "Five free months of upkeep after launch, then plans from ₹8,000 a month covering edits, backups, security updates and form tests.",
+    maintenance: "Two free months of upkeep after launch, then plans from ₹8,000 a month covering edits, backups, security updates and form tests.",
   },
   whyUsIntro:
     "Sidhpur is a trading town, and traders here read a quote line by line. We publish starting prices, send an itemised written quote, answer WhatsApp every day of the week, and put the domain, hosting, code and app store accounts in your own name. If a feature will not pay for itself, we say so before you spend on it.",
@@ -185,7 +185,7 @@ const sidhpur: CityContent = {
       heading: "Ownership and maintenance for Sidhpur websites and apps",
       paragraphs: [
         "A familiar small-town story is a website the owner cannot change, because the developer held the domain and then disappeared. We prevent this from the start. The domain, hosting, source code, Google Business Profile and any Play Store or App Store accounts are created in your name, and you keep the passwords.",
-        "Every project includes five months of free maintenance after launch: content edits, backups, security updates and checks on forms, UPI payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month and is optional. You can switch providers at any time and take the full code with you.",
+        "Every project includes two months of free maintenance after launch: content edits, backups, security updates and checks on forms, UPI payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month and is optional. You can switch providers at any time and take the full code with you.",
         "We time heavier updates around your calendar: a processor's catalogue before the new crop arrives, a guest house's pages before festival and holiday periods, a school's admission pages before the new session. Checks happen when you have time to review them, not in the middle of your busiest week.",
       ],
     },
@@ -268,7 +268,7 @@ const sidhpur: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months after launch are free: we handle content changes, backups, security updates and tests of forms, UPI payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month and is optional. You can move to another provider at any time and take the full code with you.",
+        "The first two months after launch are free: we handle content changes, backups, security updates and tests of forms, UPI payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month and is optional. You can move to another provider at any time and take the full code with you.",
     },
     {
       question: "Do you work with businesses in Unjha, Patan and Palanpur too?",

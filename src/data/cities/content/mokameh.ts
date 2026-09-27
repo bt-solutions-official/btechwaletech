@@ -55,7 +55,7 @@ const mokameh: CityContent = {
     ai: "WhatsApp bots in Hindi that reply on rates, stock, fees and doctor timings and send the tricky chats to you.",
     data: "Dashboards of lentil lots bought and sold, truck trips, freight due and admissions by class.",
     app: "Android and iOS apps for transporters tracking trips or schools sending circulars to parents, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "No upkeep bill for five months after launch; after that Mokama clients can continue from ₹8,000 a month.",
+    maintenance: "No upkeep bill for two months after launch; after that Mokama clients can continue from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mokama traders deal in large lots on thin margins and keep a close eye on every rupee. We match that: starting prices published openly, quotes split into lines you can cut, WhatsApp answered on all seven days, and the domain, hosting, source code and app store accounts registered to you. When something will not earn its keep, we say it.",
@@ -176,7 +176,7 @@ const mokameh: CityContent = {
       heading: "Ownership and maintenance for Mokama websites and apps",
       paragraphs: [
         "All that we build is registered to you. The domain sits on your email ID, the hosting bill is in your name, the source code is handed over in full, and your business is owner on the Google Business Profile, the Google Play console and the Apple developer account. You also receive a written list of logins at handover, so you are never dependent on any single developer, us included.",
-        "Maintenance is free for five months after launch: we change rates and photos, take backups, apply security updates and check forms, payments and WhatsApp buttons. After that you decide whether to stay with us from ₹8,000 a month, look after it yourself, or pass the code to another developer.",
+        "Maintenance is free for two months after launch: we change rates and photos, take backups, apply security updates and check forms, payments and WhatsApp buttons. After that you decide whether to stay with us from ₹8,000 a month, look after it yourself, or pass the code to another developer.",
         "Apps need a fresh build roughly every year because Google and Apple raise their minimum requirements. We keep track and update ahead of the deadline so your app stays listed. For websites, we remind you in good time before domain or hosting renewals.",
       ],
     },
@@ -273,7 +273,7 @@ const mokameh: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. Afterwards you can continue with us from ₹8,000 a month or move on. The code and accounts are already yours, so there is nothing to hand back.",
+        "The first two months after launch are free: rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. Afterwards you can continue with us from ₹8,000 a month or move on. The code and accounts are already yours, so there is nothing to hand back.",
     },
     {
       question: "Do you work in Barh, Lakhisarai and Begusarai too?",

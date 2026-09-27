@@ -55,7 +55,7 @@ const shujalpur: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and admission questions in Hindi and pass real decisions to you.",
     data: "Season dashboards of arrivals, lots sold, farmer payments due and dealer credit across Kharif and Rabi.",
     app: "Android and iOS apps from ₹40,000 for dealer networks to reorder or colleges to send notices, released on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Traders in Shujalpur judge people on whether their word holds when the season gets busy. So we keep ours in writing: published starting prices, an itemised quote before any work, replies on WhatsApp every day of the week, and your domain, hosting, code and app store accounts registered to you rather than to us.",
@@ -176,7 +176,7 @@ const shujalpur: CityContent = {
       heading: "Ownership and maintenance for Shujalpur websites and apps",
       paragraphs: [
         "Everything we build for a Shujalpur client is registered to that client. The domain sits under your email, the hosting is billed to you, the source code is handed over in full, and the Google Business Profile and any Google Play or Apple developer accounts name you as owner. You also get a written list of every login, so no one person, us included, can hold your business hostage.",
-        "Maintenance is free for the first five months after launch. We take backups, apply security and version updates, change rates and photos when you ask, and check that forms, UPI payments and WhatsApp links still work. After that period you can continue with us from ₹8,000 a month, or move to anyone else without needing our permission.",
+        "Maintenance is free for the first two months after launch. We take backups, apply security and version updates, change rates and photos when you ask, and check that forms, UPI payments and WhatsApp links still work. After that period you can continue with us from ₹8,000 a month, or move to anyone else without needing our permission.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const shujalpur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and includes backups, security and version updates, content changes and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month. As the code and all accounts are already yours, you can also move to another developer at any time.",
+        "Maintenance is free for two months after launch and includes backups, security and version updates, content changes and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month. As the code and all accounts are already yours, you can also move to another developer at any time.",
     },
     {
       question: "Do you work in Akodia, Kalapipal and Shajapur too?",

@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Pricing model", "Milestones priced in USD, each approved in writing"],
     ["Overlap with US Eastern", "Your mornings, our evenings (IST)"],
     ["Billing", "USD · wire, Wise, PayPal"],
-    ["After launch", `5 months free fixes, then from ${P.care}`],
+    ["After launch", `2 months free fixes, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Platform or marketplace fees on top of our quote" },
     { value: "2", label: "Working days to a milestone estimate" },
     { value: "3", label: "Developers you talk to directly, no account managers" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "How much does it cost to outsource app development?",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "What is outside it", value: "Store fees, hosting, third-party APIs, your own team's time" },
       { label: "Payments", value: "USD by wire, Wise or PayPal, after each milestone is accepted" },
       { label: "Changes", value: "Written change note with its own price before any extra work" },
-      { label: "Maintenance", value: `Free for 5 months, then from ${P.care}` },
+      { label: "Maintenance", value: `Free for 2 months, then from ${P.care}` },
     ],
   },
   services: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Rescue of an over-budget project", note: "A paid code and scope review of a stalled outsourced app, with a written finish-or-rebuild cost comparison.", size: "md" },
       { name: "Dedicated developer", note: "One developer working your backlog each month inside your process, when steady capacity suits you better than fixed milestones.", href: "/usa/dedicated-react-developer/", size: "sm" },
       { name: "AI features", note: `Assistants, document processing or smart search inside the app from ${P.ai}, with model usage billed to your account.`, href: "/usa/ai-agent-development/", size: "sm" },
-      { name: "Post-launch care", note: `OS updates, SDK upgrades and fixes once the free five months end, from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Post-launch care", note: `OS updates, SDK upgrades and fixes once the free two months end, from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -206,7 +206,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A complete budget for an outsourced app has seven lines: vendor build cost, your internal time, third-party setup fees, monthly running costs, a contingency reserve, post-launch maintenance and a line for version-two features. Fill in each one before you choose a vendor.`,
         `Start with the vendor build cost from the milestone estimate. Next, estimate your internal time: hours per week for your product owner and testers, multiplied by the weeks of the project and your internal cost per hour. Add third-party setup costs, which include Apple's Developer Program at US$99 per year and Google Play's one-time US$25 registration fee. Then list monthly running costs: hosting, database, maps, SMS, email and any AI APIs.`,
-        `The contingency reserve is the line people skip. Set aside a share of the build cost you are comfortable with for changes you discover once real users try the app; if you do not use it, it becomes the start of your version-two budget. Maintenance comes next, from ${P.care} a month with us after five free months. The template table below lays these out with a column for your own figures.`,
+        `The contingency reserve is the line people skip. Set aside a share of the build cost you are comfortable with for changes you discover once real users try the app; if you do not use it, it becomes the start of your version-two budget. Maintenance comes next, from ${P.care} a month with us after two free months. The template table below lays these out with a column for your own figures.`,
       ],
     },
     {
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       heading: "What it costs to outsource app development to our team specifically",
       paragraphs: [
         `With us, a cross-platform iOS and Android app starts at ${P.app} and takes 6–10 weeks. Apps with a substantial web back office, marketplace logic or internal integrations start at ${P.software} and take 6–12 weeks. AI features start at ${P.ai}.`,
-        `Those prices include design, development in Flutter or React Native, backend setup in your cloud account, testing on real devices, store listings and submission under your developer accounts, and five months of free fixes after launch. They do not include store fees, hosting, third-party API usage, copywriting for large content sections or legal documents such as your privacy policy wording.`,
+        `Those prices include design, development in Flutter or React Native, backend setup in your cloud account, testing on real devices, store listings and submission under your developer accounts, and two months of free fixes after launch. They do not include store fees, hosting, third-party API usage, copywriting for large content sections or legal documents such as your privacy policy wording.`,
         `The estimate moves above the starting price with the number of user types, real-time features such as chat or live maps, offline sync and integrations. Each of those appears as its own line, so you can move a feature to version two and see the saving. We are three developers, which means we do not suit projects that need many engineers in parallel, but it also means there is no layer of managers in the price.`,
       ],
     },
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
         ["Store accounts", "Apple US$99 per year; Google Play US$25 once", "Apple and Google", "Paid by you directly"],
         ["Running costs", "Hosting, database, maps, SMS, email, AI APIs per month", "Each provider", "Accounts opened in your name"],
         ["Contingency reserve", "A share of the build cost you choose", "Held by you", "Becomes version-two budget if unused"],
-        ["Maintenance", "Monthly plan or in-house developer time", "Vendor or staff", `Free 5 months, then from ${P.care}`],
+        ["Maintenance", "Monthly plan or in-house developer time", "Vendor or staff", `Free 2 months, then from ${P.care}`],
         ["Version two", "Features deferred from the first release", "Vendor", "Priced when real usage data exists"],
       ],
       hideSm: [2],
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       ["Adjust scope to budget", "Move features between version one and later releases and watch the total change. No billing happens until you approve the estimate in writing."],
       ["Set up ownership", "You create repository, store and cloud accounts in your company's name and invite us with limited access, so switching cost stays near zero."],
       ["Build and accept", "Weekly demos in your morning, test builds on your phone, then milestone acceptance against the agreed checks before each invoice."],
-      ["Launch and care", "Store release under your accounts, handover documentation, five months of free fixes, then an optional care plan at the listed monthly price."],
+      ["Launch and care", "Store release under your accounts, handover documentation, two months of free fixes, then an optional care plan at the listed monthly price."],
     ],
   },
   faqHeading: "Cost to outsource app development: questions US companies ask",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Does outsourcing to India mean lower quality?", answer: "No. Quality depends on the team's process and seniority, not the country. Protect yourself the same way in any region: written acceptance checks, weekly working builds on your phone, code in your repository and documentation throughout. With us you speak directly to the three developers writing your code." },
     { question: "How long does an outsourced app take to build?", answer: "With us, a focused iOS and Android app takes six to ten weeks and apps with larger back offices take six to twelve weeks or more. The estimate arrives in about two working days, and work begins shortly after you approve it and set up your accounts." },
     { question: "Who owns the code when I outsource app development?", answer: "You should, through a written assignment in the contract, with the code in your own repository from the first commit. With us, the app is published under your developer accounts and the backend runs in your cloud account. Your attorney should confirm the contract wording." },
-    { question: "What does app maintenance cost after outsourcing?", answer: `With us, fixes are free for five months after launch, then care plans start at ${P.care}. They cover OS and SDK updates, store policy changes, crash fixes and small improvements. If you have an in-house developer, they can take over with our handover documentation instead.` },
+    { question: "What does app maintenance cost after outsourcing?", answer: `With us, fixes are free for two months after launch, then care plans start at ${P.care}. They cover OS and SDK updates, store policy changes, crash fixes and small improvements. If you have an in-house developer, they can take over with our handover documentation instead.` },
     { question: "Can you price against my own budget template?", answer: "Yes. Send your template or spec and we will fill in our milestones, prices and the lines outside our quote, such as store fees and hosting. If you have another vendor's proposal, we can also point out lines it leaves out, so your comparison is fair." },
   ],
   related: {

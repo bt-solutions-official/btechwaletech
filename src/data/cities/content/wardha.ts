@@ -32,10 +32,10 @@ const wardha: CityContent = {
     h1: "Websites, software, SEO and AI tools for Wardha's cotton trade, hospitals and Gandhian institutions",
     lede:
       "Three remote engineers building Marathi, Hindi and English websites, Google listings, stores and WhatsApp tools for Wardha district. We work with ginning and pressing units, MIDC suppliers, hospitals and medical colleges at Sawangi and Sevagram, schools and coaching classes, khadi and village-industry sellers, and shops around Bajaj Chowk and Arvi Naka.",
-    pills: ["Websites from ₹10,000", "Marathi and Hindi pages", "Cotton and MIDC business sites", "Hospital and college sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Marathi and Hindi pages", "Cotton and MIDC business sites", "Hospital and college sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "In Wardha, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store with UPI at ₹50,000. We are a remote team with no Wardha office, and every site gets five months of free maintenance.",
+    "In Wardha, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store with UPI at ₹50,000. We are a remote team with no Wardha office, and every site gets two months of free maintenance.",
   snapshot: [
     { label: "Position", value: "District headquarters in Vidarbha, on the Mumbai–Nagpur–Howrah rail route, with Wardha and Sevagram stations" },
     { label: "History", value: "Founded in 1866 on the site of Palakwadi village and planned as a cotton-trade town" },
@@ -52,7 +52,7 @@ const wardha: CityContent = {
     ai: "WhatsApp replies in Marathi, Hindi or English for rates, OPD timings, admissions and orders, with complex cases sent to a person.",
     data: "Dashboards for daily arrivals, bale output, sales or patient numbers, built from the spreadsheets and books you already keep.",
     app: "Android and iOS apps for field buyers, service engineers and hostel staff on ordinary phones, released on both app stores from ₹40,000.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:
     "Wardha is a town people know by name across India because of Sevagram, yet most of its businesses are hard to find online. Cotton traders, MIDC suppliers, hospitals and coaching classes mostly rely on reputation. We help them add a clear website and an accurate Google listing, publish starting prices, reply on WhatsApp daily and keep everything in the client's name.",
@@ -151,7 +151,7 @@ const wardha: CityContent = {
       paragraphs: [
         "All our prices are starting prices. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. That suits most shops, clinics, coaching classes, hostels and small traders who need a clear, trustworthy site with a map, contact form and WhatsApp button.",
         "An SEO website of 700 or more pages starts at ₹20,000 and takes three to five weeks. It suits businesses with many products, services or locations, such as a distributor with a large catalogue or a hospital with many departments. Online stores with UPI and Razorpay start at ₹50,000, and custom web applications, such as a ginning register or a workshop job tracker, start at ₹60,000.",
-        "WhatsApp and AI automation starts at ₹40,000, and monthly SEO work starts at ₹10,000 a month. After five months of free maintenance, you can continue from ₹8,000 a month or pay per change. Our <a href=\"/pricing/\">pricing page</a> sets out each plan.",
+        "WhatsApp and AI automation starts at ₹40,000, and monthly SEO work starts at ₹10,000 a month. After two months of free maintenance, you can continue from ₹8,000 a month or pay per change. Our <a href=\"/pricing/\">pricing page</a> sets out each plan.",
         "The final amount depends on scope: pages, languages, catalogue size, integrations with billing or accounting software, and custom features. You get an itemised quote in writing within about two working days, and you pay nothing until you approve it. If a smaller project would do the job, we will say so.",
       ],
     },
@@ -171,8 +171,8 @@ const wardha: CityContent = {
       paragraphs: [
         "A familiar problem in smaller towns is the website that disappears because the developer registered the domain in his own name and then stopped answering calls. We avoid it by registering the domain and hosting in your name from the start and handing over every login and the full source code at launch.",
         "You can move to another developer at any time, without paying an exit fee or asking our permission. We want clients to stay because the work is good, not because they cannot leave.",
-        "For five months after launch, maintenance is free. That covers text and price updates, small design fixes, security updates, backups and uptime monitoring. The first months are when most businesses find things to change, such as a new batch timing, a revised fee, a new doctor or a product added to the catalogue.",
-        "After five months, maintenance continues from ₹8,000 a month if you want regular care, or you can contact us only when you need a change and pay for that job. Every update comes with a short written note. More about our approach is on the <a href=\"/services/web-development/\">web development page</a>, and you can <a href=\"/contact/\">message us</a> when you are ready.",
+        "For two months after launch, maintenance is free. That covers text and price updates, small design fixes, security updates, backups and uptime monitoring. The first months are when most businesses find things to change, such as a new batch timing, a revised fee, a new doctor or a product added to the catalogue.",
+        "After two months, maintenance continues from ₹8,000 a month if you want regular care, or you can contact us only when you need a change and pay for that job. Every update comes with a short written note. More about our approach is on the <a href=\"/services/web-development/\">web development page</a>, and you can <a href=\"/contact/\">message us</a> when you are ready.",
       ],
     },
     {
@@ -267,9 +267,9 @@ const wardha: CityContent = {
         "You do. The domain and hosting are registered in your name, and you receive all logins and the full code at launch. You can change developers whenever you want without an exit fee, because a website should never be held hostage by whoever built it.",
     },
     {
-      question: "What is covered by the five months of free maintenance?",
+      question: "What is covered by the two months of free maintenance?",
       answer:
-        "Text and price changes, bug fixes, security updates, backups and uptime checks, all at no charge for five months after launch. After that, maintenance starts at ₹8,000 a month, or you can contact us only when something needs changing and pay for that job alone.",
+        "Text and price changes, bug fixes, security updates, backups and uptime checks, all at no charge for two months after launch. After that, maintenance starts at ₹8,000 a month, or you can contact us only when something needs changing and pay for that job alone.",
     },
     {
       question: "Do you work in Hinganghat, Arvi, Pulgaon and Nagpur too?",

@@ -34,14 +34,14 @@ const content: FreelanceContent = {
     ["Custom Xero sync", `From ${P.ai}, 2–4 weeks`],
     ["Integration inside a portal or app", `From ${P.software}, 6–12 weeks`],
     ["Store plus Xero link", `From ${P.shop}, 4–8 weeks`],
-    ["Support after launch", `From ${P.care} after 5 free months`],
+    ["Support after launch", `From ${P.care} after 2 free months`],
     ["Auth method in Singapore", "OAuth 2.0 code flow or PKCE"],
     ["Who owns the Xero app", "You: client ID, secret and code"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support your sync" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Invoices our code posts before you approve the test run" },
   ],
   answer: {
@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     rows: [
       ["Best for", "Standard store or CRM flows", "Large, multi-system projects", "Custom rules on top of a standard stack"],
       ["Setup effort", "Hours, done by you or your bookkeeper", "Weeks, with workshops", "2–4 weeks for a standalone sync"],
-      ["Cost pattern", "Monthly subscription per connector", "Project fee plus retainer, quotes vary widely", `From ${P.ai}, then from ${P.care} after 5 free months`],
+      ["Cost pattern", "Monthly subscription per connector", "Project fee plus retainer, quotes vary widely", `From ${P.ai}, then from ${P.care} after 2 free months`],
       ["GST tax type control", "Whatever the connector's settings allow", "Configured to spec", "Mapped per product, customer and country"],
       ["Handles odd edge cases", "Rarely; you adapt to the app", "Yes", "Yes, written for your data"],
       ["Who owns the code", "Vendor", "Varies by contract", "You own the code and the Xero app"],
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Xero API integration costs from us",
-    note: `A standalone sync between one system and Xero, such as a store, a CRM or a booking tool, starts from ${P.ai} and usually takes two to four weeks, including testing on the Xero Demo Company. If the Xero link sits inside a larger portal or internal app we build, it is quoted as part of that custom software, from ${P.software}. A new online store with the Xero link included starts from ${P.shop}. After five months of free maintenance, keeping tokens, mappings and monitoring healthy is available from ${P.care}. Your quote lists each synced object and direction separately, so you can drop anything before approving.`,
+    note: `A standalone sync between one system and Xero, such as a store, a CRM or a booking tool, starts from ${P.ai} and usually takes two to four weeks, including testing on the Xero Demo Company. If the Xero link sits inside a larger portal or internal app we build, it is quoted as part of that custom software, from ${P.software}. A new online store with the Xero link included starts from ${P.shop}. After two months of free maintenance, keeping tokens, mappings and monitoring healthy is available from ${P.care}. Your quote lists each synced object and direction separately, so you can drop anything before approving.`,
   },
   guideLabel: "Xero API integration Singapore guide",
   guide: [
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `From us, a standalone Xero sync starts from ${P.ai} and a Xero link inside a larger custom portal or app is quoted within that project, from ${P.software}. The final figure depends on how many objects sync, in which directions, and how unusual your rules are.`,
         `Quotes from other suppliers vary widely, and it helps to understand why. A one-way push of paid orders as invoices is a small job. A two-way sync with contacts, credit notes, multi-currency payments, tracking categories and a reconciliation report is several times larger. Integrations that must work with an older on-premise system, or with a system whose own API is poorly documented, carry more uncertainty, and honest suppliers price that risk openly.`,
-        `The recurring side counts as much as the build. Ask every supplier who monitors the sync, who renews tokens when someone disconnects the app, and who updates the code when Xero changes scopes or retires an endpoint, as it is doing with broad scopes until September 2027. Our five free months of maintenance cover that period after go-live; ongoing care starts from ${P.care}.`,
+        `The recurring side counts as much as the build. Ask every supplier who monitors the sync, who renews tokens when someone disconnects the app, and who updates the code when Xero changes scopes or retires an endpoint, as it is doing with broad scopes until September 2027. Our two free months of maintenance cover that period after go-live; ongoing care starts from ${P.care}.`,
       ],
       list: [
         "Number of source systems and Xero objects involved",
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
         ["Payout reconciliation layer", "Clearing account, fees and payout matching", `From ${P.ai}`, "2–4 weeks"],
         ["Xero inside a custom portal", "B2B ordering or member billing with invoices", `From ${P.software}`, "6–12 weeks"],
         ["New store with Xero link", "Shopify or WooCommerce build plus sync", `From ${P.shop}`, "4–8 weeks"],
-        ["Ongoing care", "Token checks, mapping updates, monitoring", `From ${P.care}`, "After 5 free months"],
+        ["Ongoing care", "Token checks, mapping updates, monitoring", `From ${P.care}`, "After 2 free months"],
       ],
       hideSm: [3],
     },
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
       ["Sign-off on the mapping table", "You and your bookkeeper approve the tax types, accounts, contact matching rule and duplicate rule in writing. Nothing is built on guesses."],
       ["Build on the Xero Demo Company", "We code the sync, queue, retries and reconciliation job against Xero's free sample organisation and share a dashboard where you can watch test invoices appear."],
       ["Supervised live batch", "We connect your organisation read-only first, then write a small batch that your bookkeeper checks line by line before the sync opens fully."],
-      ["Handover and five free months", "You receive the code, documentation and a reconnect guide. We watch alerts and fix issues free for five months, then ongoing care is optional."],
+      ["Handover and two free months", "You receive the code, documentation and a reconnect guide. We watch alerts and fix issues free for two months, then ongoing care is optional."],
     ],
   },
   faqHeading: "Xero API integration in Singapore: frequently asked questions",
@@ -455,7 +455,7 @@ const content: FreelanceContent = {
     { question: "Can you import past orders into Xero as well?", answer: "Yes, but think carefully first. Historical orders often carry old GST rates, deleted products or inconsistent customer records, and importing them into closed periods can upset past returns. We usually recommend starting the sync from the next GST quarter and importing history only if your accountant specifically wants it, as a separately quoted task." },
     { question: "What do you need from me to start?", answer: "Admin access to the source system, your Xero plan details, your accountant's GST rules, a list of accounts and tracking categories, sample orders or deals, and the name of the person who will approve the Xero connection. If some of that is missing, send what you have and we will work through the gaps on the first call." },
     { question: "How do payments and contracts work from Singapore?", answer: "You receive an itemised quote in USD and pay by Wise or bank wire, with invoices issued from India. Nothing is billed before you approve the quote in writing, and payments follow the milestones listed in it. Any additional contract terms, such as confidentiality, are agreed in writing with your quote." },
-    { question: "Do you maintain the integration after launch?", answer: `Yes. Every integration includes five months of free maintenance after go-live, covering bug fixes, token issues and small mapping changes. After that, ongoing care starts from ${P.care}, or you can take the documented code to any developer you prefer, since you own it outright.` },
+    { question: "Do you maintain the integration after launch?", answer: `Yes. Every integration includes two months of free maintenance after go-live, covering bug fixes, token issues and small mapping changes. After that, ongoing care starts from ${P.care}, or you can take the documented code to any developer you prefer, since you own it outright.` },
     { question: "Can you also build the store or CRM that feeds Xero?", answer: `Yes. We build online stores from ${P.shop}, custom portals and CRMs from ${P.software}, and mobile apps from ${P.app}. Building the source system and the Xero link together usually produces cleaner data, because customer records, products and tax categories are designed with Xero's structure in mind from day one.` },
   ],
   related: {

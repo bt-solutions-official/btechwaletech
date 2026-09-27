@@ -56,7 +56,7 @@ const modasa: CityContent = {
     ai: "WhatsApp assistants in Gujarati that answer rates, stock, fees and timings, and pass real negotiations to you.",
     data: "Dashboards of daily arrivals and sales, dues by customer, admissions by course and orders by taluka.",
     app: "Android and iOS apps for coaching students, repeat retail buyers or village dealers ordering from Modasa, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Modasa's traders are practical buyers who compare several quotes before spending. We make that comparison easy: starting prices are public, every quote is itemised, WhatsApp is answered seven days a week, and your domain, hosting, code and app store accounts are registered in your own name. If something is not worth building yet, we say so.",
@@ -174,7 +174,7 @@ const modasa: CityContent = {
       heading: "Ownership and maintenance for Modasa websites and apps",
       paragraphs: [
         "You own what we build. The domain is registered with your email, hosting is billed in your name, the full source code is handed to you, and your Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you get a written list of every login, so no one, including us, can hold your site back from you.",
-        "Maintenance is free for the first five months after launch. We update prices and photos, take backups, apply security updates and test forms, payments and WhatsApp links. After that, you can continue with us from ₹8,000 a month, handle it yourself, or give the code to another developer.",
+        "Maintenance is free for the first two months after launch. We update prices and photos, take backups, apply security updates and test forms, payments and WhatsApp links. After that, you can continue with us from ₹8,000 a month, handle it yourself, or give the code to another developer.",
         "Apps need a yearly update because Google and Apple keep raising their minimum requirements. We watch those deadlines and rebuild early, so your app is never removed from the store in the middle of admission season.",
       ],
     },
@@ -266,7 +266,7 @@ const modasa: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance costs nothing: we update prices and photos, take backups, apply security patches and test forms, payments and WhatsApp links. After that, you can continue from ₹8,000 a month or manage it yourself. The code and accounts are already yours, so switching needs no permission.",
+        "For two months after launch, maintenance costs nothing: we update prices and photos, take backups, apply security patches and test forms, payments and WhatsApp links. After that, you can continue from ₹8,000 a month or manage it yourself. The code and accounts are already yours, so switching needs no permission.",
     },
     {
       question: "Do you work in Dhansura, Bhiloda and other Aravalli towns?",

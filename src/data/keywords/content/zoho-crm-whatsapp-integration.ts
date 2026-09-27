@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Freelance developers: CRM, automation and backend" },
     { value: "3", label: "Integration routes compared before you commit" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "How do you connect WhatsApp to Zoho CRM?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Triggers", value: "Workflow rules, Blueprint transitions, scheduled functions" },
       { label: "Incoming chats", value: "Matched by phone number, logged on lead, contact or deal" },
       { label: "Running costs", value: "Zoho licences, Meta per-message charges, any extension fee" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Expect three costs: Zoho CRM licences you probably already pay, Meta’s per-message charges for templates, and either an extension subscription or a one-time custom build. For custom work, BtechWaleTech starts at ${P.ai}.`,
         `Meta charges for delivered marketing, utility and authentication templates at rates set per country, with volume tiers for utility and authentication. Service replies inside the 24-hour window are free, as are utility templates delivered in an open window. That is why a good Zoho CRM WhatsApp integration nudges salespeople to reply quickly: a conversation kept alive costs less than one restarted with templates.`,
-        `Extension pricing varies widely by vendor, usually per user or per message volume, and it recurs. A custom build costs more in month one but has no per-user subscription; afterwards you pay Meta and, optionally, maintenance from ${P.care} once the five free months end. Over a year, teams with many users often find custom cheaper; teams with two users often find an extension or the built-in channel cheaper. See the cost table below and our <a href='/whatsapp-business-api-cost-in-india/'>Meta pricing explainer</a>.`,
+        `Extension pricing varies widely by vendor, usually per user or per message volume, and it recurs. A custom build costs more in month one but has no per-user subscription; afterwards you pay Meta and, optionally, maintenance from ${P.care} once the two free months end. Over a year, teams with many users often find custom cheaper; teams with two users often find an extension or the built-in channel cheaper. See the cost table below and our <a href='/whatsapp-business-api-cost-in-india/'>Meta pricing explainer</a>.`,
       ],
     },
     {
@@ -327,7 +327,7 @@ const content: FreelanceContent = {
         ["Integration fee", "None from Zoho", "Monthly subscription", `One-time, from ${P.ai} (${P.aiUsd})`],
         ["Setup help", `Optional, within ${P.ai} scope`, "Vendor onboarding", "Included in the build"],
         ["Changes later", "Admin settings only", "Vendor roadmap", "Edit Deluge or ask us"],
-        ["Support after launch", "Zoho support", "Vendor support", `5 months free, then from ${P.care}`],
+        ["Support after launch", "Zoho support", "Vendor support", `2 months free, then from ${P.care}`],
       ],
       hideSm: [1],
     },
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Prepare data and templates", "Normalised phone and consent fields go into Zoho, template wording is agreed and submitted to Meta, and duplicate leads are cleaned if needed."],
       ["Build triggers and logging", "Deluge functions for outbound templates, a webhook receiver for inbound chats and delivery statuses, and owner rules with a fallback."],
       ["Pilot with real salespeople", "Two or three users run it on live leads for a week. We fix edge cases such as shared numbers, empty fields and after-hours chats."],
-      ["Roll out and hand over", "Everyone gets access, you receive documentation for every function, and the first five months of maintenance are free."],
+      ["Roll out and hand over", "Everyone gets access, you receive documentation for every function, and the first two months of maintenance are free."],
     ],
   },
   faqHeading: "Zoho CRM WhatsApp integration: questions people ask",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Can WhatsApp leads from ads and IndiaMART go straight into Zoho CRM?", answer: "Yes. Click-to-WhatsApp ad chats can create leads with the ad as source, website forms can post to Zoho through its API or web forms, and portal enquiries from IndiaMART and similar sites can be pulled into Zoho by a scheduled sync. Each new lead can then receive a first WhatsApp template within minutes, assigned to the right owner." },
     { question: "What happens to chat history if a salesperson leaves?", answer: "With a proper Zoho CRM WhatsApp integration, nothing is lost. Conversations belong to the company number and are stored in Zoho against the customer record, not on the salesperson’s phone. You reassign their records to someone else and the new owner sees the full history before replying. That is one of the strongest reasons teams move off personal WhatsApp." },
     { question: "Who owns the WhatsApp number and data after the project?", answer: "You do. The WhatsApp Business Account and number sit in your own Meta business portfolio, Zoho data stays in your Zoho organisation, and any receiver code runs in your cloud account or Zoho Catalyst project. We work with access you grant and can remove. Documentation for each function is handed over so any Zoho developer can maintain it." },
-    { question: "Do you support the integration after it goes live?", answer: `Yes. Five months of maintenance after go-live are free with every project, covering fixes and small adjustments. After that, maintenance starts at ${P.care} if you want us to stay involved. New stages, extra numbers or reporting are quoted separately, itemised in writing, and nothing is billed before you approve it.` },
+    { question: "Do you support the integration after it goes live?", answer: `Yes. Two months of maintenance after go-live are free with every project, covering fixes and small adjustments. After that, maintenance starts at ${P.care} if you want us to stay involved. New stages, extra numbers or reporting are quoted separately, itemised in writing, and nothing is billed before you approve it.` },
     { question: "How do payments work for a Zoho CRM WhatsApp integration project?", answer: "In India you pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Payment stages are written into your quote before work begins, and nothing is charged before your written approval. Zoho licences and Meta message charges are separate and paid directly to Zoho and Meta from your own accounts." },
     { question: "Zoho CRM mein WhatsApp kaise jode?", answer: "Pehle aapko WhatsApp Business Platform ka number chahiye, normal WhatsApp app nahi. Phir Zoho CRM mein Setup, Channels, Business Messaging se admin WhatsApp connect kar sakta hai, ya marketplace extension lagaya ja sakta hai. Deal stage ke hisaab se messages ya custom chat logging chahiye to Deluge se custom integration banti hai, jo BtechWaleTech 2–4 hafte mein karta hai." },
   ],

@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Product options per item on Shopify" },
     { value: "6", label: "Product options per item on Wix Stores" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform or middleman fees added by us" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Ecommerce SEO", note: `Collection and product page structure, product schema and Search Console setup, then monthly SEO from ${P.seo}.`, href: "/ecommerce-seo-freelancer/", size: "md" },
       { name: "WhatsApp order alerts", note: "Order confirmations, COD verification and shipping updates on WhatsApp, connected to your store.", href: "/shopify-whatsapp-integration/", size: "sm" },
       { name: "Brand website without a store", note: `If you only sell a few items, a fast site with WhatsApp ordering may be enough, from ${P.site}.`, href: "/whatsapp-catalogue-vs-website/", size: "sm" },
-      { name: "Store maintenance", note: `App updates, theme fixes and catalogue help after five free months, from ${P.care}.`, href: "/pricing/", size: "sm" },
+      { name: "Store maintenance", note: `App updates, theme fixes and catalogue help after two free months, from ${P.care}.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Design control", "Themes plus code-level customisation", "Drag-and-drop editor", "Brand-matched layout, fast on mobile"],
       ["Scaling with orders", "Stronger: built for high volume", "Fine for modest volume", "Plan for the next two years, not just launch"],
       ["Build starting price", "Setup by us from " + P.shop, "Setup by us from " + P.shop, "Itemised quote in about 2 working days"],
-      ["After launch", "Your plan and app bills", "Your plan and app bills", "5 months free care, then from " + P.care],
+      ["After launch", "Your plan and app bills", "Your plan and app bills", "2 months free care, then from " + P.care],
     ],
     fine: "Both are subscription platforms; you never fully own the store software on either, and moving later means migrating data rather than copying files.",
   },
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
         "Product upload, collections, filters and size guides.",
         "Checkout: UPI and cards, COD rules, shipping zones, GST invoice app.",
         "Policy pages, SEO basics, Search Console and analytics.",
-        "Test orders with real payments, then launch and five months of free care.",
+        "Test orders with real payments, then launch and two months of free care.",
       ],
       after: [
         `For what a done-for-you Shopify setup includes in detail, see <a href='/shopify-store-setup/'>Shopify store setup service</a>.`,
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Custom store or B2B ordering portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Shopping app on the same catalogue", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Monthly ecommerce SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the platform account, domain and payment provider account with your KYC; we join as collaborators with the access we need."],
       ["Build and upload", "Theme or layout, collections, products, size guides, checkout, COD rules, shipping and invoicing are set up and reviewed on your phone."],
       ["Test real orders", "We place small paid test orders, COD orders and returns end to end, then fix anything that feels slow or confusing on mobile."],
-      ["Launch and look after it", "The domain goes live, Search Console and analytics are set up, and we handle fixes and app updates free for five months."],
+      ["Launch and look after it", "The domain goes live, Search Console and analytics are set up, and we handle fixes and app updates free for two months."],
     ],
   },
   faqHeading: "Shopify vs Wix: questions sellers ask",

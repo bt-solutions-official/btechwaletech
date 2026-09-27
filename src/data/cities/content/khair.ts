@@ -35,7 +35,7 @@ const khair: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Braj-friendly copy", "Google Maps pin fixes", "WhatsApp enquiry bots", "You own the domain"],
   },
   quickAnswer:
-    "A business website in Khair starts from ₹10,000 with us and usually goes live in one to two weeks. Larger SEO sites of 299+ pages start at ₹20,000, WhatsApp or AI automation from ₹40,000 and online stores from ₹50,000. We are three remote engineers with no office in Khair, and upkeep is free for five months after launch.",
+    "A business website in Khair starts from ₹10,000 with us and usually goes live in one to two weeks. Larger SEO sites of 299+ pages start at ₹20,000, WhatsApp or AI automation from ₹40,000 and online stores from ₹50,000. We are three remote engineers with no office in Khair, and upkeep is free for two months after launch.",
   snapshot: [
     { label: "Where it is", value: "Tehsil headquarters in Aligarh district, about 27 km from Aligarh, 60 km from Mathura and 114 km from Delhi" },
     { label: "Civic body", value: "Nagar Palika Parishad; PIN code 202138 and vehicle series UP-81" },
@@ -52,7 +52,7 @@ const khair: CityContent = {
     ai: "WhatsApp replies in Hindi for fee enquiries, stock questions and storage rent, so the phone stops ringing for the same answer.",
     data: "Season-wise dashboards of potato lots, rent collected and dealer dues that an owner can check from home in the evening.",
     app: "Android and iOS apps for school parents or field staff, available on Google Play and the App Store with builds starting at ₹40,000.",
-    maintenance: "Five free months of fixes, backups and small edits after launch, then maintenance from ₹8,000 a month only if you want it.",
+    maintenance: "Two free months of fixes, backups and small edits after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:
     "In Khair, most business owners get a website through somebody's cousin in Aligarh or a salesman who shows up once and never again. The usual result is a site nobody can edit and a domain registered to a stranger. We do the opposite: our rates are on the website, each quote is broken down item by item, the domain is in your name, and the three engineers who build your project read your WhatsApp messages every day of the week.",
@@ -176,7 +176,7 @@ const khair: CityContent = {
       heading: "Your domain, your code, and who keeps the site running",
       paragraphs: [
         "In small towns, the most common website problem is not design. It is ownership. A developer books the domain under his own email, disappears after a year, and the business loses its site along with every review link and visiting card that pointed to it. We register the domain and hosting in your name from the first day, and at launch hand over every login, the full source code and a short note on how things are set up.",
-        "Maintenance is free for five months after launch. That covers text and price edits, security and software updates, backups, bug fixes and speed checks. Admission months, sowing season and cold-store withdrawal time all bring bursts of changes, and during those five months we handle them without a bill.",
+        "Maintenance is free for two months after launch. That covers text and price edits, security and software updates, backups, bug fixes and speed checks. Admission months, sowing season and cold-store withdrawal time all bring bursts of changes, and during those two months we handle them without a bill.",
         "After that, you decide. Maintenance continues from ₹8,000 a month, or you can message us when something needs doing and pay only for that job. You can also move the site to another developer at any time without an exit fee, because everything already belongs to you.",
       ],
     },
@@ -259,7 +259,7 @@ const khair: CityContent = {
     {
       question: "What happens when the free maintenance period ends?",
       answer:
-        "After five free months you can take monthly maintenance from ₹8,000, which covers updates, backups, security fixes and edits. Or you can skip a plan and message us when you need a change, paying only for that job. Seasonal businesses in Khair often prefer the second route.",
+        "After two free months you can take monthly maintenance from ₹8,000, which covers updates, backups, security fixes and edits. Or you can skip a plan and message us when you need a change, paying only for that job. Seasonal businesses in Khair often prefer the second route.",
     },
     {
       question: "Can you guarantee that my business will rank first on Google?",

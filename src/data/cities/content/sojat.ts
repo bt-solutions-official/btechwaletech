@@ -56,7 +56,7 @@ const sojat: CityContent = {
     ai: "WhatsApp assistants that answer rate, sample and minimum-order questions in Hindi or English and pass serious buyers to the owner.",
     data: "Dashboards of monthly dispatch by grade, pending payments by party and which products or states bring repeat orders.",
     app: "Android and iOS apps for salesmen booking orders from parlours and wholesalers, or for regular buyers re-ordering, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months after launch, then upkeep from ₹8,000 a month covering edits, backups, security updates and store renewals.",
+    maintenance: "Two free months after launch, then upkeep from ₹8,000 a month covering edits, backups, security updates and store renewals.",
   },
   whyUsIntro:
     "A henna processor in Sojat already knows that a buyer judges a sample by colour, smell and the lab report, not by the packet design. We try to be judged the same way: a written scope with a line for every cost, a working preview before you pay the next instalment, and domains, code and store accounts registered to you. WhatsApp replies come every day of the week.",
@@ -159,7 +159,7 @@ const sojat: CityContent = {
         "Online henna or retail store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom web app, such as a lot and batch register: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance after five free months: from ₹8,000 a month",
+        "Maintenance after two free months: from ₹8,000 a month",
       ],
     },
     {
@@ -185,7 +185,7 @@ const sojat: CityContent = {
       heading: "Who owns your Sojat website and app, and what happens after launch",
       paragraphs: [
         "You do, completely, from the first day. The domain is registered with your email address, the hosting account is in your name, the full source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written list of every login. A henna brand name is a real asset, and no developer, including us, should be able to hold it hostage.",
-        "The first five months after launch carry free maintenance: changes to rates and products, festival offers, backups, security updates and checks that forms, checkout and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without asking our permission.",
+        "The first two months after launch carry free maintenance: changes to rates and products, festival offers, backups, security updates and checks that forms, checkout and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without asking our permission.",
         "Apps need an update at least once a year even when nothing looks broken, because Google and Apple keep raising their minimum requirements. We track those deadlines so your listing is never pulled from either store for being out of date.",
       ],
     },
@@ -267,7 +267,7 @@ const sojat: CityContent = {
     {
       question: "What maintenance do you give after a Sojat website goes live?",
       answer:
-        "Every Sojat website or app gets five months of free maintenance after launch, covering content changes, backups, security updates and checks on forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Because the code and accounts are already yours, you can also switch to another developer.",
+        "Every Sojat website or app gets two months of free maintenance after launch, covering content changes, backups, security updates and checks on forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Because the code and accounts are already yours, you can also switch to another developer.",
     },
     {
       question: "You have no office in Sojat. How do we work together?",

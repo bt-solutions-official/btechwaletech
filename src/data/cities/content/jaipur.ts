@@ -7,7 +7,7 @@ const jaipur: CityContent = {
   meta: {
     title: "IT Services in Jaipur: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and AI automation for Jaipur jewellers, hotels, exporters and shops. Sites from ₹10,000, online stores from ₹50,000, five months' free maintenance.",
+      "Websites, SEO and AI automation for Jaipur jewellers, hotels, exporters and shops. Sites from ₹10,000, online stores from ₹50,000, two months' free maintenance.",
     keywords: [
       "website development team in Jaipur",
       "web design team Jaipur",
@@ -31,11 +31,11 @@ const jaipur: CityContent = {
     eyebrow: "Jaipur · Rajasthan",
     h1: "Web, app, SEO and automation services for Jaipur's jewellers, hotels, craft exporters and shops",
     lede:
-      "We are a three-engineer freelance team building websites, online stores and automations for gem dealers near Johari Bazaar, heritage hotels, block-print and furniture exporters, VKI and Sitapura manufacturers, and coaching institutes. Prices are published, you talk directly to the developers, and the first five months of maintenance after launch are free.",
+      "We are a three-engineer freelance team building websites, online stores and automations for gem dealers near Johari Bazaar, heritage hotels, block-print and furniture exporters, VKI and Sitapura manufacturers, and coaching institutes. Prices are published, you talk directly to the developers, and the first two months of maintenance after launch are free.",
     pills: ["Websites from ₹10,000", "Hindi and English SEO", "Export-ready stores", "WhatsApp enquiry flows", "Custom portals"],
   },
   quickAnswer:
-    "A Jaipur business website with us starts at ₹10,000, and a 299+ page site designed to bring enquiries from Google starts at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers without a Jaipur office, and five months of maintenance after launch are included free.",
+    "A Jaipur business website with us starts at ₹10,000, and a 299+ page site designed to bring enquiries from Google starts at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers without a Jaipur office, and two months of maintenance after launch are included free.",
   snapshot: [
     { label: "Old city bazaars", value: "Johari Bazaar, Bapu Bazaar, Tripolia Bazaar and Chandpole inside the walled city" },
     { label: "Modern business areas", value: "MI Road, C-Scheme, Malviya Nagar, Vaishali Nagar, Tonk Road and Jagatpura" },
@@ -52,10 +52,10 @@ const jaipur: CityContent = {
     ai: "WhatsApp assistants that answer room, price and stock questions in Hindi or English and hand serious enquiries to your team.",
     data: "Sales, bookings and export shipment data brought together in dashboards an owner can check between buyer meetings.",
     app: "Android and iOS apps for guest services, dealer orders and field staff on everyday phones, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and speed checks, free for five months after launch and then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and speed checks, free for two months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Jaipur has plenty of web designers, from agencies in Malviya Nagar and Vaishali Nagar to operators who build a site in a weekend and then disappear. We publish our starting prices, hand you ownership of everything and keep answering on WhatsApp seven days a week, including the five free months of maintenance after launch.",
+    "Jaipur has plenty of web designers, from agencies in Malviya Nagar and Vaishali Nagar to operators who build a site in a weekend and then disappear. We publish our starting prices, hand you ownership of everything and keep answering on WhatsApp seven days a week, including the two free months of maintenance after launch.",
   pricingIntro:
     "Website quotes in Jaipur vary wildly, and few firms explain what you get for the money. These are our actual starting prices. The final cost depends on pages, features and content, and you receive an itemised quote before anything starts.",
   sections: [
@@ -182,11 +182,11 @@ const jaipur: CityContent = {
     },
     {
       id: "ownership-maintenance-jaipur",
-      heading: "Everything in your name, and five months of maintenance on us",
+      heading: "Everything in your name, and two months of maintenance on us",
       paragraphs: [
         "We often speak to Jaipur business owners who have lost control of their website. The domain was registered by a developer who stopped answering, the hosting renewal failed, or the site shows a security warning that is driving customers away. For a hotel or jeweller who depends on online trust, that is expensive.",
         "We set things up correctly from the start. The domain is registered in your name, the hosting is in your name, and at launch you receive every login, the full source code and a short explanation of how everything is set up. You can move to another developer at any time without an exit fee.",
-        "For five months after launch, we maintain the site at no charge: content and price changes, seasonal updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For two months after launch, we maintain the site at no charge: content and price changes, seasonal updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something changed.",
       ],
     },
   ],
@@ -271,9 +271,9 @@ const jaipur: CityContent = {
         "Yes. The domain and hosting are registered in your name, and at launch you get every login and the complete source code. You can change developers whenever you want, with no exit fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "For five months after launch we handle content and price updates, seasonal changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch we handle content and price updates, seasonal changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something done.",
     },
     {
       question: "Do you work with businesses in Ajmer, Sikar, Alwar and Tonk?",

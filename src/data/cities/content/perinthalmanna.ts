@@ -56,7 +56,7 @@ const perinthalmanna: CityContent = {
     ai: "Malayalam and English WhatsApp assistants that share OPD timings, course fees and stock, and hand anything unusual to a person.",
     data: "Dashboards that show enquiries by source, admissions by course or footfall by weekday for owners who want numbers, not guesses.",
     app: "Android and iOS apps from ₹40,000 for hospital tokens, student notices or repeat orders, published on Google Play and the App Store under your account.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for updates, backups and fixes if you want us to continue.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for updates, backups and fixes if you want us to continue.",
   },
   whyUsIntro:
     "People in Perinthalmanna compare carefully before they pay, whether it is a surgeon, a course or a gold chain, and they expect the same from anyone building their website. So our starting prices are public, every quote is itemised in writing, WhatsApp is answered daily, and the domain, hosting, code and app store accounts are registered to you from the first day.",
@@ -168,7 +168,7 @@ const perinthalmanna: CityContent = {
       heading: "Ownership, handover and maintenance for Perinthalmanna websites and apps",
       paragraphs: [
         "You own what we build, fully. The domain is registered with your email address, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you get a written list of every login. If you later move to another developer, nothing needs our permission.",
-        "For the first five months after launch, maintenance is free. That covers content edits such as new doctors or updated fees, backups, security and software updates, and regular checks that forms, payments and WhatsApp links still work. After five months you can continue with us from ₹8,000 a month, manage it in-house, or hand everything to someone else.",
+        "For the first two months after launch, maintenance is free. That covers content edits such as new doctors or updated fees, backups, security and software updates, and regular checks that forms, payments and WhatsApp links still work. After two months you can continue with us from ₹8,000 a month, manage it in-house, or hand everything to someone else.",
         "Apps need yearly attention even when they work perfectly, because Google and Apple raise their minimum requirements and remove apps that fall behind. We track those deadlines and update your app before the cut-off, so patients or students do not suddenly find it missing from the store.",
       ],
     },
@@ -260,7 +260,7 @@ const perinthalmanna: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: content edits, backups, security and software updates, and routine checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month, handle it yourself, or move to another developer. All accounts and code are already in your name, so switching is simple.",
+        "Maintenance is free for two months after launch: content edits, backups, security and software updates, and routine checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month, handle it yourself, or move to another developer. All accounts and code are already in your name, so switching is simple.",
     },
     {
       question: "Can you build an online store that Gulf customers can use?",

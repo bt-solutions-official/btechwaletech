@@ -56,7 +56,7 @@ const nokha: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rate, stock, dispatch and appointment questions and pass real decisions to you.",
     data: "Dashboards of daily mandi arrivals and rates, namkeen sales by distributor and state, or dispatch delays by transporter.",
     app: "Android and iOS apps for namkeen distributors to place orders or for mandi buyers to see daily rates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "The first five months after go-live cost nothing to maintain; later care for a mandi or factory site runs from ₹8,000 monthly.",
+    maintenance: "The first two months after go-live cost nothing to maintain; later care for a mandi or factory site runs from ₹8,000 monthly.",
   },
   whyUsIntro:
     "Nokha is a trading town, and traders study every figure on a quote. Ours shows starting prices openly, breaks the work into separate lines, and comes with WhatsApp replies on any day of the week. Domain, hosting, code and app store accounts sit in your name. When a feature cannot pay for itself, you hear that from us first.",
@@ -173,10 +173,10 @@ const nokha: CityContent = {
     },
     {
       id: "ownership-maintenance",
-      heading: "Your domain, your code and five free months of maintenance",
+      heading: "Your domain, your code and two free months of maintenance",
       paragraphs: [
         "From the first day, the domain, hosting, source code, Google Business Profile and any Play Store or App Store developer accounts are opened with your email and mobile number. No developer, us included, can lock you out when you change hands.",
-        "For five months after go-live we fix bugs, change small bits of content, apply security patches and keep backups without charge. Past that, continued care is from ₹8,000 per month, and only if you want it. Moving to another developer is always allowed, and we pass on every file and password.",
+        "For two months after go-live we fix bugs, change small bits of content, apply security patches and keep backups without charge. Past that, continued care is from ₹8,000 per month, and only if you want it. Moving to another developer is always allowed, and we pass on every file and password.",
         "One screen-share session is usually enough for your munim or staff to change rates, products, photos and notices on their own, so a new scheme can go live the same afternoon.",
       ],
     },
@@ -264,7 +264,7 @@ const nokha: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "Five free months follow launch, covering fixes, minor edits, security patches and backups. Beyond that, optional care is from ₹8,000 per month. We also walk your staff through changing rates, products and notices, so a Monday price change does not sit in a queue.",
+        "Two free months follow launch, covering fixes, minor edits, security patches and backups. Beyond that, optional care is from ₹8,000 per month. We also walk your staff through changing rates, products and notices, so a Monday price change does not sit in a queue.",
     },
     {
       question: "Do you serve Bikaner, Nagaur and other towns near Nokha?",

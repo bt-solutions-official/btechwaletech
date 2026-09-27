@@ -31,11 +31,11 @@ const arrah: CityContent = {
     eyebrow: "Arrah (Ara) · Bhojpur, Bihar",
     h1: "Websites, apps, SEO and AI automation for Arrah's traders, coaching institutes and Bhojpur's rice mills",
     lede:
-      "We are three engineers who build websites, Google listings and WhatsApp workflows for businesses in Ara and the rest of Bhojpur: shops around Gopali Chowk and Shivganj, coaching institutes near the colleges, clinics, rice millers, sand and brick suppliers, and sweet makers. Prices are published, you talk to the developer directly, and the first five months of upkeep are free.",
+      "We are three engineers who build websites, Google listings and WhatsApp workflows for businesses in Ara and the rest of Bhojpur: shops around Gopali Chowk and Shivganj, coaching institutes near the colleges, clinics, rice millers, sand and brick suppliers, and sweet makers. Prices are published, you talk to the developer directly, and the first two months of upkeep are free.",
     pills: ["Sites from ₹10,000", "Hindi and Bhojpuri-friendly copy", "Coaching and school sites", "Rice mill and trade pages", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "A basic business website in Arrah costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Ara office, and maintenance is free for five months after launch.",
+    "A basic business website in Arrah costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Ara office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "District role", value: "Arrah (officially Ara) is the headquarters of Bhojpur district in Patna division, about 50 km west of Patna" },
     { label: "Farm economy", value: "Rice, wheat, gram and oilseeds; Bhojpur is often called a rice bowl of Bihar and rice milling is its traditional industry" },
@@ -52,10 +52,10 @@ const arrah: CityContent = {
     ai: "WhatsApp replies in Hindi that answer fee, rate and stock questions automatically, so a coaching office or trader is not buried in the same five questions every day.",
     data: "Admissions, sales and dispatch figures turned into a phone-friendly dashboard, so owners can see what changed this week without opening ten registers.",
     app: "Android and iOS apps for attendance, test schedules or order booking that work on patchy mobile data, released on Google Play and the App Store.",
-    maintenance: "Security updates, backups, content edits and uptime checks included free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Security updates, backups, content edits and uptime checks included free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Many Arrah businesses get their website through a relative, a local computer centre or an agency in Patna. The result is often a template that nobody updates and a domain registered in someone else's name. We are a small remote team with published rates, written quotes and direct access to the engineers. You get your logins at launch and five months of free upkeep.",
+    "Many Arrah businesses get their website through a relative, a local computer centre or an agency in Patna. The result is often a template that nobody updates and a domain registered in someone else's name. We are a small remote team with published rates, written quotes and direct access to the engineers. You get your logins at launch and two months of free upkeep.",
   pricingIntro:
     "In Ara, a “website” can mean anything from a ₹1,500 page on a free builder to a Patna agency quote of ₹40,000. Our starting prices are listed below so you can compare like with like. The final figure depends on the number of pages, features and how much writing we do for you, and it always arrives as an itemised quote in writing.",
   sections: [
@@ -168,7 +168,7 @@ const arrah: CityContent = {
       paragraphs: [
         "A familiar story in Bhojpur: a business paid someone to make a website, the domain was registered in that person's name, and a year later the number stopped working. The owner cannot change a phone number, renew the domain or move the site. Eventually it expires and a stranger buys the name.",
         "We do the opposite. The domain and hosting are registered in your name and paid from your account from day one. At launch you receive every login, the full source code and a short written note on how it is set up. If you ever want another developer to take over, you hand them the logins. There is no exit fee and nothing held back.",
-        "For five months after launch we handle maintenance at no charge: security and software updates, backups, uptime checks, small text and photo changes and bug fixes. After that you can continue from ₹8,000 a month or simply call when you need something done. Our <a href=\"/services/web-development/\">web development</a> work is built so that a competent developer anywhere can pick it up.",
+        "For two months after launch we handle maintenance at no charge: security and software updates, backups, uptime checks, small text and photo changes and bug fixes. After that you can continue from ₹8,000 a month or simply call when you need something done. Our <a href=\"/services/web-development/\">web development</a> work is built so that a competent developer anywhere can pick it up.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const arrah: CityContent = {
     {
       question: "What happens after the site goes live?",
       answer:
-        "For five months we look after it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months we look after it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long before SEO shows results in Arrah?",

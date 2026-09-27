@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Content-led site, 299+ pages", `From ${P.seoSite}`],
     ["Product or MVP web app", `From ${P.software}`],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers, one of them focused on project management" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free updates after launch" },
+    { value: "2", label: "Months of free updates after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Product web app or dashboard", value: `From ${P.software}, 6–12 weeks` },
       { label: "Android & iOS app", value: `From ${P.app}, 6–10 weeks` },
       { label: "Ownership", value: "Domain, repository, analytics and CMS in the founders' names" },
-      { label: "Care", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       heading: "Startup ke liye website kaise banayein? Seedhi baat",
       paragraphs: [
         `Sabse pehle ek line mein likhiye ki aapka product kis customer ki kya problem solve karta hai. Wahi line website ki headline banegi. Uske neeche product ka screenshot ya chhota demo video, teen fayde, aur ek hi button: waitlist join karo, demo book karo ya free mein shuru karo.`,
-        `Shuruaat mein bas saat pages kaafi hain: home, product, pricing, about, careers, contact aur privacy-terms. Hamare saath startup website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Product ka web app ${P.software} se banta hai. Domain, code aur analytics aapke naam par rahenge, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Shuruaat mein bas saat pages kaafi hain: home, product, pricing, about, careers, contact aur privacy-terms. Hamare saath startup website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Product ka web app ${P.software} se banta hai. Domain, code aur analytics aapke naam par rahenge, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
     {
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
         ["Growth content site, 299+ pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "Use cases, docs, comparisons, blog on a CMS"],
         ["Product web app or MVP", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "Sign-up, dashboard, billing"],
         ["Android & iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks", "One codebase, both stores"],
-        ["Care after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Updates, fixes, new pages"],
+        ["Care after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Updates, fixes, new pages"],
       ],
       hideSm: [2, 4],
     },
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Set up founder-owned accounts", "Domain, hosting, repository, analytics and CMS are created with your email so the startup owns every asset from the start."],
       ["Review drafts on your phone", "Pages appear on a private staging link. You and your co-founders comment on WhatsApp, and we revise in short rounds."],
       ["Launch with tracking live", "We connect the domain, confirm HTTPS, test every form, switch on analytics events and verify Google Search Console."],
-      ["Iterate as the story sharpens", `Five months of free maintenance cover copy changes, new screenshots and fixes. After that, care starts at ${P.care} if you want it.`],
+      ["Iterate as the story sharpens", `Two months of free maintenance cover copy changes, new screenshots and fixes. After that, care starts at ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Website for startup: founders' questions",
@@ -387,9 +387,9 @@ const content: FreelanceContent = {
     { question: "Is SEO worth it for an early-stage startup?", answer: "Technical SEO basics are worth doing from launch because they cost little when built in: fast pages, clean URLs, titles, sitemaps, structured data and Search Console. Large content programmes can wait until you know which customer segment converts. No one can guarantee rankings, and SEO compounds slowly, so treat it as a long-term channel." },
     { question: "Can I get a waitlist page before the product is ready?", answer: "Yes. A pre-launch page with a clear headline, a product visual or short demo, and a waitlist form with a couple of qualifying questions can be live within days. It also gives you data: how many people sign up, from where, and which message resonates, which is useful evidence for early investor conversations." },
     { question: "How do payments work when a startup hires you?", answer: "You receive an itemised quote, and nothing is billed until you approve it in writing. Payments are staged against work you can see on staging links. Indian startups pay by UPI or bank transfer; founders abroad pay by Wise, bank wire or PayPal. Our terms and refund policy pages explain the details." },
-    { question: "What happens after my startup website launches?", answer: `You get five months of free maintenance covering copy edits, new screenshots, fixes and small page updates, which matters because startup messaging changes often. After that, maintenance starts at ${P.care} a month if you want it, or your team can manage content through the CMS we set up.` },
+    { question: "What happens after my startup website launches?", answer: `You get two months of free maintenance covering copy edits, new screenshots, fixes and small page updates, which matters because startup messaging changes often. After that, maintenance starts at ${P.care} a month if you want it, or your team can manage content through the CMS we set up.` },
     { question: "Can my startup website be in Hindi or regional languages?", answer: "Yes. If you build for Bharat users, we create language versions with their own URLs and correct language tags, load Indian-script fonts efficiently, and keep wording simple. A WhatsApp button often suits these audiences better than long forms, and pages are tested on budget Android phones over mobile data." },
-    { question: "Startup ke liye website banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath startup website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Bahut saare content pages wali site ${P.seoSite} se, aur product ka web app ${P.software} se shuru hota hai. Domain, code aur analytics aapke naam par rehte hain, aur 5 mahine maintenance free hai.` },
+    { question: "Startup ke liye website banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath startup website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Bahut saare content pages wali site ${P.seoSite} se, aur product ka web app ${P.software} se shuru hota hai. Domain, code aur analytics aapke naam par rehte hain, aur 2 mahine maintenance free hai.` },
     { question: "Do you build websites for startups outside India?", answer: `Yes. We work with founders in the USA, UK, Singapore, the UAE, Canada and Australia, billing in USD with startup sites from ${P.siteUsd}. Calls are scheduled to overlap your working hours, drafts are shared on staging links, and payment is made through Wise, bank wire or PayPal.` },
   ],
   related: {
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Building a startup? Send us your one-line pitch",
-    note: `Tell us on WhatsApp what your product does, who it is for and your deadline. You will get a suggested page list and an itemised quote in about two working days. Startup websites begin at ${P.site}, every account stays in your name, and the first five months of maintenance are free.`,
+    note: `Tell us on WhatsApp what your product does, who it is for and your deadline. You will get a suggested page list and an itemised quote in about two working days. Startup websites begin at ${P.site}, every account stays in your name, and the first two months of maintenance are free.`,
   },
 };
 

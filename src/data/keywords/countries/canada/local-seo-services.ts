@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "French local pages for Quebec", note: "fr-CA pages for Montreal, Laval or Gatineau searches, built with your translator's approved text and proper hreflang.", href: "/canada/bilingual-website-development/", size: "md" },
       { name: "Technical groundwork", note: "Speed, mobile layout, LocalBusiness structured data and Search Console so Google can read every area page.", href: "/canada/technical-seo-services/", size: "sm" },
       { name: "Call and form tracking", note: "Tagged profile links, click-to-call events and form goals so you see which towns bring enquiries.", size: "sm" },
-      { name: "Site care", note: `Five free months of maintenance after any build we do, then care from ${P.care}.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Site care", note: `Two free months of maintenance after any build we do, then care from ${P.care}.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -443,7 +443,7 @@ const content: FreelanceContent = {
     { question: "Can local SEO services help my business appear in AI search answers?", answer: "It helps, though nobody can guarantee inclusion. AI tools summarise what they can find and trust, so consistent listings, clear service and town pages, factual answers and plenty of genuine reviews give them better material. The same groundwork that supports the map pack supports AI search visibility." },
     { question: "Do you visit my business to take photos?", answer: "No. The team works remotely from India and does not visit clients or job sites. Your own phone photos of real work, vehicles, staff and premises are usually better than stock images for local search. We send a short shot list so you know what to capture, and a local photographer can help if you want polished images." },
     { question: "What do you need from me to start local SEO services?", answer: "Manager access to your Google Business Profile, user access to Search Console and analytics, a list of services and towns you want more work from, any old addresses or phone numbers the business has used, and a folder of real photos. A short questionnaire about each town helps us write accurate area pages." },
-    { question: "Can you also build or fix my website?", answer: `Yes. If your current site cannot hold proper service and area pages, a static site starts at ${P.site} and a multi-city SEO website at ${P.seoSite}. Every build includes five months of free maintenance after launch. We quote the build and the monthly local work as separate lines so you can see each cost.` },
+    { question: "Can you also build or fix my website?", answer: `Yes. If your current site cannot hold proper service and area pages, a static site starts at ${P.site} and a multi-city SEO website at ${P.seoSite}. Every build includes two months of free maintenance after launch. We quote the build and the monthly local work as separate lines so you can see each cost.` },
   ],
   related: {
     heading: "More for Canadian businesses",

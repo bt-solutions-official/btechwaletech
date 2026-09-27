@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer visitor questions on routes, stays and festival dates, with people confirming bookings.",
     data: "Dashboards for homestay networks, producer groups and schools, showing bookings, sales or fees at a glance.",
     app: "Android and iOS apps for Ukhrul homestays, guides, producer groups and schools, built in Flutter or React Native with offline use.",
-    maintenance: "Remote support, seasonal updates, backups and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Remote support, seasonal updates, backups and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Ukhrul businesses rarely need big systems. They need pages that load on a weak signal, bookings that do not get lost, and reliable support afterwards. That is the work we focus on, and you speak directly to the engineers.",
@@ -195,7 +195,7 @@ const content: CityContent = {
       heading: "What does remote IT support mean for an Ukhrul business?",
       paragraphs: [
         "Remote IT support for an Ukhrul business means we fix problems, update content and keep websites and apps secure over the internet, without anyone visiting. You send a WhatsApp message describing the issue, with a screenshot if possible, and we handle it and confirm when it is done.",
-        "Typical requests include changing prices before the season, adding festival dates, fixing a form that stopped working, renewing a domain or SSL certificate, adding photos, and helping a new staff member log in. Backups and security updates run automatically. During the first five months after launch, all of this is free; afterwards, a monthly plan starts at ₹8,000, or you can pay per request.",
+        "Typical requests include changing prices before the season, adding festival dates, fixing a form that stopped working, renewing a domain or SSL certificate, adding photos, and helping a new staff member log in. Backups and security updates run automatically. During the first two months after launch, all of this is free; afterwards, a monthly plan starts at ₹8,000, or you can pay per request.",
         "Remote support cannot fix a broken phone, laptop or router. For those, a trusted local technician in Ukhrul or Imphal is the right choice. We are also honest about response times: replies come seven days a week, but if your connection is down, we will catch up as soon as it returns.",
       ],
     },
@@ -203,7 +203,7 @@ const content: CityContent = {
       id: "cost-choose-ukhrul",
       heading: "What does IT work cost in Ukhrul, and how do you choose who to hire?",
       paragraphs: [
-        "IT work for Ukhrul clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. The full list is on the <a href='/pricing/'>pricing page</a>.",
+        "IT work for Ukhrul clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months. The full list is on the <a href='/pricing/'>pricing page</a>.",
         "If you are weighing a software development team against a freelance team for an Ukhrul project, compare earlier work, who writes the code, whether the scope is written down, whether the domain, hosting and store accounts will be in your name, and how pages perform on weak signal. Local providers can visit; remote teams usually cost less.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. See our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a>.",
       ],
@@ -214,7 +214,7 @@ const content: CityContent = {
       paragraphs: [
         "For Ukhrul projects BtechWaleTech uses mainstream tools that any competent developer can maintain later: Astro for light websites, React or Next.js for web apps, Node.js or Python on the server, PostgreSQL for records, Flutter or React Native for Android and iOS apps, n8n and the official WhatsApp Business API for automation, and managed cloud hosting such as AWS with daily backups.",
         "To start, send a WhatsApp message about your business, what you offer and how bookings or orders happen today, with a few photos. We reply with questions and an itemised quote within about two working days. Websites take one to two weeks, apps six to ten weeks and custom software six to twelve weeks.",
-        "At launch you receive source code, credentials and a short guide, plus five months of free maintenance. Explore our <a href='/services/'>services</a>, the <a href='/it-services/manipur/imphal/'>Imphal page</a> or the statewide <a href='/it-services/manipur/'>Manipur hub</a>.",
+        "At launch you receive source code, credentials and a short guide, plus two months of free maintenance. Explore our <a href='/services/'>services</a>, the <a href='/it-services/manipur/imphal/'>Imphal page</a> or the statewide <a href='/it-services/manipur/'>Manipur hub</a>.",
       ],
     },
   ],
@@ -289,7 +289,7 @@ const content: CityContent = {
     {
       question: "What support do we get after launch?",
       answer:
-        "Five months of free maintenance: fixes, price and content updates, backups, security updates and uptime checks, all handled remotely. After that, a monthly plan starts at ₹8,000, or you can pay per request with the cost confirmed first. Hardware and network repairs are not included.",
+        "Two months of free maintenance: fixes, price and content updates, backups, security updates and uptime checks, all handled remotely. After that, a monthly plan starts at ₹8,000, or you can pay per request with the cost confirmed first. Hardware and network repairs are not included.",
     },
     {
       question: "How long before our Ukhrul pages appear in search?",

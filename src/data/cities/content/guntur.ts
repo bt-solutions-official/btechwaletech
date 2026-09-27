@@ -7,7 +7,7 @@ const guntur: CityContent = {
   meta: {
     title: "Guntur Web Development, SEO & Automation | ₹10,000+",
     description:
-      "Websites, trading software, SEO and WhatsApp automation for Guntur chilli and cotton traders, hospitals, colleges and shops. From ₹10,000, five months free upkeep.",
+      "Websites, trading software, SEO and WhatsApp automation for Guntur chilli and cotton traders, hospitals, colleges and shops. From ₹10,000, two months free upkeep.",
     keywords: [
       "website development team in Guntur",
       "web designer Guntur",
@@ -31,11 +31,11 @@ const guntur: CityContent = {
     eyebrow: "Guntur · Andhra Pradesh",
     h1: "Web development and automation for Guntur's traders, hospitals and colleges",
     lede:
-      "A remote team of three engineers building websites, trade software and WhatsApp automation for Guntur's chilli and cotton traders, exporters, hospitals, colleges, coaching centres and shops. Our starting prices are public, the developers talk to you directly, and there is no charge for maintenance during the first five months after your site launches.",
+      "A remote team of three engineers building websites, trade software and WhatsApp automation for Guntur's chilli and cotton traders, exporters, hospitals, colleges, coaching centres and shops. Our starting prices are public, the developers talk to you directly, and there is no charge for maintenance during the first two months after your site launches.",
     pills: ["Sites from ₹10,000", "Chilli and cotton trade tools", "Telugu and English pages", "Hospital booking", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Guntur, our static business website starts at ₹10,000 and takes one to two weeks, a 299+ page SEO site starts at ₹20,000, and custom tools for traders or commission agents start at ₹60,000. We are a three-engineer remote team without a Guntur office, so prices carry no rent, and maintenance is free for five months.",
+    "In Guntur, our static business website starts at ₹10,000 and takes one to two weeks, a 299+ page SEO site starts at ₹20,000, and custom tools for traders or commission agents start at ₹60,000. We are a three-engineer remote team without a Guntur office, so prices carry no rent, and maintenance is free for two months.",
   snapshot: [
     { label: "Signature trade", value: "Guntur Mirchi Yard, widely described as Asia's largest chilli market, setting prices for much of the country" },
     { label: "Other crops", value: "Tobacco, cotton and turmeric; the Tobacco Board is headquartered in Guntur" },
@@ -52,10 +52,10 @@ const guntur: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, admission and appointment questions in Telugu or English and pass unusual queries to your staff.",
     data: "Dashboards that track arrivals, prices, stock by cold storage and outstanding payments without anyone retyping figures.",
     app: "Android and iOS apps for patient bookings, student portals and trader order status, listed on Google Play and the App Store from ₹40,000.",
-    maintenance: "Content changes, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Content changes, backups, security fixes and speed checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Guntur has plenty of web designers, from small studios near Brodipet to agencies in Vijayawada and Hyderabad. We differ in three ways: our prices are public, three engineers do the work and answer your messages themselves, and we maintain your site free for five months after it goes live.",
+    "Guntur has plenty of web designers, from small studios near Brodipet to agencies in Vijayawada and Hyderabad. We differ in three ways: our prices are public, three engineers do the work and answer your messages themselves, and we maintain your site free for two months after it goes live.",
   pricingIntro:
     "Website and software prices in Guntur usually come after a meeting and vary a lot between providers. Our actual starting prices are below. Your quote depends on the number of pages, languages, features and integrations, and it comes itemised and in writing before anything is billed.",
   sections: [
@@ -177,7 +177,7 @@ const guntur: CityContent = {
       paragraphs: [
         "For traders and commission agents, the records in their software are as valuable as the stock in their storages. Losing access to a system because the developer became unreachable, or being unable to export data, can cause real damage. The same is true for hospitals and colleges whose websites vanish because a domain lapsed.",
         "Everything we build is yours. The domain is registered in your name, the hosting or cloud account is yours, and at launch you receive every login, the source code and a short explanation of how it works. Data can be exported at any time in standard formats. You can switch developers whenever you like without an exit fee. Our <a href=\"/services/web-development/\">web development</a> work is written to be readable by other developers.",
-        "For the first five months after launch, maintenance is free: content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need changes. For software your daily operations rely on, we recommend continuing maintenance.",
+        "For the first two months after launch, maintenance is free: content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need changes. For software your daily operations rely on, we recommend continuing maintenance.",
       ],
     },
   ],
@@ -262,9 +262,9 @@ const guntur: CityContent = {
         "Yes. The domain, hosting or cloud account, source code and data all belong to you. You receive every login at launch and can export your data at any time. You can move to another developer without an exit fee, which matters especially for trade records your business depends on.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all at no charge for five months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all at no charge for two months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Tenali, Narasaraopet, Vijayawada and nearby towns?",

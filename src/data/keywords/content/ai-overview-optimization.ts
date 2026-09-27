@@ -341,7 +341,7 @@ const content: FreelanceContent = {
         ["Rebuild for structure and speed", "Slow or hard-to-edit site", `${P.seoSite}`, "3–5 weeks"],
         ["Small new site", "Up to 100 pages, answer-first from launch", `${P.site}`, "1–2 weeks"],
         ["Ecommerce catalogue", "Products and categories with specs and prices", `${P.shop}`, "4–8 weeks"],
-        ["After launch care", "Updates and fixes after free period", `${P.care}`, "After 5 free months"],
+        ["After launch care", "Updates and fixes after free period", `${P.care}`, "After 2 free months"],
       ],
     },
   ],

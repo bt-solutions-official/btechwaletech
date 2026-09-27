@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Before any design work", "URL inventory, traffic and enquiry baseline"],
     ["At launch", "Every old URL redirected or deliberately retired"],
     ["Optional in the same project", "Arabic version from your approved translation"],
-    ["After launch", "5 months free maintenance, then from " + P.care],
+    ["After launch", "2 months free maintenance, then from " + P.care],
   ],
   stats: [
     { value: "3", label: "Freelance developers covering build, SEO and project management" },
     { value: "2", label: "Working days to an itemised redesign quote" },
-    { value: "5", label: "Months of free maintenance after the new site goes live" },
+    { value: "2", label: "Months of free maintenance after the new site goes live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Speed and mobile rebuild", note: "Lighter templates, compressed images and fewer scripts, aimed at Core Web Vitals on the phones your visitors use.", href: "/uae/technical-seo-services/", size: "md" },
       { name: "Platform move", note: `WordPress, a builder or a legacy CMS moved to something your team can edit. Custom portals from ${P.software}.`, href: "/uae/wordpress-website-design/", size: "sm" },
       { name: "Store redesigns", note: `Product and category URLs preserved during an ecommerce rebuild, from ${P.shop}.`, href: "/uae/ecommerce-website-development/", size: "sm" },
-      { name: "Post-launch watch", note: `Five months of free fixes, then care from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
+      { name: "Post-launch watch", note: `Two months of free fixes, then care from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the redesigned site outright: domain, hosting, source code, CMS login, analytics and Search Console all sit in accounts registered to your business. If you move to another developer later, there is nothing to transfer from us.`,
         `At handover you receive the inventory spreadsheet, the redirect map, a list of tracked events and how to view them, CMS training by video call, and a short document explaining how the site is built. The redirect map stays useful for years, because it answers the question “where did that old page go?”.`,
-        `Five months of maintenance are included after launch, covering bug fixes, small content changes and security updates. That window also covers the period when search traffic settles after a move, so we can react if a page needs attention. After that, care plans start from ${P.care}; the <a href='/uae/website-maintenance-services/'>website maintenance page</a> lists what they include.`,
+        `Two months of maintenance are included after launch, covering bug fixes, small content changes and security updates. That window also covers the period when search traffic settles after a move, so we can react if a page needs attention. After that, care plans start from ${P.care}; the <a href='/uae/website-maintenance-services/'>website maintenance page</a> lists what they include.`,
       ],
     },
     {
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
       ["Inventory and baseline", "We crawl the site, build the URL spreadsheet with a recommended decision per row, and add GA4 events so enquiry numbers start collecting before anything changes."],
       ["Templates on staging", "Homepage and key templates go up on a password-protected staging site, built mobile first, for you to review on your own phone and laptop."],
       ["Content, Arabic and redirects", "Pages are migrated or rewritten, Arabic versions placed from approved translation, and every line of the redirect map implemented and tested."],
-      ["Launch and compare", "We launch mid-week, crawl old URLs, submit the sitemap, then compare leads and clicks against the baseline during five months of free maintenance."],
+      ["Launch and compare", "We launch mid-week, crawl old URLs, submit the sitemap, then compare leads and clicks against the baseline during two months of free maintenance."],
     ],
   },
   faqHeading: "Website redesign services Dubai: common questions",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Should every old page redirect to the home page?", answer: "No. Each old URL should redirect to the most relevant new page. Sending everything to the home page confuses visitors and is treated much like a missing page by search engines. If a page has no sensible equivalent, a deliberate removal is more honest. We decide each case from the inventory data." },
     { question: "Can you add an Arabic version during the redesign?", answer: "Yes, and it is the most efficient time to do it, since templates and URLs are being built anyway. Arabic pages get right-to-left layouts, their own URLs and reciprocal hreflang tags. Our team writes English, so the Arabic copy comes from you or a translator you choose, and we track approval status page by page." },
     { question: "How do you measure whether the redesign worked?", answer: "We record form submissions, phone taps, WhatsApp taps and organic clicks for at least four weeks before launch, then compare the same weeks afterwards. Comparing equivalent periods matters in the UAE because Ramadan, summer and month-end patterns move numbers regardless of the site. We separate organic, paid and direct traffic too." },
-    { question: "Do I need a redesign or just maintenance?", answer: `If the site works on phones, loads quickly and your team can edit it, ongoing maintenance and content updates may be enough. If the layout breaks on mobile, the platform is outdated or enquiries keep falling, a redesign is usually better value. Care plans start from ${P.care} after the five free months that follow any build.` },
+    { question: "Do I need a redesign or just maintenance?", answer: `If the site works on phones, loads quickly and your team can edit it, ongoing maintenance and content updates may be enough. If the layout breaks on mobile, the platform is outdated or enquiries keep falling, a redesign is usually better value. Care plans start from ${P.care} after the two free months that follow any build.` },
     { question: "Can you redesign my WordPress website without changing platform?", answer: "Often, yes. Many WordPress sites improve a lot by replacing a heavy page builder and bloated theme with a lean custom theme, trimming plugins and reorganising content, while keeping WordPress for editing. If the install is badly outdated or compromised, we will explain why a rebuild would be safer before you commit." },
     { question: "Will my website go offline during the redesign?", answer: "No. The new site is built on a separate, password-protected staging site while the current one keeps running. On launch day we switch over, apply the redirect map and crawl the old URLs to confirm they resolve. Most visitors notice nothing except the new design." },
     { question: "Who owns the redesigned website?", answer: "You do. The domain, hosting, code, CMS, analytics and Search Console sit in accounts registered to your business. We are added as users and removed when you ask. At handover you also get the URL inventory and redirect map, which remain useful for any future developer." },

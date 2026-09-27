@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["PO-to-payment workflows", "B2B industrial websites", "Labour and fleet tools", "Apps from ₹40,000", "Dashboards for owners"],
   },
   quickAnswer:
-    "For IT solutions in Rourkela, BtechWaleTech works as a freelance group of three engineers rather than a software development team: workflow software and dashboards from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and B2B websites from ₹10,000. We work remotely from India, with five months of free maintenance.",
+    "For IT solutions in Rourkela, BtechWaleTech works as a freelance group of three engineers rather than a software development team: workflow software and dashboards from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and B2B websites from ₹10,000. We work remotely from India, with two months of free maintenance.",
   snapshot: [
     { label: "Anchor industry", value: "Rourkela Steel Plant of SAIL, India's first integrated public-sector steel plant, commissioned around 1959 with German collaboration" },
     { label: "Supplier ecosystem", value: "Ancillary units, fabricators, engineering contractors, refractory and spares suppliers, and transporters serving the plant and nearby mines" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that read purchase orders and tender documents, extract quantities and dates, and draft replies for staff to check before anything goes out.",
     data: "Owner dashboards showing orders pending, dispatches, receivables by buyer, trip counts and labour cost across Rourkela sites.",
     app: "Android and iOS apps from ₹40,000 for Rourkela supervisors, drivers and field engineers: attendance, trip logs, job cards and photos, on Google Play and the App Store.",
-    maintenance: "Remote updates, backups, fixes and small changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote updates, backups, fixes and small changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Rourkela's supplier firms are engineering-minded and allergic to software that looks impressive but does not match the shop floor. We start from your actual documents, your challans, POs, measurement sheets and attendance registers, and build around them, with starting prices published and every login left with you.",
@@ -209,7 +209,7 @@ const content: CityContent = {
       id: "process-support-rourkela",
       heading: "How do we work with Rourkela clients, from first call to support?",
       paragraphs: [
-        "Work with Rourkela clients follows a simple sequence: a call where you show us your current registers and documents, an itemised estimate within about two working days, weekly builds on a test link, launch with training by video, and five months of free maintenance. After that, support continues from ₹8,000 a month or on request.",
+        "Work with Rourkela clients follows a simple sequence: a call where you show us your current registers and documents, an itemised estimate within about two working days, weekly builds on a test link, launch with training by video, and two months of free maintenance. After that, support continues from ₹8,000 a month or on request.",
         "We reply on WhatsApp seven days a week, and the engineers who built your system handle fixes. Support covers software, hosting, domains, email and integrations; hardware and plant networks need a local technician.",
         "More about the team is on the <a href=\"/about/\">about page</a>, with examples on the <a href=\"/portfolio/\">portfolio</a>. For nearby markets, see <a href=\"/it-services/odisha/sambalpur/\">Sambalpur</a> or the <a href=\"/it-services/odisha/\">Odisha hub</a>.",
       ],
@@ -292,7 +292,7 @@ const content: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after hosting goes live: updates, backups, security checks, bug fixes and small changes. Afterwards, plans start from ₹8,000 a month, or you can contact us only when something needs doing. The system runs on hosting in your name either way.",
+        "For two months after hosting goes live: updates, backups, security checks, bug fixes and small changes. Afterwards, plans start from ₹8,000 a month, or you can contact us only when something needs doing. The system runs on hosting in your name either way.",
     },
     {
       question: "Can the software handle Odia and Hindi?",
@@ -302,7 +302,7 @@ const content: CityContent = {
     {
       question: "Do you set up hosting and deploy the system?",
       answer:
-        "Yes. We handle hosting, domain, SSL, email records, backups, monitoring and deployment, then train your staff by video. Everything is documented, and the five free months of maintenance begin when hosting goes live.",
+        "Yes. We handle hosting, domain, SSL, email records, backups, monitoring and deployment, then train your staff by video. Everything is documented, and the two free months of maintenance begin when hosting goes live.",
     },
     {
       question: "Can you improve our existing software instead of replacing it?",

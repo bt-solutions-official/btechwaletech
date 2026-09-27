@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Inputs handled", "Devanagari, Roman Hindi, Hinglish, voice"],
     ["Team languages", "Hindi and English"],
     ["Channels", "WhatsApp, website, app"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, Hindi and English speakers" },
     { value: "22", label: "Scheduled languages in India's Eighth Schedule" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Glossary and content", "Together we list product names, places and units in every script, and approve Hindi wording for policies, prices and refunds."],
       ["Build on your number", "The bot is set up on your WhatsApp Business number or website, in your cloud account, with handover to your staff inbox."],
       ["Test with your reviewers", "Your Hindi-speaking staff, and reviewers for any other language, mark real test messages. We fix failures and retest before launch."],
-      ["Pilot, then widen", "Launch with one outlet or product line, review live chats weekly, then expand. Five months of free maintenance cover fixes and tuning."],
+      ["Pilot, then widen", "Launch with one outlet or product line, review live chats weekly, then expand. Two months of free maintenance cover fixes and tuning."],
     ],
   },
   faqHeading: "Hindi AI chatbot: questions businesses ask",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
     { question: "Freelancers or an agency for a Hindi chatbot project?", answer: "A small freelance team works well when the developers speak Hindi themselves and can judge Hinglish output directly, as ours can. What matters most is that the provider tests on your real messages, builds on your own WhatsApp number and accounts, and hands over the glossary, prompts and test results." },
     { question: "Does a Hindi chatbot help with Google or AI search visibility?", answer: "Not directly. A chatbot answers people who already reached you. Visibility in Google and AI search comes from clear public pages, consistent business information and, for Hindi searchers, useful Hindi or Hinglish content on your website. We can advise on that separately through our SEO work." },
     { question: "How do we pay for the build?", answer: "You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. Clients in India pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Milestones and other terms are agreed in your written quote." },
-    { question: "What happens after the chatbot goes live?", answer: `We review a sample of live conversations weekly during the first month, add failures to the test set and adjust prompts or the glossary. Five months of free maintenance cover these fixes and model changes. After that, ongoing care starts at ${P.care} a month, only if you want it.` },
+    { question: "What happens after the chatbot goes live?", answer: `We review a sample of live conversations weekly during the first month, add failures to the test set and adjust prompts or the glossary. Two months of free maintenance cover these fixes and model changes. After that, ongoing care starts at ${P.care} a month, only if you want it.` },
   ],
   related: {
     heading: "Related pages on chatbots, WhatsApp and AI",

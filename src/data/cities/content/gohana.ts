@@ -56,7 +56,7 @@ const gohana: CityContent = {
     ai: "WhatsApp assistants in Hindi that reply about rates, stock, admission fees and OPD timings, and hand anything unusual to you.",
     data: "Dashboards showing arrivals by crop, dues by farmer, admission enquiries by village and sweet orders by festival week.",
     app: "Android and iOS apps for coaching students, hospital tokens or mandi farmers checking their accounts, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Gohana traders like to know the rate before they commit, and they talk to each other about who delivered. So our starting prices are public, every quote is itemised and written, and WhatsApp gets a reply on all seven days. Your domain, hosting, source code and store accounts are registered in your own name from the first day.",
@@ -169,7 +169,7 @@ const gohana: CityContent = {
       heading: "Ownership and maintenance for Gohana websites and apps",
       paragraphs: [
         "A familiar complaint in smaller Haryana towns is the website that vanished because the person who built it kept the domain in his own name and stopped answering calls. We avoid that by registering the domain, hosting, source code, Google Business Profile and app store accounts to you, and by handing over every login in writing.",
-        "Maintenance is free for the first five months after launch. That covers updates to rates and content, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After those five months, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer with all your files whenever you wish.",
+        "Maintenance is free for the first two months after launch. That covers updates to rates and content, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After those two months, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer with all your files whenever you wish.",
         "Apps need yearly care because Google and Apple keep changing their rules. We track those changes and update your app on time, so it is not pulled from the stores for missing a deadline.",
       ],
     },
@@ -261,7 +261,7 @@ const gohana: CityContent = {
     {
       question: "What maintenance do you give after the website goes live?",
       answer:
-        "The first five months of maintenance are free, covering content and rate updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and files to another developer whenever you choose.",
+        "The first two months of maintenance are free, covering content and rate updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and files to another developer whenever you choose.",
     },
     {
       question: "Do you work in Khanpur Kalan, Mundlana and nearby towns?",

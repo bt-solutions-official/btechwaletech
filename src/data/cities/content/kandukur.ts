@@ -56,7 +56,7 @@ const kandukur: CityContent = {
     ai: "Telugu-speaking WhatsApp assistants that share prices you set, take orders and bookings, and hand real decisions to you.",
     data: "Season-wise views of purchases, sales by buyer, stock in godowns and money still due.",
     app: "Android and iOS apps for a college's parents, a hospital's patients or a trader's village agents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then maintenance from ₹8,000 a month if you want us to continue.",
+    maintenance: "Two free months of upkeep after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Kandukur owners have seen enough half-finished websites to be cautious, and that is healthy. We publish starting prices, send a written line-by-line quote, answer WhatsApp every day of the week, and register your domain, hosting, code and app store accounts to you. When a feature will not pay for itself, we say so plainly.",
@@ -169,7 +169,7 @@ const kandukur: CityContent = {
       heading: "Ownership and maintenance for Kandukur websites and apps",
       paragraphs: [
         "Everything we make for you is registered to you. The domain uses your email, the hosting is billed in your name, you get the complete source code, and you are the owner on your Google Business Profile, Google Play console and Apple developer account. At handover you receive a written list of every login.",
-        "For five months after launch, maintenance is free: price and photo changes, backups, security updates, and regular checks that forms, payments and WhatsApp links work. After that, you decide whether to continue with us from ₹8,000 a month, manage it yourself, or move to another developer without needing our permission.",
+        "For two months after launch, maintenance is free: price and photo changes, backups, security updates, and regular checks that forms, payments and WhatsApp links work. After that, you decide whether to continue with us from ₹8,000 a month, manage it yourself, or move to another developer without needing our permission.",
         "Apps need a yearly update even when nothing is broken, because Google and Apple raise their minimum technical requirements. We watch those deadlines and update early so your app stays listed.",
       ],
     },
@@ -261,7 +261,7 @@ const kandukur: CityContent = {
     {
       question: "What maintenance do you give after the website goes live?",
       answer:
-        "The first five months after launch are free: content and price updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or look after it yourself. The code and accounts are already yours, so changing developers is simple.",
+        "The first two months after launch are free: content and price updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or look after it yourself. The code and accounts are already yours, so changing developers is simple.",
     },
     {
       question: "Do you work in Singarayakonda, Ulavapadu and Ongole too?",

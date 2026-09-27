@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI concierge assistants that answer product, availability and pricing questions on WhatsApp and Instagram, book appointments and capture event leads.",
     data: "Dashboards for multi-outlet brands showing sales, bookings, memberships, repeat customers and campaign performance.",
     app: "Android and iOS apps for Saket brands, studios and venues, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Updates, backups, security checks and fixes, free for five months after launch and from ₹8,000 per month afterwards.",
+    maintenance: "Updates, backups, security checks and fixes, free for two months after launch and from ₹8,000 per month afterwards.",
   },
   whyUsIntro:
     "Premium brands in Saket are often quoted agency fees that assume a big studio, a creative director and several account managers. As a freelance group, we offer something narrower and more direct: three engineers who build what you need, publish starting prices, reply on WhatsApp every day and hand over ownership of the store, apps and accounts.",
@@ -168,7 +168,7 @@ const content: CityContent = {
       paragraphs: [
         "Dashboards for multi-outlet Saket brands combine sales, bookings, memberships, repeat customers and campaign results across outlets and online channels into one view. Owners can see which outlet is growing, which service sells best, how many members are due for renewal and which campaigns brought paying customers.",
         "We connect your store, booking system, POS exports and ad accounts, and host everything on AWS or comparable cloud infrastructure with SSL, daily backups and uptime monitoring. Access is role-based so outlet managers see their own numbers.",
-        "Five months of maintenance are included free after launch: fixes, updates, backups, security patches and speed checks. Afterwards, plans start from ₹8,000 a month. We build with Next.js, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, and every credential is handed to you with documentation.",
+        "Two months of maintenance are included free after launch: fixes, updates, backups, security patches and speed checks. Afterwards, plans start from ₹8,000 a month. We build with Next.js, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, and every credential is handed to you with documentation.",
       ],
     },
     {
@@ -194,7 +194,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000",
         "D2C online store: from ₹50,000",
         "Booking, membership or venue software: from ₹60,000",
-        "Maintenance after five free months: from ₹8,000 a month",
+        "Maintenance after two free months: from ₹8,000 a month",
       ],
     },
     {
@@ -280,7 +280,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include?",
       answer:
-        "Five months of free maintenance after launch: fixes, small changes, security updates, backups and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can request changes only when needed.",
+        "Two months of free maintenance after launch: fixes, small changes, security updates, backups and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can request changes only when needed.",
     },
     {
       question: "Will the AI concierge sound like our brand?",

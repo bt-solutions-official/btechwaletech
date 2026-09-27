@@ -7,7 +7,7 @@ const nanded: CityContent = {
   meta: {
     title: "Nanded Website Design, SEO & Automation | From ₹10,000",
     description:
-      "Website design, local SEO, online stores and WhatsApp automation for Nanded shops, clinics, coaching classes and agri traders. From ₹10,000, 5 months free support.",
+      "Website design, local SEO, online stores and WhatsApp automation for Nanded shops, clinics, coaching classes and agri traders. From ₹10,000, 2 months free support.",
     keywords: [
       "website development team in Nanded",
       "website designer Nanded",
@@ -30,11 +30,11 @@ const nanded: CityContent = {
     eyebrow: "Nanded-Waghala · Maharashtra",
     h1: "Websites, apps, SEO and AI automation for Nanded shops, classes and pilgrim-trade businesses",
     lede:
-      "A remote team of three engineers building websites, online stores and automation for Nanded businesses, from coaching classes near Shivaji Nagar and clinics on Doctor Lane to lodges near Hazur Sahib and agri traders in Marathwada. Prices are published, you deal directly with the developers, and five months of maintenance after launch cost you nothing.",
+      "A remote team of three engineers building websites, online stores and automation for Nanded businesses, from coaching classes near Shivaji Nagar and clinics on Doctor Lane to lodges near Hazur Sahib and agri traders in Marathwada. Prices are published, you deal directly with the developers, and two months of maintenance after launch cost you nothing.",
     pills: ["Sites from ₹10,000", "Marathi and Hindi search", "Hotel and yatri bookings", "WhatsApp enquiry flows", "Class and clinic tools"],
   },
   quickAnswer:
-    "In Nanded, a basic business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team without a Nanded office, and every site includes five months of free maintenance after launch.",
+    "In Nanded, a basic business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team without a Nanded office, and every site includes two months of free maintenance after launch.",
   snapshot: [
     { label: "Pilgrimage", value: "Takht Sachkhand Sri Hazur Sahib on the Godavari, one of the five Sikh takhts" },
     { label: "Commercial areas", value: "Vazirabad, Shivaji Nagar, Doctor Lane, Taroda Naka and CIDCO New Nanded" },
@@ -51,10 +51,10 @@ const nanded: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that handle routine questions about rooms, batches, fees or stock, and pass anything unusual to a person.",
     data: "Sales, admissions or procurement data turned into simple dashboards, so you can see what sold, what is pending and who owes what.",
     app: "Android and iOS apps for students, patients, field staff and pilgrims visiting the gurdwara, usable on basic phones, from ₹40,000 on both stores.",
-    maintenance: "Content changes, backups, security updates and speed checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content changes, backups, security updates and speed checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "In Nanded, websites are often made by a local operator who later becomes hard to reach, or by a Pune or Hyderabad agency that treats a Marathwada client as a small job. We publish our starting prices, reply on WhatsApp seven days a week, and keep supporting your site free for its first five months.",
+    "In Nanded, websites are often made by a local operator who later becomes hard to reach, or by a Pune or Hyderabad agency that treats a Marathwada client as a small job. We publish our starting prices, reply on WhatsApp seven days a week, and keep supporting your site free for its first two months.",
   pricingIntro:
     "Nanded quotes for the same small website can differ several times over, with little explanation. These are the real figures we start from. Your final price depends on the number of pages, products and features, and you receive an itemised quote to approve before any work or payment begins.",
   sections: [
@@ -167,7 +167,7 @@ const nanded: CityContent = {
       paragraphs: [
         "We often meet Nanded businesses whose old website vanished when a renewal email went to a developer who had moved on. Some lost years of Google visibility along with the domain. It is an avoidable problem, and we avoid it by setting ownership correctly on day one.",
         "The domain is registered in your name or your firm's name. The hosting account is opened for you. At launch you receive every password and a short written note explaining what runs where. The code is yours to keep, move or hand to another developer at any time, with no exit fee and no permission needed.",
-        "For the first five months after launch, maintenance costs nothing: content and price edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing.",
+        "For the first two months after launch, maintenance costs nothing: content and price edits, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing.",
       ],
     },
     {
@@ -264,9 +264,9 @@ const nanded: CityContent = {
         "Yes. The domain and hosting are in your name, and you receive every password and the complete source code at launch. You can move to another developer at any time with no exit fee. We insist on this because lost domains are a common problem for older Nanded websites.",
     },
     {
-      question: "What does the five months of free maintenance cover?",
+      question: "What does the two months of free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Can you guarantee a top Google ranking in Nanded?",

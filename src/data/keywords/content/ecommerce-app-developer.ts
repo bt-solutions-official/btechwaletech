@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical app build", "6–10 weeks to first release"],
     ["Tech", "Flutter or React Native, one codebase"],
     ["Store listings", "Your own Play Console and App Store Connect"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "2", label: "Platforms from one codebase: Android and iOS" },
     { value: "3", label: "Developers across app, backend and data" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "App price", value: `From ${P.app}, 6–10 weeks` },
       { label: "Web store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Publishing", value: "Google Play and App Store under your accounts" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       heading: "After launch: updates, analytics and maintenance",
       paragraphs: [
         `A shopping app is never finished. New Android and iOS versions arrive every year, store policies change and customers ask for features. Plan for regular updates rather than one launch and silence.`,
-        `Every app we build includes five months of free maintenance after release, covering bug fixes and compatibility updates. After that, maintenance starts from ${P.care}. We track crashes, slow screens, checkout drop-offs and search terms with no results, then suggest the next improvements based on real data.`,
+        `Every app we build includes two months of free maintenance after release, covering bug fixes and compatibility updates. After that, maintenance starts from ${P.care}. We track crashes, slow screens, checkout drop-offs and search terms with no results, then suggest the next improvements based on real data.`,
         `New features such as loyalty points, referral codes or a rider app are quoted as small projects on top, so the monthly fee stays predictable.`,
       ],
     },
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
         ["Web store sharing the catalogue", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Search-friendly store, UPI and card checkout"],
         ["Custom admin, rider app or multi-vendor", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Roles, dashboards, delivery workflows"],
         ["WhatsApp order alerts and automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Order updates, reorder reminders"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, OS updates, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, OS updates, small changes"],
         ["Monthly SEO for the web store", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Category pages, product schema"],
       ],
       hideSm: [2],
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Screens and catalogue plan", "We design key screens on mobile, map categories and variants, and agree the order states and delivery rules before coding starts."],
       ["Build backend, admin and app", "Backend and admin panel first so your team can load products, then the customer app, checkout and notifications on test builds."],
       ["Test on real phones", "Your staff place test orders on their own Android and iPhone devices through internal testing and TestFlight, and we fix what they find."],
-      ["Release and support", "Submission in your store accounts, staged rollout, then five months of free maintenance covering fixes and compatibility updates."],
+      ["Release and support", "Submission in your store accounts, staged rollout, then two months of free maintenance covering fixes and compatibility updates."],
     ],
   },
   faqHeading: "Ecommerce app developer: questions buyers ask",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Will my shopping app work on cheap Android phones?", answer: "It should, and we test for it. We keep the install size small, compress product images, cache data and check performance on low-end Android phones over slower mobile data. Most Indian shoppers use budget devices, so this testing is part of every build." },
     { question: "How do I get people to install my ecommerce app?", answer: "Start with customers who already buy from you: QR codes on parcels and bills, a WhatsApp broadcast to past buyers, and an app-only first-order offer. A web store and Google Business Profile help new buyers find you. An app rarely brings new customers on its own; it helps keep existing ones." },
     { question: "What happens if the App Store rejects my app?", answer: "We fix the stated reason and resubmit. Common reasons include missing privacy details, no account deletion option, a broken reviewer login or misleading screenshots, and we prepare these before the first submission. Most rejections are resolved within a few days once the specific issue is addressed." },
-    { question: "Do you provide maintenance after the app goes live?", answer: `Yes. Every app includes five months of free maintenance after release, covering bug fixes and compatibility updates for new Android and iOS versions. After that, maintenance starts from ${P.care}. New features are quoted separately as small projects.` },
+    { question: "Do you provide maintenance after the app goes live?", answer: `Yes. Every app includes two months of free maintenance after release, covering bug fixes and compatibility updates for new Android and iOS versions. After that, maintenance starts from ${P.care}. New features are quoted separately as small projects.` },
     { question: "Can the app send order updates on WhatsApp?", answer: "Yes. Alongside push notifications, we can send order confirmations, shipping updates and delivery alerts through WhatsApp or SMS, useful for customers who turn off push. WhatsApp business messaging has its own per-message charges, which we list in the running costs." },
     { question: "Do you build ecommerce apps for clients outside India?", answer: `Yes. Overseas sellers get the same process with pricing in USD, starting from ${P.appUsd} for an Android and iOS app. We work in IST, reply on WhatsApp seven days a week and schedule calls in an overlap window. Payments go through Wise, bank wire or PayPal.` },
     { question: "Shopping app banwana hai, kitna kharcha aur kitna time lagega?", answer: `Android aur iOS shopping app ${P.app} se shuru hota hai aur pehla version lagbhag 6–10 hafte mein ban jaata hai. Isme catalogue, cart, UPI checkout, order tracking aur admin panel hota hai. App aapke apne Play Store aur App Store account mein publish hota hai, aur code bhi aapka rehta hai.` },
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a shopping app? Talk to an ecommerce app developer",
-    note: `Send what you sell and how you deliver on WhatsApp. In about two working days you will get a version-one feature list and an itemised quote, with apps from ${P.app}, publishing in your own store accounts and five months of free maintenance after release.`,
+    note: `Send what you sell and how you deliver on WhatsApp. In about two working days you will get a version-one feature list and an itemised quote, with apps from ${P.app}, publishing in your own store accounts and two months of free maintenance after release.`,
   },
 };
 

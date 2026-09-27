@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   facts: [
     ["WhatsApp automation", `From ${P.ai}`],
     ["Custom inbox or portal", `From ${P.software}`],
-    ["Care", `From ${P.care}, first 5 months free`],
+    ["Care", `From ${P.care}, first 2 months free`],
     ["Quote", "Itemised in about 2 working days"],
     ["Hosting", "Your cloud account, EU region"],
     ["Invoicing", "In USD; pay in USD or EUR by Wise or wire"],
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a GDPR-minded WhatsApp Business API set-up costs",
-    note: `WhatsApp automation with us starts at ${P.ai}: Cloud API onboarding, opt-in capture, a first set of templates and one or two guided flows such as appointment reminders. A custom team inbox, deeper CRM or booking integration, or an AI assistant is software work from ${P.software}. Meta charges its own per-message fees for delivered template messages, billed to your Meta account and not part of our quote. What moves our price is the number of flows, the systems we connect, how many opt-in points need building and how complex your retention rules are. Five months of maintenance after launch are free, then care from ${P.care}.`,
+    note: `WhatsApp automation with us starts at ${P.ai}: Cloud API onboarding, opt-in capture, a first set of templates and one or two guided flows such as appointment reminders. A custom team inbox, deeper CRM or booking integration, or an AI assistant is software work from ${P.software}. Meta charges its own per-message fees for delivered template messages, billed to your Meta account and not part of our quote. What moves our price is the number of flows, the systems we connect, how many opt-in points need building and how complex your retention rules are. Two months of maintenance after launch are free, then care from ${P.care}.`,
   },
   guideLabel: "WhatsApp Business API GDPR guide",
   guide: [
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our WhatsApp Business API GDPR set-ups start at ${P.ai} for onboarding, opt-in capture, templates and one or two flows. Custom inboxes, deep integrations and AI assistants start at ${P.software}. Meta’s per-message fees are separate and billed to your account.`,
         `Quotes in this area vary widely because “WhatsApp integration” can mean anything from connecting a number to a SaaS tool to building a full customer-service system. The drivers in our quotes are concrete: number of flows, systems to connect (booking tool, shop, CRM, ERP), number of opt-in points on web, checkout and in-store, and the complexity of your deletion rules.`,
-        `Running costs are mainly Meta’s template fees, your hosting, and maintenance after the free five months at ${P.care}. Keeping most conversations inside customer-initiated windows keeps Meta’s fees low, and we design flows with that in mind.`,
+        `Running costs are mainly Meta’s template fees, your hosting, and maintenance after the free two months at ${P.care}. Keeping most conversations inside customer-initiated windows keeps Meta’s fees low, and we design flows with that in mind.`,
       ],
     },
     {
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
       ["Consent and templates", "Opt-in points and wording are drafted for your lawyer’s approval, and utility templates are submitted to Meta for review."],
       ["Flows and inbox", "Appointment, order-status or other flows are built on a test number, together with the team inbox and any CRM or booking connections."],
       ["Deletion and access", "Retention jobs, role-based access and audit logging are configured and tested with sample data before real conversations start."],
-      ["Launch and care", "Staff test as customers, then we switch on. Five months of maintenance follow free, then regular care at the published starting rate."],
+      ["Launch and care", "Staff test as customers, then we switch on. Two months of maintenance follow free, then regular care at the published starting rate."],
     ],
   },
   faqHeading: "WhatsApp Business API and GDPR: common questions",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "How do I get opt-in for WhatsApp messages?", answer: "Ask clearly and record it. Meta requires the opt-in to say the person will receive WhatsApp messages and to name your business; it can be collected on your website, by SMS, by phone or on paper. We add unticked checkboxes to booking or checkout, store time, source and wording, keep marketing consent separate and handle opt-out keywords automatically." },
     { question: "Can I send marketing messages on WhatsApp in Germany?", answer: "Only with care. Meta requires an opt-in and charges for every delivered marketing template, and German unfair-competition law, § 7 UWG, requires prior express consent for advertising sent by electronic mail. Your lawyer should confirm how that applies to your WhatsApp promotions. Technically, we collect marketing consent separately from service messages and record it for every contact." },
     { question: "What are WhatsApp template messages?", answer: "Templates are pre-approved message formats that businesses use to start a conversation or write outside the 24-hour customer service window. Meta groups them into marketing, utility and authentication categories, each billed per delivered message since 1 July 2025. Replies within 24 hours of a customer’s message can be free-form. We write, categorise and submit templates for approval." },
-    { question: "How much does the WhatsApp Business API cost?", answer: `Meta charges per delivered template message, with prices by category and country, and free non-template replies inside the 24-hour customer service window. That is billed to your Meta account. Our set-up work starts at ${P.ai} for onboarding, opt-in, templates and first flows, and ${P.software} for custom inboxes or deeper integrations, with care from ${P.care} after five free months.` },
+    { question: "How much does the WhatsApp Business API cost?", answer: `Meta charges per delivered template message, with prices by category and country, and free non-template replies inside the 24-hour customer service window. That is billed to your Meta account. Our set-up work starts at ${P.ai} for onboarding, opt-in, templates and first flows, and ${P.software} for custom inboxes or deeper integrations, with care from ${P.care} after two free months.` },
     { question: "Can a WhatsApp chatbot book appointments?", answer: "Yes. A guided bot can offer free slots from your booking system or calendar, confirm the booking, send a reminder template and handle rescheduling or cancellation, handing over to staff when a question falls outside the flow. For medical practices we design it so no health details are requested in the chat, and anything sensitive goes to a person." },
     { question: "Can customers check order status on WhatsApp?", answer: "Yes. The customer sends an order number, the bot looks it up in your shop or ERP and replies with status and tracking. We ask for a second detail, such as the postcode, before revealing anything, so a mistyped number does not expose another customer’s order. Shipping updates can also go out as utility templates to customers who opted in." },
     { question: "How long may I keep WhatsApp chats under the GDPR?", answer: "Under a WhatsApp Business API GDPR set-up, as long as the purpose requires and your legal obligations allow, which your lawyer helps you define; GDPR expects data not to be kept longer than necessary. We build automatic deletion for messages, media and logs after the periods you set, with longer periods only where chats belong to an order or contract record, and a routine for individual erasure requests." },
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Who owns the WhatsApp number and data?", answer: "You do. The Meta business account, WhatsApp Business account, phone number, hosting and code are registered to your company, and we work through access you can revoke. If you change developers, nothing needs to be transferred back from us. We never register numbers or business accounts in our own name." },
     { question: "Why work with a team in India on WhatsApp automation?", answer: "The WhatsApp Business Platform is entirely cloud-based, so remote set-up is normal. A small freelance team can often start sooner and costs less than many local options, while our hours overlap with German late mornings and afternoons. You keep all accounts in your name, and your German-language texts are written or approved by your own team." },
     { question: "How do payments and contracts work?", answer: "You receive an itemised quote in USD and approve it in writing before any billing. Payment is in USD or EUR through Wise or bank wire, with invoices issued from India; your accountant advises on VAT treatment. Scope and changes are recorded in the quote, and our published terms cover general conditions. We are happy to sign your NDA first." },
-    { question: "What happens after the WhatsApp set-up goes live?", answer: `Maintenance is free for five months after launch: template adjustments, fixes and updates when Meta changes its API. After that, care starts at ${P.care}. Anything beyond that, such as specific response commitments, is agreed in your written quote. We also recommend a short review with your data protection officer after the first months of real use.` },
+    { question: "What happens after the WhatsApp set-up goes live?", answer: `Maintenance is free for two months after launch: template adjustments, fixes and updates when Meta changes its API. After that, care starts at ${P.care}. Anything beyond that, such as specific response commitments, is agreed in your written quote. We also recommend a short review with your data protection officer after the first months of real use.` },
     { question: "Can I connect WhatsApp to an AI assistant?", answer: `Yes, but treat it as a separate step with its own data questions: which model, where it runs, what it may see and what it stores. We often start with guided flows and add AI only for well-defined questions, with human handover. AI automation starts at ${P.ai}; our GDPR-compliant AI chatbot page covers the details.` },
   ],
   related: {

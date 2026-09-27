@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Web app or portal from", `${P.software}`],
     ["Quote", "Line by line, in about 2 working days"],
     ["Store accounts", "Registered in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering app, backend and cloud" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free maintenance after release" },
+    { value: "2", label: "Months of free maintenance after release" },
     { value: "7", label: "Days a week on WhatsApp for questions" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "AI feature added to an app", value: `From ${P.ai}` },
       { label: "Biggest cost drivers", value: "Screens, user roles, backend, integrations" },
       { label: "Recurring bills", value: "Store fees, hosting, SMS/OTP, APIs, upkeep" },
-      { label: "Maintenance", value: `5 months free, then from ${P.care}` },
+      { label: "Maintenance", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Booking and appointment app", note: "Slots, reminders, cancellations and staff calendars for salons, clinics, tutors and service businesses.", href: "/booking-app-developer/", size: "md" },
       { name: "Installable web app first", note: "A progressive web app costs less than a store app and installs from the browser. A sound first step when budget is tight.", href: "/progressive-web-app-developer/", size: "sm" },
       { name: "AI inside the app", note: `Chat support, photo or document reading, smart search. From ${P.ai}, plus the API usage you pay each month.`, href: "/freelance-ai-developer/", size: "sm" },
-      { name: "App upkeep", note: `Yearly OS updates, store policy changes and bug fixes. Five months free after launch, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "App upkeep", note: `Yearly OS updates, store policy changes and bug fixes. Two months free after launch, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Design", "Often a template", "Dedicated design team", "Screen designs included, custom where it matters"],
       ["Testing on budget phones", "Rarely stated", "Formal QA team", "Tested on older, low-RAM Android devices"],
       ["Store publishing", "May use their own account", "Handled, account ownership varies", "Always in your Play Console and App Store Connect"],
-      ["Post-launch cost", "Paid per fix", "Annual maintenance contract", `5 months free, then from ${P.care}`],
+      ["Post-launch cost", "Paid per fix", "Annual maintenance contract", `2 months free, then from ${P.care}`],
       ["Team ceiling", "One person", "Many parallel squads", "Three people; not built for 20-developer projects"],
     ],
     fine: "For a very large app with many parallel teams, heavy compliance audits or on-site staff, a bigger vendor may justify its higher price; for most first versions it is more team than you need.",
@@ -170,7 +170,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The build invoice is a one-time cost; running an app is a recurring one. A fair estimate lists both, and we always do.`,
         `Store accounts come first. Google Play charges a one-time registration fee of US$25, and the Apple Developer Program costs US$99 a year; both are paid by you directly, into accounts in your name. Then come servers and databases, which may be close to free at launch and grow with users. OTP login usually means paying an SMS provider per message. Maps, AI APIs and the WhatsApp Business Platform are billed on usage. Payment providers take a fee per transaction.`,
-        `Finally there is upkeep. Apple and Google release new OS versions every year and periodically raise their minimum requirements, so an app that is never updated will eventually be blocked from receiving updates in the store. Budget for maintenance from day one. Ours is free for five months after launch and then starts at ${P.care}.`,
+        `Finally there is upkeep. Apple and Google release new OS versions every year and periodically raise their minimum requirements, so an app that is never updated will eventually be blocked from receiving updates in the store. Budget for maintenance from day one. Ours is free for two months after launch and then starts at ${P.care}.`,
       ],
     },
     {
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example, not a real client, to show how an estimate is built.`,
         `A salon chain with three branches wants customers to book services, choose a stylist and pay online, and wants staff to see the day’s bookings. The brief lists two user types (customer and staff), one admin, UPI and card payment, OTP login, push reminders and a Hindi option.`,
-        `We would quote a cross-platform app starting at ${P.app}, with lines for the booking flow, stylist availability, payment, reminders, the staff view, the admin panel with daily and monthly reports, Hindi translations and store publishing. Loyalty points and gift cards would be listed as optional phase-two lines. Running costs listed separately: store fees, a managed backend, SMS for OTP and payment fees. Delivery in about eight weeks, with test builds on both platforms from the fourth week, followed by five months of free maintenance.`,
+        `We would quote a cross-platform app starting at ${P.app}, with lines for the booking flow, stylist availability, payment, reminders, the staff view, the admin panel with daily and monthly reports, Hindi translations and store publishing. Loyalty points and gift cards would be listed as optional phase-two lines. Running costs listed separately: store fees, a managed backend, SMS for OTP and payment fees. Delivery in about eight weeks, with test builds on both platforms from the fourth week, followed by two months of free maintenance.`,
       ],
     },
     {
@@ -282,7 +282,7 @@ const content: FreelanceContent = {
       heading: "App banwane mein kitna kharcha aata hai? Seedha jawab",
       paragraphs: [
         `App ka kharcha teen cheezon par depend karta hai: kitni screens hain, Android aur iPhone dono chahiye ya sirf Android, aur backend kitna bada hai. Hamare saath Android aur iOS dono ke liye app ${P.app} se shuru hota hai aur pehla version 6–10 hafte mein ready hota hai.`,
-        `Build ke baad bhi kuch kharche aate hain: Play Store aur App Store account ki fees, server, OTP ke SMS aur maintenance. Yeh sab hum quote mein alag likhte hain. Launch ke baad 5 mahine maintenance free hai. Store accounts aapke naam par bante hain, taaki app hamesha aapka rahe.`,
+        `Build ke baad bhi kuch kharche aate hain: Play Store aur App Store account ki fees, server, OTP ke SMS aur maintenance. Yeh sab hum quote mein alag likhte hain. Launch ke baad 2 mahine maintenance free hai. Store accounts aapke naam par bante hain, taaki app hamesha aapka rahe.`,
       ],
     },
   ],
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
         ["Web store to pair with a shopping app", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "UPI and card checkout"],
         ["AI feature (chat, document reading)", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Plus monthly API usage"],
         ["Companion website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Landing pages, app links, policies"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, small changes"],
       ],
       hideSm: [2],
     },
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
         ["SMS for OTP", "Per message", "SMS provider", "Rate-limit to prevent abuse"],
         ["Maps, AI and WhatsApp APIs", "Per request or conversation", "Each provider", "Set usage alerts"],
         ["Payment processing", "Per transaction", "Payment provider", "Compare fees on UPI and cards"],
-        ["Maintenance", `5 months free, then from ${P.care}`, "Your developer", "Covers yearly OS changes"],
+        ["Maintenance", `2 months free, then from ${P.care}`, "Your developer", "Covers yearly OS changes"],
       ],
       hideSm: [3],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Receive the itemised estimate", "In about two working days you get build lines and a separate list of running costs. Remove or add lines and we re-total. Nothing is billed before written approval."],
       ["Set up accounts in your name", "Google Play, Apple developer, cloud and repository accounts are created under your business, with us added as users."],
       ["Build with test releases", "You install test builds through Play internal testing and TestFlight, review on your own phone and send feedback in one consolidated list."],
-      ["Publish and maintain", "We prepare store listings, submit for review and hand over. Five months of maintenance are free, then from " + P.care + " a month if you choose."],
+      ["Publish and maintain", "We prepare store listings, submit for review and hand over. Two months of maintenance are free, then from " + P.care + " a month if you choose."],
     ],
   },
   faqHeading: "App development cost in India: frequently asked questions",
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
     { question: "Is it cheaper to build only an Android app?", answer: "Slightly, but less than people expect when using a cross-platform framework, because one codebase already covers both. Building only Android saves the Apple developer fee and some iOS testing and review time. If most of your customers use Android, launching there first and adding iOS later is a reasonable way to spread cost." },
     { question: "Flutter or native: which is cheaper for app development?", answer: "Flutter or React Native is cheaper for most business apps, because one codebase serves Android and iOS, and maintenance stays single as well. Native apps in Kotlin and Swift make sense for heavy device-specific features, advanced media processing or complex background work. For shopping, booking, learning and service apps, cross-platform is usually the better value." },
     { question: "What are the hidden costs of app development?", answer: "The usual ones are store fees (Google Play one-time registration, Apple yearly membership), servers and databases, SMS for OTP login, usage charges for maps, AI or WhatsApp APIs, payment processing fees, and yearly maintenance for new OS versions. A fair quote lists these separately from the build. BtechWaleTech always includes this list with the estimate." },
-    { question: "How much does app maintenance cost per year in India?", answer: `Maintenance covers OS updates, store policy changes, bug fixes and small improvements. BtechWaleTech includes five months of free maintenance after launch; after that it starts at ${P.care} a month. The amount of work depends on how often you want changes and how many third-party services the app relies on.` },
+    { question: "How much does app maintenance cost per year in India?", answer: `Maintenance covers OS updates, store policy changes, bug fixes and small improvements. BtechWaleTech includes two months of free maintenance after launch; after that it starts at ${P.care} a month. The amount of work depends on how often you want changes and how many third-party services the app relies on.` },
     { question: "How long does it take to build an app?", answer: "A first version of a typical business app takes 6–10 weeks with BtechWaleTech. Simple apps sit at the shorter end; apps with several user types, payments and an admin panel take longer. Store review adds a few days. Clear content, one decision-maker and fast feedback on test builds keep the schedule on track." },
     { question: "Why do app development quotes vary so much in India?", answer: "Because each quote often describes a different app. One may assume a template design and no admin panel, another a custom backend, reports and months of support. To compare fairly, send the same written brief to everyone, ask for line-by-line estimates, and check what each one leaves out, including store account ownership and post-launch support." },
     { question: "Do I need a backend for my app?", answer: "If the app stores orders, bookings, users or anything that must be shared between devices, yes. A managed backend keeps early costs down for simple rules. A custom backend in Node.js or Python suits complex pricing, approvals, reports and integrations. We recommend one or the other after seeing your brief, and price it as a visible line." },
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Is a progressive web app cheaper than a store app?", answer: "Usually, yes. A progressive web app installs from the browser, needs no store review and shares code with your website. It suits catalogues, bookings and internal tools. It has less access to some device features and no store listing, so if discovery on Google Play matters, a store app is still worth the extra cost." },
     { question: "Does adding AI to an app cost a lot?", answer: `Adding a focused AI feature, such as a support chat or reading photos of documents, starts at ${P.ai} with BtechWaleTech. The bigger long-term cost is usage: each AI request is billed by the provider. We add limits and caching so the monthly bill stays predictable as your user numbers grow.` },
     { question: "Does GST apply to app development in India?", answer: "Software development is a taxable service in India, and GST applies when the developer is registered. When comparing quotes, ask each developer whether their figure includes GST, so you are comparing like with like. For any tax treatment specific to your business, your accountant is the right person to confirm the details." },
-    { question: "App banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iOS dono ke liye app ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Login, payment, tracking aur admin panel jaise features se kharcha badhta hai. Store fees, server aur SMS jaise monthly kharche quote mein alag likhe jaate hain. Launch ke baad 5 mahine maintenance free hai.` },
+    { question: "App banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iOS dono ke liye app ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Login, payment, tracking aur admin panel jaise features se kharcha badhta hai. Store fees, server aur SMS jaise monthly kharche quote mein alag likhe jaate hain. Launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can I get a fixed total before the app is built?", answer: "You get an itemised estimate that lists every screen group, the backend, the admin panel, integrations, testing and publishing, and that approved scope is what you pay for. Every price we publish is a starting price; if you add features during the build, each addition is quoted as a new line before any work on it begins." },
     { question: "Will an app built in India work for customers abroad?", answer: `Yes. Apps are built to store standards and can be published in any country Google Play and the App Store support. BtechWaleTech works with overseas clients in USD, with apps from ${P.appUsd}, overlaps working hours for calls and shares test builds so you can review on your own devices wherever you are.` },
   ],
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a real app development cost for your idea",
-    note: `Describe your app on WhatsApp. We ask a few scoping questions, then send an itemised estimate in about two working days, with Android and iOS apps from ${P.app}, running costs listed separately, store accounts in your name and five months of free maintenance.`,
+    note: `Describe your app on WhatsApp. We ask a few scoping questions, then send an itemised estimate in about two working days, with Android and iOS apps from ${P.app}, running costs listed separately, store accounts in your name and two months of free maintenance.`,
   },
 };
 

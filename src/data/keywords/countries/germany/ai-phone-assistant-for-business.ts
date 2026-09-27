@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Languages on the line", "German first, English as an option"],
     ["Audio recording", "Off by default, only with caller consent"],
     ["Who owns the number", "You; calls are forwarded from your line"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week reachable on WhatsApp" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "CRM and ticket handoff", note: "Every call written into your CRM or helpdesk as a structured note, so nothing lives only in a transcript nobody reads.", href: "/germany/custom-crm-development/", size: "md" },
       { name: "WhatsApp follow-up", note: "A caller who wants to send photos of a leaking pipe gets a WhatsApp link after the call, on the official Business Platform.", href: "/germany/whatsapp-business-api-gdpr/", size: "sm" },
       { name: "Workflow glue", note: "n8n or small serverless functions connect the assistant to tools that have an API but no ready integration.", href: "/germany/n8n-automation-agency/", size: "sm" },
-      { name: "Care and tuning", note: `Scripts, prompts and voice settings adjusted as callers surprise you. Five months free, then care from ${P.care}.`, size: "sm" },
+      { name: "Care and tuning", note: `Scripts, prompts and voice settings adjusted as callers surprise you. Two months free, then care from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Assistant plus CRM or job tool", "Everything above plus lookups and writes to your business software", P.ai, "3–4 weeks"],
         ["Multi-flow or bilingual line", "Several call types, German and English, separate handoffs", P.ai, "4+ weeks, quoted per flow"],
         ["Custom dashboard and reporting", "Call analytics, review screens, user roles", P.software, "6–12 weeks"],
-        ["Care after the free period", "Script tuning, provider updates, monitoring", P.care, "Monthly, after 5 free months"],
+        ["Care after the free period", "Script tuning, provider updates, monitoring", P.care, "Monthly, after 2 free months"],
       ],
     },
     {
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get the scope, providers, regions, timeline, a running-cost estimate at your volume and the build price in USD. Nothing is billed before you approve."],
       ["Build in your accounts", "Telephony, speech, model and voice are set up under your company, the integration is connected and the AI disclosure greeting goes in before any other feature."],
       ["Scenario testing", "We run the agreed test calls, your staff call in their own words, and every failed scenario is fixed and retested until the pass rules are met."],
-      ["Soft launch and care", "The assistant starts on overflow or after-hours calls, summaries are reviewed daily at first, and five months of free care begin, with plans from " + P.care + " afterwards."],
+      ["Soft launch and care", "The assistant starts on overflow or after-hours calls, summaries are reviewed daily at first, and two months of free care begin, with plans from " + P.care + " afterwards."],
     ],
   },
   faqHeading: "AI phone assistant for small business: questions from Germany",
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
     { question: "Who owns the assistant after launch?", answer: "You own the AI phone assistant for small business we build. The telephony, speech, model and hosting accounts are in your company's name, the orchestration code and scripts sit in your repository, and you receive a written handover. Another developer, or your own IT support, can take over without asking us for anything." },
     { question: "How are payments handled?", answer: "You get an itemised quote in USD within about two working days and approve it in writing before anything is billed. We invoice from India in USD or EUR, paid by Wise or bank wire on the milestones in the quote. Provider running costs are billed to you directly. Contract terms are set in the written quote; see our terms page for the general conditions." },
     { question: "Can the assistant speak English as well as German?", answer: "Yes. It can greet in German and switch to English when the caller does, which suits practices in university cities and firms with international customers. Each extra language needs its own script review and test scenarios, so it is quoted as an additional flow. You approve all German and English texts before launch." },
-    { question: "What maintenance does an AI phone assistant need?", answer: `An AI phone assistant for small business is never finished: callers will ask things nobody expected, providers update models and voices, and your opening hours change. Scripts, instructions and handoff rules need occasional tuning. The first five months after launch are covered free; after that, care starts from ${P.care}, or your own IT support takes over with the handover guide.` },
+    { question: "What maintenance does an AI phone assistant need?", answer: `An AI phone assistant for small business is never finished: callers will ask things nobody expected, providers update models and voices, and your opening hours change. Scripts, instructions and handoff rules need occasional tuning. The first two months after launch are covered free; after that, care starts from ${P.care}, or your own IT support takes over with the handover guide.` },
     { question: "Can the assistant take payments over the phone?", answer: "We do not build card capture into voice assistants. Taking card details by voice raises security and compliance duties that a small business rarely needs. Instead, the assistant can send a payment or booking link by SMS or email after the call, so the customer pays through a checkout designed for it." },
   ],
   related: {

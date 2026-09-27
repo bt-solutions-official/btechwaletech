@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: build, security and SEO, project management" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Publicity rules", value: "Part 5 of the PCR 2015; Law Society practice directions" },
       { label: "Key pages", value: "Divorce and family, conveyancing, corporate, lawyer profiles" },
       { label: "Intake", value: "Short secure form, conflict-check fields, no case narrative required" },
-      { label: "After launch", value: `Five months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `Two months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
         `With our freelance team, a law practice website starts from ${P.site} for up to 100 pages and takes one to two weeks. Larger practices with many practice areas and a guide library start from ${P.seoSite}, and a client portal or structured intake system from ${P.software}.`,
         `What drives the cost is mostly content and review time. A boutique with three practice areas and four lawyers needs far fewer pages than a full-service practice with fifteen areas and forty profiles. Legal guides take time to draft well. Partner review cycles can stretch timelines, so we plan them into the schedule instead of treating them as a surprise.`,
         `Quotes from other designers vary widely. When comparing, ask whether the quote includes drafting practice-area pages or only laying out text you provide, whether the enquiry form stores data on the web server or sends it to your systems, who owns the domain and hosting, and what ongoing fees apply. Our itemised quote answers each of those, arrives in about two working days, and nothing is billed before you approve it in writing.`,
-        `After launch, maintenance is free for five months, then care plans start from ${P.care}. Legal sites need regular security updates more than most, because they hold sensitive enquiries. Ongoing SEO, with new guides and practice-area improvements each month, starts from ${P.seo}. See all <a href='/pricing/'>starting prices</a>.`,
+        `After launch, maintenance is free for two months, then care plans start from ${P.care}. Legal sites need regular security updates more than most, because they hold sensitive enquiries. Ongoing SEO, with new guides and practice-area improvements each month, starts from ${P.seo}. See all <a href='/pricing/'>starting prices</a>.`,
       ],
     },
     {
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["Client document portal with access logs", P.software, "6–12 weeks"],
         ["Enquiry triage and reply automation", P.ai, "2–4 weeks"],
         ["Monthly SEO with new legal guides", P.seo, "Ongoing"],
-        ["Maintenance after the free five months", P.care, "Ongoing"],
+        ["Maintenance after the free two months", P.care, "Ongoing"],
       ],
     },
   ],
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Drafts on a private preview", "We draft practice-area pages, profiles and guides in plain factual language, flagging any sentence that needs partner confirmation."],
       ["Partner review", "Your partners check every page against the publicity rules and correct legal detail. We revise until they approve, with a set review date."],
       ["Intake and data flows", "The secure form is connected to your inbox or system, privacy notice placed, retention set, and a data-flow note prepared for your DPO."],
-      ["Launch and handover", "The site goes live on your domain, you receive logins and a recorded editing guide, and maintenance is free for five months."],
+      ["Launch and handover", "The site goes live on your domain, you receive logins and a recorded editing guide, and maintenance is free for two months."],
     ],
   },
   faqHeading: "Law firm website design in Singapore: questions practices ask",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Who owns the law firm website?", answer: "Your practice does. The domain, hosting, source code, analytics, Search Console and Google Business Profile are set up in your practice's name from the start. We hand over all logins and a recorded editing guide at launch, so you can change developers at any time without losing anything." },
     { question: "How do we pay a freelance team in India?", answer: "Quotes are in USD and invoices come from India. Payment is by Wise, bank wire or PayPal. You approve the itemised quote in writing before anything is billed, and payment milestones are set out there. Our terms and refund policy pages explain the general approach." },
     { question: "Can you build a client portal for document uploads?", answer: `Yes. A client portal where clients log in to upload documents, see matter updates and receive secure messages is custom software from ${P.software}. It includes access control, encryption and access logs, hosted in your practice's own cloud account. Many practices start with the website and add a portal once enquiry volume justifies it.` },
-    { question: "What maintenance does a law firm website need?", answer: `Security updates, backups, uptime monitoring, new lawyer profiles, practice-area edits and occasional guide updates when law or procedure changes. Maintenance is free for five months after launch; after that, care plans start from ${P.care}. Ask what your plan covers and it is written into your quote.` },
+    { question: "What maintenance does a law firm website need?", answer: `Security updates, backups, uptime monitoring, new lawyer profiles, practice-area edits and occasional guide updates when law or procedure changes. Maintenance is free for two months after launch; after that, care plans start from ${P.care}. Ask what your plan covers and it is written into your quote.` },
   ],
   related: {
     heading: "Related Singapore pages",

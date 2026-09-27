@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks"],
     ["Payments", "FASTag, UPI, cards and cash"],
     ["Hardware", "Bought by you, integrated by us"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support it" },
@@ -231,7 +231,7 @@ const content: FreelanceContent = {
       heading: "Parking management system cost in India, and what the hardware adds",
       paragraphs: [
         `A parking management system from BtechWaleTech starts at ${P.software} for gate software with ANPR integration, tariffs, UPI and cash collection, passes and a dashboard. A standalone valet or attendant app starts at ${P.app}. Hardware is a separate budget quoted by your vendor.`,
-        `Running costs include hosting or an on-site server, payment gateway charges, any FASTag charges agreed with your acquirer bank, WhatsApp message charges and the apps’ store fees if you publish them: Google Play charges a one-time US$25 developer registration fee and the Apple Developer Program costs US$99 a year. After five months of free maintenance, support plans start at ${P.care} a month.`,
+        `Running costs include hosting or an on-site server, payment gateway charges, any FASTag charges agreed with your acquirer bank, WhatsApp message charges and the apps’ store fees if you publish them: Google Play charges a one-time US$25 developer registration fee and the Apple Developer Program costs US$99 a year. After two months of free maintenance, support plans start at ${P.care} a month.`,
       ],
       list: [
         `Gate software, tariff engine, passes and dashboard: from ${P.software}`,
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Line up hardware and banks", "You order devices and start gateway and FASTag acquirer onboarding while we design screens and study the vendors’ interface documents."],
       ["Integrate against test units", "We connect the software to a test camera and barrier on the network, then run simulated entries, exits and payment failures every week."],
       ["Supervised go-live", "Launch on a weekday morning with QR fallback at each gate and your vendor’s technician on site, while we monitor transactions remotely."],
-      ["Handover and support", "You get code, hosting or server access, admin logins and a supervisor guide, followed by five months of free maintenance."],
+      ["Handover and support", "You get code, hosting or server access, admin logins and a supervisor guide, followed by two months of free maintenance."],
     ],
   },
   faqHeading: "Parking management system: frequently asked questions",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Who owns the parking software and data?", answer: "You do. The source code is handed over at launch, the database sits in your cloud account or your own server, and admin logins are in your name. There is no revenue share or per-vehicle fee to us. If you change developers later, the new team can continue from the same code and documentation." },
     { question: "How are plate numbers and photos protected?", answer: "Attendants see only their gate, phone numbers are masked in the valet app, plate photos are deleted after a retention period you choose, and every search is logged. India’s DPDP Act, 2023 applies to digital personal data such as phone numbers and vehicle records, so your lawyer should confirm notices and retention for your site." },
     { question: "Can visitors get a receipt on WhatsApp?", answer: "Yes. Using the official WhatsApp Business API, the system can send receipts after exit, pass renewal reminders and valet tickets. Meta charges for business messages under its own pricing, which is a small running cost separate from the build. Visitors who prefer SMS or a printed receipt can still get one." },
-    { question: "What support do we get after go-live?", answer: `Five months of free maintenance follow launch, covering bug fixes, updates and small changes. After that, support plans start at ${P.care} a month, and new modules or sites are quoted separately. Your written quote records the exact support terms, and our terms and refund policy pages set out the general conditions.` },
+    { question: "What support do we get after go-live?", answer: `Two months of free maintenance follow launch, covering bug fixes, updates and small changes. After that, support plans start at ${P.care} a month, and new modules or sites are quoted separately. Your written quote records the exact support terms, and our terms and refund policy pages set out the general conditions.` },
     { question: "How do we pay for the project?", answer: "Payments follow the milestones in your approved quote. Operators in India pay by UPI or bank transfer and receive GST invoices where applicable. Clients abroad pay in USD by Wise, bank wire or PayPal. Work begins only after you approve the itemised estimate in writing, and nothing is billed before that." },
     { question: "Parking app banwana hai, hardware bhi aap doge?", answer: `Nahi, hardware aap apne vendor se lenge: ANPR camera, boom barrier aur FASTag reader. Hum software banate hain aur un devices ko jodte hain. Gate software, tariff, UPI, passes aur dashboard ${P.software} se shuru hota hai, valet ya attendant app ${P.app} se. WhatsApp par gate ki photo aur rate board bhejiye.` },
   ],

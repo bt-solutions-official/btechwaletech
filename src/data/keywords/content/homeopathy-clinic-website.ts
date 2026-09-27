@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Condition-page SEO site", `From ${P.seoSite}, 3–5 weeks`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Domain, hosting and code in the clinic's name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and maintain your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Booking and intake portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "WhatsApp reminders", value: `AI and WhatsApp automation from ${P.ai}` },
       { label: "Languages", value: "English and Hindi; regional pages with your approved copy" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp follow-up reminders", note: "Automatic reminders for the next review date, medicine refill, and missed follow-ups, sent through the WhatsApp Business API with opt-in recorded.", href: "/whatsapp-business-api-integration/", size: "md" },
       { name: "Doctor profile and credentials", note: "Qualification, registration number, years of study you choose to share, and your consulting approach written in your own words.", size: "sm" },
       { name: "Local SEO for the home branch", note: "Google Business Profile links, clinic schema and a map page so the walk-in trade keeps growing while online consults expand.", href: "/local-seo-expert/", size: "sm" },
-      { name: "Upkeep and small changes", note: `Fee changes, new condition pages and holiday closures handled after launch; 5 months free, then from ${P.care}.`, size: "sm" },
+      { name: "Upkeep and small changes", note: `Fee changes, new condition pages and holiday closures handled after launch; 2 months free, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A static homeopathy clinic website launches in 1–2 weeks; the SEO version with condition pages takes 3–5 weeks, and a booking-plus-dispatch portal 6–12 weeks. The doctor's time is needed mostly in week one and for page approvals.`,
         `Week one is discovery: a call to walk through your paper case sheet, fee structure, consultation types and courier routine, followed by a sitemap and itemised quote. Once approved, we design the home page and booking screens first, because those decide conversions. Then come the doctor profile, fee page and the first condition pages. Payment and WhatsApp templates are set up in parallel, since Meta template approval can take a little time.`,
-        `Before launch we run test bookings with real small payments, test the case form on low-end Android phones, and check the site in Google Search Console. After launch you get 5 months of free maintenance for fixes and small changes.`,
+        `Before launch we run test bookings with real small payments, test the case form on low-end Android phones, and check the site in Google Search Console. After launch you get 2 months of free maintenance for fixes and small changes.`,
       ],
       list: [
         "Week 1: discovery call, sitemap, quote approval",
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
         ["Condition-page SEO site", "299+ pages across conditions, cities and FAQs with schema", `${P.seoSite}`, "3–5 weeks"],
         ["WhatsApp reminder add-on", "Review, refill and missed-visit reminders via the Business API", `${P.ai}`, "2–4 weeks"],
         ["Booking, intake and dispatch portal", "Paid slots, case-history form, patient login, dispatch dashboard", `${P.software}`, "6–12 weeks"],
-        ["Care after 5 free months", "Updates, fixes, small content changes", `${P.care}`, "Monthly"],
+        ["Care after 2 free months", "Updates, fixes, small content changes", `${P.care}`, "Monthly"],
       ],
     },
     {
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
       ["Booking screens first", "We design the consult booking and payment screens before anything else, test them on budget phones, and share a clickable preview for the doctor's feedback."],
       ["Pages and careful copy", "Doctor profile, fees, process and condition pages are drafted in cautious language, then approved line by line by the doctor before they go live."],
       ["Test with real payments", "We run real small payments, fill the case form end to end, trigger every WhatsApp template and check that uploads reach private storage only."],
-      ["Launch and handover", "The site goes live on hosting in your name, all logins are handed over, Search Console is connected, and five months of free maintenance begin."],
+      ["Launch and handover", "The site goes live on hosting in your name, all logins are handed over, Search Console is connected, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Homeopathy clinic website: questions doctors ask",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
     { question: "Can the site send WhatsApp reminders for follow-ups automatically?", answer: `Yes. Through the WhatsApp Business API, the site sends review reminders, refill nudges and missed-visit check-ins from your clinic's number, using templates Meta approves. The doctor sets intervals per patient. Messages never show diagnosis details in the preview. WhatsApp automation work starts at ${P.ai}, and Meta's messaging charges are billed separately to the clinic.` },
     { question: "Should I hire a freelancer or an agency for a homeopathy clinic website?", answer: "A small freelance team suits most clinics: you speak to the people building the site, pay fewer overheads, and changes happen quickly. An agency fits better if you need a large team, formal procurement or on-site staff. Whoever you choose, insist on your name on every account, an itemised quote and a test booking before launch." },
     { question: "Can the website be in Hindi or my regional language?", answer: "Yes. We build bilingual or multilingual versions with a language switch and separate URLs for search engines, and fonts that display Devanagari, Bengali, Tamil or other scripts correctly. You supply or approve the translated copy. Offering the case-history form in the patient's language often helps older patients complete it." },
-    { question: "What happens after launch if something breaks or I want changes?", answer: `The first five months of maintenance after launch are free: fixes, small text or fee changes and updates. After that, maintenance starts at ${P.care} per month, or you can hire anyone else because you hold all the code and logins. Larger additions like a new booking type are quoted separately.` },
+    { question: "What happens after launch if something breaks or I want changes?", answer: `The first two months of maintenance after launch are free: fixes, small text or fee changes and updates. After that, maintenance starts at ${P.care} per month, or you can hire anyone else because you hold all the code and logins. Larger additions like a new booking type are quoted separately.` },
     { question: "How do I pay for the website?", answer: "Clinics in India pay by UPI or bank transfer against the itemised quote you approved. Clinics or doctors abroad pay by Wise, bank wire or PayPal, quoted in USD. Nothing is billed before your written approval, and the payment schedule is set out in the quote itself. Details on cancellations are on our refund policy page." },
     { question: "Can international patients book with my homeopathy clinic?", answer: "Yes. Slots can display in the patient's local time while your dashboard stays in IST, and patients abroad can pay by card. Medicine dispatch overseas depends on courier and customs rules, which the clinic must check; many clinics offer consultation only for international patients and advise local sourcing." },
     { question: "Can you move my existing homeopathy website without losing Google traffic?", answer: "Yes. We list every existing URL, rebuild the site, and set permanent redirects from old addresses to the new ones so search engines pass on existing signals. We also keep page titles for pages that already get traffic. A redesign is quoted like any other project, with the migration steps listed separately." },

@@ -42,12 +42,12 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering build, cloud and project management" },
     { value: "2", label: "Working days from brief to itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
     heading: "How can a UK SME commission bespoke software without paying software-house day rates?",
-    text: `Keep the scope tight, pay by milestone and own everything. BtechWaleTech, three freelance developers in India, handles bespoke software development for UK SMEs from ${P.software}: a short discovery, then fixed-scope milestones you approve one at a time. Code sits in your repository, the app runs in your AWS London account, and ongoing care starts from ${P.care} after five free months.`,
+    text: `Keep the scope tight, pay by milestone and own everything. BtechWaleTech, three freelance developers in India, handles bespoke software development for UK SMEs from ${P.software}: a short discovery, then fixed-scope milestones you approve one at a time. Code sits in your repository, the app runs in your AWS London account, and ongoing care starts from ${P.care} after two free months.`,
     more: `If you are weighing a single tool rather than a whole system, the <a href='/uk/bespoke-crm-development/'>bespoke CRM page</a> and the <a href='/uk/xero-integration-developer/'>Xero integration service</a> cover two narrower projects that often make a sensible first step.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Contract", value: "Written quote plus IP assignment; governing law agreed in writing" },
       { label: "Personal data", value: "Processor terms and a transfer safeguard such as the IDTA" },
       { label: "Hosting", value: "AWS Europe (London) region, billed to you" },
-      { label: "After go-live", value: `5 months free, then care from ${P.care}` },
+      { label: "After go-live", value: `2 months free, then care from ${P.care}` },
     ],
   },
   services: {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       heading: "What does support look like across UK and India time zones?",
       paragraphs: [
         `India is 4.5 hours ahead of the UK during British Summer Time and 5.5 hours ahead in winter, so your working morning overlaps our afternoon and early evening. Issues raised before lunch in the UK can usually be looked at the same working day.`,
-        `After go-live, new systems get five months of free maintenance covering fixes to our own work. After that, a care plan starts from ${P.care} and covers updates, monitoring and small changes. Response expectations, what counts as urgent and how requests are logged are written into your quote rather than promised on a web page, because they depend on how critical the system is to your business.`,
+        `After go-live, new systems get two months of free maintenance covering fixes to our own work. After that, a care plan starts from ${P.care} and covers updates, monitoring and small changes. Response expectations, what counts as urgent and how requests are logged are written into your quote rather than promised on a web page, because they depend on how critical the system is to your business.`,
         `Monitoring does a lot of the work. Error alerts, uptime checks and database backups are set up at launch, so problems often surface before your staff notice. Maintenance done in the Indian morning happens before the UK wakes up, which suits planned updates.`,
         `If you need a person on call through the UK night or at weekends for a system that cannot stop, a small team in another time zone is not the right fit for that particular requirement. We would rather tell you now.`,
       ],
@@ -407,12 +407,12 @@ const content: FreelanceContent = {
       ["Discovery and scope", "Short video calls in the UK morning, a shared scope document, and outline screens you can click through before any production code is written."],
       ["Milestone builds", "Each milestone lands on a staging copy you log into. You test it against the scope, raise changes in writing, and approve before the next begins."],
       ["Data migration and go-live", "Old spreadsheets are cleaned and imported, staff get a short walkthrough, and the system goes live in your AWS London account at a quiet time you choose."],
-      ["Handover and care", "You receive documentation, the access list and licence list. Five months of free maintenance follow, then an optional care plan."],
+      ["Handover and care", "You receive documentation, the access list and licence list. Two months of free maintenance follow, then an optional care plan."],
     ],
   },
   faqHeading: "Bespoke software development UK: questions buyers ask",
   faqs: [
-    { question: "How much does bespoke software development cost in the UK?", answer: `It depends on user roles, business rules, integrations and data migration, so quotes vary widely between suppliers. With BtechWaleTech, a first release of bespoke software starts at ${P.software}, AI features start at ${P.ai}, and care after five free months starts at ${P.care}. You get an itemised quote in about two working days, so you can compare it line by line with others.` },
+    { question: "How much does bespoke software development cost in the UK?", answer: `It depends on user roles, business rules, integrations and data migration, so quotes vary widely between suppliers. With BtechWaleTech, a first release of bespoke software starts at ${P.software}, AI features start at ${P.ai}, and care after two free months starts at ${P.care}. You get an itemised quote in about two working days, so you can compare it line by line with others.` },
     { question: "How long does it take to build bespoke software?", answer: "A focused first release usually takes six to twelve weeks with our team, split into milestones you approve one at a time. Small integration services can take two to six weeks. The biggest time risks are unclear business rules and messy historical data, which is why discovery comes first and data cleaning is planned rather than left to the end." },
     { question: "Is bespoke software better than off-the-shelf software?", answer: "Not always. Off-the-shelf products are the better choice for standard processes such as accounting or payroll. Bespoke software is worth it when your process is a competitive advantage, you pay for several tools stitched together, or per-user licences keep rising as you hire. Many UK SMEs end up with both, joined by integrations." },
     { question: "Who owns the source code of bespoke software in the UK?", answer: "By default, the creator. UK government guidance says the first owner of copyright in a commissioned work is its creator unless otherwise agreed in writing. That is why our agreement assigns the copyright in your bespoke code to your business, and the repository sits in your own account from the start. Have your lawyer review the wording." },
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
     { question: "Can you work with our existing UK IT support provider?", answer: "Yes. Many SMEs keep a UK managed service provider for laptops, Microsoft 365 and networks while we build the application. We agree who manages which accounts, share documentation, and can use Microsoft 365 single sign-on so their user management also controls access to the new system." },
     { question: "What happens if you stop working on our software?", answer: "Because the code is in your repository, the hosting is in your account and the handover pack documents both, another developer can take over. We use mainstream technology such as TypeScript, Python and PostgreSQL specifically so that any competent UK or overseas developer can pick it up without a rewrite." },
     { question: "How do UK and India working hours overlap?", answer: "India is 4.5 hours ahead of the UK in summer and 5.5 hours ahead in winter. Your morning overlaps our afternoon and early evening, which is when calls happen. WhatsApp messages are answered seven days a week, and planned maintenance can run in our morning, before the UK working day starts." },
-    { question: "Do you offer an SLA for bespoke software support?", answer: `Support terms depend on how critical the system is, so they are agreed in your written quote rather than promised generically. New systems include five months of free maintenance for fixes to our work, then a care plan from ${P.care}. If you need round-the-clock on-call cover, a local provider may suit that requirement better.` },
+    { question: "Do you offer an SLA for bespoke software support?", answer: `Support terms depend on how critical the system is, so they are agreed in your written quote rather than promised generically. New systems include two months of free maintenance for fixes to our work, then a care plan from ${P.care}. If you need round-the-clock on-call cover, a local provider may suit that requirement better.` },
     { question: "Can you add AI features to bespoke software?", answer: `Yes, where they save real time: reading supplier invoices or delivery notes, sorting incoming email, drafting replies for staff to check, or summarising long records. AI steps start from ${P.ai}. We keep a person in the loop for decisions, log what the AI did, and assess what personal data the model will see.` },
     { question: "Will you sign an NDA before we share details?", answer: "Confidentiality terms are agreed in writing before you share anything sensitive; ask us and we will look at your NDA. For the first conversation, a general description of the process and anonymised screenshots are usually enough for us to judge fit and give an estimate without seeing confidential data." },
     { question: "How do I pay a software developer in India from the UK?", answer: "Invoices are in USD and payable from a GBP account through Wise, bank wire or PayPal. Each payment matches a milestone in the written quote you approved, and nothing is billed before that approval. Your cloud hosting is paid by you directly to AWS or Azure, never through us, so you always control it." },

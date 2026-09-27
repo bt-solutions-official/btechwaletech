@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Consulting before build", "Hindi-first tools", "Android & iOS from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT consulting and IT solutions across Uttar Pradesh as a remote freelance group of three engineers, not an IT services team. Websites start from ₹10,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
+    "BtechWaleTech offers IT consulting and IT solutions across Uttar Pradesh as a remote freelance group of three engineers, not an IT services team. Websites start from ₹10,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with two months of free maintenance.",
   snapshot: [
     { label: "Capital and major cities", value: "Lucknow is the capital; Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Prayagraj, Noida, Aligarh and Moradabad are major centres" },
     { label: "Craft and export clusters", value: "Moradabad brassware, Bhadohi carpets, Firozabad glass, Aligarh locks, Saharanpur wood carving, Kannauj attar and Varanasi Banarasi silk" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "Hindi and English AI agents on WhatsApp that answer buyers and customers, collect orders and details, send reminders and hand tricky cases to staff.",
     data: "Owner dashboards built from Tally, spreadsheets and our apps, showing orders, receivables, production and dispatch across units and branches.",
     app: "Android and iOS apps for UP dealers, karigars, field staff, students and customers, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then optional plans from ₹8,000 a month, with WhatsApp replies seven days a week.",
+    maintenance: "Two months of free maintenance after launch, then optional plans from ₹8,000 a month, with WhatsApp replies seven days a week.",
   },
   whyUsIntro:
     "Many UP owners have been burned by software that looked impressive in a demo and failed on the factory floor. We work differently: three engineers who study your process first, speak Hindi, price every feature separately and hand you ownership of everything.",
@@ -83,7 +83,7 @@ const content: CityContent = {
       paragraphs: [
         "Choose a freelance IT group when your project is clearly scoped, budget-sensitive and you want to speak directly with the engineers; choose an IT solutions team when you need many developers, on-site staff or formal enterprise processes. Most UP MSME projects fall into the first category.",
         "If you are comparing IT companies in Uttar Pradesh, you will find large firms in Noida and Lucknow and many small local vendors in every city. Both can be good. Test them the same way: ask for live examples you can use yourself, ask who will write the code, request an itemised quote, and confirm in writing that the domain, hosting, app store accounts and source code will be registered to you.",
-        "BtechWaleTech is a small freelance team of three engineers. We work remotely and do not visit factories or offices. We take a limited number of projects so each gets attention from the people who designed it. In return you get direct answers on WhatsApp, published starting prices and five months of free maintenance after launch.",
+        "BtechWaleTech is a small freelance team of three engineers. We work remotely and do not visit factories or offices. We take a limited number of projects so each gets attention from the people who designed it. In return you get direct answers on WhatsApp, published starting prices and two months of free maintenance after launch.",
       ],
     },
     {
@@ -187,7 +187,7 @@ const content: CityContent = {
       id: "up-it-solutions-cost",
       heading: "How much do IT solutions cost in Uttar Pradesh?",
       paragraphs: [
-        "IT solutions in Uttar Pradesh with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Uttar Pradesh with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after two free months.",
         "These are starting prices. The final figure depends on the number of screens and user roles, integrations with Tally or other systems, offline requirements, language versions, data migration and content writing. After a free consulting call, you receive an itemised quote in about two working days and can move features into later phases.",
         "Clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Payments are split into milestones: an advance, a payment on approving the working preview, and the balance at launch. See all plans on our <a href='/pricing/'>pricing page</a> and previous work in the <a href='/portfolio/'>portfolio</a>.",
       ],
@@ -197,7 +197,7 @@ const content: CityContent = {
       heading: "How we work with Uttar Pradesh clients remotely, from kickoff to support",
       paragraphs: [
         "We work with Uttar Pradesh clients entirely remotely, using video calls, screen shares, WhatsApp and a live preview link, and support continues the same way after launch. We have no office in Lucknow, Noida or anywhere in the state, and we do not make site visits.",
-        "Every project follows the same sequence: free consultation, itemised quote, milestone plan, a working preview in the first week, weekly progress updates, testing with your actual users, launch on hosting in your name and recorded training videos in Hindi or English. Five months of maintenance are then included free, covering fixes, updates, backups and checks.",
+        "Every project follows the same sequence: free consultation, itemised quote, milestone plan, a working preview in the first week, weekly progress updates, testing with your actual users, launch on hosting in your name and recorded training videos in Hindi or English. Two months of maintenance are then included free, covering fixes, updates, backups and checks.",
         "Remote delivery works equally for a Gorakhpur trader and a Noida startup. You only need WhatsApp and someone who can share files or screenshots. For hardware, networks and CCTV, keep a trusted local technician. Read about our team on the <a href='/about/'>about page</a>, see the capital's details on our <a href='/india/uttar-pradesh/lucknow/'>Lucknow page</a>, or explore other states from the <a href='/india/'>India hub</a>.",
       ],
     },
@@ -280,7 +280,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance?",
       answer:
-        "Five months of maintenance are free once hosting goes live: bug fixes, content changes, security updates, backups, and uptime and speed checks. Afterwards, plans start from ₹8,000 per month or you can pay per change. We reply on WhatsApp seven days a week; hardware and networks need a local technician.",
+        "Two months of maintenance are free once hosting goes live: bug fixes, content changes, security updates, backups, and uptime and speed checks. Afterwards, plans start from ₹8,000 per month or you can pay per change. We reply on WhatsApp seven days a week; hardware and networks need a local technician.",
     },
     {
       question: "Do you work with businesses in small UP towns?",

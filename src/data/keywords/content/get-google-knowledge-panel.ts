@@ -338,7 +338,7 @@ const content: FreelanceContent = {
         ["Little coverage", "Entity foundations plus earning mentions", `${P.seo}/month (${P.seoUsd})`, "Many months; may not happen"],
         ["Company plus founders", "Linked Organization and Person entities", `${P.seo}/month`, "Several months"],
         ["Brand site rebuild", "Larger site with author and team pages", `${P.seoSite}`, "3–5 weeks to launch"],
-        ["After launch care", "Updates, fixes after free period", `${P.care}`, "After 5 free months"],
+        ["After launch care", "Updates, fixes after free period", `${P.care}`, "After 2 free months"],
       ],
     },
   ],

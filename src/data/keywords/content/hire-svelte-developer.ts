@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Current major version", "Svelte 5 with runes, released October 2024"],
     ["Website from", `${P.site} · ${P.siteUsd}`],
     ["Web app from", `${P.software} · ${P.softwareUsd}`],
-    ["After launch", `5 months free upkeep, then from ${P.care}`],
+    ["After launch", `2 months free upkeep, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who share your SvelteKit codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace fees between you and the developers" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "SEO website at scale", note: `Hundreds of prerendered service or location pages from structured data. From ${P.seoSite}.`, href: "/seo-website-developer/", size: "md" },
       { name: "Svelte 4 to Svelte 5 upgrade", note: "Move older components to runes gradually, fix deprecations and update SvelteKit and adapters.", size: "sm" },
       { name: "Embeddable widgets", note: "Booking, calculator or chat widgets compiled small enough to drop into any existing site.", size: "sm" },
-      { name: "Ongoing Svelte upkeep", note: `Dependency updates, fixes and small features after five free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing Svelte upkeep", note: `Dependency updates, fixes and small features after two free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Svelte developer pricing for common projects",
-    note: `The framework does not change the price much; scope does. A SvelteKit marketing site of up to 100 pages starts from ${P.site} and usually takes one to two weeks. A 299+ page SEO site starts from ${P.seoSite}. Anything with logins, roles, dashboards or integrations is a web app, starting from ${P.software} over six to twelve weeks. We quote per project with every feature itemised, not per hour, so you know the cost before approving. Upkeep is free for five months after launch, then starts from ${P.care}.`,
+    note: `The framework does not change the price much; scope does. A SvelteKit marketing site of up to 100 pages starts from ${P.site} and usually takes one to two weeks. A 299+ page SEO site starts from ${P.seoSite}. Anything with logins, roles, dashboards or integrations is a web app, starting from ${P.software} over six to twelve weeks. We quote per project with every feature itemised, not per hour, so you know the cost before approving. Upkeep is free for two months after launch, then starts from ${P.care}.`,
   },
   guideLabel: "Hiring a Svelte developer: a buyer's guide",
   guide: [
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
         `The maintenance risks are a smaller component ecosystem, fewer developers to call in an emergency, and framework changes such as the move to runes. All three are manageable with sensible project habits.`,
         `On ecosystem: React has a ready-made package for almost everything; Svelte has good options for common needs, but sometimes a developer builds a component that React would have downloaded. That is more upfront work and more code to own. We counter it by keeping custom components small and documented, and by using framework-agnostic libraries, such as plain JavaScript charting or date libraries, where possible, since Svelte works well with them.`,
         `On people: insist on a repository in your own account, TypeScript, a README and at least smoke tests for key flows. Then any competent JavaScript developer can take over. On framework changes: update dependencies regularly rather than letting them rot for two years. Small, frequent updates are cheap; one giant catch-up is not, as many teams facing a <a href='/vue-2-to-vue-3-migration/'>Vue 2 to Vue 3 migration</a> have discovered.`,
-        `Every build we launch includes five months of free maintenance, after which upkeep starts from ${P.care}. That covers exactly this kind of steady dependency care.`,
+        `Every build we launch includes two months of free maintenance, after which upkeep starts from ${P.care}. That covers exactly this kind of steady dependency care.`,
       ],
     },
     {
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
         { heading: "SEO website", text: `299+ generated service or location pages with schema and sitemaps: from ${P.seoSite}, three to five weeks.` },
         { heading: "Web app or portal", text: `Logins, roles, dashboards, integrations: from ${P.software} (${P.softwareUsd}), six to twelve weeks.` },
         { heading: "AI features", text: `A document-answering assistant or automated workflow added to a SvelteKit app: from ${P.ai}.` },
-        { heading: "Upkeep", text: `Free for five months after launch, then from ${P.care}.` },
+        { heading: "Upkeep", text: `Free for two months after launch, then from ${P.care}.` },
       ],
       after: [
         `Every quote is itemised and sent in about two working days. Nothing is billed until you approve it in writing. See <a href='/pricing/'>our pricing page</a> for all starting prices.`,
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
         ["Store front end", `${P.shop}`, "4–8 weeks", "Catalogue, cart, UPI and card checkout"],
         ["Web app or portal", `${P.software}`, "6–12 weeks", "Auth, roles, dashboards, form actions, API"],
         ["AI assistant or automation", `${P.ai}`, "2–4 weeks", "Document answers, workflow triggers"],
-        ["Maintenance after 5 free months", `${P.care}`, "Ongoing", "Dependency updates, fixes, small features"],
+        ["Maintenance after 2 free months", `${P.care}`, "Ongoing", "Dependency updates, fixes, small features"],
       ],
       hideSm: [3],
     },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Repository and hosting in your name", "We create or join a repository and cloud account you own, and add ourselves as collaborators. Nothing is billed before written approval."],
       ["Build in visible steps", "SvelteKit routes, components and server logic appear on a staging link you can click through, with feedback rounds agreed in the quote."],
       ["Speed, SEO and form testing", "Core Web Vitals on a mid-range Android, forms tested with JavaScript off, schema, sitemap and Search Console set up before launch."],
-      ["Launch and handover", "Domain connected, README and walkthrough delivered, and five months of free maintenance start. Paid upkeep afterwards is optional."],
+      ["Launch and handover", "Domain connected, README and walkthrough delivered, and two months of free maintenance start. Paid upkeep afterwards is optional."],
     ],
   },
   faqHeading: "Hiring a Svelte developer: frequently asked questions",
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
     { question: "Svelte developer chahiye, kaise hire karein?", answer: "Pehle dekhiye ki project ke liye Svelte sahi hai ya nahi: chhoti team, fast site aur mobile app ka plan nahi hai toh Svelte achha hai. Developer se live SvelteKit site maangiye, Svelte 5 runes ke baare mein poochiye aur chhota paid task dijiye. Hum WhatsApp par requirement dekh kar do working days mein quote bhejte hain." },
     { question: "How long does a SvelteKit project take?", answer: "A marketing website of up to 100 pages usually takes one to two weeks once content and design direction are ready. A 299+ page SEO site takes three to five weeks, and a web app or portal six to twelve weeks depending on features, integrations and feedback rounds." },
     { question: "Do you work with clients outside India, and how do payments work?", answer: "Yes. Clients in India pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Payment milestones are set out in the written quote, and nothing is billed before you approve it. Our terms and refund policy pages cover the general conditions." },
-    { question: "What maintenance do Svelte projects need after launch?", answer: `Mainly regular dependency updates for Svelte, SvelteKit and libraries, plus bug fixes and small features. Small, frequent updates prevent painful catch-ups later. Every project gets five months of free maintenance after launch; after that, upkeep starts from ${P.care}, with scope written into your quote.` },
+    { question: "What maintenance do Svelte projects need after launch?", answer: `Mainly regular dependency updates for Svelte, SvelteKit and libraries, plus bug fixes and small features. Small, frequent updates prevent painful catch-ups later. Every project gets two months of free maintenance after launch; after that, upkeep starts from ${P.care}, with scope written into your quote.` },
   ],
   related: {
     heading: "Related frameworks and hiring pages",

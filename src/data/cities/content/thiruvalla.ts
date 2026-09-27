@@ -57,7 +57,7 @@ const thiruvalla: CityContent = {
     ai: "Malayalam and English WhatsApp assistants that answer OPD timing, fee, course and site-visit questions around the clock, when many callers are in a different time zone.",
     data: "Dashboards of patient enquiries by source, admissions by district, rent collection by property and sales by branch.",
     app: "Android and iOS apps for a hospital's appointment and report access, or a college's notices to students and parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Thiruvalla clients are well read, often well travelled, and quick to notice sloppy work. They compare us with firms in Kochi and with nephews in Dubai who know a bit of code. We answer that with written scope, published starting prices, WhatsApp replies every day of the week and accounts registered in your own name.",
@@ -178,7 +178,7 @@ const thiruvalla: CityContent = {
       heading: "Ownership and maintenance for Thiruvalla websites and apps",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered with your email, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written sheet of every login. For families where the owner lives abroad, we can register accounts to the owner and give a local manager limited access.",
-        "Maintenance is free for the first five months after launch. In that time we update doctor lists, fees and prices, take backups, apply security and software updates, and test forms, checkout and WhatsApp links. After five months, you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without needing our permission.",
+        "Maintenance is free for the first two months after launch. In that time we update doctor lists, fees and prices, take backups, apply security and software updates, and test forms, checkout and WhatsApp links. After two months, you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without needing our permission.",
         "Apps need attention each year even when nothing is broken, because Google and Apple raise their minimum requirements. We watch those deadlines and prepare updates in advance, so your app is not removed from the store for being out of date. Our <a href=\"/services/web-development/\">web development page</a> explains how we keep sites fast and secure after launch.",
       ],
     },
@@ -270,7 +270,7 @@ const thiruvalla: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: we handle updates to doctors, fees and prices, backups, security patches and routine checks of forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. Since the code and accounts are in your name, moving elsewhere needs no permission from us.",
+        "The first two months after launch are free: we handle updates to doctors, fees and prices, backups, security patches and routine checks of forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. Since the code and accounts are in your name, moving elsewhere needs no permission from us.",
     },
     {
       question: "Do you work with businesses in Changanassery, Chengannur and Mallappally too?",

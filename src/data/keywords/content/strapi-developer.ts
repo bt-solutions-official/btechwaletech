@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Hosting", "Your VPS or cloud account, your name"],
     ["Databases", "PostgreSQL, MySQL, MariaDB or SQLite"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your Strapi codebase" },
     { value: "4", label: "Database engines Strapi officially supports" },
     { value: "0", label: "Licence fee for Strapi Community Edition" },
-    { value: "5", label: "Months of free care once you go live" },
+    { value: "2", label: "Months of free care once you go live" },
   ],
   answer: {
     heading: "What does a Strapi developer do, and how much does one cost in India?",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Front end options", value: "Next.js, Astro, Nuxt, Flutter or React Native apps" },
       { label: "Where it runs", value: "A VPS or cloud account registered to you" },
       { label: "Ownership", value: "Repository, database, server and admin in your name" },
-      { label: "Care", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should own the Git repository, the server or cloud account, the database, the media storage bucket, the domain and every admin login. A Strapi developer who keeps any of these under their own account holds your content hostage, even if they never mean to.`,
         `We create or use accounts in your name from the first week. Code lives in a repository you own, with us as collaborators. At handover you get a short runbook: how to deploy, how to restore a backup, where environment variables live, which plugins are installed and why, and what to check before the next major upgrade. Editors get a one-page guide to the content types written in plain language.`,
-        `For five months after launch, maintenance is free: dependency updates, small fixes and questions from editors. After that, care continues from ${P.care} a month only if you want it; many teams switch to an as-needed arrangement once the site settles. Details beyond that are agreed in your written quote and our <a href='/terms/'>terms</a>.`,
+        `For two months after launch, maintenance is free: dependency updates, small fixes and questions from editors. After that, care continues from ${P.care} a month only if you want it; many teams switch to an as-needed arrangement once the site settles. Details beyond that are agreed in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
         ["Strapi back end for app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Collections, auth, custom endpoints, hosting"],
         ["Mobile app on a Strapi API", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Flutter or React Native app reading Strapi"],
         ["Automation on Strapi webhooks", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "WhatsApp alerts, AI summaries, sync to other tools"],
-        ["Ongoing care", `From ${P.care}/month`, `From ${P.careUsd}/month`, "After 5 free months", "Dependency updates, backups, small changes"],
+        ["Ongoing care", `From ${P.care}/month`, `From ${P.careUsd}/month`, "After 2 free months", "Dependency updates, backups, small changes"],
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Accounts and repository in your name", "You create or approve the cloud account, domain and Git repository in your name; we join as collaborators with the access we need."],
       ["Build model, permissions and API", "We build content types, roles, custom endpoints and hosting on staging, and test the API as a visitor, a user and a server."],
       ["Connect the front end and load content", "The website or app reads from Strapi, editors add or import content, and we tune caching, previews and SEO fields."],
-      ["Go live, hand over, stay on call", "We launch, deliver the runbook and editor guide, and cover updates and fixes free for five months after go-live."],
+      ["Go live, hand over, stay on call", "We launch, deliver the runbook and editor guide, and cover updates and fixes free for two months after go-live."],
     ],
   },
   faqHeading: "Strapi developer: questions teams ask before hiring",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Strapi or Sanity: which is better?", answer: "Neither is better in general. Strapi suits teams who want to self-host, keep content in their own database and customise the back end in Node.js. Sanity suits teams who prefer a hosted content store with real-time collaborative editing and no server to maintain, and who are comfortable with plan-based pricing above a free tier. The choice depends on ops appetite and data rules." },
     { question: "Can you migrate my WordPress content into Strapi?", answer: "Yes. We export posts, pages, categories and media from WordPress, map them to Strapi content types, import them with a script, and move images to object storage. The new front end keeps URLs where possible and uses 301 redirects where they change, so search rankings and bookmarks carry over. We test the import on staging before touching production." },
     { question: "How do I pay for Strapi development?", answer: "Clients in India pay by UPI or bank transfer, and international clients pay by Wise, bank wire or PayPal with quotes in USD. The itemised quote lists payment milestones, and nothing is billed before you approve it in writing. Our terms and refund policy pages explain how changes in scope are handled during the project." },
-    { question: "What maintenance does a Strapi site need?", answer: `Regular dependency and security updates, Node.js upgrades within supported LTS releases, database and media backups with occasional restore tests, and planning for Strapi major versions. We handle this free for five months after launch. After that, maintenance starts at ${P.care} a month if you want it, and you can also run it in-house using our runbook.` },
+    { question: "What maintenance does a Strapi site need?", answer: `Regular dependency and security updates, Node.js upgrades within supported LTS releases, database and media backups with occasional restore tests, and planning for Strapi major versions. We handle this free for two months after launch. After that, maintenance starts at ${P.care} a month if you want it, and you can also run it in-house using our runbook.` },
     { question: "Can your team work with our in-house developers on Strapi?", answer: "Yes. Many teams only need help with one piece, such as a hosting move, a v5 upgrade, a custom plugin or a permissions review. We work in your repository under your processes, open pull requests for review, and document what we change. Tell us your stack and workflow in the brief and we will scope just that part." },
     { question: "Strapi developer chahiye, kaise shuru karein?", answer: `WhatsApp par batayiye ki aap kaunsa content manage karte hain, kaun edit karega aur kaunsi website ya app use padhegi. Lagbhag 2 working days mein content model ka draft aur itemised quote mil jaayega. Strapi par content website ${P.seoSite} se shuru hoti hai, aur server, code aur data sab aapke naam par rehta hai.` },
   ],

@@ -35,7 +35,7 @@ const shimla: CityContent = {
     pills: ["Sites from ₹10,000", "Direct booking pages", "Orchard and produce stores", "Hindi and English content", "WhatsApp booking replies"],
   },
   quickAnswer:
-    "A website for a Shimla business starts at ₹10,000 with us and usually takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp booking automation at ₹40,000. We are a remote team with no Shimla office, and maintenance is free for five months after launch.",
+    "A website for a Shimla business starts at ₹10,000 with us and usually takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp booking automation at ₹40,000. We are a remote team with no Shimla office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Status", value: "Capital of Himachal Pradesh; declared summer capital of British India in 1864" },
     { label: "Altitude", value: "Spread along a ridge above 2,000 m, with Jakhu, the highest point, at about 2,454 m" },
@@ -52,7 +52,7 @@ const shimla: CityContent = {
     ai: "WhatsApp replies in Hindi and English for room rates, snow updates, taxi fares and availability, answered through the night.",
     data: "Season-wise occupancy, booking source and sales figures on a phone dashboard for hotel and orchard owners.",
     app: "Android and iOS apps for guest check-in, driver schedules, school notices or apple dispatch, published on both app stores from ₹40,000.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Shimla hoteliers and shopkeepers often pay Chandigarh or Delhi agencies for websites that look good but take few direct bookings, or rely entirely on portals that keep a share of every room. We are three remote engineers who publish starting prices, reply every day and keep your domain in your name.",
@@ -177,7 +177,7 @@ const shimla: CityContent = {
       paragraphs: [
         "Several Shimla hotels have lost their websites because a former manager or a one-time designer held the domain and hosting logins, then left. When renewal failed, the site disappeared in the middle of the season along with its search visibility.",
         "We register the domain and hosting in your name from the beginning. At launch you receive every login, the full source code and a short written note on how things are set up. If you later want someone else to manage it, you simply hand over access. There is no exit fee and no lock-in.",
-        "Maintenance is free for five months after launch: tariff and text updates, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you contact us only when needed. The <a href=\"/services/web-development/\">web development page</a> shows what every build includes.",
+        "Maintenance is free for two months after launch: tariff and text updates, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you contact us only when needed. The <a href=\"/services/web-development/\">web development page</a> shows what every build includes.",
       ],
     },
   ],
@@ -264,7 +264,7 @@ const shimla: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle tariff and text updates, fixes, security patches, backups, uptime and speed checks at no charge. After that you can continue from ₹8,000 a month, or contact us only when you need changes.",
+        "For two months after launch we handle tariff and text updates, fixes, security patches, backups, uptime and speed checks at no charge. After that you can continue from ₹8,000 a month, or contact us only when you need changes.",
     },
     {
       question: "Do you work in Solan, Kufri, Theog, Narkanda and other nearby places?",

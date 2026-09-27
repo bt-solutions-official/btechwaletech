@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Rice mill and trade software", "Weaver group tools", "Automation from ₹40,000", "Apps from ₹40,000", "Service pages from ₹10,000"],
   },
   quickAnswer:
-    "For IT solutions in Sambalpur, BtechWaleTech is a freelance group of three engineers, not a software development team: service websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom software for mills, weavers or contractors from ₹60,000 (6 to 12 weeks). We work remotely, with five months of free maintenance.",
+    "For IT solutions in Sambalpur, BtechWaleTech is a freelance group of three engineers, not a software development team: service websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom software for mills, weavers or contractors from ₹60,000 (6 to 12 weeks). We work remotely, with two months of free maintenance.",
   snapshot: [
     { label: "Regional role", value: "The commercial and administrative centre of western Odisha, headquarters of Sambalpur district and of a railway division" },
     { label: "Hirakud", value: "Hirakud Dam on the Mahanadi, one of the world's longest earthen dams, with its reservoir, canals and irrigated farmland" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI helpers that read documents, answer routine enquiries and draft replies, with Sambalpuri or Odia customer text checked by staff before use.",
     data: "Dashboards for millers, cooperatives and multi-outlet sellers showing stock, orders, payments and dues across Sambalpur and Bargarh.",
     app: "Android and iOS apps from ₹40,000 for Sambalpur weaver groups, mill agents, hostels and clinics, built in Flutter or React Native for Google Play and the App Store.",
-    maintenance: "Remote upkeep with updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote upkeep with updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Western Odisha businesses often feel that good software is built for Bhubaneswar and priced for it. We do not see a difference: a rice mill in Sambalpur deserves the same careful build, published starting prices and full ownership handover as any firm in the capital.",
@@ -199,7 +199,7 @@ const content: CityContent = {
       id: "hosting-maintenance-sambalpur",
       heading: "Hosting, maintenance and support after launch",
       paragraphs: [
-        "After launch, BtechWaleTech keeps your system hosted, secure and up to date: managed cloud hosting, SSL, backups, uptime monitoring, security updates, bug fixes and small changes. The first five months of maintenance are free once hosting is live; afterwards, plans start from ₹8,000 a month, or you can contact us only when needed.",
+        "After launch, BtechWaleTech keeps your system hosted, secure and up to date: managed cloud hosting, SSL, backups, uptime monitoring, security updates, bug fixes and small changes. The first two months of maintenance are free once hosting is live; afterwards, plans start from ₹8,000 a month, or you can contact us only when needed.",
         "Hosting, domains and accounts are registered in your name wherever possible, with a handover document listing every login and renewal date. We reply on WhatsApp seven days a week, and the engineers who built the system do the fixes. Hardware and office networks remain the job of a local technician.",
         "If your current site is on unreliable hosting or the domain is registered to someone else, moving it to proper hosting is a quick, low-cost first step.",
       ],
@@ -226,9 +226,9 @@ const content: CityContent = {
       "id": "monthly-costs-after-launch-sambalpur",
       "heading": "What will a Sambalpur business pay each month after its software goes live?",
       "paragraphs": [
-        "After a Sambalpur website, app or mill system goes live, the monthly and yearly costs are hosting, the domain renewal, messaging charges, app store accounts if you publish an app, and maintenance once the five free months end. For a small shop these are modest; for a rice mill running stock, dispatch and dues software they should be planned like any other overhead.",
+        "After a Sambalpur website, app or mill system goes live, the monthly and yearly costs are hosting, the domain renewal, messaging charges, app store accounts if you publish an app, and maintenance once the two free months end. For a small shop these are modest; for a rice mill running stock, dispatch and dues software they should be planned like any other overhead.",
         "Hosting is the main recurring bill and grows with use. A handloom seller on Golebazar with a catalogue site pays little, while a miller in the Budharaja or Ainthapali area whose staff log every truck and bag needs a proper database server with daily backups. If you send dues reminders on WhatsApp, Meta charges per conversation at its published rates. Publishing on Google Play involves a one-time registration, and the Apple App Store charges a yearly developer fee. Online orders carry the gateway's own transaction fee.",
-        "For our part, five months of maintenance come free after launch. Then you can choose a plan from ₹8,000 a month or call us only when a change is needed. The quote shows each running item, who bills it and when it renews, and every account is opened in your name so the bills reach you directly rather than through us."
+        "For our part, two months of maintenance come free after launch. Then you can choose a plan from ₹8,000 a month or call us only when a change is needed. The quote shows each running item, who bills it and when it renews, and every account is opened in your name so the bills reach you directly rather than through us."
       ]
     },
     {
@@ -325,7 +325,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "Five months after hosting goes live: updates, backups, security checks, uptime monitoring, bug fixes and small content changes. After that, plans start from ₹8,000 a month, or you can request work only when needed.",
+        "Two months after hosting goes live: updates, backups, security checks, uptime monitoring, bug fixes and small content changes. After that, plans start from ₹8,000 a month, or you can request work only when needed.",
     },
     {
       question: "Can you connect the software with Tally?",
@@ -340,7 +340,7 @@ const content: CityContent = {
     {
       question: "Do you handle hosting and deployment?",
       answer:
-        "Yes. We set up hosting, the domain, SSL, email records, backups and monitoring, deploy the system and train your staff. Everything is documented, and the five months of free maintenance start when hosting goes live.",
+        "Yes. We set up hosting, the domain, SSL, email records, backups and monitoring, deploy the system and train your staff. Everything is documented, and the two months of free maintenance start when hosting goes live.",
     },
     { question: "Can a Sambalpur app work in Odia?", answer: "Yes. We build interfaces in Odia, English or both, using fonts that display correctly on common Android phones and iPhones. Product names, notifications and forms can all be in Odia. We suggest someone on your team checks the final Odia wording, since translation quality depends on local usage." },
   ],

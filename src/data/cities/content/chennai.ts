@@ -7,7 +7,7 @@ const chennai: CityContent = {
   meta: {
     title: "IT Services in Chennai: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and AI automation for Chennai businesses. Sites from ₹10,000, SEO sites from ₹20,000, with five months of free maintenance.",
+      "Websites, local SEO, online stores and AI automation for Chennai businesses. Sites from ₹10,000, SEO sites from ₹20,000, with two months of free maintenance.",
     keywords: [
       "website development team in Chennai",
       "web design team Chennai",
@@ -31,11 +31,11 @@ const chennai: CityContent = {
     eyebrow: "Chennai · Tamil Nadu",
     h1: "Websites, search visibility and automation built for Chennai companies",
     lede:
-      "We are three engineers who design and build websites, online stores and workflow automation for Chennai hospitals, auto suppliers, T. Nagar retailers, OMR startups and Sowcarpet traders. Starting prices are public, you deal directly with the developers, and maintenance for the first five months after launch is free.",
+      "We are three engineers who design and build websites, online stores and workflow automation for Chennai hospitals, auto suppliers, T. Nagar retailers, OMR startups and Sowcarpet traders. Starting prices are public, you deal directly with the developers, and maintenance for the first two months after launch is free.",
     pills: ["Sites from ₹10,000", "Tamil and English SEO", "UPI-ready stores", "WhatsApp workflows", "Web apps and portals"],
   },
   quickAnswer:
-    "A business website for a Chennai company costs from ₹10,000 with us, and a 299+ page site planned for Google search starts at ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team, and every build comes with five months of free maintenance after launch.",
+    "A business website for a Chennai company costs from ₹10,000 with us, and a 299+ page site planned for Google search starts at ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team, and every build comes with two months of free maintenance after launch.",
   snapshot: [
     { label: "Commercial centres", value: "Anna Salai, Nungambakkam, T. Nagar, Parrys Corner, Guindy and Anna Nagar" },
     { label: "IT corridor", value: "Old Mahabalipuram Road from Perungudi to Siruseri SIPCOT IT Park, plus Tidel Park in Taramani" },
@@ -52,7 +52,7 @@ const chennai: CityContent = {
     ai: "AI assistants and WhatsApp flows that answer appointment, stock and admission questions in Tamil or English and hand the tricky ones to your staff.",
     data: "Sales, production and patient-volume data pulled from Excel, Tally or your HMS into dashboards that load on a phone.",
     app: "Android and iOS apps for clinic bookings, dealer orders and field teams covering Chennai and its suburbs, built in Flutter or React Native from ₹40,000.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Chennai has no shortage of web agencies, from polished studios on Nungambakkam High Road to solo developers listed on Justdial. What is rare is a team that publishes its prices, gives you the domain and hosting in your own name, and keeps answering messages after the invoice is paid. That is the gap we try to fill.",
@@ -182,11 +182,11 @@ const chennai: CityContent = {
     },
     {
       id: "ownership-maintenance-chennai",
-      heading: "You own everything, and the first five months of upkeep are on us",
+      heading: "You own everything, and the first two months of upkeep are on us",
       paragraphs: [
         "A surprising number of Chennai businesses cannot edit their own website. The developer who built it has moved on, the domain renewal emails go to an address nobody checks, and the hosting account belongs to someone else. When the SSL certificate lapses, browsers warn visitors away, and the business only finds out when a customer mentions it.",
         "We avoid that from day one. The domain is registered in your name, the hosting account is yours, and at launch you receive every login, the source code and a one-page note explaining what runs where. You are free to move to another developer at any time. There is no exit fee.",
-        "For five months after launch, maintenance is free: content changes, price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, ongoing maintenance is from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work alone.",
+        "For two months after launch, maintenance is free: content changes, price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, ongoing maintenance is from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work alone.",
       ],
     },
   ],
@@ -271,9 +271,9 @@ const chennai: CityContent = {
         "You do. The domain is registered in your name, the hosting account belongs to you, and you get every login plus the source code at launch. You can move to another developer whenever you like, with no exit fee or handover charge.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months after launch we handle updates, fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, you can continue maintenance from ₹8,000 a month or simply contact us when you need a change and pay only for that work.",
+        "During the first two months after launch we handle updates, fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, you can continue maintenance from ₹8,000 a month or simply contact us when you need a change and pay only for that work.",
     },
     {
       question: "Do you work with businesses in Kanchipuram, Tiruvallur and Chengalpattu?",

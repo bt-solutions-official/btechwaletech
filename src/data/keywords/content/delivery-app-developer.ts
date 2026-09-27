@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First version", "6–10 weeks for the app"],
     ["Platforms", "Android first; iOS from the same code"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering app, backend and data" },
     { value: "2", label: "Working days to a scoped estimate" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "6–10 weeks for a focused first version" },
       { label: "Running costs", value: "Maps, SMS OTP, server; paid by you to providers" },
       { label: "Ownership", value: "Store accounts, code and delivery data in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       heading: "Delivery app banwana hai? Pehle yeh samjhiye",
       paragraphs: [
         `Shuruaat customer app se nahi, rider app aur dispatch panel se kijiye. Isse pata chalega ki kaunsa rider kahan hai, kaunsi delivery fail hui aur kis rider ke paas kitna cash hai. Orders pehle ki tarah phone ya WhatsApp se aa sakte hain.`,
-        `App ${P.app} se shuru hota hai aur dispatch panel ${P.software} se. Maps, SMS aur server ka kharcha alag hota hai jo aap seedhe provider ko dete hain. Play Store account aur code aapke naam par rahega, aur launch ke baad 5 mahine support free hai.`,
+        `App ${P.app} se shuru hota hai aur dispatch panel ${P.software} se. Maps, SMS aur server ka kharcha alag hota hai jo aap seedhe provider ko dete hain. Play Store account aur code aapke naam par rahega, aur launch ke baad 2 mahine support free hai.`,
       ],
     },
   ],
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
         ["Weeks 2–6", "Rider app and panel built in batches", "Test weekly builds", "Working system on test data"],
         ["Pilot", "Two or three riders on real orders", "Run real deliveries, report issues", "Fix list from real use"],
         ["Final weeks", "Fixes, store listing, location declaration", "Store accounts, staff training time", "Live apps and trained dispatch staff"],
-        ["Next 5 months", "Fixes and small changes", "Message issues on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes and small changes", "Message issues on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
         ["Cloud server and database", "Orders, riders, location updates", "Right-size the server, archive old data"],
         ["Push notifications", "Messages per day at scale", "Send only status changes that matter"],
         ["Store fees", "Google one-time, Apple yearly", "Paid from your own accounts"],
-        ["Maintenance", `From ${P.care} after 5 free months`, "Optional; you can take the code anywhere"],
+        ["Maintenance", `From ${P.care} after 2 free months`, "Optional; you can take the code anywhere"],
       ],
     },
   ],
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You create Play Console, Apple Developer and cloud accounts under your business; we are invited with limited roles."],
       ["Weekly builds for riders", "Installable test builds reach your phone and a couple of riders’ phones every week, with the dispatch panel on a staging link."],
       ["Pilot on real orders", "Two or three riders use the system on live deliveries. We fix what breaks, then handle store listings and the background location declaration."],
-      ["Launch and support", "Code, keys and a handover guide are yours. Fixes and small changes are free for five months, then optional monthly care."],
+      ["Launch and support", "Code, keys and a handover guide are yours. Fixes and small changes are free for two months, then optional monthly care."],
     ],
   },
   faqHeading: "Delivery app developer: questions operators ask",
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "Who owns the delivery app and its data?", answer: "You should. BtechWaleTech publishes apps in your own Play Console and App Store accounts, runs the server in your cloud account and keeps the code in your repository. Customer and rider data belongs to your business, protected by staff roles and limited access." },
     { question: "Can you add route optimisation?", answer: "For small fleets we build practical dispatch aids: grouping orders by area, suggesting the nearest free rider and ordering stops by distance with manual adjustment. For larger fleets, a routing service can be connected by API, with its usage charges added to your running costs." },
     { question: "Do you provide delivery riders or run operations?", answer: "No. BtechWaleTech builds and maintains the software only. Hiring riders, vehicles, insurance and day-to-day operations stay with your business. We also do not build hardware such as vehicle trackers; the system uses riders’ smartphones." },
-    { question: "What support is included after launch?", answer: `Five months of free maintenance cover bug fixes, small changes and OS updates. After that, monthly support starts at ${P.care}, or you can hand the code to any other developer. Questions on WhatsApp are answered seven days a week in IST.` },
+    { question: "What support is included after launch?", answer: `Two months of free maintenance cover bug fixes, small changes and OS updates. After that, monthly support starts at ${P.care}, or you can hand the code to any other developer. Questions on WhatsApp are answered seven days a week in IST.` },
     { question: "How are payments made for the project?", answer: "Payments are staged against visible progress: an advance after approving the estimate, instalments as builds reach your phone, and the balance at launch. In India we take UPI or bank transfer; international clients pay by Wise, bank wire or PayPal." },
     { question: "Delivery app banwane mein kitna kharcha aur time lagta hai?", answer: `BtechWaleTech ke saath app ${P.app} se aur dispatch panel ${P.software} se shuru hota hai. Rider app aur panel aam taur par 6–10 hafte mein ban jaate hain, jismein kuch riders ke saath trial bhi hota hai. Maps, SMS aur server ka kharcha alag hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai.` },
   ],
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Running deliveries on phone calls and paper? Let us scope the fix",
-    note: `Send photos of your order sheet and a voice note about how riders work today. Within about two working days you will get a phased, itemised estimate, with apps from ${P.app}, dispatch panels from ${P.software}, everything in your name and five months of free support.`,
+    note: `Send photos of your order sheet and a voice note about how riders work today. Within about two working days you will get a phased, itemised estimate, with apps from ${P.app}, dispatch panels from ${P.software}, everything in your name and two months of free support.`,
   },
 };
 

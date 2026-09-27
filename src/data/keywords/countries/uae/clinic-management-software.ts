@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["E-claims", "eClaimLink (Dubai), Shafafiya (Abu Dhabi)"],
     ["Honest default", "Buy the certified core, build the gaps"],
     ["Hosting", "Your cloud account, UAE region if you choose"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers on your project, no hand-offs" },
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom clinic software work costs",
-    note: `Custom clinic software starts from ${P.software}: one module such as a package tracker, a multi-branch dashboard or an integration between your clinic system and accounting, built in six to twelve weeks. WhatsApp reminders and AI admin assistants start from ${P.ai}. A patient app on Android and iOS starts from ${P.app}. The subscription for your chosen clinic system is paid directly to that vendor and isn't part of our quote. Maintenance is free for five months after launch, then from ${P.care}. Every quote is itemised in USD after a call, and nothing is billed until you approve it in writing.`,
+    note: `Custom clinic software starts from ${P.software}: one module such as a package tracker, a multi-branch dashboard or an integration between your clinic system and accounting, built in six to twelve weeks. WhatsApp reminders and AI admin assistants start from ${P.ai}. A patient app on Android and iOS starts from ${P.app}. The subscription for your chosen clinic system is paid directly to that vendor and isn't part of our quote. Maintenance is free for two months after launch, then from ${P.care}. Every quote is itemised in USD after a call, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "Clinic management software UAE: a buyer's guide",
   guide: [
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does clinic management software in the UAE cost: SaaS subscription vs custom build?",
       paragraphs: [
-        `SaaS clinic systems charge a subscription, usually per user, doctor or branch, plus setup and training; vendors' quotes vary widely, so compare them over three to five years, not one month. Custom builds with us start from ${P.software} per module or integration layer, then maintenance from ${P.care} after five free months.`,
+        `SaaS clinic systems charge a subscription, usually per user, doctor or branch, plus setup and training; vendors' quotes vary widely, so compare them over three to five years, not one month. Custom builds with us start from ${P.software} per module or integration layer, then maintenance from ${P.care} after two free months.`,
         `The honest comparison for clinic management software in the UAE isn't subscription against build fee; it's total cost of running the clinic. A cheap subscription that leaves two staff reconciling claims by hand is expensive. A custom dashboard that saves an owner hours a week and catches rejected claims earlier can pay back quickly. A fully custom clinic system, including the claims engine, costs far more than a single module and carries ongoing maintenance of every payer format, which is why we rarely recommend it.`,
         `Cost drivers for custom work: number of systems to integrate and whether they have usable APIs, number of branches and user roles, Arabic interfaces, data volume in migration, reporting complexity, and hosting requirements. We price each driver separately in the quote, so you can drop items that don't earn their place.`,
       ],
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
       columns: ["Cost element", "SaaS clinic system", "Custom layer with us", "Fully custom system"],
       rows: [
         ["Upfront", "Setup and training fees", `From ${P.software} per module`, "Largest; many modules plus claims"],
-        ["Monthly", "Grows with users, doctors or branches", `Maintenance from ${P.care} after 5 free months`, "Hosting plus ongoing development"],
+        ["Monthly", "Grows with users, doctors or branches", `Maintenance from ${P.care} after 2 free months`, "Hosting plus ongoing development"],
         ["Regulator or payer changes", "Included in subscription", "Absorbed by your SaaS vendor", "Paid by you, every time"],
         ["Adding a branch", "Higher subscription tier", "Usually configuration only", "Configuration and testing"],
         ["Switching later", "Migration project", "Layer reconnects via API", "No vendor to leave, but you carry all upkeep"],
@@ -373,13 +373,13 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days: each module, integration and migration step priced separately in USD, with nothing billed before written approval."],
       ["Data map and API access", "We document every field we read or write, and obtain test API access from your vendor through your account."],
       ["Build with weekly demos", "Screens appear on a staging link each week using synthetic data. Your staff test them and we adjust."],
-      ["Go-live and aftercare", "Training by video, a rollback plan, then five months of free maintenance while your team settles in."],
+      ["Go-live and aftercare", "Training by video, a rollback plan, then two months of free maintenance while your team settles in."],
     ],
   },
   faqHeading: "Clinic management software UAE: frequently asked questions",
   faqs: [
     { question: "What is the best clinic management software in the UAE?", answer: "There's no single best system; the right one supports your regulator's e-claim platform and health exchange, handles Arabic and English, has a documented API and lets you export all your data. Test shortlisted vendors with a real week of your schedule. We don't resell any vendor, so our advice on clinic management software in the UAE isn't tied to a commission." },
-    { question: "How much does clinic management software cost in the UAE?", answer: `SaaS systems charge subscriptions that vary widely by vendor, users and branches, plus setup fees. Custom modules with BtechWaleTech, such as package tracking, dashboards or integrations, start from ${P.software}, with maintenance from ${P.care} after five free months. Compare total cost over several years, including staff time spent on workarounds.` },
+    { question: "How much does clinic management software cost in the UAE?", answer: `SaaS systems charge subscriptions that vary widely by vendor, users and branches, plus setup fees. Custom modules with BtechWaleTech, such as package tracking, dashboards or integrations, start from ${P.software}, with maintenance from ${P.care} after two free months. Compare total cost over several years, including staff time spent on workarounds.` },
     { question: "Should I build my own clinic management system?", answer: "Rarely in full. Building your own EMR and claims engine means maintaining every payer and regulator format change yourself. Most UAE clinics are better off buying a certified core and building custom tools around it where their workflows are unusual, such as aesthetic packages, group dashboards or bilingual messaging." },
     { question: "Can custom clinic software submit claims to eClaimLink?", answer: "Technically a system can be built to exchange claims with eClaimLink, but maintaining that is costly and risky for a single clinic. We recommend keeping claims in an established clinic system that already supports it, and we build tools around it, such as rejection dashboards and work queues, rather than replacing the claims engine." },
     { question: "What is Shafafiya and does my clinic software need it?", answer: "Shafafiya is the Department of Health Abu Dhabi's health data exchange framework, including standards and a secure platform where healthcare entities exchange claim data as XML files. DoH says entities must develop or procure software that can use its interface. If you operate in Abu Dhabi, your clinic system must support it." },
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "How do we pay and contract with you from the UAE?", answer: "Each project runs on a written, itemised USD quote and our published terms. Invoices come from India, payable by Wise or bank wire, on the schedule in your quote. Nothing is billed before you approve. If you need an NDA or particular contract terms, raise it at the quote stage and it's agreed in writing." },
     { question: "Does the software support UAE e-invoicing?", answer: "The Ministry of Finance is introducing structured e-invoicing through accredited service providers. Ask your clinic system vendor how their billing will support it. We can build integrations between billing and an accredited provider as custom work; your accountant should confirm what applies to your clinic." },
     { question: "Can clinic management software connect to our website booking?", answer: "If your clinic system exposes appointment availability through an API or a booking widget, your website can offer live booking. If not, the website can send structured booking requests to reception. Checking API availability should be part of choosing clinic management software in the UAE." },
-    { question: "What happens after the custom software goes live?", answer: `Maintenance is free for five months: bug fixes, small changes and updates when your vendor changes its API. After that, maintenance starts from ${P.care}. You can also bring the code to another developer at any time, since it lives in your repository.` },
+    { question: "What happens after the custom software goes live?", answer: `Maintenance is free for two months: bug fixes, small changes and updates when your vendor changes its API. After that, maintenance starts from ${P.care}. You can also bring the code to another developer at any time, since it lives in your repository.` },
     { question: "Can you add AI to our clinic software?", answer: `We build admin AI assistants that answer FAQs, collect booking requests and summarise operational reports, from ${P.ai}. We keep them away from diagnosis and clinical decisions, and they only access the data they need. Any use of AI with patient data should be reviewed by your counsel first.` },
     { question: "Do you provide hardware, on-site training or support at the clinic?", answer: "No. We work remotely: training runs over video with recordings for new staff, and support is by WhatsApp and email seven days a week. Hardware such as check-in tablets, printers and card readers comes from local suppliers; we build the software that runs on them." },
     { question: "What should I ask a clinic software vendor before signing?", answer: "Ask which e-claim platforms and health exchanges they support, whether there's a documented API, whether you can export all data including notes, how Arabic is handled, where data is hosted, how pricing changes as you grow, and how you'd leave. Get the answers in writing before you commit." },

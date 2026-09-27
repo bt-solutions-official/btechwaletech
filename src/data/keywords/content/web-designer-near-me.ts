@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["How you review", "Live staging link on your phone"],
     ["Google listing", "Website, hours and details kept consistent"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who design and build" },
     { value: "2", label: "Working days to receive an itemised quote" },
-    { value: "5", label: "Months of free changes and fixes after launch" },
+    { value: "2", label: "Months of free changes and fixes after launch" },
     { value: "0", label: "Platform or middleman fees on your payment" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Many local pages for SEO", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Map listing tie-in", value: "Website link, matching name, address and phone" },
       { label: "How you pay", value: "UPI or bank transfer, in stages" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Local SEO setup", note: `Titles, LocalBusiness schema, sitemap and Search Console at launch; ongoing local SEO from ${P.seo} if you want it.`, href: "/local-seo-expert/", size: "md" },
       { name: "Redesign of an old site", note: "Tired design, broken contact form or a builder you cannot leave? We redesign and keep your existing search traffic.", href: "/website-redesign-freelancer/", size: "sm" },
       { name: "Booking or enquiry forms", note: "Appointment requests, callback forms and quote forms that land in your email or WhatsApp.", href: "/booking-app-developer/", size: "sm" },
-      { name: "Upkeep", note: `Five free months of edits after launch, then optional care from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Upkeep", note: `Two free months of edits after launch, then optional care from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Moving away later", "Depends on handover", "Hard; pages stay on the platform", "Easy; you hold code and logins"],
       ["Speed on budget phones", "Varies", "Often heavy scripts", "Tested on low-end Android and mobile data"],
       ["Starting spend", "Quotes vary widely", "Monthly subscription", `From ${P.site}`],
-      ["After launch", "Call and hope", "Self-service", `5 months free, then from ${P.care}`],
+      ["After launch", "Call and hope", "Self-service", `2 months free, then from ${P.care}`],
       ["Photos of your premises", "May shoot them", "Stock photos", "You or a local photographer shoot; we edit and place"],
     ],
     fine: "If you want a designer who will walk your shop floor, photograph products and sit with you for an afternoon, a designer based in your own town is the better choice.",
@@ -168,7 +168,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Local quotes vary widely, and the gap is explained by what is included rather than by city. Some quotes cover design only, others include writing, domain, hosting, a year of edits or photography. Compare line by line before comparing totals.`,
         `With us, a brochure site of up to 100 pages starts at ${P.site} and usually takes one to two weeks. A site with hundreds of locality or service pages for search starts at ${P.seoSite}. If you want to sell products online with UPI and card checkout, that is an online store from ${P.shop}. Each is a starting price; your itemised quote shows exactly what moves it.`,
-        `Recurring costs are separate and belong to you: the domain renewal each year and hosting, both in your own name. After our five free months of maintenance, ongoing care is optional from ${P.care}. You can also make small text changes yourself if you prefer.`,
+        `Recurring costs are separate and belong to you: the domain renewal each year and hosting, both in your own name. After our two free months of maintenance, ongoing care is optional from ${P.care}. You can also make small text changes yourself if you prefer.`,
       ],
       after: [
         `For a fuller breakdown by project type, see <a href='/website-developer-cost/'>website developer cost</a> or the plan list on <a href='/pricing/'>pricing</a>.`,
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Agar aapki dukaan, clinic ya coaching ke liye website chahiye, to designer ka aapke shehar mein hona zaroori nahi hai. Photos aur details WhatsApp par bhej dijiye, hum ek live link par design dikhate hain, aap apne phone par dekh kar changes bata sakte hain.`,
         `Simple business website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par hi rehte hain. Website ko aapke Google Business Profile se bhi jod dete hain, taaki Maps par dikhne wala number, timing aur address website se match kare.`,
-        `Pehle itemised quote milta hai, approve karne ke baad hi payment hota hai, UPI ya bank transfer se. Launch ke baad 5 mahine tak chhote changes aur fixes free hain. Hum aapki dukaan par aa nahi sakte, lekin video call par sab samjha dete hain.`,
+        `Pehle itemised quote milta hai, approve karne ke baad hi payment hota hai, UPI ya bank transfer se. Launch ke baad 2 mahine tak chhote changes aur fixes free hain. Hum aapki dukaan par aa nahi sakte, lekin video call par sab samjha dete hain.`,
       ],
     },
     {
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       ["Review the home page on your phone", "We design the home page first and share a live link. You comment in one consolidated message and we adjust."],
       ["Fill the inner pages", "Services, gallery, reviews, questions and contact follow the approved style, with your photos compressed for mobile data."],
       ["Connect Maps and search", "We match your listing details, add schema and a map, verify Search Console and submit the sitemap before launch."],
-      ["Go live and settle in", "Your domain points to the new site, logins are handed over, and five months of free fixes and edits begin."],
+      ["Go live and settle in", "Your domain points to the new site, logins are handed over, and two months of free fixes and edits begin."],
     ],
   },
   faqHeading: "Web designer near me: common questions",
@@ -403,14 +403,14 @@ const content: FreelanceContent = {
     { question: "Who will own the domain and website after it is made?", answer: "You will. The domain and hosting are registered in your name and paid from your account, and you receive all logins and the source code at handover. That means you can switch designers later without losing your web address or your pages, which is the most important protection a small business can have." },
     { question: "Will a website help me get more customers from Google Maps?", answer: "It can help, because a site with matching details, local pages and structured data strengthens your listing. But Maps rankings also depend on distance, reviews, categories and competition. Nobody can guarantee a position. A good website mainly helps convert the people who find you, by showing prices, photos and a quick way to call." },
     { question: "What does a web designer near me need from me to start?", answer: "A short description of your business, your services and price ranges, opening hours, address, phone, any logo, and photos of your premises, team and work. A voice note is fine for the description. Links to two or three sites you like help us understand your taste. That is enough to prepare a page plan and quote." },
-    { question: "Can I update the website myself later?", answer: "Yes, if you want to. For owners who plan frequent changes we can build on a system with a simple editor. For others, we make edits during the five free months after launch and after that through optional maintenance. Either way, you hold the logins, so you are never dependent on us." },
+    { question: "Can I update the website myself later?", answer: "Yes, if you want to. For owners who plan frequent changes we can build on a system with a simple editor. For others, we make edits during the two free months after launch and after that through optional maintenance. Either way, you hold the logins, so you are never dependent on us." },
     { question: "Is a website builder better than hiring a web designer?", answer: "A builder can work for a very simple page if you have time to design it yourself. The trade-offs are monthly fees, heavier pages on budget phones and difficulty moving away later. A designer gives you a faster site you fully own, written copy, and the Google listing tie-in done properly. Choose based on your time and plans." },
     { question: "How do I pay a remote web designer safely?", answer: "Pay in stages tied to visible work, such as an advance after approving the quote, a payment after you approve the design, and the balance before launch. Pay by UPI or bank transfer to a named account, keep receipts, and make sure the domain is in your name before paying the final instalment." },
-    { question: "What happens after my local website goes live?", answer: `You get five months of free maintenance covering small edits, fixes, updates and backups. After that you can take over the site yourself, hand it to anyone else, or continue with optional care from ${P.care}. We also suggest updating your listing photos regularly and asking customers for reviews to keep the momentum going.` },
+    { question: "What happens after my local website goes live?", answer: `You get two months of free maintenance covering small edits, fixes, updates and backups. After that you can take over the site yourself, hand it to anyone else, or continue with optional care from ${P.care}. We also suggest updating your listing photos regularly and asking customers for reviews to keep the momentum going.` },
     { question: "Can you redesign my old website without losing Google traffic?", answer: "Yes. We record your existing page addresses, keep the ones that bring visitors, and set permanent redirects for any that change. Titles and content that already rank are carried over or improved. We verify the new site in Search Console and watch for errors after launch so your local visibility is protected." },
     { question: "Do you design websites for clinics and doctors?", answer: "Yes. Clinic sites need clear services, doctor profiles, timings, fees or ranges where appropriate, and an appointment request form. Medical sites should avoid exaggerated claims and before-and-after promises, so we keep the wording factual. For more on this, see our doctor website page, which covers medical advertising rules in detail." },
     { question: "Can you also make an app or online store for my shop later?", answer: `Yes. The same team builds online stores with UPI and card checkout from ${P.shop}, and Android and iOS apps from ${P.app}. Starting with a brochure site is sensible; if customers keep asking to order online, the store can reuse your content, photos and design so the step up is smaller.` },
-    { question: "Mere paas web designer near me nahi mila, kya online designer theek rahega?", answer: `Haan, bilkul. Website ke liye designer ka paas hona zaroori nahi hai. Aap WhatsApp par photos aur details bhejiye, hum live link par design dikhayenge. Simple business website ${P.site} se shuru hoti hai, domain aapke naam par rehta hai, aur launch ke baad 5 mahine ke chhote changes free hote hain.` },
+    { question: "Mere paas web designer near me nahi mila, kya online designer theek rahega?", answer: `Haan, bilkul. Website ke liye designer ka paas hona zaroori nahi hai. Aap WhatsApp par photos aur details bhejiye, hum live link par design dikhayenge. Simple business website ${P.site} se shuru hoti hai, domain aapke naam par rehta hai, aur launch ke baad 2 mahine ke chhote changes free hote hain.` },
     { question: "Are there any contracts or refund terms?", answer: "Your scope, price, milestones and ownership terms are written in the quote you approve, and that document governs the project. For general terms and refunds, see the terms and refund policy pages on this site, or ask us before you start. We do not bill anything until you have approved the written quote." },
   ],
   related: {
@@ -434,7 +434,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a local website that matches your Google listing?",
-    note: `Send a voice note on WhatsApp about your business. You will get a page plan and itemised quote in about two working days, with brochure sites from ${P.site}, everything in your name and five months of free changes after launch.`,
+    note: `Send a voice note on WhatsApp about your business. You will get a page plan and itemised quote in about two working days, with brochure sites from ${P.site}, everything in your name and two months of free changes after launch.`,
   },
 };
 

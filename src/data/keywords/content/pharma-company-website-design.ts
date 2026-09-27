@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Distributor portal from", `${P.software} · ${P.softwareUsd}`],
     ["Quote", "Itemised, about 2 working days"],
     ["Ownership", "Domain, hosting, code and CMS logins in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one of them on AWS and data" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Platform or marketplace fees on your project" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Audiences kept apart", value: "Public, healthcare professional, trade, investor" },
       { label: "Proof shown", value: "WHO-GMP, manufacturing licence, ISO, export registrations" },
       { label: "Copy rules applied", value: "UCPMP 2024 wording checks before publishing" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What pharma company website design costs",
-    note: `Pharma sites are priced by how many products you list and how many audiences you separate, not by the number of fancy sections. A corporate site with up to 100 pages, including a product list and certificate wall, starts at ${P.site}. When every molecule, strength and pack gets its own page, which is what search engines and importers look for, the SEO website plan from ${P.seoSite} fits. A logged-in portal for stockists to see price lists, schemes and order status is custom software, from ${P.software}. Monthly SEO starts at ${P.seo}. After five free months of maintenance, upkeep starts at ${P.care}. Your itemised quote arrives in about 2 working days.`,
+    note: `Pharma sites are priced by how many products you list and how many audiences you separate, not by the number of fancy sections. A corporate site with up to 100 pages, including a product list and certificate wall, starts at ${P.site}. When every molecule, strength and pack gets its own page, which is what search engines and importers look for, the SEO website plan from ${P.seoSite} fits. A logged-in portal for stockists to see price lists, schemes and order status is custom software, from ${P.software}. Monthly SEO starts at ${P.seo}. After two free months of maintenance, upkeep starts at ${P.care}. Your itemised quote arrives in about 2 working days.`,
   },
   guideLabel: "Pharma company website design guide",
   guide: [
@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A catalogue site takes 1–2 weeks of build time, a molecule-level site 3–5 weeks, and a portal 6–12 weeks. In pharma the calendar is usually set by review, not development: product data and medical sign-off often take longer than the code.`,
         `Plan for this honestly. Your regulatory or medical head will want to read every product page, the quality head will check every certificate entry, and the company secretary will want the investor section right. We send pages for review in batches of twenty or thirty, so reviewers are never handed 400 pages on one Friday.`,
-        `Ownership is simple: the domain, hosting account, code repository and CMS administrator logins are all in your company's name from the start. We work as invited users. At handover you get the repository, a short admin guide written for your team, and a list of every third-party service with its login owner. Five months of free maintenance follow launch; after that, upkeep starts at ${P.care} if you want us to keep going, and you are free to take the site elsewhere. Details sit in your written quote and our <a href='/terms/'>terms</a>.`,
+        `Ownership is simple: the domain, hosting account, code repository and CMS administrator logins are all in your company's name from the start. We work as invited users. At handover you get the repository, a short admin guide written for your team, and a list of every third-party service with its login owner. Two months of free maintenance follow launch; after that, upkeep starts at ${P.care} if you want us to keep going, and you are free to take the site elsewhere. Details sit in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -348,7 +348,7 @@ const content: FreelanceContent = {
         ["Field-team app", "Android and iOS app for representatives or distributors", `From ${P.app} (${P.appUsd})`, "6–10 weeks"],
         ["Enquiry automation", "Lead tagging, CRM push, WhatsApp alerts, AI triage", `From ${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Monthly SEO", "Molecule pages, technical fixes, Search Console reporting", `From ${P.seo} (${P.seoUsd})`, "Ongoing"],
-        ["Maintenance", "Updates, backups, content changes after the free period", `From ${P.care} (${P.careUsd})`, "After 5 free months"],
+        ["Maintenance", "Updates, backups, content changes after the free period", `From ${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Itemised quote in about 2 working days", "You receive a written quote listing each part, its starting price and timeline. Nothing is billed until you approve it in writing."],
       ["Design and build in review batches", "Templates first, then products in batches of twenty or thirty, each sent to your regulatory reviewer with the UCPMP wording checklist attached."],
       ["Forms, alerts and consent", "Distributor, export and doctor forms are connected to your sheet, CRM or WhatsApp, with consent notices and cookie controls tested on phones."],
-      ["Launch and handover", "We launch on your domain and hosting, submit sitemaps to Search Console, hand over the repository and admin guide, and start five free months of maintenance."],
+      ["Launch and handover", "We launch on your domain and hosting, submit sitemaps to Search Console, hand over the repository and admin guide, and start two free months of maintenance."],
     ],
   },
   faqHeading: "Pharma company website design: questions buyers ask",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
     { question: "Is a freelancer or an agency better for pharma company website design?", answer: "A large agency suits companies that want strategy, medical-affairs copy review and campaigns under one contract. A small freelance team suits companies that want developers who talk to them directly, clear starting prices and full ownership. We are three freelance developers; we build and maintain the site, while your team owns regulatory review." },
     { question: "Can a remote team build a website for a pharma plant they have not visited?", answer: "Yes. Pharma websites are built from product masters, certificates, photos and approvals, all of which move by shared folder. We do not visit plants; you or a local photographer supplies facility images. Calls happen on Google Meet or WhatsApp in English or Hindi, and every stage is reviewed by your team online." },
     { question: "Who owns the pharma website after it is built?", answer: "You do. Pharma company website design with us keeps every asset with you. The domain, hosting, code repository and CMS administrator logins are set up in your company's name from the start, with us added as users. At handover you receive the repository and an admin guide. If you later move to another developer, nothing needs to be transferred back from us." },
-    { question: "What happens after launch, and what does maintenance cost?", answer: `The first five months after launch include free maintenance: fixes, small content changes and updates. After that, maintenance starts at ${P.care}, covering updates, backups, security patches and routine product or certificate edits. You can also manage content yourself through the CMS and call us only for larger changes.` },
+    { question: "What happens after launch, and what does maintenance cost?", answer: `The first two months after launch include free maintenance: fixes, small content changes and updates. After that, maintenance starts at ${P.care}, covering updates, backups, security patches and routine product or certificate edits. You can also manage content yourself through the CMS and call us only for larger changes.` },
     { question: "How do you take payment for a pharma website project?", answer: "In India we take UPI or bank transfer against a written, itemised quote; international clients pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. Milestones and any other terms are set out in your quote, and our terms and refund policy pages explain the rest." },
     { question: "Will you sign an NDA before seeing our product list and dossiers?", answer: "Ask us when you first get in touch. Pharma companies often share unreleased product lists and regulatory documents during planning, so confidentiality is a fair request. Any NDA or confidentiality terms are agreed in writing before you send sensitive material, and we only ask for the files the build actually needs." },
     { question: "Can a pharma website rank on Google for molecule searches?", answer: `It can compete, especially for trade searches like a molecule plus manufacturer, supplier or exporter, when each molecule and strength has its own fast, well-structured page. Nobody can guarantee rankings. We set up Search Console and product schema at launch, and monthly SEO starts at ${P.seo} if you want ongoing work.` },

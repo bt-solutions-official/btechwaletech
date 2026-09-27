@@ -313,7 +313,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after you build or fix my site?",
       answer:
-        "Yes. Every site we build or deploy comes with five months of free maintenance once hosting is live: updates, bug fixes, backups, security and speed checks. After that, maintenance continues from ₹8,000 per month, or you can call us only when something needs changing. Monthly SEO clients get technical upkeep as part of the SEO work.",
+        "Yes. Every site we build or deploy comes with two months of free maintenance once hosting is live: updates, bug fixes, backups, security and speed checks. After that, maintenance continues from ₹8,000 per month, or you can call us only when something needs changing. Monthly SEO clients get technical upkeep as part of the SEO work.",
     },
     {
       question: "Can AI automation help with SEO leads in Gurgaon?",

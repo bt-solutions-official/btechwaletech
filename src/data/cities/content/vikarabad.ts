@@ -56,7 +56,7 @@ const vikarabad: CityContent = {
     ai: "WhatsApp assistants that answer room, fee and stock questions in Telugu or English and pass anything unusual to a person.",
     data: "Dashboards showing weekend occupancy for resorts, admissions by course for colleges, or dues by village for input dealers.",
     app: "Android and iOS apps from ₹40,000 for coaching test results, milk collection records or repeat resort bookings, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then maintenance from ₹8,000 a month for tariff changes, backups and security updates.",
+    maintenance: "Two free months of upkeep after launch, then maintenance from ₹8,000 a month for tariff changes, backups and security updates.",
   },
   whyUsIntro:
     "Vikarabad clients tend to ask two things early: what exactly will this cost, and who will pick up the phone later. We answer both in writing. Prices start low and are itemised, WhatsApp is answered every day, and the domain, hosting, code and store accounts are registered to you, not to us.",
@@ -160,7 +160,7 @@ const vikarabad: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -177,7 +177,7 @@ const vikarabad: CityContent = {
       heading: "Ownership, handover and maintenance for Vikarabad websites and apps",
       paragraphs: [
         "Everything we build is registered to you from the start. The domain is booked on your email, hosting is billed in your name, the source code is handed over in full, and the Google Business Profile, Play Console and Apple developer account list you as owner. At handover you get a single document with every login, and you can remove our access whenever you like.",
-        "For the first five months after launch, maintenance costs nothing. That covers content edits such as new fees or tariffs, backups, security patches, framework updates and periodic checks that forms, payments and the WhatsApp button still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without needing our permission.",
+        "For the first two months after launch, maintenance costs nothing. That covers content edits such as new fees or tariffs, backups, security patches, framework updates and periodic checks that forms, payments and the WhatsApp button still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without needing our permission.",
         "Apps need a little extra care. Google and Apple raise their minimum requirements every year, and an app that is left alone can be hidden or pulled from the stores. We track those deadlines and ship updates early, so a Vikarabad clinic or college does not learn about the problem from a parent's complaint.",
       ],
     },
@@ -264,7 +264,7 @@ const vikarabad: CityContent = {
     {
       question: "Do you maintain the website or app after launch?",
       answer:
-        "Yes. The first five months after launch are free: edits to fees or tariffs, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take over yourself or move to another developer, since the code and accounts are already yours.",
+        "Yes. The first two months after launch are free: edits to fees or tariffs, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take over yourself or move to another developer, since the code and accounts are already yours.",
     },
     {
       question: "Can you make software for a fertiliser dealer or crop trader in Vikarabad?",

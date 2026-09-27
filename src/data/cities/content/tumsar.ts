@@ -56,7 +56,7 @@ const tumsar: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and admission questions in Marathi and Hindi and hand real negotiations to you.",
     data: "Season dashboards showing paddy bought, rice milled, bags dispatched and payments pending by buyer.",
     app: "Android and iOS apps for rice buyers to reorder or for mine transport crews to log trips, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for backups, updates and small edits.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for backups, updates and small edits.",
   },
   whyUsIntro:
     "People in Tumsar judge a supplier by whether the weight on the slip matches the weight on the scale. We work the same way: starting prices in public, a written itemised quote before any work, WhatsApp replies every day of the week, and your domain, hosting, code and store accounts registered in your own name from day one.",
@@ -187,7 +187,7 @@ const tumsar: CityContent = {
       heading: "Ownership and maintenance for Tumsar websites, stores and apps",
       paragraphs: [
         "Everything we build is yours. The domain is booked on your email ID, hosting is billed in your name, the source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts list you as the owner. At handover you get a written sheet of every login and password, so no individual, including any of us, can lock you out later.",
-        "For the first five months after launch, maintenance costs nothing. We update rates and photos, take backups, apply security and software updates, and periodically test that forms, UPI checkout and the WhatsApp button still work. After that you choose: continue with us from ₹8,000 a month, manage updates in-house, or give the code to another developer without asking our permission.",
+        "For the first two months after launch, maintenance costs nothing. We update rates and photos, take backups, apply security and software updates, and periodically test that forms, UPI checkout and the WhatsApp button still work. After that you choose: continue with us from ₹8,000 a month, manage updates in-house, or give the code to another developer without asking our permission.",
         "Apps need attention even when nothing is broken. Google and Apple raise their minimum requirements every year, and an app that is not rebuilt can be hidden from the stores. We track those deadlines and update your app ahead of time.",
       ],
     },
@@ -279,7 +279,7 @@ const tumsar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are free after launch: content edits, backups, security and software updates, and routine checks of forms, payments and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, but you are free to move the site elsewhere because every account and the code already belong to you.",
+        "Two months of maintenance are free after launch: content edits, backups, security and software updates, and routine checks of forms, payments and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, but you are free to move the site elsewhere because every account and the code already belong to you.",
     },
     {
       question: "Do you serve Tumsar Road, Mohadi, Tirora and nearby towns?",

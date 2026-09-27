@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Germany · app budgets in plain numbers of effort",
     h1: "App development cost in Germany: what drives the quote and how an offshore team changes it",
     lede: `App development cost in Germany is set mostly by two things: how many developer days your app really needs, and what each of those days costs. This guide breaks down both, compares how German agencies, freelancers and offshore teams build their quotes, and lists the running costs that rarely appear in the first offer. BtechWaleTech is three freelance developers in India building Flutter and React Native apps for Android and iOS, with apps starting at ${P.app} and a quote in about two working days.`,
-    pills: ["Effort-based estimates", "Flutter or React Native", "Android and iOS", "Store accounts in your name", "Hidden costs listed", "Quoted in USD", "5 months free maintenance"],
+    pills: ["Effort-based estimates", "Flutter or React Native", "Android and iOS", "Store accounts in your name", "Hidden costs listed", "Quoted in USD", "2 months free maintenance"],
     origin: "Three freelance developers working remotely from India · WhatsApp replies 7 days a week",
   },
   facts: [
@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who plan, build and publish" },
     { value: "2", label: "App stores covered by one codebase" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or platform fees added to your quote" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Testing and release", value: "Device tests, store listings, review submissions" },
       { label: "Store accounts", value: "US$99 per year for Apple, US$25 once for Google Play" },
       { label: "Running costs", value: "Cloud hosting, email and SMS, third-party APIs" },
-      { label: "Care after launch", value: `Five months free, then maintenance from ${P.care}` },
+      { label: "Care after launch", value: `Two months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Our starting prices behind an app budget",
-    note: `Our part of your app development cost in Germany is quoted per project in USD. An Android and iOS app starts at ${P.app} and usually ships in six to ten weeks. If the app needs a heavier web backend, customer portal or admin system, that part starts at ${P.software}; AI features such as chat or document reading start at ${P.ai}. Store fees, hosting and third-party services are paid by you directly to the providers, so you see them clearly. Every new app gets five months of free maintenance, then maintenance from ${P.care}.`,
+    note: `Our part of your app development cost in Germany is quoted per project in USD. An Android and iOS app starts at ${P.app} and usually ships in six to ten weeks. If the app needs a heavier web backend, customer portal or admin system, that part starts at ${P.software}; AI features such as chat or document reading start at ${P.ai}. Store fees, hosting and third-party services are paid by you directly to the providers, so you see them clearly. Every new app gets two months of free maintenance, then maintenance from ${P.care}.`,
   },
   guideLabel: "App development cost in Germany guide",
   guide: [
@@ -173,7 +173,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For the long-run app development cost in Germany, a common budgeting rule of thumb is to set aside 15 to 20 percent of the original build cost per year for maintenance. It is a planning figure, not a law of nature: a stable catalogue app may need less, a marketplace with frequent feature requests much more.`,
         `Maintenance is not optional for apps. Apple and Google raise their minimum SDK and target API requirements regularly, and apps that fall behind can be blocked from updates or removed. Third-party libraries publish security fixes. New phone sizes and OS versions change layouts. A backend that nobody patches becomes a data protection risk, which matters under DSGVO.`,
-        `Every new app we build includes five months of free maintenance after launch, which covers the period when most early bugs show up. After that, maintenance starts at ${P.care}. Feature work is quoted separately so your maintenance fee does not quietly turn into a development budget. For planning purposes, keep a line for maintenance in every year of your business case, not just year one.`,
+        `Every new app we build includes two months of free maintenance after launch, which covers the period when most early bugs show up. After that, maintenance starts at ${P.care}. Feature work is quoted separately so your maintenance fee does not quietly turn into a development budget. For planning purposes, keep a line for maintenance in every year of your business case, not just year one.`,
       ],
     },
     {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Store commission on digital sales", "Apple, Google", "Per sale", "Depends on programme and region; check current terms"],
         ["Cloud hosting and database", "Your cloud provider", "Monthly", "EU region recommended for DSGVO"],
         ["SMS, email, maps, analytics", "Each provider", "Monthly or per use", "Choose EU-based or DPA-backed services"],
-        ["Maintenance and updates", "BtechWaleTech", "Monthly", `Five months free, then from ${P.care}`],
+        ["Maintenance and updates", "BtechWaleTech", "Monthly", `Two months free, then from ${P.care}`],
       ],
     },
     {
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a USD quote listing design, app, backend, admin, testing and release as separate lines, with milestones."],
       ["Prototype first", "A clickable prototype of the core flow lets you and real users test decisions before development money is spent."],
       ["Build in sprints", "Weekly builds on your phone through TestFlight and a Play testing track, with a shared board showing what is done and what is next."],
-      ["Release and care", "We publish through your store accounts, hand over code and documentation, and cover five months of maintenance free before paid care begins."],
+      ["Release and care", "We publish through your store accounts, hand over code and documentation, and cover two months of maintenance free before paid care begins."],
     ],
   },
   faqHeading: "App development cost in Germany: frequent questions",
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
     { question: "Why does app development cost in Germany differ so much between quotes?", answer: "Because each supplier estimates different effort, charges different rates and adds a different risk buffer. Some leave out design, backend or store release. Compare offers feature by feature, ask for the estimated days behind each line, and check which third-party costs are excluded. A very low quote with no questions asked usually hides missing scope." },
     { question: "Is it cheaper to build an app with a team in India?", answer: `Usually, yes, because the cost base behind each developer day is lower. The same specification can cost noticeably less. The trade-offs are remote-only work, fewer shared office hours and the need for a clear scope. Our apps start at ${P.app}, quoted in USD, with the code and store accounts owned by you.` },
     { question: "How long does it take to build an app?", answer: "A first release of a typical small-business app takes six to ten weeks in our plans, from approved scope to store submission. Marketplaces, IoT apps and apps with many integrations take longer. Store review adds a few days. The biggest schedule risk is late decisions, so a clickable prototype approved early saves more time than anything else." },
-    { question: "What are the yearly costs of running an app?", answer: `Plan for the Apple Developer Program at US$99 per year, the one-time US$25 Google Play fee, cloud hosting, third-party services such as SMS or maps, and maintenance. A common rule of thumb for maintenance is 15 to 20 percent of the build cost per year. Our new apps include five months free, then maintenance from ${P.care}.` },
+    { question: "What are the yearly costs of running an app?", answer: `Plan for the Apple Developer Program at US$99 per year, the one-time US$25 Google Play fee, cloud hosting, third-party services such as SMS or maps, and maintenance. A common rule of thumb for maintenance is 15 to 20 percent of the build cost per year. Our new apps include two months free, then maintenance from ${P.care}.` },
     { question: "Does a Flutter app cost less than a native app?", answer: "Generally yes, because one Flutter or React Native codebase serves both Android and iOS, so most screens and logic are written once. Native apps in Kotlin and Swift need two codebases. Native is still worth it for very graphics-heavy apps or deep platform features, and we say so in the quote when it applies." },
     { question: "Should I choose fixed price or time and materials for my app?", answer: "Choose a fixed-scope offer when requirements are clear and stable, and time and materials with a cap when you expect frequent changes. Many projects combine both: a fixed first release, then a monthly budget for improvements. Our quotes are itemised starting prices for a defined scope, with changes priced before they are built." },
     { question: "What does an app store account cost for a German company?", answer: "Apple charges US$99 per year for the Apple Developer Program, and Google charges a one-time US$25 registration fee. Apple's organisation enrolment needs a D-U-N-S number. Both accounts should be registered to your company. Store commissions on paid apps and in-app purchases are separate and depend on the programme and region." },
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Do you write German texts for the app?", answer: "We write English and build apps with full German localisation, but the German interface texts, store descriptions and legal texts are supplied or approved by you or your translator. We set up the translation files so adding or changing German wording does not need a developer each time." },
     { question: "Does DSGVO raise app development cost in Germany?", answer: "It adds some work: consent for analytics and marketing push, data minimisation, deletion on request, EU hosting and careful choice of third-party SDKs. These are design decisions that cost little when planned early and more when retrofitted. We build the technical measures; your data protection officer or lawyer confirms compliance." },
     { question: "Do accessibility rules apply to my app?", answer: "If the app is part of a consumer service covered by the BFSG, such as shopping, banking or ticketing, it must meet accessibility requirements, and a microenterprise exemption applies only to services. We build with screen-reader labels, text scaling and contrast in mind and test with TalkBack and VoiceOver. Your lawyer confirms whether the law applies." },
-    { question: "Is maintenance included in the app price?", answer: `Five months of maintenance after launch are included free with every new app. After that, maintenance starts at ${P.care} and covers OS and SDK updates, store policy changes and bug fixes. New features are quoted separately, so you always know what you are paying for.` },
+    { question: "Is maintenance included in the app price?", answer: `Two months of maintenance after launch are included free with every new app. After that, maintenance starts at ${P.care} and covers OS and SDK updates, store policy changes and bug fixes. New features are quoted separately, so you always know what you are paying for.` },
     { question: "Can you take over an app another developer started?", answer: "Often yes. We first review the repository, build setup and store accounts, then tell you whether continuing or rebuilding is cheaper. If the previous developer holds the store accounts or code, recovering access comes first. The review is quoted separately before any development work." },
   ],
   related: {
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a realistic number for your app? Describe it on WhatsApp",
-    note: `Tell us what the app should do, who uses it and which systems it connects to. You get an itemised USD quote in about two working days. Apps start at ${P.app}, and every new app includes five months of free maintenance.`,
+    note: `Tell us what the app should do, who uses it and which systems it connects to. You get an itemised USD quote in about two working days. Apps start at ${P.app}, and every new app includes two months of free maintenance.`,
   },
 };
 

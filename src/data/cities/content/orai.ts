@@ -32,7 +32,7 @@ const orai: CityContent = {
     h1: "Web, app, SEO and automation services for Orai and Jalaun businesses",
     lede:
       "We are three remote engineers who build websites, Google listings, small online stores and WhatsApp tools for Orai. Our work suits grain and oilseed traders near the mandi, Kalpi handmade paper units, hospitals and clinics near the medical college, coaching centres on Station Road, and shops in Tulsi Nagar, Patel Nagar and along the Konch and Rath roads.",
-    pills: ["Websites from ₹10,000", "Hindi-first pages", "Handmade paper stores", "Clinic and coaching sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Hindi-first pages", "Handmade paper stores", "Clinic and coaching sites", "2 months free maintenance"],
   },
   quickAnswer:
     "An Orai business can get a static website from us from ₹10,000, usually live within two weeks. SEO websites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores for handmade paper or retail at ₹50,000 and custom software at ₹60,000. We work remotely and have no Orai office.",
@@ -52,7 +52,7 @@ const orai: CityContent = {
     ai: "WhatsApp replies in Hindi for rates, stock, fees and OPD timings, with serious buyers, patients and parents handed to a person.",
     data: "Clear dashboards for purchases by crop, sales by buyer, patient visits or fee collections, drawn from records you already keep.",
     app: "Android and iOS apps for field buyers, delivery staff and teachers on inexpensive phones, built once and published to Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month or paid changes only when you need them.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month or paid changes only when you need them.",
   },
   whyUsIntro:
     "Orai is a district town where most business still comes through family, friends and word of mouth. That works until a new customer searches on Google and finds nothing, or finds your competitor. We build plain, useful Hindi and English sites, fix your Google listing, keep every account in your name, and reply on WhatsApp all week.",
@@ -195,7 +195,7 @@ const orai: CityContent = {
       paragraphs: [
         "Many small-town businesses have lost a website because the person who made it booked the domain in his own name and then stopped picking up the phone. Without that login, even changing a mobile number on the site becomes impossible.",
         "We register the domain and hosting in your name. At handover you receive every password, the full source code and a short note in simple language explaining how things are set up. You can move to any other developer whenever you want, with no exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month, or message us only when you need a change and pay for that work.",
+        "For two months after launch, maintenance is free: text and price changes, fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month, or message us only when you need a change and pay for that work.",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const orai: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we take care of text and price changes, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you contact us only when something needs doing.",
+        "For two months after launch we take care of text and price changes, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you contact us only when something needs doing.",
     },
     {
       question: "Do you work in Kalpi, Konch, Jhansi and Kanpur as well?",

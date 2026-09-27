@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Pasighat · East Siang · Arunachal Pradesh",
     h1: "Freelance software developers in Pasighat for institutions, traders and Siang valley tourism",
     lede:
-      "BtechWaleTech is a freelance group of three software developers serving Pasighat, working remotely from India, and a practical alternative if you were searching for a software development team in Pasighat. We build custom software, booking systems, WhatsApp workflows, dashboards and fast websites for businesses and institutions in Pasighat and the wider East Siang district. You talk to the people writing the code, see starting prices before you commit, and get five months of maintenance free after launch.",
+      "BtechWaleTech is a freelance group of three software developers serving Pasighat, working remotely from India, and a practical alternative if you were searching for a software development team in Pasighat. We build custom software, booking systems, WhatsApp workflows, dashboards and fast websites for businesses and institutions in Pasighat and the wider East Siang district. You talk to the people writing the code, see starting prices before you commit, and get two months of maintenance free after launch.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Remote, 7 days on WhatsApp"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three remote software developers serving Pasighat. Custom software and web apps start at ₹60,000 (6 to 12 weeks), AI and WhatsApp automation at ₹40,000 (2 to 4 weeks), and websites at ₹10,000 (1 to 2 weeks). You get an itemised quote in about two working days and five months of free maintenance after launch.",
+    "BtechWaleTech is a freelance group of three remote software developers serving Pasighat. Custom software and web apps start at ₹60,000 (6 to 12 weeks), AI and WhatsApp automation at ₹40,000 (2 to 4 weeks), and websites at ₹10,000 (1 to 2 weeks). You get an itemised quote in about two working days and two months of free maintenance after launch.",
   snapshot: [
     { label: "Place", value: "Headquarters of East Siang district, on the right bank of the Siang where the river leaves the hills for the plains" },
     { label: "History", value: "Established in 1911 as an administrative post, widely described as the oldest town in Arunachal Pradesh" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI assistants and WhatsApp bots that answer repeated questions about rafting slots, admission dates, stock or rates, and hand the real conversations to you.",
     data: "Simple dashboards that pull figures from spreadsheets or billing software so an owner or principal can see collections, dues and stock at a glance.",
     app: "Android and iOS apps for Pasighat tour operators, schools, contractors and traders, built once in Flutter or React Native with offline entry and push alerts, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Pasighat has few local software businesses, so most owners either rely on a relative who knows computers or hire a large outfit in Guwahati they never meet. We sit in between: a small freelance team that publishes its prices, answers on WhatsApp on Sundays, and hands over every password and line of code at the end.",
@@ -134,7 +134,7 @@ const content: CityContent = {
         "Android and iOS app development for a Pasighat business starts at ₹40,000 with BtechWaleTech and usually takes six to ten weeks. We build the app once in Flutter or React Native and publish it on both Google Play and the Apple App Store, with user login, forms, push notifications and an admin panel connected through an API.",
         "Android phones dominate in East Siang, often budget models with limited storage, while visiting tourists and officers frequently carry iPhones. A single codebase serves both without doubling the cost. We keep downloads small, text large and screens few. Where the network drops, as it does quickly on the roads toward Mebo, Boleng or Ruksin, the app saves entries on the phone and uploads them once a signal returns.",
         "The Android and iOS apps Pasighat organisations ask about most are practical ones. A rafting or homestay operator wants guests to see packages and confirm dates. A school wants parents to receive notices, fee reminders and homework on their phones. A contractor wants supervisors to log site progress with dated photographs. A wholesaler wants retailers in nearby circles to reorder from a catalogue without calling.",
-        "Before quoting, we check whether an app is really needed. For a single homestay, a fast website with WhatsApp booking may do the job for ₹10,000. An app earns its cost when the same people use it every week, such as staff, students or regular buyers. You own both store listings, the code and the admin panel, and the first five months of maintenance after launch are free.",
+        "Before quoting, we check whether an app is really needed. For a single homestay, a fast website with WhatsApp booking may do the job for ₹10,000. An app earns its cost when the same people use it every week, such as staff, students or regular buyers. You own both store listings, the code and the admin panel, and the first two months of maintenance after launch are free.",
       ],
       list: [
         "Tour and homestay booking app with package details",
@@ -159,7 +159,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for a Pasighat project means your website or web application runs on a managed server such as AWS or a static host, set up in your own name. Hosting and deployment are part of every project we deliver, so Pasighat clients do not need to find a separate provider to put their software online. We set up the server or managed hosting in your name, configure the domain, SSL certificate, backups and email, and document every login in a handover sheet.",
         "For small websites we prefer static hosting, which is fast, cheap and hard to break. For web applications we use managed cloud platforms with automatic backups and monitoring, so if something fails at night we are alerted before your staff arrive in the morning. Deployments are scripted, which means a fix can go live in minutes without anyone logging in by hand.",
-        "IT support after launch covers bug fixes, content updates, security patches and speed checks. The first five months are free once your project is live. After that, maintenance starts at ₹8,000 a month, or you can simply message us when something needs changing and pay for that work alone.",
+        "IT support after launch covers bug fixes, content updates, security patches and speed checks. The first two months are free once your project is live. After that, maintenance starts at ₹8,000 a month, or you can simply message us when something needs changing and pay for that work alone.",
         "We cannot visit your office to fix a printer, and we say that plainly. Our support is for the software, websites and cloud services we build and host for you.",
       ],
     },
@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "cost-guide-pasighat",
       heading: "How much do freelance software developers in Pasighat charge?",
       paragraphs: [
-        "Freelance software developers in Pasighat's market typically charge by scope, and BtechWaleTech's starting prices are public. IT services for Pasighat businesses start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000, after the five free months.",
+        "Freelance software developers in Pasighat's market typically charge by scope, and BtechWaleTech's starting prices are public. IT services for Pasighat businesses start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000, after the two free months.",
         "These are starting prices, not fixed packages. A booking system for one homestay is simpler than one for a rafting company running several groups and guides, and a fee ledger for one school is simpler than one for a college with hostels and multiple courses. We list each feature in the quote with its cost, so you can remove what you do not need.",
         "We quote in INR for Indian clients, and payment is taken in stages tied to visible progress. The full list of plans is on our <a href='/pricing/'>pricing page</a>. If a budget is fixed by a sanction or grant, tell us the amount and we will propose what can sensibly be built within it.",
       ],
@@ -285,7 +285,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance?",
       answer:
-        "After launch you get five months of maintenance free. That covers bug fixes, small content changes, security and dependency updates, backups, and uptime and speed checks. After five months you can continue from ₹8,000 a month or pay only when you need a change. New features beyond maintenance are quoted separately so costs stay clear.",
+        "After launch you get two months of maintenance free. That covers bug fixes, small content changes, security and dependency updates, backups, and uptime and speed checks. After two months you can continue from ₹8,000 a month or pay only when you need a change. New features beyond maintenance are quoted separately so costs stay clear.",
     },
     {
       question: "Who owns the code, domain and hosting?",

@@ -56,7 +56,7 @@ const nilambur: CityContent = {
     ai: "WhatsApp assistants that answer room, stock and admission questions in Malayalam and pass anything unusual to a person.",
     data: "Dashboards for rubber and spice dealers showing godown stock, rates, farmer balances and buyer dues on one screen.",
     app: "Android and iOS apps from ₹40,000 for coaching students, repeat grocery orders or homestay guests, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, updates and payment checks.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, updates and payment checks.",
   },
   whyUsIntro:
     "Nilambur traders deal in wood that takes decades to grow, so they tend to judge people slowly and by their paperwork. We publish our starting prices, send every quote as a written list, register your domain, code and store accounts to you, and answer WhatsApp every day of the week. If something would not pay for itself, we tell you before you spend on it.",
@@ -175,7 +175,7 @@ const nilambur: CityContent = {
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance: from ₹8,000 a month, after five free months",
+        "Maintenance: from ₹8,000 a month, after two free months",
       ],
     },
     {
@@ -192,7 +192,7 @@ const nilambur: CityContent = {
       heading: "Who owns your Nilambur website or app, and how it is kept running",
       paragraphs: [
         "Ownership is settled before any code is written. The domain is registered under your email, hosting is billed to you, the source code sits in a repository you control, and the Google Play and App Store developer accounts are yours. If you change developers some day, there is nothing to negotiate with us.",
-        "The first five months after launch come with free maintenance: price and content edits, backups, security and version updates, uptime checks, and a test of forms and payments after each change. After that you can keep us on from ₹8,000 a month, move the work to your own staff, or hand the code to someone else.",
+        "The first two months after launch come with free maintenance: price and content edits, backups, security and version updates, uptime checks, and a test of forms and payments after each change. After that you can keep us on from ₹8,000 a month, move the work to your own staff, or hand the code to someone else.",
         "Apps need care even when nothing is broken. Google and Apple raise their minimum requirements every year, and an app that falls behind can be hidden from new users. We watch those deadlines and schedule updates in the quieter months, so a Nilambur homestay or shop is not rushing a fix in the middle of the tourist season.",
       ],
     },
@@ -280,7 +280,7 @@ const nilambur: CityContent = {
     {
       question: "What maintenance do I get after my Nilambur site launches?",
       answer:
-        "The first five months are free: content and price edits, backups, security and version updates, and checks that forms, UPI payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take it in-house or move to another developer, since every account is already yours.",
+        "The first two months are free: content and price edits, backups, security and version updates, and checks that forms, UPI payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take it in-house or move to another developer, since every account is already yours.",
     },
     {
       question: "Do you work with businesses in Wandoor, Edakkara and Mampad too?",

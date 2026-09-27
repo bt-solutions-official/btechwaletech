@@ -56,7 +56,7 @@ const arwal: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer fee, timing, stock and rate questions and pass admissions or big orders to you.",
     data: "Simple dashboards of admissions, fee collection, dealer credit outstanding and deliveries by block.",
     app: "Android and iOS apps for coaching students to get tests and notices, or for village retailers to reorder, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for changes, backups and security updates.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for changes, backups and security updates.",
   },
   whyUsIntro:
     "Arwal business owners spend carefully and have little patience for vague promises. We publish starting prices, send an itemised written quote, answer WhatsApp every day of the week, and register the domain, hosting, code and app accounts in your own name. If something you ask for will not bring back its cost, we tell you so.",
@@ -174,7 +174,7 @@ const arwal: CityContent = {
       heading: "Ownership and maintenance of Arwal websites and apps",
       paragraphs: [
         "Ownership is settled before the first line of code. Your website address is bought on your email ID, the hosting invoice carries your name, the complete code is passed to you, and your Maps listing and both app store developer accounts sit under your control. On the last day we give you one sheet with every username, which means no freelancer, relative or ex-employee can lock you out, and neither can we.",
-        "The first five months of care after going live cost nothing. In that period we change fee tables, doctor timings and rates when you ask, keep backups, patch the software and test now and then that the enquiry form and payment still work. Once it ends, there are three options: keep us on from ₹8,000 a month, let someone on your staff handle it, or give the code to a different developer.",
+        "The first two months of care after going live cost nothing. In that period we change fee tables, doctor timings and rates when you ask, keep backups, patch the software and test now and then that the enquiry form and payment still work. Once it ends, there are three options: keep us on from ₹8,000 a month, let someone on your staff handle it, or give the code to a different developer.",
         "A mobile app also needs a fresh build roughly once a year, whether or not anything has gone wrong, since both stores keep tightening what they allow. We watch those dates for you and push the new version well ahead of the cut-off.",
       ],
     },
@@ -266,7 +266,7 @@ const arwal: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance is free: we update content, take backups, apply security updates and check forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or move to someone else. The code and accounts are already yours, so switching needs no permission.",
+        "For two months after launch, maintenance is free: we update content, take backups, apply security updates and check forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or move to someone else. The code and accounts are already yours, so switching needs no permission.",
     },
     {
       question: "Do you also work in Kurtha, Kaler and Jehanabad?",

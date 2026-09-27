@@ -56,7 +56,7 @@ const rudrapur: CityContent = {
     ai: "WhatsApp assistants that answer RFQ basics, admission queries or appointment requests in Hindi and English, and pass anything unusual to a person.",
     data: "Dashboards of monthly dispatch by OEM customer, rejection percentages, fee collection or clinic footfall, built from Tally and Excel.",
     app: "Android and iOS apps from ₹40,000 for field sales reps, school parents or delivery riders in Rudrapur, published on Google Play and the App Store.",
-    maintenance: "Five free months of updates and backups after launch, then maintenance from ₹8,000 a month, stoppable whenever you like.",
+    maintenance: "Two free months of updates and backups after launch, then maintenance from ₹8,000 a month, stoppable whenever you like.",
   },
   whyUsIntro:
     "Rudrapur buyers include purchase managers who read quotations for a living, so we keep ours plain. Starting prices are on the pricing page, every quote splits the work line by line, and nothing is billed until you approve in writing. Domain, hosting, code and store accounts stay in your name from the first day.",
@@ -153,7 +153,7 @@ const rudrapur: CityContent = {
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce website with UPI and Razorpay:</strong> from ₹50,000, four to eight weeks.",
         "<strong>Custom web app or plant software:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -198,7 +198,7 @@ const rudrapur: CityContent = {
       heading: "You own the domain, code and app accounts; we maintain them",
       paragraphs: [
         "Everything we build for a Rudrapur client is registered to the client. The domain sits in your name, hosting in your account, source code in your repository, and apps are published under your own Google Play and Apple developer accounts. If you later hire another developer in Haldwani, Delhi or anywhere else, they take over without needing our permission or paying a release fee.",
-        "For five months after launch, maintenance is free: security updates, backups, uptime checks and small edits such as a new machine photo, a changed OPD time or updated fees. After that, maintenance starts at ₹8,000 a month and can be stopped at any time. We also teach your staff to make simple edits themselves if you prefer.",
+        "For two months after launch, maintenance is free: security updates, backups, uptime checks and small edits such as a new machine photo, a changed OPD time or updated fees. After that, maintenance starts at ₹8,000 a month and can be stopped at any time. We also teach your staff to make simple edits themselves if you prefer.",
         "Data from dispatch registers, fee portals or apps stays in your cloud account and can be exported to Excel whenever you need it, whether for an audit, a customer's vendor review or a bank loan file.",
       ],
     },
@@ -286,7 +286,7 @@ const rudrapur: CityContent = {
     {
       question: "What does website maintenance cost after launch?",
       answer:
-        "The first five months after launch are free, covering security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and you can stop it whenever you like. We can also train your staff to handle simple updates themselves.",
+        "The first two months after launch are free, covering security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and you can stop it whenever you like. We can also train your staff to handle simple updates themselves.",
     },
     {
       question: "Who owns the website, app and code?",

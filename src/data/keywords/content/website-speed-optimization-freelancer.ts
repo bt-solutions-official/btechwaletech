@@ -250,7 +250,7 @@ const content: FreelanceContent = {
         "A monthly look at the Core Web Vitals report in Search Console",
         "Hosting plan reviewed when traffic grows",
       ],
-      after: [`If you would rather not track this yourself, monthly care from ${P.care} includes checks on these points, updates and backups. New sites built by us include five months of free maintenance. See <a href='/website-maintenance-freelancer/'>website maintenance</a> for what is covered.`],
+      after: [`If you would rather not track this yourself, monthly care from ${P.care} includes checks on these points, updates and backups. New sites built by us include two months of free maintenance. See <a href='/website-maintenance-freelancer/'>website maintenance</a> for what is covered.`],
     },
     {
       id: "example",

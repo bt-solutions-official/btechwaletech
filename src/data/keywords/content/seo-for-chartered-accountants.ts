@@ -398,7 +398,7 @@ const content: FreelanceContent = {
         ["Knowledge site", "299+ explainers, service and audience pages with schema", P.seoSite, "3–5 weeks"],
         ["Client document portal", "Secure login, uploads, status tracking", P.software, "6–12 weeks"],
         ["Due-date reminders", "Automated WhatsApp or email reminders to existing clients", P.ai, "2–4 weeks"],
-        ["Site care", "Updates, backups, fixes after the free period", `${P.care}, after 5 free months`, "Ongoing"],
+        ["Site care", "Updates, backups, fixes after the free period", `${P.care}, after 2 free months`, "Ongoing"],
       ],
       hideSm: [1],
     },

@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers checking every migration" },
     { value: "2", label: "Working days to an itemised migration quote" },
-    { value: "5", label: "Months of free maintenance after a rebuild" },
+    { value: "2", label: "Months of free maintenance after a rebuild" },
     { value: "7", label: "Days a week on WhatsApp during the switch" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "WordPress to a modern stack", note: "Content exported from WordPress into a static or headless build, keeping slugs, images and metadata.", href: "/wordpress-to-nextjs-migration/", size: "md" },
       { name: "HTTP to HTTPS and URL clean-up", note: "Sitewide redirects, updated internal links and canonical tags, and removal of redirect chains left by past changes.", href: "/website-speed-optimization-freelancer/", size: "sm" },
       { name: "Hacked site recovery and move", note: "Cleaning an infected site and moving it to fresh hosting, so reinfection from the old server is ruled out.", href: "/hacked-website-repair/", size: "sm" },
-      { name: "Aftercare", note: `Five months of free maintenance after a rebuild, then from ${P.care} a month.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Aftercare", note: `Two months of free maintenance after a rebuild, then from ${P.care} a month.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The weeks after a migration matter as much as the night itself, and a website migration freelancer who disappears after switch night has done only half the job. Google recrawls gradually, so problems appear in Search Console over days, not minutes.`,
         `We run a crawl of the old URL list against the live site to confirm every redirect lands on a 200 page, check Search Console for new 404s, redirect errors and pages “crawled, currently not indexed”, and compare impressions and clicks for the top pages week on week. Some movement is normal for domain and platform changes; a steady fall on specific pages usually points to a missing redirect or lost content, and those get fixed first.`,
-        `Keep the old hosting account alive for a few weeks if you can, and do not let the old domain expire after a domain change. Its redirects are what pass your history to the new site. After a rebuild, our five months of free maintenance cover this monitoring period.`,
+        `Keep the old hosting account alive for a few weeks if you can, and do not let the old domain expire after a domain change. Its redirects are what pass your history to the new site. After a rebuild, our two months of free maintenance cover this monitoring period.`,
       ],
     },
     {
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
     { question: "Who should own the hosting and domain after migration?", answer: "You should, registered in your name and billed to your business. Many migrations we see start because a former developer bought the hosting or domain in their own name. BtechWaleTech sets up new accounts in the client’s name and helps recover old ones through the registrar’s ownership process where needed." },
     { question: "Can a website migration freelancer work remotely?", answer: "Yes. Every part of the job a website migration freelancer does happens online: registrar and hosting panels, Git repositories, DNS settings and Google Search Console. The switch window is coordinated on WhatsApp or a video call. Remote work often makes timing easier, since the switch can be done late in the evening when your site has fewest visitors." },
     { question: "Can you migrate an online store without losing orders?", answer: "Yes. Products, variants, images, customers and past orders can be exported and imported between store platforms. Edits are frozen briefly before the final export so no new orders are missed. Customer passwords cannot be moved, so customers are asked to set new ones. Product and category redirects protect the store’s search traffic." },
-    { question: "What support is included after a migration?", answer: `After a rebuild, BtechWaleTech includes five months of free maintenance, which covers the monitoring period, redirect fixes and small changes. After that, maintenance is optional from ${P.care} a month. For hosting-only moves, a monitoring window is included in the quote, and you can add ongoing care if you want it.` },
+    { question: "What support is included after a migration?", answer: `After a rebuild, BtechWaleTech includes two months of free maintenance, which covers the monitoring period, redirect fixes and small changes. After that, maintenance is optional from ${P.care} a month. For hosting-only moves, a monitoring window is included in the quote, and you can add ongoing care if you want it.` },
     { question: "How do I pay for a website migration?", answer: "Payment is staged: an advance when you approve the itemised quote, and the balance once the switch is done and checks pass. In India BtechWaleTech accepts UPI or bank transfer; overseas clients pay by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and the quote lists each migration step separately." },
     { question: "Website ko nayi hosting par shift karna hai, SEO kharab hoga kya?", answer: "Agar sirf hosting badal rahe hain aur URLs same hain, toh aam taur par SEO par koi fark nahi padta. Domain ya platform badalne par har purane URL ka 301 redirect lagana zaroori hai, email ke DNS records copy karne hote hain, aur baad mein Search Console check karna hota hai. Sahi plan ke saath risk kaafi kam ho jaata hai." },
   ],

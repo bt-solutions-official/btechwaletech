@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "IT solutions · Faridabad, Haryana",
     h1: "Freelance software developers in Faridabad for custom software, AI automation and apps",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely, and we act as freelance software developers in Faridabad for the systems behind a local business: job-card and dispatch portals for component makers, quotation tools for fabricators, WhatsApp bots for clinics, stock dashboards for distributors, and the B2B websites that bring enquiries in. You speak directly with the people writing the code, and the first five months of maintenance after launch cost nothing.",
+      "BtechWaleTech is a freelance group of three engineers working remotely, and we act as freelance software developers in Faridabad for the systems behind a local business: job-card and dispatch portals for component makers, quotation tools for fabricators, WhatsApp bots for clinics, stock dashboards for distributors, and the B2B websites that bring enquiries in. You speak directly with the people writing the code, and the first two months of maintenance after launch cost nothing.",
     pills: ["Web apps from ₹60,000", "AI automation from ₹40,000", "Dashboards from Tally and Excel", "B2B sites from ₹10,000", "Android & iOS apps from ₹40,000"],
   },
   quickAnswer:
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents and automations that read purchase orders, draft quotations, answer routine WhatsApp questions and push leads into a CRM without manual copying.",
     data: "Dashboards that combine Tally exports, Excel sheets and portal data into one daily view of orders, rejections, dues and machine output.",
     app: "Android and iOS apps from ₹40,000 for Faridabad supervisors, dealers, service engineers and delivery staff, written once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Backups, fixes, security updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Backups, fixes, security updates and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Faridabad owners have usually been burned once: a vendor who built half an ERP and vanished, or a website nobody could edit. We work differently. Three engineers, direct WhatsApp access, published starting prices, and every login, repository and domain handed to you.",
@@ -180,7 +180,7 @@ const content: CityContent = {
       id: "cost-guide",
       heading: "How much do freelance software developers in Faridabad charge?",
       paragraphs: [
-        "Freelance software developers in Faridabad charge very different rates, but with BtechWaleTech custom software starts from ₹60,000 for a focused web application, such as an order tracker, a quotation tool or a service-call portal. AI automation starts at ₹40,000, an Android and iOS app also from ₹40,000, a B2B website from ₹10,000, a large SEO website from ₹20,000, an online store from ₹50,000, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after the free five months.",
+        "Freelance software developers in Faridabad charge very different rates, but with BtechWaleTech custom software starts from ₹60,000 for a focused web application, such as an order tracker, a quotation tool or a service-call portal. AI automation starts at ₹40,000, an Android and iOS app also from ₹40,000, a B2B website from ₹10,000, a large SEO website from ₹20,000, an online store from ₹50,000, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after the free two months.",
         "The final number depends on a handful of factors you can control. The number of user roles and approval steps matters, because each role needs its own screens and permissions. Integrations with Tally, a marketplace, a CRM or WhatsApp add work. Migrating old records from Excel adds time if the data is inconsistent. Reports and printable formats such as challans, invoices and inspection sheets each need design effort. A narrow first version keeps the cost predictable, and later modules can be quoted separately.",
         "You get an itemised quote in about two working days after a short discussion, listing each module and its price. Payment is split into stages tied to delivery, paid in INR by UPI or bank transfer. Full rates for every service are on the <a href=\"/pricing/\">pricing page</a>. If a quote from another vendor seems much lower, check whether it includes hosting setup, source code handover and post-launch fixes; ours does.",
       ],
@@ -230,7 +230,7 @@ const content: CityContent = {
       paragraphs: [
         "Most Faridabad projects run between two and twelve weeks: a static website in one to two weeks, an automation in two to four, an online store in four to eight and a custom portal in six to twelve. The biggest factor in timelines is usually how quickly content, sample data and feedback come back from the client side.",
         "We work remotely from India, with no office in Faridabad, and that suits most local clients better than they expect. Discovery happens over a call and a WhatsApp group, where you can send photos of job cards, register pages and Excel sheets. We share a working demo link every week, so you see progress on real screens rather than in status reports. For factory software, we often ask a supervisor to record a short phone video of how an order moves through the floor, which tells us more than any meeting.",
-        "Training happens on video calls with screen sharing, and we record the sessions so new staff can watch them later. After launch, the first five months of maintenance are free, covering fixes, small changes, backups and updates. For businesses also operating near Gurugram, our <a href=\"/it-services/haryana/gurugram/\">Gurugram IT services page</a> covers that market, and the wider <a href=\"/it-services/haryana/\">Haryana IT services hub</a> links every city we cover in the state.",
+        "Training happens on video calls with screen sharing, and we record the sessions so new staff can watch them later. After launch, the first two months of maintenance are free, covering fixes, small changes, backups and updates. For businesses also operating near Gurugram, our <a href=\"/it-services/haryana/gurugram/\">Gurugram IT services page</a> covers that market, and the wider <a href=\"/it-services/haryana/\">Haryana IT services hub</a> links every city we cover in the state.",
       ],
     },
   ],
@@ -303,7 +303,7 @@ const content: CityContent = {
     {
       question: "What happens after launch? Is maintenance included?",
       answer:
-        "The first five months of maintenance after launch are free. That covers bug fixes, small changes, security and dependency updates, backups, and uptime and speed checks. After that, you can continue on a monthly plan from ₹8,000 or contact us only when you need changes. New modules or major features are quoted separately, just like the original project.",
+        "The first two months of maintenance after launch are free. That covers bug fixes, small changes, security and dependency updates, backups, and uptime and speed checks. After that, you can continue on a monthly plan from ₹8,000 or contact us only when you need changes. New modules or major features are quoted separately, just like the original project.",
     },
     {
       question: "Can the software and website be in Hindi?",

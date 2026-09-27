@@ -35,7 +35,7 @@ const marmagao: CityContent = {
     pills: ["Sites from ₹10,000", "English and Konkani", "Port and logistics firms", "Airport-side hotels", "Replies all 7 days"],
   },
   quickAnswer:
-    "In Vasco da Gama and Mormugao, our websites start from ₹10,000 and typically launch in one to two weeks. SEO sites with 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are fully remote with no Goa office, and include five months of free maintenance.",
+    "In Vasco da Gama and Mormugao, our websites start from ₹10,000 and typically launch in one to two weeks. SEO sites with 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are fully remote with no Goa office, and include two months of free maintenance.",
   snapshot: [
     { label: "Taluka", value: "Mormugao taluka of South Goa district, with Vasco da Gama as its main town, about 30 km from Panaji" },
     { label: "Port", value: "Mormugao Port, built in 1888 and made a Major Port in 1963, known mainly for iron ore exports and with a cruise terminal" },
@@ -52,10 +52,10 @@ const marmagao: CityContent = {
     ai: "WhatsApp assistants that answer room, rate, schedule and document questions in English, Konkani or Hindi, then hand over.",
     data: "Dashboards for vessel calls handled, container movements, hotel occupancy or sales, built from your existing sheets.",
     app: "Android and iOS apps for surveyors, drivers and field technicians working across the port, shipyard and Verna, from ₹40,000 on both stores.",
-    maintenance: "Five months of free updates and security care after launch; later maintenance starts from ₹8,000 a month.",
+    maintenance: "Two months of free updates and security care after launch; later maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Businesses in Vasco often choose between a Panaji or Margao agency with big-city rates and a freelancer who is hard to reach once the site is live. We publish starting prices, understand port and tourism work, reply on WhatsApp every day and maintain your site free for five months after launch.",
+    "Businesses in Vasco often choose between a Panaji or Margao agency with big-city rates and a freelancer who is hard to reach once the site is live. We publish starting prices, understand port and tourism work, reply on WhatsApp every day and maintain your site free for two months after launch.",
   pricingIntro:
     "These amounts are starting points for work in Vasco and Mormugao, never fixed bundles. Your price depends on pages, languages, products and features. Every project begins with an itemised written quote, and we charge nothing until you approve it in writing.",
   sections: [
@@ -183,11 +183,11 @@ const marmagao: CityContent = {
     },
     {
       id: "ownership-care-vasco",
-      heading: "Ownership, handover and five months of free care",
+      heading: "Ownership, handover and two months of free care",
       paragraphs: [
         "Goa has plenty of businesses whose website quietly disappeared when a designer moved on and the domain, booked in the designer's name, expired. For a hotel that relies on direct bookings, that can mean weeks of lost enquiries in peak season.",
         "We register the domain and hosting in your name, give you every login at launch and hand over the source code as your property. You can move to another developer whenever you like without an exit fee, and we provide a short note explaining how the site is built.",
-        "For five months after launch we look after updates, bug fixes, security patches, backups and uptime monitoring without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
+        "For two months after launch we look after updates, bug fixes, security patches, backups and uptime monitoring without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const marmagao: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security and software updates, backups and uptime checks at no cost. After that you can continue maintenance from ₹8,000 a month or contact us only when you need a change.",
+        "For two months after launch we handle content changes, bug fixes, security and software updates, backups and uptime checks at no cost. After that you can continue maintenance from ₹8,000 a month or contact us only when you need a change.",
     },
     {
       question: "How long does SEO take for a Vasco business?",

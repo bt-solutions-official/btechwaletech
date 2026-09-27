@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Online store from", `${P.shop}`],
     ["Typical build", "2–12 weeks depending on features"],
     ["Database and hosting", "In your name, with backups"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering build, hosting and data" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom admin panel or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Store with orders and stock", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Typical stacks", value: "WordPress, headless CMS, Laravel, Django or Node.js with PostgreSQL or MySQL" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -119,7 +119,7 @@ const content: FreelanceContent = {
       heading: "Do you really need a dynamic website?",
       paragraphs: [
         `You need one if at least one of these is true: staff will update content weekly or more; you publish many similar items such as listings or notices; visitors need accounts; or forms must feed a workflow rather than an inbox.`,
-        `You probably do not need one if the site is a brochure of ten to fifty pages that changes a few times a year, and the owner is happy to message the developer for edits. In that case a static site is cheaper to build, faster to load and needs almost no security upkeep. With us, those edits are free for the first five months anyway.`,
+        `You probably do not need one if the site is a brochure of ten to fifty pages that changes a few times a year, and the owner is happy to message the developer for edits. In that case a static site is cheaper to build, faster to load and needs almost no security upkeep. With us, those edits are free for the first two months anyway.`,
         `A middle path works for many businesses: a static site for the main pages plus one dynamic section, such as a notice board, a job list or a product catalogue, managed through a small CMS. You pay for dynamic features only where they earn their keep. A good dynamic website developer will talk you out of features you will never use.`,
       ],
       list: [
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       heading: "Dynamic website kya hoti hai? Aasaan jawab",
       paragraphs: [
         `Dynamic website mein content database mein rehta hai aur aap admin panel se khud products, notices ya listings badal sakte hain, developer ko bole bina. Agar aapka content kabhi-kabhi hi badalta hai, toh static website sasti aur tez rahegi.`,
-        `Hamare saath CMS wali business website ${P.site} wale plan se shuru hoti hai, CMS ka kaam alag line mein. Login, listings ya custom admin panel wali site ${P.software} se shuru hoti hai. Domain, hosting aur database aapke naam par, aur launch ke baad 5 mahine maintenance free.`,
+        `Hamare saath CMS wali business website ${P.site} wale plan se shuru hoti hai, CMS ka kaam alag line mein. Login, listings ya custom admin panel wali site ${P.software} se shuru hoti hai. Domain, hosting aur database aapke naam par, aur launch ke baad 2 mahine maintenance free.`,
       ],
     },
   ],
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Products, stock, orders, invoices"],
         ["Directory, listings or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Custom admin, filters, roles"],
         ["Member or dealer login area", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "User accounts, private documents"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, small changes"],
       ],
       hideSm: [2],
     },
@@ -375,12 +375,12 @@ const content: FreelanceContent = {
     { question: "Will a dynamic website be slow?", answer: "Not if it is built carefully. Speed problems usually come from heavy themes, missing database indexes and uncached pages. We cache public pages, index common filters, resize images on upload, use a CDN and pre-render pages where possible, aiming to pass Core Web Vitals on mid-range Android phones over mobile data." },
     { question: "Is a dynamic website good for SEO?", answer: `Yes, when built correctly. Each listing or item gets a clean URL, unique title and description, relevant structured data and a place in an automatically updated sitemap, while filter pages are controlled to avoid thin duplicates. We set up Google Search Console before launch. Ongoing SEO starts at ${P.seo}; nobody can guarantee rankings.` },
     { question: "Who owns the database and content of my dynamic website?", answer: "You do. Domain, hosting and database are registered in your name, the code sits in a repository you control, and you receive owner-level admin access and database credentials at launch. The admin also includes CSV exports for each main content type, so your data can be moved to another system whenever you choose." },
-    { question: "What maintenance does a dynamic website need?", answer: `Regular updates to the CMS or framework and its dependencies, security checks, backup monitoring with occasional restore tests, and small fixes as staff use the admin. The first five months after launch are covered by our free maintenance. After that, maintenance starts at ${P.care}, or your own team can take it over with the handover notes.` },
+    { question: "What maintenance does a dynamic website need?", answer: `Regular updates to the CMS or framework and its dependencies, security checks, backup monitoring with occasional restore tests, and small fixes as staff use the admin. The first two months after launch are covered by our free maintenance. After that, maintenance starts at ${P.care}, or your own team can take it over with the handover notes.` },
     { question: "Can you convert my static website into a dynamic one?", answer: "Yes. We keep your existing URLs and design where they work, add a CMS or custom admin for the sections that change often, move existing content into the database and set redirects for any URL that must change. Often only one or two sections need to become dynamic, which keeps cost and upkeep down." },
     { question: "Can a dynamic website have user logins and payments?", answer: `Yes. Customers, students, members or dealers can sign in to see their own orders, documents, results or price lists, with roles controlling access. Payments by UPI and card can be added for orders, fees or subscriptions, with GST invoices where required. Sites with logins start at ${P.software}; stores start at ${P.shop}.` },
     { question: "Should I choose a website builder instead of a dynamic website developer?", answer: "Hosted builders let you edit pages yourself quickly and suit simple sites. They become limiting when you need custom content types, filters, roles, integrations or full ownership of code and data. If you have outgrown a builder, our page on moving to a custom website explains how to switch without losing search traffic." },
     { question: "Can a dynamic website developer from India work with clients abroad?", answer: `Yes. We build dynamic sites for clients in Canada, Australia, the UK, the USA and elsewhere, billing in USD with custom builds from ${P.softwareUsd}. Payments go through Wise, bank wire or PayPal, workshops happen on video calls, and staging links let you test the admin at any hour.` },
-    { question: "Dynamic website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath CMS wali business website ${P.site} ke website plan se shuru hoti hai, CMS ka kaam alag line mein likha jaata hai. Login, listings ya custom admin panel wali website ${P.software} se shuru hoti hai. Domain, hosting aur database aapke naam par rehte hain aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Dynamic website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath CMS wali business website ${P.site} ke website plan se shuru hoti hai, CMS ka kaam alag line mein likha jaata hai. Login, listings ya custom admin panel wali website ${P.software} se shuru hoti hai. Domain, hosting aur database aapke naam par rehte hain aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "What should I prepare before hiring a dynamic website developer?", answer: "List the content your staff will update and how often, the fields each item needs (for example price, locality, photos), who will log in and what each person may do, any existing data in spreadsheets, and a few sites whose admin or listings you like. This one page lets developers quote comparable scopes." },
   ],
   related: {

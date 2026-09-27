@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What WhatsApp Business API integration costs",
-    note: `Integration builds start from ${P.ai}. The quote depends on how many systems WhatsApp must talk to (a single Shopify store, or Shopify plus a CRM and a booking tool), how many templates and conversation flows you need, whether you want an AI assistant or button-based menus, and whether staff need a shared inbox. Meta's own message fees are separate: since 1 July 2025 Meta charges per delivered template message by category, while service replies are free, and those fees are billed to your Meta account. Hosting for the integration is billed to your own cloud account too. Maintenance is free for five months after launch, then from ${P.care}.`,
+    note: `Integration builds start from ${P.ai}. The quote depends on how many systems WhatsApp must talk to (a single Shopify store, or Shopify plus a CRM and a booking tool), how many templates and conversation flows you need, whether you want an AI assistant or button-based menus, and whether staff need a shared inbox. Meta's own message fees are separate: since 1 July 2025 Meta charges per delivered template message by category, while service replies are free, and those fees are billed to your Meta account. Hosting for the integration is billed to your own cloud account too. Maintenance is free for two months after launch, then from ${P.care}.`,
   },
   guideLabel: "WhatsApp Business API integration UK guide",
   guide: [
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
         `Most integrations take two to four weeks from approval. Meta account setup and template approval happen in parallel with the build, so they rarely hold things up if started on day one.`,
         `Week one covers the Meta business portfolio, number registration, display name, business verification submission and first template drafts. We also agree every flow in writing: what triggers each message, the exact wording, and what happens when a customer replies.`,
         `Week two is the integration: webhooks, sending logic, connections to Shopify, the CRM or booking tool, and the shared inbox. Week three is testing with real phones, including edge cases like a customer replying to an old order or sending a voice note. Complex projects with AI assistants or several systems run into week four.`,
-        `After launch we monitor template performance, delivery failures and quality rating for the first weeks and adjust wording where customers seem confused. That is covered by five months of free maintenance.`,
+        `After launch we monitor template performance, delivery failures and quality rating for the first weeks and adjust wording where customers seem confused. That is covered by two months of free maintenance.`,
       ],
     },
     {
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
         ["Support chatbot", "AI answers from your content, human hand-off", "3 to 4 weeks", P.ai],
         ["CRM integration", "Contact matching, message logging, consent fields", "2 to 3 weeks", P.ai],
         ["Multi-system platform", "Several numbers, routing, dashboard, custom logic", "6 weeks or more", P.software],
-        ["Ongoing care", "Template changes, monitoring, fixes", "Monthly", `${P.care} after 5 free months`],
+        ["Ongoing care", "Template changes, monitoring, fixes", "Monthly", `${P.care} after 2 free months`],
       ],
     },
   ],
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
       ["Meta setup in your name", "Business portfolio, number registration, display name, verification and template submissions, all owned by your business with you as admin."],
       ["Build the integration", "Webhooks, sending logic, system connections, chatbot or Flows, and a shared inbox, hosted in your own cloud account."],
       ["Test on real phones", "You receive every template and flow on your own phone, try edge cases, and approve the wording before customers see anything."],
-      ["Launch and monitor", "We watch delivery, quality rating and replies for the first weeks, adjust templates, and maintain everything free for five months."],
+      ["Launch and monitor", "We watch delivery, quality rating and replies for the first weeks, adjust templates, and maintain everything free for two months."],
     ],
   },
   faqHeading: "WhatsApp Business API integration UK: questions answered",

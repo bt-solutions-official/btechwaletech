@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "IT services · Karimnagar, Telangana",
     h1: "Freelance software developers for Karimnagar's granite yards, hospitals and growing businesses",
     lede:
-      "Freelance software developers for Karimnagar: BtechWaleTech is a freelance group of three remote engineers building block and slab tracking for granite quarries and processors, patient systems for the city's hospitals, owner dashboards, Telugu WhatsApp agents, Android and iOS apps, business websites and proper SEO setup. For anyone comparing a software development team in Karimnagar, our starting prices are published and maintenance is free for five months after launch.",
+      "Freelance software developers for Karimnagar: BtechWaleTech is a freelance group of three remote engineers building block and slab tracking for granite quarries and processors, patient systems for the city's hospitals, owner dashboards, Telugu WhatsApp agents, Android and iOS apps, business websites and proper SEO setup. For anyone comparing a software development team in Karimnagar, our starting prices are published and maintenance is free for two months after launch.",
     pills: ["Granite block and slab tracking", "Hospital and clinic systems", "Owner dashboards", "Android and iOS apps", "SEO setup done properly"],
   },
   quickAnswer:
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "WhatsApp agents in Telugu or English that answer doctor timings, slab availability and fee questions, log leads and pass anything unusual to staff.",
     data: "Dashboards for granite stock by colour and size, hospital appointments and revenue, or college admissions and fees, updated automatically and readable on a phone.",
     app: "Android and iOS apps in Flutter or React Native, published on Google Play and the App Store, for Karimnagar patients, quarry supervisors, buyers and students, from ₹40,000.",
-    maintenance: "Fixes, backups, updates and content changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Fixes, backups, updates and content changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Karimnagar businesses want a developer who understands that a granite yard or a busy hospital cannot stop for software problems. A freelance group of three keeps continuity: the engineer who scopes your system builds it, trains your staff and answers on WhatsApp when something needs fixing.",
@@ -164,7 +164,7 @@ const content: CityContent = {
       heading: "Cloud hosting, deployment and IT support for Karimnagar",
       paragraphs: [
         "Every Karimnagar system we build runs on cloud hosting such as AWS in an Indian region, registered to your business, with HTTPS, daily off-site backups, uptime monitoring and a staging copy for testing. We use Node.js or Python and PostgreSQL, a mainstream stack any developer can maintain.",
-        "IT support runs on WhatsApp seven days a week. The first five months of maintenance after launch are free, covering bug fixes, updates, backups and small changes; after that, plans start from ₹8,000 a month, or you can pay per change.",
+        "IT support runs on WhatsApp seven days a week. The first two months of maintenance after launch are free, covering bug fixes, updates, backups and small changes; after that, plans start from ₹8,000 a month, or you can pay per change.",
       ],
     },
     {
@@ -223,14 +223,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Dashboards and custom software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
       id: "working-with-us-karimnagar",
       heading: "How our freelance software developers work with Karimnagar clients",
       paragraphs: [
-        "Our freelance software developers work with Karimnagar clients through a discovery call, an itemised quote in about two working days, weekly demos on a staging link, launch with staff training in Telugu or English, and five months of free maintenance.",
+        "Our freelance software developers work with Karimnagar clients through a discovery call, an itemised quote in about two working days, weekly demos on a staging link, launch with staff training in Telugu or English, and two months of free maintenance.",
         "At handover you receive source code, database access, every login and a deployment note. We do not promise rankings, write fake reviews or claim certifications we lack. Learn <a href=\"/about/\">about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, explore <a href=\"/services/\">all services</a> and our <a href=\"/it-services/telangana/\">Telangana overview</a>, and get in touch through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
@@ -238,9 +238,9 @@ const content: CityContent = {
       "id": "running-costs-karimnagar",
       "heading": "What are the yearly running costs of a Karimnagar website, app or software?",
       "paragraphs": [
-        "The yearly running costs of a Karimnagar website, app or custom software are the domain renewal, hosting or cloud charges, messaging fees for SMS or WhatsApp, app store accounts for published apps, and maintenance after the first five free months. A granite yard's catalogue site costs little to keep online; a hospital appointment system with patient logins and daily backups costs more, and both should be budgeted before launch.",
+        "The yearly running costs of a Karimnagar website, app or custom software are the domain renewal, hosting or cloud charges, messaging fees for SMS or WhatsApp, app store accounts for published apps, and maintenance after the first two free months. A granite yard's catalogue site costs little to keep online; a hospital appointment system with patient logins and daily backups costs more, and both should be budgeted before launch.",
         "Hosting depends on use. A static export catalogue can sit on inexpensive hosting, while software that granite units, rice mills or clinics use all day needs a managed database and backups, billed monthly by the cloud provider to your account. Appointment reminders or dues messages on WhatsApp are charged by Meta per conversation. Google Play charges a one-time registration, and Apple bills its developer programme every year. Payment gateway fees are deducted per transaction by the gateway.",
-        "We cover the first five months of maintenance free. After that you can choose a plan from ₹8,000 a month, which suits hospitals and busy traders, or pay per change if your system is stable. Each quote has a running-cost table naming who bills each item and when, and all accounts are in your name, so you are never locked to us for renewals."
+        "We cover the first two months of maintenance free. After that you can choose a plan from ₹8,000 a month, which suits hospitals and busy traders, or pay per change if your system is stable. Each quote has a running-cost table naming who bills each item and when, and all accounts are in your name, so you are never locked to us for renewals."
       ]
     },
     {
@@ -320,7 +320,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small content changes. After that, plans start from ₹8,000 a month, or you pay per change. New features are quoted separately in advance.",
+        "Two months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small content changes. After that, plans start from ₹8,000 a month, or you pay per change. New features are quoted separately in advance.",
     },
     {
       question: "How long before SEO works in Karimnagar?",

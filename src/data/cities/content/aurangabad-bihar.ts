@@ -30,11 +30,11 @@ const aurangabadBihar: CityContent = {
     eyebrow: "Aurangabad · Magadh division · Bihar",
     h1: "Websites, software, SEO and AI tools for Aurangabad, Bihar: GT Road traders, schools, contractors and carpet weavers",
     lede:
-      "We are a three-person remote engineering team building websites, map listings and small business software for Aurangabad district in Bihar, from shops on GT Road and Jasoiya More to schools, clinics, power plant contractors in Nabinagar, carpet weavers of Obra and pilgrim businesses at Deo. All prices are starting figures, you speak to the builders directly, and upkeep is free for five months.",
+      "We are a three-person remote engineering team building websites, map listings and small business software for Aurangabad district in Bihar, from shops on GT Road and Jasoiya More to schools, clinics, power plant contractors in Nabinagar, carpet weavers of Obra and pilgrim businesses at Deo. All prices are starting figures, you speak to the builders directly, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and Magahi-friendly copy", "Contractor profiles", "Carpet and dari catalogues", "Google Maps setup"],
   },
   quickAnswer:
-    "A business website in Aurangabad, Bihar starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no office in Aurangabad, and maintenance is free for five months after launch.",
+    "A business website in Aurangabad, Bihar starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no office in Aurangabad, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "District", value: "Headquarters of Aurangabad district, carved out of Gaya district on 26 January 1973; vehicle series BR-26" },
     { label: "Roads", value: "On NH19 (the Grand Trunk Road) where it meets NH139; about 70 km from Gaya and 140 km from Patna" },
@@ -51,7 +51,7 @@ const aurangabadBihar: CityContent = {
     ai: "WhatsApp replies in Hindi for fees, stock, timings and site updates, with any unusual query handed to a person.",
     data: "Dashboards of admissions, orders, labour costs or site progress that an owner can check on a phone in the evening.",
     app: "Android and iPhone apps for school parents or site supervisors, available on both Google Play and the App Store, with builds starting at ₹40,000.",
-    maintenance: "Five free months of fixes, edits and backups after launch, then maintenance from ₹8,000 a month if you wish.",
+    maintenance: "Two free months of fixes, edits and backups after launch, then maintenance from ₹8,000 a month if you wish.",
   },
   whyUsIntro:
     "In Aurangabad, most websites are made by someone known to the family or by an agency in Patna or Gaya, and very often the owner cannot change a phone number without calling the developer. We work more openly: starting prices are published, quotes are itemised, the domain and hosting are in your name, and three engineers reply on WhatsApp every day of the week.",
@@ -176,7 +176,7 @@ const aurangabadBihar: CityContent = {
       heading: "Ownership, handover and ongoing upkeep",
       paragraphs: [
         "The most common website problem we see in district towns is a domain registered under the developer's personal account. When that person moves on, the business loses its website and every link printed on its visiting cards and signboards. We avoid this by registering the domain and hosting in your name from the first day, and at launch handing over every login, the full source code and a short note on the setup.",
-        "For five months after launch, maintenance is free. That covers text and price updates, security and software updates, backups, bug fixes and speed checks. Admission months, Chhath and wedding season all bring changes to timings and offers, and during this period we make them without charge.",
+        "For two months after launch, maintenance is free. That covers text and price updates, security and software updates, backups, bug fixes and speed checks. Admission months, Chhath and wedding season all bring changes to timings and offers, and during this period we make them without charge.",
         "After that, maintenance continues from ₹8,000 a month if you want it, or you can message us when something needs changing and pay only for that work. You can move to any other developer at any time without an exit fee.",
       ],
     },
@@ -267,7 +267,7 @@ const aurangabadBihar: CityContent = {
         "Yes. The domain and hosting are registered in your name from the start, and at launch you receive all logins and the full source code. You can move to another developer at any time without an exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose. Monthly maintenance starts from ₹8,000 and covers updates, backups, security fixes and edits. Or you can skip the plan and pay per job when you need a change. Either way, the site keeps running on hosting in your name.",
     },

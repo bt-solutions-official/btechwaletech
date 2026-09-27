@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What help with Play Store ranking costs",
-    note: `Listing work (keyword research, title and description rewrites, review replies, one experiment at a time and a monthly Play Console report) starts at ${P.seo} for one app in one language. Crash and ANR fixes are development work: on apps we built they fall under app care from ${P.care} after the five free months, and on apps built by someone else we quote them after reading the code. Extra languages, new screenshot sets or a large stability backlog raise the quote. If the app needs rebuilding, a new Android and iOS app starts at ${P.app}. Every quote is itemised, and nothing is billed until you approve it.`,
+    note: `Listing work (keyword research, title and description rewrites, review replies, one experiment at a time and a monthly Play Console report) starts at ${P.seo} for one app in one language. Crash and ANR fixes are development work: on apps we built they fall under app care from ${P.care} after the two free months, and on apps built by someone else we quote them after reading the code. Extra languages, new screenshot sets or a large stability backlog raise the quote. If the app needs rebuilding, a new Android and iOS app starts at ${P.app}. Every quote is itemised, and nothing is billed until you approve it.`,
   },
   guideLabel: "How to rank app on Play Store: guide",
   guide: [

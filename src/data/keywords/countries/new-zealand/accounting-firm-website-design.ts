@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Large content or niche site from", P.seoSite],
     ["Client document portal from", P.software],
     ["Onboarding automation from", P.ai],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Quote turnaround", "About 2 working days, itemised in USD"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, search and delivery management" },
     { value: "2", label: "Working days, roughly, until your itemised quote" },
-    { value: "5", label: "Months of free maintenance after the site goes live" },
+    { value: "2", label: "Months of free maintenance after the site goes live" },
     { value: "0", label: "Fees from us on client sign-ups or portal uploads" },
   ],
   answer: {
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, accounting firm website design starts from ${P.site} for a practice site, from ${P.seoSite} for a content-heavy site with many niche and deadline pages, and from ${P.software} for a custom client portal. Onboarding automation starts from ${P.ai}.`,
         `Other providers' quotes vary widely. The main cost drivers are the number of pages you want written from scratch, whether you need a portal, integrations with Xero or your practice software, and how much content you supply. A practice sending bullet notes for each page pays less than one needing full drafting.`,
-        `After launch, five months of maintenance are free. Then care plans start from ${P.care}, and monthly search work, such as seasonal deadline updates and new niche pages, from ${P.seo}. You pay your own hosting and domain costs directly. There are no fees from us on new clients, uploads or portal users.`,
+        `After launch, two months of maintenance are free. Then care plans start from ${P.care}, and monthly search work, such as seasonal deadline updates and new niche pages, from ${P.seo}. You pay your own hosting and domain costs directly. There are no fees from us on new clients, uploads or portal users.`,
       ],
       after: [
         `For wider context on budgets, see our guide to <a href='/new-zealand/website-design-cost/'>website design costs in NZ</a>.`,
@@ -395,12 +395,12 @@ const content: FreelanceContent = {
       ["Layouts for approval", "We design the home, packages and one niche page, shared as a clickable preview. You approve or send changes from your phone."],
       ["Your knowledge, our structure", "Partners send notes for niche and deadline pages. We turn them into structured drafts, you correct and approve, and nothing tax-related goes live unapproved."],
       ["Build and test", "Forms, booking, credentials and lead magnets are built and tested. If a portal is included, it is security tested and trialled with a few clients."],
-      ["Launch and five months of care", "The site goes live on your accounts, Search Console is verified, and five months of free maintenance cover fixes and small edits."],
+      ["Launch and two months of care", "The site goes live on your accounts, Search Console is verified, and two months of free maintenance cover fixes and small edits."],
     ],
   },
   faqHeading: "Accounting firm website design: questions from NZ practices",
   faqs: [
-    { question: "How much does accounting firm website design cost in New Zealand?", answer: `With BtechWaleTech, a practice website starts from ${P.site}, a content-heavy site with many niche and deadline pages from ${P.seoSite}, and a custom client portal from ${P.software}. Onboarding automation starts from ${P.ai}. Other providers' quotes vary widely depending on content, portals and integrations. Five months of maintenance are free after launch.` },
+    { question: "How much does accounting firm website design cost in New Zealand?", answer: `With BtechWaleTech, a practice website starts from ${P.site}, a content-heavy site with many niche and deadline pages from ${P.seoSite}, and a custom client portal from ${P.software}. Onboarding automation starts from ${P.ai}. Other providers' quotes vary widely depending on content, portals and integrations. Two months of maintenance are free after launch.` },
     { question: "What should an accountant's website include?", answer: "Include who you help, package or pricing information, credentials such as CA ANZ membership and Xero partner status, team profiles, a switching page for clients leaving another accountant, deadline resources you have reviewed, a secure document upload route, a privacy statement and a simple way to book a call. Niche sector pages help if you specialise." },
     { question: "Should accountants publish their prices online?", answer: "Many owners want a sense of cost before calling, so some pricing information usually helps. You can publish monthly fees per tier, show starting amounts with the factors that change them, or list inclusions without amounts and offer a quote form. Whatever you choose, it must match your engagement letters and be easy to update each year." },
     { question: "Can my accounting website have a secure client portal?", answer: `Yes. A portal gives each client a private login to upload and download documents, with encryption, job-based document requests and an audit log. If you already use a practice tool with its own portal, we link to it. A custom portal starts from ${P.software}. Your lawyer should confirm it supports your Privacy Act 2020 obligations.` },
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Do bookkeepers need a different website from chartered accountants?", answer: "The structure is similar, but credentials and positioning differ. Bookkeepers usually highlight software certifications, memberships and the services they cover, such as reconciliations and payroll, and explain how they work alongside a client's accountant. The site should state exactly what you hold and do, which builds more trust than borrowed titles." },
     { question: "How do AI tools like ChatGPT choose accountants to mention?", answer: "AI tools tend to draw on pages that state facts clearly, cite official sources and show who wrote or reviewed them, together with consistent business details across the web. A deadline page citing Inland Revenue and reviewed by a named accountant, plus clear service and sector pages, gives these tools accurate material to describe your practice." },
     { question: "Will I own my accounting website?", answer: "Yes. With us, the domain, hosting, code, analytics and any portal database are registered to your practice from the start. Our access is granted by you and removed after handover. If you later move to another developer, you take everything with you, including all content written for your site." },
-    { question: "What happens after the five months of free maintenance?", answer: `You can manage updates yourself, move to another developer, or take a care plan from ${P.care} for fixes, updates and edits such as seasonal deadline changes. Monthly SEO starts from ${P.seo} if you want new niche pages and ranking reviews. The site keeps running either way, since hosting is in your name.` },
+    { question: "What happens after the two months of free maintenance?", answer: `You can manage updates yourself, move to another developer, or take a care plan from ${P.care} for fixes, updates and edits such as seasonal deadline changes. Monthly SEO starts from ${P.seo} if you want new niche pages and ranking reviews. The site keeps running either way, since hosting is in your name.` },
     { question: "How do payments work with a team in India?", answer: "You receive an itemised USD quote and approve it in writing before any billing. Payments go by Wise, bank wire or PayPal, and invoices are issued from India. Milestones are set out in the quote, and our terms and refund policy pages describe the general approach. How you record the cost for tax is a matter for your own practice." },
     { question: "Should each niche industry get its own page?", answer: "Yes, if you genuinely serve that sector. A dedicated page for trades, hospitality, farms or property investors lets you speak directly to that owner's problems and helps search engines understand your specialities. Write from real experience, link each page to a matching package and booking button, and avoid creating pages for sectors you rarely serve." },
     { question: "Do you meet accountants in person?", answer: "No. We are three freelance developers working remotely from India, so all meetings happen by video call, WhatsApp or email. A short kickoff call and quick approvals on your phone keep partner time low. If face-to-face workshops matter to you, a local studio is a better match, and we will say so honestly." },

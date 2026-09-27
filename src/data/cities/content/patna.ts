@@ -31,11 +31,11 @@ const patna: CityContent = {
     eyebrow: "Patna · Bihar",
     h1: "Website development and SEO for Patna's institutes, clinics and traders",
     lede:
-      "Patna businesses serve customers from every district of Bihar and from Biharis settled across India. We are three engineers who build the websites, Hindi-first SEO and WhatsApp workflows that reach them, with published prices, your name on every account, and five months of maintenance included after launch.",
+      "Patna businesses serve customers from every district of Bihar and from Biharis settled across India. We are three engineers who build the websites, Hindi-first SEO and WhatsApp workflows that reach them, with published prices, your name on every account, and two months of maintenance included after launch.",
     pills: ["Plans from ₹10,000", "Hindi-first SEO", "Coaching lead systems", "UPI online stores", "WhatsApp bots"],
   },
   quickAnswer:
-    "A website for a Patna business starts at ₹10,000 with us for a static site and ₹20,000 for a 299+ page SEO site, ready in one to five weeks. Stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and hosting are yours, and maintenance is free for five months.",
+    "A website for a Patna business starts at ₹10,000 with us for a static site and ₹20,000 for a 299+ page SEO site, ready in one to five weeks. Stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and hosting are yours, and maintenance is free for two months.",
   snapshot: [
     { label: "Commercial roads", value: "Boring Road, Fraser Road, Bailey Road, Exhibition Road and the Maurya Lok complex near Gandhi Maidan" },
     { label: "Old city trade", value: "Patna City and the markets around Patna Sahib, plus wholesale lanes in the older parts of the city" },
@@ -52,7 +52,7 @@ const patna: CityContent = {
     ai: "WhatsApp assistants that answer fee, batch, test and appointment questions in Hindi day and night, and pass serious enquiries to your staff.",
     data: "Dashboards that show admissions, collections, patient footfall or distributor sales in one place, updated without anyone compiling Excel sheets.",
     app: "Android and iOS apps for student logins, test series and repeat orders on budget phones, built in Flutter or React Native and listed on both stores.",
-    maintenance: "Free updates, fixes, backups and speed checks for five months after launch, then support from ₹8,000 a month.",
+    maintenance: "Free updates, fixes, backups and speed checks for two months after launch, then support from ₹8,000 a month.",
   },
   whyUsIntro:
     "Patna has a crowded market of website sellers: local agencies on Boring Road and Kankarbagh, Justdial listings, and firms elsewhere selling ₹2,999 packages to Bihar. Few explain what their prices include. We publish ours, answer on WhatsApp every day of the week, and register everything in your name so you are never stuck with one developer.",
@@ -173,11 +173,11 @@ const patna: CityContent = {
     },
     {
       id: "ownership-patna",
-      heading: "Ownership, handover and five free months of maintenance",
+      heading: "Ownership, handover and two free months of maintenance",
       paragraphs: [
         "Many Patna business owners have been through this: a developer built the site, kept the domain in his own account, and then stopped answering calls. When renewal came, the site went offline, or the developer asked for a large fee to hand it back. It happens often enough that we treat ownership as a basic part of every project.",
         "Your domain is registered in your name and the hosting account is opened in your name. At launch you receive every login, the full source code and a short note explaining what is where. You are free to take the site to any other developer whenever you like, with no fee and no permission needed.",
-        "For five months after launch, maintenance costs nothing: updates to text and prices, fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you pay only for changes when you need them. Our <a href=\"/services/web-development/\">web development page</a> lists everything included.",
+        "For two months after launch, maintenance costs nothing: updates to text and prices, fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you pay only for changes when you need them. Our <a href=\"/services/web-development/\">web development page</a> lists everything included.",
       ],
     },
     {
@@ -271,9 +271,9 @@ const patna: CityContent = {
         "Yes. The domain and hosting are registered in your name, and at launch you get every login and the complete source code. You can move to another developer at any time without paying us anything, which we insist on because many Patna owners have lost websites to unreachable developers.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During the first five months after launch we handle updates, fixes, backups, security patches and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something changed. There is no compulsory contract.",
+        "During the first two months after launch we handle updates, fixes, backups, security patches and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something changed. There is no compulsory contract.",
     },
     {
       question: "Do you also work with businesses in Hajipur, Gaya, Muzaffarpur and other Bihar towns?",

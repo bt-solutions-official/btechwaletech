@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Language", "TypeScript on an LTS Node.js release"],
     ["Code and cloud", "Your repository, your hosting account"],
     ["Quote", "Line by line, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can read and fix your backend" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Platform or middleman fees on payments" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Automation job", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Stack we default to", value: "TypeScript, Fastify or NestJS, PostgreSQL, Redis" },
       { label: "Hand-over pack", value: "Repo, OpenAPI spec, env guide, runbook" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -134,7 +134,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a freelance Node.js developer charge for a backend?",
       paragraphs: [
-        `Expect a project price, not a mystery hourly meter. Our custom backend or web app work starts at ${P.software} (${P.softwareUsd}) over 6–12 weeks. A narrower job, such as a service that reads incoming WhatsApp messages and files them into a CRM, falls under AI automation from ${P.ai}. Once the product is live, maintenance continues from ${P.care} after the five free months.`,
+        `Expect a project price, not a mystery hourly meter. Our custom backend or web app work starts at ${P.software} (${P.softwareUsd}) over 6–12 weeks. A narrower job, such as a service that reads incoming WhatsApp messages and files them into a CRM, falls under AI automation from ${P.ai}. Once the product is live, maintenance continues from ${P.care} after the two free months.`,
         `Across the market, quotes for “a Node.js backend” vary enormously, and the spread tells you more about scope assumptions than about talent. One quote may include tests, staging, monitoring and documentation; another may be a single server file with no error handling. Ask every candidate to list what is excluded.`,
         `The honest cost drivers are countable: number of integrations, user roles, real-time channels, reports, and whether old data must be migrated. A freelance Node.js developer who cannot tell you which of those dominate your estimate has not read your brief closely.`,
       ],
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
         ["Webhook or WhatsApp automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Number of events and systems"],
         ["Store with custom checkout backend", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue size, payment flows"],
         ["App plus Node backend", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Screens, push, offline sync"],
-        ["Monthly backend care (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, monitoring, small changes"],
+        ["Monthly backend care (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, monitoring, small changes"],
       ],
       hideSm: [2],
     },
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Agree the API contract", "We draft the OpenAPI file and data model together, so your frontend or app developers can start against a mock server straight away."],
       ["Build in reviewed slices", "Each flow ships to staging with tests, and a second developer reviews every merge. You see working endpoints weekly, not a big reveal at the end."],
       ["Harden and hand over", "Load checks, security review, backups, alerts and the runbook come before go-live. Accounts, repository and documentation are already in your name."],
-      ["Five months of care", "Bug fixes, dependency updates and small changes are free for five months after launch. Ongoing care is optional after that, from " + P.care + "."],
+      ["Two months of care", "Bug fixes, dependency updates and small changes are free for two months after launch. Ongoing care is optional after that, from " + P.care + "."],
     ],
   },
   faqHeading: "Freelance Node.js developer: common questions",
@@ -375,9 +375,9 @@ const content: FreelanceContent = {
     { question: "Will you sign an NDA before I share my product idea?", answer: "You can ask for one, and the terms are agreed in writing before you share sensitive details. Ownership of the code, documentation and accounts is set out in your written quote. For anything about cancellations or refunds, see the terms and refund policy pages on our site or ask us directly on WhatsApp." },
     { question: "Can the same team build the frontend and mobile app too?", answer: `Yes. Ankur handles full-stack work, so the React dashboard or website can be built alongside the Node API with shared TypeScript types. Android and iOS apps in Flutter or React Native start at ${P.app} and are published in your own Play Console and App Store Connect accounts.` },
     { question: "How do payments work with a freelance Node.js developer?", answer: "Payments are staged against visible milestones, such as the API contract, working flows on staging and go-live. Indian clients pay by UPI or bank transfer; overseas clients pay by Wise, bank wire or PayPal. There are no platform fees, and nothing is billed before you approve the written estimate." },
-    { question: "What happens after the backend goes live?", answer: `The first five months of maintenance are free: bug fixes, dependency and security updates, and small changes. After that, care continues from ${P.care} if you want it, or you can hand the system to your own developer using the runbook and documentation we leave behind.` },
+    { question: "What happens after the backend goes live?", answer: `The first two months of maintenance are free: bug fixes, dependency and security updates, and small changes. After that, care continues from ${P.care} if you want it, or you can hand the system to your own developer using the runbook and documentation we leave behind.` },
     { question: "Can a freelance Node.js developer work with my in-house team?", answer: "Yes. We can own one service, such as notifications or payments, while your team works on the rest, following your code style, branching model and review process. We agree the API contract up front and join your stand-ups or share written updates, whichever suits your team." },
-    { question: "Node.js developer chahiye, kharcha kitna aayega?", answer: `BtechWaleTech ke saath custom backend ya API ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Chhota automation ya webhook ka kaam ${P.ai} se shuru hota hai. Pehle line by line quote milta hai, approval ke baad hi payment. Code aur server aapke naam par rehte hain, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Node.js developer chahiye, kharcha kitna aayega?", answer: `BtechWaleTech ke saath custom backend ya API ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Chhota automation ya webhook ka kaam ${P.ai} se shuru hota hai. Pehle line by line quote milta hai, approval ke baad hi payment. Code aur server aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related backend, API and full-stack pages",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance Node.js developer? Send the brief or the repo",
-    note: `Tell us on WhatsApp what the backend must do, or share the code you already have. You get a line-by-line estimate in about two working days, with custom backends from ${P.software}, everything in your accounts and five months of free care after launch.`,
+    note: `Tell us on WhatsApp what the backend must do, or share the code you already have. You get a line-by-line estimate in about two working days, with custom backends from ${P.software}, everything in your accounts and two months of free care after launch.`,
   },
 };
 

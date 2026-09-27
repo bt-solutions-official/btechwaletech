@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering Python, cloud and project management" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after a new build" },
+    { value: "2", label: "Months of free maintenance after a new build" },
     { value: "0", label: "Platform fees between you and the developers" },
   ],
   answer: {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should hold the Git repository, the server or cloud accounts, the domain, database backups and the documentation, all in your name. If a developer disappears tomorrow, another should be able to pick up the app within a day.`,
         `For every Flask project we hand over a README that explains how to run the app locally, a runbook for deploying, restoring backups and rotating secrets, an architecture note that describes blueprints, models and background jobs, and a list of third-party services with their account owners. Environment variables are documented without their secret values; you keep those in your own password manager.`,
-        `New builds get five months of free maintenance after launch. After that, or for an existing app you bring to us, care starts at ${P.care} a month for dependency updates, security patches, backup checks and small fixes. We do not keep any access you have not granted, and you can remove ours at any time.`,
+        `New builds get two months of free maintenance after launch. After that, or for an existing app you bring to us, care starts at ${P.care} a month for dependency updates, security patches, backup checks and small fixes. We do not keep any access you have not granted, and you can remove ours at any time.`,
       ],
     },
     {
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days of the audit or brief, you get each step priced separately. Nothing is billed before your written approval."],
       ["Safety net first", "Backups, a repository in your name and a staging copy come before any change, so every step can be tested and reversed."],
       ["Build, fix or upgrade in steps", "Work ships in small releases you review on staging, with tests added around the flows your team and customers rely on."],
-      ["Document and support", "You receive the README, runbook and architecture notes. New builds get five months of free fixes; care plans start at the maintenance price."],
+      ["Document and support", "You receive the README, runbook and architecture notes. New builds get two months of free fixes; care plans start at the maintenance price."],
     ],
   },
   faqHeading: "Questions before you hire a Flask developer",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate my Flask app to Django or FastAPI?", answer: "We can, but we only recommend it when the current app blocks something important, such as a large admin need or heavy async API traffic. A full migration costs more than an upgrade and risks losing hidden business rules. Often the better route is upgrading Flask and adding a separate service only where needed." },
     { question: "Why hire a Flask developer from India?", answer: "With us you get three people covering Python development, cloud and security, and project management, replying on WhatsApp seven days a week in English or Hindi. Indian clients pay by UPI or bank transfer; overseas clients pay in USD by Wise, bank wire or PayPal. The IST day overlaps with European mornings and US evenings for fixes outside your working hours." },
     { question: "Do you sign NDAs before seeing our code?", answer: "Legacy codebases often contain business logic and customer data, so that is a fair request. Send your NDA and we will review it; the agreed confidentiality terms are recorded with your written quote. Until then, you can describe the app and share versions and a directory listing, which is usually enough to plan the audit." },
-    { question: "What maintenance do you provide for Flask apps?", answer: `New builds include five months of free maintenance after launch. After that, or for an existing app, care starts at ${P.care} a month and covers dependency and security updates, Python and Flask version checks, backup verification and small fixes. Larger changes are quoted separately so the monthly plan stays predictable.` },
+    { question: "What maintenance do you provide for Flask apps?", answer: `New builds include two months of free maintenance after launch. After that, or for an existing app, care starts at ${P.care} a month and covers dependency and security updates, Python and Flask version checks, backup verification and small fixes. Larger changes are quoted separately so the monthly plan stays predictable.` },
     { question: "Flask developer kaise hire karein?", answer: "Pehle likhiye ki app kya karti hai, kaun use karta hai aur kya problem hai. Agar purani app hai toh Python aur Flask version bhi batayiye. WhatsApp par bhejiye, hum code dekhkar likhit audit aur do working days mein itemised quote denge. Approval se pehle koi bill nahi, aur code aapke hi repository mein rahega." },
   ],
   related: {

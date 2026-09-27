@@ -56,7 +56,7 @@ const rayachoti: CityContent = {
     ai: "WhatsApp assistants in Telugu and Urdu that reply to price, stock and timing questions and route serious enquiries to you.",
     data: "Season-wise dashboards of purchases, stock, credit outstanding by village and sales by product line.",
     app: "Android and iOS apps for village retailers to re-order, for patients to book tokens or for parents to get school updates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Rayachoti businesses have seen outside vendors promise much and vanish after the first payment. We try to be the opposite: published starting prices, a written itemised quote, WhatsApp replies on all seven days, and the domain, hosting, code and store accounts registered to you. If something will not pay for itself, we say it plainly.",
@@ -180,7 +180,7 @@ const rayachoti: CityContent = {
       heading: "Ownership and maintenance for Rayachoti websites and apps",
       paragraphs: [
         "Plenty of small businesses have lost their website because whoever built it kept the domain in their own name and later disappeared. We do not work that way. Your domain, hosting, source code, Google Business Profile and app store developer accounts are registered in your name, and all logins are handed over in writing at launch.",
-        "Maintenance is free for five months after launch. It covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links keep working. After that, you can continue with us from ₹8,000 a month or move to another developer at any time.",
+        "Maintenance is free for two months after launch. It covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links keep working. After that, you can continue with us from ₹8,000 a month or move to another developer at any time.",
         "Apps also need an update each year because Google and Apple change their store rules. We track these changes and release updates on time so your app is not removed.",
       ],
     },
@@ -277,7 +277,7 @@ const rayachoti: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move the code to another developer whenever you like.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move the code to another developer whenever you like.",
     },
     {
       question: "Do you work in Kadapa, Madanapalle and nearby mandals?",

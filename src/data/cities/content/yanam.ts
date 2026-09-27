@@ -56,7 +56,7 @@ const yanam: CityContent = {
     ai: "WhatsApp assistants that reply in Telugu to price, stock and appointment questions and hand anything unusual to a person.",
     data: "Dashboards of harvest weights, feed spend, festival-week footfall and repeat orders, built from sheets you already keep.",
     app: "Android and iOS apps for a clinic's token queue or a trader's repeat buyers across the delta, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, updates and security checks.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, updates and security checks.",
   },
   whyUsIntro:
     "Yanam is small enough that word of mouth decides most things, and a vendor who disappears after launch is quickly talked about. We publish starting prices, send written itemised quotes, reply on WhatsApp every day and register the domain, hosting, code and store accounts to you. If a feature will not earn its cost in a town this size, we tell you.",
@@ -174,7 +174,7 @@ const yanam: CityContent = {
       heading: "Ownership and maintenance for Yanam websites and apps",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered on your email, hosting is billed in your name, you receive the complete source code, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover we give you a written sheet of every login, so no one, including us, can hold your website or app hostage.",
-        "For the first five months after launch, maintenance is included at no charge. In that period we update prices and photographs before festival weeks, run backups, apply security and version updates, and check that forms, UPI payment and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or hand the code to another developer.",
+        "For the first two months after launch, maintenance is included at no charge. In that period we update prices and photographs before festival weeks, run backups, apply security and version updates, and check that forms, UPI payment and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or hand the code to another developer.",
         "Apps need an annual refresh even when nothing looks broken, because Google and Apple raise their minimum requirements. We track those deadlines and ship updates early so your listing stays live.",
       ],
     },
@@ -266,7 +266,7 @@ const yanam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are covered free: price and photo edits, backups, security patches and regular checks of forms, UPI checkout and WhatsApp links. After that you can continue from ₹8,000 a month or move on. Since the code and accounts are already yours, switching providers needs no permission from us.",
+        "The first two months after launch are covered free: price and photo edits, backups, security patches and regular checks of forms, UPI checkout and WhatsApp links. After that you can continue from ₹8,000 a month or move on. Since the code and accounts are already yours, switching providers needs no permission from us.",
     },
     {
       question: "Do you work in Kakinada, Tallarevu and Amalapuram too?",

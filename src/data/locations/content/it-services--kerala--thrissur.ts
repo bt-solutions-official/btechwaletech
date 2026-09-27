@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Freelance software and IT developers in Thrissur for jewellers, retailers and institutions",
     lede:
       "Deciding between a software development team in Thrissur and a freelance team? Here is who we are. BtechWaleTech is three independent engineers, working remotely from India as one freelance group, who build jewellery catalogues and scheme software, showroom systems, Android and iOS apps, AI and WhatsApp automation, dashboards, cloud hosting, search-friendly websites and long-term maintenance for Thrissur businesses. Every login stays with you.",
-    pills: ["Jewellery and scheme software", "Android and iOS apps from ₹40,000", "Retail website maintenance", "Malayalam and English", "5 months free support"],
+    pills: ["Jewellery and scheme software", "Android and iOS apps from ₹40,000", "Retail website maintenance", "Malayalam and English", "2 months free support"],
   },
   quickAnswer:
-    "For Thrissur, BtechWaleTech works remotely as three freelance engineers rather than a software development team in Thrissur with a showroom-side office. Sites begin at ₹10,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Maintenance is free for five months, then from ₹8,000 monthly. Expect an itemised quote within roughly two working days.",
+    "For Thrissur, BtechWaleTech works remotely as three freelance engineers rather than a software development team in Thrissur with a showroom-side office. Sites begin at ₹10,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Maintenance is free for two months, then from ₹8,000 monthly. Expect an itemised quote within roughly two working days.",
   snapshot: [
     { label: "City centre", value: "Swaraj Round around Thekkinkadu Maidan and the Vadakkunnathan Temple, the heart of Thrissur Pooram" },
     { label: "Gold trade", value: "Widely known as Kerala's gold capital, with jewellery manufacturing concentrated around Kuriachira and nearby areas" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI assistants that answer product, scheme and admission questions and pass qualified leads to showroom staff.",
     data: "Dashboards for showroom footfall, scheme collections, branch sales and stock across Thrissur district.",
     app: "Thrissur jewellers, showrooms, tutors and clinics get Android and iOS apps from ₹40,000, coded once in Flutter or React Native and listed on Google Play and Apple's App Store.",
-    maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then plans from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Thrissur businesses are built on long relationships, and they expect the same from technology partners. We publish starting prices, write the scope down, show progress on a live link, keep every account in your name and stay reachable on WhatsApp seven days a week, long after launch.",
@@ -235,7 +235,7 @@ const content: CityContent = {
       id: "choosing-software-company-thrissur",
       heading: "How to choose a software development team in Thrissur",
       paragraphs: [
-        "Picking a software development team in Thrissur, or three freelancers like us, gets easier with five questions: who actually codes, what the signed scope leaves out, whose name is on each account, where you can watch progress, and who fixes things in month six. Price is the last comparison, not the first.",
+        "Picking a software development team in Thrissur, or three freelancers like us, gets easier with five questions: who actually codes, what the signed scope leaves out, whose name is on each account, where you can watch progress, and who fixes things in month three. Price is the last comparison, not the first.",
       ],
       list: [
         "Talk to the engineer who will build it",
@@ -252,7 +252,7 @@ const content: CityContent = {
       heading: "Maintaining older retail websites and systems in Thrissur",
       paragraphs: [
         "Maintenance keeps a Thrissur business's website and software secure, fast and accurate as prices, products and technology change. Many long-established showrooms run sites that were built years ago, with outdated plugins, broken contact forms and old prices, which quietly cost enquiries.",
-        "Anything new we build for a Thrissur client carries five months of upkeep at no charge once it is live: fixing bugs, patching libraries, running backups, watching uptime and editing content. Beyond that, care plans begin at ₹8,000 monthly. Where another developer built the site, we audit code and hosting first and advise in writing whether to maintain or rebuild. More on our <a href='/it-services/kerala/'>Kerala IT services page</a>, <a href='/about/'>who we are</a>, or <a href='/contact/'>send us your brief</a>.",
+        "Anything new we build for a Thrissur client carries two months of upkeep at no charge once it is live: fixing bugs, patching libraries, running backups, watching uptime and editing content. Beyond that, care plans begin at ₹8,000 monthly. Where another developer built the site, we audit code and hosting first and advise in writing whether to maintain or rebuild. More on our <a href='/it-services/kerala/'>Kerala IT services page</a>, <a href='/about/'>who we are</a>, or <a href='/contact/'>send us your brief</a>.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const content: CityContent = {
       "paragraphs": [
         "A Thrissur jewellery or textile showroom should plan a yearly running budget that covers the domain, hosting, app store accounts, messaging charges and upkeep, separate from the one-time build. For a simple catalogue site this is modest; for a scheme app with gold-rate updates, customer logins and payment reminders it is a real line in the accounts, and it is better to know it on day one.",
         "The pieces are predictable. The domain renews once a year. Hosting grows with traffic, so the weeks before Onam and the wedding months cost more than the quiet ones. If you publish an app, Google charges a one-time Play Console registration and Apple bills its developer programme annually. WhatsApp Business API messages are charged by Meta per conversation, which adds up quickly when a showroom on Round South sends festival offers to its full customer list. Gateway fees on online orders are deducted by the gateway itself.",
-        "Our part is clear too. Five months of maintenance are free after hosting goes live. After that, you can take a plan from ₹8,000 a month, which suits showrooms that update rates, collections and banners often, or pay only when something needs changing. Every quote includes a running-cost sheet, and all accounts stay in the showroom's name so you can see the bills directly."
+        "Our part is clear too. Two months of maintenance are free after hosting goes live. After that, you can take a plan from ₹8,000 a month, which suits showrooms that update rates, collections and banners often, or pay only when something needs changing. Every quote includes a running-cost sheet, and all accounts stay in the showroom's name so you can see the bills directly."
       ]
     },
     {
@@ -313,7 +313,7 @@ const content: CityContent = {
     { question: "Can the website and app be in Malayalam?", answer: "Yes. Screens, messages and pages can be Malayalam, English or a mix, using Unicode fonts that render cleanly on budget phones, and chat replies recognise Manglish too. Please have a staff member who writes Malayalam well check the final wording." },
     { question: "Who owns the code and domain?", answer: "Your business does. Domain, server, code repository, app store listings and payment gateway are all registered to you from the start, and at handover you receive every password with brief notes, so any future developer can continue without asking us." },
     { question: "Can you maintain our old website?", answer: "Often yes. We first audit the code, hosting and plugins, then tell you in writing whether ongoing maintenance or a rebuild makes more sense and what each costs. Maintenance plans start at ₹8,000 a month." },
-    { question: "What happens after launch?", answer: "Once live, upkeep is free for five months: bug fixes, library and security patches, backups, uptime monitoring and small edits. After that you choose a plan from ₹8,000 a month or simply message us when you need something. Replies come on WhatsApp every day of the week." },
+    { question: "What happens after launch?", answer: "Once live, upkeep is free for two months: bug fixes, library and security patches, backups, uptime monitoring and small edits. After that you choose a plan from ₹8,000 a month or simply message us when you need something. Replies come on WhatsApp every day of the week." },
     { question: "How soon will SEO work in Thrissur?", answer: "Expect roughly three to six months before local visibility becomes steady, though a single town-plus-service page, such as a Guruvayur wedding hall, can move sooner. New pages index within weeks; map positions grow with reviews and consistent details. Nobody can honestly promise a rank." },
     { question: "Can AI answer scheme and product questions?", answer: "Yes. Fed with your own scheme rules, making-charge policy and product notes, an assistant can reply on WhatsApp or the website and hand anything unusual to a salesperson. It starts at ₹40,000 and takes about two to four weeks." },
     { question: "Do you build core banking or loan software?", answer: "No. We do not build regulated core banking or lending ledgers. For finance and chit firms, we build enquiry, document upload, customer communication and dashboard tools that sit alongside your existing core systems." },

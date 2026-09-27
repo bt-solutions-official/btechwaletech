@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers building your receptionist" },
     { value: "24", label: "Hours in Meta's WhatsApp customer service window" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What an AI receptionist in the UK costs to build and run",
-    note: `Custom AI receptionist builds start from ${P.ai}. The quote depends on how many channels you want (phone only, or phone plus SMS, WhatsApp and web chat), whether bookings go into a simple calendar or into job software with an API, how many service types and rules the assistant must follow, and whether you need more than one voice or location. Running costs are separate and usage-based: phone minutes, AI model usage and any WhatsApp template messages, all billed to accounts in your name so you can see every line. After launch you get five months of free maintenance; ongoing care starts from ${P.care}. Nothing is billed before you approve the written quote.`,
+    note: `Custom AI receptionist builds start from ${P.ai}. The quote depends on how many channels you want (phone only, or phone plus SMS, WhatsApp and web chat), whether bookings go into a simple calendar or into job software with an API, how many service types and rules the assistant must follow, and whether you need more than one voice or location. Running costs are separate and usage-based: phone minutes, AI model usage and any WhatsApp template messages, all billed to accounts in your name so you can see every line. After launch you get two months of free maintenance; ongoing care starts from ${P.care}. Nothing is billed before you approve the written quote.`,
   },
   guideLabel: "AI receptionist UK guide",
   guide: [
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Build", "Voice flows, knowledge base, calendar or job tool link", "Answer questions on WhatsApp", "About one week"],
         ["Testing", "Test calls in varied conditions, fixes after each round", "Ring it yourself, give feedback", "About one week"],
         ["Soft launch", "Out-of-hours calls only", "Read daily summaries", "One to two weeks"],
-        ["Full launch and tuning", "Wider forwarding, transcripts reviewed, rules refined", "Flag anything odd", "Ongoing, first 5 months maintained free"],
+        ["Full launch and tuning", "Wider forwarding, transcripts reviewed, rules refined", "Flag anything odd", "Ongoing, first 2 months maintained free"],
       ],
     },
     {
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
       ["Approve the conversation flows", "We write the greeting, questions, booking rules and escalation scripts in plain English. You edit them until they sound like your business."],
       ["Build and connect", "Accounts are created in your name, the number and forwarding are configured, and bookings are wired into your calendar or job tool."],
       ["Test with real calls", "We and you ring it in different conditions, fix every misunderstanding, then launch for out-of-hours calls first."],
-      ["Tune and maintain", "Transcripts are reviewed and rules refined during five months of free maintenance, after which care plans start from the maintenance price."],
+      ["Tune and maintain", "Transcripts are reviewed and rules refined during two months of free maintenance, after which care plans start from the maintenance price."],
     ],
   },
   faqHeading: "AI receptionist UK: common questions",

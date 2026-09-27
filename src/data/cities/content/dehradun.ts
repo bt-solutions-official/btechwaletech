@@ -7,7 +7,7 @@ const dehradun: CityContent = {
   meta: {
     title: "Dehradun Web Development & Local SEO Team",
     description:
-      "Websites, SEO and automation for Dehradun schools, homestays, Selaqui pharma units and Rajpur Road shops. From ₹10,000, you own the code, 5 months free upkeep.",
+      "Websites, SEO and automation for Dehradun schools, homestays, Selaqui pharma units and Rajpur Road shops. From ₹10,000, you own the code, 2 months free upkeep.",
     keywords: [
       "website development team in Dehradun",
       "web design Dehradun",
@@ -31,11 +31,11 @@ const dehradun: CityContent = {
     eyebrow: "Dehradun · Uttarakhand",
     h1: "Web development, SEO and automation for Doon valley businesses",
     lede:
-      "Three remote engineers building fast websites, online stores and automations for Dehradun: boarding and day schools, coaching academies, Selaqui pharma units, Rajpur Road cafés, Paltan Bazaar traders and homestays on the way to Mussoorie. Prices are published, you speak to the developers themselves, and the first five months of maintenance are free.",
+      "Three remote engineers building fast websites, online stores and automations for Dehradun: boarding and day schools, coaching academies, Selaqui pharma units, Rajpur Road cafés, Paltan Bazaar traders and homestays on the way to Mussoorie. Prices are published, you speak to the developers themselves, and the first two months of maintenance are free.",
     pills: ["Sites from ₹10,000", "School and admissions sites", "Pharma B2B catalogues", "Homestay bookings", "Hindi and English pages"],
   },
   quickAnswer:
-    "For a Dehradun business, a simple website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, live in one to five weeks. We are a remote team of three engineers with no Dehradun office. Every project includes hosting setup, search basics and five months of free maintenance after launch.",
+    "For a Dehradun business, a simple website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, live in one to five weeks. We are a remote team of three engineers with no Dehradun office. Every project includes hosting setup, search basics and two months of free maintenance after launch.",
   snapshot: [
     { label: "Shopping streets", value: "Paltan Bazaar from the Clock Tower to the railway station, Rajpur Road, Dhamawala" },
     { label: "Industry", value: "Pharma City and the Selaqui industrial area, SIDCUL IT Park on Sahastradhara Road" },
@@ -52,10 +52,10 @@ const dehradun: CityContent = {
     ai: "WhatsApp assistants that answer admission, room and product questions in Hindi or English and record every enquiry.",
     data: "Dashboards for admissions pipelines, occupancy, batch-wise production or sales, built from your existing spreadsheets.",
     app: "Android and iOS apps for parent communication, student portals and field-sales orders, published on both app stores with prices from ₹40,000.",
-    maintenance: "Admission-season updates, security patches and backups, free for five months and then from ₹8,000 a month.",
+    maintenance: "Admission-season updates, security patches and backups, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Dehradun owners often hear two kinds of pitch: expensive packages from Delhi agencies and cheap builds from someone local who stops answering. We publish our prices, reply on WhatsApp every day, register everything in your name and take care of the site free for five months after launch.",
+    "Dehradun owners often hear two kinds of pitch: expensive packages from Delhi agencies and cheap builds from someone local who stops answering. We publish our prices, reply on WhatsApp every day, register everything in your name and take care of the site free for two months after launch.",
   pricingIntro:
     "Few web developers in Dehradun list their rates, and quotes for similar work differ sharply. These are our real starting prices. The final amount depends on page count, languages, portals or booking features and the content you already have, and you receive it itemised before anything starts.",
   sections: [
@@ -173,11 +173,11 @@ const dehradun: CityContent = {
     },
     {
       id: "ownership-dehradun",
-      heading: "Ownership and five months of free maintenance",
+      heading: "Ownership and two months of free maintenance",
       paragraphs: [
         "Many Dehradun schools and businesses discover, usually during admission season, that they cannot update their own website. The domain is registered to a former developer or an ex-employee, the hosting password is lost, and the enquiry form has been failing quietly.",
         "We avoid this from the start. The domain is registered in your organisation's name, hosting is on your account, and at launch you receive every login, the source code and a short explanation of how the site works. You can move to another developer at any time without an exit fee.",
-        "For five months after launch, maintenance is free: content and fee updates, bug fixes, security updates, backups, uptime and speed checks. Afterwards it continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
+        "For two months after launch, maintenance is free: content and fee updates, bug fixes, security updates, backups, uptime and speed checks. Afterwards it continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
       ],
     },
     {
@@ -273,7 +273,7 @@ const dehradun: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content and fee updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content and fee updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Can you guarantee first place on Google?",

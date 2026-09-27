@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT services · Telangana",
     h1: "Freelance IT services in Telangana, from Hyderabad to every district town",
     lede:
-      "Looking for IT services in Telangana without the overheads of a large software company? BtechWaleTech is a freelance group of three remote engineers building custom software, AI and WhatsApp automation, mobile apps, dashboards, cloud setups, SEO and online stores for businesses across the state, from HITEC City startups to rice millers in Miryalaguda, turmeric traders in Nizamabad and hospitals in Warangal. Prices start in the open, and five months of maintenance are included after launch.",
+      "Looking for IT services in Telangana without the overheads of a large software company? BtechWaleTech is a freelance group of three remote engineers building custom software, AI and WhatsApp automation, mobile apps, dashboards, cloud setups, SEO and online stores for businesses across the state, from HITEC City startups to rice millers in Miryalaguda, turmeric traders in Nizamabad and hospitals in Warangal. Prices start in the open, and two months of maintenance are included after launch.",
     pills: ["Telugu, Urdu and English", "Custom software from ₹60,000", "AI automation from ₹40,000", "All 33 districts, remotely", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that answer in Telugu, Urdu or English, read documents, update records and hand edge cases to staff, built with n8n and the WhatsApp Business API.",
     data: "Dashboards for owners across the state that combine Tally, spreadsheets and app data into one live view of sales, stock, dues and operations.",
     app: "Android and iOS apps built in Flutter or React Native and published on Google Play and the App Store, for traders, institutions, hospitals and field teams across Telangana, from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and small changes, free for five months after launch and from ₹8,000 a month thereafter.",
+    maintenance: "Updates, backups, security fixes and small changes, free for two months after launch and from ₹8,000 a month thereafter.",
   },
   whyUsIntro:
     "Telangana businesses outside Hyderabad often find big-city software vendors expensive and slow to reply, while local options are limited. A freelance group that works remotely closes that gap: the same three engineers serve a Khammam trader and a Gachibowli startup, with the same prices and response times.",
@@ -205,7 +205,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
@@ -228,7 +228,7 @@ const content: CityContent = {
       id: "how-we-work-telangana",
       heading: "How BtechWaleTech's freelance engineers work with Telangana clients",
       paragraphs: [
-        "BtechWaleTech's freelance engineers work with Telangana clients remotely through a discovery call, an itemised quote in about two working days, weekly demos on a staging link, launch with training, and five months of free maintenance. Communication happens on WhatsApp seven days a week, with video calls for demos and training.",
+        "BtechWaleTech's freelance engineers work with Telangana clients remotely through a discovery call, an itemised quote in about two working days, weekly demos on a staging link, launch with training, and two months of free maintenance. Communication happens on WhatsApp seven days a week, with video calls for demos and training.",
         "At handover you receive the source code, database access, every login and a written deployment note. We are honest about limits: we do not guarantee rankings, invent reviews, or replace certified systems where regulations require them. We also recommend smaller solutions when they would solve the problem.",
         "Learn more <a href=\"/about/\">about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, explore <a href=\"/services/\">all services</a> or see <a href=\"/it-services/\">IT services across India</a>. When you are ready, send a message through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -268,7 +268,7 @@ const content: CityContent = {
     {
       question: "What do IT services cost for a Telangana business?",
       answer:
-        "Websites start from ₹10,000, 299+ page SEO websites from ₹20,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 after the free five months. Final cost depends on scope, and every quote is itemised within about two working days.",
+        "Websites start from ₹10,000, 299+ page SEO websites from ₹20,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 after the free two months. Final cost depends on scope, and every quote is itemised within about two working days.",
     },
     {
       question: "How do clients pay you?",
@@ -303,7 +303,7 @@ const content: CityContent = {
     {
       question: "What maintenance comes with the project?",
       answer:
-        "Five months of maintenance are free after launch, covering bug fixes, security updates, backups, uptime monitoring and small content changes. After that, plans start from ₹8,000 a month, or you can pay per change. New features are always quoted separately before work begins, so there are no surprise bills.",
+        "Two months of maintenance are free after launch, covering bug fixes, security updates, backups, uptime monitoring and small content changes. After that, plans start from ₹8,000 a month, or you can pay per change. New features are always quoted separately before work begins, so there are no surprise bills.",
     },
     {
       question: "How long does SEO take in Telangana?",

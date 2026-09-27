@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Montreal & Greater Montreal · French-first bilingual builds · Eastern-time mornings",
     h1: "Web developer for Montreal businesses: bilingual, French-first websites built with your translator",
     lede: `A web developer in Montreal has to get two things right that most cities never think about: French comes first, and privacy pages must match Quebec’s Law 25. BtechWaleTech is three freelance developers in India who build English–French sites for Montreal retailers, restaurants, tech firms and manufacturers. We write in English and build the structure; your translator supplies or approves every French word. Static sites start at ${P.site}, QST-ready stores at ${P.shop}, and the <a href='/canada/bill-96-website-compliance/'>Bill 96 website points</a> are planned from the first sitemap.`,
-    pills: ["French-first structure", "Your translator, our build", "Law 25 privacy officer details", "QST and GST at checkout", "fr-CA and en-CA SEO", "Calls 8–10 a.m. Eastern", "5 months free maintenance"],
+    pills: ["French-first structure", "Your translator, our build", "Law 25 privacy officer details", "QST and GST at checkout", "fr-CA and en-CA SEO", "Calls 8–10 a.m. Eastern", "2 months free maintenance"],
     origin: "Three freelance developers in India · English-speaking team, French copy from your translator · WhatsApp 7 days a week",
   },
   facts: [
@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "2", label: "Language versions built page for page, French and English" },
     { value: "3", label: "Developers working directly with you and your translator" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How does a Montreal business get a bilingual, Bill 96-ready website from a remote web developer?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Tech start-up and SaaS marketing sites", note: `Fast bilingual product sites, documentation hubs and sign-up flows; custom web apps from ${P.software}.`, href: "/canada/custom-software-development/", size: "md" },
       { name: "Law 25 and consent upkeep", note: "Privacy officer contact details, privacy policy page, consent banner and form wording kept current after launch.", href: "/canada/law-25-website-compliance/", size: "sm" },
       { name: "French and English SEO", note: `Separate keyword research for French and English searches, hreflang pairs and local pages; monthly SEO from ${P.seo}.`, href: "/canada/local-seo-services/", size: "sm" },
-      { name: "Care in both languages", note: `Paired French and English edits, updates and backups from ${P.care} a month after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Care in both languages", note: `Paired French and English edits, updates and backups from ${P.care} a month after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
         ["Portal or quoting tool", "Client logins, file uploads, admin dashboard", `${P.software}`, "6–12 weeks"],
         ["Enquiry automation", "Lead routing, bilingual auto-replies, CRM sync", `${P.ai}`, "2–4 weeks"],
         ["Monthly SEO in two languages", "French and English content, Search Console reviews", `${P.seo}`, "Monthly"],
-        ["Care after 5 free months", "Paired edits, updates, backups, consent checks", `${P.care}`, "Monthly"],
+        ["Care after 2 free months", "Paired edits, updates, backups, consent checks", `${P.care}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -458,7 +458,7 @@ const content: FreelanceContent = {
       ["Bilingual plan and copy deck", "Sitemap, French and English URL plan and the shared copy deck, so your translator can start while we design."],
       ["Build in both languages", "Templates, forms, emails and privacy pages built in French and English together, with staging links for you and your translator."],
       ["Review and compliance checks", "In-context French review, consent setup, QST test orders, hreflang validation and speed checks, then sign-off from your side and your lawyer."],
-      ["Launch and five free months", "Go-live early in the Montreal day, Search Console submitted for both languages, handover document delivered, and five months of free maintenance."],
+      ["Launch and two free months", "Go-live early in the Montreal day, Search Console submitted for both languages, handover document delivered, and two months of free maintenance."],
     ],
   },
   faqHeading: "Web developer Montreal: questions businesses ask",
@@ -482,7 +482,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a web developer in India from Montreal?", answer: "You receive an itemised quote in USD. After written approval, milestones are paid by Wise from your Canadian-dollar account, by bank wire or by PayPal. Invoices are issued from India; ask your accountant how to record them, as we don’t give tax advice. Nothing is billed before you approve." },
     { question: "Can you redesign my English-only site into a French-first site?", answer: "Yes. We crawl the current site, plan French and English URLs, map old addresses to new ones with redirects, and set up the copy deck for your translator. The English content carries over, the French is added page for page, and Search Console is monitored after launch so existing rankings are protected." },
     { question: "Will my cookie banner be in French?", answer: "Yes. The banner, its settings panel and the cookie list on your privacy page are built in both languages and follow the visitor’s language. We set it up so analytics and advertising tags wait for consent if that is the approach you and your lawyer choose, and we check it again whenever new tools are added." },
-    { question: "What happens after launch?", answer: `You get five months of free maintenance for fixes, updates and small changes. After that, care plans start at ${P.care} a month, including paired French and English edits, updates, backups and consent checks, and bilingual monthly SEO starts at ${P.seo}. Both are optional; the handover document lets your team manage the site too.` },
+    { question: "What happens after launch?", answer: `You get two months of free maintenance for fixes, updates and small changes. After that, care plans start at ${P.care} a month, including paired French and English edits, updates, backups and consent checks, and bilingual monthly SEO starts at ${P.seo}. Both are optional; the handover document lets your team manage the site too.` },
     { question: "Do you guarantee rankings in French searches?", answer: "No, and nobody honestly can. Rankings depend on competitors, content quality, reviews and Google’s own systems. We build correct hreflang pairs, well-structured pages, fast templates and separate French keyword targeting, then track both languages in Search Console so you can see which pages are gaining ground." },
   ],
   related: {

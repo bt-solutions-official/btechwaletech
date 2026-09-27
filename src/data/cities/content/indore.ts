@@ -7,7 +7,7 @@ const indore: CityContent = {
   meta: {
     title: "IT Services in Indore: Websites, Apps, SEO & AI",
     description:
-      "Freelance website development, SEO and AI automation in Indore. Websites from ₹10,000, 299+ page SEO sites from ₹20,000, 5 months free maintenance included.",
+      "Freelance website development, SEO and AI automation in Indore. Websites from ₹10,000, 299+ page SEO sites from ₹20,000, 2 months free maintenance included.",
     keywords: [
       "website development team in Indore",
       "web design team Indore",
@@ -31,11 +31,11 @@ const indore: CityContent = {
     eyebrow: "Indore · Madhya Pradesh",
     h1: "Website development, SEO and AI automation for Indore businesses",
     lede:
-      "A three-engineer freelance team building fast websites, online stores and automations for Indore shops, factories, clinics and coaching institutes. Prices are published, you talk to the people writing the code, and the first five months of maintenance after launch cost nothing.",
+      "A three-engineer freelance team building fast websites, online stores and automations for Indore shops, factories, clinics and coaching institutes. Prices are published, you talk to the people writing the code, and the first two months of maintenance after launch cost nothing.",
     pills: ["Websites from ₹10,000", "SEO for Indore searches", "Ecommerce with UPI", "WhatsApp automation", "Custom software"],
   },
   quickAnswer:
-    "In Indore, a basic business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote freelance team of three engineers, so there is no office rent in the price. Every project includes hosting setup, SEO basics and five months of free maintenance.",
+    "In Indore, a basic business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are a remote freelance team of three engineers, so there is no office rent in the price. Every project includes hosting setup, SEO basics and two months of free maintenance.",
   snapshot: [
     { label: "Business districts", value: "Vijay Nagar, Palasia, MG Road, AB Road, Rajwada and Sarafa" },
     { label: "IT hubs", value: "Crystal IT Park at Bhanwarkuan and the Super Corridor, home to TCS and Infosys campuses" },
@@ -52,10 +52,10 @@ const indore: CityContent = {
     ai: "WhatsApp and email automation, lead routing and AI agents that answer the same fifty customer questions so your staff don't have to.",
     data: "Sales, inventory and dealer reports cleaned up and turned into dashboards you can open on your phone before the morning meeting.",
     app: "Android and iOS apps for bookings, orders and customer accounts, built in Flutter or React Native and published on both stores from ₹40,000.",
-    maintenance: "Content updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Content updates, backups, security patches and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Indore has hundreds of web design firms, from Vijay Nagar agencies to one-person operators on Justdial. Most don't publish prices, and many stop answering once the site is live. We publish every starting price, reply on WhatsApp seven days a week, and stay on for five months after launch at no charge.",
+    "Indore has hundreds of web design firms, from Vijay Nagar agencies to one-person operators on Justdial. Most don't publish prices, and many stop answering once the site is live. We publish every starting price, reply on WhatsApp seven days a week, and stay on for two months after launch at no charge.",
   pricingIntro:
     "Few Indore web design firms put prices on their websites, which leaves you phoning around for quotes that vary by a factor of ten. These are our real starting prices. Your final quote depends on page count, features and how much content you already have, and it arrives itemised before any work starts.",
   sections: [
@@ -155,11 +155,11 @@ const indore: CityContent = {
     },
     {
       id: "ownership-maintenance",
-      heading: "Ownership, hosting and five months of free maintenance",
+      heading: "Ownership, hosting and two months of free maintenance",
       paragraphs: [
         "One of the most common problems we see with Indore websites is lost access. The domain was registered by a former developer, the hosting account belongs to someone nobody can reach, and the SSL certificate has expired, so browsers now warn visitors away. Fixing it can take weeks and sometimes means starting over.",
         "We prevent this from the beginning. Your domain is registered in your name, the hosting account is yours, and you receive every login and a short document explaining what runs where. The code is yours to keep, move or hand to another developer at any time. There is no lock-in and no exit fee.",
-        "After your site goes live, the next five months of maintenance are free. That covers content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing.",
+        "After your site goes live, the next two months of maintenance are free. That covers content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing.",
       ],
     },
     {
@@ -248,9 +248,9 @@ const indore: CityContent = {
         "Yes, completely. The domain is registered in your name, the hosting account is yours, and you receive every password and the source code at launch. You can move to another developer at any time with no exit fee. We insist on this because lost access is one of the most common problems we see with older Indore websites.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "After launch, the first five months cover content and price updates, bug fixes, security and plugin updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can simply contact us when you need a change.",
+        "After launch, the first two months cover content and price updates, bug fixes, security and plugin updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can simply contact us when you need a change.",
     },
     {
       question: "Can you redesign my existing website instead of starting again?",

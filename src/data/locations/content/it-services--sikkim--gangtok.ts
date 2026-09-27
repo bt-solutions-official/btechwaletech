@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Tour package builders", "Hotel booking engines", "AI chat for travel desks", "Custom software from ₹60,000", "Replies 7 days a week"],
   },
   quickAnswer:
-    "In Gangtok, BtechWaleTech, a freelance group of three remote engineers, builds custom software such as travel agency systems from ₹60,000 (6 to 12 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks), online stores from ₹50,000 and websites from ₹10,000 (1 to 2 weeks). Quotes are itemised in about two working days, with five months of free maintenance.",
+    "In Gangtok, BtechWaleTech, a freelance group of three remote engineers, builds custom software such as travel agency systems from ₹60,000 (6 to 12 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks), online stores from ₹50,000 and websites from ₹10,000 (1 to 2 weeks). Quotes are itemised in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Capital of Sikkim and headquarters of Gangtok district, with the state secretariat, courts and most head offices" },
     { label: "Commercial heart", value: "MG Marg, Lal Bazaar, New Market, Tibet Road and the Deorali and Tadong corridors along NH10" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that explain permits, day-trip timings and package inclusions at midnight, collect traveller details and pass warm leads to the booking desk.",
     data: "Dashboards showing packages sold by route, vehicle utilisation, hotel occupancy and seasonal revenue for Gangtok's travel and hospitality groups.",
     app: "Android and iOS apps from ₹40,000 for Gangtok travel agencies, restaurants and schools: itinerary and driver apps, food ordering and parent updates, published on Google Play and the App Store.",
-    maintenance: "Backups, security updates and uptime checks through the spring and autumn rush, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Backups, security updates and uptime checks through the spring and autumn rush, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Gangtok businesses often choose between a small local IT shop focused on hardware and a relative's contact in Siliguri or Kolkata. A freelance group of engineers offers a third route: custom software written for your workflow, starting prices in writing, direct access to the people coding it, and support on WhatsApp every day.",
@@ -176,7 +176,7 @@ const content: CityContent = {
       heading: "Hosting and IT support that keeps Gangtok sites online",
       paragraphs: [
         "BtechWaleTech hosts Gangtok websites and apps on cloud servers outside the state with a content delivery network, daily backups, SSL and uptime monitoring, so a local power cut, landslide-related network outage or office computer failure does not take your booking system offline.",
-        "Deployments go through a staging copy first and can be rolled back quickly. Security updates, dependency upgrades and bug fixes are handled by the engineers who built the system. The first five months of maintenance after launch are free; plans afterwards start at ₹8,000 a month.",
+        "Deployments go through a staging copy first and can be rolled back quickly. Security updates, dependency upgrades and bug fixes are handled by the engineers who built the system. The first two months of maintenance after launch are free; plans afterwards start at ₹8,000 a month.",
         "Support is on WhatsApp seven days a week, including weekends in peak season. For hardware and office networks, a local technician in Gangtok remains the right call.",
       ],
     },
@@ -194,7 +194,7 @@ const content: CityContent = {
       heading: "How long does a Gangtok software project take?",
       paragraphs: [
         "Most Gangtok software projects take six to twelve weeks for custom systems, two to four weeks for AI automation, four to eight weeks for online stores and one to two weeks for static websites; tourism businesses should start by January for the spring season or by July for autumn.",
-        "We follow five steps: discovery call, itemised quote in about two working days, weekly builds on a test link you can open on your phone, training on a video call, and handover with source code, logins, hosting and domain in your name. Then the five months of free maintenance begin.",
+        "We follow five steps: discovery call, itemised quote in about two working days, weekly builds on a test link you can open on your phone, training on a video call, and handover with source code, logins, hosting and domain in your name. Then the two months of free maintenance begin.",
         "You can see sample work on our <a href='/portfolio/'>portfolio</a>, compare nearby towns such as <a href='/it-services/sikkim/rangpo/'>Rangpo</a> and <a href='/it-services/sikkim/singtam/'>Singtam</a>, or start with a message through the <a href='/contact/'>contact page</a>.",
       ],
     },
@@ -221,7 +221,7 @@ const content: CityContent = {
         "Gangtok travel agencies, restaurants and schools get the most value from Android and iOS apps that customers or staff open daily. With BtechWaleTech an app starts from ₹40,000 and takes six to ten weeks, built once in Flutter or React Native and published on Google Play and the Apple App Store with login, push notifications and an admin panel.",
         "For a travel agency, the guest app is the itinerary in the traveller's pocket: hotel vouchers, driver name and vehicle number, pickup times from MG Marg, permit status for Tsomgo or North Sikkim, and a button to reach the desk. A matching driver app shows each day's duties. Restaurants and bakeries around Tibet Road and Development Area can run their own ordering app with saved addresses, loyalty points and UPI payment into their own gateway account, instead of paying high commissions. Schools can send attendance, homework, results and fee reminders through a parent app.",
         "Visitors from Kolkata, Delhi and abroad often use iPhones, while local staff mostly carry Android phones, so both platforms matter. We design for Gangtok's patchy upper-road signal by caching key screens and syncing later. Developer accounts on both stores are created in your business name.",
-        "When a mobile website would do the job, we recommend that instead. Store updates for new Android and iOS releases in the first five months are included in the free maintenance.",
+        "When a mobile website would do the job, we recommend that instead. Store updates for new Android and iOS releases in the first two months are included in the free maintenance.",
       ],
       list: [
         "Traveller app: itinerary, vouchers, driver details, permits",
@@ -262,7 +262,7 @@ const content: CityContent = {
     { question: "Can the chatbot reply in Nepali and Hindi?", answer: "Yes. The assistant can reply in Nepali, Hindi and English, following the traveller's language. It only uses information you approve, never invents road or weather status, and passes refunds, cancellations and safety questions to your staff." },
     { question: "Will the software handle permit documents for North Sikkim?", answer: "Yes, on the document side. It collects each traveller's ID and photos, flags anything missing and groups documents per trip, so staff can file permits quickly. We do not file permits or connect to government portals unless an official integration exists." },
     { question: "Who owns the code and customer data?", answer: "You do. The domain, hosting, source code, database and all accounts are in your name or transferred at handover. Customer data stays with you, and you can move to another developer whenever you wish without losing anything." },
-    { question: "What does the free maintenance include?", answer: "Five months after launch at no charge: bug fixes, content updates, security patches, backups, uptime checks and performance monitoring. After that, maintenance starts at ₹8,000 a month, or you can pay only for specific changes. We reply on WhatsApp seven days a week." },
+    { question: "What does the free maintenance include?", answer: "Two months after launch at no charge: bug fixes, content updates, security patches, backups, uptime checks and performance monitoring. After that, maintenance starts at ₹8,000 a month, or you can pay only for specific changes. We reply on WhatsApp seven days a week." },
     { question: "When will SEO start bringing enquiries?", answer: "Usually within three to six months for specific searches and map results, longer for broad terms. Big travel portals dominate generic searches, so we focus on routes, hotel features and local searches where a Gangtok business can win. We do not guarantee rankings." },
     { question: "How much does an Android and iOS app cost in Gangtok?", answer: "Android and iOS apps start from ₹40,000 and usually take six to ten weeks. We build in Flutter or React Native and publish on Google Play and the Apple App Store under your developer accounts. Login, forms, push notifications and an admin panel are included in the starting plan; links to travel or booking software are itemised separately." },
     { question: "Can you fix our office computers or network?", answer: "No. We are remote software engineers, so we do not repair hardware, install CCTV or set up office networks. A local technician in Gangtok is the right choice for that. We handle websites, software, apps, automation, hosting and online support." },

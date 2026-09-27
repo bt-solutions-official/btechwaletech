@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Apni dukaan, apna app",
     h1: "Shopping app kaise banaye: website pehle ya app, pehla version, payment aur delivery ka poora raasta",
     lede: `Shopping app kaise banaye, iska sahi jawab ek sawaal se shuru hota hai: kya aapke paas pehle se online store hai? Agar hai, toh app usi store se judkar products, stock aur orders share karta hai; agar nahi, toh aksar pehle website store aur phir app banana samajhdaari hai. Hum teen freelance developers hain; Android aur iOS shopping app ${P.app} se aur online store ${P.shop} se banate hain. Kharche ka poora hisaab <a href='/ecommerce-app-development-cost/'>ecommerce app development cost</a> par hai.`,
-    pills: [`App ${P.app} se`, `Online store ${P.shop} se`, "UPI, card aur COD", "Shopify ya WooCommerce se jodna", "Android + iOS ek code se", "Store accounts aapke naam", "5 mahine free maintenance"],
+    pills: [`App ${P.app} se`, `Online store ${P.shop} se`, "UPI, card aur COD", "Shopify ya WooCommerce se jodna", "Android + iOS ek code se", "Store accounts aapke naam", "2 mahine free maintenance"],
     origin: "Teen freelance developers, India se remote · WhatsApp par saaton din jawab, IST",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["App build time", "6–10 hafte"],
     ["Store build time", "4–8 hafte"],
     ["Payment", "UPI, card, COD, aapke merchant account se"],
-    ["Launch ke baad", `5 mahine free, phir ${P.care} se`],
+    ["Launch ke baad", `2 mahine free, phir ${P.care} se`],
   ],
   stats: [
     { value: "3", label: "Developers jo aapse seedhe baat karte hain" },
     { value: "2", label: "Working din mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Mahine free maintenance launch ke baad" },
     { value: "0", label: "Marketplace commission aapke apne app par" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "B2B ordering app", note: "Dealers aur retailers ke liye bulk order, alag price list, credit aur order history. Wholesale business ke liye consumer app se alag.", href: "/b2b-ordering-app/", size: "md" },
       { name: "WhatsApp ordering", note: "App se pehle WhatsApp par catalogue aur order automation, jab volume kam ho.", href: "/whatsapp-ordering-system/", size: "sm" },
       { name: "Store speed aur SEO", note: "Website store Google par dikhe, yeh app ke customers laane ka bhi raasta hai.", href: "/ecommerce-seo-freelancer/", size: "sm" },
-      { name: "App maintenance", note: `5 mahine free, phir ${P.care} se: OS updates, crash fixes, naye features.`, href: "/mobile-app-maintenance-services/", size: "sm" },
+      { name: "App maintenance", note: `2 mahine free, phir ${P.care} se: OS updates, crash fixes, naye features.`, href: "/mobile-app-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Shopping app ka kharcha: banana aur chalana dono",
-    note: `Existing store se judne wala Android aur iOS shopping app ${P.app} se shuru hota hai. Store nahi hai toh website store ${P.shop} se; dono ek saath chahiye toh quote scope ke hisaab se banta hai. Price badhta hai jab variants, filters, coupons, wallet, multiple warehouses, B2B price list ya live delivery tracking judte hain. Banane ke baad chalane ka kharcha bhi hai: server, OTP SMS, notifications, payment provider ka per-order charge, aur Google Play (US$25 ek baar) tatha Apple (US$99 saalana) ki fees jo aap seedhe unhe dete hain. Launch ke baad 5 mahine maintenance free, phir ${P.care} se. Quote lagbhag 2 working din mein.`,
+    note: `Existing store se judne wala Android aur iOS shopping app ${P.app} se shuru hota hai. Store nahi hai toh website store ${P.shop} se; dono ek saath chahiye toh quote scope ke hisaab se banta hai. Price badhta hai jab variants, filters, coupons, wallet, multiple warehouses, B2B price list ya live delivery tracking judte hain. Banane ke baad chalane ka kharcha bhi hai: server, OTP SMS, notifications, payment provider ka per-order charge, aur Google Play (US$25 ek baar) tatha Apple (US$99 saalana) ki fees jo aap seedhe unhe dete hain. Launch ke baad 2 mahine maintenance free, phir ${P.care} se. Quote lagbhag 2 working din mein.`,
   },
   guideLabel: "Shopping app guide",
   guide: [
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Existing store se judne wala Android aur iOS shopping app ${P.app} se shuru hota hai; store nahi hai toh website store ${P.shop} se. Uske baad har mahine chalane ka kharcha hai: server, OTP SMS, notifications, payment provider ka charge, aur maintenance.`,
         `Banane ke kharche ko teen cheezein badhati hain. Pehli, products ki banawat: sirf ek size wale products saste padte hain, size-rang-material wale variants mehenge. Doosri, checkout aur delivery ke niyam: COD ke rules, delivery zones, slots, coupons. Teesri, integrations: aapka billing software, courier, WhatsApp notifications, ya inventory ka koi aur system.`,
-        `Chalane ka kharcha aksar bhula diya jaata hai. OTP login ke liye har SMS ka paisa lagta hai. Server ka bill orders aur images ke saath badhta hai. Payment provider har transaction par charge leta hai. Google Play ek baar US$25 aur Apple har saal US$99 leta hai. Aur har saal naye Android aur iOS versions aate hain jinke hisaab se app update karna padta hai. Launch ke baad 5 mahine hum maintenance free karte hain, phir plan ${P.care} se hai. Poora breakdown <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a> par hai.`,
+        `Chalane ka kharcha aksar bhula diya jaata hai. OTP login ke liye har SMS ka paisa lagta hai. Server ka bill orders aur images ke saath badhta hai. Payment provider har transaction par charge leta hai. Google Play ek baar US$25 aur Apple har saal US$99 leta hai. Aur har saal naye Android aur iOS versions aate hain jinke hisaab se app update karna padta hai. Launch ke baad 2 mahine hum maintenance free karte hain, phir plan ${P.care} se hai. Poora breakdown <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a> par hai.`,
       ],
     },
     {
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
         ["Payment provider charge", "Payment provider", "Har transaction par", "Plan compare karein, UPI ka hissa badhayein"],
         ["OTP SMS", "SMS provider", "Har login par", "Session lamba rakhein, WhatsApp OTP soch sakte hain"],
         ["Server aur images", "Hosting provider", "Har mahine", "Images compress, sahi size ka server"],
-        ["Maintenance", "Developer", `5 mahine free, phir ${P.care} se`, "Updates saal mein planned rakhiye"],
+        ["Maintenance", "Developer", `2 mahine free, phir ${P.care} se`, "Updates saal mein planned rakhiye"],
       ],
     },
     {
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Accounts aur design", "Aap Play Console, Apple Developer aur merchant account apne naam par banate hain; hum screen share par madad karte hain. Saath mein app ka clickable design."],
       ["Build aur store sync", "Har hafte test build. Existing store ho toh products aur orders ka sync pehle, phir checkout, notifications aur admin ke kaam."],
       ["Test orders aur store review", "Asli test orders UPI, card aur COD se, sasta Android aur iPhone par jaanch, closed testing, privacy policy aur listing ke saath submit."],
-      ["Launch aur 5 mahine saath", "Launch ke baad 5 mahine maintenance free. Uske baad plan le sakte hain, ya code aur accounts aapke paas hain toh kisi aur ko de sakte hain."],
+      ["Launch aur 2 mahine saath", "Launch ke baad 2 mahine maintenance free. Uske baad plan le sakte hain, ya code aur accounts aapke paas hain toh kisi aur ko de sakte hain."],
     ],
   },
   faqHeading: "Shopping app ke sawaal",
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
     { question: "What features should the first version of a shopping app have?", answer: "OTP login, home and categories, search, product pages, cart, saved addresses, checkout with UPI, card and COD, order status, push notifications and a basic admin panel. Wishlist, reviews, reorder and extra filters fit a second release. Wallet, referral, loyalty points and live chat are best added once real order data shows customers want them." },
     { question: "Can a website simply be wrapped into a shopping app?", answer: "Technically yes, but it carries review risk. Apple’s guideline 4.2 says, in short, that an app needs enough features, content and UI to be more than a repackaged website, so a plain web page in a frame can be rejected. A proper app with native screens, login, notifications and checkout, or a progressive web app installed from the browser, are the safer routes." },
     { question: "Who owns the shopping app and customer data?", answer: "You do. The Play Console and Apple Developer accounts, the merchant account, the server and the code are all in your name, and at handover you get logins and repository access. Customer data sits on your server or your store platform, not ours. This also means you can move the app to any other developer later." },
-    { question: "What does it cost to run a shopping app every month?", answer: "Running costs include server hosting that grows with orders and images, OTP SMS for logins, payment provider charges per transaction, notifications, and yearly updates for new Android and iOS versions. The first five months of maintenance after launch are free; after that a maintenance plan starts from the price on our pricing page." },
+    { question: "What does it cost to run a shopping app every month?", answer: "Running costs include server hosting that grows with orders and images, OTP SMS for logins, payment provider charges per transaction, notifications, and yearly updates for new Android and iOS versions. The first two months of maintenance after launch are free; after that a maintenance plan starts from the price on our pricing page." },
     { question: "Shopping app ke orders ki delivery kaise hogi?", answer: "Aapke business ke hisaab se: aas-paas ke orders apne delivery boy se pincode aur slot ke saath, shehar mein local rider service se, poore India mein courier ya shipping aggregator se tracking link ke saath, ya store pickup. Pehle version mein live map tracking ki zaroorat aksar nahi hoti; saaf status updates aur courier link kaafi hote hain." },
     { question: "Kya bina coding ke shopping app ban sakta hai?", answer: "Haan, ready-made app builders aur templates se ban sakta hai, aur idea test karne ke liye yeh theek hai. Kami yeh hai ki design aur features builder tak seemit rehte hain, har mahine plan ka kharcha chalta hai, aur app ko bahar le jaana mushkil hota hai. Jab repeat customers aur apna brand ho, tab custom app lamba sasta padta hai." },
     { question: "Kya ek chhoti kirana dukaan ko shopping app chahiye?", answer: "Aksar pehle nahi. Chhoti kirana dukaan ke liye WhatsApp catalogue, WhatsApp ordering ya ek saadi website se shuru karna sasta aur tez hai. App tab samajh aata hai jab roz ke kaafi repeat customers hon jo har hafte order karte hon, aur aap slot-wise delivery sambhal sakein. Tab reorder button aur notifications sach mein kaam aate hain." },

@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["MVPs and SaaS builds", "Web apps from ₹60,000", "AI agents from ₹40,000", "SEO growth from ₹10,000/month", "Talk directly to engineers"],
   },
   quickAnswer:
-    "As an alternative to a software development team in Bhubaneswar, BtechWaleTech is a freelance group of three engineers building MVPs and web apps from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no local office, and include five months of maintenance.",
+    "As an alternative to a software development team in Bhubaneswar, BtechWaleTech is a freelance group of three engineers building MVPs and web apps from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no local office, and include two months of maintenance.",
   snapshot: [
     { label: "IT clusters", value: "Infocity and Infovalley IT SEZs, DLF Cyber City and IT towers around Patia and Chandaka" },
     { label: "Large IT employers", value: "Development centres of national IT services firms such as Infosys, TCS and Wipro, alongside hundreds of smaller firms" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents and LLM integrations for document processing, support, internal knowledge search and lead qualification, with guardrails and human review built in.",
     data: "Dashboards for multi-branch clinics, coaching institutes and distributors that combine data from Tally, spreadsheets and apps into one live view.",
     app: "Android and iOS apps for Bhubaneswar startups, coaching institutes, clinics and D2C brands, from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Monitoring, updates, backups, fixes and small feature work, free for five months after launch and then from ₹8,000 a month.",
+    maintenance: "Monitoring, updates, backups, fixes and small feature work, free for two months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "In a city with this many IT firms, the problem is rarely finding a developer. It is finding one who will scope honestly, write maintainable code and still answer six months later. A small freelance group, with published starting prices and nothing hidden in the handover, is built for exactly that.",
@@ -95,7 +95,7 @@ const content: CityContent = {
         "Week 1: scoping, user flows and feature cut",
         "Weeks 2 to 8: weekly builds on a staging link",
         "Launch: production hosting, analytics and monitoring",
-        "After launch: five months of free maintenance while you gather feedback",
+        "After launch: two months of free maintenance while you gather feedback",
       ],
     },
     {
@@ -204,7 +204,7 @@ const content: CityContent = {
       paragraphs: [
         "Delivery follows short weekly cycles: after a scoping call and an itemised estimate within about two working days, we build in one-week increments, share a working staging link at the end of each week, collect your feedback and adjust. Launch includes production hosting, monitoring, training and a written handover.",
         "Weekly demos keep surprises small. You see real screens with real data early, so misunderstandings are caught when they are cheap to fix. We maintain a simple shared task list so you always know what is done, in progress and next.",
-        "After launch, five months of free maintenance cover updates, backups, security, bug fixes and small changes. You can read more <a href=\"/about/\">about how we work</a>, browse <a href=\"/portfolio/\">example projects</a>, or compare with our pages for <a href=\"/it-services/odisha/cuttack/\">Cuttack</a> and the wider <a href=\"/it-services/odisha/\">Odisha hub</a>.",
+        "After launch, two months of free maintenance cover updates, backups, security, bug fixes and small changes. You can read more <a href=\"/about/\">about how we work</a>, browse <a href=\"/portfolio/\">example projects</a>, or compare with our pages for <a href=\"/it-services/odisha/cuttack/\">Cuttack</a> and the wider <a href=\"/it-services/odisha/\">Odisha hub</a>.",
       ],
     },
   ],
@@ -272,7 +272,7 @@ const content: CityContent = {
         "Yes. We are happy to sign a reasonable non-disclosure agreement before you share detailed product plans. We also keep your code in private repositories, limit access to the engineers working on your project and never reuse client-specific logic or data elsewhere.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose whether to continue with a monthly plan from ₹8,000, covering updates, backups, security, monitoring and small fixes, or to contact us only when you need work done. Feature development after launch is quoted separately so you control spending.",
     },
@@ -299,7 +299,7 @@ const content: CityContent = {
     {
       question: "Do you handle hosting and deployment?",
       answer:
-        "Yes. We set up cloud hosting, domains, SSL, email records, CI/CD pipelines, backups and monitoring, and deploy the product. Everything is documented at handover, and the five free months of maintenance begin from the day hosting goes live.",
+        "Yes. We set up cloud hosting, domains, SSL, email records, CI/CD pipelines, backups and monitoring, and deploy the product. Everything is documented at handover, and the two free months of maintenance begin from the day hosting goes live.",
     },
   ],
   nearby: ["cuttack", "puri", "brahmapur", "bhadrak", "baleshwar-town", "sambalpur", "raurkela", "baripada-town"],

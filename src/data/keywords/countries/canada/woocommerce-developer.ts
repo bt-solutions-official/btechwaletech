@@ -32,7 +32,7 @@ const content: FreelanceContent = {
   facts: [
     ["New WooCommerce store from", `${P.shop}, typically 4–8 weeks`],
     ["Fixes and speed work", "Itemised in your quote"],
-    ["Care plan", `5 months free, then from ${P.care}`],
+    ["Care plan", `2 months free, then from ${P.care}`],
     ["Quote", "USD, line by line, about 2 working days"],
     ["Billing", "USD or CAD · Wise, wire, PayPal"],
     ["Access", "Admin user you create and later delete"],
@@ -40,7 +40,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who work on your WooCommerce store" },
     { value: "2", label: "Working days until your itemised quote" },
-    { value: "5", label: "Months of free maintenance after a build" },
+    { value: "2", label: "Months of free maintenance after a build" },
     { value: "0", label: "Plugins or licences resold to you at a markup" },
   ],
   answer: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "WooCommerce developer pricing for Canadian stores",
-    note: `A new WooCommerce store starts at ${P.shop}. Work on an existing store, such as a speed rescue, tax table rebuild, Canada Post setup or wholesale pricing, is scoped after a short audit and itemised in your quote, so you approve only the fixes you want. Custom integrations with an ERP, warehouse or accounting system start at ${P.software}, and ongoing care starts at ${P.care} a month after the five free months. Premium plugins, extensions, hosting and payment processing are paid by you directly and never resold at a markup. Everything is quoted in USD; your bank or Wise shows the CAD equivalent.`,
+    note: `A new WooCommerce store starts at ${P.shop}. Work on an existing store, such as a speed rescue, tax table rebuild, Canada Post setup or wholesale pricing, is scoped after a short audit and itemised in your quote, so you approve only the fixes you want. Custom integrations with an ERP, warehouse or accounting system start at ${P.software}, and ongoing care starts at ${P.care} a month after the two free months. Premium plugins, extensions, hosting and payment processing are paid by you directly and never resold at a markup. Everything is quoted in USD; your bank or Wise shows the CAD equivalent.`,
   },
   guideLabel: "WooCommerce developer Canada guide",
   guide: [
@@ -372,13 +372,13 @@ const content: FreelanceContent = {
       ["Itemised USD quote", "About two working days after access you get a written summary and a line-by-line quote. You approve only the fixes you want, in writing, before anything is billed."],
       ["Fix on staging, then show you", "Changes happen on the staging copy first. You check the result on your own phone and laptop before anything touches the live store."],
       ["Deploy in your quiet hours", "Approved changes go live overnight Canadian time, followed by test orders, speed measurements and a check of Search Console."],
-      ["Handover and care", "You receive notes, code in your repository and a plugin list with reasons. Five months of free maintenance follow a build, then optional care plans."],
+      ["Handover and care", "You receive notes, code in your repository and a plugin list with reasons. Two months of free maintenance follow a build, then optional care plans."],
     ],
   },
   faqHeading: "WooCommerce developer Canada: questions store owners ask",
   faqs: [
     { question: "Should I stay on WooCommerce or move to Shopify?", answer: "Stay if your store relies on custom pricing, complex products, a content library that ranks, or full control of hosting and data, and your team knows WordPress. Move if plugin conflicts, updates and hosting problems take up your week and your catalogue is simple. Neither is better in general; it depends on where your problems actually come from." },
-    { question: "How much does a WooCommerce developer cost in Canada?", answer: `Rates vary widely between agencies, marketplace freelancers and remote teams. With BtechWaleTech, a new WooCommerce store starts at ${P.shop}, and work on an existing store is scoped after a short audit and itemised in USD, so you approve only the fixes you want. Care plans start at ${P.care} a month after five free months.` },
+    { question: "How much does a WooCommerce developer cost in Canada?", answer: `Rates vary widely between agencies, marketplace freelancers and remote teams. With BtechWaleTech, a new WooCommerce store starts at ${P.shop}, and work on an existing store is scoped after a short audit and itemised in USD, so you approve only the fixes you want. Care plans start at ${P.care} a month after two free months.` },
     { question: "Why is my WooCommerce store so slow?", answer: "Usually several reasons at once: too many plugins loading scripts on every page, underpowered hosting, legacy order storage in a large database, and heavy images. A developer audits each, switches to High-Performance Order Storage where safe, removes duplicate plugins, sets caching that bypasses cart and checkout, and measures pages before and after." },
     { question: "How do I add Canada Post shipping rates to WooCommerce?", answer: "Install Woo's official Canada Post Shipping Method extension and connect it to your own Canada Post account with API credentials. Then give every product a weight and dimensions, define the boxes you use and choose which services to offer. Compare checkout quotes with real Canada Post charges for a few addresses before going live." },
     { question: "How do I set up GST, HST and PST in WooCommerce?", answer: "Enable taxes, then add rows to the standard tax rate table with country code CA, the province code, the rate, the tax name and a priority. Provinces with a separate provincial tax get a second row at a different priority. Match rows to your actual registrations, which your accountant decides, and test orders to each province." },

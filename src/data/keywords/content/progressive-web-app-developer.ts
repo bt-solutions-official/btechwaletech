@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical web app build", "6–12 weeks"],
     ["Installs on", "Android, iPhone, Windows, Mac, Chromebook"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "1", label: "Codebase for phone, tablet and desktop" },
     { value: "0", label: "App store fees to install a plain PWA" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "3", label: "Developers who know your project" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Store with installable front end", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Distribution", value: "Direct link and install prompt; Play Store listing optional" },
       { label: "Ownership", value: "Domain, hosting, repository and store accounts in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show scope and trade-offs, not a client story.`,
         `A two-wheeler spare-parts distributor supplies a few hundred garages across nearby districts. Salespeople take orders on paper or WhatsApp, errors are common, and the owner wants a single price list everyone uses. Several garages sit in areas with weak signal, and staff will not install a heavy store app.`,
-        `We would propose a PWA web app starting at ${P.software}. Version one: login per salesperson, searchable parts catalogue cached for offline use, order drafts that save to IndexedDB and sync when online, a manager view of the day's orders, and a nightly price update from a spreadsheet the owner already keeps. Push notifications tell salespeople when prices change. Phase two could add garage self-ordering and a Play Store listing through a Trusted Web Activity. Our estimate would put version one near the middle of the 6–12 week range, with five months of free maintenance after launch.`,
+        `We would propose a PWA web app starting at ${P.software}. Version one: login per salesperson, searchable parts catalogue cached for offline use, order drafts that save to IndexedDB and sync when online, a manager view of the day's orders, and a nightly price update from a spreadsheet the owner already keeps. Push notifications tell salespeople when prices change. Phase two could add garage self-ordering and a Play Store listing through a Trusted Web Activity. Our estimate would put version one near the middle of the 6–12 week range, with two months of free maintenance after launch.`,
       ],
     },
     {
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
         ["Installable online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue and cart cached; checkout online"],
         ["PWA web app with logins and data", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Offline forms that sync"],
         ["Native companion app on shared back end", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Full device access"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, fixes, cache rules"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, fixes, cache rules"],
       ],
       hideSm: [2],
     },
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Accounts created in your name", "Domain, hosting, repository, push keys and Play Console (if needed) are registered to you, with us added as users."],
       ["Install the staging build", "From the first sprint you add the app to your own home screen and test it on your phone, including with airplane mode switched on."],
       ["Device testing and launch", "We test on a budget Android phone, a recent iPhone and desktop browsers, then go live and verify Google Search Console."],
-      ["Five months of free care", "Fixes, small changes and cache-rule updates are free for five months after launch; ongoing maintenance is optional from " + P.care + " a month."],
+      ["Two months of free care", "Fixes, small changes and cache-rule updates are free for two months after launch; ongoing maintenance is optional from " + P.care + " a month."],
     ],
   },
   faqHeading: "Progressive web app developer: common questions",
@@ -400,9 +400,9 @@ const content: FreelanceContent = {
     { question: "Who owns the code and data of my PWA?", answer: "You should own everything. With BtechWaleTech the domain, hosting, Git repository, push notification keys and any Play Console account are created in your name from the start. User data sits in a database on your hosting account. At handover you receive every login and a note on releasing updates safely." },
     { question: "What technology is used to build a PWA?", answer: "The PWA layer is standard web technology: a manifest file, a service worker, HTTPS and browser storage such as IndexedDB. The app itself can use Next.js, Astro, React, Angular or Vue on the front end and Node.js or Python on the back end. We commonly use Workbox for caching because it is well tested and readable." },
     { question: "Is a PWA safe for payments and user data?", answer: "Yes, when built properly. PWAs require HTTPS, payments happen online through a standard UPI and card checkout, and card details never sit in the browser cache. The developer must avoid caching private pages and clear local data at logout, especially for staff who share phones. We test both before launch." },
-    { question: "Can a freelancer maintain my PWA after launch?", answer: `Yes. BtechWaleTech includes five months of free maintenance covering fixes, small changes and cache-rule updates. After that, maintenance is optional from ${P.care} a month. Because the code and accounts are yours, you can also move maintenance to your own team or another developer at any time.` },
+    { question: "Can a freelancer maintain my PWA after launch?", answer: `Yes. BtechWaleTech includes two months of free maintenance covering fixes, small changes and cache-rule updates. After that, maintenance is optional from ${P.care} a month. Because the code and accounts are yours, you can also move maintenance to your own team or another developer at any time.` },
     { question: "Do PWAs use less data and phone storage than apps?", answer: "Usually, yes. A PWA installs almost instantly and takes a small fraction of the storage a typical store app uses, which matters on budget phones that are often full. After the first visit, cached screens load with very little data, helping prepaid users on limited daily plans." },
-    { question: "PWA banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath PWA-ready simple website ${P.site} se shuru hoti hai. Login, database aur offline orders wala PWA web app ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Final kharcha screens aur features par depend karta hai. Pehle itemised quote milta hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "PWA banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath PWA-ready simple website ${P.site} se shuru hoti hai. Login, database aur offline orders wala PWA web app ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Final kharcha screens aur features par depend karta hai. Pehle itemised quote milta hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can you build a PWA for clients outside India?", answer: `Yes. We work remotely with clients in the USA, UK, Canada, Australia, the UAE and elsewhere, billing in USD with PWA web apps from ${P.softwareUsd}. Progress is shared as an installable staging build, calls are scheduled in overlapping hours, and payments go through Wise, bank wire or PayPal.` },
   ],
   related: {
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a progressive web app developer? Tell us where your users lose signal",
-    note: `Send us a WhatsApp message describing your users and the screens they need. You get an itemised quote in about two working days, with PWA web apps starting at ${P.software}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send us a WhatsApp message describing your users and the screens they need. You get an itemised quote in about two working days, with PWA web apps starting at ${P.software}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

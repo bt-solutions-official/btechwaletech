@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Partner login and order portal", `From ${P.software}`],
     ["MR or partner app", `From ${P.app}`],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your franchise website" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "299+", label: "Pages in the SEO plan, room for every state and division" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What should a PCD pharma franchise website include?",
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A PCD pharma franchise website starts at ${P.site} for a static site of up to 100 pages with a searchable product list, division pages, certificates and an enquiry form. A territory network of 299+ state, district, division and product pages starts at ${P.seoSite}. A partner portal with login, rate lists and ordering is custom software from ${P.software}.`,
         `The catalogue size is the first driver. Two hundred products entered with full compositions and pack images take real effort, and cleaning up inconsistent data from an old Excel sheet takes longer than building the page template. The second driver is territory pages: each needs specific content, so 150 useful state and district pages cost more than 20. The third is the partner area, because logins, permissions and download tracking are software.`,
-        `You can reduce the cost by sending a clean product sheet with one row per product and consistent composition formatting, and pack images named by product. Recurring costs after launch are hosting, domain renewal, any WhatsApp message charges and optional maintenance from ${P.care} once the five free months end. Overseas buyers of a similar build are quoted in USD, for example a static site from ${P.siteUsd}.`,
+        `You can reduce the cost by sending a clean product sheet with one row per product and consistent composition formatting, and pack images named by product. Recurring costs after launch are hosting, domain renewal, any WhatsApp message charges and optional maintenance from ${P.care} once the two free months end. Overseas buyers of a similar build are quoted in USD, for example a static site from ${P.siteUsd}.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       heading: "Who owns the franchise website, the product data and the leads?",
       paragraphs: [
         `Your business owns all of it: domain, hosting, code, product database, visual aid files and every enquiry. For a franchise company the lead list is a core asset, so it must sit in accounts you control from day one.`,
-        `At handover you receive admin logins, access to the code repository, the renewal calendar and a short guide for daily tasks: adding a product, marking a district closed, uploading a new visual aid, exporting enquiries. Maintenance is free for five months after launch. After that you can continue with us from ${P.care}, handle it in-house or move to another developer without anything being locked. Specific terms, including confidentiality, are agreed in your written quote; our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the general conditions.`,
+        `At handover you receive admin logins, access to the code repository, the renewal calendar and a short guide for daily tasks: adding a product, marking a district closed, uploading a new visual aid, exporting enquiries. Maintenance is free for two months after launch. After that you can continue with us from ${P.care}, handle it in-house or move to another developer without anything being locked. Specific terms, including confidentiality, are agreed in your written quote; our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the general conditions.`,
       ],
     },
     {
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
       ["Clean and import products", "We send a template sheet, your team fills or corrects it, and we import the catalogue with consistent compositions, packing and division tags."],
       ["Review on a staging link", "You search the catalogue, check territory pages and submit test enquiries from different states to confirm each reaches the right manager."],
       ["Launch in your accounts", "The site goes live on your domain and hosting, the sitemap is submitted in Search Console, and your team gets admin logins and a short guide."],
-      ["Support for five months, free", `Fixes, updates and small changes cost nothing for five months. After that, maintenance from ${P.care} a month is optional, or you can move it in-house.`],
+      ["Support for two months, free", `Fixes, updates and small changes cost nothing for two months. After that, maintenance from ${P.care} a month is optional, or you can move it in-house.`],
     ],
   },
   faqHeading: "PCD pharma franchise website: questions franchise companies ask",
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
     { question: "How should third-party manufacturing be shown on the website?", answer: "State it honestly. Name the manufacturing unit's location and the certificates it holds, with validity, and upload certificate images only with the manufacturer's permission. Partners understand the third-party model; what damages trust is implying ownership of a unit you do not own. A separate page can handle enquiries for third-party manufacturing if you offer it." },
     { question: "Will AI assistants recommend my franchise company?", answer: "They may cite your pages if facts are clear and consistent: divisions, product counts, packing options, states served and how territory allocation works. Short FAQ answers and structured data help. No one can force an assistant to mention you, and exaggerated claims can hurt when repeated, so accurate pages are the most dependable approach." },
     { question: "Is a freelance team suitable for a PCD pharma franchise website?", answer: "Yes, if the scope fits. A small freelance team like BtechWaleTech builds catalogues, territory pages, lead routing and partner portals directly, with you talking to the developers. It suits franchise companies that want to move in stages. Very large programmes needing big in-house teams or on-site work are better suited to larger providers." },
-    { question: "What maintenance does a franchise website need?", answer: `Adding new launches, updating territory status, uploading new visual aids, security updates, backups and checking that lead routing works. BtechWaleTech includes five months of free maintenance after launch. After that, maintenance is optional from ${P.care} a month, and your team can handle routine product and status updates through the admin panel.` },
+    { question: "What maintenance does a franchise website need?", answer: `Adding new launches, updating territory status, uploading new visual aids, security updates, backups and checking that lead routing works. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional from ${P.care} a month, and your team can handle routine product and status updates through the admin panel.` },
     { question: "How are payments and contracts handled?", answer: "You get a written, itemised quote with scope, stages and timeline in about two working days. Nothing is billed before you approve it in writing. Payments in India are by UPI or bank transfer. Confidentiality and other specific terms are agreed in the quote; our published terms and refund policy cover general conditions." },
     { question: "Can the website be in Hindi as well as English?", answer: "Yes. Many franchise seekers in north and central India are comfortable in Hindi, so a Hindi version of key pages such as the franchise opportunity, territory and contact pages can help. The team writes English and Hindi; other languages can be added with text you supply or approve." },
     { question: "PCD pharma franchise website banwane mein kitna time lagta hai?", answer: `Product sheet ready ho to basic PCD pharma franchise website 1 se 2 hafte mein ban jaati hai, jo ${P.site} se shuru hoti hai. State aur district pages wali 299+ page website 3 se 5 hafte leti hai. Pehle itemised quote milta hai aur aapke written approval ke baad hi billing hoti hai.` },
@@ -471,7 +471,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want your PCD pharma franchise website to bring partners, not just visitors?",
-    note: `Send your product sheet, divisions and target states on WhatsApp. You will receive an itemised plan and quote in about two working days, starting at ${P.site}, with every account in your name and five months of free maintenance after launch.`,
+    note: `Send your product sheet, divisions and target states on WhatsApp. You will receive an itemised plan and quote in about two working days, starting at ${P.site}, with every account in your name and two months of free maintenance after launch.`,
   },
 };
 

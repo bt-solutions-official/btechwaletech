@@ -32,10 +32,10 @@ const siwan: CityContent = {
     h1: "Websites, software, SEO and AI tools for Siwan's travel agents, clinics, coaching centres and bazaar shops",
     lede:
       "We are three remote engineers building websites, local search visibility and practical business tools for Siwan and the Saran region. Our work fits the town's real customers: families with members in the Gulf, patients coming in from the blocks, students preparing for exams, and shoppers at Babunia More, Mahadeva and Gandhi Maidan Road, all at published starting prices.",
-    pills: ["Sites from ₹10,000", "Hindi, Bhojpuri, English, Urdu", "Travel and visa pages", "Clinic booking tools", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Hindi, Bhojpuri, English, Urdu", "Travel and visa pages", "Clinic booking tools", "2 months free upkeep"],
   },
   quickAnswer:
-    "In Siwan, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Siwan, and the first five months of maintenance are free.",
+    "In Siwan, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Siwan, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Siwan district, formed in 1972 from the old Saran district, on the Daha river" },
     { label: "Population", value: "About 1.35 lakh people in the city at the 2011 census" },
@@ -52,10 +52,10 @@ const siwan: CityContent = {
     ai: "WhatsApp replies that answer fee, visa, timing and appointment questions around the clock, then pass serious cases to your staff.",
     data: "Dashboards that show enquiries by source, admissions by batch, or sales by product and season.",
     app: "Android and iOS apps for student attendance, field staff or delivery orders on low-cost phones, available on both stores with builds from ₹40,000.",
-    maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you choose it.",
+    maintenance: "Two months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you choose it.",
   },
   whyUsIntro:
-    "Many Siwan businesses have been sold a website by someone from Patna or Gorakhpur, then struggled to reach that person when a phone number needed changing. We publish our starting prices, reply on WhatsApp seven days a week, work directly with owners, and maintain every site free for five months after launch.",
+    "Many Siwan businesses have been sold a website by someone from Patna or Gorakhpur, then struggled to reach that person when a phone number needed changing. We publish our starting prices, reply on WhatsApp seven days a week, work directly with owners, and maintain every site free for two months after launch.",
   pricingIntro:
     "All prices here are starting prices. A tailoring shop near Station Road needs much less than a recruitment agency wanting country-wise pages, a case tracker and WhatsApp automation. You receive an itemised quote for your exact scope in about two working days, and nothing is billed until you approve it in writing.",
   sections: [
@@ -179,7 +179,7 @@ const siwan: CityContent = {
       paragraphs: [
         "A familiar problem in Siwan: a website was made years ago by someone who registered the domain in their own name, then changed their number. When the renewal date passed, the site went offline along with the email address printed on the business's letterhead and visiting cards. Rebuilding cost more than the original site.",
         "We register your domain and hosting in your name from the first day. At launch you receive all logins, the full source code and a short note explaining the setup. Enquiries, case files and student records stay in accounts you control and can be exported at any time. If you switch developers later, you leave with everything and pay no exit charge.",
-        "For five months after launch, updates, bug fixes, security patches, backups and speed checks are free. After that, maintenance continues from ₹8,000 a month, or you contact us only when something needs changing. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
+        "For two months after launch, updates, bug fixes, security patches, backups and speed checks are free. After that, maintenance continues from ₹8,000 a month, or you contact us only when something needs changing. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const siwan: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we update text, prices and photos, fix bugs, apply security updates, take backups and check speed for free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we update text, prices and photos, fix bugs, apply security updates, take backups and check speed for free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Can you build software for a coaching institute in Siwan?",

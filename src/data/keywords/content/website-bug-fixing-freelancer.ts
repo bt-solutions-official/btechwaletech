@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers who can pick up an urgent fix" },
     { value: "7", label: "Days a week we read and reply on WhatsApp" },
     { value: "0", label: "Charges before you approve the fix quote" },
-    { value: "5", label: "Months free care if we rebuild the site" },
+    { value: "2", label: "Months free care if we rebuild the site" },
   ],
   answer: {
     heading: "What does a website bug fixing freelancer do, and what does it cost?",

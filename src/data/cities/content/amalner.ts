@@ -31,11 +31,11 @@ const amalner: CityContent = {
     eyebrow: "Amalner · Jalgaon, Maharashtra",
     h1: "Websites, apps, SEO and AI automation for Amalner's cotton traders, colleges, temple-town shops and MIDC units",
     lede:
-      "Three engineers working remotely, building websites, Marathi and English search pages, UPI stores and WhatsApp automations for businesses in Amalner taluka and the wider Khandesh belt: cotton and grain traders at the market yard, units on the Dhule road, schools and coaching classes, clinics, and shops that serve pilgrims. Starting prices are public, and the first five months of maintenance are free.",
+      "Three engineers working remotely, building websites, Marathi and English search pages, UPI stores and WhatsApp automations for businesses in Amalner taluka and the wider Khandesh belt: cotton and grain traders at the market yard, units on the Dhule road, schools and coaching classes, clinics, and shops that serve pilgrims. Starting prices are public, and the first two months of maintenance are free.",
     pills: ["Websites from ₹10,000", "Marathi and English pages", "Cotton and agri trade", "Pilgrim-season visibility", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For an Amalner shop, trader, clinic or school, a basic website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team without an Amalner office, and maintenance is free for five months after launch.",
+    "For an Amalner shop, trader, clinic or school, a basic website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team without an Amalner office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Taluka headquarters on the Bori river in Jalgaon district, about 36 km from Dhule" },
     { label: "Town population", value: "95,994 at the 2011 census" },
@@ -52,7 +52,7 @@ const amalner: CityContent = {
     ai: "WhatsApp assistants that share rates, stock, fees or darshan-season details in Marathi or English and pass anything important to you.",
     data: "Season-wise buying, sales and outstanding payments shown in a simple dashboard you can check on your phone before the market opens.",
     app: "Android and iOS apps for school notices, clinic tokens and dealer orders, from ₹40,000 and ready in six to ten weeks on both app stores.",
-    maintenance: "Content edits, backups, security updates and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content edits, backups, security updates and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Amalner is a well-known name in Khandesh, but very few of its businesses can be found properly online. Local web work is usually informal, and agencies in Jalgaon, Nashik or Pune often quote high and disappear after launch. We publish our starting prices, write in Marathi and English, reply on WhatsApp seven days a week and keep your domain and code in your own name.",
@@ -171,7 +171,7 @@ const amalner: CityContent = {
       paragraphs: [
         "We register your domain and hosting in your name from the start. At launch you get every login, the complete code and a short written note explaining how the site is put together. If you ever want someone else to manage it, you can hand everything over without our involvement and without an exit fee.",
         "This matters because losing a website is common in smaller towns. A developer registers the domain under his own account, moves away or stops answering, and the business loses its site and email when renewal comes due. We have seen shops rebuild from nothing because of this.",
-        "For five months after launch, maintenance is free: text and price updates, small fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when you need something changed and pay for that job alone.",
+        "For two months after launch, maintenance is free: text and price updates, small fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when you need something changed and pay for that job alone.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const amalner: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle text and price changes, small fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and price changes, small fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Will SEO put me first on Google?",

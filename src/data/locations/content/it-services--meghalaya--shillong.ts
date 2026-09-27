@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp workflows that handle trip, admission and order questions, passing real decisions to your team.",
     data: "Dashboards for tour operators, institutions and retailers showing bookings, occupancy, fees or sales in one view.",
     app: "Android and iOS apps for Shillong tour operators, hostels, colleges and cafés, built once in Flutter or React Native for both stores.",
-    maintenance: "Hosting, backups, security patches and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Hosting, backups, security patches and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Shillong clients often choose between small local developers and larger Guwahati or Kolkata vendors. We offer a third option: three engineers who scope carefully, write the code themselves, publish starting prices and reply seven days a week.",
@@ -74,7 +74,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Shillong, or a freelance team like ours, builds the systems behind a business: tour package and booking software, driver dispatch, college and coaching systems, hostel and PG management, clinic patient portals, inventory tools, Android and iOS apps, and the automation that connects them. The website is often the smallest piece.",
         "Shillong's economy shapes this demand. The city is the base for most tourism in Meghalaya, an education centre for the whole Northeast, a regional healthcare hub, and a busy retail market around Police Bazar, Iewduh and Laitumkhrah. It also has a growing startup and IT services community around the PRIME hub and the Shillong Technology Park at Umsawli.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Shillong. We run projects through WhatsApp, email and video calls, share working versions early, and hand over all code and accounts at launch, followed by five months of free maintenance.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Shillong. We run projects through WhatsApp, email and video calls, share working versions early, and hand over all code and accounts at launch, followed by two months of free maintenance.",
       ],
       list: [
         "Tour, booking and dispatch software",
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "cost-choose-shillong",
       heading: "How much does software development cost in Shillong, and how do you choose?",
       paragraphs: [
-        "Software development for a Shillong business with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for a store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
+        "Software development for a Shillong business with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for a store, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months. See the <a href='/pricing/'>pricing page</a>.",
         "If you are weighing a software development team in Shillong against a freelance team, compare earlier work, who writes the code, written scope, ownership of domain, hosting, store accounts and code, and post-launch support terms. A local company can visit; a remote freelance group usually costs less and gives direct access to engineers. Our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a> help with that comparison, and our <a href='/shillong/'>Shillong web services page</a> covers websites and local SEO in more detail.",
         "Payments to us are only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. Start with a WhatsApp message; see all <a href='/services/'>services</a> or the statewide <a href='/it-services/meghalaya/'>Meghalaya hub</a>.",
       ],
@@ -283,7 +283,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months free: bug fixes, content and price updates, backups, security updates and uptime checks. After that, a monthly plan starts at ₹8,000, or you can pay per request with the cost confirmed first. New features are always quoted before work starts.",
+        "Two months free: bug fixes, content and price updates, backups, security updates and uptime checks. After that, a monthly plan starts at ₹8,000, or you can pay per request with the cost confirmed first. New features are always quoted before work starts.",
     },
     {
       question: "What can AI automation do for a Shillong tour operator?",

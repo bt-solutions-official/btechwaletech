@@ -7,7 +7,7 @@ const madurai: CityContent = {
   meta: {
     title: "IT Services in Madurai: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Madurai businesses. Sites from ₹10,000, SEO sites from ₹20,000, five months of free upkeep.",
+      "Websites, local SEO, online stores and WhatsApp automation for Madurai businesses. Sites from ₹10,000, SEO sites from ₹20,000, two months of free upkeep.",
     keywords: [
       "website development team in Madurai",
       "web design team Madurai",
@@ -31,11 +31,11 @@ const madurai: CityContent = {
     eyebrow: "Madurai · Tamil Nadu",
     h1: "Websites, search visibility and automation for Madurai's shops, hotels and makers",
     lede:
-      "We are three engineers working remotely for businesses across Tamil Nadu, including temple-town hotels, Sungudi weavers, Kappalur manufacturers and clinics along Bypass Road. Our prices are on this page, you speak directly to the people who write your code, and maintenance is free for five months after your site goes live.",
+      "We are three engineers working remotely for businesses across Tamil Nadu, including temple-town hotels, Sungudi weavers, Kappalur manufacturers and clinics along Bypass Road. Our prices are on this page, you speak directly to the people who write your code, and maintenance is free for two months after your site goes live.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "UPI online stores", "Hotel and lodge bookings", "WhatsApp replies on autopilot"],
   },
   quickAnswer:
-    "A business website for a Madurai firm starts at ₹10,000 with us and is usually live within two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote three-person team with no Madurai office, and every build includes five months of free maintenance.",
+    "A business website for a Madurai firm starts at ₹10,000 with us and is usually live within two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote three-person team with no Madurai office, and every build includes two months of free maintenance.",
   snapshot: [
     { label: "Commercial core", value: "The Masi streets and Chithirai streets around the Meenakshi Amman Temple, Simmakkal, Anna Nagar and KK Nagar" },
     { label: "IT locations", value: "ELCOT IT SEZ at Vadapalanji (tenants include HCL and Honeywell) and the ELCOT park at Ilanthaikulam" },
@@ -52,10 +52,10 @@ const madurai: CityContent = {
     ai: "WhatsApp assistants that answer room availability, darshan-timing questions from guests or admission queries in Tamil and English, then hand the tricky ones to your staff.",
     data: "Daily sales, occupancy and collection figures pulled into one simple dashboard so the owner sees the numbers before the shop opens.",
     app: "Android and iPhone apps for table bookings, home delivery and customer loyalty, listed on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Content changes, backups, security fixes and uptime checks at no charge for five months, then from ₹8,000 a month.",
+    maintenance: "Content changes, backups, security fixes and uptime checks at no charge for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Plenty of Madurai designers will build you a site, but few say what it costs until you have spent an afternoon on the phone. We put our starting prices in public, answer WhatsApp every day of the week, and keep looking after your site for five months after it launches without sending a bill.",
+    "Plenty of Madurai designers will build you a site, but few say what it costs until you have spent an afternoon on the phone. We put our starting prices in public, answer WhatsApp every day of the week, and keep looking after your site for two months after it launches without sending a bill.",
   pricingIntro:
     "Website quotes in Madurai are hard to compare because nobody lists what is included. Below are our genuine starting prices. The final figure depends on how many pages you need, which features you want and whether your content is ready, and you get it itemised in writing before we write a line of code.",
   sections: [
@@ -168,7 +168,7 @@ const madurai: CityContent = {
       paragraphs: [
         "A surprising number of Madurai businesses cannot edit their own website. The developer who registered the domain has moved on, the hosting was on his account, and the renewal lapsed quietly. When that happens, the site goes offline or starts showing security warnings, and getting it back can take weeks.",
         "We avoid that from the first day. The domain is registered in your name, the hosting account is in your name, and you receive every login plus a short note explaining where everything lives. The source code is yours. You can move it to another developer whenever you like, and there is no exit fee or notice period.",
-        "The five months after launch are covered by free maintenance: text and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, you can keep us on from ₹8,000 a month or simply message us when you need something done.",
+        "The two months after launch are covered by free maintenance: text and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, you can keep us on from ₹8,000 a month or simply message us when you need something done.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const madurai: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch, we handle text and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, we handle text and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long before SEO brings results in Madurai?",

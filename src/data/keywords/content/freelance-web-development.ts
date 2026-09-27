@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Stacks", "Astro, Next.js, React, Node.js, Python, WordPress"],
     ["Deliverables", "Repository, accounts, docs, Search Console"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Aftercare", "5 months free, then optional plan"],
+    ["Aftercare", "2 months free, then optional plan"],
   ],
   stats: [
     { value: "3", label: "Developers sharing each codebase" },
     { value: "2", label: "Working days to a line-by-line quote" },
     { value: "0", label: "Platform or marketplace fees" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "What does freelance web development include?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom web app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Handed over", value: "Code repository, admin logins, hosting and domain in your name" },
       { label: "Billing", value: "Staged; UPI or bank transfer in India, Wise, wire or PayPal abroad" },
-      { label: "Maintenance", value: `Free for 5 months, then from ${P.care}` },
+      { label: "Maintenance", value: `Free for 2 months, then from ${P.care}` },
     ],
   },
   services: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Stack choice", "Tied to the hire's comfort zone", "Often a house framework", "Chosen per project and explained in writing"],
       ["Deliverables", "Stays inside your company", "Defined in the contract", "Repository, logins, docs handed over at launch"],
       ["Continuity", "Leaves when the person resigns", "Account team rotates", "Three developers know every codebase"],
-      ["Aftercare", "Part of the job", "Separate support contract", `5 months free, then from ${P.care}`],
+      ["Aftercare", "Part of the job", "Separate support contract", `2 months free, then from ${P.care}`],
       ["Best fit", "Daily, never-ending product work", "Very large multi-team programmes", "Clearly scoped sites, stores and web apps"],
     ],
     fine: "If your roadmap needs several developers every day for years, a staff team or a large vendor will serve you better than any freelance web development arrangement.",
@@ -162,7 +162,7 @@ const content: FreelanceContent = {
       heading: "Project, retainer or hourly: how is freelance web development billed?",
       paragraphs: [
         `There are three common billing models, and each suits a different stage. A <strong>scoped project</strong> works when you know what must exist on launch day; you get a quote, pay in stages and receive the deliverables. A <strong>monthly retainer</strong> works after launch, when you want a steady stream of small changes without negotiating each one. <strong>Hourly billing</strong> suits short investigations where nobody can know the size of the job until someone looks.`,
-        `We use scoped projects for builds, a maintenance plan from ${P.care} for ongoing work after the five free months, and short time-boxed investigations for unknown problems, where you approve the hours in advance. What we avoid is open-ended hourly billing on a build, because it removes any incentive to finish.`,
+        `We use scoped projects for builds, a maintenance plan from ${P.care} for ongoing work after the two free months, and short time-boxed investigations for unknown problems, where you approve the hours in advance. What we avoid is open-ended hourly billing on a build, because it removes any incentive to finish.`,
         `Whichever model you choose, ask for the same three protections: work shown before each payment, a written change process for new requests, and a clear owner of every account. Our <a href='/pricing/'>pricing page</a> lists every starting point in one place.`,
       ],
     },
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
         { heading: "Content", text: "Writing, translating or restructuring copy is real work. If you supply final text, cost drops." },
         { heading: "Data migration", text: "Moving hundreds of old posts or products with correct URLs and images takes careful scripting." },
         { heading: "Integrations", text: "Every external system adds error handling, retries and credentials to manage." },
-        { heading: "Aftercare", text: "Five months of included maintenance is worth money; a quote that ends at launch is not comparable." },
+        { heading: "Aftercare", text: "Two months of included maintenance is worth money; a quote that ends at launch is not comparable." },
       ],
     },
     {
@@ -294,7 +294,7 @@ const content: FreelanceContent = {
       heading: "Freelance web development kya hai? Aasaan shabdon mein",
       paragraphs: [
         `Freelance web development ka matlab hai ki aap ek chhoti independent team ko ek tay kaam dete hain, jaise business website ya online store, ek tay scope aur quote ke saath. Aapko salary nahi deni padti, aur kaam khatam hone par code, domain aur hosting sab aapke naam par rehta hai.`,
-        `Hamare saath simple website ${P.site} se shuru hoti hai, SEO website ${P.seoSite} se, aur online store ${P.shop} se. Quote har line ke hisaab se milta hai, lagbhag do working days mein. Payment stages mein hota hai, UPI ya bank transfer se. Launch ke baad 5 mahine maintenance free hai. WhatsApp par Hindi ya English mein poochiye.`,
+        `Hamare saath simple website ${P.site} se shuru hoti hai, SEO website ${P.seoSite} se, aur online store ${P.shop} se. Quote har line ke hisaab se milta hai, lagbhag do working days mein. Payment stages mein hota hai, UPI ya bank transfer se. Launch ke baad 2 mahine maintenance free hai. WhatsApp par Hindi ya English mein poochiye.`,
       ],
     },
   ],
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
         ["Online store", "Catalogue, cart, UPI and card checkout, order emails", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app", "Logins, roles, database, dashboard, API docs", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["AI automation add-on", "Document reading, WhatsApp replies, reports", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance plan", "Updates, backups, small changes", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 5 free months"],
+        ["Maintenance plan", "Updates, backups, small changes", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 2 free months"],
       ],
       hideSm: [3],
     },
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Accounts opened in your name", "Domain, hosting, repository and analytics are created under your email, or you create them and invite us. This happens before building starts."],
       ["Build in visible phases", "Each phase ends on a staging link you can open on your phone. You comment on WhatsApp, we revise, and payments follow work you have seen."],
       ["Launch and hand over", "We switch the domain, enable SSL, submit the sitemap, verify Search Console and give you a written handover note with every login and renewal date."],
-      ["Maintain or take it in-house", "Five months of maintenance are included. After that you can continue from " + P.care + ", hand it to your own staff, or move to any developer using the documentation."],
+      ["Maintain or take it in-house", "Two months of maintenance are included. After that you can continue from " + P.care + ", hand it to your own staff, or move to any developer using the documentation."],
     ],
   },
   faqHeading: "Freelance web development: common questions",
@@ -393,13 +393,13 @@ const content: FreelanceContent = {
     { question: "Is SEO included in freelance web development?", answer: "Technical SEO foundations should be included: clean URLs, titles and descriptions, heading structure, sitemap, schema markup, fast loading and Search Console setup. Ongoing SEO such as new content, local listings and reporting is a separate monthly service. Treat anyone who promises a fixed Google position as a warning sign." },
     { question: "Can I get freelance web development near me instead of remote?", answer: "You can look for someone local, but remote work runs the same way for most projects: video calls, staging links you open on your phone and quick replies on WhatsApp. Choose the provider on evidence, ownership terms and process. Distance only matters if you truly need someone on site." },
     { question: "What should my brief for freelance web development include?", answer: "Include the business goal, the action you want visitors to take, a list of pages or sections, features such as bookings or payments, systems to connect, examples you like, who supplies content, any hard deadline and a budget range. One page is enough and makes quotes from different providers comparable." },
-    { question: "Does freelance web development include maintenance?", answer: `It depends on the provider, so ask. BtechWaleTech includes five months of free maintenance after launch, covering small edits, fixes, updates and backups. After that you can continue on a plan starting at ${P.care}, manage the site yourself with our documentation, or move to another developer.` },
+    { question: "Does freelance web development include maintenance?", answer: `It depends on the provider, so ask. BtechWaleTech includes two months of free maintenance after launch, covering small edits, fixes, updates and backups. After that you can continue on a plan starting at ${P.care}, manage the site yourself with our documentation, or move to another developer.` },
     { question: "Can the same team build a mobile app after the website?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app} with Flutter or React Native and publishes them in your own Google Play and App Store accounts. Because the same people built your website, the app can reuse its data, login and design system instead of starting from scratch.` },
     { question: "Do you sign an NDA before a web project?", answer: "Yes, we are happy to sign a reasonable NDA before you share unreleased product details, customer data or internal processes. Separately, every project has a written scope covering price, timeline, payment stages and ownership, so both sides know what was agreed even without a formal contract template." },
     { question: "Can overseas clients use freelance web development from India?", answer: `Yes. Remote web projects are routine. BtechWaleTech works with clients in the USA, UK, Canada, Australia, the UAE, Singapore and Japan, bills in USD with static sites from ${P.siteUsd}, overlaps hours for calls and shares progress on staging links. Payments go through Wise, bank wire or PayPal.` },
     { question: "What are the risks of freelance web development and how do I reduce them?", answer: "The main risks are a single freelancer becoming unavailable, unclear scope and accounts held in the developer’s name. Reduce them with a written, itemised scope, staged payments tied to visible work, and every account in your name from day one. Working with a small team rather than one person also reduces the availability risk." },
     { question: "Freelance web development ka kharcha kitna hai?", answer: `BtechWaleTech ke saath simple website ${P.site} se shuru hoti hai aur 1–2 hafte lagte hain. SEO website ${P.seoSite} se aur online store ${P.shop} se shuru hota hai. Final kharcha pages, features aur content par depend karta hai. Itemised quote pehle milta hai, aur approval ke baad hi kaam aur payment shuru hota hai.` },
-    { question: "What happens if I want changes after launch?", answer: `Small edits and fixes are covered free for five months after launch. Larger changes, such as new features or a new section, are quoted separately with the same itemised approach. After the free period, a maintenance plan from ${P.care} covers routine updates, backups and small changes each month.` },
+    { question: "What happens if I want changes after launch?", answer: `Small edits and fixes are covered free for two months after launch. Larger changes, such as new features or a new section, are quoted separately with the same itemised approach. After the free period, a maintenance plan from ${P.care} covers routine updates, backups and small changes each month.` },
   ],
   related: {
     heading: "Related pages on freelance web development",
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need freelance web development? Tell us what the site must do",
-    note: `Send a short brief on WhatsApp. In about two working days you get an itemised quote, a stack recommendation and a deliverables list, with websites from ${P.site}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send a short brief on WhatsApp. In about two working days you get an itemised quote, a stack recommendation and a deliverables list, with websites from ${P.site}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer visitor and customer questions in English, with fixed Khasi or Garo replies and people confirming bookings.",
     data: "Dashboards for self-help groups, cooperatives, schools and multi-branch businesses across the state.",
     app: "Android and iOS apps for Meghalaya tour operators, schools, clinics and producers, built in Flutter or React Native for both stores.",
-    maintenance: "Seasonal updates, backups, security patches and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Seasonal updates, backups, security patches and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Meghalaya businesses often pay for websites that look good in an office in Guwahati but load slowly on a hillside in Sohra. We build for the real conditions first, publish our starting prices and let you speak to the engineers.",
@@ -209,7 +209,7 @@ const content: CityContent = {
       id: "cost-it-services-meghalaya",
       heading: "How much do IT services in Meghalaya cost?",
       paragraphs: [
-        "IT services in Meghalaya from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Meghalaya from BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months.",
         "These are starting prices; the final figure depends on pages, features, integrations and content. You receive an itemised quote in about two working days, and nothing is billed until you approve it. Payments are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees. See the full table on our <a href='/pricing/'>pricing page</a>.",
         "When comparing quotes, check whether hosting, deployment, source code, training and post-launch fixes are included; cheaper quotes often leave them out.",
       ],
@@ -220,7 +220,7 @@ const content: CityContent = {
       paragraphs: [
         "If you are comparing IT companies in Meghalaya with a freelance team, the main differences are on-site presence, cost and direct access to engineers. A local company can visit for hardware and networking; a remote freelance group like BtechWaleTech usually costs less for software, apps and SEO and lets you speak directly to the people writing the code.",
         "Whichever you choose, ask to see earlier work, confirm who writes the code, get the scope in writing, insist that domains, hosting, store accounts and code are in your name, and check what support costs after launch. Ask how the site performs on slow hill networks. Our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a> are there for exactly this kind of checking.",
-        "To start, send us a WhatsApp message describing your business. At launch you receive code, credentials and a guide, plus five months of free maintenance. Explore all <a href='/services/'>services</a>, the neighbouring <a href='/it-services/manipur/'>Manipur hub</a> or the full <a href='/it-services/'>IT services directory</a>.",
+        "To start, send us a WhatsApp message describing your business. At launch you receive code, credentials and a guide, plus two months of free maintenance. Explore all <a href='/services/'>services</a>, the neighbouring <a href='/it-services/manipur/'>Manipur hub</a> or the full <a href='/it-services/'>IT services directory</a>.",
       ],
     },
   ],
@@ -291,7 +291,7 @@ const content: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "Five months after launch at no cost: bug fixes, content and seasonal price updates, backups, security updates and uptime checks. After that, a monthly plan starts at ₹8,000, or you can pay per request with the cost confirmed first.",
+        "Two months after launch at no cost: bug fixes, content and seasonal price updates, backups, security updates and uptime checks. After that, a monthly plan starts at ₹8,000, or you can pay per request with the cost confirmed first.",
     },
     {
       question: "What can AI automation do for a Meghalaya business?",

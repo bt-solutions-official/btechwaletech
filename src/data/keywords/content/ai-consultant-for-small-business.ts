@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Automation builds from", `${P.ai} · ${P.aiUsd}`],
     ["Custom tools from", `${P.software} · ${P.softwareUsd}`],
     ["Tool accounts and data", "Stay in your name"],
-    ["After a build", `5 months free upkeep, then from ${P.care}`],
+    ["After a build", `2 months free upkeep, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "People you talk to directly: AI, full-stack and project lead" },
     { value: "2", label: "Working days to receive an itemised estimate" },
     { value: "1", label: "Task in your first pilot, measured against a baseline" },
-    { value: "5", label: "Months of free maintenance after anything we build" },
+    { value: "2", label: "Months of free maintenance after anything we build" },
   ],
   answer: {
     heading: "What does an AI consultant for small business actually do?",
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What working with an AI consultant for small business costs with us",
-    note: `The first conversation and the itemised estimate cost nothing; nothing is billed until you approve a written quote. When the audit leads to a build, automations start from ${P.ai} and custom tools with dashboards or staff screens from ${P.software}, so an AI consultant for small business work and the build sit in one quote. If you want only a written audit and roadmap, with no build, we quote that as its own job. Tool subscriptions, AI usage and hosting are billed to your accounts, never marked up. After a build, maintenance is free for 5 months and then optional from ${P.care}.`,
+    note: `The first conversation and the itemised estimate cost nothing; nothing is billed until you approve a written quote. When the audit leads to a build, automations start from ${P.ai} and custom tools with dashboards or staff screens from ${P.software}, so an AI consultant for small business work and the build sit in one quote. If you want only a written audit and roadmap, with no build, we quote that as its own job. Tool subscriptions, AI usage and hosting are billed to your accounts, never marked up. After a build, maintenance is free for 2 months and then optional from ${P.care}.`,
   },
   guideLabel: "AI consultant guide",
   guide: [
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Scored roadmap", "A few pages ranking opportunities, with build-or-buy advice, a data note and costs for each, plus a one-page pilot plan."],
       ["Itemised estimate", "Within about two working days of agreeing the pilot, you receive a written quote for the build, with usage costs shown separately."],
       ["Pilot and measure", "We build and run the pilot on real work for two to four weeks, comparing results against the baseline you measured."],
-      ["Scale and look after", "Scale what works, drop what does not, and start the next item. Builds get 5 months of free maintenance, then an optional plan."],
+      ["Scale and look after", "Scale what works, drop what does not, and start the next item. Builds get 2 months of free maintenance, then an optional plan."],
     ],
   },
   faqHeading: "AI consultant for small business: questions owners ask",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "AI consultant vs AI developer: what is the difference?", answer: "A consultant decides what to do; a developer builds it. Many small businesses end up hiring both and managing the gap between them. We combine the roles: the same three people audit your processes, recommend the route and build it. For purely strategic work at large scale, a dedicated consulting firm is the better fit." },
     { question: "Chhote business me AI kaise use kare?", answer: "Sabse pehle dekhiye ki team ka time kahan zyada jaata hai: WhatsApp par same sawaalon ke jawab, bills Tally mein type karna, ya weekly report banana. Inme se ek kaam chuniye, do se chaar hafte ka chhota pilot chalaiye, pehle aur baad ka time naapiye, aur tabhi aage badhiye. Hum yeh audit aur build dono karte hain." },
     { question: "Do you visit our office for the audit?", answer: "No, all our work is remote. The audit happens over video calls and screen-shares, with staff showing us their actual work and sharing sample documents. This works well for most office, sales and accounts tasks. We do not work on factory hardware, sensors or on-site installations." },
-    { question: "Who owns the tools and data after the project?", answer: `You do. Tool subscriptions, AI provider accounts, cloud hosting and code repositories are set up in your business’s name, and usage is billed directly to you. We work through access you grant and can revoke. After 5 months of free maintenance you can take a plan from ${P.care}, request one-off changes, or move to another developer.` },
+    { question: "Who owns the tools and data after the project?", answer: `You do. Tool subscriptions, AI provider accounts, cloud hosting and code repositories are set up in your business’s name, and usage is billed directly to you. We work through access you grant and can revoke. After 2 months of free maintenance you can take a plan from ${P.care}, request one-off changes, or move to another developer.` },
     { question: "How do we pay for AI consulting and builds?", answer: `Clients in India pay by UPI or bank transfer against a GST invoice; international clients pay in USD, from ${P.aiUsd} for an automation build, via Wise, bank wire or PayPal. Nothing is billed before you approve a written, itemised quote, and milestones and terms are set out in that quote.` },
     { question: "Can AI help my small business get found on Google or ChatGPT?", answer: `AI tools can help draft content, but visibility still depends on a clear website, accurate business listings and pages that answer real customer questions. Nobody can guarantee rankings or AI mentions. We build sites from ${P.site} and run ongoing SEO from ${P.seo}; our pages on ranking on ChatGPT and AI Overview optimisation explain the details.` },
     { question: "What should I prepare before talking to an AI consultant?", answer: "A rough list of tasks that feel repetitive, who does them and roughly how often, a few sample documents or messages for each, the software you use, and one person who can spend a couple of hours a week on the project. You do not need any technical knowledge or an AI plan to start." },

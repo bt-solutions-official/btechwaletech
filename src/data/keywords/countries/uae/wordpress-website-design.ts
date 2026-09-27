@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "WordPress for UAE businesses · built lean, handed over properly",
     h1: "WordPress website design in Dubai: is it the right CMS for you, and what a professional build includes",
     lede: `WordPress website design in Dubai is easy to buy and easy to get wrong: the same CMS can power a quick, secure bilingual site or a slow one held together by thirty plugins. BtechWaleTech is a freelance group of three developers in India building WordPress sites for UAE businesses from ${P.site}, with block themes instead of heavy page builders, a proper Arabic version, hardened security and training so your staff can edit pages themselves. Need a store? See <a href='/uae/woocommerce-development/'>WooCommerce development in Dubai</a>.`,
-    pills: ["Sites from " + P.site, "Block themes, not bloated builders", "Arabic RTL with WPML or Polylang", "Security hardening", "Hosting in your account", "Editor training for staff", "5 months free maintenance"],
+    pills: ["Sites from " + P.site, "Block themes, not bloated builders", "Arabic RTL with WPML or Polylang", "Security hardening", "Hosting in your account", "Editor training for staff", "2 months free maintenance"],
     origin: "Three freelance developers in India · available on WhatsApp 7 days a week · billed in USD",
   },
   facts: [
@@ -35,18 +35,18 @@ const content: FreelanceContent = {
     ["Static plan", "Up to 100 pages, 1–2 weeks"],
     ["SEO site from", `${P.seoSite} (299+ pages)`],
     ["Arabic version", "RTL build; your translator's copy"],
-    ["Maintenance", `5 months free, then from ${P.care}`],
+    ["Maintenance", `2 months free, then from ${P.care}`],
     ["Payment", "USD via Wise or bank wire"],
   ],
   stats: [
     { value: "100", label: "Pages included in the static site plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "3", label: "Developers who know your site" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
     heading: "Is WordPress website design in Dubai a good choice for a business site?",
-    text: `WordPress suits most UAE business websites that need regular content updates, an Arabic version and many service pages, provided it is built lean: a block theme, few plugins, hardened security and good hosting. With us, WordPress sites start from ${P.site} for up to 100 pages, taking 1–2 weeks, with five months of free maintenance.`,
+    text: `WordPress suits most UAE business websites that need regular content updates, an Arabic version and many service pages, provided it is built lean: a block theme, few plugins, hardened security and good hosting. With us, WordPress sites start from ${P.site} for up to 100 pages, taking 1–2 weeks, with two months of free maintenance.`,
     more: `Comparing total budgets first? Read <a href='/uae/website-development-cost/'>website development cost in Dubai</a>. Planning a bilingual site? Our <a href='/uae/arabic-website-design/'>Arabic website design guide</a> covers RTL layout.`,
   },
   snapshot: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "SEO foundations", note: `Clean URLs, schema, sitemaps and Search Console at launch; monthly SEO from ${P.seo}.`, href: "/uae/seo-packages/", size: "md" },
       { name: "Staff training", note: "A recorded walkthrough and written guide for editing pages, posts, menus and forms.", size: "sm" },
       { name: "WooCommerce stores", note: `Add a shop on the same WordPress install, from ${P.shop}.`, href: "/uae/woocommerce-development/", size: "sm" },
-      { name: "Maintenance", note: `Updates and backups; five months free, then from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
+      { name: "Maintenance", note: `Updates and backups; two months free, then from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -202,7 +202,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, WordPress sites start from ${P.site} for up to 100 pages over 1–2 weeks; SEO-led sites of 299+ pages start from ${P.seoSite} over 3–5 weeks; a WooCommerce store starts from ${P.shop}. Local quotes in Dubai vary widely by provider, depending on team size, overheads, design approach and what is bundled.`,
         `We quote in USD rather than publishing AED bands. The honest reason is that page count is a poor predictor on its own: 20 pages with custom layouts in two languages can take more work than 60 pages from a single template. Our itemised quote lists design, theme build, Arabic version, content migration, integrations and training as separate lines.`,
-        `Running costs are separate: hosting, domain, any premium plugin licences and translation. After five free months, maintenance starts from ${P.care}. For wider budgeting, including non-WordPress options, compare with our <a href='/uae/website-development-cost/'>website development cost guide</a>.`,
+        `Running costs are separate: hosting, domain, any premium plugin licences and translation. After two free months, maintenance starts from ${P.care}. For wider budgeting, including non-WordPress options, compare with our <a href='/uae/website-development-cost/'>website development cost guide</a>.`,
       ],
     },
     {
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Suppose an engineering consultancy in Abu Dhabi wants a new site: 12 service pages, 30 project case pages, a team section, a careers page and news, all in English and Arabic. This is a hypothetical scenario to show the approach, not a real client.`,
         `We would build a block theme with patterns for service pages, project pages and news posts, and custom post types for projects and team members so staff add entries through simple forms. Polylang would link English and Arabic pages at separate URLs; the consultancy's translator supplies Arabic text. The careers form would send applications to HR's inbox with file uploads restricted by type and size.`,
-        `Hosting would be opened in the consultancy's name with a CDN, daily off-site backups and two-factor login. At handover, the marketing coordinator gets a recorded training session and a written guide for adding projects in both languages. The build would start from ${P.site}; maintenance is free for five months, then from ${P.care} if they keep us on.`,
+        `Hosting would be opened in the consultancy's name with a CDN, daily off-site backups and two-factor login. At handover, the marketing coordinator gets a recorded training session and a written guide for adding projects in both languages. The build would start from ${P.site}; maintenance is free for two months, then from ${P.care} if they keep us on.`,
       ],
     },
     {
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Design in both languages", "Homepage and a key inner page designed in English and Arabic, so RTL decisions are made early rather than patched later."],
       ["Block theme build", "Theme, patterns and custom post types built, plugins installed from the agreed list, security hardening applied from the first day."],
       ["Content and testing", "Content loaded, Arabic copy from your translator added, speed, forms, redirects and both layouts tested on real phones."],
-      ["Launch and training", "Go live, recorded training for your staff, handover pack delivered, then five months of free maintenance before paid care begins."],
+      ["Launch and training", "Go live, recorded training for your staff, handover pack delivered, then two months of free maintenance before paid care begins."],
     ],
   },
   faqHeading: "WordPress website design in Dubai: questions answered",
@@ -391,11 +391,11 @@ const content: FreelanceContent = {
     { question: "WPML or Polylang: which is better for an Arabic website?", answer: "Both handle Arabic and right-to-left layouts. Polylang has a free version and suits small and medium sites; WPML is paid and suits larger sites, heavy WooCommerce use or teams wanting built-in translation management. We recommend one based on page count, shop requirements and how your translator works." },
     { question: "Should my WordPress site use Elementor or another page builder?", answer: "Usually not for a new business site. Heavy page builders add scripts and styles that slow pages on phones and create extra update dependencies. A custom block theme with reusable patterns gives staff flexible editing with leaner code. If your marketers truly need free-form layouts daily, a builder can be used with care." },
     { question: "How long does it take to build a WordPress website?", answer: "A site of up to 100 pages usually takes 1–2 weeks with us once content is ready; a bilingual site a little longer; SEO-led sites of 299+ pages take 3–5 weeks. The most common delay is content, especially Arabic translations, so we send a content checklist in the first days of the project." },
-    { question: "How do you keep a WordPress website secure?", answer: "We follow the official WordPress hardening guidance: two-factor login for admins, file editing disabled, least-privilege staff roles, SFTP only, maintained plugins only, HTTPS everywhere and off-site backups with a tested restore. After launch, updates and monitoring continue under maintenance, free for five months and then from our monthly care price." },
+    { question: "How do you keep a WordPress website secure?", answer: "We follow the official WordPress hardening guidance: two-factor login for admins, file editing disabled, least-privilege staff roles, SFTP only, maintained plugins only, HTTPS everywhere and off-site backups with a tested restore. After launch, updates and monitoring continue under maintenance, free for two months and then from our monthly care price." },
     { question: "Where should my WordPress site be hosted for UAE visitors?", answer: "A good managed WordPress plan or cloud server in a region near your visitors, with a CDN in front, in your own account. Amazon Web Services has a Middle East (UAE) Region if you want local infrastructure. Whether data must stay in the UAE depends on your sector, so confirm that with your adviser." },
     { question: "Will my staff be able to edit the website themselves?", answer: "Yes, that is part of the build. We give a recorded training session, a written guide for your site, and editor accounts with the right permissions. Staff learn to add pages from patterns, update posts and menus, and publish Arabic translations, while layout areas that should not change stay locked." },
     { question: "Who owns the WordPress site after launch?", answer: "You do. The domain, hosting, admin accounts, theme code and any premium plugin licences are in your name. At handover you receive credentials, the plugin list and the editing guide. If you later move to another developer, they have everything they need and nothing sits in our accounts." },
-    { question: "How much does WordPress maintenance cost?", answer: `Maintenance with us is free for five months after launch and then starts from ${P.care}. It covers core, theme and plugin updates, backups, uptime and security monitoring, and small fixes, with larger changes quoted first. Premium plugin renewals and hosting are separate costs billed to your accounts.` },
+    { question: "How much does WordPress maintenance cost?", answer: `Maintenance with us is free for two months after launch and then starts from ${P.care}. It covers core, theme and plugin updates, backups, uptime and security monitoring, and small fixes, with larger changes quoted first. Premium plugin renewals and hosting are separate costs billed to your accounts.` },
     { question: "Can you redesign my existing WordPress website?", answer: "Yes. If the content is sound but the site is slow or dated, we often rebuild the theme as a block theme, trim plugins and keep the content, redirecting any URLs that change. If the structure itself is the problem, we plan a fresh sitemap. The quote explains which route fits and why." },
     { question: "Can you move my Wix or Squarespace site to WordPress?", answer: "Yes. We crawl the old site, map every URL, move and tidy the content, rebuild forms and set up 301 redirects so search visibility carries over. After launch we watch Search Console for errors. Moving gives you hosting freedom and stronger multilingual options, with the trade-off of more upkeep." },
     { question: "Is WordPress good for SEO?", answer: "WordPress is a solid base, but results come from structure and content: one clear page per service and area, clean URLs, schema, internal links, fast templates and correct hreflang for Arabic pages. We set these up at launch with Search Console and GA4. No one can guarantee rankings; ongoing SEO starts from our monthly SEO price." },

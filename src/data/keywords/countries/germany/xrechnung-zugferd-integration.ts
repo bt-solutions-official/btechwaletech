@@ -33,7 +33,7 @@ const content: FreelanceContent = {
   facts: [
     ["Custom integration", `From ${P.software}`],
     ["Automation add-ons", `From ${P.ai}`],
-    ["Ongoing care", `From ${P.care} after 5 free months`],
+    ["Ongoing care", `From ${P.care} after 2 free months`],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Formats", "XRechnung (UBL, CII), ZUGFeRD 2.x profiles"],
     ["Payment", "USD or EUR by Wise or bank wire, quoted in USD"],
@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers on your e-invoice project" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Invoices sent live before your test sign-off" },
   ],
   answer: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What XRechnung integration costs with a remote freelance team",
-    note: `E-invoicing is priced as custom software work, starting at ${P.software}, because the effort sits in your data rather than in the XML itself. The biggest cost drivers are the number of places invoices are created (shop, ERP, manual office invoices), whether you need inbound parsing as well as outbound generation, how many public-sector buyers need portal or Peppol delivery, and how messy product units, VAT cases and customer master data are today. Pure automation around an existing invoice tool can start at ${P.ai}. After launch you get five months of maintenance free, then care from ${P.care}. Every quote is itemised and nothing is billed before you approve it in writing.`,
+    note: `E-invoicing is priced as custom software work, starting at ${P.software}, because the effort sits in your data rather than in the XML itself. The biggest cost drivers are the number of places invoices are created (shop, ERP, manual office invoices), whether you need inbound parsing as well as outbound generation, how many public-sector buyers need portal or Peppol delivery, and how messy product units, VAT cases and customer master data are today. Pure automation around an existing invoice tool can start at ${P.ai}. After launch you get two months of maintenance free, then care from ${P.care}. Every quote is itemised and nothing is billed before you approve it in writing.`,
   },
   guideLabel: "XRechnung integration guide for German businesses",
   guide: [
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Mapping sign-off", "Your team and tax adviser review the written field mapping. Nothing is built on top of assumptions they have not seen."],
       ["Build and validate", "The generator, validator service and delivery channels are built on staging, with KoSIT test files and your own invoices in automated tests."],
       ["Parallel run", "For one invoicing cycle the new files are produced alongside your current process and compared line by line before customers receive them."],
-      ["Go live and care", "We switch over, watch the first weeks closely and hand over documentation. Five months of maintenance are free, then care starts at the published rate."],
+      ["Go live and care", "We switch over, watch the first weeks closely and hand over documentation. Two months of maintenance are free, then care starts at the published rate."],
     ],
   },
   faqHeading: "XRechnung integration: questions German businesses ask",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "What happens when XRechnung 4.0 is released?", answer: "KoSIT published a 4.0 pre-release in September 2026 and expects the final version in spring 2027, while version 3.0 stays valid until July 2027 according to xeinkauf.de. Because we keep the format version configurable and the validator configuration separate, an update usually means changing the writer, loading the new configuration and re-running the test suite. That work falls under maintenance." },
     { question: "Can you handle credit notes and corrections?", answer: "Yes, and they need planning. Credit notes use their own document type code, corrections should reference the original invoice, and cancellations must be traceable in your archive. During discovery we list every non-standard case you issue, such as partial deliveries, deposits or reverse-charge sales, and test each one through the validator before go-live so none surprises you later." },
     { question: "How do payments and contracts work from Germany?", answer: "You receive an itemised quote in USD, approve it in writing, and pay in USD or EUR by Wise or bank wire; invoices come from India. The written quote records scope, milestones and how changes are priced, and our published terms cover the general rules. We are happy to sign your NDA before seeing invoices. Ask your accountant how a foreign supplier invoice fits your VAT return." },
-    { question: "What support do I get after the e-invoice system goes live?", answer: `The first five months of maintenance after launch are free. After that, care starts at ${P.care} and covers format updates, dependency upgrades, monitoring and fixes. Any specific response times or extra services are agreed in your written quote rather than promised here. Because validation reports are logged, most issues can be diagnosed quickly from the exact rule that failed.` },
+    { question: "What support do I get after the e-invoice system goes live?", answer: `The first two months of maintenance after launch are free. After that, care starts at ${P.care} and covers format updates, dependency upgrades, monitoring and fixes. Any specific response times or extra services are agreed in your written quote rather than promised here. Because validation reports are logged, most issues can be diagnosed quickly from the exact rule that failed.` },
     { question: "Can AI read old PDF invoices that are not e-invoices?", answer: `It can help. For supplier PDFs without embedded XML, an AI extraction step can propose invoice fields for a person to confirm, which speeds up manual entry during the transition. We label these drafts clearly so nobody treats them as structured e-invoices, and we keep the human approval step. AI automation work starts at ${P.ai}.` },
   ],
   related: {

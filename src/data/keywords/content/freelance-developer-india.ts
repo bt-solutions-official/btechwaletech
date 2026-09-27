@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Freelance developers, each with a clear role" },
     { value: "0", label: "Marketplace or middleman fees" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance post-launch" },
+    { value: "2", label: "Months of free maintenance post-launch" },
   ],
   answer: {
     heading: "How do I hire a good freelance developer in India?",
@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `There is no single market rate. Quotes vary widely between freelancers, and the reasons are specific: years of experience, the complexity of the stack, whether design and content are included, how many integrations are needed, and whether maintenance is part of the deal.`,
         `Our own starting prices give you a reference point. A static business website up to 100 pages starts at ${P.site}. An SEO website with 299+ pages starts at ${P.seoSite}. An online store starts at ${P.shop}. An Android and iOS app starts at ${P.app}. Custom software starts at ${P.software}, AI automation at ${P.ai}. Clients abroad pay the USD equivalents, such as ${P.siteUsd} for a static site and ${P.appUsd} for an app.`,
-        `When comparing, line up quotes by deliverable. One developer’s low number may exclude hosting setup and content upload; another’s higher number may include five months of support. The <a href='/freelance-web-developer-rates/'>rates guide</a> explains hourly against project billing, and <a href='/app-development-cost-in-india/'>app development cost in India</a> covers mobile budgets.`,
+        `When comparing, line up quotes by deliverable. One developer’s low number may exclude hosting setup and content upload; another’s higher number may include two months of support. The <a href='/freelance-web-developer-rates/'>rates guide</a> explains hourly against project billing, and <a href='/app-development-cost-in-india/'>app development cost in India</a> covers mobile budgets.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Accounts opened in your name", "Domain, hosting, repository and, for apps, Play Console and App Store Connect are created under your email, with our access added as users."],
       ["Build in visible stages", "Work appears on a private preview link or test build. You review on your own device and approve each stage before the next payment."],
       ["Launch and handover", "We go live, verify Search Console, and hand over a sheet listing every account, login and renewal date alongside repository access."],
-      ["Five months of free upkeep", "Small fixes and edits cost nothing for five months after launch. Maintenance afterwards starts at " + P.care + " and is entirely optional."],
+      ["Two months of free upkeep", "Small fixes and edits cost nothing for two months after launch. Maintenance afterwards starts at " + P.care + " and is entirely optional."],
     ],
   },
   faqHeading: "Freelance developer in India: common questions",
@@ -387,9 +387,9 @@ const content: FreelanceContent = {
     { question: "What time zone do Indian freelance developers work in?", answer: "India uses IST, which is UTC+5:30 all year with no daylight saving. That gives near full-day overlap with the UAE and Singapore, afternoon overlap with the UK and Europe, morning overlap with Australia, and evening-India calls for North American clients, whose feedback is often handled overnight." },
     { question: "Can a freelance developer in India help with SEO?", answer: `Many developers build technical SEO into the site: titles, descriptions, clean URLs, schema, sitemaps and fast loading. Ongoing SEO is usually a separate monthly service; with BtechWaleTech it starts at ${P.seo}. Nobody can honestly guarantee a ranking, so look for someone who explains what they control and reports with Search Console data.` },
     { question: "What are the risks of hiring a freelance developer?", answer: "The main risks are the freelancer disappearing, scope growing without control, weak code and lost access to accounts. Reduce them with code in your own repository, staged payments, an itemised quote, a small first milestone and accounts in your name. A small team also lowers the risk of work stopping when one person is unavailable." },
-    { question: "Do freelance developers provide support after launch?", answer: `Terms differ widely, so ask before starting. BtechWaleTech includes five months of free maintenance after launch covering small edits, fixes and updates. After that, maintenance is optional and starts at ${P.care}. Because everything is in your name, you can also move to another developer at any time.` },
+    { question: "Do freelance developers provide support after launch?", answer: `Terms differ widely, so ask before starting. BtechWaleTech includes two months of free maintenance after launch covering small edits, fixes and updates. After that, maintenance is optional and starts at ${P.care}. Because everything is in your name, you can also move to another developer at any time.` },
     { question: "Can a freelance developer in India build AI tools?", answer: `Yes. Common AI projects include chatbots on websites and WhatsApp, reading invoices or forms, sorting leads and writing reports. BtechWaleTech builds AI automation from ${P.ai}, using your existing tools where possible, with realistic expectations set about accuracy, data privacy and the ongoing cost of AI API usage.` },
-    { question: "Freelance developer India mein kitne ka padta hai?", answer: `Kharcha kaam par depend karta hai. BtechWaleTech ke saath simple website ${P.site} se, online store ${P.shop} se aur Android-iOS app ${P.app} se shuru hota hai. Har quote itemised hota hai aur approval ke baad hi payment hota hai. Launch ke baad 5 mahine ka maintenance free milta hai.` },
+    { question: "Freelance developer India mein kitne ka padta hai?", answer: `Kharcha kaam par depend karta hai. BtechWaleTech ke saath simple website ${P.site} se, online store ${P.shop} se aur Android-iOS app ${P.app} se shuru hota hai. Har quote itemised hota hai aur approval ke baad hi payment hota hai. Launch ke baad 2 mahine ka maintenance free milta hai.` },
   ],
   related: {
     heading: "Related pages on hiring developers in India",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a freelance developer in India? Start with a brief",
-    note: `Send us a message on WhatsApp about the website, app, software or automation you need. You will get an itemised quote in about two working days, with websites from ${P.site}, apps from ${P.app}, accounts in your name and five months of free maintenance after launch.`,
+    note: `Send us a message on WhatsApp about the website, app, software or automation you need. You will get an itemised quote in about two working days, with websites from ${P.site}, apps from ${P.app}, accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

@@ -56,7 +56,7 @@ const ambejogai: CityContent = {
     ai: "WhatsApp assistants that answer OPD, admission, room and price questions in Marathi and forward real decisions to you.",
     data: "Dashboards of admissions, OPD counts, fee dues, room bookings or sales by month, readable on any phone.",
     app: "Android and iOS apps for coaching students to get notes and tests, or for patients to book tokens, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Ambejogai clients are well read and compare carefully before spending. We give them what they need to compare: starting prices in public, itemised written quotes, replies on WhatsApp every day of the week, and domain, hosting, code and app store accounts in their own name from the first day.",
@@ -177,7 +177,7 @@ const ambejogai: CityContent = {
       heading: "Ownership and maintenance for Ambejogai websites and apps",
       paragraphs: [
         "A common complaint in Marathwada towns is a website that vanished because the designer kept the domain in his own name and then moved on. We register the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts in your name, and hand over all logins in writing.",
-        "Maintenance is free for five months after launch: content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move the code to another developer at any time.",
+        "Maintenance is free for two months after launch: content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move the code to another developer at any time.",
         "Apps need yearly updates because Google and Apple change their requirements. We watch for those changes and update your app before deadlines so it stays in the stores.",
       ],
     },
@@ -274,7 +274,7 @@ const ambejogai: CityContent = {
     {
       question: "What maintenance do you give after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the complete code to another developer at any time.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the complete code to another developer at any time.",
     },
     {
       question: "Do you work in Parli, Kaij, Dharur and Latur as well?",

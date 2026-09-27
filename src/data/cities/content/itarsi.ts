@@ -56,7 +56,7 @@ const itarsi: CityContent = {
     ai: "WhatsApp assistants that share today's rates, room availability or OPD timings in Hindi and pass tricky questions to a person.",
     data: "Dashboards of bags stored, lots sold, trips run and dues by party, built from Tally exports or daily phone entries.",
     app: "Android and iOS apps for dealer re-orders, coaching attendance or clinic tokens in Itarsi, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Rate changes, backups, security patches and uptime checks free for five months, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Rate changes, backups, security patches and uptime checks free for two months, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Itarsi traders are used to comparing rates before they commit, and we think that is fair. Our starting prices are public, each quote lists every item on its own line, WhatsApp messages get a reply seven days a week, and the domain, hosting and code are registered to you from the first day.",
@@ -152,7 +152,7 @@ const itarsi: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software such as warehouse or trip registers:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -189,7 +189,7 @@ const itarsi: CityContent = {
       heading: "Ownership, handover and maintenance after launch",
       paragraphs: [
         "Your domain is registered in your name, hosting sits in your account, and the full code with every password is handed over at launch. Apps are published under your own Google Play and App Store accounts. If you later want a developer in Bhopal, Narmadapuram or anywhere else to take over, you can do so without our permission or any release fee.",
-        "Maintenance is free for five months after launch: security updates, backups, uptime checks and small edits such as new rates, photos or doctor timings. After that it is from ₹8,000 a month and can be stopped at any time. If your staff want to change rates themselves, we train them before handover.",
+        "Maintenance is free for two months after launch: security updates, backups, uptime checks and small edits such as new rates, photos or doctor timings. After that it is from ₹8,000 a month and can be stopped at any time. If your staff want to change rates themselves, we train them before handover.",
         "Software such as a warehouse or trip register keeps its data in your account, and you can export it to Excel whenever you like. Nothing we build locks you in.",
       ],
     },
@@ -277,7 +277,7 @@ const itarsi: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "The first five months after launch are free, covering updates, backups, monitoring and small edits such as rates, photos or timings. After that, maintenance is from ₹8,000 a month and can be cancelled whenever you choose. We can also train your staff to handle simple updates themselves.",
+        "The first two months after launch are free, covering updates, backups, monitoring and small edits such as rates, photos or timings. After that, maintenance is from ₹8,000 a month and can be cancelled whenever you choose. We can also train your staff to handle simple updates themselves.",
     },
     {
       question: "How long does a website or app take?",

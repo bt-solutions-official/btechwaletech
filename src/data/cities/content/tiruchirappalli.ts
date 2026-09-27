@@ -31,11 +31,11 @@ const tiruchirappalli: CityContent = {
     eyebrow: "Tiruchirappalli · Tamil Nadu",
     h1: "Websites, search and automation for Trichy's fabricators, temple-town hotels and institutions",
     lede:
-      "We are a three-engineer remote team that builds capability sites for Thuvakudi and Thiruverumbur fabrication units, booking pages for Srirangam lodges, stores for NSB Road retailers and admission systems for colleges. Every starting price is listed here, you speak with the developers themselves, and the first five months of maintenance are free.",
+      "We are a three-engineer remote team that builds capability sites for Thuvakudi and Thiruverumbur fabrication units, booking pages for Srirangam lodges, stores for NSB Road retailers and admission systems for colleges. Every starting price is listed here, you speak with the developers themselves, and the first two months of maintenance are free.",
     pills: ["Sites from ₹10,000", "Tamil and English content", "Vendor capability pages", "UPI stores and bookings", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "A business website for a Trichy firm costs from ₹10,000 with us and is normally live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Tiruchirappalli office, and five months of maintenance after launch cost nothing.",
+    "A business website for a Trichy firm costs from ₹10,000 with us and is normally live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Tiruchirappalli office, and two months of maintenance after launch cost nothing.",
   snapshot: [
     { label: "Shopping streets", value: "NSB Road, Chinnakadai Street, Big Bazaar Street and Main Guard Gate below the Rockfort" },
     { label: "Heavy industry", value: "BHEL's boiler plant, the Golden Rock railway workshop, Ordnance Factory Tiruchirappalli and HEPF" },
@@ -52,10 +52,10 @@ const tiruchirappalli: CityContent = {
     ai: "WhatsApp assistants that handle room availability, admission dates and quote requests in Tamil or English, passing complex ones to staff.",
     data: "Work-order, billing and occupancy figures cleaned up into dashboards owners can check between site visits.",
     app: "Android and iOS apps for darshan-season bookings, student portals and field-staff reporting, released on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and uptime checks free for five months, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and uptime checks free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Trichy has capable web designers, but prices are rarely published and support often fades once the final payment clears. We list our starting rates openly, answer WhatsApp seven days a week, and keep maintaining your site at no charge for five months after it launches.",
+    "Trichy has capable web designers, but prices are rarely published and support often fades once the final payment clears. We list our starting rates openly, answer WhatsApp seven days a week, and keep maintaining your site at no charge for two months after it launches.",
   pricingIntro:
     "In Trichy, two quotes for the same site can differ tenfold without anyone explaining why. Below are our real starting prices. The final amount depends on page count, features and how ready your content is, and you receive a line-by-line quote before any development begins.",
   sections: [
@@ -159,7 +159,7 @@ const tiruchirappalli: CityContent = {
       paragraphs: [
         "A familiar Trichy story: the business has a website, but nobody can change it because the person who built it has moved on and still controls the domain. The SSL certificate lapses, browsers show a warning, and enquiries dry up without anyone noticing why. Recovering access can take weeks.",
         "We prevent that from the start. Your domain is registered in your name and your hosting sits in your account. At launch you receive every password, the source code and a short explanation of how everything connects. You are free to take the site to another developer whenever you wish, with no exit fee and no conditions.",
-        "Maintenance for the first five months after launch is free. It covers content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need something done.",
+        "Maintenance for the first two months after launch is free. It covers content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need something done.",
       ],
     },
     {
@@ -262,9 +262,9 @@ const tiruchirappalli: CityContent = {
         "Yes. The domain is registered in your name, the hosting account is yours, and you get all logins and the full source code at launch. You can move to another developer at any time with no fee. We insist on this because lost access is one of the most common problems with older Trichy websites.",
     },
     {
-      question: "What is covered by the five months of free maintenance?",
+      question: "What is covered by the two months of free maintenance?",
       answer:
-        "Content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all without charge for five months after launch. After that, maintenance is available from ₹8,000 a month, or you can reach out only when you need a specific change.",
+        "Content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all without charge for two months after launch. After that, maintenance is available from ₹8,000 a month, or you can reach out only when you need a specific change.",
     },
     {
       question: "Do you work with businesses in Thanjavur, Karur and Pudukkottai?",

@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "28", label: "Days of field data behind every assessment" },
     { value: "3", label: "Metrics that must all be good to pass" },
     { value: "3", label: "Developers covering front end, servers and SEO" },
-    { value: "5", label: "Months of free maintenance on sites we build" },
+    { value: "2", label: "Months of free maintenance on sites we build" },
   ],
   answer: {
     heading: "What does “Core Web Vitals assessment failed” mean, and how do you pass it?",
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Cost follows three variables: which metric fails, which platform you are on and how many templates are affected. CLS on one template is small work; INP across a store with many apps and custom filters is the largest job on this list.`,
         `A typical scope on a small business site includes one round of field-data diagnosis, fixes to the home, service and contact templates, image pipeline set-up, caching, and a follow-up review after the 28-day window. A store adds category, product and cart templates, app audits and checkout testing. A content site adds article templates, ad slots and embeds.`,
-        `We quote itemised in about two working days after seeing Search Console and running traces. Ongoing monitoring sits inside monthly SEO from ${P.seo} (${P.seoUsd} abroad), and sites we build or maintain get maintenance from ${P.care} once the five free months end. If rebuilding costs less than repairing, a lean static business site starts at ${P.site} and a large SEO site of 299+ pages starts at ${P.seoSite}, built to pass from launch. Payment is by UPI or bank transfer, with an invoice for your records.`,
+        `We quote itemised in about two working days after seeing Search Console and running traces. Ongoing monitoring sits inside monthly SEO from ${P.seo} (${P.seoUsd} abroad), and sites we build or maintain get maintenance from ${P.care} once the two free months end. If rebuilding costs less than repairing, a lean static business site starts at ${P.site} and a large SEO site of 299+ pages starts at ${P.seoSite}, built to pass from launch. Payment is by UPI or bank transfer, with an invoice for your records.`,
         `Current plans are on the <a href='/pricing/'>pricing page</a>. Nothing is billed before you approve the written quote.`,
       ],
     },
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
         ["Large service or location site", "SEO website of 299+ pages built to pass", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`],
         ["Store with too many apps", "Ecommerce rebuilt with a lean theme", `From ${P.shop}`, `From ${P.shopUsd}`],
         ["Heavy JavaScript web app", "Custom web app with server rendering", `From ${P.software}`, `From ${P.softwareUsd}`],
-        ["Keep it fast after launch", "Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`],
+        ["Keep it fast after launch", "Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`],
       ],
       hideSm: [3],
     },

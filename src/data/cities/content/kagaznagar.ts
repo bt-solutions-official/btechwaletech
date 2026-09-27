@@ -56,7 +56,7 @@ const kagaznagar: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer rate, stock, fee and timing questions and pass decisions to you.",
     data: "Season dashboards of cotton bought and ginned, paddy milled, bills pending with the mill and fee collection by batch.",
     app: "Android and iOS apps for contractor supervisors, transport crews or school parents in Kagaznagar, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kagaznagar has seen its main employer close and reopen, so businesses here are cautious about spending and about who they trust. We publish starting prices, send itemised written quotes, answer WhatsApp every day of the week, and put your domain, hosting, code and app store accounts in your name from the first day.",
@@ -178,7 +178,7 @@ const kagaznagar: CityContent = {
       heading: "Ownership and maintenance: your site stays yours",
       paragraphs: [
         "Businesses in smaller towns often find that an earlier developer registered their domain, hosting or app under the developer's own name. When that person moves on, the business cannot edit or move anything. We avoid this by setting up the domain, hosting, code repository, Google Play and App Store accounts in your name and email before work begins.",
-        "The first five months after go-live carry no maintenance charge: bugs, security patches and minor text or photo changes are covered. From the sixth month, a care plan is available from ₹8,000 a month with backups, software updates, uptime monitoring and a quota of edits. Leaving is always an option, since the code already belongs to you.",
+        "The first two months after go-live carry no maintenance charge: bugs, security patches and minor text or photo changes are covered. From the third month, a care plan is available from ₹8,000 a month with backups, software updates, uptime monitoring and a quota of edits. Leaving is always an option, since the code already belongs to you.",
         "Whoever you hire, press them on ownership early. If a developer hesitates to say whose name the domain will carry, where the source code will live or who keeps the admin password, treat that as your answer.",
         "At handover you receive a written sheet naming every login, the email it is tied to and where it is stored.",
       ],
@@ -272,7 +272,7 @@ const kagaznagar: CityContent = {
     {
       question: "What happens after my website or app is launched?",
       answer:
-        "Five months of support come included: bug fixes, security patches, small text and photo changes. A monthly care plan from ₹8,000 takes over after that, with backups and updates. Because the domain, hosting, source code and store accounts were opened in your name, switching to a different developer later costs you nothing but a handover.",
+        "Two months of support come included: bug fixes, security patches, small text and photo changes. A monthly care plan from ₹8,000 takes over after that, with backups and updates. Because the domain, hosting, source code and store accounts were opened in your name, switching to a different developer later costs you nothing but a handover.",
     },
     {
       question: "Do you work with businesses in Sirpur (T), Asifabad or Bellampalli?",

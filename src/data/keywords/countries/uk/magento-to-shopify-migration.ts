@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Data moved", "Products, variants, customers, orders, CMS pages, blog"],
     ["SEO protection", "One-to-one 301 redirect map, tested before DNS change"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After go-live", `5 months free fixes, then care from ${P.care}`],
+    ["After go-live", `2 months free fixes, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who plan, build and test your move" },
     { value: "2", label: "Working days to an itemised migration quote" },
-    { value: "5", label: "Months of free fixes after cutover" },
+    { value: "2", label: "Months of free fixes after cutover" },
     { value: "0", label: "Platform fees added on top of Shopify’s own" },
   ],
   answer: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Extension replacement plan", note: "Each Magento module listed, matched to a Shopify app, a native feature or a small custom build, or dropped if nobody uses it.", size: "md" },
       { name: "Theme rebuild", note: "A Shopify theme rebuilt to match or refresh your current design, with product and collection templates tuned for speed.", href: "/uk/ecommerce-website-design/", size: "sm" },
       { name: "Accounting and ERP links", note: "Orders flowing into Xero or your stock system again after the move.", href: "/uk/xero-integration-developer/", size: "sm" },
-      { name: "Post-launch care", note: `Five free months of fixes, then optional care from ${P.care}.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Post-launch care", note: `Two free months of fixes, then optional care from ${P.care}.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
         ["Stock, ERP or accounting sync", "Orders and stock to other systems", `From ${P.ai}`, "2–4 weeks"],
         ["Custom Shopify app for a missing feature", "Configurators, trade portals", `From ${P.software}`, "6+ weeks"],
         ["Ongoing SEO after migration", "Stores protecting organic revenue", `From ${P.seo}`, "Monthly"],
-        ["Care after the free period", "Any migrated store", `From ${P.care}`, "Monthly, after 5 free months"],
+        ["Care after the free period", "Any migrated store", `From ${P.care}`, "Monthly, after 2 free months"],
       ],
     },
     {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
       ["Mapping sign-off", "We send the mapping document and extension plan. You decide on bundles, oversized configurables, order history depth and apps, and we build nothing until those choices are agreed."],
       ["Build and test imports", "Theme, VAT, delivery and apps are set up on a development store. Full test imports run, you click through products, customers and orders, and we fix what you find."],
       ["Redirects and launch", "The redirect map is imported and tested. After a content freeze, a delta import catches recent orders, the domain switches mid-week, and we watch checkout, emails and redirects live."],
-      ["Monitoring and handover", "Four weeks of Search Console and order checks, then a handover note covering apps, settings and scripts. Five months of free fixes follow, with optional care afterwards."],
+      ["Monitoring and handover", "Four weeks of Search Console and order checks, then a handover note covering apps, settings and scripts. Two months of free fixes follow, with optional care afterwards."],
     ],
   },
   faqHeading: "Magento to Shopify migration: questions UK retailers ask",

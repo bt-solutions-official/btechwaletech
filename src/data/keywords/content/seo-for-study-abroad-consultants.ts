@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: build, SEO and automation" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance after a website build" },
+    { value: "2", label: "Months of free maintenance after a website build" },
     { value: "7", label: "Days a week on WhatsApp, English and Hindi" },
   ],
   answer: {
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Quotes for SEO for study abroad consultants vary widely in India, mainly with the number of destinations, the number of real branches, how much content must be written and how much of your current site can be kept. A single-office consultancy focused on two countries is a much smaller job than a five-branch group covering eight destinations.`,
         `With BtechWaleTech, monthly SEO starts at ${P.seo} (${P.seoUsd} for consultants based abroad). That covers local SEO for your profiles, content for country and course pages, technical fixes, the visa review log reminders and monthly reporting from your own Search Console data.`,
-        `If your website cannot carry the structure you need, a rebuild is often cheaper than patching. A static site of up to 100 pages starts at ${P.site} and takes 1–2 weeks; an SEO website with 299+ pages starts at ${P.seoSite} and takes 3–5 weeks. Websites we build include five months of free maintenance, then maintenance from ${P.care}. Lead routing, WhatsApp flows and AI sorting of enquiries start at ${P.ai}.`,
+        `If your website cannot carry the structure you need, a rebuild is often cheaper than patching. A static site of up to 100 pages starts at ${P.site} and takes 1–2 weeks; an SEO website with 299+ pages starts at ${P.seoSite} and takes 3–5 weeks. Websites we build include two months of free maintenance, then maintenance from ${P.care}. Lead routing, WhatsApp flows and AI sorting of enquiries start at ${P.ai}.`,
         `Every quote is itemised and arrives in about two working days, and nothing is billed before your written approval. Be cautious with anyone promising a fixed number of leads or first-page rankings by a date; nobody controls either.`,
       ],
     },

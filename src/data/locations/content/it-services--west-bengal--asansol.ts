@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that quote rates, confirm bookings and remind parties about dues in Hindi or Bengali, handing over to staff when needed.",
     data: "Owner dashboards that bring trips, stock, sales and outstanding from Tally and registers onto one phone screen.",
     app: "Android and iOS apps for Asansol truck drivers, site supervisors and wholesale salesmen, published on Google Play and the App Store and built to work on weak mining-area networks, from ₹40,000.",
-    maintenance: "Ongoing IT support, updates, backups and fixes: free for five months after launch, then from ₹8,000 per month.",
+    maintenance: "Ongoing IT support, updates, backups and fixes: free for two months after launch, then from ₹8,000 per month.",
   },
   whyUsIntro:
     "Asansol businesses have usually tried one of two routes: packaged billing software that fits nobody exactly, or a local developer who delivered once and then became hard to reach. As a freelance group we aim for the gap in between: custom work, itemised starting prices, direct WhatsApp access to the engineers seven days a week and every account in your name.",
@@ -158,7 +158,7 @@ const content: CityContent = {
       heading: "IT support and website maintenance for Asansol businesses",
       paragraphs: [
         "IT support and maintenance for an Asansol business keeps websites, software, hosting, domains and email working, updated and backed up, so a broken form or expired domain does not quietly cost you enquiries. Many local sites we see were built once and never touched again, with outdated plugins, broken contact forms and domains registered in a former developer's name.",
-        "Every project we deliver includes five months of maintenance at no charge after launch. That covers content changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After those months, you can continue on a plan from ₹8,000 a month or contact us only when something needs doing.",
+        "Every project we deliver includes two months of maintenance at no charge after launch. That covers content changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After those months, you can continue on a plan from ₹8,000 a month or contact us only when something needs doing.",
         "We also take over existing websites and systems. We start with an audit: who holds the domain and hosting, whether backups exist, what is broken and what is at risk. You get a written list of fixes in priority order, and help recovering any accounts that are not in your name. Details of our wider services are on the <a href=\"/services/\">services page</a>.",
       ],
       list: [
@@ -300,7 +300,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of maintenance are free once the project is live: fixes, small updates, security patches, backups and uptime and speed checks. After that, plans start at ₹8,000 per month, or you can request individual changes as needed.",
+        "Two months of maintenance are free once the project is live: fixes, small updates, security patches, backups and uptime and speed checks. After that, plans start at ₹8,000 per month, or you can request individual changes as needed.",
     },
     {
       question: "Can you fix a website another developer made?",

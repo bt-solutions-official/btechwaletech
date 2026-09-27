@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: "Website Maintenance Freelancer: Updates and Backups",
-    description: `Website maintenance freelancer in India for updates, backups, uptime checks and fixes. Plans from ${P.care}; 5 months free after we build. See what is covered.`,
+    description: `Website maintenance freelancer in India for updates, backups, uptime checks and fixes. Plans from ${P.care}; 2 months free after we build. See what is covered.`,
     keywords: [
       "website maintenance freelancer", "website maintenance freelancer in India", "website maintenance freelancer near me", "website maintenance services",
       "website maintenance cost", "website maintenance charges per month", "best website maintenance freelancer", "website maintenance wala chahiye",
@@ -28,27 +28,27 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Website maintenance · Updates, backups, uptime, fixes",
     h1: "Website maintenance freelancer: updates, backups, uptime checks and fixes on a monthly plan",
-    lede: `A website maintenance freelancer keeps your site updated, backed up, online and working after the launch excitement fades. BtechWaleTech is three freelance developers in India who look after business sites, WordPress installs, online stores and web apps on a monthly plan from ${P.care}. Sites we build get five months of maintenance free after launch. You get a written list of what each month covers, and every login stays with you. Need a one-off repair instead? See <a href='/website-bug-fixing-freelancer/'>emergency website fixes</a>.`,
+    lede: `A website maintenance freelancer keeps your site updated, backed up, online and working after the launch excitement fades. BtechWaleTech is three freelance developers in India who look after business sites, WordPress installs, online stores and web apps on a monthly plan from ${P.care}. Sites we build get two months of maintenance free after launch. You get a written list of what each month covers, and every login stays with you. Need a one-off repair instead? See <a href='/website-bug-fixing-freelancer/'>emergency website fixes</a>.`,
     pills: ["Core and plugin updates", "Off-server backups", "Uptime monitoring", "Bug and form fixes", "Small content edits", "Monthly report", "WhatsApp 7 days a week"],
     origin: "Three freelance developers · Remote from India · Maintaining sites for clients in India and abroad",
   },
   facts: [
     ["Monthly plan from", `${P.care} · ${P.careUsd}`],
-    ["Free period", "5 months after any site we launch"],
+    ["Free period", "2 months after any site we launch"],
     ["Updates", "Tested on staging before live"],
     ["Backups", "Scheduled and stored off the server"],
     ["Reporting", "A short written summary each month"],
     ["Contact", "WhatsApp, 7 days a week, IST"],
   ],
   stats: [
-    { value: "5", label: "Months free maintenance after our launches" },
+    { value: "2", label: "Months free maintenance after our launches" },
     { value: "3", label: "Developers who can step in" },
     { value: "7", label: "Days a week we read WhatsApp" },
     { value: "0", label: "Lock-in: accounts stay in your name" },
   ],
   answer: {
     heading: "How much does a website maintenance freelancer charge per month in India?",
-    text: `A website maintenance freelancer in India usually charges a monthly fee that depends on the platform, the number of updates, backups and edits included, and how quickly issues must be handled. With BtechWaleTech, monthly plans start at ${P.care} (${P.careUsd}), and sites we build get five months of maintenance free after launch.`,
+    text: `A website maintenance freelancer in India usually charges a monthly fee that depends on the platform, the number of updates, backups and edits included, and how quickly issues must be handled. With BtechWaleTech, monthly plans start at ${P.care} (${P.careUsd}), and sites we build get two months of maintenance free after launch.`,
     more: `Want someone for ongoing development hours rather than upkeep? Compare <a href='/part-time-web-developer/'>part-time and retainer help</a>, or see <a href='/wordpress-developer-near-me/'>WordPress care for small businesses</a>.`,
   },
   snapshot: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Fixes", value: "Broken forms, layout bugs, errors after updates" },
       { label: "Edits", value: "Small text, image and price changes each month" },
       { label: "Price", value: `Monthly plans from ${P.care}` },
-      { label: "Free period", value: "5 months after every site we launch" },
+      { label: "Free period", value: "2 months after every site we launch" },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Website maintenance pricing and what shifts it",
-    note: `Monthly maintenance starts at ${P.care}. That covers a small or static business site with updates, backups, monitoring and a modest allowance of edits. The monthly figure rises for sites with more moving parts: WordPress installs with many plugins, online stores where checkout must be tested regularly, web apps with databases and user accounts, and sites that need more editing time each month. Sites we build include five months of free maintenance after launch. For a site built elsewhere, the first month includes a short audit, and we quote after seeing it. No annual lock-in: you can pause or stop with a month’s notice.`,
+    note: `Monthly maintenance starts at ${P.care}. That covers a small or static business site with updates, backups, monitoring and a modest allowance of edits. The monthly figure rises for sites with more moving parts: WordPress installs with many plugins, online stores where checkout must be tested regularly, web apps with databases and user accounts, and sites that need more editing time each month. Sites we build include two months of free maintenance after launch. For a site built elsewhere, the first month includes a short audit, and we quote after seeing it. No annual lock-in: you can pause or stop with a month’s notice.`,
   },
   guideLabel: "Website maintenance guide",
   guide: [
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       heading: "What does a website maintenance freelancer cost, and why do quotes differ so much?",
       paragraphs: [
         `Quotes for website maintenance vary widely in India, and the gap is mostly explained by what is actually included. One freelancer’s plan might mean “I will renew your hosting”; another’s includes staged updates, tested backups, monitoring and a monthly edit allowance. Compare the task list, not the headline figure.`,
-        `Our monthly plans start at <strong>${P.care}</strong> (${P.careUsd} for clients abroad). Price rises with platform complexity, the number of plugins or integrations, how often the site changes, whether it takes payments and how much editing you expect each month. Sites we build include five months of free maintenance after launch.`,
+        `Our monthly plans start at <strong>${P.care}</strong> (${P.careUsd} for clients abroad). Price rises with platform complexity, the number of plugins or integrations, how often the site changes, whether it takes payments and how much editing you expect each month. Sites we build include two months of free maintenance after launch.`,
         `Ask any website maintenance freelancer three questions: which tasks happen every month, what counts as extra work, and how quickly they respond when the site is down. Clear written answers matter more than a low number. The <a href='/website-developer-cost/'>website cost breakdown</a> shows how maintenance fits alongside build costs.`,
       ],
     },
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       heading: "Website maintenance kya hota hai? Aasan bhasha mein",
       paragraphs: [
         `Website banne ke baad bhi usko regular dekhbhaal chahiye: software update, backup, site down hone par alert, form ya checkout ki galti theek karna, aur chhote text ya photo badlaav. Yahi website maintenance hai.`,
-        `Hamara monthly plan ${P.care} se shuru hota hai. Jo website hum banate hain, uspe launch ke baad 5 mahine maintenance free milta hai. Har mahine ek chhota report milta hai ki kya kaam hua. Hosting, domain aur admin login aapke naam par rehte hain, isliye plan band karna ho to koi dikkat nahi.`,
+        `Hamara monthly plan ${P.care} se shuru hota hai. Jo website hum banate hain, uspe launch ke baad 2 mahine maintenance free milta hai. Har mahine ek chhota report milta hai ki kya kaam hua. Hosting, domain aur admin login aapke naam par rehte hain, isliye plan band karna ho to koi dikkat nahi.`,
       ],
     },
   ],
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
         ["SEO site with 299+ pages", "Moderate", "Build checks, sitemap health, Search Console errors", `From ${P.care}`],
         ["Online store", "Higher", "Checkout and order tests, stock and price updates, backups", "Quoted after a short review"],
         ["Web app or portal", "Higher", "Server patches, database backups, error logs, user access", "Custom plan"],
-        ["Any site we built", "—", "Everything above for the first 5 months", "Free after launch"],
+        ["Any site we built", "—", "Everything above for the first 2 months", "Free after launch"],
       ],
       hideSm: [2],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
   faqHeading: "Website maintenance freelancer: frequently asked questions",
   faqs: [
     { question: "What does a website maintenance freelancer do?", answer: "They keep a live site safe and working: updating the CMS, themes, plugins and server software, running off-server backups, monitoring uptime and renewals, fixing broken forms and layouts, and making small content edits. It is routine upkeep, separate from redesigns, new features or ongoing SEO campaigns." },
-    { question: "How much does website maintenance cost per month in India?", answer: `Prices vary widely because plans include very different tasks. With BtechWaleTech monthly plans start at ${P.care}, covering updates, backups, monitoring and a small edit allowance. Stores, busy WordPress sites and web apps cost more because they need more testing. Sites we build get five months free after launch.` },
+    { question: "How much does website maintenance cost per month in India?", answer: `Prices vary widely because plans include very different tasks. With BtechWaleTech monthly plans start at ${P.care}, covering updates, backups, monitoring and a small edit allowance. Stores, busy WordPress sites and web apps cost more because they need more testing. Sites we build get two months free after launch.` },
     { question: "Is website maintenance really necessary for a small business?", answer: "For any site that takes enquiries, bookings or payments, yes. Outdated software is a leading cause of hacked small sites, forms can fail silently and domains lapse when renewal emails go unread. A static site edited once a year needs very little, and a pay-per-fix arrangement may be enough there." },
     { question: "How often should a website be backed up?", answer: "As often as it changes. A brochure site edited monthly can be backed up weekly. A store taking orders daily needs daily database backups at least. Keep several past copies in storage separate from your server, and test a restore every few months to confirm the backups actually work." },
     { question: "What is included in a monthly maintenance plan?", answer: "Our plans include staged software updates, scheduled off-server backups, uptime and SSL monitoring, a renewal calendar, security checks, small fixes and a monthly content edit allowance, plus a short written report. New pages, new features, redesigns and SEO campaigns are quoted separately so the monthly fee stays predictable." },
@@ -386,8 +386,8 @@ const content: FreelanceContent = {
     { question: "Do you maintain mobile apps and web apps as well?", answer: "Yes. Web apps and portals need server patches, database backups, library updates, error log reviews and user access checks, agreed as a custom plan. Mobile apps built with us also need yearly updates for new Android and iOS versions and store policy changes." },
     { question: "What is the difference between maintenance and a website fix?", answer: "A fix is a one-off repair when something breaks. Maintenance is the regular routine that makes breakages rarer and recovery faster. If your site is broken right now, start with a fix; once it is stable, a monthly plan keeps it that way." },
     { question: "Do you work with clients outside India?", answer: `Yes. International clients receive the same monthly plan, priced from ${P.careUsd}. We work in IST, read WhatsApp seven days a week and schedule risky updates for your quiet hours. Payments go through Wise, bank wire or PayPal.` },
-    { question: "Website maintenance ka monthly kharcha kitna hai?", answer: `Hamara monthly maintenance plan ${P.care} se shuru hota hai. Isme update, backup, uptime monitoring, chhoti galtiyon ki repair aur thode text ya photo badlaav shaamil hain. Store aur web app ka plan thoda zyada hota hai. Hamari banayi website par launch ke baad 5 mahine maintenance free hai.` },
-    { question: "What happens after the five free months on a site you built?", answer: `You decide. Continue on a monthly plan from ${P.care}, move to pay-per-fix if your site rarely changes, or take over yourself using the handover notes. We remind you before the free period ends, and nothing is billed without your approval.` },
+    { question: "Website maintenance ka monthly kharcha kitna hai?", answer: `Hamara monthly maintenance plan ${P.care} se shuru hota hai. Isme update, backup, uptime monitoring, chhoti galtiyon ki repair aur thode text ya photo badlaav shaamil hain. Store aur web app ka plan thoda zyada hota hai. Hamari banayi website par launch ke baad 2 mahine maintenance free hai.` },
+    { question: "What happens after the two free months on a site you built?", answer: `You decide. Continue on a monthly plan from ${P.care}, move to pay-per-fix if your site rarely changes, or take over yourself using the handover notes. We remind you before the free period ends, and nothing is billed without your approval.` },
   ],
   related: {
     heading: "Related pages on upkeep, fixes and support",

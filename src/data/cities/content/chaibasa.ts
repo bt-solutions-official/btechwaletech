@@ -57,7 +57,7 @@ const chaibasa: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and appointment questions in Hindi and route real decisions to you.",
     data: "Dashboards of trips, vehicle costs, pending bills and admissions for owners who manage from their phone.",
     app: "Android and iOS apps for transport crews logging trips or coaching students getting notes and notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Chaibasa businesses often depend on a few large customers and long payment cycles, so wasted spending hurts. We publish starting prices, send an itemised written quote, reply on WhatsApp seven days a week and put the domain, hosting, code and app store accounts in your name from the first day.",
@@ -179,7 +179,7 @@ const chaibasa: CityContent = {
       heading: "Ownership and maintenance for Chaibasa websites and apps",
       paragraphs: [
         "A common story in district towns goes like this: a nephew or a freelancer builds the site, books the domain on his own email, moves to Bengaluru, and one renewal later the business has lost its web address. We prevent that from the start. The domain, the hosting account, the source code, your Google Business Profile and the Play Console and Apple developer accounts are all opened in your name, and a written sheet of every login is handed to you at launch.",
-        "For the first five months after going live, upkeep costs nothing. In that period we change prices and photos when you ask, keep backups, apply security and version updates, and test that enquiry forms, WhatsApp buttons and UPI payments still go through. From the sixth month, you can keep us on from ₹8,000 a month, or take the files to any other developer without a fee or a fight.",
+        "For the first two months after going live, upkeep costs nothing. In that period we change prices and photos when you ask, keep backups, apply security and version updates, and test that enquiry forms, WhatsApp buttons and UPI payments still go through. From the third month, you can keep us on from ₹8,000 a month, or take the files to any other developer without a fee or a fight.",
         "Apps age faster than websites. Google and Apple revise their policies and target versions each year, and an app that is not rebuilt in time can be hidden from the stores. We watch those deadlines for you and schedule the update before it becomes urgent.",
       ],
     },
@@ -276,7 +276,7 @@ const chaibasa: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of upkeep at no charge from launch day: content edits, backups, patching, and regular tests of forms, UPI and WhatsApp buttons. Continuing after that is optional and starts at ₹8,000 a month. Since every account and the code sit in your name, switching to someone else later needs nothing from us.",
+        "You get two months of upkeep at no charge from launch day: content edits, backups, patching, and regular tests of forms, UPI and WhatsApp buttons. Continuing after that is optional and starts at ₹8,000 a month. Since every account and the code sit in your name, switching to someone else later needs nothing from us.",
     },
     {
       question: "Do you work in Chakradharpur, Jhinkpani and Noamundi too?",

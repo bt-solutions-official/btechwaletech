@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, about 2 working days"],
     ["AWS account owner", "You, with your card on billing"],
     ["Our access", "IAM user or role, removable any time"],
-    ["Ongoing care", `From ${P.care} after 5 free months`],
+    ["Ongoing care", `From ${P.care} after 2 free months`],
   ],
   stats: [
     { value: "3", label: "Freelancers, with AWS work led by one named person" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Freelance AWS developer pricing: our work versus your AWS bill",
-    note: `Two costs are involved, and they should never be mixed. Our fee covers the design, build and handover: a static site on S3 and CloudFront from ${P.site}, a serverless backend or web app from ${P.software}, AI features from ${P.ai}, and ongoing care from ${P.care} once five free months end. The AWS bill is what Amazon charges for usage, paid by you directly from your own account. Before building, we estimate the monthly AWS usage for your expected traffic so you can compare options. Quotes arrive itemised in about two working days, and nothing is billed until you approve in writing.`,
+    note: `Two costs are involved, and they should never be mixed. Our fee covers the design, build and handover: a static site on S3 and CloudFront from ${P.site}, a serverless backend or web app from ${P.software}, AI features from ${P.ai}, and ongoing care from ${P.care} once two free months end. The AWS bill is what Amazon charges for usage, paid by you directly from your own account. Before building, we estimate the monthly AWS usage for your expected traffic so you can compare options. Quotes arrive itemised in about two working days, and nothing is billed until you approve in writing.`,
   },
   guideLabel: "Freelance AWS developer guide",
   guide: [
@@ -167,7 +167,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance AWS developer cost in India?",
       paragraphs: [
         `Quotes for AWS work vary widely, because “AWS developer” can mean anything from a two-hour DNS fix to a months-long platform build. Compare scope and deliverables first, then price.`,
-        `With us, AWS work is quoted per project and itemised. Hosting a static site on S3 and CloudFront, built by us, starts at ${P.site} (${P.siteUsd}). A custom web app or serverless backend starts at ${P.software} (${P.softwareUsd}) and typically takes 6–12 weeks. AI features built on your AWS setup start at ${P.ai}. After launch and the five free months, monitoring, patching and small changes continue from ${P.care}.`,
+        `With us, AWS work is quoted per project and itemised. Hosting a static site on S3 and CloudFront, built by us, starts at ${P.site} (${P.siteUsd}). A custom web app or serverless backend starts at ${P.software} (${P.softwareUsd}) and typically takes 6–12 weeks. AI features built on your AWS setup start at ${P.ai}. After launch and the two free months, monitoring, patching and small changes continue from ${P.care}.`,
         `A bill review or security clean-up on an existing account is scoped after a short look at your setup; you get the itemised quote in about two working days. Whatever you are quoted by anyone, keep our fee and your AWS usage separate in your head. A developer who designs a cheap-to-run system can save you more each year than the difference between two quotes.`,
       ],
     },
@@ -315,7 +315,7 @@ const content: FreelanceContent = {
         ["Online store with AWS backend", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app or serverless backend", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["AI features on AWS", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Grant scoped access", "You create an IAM user or role for us, or we guide you on a call. Root stays with you, protected by MFA."],
       ["Build as code, on staging first", "Infrastructure is written in CDK, CloudFormation or Terraform, deployed to staging, tested, then promoted to production with your go-ahead."],
       ["Hand over with a runbook", "You receive the code, a plain-language runbook, alarm list and a tested restore. We remove our access when you ask."],
-      ["Five months of free care", "Patches, small changes and alarm follow-ups are free for five months. After that, care continues from " + P.care + " if you want it."],
+      ["Two months of free care", "Patches, small changes and alarm follow-ups are free for two months. After that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Freelance AWS developer: frequently asked questions",

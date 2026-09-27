@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Tracking", "LR, docket or vehicle number lookup"],
     ["Quote form", "Origin, destination, load, vehicle, date"],
     ["Written quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to your written quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Platform or per-lead fees from us" },
   ],
   answer: {
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, logistics company website design starts at ${P.site} (roughly ${P.siteUsd}) for a static site of up to 100 pages with service pages, fleet, network map, documents page and quote form. Quotes from other designers vary widely, so compare what each includes rather than the headline number.`,
         `The main cost drivers are specific to transport. Tracking is the biggest: a sheet-fed status page is a small job, while a live connection to your TMS or GPS provider needs custom integration work and testing. Second is the number of lane pages, because each needs real content about transit times, vehicle types and loading points on that corridor. Third is whether customers log in to see shipment history, PODs and invoices, which turns the project into a custom web app from ${P.software}.`,
-        `Other items: a driver or field app for POD photos starts at ${P.app}; automated follow-ups on unanswered quotes or AI-assisted rate replies start at ${P.ai}; monthly SEO starts at ${P.seo}; and maintenance after the five free months starts at ${P.care}. Full plan details are on the <a href='/pricing/'>pricing page</a>.`,
+        `Other items: a driver or field app for POD photos starts at ${P.app}; automated follow-ups on unanswered quotes or AI-assisted rate replies start at ${P.ai}; monthly SEO starts at ${P.seo}; and maintenance after the two free months starts at ${P.care}. Full plan details are on the <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, completely. The domain, hosting account, Search Console property and analytics are created in your company’s name from day one, and the full source code is handed over at launch. Enquiry data sits in your own sheet or CRM.`,
         `For tracking, we document exactly where the status data comes from, which API keys are used, and how to change them if you switch GPS provider or transport software. Access we used during the build is returned or removed. If you later hire another developer or an in-house IT person, they can pick up the code without asking us for anything.`,
-        `For five months after launch, maintenance is free: adding branches or lanes, updating the fleet table, fixing issues, small edits. After that it is optional from ${P.care}. Payments in India are by UPI or bank transfer; clients abroad pay by Wise, wire or PayPal. Terms are in your written quote and on our <a href='/terms/'>terms page</a>.`,
+        `For two months after launch, maintenance is free: adding branches or lanes, updating the fleet table, fixing issues, small edits. After that it is optional from ${P.care}. Payments in India are by UPI or bank transfer; clients abroad pay by Wise, wire or PayPal. Terms are in your written quote and on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["Customer portal with shipments, PODs and invoices", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Contract logistics providers"],
         ["Driver POD and status app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Fleets wanting photo proof of delivery"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Lane pages, reviews, content"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Fleet, rate and branch updates"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Fleet, rate and branch updates"],
       ],
       hideSm: [2],
     },
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Test the quote form first", "Your booking desk submits real lanes through the draft form so we can tune fields and WhatsApp routing before any design polish begins."],
       ["Review on a private link", "Service pages, lane pages, fleet table and documents page go up on a preview your operations and sales staff can check from their phones."],
       ["Connect tracking and launch", "We wire the tracking lookup to your sheet, TMS or GPS feed, set up Search Console and analytics in your name, and switch the domain."],
-      ["Keep lanes and fleet current", "For five months we add branches, lanes and vehicles free of charge; after that, optional maintenance keeps the data fresh."],
+      ["Keep lanes and fleet current", "For two months we add branches, lanes and vehicles free of charge; after that, optional maintenance keeps the data fresh."],
     ],
   },
   faqHeading: "Logistics company website design: questions transporters ask",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Can you build a driver app for proof of delivery?", answer: `Yes. A driver or field staff app can capture POD photos, signatures and status updates, which then appear on the website tracking page. Android and iOS apps start at ${P.app} and typically take six to ten weeks. For fleets with basic phones, a WhatsApp-based POD upload flow can be a lighter option.` },
     { question: "What do you need from me to start a logistics website?", answer: "Your list of services, the corridors you run regularly with transit times, a fleet table with owned and attached vehicles, branch addresses, real photos of trucks and warehouses, your GST and registration details, and your logo. If you have transport software, tell us its name so we can check how tracking data can be read." },
     { question: "How do payments and invoices work with your team?", answer: "Clients in India pay by UPI or bank transfer against milestones listed in the approved quote. Clients abroad pay by Wise, bank wire or PayPal in USD. Nothing is billed before you approve the itemised quote in writing. Payment milestones and any refund terms are written into your quote; see our refund policy page for details." },
-    { question: "Is maintenance included after the logistics website launches?", answer: `Yes, five months of free maintenance covers new branches and lanes, fleet table updates, small content edits and fixes. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also manage updates in-house or hire any other developer.` },
+    { question: "Is maintenance included after the logistics website launches?", answer: `Yes, two months of free maintenance covers new branches and lanes, fleet table updates, small content edits and fixes. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also manage updates in-house or hire any other developer.` },
     { question: "Can you connect my website to my transport management software?", answer: "Often, yes. If your software offers an API, the website can read shipment status directly. If it only exports reports, we can schedule an import into a small database the tracking page reads. We check your system before quoting, and if integration is not realistic we say so and suggest the sheet-based option." },
     { question: "Transport company ki website banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath logistics ya transport company ki website ${P.site} se start hoti hai. Isme FTL, PTL aur warehousing pages, lane map, fleet details, quote form aur LR number se tracking aata hai. Customer login portal ${P.software} se start hota hai. Itemised quote lagbhag do working days me WhatsApp par milta hai.` },
   ],
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a logistics company website design that brings freight enquiries, not just visitors?",
-    note: `Send your lanes, fleet list and services on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain, hosting and code in your company’s name and five months of free maintenance after launch.`,
+    note: `Send your lanes, fleet list and services on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain, hosting and code in your company’s name and two months of free maintenance after launch.`,
   },
 };
 

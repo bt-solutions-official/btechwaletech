@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Power BI pricing · data work first, visuals second",
     h1: "Power BI dashboard development cost: what you pay to build it, license it and keep it fresh",
     lede: `Power BI dashboard development cost is mostly decided before anyone draws a chart: by how many data sources you have, how messy they are, and how the data model is designed. BtechWaleTech quotes each dashboard itemised from your sources, with automated data pipelines from ${P.ai} and custom web dashboards from ${P.software}. This page also covers the running cost people forget: Microsoft licences for every viewer, refresh limits, and whether a <a href='/looker-studio-expert/'>free alternative</a> would serve you better.`,
-    pills: ["Quoted by data source", `Pipelines from ${P.ai}`, "Power Query + DAX model", "Scheduled refresh set up", "Licence plan explained", "Files and workspace in your name", "5 months free care"],
+    pills: ["Quoted by data source", `Pipelines from ${P.ai}`, "Power Query + DAX model", "Scheduled refresh set up", "Licence plan explained", "Files and workspace in your name", "2 months free care"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week, IST",
   },
   facts: [
@@ -37,14 +37,14 @@ const content: FreelanceContent = {
     ["Automated data pipeline", `From ${P.ai} · ${P.aiUsd}`],
     ["Custom web dashboard", `From ${P.software} · ${P.softwareUsd}`],
     ["Typical build time", "2–4 weeks for most first dashboards"],
-    ["Upkeep after launch", `5 months free, then from ${P.care}`],
+    ["Upkeep after launch", `2 months free, then from ${P.care}`],
     ["Data lead", "Santosh Sharma (data, AWS, ML)"],
   ],
   stats: [
     { value: "8", label: "Scheduled refreshes a day on shared capacity, per Microsoft" },
     { value: "48", label: "Scheduled refreshes a day on Premium, PPU or Fabric capacity" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after handover" },
+    { value: "2", label: "Months of free fixes after handover" },
   ],
   answer: {
     heading: "How much does Power BI dashboard development cost?",
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Power BI dashboard development cost with us: how the quote is put together",
-    note: `We work out Power BI dashboard development cost from the data backwards. The quote lists each source with its cleaning effort, the data model, the number of report pages, refresh and gateway setup, security roles, and handover. Where sources need a scheduled pipeline outside Power BI, such as pulling from an API or a Tally server into a database, that part starts at ${P.ai}. If licence costs for your viewers look higher than a one-time build, we also price a custom web dashboard from ${P.software}. After five free months, optional care starts at ${P.care}. Every figure is a starting point, confirmed in writing before billing.`,
+    note: `We work out Power BI dashboard development cost from the data backwards. The quote lists each source with its cleaning effort, the data model, the number of report pages, refresh and gateway setup, security roles, and handover. Where sources need a scheduled pipeline outside Power BI, such as pulling from an API or a Tally server into a database, that part starts at ${P.ai}. If licence costs for your viewers look higher than a one-time build, we also price a custom web dashboard from ${P.software}. After two free months, optional care starts at ${P.care}. Every figure is a starting point, confirmed in writing before billing.`,
   },
   guideLabel: "Power BI dashboard cost guide",
   guide: [
@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose per-dashboard pricing when the scope is clear and you want a finished, handed-over asset. Choose ongoing monthly help when requirements change every few weeks: new KPIs, new branches, new sources, or leadership asking fresh questions each quarter.`,
         `A per-dashboard quote works best after the data model exists, because each new page on a good model is small and predictable. The first dashboard carries the setup cost of sources and model; the second and third are usually much cheaper. That is why we recommend paying properly for the model on project one.`,
-        `After our five free months, optional care starts at ${P.care} and covers refresh failures, source changes such as a new Tally column, small measure tweaks and Microsoft updates. Bigger additions, like a new source or a new department’s pages, are quoted as separate items so the monthly figure stays predictable. The exact terms go into your written quote.`,
+        `After our two free months, optional care starts at ${P.care} and covers refresh failures, source changes such as a new Tally column, small measure tweaks and Microsoft updates. Bigger additions, like a new source or a new department’s pages, are quoted as separate items so the monthly figure stays predictable. The exact terms go into your written quote.`,
       ],
       subs: [
         { heading: "Per dashboard", text: "Best for a defined set of pages on known data. You own a finished file and model, with handover notes." },
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["Tally, CRM and online store", "3–4", "Medium to high", "Multiple facts, shared dimensions", `Itemised; sync pipeline from ${P.ai}`, "3–4 weeks"],
         ["Many branch spreadsheets", "5+", "High", "Needs standard templates first", `Pipeline from ${P.ai} + dashboard`, "4+ weeks"],
         ["Many viewers, fixed reports", "Any", "Varies", "API-backed", `Custom web dashboard from ${P.software}`, "6–12 weeks"],
-        ["Upkeep after 5 free months", "—", "—", "—", `Care from ${P.care}`, "Monthly"],
+        ["Upkeep after 2 free months", "—", "—", "—", `Care from ${P.care}`, "Monthly"],
       ],
       hideSm: [2, 3],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Approve an itemised quote", "Within about two working days you get sources, cleaning, model, pages, refresh and security as separate lines. You approve in writing before anything is billed."],
       ["Model first, visuals second", "We build the star schema and write measure definitions you sign off, then share an early working version with real numbers to catch mapping mistakes quickly."],
       ["Set up refresh and access", "Scheduled refresh, gateway or sync job, failure alerts and row-level security are configured in your tenant and tested with real user accounts."],
-      ["Hand over and look after it", "You receive the .pbix file, measure notes and a recorded walkthrough. Fixes are free for five months, then optional care continues from " + P.care + "."],
+      ["Hand over and look after it", "You receive the .pbix file, measure notes and a recorded walkthrough. Fixes are free for two months, then optional care continues from " + P.care + "."],
     ],
   },
   faqHeading: "Power BI dashboard development cost: common questions",
@@ -405,12 +405,12 @@ const content: FreelanceContent = {
     { question: "What is a data model and how does it affect Power BI dashboard development cost?", answer: "The data model is how tables are structured and related inside Power BI, ideally a star schema with fact tables for transactions and dimension tables for dates, products, customers and branches. A good model makes future pages and measures quick to add. A poor one works at first, then forces a rebuild when new questions arrive, which is far more expensive." },
     { question: "Is Looker Studio cheaper than Power BI?", answer: "Google describes its reporting tool, now documented as Data Studio, as a no-cost tool, so licence cost is lower. It suits simple models and data already in Google Sheets or Google services, shared with many people. Power BI is stronger for complex DAX measures, row-level security and larger data models. The right choice depends on your data and viewers, not on price alone." },
     { question: "When is a custom web dashboard better than Power BI?", answer: `When many people need the same fixed reports and per-viewer licences would add up, for example dealers, franchisees or customers. A custom web dashboard built with React and an API on your hosting has no per-viewer licence and can sit inside an existing portal. With BtechWaleTech it starts at ${P.software}. For ad-hoc analysis, Power BI is usually the better tool.` },
-    { question: "Per-dashboard pricing or monthly retainer: which is better?", answer: `Per-dashboard pricing suits a clear scope and a finished handover. Ongoing monthly care suits reports that change often, with new KPIs or sources every few weeks. With BtechWaleTech, fixes are free for five months after handover; optional care then starts at ${P.care}, and larger additions are quoted as separate items so the monthly cost stays predictable.` },
+    { question: "Per-dashboard pricing or monthly retainer: which is better?", answer: `Per-dashboard pricing suits a clear scope and a finished handover. Ongoing monthly care suits reports that change often, with new KPIs or sources every few weeks. With BtechWaleTech, fixes are free for two months after handover; optional care then starts at ${P.care}, and larger additions are quoted as separate items so the monthly cost stays predictable.` },
     { question: "Can Power BI connect to Tally?", answer: "Yes, Tally data can feed Power BI, usually through scheduled exports or a small sync that copies vouchers and ledgers into a database the dashboard reads. The right route depends on your Tally setup, how many companies and branches you run, and how often you need fresh numbers. We price both the direct and the sync option so you can compare." },
     { question: "Can each branch manager see only their own data?", answer: "Yes, through row-level security. Roles are defined inside the data model, for example by branch or region, and each user is assigned to a role. The same report then shows different rows to different people. We test roles with real user accounts before rollout, because adding security after launch means rechecking every page and measure." },
     { question: "Is Publish to web safe for business dashboards?", answer: "No. Microsoft warns that anyone on the internet can view a report published this way, without signing in, and can reach underlying data in the model even if the report does not show it. We never use Publish to web for business data. For internal portals, Power BI’s secure embedding options keep user permissions in place." },
     { question: "Who owns the Power BI files and workspace?", answer: "You do. We build in your Microsoft tenant and workspace, and at handover you receive the .pbix file, measure definitions, source and refresh notes, and a recorded walkthrough. Pipeline code and any database also sit in your accounts. You can remove our access whenever you choose, and your team or another developer can continue from our notes." },
-    { question: "What does it cost to maintain a Power BI dashboard?", answer: `Running cost has two parts: Microsoft licences for creators and viewers, paid to Microsoft, and upkeep for refresh failures, source changes and new requests. BtechWaleTech covers fixes free for five months after handover. After that, optional care starts at ${P.care}. A well-built model with automated cleaning keeps upkeep low.` },
+    { question: "What does it cost to maintain a Power BI dashboard?", answer: `Running cost has two parts: Microsoft licences for creators and viewers, paid to Microsoft, and upkeep for refresh failures, source changes and new requests. BtechWaleTech covers fixes free for two months after handover. After that, optional care starts at ${P.care}. A well-built model with automated cleaning keeps upkeep low.` },
     { question: "Can you fix or improve an existing Power BI report?", answer: "Yes. We start by reviewing the model, measures, refresh history and sources, then list problems and improvements with separate prices. Common findings are flat tables that should be a star schema, bidirectional relationships causing wrong totals, calculated columns slowing refresh, and refresh depending on one person’s PC. Sometimes a model rebuild is cheaper than patching." },
     { question: "Freelancer or consultancy for Power BI dashboards?", answer: "A small freelance team suits most first dashboards and ongoing upkeep: you speak directly to the people building the model and pay no account-management layer. A large consultancy suits enterprise-wide rollouts needing many specialists, formal governance programmes or on-site workshops, which we do not offer. Whoever you choose, insist on building in your own tenant." },
     { question: "How do payments work for a Power BI project?", answer: "Payments are staged against visible progress, as set out in your written quote, and nothing is billed before you approve it. Clients in India pay by UPI or bank transfer; international clients are quoted in US dollars and pay by Wise, bank wire or PayPal. Microsoft licence fees are paid by you directly to Microsoft." },
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a Power BI quote built from your real data",
-    note: `Send a sample from each data source and the questions you want answered on WhatsApp. In about two working days you get an itemised quote covering sources, model, refresh and licences, with pipelines from ${P.ai} and five months of free fixes after handover.`,
+    note: `Send a sample from each data source and the questions you want answered on WhatsApp. In about two working days you get an itemised quote covering sources, model, refresh and licences, with pipelines from ${P.ai} and two months of free fixes after handover.`,
   },
 };
 

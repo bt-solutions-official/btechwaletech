@@ -56,7 +56,7 @@ const rishikesh: CityContent = {
     ai: "WhatsApp and web chat assistants that answer course dates, room rates and river conditions in English and Hindi, and pass bookings to staff.",
     data: "Dashboards of enquiries by country, occupancy by month, course fill rates and commission paid to booking portals.",
     app: "Android and iOS apps for yoga schools to share schedules and recorded classes, or for tour operators to run Char Dham groups, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then care plans starting at ₹8,000 a month, timed around the season.",
+    maintenance: "Free upkeep for two months after launch, then care plans starting at ₹8,000 a month, timed around the season.",
   },
   whyUsIntro:
     "Rishikesh operators often pay heavy commissions to booking portals and still depend on those portals for visibility. We try to shift part of that business back to your own site, quoting every item in writing, replying on WhatsApp every day of the week, and keeping the domain, code and store accounts registered to you, not to us.",
@@ -176,7 +176,7 @@ const rishikesh: CityContent = {
       heading: "Ownership, seasonal updates and maintenance for Rishikesh websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile, payment accounts and app store developer accounts are all created in your name, and you receive every login in writing. If you ever move to another developer, nothing has to be recovered from us.",
-        "The first five months after launch carry no maintenance charge. That covers changes to prices, course dates and room details, backups, security patches, software updates and regular checks that booking forms, payments and WhatsApp links work. After that, care plans begin at ₹8,000 a month, and many Rishikesh clients time them around the season, keeping full support from spring to autumn.",
+        "The first two months after launch carry no maintenance charge. That covers changes to prices, course dates and room details, backups, security patches, software updates and regular checks that booking forms, payments and WhatsApp links work. After that, care plans begin at ₹8,000 a month, and many Rishikesh clients time them around the season, keeping full support from spring to autumn.",
         "Apps need an update every year to meet Google and Apple rules, and we track those deadlines. To discuss a project, message us on WhatsApp or use our <a href=\"/contact/\">contact page</a>.",
       ],
     },
@@ -259,7 +259,7 @@ const rishikesh: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months are free: updates to dates and prices, backups, security patches and checks on booking forms, payments and WhatsApp links. After that, plans begin at ₹8,000 a month, and you can keep them only for the busy months if you prefer. You may move the code elsewhere at any time.",
+        "The first two months are free: updates to dates and prices, backups, security patches and checks on booking forms, payments and WhatsApp links. After that, plans begin at ₹8,000 a month, and you can keep them only for the busy months if you prefer. You may move the code elsewhere at any time.",
     },
     {
       question: "Do you work with businesses in Haridwar, Dehradun and the hill towns?",

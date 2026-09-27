@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who all know your codebase" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Android & iOS app", value: `From ${P.appUsd}, 6–10 weeks` },
       { label: "Live call window", value: "Your morning for the UK and Europe; your evening or our late evening for the Americas" },
       { label: "Payment", value: "USD by Wise, bank wire or PayPal, in milestones" },
-      { label: "After launch", value: `5 months free, then from ${P.careUsd}` },
+      { label: "After launch", value: `2 months free, then from ${P.careUsd}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "AI automation", note: `Document reading, email triage, report generation and chat assistants tied to your stack, from ${P.aiUsd}.`, href: "/ai-automation-freelancer/", size: "md" },
       { name: "Online stores", note: `Catalogue, cart, card checkout and order flows for your country, from ${P.shopUsd}.`, href: "/freelance-ecommerce-developer/", size: "sm" },
       { name: "White-label work for agencies", note: "Overflow builds delivered under your brand, with the client relationship staying with you.", href: "/white-label-web-development/", size: "sm" },
-      { name: "Ongoing care", note: `Five free months after launch, then maintenance from ${P.careUsd} if you want it.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing care", note: `Two free months after launch, then maintenance from ${P.careUsd} if you want it.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "What does it cost to hire Indian developers for a project?",
       paragraphs: [
-        `Project prices, not hourly guesses, give you the clearest answer. Our starting points in US dollars: a static website of up to 100 pages from ${P.siteUsd}; an SEO website with 299+ pages from ${P.seoSiteUsd}; an online store from ${P.shopUsd}; a custom web app or portal from ${P.softwareUsd}; an Android plus iOS app from ${P.appUsd}; AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd} and maintenance, after the free five months, from ${P.careUsd}.`,
+        `Project prices, not hourly guesses, give you the clearest answer. Our starting points in US dollars: a static website of up to 100 pages from ${P.siteUsd}; an SEO website with 299+ pages from ${P.seoSiteUsd}; an online store from ${P.shopUsd}; a custom web app or portal from ${P.softwareUsd}; an Android plus iOS app from ${P.appUsd}; AI automation from ${P.aiUsd}. Monthly SEO starts at ${P.seoUsd} and maintenance, after the free two months, from ${P.careUsd}.`,
         `When you hire Indian developers on the open market, quotes for the same brief vary enormously. The spread reflects experience, whether design is original or a bought template, how much testing is included, who writes content, and whether support after launch is part of the price. It has little to do with which Indian city the developer lives in.`,
         `When you compare offers, line up scope first. A quote that looks half the price may simply leave out the admin panel, the email templates, or the three rounds of changes you assumed were included. Our <a href='/freelance-web-developer-rates/'>guide to hourly and project rates</a> shows how to normalise quotes before comparing them.`,
       ],
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how the pieces fit, not a real client.`,
         `A small London accountancy wants a portal where clients upload documents, see deadlines and message their accountant. They write a two-page brief and send it to us. Within about two working days they get an itemised USD quote starting from the custom web app plan at ${P.softwareUsd}, with separate lines for document storage, email notifications and a basic admin view.`,
-        `They sign a short agreement with an IP assignment and a data-processing clause. We create the repository in their GitHub organisation and host on their AWS account in the London region. Weekly calls happen at 10:00 UK time, which is mid-afternoon in India. Each milestone is demonstrated on staging before the USD invoice goes out through Wise. After launch, five months of free maintenance cover fixes and small changes; later they can continue from ${P.careUsd} or hand the code to anyone.`,
+        `They sign a short agreement with an IP assignment and a data-processing clause. We create the repository in their GitHub organisation and host on their AWS account in the London region. Weekly calls happen at 10:00 UK time, which is mid-afternoon in India. Each milestone is demonstrated on staging before the USD invoice goes out through Wise. After launch, two months of free maintenance cover fixes and small changes; later they can continue from ${P.careUsd} or hand the code to anyone.`,
       ],
     },
     {
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["Web app, portal or SaaS MVP", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],
         ["AI automation", `From ${P.aiUsd}`, `From ${P.ai}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Sign and set up accounts", "Agree the contract terms, including IP assignment. Create the repository, hosting and store accounts in your name and invite us with limited permissions."],
       ["Build in weekly cycles", "Each week has one call in the overlap window and written updates in between. Every change appears on a staging link you can test in your own time zone."],
       ["Launch and hand over", "We deploy to your production environment, verify analytics and Search Console, and hand over credentials, documentation and a list of renewals."],
-      ["Five months of care, then your choice", `Fixes and small changes are free for five months. After that, keep us on maintenance from ${P.careUsd}, bring it in-house, or move to another developer.`],
+      ["Two months of care, then your choice", `Fixes and small changes are free for two months. After that, keep us on maintenance from ${P.careUsd}, bring it in-house, or move to another developer.`],
     ],
   },
   faqHeading: "Hire Indian developers: questions overseas clients ask",
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
     { question: "Can I hire Indian developers for a startup MVP?", answer: `Yes, and it is a common use. A web-based MVP with logins, roles and a dashboard starts at ${P.softwareUsd} and usually takes 6–12 weeks. The key is ruthless scope: ship the smallest version that tests your idea, keep the code in your repository, and plan version two after real users have tried it.` },
     { question: "Will Indian developers build for my country's customers?", answer: "A good team designs for your market, not theirs: your currency, spelling, tax display, address formats, payment methods, privacy rules and accessibility expectations. Ask about these in the first call. We host near your customers and test speed from your region so pages perform where your visitors actually are." },
     { question: "What are the risks of hiring Indian developers, and how do I reduce them?", answer: "The main risks are unclear scope, slow feedback across time zones, loss of access to code, and payment disputes. Reduce them with a written brief, a fixed weekly call, staging links for every change, accounts in your name, milestone payments and an IP clause. These controls work for any remote hire, wherever the developer lives." },
-    { question: "Do Indian developers offer support after launch?", answer: `Terms vary, so agree them before starting. BtechWaleTech includes five months of free maintenance after launch covering fixes, updates and small changes. After that, maintenance continues from ${P.careUsd} only if you want it, or you can take the code in-house with full documentation.` },
+    { question: "Do Indian developers offer support after launch?", answer: `Terms vary, so agree them before starting. BtechWaleTech includes two months of free maintenance after launch covering fixes, updates and small changes. After that, maintenance continues from ${P.careUsd} only if you want it, or you can take the code in-house with full documentation.` },
   ],
   related: {
     heading: "More for overseas clients hiring from India",

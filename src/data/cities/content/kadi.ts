@@ -56,7 +56,7 @@ const kadi: CityContent = {
     ai: "WhatsApp assistants that share daily rates, take buyer enquiries and answer admission or appointment questions in Gujarati.",
     data: "Season dashboards of kapas bought, bales pressed, oil sold, cake dispatched and payments pending by party.",
     app: "Android and iOS apps for brokers checking daily rates, dealers placing oil orders or parents following school updates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kadi traders count every rupee and prefer plain dealing. We publish starting prices, send a written itemised quote, reply on WhatsApp all seven days, and register the domain, hosting, code and app store accounts in your firm's name. If a feature will not earn back its cost in a season or two, we tell you before you pay for it.",
@@ -177,7 +177,7 @@ const kadi: CityContent = {
       heading: "Ownership and maintenance for Kadi websites, apps and software",
       paragraphs: [
         "A familiar problem in smaller towns is a website that vanishes because the developer registered the domain in his own name and then stopped answering. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your firm's name, and hand over all logins in writing.",
-        "Maintenance is free for five months after launch. It covers text and rate updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can switch to another provider at any time.",
+        "Maintenance is free for two months after launch. It covers text and rate updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can switch to another provider at any time.",
         "Business software also needs care between seasons: new financial years, GST changes and new staff logins. We plan those updates in the quieter months so the system is ready before the next kapas arrivals.",
       ],
     },
@@ -269,7 +269,7 @@ const kadi: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for the first five months, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you wish.",
+        "Maintenance is free for the first two months, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you wish.",
     },
     {
       question: "Do you work in Kalol, Mehsana and Sanand too?",

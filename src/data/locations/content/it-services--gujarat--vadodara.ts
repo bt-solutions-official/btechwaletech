@@ -40,7 +40,7 @@ const content: CityContent = {
     pills: ["Engineering and plant software", "Dashboards and lead CRMs", "Android and iOS apps from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Vadodara: project, EHS and dashboard software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI and CRM automation from ₹40,000 and corporate websites from ₹10,000. We are a freelance group of three remote engineers with no Vadodara office, and maintenance is free for five months.",
+    "BtechWaleTech's freelance software developers build for Vadodara: project, EHS and dashboard software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI and CRM automation from ₹40,000 and corporate websites from ₹10,000. We are a freelance group of three remote engineers with no Vadodara office, and maintenance is free for two months.",
   snapshot: [
     { label: "Engineering belt", value: "Makarpura and Por GIDC with transformer, switchgear, pump, valve and heavy-fabrication firms" },
     { label: "Chemicals and energy", value: "Nandesari GIDC and the Padra side, with the Gujarat Refinery at Koyali and state chemical and fertiliser companies nearby" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that read RFQs and technical emails, summarise documents, qualify leads and answer admission queries, with people approving every commitment.",
     data: "Dashboards for order books, project progress, safety indicators, admissions and sales, built on ERP exports, Tally and spreadsheets.",
     app: "Android and iOS apps for Vadodara site engineers, safety officers, students and customers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of fixes, updates and backups after launch, then plans from ₹8,000 a month with WhatsApp replies seven days a week.",
+    maintenance: "Two free months of fixes, updates and backups after launch, then plans from ₹8,000 a month with WhatsApp replies seven days a week.",
   },
   whyUsIntro:
     "Vadodara's engineering culture values precision and plain facts. We are a freelance group of three engineers who publish starting prices, send itemised quotes, show working software early, hand over every account and answer on WhatsApp seven days a week.",
@@ -188,12 +188,12 @@ const content: CityContent = {
       id: "maintenance-vadodara",
       heading: "What IT support and maintenance do Vadodara systems get after launch?",
       paragraphs: [
-        "Every Vadodara system we launch comes with five months of free maintenance covering bug fixes, security and dependency updates, backups, uptime and speed checks and small changes, after which plans start from ₹8,000 a month or you can pay only for the work you request.",
+        "Every Vadodara system we launch comes with two months of free maintenance covering bug fixes, security and dependency updates, backups, uptime and speed checks and small changes, after which plans start from ₹8,000 a month or you can pay only for the work you request.",
         "Engineering firms, plants and institutes in Baroda depend on their software during critical moments: a customer inspection, a safety audit, an admission deadline or the Navratri sales rush. Our support is organised around that. Urgent problems, such as a permit app failing on the shop floor or an admission form going down, are handled first, and clients reach us on WhatsApp seven days a week.",
         "Changes follow a disciplined path. We reproduce the issue on a staging copy, fix and test it, then deploy through an automated pipeline that can roll back in minutes. Each month we check security updates, test that backups actually restore, review error logs and report anything that needs a decision, such as renewing a domain or upgrading a server plan. We work remotely, so on-site hardware, networks and printers stay with your local IT team, and we coordinate with them whenever a problem crosses that line.",
       ],
       list: [
-        "Five free months after launch, then from ₹8,000 a month",
+        "Two free months after launch, then from ₹8,000 a month",
         "Priority handling for failures that stop operations",
         "Staging tests and one-click rollback for every change",
         "Monthly backup restore tests and security reviews",
@@ -213,7 +213,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Project, EHS or portal software:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -298,7 +298,7 @@ const content: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of free maintenance covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay per request. We support software, hosting and apps remotely; on-site hardware remains with your IT team or vendor.",
+        "Two months of free maintenance covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay per request. We support software, hosting and apps remotely; on-site hardware remains with your IT team or vendor.",
     },
     {
       question: "Can you integrate with our ERP or Tally?",

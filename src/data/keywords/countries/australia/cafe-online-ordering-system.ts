@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Menu website only", `From ${P.site}`],
     ["Custom venue platform", `From ${P.software}`],
     ["Quote", "Itemised in about 2 working days"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Commission we take on your orders" },
     { value: "3", label: "Developers building and supporting it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Can an Australian café take online orders without paying delivery-app commissions?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Menu management", note: "Staff mark items sold out, change prices and hide the breakfast menu after lunch from a phone, without calling a developer.", size: "md" },
       { name: "Café website around it", note: `Home, menu, hours, location and catering pages that link into ordering, from ${P.site} if you need one.`, href: "/australia/small-business-website-design/", size: "sm" },
       { name: "Ordering app", note: `A branded Android and iOS app with loyalty and reorder, from ${P.app}, for venues with a big regular base.`, href: "/australia/flutter-app-development/", size: "sm" },
-      { name: "Monthly care", note: `Updates, menu help and monitoring from ${P.care} after five free months.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Monthly care", note: `Updates, menu help and monitoring from ${P.care} after two free months.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -209,7 +209,7 @@ const content: FreelanceContent = {
       id: "costs",
       heading: "How much does a cafe online ordering system cost?",
       paragraphs: [
-        `With us, direct ordering starts from ${P.shop}, a menu-only website from ${P.site}, and a custom multi-venue platform from ${P.software}. After launch, your running costs are card processing, hosting and optional maintenance from ${P.care} a month once the five free months end.`,
+        `With us, direct ordering starts from ${P.shop}, a menu-only website from ${P.site}, and a custom multi-venue platform from ${P.software}. After launch, your running costs are card processing, hosting and optional maintenance from ${P.care} a month once the two free months end.`,
         `What moves the build cost:`,
       ],
       list: [
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Imagine a hypothetical 40-seat café in Fitzroy running Square, with a morning coffee rush, a weekend brunch crowd and a public holiday surcharge. Pickup orders currently come through a marketplace, and weekend tables wait for staff to take orders.`,
         `A sensible plan would use the ecommerce plan from ${P.shop}. Pickup ordering with five-minute slots, capped separately for coffee and kitchen, goes on the café's website and Google profile. QR codes on each table open the same menu with the table number set, pay-now only. Paid orders go into Square through its Orders API, so staff work from one queue.`,
-        `On weekends and public holidays the menu shows “A surcharge of [percentage] applies on [day]” at price-size text, and the cart shows the surcharge line before payment, using the percentage the owner sets. A soft launch runs for one week with staff and regulars. After five free months of maintenance, the owner reviews which orders moved from the marketplace to direct pickup. This is an illustration of how we would scope the work, not a real client or result.`,
+        `On weekends and public holidays the menu shows “A surcharge of [percentage] applies on [day]” at price-size text, and the cart shows the surcharge line before payment, using the percentage the owner sets. A soft launch runs for one week with staff and regulars. After two free months of maintenance, the owner reviews which orders moved from the marketplace to direct pickup. This is an illustration of how we would scope the work, not a real client or result.`,
       ],
     },
     {
@@ -409,12 +409,12 @@ const content: FreelanceContent = {
       ["Menu build", "We load your menu, modifiers, prices and photos into a staging system and send a link so you can order from your own phone."],
       ["Kitchen and POS setup", "We connect orders to your POS where supported, or set up printers or a kitchen screen, and tune pickup slots with the person on the pass."],
       ["Soft launch", "Staff and friendly regulars use the system for several days. We fix confusing menu items, slot caps and dashboard issues before full launch."],
-      ["Launch and care", "QR files delivered, order links added to Google and social bios, and five months of free maintenance begin."],
+      ["Launch and care", "QR files delivered, order links added to Google and social bios, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Cafe online ordering system: common questions",
   faqs: [
-    { question: "How much does a cafe online ordering system cost?", answer: `BtechWaleTech builds direct ordering from ${P.shop}, a menu website linking to existing ordering from ${P.site}, and multi-venue platforms from ${P.software}. After launch you pay card processing to your provider, hosting, and optional maintenance from ${P.care} a month once five free months end. There is no per-order commission to us.` },
+    { question: "How much does a cafe online ordering system cost?", answer: `BtechWaleTech builds direct ordering from ${P.shop}, a menu website linking to existing ordering from ${P.site}, and multi-venue platforms from ${P.software}. After launch you pay card processing to your provider, hosting, and optional maintenance from ${P.care} a month once two free months end. There is no per-order commission to us.` },
     { question: "Is there really no commission on orders?", answer: "We charge for the build and, if you choose, monthly maintenance. We take nothing per order. You still pay card processing fees to your payment provider and hosting costs, which are usually small compared with a marketplace commission. The money from each sale settles into your business account directly." },
     { question: "Should we leave Uber Eats, DoorDash or Menulog?", answer: "Not necessarily. Marketplaces bring delivery drivers and new customers who browse the app. Many venues keep them for reach and steer regulars and pickup orders to their own system, which has no commission. Check your marketplace agreement for any terms about pricing across channels with your adviser before changing anything." },
     { question: "Can online orders go straight into our Square POS?", answer: "Usually, yes. Square's Orders API documentation says fully paid orders with a fulfilment are pushed to Square Point of Sale and the Dashboard Order Manager, and it supports pickup, delivery and in-store fulfilment. We confirm what your Square plan and setup support during discovery before including the integration in your quote." },
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
     { question: "Can we offer delivery through our own system?", answer: "Yes, within a radius and hours you set, but you supply the drivers or book a courier yourself. We do not run a delivery fleet. Many venues start with pickup and table ordering, then add local delivery once they see demand from regulars." },
     { question: "Why hire developers in India for an Australian café system?", answer: "You get a custom cafe online ordering system with no per-order commission, built by experienced developers at a clear starting price, with everything in your name. The trade-offs are remote support only and no hardware installation. Our morning is your post-lunch lull, which suits quick calls, and we reply on WhatsApp seven days a week." },
     { question: "How do we pay for the build from Australia?", answer: "Quotes and invoices are in USD and come from India. Payment is by Wise, bank wire or PayPal, following the schedule in your quote. Nothing is billed until you approve the quote in writing. For how the cost is treated in your books, ask your accountant or bookkeeper." },
-    { question: "What happens if the cafe online ordering system goes down on a Saturday?", answer: "Uptime monitoring alerts us, and staff can pause online ordering with one button while customers order at the counter. During the five free months, fixes are covered. Afterwards, support terms are agreed in your written maintenance quote, and our terms page explains how agreements work." },
+    { question: "What happens if the cafe online ordering system goes down on a Saturday?", answer: "Uptime monitoring alerts us, and staff can pause online ordering with one button while customers order at the counter. During the two free months, fixes are covered. Afterwards, support terms are agreed in your written maintenance quote, and our terms page explains how agreements work." },
     { question: "Will our café show up on Google for “order coffee near me”?", answer: `Map pack results decide most of those searches, so your Google Business Profile matters as much as the website. We add the order link, structured data and a fast menu page. Nobody can guarantee rankings; ongoing local search help starts at ${P.seo} a month if you want it.` },
     { question: "Can you also build our café website?", answer: `Yes. A café website with home, menu, hours, location, catering and an order button starts from ${P.site}. If you already have a site you like, we add ordering to it instead. Either way, the domain and hosting stay in your business's name.` },
     { question: "Do you work with wineries and tour operators too?", answer: "Yes. Venues with bookings, tastings and tickets have similar needs around capacity and pickup times. We have separate Australian guides for winery and tour operator websites, and some venues combine a cafe online ordering system with tasting or tour bookings on one site." },

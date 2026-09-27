@@ -56,7 +56,7 @@ const aruppukkottai: CityContent = {
     ai: "WhatsApp assistants in Tamil and English that answer rate, stock, count and fee questions and pass real decisions to you.",
     data: "Dashboards of yarn produced and dispatched by count, loom output per week, pending payments and saree orders by region.",
     app: "Android and iOS apps for weaving units to log loom output or for saree buyers to re-order designs, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Textile owners in Aruppukkottai count yarn in kilos and margins in paise, and they do not pay for features that sit unused. We publish starting prices, send a written itemised quote, reply on WhatsApp every day of the week, and register your domain, hosting, code and app store accounts in your name. If an idea will not pay back, we tell you.",
@@ -177,7 +177,7 @@ const aruppukkottai: CityContent = {
       heading: "Who owns your Aruppukkottai website, app and data",
       paragraphs: [
         "The answer should always be you. We open the domain registration, hosting account, cloud storage, code repository, Google Business Profile and the Google Play and Apple developer accounts under your business name and email. Passwords are handed over in a written document at launch, so no single developer can hold your site hostage.",
-        "For the first five months after going live, maintenance is on us: text and price changes, routine backups, security patches, plugin and framework updates, and periodic checks that enquiry forms, payment pages and WhatsApp buttons are still working. From the sixth month, continued maintenance begins at ₹8,000 a month. Stopping is your choice at any point, and the code goes with you.",
+        "For the first two months after going live, maintenance is on us: text and price changes, routine backups, security patches, plugin and framework updates, and periodic checks that enquiry forms, payment pages and WhatsApp buttons are still working. From the third month, continued maintenance begins at ₹8,000 a month. Stopping is your choice at any point, and the code goes with you.",
         "Apps on Google Play and the App Store must keep pace with yearly policy and SDK changes or they get delisted. We schedule those updates ahead of deadlines. For mills and weaving units, we also review production and wage tools before Deepavali and Pongal, when order volumes and working hours rise.",
       ],
     },
@@ -269,7 +269,7 @@ const aruppukkottai: CityContent = {
     {
       question: "What happens after my website or app goes live?",
       answer:
-        "You get five months of maintenance free: edits, backups, security fixes and regular checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or take everything elsewhere, since the code and accounts already belong to you. There is no lock-in clause.",
+        "You get two months of maintenance free: edits, backups, security fixes and regular checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or take everything elsewhere, since the code and accounts already belong to you. There is no lock-in clause.",
     },
     {
       question: "Do you also take projects in Virudhunagar, Sivakasi and Madurai?",

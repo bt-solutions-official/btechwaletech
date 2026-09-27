@@ -56,7 +56,7 @@ const medininagar: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about fees, timings, stock and rates, and pass real decisions to you.",
     data: "Monthly dashboards of admissions, fee dues, sales by block and outstanding credit for institutes and distributors.",
     app: "Android and iOS apps from ₹40,000 for coaching students to get tests and notices or for retailers to re-order, listed on Google Play and the App Store.",
-    maintenance: "Upkeep costs nothing for five months after launch; after that, ongoing care is ₹8,000 a month onwards.",
+    maintenance: "Upkeep costs nothing for two months after launch; after that, ongoing care is ₹8,000 a month onwards.",
   },
   whyUsIntro:
     "Palamu has seen its share of promises that went nowhere, so people here judge by what is written down. That suits us. Starting prices are public, quotes arrive broken into parts, WhatsApp gets answered every day including Sunday, and your domain, hosting, code and app store accounts sit under your name. If something will not pay off, you hear it from us first.",
@@ -176,7 +176,7 @@ const medininagar: CityContent = {
       heading: "Who owns your Medininagar website, and how it is looked after",
       paragraphs: [
         "Across Palamu we hear about websites that stopped working because the builder kept the domain in his own account and then switched off his phone. We make sure that cannot happen to you. The domain, hosting, source code, Google Business Profile and both app store developer accounts are created in your name, and the passwords are handed to you in writing.",
-        "For five months after launch there is no charge for upkeep. That covers text and price edits, backups, security and software updates, and regular tests of forms, UPI links and WhatsApp buttons. After the free period, continued care is ₹8,000 a month onwards if you want it, and you can hand everything to another developer whenever you choose.",
+        "For two months after launch there is no charge for upkeep. That covers text and price edits, backups, security and software updates, and regular tests of forms, UPI links and WhatsApp buttons. After the free period, continued care is ₹8,000 a month onwards if you want it, and you can hand everything to another developer whenever you choose.",
         "Google and Apple change their app store rules each year. We track those changes and release the required updates in time, so your app is not taken down.",
       ],
     },
@@ -268,7 +268,7 @@ const medininagar: CityContent = {
     {
       question: "What happens after my Daltonganj website is live?",
       answer:
-        "You get five months of upkeep at no charge, covering edits, backups, security updates and checks on forms and payments. After that, care is ₹8,000 a month onwards, only if you want it. Every account is in your name, so switching to another developer later is simple.",
+        "You get two months of upkeep at no charge, covering edits, backups, security updates and checks on forms and payments. After that, care is ₹8,000 a month onwards, only if you want it. Every account is in your name, so switching to another developer later is simple.",
     },
     {
       question: "Do you work with businesses in Garhwa, Latehar and the Palamu blocks?",

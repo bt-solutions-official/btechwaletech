@@ -35,7 +35,7 @@ const neyveli: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "NLC vendor profiles", "Panruti produce stores", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "For Neyveli businesses, our websites start from ₹10,000 and normally go live in one to two weeks. A 299+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Neyveli office, and every launch includes five months of free maintenance.",
+    "For Neyveli businesses, our websites start from ₹10,000 and normally go live in one to two weeks. A 299+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Neyveli office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "District", value: "Neyveli Township lies in Cuddalore district, about 197 km south of Chennai and a short drive inland from the Bay of Bengal" },
     { label: "Anchor employer", value: "NLC India Limited, founded in 1956, runs lignite mines I, IA and II and several thermal power stations here" },
@@ -52,10 +52,10 @@ const neyveli: CityContent = {
     ai: "WhatsApp assistants answering fee, slot and stock questions in Tamil or English, then handing tricky chats to staff.",
     data: "Dashboards for contract billing, crew attendance or tuition batch strength, built from the spreadsheets you already keep.",
     app: "Android and iOS apps for site supervisors, delivery boys and tuition students on budget phones, available on both stores from ₹40,000.",
-    maintenance: "Five months of free updates and security care after launch; later maintenance runs from ₹8,000 a month.",
+    maintenance: "Two months of free updates and security care after launch; later maintenance runs from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Neyveli owners often end up choosing between a Chennai or Puducherry agency that charges city rates and a part-time designer who vanishes after handover. We publish starting prices, write natural Tamil, answer on WhatsApp every day of the week, and look after the site for five months after launch at no extra cost.",
+    "Neyveli owners often end up choosing between a Chennai or Puducherry agency that charges city rates and a part-time designer who vanishes after handover. We publish starting prices, write natural Tamil, answer on WhatsApp every day of the week, and look after the site for two months after launch at no extra cost.",
   pricingIntro:
     "Treat these amounts as the floor for Neyveli projects, not as packages. The real figure depends on page count, languages, products and features. You receive an itemised written quote first, and nothing is charged until you approve it in writing.",
   sections: [
@@ -174,11 +174,11 @@ const neyveli: CityContent = {
     },
     {
       id: "ownership-maintenance-neyveli",
-      heading: "You own the site, and the first five months of care are free",
+      heading: "You own the site, and the first two months of care are free",
       paragraphs: [
         "A common story in the township: a relative or a local designer built a website years ago, registered the domain in their own name, and then moved away. When the renewal date passed, the site and the business email disappeared together.",
         "We avoid that from day one. The domain and hosting are registered in your name, you receive every login at launch, and the source code belongs to you. If you ever want another developer, you can move without an exit fee, and we give you a short handover note explaining how everything fits together.",
-        "For five months after launch we handle updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can simply contact us when you need a change. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
+        "For two months after launch we handle updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can simply contact us when you need a change. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const neyveli: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle content edits, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch we handle content edits, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
     },
     {
       question: "How quickly will SEO show results in Neyveli?",

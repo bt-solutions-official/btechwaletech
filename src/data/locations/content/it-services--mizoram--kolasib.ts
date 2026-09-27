@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Lead capture that gets answered", "Software from ₹60,000", "Android & iOS apps from ₹40,000", "Websites from ₹10,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "IT solutions in Kolasib from BtechWaleTech, a freelance group of three engineers working remotely from India: business websites with lead forms from ₹10,000 (1 to 2 weeks), enquiry automation and Android and iOS apps from ₹40,000, and custom logistics or stock software from ₹60,000 (6 to 12 weeks). No Kolasib office; five months of maintenance free.",
+    "IT solutions in Kolasib from BtechWaleTech, a freelance group of three engineers working remotely from India: business websites with lead forms from ₹10,000 (1 to 2 weeks), enquiry automation and Android and iOS apps from ₹40,000, and custom logistics or stock software from ₹60,000 (6 to 12 weeks). No Kolasib office; two months of maintenance free.",
   snapshot: [
     { label: "Position", value: "Headquarters of Kolasib district in northern Mizoram, the first district reached by road from Assam" },
     { label: "Gateway towns", value: "Vairengte on the Assam border and Bairabi, long the state's railhead, both in the district" },
@@ -58,7 +58,7 @@ const content: CityContent = {
     ai: "AI assistants that answer rate, booking and availability questions on WhatsApp and log each enquiry for follow-up.",
     data: "Dashboards showing trips, loads, dues, stock and enquiries for owners running operations across Kolasib, Vairengte and Aizawl.",
     app: "Android and iOS apps from ₹40,000, one Flutter or React Native build on Google Play and the App Store, for drivers, retailers, parents and field staff in the district.",
-    maintenance: "Remote support with backups, fixes and security updates, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote support with backups, fixes and security updates, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Kolasib businesses sit between Silchar vendors and Aizawl vendors, and often end up with neither answering quickly. As a freelance group we reply on WhatsApp seven days a week, publish starting prices, show progress weekly and hand over every file and login.",
@@ -200,7 +200,7 @@ const content: CityContent = {
       heading: "Hosting, support and maintenance for Kolasib systems",
       paragraphs: [
         "Kolasib systems run on cloud hosting with SSL, daily backups and uptime monitoring, so bookings and records stay available through local power cuts and hardware failures. We set up domains, DNS, hosting and deployments as part of every project.",
-        "Five months of maintenance are free after launch, covering bug fixes, security updates, small changes and backup checks. Afterwards, maintenance continues from ₹8,000 a month, or you contact us only when needed. Support is remote; hardware and networking need a local technician, whom we can guide by phone.",
+        "Two months of maintenance are free after launch, covering bug fixes, security updates, small changes and backup checks. Afterwards, maintenance continues from ₹8,000 a month, or you contact us only when needed. Support is remote; hardware and networking need a local technician, whom we can guide by phone.",
         "Accounts are registered in your name wherever providers allow, and every credential is handed over. We reply on WhatsApp or email seven days a week and restore outages first, explaining causes afterwards.",
       ],
     },
@@ -316,7 +316,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include?",
       answer:
-        "Five months free after launch: bug fixes, security updates, small content changes, backups and uptime checks. After that, plans start at ₹8,000 a month, or you pay per change. Hardware and networking are outside our remote support.",
+        "Two months free after launch: bug fixes, security updates, small content changes, backups and uptime checks. After that, plans start at ₹8,000 a month, or you pay per change. Hardware and networking are outside our remote support.",
     },
     {
       question: "How long before local SEO works?",

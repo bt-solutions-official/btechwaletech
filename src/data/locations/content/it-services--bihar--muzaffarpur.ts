@@ -7,7 +7,7 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Muzaffarpur, Bihar",
     description:
-      "Freelance software developers for Muzaffarpur: litchi trade software, dealer apps, dashboards, AI, online stores and SEO. From ₹10,000, 5 months free support.",
+      "Freelance software developers for Muzaffarpur: litchi trade software, dealer apps, dashboards, AI, online stores and SEO. From ₹10,000, 2 months free support.",
     keywords: [
       "software development team in Muzaffarpur",
       "IT services team in Muzaffarpur",
@@ -40,10 +40,10 @@ const content: CityContent = {
     h1: "Freelance software developers for Muzaffarpur's litchi trade, Bela factories and north Bihar distributors",
     lede:
       "BtechWaleTech is a freelance group of three engineers building software for Muzaffarpur businesses from a distance: harvest and dispatch tools for litchi aggregators, costing and order systems for Bela bag units, dealer apps for Saraiyaganj wholesalers, dashboards, AI enquiry agents and online stores. You talk to the developers directly, prices start where they are published, and we work remotely from India.",
-    pills: ["Dealer and order apps", "Tally-linked dashboards", "Seasonal litchi stores", "AI replies in Hindi and Bajjika-style Hinglish", "5 months free maintenance"],
+    pills: ["Dealer and order apps", "Tally-linked dashboards", "Seasonal litchi stores", "AI replies in Hindi and Bajjika-style Hinglish", "2 months free maintenance"],
   },
   quickAnswer:
-    "Freelance software developers at BtechWaleTech build for Muzaffarpur firms from ₹60,000 for custom software (six to twelve weeks), ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for online stores and ₹10,000 for websites. We are a freelance group of three remote engineers in India; maintenance is free for five months after launch.",
+    "Freelance software developers at BtechWaleTech build for Muzaffarpur firms from ₹60,000 for custom software (six to twelve weeks), ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for online stores and ₹10,000 for websites. We are a freelance group of three remote engineers in India; maintenance is free for two months after launch.",
   snapshot: [
     { label: "Signature produce", value: "Shahi litchi, a GI-tagged variety; Muzaffarpur district is the country's leading litchi-growing area" },
     { label: "Research", value: "ICAR National Research Centre on Litchi at Mushahari, on the city's edge" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents that answer rate, stock and admission questions on WhatsApp, capture orders and hand anything unusual to a staff member.",
     data: "Dashboards showing sales by retailer, outstanding credit, stock ageing and daily production, built on top of Tally, Busy or spreadsheets.",
     app: "Android and iOS apps from ₹40,000 for Muzaffarpur salesmen, retailers, parents and patients, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Bug fixes, backups and updates, free for five months after launch, then from ₹8,000 a month or per request.",
+    maintenance: "Bug fixes, backups and updates, free for two months after launch, then from ₹8,000 a month or per request.",
   },
   whyUsIntro:
     "Muzaffarpur businesses usually choose between a local web designer who stops at the homepage and a distant vendor who stops answering after payment. As freelance developers we sit in between: people who write real software, publish their starting prices, stay on WhatsApp seven days a week and hand over every login.",
@@ -220,7 +220,7 @@ const content: CityContent = {
       id: "support-after-launch-muzaffarpur",
       heading: "IT support and maintenance after your Muzaffarpur software goes live",
       paragraphs: [
-        "IT support after launch keeps software secure, backed up and useful as your business changes. BtechWaleTech includes five months of maintenance free once hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small changes such as a new report column or a revised rate list.",
+        "IT support after launch keeps software secure, backed up and useful as your business changes. BtechWaleTech includes two months of maintenance free once hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small changes such as a new report column or a revised rate list.",
         "After the free period, you can continue from ₹8,000 a month or pay per request. We reply on WhatsApp seven days a week, including during Chhath, Diwali and the litchi season when problems cost the most. Anything that stops sales, such as the ordering app failing or invoices not generating, is handled before cosmetic requests.",
       ],
     },
@@ -290,7 +290,7 @@ const content: CityContent = {
         "Yes. Our Android and iOS apps start at ₹40,000 and take six to ten weeks, built in Flutter or React Native and published on both Google Play and the App Store under your accounts. For salesmen and supervisors in areas with weak signal, the app stores orders, collections and notes offline and syncs automatically when a connection returns.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You choose. You can continue on a monthly plan from ₹8,000 that covers updates, backups, monitoring and small changes, or simply message us when something needs doing and pay for that task. There is no lock-in. Because you hold all the accounts and code, you can also move to another developer at any time.",
     },

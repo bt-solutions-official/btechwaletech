@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["Testing method", "Automated scan plus manual screen reader passes"],
     ["Accessible site build from", `${P.site}, 1–2 weeks`],
     ["Accessible store build from", `${P.shop}, 4–8 weeks`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers testing and fixing your pages" },
     { value: "0", label: "Overlay widgets in our builds" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What makes a website AODA compliant?",
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "WordPress theme remediation", note: "Fixing or replacing themes and page-builder blocks that output inaccessible markup.", href: "/canada/wordpress-website-design/", size: "md" },
       { name: "PDF and document triage", note: "An inventory of downloadable files with a plan: convert to HTML, fix and tag, or archive.", size: "sm" },
       { name: "Bilingual accessibility", note: "Correct language tags on English and French pages so screen readers pronounce each language properly.", href: "/canada/bilingual-website-development/", size: "sm" },
-      { name: "Ongoing accessibility checks", note: `Monthly checks on new pages and content, from ${P.care} after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing accessibility checks", note: `Monthly checks on new pages and content, from ${P.care} after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
         ["Accessible online store", "Product, cart and checkout tested", `From ${P.shop}`, "4–8 weeks"],
         ["Accessible portal or web app", "Logins, dashboards, forms", `From ${P.software}`, "6–12 weeks"],
         ["Audit and remediation of existing site", "Clean theme, fixable components", "Quoted per site", "1–4 weeks"],
-        ["Ongoing accessibility checks", "New pages and content each month", `From ${P.care}`, "After 5 free months"],
+        ["Ongoing accessibility checks", "New pages and content each month", `From ${P.care}`, "After 2 free months"],
       ],
     },
   ],
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "Does an accessible website help SEO?", answer: "Many fixes overlap: clear headings, descriptive links, alt text, captions and lean HTML help search engines and AI assistants understand your pages. It is not a ranking guarantee, and nobody can promise rankings, but accessibility work does not cost you search visibility and often helps page speed." },
     { question: "Can you certify that my website is AODA compliant?", answer: "No. There is no certificate we can issue, and we are developers, not lawyers or a certification body. We give you an issue log showing what was tested, against which WCAG 2.0 criteria, what failed and what was fixed, with dates. Your legal adviser can use it when reviewing your obligations." },
     { question: "Why hire a team in India for AODA website work?", answer: "Accessibility testing and code fixes can be done remotely with the same tools and screen readers, our starting prices are lower than typical local rates, and our evenings overlap Ontario mornings. You keep ownership of all code and accounts. If you want in-person testing with disabled users, pair us with a local testing partner." },
-    { question: "How do I keep my website AODA compliant after launch?", answer: `Train editors and check new content. Our handover includes a short guide on alt text, headings and links, plus a recorded session. After five free months of maintenance, care from ${P.care} can include monthly checks on new pages and any new plugins or tools.` },
+    { question: "How do I keep my website AODA compliant after launch?", answer: `Train editors and check new content. Our handover includes a short guide on alt text, headings and links, plus a recorded session. After two free months of maintenance, care from ${P.care} can include monthly checks on new pages and any new plugins or tools.` },
     { question: "Should a bilingual Ontario website be tested in both languages?", answer: "Yes. Each language version needs the correct lang attribute so screen readers pronounce it properly, and French labels and error messages need the same checks as English ones. We test both, and our bilingual development page covers the rest of the English and French setup." },
   ],
   related: {

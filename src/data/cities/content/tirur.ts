@@ -56,7 +56,7 @@ const tirur: CityContent = {
     ai: "WhatsApp assistants in Malayalam that answer price, stock and timing questions and pass real deals to the owner.",
     data: "Dashboards showing sales by model and dealer, daily fish arrivals and rates, and collections due from retailers.",
     app: "Android and iOS apps for retailers re-ordering from a Tirur wholesaler or patients booking tokens, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Tirur traders compare prices closely and many already sell to buyers in Kozhikode, Thrissur and the Gulf. We publish starting prices, send an itemised written quote, reply on WhatsApp all week and register your domain, hosting, code and app store accounts in your own name. When a feature will not earn its cost, we tell you plainly.",
@@ -177,7 +177,7 @@ const tirur: CityContent = {
       heading: "Ownership and maintenance for Tirur websites and apps",
       paragraphs: [
         "What we build belongs to you from the first day. The domain is registered on your email, hosting is billed in your name, the full source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as the owner. At handover you get a written sheet of every login, so no single person, including us, can hold your business online hostage.",
-        "The first five months after launch include maintenance at no charge. In that time we update prices and offers for festival seasons, take backups, apply security and version updates, and test that enquiry forms, payment and WhatsApp buttons still work. After that you choose freely: continue with us from ₹8,000 a month, manage it in-house or give the code to another developer.",
+        "The first two months after launch include maintenance at no charge. In that time we update prices and offers for festival seasons, take backups, apply security and version updates, and test that enquiry forms, payment and WhatsApp buttons still work. After that you choose freely: continue with us from ₹8,000 a month, manage it in-house or give the code to another developer.",
         "Apps need a yearly update even when nothing is broken, because Google and Apple keep raising the minimum versions they accept. We watch those deadlines and ship the update early, so your listing is never removed for being outdated. Read more about our <a href=\"/services/web-development/\">website development work</a>.",
       ],
     },
@@ -269,7 +269,7 @@ const tirur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after going live cost nothing for upkeep: we handle price and photo edits, backups, patches and routine checks of forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or move on. Because the code and every account are in your name, switching needs no permission from us.",
+        "The first two months after going live cost nothing for upkeep: we handle price and photo edits, backups, patches and routine checks of forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or move on. Because the code and every account are in your name, switching needs no permission from us.",
     },
     {
       question: "Do you work in Tanur, Kuttippuram and Kottakkal too?",

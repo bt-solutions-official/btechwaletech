@@ -38,7 +38,7 @@ const content: CityContent = {
     h1: "Freelance IT services in Punjab for manufacturers, exporters, institutes and NRI-facing businesses",
     lede:
       "BtechWaleTech provides freelance IT services in Punjab. We are a freelance group of three engineers working remotely from India. We build the custom software, dealer portals, billing and stock tools, WhatsApp automations, installable apps, dashboards and search-ready websites that Punjab firms in Ludhiana, Amritsar, Jalandhar, Patiala, Bathinda and Mohali actually use every day, and we publish our starting prices.",
-    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Punjabi, Hindi, English", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Punjabi, Hindi, English", "2 months free maintenance"],
   },
   quickAnswer:
     "Freelance IT services in Punjab from BtechWaleTech start at ₹10,000 for a website (one to two weeks), ₹40,000 for AI or WhatsApp automation (two to four weeks), ₹50,000 for an online store and ₹60,000 for custom software (six to twelve weeks). We are a freelance group of three engineers working remotely from India, with no Punjab office, and every quote is itemised.",
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that reply in Punjabi, Hindi and English, qualify enquiries for immigration firms and coaching centres, and hand serious leads to the right person on your team.",
     data: "Dashboards for sales by dealer, outstanding payments, production and mandi-season purchases, pulling from Tally and spreadsheets into one daily view.",
     app: "Android and iOS apps for Punjab dealers, field teams, students and customers, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Hosting, backups, security updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, security updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Punjab has plenty of IT firms, from Mohali companies serving overseas clients to one-person shops in every district town. Local businesses often fall between the two: too small for a large outsourcer, too important to trust to someone who might disappear. We fill that gap with published prices, direct access to the engineers and full ownership of what we build.",
@@ -183,14 +183,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and deployment means your websites and software run on managed servers with SSL, backups and monitoring, and new versions go live through an automated process rather than someone copying files by hand. For Punjab firms that have lost a website because a developer's hosting account lapsed, putting everything in the owner's name is the most important fix.",
         "We set up domains, DNS, hosting, email deliverability, SSL and backups for every project, using AWS or comparable providers for applications and fast edge networks for websites. Deployments are automated and reversible, so a bad update can be rolled back in minutes.",
-        "After launch, five months of maintenance are free: security and dependency updates, bug fixes, content changes, backups and uptime checks. After that, support plans start at ₹8,000 a month, or you can pay only when you need something. We reply on WhatsApp seven days a week.",
+        "After launch, two months of maintenance are free: security and dependency updates, bug fixes, content changes, backups and uptime checks. After that, support plans start at ₹8,000 a month, or you can pay only when you need something. We reply on WhatsApp seven days a week.",
       ],
     },
     {
       id: "cost-it-services-punjab",
       heading: "How much do IT services cost in Punjab?",
       paragraphs: [
-        "IT services in Punjab with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month, after five free months.",
+        "IT services in Punjab with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software or a web application. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month, after two free months.",
         "These are starting prices. Final cost depends on the number of screens, user roles, integrations with Tally or other tools, how much content is ready, and how fast you need it. The quote lists each module separately, so you can drop or postpone items to fit a budget. See the full table on our <a href='/pricing/'>pricing page</a>.",
         "Payment is simple and transparent: clients pay us in INR by UPI, by scanning our QR code, or by direct bank transfer to our bank account. Larger projects are split into milestones tied to work you have already reviewed on a live preview, so you never pay far ahead of what you can see.",
       ],
@@ -241,7 +241,7 @@ const content: CityContent = {
         "Step 1: call or WhatsApp to understand the business and goal",
         "Step 2: written scope, timeline and itemised quote in about two working days",
         "Step 3: build with a live preview and regular feedback",
-        "Step 4: launch, training, handover and five months of free maintenance",
+        "Step 4: launch, training, handover and two months of free maintenance",
       ],
     },
   ],
@@ -307,7 +307,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes, five months of maintenance are included free after launch. That covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. Afterwards you can choose a plan starting at ₹8,000 a month or pay per request. We reply on WhatsApp seven days a week, including urgent issues on live systems.",
+        "Yes, two months of maintenance are included free after launch. That covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. Afterwards you can choose a plan starting at ₹8,000 a month or pay per request. We reply on WhatsApp seven days a week, including urgent issues on live systems.",
     },
     {
       question: "Do you build Android and iOS apps for Punjab businesses?",

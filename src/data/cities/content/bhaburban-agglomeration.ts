@@ -56,7 +56,7 @@ const bhabua: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer fee, stock, rate and timing questions and hand serious enquiries to you.",
     data: "Season dashboards for paddy bought, rice dispatched, dues outstanding and admissions by village or block.",
     app: "Android and iOS apps for coaching students, parent notices or dealer re-orders, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free upkeep after launch, then maintenance from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free upkeep after launch, then maintenance from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Traders in Bhabua have heard many big promises from outside vendors, so we keep ours small and written down. Starting prices are public, every quote is itemised, WhatsApp is answered seven days a week, and the domain, hosting, code and app store accounts are opened in your name. If a feature will not earn back its cost, we tell you before you pay for it.",
@@ -153,7 +153,7 @@ const bhabua: CityContent = {
       heading: "Website cost in Bhabua: starting prices and what changes them",
       paragraphs: [
         "Owners in Bhabua generally ask the price in the first message, so here are our starting points. A static website of up to 100 pages, enough for a shop, clinic or institute, starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299 pages or more, the kind a coaching group or dealer network uses to cover every course, product and block, starts at ₹20,000 and takes three to five weeks.",
-        "Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software or a web app at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for five months after launch and then starts at ₹8,000 a month if you choose to continue with us.",
+        "Android and iOS apps start at ₹40,000, and so does AI automation. An online store starts at ₹50,000, custom software or a web app at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for two months after launch and then starts at ₹8,000 a month if you choose to continue with us.",
         "Your quote moves up only for the things you pick: Hindi and English versions, large product lists, courier rate tables, UPI checkout, staff logins, report downloads or a link to your accounts package. You can strike out any line. If you write your own text and send phone photos, the cost barely changes.",
         "Local quotes vary widely for jobs that sound alike, so compare carefully. Ask who will own the domain, whether the site is tested on cheap phones, what basic SEO is included, how many revisions are allowed and what support costs after the first year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote reaches you in about two working days.",
       ],
@@ -172,7 +172,7 @@ const bhabua: CityContent = {
       heading: "Ownership and maintenance for Bhabua websites and apps",
       paragraphs: [
         "Everything we build for a Bhabua client is registered to that client. The domain is booked on your email, hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as the owner. You receive a written sheet with every login at handover, so no developer, ourselves included, can hold your site to ransom.",
-        "For the first five months after launch, maintenance costs you nothing. In that period we change rates and photos, take backups, apply security and version updates, and check regularly that forms, UPI payment and WhatsApp buttons still work. After that, you can stay with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without asking our permission.",
+        "For the first two months after launch, maintenance costs you nothing. In that period we change rates and photos, take backups, apply security and version updates, and check regularly that forms, UPI payment and WhatsApp buttons still work. After that, you can stay with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without asking our permission.",
         "Apps need attention even when they seem fine, because Google and Apple raise their minimum requirements every year and remove apps that fall behind. We track those deadlines and push the update early, so your students or customers never find the app missing from the store.",
       ],
     },
@@ -264,7 +264,7 @@ const bhabua: CityContent = {
     {
       question: "What maintenance do I get after the website goes live?",
       answer:
-        "The first five months after launch are free: we update rates and photos, take backups, apply patches and check that forms, UPI payment and WhatsApp links still work. After that, maintenance is optional and starts at ₹8,000 a month. Since every account and the code are already yours, you can move to anyone else at any time.",
+        "The first two months after launch are free: we update rates and photos, take backups, apply patches and check that forms, UPI payment and WhatsApp links still work. After that, maintenance is optional and starts at ₹8,000 a month. Since every account and the code are already yours, you can move to anyone else at any time.",
     },
     {
       question: "Do you also work in Mohania, Kudra, Sasaram and Buxar?",

@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Consulting before code", "Tamil and English interfaces", "Apps from ₹40,000", "Software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions across Tamil Nadu as a remote freelance group of three engineers. Static websites start from ₹10,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, taking one to twelve weeks, with five months of maintenance free.",
+    "BtechWaleTech provides IT consulting and IT solutions across Tamil Nadu as a remote freelance group of three engineers. Static websites start from ₹10,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, taking one to twelve weeks, with two months of maintenance free.",
   snapshot: [
     { label: "Capital and major cities", value: "Chennai is the capital; Coimbatore, Madurai, Tiruchirappalli, Salem, Tiruppur, Tirunelveli, Erode and Vellore are major urban centres" },
     { label: "Automotive and electronics", value: "Vehicle and component plants around Sriperumbudur, Oragadam and Hosur, with electronics manufacturing along the Chennai-Bengaluru corridor" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read and reply in Tamil and English on WhatsApp, capture leads, book service visits and summarise documents, with staff approving sensitive replies.",
     data: "Dashboards for owners who run plants, branches or dealer networks across Tamil Nadu, pulling from Tally, spreadsheets and your own software automatically.",
     app: "Android and iOS apps for Tamil Nadu dealers, technicians, students and customers, made in Flutter or React Native and listed on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after going live, and optional monthly support from ₹8,000 with seven-day WhatsApp replies.",
+    maintenance: "Two months of free maintenance after going live, and optional monthly support from ₹8,000 with seven-day WhatsApp replies.",
   },
   whyUsIntro:
     "Tamil Nadu business owners tend to build long relationships with suppliers they trust. We earn that the slow way: three engineers who explain every recommendation, publish starting prices, put all accounts in your name and stay reachable after launch.",
@@ -195,7 +195,7 @@ const content: CityContent = {
       paragraphs: [
         "IT solutions in Tamil Nadu with BtechWaleTech start from ₹10,000 for a static website and ₹60,000 for custom software, with Android and iOS apps and AI automation from ₹40,000 each and online stores from ₹50,000. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after the free period.",
         "These are starting figures. Your price depends on the number of screens and user roles, integrations with Tally, ERPs or payment systems, language versions, data migration, and how much content we write. After a consulting call, you receive an itemised estimate in about two working days so you can remove or defer features to fit your budget.",
-        "Payment is simple. Clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Larger projects are split into milestones: an advance to begin, a payment on approving the working preview, and the balance at launch. Five months of maintenance after launch are included free. You can compare all plans on our <a href='/pricing/'>pricing page</a> and see finished work in our <a href='/portfolio/'>portfolio</a>.",
+        "Payment is simple. Clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Larger projects are split into milestones: an advance to begin, a payment on approving the working preview, and the balance at launch. Two months of maintenance after launch are included free. You can compare all plans on our <a href='/pricing/'>pricing page</a> and see finished work in our <a href='/portfolio/'>portfolio</a>.",
       ],
     },
     {
@@ -204,7 +204,7 @@ const content: CityContent = {
       paragraphs: [
         "A remote IT project with a Tamil Nadu client runs through scheduled video calls, WhatsApp updates and a live preview link, with no office visits. Most clients find it faster than meeting-based projects because decisions happen in minutes on chat rather than waiting for the next appointment.",
         "The rhythm is predictable. After the consulting call and quote approval, we share a short plan with milestones. In the first week you see a working preview. Each week brings a brief update listing what was finished, what is next and what we need from you, such as product photos, price lists or approvals. Testing involves the people who will use the system, and we record short screen-share training videos they can revisit in Tamil or English.",
-        "After launch, support continues on WhatsApp seven days a week, with five months of maintenance included. Because we are remote, we cannot fix printers, networks or CCTV on site; for that, keep a trusted local technician. For everything software-related, remote support is usually quicker. Learn more about the three of us on the <a href='/about/'>about page</a>, or see how we approach other states on our <a href='/india/'>India hub</a>.",
+        "After launch, support continues on WhatsApp seven days a week, with two months of maintenance included. Because we are remote, we cannot fix printers, networks or CCTV on site; for that, keep a trusted local technician. For everything software-related, remote support is usually quicker. Learn more about the three of us on the <a href='/about/'>about page</a>, or see how we approach other states on our <a href='/india/'>India hub</a>.",
       ],
     },
   ],
@@ -286,7 +286,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of maintenance are included free after hosting goes live: bug fixes, content changes, security updates, backups and uptime and speed checks. Afterwards you can continue from ₹8,000 per month or pay per change. We reply on WhatsApp seven days a week; hardware and network issues need a local technician.",
+        "Two months of maintenance are included free after hosting goes live: bug fixes, content changes, security updates, backups and uptime and speed checks. Afterwards you can continue from ₹8,000 per month or pay per change. We reply on WhatsApp seven days a week; hardware and network issues need a local technician.",
     },
     {
       question: "Do you work with businesses outside Chennai and Coimbatore?",

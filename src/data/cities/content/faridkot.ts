@@ -56,7 +56,7 @@ const faridkot: CityContent = {
     ai: "WhatsApp assistants in Punjabi and Hindi that answer rates, fees, OPD timings and admission questions, then hand over to you.",
     data: "Season dashboards of crop arrivals, farmer balances, dispatches and payments pending by buyer.",
     app: "Android and iOS apps for patients to book tokens or for coaching students to follow classes, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Faridkot business families tend to deal with people they can hold to their word. We publish starting prices, send itemised quotes in writing, reply on WhatsApp every day including Sundays, and register your domain, hosting, code and app store accounts in your own name. When a feature will not pay for itself, we say that before you spend on it.",
@@ -169,7 +169,7 @@ const faridkot: CityContent = {
       paragraphs: [
         "Since we are not in Faridkot, we write everything down. The first call covers your business, your customers and what the site or app has to do. You then receive a page or screen plan, a timeline and an itemised quote. After approval we share preview links that you can open on your phone, show your partners or children, and comment on. Nothing is billed before written approval, and payments follow progress you can see.",
         "We reply on WhatsApp seven days a week on Indian Standard Time. Punjabi text is sent to you for checking before it is published, and if a delay comes up we tell you when we know, not on the delivery date.",
-        "We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your name and hand over logins in writing. Maintenance is free for five months after launch: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to carry on, and you may move to another developer whenever you choose. Apps also get the yearly updates Google and Apple now demand, so they stay in the stores.",
+        "We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your name and hand over logins in writing. Maintenance is free for two months after launch: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to carry on, and you may move to another developer whenever you choose. Apps also get the yearly updates Google and Apple now demand, so they stay in the stores.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const faridkot: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, covering content changes, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue. You can take your code to another developer at any time.",
+        "The first two months of maintenance are free, covering content changes, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue. You can take your code to another developer at any time.",
     },
     {
       question: "Do you work in Kotkapura, Jaitu and nearby districts?",

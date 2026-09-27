@@ -7,7 +7,7 @@ const bhopal: CityContent = {
   meta: {
     title: "IT Services in Bhopal: Websites, Apps, SEO & AI",
     description:
-      "Website design, local SEO and WhatsApp automation for Bhopal businesses. Sites from ₹10,000, SEO sites from ₹20,000, itemised quotes and 5 months free upkeep.",
+      "Website design, local SEO and WhatsApp automation for Bhopal businesses. Sites from ₹10,000, SEO sites from ₹20,000, itemised quotes and 2 months free upkeep.",
     keywords: [
       "website development team in Bhopal",
       "website designer in Bhopal",
@@ -35,7 +35,7 @@ const bhopal: CityContent = {
     pills: ["Business sites from ₹10,000", "Hindi and English SEO", "UPI-ready online stores", "WhatsApp lead handling", "Vendor and dealer portals"],
   },
   quickAnswer:
-    "A business website for a Bhopal firm costs from ₹10,000 with us, and a 299+ page site planned for Google searches costs from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person team, so quotes carry no office overhead, and five months of maintenance after launch are free.",
+    "A business website for a Bhopal firm costs from ₹10,000 with us, and a 299+ page site planned for Google searches costs from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person team, so quotes carry no office overhead, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "Commercial centres", value: "MP Nagar Zone I and II, New Market at TT Nagar, Arera Colony, 10 Number Market and Chowk Bazaar in the old city" },
     { label: "Industrial areas", value: "Govindpura industrial estate beside BHEL, and Mandideep on the Bhopal–Hoshangabad highway about 22 km away" },
@@ -52,7 +52,7 @@ const bhopal: CityContent = {
     ai: "Automated enquiry capture, reply templates and AI assistants that answer admission, appointment and price questions in Hindi or English around the clock.",
     data: "Dashboards that bring together sales, dispatch or admissions numbers so an owner in Bhopal can check the day's position from a phone.",
     app: "Android and iOS apps for patient bookings, student portals and field staff check-ins, published on both Google Play and the App Store from ₹40,000.",
-    maintenance: "Backups, security updates, content changes and speed checks, free for the first five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, security updates, content changes and speed checks, free for the first two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Search for a web designer in Bhopal and you will find everything from MP Nagar agencies to college students offering ₹2,000 sites. Very few list a price, and fewer explain who owns the domain afterwards. We publish our starting rates, put every asset in your name, and answer WhatsApp messages seven days a week.",
@@ -177,7 +177,7 @@ const bhopal: CityContent = {
       paragraphs: [
         "A surprising number of Bhopal businesses do not control their own website. The domain was bought by a previous designer, the renewal emails go to an address nobody checks, and one day the site simply disappears. Getting it back can take weeks of chasing, and sometimes the domain is lost for good.",
         "We avoid that from day one. The domain is registered in your name, the hosting account is opened in your name, and at launch you receive every login along with a one-page note of what runs where. The source code is yours. If you later want another developer, you hand them the keys and there is no exit fee or notice period.",
-        "For five months after launch, maintenance costs nothing: content edits, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month, or simply message us when you need something changed and pay for that work alone.",
+        "For two months after launch, maintenance costs nothing: content edits, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month, or simply message us when you need something changed and pay for that work alone.",
       ],
     },
   ],
@@ -262,7 +262,7 @@ const bhopal: CityContent = {
         "You do. The domain and hosting are registered in your name, and you receive all logins and the source code at launch. There is no lock-in and no exit fee, so you can move to another developer whenever you choose.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You can continue with a maintenance plan from ₹8,000 a month, covering updates, backups, security patches and small content edits, or you can stop and contact us only when something needs doing. Either way, the site keeps running on hosting you own.",
     },

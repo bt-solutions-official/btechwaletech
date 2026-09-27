@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Checkout", "UPI and cards, your rules"],
     ["Platform fee per order", "None on a custom build"],
     ["Code and data", "Yours, hosted on your account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "0", label: "Per-order platform fees on a custom store" },
     { value: "4", label: "Weeks for the quickest custom store builds" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "3", label: "Developers who know your store's code" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Cost that grows on custom", value: "Hosting and upkeep, not per order" },
       { label: "Custom store with us", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Middle path", value: "Headless Shopify or custom apps on Shopify" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Custom store pricing against Shopify's running costs",
-    note: `A custom ecommerce website with us starts at ${P.shop} (about ${P.shopUsd}) and covers catalogue, cart, UPI and card checkout, order management and an admin panel. B2B portals and marketplace features are priced like custom web apps, from ${P.software}. Unlike Shopify, the build is a one-time project, and ongoing costs are hosting plus maintenance from ${P.care} after five free months. Shopify's costs work the other way: low to start, then growing with plan upgrades, app subscriptions and, if you use a third-party gateway, a percentage of every sale. The right choice depends on which curve your business sits on over the next three years.`,
+    note: `A custom ecommerce website with us starts at ${P.shop} (about ${P.shopUsd}) and covers catalogue, cart, UPI and card checkout, order management and an admin panel. B2B portals and marketplace features are priced like custom web apps, from ${P.software}. Unlike Shopify, the build is a one-time project, and ongoing costs are hosting plus maintenance from ${P.care} after two free months. Shopify's costs work the other way: low to start, then growing with plan upgrades, app subscriptions and, if you use a third-party gateway, a percentage of every sale. The right choice depends on which curve your business sits on over the next three years.`,
   },
   guideLabel: "Shopify vs custom ecommerce website guide",
   guide: [
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `On Shopify you own your data and brand, but not the platform; on a custom build you own the code too. Both are valid; they carry different responsibilities.`,
         `Shopify lets you export products, customers and orders, but your theme, app configurations and checkout logic stay tied to Shopify. If Shopify changes pricing or policies, you adapt. With a custom build, the source code, database and hosting are in your name, and any developer can take over. In return, someone must handle hosting, security updates and backups.`,
-        `We put the code in a repository you own, host on your cloud account and document the setup. The first five months after launch include free maintenance; after that, upkeep starts at ${P.care}, or your own developer takes over.`,
+        `We put the code in a repository you own, host on your cloud account and document the setup. The first two months after launch include free maintenance; after that, upkeep starts at ${P.care}, or your own developer takes over.`,
       ],
     },
     {
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "If custom makes sense, you get a line-by-line quote within about two working days. Nothing is billed before you approve it in writing."],
       ["Build on a staging store", "We build on a private staging link with your real products, rules and payment tests, while your Shopify store keeps selling."],
       ["Migrate and redirect", "Products, customers and order history move across, every old URL is redirected, and the domain switches at a quiet time."],
-      ["Launch and five free months", "We watch orders and Search Console closely after launch. Maintenance is free for five months, then upkeep is optional."],
+      ["Launch and two free months", "We watch orders and Search Console closely after launch. Maintenance is free for two months, then upkeep is optional."],
     ],
   },
   faqHeading: "Shopify vs custom ecommerce website: questions sellers ask",
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
     { question: "Is Shopify or a custom ecommerce website better for a small business in India?", answer: `For a new small business with a normal retail catalogue, Shopify is usually better: it launches in days and needs no developer. A custom ecommerce website becomes better when you need dealer pricing, B2B ordering, marketplace features or checkout rules Shopify's standard plans cannot handle. BtechWaleTech builds custom stores from ${P.shop} in 4–8 weeks.` },
     { question: "What are the main limitations of Shopify for Indian sellers?", answer: "The most common limits are checkout customisation (listed as limited on standard plans), transaction fees when using a third-party payment gateway, dependence on paid apps for COD rules, GST invoice formats and wholesale pricing, and a platform built for one seller per store. Many sellers never hit these; B2B and high-volume sellers often do." },
     { question: "Does Shopify charge a transaction fee in India?", answer: "According to Shopify's India pricing page, stores using a third-party payment provider pay a Shopify transaction fee of 2% on Basic, 1% on Grow, 0.6% on Advanced and 0.2% on Plus, on top of the gateway's own charges. Check the current page before deciding, as plans and fees can change. A custom store pays gateway charges only." },
-    { question: "How much does a custom ecommerce website cost compared with Shopify?", answer: `A custom store has a one-time build cost and then hosting plus maintenance; Shopify has lower start-up costs but ongoing plan, app and possibly transaction fees. With BtechWaleTech, custom stores start at ${P.shop}, B2B portals from ${P.software}, and maintenance from ${P.care} after five free months. Compare both over three years using your real order volume.` },
+    { question: "How much does a custom ecommerce website cost compared with Shopify?", answer: `A custom store has a one-time build cost and then hosting plus maintenance; Shopify has lower start-up costs but ongoing plan, app and possibly transaction fees. With BtechWaleTech, custom stores start at ${P.shop}, B2B portals from ${P.software}, and maintenance from ${P.care} after two free months. Compare both over three years using your real order volume.` },
     { question: "When should I move from Shopify to a custom website?", answer: "Consider moving when several of these are true: you pay for many apps doing core store jobs, checkout or COD rules cannot be implemented cleanly, wholesale or dealer sales are a major channel, you want multiple vendors, transaction fees are significant, or integrations with accounting and ERP keep breaking. One or two signs usually mean fixing things on Shopify first." },
     { question: "Is a custom ecommerce website better for SEO than Shopify?", answer: "It gives more control over URLs, page speed and category structure, which helps when used well. But Shopify stores can rank strongly too, and a poorly built custom store ranks badly. What matters most is useful product content, clean structure, product schema and fast pages on mobile. No platform or developer can guarantee rankings." },
     { question: "Can a custom ecommerce website accept UPI and COD?", answer: "Yes. A custom store connects directly to an Indian payment gateway supporting UPI, cards, net banking and wallets, and COD is handled by rules you set, such as allowing it only for certain pincodes, below a set order value, or with a handling fee. These rules are written into the checkout rather than added through apps." },
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "What is headless Shopify and is it a good middle option?", answer: "Headless Shopify keeps Shopify's admin, inventory and checkout but replaces the storefront with a custom front end. It improves speed and design freedom and reduces theme app clutter. It does not remove checkout limits on standard plans or transaction fees, so it suits brands whose main problem is the storefront rather than checkout or pricing rules." },
     { question: "Will I lose my Google rankings if I leave Shopify?", answer: "Not if the migration is planned. Every old URL should be mapped to a new one with permanent redirects, page titles and content preserved or improved, the sitemap resubmitted in Google Search Console, and crawl errors watched daily after the switch. Rankings can fluctuate briefly; losses usually come from skipped redirects or deleted content." },
     { question: "Can I move my customers and orders from Shopify to a custom store?", answer: "Yes. Products, customers and order history can be exported from Shopify and imported into the new store. Shopify's customer export does not include passwords, so customers set a new password on first login; an email explaining this before the switch avoids confusion. Discount codes and gift cards are recreated where possible." },
-    { question: "Who maintains a custom ecommerce website after launch?", answer: `With a custom store, hosting, security updates and backups become your developer's job rather than Shopify's. BtechWaleTech includes five months of free maintenance after launch, then offers upkeep from ${P.care}. The code and hosting are in your name, so you can also hand it to your own developer at any time.` },
+    { question: "Who maintains a custom ecommerce website after launch?", answer: `With a custom store, hosting, security updates and backups become your developer's job rather than Shopify's. BtechWaleTech includes two months of free maintenance after launch, then offers upkeep from ${P.care}. The code and hosting are in your name, so you can also hand it to your own developer at any time.` },
     { question: "How long does it take to build a custom ecommerce website?", answer: "With BtechWaleTech, a custom store usually takes 4–8 weeks, depending on catalogue size, pricing rules, integrations and design. B2B portals and marketplaces take longer. Your Shopify store keeps selling during the build, and the switch happens only after the new store has been tested with real orders on a staging link." },
     { question: "Is WooCommerce a better alternative than a fully custom store?", answer: "WooCommerce is a good middle ground for sellers who want a familiar admin, plugins and no per-order platform fee, while keeping self-hosting. It can suffer from plugin creep much like Shopify's apps. Fully custom suits complex B2B, marketplace or checkout rules. Our Shopify vs WooCommerce guide compares the two platforms directly." },
     { question: "Shopify chhod kar custom website banwana sahi hai kya?", answer: `Agar aapke paas bahut saare paid apps hain, wholesale ya dealer pricing chahiye, ya checkout mein COD aur GST rules nahi lag rahe, toh custom website sahi rehti hai. Chhote retail store ke liye Shopify hi theek hai. BtechWaleTech ke saath custom store ${P.shop} se shuru hota hai aur 4–8 hafte mein ban jaata hai.` },

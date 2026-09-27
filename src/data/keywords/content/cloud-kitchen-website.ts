@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Ordering site timeline", "4–8 weeks"],
     ["Our cut of your orders", "None"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "0", label: "Per-order commission to us" },
     { value: "3", label: "Developers who know your kitchen setup" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
   ],
   answer: {
     heading: "How can a cloud kitchen take direct orders and cut aggregator commission?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Payments", value: "UPI, cards, COD only where you allow" },
       { label: "Delivery", value: "Own riders or third-party partner hand-off" },
       { label: "Customer data", value: "Stored in your database, with consent" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -129,7 +129,7 @@ const content: FreelanceContent = {
       heading: "What does “zero-commission ordering” really mean?",
       paragraphs: [
         `It means nobody takes a percentage of the food bill for listing or passing on the order. It does not mean the order costs you nothing. Every direct order still carries a payment fee, delivery cost and packaging, and the site itself needs hosting.`,
-        `Some ordering products advertise zero commission but charge a monthly fee, a per-order fee or both. That can be a fair model; just compare it on a full year of your expected orders. With a custom cloud kitchen website from us, you pay a one-time build price, then hosting, domain and payment fees go to those providers directly. Maintenance is free for five months and optional after that from ${P.care}.`,
+        `Some ordering products advertise zero commission but charge a monthly fee, a per-order fee or both. That can be a fair model; just compare it on a full year of your expected orders. With a custom cloud kitchen website from us, you pay a one-time build price, then hosting, domain and payment fees go to those providers directly. Maintenance is free for two months and optional after that from ${P.care}.`,
         `The honest comparison is cost per order across a year, at your likely direct volume. At very low volumes a WhatsApp menu site is the cheapest route. At higher volumes a full ordering site is worth more because checkout, delivery hand-off and the kitchen screen save staff time on every order.`,
       ],
     },
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The following scenario is made up to illustrate a build; it is not a client or a result. A kitchen in Gurgaon runs three delivery brands from one space: a biryani brand, a rolls brand and a healthy-bowls brand. Almost all orders come through aggregators, and the owner wants regulars to order direct.`,
         `We would propose a custom ordering site starting at ${P.shop}. The biryani and bowls brands get their own domains, because they have the strongest names; the rolls brand sits as a page on the biryani site so customers can combine them in one cart. One item library feeds all three, and marking chicken out of stock hides every chicken dish across brands. Checkout takes UPI and cards; COD is off. Orders within a set radius go to the kitchen’s own riders, and beyond that or during peaks to a delivery partner through its API.`,
-        `A kitchen screen shows all three brands in one queue with a pause switch. Every aggregator bag carries a QR card offering a small direct-only extra. Customers who opt in get order updates on WhatsApp and a reorder link. Free maintenance for five months covers menu changes and the first round of tweaks after staff feedback.`,
+        `A kitchen screen shows all three brands in one queue with a pause switch. Every aggregator bag carries a QR card offering a small direct-only extra. Customers who opt in get order updates on WhatsApp and a reorder link. Free maintenance for two months covers menu changes and the first round of tweaks after staff feedback.`,
       ],
     },
     {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
         ["Multi-brand ordering web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Several brands, partner APIs, POS link"],
         ["WhatsApp ordering automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Kitchens with heavy chat volume"],
         ["Android & iOS ordering app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Proven direct demand, weekly regulars"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu changes, updates, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu changes, updates, fixes"],
       ],
       hideSm: [2],
     },
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Send menus and rules", "We send a sheet for dishes, prices per channel, add-ons, timings and ingredients to link for stock-outs. That sheet becomes every brand menu."],
       ["Test real orders on staging", "Your staff place test orders to real addresses, try stock-outs and pauses, and check the kitchen screen during a normal shift."],
       ["Launch in your accounts", "Domains, hosting, payment provider and delivery partner accounts stay in your name. We connect them, go live and hand over every login."],
-      ["Five months of free support", `Menu changes, new brands on the existing system, fixes and updates are covered for five months, then optional from ${P.care}.`],
+      ["Two months of free support", `Menu changes, new brands on the existing system, fixes and updates are covered for two months, then optional from ${P.care}.`],
     ],
   },
   faqHeading: "Cloud kitchen website: questions kitchen owners ask",

@@ -7,7 +7,7 @@ const neemuch: CityContent = {
   meta: {
     title: "Neemuch Website & SEO for Herb and Spice Traders",
     description:
-      "Websites, export catalogues, SEO and WhatsApp automation for Neemuch mandi traders, herb exporters, processors and clinics. Sites from ₹10,000, free upkeep 5 months.",
+      "Websites, export catalogues, SEO and WhatsApp automation for Neemuch mandi traders, herb exporters, processors and clinics. Sites from ₹10,000, free upkeep 2 months.",
     keywords: [
       "website development team in Neemuch",
       "web designer Neemuch",
@@ -31,11 +31,11 @@ const neemuch: CityContent = {
     eyebrow: "Neemuch · Malwa, Madhya Pradesh",
     h1: "Websites and automation for Neemuch's herb, spice and mandi businesses",
     lede:
-      "Three remote engineers building websites, export catalogues, trading software and WhatsApp workflows for Neemuch commission agents, herb and spice exporters, dal and oil mills, schools and clinics. We publish our starting prices, you deal with the developers themselves, and maintenance costs nothing for five months after your site goes live.",
+      "Three remote engineers building websites, export catalogues, trading software and WhatsApp workflows for Neemuch commission agents, herb and spice exporters, dal and oil mills, schools and clinics. We publish our starting prices, you deal with the developers themselves, and maintenance costs nothing for two months after your site goes live.",
     pills: ["Sites from ₹10,000", "Herb export catalogues", "Mandi trader software", "Hindi and English pages", "You own every login"],
   },
   quickAnswer:
-    "A Neemuch business website with us starts from ₹10,000, and a 299+ page SEO website from ₹20,000, delivered in about one to five weeks. Export stores start from ₹50,000 and trading software from ₹60,000. We are a remote three-engineer team with no Neemuch office, and every launch includes five months of free maintenance.",
+    "A Neemuch business website with us starts from ₹10,000, and a 299+ page SEO website from ₹20,000, delivered in about one to five weeks. Export stores start from ₹50,000 and trading software from ₹60,000. We are a remote three-engineer team with no Neemuch office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Administration", value: "District headquarters in Ujjain division, bordering Rajasthan; city, Cantt (Chhavani) and Baghana" },
     { label: "Krishi Upaj Mandi", value: "Described by the district as Asia's largest agricultural produce market yard" },
@@ -52,7 +52,7 @@ const neemuch: CityContent = {
     ai: "WhatsApp assistants that share specifications and minimum order details with buyers, log every lead and forward serious enquiries to you.",
     data: "Arrival, purchase and sales dashboards so a trader can compare commodities and seasons without digging through registers.",
     app: "Android and iOS apps for buying agents in villages to record lots and weights, syncing once back in range, from ₹40,000 on both stores.",
-    maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you want us to carry on.",
+    maintenance: "Free updates, fixes and backups for two months after launch, then maintenance from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:
     "Many Neemuch businesses get their website from someone in Indore or Udaipur, or from a directory sales executive, with little clarity on price or ownership. We publish our starting prices, register everything in your name and keep answering on WhatsApp seven days a week after launch.",
@@ -161,7 +161,7 @@ const neemuch: CityContent = {
       paragraphs: [
         "A common problem in smaller cities is the website that simply disappears. The domain was registered by a former developer, the renewal email went to his address, and nobody noticed until customers said the site was gone. Recovering a lost domain can take weeks, and sometimes it cannot be done.",
         "We avoid that by registering the domain and hosting in your name from day one. At launch you receive every login, the full source code and a short note explaining what runs where. You can hand the site to another developer whenever you like, with no exit fee.",
-        "For the first five months after launch, maintenance is free: content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For the first two months after launch, maintenance is free: content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -264,9 +264,9 @@ const neemuch: CityContent = {
         "You will. The domain and hosting are registered in your name, and you receive every login and the complete source code at launch. You can move to any other developer at any time without an exit fee. We insist on this because lost domain access is one of the most common problems with older websites.",
     },
     {
-      question: "What is covered in the five months of free maintenance?",
+      question: "What is covered in the two months of free maintenance?",
       answer:
-        "Content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all without charge for five months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed and pay for that work.",
+        "Content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all without charge for two months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed and pay for that work.",
     },
     {
       question: "Can you guarantee first-page Google results?",

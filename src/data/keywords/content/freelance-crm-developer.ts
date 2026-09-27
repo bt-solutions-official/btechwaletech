@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["WhatsApp and AI add-ons", `Automation from ${P.ai}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Data ownership", "Database and code in your account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your CRM’s code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Per-user licence fees on your own CRM" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "WhatsApp or AI automation", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Sales app for phones", value: `From ${P.app}, 6–10 weeks` },
       { label: "Ownership", value: "Code, database and hosting in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,13 +90,13 @@ const content: FreelanceContent = {
       ["Where data lives", "Vendor’s servers", "Wherever they host it", "Your hosting account, your database"],
       ["Changing a workflow later", "Limited by the product", "Need the same person again", "Code in your repo; any developer can edit"],
       ["If a developer is unavailable", "Vendor support", "Project may stall", "Two teammates already know the code"],
-      ["After launch", "Included in subscription", "Paid per change", `5 months free, then from ${P.care}`],
+      ["After launch", "Included in subscription", "Paid per change", `2 months free, then from ${P.care}`],
     ],
     fine: "If a standard SaaS CRM already fits your sales steps and your team is small, keep it and let us integrate it with your website or WhatsApp instead of building from scratch.",
   },
   pricing: {
     heading: "Freelance CRM developer pricing: modules, not seats",
-    note: `A custom CRM starts at ${P.software} for the core: leads, contacts, pipeline stages, tasks, reminders, roles and basic reports. The quote grows with three things: how many integrations you need (website, WhatsApp, telephony, accounting), how many user roles see different screens, and how messy the data you bring from spreadsheets is. There are no per-user licence fees on software you own; you pay only for hosting in your account and optional maintenance from ${P.care} after the five free months. WhatsApp automation and AI features are separate lines starting at ${P.ai}, and Meta’s own messaging charges are paid by you directly.`,
+    note: `A custom CRM starts at ${P.software} for the core: leads, contacts, pipeline stages, tasks, reminders, roles and basic reports. The quote grows with three things: how many integrations you need (website, WhatsApp, telephony, accounting), how many user roles see different screens, and how messy the data you bring from spreadsheets is. There are no per-user licence fees on software you own; you pay only for hosting in your account and optional maintenance from ${P.care} after the two free months. WhatsApp automation and AI features are separate lines starting at ${P.ai}, and Meta’s own messaging charges are paid by you directly.`,
   },
   guideLabel: "Freelance CRM developer guide",
   guide: [
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom CRM takes 6–12 weeks, and we release it in stages so your team starts using the core within the first month or so rather than waiting for everything.`,
         `Weeks one and two: workshops with the owner and one or two salespeople, a written process map, screen wireframes and the itemised quote. Weeks three to five: leads, pipeline, tasks and roles, with spreadsheet import, released to a small group first. Weeks six to eight: integrations such as website forms and WhatsApp, plus reports. Remaining weeks, if needed: the mobile app, AI features and polish based on real use.`,
-        `Adoption matters as much as code. We run a short training call for each role, record it, and keep a WhatsApp thread open for questions during the first weeks. Small fixes are free for five months after go-live, which covers the period when a team discovers what it really needs.`,
+        `Adoption matters as much as code. We run a short training call for each role, record it, and keep a WhatsApp thread open for questions during the first weeks. Small fixes are free for two months after go-live, which covers the period when a team discovers what it really needs.`,
       ],
     },
     {
@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         ["Weeks 3–5", "Leads, pipeline, tasks, roles, import", "Pilot group of users", "Daily use and quick feedback"],
         ["Weeks 6–8", "Website, WhatsApp and ad integrations, reports", "Whole sales team", "WhatsApp Business account setup"],
         ["Weeks 9–12", "Mobile app, automation, refinements", "Field staff and managers", "Test on real visits"],
-        ["Go-live + 5 months", "Fixes and small changes free", "Everyone", "Report issues on WhatsApp"],
+        ["Go-live + 2 months", "Fixes and small changes free", "Everyone", "Report issues on WhatsApp"],
       ],
       hideSm: [2],
     },
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
       ["Set up hosting in your name", "Hosting, the repository and your WhatsApp Business account are created under your business, and we are added as users."],
       ["Pilot the core with a few users", "Leads, pipeline, tasks and import go live to a small group first, so we can fix friction before the whole team joins."],
       ["Add integrations and roll out", "Website forms, WhatsApp, reports and the mobile app follow in stages, with a recorded training call for each role."],
-      ["Five months of free support", "Fixes and small changes are free for five months after go-live. After that, maintenance is optional and starts at " + P.care + "."],
+      ["Two months of free support", "Fixes and small changes are free for two months after go-live. After that, maintenance is optional and starts at " + P.care + "."],
     ],
   },
   faqHeading: "Freelance CRM developer: questions people ask",
@@ -381,9 +381,9 @@ const content: FreelanceContent = {
     { question: "How do payments work for a CRM project?", answer: "Payments are staged against visible milestones such as the approved wireframes, the pilot release and the full rollout. In India BtechWaleTech accepts UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Nothing is billed until you approve the itemised quote in writing." },
     { question: "Will you sign an NDA for our CRM project?", answer: "Many businesses ask for confidentiality before sharing customer data or sales numbers, which is reasonable. Ask us and the terms can be agreed in writing before you share anything sensitive; confidentiality points form part of your written quote. Our general terms are on the terms page of this site." },
     { question: "Is a freelance CRM developer near me better than a remote one?", answer: "Usually not for software like a CRM. Process workshops work well on video, the staging CRM is shared as a link, and training can be recorded for new staff. What matters more is how well the developer understands your sales process and whether code and data stay in your name." },
-    { question: "What happens after the CRM goes live?", answer: `Small fixes and changes are free for five months after go-live, which covers the period when teams discover what they really need. After that, maintenance is optional and starts at ${P.care}, covering updates, backups, security checks and minor changes. You can also hand the code to your own developer.` },
+    { question: "What happens after the CRM goes live?", answer: `Small fixes and changes are free for two months after go-live, which covers the period when teams discover what they really need. After that, maintenance is optional and starts at ${P.care}, covering updates, backups, security checks and minor changes. You can also hand the code to your own developer.` },
     { question: "Can you connect the CRM to our accounting or billing software?", answer: "Often, yes, if the software offers an API or a reliable import format. Typical links include pushing confirmed orders to billing, pulling payment status back to the CRM, and syncing customer details. Each integration is quoted as its own line, with error logs so failed syncs are visible instead of silent." },
-    { question: "Custom CRM banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom CRM ${P.software} se shuru hota hai, jismein leads, pipeline, follow-up reminders, roles aur reports aate hain. WhatsApp automation ${P.ai} se aur sales team ka mobile app ${P.app} se. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 5 mahine support free hai.` },
+    { question: "Custom CRM banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom CRM ${P.software} se shuru hota hai, jismein leads, pipeline, follow-up reminders, roles aur reports aate hain. WhatsApp automation ${P.ai} se aur sales team ka mobile app ${P.app} se. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 2 mahine support free hai.` },
   ],
   related: {
     heading: "Related guides on CRMs, automation and business software",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance CRM developer? Walk us through one sale",
-    note: `Send a voice note on WhatsApp describing how an enquiry becomes an order today. You get an itemised CRM quote in about two working days, with custom CRMs from ${P.software}, data on your own hosting and five months of free support.`,
+    note: `Send a voice note on WhatsApp describing how an enquiry becomes an order today. You get an itemised CRM quote in about two working days, with custom CRMs from ${P.software}, data on your own hosting and two months of free support.`,
   },
 };
 

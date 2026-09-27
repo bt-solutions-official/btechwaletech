@@ -7,7 +7,7 @@ const darbhanga: CityContent = {
   meta: {
     title: "IT Services in Darbhanga: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Darbhanga makhana traders, Mithila art sellers, hospitals and coaching centres. From ₹10,000, with 5 free months of upkeep.",
+      "Websites, SEO and WhatsApp automation for Darbhanga makhana traders, Mithila art sellers, hospitals and coaching centres. From ₹10,000, with 2 free months of upkeep.",
     keywords: [
       "website development team in Darbhanga",
       "website designer Darbhanga",
@@ -31,11 +31,11 @@ const darbhanga: CityContent = {
     eyebrow: "Darbhanga · Bihar",
     h1: "Web, app, SEO and automation services for makhana, Mithila art, medicine and learning",
     lede:
-      "Three remote engineers building websites, online stores and WhatsApp automations for Darbhanga's makhana processors, Mithila painting artists, doctors, labs, schools and coaching institutes. We publish our prices, hand you ownership of the domain and code, and maintain the site for free during the first five months after launch.",
+      "Three remote engineers building websites, online stores and WhatsApp automations for Darbhanga's makhana processors, Mithila painting artists, doctors, labs, schools and coaching institutes. We publish our prices, hand you ownership of the domain and code, and maintain the site for free during the first two months after launch.",
     pills: ["Websites from ₹10,000", "Makhana online stores", "Hindi and English SEO", "Clinic booking pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Darbhanga, a basic website with us costs from ₹10,000 and takes one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, and a makhana or art store from ₹50,000. We are three remote engineers with no Darbhanga office. Five months of maintenance after launch are free.",
+    "In Darbhanga, a basic website with us costs from ₹10,000 and takes one to two weeks, a 299+ page SEO website from ₹20,000 in three to five weeks, and a makhana or art store from ₹50,000. We are three remote engineers with no Darbhanga office. Two months of maintenance after launch are free.",
   snapshot: [
     { label: "Signature product", value: "Mithila Makhana, GI-tagged in 2022; the Mithila wetlands supply most of the world's fox nut" },
     { label: "Art and culture", value: "Heart of Mithila: Maithili language, Madhubani (Mithila) painting, Sanskrit scholarship" },
@@ -52,10 +52,10 @@ const darbhanga: CityContent = {
     ai: "WhatsApp replies that answer routine questions on rates, admissions and OPD timings, and hand real leads to your staff.",
     data: "Procurement, stock and sales dashboards for makhana and agri businesses, visible on a phone at the godown.",
     app: "Android and iPhone apps for home-delivery orders, test series and appointment booking, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free updates, backups and security fixes for five months, then from ₹8,000 a month or pay per change.",
+    maintenance: "Free updates, backups and security fixes for two months, then from ₹8,000 a month or pay per change.",
   },
   whyUsIntro:
-    "Darbhanga has only a handful of local web developers, and many businesses end up with a site made by a relative in Patna or Delhi who is hard to reach later. We publish prices, work directly with you on WhatsApp seven days a week, and keep your site maintained free for five months.",
+    "Darbhanga has only a handful of local web developers, and many businesses end up with a site made by a relative in Patna or Delhi who is hard to reach later. We publish prices, work directly with you on WhatsApp seven days a week, and keep your site maintained free for two months.",
   pricingIntro:
     "The same starting prices apply in Darbhanga as anywhere we work. A single clinic page and a makhana store shipping across India need different amounts of work, so we quote each page and feature separately and bill nothing until you have approved it in writing.",
   sections: [
@@ -165,11 +165,11 @@ const darbhanga: CityContent = {
     },
     {
       id: "ownership-darbhanga",
-      heading: "Ownership, hosting and five free months of care",
+      heading: "Ownership, hosting and two free months of care",
       paragraphs: [
         "A common Darbhanga story: someone built the website years ago, registered the domain under their own email and then moved away. Now nobody can renew the domain or change the phone number on the site. When the domain expires, the business loses its address online and every printed card points nowhere.",
         "We register your domain in your name and set up hosting on your own account. At launch you receive every login, the complete source code and a short note explaining the set-up. You can move to another developer at any time without an exit fee or permission from us.",
-        "The five months after launch include free maintenance: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, a plan costs from ₹8,000 a month, or you can message us only when you need a change and pay for that job alone.",
+        "The two months after launch include free maintenance: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, a plan costs from ₹8,000 a month, or you can message us only when you need a change and pay for that job alone.",
       ],
     },
     {
@@ -258,9 +258,9 @@ const darbhanga: CityContent = {
         "Yes, fully. The domain is registered in your name, hosting runs on your account, and you receive every password and the full source code at launch. You can move to another developer at any time with no exit fee. This avoids the common problem of losing access when a former developer disappears.",
     },
     {
-      question: "What does the free five-month maintenance include?",
+      question: "What does the free two-month maintenance include?",
       answer:
-        "After launch we cover content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks for five months at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something and pay for that change.",
+        "After launch we cover content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks for two months at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something and pay for that change.",
     },
     {
       question: "How soon will SEO bring customers in Darbhanga?",

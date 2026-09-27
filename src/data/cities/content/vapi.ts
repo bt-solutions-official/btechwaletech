@@ -30,11 +30,11 @@ const vapi: CityContent = {
     eyebrow: "Vapi · Gujarat",
     h1: "Websites, B2B catalogues and plant software for Vapi's GIDC and the town around it",
     lede:
-      "Three remote engineers building websites, product catalogues, internal tools and WhatsApp automation for Vapi: chemical, dye and pharma units in the GIDC phases, traders and transporters along NH 48, and the schools, hospitals and shops serving a fast-growing, multilingual town. Starting prices are public and the first five months of maintenance are free.",
+      "Three remote engineers building websites, product catalogues, internal tools and WhatsApp automation for Vapi: chemical, dye and pharma units in the GIDC phases, traders and transporters along NH 48, and the schools, hospitals and shops serving a fast-growing, multilingual town. Starting prices are public and the first two months of maintenance are free.",
     pills: ["Sites from ₹10,000", "Product and TDS catalogues", "Hindi, Gujarati and English", "Plant and dispatch tools", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "In Vapi, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site or product catalogue starts from ₹20,000, and custom software for plants or traders from ₹60,000. We are a remote three-engineer team with no Vapi office, and maintenance is free for five months after launch.",
+    "In Vapi, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site or product catalogue starts from ₹20,000, and custom software for plants or traders from ₹60,000. We are a remote three-engineer team with no Vapi office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Valsad district, on the Damanganga river, bordered by Daman and Dadra and Nagar Haveli" },
     { label: "Industrial base", value: "Large GIDC estate across several phases, known for chemicals, dyes, pigments and pharmaceuticals" },
@@ -51,7 +51,7 @@ const vapi: CityContent = {
     ai: "WhatsApp and email automation that sorts enquiries by product, sends TDS or MSDS on request and logs every lead.",
     data: "Dashboards covering production, orders, dispatches and receivables for plant owners who travel between Vapi, Mumbai and Ahmedabad.",
     app: "Android and iOS apps for gate passes, visitor logs, driver trips or school updates, released on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free updates, backups and security checks for five months, then maintenance from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security checks for two months, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Vapi companies often pay Mumbai or Surat agency rates for websites that are slow to update, or rely on a directory listing that sends their enquiry to competitors. We offer engineers you speak to directly, published starting prices, daily WhatsApp replies and every account in your company's name.",
@@ -195,7 +195,7 @@ const vapi: CityContent = {
       paragraphs: [
         "In many Vapi companies, the website was set up years ago by an employee or an agency using a personal email. When that person leaves, nobody can change the site, renew the domain or even reset the email accounts tied to it.",
         "We register the domain and hosting in your company's name from the start. At launch you receive every login, the full code and a short setup note, so any developer can take over later. There is no exit fee and no lock-in.",
-        "For five months after launch, maintenance is free: content and product updates, fixes, security patches, backups and uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch, maintenance is free: content and product updates, fixes, security patches, backups and uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
     {
@@ -286,7 +286,7 @@ const vapi: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content and product updates, bug fixes, security updates, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle content and product updates, bug fixes, security updates, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work with businesses in Silvassa, Daman, Valsad and Umbergaon?",

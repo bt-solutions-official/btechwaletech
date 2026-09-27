@@ -34,7 +34,7 @@ const bhagalpur: CityContent = {
     pills: ["Websites from ₹10,000", "Silk saree stores", "Hindi and Angika searches", "WhatsApp enquiry flows", "Domain and code yours"],
   },
   quickAnswer:
-    "In Bhagalpur, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and a silk or saree online store with UPI checkout starts at ₹50,000. We are a remote team, you own the domain and code, and the first five months of maintenance are free.",
+    "In Bhagalpur, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000 and a silk or saree online store with UPI checkout starts at ₹50,000. We are a remote team, you own the domain and code, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "The Silk City of India, on the southern bank of the Ganga and Bihar's third largest city" },
     { label: "Signature product", value: "Bhagalpuri silk, GI-tagged in 2009 and woven largely in Nathnagar and Champanagar" },
@@ -51,7 +51,7 @@ const bhagalpur: CityContent = {
     ai: "WhatsApp assistants that answer price and design questions in Hindi or English, share catalogues and log orders automatically.",
     data: "Simple dashboards showing sales by design, buyer and season, pulled from billing software and order sheets.",
     app: "Android and iPhone apps for coaching attendance, delivery tracking and dealer re-orders, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Catalogue updates, backups, security patches and uptime checks, free for five months and ₹8,000 a month after that.",
+    maintenance: "Catalogue updates, backups, security patches and uptime checks, free for two months and ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Bhagalpur businesses have usually heard plenty of promises from agencies in Patna and Delhi. We keep it simple: published prices, a written quote before any work, replies on WhatsApp seven days a week and every password handed over at launch. If something is not possible within your budget, we say so upfront.",
@@ -101,7 +101,7 @@ const bhagalpur: CityContent = {
         "<strong>AI and WhatsApp automation from ₹40,000, 2–4 weeks:</strong> auto-replies, catalogue sharing and order capture.",
         "<strong>Silk or saree store from ₹50,000, 4–8 weeks:</strong> UPI checkout, stock tracking and WhatsApp order updates.",
         "<strong>Custom web software from ₹60,000, 6–12 weeks:</strong> loom registers, dealer portals and internal tools.",
-        "<strong>SEO retainer from ₹10,000 a month; maintenance ₹8,000 a month</strong> after the five free months.",
+        "<strong>SEO retainer from ₹10,000 a month; maintenance ₹8,000 a month</strong> after the two free months.",
       ],
     },
     {
@@ -182,7 +182,7 @@ const bhagalpur: CityContent = {
       heading: "Ownership, handover and ongoing care",
       paragraphs: [
         "Everything we build for you belongs to you. The domain is registered in your name, hosting sits in your account, and you receive the code and every password on launch day. If you later want another developer in Bhagalpur or Patna to take over, you can hand them the keys without asking us.",
-        "Maintenance is free for five months after launch. That includes security updates, backups, uptime monitoring and small changes such as new products, prices, doctor timings or festival banners. After five months, maintenance is from ₹8,000 a month and you can stop whenever you like.",
+        "Maintenance is free for two months after launch. That includes security updates, backups, uptime monitoring and small changes such as new products, prices, doctor timings or festival banners. After two months, maintenance is from ₹8,000 a month and you can stop whenever you like.",
         "A website that nobody looks after slowly breaks: forms stop sending, plugins go out of date and pages get slower. We check these things regularly and send a short monthly summary of what was done, so you always know the state of your site.",
       ],
     },
@@ -265,7 +265,7 @@ const bhagalpur: CityContent = {
     {
       question: "What does maintenance cost after the free period?",
       answer:
-        "The first five months of maintenance after launch are free, covering updates, backups, monitoring and small content changes. After that, it costs from ₹8,000 a month, and you can cancel whenever you want. If you would rather manage the site yourself, we show you how.",
+        "The first two months of maintenance after launch are free, covering updates, backups, monitoring and small content changes. After that, it costs from ₹8,000 a month, and you can cancel whenever you want. If you would rather manage the site yourself, we show you how.",
     },
     {
       question: "Can you sell Jardalu mangoes or Katarni rice online for us?",

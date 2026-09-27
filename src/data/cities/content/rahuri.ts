@@ -57,7 +57,7 @@ const rahuri: CityContent = {
     ai: "Marathi WhatsApp assistants that quote seed rates, sapling availability and clinic timings, then hand the real decisions to you.",
     data: "Season dashboards showing tonnage supplied, litres collected per route, fat and SNF averages and payments still due.",
     app: "Android and iOS apps for milk route collectors, cane transport crews or repeat nursery buyers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of upkeep free after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Two months of upkeep free after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Rahuri buyers ask what a thing costs before they ask what it does, and they are right to. We publish starting prices, send a written itemised quote in about two working days, reply on WhatsApp all seven days on Indian time, and put the domain, hosting, source code and store accounts in your name from the first day. When a feature will not earn back its cost in a season, we say so instead of quoting it.",
@@ -175,7 +175,7 @@ const rahuri: CityContent = {
       heading: "Who owns your Rahuri website, and what does maintenance cover?",
       paragraphs: [
         "You do, on paper and in practice. The domain is booked on your email address, the hosting account is in your name, the complete source code is handed to you, and the Google Business Profile, Google Play developer account and Apple developer account all list you as the owner. At handover you get a written sheet of every login, so nobody, us included, can sit on your website as leverage later.",
-        "For the first five months after launch, upkeep costs you nothing. In that window we change rates and photographs when the season turns, take backups, apply security and version updates, and check now and then that the enquiry form, the UPI checkout and the WhatsApp button still work. After five months the choice is yours: stay with us from ₹8,000 a month, hand it to someone in-house, or give the code to any other developer.",
+        "For the first two months after launch, upkeep costs you nothing. In that window we change rates and photographs when the season turns, take backups, apply security and version updates, and check now and then that the enquiry form, the UPI checkout and the WhatsApp button still work. After two months the choice is yours: stay with us from ₹8,000 a month, hand it to someone in-house, or give the code to any other developer.",
         "Apps need a yearly touch even when nothing appears broken, because Google and Apple keep raising the minimum versions they will accept in their stores. We track those deadlines and rebuild ahead of them, so a Rahuri dairy's collection app is never pulled from the Play Store for being out of date in the middle of a payment cycle.",
       ],
     },
@@ -267,7 +267,7 @@ const rahuri: CityContent = {
     {
       question: "What maintenance do I get after a Rahuri website goes live?",
       answer:
-        "Five months of free upkeep: rate and photograph changes, backups, security and version patches, and periodic checks that your form, UPI checkout and WhatsApp button still work. After that you can continue from ₹8,000 a month, move it in-house, or pass the code to another developer, since every account is already registered to you.",
+        "Two months of free upkeep: rate and photograph changes, backups, security and version patches, and periodic checks that your form, UPI checkout and WhatsApp button still work. After that you can continue from ₹8,000 a month, move it in-house, or pass the code to another developer, since every account is already registered to you.",
     },
     {
       question: "Do you also work in Vambori, Shrirampur and Shirdi?",

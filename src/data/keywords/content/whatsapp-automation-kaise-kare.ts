@@ -45,7 +45,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "24", label: "Ghante ki service window jisme free-form reply bina template ke ja sakta hai" },
     { value: "2", label: "Working din mein itemised automation quote" },
-    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Mahine free maintenance launch ke baad" },
     { value: "7", label: "Din hafte mein WhatsApp par hamara jawab" },
   ],
   answer: {
@@ -99,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "WhatsApp automation ka kharcha: do alag bill samajhiye",
-    note: `WhatsApp automation mein do bill hote hain aur dono ko alag rakhna zaroori hai. Pehla, setup ka: flows, templates, backend aur integrations banana. Hamare saath yeh AI automation plan ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Doosra, Meta ka: har delivered template message ka charge, jo category (marketing, utility, authentication) aur desh ke hisaab se badalta hai aur seedha aapke Meta account se kat-ta hai. Hum Meta ke charge par kuch nahi jodte. Launch ke baad 5 mahine maintenance free hai, phir ${P.care} se monthly. Neeche wali table baaki plans ki starting prices dikhati hai.`,
+    note: `WhatsApp automation mein do bill hote hain aur dono ko alag rakhna zaroori hai. Pehla, setup ka: flows, templates, backend aur integrations banana. Hamare saath yeh AI automation plan ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Doosra, Meta ka: har delivered template message ka charge, jo category (marketing, utility, authentication) aur desh ke hisaab se badalta hai aur seedha aapke Meta account se kat-ta hai. Hum Meta ke charge par kuch nahi jodte. Launch ke baad 2 mahine maintenance free hai, phir ${P.care} se monthly. Neeche wali table baaki plans ki starting prices dikhati hai.`,
   },
   guideLabel: "WhatsApp automation ki step-by-step guide",
   guide: [
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
         ["2", "Templates submit, backend aur integrations", "Template text ki bhasha check karna"],
         ["3", "Staff numbers par testing, fixes", "Test messages dekh kar feedback"],
         ["4", "Asli customers par dheere launch, reporting", "Opt-in lena, handover chats ka jawab"],
-        ["Launch ke baad", "5 mahine free maintenance", "Naye flows ki zaroorat batana"],
+        ["Launch ke baad", "2 mahine free maintenance", "Naye flows ki zaroorat batana"],
       ],
     },
   ],
@@ -456,7 +456,7 @@ const content: FreelanceContent = {
       ["Flow map aur quote", "Har flow ka trigger, message aur human handover kaagaz par. Lagbhag 2 working din mein itemised quote; likhit approval se pehle koi billing nahi."],
       ["Meta setup aapke naam", "Business portfolio, verification, number aur templates aapke account mein. Hum sirf admin access se kaam karte hain jo aap kabhi bhi hata sakte hain."],
       ["Build aur test", "Backend, integrations aur templates banakar staff ke numbers par har flow chalate hain, galat triggers aur bhasha theek karte hain."],
-      ["Launch aur dekhbhaal", "Ek-ek flow asli customers par chalu hota hai. Reports set hoti hain, aur 5 mahine tak maintenance free rehti hai."],
+      ["Launch aur dekhbhaal", "Ek-ek flow asli customers par chalu hota hai. Reports set hoti hain, aur 2 mahine tak maintenance free rehti hai."],
     ],
   },
   faqHeading: "WhatsApp automation kaise kare: aam sawaal",
@@ -479,7 +479,7 @@ const content: FreelanceContent = {
     { question: "Can WhatsApp automation send payment reminders with a UPI link?", answer: "Yes. A reminder template can include the amount, due date and a payment link or UPI details. The usual schedule is before the due date, on the day and a few days after, and the flow stops the moment the payment is marked received. That status can come from a Google Sheet column or directly from your billing records." },
     { question: "Do you set up the WhatsApp Business API account for us?", answer: "Yes, in your name. We prepare the Meta business portfolio, guide you through business verification, register the number, set the display name and submit your first templates. Meta decides approvals, so we cannot promise a date, but we make sure your documents and business details match to avoid the most common rejections." },
     { question: "Kya aap Shopify ya WooCommerce store ke liye WhatsApp automation karte ho?", answer: "Haan. Store ke order events se order confirm, dispatch aur delivery messages banate hain, aur COD orders ke liye confirmation ka flow bhi. Abandoned cart message marketing category mein aata hai, isliye hum use soch-samajh kar aur opt-in wale customers tak hi rakhte hain. Store nahi hai toh ecommerce store ka setup bhi hota hai." },
-    { question: "What happens after launch? Who maintains the automation?", answer: `We maintain it free for 5 months after launch, fixing broken triggers, updating templates and adjusting flows as your process changes. After that, maintenance continues from ${P.care} per month if you want it. Because the code and accounts are yours, another developer can also take over with the handover document.` },
+    { question: "What happens after launch? Who maintains the automation?", answer: `We maintain it free for 2 months after launch, fixing broken triggers, updating templates and adjusting flows as your process changes. After that, maintenance continues from ${P.care} per month if you want it. Because the code and accounts are yours, another developer can also take over with the handover document.` },
     { question: "How do I pay for WhatsApp automation work?", answer: "Businesses in India pay by UPI or bank transfer against an invoice; clients abroad pay in USD through Wise, bank wire or PayPal. Nothing is billed before you approve the itemised written quote. Meta's own message charges are paid directly by you to Meta through your WhatsApp Business Account, not through us." },
     { question: "WhatsApp automation ke liye office aana padega?", answer: "Nahi. Hum poori tarah remote kaam karte hain, isliye saari baat WhatsApp, phone ya video call par hoti hai, Hindi ya English mein. Meta verification ke documents aap upload karte hain, hum screen share par step batate hain. Testing aapke staff ke phones par hoti hai, isliye kisi ke aane ki zaroorat nahi padti." },
   ],

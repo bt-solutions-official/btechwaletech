@@ -51,7 +51,7 @@ const tadpatri: CityContent = {
     ai: "WhatsApp assistants that send slab rates and photos, confirm lorry availability or share OPD timings in Telugu and English.",
     data: "Dashboards of slabs sold, trips run and dues by customer, built from Tally exports and daily entries.",
     app: "Android and iOS apps for drivers, granite site supervisors and dealers to log trips or re-orders, available on Google Play and the App Store.",
-    maintenance: "Rate and stock updates, backups, security patches and uptime checks, free for five months and from ₹8,000 a month after.",
+    maintenance: "Rate and stock updates, backups, security patches and uptime checks, free for two months and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Tadpatri owners run tight operations and want to know exactly what they are paying for. Our starting prices are public, quotes list every item in writing, WhatsApp messages are answered seven days a week, and the domain, hosting and code are registered to you. If a feature will not earn back its cost, we say so.",
@@ -146,7 +146,7 @@ const tadpatri: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software, such as trip or slab stock tracking:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -190,7 +190,7 @@ const tadpatri: CityContent = {
       heading: "What you own, and how the site is looked after",
       paragraphs: [
         "The domain is registered in your name, hosting is set up in your account, and the full code and every password are handed to you at launch. If you want another developer in Anantapur, Kurnool or anywhere else to take over later, you can do so without our permission and without a release fee.",
-        "For five months after launch, maintenance is free: security updates, backups, uptime checks and small changes such as new rates, stock photos or doctor timings. After that it costs from ₹8,000 a month and can be stopped whenever you choose. If your staff want to update rates themselves, we show them how before handover.",
+        "For two months after launch, maintenance is free: security updates, backups, uptime checks and small changes such as new rates, stock photos or doctor timings. After that it costs from ₹8,000 a month and can be stopped whenever you choose. If your staff want to update rates themselves, we show them how before handover.",
         "Software such as a trip register or slab stock tool keeps its data in your account too. You can export it to Excel at any time.",
       ],
     },
@@ -278,7 +278,7 @@ const tadpatri: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "The first five months after launch are free, covering updates, backups, monitoring and small edits such as rates or photos. After that, maintenance is from ₹8,000 a month and can be cancelled whenever you like. We can train your staff to handle simple updates.",
+        "The first two months after launch are free, covering updates, backups, monitoring and small edits such as rates or photos. After that, maintenance is from ₹8,000 a month and can be cancelled whenever you like. We can train your staff to handle simple updates.",
     },
     {
       question: "How long does it take?",

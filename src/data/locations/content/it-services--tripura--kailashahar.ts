@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Tea estate software", "Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Replies 7 days a week"],
   },
   quickAnswer:
-    "For Kailashahar and Unakoti district, BtechWaleTech, a freelance group of three remote engineers, builds custom software such as tea estate records from ₹60,000 (six to twelve weeks), WhatsApp and AI automation from ₹40,000 (two to four weeks) and websites from ₹10,000 (one to two weeks). Quotes are itemised within about two working days, with five months of free maintenance.",
+    "For Kailashahar and Unakoti district, BtechWaleTech, a freelance group of three remote engineers, builds custom software such as tea estate records from ₹60,000 (six to twelve weeks), WhatsApp and AI automation from ₹40,000 (two to four weeks) and websites from ₹10,000 (one to two weeks). Quotes are itemised within about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Unakoti district, formed in 2012 from part of North Tripura" },
     { label: "River", value: "Sits on the Manu, Tripura's longest river, which flows on into Bangladesh's Moulvibazar district" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "WhatsApp and AI assistants that answer tour, stay and product questions, collect enquiries and pass them to the right person.",
     data: "Estate and business dashboards showing daily plucking, production, sales and dues on one screen for managers and owners.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on both app stores, for garden supervisors, collection agents and delivery staff around Kailashahar.",
-    maintenance: "Updates, backups and security checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups and security checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Kailashahar is far from Agartala's small pool of developers, and tea estates here often run on registers maintained the same way for decades. We offer engineers you can message directly, starting prices published openly, and full ownership of every system we build.",
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "kailashahar-costs",
       heading: "How much do software and IT services cost in Kailashahar?",
       paragraphs: [
-        "Software and IT services in Kailashahar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software such as tea estate systems. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software and IT services in Kailashahar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software such as tea estate systems. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "The final cost depends on features, users, integrations and data migration. A single-garden plucking and attendance system is closer to the starting price than a multi-estate platform with factory, stock and dispatch modules. You receive an itemised quote within about two working days and can remove any line you do not need. See all plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
     },
@@ -200,14 +200,14 @@ const content: CityContent = {
         "Receive an itemised quote and milestone plan",
         "Approve screen designs or page layouts",
         "Test each stage on a staging link with your staff",
-        "Launch, receive code, domain and hosting logins, then five months of free maintenance",
+        "Launch, receive code, domain and hosting logins, then two months of free maintenance",
       ],
     },
     {
       id: "kailashahar-ownership",
       heading: "Your code, your data and support after launch",
       paragraphs: [
-        "Every Kailashahar client owns their domain, hosting account, source code and data from day one, and receives five months of free maintenance after launch. After that, BtechWaleTech offers monthly support from ₹8,000, or you can contact us only when changes are needed.",
+        "Every Kailashahar client owns their domain, hosting account, source code and data from day one, and receives two months of free maintenance after launch. After that, BtechWaleTech offers monthly support from ₹8,000, or you can contact us only when changes are needed.",
         "Ownership protects you if circumstances change. Many small organisations in Tripura have lost access to websites registered in a developer's personal name. We register everything to you and hand over logins, setup notes and a short recorded walkthrough, so another developer can take over without needing anything from us.",
         "For related pages, see <a href=\"/it-services/tripura/dharmanagar/\">IT services in Dharmanagar</a> to the north, our overview of <a href=\"/it-services/tripura/\">IT services across Tripura</a>, or read <a href=\"/about/\">about our freelance group</a> and view our <a href=\"/portfolio/\">portfolio</a>.",
       ],
@@ -279,7 +279,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch, we cover bug fixes, security and dependency updates, backups, uptime checks and small content or setting changes at no charge. After that, maintenance plans start at ₹8,000 a month, or you can pay only when you need something changed. Hardware repair is outside our remote scope.",
+        "For two months after launch, we cover bug fixes, security and dependency updates, backups, uptime checks and small content or setting changes at no charge. After that, maintenance plans start at ₹8,000 a month, or you can pay only when you need something changed. Hardware repair is outside our remote scope.",
     },
     {
       question: "Can AI answer visitor questions during the Ashokastami fair?",

@@ -56,7 +56,7 @@ const jalandharCantt: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock, timing and move-quote questions in Hindi, Punjabi or English without asking for unit or posting details.",
     data: "Plain dashboards of enquiries by month, moves booked per season and admissions by class for cantonment tuition centres.",
     app: "Android and iOS apps from ₹40,000 for tuition centres, clinics and movers, published on Google Play and the App Store under your own accounts.",
-    maintenance: "Five free months after launch, then from ₹8,000 a month for updates, backups and fixes, which you can pause or end whenever you choose.",
+    maintenance: "Two free months after launch, then from ₹8,000 a month for updates, backups and fixes, which you can pause or end whenever you choose.",
   },
   whyUsIntro:
     "Cantonment customers are careful people: they check credentials, ask direct questions and expect straight answers. We work the same way. You get published starting prices, an itemised written quote before any billing, replies on WhatsApp all seven days, and every account registered in your name. We never ask you to share anything about units, ranks or movements.",
@@ -177,7 +177,7 @@ const jalandharCantt: CityContent = {
         "<strong>AI or WhatsApp automation, from ₹40,000:</strong> two to four weeks.",
         "<strong>Online store, from ₹50,000:</strong> four to eight weeks, with UPI and card checkout.",
         "<strong>Custom software, from ₹60,000:</strong> six to twelve weeks, built in stages.",
-        "<strong>Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month</strong> once the five free months end.",
+        "<strong>Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month</strong> once the two free months end.",
       ],
     },
     {
@@ -195,7 +195,7 @@ const jalandharCantt: CityContent = {
       paragraphs: [
         "Some cantonment businesses are run by the spouse of someone in service, a home baker, a tutor or a boutique, and the business moves when the posting does. Others are family shops that have traded in Sadar Bazaar for decades. Either way the website must belong to the owner, not the developer, so the domain, hosting, Google Business Profile, Play Console and Apple developer accounts are registered in your name, and the complete source code comes with a written list of logins.",
         "If you relocate, the site relocates with you. We change the address, map listing and service area, keep the domain and the search history it has earned, and redirect old pages so no link breaks. That beats starting from nothing at every new station.",
-        "Maintenance is free for the first five months after launch: content and price edits, backups, security updates and regular checks that forms, payments and WhatsApp links still work. After that you can continue from ₹8,000 a month, manage it yourselves, or hand the code to any developer you like. Apps also need a yearly update to meet Google and Apple requirements, and we flag those deadlines well in advance.",
+        "Maintenance is free for the first two months after launch: content and price edits, backups, security updates and regular checks that forms, payments and WhatsApp links still work. After that you can continue from ₹8,000 a month, manage it yourselves, or hand the code to any developer you like. Apps also need a yearly update to meet Google and Apple requirements, and we flag those deadlines well in advance.",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const jalandharCantt: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "The first five months after going live cost nothing for upkeep: price and content edits, backups, security updates and checks that forms, payments and WhatsApp links work. After that, maintenance continues from ₹8,000 a month if you want it. You can also manage things yourself or hand the code to someone else at any point.",
+        "The first two months after going live cost nothing for upkeep: price and content edits, backups, security updates and checks that forms, payments and WhatsApp links work. After that, maintenance continues from ₹8,000 a month if you want it. You can also manage things yourself or hand the code to someone else at any point.",
     },
     {
       question: "Do you also work in Jalandhar city, Phagwara and Kapurthala?",

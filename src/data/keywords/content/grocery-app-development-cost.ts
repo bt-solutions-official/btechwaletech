@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Kirana and supermarket ordering apps · priced by catalogue and delivery rules",
     h1: "Grocery app development cost: kirana and supermarket ordering apps, and the cheaper first step",
     lede: `Grocery app development cost with BtechWaleTech starts at ${P.app} for a customer app on Android and iPhone with a store admin panel. What moves the price is grocery-specific: a catalogue of thousands of SKUs with pack sizes, delivery slots and radius rules, and stock that must match your billing software. Many shops should start smaller, with <a href='/whatsapp-ordering-system/'>WhatsApp ordering</a> from ${P.ai}, and build the app once repeat orders prove the demand.`,
-    pills: [`Apps from ${P.app}`, `WhatsApp ordering from ${P.ai}`, "Thousands of SKUs and pack sizes", "Delivery slots and radius rules", "Stock sync with billing software", "UPI and cash on delivery", "5 months free care"],
+    pills: [`Apps from ${P.app}`, `WhatsApp ordering from ${P.ai}`, "Thousands of SKUs and pack sizes", "Delivery slots and radius rules", "Stock sync with billing software", "UPI and cash on delivery", "2 months free care"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week, IST",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Web store from", `${P.shop} · ${P.shopUsd}`],
     ["Usual app build time", "6–10 weeks"],
     ["Payments", "UPI, cards, wallets, cash on delivery"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers: app, data and project lead" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Commission on your orders" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Biggest cost driver", value: "Catalogue data and billing sync" },
       { label: "Delivery logic", value: "Slots, radius or pincode, minimum order" },
       { label: "Store fees (paid by you)", value: "US$25 once for Play, US$99 a year for Apple" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Fits your delivery rules", "Only if the script supports them", "Platform’s rules", "Built for your radius, slots and minimums"],
       ["Billing software sync", "Rarely", "Separate process", "Scheduled sync, priced as a line"],
       ["Source code", "Often encrypted or licensed", "Not applicable", "Yours, in your repository"],
-      ["Updates and store policy changes", "Depends on the seller", "Handled by the platform", "Included for 5 months, then from " + P.care],
+      ["Updates and store policy changes", "Depends on the seller", "Handled by the platform", "Included for 2 months, then from " + P.care],
       ["Brand in the customer’s phone", "Yours", "The platform’s", "Yours"],
       ["Best fit", "Testing an idea very cheaply", "Reaching new customers fast", "Repeat local customers and your own delivery"],
     ],
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       id: "maintenance",
       heading: "What does a grocery app cost to run after launch?",
       paragraphs: [
-        `Running costs cover hosting, map and SMS usage, store developer fees, and upkeep for bugs, Android and iOS updates and small changes. BtechWaleTech covers fixes free for five months after launch; optional care then starts at ${P.care}.`,
+        `Running costs cover hosting, map and SMS usage, store developer fees, and upkeep for bugs, Android and iOS updates and small changes. BtechWaleTech covers fixes free for two months after launch; optional care then starts at ${P.care}.`,
         `Grocery apps see steady small changes: new categories, festival offers, slot adjustments, a new branch. Most of this your staff can do from the admin panel without a developer. What needs us is store policy updates, framework upgrades, payment provider changes and new features. Hosting grows with orders, not products, so a quiet kirana app stays inexpensive to run.`,
       ],
       after: [
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
         ["Single supermarket with delivery staff", "3,000–8,000 items", "Customer app + admin + slots", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Two or more branches", "Stock per branch", "App + admin + billing sync", `From ${P.app}, extra lines per branch and sync`, `From ${P.appUsd}`, "8–12 weeks"],
         ["Dark store or large chain", "Large, fast-moving", "Apps + custom operations software", `From ${P.app} + ${P.software}`, `From ${P.appUsd} + ${P.softwareUsd}`, "10–12+ weeks"],
-        ["Upkeep after 5 free months", "—", "Care plan", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Upkeep after 2 free months", "—", "Care plan", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [1, 4],
     },
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
       ["Approve an itemised quote", "Within about two working days you get app, admin, catalogue, slots, zones, sync and extra apps as separate lines. Nothing is billed before your written approval."],
       ["Clean the catalogue early", "Product names, categories, pack sizes and images are prepared from week one, with your staff checking samples so search works on launch day."],
       ["Test in the shop", "Staff place real orders, pick, pack and deliver with test builds. Slot cut-offs, zone fees and substitutions are adjusted before customers see anything."],
-      ["Launch and keep it running", "We publish from your store accounts, hand over code and notes, and fix issues free for five months, then optional care from " + P.care + "."],
+      ["Launch and keep it running", "We publish from your store accounts, hand over code and notes, and fix issues free for two months, then optional care from " + P.care + "."],
     ],
   },
   faqHeading: "Grocery app development cost: common questions",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Do I need a separate app for delivery riders?", answer: "Not at first. Small stores often manage with the admin panel and WhatsApp. Once you have several riders and slots, a rider app showing assigned orders, customer location, call and navigate buttons, and cash collection saves time and mistakes. It is priced as a separate line you can add later." },
     { question: "Who owns the grocery app and customer data?", answer: "You do. The source code, Google Play and Apple developer accounts, cloud hosting, domain and customer database are all in your name, with us added as members. Owning the customer list lets you market to regulars directly and keeps you independent of any platform’s commission changes." },
     { question: "What are the store fees for publishing a grocery app?", answer: "Google Play charges a one-time US$25 registration fee. Apple’s developer site lists its programme at 99 USD per membership year. You pay these directly from your own accounts. They are not included in our grocery app quote, but we guide you through registration and verification for both stores." },
-    { question: "What does it cost to maintain a grocery app?", answer: `BtechWaleTech covers fixes free for five months after launch. After that, optional care starts at ${P.care} and covers bug fixes, Android and iOS updates, store policy changes and small improvements. Hosting, map and SMS usage are billed by providers to your account and grow with order volume.` },
+    { question: "What does it cost to maintain a grocery app?", answer: `BtechWaleTech covers fixes free for two months after launch. After that, optional care starts at ${P.care} and covers bug fixes, Android and iOS updates, store policy changes and small improvements. Hosting, map and SMS usage are billed by providers to your account and grow with order volume.` },
     { question: "Can one app handle multiple branches?", answer: "Yes. Each branch can have its own stock, prices, delivery zone and slots, and customers are routed to the branch that serves their address. Billing sync then runs per branch. Multi-branch setup adds lines to the quote because stock, zones and slot rules multiply and need careful testing." },
     { question: "Should I build an app or a website for grocery orders?", answer: `A mobile web store, from ${P.shop}, suits customers who order occasionally and will not install an app. An app, from ${P.app}, suits frequent repeat buyers who value saved baskets, notifications and fast reordering. Many stores run both on one catalogue and admin, and add WhatsApp ordering for regulars who prefer chat.` },
     { question: "Can the app show product names in Hindi or my regional language?", answer: "Yes. We build the app to show product names and main screens in English plus one Indian language, with search synonyms in both. You or your staff approve the translated product names and messages. Order updates can also go out by WhatsApp in the customer’s preferred language." },
@@ -445,7 +445,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a grocery app quote that fits your shop",
-    note: `Send your branch count, billing software and delivery area on WhatsApp. In about two working days you get an itemised quote: WhatsApp ordering from ${P.ai} or a full grocery app from ${P.app}, with catalogue, slots and sync as clear lines and five months of free fixes.`,
+    note: `Send your branch count, billing software and delivery area on WhatsApp. In about two working days you get an itemised quote: WhatsApp ordering from ${P.ai} or a full grocery app from ${P.app}, with catalogue, slots and sync as clear lines and two months of free fixes.`,
   },
 };
 

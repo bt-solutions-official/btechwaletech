@@ -30,11 +30,11 @@ const yamunanagar: CityContent = {
     eyebrow: "Yamunanagar · Jagadhri · Haryana",
     h1: "Web, app, SEO and automation services for the plywood and utensil twin city of Yamunanagar-Jagadhri",
     lede:
-      "We are three remote engineers who build catalogue websites, dealer portals, Hindi search pages and WhatsApp workflows for Yamunanagar's plywood and veneer mills, Jagadhri's brass and steel utensil units, timber traders, hospitals and schools. Starting prices are public, the domain and code stay in your name, and the first five months of upkeep cost nothing.",
+      "We are three remote engineers who build catalogue websites, dealer portals, Hindi search pages and WhatsApp workflows for Yamunanagar's plywood and veneer mills, Jagadhri's brass and steel utensil units, timber traders, hospitals and schools. Starting prices are public, the domain and code stay in your name, and the first two months of upkeep cost nothing.",
     pills: ["Websites from ₹10,000", "Plywood and board catalogues", "Utensil maker sites", "Hindi and English SEO", "WhatsApp lead handling"],
   },
   quickAnswer:
-    "For Yamunanagar and Jagadhri businesses, our static websites start from ₹10,000 and take one to two weeks, 299+ page SEO sites start from ₹20,000, and online stores from ₹50,000. We are a remote team of three engineers without a local office, and every site we build includes five months of free maintenance.",
+    "For Yamunanagar and Jagadhri businesses, our static websites start from ₹10,000 and take one to two weeks, 299+ page SEO sites start from ₹20,000, and online stores from ₹50,000. We are a remote team of three engineers without a local office, and every site we build includes two months of free maintenance.",
   snapshot: [
     { label: "Twin city", value: "Yamunanagar and Jagadhri, governed together by the Yamunanagar-Jagadhri Municipal Corporation" },
     { label: "Signature industry", value: "Plywood, veneer and board units using locally grown poplar and eucalyptus; a large timber market" },
@@ -51,10 +51,10 @@ const yamunanagar: CityContent = {
     ai: "WhatsApp assistants that answer the daily flood of rate, thickness, grade and stock questions from dealers and pass negotiations to your sales person.",
     data: "Dashboards for truck dispatches, dealer outstandings, timber purchases and enquiry sources that an owner can read on a phone between factory rounds.",
     app: "Android and iOS apps for salesmen taking plywood dealer orders, school parent portals and clinic appointment requests, published on both stores.",
-    maintenance: "Content changes, updates, backups and speed checks free for five months after launch, then from ₹8,000 a month if you want us to carry on.",
+    maintenance: "Content changes, updates, backups and speed checks free for two months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:
-    "Plenty of Yamunanagar factories got their first website from a directory salesman or a relative's friend, and many of those sites have not been touched since. We publish our starting prices, write pages around what your buyers actually ask, reply on WhatsApp all week, and look after the site free for five months once it goes live.",
+    "Plenty of Yamunanagar factories got their first website from a directory salesman or a relative's friend, and many of those sites have not been touched since. We publish our starting prices, write pages around what your buyers actually ask, reply on WhatsApp all week, and look after the site free for two months once it goes live.",
   pricingIntro:
     "The figures below are starting prices, not packages. A board mill with forty product lines and a dealer login costs more than a single-doctor clinic, and your quote reflects that. You get it itemised within about two working days, and nothing is billed until you approve it in writing.",
   sections: [
@@ -172,11 +172,11 @@ const yamunanagar: CityContent = {
     },
     {
       id: "ownership-yamunanagar",
-      heading: "Your domain, your code, and five months of care after launch",
+      heading: "Your domain, your code, and two months of care after launch",
       paragraphs: [
         "A familiar story in the twin city: the website was made years ago, the person who made it cannot be reached, and nobody knows the password to the domain. When renewal lapses, the email addresses printed on invoices and catalogues stop working. Buyers who try to verify the company online find nothing.",
         "We avoid that from day one. The domain and hosting are booked in your business's name, and at handover you receive every login, the complete source code and a short guide to how the site is put together. If you later want another developer to take over, you can hand everything across without asking our permission or paying an exit charge.",
-        "For five months after launch, maintenance is free: text and price updates, new product pages, bug fixes, security and software updates, backups, uptime checks and speed tuning. After that you can keep us on from ₹8,000 a month or simply message us when you need a change. You can start the conversation on our <a href=\"/contact/\">contact page</a>.",
+        "For two months after launch, maintenance is free: text and price updates, new product pages, bug fixes, security and software updates, backups, uptime checks and speed tuning. After that you can keep us on from ₹8,000 a month or simply message us when you need a change. You can start the conversation on our <a href=\"/contact/\">contact page</a>.",
       ],
     },
   ],
@@ -266,9 +266,9 @@ const yamunanagar: CityContent = {
         "You do. The domain and hosting are registered in your business name, and at launch you receive all logins and the full source code. You can move to any other developer whenever you like, and we charge no exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch we handle updates, fixes, backups, security and speed checks free. After that, maintenance continues from ₹8,000 a month if you want ongoing care, or you can simply contact us when you need a specific change.",
+        "For two months after launch we handle updates, fixes, backups, security and speed checks free. After that, maintenance continues from ₹8,000 a month if you want ongoing care, or you can simply contact us when you need a specific change.",
     },
     {
       question: "What do you need from me to prepare a quote?",

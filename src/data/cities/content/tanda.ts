@@ -31,11 +31,11 @@ const tanda: CityContent = {
     eyebrow: "Tanda · Ambedkar Nagar, Uttar Pradesh",
     h1: "Websites, apps, SEO and AI automation for Tanda's powerloom cloth, traders and local businesses",
     lede:
-      "Three engineers, working remotely, building websites, Hindi and English search pages, wholesale catalogues and WhatsApp automations for businesses in Tanda and the rest of Ambedkar Nagar district: powerloom units making gamchha, lungi and terrycot shirting, cloth traders, NTPC-area suppliers and contractors, schools, clinics and shops. Starting prices are published and maintenance is free for five months.",
+      "Three engineers, working remotely, building websites, Hindi and English search pages, wholesale catalogues and WhatsApp automations for businesses in Tanda and the rest of Ambedkar Nagar district: powerloom units making gamchha, lungi and terrycot shirting, cloth traders, NTPC-area suppliers and contractors, schools, clinics and shops. Starting prices are published and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Wholesale cloth catalogues", "Hindi and Urdu-friendly pages", "WhatsApp order logging", "Your domain, your code"],
   },
   quickAnswer:
-    "In Tanda, a basic website for a powerloom unit, cloth trader, school or shop starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Tanda, and maintenance is free for five months.",
+    "In Tanda, a basic website for a powerloom unit, cloth trader, school or shop starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Tanda, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "Tehsil town on the Ghaghara (Saryu) river, about 20 km north-east of Akbarpur, headquarters of Ambedkar Nagar district" },
     { label: "Population", value: "95,516 at the 2011 census; Hindi, Awadhi and Urdu are widely spoken" },
@@ -52,7 +52,7 @@ const tanda: CityContent = {
     ai: "WhatsApp replies that send the design catalogue, current rates and minimum order quantity in Hindi, and log each enquiry for follow-up.",
     data: "Monthly meters produced, orders dispatched and dues outstanding, turned into a simple phone dashboard for the unit owner.",
     app: "Android and iOS apps for dealer orders, school notices and clinic tokens, released on both app stores with prices starting at ₹40,000.",
-    maintenance: "Rate and catalogue updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Rate and catalogue updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Tanda's cloth reaches markets across the country, but the looms that make it are almost invisible online. Most selling passes through agents and wholesalers, and local web options are few. Agencies in Lucknow or Varanasi tend to quote high for work that rarely understands the cloth trade. We publish starting prices, write in simple Hindi and English, and reply on WhatsApp seven days a week.",
@@ -168,11 +168,11 @@ const tanda: CityContent = {
     },
     {
       id: "ownership-tanda",
-      heading: "The website stays yours, with five months of free upkeep",
+      heading: "The website stays yours, with two months of free upkeep",
       paragraphs: [
         "The domain and hosting are registered in your name from the start. At launch you get every login, the complete code and a short note explaining the setup. If you ever want another developer to take over, you can hand everything across with no exit fee.",
         "We insist on this because losing a website is a common problem in smaller towns. A developer books the domain in his own name, becomes unreachable, and the business loses its site and email at renewal time.",
-        "For five months after launch, maintenance is free: rate and catalogue updates, small fixes, security patches, backups, uptime checks and speed checks. After that, maintenance starts from ₹8,000 a month, or you can message us only when a change is needed and pay for that job.",
+        "For two months after launch, maintenance is free: rate and catalogue updates, small fixes, security patches, backups, uptime checks and speed checks. After that, maintenance starts from ₹8,000 a month, or you can message us only when a change is needed and pay for that job.",
       ],
     },
     {
@@ -263,7 +263,7 @@ const tanda: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "For five months after launch we handle rate and catalogue updates, small fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can message us only when you need a change.",
+        "For two months after launch we handle rate and catalogue updates, small fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can message us only when you need a change.",
     },
     {
       question: "Will SEO bring my business to the top of Google?",

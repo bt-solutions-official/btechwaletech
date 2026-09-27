@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "MVPs for Doon startups", "School and coaching systems", "You own every line of code"],
   },
   quickAnswer:
-    "Hiring our freelance software developers in Dehradun costs from ₹60,000 for a custom web app (six to twelve weeks) and from ₹40,000 for AI automation (two to four weeks). Websites start at ₹10,000. BtechWaleTech is three engineers working remotely from India, sending an itemised quote within about two working days, with five months of free maintenance after launch.",
+    "Hiring our freelance software developers in Dehradun costs from ₹60,000 for a custom web app (six to twelve weeks) and from ₹40,000 for AI automation (two to four weeks). Websites start at ₹10,000. BtechWaleTech is three engineers working remotely from India, sending an itemised quote within about two working days, with two months of free maintenance after launch.",
   snapshot: [
     { label: "Commercial core", value: "Rajpur Road, Paltan Bazaar, Clock Tower (Ghanta Ghar), Astley Hall, Chakrata Road and Dilaram Chowk" },
     { label: "IT and industry", value: "The SIIDCUL IT Park on Sahastradhara Road, the Selaqui industrial area for pharma and FMCG, and units around Doiwala and Langha Road" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that answer admission, course and appointment questions, summarise documents and draft follow-ups for staff to approve.",
     data: "Dashboards showing enrolments, collections, OPD numbers or production for owners who want one screen instead of five spreadsheets.",
     app: "Android and iOS apps for Dehradun schools, coaching institutes, clinics and startups, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Updates, fixes, backups and monitoring free for the first five months after launch, then from ₹8,000 a month if you want ongoing cover.",
+    maintenance: "Updates, fixes, backups and monitoring free for the first two months after launch, then from ₹8,000 a month if you want ongoing cover.",
   },
   whyUsIntro:
     "Dehradun has a growing IT scene, from the IT Park to small studios near Clement Town, and many good developers leave for Noida or Bengaluru. A freelance group that stays on your project, publishes prices and hands over all code is a practical alternative when you need continuity more than a big office.",
@@ -204,7 +204,7 @@ const content: CityContent = {
       id: "project-process-dehradun",
       heading: "How our freelance team runs a Dehradun software project, step by step",
       paragraphs: [
-        "A typical Dehradun project with BtechWaleTech moves through five steps: a discovery call, a written scope and quote, weekly build cycles with a live preview, testing with your staff and real data, and launch followed by five months of free maintenance. You see working screens within the first two weeks.",
+        "A typical Dehradun project with BtechWaleTech moves through five steps: a discovery call, a written scope and quote, weekly build cycles with a live preview, testing with your staff and real data, and launch followed by two months of free maintenance. You see working screens within the first two weeks.",
         "Discovery happens on WhatsApp and a video call where we look at your current forms, sheets and messages. The scope lists every screen, role and report. Weekly cycles end with a short demo. Testing includes edge cases your staff know best, such as late fee rules or partial refunds.",
       ],
       list: [
@@ -212,7 +212,7 @@ const content: CityContent = {
         "Itemised scope and quote in about two working days",
         "Weekly build cycles with a live preview link",
         "User testing with real data and staff feedback",
-        "Launch, training recordings and five months of free maintenance",
+        "Launch, training recordings and two months of free maintenance",
       ],
     },
   ],
@@ -273,7 +273,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of free maintenance begin once the system is live. We fix bugs, apply security updates, run backups, monitor uptime and make small changes to content or settings. After that, monthly maintenance starts at ₹8,000, or you can simply message us when you need something done.",
+        "Two months of free maintenance begin once the system is live. We fix bugs, apply security updates, run backups, monitor uptime and make small changes to content or settings. After that, monthly maintenance starts at ₹8,000, or you can simply message us when you need something done.",
     },
     {
       question: "Can you build an AI agent for our admissions or clinic enquiries?",

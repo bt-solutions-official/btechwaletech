@@ -56,7 +56,7 @@ const sarni: CityContent = {
     ai: "WhatsApp assistants that share rates, class timings or doctor availability in Hindi and hand anything unusual to a person.",
     data: "Dashboards of work orders, bills raised, payments pending and vehicle hours, built from Tally exports or daily entries.",
     app: "Android and iOS apps for Sarni coaching students, contractor site supervisors or shop re-orders, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Free security updates, backups and small edits for five months, then maintenance from ₹8,000 a month if you choose to keep it.",
+    maintenance: "Free security updates, backups and small edits for two months, then maintenance from ₹8,000 a month if you choose to keep it.",
   },
   whyUsIntro:
     "Sarni businesses have often been let down by someone who built a site, kept the passwords and stopped answering. We work the other way: published starting prices, an itemised written quote, WhatsApp replies every day of the week, and the domain, hosting, code and app accounts registered to you.",
@@ -161,7 +161,7 @@ const sarni: CityContent = {
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software for contractors or suppliers:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the five free months end.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the two free months end.",
       ],
     },
     {
@@ -198,7 +198,7 @@ const sarni: CityContent = {
       heading: "What you own and how maintenance works",
       paragraphs: [
         "The domain is registered in your name, the hosting is in your account and you receive the full code and all passwords at launch. Apps go live under your own Google Play and App Store developer accounts. If you later prefer a developer in Betul, Nagpur or anywhere else, you can switch without permission or a release fee.",
-        "For five months after launch, maintenance is free: security updates, backups, uptime checks and small edits such as new photos, rates or timings. After that it costs from ₹8,000 a month and can be stopped whenever you like. We can train your staff to make simple updates themselves.",
+        "For two months after launch, maintenance is free: security updates, backups, uptime checks and small edits such as new photos, rates or timings. After that it costs from ₹8,000 a month and can be stopped whenever you like. We can train your staff to make simple updates themselves.",
         "Data in any software we build, such as attendance or billing records, stays in your account and can be exported to Excel at any time.",
       ],
     },
@@ -286,7 +286,7 @@ const sarni: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Maintenance is free for five months after launch, covering security updates, backups, uptime checks and small edits. After that it is from ₹8,000 a month and you can stop whenever you want. We can also teach your staff to update rates or photos on their own.",
+        "Maintenance is free for two months after launch, covering security updates, backups, uptime checks and small edits. After that it is from ₹8,000 a month and you can stop whenever you want. We can also teach your staff to update rates or photos on their own.",
     },
     {
       question: "How long will my website or app take?",

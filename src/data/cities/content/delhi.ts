@@ -7,7 +7,7 @@ const delhi: CityContent = {
   meta: {
     title: "IT Services in Delhi: Websites, Apps, SEO & AI",
     description:
-      "Website design, local SEO, ecommerce and WhatsApp automation for Delhi traders, clinics and institutes. From ₹10,000, itemised quotes, 5 months free maintenance.",
+      "Website design, local SEO, ecommerce and WhatsApp automation for Delhi traders, clinics and institutes. From ₹10,000, itemised quotes, 2 months free maintenance.",
     keywords: [
       "website development team in Delhi",
       "website design team Delhi",
@@ -31,11 +31,11 @@ const delhi: CityContent = {
     eyebrow: "Delhi · National Capital Territory",
     h1: "Web design, SEO and automation for Delhi's traders, clinics and institutes",
     lede:
-      "A remote team of three engineers building websites, wholesale catalogues, online stores and WhatsApp workflows for businesses from Chandni Chowk to Dwarka. Every starting price is published, you deal directly with the developers, and maintenance is free for the first five months after your site goes live.",
+      "A remote team of three engineers building websites, wholesale catalogues, online stores and WhatsApp workflows for businesses from Chandni Chowk to Dwarka. Every starting price is published, you deal directly with the developers, and maintenance is free for the first two months after your site goes live.",
     pills: ["Websites from ₹10,000", "Colony-level local SEO", "Wholesale catalogues", "UPI checkout stores", "WhatsApp and AI bots"],
   },
   quickAnswer:
-    "A basic business website for a Delhi firm starts at ₹10,000 with us, and a 299+ page SEO website at ₹20,000, typically ready in one to five weeks. Stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Delhi office, and every build includes five months' free maintenance.",
+    "A basic business website for a Delhi firm starts at ₹10,000 with us, and a 299+ page SEO website at ₹20,000, typically ready in one to five weeks. Stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Delhi office, and every build includes two months' free maintenance.",
   snapshot: [
     { label: "Commercial hubs", value: "Connaught Place, Karol Bagh, Nehru Place, Lajpat Nagar, Rajouri Garden and Janakpuri District Centre" },
     { label: "Old Delhi trade", value: "Chandni Chowk, Khari Baoli spice market, Sadar Bazaar, Chawri Bazar, Bhagirath Palace and Kashmere Gate" },
@@ -52,10 +52,10 @@ const delhi: CityContent = {
     ai: "AI assistants that reply in Hindi or English to the same pricing and stock questions every Delhi retailer gets forty times a day.",
     data: "Dashboards that turn Tally exports and billing data into daily sales, dues and dealer reports you can read on a phone.",
     app: "Android and iOS apps for coaching batches, clinic bookings and repeat orders, built once and published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Content edits, backups, security updates and uptime monitoring, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Content edits, backups, security updates and uptime monitoring, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
-    "Search for a web designer in Delhi and you'll find thousands, many working out of Laxmi Nagar or Nehru Place, few publishing a price. We publish ours, reply on WhatsApp every day of the week, hand over every login at launch, and keep maintaining your site for five months without charge.",
+    "Search for a web designer in Delhi and you'll find thousands, many working out of Laxmi Nagar or Nehru Place, few publishing a price. We publish ours, reply on WhatsApp every day of the week, hand over every login at launch, and keep maintaining your site for two months without charge.",
   pricingIntro:
     "Delhi web design quotes are famously elastic, and the same brief can get figures that differ tenfold. These are our actual starting prices. The final number depends on pages, features and whether your content is ready, and you receive it itemised before we start.",
   sections: [
@@ -164,11 +164,11 @@ const delhi: CityContent = {
     },
     {
       id: "ownership-delhi",
-      heading: "Your logins, your domain, and five months of free upkeep",
+      heading: "Your logins, your domain, and two months of free upkeep",
       paragraphs: [
         "We regularly meet Delhi business owners who cannot edit their own website. The developer who built it has changed numbers, the domain is in his name, and the hosting renews on an account nobody can open. When the renewal fails, the site goes down, and sometimes email goes with it.",
         "We set things up so that never happens. The domain is registered in your name, hosting sits in your account, and at launch you receive every password, the source code and a short document explaining how it all fits together. You are free to take the site to another developer whenever you like, with no exit fee.",
-        "For five months after launch, maintenance is free: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, it costs from ₹8,000 a month, or you can message us only when something needs changing.",
+        "For two months after launch, maintenance is free: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, it costs from ₹8,000 a month, or you can message us only when something needs changing.",
       ],
     },
     {
@@ -262,9 +262,9 @@ const delhi: CityContent = {
         "Yes. The domain is registered in your name, the hosting is in your account, and you receive every login and the full source code at launch. You can move to another developer at any time, and there is no exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months after launch, updates, fixes, security patches, backups, uptime monitoring and speed checks are free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
+        "During the first two months after launch, updates, fixes, security patches, backups, uptime monitoring and speed checks are free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
     },
     {
       question: "Can you redesign my old website without losing Google traffic?",

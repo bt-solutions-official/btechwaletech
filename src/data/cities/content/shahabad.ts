@@ -56,7 +56,7 @@ const shahabad: CityContent = {
     ai: "WhatsApp assistants that send slab sizes, thicknesses, finishes and loading rates to enquiries and pass serious orders to you.",
     data: "Dashboards of slabs cut, polished and dispatched, truck loads by buyer, and money pending from each contractor.",
     app: "Android and iOS apps for quarry supervisors to record loads or for contractors to re-order slabs, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Stone traders in Shahabad deal with buyers they have never met, often in other states, so trust is earned in writing. We do the same: published starting prices, an itemised quote, WhatsApp replies every day of the week, and every domain, hosting, code and store account registered in your name from day one.",
@@ -168,7 +168,7 @@ const shahabad: CityContent = {
       heading: "Ownership, handover and maintenance for Shahabad websites and apps",
       paragraphs: [
         "In smaller towns a common complaint is a website that vanished because the designer registered the domain in his own name and then stopped answering. We register the domain, hosting, source code, Google Business Profile and any Play Store or App Store accounts in your name, and hand over every login in writing.",
-        "Maintenance is free for five months after launch. That covers rate and content updates, backups, security patches, plugin and framework updates, and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to carry on, and you are free to move to another developer at any point.",
+        "Maintenance is free for two months after launch. That covers rate and content updates, backups, security patches, plugin and framework updates, and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to carry on, and you are free to move to another developer at any point.",
         "Apps need attention every year because Google and Apple keep changing their rules. We track those changes and update your app in time, so it stays listed in both stores.",
       ],
     },
@@ -265,7 +265,7 @@ const shahabad: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time.",
     },
     {
       question: "Do you work in Wadi, Chittapur and Sedam as well?",

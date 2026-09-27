@@ -56,7 +56,7 @@ const parvathipuram: CityContent = {
     ai: "Telugu-speaking WhatsApp bots that handle rate, stock and fee questions and route anything tricky to the owner.",
     data: "Season reports showing purchases by village, kernel grades, dispatches and money owed, viewable on a mobile.",
     app: "Supplier rate-alert or parent notice apps for Android and iOS, listed on Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "No upkeep charge for the first five months after going live; from ₹8,000 a month afterwards for edits, backups and patches.",
+    maintenance: "No upkeep charge for the first two months after going live; from ₹8,000 a month afterwards for edits, backups and patches.",
   },
   whyUsIntro:
     "Firms in Parvathipuram are finding their feet in a bigger district role and prefer people who explain before they bill. Our starting prices are public, each quote is itemised on paper, WhatsApp gets an answer on any day of the week, and your domain, hosting, source code and app store listings are registered to you. Where a feature cannot justify its cost, we point that out early.",
@@ -187,7 +187,7 @@ const parvathipuram: CityContent = {
       heading: "Ownership, maintenance and IT services around Parvathipuram: Salur, Kurupam, Seethampeta",
       paragraphs: [
         "You own the result outright. We book the domain against your email address, the hosting invoice carries your name, you get the complete source code, and your Google Business Profile, Play Console and Apple developer account are held by you. A handover note lists every username so that no outsider, us included, can ever block your access.",
-        "Upkeep costs nothing for the first five months after launch; in that window we change prices and pictures, keep backups, install security fixes and test the enquiry form, payment page and WhatsApp button. Afterwards you can keep us on from ₹8,000 a month, run things in-house, or give the code to someone else. Apps additionally need an annual refresh to meet new Google and Apple minimums, which we schedule ahead of time.",
+        "Upkeep costs nothing for the first two months after launch; in that window we change prices and pictures, keep backups, install security fixes and test the enquiry form, payment page and WhatsApp button. Afterwards you can keep us on from ₹8,000 a month, run things in-house, or give the code to someone else. Apps additionally need an annual refresh to meet new Google and Apple minimums, which we schedule ahead of time.",
         "Clients across the district are welcome, from Salur, Kurupam, Seethampeta, Palakonda, Komarada, Pachipenta, Makkuva and Gummalakshmipuram to Bobbili, Vizianagaram, Srikakulam and Visakhapatnam. If you trade in more than one of these places, each town page should say something true about that town: a branch, a delivery day, the villages reached, the number to ring.",
         "Still undecided? A couple of lines on WhatsApp is enough to begin. Sometimes the honest advice is a site or an app; other times it is simply correcting your map pin, which takes you ten minutes, and we will tell you that too.",
       ],
@@ -271,7 +271,7 @@ const parvathipuram: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch you pay nothing for upkeep, which covers content edits, backups, security patches and periodic checks on forms, payments and WhatsApp buttons. After that you choose: keep us from ₹8,000 a month, do it in-house, or hand everything to another developer, since all logins are already yours.",
+        "For two months after launch you pay nothing for upkeep, which covers content edits, backups, security patches and periodic checks on forms, payments and WhatsApp buttons. After that you choose: keep us from ₹8,000 a month, do it in-house, or hand everything to another developer, since all logins are already yours.",
     },
     {
       question: "Do you work in Salur, Kurupam and Palakonda as well?",

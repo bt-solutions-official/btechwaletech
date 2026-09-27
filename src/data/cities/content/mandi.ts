@@ -56,7 +56,7 @@ const mandi: CityContent = {
     ai: "WhatsApp assistants that answer room, fare, fee and timing questions in Hindi and English, then pass bookings and special cases to you.",
     data: "Dashboards of room occupancy by season, fair-week sales, crate dispatch and fee collection, all in one place.",
     app: "Android and iOS apps for a coaching centre's students, a hospital's patients or a taxi operator's riders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Mandi owners tend to know their customers personally and dislike surprises on the bill. We publish starting prices, send quotes line by line, reply on WhatsApp all seven days, and register every domain, hosting plan, code repository and store account in your name. When a feature is not worth the money for a town of Mandi's size, we tell you plainly.",
@@ -177,7 +177,7 @@ const mandi: CityContent = {
       heading: "Ownership, maintenance and IT services around Mandi, Nerchowk and Sundernagar",
       paragraphs: [
         "A common complaint in hill towns is a website that vanished because the developer registered the domain in his own name and stopped answering calls. We register your domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts in your name, and hand over the logins in writing at launch.",
-        "Maintenance is free for five months after launch: content and rate updates, backups, security patches, software updates, and checks that booking forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time. Apps need yearly updates for new Google and Apple rules, and we track those so your app is not pulled from the stores.",
+        "Maintenance is free for two months after launch: content and rate updates, backups, security patches, software updates, and checks that booking forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time. Apps need yearly updates for new Google and Apple rules, and we track those so your app is not pulled from the stores.",
         "We work with businesses in Mandi town and across the district, including Nerchowk, Gutkar, Kamand, Pandoh, Rewalsar, Sundernagar, Sarkaghat, Joginder Nagar and Karsog. For a business serving several of these places, we create separate pages with real details for each, not copies with the town name swapped, which search engines ignore and customers see through.",
       ],
     },
@@ -260,7 +260,7 @@ const mandi: CityContent = {
     {
       question: "What maintenance do you give after the site or app is live?",
       answer:
-        "The first five months of maintenance are free, including updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any point.",
+        "The first two months of maintenance are free, including updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any point.",
     },
     {
       question: "Do you work in Nerchowk, Sundernagar and Joginder Nagar too?",

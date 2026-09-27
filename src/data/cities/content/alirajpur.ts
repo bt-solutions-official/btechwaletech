@@ -56,7 +56,7 @@ const alirajpur: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, timing and fee questions in Hindi, including voice-note friendly replies, and hand decisions to you.",
     data: "Season dashboards of mango purchases, dispatches, dealer sales and dues across the district's tehsils.",
     app: "Android and iOS apps from ₹40,000 for trader order books, dealer re-ordering or school notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Alirajpur business owners usually know their customers personally and dislike surprises on the bill. We work the same way: starting prices on this page, a written itemised quote, WhatsApp replies every day of the week, and your domain, hosting, code and app store accounts registered in your name.",
@@ -192,7 +192,7 @@ const alirajpur: CityContent = {
       heading: "You own the website and app: domain, code and maintenance",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and app store developer accounts are registered in your name, and we hand over every login in writing. If you ever want to switch developers, nothing is locked.",
-        "After launch, five months of maintenance are free, covering security updates, backups, small content changes and fixes. After that, plans start from ₹8,000 a month. For seasonal businesses such as mango trading, we can time updates to the season so rates, photos and dispatch dates are current.",
+        "After launch, two months of maintenance are free, covering security updates, backups, small content changes and fixes. After that, plans start from ₹8,000 a month. For seasonal businesses such as mango trading, we can time updates to the season so rates, photos and dispatch dates are current.",
         "If you want to keep growing, our <a href=\"/services/web-development/\">web development</a> and <a href=\"/services/seo-services/\">SEO services</a> can continue month to month, but neither is required.",
       ],
     },
@@ -280,7 +280,7 @@ const alirajpur: CityContent = {
     {
       question: "What does website maintenance cost in Alirajpur?",
       answer:
-        "The first five months after launch are free, covering security updates, backups, small edits and fixes. After that, maintenance starts from ₹8,000 a month. Seasonal businesses can time updates to their busy months, and you are never tied to us.",
+        "The first two months after launch are free, covering security updates, backups, small edits and fixes. After that, maintenance starts from ₹8,000 a month. Seasonal businesses can time updates to their busy months, and you are never tied to us.",
     },
     {
       question: "Do you work in Jobat, Kathiwada and nearby districts too?",

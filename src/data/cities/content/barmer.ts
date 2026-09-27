@@ -32,7 +32,7 @@ const barmer: CityContent = {
     h1: "Web, app, SEO and automation services for Barmer's oilfield suppliers, craft sellers and local trade",
     lede:
       "We are a remote team of three engineers building websites, online stores, Google listings and WhatsApp tools for Barmer. We work with contractors and suppliers serving the oil, lignite and power projects, ajrakh and embroidery sellers in Sadar Bazar, wood-carving workshops, jeera and guar traders, hospitals, coaching centres and hotels on Station Road.",
-    pills: ["Websites from ₹10,000", "Contractor capability sites", "Ajrakh and craft stores", "Hindi and English pages", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Contractor capability sites", "Ajrakh and craft stores", "Hindi and English pages", "2 months free maintenance"],
   },
   quickAnswer:
     "For a Barmer business, our static websites start at ₹10,000 and take one to two weeks. SEO sites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, handicraft or retail stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Barmer office.",
@@ -52,7 +52,7 @@ const barmer: CityContent = {
     ai: "WhatsApp assistants that answer rate, availability and admission questions in Hindi, and route serious enquiries to you at once.",
     data: "Dashboards for equipment utilisation, billing cycles, crop purchases or fee collections, built from records you already hold.",
     app: "Android and iOS apps for site supervisors, drivers and field staff that keep working when the signal drops, released on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then support from ₹8,000 a month or paid changes only when you need one.",
+    maintenance: "Free maintenance for two months after launch, then support from ₹8,000 a month or paid changes only when you need one.",
   },
   whyUsIntro:
     "Barmer changed fast after oil was struck, and many firms here now deal with large companies, outside buyers and project offices that check suppliers online first. Plenty of those firms still have no website at all. We build clear, honest pages, keep the domain and code in your name, and reply on WhatsApp every day of the week.",
@@ -195,7 +195,7 @@ const barmer: CityContent = {
       paragraphs: [
         "Some Barmer firms have discovered, at the worst moment, that their website's domain belonged to a developer who no longer answers calls. A contractor mid-way through a vendor registration cannot afford to lose the address printed on every document.",
         "We register the domain and hosting in your name. At launch you receive every login, the full source code and a short note on how everything is set up. You can move to another developer at any time, without paying us anything to leave.",
-        "Maintenance is free for five months after launch: content changes, fixes, security updates, backups and uptime checks. After that, it continues from ₹8,000 a month, or you contact us only when you need something changed.",
+        "Maintenance is free for two months after launch: content changes, fixes, security updates, backups and uptime checks. After that, it continues from ₹8,000 a month, or you contact us only when you need something changed.",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const barmer: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you contact us only when a change is needed.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you contact us only when a change is needed.",
     },
     {
       question: "Do you take work in Balotra, Jodhpur, Jaisalmer and Sanchore?",

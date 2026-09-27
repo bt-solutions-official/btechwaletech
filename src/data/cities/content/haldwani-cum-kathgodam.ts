@@ -7,7 +7,7 @@ const haldwani: CityContent = {
   meta: {
     title: "IT Services in Haldwani-cum-Kathgodam | Web, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Haldwani and Kathgodam traders, hotels, clinics and coaching centres. Sites from ₹10,000, 5 months free upkeep.",
+      "Websites, local SEO and WhatsApp automation for Haldwani and Kathgodam traders, hotels, clinics and coaching centres. Sites from ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Haldwani",
       "web design Haldwani",
@@ -30,11 +30,11 @@ const haldwani: CityContent = {
     eyebrow: "Haldwani–Kathgodam · Nainital district, Uttarakhand",
     h1: "Websites, apps, SEO and AI automation for the traders, hotels and clinics of Haldwani, the gateway to Kumaon",
     lede:
-      "Three remote engineers building websites, local SEO and WhatsApp automation for Haldwani and Kathgodam businesses: mandi traders, wholesalers supplying the hills, hotels and taxi operators serving Nainital traffic, hospitals, schools and coaching centres. Starting prices are public, you talk to the developers directly, and the first five months of maintenance cost nothing.",
+      "Three remote engineers building websites, local SEO and WhatsApp automation for Haldwani and Kathgodam businesses: mandi traders, wholesalers supplying the hills, hotels and taxi operators serving Nainital traffic, hospitals, schools and coaching centres. Starting prices are public, you talk to the developers directly, and the first two months of maintenance cost nothing.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Hotel and homestay bookings", "Wholesale price lists", "WhatsApp enquiry replies"],
   },
   quickAnswer:
-    "For a Haldwani or Kathgodam business, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Haldwani, and maintenance is free for five months after launch.",
+    "For a Haldwani or Kathgodam business, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Haldwani, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "City role", value: "Third most populous city in Uttarakhand and the commercial centre of Nainital district" },
     { label: "Trade position", value: "Wholesale link between the plains and the Kumaon hills for grain, fruit, vegetables and daily goods" },
@@ -51,7 +51,7 @@ const haldwani: CityContent = {
     ai: "WhatsApp replies that share room rates, taxi fares or coaching batch timings instantly, even during peak holiday weekends.",
     data: "Dashboards showing seasonal bookings, mandi purchase costs or outstanding dues from hill retailers, built from your existing sheets.",
     app: "Android and iOS apps for patient appointments, school updates or wholesale ordering, one codebase published to Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then maintenance from ₹8,000 a month, with backups and security updates included.",
+    maintenance: "Free upkeep for two months after launch, then maintenance from ₹8,000 a month, with backups and security updates included.",
   },
   whyUsIntro:
     "Haldwani's businesses serve two very different markets: townspeople and villages in the Tarai, and the hill towns that depend on Haldwani for supplies and services. Local web designers exist, but many sites here are slow, outdated or in someone else's name. We publish starting prices, reply on WhatsApp seven days a week and hand over full ownership.",
@@ -185,7 +185,7 @@ const haldwani: CityContent = {
       paragraphs: [
         "Many Haldwani businesses discover, years later, that their website domain was registered by a former developer who cannot be reached. When that happens, even a simple phone number change becomes impossible.",
         "We register the domain and hosting in your name from the beginning. At launch you receive every login, the full code and a short note on how everything is set up. You are free to move to any other developer whenever you choose, without any exit fee.",
-        "Maintenance is free for five months after launch, covering content edits, bug fixes, security updates, backups and uptime checks. After that, ongoing maintenance is available from ₹8,000 a month, or you can simply contact us when you need a change.",
+        "Maintenance is free for two months after launch, covering content edits, bug fixes, security updates, backups and uptime checks. After that, ongoing maintenance is available from ₹8,000 a month, or you can simply contact us when you need a change.",
       ],
     },
     {
@@ -276,7 +276,7 @@ const haldwani: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something changed.",
     },
     {
       question: "Do you work in Nainital, Bhimtal, Rudrapur and Almora too?",

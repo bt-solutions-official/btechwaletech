@@ -39,10 +39,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Jabalpur for vendors, garment units, lawyers and tour operators",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Jabalpur defence and railway vendors, Ganjipura garment units, advocates, clinics and safari operators hire us instead of a software development team in Jabalpur for order and inspection tracking, case diaries, booking systems, AI agents, apps and dashboards, with hosting and SEO included.",
-    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Vendor and PO tracking", "Hindi-first screens", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Vendor and PO tracking", "Hindi-first screens", "2 months free maintenance"],
   },
   quickAnswer:
-    "Comparing a software development team in Jabalpur with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. You get an itemised quote in about two working days plus five months of free maintenance.",
+    "Comparing a software development team in Jabalpur with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. You get an itemised quote in about two working days plus two months of free maintenance.",
   snapshot: [
     { label: "Regional role", value: "Commercial centre of the Mahakoshal region and headquarters of West Central Railway" },
     { label: "Defence manufacturing", value: "Ordnance Factory Khamaria, Gun Carriage Factory, Vehicle Factory Jabalpur and Grey Iron Foundry, with a large vendor base" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that answer dealer, patient and tourist queries in Hindi, book slots and send hearing or payment reminders.",
     data: "Dashboards that show open orders, dispatches, receivables and staff output for Jabalpur owners, fed from apps, Tally or spreadsheets.",
     app: "Android and iOS apps for Jabalpur garment dealers, vendor supervisors, advocates and safari guests, built once in Flutter or React Native, from ₹40,000.",
-    maintenance: "Backups, updates, security patches and small changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, updates, security patches and small changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Jabalpur has capable local IT firms, but many vendors and traders still wait weeks for replies or pay for software they never fully own. A freelance group of three named engineers, with published starting prices and all accounts in your name, is a straightforward alternative.",
@@ -183,7 +183,7 @@ const content: CityContent = {
       paragraphs: [
         "All Jabalpur systems we build run on cloud hosting with HTTPS, automated backups, uptime monitoring, role-based access and audit logs, in an account registered to you. This protects vendors, advocates and clinics from losing data to a failed office computer or a vanished developer.",
         "Our usual stack is Node.js or Python with PostgreSQL, React or Astro on the front end, and AWS or a comparable cloud, deployed through an automated pipeline with rollback. Backups are tested by restoring them, keys stay out of the code, and former staff are removed promptly.",
-        "Forms are built to keep entries when the network drops, which matters during power cuts and in outlying areas. Hosting and deployment are included in every project, followed by five months of free maintenance.",
+        "Forms are built to keep entries when the network drops, which matters during power cuts and in outlying areas. Hosting and deployment are included in every project, followed by two months of free maintenance.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const content: CityContent = {
       id: "support-ownership-jabalpur",
       heading: "Maintenance, support and ownership after launch",
       paragraphs: [
-        "Every Jabalpur project includes five months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the code, domain, hosting and all logins.",
+        "Every Jabalpur project includes two months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the code, domain, hosting and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Jabalpur and do not claim one; you speak to the engineers who built your system. Larger changes are quoted before work starts.",
         "Documentation at handover means another developer can continue if you ever switch. Our <a href='/it-services/madhya-pradesh/'>Madhya Pradesh hub</a> covers the state, with sibling pages for <a href='/it-services/madhya-pradesh/bhopal/'>Bhopal</a> and <a href='/it-services/madhya-pradesh/gwalior/'>Gwalior</a>, and nearby <a href='/murwara-katni/'>Katni</a> and <a href='/sagar/'>Sagar</a> are served the same way. Start on the <a href='/contact/'>contact page</a>.",
       ],
@@ -290,7 +290,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: bug fixes, small changes, security updates, backups and uptime checks. After that, support starts at ₹8,000 a month, or you can pay per change. New modules are quoted before any work starts.",
+        "Two months of free maintenance after launch: bug fixes, small changes, security updates, backups and uptime checks. After that, support starts at ₹8,000 a month, or you can pay per change. New modules are quoted before any work starts.",
     },
     {
       question: "Can you build Android and iOS apps for our Jabalpur staff and dealers?",

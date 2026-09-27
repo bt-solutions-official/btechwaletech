@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers building, optimizing and coordinating your cleaning site" },
     { value: "2", label: "Working days to an itemized quote for your cleaning website" },
-    { value: "5", label: "Months of free maintenance after your site goes live" },
+    { value: "2", label: "Months of free maintenance after your site goes live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Trust signals", value: "Insurance and bonding details you hold, background-check policy, real team photos, Google reviews" },
       { label: "Commercial path", value: "Walk-through request form for offices, clinics and property managers" },
       { label: "Starting price", value: `From ${P.site}; service-area builds from ${P.seoSite}; monthly SEO from ${P.seo}` },
-      { label: "After launch", value: `5 months of free maintenance, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care} a month` },
     ],
   },
   services: {
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
       ["Design on staging", "A mobile-first design using your crew photos, with the quote tool running on test prices so you can try real homes from your records."],
       ["Connect booking and billing", "Calendar, saved-card recurring plans, confirmations and cancel links are wired up and tested with small test charges on your account."],
       ["Write and load pages", "Service pages, checklists, area pages, commercial and hiring pages go in, written from your notes and reviewed by you."],
-      ["Launch and look after it", "Search Console, analytics and speed checks at launch, then five months of free maintenance while you settle into online bookings."],
+      ["Launch and look after it", "Search Console, analytics and speed checks at launch, then two months of free maintenance while you settle into online bookings."],
     ],
   },
   faqHeading: "Cleaning company website design questions from US owners",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Who owns my cleaning company website and customer list?", answer: "You do. The domain is in your business name, hosting is on your account, the code and content belong to you, and customer data lives in tools you control. Saved cards stay with your card processor under your merchant account. If you change developers later, you keep everything and hand over the logins." },
     { question: "Does my cleaning website need to be ADA accessible?", answer: "The Department of Justice says the ADA applies to businesses open to the public, including what they offer online, and points to WCAG as helpful guidance. We build readable contrast, labeled form fields, keyboard-friendly booking steps and alt text on photos. For advice on your own legal obligations, ask your attorney." },
     { question: "Can you add an AI chatbot to my cleaning website?", answer: `Yes. A chatbot trained on your services, prices, checklists and policies can answer common questions after hours and pass booking-ready visitors to your quote tool or to you by text. AI automation starts from ${P.ai}. It is optional; a clear site with a good calculator already answers most questions.` },
-    { question: "What does cleaning website maintenance cost after launch?", answer: `The first five months after launch include free maintenance: updates, backups, security checks and small edits. After that, care starts from ${P.care} a month. Changing your own prices, blocking dates and editing text are things your office can do without us, and we show you how at handover.` },
+    { question: "What does cleaning website maintenance cost after launch?", answer: `The first two months after launch include free maintenance: updates, backups, security checks and small edits. After that, care starts from ${P.care} a month. Changing your own prices, blocking dates and editing text are things your office can do without us, and we show you how at handover.` },
     { question: "Can my cleaning website be in English and Spanish?", answer: "Yes. We build a language switch with separate pages for each language, which helps both customer bookings and cleaner recruitment in many US markets. We write in English, so you or your translator supply or approve the Spanish copy. Booking confirmations can be sent in the language the customer chose." },
   ],
   related: {

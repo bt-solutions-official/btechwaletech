@@ -56,7 +56,7 @@ const rajagangapur: CityContent = {
     ai: "WhatsApp assistants that answer job-status, fee and price questions in Hindi, Odia or English and hand real decisions back to you.",
     data: "Dashboards showing freight pending by party, jobs waiting for material and monthly margins per vehicle or per contract.",
     app: "Android and iOS apps for drivers logging trips, supervisors marking site attendance or parents getting school notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security patches and app store renewals.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security patches and app store renewals.",
   },
   whyUsIntro:
     "People in Rajgangpur deal with large plants every day, so they know the value of paperwork. We work the same way: a written scope, dates and a costed list before any work starts, WhatsApp replies every day of the week, and every account registered in your name. If a feature will not earn its cost, we tell you before you pay for it.",
@@ -169,7 +169,7 @@ const rajagangapur: CityContent = {
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom web app or business software: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance after the first five free months: from ₹8,000 a month",
+        "Maintenance after the first two free months: from ₹8,000 a month",
       ],
     },
     {
@@ -195,7 +195,7 @@ const rajagangapur: CityContent = {
       heading: "Ownership of your Rajgangpur website and app, and upkeep after launch",
       paragraphs: [
         "Everything we build for you belongs to you from the first day. The domain is registered with your email, the hosting account is in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account all list you as the owner. At handover you receive a written sheet of every login. No developer, us included, should ever be able to hold your business hostage.",
-        "For the first five months after launch, maintenance is free. That covers content edits such as new prices or festival offers, backups, security and version updates, and routine checks that forms, UPI checkout and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, handle it in-house, or give the code to any other developer without asking our permission.",
+        "For the first two months after launch, maintenance is free. That covers content edits such as new prices or festival offers, backups, security and version updates, and routine checks that forms, UPI checkout and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, handle it in-house, or give the code to any other developer without asking our permission.",
         "Apps need a yearly update even when nothing seems broken, because Google and Apple keep raising the minimum versions they accept. We track those deadlines and ship the update in good time so your listing is not pulled from either store.",
       ],
     },
@@ -267,7 +267,7 @@ const rajagangapur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: content edits, backups, security updates and checks on forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Since the code and accounts are already yours, you can also move to another developer at any time.",
+        "The first two months after launch are free: content edits, backups, security updates and checks on forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Since the code and accounts are already yours, you can also move to another developer at any time.",
     },
     {
       question: "You have no office in Rajgangpur. How do meetings and approvals work?",

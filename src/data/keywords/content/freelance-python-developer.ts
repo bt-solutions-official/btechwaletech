@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Main frameworks", "Django, FastAPI, Flask for small services"],
     ["Data stack", "pandas, SQL, PostgreSQL, Jupyter"],
     ["Code lives in", "A Git repository you own"],
-    ["After delivery", "5 months of free maintenance"],
+    ["After delivery", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can read and extend your code" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after delivery" },
+    { value: "2", label: "Months of free fixes after delivery" },
     { value: "0", label: "Platform fees added to your bill" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Hosting", value: "Your VPS or cloud account, or serverless functions" },
       { label: "Deliverables", value: "Repository, README, tests, environment template" },
       { label: "Payment", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -162,7 +162,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a freelance Python developer cost in India?",
       paragraphs: [
-        `It depends mostly on which family of work you need and how much reliability it requires. With us, AI and workflow automation starts at ${P.ai} (${P.aiUsd}) and a custom web app or API back end starts at ${P.software} (${P.softwareUsd}). Maintenance after the first five free months starts at ${P.care}.`,
+        `It depends mostly on which family of work you need and how much reliability it requires. With us, AI and workflow automation starts at ${P.ai} (${P.aiUsd}) and a custom web app or API back end starts at ${P.software} (${P.softwareUsd}). Maintenance after the first two free months starts at ${P.care}.`,
         `Across the Indian market, Python quotes vary a lot. Some people charge by the hour, some per task, some per project. The spread comes from experience with production systems, whether tests and documentation are included, whether hosting and deployment are part of the job, and whether support after delivery is priced in. Two quotes for “a script to merge Excel files” may describe a one-off notebook and a scheduled, logged, error-handled tool.`,
         `To compare fairly, send each candidate the same description plus sample files, and ask for scope in lines: inputs handled, outputs produced, error handling, deployment, documentation, support period. The cheapest line-by-line quote that still covers all of those is usually the right one.`,
       ],
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show how a freelance Python developer engagement can grow in stages, not a client story.`,
         `A pharma distributor with three warehouses has staff who each export stock from billing software every evening; a manager merges the files by hand the next morning, and near-expiry batches get missed. Stage one is automation, starting at ${P.ai}: a Python script collects the three exports from a shared folder, standardises product names, flags batches expiring within 90 days, and sends a WhatsApp and email summary at 8 a.m. It logs every run and warns if a file is missing.`,
-        `Two months later, the distributor wants retailers to check availability themselves. Stage two is a Django portal, starting at ${P.software}: retailer logins, a searchable stock view built on the same cleaned data, order requests, and an admin screen for the staff. The existing script becomes the data feed, so nothing is rebuilt. Both stages are in the distributor’s repository, with five months of free maintenance after each delivery.`,
+        `Two months later, the distributor wants retailers to check availability themselves. Stage two is a Django portal, starting at ${P.software}: retailer logins, a searchable stock view built on the same cleaned data, order requests, and an admin screen for the staff. The existing script becomes the data feed, so nothing is rebuilt. Both stages are in the distributor’s repository, with two months of free maintenance after each delivery.`,
       ],
     },
     {
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
         ["API back end for a mobile app", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "Orders, logins, notifications"],
         ["Android & iOS app with Python back end", `${P.app}`, `${P.appUsd}`, "6–10 weeks", "Field-staff or ordering app"],
         ["Website with Python-generated SEO pages", `${P.seoSite}`, `${P.seoSiteUsd}`, "3–5 weeks", "700+ data-driven service pages"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Fixes, updates, small changes"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Fixes, updates, small changes"],
       ],
       hideSm: [2],
     },
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
       ["Prototype on your data", "We build the core logic first and show it running on your samples, so you judge results, not slides."],
       ["Harden and deploy", "Tests, logging, scheduling and deployment to your server or cloud account. A second developer reviews every change."],
       ["Hand over the repository", "You receive the Git repository, README, environment template and runbook, plus admin access to every service involved."],
-      ["Five months of free fixes", "Bugs, small tweaks and dependency updates are free for five months; after that, maintenance continues from " + P.care + " if you want it."],
+      ["Two months of free fixes", "Bugs, small tweaks and dependency updates are free for two months; after that, maintenance continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Freelance Python developer: frequently asked questions",
@@ -371,14 +371,14 @@ const content: FreelanceContent = {
     { question: "Is it better to hire a freelancer or a full-time Python developer?", answer: "Hire freelance when the work comes in projects of weeks or a few months, or when you need several skills such as back end, data and AI for a limited time. Hire full-time when you have a steady flow of Python work for years and want someone embedded in your team. Many companies start freelance and hire later." },
     { question: "Can a freelance Python developer build AI features for my business?", answer: `Yes. Common, practical examples are reading invoices or forms into structured data, answering routine questions on WhatsApp from your own documents, sorting leads and summarising reports. BtechWaleTech builds these in Python from ${P.ai}, estimates monthly API usage costs before building, and adds checks and human fallback where mistakes would matter.` },
     { question: "Where will my Python script or app run?", answer: "It depends on the job. Scripts one person runs can stay on an office computer. Scheduled jobs and Django apps usually run on a small VPS or cloud server. Occasional event-driven jobs suit serverless functions such as AWS Lambda. All hosting accounts should be in your name and paid from your card." },
-    { question: "Can you fix or upgrade old Python code someone else wrote?", answer: `Yes. We first read and run the existing code, list risks such as Python 2 syntax, missing dependencies or hard-coded passwords, and propose a stabilisation plan before adding features. Legacy rescue is quoted after that review. Ongoing maintenance of the upgraded code starts at ${P.care} after the first five free months.` },
+    { question: "Can you fix or upgrade old Python code someone else wrote?", answer: `Yes. We first read and run the existing code, list risks such as Python 2 syntax, missing dependencies or hard-coded passwords, and propose a stabilisation plan before adding features. Legacy rescue is quoted after that review. Ongoing maintenance of the upgraded code starts at ${P.care} after the first two free months.` },
     { question: "Is web scraping with Python legal in India?", answer: "Scraping public data is common, but legality depends on the site’s terms of use, the type of data and how it is used. Personal data brings obligations under India’s Digital Personal Data Protection Act. We check terms, respect rate limits, avoid logging into sites without permission, and advise against projects that look risky. Take legal advice for sensitive cases." },
     { question: "Do you sign an NDA before seeing our data?", answer: "Yes. If you are sharing customer lists, financial data or unreleased product plans, we are happy to sign a reasonable NDA first. We also prefer anonymised or sample data during early development, keep credentials out of the code, and delete copies of your data from our machines at handover when you ask." },
     { question: "How do payments work for a Python project?", answer: "Payments are split into milestones you can see: typically an advance, a payment after the prototype runs on your data, and the balance at handover. In India you pay by UPI or bank transfer; international clients pay through Wise, bank wire or PayPal. Nothing is billed until you approve the itemised estimate in writing." },
     { question: "Can the same team build a website or app around the Python back end?", answer: `Yes. BtechWaleTech builds websites from ${P.site}, and Android and iOS apps from ${P.app} with Flutter or React Native. A Python API in Django or FastAPI can serve both, so your web portal and app share the same data, logins and business rules rather than duplicating them.` },
-    { question: "Do you provide support after the Python project is delivered?", answer: `Yes. Every delivery includes five months of free maintenance covering bugs, small changes and dependency updates. After that you can continue maintenance from ${P.care} a month, or take the code to another developer using the README and runbook we hand over. You are never locked in.` },
+    { question: "Do you provide support after the Python project is delivered?", answer: `Yes. Every delivery includes two months of free maintenance covering bugs, small changes and dependency updates. After that you can continue maintenance from ${P.care} a month, or take the code to another developer using the README and runbook we hand over. You are never locked in.` },
     { question: "Can a freelance Python developer work with clients outside India?", answer: `Yes. Python projects are fully remote, and BtechWaleTech works with clients in the USA, UK, Australia, the UAE and elsewhere. Pricing is in USD, for example automation from ${P.aiUsd}, with calls scheduled in overlapping hours and payments by Wise, bank wire or PayPal.` },
-    { question: "Python developer chahiye, kaam kaise shuru hoga?", answer: `WhatsApp par apna kaam batayiye aur sample files bhejiye. Lagbhag 2 working days mein itemised estimate milega. Automation ${P.ai} se aur Django ya FastAPI web app ${P.software} se shuru hota hai. Code aapki repository mein rahega, payment UPI ya bank transfer se milestones mein, aur delivery ke baad 5 mahine ke fixes free.` },
+    { question: "Python developer chahiye, kaam kaise shuru hoga?", answer: `WhatsApp par apna kaam batayiye aur sample files bhejiye. Lagbhag 2 working days mein itemised estimate milega. Automation ${P.ai} se aur Django ya FastAPI web app ${P.software} se shuru hota hai. Code aapki repository mein rahega, payment UPI ya bank transfer se milestones mein, aur delivery ke baad 2 mahine ke fixes free.` },
   ],
   related: {
     heading: "Related Python, data and automation pages",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance Python developer? Send the task and a sample file",
-    note: `Describe what the code should do and share real sample data on WhatsApp. You will get an itemised estimate in about two working days, with automation from ${P.ai}, web apps from ${P.software}, code in your repository and five months of free fixes.`,
+    note: `Describe what the code should do and share real sample data on WhatsApp. You will get an itemised estimate in about two working days, with automation from ${P.ai}, web apps from ${P.software}, code in your repository and two months of free fixes.`,
   },
 };
 

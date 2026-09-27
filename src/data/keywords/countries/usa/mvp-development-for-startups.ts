@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["AI-feature MVP", `From ${P.ai} · 2–4 weeks`],
     ["Where the code lives", "Your company's GitHub, from the first commit"],
     ["Who owns the IP", "Your company, in writing"],
-    ["After launch", `5 months of free fixes, then from ${P.care}`],
+    ["After launch", `2 months of free fixes, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers building your MVP, and you talk to all of them" },
     { value: "6–12", label: "Weeks from signed scope to a live first version" },
     { value: "2", label: "Working days to an itemized MVP estimate" },
-    { value: "5", label: "Months of free post-launch fixes while you iterate" },
+    { value: "2", label: "Months of free post-launch fixes while you iterate" },
   ],
   answer: {
     heading: "What should a startup expect from an MVP development company?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Waitlist and landing page", note: `A fast pre-launch page with signup, analytics and a demo video, from ${P.site}, to measure demand before the build.`, href: "/usa/landing-page-design-services/", size: "md" },
       { name: "No-code rescue", note: "Rebuilding a Bubble or Glide prototype in code once it hits limits, keeping the data and the flows users already know.", size: "sm" },
       { name: "React Native MVP", note: "Chosen when your future hires will be JavaScript developers or the web and mobile apps should share logic.", href: "/usa/react-native-app-development/", size: "sm" },
-      { name: "Post-launch iteration", note: `Two-week cycles of fixes and small features after launch; free for 5 months, then care from ${P.care}.`, size: "sm" },
+      { name: "Post-launch iteration", note: `Two-week cycles of fixes and small features after launch; free for 2 months, then care from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After launch, run two-week cycles: measure the one metric tied to your riskiest assumption, talk to users, then fix, cut or build the next smallest thing. Decide in advance what result means pivot, persevere or stop.`,
         `We set up the measurement before launch so you are not guessing afterwards. That usually means event tracking on the core journey (signed up, completed first action, came back), an admin view of real activity, and crash and error reporting so bugs surface before users complain. Your first post-launch review, around day 14, compares the numbers against the pass mark you wrote down during scoping.`,
-        `The 5 months of free fixes after launch cover bugs in what we built. New features during that time are scoped and quoted like any other work, which keeps both sides honest about what is a fix and what is a change of direction. When your metric moves, you have evidence for your next raise or for your first engineering hire. When it doesn't, you have saved the money you would have spent building features nobody asked for.`,
+        `The 2 months of free fixes after launch cover bugs in what we built. New features during that time are scoped and quoted like any other work, which keeps both sides honest about what is a fix and what is a change of direction. When your metric moves, you have evidence for your next raise or for your first engineering hire. When it doesn't, you have saved the money you would have spent building features nobody asked for.`,
       ],
       list: [
         "Day 0: launch to the first cohort, tracking live",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
       ["Itemized estimate", "In about two working days you get screens, roles, integrations, milestones and starting prices in USD. Nothing is billed until you approve in writing."],
       ["Accounts and design", "You create the company GitHub, cloud and store accounts; we invite ourselves with limited access and design the core journey for your review."],
       ["Weekly build loops", "Each week ends with a demo in your morning and a build on your phone or browser. You decide, we adjust, and scope changes are priced before they start."],
-      ["Launch, measure, iterate", "We ship to your first cohort, set up tracking, and run two-week improvement cycles, with fixes free for 5 months after launch."],
+      ["Launch, measure, iterate", "We ship to your first cohort, set up tracking, and run two-week improvement cycles, with fixes free for 2 months after launch."],
     ],
   },
   faqHeading: "MVP development for startups: founders' questions",
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
     { question: "Should my MVP be a mobile app or a web app?", answer: "Build a web app when your users are businesses working at a desk, when you need to iterate daily without store review, or when budgets are tight. Build a mobile app when the core action happens on the move, needs the camera, location or notifications, or when your users expect an app icon. Many B2B startups start on the web and add mobile later." },
     { question: "Can you build an MVP with AI features?", answer: `Yes. AI-feature MVPs start at ${P.ai} and usually take 2 to 4 weeks for a narrow workflow such as document extraction, drafting or a support assistant. The model provider's usage fees are billed to your own account. The key is testing whether the AI step saves users real time, so we log inputs and outcomes from the first day.` },
     { question: "How do I get my first users to test the MVP?", answer: "Recruit a named list of 20 to 100 target users before launch and invite them personally. On iPhone, Apple's TestFlight supports up to 10,000 external testers. On Android, new personal Google Play accounts need a closed test with at least 12 testers for 14 days before production, so plan for it. A web MVP only needs a private link." },
-    { question: "What happens after the MVP launches?", answer: "You measure the one metric linked to your riskiest assumption, talk to users and work in two-week cycles of fixes and small bets. Bugs in what we built are fixed free for 5 months after launch. New features are scoped and quoted separately, so it stays clear what is a fix and what is a change of direction." },
+    { question: "What happens after the MVP launches?", answer: "You measure the one metric linked to your riskiest assumption, talk to users and work in two-week cycles of fixes and small bets. Bugs in what we built are fixed free for 2 months after launch. New features are scoped and quoted separately, so it stays clear what is a fix and what is a change of direction." },
     { question: "Will an investor take my outsourced MVP seriously?", answer: "Investors care far more about traction and the team than about who wrote the first version. What they may check is ownership and code quality: that the IP sits with the company, that the stack is mainstream and that a future engineer can work with it. A clean repository in your organization with documentation answers those questions quickly." },
     { question: "Can you rebuild my Bubble or no-code prototype?", answer: "Yes. We review the existing flows and data, keep the parts users already understand, and rebuild them in standard code, usually a React web app or a Flutter or React Native mobile app with a PostgreSQL database. Existing user data is migrated where the platform allows exports. This is often faster than a fresh build because the product decisions already exist." },
     { question: "How much of my time does MVP development take?", answer: "Plan on roughly two hours a week: a video demo in your morning, quick answers to questions on WhatsApp or Slack, and approval of each milestone. The first week needs more, because you create the company accounts and sign off the scope. Slow answers are the most common reason MVP timelines slip, so a responsive founder saves real money." },

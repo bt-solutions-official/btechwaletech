@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemized quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Platform fees added to your booking tool" },
   ],
   answer: {
@@ -202,7 +202,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Med spa website design with BtechWaleTech starts at ${P.site} for a single location site of up to 100 pages, and at ${P.seoSite} for several locations or a large treatment and area library. Aesthetic agencies quote in very different ways, often a build fee plus a monthly retainer, so compare what you will pay over two years and what you own at the end.`,
         `The biggest price drivers are the number of treatment pages, how much copy you supply versus how much we draft, the gallery size, and whether memberships and gift cards run through your booking platform or need a separate checkout from ${P.shop}. Photography is yours to arrange; good photos matter more to this kind of site than any design choice we make.`,
-        `Hosting, domain and booking software are billed to your spa directly, with no markup from us. After five months of free fixes, care starts at ${P.care}. Monthly local SEO from ${P.seo} is optional. The full list of plans is on the <a href='/pricing/'>pricing page</a>, and you approve an itemized quote before anything is billed.`,
+        `Hosting, domain and booking software are billed to your spa directly, with no markup from us. After two months of free fixes, care starts at ${P.care}. Monthly local SEO from ${P.seo} is optional. The full list of plans is on the <a href='/pricing/'>pricing page</a>, and you approve an itemized quote before anything is billed.`,
       ],
     },
     {
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "How do med spas get mentioned in AI search results?", answer: "AI tools tend to quote pages that answer a question clearly and consistently. Treatment pages that open with a short plain answer, provider names and titles, accurate device details and the same business information across your site, booking page and Google profile give them reliable material. No one can guarantee a citation." },
     { question: "Can you add an AI chat assistant to a med spa website?", answer: `Yes. An assistant trained on your approved treatment copy can answer questions about downtime, aftercare or parking at any hour and pass booking requests to your team, from ${P.ai}. It does not give medical advice or assess photos; anything clinical is routed to a provider.` },
     { question: "How does paying a team in India work for a US med spa?", answer: "Quotes and invoices are in USD and you pay by Wise, bank wire or PayPal; invoices are issued from India. Calls happen in your morning, which is our evening, and daily updates run on WhatsApp. Your accountant decides how to record the invoices." },
-    { question: "What happens after my med spa website launches?", answer: `The first five months of fixes and small changes are free, such as new treatments, updated offers or provider changes. After that, maintenance starts at ${P.care}. Your team can also add gallery sets, offers and staff profiles from the content editor using the handover guide.` },
+    { question: "What happens after my med spa website launches?", answer: `The first two months of fixes and small changes are free, such as new treatments, updated offers or provider changes. After that, maintenance starts at ${P.care}. Your team can also add gallery sets, offers and staff profiles from the content editor using the handover guide.` },
   ],
   related: {
     heading: "More US pages for aesthetic and health practices",

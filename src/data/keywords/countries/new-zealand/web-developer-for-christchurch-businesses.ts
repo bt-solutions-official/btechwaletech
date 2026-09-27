@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Web design Christchurch · for Canterbury firms, built remotely",
     h1: "Web design Christchurch builders, makers and tourism operators can own outright",
     lede: `Web design Christchurch businesses can plan around their own trade instead of studio overheads: BtechWaleTech is three freelance developers in India building sites for Canterbury construction firms, manufacturers, agritech suppliers and South Island tourism operators. Static sites start from ${P.site} and SEO sites with Canterbury service-area pages from ${P.seoSite}. There is no Christchurch office, so we meet on video in your afternoon. See the <a href='#sector-table'>sector table</a> or the <a href='/new-zealand/website-design-cost/'>NZ website cost guide</a>.`,
-    pills: ["Construction and trades", "Manufacturing and agritech", "South Island tourism", "Selwyn, Waimakariri and Mid Canterbury pages", "You own every account", "Calls in your afternoon", "5 months free maintenance"],
+    pills: ["Construction and trades", "Manufacturing and agritech", "South Island tourism", "Selwyn, Waimakariri and Mid Canterbury pages", "You own every account", "Calls in your afternoon", "2 months free maintenance"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Christchurch afternoon is our morning",
   },
   facts: [
@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who plan, build and look after your site" },
     { value: "299+", label: "Pages in the SEO site plan, enough for every Canterbury town you serve" },
-    { value: "5", label: "Months of free maintenance once the site is live" },
+    { value: "2", label: "Months of free maintenance once the site is live" },
     { value: "0", label: "Marketplace or middleman fees on your invoice" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Canterbury service-area SEO", note: "Separate pages for Christchurch suburbs, Rolleston, Rangiora, Kaiapoi, Ashburton and Timaru where you genuinely work, each with its own jobs and local detail.", href: "/new-zealand/seo-services/", size: "md" },
       { name: "Online stores for Canterbury makers", note: `Card and wallet checkout, courier rates, and a catalogue your staff update themselves, from ${P.shop}.`, href: "/new-zealand/ecommerce-website-design/", size: "md" },
       { name: "Rebuilds of older sites", note: "Keep the URLs that already bring enquiries, redirect the rest and move you off a slow theme without losing search history.", href: "/website-redesign-freelancer/", size: "sm" },
-      { name: "Ongoing care", note: `Five months of free maintenance, then optional care from ${P.care} for updates, backups and fixes.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing care", note: `Two months of free maintenance, then optional care from ${P.care} for updates, backups and fixes.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
       ["Design on a staging link", "You review layouts on your own phone in the yard, office or car park, and send changes by WhatsApp or on a short call."],
       ["Copy and proof", "We draft copy from your notes and photos, flag claims that need evidence, and you approve facts, licences and prices."],
       ["Build, connect, test", "Forms, bookings, dealer maps and tracking are connected and tested on real phones, with speed checked page by page."],
-      ["Launch and hand over", "Redirects from your old site go live, Search Console is verified, and you receive logins, a recorded walkthrough and five months of free maintenance."],
+      ["Launch and hand over", "Redirects from your old site go live, Search Console is verified, and you receive logins, a recorded walkthrough and two months of free maintenance."],
     ],
   },
   faqHeading: "Web design Christchurch: common questions",
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Do you include te reo Māori place names correctly?", answer: "Yes. We make sure macrons display correctly in menus, headings and page titles, and that forms and search handle names like Kaikōura properly. If you want bilingual headings or te reo versions of key pages, you supply or approve the wording, ideally with a qualified translator, and we build the layout." },
     { question: "Can you redesign my existing Christchurch business website?", answer: "Yes. We audit which pages bring traffic and enquiries, keep those URLs where possible, and redirect the rest so you do not lose search history. Then we rebuild the design and structure, usually on a faster platform, and add any missing service-area or sector pages." },
     { question: "Do you write the website copy?", answer: "We can draft copy from your notes, photos and a short call, and you check every fact, licence detail and claim before launch. Copywriting is itemised in the quote so you can choose to write some pages yourself. We flag claims such as “fastest” or “best” that need evidence under New Zealand consumer law." },
-    { question: "What happens after the free maintenance period?", answer: `The first five months of maintenance after launch are free. After that, optional care starts from ${P.care} and covers updates, backups, security fixes and small changes. You can also maintain the site yourself or move it to another developer, since every account is already in your name.` },
+    { question: "What happens after the free maintenance period?", answer: `The first two months of maintenance after launch are free. After that, optional care starts from ${P.care} and covers updates, backups, security fixes and small changes. You can also maintain the site yourself or move it to another developer, since every account is already in your name.` },
     { question: "Can you help my Christchurch business appear in AI search answers?", answer: "We build pages with short, direct answers, question headings and structured data for your business, services and area, which helps AI search and answer engines understand and quote them. We also keep your details consistent with your Google Business Profile. No one can guarantee AI citations, but these foundations improve your chances." },
     { question: "Do you do SEO for Christchurch businesses after launch?", answer: `Yes. Monthly SEO starts from ${P.seo} and covers technical fixes, new service-area and sector content, Google Business Profile updates and reporting through Search Console. The work focuses on the searches that actually bring enquiries in Christchurch and Canterbury.` },
     { question: "Can you connect my website to booking or job management systems?", answer: "Usually, yes. We connect quote forms, booking engines, job management tools and Xero where they offer an API or embed option. Tell us which systems you use and we will confirm in the quote what the connection involves, or suggest a simpler route if one exists." },

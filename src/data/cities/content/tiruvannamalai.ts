@@ -35,7 +35,7 @@ const tiruvannamalai: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Full-moon booking ready", "Silk saree stores", "WhatsApp replies in Tamil"],
   },
   quickAnswer:
-    "In Tiruvannamalai, a website from us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, a silk or retail store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Tiruvannamalai office, and maintenance is free for five months after launch.",
+    "In Tiruvannamalai, a website from us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, a silk or retail store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Tiruvannamalai office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Status", value: "District headquarters, upgraded to a City Municipal Corporation in 2024; about 2.1 lakh people (2011)" },
     { label: "Temple", value: "Arunachaleswarar (Annamalaiyar) temple, about 25 acres, with an 11-tier eastern gopuram around 66 m tall" },
@@ -52,7 +52,7 @@ const tiruvannamalai: CityContent = {
     ai: "WhatsApp replies in Tamil and English for room availability, full-moon dates, OPD times or saree stock, day and night.",
     data: "Full-moon and festival occupancy, sales and dues laid out on a phone dashboard for owners planning the next season.",
     app: "Android and iOS apps for guest check-in, clinic tokens, college notices or dealer orders, published on both stores in six to ten weeks.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Businesses in Tiruvannamalai often get websites from Chennai or Vellore firms that treat the town like any other district centre and miss its pilgrimage calendar. We are three remote engineers who plan around full moons and Deepam, publish starting prices and register every domain in the owner's name.",
@@ -173,11 +173,11 @@ const tiruvannamalai: CityContent = {
     },
     {
       id: "ownership-tiruvannamalai",
-      heading: "Domain, hosting and code in your name, with five free months of care",
+      heading: "Domain, hosting and code in your name, with two free months of care",
       paragraphs: [
         "Many Tiruvannamalai lodges and shops have lost their online presence because the person who built the site kept the domain and hosting, then moved on. When the renewal lapsed, the site and the search listing disappeared, sometimes right before a festival.",
         "We register the domain and hosting in your name from the first day. At launch you receive every login, the full source code and a short written note on how the site is set up. If you later choose another developer, you hand over access. There is no exit fee and no lock-in.",
-        "Maintenance is free for five months after launch, covering tariff and text updates, bug fixes, security patches, backups, uptime and speed checks, including the load of a full-moon weekend. After that it continues from ₹8,000 a month, or you contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what every build includes.",
+        "Maintenance is free for two months after launch, covering tariff and text updates, bug fixes, security patches, backups, uptime and speed checks, including the load of a full-moon weekend. After that it continues from ₹8,000 a month, or you contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what every build includes.",
       ],
     },
   ],
@@ -262,9 +262,9 @@ const tiruvannamalai: CityContent = {
         "You do. The domain and hosting are in your name, and you receive every login and the full source code at launch. You can move to another developer at any time without paying an exit fee.",
     },
     {
-      question: "What is covered in the five free months of maintenance?",
+      question: "What is covered in the two free months of maintenance?",
       answer:
-        "Tariff and text updates, bug fixes, security patches, backups, uptime monitoring and speed checks are free for five months after launch. After that, maintenance continues from ₹8,000 a month, or you contact us only when you need changes.",
+        "Tariff and text updates, bug fixes, security patches, backups, uptime monitoring and speed checks are free for two months after launch. After that, maintenance continues from ₹8,000 a month, or you contact us only when you need changes.",
     },
     {
       question: "Do you work with businesses in Arani, Polur, Chengam and Vellore?",

@@ -34,13 +34,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks once photos and details are in"],
     ["Many-town sites from", `${P.seoSite} for 299+ pages`],
     ["Ownership", "Domain, hosting and site in your name"],
-    ["After launch", "5 months free updates and fixes"],
+    ["After launch", "2 months free updates and fixes"],
     ["Quote", "Itemised in about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Developers building, hosting and optimising your site" },
     { value: "0", label: "Monthly rent to keep your own site online" },
-    { value: "5", label: "Months of free changes after launch" },
+    { value: "2", label: "Months of free changes after launch" },
     { value: "100", label: "Pages included in the starting website plan" },
   ],
   answer: {
@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["Area pages", "Often templated", "Manual", "Written per town with local details"],
       ["Quote form with photos", "Varies", "Possible with add-ons", "Built in, sent to email or WhatsApp"],
       ["Moving elsewhere later", "Often rebuild from scratch", "Hard to export", "Take the files to any developer"],
-      ["Help when needed", "Included support", "Help articles", "WhatsApp 7 days; 5 months free, then optional care"],
+      ["Help when needed", "Included support", "Help articles", "WhatsApp 7 days; 2 months free, then optional care"],
     ],
     fine: "A rented trade site can suit a brand-new sole trader who wants something online this week and is not sure the business will last; once you are established, owning the site usually works out better.",
   },
@@ -117,7 +117,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Own it once your business is established. A rented trade website is an ongoing bill for as long as you want to be online, and in most cases the site disappears when you stop paying; an owned site costs more upfront and then costs only hosting and a domain.`,
         `Monthly trade-website subscriptions are popular because there is little to pay at the start and someone else handles edits. That is a fair deal for a brand-new sole trader. The catch shows up later: after a few years you have paid for a site several times over and still do not own it. Some providers register the domain in their own account, which makes leaving harder, and area pages are sometimes the same template for every plumber they host.`,
-        `An owned site is a one-off build. The domain, hosting and site files sit in your name; you pay the host directly; any developer can work on it later. You still need occasional updates and changes, which is why our sites include five months of free changes, then optional care from ${P.care}, or you can make edits yourself. Before you sign or renew any rental agreement, read the cancellation and domain terms carefully.`,
+        `An owned site is a one-off build. The domain, hosting and site files sit in your name; you pay the host directly; any developer can work on it later. You still need occasional updates and changes, which is why our sites include two months of free changes, then optional care from ${P.care}, or you can make edits yourself. Before you sign or renew any rental agreement, read the cancellation and domain terms carefully.`,
       ],
     },
     {
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A plumber’s site should load in a couple of seconds on an ordinary phone with patchy signal. Google’s web.dev guidance defines good Largest Contentful Paint as within 2.5 seconds, and we test against it on a mid-range phone before launch.`,
         `Trade sites get slow for predictable reasons: huge uncompressed van and bathroom photos, video backgrounds, sliders, several review widgets, chat pop-ups and tracking scripts. We compress and resize images, avoid sliders, load widgets after the main content and keep fonts to a minimum. A static or lean WordPress build on decent UK or European hosting with a CDN handles traffic spikes on a cold morning without trouble.`,
-        `Hosting is in your name, and you pay the host directly. We set up SSL, backups and uptime alerts so you hear about any outage before a customer does. After the five free months, care from ${P.care} covers updates and monitoring if you would rather not think about it.`,
+        `Hosting is in your name, and you pay the host directly. We set up SSL, backups and uptime alerts so you hear about any outage before a customer does. After the two free months, care from ${P.care} covers updates and monitoring if you would rather not think about it.`,
       ],
     },
     {
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plumbing and heating demand swings with the weather, so the site should shift emphasis with it: boiler breakdowns and servicing in autumn and winter, frozen and burst pipes in cold snaps, bathrooms and planned upgrades in spring and summer.`,
         `Practically, that means a homepage section you can change in minutes (a seasonal message, a highlighted service), and pages ready before demand hits. A boiler servicing page published in October is too late to build much search presence for that winter; publish it in summer. The same applies to a frozen-pipes advice page, which can bring useful traffic and calls during a cold spell.`,
-        `Launch timing matters too. Avoid switching to a new website in the middle of the winter rush, when a broken form or missing redirect costs most. Late spring or summer is the calmer moment for heating engineers to rebuild. If you want updates made for you each season, that fits into the free five months or a care plan afterwards.`,
+        `Launch timing matters too. Avoid switching to a new website in the middle of the winter rush, when a broken form or missing redirect costs most. Late spring or summer is the calmer moment for heating engineers to rebuild. If you want updates made for you each season, that fits into the free two months or a care plan afterwards.`,
       ],
     },
     {
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       ["Domain and hosting in your name", "We help you register or transfer the domain into your own account and set up hosting you pay directly."],
       ["Build on a staging link", "Homepage, service pages, quote form and town pages appear on a private link you check on your phone in the evenings."],
       ["Test every call route", "Buttons, forms, photo uploads and review widgets are tested on real phones; you get a short video of each working."],
-      ["Launch and five free months", "The site goes live outside your busiest season, Search Console is watched, and changes are free for five months after launch."],
+      ["Launch and two free months", "The site goes live outside your busiest season, Search Console is watched, and changes are free for two months after launch."],
     ],
   },
   faqHeading: "Web design for plumbers: your questions answered",
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
     { question: "How do I show Checkatrade reviews on my website?", answer: "Checkatrade provides members with a reviews widget that can be added to their own website. We place it where it helps decisions, such as near the call button and on service pages, and load it after the main content so pages stay fast. Google reviews can be shown alongside through your Business Profile link or a lightweight embed." },
     { question: "Should my Google Business Profile show my home address?", answer: "Not if customers do not visit you there. Google’s guidance says to remove the address from your Business Profile if you do not serve customers at it, and to set service areas instead. You can list up to 20 service areas, and Google says the overall area should stay within about two hours’ drive of your base." },
     { question: "How long does it take to build a plumber website?", answer: "Usually one to two weeks of build once we have your services, towns, photos and registration details. Sites with many written town pages take longer, and large county-wide builds take three to five weeks. We suggest launching outside your busiest season so any teething problems do not cost winter callouts." },
-    { question: "Can I update my plumbing website myself?", answer: "Yes. We set up simple editing so you can change text, add job photos, update seasonal messages and add reviews from your phone or laptop. Changes are also free from us for five months after launch. After that you can keep editing yourself or use a care plan for updates and backups." },
+    { question: "Can I update my plumbing website myself?", answer: "Yes. We set up simple editing so you can change text, add job photos, update seasonal messages and add reviews from your phone or laptop. Changes are also free from us for two months after launch. After that you can keep editing yourself or use a care plan for updates and backups." },
     { question: "Will a new website get me to the top of Google?", answer: "Nobody can honestly guarantee rankings. A well-built site with specific service and town pages, fast mobile loading, correct structured data and a matching Google Business Profile gives you a strong base, and steady genuine reviews help most. Monthly local SEO is available if you want ongoing work, but results depend on your area’s competition." },
     { question: "Can customers book a boiler service online?", answer: "Yes. We can add a booking form with slots you control, or connect to a booking tool you already use. For many plumbers a request form that you confirm by phone or WhatsApp works better than instant booking, because it lets you group jobs by area. We build whichever suits how you run your diary." },
     { question: "Can you move my existing plumbing website to one I own?", answer: "Yes. We copy your text, photos and any reviews you are entitled to reuse, rebuild the site on hosting in your name, and help transfer your domain if it sits with the old provider. Old page addresses are redirected to the new ones so your Google listing and past links keep working." },
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "Can a team in India handle web design for plumbers in the UK?", answer: "Yes, as long as the details come from you. You supply services, towns, photos and registration numbers, often by WhatsApp voice note between jobs; we build on a private link you check on your phone. Domain and hosting are in your name, there are no site visits, and nothing is billed before you approve the quote." },
     { question: "How do I pay for a plumber website from the UK?", answer: "Quotes are in USD and invoices come from India. You can pay from a UK business or personal account through Wise, bank wire or PayPal. Nothing is billed until you approve the written quote, and payment stages are set out in it. Our terms and refund policy pages cover the general arrangements." },
     { question: "Do plumbing websites need a cookie banner and privacy notice?", answer: "A privacy notice is needed if your site collects personal data through forms, which quote and contact forms do. A cookie banner is needed if the site uses non-essential cookies such as advertising or most analytics trackers, and those should stay off until the visitor agrees. We build both; you or your adviser confirm the wording." },
-    { question: "What ongoing costs does an owned plumber website have?", answer: `Hosting and domain renewal, paid directly by you to the providers. Changes and fixes are free for five months after launch; after that, care from ${P.care} is optional, or you can edit the site yourself. If you want continuing local search work, monthly SEO starts at ${P.seo}. There is no rent to us.` },
+    { question: "What ongoing costs does an owned plumber website have?", answer: `Hosting and domain renewal, paid directly by you to the providers. Changes and fixes are free for two months after launch; after that, care from ${P.care} is optional, or you can edit the site yourself. If you want continuing local search work, monthly SEO starts at ${P.seo}. There is no rent to us.` },
   ],
   related: {
     heading: "More for UK trades and local businesses",

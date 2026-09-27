@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Custom platform with payments", `From ${P.software}, 6–12 weeks`],
     ["Currency PayNow moves", "Singapore dollars only"],
     ["Merchant account held by", "You, in your business name"],
-    ["Aftercare", `5 free months, then from ${P.care}`],
+    ["Aftercare", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers handling build, testing and support" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Payment credentials we keep after handover" },
   ],
   answer: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What PayNow integration costs from us",
-    note: `If you already have a working website or app and want PayNow with automatic confirmation, the integration starts from ${P.ai} and usually takes two to four weeks, including sandbox testing and a live low-value payment. A complete online store with PayNow, cards and wallets starts from ${P.shop}. Platforms where payments are one part of a larger system, such as booking engines or member portals, are quoted as custom software from ${P.software}. Gateway transaction fees are separate, charged by the provider directly to you. Five months of free maintenance follow launch, then care from ${P.care}.`,
+    note: `If you already have a working website or app and want PayNow with automatic confirmation, the integration starts from ${P.ai} and usually takes two to four weeks, including sandbox testing and a live low-value payment. A complete online store with PayNow, cards and wallets starts from ${P.shop}. Platforms where payments are one part of a larger system, such as booking engines or member portals, are quoted as custom software from ${P.software}. Gateway transaction fees are separate, charged by the provider directly to you. Two months of free maintenance follow launch, then care from ${P.care}.`,
   },
   guideLabel: "PayNow payment gateway integration guide",
   guide: [
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
         ["New online store with PayNow", "Store build with PayNow, cards and wallets", `From ${P.shop}`, "4–8 weeks"],
         ["Booking or member platform", "Custom system with payments and refunds inside", `From ${P.software}`, "6–12 weeks"],
         ["New app with PayNow", "Android and iOS app with checkout", `From ${P.app}`, "6–10 weeks"],
-        ["Payment monitoring and care", "Alerts, provider updates, fixes", `From ${P.care}`, "After 5 free months"],
+        ["Payment monitoring and care", "Alerts, provider updates, fixes", `From ${P.care}`, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
       ["Written quote, then sandbox build", "An itemised USD quote arrives in about two working days. After approval, we build against the provider's sandbox while your account is reviewed."],
       ["Test every path together", "Paid, expired, duplicate, mismatched and refunded orders are all tried in the sandbox by you and your staff before any real money moves."],
       ["Small live payment and refund", "With live keys in place, we make one real low-value payment and refund it, confirming the bank credit, emails, stock and reports."],
-      ["Handover and five free months", "You receive the code, documentation and key-rotation steps. We monitor alerts and fix issues free for five months, with care optional afterwards."],
+      ["Handover and two free months", "You receive the code, documentation and key-rotation steps. We monitor alerts and fix issues free for two months, with care optional afterwards."],
     ],
   },
   faqHeading: "PayNow payment gateway integration: common questions",
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
     { question: "Can PayNow payments be reconciled in Xero automatically?", answer: "Yes. Each successful payment can be recorded against its invoice in a clearing account, and each provider payout then moves the net amount to your bank account with fees booked separately. That turns a single unexplained bank credit into a matched batch. Direct UEN payments can be matched by the unique reference on each invoice." },
     { question: "Is PayNow integration compliant with the PDPA?", answer: "The integration supports your obligations under Singapore's Personal Data Protection Act by collecting only what checkout needs, keeping card data on the provider's hosted fields, restricting admin access and logging refunds. Compliance itself is your responsibility and should be confirmed by your own adviser; we do not certify sites or give legal advice." },
     { question: "Will PayNow work on WooCommerce and Shopify?", answer: "On WooCommerce, providers that support PayNow usually offer a plug-in, which we configure and strengthen with expiry, duplicate and verification rules. On Shopify, PayNow is added through a payment provider or app that Shopify supports in Singapore, so the options follow Shopify's rules. Custom and headless sites use a direct API integration." },
-    { question: "Do you maintain the payment integration after launch?", answer: `Yes. Five months of free maintenance follow launch, covering bug fixes and provider changes such as updated webhook formats or deprecated API versions. After that, ongoing care starts from ${P.care}. Because you own the code and documentation, you can also hand it to another developer whenever you prefer.` },
+    { question: "Do you maintain the payment integration after launch?", answer: `Yes. Two months of free maintenance follow launch, covering bug fixes and provider changes such as updated webhook formats or deprecated API versions. After that, ongoing care starts from ${P.care}. Because you own the code and documentation, you can also hand it to another developer whenever you prefer.` },
     { question: "What do you need from us to start?", answer: "A link to your site or app, admin or developer access, the name of the payment provider if you already have one, your typical order volume, how refunds work today, and who should receive payment alerts. If you have not chosen a provider yet, we start with a short comparison call before you apply." },
   ],
   related: {

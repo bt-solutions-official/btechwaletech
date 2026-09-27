@@ -56,7 +56,7 @@ const ramachandrapuram: CityContent = {
     ai: "Telugu WhatsApp assistants that quote stock and timings, collect order or appointment details and hand real decisions to the owner.",
     data: "Crop-season and pond-cycle dashboards showing sales by village, dues outstanding and harvest dates at a glance.",
     app: "Android and iOS apps for farm supervisors, college parents or repeat dealer orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Traders in the delta tend to buy on trust and a written paper. We publish starting prices, send a costed list of every item before work begins, reply on WhatsApp all seven days, and put your domain, hosting, source code and store accounts in your own name. If a feature will not earn its cost, we tell you plainly.",
@@ -177,7 +177,7 @@ const ramachandrapuram: CityContent = {
       heading: "Who owns your website and app, and how upkeep works",
       paragraphs: [
         "You own everything we build. The domain is registered with your email, hosting is billed to you, the complete source code is handed over, and your Google Business Profile, Google Play and Apple developer accounts are in your name. At the end of the project you get a single document with every login, so you never depend on one person to make a change.",
-        "The first five months after launch come with free maintenance. That covers price and photo updates, regular backups, security and software updates, and checks that forms, payments and WhatsApp links still work after each change. When that period ends, you can continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without asking our permission.",
+        "The first two months after launch come with free maintenance. That covers price and photo updates, regular backups, security and software updates, and checks that forms, payments and WhatsApp links still work after each change. When that period ends, you can continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without asking our permission.",
         "Apps need a yearly update even when nothing seems broken, because both stores raise their minimum requirements. We track those dates and push the update early so your app is not hidden from new users. Websites age more slowly, but a yearly check of speed and listings is still worth doing before the Shivaratri rush or the admission season.",
       ],
     },
@@ -269,7 +269,7 @@ const ramachandrapuram: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move to anyone else, since the code and every account already belong to you.",
+        "Maintenance is free for two months after launch, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move to anyone else, since the code and every account already belong to you.",
     },
     {
       question: "Do you serve Mandapeta, Kakinada, Amalapuram and Yanam too?",

@@ -39,10 +39,10 @@ const content: CityContent = {
     h1: "Freelance IT services in Sikkim: software, apps, automation and search visibility",
     lede:
       "IT services in Sikkim have to work for a small, mountainous state where tourism, pharmaceuticals, organic farming and government services drive most business. BtechWaleTech is a freelance group of three engineers working remotely from India. We build booking systems, travel agency software, pharma vendor tools, AI assistants, apps, online stores and SEO websites for businesses from Gangtok to Gyalshing.",
-    pills: ["Websites from ₹10,000", "Booking and permit workflows", "Automation from ₹40,000", "Custom software from ₹60,000", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Booking and permit workflows", "Automation from ₹40,000", "Custom software from ₹60,000", "2 months free maintenance"],
   },
   quickAnswer:
-    "IT services in Sikkim from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website (1 to 2 weeks), ₹40,000 for AI and WhatsApp automation (2 to 4 weeks), ₹50,000 for an online store and ₹60,000 for custom software (6 to 12 weeks). Quotes are itemised in about two working days, and five months of maintenance are free.",
+    "IT services in Sikkim from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website (1 to 2 weeks), ₹40,000 for AI and WhatsApp automation (2 to 4 weeks), ₹50,000 for an online store and ₹60,000 for custom software (6 to 12 weeks). Quotes are itemised in about two working days, and two months of maintenance are free.",
   snapshot: [
     { label: "Districts", value: "Six districts: Gangtok, Mangan, Namchi, Gyalshing, Pakyong and Soreng" },
     { label: "Main towns", value: "Gangtok (capital), Namchi, Singtam, Rangpo, Jorethang, Gyalshing, Ravangla, Mangan and Pakyong" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants on WhatsApp that answer tourists' questions about permits, road conditions, packages and rooms in English, Hindi and Nepali, then pass bookings to staff.",
     data: "Dashboards for bookings by season, tour vehicle use, stock and dispatches, or supplier orders for pharma units in the East and South districts.",
     app: "Android and iOS apps from ₹40,000 for Sikkim travel operators, homestay networks, FPOs and distributors, with offline itineraries and data sync for hill roads, published on Google Play and the App Store.",
-    maintenance: "Backups, updates, uptime checks and season-ready hosting, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, updates, uptime checks and season-ready hosting, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Sikkim has a handful of local IT providers, many focused on government hardware and networking, and a lot of businesses rely on relatives or agencies in Siliguri or Kolkata. As a freelance group we work fully remotely, publish starting prices, and write software for tourism, pharma and trade without inflated overheads.",
@@ -147,7 +147,7 @@ const content: CityContent = {
         "Android and iOS app development for Sikkim businesses starts from ₹40,000 with BtechWaleTech and typically takes six to ten weeks. One codebase is written in Flutter or React Native and published on both Google Play and the Apple App Store, with login, forms, push notifications and an admin panel connected through an API.",
         "The apps that make sense statewide are the ones people use again and again. A travel operator can give each guest a trip companion app with the day-by-day itinerary, hotel and driver details, permit status and emergency contacts, all readable offline beyond Chungthang or on the road to Nathu La. A homestay network can let hosts across several districts update availability from their phones. Farmer producer organisations can record produce collected from members village by village. Distributors can let shops in Namchi, Singtam and Gyalshing reorder without a phone call.",
         "Connectivity shapes every design choice. We cache data on the phone, queue entries when there is no signal and sync once the network returns, and we keep download sizes small for travellers on roaming data. Publishing on iOS matters because many domestic and foreign tourists carry iPhones. Developer accounts are opened in your business name so the listing, reviews and users remain yours.",
-        "For one-off visitors, a fast website is still better value than an app, and we will say so. Updates required by new Android and iOS versions during the first five months after launch come under the free maintenance period.",
+        "For one-off visitors, a fast website is still better value than an app, and we will say so. Updates required by new Android and iOS versions during the first two months after launch come under the free maintenance period.",
       ],
       list: [
         "Trip companion app with offline itinerary",
@@ -178,7 +178,7 @@ const content: CityContent = {
       id: "sikkim-cloud-support",
       heading: "Cloud hosting, backups and IT support for Sikkim businesses",
       paragraphs: [
-        "Cloud hosting and IT support from BtechWaleTech keep Sikkim websites and apps online through peak seasons with fast servers, a content delivery network, daily backups, SSL and uptime monitoring; the first five months of maintenance after launch are free, and plans afterwards start at ₹8,000 a month.",
+        "Cloud hosting and IT support from BtechWaleTech keep Sikkim websites and apps online through peak seasons with fast servers, a content delivery network, daily backups, SSL and uptime monitoring; the first two months of maintenance after launch are free, and plans afterwards start at ₹8,000 a month.",
         "Hosting outside the state on reliable cloud infrastructure means a local power cut or network outage does not take your booking site down. Deployments use staging environments so updates are tested first. Bug fixes, content updates and security patches are handled by the engineers who built the system.",
         "Support runs on WhatsApp seven days a week. We do not provide on-site hardware or networking support in Sikkim; for printers, CCTV or office networks you will still need a local technician.",
       ],
@@ -197,7 +197,7 @@ const content: CityContent = {
       heading: "Timelines and process: planning IT projects around Sikkim's seasons",
       paragraphs: [
         "A static website takes one to two weeks, an SEO website three to five weeks, AI automation two to four weeks, an online store four to eight weeks and custom software six to twelve weeks; Sikkim businesses should aim to launch before March for the spring season and before September for the autumn season.",
-        "Our process has five steps: a discovery call, an itemised quote in about two working days, weekly builds on a test link, staff training on a video call, and handover with five months of free maintenance. You receive source code, admin logins, hosting and domain access in your own name.",
+        "Our process has five steps: a discovery call, an itemised quote in about two working days, weekly builds on a test link, staff training on a video call, and handover with two months of free maintenance. You receive source code, admin logins, hosting and domain access in your own name.",
         "The monsoon months are often the best time to build, when staff have time to test and learn. Browse examples on our <a href='/portfolio/'>portfolio</a>, or explore town pages for <a href='/it-services/sikkim/gangtok/'>Gangtok</a> and <a href='/it-services/sikkim/namchi/'>Namchi</a>.",
       ],
       list: [
@@ -255,7 +255,7 @@ const content: CityContent = {
     { question: "Can your software handle North Sikkim permit documents?", answer: "Yes, on the document side. We build forms that collect guests' ID copies and photos, check nothing is missing and organise them per trip so staff can file permits quickly. We do not file permits ourselves or connect to government systems unless an official integration exists." },
     { question: "Will the chatbot reply in Nepali?", answer: "Yes. AI assistants can reply in English, Hindi and Nepali, following the guest's language. We train them only on your approved information and set rules so questions about refunds, road safety or cancellations go to a staff member. Road updates come from your staff, not from guesses." },
     { question: "Who owns the website, app and data?", answer: "You do. Domain, hosting, source code, database and third-party accounts are registered in your name or transferred at handover. Guest and customer data stays in your accounts, and you can move to another developer at any time with everything needed." },
-    { question: "What is included in the free maintenance?", answer: "Five months of maintenance after launch: bug fixes, content updates, security patches, backups, uptime monitoring and performance checks. Afterwards, plans start from ₹8,000 a month, or you can pay only for changes you request. Support is on WhatsApp seven days a week." },
+    { question: "What is included in the free maintenance?", answer: "Two months of maintenance after launch: bug fixes, content updates, security patches, backups, uptime monitoring and performance checks. Afterwards, plans start from ₹8,000 a month, or you can pay only for changes you request. Support is on WhatsApp seven days a week." },
     { question: "How long does SEO take for a Sikkim hotel or travel agency?", answer: "Usually three to six months for early results. Broad searches like “Sikkim tour package” are dominated by big portals, so we focus on specific routes, places and local map searches where smaller businesses can win. We never guarantee rankings and report progress monthly." },
     { question: "Do you build Android and iOS apps that work offline in the hills?", answer: "Yes. Android and iOS apps start from ₹40,000 and take six to ten weeks. We build in Flutter or React Native, publish on Google Play and the App Store, and design them to save entries offline and sync when signal returns. Itineraries, bookings and order lists stay readable on the phone even without a network." },
     { question: "Can you help sell organic produce outside Sikkim?", answer: "Yes. We build online stores with origin and certification details, shipping rules for longer delivery times and UPI and card checkout in your name. Cooperatives can add bulk enquiry forms. Small sellers can start with a catalogue site and WhatsApp ordering from ₹10,000." },

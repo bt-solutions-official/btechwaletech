@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Approach", "Phased, one module at a time"],
     ["Quote", "Itemised in about 2 working days"],
     ["Data and hosting", "In your own cloud account"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and host your ERP" },
     { value: "2", label: "Working days for an itemised module quote" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
     { value: "7", label: "Days a week on WhatsApp for your team" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Later modules", value: "Production, accounts, HR, quality, dispatch" },
       { label: "Stack", value: "Python or Node.js, PostgreSQL, web plus mobile" },
       { label: "Hosting", value: "Your cloud account or your own server" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -155,7 +155,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a first ERP release starts from ${P.software} (${P.softwareUsd}) and typically goes live in 6–12 weeks. Further modules are quoted as separate phases, so the total is the sum of the phases you actually choose to build.`,
         `Across the market, ERP quotes vary enormously, partly because “ERP” can mean a small stock app or a large multi-plant system. Before comparing numbers, compare scope: which modules, how many user roles, which reports, which integrations, whether data migration and training are included, and what support follows.`,
-        `The main drivers of cost, roughly in order of impact: the number of modules and roles; how many exceptions your process has (returns, partial dispatch, job work, rate revisions); integrations with GST portals, accounting software, barcode printers or weighbridges; the number of custom reports; a mobile app for staff; and migration of years of messy data. Running costs are hosting paid to your provider and, after five free months, optional maintenance from ${P.care}.`,
+        `The main drivers of cost, roughly in order of impact: the number of modules and roles; how many exceptions your process has (returns, partial dispatch, job work, rate revisions); integrations with GST portals, accounting software, barcode printers or weighbridges; the number of custom reports; a mobile app for staff; and migration of years of messy data. Running costs are hosting paid to your provider and, after two free months, optional maintenance from ${P.care}.`,
       ],
       after: [`For wider software budgeting, see <a href='/freelance-software-developer/'>freelance software developer</a> and <a href='/hire-software-developer/'>hiring for custom software</a>.`],
     },
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       heading: "ERP software banwana hai? Seedhi baat",
       paragraphs: [
         `Agar aapka stock register se match nahi hota, ek hi order teen jagah likha jaata hai, ya maal ki asli costing pata nahi chalti, toh ERP ka time aa gaya hai. Lekin sab kuch ek saath mat banwaiye. Pehle woh module banwaiye jo sabse zyada pareshani de raha hai, aam taur par inventory.`,
-        `Hamare saath ERP ka pehla phase ${P.software} se shuru hota hai aur 6 se 12 hafte mein live ho jaata hai. Code aur data aapke apne server ya cloud account mein rehta hai. Har phase ka alag itemised quote milta hai. Launch ke baad 5 mahine support free hai, aur staff ke liye Hindi labels bhi rakhe ja sakte hain.`,
+        `Hamare saath ERP ka pehla phase ${P.software} se shuru hota hai aur 6 se 12 hafte mein live ho jaata hai. Code aur data aapke apne server ya cloud account mein rehta hai. Har phase ka alag itemised quote milta hai. Launch ke baad 2 mahine support free hai, aur staff ke liye Hindi labels bhi rakhe ja sakte hain.`,
       ],
     },
   ],
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
         ["Staff or dealer mobile app on ERP data", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Automation add-on (invoice reading, alerts)", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Dealer ordering store linked to ERP", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Itemised quote for phase one", "Within about two working days of discovery you receive a line-by-line quote. Nothing is billed until you approve it in writing."],
       ["Build on staging with your staff", "Screens appear on a staging link early. Store, purchase and sales staff test them with real documents and we adjust."],
       ["Migrate, run in parallel, go live", "Clean opening data is imported, the ERP runs alongside the old method briefly, staff are trained, and then the spreadsheets retire."],
-      ["Support, then the next phase", `Five months of free support follow go-live. Later phases are quoted separately, and maintenance from ${P.care} is optional.`],
+      ["Support, then the next phase", `Two months of free support follow go-live. Later phases are quoted separately, and maintenance from ${P.care} is optional.`],
     ],
   },
   faqHeading: "ERP software developer: frequently asked questions",
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
     { question: "Should an ERP be hosted on the cloud or on our own server?", answer: "Cloud hosting suits most SMEs: access from branches and phones, automated backups and no hardware to manage. An on-premise server suits sites with strict data rules or poor internet, but you then handle backups and hardware. Either way, the system and data stay in your name." },
     { question: "Can you add modules to an ERP someone else built?", answer: "Possibly. We first review the code, database and hosting, then give you a written assessment of what can be extended safely and what needs rework. Sometimes adding a module is straightforward; sometimes the existing foundation makes a partial rebuild cheaper over time. You decide after the review." },
     { question: "How do payments work for an ERP project?", answer: "Each phase has its own itemised quote and staged payments tied to visible progress, such as working screens on staging and go-live. In India we accept UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Nothing is billed before you approve a quote in writing." },
-    { question: "What support is available after the ERP goes live?", answer: `BtechWaleTech gives five months of free support after go-live for bug fixes and small adjustments. After that, maintenance is optional and starts from ${P.care}. New modules or larger changes are quoted separately, and your team can always take over using the handover documentation.` },
+    { question: "What support is available after the ERP goes live?", answer: `BtechWaleTech gives two months of free support after go-live for bug fixes and small adjustments. After that, maintenance is optional and starts from ${P.care}. New modules or larger changes are quoted separately, and your team can always take over using the handover documentation.` },
     { question: "Do we need an NDA before sharing our process details?", answer: "If your pricing, formulas or customer lists are sensitive, ask for an NDA before sharing them, and the terms are agreed in writing. For initial discussions, sample documents with prices masked are usually enough for us to understand the workflow and suggest a phase plan." },
     { question: "Can an ERP software developer near me do this better than a remote team?", answer: "A local developer can visit your plant, which helps. But most ERP work happens in process walkthroughs, data design and testing, which run well over video calls and staging links. We do not make site visits; your team records floor processes on video. Choose on process, ownership and phased delivery." },
     { question: "ERP software banwane mein kitna kharcha aur time lagta hai?", answer: `BtechWaleTech ke saath ERP ka pehla phase ${P.software} se shuru hota hai aur aam taur par 6 se 12 hafte mein live ho jaata hai. Isme inventory, purchase aur sales jaise do-teen core modules aate hain. Production ya accounts jaise agle modules ka alag quote milta hai. Code aur data aapke naam par rehte hain.` },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to replace the spreadsheets with an ERP you own?",
-    note: `Send us a few sample documents and a note on what goes wrong most often. After a discovery call, you receive a phase plan and an itemised quote, with a first ERP release starting from ${P.software}, hosted in your own account and supported free for five months after go-live.`,
+    note: `Send us a few sample documents and a note on what goes wrong most often. After a discovery call, you receive a phase plan and an itemised quote, with a first ERP release starting from ${P.software}, hosted in your own account and supported free for two months after go-live.`,
   },
 };
 

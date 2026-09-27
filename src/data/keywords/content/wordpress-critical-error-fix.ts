@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "2", label: "WordPress tools built for this: recovery mode and the debug log" },
     { value: "3", label: "Developers who can step in on a broken site" },
-    { value: "5", label: "Months of free maintenance on sites we build" },
+    { value: "2", label: "Months of free maintenance on sites we build" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {

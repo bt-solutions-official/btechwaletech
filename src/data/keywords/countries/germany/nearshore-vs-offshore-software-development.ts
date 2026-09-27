@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers, all reachable directly" },
     { value: "4.5", label: "Hours India is ahead of Germany in winter" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Nearshore vs offshore software development: which suits a German company?",
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario to show the reasoning, not a client story.`,
         `Say a machine-parts maker near Stuttgart wants a customer portal for spare-parts orders, linked to its ERP, plus a mobile app for service technicians. Its internal IT has two people, both busy. A Polish partner already maintains the ERP connection and knows the data model well.`,
         `A sensible hybrid split: the Polish partner extends the ERP interface and owns the data layer, working in the same hours as the IT team. An offshore team builds the portal front end and the technician app against a documented API, using synthetic data so no customer records leave Germany. The German IT lead reviews both teams’ pull requests.`,
-        `With us, the portal would start at ${P.software} and the app at ${P.app}, each with its own phase list in the quote. The nearshore partner’s quote covers the ERP side. Maintenance after launch would be free for five months, then from ${P.care}.`,
+        `With us, the portal would start at ${P.software} and the app at ${P.app}, each with its own phase list in the quote. The nearshore partner’s quote covers the ERP side. Maintenance after launch would be free for two months, then from ${P.care}.`,
       ],
     },
     {
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
         ["AI automation or agent", `From ${P.ai}`, "2–4 weeks"],
         ["Online shop", `From ${P.shop}`, "4–8 weeks"],
         ["Company website", `From ${P.site}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Ongoing"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Ongoing"],
       ],
     },
   ],
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Accounts and data plan", "Repositories and cloud accounts are created in your company’s name. We agree how test data is produced so real personal data stays on your EU hosting."],
       ["Daily sync in your morning", "A short call or written update in German morning hours, with the previous day’s work ready on staging for your team to review."],
       ["Milestone reviews", "At the end of each phase you test on staging and approve before the next milestone payment, made in USD or EUR by Wise or wire."],
-      ["Handover and five free months", `Code, documentation and access stay with you. We fix and update free for five months after launch, then maintenance starts at ${P.care}.`],
+      ["Handover and two free months", `Code, documentation and access stay with you. We fix and update free for two months after launch, then maintenance starts at ${P.care}.`],
     ],
   },
   faqHeading: "Nearshore vs offshore software development: common questions",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "How fast can an offshore team start?", answer: "With us, you get an itemised quote in about two working days, and work can usually start soon after written approval and account access. Large nearshore or offshore vendors may take longer to assemble a team. Small teams start quickly but cannot scale to many developers, which is our limit too." },
     { question: "Can a small offshore team replace a nearshore partner entirely?", answer: "For small and mid-sized projects with a clear scope, often yes. For programmes needing many developers, daily in-person workshops or German-speaking staff, no. We are three developers and say so upfront. Many clients use us for defined projects or modules while keeping a larger partner for the rest." },
     { question: "Do you sign NDAs and processor agreements?", answer: "If you need an NDA before sharing information, ask and we agree it in writing. For personal data, we prefer designs where we never receive it, such as anonymised test data and EU hosting in your name. Where processing is unavoidable, the paperwork is agreed in writing and reviewed by your data protection officer and lawyer." },
-    { question: "What happens after the project is delivered?", answer: `Maintenance is free for five months after launch: bug fixes, updates and small changes. After that, it starts at ${P.care}. Because code, documentation and accounts are already yours, you can also move maintenance to a nearshore partner or your own staff at any point without a painful handover.` },
+    { question: "What happens after the project is delivered?", answer: `Maintenance is free for two months after launch: bug fixes, updates and small changes. After that, it starts at ${P.care}. Because code, documentation and accounts are already yours, you can also move maintenance to a nearshore partner or your own staff at any point without a painful handover.` },
     { question: "Is offshore development suitable for AI projects?", answer: `Yes, for well-defined AI work such as document processing, chatbots, data pipelines and workflow automation. Our AI automation projects start at ${P.ai} and take 2–4 weeks. For AI work on sensitive personal data, plan the data flow first, keep models and data in EU cloud regions and involve your data protection officer.` },
   ],
   related: {
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Comparing nearshore and offshore quotes? Add ours to the pile",
-    note: `Send your scope on WhatsApp and get an itemised offshore quote in about two working days: custom software from ${P.software}, accounts in your name, anonymised test data by default and five months of free maintenance after launch.`,
+    note: `Send your scope on WhatsApp and get an itemised offshore quote in about two working days: custom software from ${P.software}, accounts in your name, anonymised test data by default and two months of free maintenance after launch.`,
   },
 };
 

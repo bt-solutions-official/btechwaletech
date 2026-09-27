@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["AI horoscope or AI chat", `AI automation from ${P.ai}`],
     ["Typical MVP", "10–14 weeks, in releases"],
     ["Store accounts", "Play Console and App Store Connect in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on your astrology platform" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What astrology app development costs with us",
-    note: `Astrology app pricing splits into three blocks. The mobile apps (customer and astrologer, built once in Flutter or React Native for both stores) start at ${P.app}. The backend, wallet ledger and admin panel are custom software and start at ${P.software}. AI horoscopes or an AI assistant start at ${P.ai}. The kundli engine licence or API subscription is paid by you directly to the provider, and so are servers, SMS and calling minutes. We quote each module separately, so you can launch chat and wallet first and add live streams later. After five months of free maintenance, care plans start at ${P.care}.`,
+    note: `Astrology app pricing splits into three blocks. The mobile apps (customer and astrologer, built once in Flutter or React Native for both stores) start at ${P.app}. The backend, wallet ledger and admin panel are custom software and start at ${P.software}. AI horoscopes or an AI assistant start at ${P.ai}. The kundli engine licence or API subscription is paid by you directly to the provider, and so are servers, SMS and calling minutes. We quote each module separately, so you can launch chat and wallet first and add live streams later. After two months of free maintenance, care plans start at ${P.care}.`,
   },
   guideLabel: "Astrology app development guide",
   guide: [
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
       ["Designs and rules", "Screen designs for customer and astrologer apps plus a written wallet and refund rulebook. You sign off both before the heavy coding starts."],
       ["Weekly builds", "Each week you install the latest build through test tracks on your own phone, run test-money sessions and send feedback on WhatsApp."],
       ["Pilot and store review", "Your astrologers take real consultations on test money, we fix what they find, then submit to Google Play and the App Store under your accounts."],
-      ["Launch and five free months", "We watch the ledger, payouts and crash reports after launch and fix issues free for five months, then continue on a care plan if you want."],
+      ["Launch and two free months", "We watch the ledger, payouts and crash reports after launch and fix issues free for two months, then continue on a care plan if you want."],
     ],
   },
   faqHeading: "Astrology app development: frequently asked questions",
@@ -453,7 +453,7 @@ const content: FreelanceContent = {
     { question: "How do you protect user data in an astrology app?", answer: "We collect only what the service needs, encrypt data in transit and at rest, limit admin access by role, log who viewed chats and support in-app and web account deletion as the stores require. India's Digital Personal Data Protection Act, 2023 applies to this data, so your lawyer should review notices and consent; the software is built to support their advice." },
     { question: "Can I buy a ready-made astrology app script instead?", answer: "You can, and it is quicker for testing demand. The trade-offs are locked or encrypted code, billing logic you cannot easily change, possible rejection under Apple's rule against look-alike apps, and dependence on the script seller for fixes. If you already know users will pay per minute, a planned build usually costs less over a few years." },
     { question: "Is a freelance team or an app development company better for an astrology app?", answer: "Either can work. What matters is that the people building it understand real-time billing, have shipped apps to both stores and hand you the accounts and code. With a small freelance team you talk directly to the developers. A larger team offers more parallel capacity. Ask any candidate the same ownership and support questions before choosing." },
-    { question: "What happens after the astrology app is launched?", answer: `We fix bugs free for five months after launch, watch crash reports, the wallet ledger and payout jobs, and handle store policy notices. After that, a care plan starts at ${P.care} for fixes, Android and iOS updates and small changes. New features such as live streams or new languages are quoted separately.` },
+    { question: "What happens after the astrology app is launched?", answer: `We fix bugs free for two months after launch, watch crash reports, the wallet ledger and payout jobs, and handle store policy notices. After that, a care plan starts at ${P.care} for fixes, Android and iOS updates and small changes. New features such as live streams or new languages are quoted separately.` },
     { question: "How do I get users for a new astrology app?", answer: "Pair the app with a fast content website for daily horoscopes, kundli and festival dates, which brings search traffic you can send into the app. Optimise the store listing in Hindi and English, show a real consultation flow in screenshots and reply to reviews. First-session offers and WhatsApp reminders to opted-in users help retention." },
   ],
   related: {

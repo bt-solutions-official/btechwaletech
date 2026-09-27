@@ -56,7 +56,7 @@ const memari: CityContent = {
     ai: "Bengali WhatsApp assistants that answer rate, stock and bag-balance questions late at night and pass anything unusual to the owner by morning.",
     data: "Season dashboards showing paddy bought, rice dispatched, potato bags held and rent due, compared week against week.",
     app: "Android and iOS apps that let storage clients check their bags or village retailers reorder from a dealer, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No maintenance charge for five months after launch; after that, from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "No maintenance charge for two months after launch; after that, from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Mill owners and storage operators in Memari have sat through plenty of sales pitches. Ours is plainer: starting prices published online, an itemised written quote, replies on WhatsApp every day of the week, and the domain, hosting, code and app accounts registered in your name. When a corrected Google listing will do more for you than a new website, we say that first.",
@@ -169,7 +169,7 @@ const memari: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Rice mill, cold storage or other custom software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -195,7 +195,7 @@ const memari: CityContent = {
       heading: "Who owns the site, and what happens after launch?",
       paragraphs: [
         "You do, from the first day. The domain is registered on your email, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play and Apple developer accounts list you as the owner. At handover you receive one sheet with every login, so no developer, including us, can hold your business hostage.",
-        "For five months after launch, maintenance is free: price and photo changes, backups, security updates and regular checks on forms, checkout and WhatsApp links. After that you can stay on from ₹8,000 a month, manage the site yourself or pass the code to another developer without asking our permission.",
+        "For two months after launch, maintenance is free: price and photo changes, backups, security updates and regular checks on forms, checkout and WhatsApp links. After that you can stay on from ₹8,000 a month, manage the site yourself or pass the code to another developer without asking our permission.",
         "Apps need an update at least once a year even when nothing is broken, because Google and Apple keep raising their requirements. We track those deadlines so a storage client app is not removed from the store in the middle of potato season.",
       ],
     },
@@ -287,7 +287,7 @@ const memari: CityContent = {
     {
       question: "What maintenance do you give after a Memari website goes live?",
       answer:
-        "Every Memari website gets five months of free maintenance after launch, covering price and photo changes, backups, security patches and checks on forms, checkout and WhatsApp links. After that you can continue from ₹8,000 a month or move the work elsewhere, since all accounts and code already belong to you. There is no exit fee.",
+        "Every Memari website gets two months of free maintenance after launch, covering price and photo changes, backups, security patches and checks on forms, checkout and WhatsApp links. After that you can continue from ₹8,000 a month or move the work elsewhere, since all accounts and code already belong to you. There is no exit fee.",
     },
     {
       question: "Do you work with businesses in Satgachia, Palla and Bardhaman?",

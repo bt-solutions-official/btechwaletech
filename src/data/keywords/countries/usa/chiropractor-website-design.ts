@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Multi-clinic or big condition library", `From ${P.seoSite}`],
     ["Local SEO inside your radius", `From ${P.seo} a month`],
     ["Front-desk automation", `From ${P.ai}`],
-    ["After launch", `5 free months, then care from ${P.care}`],
+    ["After launch", `2 free months, then care from ${P.care}`],
     ["Call times", "Your morning (Eastern) is our evening in India"],
   ],
   stats: [
     { value: "3", label: "Developers building your clinic site" },
     { value: "2", label: "Working days to a line-by-line quote" },
-    { value: "5", label: "Months of free fixes after going live" },
+    { value: "2", label: "Months of free fixes after going live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -181,7 +181,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Chiropractor website design with BtechWaleTech starts at ${P.site} for a single clinic site of up to 100 pages and ${P.seoSite} for several clinics or a large condition library. Marketing subscriptions quote very differently, often as a monthly fee with a minimum term, so compare the total over two or three years, not the first invoice.`,
         `What moves your price with us is mostly content volume and integrations. A clinic that sends finished copy and photos and needs eight condition pages sits near the starting price. A group with three locations, four doctors each with a bio, thirty condition and technique pages, an auto-injury path and care-plan checkout from ${P.shop} sits higher. Custom patient tools such as a digital intake portal are software from ${P.software}.`,
-        `Your clinic pays hosting, the domain and any scheduling or form service directly, so there is no markup on them. Care after the five free months starts at ${P.care}, and local SEO from ${P.seo} is optional. You approve an itemized quote before any work is billed; the <a href='/pricing/'>pricing page</a> lists every plan.`,
+        `Your clinic pays hosting, the domain and any scheduling or form service directly, so there is no markup on them. Care after the two free months starts at ${P.care}, and local SEO from ${P.seo} is optional. You approve an itemized quote before any work is billed; the <a href='/pricing/'>pricing page</a> lists every plan.`,
       ],
     },
     {
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Agree the page map", "We list every page, the booking path from each one, and where form data goes. You mark the conditions and techniques that matter most."],
       ["Write, design and connect", "Offer page first, then condition, technique and bio pages for your doctors to edit. The scheduler link goes in and a dummy booking proves it works."],
       ["Check on real phones", "Speed against Core Web Vitals, keyboard and screen reader basics, review display, and a front-desk walkthrough of every booking path."],
-      ["Launch and hand over", "Redirects, Search Console and analytics in the clinic’s name, a list of every account and script, and five months of free fixes."],
+      ["Launch and hand over", "Redirects, Search Console and analytics in the clinic’s name, a list of every account and script, and two months of free fixes."],
     ],
   },
   faqHeading: "Chiropractor website design: questions clinic owners ask",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Can my website sell monthly chiropractic care plans?", answer: `Yes. Card checkout for wellness or maintenance plans, with sign-up, recurring payment and an email receipt, is an ecommerce build starting at ${P.shop}. Plan terms, cancellation rules and any restrictions on how plans are offered to insured patients are set by your clinic and its advisers, and we publish them as you word them.` },
     { question: "How do chiropractic clinics show up in AI search answers?", answer: "Tools like Google AI Overviews, ChatGPT search and Perplexity tend to quote pages that answer a question directly. Condition pages that open with a plain one-paragraph answer, doctor bios with verifiable credentials, an insurance page with specifics and consistent clinic details across the web give them something reliable to cite." },
     { question: "How does working with a team in India work for a US chiropractor?", answer: "Calls happen in your morning, which is our evening, and everything else runs on WhatsApp. Quotes are in USD, payment is by Wise, bank wire or PayPal, and invoices come from India. You keep the admin accounts; we test with dummy data and never need patient records." },
-    { question: "What happens after my chiropractic website launches?", answer: `The first five months of fixes and small edits are free, such as new condition pages, insurance updates or hours changes. After that, care starts at ${P.care}. The site comes with a short handover guide, so your office can also edit text and photos without us.` },
+    { question: "What happens after my chiropractic website launches?", answer: `The first two months of fixes and small edits are free, such as new condition pages, insurance updates or hours changes. After that, care starts at ${P.care}. The site comes with a short handover guide, so your office can also edit text and photos without us.` },
     { question: "Can you build a website for a multi-location chiropractic group?", answer: `Yes. Each clinic gets a full location page with its own address, hours, doctors, photos, booking link and Google profile, while condition pages are shared and link to every clinic offering that care. Groups usually fit the larger build from ${P.seoSite}, taking three to five weeks.` },
   ],
   related: {

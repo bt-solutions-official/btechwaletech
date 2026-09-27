@@ -36,7 +36,7 @@ const content: CityContent = {
     h1: "Freelance IT consultants in Delhi for digital transformation that starts with your process, not a product",
     lede:
       "Most Delhi businesses searching for an IT solutions team in Delhi are not short of vendors; they are short of someone who will look at the whole operation and say what to fix first. BtechWaleTech is a freelance group of three engineers working remotely from India. We run consulting-led digital transformation for Delhi traders, manufacturers, clinics, institutes and service firms: a process audit and roadmap, then the build itself, covering custom software, Android and iOS apps, AI automation, cloud, data dashboards, SEO, ecommerce and support.",
-    pills: ["Roadmap before code", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "5 months support free"],
+    pills: ["Roadmap before code", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "2 months support free"],
   },
   quickAnswer:
     "BtechWaleTech is a freelance group of three engineers offering IT consulting and digital transformation to Delhi businesses remotely. We audit your processes, write a roadmap, then build: custom software from ₹60,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000 and websites from ₹10,000. No Delhi office; itemised quotes in about two working days.",
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents and workflow automation that read documents, answer routine queries, route leads and prepare reports, with human sign-off where money is involved.",
     data: "Data consolidation and dashboards that combine Tally, CRM, ecommerce and spreadsheets into one trustworthy view for Delhi owners and managers.",
     app: "Android and iOS apps from ₹40,000 for Delhi field teams, customers and dealers, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free support after launch, then monthly IT support from ₹8,000 covering fixes, updates, backups, security and monitoring.",
+    maintenance: "Two months of free support after launch, then monthly IT support from ₹8,000 covering fixes, updates, backups, security and monitoring.",
   },
   whyUsIntro:
     "Delhi has no shortage of IT vendors, and many sell whatever product they carry. BtechWaleTech starts with a written diagnosis of your process, recommends only what earns its cost, and then builds it with three engineers you speak to directly.",
@@ -273,7 +273,7 @@ const content: CityContent = {
     },
     {
       question: "What support do you provide after launch?",
-      answer: "Five months of support are included free after launch, covering bug fixes, small changes, security and dependency updates, backups and performance checks. Afterwards, monthly plans start from ₹8,000, or you can call on us only when needed. We reply on WhatsApp seven days a week.",
+      answer: "Two months of support are included free after launch, covering bug fixes, small changes, security and dependency updates, backups and performance checks. Afterwards, monthly plans start from ₹8,000, or you can call on us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Will AI automation replace our staff?",

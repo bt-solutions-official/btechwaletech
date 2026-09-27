@@ -35,7 +35,7 @@ const noida: CityContent = {
     pills: ["From ₹10,000", "MVPs from ₹60,000", "Sector-level local SEO", "AI and WhatsApp agents", "Code handed over"],
   },
   quickAnswer:
-    "In Noida we build static websites from ₹10,000 in one to two weeks, 299+ page SEO sites from ₹20,000, online stores from ₹50,000, AI automation from ₹40,000 and custom web apps or MVPs from ₹60,000. We are a remote team with no Noida office, you own the code and accounts, and maintenance is free for five months after launch.",
+    "In Noida we build static websites from ₹10,000 in one to two weeks, 299+ page SEO sites from ₹20,000, online stores from ₹50,000, AI automation from ₹40,000 and custom web apps or MVPs from ₹60,000. We are a remote team with no Noida office, you own the code and accounts, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "IT and offices", value: "Sector 62, Sector 63 and the Noida–Greater Noida Expressway belt from Sector 125 to Sector 144" },
     { label: "Manufacturing", value: "Phase 2 Hosiery Complex for garments and knitwear, plus electronics and mobile phone plants around Sector 81 and Phase 2" },
@@ -52,7 +52,7 @@ const noida: CityContent = {
     ai: "AI agents and WhatsApp bots that qualify leads, answer support questions and draft documents using your own data, with humans in the loop.",
     data: "Dashboards and data pipelines for sales, production and support metrics, built on your existing sheets, CRMs or databases.",
     app: "Android and iOS apps for society management, field service and delivery teams, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Dependency updates, security patches, backups and content changes free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Dependency updates, security patches, backups and content changes free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Noida has no shortage of agencies; Sector 63 alone has dozens. What is harder to find is a team that publishes prices, lets you speak directly to the engineers and hands over the repository and cloud accounts on launch day. That is how we work, with WhatsApp replies seven days a week.",
@@ -187,7 +187,7 @@ const noida: CityContent = {
       paragraphs: [
         "For a startup, code ownership is not a detail; investors and future hires will ask where the code lives and who controls the cloud account. For an exporter or clinic, the risk is simpler: a domain registered by an old vendor and a website nobody can edit.",
         "We create the repository, domain, hosting and cloud accounts in your company's name, or transfer them to you at launch with all credentials, the full source code and short technical documentation. You can bring in your own developers or another agency at any time without asking us.",
-        "Maintenance is free for five months after launch and covers content updates, bug fixes, dependency and security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Tell us what you are building</a> and we will send a scope and quote.",
+        "Maintenance is free for two months after launch and covers content updates, bug fixes, dependency and security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Tell us what you are building</a> and we will send a scope and quote.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const noida: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we cover content changes, bug fixes, dependency and security updates, backups and uptime monitoring at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when something is needed.",
+        "For two months after launch we cover content changes, bug fixes, dependency and security updates, backups and uptime monitoring at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when something is needed.",
     },
     {
       question: "Do you work with businesses in Greater Noida, Ghaziabad and Delhi?",

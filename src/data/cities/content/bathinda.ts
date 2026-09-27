@@ -31,11 +31,11 @@ const bathinda: CityContent = {
     eyebrow: "Bathinda · Punjab",
     h1: "Web, app, SEO and automation services for Bathinda and the Malwa belt",
     lede:
-      "We are three remote engineers who build quick websites, product catalogues, coaching and clinic pages, and WhatsApp workflows for Bathinda businesses, from Mall Road and Dhobi Bazaar to the Growth Centre on Mansa Road. Starting prices are published, the domain and code are yours, and the first five months of maintenance cost nothing.",
+      "We are three remote engineers who build quick websites, product catalogues, coaching and clinic pages, and WhatsApp workflows for Bathinda businesses, from Mall Road and Dhobi Bazaar to the Growth Centre on Mansa Road. Starting prices are published, the domain and code are yours, and the first two months of maintenance cost nothing.",
     pills: ["Websites from ₹10,000", "Punjabi, Hindi and English", "Coaching and IELTS sites", "Trader and yarn catalogues", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Bathinda businesses, our static websites start from ₹10,000 and are ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and AI automation from ₹40,000. We are a remote team of three engineers without a Bathinda office, and maintenance is free for five months after launch.",
+    "For Bathinda businesses, our static websites start from ₹10,000 and are ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and AI automation from ₹40,000. We are a remote team of three engineers without a Bathinda office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Region", value: "Malwa, south-west Punjab; district headquarters about 227 km west of Chandigarh" },
     { label: "Big employers", value: "HMEL's Guru Gobind Singh Refinery, National Fertilizers, cement plants, army cantonment and air force station" },
@@ -52,10 +52,10 @@ const bathinda: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that answer daily questions on fees, rates, stock and OPD timings in Punjabi or Hindi, then hand the unusual ones to your staff.",
     data: "Dashboards for crop arrivals, sales by dealer, student enquiries or patient bookings that an owner can read on a phone between meetings.",
     app: "Android and iOS apps for bookings, field orders and student portals, published on Google Play and the App Store with prices starting at ₹40,000.",
-    maintenance: "Content changes, updates, backups and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Content changes, updates, backups and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Bathinda business owners often hear two kinds of offers: a Ludhiana or Chandigarh agency that will not share a rate card, or a local freelancer who vanishes after handing over the site. We publish our starting prices, reply on WhatsApp every day of the week, and keep looking after your site at no charge for five months after it goes live.",
+    "Bathinda business owners often hear two kinds of offers: a Ludhiana or Chandigarh agency that will not share a rate card, or a local freelancer who vanishes after handing over the site. We publish our starting prices, reply on WhatsApp every day of the week, and keep looking after your site at no charge for two months after it goes live.",
   pricingIntro:
     "Every figure below is a starting price, not a package. What you finally pay depends on the number of pages, languages, products and features you need, and you see it line by line in a written quote before a single rupee is billed.",
   sections: [
@@ -173,11 +173,11 @@ const bathinda: CityContent = {
     },
     {
       id: "ownership-bathinda",
-      heading: "Your domain, your code, and five months of free upkeep",
+      heading: "Your domain, your code, and two months of free upkeep",
       paragraphs: [
         "A story we hear often in Punjab: a developer bought the domain in his own name, later stopped answering calls, and one day the renewal lapsed. The website disappeared, and so did the email address printed on every bill book and signboard. Getting it back can take weeks, and sometimes it is not possible at all.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the full source code and a short handover note explaining how things fit together. If you ever want another developer to take over, you can hand everything across without paying us any exit fee.",
-        "For five months after launch, maintenance is free: text and photo updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, ongoing care starts from ₹8,000 a month, or you can simply message us when something needs changing. To begin, write to us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "For two months after launch, maintenance is free: text and photo updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, ongoing care starts from ₹8,000 a month, or you can simply message us when something needs changing. To begin, write to us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -272,9 +272,9 @@ const bathinda: CityContent = {
         "Yes. The domain and hosting are registered in your name, and at launch you receive every password and the complete source code. You can move to another developer at any time without an exit fee from us.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During those five months we handle updates, fixes, backups, security patches and speed checks at no cost. Afterwards, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
+        "During those two months we handle updates, fixes, backups, security patches and speed checks at no cost. Afterwards, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
     },
   ],
   nearby: ["rampura-phul", "mansa", "barnala", "faridkot", "kot-kapura", "muktsar", "malout", "mandi-dabwali"],

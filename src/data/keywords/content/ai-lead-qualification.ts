@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Lead sources", "Forms, WhatsApp, portals, ads"],
     ["Scoring", "Your rubric, explained per lead"],
     ["Your data", "Stays in your CRM and accounts"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and tune it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Platform fees added by us" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "AI lead qualification pricing: build once, then pay for usage",
-    note: `An AI lead qualification project sits under our AI automation plan, which starts at ${P.ai}. The build price moves with the number of lead sources you connect, how many chat questions the bot asks, whether routing needs round-robin or territory logic, and whether we also build the dashboard. Separately, you pay the AI model provider and Meta for WhatsApp template messages directly, on your own cards, so there is no mark-up from us. If you have no CRM, we either route into a Google Sheet at first or quote a custom pipeline from ${P.software}. After launch, 5 months of maintenance are free; later tuning starts at ${P.care}.`,
+    note: `An AI lead qualification project sits under our AI automation plan, which starts at ${P.ai}. The build price moves with the number of lead sources you connect, how many chat questions the bot asks, whether routing needs round-robin or territory logic, and whether we also build the dashboard. Separately, you pay the AI model provider and Meta for WhatsApp template messages directly, on your own cards, so there is no mark-up from us. If you have no CRM, we either route into a Google Sheet at first or quote a custom pipeline from ${P.software}. After launch, 2 months of maintenance are free; later tuning starts at ${P.care}.`,
   },
   guideLabel: "AI lead qualification guide",
   guide: [

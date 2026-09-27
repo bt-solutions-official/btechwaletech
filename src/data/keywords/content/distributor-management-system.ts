@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First release", "Usually 6–12 weeks"],
     ["Quote", "Itemised in about 2 working days"],
     ["Data lives in", "Your brand's cloud account"],
-    ["Post-launch cover", "5 months of free maintenance"],
+    ["Post-launch cover", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of maintenance after launch" },
+    { value: "2", label: "Months of maintenance after launch" },
     { value: "0", label: "Per-distributor licence fees to us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Web DMS", value: `From ${P.software}, first release in 6–12 weeks` },
       { label: "Mobile apps", value: `Rep or retailer app from ${P.app}` },
       { label: "Tally", value: "Two-way sync with each distributor's TallyPrime where needed" },
-      { label: "After launch", value: `5 months free, then upkeep from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then upkeep from ${P.care} a month` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Distributor management system pricing",
-    note: `A custom DMS is priced by modules and by how distributors send data. The web DMS with distributor, retailer and product masters, secondary sales capture, stock and brand reports starts at ${P.software}. The scheme engine and claim workflow are usually part of that build or a second phase. A rep or retailer ordering app starts at ${P.app}. Tally sync depends on how many distributors use Tally and whether the link is one-way or two-way; automation such as reading claim documents starts at ${P.ai}. After five free months, upkeep starts at ${P.care} a month. All prices are starting prices, itemised in your quote.`,
+    note: `A custom DMS is priced by modules and by how distributors send data. The web DMS with distributor, retailer and product masters, secondary sales capture, stock and brand reports starts at ${P.software}. The scheme engine and claim workflow are usually part of that build or a second phase. A rep or retailer ordering app starts at ${P.app}. Tally sync depends on how many distributors use Tally and whether the link is one-way or two-way; automation such as reading claim documents starts at ${P.ai}. After two free months, upkeep starts at ${P.care} a month. All prices are starting prices, itemised in your quote.`,
   },
   guideLabel: "Distributor management system guide",
   guide: [
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
         "Migrating historical data and cleaning retailer lists",
       ],
       after: [
-        `Running costs are cloud hosting in your account, message charges if you send WhatsApp alerts, and upkeep from ${P.care} a month after five free months. Compare the build with a licence priced per distributor or user over three years before deciding. Our <a href='/erp-software-development-cost-in-india/'>ERP development cost guide</a> covers similar trade-offs for larger systems.`,
+        `Running costs are cloud hosting in your account, message charges if you send WhatsApp alerts, and upkeep from ${P.care} a month after two free months. Compare the build with a licence priced per distributor or user over three years before deciding. Our <a href='/erp-software-development-cost-in-india/'>ERP development cost guide</a> covers similar trade-offs for larger systems.`,
       ],
     },
     {
@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The DMS runs in a cloud account opened in your brand's name, with the code in a repository you own. Distributors get logins that show only their own data; your team sees all distributors according to role.`,
         `Our stack is intentionally ordinary: a web app in React or Next.js, an API in Node.js or Python, PostgreSQL as the database, a Windows-friendly connector for Tally computers, and Flutter or React Native for any mobile app. Ordinary tools mean any competent developer can maintain the system later.`,
-        `Ankur builds the DMS and apps, Santosh designs the data model, Tally sync and reporting and sets up the cloud, and Vedansh runs the plan, the distributor rollout and testing with your sales operations team. All three are on your WhatsApp group, in English or Hindi. At handover you hold the code, cloud account, database and any Play or App Store listings. Maintenance is free for five months after launch; terms are in your written quote and our <a href='/terms/'>terms page</a>.`,
+        `Ankur builds the DMS and apps, Santosh designs the data model, Tally sync and reporting and sets up the cloud, and Vedansh runs the plan, the distributor rollout and testing with your sales operations team. All three are on your WhatsApp group, in English or Hindi. At handover you hold the code, cloud account, database and any Play or App Store listings. Maintenance is free for two months after launch; terms are in your written quote and our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Masters and data model", "We clean and load SKUs, distributors, retailers and beats first, because every later module depends on them being right."],
       ["Pilot distributors", "Two or three distributors go live with secondary capture and stock. We fix mapping and training issues before anyone else joins."],
       ["Schemes and claims", "The scheme engine and claim workflow are switched on with real circulars, tested against a past month's invoices."],
-      ["Wave rollout and handover", "Remaining distributors join in waves. Code, cloud and data stay in your name, with five months of free maintenance after launch."],
+      ["Wave rollout and handover", "Remaining distributors join in waves. Code, cloud and data stay in your name, with two months of free maintenance after launch."],
     ],
   },
   faqHeading: "Distributor management system: frequently asked questions",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "How do you convince distributors to use a DMS?", answer: "Make it save them work. Let established distributors keep Tally, give small ones a simple billing screen, and settle DMS-backed claims faster than paper ones. Roll out with a few willing distributors first, train their billing staff over video calls in Hindi or English, and keep a WhatsApp group open for problems." },
     { question: "Who owns the DMS and its data?", answer: "Your brand owns the code, cloud account and database. Each distributor sees only its own data through its login, and the connector collects only your SKUs. There is no per-distributor licence owed to us, and since the code is yours, another developer can maintain it later if you choose." },
     { question: "Do you visit distributors to install the Tally connector?", answer: "No. We work remotely from India. The connector is installed on the distributor's Tally computer over a screen-sharing session with their staff or Tally partner, and we test the sync together on a video call. This keeps rollout quick across states without travel costs." },
-    { question: "What maintenance does a DMS need?", answer: `New scheme types, new distributors, Tally or operating system updates, and report changes are typical. Maintenance is free for five months after launch, then upkeep starts at ${P.care} a month. Larger additions such as a retailer app or forecasting are quoted separately before any work begins.` },
+    { question: "What maintenance does a DMS need?", answer: `New scheme types, new distributors, Tally or operating system updates, and report changes are typical. Maintenance is free for two months after launch, then upkeep starts at ${P.care} a month. Larger additions such as a retailer app or forecasting are quoted separately before any work begins.` },
     { question: "How do payments work for a DMS project?", answer: "You receive an itemised written quote first, and nothing is charged before you approve it. Payments in India are by UPI or bank transfer against milestones listed in the quote. For anything not covered there, such as cancellations, our terms and refund policy pages apply." },
     { question: "DMS software banwane me kitna kharcha hota hai?", answer: `BtechWaleTech ke saath custom DMS ka web system ${P.software} se shuru hota hai, jisme secondary sales, distributor stock aur reports aate hain. Retailer ya salesman app ${P.app} se shuru hota hai. Tally sync aur schemes ki complexity dekhkar itemised quote lagbhag 2 working days me milta hai.` },
     { question: "Can the DMS connect to our own ERP?", answer: "Yes. Your ERP can push primary invoices, SKU masters and price lists to the DMS, and the DMS can send secondary sales summaries and approved claims back. We use the ERP's API or import tools, and agree which system owns each master so data never conflicts." },

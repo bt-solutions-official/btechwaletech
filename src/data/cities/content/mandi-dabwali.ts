@@ -55,7 +55,7 @@ const mandiDabwali: CityContent = {
     ai: "WhatsApp assistants in Hindi, Punjabi and English that answer build, price, stock and appointment questions and pass real decisions to you.",
     data: "Dashboards of jeep builds in progress, crop lots bought per season, farmer credit outstanding and enquiries by district.",
     app: "Android and iOS apps for workshop customers to follow their build or for farmers to check mandi accounts, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security patches.",
   },
   whyUsIntro:
     "Traders in Mandi Dabwali deal in written accounts and expect the same from anyone they hire. Our starting prices are public, every quote is itemised, WhatsApp gets a reply seven days a week, and your domain, hosting, source code and app store accounts are opened in your name. When a feature will not bring back its cost, we say so before you pay for it.",
@@ -175,7 +175,7 @@ const mandiDabwali: CityContent = {
       heading: "Ownership and maintenance for Mandi Dabwali websites and apps",
       paragraphs: [
         "Think of it like a registry: the title is in your name from the start. We book the domain against your email, open hosting under your billing, hand across the complete repository, and set you as owner of the Google Business Profile and both developer accounts. A printed or PDF handover sheet lists every password, so no outsider, ourselves included, can ever lock you out.",
-        "For five months after launch, maintenance is free. We update prices, stock and photographs, take backups, apply security and version updates, and check regularly that forms, payment pages and WhatsApp buttons still work. After that, you choose: continue with us from ₹8,000 a month, handle it in-house, or give the code to another developer.",
+        "For two months after launch, maintenance is free. We update prices, stock and photographs, take backups, apply security and version updates, and check regularly that forms, payment pages and WhatsApp buttons still work. After that, you choose: continue with us from ₹8,000 a month, handle it in-house, or give the code to another developer.",
         "Apps need an update at least once a year even when nothing is broken, because Google and Apple keep raising their minimum requirements. We track those dates and release updates early. For arhtiyas and farm dealers, we also suggest a quick check before each crop season, when traffic and orders peak.",
       ],
     },
@@ -267,7 +267,7 @@ const mandiDabwali: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For the first five months after going live, upkeep costs nothing: new stock photos, rate changes, backups, patches and test runs of forms, checkout and chat buttons. From the sixth month a support plan is ₹8,000 per month onwards, and entirely optional. The code and every account already belong to you, so a different developer can step in without our say-so.",
+        "For the first two months after going live, upkeep costs nothing: new stock photos, rate changes, backups, patches and test runs of forms, checkout and chat buttons. From the third month a support plan is ₹8,000 per month onwards, and entirely optional. The code and every account already belong to you, so a different developer can step in without our say-so.",
     },
     {
       question: "Do you work in Kalanwali, Sirsa and Bathinda too?",

@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks for up to 100 pages"],
     ["What it should produce", "Inspection bookings and AMC enquiries"],
     ["Written quote", "Itemised, in about 2 working days"],
-    ["Post-launch care", "5 months free, then optional"],
+    ["Post-launch care", "2 months free, then optional"],
   ],
   stats: [
     { value: "3", label: "Developers on your project, start to finish" },
     { value: "2", label: "Working days to an itemised written quote" },
     { value: "7", label: "Days a week we answer WhatsApp messages" },
-    { value: "5", label: "Months of free fixes and edits after launch" },
+    { value: "2", label: "Months of free fixes and edits after launch" },
   ],
   answer: {
     heading: "What does a pest control website need to book inspections and AMC contracts?",
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Licence and safety information", "A line in the description", "Often missing", "Dedicated page, reviewed by your technical lead"],
       ["Visibility across many localities", "Limited to your pin", "Rarely planned", "Genuine area pages with Search Console tracking"],
       ["Who holds the accounts", "Google holds the listing", "Sometimes the seller", "You, from day one"],
-      ["Ongoing cost", "Free listing", "Renewals for theme and plugins", `Hosting; care from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Free listing", "Renewals for theme and plugins", `Hosting; care from ${P.care} after 2 free months`],
       ["Language options", "Listing text only", "English template", "English plus Hindi or a regional language you approve"],
     ],
     fine: "Keep your Business Profile regardless; it drives calls from maps. The website is where those callers check you before they let a technician into their home.",
@@ -210,7 +210,7 @@ const content: FreelanceContent = {
       heading: "How much does pest control website design cost in India?",
       paragraphs: [
         `With BtechWaleTech, pest control website design for a single-city operator starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks for up to 100 pages. That includes pest pages, AMC plans, the quote form, inspection booking, a licence and safety page and a set of area pages.`,
-        `Operators who want many localities or several cities start at ${P.seoSite} for 299+ pages, over 3–5 weeks. Technician scheduling, digital service reports and AMC renewal tracking move into custom software from ${P.software}. An AI assistant that answers pest questions and qualifies leads on WhatsApp starts at ${P.ai}. After five free months of maintenance, ongoing care starts at ${P.care}, and monthly SEO at ${P.seo}.`,
+        `Operators who want many localities or several cities start at ${P.seoSite} for 299+ pages, over 3–5 weeks. Technician scheduling, digital service reports and AMC renewal tracking move into custom software from ${P.software}. An AI assistant that answers pest questions and qualifies leads on WhatsApp starts at ${P.ai}. After two free months of maintenance, ongoing care starts at ${P.care}, and monthly SEO at ${P.seo}.`,
         `Quotes from different developers vary widely. The honest reasons are the number of unique page layouts, who writes pest and sector copy, how many languages, whether the quote form uses real rate logic, and integrations with job software or a CRM. Ask for those as separate lines.`,
       ],
       after: [
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `One to two weeks for a single-city site, three to five weeks for a many-area SEO build, measured from the day you send your price list, licence details and photos. Copy approval is usually the slowest step, especially the safety page.`,
         `Week one: the page map and itemised quote in about two working days, then a staging link with the home page, one pest page and the AMC page, so you can check tone and layout. Week two: remaining pests, sectors and areas, the quote form wired to your rate tables, booking windows per zone and WhatsApp alerts. Before launch we test forms on budget Android phones over mobile data, because many of your customers will book from exactly that.`,
-        `For larger builds, weeks three to five cover area pages in batches, schema markup, internal linking and Search Console setup. Five months of free maintenance follow launch, covering new pages, price updates and fixes.`,
+        `For larger builds, weeks three to five cover area pages in batches, schema markup, internal linking and Search Console setup. Two months of free maintenance follow launch, covering new pages, price updates and fixes.`,
       ],
     },
     {
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything is registered to your business: domain, hosting, code repository, lead sheet and analytics. We join as invited users and hand back every login at launch.`,
         `This matters for pest control operators in particular because leads and AMC client lists are the business. If a developer controls your forms or hosting, they effectively control your pipeline. With your own accounts, you can switch developers, add staff or connect new software without asking permission.`,
-        `At handover you receive the code, a short guide to editing prices, booking windows and area pages, and the rate tables behind the quote form. The first five months of maintenance are free; after that, care is optional from ${P.care}.`,
+        `At handover you receive the code, a short guide to editing prices, booking windows and area pages, and the rate tables behind the quote form. The first two months of maintenance are free; after that, care is optional from ${P.care}.`,
       ],
     },
     {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
       ["Review one pest page and the AMC page", "A private staging link shows the home page, a pest page and the AMC plans, so you can correct tone and technical details early."],
       ["Connect quotes and booking", "Your rate tables go into the quote form, booking windows are set per zone, and every lead is routed to WhatsApp and a sheet you own."],
       ["Launch in your accounts", "Domain, hosting, analytics and Search Console are set up under your business email, and you receive all logins and the code."],
-      ["Free care for five months", `We add pages, update prices and fix issues free for five months. Care afterwards starts at ${P.care}, only if you want it.`],
+      ["Free care for two months", `We add pages, update prices and fix issues free for two months. Care afterwards starts at ${P.care}, only if you want it.`],
     ],
   },
   faqHeading: "Pest control website design: common questions",
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Can the website send service reports to commercial clients?", answer: `A simple version lets clients request past reports through a form, which your team answers by email. Automatic reports after every visit, with pest-activity logs and photos, need job-management software where technicians record visits. That is a custom web app from ${P.software}, usually built after the website is live.` },
     { question: "Should I choose a freelancer or an agency for my pest control website?", answer: "Choose on scope, communication and ownership rather than the label. A small freelance team like ours suits operators who want direct contact with the people building the site, an itemised quote and accounts in their own name. A larger team may suit a national chain needing many parallel workstreams and on-site workshops, which we do not offer." },
     { question: "Can I get a pest control website in Hindi or a regional language?", answer: "Yes. We can build English pages with Hindi or regional-language versions of key pages such as pest preparation steps, booking and contact. You supply or approve the translated copy, since we do not write native copy in other languages. Many operators find bilingual preparation steps reduce repeated phone questions." },
-    { question: "What does maintenance cover after launch?", answer: `The first five months are free and cover adding pages, updating prices and booking windows, text edits and fixes. After that, maintenance is optional from ${P.care}. If your staff want to add area pages or offers themselves, we can build on an editor they can use, and show them how.` },
+    { question: "What does maintenance cover after launch?", answer: `The first two months are free and cover adding pages, updating prices and booking windows, text edits and fixes. After that, maintenance is optional from ${P.care}. If your staff want to add area pages or offers themselves, we can build on an editor they can use, and show them how.` },
     { question: "Who owns my pest control website and customer leads?", answer: "You do. Domain, hosting, code, analytics and the lead sheet are all registered to your business from the start, with us as invited users. At handover you receive every login, the code and the quote-form rate tables, so you can change developers or add software without losing your pipeline." },
     { question: "Do you visit our office or photograph our technicians?", answer: "No. We work remotely from India and do not make site visits. We send a simple photo list, such as technicians in uniform with equipment, before-and-after shots without addresses, and your vehicles, and we crop and compress what you or a local photographer capture. Real photos build more trust than stock insects." },
     { question: "How do payments work for the website project?", answer: "You receive an itemised quote in about two working days, and nothing is billed before you approve it in writing. Indian clients pay by UPI or bank transfer in stages linked to visible progress; overseas clients pay in USD by Wise, bank wire or PayPal. The stages are written in your quote, and our refund policy is published on the site." },
@@ -449,7 +449,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want more inspections and AMC contracts? Message us your pest list",
-    note: `Tell us on WhatsApp which pests you treat, the zones you cover and your AMC plans. You will get a page map and itemised quote in about two working days, sites from ${P.site}, all accounts in your name and five months of free maintenance.`,
+    note: `Tell us on WhatsApp which pests you treat, the zones you cover and your AMC plans. You will get a page map and itemised quote in about two working days, sites from ${P.site}, all accounts in your name and two months of free maintenance.`,
   },
 };
 

@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Main stacks", "Node.js or Python, PostgreSQL"],
     ["You receive", "Repository, API docs, infra access"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who review each other’s backend code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Platform or middleman fees on payments" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Security baseline", value: "Object-level permission checks, rate limits, encrypted secrets" },
       { label: "Hosting", value: "AWS or a VPS, in your account" },
       { label: "Starting price", value: `From ${P.software} (${P.softwareUsd})` },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a freelance backend developer cost in India?",
       paragraphs: [
-        `A custom backend or web app with BtechWaleTech starts at ${P.software} (${P.softwareUsd}). A backend built alongside a mobile app is covered from ${P.app}, the starting price for our Android and iOS app projects. Maintenance after the free five months starts at ${P.care}.`,
+        `A custom backend or web app with BtechWaleTech starts at ${P.software} (${P.softwareUsd}). A backend built alongside a mobile app is covered from ${P.app}, the starting price for our Android and iOS app projects. Maintenance after the free two months starts at ${P.care}.`,
         `Market quotes for backend work vary widely, often because one quote covers only endpoints while another includes the admin panel, tests, documentation, deployment and backups. Compare quotes against the same written list of entities, roles and integrations. Ask each freelancer what is excluded.`,
         `Running costs are separate and paid by you: cloud hosting and database, file storage, email and SMS sending, WhatsApp message charges and any paid APIs. For a small business backend these are usually modest at launch and grow with usage. We estimate them in the quote and set billing alerts so growth never arrives as a shock.`,
       ],
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Mobile app with its backend", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Online store with custom checkout logic", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["AI automation on your data", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Approve the itemised quote", "Within about two working days you receive prices per module. Remove or defer modules as needed; nothing is billed before written approval."],
       ["Integrate slice by slice on staging", "Endpoints arrive on a staging server with documentation every sprint, so your app or website developer can build against real responses."],
       ["Security pass, restore test, go-live", "We run the permission tests and security checklist, restore a backup to prove it works, then deploy to production in your cloud account."],
-      ["Handover and five free months", "You receive the repository, API spec and runbook. Fixes and small changes are free for five months, then maintenance continues from " + P.care + " if you want it."],
+      ["Handover and two free months", "You receive the repository, API spec and runbook. Fixes and small changes are free for two months, then maintenance continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Freelance backend developer: questions answered",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a backend built or checked? Send us the details",
-    note: `Tell us on WhatsApp what your system must store and who uses it. You get an itemised quote in about two working days, custom backends start at ${P.software}, everything runs in accounts you own, and the first five months after go-live are maintained free.`,
+    note: `Tell us on WhatsApp what your system must store and who uses it. You get an itemised quote in about two working days, custom backends start at ${P.software}, everything runs in accounts you own, and the first two months after go-live are maintained free.`,
   },
 };
 

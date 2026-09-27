@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["When we suggest custom", `Mobile app from ${P.app}; web software from ${P.software}`],
     ["Whose account", "Your Google Workspace domain, your Sheets"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", `5 months free fixes, then from ${P.care} a month`],
+    ["After launch", `2 months free fixes, then from ${P.care} a month`],
   ],
   stats: [
     { value: "3", label: "Developers who build in AppSheet and in code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Data sources we use", value: "Google Sheets first; SQL databases on AppSheet Enterprise Plus" },
       { label: "Licences", value: "Bought by you from Google; we help pick the right one" },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal from abroad" },
-      { label: "Support after launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support after launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What an AppSheet developer costs with us",
-    note: `Most AppSheet projects we quote fall under our automation plan, which starts at ${P.ai} for a focused app with three to six tables, role-based views, one or two bots and a handover session. The price moves with the number of tables, how many roles see different data, whether you need offline photo caching, barcode flows, PDF reports or Apps Script add-ons, and how messy the existing sheet is. Licences are separate and paid to Google. If we recommend a custom app instead, mobile apps start at ${P.app} and web software at ${P.software}. After launch you get five months of free fixes, then care from ${P.care} a month.`,
+    note: `Most AppSheet projects we quote fall under our automation plan, which starts at ${P.ai} for a focused app with three to six tables, role-based views, one or two bots and a handover session. The price moves with the number of tables, how many roles see different data, whether you need offline photo caching, barcode flows, PDF reports or Apps Script add-ons, and how messy the existing sheet is. Licences are separate and paid to Google. If we recommend a custom app instead, mobile apps start at ${P.app} and web software at ${P.software}. After launch you get two months of free fixes, then care from ${P.care} a month.`,
   },
   guideLabel: "AppSheet developer guide",
   guide: [
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Data model and clean-up", "We restructure your sheets into proper tables with keys and references, move old data to archive sheets, and confirm the model with you before building any screens."],
       ["Build and phone testing", "Views, forms, security filters and bots are built in your Workspace. Your staff test on their own phones, including airplane-mode runs and barcode scans, while we fix what they find."],
       ["Launch and training", "We roll out to a pilot group first, then everyone. A short Hindi or English video and a written guide show staff how to sync, capture and correct entries."],
-      ["Handover and support", "Your admin receives notes on every table, slice, bot and filter. Five months of free fixes follow, then optional care. If the app outgrows AppSheet, we plan the move together."],
+      ["Handover and support", "Your admin receives notes on every table, slice, bot and filter. Two months of free fixes follow, then optional care. If the app outgrows AppSheet, we plan the move together."],
     ],
   },
   faqHeading: "AppSheet developer questions people ask",
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
     { question: "Can you fix an AppSheet app that someone else built?", answer: "Yes. We start with an audit: data model, sync speed, security filters, bots and sheet formulas. Common problems include one huge sheet doing everything, missing keys, formulas recalculating on every sync, and no row filtering per user. You get a written list of issues with a quote to fix them, and we keep the app running during the changes so staff are not left without it." },
     { question: "Can an AppSheet app connect to Tally, Zoho or my ERP?", answer: "Often, with help from Apps Script, webhooks or the other system's API. AppSheet bots can call webhooks, and Apps Script can move data between Google Sheets and systems like Zoho Books or ERPNext on a schedule. The important design choice is deciding which system owns each piece of data, so figures do not drift between the app and your accounts." },
     { question: "Do you build AppSheet apps for teams outside India?", answer: "Yes. Everything is done remotely, so location does not matter as long as there is some overlap with Indian working hours for calls. International projects are quoted in US dollars and paid by Wise, bank wire or PayPal. Google licences are bought by you in your own Workspace account, and all communication happens over WhatsApp, email and video calls in English." },
-    { question: "What happens after the AppSheet app goes live?", answer: `You get five months of free fixes after launch for anything that does not work as agreed. After that, optional care starts from ${P.care} a month and covers fixes, small changes and bot monitoring. Larger new features are quoted separately. Because your admin has written handover notes, you can also make simple changes yourselves, such as adding a dropdown value or a new user.` },
+    { question: "What happens after the AppSheet app goes live?", answer: `You get two months of free fixes after launch for anything that does not work as agreed. After that, optional care starts from ${P.care} a month and covers fixes, small changes and bot monitoring. Larger new features are quoted separately. Because your admin has written handover notes, you can also make simple changes yourselves, such as adding a dropdown value or a new user.` },
     { question: "AppSheet developer chahiye, app kitne din mein ban jayega?", answer: `Chhota AppSheet app, jaise visit log ya attendance, aam taur par 2 se 4 hafte mein ready ho jata hai, jismein sheet ki safai, phone par testing aur staff training shamil hai. Hamara AppSheet kaam ${P.ai} se shuru hota hai, aur final price aapke tables, roles aur reports dekhkar itemised quote mein aata hai. Licence Google se aapke Workspace account mein hi rehta hai.` },
     { question: "Does an AppSheet app help my website's SEO or AI search visibility?", answer: "No, and it should not need to. AppSheet apps are internal tools behind a sign-in, so search engines and AI assistants do not index them. If you want customers to find you on Google or in AI answers, that is the job of your public website, structured data and Google Business Profile. Keep the internal app private and invest in search visibility on the website instead." },
   ],

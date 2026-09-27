@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT solutions · Puri, Odisha",
     h1: "Freelance software developers in Puri for hotels, pilgrim services and craft sellers",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India, hired by Puri businesses that would otherwise look for a software development team in Puri. We build the software a pilgrim town actually runs on: room and tour booking engines, WhatsApp enquiry bots, staff and inventory dashboards, installable apps and fast, search-ready websites. You message the people writing the code, prices start low and are published, and five months of upkeep after launch cost nothing.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India, hired by Puri businesses that would otherwise look for a software development team in Puri. We build the software a pilgrim town actually runs on: room and tour booking engines, WhatsApp enquiry bots, staff and inventory dashboards, installable apps and fast, search-ready websites. You message the people writing the code, prices start low and are published, and two months of upkeep after launch cost nothing.",
     pills: ["Booking engines", "WhatsApp enquiry bots", "Hotel dashboards", "Apps and PWAs", "Software from ₹60,000"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that reply to WhatsApp room enquiries in Odia, Hindi, Bengali and English, quote rates from your own tariff sheet, and hand hot leads to your staff.",
     data: "Dashboards showing occupancy, advance collections and channel-wise bookings so owners can plan staff and pricing before the festival rush.",
     app: "Android and iOS apps for Puri hotels, tour operators, food sellers and institutes, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Backups, fixes, updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Backups, fixes, updates and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Most Puri businesses have dealt with a website maker who vanished after the first payment, or a booking portal that takes a big commission on every room. We work differently: a small engineering team that writes your software, gives you every login and stays reachable on WhatsApp all week.",
@@ -143,7 +143,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development for a Puri business starts at ₹40,000 with BtechWaleTech and usually takes six to ten weeks. That covers one app built in Flutter or React Native, published on both Google Play and the Apple App Store, with login, forms, push notifications, an admin panel and a connection to your booking or order data.",
         "The apps that make sense in Puri follow the town's economy. A hotel group can give repeat pilgrims an app to book rooms for the next Rath Yatra, receive check-in details and get a notification when festival rates open. A tour operator can run a driver app that shows each day's Konark, Chilika and airport trips. A sweet shop or seafood supplier can take pre-orders from regular customers and hotels, and a coaching centre can share batch timings and test scores with students.",
-        "Before recommending a store app, we ask a simple question: will people open it more than once? A visitor staying two nights may never install anything, and for them a fast website or installable web link is enough. Staff, drivers, loyal customers and students do use apps repeatedly, and for them an Android and iPhone app pays off. Publishing is done under your own developer accounts, so the listings belong to you, and the first five months of fixes after launch are free.",
+        "Before recommending a store app, we ask a simple question: will people open it more than once? A visitor staying two nights may never install anything, and for them a fast website or installable web link is enough. Staff, drivers, loyal customers and students do use apps repeatedly, and for them an Android and iPhone app pays off. Publishing is done under your own developer accounts, so the listings belong to you, and the first two months of fixes after launch are free.",
       ],
       list: [
         "Guest app: bookings, check-in details, festival rate alerts",
@@ -158,7 +158,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting means your website or software runs on professionally managed servers rather than a cheap shared plan, and can scale up when traffic spikes. Puri's spikes are predictable: Rath Yatra announcements, New Year, long weekends and Kartika Purnima. A booking page that falls over on those days loses exactly the customers you most wanted.",
         "We set up hosting, domain, SSL, backups and deployment as part of every project, with the accounts registered in your name. Static sites go on fast global networks that handle sudden crowds well. Web applications run on managed cloud servers with a database backup schedule and monitoring that alerts us if response times rise.",
-        "Deployment is automated, so a change to rates or a new room photo goes live safely without someone copying files by hand. After launch, five months of maintenance are included at no charge, covering updates, backups and uptime checks. After that, support plans start at ₹8,000 a month, or you can call us only when you need something.",
+        "Deployment is automated, so a change to rates or a new room photo goes live safely without someone copying files by hand. After launch, two months of maintenance are included at no charge, covering updates, backups and uptime checks. After that, support plans start at ₹8,000 a month, or you can call us only when you need something.",
       ],
     },
     {
@@ -175,7 +175,7 @@ const content: CityContent = {
       heading: "How much do freelance software developers in Puri charge?",
       paragraphs: [
         "Costs depend on what the software must do, but our published starting prices give a reliable floor. A static website starts at ₹10,000. A large SEO website with 700 or more pages starts at ₹20,000. An online store starts at ₹50,000, AI and WhatsApp automation at ₹40,000, and custom software or a web application, such as a booking engine or tour scheduler, at ₹60,000.",
-        "Ongoing work is monthly: SEO from ₹10,000 a month and maintenance from ₹8,000 a month, with the first five months of maintenance after launch included free. Because we are three engineers with no Puri office, there is no rent or sales team hidden inside the figure.",
+        "Ongoing work is monthly: SEO from ₹10,000 a month and maintenance from ₹8,000 a month, with the first two months of maintenance after launch included free. Because we are three engineers with no Puri office, there is no rent or sales team hidden inside the figure.",
         "Payments are straightforward. You pay us in INR by UPI, by scanning our QR code, or by direct bank transfer to our bank account. We usually split larger builds into milestones, so you pay for work you have already seen on a live preview link. Every quote is itemised line by line.",
       ],
       list: [
@@ -292,7 +292,7 @@ const content: CityContent = {
     {
       question: "What happens after launch? Is maintenance included?",
       answer:
-        "Five months of maintenance after launch are included free. That covers bug fixes, content and rate updates, security and dependency updates, backups, and uptime and speed checks. After five months you can continue on a plan starting at ₹8,000 a month, or simply message us when you need a change and pay for that piece of work.",
+        "Two months of maintenance after launch are included free. That covers bug fixes, content and rate updates, security and dependency updates, backups, and uptime and speed checks. After two months you can continue on a plan starting at ₹8,000 a month, or simply message us when you need a change and pay for that piece of work.",
     },
     {
       question: "Can you build an Android and iOS app for our Puri hotel or tour service?",

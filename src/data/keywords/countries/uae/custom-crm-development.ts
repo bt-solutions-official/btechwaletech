@@ -37,17 +37,17 @@ const content: FreelanceContent = {
     ["Lead sources", "Web forms, Meta lead ads, portals, WhatsApp"],
     ["Languages", "English and Arabic interface (RTL)"],
     ["Hosting", "Your own cloud account, UAE region possible"],
-    ["After launch", `5 months free, then support from ${P.care}`],
+    ["After launch", `2 months free, then support from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your CRM" },
     { value: "0", label: "Per-seat fees paid to us" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "Is custom CRM software development in Dubai cheaper than paying for Zoho, HubSpot or Salesforce seats?",
-    text: `It can be, once you count seat-months rather than monthly fees. A team of 20 users on a SaaS CRM pays for 720 seat-months over three years, and pays again for every hire. A custom CRM built by BtechWaleTech starts from ${P.software} as a one-time build, then support from ${P.care} after five free months. Small teams with standard pipelines should usually stay on SaaS.`,
+    text: `It can be, once you count seat-months rather than monthly fees. A team of 20 users on a SaaS CRM pays for 720 seat-months over three years, and pays again for every hire. A custom CRM built by BtechWaleTech starts from ${P.software} as a one-time build, then support from ${P.care} after two free months. Small teams with standard pipelines should usually stay on SaaS.`,
     more: `If your CRM is really one part of a wider operations system, read <a href='/uae/custom-software-development/'>custom software development in Dubai</a>. To automate follow-ups on top of the CRM, see <a href='/uae/ai-automation-agency-alternative/'>AI automation for UAE teams</a>.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "First release", value: "6–12 weeks: pipeline, routing, WhatsApp inbox, one or two lead sources" },
       { label: "Interface", value: "English and Arabic, right-to-left layout tested on phones" },
       { label: "Data home", value: "Your cloud account; UAE region available from AWS and Azure" },
-      { label: "Support", value: `Five free months, then from ${P.care}` },
+      { label: "Support", value: `Two free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     note: "All three are reasonable. The right one depends on team size, how unusual your sales process is, and whether you want to own the system.",
     columns: ["Aspect", "SaaS CRM seats (Zoho, HubSpot, Salesforce)", "Dubai CRM development company", "BtechWaleTech"],
     rows: [
-      ["Cost shape", "Per user, per month, for as long as you use it", "Project fee plus a support contract", `Build from ${P.software}; support from ${P.care} after 5 free months`],
+      ["Cost shape", "Per user, per month, for as long as you use it", "Project fee plus a support contract", `Build from ${P.software}; support from ${P.care} after 2 free months`],
       ["Adding a salesperson", "Another seat on the invoice", "Usually free once built", "Free: no licence per user"],
       ["WhatsApp handling", "Add-on, marketplace app or partner tool", "Built if specified", "Built in, on the official Cloud API"],
       ["Routing rules", "Configurable within the product's limits", "Custom", "Custom: language, emirate, budget, shift, SLA"],
@@ -124,7 +124,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Compare seat-months, not monthly invoices. Multiply the number of CRM users by the months you expect to keep the system; that figure, times whatever your plan charges per user per month in AED, is the true SaaS cost. Set it against a one-time build plus monthly support.`,
         `Twenty users over three years is 720 seat-months. Forty users over the same period is 1,440. Every new hire adds another 12 seat-months a year, and moving up a plan tier to get a feature such as advanced workflows or extra API calls multiplies the lot. Check your vendor's current price list for the per-seat figure; they change, and discounts vary by contract.`,
-        `The custom side of the sum is a build fee, which with BtechWaleTech starts from ${P.software}, plus support from ${P.care} a month after five free months, plus your own hosting and WhatsApp message fees. There is no multiplier for headcount.`,
+        `The custom side of the sum is a build fee, which with BtechWaleTech starts from ${P.software}, plus support from ${P.care} a month after two free months, plus your own hosting and WhatsApp message fees. There is no multiplier for headcount.`,
       ],
       subs: [
         { heading: "When the maths favours SaaS", text: "Small teams, short time horizons, or a need for dozens of built-in features you will genuinely use, such as marketing automation, call centre telephony or service ticketing in the same product." },
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The first month decides whether a custom CRM succeeds. We watch usage with you: which agents reply from the system, which leads sit untouched, which fields nobody fills. Small fixes in that month, such as removing a field or renaming a stage, do more for adoption than any new feature.`,
         `Reporting grows from real questions. Managers usually start with response time per agent, conversion by lead source and pipeline value by stage. Because the CRM holds WhatsApp, forms and ad leads together, you can finally see which channel produces customers rather than just enquiries.`,
-        `Every CRM launch includes five months of free maintenance for what we built. Afterwards, support starts from ${P.care} a month, with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours, but do not run a 24/7 on-call desk. Meta changes its API versions regularly, and support covers keeping your integration current. Our <a href='/portfolio/'>portfolio</a> shows the kind of systems we build.`,
+        `Every CRM launch includes two months of free maintenance for what we built. Afterwards, support starts from ${P.care} a month, with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours, but do not run a 24/7 on-call desk. Meta changes its API versions regularly, and support covers keeping your integration current. Our <a href='/portfolio/'>portfolio</a> shows the kind of systems we build.`,
       ],
     },
   ],
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
       ["Discovery with agents", "Recorded video calls with a manager and two salespeople, then a routing rule sheet and a clickable agent screen for you to correct."],
       ["Itemised USD quote", "In about two working days: modules, integrations, migration and Arabic interface as separate lines, with a week-by-week plan."],
       ["Build and rehearse", "Code in your repository, hosting on your cloud, weekly demos on a test CRM, and a full migration rehearsal before go-live."],
-      ["Go live and tune", "Launch with training, a first month of adoption tweaks, five months of free maintenance, then an optional second release."],
+      ["Go live and tune", "Launch with training, a first month of adoption tweaks, two months of free maintenance, then an optional second release."],
     ],
   },
   faqHeading: "Custom CRM software development in Dubai: your questions",
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
     { question: "Can you add AI to the CRM?", answer: `Yes, as a separate step. Common additions are summarising long WhatsApp threads, suggesting a next action, scoring leads by stated budget and timeline, and drafting follow-up messages for agents to approve. Anything that reaches a customer or changes a deal keeps a human check. AI automation work starts from ${P.ai}, and we tell you where the text is processed.` },
     { question: "Do we need the official WhatsApp Business API for a CRM?", answer: "Yes, if the CRM is to send and receive messages for a team. Meta's Cloud API is the supported route, either directly or through a Business Solution Provider. Unofficial tools that automate the WhatsApp app or WhatsApp Web risk your number being banned, and a ban can cut you off from every customer conversation at once." },
     { question: "How do we pay an India-based team from the UAE?", answer: "Quotes are in USD and invoices come from India. You pay by Wise, bank wire or PayPal against milestones set out in your written quote, and nothing is billed before you approve that quote in writing. WhatsApp fees, hosting and other running costs are billed to your own accounts by those providers. Ask your accountant how the service is treated for VAT." },
-    { question: "What support is available after the CRM launches?", answer: `Every launch includes five months of free maintenance for what we built. After that, support starts from ${P.care} a month with scope agreed in your quote, covering fixes, library and API updates such as new WhatsApp API versions, and small changes. We reply on WhatsApp seven days a week during Indian working hours; there is no overnight on-call cover.` },
+    { question: "What support is available after the CRM launches?", answer: `Every launch includes two months of free maintenance for what we built. After that, support starts from ${P.care} a month with scope agreed in your quote, covering fixes, library and API updates such as new WhatsApp API versions, and small changes. We reply on WhatsApp seven days a week during Indian working hours; there is no overnight on-call cover.` },
     { question: "Will salespeople actually use a custom CRM?", answer: "They will if it is quicker than the workaround. That means a phone-friendly screen, few mandatory fields, WhatsApp replies from inside the CRM and leads assigned automatically. We involve two agents in discovery and review, test the reply-and-update flow on a phone first, and spend the first month after launch removing whatever slows people down." },
     { question: "Can the CRM send automatic follow-up messages?", answer: "Yes, within WhatsApp's rules. Inside the 24-hour window after a customer writes, the CRM can send free-text replies; outside it, follow-ups go as approved templates, and marketing templates need the contact's opt-in. Reminders by email are also possible. Every automatic message is logged on the lead so agents see what the customer already received." },
     { question: "Do you sign an NDA before we share our sales data?", answer: "We are happy to discuss confidentiality before you share anything. Any NDA terms are agreed with you directly and recorded alongside your quote, and our general terms are published on the website. Most clients describe the process first and share a sample export with names and numbers masked, which is enough for discovery and quoting." },

@@ -7,7 +7,7 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Gaya | Apps & AI",
     description:
-      "Freelance software developers for Gaya and Bodh Gaya: booking systems, web and mobile apps, AI automation, dashboards and SEO. From ₹10,000, 5 months free support.",
+      "Freelance software developers for Gaya and Bodh Gaya: booking systems, web and mobile apps, AI automation, dashboards and SEO. From ₹10,000, 2 months free support.",
     keywords: [
       "software development team in Gaya",
       "IT services team in Gaya",
@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Booking software for pilgrims", "Multilingual tourist sites", "Manpur loom order tracking", "AI replies in Hindi and English", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "BtechWaleTech, a remote freelance group of three software engineers, builds for Gaya from ₹10,000 for a website, ₹40,000 for AI automation or an Android and iOS app (six to ten weeks for apps) and ₹60,000 for custom booking or management software (six to twelve weeks). Five months of maintenance are free after launch.",
+    "BtechWaleTech, a remote freelance group of three software engineers, builds for Gaya from ₹10,000 for a website, ₹40,000 for AI automation or an Android and iOS app (six to ten weeks for apps) and ₹60,000 for custom booking or management software (six to twelve weeks). Two months of maintenance are free after launch.",
   snapshot: [
     { label: "Religious economy", value: "Vishnupad Temple and the Phalgu ghats, the centre of pind daan rituals and the annual Pitru Paksha Mela" },
     { label: "Global pilgrimage site", value: "Mahabodhi Temple at Bodh Gaya, a UNESCO World Heritage Site, with monasteries built by Thailand, Japan, Bhutan, Tibet and others" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that answer pilgrim and tourist questions in several languages, collect ritual or room details and hand confirmed bookings to your staff.",
     data: "Season-wise dashboards showing bookings, occupancy, dues and production, so owners can plan staff and stock before Pitru Paksha or the winter tourist rush.",
     app: "Android and iOS apps from ₹40,000 for Gaya pilgrims, Bodh Gaya guests and loom agents, built once in Flutter or React Native and listed on Google Play and the App Store.",
-    maintenance: "Updates, backups, fixes and seasonal scaling checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, fixes and seasonal scaling checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Gaya's biggest customers arrive from far away: families from across India for pind daan, and monks and tourists from Thailand, Sri Lanka, Japan and Vietnam for Bodh Gaya. They decide online before they travel. We build the software that lets a Gaya business take those decisions seriously, without the price of a metro agency.",
@@ -190,8 +190,8 @@ const content: CityContent = {
       id: "maintenance-gaya",
       heading: "IT support and maintenance for Gaya after launch",
       paragraphs: [
-        "IT support after launch keeps your booking system, store or app secure, backed up and working through every season. BtechWaleTech includes five months of free maintenance once hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small edits such as new package prices before the Mela.",
-        "After five months, you can move to a support plan from ₹8,000 a month or pay per request. We answer WhatsApp messages every day of the week, which matters when a problem appears on a Sunday during peak season. Urgent issues, such as bookings failing or a payment page not loading, are always handled before cosmetic changes.",
+        "IT support after launch keeps your booking system, store or app secure, backed up and working through every season. BtechWaleTech includes two months of free maintenance once hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small edits such as new package prices before the Mela.",
+        "After two months, you can move to a support plan from ₹8,000 a month or pay per request. We answer WhatsApp messages every day of the week, which matters when a problem appears on a Sunday during peak season. Urgent issues, such as bookings failing or a payment page not loading, are always handled before cosmetic changes.",
       ],
     },
     {
@@ -292,7 +292,7 @@ const content: CityContent = {
     {
       question: "What is covered by the free maintenance period?",
       answer:
-        "For five months after hosting goes live, maintenance is free. It includes bug fixes, security updates, backups, uptime and speed monitoring, and small content changes such as new rates or seasonal notices. Afterwards, plans start at ₹8,000 a month, or you can pay per request. Support requests are answered on WhatsApp seven days a week.",
+        "For two months after hosting goes live, maintenance is free. It includes bug fixes, security updates, backups, uptime and speed monitoring, and small content changes such as new rates or seasonal notices. Afterwards, plans start at ₹8,000 a month, or you can pay per request. Support requests are answered on WhatsApp seven days a week.",
     },
     {
       question: "How long before SEO brings bookings in Gaya?",

@@ -31,10 +31,10 @@ const jind: CityContent = {
     h1: "Websites, software, SEO and AI tools for Jind's mandi, dairy and service trades",
     lede:
       "Jind calls itself the heart of Haryana, and its business runs on the grain market, dairying, coaching, hospitals and pilgrims visiting Jayanti Devi and Pandu Pindara. We are three remote engineers building websites, catalogues and WhatsApp automation for these firms, with starting prices published and the domain always in your name.",
-    pills: ["Sites from ₹10,000", "Hindi and Haryanvi-friendly SEO", "Arhtiya and dealer pages", "WhatsApp admission bots", "5 months' free upkeep"],
+    pills: ["Sites from ₹10,000", "Hindi and Haryanvi-friendly SEO", "Arhtiya and dealer pages", "WhatsApp admission bots", "2 months' free upkeep"],
   },
   quickAnswer:
-    "For a Jind shop, clinic or trader, our websites begin at ₹10,000 and are usually ready inside a fortnight. Larger 299+ page SEO builds are priced from ₹20,000, stores from ₹50,000 and WhatsApp bots from ₹40,000. Three remote engineers, no Jind office, and upkeep costs nothing for the first five months.",
+    "For a Jind shop, clinic or trader, our websites begin at ₹10,000 and are usually ready inside a fortnight. Larger 299+ page SEO builds are priced from ₹20,000, stores from ₹50,000 and WhatsApp bots from ₹40,000. Three remote engineers, no Jind office, and upkeep costs nothing for the first two months.",
   snapshot: [
     { label: "Known as", value: "“Heart of Haryana”, district headquarters and former capital of the Jind princely state" },
     { label: "Economy", value: "Large grain market, a milk plant and cattle feed plant, farming across five tehsils" },
@@ -51,10 +51,10 @@ const jind: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and appointment questions in Hindi, then pass serious enquiries to someone in your office.",
     data: "Dashboards pulling mandi arrivals, milk collection, dealer sales or admissions into one screen an owner can read quickly.",
     app: "Android and iOS apps for milk-route tracking, student test series or clinic appointments, available on both stores and priced from ₹40,000.",
-    maintenance: "Five free months of updates and fixes after launch, then plans from ₹8,000 a month or pay-per-change work.",
+    maintenance: "Two free months of updates and fixes after launch, then plans from ₹8,000 a month or pay-per-change work.",
   },
   whyUsIntro:
-    "Most Jind businesses get their website from a relative's contact or a local computer centre, and support tends to stop once the site is live. We work differently: starting prices written down, the domain in your name, replies on WhatsApp seven days a week and five months of free maintenance.",
+    "Most Jind businesses get their website from a relative's contact or a local computer centre, and support tends to stop once the site is live. We work differently: starting prices written down, the domain in your name, replies on WhatsApp seven days a week and two months of free maintenance.",
   pricingIntro:
     "Every figure below is a starting price. A grain trader who wants a simple profile needs much less than a coaching institute with online test series or a dairy with delivery slots. We send an itemised quote listing each page and feature, and nothing is billed until you approve it in writing.",
   sections: [
@@ -176,7 +176,7 @@ const jind: CityContent = {
       paragraphs: [
         "A familiar story in Jind: a website was made years ago by a local computer centre, the person who made it moved to Gurugram or stopped answering, and now no one knows the domain password. The renewal lapses, the site disappears, and the phone number on thousands of pamphlets points to nothing.",
         "To stop that happening, the domain is booked under your own name and email, and the hosting bill comes to your account. On launch day we hand over the code repository, the admin and hosting passwords and a single sheet listing where each piece lives. Should you ever prefer a different developer, give them those details; we charge nothing to let go.",
-        "For five months after going live we look after the site free of charge. That covers editing text and rates, fixing anything that breaks, applying security patches, taking backups and watching that the site stays up. From month six, a care plan costs from ₹8,000 monthly. Many Jind firms whose pages hardly change skip the plan and simply send us a job when needed, paid for separately.",
+        "For two months after going live we look after the site free of charge. That covers editing text and rates, fixing anything that breaks, applying security patches, taking backups and watching that the site stays up. From month three, a care plan costs from ₹8,000 monthly. Many Jind firms whose pages hardly change skip the plan and simply send us a job when needed, paid for separately.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const jind: CityContent = {
         "It belongs to you completely. Domain and hosting sit in your name, and on launch day we pass over the code and all passwords. If you later want someone else to manage it, you can switch without paying us anything.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You choose. Plans start at ₹8,000 a month and include updates, backups, security patches and content changes. If your site rarely changes, you can skip the plan and pay per job. You keep full access to everything either way.",
     },

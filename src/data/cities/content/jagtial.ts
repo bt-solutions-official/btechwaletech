@@ -31,11 +31,11 @@ const jagtial: CityContent = {
     eyebrow: "Jagtial · North Telangana",
     h1: "Telugu and English websites, map listings and automation for Jagtial businesses",
     lede:
-      "We are three remote engineers who build websites, Google profiles, small online stores and WhatsApp automation for Jagtial district: mango, paddy and turmeric traders, cold storage and rice mill owners, hospitals and clinics, coaching centres and schools, and shops in Korutla, Metpally and Dharmapuri. Our starting prices are published, and maintenance is free for the first five months.",
+      "We are three remote engineers who build websites, Google profiles, small online stores and WhatsApp automation for Jagtial district: mango, paddy and turmeric traders, cold storage and rice mill owners, hospitals and clinics, coaching centres and schools, and shops in Korutla, Metpally and Dharmapuri. Our starting prices are published, and maintenance is free for the first two months.",
     pills: ["Websites from ₹10,000", "Telugu and English pages", "Trader and mill websites", "Hospital and clinic pages", "WhatsApp replies and lead logs"],
   },
   quickAnswer:
-    "A static website for a Jagtial business starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Jagtial office, and you get five months of free maintenance after launch.",
+    "A static website for a Jagtial business starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely without a Jagtial office, and you get two months of free maintenance after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Jagtial district, with revenue divisions at Jagtial, Korutla and Metpally and 18 mandals" },
     { label: "Location", value: "About 190 km north of Hyderabad, on NH 61, NH 63 and NH 563, with the Godavari along the district's edge" },
@@ -52,7 +52,7 @@ const jagtial: CityContent = {
     ai: "WhatsApp replies in Telugu or English for rates, timings and fees, with anything serious passed to you.",
     data: "Arrivals, sales and dues from registers pulled into a simple phone dashboard.",
     app: "Android and iOS apps for school notices, farmer updates or repeat orders, available on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Five months of free edits, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free edits, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Jagtial owners usually choose between a Hyderabad agency that has never seen their market and a local contact who builds a page and then stops answering. We publish our starting prices, send a written quote with every item listed, and reply on WhatsApp seven days a week, directly from the engineers building your site.",
@@ -187,7 +187,7 @@ const jagtial: CityContent = {
       paragraphs: [
         "It is common in district towns to find a website registered in a developer's name. When that person stops responding, the owner cannot update anything or renew the domain, and the address is lost along with its search history.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the full source code and a short explanation of how the site works. For software, you also get your data. You can move to another developer whenever you like, without our permission and without an exit fee.",
-        "Maintenance is free for five months after launch: edits, bug fixes, security updates, backups and uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when needed. The <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
+        "Maintenance is free for two months after launch: edits, bug fixes, security updates, backups and uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when needed. The <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
       ],
     },
     {
@@ -276,9 +276,9 @@ const jagtial: CityContent = {
         "Yes. The domain and hosting are registered in your name from the start, and at launch you receive every login and the full source code. You can switch developers whenever you like, with no exit fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "We handle text and price edits, bug fixes, security updates, backups and uptime and speed checks free for five months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "We handle text and price edits, bug fixes, security updates, backups and uptime and speed checks free for two months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "How long before SEO shows results in Jagtial?",

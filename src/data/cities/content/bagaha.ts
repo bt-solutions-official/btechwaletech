@@ -35,7 +35,7 @@ const bagaha: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Safari and stay pages", "Trader catalogues", "WhatsApp replies"],
   },
   quickAnswer:
-    "In Bagaha, a static website starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a three-engineer remote team with no office in Bagaha, and the first five months of maintenance are free.",
+    "In Bagaha, a static website starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a three-engineer remote team with no office in Bagaha, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Subdivision headquarters on the left bank of the Gandak in West Champaran, about 64 km north-west of Bettiah" },
     { label: "Administration", value: "Municipal town, subdivision headquarters and a separate police district of Bihar Police" },
@@ -52,7 +52,7 @@ const bagaha: CityContent = {
     ai: "WhatsApp replies in Hindi or Bhojpuri-friendly plain language for rates, stock, fees and bookings, handing hard cases to you.",
     data: "Season dashboards showing what was bought, sold, paid and pending, readable on the owner's phone.",
     app: "Android and iOS apps for dealer orders, school notices or safari check-ins near Valmiki Nagar, published on both app stores from ₹40,000.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month with backups and security updates.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month with backups and security updates.",
   },
   whyUsIntro:
     "Bagaha businesses often have to look to Bettiah, Muzaffarpur, Gorakhpur or Patna for anyone who builds websites, and the quotes that come back rarely explain what is included. We are three engineers with published starting prices, itemised quotes, WhatsApp replies every day and one firm rule: the domain, hosting and code belong to you.",
@@ -185,7 +185,7 @@ const bagaha: CityContent = {
         "A common story across small towns: someone builds a website, books the domain in his own email and later moves to Delhi or Kolkata for work. The renewal date passes, the site goes offline, and the business has to start again, often with a new web address its customers do not know.",
         "The same thing happens with Facebook pages and WhatsApp Business accounts registered on a relative's number. We list every account your business depends on, move each one to a number and email you control, and write down where the passwords are kept, so a change of staff or a lost phone does not lock you out of your own customers.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the full source code and a short guide to the site. You can move to another developer whenever you like, without any exit fee.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
   ],
@@ -270,9 +270,9 @@ const bagaha: CityContent = {
         "You do. Domain and hosting are registered in your name, and at launch you get every login and the complete source code. You can move to another developer at any time without paying an exit fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Text and price updates, bug fixes, security patches, backups and uptime checks, all without charge for five months after launch. After that, maintenance continues from ₹8,000 a month, or you can call us only when something is needed.",
+        "Text and price updates, bug fixes, security patches, backups and uptime checks, all without charge for two months after launch. After that, maintenance continues from ₹8,000 a month, or you can call us only when something is needed.",
     },
     {
       question: "Do you work in Bettiah, Narkatiaganj, Ramnagar and Motihari?",

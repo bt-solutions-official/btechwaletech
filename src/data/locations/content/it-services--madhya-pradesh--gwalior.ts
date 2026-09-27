@@ -38,10 +38,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Gwalior for schools, venues, factories and traders",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Gwalior schools, coaching institutes, banquet and heritage venues, Malanpur and Banmore units, hospitals and Maharaj Bada traders hire us instead of a software development team in Gwalior for school systems, booking software, production apps, AI agents and dashboards, plus hosting and SEO.",
-    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "School and coaching systems", "Venue booking tools", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "School and coaching systems", "Venue booking tools", "2 months free maintenance"],
   },
   quickAnswer:
-    "Searching for a software development team in Gwalior? BtechWaleTech is a freelance group of three engineers working remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000, with an itemised quote in about two working days and five months of free maintenance.",
+    "Searching for a software development team in Gwalior? BtechWaleTech is a freelance group of three engineers working remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000, with an itemised quote in about two working days and two months of free maintenance.",
   snapshot: [
     { label: "Regional role", value: "Largest city of the Gwalior-Chambal region, serving Morena, Bhind, Datia and Shivpuri" },
     { label: "Commercial areas", value: "Maharaj Bada in Lashkar, City Centre, Phool Bagh, Thatipur, Morar and the Jhansi Road side" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that answer admission, booking and product questions in Hindi and pass serious enquiries to your team.",
     data: "Dashboards for school groups, hospitals, dealers and factories showing admissions, bookings, sales and output in one screen.",
     app: "Android and iOS apps for Gwalior schools, coaching academies, banquet venues and dealers, built in Flutter or React Native for both stores, from ₹40,000.",
-    maintenance: "Backups, fixes, updates and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, fixes, updates and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Gwalior has local software firms and many small web studios, yet schools and venue owners often tell us they paid for software they cannot change or fully control. A freelance group of three named engineers, with written quotes and every account in the client's name, is a simpler option.",
@@ -196,7 +196,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Gwalior system we build is hosted in the cloud with HTTPS, automated backups, uptime monitoring, role-based access and audit logs, in an account registered to the client. Schools and hospitals holding personal data need this as a baseline.",
         "Our stack is Node.js or Python with PostgreSQL, a React or Astro front end and AWS or a comparable cloud, deployed through an automated pipeline with rollback. Backups are restore-tested, and former staff accounts are removed promptly.",
-        "Hosting and deployment are included in every project, followed by five months of free maintenance.",
+        "Hosting and deployment are included in every project, followed by two months of free maintenance.",
       ],
     },
     {
@@ -221,7 +221,7 @@ const content: CityContent = {
       id: "cost-timeline-gwalior",
       heading: "What does software cost in Gwalior, and how long does it take?",
       paragraphs: [
-        "BtechWaleTech's Gwalior starting prices are ₹60,000 for custom software over six to twelve weeks, ₹40,000 for Android and iOS apps over six to ten weeks, ₹40,000 for AI automation over two to four weeks, ₹50,000 for ecommerce over four to eight weeks, and ₹10,000 for a static website over one to two weeks. Maintenance is from ₹8,000 a month after five free months.",
+        "BtechWaleTech's Gwalior starting prices are ₹60,000 for custom software over six to twelve weeks, ₹40,000 for Android and iOS apps over six to ten weeks, ₹40,000 for AI automation over two to four weeks, ₹50,000 for ecommerce over four to eight weeks, and ₹10,000 for a static website over one to two weeks. Maintenance is from ₹8,000 a month after two free months.",
         "Cost grows with modules, users, integrations and data migration. A school importing years of student records, or a factory linking to Tally, adds scope. Each item is listed separately so you can phase work, for example building school fees before term starts and report cards before exams.",
         "Payment is by UPI QR or bank transfer in INR, in milestones. Full rates are on the <a href='/pricing/'>pricing page</a>.",
       ],
@@ -246,7 +246,7 @@ const content: CityContent = {
       id: "support-ownership-gwalior",
       heading: "Maintenance, IT support and ownership after launch",
       paragraphs: [
-        "Every Gwalior project includes five months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, then optional support from ₹8,000 a month. You own the code, domain, hosting and all logins.",
+        "Every Gwalior project includes two months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, then optional support from ₹8,000 a month. You own the code, domain, hosting and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Gwalior; the engineers who built your system answer your messages. Larger changes are quoted first.",
         "Documentation at handover lets another developer continue if needed. The <a href='/it-services/madhya-pradesh/'>Madhya Pradesh hub</a> covers the state, with sibling pages for <a href='/it-services/madhya-pradesh/indore/'>Indore</a> and <a href='/it-services/madhya-pradesh/ujjain/'>Ujjain</a>; nearby <a href='/morena/'>Morena</a> and <a href='/shivpuri/'>Shivpuri</a> are served the same way. Read <a href='/about/'>about the team</a> or use the <a href='/contact/'>contact page</a>.",
       ],
@@ -319,7 +319,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of free maintenance: bug fixes, small changes, security updates, backups and uptime checks. After that, support starts at ₹8,000 a month, or you can pay per change. New modules are always quoted before work starts.",
+        "Two months of free maintenance: bug fixes, small changes, security updates, backups and uptime checks. After that, support starts at ₹8,000 a month, or you can pay per change. New modules are always quoted before work starts.",
     },
     {
       question: "Do you build Android and iOS parent and student apps in Gwalior?",

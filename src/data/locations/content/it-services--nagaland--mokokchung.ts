@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["School and fee portals", "Billing and stock tools", "Mobile-first websites from ₹10,000", "Maintenance from ₹8,000/month", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "For IT solutions in Mokokchung, BtechWaleTech works as a freelance team, not a software development team: websites from ₹10,000 in 1 to 2 weeks, AI automation or Android and iOS apps from ₹40,000, and custom software such as school or billing portals from ₹60,000 in 6 to 12 weeks. We are three engineers working remotely; maintenance is free for five months.",
+    "For IT solutions in Mokokchung, BtechWaleTech works as a freelance team, not a software development team: websites from ₹10,000 in 1 to 2 weeks, AI automation or Android and iOS apps from ₹40,000, and custom software such as school or billing portals from ₹60,000 in 6 to 12 weeks. We are three engineers working remotely; maintenance is free for two months.",
   snapshot: [
     { label: "Place in Nagaland", value: "Headquarters of Mokokchung district and the main town of the Ao Naga people, often described as the state's cultural and intellectual centre" },
     { label: "Town layout", value: "Wards on a ridge, including Kumlong, Sangtemla, Alempang and Yimyu, with the market and offices along the main road" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "Practical AI helpers that answer routine questions, draft notices and summarise messages, set up with clear limits and a person approving what goes out.",
     data: "Simple dashboards for cooperatives, societies and businesses that replace hand-compiled monthly reports with figures updated as entries come in.",
     app: "Android and iOS apps for Mokokchung schools, clinics, churches and traders, from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Updates, backups, security checks and quick fixes, free for five months after launch and from ₹8,000 a month once that period ends.",
+    maintenance: "Updates, backups, security checks and quick fixes, free for two months after launch and from ₹8,000 a month once that period ends.",
   },
   whyUsIntro:
     "In Mokokchung, a website is often built once by an outside vendor and then left untouched for years, with a dead phone number and an expired certificate. We work differently: small scopes, published starting prices, every login in your name, and engineers who stay reachable on WhatsApp after launch.",
@@ -75,7 +75,7 @@ const content: CityContent = {
       paragraphs: [
         "A freelance software team can deliver the full set of IT solutions most Mokokchung organisations need: mobile-first websites, custom software such as fee or billing portals, installable apps, AI automation, WhatsApp-based customer handling, dashboards, cloud hosting, local SEO, online stores and ongoing maintenance. BtechWaleTech handles all of these remotely as a freelance group of three engineers.",
         "Mokokchung's needs are shaped by what the town is: an educational and administrative centre for the Ao region, with schools, colleges, churches, district offices, clinics and traders serving villages across the district. The common problem is not a lack of ideas but a lack of reliable people to build and look after the systems once they exist.",
-        "That is why we pair every build with maintenance. The five free months after launch cover updates, backups and fixes, and afterwards you can keep a monthly plan or call us as needed. See <a href=\"/services/\">all services</a> for details on each area.",
+        "That is why we pair every build with maintenance. The two free months after launch cover updates, backups and fixes, and afterwards you can keep a monthly plan or call us as needed. See <a href=\"/services/\">all services</a> for details on each area.",
       ],
       list: [
         "Websites and landing pages built for phones first",
@@ -207,7 +207,7 @@ const content: CityContent = {
       id: "maintenance-it-support-mokokchung",
       heading: "What does maintenance and IT support include after launch?",
       paragraphs: [
-        "Maintenance after launch includes security and software updates, daily backups, bug fixes, uptime and speed checks, and small content changes. Every BtechWaleTech project includes five months of this free once hosting goes live; afterwards, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
+        "Maintenance after launch includes security and software updates, daily backups, bug fixes, uptime and speed checks, and small content changes. Every BtechWaleTech project includes two months of this free once hosting goes live; afterwards, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
         "Support is remote. You message us on WhatsApp, any day of the week, and an engineer who knows the system replies. For software problems we check logs and deploy a fix; for how-to questions a short screen-share or recorded guide usually solves it.",
         "We cover the software, hosting, domains, email setup and integrations we built. Physical hardware, printers and local networks need a technician in Mokokchung. Keeping that line clear avoids confusion when something stops working.",
         "Many of our clients in smaller towns keep the monthly plan simply for peace of mind, because the site then never quietly expires.",
@@ -227,14 +227,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, 6 to 10 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",
         "School or billing portal: from ₹60,000, 6 to 12 weeks",
-        "Maintenance: from ₹8,000 a month after the free five months",
+        "Maintenance: from ₹8,000 a month after the free two months",
       ],
     },
     {
       id: "remote-project-steps-mokokchung",
       heading: "How does a Mokokchung project run with a remote team, step by step?",
       paragraphs: [
-        "A remote project runs in six steps: a discovery call, an itemised estimate, a first milestone payment, weekly builds on a test link, launch with training, and five months of free maintenance. Mokokchung clients never need to travel; everything happens over WhatsApp, phone and video.",
+        "A remote project runs in six steps: a discovery call, an itemised estimate, a first milestone payment, weekly builds on a test link, launch with training, and two months of free maintenance. Mokokchung clients never need to travel; everything happens over WhatsApp, phone and video.",
         "During discovery we ask how the work happens today and what goes wrong most often. The estimate follows within about two working days. Once approved, you see progress every week and can ask for changes early, when they are cheap. Training is done over video, with short recordings for new staff.",
         "The main thing that slows projects is gathering content: photographs, product details, fee structures, staff lists. We send a checklist at the start so that collection happens alongside development. If you want to compare how nearby towns approach this, see our pages for <a href=\"/it-services/nagaland/wokha/\">Wokha</a> and <a href=\"/it-services/nagaland/tuensang/\">Tuensang</a>, or <a href=\"/about/\">read about the team</a>.",
       ],
@@ -244,7 +244,7 @@ const content: CityContent = {
         "Milestone payment by UPI or bank transfer",
         "Weekly test links and feedback",
         "Launch, training and handover document",
-        "Five months of free maintenance",
+        "Two months of free maintenance",
       ],
     },
   ],

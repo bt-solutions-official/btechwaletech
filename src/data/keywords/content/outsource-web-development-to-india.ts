@@ -45,7 +45,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who all know your codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Marketplace or middleman fees" },
   ],
   answer: {
@@ -62,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Main controls", value: "Your accounts, staged payments, staging links, written acceptance" },
       { label: "Working hours", value: "IST (UTC+5:30), with a daily overlap window agreed per client" },
       { label: "Payment", value: "USD by Wise, bank wire or PayPal" },
-      { label: "After launch", value: `5 free months, then maintenance from ${P.careUsd}` },
+      { label: "After launch", value: `2 free months, then maintenance from ${P.careUsd}` },
     ],
   },
   services: {
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Startup MVP", note: `A first working version of a web product to test with real users, scoped hard so it ships in weeks, from ${P.softwareUsd}.`, href: "/freelance-mvp-developer/", size: "md" },
       { name: "Companion mobile app", note: `Flutter or React Native, published in your Apple and Google developer accounts, from ${P.appUsd}.`, href: "/it-services/android-ios-app/", size: "sm" },
       { name: "AI and workflow automation", note: `Email triage, document extraction and CRM updates wired into your existing tools, from ${P.aiUsd}.`, href: "/ai-automation-freelancer/", size: "sm" },
-      { name: "Ongoing care", note: `Updates, backups, monitoring and small changes after the five free months, from ${P.careUsd}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing care", note: `Updates, backups, monitoring and small changes after the two free months, from ${P.careUsd}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -92,7 +92,7 @@ const content: FreelanceContent = {
       ["Access to code", "Varies; often on request", "Often held until final payment", "Your repository from the first commit"],
       ["Scaling up", "Easy to add people", "Easy to add people", "Capped at three; not for twenty-developer programmes"],
       ["On-site visits", "Possible", "Rare and costly", "Not offered; all work is remote"],
-      ["After launch", "Retainer", "Support contract", `5 free months, then from ${P.careUsd}`],
+      ["After launch", "Retainer", "Support contract", `2 free months, then from ${P.careUsd}`],
     ],
     fine: "If your procurement rules demand a registered vendor with insurance certificates and on-site staff, a larger provider will clear that bar more easily than any freelance team.",
   },
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A good decision to outsource web development to India is one you could reverse tomorrow without drama. Plan the exit at the start and it rarely becomes necessary; skip it and every disagreement feels like a hostage situation.`,
         `At launch, and again whenever you change supplier, run through a written checklist with the developers on a call. Confirm that you can log in to every account yourself, that the repository contains the latest code, and that someone outside the project could deploy it by following the README. After that, remove developer access you no longer need and change shared passwords.`,
-        `BtechWaleTech includes five months of free maintenance after launch, so there is no pressure to decide on ongoing support straight away. After that, care continues from ${P.careUsd} only if you choose it.`,
+        `BtechWaleTech includes two months of free maintenance after launch, so there is no pressure to decide on ongoing support straight away. After that, care continues from ${P.careUsd} only if you choose it.`,
       ],
       list: [
         "Domain registrar login in your name, auto-renew on",
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
         ["Custom web app or portal", P.softwareUsd, P.software, "6–12 weeks"],
         ["Android & iOS app", P.appUsd, P.app, "6–10 weeks"],
         ["AI automation", P.aiUsd, P.ai, "2–4 weeks"],
-        ["Maintenance after 5 free months", P.careUsd, P.care, "Monthly"],
+        ["Maintenance after 2 free months", P.careUsd, P.care, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Set up your accounts", "You create the domain, hosting and repository in your organisation’s name, or we guide you through it on a short call, then invite us as collaborators."],
       ["Build on staging", "Work appears on a private staging link from the first week. You get a written update at the end of each Indian working day and one call a week in your overlap window."],
       ["Check, approve, launch", "We run the agreed checks, share the results, fix what fails and launch at a time that suits your market, with Search Console verified in your Google account."],
-      ["Hand over and support", "You receive the README, logins list and renewals list. Five months of free maintenance follow; after that, care continues only if you want it."],
+      ["Hand over and support", "You receive the README, logins list and renewals list. Two months of free maintenance follow; after that, care continues only if you want it."],
     ],
   },
   faqHeading: "Questions overseas buyers ask about outsourcing web development to India",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "How do I check the quality of an Indian developer’s work before hiring?", answer: "Open their live projects on your own phone using mobile data, run a page through PageSpeed Insights, and ask who built what. Then commission a small paid pilot such as a home page design or one feature on staging. How they communicate, handle feedback and meet the pilot deadline predicts the full project better than any sales call." },
     { question: "Who owns the website if I outsource it to India?", answer: "If you outsource web development to India, you should still own everything: the domain, the hosting or cloud account, the code repository, the content and the admin logins. BtechWaleTech sets projects up in the client’s name from the start and hands over a README, access list and renewals list at launch, so you can move to another developer at any time without asking anyone’s permission." },
     { question: "Can an Indian team build a site that ranks in the UK, US or Australia?", answer: "Yes. Location of the developer has no bearing on rankings. What matters is technical SEO built in from the start, fast hosting near your audience or behind a CDN, content written in your market’s English, and hreflang where you target several countries. Nobody can guarantee rankings; a good developer removes technical barriers so your content can compete." },
-    { question: "What happens after launch when I outsource to India?", answer: `BtechWaleTech includes five months of free maintenance after launch, covering small fixes, updates and minor text changes. After that you can continue with maintenance from ${P.careUsd}, manage the site yourself, or hand it to another developer using the documentation and access we provide. There is no obligation to stay with us.` },
+    { question: "What happens after launch when I outsource to India?", answer: `BtechWaleTech includes two months of free maintenance after launch, covering small fixes, updates and minor text changes. After that you can continue with maintenance from ${P.careUsd}, manage the site yourself, or hand it to another developer using the documentation and access we provide. There is no obligation to stay with us.` },
     { question: "Do Indian developers work on weekends and public holidays?", answer: "Working patterns vary by developer. BtechWaleTech replies on WhatsApp seven days a week in IST, which helps overseas clients whose week does not line up with India’s holidays. Planned build work, releases and calls are scheduled in the quote and weekly plan, so you know in advance when a launch or review will happen." },
     { question: "Can I visit the team or have them work on-site?", answer: "BtechWaleTech works entirely remotely and does not offer on-site visits or staff placed in your office. Everything happens over video calls, shared staging links, your repository and written updates. If your project genuinely needs developers physically present, a local provider or a larger vendor with onshore staff will be a better fit." },
   ],
@@ -427,7 +427,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to outsource your web project to India? Start with a brief",
-    note: `Send us a one-page brief by email or WhatsApp. You will get an itemised USD estimate in about two working days, with static sites from ${P.siteUsd}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send us a one-page brief by email or WhatsApp. You will get an itemised USD estimate in about two working days, with static sites from ${P.siteUsd}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

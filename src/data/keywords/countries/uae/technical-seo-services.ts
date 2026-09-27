@@ -326,7 +326,7 @@ const content: FreelanceContent = {
         ["Rebuild as an SEO-ready site", "Sites whose platform blocks fixes", `From ${P.seoSite}`, "299+ page site in 3–5 weeks"],
         ["Custom platform or portal rebuild", "Listing sites needing new architecture", `From ${P.software}`, "6–12 weeks, server-rendered by default"],
         ["Ecommerce rebuild", "Stores stuck on slow themes or plugins", `From ${P.shop}`, "4–8 weeks, schema and feeds included"],
-        ["Maintenance after launch", "Any site we build, after 5 free months", `From ${P.care}`, "Updates, backups, checks and fixes"],
+        ["Maintenance after launch", "Any site we build, after 2 free months", `From ${P.care}`, "Updates, backups, checks and fixes"],
       ],
       hideSm: [1],
     },

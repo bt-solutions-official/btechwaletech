@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Large project library", `SEO website from ${P.seoSite}`],
     ["Itemised plan", "In about 2 working days"],
     ["Photos and pages", "Stay yours, always"],
-    ["Free care after launch", "5 months on sites we build"],
+    ["Free care after launch", "2 months on sites we build"],
   ],
   stats: [
     { value: "3", label: "Developers covering build, image SEO and reporting" },
     { value: "100", label: "Pages in the starting static site plan" },
-    { value: "5", label: "Months of free maintenance on a new site" },
+    { value: "2", label: "Months of free maintenance on a new site" },
     { value: "0", label: "Platform or marketplace fees on direct enquiries" },
   ],
   answer: {
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Project archive with locality and cost pages", "Studios with 50+ finished homes", `${P.seoSite} (${P.seoSiteUsd})`, "3–5 weeks"],
         ["WhatsApp lead sorting and replies", "Studios with many enquiries to qualify", `${P.ai}`, "2–4 weeks"],
         ["Online store for décor or furniture", "Designers selling products too", `${P.shop}`, "4–8 weeks"],
-        ["Site care after free period", "Sites we built, after 5 free months", `${P.care}`, "Monthly"],
+        ["Site care after free period", "Sites we built, after 2 free months", `${P.care}`, "Monthly"],
       ],
     },
   ],

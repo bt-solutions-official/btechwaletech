@@ -56,7 +56,7 @@ const mandideep: CityContent = {
     ai: "WhatsApp assistants in Hindi and English that log RFQs, dispatch queries and shift questions, and hand anything commercial to a person.",
     data: "Dashboards that pull production, rejection, dispatch and billing figures from Excel or Tally into one screen for the owner.",
     app: "Android and iOS apps for contractor attendance, driver trip updates or a canteen token system, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, security patches and edits when audits or rates change.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, security patches and edits when audits or rates change.",
   },
   whyUsIntro:
     "Mandideep buyers deal with plant purchase departments every week, so they want quotes in writing and dates that hold. We send an itemised quote, bill nothing before you approve it, answer WhatsApp seven days a week and register your domain, hosting, code and developer accounts in your own name from the start.",
@@ -188,8 +188,8 @@ const mandideep: CityContent = {
       heading: "Who owns the website, app and code, and what maintenance covers",
       paragraphs: [
         "You do. The domain is registered on your email, hosting is billed to your business, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account are in your name. At handover you receive a login sheet listing every account, so no individual, including us, can hold a system hostage.",
-        "Maintenance is free for five months after launch. In that time we apply security and version updates, take backups, change prices or machine lists when you ask, and check that RFQ forms, payments and WhatsApp links still work. For web tools, we also watch storage and performance as records pile up.",
-        "After five months, you choose. Continue with us from ₹8,000 a month, give the work to your own IT person, or hand the code to another developer. There is no lock-in clause and no exit fee.",
+        "Maintenance is free for two months after launch. In that time we apply security and version updates, take backups, change prices or machine lists when you ask, and check that RFQ forms, payments and WhatsApp links still work. For web tools, we also watch storage and performance as records pile up.",
+        "After two months, you choose. Continue with us from ₹8,000 a month, give the work to your own IT person, or hand the code to another developer. There is no lock-in clause and no exit fee.",
         "One practical note for apps: Google and Apple raise their minimum requirements every year, and an app that is never updated can be hidden from new users. We track those deadlines and rebuild ahead of them, so a contractor's attendance app does not stop installing on new phones in the middle of a month.",
       ],
     },
@@ -282,7 +282,7 @@ const mandideep: CityContent = {
     {
       question: "What happens after my Mandideep website or app is launched?",
       answer:
-        "For five months after launch, maintenance for your Mandideep site or app is free: backups, security updates, content edits and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move elsewhere. The code and accounts are already yours, so leaving needs no permission.",
+        "For two months after launch, maintenance for your Mandideep site or app is free: backups, security updates, content edits and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move elsewhere. The code and accounts are already yours, so leaving needs no permission.",
     },
     {
       question: "Do you work in Obaidullaganj, Bhopal and Raisen too?",

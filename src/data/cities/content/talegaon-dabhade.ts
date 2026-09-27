@@ -55,7 +55,7 @@ const talegaonDabhade: CityContent = {
     ai: "WhatsApp assistants in Marathi, Hindi and English for site-visit bookings, admissions, appointments and supplier queries.",
     data: "Dashboards of production, rejections, dispatches, site-visit leads and fee collection for Talegaon firms.",
     app: "Android and iOS apps for MIDC vendors' shop-floor teams, housing society residents or school parents, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "We maintain the site free for five months after launch; ongoing care for Talegaon clients then begins at ₹8,000 a month.",
+    maintenance: "We maintain the site free for two months after launch; ongoing care for Talegaon clients then begins at ₹8,000 a month.",
   },
   whyUsIntro:
     "Talegaon firms supply plants that audit their vendors closely, so they know the value of clear paperwork. We work the same way: public starting prices, quotes broken down by item, WhatsApp answered every day, and every domain, hosting plan, code repository and app store account held in your name. Where a feature will not pay back, you hear that before you spend.",
@@ -169,7 +169,7 @@ const talegaonDabhade: CityContent = {
       heading: "Ownership and maintenance for Talegaon websites and apps",
       paragraphs: [
         "Everything we deliver is owned by you. Domains are registered to your email, hosting is billed to you, full source code is handed over, and your company is set as owner on the Google Business Profile and on the Google Play and Apple developer accounts. A written credentials sheet at handover means no one, including us, can hold your systems hostage.",
-        "Maintenance is included free for five months after launch: content edits, backups, security updates and checks on forms, payments and integrations. After that, continue with us from ₹8,000 a month, run it in-house, or pass the code to another developer without needing our consent.",
+        "Maintenance is included free for two months after launch: content edits, backups, security updates and checks on forms, payments and integrations. After that, continue with us from ₹8,000 a month, run it in-house, or pass the code to another developer without needing our consent.",
         "Apps need a yearly rebuild because Google and Apple keep raising their minimum requirements, and we schedule updates ahead of those deadlines. For websites, you get reminders well before domain and hosting renewals.",
       ],
     },
@@ -266,7 +266,7 @@ const talegaonDabhade: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance after launch are free: edits, backups, security updates and checks on forms, payments and integrations. Afterwards, continue with us from ₹8,000 a month or move elsewhere. The code and accounts already belong to you, so switching needs no permission.",
+        "Two months of maintenance after launch are free: edits, backups, security updates and checks on forms, payments and integrations. Afterwards, continue with us from ₹8,000 a month or move elsewhere. The code and accounts already belong to you, so switching needs no permission.",
     },
     {
       question: "Do you work in Vadgaon Maval, Chakan and Pune too?",

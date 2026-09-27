@@ -36,7 +36,7 @@ const content: CityContent = {
     eyebrow: "Jammu · Jammu and Kashmir · Winter capital",
     h1: "Freelance software developers in Jammu for traders, transporters, Bari Brahmana factories and Katra hotels",
     lede:
-      "If you are looking for a software development team in Jammu, you probably need more than a website: billing that talks to stock, a dispatch log for trucks heading up the highway, a production register for a Gangyal unit, or an app your delivery staff actually use. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, Android and iOS apps, AI automation, dashboards, online stores and SEO for Jammu businesses, with starting prices published and five months of free maintenance after launch.",
+      "If you are looking for a software development team in Jammu, you probably need more than a website: billing that talks to stock, a dispatch log for trucks heading up the highway, a production register for a Gangyal unit, or an app your delivery staff actually use. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, Android and iOS apps, AI automation, dashboards, online stores and SEO for Jammu businesses, with starting prices published and two months of free maintenance after launch.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Hindi, Dogri and English interfaces", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that read invoices and orders, answer dealer and customer questions on WhatsApp in Hindi or English, and write daily summaries for owners.",
     data: "Dashboards for sales by area, stock ageing, truck trips, collections and production output, built on Tally exports or the software we deliver.",
     app: "Android and iOS apps from ₹40,000 for Jammu salesmen, delivery riders, drivers and school parents, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then optional monthly support from ₹8,000 covering fixes, backups, updates and monitoring.",
+    maintenance: "Two months of free maintenance after launch, then optional monthly support from ₹8,000 covering fixes, backups, updates and monitoring.",
   },
   whyUsIntro:
     "Jammu owners are used to vendors who disappear after installation or push a boxed product that almost fits. BtechWaleTech is three engineers who build around your process, answer on WhatsApp every day, and register every account in your business's name.",
@@ -193,7 +193,7 @@ const content: CityContent = {
       heading: "How does a remote freelance team deliver a Jammu project?",
       paragraphs: [
         "A remote freelance team delivers a Jammu project through a written scope, weekly staging links you test on your own phone, short video or phone calls, and a WhatsApp group for quick questions. You see progress every week instead of waiting months for one big reveal, and you speak to the engineer doing the work.",
-        "The steps are consistent. We begin with a discovery call and collect sample invoices, registers and reports. You receive an itemised quote and a timeline. Screens and data structures are agreed before coding. During the build you test features as they arrive and report changes. We then train your staff over video, launch, and support the system for five months at no charge.",
+        "The steps are consistent. We begin with a discovery call and collect sample invoices, registers and reports. You receive an itemised quote and a timeline. Screens and data structures are agreed before coding. During the build you test features as they arrive and report changes. We then train your staff over video, launch, and support the system for two months at no charge.",
         "The common cause of delay is not engineering but content: product lists, price sheets, photos and approvals. We agree a checklist on the first day and nominate one person on your side to sign off. Projects with a clear decision-maker finish noticeably faster.",
       ],
     },
@@ -260,7 +260,7 @@ const content: CityContent = {
     },
     {
       question: "What does the free maintenance period include?",
-      answer: "The first five months after launch are included free. That covers bug fixes, small content changes, security and dependency updates, backups, and uptime and speed checks. Afterwards you can take a monthly plan from ₹8,000 or contact us only when you need changes. Replies come on WhatsApp seven days a week.",
+      answer: "The first two months after launch are included free. That covers bug fixes, small content changes, security and dependency updates, backups, and uptime and speed checks. Afterwards you can take a monthly plan from ₹8,000 or contact us only when you need changes. Replies come on WhatsApp seven days a week.",
     },
     {
       question: "How long does SEO take to show results for a Jammu business?",

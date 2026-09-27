@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Apps with in-app checkout from", `${P.app}`],
     ["Merchant account", "Opened by you, in your company's name"],
     ["Payment to us", "USD · Wise or bank wire"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "4", label: "Integration methods we compare before building" },
     { value: "3", label: "Developers who build and test the checkout" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Card numbers stored on your servers with hosted fields" },
   ],
   answer: {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Order-state design", "Together we agree order states, refund rules, COD rules and who receives dispute alerts, so the integration applies your policies consistently."],
       ["Sandbox build", "Checkout, wallets, 3-D Secure, webhooks, refunds and any recurring billing are built against the sandbox and shown on staging."],
       ["Test matrix", "Every scenario in the test matrix is run on real devices and documented with screenshots; finance reviews the reconciliation report on test data."],
-      ["Go live and aftercare", "Production keys are switched on, a small live payment and refund are completed, and five months of free maintenance begin."],
+      ["Go live and aftercare", "Production keys are switched on, a small live payment and refund are completed, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Payment gateway integration in the UAE: common questions",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "How do I pay BtechWaleTech from the UAE?", answer: "Our quotes and invoices are in USD and issued from India. UAE clients usually pay by Wise or bank wire. Nothing is billed until you approve the itemised quote in writing, and payment stages are listed in that quote. How our invoice is treated for your own VAT is a question for your accountant." },
     { question: "Can a payment gateway connect to our accounting or e-invoicing?", answer: "Yes. The same paid, refunded and disputed events that update your orders can create records in your accounting system and, for business customers, pass invoice data to your e-invoicing provider. A daily reconciliation report matches orders, gateway transactions and bank payouts so finance can close the month quickly." },
     { question: "Can my Arabic and English checkout both work?", answer: "Yes. Checkout pages, error messages, confirmation emails and receipts can be shown in both languages, with the Arabic version laid out right to left. Your translator supplies the Arabic text; we build and test both versions, including the provider's hosted page settings where they allow a language choice." },
-    { question: "What support do we get after the checkout goes live?", answer: `Five months of free maintenance cover fixes, plugin or SDK updates, and help when the provider changes its API or security requirements. After that, maintenance starts from ${P.care}. Monitoring alerts you if payments start failing unusually often, so problems are caught quickly.` },
+    { question: "What support do we get after the checkout goes live?", answer: `Two months of free maintenance cover fixes, plugin or SDK updates, and help when the provider changes its API or security requirements. After that, maintenance starts from ${P.care}. Monitoring alerts you if payments start failing unusually often, so problems are caught quickly.` },
     { question: "Can we switch payment providers later?", answer: "Yes, if your payment gateway integration in the UAE keeps provider-specific code separate from your order logic, which is how we build it. Switching then means a new connector, new tests and moving saved-card customers according to the providers' processes. Contract terms and exit notice are between you and your provider, so check them before signing." },
   ],
   related: {

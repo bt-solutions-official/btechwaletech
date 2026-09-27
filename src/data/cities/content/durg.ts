@@ -31,11 +31,11 @@ const durg: CityContent = {
     eyebrow: "Durg · Chhattisgarh",
     h1: "Websites and automation for Durg firms, from Indira Market to the Borai growth centre",
     lede:
-      "Three remote engineers building fast websites, supplier catalogues, college and clinic pages, and WhatsApp workflows for businesses in Durg and its twin city Bhilai. You see our starting prices before you call, the domain and source code stay in your name, and maintenance is free for the first five months after launch.",
+      "Three remote engineers building fast websites, supplier catalogues, college and clinic pages, and WhatsApp workflows for businesses in Durg and its twin city Bhilai. You see our starting prices before you call, the domain and source code stay in your name, and maintenance is free for the first two months after launch.",
     pills: ["Websites from ₹10,000", "Hindi and English content", "Steel and engineering suppliers", "Colleges and coaching", "WhatsApp automation"],
   },
   quickAnswer:
-    "A static website for a Durg business starts from ₹10,000 and takes one to two weeks with us. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no office in Durg, and we maintain every site free for five months after launch.",
+    "A static website for a Durg business starts from ₹10,000 and takes one to two weeks with us. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no office in Durg, and we maintain every site free for two months after launch.",
   snapshot: [
     { label: "Twin city", value: "Forms the Durg–Bhilai urban agglomeration, Chhattisgarh's second largest after Raipur" },
     { label: "Industry", value: "Bhilai Steel Plant next door; Industrial Growth Centre Borai, Durg industrial estate and Bhilai's light and heavy industrial areas" },
@@ -52,10 +52,10 @@ const durg: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that deal with repeat questions on rates, stock, admissions and appointments, and forward the rest to your team.",
     data: "Dashboards for dispatch, production, dealer sales or student enquiries that an owner can check on a phone from the shop floor.",
     app: "Android and iOS apps for site attendance, order taking and student portals, one Flutter or React Native build released on both app stores.",
-    maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and starting at ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and speed checks, free for two months after launch and starting at ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Durg and Bhilai business owners are often quoted by Raipur agencies that keep their rates secret, or by part-time developers who disappear after the first payment. We put our starting prices on the website, answer on WhatsApp seven days a week, and keep your site maintained without charge for five months after launch.",
+    "Durg and Bhilai business owners are often quoted by Raipur agencies that keep their rates secret, or by part-time developers who disappear after the first payment. We put our starting prices on the website, answer on WhatsApp seven days a week, and keep your site maintained without charge for two months after launch.",
   pricingIntro:
     "The amounts below are where each type of project starts. Your final price depends on page count, products, languages and features, and it reaches you as an itemised written quote before we bill anything.",
   sections: [
@@ -168,7 +168,7 @@ const durg: CityContent = {
       paragraphs: [
         "Losing control of a website is more common than most owners think. The person who built it registered the domain under his own login, then changed his number. When the renewal date passed, the site and the business email stopped working together. Recovering a domain like that can take weeks, if it can be done at all.",
         "With us, the domain and hosting are in your name from the beginning. At launch you receive all passwords, the full source code and a short note on how the site is set up. If you later want another developer to take over, you can hand everything across without paying any exit fee.",
-        "For five months after launch we maintain the site free: content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that you can continue maintenance from ₹8,000 a month or call us only when you need a change. Start by sending a message on our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "For two months after launch we maintain the site free: content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that you can continue maintenance from ₹8,000 a month or call us only when you need a change. Start by sending a message on our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
     {
@@ -272,9 +272,9 @@ const durg: CityContent = {
         "You do. The domain and hosting are registered in your name, and at launch you receive every password and the complete source code. You can switch developers whenever you like without an exit fee.",
     },
     {
-      question: "What does the free five-month maintenance cover?",
+      question: "What does the free two-month maintenance cover?",
       answer:
-        "Content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks, all at no charge for five months after launch. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "Content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks, all at no charge for two months after launch. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
   ],
   nearby: ["bhilai-nagar", "raipur", "rajnandgaon", "dhamtari", "tilda-newra", "dalli-rajhara", "bhatapara", "mahasamund"],

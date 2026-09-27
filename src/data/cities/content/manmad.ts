@@ -56,7 +56,7 @@ const manmad: CityContent = {
     ai: "WhatsApp assistants in Marathi and Hindi that answer rate, availability and booking questions and forward the real decisions to you.",
     data: "Dashboards of daily arrivals bought, rates paid, loads dispatched, trip earnings and payments pending.",
     app: "Android and iOS apps for drivers to log trips or for regular buyers to check stock and place orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Manmad runs on deals done quickly and settled honestly, whether in the onion yard or at a transport office. We work the same way: starting prices in public, an itemised quote in writing, WhatsApp replies every day of the week, and your domain, hosting, code and app accounts registered in your own name from day one.",
@@ -181,7 +181,7 @@ const manmad: CityContent = {
       heading: "Ownership and maintenance for Manmad websites and apps",
       paragraphs: [
         "Too many small businesses have lost a website because the person who built it kept the domain in his own name. We avoid that completely. The domain, hosting, source code, Google Business Profile and app store developer accounts are all registered to you, and every login is handed over in writing at launch.",
-        "For five months after launch, maintenance is free: updates to content and rates, backups, security patches, software updates and regular checks on forms, payments and WhatsApp links. After that, you can continue with us from ₹8,000 a month, or take the code to another developer without any exit fee.",
+        "For two months after launch, maintenance is free: updates to content and rates, backups, security patches, software updates and regular checks on forms, payments and WhatsApp links. After that, you can continue with us from ₹8,000 a month, or take the code to another developer without any exit fee.",
         "Apps need yearly updates because Google and Apple keep changing their store requirements. We track those changes and release updates in time so your app stays listed.",
       ],
     },
@@ -278,7 +278,7 @@ const manmad: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue with us. You can also move the code to another developer at any time without an exit charge.",
+        "The first two months are free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue with us. You can also move the code to another developer at any time without an exit charge.",
     },
     {
       question: "Do you work in Nandgaon, Yeola and Malegaon too?",

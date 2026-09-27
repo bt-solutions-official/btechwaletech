@@ -85,7 +85,7 @@ agents, WhatsApp automation, data analysis/dashboards, cloud hosting setup, main
 STARTING PRICES (use P.*): static website up to 100 pages from P.site (1–2 weeks); SEO website of 299+ pages from P.seoSite
 (3–5 weeks); Android & iOS app from P.app (6–10 weeks); AI automation from P.ai (2–4 weeks); ecommerce from P.shop
 (4–8 weeks); custom web app/software from P.software (6–12 weeks); monthly SEO from P.seo; maintenance from P.care after
-5 months of free maintenance post-launch. On India pages you may add USD equivalents (P.siteUsd etc.).
+2 months of free maintenance post-launch. On India pages you may add USD equivalents (P.siteUsd etc.).
 PRICE RULE: every price is a starting price: "from", "starts at", "onwards". Never "fixed price", "flat", "package price".
 Other freelancers'/agencies' rates: say only that quotes vary widely and explain what drives the difference; never state
 competitor price figures. No money amounts other than P.* (the checker rejects them), except legal thresholds/fines written
@@ -135,7 +135,7 @@ with "million/billion/lakh/crore" and the US$25 Google Play / US$99 Apple develo
   variants, and (country pages) the country and 3–5 of its big cities, (India pages) Hinglish and city variants.
 - hero: eyebrow (short), h1 containing the exact keyword naturally, lede 60–90 words with the keyword in the first sentence,
   6–7 pills, origin line (e.g. "Three freelance developers in India · replies on WhatsApp, 7 days a week").
-- facts: 6 [label, value] pairs. stats: 4 items (only true numbers: 3 developers, 2 working days to quote, 5 months free
+- facts: 6 [label, value] pairs. stats: 4 items (only true numbers: 3 developers, 2 working days to quote, 2 months free
   maintenance, 7 days a week WhatsApp, 0 platform fees, 100 pages in the static plan, etc.).
 - answer.heading: the searcher's core question, phrased as a question. answer.text: 45–65 words, self-contained, direct
   answer first, includes starting price(s) — this is the AI Overview / featured-snippet block. answer.more: 1–2 sentences

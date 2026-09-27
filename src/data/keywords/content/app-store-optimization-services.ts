@@ -391,7 +391,7 @@ const content: FreelanceContent = {
         ["Monthly ASO, one store", "Metadata, review replies, one test, monthly report", `${P.seo} per month`],
         ["Monthly ASO, both stores", "Play and App Store listings managed together", "Quoted on scope"],
         ["Extra language", "Keyword research, localised text and screenshots", "Quoted per language"],
-        ["App quality fixes", "Crash, ANR and review prompt changes in code", `Included in app care from ${P.care} after 5 free months`],
+        ["App quality fixes", "Crash, ANR and review prompt changes in code", `Included in app care from ${P.care} after 2 free months`],
         ["New Android and iOS app", "Flutter or React Native, published on both stores", P.app],
         ["Landing page for the app", "Web page for referral and search traffic", P.site],
       ],

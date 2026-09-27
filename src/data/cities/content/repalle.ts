@@ -56,7 +56,7 @@ const repalle: CityContent = {
     ai: "Telugu WhatsApp assistants that answer stock, rate and timing questions all day and pass anything unusual straight to you.",
     data: "Season dashboards showing cost per kilo by pond, mill yields, money owed by commission agents and last year's numbers beside this year's.",
     app: "Android and iOS apps from ₹40,000, such as a pond supervisor logging daily feed or a retailer re-ordering aqua inputs, published on Google Play and the App Store.",
-    maintenance: "Five months of maintenance at no cost after launch, then from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "Two months of maintenance at no cost after launch, then from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "Delta owners have usually been promised a website before and left with a half-finished one, so we work in a way that is easy to check. Prices are published, quotes arrive itemised in writing, WhatsApp is answered all seven days, and your domain, hosting, source code and store accounts are registered in your name from day one. When a feature will not earn its cost, we tell you before you pay for it.",
@@ -167,7 +167,7 @@ const repalle: CityContent = {
       heading: "Who owns your Repalle website, and what happens after launch",
       paragraphs: [
         "Everything is yours, and that is arranged before the first line of code. The domain is booked on your email and phone number, the hosting account stands in your name, the full source code is handed to you, and the Google Business Profile, Play Console and Apple developer accounts list you as owner. At handover you get a written sheet of every login, so no developer — us included — can hold your site to ransom.",
-        "The first five months after launch are covered at no extra cost. In that period we change prices and photographs, take backups, apply security and version updates, and check that the enquiry form, UPI payment and WhatsApp button still behave. When the five months end you choose: stay with us from ₹8,000 a month, hand it to someone local, or manage it yourself with the logins you already hold.",
+        "The first two months after launch are covered at no extra cost. In that period we change prices and photographs, take backups, apply security and version updates, and check that the enquiry form, UPI payment and WhatsApp button still behave. When the two months end you choose: stay with us from ₹8,000 a month, hand it to someone local, or manage it yourself with the logins you already hold.",
         "Apps need a yearly look even when nothing is broken, since Google and Apple keep raising the minimum versions they will accept. We watch those deadlines and rebuild early so your listing is never pulled mid-season. For a farm or mill tool, we also recommend one export of your data each month to a file you keep, which is the cheapest insurance there is.",
       ],
     },
@@ -254,7 +254,7 @@ const repalle: CityContent = {
     {
       question: "What maintenance do you provide after a Repalle site launches?",
       answer:
-        "For five months after launch there is no charge: we edit prices and photographs, take backups, apply security patches and test your forms, UPI checkout and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, or you can hand the work to any other developer, since every account and the source code already sit in your name.",
+        "For two months after launch there is no charge: we edit prices and photographs, take backups, apply security patches and test your forms, UPI checkout and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, or you can hand the work to any other developer, since every account and the source code already sit in your name.",
     },
     {
       question: "Do you work in Nagaram, Cherukupalli and Nizampatnam as well?",

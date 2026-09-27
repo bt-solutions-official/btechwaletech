@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Checkout", "mada, Apple Pay, STC Pay, cards, COD"],
     ["Time difference", "India is 2.5 hours ahead of Saudi time"],
     ["Quote", "Itemised in USD, about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support your store" },
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Payments", value: "mada, Apple Pay, STC Pay, Visa/Mastercard, cash on delivery" },
       { label: "Shipping", value: "SMSA, Aramex or SPL with national address capture" },
       { label: "Legal pages", value: "CR name and number, VAT number, returns, privacy" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care}` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Payments and couriers", "Set up for you", "You configure apps yourself", "Set up and tested with your provider and courier accounts"],
       ["Ownership", "Check the contract", "Your platform account", "Every account and repository in your name"],
       ["Working hours", "Saudi business hours", "Whenever you have time", "Near full Saudi working day, WhatsApp 7 days"],
-      ["After launch", "Retainer", "You maintain it", `5 months free, then from ${P.care}`],
+      ["After launch", "Retainer", "You maintain it", `2 months free, then from ${P.care}`],
     ],
     fine: "If you need someone at your warehouse, a native Arabic copywriter on staff or a team of twenty developers, a local agency is the better fit.",
   },
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
       heading: "After launch: seasonal peaks, maintenance and growth",
       paragraphs: [
         `Saudi retail runs on a calendar: Ramadan and the two Eids, Founding Day in February, National Day in September, back-to-school and the November sale season. Each peak strains stock, couriers and the checkout, so we schedule theme changes and app updates away from those weeks.`,
-        `Maintenance is free for five months after launch: fixes, small changes, app and plugin updates, and help when a courier or payment setting changes. After that it continues from ${P.care} if you want it. Many stores then add an app from ${P.app}, WhatsApp automation or a <a href='/saudi-arabia/ai-chatbot-development/'>bilingual AI chatbot</a> for pre-sale questions.`,
+        `Maintenance is free for two months after launch: fixes, small changes, app and plugin updates, and help when a courier or payment setting changes. After that it continues from ${P.care} if you want it. Many stores then add an app from ${P.app}, WhatsApp automation or a <a href='/saudi-arabia/ai-chatbot-development/'>bilingual AI chatbot</a> for pre-sale questions.`,
       ],
     },
   ],
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
         ["Shopping app for the same store", `From ${P.app}`, "6–10 weeks", "Repeat buyers, loyalty, push offers"],
         ["WhatsApp order automation", `From ${P.ai}`, "2–4 weeks", "COD confirmation, shipping updates"],
         ["Monthly SEO for the store", `From ${P.seo}`, "Ongoing", "Category and product search growth"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Monthly", "Updates, fixes, seasonal changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Monthly", "Updates, fixes, seasonal changes"],
       ],
     },
     {
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You open the platform, domain, payment provider and courier accounts, or we guide you on a call. We join as invited staff so you keep control."],
       ["Design and catalogue on staging", "Home, category and product pages appear on a staging store in Arabic and English. Catalogue import and clean-up run in parallel with your approvals."],
       ["Real-money testing", "Small live payments through mada, Apple Pay and cards, courier labels, returns and emails are tested and refunded before any customer sees the store."],
-      ["Launch and five free months", "The domain goes live, Search Console and analytics start recording, and fixes and small changes are free for five months after launch."],
+      ["Launch and two free months", "The domain goes live, Search Console and analytics start recording, and fixes and small changes are free for two months after launch."],
     ],
   },
   faqHeading: "Ecommerce website development in Saudi Arabia: common questions",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
     { question: "Will my online store rank on Google in Saudi Arabia?", answer: "A well-built store gives you the foundations: fast pages, clean category structure, product schema, hreflang for Arabic and English, and Search Console from day one. Rankings then depend on content, links and competition. Nobody can guarantee positions, especially against large marketplaces for broad product terms. Monthly SEO starts from " + P.seo + "." },
     { question: "Do you connect the store to ZATCA e-invoicing?", answer: "We connect the store to the e-invoicing solution you use so each paid order can produce a compliant invoice. We do not act as a ZATCA-approved provider ourselves. Your accountant confirms which phase applies to your business, and we handle the technical link between orders and invoices." },
     { question: "Can you build a multi-vendor marketplace for Saudi sellers?", answer: `Yes. Marketplaces need seller onboarding, commissions, payouts and separate dashboards, so they are priced as custom software from ${P.software}. Some start on a hosted platform with a marketplace app to test demand, then move to a custom build once seller numbers justify it.` },
-    { question: "What happens after the store launches?", answer: `You get five months of free maintenance covering fixes, small changes, updates and help when payment or courier settings change. After that, maintenance continues from ${P.care} per month if you want it. You can also take the store in-house or give it to another developer, since every account is yours.` },
+    { question: "What happens after the store launches?", answer: `You get two months of free maintenance covering fixes, small changes, updates and help when payment or courier settings change. After that, maintenance continues from ${P.care} per month if you want it. You can also take the store in-house or give it to another developer, since every account is yours.` },
     { question: "Can you also build a mobile app for my store?", answer: `Yes. A shopping app for Android and iPhone starts from ${P.app} and takes about six to ten weeks. It uses the same products and orders as the website, and is published under your own Google Play and Apple developer accounts. Most stores add an app once repeat buyers make up a good share of orders.` },
     { question: "Do you meet clients in Riyadh or Jeddah?", answer: "No. We work fully remotely from India and do not visit offices or warehouses. Calls run on Google Meet or Zoom during Saudi working hours, and WhatsApp messages get replies seven days a week. If in-person meetings are essential to your team, a local agency will suit you better." },
     { question: "What should I prepare before asking for a quote?", answer: "Send your product count and a sample of your product data, the platform you use today if any, the payment methods and couriers you want, and whether you need Arabic and English. Links to two or three stores you like help too. With that we can recommend a route and send an itemised quote in about two working days." },
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an online store for Saudi shoppers?",
-    note: `Send your product list and the payment methods you need on WhatsApp. You will get a platform recommendation and an itemised USD quote in about two working days, with stores starting from ${P.shop}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send your product list and the payment methods you need on WhatsApp. You will get a platform recommendation and an itemised USD quote in about two working days, with stores starting from ${P.shop}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

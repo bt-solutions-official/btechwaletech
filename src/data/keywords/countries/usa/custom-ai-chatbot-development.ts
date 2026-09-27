@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who build, test and support your bot" },
     { value: "2", label: "Working days to a written chatbot scope and USD quote" },
-    { value: "5", label: "Months of free fixes and content updates after launch" },
+    { value: "2", label: "Months of free fixes and content updates after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Escalation", value: "Complaints, pricing exceptions and low-confidence answers go to a person" },
       { label: "Disclosure", value: "Clear “you are chatting with an AI assistant” label at the start and on request" },
       { label: "Starting price", value: `From ${P.ai}; bots inside a customer portal from ${P.software}` },
-      { label: "After launch", value: `5 months of free maintenance, then care plans from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care plans from ${P.care} a month` },
     ],
   },
   services: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom AI chatbot development costs with BtechWaleTech",
-    note: `A website or support chatbot trained on your content, with lead capture into one CRM, a booking hand-off and escalation to your inbox, starts from ${P.ai} and usually takes 2 to 4 weeks. Bots that live inside a logged-in portal and read a customer's own records start from ${P.software}. If your site itself needs rebuilding so the bot has good content to learn from, a new site starts from ${P.site}. Model usage and hosting are billed by the providers to your own accounts, and we estimate the monthly figure from your chat volume before you approve anything. Care after the five free months starts from ${P.care} a month.`,
+    note: `A website or support chatbot trained on your content, with lead capture into one CRM, a booking hand-off and escalation to your inbox, starts from ${P.ai} and usually takes 2 to 4 weeks. Bots that live inside a logged-in portal and read a customer's own records start from ${P.software}. If your site itself needs rebuilding so the bot has good content to learn from, a new site starts from ${P.site}. Model usage and hosting are billed by the providers to your own accounts, and we estimate the monthly figure from your chat volume before you approve anything. Care after the two free months starts from ${P.care} a month.`,
   },
   guideLabel: "Custom AI chatbot development guide for US businesses",
   guide: [
@@ -348,7 +348,7 @@ const content: FreelanceContent = {
         ["Booking bot", "Calendar slot lookup, service rules, reminders via your tools", `From ${P.ai}`, "3–4 weeks"],
         ["Portal assistant", "Logged-in account lookups, roles, audit log", `From ${P.software}`, "6–10 weeks"],
         ["New site plus chatbot", "Rebuilt pages the bot learns from, then the bot", `Site from ${P.site}, bot from ${P.ai}`, "4–6 weeks"],
-        ["Care after launch", "Content refresh, test re-runs, model updates", `From ${P.care}/month after 5 free months`, "Ongoing"],
+        ["Care after launch", "Content refresh, test re-runs, model updates", `From ${P.care}/month after 2 free months`, "Ongoing"],
       ],
     },
   ],
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Quote in USD", `An itemized quote in about two working days, starting from ${P.ai}, with an estimate of monthly model and hosting costs. Nothing is billed before written approval.`],
       ["Index and connect", "Your approved content is cleaned and indexed; CRM, booking and escalation are connected in a staging copy of your site."],
       ["Score, fix, soft launch", "The bot is scored against the full test set, gaps are fixed at the source, then it runs for part of your traffic while we read every transcript."],
-      ["Hand over and refine", "You get the runbook, test set and a walkthrough, plus five months of free maintenance with monthly transcript reviews and content updates."],
+      ["Hand over and refine", "You get the runbook, test set and a walkthrough, plus two months of free maintenance with monthly transcript reviews and content updates."],
     ],
   },
   faqHeading: "Custom AI chatbot development FAQs for US businesses",

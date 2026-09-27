@@ -7,7 +7,7 @@ const pollachi: CityContent = {
   meta: {
     title: "Pollachi Website Design & SEO | Sites from ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Pollachi coir exporters, coconut traders, colleges and clinics. Sites from ₹10,000, 5 months free maintenance.",
+      "Websites, local SEO and WhatsApp automation for Pollachi coir exporters, coconut traders, colleges and clinics. Sites from ₹10,000, 2 months free maintenance.",
     keywords: [
       "website development team in Pollachi",
       "web design Pollachi",
@@ -31,11 +31,11 @@ const pollachi: CityContent = {
     eyebrow: "Pollachi · Coimbatore district, Tamil Nadu",
     h1: "Websites, SEO and automation for Pollachi's coir, coconut and farm businesses",
     lede:
-      "We are three remote engineers who build fast websites, export catalogues, online stores and WhatsApp workflows for Pollachi coir units, coconut and jaggery traders, farm-stay owners, colleges and clinics. Starting prices are published, you speak to the developers directly, and five months of maintenance after launch are included.",
-    pills: ["Websites from ₹10,000", "Coir export catalogues", "Tamil and English pages", "WhatsApp order flows", "Five months free upkeep"],
+      "We are three remote engineers who build fast websites, export catalogues, online stores and WhatsApp workflows for Pollachi coir units, coconut and jaggery traders, farm-stay owners, colleges and clinics. Starting prices are published, you speak to the developers directly, and two months of maintenance after launch are included.",
+    pills: ["Websites from ₹10,000", "Coir export catalogues", "Tamil and English pages", "WhatsApp order flows", "Two months free upkeep"],
   },
   quickAnswer:
-    "For a Pollachi business, our static website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start from ₹50,000. We are a remote three-person team with no Pollachi office, so you pay for engineering, not rent, and every launch includes five months of free maintenance.",
+    "For a Pollachi business, our static website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start from ₹50,000. We are a remote three-person team with no Pollachi office, so you pay for engineering, not rent, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "District and taluk", value: "Pollachi taluk, Coimbatore district; special grade municipality since 1949" },
     { label: "Farm economy", value: "Coconut groves, jaggery, vegetables and one of South India's best-known cattle markets" },
@@ -52,7 +52,7 @@ const pollachi: CityContent = {
     ai: "WhatsApp assistants that reply to overseas coco peat enquiries overnight, log each lead and pass serious buyers to the owner in the morning.",
     data: "Price, arrival and sales reports that let a trader compare coconut, copra and jaggery movement week by week on one phone screen.",
     app: "Android and iOS apps for farm-stay bookings, college admissions and repeat customer orders, published on both app stores from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and speed checks at no charge for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Updates, backups, security fixes and speed checks at no charge for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Most Pollachi firms either hire someone in Coimbatore or ask a relative to set up a page. Both can work, but neither usually comes with published prices, handover of logins or anyone answering on a Sunday. We put our starting prices on the site, hand you every password, and keep replying on WhatsApp seven days a week.",
@@ -155,11 +155,11 @@ const pollachi: CityContent = {
     },
     {
       id: "ownership-maintenance-pollachi",
-      heading: "You own the site, and the first five months of upkeep are free",
+      heading: "You own the site, and the first two months of upkeep are free",
       paragraphs: [
         "A common story in smaller towns goes like this: a website was made some years ago, the developer moved on, the domain renewal went to an old email address, and one day the site simply disappeared. Getting the domain back can take weeks, and sometimes it cannot be recovered at all.",
         "We set things up to avoid that. The domain is registered in your name, the hosting account belongs to you, and at launch you receive every login, the source code and a short note explaining what runs where. You can move to another developer whenever you like, with no exit charge and nothing held back.",
-        "For five months after launch, maintenance is free. That covers text and price changes, bug fixes, security and dependency updates, backups, uptime checks and speed checks. After that you can continue from ₹8,000 a month, or just message us when something needs changing and pay for that work alone.",
+        "For two months after launch, maintenance is free. That covers text and price changes, bug fixes, security and dependency updates, backups, uptime checks and speed checks. After that you can continue from ₹8,000 a month, or just message us when something needs changing and pay for that work alone.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const pollachi: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can simply message us whenever a change is needed and pay only for that piece of work.",
+        "For two months after launch we handle text and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can simply message us whenever a change is needed and pay only for that piece of work.",
     },
     {
       question: "Can you guarantee a first-page Google ranking?",

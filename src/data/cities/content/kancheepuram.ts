@@ -31,11 +31,11 @@ const kancheepuram: CityContent = {
     eyebrow: "Kancheepuram · Tamil Nadu",
     h1: "Websites, software, SEO and AI tools for Kancheepuram silk weavers, temple-town hotels and Sriperumbudur suppliers",
     lede:
-      "We are three engineers working remotely on websites, online saree stores and WhatsApp systems for Kancheepuram: weaving households and silk showrooms on Gandhi Road, lodges near the big temples, rice mills, colleges, clinics and the small firms that supply factories at Sriperumbudur and Oragadam. Starting prices are public, and maintenance is free for five months.",
+      "We are three engineers working remotely on websites, online saree stores and WhatsApp systems for Kancheepuram: weaving households and silk showrooms on Gandhi Road, lodges near the big temples, rice mills, colleges, clinics and the small firms that supply factories at Sriperumbudur and Oragadam. Starting prices are public, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Silk saree stores", "Hotel and pilgrim bookings", "Vendor sites for auto hubs"],
   },
   quickAnswer:
-    "In Kancheepuram, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, and an online silk saree store from ₹50,000. We are a remote three-engineer team with no Kancheepuram office, and every site gets five months of free maintenance.",
+    "In Kancheepuram, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, and an online silk saree store from ₹50,000. We are a remote three-engineer team with no Kancheepuram office, and every site gets two months of free maintenance.",
   snapshot: [
     { label: "Location", value: "On the Vegavathi river, about 72 km south-west of Chennai" },
     { label: "Signature product", value: "Kanchipuram silk sarees, among the first products in India to receive a Geographical Indication tag" },
@@ -52,7 +52,7 @@ const kancheepuram: CityContent = {
     ai: "WhatsApp replies in Tamil or English that send saree photos, room availability or clinic timings and log every enquiry.",
     data: "Dashboards covering saree stock, loom output, bookings and payments across festival and wedding seasons.",
     app: "Android and iPhone apps for silk weaver job cards, school notices or patient tokens, from ₹40,000 and available on both app stores.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Kancheepuram businesses hire Chennai agencies that charge city rates, or rely on marketplace listings where the platform owns the customer. We offer a direct, affordable alternative: three engineers, published starting prices, WhatsApp replies every day and every account registered in your name.",
@@ -181,7 +181,7 @@ const kancheepuram: CityContent = {
       paragraphs: [
         "Some Kancheepuram showrooms have discovered that the website carrying their name, sometimes for years, was registered by a former developer or agency. When that relationship ends, updating prices or even renewing the domain becomes a struggle.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the full code and a short note on how the site is set up, so you can move to any developer at any time without an exit fee.",
-        "For five months after launch, maintenance is free: content and product updates, fixes, security patches, backups and uptime and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free: content and product updates, fixes, security patches, backups and uptime and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -277,7 +277,7 @@ const kancheepuram: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content and product updates, bug fixes, security updates, backups and uptime and speed checks without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle content and product updates, bug fixes, security updates, backups and uptime and speed checks without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in Arakkonam, Vellore, Chennai and nearby towns?",

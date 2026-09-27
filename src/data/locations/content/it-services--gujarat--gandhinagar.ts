@@ -40,11 +40,11 @@ const content: CityContent = {
     eyebrow: "IT services · Gandhinagar, Gujarat",
     h1: "Freelance software developers in Gandhinagar for portals, apps and AI",
     lede:
-      "BtechWaleTech is a freelance group of three software developers serving Gandhinagar remotely from India. We build student and member portals, MIS dashboards, secure web apps, AI document agents, CRM automation and the search-ready websites Gandhinagar organisations need. Every quote is itemised, every account sits in your organisation's name, and the first five months of maintenance after launch cost nothing.",
+      "BtechWaleTech is a freelance group of three software developers serving Gandhinagar remotely from India. We build student and member portals, MIS dashboards, secure web apps, AI document agents, CRM automation and the search-ready websites Gandhinagar organisations need. Every quote is itemised, every account sits in your organisation's name, and the first two months of maintenance after launch cost nothing.",
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Portals for institutes", "Android & iOS apps from ₹40,000", "Replies 7 days a week"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build Gandhinagar portals and custom software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI automation from ₹40,000 and websites from ₹10,000. We are three freelance engineers working remotely from India with no local office, send itemised quotes in about two working days and include five months of free maintenance.",
+    "BtechWaleTech's freelance software developers build Gandhinagar portals and custom software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI automation from ₹40,000 and websites from ₹10,000. We are three freelance engineers working remotely from India with no local office, send itemised quotes in about two working days and include two months of free maintenance.",
   snapshot: [
     { label: "Role in the state", value: "Planned capital of Gujarat, home to the Sachivalaya, the Legislative Assembly and many state departments, boards and corporations" },
     { label: "Financial hub", value: "GIFT City on the Sabarmati, India's first International Financial Services Centre, with banks, fund managers and fintech firms" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents that read applications, circulars, invoices and client documents, extract the fields you need, draft replies and leave every approval to a named person.",
     data: "MIS dashboards that bring spreadsheets, forms and accounting exports together so directors, principals and partners see the same verified figures.",
     app: "Android and iOS apps from ₹40,000 for Gandhinagar institutes, associations and site teams, written once in Flutter or React Native and listed on Google Play and the App Store in your organisation's name.",
-    maintenance: "Security patches, backups, user management and content updates, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Security patches, backups, user management and content updates, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Gandhinagar organisations tend to value order: documented processes, clear approvals and records that stand up when someone asks questions later. We work the same way. Scopes are written, every screen is listed, changes are logged, and credentials, code and hosting belong to your organisation. You speak directly with the engineers building the system.",
@@ -195,7 +195,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for Gandhinagar organisations should put data in a known region, usually India, on an account owned by the organisation, with backups, encryption, monitoring and documented access. We configure servers and managed services with the minimum permissions each part needs, enable two-factor login for administrators, and keep a written record of where every component lives.",
         "Releases follow a staged process: changes are tested on a staging copy, deployed with a rollback option, and logged. Backups are stored separately from the main system and test-restored. Security updates to frameworks and libraries are applied regularly, and we review access when staff join or leave, which is often where real risk sits in small organisations.",
-        "The first five months of maintenance after launch are free, covering fixes, patches, backups, user changes and small improvements. After that, support starts from ₹8,000 a month. We reply on WhatsApp seven days a week and prioritise anything that stops students, members or staff from working, such as a login failure during an admission deadline.",
+        "The first two months of maintenance after launch are free, covering fixes, patches, backups, user changes and small improvements. After that, support starts from ₹8,000 a month. We reply on WhatsApp seven days a week and prioritise anything that stops students, members or staff from working, such as a login failure during an admission deadline.",
       ],
     },
     {
@@ -219,7 +219,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Gandhinagar cost, with us, from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a portal, with monthly SEO from ₹10,000 and maintenance from ₹8,000. These are starting prices; the final figure depends on roles, modules, integrations and data migration, and each item appears separately in the quote.",
         "When choosing any partner, local or remote, check four things. First, will they give you a written scope listing every screen and report? Second, will the code repository, domain, hosting and third-party accounts be registered to your organisation? Third, who actually builds the system, and can you talk to them? Fourth, what does support cost after launch, and how quickly do they respond? A partner who avoids any of these questions is a risk regardless of how impressive the presentation looks.",
-        "Our answers are straightforward: itemised quotes in about two working days, ownership with you from the start, direct contact with the three engineers doing the work, and five months of free maintenance. Payments are milestone-based, in INR, by UPI QR or bank transfer. See our <a href='/pricing/'>pricing</a>, browse the <a href='/portfolio/'>portfolio</a>, or compare how we approach Saurashtra's manufacturers on the <a href='/it-services/gujarat/rajkot/'>Rajkot IT services page</a>.",
+        "Our answers are straightforward: itemised quotes in about two working days, ownership with you from the start, direct contact with the three engineers doing the work, and two months of free maintenance. Payments are milestone-based, in INR, by UPI QR or bank transfer. See our <a href='/pricing/'>pricing</a>, browse the <a href='/portfolio/'>portfolio</a>, or compare how we approach Saurashtra's manufacturers on the <a href='/it-services/gujarat/rajkot/'>Rajkot IT services page</a>.",
       ],
     },
   ],
@@ -306,7 +306,7 @@ const content: CityContent = {
     {
       question: "What support do we get after the system goes live?",
       answer:
-        "The first five months of maintenance are free: bug fixes, security patches, backups, user management and small changes as your staff settle in. After that, maintenance plans start from ₹8,000 a month and include monitoring and a set amount of change work. We respond on WhatsApp seven days a week and treat anything blocking students, members or staff, such as login problems near a deadline, as the top priority.",
+        "The first two months of maintenance are free: bug fixes, security patches, backups, user management and small changes as your staff settle in. After that, maintenance plans start from ₹8,000 a month and include monitoring and a set amount of change work. We respond on WhatsApp seven days a week and treat anything blocking students, members or staff, such as login problems near a deadline, as the top priority.",
     },
     {
       question: "Can you add features to software another developer built?",
@@ -316,7 +316,7 @@ const content: CityContent = {
     {
       question: "Do you work with businesses in Kalol, Dehgam, Mansa and Ahmedabad too?",
       answer:
-        "Yes. Because we work remotely, a plastics unit in Kalol, a school in Dehgam, a trader in Mansa or a firm with offices in both Gandhinagar and Ahmedabad follows the same process: a video call, a written itemised scope, milestone payments and five months of free maintenance. Multi-location organisations can run every branch from one system with branch-wise access and reports.",
+        "Yes. Because we work remotely, a plastics unit in Kalol, a school in Dehgam, a trader in Mansa or a firm with offices in both Gandhinagar and Ahmedabad follows the same process: a video call, a written itemised scope, milestone payments and two months of free maintenance. Multi-location organisations can run every branch from one system with branch-wise access and reports.",
     },
     {
       question: "How do we start?",

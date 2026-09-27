@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Student portal or LMS", `From ${P.software}`],
     ["Quote", "Itemised in about 2 working days"],
     ["Accounts", "Domain, hosting and data in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering web, apps and automation" },
     { value: "100", label: "Pages in the static plan for courses and batches" },
-    { value: "5", label: "Months of free updates for new batches" },
+    { value: "2", label: "Months of free updates for new batches" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Student portal, tests, LMS", value: `From ${P.software}, 6–12 weeks` },
       { label: "Student app", value: `Android and iOS from ${P.app}` },
       { label: "Lead follow-up automation", value: `From ${P.ai}` },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Your brand in the app", "Often shared vendor branding", "Not applicable", "Your name, your store accounts"],
       ["Student data location", "Vendor’s servers", "Contact form emails", "Your own database and cloud account"],
       ["Lead follow-up", "Some include a CRM", "Form emails only", `Automation from ${P.ai}`],
-      ["Changes for a new batch", "Self-service", "Paid per change", "Free for 5 months, then from " + P.care],
+      ["Changes for a new batch", "Self-service", "Paid per change", "Free for 2 months, then from " + P.care],
       ["Time to launch", "Days", "1–2 weeks", "1–2 weeks for the site; LMS 6–12 weeks"],
     ],
     fine: "If you mainly need attendance, fees and a student app right away and have no budget for custom work, a ready-made coaching platform can be the sensible first step, with our website linking to it.",
@@ -229,7 +229,7 @@ const content: FreelanceContent = {
       heading: "How much does a coaching institute website developer cost?",
       paragraphs: [
         `It depends on how much of the admission and teaching process goes online. Quotes vary widely in the market, so compare scope line by line.`,
-        `With BtechWaleTech, a coaching institute website on the static plan starts at ${P.site}, suitable for one centre with a handful of courses. An SEO website with many course, exam and branch pages starts at ${P.seoSite}. Student login, notes, tests and recorded lectures start at ${P.software}. A student app on Android and iOS starts at ${P.app}. Enquiry automation on WhatsApp starts at ${P.ai}. Ongoing SEO starts at ${P.seo}, and maintenance, after five free months, starts at ${P.care}.`,
+        `With BtechWaleTech, a coaching institute website on the static plan starts at ${P.site}, suitable for one centre with a handful of courses. An SEO website with many course, exam and branch pages starts at ${P.seoSite}. Student login, notes, tests and recorded lectures start at ${P.software}. A student app on Android and iOS starts at ${P.app}. Enquiry automation on WhatsApp starts at ${P.ai}. Ongoing SEO starts at ${P.seo}, and maintenance, after two free months, starts at ${P.care}.`,
         `The biggest cost drivers are the number of courses and branches, how much page content we write, the test engine’s features, the fee rules, and moving existing student data. A sensible path is to launch the admission website first and add the portal once the season’s enquiries are flowing.`,
       ],
       after: [`For education apps specifically, see <a href='/education-app-developer/'>education app developer</a>.`],
@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Work back from your admission window. A new site needs to be live, indexed by Google and working with your ads before parents start searching, which for most exam cycles is right after board results or before a new session.`,
         `Plan it like this. A static coaching website takes 1–2 weeks to build, and search engines need several more weeks to find and rank new pages, so start at least two to three months before admissions peak. An SEO site with many pages takes 3–5 weeks to build. A student portal or LMS takes 6–12 weeks, so start it well before the session in which you want students using it.`,
-        `Updates during the season should be fast. Batch dates, new courses, fee changes and results are all things we update for you free in the first five months after launch, usually the same day you message us.`,
+        `Updates during the season should be fast. Batch dates, new courses, fee changes and results are all things we update for you free in the first two months after launch, usually the same day you message us.`,
       ],
     },
     {
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
         ["Student app, Android and iOS", `${P.app}`, "6–10 weeks", "Daily use: classes, tests, notices"],
         ["Enquiry follow-up automation", `${P.ai}`, "2–4 weeks", "High enquiry volume in admission season"],
         ["Monthly SEO", `${P.seo}`, "Ongoing", "Competitive coaching cities"],
-        ["Maintenance after 5 free months", `${P.care}`, "Monthly", "Batch, fee and result updates"],
+        ["Maintenance after 2 free months", `${P.care}`, "Monthly", "Batch, fee and result updates"],
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Set up accounts in the institute’s name", "Domain, hosting and, later, app store accounts are opened under the institute, with us added as users only."],
       ["Review course pages on your phone", "Home, course and results pages appear on a private link first. Counsellors and faculty check details and send corrections."],
       ["Launch with lead tracking", "We go live, verify Search Console, connect enquiry forms to your sheet or CRM, and test WhatsApp replies and demo bookings."],
-      ["Update through the season", "New batches, results and fee changes are free for five months after launch; later, maintenance starts at " + P.care + "."],
+      ["Update through the season", "New batches, results and fee changes are free for two months after launch; later, maintenance starts at " + P.care + "."],
     ],
   },
   faqHeading: "Coaching institute website developer: questions institutes ask",
@@ -375,8 +375,8 @@ const content: FreelanceContent = {
     { question: "Can enquiries from the website be followed up automatically?", answer: `Yes. Enquiries can go into a Google Sheet or CRM tagged by course and source, trigger an instant WhatsApp reply with batch details, and alert the right counsellor. BtechWaleTech builds this kind of automation from ${P.ai}, which helps most in the busy weeks of admission season.` },
     { question: "Should I use a ready-made coaching app instead of a custom website?", answer: "A ready-made coaching app is a sensible start if you need attendance, fees and a student app immediately and can accept vendor branding and recurring fees. You still need a public website for admissions and search, which can link to the app. Custom portals suit institutes wanting their own brand and data." },
     { question: "What does a coaching website need to publish under the 2024 coaching guidelines?", answer: "The Ministry of Education guidelines issued in January 2024 expect coaching centres to publish details such as tutor qualifications, courses and duration, facilities, fees and refund policy on a website. Adoption and enforcement depend on your state, so check local rules. Publishing these details also builds parent trust." },
-    { question: "Coaching institute ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath coaching website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Kai courses aur branches ho toh SEO website ${P.seoSite} se shuru hoti hai. Student login, test series ya LMS ${P.software} se. Pehle itemised quote milta hai, aur launch ke baad 5 mahine batch aur fees updates free hain.` },
-    { question: "Do you update batch dates and results after launch?", answer: `Yes. For five months after launch, updates such as new batches, timings, fee changes and results are free; message them on WhatsApp and they are usually done the same day. After that, maintenance is optional from ${P.care}, or your staff can edit content through a simple dashboard.` },
+    { question: "Coaching institute ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath coaching website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Kai courses aur branches ho toh SEO website ${P.seoSite} se shuru hoti hai. Student login, test series ya LMS ${P.software} se. Pehle itemised quote milta hai, aur launch ke baad 2 mahine batch aur fees updates free hain.` },
+    { question: "Do you update batch dates and results after launch?", answer: `Yes. For two months after launch, updates such as new batches, timings, fee changes and results are free; message them on WhatsApp and they are usually done the same day. After that, maintenance is optional from ${P.care}, or your staff can edit content through a simple dashboard.` },
   ],
   related: {
     heading: "Related pages for education websites, apps and software",
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Admission season coming up? Send us your course list today",
-    note: `Share your courses, batch dates and branches on WhatsApp. You will get a phased, itemised quote in about two working days, with coaching websites starting at ${P.site}, accounts in the institute’s name and five months of free updates after launch.`,
+    note: `Share your courses, batch dates and branches on WhatsApp. You will get a phased, itemised quote in about two working days, with coaching websites starting at ${P.site}, accounts in the institute’s name and two months of free updates after launch.`,
   },
 };
 

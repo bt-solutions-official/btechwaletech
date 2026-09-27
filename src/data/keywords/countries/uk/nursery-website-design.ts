@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks after photos and fees arrive"],
     ["Nursery group, many settings", `From ${P.seoSite}`],
     ["Custom registration portal", `From ${P.software}`],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Itemised quote", "About 2 working days"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, forms and local search" },
     { value: "7", label: "Days a week we answer WhatsApp" },
-    { value: "5", label: "Months of free maintenance included" },
+    { value: "2", label: "Months of free maintenance included" },
     { value: "100", label: "Pages covered by the starting website plan" },
   ],
   answer: {
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Recruitment pages", note: "Practitioner, room leader and apprentice vacancies with a short application form, because staffing decides how many places you can offer.", size: "md" },
       { name: "Parent enquiry assistant", note: `A chat or WhatsApp assistant answering hours, funded-hours basics and tour questions, handing anything sensitive to staff, from ${P.ai}.`, href: "/uk/ai-chatbot-development/", size: "md" },
       { name: "Accessibility check", note: "Text, contrast, forms and keyboard use checked against WCAG 2.2 AA so every parent can use the site.", href: "/uk/website-accessibility-audit/", size: "sm" },
-      { name: "Care plan", note: `Fee updates each April, new staff and photo refreshes from ${P.care} after five free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Care plan", note: `Fee updates each April, new staff and photo refreshes from ${P.care} after two free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Nursery website design prices",
-    note: `A nursery website of up to 100 pages starts at ${P.site}. That covers rooms and age groups, a day-in-the-life page, food and allergies, your Ofsted outcome and report link, a funded-hours explainer, a fees page with chargeable extras, team profiles, show-round booking and a waiting-list form. Nursery groups with many settings start at ${P.seoSite}. A custom registration portal with document upload and staff review starts at ${P.software}. Local search help starts at ${P.seo} a month, and care plans start at ${P.care} after five free months. All starting prices, itemised in your quote.`,
+    note: `A nursery website of up to 100 pages starts at ${P.site}. That covers rooms and age groups, a day-in-the-life page, food and allergies, your Ofsted outcome and report link, a funded-hours explainer, a fees page with chargeable extras, team profiles, show-round booking and a waiting-list form. Nursery groups with many settings start at ${P.seoSite}. A custom registration portal with document upload and staff review starts at ${P.software}. Local search help starts at ${P.seo} a month, and care plans start at ${P.care} after two free months. All starting prices, itemised in your quote.`,
   },
   guideLabel: "Nursery website design guide",
   guide: [
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Draft the hard pages first", "Funded hours, fees and registration are drafted early so your manager and adviser have time to check the wording against your funding agreement."],
       ["Build on staging", "Pages, tour booking and forms go up on a private link. You check them on your phone, and every form is tested to confirm where data arrives."],
       ["Launch and switch links", "We publish on your hosting, connect Search Console, and help update your Google Business Profile and local directory links to point at the site."],
-      ["Five months of care", "Fee updates, new staff profiles and fixes are covered free for five months. After that, a care plan is optional."],
+      ["Two months of care", "Fee updates, new staff profiles and fixes are covered free for two months. After that, a care plan is optional."],
     ],
   },
   faqHeading: "Nursery website design: questions nursery owners ask",
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
     { question: "Can we build a site for several nursery settings?", answer: `Yes. A group site gives each setting its own page with its Ofsted link, fees, hours, manager, photos and waiting-list form routed to the right office. We build templates that force unique content per setting so pages do not repeat each other. Larger group builds start at ${P.seoSite}.` },
     { question: "Can our website help recruit nursery staff?", answer: "Yes. A careers page listing roles, required qualifications, training, progression and apprenticeship routes, with a short application form and CV upload routed to the manager, brings in candidates who already know your setting. It also reassures parents that you invest in your team, which matters when they are choosing." },
     { question: "How do we pay for the website from the UK?", answer: "Your quote is itemised in USD. You can pay in USD or GBP through Wise, bank wire or PayPal, and invoices come from India. Payment milestones are written into the quote you approve, and nothing is billed before that. For VAT or tax questions about an overseas supplier, speak to your accountant." },
-    { question: "What happens after our nursery website goes live?", answer: `Five months of maintenance are included free: fee updates, new staff profiles, photo refreshes and fixes. After that, care plans start at ${P.care}, or your team can manage the site itself since you hold every login. We build the fees and Ofsted panels so your office can update them without us.` },
+    { question: "What happens after our nursery website goes live?", answer: `Two months of maintenance are included free: fee updates, new staff profiles, photo refreshes and fixes. After that, care plans start at ${P.care}, or your team can manage the site itself since you hold every login. We build the fees and Ofsted panels so your office can update them without us.` },
     { question: "Do you build nursery websites in Scotland, Wales and Northern Ireland?", answer: "Yes. The build is the same, but funded childcare schemes and inspection bodies differ in each nation. We label funding and inspection panels for the right nation and link parents to the correct official information, rather than using England's scheme wording. You confirm the details for your settings." },
   ],
   related: {

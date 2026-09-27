@@ -56,7 +56,7 @@ const rayagada: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and appointment questions in Odia or English and hand real decisions back to you.",
     data: "Dashboards that show trips run, bills pending with each plant, fee collection by batch or sales by product line.",
     app: "Android and iOS apps for transport crews, contractor supervisors or school parents in Rayagada, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, security patches and small edits.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, security patches and small edits.",
   },
   whyUsIntro:
     "Rayagada clients tend to be practical: they want to know who is doing the work, what it will cost and what happens if something breaks. We publish starting prices, send itemised written quotes, reply on WhatsApp every day of the week, and put the domain, hosting, code and app store accounts in your name from day one.",
@@ -178,7 +178,7 @@ const rayagada: CityContent = {
       heading: "Software team in Rayagada terms: you own it, we maintain it",
       paragraphs: [
         "A frequent complaint we hear from businesses in smaller towns is that a previous developer registered the domain in their own name, kept the hosting login, and disappeared. The site then cannot be edited or moved. We avoid that by setting up the domain, hosting, source code repository, Google Play and App Store accounts in your name, with your email, before any work begins.",
-        "After launch you get five months of free maintenance covering bug fixes, security updates and small content changes. After that, maintenance starts at ₹8,000 a month and includes backups, updates, uptime checks and a set number of edits. You can also stop and take the work elsewhere; the code is yours.",
+        "After launch you get two months of free maintenance covering bug fixes, security updates and small content changes. After that, maintenance starts at ₹8,000 a month and includes backups, updates, uptime checks and a set number of edits. You can also stop and take the work elsewhere; the code is yours.",
         "When you compare any <strong>software team in Rayagada</strong> or outside it, ask these questions directly: whose name is the domain in, where is the code stored, who holds the admin password, and what does it cost to leave. Straight answers to those four tell you more than any portfolio.",
         "We write a short handover note for every project listing all logins and where they live.",
       ],
@@ -272,7 +272,7 @@ const rayagada: CityContent = {
     {
       question: "What happens after my website or app is launched?",
       answer:
-        "You get five months of free maintenance for bug fixes, security updates and small changes. After that, maintenance starts at ₹8,000 a month and includes backups, updates and edits. You own the domain, hosting, code and app store accounts throughout, so you can also move to another developer at any time without losing anything.",
+        "You get two months of free maintenance for bug fixes, security updates and small changes. After that, maintenance starts at ₹8,000 a month and includes backups, updates and edits. You own the domain, hosting, code and app store accounts throughout, so you can also move to another developer at any time without losing anything.",
     },
     {
       question: "Do you work with businesses in Gunupur, Koraput or Parvathipuram?",

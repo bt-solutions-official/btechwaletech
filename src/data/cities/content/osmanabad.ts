@@ -35,7 +35,7 @@ const osmanabad: CityContent = {
     pills: ["Websites from ₹10,000", "Both names: Dharashiv and Osmanabad", "Tuljapur pilgrim bookings", "Marathi WhatsApp replies", "You own the code"],
   },
   quickAnswer:
-    "A website for a Dharashiv (Osmanabad) business starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store at ₹50,000. We work remotely, you own the domain and code, and the first five months of maintenance are free.",
+    "A website for a Dharashiv (Osmanabad) business starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store at ₹50,000. We work remotely, you own the domain and code, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Marathwada, on the Deccan plateau at about 650 metres; district borders Solapur, Latur, Beed, Ahmednagar and Karnataka" },
     { label: "Name", value: "Officially renamed Dharashiv in 2023 after the nearby Dharashiv caves; “Osmanabad” is still widely used in searches" },
@@ -52,7 +52,7 @@ const osmanabad: CityContent = {
     ai: "WhatsApp assistants that answer room, darshan-timing, fee and rate questions in Marathi and Hindi, and pass tricky chats to your staff.",
     data: "Dashboards that show daily arrivals, purchase rates, outstanding dues and branch sales pulled from Tally or Google Sheets.",
     app: "Android and iOS apps for field staff, delivery riders and patient queues, listed on Google Play and the App Store, from ₹40,000 in six to ten weeks.",
-    maintenance: "Backups, updates, uptime checks and small edits, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Backups, updates, uptime checks and small edits, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Businesses in Dharashiv have heard plenty of big promises from website sellers who disappear after the first payment. We try to be the opposite: prices are published as starting figures, every quote is itemised, WhatsApp is answered seven days a week, and the domain, hosting and code are registered to you from day one.",
@@ -111,7 +111,7 @@ const osmanabad: CityContent = {
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Room enquiries, rate broadcasts and appointment requests.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Dal, jaggery, pickles and puja items with UPI checkout.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Purchase registers, member portals and stock tools.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once five free months end.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once two free months end.",
       ],
     },
     {
@@ -184,7 +184,7 @@ const osmanabad: CityContent = {
       heading: "What you own, and what happens after launch",
       paragraphs: [
         "The domain is registered in your name, the hosting account is yours, and the full code and every password are handed over at launch. If you later decide to work with a developer in Dharashiv, Solapur or Pune, you can move without asking us and without a transfer fee.",
-        "For the first five months after launch, maintenance is free. That covers security updates, backups, uptime monitoring and small edits such as new rates, room tariffs, doctor timings or festival notices. After that, maintenance starts at ₹8,000 a month and can be stopped at any time.",
+        "For the first two months after launch, maintenance is free. That covers security updates, backups, uptime monitoring and small edits such as new rates, room tariffs, doctor timings or festival notices. After that, maintenance starts at ₹8,000 a month and can be stopped at any time.",
         "Websites usually fail slowly rather than all at once: a contact form stops delivering, an old plugin becomes a security risk, pages grow heavy with large photos. We check for these problems each month and send a short summary, so you know the site is still doing its job before the next busy season arrives.",
       ],
     },
@@ -272,7 +272,7 @@ const osmanabad: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months after launch are free and include updates, backups, monitoring and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled whenever you like. We can also show your staff how to change rates, timings and photos themselves.",
+        "The first two months after launch are free and include updates, backups, monitoring and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled whenever you like. We can also show your staff how to change rates, timings and photos themselves.",
     },
     {
       question: "Can I sell Marathwada food products online from Dharashiv?",

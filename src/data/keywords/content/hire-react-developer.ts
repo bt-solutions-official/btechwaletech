@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Repository", "Your GitHub or GitLab, from the first commit"],
     ["Stack we default to", "React, TypeScript, Vite or Next.js"],
-    ["Free care after launch", "5 months of maintenance"],
+    ["Free care after launch", "2 months of maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who review each other’s React code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees between you and the developers" },
   ],
   answer: {
@@ -293,7 +293,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario, not a client story, to show how the pieces fit together.`,
         `A transport business already has a Node API and a spreadsheet-driven process for tracking trucks. They want a web dashboard where dispatchers see live trip status, filter by route, and assign drivers. They plan to hire a React developer and receive three quotes.`,
-        `Following this guide, they send the same brief to each, run a paid four-hour task based on their trip list, and review each pull request with a friend who codes. One candidate has no error states; another commits an API key. The third submits typed code with a test and a README. They approve an itemised quote starting from ${P.software}: repository in their GitHub, preview links per pull request, TanStack Query for trip data, a WebSocket feed for live status, Playwright tests for the assign-driver flow, and a release after about eight weeks. Five months of free maintenance cover small fixes after launch.`,
+        `Following this guide, they send the same brief to each, run a paid four-hour task based on their trip list, and review each pull request with a friend who codes. One candidate has no error states; another commits an API key. The third submits typed code with a test and a README. They approve an itemised quote starting from ${P.software}: repository in their GitHub, preview links per pull request, TanStack Query for trip data, a WebSocket feed for live status, Playwright tests for the assign-driver flow, and a release after about eight weeks. Two months of free maintenance cover small fixes after launch.`,
       ],
     },
     {
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["React store front", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, cart, UPI and card checkout"],
         ["React Native app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Android and iOS, store publishing"],
         ["AI feature in a React app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Chat or document upload via your API"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Dependency updates, fixes, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Dependency updates, fixes, small changes"],
       ],
       hideSm: [2],
     },
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
         ["Middle weeks", "Remaining screens, roles, edge cases", "Consolidated feedback weekly", "Feature-complete staging"],
         ["Final 1–2 weeks", "Accessibility, performance, end-to-end tests", "Acceptance testing", "Release candidate"],
         ["Launch", "Production deploy, monitoring, handover docs", "Final payment", "Live app and README"],
-        ["Next 5 months", "Fixes and small updates", "Report issues on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes and small updates", "Report issues on WhatsApp", "Free maintenance"],
       ],
       hideSm: [3],
     },
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       ["Run a small paid test if you like", "Before a larger build, you can commission one real screen as a paid first milestone and judge the pull request yourself."],
       ["Build in your repository", "Work happens in your GitHub or GitLab with pull requests, a second-person review and a preview link for every change."],
       ["Test, release and document", "End-to-end tests on the key journeys, accessibility and phone checks, production deployment in your hosting account and a README for whoever maintains it."],
-      ["Keep it healthy", "Five months of free maintenance cover fixes and small updates. After that, dependency upgrades and changes continue from " + P.care + " a month if you want them."],
+      ["Keep it healthy", "Two months of free maintenance cover fixes and small updates. After that, dependency upgrades and changes continue from " + P.care + " a month if you want them."],
     ],
   },
   faqHeading: "Hire React developer: common questions",
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "Which state management library will you use?", answer: "It depends on your data. We usually use a query library for server data because it handles caching, loading and errors, keep UI state local to components, and add context or a small store for shared values like the logged-in user. Redux Toolkit makes sense for apps with heavy client-side logic." },
     { question: "How do payments work when I hire your React team?", answer: "Payments are split into stages tied to work you can see, as agreed in your written quote. Indian clients pay by UPI or bank transfer; overseas clients pay by Wise, bank wire or PayPal in USD. No payment is requested until you approve the itemised estimate, and there are no platform fees in between." },
     { question: "Can I hire a React developer near me instead of remote?", answer: "You can, but React work is done entirely on a laptop and reviewed in a repository, so distance matters less than process. Remote developers share preview links for every change, meet on video and reply on messaging apps. Judge the test task and review habits first, then decide whether meeting in person still matters." },
-    { question: "What happens after the React app launches?", answer: `BtechWaleTech includes five months of free maintenance after launch for fixes, small changes and dependency updates. After that, maintenance continues from ${P.care} a month if you want it. You can also hand the code to your own team at any point, because the repository and documentation are already yours.` },
+    { question: "What happens after the React app launches?", answer: `BtechWaleTech includes two months of free maintenance after launch for fixes, small changes and dependency updates. After that, maintenance continues from ${P.care} a month if you want it. You can also hand the code to your own team at any point, because the repository and documentation are already yours.` },
     { question: "React developer hire karne se pehle kya check karein?", answer: `Pehle live kaam aur code sample dekhiye, phir ek chhota paid test task dijiye jisme list, form aur ek test ho. Code aapke GitHub mein hona chahiye. BtechWaleTech ke saath React web app ${P.software} se shuru hota hai, quote do working days mein itemised milta hai, aur approval ke baad hi payment hota hai.` },
     { question: "Can you work with our in-house developers?", answer: "Yes. We can build one part of the product, such as the admin dashboard, while your team owns the rest. We follow your repository conventions, linting rules and branch policy, open pull requests for your team to review, and document decisions so your developers can take over our part whenever they choose." },
   ],
@@ -433,7 +433,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want to hire a React developer? Send us your screen list",
-    note: `Share your screens, API details and deadline on WhatsApp. You will get questions first, then an itemised quote in about two working days, with React web apps starting at ${P.software}, code in your repository and five months of free maintenance after launch.`,
+    note: `Share your screens, API details and deadline on WhatsApp. You will get questions first, then an itemised quote in about two working days, with React web apps starting at ${P.software}, code in your repository and two months of free maintenance after launch.`,
   },
 };
 

@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders, invoices and lab reports, answer dealer questions on WhatsApp in Gujarati or English, and prepare daily summaries.",
     data: "Dashboards that combine Tally, Busy, spreadsheets and our software into one view of output, stock, receivables and dealer performance.",
     app: "Android and iOS apps from ₹40,000 for Gujarat salesmen, dealers, drivers and field staff, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free support after launch, then monthly plans from ₹8,000 for fixes, updates, backups, security and small changes.",
+    maintenance: "Two months of free support after launch, then monthly plans from ₹8,000 for fixes, updates, backups, security and small changes.",
   },
   whyUsIntro:
     "Gujarat owners rightly distrust proposals that lead with a licence. BtechWaleTech diagnoses the process first, shows costs module by module, and builds with three engineers you speak to directly, so every rupee is tied to a problem you agreed exists.",
@@ -166,7 +166,7 @@ const content: CityContent = {
       paragraphs: [
         "Dashboards give Gujarat owners a single view of output, stock, receivables, dealer performance and cash, while cloud hosting keeps the underlying data safe on professional servers with daily backups. Together they end the dependency on one office computer and one accountant who knows where the files are.",
         "We consolidate data from Tally, Busy, spreadsheets and our own systems, agree definitions with your team, and present the few numbers that change decisions. Useful views include dealer-wise sales and dues, job-work pending by worker, rejection rates, and branch comparisons across cities.",
-        "Hosting runs on AWS, DigitalOcean or similar providers with SSL, access controls, audit logs and monitoring. All accounts are registered to your business. The first five months of support after launch are free, then plans start from ₹8,000 a month.",
+        "Hosting runs on AWS, DigitalOcean or similar providers with SSL, access controls, audit logs and monitoring. All accounts are registered to your business. The first two months of support after launch are free, then plans start from ₹8,000 a month.",
       ],
     },
     {
@@ -296,7 +296,7 @@ const content: CityContent = {
     },
     {
       question: "What happens after launch?",
-      answer: "The first five months of support are free: bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
+      answer: "The first two months of support are free: bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How long does SEO take to work for a Gujarat manufacturer?",

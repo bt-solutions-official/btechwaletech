@@ -56,7 +56,7 @@ const kannur: CityContent = {
     ai: "WhatsApp assistants in Malayalam and English that answer price, stock, admission and appointment questions round the clock.",
     data: "Dashboards of export orders, dispatches, pending payments and enquiries by source for Kannur firms.",
     app: "Android and iOS apps for hospital tokens, school notices or repeat customers of a Kannur store, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kannur has a strong cooperative tradition, and people here expect straight answers and records they can check. We publish starting prices, send itemised written quotes, reply on WhatsApp all seven days, and register every domain, hosting account, codebase and app store listing in your name. If a feature will not pay for itself, we say so first.",
@@ -177,7 +177,7 @@ const kannur: CityContent = {
       heading: "Ownership and maintenance for Kannur websites and apps",
       paragraphs: [
         "What we build belongs to you from the start. The domain is registered on your email, the hosting account is in your name, you receive the full source code, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no one, us included, can lock you out later.",
-        "For five months after launch, maintenance is free: price and photo updates, backups, security patches and regular checks that forms, payments and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage the site yourselves, or hand the code to another developer without needing our consent.",
+        "For two months after launch, maintenance is free: price and photo updates, backups, security patches and regular checks that forms, payments and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage the site yourselves, or hand the code to another developer without needing our consent.",
         "Apps need an update at least once a year, because Google and Apple keep raising the minimum versions they accept. We track those deadlines and release updates in good time, so your listing is not removed. For websites, we remind you well before domain and hosting renewals fall due, so nothing expires by accident.",
       ],
     },
@@ -269,7 +269,7 @@ const kannur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance is free: price and photo edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, you may continue with us from ₹8,000 a month or move elsewhere. Since the code and every account are already yours, switching needs no permission from us.",
+        "For two months after launch, maintenance is free: price and photo edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, you may continue with us from ₹8,000 a month or move elsewhere. Since the code and every account are already yours, switching needs no permission from us.",
     },
     {
       question: "Do you work in Thalassery, Taliparamba and Payyannur too?",

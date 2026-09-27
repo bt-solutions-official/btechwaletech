@@ -56,7 +56,7 @@ const forbesganj: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rate, stock and delivery questions and pass orders or disputes to the owner.",
     data: "Dashboards of sales by retailer and month, overdue credit by area, and makhana or grain stock by grade.",
     app: "Android and iOS apps for retailer ordering, salesmen on routes or a clinic's patients, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of maintenance included after launch, then from ₹8,000 a month for updates and backups.",
+    maintenance: "Two months of maintenance included after launch, then from ₹8,000 a month for updates and backups.",
   },
   whyUsIntro:
     "Traders in Forbesganj work on credit, memory and reputation, and they are rightly wary of anyone who asks for money up front. So we publish starting prices, send an itemised written quote, bill nothing before you approve it, reply on WhatsApp every day and put every account in your name from the first step.",
@@ -167,7 +167,7 @@ const forbesganj: CityContent = {
       heading: "Website cost in Forbesganj: what you pay and what drives it",
       paragraphs: [
         "Entry points first. A shop, clinic or firm website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO site of 700 or more pages, handy for a coaching network or a wholesaler with a long product list, starts at ₹20,000 and takes three to five weeks. Apps for Android and iPhone start at ₹40,000, and so does AI automation.",
-        "Online stores start at ₹50,000 and take four to eight weeks. Custom software, such as a billing and credit system, starts at ₹60,000 and takes six to twelve weeks. SEO retainers start at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the free five months are over.",
+        "Online stores start at ₹50,000 and take four to eight weeks. Custom software, such as a billing and credit system, starts at ₹60,000 and takes six to twelve weeks. SEO retainers start at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the free two months are over.",
         "The figure rises only with choices you make: two languages, more products, courier rules, staff logins, Tally links. Each sits on its own line, so you can drop it. Supplying your own text and photos keeps the bill close to the starting price.",
         "Designers in the Purnea division quote very differently for similar work. Ask who will own the domain, whether the site is tested on cheap Android phones, whether basic SEO is included, how many revision rounds you get and what a year of support costs. We send an itemised quote in about two working days; reach us through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -186,7 +186,7 @@ const forbesganj: CityContent = {
       heading: "Ownership, handover and maintenance for Forbesganj clients",
       paragraphs: [
         "The site or app belongs to your business, not to us. We register the domain with your email, put hosting in your name, hand over the source code and create the Google Play, Apple developer and Google Business Profile accounts under your ownership. You receive a written list of every login at handover.",
-        "For five months after launch, maintenance costs nothing: we update rates and offers, keep backups, install security fixes and test forms, UPI checkout and WhatsApp buttons. After that, you can stay on a plan with us from ₹8,000 a month, look after it yourself, or give the code to someone else without needing our consent.",
+        "For two months after launch, maintenance costs nothing: we update rates and offers, keep backups, install security fixes and test forms, UPI checkout and WhatsApp buttons. After that, you can stay on a plan with us from ₹8,000 a month, look after it yourself, or give the code to someone else without needing our consent.",
         "Apps also need a yearly update, because Google and Apple regularly raise their minimum requirements. We track those dates and update in good time so your app stays available.",
       ],
     },
@@ -278,7 +278,7 @@ const forbesganj: CityContent = {
     {
       question: "What happens after the website goes live?",
       answer:
-        "Maintenance is free for five months: rate and offer changes, backups, security fixes and checks on forms, UPI checkout and WhatsApp buttons. Afterwards you can continue with us from ₹8,000 a month or move to anyone else. The code and every account are already yours.",
+        "Maintenance is free for two months: rate and offer changes, backups, security fixes and checks on forms, UPI checkout and WhatsApp buttons. Afterwards you can continue with us from ₹8,000 a month or move to anyone else. The code and every account are already yours.",
     },
     {
       question: "Do you work in Jogbani, Araria and Purnea too?",

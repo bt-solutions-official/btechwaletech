@@ -56,7 +56,7 @@ const yevla: CityContent = {
     ai: "WhatsApp assistants in Marathi and English that answer design, price, stock and delivery questions and hand sales to you.",
     data: "Dashboards of saris on each loom, orders by city, onion lots bought and sold and payments due.",
     app: "Android and iOS apps for Paithani buyers to follow a custom order on the loom, or for traders to log lots, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Weaving families in Yeola know that a Paithani's reputation takes years to build and one bad sale to lose. We treat your website the same way: published starting prices, itemised written quotes, WhatsApp replies seven days a week, and domain, hosting, code and app store accounts registered in your name. If a feature does not suit your trade, we say so first.",
@@ -178,7 +178,7 @@ const yevla: CityContent = {
       paragraphs: [
         "Everything with us happens online. You describe your business on WhatsApp or a call, we send a written plan and quote, and designs and test versions come to you as links you can open on your phone. You approve each stage before we move on. We reply seven days a week during IST hours.",
         "Your domain, hosting, source code and any Google Play or App Store accounts are registered to you from day one. Should you later move to another developer, every login is already yours. At launch we hand over passwords and a short guide in plain language.",
-        "Five months of free maintenance follow launch, covering bug fixes, small text changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, or you can manage the site yourself. Talk to us via our <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development service</a>.",
+        "Two months of free maintenance follow launch, covering bug fixes, small text changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, or you can manage the site yourself. Talk to us via our <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
   ],
@@ -260,7 +260,7 @@ const yevla: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Every launch includes five months of free maintenance for bug fixes, small text edits, backups and security updates. After that, maintenance starts at ₹8,000 a month. You can also look after the site yourself, as all logins and a short guide are handed over at launch.",
+        "Every launch includes two months of free maintenance for bug fixes, small text edits, backups and security updates. After that, maintenance starts at ₹8,000 a month. You can also look after the site yourself, as all logins and a short guide are handed over at launch.",
     },
     {
       question: "Do you work in Manmad, Nashik, Shirdi and Vaijapur too?",

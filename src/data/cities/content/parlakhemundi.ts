@@ -56,7 +56,7 @@ const parlakhemundi: CityContent = {
     ai: "WhatsApp assistants replying in Odia, Telugu or English about hostel vacancies, tour dates, stock or clinic timings, with a person taking over when needed.",
     data: "Dashboards of paddy received and rice dispatched, cashew grades by week, admissions by course or visitors by month.",
     app: "Android and iOS apps from ₹40,000 for student hostels, local delivery or tour bookings, published on Google Play and the App Store in your own name.",
-    maintenance: "No maintenance fee for five months after launch; later, optional support from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "No maintenance fee for two months after launch; later, optional support from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Parlakhemundi is small enough that word of mouth still decides who gets hired, so we make our terms easy to check. Starting prices are public, every cost is itemised before work begins, WhatsApp replies come seven days a week, and the domain, hosting, code and app store accounts belong to you from the first day. Where a cheaper option will do, we recommend it.",
@@ -168,7 +168,7 @@ const parlakhemundi: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -185,7 +185,7 @@ const parlakhemundi: CityContent = {
       heading: "Your accounts, your code: ownership and upkeep in Parlakhemundi",
       paragraphs: [
         "We open the domain, hosting, source code repository, Google Play and App Store developer accounts and Google Business Profile in your name or your organisation's. We work through access you grant, and if you move to another developer later, a full handover takes about a day. For colleges, trusts and committees whose office-bearers change, this is the difference between keeping a website and losing it.",
-        "The first five months after launch carry no maintenance charge. During that time we handle text and rate changes, backups, security updates and regular checks on forms, payments and WhatsApp links. Afterwards you can keep us from ₹8,000 a month or run things yourselves.",
+        "The first two months after launch carry no maintenance charge. During that time we handle text and rate changes, backups, security updates and regular checks on forms, payments and WhatsApp links. Afterwards you can keep us from ₹8,000 a month or run things yourselves.",
         "Here, upkeep tends to follow the calendar: admissions and results, the tourist season after the monsoon, Ratha Yatra arrangements and new crop arrivals at the mills.",
       ],
     },
@@ -276,7 +276,7 @@ const parlakhemundi: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "Five months of maintenance come free with every launch: content and rate changes, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself, since every account is already in your name.",
+        "Two months of maintenance come free with every launch: content and rate changes, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself, since every account is already in your name.",
     },
     {
       question: "Do you serve Kashinagar, Brahmapur, Srikakulam and nearby towns?",

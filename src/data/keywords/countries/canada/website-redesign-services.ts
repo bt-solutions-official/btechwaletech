@@ -35,12 +35,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised in USD in about 2 working days"],
     ["Accessibility target", "WCAG 2.0 Level AA, tested"],
     ["Billing", "USD or CAD · Wise, wire, PayPal"],
-    ["After relaunch", "5 months of free maintenance"],
+    ["After relaunch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering design build, SEO and project planning" },
     { value: "2", label: "Working days to an itemised redesign quote" },
-    { value: "5", label: "Months of free maintenance after relaunch" },
+    { value: "2", label: "Months of free maintenance after relaunch" },
     { value: "100", label: "Pages included in the starting redesign plan" },
   ],
   answer: {
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
         "Weekly traffic and lead comparisons for the first month",
       ],
       after: [
-        `After launch, the five free months of maintenance cover fixes and small changes. For ongoing updates, see <a href='/canada/website-maintenance-services/'>website maintenance in Canada</a>.`,
+        `After launch, the two free months of maintenance cover fixes and small changes. For ongoing updates, see <a href='/canada/website-maintenance-services/'>website maintenance in Canada</a>.`,
       ],
     },
   ],
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Structure, URLs and designs", "You review the sitemap, the keep-merge-move-retire URL plan and designs for key templates before building begins."],
       ["Build on staging", "Templates are built to WCAG 2.0 AA, content is moved or merged, forms and tracking are rebuilt, and French structure is prepared if needed."],
       ["Test, review and rehearse", "Your team reviews on phones and laptops, we test every form and redirect, and the launch and rollback steps are written down."],
-      ["Staged launch and monitoring", "Launch on a weekday morning Canadian time, first-hour checks, then weeks of Search Console and lead monitoring within five free months of maintenance."],
+      ["Staged launch and monitoring", "Launch on a weekday morning Canadian time, first-hour checks, then weeks of Search Console and lead monitoring within two free months of maintenance."],
     ],
   },
   faqHeading: "Website redesign services in Canada: common questions",
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "What happens to our blog and old news posts?", answer: "They are assessed in the content inventory. Posts that bring traffic or links keep their URLs or get redirects, overlapping posts are merged into stronger ones, and outdated posts with no traffic are retired with a redirect to the most relevant page. Nothing valuable is deleted without a plan." },
     { question: "Does a redesign help with AI search results?", answer: "It can. AI search features tend to quote pages that answer questions clearly, so service pages with plain explanations, question headings, FAQs and accurate structured data give them better material. We build templates that make that kind of content easy to publish. No one can guarantee how any AI system cites a site." },
     { question: "What do you need from us to start a redesign?", answer: "Read-only access to Search Console and analytics, access to the current site or its hosting, your brand assets, a list of how leads reach you, the people who approve decisions, and any accessibility or French requirements. Photos and translated copy can come later, on dates we agree." },
-    { question: "What support is there after the relaunch?", answer: `Five months of free maintenance follow launch, covering fixes, small changes and post-launch monitoring. After that, maintenance starts at ${P.care} a month, and ongoing SEO from ${P.seo} a month if you want continued growth. Larger new features are quoted separately before any work starts.` },
+    { question: "What support is there after the relaunch?", answer: `Two months of free maintenance follow launch, covering fixes, small changes and post-launch monitoring. After that, maintenance starts at ${P.care} a month, and ongoing SEO from ${P.seo} a month if you want continued growth. Larger new features are quoted separately before any work starts.` },
   ],
   related: {
     heading: "More for Canadian company websites",

@@ -30,11 +30,11 @@ const bahraich: CityContent = {
     eyebrow: "Bahraich · Uttar Pradesh",
     h1: "Websites, software, SEO and AI tools for Bahraich shops, clinics, schools and border traders",
     lede:
-      "We are three engineers working remotely for businesses in Bahraich and the Terai towns around it: wholesalers near Ghantaghar, hospitals and diagnostic centres, schools and coaching classes, sugar belt suppliers, hotels for dargah visitors and firms that trade through Rupaidiha. Prices are published before you call, the engineers answer you directly, and maintenance is free for five months after launch.",
+      "We are three engineers working remotely for businesses in Bahraich and the Terai towns around it: wholesalers near Ghantaghar, hospitals and diagnostic centres, schools and coaching classes, sugar belt suppliers, hotels for dargah visitors and firms that trade through Rupaidiha. Prices are published before you call, the engineers answer you directly, and maintenance is free for two months after launch.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Google Maps clean-up", "WhatsApp enquiry flows", "Nepal border trade pages"],
   },
   quickAnswer:
-    "For a Bahraich business, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Bahraich office, you own the domain and code, and five months of maintenance are free.",
+    "For a Bahraich business, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Bahraich office, you own the domain and code, and two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "On the Saryu river, about 125 km north-east of Lucknow, district headquarters in the Devipatan division" },
     { label: "Border", value: "The district touches Nepal; the Rupaidiha land port, Uttar Pradesh's first, links to Nepalgunj over NH 927" },
@@ -51,10 +51,10 @@ const bahraich: CityContent = {
     ai: "WhatsApp assistants that answer timing, fee and stock questions in Hindi and pass real negotiations and patient queries to a named person.",
     data: "Simple dashboards for cane supply payments, daily sales or admissions so an owner can see the week on one phone screen.",
     app: "Android and iOS apps for delivery staff, field agents or school notices that survive weak signal, from ₹40,000 with Play Store and App Store release.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month only if you want it.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:
-    "In Bahraich the usual options are a cousin who knows a little web design, a local shop that sells template sites with the domain in its own name, or a Lucknow agency that bills city rates and disappears after launch. We offer a different arrangement: public starting prices, a written line-by-line quote, direct WhatsApp contact with the three engineers, and five free months of maintenance.",
+    "In Bahraich the usual options are a cousin who knows a little web design, a local shop that sells template sites with the domain in its own name, or a Lucknow agency that bills city rates and disappears after launch. We offer a different arrangement: public starting prices, a written line-by-line quote, direct WhatsApp contact with the three engineers, and two free months of maintenance.",
   pricingIntro:
     "Our starting prices are public so you can compare before any meeting. The final amount depends on how many pages you need, whether the site is Hindi, English or both, what features you want and how much of the writing we do. You receive an itemised quote in writing, and nothing is billed until you approve it.",
   sections: [
@@ -167,7 +167,7 @@ const bahraich: CityContent = {
       paragraphs: [
         "A common Bahraich story goes like this: a developer registered the domain in his own name, moved to Delhi, and stopped answering. The renewal lapsed, the site went dark, and the business could not even change its phone number. We have heard versions of it from clinics, schools and shops alike.",
         "We work the other way. The domain and hosting are bought in your name, on your payment method, from the first day. At launch you receive every login, the full source code and a short written note explaining how everything fits together. If you later choose another developer, you hand over the access and they continue. There is no lock-in and no exit fee.",
-        "For five months after launch we look after updates, security patches, backups, uptime checks, bug fixes and small changes to text or photos at no charge. After that you can continue maintenance from ₹8,000 a month, or simply contact us when something comes up.",
+        "For two months after launch we look after updates, security patches, backups, uptime checks, bug fixes and small changes to text or photos at no charge. After that you can continue maintenance from ₹8,000 a month, or simply contact us when something comes up.",
       ],
     },
     {
@@ -258,7 +258,7 @@ const bahraich: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle software and security updates, backups, uptime checks, bug fixes and small changes to text or photos without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months after launch we handle software and security updates, backups, uptime checks, bug fixes and small changes to text or photos without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long before I see results from SEO in Bahraich?",

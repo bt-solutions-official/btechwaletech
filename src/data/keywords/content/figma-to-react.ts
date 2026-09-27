@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Store front end from", `${P.shop} · ${P.shopUsd}`],
     ["Styling", "Tailwind, CSS modules or vanilla CSS variables"],
     ["Documentation", "Storybook stories for each component state"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who read your Figma file together" },
     { value: "2", label: "Working days from file link to itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Platform fees on the project" },
   ],
   answer: {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, from the first commit. The repository, Storybook deployment, hosting and any package registry sit in accounts you control; we work inside them.`,
         `At handover you should receive the component library with typed props, the tokens file and the script that regenerates CSS from it, the deployed Storybook, the assembled screens, a README covering setup, scripts and deployment, and a short guide for adding a new component the same way. If your in-house developers will take over, we can walk them through the structure on a call and review their first few changes.`,
-        `After launch, five months of maintenance are free, covering fixes and small adjustments. After that, care starts at ${P.care} a month for dependency updates, React and framework upgrades, and small additions. We do not lock anything to our own accounts, so you are free to hand the codebase to anyone later.`,
+        `After launch, two months of maintenance are free, covering fixes and small adjustments. After that, care starts at ${P.care} a month for dependency updates, React and framework upgrades, and small additions. We do not lock anything to our own accounts, so you are free to hand the codebase to anyone later.`,
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get prices per component group and screen group. Work starts only after you approve the quote in writing."],
       ["Tokens and Storybook first", "Figma variables become the tokens file; primitives and patterns are built and reviewed in Storybook before any full screen is assembled."],
       ["Screens and API wiring", "Screens are composed from the library and connected to your API or to mock data matching its contract, with every state handled."],
-      ["Test, hand over, support", "Keyboard, device and browser testing, deployment to your hosting, a walkthrough for your developers and five months of free fixes."],
+      ["Test, hand over, support", "Keyboard, device and browser testing, deployment to your hosting, a walkthrough for your developers and two months of free fixes."],
     ],
   },
   faqHeading: "Figma to React: questions teams ask",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Do you make the components accessible?", answer: "Yes, as a baseline. Native buttons and links, visible focus styles, keyboard support for menus, tabs, comboboxes and dialogs, focus trapping in modals, labelled form fields and contrast checks on your colour tokens. If you need a specific WCAG level for a contract or tender, tell us early so it is scoped and tested explicitly." },
     { question: "What payment methods do you accept?", answer: "Clients in India pay by UPI or bank transfer; overseas clients pay in USD by Wise, bank wire or PayPal. The project is split into milestones listed in the itemised quote, and nothing is billed before you approve that quote in writing. Cancellation and refund details are on our refund policy page and in your quote." },
     { question: "Will you sign an NDA for our Figma designs?", answer: "Unreleased product designs are often confidential, and that is a reasonable request. Send your NDA and we will review it; the agreed confidentiality terms are recorded alongside your written quote. You can also share a limited set of frames first so we can scope the component library before full access." },
-    { question: "What happens after the React front end goes live?", answer: `You get five months of free maintenance after launch for fixes and small adjustments. After that, ongoing care starts at ${P.care}, covering dependency and framework upgrades, security patches in packages, and small new components or screens. The code stays in your repository, so you can also hand it to your own team at any time.` },
+    { question: "What happens after the React front end goes live?", answer: `You get two months of free maintenance after launch for fixes and small adjustments. After that, ongoing care starts at ${P.care}, covering dependency and framework upgrades, security patches in packages, and small new components or screens. The code stays in your repository, so you can also hand it to your own team at any time.` },
     { question: "Figma design se React website kaise banwayein?", answer: "Pehle apni Figma file ka view link bhejiye aur batayiye backend kaunsa hai. Hum saare components aur unke states ki list banakar do working days mein itemised quote dete hain. Approval ke baad tokens aur components Storybook mein bante hain, phir screens aur API jodte hain. Code aapke hi repository mein rehta hai." },
   ],
   related: {

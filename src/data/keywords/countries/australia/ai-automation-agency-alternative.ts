@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who build and look after your automations" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance once live" },
+    { value: "2", label: "Months of free maintenance once live" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Accounts", value: "Automation platform, AI keys and logs all in your name" },
       { label: "Proof of value", value: "Baseline hours measured before build, compared after four weeks" },
       { label: "Starting price", value: `AI automation from ${P.ai}` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Pricing AI automation when you are used to AUD agency quotes",
-    note: `AI automation with us starts from ${P.ai} for a single workflow with its error handling, logging and handover notes. We quote in USD; at the time you pay, your bank or Wise converts from AUD. Running costs sit on your own accounts: the automation platform plan (or a small server for self-hosted n8n), and AI model usage, which is billed per use and usually modest for small-business volumes. Several workflows can share one quote. After go-live you get five months of free maintenance, then upkeep from ${P.care}. Nothing is billed before you approve the itemised quote.`,
+    note: `AI automation with us starts from ${P.ai} for a single workflow with its error handling, logging and handover notes. We quote in USD; at the time you pay, your bank or Wise converts from AUD. Running costs sit on your own accounts: the automation platform plan (or a small server for self-hosted n8n), and AI model usage, which is billed per use and usually modest for small-business volumes. Several workflows can share one quote. After go-live you get two months of free maintenance, then upkeep from ${P.care}. Nothing is billed before you approve the itemised quote.`,
   },
   guideLabel: "AI automation agency Australia: comparison guide",
   guide: [
@@ -250,7 +250,7 @@ const content: FreelanceContent = {
       heading: "Why automations need maintenance, and what it involves",
       paragraphs: [
         `Automations break when the apps they connect change, when credentials expire, or when the business changes its process without telling anyone. Planned maintenance catches these before customers notice.`,
-        `Our builds send an alert when a step fails repeatedly, keep a readable log of every run, and include a one-page description of each workflow so anyone can understand it. During the five free months after go-live we fix breakages, adjust prompts as real inputs reveal edge cases, and tune schedules. After that, upkeep plans start from ${P.care}, or your own staff can take over using the documentation.`,
+        `Our builds send an alert when a step fails repeatedly, keep a readable log of every run, and include a one-page description of each workflow so anyone can understand it. During the two free months after go-live we fix breakages, adjust prompts as real inputs reveal edge cases, and tune schedules. After that, upkeep plans start from ${P.care}, or your own staff can take over using the documentation.`,
         `AI steps also need occasional review. Model providers update and retire models, and outputs can drift. A short quarterly check of a sample of AI outputs against staff corrections keeps quality visible.`,
       ],
     },
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Approve the quote", "An itemised USD quote arrives in about two working days, separating the one-off build from the running costs you will pay directly."],
       ["Build in your accounts", "We build in your automation platform and AI accounts using test data, share run logs and a screen recording, and adjust with your feedback."],
       ["Go live with guardrails", "The workflow goes live with alerts, retries and human approval where agreed. Staff get a one-page guide to what it does and how to pause it."],
-      ["Measure and maintain", `After four weeks we compare against the baseline together. Five months of free maintenance follow, then upkeep from ${P.care}.`],
+      ["Measure and maintain", `After four weeks we compare against the baseline together. Two months of free maintenance follow, then upkeep from ${P.care}.`],
     ],
   },
   faqHeading: "AI automation agency Australia: questions buyers ask",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "How do you measure time saved by automation?", answer: "Before building, you count how often the task happens and time a sample. Four weeks after go-live, the automation logs give exact volumes and a short time sample covers the remaining human steps. The difference, multiplied by a loaded hourly cost, is the saving. Workflows that do not earn their keep get simplified or switched off." },
     { question: "How long does it take to build an AI automation?", answer: "A single workflow usually takes 2–4 weeks, including scoping, building against test data, a short trial and go-live. Collecting the baseline runs alongside scoping. Several workflows can be delivered in phases, each measured before the next begins, so you are never paying for a large batch you have not tested." },
     { question: "Who owns the automations you build?", answer: "You do. The automation platform, AI keys, logs and any custom code live in accounts and repositories registered to your business, and we work with individual access you can revoke. The handover includes a one-page description of every workflow, so your staff or another developer can maintain it." },
-    { question: "What happens when an automation breaks?", answer: `Failures trigger alerts and retries, and each run is logged so the cause is visible. During the five free months after go-live we fix breakages and tune prompts. After that, upkeep starts from ${P.care}, or your staff can maintain simple workflows themselves using the documentation.` },
+    { question: "What happens when an automation breaks?", answer: `Failures trigger alerts and retries, and each run is logged so the cause is visible. During the two free months after go-live we fix breakages and tune prompts. After that, upkeep starts from ${P.care}, or your staff can maintain simple workflows themselves using the documentation.` },
     { question: "Are AI agents safe to give access to email and accounting?", answer: "Only with narrow permissions and approval steps. We give each automation the least access it needs, avoid broad inbox or accounting write access, and require a human approval before anything customer-facing or financial goes out. Fully autonomous agents with wide access are a risk we design around, not a feature." },
     { question: "Can you work with automations another agency built?", answer: "Yes, if you have admin access to the platform and accounts. We review the workflows, note fragile points such as missing error handling or shared credentials, and give you a written assessment. You can then choose fixes, a rebuild of specific workflows, or ongoing upkeep." },
     { question: "Do I need to change my software to automate?", answer: "Usually not. Most automations connect the tools you already use, such as Xero, MYOB, ServiceM8, Google Workspace, Microsoft 365 and common CRMs, through their APIs. If a tool has no usable API, we tell you before quoting and suggest alternatives such as email parsing or a small custom app." },

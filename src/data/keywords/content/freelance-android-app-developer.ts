@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Play Console account", "Registered to you, not us"],
     ["Testing tracks used", "Internal, closed, then production"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app’s code" },
     { value: "4", label: "Play Console tracks we plan releases through" },
-    { value: "5", label: "Months of free fixes and updates after launch" },
+    { value: "2", label: "Months of free fixes and updates after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Closed testing", value: "Invited testers; 12 testers for 14 days on new personal accounts" },
       { label: "Production", value: "Staged rollout, starting with a small share of users" },
       { label: "Starting price", value: `From ${P.app} (${P.appUsd})` },
-      { label: "After launch", value: `5 months free, then maintenance from ${P.care}` },
+      { label: "After launch", value: `2 months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
       heading: "After release: updates, target API deadlines and maintenance",
       paragraphs: [
         `An Android app needs attention every year even if you never add a feature. Google Play requires new apps and updates to target a recent API level; from 31 August 2026 that means Android 16 (API level 36) for phone apps, and existing apps that fall too far behind stop being offered to new users on newer Android versions.`,
-        `Beyond that deadline, libraries receive security fixes, payment and login SDKs change, and Android versions alter permission behaviour. We cover this during the five months of free maintenance after launch. After that, maintenance continues from ${P.care} if you want it, covering updates, crash fixes and small changes shipped through the same testing tracks.`,
+        `Beyond that deadline, libraries receive security fixes, payment and login SDKs change, and Android versions alter permission behaviour. We cover this during the two months of free maintenance after launch. After that, maintenance continues from ${P.care} if you want it, covering updates, crash fixes and small changes shipped through the same testing tracks.`,
         `If you would rather handle it yourself or hire someone else, the handover pack includes the repository, build instructions, the list of third-party services and their renewal dates, and access you already own in Play Console.`,
       ],
     },
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show timing, not a client story. A dairy in a tier-2 town wants customers to manage daily milk subscriptions on Android: pause for holidays, add curd or paneer, and pay monthly by UPI.`,
         `Weeks one and two produce the scope table (subscription, calendar, top-up items, monthly bill, profile) and clickable designs. The owner registers Play Console as an organisation. Weeks three to seven deliver the app and an admin panel where delivery staff see the next morning’s route list; builds land on internal testing every fortnight. Week eight moves the build to closed testing with 20 regular customers, whose feedback leads to a larger “pause tomorrow” button. Weeks nine and ten cover the store listing, Data safety form and a staged production rollout, widened over a few days as crash numbers stay clean.`,
-        `The quote would start from ${P.app}, with separate lines for the admin panel route view and Hindi strings. After release, the free five months cover fixes and the first round of customer suggestions.`,
+        `The quote would start from ${P.app}, with separate lines for the admin panel route view and Hindi strings. After release, the free two months cover fixes and the first round of customer suggestions.`,
       ],
     },
     {
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       heading: "Android app banwana hai? Seedhe steps",
       paragraphs: [
         `Pehle likhiye ki app ka ek main kaam kya hai: order lena, booking lena ya customer ko update dena. Phir Play Console account apne naam par banwaiye, developer ke naam par nahi. App pehle internal testing mein aapke staff ke phone par chalegi, phir closed testing mein 12 se zyada logon ke saath 14 din, aur uske baad hi public release.`,
-        `Hamare saath Android app ${P.app} se shuru hoti hai aur pehli release tak 6–10 hafte lagte hain. Quote line by line milta hai, approval ke baad hi payment. Launch ke baad 5 mahine ke fixes free hain. Koi bhi sawal WhatsApp par Hindi mein pooch sakte hain.`,
+        `Hamare saath Android app ${P.app} se shuru hoti hai aur pehli release tak 6–10 hafte lagte hain. Quote line by line milta hai, approval ke baad hi payment. Launch ke baad 2 mahine ke fixes free hain. Koi bhi sawal WhatsApp par Hindi mein pooch sakte hain.`,
       ],
     },
   ],
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
         ["Custom admin portal or larger backend", `From ${P.software}`, `From ${P.softwareUsd}`, "Roles, reports, integrations"],
         ["AI or WhatsApp automation add-on", `From ${P.ai}`, `From ${P.aiUsd}`, "Bots, alerts, document reading"],
         ["App landing website", `From ${P.site}`, `From ${P.siteUsd}`, "Privacy policy page lives here too"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Updates, target API, crash fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Updates, target API, crash fixes"],
       ],
       hideSm: [2],
     },
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Register Play Console together", "Your account, your card, your organisation details. We join as invited users and configure Play App Signing so updates never depend on one person."],
       ["Test every sprint on your own phone", "Builds arrive on the internal testing track every two weeks. You reply with notes on WhatsApp, and fixes land in the next build."],
       ["Run closed testing and prepare the listing", "Invited testers use the near-final app while we finish store text, graphics, Data safety answers and the content rating."],
-      ["Roll out in stages, then maintain", "Production goes to a small share of users first, widening as vitals stay healthy. Five months of fixes are free; maintenance continues from " + P.care + " if you choose."],
+      ["Roll out in stages, then maintain", "Production goes to a small share of users first, widening as vitals stay healthy. Two months of fixes are free; maintenance continues from " + P.care + " if you choose."],
     ],
   },
   faqHeading: "Freelance Android app developer: common questions",
@@ -391,12 +391,12 @@ const content: FreelanceContent = {
     { question: "Does my app need a backend and admin panel?", answer: "If the app takes orders, bookings, payments or user accounts, yes. The backend stores data and applies business rules, and the admin panel lets your staff manage orders, customers and content without calling the developer. Content-only apps can sometimes run on a lighter setup. We price the backend as separate lines so you can see its share of the cost." },
     { question: "How do I hire a good freelance Android app developer?", answer: "Send the same written scope to two or three candidates and compare replies. Look for installable apps on Play you can download, a plan for testing tracks and Play Console ownership, an itemised quote that includes the backend, and clear terms for updates after release. A small paid first milestone, such as clickable designs, shows how they work before you commit fully." },
     { question: "Is a freelance Android app developer better than an agency?", answer: "A small freelance team suits apps with a clear version one, a limited budget and owners who want to speak to the people writing code. An agency suits large apps needing many specialists in parallel, formal procurement or on-site staff. For most small and mid-sized business apps, a capable freelance team delivers the same release process at lower overhead." },
-    { question: "What maintenance does a freelance Android app developer provide after launch?", answer: `Maintenance covers crash fixes, library and SDK updates, changes Android versions bring, and the yearly target API upgrade that Google Play requires. It also includes small feature tweaks shipped through the testing tracks. BtechWaleTech includes five months of free maintenance after launch; afterwards it continues from ${P.care} if you want it.` },
+    { question: "What maintenance does a freelance Android app developer provide after launch?", answer: `Maintenance covers crash fixes, library and SDK updates, changes Android versions bring, and the yearly target API upgrade that Google Play requires. It also includes small feature tweaks shipped through the testing tracks. BtechWaleTech includes two months of free maintenance after launch; afterwards it continues from ${P.care} if you want it.` },
     { question: "What happens if I miss Google Play’s target API deadline?", answer: "New apps and updates cannot be submitted until they target the required level, and existing apps that fall too far behind stop being offered to new users on newer Android versions. From 31 August 2026 new submissions must target Android 16, API level 36, for phone apps. Google allows extension requests, but planning the upgrade early is far safer." },
     { question: "Can a freelance Android app developer finish an app someone else started?", answer: "Often, yes. We start with a paid code audit: we check that the project builds, review the architecture and libraries, confirm who holds the signing and upload keys, and list what can be kept. You then get a quote either to finish it or to rebuild the fragile parts. Missing source code or signing access changes the plan, so gather those first." },
     { question: "Can I pay a freelance Android app developer in stages?", answer: "Yes, and you should. We split payment into an advance after scope approval, amounts tied to visible builds on the internal testing track, and a final payment before full production rollout. Clients in India pay by UPI or bank transfer; clients abroad pay through Wise, bank wire or PayPal. Every stage is listed in the approved quote." },
     { question: "Will you sign an NDA before I share my app idea?", answer: "Yes. A reasonable NDA is standard when an idea, customer data or business process is sensitive, and we are happy to sign one before detailed discussion. The written scope also records that the code, designs and Play Console listing belong to you once paid for, which protects your idea more than the NDA alone." },
-    { question: "Android app banwane mein kitna time aur paisa lagta hai?", answer: `BtechWaleTech ke saath Android app ${P.app} se shuru hoti hai aur pehli Play Store release tak aam taur par 6–10 hafte lagte hain. Isme backend, admin panel, testing aur release shamil hai. Play Console account aapke naam par banta hai. Launch ke baad 5 mahine ke fixes free hain, uske baad maintenance optional hai.` },
+    { question: "Android app banwane mein kitna time aur paisa lagta hai?", answer: `BtechWaleTech ke saath Android app ${P.app} se shuru hoti hai aur pehli Play Store release tak aam taur par 6–10 hafte lagte hain. Isme backend, admin panel, testing aur release shamil hai. Play Console account aapke naam par banta hai. Launch ke baad 2 mahine ke fixes free hain, uske baad maintenance optional hai.` },
     { question: "Can a remote freelance Android app developer work with me if I am not in the same city?", answer: "Yes. Android projects are naturally remote: builds reach your phone through the Play internal testing track, reviews happen over video calls, and feedback comes on WhatsApp. You see the real app every two weeks rather than hearing about it. Clients anywhere in India, and abroad, follow the same process and pricing." },
   ],
   related: {
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an Android app? Start with a scope and a release plan",
-    note: `Message us on WhatsApp with the one thing your app must do. You get an itemised quote in about two working days, Android apps start at ${P.app}, Play Console stays in your name, and the first five months after release are maintained free.`,
+    note: `Message us on WhatsApp with the one thing your app must do. You get an itemised quote in about two working days, Android apps start at ${P.app}, Play Console stays in your name, and the first two months after release are maintained free.`,
   },
 };
 

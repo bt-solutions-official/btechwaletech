@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Multi-location or big treatment library", `From ${P.seoSite}`],
     ["Patient portal or custom intake", `From ${P.software}`],
     ["Local dental SEO", `From ${P.seo}`],
-    ["Care after launch", `5 months free, then from ${P.care}`],
+    ["Care after launch", `2 months free, then from ${P.care}`],
     ["Meeting hours", "US Eastern mornings = India evenings"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your practice site" },
     { value: "2", label: "Working days to an itemized USD quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Ad pixels on patient forms by default" },
   ],
   answer: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What dental website design costs here",
-    note: `A single-location dental practice site of up to 100 pages, including new-patient booking, an insurance page, treatment pages, dentist bios, accessible design and HIPAA-aware form setup, starts at ${P.site} and takes one to two weeks once content is approved. Multi-location groups or practices wanting a large treatment library start at ${P.seoSite}. Custom intake or a patient portal is software from ${P.software}. Local dental SEO starts at ${P.seo} a month, and care starts at ${P.care} after five free months. Every figure is a starting price; the form service with a business associate agreement is billed to your practice directly.`,
+    note: `A single-location dental practice site of up to 100 pages, including new-patient booking, an insurance page, treatment pages, dentist bios, accessible design and HIPAA-aware form setup, starts at ${P.site} and takes one to two weeks once content is approved. Multi-location groups or practices wanting a large treatment library start at ${P.seoSite}. Custom intake or a patient portal is software from ${P.software}. Local dental SEO starts at ${P.seo} a month, and care starts at ${P.care} after two free months. Every figure is a starting price; the form service with a business associate agreement is billed to your practice directly.`,
   },
   guideLabel: "Dental website design guide",
   guide: [
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, dental website design starts at ${P.site} for a single-location practice site of up to 100 pages and ${P.seoSite} for multi-location groups or large treatment libraries. Agency packages commonly run to several thousand dollars up front plus monthly fees; the difference mostly lies in bundled services and contract terms.`,
         `What drives your cost with us: the number of treatment and location pages, whether content needs writing from scratch or editing from your existing site, the booking and form setup, accessibility testing depth, and any custom software such as digital intake or a patient portal from ${P.software}. Photography and ads are not part of our work.`,
-        `Running costs are paid by your practice directly: domain, hosting, your form service under a business associate agreement, and your scheduling software. Optional monthly SEO starts at ${P.seo}, and care at ${P.care} after the five free months. Nothing is billed until you approve the itemized quote. For a wider view, see our <a href='/pricing/'>pricing page</a>.`,
+        `Running costs are paid by your practice directly: domain, hosting, your form service under a business associate agreement, and your scheduling software. Optional monthly SEO starts at ${P.seo}, and care at ${P.care} after the two free months. Nothing is billed until you approve the itemized quote. For a wider view, see our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Plan pages and data flow", "We agree the page plan and where each form sends data, then list every script the site will run, for your privacy officer to review."],
       ["Design, write and build", "Accessible, phone-first design; treatment, insurance, location and bio pages drafted for your dentists to review; booking and forms connected."],
       ["Test with dummy data", "Test bookings and forms with dummy details only, keyboard and screen reader checks, speed checks, and a review of all clinical text by your dentists."],
-      ["Launch and hand over", "Launch with redirects, Search Console and analytics in the practice’s name, a list of every account and script, and five free months of fixes."],
+      ["Launch and hand over", "Launch with redirects, Search Console and analytics in the practice’s name, a list of every account and script, and two free months of fixes."],
     ],
   },
   faqHeading: "Dental website design: questions practices ask",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "How do dental practices get cited in AI search answers?", answer: "Publish clear, specific answers: an insurance page naming carriers, treatment pages that open with direct explanations, real dentist credentials and consistent practice details everywhere. AI tools such as Google AI Overviews and Perplexity tend to quote pages that answer plainly. Structured data using the Dentist type helps them read your details accurately." },
     { question: "How does working with a team in India work for a dental practice?", answer: "Your office manager messages us on WhatsApp, and calls happen in US Eastern mornings, which are evenings in India. We build and test with dummy data only, so we never need patient information. Quotes are in USD; payment is by Wise, bank wire or PayPal with invoices from India." },
     { question: "Can you build a patient portal or digital intake for my practice?", answer: `Yes, as custom software starting at ${P.software}, usually over six to twelve weeks. Many practices find their practice-management software already offers intake tools, so we check that first. If you do go custom, hosting and data services are contracted by your practice with providers that offer the agreements your counsel requires.` },
-    { question: "What happens after my dental website launches?", answer: `Five months of fixes and small edits are free, including insurance list updates and new treatment pages. After that, care starts at ${P.care}. You can also edit content yourself with the handover guide or bring in any developer, since the practice owns everything.` },
+    { question: "What happens after my dental website launches?", answer: `Two months of fixes and small edits are free, including insurance list updates and new treatment pages. After that, care starts at ${P.care}. You can also edit content yourself with the handover guide or bring in any developer, since the practice owns everything.` },
     { question: "Can you build a bilingual English and Spanish dental website?", answer: "Yes. We build both language versions with proper language tags and a clear switcher. You supply or approve the Spanish text, ideally reviewed by a fluent staff member or professional translator, because clinical wording must be accurate. Booking and forms work in both versions." },
   ],
   related: {

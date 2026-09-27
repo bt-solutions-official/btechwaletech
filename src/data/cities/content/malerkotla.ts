@@ -35,7 +35,7 @@ const malerkotla: CityContent = {
     pills: ["Websites from ₹10,000", "Punjabi, Hindi and English pages", "Manufacturer catalogues", "Restaurant and clinic sites", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A static website for a Malerkotla business starts from ₹10,000 and takes one to two weeks. A 299+ page SEO or product catalogue site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Malerkotla office, and we maintain every site free for five months after launch.",
+    "A static website for a Malerkotla business starts from ₹10,000 and takes one to two weeks. A 299+ page SEO or product catalogue site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Malerkotla office, and we maintain every site free for two months after launch.",
   snapshot: [
     { label: "District", value: "Punjab's 23rd district, carved out of Sangrur in June 2021, with Malerkotla, Ahmedgarh and Amargarh sub-divisions" },
     { label: "Location", value: "About 50 km from Ludhiana and 35 km from Sangrur, on the Ludhiana–Sangrur road" },
@@ -52,7 +52,7 @@ const malerkotla: CityContent = {
     ai: "WhatsApp replies in Punjabi, Hindi or English for catalogue requests, order status and table bookings, with pricing and complaints handed to a person.",
     data: "Dashboards for pending orders, furnace or machine output, dispatch schedules and customer dues, readable on a phone.",
     app: "Android and iPhone apps for shop-floor entries, delivery staff and sales teams that sync after weak signal, published on Google Play and the App Store.",
-    maintenance: "Free updates, backups and edits for five months after launch, then maintenance from ₹8,000 a month if you want us to continue.",
+    maintenance: "Free updates, backups and edits for two months after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Many Malerkotla firms rely on IndiaMART listings and a site built years ago by a Ludhiana agency that no longer replies. We are a small remote team you can reach directly on WhatsApp, we publish our starting prices, and every domain and hosting account we set up is registered to you, not to us.",
@@ -197,7 +197,7 @@ const malerkotla: CityContent = {
       paragraphs: [
         "Too many businesses find out their website was never theirs. The developer registered the domain in his name, kept the hosting login, and the site vanished when he stopped responding.",
         "We register your domain and hosting in your name and account from the first day. At launch you receive every login, the full source code and a brief note on the setup. Our <a href=\"/services/web-development/\">web development</a> uses common, documented tools so any competent developer can continue the work, and we charge no exit fee.",
-        "For five months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small changes. After that you can continue from ₹8,000 a month or contact us only when you need something.",
+        "For two months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small changes. After that you can continue from ₹8,000 a month or contact us only when you need something.",
       ],
     },
     {
@@ -288,7 +288,7 @@ const malerkotla: CityContent = {
     {
       question: "What happens after my site goes live?",
       answer:
-        "We maintain it free for five months: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
+        "We maintain it free for two months: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long before SEO shows results in Malerkotla?",

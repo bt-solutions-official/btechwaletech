@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Freelance IT and software developers in Baramulla for fruit mandis, Gulmarg stays, contractors and clinics",
     lede:
       "Few owners in north Kashmir find a software development team in Baramulla that builds real systems instead of reselling templates. BtechWaleTech is a freelance group of three engineers working remotely from India, and we write software for how Baramulla district works: commission agents and growers at the Sopore fruit mandi, winter-peak hotels in Gulmarg and Tangmarg, contractors on hydro and road projects toward Uri, and clinics and schools in Baramulla town. Custom software, Android and iOS apps, AI automation, dashboards, stores, SEO and steady maintenance.",
-    pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Maintenance from ₹8,000/month", "5 months upkeep free"],
+    pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Maintenance from ₹8,000/month", "2 months upkeep free"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers building software for Baramulla, Sopore and Gulmarg businesses remotely. Custom web apps start from ₹60,000 (6 to 12 weeks), Android and iOS apps from ₹40,000 (6 to 10 weeks), AI automation from ₹40,000 and websites from ₹10,000, with five months of free maintenance. We have no Baramulla office.",
+    "BtechWaleTech is a freelance group of three engineers building software for Baramulla, Sopore and Gulmarg businesses remotely. Custom web apps start from ₹60,000 (6 to 12 weeks), Android and iOS apps from ₹40,000 (6 to 10 weeks), AI automation from ₹40,000 and websites from ₹10,000, with two months of free maintenance. We have no Baramulla office.",
   snapshot: [
     { label: "Main towns", value: "Baramulla, Sopore, Pattan, Tangmarg, Uri, Kreeri and Rafiabad, among the district's sixteen tehsils" },
     { label: "Fruit trade", value: "The Sopore fruit mandi is one of the largest fruit markets in Asia, handling apples from across north Kashmir" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that answer booking, price and order questions on WhatsApp and read bills and slips into your records for a clerk to approve.",
     data: "Dashboards for boxes sold, grower balances, ski-season occupancy and contractor bills, built on the data you already keep.",
     app: "Android and iOS apps from ₹40,000 for Baramulla growers, mandi staff, drivers and Gulmarg guests, built once in Flutter or React Native and published on both app stores.",
-    maintenance: "Five months of free maintenance after launch, then monthly care from ₹8,000 for updates, fixes, backups and uptime checks, so your site does not go stale.",
+    maintenance: "Two months of free maintenance after launch, then monthly care from ₹8,000 for updates, fixes, backups and uptime checks, so your site does not go stale.",
   },
   whyUsIntro:
     "Many Baramulla websites were built once and left to break. BtechWaleTech is three engineers who build carefully, maintain what we build, reply on WhatsApp every day, and register every domain and account in your name.",
@@ -157,7 +157,7 @@ const content: CityContent = {
       heading: "Website maintenance and IT support for Baramulla businesses",
       paragraphs: [
         "Website maintenance for a Baramulla business means someone checks that the site loads, forms deliver, content stays accurate, software stays updated and backups work, every month. Without it, sites slowly break: prices go stale, plugins become insecure and contact forms fail silently, often in the busiest season.",
-        "Every project we deliver includes five months of free maintenance after launch. That covers bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Every project we deliver includes two months of free maintenance after launch. That covers bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can contact us only when you need a change.",
         "We also take over existing sites built by others, after reviewing the code and hosting. Hosting runs on AWS, DigitalOcean or similar cloud providers with SSL and daily backups, all in your name. We reply on WhatsApp seven days a week. We do not provide hardware repair or on-site networking.",
       ],
     },
@@ -193,7 +193,7 @@ const content: CityContent = {
         "AI automation: from ₹40,000, 2 to 4 weeks",
         "Online store: from ₹50,000, 4 to 8 weeks",
         "Custom web app: from ₹60,000, 6 to 12 weeks",
-        "Maintenance: from ₹8,000 a month after 5 free months",
+        "Maintenance: from ₹8,000 a month after 2 free months",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
       paragraphs: [
         "A Baramulla business should start its software project three to four months before its busiest season, so the system is built, tested and familiar to staff before pressure arrives. For Sopore traders that means starting in spring for an autumn harvest; for Gulmarg hotels, starting in summer for the ski season and in winter for the summer rush.",
         "Our steps do not change with the season. We hold a discovery call and collect samples such as ledger pages, booking registers or running bills. You receive a written scope and an itemised quote. Screens and data structures are agreed before coding begins. During the build you receive a staging link every week to try on your own phone, and your feedback shapes the next round of work.",
-        "Before launch we train your staff over video and share short written guides in simple language. After launch the five months of included maintenance begin, which covers the first busy season in most cases. The step that most often slows projects is not coding but waiting for price lists, photos and approvals, so one person on your side should own sign-off.",
+        "Before launch we train your staff over video and share short written guides in simple language. After launch the two months of included maintenance begin, which covers the first busy season in most cases. The step that most often slows projects is not coding but waiting for price lists, photos and approvals, so one person on your side should own sign-off.",
       ],
       list: [
         "Sopore mandi software: start by April, launch by August",
@@ -266,7 +266,7 @@ const content: CityContent = {
     },
     {
       question: "What does ongoing maintenance cost after the free period?",
-      answer: "Maintenance plans start from ₹8,000 a month after the first five free months. They cover bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. You can also skip a plan and contact us only when something needs changing. We reply on WhatsApp seven days a week.",
+      answer: "Maintenance plans start from ₹8,000 a month after the first two free months. They cover bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. You can also skip a plan and contact us only when something needs changing. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can you fix or take over an existing website?",

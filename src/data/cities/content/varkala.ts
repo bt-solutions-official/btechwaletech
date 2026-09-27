@@ -57,7 +57,7 @@ const varkala: CityContent = {
     ai: "WhatsApp assistants that answer the same room, course and transfer questions at 2 a.m. for guests in other time zones.",
     data: "Season reports showing occupancy, booking source and the months when rooms sit empty, so rates can be set with evidence.",
     app: "Android and iOS apps for a yoga school's enrolled students or a resort's returning guests, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month, timed so that fixes happen before the season rather than in it.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month, timed so that fixes happen before the season rather than in it.",
   },
   whyUsIntro:
     "Varkala owners deal with online travel portals, walk-in tourists and pilgrims who all expect a quick reply. We publish our starting prices, send a written itemised quote, answer WhatsApp every day on Indian time, and register the domain, hosting, code and store accounts to you. If a portal listing already does the job, we tell you that.",
@@ -178,7 +178,7 @@ const varkala: CityContent = {
       heading: "Ownership, handover and maintenance for Varkala sites and apps",
       paragraphs: [
         "Plenty of Varkala properties have lost a website because a relative or a former manager registered the domain in their own name and then moved on. We avoid that from the first day. The domain and hosting are registered on your email, the source code is handed over in full, and the Google Business Profile, Google Play account and Apple developer account list you as owner. You get a written sheet of every login at handover.",
-        "For five months after launch, maintenance is free: rate changes before the season, backups, security and software updates, and regular checks that the booking form, payment link and WhatsApp button still work. After that it is your choice to continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without asking anyone's permission.",
+        "For two months after launch, maintenance is free: rate changes before the season, backups, security and software updates, and regular checks that the booking form, payment link and WhatsApp button still work. After that it is your choice to continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without asking anyone's permission.",
         "Apps need an update every year even when nothing is broken, because Google and Apple keep raising their minimum requirements. We track those deadlines and ship the update in the quiet months, so your listing stays live when the travel season begins.",
       ],
     },
@@ -270,7 +270,7 @@ const varkala: CityContent = {
     {
       question: "What happens after the website or app is launched?",
       answer:
-        "The first five months of maintenance are free, covering rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month, look after it yourself, or move the code to another developer. All logins are handed over in writing.",
+        "The first two months of maintenance are free, covering rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month, look after it yourself, or move the code to another developer. All logins are handed over in writing.",
     },
     {
       question: "Is local SEO worth it for a small Varkala business?",

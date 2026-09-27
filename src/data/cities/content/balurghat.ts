@@ -31,11 +31,11 @@ const balurghat: CityContent = {
     eyebrow: "Balurghat · Dakshin Dinajpur, West Bengal",
     h1: "Websites, software, SEO and AI tools for Balurghat's traders, rice mills, clinics and the Hili border economy",
     lede:
-      "Three remote engineers building Bengali-and-English websites, local search setups and WhatsApp tools for businesses in Balurghat and across Dakshin Dinajpur. We work with grain and jute traders, clearing agents near Hili, coaching centres, doctors, theatre groups and shops on both banks of the Atrai. Prices are published and five months of upkeep are free.",
+      "Three remote engineers building Bengali-and-English websites, local search setups and WhatsApp tools for businesses in Balurghat and across Dakshin Dinajpur. We work with grain and jute traders, clearing agents near Hili, coaching centres, doctors, theatre groups and shops on both banks of the Atrai. Prices are published and two months of upkeep are free.",
     pills: ["Sites from ₹10,000", "Bengali and English", "Clearing agent sites", "Clinic booking pages", "Replies seven days a week"],
   },
   quickAnswer:
-    "A static website for a Balurghat business starts at ₹10,000 with us and is ready in one to two weeks. SEO sites of 299+ pages start at ₹20,000, online stores from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three remote engineers with no office in Balurghat, and the first five months of maintenance are free.",
+    "A static website for a Balurghat business starts at ₹10,000 with us and is ready in one to two weeks. SEO sites of 299+ pages start at ₹20,000, online stores from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three remote engineers with no office in Balurghat, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Dakshin Dinajpur district, on the Atrai river about 3 km from the Bangladesh border" },
     { label: "Economy", value: "Mainly agricultural: rice first, with jute, sugarcane, oilseeds and fisheries, plus rice mills and bran extraction units" },
@@ -52,10 +52,10 @@ const balurghat: CityContent = {
     ai: "WhatsApp replies that answer rate, stock, fee or appointment questions in Bengali and save every enquiry to a sheet.",
     data: "Simple dashboards for mill output, mandi purchases, dues and seasonal sales, readable on a phone.",
     app: "Android and iOS apps for school notices, clinic tokens or trader order books, starting at ₹40,000 and listed on both Google Play and the App Store.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month if you want us to carry on.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:
-    "Balurghat sits at the far end of a branch railway line, and most agencies that build websites are a long journey away in Siliguri or Kolkata. That distance matters less when the work is done remotely anyway. We publish starting prices, write in Bengali and English, reply on WhatsApp every day, and maintain the site free for five months.",
+    "Balurghat sits at the far end of a branch railway line, and most agencies that build websites are a long journey away in Siliguri or Kolkata. That distance matters less when the work is done remotely anyway. We publish starting prices, write in Bengali and English, reply on WhatsApp every day, and maintain the site free for two months.",
   pricingIntro:
     "The prices below are where projects start, not package rates. A doctor's page with timings is a smaller job than a trader's catalogue of three hundred products. Tell us what you need and you get an itemised written quote in about two working days. Nothing is billed until you approve it.",
   sections: [
@@ -186,7 +186,7 @@ const balurghat: CityContent = {
       paragraphs: [
         "A site you cannot control is a liability. In smaller towns it often happens that the person who built the site kept the domain in his own name, then stopped answering calls. When the renewal date passes, the site disappears.",
         "We register the domain and hosting in your name from the start. At launch you receive every login, the complete code and a short written note explaining how the site is set up. You can take it to any other developer whenever you like, with no exit fee and no permission needed from us.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need something done. Read more about our <a href=\"/services/web-development/\">web development process</a>.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need something done. Read more about our <a href=\"/services/web-development/\">web development process</a>.",
       ],
     },
     {
@@ -277,7 +277,7 @@ const balurghat: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups, and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups, and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Can a theatre group or Puja committee get a small site?",

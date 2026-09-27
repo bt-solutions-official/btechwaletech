@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who build and test the flow" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees added by us on your Meta bill" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Buttons supported", value: "Copy code everywhere; one-tap and zero-tap on Android" },
       { label: "Where it plugs in", value: "Signup, login, password reset, payout or address change" },
       { label: "Security layer", value: "Hashed codes, attempt caps, per-number and per-IP throttles" },
-      { label: "After launch", value: `5 months free support, then from ${P.care}` },
+      { label: "After launch", value: `2 months free support, then from ${P.care}` },
     ],
   },
   services: {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should own all of it: the Meta business portfolio, the WABA, the phone number, the templates, the access tokens and the source code of the OTP module. We work inside your accounts with permissions you grant and can revoke.`,
         `This matters more for OTPs than for most integrations, because login is the front door of your product. If a vendor controls the WABA and a dispute happens, your users cannot sign in. When the business portfolio and WABA are in your name, switching developers or providers is a token change, not a migration.`,
-        `At handover you get the repository, a short runbook (how to rotate tokens, how to add a template language, what each alert means) and a walkthrough call in English or Hindi. The first five months of maintenance after launch are free; after that, support starts at ${P.care} if you want us to stay on.`,
+        `At handover you get the repository, a short runbook (how to rotate tokens, how to add a template language, what each alert means) and a walkthrough call in English or Hindi. The first two months of maintenance after launch are free; after that, support starts at ${P.care} if you want us to stay on.`,
       ],
     },
     {
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
         ["New web app with OTP login", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Full web app, auth, roles and dashboards"],
         ["New Android and iOS app with OTP login", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Flutter or React Native app, one-tap on Android"],
         ["Website with OTP-gated area", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks plus integration", "Static site plus a small login service"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Token rotation, API upgrades, template changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Token rotation, API upgrades, template changes"],
       ],
       hideSm: [2],
     },
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
       ["Prepare Meta and DLT access", "You add us to your business portfolio and share DLT template details. We submit the authentication template and set up the number while coding starts."],
       ["Build and test on staging", "We write the OTP module, webhooks and screens against a test number, then run real-device tests on Android and iPhone, including weak networks and abuse scripts."],
       ["Roll out in steps", "Start with a slice of Android users, compare delivery and completion with SMS, then widen. Fallback stays on the whole time, so nobody gets locked out."],
-      ["Hand over and support", "You get the code, a runbook and a walkthrough. Five months of maintenance are free; token rotation and API upgrades are covered in that period."],
+      ["Hand over and support", "You get the code, a runbook and a walkthrough. Two months of maintenance are free; token rotation and API upgrades are covered in that period."],
     ],
   },
   faqHeading: "WhatsApp OTP API: questions people ask",
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
     { question: "Which programming languages can send WhatsApp OTPs?", answer: "Any language that can make an HTTPS request: Node.js, Python, PHP, Java, Go, .NET and others. The Cloud API is a REST endpoint that takes JSON. We usually write the OTP module in your existing backend stack, whether that is Express, NestJS, Django, FastAPI or Laravel, so your team can maintain it without learning a new tool." },
     { question: "Can WhatsApp OTP be used for website login, not only apps?", answer: "Yes. On a website the user enters their number, receives the code on WhatsApp and taps the copy-code button, then pastes it in the browser. One-tap and zero-tap do not apply to websites. We add session handling, resend timers and an SMS fallback link, the same way we would for an app." },
     { question: "Who owns the WhatsApp Business Account after the project?", answer: "You do. We set up or connect the WhatsApp Business Account, phone number and templates inside your own Meta business portfolio, and the OTP code lives in your repository. We work with access you grant and can remove at any time. That way login, the most critical feature of your product, never depends on a vendor’s account." },
-    { question: "Do you provide support after the WhatsApp OTP API goes live?", answer: `Yes. Every project includes five months of free maintenance after launch, covering fixes, token rotation and Graph API version upgrades. After that, maintenance starts at ${P.care} if you want us to continue. Larger changes, such as adding new languages or channels, are quoted separately and itemised before any work starts.` },
+    { question: "Do you provide support after the WhatsApp OTP API goes live?", answer: `Yes. Every project includes two months of free maintenance after launch, covering fixes, token rotation and Graph API version upgrades. After that, maintenance starts at ${P.care} if you want us to continue. Larger changes, such as adding new languages or channels, are quoted separately and itemised before any work starts.` },
     { question: "How do I pay for a WhatsApp OTP integration?", answer: "Clients in India pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Payment stages and terms are set out in your written quote, and nothing is billed before you approve it. Meta’s message charges are separate and paid directly to Meta from your own account." },
     { question: "WhatsApp par OTP bhejne ke liye kya chahiye?", answer: "Aapko Meta business portfolio, WhatsApp Business Account, ek registered phone number, approved authentication template aur ek backend chahiye jo code banakar Cloud API ko bheje. SMS fallback ke liye aapka DLT header aur template bhi chahiye. BtechWaleTech yeh poora setup 2–4 hafte mein karta hai, aur account hamesha aapke naam par rehta hai." },
   ],

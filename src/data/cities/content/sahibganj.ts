@@ -56,7 +56,7 @@ const sahibganj: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about rates, stock, fees and timings and pass every real decision to you.",
     data: "Dashboards of daily loads, tonnage by buyer, freight due and outstanding payments for stone and transport firms.",
     app: "Android and iOS apps from ₹40,000 for drivers logging trips or parents getting school notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Business in Sahibganj runs on trust built over years, often between families who have traded with each other for generations. We work the same way: published starting prices, written quotes with every item listed, WhatsApp replies seven days a week, and your name on the domain, hosting, code and app store accounts. If an idea will not earn back its cost, we say so early.",
@@ -176,7 +176,7 @@ const sahibganj: CityContent = {
       heading: "Ownership and maintenance for Sahibganj websites and apps",
       paragraphs: [
         "Plenty of Sahibganj shopkeepers have lost a website because the builder kept the domain under his own login and later changed his number. That cannot happen with us. The web address, the hosting plan, the code, the Google listing and the developer accounts on both app stores are opened in the owner's name from day one, with passwords passed to you on paper or email.",
-        "For the first five months after going live, upkeep costs nothing. In that time we change text and rates when you ask, take backups, apply security and software updates, and test the enquiry forms, UPI links and WhatsApp buttons. From the sixth month, continued care is ₹8,000 a month onwards, and only if you choose it. You may take everything to a different developer whenever you like.",
+        "For the first two months after going live, upkeep costs nothing. In that time we change text and rates when you ask, take backups, apply security and software updates, and test the enquiry forms, UPI links and WhatsApp buttons. From the third month, continued care is ₹8,000 a month onwards, and only if you choose it. You may take everything to a different developer whenever you like.",
         "Google and Apple revise their store rules every year, and apps that ignore them get pulled. We keep an eye on those notices and ship the needed update before any deadline.",
       ],
     },
@@ -268,7 +268,7 @@ const sahibganj: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are covered free: edits, backups, security fixes and regular tests of forms and payment links. Continuing after that is optional and priced from ₹8,000 a month. Since every account is registered to you, changing to someone else later is simple and needs nobody's permission.",
+        "The first two months after launch are covered free: edits, backups, security fixes and regular tests of forms and payment links. Continuing after that is optional and priced from ₹8,000 a month. Since every account is registered to you, changing to someone else later is simple and needs nobody's permission.",
     },
     {
       question: "Do you work in Rajmahal, Barharwa and Pakur too?",

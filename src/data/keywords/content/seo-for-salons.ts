@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who handle your salon account" },
     { value: "2", label: "Working days to an itemised salon SEO quote" },
-    { value: "5", label: "Months of free maintenance after a new site launches" },
+    { value: "2", label: "Months of free maintenance after a new site launches" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Multi-branch salon group", "Location pages, service-plus-locality pages at scale", `${P.seoSite}`, "3–5 weeks to launch"],
         ["WhatsApp booking automation", "Confirmations, reminders, review requests", `${P.ai}`, "2–4 weeks"],
         ["Salon booking app", "Android and iOS app with slots and profiles", `${P.app}`, "6–10 weeks"],
-        ["After launch care", "Updates, backups, fixes after free period", `${P.care}`, "After 5 free months"],
+        ["After launch care", "Updates, backups, fixes after free period", `${P.care}`, "After 2 free months"],
       ],
     },
     {

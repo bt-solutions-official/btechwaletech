@@ -56,7 +56,7 @@ const sahaswan: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi to price, stock, admission and appointment questions and forward real orders to you.",
     data: "Simple dashboards showing sales by season, dues by village and which products move before sowing and harvest.",
     app: "Android and iOS apps from ₹40,000, published on Google Play and the App Store, for school notices, dealer re-orders or clinic tokens.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "In a town like Sahaswan, most business is done on trust built over years, and a supplier who vanishes after taking an advance is remembered. We publish starting prices, send an itemised quote in writing, reply on WhatsApp all week, and register your domain, hosting, code and app accounts in your name. If something will not help your business, we say it plainly.",
@@ -185,7 +185,7 @@ const sahaswan: CityContent = {
       heading: "Your ownership, handover and maintenance after launch",
       paragraphs: [
         "In small towns it is common to find a website the owner cannot update because an earlier developer kept the domain. We avoid that from day one. The domain, hosting, source code, Google Business Profile and any Play Store or App Store accounts are registered to you, and you hold the passwords.",
-        "Each project includes five months of free maintenance after launch: price and photo edits, backups, security updates and checks that forms, UPI payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month and is entirely optional. You can move to another provider whenever you like and take the full code with you.",
+        "Each project includes two months of free maintenance after launch: price and photo edits, backups, security updates and checks that forms, UPI payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month and is entirely optional. You can move to another provider whenever you like and take the full code with you.",
         "We plan larger updates around the local calendar: dealers before rabi and kharif sowing, shops before the wedding season and Eid and Diwali, schools before admissions open. Testing happens when you have time to look, not in your busiest week.",
       ],
     },
@@ -268,7 +268,7 @@ const sahaswan: CityContent = {
     {
       question: "What maintenance do you provide after the website is live?",
       answer:
-        "The first five months after launch are free: we handle price and photo edits, backups, security updates and checks on forms, UPI payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month and is optional. You can leave at any time and take the full code and access with you.",
+        "The first two months after launch are free: we handle price and photo edits, backups, security updates and checks on forms, UPI payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month and is optional. You can leave at any time and take the full code and access with you.",
     },
     {
       question: "Do you work in Ujhani, Budaun and nearby towns too?",

@@ -37,18 +37,18 @@ const content: FreelanceContent = {
     ["SEO website of 299+ pages from", P.seoSite],
     ["Online shop from", P.shop],
     ["Monthly SEO from", P.seo],
-    ["Care plan", `From ${P.care} after 5 free months`],
+    ["Care plan", `From ${P.care} after 2 free months`],
     ["Quote", "Itemised, before anything is billed"],
   ],
   stats: [
     { value: "100", label: "Pages included in our starting static plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Monthly fees to us unless you choose a care plan" },
   ],
   answer: {
     heading: "How much does a website cost in the UK?",
-    text: `A UK website can cost anything from a yearly builder subscription to a large agency project; quotes vary widely with design work, content, features and who owns the result. Always add yearly costs for domain, hosting, licences and upkeep. BtechWaleTech builds business sites from ${P.site}, SEO sites of 299+ pages from ${P.seoSite} and online shops from ${P.shop}, with five months of free maintenance.`,
+    text: `A UK website can cost anything from a yearly builder subscription to a large agency project; quotes vary widely with design work, content, features and who owns the result. Always add yearly costs for domain, hosting, licences and upkeep. BtechWaleTech builds business sites from ${P.site}, SEO sites of 299+ pages from ${P.seoSite} and online shops from ${P.shop}, with two months of free maintenance.`,
     more: `Running a shop? The <a href='/uk/ecommerce-website-cost/'>UK ecommerce website cost guide</a> goes deeper on card fees and apps. Deciding who to hire first? See <a href='/uk/web-design-agency-vs-freelancer/'>web design agency vs freelancer</a>.`,
   },
   snapshot: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Redesign of an existing site", note: "Keep the domain and the rankings you have earned, fix the slow pages and outdated design, and redirect old URLs properly.", href: "/uk/website-redesign-services/", size: "md" },
       { name: "Cookie banner and privacy set-up", note: "Consent banner that keeps non-essential cookies off until visitors agree, plus privacy and cookie pages for your solicitor to check.", href: "/uk/gdpr-cookie-banner-setup/", size: "sm" },
       { name: "Monthly SEO", note: `Ongoing technical fixes, content and local search work from ${P.seo}; nobody can honestly guarantee rankings.`, href: "/uk/seo-packages/", size: "sm" },
-      { name: "Care plan", note: `Updates, backups, uptime checks and small edits from ${P.care}, starting after five free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
+      { name: "Care plan", note: `Updates, backups, uptime checks and small edits from ${P.care}, starting after two free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
     ],
   },
   comparison: {
@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A live site has five recurring cost lines: domain renewal, hosting, email, any paid licences (premium themes, plugins, fonts, booking tools) and maintenance. The build is a one-off; these are forever, so put them in the budget before comparing quotes.`,
         `<strong>Domain.</strong> A .co.uk or .uk name renews yearly with whichever registrar you choose. Register it in your own business name, never the developer's. <strong>Hosting.</strong> A small static site needs very modest hosting; a WordPress site with a shop needs more. Pay the host directly so the account is yours. <strong>Email.</strong> Business email is usually a separate per-user subscription from your hosting.`,
-        `<strong>Licences.</strong> This is the line that grows unnoticed. A WordPress site with six premium plugins can carry six separate renewals, each emailing a different inbox. We keep paid plugins to the minimum and list every renewal in the handover, with who pays it and when. <strong>Maintenance.</strong> Updates, backups, security checks and small edits. Our care plan starts at ${P.care} and only begins after five months of free maintenance.`,
+        `<strong>Licences.</strong> This is the line that grows unnoticed. A WordPress site with six premium plugins can carry six separate renewals, each emailing a different inbox. We keep paid plugins to the minimum and list every renewal in the handover, with who pays it and when. <strong>Maintenance.</strong> Updates, backups, security checks and small edits. Our care plan starts at ${P.care} and only begins after two months of free maintenance.`,
       ],
       list: [
         "Domain: yearly, paid by you to your registrar",
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Take a hypothetical two-room physiotherapy practice in Bath. It wants a site that explains its treatments, shows the team, takes enquiries and links to the online booking tool it already pays for. This is an illustration of how we would cost it, not a real client.`,
         `Scope: home page, about, six treatment pages, a conditions section of ten short pages, team profiles, fees, contact with a map, privacy and cookie pages. Roughly twenty-five pages, well inside the 100-page starting plan. The booking tool is linked with a button rather than integrated, which keeps cost down. The owners write the treatment copy; we tidy the structure and headings.`,
-        `Build: our business website plan from ${P.site}, around one to two weeks once text and photos arrive. Year one running costs, paid by the practice to the providers: domain renewal, modest hosting, two email mailboxes, and no paid plugins. Maintenance is free for five months, then optional from ${P.care}. If they later want the booking calendar embedded properly or a patient portal, that becomes custom work from ${P.software}, quoted separately.`,
+        `Build: our business website plan from ${P.site}, around one to two weeks once text and photos arrive. Year one running costs, paid by the practice to the providers: domain renewal, modest hosting, two email mailboxes, and no paid plugins. Maintenance is free for two months, then optional from ${P.care}. If they later want the booking calendar embedded properly or a patient portal, that becomes custom work from ${P.software}, quoted separately.`,
         `The comparison the owners should make is not our build price against another quote, but three-year totals: build plus every renewal, with VAT treated the same way on both sides.`,
       ],
     },
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Hosting", "Recurring, monthly or yearly", "Your hosting provider", "Your business name"],
         ["Business email", "Recurring, per mailbox", "Your email provider", "Your business name"],
         ["Premium theme or plugin licences", "Recurring, usually yearly", "Each vendor", "Your business email"],
-        ["Maintenance and edits", "Recurring, optional", `Us, from ${P.care} after 5 free months`, "Agreed in writing"],
+        ["Maintenance and edits", "Recurring, optional", `Us, from ${P.care} after 2 free months`, "Agreed in writing"],
         ["Monthly SEO", "Recurring, optional", `Us, from ${P.seo}`, "Agreed in writing"],
       ],
       hideSm: [3],
@@ -404,13 +404,13 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "You register the domain and hosting yourself and invite us. Every recurring cost is billed to you directly by the provider from the start."],
       ["Review designs on a preview link", "You see real pages on your own phone, not static mock-ups, and send one list of changes per round."],
       ["Launch with the basics done", "Cookie banner, privacy page, redirects from any old site, Search Console and analytics are switched on before we point the domain."],
-      ["Hand over and support", "You receive logins, a renewal list and a short editing guide. Maintenance is free for five months; after that, care is optional."],
+      ["Hand over and support", "You receive logins, a renewal list and a short editing guide. Maintenance is free for two months; after that, care is optional."],
     ],
   },
   faqHeading: "How much does a website cost in the UK: your questions answered",
   faqs: [
     { question: "How much does a website cost in the UK for a small business?", answer: `It depends on who builds it and what is included. Builder subscriptions have the lowest entry cost but never stop, freelancers and agencies vary widely. With BtechWaleTech, a small business website of up to 100 pages starts at ${P.site}, and you own the domain, hosting and code. Always add yearly running costs before comparing.` },
-    { question: "How much does a website cost per year to run in the UK?", answer: `Running costs usually cover domain renewal, hosting, business email, any premium plugin or theme licences, and maintenance if you pay for it. A simple static site keeps these low; a shop or heavily plugged-in WordPress site costs more. With us, maintenance is free for five months, then optional from ${P.care}, and you pay providers directly.` },
+    { question: "How much does a website cost per year to run in the UK?", answer: `Running costs usually cover domain renewal, hosting, business email, any premium plugin or theme licences, and maintenance if you pay for it. A simple static site keeps these low; a shop or heavily plugged-in WordPress site costs more. With us, maintenance is free for two months, then optional from ${P.care}, and you pay providers directly.` },
     { question: "Why do website quotes in the UK vary so much?", answer: "Because suppliers sell different things under the same word. Some include copywriting, photography, SEO set-up and months of support; others quote only the build. Agencies carry more staff and overheads than freelancers or remote teams. Ask every supplier to split planning, design, build, content, launch and ongoing costs so you can compare like for like." },
     { question: "Is a website builder cheaper than a web designer?", answer: "At the start, usually yes. Over three to five years the subscription, add-ons and your own time can add up, and you typically cannot move the site to another host. A builder suits a small test project. Once your site brings real enquiries, owning a hand-built site with your own hosting often works out better value." },
     { question: "Do I pay VAT on website design?", answer: "A VAT-registered UK supplier adds VAT, which HMRC lists at the standard 20% rate. An overseas supplier does not charge UK VAT. HMRC's VAT Notice 741A explains that UK businesses receiving business services from suppliers outside the UK account for VAT under the reverse charge. Ask your accountant how this applies to you." },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "How much does a website redesign cost?", answer: `A redesign with us usually starts at ${P.site} for a business site and rises with the number of old URLs to redirect and how much content needs rewriting. Keeping your domain and redirecting old pages properly protects search visibility you have already earned. Our website redesign services page covers the process.` },
     { question: "Can you work with my existing hosting and domain?", answer: "Usually, yes. If your hosting is suitable and in your name, we build on it. If it is locked to a previous supplier or too slow for the new site, we explain the options and help you move. You stay in control of the accounts either way." },
     { question: "Will you meet me in person?", answer: "No. We work remotely from India and do not visit clients. Everything happens over video calls, WhatsApp and email, usually in your morning or around lunchtime. If you need on-site photography or an in-person workshop, a local photographer or agency is the better fit for that part." },
-    { question: "What happens after the five free months of maintenance?", answer: `You choose. Our care plan starts at ${P.care} and covers updates, backups, uptime checks and small edits. You can also look after the site yourself or hand it to another developer, because the accounts and code are already yours. Nothing renews automatically without your agreement.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You choose. Our care plan starts at ${P.care} and covers updates, backups, uptime checks and small edits. You can also look after the site yourself or hand it to another developer, because the accounts and code are already yours. Nothing renews automatically without your agreement.` },
   ],
   related: {
     heading: "More UK guides on website and development costs",

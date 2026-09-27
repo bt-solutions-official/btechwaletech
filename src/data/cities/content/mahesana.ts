@@ -7,7 +7,7 @@ const mahesana: CityContent = {
   meta: {
     title: "IT Services in Mahesana: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Mehsana, Unjha, Kadi and Visnagar firms. Static sites start at ₹10,000, with five months of free upkeep.",
+      "Websites, SEO, online stores and WhatsApp automation for Mehsana, Unjha, Kadi and Visnagar firms. Static sites start at ₹10,000, with two months of free upkeep.",
     keywords: [
       "website development team in Mehsana",
       "web design Mehsana",
@@ -31,11 +31,11 @@ const mahesana: CityContent = {
     eyebrow: "Mehsana (Mahesana) · Gujarat",
     h1: "Websites, apps, SEO and AI automation for Mehsana's dairy, GIDC and market-yard businesses",
     lede:
-      "We are three engineers working remotely for businesses across Mehsana district: GIDC fabricators on Modhera Road, spice and isabgol traders in Unjha, ginners in Kadi, schools, hospitals and the many consultancies along Radhanpur Road. Our starting prices are published, you deal with the developers directly, and five months of maintenance after launch cost nothing.",
+      "We are three engineers working remotely for businesses across Mehsana district: GIDC fabricators on Modhera Road, spice and isabgol traders in Unjha, ginners in Kadi, schools, hospitals and the many consultancies along Radhanpur Road. Our starting prices are published, you deal with the developers directly, and two months of maintenance after launch cost nothing.",
     pills: ["Websites from ₹10,000", "Gujarati and English pages", "Supplier sites for GIDC units", "Trader catalogues for Unjha", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For a Mehsana business, a static website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Mehsana office, and the first five months of maintenance are free.",
+    "For a Mehsana business, a static website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Mehsana office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Mehsana district in north Gujarat, about 75 km north of Ahmedabad; a municipal corporation since January 2025" },
     { label: "Dairy", value: "Home of Dudhsagar Dairy, the Mehsana district cooperative milk union and one of Asia's largest dairies by volume handled" },
@@ -52,7 +52,7 @@ const mahesana: CityContent = {
     ai: "WhatsApp flows that answer rate, stock and admission questions in Gujarati or English and hand the tricky ones to you with the full chat.",
     data: "Daily sales, milk-collection or dispatch figures from spreadsheets turned into a phone-friendly dashboard you can read in a minute.",
     app: "Android and iOS apps for order booking, student updates or patient appointments, available on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Content changes, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content changes, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mehsana owners are practical about money. Many have been quoted a “package” by an Ahmedabad agency that bundles features they will never use, or bought a cheap site from a relative that no one can now edit. We publish starting prices, send a written line-by-line quote, and reply on WhatsApp every day of the week.",
@@ -168,7 +168,7 @@ const mahesana: CityContent = {
       paragraphs: [
         "We hear the same story in many towns: a nephew or a small agency built the site, registered the domain under their own email, and then moved to Canada or stopped answering. The business cannot change a phone number, and when the renewal lapses the site vanishes along with its search history.",
         "We avoid that from day one. The domain and hosting are bought in your name, on your email, and at handover you get every password, the full source code and a short note describing how things are set up. If you later choose another developer, you simply give them the logins. There is no exit charge.",
-        "For the first five months after launch, maintenance is free: price and text updates, bug fixes, security patches, backups and uptime and speed monitoring. After that, you can continue from ₹8,000 a month or call us only when something needs changing. The <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
+        "For the first two months after launch, maintenance is free: price and text updates, bug fixes, security patches, backups and uptime and speed monitoring. After that, you can continue from ₹8,000 a month or call us only when something needs changing. The <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const mahesana: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "For five months after launch we cover text and price changes, bug fixes, security updates, backups and uptime checks without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work.",
+        "For two months after launch we cover text and price changes, bug fixes, security updates, backups and uptime checks without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work.",
     },
     {
       question: "Can you make a website for a visa or IELTS consultancy?",

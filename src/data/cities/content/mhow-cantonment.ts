@@ -56,7 +56,7 @@ const mhowCantonment: CityContent = {
     ai: "WhatsApp replies in Hindi and English for room availability, batches, orders and timings, with odd questions passed to staff.",
     data: "Simple dashboards for occupancy, orders and dues that owners can read on a phone.",
     app: "Android and iOS apps for coaching notices, resort bookings or repeat orders, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "No charge for five months after launch, then plans from ₹8,000 a month for updates, backups and security.",
+    maintenance: "No charge for two months after launch, then plans from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "Mhow businesses often hire an Indore agency they rarely hear from after launch, or a local helper who holds the domain password. We offer a plainer arrangement: three engineers you message directly, starting prices on our site, itemised written quotes, and your domain, hosting, code and app accounts registered in your name.",
@@ -195,7 +195,7 @@ const mhowCantonment: CityContent = {
       paragraphs: [
         "In a town where many people move in and out on postings, websites often disappear with the person who made them. A helper registers the domain in his own name, gets transferred or moves to Indore, the renewal lapses and years of reviews and links point nowhere.",
         "We register your domain, hosting, Google accounts and app store developer accounts in your name before design starts. At launch you receive every password, the full source code and a short handover note. If you later move to another developer, there is no exit fee and nothing is held back.",
-        "Maintenance is free for the first five months after launch, covering content and price edits, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can message us only when you need work done. What each build includes is set out on our <a href=\"/services/web-development/\">web development page</a>.",
+        "Maintenance is free for the first two months after launch, covering content and price edits, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can message us only when you need work done. What each build includes is set out on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const mhowCantonment: CityContent = {
     {
       question: "What maintenance do you provide?",
       answer:
-        "Maintenance is free for five months after launch and covers edits, bug fixes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can message us only when something needs changing.",
+        "Maintenance is free for two months after launch and covers edits, bug fixes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can message us only when something needs changing.",
     },
     {
       question: "Do you work with businesses in Indore, Rau, Pithampur and Manpur?",

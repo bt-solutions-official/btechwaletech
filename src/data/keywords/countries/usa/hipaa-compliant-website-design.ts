@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["Custom encrypted intake or portal", `From ${P.software} · 6–12 weeks`],
     ["Where PHI is stored", "Only in services you hold a BAA with"],
     ["Billing", "USD · wire, Wise, PayPal"],
-    ["After launch", `5 months free fixes, then from ${P.care}`],
+    ["After launch", `2 months free fixes, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers, all reachable directly" },
     { value: "0", label: "Ad or analytics tags on pages that collect PHI" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "What makes a website design HIPAA compliant?",
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Approve the PHI flow map", "We document every field, destination, tag and vendor. You and your compliance lead review it, sign BAAs with the chosen vendors and invite us with limited roles."],
       ["Build with dummy data", "Public pages and the secure intake are built in your accounts using test records only. You click through staging builds each week on a call in your morning."],
       ["Pre-launch checks", "We run the launch checklist together: tag scan, notification test, role tests, logging, accessibility and speed. Findings are fixed before any patient sees the site."],
-      ["Launch and hand over", "You receive the flow map, tag inventory, vendor list and admin guide. Free fixes run for five months, then optional care plans start at the listed monthly price."],
+      ["Launch and hand over", "You receive the flow map, tag inventory, vendor list and admin guide. Free fixes run for two months, then optional care plans start at the listed monthly price."],
     ],
   },
   faqHeading: "HIPAA compliant website design: questions US practices ask",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a team in India from the US?", answer: "You receive an itemised quote in USD and pay approved milestones by bank wire, Wise or PayPal. Invoices come from India. Your accountant can advise how to record them; we do not give tax advice. Nothing is billed before you approve the quote in writing." },
     { question: "What time are calls with your team?", answer: "Most calls happen in your morning. India is nine and a half hours ahead of US Eastern time in summer and ten and a half in winter, so an 8:30 a.m. Eastern call is early evening for us. West Coast practices usually take early calls, and WhatsApp messages get replies seven days a week." },
     { question: "Who owns the website, hosting and data?", answer: "Your practice. You register the domain, open the cloud and form accounts, sign the BAAs with those vendors and invite us with limited access. The code goes into a repository you own. At the end we hand over documentation and remove our access, so patient data never sits in accounts outside your control." },
-    { question: "What happens after launch?", answer: `Fixes are free for five months after launch. After that, care plans start at ${P.care} and cover security patches, dependency updates, monthly form tests and a review of logs and tags, since new marketing tools have a habit of creeping onto pages they should not be on. You can also take maintenance in-house using the handover pack.` },
+    { question: "What happens after launch?", answer: `Fixes are free for two months after launch. After that, care plans start at ${P.care} and cover security patches, dependency updates, monthly form tests and a review of logs and tags, since new marketing tools have a habit of creeping onto pages they should not be on. You can also take maintenance in-house using the handover pack.` },
   ],
   related: {
     heading: "Related pages for US healthcare websites",

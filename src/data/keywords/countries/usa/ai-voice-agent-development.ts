@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: AI and cloud, full-stack, delivery" },
     { value: "2", label: "Working days to an itemized voice agent estimate" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Markup from us on your per-minute provider bills" },
   ],
   answer: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What AI voice agent development costs with us",
-    note: `A pilot voice agent with one number, one script, calendar booking and call summaries to email or your CRM starts from ${P.ai} and takes 2–4 weeks. Agents with several call flows, multiple locations, an admin dashboard for editing answers and reviewing calls, or deep CRM and help desk integration start from ${P.software}. Running costs are separate: phone numbers, call minutes, speech recognition, voice generation and model usage are billed per minute by each provider directly to your accounts. After 5 free months of maintenance, care starts from ${P.care}.`,
+    note: `A pilot voice agent with one number, one script, calendar booking and call summaries to email or your CRM starts from ${P.ai} and takes 2–4 weeks. Agents with several call flows, multiple locations, an admin dashboard for editing answers and reviewing calls, or deep CRM and help desk integration start from ${P.software}. Running costs are separate: phone numbers, call minutes, speech recognition, voice generation and model usage are billed per minute by each provider directly to your accounts. After 2 free months of maintenance, care starts from ${P.care}.`,
   },
   guideLabel: "AI voice agent development guide for US businesses",
   guide: [
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Stack and accounts", "Twilio, Vapi or Retell chosen for your needs, with every account created under your business. A test number is set up and connected to test calendars."],
       ["Build and internal testing", "Integrations, summaries and dashboards built, then run through a scenario test set covering accents, noise, confusion and requests for a human."],
       ["Staff trial and cost check", "Your team calls the agent for several days. We fix issues from transcripts and report measured cost per call before going live."],
-      ["Launch and weekly review", "Real calls routed in stages, often after-hours first. Weekly transcript reviews and adjustments continue through five months of free maintenance."],
+      ["Launch and weekly review", "Real calls routed in stages, often after-hours first. Weekly transcript reviews and adjustments continue through two months of free maintenance."],
     ],
   },
   faqHeading: "AI voice agent development: questions from US business owners",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "How do you test a voice agent before launch?", answer: "We build a test set of scenarios from your real call types, including accents, background noise, callers who change their minds and people who want a human. Your staff then call for several days while we review every transcript and fix problems. Real calls are routed in stages, often after-hours calls first." },
     { question: "Why hire a team in India for AI voice agent development?", answer: "Cost and direct access to the people who build and tune the agent. A small freelance team has low overhead, and you talk to the developers, not account managers. Time zones help too: we review the previous day's transcripts overnight and send changes before your business day starts. The trade-off is no in-person meetings." },
     { question: "How do we pay from the US?", answer: "Quotes are in US dollars, paid by bank wire, Wise or PayPal against the milestones in your written quote. Nothing is billed before you approve the estimate. Provider usage is billed separately by each provider to your own accounts. Invoices come from India; ask your accountant how to record them." },
-    { question: "What support is included after launch?", answer: `Five months of free maintenance follow launch, covering fixes, prompt and script adjustments from call reviews, and dependency updates. After that, care starts from ${P.care} if you want us to continue. New call flows or integrations are quoted separately. Specific terms are agreed in your written quote.` },
+    { question: "What support is included after launch?", answer: `Two months of free maintenance follow launch, covering fixes, prompt and script adjustments from call reviews, and dependency updates. After that, care starts from ${P.care} if you want us to continue. New call flows or integrations are quoted separately. Specific terms are agreed in your written quote.` },
   ],
   related: {
     heading: "Related AI and software services for US businesses",

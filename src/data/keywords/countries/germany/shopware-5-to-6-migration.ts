@@ -35,12 +35,12 @@ const content: FreelanceContent = {
     ["Shopware 5 security fixes", "Ended July 2024"],
     ["Quote", "Itemised in about 2 working days"],
     ["Accounts", "Shopware account, hosting and repo in your name"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who know your old and new shop" },
     { value: "2", label: "Working days to an itemised migration quote" },
-    { value: "5", label: "Months of free maintenance after cutover" },
+    { value: "2", label: "Months of free maintenance after cutover" },
     { value: "0", label: "Middleman fees on your payments" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Rebuilt by hand", value: "Theme, shipping costs, shopping worlds, product streams, email templates" },
       { label: "Plugins", value: "Audited, then replaced, rebuilt as extensions or retired" },
       { label: "Project cost", value: `From ${P.shop}, 4–8 weeks` },
-      { label: "After cutover", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After cutover", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Replatform instead", note: "If Shopify or WooCommerce fits you better, we move the data there instead.", href: "/germany/shopify-developer/", size: "md" },
       { name: "ERP and DATEV links", note: "Interfaces that fed Shopware 5 reconnected to Shopware 6.", href: "/germany/datev-api-integration/", size: "sm" },
       { name: "Checkout law re-check", note: "Order button, legal pages and withdrawal function tested again.", href: "/germany/eu-withdrawal-button/", size: "sm" },
-      { name: "Post-launch care", note: `Five free months, then updates from ${P.care}.`, size: "sm" },
+      { name: "Post-launch care", note: `Two free months, then updates from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a Shopware 5 to 6 migration cost?",
       paragraphs: [
-        `With BtechWaleTech, a Shopware 5 to 6 migration starts at ${P.shop}. Heavier custom plugin rebuilds are priced as custom software from ${P.software}, and maintenance after five free months starts at ${P.care}.`,
+        `With BtechWaleTech, a Shopware 5 to 6 migration starts at ${P.shop}. Heavier custom plugin rebuilds are priced as custom software from ${P.software}, and maintenance after two free months starts at ${P.care}.`,
         `Across the market, migration quotes differ widely because two shops that look alike from the front can differ enormously behind it. Compare quotes by asking each bidder for the same breakdown: data migration and test runs, plugin decisions with a cost per plugin, theme scope, Shopping Experiences, shipping and payment setup, redirect map and testing, and post-launch support.`,
         `Costs you pay directly, outside our quote: Store extension licences, any paid Shopware plan, and hosting. We list recommended extensions with their vendors so you can budget them before approving.`,
       ],
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
         ["Heavy plugin, portal or ERP rebuild", `From ${P.software}`, "6–12 weeks", "Business rules, integrations"],
         ["Replatform to Shopify or WooCommerce", `From ${P.shop}`, "4–8 weeks", "Custom data migration, app choices"],
         ["SEO monitoring after cutover", `From ${P.seo}`, "Ongoing", "Catalogue size, lost-page fixes"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Ongoing", "Extension count, update rhythm"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Ongoing", "Extension count, update rhythm"],
       ],
       hideSm: [3],
     },
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Install and run the first migration", "Shopware 6 goes onto hosting in your name, the Migration Assistant runs, and we review data issues with you before any theme work."],
       ["Rebuild what cannot move", "Plugins, theme, Shopping Experiences, shipping rules and payment setup are rebuilt on staging while we refresh data with repeat runs."],
       ["Test, redirect, cut over", "Test orders, legal checks and the full 301 map, then a final delta migration and domain switch in your quietest trading window."],
-      ["Watch and maintain", `We monitor orders and Search Console closely after launch, fix issues free for five months, then offer care from ${P.care}.`],
+      ["Watch and maintain", `We monitor orders and Search Console closely after launch, fix issues free for two months, then offer care from ${P.care}.`],
     ],
   },
   faqHeading: "Shopware 5 to 6 migration questions",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "How do I pay for the migration?", answer: "Quotes are in USD, and you pay in USD or EUR by Wise or bank wire per milestone, each tied to progress on the staging shop. Invoices come from India. How you book them in Germany is for your Steuerberater to advise; we do not give tax advice." },
     { question: "Who owns the new Shopware 6 shop?", answer: "You do. The Shopware account, any plan licence, Store extensions, hosting, domain and Git repository are in your company’s name, with us added as users. At handover you receive all logins, the plugin code, the redirect map, and a list of every extension with its licence holder." },
     { question: "Do we need to re-check German checkout law after migrating?", answer: "Yes. A new theme can change button labels and page layouts. We re-test the order button wording required under § 312j (3) BGB, the pre-order summary, legal page links, the withdrawal function required by § 356a BGB, and cookie consent. Your lawyer confirms the legal texts themselves." },
-    { question: "What support do we get after cutover?", answer: `For five months after cutover, fixes, extension updates and small changes are free, and we watch orders and Search Console closely in the first weeks. After that, maintenance starts at ${P.care}. You can take the shop to another developer whenever you like, since everything is in your accounts.` },
+    { question: "What support do we get after cutover?", answer: `For two months after cutover, fixes, extension updates and small changes are free, and we watch orders and Search Console closely in the first weeks. After that, maintenance starts at ${P.care}. You can take the shop to another developer whenever you like, since everything is in your accounts.` },
     { question: "What do you not do on migration projects?", answer: "We do not visit your premises, write native German marketing copy, provide legal advice on terms or withdrawal texts, act as a certified Shopware partner, or run large programmes with many parallel teams. If your project needs those, we will say so early and help you plan around it." },
   ],
   related: {
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Still on Shopware 5? Get a migration quote with a plugin-by-plugin plan",
-    note: `Send your shop URL and plugin list on WhatsApp. Within about two working days you get an itemised quote with a decision for every plugin, migrations from ${P.shop}, every account in your name and five months of free maintenance after cutover.`,
+    note: `Send your shop URL and plugin list on WhatsApp. Within about two working days you get an itemised quote with a decision for every plugin, migrations from ${P.shop}, every account in your name and two months of free maintenance after cutover.`,
   },
 };
 

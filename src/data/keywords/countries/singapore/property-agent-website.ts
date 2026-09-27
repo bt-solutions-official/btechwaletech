@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "5", label: "CEA identity details planned into the site footer and header" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Leads shared with a portal or with us" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Compliance support", value: "CEA identity block, owner-consent note, PDPA and DNC wording" },
       { label: "Starting price", value: `From ${P.site}; project-heavy sites from ${P.seoSite}` },
       { label: "Timeline", value: "1–2 weeks for a personal site, 3–5 weeks for a large one" },
-      { label: "After launch", value: `Five free months, then care from ${P.care}` },
+      { label: "After launch", value: `Two free months, then care from ${P.care}` },
     ],
   },
   services: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Property agent website pricing in Singapore",
-    note: `A single agent's site with five to fifteen pages, a valuation form and a viewing form usually fits the static plan from ${P.site}. Teams that want an estate guide for every town, pages for each new launch they market and a searchable library move into the SEO website plan from ${P.seoSite}. A lead dashboard with assignment rules for a team of co-brokers is custom software from ${P.software}. Monthly SEO starts at ${P.seo}; after five free months, upkeep starts at ${P.care}. All figures are starting prices in USD; the written quote itemises every page and form before any work is billed.`,
+    note: `A single agent's site with five to fifteen pages, a valuation form and a viewing form usually fits the static plan from ${P.site}. Teams that want an estate guide for every town, pages for each new launch they market and a searchable library move into the SEO website plan from ${P.seoSite}. A lead dashboard with assignment rules for a team of co-brokers is custom software from ${P.software}. Monthly SEO starts at ${P.seo}; after two free months, upkeep starts at ${P.care}. All figures are starting prices in USD; the written quote itemises every page and form before any work is billed.`,
   },
   guideLabel: "Property agent website guide",
   guide: [
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a two-person team in Punggol and Sengkang wants more seller appointments from HDB upgraders. This is a hypothetical scenario to show how a property agent website in Singapore comes together, not a past client.`,
         `We would propose eight core pages plus one guide for each of the two towns, a block-level valuation form using public resale records, a viewing form, and a joint identity block showing both salespersons' names and registration numbers and the agency's name and licence number. Leads would arrive in a shared inbox with WhatsApp alerts to both phones and a note of which form and which consent wording each lead used.`,
-        `Timeline: about two weeks for the core site, then two guides a week if they want to cover neighbouring towns. Starting cost follows the static plan from ${P.site}; if the guide library grows past the plan's limit, it moves to the SEO website plan. After launch, five months of free maintenance cover fixes and small edits.`,
+        `Timeline: about two weeks for the core site, then two guides a week if they want to cover neighbouring towns. Starting cost follows the static plan from ${P.site}; if the guide library grows past the plan's limit, it moves to the SEO website plan. After launch, two months of free maintenance cover fixes and small edits.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       heading: "How do you keep a property agent website in Singapore up to date?",
       paragraphs: [
         `Plan a short monthly routine: remove or mark expired listings, update the “last updated” date on any market commentary, add one piece of content, and review Search Console for errors. CEA's guidelines suggest a notation such as “General market information on this website was last updated on” a stated date for market information, and we build that date into the template.`,
-        `The first five months after launch are covered by free maintenance: bug fixes, small copy changes and security updates. After that, care plans start at ${P.care}. If you change agency, tell us the new details and the identity block is updated across the site. For deeper changes, see our note on <a href='/singapore/website-maintenance/'>website maintenance in Singapore</a>.`,
+        `The first two months after launch are covered by free maintenance: bug fixes, small copy changes and security updates. After that, care plans start at ${P.care}. If you change agency, tell us the new details and the identity block is updated across the site. For deeper changes, see our note on <a href='/singapore/website-maintenance/'>website maintenance in Singapore</a>.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Identity and consent drafts", "We draft the CEA identity block, form consent wording and privacy notice for you and your agency's compliance lead to review and correct."],
       ["Build on real content", "Pages are built with your photos and text, forms connected to a test inbox, and a staging link shared so you can check it on your phone."],
       ["Test and launch", "We test every form, check speed on mobile data, connect Search Console and analytics under your account, then switch the domain over."],
-      ["Five months of care", "Free fixes, small edits and security updates for five months, then an optional care plan. Your logins and code are handed over at launch."],
+      ["Two months of care", "Free fixes, small edits and security updates for two months, then an optional care plan. Your logins and code are handed over at launch."],
     ],
   },
   faqHeading: "Property agent website in Singapore: frequently asked questions",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Can I get WhatsApp alerts for new leads?", answer: "Yes. New enquiries can trigger a WhatsApp or email notification to your phone within seconds, with a link to the full lead record. We keep the record itself in your database so nothing important lives only in a chat history, and so your consent records stay complete." },
     { question: "How do I pay for a website built from India?", answer: "Quotes and invoices are in USD and come from India. You can pay by Wise or bank wire; SGD transfers through Wise are common. Payment terms and milestones are set out in your written quote before work starts. For your own tax treatment of the invoice, check with your accountant." },
     { question: "Do you sign contracts or NDAs?", answer: "The scope, milestones and ownership terms are set out in your written quote, and you can ask for any extra clauses you need before approving it. Our general terms are on the terms page. If your agency needs a specific confidentiality document, send it with your brief and we will discuss it." },
-    { question: "What does maintenance cost after the website launches?", answer: `The first five months after launch include free maintenance: bug fixes, small text changes and security updates. After that, care plans start at ${P.care} and cover updates, backups, uptime checks and routine edits such as refreshing listings or updating your agency details.` },
+    { question: "What does maintenance cost after the website launches?", answer: `The first two months after launch include free maintenance: bug fixes, small text changes and security updates. After that, care plans start at ${P.care} and cover updates, backups, uptime checks and routine edits such as refreshing listings or updating your agency details.` },
     { question: "Can you also build an app for my property team?", answer: `We build Android and iOS apps from ${P.app}, but most agents do not need one. A fast mobile website with WhatsApp contact does the job for clients. An app makes more sense for a larger team's internal tools, such as viewing schedules or lead handling, and we would talk that through before quoting.` },
     { question: "Can my website appear in AI search answers?", answer: "AI search tools quote pages that answer questions clearly and name their sources. We structure your guides with question headings, short direct answers, dated market notes and an author box that links each article to you and your CEA details. That improves your chances of being cited, though no one controls what an AI tool chooses to quote." },
   ],

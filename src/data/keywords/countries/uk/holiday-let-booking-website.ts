@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Multi-property platform from", P.software],
     ["Booking fee we take", "None, ever"],
     ["Typical build", "2–8 weeks by option"],
-    ["Care plan", `From ${P.care} after 5 free months`],
+    ["Care plan", `From ${P.care} after 2 free months`],
   ],
   stats: [
     { value: "0", label: "Commission to us on any stay" },
     { value: "3", label: "Ways to build the booking engine" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "What does a holiday let website with booking system cost in the UK?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Cottage search visibility", note: `Property and area pages built for searches such as “dog friendly cottage Northumberland”, with monthly SEO from ${P.seo}.`, href: "/uk/local-seo-services/", size: "md" },
       { name: "Guest messages", note: `Arrival instructions, key-safe codes and a checkout reminder by email or WhatsApp, automated from ${P.ai}.`, href: "/uk/whatsapp-business-api-integration/", size: "sm" },
       { name: "Consent-aware tracking", note: "A cookie banner that keeps advertising tags off until the guest agrees, set up in line with ICO guidance.", href: "/uk/gdpr-cookie-banner-setup/", size: "sm" },
-      { name: "Care plan", note: `Price updates, software patches and calendar checks from ${P.care}, once the five free months end.`, href: "/uk/website-maintenance-cost/", size: "sm" },
+      { name: "Care plan", note: `Price updates, software patches and calendar checks from ${P.care}, once the two free months end.`, href: "/uk/website-maintenance-cost/", size: "sm" },
     ],
   },
   comparison: {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a couple own two converted barns near Coniston, sleeping four and six, both listed on Airbnb and one on Booking.com. About a third of each year's guests are people who stayed before. They want those returning guests booking direct, without paying for a channel manager.`,
         `The build: an own-engine holiday let website with booking system from ${P.shop}. Each barn gets a property page with a floor plan, dog policy, parking notes and a walking guide. Stay rules: Friday changeovers in July and August, three-night minimum at other times, short-break discounts in winter. The price includes cleaning. Deposit is 30% at booking, with a balance payment link sent eight weeks before arrival and chased automatically.`,
-        `iCal connects both barns to Airbnb and the larger one to Booking.com, with a re-check at checkout and an alert if a feed goes quiet. Returning guests receive a code by email, where they agreed to marketing. After launch the couple edits prices themselves; care after the five free months runs from ${P.care}. This is an illustration of a typical scope, not a past client.`,
+        `iCal connects both barns to Airbnb and the larger one to Booking.com, with a re-check at checkout and an alert if a feed goes quiet. Returning guests receive a code by email, where they agreed to marketing. After launch the couple edits prices themselves; care after the two free months runs from ${P.care}. This is an illustration of a typical scope, not a past client.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Agree the booking rules", "We write your stay rules, seasonal bands, deposit and balance terms into a short document you sign off, so the engine enforces exactly what you intend."],
       ["Review on a preview link", "You test the calendar, prices and checkout on your own phone while we build property pages. Feedback goes in the shared board, not scattered emails."],
       ["Connect and test", "Platform feeds or channel manager linked, card payments tested with real refunds, confirmation and arrival emails checked, consent banner and Search Console set up."],
-      ["Launch and look after it", "The site goes live, we watch feeds closely for two weeks, and fixes are free for five months. After that, optional care starts at the maintenance plan."],
+      ["Launch and look after it", "The site goes live, we watch feeds closely for two weeks, and fixes are free for two months. After that, optional care starts at the maintenance plan."],
     ],
   },
   faqHeading: "Holiday let booking website questions",
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Can AI tools like ChatGPT recommend my holiday cottage?", answer: "They can only describe what they can read and trust. We write clear facts on each property page (location, sleeps, dog policy, parking, nearby walks) and keep details consistent with your Google profile and listings. That makes your cottage easier to cite in AI answers, but no one can control or promise what those tools say." },
     { question: "Is a remote team in India a good fit for a UK holiday let website?", answer: "It suits owners comfortable working by call, message and shared documents. The working day overlaps from late UK morning, we reply on WhatsApp seven days a week, and quotes come in USD payable from a GBP account. We never visit properties, so you supply photos and details or use a local photographer you trust." },
     { question: "How do I pay a developer in India from the UK?", answer: "Invoices are issued from India in USD. UK clients pay from a GBP account by Wise, bank wire or PayPal, against milestones set out in the written quote you approve. Nothing is billed before that approval. Your own accountant can advise on how the payments are treated in your books." },
-    { question: "What happens after my holiday let website launches?", answer: "We monitor calendar feeds closely for the first two weeks and fix any bugs free for five months after launch. After that, an optional care plan starts from our maintenance price and covers updates, security patches, feed checks and small content changes. Specific terms are set out in your written quote." },
+    { question: "What happens after my holiday let website launches?", answer: "We monitor calendar feeds closely for the first two weeks and fix any bugs free for two months after launch. After that, an optional care plan starts from our maintenance price and covers updates, security patches, feed checks and small content changes. Specific terms are set out in your written quote." },
     { question: "Can you add a booking system to my existing cottage website?", answer: "Often, yes. If your current site is on WordPress or a static host, we can add a booking engine or embed your channel manager's widget without rebuilding everything. If the site is slow or hard to edit, a rebuild may cost less over time. We look at it first and explain the options honestly in the quote." },
     { question: "Do you handle holiday lets for other owners, like a small letting agency?", answer: "Yes, as a custom platform. It can include owner logins with their bookings and statements, housekeeping schedules, commission calculations for the owners you manage, and a public site listing all properties with one search. These builds start at the custom web app price and are scoped carefully before any quote." },
     { question: "Do guests need to accept cookies to book?", answer: "No. Cookies strictly necessary for the booking to work are exempt from consent under ICO guidance. Advertising, remarketing and most analytics tags are not, so our banner keeps them switched off until the guest agrees. The booking works whether or not they accept optional cookies." },

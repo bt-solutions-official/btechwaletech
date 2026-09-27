@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["App build with MongoDB from", `${P.software} · ${P.softwareUsd}`],
-    ["Ongoing database care", `From ${P.care} after 5 free months`],
+    ["Ongoing database care", `From ${P.care} after 2 free months`],
     ["Stacks", "Node.js, Python, MERN, Flutter"],
     ["Hosting", "MongoDB Atlas or your own servers"],
     ["Quote", "Itemised in about 2 working days"],
@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers on each engagement" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free care after launch" },
+    { value: "2", label: "Months of free care after launch" },
     { value: "0", label: "Marketplace fees added to your bill" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "First thing we look at", value: "Your slowest queries and how the app reads data" },
       { label: "Hosting options", value: "MongoDB Atlas, or self-managed on cloud servers" },
       { label: "New app with MongoDB", value: `From ${P.software}, 6–12 weeks` },
-      { label: "Ongoing care", value: `5 months free, then from ${P.care}` },
+      { label: "Ongoing care", value: `2 months free, then from ${P.care}` },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
       { label: "You keep", value: "Cluster, database users, code and backups" },
     ],
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What you pay when you hire a MongoDB developer",
-    note: `Database work is priced by the problem, not the hour. A new app with MongoDB underneath starts at ${P.software} (${P.softwareUsd}), because the database is designed along with the API and screens. A slow-query rescue or security review is quoted after we see the profiler output and collection sizes, since one missing index and a badly shaped data model are very different jobs. Ongoing care, meaning index reviews, backup checks, version upgrades and alerts, starts at ${P.care} once the five free months after launch end. Your Atlas or cloud bill is paid by you to the provider. Every quote is itemised and nothing is billed before you approve it in writing.`,
+    note: `Database work is priced by the problem, not the hour. A new app with MongoDB underneath starts at ${P.software} (${P.softwareUsd}), because the database is designed along with the API and screens. A slow-query rescue or security review is quoted after we see the profiler output and collection sizes, since one missing index and a badly shaped data model are very different jobs. Ongoing care, meaning index reviews, backup checks, version upgrades and alerts, starts at ${P.care} once the two free months after launch end. Your Atlas or cloud bill is paid by you to the provider. Every quote is itemised and nothing is billed before you approve it in writing.`,
   },
   guideLabel: "Guide to hiring a MongoDB developer",
   guide: [
@@ -238,7 +238,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does it cost to hire a MongoDB developer in India?",
       paragraphs: [
-        `With BtechWaleTech, a new app with MongoDB as its database starts at ${P.software} (${P.softwareUsd} abroad) and takes 6–12 weeks; ongoing database care starts at ${P.care} after five free months. Audits and rescues are quoted after we see your data.`,
+        `With BtechWaleTech, a new app with MongoDB as its database starts at ${P.software} (${P.softwareUsd} abroad) and takes 6–12 weeks; ongoing database care starts at ${P.care} after two free months. Audits and rescues are quoted after we see your data.`,
         `Market quotes for MongoDB work vary widely. What really moves a figure: data volume and how many collections are involved, how far the current model is from what the app needs, whether a live migration must happen without downtime, the number of reports and pipelines, and whether hosting, backups and security are in scope. Hourly contracts look cheaper per hour but are open-ended; a scoped quote tells you the total before you start.`,
         `Your hosting bill is separate and paid directly to MongoDB Atlas or your cloud provider. Right-sizing that bill, by fixing indexes rather than buying bigger tiers, is often the quickest return on hiring a specialist.`,
       ],
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "New build", text: `A full app with MongoDB designed alongside the API and screens, from ${P.software}. Suits startups and businesses replacing spreadsheets.` },
         { heading: "Rescue", text: "A scoped fix: profile, find the worst queries, fix model and indexes, measure. Quoted after we see profiler data and collection stats." },
-        { heading: "Care", text: `After five free months post-launch, monthly checks on slow queries, indexes, backups, alerts and version upgrades, from ${P.care}.` },
+        { heading: "Care", text: `After two free months post-launch, monthly checks on slow queries, indexes, backups, alerts and version upgrades, from ${P.care}.` },
       ],
       after: [
         `Whatever the engagement, the output includes a written data model, the index list with reasons, and a backup and restore runbook, so knowledge does not leave with any single developer.`,
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
         ["Online store with MongoDB catalogue", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["AI search or automation on your data", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Slow-query rescue or security review", "Itemised after audit", "Itemised after audit", "Scoped in the quote"],
-        ["Monthly database care (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Monthly database care (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -396,12 +396,12 @@ const content: FreelanceContent = {
       ["Agree the data model or fix list", "We write the proposed documents, indexes or changes in plain English, with the expected effect, and you approve before anything changes."],
       ["Change safely", "Index builds, migrations and reshaping run on staging first, then production during a quiet window, with a backup taken and restore path ready."],
       ["Measure and hand over", "We compare explain output and response times before and after, then deliver the data model document, index list and backup runbook."],
-      ["Five months of free care", `We watch slow queries, backups and alerts for five months after launch. Monthly care after that starts at ${P.care}, only if you want it.`],
+      ["Two months of free care", `We watch slow queries, backups and alerts for two months after launch. Monthly care after that starts at ${P.care}, only if you want it.`],
     ],
   },
   faqHeading: "Hire MongoDB developer: frequently asked questions",
   faqs: [
-    { question: "How much does it cost to hire a MongoDB developer in India?", answer: `It depends on the work. With BtechWaleTech, a new app with a MongoDB database starts at ${P.software}, a mobile app backed by MongoDB at ${P.app}, and monthly database care at ${P.care} after five free months. Slow-query rescues and security reviews are quoted after we see your data. Hosting is billed separately by Atlas or your cloud provider.` },
+    { question: "How much does it cost to hire a MongoDB developer in India?", answer: `It depends on the work. With BtechWaleTech, a new app with a MongoDB database starts at ${P.software}, a mobile app backed by MongoDB at ${P.app}, and monthly database care at ${P.care} after two free months. Slow-query rescues and security reviews are quoted after we see your data. Hosting is billed separately by Atlas or your cloud provider.` },
     { question: "What skills should a MongoDB developer have?", answer: "Look for document modelling (knowing when to embed and when to reference), compound indexing following the equality-sort-range guideline, reading explain plans, writing aggregation pipelines, and running a secure cluster with access control, TLS and tested backups. Experience with the driver or ODM your app uses, such as Mongoose or PyMongo, matters too." },
     { question: "Should I hire a MongoDB developer full time or freelance?", answer: "Hire full time if database work fills most of every week. For a new build, a performance rescue, or regular monthly checks, a freelance developer or small team is usually more economical and quicker to start. Whichever you choose, insist on documentation so knowledge stays with your business." },
     { question: "How do I fix slow MongoDB queries?", answer: "Find the slowest query shapes using the profiler or Atlas Query Profiler, run explain with executionStats on each, and compare documents examined with documents returned. A big gap usually means a missing or badly ordered index. Add a compound index in equality-sort-range order, re-run explain, and measure again. Also check for unbounded arrays and large documents." },

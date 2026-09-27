@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI assistants that answer product and appointment questions in Manglish or English and qualify leads before staff call.",
     data: "Dashboards for dealer sales, stock, dues and branch performance across Malabar towns.",
     app: "Android and iOS apps for Kozhikode dealers, shoppers, patients and students, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Five free months of fixes, backups and updates after launch, then plans from ₹8,000 a month.",
+    maintenance: "Two free months of fixes, backups and updates after launch, then plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kozhikode business runs on trust and quick replies. Owners here tell us they want someone who answers the phone on Sunday, writes the price down, and does not vanish after launch. We are three engineers who publish starting prices, share a live staging link and hand over every login.",
@@ -250,7 +250,7 @@ const content: CityContent = {
       id: "maintenance-support-kozhikode",
       heading: "Maintenance and support after launch",
       paragraphs: [
-        "Every BtechWaleTech project includes five months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
+        "Every BtechWaleTech project includes two months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
         "We answer on WhatsApp seven days a week. See our <a href='/it-services/kerala/'>Kerala IT services page</a>, read <a href='/about/'>about us</a> or <a href='/contact/'>send your requirement</a>.",
       ],
     },
@@ -258,7 +258,7 @@ const content: CityContent = {
       "id": "running-costs-kozhikode",
       "heading": "What does a website, store or app cost to run in Kozhikode after launch?",
       "paragraphs": [
-        "After launch, a Kozhikode business pays for four things that keep running: the domain renewal every year, hosting or cloud usage every month, any third-party services such as WhatsApp Business API conversations or SMS, and upkeep once our five free months of maintenance end. A small brochure site on static hosting can cost very little to keep alive, while a dealer app with a database, push notifications and daily backups needs a proper monthly cloud bill.",
+        "After launch, a Kozhikode business pays for four things that keep running: the domain renewal every year, hosting or cloud usage every month, any third-party services such as WhatsApp Business API conversations or SMS, and upkeep once our two free months of maintenance end. A small brochure site on static hosting can cost very little to keep alive, while a dealer app with a database, push notifications and daily backups needs a proper monthly cloud bill.",
         "Apps add store fees. Google Play charges a one-time developer registration, and the Apple Developer Program is billed every year, both paid by you so the listings stay in your name. A store also pays the payment gateway's per-transaction fee, which is deducted by the gateway, not by us. Meta charges for WhatsApp Business API conversations according to its own published rates, so a Valiyangadi wholesaler sending dues reminders to hundreds of retailers should budget for that separately.",
         "We write all of this into the quote as a running-cost table, with who bills each item and roughly when it renews. After the free period, our upkeep plans start at ₹8,000 a month, and a shop that rarely changes anything can instead pay per change. The point is simple: the build price on our <a href='/pricing/'>pricing page</a> is only half the picture, and a Kozhikode owner should know the other half before signing."
       ],
@@ -267,7 +267,7 @@ const content: CityContent = {
         "Hosting or cloud: monthly, scales with users and data",
         "App stores: one-time Google Play fee, yearly Apple fee",
         "Gateway and WhatsApp API: usage-based, billed by those providers",
-        "Upkeep: free for five months, then from ₹8,000 a month or per change"
+        "Upkeep: free for two months, then from ₹8,000 a month or per change"
       ]
     },
     {
@@ -311,7 +311,7 @@ const content: CityContent = {
     { question: "Do you build Android and iOS apps for Kozhikode dealers and shops?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. We build once in Flutter or React Native, with login, catalogues, orders, push notifications and an admin panel, and publish on Google Play and the App Store in your name." },
     { question: "Can the website and app be in Malayalam?", answer: "Yes. We build in Malayalam, English or both, with fonts that render properly on phones, and chat automation understands Manglish. A native speaker on your side should review final Malayalam text." },
     { question: "Who owns the store, code and domain?", answer: "You do. The domain, hosting, repository, app store accounts and payment gateway are in your name. At handover you receive credentials and documentation so another developer can take over without our permission." },
-    { question: "What is included after launch?", answer: "Five months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
+    { question: "What is included after launch?", answer: "Two months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
     { question: "How soon will local SEO bring customers in Kozhikode?", answer: "Usually three to six months for steady local results, sometimes sooner for less competitive services. Pages index within weeks, but map rankings build with reviews and consistent details. We never guarantee positions." },
     { question: "Can AI reply to customers in Manglish?", answer: "Yes. AI assistants can understand and reply to Manglish, Malayalam and English messages on WhatsApp or your website, answering routine questions and passing leads to staff. Projects start at ₹40,000 and take two to four weeks." },
     { question: "Can you connect dealer software with Tally?", answer: "Usually yes. We check whether your Tally setup supports integration or scheduled exports and tell you in writing what syncs automatically. Invoices and dues usually connect well; complex custom Tally setups may need a manual step." },

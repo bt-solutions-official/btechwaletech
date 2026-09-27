@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks for up to 100 pages"],
     ["Theme licence fees", "None: the design is written for you"],
     ["Plugins to renew", "None needed for a static site"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Ownership", "Domain, hosting and source code in your name"],
   ],
   stats: [
     { value: "100", label: "Pages included in the static site plan" },
     { value: "0", label: "Theme or page-builder licences to renew" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Custom WordPress theme", note: "If your team must edit in WordPress, we write a slim theme for your design instead of loading a multipurpose one.", href: "/custom-wordpress-theme-development/", size: "md" },
       { name: "Speed rescue for theme sites", note: "Not ready to rebuild? We trim plugins, compress images and fix Core Web Vitals on the theme you have.", href: "/wordpress-speed-optimization/", size: "sm" },
       { name: "Web app on top", note: `Bookings, logins, calculators or portals that no theme covers, from ${P.software}.`, href: "/web-application-developer/", size: "sm" },
-      { name: "Maintenance", note: `Five months free after launch, then from ${P.care} for updates, backups and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Two months free after launch, then from ${P.care} for updates, backups and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -84,7 +84,7 @@ const content: FreelanceContent = {
     columns: ["Point", "Premium theme on WordPress", "DIY website builder", "Custom build by BtechWaleTech"],
     rows: [
       ["Upfront cost", "Theme is cheap; setup, plugins and content work add up", "Low monthly plan to start", `From ${P.site} for a custom static site`],
-      ["Recurring cost", "Theme support, premium plugins, page-builder licence, hosting", "Plan fee every month or year, rising with features", `Hosting only; maintenance from ${P.care} after 5 free months`],
+      ["Recurring cost", "Theme support, premium plugins, page-builder licence, hosting", "Plan fee every month or year, rising with features", `Hosting only; maintenance from ${P.care} after 2 free months`],
       ["Look and feel", "Same demo layouts as many other buyers", "Shared builder templates", "Layout drawn for your business"],
       ["Page weight", "Carries code for features you never use", "Builder scripts on every page", "Only the code your pages need"],
       ["Core Web Vitals on budget phones", "Often needs tuning to pass", "Limited control", "Built and tested against them from day one"],
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Custom website vs template: what each route costs you",
-    note: `Price the whole three years, not the theme. On the template side, list the theme, any premium plugins for forms, sliders, SEO or caching, the page-builder licence, the hours someone spends setting it up and fixing clashes after updates, and a redesign when the look dates. On our side, a custom static site starts at ${P.site} and has no licence renewals; a store starts at ${P.shop}; anything with logins or workflows starts at ${P.software}. Hosting is a cost for both routes. After five free months, maintenance starts at ${P.care} if you want it. The quote you get is itemised within about two working days, and nothing is billed until you approve it in writing.`,
+    note: `Price the whole three years, not the theme. On the template side, list the theme, any premium plugins for forms, sliders, SEO or caching, the page-builder licence, the hours someone spends setting it up and fixing clashes after updates, and a redesign when the look dates. On our side, a custom static site starts at ${P.site} and has no licence renewals; a store starts at ${P.shop}; anything with logins or workflows starts at ${P.software}. Hosting is a cost for both routes. After two free months, maintenance starts at ${P.care} if you want it. The quote you get is itemised within about two working days, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "Custom website vs template guide",
   guide: [
@@ -141,7 +141,7 @@ const content: FreelanceContent = {
         "<strong>Redesign:</strong> themes date quickly, and many owners rebuild within two or three years",
       ],
       after: [
-        `On the custom side, the lines are shorter: the build (from ${P.site} for a static site), hosting, and optional maintenance from ${P.care} after five free months. A static custom site has no theme or plugin licences at all. We keep this honest in the table further down, and our <a href='/website-ka-yearly-kharcha/'>yearly website cost breakdown</a> covers hosting and domain renewals for both routes.`,
+        `On the custom side, the lines are shorter: the build (from ${P.site} for a static site), hosting, and optional maintenance from ${P.care} after two free months. A static custom site has no theme or plugin licences at all. We keep this honest in the table further down, and our <a href='/website-ka-yearly-kharcha/'>yearly website cost breakdown</a> covers hosting and domain renewals for both routes.`,
       ],
     },
     {
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
         ["Plugins and builder", "Premium plugins and page-builder licences, often yearly", "None for a static site"],
         ["Fixes after updates", "Paid hours when updates clash", "No plugin updates to clash"],
         ["Speed tuning", "Often needed to pass Core Web Vitals", "Built in during development"],
-        ["Maintenance", "Your time or a paid helper", `5 months free, then from ${P.care}`],
+        ["Maintenance", "Your time or a paid helper", `2 months free, then from ${P.care}`],
         ["Redesign", "Common within two to three years", "Layout can be refreshed in place"],
       ],
     },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Approve a layout first", "We design the home page and one inner page and share them on a staging link, so you judge the look before the rest is coded."],
       ["Build lean and test on phones", "We code only what the pages need, size images for mobile screens and check Core Web Vitals on a mid-range Android phone."],
       ["Launch with redirects", "If you are leaving a theme site, every old URL is mapped and redirected, the sitemap is submitted and Search Console is watched after launch."],
-      ["Hand over and support", "Code, domain and hosting stay in your name. You get five months of free maintenance, then optional support from the maintenance plan."],
+      ["Hand over and support", "Code, domain and hosting stay in your name. You get two months of free maintenance, then optional support from the maintenance plan."],
     ],
   },
   faqHeading: "Custom website vs template: common questions",

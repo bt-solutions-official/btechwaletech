@@ -34,13 +34,13 @@ const content: FreelanceContent = {
     ["Large accessible content site", `From ${P.seoSite}`],
     ["Accessible online store", `From ${P.shop}`],
     ["Build target", "WCAG 2.2 Level AA"],
-    ["After launch", `5 free months, then care from ${P.care}`],
+    ["After launch", `2 free months, then care from ${P.care}`],
     ["Calls", "US Eastern mornings, which are IST evenings"],
   ],
   stats: [
     { value: "3", label: "Developers who build and test your site" },
     { value: "2", label: "Working days to an itemized quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Media and documents", note: "Captions and transcripts for video and audio, and accessible HTML in place of scanned PDFs wherever possible.", size: "md" },
       { name: "Accessibility statement", note: "A plain-language page naming the standard, known limitations, how to request help in another format and a contact that someone actually answers.", size: "md" },
       { name: "Accessible redesigns", note: "Rebuilds that keep your URLs and rankings while replacing inaccessible templates.", href: "/usa/website-redesign-services/", size: "sm" },
-      { name: "Ongoing checks", note: `Monthly scans and spot checks of new content after the five free months, from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing checks", note: `Monthly scans and spot checks of new content after the two free months, from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show the process. Imagine a family-run furniture store in Columbus, Ohio, with a showroom, a catalog of about 300 products and a delivery booking form. Their current theme uses a mega-menu that cannot be opened with a keyboard, product photos have no alt text and the booking form marks required fields in red only.`,
         `Our scan and keyboard check show most issues come from the theme, so a rebuild makes sense. The plan: an accessible design system, a keyboard-operable menu, product templates with alt text written from the product data, accessible filters and variant pickers, a checkout tested with VoiceOver on iPhone and NVDA on Windows, a delivery booking form with proper labels and errors, and a statement listing one known limitation (a third-party financing widget) with a phone alternative.`,
-        `An accessible store like this starts at ${P.shop}. The store’s attorney reviews the statement, and five months of free fixes cover issues found as staff add new products. That is the whole scenario; it is illustrative, not a past project.`,
+        `An accessible store like this starts at ${P.shop}. The store’s attorney reviews the statement, and two months of free fixes cover issues found as staff add new products. That is the whole scenario; it is illustrative, not a past project.`,
       ],
     },
     {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Agree templates and journeys", "We list every template and the key tasks to test, such as booking, buying and contacting, and flag third-party tools that may need replacing."],
       ["Build accessibly", "Design system and components built to WCAG 2.2 AA as the target, tested with keyboard and screen readers as each part is finished."],
       ["Test and document", "Full pass with automated tools, keyboard, zoom, NVDA, VoiceOver and TalkBack. Findings fixed, known issues listed, statement drafted."],
-      ["Launch and hand over", "Test notes, editor guide and statement delivered, accounts in your name, and five months of free fixes begin."],
+      ["Launch and hand over", "Test notes, editor guide and statement delivered, accounts in your name, and two months of free fixes begin."],
     ],
   },
   faqHeading: "ADA compliant website design: questions US businesses ask",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "What are the Title II web accessibility deadlines?", answer: "DOJ’s 2024 Title II rule set WCAG 2.1 AA for state and local governments. After an April 2026 extension published in the Federal Register, entities serving 50,000 or more people must comply by April 26, 2027, and smaller entities and special districts by April 26, 2028." },
     { question: "Can a team in India build an ADA compliant website for a US business?", answer: "Yes. WCAG is an international standard, the testing tools and screen readers are the same everywhere, and we share recordings of test passes so you can see results. We work by WhatsApp and calls in your morning, quote in USD, accept Wise, wire or PayPal, and invoice from India." },
     { question: "Do you provide a VPAT or accessibility audit report?", answer: "We provide detailed test notes listing what we tested, on which devices and browsers, and what we fixed or could not fix. A formal VPAT or third-party audit is best prepared by a specialist firm when procurement or legal matters require one; our notes give them the technical detail they need." },
-    { question: "Will my website stay accessible after launch?", answer: `Only if new content follows the same rules. We hand over an editor guide covering alt text, headings, link text, color and captions, and set up the editor to make good choices easy. After five free months, optional monthly checks start at ${P.care} to catch problems in new pages.` },
+    { question: "Will my website stay accessible after launch?", answer: `Only if new content follows the same rules. We hand over an editor guide covering alt text, headings, link text, color and captions, and set up the editor to make good choices easy. After two free months, optional monthly checks start at ${P.care} to catch problems in new pages.` },
     { question: "Can mobile apps be ADA compliant too?", answer: `Yes. Apps should support screen readers (VoiceOver and TalkBack), dynamic text sizing, sufficient contrast and adequately sized touch targets. DOJ’s Title II rule covers mobile apps of public entities. Accessible iOS and Android apps built with Flutter or React Native start at ${P.app}.` },
     { question: "Who owns the accessible website and test records?", answer: "You do. The domain, hosting, code, test notes and accessibility statement belong to your business, and you hold the admin logins. We work as added users you can remove after launch, and any future developer receives the full test history to keep the site accessible." },
   ],

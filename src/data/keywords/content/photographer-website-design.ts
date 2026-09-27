@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Image delivery", "AVIF and WebP in several widths"],
     ["Speed target", "LCP 2.5 s or less on a mid-range phone"],
     ["Quote turnaround", "Itemised, about 2 working days"],
-    ["Aftercare", "5 months free, then optional"],
+    ["Aftercare", "2 months free, then optional"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Monthly builder subscription on a custom site" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Client delivery", value: "Private galleries with PIN, favourites and download limits" },
       { label: "Starting price", value: `From ${P.site}; galleries and bookings quoted as add-ons` },
       { label: "Timeline", value: "1–2 weeks for a portfolio site, about 3 with proofing" },
-      { label: "After launch", value: `5 months free care, then from ${P.care}` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Ranking for city searches", "Possible with manual work", "Profiles rarely rank for “photographer in city”", "Venue, city and category pages with schema"],
       ["Ongoing cost", "Monthly or yearly subscription", "Free, plus ad spend", `One-time build from ${P.site}, hosting in your name`],
       ["Leaving the platform", "Design and galleries stay behind", "Followers stay on the app", "Code, images and domain move with you"],
-      ["Who makes changes", "You, in the editor", "You, by posting", "Free for 5 months, then optional care"],
+      ["Who makes changes", "You, in the editor", "You, by posting", "Free for 2 months, then optional care"],
     ],
     fine: "A hosted builder is a sensible choice if you are just starting and want to edit everything yourself; a custom build pays off when you have steady enquiries and want faster pages, better leads and no lock-in.",
   },
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
         { heading: "Days 10–14: Checks and launch", text: "Speed tests, form tests, Search Console, sitemap and Google Business Profile link. The domain points to the new site and the old one redirects properly." },
       ],
       after: [
-        `After launch, five months of maintenance are free; your written quote lists what that covers, such as fixes and small updates. For how long a general site takes, see <a href='/how-long-to-build-a-website/'>how long to build a website</a>.`,
+        `After launch, two months of maintenance are free; your written quote lists what that covers, such as fixes and small updates. For how long a general site takes, see <a href='/how-long-to-build-a-website/'>how long to build a website</a>.`,
       ],
     },
     {
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
         ["Print, album or preset store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Photographers selling products online"],
         ["Lead follow-up automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Studios drowning in WhatsApp enquiries"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Venue pages, stories, Search Console"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "New stories, updates, backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "New stories, updates, backups"],
       ],
       hideSm: [2],
     },
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Review a live preview", "We build on a private link so you judge the galleries on your own phone, on mobile data, the way couples and brand managers will."],
       ["Add stories and packages", "Stories, captions, packages and SEO text go in. You mark changes by screenshot or voice note, and the updated preview follows on the agreed schedule."],
       ["Launch with checks", "Speed, forms, redirects, Search Console, sitemap and Google Business Profile link are all tested before the domain switches over."],
-      ["Keep it fresh", "Maintenance is free for five months after launch, with the scope written into your quote; after that, optional care starts at the maintenance plan price."],
+      ["Keep it fresh", "Maintenance is free for two months after launch, with the scope written into your quote; after that, optional care starts at the maintenance plan price."],
     ],
   },
   faqHeading: "Photographer website design: questions photographers ask",
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "Can you redesign my existing photography website without losing Google traffic?", answer: "Yes. We list every existing URL, keep the ones that already get traffic, and set up permanent redirects for pages that move. Image filenames and alt text are improved, not thrown away. After launch we watch Search Console for errors. Some fluctuation for a few weeks is normal after any redesign, and we explain what we see." },
     { question: "Can I update galleries myself after launch?", answer: "Yes, if you want to. We can add a simple upload form or a lightweight content editor so you can add a story, a gallery or a new package without touching code. You can also send new selections to us; small updates like this during the five free maintenance months are covered as your quote describes." },
     { question: "How do I pay, and is there a written contract?", answer: "You get an itemised written quote listing pages, galleries, features and timeline, and nothing is billed until you approve it. Photographers in India pay by UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal in USD. Anything specific, such as change requests or confidentiality, is agreed in your written quote, with general conditions on our terms page." },
-    { question: "What happens after the five months of free maintenance?", answer: `Nothing changes automatically. You can keep the site running on your own hosting with no further payment to us, or choose optional care from ${P.care} for new stories, updates, backups and small changes. Because you own the code and accounts, you are free to hire anyone else later.` },
+    { question: "What happens after the two months of free maintenance?", answer: `Nothing changes automatically. You can keep the site running on your own hosting with no further payment to us, or choose optional care from ${P.care} for new stories, updates, backups and small changes. Because you own the code and accounts, you are free to hire anyone else later.` },
     { question: "Photographer ki website banwane me kitna time aur kharcha lagta hai?", answer: `Ek simple photography portfolio website, jisme galleries, packages aur date wala enquiry form ho, usually ek se do hafte me ban jaati hai aur ${P.site} se start hoti hai. Client proofing gallery ya print selling add karne par time aur kharcha dono badhte hain. Quote itemised milta hai, lagbhag do working days me.` },
   ],
   related: {
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a photographer website design that brings dated enquiries, not just likes?",
-    note: `Send us your best galleries and your packages on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain and files in your name and five months of free care after launch.`,
+    note: `Send us your best galleries and your packages on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain and files in your name and two months of free care after launch.`,
   },
 };
 

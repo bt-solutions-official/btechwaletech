@@ -56,7 +56,7 @@ const narnaul: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rate, availability, admission and timing questions and pass real decisions to you.",
     data: "Dashboards of daily truck trips, material sold, fleet earnings, coaching admissions and dealer outstanding, readable on a phone.",
     app: "Android and iOS apps for transporters to log trips or coaching centres to share tests and results, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "The first five months after go-live cost nothing to maintain; after that, upkeep for a Narnaul site or app is ₹8,000 a month onwards.",
+    maintenance: "The first two months after go-live cost nothing to maintain; after that, upkeep for a Narnaul site or app is ₹8,000 a month onwards.",
   },
   whyUsIntro:
     "Narnaul traders run on cash, credit and long memory, and they have little patience for vague answers. So our starting rates are public, every quote is itemised on paper, WhatsApp messages get a reply even on Sundays, and the domain, server, source code and store listings sit under your name, never ours.",
@@ -105,7 +105,7 @@ const narnaul: CityContent = {
         "Our apps are written once in Flutter or React Native and run on both Android phones and iPhones. For a Narnaul client that usually means OTP login, a screen listing batches, products or services, a booking or order flow, push alerts and a back-office panel for staff. Pricing begins at ₹40,000, and the finished app goes live on Google Play and the Apple App Store through developer accounts you own.",
         "The strongest cases here are coaching centres that share tests, results and schedules with the same students all year; transporters with drivers who need to log trips; distributors with a steady list of retailers across Mahendragarh and Rewari districts; and hospitals or labs whose patients want reports on their phones. In each case the same people come back again and again.",
         "If your customers usually contact you once, a fast website and a WhatsApp button will do the job for much less. A sweet shop, a tent house or a lawyer rarely needs an app. We will say that clearly rather than sell you one.",
-        "Publishing is part of our job: store listings in Hindi and English, screenshots, privacy policy, submission and handling any review problems. Five months of free maintenance follow launch. The full scope is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "Publishing is part of our job: store listings in Hindi and English, screenshots, privacy policy, submission and handling any review problems. Two months of free maintenance follow launch. The full scope is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
     {
@@ -185,7 +185,7 @@ const narnaul: CityContent = {
       heading: "Ownership, handover and maintenance for Narnaul clients",
       paragraphs: [
         "In district towns we often hear of owners who lost their site when a freelancer, holding the domain personally, stopped picking up the phone. That cannot happen with our setup. Domain registration, server, Git repository, Business Profile and Play and App Store listings all belong to you or your firm; we only get user access.",
-        "For five months after launch, fixes, minor text or photo changes and security patches are free. From month six, a care plan begins at ₹8,000 a month, covering backups, version updates, uptime watching and minor edits. Cancel it whenever you like, and whoever takes over gets every password and our written notes.",
+        "For two months after launch, fixes, minor text or photo changes and security patches are free. From month three, a care plan begins at ₹8,000 a month, covering backups, version updates, uptime watching and minor edits. Cancel it whenever you like, and whoever takes over gets every password and our written notes.",
         "For software, we write simple documentation so a new accountant or another developer can take over. Records of trips, bills and fees are part of your business history and should never depend on one vendor.",
       ],
     },
@@ -228,7 +228,7 @@ const narnaul: CityContent = {
     {
       question: "Which is the best IT services team in Narnaul for a small business?",
       answer:
-        "“Best” depends less on size than on a few checks: is the domain in your name, is the quote itemised and written, and what happens after launch? We are three remote engineers who publish starting rates and include five free months of upkeep. Hold any Narnaul or Rewari option to the same checks before you decide.",
+        "“Best” depends less on size than on a few checks: is the domain in your name, is the quote itemised and written, and what happens after launch? We are three remote engineers who publish starting rates and include two free months of upkeep. Hold any Narnaul or Rewari option to the same checks before you decide.",
     },
     {
       question: "How long does it take to build a website in Narnaul?",
@@ -263,7 +263,7 @@ const narnaul: CityContent = {
     {
       question: "What does maintenance cost after the website is live?",
       answer:
-        "Nothing for the first five months after launch; bug fixes, minor edits and security patches are included. From the sixth month a care plan is available at ₹8,000 a month onwards, covering backups, updates and uptime checks. It is optional, and you may cancel it and run things yourself.",
+        "Nothing for the first two months after launch; bug fixes, minor edits and security patches are included. From the third month a care plan is available at ₹8,000 a month onwards, covering backups, updates and uptime checks. It is optional, and you may cancel it and run things yourself.",
     },
     {
       question: "Can you build a website and app for a coaching centre in Narnaul?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks in stages"],
     ["Quote", "Line-by-line, in roughly 2 working days"],
     ["Service proof", "Photos, GPS stamp, customer signature or OTP"],
-    ["Post-launch", "5 months of maintenance at no charge"],
+    ["Post-launch", "2 months of maintenance at no charge"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days until your detailed quote" },
-    { value: "5", label: "Months free maintenance once live" },
+    { value: "2", label: "Months free maintenance once live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "AMC management software pricing",
-    note: `The AMC management software panel, covering contracts, assets, renewals, visit planning, tickets and billing, starts at ${P.software}. The technician Android app starts at ${P.app}, and a customer app or portal can be added later. What moves the figure: the number of equipment types with their own checklists, branches or franchise dealers, van stock for technicians, a customer-facing portal, and how messy the existing contract data is. Renewal and reminder automation on WhatsApp can also be scoped separately from ${P.ai}. Launch is followed by 5 months of free maintenance, then support from ${P.care}. Cloud and message costs are billed to your accounts directly.`,
+    note: `The AMC management software panel, covering contracts, assets, renewals, visit planning, tickets and billing, starts at ${P.software}. The technician Android app starts at ${P.app}, and a customer app or portal can be added later. What moves the figure: the number of equipment types with their own checklists, branches or franchise dealers, van stock for technicians, a customer-facing portal, and how messy the existing contract data is. Renewal and reminder automation on WhatsApp can also be scoped separately from ${P.ai}. Launch is followed by 2 months of free maintenance, then support from ${P.care}. Cloud and message costs are billed to your accounts directly.`,
   },
   guideLabel: "AMC management software guide",
   guide: [
@@ -238,7 +238,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything we build for you is registered to your business: the code repository, the cloud server and database, and the Google Play and Apple developer accounts that carry the technician or customer app. Google Play charges a one-time US$25 registration and Apple charges US$99 a year for its developer programme, both paid directly by you.`,
         `AMC data is personal data at scale: names, phone numbers, home addresses and sometimes photos taken inside homes. India’s Digital Personal Data Protection Act, 2023 sets duties for businesses handling such data, so the system collects only what service and billing need, restricts access by role, keeps an audit trail of changes and lets you delete or export a customer’s records on request. Technicians see only the addresses on today’s visits, not the whole customer list. Your own lawyer should confirm how the Act applies to your business. Backups run daily inside your cloud account, and photos from inside homes are kept only as long as you decide.`,
-        `At handover you get admin access, a written guide for coordinators and technicians, and a recorded walkthrough. The first 5 months after launch include free maintenance; after that, support is agreed in your written quote. Read our <a href='/terms/'>terms</a> for how engagements work.`,
+        `At handover you get admin access, a written guide for coordinators and technicians, and a recorded walkthrough. The first 2 months after launch include free maintenance; after that, support is agreed in your written quote. Read our <a href='/terms/'>terms</a> for how engagements work.`,
       ],
     },
     {
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Renewal and reminder automation", "WhatsApp templates, payment links, lapsed follow-ups", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
         ["AMC plan website", "Plan pages, starting prices, lead form into the system", `${P.site} · ${P.siteUsd}`, "1–2 weeks"],
         ["Local search growth", "Google Business Profile, reviews, service pages", `${P.seo} · ${P.seoUsd} a month`, "Ongoing"],
-        ["Support after launch", "Fixes and updates after the free period", `${P.care} · ${P.careUsd}`, "After 5 free months"],
+        ["Support after launch", "Fixes and updates after the free period", `${P.care} · ${P.careUsd}`, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Data template and screen drafts", "Your team fills our machine-level import sheet while we draft the contract, renewal, visit and report screens using your real checklists and wording."],
       ["Renewals go live first", "Contracts are imported and the renewal ladder starts protecting revenue, while coordinators get used to the register before field work moves across."],
       ["Technicians move to the app", "Checklists, photos, signatures and offline sync go live with a small group first, then the whole team once the first week’s reports look right."],
-      ["Handover with 5 free months", "You get code, database and admin access, a written guide and a recorded walkthrough, plus 5 months of free maintenance after launch."],
+      ["Handover with 2 free months", "You get code, database and admin access, a written guide and a recorded walkthrough, plus 2 months of free maintenance after launch."],
     ],
   },
   faqHeading: "AMC management software: questions service businesses ask",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Can customers raise complaints by scanning a QR code?", answer: "Yes. A QR sticker on each machine opens a short complaint form that already knows the unit, site and contract, so the customer only describes the fault. The ticket checks cover and warranty, starts the response-time clock and notifies the coordinator, and the customer receives WhatsApp updates when a technician is assigned and on the way." },
     { question: "Does the software track technician location?", answer: "It records location at key moments, such as arriving at and leaving a visit, which proves attendance and helps with route planning. Continuous live tracking is optional and should be discussed with your team first. For full sales-team style tracking with beats and check-ins, see our salesman tracking app page; most AMC firms only need visit-level stamps, which are simpler and less intrusive for staff." },
     { question: "Can we give business customers a portal?", answer: "Yes. Facility managers and office admins can log in to see covered machines, upcoming visits, past signed reports and invoices, and raise complaints without calling. Many commercial clients value this archive because they must prove to auditors or management that equipment was maintained, and it makes renewal conversations easier. Access is limited to the sites each login is allowed to see." },
-    { question: "What does maintenance cost once the software is live?", answer: `The first 5 months after launch include free maintenance for bug fixes and small adjustments. After that, support starts at ${P.care}, covering updates and changes such as new checklists or a phone OS update. Hosting, WhatsApp and payment charges are separate and billed straight to your own accounts. Specific terms are agreed in your written quote.` },
+    { question: "What does maintenance cost once the software is live?", answer: `The first 2 months after launch include free maintenance for bug fixes and small adjustments. After that, support starts at ${P.care}, covering updates and changes such as new checklists or a phone OS update. Hosting, WhatsApp and payment charges are separate and billed straight to your own accounts. Specific terms are agreed in your written quote.` },
     { question: "Will the software help renewals for commercial contracts with POs?", answer: "Yes. For commercial clients the renewal ladder can generate a PDF quotation with the new price, record when it was sent, track follow-ups and capture the purchase order number and date once received. Household customers usually get a simpler WhatsApp message with a UPI payment link instead, and both types appear on the same expiry dashboard." },
     { question: "Can the technician app be in Hindi or other languages?", answer: "Yes. Labels, buttons and checklists can appear in Hindi, Gujarati, Tamil, Marathi or another language your technicians prefer, while office screens and reports stay in English if you like. You supply or approve the translated wording, and we check that long labels still fit on the small, budget phone screens many technicians carry." },
     { question: "Is AMC management software worth it for a small service firm?", answer: "It depends on contract count and leakage. With a few dozen contracts and one technician, a well-kept spreadsheet and WhatsApp may be enough, and we will say so. Once you have hundreds of contracts, several technicians or renewals slipping past expiry, the software usually pays back through recovered renewals, billed parts and fewer disputed visits." },

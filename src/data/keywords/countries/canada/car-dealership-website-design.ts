@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Custom dealer tools", `From ${P.software}`],
     ["Build time", "3–5 weeks for an inventory site"],
     ["Price display", "All-in format with your province's wording"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting your site" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance from launch" },
+    { value: "2", label: "Months of free maintenance from launch" },
     { value: "0", label: "Per-vehicle or per-lead fees from us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Leads", value: "Finance application, trade-in request, test drive booking, vehicle enquiries" },
       { label: "Price", value: `Inventory sites from ${P.seoSite}; showcase sites from ${P.site}` },
       { label: "Paying from Canada", value: "USD quote; Wise, wire or PayPal from a CAD account" },
-      { label: "Upkeep", value: `5 months free, then care from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then care from ${P.care}` },
     ],
   },
   services: {
@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["All-in pricing wording", "Settings you must configure", "Marketplace's own fields", "Built into every price display for your province"],
       ["VDP search visibility", "Varies with template", "Marketplace ranks, not you", "Unique titles, schema and sold-car handling"],
       ["Lead ownership", "Yours, via the platform", "Marketplace owns the first contact", "Straight to your CRM or inbox"],
-      ["Monthly cost", "Subscription for as long as you use it", "Listing packages", `Care optional from ${P.care} after 5 free months`],
+      ["Monthly cost", "Subscription for as long as you use it", "Listing packages", `Care optional from ${P.care} after 2 free months`],
       ["Custom tools", "Limited to add-ons", "None", `Custom tools from ${P.software}`],
       ["Switching later", "Content export varies", "Nothing to move", "Domain, code and data already yours"],
       ["Support", "Ticket queue", "Marketplace support", "Three developers on WhatsApp"],
@@ -202,7 +202,7 @@ const content: FreelanceContent = {
         "Custom internal tools such as reconditioning or appraisal boards",
       ],
       after: [
-        `Running costs are yours: hosting, your feed provider's charges and any marketplace packages. After five free months, care starts at ${P.care}. For general figures across business types, read the <a href='/canada/website-design-cost/'>Canadian website cost guide</a>.`,
+        `Running costs are yours: hosting, your feed provider's charges and any marketplace packages. After two free months, care starts at ${P.care}. For general figures across business types, read the <a href='/canada/website-design-cost/'>Canadian website cost guide</a>.`,
       ],
     },
     {
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Parts shop", "Dealers selling accessories", "Online store with card and wallet checkout", `${P.shop}`],
         ["Lead assistant", "After-hours enquiries", "Vehicle Q&A and test drive booking", `${P.ai}`],
         ["Custom dealer tools", "Multi-lot or busy recon", "Appraisal, reconditioning or finance-desk boards", `${P.software}`],
-        ["Care plan", "After 5 free months", "Feed monitoring, updates, fixes", `${P.care}`],
+        ["Care plan", "After 2 free months", "Feed monitoring, updates, fixes", `${P.care}`],
       ],
     },
   ],
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Can you add service booking and parts sales?", answer: `Yes. Service booking forms, parts enquiry pages and service specials fit into most builds. An online parts or accessories store with card and wallet checkout is quoted on the ecommerce plan from ${P.shop}. Service pages also help local search for repair and maintenance queries.` },
     { question: "What happens to sold vehicles on the website?", answer: "We treat them deliberately. By default, a sold vehicle's page stays live briefly marked as sold with similar vehicles below, then redirects to the matching model search. That keeps shoppers moving and avoids thousands of error pages. The timing is a setting you can change." },
     { question: "Can AI help answer shopper questions after hours?", answer: `Yes, from ${P.ai}. An assistant reads your live inventory to answer questions about specific vehicles, books test drives and collects trade-in details. It does not negotiate price, discuss credit approval or make promises, and it passes anything unusual to your sales team in the morning.` },
-    { question: "What maintenance does a dealer website need?", answer: `Feed monitoring, software updates, form tests, pricing setting reviews when fees change, and new model pages. The first five months after launch are free. After that, care starts at ${P.care}, or you can use the handover notes to manage it in-house or with another developer.` },
+    { question: "What maintenance does a dealer website need?", answer: `Feed monitoring, software updates, form tests, pricing setting reviews when fees change, and new model pages. The first two months after launch are free. After that, care starts at ${P.care}, or you can use the handover notes to manage it in-house or with another developer.` },
     { question: "Do you photograph cars or visit dealerships?", answer: "No. We work remotely and do not visit lots or take photos. Your team photographs vehicles as it already does for marketplaces, and the site optimises and orders those images automatically. We can share a simple shot list that tends to improve VDP engagement." },
   ],
   related: {

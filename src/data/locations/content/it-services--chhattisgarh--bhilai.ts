@@ -37,10 +37,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Bhilai for quotation systems, contractor tools, B2B sites and apps",
     lede:
       "BtechWaleTech is a freelance group of three engineers who build software for Bhilai remotely: estimating and quotation tools for Hathkhoj fabricators, manpower and billing systems for plant maintenance contractors, B2B websites with proper RFQ forms, coaching apps, AI agents, dashboards and Android and iOS apps. You deal directly with the developers, and starting prices are published before you ask.",
-    pills: ["Quotation and RFQ software", "Contractor manpower and bills", "B2B websites from ₹10,000", "Android and iOS apps from ₹40,000", "5 months free maintenance"],
+    pills: ["Quotation and RFQ software", "Contractor manpower and bills", "B2B websites from ₹10,000", "Android and iOS apps from ₹40,000", "2 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Bhilai firms from ₹10,000 for a B2B website, ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, and ₹60,000 for quotation, contractor or custom software (six to twelve weeks). We are a freelance group of three remote engineers in India, with five months of maintenance free after launch.",
+    "BtechWaleTech's freelance software developers build for Bhilai firms from ₹10,000 for a B2B website, ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, and ₹60,000 for quotation, contractor or custom software (six to twelve weeks). We are a freelance group of three remote engineers in India, with two months of maintenance free after launch.",
   snapshot: [
     { label: "Anchor industry", value: "SAIL's Bhilai Steel Plant, one of India's largest integrated steel plants and a leading maker of rails" },
     { label: "Supplier clusters", value: "Heavy Industrial Area at Hathkhoj, the Light Industrial Area and Engineering Park, with fabrication, machining, foundry and structural units" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that read RFQs and purchase orders, draft quotation line items for review, and answer routine WhatsApp enquiries in Hindi.",
     data: "Dashboards showing quotations sent and won, jobs in progress, bills pending with each customer and manpower cost per site.",
     app: "Android and iOS apps from ₹40,000 for Bhilai site supervisors, coaching students and patients, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Fixes, backups, updates and monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Fixes, backups, updates and monitoring, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Bhilai suppliers usually know exactly what slows them down: quotations that take two days, bills stuck for missing papers, enquiries lost in WhatsApp. They rarely want a large ERP. As a freelance group of three engineers, we build the specific tool, explain it in Hindi and remain reachable on WhatsApp after go-live.",
@@ -206,7 +206,7 @@ const content: CityContent = {
       id: "maintenance-bhilai",
       heading: "Maintenance and IT support for Bhilai after launch",
       paragraphs: [
-        "Maintenance keeps Bhilai software secure, backed up and matched to changing rates, formats and staff. Every BtechWaleTech project includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes such as new quotation fields or bill formats.",
+        "Maintenance keeps Bhilai software secure, backed up and matched to changing rates, formats and staff. Every BtechWaleTech project includes two months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes such as new quotation fields or bill formats.",
         "Afterwards, plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week, and anything blocking quotations, bills or attendance is handled first. Read more <a href='/about/'>about us</a>, or see our <a href='/it-services/chhattisgarh/durg/'>Durg</a> and <a href='/it-services/chhattisgarh/raipur/'>Raipur</a> pages and the <a href='/bhilai-nagar/'>Bhilai city page</a>.",
       ],
     },
@@ -301,7 +301,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after hosting goes live, maintenance is free: bug fixes, security updates, backups, uptime and speed checks, and small changes such as new rates, fields or bill formats. Afterwards, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp seven days a week.",
+        "For two months after hosting goes live, maintenance is free: bug fixes, security updates, backups, uptime and speed checks, and small changes such as new rates, fields or bill formats. Afterwards, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp seven days a week.",
     },
     {
       question: "How soon does SEO work for a Bhilai business?",

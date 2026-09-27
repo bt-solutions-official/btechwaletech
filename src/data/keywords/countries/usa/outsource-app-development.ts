@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Repository", "Your GitHub organisation, from the first commit"],
     ["Demo cadence", "Weekly, US Eastern mornings (IST evenings)"],
     ["Billing", "USD · wire, Wise, PayPal"],
-    ["Support after launch", `5 months free, then from ${P.care}`],
+    ["Support after launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers you speak to directly, no account managers" },
     { value: "1", label: "Demo of working software every week" },
     { value: "2", label: "Working days to a priced, milestone-based estimate" },
-    { value: "5", label: "Months of free fixes once the app is live" },
+    { value: "2", label: "Months of free fixes once the app is live" },
   ],
   answer: {
     heading: "How do you outsource app development safely from the US?",
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       id: "post-launch",
       heading: "Support after you outsource app development",
       paragraphs: [
-        `After launch, you need someone watching crash reports, store reviews and platform updates. We fix issues free for five months after release; after that, care plans start at ${P.care}, or your in-house developer takes over using the handover pack.`,
+        `After launch, you need someone watching crash reports, store reviews and platform updates. We fix issues free for two months after release; after that, care plans start at ${P.care}, or your in-house developer takes over using the handover pack.`,
         `Platforms keep changing. Google's Android developer documentation, for example, says that from August 31, 2026, new apps and app updates must target Android 16 (API level 36) or higher to be submitted to Google Play. Apple regularly updates its App Review Guidelines and required SDK versions. None of this is dramatic, but ignoring it for a year can block an urgent bug fix at the worst moment.`,
         `Support is also where version two begins. Real usage shows which features matter, and the backlog is easier to prioritise with data than with guesses. Many clients who outsource app development for launch continue with small monthly releases once the app finds its users.`,
       ],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to outsource app development?", answer: "For a focused iOS and Android app, expect 6–10 weeks from approved designs to store submission, plus review time. Projects with larger web back offices take 6–12 weeks or more. The estimate arrives in about two working days, and work usually starts within days of approval once your accounts are set up." },
     { question: "How do I pay an outsourced app team in India?", answer: "US clients pay us in USD by bank wire, Wise or PayPal, one accepted milestone at a time. Invoices come from India. Your accountant can advise how to record them and whether any reporting applies to your business; we don't give tax advice." },
     { question: "What happens at the end of an outsourced app project?", answer: "You receive a handover pack: architecture notes, a build and release guide, a credentials inventory, a list of third-party services and costs, a recorded walkthrough and the tasks due over the next year. Someone on your side rebuilds the app from our notes before we remove our access or move to a care plan." },
-    { question: "Do you provide support after the app launches?", answer: `Yes. Fixes are free for five months after launch. After that, care plans start at ${P.care} and cover OS and SDK updates, store policy changes and small improvements. Alternatively, your in-house developer can take over using the handover pack and call us when needed.` },
+    { question: "Do you provide support after the app launches?", answer: `Yes. Fixes are free for two months after launch. After that, care plans start at ${P.care} and cover OS and SDK updates, store policy changes and small improvements. Alternatively, your in-house developer can take over using the handover pack and call us when needed.` },
     { question: "Will you sign our NDA and vendor agreement?", answer: "Send them over and we will review them before you share confidential details. Most standard NDAs are fine. Anything unusual, such as specific liability or insurance requirements, we discuss openly, and the agreed terms are then reflected in your written quote." },
     { question: "Can you work inside our existing Jira or Slack?", answer: "Yes. We join your Jira, Linear, GitHub Projects or Trello board and your Slack or Teams workspace as guests. Using your tools keeps the project history inside your company and makes it easier for your staff to follow along or take over later." },
     { question: "What security steps do you take with our accounts?", answer: "Multi-factor authentication on every account, least-privilege access, separate test and production environments, secrets stored in your vault rather than in chat, and review of every third-party SDK before it ships. At the end, access is removed using a checklist so nothing is left behind." },

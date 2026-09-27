@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["WhatsApp ordering bot from", `${P.ai} · ${P.aiUsd}`],
     ["Typical build", "6–10 weeks for the apps"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building the apps and panel" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-order commission taken by us" },
   ],
   answer: {
@@ -247,7 +247,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The apps are published under your developer accounts, the database runs in your cloud account, and the code sits in a repository you control, from the first day.`,
         `For a tiffin business the subscriber list is the business: people who have eaten your food every day for months, with their addresses, preferences and payment history. On a platform that list is partly someone else's. In your own system you can export it, message it (with consent), and move it to any future tool.`,
-        `At handover you get admin logins, repository access, a short panel guide for kitchen staff and a list of running costs with renewal dates. Five months of maintenance are free after launch, then optional from ${P.care}. Support specifics are written into your quote, and general terms are on the <a href='/terms/'>terms page</a>.`,
+        `At handover you get admin logins, repository access, a short panel guide for kitchen staff and a list of running costs with renewal dates. Two months of maintenance are free after launch, then optional from ${P.care}. Support specifics are written into your quote, and general terms are on the <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
         ["Kitchen and admin panel", "Menu planner, counts, labels, subscribers, billing, reports", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["WhatsApp ordering bot", "Skip, pause, balance and menu on WhatsApp with opt-in", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
         ["Tiffin website", "Plans, areas served, weekly menu, WhatsApp button", `${P.site} · ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", "Updates, fixes, rule changes", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", "Updates, fixes, rule changes", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
       ["Write the rule sheet together", "Skip charges, wallet rules, diet variants, dabba policy and corporate terms go into one document you approve before building starts."],
       ["Test on your phones", "Customer, rider and kitchen tools arrive on test links. Your staff try skipping, counting and routing with dummy customers."],
       ["Run a parallel week", "The panel runs alongside your notebook for a week. We compare counts and bills daily and fix any rule we missed."],
-      ["Launch and hand over", "Customers move over in batches, apps go live under your accounts, access is handed over, and five months of free maintenance begin."],
+      ["Launch and hand over", "Customers move over in batches, apps go live under your accounts, access is handed over, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Tiffin service app development: common questions",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Can the app show Jain, no onion-garlic and other diet options?", answer: "Yes. Dishes carry diet tags in the menu planner, customers set their preference once, and the kitchen count lists each variant separately so the right meal reaches the right person. Labels printed per customer carry the variant too, which prevents the most common packing mistakes." },
     { question: "Can I run a trial plan for new tiffin customers?", answer: "Yes. Short trial plans of a few days can be offered in the app, with a reminder before the trial ends and an automatic move to a full plan if the customer agrees. Referral codes that give both the existing customer and a friend a wallet credit also work well in hostels and offices." },
     { question: "Tiffin service ka app banwane mein kitna kharcha aayega?", answer: `BtechWaleTech ke saath customer aur rider app ${P.app} se shuru hote hain, aur kitchen panel ${P.software} se. Chhoti kitchen pehle WhatsApp bot ${P.ai} se shuru kar sakti hai. Final kharcha plans, wallet, corporate accounts aur routes par depend karta hai, customers ki ginti par nahi. Itemised quote lagbhag do working days mein milta hai.` },
-    { question: "What happens after the tiffin app launches?", answer: `You get five months of free maintenance covering fixes, small rule changes and updates for new Android and iOS versions. After that, maintenance continues from ${P.care} a month if you want it. Menus, prices, cut-offs and holidays are managed by your team from the panel, so day-to-day changes rarely need a developer.` },
+    { question: "What happens after the tiffin app launches?", answer: `You get two months of free maintenance covering fixes, small rule changes and updates for new Android and iOS versions. After that, maintenance continues from ${P.care} a month if you want it. Menus, prices, cut-offs and holidays are managed by your team from the panel, so day-to-day changes rarely need a developer.` },
     { question: "How do payments to BtechWaleTech work?", answer: "Payments are staged against milestones in your written quote. In India you pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed until you approve the itemised estimate in writing. Your customers' payments go to your own payment provider account and never pass through us." },
   ],
   related: {
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Running a tiffin service? Tell us about your kitchen",
-    note: `Send us your plans, cut-offs and daily meal counts on WhatsApp. You will get an itemised quote in about two working days, with apps from ${P.app}, the kitchen panel from ${P.software}, your customer list in your name and five months of free maintenance after launch.`,
+    note: `Send us your plans, cut-offs and daily meal counts on WhatsApp. You will get an itemised quote in about two working days, with apps from ${P.app}, the kitchen panel from ${P.software}, your customer list in your name and two months of free maintenance after launch.`,
   },
 };
 

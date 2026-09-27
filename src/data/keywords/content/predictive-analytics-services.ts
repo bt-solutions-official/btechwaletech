@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "4", label: "Everyday SME predictions we build: churn, dues, leads, reorders" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "3", label: "Freelance developers who build and run it" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Pilot (one prediction)", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Scoring app with logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Where scores appear", value: "CRM field, Google Sheet column, WhatsApp alert or dashboard" },
-      { label: "Retraining and upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Retraining and upkeep", value: `2 months free, then from ${P.care}` },
       { label: "Payment", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
     ],
   },
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Repeat-purchase timing", note: "For shops and distributors: an estimate of when each customer is due to reorder, so reminders go out before they drift to a competitor.", size: "md" },
       { name: "CRM and Sheets delivery", note: "Scores written back to a field in Zoho, a custom CRM or a Google Sheet column on a schedule, with the top reasons for each score.", href: "/freelance-crm-developer/", size: "md" },
       { name: "Scoring dashboard", note: "A simple web view that shows score bands, model health and how predictions compared with what actually happened last month.", href: "/dashboard-developer/", size: "sm" },
-      { name: "Monthly retraining", note: `The model is refreshed on new data and checked against a baseline. Free for 5 months after launch, then from ${P.care}.`, href: "/mis-report-automation/", size: "sm" },
+      { name: "Monthly retraining", note: `The model is refreshed on new data and checked against a baseline. Free for 2 months after launch, then from ${P.care}.`, href: "/mis-report-automation/", size: "sm" },
     ],
   },
   comparison: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Predictive analytics services pricing",
-    note: `Predictive analytics work is priced by scope, not by the hour. A pilot that answers one question, such as which customers are likely to churn this quarter, starts at ${P.ai} and includes the data audit, model, validation report and delivery of scores to one place. A scoring application with user logins, several models, history and dashboards is a custom web app, starting at ${P.software}. Monthly retraining and monitoring are free for 5 months after launch and then start at ${P.care}. The quote lists every item separately, and nothing is billed before you approve it in writing.`,
+    note: `Predictive analytics work is priced by scope, not by the hour. A pilot that answers one question, such as which customers are likely to churn this quarter, starts at ${P.ai} and includes the data audit, model, validation report and delivery of scores to one place. A scoring application with user logins, several models, history and dashboards is a custom web app, starting at ${P.software}. Monthly retraining and monitoring are free for 2 months after launch and then start at ${P.care}. The quote lists every item separately, and nothing is billed before you approve it in writing.`,
   },
   guideLabel: "Predictive analytics services guide",
   guide: [
@@ -173,7 +173,7 @@ const content: FreelanceContent = {
         `Accurate enough to rank customers better than guesswork, not accurate enough to be certain about any one person. That is the honest expectation, and any provider promising near-perfect predictions from SME data is a red flag.`,
         `Plain “accuracy” is also the wrong measure. If 5 of every 100 customers churn, a model that predicts “nobody churns” is 95% accurate and completely useless. We report measures that fit the decision instead: of the 50 customers flagged as highest risk, how many actually left; how much better that is than picking 50 at random; and how many of the real churners were caught.`,
         `Scores also need to mean what they say. The scikit-learn documentation describes a well calibrated classifier as one where, among the samples given a predicted probability close to 0.8, approximately 80% actually belong to the positive class. We check calibration before delivery, because a sales team that is told “80% likely” will act differently from one told “somewhat likely”, and those numbers should be honest.`,
-        `Expect the first version to be modest. Predictions usually improve after two or three retraining cycles as outcomes get logged more carefully, which is one reason the 5 months of free maintenance matter on this kind of project.`,
+        `Expect the first version to be modest. Predictions usually improve after two or three retraining cycles as outcomes get logged more carefully, which is one reason the 2 months of free maintenance matter on this kind of project.`,
       ],
     },
     {
@@ -204,7 +204,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do predictive analytics services cost in India?",
       paragraphs: [
-        `With BtechWaleTech, a pilot for one prediction starts at ${P.ai} (about ${P.aiUsd}) and runs 2–4 weeks once data access is in place. A fuller scoring application, with logins, history, several models and a dashboard, is a custom web app starting at ${P.software}. Upkeep is free for 5 months after launch and starts at ${P.care} after that.`,
+        `With BtechWaleTech, a pilot for one prediction starts at ${P.ai} (about ${P.aiUsd}) and runs 2–4 weeks once data access is in place. A fuller scoring application, with logins, history, several models and a dashboard, is a custom web app starting at ${P.software}. Upkeep is free for 2 months after launch and starts at ${P.care} after that.`,
         `Quotes for predictive analytics services vary widely across the market, and the differences usually come from the same few drivers rather than the model itself.`,
       ],
       list: [
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
         ["One-prediction pilot", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Audit, model, validation report, scheduled scores"],
         ["Pilot plus CRM write-back", `From ${P.ai}`, `From ${P.aiUsd}`, "3–4 weeks", "Scores and reasons in CRM fields"],
         ["Scoring app with logins and dashboard", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Several models, history, user roles, web dashboard"],
-        ["Retraining and monitoring", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 5 free months", "Drift checks, retraining, model health note"],
+        ["Retraining and monitoring", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 2 free months", "Drift checks, retraining, model health note"],
       ],
     },
     {
@@ -400,13 +400,13 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about 2 working days you receive scope, timeline and starting price per item. Nothing is billed until you approve it in writing."],
       ["Build and validate", "Data is cleaned and joined, a baseline is set, and models are tested on a later time period. You see results explained in plain language."],
       ["Deliver the scores", "Predictions flow into your CRM, Google Sheet or WhatsApp summary on a schedule, each with its top reasons and a logged history."],
-      ["Monitor and retrain", "For 5 months free we compare predictions with outcomes, retrain when patterns shift, and hand over documentation you can use with anyone."],
+      ["Monitor and retrain", "For 2 months free we compare predictions with outcomes, retrain when patterns shift, and hand over documentation you can use with anyone."],
     ],
   },
   faqHeading: "Predictive analytics services: frequently asked questions",
   faqs: [
     { question: "What are predictive analytics services?", answer: "Predictive analytics services use a business's historical data to estimate future outcomes for individual customers, leads or invoices, such as the chance of churning, paying late or converting. The service usually covers checking and cleaning the data, building and testing a statistical or machine-learning model, and delivering scores into the tools your team uses, then monitoring and retraining the model as patterns change." },
-    { question: "How much do predictive analytics services cost for a small business in India?", answer: `With BtechWaleTech a pilot that answers one question, such as churn or late-payment risk, starts at ${P.ai} and takes 2–4 weeks after data access. A scoring application with logins, several models and a dashboard starts at ${P.software}. Monthly monitoring and retraining are free for 5 months after launch and then start at ${P.care}. Every quote is itemised before you pay.` },
+    { question: "How much do predictive analytics services cost for a small business in India?", answer: `With BtechWaleTech a pilot that answers one question, such as churn or late-payment risk, starts at ${P.ai} and takes 2–4 weeks after data access. A scoring application with logins, several models and a dashboard starts at ${P.software}. Monthly monitoring and retraining are free for 2 months after launch and then start at ${P.care}. Every quote is itemised before you pay.` },
     { question: "How much data do I need before predictive analytics is worthwhile?", answer: "What matters most is the number of outcomes, not total rows. A few hundred examples of the event you want to predict, such as churned customers or late invoices, over at least twelve months is a sensible starting point. With fewer, a rule-based score built from your team's judgement often works just as well and can be upgraded to a trained model later." },
     { question: "How accurate is predictive analytics for SMEs?", answer: "Good models rank customers or invoices far better than random picking or gut feel, but they are never certain about an individual case. Plain accuracy can mislead when the outcome is rare, so we report how many of the highest-risk cases really happened, how that compares with a simple baseline rule, and whether predicted probabilities match observed rates." },
     { question: "Can you predict customer churn from Tally or billing data alone?", answer: "Often yes. Invoice history shows how often each customer buys, how much and when they last ordered, which are the strongest churn signals for many B2B suppliers and distributors. We agree a churn definition with you, such as no purchase in 90 days, and build features from the vouchers. CRM or support notes can be added later if they improve the model." },
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Does the DPDP Act affect predictive analytics projects?", answer: "India's Digital Personal Data Protection Act, 2023 governs how digital personal data is processed, including notice, consent and purpose, so it is relevant whenever customer records are used. We cannot give legal advice, but we design builds that use minimal personal data, restrict access by role and keep a record of scores and model versions. Ask your counsel to confirm your obligations." },
     { question: "What is the ROI of predictive analytics for a small business?", answer: "ROI depends on the action a score changes. Estimate how many cases the score will touch each month, how many outcomes a better-targeted action can change, and what each saved customer or faster payment is worth in margin or working capital. Compare that with the pilot and upkeep cost. We set up a before-and-after test so the answer comes from your own numbers." },
     { question: "Should I hire a data scientist or use predictive analytics services?", answer: "Hire a full-time data scientist when prediction is central to your business every day and you have steady data work for years. Use an outside team when you need one or two working predictions, clear documentation and ownership, without recruiting. Many SMEs start with a pilot and hire later, using the handed-over code as a starting point." },
-    { question: "Can a predictive model go wrong over time?", answer: "Yes. Models drift when customers, products, prices or credit terms change, so predictions that were sharp last year can become weak. We log every prediction, compare it with what actually happened each month, and retrain or adjust features when performance drops. Retraining is included free for 5 months after launch and is part of paid upkeep afterwards." },
+    { question: "Can a predictive model go wrong over time?", answer: "Yes. Models drift when customers, products, prices or credit terms change, so predictions that were sharp last year can become weak. We log every prediction, compare it with what actually happened each month, and retrain or adjust features when performance drops. Retraining is included free for 2 months after launch and is part of paid upkeep afterwards." },
     { question: "Do you need access to our live systems?", answer: "Not usually. A read-only export or a read-only database user is enough for the audit and the build. For scheduled scoring we set up an automated export or read-only API connection. We avoid admin credentials entirely. If your system cannot export on a schedule, we will suggest the simplest fix before quoting anything that depends on it." },
     { question: "Can predictions trigger WhatsApp reminders automatically?", answer: "Yes, if you want that. A late-payment score can decide when a reminder goes out and how firm it is, and a repeat-purchase estimate can trigger a polite reorder nudge. WhatsApp Business messages to customers follow Meta's template and opt-in rules, so we set up approved templates and keep a human in charge of anything sensitive." },
     { question: "Kya chhote business ke liye predictive analytics sach mein kaam karta hai?", answer: "Haan, agar aapke paas kam se kam ek saal ka saaf record hai, jaise Tally ke invoices, CRM ke leads ya orders ki history. Pehle hum data check karte hain aur batate hain ki model banana sahi hai ya abhi rules se kaam chalana better hai. Pilot 2 se 4 hafte mein ho jata hai aur score aapki Google Sheet ya CRM mein aata hai." },

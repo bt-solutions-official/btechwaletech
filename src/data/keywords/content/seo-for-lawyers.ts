@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on the team" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance on a new site" },
+    { value: "2", label: "Months of free maintenance on a new site" },
     { value: "0", label: "Ranking promises; nobody can guarantee them" },
   ],
   answer: {
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
         ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Firms with many areas and offices"],
         ["Client intake or matter-tracking software", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Firms managing many files"],
         ["Document and email automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Drafting templates, date reminders"],
-        ["Maintenance after the free 5 months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, security"],
+        ["Maintenance after the free 2 months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, security"],
       ],
       hideSm: [2],
     },
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
     { question: "How is SEO for lawyers different from SEO for doctors?", answer: "Both professions have conduct rules restricting self-promotion, so both rely on informational content and factual details. Legal content must track changing statutes and court procedure, and reviews raise solicitation concerns. Medical content is judged on clinical accuracy and patient safety. Our SEO for doctors page covers the medical side." },
     { question: "How did the new criminal laws affect law firm websites?", answer: "The Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Adhiniyam replaced the IPC, CrPC and Evidence Act from 1 July 2024. Criminal law pages written earlier needed updating to the new names and sections, with the old ones mentioned for context. Keeping pages current is part of our monthly work." },
     { question: "Does AI search affect SEO for lawyers?", answer: "AI answers summarise general legal information, so broad questions send fewer clicks. Specific, local and procedural explainers by named advocates, with statutes cited and review dates shown, are the kind of pages AI systems can understand and cite. People who then want an advocate still need a practice to contact." },
-    { question: "Who owns the website and listings?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 are set up in your own accounts, with us added as users. New sites include five months of free maintenance, and ongoing care starts at ${P.care} a month after that.` },
+    { question: "Who owns the website and listings?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 are set up in your own accounts, with us added as users. New sites include two months of free maintenance, and ongoing care starts at ${P.care} a month after that.` },
     { question: "Vakil ki website ka SEO kaise hota hai?", answer: `Vakil ki website par prachar nahi, jaankari honi chahiye: naam, contact, yogyata, practice areas aur kanooni prakriya ki saaf vyakhya. Isse log Google par apni samasya search karke aap tak pahunchte hain, aur Bar Council ke Rule 36 ki soliciting wali pabandi ka dhyan rehta hai. Monthly SEO ${P.seo} se shuru hota hai.` },
   ],
   related: {

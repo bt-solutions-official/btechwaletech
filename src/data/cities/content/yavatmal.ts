@@ -7,7 +7,7 @@ const yavatmal: CityContent = {
   meta: {
     title: "Yavatmal Website Design, SEO & WhatsApp Automation",
     description:
-      "Websites, local SEO, UPI stores and WhatsApp bots for Yavatmal ginners, agri dealers, clinics and Lohara MIDC units. Sites from ₹10,000, 5 months upkeep free.",
+      "Websites, local SEO, UPI stores and WhatsApp bots for Yavatmal ginners, agri dealers, clinics and Lohara MIDC units. Sites from ₹10,000, 2 months upkeep free.",
     keywords: [
       "website development team in Yavatmal",
       "web designer Yavatmal",
@@ -31,11 +31,11 @@ const yavatmal: CityContent = {
     eyebrow: "Yavatmal · Vidarbha, Maharashtra",
     h1: "Web design, local SEO and automation for Yavatmal's cotton trade, clinics and MIDC units",
     lede:
-      "We are a remote team of three engineers who build websites, Marathi-friendly SEO pages, UPI stores and WhatsApp automations for Yavatmal businesses: ginning and pressing units, seed and fertiliser dealers, doctors near the medical college, coaching classes and Lohara MIDC firms. Starting prices are public, and the first five months of maintenance cost nothing.",
+      "We are a remote team of three engineers who build websites, Marathi-friendly SEO pages, UPI stores and WhatsApp automations for Yavatmal businesses: ginning and pressing units, seed and fertiliser dealers, doctors near the medical college, coaching classes and Lohara MIDC firms. Starting prices are public, and the first two months of maintenance cost nothing.",
     pills: ["Websites from ₹10,000", "Marathi, Hindi, English", "Ginning and agri pages", "WhatsApp enquiry bots", "You own the domain"],
   },
   quickAnswer:
-    "For a Yavatmal business, our static website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are three remote engineers with no Yavatmal office, and maintenance is free for five months after launch.",
+    "For a Yavatmal business, our static website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are three remote engineers with no Yavatmal office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Region", value: "District headquarters in the Amravati division of Vidarbha, about 90 km from Amravati and roughly 150 km from Nagpur" },
     { label: "Farm economy", value: "Cotton and jowar are the traditional crops, with soybean now widely grown; cotton ginning and pressing are the main industry" },
@@ -52,7 +52,7 @@ const yavatmal: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, timing and fee questions in Marathi, Hindi or English and hand anything sensitive to a real person.",
     data: "Season dashboards that show arrivals, purchase rates, ginning output and payments in one view instead of five spreadsheets and a diary.",
     app: "Android and iOS apps for field sales staff, dealer orders or patient queues on an ordinary phone, listed on Google Play and the App Store from ₹40,000.",
-    maintenance: "Rate list edits, backups, updates and uptime checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Rate list edits, backups, updates and uptime checks free for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Yavatmal businesses usually hear two kinds of offers: a cheap template from someone local who is hard to reach later, or a polished pitch from a Nagpur or Pune agency with a price to match. We sit between those. Our starting prices are on the website, the engineers who build your site answer your messages, and you keep full ownership of what you pay for.",
@@ -173,11 +173,11 @@ const yavatmal: CityContent = {
     },
     {
       id: "ownership-maintenance-yavatmal",
-      heading: "Ownership, handover and the five free months",
+      heading: "Ownership, handover and the two free months",
       paragraphs: [
         "Plenty of Yavatmal owners have lost an old website because the domain was registered by a former developer who then stopped answering. Recovering it can take weeks and sometimes fails. We prevent that from the first day: the domain is registered in your name, the hosting account belongs to you, and at launch you receive every login plus a one-page note explaining where each part lives.",
         "The source code is also yours. You can keep working with us, hire someone else in Yavatmal or Nagpur, or take the site in-house later. There is no exit fee, no lock-in and no licence that expires if you stop paying us.",
-        "For five months after launch, maintenance is free. That includes text and rate updates, bug fixes, software and security updates, backups, uptime checks and speed checks. After that, ongoing maintenance starts from ₹8,000 a month, or you can simply message us when you need a change and pay only for that work.",
+        "For two months after launch, maintenance is free. That includes text and rate updates, bug fixes, software and security updates, backups, uptime checks and speed checks. After that, ongoing maintenance starts from ₹8,000 a month, or you can simply message us when you need a change and pay only for that work.",
       ],
     },
     {
@@ -266,9 +266,9 @@ const yavatmal: CityContent = {
         "Yes. The domain is registered in your name, the hosting account is yours, and at launch you receive every login and the source code. You can move to another developer at any time without an exit fee. We insist on this because lost domains are a common problem with older websites in the district.",
     },
     {
-      question: "What does the five months of free maintenance include?",
+      question: "What does the two months of free maintenance include?",
       answer:
-        "For five months after launch we handle text and rate changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work alone.",
+        "For two months after launch we handle text and rate changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work alone.",
     },
     {
       question: "How long before SEO shows results in Yavatmal?",

@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Where reports live", "Your own Microsoft 365 tenant"],
     ["Data sources", "Xero, Shopify, Excel, SQL, CSV exports"],
     ["Handover", "Recorded training plus a written data dictionary"],
-    ["Support after launch", "5 months free, then from " + P.care],
+    ["Support after launch", "2 months free, then from " + P.care],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, data and AWS, project management" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free support after your dashboards go live" },
+    { value: "2", label: "Months of free support after your dashboards go live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a Power BI consultant NZ project starts from ${P.ai} for a first dashboard set with scheduled refresh. Local rates vary widely, from day rates at established consultancies to hourly freelancers, and the gap is mostly overheads and how the work is scoped rather than the software.`,
         `Five things move a Power BI quote more than anything else: the number of data sources, the state of those sources (clean Xero data is quick; ten years of hand-kept spreadsheets are not), whether a staging database and API pipeline is required, how many report pages and security roles you want, and how much training your team needs. We itemise each one in USD so you can compare it against any other proposal.`,
-        `Running costs are separate and mostly go to Microsoft: one Pro licence for each person who shares or views shared reports. If we build a staging database for Xero or Shopify data, it runs on a small cloud instance in your own account. After five months of free support, optional ongoing help starts from ${P.care}.`,
+        `Running costs are separate and mostly go to Microsoft: one Pro licence for each person who shares or views shared reports. If we build a staging database for Xero or Shopify data, it runs on a small cloud instance in your own account. After two months of free support, optional ongoing help starts from ${P.care}.`,
       ],
       after: [`For the wider picture of what software and app work costs in New Zealand, see our <a href='/new-zealand/app-development-cost/'>NZ app development cost guide</a>.`],
     },
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Handover is where a Power BI consultant NZ SMEs hire earns long-term value. The aim is that your team can read, refresh and lightly edit the reports without calling us.`,
         `We run training in two recorded sessions over video. The first is for everyone who reads reports: how to filter, drill through, export to Excel and subscribe to an email of a page. The second is for the one or two people who will maintain the model: where the data comes from, how refresh is scheduled, what to do when a refresh fails, how to add a new measure by copying an existing pattern, and how to publish a change safely.`,
-        `You also get a data dictionary: every table, every column that matters and every measure, with a plain-English description and the DAX beside it. It is the single most useful document a small business can have for its reporting, and it is what lets another consultant (or a future hire) pick up the work later. Five months of free support follow launch, covering fixes and small questions.`,
+        `You also get a data dictionary: every table, every column that matters and every measure, with a plain-English description and the DAX beside it. It is the single most useful document a small business can have for its reporting, and it is what lets another consultant (or a future hire) pick up the work later. Two months of free support follow launch, covering fixes and small questions.`,
       ],
     },
     {
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
     { question: "Can you build Power BI reports from Excel spreadsheets?", answer: "Yes, and it is one of the most common requests. We move the spreadsheets to SharePoint or OneDrive, clean the structure so each sheet is a proper table, and use Power Query to combine them. Monthly exports dropped into a folder are appended automatically, so nobody has to copy and paste figures again." },
     { question: "Can you connect Shopify to Power BI?", answer: "Yes. We pull orders, refunds, products, customers and inventory from Shopify's Admin API into a staging database, alongside your Xero data. That lets the report join each online order to its invoice so sales and accounting agree, and shows margin by product after shipping and discounts." },
     { question: "What training do you provide after the build?", answer: "Two recorded video sessions. One for people who read reports, covering filters, drill-through, exports and email subscriptions. One for the person who will maintain the model, covering refresh, failure alerts, adding a measure and publishing changes safely. You also get a data dictionary describing every table and measure in plain English." },
-    { question: "What happens after the five months of free support?", answer: `Support for fixes and small questions is free for five months after launch. After that, ongoing help is optional and starts from ${P.care}, covering new measures, extra pages, source changes and refresh monitoring. Many SMEs find they only need occasional changes once their own maintainer is confident.` },
+    { question: "What happens after the two months of free support?", answer: `Support for fixes and small questions is free for two months after launch. After that, ongoing help is optional and starts from ${P.care}, covering new measures, extra pages, source changes and refresh monitoring. Many SMEs find they only need occasional changes once their own maintainer is confident.` },
     { question: "How do we pay a Power BI consultant in India?", answer: "Our quotes are in USD, and you can pay by Wise, bank wire or PayPal. Invoices are issued from India. Nothing is billed before you approve the written quote, and milestones are set out in that quote. Ask your accountant how imported services should be treated in your books, as we do not give tax advice." },
     { question: "Do you sign an NDA before seeing our data?", answer: "Confidentiality terms are agreed in writing before we touch any data, and we can review your own NDA. The specific terms go into your written quote or agreement rather than being a fixed policy. Our general terms are on the terms page, and we are happy to answer your lawyer's questions." },
     { question: "Can Power BI use AI to answer questions about my data?", answer: "Microsoft offers Copilot and natural-language features in Power BI, with availability depending on your licence and capacity. They only work well on a clean model with clear names and documented measures. We build that foundation first, then help you test AI features once the numbers are trusted." },

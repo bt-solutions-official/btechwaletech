@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks for the app, longer with tracker integration"],
     ["Platforms", "Android and iOS from one Flutter or React Native codebase"],
     ["Store accounts", "Google Play and App Store in your business name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who know your codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on your bookings" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Hardware", value: "Works with GPS trackers you buy; we integrate their API, we do not fit devices" },
       { label: "Timeline", value: "6–10 weeks for the app; tracker work can add 2–3 weeks" },
       { label: "Payments to us", value: "UPI or bank transfer, staged against approved milestones" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The source code sits in a repository under your account, the backend runs in a cloud account billed to you, and the apps are published under your developer accounts.`,
         `This matters more for rental than for most apps, because the database holds licence scans, trip histories and payment records. If a developer hosts that on their own server, you cannot move without their cooperation. With our builds, the admin credentials, database access and deployment steps are written down and handed over at launch, and two teammates besides the lead developer already know the code.`,
-        `Five months of free maintenance follow launch: bug fixes, OS updates, small changes to rules. After that, maintenance continues from ${P.care} a month if you want it, or your own developer can take over with the handover notes.`,
+        `Two months of free maintenance follow launch: bug fixes, OS updates, small changes to rules. After that, maintenance continues from ${P.care} a month if you want it, or your own developer can take over with the handover notes.`,
       ],
     },
     {
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
         ["Established, 20+ cars", "Above plus staff inspection app and tracker map", `${P.software} upwards`, "8–12 weeks"],
         ["Multi-city or franchise", "City-level pricing, branch logins, consolidated reports", `${P.software} upwards`, "10–14 weeks"],
         ["Host marketplace", "Owner onboarding, earnings, payouts, service reminders", "Quoted after scoping", "Second phase"],
-        ["After launch", "Fixes, OS updates, rule changes", `5 months free, then ${P.care}/month`, "Ongoing"],
+        ["After launch", "Fixes, OS updates, rule changes", `2 months free, then ${P.care}/month`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Lock tariff and deposit rules", "In the first week we write down every pricing and deposit rule with you, because the booking engine, bills and refunds all depend on them."],
       ["Test builds on your phone", "You install test versions of the customer and staff apps and try them with a real car. Feedback goes straight to the developers on WhatsApp."],
       ["Pilot, then publish", "A handful of real rentals run through the app with your staff. After fixes, we publish to Google Play and the App Store in your own accounts."],
-      ["Hand over and support", "You receive code, logins and deployment notes. Five months of free maintenance follow; later care starts from " + P.care + " a month if you want it."],
+      ["Hand over and support", "You receive code, logins and deployment notes. Two months of free maintenance follow; later care starts from " + P.care + " a month if you want it."],
     ],
   },
   faqHeading: "Car rental app development: questions fleet owners ask",
@@ -391,13 +391,13 @@ const content: FreelanceContent = {
     { question: "Will the app work for bike and scooter rentals too?", answer: "Yes. The same modules apply, with different licence classes, smaller deposits, helmet add-ons and shorter tariff blocks. Mixed fleets are common in tourist towns, so the tariff engine and inspection checklist can differ by vehicle category within one app." },
     { question: "Who owns the car rental app and customer data?", answer: "You do. The code sits in your repository, the backend runs in your cloud account, and the apps are listed under your own Google Play and App Store developer accounts. Customer documents and trip histories stay in your database. We hand over logins and deployment notes at launch." },
     { question: "Do I need both Android and iOS apps?", answer: "Most renters in India use Android, but corporate and premium customers often use iPhones. A single Flutter or React Native codebase covers both for little extra effort. If budget is tight, launch on Android and as a web app first, then publish on iOS once bookings grow." },
-    { question: "What ongoing costs should I budget for after launch?", answer: `Cloud hosting, map usage, SMS or WhatsApp messages, any KYC service fees, your tracker vendor’s subscription, the one-time US$25 Google Play fee and Apple’s US$99 yearly membership. These are paid directly by you. Maintenance from us is free for five months after launch and then starts at ${P.care} a month if you want it.` },
+    { question: "What ongoing costs should I budget for after launch?", answer: `Cloud hosting, map usage, SMS or WhatsApp messages, any KYC service fees, your tracker vendor’s subscription, the one-time US$25 Google Play fee and Apple’s US$99 yearly membership. These are paid directly by you. Maintenance from us is free for two months after launch and then starts at ${P.care} a month if you want it.` },
     { question: "How do you handle traffic challans that arrive after a trip?", answer: "The admin panel lets you search bookings by car number and date and time, showing who had the vehicle, their documents and tracker history for that window. You can then raise a charge against the customer’s deposit or send a payment link, with the challan image attached to the booking record." },
     { question: "Can customers extend a booking from the app?", answer: "Yes. The app checks whether the car is free for the extra period, shows the added fare under your tariff rules, and takes payment before confirming. If the car is already booked after the current trip, it can offer an alternative car or ask the customer to return on time." },
     { question: "Can private car owners list vehicles in my app?", answer: "A host module lets owners register cars, upload documents, see bookings and track earnings. You decide the revenue share and payout schedule. It adds scope and responsibility, including checking vehicle papers and insurance, so most fleets add it as a second phase once their own cars run smoothly." },
     { question: "Will a car rental app help my Google rankings?", answer: "Not by itself, since Google ranks websites, not app screens. A fast website with city, pickup-point and car-model pages, connected to the same booking engine, is what brings search traffic. Clear answers on deposits, documents and fuel policy also help AI search tools quote you. No one can guarantee rankings." },
     { question: "Do you work only with fleets in India?", answer: `Most self-drive fleets we speak to are in India, but the same build works abroad with local payment methods and store accounts. International clients are quoted in USD, with the app starting at ${P.appUsd}, and pay by Wise, bank wire or PayPal.` },
-    { question: "Self drive car rental app banwane mein kitna time aur kharcha lagta hai?", answer: `BtechWaleTech ke saath customer app ${P.app} se shuru hota hai aur admin panel ${P.software} se. Normally 6–10 hafte lagte hain, GPS tracker jodne mein 2–3 hafte aur. Pehle itemised quote milta hai, aapki written approval ke baad hi billing hoti hai, aur launch ke baad 5 mahine maintenance free rehta hai.` },
+    { question: "Self drive car rental app banwane mein kitna time aur kharcha lagta hai?", answer: `BtechWaleTech ke saath customer app ${P.app} se shuru hota hai aur admin panel ${P.software} se. Normally 6–10 hafte lagte hain, GPS tracker jodne mein 2–3 hafte aur. Pehle itemised quote milta hai, aapki written approval ke baad hi billing hoti hai, aur launch ke baad 2 mahine maintenance free rehta hai.` },
     { question: "What is the first step to start car rental app development?", answer: "Send us your fleet size, cities, current tariffs, deposit practice and tracker brand on WhatsApp. We reply with follow-up questions and then an itemised estimate in about two working days. Before any build starts, we fix the tariff and deposit rules in writing, because the rest of the system depends on them." },
   ],
   related: {
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a self-drive car rental app? Send us your fleet details",
-    note: `Message us your fleet size, cities, tariffs and tracker brand on WhatsApp. You will receive an itemised estimate in about two working days, with the customer app from ${P.app}, code and store accounts in your name, and five months of free maintenance after launch.`,
+    note: `Message us your fleet size, cities, tariffs and tracker brand on WhatsApp. You will receive an itemised estimate in about two working days, with the customer app from ${P.app}, code and store accounts in your name, and two months of free maintenance after launch.`,
   },
 };
 

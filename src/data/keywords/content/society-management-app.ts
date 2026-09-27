@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks for app, 6–12 for a platform"],
     ["Quote turnaround", "Itemised in about 2 working days"],
     ["Store listings", "Published under your own developer accounts"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support the app" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-flat fees owed to us once it is yours" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Multi-society white-label platform", value: `From ${P.software}, 6–12 weeks` },
       { label: "Payments", value: "UPI and card checkout into the society's own bank account" },
       { label: "Ownership", value: "Source code, cloud account and store listings in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Society management app development pricing",
-    note: `Society apps sit across two of our starting prices. A resident app plus guard app for one society, with a basic web admin, starts at ${P.app}. A white-label platform where one login manages many societies, with billing, tickets, amenity booking and reports, starts at ${P.software}. The quote rises with the number of user roles (resident, tenant, guard, manager, committee, FM head office), custom billing rules, and integrations such as intercom, boom barriers or accounting exports. WhatsApp alerts or an AI helpdesk start at ${P.ai}. After five free months, upkeep starts at ${P.care} a month.`,
+    note: `Society apps sit across two of our starting prices. A resident app plus guard app for one society, with a basic web admin, starts at ${P.app}. A white-label platform where one login manages many societies, with billing, tickets, amenity booking and reports, starts at ${P.software}. The quote rises with the number of user roles (resident, tenant, guard, manager, committee, FM head office), custom billing rules, and integrations such as intercom, boom barriers or accounting exports. WhatsApp alerts or an AI helpdesk start at ${P.ai}. After two free months, upkeep starts at ${P.care} a month.`,
   },
   guideLabel: "Society management app development guide",
   guide: [
@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The source code repository, the cloud account, the database, the domain for the admin panel and the Google Play and App Store developer accounts are all created in your name or transferred to you before final payment. We work inside them with access you grant and can revoke.`,
         `For RWAs, ownership has a practical wrinkle: committees change. Put the accounts under the association's official email and phone, not an office-bearer's personal one, and keep a handover sheet with every login. We supply that sheet with the documentation, along with an admin guide in plain English and a short Hindi version of the guard instructions.`,
-        `After launch you get five months of free maintenance for bugs and small adjustments. After that, upkeep starts at ${P.care} a month, or you can take the code to any other developer; nothing in the build locks you to us. Exact support terms go in your written quote, and our general terms are on the <a href='/terms/'>terms page</a>.`,
+        `After launch you get two months of free maintenance for bugs and small adjustments. After that, upkeep starts at ${P.care} a month, or you can take the code to any other developer; nothing in the build locks you to us. Exact support terms go in your written quote, and our general terms are on the <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         ["Multi-society white-label platform", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "FM companies, builders with many projects"],
         ["WhatsApp alerts or AI helpdesk add-on", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Residents who ignore app notifications"],
         ["Society website with notices and forms", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Public face for a township or builder"],
-        ["Maintenance after 5 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Ongoing", "Updates, fixes, store releases"],
+        ["Maintenance after 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Ongoing", "Updates, fixes, store releases"],
       ],
       hideSm: [2],
     },
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Clickable designs", "Resident, guard and admin screens as a clickable prototype you can pass around the committee. Changes are cheap here, so we encourage arguments at this stage."],
       ["Build with weekly test builds", "Ankur builds the apps and admin, Santosh sets up the cloud in your account, and Vedansh sends a test build and progress note every week."],
       ["Pilot on one tower and one gate", "Real residents and guards use the app for a short trial. We fix what confuses them, import the flat list and opening balances, and check totals against your accounts."],
-      ["Store release and handover", "Apps go live under your developer accounts, you receive code, logins and guides, and five months of free maintenance begins."],
+      ["Store release and handover", "Apps go live under your developer accounts, you receive code, logins and guides, and two months of free maintenance begins."],
     ],
   },
   faqHeading: "Society management app development: questions committees ask",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Can the society app connect to boom barriers or access cards?", answer: "Often, if the hardware vendor provides an API, SDK or network interface we can use. We write and test the software side remotely; we do not supply, install or repair gate hardware. Share the model numbers during scoping and we will say what is possible before quoting, or recommend leaving hardware integration for a later phase." },
     { question: "Is a society management app secure enough for payments and personal data?", answer: "It should be built with role-based access, encrypted connections, audited ledger changes, backups and minimal data collection. Payments are handled by a regulated checkout provider, so card numbers never touch the society's server. We also build consent records and data deletion to support the DPDP Act, while legal sign-off stays with your adviser." },
     { question: "Can the app be in Hindi or a regional language?", answer: "Yes. Guard screens are often bilingual, and the resident app can support Hindi or a regional language alongside English. You supply or approve the translated text, and we build the language switch and test that longer words fit on small screens. Notices can be sent in whichever language the committee writes them." },
-    { question: "What happens after launch if something breaks?", answer: `You get five months of free maintenance for bugs and small adjustments after go-live. After that, maintenance starts at ${P.care} a month and covers fixes, updates for new Android and iOS versions, and store releases. The exact scope is written into your quote, and you are free to move the code to another developer at any time.` },
+    { question: "What happens after launch if something breaks?", answer: `You get two months of free maintenance for bugs and small adjustments after go-live. After that, maintenance starts at ${P.care} a month and covers fixes, updates for new Android and iOS versions, and store releases. The exact scope is written into your quote, and you are free to move the code to another developer at any time.` },
     { question: "Can we start with a few modules and add more later?", answer: "Yes, and we recommend it. Most societies launch with billing, the gate and complaints, then add amenity booking, polls, parking records or vendor tracking once residents are comfortable. Because the code is yours and built in modules, each addition is quoted separately and released as an app update rather than a new app." },
     { question: "Do you visit the society to set up the app?", answer: "No. We are three freelance developers working remotely from India, so training happens over video calls and short screen recordings in English or Hindi. The committee or manager handles on-site steps such as installing the guard app on the gate phone, and we stay on WhatsApp during the pilot to answer questions quickly." },
     { question: "Society ka apna app banwana hai, kitna kharcha aayega?", answer: `Ek society ke liye resident app aur guard app, web admin ke saath, ${P.app} se shuru hota hai aur lagbhag 6–10 hafte lagte hain. Kai societies wala white-label platform ${P.software} se shuru hota hai. Final kharcha modules, roles aur purane data ke import par depend karta hai, aur kaam shuru hone se pehle aapko itemised quote milta hai.` },
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a society management app? Tell us about your flats and gates",
-    note: `Send the number of societies, flats and gates, plus the modules you need, on WhatsApp. You get an itemised quote in about two working days, with society apps starting at ${P.app}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send the number of societies, flats and gates, plus the modules you need, on WhatsApp. You get an itemised quote in about two working days, with society apps starting at ${P.app}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

@@ -56,7 +56,7 @@ const chalakudy: CityContent = {
     ai: "WhatsApp assistants that answer room, rate and route questions from tourists in Malayalam, English, Tamil or Hindi and pass confirmed bookings to you.",
     data: "Dashboards of bookings by season, dealer orders by district and outstanding payments, readable on a phone between site visits.",
     app: "Android and iOS apps for Athirappilly cab operators, homestay groups or plywood dealer re-orders, from ₹40,000, published on Google Play and the App Store under your own accounts.",
-    maintenance: "Five months of free maintenance from launch day, then from ₹8,000 a month if you want us to keep handling updates, backups and fixes.",
+    maintenance: "Two months of free maintenance from launch day, then from ₹8,000 a month if you want us to keep handling updates, backups and fixes.",
   },
   whyUsIntro:
     "Chalakudy owners ask pointed questions before they spend, and often a son or niece working in Kochi's IT sector reads the quote over their shoulder. That suits us. We publish starting prices, write every quote line by line, reply on WhatsApp all week and put the domain, hosting, code and store accounts in your name from the first day.",
@@ -183,7 +183,7 @@ const chalakudy: CityContent = {
       heading: "Who owns your Chalakudy website or app, and what upkeep costs",
       paragraphs: [
         "You own everything we build. The domain is registered to your email, hosting is billed in your name, the source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. If we vanished tomorrow, your site would keep running and any developer could take it over.",
-        "For five months after launch, maintenance is free: content edits such as a new rate card before the monsoon, security updates, backups, and checks that forms, payments and WhatsApp links still work. After that you can stay with us from ₹8,000 a month, handle it in-house, or move to someone else with no exit fee.",
+        "For two months after launch, maintenance is free: content edits such as a new rate card before the monsoon, security updates, backups, and checks that forms, payments and WhatsApp links still work. After that you can stay with us from ₹8,000 a month, handle it in-house, or move to someone else with no exit fee.",
         "Apps need a rebuild roughly once a year because Google and Apple keep raising their minimum requirements. We watch those deadlines and ship the update early, so your listing is never hidden or pulled from the store for falling behind.",
       ],
     },
@@ -275,7 +275,7 @@ const chalakudy: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Chalakudy clients get five months of free maintenance after launch, covering content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are already in your name, you can also move to another developer freely.",
+        "Chalakudy clients get two months of free maintenance after launch, covering content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are already in your name, you can also move to another developer freely.",
     },
     {
       question: "Do you work in Koratty, Potta, Kodakara and Irinjalakuda too?",

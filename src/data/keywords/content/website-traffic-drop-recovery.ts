@@ -326,7 +326,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most traffic drops are expensive because they are noticed late. A noindex tag that slips out in a deployment costs little if someone spots it in two days and a great deal if it runs for two months. A light monitoring routine is the cheapest insurance against the next website traffic drop.`,
         `Keep Search Console email alerts switched on and make sure they reach someone who reads them. Glance at the Page indexing report and Performance report weekly. Keep a simple change log: every deployment, plugin update, theme change and content overhaul, with the date. When something does go wrong, that log turns a week of investigation into an hour.`,
-        `For redesigns and migrations, add SEO checks to the launch list: no noindex on production, robots.txt reviewed, redirects tested from the old URL list, analytics tags firing on every template, and a Search Console check a few days after launch. BtechWaleTech includes these checks on every build and on sites under maintenance, which starts at ${P.care} after five free months for sites we build.`,
+        `For redesigns and migrations, add SEO checks to the launch list: no noindex on production, robots.txt reviewed, redirects tested from the old URL list, analytics tags firing on every template, and a Search Console check a few days after launch. BtechWaleTech includes these checks on every build and on sites under maintenance, which starts at ${P.care} after two free months for sites we build.`,
       ],
       list: [
         "Search Console alerts going to an inbox someone reads",

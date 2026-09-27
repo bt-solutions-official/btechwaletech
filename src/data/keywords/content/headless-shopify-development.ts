@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Companion Android and iOS app", `From ${P.app}`],
     ["Frameworks", "Hydrogen (React Router) or Next.js"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Free maintenance after launch", "5 months"],
+    ["Free maintenance after launch", "2 months"],
   ],
   stats: [
     { value: "2", label: "Front-end routes compared: Hydrogen or Next.js" },
     { value: "3", label: "Freelance developers who scope, build and hand over" },
-    { value: "5", label: "Months of free fixes and updates after go-live" },
+    { value: "2", label: "Months of free fixes and updates after go-live" },
     { value: "0", label: "Platform or marketplace fees added to your quote" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "App replacement plan", note: "Every theme app audited: which ones have headless APIs, which need a custom component, and which can simply go.", href: "/shopify-app-development/", size: "md" },
       { name: "SEO-safe migration", note: "Same product and collection URLs where possible, a tested redirect map where not, and structured data rebuilt in the new templates.", href: "/shopify-seo-expert/", size: "md" },
       { name: "Companion mobile app", note: `A Flutter or React Native shopping app on the same Storefront API, from ${P.app}.`, href: "/d2c-app-development/", size: "sm" },
-      { name: "Handover and upkeep", note: "Runbook, deploy notes and five months of free fixes, then optional care plans.", href: "/shopify-maintenance-services/", size: "sm" },
+      { name: "Handover and upkeep", note: "Runbook, deploy notes and two months of free fixes, then optional care plans.", href: "/shopify-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What headless Shopify development costs, and what it costs to keep",
-    note: `A headless storefront for a catalogue of a few hundred products, with home, collection, product, cart, search and content pages, starts at ${P.shop} (${P.shopUsd}). Storefronts that add custom customer accounts, wholesale price logic, subscriptions or a configurator start at ${P.software} (${P.softwareUsd}). The Shopify plan fee stays the same as before; Oxygen hosting comes at no extra charge on paid plans, while Vercel or a CMS may add their own subscriptions that you pay directly. The bigger long-term cost is developer time, because every storefront change is now code, so budget for care from ${P.care} a month once the five free months end.`,
+    note: `A headless storefront for a catalogue of a few hundred products, with home, collection, product, cart, search and content pages, starts at ${P.shop} (${P.shopUsd}). Storefronts that add custom customer accounts, wholesale price logic, subscriptions or a configurator start at ${P.software} (${P.softwareUsd}). The Shopify plan fee stays the same as before; Oxygen hosting comes at no extra charge on paid plans, while Vercel or a CMS may add their own subscriptions that you pay directly. The bigger long-term cost is developer time, because every storefront change is now code, so budget for care from ${P.care} a month once the two free months end.`,
   },
   guideLabel: "Headless Shopify development guide",
   guide: [
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
         `Over three years a headless storefront almost always costs more than a theme, because every visual change is developer work and you run more services. It pays off only when the extra revenue or saved effort outweighs that.`,
         `Think in four buckets. <strong>Platform</strong>: your Shopify plan fee is the same either way. <strong>Hosting</strong>: Oxygen is included with paid plans for Hydrogen; a Next.js storefront adds a hosting bill that grows with traffic. <strong>Content tools</strong>: metaobjects cost nothing extra; Sanity has a free tier and paid plans by usage. <strong>People</strong>: theme stores can go months without a developer; headless stores need one on call for framework updates, API version upgrades and new landing pages.`,
         `On the other side of the ledger sit the reasons you went headless: conversion from a faster, more tailored storefront, fewer hours spent fighting theme limits, and one storefront layer shared with an app. We ask brands to estimate those in their own numbers before committing. If the estimate is vague, the theme is usually the better investment for now.`,
-        `After our five free months, care plans start at ${P.care} (${P.careUsd}) a month and cover dependency updates, API version bumps and small template changes.`,
+        `After our two free months, care plans start at ${P.care} (${P.careUsd}) a month and cover dependency updates, API version bumps and small template changes.`,
       ],
     },
     {
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
         ["Storefront hosting", "Included", "Oxygen included, or your Vercel bill"],
         ["Content tool", "Theme editor", "Metaobjects free, Sanity by usage"],
         ["Developer time for changes", "Low, merchant edits sections", "Higher, most changes are code"],
-        ["Care after 5 free months", `From ${P.care} a month`, `From ${P.care} a month, usually more hours`],
+        ["Care after 2 free months", `From ${P.care} a month`, `From ${P.care} a month, usually more hours`],
         ["Companion app", `From ${P.app}`, `From ${P.app}, shares the storefront layer`],
       ],
     },
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
       ["Design and speed budget", "Page designs are approved alongside target load weights and Core Web Vitals goals for home, collection and product pages."],
       ["Build on preview", "Hydrogen or Next.js templates are built on a preview deployment linked to your repository, so you can check progress on your phone daily."],
       ["Integrate and migrate", "CMS content, API-based apps, tracking and redirects are connected, then tested against the old theme’s URL list."],
-      ["Launch and hand over", "We switch the domain, submit sitemaps, train editors, hand over the runbook and start five months of free maintenance."],
+      ["Launch and hand over", "We switch the domain, submit sitemaps, train editors, hand over the runbook and start two months of free maintenance."],
     ],
   },
   faqHeading: "Headless Shopify development: frequently asked questions",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate my existing Shopify theme store to Hydrogen?", answer: "Yes. We audit the theme and apps, keep your product, collection and page URLs identical where possible, rebuild templates in Hydrogen, reconnect API-based apps, carry over SEO fields and structured data, and test redirects against your Search Console URL list. The old theme stays unpublished for a few weeks so a rollback remains possible." },
     { question: "How do UPI and cash on delivery work on headless Shopify?", answer: "They work the same way as on your theme store, because payment happens on Shopify’s checkout, not on the headless storefront. Whatever payment providers and methods you have configured in Shopify, including UPI, cards and cash on delivery where set up, appear at checkout unchanged. We do not rebuild payments; we hand the cart to Shopify." },
     { question: "Should I hire a freelancer or an agency for headless Shopify?", answer: "Pick the team that audits your apps, explains the cost of ownership and can show preview deployments, whatever its size. A small freelance team suits brands wanting direct contact with the developers building the storefront. Very large programmes with many parallel storefronts may need a bigger team, and we will tell you honestly if that is your situation." },
-    { question: "What happens after a headless Shopify launch?", answer: `You get five months of free maintenance covering fixes, dependency updates and small template changes. After that, care plans start at ${P.care} a month and include Storefront API version upgrades and framework updates. Monthly SEO support starts at ${P.seo} if you want ongoing work on product pages, content and technical health.` },
+    { question: "What happens after a headless Shopify launch?", answer: `You get two months of free maintenance covering fixes, dependency updates and small template changes. After that, care plans start at ${P.care} a month and include Storefront API version upgrades and framework updates. Monthly SEO support starts at ${P.seo} if you want ongoing work on product pages, content and technical health.` },
     { question: "How do payments and contracts work with your team?", answer: "You receive an itemised written quote with milestones, and nothing is billed until you approve it in writing. Indian clients pay by UPI or bank transfer, with GST invoices where applicable; overseas clients pay in USD by Wise, bank wire or PayPal. Confidentiality or other specific clauses are agreed in your written quote, and our terms page explains the rest." },
     { question: "Can headless Shopify help with AI search visibility?", answer: "It can remove technical obstacles. Server-rendered pages with clear headings, accurate Product schema, FAQ blocks and consistent brand data are easier for AI Overviews, ChatGPT search and Perplexity to read and quote. It cannot guarantee a mention, any more than anyone can guarantee rankings. Content quality and reputation still decide whether your store is cited." },
   ],

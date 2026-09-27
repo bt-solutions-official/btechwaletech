@@ -56,7 +56,7 @@ const saundattiYellamma: CityContent = {
     ai: "WhatsApp assistants that answer room, rate and direction questions in four languages during Banada and Bharata Hunnime, then pass bookings to you.",
     data: "Season dashboards that compare jatre-month occupancy, dealer credit outstanding and cane advances against last year.",
     app: "Android and iOS apps for village retailers to re-order farm inputs or for parents of a Saundatti school, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for rate changes before each jatre, backups and security updates.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for rate changes before each jatre, backups and security updates.",
   },
   whyUsIntro:
     "Saundatti trade runs in bursts: a quiet week, then a hunnime weekend when every room and jeep is full. We plan work around those dates, publish starting prices, itemise every quote in writing, reply on WhatsApp seven days a week and register your domain, hosting, code and store accounts in your own name from the first day.",
@@ -167,7 +167,7 @@ const saundattiYellamma: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom software or web app, such as a dealer credit ledger: from ₹60,000, six to twelve weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -184,7 +184,7 @@ const saundattiYellamma: CityContent = {
       heading: "Who owns your Saundatti website or app, and what maintenance covers",
       paragraphs: [
         "You do. The domain is registered on your email, hosting is billed to you, the full source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no developer, including us, can ever hold your site hostage.",
-        "For five months after launch, maintenance costs nothing. In that time we change rates before the jatre season, add rooms or products, take backups, apply security and version updates, and test that booking forms, UPI checkout and WhatsApp buttons still work. After that, carry on with us from ₹8,000 a month, manage it yourself, or pass the code to any other developer without asking our permission.",
+        "For two months after launch, maintenance costs nothing. In that time we change rates before the jatre season, add rooms or products, take backups, apply security and version updates, and test that booking forms, UPI checkout and WhatsApp buttons still work. After that, carry on with us from ₹8,000 a month, manage it yourself, or pass the code to any other developer without asking our permission.",
         "Apps need a yearly rebuild even when nothing looks broken, because Google and Apple keep raising the versions they accept. We track those deadlines and ship the update early, so your app is not pulled from the store in the middle of a busy month.",
       ],
     },
@@ -276,7 +276,7 @@ const saundattiYellamma: CityContent = {
     {
       question: "What maintenance do you provide after a Saundatti website launches?",
       answer:
-        "For five months after a Saundatti site or app goes live, upkeep is free: rate and photo changes, backups, security patches and checks on booking forms, UPI checkout and WhatsApp links. After that you can stay with us from ₹8,000 a month or move on. Your code and accounts are already in your name, so switching needs no permission.",
+        "For two months after a Saundatti site or app goes live, upkeep is free: rate and photo changes, backups, security patches and checks on booking forms, UPI checkout and WhatsApp links. After that you can stay with us from ₹8,000 a month or move on. Your code and accounts are already in your name, so switching needs no permission.",
     },
     {
       question: "Do you work in Munavalli, Yaragatti and Ramdurg as well as Saundatti?",

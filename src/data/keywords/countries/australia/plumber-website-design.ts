@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Suburb-scale SEO site", `From ${P.seoSite}`],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Accounts", "Domain, hosting and Google in your name"],
-    ["Aftercare", `5 free months, then from ${P.care}`],
+    ["Aftercare", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "1", label: "Tap from any page to your phone" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Free maintenance months after launch" },
+    { value: "2", label: "Free maintenance months after launch" },
     { value: "20", label: "Service areas Google lets a profile list" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Review request system", note: "A short link and a text template you send after each job, pointing customers to your Google review form without filtering who gets asked.", href: "/australia/local-seo-services/", size: "md" },
       { name: "Missed-call follow-up", note: `An AI receptionist or SMS reply for calls you miss under a sink, from ${P.ai}.`, href: "/australia/ai-receptionist-for-small-business/", size: "sm" },
       { name: "Job photos and quote uploads", note: "A form where customers send a photo of the leak, the hot water unit label or the blocked outlet before you call back.", size: "sm" },
-      { name: "Monthly care", note: `Updates, backups and small edits from ${P.care} after the five free months.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Monthly care", note: `Updates, backups and small edits from ${P.care} after the two free months.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a plumbing website starts from ${P.site}, and a suburb-heavy SEO build starts from ${P.seoSite}. Quotes from other providers vary widely, usually because of what is bundled: photography, copywriting, ad management or a monthly lock-in.`,
         `What pushes a plumbing quote up is rarely the number of pages. It is features such as online booking tied to your job management software, a photo-upload quote form with file handling, multiple phone numbers routed by region, or a missed-call assistant. Copy is the other variable: if you send voice notes describing each job, we shape them into pages; if you want every page written from scratch with research, allow more time.`,
-        `Running costs are separate and paid by you directly: domain renewal, hosting, email and any paid booking or call-tracking tool. We list each with who you pay and how often. After launch you get five months of free maintenance, then optional care from ${P.care}. For a wider view of Australian quotes, read <a href='/australia/website-design-cost/'>what a website costs in Australia</a>.`,
+        `Running costs are separate and paid by you directly: domain renewal, hosting, email and any paid booking or call-tracking tool. We list each with who you pay and how often. After launch you get two months of free maintenance, then optional care from ${P.care}. For a wider view of Australian quotes, read <a href='/australia/website-design-cost/'>what a website costs in Australia</a>.`,
       ],
     },
     {
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You register or confirm the domain, hosting and email, and invite us. We send a checklist for licence numbers, photos, service areas and the review link."],
       ["Preview on your phone", "Within about a week you get a working preview. Test the call button from your own handset, send one consolidated list of changes, and we update overnight your time."],
       ["Launch and Google setup", "Forms and call tracking tested, Search Console verified, sitemap submitted, Google Business Profile linked and the service area checked for consistency."],
-      ["Training and aftercare", `A short recorded walkthrough on changing hours, prices and photos. Five months of free maintenance follow, then optional care from ${P.care}.`],
+      ["Training and aftercare", `A short recorded walkthrough on changing hours, prices and photos. Two months of free maintenance follow, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Plumber website design: questions Australian plumbers ask",
@@ -401,8 +401,8 @@ const content: FreelanceContent = {
     { question: "Is it safe to have a plumbing website built by a team in India?", answer: "Yes, when your business holds the accounts. You register the domain, hosting and email in your own name and invite us as users. If you ever want to change developers, you remove our access and keep everything. We work that way on every build, and ownership of the work transfers as set out in your written quote." },
     { question: "When can I talk to you if you are based in India?", answer: "Our morning is your afternoon. India is four and a half hours behind the east coast in winter and five and a half during daylight saving, two and a half behind Perth. Plumbers usually take calls after lunch once off the tools. WhatsApp messages and voice notes are answered seven days a week." },
     { question: "How do I pay for a plumbing website from BtechWaleTech?", answer: "Quotes are in USD. Australian clients usually pay through Wise from an AUD account, by international bank wire or by PayPal, in stages set out in the written quote. Nothing is billed before you approve the itemised quote in writing. Invoices come from India, and your accountant can advise on how to record them." },
-    { question: "Can I update my own hours, prices and photos?", answer: "Yes. We build on an editor you can use from a phone or laptop and record a short walkthrough showing how to change hours, add a job photo, update a price guide and edit a service page. During the first five months after launch we handle any fixes or small edits free." },
-    { question: "What happens to my website after launch?", answer: `You get five months of free maintenance covering fixes, small changes, software updates and backup checks. After that, maintenance is optional and starts from ${P.care}. Plumbers who rely on the site for most of their work usually keep a care plan, because a broken call button on a busy day means missed jobs.` },
+    { question: "Can I update my own hours, prices and photos?", answer: "Yes. We build on an editor you can use from a phone or laptop and record a short walkthrough showing how to change hours, add a job photo, update a price guide and edit a service page. During the first two months after launch we handle any fixes or small edits free." },
+    { question: "What happens to my website after launch?", answer: `You get two months of free maintenance covering fixes, small changes, software updates and backup checks. After that, maintenance is optional and starts from ${P.care}. Plumbers who rely on the site for most of their work usually keep a care plan, because a broken call button on a busy day means missed jobs.` },
     { question: "Can you connect my website to my job management software?", answer: "Often, yes. Many job management tools offer booking widgets, enquiry forms or an API. We check what your tool supports during the first call and include the connection in the quote if it is practical. If a tool has no integration options, the website sends enquiries by email in a format that is easy to copy across." },
     { question: "Do you write the service page content for plumbers?", answer: "We turn your voice notes and answers into clear page copy, structured for search and mobile reading. You know which jobs pay and which suburbs you want, so your input shapes every page. You approve all text before launch, and we never add claims, reviews or credentials you cannot back up." },
     { question: "Can you add an online booking system to my plumbing website?", answer: "Yes, for planned work such as hot water replacements, gas appliance installs or maintenance visits. Emergency work usually stays phone-first because customers want a person. We can embed the booking tool you already use or build a simple request form, and the quote lists any subscription costs you would pay directly." },

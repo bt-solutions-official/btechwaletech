@@ -56,7 +56,7 @@ const tohana: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rate, stock, fee and timing questions and pass real decisions to you.",
     data: "Season dashboards of paddy bought, rice milled, dues by farmer and sales by buyer.",
     app: "Android and iOS apps for dealer re-orders, farmer rate alerts or student notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance from launch, then ₹8,000 a month onwards for updates, backups and security fixes.",
+    maintenance: "Two free months of maintenance from launch, then ₹8,000 a month onwards for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Tohana traders are used to hard bargaining and plain talk, and so are we. Starting prices are public, every quote is itemised and written, WhatsApp gets a reply every day including Sunday, and the domain, hosting, code and app store accounts are opened in your name. If a feature will not earn back its cost, we say that first.",
@@ -176,7 +176,7 @@ const tohana: CityContent = {
       heading: "Ownership and maintenance for Tohana websites and apps",
       paragraphs: [
         "Too many Tohana businesses have been stuck because a local builder kept the domain and hosting under his own name and then disappeared or demanded more money. We open every important account in your name: domain, hosting, code repository, Google Business Profile, and Play Store and App Store developer accounts. Passwords are handed over in writing on launch day.",
-        "You get five months of maintenance free once the project is live. That period covers edits to text and rates, backups, security patches, software upgrades and routine tests of forms, payment pages and WhatsApp buttons. After those months, continued care costs ₹8,000 a month onwards, entirely optional, and you can switch to another developer whenever you like.",
+        "You get two months of maintenance free once the project is live. That period covers edits to text and rates, backups, security patches, software upgrades and routine tests of forms, payment pages and WhatsApp buttons. After those months, continued care costs ₹8,000 a month onwards, entirely optional, and you can switch to another developer whenever you like.",
         "Apps need an update every year as Google and Apple raise their minimum standards. We plan those updates in advance so your app never gets delisted.",
       ],
     },
@@ -268,7 +268,7 @@ const tohana: CityContent = {
     {
       question: "What happens after my website is launched?",
       answer:
-        "You get five free months of maintenance covering edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, support is optional and costs ₹8,000 a month onwards. The code belongs to you, so you can also move to another developer whenever you wish.",
+        "You get two free months of maintenance covering edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, support is optional and costs ₹8,000 a month onwards. The code belongs to you, so you can also move to another developer whenever you wish.",
     },
     {
       question: "Do you work in Jakhal, Ratia and Narwana as well?",

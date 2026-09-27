@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Main modules", "Quotes, RFQs, tracking, documents, invoicing links"],
     ["Honest default", "License the core, build what customers touch"],
     ["Hosting", "Your cloud account, UAE region if you choose"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who build and support your portal" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-user licence fees on code you own" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom freight forwarding software costs",
-    note: `A custom module, such as an instant quote engine on your rate sheets, a customer tracking portal or a document hub, starts from ${P.software} and takes six to twelve weeks. AI document reading and WhatsApp shipment alerts start from ${P.ai}. A driver or pickup app starts from ${P.app}. Licence fees for any enterprise platform you use are paid to that vendor and sit outside our quote. Your website, if it needs rebuilding with the quote form, starts from ${P.site}. Maintenance is free for five months after launch, then from ${P.care}. Quotes are itemised in USD, and nothing is billed before your written approval.`,
+    note: `A custom module, such as an instant quote engine on your rate sheets, a customer tracking portal or a document hub, starts from ${P.software} and takes six to twelve weeks. AI document reading and WhatsApp shipment alerts start from ${P.ai}. A driver or pickup app starts from ${P.app}. Licence fees for any enterprise platform you use are paid to that vendor and sit outside our quote. Your website, if it needs rebuilding with the quote form, starts from ${P.site}. Maintenance is free for two months after launch, then from ${P.care}. Quotes are itemised in USD, and nothing is billed before your written approval.`,
   },
   guideLabel: "Freight forwarding software UAE: a practical guide",
   guide: [
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does freight forwarding software cost in the UAE: licence fees vs custom build?",
       paragraphs: [
-        `Licensed platforms charge implementation plus recurring fees, often per user, per module or per shipment; vendors' pricing varies widely, so compare total cost over three to five years at your expected growth. With us, custom modules start from ${P.software}, with maintenance from ${P.care} after five free months.`,
+        `Licensed platforms charge implementation plus recurring fees, often per user, per module or per shipment; vendors' pricing varies widely, so compare total cost over three to five years at your expected growth. With us, custom modules start from ${P.software}, with maintenance from ${P.care} after two free months.`,
         `For freight forwarding software in the UAE, the real comparison is margin and staff time, not just fees. If salespeople spend hours a day pricing standard lanes by hand, an instant quote engine returns that time and wins deals that would have gone to faster competitors. If operations staff answer status calls all day, a tracking portal frees them. Put rough numbers on those hours before comparing software costs.`,
         `Cost drivers for custom freight forwarding software in the UAE: number of modes and lanes; complexity of rate structures and surcharges; number of systems to integrate and whether they have APIs; carrier and airline data feeds you're authorised to use; customer portal permissions; document types and approval flows; Arabic interfaces if needed; and reporting depth. Each driver is priced separately in our quote so you can phase or drop items.`,
       ],
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Suppose a mid-sized forwarder based near Jebel Ali handles FCL and LCL imports from Asia, some re-export to East Africa, and air freight through Dubai's airports. It licenses a forwarding platform for jobs and accounting, but quotes are built by hand from spreadsheets, customers phone for status, and draft BLs bounce around by email. This is an illustration, not a client case.`,
         `The plan: phase one, built from ${P.software} in about eight weeks, delivers an instant quote engine for its top Asian lanes, with a rate upload tool and automatic fallback to an RFQ desk for everything else. Phase two adds a branded customer portal showing milestones from the licensed platform's API, plus a document hub where shippers approve draft BLs. Phase three adds WhatsApp milestone alerts and AI reading of supplier invoices, from ${P.ai}, and links invoicing to the accredited e-invoicing provider the forwarder's accountant selects.`,
-        `What the forwarder would not do is replace its licensed platform. The custom layer handles what customers touch and connects to the core through its API. If the platform's pricing changes in a few years, the quote engine, RFQ desk and portal can be reconnected to another system. Maintenance after five free months starts from ${P.care}.`,
+        `What the forwarder would not do is replace its licensed platform. The custom layer handles what customers touch and connects to the core through its API. If the platform's pricing changes in a few years, the quote engine, RFQ desk and portal can be reconnected to another system. Maintenance after two free months starts from ${P.care}.`,
       ],
     },
   ],
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
       columns: ["Cost element", "Licensed platform", "Custom module with us", "Spreadsheets and email"],
       rows: [
         ["Upfront", "Implementation and training", `From ${P.software} per module`, "Almost none"],
-        ["Recurring", "Per user, module or shipment", `Maintenance from ${P.care} after 5 free months`, "Staff hours"],
+        ["Recurring", "Per user, module or shipment", `Maintenance from ${P.care} after 2 free months`, "Staff hours"],
         ["Growth in users", "Licence grows", "Usually no change", "More staff needed"],
         ["Industry format changes", "Covered by vendor", "Handled in maintenance for your integrations", "Manual"],
         ["Lost quotes from slow pricing", "Depends on setup", "Reduced by instant quotes", "Common"],
@@ -367,13 +367,13 @@ const content: FreelanceContent = {
       ["Itemised quote", "About two working days later: each module and integration priced in USD. Nothing is billed until you approve in writing."],
       ["Rate and data mapping", "We collect sample rate sheets, milestone sources and document types, and agree formats and validation rules."],
       ["Build with weekly demos", "Working screens on a staging link each week using test data, tested by your team and one or two friendly customers."],
-      ["Go-live and aftercare", "Phased launch with a rollback plan, then five months of free maintenance while the next module is planned."],
+      ["Go-live and aftercare", "Phased launch with a rollback plan, then two months of free maintenance while the next module is planned."],
     ],
   },
   faqHeading: "Freight forwarding software UAE: frequently asked questions",
   faqs: [
     { question: "What is the best freight forwarding software in the UAE?", answer: "There's no single best choice. The right setup handles your modes and lanes, has a documented API, lets you export all data, supports UAE e-invoicing through an accredited provider and gives customers a portal they'll actually use. Many UAE forwarders license a platform for operations and build custom quoting and tracking on top." },
-    { question: "How much does freight forwarding software cost in the UAE?", answer: `Licensed platforms charge implementation plus recurring fees that vary widely by vendor, users and modules. With BtechWaleTech, custom modules such as an instant quote engine, customer portal or document hub start from ${P.software}, with maintenance from ${P.care} after five free months. Compare costs against staff hours and lost quotes, not fees alone.` },
+    { question: "How much does freight forwarding software cost in the UAE?", answer: `Licensed platforms charge implementation plus recurring fees that vary widely by vendor, users and modules. With BtechWaleTech, custom modules such as an instant quote engine, customer portal or document hub start from ${P.software}, with maintenance from ${P.care} after two free months. Compare costs against staff hours and lost quotes, not fees alone.` },
     { question: "Should a small forwarder build custom freight software?", answer: "Usually not all of it. Small forwarders often do well with a licensed platform or even a good spreadsheet setup plus one custom module where it counts, such as an instant quote form on their website or a simple tracking page. Build more only when quote volume or status calls are clearly costing you business." },
     { question: "Can you build an instant freight quote tool for our website?", answer: "Yes. The tool prices from your own rate sheets, surcharges, local charges and margin rules, shows validity, and switches to an RFQ flow for non-standard cargo or stale rates. It includes a rate upload tool with validation so your team keeps prices current without a developer." },
     { question: "What is an RFQ workflow in freight forwarding?", answer: "It's a structured process for requesting prices from carriers and overseas agents: capture shipment details once, send requests to chosen partners, collect responses in a comparable format, then turn the best option into a customer quote with your margin. It replaces chains of emails and spreadsheet comparisons." },
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Can you add AI to freight forwarding software?", answer: `Yes, where it saves real time. AI document reading extracts fields from supplier invoices, packing lists and BL drafts for staff to check, and an AI assistant can answer customer status questions from portal data. AI automation starts from ${P.ai}. We keep humans in charge of anything that affects price or legal documents.` },
     { question: "Do we need an app, or is a web portal enough?", answer: `For most forwarders' customers, a mobile-friendly web portal plus WhatsApp alerts is enough. Native apps make sense for drivers doing pickups and deliveries, for proof of delivery and photos. Driver apps for Android and iOS start from ${P.app}.` },
     { question: "Can the portal work in Arabic?", answer: "Yes. We can build bilingual interfaces with right-to-left Arabic layouts. Arabic copy comes from your team or a translator you choose. Most forwarding portals start in English and add Arabic for customer-facing screens when their customer base needs it." },
-    { question: "What happens after the freight software goes live?", answer: `Maintenance is free for five months: fixes, small changes and updates when connected systems change their APIs. After that, maintenance starts from ${P.care}. Most forwarders also plan the next module during that period based on how customers and staff use the first one.` },
+    { question: "What happens after the freight software goes live?", answer: `Maintenance is free for two months: fixes, small changes and updates when connected systems change their APIs. After that, maintenance starts from ${P.care}. Most forwarders also plan the next module during that period based on how customers and staff use the first one.` },
     { question: "Can you migrate our old quotes and shipment data?", answer: "Often, yes. We extract data from spreadsheets, old systems or exports, clean and map it, and load it into the new portal or platform with a reconciliation report. How far back to migrate is your choice; many forwarders bring over open jobs, recent quotes and active customer records." },
   ],
   related: {

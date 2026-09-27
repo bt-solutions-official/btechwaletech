@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Sending route", "Meta’s WhatsApp Cloud API"],
     ["Tally stays", "On your own PC or server"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Unofficial WhatsApp tools used" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Meta message charges", value: "Billed by Meta to your own account, per message" },
       { label: "Timeline", value: "2–4 weeks, mostly Meta verification and template review" },
       { label: "Proof of sending", value: "Sent, delivered, read and failed status per message" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Tally WhatsApp integration costs to build and run",
-    note: `The build is a one-time cost and starts at ${P.ai}. A single invoice button with manual sending sits at the lower end; auto-send on save, a month-end statement run, reminder rules and a searchable log add scope. Running costs are separate and small: Meta charges your own account per template message, and the bridge needs a little hosting. We itemise both in the quote, so you can compare them with what your staff time currently costs. After five months of free maintenance, ongoing care is optional and starts at ${P.care}. If you also want a customer portal or an order app on top of Tally, that moves into custom software, starting at ${P.software}.`,
+    note: `The build is a one-time cost and starts at ${P.ai}. A single invoice button with manual sending sits at the lower end; auto-send on save, a month-end statement run, reminder rules and a searchable log add scope. Running costs are separate and small: Meta charges your own account per template message, and the bridge needs a little hosting. We itemise both in the quote, so you can compare them with what your staff time currently costs. After two months of free maintenance, ongoing care is optional and starts at ${P.care}. If you also want a customer portal or an order app on top of Tally, that moves into custom software, starting at ${P.software}.`,
   },
   guideLabel: "Tally WhatsApp integration guide",
   guide: [
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Two to four weeks from approval to go-live is typical, and Meta’s reviews set the pace more than coding does. A business with a verified Meta account already can be live in about two weeks.`,
         `Week one covers Meta setup and template drafting, plus reading your Tally data: voucher types, print format, where numbers are stored. Week two builds the add-on and bridge against a copy of your company on a test machine. Week three connects to live Tally with sending limited to your own staff numbers, then a small group of friendly customers. Week four is the parallel run and handover. Month-end runs are tested on the first real month-end after launch, with us watching the log.`,
-        `You get the source code, a short guide for staff, and a written note of every rule. The next five months of fixes and small adjustments are free.`,
+        `You get the source code, a short guide for staff, and a written note of every rule. The next two months of fixes and small adjustments are free.`,
       ],
     },
   ],
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
         ["Invoices plus statements", "Above, plus scheduled ledger and outstanding runs", P.ai, "3–4 weeks"],
         ["Collections automation", "Above, plus reminder rules that stop on receipt", P.ai, "3–4 weeks"],
         ["Customer portal on Tally data", "Login for dealers to view bills and ledgers", P.software, "6–12 weeks"],
-        ["Ongoing care", "Template edits, Tally release checks, fixes", `${P.care} after 5 free months`, "Monthly"],
+        ["Ongoing care", "Template edits, Tally release checks, fixes", `${P.care} after 2 free months`, "Monthly"],
       ],
     },
   ],
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Meta setup in your name", "Business verification, number registration and templates, done with you on a screen-share so every account and password stays with you."],
       ["Build on a test copy", "The add-on and bridge are built against a copy of your Tally company, with messages going only to your own staff numbers."],
       ["Parallel run", "Live sending to a small group while staff keep their old routine, so both can be compared before switching everything over."],
-      ["Handover and watch", "Source code, staff guide and rules document handed over; we watch the first month-end run and fix issues free for five months."],
+      ["Handover and watch", "Source code, staff guide and rules document handed over; we watch the first month-end run and fix issues free for two months."],
     ],
   },
   faqHeading: "Tally WhatsApp integration: common questions",
@@ -433,7 +433,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tired of forwarding Tally PDFs by hand? Tell us what you send",
-    note: `Message us on WhatsApp with your Tally release, a sample invoice and the documents your staff forward every day. You get an itemised quote in about two working days, with builds from ${P.ai}, every account in your name and five months of free maintenance.`,
+    note: `Message us on WhatsApp with your Tally release, a sample invoice and the documents your staff forward every day. You get an itemised quote in about two working days, with builds from ${P.ai}, every account in your name and two months of free maintenance.`,
   },
 };
 

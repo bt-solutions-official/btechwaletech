@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["AI feature on de-identified or BAA-covered data", `From ${P.ai} · 2–4 weeks`],
     ["Where PHI lives", "Your AWS or Google Cloud account, under your BAA"],
     ["Quotes and billing", "USD · wire, Wise, PayPal"],
-    ["After release", `5 months free fixes, then from ${P.care}`],
+    ["After release", `2 months free fixes, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers you talk to directly, no account managers" },
     { value: "0", label: "Real patient records used while we build and test" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free fixes after the store release" },
+    { value: "2", label: "Months of free fixes after the store release" },
   ],
   answer: {
     heading: "What does HIPAA compliant app development involve?",
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
         `You own the code, the cloud account, the store listings and the data from day one, and at handover you receive the documentation needed to run, audit and extend the app without us.`,
         `The handover pack contains the current data-flow map, architecture diagram, infrastructure-as-code repository, SDK inventory with the reason each library is present, role and permission matrix, audit-log field list, runbooks for deployment and key rotation, and a list of every vendor holding PHI with the agreement each requires. When you confirm the transition, we remove our access and you can verify the removal in your own audit logs.`,
         `Maintenance after HIPAA compliant app development is more than bug fixes. Apple and Google ship major OS releases every year, dependencies publish security patches, certificates expire and store policies change. The Breach Notification Rule at 45 CFR 164.404 gives covered entities no more than 60 calendar days after discovering a breach to notify affected individuals, so a clear incident runbook and working logs are part of upkeep, not an extra.`,
-        `Fixes are free for five months after launch. After that, care plans start at ${P.care} and include monthly dependency and SDK review, OS-compatibility testing, log-review support and store-policy checks. You can equally move upkeep to an in-house team using the handover pack.`,
+        `Fixes are free for two months after launch. After that, care plans start at ${P.care} and include monthly dependency and SDK review, OS-compatibility testing, log-review support and store-policy checks. You can equally move upkeep to an in-house team using the handover pack.`,
       ],
     },
     {
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
       ["Map the data and set up accounts", "We deliver the data-flow map for your compliance lead. You create the cloud, store and code accounts, accept the provider BAA and invite us with scoped roles."],
       ["Build in sprints on synthetic data", "One- or two-week sprints end with installable test builds. Security work, logging and SDK checks run inside each sprint, never saved for the end."],
       ["Harden, test and submit", "We run the release checklist, support any penetration test you commission, prepare store privacy answers and submit under your Apple and Google accounts."],
-      ["Hand over and maintain", "You receive the full documentation pack and we remove our access when you confirm. Fixes are free for five months; care plans are optional afterwards."],
+      ["Hand over and maintain", "You receive the full documentation pack and we remove our access when you confirm. Fixes are free for two months; care plans are optional afterwards."],
     ],
   },
   faqHeading: "HIPAA compliant app development: questions US teams ask",
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Freelance team or healthcare app agency: which is better?", answer: "A healthcare agency suits large programmes needing many engineers or in-person workshops. A small freelance team suits focused apps where you want direct contact with the people writing code and a lower starting budget. Either way, ask who holds the BAAs, who touches real data and who owns the accounts." },
     { question: "Can you audit an app we already built?", answer: "Yes. We read the codebase, list every direct and transitive dependency, capture the app's network traffic on test devices and compare everything with a data-flow map. You receive a prioritised fix list, such as removing an SDK, moving storage to a covered service or rewording notifications, and we can implement the fixes." },
     { question: "Can a HIPAA compliant app use AI features?", answer: `Yes, when the model endpoint runs under a BAA that covers it, or when inputs are properly de-identified, and when a clinician reviews outputs before they affect care. Typical features are intake summaries or message drafts. AI work starts at ${P.ai}, and your counsel should review how outputs are presented to patients.` },
-    { question: "What happens after launch?", answer: `Fixes are free for five months. After that, care plans start at ${P.care} and cover OS updates, dependency and SDK patches, certificate renewals and store-policy changes. We also help keep the data-flow map current as features are added, because an outdated map is how new leaks slip in.` },
+    { question: "What happens after launch?", answer: `Fixes are free for two months. After that, care plans start at ${P.care} and cover OS updates, dependency and SDK patches, certificate renewals and store-policy changes. We also help keep the data-flow map current as features are added, because an outdated map is how new leaks slip in.` },
     { question: "How do calls and payments work from the US?", answer: "Calls happen in your morning, which is our evening in India; Pacific clients usually book early slots. Messages get replies on WhatsApp seven days a week. Quotes are in USD, milestones are paid by wire, Wise or PayPal after written approval, and invoices are issued from India." },
   ],
   related: {

@@ -42,12 +42,12 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Engineers who scope, build and support" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Mark-up added to your AI or platform bills" },
   ],
   answer: {
     heading: "What does an AI automation agency in Dubai charge, and is there a cheaper way?",
-    text: `Dubai agencies typically combine a discovery fee, a build fee per workflow, platform licences and a monthly retainer, so quotes vary widely. A remote engineering team can deliver the same automations without the retainer layer: BtechWaleTech builds AI automation from ${P.ai} per project in 2–4 weeks, on your own accounts, with support from ${P.care} a month after five free months.`,
+    text: `Dubai agencies typically combine a discovery fee, a build fee per workflow, platform licences and a monthly retainer, so quotes vary widely. A remote engineering team can deliver the same automations without the retainer layer: BtechWaleTech builds AI automation from ${P.ai} per project in 2–4 weeks, on your own accounts, with support from ${P.care} a month after two free months.`,
     more: `If the automation needs to act on its own, see <a href='/uae/ai-agent-development/'>AI agent development in Dubai</a>. For customer-facing answers, compare <a href='/uae/ai-chatbot-development/'>AI chatbot development</a>.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Platforms", value: "n8n (cloud or self-hosted), Make, or Python on your cloud" },
       { label: "AI usage", value: "Billed by the model provider to your account, no mark-up" },
       { label: "Pricing model", value: "One-off build, then optional monthly support" },
-      { label: "After launch", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What AI automation costs with a remote team",
-    note: `AI automation projects start from ${P.ai}. A typical first project covers one process end to end: the trigger, the steps, any AI step with its prompt and checks, error alerts, a simple log and a handover document. Price rises with the number of systems touched, how messy the input data is, whether custom code is needed beyond n8n or Make, and how much human review the flow needs. Platform plans and AI model usage are billed to your own accounts, so you see exactly what they cost. Monthly support after five free months starts from ${P.care}.`,
+    note: `AI automation projects start from ${P.ai}. A typical first project covers one process end to end: the trigger, the steps, any AI step with its prompt and checks, error alerts, a simple log and a handover document. Price rises with the number of systems touched, how messy the input data is, whether custom code is needed beyond n8n or Make, and how much human review the flow needs. Platform plans and AI model usage are billed to your own accounts, so you see exactly what they cost. Monthly support after two free months starts from ${P.care}.`,
   },
   guideLabel: "AI automation in Dubai: what agencies charge and how to do it for less",
   guide: [
@@ -125,7 +125,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "Where cost hides", text: "AI usage bundled into a flat monthly figure, automations running on the agency's own Make or n8n workspace, and retainers that continue after the work has stabilised." },
         { heading: "Where cost is fair", text: "Senior people doing discovery properly, on-site workshops, change management with staff, and genuine 24/7 monitoring. If you need those, paying for them makes sense." },
-        { heading: "What we do differently", text: `No retainer by default. A project fee from ${P.ai}, platform and AI bills on your own accounts, and optional support from ${P.care} a month after five free months.` },
+        { heading: "What we do differently", text: `No retainer by default. A project fee from ${P.ai}, platform and AI bills on your own accounts, and optional support from ${P.care} a month after two free months.` },
       ],
       after: [`We don't quote other firms' rates, and neither should you rely on anyone's published “average” figure. Ask each bidder to price the same written brief and compare line by line.`],
     },
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Pay one-off for the build and add a small monthly support plan only if you need someone to watch and adjust the flows. A large ongoing retainer makes sense when you are automating a new process every month, not when two stable flows simply need to keep running.`,
         `Automations do need care. APIs change, a supplier alters its invoice layout, a model version is retired, a password expires. Those events are occasional, and a support plan covers them. What you should question is a retainer sized as if the build never ends.`,
-        `With BtechWaleTech, each project is quoted one-off from ${P.ai}. Every launch includes five months of free maintenance for what we built. After that, support starts from ${P.care} a month, with scope agreed in writing, or you can take the documented flows in-house and call us only when you need a change.`,
+        `With BtechWaleTech, each project is quoted one-off from ${P.ai}. Every launch includes two months of free maintenance for what we built. After that, support starts from ${P.care} a month, with scope agreed in writing, or you can take the documented flows in-house and call us only when you need a change.`,
       ],
       subs: [
         { heading: "Retainer suits", text: "A roadmap of new automations every month, heavy change management, or a need for an external team on standby." },
@@ -309,7 +309,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, with us on call if you want. Every flow is handed over with a one-page description, a diagram, the list of accounts and keys it uses, what its alerts mean and what to do when each one fires.`,
         `We name an owner on your side for each automation, usually the person who used to do the task. They get a short walkthrough of the logs and review queue, so a failed run is noticed and handled the same day. For anything beyond that, such as a supplier changing its invoice layout, you message us on WhatsApp; we reply seven days a week during Indian working hours.`,
-        `Five months of free maintenance cover fixes to what we built. After that, support starts from ${P.care} a month if you want it. Many clients take a support plan for the first year and drop it once flows are stable, which is exactly how it should work. If you later compare us with an AI automation agency in Dubai for a bigger programme, the documentation lets any competent team pick the work up.`,
+        `Two months of free maintenance cover fixes to what we built. After that, support starts from ${P.care} a month if you want it. Many clients take a support plan for the first year and drop it once flows are stable, which is exactly how it should work. If you later compare us with an AI automation agency in Dubai for a bigger programme, the documentation lets any competent team pick the work up.`,
       ],
     },
   ],
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Design the flow", "A one-page design showing trigger, steps, AI checks, human review and alerts, plus the tool choice and why."],
       ["Itemised USD quote", "In about two working days: build fee, estimated running costs on your accounts, and what stays manual on purpose."],
       ["Build on your accounts", "The flow built in your workspace, tested on real past data, with error alerts going to a named person on your team."],
-      ["Launch and re-measure", "Go live with review steps in place, re-measure after four weeks, and hand over docs with five months of free maintenance."],
+      ["Launch and re-measure", "Go live with review steps in place, re-measure after four weeks, and hand over docs with two months of free maintenance."],
     ],
   },
   faqHeading: "AI automation agency in Dubai: questions UAE businesses ask",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Does the UAE PDPL apply to AI automation?", answer: "The UAE's federal personal data protection law, Federal Decree-Law No. 45 of 2021, came into effect on 2 January 2022 and covers processing of personal data, and some free zones such as the DIFC have their own laws. Whether and how they apply to your business is for your legal adviser. We build to support your obligations: minimisation, access control, logs and retention settings." },
     { question: "Can AI data be kept in the UAE?", answer: "Partly, depending on the provider and service. Your automation platform and databases can run on your own cloud account in a UAE region, and n8n can be self-hosted there. For AI models, OpenAI's documentation lists the United Arab Emirates as a data residency region that requires additional approval. We check each provider's current options for your case." },
     { question: "How do you measure hours saved by automation?", answer: "Before building, your team times a sample of real items and pulls weekly volume from your systems; minutes per item times volume gives hours per week. Four weeks after launch we repeat the measurement using the automation's logs and time any remaining review work. We report net hours saved, which is the honest number, alongside error counts." },
-    { question: "Should I pay a monthly retainer for AI automation?", answer: `Only if you are adding new automations regularly or need a team on standby. Stable flows need occasional maintenance rather than a large retainer. We quote each build one-off from ${P.ai}, include five months of free maintenance, then offer optional support from ${P.care} a month with scope agreed in writing. You can also take flows in-house.` },
+    { question: "Should I pay a monthly retainer for AI automation?", answer: `Only if you are adding new automations regularly or need a team on standby. Stable flows need occasional maintenance rather than a large retainer. We quote each build one-off from ${P.ai}, include two months of free maintenance, then offer optional support from ${P.care} a month with scope agreed in writing. You can also take flows in-house.` },
     { question: "How long does an AI automation project take?", answer: "Usually 2–4 weeks per project after the quote is approved. A single lead-reply flow with templates sits at the short end; invoice extraction with validation, review queues and accounting integration sits at the long end. We add a week before the build for baseline measurement and design, and a re-measurement four weeks after launch." },
     { question: "Who owns the automations after they are built?", answer: "You do. Flows run in your own Make or n8n workspace or on your cloud account, API keys are registered to your business, and code sits in your repository. You receive a one-page description, a diagram and an alert guide for each flow. We work through access you grant and can remove at any time." },
     { question: "Can you automate WhatsApp messages for my business?", answer: "Yes, on the official WhatsApp Business Platform. Free-text replies are allowed within 24 hours of a customer's last message; outside that window, only pre-approved templates can be sent, and marketing templates need opt-in. We design order updates, reminders and lead replies around these rules. Unofficial tools that automate the WhatsApp app risk a banned number." },

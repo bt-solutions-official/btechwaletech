@@ -56,7 +56,7 @@ const sehore: CityContent = {
     ai: "WhatsApp replies in Hindi for room availability, fees, rates and timings, with anything unusual handed to a person.",
     data: "Season dashboards showing arrivals, purchases, dues and dispatch for grain and soybean traders on a phone.",
     app: "Android and iOS apps for dealer orders, student notices or pilgrim room bookings, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month for edits, backups and security.",
+    maintenance: "Two months of free maintenance after launch, then plans from ₹8,000 a month for edits, backups and security.",
   },
   whyUsIntro:
     "Sehore owners usually weigh a Bhopal agency against a local designer who builds a quick template and keeps the login. We sit between the two: three engineers you can message directly, starting prices on our site, itemised written quotes and the domain, hosting and code registered to you from day one.",
@@ -195,7 +195,7 @@ const sehore: CityContent = {
       paragraphs: [
         "A common Sehore story goes like this: a website was made years ago by a relative or a local designer, the domain was registered in their name, and when they moved to Bhopal or Indore the renewal lapsed and the site vanished, taking the business's Google links with it.",
         "We prevent that from the first day. Your domain, hosting, Google accounts and app store developer accounts are registered in your name. At launch you receive every password, the full source code and a short note explaining how things fit together. If you ever move to another developer, there is no exit fee and nothing is held back.",
-        "Maintenance is free for five months after launch. That covers text and price updates, bug fixes, security updates, backups and uptime checks. After that you can choose a plan from ₹8,000 a month or simply message us when something needs doing. Details of what every build includes are on our <a href=\"/services/web-development/\">web development page</a>.",
+        "Maintenance is free for two months after launch. That covers text and price updates, bug fixes, security updates, backups and uptime checks. After that you can choose a plan from ₹8,000 a month or simply message us when something needs doing. Details of what every build includes are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const sehore: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers content and price edits, bug fixes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can message us only when you need something done.",
+        "Maintenance is free for two months after launch and covers content and price edits, bug fixes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can message us only when you need something done.",
     },
     {
       question: "Do you work with businesses in Ashta, Budhni, Ichhawar and Bhopal?",

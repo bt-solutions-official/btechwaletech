@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Multi-site SEO build", `From ${P.seoSite}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Booking", "Cliniko, Halaxy, Nookal and similar"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who build and maintain your site" },
     { value: "0", label: "Clinical testimonials on your pages" },
     { value: "2", label: "Working days to your written quote" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
   ],
   answer: {
     heading: "How should an allied health website be built to fill appointment books?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Service pages", note: "Pages for each service you offer, describing what an appointment involves, who it suits and how to book, with no promises about outcomes.", size: "md" },
       { name: "GP and referrer page", note: "A page for GPs, case managers and support coordinators with referral options, fax or secure messaging details and report turnaround in your words.", size: "sm" },
       { name: "After-hours call capture", note: `An AI receptionist that takes booking requests when reception is closed, from ${P.ai}.`, href: "/australia/ai-receptionist-for-small-business/", size: "sm" },
-      { name: "Monthly care", note: `Updates, backups and small copy edits from ${P.care} after the five free months.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Monthly care", note: `Updates, backups and small copy edits from ${P.care} after the two free months.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, allied health website design starts from ${P.site} for a single-location clinic site of up to 100 pages, and from ${P.seoSite} for multi-site networks with distinct content per location. Quotes elsewhere vary widely, mostly because of copywriting, photography and ongoing marketing bundled into the price.`,
         `What moves the quote: the number of practitioners and services, whether you supply finished copy or want it drafted from notes, how many locations need their own pages, and extras such as a patient resources library or a secure intake form. Integration with your booking system is usually straightforward because we use its own booking pages.`,
-        `Running costs are separate and paid by you directly: domain, hosting and email. Your practice management subscription stays as it is. After launch, maintenance is free for five months, then optional from ${P.care} per month. For a wider view of what websites cost in Australia, the <a href='/australia/website-design-cost/'>website design cost guide</a> breaks it down by project type.`,
+        `Running costs are separate and paid by you directly: domain, hosting and email. Your practice management subscription stays as it is. After launch, maintenance is free for two months, then optional from ${P.care} per month. For a wider view of what websites cost in Australia, the <a href='/australia/website-design-cost/'>website design cost guide</a> breaks it down by project type.`,
       ],
     },
     {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
       ["Practitioner details form", "Each clinician fills a short form with qualifications, interests, days and a photo, so profiles are accurate without long email chains."],
       ["Draft copy and preview", "We draft testimonial-free copy for review and build the site on a private preview link, with booking buttons pointing at your real system."],
       ["Checks before launch", "We test every booking link, form and page on mobile, run accessibility and speed checks, and set up redirects if you are replacing an old site."],
-      ["Launch and aftercare", "We connect the domain, submit the sitemap to Google Search Console, set up conversion tracking, and maintain the site free for five months."],
+      ["Launch and aftercare", "We connect the domain, submit the sitemap to Google Search Console, set up conversion tracking, and maintain the site free for two months."],
     ],
   },
   faqHeading: "Allied health website design: common questions",
@@ -362,8 +362,8 @@ const content: FreelanceContent = {
     { question: "When can we talk if you are in India?", answer: "India is four and a half hours behind Sydney, Melbourne and Brisbane during Australian winter, and five and a half behind Sydney and Melbourne in daylight saving. Your early afternoon is our morning, which suits calls between appointment blocks. Perth is two and a half hours ahead of India. WhatsApp replies come seven days a week." },
     { question: "How do Australian clinics pay you?", answer: "Quotes and invoices are in USD and issued from India. You can pay by Wise, bank wire or PayPal. The payment schedule is written into your quote, and nothing is billed until you approve that quote in writing. For questions about how the expense is treated for tax, please speak with your accountant." },
     { question: "Who owns the clinic website?", answer: "Your clinic does. The domain, hosting, analytics, Google Business Profiles and the website code are set up in your clinic's name, and all logins are handed over at launch. Your practice management system stays under your own account. If you ever change developers, the new one can take over without needing anything from us." },
-    { question: "Can reception update the website without a developer?", answer: "Yes. We set up simple editing for fees, hours, practitioner days, holiday closures and news, and record a short walkthrough video. Larger changes such as new page types are easier for us to handle, and small edits are included during the five free months of maintenance after launch." },
-    { question: "What happens after the free maintenance period?", answer: `After five free months you can manage the site yourself, move it to another developer, or keep us on from ${P.care} per month for updates, backups, security checks and small edits. Ongoing terms are agreed in writing, and our terms and refund policy pages explain how agreements work.` },
+    { question: "Can reception update the website without a developer?", answer: "Yes. We set up simple editing for fees, hours, practitioner days, holiday closures and news, and record a short walkthrough video. Larger changes such as new page types are easier for us to handle, and small edits are included during the two free months of maintenance after launch." },
+    { question: "What happens after the free maintenance period?", answer: `After two free months you can manage the site yourself, move it to another developer, or keep us on from ${P.care} per month for updates, backups, security checks and small edits. Ongoing terms are agreed in writing, and our terms and refund policy pages explain how agreements work.` },
     { question: "Do you build patient apps for allied health clinics?", answer: `Yes. We build Android and iOS apps from ${P.app} for things like home exercise programs, reminders or group class bookings, published under your own developer accounts. Many clinics find their practice software's existing patient features are enough, so we check that first before recommending a custom app.` },
     { question: "Do you visit the clinic to take photos?", answer: "No, we work remotely from India and do not provide photography or site visits. We can advise on the photos that work best, such as practitioner portraits, treatment rooms and the entrance, and optimise whatever you supply so it loads quickly. Many clinics use a local photographer for a single half-day shoot." },
   ],

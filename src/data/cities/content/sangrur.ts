@@ -56,7 +56,7 @@ const sangrur: CityContent = {
     ai: "WhatsApp assistants in Punjabi and Hindi that answer price, stock, fee and timing questions and forward real decisions to you.",
     data: "Season dashboards of paddy intake, milling output, machinery sales by district and payments outstanding.",
     app: "Android and iOS apps for dealers ordering implements and spares, or for coaching students getting batch updates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Sangrur owners are direct about money and expect the same in return. We publish starting prices, give a written itemised quote, answer WhatsApp every day of the week and register your domain, hosting, code and store accounts in your own name. If a feature you are asking for will not pay for itself, we will say that before you spend on it.",
@@ -177,7 +177,7 @@ const sangrur: CityContent = {
       heading: "Ownership, maintenance and support in Sunam, Dhuri, Longowal and Bhawanigarh",
       paragraphs: [
         "Too many small businesses in Punjab have lost a website because the designer registered the domain in his own name and then vanished. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your name from the first day, and hand all logins over in writing.",
-        "Maintenance is free for five months after launch: content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links keep working. After that, it starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you like. Apps need attention every year as Google and Apple update their requirements, and we track those changes so your app stays listed.",
+        "Maintenance is free for two months after launch: content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links keep working. After that, it starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you like. Apps need attention every year as Google and Apple update their requirements, and we track those changes so your app stays listed.",
         "We work with businesses in Sangrur and across the district, including Sunam, Dhuri, Longowal, Bhawanigarh, Lehragaga, Dirba and Moonak, as well as nearby Malerkotla, Barnala, Nabha, Patiala and Samana. SLIET at Longowal also means a steady supply of engineering students who may handle your site day to day, and we train whoever will manage it. Unsure where to start? Send us a WhatsApp message or use our <a href=\"/contact/\">contact page</a>, and we will suggest the smallest step that helps.",
       ],
     },
@@ -265,7 +265,7 @@ const sangrur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to carry on. You can take your code and accounts to another developer at any time without any lock-in.",
+        "The first two months after launch are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to carry on. You can take your code and accounts to another developer at any time without any lock-in.",
     },
     {
       question: "Do you work in Sunam, Dhuri, Longowal and nearby towns?",

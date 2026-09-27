@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Where it runs", "Your AWS, Indian GPU cloud or own servers"],
     ["Inference server", "vLLM or similar, OpenAI-compatible API"],
     ["GPU bills", "Paid by you, direct to the provider"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one leading AWS and ML" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Markup from us on cloud or GPU bills" },
   ],
   answer: {
@@ -88,14 +88,14 @@ const content: FreelanceContent = {
       ["Running cost pattern", "Per token", "Licence plus infrastructure", "GPU rental or hardware, fairly flat"],
       ["Choice of model", "Provider's catalogue", "Vendor's choice", "Any open model with a suitable licence"],
       ["Lock-in", "API changes and pricing", "Vendor contract", "Low: open models, standard tooling"],
-      ["Who maintains it", "Provider", "Vendor support", "You, with our help for 5 months free"],
+      ["Who maintains it", "Provider", "Vendor support", "You, with our help for 2 months free"],
       ["Starting cost from us", "Integration work only", "Not applicable", `From ${P.ai}`],
     ],
     fine: "If your data rules allow a hosted API, and many do, especially with regional data residency options, it will usually be cheaper and higher quality than self-hosting at low volume; we will tell you so.",
   },
   pricing: {
     heading: "Private LLM deployment pricing: setup, GPUs and upkeep",
-    note: `Private LLM deployment has three cost lines. Our setup work, covering model benchmarking, GPU sizing, network and inference server setup, security hardening and handover, starts at ${P.ai} (${P.aiUsd}) over 2–4 weeks. Internal applications on top, such as a staff chat portal with roles or document search across departments, start at ${P.software}. GPU rental or hardware is billed by your provider directly to you and is usually the largest ongoing line, so we size it carefully and show you the options before anything is launched. After five months of free maintenance, upkeep starts at ${P.care} a month if you want it. Quotes are itemised in about two working days.`,
+    note: `Private LLM deployment has three cost lines. Our setup work, covering model benchmarking, GPU sizing, network and inference server setup, security hardening and handover, starts at ${P.ai} (${P.aiUsd}) over 2–4 weeks. Internal applications on top, such as a staff chat portal with roles or document search across departments, start at ${P.software}. GPU rental or hardware is billed by your provider directly to you and is usually the largest ongoing line, so we size it carefully and show you the options before anything is launched. After two months of free maintenance, upkeep starts at ${P.care} a month if you want it. Quotes are itemised in about two working days.`,
   },
   guideLabel: "Private LLM deployment guide",
   guide: [
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
         `After launch, a private LLM needs the same care as any production server, plus model-specific checks: GPU memory and utilisation, latency, error rates, and a periodic rerun of the quality test set. Someone must own it, and that owner should be in your organisation, with us as support.`,
         `Monitoring covers the basics every week: is the GPU saturated at peak hours, are requests queuing, are error rates rising, is disk filling with logs. Alerts go to your team and, during the maintenance period, to us.`,
         `New open models appear often, and some will be better or cheaper for your task. Because the test set and deployment are reusable, evaluating a new model is a short exercise rather than a project. Security patches for drivers, containers and the inference server should be applied on a schedule.`,
-        `Ownership is simple: the cloud account, infrastructure code, container images, configuration and documentation are yours from the start. At handover you receive runbooks for restarting, scaling, rotating keys and swapping models. Five months of free maintenance follow; after that, care starts at ${P.care} a month, only if you want it.`,
+        `Ownership is simple: the cloud account, infrastructure code, container images, configuration and documentation are yours from the start. At handover you receive runbooks for restarting, scaling, rotating keys and swapping models. Two months of free maintenance follow; after that, care starts at ${P.care} a month, only if you want it.`,
       ],
     },
     {
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
         ["Private endpoint: model, GPU, network, vLLM, security", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Private endpoint plus document search", `From ${P.ai}`, `From ${P.aiUsd}`, "3–5 weeks"],
         ["Internal chat portal with roles and audit log", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
-        ["Care after 5 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Monthly"],
+        ["Care after 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
       ["Size and build in your account", "We choose the model and precision, size the GPU, and build the private network and inference server in your cloud or on your servers."],
       ["Lock it down", "Authentication, least-privilege roles, encryption, deliberate logging with masking and prompt-injection tests are set up before any real data flows."],
       ["Load-test and monitor", "Realistic concurrent traffic confirms the sizing. Dashboards and alerts track GPU use, latency and errors from day one."],
-      ["Hand over and support", "You receive infrastructure code, runbooks and access, with five months of free maintenance covering fixes, patches and model swaps."],
+      ["Hand over and support", "You receive infrastructure code, runbooks and access, with two months of free maintenance covering fixes, patches and model swaps."],
     ],
   },
   faqHeading: "Private LLM deployment: questions organisations ask",
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
     { question: "Private LLM apne server par kaise lagaye?", answer: "Pehle tay kijiye ki private kyun chahiye, phir apne kaam par do-teen open models test kijiye. Model ke size ke hisaab se GPU chuniye, vLLM jaisa inference server private network mein chalaiye, aur authentication, encryption aur logging set kijiye. BtechWaleTech yeh setup aapke apne cloud account mein karta hai." },
     { question: "Do you supply GPUs or servers?", answer: "No. We set up the software on cloud instances in your account or on servers you already own or buy: drivers, containers, the inference server, networking, security and monitoring. We do not sell, install or maintain physical hardware or visit sites. Cloud bills and hardware purchases are between you and your provider." },
     { question: "How do we keep a private LLM secure?", answer: "Run it in a private network with no public endpoint, put authentication in front of the inference server, give each calling service only the permissions it needs, encrypt storage, log deliberately with personal identifiers masked, and test for prompt injection from documents and emails. We set these up before any real data flows through the system." },
-    { question: "What happens when better open models are released?", answer: "Because the test set and deployment are reusable, evaluating a new model is a short exercise: run the test set, compare accuracy, speed and memory, and swap if it wins. The OpenAI-compatible endpoint means applications usually need only a model-name change. Model swaps are covered during the five months of free maintenance." },
+    { question: "What happens when better open models are released?", answer: "Because the test set and deployment are reusable, evaluating a new model is a short exercise: run the test set, compare accuracy, speed and memory, and swap if it wins. The OpenAI-compatible endpoint means applications usually need only a model-name change. Model swaps are covered during the two months of free maintenance." },
     { question: "Can freelancers handle an enterprise private LLM deployment?", answer: "A small freelance team can handle focused deployments well: one or a few models, a private endpoint, security hardening and applications on top. We are three people, so we are not the right fit for multi-site data-centre builds or teams needing twenty engineers on call. We will say so early if your scope needs a larger provider." },
     { question: "Does a private LLM help our website appear in AI search?", answer: "No. A private model is internal and does not affect how public AI assistants or search engines describe your organisation. Visibility there depends on your public website and consistent information about you across the web, which is separate SEO work. Nobody can honestly guarantee rankings or AI mentions." },
     { question: "How are payments and approvals handled?", answer: "You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. Clients in India pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Milestones and other terms are set out in your written quote, and cloud bills go directly to you." },
@@ -440,7 +440,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need AI that never leaves your network? Talk to us",
-    note: `Tell us on WhatsApp why the model must be private and what it should do. In about two working days you get an itemised plan with a benchmark step first, private LLM deployment starting at ${P.ai}, everything built in your own accounts and five months of free maintenance.`,
+    note: `Tell us on WhatsApp why the model must be private and what it should do. In about two working days you get an itemised plan with a benchmark step first, private LLM deployment starting at ${P.ai}, everything built in your own accounts and two months of free maintenance.`,
   },
 };
 

@@ -30,11 +30,11 @@ const habra: CityContent = {
     eyebrow: "Habra · North 24 Parganas, West Bengal",
     h1: "Websites, software, SEO and AI tools for Habra's station-side shops, tutors, clinics and Jessore Road transporters",
     lede:
-      "We are a remote team of three engineers who build websites, Google listings and WhatsApp workflows for businesses in Habra and its neighbouring towns: shops near the station, coaching centres and tutors, clinics and labs, sweet makers, fish and jute traders, and transport operators working the Jessore Road towards the border. Prices are published and upkeep is free for five months.",
+      "We are a remote team of three engineers who build websites, Google listings and WhatsApp workflows for businesses in Habra and its neighbouring towns: shops near the station, coaching centres and tutors, clinics and labs, sweet makers, fish and jute traders, and transport operators working the Jessore Road towards the border. Prices are published and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Bengali-first pages", "Tuition and coaching sites", "Transport and trade pages", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "A basic website for a Habra business costs from ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Habra office, and the first five months of maintenance after launch are free.",
+    "A basic website for a Habra business costs from ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Habra office, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "North 24 Parganas district, in the Barasat Sadar subdivision, about 45 km from Sealdah by rail" },
     { label: "Population", value: "About 1.47 lakh in the municipality (24 wards) and over 3 lakh in the Habra urban agglomeration at the 2011 census" },
@@ -51,7 +51,7 @@ const habra: CityContent = {
     ai: "WhatsApp replies in Bengali or English for tuition fees, batch times, doctor days and stock questions, with anything sensitive passed to a person.",
     data: "Dashboards that show a coaching centre's admissions, a clinic's footfall or a wholesaler's dues at a glance on a phone.",
     app: "Android and iOS apps for tuition attendance, homework notices or trip entries that work on patchy data, published on Google Play and the App Store.",
-    maintenance: "Updates, backups, uptime checks and small edits free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, uptime checks and small edits free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Plenty of Habra businesses have had a website made by a cyber cafe, a relative who works in Kolkata or an agency in Salt Lake that stopped answering after the second instalment. Usually the domain is in the builder's name. We are three engineers with published rates and written quotes, you talk directly to us, and every login is yours from launch.",
@@ -176,7 +176,7 @@ const habra: CityContent = {
       paragraphs: [
         "A familiar Habra story: a website was built for a shop, the developer used his own email and card, and when he took a job elsewhere the renewal lapsed. The shop lost the site and, worse, the domain name printed on its bags and bills.",
         "We register the domain and hosting in your name and payment account from day one. At launch you receive every login, the full source code and a short written note on the setup. Any competent developer can take over later, with no exit fee. Our <a href=\"/services/web-development/\">web development</a> relies on common, documented tools for exactly that reason.",
-        "For five months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small edits. After that you can continue from ₹8,000 a month or call us only when something needs doing.",
+        "For two months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small edits. After that you can continue from ₹8,000 a month or call us only when something needs doing.",
       ],
     },
     {
@@ -266,7 +266,7 @@ const habra: CityContent = {
     {
       question: "What happens after the site is live?",
       answer:
-        "For five months we maintain it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months we maintain it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long does local SEO take in Habra?",

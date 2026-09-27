@@ -32,10 +32,10 @@ const guntakal: CityContent = {
     h1: "Web, app, SEO and automation services for Guntakal, the junction town of Anantapur district",
     lede:
       "Guntakal is where five railway routes meet, and its shops, lodges, clinics, coaching centres and contractors serve travellers, railway families and farmers from eight mandals. We are three remote engineers who build websites, map listings and WhatsApp systems for them, with starting prices written down and every account left in your name.",
-    pills: ["Websites from ₹10,000", "Railway-town know-how", "Telugu, Kannada, Urdu pages", "WhatsApp enquiry flows", "5 months free upkeep"],
+    pills: ["Websites from ₹10,000", "Railway-town know-how", "Telugu, Kannada, Urdu pages", "WhatsApp enquiry flows", "2 months free upkeep"],
   },
   quickAnswer:
-    "A Guntakal business website starts at ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Guntakal, and maintenance is free for five months after launch.",
+    "A Guntakal business website starts at ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Guntakal, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Railways", value: "Guntakal Junction is a five-point junction and headquarters of a South Coast Railway division since 1953" },
     { label: "Administration", value: "Headquarters of Guntakal mandal and of a revenue division of eight mandals formed in 2022, Anantapur district" },
@@ -52,7 +52,7 @@ const guntakal: CityContent = {
     ai: "WhatsApp assistants that answer routine questions in Telugu, Kannada, Urdu or English and pass real bookings and orders to a person.",
     data: "Simple dashboards for patient counts, admissions, stock movement or contract billing, readable on the owner's phone.",
     app: "Android and iOS apps for delivery riders, field staff or parents of a coaching batch, from ₹40,000 with Google Play and App Store release.",
-    maintenance: "Five free months of fixes and updates after launch, then plans from ₹8,000 a month or payment only when you need a change.",
+    maintenance: "Two free months of fixes and updates after launch, then plans from ₹8,000 a month or payment only when you need a change.",
   },
   whyUsIntro:
     "A Guntakal business may serve a railway employee transferred from Vijayawada, a farmer from Vajrakarur and a pilgrim bound for Kasapuram on the same morning. The website has to speak to all three. We plan it with you over WhatsApp, quote starting prices in writing and hand over every login at launch.",
@@ -186,7 +186,7 @@ const guntakal: CityContent = {
       paragraphs: [
         "In a town where people move on transfer, developers move too. We regularly hear of Guntakal websites that vanished because the domain sat in a departed developer's account and nobody received the renewal reminder. The phone number printed on bills and boards then leads customers to an error page.",
         "We avoid this from the start. The domain is registered in your name, hosting runs on your own account, and at launch you receive every password, the complete source code and a short note explaining how things fit together. If you ever want another developer, you can switch without asking our permission or paying an exit fee.",
-        "Maintenance is free for five months after launch and covers content edits, bug fixes, security updates, backups and uptime monitoring. After that, plans start at ₹8,000 a month, or you pay only when you need a change. Many small businesses keep a plan during admission or festival seasons and switch to pay-per-change for the quieter months.",
+        "Maintenance is free for two months after launch and covers content edits, bug fixes, security updates, backups and uptime monitoring. After that, plans start at ₹8,000 a month, or you pay only when you need a change. Many small businesses keep a plan during admission or festival seasons and switch to pay-per-change for the quieter months.",
       ],
     },
   ],
@@ -271,7 +271,7 @@ const guntakal: CityContent = {
         "You do. The domain is registered in your name, hosting is on your account, and at launch you receive all passwords and the full source code. You can move to another developer at any time without an exit fee or our permission.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You decide. Maintenance plans start at ₹8,000 a month and cover updates, backups, security patches and content edits. You can also skip a plan and pay per change. Either way, your accounts and code remain fully in your hands.",
     },

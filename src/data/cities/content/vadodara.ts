@@ -7,7 +7,7 @@ const vadodara: CityContent = {
   meta: {
     title: "IT Services in Vadodara: Websites, Apps, SEO & AI",
     description:
-      "Website development, Gujarati and English SEO, online stores and automation for Vadodara firms. From ₹10,000, itemised quotes, 5 months of free maintenance.",
+      "Website development, Gujarati and English SEO, online stores and automation for Vadodara firms. From ₹10,000, itemised quotes, 2 months of free maintenance.",
     keywords: [
       "website development team in Vadodara",
       "web design team Baroda",
@@ -35,7 +35,7 @@ const vadodara: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English SEO", "UPI and card stores", "WhatsApp automation", "Custom portals"],
   },
   quickAnswer:
-    "Vadodara businesses can get a static website from us from ₹10,000 and a 299+ page SEO website from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote freelance team of three engineers, you own everything, and the first five months of maintenance are free.",
+    "Vadodara businesses can get a static website from us from ₹10,000 and a 299+ page SEO website from ₹20,000, usually within one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote freelance team of three engineers, you own everything, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Business areas", value: "Alkapuri, Sayajigunj, Race Course, Akota, Fatehgunj, and the old-city markets of Mandvi, Raopura and Mangal Bazaar" },
     { label: "Industrial estates", value: "Makarpura GIDC, Nandesari, Waghodia, Savli and Por, with large units such as the Gujarat Refinery at Koyali" },
@@ -52,7 +52,7 @@ const vadodara: CityContent = {
     ai: "Automated enquiry logging, WhatsApp replies and AI assistants that answer routine questions in Gujarati, Hindi or English and hand the rest to your staff.",
     data: "Dashboards for production, dispatch, sales or admissions numbers so a Vadodara owner can see the day's position on a phone.",
     app: "Android and iOS apps for service bookings, field staff reports and student portals, from ₹40,000 with Google Play and App Store release included.",
-    maintenance: "Edits, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Edits, backups, security patches and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Vadodara has no shortage of web designers, from Alkapuri agencies to freelancers working from home in Manjalpur. What is short is transparency: few publish prices or say who will own the domain. We list our starting rates, register everything in your name and reply on WhatsApp every day of the week.",
@@ -177,7 +177,7 @@ const vadodara: CityContent = {
       paragraphs: [
         "We often meet Vadodara owners who cannot edit their own website because the domain or hosting belongs to a designer who has moved on. Renewal notices go unread, the SSL certificate lapses, and customers see a security warning instead of your homepage. Recovering control can take weeks.",
         "Our setup avoids that entirely. The domain is registered in your name, hosting is opened in your name, and at launch you receive every login, the full source code and a short explanation of how the site is put together. You can take it to another developer at any time without an exit fee.",
-        "For the first five months after launch, maintenance is free: content changes, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month or simply contact us when you need something done.",
+        "For the first two months after launch, maintenance is free: content changes, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month or simply contact us when you need something done.",
       ],
     },
   ],
@@ -264,7 +264,7 @@ const vadodara: CityContent = {
     {
       question: "What does the free maintenance period include?",
       answer:
-        "For five months after launch we handle content edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. Afterwards, plans start from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle content edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. Afterwards, plans start from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Do you also work with businesses in Anand, Bharuch and nearby towns?",

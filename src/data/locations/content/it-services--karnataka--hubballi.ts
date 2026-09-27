@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI assistants that read invoices, answer dealer and student questions, and draft follow-ups for staff to approve.",
     data: "Owner dashboards that combine Tally, Excel and app data into daily sales, stock, dues and collection figures.",
     app: "Android and iOS apps for Hubballi salesmen, dealers, drivers and students, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free fixes, backups and updates after launch, then support from ₹8,000 a month.",
+    maintenance: "Two months of free fixes, backups and updates after launch, then support from ₹8,000 a month.",
   },
   whyUsIntro:
     "Hubballi owners are practical buyers: they want to know the price, who is doing the work, and what happens when something breaks. We answer those three things before any advance. Three engineers, a written itemised scope, a live staging link and replies seven days a week on WhatsApp.",
@@ -225,7 +225,7 @@ const content: CityContent = {
       id: "maintenance-it-support-hubballi",
       heading: "Maintenance and IT support after your Hubballi system goes live",
       paragraphs: [
-        "Maintenance keeps your software safe and working as phones, browsers and libraries change. All BtechWaleTech projects include five months of free maintenance after hosting is live: bug fixes, security updates, backups, uptime checks and small changes.",
+        "Maintenance keeps your software safe and working as phones, browsers and libraries change. All BtechWaleTech projects include two months of free maintenance after hosting is live: bug fixes, security updates, backups, uptime checks and small changes.",
         "After that, plans start at ₹8,000 a month, or you pay only for changes you ask for. We reply on WhatsApp seven days a week, so a dues reminder that stops before a festival rush gets attention quickly. Learn more <a href='/about/'>about our team</a>.",
         "You can also browse <a href='/it-services/karnataka/'>IT services across Karnataka</a>, our <a href='/hubli-dharwad/'>Hubli-Dharwad websites page</a>, nearby <a href='/it-services/karnataka/belagavi/'>Belagavi software work</a>, or <a href='/contact/'>contact us</a> with your list of problems.",
       ],
@@ -261,7 +261,7 @@ const content: CityContent = {
     { question: "How do we pay you?", answer: "Only by UPI, scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not accept payments through gateways or payment links. Work is split into milestones, and you pay each stage after reviewing it on the staging site." },
     { question: "Can the software work in Kannada?", answer: "Yes. We build interfaces, reports and messages in Kannada and English, using fonts that display correctly on phones. Dealers and staff often prefer Kannada for daily use while accounts use English, and both can coexist in the same system." },
     { question: "Will we own the software and data?", answer: "Yes, completely. The code repository, domain, hosting, database and any gateway account are set up in your name. At handover you receive credentials and short documentation, so another developer can take over any time without our permission." },
-    { question: "What support do we get after launch?", answer: "Five months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small edits. After that, support plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
+    { question: "What support do we get after launch?", answer: "Two months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small edits. After that, support plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
     { question: "How long does local SEO take in Hubli–Dharwad?", answer: "Typically three to six months for steady results in local searches, sometimes faster for less competitive services. Indexing takes weeks, but map rankings build with reviews, consistent details and useful pages. Nobody honest guarantees positions; we report monthly from Search Console." },
     { question: "Can AI automation work with Tally?", answer: "Yes, in many setups. AI can read invoices or orders and prepare data that is imported into Tally, or read Tally exports to power dashboards and reminders. We check your Tally version and configuration first and tell you what can be automated fully and what needs a manual check." },
     { question: "Do you build Android and iOS apps for Hubballi salesmen and dealers?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. We build once in Flutter or React Native, with offline saving for poor signal, push notifications, forms and an admin panel, and publish on Google Play and the App Store in your name. Field-sales and dealer ordering apps are common requests." },

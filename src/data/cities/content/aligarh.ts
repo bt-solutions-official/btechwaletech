@@ -30,11 +30,11 @@ const aligarh: CityContent = {
     eyebrow: "Aligarh · Uttar Pradesh",
     h1: "Web design, SEO and automation for the City of Locks",
     lede:
-      "We are three remote engineers building catalogue websites for Talanagri lock and hardware manufacturers, local SEO for clinics and shops around Centre Point and Marris Road, and admissions sites for the coaching centres that fill up each year near AMU. Prices are published, you speak to the developers directly, and five months of maintenance come free.",
+      "We are three remote engineers building catalogue websites for Talanagri lock and hardware manufacturers, local SEO for clinics and shops around Centre Point and Marris Road, and admissions sites for the coaching centres that fill up each year near AMU. Prices are published, you speak to the developers directly, and two months of maintenance come free.",
     pills: ["Websites from ₹10,000", "Hardware dealer catalogues", "Hindi and Urdu-aware SEO", "WhatsApp order automation", "Domain in your name"],
   },
   quickAnswer:
-    "An Aligarh business website with us starts at ₹10,000 and is usually live in one to two weeks, while a 299+ page SEO or dealer catalogue site starts at ₹20,000. Online stores begin at ₹50,000. We are a remote team of three engineers with no local office, so you get lower prices, full ownership and five free months of maintenance.",
+    "An Aligarh business website with us starts at ₹10,000 and is usually live in one to two weeks, while a 299+ page SEO or dealer catalogue site starts at ₹20,000. Online stores begin at ₹50,000. We are a remote team of three engineers with no local office, so you get lower prices, full ownership and two free months of maintenance.",
   snapshot: [
     { label: "Signature industry", value: "Locks and builders' hardware, Aligarh's product under Uttar Pradesh's One District One Product scheme" },
     { label: "Industrial areas", value: "Talanagri and the Ramghat Road industrial belt, with thousands of small metal units across the city" },
@@ -51,7 +51,7 @@ const aligarh: CityContent = {
     ai: "WhatsApp assistants that answer dealer questions about models, finishes and rates, log orders and send dispatch updates without tying up office staff.",
     data: "Sales and dealer performance dashboards built from Tally and order sheets, so owners can see which regions and product lines are growing.",
     app: "Android and iOS apps for field salesmen visiting hardware shops, with an offline catalogue, order booking and dealer ledger lookup, from ₹40,000.",
-    maintenance: "Price list and catalogue updates, backups, security patches and uptime monitoring, free for five months and from ₹8,000 a month afterwards.",
+    maintenance: "Price list and catalogue updates, backups, security patches and uptime monitoring, free for two months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Aligarh's manufacturers know the value of a good lock: it should do its job quietly for years. We try to build websites the same way. Our prices are published, our work is itemised in writing, we answer WhatsApp every day, and the site, domain and code are yours to keep.",
@@ -167,7 +167,7 @@ const aligarh: CityContent = {
       paragraphs: [
         "A common story in Aligarh goes like this: the website was made by someone years ago, the domain is registered in their name, and now the business cannot change the phone number on its own homepage. Sometimes the domain lapses altogether and the business email stops working with it.",
         "We prevent this by setting up the domain in your business name, hosting on your own account and handing over every login and the source code at launch, along with a short note explaining what is where. You are free to move to another developer whenever you like, with no exit fee.",
-        "For five months after launch, maintenance is free. This includes content and catalogue updates, fixes, security and software updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free. This includes content and catalogue updates, fixes, security and software updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
   ],
@@ -259,7 +259,7 @@ const aligarh: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and catalogue updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle content and catalogue updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "What do you need from me to start?",

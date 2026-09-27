@@ -56,7 +56,7 @@ const kottayam: CityContent = {
     ai: "WhatsApp assistants that reply in Malayalam to admission, booking and price questions and pass real decisions to staff.",
     data: "Dashboards of purchase rates, stock by grade, room occupancy or admissions by course, built from your existing sheets.",
     app: "Android and iOS apps for a hospital's patients, a school's parents or a resort's guests, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kottayam readers are careful and well informed; they notice a vague promise or a misspelt word quickly. We publish starting prices, send itemised written quotes, reply on WhatsApp every day of the week and register your domain, hosting, code and store accounts in your name. When a feature will not pay for itself, we say so before you spend on it.",
@@ -174,7 +174,7 @@ const kottayam: CityContent = {
       heading: "Ownership and maintenance for Kottayam websites and apps",
       paragraphs: [
         "Everything we make for you is yours in practice as well as on paper. The domain sits on your email, hosting is billed to you, the full source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you receive a written list of every login, so nobody, including us, can lock you out.",
-        "For five months after launch, maintenance costs nothing. We update rates, rooms or course details, take backups, apply security and version updates and check forms, UPI payments and WhatsApp links regularly. After that you can continue with us from ₹8,000 a month, manage things in-house or move the code to another developer.",
+        "For two months after launch, maintenance costs nothing. We update rates, rooms or course details, take backups, apply security and version updates and check forms, UPI payments and WhatsApp links regularly. After that you can continue with us from ₹8,000 a month, manage things in-house or move the code to another developer.",
         "Apps need a yearly refresh even when they seem fine, because Google and Apple keep raising minimum requirements. We watch those deadlines and release updates early so your store listing stays active.",
       ],
     },
@@ -266,7 +266,7 @@ const kottayam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: content edits, backups, security patches and regular checks of forms, bookings, UPI checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. Because the code and accounts are already yours, you can move to another developer at any time.",
+        "The first two months after launch are free: content edits, backups, security patches and regular checks of forms, bookings, UPI checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. Because the code and accounts are already yours, you can move to another developer at any time.",
     },
     {
       question: "Do you work in Ettumanoor, Changanassery and Pala too?",

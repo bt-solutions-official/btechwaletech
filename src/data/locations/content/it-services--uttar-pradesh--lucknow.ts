@@ -37,10 +37,10 @@ const content: CityContent = {
     h1: "Freelance software and AI developers for Lucknow businesses and institutions",
     lede:
       "BtechWaleTech is a freelance group of three engineers offering IT solutions to Lucknow, working remotely from India. We build custom software for contractors, hospitals, institutes and distributors, AI agents and WhatsApp automation for busy front desks, Android and iOS apps, data dashboards, cloud deployments and the SEO that makes a Lucknow business visible in Google and AI answers.",
-    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Android and iOS apps from ₹40,000", "Hindi and English interfaces", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Android and iOS apps from ₹40,000", "Hindi and English interfaces", "2 months free maintenance"],
   },
   quickAnswer:
-    "For Lucknow organisations, BtechWaleTech, a freelance group of three remote engineers, builds custom software from ₹60,000 (six to twelve weeks), AI automation from ₹40,000 (two to four weeks), Android and iOS apps from ₹40,000 (six to ten weeks) and websites from ₹10,000. Quotes are itemised within about two working days, with code ownership and five months of free maintenance.",
+    "For Lucknow organisations, BtechWaleTech, a freelance group of three remote engineers, builds custom software from ₹60,000 (six to twelve weeks), AI automation from ₹40,000 (two to four weeks), Android and iOS apps from ₹40,000 (six to ten weeks) and websites from ₹10,000. Quotes are itemised within about two working days, with code ownership and two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Capital of Uttar Pradesh, home to the Secretariat, state directorates, the High Court bench and many public-sector headquarters" },
     { label: "IT City", value: "A planned IT City off Sultanpur Road at Chak Ganjaria, with a large IT employer campus, and state plans to grow Lucknow as an AI hub" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp workflows that handle appointment, admission and enquiry volumes in Hindi, Urdu script and English.",
     data: "Dashboards for Lucknow owners and administrators tracking collections, footfall, projects and branch performance in one view.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store, for Lucknow patients, students, field staff and customers.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Lucknow has established IT firms around Gomti Nagar and plenty of freelancers, but owners often struggle to find someone who answers after launch. We are three engineers you message directly, with published starting prices and every account kept in your name.",
@@ -144,7 +144,7 @@ const content: CityContent = {
       paragraphs: [
         "Dashboards give Lucknow owners and administrators one screen with the numbers they check daily, such as collections, footfall, pending bills, project status or branch sales, while cloud hosting keeps the data safe and accessible. BtechWaleTech sets up hosting on AWS or a similar provider in your name, with SSL, daily backups and monitoring.",
         "Multi-branch organisations are common in Lucknow: diagnostic chains with collection centres across the city, coaching brands with centres in several localities, distributors with godowns on Kanpur Road and Sitapur Road. Numbers arrive late and in different formats. A dashboard pulling from your software, Tally exports or Sheets gives everyone the same figures each morning.",
-        "We agree on the key questions before designing charts, keep access role-based and make every figure traceable to its source entries. Deployment includes staging and live environments, so updates are tested first. Maintenance is free for five months after launch.",
+        "We agree on the key questions before designing charts, keep access role-based and make every figure traceable to its source entries. Deployment includes staging and live environments, so updates are tested first. Maintenance is free for two months after launch.",
       ],
     },
     {
@@ -178,7 +178,7 @@ const content: CityContent = {
       id: "lucknow-cost",
       heading: "What does software development cost in Lucknow?",
       paragraphs: [
-        "Software development in Lucknow with BtechWaleTech starts at ₹60,000 for custom software or web apps, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Lucknow with BtechWaleTech starts at ₹60,000 for custom software or web apps, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "The final figure depends on user roles, reports, integrations, data migration and language versions. A single-branch clinic appointment tool sits near the starting price; a multi-project contractor system with site apps and dashboards costs more. We send an itemised quote within about two working days. Compare plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
@@ -204,7 +204,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech works with Lucknow clients entirely online: a WhatsApp or video discussion, an itemised quote, designs for approval, a staged build on a private link, and launch with full handover. We have no office in Lucknow or anywhere in Uttar Pradesh, and we reply seven days a week.",
         "You can share registers, forms, sample bills and voice notes in Hindi, and we turn them into a written scope. Payment is in INR only, by scanning our UPI QR code or by direct bank transfer to our bank account, split into milestones you can test before paying the next part.",
-        "At handover you receive the source code, domain, hosting and app store access, an admin guide and a recorded walkthrough for staff, followed by five months of free maintenance.",
+        "At handover you receive the source code, domain, hosting and app store access, an admin guide and a recorded walkthrough for staff, followed by two months of free maintenance.",
       ],
     },
   ],
@@ -275,7 +275,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "Five months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime checks and small content or setting changes. After that, plans start at ₹8,000 a month, or you can contact us only when changes are needed. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime checks and small content or setting changes. After that, plans start at ₹8,000 a month, or you can contact us only when changes are needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can an AI assistant handle admission season enquiries?",

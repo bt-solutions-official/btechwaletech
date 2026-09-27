@@ -7,7 +7,7 @@ const akola: CityContent = {
   meta: {
     title: "Web Design & SEO in Akola for Dal Mills and Traders",
     description:
-      "Websites, SEO, UPI stores and WhatsApp automation for Akola dal mills, ginners, coaching classes and Tajnapeth shops. From ₹10,000, five months upkeep free.",
+      "Websites, SEO, UPI stores and WhatsApp automation for Akola dal mills, ginners, coaching classes and Tajnapeth shops. From ₹10,000, two months upkeep free.",
     keywords: [
       "website development team in Akola",
       "web designer Akola",
@@ -31,11 +31,11 @@ const akola: CityContent = {
     eyebrow: "Akola · Vidarbha, Maharashtra",
     h1: "Web, app, SEO and automation services for Akola's mills, ginners, classes and Gandhi Road shops",
     lede:
-      "We are three engineers working remotely, and we build websites, online stores and WhatsApp automations for Akola businesses: dal and oil mills in MIDC, ginning units across the district, NEET and JEE classes, clinics and the traders of Tajnapeth. Prices are public, you deal with the developers directly, and maintenance is free for five months.",
+      "We are three engineers working remotely, and we build websites, online stores and WhatsApp automations for Akola businesses: dal and oil mills in MIDC, ginning units across the district, NEET and JEE classes, clinics and the traders of Tajnapeth. Prices are public, you deal with the developers directly, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "Dealer catalogues for mills", "Class enquiry automation", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Akola, a basic business website from our team costs from ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no Akola office, and the first five months of maintenance are free.",
+    "In Akola, a basic business website from our team costs from ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no Akola office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "The “Cotton City” of Vidarbha, with cotton products named as Akola's One District One Product" },
     { label: "Industrial base", value: "MIDC Akola, known for its large concentration of dal (pulse) mills, plus oil mills, ginning and pressing units" },
@@ -52,10 +52,10 @@ const akola: CityContent = {
     ai: "WhatsApp assistants that share daily dal rates, class batch timings or clinic slots in Marathi, Hindi or English and pass harder questions to you.",
     data: "Season-wise purchase, milling and dispatch figures pulled into one dashboard so you can see yields and margins without waiting for the accountant.",
     app: "Android and iPhone apps for dealer orders, student attendance or patient bookings, built in Flutter or React Native and listed on both stores from ₹40,000.",
-    maintenance: "Rate list changes, backups, security updates and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Rate list changes, backups, security updates and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Akola has plenty of people who can make a website, from cyber cafés near the bus stand to agencies in Nagpur and Pune. Few publish their rates, and fewer stay reachable once the site is live. We put every starting price on our site, answer WhatsApp seven days a week and look after your site at no cost for five months.",
+    "Akola has plenty of people who can make a website, from cyber cafés near the bus stand to agencies in Nagpur and Pune. Few publish their rates, and fewer stay reachable once the site is live. We put every starting price on our site, answer WhatsApp seven days a week and look after your site at no cost for two months.",
   pricingIntro:
     "In Akola, website prices usually arrive as a number spoken over the phone, with little said about what is included. Here are our real starting prices. Your final figure depends on the number of pages, the features and how much of the content you already have, and it comes to you in writing, line by line, before work starts.",
   sections: [
@@ -173,11 +173,11 @@ const akola: CityContent = {
     },
     {
       id: "ownership-akola",
-      heading: "Your domain, your hosting, your code, and five free months of upkeep",
+      heading: "Your domain, your hosting, your code, and two free months of upkeep",
       paragraphs: [
         "A familiar Akola story: the website was made years ago by a relative's friend, the domain renewal email goes to an address nobody opens, and one day the site simply disappears. Getting it back can take weeks, and sometimes the name is lost for good.",
         "We avoid this from day one. The domain is registered in your name, hosting sits in an account you own, and at launch you receive every login and a one-page note explaining where everything lives. The source code is yours to keep or hand to another developer. There is no exit fee and no lock-in of any kind.",
-        "For five months after launch, maintenance costs nothing. That covers text and rate changes, bug fixes, security updates, backups, uptime checks and speed checks. After that you can continue from ₹8,000 a month or simply message us when something needs doing.",
+        "For two months after launch, maintenance costs nothing. That covers text and rate changes, bug fixes, security updates, backups, uptime checks and speed checks. After that you can continue from ₹8,000 a month or simply message us when something needs doing.",
       ],
     },
     {
@@ -266,9 +266,9 @@ const akola: CityContent = {
         "Yes, fully. The domain is registered in your name, the hosting account belongs to you, and at launch you receive every password along with the source code. You can move to another developer whenever you like, with no exit fee. We insist on this because lost domains are a common problem with older Akola websites.",
     },
     {
-      question: "What is covered in the five months of free maintenance?",
+      question: "What is covered in the two months of free maintenance?",
       answer:
-        "For five months after launch we handle text and rate updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work alone.",
+        "For two months after launch we handle text and rate updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work alone.",
     },
     {
       question: "How long before SEO shows results in Akola?",

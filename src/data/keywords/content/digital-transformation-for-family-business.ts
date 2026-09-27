@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Business website", `From ${P.site}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Languages", "Hindi and English, on calls and screens"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, Hindi and English" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week on WhatsApp for your family" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Website for the business", value: `From ${P.site}, 1–2 weeks` },
       { label: "Rollout style", value: "One counter or one process at a time, old books kept in parallel" },
       { label: "Who owns it", value: "The family: code, data, cloud account and logins" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What digital transformation for a family business costs",
-    note: `Most families start with a custom ledger and stock system from ${P.software}, built and rolled out in stages over 6–12 weeks so each part is paid for only when the previous one is working. WhatsApp reminders or AI automation add from ${P.ai}; a website from ${P.site}; a phone app for the owner or salesmen from ${P.app}. Cost grows with the number of processes digitised, not with the size of the family or the turnover. Hosting is billed to the family’s own cloud account. Every stage is itemised, nothing is billed before written approval, and maintenance is free for 5 months after go-live.`,
+    note: `Most families start with a custom ledger and stock system from ${P.software}, built and rolled out in stages over 6–12 weeks so each part is paid for only when the previous one is working. WhatsApp reminders or AI automation add from ${P.ai}; a website from ${P.site}; a phone app for the owner or salesmen from ${P.app}. Cost grows with the number of processes digitised, not with the size of the family or the turnover. Hosting is billed to the family’s own cloud account. Every stage is itemised, nothing is billed before written approval, and maintenance is free for 2 months after go-live.`,
   },
   guideLabel: "Family business digital transformation guide",
   guide: [
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a custom ledger and stock system for a family business starts at ${P.software} (about ${P.softwareUsd}), built in stages over 6–12 weeks. WhatsApp reminders and AI automation start at ${P.ai}, a business website at ${P.site}, and a phone app for the owner or field staff at ${P.app}. Quotes elsewhere vary widely, depending on what is included and who owns the result.`,
         `What drives the cost: how many processes are digitised (ledger only is simpler than ledger, stock, billing and job work), how messy the old data is, whether the accountant’s software needs a live link, the number of languages on screen, and how many staff roles need separate permissions. What does not drive it: turnover or the size of the family.`,
-        `Staged payment suits digital transformation for family business owners, because the rollout is gradual anyway. You approve and pay for the ledger stage, use it, then decide on stock. If the family wants to pause after one stage, it can. After go-live, maintenance is free for 5 months, then optional care from ${P.care}.`,
+        `Staged payment suits digital transformation for family business owners, because the rollout is gradual anyway. You approve and pay for the ledger stage, use it, then decide on stock. If the family wants to pause after one stage, it can. After go-live, maintenance is free for 2 months, then optional care from ${P.care}.`,
       ],
       after: [`For wider software costs, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`],
     },
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Build the first stage", "Usually the ledger. Screens are shown on a test link, tested by senior staff and approved by the elder owner before going live."],
       ["Run old and new together", "The khata or register continues in parallel. One family member compares the two until the numbers match and everyone is comfortable."],
       ["Move to the next stage", "Stock, billing, reminders and dashboards follow one by one, planned around festivals and the business’s busy months."],
-      ["Hand over and support", "The family gets admin logins, recordings and documentation. Maintenance is free for 5 months after go-live, then optional care."],
+      ["Hand over and support", "The family gets admin logins, recordings and documentation. Maintenance is free for 2 months after go-live, then optional care."],
     ],
   },
   faqHeading: "Digital transformation for family business: questions families ask",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Do we need a website as part of digital transformation?", answer: `Eventually, for most businesses, but not first. A website and Google Business Profile bring new customers, which matters once the ledger, stock and billing are steady enough to serve them well. Starting with a website while the back office is still on paper often creates enquiries the business cannot follow up properly. A business website with us starts at ${P.site}.` },
     { question: "Do you visit our shop or factory?", answer: "No. We are three freelance developers working remotely from India, so everything happens over WhatsApp, phone and video calls, in Hindi or English. Physical tasks like stock counts are done by your family and staff with our guidance. For printers, networks or computers, a local technician helps and we support them remotely during setup." },
     { question: "How do payments work for a staged project?", answer: "Each stage is quoted and approved separately, and payment milestones are set in the written quote. In India you pay by UPI or bank transfer against an invoice; families abroad can pay by Wise, bank wire or PayPal in USD. Nothing is billed before written approval. If you want to pause after a stage, you can. Our refund policy page covers general terms." },
-    { question: "What support do we get after the system is running?", answer: `Maintenance is free for 5 months after go-live, covering fixes and small adjustments. After that, care plans start at ${P.care} for updates, backup checks and small changes. New stages, such as adding supplier ordering or a website later, are quoted separately so the family always knows the cost before deciding.` },
+    { question: "What support do we get after the system is running?", answer: `Maintenance is free for 2 months after go-live, covering fixes and small adjustments. After that, care plans start at ${P.care} for updates, backup checks and small changes. New stages, such as adding supplier ordering or a website later, are quoted separately so the family always knows the cost before deciding.` },
   ],
   related: {
     heading: "More for traditional businesses going digital",

@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Team size", "3 developers, all hands-on"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Payments", "Wise, bank wire or PayPal"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers you speak to directly" },
     { value: "0", label: "Account managers or sales layers" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What is an offshore web development team, and when is a small one better than a big vendor?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Websites", value: `From ${P.siteUsd}, 1–2 weeks` },
       { label: "Web apps and portals", value: `From ${P.softwareUsd}, 6–12 weeks` },
       { label: "Billing", value: "USD via Wise, bank wire or PayPal" },
-      { label: "Ongoing care", value: `5 months free, then from ${P.careUsd}` },
+      { label: "Ongoing care", value: `2 months free, then from ${P.careUsd}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Android and iOS apps", note: `Flutter or React Native apps published in your own store accounts, from ${P.appUsd}.`, href: "/freelance-app-developer/", size: "md" },
       { name: "Agency overflow and white-label", note: "Design or marketing agencies abroad hand us builds they sell under their own brand, with terms agreed in writing.", href: "/white-label-web-development/", size: "sm" },
       { name: "AI automation", note: `LLM-powered workflows, document processing and internal assistants wired into your stack, from ${P.aiUsd}.`, href: "/ai-agent-developer/", size: "sm" },
-      { name: "Ongoing maintenance", note: `Updates, fixes, monitoring and small features after the five free months, from ${P.careUsd}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing maintenance", note: `Updates, fixes, monitoring and small features after the two free months, from ${P.careUsd}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -162,7 +162,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does an offshore web development team cost?",
       paragraphs: [
-        `With us, costs are per project, with USD starting points: websites from ${P.siteUsd}, SEO websites from ${P.seoSiteUsd}, online stores from ${P.shopUsd}, web apps from ${P.softwareUsd}, mobile apps from ${P.appUsd} and AI automation from ${P.aiUsd}. Maintenance after the free five months starts at ${P.careUsd}.`,
+        `With us, costs are per project, with USD starting points: websites from ${P.siteUsd}, SEO websites from ${P.seoSiteUsd}, online stores from ${P.shopUsd}, web apps from ${P.softwareUsd}, mobile apps from ${P.appUsd} and AI automation from ${P.aiUsd}. Maintenance after the free two months starts at ${P.careUsd}.`,
         `Across the offshore market, rates vary widely, and comparing hourly figures alone is misleading. A vendor’s hourly rate includes management and sales layers; a marketplace rate adds platform fees; a lower rate may come with more hours or more rework. The useful comparison is total cost for a defined scope, plus the cost of your own time managing the team.`,
         `Ask every offshore web development team for an itemised quote against the same written brief. Check whether it includes deployment, testing, documentation and post-launch fixes. Then add your management time: a team that needs daily supervision costs more than its invoice.`,
       ],
@@ -176,7 +176,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "Defined project", text: `A website, store, web app or MVP with an itemised quote and staged payments. Starting points range from ${P.siteUsd} for a website to ${P.softwareUsd} for a web app.` },
-        { heading: "Ongoing maintenance and improvements", text: `After five free months, a maintenance arrangement from ${P.careUsd} covers updates, fixes and small features; larger features are quoted separately.` },
+        { heading: "Ongoing maintenance and improvements", text: `After two free months, a maintenance arrangement from ${P.careUsd} covers updates, fixes and small features; larger features are quoted separately.` },
         { heading: "Agency overflow", text: "Agencies abroad send builds they sell to their own clients. Branding, confidentiality and turnaround are agreed in writing per engagement." },
         { heading: "Product phases", text: "For startups, version one is scoped tightly, then later phases are quoted once real users have shaped priorities." },
       ],
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The following is a hypothetical example to show how a small offshore engagement is shaped; it is not a client story.`,
         `A two-founder startup in Manchester needs a booking platform for independent tutors: tutor profiles, availability calendars, parent sign-up, payments and reminders. They have wireframes, a modest budget and a launch target in one quarter.`,
-        `We would scope version one within the web app band from ${P.softwareUsd}: Next.js frontend, Node.js API and PostgreSQL, hosted in the founders’ AWS account in a European region, with a UK payment provider chosen by the founders. Calls happen in the UK morning, which is our afternoon; progress notes arrive at the end of our day, ready for their morning. A working login and tutor profile go onto staging early. Payments, reminders and admin tools follow, with a short hardening period before launch. After launch, five months of free maintenance cover fixes while the founders collect feedback for phase two.`,
+        `We would scope version one within the web app band from ${P.softwareUsd}: Next.js frontend, Node.js API and PostgreSQL, hosted in the founders’ AWS account in a European region, with a UK payment provider chosen by the founders. Calls happen in the UK morning, which is our afternoon; progress notes arrive at the end of our day, ready for their morning. A working login and tutor profile go onto staging early. Payments, reminders and admin tools follow, with a short hardening period before launch. After launch, two months of free maintenance cover fixes while the founders collect feedback for phase two.`,
       ],
     },
     {
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
         ["Web app, portal or SaaS MVP", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],
         ["AI automation", `From ${P.aiUsd}`, `From ${P.ai}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Set up accounts you own", "You create the repository organisation, cloud account and any store accounts, then invite us as members."],
       ["Build with visible progress", "Each feature appears on staging. Written updates arrive at the agreed cadence, timed for your morning where possible."],
       ["Launch and document", "We deploy to production, verify monitoring and backups, and hand over a README, architecture notes and a services register."],
-      ["Maintain or hand over", `Five months of free maintenance follow launch. Then choose ongoing care from ${P.careUsd}, move the work in-house, or both.`],
+      ["Maintain or hand over", `Two months of free maintenance follow launch. Then choose ongoing care from ${P.careUsd}, move the work in-house, or both.`],
     ],
   },
   faqHeading: "Offshore web development team: questions from clients abroad",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "What kind of projects suit a small offshore web development team?", answer: "Business and marketing websites, SEO sites at scale, online stores, customer portals, internal tools, SaaS MVPs, mobile apps on a shared backend, AI automation and ongoing maintenance. These benefit from one group owning frontend, backend and hosting together, with the client talking directly to the people who build." },
     { question: "How quickly can an offshore team start?", answer: "After you send a brief, you receive an itemised quote in about two working days. The start date depends on current commitments and is confirmed in the quote. Once approved and accounts are set up in your name, discovery begins and the first visible work appears on staging early in the project." },
     { question: "Do you work with agencies as a white-label offshore team?", answer: "Yes. Agencies abroad send us builds they deliver to their own clients under their brand. Confidentiality, branding, communication routes and timelines are agreed in writing per engagement. The same ownership principle applies: code and hosting sit in the agency’s or end client’s accounts." },
-    { question: "What happens after the website or app launches?", answer: `BtechWaleTech includes five months of free maintenance after launch for fixes, updates and small changes. After that, ongoing care starts from ${P.careUsd}, or you can move the work in-house using the handover documentation. Larger new features are always quoted separately.` },
+    { question: "What happens after the website or app launches?", answer: `BtechWaleTech includes two months of free maintenance after launch for fixes, updates and small changes. After that, ongoing care starts from ${P.careUsd}, or you can move the work in-house using the handover documentation. Larger new features are always quoted separately.` },
     { question: "Can an offshore team take over our existing codebase?", answer: "Yes. We review the repository, hosting and documentation first, then send a written assessment covering what is healthy, what is risky and the likely cost of next steps. We work within your existing conventions and only recommend a rewrite when it is clearly cheaper over a realistic horizon." },
     { question: "Which technologies does your offshore team use?", answer: "Mostly React, Next.js and Astro on the frontend; Node.js and Python with Django or FastAPI on the backend; PostgreSQL for data; Flutter or React Native for mobile; and AWS for hosting with CI/CD pipelines. We pick mainstream tools so your future developers can take over easily." },
     { question: "Is it risky to hire an offshore web development team?", answer: "Offshore work carries real risks: vague scope, invisible progress, key-person dependency and access disputes. Each has a simple control: written scope, staging environments, a team where more than one person knows the code, accounts in your name and staged payments. With these in place, offshore work is no riskier than hiring locally." },
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a small offshore web development team you can talk to directly?",
-    note: `Send your brief with your time zone. In about two working days you get an itemised USD quote, with websites from ${P.siteUsd} and web apps from ${P.softwareUsd}, accounts in your name, and five months of free maintenance after launch.`,
+    note: `Send your brief with your time zone. In about two working days you get an itemised USD quote, with websites from ${P.siteUsd} and web apps from ${P.softwareUsd}, accounts in your name, and two months of free maintenance after launch.`,
   },
 };
 

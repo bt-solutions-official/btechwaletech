@@ -35,7 +35,7 @@ const bhuj: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English pages", "Craft stores with UPI", "Tour and stay booking", "WhatsApp enquiry replies"],
   },
   quickAnswer:
-    "A business website in Bhuj starts at ₹10,000 with us and is usually ready in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, craft or product stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Bhuj office, and the first five months of maintenance are free.",
+    "A business website in Bhuj starts at ₹10,000 with us and is usually ready in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, craft or product stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Bhuj office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Administrative headquarters of Kutch, India's largest district by area, near its geographic centre" },
     { label: "Founded", value: "1549 by Rao Khengarji I; the walled city grew around Hamirsar Lake below Bhujia Hill" },
@@ -52,7 +52,7 @@ const bhuj: CityContent = {
     ai: "WhatsApp replies that handle tariff, availability and craft-order questions in Gujarati, Hindi or English during the peak Rann season.",
     data: "Season-by-season booking, sales and stock figures laid out on a phone dashboard so owners can plan for the next winter.",
     app: "Android and iOS apps for tour itineraries, guest check-ins, artisan catalogues or dealer orders across Kutch, available on both stores from ₹40,000.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Bhuj owners get their websites from a relative in Ahmedabad or an agency that never visits Kutch and does not understand the winter rush. We are three engineers working remotely, but we plan every site around the season, the crafts and the buyers who actually reach Bhuj, and we publish our starting prices.",
@@ -164,11 +164,11 @@ const bhuj: CityContent = {
     },
     {
       id: "ownership-bhuj",
-      heading: "Ownership, handover and five months of free maintenance",
+      heading: "Ownership, handover and two months of free maintenance",
       paragraphs: [
         "A common Bhuj story goes like this: a designer built the site years ago, the domain renewal went to his email, he moved to Ahmedabad or changed his number, and one day the website disappeared along with the business's search listing. Starting again from zero is expensive and slow.",
         "We avoid that from day one. Your domain and hosting are registered in your name, and at launch you receive every login, the full source code and a short written note describing how the site is set up. If you later choose another developer, you simply pass on the access. There is no exit charge and no lock-in.",
-        "For five months after launch, maintenance is free: text and tariff updates, bug fixes, security patches, backups, uptime monitoring and speed checks. That covers the first busy Rann season for most new sites. After five months, maintenance continues from ₹8,000 a month, or you can call us only when something needs doing. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "For two months after launch, maintenance is free: text and tariff updates, bug fixes, security patches, backups, uptime monitoring and speed checks. That covers the first busy Rann season for most new sites. After two months, maintenance continues from ₹8,000 a month, or you can call us only when something needs doing. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
     {
@@ -262,9 +262,9 @@ const bhuj: CityContent = {
         "You do. The domain and hosting are in your name, and at launch you get every login and the full source code. If you ever change developers, you pass on the access. There is no exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch we handle updates, fixes, security patches, backups, uptime and speed checks at no cost. After that you can continue with maintenance from ₹8,000 a month, or contact us only when you need a change.",
+        "For two months after launch we handle updates, fixes, security patches, backups, uptime and speed checks at no cost. After that you can continue with maintenance from ₹8,000 a month, or contact us only when you need a change.",
     },
     {
       question: "Do you also take work from Mandvi, Anjar, Gandhidham and other Kutch towns?",

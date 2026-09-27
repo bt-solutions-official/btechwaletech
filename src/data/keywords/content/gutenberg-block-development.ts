@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Block types", "Native React blocks or ACF PRO blocks"],
     ["Editors get", "Patterns and locked templates"],
     ["Quote", "In about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your blocks" },
     { value: "2", label: "Working days to a per-block quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "100", label: "Pages included in the static site plan" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Editor guard-rails", value: "Locked templates, restricted block lists, content-only editing" },
       { label: "Block-based site", value: `From ${P.site}, 1–2 weeks` },
       { label: "Large SEO site on blocks", value: `From ${P.seoSite}, 3–5 weeks` },
-      { label: "Care afterwards", value: `5 months free, then from ${P.care}` },
+      { label: "Care afterwards", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Elementor to blocks", note: "Page-by-page rebuild of builder layouts as blocks and patterns, with URLs, SEO fields and redirects kept intact.", href: "/hire-elementor-expert/", size: "md" },
       { name: "Block themes and theme.json", note: "Colours, fonts and spacing defined once so every block, core or custom, follows the design system.", href: "/figma-to-wordpress/", size: "sm" },
       { name: "Speed after the switch", note: "Scripts and styles loaded only for blocks on the page, images sized properly, Core Web Vitals checked.", href: "/wordpress-speed-optimization/", size: "sm" },
-      { name: "Upkeep", note: `Five free months, then WordPress, plugin and block updates from ${P.care}.`, href: "/wordpress-maintenance-services/", size: "sm" },
+      { name: "Upkeep", note: `Two free months, then WordPress, plugin and block updates from ${P.care}.`, href: "/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your blocks are yours: custom Gutenberg block development with us never creates a dependency on us. They go into a Git repository and a custom plugin under your control, installed on hosting in your name. There is no licence from us and no lock-in; any competent WordPress developer can read the code later.`,
         `Three of us share the work. Ankur Kumar builds the blocks, React and PHP. Santosh Sharma handles hosting, staging, speed checks and technical SEO. Vedansh Shrivastava plans the block list with you, organises content migration and runs editor training. You reach all of us on WhatsApp, seven days a week, in English or Hindi.`,
-        `WordPress updates the block editor regularly, and occasionally a change affects custom blocks. The first five months after launch are covered by free maintenance; after that, care plans from ${P.care} a month keep WordPress, plugins and blocks tested together. Custom blocks also need the server on a supported PHP version; our <a href='/php-version-upgrade/'>PHP version upgrade service</a> covers that if your host is behind.`,
+        `WordPress updates the block editor regularly, and occasionally a change affects custom blocks. The first two months after launch are covered by free maintenance; after that, care plans from ${P.care} a month keep WordPress, plugins and blocks tested together. Custom blocks also need the server on a supported PHP version; our <a href='/php-version-upgrade/'>PHP version upgrade service</a> covers that if your host is behind.`,
       ],
     },
     {
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["WooCommerce store with custom product blocks", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Portal or app-like features beyond blocks", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Monthly SEO on the new block site", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Design tokens and first blocks", "theme.json colours, fonts and spacing go in first, then the most-used blocks are built on staging for your editors to try."],
       ["Remaining blocks and patterns", "The rest of the library is built, patterns assembled, templates locked to the agreed level, and everything tested on mobile."],
       ["Pages and content", "New pages are built, or builder pages rebuilt one by one, with URLs, SEO fields, forms and tracking checked on each."],
-      ["Training and launch", "Your team gets a recorded walkthrough and a short guide, the site goes live, and five months of free maintenance begin."],
+      ["Training and launch", "Your team gets a recorded walkthrough and a short guide, the site goes live, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Custom Gutenberg block development FAQs",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Can custom blocks handle Hindi and regional languages?", answer: "Yes. Blocks store text like any WordPress content, so Hindi, Tamil, Marathi or other scripts work normally, and multilingual plugins can translate block content. You supply or approve the translated copy. We check fonts, line heights and button widths so longer translated text does not break the layout on mobile." },
     { question: "Should I hire a freelancer or agency for Gutenberg block development?", answer: "A small freelance team suits most block projects: you talk to the developer building the blocks, feedback is quick, and costs stay lower. A larger vendor fits when dozens of sites need a shared block system maintained by a big team. BtechWaleTech is three freelance developers covering blocks, hosting and planning." },
     { question: "Who owns the blocks after the project?", answer: "You do. Blocks sit in a custom plugin and Git repository in your name, installed on hosting you control. There is no licence from us and no dependency on our accounts. The code follows standard WordPress practices, so any competent WordPress developer can maintain or extend it later." },
-    { question: "What maintenance do custom blocks need?", answer: `WordPress updates the block editor regularly, so blocks should be tested after major updates. The first five months after launch are covered by free maintenance. After that, care plans start at ${P.care} a month and cover WordPress, plugin and block updates tested together on staging, plus backups and security checks.` },
+    { question: "What maintenance do custom blocks need?", answer: `WordPress updates the block editor regularly, so blocks should be tested after major updates. The first two months after launch are covered by free maintenance. After that, care plans start at ${P.care} a month and cover WordPress, plugin and block updates tested together on staging, plus backups and security checks.` },
     { question: "Gutenberg block kaise banaye, ya developer se banwana behtar hai?", answer: `Simple block aap @wordpress/create-block tool se khud bana sakte hain agar React aur PHP aati hai. Lekin business site ke liye poori block library, patterns, locked templates aur Elementor se shift karna developer se karwana behtar rehta hai. Block-based site ${P.site} se shuru hoti hai aur har block ki line quote mein alag hoti hai, taaki aap kharcha saaf samajh sakein.` },
   ],
   related: {
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a block list and itemised quote for your site",
-    note: `Send your design, current site or page builder URL on WhatsApp. Within about two working days you get a proposed block and pattern list with an itemised quote, block-based sites from ${P.site}, and five months of free maintenance after launch.`,
+    note: `Send your design, current site or page builder URL on WhatsApp. Within about two working days you get a proposed block and pattern list with an itemised quote, block-based sites from ${P.site}, and two months of free maintenance after launch.`,
   },
 };
 

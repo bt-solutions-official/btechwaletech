@@ -56,7 +56,7 @@ const pandharpur: CityContent = {
     ai: "Marathi WhatsApp assistants that answer room availability, darshan timing and direction questions and hand bookings to your staff.",
     data: "Dashboards of room occupancy by yatra, donations by month, cane deliveries and pomegranate lots dispatched.",
     app: "Android and iOS apps from ₹40,000 for a lodge group's booking or a college's student notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month, with extra care before each yatra.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month, with extra care before each yatra.",
   },
   whyUsIntro:
     "Pandharpur businesses see their biggest crowds on a handful of fixed dates, and a website that fails during Ashadhi is worse than none. We publish starting prices, send written itemised quotes, reply on WhatsApp all seven days, register your domain, hosting, code and store accounts in your name, and plan every launch around the yatra calendar.",
@@ -171,7 +171,7 @@ const pandharpur: CityContent = {
       heading: "Ownership, maintenance and yatra readiness",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and app store accounts are registered in your name or your trust's name, and all logins are handed over in writing. If you ever stop working with us, the site stays yours and keeps running.",
-        "Maintenance is free for five months after launch. It covers content and rate updates, backups, security patches, software updates and checks that booking forms, payments and WhatsApp links work. We also check load and forms before each major yatra. After five months, maintenance starts at ₹8,000 a month if you choose to continue.",
+        "Maintenance is free for two months after launch. It covers content and rate updates, backups, security patches, software updates and checks that booking forms, payments and WhatsApp links work. We also check load and forms before each major yatra. After two months, maintenance starts at ₹8,000 a month if you choose to continue.",
         "Apps need an update at least once a year to meet Google Play and App Store requirements. We track those dates so your app is not pulled from either store.",
       ],
     },
@@ -268,7 +268,7 @@ const pandharpur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering updates, backups, security patches and form and payment checks, including a check before each major yatra. After that, maintenance starts at ₹8,000 a month if you continue. You can move the code to another developer whenever you like.",
+        "Two months of maintenance are free after launch, covering updates, backups, security patches and form and payment checks, including a check before each major yatra. After that, maintenance starts at ₹8,000 a month if you continue. You can move the code to another developer whenever you like.",
     },
     {
       question: "Do you work in Mangalvedhe, Sangole and Akluj as well?",

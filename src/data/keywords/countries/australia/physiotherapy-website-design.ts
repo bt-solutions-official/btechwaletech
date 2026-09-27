@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Typical timeline", "1–2 weeks once copy is approved"],
     ["Booking", "Cliniko link, embed or filtered URLs"],
     ["Quote", "Itemised, about 2 working days"],
-    ["Aftercare", `5 free months, then from ${P.care}`],
+    ["Aftercare", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers building your clinic site" },
     { value: "5", label: "Advertising limits in section 133 we write around" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What turns an Australian physio website into a booking channel?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Clinic location pages", note: `A page per clinic with hours, parking, transport, facilities and practitioners on site. Networks move to the SEO plan from ${P.seoSite}.`, href: "/australia/local-seo-services/", size: "md" },
       { name: "Classes and programs", note: "Pilates, hydrotherapy and group exercise timetables your reception can update, with capacity and booking links.", size: "sm" },
       { name: "After-hours enquiries", note: `An AI receptionist that takes booking requests when the front desk is closed, from ${P.ai}.`, href: "/australia/ai-receptionist-for-small-business/", size: "sm" },
-      { name: "Maintenance", note: `Five months free, then updates, backups and small edits from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Maintenance", note: `Two months free, then updates, backups and small edits from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -206,7 +206,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, physiotherapy website design starts from ${P.site} for a single-clinic site, from ${P.seoSite} for a multi-clinic SEO build, and from ${P.software} for custom tools such as intake forms or class booking systems. Other providers' quotes vary widely, so compare scope rather than totals.`,
         `The main cost drivers are the number of condition and service pages, how many clinic locations need their own pages, how many practitioners need bios, whether you supply finished copy or need it drafted from notes, and the booking setup (a simple link, filtered links per page, or an embedded booking page). Classes, hydro timetables and multilingual pages add scope. Photography is not included; many clinics use a local photographer for a half-day shoot and send us the files.`,
-        `Ongoing costs are modest: hosting, the domain, your practice software subscription (which you already pay) and, after five free months, optional maintenance from ${P.care}. Monthly SEO starts from ${P.seo} if you want steady work on local rankings. For broader clinic comparisons, see our <a href='/australia/dental-website-design/'>dental website design</a> page, which covers a similar model for dental practices.`,
+        `Ongoing costs are modest: hosting, the domain, your practice software subscription (which you already pay) and, after two free months, optional maintenance from ${P.care}. Monthly SEO starts from ${P.seo} if you want steady work on local rankings. For broader clinic comparisons, see our <a href='/australia/dental-website-design/'>dental website design</a> page, which covers a similar model for dental practices.`,
       ],
     },
     {
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Map pages to appointments", "We plan condition, service and location pages from your appointment data and map each one to the right Cliniko appointment types."],
       ["Draft and review in batches", "Condition pages and bios arrive in small batches for your physios to approve, while design and booking links are built on staging."],
       ["Test bookings, then launch", "Every booking link is tested on mobile, forms and privacy links checked, the domain connected and Search Console set up in your account."],
-      ["Keep it current", `Five months of maintenance are included for updates, new practitioners and timetable changes. After that, care starts from ${P.care}.`],
+      ["Keep it current", `Two months of maintenance are included for updates, new practitioners and timetable changes. After that, care starts from ${P.care}.`],
     ],
   },
   faqHeading: "Physiotherapy website design: questions clinics ask",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Do you work with practice software other than Cliniko?", answer: "Yes. The same approach works with any practice software that provides booking links or embeddable booking pages: a Book Now button everywhere, filtered links where the software supports them, and practitioner and location links. During discovery we check what your software offers and plan the booking paths around it." },
     { question: "How do Australian physio clinics pay for a website built in India?", answer: "Quotes are itemised in USD and paid by Wise, bank wire or PayPal, with invoices issued from India. Payment stages are set out in the quote you approve, and nothing is billed before written approval. For how overseas invoices affect your clinic's accounts or GST, check with your accountant; we do not give tax advice." },
     { question: "Do you offer photography for physio clinics?", answer: "No. We work remotely from India, so we do not offer photo shoots or clinic visits. Many clinics book a local photographer for a few hours to capture the team, treatment rooms and gym, then send the files. We optimise and place them. Real photos of your clinic and physios work much better than stock images." },
-    { question: "What happens after the free maintenance period?", answer: `The first five months after launch include updates, backups, new practitioner bios and timetable changes. After that, maintenance starts from ${P.care} and is optional, because the clinic owns every account. Many practice managers handle small edits themselves and contact us only for new pages, clinics or features.` },
+    { question: "What happens after the free maintenance period?", answer: `The first two months after launch include updates, backups, new practitioner bios and timetable changes. After that, maintenance starts from ${P.care} and is optional, because the clinic owns every account. Many practice managers handle small edits themselves and contact us only for new pages, clinics or features.` },
   ],
   related: {
     heading: "More for Australian physio and health clinics",

@@ -56,7 +56,7 @@ const nawanshahr: CityContent = {
     ai: "WhatsApp assistants that answer fee, date and document questions in Punjabi, Hindi or English, day and night, and hand real decisions to your staff.",
     data: "Dashboards showing enquiries by source, admissions converted, hall bookings by month and payments still pending.",
     app: "Android and iOS apps for coaching centres, clinics or dealer networks around Nawanshahr, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and app updates.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and app updates.",
   },
   whyUsIntro:
     "Plenty of Nawanshahr owners have paid for a website once, lost touch with the person who made it, and now cannot even log in. We avoid that by registering everything in your name, sending written itemised quotes, answering WhatsApp every day, and explaining in plain words what each rupee buys.",
@@ -187,7 +187,7 @@ const nawanshahr: CityContent = {
       paragraphs: [
         "Losing access to a website is a common Nawanshahr story: the designer moved abroad, the domain lapsed, and the business had to start over with a new address. We prevent that from the first day. The domain is registered with your email, hosting is billed to you, the source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts are in your name.",
         "At handover you receive a written list of every login and where it lives, so any competent developer could take over if you ever wanted. We would rather keep you through good work than through locked accounts.",
-        "For five months after launch, maintenance is free. That covers content and price changes, backups, security and software updates, and regular checks that forms, payments and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage it yourself, or move to someone else with no fee and no argument.",
+        "For two months after launch, maintenance is free. That covers content and price changes, backups, security and software updates, and regular checks that forms, payments and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage it yourself, or move to someone else with no fee and no argument.",
         "Apps need a yearly update because Google and Apple keep raising their minimum requirements. We track those deadlines so your app is not removed from a store without warning.",
       ],
     },
@@ -279,7 +279,7 @@ const nawanshahr: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch cost nothing for upkeep: content and price edits, backups, security and software updates, and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Because code and accounts are yours, you are free to move at any time.",
+        "The first two months after launch cost nothing for upkeep: content and price edits, backups, security and software updates, and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Because code and accounts are yours, you are free to move at any time.",
     },
     {
       question: "Do you serve Banga, Rahon and Balachaur as well?",

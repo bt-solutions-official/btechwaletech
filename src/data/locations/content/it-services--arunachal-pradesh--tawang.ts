@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Hire freelance IT developers in Tawang for booking systems, travel apps and tourism automation",
     lede:
       "Hire freelance IT developers in Tawang without paying for a city agency: BtechWaleTech is three independent engineers working remotely who build direct booking for hotels and homestays, itinerary and trip software for tour operators, Android and iOS apps, AI agents that answer travellers at any hour, and search pages that reach people planning a Tawang trip.",
-    pills: ["Booking sites from ₹10,000", "Android and iOS apps from ₹40,000", "AI enquiry agents from ₹40,000", "Built for high-altitude networks", "5 months free maintenance"],
+    pills: ["Booking sites from ₹10,000", "Android and iOS apps from ₹40,000", "AI enquiry agents from ₹40,000", "Built for high-altitude networks", "2 months free maintenance"],
   },
   quickAnswer:
-    "To hire freelance IT developers for a Tawang business, BtechWaleTech offers a remote group of three engineers. Websites start at ₹10,000, AI agents and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom booking or trip software at ₹60,000. Delivery takes one to twelve weeks, quotes come in about two working days, and maintenance is free for five months.",
+    "To hire freelance IT developers for a Tawang business, BtechWaleTech offers a remote group of three engineers. Websites start at ₹10,000, AI agents and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom booking or trip software at ₹60,000. Delivery takes one to twelve weeks, quotes come in about two working days, and maintenance is free for two months.",
   snapshot: [
     { label: "Main attraction", value: "Tawang Monastery, the largest Buddhist monastery in India, overlooking the Tawang Chu valley" },
     { label: "High-altitude sights", value: "Sela Pass and Sela Lake, Madhuri (Shungatser) Lake, Pankang Teng Tso Lake and the Bum La road, which needs extra permission" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that answer Tawang travellers about permits, seasons, roads, rooms and packages on WhatsApp while you are out with guests.",
     data: "Dashboards for Tawang owners showing occupancy, upcoming groups, advances received and vehicles booked for the season.",
     app: "Android and iOS apps from ₹40,000 for Tawang guides, drivers and returning guests, built in Flutter or React Native with offline saving at altitude.",
-    maintenance: "Hosting, backups, updates and fixes for Tawang systems, five months free after launch, then from ₹8,000 a month with pre-season checks.",
+    maintenance: "Hosting, backups, updates and fixes for Tawang systems, two months free after launch, then from ₹8,000 a month with pre-season checks.",
   },
   whyUsIntro:
     "Tawang operators often pay booking platforms large commissions or rely on a website nobody can update. We are a freelance group of three engineers who build systems you own, publish starting prices, and reply on WhatsApp seven days a week, including during your busy season.",
@@ -174,7 +174,7 @@ const content: CityContent = {
       paragraphs: [
         "A season dashboard for a Tawang owner shows upcoming arrivals, room occupancy, groups on the road, vehicles allocated, advances received and balances due in one view on a phone. It replaces the notebook and the scroll through WhatsApp chats that most operators rely on during peak months.",
         "Systems are hosted on AWS or comparable platforms in an Indian region with daily backups, HTTPS and uptime monitoring. Before each main season we review the booking and payment flows and check that everything loads quickly.",
-        "Support covers fixes, updates, backups and small changes, free for five months after launch and from ₹8,000 a month afterwards. We work remotely, so on-site Wi-Fi, CCTV or computer problems need a local technician.",
+        "Support covers fixes, updates, backups and small changes, free for two months after launch and from ₹8,000 a month afterwards. We work remotely, so on-site Wi-Fi, CCTV or computer problems need a local technician.",
       ],
     },
     {
@@ -196,7 +196,7 @@ const content: CityContent = {
       id: "cost-tawang",
       heading: "How much does a booking website or travel software cost in Tawang?",
       paragraphs: [
-        "In Tawang, a website with BtechWaleTech starts at ₹10,000, an SEO website at ₹20,000, AI enquiry agents and Android and iOS apps at ₹40,000, an online store at ₹50,000 and custom booking or trip software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "In Tawang, a website with BtechWaleTech starts at ₹10,000, an SEO website at ₹20,000, AI enquiry agents and Android and iOS apps at ₹40,000, an online store at ₹50,000 and custom booking or trip software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "The final quote depends on the number of rooms or packages, languages, payment integration, offline needs and how quickly photos and content arrive. Good photos are often the slowest part in Tawang, so we plan around what you can send and when.",
         "Payment is accepted only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote.",
       ],
@@ -246,7 +246,7 @@ const content: CityContent = {
       "paragraphs": [
         "Keeping a Tawang booking website running through the quiet winter months costs very little: the domain renews once a year, hosting for a lean, mostly static site stays low, and there is no need to pay for staff-heavy features you are not using. The larger costs come only with apps, messaging and heavy custom software.",
         "We deliberately build Tawang sites light so that the running bill does not hurt in months with few guests. Static hosting and a simple booking database cost far less than a server running around the clock. If you publish a guest app, Google Play charges a one-time registration and Apple bills its developer programme each year. WhatsApp Business API conversations are charged by Meta only when they happen, so a quiet month costs less. Payment gateway fees are taken per transaction by the gateway.",
-        "Off-season is also the cheapest time to improve things. Our five free months of maintenance can be timed from launch so they cover your next busy season, and after that plans start at ₹8,000 a month, or you can pay per change and simply ask us to refresh prices and photos before spring. The quote lists every running cost with who pays it, so there are no surprises when bookings drop."
+        "Off-season is also the cheapest time to improve things. Our two free months of maintenance can be timed from launch so they cover your next busy season, and after that plans start at ₹8,000 a month, or you can pay per change and simply ask us to refresh prices and photos before spring. The quote lists every running cost with who pays it, so there are no surprises when bookings drop."
       ]
     },
   ],
@@ -284,7 +284,7 @@ const content: CityContent = {
     { question: "When should we start our project?", answer: "At least two to three months before the main season. Winter is a good time to build, take photos and train staff, so the site is live and tested before travellers start planning." },
     { question: "Will our website work on slow mobile networks?", answer: "Yes. We keep pages very small, show key text before images, compress photos and let forms save progress, so travellers can browse and book even on a weak connection." },
     { question: "Who owns the website, app and booking data?", answer: "You do. Domain, hosting, payment gateway, WhatsApp and app store accounts and the code repository are registered to your business wherever possible. You receive every credential at handover." },
-    { question: "What maintenance is included?", answer: "Five months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks, plus a pre-season review. After that, plans start from ₹8,000 a month." },
+    { question: "What maintenance is included?", answer: "Two months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks, plus a pre-season review. After that, plans start from ₹8,000 a month." },
     { question: "How long before SEO brings bookings to a Tawang hotel?", answer: "A complete Google Business Profile and detailed pages can bring enquiries within weeks for specific searches. Competitive searches such as hotels in Tawang usually take three to six months or more. We report monthly and never guarantee rankings." },
     { question: "Can you sell our carpets or handmade paper online?", answer: "Yes. Online stores start from ₹50,000 with product pages, UPI and card checkout through a gateway account in your name, courier integration and honest delivery estimates for shipping from Tawang." },
     { question: "Which languages do you work in?", answer: "We communicate in English and Hindi, and most Tawang travel sites are built in English with Hindi where useful. Content in Monpa or other languages can be added if you supply or approve the text." },

@@ -56,7 +56,7 @@ const srivilliputhur: CityContent = {
     ai: "Tamil and English WhatsApp assistants that answer sweet orders, room availability, saree prices and school fee questions.",
     data: "Festival-season dashboards of orders, stock, room bookings and payments due, readable on a phone.",
     app: "Android and iOS apps for repeat palkova buyers, weaver order tracking or school parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security work.",
   },
   whyUsIntro:
     "Srivilliputhur families have run the same shops and looms for generations, and they judge a new supplier slowly. We publish starting prices, send itemised written quotes, reply on WhatsApp every day, and keep the domain, hosting, code and store accounts in your name. When something is not worth the money, we say that too.",
@@ -178,7 +178,7 @@ const srivilliputhur: CityContent = {
       heading: "Ownership and maintenance for Srivilliputhur websites and apps",
       paragraphs: [
         "Many small-town businesses have lost a website because the designer kept the domain in his own name and later could not be found. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your name, and hand over every login in writing.",
-        "Maintenance is free for five months after launch: text and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another provider at any time.",
+        "Maintenance is free for two months after launch: text and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another provider at any time.",
         "Apps need yearly updates for Google and Apple rules, and we schedule those so your app stays listed. Festival pages are refreshed ahead of each season if you want them to be.",
       ],
     },
@@ -270,7 +270,7 @@ const srivilliputhur: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want to continue with us. You may also take the code to another developer whenever you like.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want to continue with us. You may also take the code to another developer whenever you like.",
     },
     {
       question: "Do you work in Rajapalayam, Krishnankoil and Watrap as well?",

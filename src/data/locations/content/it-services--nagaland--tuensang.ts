@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Offline-ready apps", "Information and notice portals", "Field data collection", "Sites from ₹10,000", "Replies on WhatsApp daily"],
   },
   quickAnswer:
-    "For IT solutions in Tuensang, BtechWaleTech is a freelance alternative to a software development team: information websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, and offline-ready custom software from ₹60,000, delivered in 1 to 12 weeks by scope. Three engineers work remotely from India, with five months' free maintenance.",
+    "For IT solutions in Tuensang, BtechWaleTech is a freelance alternative to a software development team: information websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, and offline-ready custom software from ₹60,000, delivered in 1 to 12 weeks by scope. Three engineers work remotely from India, with two months' free maintenance.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Tuensang district and a key town of Eastern Nagaland, with district offices serving a wide hill area" },
     { label: "Communities", value: "The Chang Naga are the principal landowning community of the town, alongside Sangtam, Yimkhiungrü and Khiamniungan people" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "Carefully limited AI helpers that answer frequent questions and draft notices in English, passing anything sensitive or local-language to a person.",
     data: "Dashboards that combine survey forms and records from villages into clear figures for managers, funders and district meetings.",
     app: "Offline-ready Android and iOS apps for Tuensang field staff, schools and traders, from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Remote upkeep including updates, backups and content changes, free for five months after launch, then from ₹8,000 a month if you continue.",
+    maintenance: "Remote upkeep including updates, backups and content changes, free for two months after launch, then from ₹8,000 a month if you continue.",
   },
   whyUsIntro:
     "Organisations in Tuensang are often told that good software needs a big city vendor and a big budget. It does not. It needs developers who design for weak networks, write things down, answer messages and leave you with every password. That is the whole of how we work.",
@@ -218,7 +218,7 @@ const content: CityContent = {
       id: "updates-maintenance-tuensang",
       heading: "Who keeps the site updated after launch?",
       paragraphs: [
-        "After launch, your own staff can post routine updates through a simple editor, while BtechWaleTech handles technical maintenance: security updates, backups, bug fixes, uptime checks and larger content changes. The first five months of maintenance are free once hosting is live, and plans continue from ₹8,000 a month.",
+        "After launch, your own staff can post routine updates through a simple editor, while BtechWaleTech handles technical maintenance: security updates, backups, bug fixes, uptime checks and larger content changes. The first two months of maintenance are free once hosting is live, and plans continue from ₹8,000 a month.",
         "Many Tuensang websites fail not at launch but a year later, when nobody remembers the login or the domain expires. Our handover document and renewal reminders prevent that. If you prefer to send updates to us on WhatsApp instead of logging in, that is covered in the maintenance plan too.",
         "We reply seven days a week. Support is remote and covers software, hosting, domains and email configuration; hardware and office networks remain with local technicians. Learn more <a href=\"/about/\">about the team</a>, see <a href=\"/portfolio/\">past work</a>, or compare with our page for <a href=\"/it-services/nagaland/mokokchung/\">Mokokchung</a>.",
       ],
@@ -295,7 +295,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months free after hosting goes live, covering updates, backups, security, fixes and content changes. Afterwards, plans start from ₹8,000 a month, or you can contact us only when needed. Your staff can also post routine notices themselves through the editor we set up.",
+        "Two months free after hosting goes live, covering updates, backups, security, fixes and content changes. Afterwards, plans start from ₹8,000 a month, or you can contact us only when needed. Your staff can also post routine notices themselves through the editor we set up.",
     },
     {
       question: "Do you build Android and iOS apps for Tuensang?",
@@ -305,7 +305,7 @@ const content: CityContent = {
     {
       question: "Can you handle the whole process, including hosting?",
       answer:
-        "Yes. We plan, design, build, set up hosting, configure the domain, SSL and email records, deploy the system and train staff. Everything is documented at handover, and the five free months of maintenance start from the day hosting goes live.",
+        "Yes. We plan, design, build, set up hosting, configure the domain, SSL and email records, deploy the system and train staff. Everything is documented at handover, and the two free months of maintenance start from the day hosting goes live.",
     },
     {
       question: "Can traders in Tuensang use your stock software without a computer?",

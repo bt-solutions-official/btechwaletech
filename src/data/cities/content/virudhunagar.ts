@@ -56,7 +56,7 @@ const virudhunagar: CityContent = {
     ai: "WhatsApp assistants in Tamil that answer rate, stock and dispatch questions from dealers and send the negotiations to you.",
     data: "Dashboards of daily purchases, mill output, dispatches by dealer, credit outstanding and seasonal price movement.",
     app: "Repeat-order apps for oil and dal distributors, or visit-logging apps for field salesmen, released on Play Store and App Store, costing ₹40,000 onwards.",
-    maintenance: "No upkeep charge for the first five months after go-live; later, rate-list edits, backups and patches cost ₹8,000 a month onwards.",
+    maintenance: "No upkeep charge for the first two months after go-live; later, rate-list edits, backups and patches cost ₹8,000 a month onwards.",
   },
   whyUsIntro:
     "Virudhunagar's trading families have a reputation for careful accounts and hard bargaining, and we respect that. You get published starting prices, an itemised written quote, WhatsApp replies on every day of the week, and domain, hosting, code and store accounts registered to your firm. If a feature will not pay its way, we will say so.",
@@ -180,7 +180,7 @@ const virudhunagar: CityContent = {
       heading: "Ownership and maintenance for Virudhunagar websites and apps",
       paragraphs: [
         "A common local story: the nephew or freelancer who made the site booked the domain in his name, moved away, and the business lost its address online. That cannot happen here. Your firm is the registered owner of the domain, server, code repository, Maps profile and Play/Apple developer accounts, and a written list of every password is handed over on launch day.",
-        "The first five months of upkeep cost nothing. That covers text and price edits, backups, patching, version upgrades and routine tests of enquiry forms, checkout and WhatsApp buttons. From month six, you may keep us on at ₹8,000 a month onwards or give the code to any other developer; there is no lock-in.",
+        "The first two months of upkeep cost nothing. That covers text and price edits, backups, patching, version upgrades and routine tests of enquiry forms, checkout and WhatsApp buttons. From month three, you may keep us on at ₹8,000 a month onwards or give the code to any other developer; there is no lock-in.",
         "Google and Apple tighten their rules for listed apps every year, and apps that fall behind get pulled. We watch those deadlines and push the required builds before they bite.",
       ],
     },
@@ -277,7 +277,7 @@ const virudhunagar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch you pay nothing for edits, backups, patches and routine testing of forms, checkout and WhatsApp buttons. After that, staying with us costs ₹8,000 a month onwards. Prefer someone else? Take your code to any developer at any point; we charge nothing for handing it over.",
+        "For two months after launch you pay nothing for edits, backups, patches and routine testing of forms, checkout and WhatsApp buttons. After that, staying with us costs ₹8,000 a month onwards. Prefer someone else? Take your code to any developer at any point; we charge nothing for handing it over.",
     },
     {
       question: "Do you work in Sivakasi, Sattur and Aruppukkottai too?",

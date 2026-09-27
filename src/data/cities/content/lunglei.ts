@@ -56,7 +56,7 @@ const lunglei: CityContent = {
     ai: "WhatsApp assistants that answer fee, room, stock and timing questions in English and pass real decisions to your staff.",
     data: "Simple dashboards of admissions, bookings, sales and dues for institutions and trading firms.",
     app: "Android and iOS apps for a college's students, a hospital's patients or a shop's regular buyers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then upkeep from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free maintenance after launch, then upkeep from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Lunglei businesses are used to suppliers who are far away and hard to reach. We make distance less of a problem: published starting prices, a written itemised quote, WhatsApp replies seven days a week, and your domain, hosting, code and app store accounts registered in your own name. If something will not be worth the money, we tell you.",
@@ -168,7 +168,7 @@ const lunglei: CityContent = {
       heading: "Ownership and maintenance for Lunglei websites and apps",
       paragraphs: [
         "Everything we build for a Lunglei client is registered to that client. The domain is booked on your email, hosting is billed to you, you receive the full source code, and you are the owner on your Google Business Profile, Google Play console and Apple developer account. For institutions, we suggest registering accounts on an official email rather than one staff member's personal address, so access survives staff changes.",
-        "Maintenance is free for five months after launch: content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it in-house, or move to another developer with no permission needed from us.",
+        "Maintenance is free for two months after launch: content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it in-house, or move to another developer with no permission needed from us.",
         "Apps need a yearly update to meet Google and Apple's rising minimum requirements. We track those deadlines and update ahead of time so your app is not removed from either store.",
       ],
     },
@@ -260,7 +260,7 @@ const lunglei: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. The code and accounts are already yours, so changing developers is easy.",
+        "Maintenance is free for two months after launch, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. The code and accounts are already yours, so changing developers is easy.",
     },
     {
       question: "Do you work in Tlabung, Hnahthial and Aizawl too?",

@@ -31,10 +31,10 @@ const nabadwip: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Nabadwip's temples, guest houses, weavers and market shops",
     lede:
       "Nabadwip welcomes pilgrims all year, fills up for Rash and Gaura Purnima, and keeps its handloom, sweet and brass trades running between festivals. We are three remote engineers building websites, map listings and WhatsApp systems for its ashrams, lodges, shops, clinics and schools, with starting prices in writing and ownership in your name.",
-    pills: ["Sites from ₹10,000", "Pilgrim-season booking", "Bengali, Hindi, English", "Handloom and sweet stores", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Pilgrim-season booking", "Bengali, Hindi, English", "Handloom and sweet stores", "2 months free upkeep"],
   },
   quickAnswer:
-    "A Nabadwip business website starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Nabadwip, and the first five months of maintenance are free.",
+    "A Nabadwip business website starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Nabadwip, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "West bank of the Bhagirathi-Hooghly near the Jalangi confluence, Nadia district" },
     { label: "Population", value: "About 1.26 lakh in the city and 1.75 lakh in the urban agglomeration (2011)" },
@@ -51,7 +51,7 @@ const nabadwip: CityContent = {
     ai: "WhatsApp assistants that answer room, timing and product questions in Bengali, Hindi or English and hand bookings to a person.",
     data: "Dashboards showing festival-season bookings, donations, sales by product or patient visits, so owners can plan the next season.",
     app: "Android and iOS apps for devotee groups, delivery riders or school parents, listed on both app stores and priced from ₹40,000.",
-    maintenance: "Five free months of fixes after launch, then plans from ₹8,000 a month or payment per change.",
+    maintenance: "Two free months of fixes after launch, then plans from ₹8,000 a month or payment per change.",
   },
   whyUsIntro:
     "A Nabadwip business may serve a pilgrim group from Odisha, a devotee from abroad staying at Mayapur and a family from Krishnanagar in one afternoon. The website must be clear to all of them. We plan pages with you over WhatsApp, write starting prices down and hand every login to you at launch.",
@@ -177,7 +177,7 @@ const nabadwip: CityContent = {
       paragraphs: [
         "A familiar story from pilgrim towns: a guest house paid for a website years ago, the developer kept the domain in his own account, and when he stopped answering, the site expired in the middle of the season. Old brochures, booking sites and signboards kept sending people to a dead link.",
         "We register the domain in your name and set up hosting on your own account. At launch you receive every password, the full source code and a short guide to how the site works. You are free to hire someone else later, with no exit fee and no permission needed.",
-        "Maintenance is free for five months after launch, covering content edits, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Many seasonal businesses keep a plan from Durga Puja to Gaura Purnima and switch to pay-per-change in the quieter monsoon months.",
+        "Maintenance is free for two months after launch, covering content edits, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Many seasonal businesses keep a plan from Durga Puja to Gaura Purnima and switch to pay-per-change in the quieter monsoon months.",
       ],
     },
     {
@@ -271,7 +271,7 @@ const nabadwip: CityContent = {
         "You do. The domain is in your name, the hosting is on your account, and you receive every password and the full source code at launch. You can move to any other developer at any time without an exit fee.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You choose. Plans start at ₹8,000 a month and cover updates, backups, security patches and content changes, or you can pay only when you need a change. Either way, you keep complete control of your website and accounts.",
     },

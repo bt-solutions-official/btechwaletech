@@ -35,7 +35,7 @@ const moradabad: CityContent = {
     pills: ["Export catalogue sites", "Sites from ₹10,000", "Hindi and English SEO", "WhatsApp order flows", "You own the code"],
   },
   quickAnswer:
-    "A business website for a Moradabad firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an export-ready online store at ₹50,000. We are a remote three-person team, the domain and hosting stay in your name, and five months of maintenance after launch are free.",
+    "A business website for a Moradabad firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an export-ready online store at ₹50,000. We are a remote three-person team, the domain and hosting stay in your name, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "Known as", value: "Peetal Nagri, the Brass City, with a GI tag for Moradabad Metal Craft" },
     { label: "Export base", value: "Brass, aluminium, iron, glass and wooden home décor sold to buyers in the US, Europe and beyond" },
@@ -52,7 +52,7 @@ const moradabad: CityContent = {
     ai: "AI assistants and WhatsApp flows that answer routine enquiries, collect sample requests and log leads so the owner is not typing replies late into the night.",
     data: "Dashboards that show which buyers, product lines and shipments actually make money, built from your existing Tally exports and order sheets.",
     app: "Android and iPhone apps for sales agents and dealers to browse the brassware catalogue offline at a trade fair and place orders, from ₹40,000.",
-    maintenance: "Catalogue updates before each buying season, security patches, backups and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Catalogue updates before each buying season, security patches, backups and speed checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Moradabad exporters are used to buyers who audit everything: factory, compliance, packing, communication. Your web developer should be held to the same standard. We publish prices, put everything in writing, reply on WhatsApp every day of the week, and hand over every login at launch, so you are never dependent on us.",
@@ -164,11 +164,11 @@ const moradabad: CityContent = {
     },
     {
       id: "ownership-moradabad",
-      heading: "Your domain, your code and five free months of upkeep",
+      heading: "Your domain, your code and two free months of upkeep",
       paragraphs: [
         "We often hear from Moradabad businesses that cannot change their own website. The person who built it has moved on, the domain renewal emails go to an address no one checks, or the hosting sits inside someone else's account. For an exporter, a lapsed domain can also break company email in the middle of a buyer negotiation, which is a far bigger problem than a stale web page.",
         "We avoid all of that by setting things up in your name from the first day. The domain is registered to your business, the hosting account is yours, and at launch you receive every username and password along with a short note explaining what runs where. The source code belongs to you. If you later decide to work with someone else, you can take everything with you and there is no charge for leaving.",
-        "Maintenance for the first five months after launch is free. That includes content and catalogue updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that you can continue from ₹8,000 a month or simply message us when something needs to change.",
+        "Maintenance for the first two months after launch is free. That includes content and catalogue updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that you can continue from ₹8,000 a month or simply message us when something needs to change.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const moradabad: CityContent = {
     {
       question: "What does the free maintenance period include?",
       answer:
-        "For five months after launch we handle content and catalogue updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle content and catalogue updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "We already have a website. Can you improve it instead?",

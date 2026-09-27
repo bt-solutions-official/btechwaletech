@@ -31,7 +31,7 @@ const content: FreelanceContent = {
     eyebrow: "Instagram hai, Google profile hai · phir website kyun?",
     h1: "Business ke liye website kyu jaruri hai: Instagram aur Google profile ke baad bhi",
     lede: `Business ke liye website kyu jaruri hai, yeh sawal aksar wahi log poochte hain jinka Instagram page chal raha hai aur Google Maps par dukaan bhi dikhti hai. Seedha jawab: website woh ek jagah hai jo poori tarah aapki hai, jahan Google se naye log aate hain, jahan customer bharosa karke WhatsApp par enquiry bhejta hai, aur jiska data kisi app ke rules par nahi tikta. Hum teen freelance developers hain, aur business website ${P.site} se banate hain. Neeche poora hisaab hai, <a href='/instagram-shop-vs-website/'>Instagram vs website</a> ki tulna samet.`,
-    pills: ["Website " + P.site + " se", "Domain aapke naam par", "WhatsApp enquiry button", "Google Maps + Search setup", "Hindi aur English pages", "5 mahine free maintenance", "UPI ya bank transfer"],
+    pills: ["Website " + P.site + " se", "Domain aapke naam par", "WhatsApp enquiry button", "Google Maps + Search setup", "Hindi aur English pages", "2 mahine free maintenance", "UPI ya bank transfer"],
     origin: "Teen freelance developers, India se · WhatsApp par jawab, hafte ke saaton din",
   },
   facts: [
@@ -45,7 +45,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers jo website plan, build aur launch karte hain" },
     { value: "2", label: "Working din mein itemised quote, approval ke baad hi bill" },
-    { value: "5", label: "Mahine ki free maintenance launch ke baad" },
+    { value: "2", label: "Mahine ki free maintenance launch ke baad" },
     { value: "0", label: "Platform ya marketplace commission, aap seedha team se baat karte hain" },
   ],
   answer: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Google Business Profile + website ka jod", note: "Profile par website link, website par wahi naam-pata-phone, aur dono jagah same timings, taaki Google ko ek saaf signal mile.", href: "/google-business-profile-expert/", size: "md" },
       { name: "Online order ya booking", note: `Jab log seedha order dena chahein, toh UPI aur card checkout wala store ${P.shop} se.`, href: "/online-dukan-kaise-khole/", size: "md" },
       { name: "Monthly SEO", note: `Website ban gayi, ab har mahine naye pages, reviews aur local rankings par kaam chahiye toh ${P.seo} se.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Maintenance", note: `Launch ke baad 5 mahine free chhote badlav aur backups; uske baad ${P.care} se, sirf agar aap chahein.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Launch ke baad 2 mahine free chhote badlav aur backups; uske baad ${P.care} se, sirf agar aap chahein.`, href: "/website-maintenance-freelancer/", size: "sm" },
       { name: "Customer app, baad mein", note: `Repeat customers bahut ho jayein toh Android aur iOS app ${P.app} se.`, href: "/it-services/android-ios-app/", size: "sm" },
     ],
   },
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Website ka kharcha ek baar ka build aur har saal ka chhota renewal hota hai; return is baat par nirbhar hai ki ek naya customer aapko kitna munafa deta hai. Isko samajhne ka simple tareeka hai: website ki keemat ko ek customer ke munafe se bhaag dijiye. Jo number aaye, utne naye customers mein website ka paisa wapas.`,
         `Maan lijiye ek interior designer ko ek naye project se itna munafa hota hai jo simple website ki keemat se zyada hai. Toh saal mein ek bhi naya project jo website se aaya, poora kharcha nikaal deta hai. Wahi hisaab ek chai ki tapri par nahi baithta, kyunki wahan customer Google par dhoondh kar nahi aata. Isliye website ka faisla business ke type se hota hai, trend se nahi.`,
-        `Chhupe hue kharche bhi ginne chahiye: domain aur hosting ka saalana renewal, kabhi-kabhi photos ya content, aur launch ke kuch mahine baad maintenance. Hamare saath pehle 5 mahine maintenance free hai, phir ${P.care} se agar aap chahein. Har saal ka poora bill <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a> par line-by-line samjhaya hai.`,
+        `Chhupe hue kharche bhi ginne chahiye: domain aur hosting ka saalana renewal, kabhi-kabhi photos ya content, aur launch ke kuch mahine baad maintenance. Hamare saath pehle 2 mahine maintenance free hai, phir ${P.care} se agar aap chahein. Har saal ka poora bill <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a> par line-by-line samjhaya hai.`,
       ],
     },
     {
@@ -282,7 +282,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yeh ek kaalpanik misaal hai, kisi asli client ki kahani nahi. Maan lijiye Raipur mein do technicians wali ek AC repair dukaan hai. Unka Instagram page hai jismein kuch reels hain, aur Google Maps par listing hai jismein kuch achhe reviews hain. Garmi mein phone aate hain, par zyada tar purane customers ke. Naye colonies se log nahi aa rahe.`,
         `Unke liye plan simple hoga. Ek business website jismein AC servicing, gas refill, installation aur repair ke alag pages hon, har page par “shuru hota hai” rate range, service area ki list (colonies ke naam), aur WhatsApp button jo service ka naam pehle se bhar de. Google Business Profile par website link, aur website par wahi naam-pata-phone. Search Console jodna aur sitemap bhejna.`,
-        `Kharcha: simple website ${P.site} se, 1–2 hafte, domain aur hosting unke naam par. Pehle 5 mahine hum chhote badlav free karte. Iske baad yeh dekhna ki kaunse pages se WhatsApp enquiry aa rahi hai, aur garmi se pehle un colonies ke liye naye pages jodna. Koi guarantee nahi ki kitne naye customers aayenge, par ab naye log ke paas aapko dhoondhne ka rasta hai.`,
+        `Kharcha: simple website ${P.site} se, 1–2 hafte, domain aur hosting unke naam par. Pehle 2 mahine hum chhote badlav free karte. Iske baad yeh dekhna ki kaunse pages se WhatsApp enquiry aa rahi hai, aur garmi se pehle un colonies ke liye naye pages jodna. Koi guarantee nahi ki kitne naye customers aayenge, par ab naye log ke paas aapko dhoondhne ka rasta hai.`,
       ],
     },
   ],
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
       ["Content ki chhoti list", "Logo, services, rates ki range, photos, address aur timings. Aap Hindi ya English mein bhejiye, hum pages mein saja denge aur aap approve karenge."],
       ["Homepage design pehle", "Pehle homepage ka design live link par dikhate hain. Aapke badlav ke baad baaki service pages, contact aur FAQ banate hain."],
       ["Phone par check aur launch", "Aap apne aur ghar walon ke phones par website dekhte hain. Phir domain jodte hain, Search Console aur Google Business Profile link karte hain."],
-      ["Handover aur 5 mahine support", "Saare passwords aur code aapko milte hain. Pehle 5 mahine chhote badlav free, uske baad maintenance sirf agar aap chahein."],
+      ["Handover aur 2 mahine support", "Saare passwords aur code aapko milte hain. Pehle 2 mahine chhote badlav free, uske baad maintenance sirf agar aap chahein."],
     ],
   },
   faqHeading: "Business ke liye website kyu jaruri hai: aapke sawal",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Website aur WhatsApp Business mein kya fark hai?", answer: "WhatsApp Business baat-cheet aur booking ke liye hai, par naya customer aapko wahan dhoondh nahi sakta jab tak uske paas aapka number na ho. Website woh jagah hai jahan Google se naya customer aapko dhoondhta hai, jaankari padhta hai, aur phir ek tap mein WhatsApp par message karta hai. Dono saath mein sabse achha kaam karte hain." },
     { question: "Website se Google par dikhne mein kitna samay lagta hai?", answer: "Launch ke baad Google website ko kuch dinon se kuch hafton mein index kar leta hai, par achhi jagah milne mein mahine lag sakte hain, competition ke hisaab se. Chhote shehar aur kam competition wali services mein jaldi hota hai. Hum Search Console jodkar sitemap bhejte hain taaki Google ko saare pages ka pata chale." },
     { question: "Kya website Hindi mein ban sakti hai?", answer: "Haan. Hum Hindi, English ya dono bhashaon mein pages banate hain. Hindi text aap likh kar dein ya hum draft karein aur aap approve karein. Hindi pages un shehron mein kaam aate hain jahan customer Hindi mein search karta hai. Google ko bhasha sahi se samjhane ke liye hum technical setting bhi karte hain." },
-    { question: "Website banne ke baad maintenance ka kya?", answer: `Launch ke baad pehle 5 mahine chhote badlav, backups aur security updates free hain. Uske baad agar aap chahein toh maintenance ${P.care} se hai. Agar aap khud text aur photos badalna seekh lein toh aapko zyada madad ki zarurat nahi padegi. Domain aur hosting renewal aapke naam par hota hai, isliye reminder aapke email par aata hai.` },
+    { question: "Website banne ke baad maintenance ka kya?", answer: `Launch ke baad pehle 2 mahine chhote badlav, backups aur security updates free hain. Uske baad agar aap chahein toh maintenance ${P.care} se hai. Agar aap khud text aur photos badalna seekh lein toh aapko zyada madad ki zarurat nahi padegi. Domain aur hosting renewal aapke naam par hota hai, isliye reminder aapke email par aata hai.` },
     { question: "Kya website se online payment le sakte hain?", answer: `Haan. Simple website par bhi UPI QR ya payment link lagaya ja sakta hai. Agar products ki list, cart aur checkout chahiye, toh ecommerce website ${P.shop} se shuru hoti hai jismein UPI aur card payment dono hote hain. Payment gateway ke liye KYC aapke business ke naam par hota hai, aur paisa seedha aapke bank account mein jaata hai.` },
     { question: "Freelancer se website banwayein ya agency se?", answer: "Dono sahi ho sakte hain. Agency ke paas zyada log hote hain par aksar kharcha zyada hota hai; akele freelancer sasta ho sakta hai par bimar ho jaye toh kaam ruk jaata hai. Hum teen freelance developers hain, isliye ek chhoti team ka backup bhi hai aur seedhi baat bhi. Jo bhi chunein, domain aapke naam par aur quote likhit mein lijiye." },
     { question: "Mere business ka Instagram achha chal raha hai, website se kya extra milega?", answer: "Website teen cheezein deti hai jo Instagram nahi deta: Google Search se naye log jo aapko follow nahi karte, ek jagah poori service list aur rates, aur woh data jo platform badalne par bhi aapke paas rahe. Reels se log aakarshit hote hain, website par woh faisla karte hain. Bio mein website link se dono jud jaate hain." },

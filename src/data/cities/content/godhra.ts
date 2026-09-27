@@ -30,11 +30,11 @@ const godhra: CityContent = {
     eyebrow: "Godhra · Panchmahal, Gujarat",
     h1: "Websites, apps, SEO and AI automation for Godhra's traders, Halol and Kalol suppliers, schools and clinics",
     lede:
-      "We are three engineers working remotely, building websites, local SEO and WhatsApp automation for businesses in Godhra and across Panchmahal: engineering vendors serving the Halol and Kalol estates, oil and flour mills, wholesale traders, private schools, hospitals and hotels on the Pavagadh route. Starting prices are public, and five months of upkeep are free.",
+      "We are three engineers working remotely, building websites, local SEO and WhatsApp automation for businesses in Godhra and across Panchmahal: engineering vendors serving the Halol and Kalol estates, oil and flour mills, wholesale traders, private schools, hospitals and hotels on the Pavagadh route. Starting prices are public, and two months of upkeep are free.",
     pills: ["Static sites from ₹10,000", "Gujarati, Hindi and English", "Vendor sites for GIDC buyers", "Pavagadh visitor pages", "Code and domain in your name"],
   },
   quickAnswer:
-    "For Godhra businesses, our static websites start from ₹10,000 and usually launch in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no office in Godhra, and maintenance is free for five months after launch.",
+    "For Godhra businesses, our static websites start from ₹10,000 and usually launch in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no office in Godhra, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Panchmahal district in eastern Gujarat" },
     { label: "Connectivity", value: "Godhra Junction on the New Delhi–Mumbai main line, a road junction, and on the route of the Delhi–Mumbai Expressway" },
@@ -51,7 +51,7 @@ const godhra: CityContent = {
     ai: "WhatsApp assistants that answer rates, stock, fees or booking questions in Gujarati or Hindi, and hand complex chats to your staff.",
     data: "Sales, collection and production dashboards that turn monthly spreadsheets into a page you can read on a phone.",
     app: "Android and iPhone apps for parents, patients or field staff, built once and released on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Updates, backups and fixes free for five months after launch, then maintenance from ₹8,000 a month if you choose.",
+    maintenance: "Updates, backups and fixes free for two months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
     "Godhra businesses usually weigh a local freelancer against an agency in Vadodara or Ahmedabad. The first can be hard to reach later, the second often quotes city prices. We publish our starting prices, the three engineers who do the work answer WhatsApp seven days a week, and your domain, hosting and code are in your name from the first day.",
@@ -172,10 +172,10 @@ const godhra: CityContent = {
     },
     {
       id: "ownership-godhra",
-      heading: "You own everything, and upkeep is free for five months",
+      heading: "You own everything, and upkeep is free for two months",
       paragraphs: [
         "It is common in district towns for a developer to register a business's domain in their own name. When they move on, the owner cannot renew the domain or change a phone number, and the site disappears. We avoid this entirely: the domain and hosting are registered in your name from day one, and at launch you receive every login, the full code and a note explaining the setup.",
-        "For five months after launch, maintenance costs nothing. That covers text, price and photo changes, security and software updates, backups, bug fixes and speed checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch, maintenance costs nothing. That covers text, price and photo changes, security and software updates, backups, bug fixes and speed checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need something done.",
         "If you ever want another developer to take over, hand them the access. There is no exit fee and nothing held back.",
       ],
     },
@@ -270,9 +270,9 @@ const godhra: CityContent = {
         "Yes. The domain and hosting are in your name from the start, and at launch you receive all logins and the full code. You can move to another developer whenever you like, with no exit fee. We prefer to keep clients through good work, not by holding their access.",
     },
     {
-      question: "What is covered by the five months of free maintenance?",
+      question: "What is covered by the two months of free maintenance?",
       answer:
-        "Text, price and photo updates, security and software updates, backups, bug fixes and speed checks. After five months, maintenance starts from ₹8,000 a month, or you can message us only when a change is needed and pay for that work alone.",
+        "Text, price and photo updates, security and software updates, backups, bug fixes and speed checks. After two months, maintenance starts from ₹8,000 a month, or you can message us only when a change is needed and pay for that work alone.",
     },
     {
       question: "Can you guarantee a first-page ranking?",

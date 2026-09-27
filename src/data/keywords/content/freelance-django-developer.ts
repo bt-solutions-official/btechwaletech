@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: "Freelance Django Developer in India: Portals and ERPs",
-    description: `Hire a freelance Django developer for admin panels, customer portals and small ERPs. Custom web apps from ${P.software}, code in your name, 5 months free support.`,
+    description: `Hire a freelance Django developer for admin panels, customer portals and small ERPs. Custom web apps from ${P.software}, code in your name, 2 months free support.`,
     keywords: [
       "freelance django developer", "freelance django developer India", "django developer near me", "freelance django developer for hire",
       "django developer cost", "django development price India", "best freelance django developer", "django developer chahiye",
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Core stack", "Python, Django, PostgreSQL"],
     ["Quote", "Itemised in about 2 working days"],
     ["Code", "In your Git repository from week one"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Licence fees for Django itself" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Database", value: "PostgreSQL by default; MySQL if you already use it" },
       { label: "Hosting", value: "Your own AWS or VPS account" },
       { label: "Payments", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance Django developer cost in India?",
       paragraphs: [
         `Freelance Django quotes vary widely, and hourly figures alone tell you little. What counts is how much of your process has to be modelled and how much data has to move in.`,
-        `With BtechWaleTech, a custom web app in Django starts at ${P.software}. AI features, such as reading purchase bills into the system, start at ${P.ai}. A companion Android and iOS app on the same API starts at ${P.app}. Hosting is billed by your cloud provider to your own card, and maintenance, after five free months, starts at ${P.care}.`,
+        `With BtechWaleTech, a custom web app in Django starts at ${P.software}. AI features, such as reading purchase bills into the system, start at ${P.ai}. A companion Android and iOS app on the same API starts at ${P.app}. Hosting is billed by your cloud provider to your own card, and maintenance, after two free months, starts at ${P.care}.`,
         `The main cost drivers are the number of user roles, the modules needed at launch, integrations with SMS, email, WhatsApp or payment links, the number and complexity of reports, and migrating old data. Cleaning years of inconsistent Excel sheets can take longer than building the screens, so we price it as its own line.`,
       ],
       after: [`For wider comparisons, see <a href='/freelance-web-developer-rates/'>freelance developer rates</a>.`],
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
         ["REST API for a mobile app", `${P.software}`, `${P.softwareUsd}`, "6–8 weeks"],
         ["AI feature inside the app", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks"],
         ["Companion Android and iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Weeks 4–8", "Main modules, portal pages, notifications", "Weekly review, rule decisions", "Features on staging"],
         ["Weeks 8–10", "Data import, reports, testing", "Check imported records", "Clean data and reports"],
         ["Go-live", "Deploy, backups, monitoring, training", "Train your team", "Live system and handover pack"],
-        ["Next 5 months", "Fixes and small changes", "Report issues on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes and small changes", "Report issues on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -371,13 +371,13 @@ const content: FreelanceContent = {
       ["Set up repository and servers", "Git repository, staging and production servers are created in your accounts. Nothing is billed until you approve the quote in writing."],
       ["Ship module one", "Staff start using the first module on staging within weeks. Feedback shapes the next module before it is built."],
       ["Import data and go live", "We clean and import old records, run tests with your team, train users on a call and deploy to production."],
-      ["Stabilise and extend", "Five months of free fixes after go-live, then maintenance from " + P.care + " or further modules as separate quotes."],
+      ["Stabilise and extend", "Two months of free fixes after go-live, then maintenance from " + P.care + " or further modules as separate quotes."],
     ],
   },
   faqHeading: "Freelance Django developer: questions businesses ask",
   faqs: [
     { question: "What does a freelance Django developer do?", answer: "A freelance Django developer builds web applications in Python using the Django framework, usually for businesses that need logins, roles, records and reports. Typical work includes admin panels, customer or dealer portals, inventory and billing modules, CRMs and REST APIs for mobile apps, along with hosting, testing and ongoing fixes." },
-    { question: "How much does it cost to hire a freelance Django developer in India?", answer: `Quotes vary widely, depending on roles, modules, integrations and data migration. With BtechWaleTech a custom Django web app starts at ${P.software}, AI features start at ${P.ai}, and maintenance after five free months starts at ${P.care}. You receive an itemised quote before paying anything.` },
+    { question: "How much does it cost to hire a freelance Django developer in India?", answer: `Quotes vary widely, depending on roles, modules, integrations and data migration. With BtechWaleTech a custom Django web app starts at ${P.software}, AI features start at ${P.ai}, and maintenance after two free months starts at ${P.care}. You receive an itemised quote before paying anything.` },
     { question: "Is Django good for building an ERP?", answer: "Django suits ERP-style systems for small and mid-sized businesses because it handles structured data, permissions and admin screens well. It works best when built module by module, such as inventory first and sales next. For full accounting and payroll, established accounting software is usually better, with Django exporting data to it." },
     { question: "How long does a Django web application take to build?", answer: "Most custom Django projects take 6–12 weeks to the first full release. A simple admin panel can be ready sooner, while an ERP with several modules and a data migration takes longer. Releasing one module at a time means your team can start using part of the system within a few weeks." },
     { question: "Can the Django admin be used by my staff every day?", answer: "Yes. A customised Django admin with filters, bulk actions, exports and restricted fields works well for trusted internal staff doing data entry and processing. It is not designed for customers or dealers, so outside users should get separate custom pages with tighter permissions and a mobile-friendly layout." },
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Can Django handle Hindi or regional language screens?", answer: "Yes. Django has a built-in translation system, so labels, messages and emails can appear in Hindi or another Indian language while staff screens stay in English. Content such as product names can also be stored in more than one language where your dealers or customers need it." },
     { question: "Can you add AI features to a Django application?", answer: `Yes. Because Django is Python, it connects easily to AI tools for reading documents, classifying tickets, smart search or drafting replies. BtechWaleTech builds AI features from ${P.ai}, with clear limits on accuracy, cost per use and data privacy explained before we start.` },
     { question: "What do you not build with Django?", answer: "We do not recommend Django for simple marketing websites, where a static site is faster and cheaper. We also do not take on projects needing a large team working in parallel, on-site IT support or hardware integration. We will say so on the first call rather than stretch." },
-    { question: "Django developer chahiye, kitna kharcha aayega?", answer: `BtechWaleTech ke saath custom Django web app ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Kharcha roles, modules, reports aur purana data import karne par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 5 mahine maintenance free hai.` },
+    { question: "Django developer chahiye, kitna kharcha aayega?", answer: `BtechWaleTech ke saath custom Django web app ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Kharcha roles, modules, reports aur purana data import karne par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 2 mahine maintenance free hai.` },
     { question: "How do payments work for a Django project?", answer: "Payments are split into milestones linked to modules you can see on the staging server, such as the first module live or the portal ready for testing. In India we accept UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote." },
   ],
   related: {
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Outgrown your spreadsheets? Show us how your team works today",
-    note: `Send a few screenshots of your current sheets or software on WhatsApp. We will reply with questions, then an itemised Django quote in about two working days. Custom web apps start at ${P.software}, with code in your repository and five months of free fixes.`,
+    note: `Send a few screenshots of your current sheets or software on WhatsApp. We will reply with questions, then an itemised Django quote in about two working days. Custom web apps start at ${P.software}, with code in your repository and two months of free fixes.`,
   },
 };
 

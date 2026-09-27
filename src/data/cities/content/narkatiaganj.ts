@@ -56,7 +56,7 @@ const narkatiaganj: CityContent = {
     ai: "WhatsApp assistants in Hindi and Bhojpuri-friendly Hinglish that answer price, stock and timing questions and hand real decisions to you.",
     data: "Season-wise dashboards of paddy bought, rice dispatched, cane slips and dues by village or buyer.",
     app: "Android and iOS apps for rice and chura buyers to reorder or for dealers to log village deliveries, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Narkatiaganj traders have seen enough people promise a website and disappear after the advance. We work the other way: starting prices on the page, a written itemised quote, nothing billed until you approve it, WhatsApp replies every day, and domain, hosting, code and store accounts registered in your own name from the first day.",
@@ -188,7 +188,7 @@ const narkatiaganj: CityContent = {
       heading: "You own it: domain, code, app accounts and maintenance",
       paragraphs: [
         "A common complaint in small towns is a website that vanished when the designer stopped answering the phone, because the domain was in the designer's name. We avoid that completely. Your domain, hosting, source code, Google Business Profile and app store developer accounts are registered in your name, and you keep the login details.",
-        "After launch you receive five months of free maintenance: content and price edits, backups, security updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month and is optional. You can move the site to anyone else at any time without asking our permission.",
+        "After launch you receive two months of free maintenance: content and price edits, backups, security updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month and is optional. You can move the site to anyone else at any time without asking our permission.",
         "We also leave a short handover note in plain language: where things are hosted, when renewals are due and how to update common content yourself. For apps, we keep build files and store listings organised so another developer could continue if you ever choose.",
       ],
     },
@@ -271,7 +271,7 @@ const narkatiaganj: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "You get five months of free maintenance covering edits, backups, security updates and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month and is optional. Since the code and accounts belong to you, you can switch to another developer whenever you like.",
+        "You get two months of free maintenance covering edits, backups, security updates and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month and is optional. Since the code and accounts belong to you, you can switch to another developer whenever you like.",
     },
     {
       question: "Do you also work in Bettiah, Bagaha, Ramnagar and Raxaul?",

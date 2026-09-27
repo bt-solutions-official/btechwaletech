@@ -36,14 +36,14 @@ const content: FreelanceContent = {
     ["Destination guide site from", P.seoSite],
     ["Custom booking system from", P.software],
     ["Build time", "About 1 to 2 weeks with your booking engine"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Quote", "Itemised in USD, in about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Taps from tour page to checkout is the target on mobile" },
     { value: "3", label: "Freelance developers who build, rank and look after your site" },
     { value: "0", label: "Commission taken by us on any booking your site makes" },
-    { value: "5", label: "Months of free fixes after your site goes live" },
+    { value: "2", label: "Months of free fixes after your site goes live" },
   ],
   answer: {
     heading: "How can a tour operator website get more direct bookings?",
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
         "Gift vouchers, private tour enquiry forms and group bookings",
         "Moving an old site without losing search traffic",
       ],
-      after: [`After launch you get five months of free maintenance; care plans then start from ${P.care}. Running costs such as domain, hosting and your booking engine subscription are paid by you directly. For broader NZ figures, see <a href='/new-zealand/website-design-cost/'>what a website costs in NZ</a>.`],
+      after: [`After launch you get two months of free maintenance; care plans then start from ${P.care}. Running costs such as domain, hosting and your booking engine subscription are paid by you directly. For broader NZ figures, see <a href='/new-zealand/website-design-cost/'>what a website costs in NZ</a>.`],
     },
     {
       id: "timeline",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Structure and booking test", "We build the tour page template on a staging link, embed your engine and run test bookings before writing everything else."],
       ["Content and guides", "Tour details, policies and destination guides drafted from your notes; you correct anything local we have wrong."],
       ["Phone testing", "We book on real phones, check emails, currency labels and page speed, and fix issues you spot."],
-      ["Launch before peak", "Live on your accounts, Business Profile updated, logins handed over, five months of free maintenance starts."],
+      ["Launch before peak", "Live on your accounts, Business Profile updated, logins handed over, two months of free maintenance starts."],
     ],
   },
   faqHeading: "Tour operator website design: questions from NZ operators",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "How do I pay and who owns the site?", answer: "Pay in USD by Wise, bank wire or PayPal at the milestones in your written quote; nothing is billed before approval. You own the domain, hosting, content and guest data, and we hand over all logins. Invoices come from India, so ask your accountant how to record them." },
     { question: "Can you track which bookings come direct and which come from OTAs?", answer: "Yes. Most booking engines report bookings by channel, and we set up analytics and conversion tracking across your site and the engine's checkout. You then compare direct share season on season, which is the clearest test of whether the site is paying for itself." },
     { question: "Can I sell gift vouchers on my tour website?", answer: "Usually yes, through your booking engine's voucher feature if it has one, or a small online store if not. Vouchers suit gift-buying seasons and domestic customers. We add clear terms covering expiry and use, which you set." },
-    { question: "What happens after the site launches?", answer: `You get five months of free maintenance for fixes and small changes. After that, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional. You can also edit tour details and policies yourself from the admin area.` },
+    { question: "What happens after the site launches?", answer: `You get two months of free maintenance for fixes and small changes. After that, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional. You can also edit tour details and policies yourself from the admin area.` },
   ],
   related: {
     heading: "More for New Zealand tourism and hospitality businesses",

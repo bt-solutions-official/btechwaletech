@@ -56,7 +56,7 @@ const saunda: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer stock, fee, timing and booking questions and pass real decisions to you.",
     data: "Monthly dashboards of vehicle trips, diesel use, bills raised, payments pending and workers deployed by site.",
     app: "Android and iOS apps for drivers to log trips or for schools to reach parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "In a colliery town, people remember who delivered and who disappeared. We publish starting prices, give an itemised quote in writing, reply on WhatsApp every day of the week and register the domain, hosting, code and store accounts in your name. If something you ask for will not earn back its cost, we say so before you pay for it.",
@@ -178,7 +178,7 @@ const saunda: CityContent = {
       paragraphs: [
         "None of us lives in Ramgarh district, so paper replaces the handshake. The opening call is about your trade, your buyers and the one or two things the site or app must get right. A written scope follows: screens or pages, dates and an itemised price. Once you sign off, we send working preview links to your phone so you, a partner or a son at college can tap through and leave comments. Billing waits for that written sign-off, and each later payment is tied to something you have already seen working.",
         "Messages on WhatsApp get answered on all seven days, in IST hours. Any Hindi copy is shown to you before publishing, and a slipped date is reported the moment we spot it rather than on the deadline itself.",
-        "In small towns we often meet owners whose old website vanished because the person who built it kept the domain. That cannot happen with us: domain, hosting, source code, Google Business Profile and both app store developer accounts are opened in your name, and the passwords are handed over in writing. For the first five months after go-live, upkeep costs nothing: fixes, backups, security updates and regular tests of forms, payments and WhatsApp buttons. From month six, continued care is ₹8,000 a month onwards, entirely optional, and you are free to hand the code to someone else at any point.",
+        "In small towns we often meet owners whose old website vanished because the person who built it kept the domain. That cannot happen with us: domain, hosting, source code, Google Business Profile and both app store developer accounts are opened in your name, and the passwords are handed over in writing. For the first two months after go-live, upkeep costs nothing: fixes, backups, security updates and regular tests of forms, payments and WhatsApp buttons. From month three, continued care is ₹8,000 a month onwards, entirely optional, and you are free to hand the code to someone else at any point.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const saunda: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after go-live we look after the site or app at no charge: text and price edits, backups, security updates and periodic tests of every form and button. Continuing after that is your choice, at ₹8,000 a month onwards, and switching to a different developer is always open to you.",
+        "For two months after go-live we look after the site or app at no charge: text and price edits, backups, security updates and periodic tests of every form and button. Continuing after that is your choice, at ₹8,000 a month onwards, and switching to a different developer is always open to you.",
     },
     {
       question: "Do you work in Bhurkunda, Patratu and Ramgarh as well?",

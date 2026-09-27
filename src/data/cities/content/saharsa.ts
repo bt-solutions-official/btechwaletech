@@ -7,7 +7,7 @@ const saharsa: CityContent = {
   meta: {
     title: "Saharsa Website Design, SEO & Makhana Stores",
     description:
-      "Websites, local SEO and WhatsApp automation for Saharsa makhana traders, shops, clinics, schools and coaching centres. Sites from ₹10,000 with 5 months free upkeep.",
+      "Websites, local SEO and WhatsApp automation for Saharsa makhana traders, shops, clinics, schools and coaching centres. Sites from ₹10,000 with 2 months free upkeep.",
     keywords: [
       "website development team in Saharsa",
       "web design Saharsa",
@@ -31,11 +31,11 @@ const saharsa: CityContent = {
     eyebrow: "Saharsa · Kosi division, Bihar",
     h1: "Websites, apps, SEO and AI automation for Saharsa's makhana traders, shops and clinics",
     lede:
-      "Three engineers, working remotely, building websites, local SEO and WhatsApp automation for businesses in Saharsa and across the Kosi region: makhana processors and traders, maize and grain dealers, hospitals and clinics, schools, coaching centres and the retailers around Saharsa Junction. Starting prices are public, you speak to the developers directly, and maintenance is free for five months.",
+      "Three engineers, working remotely, building websites, local SEO and WhatsApp automation for businesses in Saharsa and across the Kosi region: makhana processors and traders, maize and grain dealers, hospitals and clinics, schools, coaching centres and the retailers around Saharsa Junction. Starting prices are public, you speak to the developers directly, and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Hindi pages, Maithili welcome", "Sell makhana online", "Clinic and school sites", "WhatsApp order handling"],
   },
   quickAnswer:
-    "For a Saharsa business, a static website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Saharsa office, and every site includes five months of free maintenance.",
+    "For a Saharsa business, a static website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Saharsa office, and every site includes two months of free maintenance.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Saharsa district and of the Kosi division, which also covers Madhepura and Supaul" },
     { label: "Signature produce", value: "Makhana (fox nut) from the ponds and wetlands of the Kosi basin, part of the Mithila makhana belt" },
@@ -52,7 +52,7 @@ const saharsa: CityContent = {
     ai: "WhatsApp replies that share makhana grades, rates and dispatch times, or clinic and school timings, in Hindi around the clock.",
     data: "Dashboards of purchases, stock by grade, sales by state and pending dues, built from your registers and spreadsheets.",
     app: "Android and iPhone apps for patient appointments, coaching batch updates or retailer orders, listed on both app stores in six to ten weeks.",
-    maintenance: "Free upkeep for five months after launch, then maintenance from ₹8,000 a month, including backups and security updates.",
+    maintenance: "Free upkeep for two months after launch, then maintenance from ₹8,000 a month, including backups and security updates.",
   },
   whyUsIntro:
     "Saharsa is the commercial centre of the Kosi region, but very few of its businesses have a website that works well on a phone. Agencies in Patna or Kolkata can build one, often at city prices and with slow follow-up. We publish starting prices, reply on WhatsApp every day and give you full ownership of the domain and code.",
@@ -195,7 +195,7 @@ const saharsa: CityContent = {
       paragraphs: [
         "Many Saharsa businesses have lost a website because the person who made it registered the domain in their own name and later stopped answering calls. Without access, even changing a phone number becomes impossible.",
         "We register the domain and hosting in your name from the start. At launch you receive every login, the full code and a simple note explaining the setup. You can move to any other developer whenever you like, with no exit fee.",
-        "Maintenance is free for five months after launch, covering text and price updates, bug fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Maintenance is free for two months after launch, covering text and price updates, bug fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
   ],
@@ -277,7 +277,7 @@ const saharsa: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For two months after launch we handle text and price updates, bug fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something changed.",
     },
     {
       question: "Do you work in Madhepura, Supaul, Purnia and Darbhanga too?",

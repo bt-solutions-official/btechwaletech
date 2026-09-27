@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Typical build", "3–5 weeks"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Domain, hosting, code and Search Console in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "700+", label: "Pages in the SEO website plan" },
     { value: "3", label: "Freelance developers, one of them focused on technical SEO" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does an SEO website developer do differently from a normal web developer?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "3–5 weeks from approved page map" },
       { label: "Technical base", value: "Static or server-rendered HTML, schema, sitemaps, canonicals" },
       { label: "After launch", value: `Optional monthly SEO from ${P.seo}` },
-      { label: "Maintenance", value: `5 months free, then from ${P.care}` },
+      { label: "Maintenance", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Launch day is when SEO work becomes visible, so it needs a checklist. We verify the domain in Google Search Console and Bing Webmaster Tools, submit sitemaps, confirm robots.txt is not blocking anything important, and spot-check that key pages return 200 and carry the right canonical.`,
         `For redesigns, every old URL that had traffic or links gets a 301 redirect to its closest new page. We crawl the old site before switching, keep the list, and check it again after launch.`,
-        `In the following weeks we watch coverage reports for pages that are crawled but not indexed, fix anything flagged, and review which queries start to show impressions. Those early signals show which templates are working and where content needs strengthening. That work is covered by the five months of free maintenance for fixes, and by optional <a href='/services/seo-services/'>monthly SEO</a> from ${P.seo} if you want ongoing growth work.`,
+        `In the following weeks we watch coverage reports for pages that are crawled but not indexed, fix anything flagged, and review which queries start to show impressions. Those early signals show which templates are working and where content needs strengthening. That work is covered by the two months of free maintenance for fixes, and by optional <a href='/services/seo-services/'>monthly SEO</a> from ${P.seo} if you want ongoing growth work.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "In about two working days you receive a line-by-line estimate covering templates, data, content and migration. Nothing is billed before written approval."],
       ["Templates and data", "We build each page template with schema and internal links, then generate pages from the approved data on a staging site you can review."],
       ["Checks and launch", "Speed, schema, canonicals and redirects are verified; the site goes live on your domain and Search Console is set up in your name."],
-      ["Watch, fix and grow", "Five months of free maintenance cover fixes flagged in Search Console. Monthly SEO from " + P.seo + " is optional for continued growth."],
+      ["Watch, fix and grow", "Two months of free maintenance cover fixes flagged in Search Console. Monthly SEO from " + P.seo + " is optional for continued growth."],
     ],
   },
   faqHeading: "SEO website developer: frequently asked questions",
@@ -398,14 +398,14 @@ const content: FreelanceContent = {
     { question: "How long before an SEO website starts getting traffic?", answer: "Pages need to be discovered, crawled and evaluated first, and large sites are indexed gradually. Early impressions often appear within weeks in Search Console, while meaningful traffic for competitive terms usually takes months. New domains tend to take longer than established ones. Timelines depend on competition and content quality, so honest developers avoid fixed promises." },
     { question: "Can you rebuild my existing website for SEO without losing traffic?", answer: "Yes, with care. We crawl the old site, record every URL with traffic or links, map each to its closest new page with a 301 redirect, and keep titles and content that already rank unless there is a clear reason to change them. After launch we monitor Search Console for errors. A temporary fluctuation is normal; planned redirects prevent lasting losses." },
     { question: "Does an SEO website help with Google AI Overviews and ChatGPT search?", answer: "It helps. AI search systems favour pages that answer questions directly, are clearly structured, load fast and describe entities consistently with schema. An SEO-first site places a short answer near the top of each page and organises content by question, which makes it easier for AI tools to understand and cite. No one can guarantee inclusion, though." },
-    { question: "Do I need monthly SEO after the website is built?", answer: `Not always, but most businesses in competitive markets benefit from it. The build creates the structure; monthly SEO adds content, improves pages based on Search Console data, handles local listings and fixes issues. With BtechWaleTech monthly SEO starts at ${P.seo} and is optional. Technical fixes are already covered by five months of free maintenance.` },
+    { question: "Do I need monthly SEO after the website is built?", answer: `Not always, but most businesses in competitive markets benefit from it. The build creates the structure; monthly SEO adds content, improves pages based on Search Console data, handles local listings and fixes issues. With BtechWaleTech monthly SEO starts at ${P.seo} and is optional. Technical fixes are already covered by two months of free maintenance.` },
     { question: "Who owns the SEO website and its Search Console account?", answer: "You should. BtechWaleTech registers the domain and hosting in your name, keeps the code in a repository you can access, and sets up Google Search Console and analytics under your Google account with us added as users. That way your search data and site history stay with you if you change developers." },
     { question: "Can an SEO website have Hindi and regional language pages?", answer: "Yes. Each language version should be written for native readers, not machine-translated wholesale, and linked with hreflang tags so Google shows the right version to each searcher. Separate URLs per language, such as a /hi/ section, keep things clear. Hindi and Hinglish searches are growing, so bilingual pages can reach people English pages miss." },
     { question: "How should I choose an SEO website developer?", answer: "Open a large site they built and check deep pages for real, distinct content, view the source to confirm text is in the HTML, and test a page in PageSpeed Insights and the Rich Results Test. Ask how they would structure your site before quoting. Avoid anyone who guarantees rankings or offers bought backlinks." },
     { question: "Is an SEO website developer near me better than a remote one?", answer: "For SEO builds, location makes little difference to results. The work happens in research files, templates and Search Console, all shared online, and you review the staging site on your own phone. What matters is technical skill, a clear page map and honest reporting. Local knowledge helps with content, and you can supply that directly." },
     { question: "How do payments work for an SEO website project?", answer: "Payments are split into stages tied to visible work, such as the approved page map, templates on staging and the full generated site, with the balance before launch. In India BtechWaleTech accepts UPI or bank transfer; clients abroad pay through Wise, bank wire or PayPal. Stages are set out in your written, itemised quote." },
     { question: "SEO website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 700 se zyada pages wali SEO website ${P.seoSite} se shuru hoti hai aur 3 se 5 hafte mein ban jaati hai. Kharcha templates, data aur content par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai. Domain aur Search Console aapke naam par rehte hain, aur ranking ki guarantee koi nahi deta.` },
-    { question: "What happens after an SEO website launches?", answer: `We verify Search Console, submit sitemaps and watch indexing and coverage reports for errors. BtechWaleTech covers fixes free for five months after launch, including issues flagged by Search Console. Later, maintenance starts at ${P.care}, and monthly SEO for new content and improvements starts at ${P.seo}. Both are optional.` },
+    { question: "What happens after an SEO website launches?", answer: `We verify Search Console, submit sitemaps and watch indexing and coverage reports for errors. BtechWaleTech covers fixes free for two months after launch, including issues flagged by Search Console. Later, maintenance starts at ${P.care}, and monthly SEO for new content and improvements starts at ${P.seo}. Both are optional.` },
   ],
   related: {
     heading: "Related pages on SEO and search-first websites",
@@ -427,7 +427,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want an SEO website planned around real searches? Start with a page map",
-    note: `Send us on WhatsApp your services, the areas you serve and your current site if you have one. You will get an itemised quote in about two working days, with SEO websites from ${P.seoSite}, everything registered in your name and five months of free maintenance after launch.`,
+    note: `Send us on WhatsApp your services, the areas you serve and your current site if you have one. You will get an itemised quote in about two working days, with SEO websites from ${P.seoSite}, everything registered in your name and two months of free maintenance after launch.`,
   },
 };
 

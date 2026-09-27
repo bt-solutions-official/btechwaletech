@@ -40,10 +40,10 @@ const content: CityContent = {
     h1: "Freelance IT and software developers in Guntur for chilli trade, hospitals and colleges",
     lede:
       "Looking for freelance IT and software developers in Guntur? BtechWaleTech is three independent engineers building lot and settlement software for Mirchi Yard commission agents, cold storage registers, hospital and college systems, AI and WhatsApp automation, dashboards, apps and online stores for Guntur spice brands, all delivered remotely at published starting prices.",
-    pills: ["Trade software from ₹60,000", "AI agents from ₹40,000", "Cold storage and yard workflows", "Telugu + English", "5 months free maintenance"],
+    pills: ["Trade software from ₹60,000", "AI agents from ₹40,000", "Cold storage and yard workflows", "Telugu + English", "2 months free maintenance"],
   },
   quickAnswer:
-    "Freelance IT and software developers for Guntur: BtechWaleTech is a remote group of three engineers. Custom software starts from ₹60,000, Android and iOS apps and AI automation from ₹40,000, spice and food stores from ₹50,000 and websites from ₹10,000. Delivery is one to twelve weeks, quotes arrive in about two working days, and five months of maintenance are free.",
+    "Freelance IT and software developers for Guntur: BtechWaleTech is a remote group of three engineers. Custom software starts from ₹60,000, Android and iOS apps and AI automation from ₹40,000, spice and food stores from ₹50,000 and websites from ₹10,000. Delivery is one to twelve weeks, quotes arrive in about two working days, and two months of maintenance are free.",
   snapshot: [
     { label: "Signature market", value: "The Guntur chilli market yard at Nallapadu is one of Asia's largest dry chilli markets, trading red chilli from across the region" },
     { label: "Other crops and trade", value: "Tobacco (the Tobacco Board is headquartered in Guntur), cotton, turmeric, pulses and paddy from the delta" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that answer Guntur customers on WhatsApp, read supplier bills and lab reports, and forward serious enquiries to your staff.",
     data: "Dashboards for Guntur traders and cold storages showing stock by lot, farmer dues, rates and collections at a glance.",
     app: "Android and iOS apps from ₹40,000 for Guntur farmers, buyers, patients and students, built in Flutter or React Native with Telugu screens and published on both app stores.",
-    maintenance: "Updates, fixes and backups for Guntur systems, five months free after launch and from ₹8,000 a month later.",
+    maintenance: "Updates, fixes and backups for Guntur systems, two months free after launch and from ₹8,000 a month later.",
   },
   whyUsIntro:
     "Guntur owners run fast, high-volume businesses and want software that fits their trade, not a demo from a sales executive. We are a freelance group of three engineers who build it ourselves, quote in writing and answer on WhatsApp every day of the week.",
@@ -180,7 +180,7 @@ const content: CityContent = {
       paragraphs: [
         "A Guntur owner's dashboard shows today's arrivals, sales, stock, dues and collections on one screen, updated automatically from the trade software, Tally, Google Sheets or hospital and college systems. It replaces waiting for the accountant's month-end summary with a view that is always current.",
         "Every system is hosted properly: applications on AWS in an Indian region with daily backups, HTTPS, uptime and error monitoring; websites built with Astro on fast edge networks; code in a Git repository registered to your business. Changes are tested on a staging copy before reaching the live system.",
-        "Support after launch covers bug fixes, updates, backups and small changes, free for five months and then from ₹8,000 a month. We work remotely, so hardware, printer and network repairs at your premises still need a local technician.",
+        "Support after launch covers bug fixes, updates, backups and small changes, free for two months and then from ₹8,000 a month. We work remotely, so hardware, printer and network repairs at your premises still need a local technician.",
       ],
     },
     {
@@ -212,7 +212,7 @@ const content: CityContent = {
       id: "cost-guntur",
       heading: "How much does software development cost in Guntur?",
       paragraphs: [
-        "Software development in Guntur with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first five free months.",
+        "Software development in Guntur with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the first two free months.",
         "Your final quote depends on modules, user roles, integrations with Tally, WhatsApp or courier services, data migration from old books and how quickly content and approvals come in. Full plan details are on the <a href='/pricing/'>pricing page</a>.",
         "Payment is accepted only by UPI, scanning our QR code, or by direct bank transfer, in INR, against milestones written into the quote.",
       ],
@@ -268,7 +268,7 @@ const content: CityContent = {
     { question: "Can the system work in Telugu?", answer: "Yes. Screens, settlement slips, WhatsApp messages and website pages can be in Telugu, English or both. Telugu text is written or reviewed by a native speaker you approve, and AI agents are tested on real Telugu and Tenglish messages before launch." },
     { question: "What does AI automation cost in Guntur?", answer: "AI automation starts from ₹40,000 and usually takes two to four weeks. It includes workflow mapping, WhatsApp Business API and tool integration, the agent build, testing and handover. Model and messaging usage is billed directly to your own accounts." },
     { question: "Will we own the software?", answer: "Yes. The domain, hosting, cloud account, WhatsApp Business account and code repository are registered to your business wherever providers allow. You receive every credential and a short technical guide at handover, so any developer can maintain it later." },
-    { question: "What maintenance do we get after launch?", answer: "Five months of maintenance are included free after launch: bug fixes, small changes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can pay only for individual changes." },
+    { question: "What maintenance do we get after launch?", answer: "Two months of maintenance are included free after launch: bug fixes, small changes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can pay only for individual changes." },
     { question: "Can you build a hospital management system?", answer: "Yes, for scheduling, registration, billing, pharmacy, reports and management dashboards. We do not build clinical decision tools or give medical advice. Patient data stays in your own cloud account with role-based access, and we suggest reviewing your data practices with your legal adviser." },
     { question: "How soon will SEO bring enquiries to a Guntur business?", answer: "Local visibility can improve within weeks after technical fixes and an optimised Google Business Profile. Competitive terms, such as spice products nationally, usually take three to six months or more. We report monthly from Search Console and do not promise specific rankings." },
     { question: "Can you sell our Guntur spices online?", answer: "Yes. Online stores start from ₹50,000 with product pages, FSSAI and ingredient details, UPI and card checkout through a gateway account in your name, courier integration and WhatsApp order updates. We can also add a bulk enquiry flow for restaurants and distributors." },

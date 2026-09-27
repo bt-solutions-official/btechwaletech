@@ -34,7 +34,7 @@ const korba: CityContent = {
     pills: ["Websites from ₹10,000", "Contractor and vendor profiles", "Hindi and Chhattisgarhi searches", "WhatsApp bookings", "Full ownership"],
   },
   quickAnswer:
-    "For a Korba business, a website with us starts at ₹10,000 and usually launches in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for the first five months.",
+    "For a Korba business, a website with us starts at ₹10,000 and usually launches in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for the first two months.",
   snapshot: [
     { label: "Known as", value: "The power capital of Chhattisgarh, with thermal plants of more than 6,000 MW combined capacity" },
     { label: "Power and metal", value: "NTPC's 2,600 MW Korba Super Thermal Power Station at Jamnipali, state power plants and BALCO's aluminium works" },
@@ -51,7 +51,7 @@ const korba: CityContent = {
     ai: "WhatsApp assistants that answer service, booking and price questions in Hindi or English and record every enquiry.",
     data: "Dashboards showing jobs, billing, collections and material use, drawn from Tally and site registers.",
     app: "Android and iOS apps for site attendance, service technicians and school communication, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks, free for five months and ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security fixes and uptime checks, free for two months and ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Korba businesses often deal with large organisations that demand paperwork, clarity and deadlines. We work the same way: published prices, itemised written quotes, WhatsApp replies seven days a week and every login handed over at launch. If something will not help your business, we say so before you spend money on it.",
@@ -110,7 +110,7 @@ const korba: CityContent = {
         "<strong>AI and WhatsApp automation (₹40,000 onward, 2–4 weeks):</strong> bookings, quotes and order capture.",
         "<strong>Online store (₹50,000 onward, 4–8 weeks):</strong> retail and local products with UPI checkout.",
         "<strong>Custom web software (₹60,000 onward, 6–12 weeks):</strong> work orders, manpower and equipment tracking.",
-        "<strong>SEO at ₹10,000 a month; maintenance at ₹8,000 a month</strong> once the five free months end.",
+        "<strong>SEO at ₹10,000 a month; maintenance at ₹8,000 a month</strong> once the two free months end.",
       ],
     },
     {
@@ -180,10 +180,10 @@ const korba: CityContent = {
     },
     {
       id: "ownership-korba",
-      heading: "Your site, your accounts, and free maintenance for five months",
+      heading: "Your site, your accounts, and free maintenance for two months",
       paragraphs: [
         "The domain, hosting and code belong to you from the start. We register the domain in your name, set up hosting in your account and hand over the code and every password at launch. If you ever want another developer in Korba, Bilaspur or elsewhere to take over, you can do so without our permission.",
-        "Maintenance is free for five months after launch, covering security updates, backups, uptime monitoring and small edits such as prices, services, doctor timings or new projects. After five months it costs from ₹8,000 a month, and you can stop at any time.",
+        "Maintenance is free for two months after launch, covering security updates, backups, uptime monitoring and small edits such as prices, services, doctor timings or new projects. After two months it costs from ₹8,000 a month, and you can stop at any time.",
         "Unmaintained sites break slowly: forms stop sending, software goes stale and pages slow down. We check for these problems regularly and send a short monthly summary of what was done.",
       ],
     },
@@ -266,7 +266,7 @@ const korba: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, monitoring and small content edits. After that it is from ₹8,000 a month and can be cancelled at any time. We can also train your staff to make simple updates themselves.",
+        "Maintenance is free for two months after launch and covers updates, backups, monitoring and small content edits. After that it is from ₹8,000 a month and can be cancelled at any time. We can also train your staff to make simple updates themselves.",
     },
     {
       question: "Can I sell products online from Korba?",

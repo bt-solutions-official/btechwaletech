@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Sources", "Tally, ERP, CRM, bank, Sheets"],
     ["Delivery", "Email, WhatsApp, shared sheet"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free fixes"],
+    ["After launch", "2 months of free fixes"],
   ],
   stats: [
     { value: "3", label: "Developers mapping your data and formats" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week the reports and our WhatsApp run" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "2–4 weeks for the first pack, then report by report" },
       { label: "Delivery", value: "Email with PDF or Excel, WhatsApp summary, shared sheet" },
       { label: "Alerts", value: "Overdue parties, stock-outs, unusual discounts, missed targets" },
-      { label: "Support", value: `5 months free, then optional care from ${P.care}` },
+      { label: "Support", value: `2 months free, then optional care from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "MIS report automation pricing",
-    note: `A first MIS pack, for example daily sales, collections and receivables ageing from one Tally company delivered by email and WhatsApp, starts at ${P.ai}. Each extra source system, extra Tally company or branch, reconciliation step with bank data, and custom report format adds to scope. A proper data warehouse feeding many reports and dashboards is quoted as custom software from ${P.software}. Third-party costs such as WhatsApp Business API message charges or dashboard licences are listed separately and paid by you. The quote comes itemised by source and report within about two working days; fixes are free for five months, then optional care starts at ${P.care}.`,
+    note: `A first MIS pack, for example daily sales, collections and receivables ageing from one Tally company delivered by email and WhatsApp, starts at ${P.ai}. Each extra source system, extra Tally company or branch, reconciliation step with bank data, and custom report format adds to scope. A proper data warehouse feeding many reports and dashboards is quoted as custom software from ${P.software}. Third-party costs such as WhatsApp Business API message charges or dashboard licences are listed separately and paid by you. The quote comes itemised by source and report within about two working days; fixes are free for two months, then optional care starts at ${P.care}.`,
   },
   guideLabel: "MIS report automation guide",
   guide: [
@@ -243,7 +243,7 @@ const content: FreelanceContent = {
         `<strong>First pack</strong> (one source, two or three reports, email and WhatsApp): from ${P.ai}.`,
         "<strong>Each additional source</strong> (CRM, ERP, second Tally company, bank files): quoted per source.",
         `<strong>Central data store feeding many reports and dashboards:</strong> from ${P.software}.`,
-        `<strong>Care after five free months:</strong> from ${P.care}.`,
+        `<strong>Care after two free months:</strong> from ${P.care}.`,
         "<strong>Third-party costs</strong> (WhatsApp API messages, dashboard licences, cloud database): paid by you, listed in the quote.",
       ],
       after: [
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
         ["Bank reconciliation feed", "Quoted after sample statements", "1–2 weeks", "Several banks, UPI narrations"],
         ["Exception alert set", "Listed as a line in the first-pack quote", "Days", "Complex rules, many branches"],
         ["Central data store for many reports", `${P.software}`, "6–12 weeks", "Several companies, history loads"],
-        ["Care after 5 free months", `${P.care}`, "Ongoing", "Frequent format changes"],
+        ["Care after 2 free months", `${P.care}`, "Ongoing", "Frequent format changes"],
       ],
     },
   ],
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a quote by source and report, with third-party costs listed. Nothing is billed before your written approval."],
       ["Connect and load", "We set up the Tally agent or API access in accounts you own, load recent history and confirm our totals match your books."],
       ["Parallel run", "Automated reports go to you alone while staff continue the manual version. Differences are traced and explained until the two agree."],
-      ["Go live and support", "Recipients switch to the automated reports and alerts. Fixes are free for five months; optional care covers new formats and source changes."],
+      ["Go live and support", "Recipients switch to the automated reports and alerts. Fixes are free for two months; optional care covers new formats and source changes."],
     ],
   },
   faqHeading: "MIS report automation: frequently asked questions",
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Can you combine Tally, CRM and bank data in one MIS?", answer: "Yes. Each source is extracted on its own schedule into a central store, joined on agreed keys such as customer code and branch, and reported together. The usual obstacle is inconsistent names between systems, so the source mapping step agrees a master key for customers, items and branches before any combined report is built." },
     { question: "Is our financial data safe with automated MIS?", answer: "The data store, scripts and logs live in accounts you own, access is limited to named people, and the Tally agent only reads data. WhatsApp summaries carry headline figures rather than party-level detail. During setup we work on copies you provide, and our access can be removed at handover whenever you choose." },
     { question: "What happens if Tally is closed when the report should run?", answer: "The agent retries at short intervals for a set period. If it still cannot reach Tally, it sends an alert saying the data could not be collected, and the report is held rather than sent with stale figures. Many businesses simply keep Tally open on the office PC overnight, or move it to a cloud server." },
-    { question: "Can staff still edit the reports after automation?", answer: "Formats are generated by code, so changing a layout or adding a column is a small developer task. Filters, recipient lists and alert thresholds can be kept in a settings sheet your team edits directly. Whether a given change falls under the five months of free maintenance, optional care or a separate quote is spelled out in your written quote." },
+    { question: "Can staff still edit the reports after automation?", answer: "Formats are generated by code, so changing a layout or adding a column is a small developer task. Filters, recipient lists and alert thresholds can be kept in a settings sheet your team edits directly. Whether a given change falls under the two months of free maintenance, optional care or a separate quote is spelled out in your written quote." },
     { question: "Is MIS automation worth it for a small business?", answer: "It depends on time spent and decisions affected. If someone spends an hour or more every day compiling reports, or the owner acts on overdue and stock figures daily, automation usually pays back quickly. If the MIS is one short sheet that takes ten minutes, keeping it manual can be the sensible choice." },
     { question: "Do you work with ERPNext, Odoo or Zoho instead of Tally?", answer: "Yes. ERPNext and Zoho Books offer REST APIs and Odoo documents an external JSON API, so scheduled extraction is straightforward once an API user with the right permissions is set up. Some businesses run an ERP for operations and Tally for accounts; the MIS can combine both, with the source map deciding which system is authoritative for each figure." },
     { question: "Can the MIS include data from Google Sheets?", answer: "Yes. Targets, budgets, area mappings and other figures that live only in a sheet are read on each run through the Sheets API or Apps Script. We ask that the sheet keeps fixed column headers and a single owner, so a renamed tab does not break the report without anyone noticing." },

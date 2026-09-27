@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Ordering channel", "Official WhatsApp Business Platform"],
     ["Payment", "UPI in chat, pay link or cash on delivery"],
     ["Commission per order", "None from us"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "0", label: "Per-order commission we take" },
     { value: "3", label: "Developers building and supporting it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What is a WhatsApp ordering system and how does it work?",
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Several outlets or brands from one kitchen", `From ${P.ai}, quoted per outlet`, `From ${P.aiUsd}`, "3–4 weeks"],
         ["Full online store with WhatsApp ordering", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Branded Android and iOS ordering app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
-        ["Monthly care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Monthly care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
   ],
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Load items and rules", "You send your menu or product list with photos and prices; we build the catalogue, zones, slots and cut-offs you agreed."],
       ["Build cart, payment and dashboard", "The cart-to-order flow, UPI or COD confirmation and the kitchen or counter dashboard come together on a test number."],
       ["Rehearse with your staff", "Your team places practice orders, tries sold-out items, wrong addresses and failed payments. We fix what trips them up."],
-      ["Launch to regulars first", "Soft launch to loyal customers, then QR cards everywhere. You get the code, credentials list and five months of free maintenance."],
+      ["Launch to regulars first", "Soft launch to loyal customers, then QR cards everywhere. You get the code, credentials list and two months of free maintenance."],
     ],
   },
   faqHeading: "WhatsApp ordering system: questions shop and restaurant owners ask",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Can I send offers to customers who ordered on WhatsApp?", answer: "Only to customers who agreed to receive promotional messages, and sparingly. Order confirmations and delivery updates are expected; unsolicited offers lead to blocks and reports, which lower your number’s quality with Meta. The system records marketing consent separately from ordering and gives customers an easy way to stop promotions." },
     { question: "Does a WhatsApp ordering system help my Google ranking?", answer: "Not directly, since chats are not visible to search engines. It helps when combined with a Google Business Profile and website that link to your WhatsApp ordering number, so local searches turn into direct orders. Local SEO work is quoted separately, and nobody can honestly guarantee a ranking position." },
     { question: "WhatsApp par order lene ka system kaise banaye?", answer: "Apne items ka WhatsApp catalogue ya web menu banaiye, customer cart bheje, system stock, delivery area aur slot check kare, phir UPI ya cash on delivery confirm ho aur order dashboard par dikhe. Iske liye official WhatsApp Business Platform chahiye. Hum yeh poora setup banate hain, account aapke naam par rehta hai aur order par koi commission nahi." },
-    { question: "What happens after launch if something breaks?", answer: "Five months of free maintenance follow launch, covering fixes, menu or template changes and monitoring. If orders stop arriving or payments fail to confirm, you message us on WhatsApp, seven days a week. After the free period, monthly care starts from the maintenance starting price on this page, or your own staff can manage routine changes." },
+    { question: "What happens after launch if something breaks?", answer: "Two months of free maintenance follow launch, covering fixes, menu or template changes and monitoring. If orders stop arriving or payments fail to confirm, you message us on WhatsApp, seven days a week. After the free period, monthly care starts from the maintenance starting price on this page, or your own staff can manage routine changes." },
     { question: "Can the same number also send payment reminders or order updates from my website?", answer: "Yes. Once your number is on the WhatsApp Business Platform, the same backend can send dues reminders to credit customers or order updates from an online store. Each flow uses its own approved templates. Adding flows one at a time, a few weeks apart, keeps the experience calm for customers and easy for staff." },
   ],
   related: {
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to take orders on WhatsApp without paying commission?",
-    note: `Send us your menu or product list and how orders reach you today. You will get an itemised quote in about two working days, with a WhatsApp ordering system starting from ${P.ai}, every account in your name and five months of free maintenance.`,
+    note: `Send us your menu or product list and how orders reach you today. You will get an itemised quote in about two working days, with a WhatsApp ordering system starting from ${P.ai}, every account in your name and two months of free maintenance.`,
   },
 };
 

@@ -7,7 +7,7 @@ const rewa: CityContent = {
   meta: {
     title: "IT Services in Rewa | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Rewa and Vindhya region businesses. Static sites start at ₹10,000 and maintenance is free for five months.",
+      "Websites, SEO, online stores and WhatsApp automation for Rewa and Vindhya region businesses. Static sites start at ₹10,000 and maintenance is free for two months.",
     keywords: [
       "website development team in Rewa",
       "web design Rewa",
@@ -31,11 +31,11 @@ const rewa: CityContent = {
     eyebrow: "Rewa · Madhya Pradesh",
     h1: "Web, app, SEO and automation services for Rewa's coaching hubs, hospitals, cement suppliers and mango growers",
     lede:
-      "We are three engineers working remotely for businesses in Rewa and the wider Vindhya region: coaching institutes around Civil Lines, clinics serving patients from Sidhi and Mauganj, vendors to the cement and solar projects, Sundarja mango growers near Govindgarh, and the shops of Shilpi Plaza. Our starting prices are published, and maintenance costs nothing for five months after launch.",
+      "We are three engineers working remotely for businesses in Rewa and the wider Vindhya region: coaching institutes around Civil Lines, clinics serving patients from Sidhi and Mauganj, vendors to the cement and solar projects, Sundarja mango growers near Govindgarh, and the shops of Shilpi Plaza. Our starting prices are published, and maintenance costs nothing for two months after launch.",
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Coaching and hospital sites", "Supplier sites for Chorhata units", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Rewa, a static business website with us starts from ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Rewa, and the first five months of maintenance are free.",
+    "In Rewa, a static business website with us starts from ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages starts at ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Rewa, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Rewa district and Rewa division in north-eastern Madhya Pradesh, on the Rewa plateau between the Vindhya and Kaimur ranges" },
     { label: "Industry", value: "Cement plants drawing on the district's limestone belt, and MPIDC's Udyog Vihar at Chorhata, home to cable and electrical manufacturers" },
@@ -52,7 +52,7 @@ const rewa: CityContent = {
     ai: "WhatsApp replies that handle fee, stock and timing questions in Hindi and pass negotiations and complaints to you.",
     data: "Admissions, sales or dispatch registers turned into a dashboard you can check on your phone each evening.",
     app: "Android and iOS apps for student updates, patient bookings or dealer re-orders, available on both app stores and ready in six to ten weeks.",
-    maintenance: "Content edits, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content edits, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Rewa owners often face a choice between a Bhopal or Jabalpur agency that quotes high and replies slowly, and a local designer whose site nobody can edit a year later. We publish starting prices, send a written itemised quote, and reply on WhatsApp seven days a week, from the engineers who build the site.",
@@ -169,7 +169,7 @@ const rewa: CityContent = {
       paragraphs: [
         "Many Rewa businesses have lost a website because the person who built it registered the domain in their own name and later became unreachable. Without access, the owner cannot change a phone number or renew the site, and it disappears along with any search visibility it had earned.",
         "We put the domain and hosting in your name, on your email, from day one. At launch you receive every login, the full source code and a short note explaining how the site is organised. If you decide to work with someone else later, you hand over the logins and there is no exit charge.",
-        "For five months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can call us only when something needs changing. Our <a href=\"/services/web-development/\">web development</a> page describes what each build includes.",
+        "For two months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can call us only when something needs changing. Our <a href=\"/services/web-development/\">web development</a> page describes what each build includes.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const rewa: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "How long does SEO take to work in Rewa?",

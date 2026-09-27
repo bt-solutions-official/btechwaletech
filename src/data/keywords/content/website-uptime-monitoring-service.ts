@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "90", label: "Days: default life of a Let's Encrypt certificate" },
     { value: "47", label: "Days: maximum public TLS certificate life by 2029" },
-    { value: "5", label: "Months of free maintenance after a site we build" },
+    { value: "2", label: "Months of free maintenance after a site we build" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a website uptime monitoring service costs with us",
-    note: `Uptime monitoring is not sold as a separate subscription from us; it is set up inside a maintenance plan, which starts at ${P.care} (${P.careUsd}), because an alert is only useful if someone who knows your site acts on it. The price moves with how many checks you need (a five-page site versus a store with checkout and APIs), how short the interval is, which alert channels you want and whether a status page is included. Paid monitoring tools and WhatsApp or SMS message charges are billed to your own accounts. Sites we build get 5 months of free maintenance after launch, which includes monitoring. Quotes are itemised in about 2 working days.`,
+    note: `Uptime monitoring is not sold as a separate subscription from us; it is set up inside a maintenance plan, which starts at ${P.care} (${P.careUsd}), because an alert is only useful if someone who knows your site acts on it. The price moves with how many checks you need (a five-page site versus a store with checkout and APIs), how short the interval is, which alert channels you want and whether a status page is included. Paid monitoring tools and WhatsApp or SMS message charges are billed to your own accounts. Sites we build get 2 months of free maintenance after launch, which includes monitoring. Quotes are itemised in about 2 working days.`,
   },
   guideLabel: "Website uptime monitoring guide",
   guide: [
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a website uptime monitoring service cost in India?",
       paragraphs: [
-        `With us, uptime monitoring is part of maintenance, which starts at ${P.care} (${P.careUsd}); sites we build get 5 months of free maintenance after launch, monitoring included. Tool subscriptions and WhatsApp or SMS message charges, if any, are paid to those providers from your accounts.`,
+        `With us, uptime monitoring is part of maintenance, which starts at ${P.care} (${P.careUsd}); sites we build get 2 months of free maintenance after launch, monitoring included. Tool subscriptions and WhatsApp or SMS message charges, if any, are paid to those providers from your accounts.`,
         `What moves the quote: the number of checks (a five-page site versus a store with checkout, API and heartbeat checks), how short the interval must be, whether a backup contact and status page are included, and whether the plan includes fixing what breaks or only alerting. We think alert-only arrangements rarely help small businesses, because the alert lands with someone who cannot act on it.`,
         `Across the market, monitoring offers range from free self-serve tools to large managed operations contracts, and prices vary widely with response commitments. Compare who responds, how fast in writing, and what they are able to fix. Our full list of starting prices is on the <a href='/pricing/'>pricing page</a>, and yearly running costs are broken down on <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a>.`,
       ],
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
         ["Lead-generation site", "Landing pages, forms, SSL, domain, response time", "WhatsApp with backup contact", `Maintenance from ${P.care}`],
         ["Online store", "Catalogue, product, cart, checkout, SSL, domain", "WhatsApp and SMS, status page optional", `Maintenance from ${P.care}, itemised`],
         ["Web app or portal", "Health endpoint, login, core API, heartbeats", "WhatsApp and SMS, status page", `Maintenance from ${P.care}, itemised`],
-        ["New site we build", "Monitoring configured at launch", "As agreed", `Site from ${P.site}; 5 months free maintenance`],
+        ["New site we build", "Monitoring configured at launch", "As agreed", `Site from ${P.site}; 2 months free maintenance`],
       ],
       hideSm: [2],
     },
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
   faqHeading: "Website uptime monitoring service: your questions answered",
   faqs: [
     { question: "What is website uptime monitoring?", answer: "Uptime monitoring is an outside system that requests your website on a schedule, checks that it responds correctly and alerts people when it does not. Good monitoring checks for expected text on key pages, confirms failures from more than one location, and also watches SSL certificate and domain expiry, so you learn about problems before customers do." },
-    { question: "How much does a website uptime monitoring service cost?", answer: `With BtechWaleTech, monitoring runs inside a maintenance plan starting at ${P.care}, and sites we build get 5 months of free maintenance after launch. The quote moves with the number of checks, interval length, alert channels and whether a status page is included. Tool subscriptions and message charges are billed to your own accounts.` },
+    { question: "How much does a website uptime monitoring service cost?", answer: `With BtechWaleTech, monitoring runs inside a maintenance plan starting at ${P.care}, and sites we build get 2 months of free maintenance after launch. The quote moves with the number of checks, interval length, alert channels and whether a status page is included. Tool subscriptions and message charges are billed to your own accounts.` },
     { question: "How often should my website be checked?", answer: "Every one to five minutes suits most business websites. Online stores, booking sites and sites running paid ads benefit from one-minute checks. Low-traffic informational sites can use five minutes. Whatever the interval, confirm failures from a second location before alerting, so a brief network glitch does not trigger a false alarm." },
     { question: "Can I get website down alerts on WhatsApp?", answer: "Yes. Alerts can be sent through the WhatsApp Business Platform using approved utility templates, because Meta allows only template messages outside an open customer service window. We set up short factual templates for down and recovery events and route them to a named person and a backup. Message charges go to your own WhatsApp Business account." },
     { question: "Can uptime monitoring send SMS alerts in India?", answer: "Yes, through an SMS provider connected to the monitoring tool. SMS is a useful backup when mobile data is off or WhatsApp is not being checked. SMS sending in India involves registration steps with the provider, which we help you complete, and the per-message charges are paid by you to that provider." },

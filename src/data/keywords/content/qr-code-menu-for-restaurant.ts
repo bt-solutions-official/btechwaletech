@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["QR ordering + kitchen link", `From ${P.software}`],
     ["Menu edits", "You change items from a phone"],
     ["Monthly platform fee to us", "None"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on the build" },
@@ -213,7 +213,7 @@ const content: FreelanceContent = {
         { heading: "What raises a view-only quote", text: "Hundreds of items with individual photos, several languages, time-slot menus, and a design that must match an existing brand book." },
         { heading: "What raises an ordering quote", text: "Linking to an existing POS, many kitchen stations, split payments, table transfers, and loyalty or guest accounts." },
         { heading: "What you pay others", text: "Domain renewal, hosting (often small for a menu page), payment provider charges, and printing of table tents." },
-        { heading: "What you do not pay", text: `No per-scan or per-table fee to us, and no monthly platform fee. Maintenance is free for five months, then optional from ${P.care}.` },
+        { heading: "What you do not pay", text: `No per-scan or per-table fee to us, and no monthly platform fee. Maintenance is free for two months, then optional from ${P.care}.` },
       ],
       after: [`Quotes for QR menus across the market vary a lot, mostly because some include ordering and payments and some are just a hosted PDF. Compare the level, not only the number. See <a href='/pricing/'>our starting prices</a> for every plan.`, `A useful way to judge value: count how many times a year you reprint menus today, add the staff minutes spent walking bills to tables in a busy week, and compare that with the one-time build. For a restaurant that edits prices monthly, even a view-only menu usually pays for itself quickly.`],
     },
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We set up QR menus remotely for restaurants anywhere in India. You send the menu sheet and photos, we share preview links on WhatsApp, and a local printer handles the table tents from our artwork. Calls are in English or Hindi.`,
         `City pages describe local business context for owners in <a href='/panaji/'>Panaji</a>, <a href='/jaipur/'>Jaipur</a>, <a href='/udaipur/'>Udaipur</a>, <a href='/pondicherry/'>Puducherry</a>, <a href='/mumbai/'>Mumbai</a>, <a href='/delhi/'>Delhi</a>, <a href='/shillong/'>Shillong</a>, <a href='/mysore/'>Mysuru</a> and <a href='/thiruvananthapuram/'>Thiruvananthapuram</a>, among others. Tourist towns lean towards multilingual menus; big-city cafés more often want ordering and pay-at-table.`,
-        `Payment is by UPI or bank transfer in stages, and international restaurant owners can pay in USD through Wise, wire or PayPal, with the menu plan from ${P.siteUsd}. After launch, five months of maintenance are free, covering fixes and small changes you ask for.`,
+        `Payment is by UPI or bank transfer in stages, and international restaurant owners can pay in USD through Wise, wire or PayPal, with the menu plan from ${P.siteUsd}. After launch, two months of maintenance are free, covering fixes and small changes you ask for.`,
         `Restaurant groups with outlets in several cities can run one menu system with outlet-wise prices and dishes, so a chain in Bengaluru and Chennai keeps a shared brand look while each kitchen shows only what it serves that day.`,
       ],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Fill the menu template", "You complete our spreadsheet with items, prices, veg marks, allergens and photos. We import it and flag gaps such as missing prices or duplicate names."],
       ["Preview at your own tables", "We share a preview link. Open it on staff phones in your dining room lighting and send changes as a list or voice note."],
       ["Print and go live", "We connect your domain, generate QR artwork per table or one for all, and your printer produces tents. Ordering systems start with a short pilot."],
-      ["Edit freely, get help free", "You change prices and specials yourself from a phone. Five months of maintenance are free; afterwards care is optional from " + P.care + ", only if you want it."],
+      ["Edit freely, get help free", "You change prices and specials yourself from a phone. Two months of maintenance are free; afterwards care is optional from " + P.care + ", only if you want it."],
     ],
   },
   faqHeading: "QR code menu for restaurants: frequently asked questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Can I use a QR menu for hotel room service?", answer: "Yes. A QR in each room opens the in-room dining menu, the order reaches the kitchen, and the charge can post to the guest’s room bill if you run property management software that accepts it. It suits small hotels and resorts that want room service without printed folders in every room, and the menu can change between day and late-night hours." },
     { question: "What happens if my internet goes down during service?", answer: "Guests use their own mobile data to open the menu, so viewing keeps working. Table ordering needs the kitchen screen or printer to be online, so we add a visible connection indicator and a fallback where captains take orders manually. A cheap 4G backup router at the counter is a sensible precaution for busy weekends." },
     { question: "Do I own the QR menu and the guest data?", answer: "Yes. The domain, hosting and code are in your name, and any guest numbers or orders sit in your own database, collected only with a clear consent line. You can move the menu to another developer or host later, and the printed codes keep working because they point to your domain." },
-    { question: "Is there a monthly fee for a QR menu?", answer: `Not to us. You pay your domain and hosting providers directly, plus payment provider charges if you take UPI or cards. Maintenance is free for five months after launch; after that it is optional from ${P.care} and covers fixes, updates, new sections and design changes you request.` },
+    { question: "Is there a monthly fee for a QR menu?", answer: `Not to us. You pay your domain and hosting providers directly, plus payment provider charges if you take UPI or cards. Maintenance is free for two months after launch; after that it is optional from ${P.care} and covers fixes, updates, new sections and design changes you request.` },
     { question: "Can you build QR menus for restaurants outside India?", answer: `Yes. The same menus work anywhere; pay-at-table then uses the card or wallet payments common in that country through your own payment account. International owners are quoted in USD, with menus from ${P.siteUsd}, and pay by Wise, bank wire or PayPal. Calls are arranged in overlapping working hours.` },
     { question: "Restaurant ke liye QR menu kaise banwaye aur kitna kharcha hoga?", answer: `Pehle tay kijiye ki guest sirf menu dekhenge ya order aur UPI payment bhi karenge. Sirf dekhne wala QR menu aapke apne domain par ${P.site} se shuru hota hai aur 1–2 hafte mein live ho jaata hai. Table ordering aur pay-at-table ${P.software} se shuru hota hai. Quote do working days mein milta hai.` },
   ],
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a QR menu on your tables? Send us your menu card",
-    note: `Share a photo of your current menu and your table count on WhatsApp. You will get an itemised quote in about two working days: view-only menus from ${P.site}, ordering with UPI pay-at-table from ${P.software}, all on your own domain with five months of free maintenance.`,
+    note: `Share a photo of your current menu and your table count on WhatsApp. You will get an itemised quote in about two working days: view-only menus from ${P.site}, ordering with UPI pay-at-table from ${P.software}, all on your own domain with two months of free maintenance.`,
   },
 };
 

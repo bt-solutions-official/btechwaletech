@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Documents", "Standard and simplified invoices, credit and debit notes"],
     ["Testing", "ZATCA SDK validator, then the Integration Sandbox"],
     ["Ownership", "Code, keys and cloud account in your name"],
-    ["After go-live", `5 months free maintenance, then from ${P.care}`],
+    ["After go-live", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers: one builds, one checks the XML, one runs the plan" },
     { value: "2", label: "Working days to an itemised integration quote" },
-    { value: "5", label: "Months of free maintenance once you are live" },
+    { value: "2", label: "Months of free maintenance once you are live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a ZATCA e-invoicing integration costs with us",
-    note: `Direct integrations are priced as custom software, from ${P.software} in US dollars. The quote grows with the number of document types you issue (standard and simplified invoices, credit and debit notes, self-billing), how many invoicing units need onboarding, how messy the current invoice data is, and whether we also build the PDF layout, retry queue and dashboards. A connector that simply feeds a ready-made solution you already chose is smaller and sits at the lower end. A store that also needs a new checkout starts from ${P.shop}. After five free months, care that covers ZATCA specification updates starts from ${P.care}.`,
+    note: `Direct integrations are priced as custom software, from ${P.software} in US dollars. The quote grows with the number of document types you issue (standard and simplified invoices, credit and debit notes, self-billing), how many invoicing units need onboarding, how messy the current invoice data is, and whether we also build the PDF layout, retry queue and dashboards. A connector that simply feeds a ready-made solution you already chose is smaller and sits at the lower end. A store that also needs a new checkout starts from ${P.shop}. After two free months, care that covers ZATCA specification updates starts from ${P.care}.`,
   },
   guideLabel: "ZATCA Phase 2 integration guide",
   guide: [
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a USD quote split into milestones. Nothing is billed before you approve it in writing."],
       ["Build with automated validation", "The e-invoicing service is built in your cloud account, with ZATCA's SDK checking every generated document in the test suite from the first week."],
       ["Sandbox and rehearsal", "Onboarding and submissions in ZATCA's sandbox for each document type, then a replay of real past invoices to reconcile totals with finance."],
-      ["Onboard units and go live", "Your staff generate OTPs, each unit receives its production CSID, and we watch the first live week closely before five free months of maintenance begin."],
+      ["Onboard units and go live", "Your staff generate OTPs, each unit receives its production CSID, and we watch the first live week closely before two free months of maintenance begin."],
     ],
   },
   faqHeading: "ZATCA e-invoicing integration: questions businesses ask",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Can a team in India handle a ZATCA integration for a Saudi business?", answer: "Yes. The work is software against published specifications, a sandbox and APIs, so it runs well remotely. India is 2.5 hours ahead of Saudi Arabia, giving a large daily overlap across the Sunday–Thursday week. Your staff keep control of the FATOORA portal and keys, and every milestone is demonstrated on a test environment in your own cloud account." },
     { question: "How are payments and contracts handled?", answer: "You get an itemised quote in US dollars with milestones, and nothing is billed before your written approval. Payment is by Wise, bank wire or PayPal, with invoices issued from India. Confidentiality and change terms are agreed in writing in your quote; see our terms page. Ask your accountant how a payment to a non-resident provider is treated." },
     { question: "Who owns the integration code?", answer: "Your business does. The repository is created in your organisation's account from the start, together with the cloud account and key vault. At handover you receive documentation of the architecture, the unit registry, the CSID renewal routine and the test suite, so another developer could maintain it without us." },
-    { question: "What maintenance does a ZATCA integration need after go-live?", answer: `CSID renewals before expiry, onboarding of new branches or devices, updates when ZATCA publishes new versions of its specifications or SDK, and monitoring of the retry queue. You get five months of free maintenance after launch; ongoing care then starts from ${P.care} a month. Many clients keep care active mainly for specification updates.` },
+    { question: "What maintenance does a ZATCA integration need after go-live?", answer: `CSID renewals before expiry, onboarding of new branches or devices, updates when ZATCA publishes new versions of its specifications or SDK, and monitoring of the retry queue. You get two months of free maintenance after launch; ongoing care then starts from ${P.care} a month. Many clients keep care active mainly for specification updates.` },
     { question: "Do invoices need to be in Arabic?", answer: "Invoice language requirements are a VAT question for your accountant. On the technical side, the XML handles Arabic text fully, and we design bilingual Arabic and English PDF layouts on request. The team writes English, so you supply or approve the Arabic labels, and we test that Arabic seller and buyer names encode correctly in the QR code." },
     { question: "What does the Phase 2 QR code contain?", answer: "ZATCA's guideline lists tags for the seller's name, VAT number, invoice date and time, total with VAT and VAT total, plus Phase 2 additions: the XML hash, the ECDSA signature, the public key and, for simplified invoices, ZATCA's signature of the stamp's public key. It is TLV-encoded and base64 encoded; for standard invoices FATOORA adds or updates it during clearance." },
     { question: "What do you need from us to quote a ZATCA e-invoicing integration?", answer: "A short description of the system that issues invoices, a handful of sample invoices and credit notes, access to the data schema or an export, the number of branches or devices that issue invoices, and your wave notification date if you have one. With that we can prepare the gap report and an itemised quote in about two working days." },

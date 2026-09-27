@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Netherlands · website budgets · first-year costs",
     h1: "Website development cost in Netherlands: what drives the quote and what you pay after launch",
     lede: `Website development cost in Netherlands depends less on page count than on who builds it, how many languages you need and what the site must connect to. BtechWaleTech is three freelance developers in India who build Dutch and bilingual business sites remotely: a static site of up to 100 pages starts from ${P.site}, an SEO site of 299+ pages from ${P.seoSite}. This guide compares bureau, zzp and offshore quotes and lists every <a href='/pricing/'>running cost</a> you should budget for.`,
-    pills: ["Quotes in USD, itemised", "Bilingual NL/EN builds", "No BTW on our invoice", "Domain and hosting in your name", "5 months free maintenance", "Nothing billed before approval", "WhatsApp 7 days a week"],
+    pills: ["Quotes in USD, itemised", "Bilingual NL/EN builds", "No BTW on our invoice", "Domain and hosting in your name", "2 months free maintenance", "Nothing billed before approval", "WhatsApp 7 days a week"],
     origin: "Three freelance developers in India · European business day covered from late morning",
   },
   facts: [
@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
     { value: "100", label: "Pages covered by the static-site starting price" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Customer portal or web app", note: `Logins, dashboards and links to Exact Online or AFAS. Priced as software, from ${P.software}.`, href: "/netherlands/custom-software-development/", size: "md" },
       { name: "Rebuild of an outdated site", note: "Content migration, 301 redirects and a speed clean-up. Priced by how much old content moves across.", size: "sm" },
       { name: "Accessibility and consent fixes", note: "Keyboard navigation, contrast, form labels and a consent banner on an existing site, quoted per issue list.", href: "/netherlands/european-accessibility-act-website-compliance/", size: "sm" },
-      { name: "Care plan after launch", note: `Updates, backups, uptime checks and small edits. Free for five months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Care plan after launch", note: `Updates, backups, uptime checks and small edits. Free for two months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Design", "In-house designer, custom concepts", "Theme-based or own design skills", "Custom layout on a fast theme or framework"],
       ["BTW on the invoice", "Dutch BTW added", "Dutch BTW added unless exempt", "No Dutch BTW; reverse charge questions go to your accountant"],
       ["Meetings in person", "Yes", "Yes, locally", "No; video calls only"],
-      ["After launch", "Service contract", "Varies by person", `Five free months, then from ${P.care}`],
+      ["After launch", "Service contract", "Varies by person", `Two free months, then from ${P.care}`],
       ["Capacity for large programmes", "High", "Limited to one person", "Small team; no 20-developer projects"],
     ],
     fine: "A Dutch bureau is the better fit if you need Dutch-language copywriting, brand strategy workshops or someone at your office; say so and we will tell you honestly.",
@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       heading: "What does a website cost per year in the Netherlands after it goes live?",
       paragraphs: [
         `After launch, a Dutch business site keeps costing money every year: domain, hosting, licences, backups and maintenance. These are small next to the build, but they are permanent, so they belong in the budget from day one.`,
-        `Most of these bills come from third parties, not from the developer. We set the accounts up in your company's name so the invoices go to you and you can switch provider whenever you like. Our own maintenance is free for five months after launch and then starts from ${P.care}.`,
+        `Most of these bills come from third parties, not from the developer. We set the accounts up in your company's name so the invoices go to you and you can switch provider whenever you like. Our own maintenance is free for two months after launch and then starts from ${P.care}.`,
       ],
       list: [
         "<strong>Domain name:</strong> a .nl, .com or both, renewed yearly with the registrar you choose.",
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Picture a hypothetical installation business near Apeldoorn with twelve staff, fitting heat pumps and solar panels. The owner wants a Dutch and English site with twelve service pages, a quote-request form that asks for postcode and roof type, a projects gallery and a vacancies page.`,
         `How we would scope it: one home template, one service template reused twelve times, a gallery template, a vacancy template and a contact template; two languages with hreflang; a quote form that emails the office and sends a confirmation; a consent banner; Search Console and a sitemap. That fits inside the static plan, so it would be quoted from ${P.site}, with translation supplied by the owner.`,
-        `First-year budget lines the owner should add: domain renewal, hosting, business email, any premium plugin licence, and photography of real installations. Maintenance is covered for five months, then from ${P.care} if the owner keeps it with us. If the company later wants 150 location pages for every town it serves, that becomes an SEO site from ${P.seoSite}. This is an illustration of how we would scope the brief, not a past project.`,
+        `First-year budget lines the owner should add: domain renewal, hosting, business email, any premium plugin licence, and photography of real installations. Maintenance is covered for two months, then from ${P.care} if the owner keeps it with us. If the company later wants 150 location pages for every town it serves, that becomes an SEO site from ${P.seoSite}. This is an illustration of how we would scope the brief, not a past project.`,
       ],
     },
     {
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
         ["Business email", "Email provider", "Monthly per mailbox", "Often separate from hosting"],
         ["Licences (theme, plugins, consent tool)", "Software vendors", "Usually yearly", "Keep licences in your own account"],
         ["Copy and translation", "Copywriter or translator", "Once, then per update", "Often the largest hidden cost"],
-        ["Maintenance", "Developer", "Monthly", `Free for 5 months with us, then from ${P.care}`],
+        ["Maintenance", "Developer", "Monthly", `Free for 2 months with us, then from ${P.care}`],
         ["SEO growth (optional)", "SEO specialist", "Monthly", `From ${P.seo} with us`],
       ],
     },
@@ -434,16 +434,16 @@ const content: FreelanceContent = {
       ["Approve and set up accounts", "Nothing is billed until you approve in writing. You open or confirm domain and hosting in your company's name and share access."],
       ["Review design on staging", "You see the home page and a key inner template on a private staging link and comment directly before we build the rest."],
       ["Load content and test", "Your Dutch and English copy goes in, forms and the consent banner are tested, and the site is checked on phones and browsers."],
-      ["Launch and hand over", "The site goes live with redirects and Search Console. You get logins, code and notes, plus five months of free maintenance."],
+      ["Launch and hand over", "The site goes live with redirects and Search Console. You get logins, code and notes, plus two months of free maintenance."],
     ],
   },
   faqHeading: "Website development cost in Netherlands: common questions",
   faqs: [
     { question: "What is the average website development cost in Netherlands?", answer: `An honest average is hard to give because Dutch quotes for the same brief vary widely by supplier type, design approach and what is excluded. It is more useful to price your own scope. With BtechWaleTech a static business site of up to 100 pages starts from ${P.site}, an SEO site of 299+ pages from ${P.seoSite}, and a webshop from ${P.shop}, each itemised in a written quote.` },
     { question: "Why is a Dutch web bureau more expensive than a freelancer?", answer: "A bureau's hourly rate carries an office, account managers, designers, project leads and sales staff, and it usually includes strategy sessions and Dutch copy. A zzp freelancer has low overhead but limited capacity. An offshore team has lower living costs. None of these is automatically better; the right choice depends on how much strategy, copy and in-person contact you need." },
-    { question: "What is the website development cost in Netherlands for a small business site with you?", answer: `A typical MKB site with a home page, service pages, about, contact and a quote form fits our static plan, which starts from ${P.site} and takes one to two weeks. You supply or approve the copy. Hosting, domain and email are paid by you directly to those providers, and maintenance is free for the first five months after launch.` },
+    { question: "What is the website development cost in Netherlands for a small business site with you?", answer: `A typical MKB site with a home page, service pages, about, contact and a quote form fits our static plan, which starts from ${P.site} and takes one to two weeks. You supply or approve the copy. Hosting, domain and email are paid by you directly to those providers, and maintenance is free for the first two months after launch.` },
     { question: "Is BTW charged on your invoices?", answer: "No Dutch BTW is added, because our invoices are issued from India. The Dutch Tax Administration explains that the reverse-charge mechanism may apply when a business procures services from outside the EU. How that applies to your company is for your own accountant to confirm; we do not give tax advice, but we will add any invoice details they request." },
-    { question: "What does a website cost per year to keep running?", answer: `Yearly costs are the domain, hosting, business email, any premium licences such as a theme or consent tool, backups and maintenance. Most of these are paid by you to third-party providers. Our maintenance is included free for five months after launch and then starts from ${P.care}. Optional monthly SEO work starts from ${P.seo}.` },
+    { question: "What does a website cost per year to keep running?", answer: `Yearly costs are the domain, hosting, business email, any premium licences such as a theme or consent tool, backups and maintenance. Most of these are paid by you to third-party providers. Our maintenance is included free for two months after launch and then starts from ${P.care}. Optional monthly SEO work starts from ${P.seo}.` },
     { question: "What hidden costs should I expect when building a website?", answer: "The usual gaps in a quote are Dutch copywriting, translation into English, photography or stock licences, a cookie consent tool, migrating old content with redirects, extra design revision rounds and staff training. Ask every supplier to mark each of these as included, excluded or optional with a price. Our quotes list them that way so nothing appears later." },
     { question: "How does a second language change website development cost in Netherlands?", answer: `Development rises moderately because every template, form and email exists twice and needs testing twice, plus hreflang set-up. The larger cost is usually translation and review, which you or a translator provide. Language work is itemised on top of the static plan from ${P.site}, so you can see exactly what the second language adds.` },
     { question: "Do you write the Dutch copy for my website?", answer: "No. The team writes and edits English, but Dutch text should come from you, a Dutch copywriter or a translator so it reads naturally to local customers. We load it, check that it fits each layout, and flag pages where copy is missing or too long for the design. English pages we can draft or polish if you want." },
@@ -455,7 +455,7 @@ const content: FreelanceContent = {
     { question: "Will my site show up in AI Overviews and ChatGPT answers?", answer: "No developer can promise that, but you can make it more likely. Clear page structure, direct answers near the top of each page, question-style headings, structured data and fast loading all help AI search tools understand and quote a page. We build those in by default, and your own expertise in the copy does the rest." },
     { question: "Who owns the website after it is built?", answer: "You do. The domain, hosting, CMS logins and code are in your name or your company's accounts from the start, and design files are handed over at launch. You can keep us for maintenance, move to another developer or bring the work in-house without asking anyone for permission or paying a release fee." },
     { question: "Should I choose a freelancer, a bureau or an offshore team?", answer: "Pick a bureau for brand strategy, Dutch copywriting and on-site workshops. Pick a local zzp'er for a small site where a nearby Dutch speaker matters most. Pick a small remote team when the scope is clear, you can supply copy, and you want written quotes, several developers and full ownership at a lower starting cost." },
-    { question: "What is included in five months of free maintenance?", answer: `After launch we keep the site updated, fix bugs, watch uptime and make small content changes for five months at no charge. The written quote spells out what counts as maintenance and what counts as new work. After that period, maintenance plans start from ${P.care}, or you can hand the site to your own team with our documentation.` },
+    { question: "What is included in two months of free maintenance?", answer: `After launch we keep the site updated, fix bugs, watch uptime and make small content changes for two months at no charge. The written quote spells out what counts as maintenance and what counts as new work. After that period, maintenance plans start from ${P.care}, or you can hand the site to your own team with our documentation.` },
     { question: "Does a website need to meet accessibility rules in the Netherlands?", answer: "It depends on your business. The European Accessibility Act covers e-commerce services to consumers after 28 June 2025 and exempts microenterprises providing services. Your adviser should confirm whether it applies to you. We build accessible structure as standard and can quote a formal audit and accessibility statement separately if you need them." },
     { question: "Can you rebuild my existing Dutch website?", answer: "Yes. We review the current site, list which pages and posts move across, map every old URL to a new one with 301 redirects, and rebuild on a faster setup. Rebuilds are priced by how much content moves and how many templates change. Keeping your old URLs redirected protects the search traffic the site already earns." },
     { question: "Do you visit our office in the Netherlands?", answer: "No. The team works remotely from India and has no office in the Netherlands or elsewhere. Everything happens over video calls, WhatsApp and shared documents, and our day overlaps the European business day from late morning. If in-person workshops matter to you, a Dutch bureau is the better choice." },

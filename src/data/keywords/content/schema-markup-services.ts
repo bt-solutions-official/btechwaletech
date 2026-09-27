@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who write the templates that output schema" },
     { value: "2", label: "Working days to quote a schema project" },
-    { value: "5", label: "Months of free maintenance after a new site launches" },
+    { value: "2", label: "Months of free maintenance after a new site launches" },
     { value: "0", label: "Promises of rich results, since Google never guarantees them" },
   ],
   answer: {

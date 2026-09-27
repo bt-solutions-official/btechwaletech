@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "100", label: "Pages included in the starting static plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "3", label: "Freelance developers on your project" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Page structure", value: "One page per subject and level, plus outlet pages" },
       { label: "Sign-up path", value: "Trial-class form or WhatsApp, confirmed by your staff" },
       { label: "Search focus", value: "Level plus subject plus neighbourhood searches" },
-      { label: "After launch", value: `Five months of free maintenance, then care from ${P.care}` },
+      { label: "After launch", value: `Two months of free maintenance, then care from ${P.care}` },
     ],
   },
   services: {
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your centre owns the domain, hosting account, code, content and analytics. We set them up in your name, or work inside accounts you already hold, and remove our access at handover unless you ask us to stay on.`,
         `The handover includes a short guide and screen recording on changing the timetable, updating fees, adding a tutor, publishing an article and checking trial enquiries. We also connect Google Search Console and analytics so you can see which level pages parents find.`,
-        `Maintenance is free for five months after launch, covering fixes and small changes. After that, care starts from ${P.care}, or your own staff can run the site. Term-start updates are the busiest time for tuition sites; the admin sheet approach means most of those changes are yours to make in minutes. Anything else is agreed in your written quote and our <a href='/terms/'>terms</a>.`,
+        `Maintenance is free for two months after launch, covering fixes and small changes. After that, care starts from ${P.care}, or your own staff can run the site. Term-start updates are the busiest time for tuition sites; the admin sheet approach means most of those changes are yours to make in minutes. Anything else is agreed in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Content in, preview up", "You share timetable, fees, tutor notes and photos in a folder; a private preview with the first level pages appears within days."],
       ["Trial flow wired", "The trial-class form is connected to your WhatsApp or inbox and tested end to end with your admin staff."],
       ["Launch and local listings", "The site goes live on your domain, Search Console and analytics are connected, and Google Business Profile updates are guided."],
-      ["Handover before term", "You get a recorded guide to editing timetable and fees; maintenance is free for five months after launch."],
+      ["Handover before term", "You get a recorded guide to editing timetable and fees; maintenance is free for two months after launch."],
     ],
   },
   faqHeading: "Tuition centre website design in Singapore: common questions",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Is a remote team in India practical for a Singapore tuition centre?", answer: "Yes. India is two and a half hours behind Singapore, so our working days overlap almost completely, and calls after your last class are easy. Everything is done through shared folders, a preview link and video calls. We do not visit outlets or take photos; you or a local photographer supply those." },
     { question: "Who owns the tuition website after it is built?", answer: "Your centre does. The domain, hosting, code, content and analytics are set up in your name or inside accounts you already hold. At handover you receive a recorded guide to editing the site, and we remove our access unless you keep us on for maintenance." },
     { question: "How do I pay for the website from Singapore?", answer: "Quotes and invoices are in USD and issued from India. You can pay by Wise, which is convenient from an SGD balance, by international bank wire or by PayPal, following the schedule in your quote. Nothing is billed until you approve the quote in writing. Ask your accountant how to record the invoice." },
-    { question: "What happens after the website launches?", answer: `Maintenance is free for five months after launch, covering fixes and small changes. After that, optional care starts from ${P.care}, or your team can manage updates using the handover guide. Monthly SEO for resources and local search starts from ${P.seo} if you want ongoing help.` },
+    { question: "What happens after the website launches?", answer: `Maintenance is free for two months after launch, covering fixes and small changes. After that, optional care starts from ${P.care}, or your team can manage updates using the handover guide. Monthly SEO for resources and local search starts from ${P.seo} if you want ongoing help.` },
   ],
   related: {
     heading: "Related Singapore pages",

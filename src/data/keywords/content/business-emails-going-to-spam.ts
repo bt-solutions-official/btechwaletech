@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What fixing business emails going to spam costs",
-    note: `Fixing business emails going to spam is quoted per job because the work ranges from one wrong DNS record to a full clean-up. A domain with Google Workspace and a missing DKIM key is quick. A domain with mail from hosting mailboxes, a WordPress site using PHP mail, a newsletter tool and an old CRM, all sending as the same address, takes longer to untangle safely. We send an itemised quote in about 2 working days and bill nothing before written approval. Afterwards, deliverability checks can sit in a care plan from ${P.care}; sites we build already include 5 months of free maintenance.`,
+    note: `Fixing business emails going to spam is quoted per job because the work ranges from one wrong DNS record to a full clean-up. A domain with Google Workspace and a missing DKIM key is quick. A domain with mail from hosting mailboxes, a WordPress site using PHP mail, a newsletter tool and an old CRM, all sending as the same address, takes longer to untangle safely. We send an itemised quote in about 2 working days and bill nothing before written approval. Afterwards, deliverability checks can sit in a care plan from ${P.care}; sites we build already include 2 months of free maintenance.`,
   },
   guideLabel: "Business emails going to spam guide",
   guide: [

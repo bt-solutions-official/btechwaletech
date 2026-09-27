@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Jorhat · Upper Assam",
     h1: "Freelance software developers in Jorhat for institutes, researchers, tea growers and Majuli tourism",
     lede:
-      "BtechWaleTech is a freelance group of three software developers who serve Jorhat remotely from India. If you were looking for a software development team in Jorhat, we build the same things with less overhead: admission portals and course sites, learning platforms, field-data apps, tea grower tools, Majuli booking systems, AI assistants, Android and iOS apps and dashboards. Prices are published and five months of maintenance come free.",
+      "BtechWaleTech is a freelance group of three software developers who serve Jorhat remotely from India. If you were looking for a software development team in Jorhat, we build the same things with less overhead: admission portals and course sites, learning platforms, field-data apps, tea grower tools, Majuli booking systems, AI assistants, Android and iOS apps and dashboards. Prices are published and two months of maintenance come free.",
     pills: ["Institute portals and LMS", "Field-data apps", "Android & iOS apps from ₹40,000", "Websites from ₹10,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI assistants that answer course, admission, booking and product questions in English, Hindi and Assamese, and hand complex queries to staff.",
     data: "Dashboards for admissions, fee collection, field trial data, leaf supply or sales, readable on a phone and updated automatically.",
     app: "Android and iOS apps for Jorhat students, field researchers, tea collectors and tourists, built in Flutter or React Native and published on both stores from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month for fixes, updates, backups and monitoring.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month for fixes, updates, backups and monitoring.",
   },
   whyUsIntro:
     "Jorhat's institutions and businesses often end up with a website someone built years ago and nobody can update. We are a freelance group of three engineers who build things that stay maintainable, publish starting prices, reply on WhatsApp seven days a week and hand every login to you.",
@@ -152,7 +152,7 @@ const content: CityContent = {
         "Android and iOS app development in Jorhat starts at ₹40,000 with BtechWaleTech and takes six to ten weeks. We build one app in Flutter or React Native, publish it on Google Play and the Apple App Store under your own accounts, and include login, forms, push notifications and an admin panel connected through an API.",
         "The apps that suit Jorhat best are ones people open regularly. Coaching centres and colleges use student apps for notices, class schedules, study material, tests and fee reminders. Research projects and agri businesses use field-data apps that work offline in tea sections and villages. Tea collectors use leaf-weighing apps that send each grower a slip. Traders offer B2B reorder apps to retailers in Titabar or Mariani. Homestays and tour operators use booking apps for repeat guests and partners.",
         "Students in Jorhat come from across Assam and beyond, and a noticeable share use iPhones, which is why we publish on both stores by default. We keep downloads small for budget Android phones, support Assamese labels where needed, and design screens for one-handed use on the move.",
-        "If users will open it only once, a website is the better buy. If they will use it weekly, an app with push notifications keeps you in front of them. You own the code, store listings and admin panel, and maintenance is free for five months after launch.",
+        "If users will open it only once, a website is the better buy. If they will use it weekly, an app with push notifications keeps you in front of them. You own the code, store listings and admin panel, and maintenance is free for two months after launch.",
       ],
       list: [
         "Student app: notices, schedules, material, tests, fees",
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "hosting-maintenance-jorhat",
       heading: "Hosting, deployment and maintenance for Jorhat projects",
       paragraphs: [
-        "Every Jorhat project includes hosting in your name, SSL, backups, uptime monitoring and automated deployment, followed by five months of free maintenance. Static sites run on fast, low-cost hosts; applications and data systems run on AWS or similar managed platforms with automatic database backups.",
+        "Every Jorhat project includes hosting in your name, SSL, backups, uptime monitoring and automated deployment, followed by two months of free maintenance. Static sites run on fast, low-cost hosts; applications and data systems run on AWS or similar managed platforms with automatic database backups.",
         "Research data and student records need particular care. We restrict access by role, keep audit logs of changes, back up daily and test that backups actually restore. At handover you receive every login and a document explaining how the system is deployed, so your IT staff or another developer can take over.",
         "After the free period, maintenance continues from ₹8,000 a month or on a per-change basis. Our support is remote and covers what we build and host; hardware and campus networks remain with your local IT team.",
       ],
@@ -265,7 +265,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "Five months of bug fixes, minor content changes, security updates, backups and monitoring from launch. New features are quoted separately. Afterwards, maintenance continues from ₹8,000 a month or you can pay per change.",
+        "Two months of bug fixes, minor content changes, security updates, backups and monitoring from launch. New features are quoted separately. Afterwards, maintenance continues from ₹8,000 a month or you can pay per change.",
     },
     {
       question: "Who owns the website, app and data?",

@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "6", label: "Stages in the going-online order" },
     { value: "90", label: "Days in the step-by-step plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance on any site we build" },
+    { value: "2", label: "Months of free maintenance on any site we build" },
   ],
   answer: {
     heading: "How do you take a business online in India, step by step?",
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       heading: "How much does it cost to take a business online in India?",
       paragraphs: [
         `The core setup can cost very little: Google Business Profile, WhatsApp Business and a UPI QR are free. Real spending starts with the website, from ${P.site} with us, and the online store, from ${P.shop}, if you sell products for delivery.`,
-        `Plan your budget in three layers. The free layer is your time: profile, WhatsApp, photos, first social posts. The build layer is a one-time payment for your website or store, plus a domain and hosting that renew yearly. The growth layer is monthly and optional: SEO from ${P.seo}, ads if you choose to run them, and maintenance from ${P.care} after our five free months end.`,
+        `Plan your budget in three layers. The free layer is your time: profile, WhatsApp, photos, first social posts. The build layer is a one-time payment for your website or store, plus a domain and hosting that renew yearly. The growth layer is monthly and optional: SEO from ${P.seo}, ads if you choose to run them, and maintenance from ${P.care} after our two free months end.`,
         `Across the market, quotes for "a business website" vary widely, from template jobs to large agency projects. The difference comes from custom design, how much content the developer writes, SEO work included, and who owns the accounts at the end. Compare scope before you compare price, and use our <a href='/website-making-cost-in-india/'>website cost guide for India</a> to see what each type involves.`,
       ],
     },

@@ -30,11 +30,11 @@ const chandausi: CityContent = {
     eyebrow: "Chandausi · Uttar Pradesh",
     h1: "Websites, apps, SEO and AI automation for Chandausi's mandi traders, Station Road shops and Sambhal district businesses",
     lede:
-      "We are three remote engineers who build websites, map listings and WhatsApp automation for Chandausi businesses: mentha oil and grain traders at the mandi, shops along Station Road and Bara Bazar, schools, coaching centres, clinics, advocates near the district courts and suppliers across Sambhal district. Starting prices are published and maintenance is free for five months.",
+      "We are three remote engineers who build websites, map listings and WhatsApp automation for Chandausi businesses: mentha oil and grain traders at the mandi, shops along Station Road and Bara Bazar, schools, coaching centres, clinics, advocates near the district courts and suppliers across Sambhal district. Starting prices are published and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Mandi trader sites", "Advocate and clinic profiles", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Chandausi, a basic business website with us starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Chandausi, and the first five months of maintenance are free.",
+    "In Chandausi, a basic business website with us starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Chandausi, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Where it is", value: "A town and tehsil headquarters in Sambhal district, about 45 km from Moradabad" },
     { label: "Courts", value: "The district and sessions courts for Sambhal district have sat in Chandausi since 2017" },
@@ -51,7 +51,7 @@ const chandausi: CityContent = {
     ai: "WhatsApp replies in Hindi that share daily rates, stock or timings while you are busy at the mandi or in the shop.",
     data: "Purchases, sales and outstanding payments pulled into a simple dashboard you can check on your phone.",
     app: "Android and iOS apps for school notices, coaching fee tracking or clinic token booking, available on both app stores and priced from ₹40,000.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Very few Chandausi businesses have a working website, and most local options stop answering after launch. Agencies in Moradabad or Delhi quote more than a small trader wants to spend. We publish our prices, keep the domain in your name and answer on WhatsApp every day of the week.",
@@ -176,7 +176,7 @@ const chandausi: CityContent = {
       paragraphs: [
         "Many small-town businesses have lost a website because the person who made it kept the domain in their own name and later stopped answering calls. The owner could not renew it, change a number or move it anywhere else, and one day it simply stopped working.",
         "We avoid this completely. The domain and hosting are registered in your name, on your account, from day one. At launch you get every login, the full source code and a short written note on how things are set up. You can take the site to any other developer whenever you like, without paying an exit fee.",
-        "For five months after launch, maintenance is free: text and price updates, fixes, security patches, backups and uptime checks. After that, it continues from ₹8,000 a month if you want us to carry on, or you can contact us only when something needs changing.",
+        "For two months after launch, maintenance is free: text and price updates, fixes, security patches, backups and uptime checks. After that, it continues from ₹8,000 a month if you want us to carry on, or you can contact us only when something needs changing.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const chandausi: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle text and price updates, fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need something changed.",
+        "For two months after launch we handle text and price updates, fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need something changed.",
     },
     {
       question: "Can you guarantee the top position on Google?",

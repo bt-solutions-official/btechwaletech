@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Dukandaar ke liye · Hinglish guide",
     h1: "Online dukan kaise khole: WhatsApp se lekar apne store tak, sahi raasta chuniye",
     lede: `Online dukan kaise khole, iska jawab ek nahi, chaar raaste hain: WhatsApp Business catalogue, Amazon ya Flipkart jaisa marketplace, ONDC network, ya aapka apna online store. Har raaste mein kharcha, control aur mehnat alag hai. Hum BtechWaleTech hain, teen freelance developers, jo UPI aur COD wala apna store ${P.shop} se banate hain. Neeche samjhiye ki aapki dukan ke liye kaunsa raasta sahi hai, GST kab chahiye, aur <a href='/ecommerce-website-kaise-banaye/'>apna store</a> kab banwana samajhdari hai.`,
-    pills: [`Apna store ${P.shop} se`, "UPI aur COD", "WhatsApp ordering", "GST invoice setup", "Domain aapke naam", "5 mahine free maintenance", "Hindi mein baat"],
+    pills: [`Apna store ${P.shop} se`, "UPI aur COD", "WhatsApp ordering", "GST invoice setup", "Domain aapke naam", "2 mahine free maintenance", "Hindi mein baat"],
     origin: "Teen freelance developers, India se · WhatsApp par jawab, hafte ke saaton din",
   },
   facts: [
@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["WhatsApp ordering automation", `${P.ai} se · 2–4 hafte`],
     ["Payment", "UPI, card aur COD, aapke gateway account se"],
     ["Customer data", "Aapke store, aapke paas"],
-    ["Launch ke baad", `5 mahine free, phir ${P.care} se`],
+    ["Launch ke baad", `2 mahine free, phir ${P.care} se`],
   ],
   stats: [
     { value: "4", label: "Raaste online bechne ke, har ek ka kharcha alag" },
     { value: "3", label: "Freelance developers jo store banate aur sambhalte hain" },
     { value: "2", label: "Working din mein line-by-line quote" },
-    { value: "5", label: "Mahine free maintenance store live hone ke baad" },
+    { value: "2", label: "Mahine free maintenance store live hone ke baad" },
   ],
   answer: {
     heading: "Online dukan kaise khole?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "GST invoice aur tax settings", note: "Registered dukan ke liye har order par GST invoice, HSN code aur tax rate products par. Kaunsa rate lagega, woh aapka CA batata hai.", size: "md" },
       { name: "Google Maps aur local SEO", note: `Google Business Profile ko store se jodna, taaki “near me” search karne wale aapko dhoondh sakein. Monthly SEO ${P.seo} se.`, href: "/google-map-par-dukan-kaise-dale/", size: "sm" },
       { name: "Shopping app baad mein", note: `Jab regular customers baar-baar order karne lagein, Android aur iPhone app ${P.app} se.`, href: "/shopping-app-kaise-banaye/", size: "sm" },
-      { name: "Store ki dekhbhaal", note: `Launch ke baad 5 mahine free updates, fixes aur backups; phir ${P.care} se, agar chahein.`, size: "sm" },
+      { name: "Store ki dekhbhaal", note: `Launch ke baad 2 mahine free updates, fixes aur backups; phir ${P.care} se, agar chahein.`, size: "sm" },
     ],
   },
   comparison: {
@@ -168,7 +168,7 @@ const content: FreelanceContent = {
         { heading: "WhatsApp Business catalogue", text: "The app is free. Your costs are your time, a phone that stays with the shop, and delivery. It becomes expensive only in hidden ways, such as missed orders and messages answered late at night." },
         { heading: "Marketplace", text: "No build cost, but every sale carries the marketplace’s commission and fees, shipping charges, and the cost of returns. Read the current fee schedule on the seller portal before listing, because it varies by category." },
         { heading: "ONDC through a seller app", text: "Each seller app sets its own charges. Compare what each takes per order, whether delivery is arranged, and how quickly money is settled." },
-        { heading: "Your own store", text: `The build starts from ${P.shop}. Then domain and hosting renewals in your name, the payment gateway’s charge on each online payment, and courier charges. With us, the first 5 months of maintenance are free, then from ${P.care} if you want it.` },
+        { heading: "Your own store", text: `The build starts from ${P.shop}. Then domain and hosting renewals in your name, the payment gateway’s charge on each online payment, and courier charges. With us, the first 2 months of maintenance are free, then from ${P.care} if you want it.` },
       ],
       after: [
         `The table below compares all four routes on the same questions. For a line-by-line store budget, see <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a>.`,
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Accounts aapke naam", "Domain, hosting aur payment gateway aapke business ke naam par khulte hain. KYC ke form mein hum madad karte hain, documents aap dete hain."],
       ["Preview link par store", "Store ek private link par banta hai jise aap apne phone par chala kar dekhte hain. Test order karke payment, email aur WhatsApp alert check kariye."],
       ["Launch aur training", "Store live hota hai, Google Search Console aur Business Profile jodte hain, aur aapko admin panel chalane ka chhota video aur daily checklist milti hai."],
-      ["5 mahine free dekhbhaal", `Launch ke baad paanch mahine fixes, updates aur backups free. Uske baad maintenance ${P.care} se, sirf agar aap chahein.`],
+      ["2 mahine free dekhbhaal", `Launch ke baad do mahine fixes, updates aur backups free. Uske baad maintenance ${P.care} se, sirf agar aap chahein.`],
     ],
   },
   faqHeading: "Online dukan kaise khole: aapke sawal, seedhe jawab",

@@ -56,7 +56,7 @@ const rameshwaram: CityContent = {
     ai: "WhatsApp assistants that answer tariff, darshan-timing and pickup questions at 5 a.m. when the Madurai trains reach town.",
     data: "Season-by-season dashboards of occupancy, cancellations, trip counts and which pilgrim routes bring your best bookings.",
     app: "Android and iOS apps from ₹40,000 for repeat tour bookings or boat crew logs, published on Google Play and the App Store in your name.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for tariff edits, backups and security patches.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for tariff edits, backups and security patches.",
   },
   whyUsIntro:
     "Island businesses here live on trust built over years with tour agents in Madurai, Chennai and the north. We work the same way: published starting prices, a written itemised quote, WhatsApp answered all seven days on Indian time, and your domain, hosting, source code and store accounts registered in your name from day one. If a feature will not earn back its cost in a season, we tell you before you pay for it.",
@@ -177,7 +177,7 @@ const rameshwaram: CityContent = {
       heading: "Ownership, handover and maintenance for Rameswaram websites and apps",
       paragraphs: [
         "Everything built for you is yours, on paper and in practice. The domain is registered on your email, the hosting account is in your name, the complete source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written sheet with every login on it, so nobody, including us, can hold your site hostage later.",
-        "The first five months after launch are covered by us at no extra cost. In that period we change tariffs before a festival season, take backups, apply security and version updates, and check now and then that the enquiry form, UPI checkout and WhatsApp button still work. After those months you decide freely: stay with us from ₹8,000 a month, run it yourself, or hand the code to another developer.",
+        "The first two months after launch are covered by us at no extra cost. In that period we change tariffs before a festival season, take backups, apply security and version updates, and check now and then that the enquiry form, UPI checkout and WhatsApp button still work. After those months you decide freely: stay with us from ₹8,000 a month, run it yourself, or hand the code to another developer.",
         "Apps need a yearly pass even when nothing looks broken, because Google and Apple keep raising the minimum versions they will accept in their stores. We watch those deadlines and ship the rebuild before the cutoff, so your listing is never pulled during the pilgrim season for being out of date.",
       ],
     },
@@ -269,7 +269,7 @@ const rameshwaram: CityContent = {
     {
       question: "What maintenance do you provide after launch in Rameswaram?",
       answer:
-        "Five months of upkeep at no charge: tariff and photo edits, backups, security patches and periodic checks that your forms, UPI checkout and WhatsApp button still work. After that it is your call, starting from ₹8,000 a month. Since the code and every account already sit in your name, moving to another developer needs no permission from us.",
+        "Two months of upkeep at no charge: tariff and photo edits, backups, security patches and periodic checks that your forms, UPI checkout and WhatsApp button still work. After that it is your call, starting from ₹8,000 a month. Since the code and every account already sit in your name, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you also work in Mandapam, Pamban and Ramanathapuram?",

@@ -56,7 +56,7 @@ const ponnur: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer rate, stock and fee questions and pass real decisions to you.",
     data: "Season dashboards of paddy bought, rice sold by variety, dues from buyers and fee collection by class.",
     app: "Android and iOS apps for rice mill agents, transport crews or school parents in Ponnur, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates and edits.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates and edits.",
   },
   whyUsIntro:
     "Ponnur traders compare every rupee and remember who kept their word. We publish starting prices, give itemised written quotes, reply on WhatsApp seven days a week, and set up the domain, hosting, code and app store accounts in your name. If a feature will not earn its cost back, we tell you before you pay for it.",
@@ -178,7 +178,7 @@ const ponnur: CityContent = {
       heading: "You own the domain, the code and the app accounts",
       paragraphs: [
         "A common problem in smaller towns is a website built by someone who kept the domain, hosting and passwords in their own name. When that person stops responding, the business cannot update or move its site. We avoid this by registering the domain, hosting, code repository, Google Play and App Store developer accounts in your name before we start.",
-        "After launch, you get five months of free maintenance covering bug fixes, security updates and small content changes. After that, maintenance starts at ₹8,000 a month for backups, updates, uptime checks and regular edits. You are free to take the code to another developer at any point.",
+        "After launch, you get two months of free maintenance covering bug fixes, security updates and small content changes. After that, maintenance starts at ₹8,000 a month for backups, updates, uptime checks and regular edits. You are free to take the code to another developer at any point.",
         "Before hiring anyone, ask four simple questions: whose name is the domain in, where is the code kept, who holds the admin password, and what does it cost to leave? Clear answers to those tell you more than a long portfolio.",
         "Every project ends with a written handover note listing each login and where it is stored.",
       ],
@@ -272,7 +272,7 @@ const ponnur: CityContent = {
     {
       question: "What happens after the website or app is launched?",
       answer:
-        "You get five months of free maintenance for fixes, security updates and small edits. After that, maintenance starts at ₹8,000 a month and covers backups, updates and changes. The domain, hosting, code and app store accounts are in your name throughout, so you can switch developers at any time without losing anything.",
+        "You get two months of free maintenance for fixes, security updates and small edits. After that, maintenance starts at ₹8,000 a month and covers backups, updates and changes. The domain, hosting, code and app store accounts are in your name throughout, so you can switch developers at any time without losing anything.",
     },
     {
       question: "Do you work with businesses in Tenali, Bapatla or Chebrolu?",

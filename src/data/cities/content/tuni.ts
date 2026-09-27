@@ -179,7 +179,7 @@ const tuni: CityContent = {
       heading: "Ownership and maintenance of Tuni websites and apps",
       paragraphs: [
         "You own the result outright. The domain is registered to your email, the hosting bills you directly, the source code sits in a repository you hold, and your Maps profile, Play Console and Apple developer account name you as owner. On handover you get a single written page with every login.",
-        "For five months after launch, upkeep costs nothing. We change rates before each season, keep backups, apply security and version updates, and test the forms, the UPI checkout and the WhatsApp button now and then. After that, pick a plan from ₹8,000 a month, run it yourselves, or give the code to another developer; our consent is not needed.",
+        "For two months after launch, upkeep costs nothing. We change rates before each season, keep backups, apply security and version updates, and test the forms, the UPI checkout and the WhatsApp button now and then. After that, pick a plan from ₹8,000 a month, run it yourselves, or give the code to another developer; our consent is not needed.",
         "Apps also need a yearly rebuild because Google and Apple keep lifting their minimum versions. We watch those deadlines and publish the update early, so your listing never disappears in the middle of mango season.",
       ],
     },
@@ -271,7 +271,7 @@ const tuni: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch carry no maintenance charge: seasonal rate changes, backups, patches and occasional tests of forms, checkout and WhatsApp buttons. Afterwards you may choose a plan from ₹8,000 a month or go elsewhere. With the code and accounts already yours, a switch needs nobody's permission.",
+        "The first two months after launch carry no maintenance charge: seasonal rate changes, backups, patches and occasional tests of forms, checkout and WhatsApp buttons. Afterwards you may choose a plan from ₹8,000 a month or go elsewhere. With the code and accounts already yours, a switch needs nobody's permission.",
     },
     {
       question: "Do you work in Payakaraopeta, Annavaram and Kakinada?",

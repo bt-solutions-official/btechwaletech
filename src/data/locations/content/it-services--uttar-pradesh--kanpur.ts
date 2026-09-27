@@ -36,7 +36,7 @@ const content: CityContent = {
     h1: "Freelance software developers for Kanpur manufacturers, exporters and traders",
     lede:
       "BtechWaleTech is a freelance group of three engineers offering IT solutions to Kanpur, working remotely from India. We build production, order and export documentation software for leather, textile and engineering units, dealer portals and data dashboards for traders, AI and WhatsApp automation, Android and iOS apps, B2B catalogues and the SEO that brings buyers to Kanpur businesses.",
-    pills: ["Custom software from ₹60,000", "Production and export tracking", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Production and export tracking", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "2 months free maintenance"],
   },
   quickAnswer:
     "For Kanpur businesses, BtechWaleTech, a freelance group of three remote engineers, builds custom production, export and dealer software from ₹60,000 (six to twelve weeks), AI automation from ₹40,000 (two to four weeks), Android and iOS apps from ₹40,000 (six to ten weeks) and B2B websites from ₹10,000. Itemised quotes arrive within about two working days.",
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read buyer emails and WhatsApp orders, extract specifications, update order records and draft replies for your team.",
     data: "Dashboards showing orders in production, shipments, receivables, dealer sales and plant output for Kanpur owners.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store, for Kanpur sales teams, supervisors, dealers and students.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Kanpur businesses often choose between ERP resellers pushing packaged systems and local freelancers who move on after launch. We are three engineers building around your actual process, with published starting prices and code, hosting and domain in your name.",
@@ -159,7 +159,7 @@ const content: CityContent = {
       id: "kanpur-ecommerce-cloud",
       heading: "Ecommerce, cloud hosting and maintenance for Kanpur",
       paragraphs: [
-        "BtechWaleTech builds online stores for Kanpur brands from ₹50,000 in four to eight weeks, and every project includes cloud hosting on AWS or a similar provider in your name, with SSL, daily backups and uptime monitoring. Maintenance is free for five months after launch, then from ₹8,000 a month.",
+        "BtechWaleTech builds online stores for Kanpur brands from ₹50,000 in four to eight weeks, and every project includes cloud hosting on AWS or a similar provider in your name, with SSL, daily backups and uptime monitoring. Maintenance is free for two months after launch, then from ₹8,000 a month.",
         "Leather goods, accessories and apparel brands in Kanpur increasingly sell directly to consumers. A store with good photography, material details, size guides and UPI and card checkout through a gateway account in your own name builds repeat customers that marketplaces keep for themselves.",
         "For factories, cloud hosting removes the risk of losing years of records to one failed office server or power surge. Staging environments let us test updates before your staff see them. We do not handle on-site hardware or networking, and we will say so when a problem needs a local technician.",
       ],
@@ -185,7 +185,7 @@ const content: CityContent = {
       id: "kanpur-cost",
       heading: "What does software development cost in Kanpur?",
       paragraphs: [
-        "Software development in Kanpur with BtechWaleTech starts at ₹60,000 for custom production, export or dealer software, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Kanpur with BtechWaleTech starts at ₹60,000 for custom production, export or dealer software, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "Costs rise with modules, users, integrations and data migration. A single-unit order tracker sits near the starting price; a multi-unit export system with supervisor apps, document storage and buyer updates costs more. You get an itemised quote within about two working days. See all plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
@@ -211,7 +211,7 @@ const content: CityContent = {
       paragraphs: [
         "Evaluate any IT company or freelancer in Kanpur on who writes the code, who owns the repository, hosting and domain, how payments are staged, what the quote excludes and what support follows launch. BtechWaleTech answers each in writing before you pay, and you can review our <a href=\"/portfolio/\">portfolio</a> and read <a href=\"/about/\">about our three engineers</a>.",
         "We work with Kanpur clients entirely online, through WhatsApp, calls, video meetings and a private staging link, with no office in Kanpur or elsewhere in Uttar Pradesh. We reply seven days a week. Payment is in INR only, by scanning our UPI QR code or by direct bank transfer to our bank account, split into milestones you can test.",
-        "At handover you receive the source code, hosting, domain and app store access, documentation and a recorded walkthrough, followed by five months of free maintenance. For the wider state, see our <a href=\"/it-services/uttar-pradesh/\">Uttar Pradesh IT services</a> or the <a href=\"/it-services/uttar-pradesh/lucknow/\">Lucknow software developers</a> page.",
+        "At handover you receive the source code, hosting, domain and app store access, documentation and a recorded walkthrough, followed by two months of free maintenance. For the wider state, see our <a href=\"/it-services/uttar-pradesh/\">Uttar Pradesh IT services</a> or the <a href=\"/it-services/uttar-pradesh/lucknow/\">Lucknow software developers</a> page.",
       ],
     },
   ],
@@ -281,7 +281,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "Five months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can AI take dealer orders on WhatsApp?",

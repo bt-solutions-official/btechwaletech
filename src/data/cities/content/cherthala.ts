@@ -57,7 +57,7 @@ const cherthala: CityContent = {
     ai: "WhatsApp assistants that answer export enquiries, room availability or clinic timings in Malayalam and English, then hand tricky chats to a person.",
     data: "Dashboards for coir and seafood exporters showing orders in hand, container dates, raw-material stock and buyer payments due.",
     app: "Android and iOS apps from ₹40,000 for coaching students, repeat vegetable or grocery orders and staff at processing units, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for content edits, backups, updates and checks on forms and payments.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for content edits, backups, updates and checks on forms and payments.",
   },
   whyUsIntro:
     "Cherthala's exporters are used to buyers who inspect samples, read contracts line by line and pay against documents. We work the same way. Starting prices are published, every quote arrives as a written list, and the domain, hosting, code and store accounts are opened in your name. Messages on WhatsApp get an answer every day of the week.",
@@ -175,7 +175,7 @@ const cherthala: CityContent = {
         "Ecommerce store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance: from ₹8,000 a month once the five free months end",
+        "Maintenance: from ₹8,000 a month once the two free months end",
       ],
     },
     {
@@ -192,7 +192,7 @@ const cherthala: CityContent = {
       heading: "Ownership and upkeep of your Cherthala website or app",
       paragraphs: [
         "Before any code is written, we agree who owns what. The domain sits under your email, hosting is billed to you, the code lives in a repository you control, and Google Play and App Store accounts carry your name. If you move to another developer later, you simply hand over access.",
-        "The first five months after launch are covered free: text and price changes, backups, security and software updates, uptime watching and a test of forms, payments and WhatsApp links after every change. After that, upkeep starts at ₹8,000 a month, or your own staff can take it over.",
+        "The first two months after launch are covered free: text and price changes, backups, security and software updates, uptime watching and a test of forms, payments and WhatsApp links after every change. After that, upkeep starts at ₹8,000 a month, or your own staff can take it over.",
         "Apps need regular attention even when nothing breaks, since Google and Apple raise their minimum requirements each year. We plan those updates for quieter months, so an Arthunkal homestay is not fixing its booking app in the middle of feast week.",
       ],
     },
@@ -280,7 +280,7 @@ const cherthala: CityContent = {
     {
       question: "What maintenance comes with a Cherthala website after launch?",
       answer:
-        "Five months of maintenance are free: text and price edits, backups, security and version updates, and checks that forms, UPI payments and WhatsApp links still work. After that, maintenance for Cherthala clients starts at ₹8,000 a month. You can also move it to your own staff or another developer, since every account is already yours.",
+        "Two months of maintenance are free: text and price edits, backups, security and version updates, and checks that forms, UPI payments and WhatsApp links still work. After that, maintenance for Cherthala clients starts at ₹8,000 a month. You can also move it to your own staff or another developer, since every account is already yours.",
     },
     {
       question: "Do you also work with businesses in Thuravoor, Aroor and Mararikulam?",

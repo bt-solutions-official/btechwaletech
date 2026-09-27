@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Receipts", "Numbered, with 80G details where registered"],
     ["Bookings", "Sevas, poojas, rooms, prasad orders"],
     ["Devotees pay by", "UPI, bank transfer, card, cash at counter"],
-    ["Support", "5 months free maintenance after launch"],
+    ["Support", "2 months free maintenance after launch"],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting your system" },
     { value: "2", label: "Working days to a written, itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The trust does. The code sits in a repository in the trust's name, hosting and database run on a cloud account the trust controls, and donor, booking and accounts data belongs to the trust, exportable whenever it wants.`,
         `This matters for a temple more than most organisations, because trustees change. When a new trustee board takes over, it should inherit full access without depending on any one person's email or phone. We set up accounts under an official trust email, document every login and renewal, and hand over a written list at launch. Nobody on our side keeps exclusive control of anything.`,
-        `After launch, five months of maintenance are included: bug fixes, small changes such as a new seva or a changed timing, and updates. After that, maintenance continues from ${P.care} if the trust wants it, or any competent developer can take over with the handover notes. Specifics are written into the quote; general terms are on our <a href='/terms/'>terms</a> page. What we do not do: visit the temple, supply receipt printers or computers, or give legal or tax advice.`,
+        `After launch, two months of maintenance are included: bug fixes, small changes such as a new seva or a changed timing, and updates. After that, maintenance continues from ${P.care} if the trust wants it, or any competent developer can take over with the handover notes. Specifics are written into the quote; general terms are on our <a href='/terms/'>terms</a> page. What we do not do: visit the temple, supply receipt printers or computers, or give legal or tax advice.`,
       ],
     },
     {
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
         ["WhatsApp receipts and reminders", "Automatic receipts, seva and dispatch messages", `From ${P.ai} (${P.aiUsd})`, "Any stage"],
         ["Devotee app", "Android and iOS: timings, bookings, donations", `From ${P.app} (${P.appUsd})`, "After core"],
         ["Temple website", "Timings, sevas, donation and room pages", `From ${P.site} (${P.siteUsd})`, "With core"],
-        ["Maintenance after 5 free months", "Updates, fixes, new sevas", `From ${P.care}`, "Monthly"],
+        ["Maintenance after 2 free months", "Updates, fixes, new sevas", `From ${P.care}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Approve the counter screens", "We share designs of the donation counter, seva booking and devotee pages. Trustees and clerks try them and suggest changes."],
       ["Start with the donation counter", "Stage one goes live on a quiet day, away from festivals, with old receipt books kept as backup for a week or two."],
       ["Add prasad, rooms and accounts", "Later stages go live one counter at a time, each with a short training call for the staff who use it."],
-      ["Five months of free maintenance", `New sevas, timing changes and fixes are covered for five months. Afterwards, maintenance starts from ${P.care} if the trust chooses.`],
+      ["Two months of free maintenance", `New sevas, timing changes and fixes are covered for two months. Afterwards, maintenance starts from ${P.care} if the trust chooses.`],
     ],
   },
   faqHeading: "Temple management software: questions trustees ask",

@@ -56,7 +56,7 @@ const nawabganj: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, fee and timing questions in Hindi and hand anything unusual to a person.",
     data: "Season dashboards of trips, quintals bought, dues by village and fee collections, readable on a phone.",
     app: "Android and iOS apps for a coaching centre's students or a dealer's village retailers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Traders in Nawabganj judge a supplier by whether the numbers stay the same after the first meeting. Ours do: starting prices are public, the quote lists every item separately, and nothing is billed until you approve it in writing. We reply on WhatsApp all week, and your domain, hosting, code and store accounts are registered to you from the start.",
@@ -177,7 +177,7 @@ const nawabganj: CityContent = {
       heading: "Who owns your Nawabganj website and app, and what upkeep costs after launch",
       paragraphs: [
         "You own all of it. The domain is booked on your email, the hosting bill is in your name, the complete source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you receive a written sheet of every login, so no developer, including us, can hold your site hostage if you later choose someone else.",
-        "Maintenance is free for the first five months after launch. In that time we update rates and photos, take backups, apply security patches and check that forms, checkout and WhatsApp links still work after each change. After five months you choose: continue with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you like.",
+        "Maintenance is free for the first two months after launch. In that time we update rates and photos, take backups, apply security patches and check that forms, checkout and WhatsApp links still work after each change. After two months you choose: continue with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you like.",
         "Apps need one extra habit. Google and Apple raise their minimum requirements every year, and an app that is not updated can be hidden from the store even if nothing is broken. We track those deadlines and ship the update early, so your listing never disappears during admission season or the crushing rush.",
       ],
     },
@@ -269,7 +269,7 @@ const nawabganj: CityContent = {
     {
       question: "What maintenance do I get after my Nawabganj website launches?",
       answer:
-        "Every Nawabganj project gets five months of free maintenance after launch: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month or take the work elsewhere, since the code and every account are already registered to you.",
+        "Every Nawabganj project gets two months of free maintenance after launch: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month or take the work elsewhere, since the code and every account are already registered to you.",
     },
     {
       question: "Do you serve Pilibhit, Bareilly and villages near Nawabganj?",

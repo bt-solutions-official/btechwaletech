@@ -56,7 +56,7 @@ const arakkonam: CityContent = {
     ai: "WhatsApp assistants that reply in Tamil or English about rent, fees, stock and timings and send decisions to you.",
     data: "Dashboards of occupancy, rent due, admissions, fee collection and sales by month for local businesses.",
     app: "Android and iOS apps from ₹40,000 for tuition students to get tests and notices or for regular customers to re-order, published on Google Play and the App Store.",
-    maintenance: "Free support for the first five months after launch, with paid care plans from ₹8,000 a month after that.",
+    maintenance: "Free support for the first two months after launch, with paid care plans from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Many Arakkonam households work for the railways, the navy or the central forces, and they expect procedure, paperwork and punctuality. We match that: public starting prices, quotes itemised line by line, WhatsApp replies seven days a week, and every domain, hosting plan, code base and app store account opened in your name, not ours.",
@@ -175,7 +175,7 @@ const arakkonam: CityContent = {
       heading: "Keeping ownership and getting support for your Arakkonam site or app",
       paragraphs: [
         "A frequent problem in towns like Arakkonam is a site that went offline because the freelancer who built it held the domain himself and later moved away. We prevent that from the start. The domain, hosting, source code, Google Business Profile and both app store developer accounts are set up under your name, and all passwords are handed to you in writing.",
-        "Support is free for five months after launch. It covers text and price edits, backups, security and software updates, and regular checks that forms, UPI links and WhatsApp buttons still work. After that, a care plan is ₹8,000 a month onwards if you want one, and you may move everything to another developer at any time.",
+        "Support is free for two months after launch. It covers text and price edits, backups, security and software updates, and regular checks that forms, UPI links and WhatsApp buttons still work. After that, a care plan is ₹8,000 a month onwards if you want one, and you may move everything to another developer at any time.",
         "App store rules from Google and Apple change every year. We track them and release the updates your app needs in time, so it stays listed.",
       ],
     },
@@ -267,7 +267,7 @@ const arakkonam: CityContent = {
     {
       question: "What support do you give after my Arakkonam website launches?",
       answer:
-        "Support is free for five months after launch, covering edits, backups, security updates and checks on forms and payments. After that, care plans start at ₹8,000 a month if you want one. Every account is in your name, so you can change developers later without asking anyone.",
+        "Support is free for two months after launch, covering edits, backups, security updates and checks on forms and payments. After that, care plans start at ₹8,000 a month if you want one. Every account is in your name, so you can change developers later without asking anyone.",
     },
     {
       question: "Do you work in Thakkolam, Sholinghur, Tiruttani and Ranipet?",

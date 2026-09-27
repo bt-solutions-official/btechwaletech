@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Consent records", "Type, source, date and expiry on every contact"],
     ["Accounting", "QuickBooks Online customers, estimates and invoices"],
     ["Access", "Role-based, down to fields and records"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "0", label: "Per-seat licence fees paid to us" },
     { value: "10", label: "Business days CASL allows to action an unsubscribe" },
     { value: "3", label: "Developers who build and support it" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "When does a Canadian business need custom CRM development?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Mobile access for crews", note: `A phone-friendly web app or a full Android and iOS app for photos, checklists and signatures on site. Apps start at ${P.app}.`, href: "/canada/react-native-app-development/", size: "md" },
       { name: "Automations and AI", note: `Follow-up reminders, quote chasers, call summaries and lead routing. AI automation starts at ${P.ai}.`, href: "/canada/ai-automation-agency/", size: "md" },
       { name: "Data migration", note: "Spreadsheets and old CRM exports cleaned, deduplicated and imported, with consent evidence carried across where it exists.", size: "sm" },
-      { name: "Care and changes", note: `Five free months after launch, then care from ${P.care} for fixes, new fields and small workflow changes.`, size: "sm" },
+      { name: "Care and changes", note: `Two free months after launch, then care from ${P.care} for fixes, new fields and small workflow changes.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom CRM development costs in Canada",
-    note: `Custom CRMs start at ${P.software}. The quote depends on how many modules you need, how complex the job or pipeline stages are, the number of roles, the depth of the QuickBooks Online sync, data migration volume and whether field crews need a native app, from ${P.app}. Automations and AI features start at ${P.ai}. Running costs are your own cloud hosting and email sending, with no per-user licence to us. After five months of free maintenance, care plans start at ${P.care}. Quotes are in USD and can be paid from a CAD account via Wise, wire or PayPal.`,
+    note: `Custom CRMs start at ${P.software}. The quote depends on how many modules you need, how complex the job or pipeline stages are, the number of roles, the depth of the QuickBooks Online sync, data migration volume and whether field crews need a native app, from ${P.app}. Automations and AI features start at ${P.ai}. Running costs are your own cloud hosting and email sending, with no per-user licence to us. After two months of free maintenance, care plans start at ${P.care}. Quotes are in USD and can be paid from a CAD account via Wise, wire or PayPal.`,
   },
   guideLabel: "Custom CRM development in Canada: a practical guide",
   guide: [
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
         `Our custom CRMs start at ${P.software}, quoted in USD. The quote grows with the number of modules, the complexity of your pipeline or job stages, the number of roles, the depth of QuickBooks Online sync, the volume of data to migrate and any mobile or AI features.`,
         `A focused CRM with contacts, companies, one pipeline, tasks, basic consent fields and reporting sits near the starting price. A trades CRM with site visits, quote builder, crew scheduling, photo uploads, QuickBooks Online sync and a field app sits higher, with the app itself starting at ${P.app}. Automations and AI features, such as call summaries or lead routing, start at ${P.ai}.`,
         `Running costs are modest and paid directly to providers: cloud hosting in your account, email sending for campaigns and notifications, and file storage for photos. There are no per-seat fees to us, whether you have five users or fifty.`,
-        `Every new build includes five months of free maintenance. After that, care plans start at ${P.care} for fixes, small changes and updates. The next section explains how to compare this against per-seat subscription pricing over several years.`,
+        `Every new build includes two months of free maintenance. After that, care plans start at ${P.care} for fixes, small changes and updates. The next section explains how to compare this against per-seat subscription pricing over several years.`,
       ],
     },
     {
@@ -390,12 +390,12 @@ const content: FreelanceContent = {
       ["Screens and permission matrix", "Clickable screens for the main views and a table of who can see and change what, both signed off before building starts."],
       ["Build in weekly slices", "Modules arrive in order of daily use on a staging link, with weekly calls in your morning and your team testing real scenarios."],
       ["Sync and migration", "QuickBooks Online is connected and tested with your bookkeeper, old data is cleaned and imported, and consent evidence is carried across."],
-      ["Switch-over and support", "A few staff trial the CRM first, then everyone moves over. Five months of free maintenance cover fixes and small adjustments."],
+      ["Switch-over and support", "A few staff trial the CRM first, then everyone moves over. Two months of free maintenance cover fixes and small adjustments."],
     ],
   },
   faqHeading: "Custom CRM development in Canada: frequently asked questions",
   faqs: [
-    { question: "How much does custom CRM development cost in Canada?", answer: `Our custom CRMs start at ${P.software}, quoted in USD. The final price depends on modules, pipeline or job complexity, number of roles, QuickBooks Online sync depth, data migration and whether crews need a native app from ${P.app}. Running costs are your own hosting and email sending, with no per-seat fees to us. After five free months, care plans start at ${P.care}.` },
+    { question: "How much does custom CRM development cost in Canada?", answer: `Our custom CRMs start at ${P.software}, quoted in USD. The final price depends on modules, pipeline or job complexity, number of roles, QuickBooks Online sync depth, data migration and whether crews need a native app from ${P.app}. Running costs are your own hosting and email sending, with no per-seat fees to us. After two free months, care plans start at ${P.care}.` },
     { question: "Is a custom CRM cheaper than HubSpot or Zoho?", answer: "It depends on your users and growth. Per-seat subscriptions are cheaper at the start and for small office teams. A custom CRM costs more upfront but has no per-user fees, so it often compares well when many field staff need limited access. Compare total cost over three to five years using each vendor's current CAD pricing page and our quote." },
     { question: "How long does it take to build a custom CRM?", answer: "Most custom CRMs take 6 to 12 weeks. A focused CRM for one office team is faster; a trades CRM with field access, QuickBooks Online sync and a large data migration takes longer. We recommend switching over during a quieter season, with a short trial where a few staff use it for real work before everyone moves." },
     { question: "When should we build a custom CRM instead of configuring our current one?", answer: "Build custom when the problems are structural: your core record is a job or property rather than a deal, many users need narrow access, your rules are specific to your business, or workarounds have become routine. If your pipeline is standard and the issue is setup or one missing integration, configuring your current CRM is usually cheaper." },
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
     { question: "Can the CRM send email campaigns?", answer: "Yes. The CRM can send campaigns through an email sending service in your account, using templates with your business identification, contact details and unsubscribe link locked into the footer. Before any send, it checks consent status and expiry. For heavy marketing needs, it can also sync consented contacts to a dedicated email marketing tool instead." },
     { question: "Can you add AI features to our CRM?", answer: `Yes. Useful options include summarizing call notes into the contact record, sorting incoming emails by intent, drafting quotes from job descriptions for an estimator to check, and routing leads. A person approves AI output before anything reaches a customer. AI automation starts at ${P.ai}.` },
     { question: "Can the CRM be bilingual in English and French?", answer: "Yes. Interface text, email templates and customer documents can be kept in both languages, with each user choosing their own. We write English; you or your translator provide or approve the French text. Businesses serving Quebec should confirm language requirements for customer-facing documents with their own lawyer." },
-    { question: "What happens after the CRM launches?", answer: `Five months of free maintenance cover bug fixes and small adjustments as your team settles in. After that, care plans start at ${P.care} for fixes, new fields, small workflow changes and updates. Larger additions, such as a new module or integration, are quoted separately so you control spending.` },
+    { question: "What happens after the CRM launches?", answer: `Two months of free maintenance cover bug fixes and small adjustments as your team settles in. After that, care plans start at ${P.care} for fixes, new fields, small workflow changes and updates. Larger additions, such as a new module or integration, are quoted separately so you control spending.` },
     { question: "How do we pay for a CRM built in India from Canada?", answer: "Quotes are in USD and paid in milestones through Wise, bank wire or PayPal, from a CAD or USD account. Invoices come from India. Nothing is billed until you approve the itemised quote in writing, and each milestone is linked to something your team can test on the staging link." },
     { question: "What time zone do you work in for Canadian clients?", answer: "We work in Indian Standard Time, which is 9.5 hours ahead of Eastern time during daylight saving and 12.5 hours ahead of Pacific. Calls usually happen in your morning, our evening. We reply on WhatsApp seven days a week, so quick questions from your office do not wait for the next call." },
     { question: "How do we start a custom CRM project?", answer: "Send a short message on WhatsApp or through the contact form describing your business, how many people need access, the tools you use now and what keeps going wrong. We book a workflow call in your morning and send an itemised USD quote within about two working days. Nothing is billed before your written approval." },

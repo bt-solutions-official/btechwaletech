@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read incoming WhatsApp orders and rate queries in Punjabi, Hindi or English, match them to your price list and pass confirmed orders to dispatch.",
     data: "Owner dashboards showing daily production, orders pending, stock by style and outstanding payments, fed from Tally and your own software.",
     app: "Android and iOS apps for Ludhiana dealers, salesmen and parts buyers, built in Flutter or React Native, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Hosting, backups, bug fixes and updates, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Hosting, backups, bug fixes and updates, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Ludhiana owners are practical buyers. They have seen expensive ERPs that the staff never used and cheap software that broke in the first busy season. We work as three freelance engineers who build only what your floor will actually use, show it working before you pay for the next stage, and hand over every login.",
@@ -167,14 +167,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting keeps your software and website on managed servers with automatic backups, SSL and monitoring, so a failed office PC no longer means lost orders. For Ludhiana businesses running software on a single desktop in the accounts room, moving to the cloud is often the most valuable single IT change.",
         "We set up hosting on AWS or comparable providers in your name, configure daily database backups, deploy updates through an automated pipeline that can roll back mistakes, and monitor uptime. Staff can log in from the factory, the showroom or home, and access is controlled by role.",
-        "Five months of maintenance after launch are free, including bug fixes, updates, backups and small changes. After that, plans start at ₹8,000 a month, or you pay only when you need something. We reply on WhatsApp seven days a week, which matters during the knitwear rush when problems cannot wait until Monday.",
+        "Two months of maintenance after launch are free, including bug fixes, updates, backups and small changes. After that, plans start at ₹8,000 a month, or you pay only when you need something. We reply on WhatsApp seven days a week, which matters during the knitwear rush when problems cannot wait until Monday.",
       ],
     },
     {
       id: "cost-software-ludhiana",
       heading: "How much do freelance software developers in Ludhiana charge?",
       paragraphs: [
-        "With BtechWaleTech, custom software for a Ludhiana business starts at ₹60,000, AI and WhatsApp automation at ₹40,000, a B2B or retail online store at ₹50,000, a website at ₹10,000 and a 299+ page SEO website at ₹20,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "With BtechWaleTech, custom software for a Ludhiana business starts at ₹60,000, AI and WhatsApp automation at ₹40,000, a B2B or retail online store at ₹50,000, a website at ₹10,000 and a 299+ page SEO website at ₹20,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months.",
         "The final number depends on how many modules, user roles and integrations you need. An order book and dispatch register for one unit sits near the starting figure; a multi-unit system with job-work, yarn stock, dealer app and Tally sync costs more. The quote lists each module separately, so you can phase the work across seasons.",
         "Payment is only in INR, by UPI through our QR code or by direct bank transfer to our bank account. Larger builds are split into milestones, each paid after you have reviewed working software on a preview link.",
       ],
@@ -199,7 +199,7 @@ const content: CityContent = {
         "Week 1: process mapping calls and written scope",
         "Weeks 2 to 4: first module built, tested and put into use",
         "Weeks 5 to 10: remaining modules, integrations and dashboards",
-        "Launch: training, handover of logins and five months of free support",
+        "Launch: training, handover of logins and two months of free support",
       ],
     },
     {
@@ -297,7 +297,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of maintenance are free after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can pay per request. We answer on WhatsApp seven days a week, and issues that stop orders or dispatch get priority.",
+        "Two months of maintenance are free after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can pay per request. We answer on WhatsApp seven days a week, and issues that stop orders or dispatch get priority.",
     },
     {
       question: "How much does an Android and iOS dealer app cost in Ludhiana?",

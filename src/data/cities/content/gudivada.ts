@@ -30,11 +30,11 @@ const gudivada: CityContent = {
     eyebrow: "Gudivada · Krishna district, Andhra Pradesh",
     h1: "Websites, software, SEO and AI tools for Gudivada's mills, workshops and fish farms",
     lede:
-      "A three-person remote engineering team that builds websites, Telugu and English search pages, stores and WhatsApp tools for Gudivada rice millers, trailer fabricators, pond owners, feed dealers, colleges, clinics and shops around Nehru Chowk and Eluru Road. Every price we quote is a starting figure, you keep the code and domain, and upkeep is free for five months.",
+      "A three-person remote engineering team that builds websites, Telugu and English search pages, stores and WhatsApp tools for Gudivada rice millers, trailer fabricators, pond owners, feed dealers, colleges, clinics and shops around Nehru Chowk and Eluru Road. Every price we quote is a starting figure, you keep the code and domain, and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Telugu-first pages", "Rice mill and trailer sites", "Aqua dealer catalogues", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "For Gudivada businesses, a static website with up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are three remote engineers, we have no office in Gudivada, and maintenance is free for five months after launch.",
+    "For Gudivada businesses, a static website with up to 100 pages starts from ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are three remote engineers, we have no office in Gudivada, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Town", value: "Special-grade municipality and revenue division headquarters in Krishna district, about 118,000 people in the 2011 Census" },
     { label: "Connections", value: "Gudivada Junction on the Vijayawada railway division; NH 165 runs through the town; Gannavaram airport is roughly 37 km away" },
@@ -51,7 +51,7 @@ const gudivada: CityContent = {
     ai: "WhatsApp assistants that reply to routine questions about rates, stock, trailer sizes or clinic timings in Telugu or English and pass the rest to you.",
     data: "Simple dashboards for paddy arrivals, dispatches, pond input sales and enquiry sources that an owner can read on a phone.",
     app: "Android and iOS apps for field staff visiting ponds and villages, students checking notes and patients booking slots, published on both stores.",
-    maintenance: "Five free months of updates, backups and security checks after launch, then maintenance from ₹8,000 a month only if you want it.",
+    maintenance: "Two free months of updates, backups and security checks after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:
     "Gudivada owners usually find web help through a relative in Hyderabad or a Vijayawada agency that sends a quote without any breakdown. We publish starting prices, send an itemised estimate before any billing, write Telugu content with your approval, and stay reachable on WhatsApp every day of the week.",
@@ -195,7 +195,7 @@ const gudivada: CityContent = {
       paragraphs: [
         "A common story in smaller towns goes like this: a developer registers the domain under his own name, stops answering calls a year later, and the website and email disappear when renewal lapses. We set things up so that cannot happen.",
         "Your domain and hosting accounts are opened in your name from the first day. At launch we hand over every login, the complete source code and a short guide on making simple edits. If you later want another developer, you can move without paying any exit fee or asking our permission.",
-        "For five months after launch, maintenance is free: content changes, bug fixes, security updates, backups and speed checks. After that you can continue from ₹8,000 a month, or simply message us when something needs changing. To begin, use the <a href=\"/contact/\">contact page</a> or send us a WhatsApp message with a few lines about your business.",
+        "For two months after launch, maintenance is free: content changes, bug fixes, security updates, backups and speed checks. After that you can continue from ₹8,000 a month, or simply message us when something needs changing. To begin, use the <a href=\"/contact/\">contact page</a> or send us a WhatsApp message with a few lines about your business.",
       ],
     },
   ],
@@ -287,7 +287,7 @@ const gudivada: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle text and photo updates, bug fixes, security patches, backups and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can message us only when something needs doing.",
+        "For two months after launch we handle text and photo updates, bug fixes, security patches, backups and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can message us only when something needs doing.",
     },
     {
       question: "What should I send you to get a quote?",

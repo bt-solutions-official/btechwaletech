@@ -56,7 +56,7 @@ const palacole: CityContent = {
     ai: "Telugu WhatsApp assistants that answer price, stock and appointment questions for Palacole shops and clinics, handing real decisions back to you.",
     data: "Dashboards of paddy intake, mill output, pond harvests, dealer credit and daily sales that a family business can read on a phone.",
     app: "Android and iOS apps for aqua farmers to log feed and water tests, or for repeat buyers to order from a local dealer, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security patches and small content changes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security patches and small content changes.",
   },
   whyUsIntro:
     "Palacole traders tend to know every rupee that goes out of the business, and they want work that lasts beyond one season. We publish starting prices, send an itemised quote in writing, reply on WhatsApp every day of the week, and put the domain, hosting, code and app store accounts in your own name from day one.",
@@ -105,7 +105,7 @@ const palacole: CityContent = {
         "We build Android and iOS apps with Flutter or React Native, so one codebase runs on both platforms. A typical app for a Palacole business includes phone-number login, a product or service list, order or booking screens, push notifications and an admin panel where your staff update prices and see orders. Apps start from ₹40,000, and we publish them on Google Play and the Apple App Store under accounts registered in your name.",
         "Who in Palacole actually needs one? Aqua input dealers with a few hundred regular farmers, rice mills with a fixed list of dealers who re-order every week, coaching centres that share test schedules and results, and hospitals or diagnostic labs that want patients to download reports. In each case the same customers come back again and again, which is where an app earns its cost.",
         "When is a website enough? If most of your customers find you once, through Google or a relative, a fast website with a WhatsApp button will do the job at a fraction of the cost. A textile shop near the bus station, a function hall or a lawyer rarely needs an app. We will tell you this honestly rather than sell you something you cannot justify.",
-        "Publishing is part of our work: store listings in Telugu and English, screenshots, privacy policy, review submission and fixing any issues Google or Apple raise. After launch you get five months of free maintenance, and app updates for new Android and iOS versions are covered under the monthly plan after that. See <a href=\"/it-services/android-ios-app/\">our Android and iOS app service</a> for the full scope.",
+        "Publishing is part of our work: store listings in Telugu and English, screenshots, privacy policy, review submission and fixing any issues Google or Apple raise. After launch you get two months of free maintenance, and app updates for new Android and iOS versions are covered under the monthly plan after that. See <a href=\"/it-services/android-ios-app/\">our Android and iOS app service</a> for the full scope.",
       ],
     },
     {
@@ -189,7 +189,7 @@ const palacole: CityContent = {
       heading: "IT services team in Palacole terms: ownership, handover and maintenance",
       paragraphs: [
         "A common problem we hear about from delta businesses is losing a website because the old developer registered the domain in his own name and then stopped answering. We avoid that from the start. The domain, hosting, code repository, Google Business Profile and app store accounts are all created in your name or your company's name, with us added as users.",
-        "After launch, every project gets five months of free maintenance: bug fixes, small content edits, security updates and help if something breaks. After that, maintenance starts from ₹8,000 a month and covers backups, updates, uptime checks and small changes. You can also stop maintenance and manage it yourself or hand it to another developer; we pass over everything they need.",
+        "After launch, every project gets two months of free maintenance: bug fixes, small content edits, security updates and help if something breaks. After that, maintenance starts from ₹8,000 a month and covers backups, updates, uptime checks and small changes. You can also stop maintenance and manage it yourself or hand it to another developer; we pass over everything they need.",
         "For software and apps, we document how the system works in plain language, so a new staff member or another <strong>IT services team in Palacole</strong> could take over if needed. That is the honest way to build for a business expected to run for decades, not seasons.",
       ],
     },
@@ -232,7 +232,7 @@ const palacole: CityContent = {
     {
       question: "Which is the best IT services team in Palacole for a small business?",
       answer:
-        "The best choice is whoever gives you ownership of your domain, code and accounts, a written itemised quote, and a clear maintenance plan. We are a remote team of three engineers with published starting prices and five months of free maintenance. Compare that against any local option on ownership, speed and after-launch support, not just the first price.",
+        "The best choice is whoever gives you ownership of your domain, code and accounts, a written itemised quote, and a clear maintenance plan. We are a remote team of three engineers with published starting prices and two months of free maintenance. Compare that against any local option on ownership, speed and after-launch support, not just the first price.",
     },
     {
       question: "How long does it take to build a website for a Palacole shop?",
@@ -267,7 +267,7 @@ const palacole: CityContent = {
     {
       question: "What does maintenance cost after the website goes live?",
       answer:
-        "Every project includes five months of free maintenance after launch, covering fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime checks and small changes. You can stop at any time and manage the site yourself or pass it to someone else, with full access handed over.",
+        "Every project includes two months of free maintenance after launch, covering fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime checks and small changes. You can stop at any time and manage the site yourself or pass it to someone else, with full access handed over.",
     },
     {
       question: "Do you offer SEO services in Palacole every month?",

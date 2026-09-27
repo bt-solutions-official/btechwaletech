@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Saudi Arabia · App budgets explained",
     h1: "App development cost in Saudi Arabia: what an Android and iOS app really costs to build and run",
     lede: `App development cost in Saudi Arabia depends less on the idea and more on four line items: the screens people tap, the backend that stores their data, the admin panel your staff use, and the running costs after launch. BtechWaleTech is three freelance developers in India who quote each of those separately, so you can see where the money goes. A two-platform Flutter or React Native app starts from ${P.app}; larger multi-role platforms are scoped from ${P.software}. See the <a href='/saudi-arabia/mobile-app-development/'>Saudi app build process</a> for how the work runs.`,
-    pills: ["Apps from " + P.app, "Itemised USD quotes", "One Flutter codebase", "Backend + admin priced separately", "Store fees explained", "5 months free upkeep", "Quote in ~2 working days"],
+    pills: ["Apps from " + P.app, "Itemised USD quotes", "One Flutter codebase", "Backend + admin priced separately", "Store fees explained", "2 months free upkeep", "Quote in ~2 working days"],
     origin: "Three freelance developers in India · quotes in USD · WhatsApp replies seven days a week",
   },
   facts: [
@@ -42,12 +42,12 @@ const content: FreelanceContent = {
   stats: [
     { value: "2", label: "Working days to an itemised quote" },
     { value: "1", label: "Codebase for Android and iPhone" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform or marketplace fees on top" },
   ],
   answer: {
     heading: "How much does app development cost in Saudi Arabia?",
-    text: `With BtechWaleTech, app development cost in Saudi Arabia starts from ${P.app} for one Flutter or React Native app covering Android and iOS, built in roughly 6–10 weeks. Delivery, marketplace or multi-role platforms with live tracking start from ${P.software}. Add yearly store fees (Apple US$99, Google Play US$25 once), hosting, and maintenance from ${P.care} after five free months.`,
+    text: `With BtechWaleTech, app development cost in Saudi Arabia starts from ${P.app} for one Flutter or React Native app covering Android and iOS, built in roughly 6–10 weeks. Delivery, marketplace or multi-role platforms with live tracking start from ${P.software}. Add yearly store fees (Apple US$99, Google Play US$25 once), hosting, and maintenance from ${P.care} after two free months.`,
     more: `Comparing with a website budget? Read <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a>, or see what goes into a <a href='/saudi-arabia/delivery-app-development/'>three-app delivery platform</a>.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Payments", value: "mada, Apple Pay and cards via your provider" },
       { label: "Store accounts", value: "Apple US$99/year, Google Play US$25 once" },
       { label: "Hosting", value: "Billed to you by the provider you choose" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Who owns code and store accounts", "Check the contract", "Check the contract", "You, from the first day"],
       ["Arabic right-to-left build", "Usually strong", "Varies; ask for samples", "Built and tested; you supply or approve Arabic copy"],
       ["Budget risk", "Change requests priced by the agency", "Hours can run over the estimate", "Changes re-quoted in writing before work"],
-      ["After launch", "Retainer", "New job each time", `5 months free, then from ${P.care}`],
+      ["After launch", "Retainer", "New job each time", `2 months free, then from ${P.care}`],
       ["Best for", "Buyers who need in-person workshops", "Small, well-specified tasks", "Owners who want a full app at a lower starting cost"],
     ],
     fine: "A local agency is worth its higher price if you need regular in-person workshops or an Arabic-speaking project lead in the room; we cannot offer either.",
@@ -164,13 +164,13 @@ const content: FreelanceContent = {
       paragraphs: [
         `Running an app costs far less than building it, but it is never zero. Plan for five recurring lines: store accounts, hosting, third-party services, payment fees and maintenance.`,
         `<strong>Store accounts:</strong> the Apple Developer Program is US$99 per membership year, and a Google Play developer account is a one-time US$25 registration. Both are opened in your company’s name. <strong>Hosting:</strong> a lean Firebase or Supabase backend for a single-location business usually stays in low monthly figures at small scale, while a busy delivery platform on a dedicated cloud server costs more; you pay the provider directly. <strong>Third-party services:</strong> maps, SMS one-time passwords and WhatsApp messages are billed per use by those providers.`,
-        `<strong>Payment fees</strong> go to your payment provider per transaction. <strong>Maintenance</strong> is where apps quietly die if nobody budgets for it: Apple and Google update their operating systems and SDK requirements every year, and apps that miss those updates can stop being offered to new users. You get five months of free maintenance after launch from us, then care plans start from ${P.care}.`,
+        `<strong>Payment fees</strong> go to your payment provider per transaction. <strong>Maintenance</strong> is where apps quietly die if nobody budgets for it: Apple and Google update their operating systems and SDK requirements every year, and apps that miss those updates can stop being offered to new users. You get two months of free maintenance after launch from us, then care plans start from ${P.care}.`,
       ],
       list: [
         "Apple Developer Program: US$99 per year, in your name",
         "Google Play: US$25 one time, in your name",
         "Hosting, maps, SMS and WhatsApp: pay-per-use to each provider",
-        `Maintenance: free for 5 months, then from ${P.care}`,
+        `Maintenance: free for 2 months, then from ${P.care}`,
       ],
     },
     {
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Two quotes for the same Saudi app can differ several times over because they buy different things: office time, sales, in-person meetings, senior account management and local salaries on one side; remote delivery with leaner overheads on the other. Neither is wrong, but you should know which one you are paying for.`,
         `A Riyadh or Jeddah agency gives you a local project manager, workshops in your meeting room and Arabic-speaking staff. Those are real benefits for a bank, a government-linked entity or a large retailer. A marketplace freelancer gives you a low hourly figure, but you carry the project management and the risk if that one person disappears. A small remote team in India sits between them: lower overheads than an agency, more continuity than one freelancer, and no face-to-face meetings.`,
-        `The honest way to compare quotes is line by line, not total by total. Ask every bidder to price the customer app, backend, admin panel, each integration and launch separately. Ask who owns the code and store accounts. Ask what happens in month six. A cheap total with no admin panel or no maintenance plan often ends up the most expensive app you ever commissioned. Our <a href='/outsource-web-development-to-india/'>guide to outsourcing development to India</a> explains the trade-offs in more depth.`,
+        `The honest way to compare quotes is line by line, not total by total. Ask every bidder to price the customer app, backend, admin panel, each integration and launch separately. Ask who owns the code and store accounts. Ask what happens in month three. A cheap total with no admin panel or no maintenance plan often ends up the most expensive app you ever commissioned. Our <a href='/outsource-web-development-to-india/'>guide to outsourcing development to India</a> explains the trade-offs in more depth.`,
       ],
     },
     {
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The costs that surprise Saudi owners are rarely hidden on purpose; they are simply left out of a quote that describes only screens. Read every proposal looking for the items below.`,
         `Arabic copy is the first. We build the right-to-left layout, but the Arabic text itself should be written or approved by a native speaker you trust, and that is a separate cost if you do not have one in-house. App store assets are the second: screenshots, preview text and privacy details for both stores, in both languages. Third is the privacy work: consent screens, a privacy policy page and, on iOS, the in-app account deletion Apple requires under guideline 5.1.1(v) for any app that lets users create accounts.`,
-        `Fourth, third-party usage fees for maps, SMS codes and WhatsApp messages scale with your users. Fifth, post-launch changes: the first month of real customers always produces a list of tweaks. With us those are covered for five months of free maintenance where they are fixes, and quoted in writing where they are new features.`,
+        `Fourth, third-party usage fees for maps, SMS codes and WhatsApp messages scale with your users. Fifth, post-launch changes: the first month of real customers always produces a list of tweaks. With us those are covered for two months of free maintenance where they are fixes, and quoted in writing where they are new features.`,
       ],
       list: [
         "Arabic copywriting or review by a native speaker",
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Here is a hypothetical example to show how a quote is built. Say a car wash and detailing business with three branches in Riyadh wants customers to book washes, pay a deposit by mada or Apple Pay and receive a reminder the day before.`,
         `The <strong>customer app</strong> needs sign-in by phone number, a branch picker, a service menu with add-ons, a slot calendar, checkout through the owner’s payment provider, booking history and Arabic-English switching. The <strong>backend</strong> stores branches, services, slots and bookings, receives payment webhooks and sends push reminders. The <strong>admin panel</strong> lets each branch manager see their day, block slots and issue refunds, while the owner sees all three branches.`,
-        `That shape is a single-role app with a moderate admin, so the build would start around our ${P.app} starting price, with the branch permissions and refund flow as the main additions on the written quote. Running costs would be the Apple fee of US$99 a year, the one-time Google Play fee of US$25, modest hosting, SMS for sign-in codes and payment fees to the provider. After five free months of maintenance, a care plan from ${P.care} keeps it current. If the owner later wanted mobile washers dispatched to customers’ homes, that would add a staff app and live location, moving the next phase towards the ${P.software} range.`,
+        `That shape is a single-role app with a moderate admin, so the build would start around our ${P.app} starting price, with the branch permissions and refund flow as the main additions on the written quote. Running costs would be the Apple fee of US$99 a year, the one-time Google Play fee of US$25, modest hosting, SMS for sign-in codes and payment fees to the provider. After two free months of maintenance, a care plan from ${P.care} keeps it current. If the owner later wanted mobile washers dispatched to customers’ homes, that would add a staff app and live location, moving the next phase towards the ${P.software} range.`,
       ],
     },
     {
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
         ["Hosting and database", "Your cloud provider", "Monthly, usage based", "Small at launch, grows with traffic"],
         ["Maps, SMS codes, WhatsApp messages", "Each provider", "Per use", "Scales with active users"],
         ["Card, mada and Apple Pay processing", "Your payment provider", "Per transaction", "Compare providers before signing"],
-        ["Maintenance and OS updates", "BtechWaleTech", `5 months free, then from ${P.care}`, "Keeps the app current with store requirements"],
+        ["Maintenance and OS updates", "BtechWaleTech", `2 months free, then from ${P.care}`, "Keeps the app current with store requirements"],
       ],
     },
     {
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Itemised USD quote", "Within about two working days you receive a quote split into app, backend, admin, integrations and launch, with the timeline and milestone plan for each line."],
       ["Written approval", "Nothing is billed until you approve the scope in writing. You open the Apple, Google and payment provider accounts in your company’s name while we prepare wireframes."],
       ["Build and weekly builds", "You install a test build on your own phone every week, see progress against the quote, and any new idea is priced in writing before it is added."],
-      ["Launch and aftercare", "We submit to both stores, answer review questions, hand over the code and documentation, then maintain the app free for five months."],
+      ["Launch and aftercare", "We submit to both stores, answer review questions, hand over the code and documentation, then maintain the app free for two months."],
     ],
   },
   faqHeading: "App development cost in Saudi Arabia: common questions",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "How much does app development cost in Saudi Arabia?", answer: `With our team, a two-platform Flutter or React Native app for a Saudi business starts from ${P.app} and takes about 6–10 weeks. Multi-role platforms such as delivery or marketplace apps start from ${P.software}. The final figure depends on user roles, integrations and the admin panel, and every quote is itemised in USD so you can see what each part costs.` },
     { question: "Why do app quotes in Saudi Arabia vary so much?", answer: "Quotes differ because they price different things: an agency includes local staff, office and account management; a marketplace freelancer prices hours; a remote team prices modules with leaner overheads. Scope also varies, since one bidder may include the admin panel and maintenance while another leaves them out. Compare quotes line by line rather than by total." },
     { question: "Is it cheaper to build one Flutter app than separate iOS and Android apps?", answer: "Yes. A single Flutter or React Native codebase avoids writing the same screens and logic twice, which removes most of the duplicated work. Some platform-specific tasks remain, such as push notification setup, Apple Pay versus Google Pay sheets and separate store reviews, but for booking, shopping and ordering apps a shared codebase is the sensible way to control cost." },
-    { question: "What does an app cost to run each year?", answer: `Expect the Apple Developer Program at US$99 per year, a one-time US$25 Google Play registration, hosting billed by your cloud provider, usage fees for maps, SMS and messaging, and payment processing fees. Maintenance with us is free for five months after launch and then starts from ${P.care}, which covers operating system and SDK updates.` },
+    { question: "What does an app cost to run each year?", answer: `Expect the Apple Developer Program at US$99 per year, a one-time US$25 Google Play registration, hosting billed by your cloud provider, usage fees for maps, SMS and messaging, and payment processing fees. Maintenance with us is free for two months after launch and then starts from ${P.care}, which covers operating system and SDK updates.` },
     { question: "Can I get my app quote in Saudi riyals?", answer: "We quote and invoice in US dollars, and you pay by Wise, international bank wire or PayPal. Your bank or Wise converts from riyals at the rate on the day of payment. Keeping quotes in one currency means the scope and the price do not shift with exchange movements during the project." },
     { question: "How long does it take to build an app for a Saudi business?", answer: "A typical two-platform app takes about 6–10 weeks from approved scope to store submission. Larger platforms are delivered in phases over 6–12 weeks or more. The biggest delays usually come from outside the code: Apple organisation enrolment, payment provider onboarding and waiting for approved Arabic copy, so start those in the first week." },
     { question: "Does Arabic right-to-left support cost extra?", answer: "Not with us. Arabic right-to-left layout and English left-to-right layout are part of every Saudi build, including mirrored navigation, correct number alignment and mixed-language text. What does cost extra, if you need it, is Arabic copywriting or review by a native speaker, which you either provide yourself or arrange with a translator you trust." },
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Do I need a D-U-N-S number to publish an iPhone app?", answer: "If you publish as a company, yes. Apple requires a D-U-N-S number for organisation enrolment in the Apple Developer Program, used to confirm your legal entity. Request it early because issuing and matching it can take time, and your app cannot go live under the company name until enrolment is complete." },
     { question: "How much does a delivery app cost in Saudi Arabia?", answer: `A delivery platform needs a customer app, a driver app and a dispatch dashboard with live location, so it starts from ${P.software} with us and is usually built in phases. Cash-on-delivery reconciliation, zone pricing and driver payouts are the main extra drivers. Any transport licensing the business needs is the owner’s responsibility.` },
     { question: "Should I choose a local agency or an offshore team for my app?", answer: "Choose a local agency when you need in-person workshops, an Arabic-speaking project lead on site or a large permanent team. Choose a small offshore team when you want a lower starting cost, direct access to the developers and are comfortable with video calls and WhatsApp. Either way, insist on ownership of the code and store accounts." },
-    { question: "Is maintenance included in the app price?", answer: `Five months of maintenance after launch is included free with our builds. That covers fixes, small adjustments and keeping the app compatible with store updates. After that, care plans start from ${P.care}. New features are always quoted in writing before any work starts, so maintenance never turns into open-ended billing.` },
+    { question: "Is maintenance included in the app price?", answer: `Two months of maintenance after launch is included free with our builds. That covers fixes, small adjustments and keeping the app compatible with store updates. After that, care plans start from ${P.care}. New features are always quoted in writing before any work starts, so maintenance never turns into open-ended billing.` },
     { question: "Will I own the source code of my app?", answer: "Yes. The code lives in a repository under your own account from the first commit, and the store listings, hosting and domain are registered to your business. We work as collaborators on your accounts, so you can remove our access or bring in another developer at any time without paying to rebuild." },
     { question: "What payments can a Saudi app accept, and what do they cost?", answer: "For physical goods and real-world services, apps can accept mada, Apple Pay and cards through a licensed Saudi payment provider that you contract with. We integrate its SDK as part of the build. The provider charges you per transaction. Digital content such as subscriptions must use Apple and Google in-app purchase, which carries store commission instead." },
     { question: "Does Apple take a commission on bookings and physical orders?", answer: "No. Apple’s guidelines say purchases of physical goods or services consumed outside the app must use payment methods other than in-app purchase, such as Apple Pay or card entry, so no App Store commission applies. Commission applies to digital content and subscriptions sold through in-app purchase, where eligible small developers pay a reduced 15% rate." },
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a line-by-line price for your app?",
-    note: `Describe your app on WhatsApp: who uses it, what they do and what it connects to. You will get an itemised USD quote in about two working days, with two-platform apps starting from ${P.app}, accounts and code in your name, and five months of free maintenance after launch.`,
+    note: `Describe your app on WhatsApp: who uses it, what they do and what it connects to. You will get an itemised USD quote in about two working days, with two-platform apps starting from ${P.app}, accounts and code in your name, and two months of free maintenance after launch.`,
   },
 };
 

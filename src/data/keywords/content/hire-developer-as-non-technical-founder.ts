@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "People you deal with directly, no middle layer" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Invoices before your written approval" },
   ],
   answer: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Rescue of a stalled project", note: "When a previous developer has gone quiet, we assess the code, recover accounts where possible and plan the finish.", href: "/developer-left-project-midway/", size: "md" },
       { name: "AI features and automation", note: `Chat assistants, document reading or workflow automation added to your product, from ${P.ai}.`, href: "/ai-agent-developer/", size: "sm" },
       { name: "SaaS build", note: "Subscription billing, team accounts and admin dashboards for founders selling software to businesses.", href: "/saas-development-cost-in-india/", size: "sm" },
-      { name: "Maintenance after launch", note: `Five free months, then care plans from ${P.care} for fixes, updates and small features.`, href: "/mobile-app-maintenance-services/", size: "sm" },
+      { name: "Maintenance after launch", note: `Two free months, then care plans from ${P.care} for fixes, updates and small features.`, href: "/mobile-app-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario, not a client story. Say a physiotherapist in Pune wants an app where patients follow home exercise plans, log pain levels and message the clinic, while the physiotherapist assigns plans from a web dashboard. She has savings set aside, no technical background and a clinic to run.`,
         `Her two-page brief lists three users (patient, physiotherapist, clinic admin), five journeys, and a must-have column: login by phone OTP, assigned exercise videos, daily pain log, and a dashboard showing which patients are slipping. Chat, payments and multiple clinics go into "later".`,
         `She sends it to three developers. One quotes within an hour with no questions. Two ask about video hosting, patient data and whether patients use cheap Android phones. She asks a senior engineer friend to review both remaining proposals for two paid hours. His notes flag that one proposal leaves out the admin dashboard.`,
-        `Say she chooses a scope around ${P.app} for the app with the dashboard included. The developer creates the GitHub organisation, cloud account and Play Console under her name first. Milestones are "patient can log in and see a plan", "physio can assign and track", and "published to stores". She tests each on her phone before paying. After launch, five months of free maintenance cover fixes while she collects feedback for version two.`,
+        `Say she chooses a scope around ${P.app} for the app with the dashboard included. The developer creates the GitHub organisation, cloud account and Play Console under her name first. Milestones are "patient can log in and see a plan", "physio can assign and track", and "published to stores". She tests each on her phone before paying. After launch, two months of free maintenance cover fixes while she collects feedback for version two.`,
       ],
     },
     {
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "Within about two working days, each feature is priced separately with milestones and exclusions. Nothing is billed before your written approval."],
       ["Set up accounts in your name", "Code repository, cloud, domain and app store accounts are created under you first, with us invited as collaborators you can remove."],
       ["Build with weekly demos", "Every week you see working software, test it on your phone and log feedback. Milestone payments follow only after you have checked the agreed items."],
-      ["Launch and hand over", "Publishing, a credentials list, handover notes and short recordings, then five months of free maintenance while you collect real user feedback."],
+      ["Launch and hand over", "Publishing, a credentials list, handover notes and short recordings, then two months of free maintenance while you collect real user feedback."],
     ],
   },
   faqHeading: "How to hire a developer as a non technical founder: your questions",
@@ -435,7 +435,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to build a first version of a product?", answer: "With us, a web app or SaaS MVP usually takes 6–12 weeks, an Android and iOS app 6–10 weeks, and a landing page to test demand 1–2 weeks. Timelines stretch when scope grows mid-project or when feedback takes days to arrive. Cutting the first version to its true essentials is the most reliable way to launch sooner." },
     { question: "Should I build an app or a website first?", answer: "Usually a web app first, unless your users need phone features like the camera, GPS tracking, offline use or push notifications from day one. A web app is quicker to change while you learn what users want, and one link works for everyone. Once the core is proven, a Flutter or React Native app can reuse the same back end." },
     { question: "Can I test my idea before paying for a full build?", answer: `Yes, and it is often wise. A landing page describing the product with a waitlist or pre-order form, from ${P.site}, tells you whether people care. Clickable design prototypes let you show investors and early users the flow. Some ideas can also be tested with no-code tools or manual processes before any custom software is written.` },
-    { question: "What happens after the app or software is launched?", answer: `With us, five months of free maintenance follow launch, covering fixes, small updates and help while you gather feedback. After that, maintenance plans start at ${P.care}. You also receive a handover pack: credentials list, notes on how the system is built, and short recordings of routine tasks, so another developer could continue if you ever need that.` },
+    { question: "What happens after the app or software is launched?", answer: `With us, two months of free maintenance follow launch, covering fixes, small updates and help while you gather feedback. After that, maintenance plans start at ${P.care}. You also receive a handover pack: credentials list, notes on how the system is built, and short recordings of routine tasks, so another developer could continue if you ever need that.` },
     { question: "Developer kaise dhundhe agar mujhe coding nahi aati?", answer: `Pehle apne idea ko saadi bhasha mein do page mein likhiye: kaun use karega, kya kaam karega, aur pehle version mein kya zaroori hai. Do-teen developers se itemised quote lijiye, unka pichla live kaam dekhiye, aur code, domain aur app store accounts apne naam par rakhiye. Payment sirf milestone test karne ke baad kijiye. Humare saath app ${P.app} se shuru hota hai.` },
     { question: "Can you work with my existing designer or advisor?", answer: "Yes. We regularly build from designs prepared by someone else and welcome independent technical advisors reviewing our proposals, architecture and code. We ask only that feedback comes through one agreed channel, so decisions are recorded in one place. If your designer uses Figma, we build directly from those files and flag anything that will be hard to implement." },
   ],
@@ -459,7 +459,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Have an idea but no tech background? Start with a conversation",
-    note: `Send your idea on WhatsApp in plain words, in English or Hindi. In about two working days you get an itemised quote, with web apps from ${P.software} and mobile apps from ${P.app}, every account in your name and five months of free maintenance.`,
+    note: `Send your idea on WhatsApp in plain words, in English or Hindi. In about two working days you get an itemised quote, with web apps from ${P.software} and mobile apps from ${P.app}, every account in your name and two months of free maintenance.`,
   },
 };
 

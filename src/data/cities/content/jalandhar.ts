@@ -7,7 +7,7 @@ const jalandhar: CityContent = {
   meta: {
     title: "IT Services in Jalandhar: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, export catalogues and WhatsApp automation for Jalandhar sports goods, leather and tool makers. Sites from ₹10,000, 5 months free maintenance.",
+      "Websites, SEO, export catalogues and WhatsApp automation for Jalandhar sports goods, leather and tool makers. Sites from ₹10,000, 2 months free maintenance.",
     keywords: [
       "website development team in Jalandhar",
       "web designer Jalandhar",
@@ -31,11 +31,11 @@ const jalandhar: CityContent = {
     eyebrow: "Jalandhar · Punjab",
     h1: "Web development, SEO and automation for Jalandhar's makers, exporters and Doaba businesses",
     lede:
-      "Three engineers, working remotely, who build export catalogues for sports goods and hand tool makers, online stores for Rainak Bazaar and Model Town retailers, and lead systems for clinics and study-abroad consultants. Prices are published below, you deal with the developers directly, and maintenance costs nothing for five months after launch.",
+      "Three engineers, working remotely, who build export catalogues for sports goods and hand tool makers, online stores for Rainak Bazaar and Model Town retailers, and lead systems for clinics and study-abroad consultants. Prices are published below, you deal with the developers directly, and maintenance costs nothing for two months after launch.",
     pills: ["Websites from ₹10,000", "Export-ready catalogues", "Punjabi, Hindi and English pages", "UPI and Razorpay stores", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "For a Jalandhar business, a basic website with us costs from ₹10,000 and a 299+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Jalandhar office, and five months of maintenance after launch is free.",
+    "For a Jalandhar business, a basic website with us costs from ₹10,000 and a 299+ page SEO website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no Jalandhar office, and two months of maintenance after launch is free.",
   snapshot: [
     { label: "Main markets", value: "Rainak Bazaar, Jyoti Chowk, Model Town market and the Nakodar Road retail stretch" },
     { label: "Industrial areas", value: "Focal Point on the GT Road bypass, the Sports and Surgical Complex, and the Leather Complex on Kapurthala Road" },
@@ -52,10 +52,10 @@ const jalandhar: CityContent = {
     ai: "Assistants that answer the same visa, admission, price or stock questions in Punjabi, Hindi or English and pass the serious enquiries to a person.",
     data: "Export shipments, order books and stitching-unit output pulled into one dashboard the owner can read on a phone.",
     app: "Android and iPhone apps for dealer ordering, student enquiries and appointment booking, one codebase released on both app stores from ₹40,000.",
-    maintenance: "Price updates, new product photos, backups and security fixes free for five months, then from ₹8,000 a month.",
+    maintenance: "Price updates, new product photos, backups and security fixes free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Jalandhar has no shortage of people who will make you a website, from agencies near Model Town to nephews with a laptop. What is hard to find is a clear price, a developer who answers after the site is live, and code you actually own. We publish our rates, reply on WhatsApp every day, and support your site free for five months.",
+    "Jalandhar has no shortage of people who will make you a website, from agencies near Model Town to nephews with a laptop. What is hard to find is a clear price, a developer who answers after the site is live, and code you actually own. We publish our rates, reply on WhatsApp every day, and support your site free for two months.",
   pricingIntro:
     "Ask three Jalandhar web designers for a quote and you will get three numbers with no explanation of the gap. These are our actual starting prices. Your final figure depends on the number of pages and products, the features you need and whether photos and text are ready, and it comes itemised before work begins.",
   sections: [
@@ -159,7 +159,7 @@ const jalandhar: CityContent = {
       paragraphs: [
         "We regularly meet Jalandhar business owners who cannot update their own website because a former developer holds the domain, the hosting login or both. Sometimes the domain has expired and been bought by someone else. For an exporter whose email runs on that domain, it can mean lost buyer correspondence at the worst possible time.",
         "Every project we build avoids this from day one. The domain is registered in your name, the hosting is on your account, and at launch you receive every login, the source code and a short note explaining how the site is set up. You can move it to another developer whenever you like. There is no lock-in and no exit charge.",
-        "After launch, maintenance is free for five months. That includes content and price updates, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that, maintenance continues from ₹8,000 a month, or you can simply message us when you need a change and pay for that work alone.",
+        "After launch, maintenance is free for two months. That includes content and price updates, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that, maintenance continues from ₹8,000 a month, or you can simply message us when you need a change and pay for that work alone.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const jalandhar: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we cover content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch we cover content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
     },
     {
       question: "Do you work with businesses in Phagwara, Kapurthala and Hoshiarpur?",

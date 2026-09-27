@@ -31,11 +31,11 @@ const dehriOnSone: CityContent = {
     eyebrow: "Dehri-on-Sone · Rohtas district, Bihar",
     h1: "Websites, apps, SEO and AI automation for Dehri-on-Sone's traders, transporters and clinics",
     lede:
-      "Dehri sits where the Sone river, the Grand Chord railway and NH-19 meet, and its businesses live off that traffic. We are three remote engineers who build websites, Google Business Profiles and WhatsApp enquiry tools for its transporters, building material suppliers, doctors, coaching centres, hotels and shops, with starting prices published and five months of free upkeep.",
+      "Dehri sits where the Sone river, the Grand Chord railway and NH-19 meet, and its businesses live off that traffic. We are three remote engineers who build websites, Google Business Profiles and WhatsApp enquiry tools for its transporters, building material suppliers, doctors, coaching centres, hotels and shops, with starting prices published and two months of free upkeep.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Transport and supplier sites", "Clinic and coaching pages", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "In Dehri-on-Sone, a static business website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Dehri office, and the first five months of maintenance are free.",
+    "In Dehri-on-Sone, a static business website with up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team with no Dehri office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Where it is", value: "A nagar parishad town on the west bank of the Sone in Rohtas district, next to Dalmianagar and a short drive from Sasaram" },
     { label: "Transport links", value: "Dehri-on-Sone Junction (DOS) on the Grand Chord line and National Highway 19, the Delhi–Kolkata road" },
@@ -52,7 +52,7 @@ const dehriOnSone: CityContent = {
     ai: "WhatsApp auto-replies in Hindi for rates, routes, doctor timings and batch schedules, with bookings and payments passed to a real person.",
     data: "Phone dashboards showing trips per truck, pending payments per party or admissions per batch, updated from the sheets your staff already fill.",
     app: "Android and iOS apps for drivers, munshis and site supervisors that save entries offline and sync when the network returns, from ₹40,000.",
-    maintenance: "Five months of free updates, backups and small edits after launch, then maintenance from ₹8,000 a month if you want us to continue.",
+    maintenance: "Two months of free updates, backups and small edits after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "A lot of Dehri businesses have a Facebook page, a Justdial entry made by a salesman and no website they actually control. We are a small team you can reach directly on WhatsApp, we put our starting prices in public, and every account we create for you is in your own name from the first day.",
@@ -177,7 +177,7 @@ const dehriOnSone: CityContent = {
       paragraphs: [
         "The most common website story we hear from Rohtas goes like this: a local developer built the site, registered the domain in his own name, stopped answering, and the site disappeared at renewal time. The owner had no password and no way to recover it.",
         "With us, the domain and hosting are bought in your name and paid from your account. At launch you receive every login, the complete source code and a short written note on how things are set up. Our <a href=\"/services/web-development/\">web development</a> uses common, well-documented tools so that any competent developer can take over later, with no exit charge from us.",
-        "For five months after launch we maintain the site free: updates, backups, security patches, uptime checks and small text or photo changes. After that you can continue from ₹8,000 a month or simply call us when you need something.",
+        "For two months after launch we maintain the site free: updates, backups, security patches, uptime checks and small text or photo changes. After that you can continue from ₹8,000 a month or simply call us when you need something.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const dehriOnSone: CityContent = {
     {
       question: "What support do I get after the site is live?",
       answer:
-        "Five months of free maintenance: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change. Monthly SEO is a separate service and starts from ₹10,000.",
+        "Two months of free maintenance: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change. Monthly SEO is a separate service and starts from ₹10,000.",
     },
     {
       question: "How quickly will SEO bring calls in Dehri?",

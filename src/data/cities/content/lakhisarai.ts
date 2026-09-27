@@ -34,7 +34,7 @@ const lakhisarai: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English", "Coaching and clinic sites", "Google Maps setup", "Your domain, your code"],
   },
   quickAnswer:
-    "In Lakhisarai, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-person team with no Lakhisarai office, and every launch includes five months of free maintenance.",
+    "In Lakhisarai, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-person team with no Lakhisarai office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "District", value: "Headquarters of Lakhisarai district, carved out of Munger district on 3 July 1994" },
     { label: "Railways", value: "Lakhisarai Junction on the Kiul river, and Kiul Junction nearby where the main line and loop line cross" },
@@ -51,7 +51,7 @@ const lakhisarai: CityContent = {
     ai: "WhatsApp replies in Hindi that answer fee, batch, doctor-timing and stock questions while the owner is busy at the counter.",
     data: "Sales, dues and admission numbers turned into a phone dashboard, so owners stop adding figures in notebooks at night.",
     app: "Android and iOS apps for student notices, test results and dealer orders, one codebase released to both app stores, priced from ₹40,000.",
-    maintenance: "Five free months of updates after launch, then maintenance from ₹8,000 a month if you want us to keep going.",
+    maintenance: "Two free months of updates after launch, then maintenance from ₹8,000 a month if you want us to keep going.",
   },
   whyUsIntro:
     "Lakhisarai owners usually get websites through a relative in Patna or a freelancer who vanishes after payment. We are three engineers who publish starting prices, reply on WhatsApp all seven days, and register the domain, hosting and code in your name from day one.",
@@ -72,7 +72,7 @@ const lakhisarai: CityContent = {
       heading: "Website prices for Lakhisarai businesses",
       paragraphs: [
         "Our <a href=\"/pricing/\">pricing page</a> shows starting prices only, because every business needs something slightly different. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. It includes a mobile layout, contact form, WhatsApp button, Google map and basic search setup, which is enough for most shops, clinics and tutors in town.",
-        "A 299+ page site designed around real searches starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, custom software such as fee or stock management at ₹60,000, and monthly SEO at ₹10,000. After launch, five months of maintenance are free, then it continues from ₹8,000 a month if you want it.",
+        "A 299+ page site designed around real searches starts at ₹20,000 and takes three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, custom software such as fee or stock management at ₹60,000, and monthly SEO at ₹10,000. After launch, two months of maintenance are free, then it continues from ₹8,000 a month if you want it.",
         "People in Lakhisarai hear very different quotes, and it is hard to compare them. Instead of looking only at the number, ask three things: whose name the domain is registered in, whether you can change prices and photos yourself, and what happens when the site breaks after six months. A cheap site without those answers often ends up costing more.",
       ],
       list: [
@@ -177,7 +177,7 @@ const lakhisarai: CityContent = {
       paragraphs: [
         "A common story in small towns: a nephew or a local freelancer builds the website, registers the domain in his own name, and then moves to Delhi or Bengaluru. Two years later the domain expires, the site disappears and the business has to start again. We set things up so this cannot happen.",
         "Your domain and hosting are registered to you from the beginning. At launch we hand over every login, the complete source code and a simple written guide. You are free to change developers at any time, and we charge no exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, small fixes, security updates, backups and uptime checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
+        "For two months after launch, maintenance is free: text and price changes, small fixes, security updates, backups and uptime checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
       ],
     },
   ],
@@ -264,7 +264,7 @@ const lakhisarai: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you also work in Munger, Jamalpur, Sheikhpura, Jamui and Barh?",

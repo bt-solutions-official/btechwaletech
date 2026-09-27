@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Typical build", "1–2 weeks; 3–5 with many branches"],
     ["Corporate enquiries", "Structured RFQ form to email and WhatsApp"],
     ["Recruitment", "Guard job listings with mobile applications"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
-    { value: "5", label: "Months of maintenance included free" },
+    { value: "2", label: "Months of maintenance included free" },
   ],
   answer: {
     heading: "How should a private security agency website win corporate contracts?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Quote form asks", value: "Site type, posts, shifts, guard category, start date, location" },
       { label: "Recruitment", value: "Job listings, eligibility, mobile apply, WhatsApp alerts to HR" },
       { label: "Lead follow-up", value: `Automated WhatsApp and email, from ${P.ai}` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your agency owns the domain, hosting, code, content and every enquiry and application the site receives. We work as invited users on your accounts during the build.`,
         `At handover you receive admin logins, domain and hosting access, the code repository, and a short recorded walkthrough showing office staff how to post a job, update licence dates, add a branch and upload a new profile PDF. Candidate applications go to your HR team, and buyer enquiries to your sales team; neither passes through our systems.`,
-        `The first five months after launch come with free maintenance: fixes, small changes and checks that forms still deliver. After that, maintenance is optional from ${P.care} a month. Longer-term terms are agreed in your written quote, and our <a href='/terms/'>terms page</a> explains the general position.`,
+        `The first two months after launch come with free maintenance: fixes, small changes and checks that forms still deliver. After that, maintenance is optional from ${P.care} a month. Longer-term terms are agreed in your written quote, and our <a href='/terms/'>terms page</a> explains the general position.`,
       ],
     },
     {
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
       ["Structure sign-off", "We share the sitemap, the quote form steps and the jobs flow, and your operations and HR heads confirm them before design begins."],
       ["Pages on a staging link", "Licence, service, industry and branch pages are designed and filled on a private link that your sales team can check against real buyer questions."],
       ["Test both funnels", "Sales submits a test RFQ and HR submits a test job application from a basic phone; we fix anything that is slow or confusing."],
-      ["Launch and hand over", `We connect the domain, verify Search Console, hand over all logins and record a guide for posting jobs and updating licence dates. Five months of free maintenance follow, then optional care from ${P.care}.`],
+      ["Launch and hand over", `We connect the domain, verify Search Console, hand over all logins and record a guide for posting jobs and updating licence dates. Two months of free maintenance follow, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Security agency website design: questions agency owners ask",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
     { question: "How do AI search tools choose which security agency to mention?", answer: "They draw on text they can read and check: licence details, services, industries, branches and consistent business information across the web. A site that states these facts plainly, with question-style headings and short answers, is easier to quote than one built on slogans and stock photos." },
     { question: "Who owns the website and the enquiries it collects?", answer: "Your agency does. Domain, hosting, code, content, buyer enquiries and job applications all sit in accounts registered in your agency’s name. At launch you receive the code repository and every admin login, so any future developer can take over without needing anything from us." },
     { question: "Can the website show our client list?", answer: "Only with each client’s written permission. Many corporate clients restrict vendors from naming them. Where you cannot name a client, describe the deployment instead, such as a round-the-clock warehouse security team with several posts, which still demonstrates experience honestly. Never display logos or names you have not been allowed to use." },
-    { question: "What happens after the security agency website goes live?", answer: `Maintenance is free for five months after launch: fixes, small changes and checks that forms still deliver. After that it is optional from ${P.care} a month. Office staff can post jobs, update licence dates and upload a new company profile from the admin panel without waiting for a developer.` },
+    { question: "What happens after the security agency website goes live?", answer: `Maintenance is free for two months after launch: fixes, small changes and checks that forms still deliver. After that it is optional from ${P.care} a month. Office staff can post jobs, update licence dates and upload a new company profile from the admin panel without waiting for a developer.` },
     { question: "How do I pay for the website?", answer: "Agencies in India pay by UPI or bank transfer, in stages tied to visible progress as set out in the written quote. Nothing is billed before you approve the itemised quote. Invoice details are agreed at quote stage, and our refund policy page explains the general position." },
     { question: "Can you sign an NDA before we share client and site details?", answer: "Ask us, and confidentiality terms can be discussed and written into your quote. For most security agency websites we do not need sensitive site details at all: service descriptions, permitted client names and photos that avoid layouts are enough. Anything sensitive you share is used only for the build." },
     { question: "Can the website connect to our guard management software?", answer: `If your software has an API, the site can show live figures you choose to share, such as active sites, or pass job applicants into your HR system. If you have no such software yet, custom guard management with rosters, patrol checks and billing starts at ${P.software}, built as a separate system.` },
@@ -443,7 +443,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to be the agency buyers can verify in two minutes?",
-    note: `Send your licence details, services and branches on WhatsApp. You will get an itemised quote in about two working days, with security agency websites from ${P.site}, every account in your agency’s name and five months of free maintenance after launch.`,
+    note: `Send your licence details, services and branches on WhatsApp. You will get an itemised quote in about two working days, with security agency websites from ${P.site}, every account in your agency’s name and two months of free maintenance after launch.`,
   },
 };
 

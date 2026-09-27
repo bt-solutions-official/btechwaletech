@@ -56,7 +56,7 @@ const mudhol: CityContent = {
     ai: "WhatsApp assistants that reply in Kannada about stock, rates and timings, and hand anything unusual back to you.",
     data: "Crushing-season dashboards showing loads per vehicle, factory payments pending and dealer credit outstanding.",
     app: "Android and iOS apps from ₹40,000 for cane crews to log trips or for dealer networks to reorder, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates and small edits.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates and small edits.",
   },
   whyUsIntro:
     "Business in Mudhol runs on trust built over years, often across two or three generations of the same family. We try to earn it the slow way: prices published in advance, a written itemised quote before any work, WhatsApp replies every day of the week, and your domain, code and app accounts registered in your own name from the start.",
@@ -178,7 +178,7 @@ const mudhol: CityContent = {
       paragraphs: [
         "At handover, a Mudhol client receives the following in their own name, not ours:",
         "Keeping all of this with you means no developer, us included, can lock you out of your own business later. If you ever want another team to take over, they can start the next day with everything they need.",
-        "For five months after launch, maintenance costs nothing. We take backups, apply security and version updates, change prices and photos when you ask, and check that forms, payments and WhatsApp links still work. After that, continuing is optional and starts at ₹8,000 a month.",
+        "For two months after launch, maintenance costs nothing. We take backups, apply security and version updates, change prices and photos when you ask, and check that forms, payments and WhatsApp links still work. After that, continuing is optional and starts at ₹8,000 a month.",
       ],
       list: [
         "The domain name, registered with your email address",
@@ -277,7 +277,7 @@ const mudhol: CityContent = {
     {
       question: "What maintenance do I get after my Mudhol website launches?",
       answer:
-        "The first five months after launch are free: backups, security and version updates, price and photo changes, and regular checks that forms, UPI payments and WhatsApp links work. After that you may continue from ₹8,000 a month, or take everything to another developer, since the code and accounts are already yours.",
+        "The first two months after launch are free: backups, security and version updates, price and photo changes, and regular checks that forms, UPI payments and WhatsApp links work. After that you may continue from ₹8,000 a month, or take everything to another developer, since the code and accounts are already yours.",
     },
     {
       question: "Do you also work in Lokapur, Mahalingapura and Jamakhandi?",

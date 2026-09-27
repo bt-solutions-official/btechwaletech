@@ -56,7 +56,7 @@ const tiptur: CityContent = {
     ai: "A WhatsApp helper that tells growers the latest auction rates in Kannada and passes bulk buyer enquiries to the owner.",
     data: "Auction-day dashboards of lots, rates, grower payouts and dispatch by buyer city.",
     app: "Android and iOS apps, from ₹40,000 on Google Play and the App Store, for growers to see their lot results or for a college's students to get notices.",
-    maintenance: "No maintenance fee for five months after launch; ongoing care starts at ₹8,000 per month if you want it.",
+    maintenance: "No maintenance fee for two months after launch; ongoing care starts at ₹8,000 per month if you want it.",
   },
   whyUsIntro:
     "Tiptur merchants have seen copra prices swing sharply and do not like paying for things that sit idle. So our starting prices are published, our quotes are split into clear lines, WhatsApp messages get answered all week, and domain, hosting, code and store accounts are opened in your name. If an idea is too costly for its return, we tell you straight.",
@@ -169,7 +169,7 @@ const tiptur: CityContent = {
       paragraphs: [
         "Without a Tiptur office, clear records are how we earn trust. The opening call is about your trade and your customers. After it, you get a written outline of pages or screens, stage-wise dates and a priced quote. Once you approve, a preview link lets you follow the build on your own phone. Our replies on WhatsApp come every day of the week in IST, and Kannada text is shown to you before it goes public.",
         "The domain, hosting, source code, Google listing and Play Store and App Store developer accounts are all registered to you, with passwords handed over in a written note. Nothing is billed before you approve the quote, and later payments match completed stages. <a href=\"/contact/\">Reach us here</a> to begin.",
-        "The first five months after launch carry no maintenance fee: updates, backups, security patches and checks on forms, payments and chat links are included. After that, you can continue from ₹8,000 per month or take the work elsewhere. Apps also receive the updates Google and Apple require each year so they stay listed.",
+        "The first two months after launch carry no maintenance fee: updates, backups, security patches and checks on forms, payments and chat links are included. After that, you can continue from ₹8,000 per month or take the work elsewhere. Apps also receive the updates Google and Apple require each year so they stay listed.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const tiptur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch carry no maintenance charge, covering edits, backups, patches and checks on forms and payment links. After that, care plans start at ₹8,000 per month and are optional. Your code belongs to you, so you can move it to any developer.",
+        "The first two months after launch carry no maintenance charge, covering edits, backups, patches and checks on forms and payment links. After that, care plans start at ₹8,000 per month and are optional. Your code belongs to you, so you can move it to any developer.",
     },
     {
       question: "Do you work in Honnavalli, Nonavinakere and Turuvekere too?",

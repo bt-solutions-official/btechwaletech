@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Free first consultation", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Malayalam-friendly builds"],
   },
   quickAnswer:
-    "BtechWaleTech provides freelance IT consulting and development for Kochi businesses: a free scoping call, then websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three remote engineers with no Kochi office, and maintenance is free for five months.",
+    "BtechWaleTech provides freelance IT consulting and development for Kochi businesses: a free scoping call, then websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three remote engineers with no Kochi office, and maintenance is free for two months.",
   snapshot: [
     { label: "Technology zones", value: "Infopark and SmartCity in Kakkanad, plus the KINFRA Hi-Tech Park and startup complex at Kalamassery" },
     { label: "Port and shipping", value: "Cochin Port on Willingdon Island, the Vallarpadam container terminal and Cochin Shipyard" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read shipping documents and invoices, answer customer questions on WhatsApp and prepare daily summaries for Kochi managers.",
     data: "Dashboards for Kochi owners that combine Tally, shipment and sales data, so containers, stock and receivables are visible in one view.",
     app: "Android and iOS apps from ₹40,000 for Kochi businesses, built once in Flutter or React Native and published on Google Play and the App Store, with Malayalam support.",
-    maintenance: "Post-launch care for Kochi websites and systems: updates, security patches, backups and monitoring, free for the first five months.",
+    maintenance: "Post-launch care for Kochi websites and systems: updates, security patches, backups and monitoring, free for the first two months.",
   },
   whyUsIntro:
     "Kochi has many software exporters but fewer partners focused on local businesses. We advise honestly, including telling you when not to build, and the three people you consult with are the engineers who deliver and support the work.",
@@ -216,7 +216,7 @@ const content: CityContent = {
       id: "project-timeline-kochi",
       heading: "What does a typical Kochi IT project look like week by week?",
       paragraphs: [
-        "A typical Kochi IT project runs through five phases: a free discovery call, a written plan and quote within about two working days, design and prototype review in the first one or two weeks, build in weekly increments, and launch with training and five months of free maintenance. The exact length depends on scope, from a week for a simple website to three months for custom software.",
+        "A typical Kochi IT project runs through five phases: a free discovery call, a written plan and quote within about two working days, design and prototype review in the first one or two weeks, build in weekly increments, and launch with training and two months of free maintenance. The exact length depends on scope, from a week for a simple website to three months for custom software.",
         "Take a distributor ordering portal as an example. Week one covers workflow mapping and screen prototypes that your sales staff can click through. Weeks two to five deliver product catalogue, retailer accounts, order placement and the admin view on a preview link, with changes folded in each week. Week six connects to Tally and imports customer data. Week seven is testing with a few friendly retailers. Week eight is launch, training and monitoring.",
         "The most common source of delay is waiting on inputs such as product lists, prices, photos and approvals. We agree on who provides what and by when at the start, and we flag early if a dependency is slipping, so launch dates stay realistic.",
       ],
@@ -234,7 +234,7 @@ const content: CityContent = {
       id: "support-handover-kochi",
       heading: "Support, maintenance and ownership after a Kochi project",
       paragraphs: [
-        "After a Kochi project launches, you own the code, domain, hosting and app store accounts, and you get five months of free maintenance covering bug fixes, updates, backups, security and speed checks. After that, support continues from ₹8,000 per month, or per task.",
+        "After a Kochi project launches, you own the code, domain, hosting and app store accounts, and you get two months of free maintenance covering bug fixes, updates, backups, security and speed checks. After that, support continues from ₹8,000 per month, or per task.",
         "We reply on WhatsApp, email and calls seven days a week. Issues that stop orders, bookings or shipments come first. Every change is recorded in a simple log so you know what was done and when.",
         "Handover documentation covers how the system is deployed, where data lives and how to restore backups, so your business is never dependent on us alone. Learn more about the team on the <a href='/about/'>about page</a> or explore the <a href='/india/kerala/'>Kerala overview</a> for other cities.",
       ],
@@ -328,7 +328,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included?",
       answer:
-        "Yes. Five months of maintenance are free after launch, covering fixes, updates, backups and security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
+        "Yes. Two months of maintenance are free after launch, covering fixes, updates, backups and security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
     },
     {
       question: "Can you integrate with Tally or our existing billing system?",

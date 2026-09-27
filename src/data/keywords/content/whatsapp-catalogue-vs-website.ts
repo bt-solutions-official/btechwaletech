@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "500", label: "Items a WhatsApp Business catalogue can hold" },
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "WhatsApp catalogue vs website: which one does a small seller need?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Product pages that rank", note: "Category and product pages written for the searches your customers type, with product schema and clean URLs.", href: "/services/seo-services/", size: "md" },
       { name: "WooCommerce or Shopify link-up", note: "Already have a store? We connect it to WhatsApp for order updates and cart reminders.", href: "/woocommerce-whatsapp-integration/", size: "sm" },
       { name: "Sales and enquiry tracking", note: "See which product pages lead to WhatsApp chats and which lead to paid orders.", href: "/conversion-tracking-setup/", size: "sm" },
-      { name: "Upkeep after launch", note: `Five free months of maintenance, then from ${P.care} if you want us to stay on.`, href: "/website-maintenance-charges/", size: "sm" },
+      { name: "Upkeep after launch", note: `Two free months of maintenance, then from ${P.care} if you want us to stay on.`, href: "/website-maintenance-charges/", size: "sm" },
     ],
   },
   comparison: {
@@ -185,7 +185,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The catalogue costs nothing to set up and a website costs money, but the running cost of the catalogue is your time. That time is the part most sellers undercount when they compare WhatsApp catalogue vs website cost.`,
         `Count what a chat-only order takes: answering “price?” and “available in blue?”, sending photos, confirming address, checking the payment, typing the tracking number, handling “not received yet”. If that is fifteen minutes per order and you do forty orders a week, it is ten hours a week of typing that a checkout and automatic messages would mostly absorb.`,
-        `On our side, a showcase site starts at ${P.site} (${P.siteUsd}), a full online store starts at ${P.shop} (${P.shopUsd}), and a large SEO catalogue site starts at ${P.seoSite}. Recurring costs are your domain, hosting, the payment gateway’s per-transaction fee and, after five free months, optional maintenance from ${P.care}. If you pick a hosted platform such as Shopify, add its monthly plan. The comparison on <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a> breaks these lines down further.`,
+        `On our side, a showcase site starts at ${P.site} (${P.siteUsd}), a full online store starts at ${P.shop} (${P.shopUsd}), and a large SEO catalogue site starts at ${P.seoSite}. Recurring costs are your domain, hosting, the payment gateway’s per-transaction fee and, after two free months, optional maintenance from ${P.care}. If you pick a hosted platform such as Shopify, add its monthly plan. The comparison on <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a> breaks these lines down further.`,
       ],
     },
     {
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Agree structure", "Together we fix categories, filters, variants, shipping zones and COD rules, and decide which conversations should still start on WhatsApp after launch."],
       ["Build and load products", "We design phone-first pages, import your spreadsheet and photos, and set up checkout with a gateway account in your own name. You review each page on your phone."],
       ["Test real orders", "We place test orders with UPI, cards and COD, check invoices and WhatsApp messages, and fix anything that confuses a first-time buyer before the site goes public."],
-      ["Launch and hand over", "The store goes live on your domain, you receive every login, and we show you how to add products and process orders. Five months of maintenance are free."],
+      ["Launch and hand over", "The store goes live on your domain, you receive every login, and we show you how to add products and process orders. Two months of maintenance are free."],
     ],
   },
   faqHeading: "WhatsApp catalogue vs website: questions sellers ask",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Can you add automatic WhatsApp order updates to my new store?", answer: "Yes. Using the official WhatsApp Business API, the store can send order confirmation, payment received, dispatch with tracking and delivery messages to the customer’s WhatsApp. Meta charges per delivered template message under its current pricing, and the integration is quoted as its own line alongside the store build." },
     { question: "Do I need GST registration to sell on my own website?", answer: "GST rules for online sellers depend on your turnover, product and where you sell, so confirm your position with your accountant. On the build side, if you are registered we set up tax-correct invoices with your GSTIN, and if you are not, the store can issue simple bills. We do not give tax advice." },
     { question: "WhatsApp catalogue kaafi hai ya website banwani chahiye?", answer: "Agar aapke customers pehle se aapka number jaante hain, products 500 se kam hain aur har payment aap khud check kar lete hain, to catalogue abhi kaafi hai. Jab naye customers Google se chahiye, orders zyada ho gaye hain ya payment match karna mushkil ho raha hai, tab website ya store banwana samajhdaari hai." },
-    { question: "What happens after the five free months of maintenance?", answer: `You choose. You can manage the store yourselves, hire anyone else, or keep us on with maintenance from ${P.care}. Maintenance covers updates, backups, small fixes and help with issues. The exact scope is written in your quote, and the terms page has the general conditions.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You choose. You can manage the store yourselves, hire anyone else, or keep us on with maintenance from ${P.care}. Maintenance covers updates, backups, small fixes and help with issues. The exact scope is written in your quote, and the terms page has the general conditions.` },
     { question: "Can you help if I already have a website but still sell mainly on WhatsApp?", answer: "Yes. Often the site exists but has no checkout, slow pages or no WhatsApp link from products. We review what you have and quote the smallest change that moves orders onto it, such as a cart-to-WhatsApp flow, a checkout, or product pages written for search, rather than rebuilding everything." },
     { question: "Can AI search tools recommend my WhatsApp catalogue?", answer: "Not directly. AI answer engines draw on public web pages, and a WhatsApp catalogue is not a public page they can read and quote. A website with clear product descriptions, prices, policies and structured data gives these tools something to cite when someone asks where to buy what you sell." },
   ],

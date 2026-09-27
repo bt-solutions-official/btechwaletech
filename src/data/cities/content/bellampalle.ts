@@ -55,7 +55,7 @@ const bellampalle: CityContent = {
     ai: "WhatsApp assistants that answer in Telugu, Hindi or English about fees, stock, timings and appointments, and pass real decisions to you.",
     data: "Dashboards of trips per vehicle, pending payments by client, admissions by month and stock movement by shop.",
     app: "Android and iOS apps for drivers to log trips or for coaching students to get notices and marks, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security work.",
   },
   whyUsIntro:
     "In a colliery town, people judge a service provider by whether the paperwork holds up. We keep ours simple: public starting prices, a written itemised quote, WhatsApp replies seven days a week, and your domain, hosting, source code and app store accounts registered in your name. If a feature is not worth paying for, we will say so before you spend on it.",
@@ -175,7 +175,7 @@ const bellampalle: CityContent = {
       heading: "Ownership and maintenance for Bellampalle websites and apps",
       paragraphs: [
         "Everything we build for you belongs to you. The domain is registered on your email address, the hosting account is in your name, you receive the complete source code, and your Google Business Profile and Google Play and Apple developer accounts are owned by you. At handover we give you a written sheet of every login, so nobody, us included, can lock you out later.",
-        "Maintenance is free for the first five months after launch. In that time we change prices and photographs, take backups, apply security and version updates, and check that forms, payment pages and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it in-house, or pass the code to another developer.",
+        "Maintenance is free for the first two months after launch. In that time we change prices and photographs, take backups, apply security and version updates, and check that forms, payment pages and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it in-house, or pass the code to another developer.",
         "Apps need an update at least once a year even when nothing is broken, because Google and Apple keep raising their minimum requirements. We watch those deadlines and ship the update early so your app is not removed from the store. For schools and coaching centres we also suggest a quick check before the admission season each year.",
       ],
     },
@@ -267,7 +267,7 @@ const bellampalle: CityContent = {
     {
       question: "What maintenance do you provide after the site goes live?",
       answer:
-        "For five months after launch, maintenance costs nothing: price and photo changes, backups, security patches and regular checks of forms, payments and WhatsApp buttons. After that you can continue from ₹8,000 a month or stop. Because the code and every account are already in your name, moving to another developer needs no permission from us.",
+        "For two months after launch, maintenance costs nothing: price and photo changes, backups, security patches and regular checks of forms, payments and WhatsApp buttons. After that you can continue from ₹8,000 a month or stop. Because the code and every account are already in your name, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you work in Mandamarri, Mancherial and Tandur too?",

@@ -56,7 +56,7 @@ const jammalamadugu: CityContent = {
     ai: "WhatsApp assistants that reply in Telugu to price, stock, room and timing questions and hand anything unusual to the owner.",
     data: "Dashboards of loads carried, dues by plant, room occupancy by month or patient footfall by village.",
     app: "Android and iOS apps from ₹40,000 for transport crews logging trips or Gandikota guesthouses taking bookings, published on Google Play and the App Store.",
-    maintenance: "No upkeep charge for the first five months after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "No upkeep charge for the first two months after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Jammalamadugu owners have heard many online promises and seen few kept. So we keep things checkable: starting prices in public, a written line-by-line quote, replies on WhatsApp all week, and the domain, hosting, code and app store accounts opened under your own name from the first day.",
@@ -168,7 +168,7 @@ const jammalamadugu: CityContent = {
       heading: "You own the site, the app and the logins",
       paragraphs: [
         "Everything we build for a Jammalamadugu client is registered to that client. The domain sits on your email, hosting is billed to you, the source code is handed over, and the Google Business Profile, Google Play console and Apple developer account list you as the owner. At the end you get one document with every login.",
-        "Maintenance is free for five months after launch. That covers price and photo changes, backups, security and version updates, and routine checks that forms, checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, manage things yourself, or give the code to another developer; no permission from us is needed.",
+        "Maintenance is free for two months after launch. That covers price and photo changes, backups, security and version updates, and routine checks that forms, checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, manage things yourself, or give the code to another developer; no permission from us is needed.",
         "Apps need an annual update even when nothing seems wrong, because Google and Apple keep raising minimum requirements. We track those deadlines so your listing does not get pulled. Read more about how we build on the <a href=\"/services/web-development/\">web development</a> and <a href=\"/it-services/android-ios-app/\">Android and iOS app</a> pages.",
       ],
     },
@@ -260,7 +260,7 @@ const jammalamadugu: CityContent = {
     {
       question: "What happens after my website or app goes live?",
       answer:
-        "The first five months of maintenance are free: small edits, backups, security updates and checks on forms, checkout and WhatsApp buttons. After that, continuing with us starts at ₹8,000 a month, but it is optional. Since the code and accounts are yours, you can move to anyone else at any time.",
+        "The first two months of maintenance are free: small edits, backups, security updates and checks on forms, checkout and WhatsApp buttons. After that, continuing with us starts at ₹8,000 a month, but it is optional. Since the code and accounts are yours, you can move to anyone else at any time.",
     },
     {
       question: "Do you work in Proddatur, Mylavaram and Yerraguntla too?",

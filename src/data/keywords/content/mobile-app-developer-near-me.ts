@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store accounts", "Registered in your name"],
     ["Test builds", "Installable on your phone every week"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app’s code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform fees added to your bill" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "6–10 weeks to the first store release" },
       { label: "Tech", value: "Flutter or React Native, one codebase for both platforms" },
       { label: "Meetings", value: "Video calls and WhatsApp, 7 days a week, IST" },
-      { label: "After launch", value: `5 months free support, then from ${P.care}` },
+      { label: "After launch", value: `2 months free support, then from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Starting budget", "Depends on office overheads", "Varies widely by seller", `Android + iOS from ${P.app}`],
       ["Fees on top", "Built into rates", "Platform service fee", "None beyond the quote"],
       ["If the lead developer leaves", "Studio reassigns someone", "Project stalls", "Two teammates already know the code"],
-      ["Updates after release", "Annual contract common", "Paid per fix", `5 months free, then from ${P.care}`],
+      ["Updates after release", "Annual contract common", "Paid per fix", `2 months free, then from ${P.care}`],
       ["Website, SEO and automation", "Sometimes", "Hire someone else", "Same three people"],
       ["Very large builds", "Can staff a big team", "Not suited", "Not suited to 20-developer projects"],
     ],
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       heading: "App developer kaise chunein? Aasaan bhasha mein",
       paragraphs: [
         `Sabse pehle developer se do-teen live apps ke Play Store links maangiye aur khud apne phone par install karke chalaiye. Sirf screenshots par bharosa mat kijiye.`,
-        `Play Console aur Apple Developer account apni business ke naam par banwaiye, developer ke naam par nahi. Developer ko sirf user ke roop mein add kijiye. Code bhi apne Git account mein rakhwaiye. Hamare saath Android aur iOS app ${P.app} se shuru hota hai, aam taur par 6–10 hafte lagte hain, aur release ke baad 5 mahine ka support free hai.`,
+        `Play Console aur Apple Developer account apni business ke naam par banwaiye, developer ke naam par nahi. Developer ko sirf user ke roop mein add kijiye. Code bhi apne Git account mein rakhwaiye. Hamare saath Android aur iOS app ${P.app} se shuru hota hai, aam taur par 6–10 hafte lagte hain, aur release ke baad 2 mahine ka support free hai.`,
       ],
     },
   ],
@@ -316,7 +316,7 @@ const content: FreelanceContent = {
         ["Web admin panel or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Staff dashboards, multi-role systems"],
         ["AI feature in an app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Chat help, document scanning"],
         ["Landing site for the app", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Store badges, support page, privacy policy"],
-        ["Ongoing support (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, small changes"],
+        ["Ongoing support (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, small changes"],
       ],
       hideSm: [2],
     },
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Create your store accounts", "You register Google Play Console and the Apple Developer Program in your business name, then invite us with limited roles. We guide you on a call."],
       ["Test builds every week", "Clickable wireframes first, then installable builds through internal testing and TestFlight. You comment by voice note or screenshot."],
       ["Submit and release", "We prepare listings, privacy details and reviewer logins, handle any rejection notes, and release from your accounts."],
-      ["Hand over and support", "Repository, keys and a release guide are handed over. Fixes and small changes are free for five months, then optional monthly care."],
+      ["Hand over and support", "Repository, keys and a release guide are handed over. Fixes and small changes are free for two months, then optional monthly care."],
     ],
   },
   faqHeading: "Mobile app developer near me: common questions",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Does the app need a website too?", answer: `Usually a small one. Both stores want a public privacy policy and support contact, and a landing page with store badges helps people find the app from Google. A light website starts at ${P.site} and can share branding and content with the app.` },
     { question: "How are payments made to a freelance app developer?", answer: "Payments are normally staged: an advance after the estimate is approved, instalments as builds reach your phone, and the balance at store release. BtechWaleTech takes UPI or bank transfer in India and Wise, bank wire or PayPal from abroad. Store fees go from you straight to Google and Apple." },
     { question: "Can you sign an NDA before I share my app idea?", answer: "Yes. BtechWaleTech signs a reasonable NDA before you share unreleased product details or customer data. That said, an idea on its own is rarely what gets copied; execution, users and data matter more. A short written scope with ownership terms protects you at least as much as the NDA." },
-    { question: "What support does an app need after launch?", answer: `Apps need yearly work to stay listed: new Android and iOS versions, rising target API levels, library updates and small fixes from user feedback. BtechWaleTech covers the first five months after release free. After that, monthly support starts at ${P.care}, or you can take the code to anyone you like.` },
+    { question: "What support does an app need after launch?", answer: `Apps need yearly work to stay listed: new Android and iOS versions, rising target API levels, library updates and small fixes from user feedback. BtechWaleTech covers the first two months after release free. After that, monthly support starts at ${P.care}, or you can take the code to anyone you like.` },
     { question: "Can a small business afford a mobile app?", answer: `Often yes, if the first version stays focused on one main job such as repeat ordering or bookings. Our Android and iOS plan starts at ${P.app}. If customers visit you rarely, a fast website with a WhatsApp button may bring better returns, and we will say so honestly.` },
     { question: "Mobile app developer near me dhoondh raha hoon, remote developer par bharosa kaise karein?", answer: "Developer se live apps ke Play Store links maangiye aur apne phone par install karke dekhiye. Play Console aur Apple account apne business ke naam par banwaiye aur developer ko sirf user banaiye. Code apne Git account mein rakhwaiye aur payment stages mein kijiye. In sab ke saath remote developer bhi utna hi surakshit hai jitna paas wala." },
     { question: "Do you visit clients in person?", answer: "No. BtechWaleTech works fully remotely, with video calls, screen-sharing sessions and WhatsApp messages seven days a week in IST. If regular in-person workshops with your staff are essential, a studio in your city will suit you better, and we would rather tell you that before you start." },
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a mobile app developer you can verify? Start with a brief",
-    note: `Send a short description of your app on WhatsApp. Within about two working days you will have an itemised estimate, with Android and iOS apps starting at ${P.app}, store accounts in your own name and five months of free support after release.`,
+    note: `Send a short description of your app on WhatsApp. Within about two working days you will have an itemised estimate, with Android and iOS apps starting at ${P.app}, store accounts in your own name and two months of free support after release.`,
   },
 };
 

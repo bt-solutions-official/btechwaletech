@@ -56,7 +56,7 @@ const panna: CityContent = {
     ai: "WhatsApp assistants that answer safari timings, room rates, temple darshan hours and clinic slots in Hindi and pass real decisions to you.",
     data: "Dashboards of bookings by season, enquiries by source and daily shop sales, readable on a phone.",
     app: "Android and iOS apps for tour operators to take safari and stay bookings or for schools to reach parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Panna businesses tend to work on relationships built over years, and many have been let down by a website nobody updated after the first month. We publish starting prices, send itemised written quotes, reply on WhatsApp every day, and put domain, hosting, code and app store accounts in your name from the start. If something will not pay back, we say so plainly.",
@@ -167,7 +167,7 @@ const panna: CityContent = {
       heading: "Ownership and maintenance for Panna websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Play and App Store accounts and business profile are registered in your name. We work through access you grant and can hand everything over quickly if you decide to change providers. This avoids the problem many small businesses face, where a former developer holds the only login.",
-        "Every launch includes five months of free maintenance: content updates, backups, security patches and regular checks of forms, payments and WhatsApp links. After that, maintenance continues from ₹8,000 a month if you want it, or you can manage things yourself.",
+        "Every launch includes two months of free maintenance: content updates, backups, security patches and regular checks of forms, payments and WhatsApp links. After that, maintenance continues from ₹8,000 a month if you want it, or you can manage things yourself.",
         "In Panna, maintenance also means seasonal changes: safari season rates and timings, monsoon closures of the park, festival schedules and new batches for coaching. Keeping these current is what makes customers trust the page.",
       ],
     },
@@ -253,7 +253,7 @@ const panna: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering content edits, backups, security updates and checks of forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or manage the site yourself, since every account is already in your name.",
+        "Two months of maintenance are free after launch, covering content edits, backups, security updates and checks of forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or manage the site yourself, since every account is already in your name.",
     },
     {
       question: "Do you also work in Ajaigarh, Pawai, Khajuraho and Satna?",

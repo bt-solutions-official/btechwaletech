@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who build and support it" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-tenant fees charged by us" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Utilities", value: "Sub-meter readings with photo, per-unit rate, common-area share" },
       { label: "Deposits", value: "Ledger from receipt to refund, with deductions explained" },
       { label: "Price", value: `App from ${P.app}; web platform from ${P.software}` },
-      { label: "After launch", value: `5 months free upkeep, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free upkeep, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Deposit history", "Memory and old receipts", "Often one number per tenant", "Full ledger from receipt to refund"],
       ["Flats and shops with different rules", "Two notebooks", "Usually built for one type", "Both, each with its own terms"],
       ["Tenant sees whose name", "Yours", "The app vendor's", "Yours, or your family firm's"],
-      ["Ongoing cost", "Your time", "Subscription, sometimes per unit", `Build from ${P.app}, upkeep from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Your time", "Subscription, sometimes per unit", `Build from ${P.app}, upkeep from ${P.care} after 2 free months`],
       ["Data sits with", "You, scattered", "The vendor", "Your own cloud account"],
       ["Sensible for", "Up to about 5 units", "Around 5 to 25 standard flats", "Mixed portfolios and growing landlords"],
     ],
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a landlord-side rent management app starts at ${P.app} (about ${P.appUsd}) and a web platform with owner dashboard, staff roles and tenant portal starts at ${P.software} (about ${P.softwareUsd}). Quotes from other developers vary widely, mainly because of scope, not because rent apps are mysterious.`,
         "Five things move the price most. The number of roles: an owner-only app is far simpler than owner, co-owners, caretakers, accountant and tenants. The mix of unit types: flats only versus flats plus shops with escalation. Sub-meter rules, especially shared meters. Migration of old tenants and deposits, which depends on how tidy your records are. And integrations, such as a WhatsApp Business number or an export for your CA.",
-        `After launch, the first five months of maintenance are free. From then on maintenance starts at ${P.care} a month, covering Android and iOS updates, small changes and fixes. Hosting and WhatsApp messaging are billed to your own accounts by the providers, so you see those costs directly.`,
+        `After launch, the first two months of maintenance are free. From then on maintenance starts at ${P.care} a month, covering Android and iOS updates, small changes and fixes. Hosting and WhatsApp messaging are billed to your own accounts by the providers, so you see those costs directly.`,
       ],
       after: [
         "A fuller breakdown of how custom software is priced sits on <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.",
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
         ["Web platform", "Owner dashboard, staff roles, shop leases, tenant portal, audit trail", `From ${P.software}`, `From ${P.softwareUsd}`],
         ["WhatsApp automation only", "Rent demands, reminders and receipts from your business number", `From ${P.ai}`, `From ${P.aiUsd}`],
         ["Listing website", "Vacant flats and shops with photos and an enquiry form", `From ${P.site}`, `From ${P.siteUsd}`],
-        ["Maintenance after 5 free months", "Updates, fixes, small changes, store releases", `From ${P.care}/month`, `From ${P.careUsd}/month`],
+        ["Maintenance after 2 free months", "Updates, fixes, small changes, store releases", `From ${P.care}/month`, `From ${P.careUsd}/month`],
       ],
       hideSm: [3],
     },
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
       ["Try the screens", "You and your caretaker click through the owner and caretaker screens on your own phones and tell us what feels slow or confusing."],
       ["Weekly builds", "Working versions arrive every week. Hosting, database and payment account are set up in your name, and reminder templates go for approval early."],
       ["Pilot month with real data", "We import units, tenants and deposits you have confirmed, run one full rent month alongside your old method and compare totals with the bank statement."],
-      ["Handover", "You get the code, logins, a short Hindi or English guide and recordings. Five months of free maintenance begin on launch day."],
+      ["Handover", "You get the code, logins, a short Hindi or English guide and recordings. Two months of free maintenance begin on launch day."],
     ],
   },
   faqHeading: "Rent management app: questions landlords ask",
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
     { question: "Is tenant data safe, and does the DPDP Act apply?", answer: "Tenant names, phone numbers and ID documents are personal data under India's Digital Personal Data Protection Act, 2023, whose Rules were notified in November 2025. We build role-based access, encrypted storage, logged document views and deletion schedules. Your privacy notice and retention periods should be approved by your own lawyer, because compliance remains your responsibility." },
     { question: "Freelance team or an agency for a rent management app?", answer: "For a landlord or family property office, a small freelance team is usually a good fit: the people you speak to build the app, and there is little overhead in the quote. An agency may suit a large real-estate business wanting many parallel projects. Either way, insist on ownership of code and data in your name." },
     { question: "Kiraya collect karne ke liye app banwana ho to kitna kharcha aata hai?", answer: `Landlord ke liye custom rent management app ${P.app} se shuru hota hai, aur owner dashboard wala web platform ${P.software} se. App har mahine tenant ko WhatsApp par UPI link bhejta hai, bijli ka bill sub-meter se banata hai aur deposit ka hisaab rakhta hai. Kaam shuru hone se pehle aapko itemised quote milta hai.` },
-    { question: "What happens after launch?", answer: `The first five months of maintenance are free, covering fixes and small adjustments. After that, maintenance starts at ${P.care} a month for Android and iOS updates, changes and support. Hosting and WhatsApp messaging are billed by those providers to your own accounts. The exact maintenance scope is written into your quote.` },
+    { question: "What happens after launch?", answer: `The first two months of maintenance are free, covering fixes and small adjustments. After that, maintenance starts at ${P.care} a month for Android and iOS updates, changes and support. Hosting and WhatsApp messaging are billed by those providers to your own accounts. The exact maintenance scope is written into your quote.` },
     { question: "How do I pay for the build?", answer: "Nothing is billed before you approve the written, itemised quote. Payments within India are by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Payment milestones are agreed in your quote, and our terms and refund policy pages set out the rest." },
   ],
   related: {
@@ -467,7 +467,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Letting several flats or shops? Send us your unit list",
-    note: `Message us on WhatsApp with how many units you let, how rent and electricity work today and who helps you collect. You will get an itemised quote in about two working days. A landlord rent management app starts at ${P.app}, rent settles straight into your account, and five months of maintenance come free after launch.`,
+    note: `Message us on WhatsApp with how many units you let, how rent and electricity work today and who helps you collect. You will get an itemised quote in about two working days. A landlord rent management app starts at ${P.app}, rent settles straight into your account, and two months of maintenance come free after launch.`,
   },
 };
 

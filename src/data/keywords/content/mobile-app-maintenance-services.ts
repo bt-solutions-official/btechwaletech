@@ -28,27 +28,27 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Mobile app maintenance services · Android and iOS",
     h1: "Mobile app maintenance services: what keeps an app working after launch, and what it costs",
-    lede: `Mobile app maintenance services keep a published Android or iOS app installable, stable and secure as phones, operating systems, store rules and third-party libraries change around it. BtechWaleTech is three freelance developers in India who maintain Flutter, React Native and native apps: yearly target API and SDK upgrades, crash monitoring, backend patches and store compliance. Apps we build get five months free; after that, plans start at ${P.care}. We also take over apps from developers who have moved on; for yearly budgets, see <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a>.`,
+    lede: `Mobile app maintenance services keep a published Android or iOS app installable, stable and secure as phones, operating systems, store rules and third-party libraries change around it. BtechWaleTech is three freelance developers in India who maintain Flutter, React Native and native apps: yearly target API and SDK upgrades, crash monitoring, backend patches and store compliance. Apps we build get two months free; after that, plans start at ${P.care}. We also take over apps from developers who have moved on; for yearly budgets, see <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a>.`,
     pills: ["Android target API upgrades", "iOS SDK and Xcode updates", "Flutter and React Native", "Crash and ANR monitoring", "Backend and API upkeep", "Store policy compliance", "Takeovers from other developers"],
     origin: "Three freelance developers in India · app upkeep led by Ankur Kumar · WhatsApp replies 7 days a week",
   },
   facts: [
     ["Plans from", `${P.care} · ${P.careUsd}`],
-    ["Free period", "5 months after launch on apps we build"],
+    ["Free period", "2 months after launch on apps we build"],
     ["Platforms", "Android, iOS, Flutter, React Native"],
     ["Server and API bills", "Paid by you, direct to providers"],
     ["Accounts and code", "Always in your name"],
     ["Taking over an app", "Code audit first, then a written quote"],
   ],
   stats: [
-    { value: "5", label: "Months of free maintenance after we launch your app" },
+    { value: "2", label: "Months of free maintenance after we launch your app" },
     { value: "2", label: "Store platforms we keep current" },
     { value: "3", label: "Freelance developers who know your code" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
     heading: "What do mobile app maintenance services include?",
-    text: `Mobile app maintenance services cover yearly Android and iOS compatibility updates, upgrading the SDKs and libraries the app depends on, monitoring and fixing crashes, patching the backend and APIs, keeping store listings and policy forms compliant, and small fixes. With BtechWaleTech, apps we build get five months free, then plans start at ${P.care}. Server and API bills are separate.`,
+    text: `Mobile app maintenance services cover yearly Android and iOS compatibility updates, upgrading the SDKs and libraries the app depends on, monitoring and fixing crashes, patching the backend and APIs, keeping store listings and policy forms compliant, and small fixes. With BtechWaleTech, apps we build get two months free, then plans start at ${P.care}. Server and API bills are separate.`,
     more: `For yearly budgets and the build-cost percentage rule, read <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a>; if your aim is more installs, see <a href='/rank-app-on-play-store/'>how to rank an app on the Play Store</a>.`,
   },
   snapshot: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Android yearly task", value: "Raise the target API level before Google Play’s deadline" },
       { label: "iOS yearly task", value: "Rebuild with the Xcode and SDK Apple currently requires" },
       { label: "Ongoing tasks", value: "Crash triage, library upgrades, backend patches, review of policy emails" },
-      { label: "Plan price", value: `From ${P.care} after 5 free months on apps we build` },
+      { label: "Plan price", value: `From ${P.care} after 2 free months on apps we build` },
       { label: "Paid separately", value: "Hosting, database, SMS/OTP, maps and store account fees" },
       { label: "Takeovers", value: "Audit of code, keys and accounts before a quote" },
     ],
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Mobile app maintenance services pricing",
-    note: `Apps we build include five months of free maintenance after launch. After that, plans start at ${P.care} (${P.careUsd} for clients abroad). The figure rises with the number of platforms, the size of the back end, how many third-party SDKs the app uses (payments, maps, chat, video) and how much change you want each month. For an app built by someone else, we audit the code first and quote after that, since an app two years behind on upgrades needs catch-up work before routine maintenance makes sense. Hosting, database, SMS and maps bills are paid by you directly to those providers. Nothing is billed before you approve the itemised quote.`,
+    note: `Apps we build include two months of free maintenance after launch. After that, plans start at ${P.care} (${P.careUsd} for clients abroad). The figure rises with the number of platforms, the size of the back end, how many third-party SDKs the app uses (payments, maps, chat, video) and how much change you want each month. For an app built by someone else, we audit the code first and quote after that, since an app two years behind on upgrades needs catch-up work before routine maintenance makes sense. Hosting, database, SMS and maps bills are paid by you directly to those providers. Nothing is billed before you approve the itemised quote.`,
   },
   guideLabel: "Mobile app maintenance services guide",
   guide: [
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       id: "monthly-cost",
       heading: "How much do mobile app maintenance services cost per month?",
       paragraphs: [
-        `With BtechWaleTech, mobile app maintenance services start at ${P.care} (${P.careUsd} abroad) after the five free months that come with apps we build. Across the market, quotes vary widely, so compare what each plan actually covers rather than the headline figure.`,
+        `With BtechWaleTech, mobile app maintenance services start at ${P.care} (${P.careUsd} abroad) after the two free months that come with apps we build. Across the market, quotes vary widely, so compare what each plan actually covers rather than the headline figure.`,
         `Four things drive the monthly figure. <strong>Platforms:</strong> one Android app is simpler than Android plus iOS, even with a shared Flutter or React Native codebase, because each store has its own deadlines and review process. <strong>Back end:</strong> an app that talks only to Firebase is lighter to maintain than one with a custom server, admin panel and several integrations. <strong>SDK count:</strong> each payment, maps, chat or video SDK is another thing that can break. <strong>Change volume:</strong> a plan that includes a few small changes a month costs less than one expecting weekly feature work.`,
         `For a yearly budget view, including the common percentage-of-build-cost rule and what it misses, read <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a>. For the full list of starting prices across services, see the <a href='/pricing/'>pricing page</a>.`,
       ],
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
       note: `Starting prices; your quote depends on platforms, back end and SDKs. Store fees are from Google Play and Apple documentation. See all plans on the <a href='/pricing/'>pricing page</a>.`,
       columns: ["Item", "Who bills it", "Starting point", "Notes"],
       rows: [
-        ["Maintenance plan (apps we built)", "BtechWaleTech", `Free for 5 months, then from ${P.care}`, `${P.careUsd} for clients abroad`],
+        ["Maintenance plan (apps we built)", "BtechWaleTech", `Free for 2 months, then from ${P.care}`, `${P.careUsd} for clients abroad`],
         ["Maintenance for an app built elsewhere", "BtechWaleTech", "Quoted after code audit", "May start with catch-up work"],
         ["New features or redesigns", "BtechWaleTech", "Quoted separately", "Approved before work starts"],
         ["Rebuild of an app beyond repair", "BtechWaleTech", `From ${P.app}`, `${P.appUsd} abroad; Android and iOS`],
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
   faqHeading: "Mobile app maintenance services: questions people ask",
   faqs: [
     { question: "What is included in mobile app maintenance services?", answer: "Yearly compatibility updates for new Android and iOS rules, upgrades to the framework and SDKs, crash and ANR monitoring with fixes, backend patches and backup checks, store policy form updates, security fixes and small changes such as text or prices. New features and redesigns are usually quoted separately. With BtechWaleTech, what your plan covers is listed in your written quote." },
-    { question: "How much do mobile app maintenance services cost per month?", answer: `Quotes vary widely, so compare what each plan covers. With BtechWaleTech, apps we build get five months free, then plans start at ${P.care}, or ${P.careUsd} for clients abroad. The figure rises with the number of platforms, the size of the back end, the number of third-party SDKs and how many changes you want each month.` },
+    { question: "How much do mobile app maintenance services cost per month?", answer: `Quotes vary widely, so compare what each plan covers. With BtechWaleTech, apps we build get two months free, then plans start at ${P.care}, or ${P.careUsd} for clients abroad. The figure rises with the number of platforms, the size of the back end, the number of third-party SDKs and how many changes you want each month.` },
     { question: "Why does my app need maintenance if it works fine?", answer: "Because the platforms around it keep changing. Google Play raises its target API requirement every year, Apple raises its minimum Xcode and SDK version, libraries retire old versions and servers need patches. An app that works today can become impossible to update or stop working on new phones within a year if nobody keeps it current." },
     { question: "What happens if I stop maintaining my Android app?", answer: "It keeps working for a while, then problems accumulate. Once it falls behind Google Play’s target API rules, it becomes unavailable to new users on devices running newer Android versions, and you cannot publish updates until it is brought current. Crashes on new devices can also push it over Android vitals thresholds, which may reduce its visibility on Google Play." },
     { question: "What is the current Android target API requirement?", answer: "According to Android’s developer documentation, from 31 August 2026 new apps and app updates on Google Play must target Android 16 (API level 36) or higher. Existing apps must target at least Android 15 (API level 35) to stay available to new users on newer Android versions. An extension to 1 November 2026 can be requested in Play Console." },

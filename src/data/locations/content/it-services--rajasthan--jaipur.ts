@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents answering catalogue, price, availability and booking questions in Hindi and English on WhatsApp, with hand-off to your staff for anything unusual.",
     data: "Dashboards for stock value, memos out, job-work pending, bookings and collections, pulled from Tally, sheets and your software.",
     app: "Android and iOS apps for Jaipur buyers, dealers, guests and field teams, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Monitoring, backups, updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Monitoring, backups, updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Jaipur has hundreds of IT firms and freelancers, from Mahindra World City campuses to one-person shops in Mansarovar. What many owners struggle to find is someone senior who listens, writes a clear scope, ships in testable steps and still answers after launch. That is how our three freelance engineers work.",
@@ -137,7 +137,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development in Jaipur starts at ₹40,000 with BtechWaleTech and takes six to ten weeks for a first release. We build one Flutter or React Native codebase and publish it on Google Play and the Apple App Store under your own accounts, with login, forms, push notifications, an admin panel and an API connected to your existing data.",
         "Useful apps in Jaipur tend to serve repeat users. Jewellers can give trusted retailers and export buyers a private catalogue app with new-arrival notifications and one-tap enquiry. Textile and block-print wholesalers can give boutique owners across India an app to browse designs, check stock by metre and reorder. Hotels near Amer Road and in the walled city can offer a booking and concierge app to repeat guests. Coaching centres in Malviya Nagar and Mansarovar can share schedules, test results and fee alerts. Service businesses can run field-staff apps for installation or delivery crews.",
-        "iPhone usage is high among Jaipur's export buyers, NRI customers and urban professionals, so publishing to both stores from a single build is usually worth it. When an app would rarely be opened, we recommend a fast mobile site instead. Five months of post-launch fixes are included."],
+        "iPhone usage is high among Jaipur's export buyers, NRI customers and urban professionals, so publishing to both stores from a single build is usually worth it. When an app would rarely be opened, we recommend a fast mobile site instead. Two months of post-launch fixes are included."],
       list: [
         "Private catalogue app for jewellery buyers",
         "Reorder app for fabric and home-textile wholesale",
@@ -179,14 +179,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and DevOps mean your software runs on managed servers with automated deployments, backups, monitoring and security updates, instead of on one office computer or a developer's personal account. For Jaipur jewellers and exporters holding sensitive data, getting this right matters as much as the software itself.",
         "We set up AWS or comparable hosting in your name, with separate staging and production environments, automated deployments that can be rolled back, daily database backups, SSL and uptime alerts. For startups, we add basic CI pipelines and logging so a future team inherits a tidy setup.",
-        "Maintenance is free for five months after launch, then from ₹8,000 a month or on request. We reply on WhatsApp seven days a week. Office hardware and networking remain with your local technician.",
+        "Maintenance is free for two months after launch, then from ₹8,000 a month or on request. We reply on WhatsApp seven days a week. Office hardware and networking remain with your local technician.",
       ],
     },
     {
       id: "cost-jaipur",
       heading: "How much do freelance software developers in Jaipur charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices in Jaipur are ₹60,000 for custom software or an MVP, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 after five free months.",
+        "BtechWaleTech's starting prices in Jaipur are ₹60,000 for custom software or an MVP, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 after two free months.",
         "Final cost depends on modules, users, integrations and data migration. A single-shop memo tracker is close to the starting price; a multi-location jewellery system with karigar tracking, catalogues and an app costs more. Quotes are itemised, so you can phase the build.",
         "Clients pay us in INR only, by UPI through our QR code or by direct bank transfer to our bank account, in milestones that follow working software you have reviewed.",
       ],
@@ -210,7 +210,7 @@ const content: CityContent = {
         "Step 1: free call about your workflow",
         "Step 2: written scope and itemised quote",
         "Step 3: staged build on a live preview",
-        "Step 4: launch, training, handover and five months of free maintenance",
+        "Step 4: launch, training, handover and two months of free maintenance",
       ],
     },
     {
@@ -232,7 +232,7 @@ const content: CityContent = {
       "id": "jaipur-running-costs",
       "heading": "What does software cost to run after launch in Jaipur?",
       "paragraphs": [
-        "After launch, a Jaipur business pays four kinds of running cost: the yearly domain renewal, hosting or cloud usage, third-party usage such as WhatsApp messaging or AI model calls, and optional support once the five free months end. Our build price covers the engineering; these recurring items are billed by each provider straight to accounts in your name, so every rupee is visible.",
+        "After launch, a Jaipur business pays four kinds of running cost: the yearly domain renewal, hosting or cloud usage, third-party usage such as WhatsApp messaging or AI model calls, and optional support once the two free months end. Our build price covers the engineering; these recurring items are billed by each provider straight to accounts in your name, so every rupee is visible.",
         "The domain is a small annual fee, and a static site for a Bapu Bazaar boutique or a tour desk near Hawa Mahal can often sit on a free or very low-cost hosting tier. A jewellery stock system with logins, a database and a photo of every piece needs a paid cloud server, and that bill rises with users, images and backups rather than with the number of pages. WhatsApp Business API messages are charged by Meta by conversation category, and AI replies are charged per request by the model provider, so a Johari Bazaar showroom will see a larger bill in the wedding season than in a quiet month.",
         "Apps bring store fees of their own. Google Play asks for a one-time developer registration, and the Apple Developer Program is a yearly membership; both are paid by you, in your own account, which also means the app listing can never be held hostage by a developer. After the free maintenance period, our support continues from ₹8,000 a month, or you can simply message us when a change is needed and pay for that job alone.",
         "We write these figures into the itemised quote, so a Sitapura exporter or a Malviya Nagar clinic knows the likely monthly spend before approving the build. The <a href='/pricing/'>pricing page</a> shows the starting prices for the build itself."
@@ -242,7 +242,7 @@ const content: CityContent = {
         "Hosting or cloud: free tier for simple sites, a monthly bill for software with a database",
         "WhatsApp and AI usage: pay as you go, higher in the wedding and tourist season",
         "App store accounts: one-time Google Play fee, yearly Apple membership",
-        "Our support: free for 5 months, then from ₹8,000 a month or per job"
+        "Our support: free for 2 months, then from ₹8,000 a month or per job"
       ]
     },
   ],
@@ -313,7 +313,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get?",
       answer:
-        "Five months of free maintenance after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month or you can pay per request. We reply on WhatsApp seven days a week.",
+        "Two months of free maintenance after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month or you can pay per request. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Is our stock and buyer data secure?",
@@ -340,7 +340,7 @@ const content: CityContent = {
       answer:
         "Yes. Websites start at ₹10,000, 299+ page SEO websites at ₹20,000 and online stores at ₹50,000. We usually connect them to your software or app so orders and enquiries land in one place.",
     },
-    { "question":"What will we pay every month after our Jaipur software goes live?","answer":"It depends on what is running. A simple website mostly needs a yearly domain renewal and low-cost hosting. Software with logins and a database adds a monthly cloud bill, and WhatsApp or AI features add usage charges billed by Meta or the model provider to your own account. Our maintenance is free for five months, then optional from ₹8,000 a month." },
+    { "question":"What will we pay every month after our Jaipur software goes live?","answer":"It depends on what is running. A simple website mostly needs a yearly domain renewal and low-cost hosting. Software with logins and a database adds a monthly cloud bill, and WhatsApp or AI features add usage charges billed by Meta or the model provider to your own account. Our maintenance is free for two months, then optional from ₹8,000 a month." },
     { "question":"Can you build a booking website for a Jaipur heritage hotel or tour desk?","answer":"Yes. A static website starts at ₹10,000 with rooms, packages and a WhatsApp enquiry button. A full booking system with live availability, advance payment through a payment gateway account in your own name, and guest records is custom software from ₹60,000. Itinerary pages about Amer Fort, City Palace and Nahargarh help travellers who research before they book." },
   ],
   nearby: ["ajmer", "sikar", "tonk", "alwar", "sawai-madhopur", "bharatpur", "jodhpur", "udaipur"],

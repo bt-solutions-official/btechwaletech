@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "0", label: "Cost of the WhatsApp Business app" },
     { value: "72", label: "Hours of free messaging after a click-to-WhatsApp ad reply" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "WhatsApp Business app vs API: which one does your business need?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Messages from your website or store", note: "Order, booking, payment and reminder messages sent automatically from Shopify, WooCommerce or your custom site.", href: "/woocommerce-whatsapp-integration/", size: "md" },
       { name: "Reminders from sheets or Tally", note: "Fee dues, renewals and outstanding statements triggered from Google Sheets or TallyPrime.", href: "/google-sheets-to-whatsapp/", size: "sm" },
       { name: "Payment reminders", note: "Polite, escalating reminders for unpaid invoices, stopped when payment lands.", href: "/whatsapp-payment-reminder-automation/", size: "sm" },
-      { name: "Upkeep", note: `Five months free after go-live, then from ${P.care} if you want us to stay on.`, href: "/website-maintenance-charges/", size: "sm" },
+      { name: "Upkeep", note: `Two months free after go-live, then from ${P.care} if you want us to stay on.`, href: "/website-maintenance-charges/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What moving from the app to the API costs",
-    note: `There are two separate bills. Meta charges per delivered template message by category, and replies inside an open customer service window are free; that bill depends on your volume, not on us. Our part is the one-time setup: direct Cloud API onboarding with a webhook service, message log and first templates starts at ${P.ai} and takes 2–4 weeks with integrations. A chatbot, shared inbox or connection to your store or CRM is listed as its own line in the quote. After go-live, five months of maintenance are free, then optional upkeep from ${P.care}. We add no margin to Meta’s charges.`,
+    note: `There are two separate bills. Meta charges per delivered template message by category, and replies inside an open customer service window are free; that bill depends on your volume, not on us. Our part is the one-time setup: direct Cloud API onboarding with a webhook service, message log and first templates starts at ${P.ai} and takes 2–4 weeks with integrations. A chatbot, shared inbox or connection to your store or CRM is listed as its own line in the quote. After go-live, two months of maintenance are free, then optional upkeep from ${P.care}. We add no margin to Meta’s charges.`,
   },
   guideLabel: "WhatsApp Business app vs API guide",
   guide: [
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a direct Cloud API setup with a webhook service, message log and first templates starts at ${P.ai} and usually takes 2–4 weeks including integrations. A bare onboarding can be done in days; most of the time goes into templates, bots and connecting your systems.`,
         `A typical sequence runs like this. In the first days we set up or verify your business portfolio, register the number and submit the display name. In the first week we write templates with you and submit them. In weeks two and three we build the webhook service, connect your website, store or CRM, and build any bot or inbox. The last days go into testing with real numbers, including opt-out handling, then going live with transactional messages first.`,
-        `Running costs are Meta’s message charges, paid directly to Meta, and a small hosting bill in your cloud account. We add no margin. After five months of free maintenance, upkeep is optional from ${P.care}. Larger projects, such as a full CRM with WhatsApp built in, start at ${P.software}.`,
+        `Running costs are Meta’s message charges, paid directly to Meta, and a small hosting bill in your cloud account. We add no margin. After two months of free maintenance, upkeep is optional from ${P.care}. Larger projects, such as a full CRM with WhatsApp built in, start at ${P.software}.`,
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Set up your account", "We create or verify your Meta business portfolio, register the number or connect it through coexistence, and keep admin and billing in your name."],
       ["Write and submit templates", "Together we write clear templates for orders, reminders and offers, choose categories honestly, and submit them for Meta’s approval."],
       ["Build and connect", "The webhook service goes into your cloud account, your website, store, CRM or sheets are connected, and any bot or inbox is built and tested."],
-      ["Go live and hand over", "Transactional messages go first, broadcasts follow once opt-ins are clean. You receive every login and five months of free maintenance."],
+      ["Go live and hand over", "Transactional messages go first, broadcasts follow once opt-ins are clean. You receive every login and two months of free maintenance."],
     ],
   },
   faqHeading: "WhatsApp Business app vs API: common questions",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to move from the app to the API?", answer: "A bare onboarding can take days. A useful setup, with templates approved, a webhook service, one integration and a simple bot, usually takes two to four weeks with us. Template approvals and the number of systems to connect are the main variables." },
     { question: "Who owns the WhatsApp Business account after setup?", answer: "You do. We create or connect the WhatsApp Business account inside your own Meta business portfolio, with admin access and billing in your name, and host the webhook service in your cloud account. If you ever change developers, nothing needs to be moved or requested from us." },
     { question: "WhatsApp Business app ya API, kaunsa lena chahiye?", answer: "Agar ek-do log phone pe saare chats aaram se sambhal lete hain aur kuch connect nahi karna, to free app kaafi hai. Agar chatbot chahiye, kai staff ek number pe reply karenge, website ya software se automatic message bhejne hain, ya hazaaron opted-in customers ko broadcast karna hai, to API lijiye." },
-    { question: "What happens after the five free months of maintenance?", answer: `You decide. Your team can run it, another developer can take over, or we continue with upkeep from ${P.care}. Maintenance covers template changes, keeping integrations working when Meta updates its platform, and small fixes, as written in your quote.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You decide. Your team can run it, another developer can take over, or we continue with upkeep from ${P.care}. Maintenance covers template changes, keeping integrations working when Meta updates its platform, and small fixes, as written in your quote.` },
     { question: "Can AI search and chat assistants answer questions about my business on WhatsApp?", answer: `An AI chatbot on the API can answer customer questions from your own information: prices, timings, policies and order status, with limits you set. It cannot see anything you have not given it. AI bot builds start at ${P.ai}, and we keep a human handover for anything sensitive or uncertain.` },
   ],
   related: {

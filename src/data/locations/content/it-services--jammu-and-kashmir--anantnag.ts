@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that answer booking, price and order questions on WhatsApp in English, Hindi or Urdu and hand serious leads to the owner with a summary.",
     data: "Dashboards for crates stored, lots sold, bats produced, rooms booked and payments pending, fed from spreadsheets or the systems we build.",
     app: "Android and iOS apps from ₹40,000 for Anantnag orchard supervisors, bat dealers, delivery riders and Pahalgam guests, built in Flutter or React Native and published on both stores.",
-    maintenance: "Five months of free maintenance after launch, then monthly support from ₹8,000 for fixes, backups, updates and speed checks.",
+    maintenance: "Two months of free maintenance after launch, then monthly support from ₹8,000 for fixes, backups, updates and speed checks.",
   },
   whyUsIntro:
     "Few developers understand south Kashmir's calendar of harvest, yatra and winter. BtechWaleTech is three engineers who plan builds around it, talk to you directly on WhatsApp, and register the domain, hosting and code in your name.",
@@ -157,7 +157,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting keeps an Anantnag business's website and software on data-centre servers with daily backups, so power cuts, snow and failed office computers do not wipe out records. Dashboards on top of that data give owners a morning view of sales, stock, bookings and dues without calling anyone.",
         "We deploy on AWS, DigitalOcean or similar providers with SSL, uptime monitoring and security updates, and every account is registered to you. Dashboards pull from Tally exports, Google Sheets or the software we build, and open on a phone. Typical views show crates in storage by variety, bats produced per week, occupancy across the season, and outstanding payments.",
-        "The first five months of maintenance after launch are free. After that, support starts from ₹8,000 a month, or you can contact us only when needed. We reply on WhatsApp every day of the week.",
+        "The first two months of maintenance after launch are free. After that, support starts from ₹8,000 a month, or you can contact us only when needed. We reply on WhatsApp every day of the week.",
       ],
     },
     {
@@ -200,7 +200,7 @@ const content: CityContent = {
       heading: "When is the best time to start a software project in south Kashmir?",
       paragraphs: [
         "The best time for most Anantnag businesses to start a software project is during their quiet months: late autumn and winter for tourism businesses, spring and early summer for apple traders and cold stores, and the off-season for bat makers before the cricket-buying rush. That leaves time to test before the busy period arrives.",
-        "Our process stays the same whatever the season: discovery call, written scope and itemised quote, agreed screens, weekly builds you can test, staff training over video, and launch followed by five months of included maintenance. Content such as photos, rate cards and product lists is the most common cause of delay, so we agree a checklist and one decision-maker at the start.",
+        "Our process stays the same whatever the season: discovery call, written scope and itemised quote, agreed screens, weekly builds you can test, staff training over video, and launch followed by two months of included maintenance. Content such as photos, rate cards and product lists is the most common cause of delay, so we agree a checklist and one decision-maker at the start.",
         "To begin, send a short description of your problem on WhatsApp or through our <a href='/contact/'>contact page</a>.",
       ],
     },
@@ -274,7 +274,7 @@ const content: CityContent = {
     },
     {
       question: "What happens after the software goes live?",
-      answer: "The first five months of maintenance are free, covering bug fixes, small content updates, security and dependency updates, backups, and uptime and speed checks. After that you can choose monthly support from ₹8,000 or contact us only when needed. We answer on WhatsApp seven days a week.",
+      answer: "The first two months of maintenance are free, covering bug fixes, small content updates, security and dependency updates, backups, and uptime and speed checks. After that you can choose monthly support from ₹8,000 or contact us only when needed. We answer on WhatsApp seven days a week.",
     },
     {
       question: "How soon will SEO bring customers to a Pahalgam hotel website?",

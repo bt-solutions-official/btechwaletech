@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Custom WebGL app from", `${P.software} · ${P.softwareUsd}`],
     ["Libraries", "Three.js, React Three Fiber, drei, GSAP"],
     ["Asset formats", "glTF / GLB with Draco or meshopt"],
-    ["Support after launch", "5 months free, then from " + P.care],
+    ["Support after launch", "2 months free, then from " + P.care],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your Three.js build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -86,7 +86,7 @@ const content: FreelanceContent = {
       ["Skills covered", "One person’s strengths", "Varies hugely by profile", "3D front end, backend, cloud and project management across three people"],
       ["Mobile performance", "Depends on the hire", "Often demo-quality only", "GPU budget and fallback written into the scope"],
       ["Model preparation", "May need a separate artist", "Sometimes excluded", "GLB clean-up and compression quoted as its own line"],
-      ["Continuity", "Good while they stay", "Risk if the freelancer moves on", "Three people know the codebase; 5 months free fixes"],
+      ["Continuity", "Good while they stay", "Risk if the freelancer moves on", "Three people know the codebase; 2 months free fixes"],
       ["Ownership", "Yours by employment", "Check the platform terms", "Code, models and accounts in your name from day one"],
       ["Platform fees", "None, but salary and overheads", "Marketplace service fees apply", "0 platform fees; direct milestone payments"],
       ["Best for", "Products where 3D is the core, long term", "Short, well-defined tasks", "Scoped 3D features that must ship and stay fast"],
@@ -256,7 +256,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should own the source code repository, every original and optimised model file, the texture sources, the build scripts and the hosting account. If any of those sit only on the developer’s laptop, you do not really own the scene.`,
         `3D projects have more moving parts than a normal site. Beyond the code, ask for the optimisation settings used for each model (so the next person can re-export a changed product the same way), the environment maps and HDR files, the list of third-party libraries with their licences, and a short README explaining how to run and deploy the project.`,
-        `We work inside repositories and hosting accounts created in your name from day one, so there is nothing to transfer at the end. After launch you get five months of free maintenance for fixes; after that, ongoing care starts at ${P.care}. If a question comes up about licences for purchased models or fonts, we flag it early; the purchase itself should be in your name.`,
+        `We work inside repositories and hosting accounts created in your name from day one, so there is nothing to transfer at the end. After launch you get two months of free maintenance for fixes; after that, ongoing care starts at ${P.care}. If a question comes up about licences for purchased models or fonts, we flag it early; the purchase itself should be in your name.`,
       ],
       list: [
         "Git repository with full history, in your organisation",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
       ["Itemised quote in two days", "You get every line priced separately, including model clean-up, fallbacks and testing. Nothing is billed until you approve the quote in writing."],
       ["Greybox on staging", "A rough interactive scene with placeholder lighting on a link you can open on your own phone, so interaction and camera paths are settled early."],
       ["Build, polish and device testing", "Materials, UI overlays, loading order, accessibility and analytics, tested on real low-end and mid-range phones before you see the final version."],
-      ["Launch and five months of care", "We deploy to your hosting, hand over the repository and model notes, and fix issues free for five months after launch."],
+      ["Launch and two months of care", "We deploy to your hosting, hand over the repository and model notes, and fix issues free for two months after launch."],
     ],
   },
   faqHeading: "Questions people ask before they hire a Three.js developer",
@@ -434,7 +434,7 @@ const content: FreelanceContent = {
     { question: "What happens if the scene does not run on some phones?", answer: "That should be planned, not discovered. We agree the lowest supported device in the brief and build a fallback for anything below it: a lighter model, fewer effects, or a still image gallery with the same information. Visitors on older phones still see the product and can still enquire or buy." },
     { question: "Can you add 3D to my Shopify or WordPress site?", answer: "Yes. For Shopify, product media already supports 3D models, and a custom Three.js section can be added to a theme when you need more interaction. On WordPress, the scene is added as a block or template part that loads only on the pages that use it. Either way, your team keeps editing text and prices in the normal admin." },
     { question: "What payment terms do you use for a Three.js build?", answer: "Work is split into milestones listed in the itemised quote, and nothing is billed before you approve that quote in writing. Clients in India pay by UPI or bank transfer; overseas clients pay in USD through Wise, bank wire or PayPal. Refund and cancellation details are covered in our refund policy and your written quote." },
-    { question: "Do you provide maintenance after launch?", answer: `Yes. Every build includes five months of free maintenance after launch for fixes and small adjustments. After that, ongoing care starts at ${P.care}, covering library updates, browser changes, re-exporting changed models and small feature tweaks. Three.js releases change APIs from time to time, so a scene that nobody updates slowly drifts out of date.` },
+    { question: "Do you provide maintenance after launch?", answer: `Yes. Every build includes two months of free maintenance after launch for fixes and small adjustments. After that, ongoing care starts at ${P.care}, covering library updates, browser changes, re-exporting changed models and small feature tweaks. Three.js releases change APIs from time to time, so a scene that nobody updates slowly drifts out of date.` },
     { question: "Three.js developer kaise hire karein?", answer: "Sabse pehle apne phone par developer ke live links kholkar dekhiye ki page kitni jaldi chalta hai aur 3D atakta toh nahi. Phir apna ek model dekar chhota paid test karwaiye aur file size pehle aur baad mein poochiye. Humse WhatsApp par brief aur ek model bhejiye, do working days mein itemised quote mil jayega, bina approval ke koi bill nahi." },
   ],
   related: {

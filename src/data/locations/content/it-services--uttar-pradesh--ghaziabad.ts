@@ -36,7 +36,7 @@ const content: CityContent = {
     h1: "Freelance software developers for Ghaziabad manufacturers, traders and service firms",
     lede:
       "BtechWaleTech is a freelance group of three engineers providing IT solutions to Ghaziabad, working remotely from India. We build production and dispatch software for units in Sahibabad and Meerut Road, lead capture and CRM automation for B2B sellers, AI and WhatsApp agents, Android and iOS apps, dashboards, cloud hosting and SEO, with every account kept in your name.",
-    pills: ["Custom software from ₹60,000", "Lead capture and CRM automation", "Android and iOS apps from ₹40,000", "Websites from ₹10,000", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Lead capture and CRM automation", "Android and iOS apps from ₹40,000", "Websites from ₹10,000", "2 months free maintenance"],
   },
   quickAnswer:
     "In Ghaziabad, BtechWaleTech, a freelance group of three remote engineers, builds custom software and B2B portals from ₹60,000 (six to twelve weeks), AI and WhatsApp automation from ₹40,000 (two to four weeks), Android and iOS apps from ₹40,000 (six to ten weeks) and websites from ₹10,000. Quotes are itemised within about two working days.",
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read RFQ emails and WhatsApp enquiries, extract specifications, create CRM leads and draft replies for your sales team.",
     data: "Dashboards for plant output, order status, receivables and sales pipeline, updated automatically for owners and managers.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store, for Ghaziabad sales teams, drivers, technicians and township customers.",
-    maintenance: "Bug fixes, updates, backups and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Bug fixes, updates, backups and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Ghaziabad owners can choose from Delhi and Noida IT companies or local freelancers, and often end up with an expensive retainer or a vanished developer. We are three engineers you message directly, with published starting prices and your repository, hosting and domain in your name.",
@@ -143,7 +143,7 @@ const content: CityContent = {
       paragraphs: [
         "Dashboards give Ghaziabad owners one screen showing orders in progress, dispatches, receivables, lead pipeline and plant output, while cloud hosting keeps the underlying data secure and reachable from anywhere. BtechWaleTech includes hosting on AWS or a similar provider in your name in every project, with SSL, daily backups and uptime monitoring.",
         "Many Ghaziabad firms still keep critical data on one office server or desktop in the factory. A power surge, a failed disk or ransomware can stop operations for days. Moving to managed cloud hosting with automated backups removes that single point of failure, and staging environments let us test changes before your staff see them.",
-        "We design dashboards around the questions you ask weekly, such as which customers are overdue, which orders are late or which products sell fastest, and make every figure traceable to its source entries. Maintenance is free for five months after launch, then from ₹8,000 a month.",
+        "We design dashboards around the questions you ask weekly, such as which customers are overdue, which orders are late or which products sell fastest, and make every figure traceable to its source entries. Maintenance is free for two months after launch, then from ₹8,000 a month.",
       ],
     },
     {
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "ghaziabad-cost",
       heading: "What do IT services cost in Ghaziabad?",
       paragraphs: [
-        "IT services in Ghaziabad with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Ghaziabad with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months.",
         "Scope drives the final figure. A lead capture automation for one sales team is near the starting price; a multi-stage production system with job-work tracking, supervisor apps and dashboards costs more. You receive an itemised quote within about two working days and can remove any line. See all plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
@@ -210,7 +210,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech works with Ghaziabad clients entirely online, through WhatsApp, calls, video meetings and a private staging link. We have no office in Ghaziabad or elsewhere in the NCR, we reply seven days a week, and we send itemised quotes within about two working days.",
         "You can share photos of job cards, challans and registers, or voice notes in Hindi, and we turn them into a written scope. Payment is in INR only, by scanning our UPI QR code or by direct bank transfer to our bank account, split into milestones tied to work you can test.",
-        "At handover you receive the source code, domain, hosting and app store access, an admin guide and a recorded walkthrough for your team, followed by five months of free maintenance. For nearby markets, see website guides for <a href=\"/loni/\">Loni</a>, <a href=\"/modinagar/\">Modinagar</a>, <a href=\"/hapur/\">Hapur</a> and <a href=\"/meerut/\">Meerut</a>.",
+        "At handover you receive the source code, domain, hosting and app store access, an admin guide and a recorded walkthrough for your team, followed by two months of free maintenance. For nearby markets, see website guides for <a href=\"/loni/\">Loni</a>, <a href=\"/modinagar/\">Modinagar</a>, <a href=\"/hapur/\">Hapur</a> and <a href=\"/meerut/\">Meerut</a>.",
       ],
     },
   ],
@@ -280,7 +280,7 @@ const content: CityContent = {
     {
       question: "What happens after launch?",
       answer:
-        "Five months of maintenance are free: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance are free: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How long does SEO take in Ghaziabad?",

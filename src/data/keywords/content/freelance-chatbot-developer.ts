@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["API and Meta accounts", "Opened in your name"],
     ["Running costs", "Paid by you directly, no markup"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on design, AI and integration" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free tuning after launch" },
+    { value: "2", label: "Months of free tuning after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Build time", value: "2–4 weeks" },
       { label: "Languages", value: "English, Hindi, Hinglish; others on request" },
       { label: "Handover", value: "Live agent takeover with full chat history" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,13 +90,13 @@ const content: FreelanceContent = {
       ["CRM, sheets and booking systems", "Pre-built connectors only", "Case by case", "Custom API integration where needed"],
       ["Who owns prompts, flows and data", "Stored in the vendor’s platform", "Check the gig terms", "Your accounts and your repository"],
       ["Human handover", "Basic", "Varies", "Designed per team, with chat history"],
-      ["Tuning after launch", "Your job", "Paid per revision", "5 months free, based on real transcripts"],
+      ["Tuning after launch", "Your job", "Paid per revision", "2 months free, based on real transcripts"],
     ],
     fine: "If you only need five fixed questions answered and have time to click through a builder, a no-code tool can be the cheaper choice; custom work pays off when accuracy, integrations or data control matter.",
   },
   pricing: {
     heading: "Chatbot pricing: build cost and running cost are separate",
-    note: `Two numbers matter with any chatbot. The build cost, paid once, covers conversation design, the bot itself, integrations, testing and launch; our chatbot projects start at ${P.ai}. The running cost, paid monthly to providers, covers AI model usage (charged per token by the model provider), WhatsApp template messages (charged per message by Meta) and hosting. We estimate running costs from your expected chat volume before you approve anything, set usage limits in your accounts, and bill none of it through us. Maintenance after the free five months starts at ${P.care}.`,
+    note: `Two numbers matter with any chatbot. The build cost, paid once, covers conversation design, the bot itself, integrations, testing and launch; our chatbot projects start at ${P.ai}. The running cost, paid monthly to providers, covers AI model usage (charged per token by the model provider), WhatsApp template messages (charged per message by Meta) and hosting. We estimate running costs from your expected chat volume before you approve anything, set usage limits in your accounts, and bill none of it through us. Maintenance after the free two months starts at ${P.care}.`,
   },
   guideLabel: "Freelance chatbot developer guide",
   guide: [
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
         ["Custom CRM or dashboard behind the bot", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Leads, follow-ups, reports"],
         ["App with in-app chat assistant", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Android and iOS from one codebase"],
         ["Store with order-status bot", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, UPI and card checkout"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Transcript review, content updates, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Transcript review, content updates, fixes"],
       ],
       hideSm: [2],
     },
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the AI provider and Meta business accounts, or we do it with you on a call, and add us as users so usage bills go straight to you."],
       ["Try the bot before customers do", "A test link or test WhatsApp number lets your staff ask real and tricky questions. We fix wrong answers and rerun the full test set."],
       ["Go live with handover in place", "The bot launches with human takeover, working-hours messages and lead routing set up, often on part of the traffic first."],
-      ["Five months of free tuning", "We review transcripts, update content and adjust flows for five months at no charge. Afterwards, maintenance starts from " + P.care + " if you want it."],
+      ["Two months of free tuning", "We review transcripts, update content and adjust flows for two months at no charge. Afterwards, maintenance starts from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Freelance chatbot developer: common questions",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "Do I need a website to have a chatbot?", answer: `No. A WhatsApp bot works without any website. But a website chat widget catches visitors while they are reading about you, and both can share one knowledge base. If you need a site to host the widget, business websites start at ${P.site} and launch in 1–2 weeks.` },
     { question: "How do I measure if my chatbot is worth it?", answer: "Track the share of conversations resolved without staff, leads and bookings created, handover rate, reply time and running cost per conversation. Compare these with the staff time the bot saves. We set up a simple dashboard and review it with you monthly during the five free maintenance months after launch." },
     { question: "Can I hire a freelance chatbot developer in India from abroad?", answer: `Yes. Chatbot projects are fully remote. BtechWaleTech works with clients in the USA, UK, UAE, Australia and elsewhere, billed in USD with chatbot projects starting at ${P.aiUsd}. Payment is by Wise, bank wire or PayPal, and we schedule calls in overlapping working hours.` },
-    { question: "Chatbot banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath chatbot project ${P.ai} se shuru hota hai aur 2–4 hafte mein live ho jaata hai. AI model aur WhatsApp messages ka monthly kharcha alag hota hai, jo seedha aapke account se provider ko jaata hai. Launch ke baad 5 mahine tak hum bot ko free mein tune karte hain.` },
+    { question: "Chatbot banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath chatbot project ${P.ai} se shuru hota hai aur 2–4 hafte mein live ho jaata hai. AI model aur WhatsApp messages ka monthly kharcha alag hota hai, jo seedha aapke account se provider ko jaata hai. Launch ke baad 2 mahine tak hum bot ko free mein tune karte hain.` },
     { question: "How do payments work for a chatbot project?", answer: "Payments are staged against visible progress, such as an advance to start and the balance after testing and launch. In India we accept UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. The stages are written into the itemised quote you approve, and nothing is billed before that approval." },
   ],
   related: {
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a chatbot that answers correctly?",
-    note: `Send us your 20 most common customer questions on WhatsApp. You will get a recommended bot type, an itemised quote and a running-cost estimate in about two working days, with chatbot projects starting at ${P.ai} and five months of free tuning after launch.`,
+    note: `Send us your 20 most common customer questions on WhatsApp. You will get a recommended bot type, an itemised quote and a running-cost estimate in about two working days, with chatbot projects starting at ${P.ai} and two months of free tuning after launch.`,
   },
 };
 

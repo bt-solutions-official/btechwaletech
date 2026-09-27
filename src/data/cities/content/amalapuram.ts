@@ -56,7 +56,7 @@ const amalapuram: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer rates, stock, appointment and admission questions and pass real decisions to you.",
     data: "Dashboards of loads dispatched, dues by buyer, pond-wise feed costs and admissions, readable on one phone screen.",
     app: "Android and iOS apps for aqua farm supervisors to log feed and water readings or for colleges to send results, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Konaseema families are careful with money and quick to compare. We publish starting prices, send written itemised quotes, reply on WhatsApp every day of the week, and register your domain, hosting, code and app store accounts in your own name. If a feature is not worth the spend, we tell you before you pay for it.",
@@ -169,7 +169,7 @@ const amalapuram: CityContent = {
       heading: "Your accounts, your code: ownership and upkeep in Amalapuram",
       paragraphs: [
         "The site, the app and every account behind them are yours. We register the web address against your email, put the hosting invoice in your name, give you the complete source, and set you as owner on Google Business Profile, the Play Console and Apple's developer programme. A handover document lists each password, which means nobody, ourselves included, can later keep you out.",
-        "Five months of upkeep after launch cost nothing. In that period we change rates and pictures, run backups, install security and platform updates and test the forms, checkout and WhatsApp buttons from time to time. Once it ends, carry on with us at ₹8,000 a month onwards, run it with your own staff, or pass the code to any other developer.",
+        "Two months of upkeep after launch cost nothing. In that period we change rates and pictures, run backups, install security and platform updates and test the forms, checkout and WhatsApp buttons from time to time. Once it ends, carry on with us at ₹8,000 a month onwards, run it with your own staff, or pass the code to any other developer.",
         "Google and Apple lift their minimum technical requirements every year, so an app needs a refresh annually even if it works perfectly. We watch those cut-off dates and release the refresh ahead of them, keeping your listing in the store. The <a href=\"/services/web-development/\">web development page</a> explains handover and hosting further.",
       ],
     },
@@ -261,7 +261,7 @@ const amalapuram: CityContent = {
     {
       question: "What happens after launch, and who maintains the site?",
       answer:
-        "For five months after going live, upkeep is on us at no charge: rate and photo changes, backups, security updates and periodic tests of forms, checkout and WhatsApp buttons. Later you can keep us on from ₹8,000 a month, look after it in-house or hand it to someone else, with no permission needed from us.",
+        "For two months after going live, upkeep is on us at no charge: rate and photo changes, backups, security updates and periodic tests of forms, checkout and WhatsApp buttons. Later you can keep us on from ₹8,000 a month, look after it in-house or hand it to someone else, with no permission needed from us.",
     },
     {
       question: "Do you work in Razole, Mummidivaram and Kothapeta too?",

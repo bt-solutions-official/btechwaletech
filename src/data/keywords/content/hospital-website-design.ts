@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "3–5 weeks for a department-rich site"],
     ["OPD booking", "Request, slot or HIS-synced"],
     ["Quote", "Itemised in about 2 working days"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers covering build, data and hosting" },
     { value: "299+", label: "Pages the SEO website plan is built for" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
     { value: "0", label: "Middleman or platform fees on your project" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Patient portal or HIS sync", value: `Custom build from ${P.software}` },
       { label: "Teleconsult", value: "Booking plus video link, following Telemedicine Practice Guidelines" },
       { label: "Emergency", value: "Sticky call button, ambulance number, directions to casualty" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       heading: "How to choose a hospital website design partner, and who owns the result?",
       paragraphs: [
         `Choose the builder who asks about your OPD flow, HIS and approval chain before showing designs. Ask for live links to data-heavy sites, ask how doctor schedules will be kept current, and ask what happens to the website if you change HIS vendor.`,
-        `Ownership should be explicit: the domain, hosting, code and all booking data belong to the hospital, in the hospital’s accounts. We set these up in your name, hand over the repository and admin access at launch, document every paid service with its renewal date and give your IT team what they need to run the site without us. Small edits and fixes are free for five months; after that care is optional from ${P.care} a month.`,
+        `Ownership should be explicit: the domain, hosting, code and all booking data belong to the hospital, in the hospital’s accounts. We set these up in your name, hand over the repository and admin access at launch, document every paid service with its renewal date and give your IT team what they need to run the site without us. Small edits and fixes are free for two months; after that care is optional from ${P.care} a month.`,
       ],
       list: [
         "Red flag: the website only works while you pay for a particular vendor’s software",
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to illustrate the process, not a client story. Say a 60-bed hospital in Raipur with eight departments and 25 doctors has an outdated site, runs OPD by token, and wants fewer “is the doctor coming today?” calls.`,
         `We would propose the SEO website plan from ${P.seoSite}: eight department pages, around 30 condition and procedure pages to start, 25 doctor profiles fed from a spreadsheet, packages, cashless information, visitor information and an emergency page, with Hindi versions of the emergency, OPD and cashless pages. Booking would be token pre-registration: patients choose department and doctor, verify by OTP and receive a WhatsApp slip; the counter still calls tokens in order.`,
-        `A doctor-leave field in the spreadsheet would hide that doctor’s sessions automatically and show a note on their profile. In phase two, once the HIS vendor confirms its API, a custom adapter from ${P.software} would write pre-registrations directly into the HIS. The hospital would own every account, and the first five months of edits would be covered by free maintenance.`,
+        `A doctor-leave field in the spreadsheet would hide that doctor’s sessions automatically and show a note on their profile. In phase two, once the HIS vendor confirms its API, a custom adapter from ${P.software} would write pre-registrations directly into the HIS. The hospital would own every account, and the first two months of edits would be covered by free maintenance.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Data model and accounts", "Domain and hosting in the hospital’s name, then a doctor and department spreadsheet that becomes the single source for every page."],
       ["Templates reviewed by department", "Department, doctor and procedure templates on a staging link; department heads comment on their own pages through the coordinator."],
       ["Booking, emergency and cashless checks", "OPD flow tested end to end, emergency links checked on a low-end phone, cashless list verified by your insurance desk."],
-      ["Launch and five months of care", `Search Console, schema and Google Business Profiles linked; logins and code handed over. Free edits for five months, then optional care from ${P.care}.`],
+      ["Launch and two months of care", `Search Console, schema and Google Business Profiles linked; logins and code handed over. Free edits for two months, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Hospital website design: questions hospital teams ask",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Should we use our HIS vendor’s website or build our own?", answer: "A vendor’s bundled website is convenient but often tied to that software; if you change HIS, the site may go with it. An independent site with an integration adapter keeps your web presence, content and SEO under your control, and only the adapter changes if you switch vendors. Check ownership terms carefully either way." },
     { question: "Do you visit the hospital during the project?", answer: "No. We are a remote freelance team and handle everything through video calls, WhatsApp and staging links. For photography of wards, OT and equipment, we suggest a local photographer or good phone photos taken by your staff following a shot list we provide. Hardware, networking and on-site IT are outside our scope." },
     { question: "Who owns the hospital website and its data?", answer: "The hospital. Domain, hosting, code repository and all booking data sit in the hospital’s accounts from day one. At launch you get admin access, the code, and a list of every paid service with renewal dates, so your IT team or another developer can take over without depending on us." },
-    { question: "What happens after the hospital website launches?", answer: `For five months we handle small edits, fixes and updates free: new doctors, changed OPD days, updated packages. After that, maintenance is optional and starts at ${P.care} a month. Your front office can also update doctors and schedules themselves through the admin or spreadsheet we set up. Changes they make appear on every related page.` },
+    { question: "What happens after the hospital website launches?", answer: `For two months we handle small edits, fixes and updates free: new doctors, changed OPD days, updated packages. After that, maintenance is optional and starts at ${P.care} a month. Your front office can also update doctors and schedules themselves through the admin or spreadsheet we set up. Changes they make appear on every related page.` },
     { question: "How does SEO work for a hospital website?", answer: `Hospital SEO depends on having a precise page for each department, common procedure and doctor, correct Hospital and Physician schema, a Google Business Profile per branch and fast mobile pages. Ongoing work such as new procedure content and reporting starts at ${P.seo} a month. Nobody can guarantee rankings, particularly for competitive medical searches.` },
     { question: "How do AI search engines choose which hospital pages to quote?", answer: "AI answer engines tend to quote pages that answer the question in the first sentence, show who reviewed the medical content and when, and are structured with clear headings. Procedure pages with a short answer, a “medically reviewed by” line naming the doctor and a review date are easier for them to cite than long marketing copy." },
     { question: "Can the website be in Hindi or regional languages?", answer: "Yes. We build multilingual hospital sites with proper language tags, usually starting with the emergency, OPD booking, visitor and cashless pages in the local language and expanding over time. You supply or approve the translations, especially for medical content, and we handle structure, layout and language switching. Each version gets its own URL." },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a new hospital website or fixing an outdated one?",
-    note: `Send your department list, doctor count and how your OPD runs on WhatsApp. You will get an itemised quote in about two working days, with multi-speciality hospital sites from ${P.seoSite}, every account in the hospital’s name and five months of free maintenance.`,
+    note: `Send your department list, doctor count and how your OPD runs on WhatsApp. You will get an itemised quote in about two working days, with multi-speciality hospital sites from ${P.seoSite}, every account in the hospital’s name and two months of free maintenance.`,
   },
 };
 

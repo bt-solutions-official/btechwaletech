@@ -34,7 +34,7 @@ const kozhikode: CityContent = {
     pills: ["Sites from ₹10,000", "Malayalam and English SEO", "Food and footwear stores", "WhatsApp automation", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Kozhikode business starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for halwa, spices or footwear at ₹50,000 and a custom web app at ₹60,000. We work remotely in Malayalam and English, you own everything and maintenance is free for five months.",
+    "A website for a Kozhikode business starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for halwa, spices or footwear at ₹50,000 and a custom web app at ₹60,000. We work remotely in Malayalam and English, you own everything and maintenance is free for two months.",
   snapshot: [
     { label: "Trade centre", value: "The main commercial city of north Kerala, with S.M. Street (Mittai Theruvu) and Valiyangadi as its historic markets" },
     { label: "Industry", value: "A major non-leather footwear manufacturing hub, plus timber along the Kallai river and roof tiles at Feroke" },
@@ -51,7 +51,7 @@ const kozhikode: CityContent = {
     ai: "WhatsApp assistants that answer order, table and appointment questions in Malayalam and English, including messages that arrive from the Gulf after midnight.",
     data: "Dashboards for sales by dealer, outlet or product, built from Tally and billing software and readable on a phone.",
     app: "Android and iOS apps for restaurant pre-orders, clinic tokens and field sales teams, published on both stores in six to ten weeks.",
-    maintenance: "Menu, price and catalogue updates, backups and security patches, free for five months and then from ₹8,000 a month.",
+    maintenance: "Menu, price and catalogue updates, backups and security patches, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kozhikode customers are well informed and quick to compare, so vague promises do not work here. We publish prices, send itemised quotes in writing, reply on WhatsApp every day of the week and register the domain, hosting and code in your name, so the business is never tied to us.",
@@ -183,11 +183,11 @@ const kozhikode: CityContent = {
     },
     {
       id: "ownership-kozhikode",
-      heading: "Your domain, your code and five free months of care",
+      heading: "Your domain, your code and two free months of care",
       paragraphs: [
         "We often meet Kozhikode business owners who cannot update their own website because the developer kept the passwords, or whose domain expired while renewal emails went to someone else. Recovering control can take weeks and sometimes involves paying a second time.",
         "We avoid all of that. The domain is registered in your business name, hosting is in your account, and at launch you receive every login, the source code and a short written explanation of the setup. You can move to another developer at any time, without an exit fee.",
-        "Maintenance is free for five months after launch, covering content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can <a href=\"/contact/\">message us</a> only when you need a change.",
+        "Maintenance is free for two months after launch, covering content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can <a href=\"/contact/\">message us</a> only when you need a change.",
       ],
     },
   ],
@@ -279,7 +279,7 @@ const kozhikode: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security patches, backups, uptime checks and speed monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you pay only when you need a change.",
+        "For two months after launch we handle content and price updates, bug fixes, security patches, backups, uptime checks and speed monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you pay only when you need a change.",
     },
     {
       question: "How do I start a project with you?",

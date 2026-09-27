@@ -56,7 +56,7 @@ const mahuva: CityContent = {
     ai: "WhatsApp assistants that share daily rates, product specs and sample requests in Gujarati, Hindi or English, and pass hard questions to you.",
     data: "Dashboards of arrivals bought, flakes and powder produced, shipments sent and dues by buyer, built from Tally exports and daily entries.",
     app: "Android and iOS apps for field buyers, re-ordering dealers or clinic patients in Mahuva, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Rate updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Rate updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Mahuva traders bargain carefully and read every line of a bill. Our starting prices are public, each quote splits the work into separate items, and nothing is charged until you approve it in writing. We answer WhatsApp seven days a week, and your domain, hosting, code and app store accounts stay in your name.",
@@ -157,7 +157,7 @@ const mahuva: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> ₹40,000 onwards, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> from ₹50,000, four to eight weeks.",
         "<strong>Custom software such as purchase or export trackers:</strong> starts at ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -195,7 +195,7 @@ const mahuva: CityContent = {
       heading: "What you own, and how your site and app are maintained",
       paragraphs: [
         "The domain is registered in your name, the hosting account is yours, and at launch you receive the full source code and every password. Android and iOS apps are published under your own Google Play and Apple developer accounts. If you later want another developer in Bhavnagar, Rajkot or anywhere else to take over, you can do so without asking us and without paying any release fee.",
-        "For five months after launch, maintenance is free. That covers security updates, backups, uptime checks and small changes such as new rates, product photographs or doctor timings. After that it costs from ₹8,000 a month and can be stopped whenever you choose. If your staff prefer to update rates or products themselves, we train them before handover.",
+        "For two months after launch, maintenance is free. That covers security updates, backups, uptime checks and small changes such as new rates, product photographs or doctor timings. After that it costs from ₹8,000 a month and can be stopped whenever you choose. If your staff prefer to update rates or products themselves, we train them before handover.",
         "Data in any software we build, whether purchase registers, stock or export documents, stays in your account and can be exported to Excel at any time. We do not lock anything behind our logins.",
       ],
     },
@@ -288,7 +288,7 @@ const mahuva: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "The first five months after launch are free and cover updates, backups, monitoring and small edits such as rates or photographs. After that, maintenance is from ₹8,000 a month and can be stopped whenever you like. We can also train your staff to handle simple updates themselves.",
+        "The first two months after launch are free and cover updates, backups, monitoring and small edits such as rates or photographs. After that, maintenance is from ₹8,000 a month and can be stopped whenever you like. We can also train your staff to handle simple updates themselves.",
     },
     {
       question: "Can you guarantee first rank on Google for Mahuva searches?",

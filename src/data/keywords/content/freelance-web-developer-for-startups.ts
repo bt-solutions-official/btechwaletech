@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Content-heavy site", `From ${P.seoSite}, 3–5 weeks`],
     ["Code and accounts", "In the founders’ names"],
     ["Quote", "Itemised in about 2 working days"],
-    ["Support", "5 months free after launch"],
+    ["Support", "2 months free after launch"],
   ],
   stats: [
     { value: "3", label: "Freelancers: full-stack, cloud and SEO, project lead" },
     { value: "2", label: "Working days to a written, itemised quote" },
-    { value: "5", label: "Months of free post-launch edits and fixes" },
+    { value: "2", label: "Months of free post-launch edits and fixes" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -106,7 +106,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Because the website cannot wait for the org chart. Early users, angel investors, accelerator reviewers and your first candidates will all look you up before they reply to an email. A thin page on a free subdomain makes a small company look even smaller.`,
         `A technical co-founder or first engineer should spend their weeks on the product that makes you different. The marketing site, launch pages and pitch-ready details are well understood work, and a freelance web developer for startups can ship them in parallel without pulling your engineer off the roadmap.`,
-        `This split also protects runway. Instead of adding a full-time salary for work that is heavy for a month and light afterwards, you pay for a defined project with a clear end, then only for occasional changes. With us that means an itemised quote, nothing billed before written approval, and five free months of edits after launch.`,
+        `This split also protects runway. Instead of adding a full-time salary for work that is heavy for a month and light afterwards, you pay for a defined project with a clear end, then only for occasional changes. With us that means an itemised quote, nothing billed before written approval, and two free months of edits after launch.`,
       ],
     },
     {
@@ -159,7 +159,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `They should, and this is one of the first things to agree with any freelance web developer for startups. Startups change their headline, pricing and positioning often. If every word change needs a developer ticket, the site falls behind the company within weeks.`,
         `We set up editing according to who will do it. Founders comfortable with GitHub can edit Markdown files and see changes deploy automatically. Marketing or operations colleagues usually prefer a visual CMS with fields for headlines, feature lists, pricing rows and blog posts, with the layout locked so nothing breaks.`,
-        `Before handover, we record a short screen walkthrough of how to publish a post, change a price and add a new team member, and we keep the five free months of maintenance for anything that goes beyond copy changes.`,
+        `Before handover, we record a short screen walkthrough of how to publish a post, change a price and add a new team member, and we keep the two free months of maintenance for anything that goes beyond copy changes.`,
       ],
     },
     {
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       heading: "Startup ke liye website developer: kya banwana chahiye? (Hinglish)",
       paragraphs: [
         `Shuruaat mein bahut bada website mat banwaiye. Launch se pehle ek page kaafi hai: problem kya hai, product kiske liye hai, aur sign-up ka option. Launch par home, product, pricing, about aur contact pages banwaiye, taaki investors aur customers dono ko trust ho.`,
-        `Humari team static startup website ${P.site} se banati hai, 1–2 hafte mein live. Code aur domain founders ke naam par rehte hain, aur launch ke baad 5 mahine free maintenance milta hai. WhatsApp par product ka ek line mein description bhejiye, 2 working days mein itemised quote mil jaayega.`,
+        `Humari team static startup website ${P.site} se banati hai, 1–2 hafte mein live. Code aur domain founders ke naam par rehte hain, aur launch ke baad 2 mahine free maintenance milta hai. WhatsApp par product ka ek line mein description bhejiye, 2 working days mein itemised quote mil jaayega.`,
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Accounts under the company", "Domain, hosting, analytics and the repository are created under company or founder accounts before any code is written."],
       ["Build on staging, edit together", "Pages appear on a private link. Founders comment on WhatsApp, and the CMS is configured so you can change copy yourselves."],
       ["Launch with measurement", "Domain, SSL and Search Console go live together with analytics events for sign-ups and demo requests."],
-      ["Iterate after launch", `Five months of free edits as your positioning sharpens. After that, care starts from ${P.care} a month, only if you want it.`],
+      ["Iterate after launch", `Two months of free edits as your positioning sharpens. After that, care starts from ${P.care} a month, only if you want it.`],
     ],
   },
   faqHeading: "Freelance web developer for startups: founder questions",
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
     { question: "What makes a website look credible to investors?", answer: "A clear one-line description in the first screen, visible proof the product exists such as screenshots or a demo link, real founder names and photos, a working contact route, current legal pages, and fast loading on a phone. Avoid invented logos, untraceable testimonials and vague claims; investors notice them quickly." },
     { question: "Should the marketing website and the product app be built together?", answer: "Usually not. The marketing site needs speed, SEO and easy editing, while the product needs logins and business logic. Keeping them separate, for example yourdomain.com and app.yourdomain.com, means a copy change cannot break sign-in and a product release cannot take the home page offline." },
     { question: "Which framework is best for a startup website?", answer: "For the public marketing site, a static-first framework such as Astro or Next.js with static generation, hosted on a CDN, gives fast pages and little maintenance. Add a headless CMS so non-developers can publish. WordPress can also work if your team already uses it and publishes often. The product app can use whatever stack your engineers prefer." },
-    { question: "Can our team update the startup website without a developer?", answer: "Yes. We set up a visual CMS or Markdown editing depending on who will publish. Headlines, pricing rows, feature lists, team members and blog posts become editable fields while the layout stays protected. At handover you get a short recorded walkthrough, plus five months of free help for anything beyond copy changes." },
+    { question: "Can our team update the startup website without a developer?", answer: "Yes. We set up a visual CMS or Markdown editing depending on who will publish. Headlines, pricing rows, feature lists, team members and blog posts become editable fields while the layout stays protected. At handover you get a short recorded walkthrough, plus two months of free help for anything beyond copy changes." },
     { question: "Who owns the code if a freelancer builds our startup website?", answer: "Your company should. We create the domain, hosting, analytics and repository under company or founder accounts from day one, and add ourselves only as collaborators. Code assignment is written into the quote. This keeps due diligence simple when investors or acquirers ask who owns your technology and web assets." },
     { question: "Can a freelance web developer for startups also build our MVP?", answer: `For well-defined scopes, yes. We build custom web apps from ${P.software} over 6–12 weeks, and Android and iOS apps from ${P.app}. As three freelancers we suit focused MVPs and product slices; if your product needs a large engineering team for years, we will say so and suggest hiring in-house for the core.` },
     { question: "Should a startup do SEO from day one?", answer: "Build the foundations from day one: clean URLs, fast pages, one clear H1 per page, schema, a sitemap and Google Search Console. Whether to invest in large-scale content depends on whether your buyers search for the problem you solve. Nobody can guarantee rankings, so treat SEO as a channel you test and measure, not a promise." },

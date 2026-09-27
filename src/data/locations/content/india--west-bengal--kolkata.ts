@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Consulting call free", "Legacy upgrades from ₹60,000", "Android & iOS from ₹40,000", "Bengali, Hindi and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Kolkata as a remote freelance group of three engineers working from India, with no office in Kolkata. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
+    "BtechWaleTech provides IT consulting and IT solutions in Kolkata as a remote freelance group of three engineers working from India, with no office in Kolkata. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with two months of free maintenance.",
   snapshot: [
     { label: "Business districts", value: "Dalhousie (BBD Bagh), Park Street, Camac Street, Chowringhee and Esplanade for offices; Burrabazar and Posta for wholesale trade" },
     { label: "Tech hubs", value: "Salt Lake Sector V and New Town (Rajarhat), home to IT parks, ITeS operations and a growing startup community" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "Bengali, Hindi and English AI agents that answer customers, extract data from documents and prepare drafts, always with a staff member able to step in.",
     data: "Group MIS dashboards that consolidate several companies, branches or estates into one reliable view for Kolkata owners and boards.",
     app: "Android and iOS apps for Kolkata retailers, distributors, diagnostic centres and field teams, built in Flutter or React Native for Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of maintenance free after launch, then plans from ₹8,000 a month and WhatsApp replies seven days a week.",
+    maintenance: "Two months of maintenance free after launch, then plans from ₹8,000 a month and WhatsApp replies seven days a week.",
   },
   whyUsIntro:
     "Kolkata business relationships last decades, and owners are rightly cautious about new vendors. We keep things plain: three engineers, published starting prices, itemised quotes, everything registered to you, and the same people answering long after launch.",
@@ -195,7 +195,7 @@ const content: CityContent = {
       id: "kolkata-cost-payment-remote",
       heading: "What IT solutions cost in Kolkata and how a remote project runs",
       paragraphs: [
-        "IT solutions in Kolkata with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software, legacy upgrades or group MIS. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Kolkata with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software, legacy upgrades or group MIS. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after two free months.",
         "Final cost depends on features, roles, integrations, the size of legacy data, languages and content. The project follows clear steps: free consultation, itemised quote within about two working days, milestone plan, working preview in the first week, weekly updates, parallel running where needed, launch on hosting in your name and recorded training in Bengali, Hindi or English.",
         "Kolkata clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, in milestones tied to visible progress. We have no Kolkata office and work fully remotely. See our <a href='/portfolio/'>portfolio</a>, meet the team on the <a href='/about/'>about page</a>, or read the wider <a href='/india/west-bengal/'>West Bengal overview</a>.",
       ],
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of free maintenance after hosting goes live cover bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week.",
+        "Two months of free maintenance after hosting goes live cover bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can you improve our office's cybersecurity?",

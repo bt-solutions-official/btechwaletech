@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Channels", "Phone calls and WhatsApp"],
     ["Books into", "Google Calendar or your software"],
     ["Hands over", "To staff, with a summary"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "24", label: "Hours a day the receptionist can answer" },
     { value: "7", label: "Days a week, including Sundays and holidays" },
     { value: "3", label: "Freelance developers who build and support it" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does an AI receptionist do?",
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What an AI receptionist costs",
-    note: `A custom AI receptionist falls under our AI automation plan, which starts at ${P.ai}. The quote grows with how many call types it handles (enquiries, bookings, reschedules, reminders), whether WhatsApp is included, how complex your calendar is (one doctor or ten stylists with breaks and services of different lengths), and which languages need testing. Running costs, meaning telephony minutes, speech and AI model usage and WhatsApp template messages, are billed directly to your own accounts with no mark-up. The detailed per-minute breakdown is on our AI voice agent cost page. If you need booking software too, custom builds start at ${P.software}. Maintenance is free for 5 months, then from ${P.care}.`,
+    note: `A custom AI receptionist falls under our AI automation plan, which starts at ${P.ai}. The quote grows with how many call types it handles (enquiries, bookings, reschedules, reminders), whether WhatsApp is included, how complex your calendar is (one doctor or ten stylists with breaks and services of different lengths), and which languages need testing. Running costs, meaning telephony minutes, speech and AI model usage and WhatsApp template messages, are billed directly to your own accounts with no mark-up. The detailed per-minute breakdown is on our AI voice agent cost page. If you need booking software too, custom builds start at ${P.software}. Maintenance is free for 2 months, then from ${P.care}.`,
   },
   guideLabel: "AI receptionist guide",
   guide: [
@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It answers only from a knowledge base you have approved and says “let me get someone to confirm that” when the answer is not there. A receptionist that invents a price or a timing does more harm than a missed call.`,
         `We build the knowledge base with you from what callers actually ask: timings by day, fees or price ranges you are comfortable sharing, services offered and not offered, doctors or stylists and their days, parking and landmarks, documents to bring, payment modes including UPI, and policies on cancellations. Each entry is short and specific. When a caller asks something, the receptionist retrieves the matching entries and answers from them, which is the retrieval-augmented approach described on our <a href='/rag-chatbot-development/'>RAG chatbot development</a> page.`,
-        `The instructions forbid guessing. If the question is outside the knowledge base, such as a medical symptom, a legal query or a discount request, the receptionist offers a transfer or a callback. You update the knowledge base whenever prices or timings change; in the first 5 months after launch, we make those changes for free.`,
+        `The instructions forbid guessing. If the question is outside the knowledge base, such as a medical symptom, a legal query or a discount request, the receptionist offers a transfer or a callback. You update the knowledge base whenever prices or timings change; in the first 2 months after launch, we make those changes for free.`,
       ],
     },
     {
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
         "A two-week pilot plan with a weekly review of sample calls",
       ],
       after: [
-        `On handover, you receive the telephony, AI and cloud accounts in your name, the code in your repository, and a note explaining how to update answers and timings. We make changes free for the first 5 months; after that, maintenance starts at ${P.care} if you want us to continue.`,
+        `On handover, you receive the telephony, AI and cloud accounts in your name, the code in your repository, and a note explaining how to update answers and timings. We make changes free for the first 2 months; after that, maintenance starts at ${P.care} if you want us to continue.`,
       ],
     },
     {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about 2 working days you get a quote split by channel, call type and integration, plus an estimate of running costs. No charge before written approval."],
       ["Build and rehearse", "We connect telephony, WhatsApp and your calendar, then run rehearsal calls in each language and share recordings for you to approve."],
       ["Pilot on real calls", "The receptionist starts with after-hours or overflow calls for two weeks while we review transcripts with you and fix any wrong answers."],
-      ["Full launch and support", "It takes on the agreed call types, and we keep refining answers and flows at no charge for the first 5 months."],
+      ["Full launch and support", "It takes on the agreed call types, and we keep refining answers and flows at no charge for the first 2 months."],
     ],
   },
   faqHeading: "AI receptionist: common questions",

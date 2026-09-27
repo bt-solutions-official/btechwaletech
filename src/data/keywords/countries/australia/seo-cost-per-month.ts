@@ -325,7 +325,7 @@ const content: FreelanceContent = {
       rows: [
         ["Maintenance", "Sites that already rank and just need protecting", "Health checks, error fixes, Business Profile upkeep, short report", "Enquiries holding steady"],
         ["Local growth", "One to three locations, a few core services", "Plus one or two new service or suburb pages, reviews, citations, call tracking", "Map pack and calls rising by month four"],
-        ["Competitive or national", "Crowded markets or Australia-wide services", "Plus in-depth content, outreach, deeper technical work", "Impressions and leads trending up by month six"],
+        ["Competitive or national", "Crowded markets or Australia-wide services", "Plus in-depth content, outreach, deeper technical work", "Impressions and leads trending up by month three"],
         ["Ecommerce", "Stores with large catalogues", "Plus category copy, filter control, product schema, feed fixes", "Organic revenue compared year on year"],
         ["One-off audit", "Sites unsure what is wrong", "Full crawl and prioritised fix list, no retainer", "Fix list delivered and actioned"],
       ],

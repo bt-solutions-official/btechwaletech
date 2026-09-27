@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Who writes the French", "Your translator; we build and place it"],
     ["French site build from", `${P.site}, 1–2 weeks for simpler sites`],
     ["French store build from", `${P.shop}, 4–8 weeks`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build the French version" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees added to our quotes" },
   ],
   answer: {
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "WordPress French setup", note: "WPML or Polylang configured so every page, menu, form and widget string has a French counterpart.", href: "/canada/wordpress-website-design/", size: "md" },
       { name: "Consent banner in French", note: "Cookie and privacy prompts that appear in French for French visitors, set up alongside your Law 25 work.", href: "/canada/law-25-website-compliance/", size: "sm" },
       { name: "French SEO basics", note: `French titles, descriptions and Search Console checks, with ongoing SEO from ${P.seo}.`, href: "/canada/technical-seo-services/", size: "sm" },
-      { name: "Keeping French in step", note: `A monthly check that new English content got its French twin, from ${P.care} after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Keeping French in step", note: `A monthly check that new English content got its French twin, from ${P.care} after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["French store with checkout and emails", "Shopify, WooCommerce or custom store", `From ${P.shop}`, "4–8 weeks"],
         ["French customer portal or web app", "Accounts, dashboards, contracts", `From ${P.software}`, "6–12 weeks"],
         ["French app strings", "Android and iOS app in both languages", `From ${P.app}`, "6–10 weeks for a new app"],
-        ["Keeping French in step", "Monthly checks after launch", `From ${P.care}`, "After 5 free months"],
+        ["Keeping French in step", "Monthly checks after launch", `From ${P.care}`, "After 2 free months"],
       ],
     },
     {
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Is WordPress good for a Bill 96 bilingual site?", answer: "Yes, with a proper multilingual plugin. WPML and Polylang both support per-language URLs and translated menus and widgets. The risks on WordPress are themes and plugins that hard-code English, so we check every one during the audit and replace or patch those that cannot output French." },
     { question: "Why hire a team in India for a Quebec French website?", answer: "Because the technical work is the same wherever it is done, and our starting prices are lower than typical local rates. You keep your own translator and lawyer in Quebec, we handle templates, checkout and emails, and calls happen in Eastern mornings. We do not visit offices, so everything runs by video call and written updates." },
     { question: "Who is responsible for Bill 96 compliance, you or me?", answer: "You are. Compliance is the business owner's responsibility, confirmed by your own lawyer. We build the technical French version your lawyer and translator specify, test it and document it. We never claim a site is certified or approved by the OQLF, because no developer can give that assurance." },
-    { question: "How do I keep my website compliant after launch?", answer: `Make French part of publishing, because Bill 96 website requirements apply to new pages as much as old ones. We set up the CMS so pages can be saved in both languages before going live, and train your team to use it. After five free months, maintenance from ${P.care} can include a monthly check that new English content has a French twin.` },
+    { question: "How do I keep my website compliant after launch?", answer: `Make French part of publishing, because Bill 96 website requirements apply to new pages as much as old ones. We set up the CMS so pages can be saved in both languages before going live, and train your team to use it. After two free months, maintenance from ${P.care} can include a monthly check that new English content has a French twin.` },
   ],
   related: {
     heading: "Related pages for Canadian businesses",

@@ -31,11 +31,11 @@ const imphal: CityContent = {
     eyebrow: "Imphal · Manipur",
     h1: "Web design, search and automation for Imphal's weavers, traders, clinics and institutes",
     lede:
-      "Three engineers working remotely for Imphal businesses: handloom and textile sellers in Paona Bazar, wholesalers around Thangal Bazar, coaching centres, clinics near the medical colleges and small food brands. You get published prices, direct contact with the developers, sites that cope with patchy connections, and five free months of upkeep.",
+      "Three engineers working remotely for Imphal businesses: handloom and textile sellers in Paona Bazar, wholesalers around Thangal Bazar, coaching centres, clinics near the medical colleges and small food brands. You get published prices, direct contact with the developers, sites that cope with patchy connections, and two free months of upkeep.",
     pills: ["Sites from ₹10,000", "Handloom and textile stores", "Pages in English and Manipuri", "Built to load on weak networks", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Imphal, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store with UPI at ₹50,000 and custom software at ₹60,000. We are a remote team with no Imphal office, and every site gets five months of free maintenance.",
+    "In Imphal, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store with UPI at ₹50,000 and custom software at ₹60,000. We are a remote team with no Imphal office, and every site gets two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Capital of Manipur, set in the Imphal Valley at about 786 metres and ringed by hill ranges" },
     { label: "Markets", value: "Ima Keithel (Khwairamband Bazar), the women-run market of around 5,000 traders, plus Thangal Bazar and Paona Bazar" },
@@ -52,10 +52,10 @@ const imphal: CityContent = {
     ai: "WhatsApp assistants that answer routine questions about courses, stock or clinic timings in English or Hinglish and forward the rest.",
     data: "Clear dashboards for sales, fee collection or patient flow, built on spreadsheets your staff already maintain.",
     app: "Android and iPhone apps that keep working offline and sync orders or attendance when the network returns, released on Google Play and the App Store.",
-    maintenance: "Free fixes, backups and updates for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free fixes, backups and updates for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Imphal business owners tell us the same thing: developers from outside the state quote high, those inside are hard to reach after launch, and nobody explains the price. We publish our starting rates, answer on WhatsApp seven days a week, and maintain your site free for five months once it is live.",
+    "Imphal business owners tell us the same thing: developers from outside the state quote high, those inside are hard to reach after launch, and nobody explains the price. We publish our starting rates, answer on WhatsApp seven days a week, and maintain your site free for two months once it is live.",
   pricingIntro:
     "Few web designers serving Manipur show any prices, so owners compare quotes that differ by ten times without knowing why. Below are our real starting figures. What you pay depends on the number of pages, languages, features and how much content is ready, and you see a line-by-line quote first.",
   sections: [
@@ -171,7 +171,7 @@ const imphal: CityContent = {
       paragraphs: [
         "We often meet Imphal owners who cannot update their site because a former developer holds the domain or hosting login. When that developer becomes unreachable, the site is stuck, and if a renewal lapses, it disappears.",
         "Our projects are set up to avoid this. Your domain and hosting are registered in your name, you receive every login and a short guide to how the site runs, and you own the source code. You can switch to another developer at any time without paying an exit fee.",
-        "Maintenance is free for five months after launch. That covers content edits, bug fixes, security and software updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. Details of what each build includes are on our <a href=\"/services/web-development/\">web development</a> page.",
+        "Maintenance is free for two months after launch. That covers content edits, bug fixes, security and software updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. Details of what each build includes are on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const imphal: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle content updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "How long before SEO brings results in Imphal?",

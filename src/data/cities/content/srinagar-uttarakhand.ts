@@ -31,11 +31,11 @@ const srinagarUttarakhand: CityContent = {
     eyebrow: "Srinagar · Pauri Garhwal, Uttarakhand",
     h1: "Websites, apps, SEO and AI automation for Srinagar Garhwal's hotels, students' coaching centres and valley bazaar",
     lede:
-      "We are a remote team of three engineers building websites, map listings and WhatsApp systems for businesses in the Alaknanda valley town: lodges on the Badrinath highway, shops in Gola Bazar, coaching centres near the university, clinics around Srikot and homestays in the villages above. Rates are published, you speak to the person writing the code, and five months of upkeep come free.",
+      "We are a remote team of three engineers building websites, map listings and WhatsApp systems for businesses in the Alaknanda valley town: lodges on the Badrinath highway, shops in Gola Bazar, coaching centres near the university, clinics around Srikot and homestays in the villages above. Rates are published, you speak to the person writing the code, and two months of upkeep come free.",
     pills: ["Sites from ₹10,000", "Yatra-season booking pages", "Hindi and Garhwali-aware copy", "Coaching and hostel sites", "WhatsApp enquiry routing"],
   },
   quickAnswer:
-    "A simple business website in Srinagar Garhwal starts at ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Srinagar office, and the first five months of maintenance after launch are free.",
+    "A simple business website in Srinagar Garhwal starts at ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Srinagar office, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "Where it is", value: "On the left bank of the Alaknanda in Pauri Garhwal district, about 33 km from Pauri and roughly 104 km from Rishikesh by road" },
     { label: "Town size", value: "About 20,000 residents at the 2011 census, with a literacy rate near 92%, plus a large floating student population" },
@@ -52,7 +52,7 @@ const srinagarUttarakhand: CityContent = {
     ai: "Automatic Hindi and English WhatsApp replies for room availability, road status notes, batch timings and doctor schedules, with people handling anything sensitive.",
     data: "Season-by-season dashboards for hotels and shops, so you can see how May–June and September–October yatra months actually compare year on year.",
     app: "Android and iOS apps for hostel attendance, test schedules or guest check-in that keep working when signal drops on valley roads, from ₹40,000.",
-    maintenance: "Updates, backups, uptime checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to carry on.",
+    maintenance: "Updates, backups, uptime checks and small edits free for two months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:
     "Businesses in Srinagar Garhwal usually get a website through a relative in Dehradun, a student at the university or an agency in Delhi that never visits. The site goes up, the person moves on, and nobody knows the hosting password. We are three engineers with published rates, written quotes and direct replies, and every login is handed to you at launch.",
@@ -168,7 +168,7 @@ const srinagarUttarakhand: CityContent = {
       paragraphs: [
         "In a town with a large student population, many small sites are built by students who then graduate and leave. The domain is often in their name, the hosting is on their card, and a year later the site quietly expires. The business then starts from nothing.",
         "We register the domain and hosting in your name and payment account from the first day. At launch you receive every login, the full source code and a short note on how it is set up, so any competent developer can take over if you ever want to change. There is no exit fee. Our <a href=\"/services/web-development/\">web development</a> work uses common, well-documented tools for that reason.",
-        "For five months after launch, maintenance is free: security updates, backups, uptime checks, small text and photo changes and bug fixes. After that you can continue from ₹8,000 a month or call us only when needed. For seasonal hotels, many owners keep maintenance on only through the yatra months.",
+        "For two months after launch, maintenance is free: security updates, backups, uptime checks, small text and photo changes and bug fixes. After that you can continue from ₹8,000 a month or call us only when needed. For seasonal hotels, many owners keep maintenance on only through the yatra months.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const srinagarUttarakhand: CityContent = {
     {
       question: "What happens after the website goes live?",
       answer:
-        "For five months we look after it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can call us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months we look after it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can call us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long does local SEO take to show results in Srinagar?",

@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Booking engine", "Your Bókun, FareHarbor or Rezdy account"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Billing", "Quoted in USD · pay in USD or JPY by Wise or wire"],
-    ["Care plan", `5 free months, then from ${P.care}`],
+    ["Care plan", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your tour site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on your direct bookings" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp and LINE contact", note: "Tap-to-chat buttons for travellers already in Japan who want to ask one quick question before paying.", size: "md" },
       { name: "Guest messaging automation", note: `Reminder messages, meeting-point photos and post-tour review requests, from ${P.ai}.`, size: "sm" },
       { name: "Monthly SEO", note: `Ongoing content and technical fixes for seasonal demand, from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Site care", note: `Five free months after launch, then updates and fixes from ${P.care}.`, size: "sm" },
+      { name: "Site care", note: `Two free months after launch, then updates and fixes from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The domain, hosting, website code, booking platform account, OTA accounts and review profiles all sit in your name, and we work inside them with access you grant and can remove.`,
         `This matters more for tour operators than most businesses because the booking account holds your guest history and payment settings. We never open a booking or payment account on your behalf in our name. If you part ways with us, you change the passwords and carry on; nothing needs to be migrated or bought back.`,
-        `At handover you receive the code in your repository, admin logins, a short guide to adding a new tour, and a list of every third-party service the site uses. Five months of maintenance is included after launch; after that, care continues from ${P.care} if you want it, or your own team takes over.`,
+        `At handover you receive the code in your repository, admin logins, a short guide to adding a new tour, and a list of every third-party service the site uses. Two months of maintenance is included after launch; after that, care continues from ${P.care} if you want it, or your own team takes over.`,
       ],
     },
     {
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
       ["Tour content sheet", "You fill one row per tour: itinerary, inclusions, meeting point, policies and photos. We turn it into clear English tour pages."],
       ["Design on a private link", "You review the home and tour page layouts on your phone and share feedback in one list, so changes stay focused."],
       ["Connect and test bookings", "We embed your booking system, run test bookings for each tour, and check availability matches every OTA channel."],
-      ["Launch and look after", "Domain switched, sitemap submitted, speed checked. Five months of maintenance follow at no charge, then optional monthly care."],
+      ["Launch and look after", "Domain switched, sitemap submitted, speed checked. Two months of maintenance follow at no charge, then optional monthly care."],
     ],
   },
   faqHeading: "Tour operator website design: questions from operators in Japan",
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
     { question: "Do I need Travel Agency Act registration to sell tours online?", answer: "It depends on what you sell, particularly whether you arrange transport or accommodation. That is a legal question for an administrative scrivener or lawyer, and the Japan Tourism Agency publishes guidance. We do not give legal advice, but we leave room in the site footer and about page for your registration details." },
     { question: "How do you keep tour pages fast on phones?", answer: "We compress photos into modern formats at phone sizes, lazy-load images below the first screen, keep scripts minimal and load the booking widget only when the guest scrolls near it or taps Book. We test the key tour pages with Google PageSpeed Insights before launch and share the results." },
     { question: "Will my tour website appear in AI assistants like ChatGPT or Google AI Overviews?", answer: "Nobody controls that, but clear pages help. We open every tour page with a plain summary of what, where, how long and price from, keep facts consistent across the site, and mark up FAQs. AI tools tend to quote pages that state facts simply rather than marketing slogans." },
-    { question: "What happens after launch?", answer: `You get five months of free maintenance for fixes and small updates. After that, care continues from ${P.care} if you want us to keep looking after the site, or your own team can take over using the handover guide. Monthly SEO for new guides and seasonal updates is optional, from ${P.seo}.` },
+    { question: "What happens after launch?", answer: `You get two months of free maintenance for fixes and small updates. After that, care continues from ${P.care} if you want us to keep looking after the site, or your own team can take over using the handover guide. Monthly SEO for new guides and seasonal updates is optional, from ${P.seo}.` },
     { question: "Can you move my existing Wix or WordPress tour site?", answer: "Yes. We audit the current pages, keep the URLs that already get traffic or set redirects for them, move the booking embeds, and rebuild the design for speed. You keep your domain throughout. Tell us which platform you are on and we will list the steps and cost in the quote." },
     { question: "Can you automate reminder and review messages to guests?", answer: `Yes, from ${P.ai}. Typical automation sends a reminder with the meeting-point photo the day before, and a friendly review request after the tour. It reads from your booking platform’s data, uses your wording, and respects each channel’s rules, so there are no incentives attached to reviews.` },
   ],

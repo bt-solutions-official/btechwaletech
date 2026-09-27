@@ -34,7 +34,7 @@ const adoni: CityContent = {
     pills: ["Sites from ₹10,000", "Ginning and oil mill pages", "Telugu, Kannada, Urdu, English", "Buyer enquiry automation", "5 free upkeep months"],
   },
   quickAnswer:
-    "An Adoni business website starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Adoni office, and the first five months of maintenance are free.",
+    "An Adoni business website starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Adoni office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Trade", value: "Home to the Adoni cotton market, described as the largest cotton market in Rayalaseema" },
     { label: "Industry", value: "Cotton ginning and pressing, spinning mills, and a groundnut oil mills cluster of micro and small units" },
@@ -51,7 +51,7 @@ const adoni: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and appointment questions in Telugu, Kannada, Urdu or English and hand real deals to a person.",
     data: "Dashboards showing arrivals, bales pressed, oil dispatched or patients seen, so owners can read the season at a glance.",
     app: "Android and iPhone apps for field buyers, delivery staff or school parents, built once and released on both Google Play and the App Store.",
-    maintenance: "Free updates and fixes for five months after launch, then plans from ₹8,000 a month or pay-per-change support.",
+    maintenance: "Free updates and fixes for two months after launch, then plans from ₹8,000 a month or pay-per-change support.",
   },
   whyUsIntro:
     "Adoni's businesses deal with buyers from Guntur, Bengaluru, Tiruppur and Mumbai as easily as with farmers from the next village. Their websites should reflect that. We build them with clear specifications, starting prices written down, replies on WhatsApp seven days a week, and ownership fully in your name.",
@@ -177,7 +177,7 @@ const adoni: CityContent = {
       paragraphs: [
         "A common problem we see with older websites in smaller towns: the domain was registered in the developer's name, the developer moved on, and the site disappeared when the renewal lapsed. The phone number on your letterhead and packs then points to nothing, and recovering the domain can take weeks.",
         "We register the domain in your name and set up hosting on your own account. At launch you receive every login, the full source code and a short explanation of how the site works. You can move to another developer whenever you like, with no exit fee.",
-        "Maintenance is free for five months after launch: content and rate changes, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Many seasonal businesses keep a plan during arrivals and switch to pay-per-change later.",
+        "Maintenance is free for two months after launch: content and rate changes, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Many seasonal businesses keep a plan during arrivals and switch to pay-per-change later.",
       ],
     },
     {
@@ -271,7 +271,7 @@ const adoni: CityContent = {
         "You do. The domain is registered in your name, hosting is on your account, and you receive every password and the full source code at launch. You can move to another developer whenever you want, with no exit fee.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You choose. Plans start at ₹8,000 a month and cover updates, backups, security patches and content changes. You can also skip the plan and pay per change. Either way, you keep full access to your website and accounts.",
     },

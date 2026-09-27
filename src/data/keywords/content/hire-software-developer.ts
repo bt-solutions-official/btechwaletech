@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Hire software developer · Custom software, remote across India",
     h1: "Hire software developer talent for custom software, and keep the requirements, code and IP firmly yours",
     lede: `Before you hire software developer help for a portal, billing tool or internal system, settle three things: what the software must do, who owns the source code, and how the IP moves to you in writing. BtechWaleTech is three freelance developers in India who build custom web apps and business software from ${P.software}. This page explains how to scope the work, compare offers, protect your code and run the build, with honest numbers throughout.`,
-    pills: ["Requirements first", "Source code in your repo", "IP assigned in writing", "Web portals & dashboards", "Billing, stock, CRM", "Android & iOS add-ons", "5 months free support"],
+    pills: ["Requirements first", "Source code in your repo", "IP assigned in writing", "Web portals & dashboards", "Billing, stock, CRM", "Android & iOS add-ons", "2 months free support"],
     origin: "Three freelance developers · Remote from India · Business owners, founders and operations teams as clients",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Source code", "Your repository, your cloud account"],
     ["IP", "Assignment terms agreed in your written quote"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "AI add-ons", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Code and cloud", value: "Created in your accounts from the first commit" },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["If one person leaves", "Knowledge walks out", "Replacement sent, ramp-up needed", "Two teammates already know the code"],
       ["Hiring effort", "Job posts, interviews, notice periods", "Profile screening and trials", "One brief, one itemised quote"],
       ["Mobile and AI later", "Needs new hires", "Extra headcount at extra cost", "Same team builds apps and automation"],
-      ["After release", "Salary continues", "Contract continues", `5 months free, then from ${P.care}`],
+      ["After release", "Salary continues", "Contract continues", `2 months free, then from ${P.care}`],
       ["Scale ceiling", "Grows with your hiring", "Large benches available", "Three people; not right for 20-developer programmes"],
     ],
     fine: "If your roadmap needs several full-time engineers for years, building an in-house team will likely serve you better than hiring any outside software developer project by project.",
@@ -229,7 +229,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A first release of custom software usually takes 6–12 weeks. The time goes into four phases, and you see working screens early rather than waiting for a big reveal.`,
         `Week one is discovery: we walk through your stories, confirm the data model and agree the scope line by line. Weeks two to three deliver the foundation: logins, roles, the main records and an admin panel on a staging link you can use. The middle weeks add workflows one at a time, each demonstrated on staging before we start the next. The last one to two weeks cover data import, testing with your staff, fixes and deployment to your cloud account.`,
-        `Your time commitment is highest in week one and at each demo. One decision-maker who replies within a day keeps the plan on track more than any tool does. After release, five months of free maintenance covers fixes and small changes while your team settles in.`,
+        `Your time commitment is highest in week one and at each demo. One decision-maker who replies within a day keeps the plan on track more than any tool does. After release, two months of free maintenance covers fixes and small changes while your team settles in.`,
       ],
     },
     {
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
         ["AI automation module", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Invoice reading, report drafting, WhatsApp replies"],
         ["Ecommerce with back office", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Online store tied to stock and invoices"],
         ["Marketing website for the product", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Product pages, enquiry forms"],
-        ["Maintenance (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, small features, backups"],
+        ["Maintenance (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, small features, backups"],
       ],
       hideSm: [2],
     },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Repository, cloud hosting and any paid services are created under your business, with us added as collaborators, before the first line of code."],
       ["See workflows as they are built", "Each workflow appears on a staging link with test data. Your staff try it, we adjust, and only then move to the next part."],
       ["Import data and go live", "We load your existing records, train key users on a call, deploy to your cloud account and hand over code, backups and notes."],
-      ["Settle in with free support", `Five months of free maintenance covers fixes and small changes. After that, monthly support from ${P.care} is optional; you can also take the code elsewhere.`],
+      ["Settle in with free support", `Two months of free maintenance covers fixes and small changes. After that, monthly support from ${P.care} is optional; you can also take the code elsewhere.`],
     ],
   },
   faqHeading: "Hire software developer: common questions",
@@ -394,10 +394,10 @@ const content: FreelanceContent = {
     { question: "Is custom software better than buying ready-made software?", answer: "Not always. If a ready-made product covers most of your workflow and lets you export your data, it is usually cheaper and faster. Custom software pays off when your process is a competitive advantage, when tools you use cannot talk to each other, or when per-user fees will outgrow a one-time build." },
     { question: "What technology stack should my custom software use?", answer: "Choose mainstream technology that another developer can maintain later. For business systems that usually means a Node.js, Django or FastAPI backend, a PostgreSQL database, a React-based frontend and hosting on a major cloud in your account. Avoid proprietary platforms only one vendor understands, and very old stacks that no longer get security updates." },
     { question: "How do I protect customer data when outsiders build my software?", answer: "Collect only the fields you need, restrict access by role, use HTTPS everywhere, keep backups in your own account and let developers work on test data where possible. You remain responsible for personal data under India's data protection law, so ask any developer how their design supports that before you hire them." },
-    { question: "Will I get maintenance after the software goes live?", answer: `With BtechWaleTech, the first five months after release include free maintenance for fixes, small changes and updates. After that, ongoing support starts at ${P.care} and is optional. Because the code and accounts are yours, you can also move maintenance to your own staff or another developer at any time.` },
+    { question: "Will I get maintenance after the software goes live?", answer: `With BtechWaleTech, the first two months after release include free maintenance for fixes, small changes and updates. After that, ongoing support starts at ${P.care} and is optional. Because the code and accounts are yours, you can also move maintenance to your own staff or another developer at any time.` },
     { question: "Can you take over software another developer started?", answer: "Often, yes. We first review the code, database and hosting to see what state it is in, then tell you plainly whether it is better to continue, refactor parts or rebuild. The review needs access to the repository and a working copy of the database; without those, any estimate would be guesswork." },
     { question: "Can foreign companies hire a software developer from India through you?", answer: `Yes. Clients abroad work with us remotely, with calls scheduled in overlapping hours and progress shared on staging links. Custom software is billed in USD from ${P.softwareUsd}, paid through Wise, bank wire or PayPal, with the same ownership terms: your repository, your cloud account and IP set out in writing.` },
-    { question: "Software developer hire karna hai, kaise shuru karein?", answer: `Pehle likhiye ki software kaun use karega aur har user roz kya karta hai. Wahi brief WhatsApp par bhejiye. Do din mein itemised quote milega; custom software ${P.software} se shuru hota hai. Code aur cloud account aapke naam par banenge, approval ke baad hi payment hoga, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Software developer hire karna hai, kaise shuru karein?", answer: `Pehle likhiye ki software kaun use karega aur har user roz kya karta hai. Wahi brief WhatsApp par bhejiye. Do din mein itemised quote milega; custom software ${P.software} se shuru hota hai. Code aur cloud account aapke naam par banenge, approval ke baad hi payment hoga, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "What does BtechWaleTech not take on?", answer: "We do not supply on-site staff, hardware or network installation, and we are not the right fit for programmes that need a large team working in parallel for years. We focus on business systems a three-person freelance team can design, build and support well, from portals and billing tools to companion apps and automation." },
   ],
   related: {
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a software developer who hands you the keys?",
-    note: `Send us your workflow on WhatsApp, however rough. You will get an itemised scope in about two working days, custom software starting at ${P.software}, code and cloud accounts in your name, and five months of free maintenance after go-live.`,
+    note: `Send us your workflow on WhatsApp, however rough. You will get an itemised scope in about two working days, custom software starting at ${P.software}, code and cloud accounts in your name, and two months of free maintenance after go-live.`,
   },
 };
 

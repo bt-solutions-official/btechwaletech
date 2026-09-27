@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Theme rebuild if needed", `From ${P.shop} · ${P.shopUsd}`],
     ["Metrics we target", "LCP, INP and CLS for real visitors"],
     ["Quote turnaround", "About 2 working days"],
-    ["Free maintenance after a rebuild", "5 months"],
+    ["Free maintenance after a rebuild", "2 months"],
   ],
   stats: [
     { value: "3", label: "Core Web Vitals we fix against: LCP, INP, CLS" },

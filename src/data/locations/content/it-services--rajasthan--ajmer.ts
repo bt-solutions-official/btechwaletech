@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Exam and test portals", "School ERPs", "Booking tools near the Dargah", "Web apps from ₹60,000", "Mobile sites from ₹10,000"],
   },
   quickAnswer:
-    "For Ajmer businesses, BtechWaleTech, a freelance group of three remote engineers, builds custom software and portals from ₹60,000 in 6 to 12 weeks, AI and WhatsApp automation from ₹40,000 in 2 to 4 weeks, and mobile-first websites from ₹10,000 in 1 to 2 weeks. You get an itemised quote in about two working days and five months of free maintenance.",
+    "For Ajmer businesses, BtechWaleTech, a freelance group of three remote engineers, builds custom software and portals from ₹60,000 in 6 to 12 weeks, AI and WhatsApp automation from ₹40,000 in 2 to 4 weeks, and mobile-first websites from ₹10,000 in 1 to 2 weeks. You get an itemised quote in about two working days and two months of free maintenance.",
   snapshot: [
     { label: "Administrative role", value: "Home to the Rajasthan Public Service Commission and the Board of Secondary Education, Rajasthan, which shape a large exam-preparation market" },
     { label: "Pilgrimage and tourism", value: "Ajmer Sharif Dargah draws pilgrims all year, especially during the Urs; Pushkar lake and fair are a short drive over Nag Pahar" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants on WhatsApp that answer lodging, exam batch and product questions in Hindi, Urdu or English and pass real leads to staff.",
     data: "Dashboards for admissions, test scores, room occupancy during the Urs or marble dispatches from Kishangarh, updated automatically.",
     app: "Android and iOS apps from ₹40,000 for Ajmer: bilingual RPSC test apps, school parent apps and dealer ordering apps for Kishangarh marble, published on Google Play and the App Store.",
-    maintenance: "Backups, updates and uptime checks, especially before exam notifications and the Urs rush, free for five months after launch.",
+    maintenance: "Backups, updates and uptime checks, especially before exam notifications and the Urs rush, free for two months after launch.",
   },
   whyUsIntro:
     "Ajmer buyers usually choose between a local computer shop that also makes websites and a large out-of-town software house. As a freelance group we sit in between: engineers who write real software, publish starting prices, reply on WhatsApp seven days a week, and do not rent you your own data.",
@@ -179,7 +179,7 @@ const content: CityContent = {
       id: "ajmer-cloud-maintenance",
       heading: "Cloud hosting, maintenance and IT support after launch",
       paragraphs: [
-        "After launch, BtechWaleTech hosts and maintains Ajmer projects on reliable cloud servers with daily backups, SSL, security patches and uptime monitoring, and the first five months of maintenance are included free; after that, plans start at ₹8,000 a month or you pay only for changes you request.",
+        "After launch, BtechWaleTech hosts and maintains Ajmer projects on reliable cloud servers with daily backups, SSL, security patches and uptime monitoring, and the first two months of maintenance are included free; after that, plans start at ₹8,000 a month or you pay only for changes you request.",
         "Timing matters in Ajmer. Exam notifications bring sudden spikes to coaching portals, and the Urs brings them to lodging sites. We plan hosting for those peaks, use a content delivery network for static pages and test load before big dates.",
         "Support is on WhatsApp seven days a week. Bug fixes, content changes and small improvements are handled by the same engineers who built the system, so nothing is lost in handoffs between departments.",
       ],
@@ -197,7 +197,7 @@ const content: CityContent = {
       id: "ajmer-how-we-work",
       heading: "How a remote freelance group runs an Ajmer project from start to finish",
       paragraphs: [
-        "A remote project with BtechWaleTech follows five steps: a discovery call, an itemised quote within about two working days, weekly builds on a test link, staff training and handover, and five months of free maintenance; you never need to travel, and you speak directly with the engineers writing your code.",
+        "A remote project with BtechWaleTech follows five steps: a discovery call, an itemised quote within about two working days, weekly builds on a test link, staff training and handover, and two months of free maintenance; you never need to travel, and you speak directly with the engineers writing your code.",
         "During discovery we ask how the work happens today, what goes wrong in busy periods and who will use the system. We then write a scope in plain language, so a principal or a shop owner can read it without a developer beside them.",
         "At handover you receive source code access, admin logins, hosting credentials and the domain in your own name, plus a short guide. You can see sample work on our <a href='/portfolio/'>portfolio</a> and reach us through the <a href='/contact/'>contact page</a>.",
       ],
@@ -209,7 +209,7 @@ const content: CityContent = {
         "Android and iOS app development for Ajmer businesses starts from ₹40,000 with BtechWaleTech and takes six to ten weeks. The app is built once in Flutter or React Native, published on Google Play and the Apple App Store, and includes login, forms, push notifications and an admin panel connected through an API to your existing software.",
         "The strongest demand in Ajmer comes from exam preparation. Coaching centres around Kutchery Road and Vaishali Nagar want branded apps where aspirants attempt bilingual RAS, REET and patwari mock tests, watch short lessons and get notified the moment a new test goes live. Schools want parent apps for attendance, homework, circulars and fee dues, which boarding schools find especially useful for families living in other states or abroad. Kishangarh marble dealers want catalogue apps that repeat buyers can order from, and guest house groups near the Dargah want simple apps for regular pilgrim families and tour organisers.",
         "Most users here are on budget Android phones, so the Hindi interface, small download size and offline caching get as much attention as design. We still publish on iOS because teachers, parents and buyers increasingly carry iPhones. Store accounts are opened in your institution's name, so the listing and its reviews stay yours.",
-        "Where a progressive web app would do the job for less, we will recommend it. Updates needed for new Android and iOS versions during the first five months after launch are covered by the free maintenance period.",
+        "Where a progressive web app would do the job for less, we will recommend it. Updates needed for new Android and iOS versions during the first two months after launch are covered by the free maintenance period.",
       ],
       list: [
         "Bilingual test-series app for state exams",
@@ -250,7 +250,7 @@ const content: CityContent = {
     { question: "Can the test series platform show questions in Hindi?", answer: "Yes. We build bilingual test engines where each question can have Hindi and English versions, and students can switch between them. Hindi text uses proper fonts and renders correctly on budget Android phones. Explanations, instructions and result reports can be bilingual too." },
     { question: "Will the WhatsApp bot handle Urdu and Hindi for pilgrims?", answer: "Yes. The AI assistant can reply in Hindi, Urdu and English, following the language the guest writes in. It answers only from information you approve, such as room rates, directions and check-in times, and hands complex or sensitive questions to your staff." },
     { question: "Do we own the software and data?", answer: "Yes. Source code, database, domain, hosting and all third-party accounts are in your name or transferred at handover. Student, guest and customer data stays in your accounts. There is no lock-in, and you can move to another developer whenever you choose." },
-    { question: "What happens after five months of free maintenance?", answer: "You can continue on a maintenance plan from ₹8,000 a month, which covers updates, bug fixes, backups, security checks and performance monitoring, or you can simply message us when you need a change and pay for that work alone. Either way, we reply on WhatsApp seven days a week." },
+    { question: "What happens after two months of free maintenance?", answer: "You can continue on a maintenance plan from ₹8,000 a month, which covers updates, bug fixes, backups, security checks and performance monitoring, or you can simply message us when you need a change and pay for that work alone. Either way, we reply on WhatsApp seven days a week." },
     { question: "How soon does SEO work in Ajmer?", answer: "Typically three to six months before steady results, depending on competition and how much content the site has. Map listings for local searches can improve sooner once the Google Business Profile is complete. We do not guarantee rankings, but we explain every step we take and report progress monthly." },
     { question: "Do you build Android and iOS apps in Hindi?", answer: "Yes. Android and iOS apps start from ₹40,000 and take six to ten weeks. We build in Flutter or React Native with Hindi and English interfaces, and publish on Google Play and the App Store under your own developer accounts. Test apps, parent apps and dealer ordering apps are the most common requests we get from Ajmer." },
     { question: "Can you replace our yearly-licence school software?", answer: "Often, yes. We can build a custom system and import data from your current software or Excel sheets. Before recommending it, we compare the licence cost over a few years with the build and maintenance cost. If your current product works well, we may suggest only adding the missing pieces." },

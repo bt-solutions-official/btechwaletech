@@ -38,14 +38,14 @@ const content: FreelanceContent = {
     ["Website moved to S3 and CloudFront", `From ${P.site} · 1–2 weeks`],
     ["Web app built or re-platformed on AWS", `From ${P.software} · 6–12 weeks`],
     ["Scheduled jobs, alerts and automation", `From ${P.ai} · 2–4 weeks`],
-    ["Ongoing AWS care", `From ${P.care}, after 5 free months`],
+    ["Ongoing AWS care", `From ${P.care}, after 2 free months`],
     ["AWS bill", "Paid by you to AWS; we add no markup"],
     ["Billing for our work", "USD · wire, Wise, PayPal"],
   ],
   stats: [
     { value: "3", label: "Freelance developers; one leads AWS and data work" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after a build or migration" },
+    { value: "2", label: "Months of free fixes after a build or migration" },
     { value: "0", label: "Markup on your AWS bill" },
   ],
   answer: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What AWS consulting services for small business cost with us",
-    note: `There are always two bills, and we keep them apart. AWS charges you directly for usage, at its published prices, and we add nothing to it. Our work is priced by job. Rebuilding a brochure site as static pages on S3 and CloudFront starts at ${P.site}. Building or re-platforming a web app on AWS starts at ${P.software}. Scheduled jobs, alerts and automation start at ${P.ai}. A standalone bill review, security clean-up or backup setup is quoted itemised after we see your account's size, usually within two working days. Maintenance is free for five months after a build or migration, then care starts at ${P.care}. Nothing is billed before you approve in writing.`,
+    note: `There are always two bills, and we keep them apart. AWS charges you directly for usage, at its published prices, and we add nothing to it. Our work is priced by job. Rebuilding a brochure site as static pages on S3 and CloudFront starts at ${P.site}. Building or re-platforming a web app on AWS starts at ${P.software}. Scheduled jobs, alerts and automation start at ${P.ai}. A standalone bill review, security clean-up or backup setup is quoted itemised after we see your account's size, usually within two working days. Maintenance is free for two months after a build or migration, then care starts at ${P.care}. Nothing is billed before you approve in writing.`,
   },
   guideLabel: "AWS guide for US small businesses and startups",
   guide: [
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Scheduled jobs and alerts", "Lambda and EventBridge jobs, budget and error alerts", P.ai, "2–4 weeks"],
         ["Web app built or re-platformed on AWS", "App, database, backups, infrastructure as code", P.software, "6–12 weeks"],
         ["Bill review, security clean-up, backup setup", "Findings table, approved changes, restore test", "Itemised quote", "1–3 weeks"],
-        ["Monthly AWS care", "Bill check, patching, backup verification, access review", P.care, "Ongoing, after 5 free months"],
+        ["Monthly AWS care", "Bill check, patching, backup verification, access review", P.care, "Ongoing, after 2 free months"],
       ],
     },
   ],
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Grant limited access", "Your admin creates a named role for us through IAM Identity Center. We never need the root password, and you can remove the role in one click."],
       ["Findings before changes", "We list every resource, cost and risk in a table. You approve changes line by line; anything uncertain gets a snapshot before it is touched."],
       ["Make changes in quiet hours", "Clean-ups, migrations and cut-overs run during your night, our day. You wake up to a written summary and a list of what changed."],
-      ["Test, document and hand over", "Restore test on a call, runbook written, budgets live. Fixes are free for five months after a build or migration; care plans are optional after that."],
+      ["Test, document and hand over", "Restore test on a call, runbook written, budgets live. Fixes are free for two months after a build or migration; care plans are optional after that."],
     ],
   },
   faqHeading: "AWS consulting services for small business: common questions",
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
     { question: "What about HIPAA or other regulated data on AWS?", answer: "We build the technical controls your obligations call for, such as encryption, access control, logging and backups, in your account. Any agreement required with AWS is between your business and AWS, and compliance is your responsibility, confirmed by your own counsel. We do not give legal advice or claim certifications." },
     { question: "What time are calls, and how fast do you respond?", answer: "Calls happen in your morning. India is nine and a half hours ahead of US Eastern time in summer and ten and a half in winter, so a 9 a.m. Eastern call is our early evening. Risky changes run during your night, and WhatsApp messages get replies seven days a week." },
     { question: "How do US businesses pay you?", answer: "You get an itemised quote in USD and pay approved milestones by bank wire, Wise or PayPal. Invoices come from India, and your accountant can advise how to record them. Nothing is billed before you approve the quote in writing, and your AWS usage is always paid by you directly to AWS." },
-    { question: "What happens after AWS consulting services for small business end?", answer: `After a build or migration, fixes are free for five months. After that, an optional care plan from ${P.care} covers a monthly bill check, patching, backup verification and an access review. You can also run the account yourself using the runbook and findings table we hand over.` },
+    { question: "What happens after AWS consulting services for small business end?", answer: `After a build or migration, fixes are free for two months. After that, an optional care plan from ${P.care} covers a monthly bill check, patching, backup verification and an access review. You can also run the account yourself using the runbook and findings table we hand over.` },
   ],
   related: {
     heading: "Related services for US businesses",

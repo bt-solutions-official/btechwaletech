@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Silk job-work tracking", "B2B catalogues with lead forms", "Export order dashboards", "AI replies to buyer enquiries", "Payment by UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Bhagalpur from ₹60,000 for custom software such as job-work tracking (six to twelve weeks), ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, ₹50,000 for online stores and ₹10,000 for websites. We are three remote engineers in India, with five months of free maintenance.",
+    "BtechWaleTech's freelance software developers build for Bhagalpur from ₹60,000 for custom software such as job-work tracking (six to twelve weeks), ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, ₹50,000 for online stores and ₹10,000 for websites. We are three remote engineers in India, with two months of free maintenance.",
   snapshot: [
     { label: "Signature industry", value: "Tussar and mulberry silk weaving, with Bhagalpuri silk carrying a GI tag; the city is known as the Silk City of India" },
     { label: "Weaving clusters", value: "Nathnagar, Champanagar, Mirjanhat and nearby villages with thousands of handloom and powerloom weavers" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that answer buyer questions on fabric, GSM, MOQ and delivery in English or Hindi, and forward serious enquiries to the owner.",
     data: "Dashboards showing orders in production, pending job-work, stock by fabric and dues by buyer, so nothing slips before a shipment date.",
     app: "Android and iOS apps from ₹40,000 for Bhagalpur silk supervisors, trade buyers and students, built in Flutter or React Native and listed on Google Play and the App Store.",
-    maintenance: "Updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Bhagalpur's silk houses sell to Delhi, Surat, Kolkata and overseas buyers, yet most run orders from diaries and phone calls. Big software vendors rarely take on a single weaving business, and a local web designer rarely builds past the catalogue. As a freelance group we build the software in between, and stay on WhatsApp after launch.",
@@ -212,7 +212,7 @@ const content: CityContent = {
       id: "maintenance-bhagalpur",
       heading: "IT support and maintenance for Bhagalpur after go-live",
       paragraphs: [
-        "IT support after launch keeps your software secure, backed up and matched to how your business changes. Every BtechWaleTech project includes five months of free maintenance after hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small changes such as new product fields or report columns.",
+        "IT support after launch keeps your software secure, backed up and matched to how your business changes. Every BtechWaleTech project includes two months of free maintenance after hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small changes such as new product fields or report columns.",
         "Afterwards, plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week, and urgent issues like order screens failing before a shipment are handled first. Because you own every account, you are never locked in. Read more <a href='/about/'>about how we work</a>, or compare with our <a href='/it-services/bihar/patna/'>Patna</a> and <a href='/it-services/bihar/muzaffarpur/'>Muzaffarpur</a> pages.",
       ],
     },
@@ -282,9 +282,9 @@ const content: CityContent = {
         "Yes. Android and iOS apps start at ₹40,000 and take six to ten weeks. We build them in Flutter or React Native and publish on Google Play and the Apple App Store under your developer accounts. Supervisor apps work offline at weavers' homes and sync later, while buyer catalogue apps show designs and approved trade prices with push notifications for new collections.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "After hosting goes live, five months of maintenance are free: bug fixes, security and library updates, backups, uptime and speed checks, and small changes such as new fields, prices or reports. Afterwards you can continue from ₹8,000 a month or pay per request. Support requests are answered on WhatsApp seven days a week.",
+        "After hosting goes live, two months of maintenance are free: bug fixes, security and library updates, backups, uptime and speed checks, and small changes such as new fields, prices or reports. Afterwards you can continue from ₹8,000 a month or pay per request. Support requests are answered on WhatsApp seven days a week.",
     },
     {
       question: "How quickly will SEO bring results for a Bhagalpur business?",

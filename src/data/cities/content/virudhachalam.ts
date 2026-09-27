@@ -56,7 +56,7 @@ const virudhachalam: CityContent = {
     ai: "Tamil WhatsApp assistants that answer price, stock, MOQ and timing questions and send the rest to your staff.",
     data: "Dashboards of kiln output, breakage, orders by buyer, cashew stock by grade and daily shop sales.",
     app: "Android and iOS apps for ceramic buyers to reorder or for cashew dealers to share daily rates, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No maintenance charge for five months after going live, then plans from ₹8,000 a month for backups, updates and fixes.",
+    maintenance: "No maintenance charge for two months after going live, then plans from ₹8,000 a month for backups, updates and fixes.",
   },
   whyUsIntro:
     "Units in the ceramic estate and traders in the bazaar have been let down before by vendors who vanished after the advance. Our answer is simple: prices that are public and start low, an itemised quote you can read line by line, WhatsApp answered all week, and every account created under your own name.",
@@ -122,7 +122,7 @@ const virudhachalam: CityContent = {
         "Our apps are built in Flutter or React Native, which lets one codebase run on Android and iPhone. For a Virudhachalam client that usually means mobile-number sign-in, a product, rate or course list, an order or booking flow, notifications and an admin screen for your staff. Apps begin at ₹40,000. We publish them on Google Play and the Apple App Store using developer accounts opened in your name.",
         "Where does an app make sense here? Ceramic suppliers with dealers who reorder the same items. Cashew and input traders with a fixed buyer or farmer list. Colleges and coaching centres that send timetables, marks and notices through the year. Hospitals and scan centres whose patients want reports on the phone. The common factor is repeat use by the same people.",
         "If most people contact you once, skip the app. A lodge near the temple, a textile shop on Bazaar Street or a lawyer will get more from a quick Tamil website and a WhatsApp button, for a fraction of the cost. We say so openly.",
-        "Store submission is included: Tamil and English listings, screenshots, privacy policy, review and any fixes Google or Apple request. Launch is followed by five months of free maintenance. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> sets out the full scope.",
+        "Store submission is included: Tamil and English listings, screenshots, privacy policy, review and any fixes Google or Apple request. Launch is followed by two months of free maintenance. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> sets out the full scope.",
       ],
     },
     {
@@ -184,7 +184,7 @@ const virudhachalam: CityContent = {
       heading: "Ownership and maintenance for Virudhachalam businesses",
       paragraphs: [
         "Some units in the estate have lost websites because the person who built them kept the domain and later could not be reached. We set things up so that cannot happen. Domain, hosting, code repository, Google Business Profile and app store accounts are opened in your name or your firm's, and we are added only as users.",
-        "Launch is followed by five months of free maintenance covering fixes, small edits and security updates. After that, a maintenance plan starts at ₹8,000 a month for backups, updates, uptime checks and minor changes. It is optional; you can end it and take the work to anyone, and we hand over all access with written notes.",
+        "Launch is followed by two months of free maintenance covering fixes, small edits and security updates. After that, a maintenance plan starts at ₹8,000 a month for backups, updates, uptime checks and minor changes. It is optional; you can end it and take the work to anyone, and we hand over all access with written notes.",
         "For kiln or trade software, we leave plain documentation so a new supervisor or another developer can take charge. A ceramic unit's order history and a trader's ledgers are business assets and should never be tied to one vendor.",
       ],
     },
@@ -227,7 +227,7 @@ const virudhachalam: CityContent = {
     {
       question: "Which is the best IT services team in Virudhachalam?",
       answer:
-        "Judge any provider by what you keep and what happens after launch: domain and code in your name, a written line-by-line quote, and a maintenance plan you understand. We are three remote engineers with public starting prices and five months of included maintenance. Whether you choose us or someone local, insist on those three things.",
+        "Judge any provider by what you keep and what happens after launch: domain and code in your name, a written line-by-line quote, and a maintenance plan you understand. We are three remote engineers with public starting prices and two months of included maintenance. Whether you choose us or someone local, insist on those three things.",
     },
     {
       question: "How quickly can you build a website for a Virudhachalam business?",
@@ -262,7 +262,7 @@ const virudhachalam: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "The first five months after launch carry no maintenance charge and include fixes, small edits and security patches. After that, an optional plan starts at ₹8,000 a month for backups, updates, uptime checks and minor changes. You may cancel at any point and look after things yourself or pass them to another developer.",
+        "The first two months after launch carry no maintenance charge and include fixes, small edits and security patches. After that, an optional plan starts at ₹8,000 a month for backups, updates, uptime checks and minor changes. You may cancel at any point and look after things yourself or pass them to another developer.",
     },
     {
       question: "Can I sell pottery or terracotta online from Virudhachalam?",

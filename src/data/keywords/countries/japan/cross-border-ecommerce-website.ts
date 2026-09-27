@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Overseas SEO after launch", `From ${P.seo}`],
     ["Overlap with Japan", "Afternoons from about 12:30 pm JST"],
     ["How you pay us", "USD quote · Wise, wire or PayPal, in USD or JPY"],
-    ["Care after go-live", `5 months included, then from ${P.care}`],
+    ["Care after go-live", `2 months included, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers on your store, not a rotating bench" },
     { value: "2", label: "Working days to an itemised export-store quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Commission taken from your overseas sales" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Overseas SEO", note: `English keyword research, collection pages and structured data for foreign search demand, with monthly SEO from ${P.seo}.`, href: "/services/seo-services/", size: "md" },
       { name: "Custom logic", note: `Destination blocks, bundle rules or ERP and warehouse connections that apps cannot handle, from ${P.software}.`, size: "sm" },
       { name: "AI product copy help", note: `Draft English descriptions from your Japanese notes for your team to check, from ${P.ai}.`, size: "sm" },
-      { name: "Aftercare", note: `Five free months, then maintenance from ${P.care}.`, size: "sm" },
+      { name: "Aftercare", note: `Two free months, then maintenance from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       ["Store and data setup", "We configure markets, currencies, taxes and duties, load product data in bulk and draft English templates for your review."],
       ["Shipping and payments", "EMS bands or courier rates are connected, restricted products are blocked by destination, and payment methods are tested with refunds."],
       ["Test orders and launch", "We place test orders to each launch market, fix the rough edges, submit the sitemap and switch on overseas checkout."],
-      ["Growth and care", "Five months of free fixes, then optional English SEO and maintenance; you get a short handover guide for daily store tasks."],
+      ["Growth and care", "Two months of free fixes, then optional English SEO and maintenance; you get a short handover guide for daily store tasks."],
     ],
   },
   faqHeading: "Questions about cross border e commerce from Japan",
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
     { question: "Can you connect the store to our warehouse or inventory system?", answer: `Often, yes. If your warehouse or inventory tool has an API or a supported app, we connect stock and orders so overseas sales do not oversell items also sold in your shop. Custom connections start at ${P.software}. We first check what the other system allows before promising a sync.` },
     { question: "Do privacy laws apply when selling to Europe or the UK?", answer: "They may, depending on how you target and process data about buyers there. We build the store so non-essential cookies stay off until a visitor consents, collect only the data needed for orders and publish a clear privacy page. Whether and how specific laws apply to your business is a question for your own lawyer." },
     { question: "Can you take over an existing export store?", answer: "Yes. We start with a review of product data, currency and duty settings, shipping rules and apps, then list what to fix first. Common problems are missing weights, outdated rate tables and currency rounding that looks odd to buyers. You get the list in writing before any paid work begins." },
-    { question: "What happens after launch?", answer: `You get five months of free fixes. After that, maintenance starts at ${P.care} and covers updates, app checks and small changes. English SEO from ${P.seo} is optional. We also suggest a review after the first three months of sales data to decide which markets to add next.` },
+    { question: "What happens after launch?", answer: `You get two months of free fixes. After that, maintenance starts at ${P.care} and covers updates, app checks and small changes. English SEO from ${P.seo} is optional. We also suggest a review after the first three months of sales data to decide which markets to add next.` },
     { question: "Can a small workshop really sell abroad from its own site?", answer: "Yes, if the products have a clear appeal to foreign buyers and the owner can pack and ship reliably. A small catalogue, one shipping method and two or three launch markets keep the first version manageable. The store can grow into more markets and couriers once orders show where demand is." },
   ],
   related: {

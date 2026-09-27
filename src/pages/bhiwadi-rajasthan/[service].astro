@@ -1,0 +1,23 @@
+---
+import FreelancePage from "@components/freelance/FreelancePage.astro";
+import { bhiwadi } from "@data/bhiwadi/place";
+import type { FreelanceContent } from "@data/freelance/types";
+
+// /bhiwadi-rajasthan/{service}/ pages. Like [keyword].astro, a page is only generated once its content file exists.
+export function getStaticPaths() {
+  const modules = import.meta.glob<{ default: FreelanceContent }>("../../data/bhiwadi/content/*.ts", { eager: true });
+  return Object.entries(modules).map(([file, { default: content }]) => {
+    const service = file.split("/").pop()!.replace(/\.ts$/, "");
+    if (content.path !== `${bhiwadi.path}${service}/`) throw new Error(`${file} has path "${content.path}", expected "${bhiwadi.path}${service}/"`);
+    return { params: { service }, props: { content } };
+  });
+}
+
+interface Props {
+  content: FreelanceContent;
+}
+
+const { content } = Astro.props;
+---
+
+<FreelancePage content={content} place={bhiwadi} />

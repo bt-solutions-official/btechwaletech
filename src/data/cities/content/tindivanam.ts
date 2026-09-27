@@ -56,7 +56,7 @@ const tindivanam: CityContent = {
     ai: "WhatsApp assistants in Tamil that answer timings, fees, stock and price questions and hand anything important to a person.",
     data: "Dashboards of purchase lots, dispatches, admissions or patient footfall that owners can read on a phone before the day starts.",
     app: "Android and iOS apps for field sales staff, college notices or repeat customer orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, fixes and small edits.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, fixes and small edits.",
   },
   whyUsIntro:
     "Owners in Tindivanam usually know exactly what they spend on every lorry trip and every bag of stock, and they expect the same clarity from a web project. We publish starting prices, send an itemised written quote, reply on WhatsApp seven days a week and keep your domain, hosting, code and app store accounts in your own name.",
@@ -168,7 +168,7 @@ const tindivanam: CityContent = {
       heading: "Website cost in Tindivanam and how we price each job",
       paragraphs: [
         "The most common first question is simple: what is the <strong>website cost in Tindivanam</strong>? Our starting prices are published so you know where a conversation begins. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000. AI automation starts at ₹40,000 and takes two to four weeks.",
-        "Ecommerce stores start at ₹50,000 and usually take four to eight weeks. Custom web apps and software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After five months of free maintenance following launch, maintenance starts at ₹8,000 a month.",
+        "Ecommerce stores start at ₹50,000 and usually take four to eight weeks. Custom web apps and software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After two months of free maintenance following launch, maintenance starts at ₹8,000 a month.",
         "These are starting points, not fixed amounts. The final figure depends on page count, whether content is in Tamil, English or both, how many products or services need their own page, app screens, payment and delivery rules, and any integration with billing software. We send an itemised quote within about two working days of understanding the brief, and nothing is billed before you approve it in writing.",
         "Local quotes in Tindivanam and Viluppuram vary widely. When you compare, check who owns the domain and hosting, whether source code is handed over, how many revisions are included, what maintenance costs after launch and whether Tamil content is written or only pasted in. Our full list is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -189,7 +189,7 @@ const tindivanam: CityContent = {
       paragraphs: [
         "A common complaint we hear from small towns is about a website that disappeared when the person who built it stopped answering calls. Often the domain was registered in the developer's name, the hosting login was never shared, and the business had to start again from nothing. We set things up so that cannot happen.",
         "Your domain, hosting, source code, Google Business Profile and, for apps, your Google Play and App Store developer accounts are registered in your name. We hand over logins in a written document and walk you or a trusted person through them. If you ever move to another developer, they can pick up where we left off.",
-        "After launch, you get five months of free maintenance. That covers bug fixes, small text and photo changes, security updates and help if something breaks. After that, maintenance starts at ₹8,000 a month and includes backups, updates, uptime checks and a set amount of editing time. For apps, it also covers updates required when Android or iOS change their rules.",
+        "After launch, you get two months of free maintenance. That covers bug fixes, small text and photo changes, security updates and help if something breaks. After that, maintenance starts at ₹8,000 a month and includes backups, updates, uptime checks and a set amount of editing time. For apps, it also covers updates required when Android or iOS change their rules.",
         "We would rather tell you that you do not need a monthly plan than sell one you will not use. A small static site may only need an occasional update, and we will say so.",
       ],
     },
@@ -272,7 +272,7 @@ const tindivanam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of free maintenance after launch, covering bug fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and includes backups, updates, uptime checks and editing time. For a small static site that rarely changes, we will tell you honestly if occasional updates are enough.",
+        "You get two months of free maintenance after launch, covering bug fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and includes backups, updates, uptime checks and editing time. For a small static site that rarely changes, we will tell you honestly if occasional updates are enough.",
     },
     {
       question: "Can you build an online store for groundnut oil or snacks from Tindivanam?",

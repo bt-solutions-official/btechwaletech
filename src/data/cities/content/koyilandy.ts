@@ -56,7 +56,7 @@ const koyilandy: CityContent = {
     ai: "WhatsApp assistants in Malayalam and English that answer stock, timing and booking questions and pass real decisions to you.",
     data: "Dashboards of daily catch purchases, sales by buyer, dues and shop footfall that an owner can check from anywhere, including the Gulf.",
     app: "Android and iOS apps for repeat seafood buyers, delivery staff or college notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Many Koyilandy businesses are owned by families with someone working in the Gulf, and decisions are often made on a video call across time zones. That suits how we work. We publish starting prices, send itemised quotes in writing, reply on WhatsApp seven days a week and register every domain, hosting and app store account in your name.",
@@ -168,7 +168,7 @@ const koyilandy: CityContent = {
       heading: "Website cost in Koyilandy, explained line by line",
       paragraphs: [
         "Owners here usually open with one question: what is the <strong>website cost in Koyilandy</strong>? We keep our starting figures public so the conversation has a clear floor. Brochure-style static sites, up to 100 pages, are ₹10,000 onwards and take around one to two weeks. Search-focused sites with 700 or more pages begin at ₹20,000, with three to five weeks of work.",
-        "Apps for Android and iOS begin at ₹40,000, and AI or WhatsApp automation also starts from ₹40,000, typically over two to four weeks. An <strong>ecommerce website in Koyilandy</strong> is ₹50,000 onwards with four to eight weeks of build time, and bespoke web applications start at ₹60,000 across six to twelve weeks. Ongoing SEO is ₹10,000 a month onwards. Care plans begin at ₹8,000 a month, but only once the first five free months after launch are over.",
+        "Apps for Android and iOS begin at ₹40,000, and AI or WhatsApp automation also starts from ₹40,000, typically over two to four weeks. An <strong>ecommerce website in Koyilandy</strong> is ₹50,000 onwards with four to eight weeks of build time, and bespoke web applications start at ₹60,000 across six to twelve weeks. Ongoing SEO is ₹10,000 a month onwards. Care plans begin at ₹8,000 a month, but only once the first two free months after launch are over.",
         "What moves a quote above the floor? The number of pages and products, writing in Malayalam as well as English, extra app screens, delivery slots, online payment rules and any connection to the billing package your accountant uses. You get each of these as a separate line, usually within two working days, and no invoice is raised until you have said yes in writing.",
         "Prices quoted by other providers around Koyilandy and Kozhikode differ a great deal. Rather than comparing totals alone, ask whose name the domain sits under, whether the source code comes to you, how many rounds of changes are covered and what the renewal and upkeep bills look like in year two. The full table sits on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -189,7 +189,7 @@ const koyilandy: CityContent = {
       paragraphs: [
         "Ask around the Koyilandy market and someone will describe a site that simply stopped working after the person who made it moved on. The address had been booked under his name, the server password lived only on his laptop, and the shop had to pay for the same work twice. We structure every job to rule that out.",
         "The domain, the hosting plan, the full source code, the Google Business Profile and, for apps, the Play Console and Apple developer accounts are opened in the business's own name. At handover you receive a written sheet of every login, and we go through it on a call with you or whoever you trust. A future developer can pick the project up on day one.",
-        "For five months after going live, fixes, minor edits and security patches cost nothing. From then on, care plans are ₹8,000 a month onwards and bring backups, software updates, uptime watching and a block of editing hours. App plans also cover the changes Google and Apple demand when their rules move.",
+        "For two months after going live, fixes, minor edits and security patches cost nothing. From then on, care plans are ₹8,000 a month onwards and bring backups, software updates, uptime watching and a block of editing hours. App plans also cover the changes Google and Apple demand when their rules move.",
         "A small site that changes twice a year may not need a monthly plan at all, and we will tell you that plainly instead of signing you up.",
       ],
     },
@@ -272,7 +272,7 @@ const koyilandy: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after going live, bug fixes, minor edits and security patches are free. After that, care plans are ₹8,000 a month onwards, covering backups, updates, uptime watching and some editing hours. A site that changes only a couple of times a year may not need a plan at all, and we will tell you so.",
+        "For two months after going live, bug fixes, minor edits and security patches are free. After that, care plans are ₹8,000 a month onwards, covering backups, updates, uptime watching and some editing hours. A site that changes only a couple of times a year may not need a plan at all, and we will tell you so.",
     },
     {
       question: "Can you build a homestay website near Kappad beach?",

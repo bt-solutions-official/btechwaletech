@@ -34,7 +34,7 @@ const jalpaiguri: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Homestay booking enquiries", "Online tea stores", "Replies seven days a week"],
   },
   quickAnswer:
-    "For Jalpaiguri businesses, our static websites start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online tea or retail stores at ₹50,000 and custom software at ₹60,000. We have no office in Jalpaiguri, working remotely instead, and maintenance is free for five months.",
+    "For Jalpaiguri businesses, our static websites start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online tea or retail stores at ₹50,000 and custom software at ₹60,000. We have no office in Jalpaiguri, working remotely instead, and maintenance is free for two months.",
   snapshot: [
     { label: "Setting", value: "On the Teesta and Karala rivers at the Himalayan foothills, about 35 km south of Siliguri" },
     { label: "Administration", value: "Headquarters of Jalpaiguri district and of the Jalpaiguri division of North Bengal" },
@@ -51,7 +51,7 @@ const jalpaiguri: CityContent = {
     ai: "WhatsApp assistants that answer room availability, safari timing and tariff questions for Dooars stays and pass confirmed bookings to the owner.",
     data: "Dashboards that show leaf intake, made tea output, occupancy or sales by month, drawn from the registers you already keep.",
     app: "Android and iOS apps for field staff logging tea leaf collection or for guests viewing Dooars itineraries, published on both stores.",
-    maintenance: "Tariff and season changes, backups and security updates free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Tariff and season changes, backups and security updates free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Jalpaiguri businesses often end up depending on a Siliguri or Kolkata agency that is slow to answer, or a local helper who moves on. We publish starting prices, write in Bengali and English for the people who actually search, answer on WhatsApp every day, and put the domain, hosting and code in your name.",
@@ -184,10 +184,10 @@ const jalpaiguri: CityContent = {
     },
     {
       id: "ownership-maintenance-jalpaiguri",
-      heading: "Ownership and five months of free maintenance",
+      heading: "Ownership and two months of free maintenance",
       paragraphs: [
         "Your domain and hosting are registered in your name from day one, and at launch you receive every login and the full source code. You can move to another developer at any point without paying an exit fee. We insist on this because we have seen too many local businesses lose their site when a former helper stopped answering.",
-        "Maintenance is free for five months after launch. That covers tariff and season updates, new products, bug fixes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can come to us only when you need something. Our <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
+        "Maintenance is free for two months after launch. That covers tariff and season updates, new products, bug fixes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can come to us only when you need something. Our <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
       ],
     },
     {
@@ -278,7 +278,7 @@ const jalpaiguri: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle tariff and content updates, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance is available from ₹8,000 a month, or you can come to us only when you need a change.",
+        "For two months after launch we handle tariff and content updates, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance is available from ₹8,000 a month, or you can come to us only when you need a change.",
     },
     {
       question: "How long does SEO take to work?",

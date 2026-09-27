@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Frameworks", "Gin, Echo, Fiber or net/http, chosen per project"],
     ["Service-to-service", "REST or gRPC with Protocol Buffers"],
     ["Quote", "Itemised in about 2 working days"],
-    ["Post-launch", "5 months of free maintenance"],
+    ["Post-launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers; a second one reviews every Go pull request" },
     { value: "2", label: "Working days to an itemised back-end quote" },
-    { value: "5", label: "Months of free maintenance after release" },
+    { value: "2", label: "Months of free maintenance after release" },
     { value: "0", label: "Platform fees on top of what you approve" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What it costs to hire a Golang developer from our team",
-    note: `Go work is quoted per project with each service, integration and infrastructure task on its own line. A Go API or service back end starts at ${P.software} (${P.softwareUsd}). Quotes rise with the number of endpoints and data models, external integrations such as payments or messaging, real-time connections, gRPC between several services, and the infrastructure you need, from a single server to Kubernetes. Load testing and monitoring are included as named lines, not assumed. Every figure is a starting price, nothing is billed before written approval, and 5 months of free maintenance follow launch.`,
+    note: `Go work is quoted per project with each service, integration and infrastructure task on its own line. A Go API or service back end starts at ${P.software} (${P.softwareUsd}). Quotes rise with the number of endpoints and data models, external integrations such as payments or messaging, real-time connections, gRPC between several services, and the infrastructure you need, from a single server to Kubernetes. Load testing and monitoring are included as named lines, not assumed. Every figure is a starting price, nothing is billed before written approval, and 2 months of free maintenance follow launch.`,
   },
   guideLabel: "Guide to hiring a Golang developer",
   guide: [
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose a per-project quote for a defined back end, a monthly care arrangement for keeping services healthy after launch, and a dedicated developer only when you have a continuous backlog and someone to direct the work daily.`,
         `Outsourcing vendors often sell Go developers by the hour, week or month, with the developer working inside your team’s process. That suits companies with a tech lead and a long backlog. Marketplaces such as Upwork and Toptal offer hourly or milestone contracts with individual freelancers, which suits short, clearly scoped tasks.`,
-        `Our model is different. You describe the outcome, we list every service, integration and infrastructure piece as a line with a starting price, and you approve it in writing before work begins. Payments follow milestones you can test on a staging environment. After launch, 5 months of maintenance are free; ongoing care then starts at ${P.care} (${P.careUsd}). New features are quoted as small projects, so the budget never drifts silently.`,
+        `Our model is different. You describe the outcome, we list every service, integration and infrastructure piece as a line with a starting price, and you approve it in writing before work begins. Payments follow milestones you can test on a staging environment. After launch, 2 months of maintenance are free; ongoing care then starts at ${P.care} (${P.careUsd}). New features are quoted as small projects, so the budget never drifts silently.`,
         `Indian clients receive quotes in rupees and pay by UPI or bank transfer. International clients are quoted in USD and pay by Wise, bank wire or PayPal. For a longer-term arrangement, read about the <a href='/dedicated-web-developer/'>dedicated developer model</a> and how it compares.`,
       ],
     },
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan to move your Go toolchain forward about once or twice a year. The Go release history on go.dev states that each major Go release is supported until there are two newer major releases, with critical and security fixes issued as minor revisions during that window.`,
         `Upgrading Go is usually painless thanks to the Go 1 compatibility promise, which says programs written to the Go 1 specification should continue to compile and run correctly, unchanged, over the lifetime of that specification. Most upgrade work is in third-party modules, not the language. At the time of writing, go.dev lists Go 1.27 as the newest major release, published in August 2026.`,
-        `Our maintenance routine for a Go project includes updating the toolchain within the supported window, reviewing module updates, running <code>govulncheck</code>, checking container base images and watching error rates after each deploy. The first 5 months after launch are free; after that, care starts at ${P.care} (${P.careUsd}).`,
+        `Our maintenance routine for a Go project includes updating the toolchain within the supported window, reviewing module updates, running <code>govulncheck</code>, checking container base images and watching error rates after each deploy. The first 2 months after launch are free; after that, care starts at ${P.care} (${P.careUsd}).`,
       ],
     },
     {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
         ["Several services with gRPC", "Project quote in phases", `${P.software} · ${P.softwareUsd}`, "8–12 weeks"],
         ["AI or automation around a Go API", "Project quote", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
         ["Code audit of an existing Go service", "Quoted after first look", "Ask for a quote", "Agreed in your quote"],
-        ["Ongoing care and upgrades", "Monthly", `${P.care} · ${P.careUsd}`, "After 5 free months"],
+        ["Ongoing care and upgrades", "Monthly", `${P.care} · ${P.careUsd}`, "After 2 free months"],
       ],
     },
   ],
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Itemised estimate", "About two working days later you receive every service, integration and infrastructure task as a line with a starting price and a milestone plan."],
       ["Contracts before code", "After written approval we write the OpenAPI or .proto contracts and set up the repo, CI with race-enabled tests and a staging environment in your cloud."],
       ["Build, review, load test", "Weekly milestones on staging, each pull request reviewed by a second developer, and a load test against your expected peak before launch."],
-      ["Launch and look after it", "Production deploy with monitoring and alerts, a runbook and handover pack, then 5 months of free maintenance and optional monthly care."],
+      ["Launch and look after it", "Production deploy with monitoring and alerts, a runbook and handover pack, then 2 months of free maintenance and optional monthly care."],
     ],
   },
   faqHeading: "Questions people ask before they hire a Golang developer",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Which cloud do you deploy Go services on?", answer: "We usually deploy on AWS, and can work with other major clouds, always in your own account. Small products often run well on a managed container service with a managed PostgreSQL database; Kubernetes suits several independently scaling services. Health checks, logs, metrics and alerts are set up before launch." },
     { question: "Who owns the Go code and infrastructure?", answer: "You do. The Git repository, cloud account, container registry, domains and secrets are all created in your name from the start. We work as collaborators you can remove at any time. The handover pack includes a README, environment template, API contracts, infrastructure notes and a runbook for common incidents." },
     { question: "How long is each Go version supported?", answer: "According to the Go release history on go.dev, each major Go release is supported until there are two newer major releases, with critical and security fixes issued as minor revisions. The Go 1 compatibility promise means code written for Go 1 should keep compiling and running unchanged, so staying current is usually straightforward." },
-    { question: "What maintenance does a Go service need after launch?", answer: `Go services need toolchain updates within the supported window, module and container image updates, vulnerability checks with govulncheck, and monitoring of errors and latency. You get 5 months of free maintenance after launch. After that, ongoing care starts at ${P.care} (${P.careUsd}); larger new features are quoted separately as small projects.` },
+    { question: "What maintenance does a Go service need after launch?", answer: `Go services need toolchain updates within the supported window, module and container image updates, vulnerability checks with govulncheck, and monitoring of errors and latency. You get 2 months of free maintenance after launch. After that, ongoing care starts at ${P.care} (${P.careUsd}); larger new features are quoted separately as small projects.` },
     { question: "Should I hire a dedicated Golang developer or a project team?", answer: "Hire a dedicated developer if you have a tech lead to direct them and a continuous backlog for many months. Choose a project team when you need a defined back end designed, built, tested and deployed, with review and infrastructure included. Our three developers work per project, with monthly care afterwards, rather than as a placed full-time resource." },
     { question: "How do payments work for a Go project?", answer: "Nothing is billed until you approve the itemised quote in writing. Payments follow milestones you can test on staging. Indian clients pay in rupees by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. The milestone split is written into your quote, and our terms page explains the general rules." },
     { question: "Will you sign an NDA for my Go project?", answer: "Raise it when you first contact us and we will discuss what you need. Many clients share a short, non-sensitive description first and the full technical detail once confidentiality terms are agreed in writing alongside the quote. Our terms page describes the general basis of our work; specific terms are settled with you directly." },

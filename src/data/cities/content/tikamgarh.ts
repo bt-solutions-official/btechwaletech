@@ -56,7 +56,7 @@ const tikamgarh: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer price, stock, fee and timing questions and hand serious enquiries to you.",
     data: "Simple dashboards of sales by village, dues outstanding, admissions by month and craft orders by state.",
     app: "Android and iOS apps for a coaching institute's students or a dealer's village retailers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Tikamgarh business owners tend to know their customers personally and dislike paying for things they cannot see. We publish starting prices, send an itemised written quote, reply on WhatsApp every day, and keep your domain, hosting, code and store accounts in your own name. If something will not earn back its cost, we tell you plainly.",
@@ -176,7 +176,7 @@ const tikamgarh: CityContent = {
       heading: "Who owns your Tikamgarh website or app, and what happens after launch",
       paragraphs: [
         "A familiar problem in smaller towns is a site that vanishes when the person who built it changes his number. We avoid that by registering the domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts in your name from the first day, and handing over every login in writing.",
-        "Maintenance is free for five months after launch: content and price updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue. You are free to move the code to another developer at any time, and we will help with the handover.",
+        "Maintenance is free for two months after launch: content and price updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue. You are free to move the code to another developer at any time, and we will help with the handover.",
         "Apps need yearly updates because Google and Apple change their rules. We track those changes so your app is not pulled from the stores. Ready to start? Send your details through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
@@ -259,7 +259,7 @@ const tikamgarh: CityContent = {
     {
       question: "What maintenance do you give after launch?",
       answer:
-        "The first five months are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you wish to continue. You can also take the code and move to another developer whenever you want.",
+        "The first two months are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you wish to continue. You can also take the code and move to another developer whenever you want.",
     },
     {
       question: "Do you work with businesses in Jatara, Baldeogarh, Niwari and Lalitpur?",

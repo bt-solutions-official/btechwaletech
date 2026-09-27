@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering frontend, backend and data" },
     { value: "2", label: "Working days to an itemised MVP quote" },
-    { value: "5", label: "Months of free fixes and upkeep after launch" },
+    { value: "2", label: "Months of free fixes and upkeep after launch" },
     { value: "0", label: "Repositories held back from you at handover" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Android and iOS MVP", value: `From ${P.app}` },
       { label: "Timeline", value: "6–10 weeks for a focused scope" },
       { label: "Data location", value: "EU AWS region you choose, in your account" },
-      { label: "After launch", value: `5 months of free upkeep, then from ${P.care}` },
+      { label: "After launch", value: `2 months of free upkeep, then from ${P.care}` },
     ],
   },
   services: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "AI feature inside the MVP", note: `Document extraction, smart search or an assistant scoped to your product, with prompts and logs you can inspect. From ${P.ai}.`, href: "/netherlands/ai-automation-agency/", size: "md" },
       { name: "Clickable prototype first", note: "When you are not ready to code, a clickable prototype to test with ten users or show investors before committing a build budget.", size: "sm" },
       { name: "Landing page and waitlist", note: `A fast marketing site with sign-up capture and analytics consent handled, from ${P.site}.`, href: "/netherlands/wordpress-website-development/", size: "sm" },
-      { name: "Upkeep after launch", note: `Dependency updates, monitoring, small fixes and cloud cost checks, free for five months, then from ${P.care}.`, size: "sm" },
+      { name: "Upkeep after launch", note: `Dependency updates, monitoring, small fixes and cloud cost checks, free for two months, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What MVP development costs for a Dutch startup",
-    note: `All figures are USD starting prices. A web MVP starts from ${P.software} and usually covers sign-up and roles, one core workflow, subscription billing, an admin view and product analytics. A cross-platform mobile MVP starts from ${P.app}. Adding an AI feature starts from ${P.ai}. What moves the number is the count of user roles, third-party integrations, real-time features and how polished the design must be for your pitch. Cloud hosting, app store accounts, payment-provider fees and paid APIs are billed to you directly. After five free months, upkeep starts from ${P.care}.`,
+    note: `All figures are USD starting prices. A web MVP starts from ${P.software} and usually covers sign-up and roles, one core workflow, subscription billing, an admin view and product analytics. A cross-platform mobile MVP starts from ${P.app}. Adding an AI feature starts from ${P.ai}. What moves the number is the count of user roles, third-party integrations, real-time features and how polished the design must be for your pitch. Cloud hosting, app store accounts, payment-provider fees and paid APIs are billed to you directly. After two free months, upkeep starts from ${P.care}.`,
   },
   guideLabel: "Founder's guide to MVP development for startups in the Netherlands",
   guide: [
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
       id: "after-launch",
       heading: "What happens after the MVP launches?",
       paragraphs: [
-        `For five months after launch we keep the product healthy for free: dependency updates, monitoring, fixes for bugs found in production and cloud cost checks. After that, upkeep starts from ${P.care}, and new features are scoped and quoted as small projects.`,
+        `For two months after launch we keep the product healthy for free: dependency updates, monitoring, fixes for bugs found in production and cloud cost checks. After that, upkeep starts from ${P.care}, and new features are scoped and quoted as small projects.`,
         "The first month after launch is usually the most informative. Watch activation: how many sign-ups reach the moment of value. Watch retention: who comes back in week two. Watch conversion: who pays when the trial ends. Your analytics should answer those three questions without a spreadsheet.",
         "Then comes the decision the MVP exists for. Double down, pivot the workflow, or stop. Whichever you choose, the handover means you are free to continue with us, with an in-house team, or with both.",
       ],
@@ -439,7 +439,7 @@ const content: FreelanceContent = {
       ["Written scope and quote", "Within about two working days you receive the scope, architecture outline and an itemised USD quote with milestones. Nothing is billed before your written approval."],
       ["Weekly build and demo", "Code lands in your repository daily; every week you click through the staging build and adjust priorities inside the agreed scope."],
       ["Pilot and hardening", "Real users test it; we fix what they hit, add tests around sign-up, payment and the core flow, and review security basics."],
-      ["Launch and handover", "Production deploy in your EU AWS account, handover documents, a recorded code walkthrough, then five months of free upkeep."],
+      ["Launch and handover", "Production deploy in your EU AWS account, handover documents, a recorded code walkthrough, then two months of free upkeep."],
     ],
   },
   faqHeading: "MVP development for startups: founders' questions",
@@ -460,7 +460,7 @@ const content: FreelanceContent = {
     { question: "What happens if we want to change scope mid-build?", answer: "Changes are welcome, but they trade against something. We note the new idea, estimate it, and you decide whether to swap it for an existing item, add it as a paid change, or park it for after launch. Nothing is added to your bill without your written approval, and the default home for new ideas is the later list." },
     { question: "Can you build both web and mobile versions of the MVP?", answer: `Yes, but ask whether you need both now. Many MVPs test the idea on a responsive web app first. If mobile is essential, for example for field workers or consumers on the go, we build Android and iOS from one Flutter or React Native codebase from ${P.app}, sharing the same API as a web admin panel.` },
     { question: "Can my MVP include AI features?", answer: `Yes, when AI is the value you are testing. We scope narrow uses such as document extraction, classification or answering questions over the customer's data, starting from ${P.ai}. Inputs, outputs and costs are logged, and users are told when they are interacting with AI, in line with the EU AI Act transparency rule for chat-style systems.` },
-    { question: "What support do we get after launch?", answer: `Five months of free upkeep after launch: dependency updates, monitoring, production bug fixes and cloud cost checks. After that, upkeep plans start from ${P.care}. New features are scoped and quoted as small projects so your budget stays predictable. You can also move maintenance in-house at any point, since handover is part of the build.` },
+    { question: "What support do we get after launch?", answer: `Two months of free upkeep after launch: dependency updates, monitoring, production bug fixes and cloud cost checks. After that, upkeep plans start from ${P.care}. New features are scoped and quoted as small projects so your budget stays predictable. You can also move maintenance in-house at any point, since handover is part of the build.` },
     { question: "How do we pay, and do you sign contracts?", answer: "Work is quoted in USD and paid in milestones by Wise, bank wire or PayPal, with invoices issued from India. Scope, milestones and IP assignment are written into the quote you approve. Other terms, including confidentiality, are agreed in writing before work begins; our general terms and refund policy are published on this site." },
     { question: "Why use a team in India for MVP development instead of Dutch developers?", answer: "Mainly budget and speed: a seed round goes further when the first product costs less, and three developers can start within days rather than after months of recruiting. The trade-offs are no in-person workshops and a time-zone difference. For some founders a local studio or a co-founder is still the better choice, and we say so." },
     { question: "Do you help with the landing page and SEO for launch?", answer: `Yes. A fast marketing site with a waitlist and consent-aware analytics starts from ${P.site}, and monthly SEO from ${P.seo} if you want ongoing work. Nobody can guarantee rankings, but a clean technical base helps your launch pages get crawled, indexed and considered for Google's AI Overviews.` },

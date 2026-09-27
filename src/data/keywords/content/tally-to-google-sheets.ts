@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Refresh", "Hourly, daily or at a time you pick"],
     ["Reads Tally by", "XML over HTTP or ODBC, read-only"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Support", "5 months free, then optional care"],
+    ["Support", "2 months free, then optional care"],
   ],
   stats: [
     { value: "3", label: "Developers in the team" },
     { value: "2", label: "Working days to your quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Direction", value: "One way, Tally to sheet; nothing writes back into your books" },
       { label: "Price", value: `From ${P.ai} (${P.aiUsd}); multi-branch portals from ${P.software}` },
       { label: "Runs on", value: "A small agent beside Tally plus your Google account" },
-      { label: "Care", value: `5 months free, then from ${P.care}` },
+      { label: "Care", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What Tally to Google Sheets automation costs",
-    note: `A scheduled export of up to a handful of Tally reports into one Google Sheet, with a basic phone-friendly summary tab, starts at ${P.ai}. The quote rises with each extra Tally company or branch PC, heavier reports such as item-wise sales history, a Looker Studio dashboard with drill-downs, Excel output alongside Sheets, and alerts by email or WhatsApp. A full web portal for branch managers with logins and permissions is quoted as custom software from ${P.software}. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing. Five months of maintenance are free after go-live.`,
+    note: `A scheduled export of up to a handful of Tally reports into one Google Sheet, with a basic phone-friendly summary tab, starts at ${P.ai}. The quote rises with each extra Tally company or branch PC, heavier reports such as item-wise sales history, a Looker Studio dashboard with drill-downs, Excel output alongside Sheets, and alerts by email or WhatsApp. A full web portal for branch managers with logins and permissions is quoted as custom software from ${P.software}. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing. Two months of maintenance are free after go-live.`,
   },
   guideLabel: "Tally to Google Sheets guide",
   guide: [
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       id: "cost-scope",
       eyebrow: "Costs",
       heading: "Tally to Google Sheets cost by scope",
-      note: `Starting prices only; the itemised quote follows your report list and branch count. Includes five months of free maintenance.`,
+      note: `Starting prices only; the itemised quote follows your report list and branch count. Includes two months of free maintenance.`,
       columns: ["Scope", "What you get", "Starts at", "Typical time"],
       rows: [
         ["Single-company feed", "Up to a few reports to one sheet with a summary tab", `${P.ai}`, "1–2 weeks"],
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       ["Agent on the Tally PC", "Over a remote session we install the read-only agent, enable Tally’s connectivity settings locally, and connect it to a sheet owned by your Google account."],
       ["Check against Tally", "For several days the sheet runs beside your accountant’s screen. Every figure is compared with Tally until totals agree to the rupee."],
       ["Dashboard and access", "We build the phone layout or Looker Studio report, share it with the named people only, and switch off link sharing."],
-      ["Handover and support", "You receive the agent settings, service account details and a short guide. Five months of free maintenance cover report changes and Tally updates."],
+      ["Handover and support", "You receive the agent settings, service account details and a short guide. Two months of free maintenance cover report changes and Tally updates."],
     ],
   },
   faqHeading: "Tally to Google Sheets: questions owners ask",
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "Do I need a Google Workspace account?", answer: "No, a normal Google account works. Workspace helps if many staff need access under company-controlled accounts, and Google gives Workspace accounts higher automation quotas: for example, 6 hours of daily trigger runtime compared with 90 minutes on consumer accounts, according to Google’s Apps Script quota page." },
     { question: "Can I get a daily Tally summary on WhatsApp?", answer: "Yes. Once figures sit in the sheet, a short morning message with yesterday’s sales, collections and top overdue parties can be sent by email or through the WhatsApp Business Platform with a link to the full sheet. WhatsApp messaging has its own running charges from Meta, which we explain before setting it up." },
     { question: "Is Looker Studio free for a Tally dashboard?", answer: "Google offers a standard version without licence fees and a paid Pro edition with organisation-owned reports, team workspaces and extra delivery options. A typical owner dashboard over a Google Sheet works well on the standard version. We suggest Pro only when several managers build and share reports across a larger team." },
-    { question: "What happens when Tally is upgraded?", answer: "Tally upgrades usually keep the XML and ODBC interfaces stable, but report names or fields can change. During the five free months after launch we fix anything an upgrade breaks. After that you can choose a care plan at the maintenance price, ask for one-off fixes, or have your own IT person manage the agent." },
+    { question: "What happens when Tally is upgraded?", answer: "Tally upgrades usually keep the XML and ODBC interfaces stable, but report names or fields can change. During the two free months after launch we fix anything an upgrade breaks. After that you can choose a care plan at the maintenance price, ask for one-off fixes, or have your own IT person manage the agent." },
     { question: "Who owns the sheet, agent and scripts?", answer: "You do. The sheet and dashboard sit in your Google account, the service account is in your Google Cloud project, and the agent’s code and settings are handed over. If you part ways with us, access is removed in minutes and the feed keeps running on your machines." },
     { question: "Tally ka data mobile par kaise dekhein bina office PC ke?", answer: "Office ke Tally PC par ek chhota read-only agent lagta hai jo har ghante sales, outstanding aur stock ki report Google Sheet me bhej deta hai. Aap phone par Google Sheets app ya dashboard link khol kar sab dekh sakte hain. Tally chalu rehna chahiye; setup ka starting price AI automation plan ke barabar hai." },
     { question: "Do you visit the office to install it?", answer: "No. We work fully remotely and install the agent over a screen-sharing session on your Tally computer, in English or Hindi. If your office network or PC hardware needs attention, your local IT person handles that. We look after the software, the sheet and the dashboard." },
@@ -434,7 +434,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us the five numbers you want on your phone",
-    note: `Send us on WhatsApp the reports you check most, how many Tally companies or branches you run, and who should see them. You get an itemised quote in about two working days for a Tally to Google Sheets setup starting at ${P.ai}, owned by you, with five months of free maintenance.`,
+    note: `Send us on WhatsApp the reports you check most, how many Tally companies or branches you run, and who should see them. You get an itemised quote in about two working days for a Tally to Google Sheets setup starting at ${P.ai}, owned by you, with two months of free maintenance.`,
   },
 };
 

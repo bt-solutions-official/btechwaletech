@@ -30,11 +30,11 @@ const englishBazar: CityContent = {
     eyebrow: "English Bazar · Malda · West Bengal",
     h1: "Websites, software, SEO and AI tools for English Bazar, the heart of Malda's mango country",
     lede:
-      "A remote team of three engineers building websites, Bengali and English search pages, mango and silk stores and WhatsApp workflows for English Bazar's traders, orchards, clinics, coaching centres and hotels, from Rathbari and Chittaranjan Market to the orchards around Old Malda. Prices start low and are public, you own everything, and upkeep is free for five months.",
+      "A remote team of three engineers building websites, Bengali and English search pages, mango and silk stores and WhatsApp workflows for English Bazar's traders, orchards, clinics, coaching centres and hotels, from Rathbari and Chittaranjan Market to the orchards around Old Malda. Prices start low and are public, you own everything, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Mango season stores", "Clinic and school sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In English Bazar (Malda), our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores, such as mango boxes or silk sarees, from ₹50,000. We are a remote three-engineer team with no Malda office, and five months of maintenance after launch are free.",
+    "In English Bazar (Malda), our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores, such as mango boxes or silk sarees, from ₹50,000. We are a remote three-engineer team with no Malda office, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "City", value: "Headquarters of Malda district on the Mahananda; English Bazar and Old Malda municipalities form the urban area" },
     { label: "Known for", value: "Mangoes, with GI tags for Malda Fazli, Malda Khirsapati (Himsagar) and Malda Laxman Bhog" },
@@ -51,10 +51,10 @@ const englishBazar: CityContent = {
     ai: "WhatsApp assistants that answer the flood of mango season questions about varieties, box sizes, prices and delivery dates, in Bengali or English, and hand over the rest.",
     data: "Simple dashboards for orders by variety and pin code, courier status, fee collections and enquiry sources, readable on a phone.",
     app: "Android and iOS apps for pre-booking mango boxes, student portals and clinic appointments, published on both stores and starting at ₹40,000.",
-    maintenance: "Updates, backups, security and seasonal changes free for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Updates, backups, security and seasonal changes free for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
-    "Malda businesses often have to choose between agencies in Kolkata or Siliguri who rarely visit, and local freelancers who disappear after delivery. We show starting prices openly, write in Bengali where your customers need it, answer on WhatsApp every day of the week, and keep caring for the site free of charge for five months after launch.",
+    "Malda businesses often have to choose between agencies in Kolkata or Siliguri who rarely visit, and local freelancers who disappear after delivery. We show starting prices openly, write in Bengali where your customers need it, answer on WhatsApp every day of the week, and keep caring for the site free of charge for two months after launch.",
   pricingIntro:
     "These are starting prices. What you finally pay depends on how many pages, products and languages you need, and on features like online payments or bookings. We send an itemised quote in about two working days, and no work is billed until you approve it in writing.",
   sections: [
@@ -173,11 +173,11 @@ const englishBazar: CityContent = {
     },
     {
       id: "ownership-malda",
-      heading: "You own it all, and the first five months of care are free",
+      heading: "You own it all, and the first two months of care are free",
       paragraphs: [
         "Many Malda businesses have lost a website because the developer registered the domain in their own name and then stopped responding. When the renewal failed, the site and email vanished together. Recovering them can take weeks or may not be possible at all.",
         "With us, the domain and hosting are registered in your name from the start. At launch you receive every login, the complete source code and a short guide. If you ever want another developer to take over, you can hand everything across at no charge.",
-        "Maintenance is free for five months after launch, covering content updates, seasonal changes such as opening mango pre-booking, bug fixes, security updates, backups and speed checks. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something. Reach us on our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "Maintenance is free for two months after launch, covering content updates, seasonal changes such as opening mango pre-booking, bug fixes, security updates, backups and speed checks. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something. Reach us on our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const englishBazar: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content changes, seasonal updates, bug fixes, security updates, backups and speed checks free. After that, maintenance is from ₹8,000 a month, or you can contact us only when something needs changing.",
+        "For two months after launch we handle content changes, seasonal updates, bug fixes, security updates, backups and speed checks free. After that, maintenance is from ₹8,000 a month, or you can contact us only when something needs changing.",
     },
     {
       question: "How do I get started?",

@@ -56,7 +56,7 @@ const punalur: CityContent = {
     ai: "WhatsApp assistants that quote stock, room availability or OP timings in Malayalam and hand the chat to staff when the question gets specific.",
     data: "Rate and stock dashboards for pepper and rubber dealers that show godown quantity, today's price and grower dues on one phone screen.",
     app: "Android and iOS apps from ₹40,000 for wholesale buyers placing daily market orders or coaching students checking tests, listed on Google Play and the App Store.",
-    maintenance: "Five free months of care after launch, then from ₹8,000 a month for edits, backups, updates, uptime watching and payment checks.",
+    maintenance: "Two free months of care after launch, then from ₹8,000 a month for edits, backups, updates, uptime watching and payment checks.",
   },
   whyUsIntro:
     "Punalur has watched big promises before: a paper mill that employed a thousand people went silent for almost three decades. So we keep ours small and written down. Starting prices are published, every quote arrives as an itemised list, the domain, hosting, code and store accounts are registered to you, and WhatsApp is answered on all seven days. If a feature will not earn back its cost, we say so first.",
@@ -191,7 +191,7 @@ const punalur: CityContent = {
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance: from ₹8,000 a month, after five free months",
+        "Maintenance: from ₹8,000 a month, after two free months",
       ],
     },
     {
@@ -208,7 +208,7 @@ const punalur: CityContent = {
       heading: "Who owns your Punalur website and app, and what happens after launch",
       paragraphs: [
         "You do. The domain is registered with your email, the hosting bill is in your name, the source code sits in a repository you control, and the Google Play and App Store developer accounts belong to your business. If you ever move to another developer, there is nothing to ask us for and no transfer fee.",
-        "After launch, the first five months of maintenance are free. That covers text and price edits, backups, security and version updates, uptime checks, and a test of forms, UPI payment and WhatsApp links after each change. From the sixth month you can keep us from ₹8,000 a month, hand the work to your own staff, or pass the code to someone else. Details of what we build are on our <a href=\"/services/web-development/\">web development page</a>.",
+        "After launch, the first two months of maintenance are free. That covers text and price edits, backups, security and version updates, uptime checks, and a test of forms, UPI payment and WhatsApp links after each change. From the third month you can keep us from ₹8,000 a month, hand the work to your own staff, or pass the code to someone else. Details of what we build are on our <a href=\"/services/web-development/\">web development page</a>.",
         "Apps need attention even when nothing breaks, because Google and Apple raise their technical requirements every year and an outdated app can stop reaching new phones. We track those deadlines and schedule updates for quieter months, so a Punalur wholesaler or lodge is not fixing an app in the middle of the pilgrim or Onam rush.",
       ],
     },
@@ -296,7 +296,7 @@ const punalur: CityContent = {
     {
       question: "What maintenance comes with a Punalur website or app?",
       answer:
-        "Every Punalur website or app gets five months of free maintenance after launch: edits, backups, security and version updates, and checks that forms, UPI payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can move it in-house, since all accounts are already yours.",
+        "Every Punalur website or app gets two months of free maintenance after launch: edits, backups, security and version updates, and checks that forms, UPI payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can move it in-house, since all accounts are already yours.",
     },
     {
       question: "Do you also work with businesses in Anchal, Kulathupuzha and Thenmala?",

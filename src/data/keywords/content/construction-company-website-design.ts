@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Calculator", "Uses rates you set per package"],
     ["Credential panel", "Only registrations you actually hold"],
     ["Quote", "Itemised within about 2 working days"],
-    ["Free care", "5 months after launch"],
+    ["Free care", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers working on your site" },
     { value: "2", label: "Working days to receive the quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, construction company website design starts at ${P.site} (about ${P.siteUsd}) for the static plan of up to 100 pages, which covers the portfolio, service pages, packages, credentials and site-visit booking. Other designers quote widely different amounts; compare the scope rather than the headline figure.`,
         `What moves the price: how many project pages we lay out and how much stage photography each has, the depth of the cost calculator (a simple area times rate tool versus one with zones, options and exclusions), whether you want locality pages across many areas, and whether ongoing clients get a private progress page or a full client portal. A portal with payment schedules, approvals, documents and daily photos is a custom web app from ${P.software}; an app for site supervisors to upload progress starts at ${P.app}.`,
-        `Contractors covering many localities, such as “house construction in Baner” and dozens more, may fit the SEO website plan from ${P.seoSite}. Ongoing SEO starts at ${P.seo}, and maintenance after the five free months starts at ${P.care}. The complete list is on our <a href='/pricing/'>pricing page</a>.`,
+        `Contractors covering many localities, such as “house construction in Baner” and dozens more, may fit the SEO website plan from ${P.seoSite}. Ongoing SEO starts at ${P.seo}, and maintenance after the two free months starts at ${P.care}. The complete list is on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Client portal with stages, payments and approvals", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Builders with several live projects"],
         ["Site supervisor progress app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Teams uploading daily site photos"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Locality pages, projects, reviews"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "New projects, rate updates, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "New projects, rate updates, fixes"],
       ],
       hideSm: [2],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Check the calculator", "We build the cost tool first and let you test it with real past jobs, so the ranges it shows match what you would actually quote."],
       ["Review the preview", "Project pages, services, packages and credentials go up on a private link that your site engineers and office staff can check on their phones."],
       ["Launch and connect", "Forms, WhatsApp alerts, Search Console, sitemap and Google Business Profile link are tested, then your domain switches to the new site."],
-      ["Add projects as you finish them", "Maintenance is free for five months after launch, with the scope written into your quote; optional care from our maintenance plan continues afterwards."],
+      ["Add projects as you finish them", "Maintenance is free for two months after launch, with the scope written into your quote; optional care from our maintenance plan continues afterwards."],
     ],
   },
   faqHeading: "Construction company website design: frequently asked questions",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "Do I own the website, domain and project photos?", answer: "Yes. The domain, hosting and Search Console are registered in your name, the code is handed over at launch, and your photos stay in storage you control. We work through access you grant and return all logins at handover. Payments are by UPI or bank transfer in India, or Wise, wire or PayPal from abroad." },
     { question: "Is a freelancer good enough for a construction company website?", answer: "For most contractors, yes. The work is a well-structured site with a portfolio, calculator and forms, which a small experienced team handles well, and you talk directly to the three developers doing it. We do not visit sites, take photos or handle hardware; you or your photographer provide images, and we handle the rest remotely." },
     { question: "Can you add Hindi or a regional language to my construction website?", answer: "Yes. Many plot owners and their families prefer Hindi, Marathi, Tamil or another language for key pages like packages and process. We build proper language versions with correct tags. Our team writes English and Hindi; for other languages you supply or approve the translated copy, and we handle the build." },
-    { question: "What is included in the five months of free maintenance?", answer: `Maintenance is free for five months after launch, and your written quote spells out what it covers, typically fixes and small edits such as a rate or credential change. Larger additions are quoted separately. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also manage the site yourself or hire someone else.` },
+    { question: "What is included in the two months of free maintenance?", answer: `Maintenance is free for two months after launch, and your written quote spells out what it covers, typically fixes and small edits such as a rate or credential change. Larger additions are quoted separately. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also manage the site yourself or hire someone else.` },
     { question: "Can the same website serve residential and commercial clients?", answer: "Yes, with separate routes from the home page. Home builders see house projects, packages, the calculator and site-visit booking; commercial clients see relevant buildings, scheduling, safety and coordination detail with a project brief form. Credentials and about pages are shared, so maintenance stays simple." },
     { question: "Construction company ki website banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath construction company ki website ${P.site} se start hoti hai. Isme project portfolio, service pages, packages, per sq ft calculator aur site visit booking form aata hai. Client portal jaisa software ${P.software} se start hota hai. Itemised quote lagbhag do working days me milta hai, aur approval se pehle koi payment nahi.` },
   ],
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a construction company website design that brings serious site-visit requests?",
-    note: `Send your completed projects, package rates and registrations on WhatsApp. You will receive an itemised quote in about two working days, starting at ${P.site}, with everything in your name and five months of free maintenance after launch.`,
+    note: `Send your completed projects, package rates and registrations on WhatsApp. You will receive an itemised quote in about two working days, starting at ${P.site}, with everything in your name and two months of free maintenance after launch.`,
   },
 };
 

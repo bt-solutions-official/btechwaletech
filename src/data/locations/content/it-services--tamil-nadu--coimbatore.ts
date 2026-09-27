@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT services · Coimbatore, Tamil Nadu",
     h1: "Freelance software developers for Coimbatore: custom software, automation and IT solutions for factories and SMEs",
     lede:
-      "BtechWaleTech is a freelance group of three remote engineers, an alternative to hiring a software development team in Coimbatore, and we write the software Kovai businesses run on: order and dispatch portals for pump makers, production dashboards for spinning mills, WhatsApp agents for dealers, and the websites and search work that bring enquiries in. You talk directly to the people building it, prices start in the open, and five months of maintenance come free after launch.",
+      "BtechWaleTech is a freelance group of three remote engineers, an alternative to hiring a software development team in Coimbatore, and we write the software Kovai businesses run on: order and dispatch portals for pump makers, production dashboards for spinning mills, WhatsApp agents for dealers, and the websites and search work that bring enquiries in. You talk directly to the people building it, prices start in the open, and two months of maintenance come free after launch.",
     pills: ["Web apps from ₹60,000", "AI automation from ₹40,000", "Tally and Excel integrations", "Tamil and English interfaces", "Code and hosting in your name"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read dealer WhatsApp messages, look up stock and price lists, draft replies and log every enquiry, so the sales desk stops retyping the same answers.",
     data: "Production, sales and receivables dashboards that pull from Tally exports, machine logs and spreadsheets, readable on a phone by the owner before the morning meeting.",
     app: "Android and iOS apps, built once in Flutter or React Native and published on Google Play and the App Store, for Coimbatore dealers, service technicians and repeat customers, from ₹40,000.",
-    maintenance: "Server updates, backups, bug fixes and small feature changes, free for five months after go-live and from ₹8,000 a month after that.",
+    maintenance: "Server updates, backups, bug fixes and small feature changes, free for two months after go-live and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Coimbatore owners tend to buy software the way they buy a lathe: they want to see it work, know who services it, and pay in stages. A three-person remote team suits that. The engineer on the demo call is the one writing the code, and nothing is hidden behind an account manager.",
@@ -168,8 +168,8 @@ const content: CityContent = {
       id: "it-support-maintenance-coimbatore",
       heading: "IT support and software maintenance after launch",
       paragraphs: [
-        "Software needs looking after once it is live, and Coimbatore firms rightly ask what happens after the developer is paid. With us, the first five months of maintenance after hosting goes live are included free. That covers bug fixes, security and dependency updates, backups, uptime checks and small content or text changes.",
-        "After those five months you can continue on a monthly maintenance plan from ₹8,000, or simply message us when something needs changing and pay for that work. Larger additions, such as a new module for purchase or a second factory location, are quoted separately so you always know the cost before we start.",
+        "Software needs looking after once it is live, and Coimbatore firms rightly ask what happens after the developer is paid. With us, the first two months of maintenance after hosting goes live are included free. That covers bug fixes, security and dependency updates, backups, uptime checks and small content or text changes.",
+        "After those two months you can continue on a monthly maintenance plan from ₹8,000, or simply message us when something needs changing and pay for that work. Larger additions, such as a new module for purchase or a second factory location, are quoted separately so you always know the cost before we start.",
         "Support happens on WhatsApp, seven days a week, with screen-share calls when needed. Because we are a small team, you will usually speak to the engineer who built the part you are asking about. We also keep a written handover document for every system, so another developer could take over if you ever decide to move on.",
       ],
     },
@@ -188,7 +188,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after the free five months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after the free two months",
       ],
     },
     {
@@ -299,7 +299,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "The first five months after hosting goes live are included free. That covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small text or content changes. After that, a monthly plan starts from ₹8,000, or you can pay per change when needed. New modules are always quoted separately so the cost is clear before any work begins.",
+        "The first two months after hosting goes live are included free. That covers bug fixes, security and dependency updates, backups, uptime and speed checks, and small text or content changes. After that, a monthly plan starts from ₹8,000, or you can pay per change when needed. New modules are always quoted separately so the cost is clear before any work begins.",
     },
     {
       question: "How long before SEO brings enquiries?",

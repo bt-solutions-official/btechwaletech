@@ -32,7 +32,7 @@ const morvi: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Morbi's ceramic cluster",
     lede:
       "Three remote engineers building websites, tile catalogues, dealer portals and WhatsApp tools for Morbi. We work with tile and sanitaryware factories along the 8-A highway, merchant exporters, glaze and packaging suppliers, wall clock makers, transporters, and the shops, clinics and schools on Sanala Road, Ravapar Road and in the old city.",
-    pills: ["Websites from ₹10,000", "Tile catalogues with filters", "Export enquiry pages", "Gujarati and English copy", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Tile catalogues with filters", "Export enquiry pages", "Gujarati and English copy", "2 months free maintenance"],
   },
   quickAnswer:
     "Morbi firms can get a static website from us from ₹10,000, built in one to two weeks. Large catalogue or SEO sites with 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and dealer portals or custom software at ₹60,000. We are a remote team without a Morbi office.",
@@ -52,7 +52,7 @@ const morvi: CityContent = {
     ai: "WhatsApp assistants that share catalogue PDFs, sizes and stock in Gujarati, Hindi or English, and pass real buyers to your sales team.",
     data: "Dashboards for sales by size, finish, dealer and state, or export orders by country, built from your existing records.",
     app: "Android and iOS apps for sales representatives and tile dealers to check stock and place orders, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month or paid work only when you need a change.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month or paid work only when you need a change.",
   },
   whyUsIntro:
     "Morbi sells tiles to the world, but many units still rely on a catalogue PDF and a busy WhatsApp number. Buyers in Dubai, Dhaka or Delhi compare dozens of suppliers online before calling one. We build fast catalogue sites, honest export pages and simple dealer tools, keep them in your name and reply on WhatsApp seven days a week.",
@@ -195,7 +195,7 @@ const morvi: CityContent = {
       paragraphs: [
         "In a cluster where companies change hands, partners separate and new brands launch every year, owning your website outright matters. We have seen units unable to update their own catalogue because the old developer held the domain and hosting.",
         "We register the domain and hosting in your company's name. At launch you get every login, the full source code, your product data in a spreadsheet and a short note on the setup. You can move to another developer at any time, with no exit fee.",
-        "Maintenance is free for five months after launch: content updates, new designs uploaded, fixes, security patches, backups and uptime checks. After that, support continues from ₹8,000 a month, or you contact us only when you need something done.",
+        "Maintenance is free for two months after launch: content updates, new designs uploaded, fixes, security patches, backups and uptime checks. After that, support continues from ₹8,000 a month, or you contact us only when you need something done.",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const morvi: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "For five months after launch we handle content changes, new design uploads, fixes, security updates, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you contact us only when needed.",
+        "For two months after launch we handle content changes, new design uploads, fixes, security updates, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you contact us only when needed.",
     },
     {
       question: "Do you work in Wankaner, Rajkot, Halvad and Thangadh too?",

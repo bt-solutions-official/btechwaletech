@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Online store for member produce", `From ${P.shop}`],
     ["Member portal with logins", `From ${P.software}`],
     ["Quote in", "About 2 working days"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers working with your FPO board and CEO" },
     { value: "100", label: "Pages included in the static website plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
         `Some FPOs ask whether scheme funds can pay for a website. That depends on the scheme and your sanction terms, and we cannot advise on it. Ask your CBBO or support agency before you commit. Quotes from other developers vary widely; compare what is included, especially language versions, report uploads and who owns the domain.`,
       ],
       after: [
-        `Maintenance is free for five months after launch, then starts at ${P.care}. Full starting prices are on the <a href='/pricing/'>pricing page</a>.`,
+        `Maintenance is free for two months after launch, then starts at ${P.care}. Full starting prices are on the <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Is a freelance team suitable for an FPO website?", answer: "For most FPOs, yes. A small freelance team like ours keeps costs close to what an FPO can afford, talks directly with the CEO, and sets everything up in the FPO's name. What we do not do is visit villages, write scheme applications or give legal advice. For photos of collection centres, the FPO's own staff usually take them on a phone." },
     { question: "Can you work with an FPO without visiting?", answer: "Yes. We are three freelance developers working remotely from India, and we run FPO projects through WhatsApp, voice notes, video calls and shared folders. Directors can review pages on a shared screen. Many CEOs prefer this because it fits around harvest and meeting schedules, and no one has to travel to review progress." },
     { question: "How is payment made for FPO website development?", answer: "Payment is by UPI or bank transfer from the FPO's account, against an itemised quote the board approves in writing first. Milestones are written into the quote, and nothing is billed before approval. If your FPO needs specific paperwork for its accountant or support agency, tell us at the start so the quote and invoices match." },
-    { question: "What happens to the website after launch?", answer: `Five months of free maintenance cover fixes, updates and small changes after launch. After that, maintenance starts at ${P.care} if the FPO wants continued help, or the FPO's own staff can manage updates using the handover guide. Uploading a new annual report or changing the board list is designed to take minutes, not a developer.` },
+    { question: "What happens to the website after launch?", answer: `Two months of free maintenance cover fixes, updates and small changes after launch. After that, maintenance starts at ${P.care} if the FPO wants continued help, or the FPO's own staff can manage updates using the handover guide. Uploading a new annual report or changing the board list is designed to take minutes, not a developer.` },
     { question: "Can the FPO website show up in Google and AI search?", answer: "It can, if commodity and cluster pages contain real, specific information and the site is technically sound. A Google Business Profile, structured data and Google Search Console help. AI search tools tend to quote clear, factual summaries. Nobody can guarantee rankings, but accurate pages with consistent contact details give the FPO its best chance." },
     { question: "Should the FPO website mention the scheme it was formed under?", answer: "If the FPO was formed or supported under a scheme, acknowledging it factually builds trust with funders and officials. Name the scheme or promoting institution, the year support began and what it covered, as stated in your own documents, and link to the official source rather than copying the rules. Your CBBO or support agency should confirm the wording." },
     { question: "Do FPOs need a mobile app as well?", answer: `Usually not at the start. A website serves buyers and funders well. An app makes sense when members need something daily, such as advisory messages, input booking, procurement slips or price updates, and when the FPO has the data and staff to support it. Android and iOS apps start at ${P.app}.` },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning your FPO's website before the next AGM or harvest?",
-    note: `Send your crops, member count, languages and main buyers on WhatsApp. You will get a page plan and itemised quote in about two working days, starting at ${P.site}, with the domain in the FPO's name and five months of free maintenance after launch.`,
+    note: `Send your crops, member count, languages and main buyers on WhatsApp. You will get a page plan and itemised quote in about two working days, starting at ${P.site}, with the domain in the FPO's name and two months of free maintenance after launch.`,
   },
 };
 

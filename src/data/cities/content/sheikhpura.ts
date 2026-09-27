@@ -56,7 +56,7 @@ const sheikhpura: CityContent = {
     ai: "WhatsApp assistants that share chip sizes, fee structures or clinic slots in Hindi and pass unusual requests straight to the owner.",
     data: "Dashboards showing truckloads per day, dues by buyer, admissions by batch or patient footfall by weekday, readable on a phone.",
     app: "Android and iOS apps from ₹40,000 for coaching batches, pharmacy reorders or contractor orders to a crusher, published on Google Play and the App Store under your account.",
-    maintenance: "Five months of free upkeep after launch, then optional support from ₹8,000 a month for fee revisions, new batches, rate changes and security fixes.",
+    maintenance: "Two months of free upkeep after launch, then optional support from ₹8,000 a month for fee revisions, new batches, rate changes and security fixes.",
   },
   whyUsIntro:
     "Business in Sheikhpura runs on trust built face to face, so a remote team has to earn it another way. We publish starting prices, put every cost in writing before a rupee is billed, reply on WhatsApp seven days a week and register the domain, hosting, code and app accounts to you. If something you ask for will not pay back in your market, we say so plainly.",
@@ -176,7 +176,7 @@ const sheikhpura: CityContent = {
       heading: "Who owns your site, and what upkeep looks like after launch",
       paragraphs: [
         "The domain, hosting, source code, Google Play and App Store developer accounts and your Google Business Profile are opened in your name or your firm's name from day one. We work with the access you give us, and if you ever switch developers, we hand everything over within a day. For family businesses this matters: passwords should never rest with one nephew or one employee.",
-        "Every launch includes five months of maintenance at no charge, covering text and rate updates, backups, security patches and monthly tests of forms, payments and WhatsApp links. After that, you can continue with us from ₹8,000 a month or look after it yourselves.",
+        "Every launch includes two months of maintenance at no charge, covering text and rate updates, backups, security patches and monthly tests of forms, payments and WhatsApp links. After that, you can continue with us from ₹8,000 a month or look after it yourselves.",
         "Locally, upkeep follows the calendar: admission season for coaching centres, wedding dates for halls and caterers, festival timings for temples, and rate revisions for crushers and traders. Keeping those details current is what keeps customers trusting the page.",
       ],
     },
@@ -262,7 +262,7 @@ const sheikhpura: CityContent = {
     {
       question: "What happens after my website or app goes live?",
       answer:
-        "You get five months of free maintenance: content and rate changes, backups, security patches and checks on forms, payments and WhatsApp links. After that, support is optional from ₹8,000 a month. Because every account is already in your name, you can also manage it yourself or hand it to someone else.",
+        "You get two months of free maintenance: content and rate changes, backups, security patches and checks on forms, payments and WhatsApp links. After that, support is optional from ₹8,000 a month. Because every account is already in your name, you can also manage it yourself or hand it to someone else.",
     },
     {
       question: "Do you work in Barbigha, Lakhisarai, Nawada and nearby towns?",

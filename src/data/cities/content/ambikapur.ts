@@ -30,11 +30,11 @@ const ambikapur: CityContent = {
     eyebrow: "Ambikapur · Chhattisgarh",
     h1: "Websites, software, SEO and AI tools for Ambikapur's traders, hospitals, colleges and the businesses of the Surguja hills",
     lede:
-      "Three remote engineers building websites, map listings, online stores and WhatsApp automation for businesses in Ambikapur and across Surguja: Gandhi Chowk and Banaras Road shops, hospitals and diagnostic centres, coaching classes, Mainpat homestays, forest-produce and rice traders, and suppliers to the coal areas. Starting prices are public, and five months of maintenance come free.",
+      "Three remote engineers building websites, map listings, online stores and WhatsApp automation for businesses in Ambikapur and across Surguja: Gandhi Chowk and Banaras Road shops, hospitals and diagnostic centres, coaching classes, Mainpat homestays, forest-produce and rice traders, and suppliers to the coal areas. Starting prices are public, and two months of maintenance come free.",
     pills: ["Static sites from ₹10,000", "Hindi-first pages", "Mainpat stay bookings", "Clinic and college sites", "WhatsApp replies every day"],
   },
   quickAnswer:
-    "In Ambikapur, a basic business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no office in Ambikapur, and maintenance is free for five months after launch.",
+    "In Ambikapur, a basic business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no office in Ambikapur, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Surguja district and of the Surguja division in northern Chhattisgarh" },
     { label: "Setting", value: "A plateau town at roughly 600 m, named after the goddess worshipped at the Maa Mahamaya temple" },
@@ -51,7 +51,7 @@ const ambikapur: CityContent = {
     ai: "WhatsApp replies in Hindi that share rates, OPD timings or room availability while you are busy with customers.",
     data: "Sales, admissions or patient enquiry figures collected into a simple phone-friendly dashboard.",
     app: "Android and iOS apps for school notices, coaching attendance or clinic token booking, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Free updates, backups and security fixes for two months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Ambikapur is the main market for a large, spread-out region, yet many of its businesses still rely on a visiting card and word of mouth. Local web options are few, and agencies in Raipur or Bilaspur rarely stay responsive after launch. We publish prices, keep everything in your name and answer on WhatsApp seven days a week.",
@@ -174,7 +174,7 @@ const ambikapur: CityContent = {
       paragraphs: [
         "Many small businesses in the region have lost a website because the person who made it registered the domain in their own name and later stopped responding. The owner could not renew it, update the number or move it, and eventually the site went offline.",
         "We register the domain and hosting in your name, on your account, from the start. At launch you receive all the logins, the complete code and a short written guide to how the site is set up. You can take it to any other developer whenever you like, without an exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month if you want us to keep looking after it, or you can call us only when you need a change.",
+        "For two months after launch, maintenance is free: text and price changes, fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month if you want us to keep looking after it, or you can call us only when you need a change.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const ambikapur: CityContent = {
     {
       question: "What does free maintenance include, and what happens after?",
       answer:
-        "For five months after launch we handle text and price updates, fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need something changed.",
+        "For two months after launch we handle text and price updates, fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need something changed.",
     },
     {
       question: "Can you guarantee the first position on Google?",

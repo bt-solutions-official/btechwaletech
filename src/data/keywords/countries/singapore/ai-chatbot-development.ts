@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: AI, full-stack and delivery" },
     { value: "2", label: "Working days to an itemised chatbot quote" },
-    { value: "5", label: "Months of free fixes after your bot goes live" },
+    { value: "2", label: "Months of free fixes after your bot goes live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Running costs", value: "Model usage and hosting, billed to you by the providers" },
       { label: "Where it lives", value: "Your website, a Telegram bot, or an internal staff channel" },
       { label: "Safety net", value: "Confidence threshold, refusal rules and a human hand-off" },
-      { label: "After launch", value: `Five months of free fixes, then care from ${P.care}` },
+      { label: "After launch", value: `Two months of free fixes, then care from ${P.care}` },
     ],
   },
   services: {
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: source code in your repository, the cloud project, the model provider account and keys, the vector store, the Telegram bot token, prompts, test set and documentation. Our access is removed at handover unless you ask us to stay on for maintenance.`,
         `The handover pack is practical rather than decorative. It explains how to add, replace and retire documents, how to read the unanswered-questions report, where the retention job runs, how to rotate API keys, and how to rerun the test set after changes. A short screen recording walks through the admin page for whoever will look after the bot day to day.`,
-        `Maintenance is free for the first five months after launch, covering fixes and small adjustments. After that, care starts from ${P.care}, or you can run the bot yourselves; the documentation is written so that an in-house developer, or another freelancer, can pick it up. Terms for anything beyond that are agreed in your written quote and our <a href='/terms/'>terms</a>.`,
+        `Maintenance is free for the first two months after launch, covering fixes and small adjustments. After that, care starts from ${P.care}, or you can run the bot yourselves; the documentation is written so that an in-house developer, or another freelancer, can pick it up. Terms for anything beyond that are agreed in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -335,7 +335,7 @@ const content: FreelanceContent = {
         ["Two channels sharing one knowledge base", P.ai, "3–5 weeks", "Separate front ends, shared retrieval, combined logs"],
         ["Bot with live lookups (orders, bookings)", P.software, "6–12 weeks", "Secure API layer, identity checks, audit logging"],
         ["Chatbot inside a new mobile app", P.app, "6–10 weeks", "App build plus embedded assistant"],
-        ["Care after five free months", P.care, "Monthly", "Document refresh support, regression tests, fixes"],
+        ["Care after two free months", P.care, "Monthly", "Document refresh support, regression tests, fixes"],
       ],
       hideSm: [3],
     },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Accounts and ingestion", "We work inside cloud and model accounts registered to your organisation, load the first document batch and share a private test link."],
       ["Test set and tuning", "Your questions become a scored test set. Retrieval, prompts and refusal rules are tuned until results meet the standard you signed off."],
       ["Channel launch and hand-off", "The bot goes live on the agreed channel with hand-off routes, retention jobs and monitoring switched on, then watched closely for the first weeks."],
-      ["Handover and care", "You receive documentation, a recorded walkthrough and admin access; our access is removed. Fixes are free for five months after launch."],
+      ["Handover and care", "You receive documentation, a recorded walkthrough and admin access; our access is removed. Fixes are free for two months after launch."],
     ],
   },
   faqHeading: "AI chatbot development in Singapore: questions buyers ask",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Can you build a Telegram chatbot?", answer: "Yes. The bot is registered through Telegram's BotFather under your account, and the token stays with you. It can answer from your knowledge base in private chats or groups, take simple requests and hand conversations to a staff group. Telegram's bot FAQ says bots can message users at no cost by default; your costs are model usage and hosting." },
     { question: "Can staff use the chatbot for internal HR and SOP questions?", answer: "Yes, and it is often the quickest win. An internal helpdesk bot sits behind staff login, answers from handbooks and procedures, shows the clause it used and routes personal matters such as pay or disciplinary issues to HR. Public and internal documents are kept in separate indexes so nothing confidential reaches customers." },
     { question: "Who owns the chatbot after it is built?", answer: "Your organisation does. Source code sits in your repository, and the cloud project, model account, keys, vector store, Telegram token, prompts and test set are all registered to you. At handover you receive documentation and a recorded walkthrough, and we remove our access unless you keep us on for maintenance." },
-    { question: "What are the monthly running costs of an AI chatbot?", answer: `Running costs are model usage, charged per token by the provider, and hosting for the chat service and index, charged by your cloud provider. Both scale with conversation volume. We estimate them before the build and add spending alerts. Optional care from us starts at ${P.care} after the five free months.` },
+    { question: "What are the monthly running costs of an AI chatbot?", answer: `Running costs are model usage, charged per token by the provider, and hosting for the chat service and index, charged by your cloud provider. Both scale with conversation volume. We estimate them before the build and add spending alerts. Optional care from us starts at ${P.care} after the two free months.` },
     { question: "Can the chatbot look up orders or bookings?", answer: `Yes, through a narrow API that returns only what the bot needs, after verifying the customer's identity. The bot never receives broad database access. Because this involves security design and logging, bots with live lookups start from ${P.software} rather than the basic chatbot price.` },
     { question: "Can you fix a chatbot another developer built?", answer: "Usually. We start with an audit: which documents it uses, how retrieval works, what the prompts say and where logs go. Then we build a test set from real questions and measure the current bot. Often the fix is better document preparation and retrieval rather than a new model. You get a written report before any rebuild." },
     { question: "How do we pay a freelance team in India from Singapore?", answer: "Quotes and invoices are issued in USD from India. You can pay by Wise, including from an SGD balance, by international bank wire or by PayPal. The payment schedule is written into your quote and nothing is billed before you approve the scope. Ask your accountant how to treat overseas invoices." },

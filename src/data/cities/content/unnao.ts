@@ -7,7 +7,7 @@ const unnao: CityContent = {
   meta: {
     title: "IT Services in Unnao: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Unnao, Shuklaganj and Magarwara businesses. Static sites start at ₹10,000, with five months of free upkeep.",
+      "Websites, SEO, online stores and WhatsApp automation for Unnao, Shuklaganj and Magarwara businesses. Static sites start at ₹10,000, with two months of free upkeep.",
     keywords: [
       "website development team in Unnao",
       "web design Unnao",
@@ -31,11 +31,11 @@ const unnao: CityContent = {
     eyebrow: "Unnao · Uttar Pradesh",
     h1: "Websites, software, SEO and AI tools for Unnao's tanneries, zardozi artisans, Shuklaganj shops and highway businesses",
     lede:
-      "Three engineers working remotely for businesses in Unnao district: leather units in Banthar and Magarwara, zari-zardozi workshops, traders around Bada Chauraha, schools and clinics in Civil Lines, and the growing shops of Shuklaganj across the river from Kanpur. Our prices are published as starting figures, you speak to the developers yourself, and there is no maintenance bill for five months.",
+      "Three engineers working remotely for businesses in Unnao district: leather units in Banthar and Magarwara, zari-zardozi workshops, traders around Bada Chauraha, schools and clinics in Civil Lines, and the growing shops of Shuklaganj across the river from Kanpur. Our prices are published as starting figures, you speak to the developers yourself, and there is no maintenance bill for two months.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Export sites for leather units", "Zardozi and craft stores", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For an Unnao business, a static website with us starts at ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Unnao, and five months of maintenance after launch are free.",
+    "For an Unnao business, a static website with us starts at ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no office in Unnao, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "District headquarters on the eastern bank of the Ganga, between Kanpur and Lucknow, in Lucknow division" },
     { label: "Main industry", value: "Leather tanning and leather goods, with Banthar Leather Technology Park, Magarwara and the UPSIDC industrial area" },
@@ -52,7 +52,7 @@ const unnao: CityContent = {
     ai: "WhatsApp replies that share catalogues, fees or rates in Hindi or English and hand real negotiations back to you.",
     data: "Production, sales and export records combined into a dashboard you can read on your phone.",
     app: "Android and iOS apps for dealer re-orders, school notices or clinic bookings, one Flutter build listed on Google Play and the App Store.",
-    maintenance: "Free updates, backups, security fixes and uptime checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups, security fixes and uptime checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Unnao businesses usually look to Kanpur or Lucknow for web work, and end up either overpaying an agency or buying a cheap site nobody maintains. We publish starting prices, send an itemised written quote and reply on WhatsApp seven days a week, directly from the engineers who build your site.",
@@ -170,7 +170,7 @@ const unnao: CityContent = {
       paragraphs: [
         "A familiar Unnao story: a relative or a small firm made the website, registered the domain under their own account and later stopped answering. The business cannot change its number or renew the site, and it disappears along with any search visibility it had.",
         "We register the domain and hosting in your name, on your email, from the beginning. At launch you get every login, the full source code and a short note on how the site is structured. You can move to a different developer at any time, with no exit fee.",
-        "For five months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups and uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need changes. Our <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
+        "For two months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups and uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need changes. Our <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const unnao: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle text and price changes, bug fixes, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and price changes, bug fixes, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long does SEO take to work in Unnao?",

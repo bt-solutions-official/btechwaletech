@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who know your store" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Markets", value: "nl-NL, nl-BE and English storefronts with the right currency and tax" },
       { label: "Shipping", value: "PostNL, Sendcloud or MyParcel app connected and labels test-printed" },
       { label: "Billing", value: "Quoted in USD · pay by Wise, bank wire or PayPal" },
-      { label: "After launch", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "bol.com and marketplace sync", note: "Offers, stock and orders kept in step between Shopify and bol.com so you stop overselling.", href: "/netherlands/bol-com-api-integration/", size: "md" },
       { name: "Speed and Core Web Vitals", note: "Leftover app scripts removed, images resized, fonts trimmed, measured in PageSpeed Insights before and after.", href: "/shopify-speed-optimization/", size: "sm" },
       { name: "Technical SEO for google.nl", note: `hreflang for nl-NL and nl-BE, product schema and clean collections, monthly from ${P.seo}. No ranking promises.`, href: "/netherlands/technical-seo-services/", size: "sm" },
-      { name: "Store care after launch", note: `Five months of free maintenance, then app reviews, theme updates and fixes from ${P.care}.`, href: "/shopify-maintenance-services/", size: "sm" },
+      { name: "Store care after launch", note: `Two months of free maintenance, then app reviews, theme updates and fixes from ${P.care}.`, href: "/shopify-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Time-zone fit", "Same hours as you", "Anywhere in the world", "IST is 3.5–4.5 hours ahead of Amsterdam"],
       ["If one developer is away", "Someone else in the team", "Work pauses", "Two teammates already know the store"],
       ["Platform fees on payments", "None", "Marketplace service fee", "None; Wise, wire or PayPal"],
-      ["Aftercare", "Retainer, terms vary", "Ad hoc", `5 months free, then from ${P.care}`],
+      ["Aftercare", "Retainer, terms vary", "Ad hoc", `2 months free, then from ${P.care}`],
     ],
     fine: "If you need someone to sit in your Amsterdam office for a workshop or write your Dutch product copy, a local agency is the better fit; we are strongest on the build, integrations and upkeep.",
   },
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a Shopify developer in the Netherlands cost?",
       paragraphs: [
-        `With BtechWaleTech, a Shopify store starts from ${P.shop}, custom Shopify apps and integrations start from ${P.software}, and store care starts from ${P.care} after five free months. Quotes from Dutch agencies and freelancers vary widely, mostly because of local rates, team size and how much strategy and copywriting is bundled in.`,
+        `With BtechWaleTech, a Shopify store starts from ${P.shop}, custom Shopify apps and integrations start from ${P.software}, and store care starts from ${P.care} after two free months. Quotes from Dutch agencies and freelancers vary widely, mostly because of local rates, team size and how much strategy and copywriting is bundled in.`,
         `Whoever you hire, these are the cost drivers that move a Shopify quote the most:`,
       ],
       list: [
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
         ["Custom app or Shopify Function", "Discount or delivery logic, private app, webhooks, hosting", `${P.software}`, "6–12 weeks"],
         ["ERP, accounting or bol.com link", "Orders, stock and invoices synced by API with error alerts", `${P.software}`, "6–10 weeks"],
         ["Technical SEO for google.nl", "hreflang, schema, filters, Core Web Vitals, reporting", `${P.seo}`, "Monthly"],
-        ["Store care", "App and theme updates, fixes, small changes", `${P.care}`, "Monthly, after 5 free months"],
+        ["Store care", "App and theme updates, fixes, small changes", `${P.care}`, "Monthly, after 2 free months"],
       ],
       hideSm: [1],
     },
@@ -457,12 +457,12 @@ const content: FreelanceContent = {
       ["Access and plan", "You add us as staff or collaborators, approve the sprint plan and request any payment or carrier accounts still missing, all in your own business name."],
       ["Build on an unpublished theme", "Sections, templates, payments, taxes and shipping are built and tested on a copy, with weekly preview links and a mid-week call inside Dutch hours."],
       ["Test orders and launch", "Real low-value orders are placed for each market and payment method, refunds checked, and the theme published at a quiet time you choose."],
-      ["Aftercare", "Five months of free maintenance cover fixes and small changes; after that, care continues from the monthly starting price if you want it."],
+      ["Aftercare", "Two months of free maintenance cover fixes and small changes; after that, care continues from the monthly starting price if you want it."],
     ],
   },
   faqHeading: "Shopify developer in the Netherlands: questions Dutch brands ask",
   faqs: [
-    { question: "How much does a Shopify developer cost in the Netherlands?", answer: `It depends on who you hire and what you need. With BtechWaleTech, a Shopify store starts from ${P.shop}, custom Shopify apps and integrations start from ${P.software}, and ongoing care starts from ${P.care} after five free months. Dutch agencies and freelancers quote across a wide range, mainly because of local rates and how much design and copywriting they bundle. Always compare itemised quotes rather than headline numbers.` },
+    { question: "How much does a Shopify developer cost in the Netherlands?", answer: `It depends on who you hire and what you need. With BtechWaleTech, a Shopify store starts from ${P.shop}, custom Shopify apps and integrations start from ${P.software}, and ongoing care starts from ${P.care} after two free months. Dutch agencies and freelancers quote across a wide range, mainly because of local rates and how much design and copywriting they bundle. Always compare itemised quotes rather than headline numbers.` },
     { question: "Can a remote Shopify developer set up iDEAL for my store?", answer: "Yes. iDEAL | Wero is activated inside Shopify Payments settings for stores in the Netherlands, so the work is configuration and testing rather than anything that needs someone on site. We switch it on, check it appears only for Dutch shoppers, place a real low-value order, refund it, and confirm the payout lands in your Shopify balance. Your payment account stays in your business name throughout." },
     { question: "What happens to iDEAL now that it is becoming Wero?", answer: "The European Payments Initiative and Dutch banks have announced a phased move from iDEAL to Wero, starting with a combined iDEAL | Wero logo in 2026 and a technical migration after that. On Shopify Payments, Shopify handles the payment side. Your developer should update theme text, footer icons and FAQ pages so customers see consistent naming. We check those places during any store update." },
     { question: "Do I need Shopify Plus as a Dutch brand?", answer: "Most Dutch brands do not. Standard Shopify plans cover Markets, iDEAL | Wero, Bancontact, shipping apps and most customisation. Plus becomes worth a look when you need advanced checkout customisation, B2B features at scale, many stores under one organisation, or very high order volumes. We will tell you plainly in the quote if your requirements point to Plus, and why." },
@@ -480,7 +480,7 @@ const content: FreelanceContent = {
     { question: "Do you sign an NDA or a processing agreement?", answer: "Ask us when you request a quote and tell us what your business needs. Terms around confidentiality and personal data are agreed in your written quote, and our general terms are published on the site. For anything involving customer data, have your own lawyer review the wording; we will not claim certifications we do not hold." },
     { question: "Can you fix a Shopify store another developer built?", answer: "Yes. We start with an audit of the theme, installed apps, custom code and settings, then list what is broken, what is risky and what is fine. You decide what to fix. Often the biggest gains come from removing unused apps and leftover scripts rather than writing new code." },
     { question: "How do I make my Shopify store show up in AI search answers?", answer: "Give AI systems clean, consistent facts to read. That means product and organisation schema, clear shipping, returns and payment pages, short direct answers on FAQ pages, and fast pages that crawlers can load. Nobody can guarantee that ChatGPT or Google's AI features will cite you, but a store with accurate structured data is easier for them to describe correctly." },
-    { question: "What does maintenance cover after launch?", answer: `The first five months after launch are free and cover bug fixes, small content or layout changes, and checking the store after theme or app updates. After that, care continues from ${P.care} if you want it. The exact list of what is included is written into your quote, so there is no guessing about response or scope.` },
+    { question: "What does maintenance cover after launch?", answer: `The first two months after launch are free and cover bug fixes, small content or layout changes, and checking the store after theme or app updates. After that, care continues from ${P.care} if you want it. The exact list of what is included is written into your quote, so there is no guessing about response or scope.` },
     { question: "Can you build a Shopify store for B2B customers in the Netherlands?", answer: "Yes. Shopify supports trade customers with price lists, company accounts and payment terms, and some of those features depend on your plan. For wholesalers with customer-specific prices, order-on-account and ERP sync, compare it carefully with a custom portal first. Our sibling page on B2B webshop development for the Netherlands lays out that comparison." },
     { question: "Is Shopify right for a Dutch webshop, or should I stay on WooCommerce?", answer: "Shopify suits brands that want hosting, security and checkout handled for them and are happy to pay monthly fees. WooCommerce suits shops that need full control of their server, heavy customisation or very large catalogues on their own hosting. Both handle iDEAL and Dutch shipping well. We build on both and will tell you which fits your case." },
   ],

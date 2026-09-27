@@ -39,7 +39,7 @@ const rajpura: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Punjabi, Hindi and English pages", "Factory and dealer catalogues", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "In Rajpura, our business websites start at ₹10,000 and take one to two weeks, 299+ page SEO websites start at ₹20,000, and Android and iOS apps start at ₹40,000. Online stores begin at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Rajpura office, and the first five months of maintenance are free.",
+    "In Rajpura, our business websites start at ₹10,000 and take one to two weeks, 299+ page SEO websites start at ₹20,000, and Android and iOS apps start at ₹40,000. Online stores begin at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Rajpura office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Patiala district, about 26 km from Patiala, 38 km from Chandigarh and 20 km from Ambala" },
     { label: "Origins", value: "A sarai built for Sher Shah Suri's army in the 1540s; the Township was planned after 1947 for families from Bahawalpur" },
@@ -56,7 +56,7 @@ const rajpura: CityContent = {
     ai: "WhatsApp replies in Punjabi, Hindi or English that share rates, admission details or delivery status when your staff are busy.",
     data: "Mandi arrivals, sales, dues and machine output pulled together into one phone dashboard for owners and partners.",
     app: "Android and iOS apps for dealer orders, student transport or clinic tokens, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Rajpura businesses are close enough to Chandigarh and Mohali to get agency quotes from there, but those agencies often pass small factory or shop projects to juniors. We are three engineers who publish starting prices, reply on WhatsApp every day and register every domain in the client's own name.",
@@ -184,7 +184,7 @@ const rajpura: CityContent = {
       paragraphs: [
         "Plenty of Rajpura owners have lost a website because the developer registered the domain in his own name and then disappeared. When renewal lapsed, the site went down and so did the search listing that took years to build.",
         "We register the domain, hosting and any Google Play or App Store developer account in your name from day one. At launch you get every login, the full source code and a short note on how everything is set up. If you ever move to another developer, you hand over access and leave. There is no exit fee.",
-        "Maintenance is free for five months after launch: text and price changes, bug fixes, security updates, backups, uptime and speed checks, plus app updates when Android or iOS changes require them. After that you can continue from ₹8,000 a month, or call us only when something needs doing.",
+        "Maintenance is free for two months after launch: text and price changes, bug fixes, security updates, backups, uptime and speed checks, plus app updates when Android or iOS changes require them. After that you can continue from ₹8,000 a month, or call us only when something needs doing.",
       ],
     },
   ],
@@ -276,7 +276,7 @@ const rajpura: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers text and price updates, bug fixes, security patches, backups, uptime checks and required app updates. After that it starts at ₹8,000 a month, or you can contact us only when you need a change.",
+        "Maintenance is free for two months after launch and covers text and price updates, bug fixes, security patches, backups, uptime checks and required app updates. After that it starts at ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Patiala, Banur, Zirakpur and Ambala?",

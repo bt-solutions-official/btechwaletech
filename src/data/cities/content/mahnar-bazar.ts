@@ -56,7 +56,7 @@ const mahnarBazar: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about rates, stock and timings, then pass real decisions back to the owner.",
     data: "Dashboards showing orders by village route, dues by retailer and produce dispatched by week or by season.",
     app: "Android and iOS apps for village retailers to re-order stock or for coaching students to check tests and fees, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Traders in Mahnar Bazar have heard plenty of promises from people who disappear after collecting an advance. We work the other way round: published starting prices, a written itemised quote, no billing before you approve it, replies on WhatsApp every day of the week, and your domain, hosting and code registered in your own name from the first day.",
@@ -167,7 +167,7 @@ const mahnarBazar: CityContent = {
       heading: "Who owns your website and app, and what maintenance covers",
       paragraphs: [
         "The domain is registered on your email ID, hosting is billed in your name and the source code is handed over to you. Your Google Business Profile and, for apps, the Google Play and Apple developer accounts list you as the owner. At handover you get a written sheet of every login. If you ever choose another developer, there is nothing we need to unlock first.",
-        "The first five months after launch include maintenance at no charge. In that time we update rates and photos, take backups, install security updates and check that forms, UPI payments and WhatsApp buttons still work. When the five months end, you can continue with us from ₹8,000 a month, manage the site yourself or hand it to someone else.",
+        "The first two months after launch include maintenance at no charge. In that time we update rates and photos, take backups, install security updates and check that forms, UPI payments and WhatsApp buttons still work. When the two months end, you can continue with us from ₹8,000 a month, manage the site yourself or hand it to someone else.",
         "Apps need attention once a year even when nothing is broken, because Google and Apple keep raising the minimum versions they accept. We keep track of those deadlines and ship the update in good time, so your app is never pulled from a store for being out of date.",
       ],
     },
@@ -249,7 +249,7 @@ const mahnarBazar: CityContent = {
     {
       question: "What maintenance do you give after the website goes live?",
       answer:
-        "Five months of maintenance come free after launch, covering rate and photo changes, backups, security updates and checks on forms, UPI payments and WhatsApp buttons. After that you may continue from ₹8,000 a month, look after it yourself or move to another developer, since every account and all the code are already yours.",
+        "Two months of maintenance come free after launch, covering rate and photo changes, backups, security updates and checks on forms, UPI payments and WhatsApp buttons. After that you may continue from ₹8,000 a month, look after it yourself or move to another developer, since every account and all the code are already yours.",
     },
     {
       question: "Can a produce trader in Vaishali use software to track dispatches?",

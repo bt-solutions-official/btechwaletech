@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Web apps and SaaS MVPs from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents from ₹40,000", "Next.js, Node.js, Python, Flutter", "Code and cloud in your name"],
   },
   quickAnswer:
-    "In Chennai, BtechWaleTech, a freelance group of three remote engineers, builds custom web applications and SaaS MVPs from ₹60,000 (6 to 12 weeks), Android and iOS apps from ₹40,000 (6 to 10 weeks), AI agents and automation from ₹40,000 (2 to 4 weeks) and websites from ₹10,000. Quotes are itemised in about two working days, with five months of free maintenance.",
+    "In Chennai, BtechWaleTech, a freelance group of three remote engineers, builds custom web applications and SaaS MVPs from ₹60,000 (6 to 12 weeks), Android and iOS apps from ₹40,000 (6 to 10 weeks), AI agents and automation from ₹40,000 (2 to 4 weeks) and websites from ₹10,000. Quotes are itemised in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "IT corridor", value: "Rajiv Gandhi Salai (OMR) from Taramani and Perungudi to Sholinganallur and Siruseri, home to TIDEL Park and SIPCOT IT Park" },
     { label: "Other tech hubs", value: "Guindy, DLF and other IT parks around Porur and Manapakkam, and offices across Nungambakkam, Anna Salai and Velachery" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read your documents, answer customer and staff questions, draft replies and push structured data into CRMs, built on WhatsApp, web chat or internal tools.",
     data: "Dashboards joining ERP, CRM, Tally and product data for Chennai teams, from plant output in Oragadam to SaaS usage metrics on OMR.",
     app: "Android and iOS apps from ₹40,000 for Chennai: field service, dealer ordering, patient and SaaS companion apps, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Monitoring, security patches, dependency upgrades, backups and small feature changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Monitoring, security patches, dependency upgrades, backups and small feature changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Chennai businesses can hire a big software company with account managers, a boutique studio or an individual freelancer. A freelance group of three engineers sits between the last two: enough people to cover design, backend, mobile and DevOps, but no layers between you and the code, and prices written down from the start.",
@@ -119,7 +119,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development in Chennai with BtechWaleTech starts from ₹40,000 and takes six to ten weeks. We build one app in Flutter or React Native and publish it on both Google Play and the Apple App Store, with login, forms, push notifications and an admin panel connected through an API to your backend.",
         "The Chennai apps we see the most need for are practical business apps. Field service apps let technicians for elevators, HVAC, generators or medical equipment see jobs, capture photos and customer signatures and request spare parts. Dealer apps let distributors in other Tamil Nadu towns order and track dispatches. Patient apps let hospital and clinic patients book, receive reports and get reminders. SaaS companion apps give users of a web product quick mobile access and notifications.",
-        "Chennai users split between Android and iPhone, especially among corporate and overseas customers, so publishing on both stores is standard. Developer accounts are registered in your company name. Where an installable web app would be enough, we will say so. App store updates for new operating system versions are included in the five months of free maintenance.",
+        "Chennai users split between Android and iPhone, especially among corporate and overseas customers, so publishing on both stores is standard. Developer accounts are registered in your company name. Where an installable web app would be enough, we will say so. App store updates for new operating system versions are included in the two months of free maintenance.",
       ],
     },
     {
@@ -146,7 +146,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and DevOps for Chennai products means setting up reliable infrastructure on AWS or similar providers, with separate staging and production environments, automated deployments from version control, database backups, SSL, logging, uptime alerts and sensible cost controls, so releases are routine rather than stressful.",
         "Many small teams run production on a single manually configured server that only one person understands. We document the setup, script it where practical, and put the cloud accounts in the client's name. For SaaS products we add monitoring, error tracking and backup restore tests.",
-        "Every project includes five months of maintenance after launch at no charge, covering security updates, dependency upgrades, bug fixes and performance checks. After that, plans start at ₹8,000 a month.",
+        "Every project includes two months of maintenance after launch at no charge, covering security updates, dependency upgrades, bug fixes and performance checks. After that, plans start at ₹8,000 a month.",
       ],
     },
     {
@@ -181,7 +181,7 @@ const content: CityContent = {
       heading: "How long does a Chennai software project take, and how do we work?",
       paragraphs: [
         "A Chennai software project with BtechWaleTech typically takes six to twelve weeks for custom web applications, six to ten weeks for Android and iOS apps, two to four weeks for AI automation, four to eight weeks for an online store and one to five weeks for websites, delivered in weekly cycles with working builds on a staging link.",
-        "We start with a discovery call and written scope, then an itemised quote in about two working days. Development runs in weekly cycles with demos. Before launch we run acceptance testing with your team, then deploy, train users and hand over source code, cloud accounts, domain and documentation in your name. Five months of free maintenance follow.",
+        "We start with a discovery call and written scope, then an itemised quote in about two working days. Development runs in weekly cycles with demos. Before launch we run acceptance testing with your team, then deploy, train users and hand over source code, cloud accounts, domain and documentation in your name. Two months of free maintenance follow.",
         "See sample work on our <a href='/portfolio/'>portfolio</a>, read our city page for <a href='/chennai/'>Chennai</a>, or start a conversation through the <a href='/contact/'>contact page</a>.",
       ],
       list: [
@@ -189,7 +189,7 @@ const content: CityContent = {
         "Itemised quote in about two working days",
         "Weekly builds and demos on staging",
         "Acceptance testing, deployment and training",
-        "Five months of free maintenance",
+        "Two months of free maintenance",
       ],
     },
     {
@@ -244,7 +244,7 @@ const content: CityContent = {
     { question: "Which technologies do you use?", answer: "Mostly mainstream, well-supported tools: React and Next.js or Astro for the web, Node.js or Python for backends, PostgreSQL for data, Flutter or React Native for mobile, and AWS or similar for hosting. Choosing popular technology makes it easy for your future hires to maintain the code." },
     { question: "Can you build AI agents that use our own documents?", answer: "Yes. We build AI assistants that answer from your documentation, policies or product data using retrieval, with citations and restricted sources. They can run on web chat, WhatsApp or internal tools. We test them against real questions before launch and keep sensitive decisions with people." },
     { question: "Who owns the code and cloud accounts?", answer: "You do, from day one. The repository, cloud accounts, domain, app store listings and databases are in your company's name. That protects you if you change developers and makes investor or client due diligence straightforward." },
-    { question: "What happens after launch?", answer: "Five months of maintenance are included free: bug fixes, security patches, dependency upgrades, backups, monitoring and small changes. After that, plans start at ₹8,000 a month, or you can pay for work as needed. We reply on WhatsApp seven days a week." },
+    { question: "What happens after launch?", answer: "Two months of maintenance are included free: bug fixes, security patches, dependency upgrades, backups, monitoring and small changes. After that, plans start at ₹8,000 a month, or you can pay for work as needed. We reply on WhatsApp seven days a week." },
     { question: "Can you integrate with our ERP or hospital system?", answer: "Usually, if the system offers exports or an API. We have worked with common approaches such as Tally exports, REST APIs and scheduled file transfers. We check documentation first and tell you honestly if an integration is not practical." },
     { question: "How long does SEO take in Chennai?", answer: "Typically three to six months for meaningful movement on specific searches, longer for competitive terms. B2B product pages and SaaS comparison pages often perform earlier than broad keywords. We do not guarantee rankings and report progress monthly." },
     { question: "Do you sign NDAs?", answer: "Yes. We are happy to sign a reasonable non-disclosure agreement before you share product ideas, data or documents. We also limit access to your systems to what the project needs and remove it when work finishes, unless you ask us to continue maintenance." },

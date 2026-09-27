@@ -81,7 +81,7 @@ const faqs = [
   },
   {
     question: "What happens after launch?",
-    answer: `Five months of maintenance are included free once the site is live: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that, maintenance starts from ${usd("Maintenance")} if you want us to carry on, or you can take the site to any developer with every credential in hand.`,
+    answer: `Two months of maintenance are included free once the site is live: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that, maintenance starts from ${usd("Maintenance")} if you want us to carry on, or you can take the site to any developer with every credential in hand.`,
   },
   {
     question: "Can you work as a white-label development partner for a UK agency?",
@@ -159,7 +159,7 @@ const facts = [
   ["Invoicing", "USD, or GBP on request"],
   ["Payments", "Wise or international wire"],
   ["UK overlap", "UK 9am to about 3pm, all year"],
-  ["After launch", "5 months of maintenance free"],
+  ["After launch", "2 months of maintenance free"],
 ];
 
 const pills = ["Business websites", "Shopify & Stripe stores", "SEO for google.co.uk", "UK GDPR-minded builds", "Custom web apps", "AI automation"];
@@ -167,7 +167,7 @@ const pills = ["Business websites", "Shopify & Stripe stores", "SEO for google.c
 const stats = [
   { value: "3", label: "Engineers you talk to directly" },
   { value: usd("Static"), label: "Websites starting price" },
-  { value: "5", label: "Months maintenance free" },
+  { value: "2", label: "Months maintenance free" },
   { value: "4.5–5.5h", label: "Time difference, UK to India" },
 ];
 
@@ -191,7 +191,7 @@ const services = [
   { name: "Android & iOS apps", note: `Android and iPhone apps for customers and staff, published on Google Play and the App Store, from ${usd("Android")}.`, size: "sm" },
   { name: "AI automation", note: "Enquiry triage, document extraction and assistants grounded in your own content, scoped against hours saved.", size: "sm" },
   { name: "Agency white-label", note: "Development capacity behind UK design and marketing agencies, built to your designs and standards.", size: "sm" },
-  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 5 months free after launch.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 2 months free after launch.", size: "sm" },
 ] as const;
 
 // ---------- Comparison ----------
@@ -203,7 +203,7 @@ const comparison = [
   ["Time zone", "Same as yours", "Anywhere in the world", "UK morning and early afternoon overlap"],
   ["Written scope", "Usually, after discovery meetings", "Often a short platform brief", "Always, before any payment is due"],
   ["SEO and schema", "Often a separate package", "Frequently skipped", "Titles, schema and sitemap in every build"],
-  ["After launch", "Paid support contract", "Hard to reach once paid", "5 months of maintenance free"],
+  ["After launch", "Paid support contract", "Hard to reach once paid", "2 months of maintenance free"],
   ["Ownership", "Varies by contract", "Sometimes held back", "Domain, hosting and code handed to you"],
 ];
 
@@ -215,7 +215,7 @@ const process = [
   ["Design", "Sitemap and wireframes first, then visual design for the key pages, reviewed on your own phone and laptop."],
   ["Build on staging", "The site is built on a private staging link you can open at any time. Feedback sent in your afternoon is often applied by your next morning."],
   ["Test & SEO", "Titles, schema, sitemap, redirects, cookie consent, accessibility checks, forms and payments tested end to end."],
-  ["Launch & support", "Domain connected, Search Console set up, logins handed over, then 5 months of free maintenance."],
+  ["Launch & support", "Domain connected, Search Console set up, logins handed over, then 2 months of free maintenance."],
 ];
 
 // ---------- Region table ----------
@@ -273,7 +273,7 @@ const guide: GuideArticle[] = [
       "<strong>Website design.</strong> Design starts from what a UK buyer checks before they contact anyone: what you do, where you work, what it roughly costs, whether you are properly registered and accredited, and how quickly they can reach you. We agree the page structure and wireframes before visual design, design the mobile layout first, and keep sliders, autoplay video and heavy animation off pages where they slow people down. Copy is written in British English, and we can work with your existing brand guidelines or propose a simple visual system if you do not have one.",
       "<strong>Custom software and web apps.</strong> Client portals, booking systems, quoting tools, internal dashboards and admin panels built around the way your team already works: a job-sheet system for a trades business, a document portal for an accountancy practice, a stock and order dashboard for a small wholesaler. Many businesses that ask for a mobile app actually need a progressive web app that installs from the browser and updates without app store review. Custom web apps start from " + usd("Custom web app") + ".",
       "<strong>AI automation.</strong> Automation starts from " + usd("AI automation") + " and suits work your team repeats every week: sorting enquiry emails, extracting data from invoices and delivery notes, drafting product descriptions for review, or answering routine customer questions from your own documentation. We map the current workflow first and scope the build against the hours it saves. If a task happens twice a month, we will tell you it is not worth automating.",
-      "<strong>Maintenance.</strong> Five months of maintenance are included free after launch: content updates, bug fixes, dependency and security updates, backups, and uptime and speed checks. After that, plans start from " + usd("Maintenance") + ", or you can contact us only when something needs changing. Nothing locks you in.",
+      "<strong>Maintenance.</strong> Two months of maintenance are included free after launch: content updates, bug fixes, dependency and security updates, backups, and uptime and speed checks. After that, plans start from " + usd("Maintenance") + ", or you can contact us only when something needs changing. Nothing locks you in.",
     ],
   },
   {
@@ -608,7 +608,7 @@ const servicePages = countryPageLinks("uk");
             <li><span>{plan.name}</span><strong><small>from </small>{usd(plan.name)}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">Starting prices; the final quote depends on your requirements. GBP invoices on request via Wise or wire. 5 months maintenance free after launch.</p>
+        <p class="quote-foot">Starting prices; the final quote depends on your requirements. GBP invoices on request via Wise or wire. 2 months maintenance free after launch.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my UK quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>
@@ -633,7 +633,7 @@ const servicePages = countryPageLinks("uk");
       <div>
         <p class="eyebrow">The short answer</p>
         <h2 id="answer-heading">Looking for a web development team for your UK business?</h2>
-        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automation for UK businesses, working remotely. Websites start from {usd("Static")}, ecommerce from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}. Every price is a starting price, invoices can be in GBP, the UK morning overlaps our working day, and the first five months of maintenance after launch are free.</p>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automation for UK businesses, working remotely. Websites start from {usd("Static")}, ecommerce from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}. Every price is a starting price, invoices can be in GBP, the UK morning overlaps our working day, and the first two months of maintenance after launch are free.</p>
         <p class="answer-more">This page covers what we build for UK businesses, what it costs, how UK GDPR, cookies, VAT and company details affect a website, how the time difference works in practice, and what businesses in each part of England, Scotland, Wales and Northern Ireland typically need online. It also includes a buying guide for anyone weighing an offshore developer against a local agency.</p>
       </div>
       <table class="snapshot">
@@ -730,7 +730,7 @@ const servicePages = countryPageLinks("uk");
           </tbody>
         </table>
       </div>
-      <p class="fine">Starting prices only; the final quote depends on requirements. Our invoices do not include UK VAT. Maintenance is free for the first 5 months after launch. <a href="/pricing/">See full pricing</a>.</p>
+      <p class="fine">Starting prices only; the final quote depends on requirements. Our invoices do not include UK VAT. Maintenance is free for the first 2 months after launch. <a href="/pricing/">See full pricing</a>.</p>
     </div>
   </section>
 
@@ -902,7 +902,7 @@ const servicePages = countryPageLinks("uk");
         <h2 id="cta-heading">Tell us what your UK business needs</h2>
         <p class="closing-note">
           Send a few lines about your business, what you want built and any deadline. You get questions first, then a written scope,
-          a timeline and an itemised quote in USD or GBP. Nothing is billed until you approve it, and five months of maintenance are included after launch.
+          a timeline and an itemised quote in USD or GBP. Nothing is billed until you approve it, and two months of maintenance are included after launch.
         </p>
         <div class="hero-actions closing-actions">
           <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">

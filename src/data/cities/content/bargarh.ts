@@ -56,7 +56,7 @@ const bargarh: CityContent = {
     ai: "WhatsApp assistants in Odia, Sambalpuri-friendly Hindi and English that answer price, stock and appointment questions and hand real decisions to you.",
     data: "Season dashboards of paddy received, rice outturn, dispatch, dues and saree orders by city.",
     app: "Android and iOS apps for mill supervisors to log lots or for handloom customers to browse new designs, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Bargarh's millers and traders run on thin margins and long seasons, and they want technology that pays for itself within a harvest or two. We publish starting prices, write every quote item by item, reply on WhatsApp seven days a week and register your domain, hosting, code and app store accounts in your name. If something will not pay back, we say so.",
@@ -178,7 +178,7 @@ const bargarh: CityContent = {
       heading: "Ownership and maintenance for Bargarh websites and apps",
       paragraphs: [
         "In smaller towns, websites often disappear because whoever built them registered the domain in their own name and later became unreachable. We register your domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts in your name, and hand over all logins in writing.",
-        "Maintenance is free for five months after launch. It covers content and price updates, backups, security patches, software updates, and checks that forms, WhatsApp links and payments still work. After that, maintenance starts at ₹8,000 a month if you want us to carry on, and you can move to another developer whenever you like.",
+        "Maintenance is free for two months after launch. It covers content and price updates, backups, security patches, software updates, and checks that forms, WhatsApp links and payments still work. After that, maintenance starts at ₹8,000 a month if you want us to carry on, and you can move to another developer whenever you like.",
         "Apps need updating every year as Google and Apple change their requirements. We track these changes so your app is not removed from the stores. Mill software also gets a pre-season check so it is ready before the first trucks arrive.",
       ],
     },
@@ -270,7 +270,7 @@ const bargarh: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer at any time.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer at any time.",
     },
     {
       question: "Do you work in Padampur, Barpali and Sambalpur too?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote calculator", "BHK, floors, lift, distance, vehicle, date"],
     ["Lead delivery", "WhatsApp to the right branch, plus a sheet"],
     ["Written estimate", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers you talk to directly" },
     { value: "0", label: "Per-lead or commission fees from us" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, packers and movers website design starts at ${P.site} (about ${P.siteUsd}) for a site of up to 100 pages including the quote calculator, service pages, trust page, branch pages and WhatsApp routing. Quotes elsewhere vary widely, so compare what is inside each one: calculator logic, number of real pages, and who owns the domain.`,
         `The biggest price driver is the calculator. A range calculator based on home size, floors and distance is quick to build. An inventory-style calculator, where the customer ticks each sofa, bed and fridge and the site estimates volume, truck size and packing material, needs more rules and testing. The second driver is content: every genuine route and branch page needs photos and facts from your team. The third is software beyond the website.`,
-        `For that software, a survey app for estimators starts at ${P.app}; a full system with bookings, surveys, invoices and shipment status starts at ${P.software}; WhatsApp follow-up automation starts at ${P.ai}; monthly SEO starts at ${P.seo}; and maintenance after the first five free months starts at ${P.care}. Our <a href='/pricing/'>pricing page</a> lists every plan.`,
+        `For that software, a survey app for estimators starts at ${P.app}; a full system with bookings, surveys, invoices and shipment status starts at ${P.software}; WhatsApp follow-up automation starts at ${P.ai}; monthly SEO starts at ${P.seo}; and maintenance after the first two free months starts at ${P.care}. Our <a href='/pricing/'>pricing page</a> lists every plan.`,
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: the domain, hosting, Google Search Console, analytics, WhatsApp Business account and every enquiry. That is the whole point of moving away from rented leads.`,
         `We register the domain and hosting in your business name from the start, hand over the complete source code at launch, and document how the calculator rules work so your team can change rates or distance bands without us. The lead sheet or CRM sits in your account. If you later hire another developer or bring someone in-house, they can continue without asking our permission.`,
-        `The first five months after launch include free maintenance: updating calculator rates, adding a branch, changing photos, small fixes. After that it is optional from ${P.care}. Clients in India pay by UPI or bank transfer, and international clients by Wise, bank wire or PayPal. Payment milestones and any refund terms are written in your approved quote; see our <a href='/refund-policy/'>refund policy</a> for the general position.`,
+        `The first two months after launch include free maintenance: updating calculator rates, adding a branch, changing photos, small fixes. After that it is optional from ${P.care}. Clients in India pay by UPI or bank transfer, and international clients by Wise, bank wire or PayPal. Payment milestones and any refund terms are written in your approved quote; see our <a href='/refund-policy/'>refund policy</a> for the general position.`,
       ],
     },
     {
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
         ["Estimator survey app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Teams doing on-site or video surveys"],
         ["Booking, survey, invoice and tracking software", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Multi-branch operations"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Route pages, reviews, branch profiles"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Rate changes, new branches, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Rate changes, new branches, fixes"],
       ],
       hideSm: [2],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Test the calculator on real moves", "Your estimators run past jobs through the draft calculator and we tune the ranges until they match what they would actually quote."],
       ["Review pages on a private link", "Service, branch, trust and route pages go up on a preview for your team to check on their phones, including photos and addresses."],
       ["Go live with routing switched on", "We connect WhatsApp routing and the lead sheet, set up Search Console and analytics in your name, and move the domain."],
-      ["Adjust for five months, free", "Rates change, branches open, photos improve: for five months after launch those updates cost nothing, and upkeep afterwards is optional."],
+      ["Adjust for two months, free", "Rates change, branches open, photos improve: for two months after launch those updates cost nothing, and upkeep afterwards is optional."],
     ],
   },
   faqHeading: "Packers and movers website design: questions movers ask us",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Does the site work well on cheap Android phones?", answer: "Yes. Most shifting customers browse on phones, often on mobile data. We keep pages light, compress photos, load the calculator quickly, and test on budget Android devices. Google’s web.dev guidance treats a Largest Contentful Paint of 2.5 seconds or less as good, and we aim to meet that on mobile." },
     { question: "How do AI assistants decide which movers to suggest?", answer: "They quote clear, specific text they can find and trust. State your routes, transit times, services, packing process and claims handling plainly, keep branch details consistent across your website and Google Business Profile, and write FAQ answers that make sense alone. Concrete facts are cited far more often than slogans, though no one can guarantee a mention." },
     { question: "How do payments work if I hire your team?", answer: "Clients in India pay by UPI or bank transfer, in milestones listed in the approved estimate. International clients pay by Wise, bank wire or PayPal in USD. Nothing is billed before written approval of the itemised quote, and any refund terms are written into that quote and explained on our refund policy page." },
-    { question: "What maintenance do I get after launch?", answer: `Five months of free maintenance cover calculator rate updates, new branch pages, photo changes, small edits and fixes. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also make changes in-house or hire any other developer later.` },
+    { question: "What maintenance do I get after launch?", answer: `Two months of free maintenance cover calculator rate updates, new branch pages, photo changes, small edits and fixes. After that, maintenance is optional from ${P.care}. Because you own the code and accounts, you can also make changes in-house or hire any other developer later.` },
     { question: "Can you redo packers and movers website design for an existing site?", answer: "Yes. We keep the pages and URLs that already bring traffic, redirect the rest properly, add the calculator and trust section, remove copied route pages that may be hurting you, and connect WhatsApp routing. Search Console data from your current site helps us decide what to keep." },
     { question: "Packers and movers ki website banwane me kitna kharcha hai?", answer: `BtechWaleTech ke saath packers and movers website design ${P.site} se start hota hai. Isme moving quote calculator, household, office aur car-bike shifting pages, trust page aur WhatsApp par branch-wise lead routing aata hai. Itemised quote lagbhag do working days me milta hai, aur approval se pehle koi payment nahi.` },
   ],
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a packers and movers website that brings enquiries only you receive?",
-    note: `Send your services, branches and how you estimate a move on WhatsApp. An itemised quote follows in about two working days, starting at ${P.site}, with the domain, hosting, code and every lead in your business name and five months of free maintenance after launch.`,
+    note: `Send your services, branches and how you estimate a move on WhatsApp. An itemised quote follows in about two working days, starting at ${P.site}, with the domain, hosting, code and every lead in your business name and two months of free maintenance after launch.`,
   },
 };
 

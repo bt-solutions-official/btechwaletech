@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Multi-branch SEO site", `From ${P.seoSite}, 3–5 weeks`],
     ["Booking", "WhatsApp request or live chair slots"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your clinic’s site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Booking", value: "WhatsApp prefilled message, or live slots per chair" },
       { label: "Reminders", value: `WhatsApp and SMS automation from ${P.ai}` },
       { label: "Rules to respect", value: "DCI code: factual info and fees allowed, no boasting of cases" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       heading: "Who owns a dental clinic website design project at handover?",
       paragraphs: [
         `The clinic owns everything: domain, hosting, code, booking data and WhatsApp number. We set up the domain and hosting in the clinic’s name on a short screen-share, or the practice owner creates them and adds us as users; payment for them goes from your card to the provider.`,
-        `At launch you receive the repository, admin logins, a list of every paid service with its renewal date, and a one-page note on updating timings, fees and dentist profiles. For five months after launch, small edits, fixes and updates are free. After that, maintenance is optional and starts at ${P.care} a month, or your own staff or another developer can take over with everything they need.`,
+        `At launch you receive the repository, admin logins, a list of every paid service with its renewal date, and a one-page note on updating timings, fees and dentist profiles. For two months after launch, small edits, fixes and updates are free. After that, maintenance is optional and starts at ${P.care} a month, or your own staff or another developer can take over with everything they need.`,
         `If the clinic changes hands or a partner leaves, this matters. A practice sale goes more smoothly when the website, domain and patient-facing number are clearly clinic assets rather than tied to one person’s personal accounts.`,
       ],
     },
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical and exists only to show how a dental clinic website design project could run. Say a two-chair clinic in Nashik, with one general dentist and a visiting implantologist twice a week, gets steady walk-ins for fillings but few implant consultations.`,
         `We would propose the static website plan from ${P.site}: home, two dentist profiles, ten treatment pages, a fees page, clinic tour and contact, with Marathi versions of the five most-read treatment pages, translated by the clinic or a translator it trusts and then checked by the dentist. The implant page would explain the consultation and scan, the healing gap and the visiting schedule, and the booking button would open WhatsApp with “I want an implant consultation on the implantologist’s day”.`,
-        `Week one: sitemap, layouts and the implant page draft reviewed by the implantologist. Week two: remaining pages, the fees table, Google Business Profile services linked to each page, Dentist schema and Search Console. As an optional second phase, a reminder and recall automation from ${P.ai} would confirm bookings and send six-month cleaning recalls. The clinic would own every account, and fee changes during the first five months would be covered by free maintenance.`,
+        `Week one: sitemap, layouts and the implant page draft reviewed by the implantologist. Week two: remaining pages, the fees table, Google Business Profile services linked to each page, Dentist schema and Search Console. As an optional second phase, a reminder and recall automation from ${P.ai} would confirm bookings and send six-month cleaning recalls. The clinic would own every account, and fee changes during the first two months would be covered by free maintenance.`,
       ],
     },
     {
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Accounts in the clinic’s name", "Domain, hosting and, if needed, the WhatsApp Business number are set up under the clinic’s details, with us added as users."],
       ["Treatment content session", "A 30-minute call with the lead dentist to capture visit counts, cost ranges and patient questions for each treatment page."],
       ["Review on a staging link", "Pages appear on a private link the dentist can read between patients. Comments come back on WhatsApp and we revise."],
-      ["Launch and five months of care", `We connect the domain, verify Search Console, link the Google Business Profile and hand over all logins. Edits are free for five months, then care is optional from ${P.care}.`],
+      ["Launch and two months of care", `We connect the domain, verify Search Console, link the Google Business Profile and hand over all logins. Edits are free for two months, then care is optional from ${P.care}.`],
     ],
   },
   faqHeading: "Dental clinic website design: questions dentists ask",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Should I choose a freelancer or an agency for my dental website?", answer: "A small freelance team suits a clinic that wants to speak directly with the people building the site and has a clear scope. A large agency suits chains wanting advertising, video production and a big team at once. For most single and multi-chair clinics, a focused freelance build with ownership in the clinic’s name is enough." },
     { question: "Is a remote web designer fine, or should I hire someone local?", answer: "Dental clinic website design does not need anyone at your clinic. We work over Google Meet and WhatsApp, share staging links you open on your phone, and ask you to send clinic photos taken on a good phone or by a local photographer. What matters is how well the designer understands patients and treatments, not their distance from you." },
     { question: "Who owns the dental clinic website after it is built?", answer: "The clinic does. The domain and hosting are registered in the clinic’s name from day one, and at launch you get the code repository, admin logins, and a list of paid services with renewal dates. If you later want someone else to manage the site, they can take over without needing anything from us." },
-    { question: "What happens after the website goes live?", answer: `For five months after launch we handle small edits, fixes and updates for free: new timings, a new dentist, changed fees. After that, maintenance is optional and starts at ${P.care} a month. You can also let your own staff update fees and timings through the admin panel we set up.` },
+    { question: "What happens after the website goes live?", answer: `For two months after launch we handle small edits, fixes and updates for free: new timings, a new dentist, changed fees. After that, maintenance is optional and starts at ${P.care} a month. You can also let your own staff update fees and timings through the admin panel we set up.` },
     { question: "How do I pay, and is there a GST invoice?", answer: "Clinics in India pay by UPI or bank transfer, on the terms set out in your written quote. We share invoice details at quote stage; ask us about GST invoicing for your specific case. Nothing is billed before you approve the itemised quote. International clinics can pay in USD by Wise, bank wire or PayPal." },
     { question: "Can you sign an NDA before we share clinic data?", answer: "If you plan to share patient lists, pricing sheets or practice software access, ask us and we will discuss an NDA at quote stage. For most websites we need no patient data at all: treatment information, photos and timings are enough. Terms that apply to your project are agreed in the written quote; see our terms page for the general position." },
     { question: "Will my dental website rank first on Google?", answer: `Nobody can honestly guarantee that. Rankings depend on competition in your area, your reviews, your content and time. We build the technical foundations correctly, write useful treatment pages and set up Search Console so you can watch progress. Ongoing local SEO starts at ${P.seo} a month if you want steady work on it.` },
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want more booked chairs from your dental website?",
-    note: `Send us your treatments, number of chairs and branches on WhatsApp. You will get an itemised quote in about two working days, with dental clinic sites from ${P.site}, every account in the clinic’s name and five months of free maintenance after launch.`,
+    note: `Send us your treatments, number of chairs and branches on WhatsApp. You will get an itemised quote in about two working days, with dental clinic sites from ${P.site}, every account in the clinic’s name and two months of free maintenance after launch.`,
   },
 };
 

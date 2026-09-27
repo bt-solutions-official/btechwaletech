@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Freelance app developer · Android + iOS",
     h1: "Freelance app developer for Android and iOS: platform choice, real costs and getting published",
     lede: `A freelance app developer takes your idea from a feature list to an app people can download from Google Play and the App Store, without the overhead of a large studio. BtechWaleTech is three freelance developers in India who build one cross-platform codebase in Flutter or React Native, connect it to a backend and publish it in <strong>your</strong> developer accounts. Apps start from ${P.app} and usually take 6–10 weeks. Below: how to pick the platform, what drives cost, and how store publishing actually works.`,
-    pills: ["Flutter or React Native", "Android + iOS from one codebase", "Admin panel and backend", "Play Console publishing", "App Store Connect submission", "Your accounts, your code", "5 months free fixes"],
+    pills: ["Flutter or React Native", "Android + iOS from one codebase", "Admin panel and backend", "Play Console publishing", "App Store Connect submission", "Your accounts, your code", "2 months free fixes"],
     origin: "Three freelance developers · Remote from India · App clients across India and abroad",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Platforms", "Android and iOS from one codebase"],
     ["Store accounts", "Registered in your name"],
     ["Estimate", "Itemised, in about 2 working days"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app's code" },
     { value: "2", label: "Stores covered: Google Play and App Store" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform or middleman fees on payments" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Tech", value: "Flutter or React Native, chosen per project" },
       { label: "Publishing", value: "Play Console and App Store Connect, under your accounts" },
       { label: "Payments to us", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Aftercare", value: `5 months free, then maintenance from ${P.care}` },
+      { label: "Aftercare", value: `2 months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Cover if someone is unavailable", "Work stops", "Replacement assigned", "Two teammates already know the code"],
       ["Store review rejections", "Your problem after handover", "Handled, often billed", "Fixed by us as part of the release"],
       ["Starting budget", "Varies widely", "Usually the highest", `From ${P.app}`],
-      ["After release", "Paid per bug", "Annual maintenance contract", `5 months free, then from ${P.care}`],
+      ["After release", "Paid per bug", "Annual maintenance contract", `2 months free, then from ${P.care}`],
       ["Large, multi-team apps", "Not suitable", "Suitable", "Not suitable; we stay small on purpose"],
     ],
     fine: "If your app needs a dozen engineers in parallel, round-the-clock on-call support or native hardware integration such as custom Bluetooth medical devices, a larger studio will serve you better than any freelance app developer.",
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       heading: "After launch: updates, OS changes and maintenance",
       paragraphs: [
         `An app is never finished, because Android and iOS change every year. New OS versions, new store policy deadlines and new phone sizes all require updates, even if you add no features.`,
-        `Our apps include five months of free maintenance after release. That covers bug fixes, small copy changes, dependency updates and store policy responses. After that, maintenance continues from ${P.care} a month if you want it, or you can take the code to another developer; everything is documented for exactly that reason.`,
+        `Our apps include two months of free maintenance after release. That covers bug fixes, small copy changes, dependency updates and store policy responses. After that, maintenance continues from ${P.care} a month if you want it, or you can take the code to another developer; everything is documented for exactly that reason.`,
         `Plan a small budget for version 1.1 about six to eight weeks after launch. Real users always reveal one or two flows that need tightening, and fixing them early improves ratings far more than adding new features.`,
       ],
     },
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show how a freelance app developer project runs; it is not a client story.`,
         `A home-cleaning business in a tier-2 city takes bookings by phone and loses track of staff schedules. It wants customers to book slots, pay by UPI, and get reminders; staff should see their daily jobs; the owner wants a dashboard.`,
-        `We would scope a Flutter app with two roles (customer and staff), a web admin panel, UPI and card checkout, and push plus WhatsApp reminders, starting from ${P.app}, with extra lines for the staff role and the reminder integration. Weeks one and two: flows, design and backend models. Weeks three to seven: customer booking, staff job list, admin calendar, payments. Week eight: closed testing on Play, TestFlight on iPhone, store listings. Week nine: submission and release. Five months of free fixes follow, which usually cover the first round of real-world tweaks.`,
+        `We would scope a Flutter app with two roles (customer and staff), a web admin panel, UPI and card checkout, and push plus WhatsApp reminders, starting from ${P.app}, with extra lines for the staff role and the reminder integration. Weeks one and two: flows, design and backend models. Weeks three to seven: customer booking, staff job list, admin calendar, payments. Week eight: closed testing on Play, TestFlight on iPhone, store listings. Week nine: submission and release. Two months of free fixes follow, which usually cover the first round of real-world tweaks.`,
       ],
     },
     {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       heading: "Freelance app developer se app kaise banwayein?",
       paragraphs: [
         `Sabse pehle likh lijiye ki app mein kaun kaun se kaam hone chahiye: login, booking, payment, notification. Phir socho ki customer app kitni baar kholega. Agar mahine mein kai baar, toh app sahi hai; warna achhi website kaafi hai.`,
-        `Hamare saath Android aur iPhone dono ke liye ek hi app ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Play Store aur App Store account aapke naam par banenge, code bhi aapka rahega. Launch ke baad 5 mahine tak bug fixing free hai. WhatsApp par Hindi ya English mein baat kar sakte hain.`,
+        `Hamare saath Android aur iPhone dono ke liye ek hi app ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Play Store aur App Store account aapke naam par banenge, code bhi aapka rahega. Launch ke baad 2 mahine tak bug fixing free hai. WhatsApp par Hindi ya English mein baat kar sakte hain.`,
       ],
     },
   ],
@@ -293,7 +293,7 @@ const content: FreelanceContent = {
         ["AI module added to an app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Chat assistant, document reading, smart search"],
         ["Marketing website for the app", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Landing page, privacy policy, support page"],
         ["Online store alongside the app", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, UPI and card checkout"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, policy changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, policy changes"],
       ],
       hideSm: [2],
     },
@@ -325,7 +325,7 @@ const content: FreelanceContent = {
         ["Weeks 5–6", "Payments, notifications, admin panel", "Add real content", "Feature-complete beta"],
         ["Week 7", "Device testing, fixes, store listings", "Approve screenshots and text", "Release candidate"],
         ["Week 8", "Closed testing, submission, review replies", "Final payment", "Live apps and handover pack"],
-        ["Next 5 months", "Fixes and small updates", "Report issues on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes and small updates", "Report issues on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the Google Play and Apple developer accounts plus hosting, with our guidance, and add us as users with limited permissions."],
       ["Test builds every week", "Installable builds reach your phone through internal testing and TestFlight, so you judge the real app rather than slides."],
       ["Store submission and release", "We prepare listings, privacy forms and review notes, submit to both stores and fix any rejection until both apps are live."],
-      ["Five months of free fixes", "Bug fixes, small changes and policy updates are free for five months after release, then optional maintenance from " + P.care + " a month."],
+      ["Two months of free fixes", "Bug fixes, small changes and policy updates are free for two months after release, then optional maintenance from " + P.care + " a month."],
     ],
   },
   faqHeading: "Freelance app developer: common questions",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Why do apps get rejected by the App Store or Google Play?", answer: "Common reasons include missing or unclear privacy policies, incomplete data safety or privacy declarations, crashes during review, login-protected apps with no demo account, placeholder content and permissions that are not explained. A developer who writes clear review notes and tests carefully before submission avoids most rejections, and fixes the rest quickly." },
     { question: "Can a freelance app developer also build the admin panel and backend?", answer: `A full-stack freelance app developer can, and it should be in the quote. BtechWaleTech includes a backend API, database and basic web admin panel in app projects starting from ${P.app}. Larger portals for customers, vendors or staff are scoped as a web application starting from ${P.software}.` },
     { question: "How do I protect my app idea when working with a freelancer?", answer: "Sign a simple NDA before sharing detailed plans, keep the source code in a repository you own, and get a written agreement that intellectual property transfers to you on payment. In practice, execution matters far more than the idea, but these steps give you legal clarity. BtechWaleTech signs reasonable NDAs on request." },
-    { question: "What happens after my app is launched?", answer: `Apps need regular updates for new Android and iOS versions, store policy changes and bug reports from real users. BtechWaleTech includes five months of free maintenance after release. After that, maintenance is optional from ${P.care} a month, or you can hand the documented code to any other developer.` },
+    { question: "What happens after my app is launched?", answer: `Apps need regular updates for new Android and iOS versions, store policy changes and bug reports from real users. BtechWaleTech includes two months of free maintenance after release. After that, maintenance is optional from ${P.care} a month, or you can hand the documented code to any other developer.` },
     { question: "Can a freelance app developer near me be better than a remote one?", answer: "Meeting locally can feel reassuring, but app quality depends on skill, process and testing. Remote developers send weekly test builds to your phone, meet on video and reply on WhatsApp, so you judge the real app every week. Choose on evidence such as live apps and ownership terms, then decide whether distance still matters." },
     { question: "Will my app work on cheap Android phones?", answer: "It should, if the developer tests for it. Most Indian users are on Android, many on entry-level devices with limited memory and storage. A careful developer keeps the app small, caches data for weak networks and tests on at least one older phone before release, not only on emulators or new flagship devices." },
     { question: "Can you add UPI payments to my app?", answer: "Yes. Apps we build can accept UPI and card payments at checkout, with order confirmation, refunds and receipts handled on the backend. Note that apps selling digital content or subscriptions may have to use Google Play or Apple billing under store rules, while physical goods and in-person services can use your own checkout." },
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an app? Talk to a freelance app developer directly",
-    note: `Send your idea on WhatsApp. Within about two working days you get an itemised quote, with Android and iOS apps starting from ${P.app}, store accounts in your name and five months of free fixes after release.`,
+    note: `Send your idea on WhatsApp. Within about two working days you get an itemised quote, with Android and iOS apps starting from ${P.app}, store accounts in your name and two months of free fixes after release.`,
   },
 };
 

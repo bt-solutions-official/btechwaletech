@@ -26,7 +26,7 @@ const content: FreelanceContent = {
     eyebrow: "Netherlands · webshop budgets · build plus year one",
     h1: "How much does a webshop cost? The build quote and the first twelve months",
     lede: `How much does a webshop cost? More than the build quote: a Dutch webshop also pays a platform, apps, iDEAL and card fees, shipping labels and often a bol.com connector every month. BtechWaleTech is three freelance developers in India building Shopify, WooCommerce and custom shops from ${P.shop}, over 4–8 weeks. This page adds up the whole first year, platform by platform, so you can compare with our <a href='/services/web-development/'>web development</a> quote or anyone else's.`,
-    pills: ["Shopify, WooCommerce or custom", "iDEAL and card checkout", "Shipping-label set-up", "bol.com sync options", "Year-one budget sheet", "Shop and accounts in your name", "5 months free maintenance"],
+    pills: ["Shopify, WooCommerce or custom", "iDEAL and card checkout", "Shipping-label set-up", "bol.com sync options", "Year-one budget sheet", "Shop and accounts in your name", "2 months free maintenance"],
     origin: "Three freelance developers in India · quotes in USD · replies on WhatsApp 7 days a week",
   },
   facts: [
@@ -40,7 +40,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers building your shop" },
     { value: "0", label: "Commission taken by us on your sales" },
-    { value: "5", label: "Free months of maintenance after launch" },
+    { value: "2", label: "Free months of maintenance after launch" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Custom webshop", note: `Your own code when platform fees or limits outweigh a larger one-off build. From ${P.software}.`, href: "/netherlands/custom-software-development/", size: "md" },
       { name: "bol.com connection", note: "Offers, stock and orders synced between your shop and bol.com, by app or custom integration.", href: "/netherlands/bol-com-api-integration/", size: "sm" },
       { name: "Replatforming", note: "Moving from Magento or an old system while keeping URLs and search traffic.", href: "/netherlands/magento-to-shopify-migration/", size: "sm" },
-      { name: "Shop maintenance", note: `Updates, app checks and fixes. Five free months, then from ${P.care}.`, size: "sm" },
+      { name: "Shop maintenance", note: `Updates, app checks and fixes. Two free months, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -86,7 +86,7 @@ const content: FreelanceContent = {
       ["Product import", "Manual or CSV", "Often extra", "Quoted per catalogue size"],
       ["bol.com or ERP link", "App, if one fits", "Custom work", "App configured or custom integration quoted"],
       ["Dutch copy and photos", "Yours", "Often offered", "Yours; we load and format it"],
-      ["Monthly running costs", "Same platform fees", "Platform fees plus service contract", `Platform fees plus care from ${P.care} after five months`],
+      ["Monthly running costs", "Same platform fees", "Platform fees plus service contract", `Platform fees plus care from ${P.care} after two months`],
       ["Who owns the shop", "You", "You, if the contract says so", "You, from day one"],
       ["Meetings in person", "Not applicable", "Yes", "No; video calls and WhatsApp"],
     ],
@@ -147,7 +147,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A WooCommerce webshop has no platform subscription, but you pay for hosting, premium plugins and more hands-on maintenance. It moves cost from a monthly platform fee to your own infrastructure and care.`,
         `WooCommerce runs on WordPress, so you choose the hosting, and a busy shop needs good hosting: enough memory, caching that understands carts, daily backups and an EU data centre if you prefer. Premium extensions for subscriptions, B2B pricing or advanced shipping are usually billed yearly. Payment providers and shipping tools offer their own plugins, typically free to install, with fees charged on their side.`,
-        `The hidden line is maintenance. WordPress core, the theme and every plugin release updates regularly, and updating a live shop without testing is how checkouts break on a Saturday. Budget for someone to test updates on a staging copy first. With us that is free for five months, then from ${P.care}. The <a href='/netherlands/woocommerce-developer/'>WooCommerce developer</a> page explains when staying on WooCommerce is the right call.`,
+        `The hidden line is maintenance. WordPress core, the theme and every plugin release updates regularly, and updating a live shop without testing is how checkouts break on a Saturday. Budget for someone to test updates on a staging copy first. With us that is free for two months, then from ${P.care}. The <a href='/netherlands/woocommerce-developer/'>WooCommerce developer</a> page explains when staying on WooCommerce is the right call.`,
       ],
     },
     {
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Imagine a hypothetical seller of refurbished office chairs based near Leiden, with around 60 products, selling to consumers and small offices in the Netherlands and Belgium, and wanting to list the best sellers on bol.com.`,
         `Build: a Shopify shop with Dutch and English content supplied by the owner, iDEAL, cards and Bancontact through the owner's payment provider, delivery and pickup options, a label tool integration, a bol.com connector app, product import from a spreadsheet and a returns form. That would be quoted from ${P.shop}, with the bol.com link as its own line.`,
-        `Year one on top of the build: the Shopify plan for 12 months, three or four paid apps, the label tool subscription, payment fees on every order, labels and packaging, bol.com's commission on marketplace sales, the domain, business email, product photography, and maintenance free for five months then from ${P.care}. The owner would also decide whether to apply for Thuiswinkel Waarborg once the first annual figures exist. This is a planning illustration of how we would scope the brief, not a client project or a promise of results.`,
+        `Year one on top of the build: the Shopify plan for 12 months, three or four paid apps, the label tool subscription, payment fees on every order, labels and packaging, bol.com's commission on marketplace sales, the domain, business email, product photography, and maintenance free for two months then from ${P.care}. The owner would also decide whether to apply for Thuiswinkel Waarborg once the first annual figures exist. This is a planning illustration of how we would scope the brief, not a client project or a promise of results.`,
       ],
     },
     {
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
         ["Labels and packaging", "Per order", "Carrier or label tool", "Include return labels in the estimate"],
         ["Marketplace commission", "Per order", "bol.com", "Check your seller agreement's category rates"],
         ["Trustmark membership", "Yearly", "Thuiswinkel.org", "Often a year-two decision"],
-        ["Maintenance", "Monthly", "Developer", `Free 5 months with us, then from ${P.care}`],
+        ["Maintenance", "Monthly", "Developer", `Free 2 months with us, then from ${P.care}`],
       ],
     },
     {
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You open platform, payment, shipping and marketplace accounts for your company and invite us, so every contract stays yours."],
       ["Build and import", "Theme, categories, filters and product import go up on a password-protected shop you can browse from the first week."],
       ["Test orders", "You place real test orders with iDEAL and cards, labels are created, refunds and returns are tried, and emails are checked."],
-      ["Launch and care", "The shop opens with Search Console and a product feed. Five months of free maintenance follow, then care from a monthly plan if you want it."],
+      ["Launch and care", "The shop opens with Search Console and a product feed. Two months of free maintenance follow, then care from a monthly plan if you want it."],
     ],
   },
   faqHeading: "How much does a webshop cost: common questions",
@@ -396,10 +396,10 @@ const content: FreelanceContent = {
     { question: "How long does it take to build a webshop?", answer: "With us a webshop takes four to eight weeks, depending on catalogue size, integrations and how ready your content is. A custom shop or B2B portal takes six to twelve weeks. The most common delay is product data: clean spreadsheets with photos ready make the import fast, while scattered data slows everything down." },
     { question: "When should I choose a custom webshop instead of Shopify or WooCommerce?", answer: `Choose custom when platform and app fees at your volume exceed the cost of owning code, when your pricing or ordering process needs workarounds on every update, or when the shop is really a trade portal. Custom builds start from ${P.software}. For most new shops, a platform is the cheaper start and custom is worth pricing after a year of real data.` },
     { question: "Who owns the webshop and customer data?", answer: "You do. The platform account, domain, hosting, payment and shipping contracts and marketplace accounts are all opened in your company's name. We work as invited developers. Customer and order data sit in your systems, and if you change developer later nothing has to be handed back from us." },
-    { question: "Do you take a commission on my sales?", answer: `No. We charge for building the shop and, if you want it, for maintenance after the five free months, from ${P.care}. We take no share of your turnover or payments. Transaction fees are charged by your payment provider, platform and marketplace under your own contracts.` },
+    { question: "Do you take a commission on my sales?", answer: `No. We charge for building the shop and, if you want it, for maintenance after the two free months, from ${P.care}. We take no share of your turnover or payments. Transaction fees are charged by your payment provider, platform and marketplace under your own contracts.` },
     { question: "Is BTW included in your webshop quote?", answer: "Our invoices come from India in USD and do not include Dutch BTW. The Dutch Tax Administration explains that reverse charging may apply when a business procures services from outside the EU. Ask your accountant how to report it; we will add any invoice details they need but do not give tax advice." },
     { question: "Can you write the Dutch product descriptions?", answer: "No. The team writes English and loads content in any language, but Dutch product text should come from you or a Dutch copywriter so it reads naturally and describes the products accurately. We build the templates, import your text and flag products with missing or overlong descriptions before launch." },
-    { question: "What does webshop maintenance cost after launch?", answer: `We include five months of free maintenance after launch: updates, app and plugin checks, bug fixes and small changes. After that, care plans start from ${P.care}. WooCommerce shops need more update testing than hosted platforms, so maintenance matters more there. New features are quoted separately as small projects.` },
+    { question: "What does webshop maintenance cost after launch?", answer: `We include two months of free maintenance after launch: updates, app and plugin checks, bug fixes and small changes. After that, care plans start from ${P.care}. WooCommerce shops need more update testing than hosted platforms, so maintenance matters more there. New features are quoted separately as small projects.` },
     { question: "Does my webshop need to be accessible?", answer: "It may. The European Accessibility Act covers e-commerce services to consumers after 28 June 2025 and exempts microenterprises providing services. Your adviser should confirm whether your shop falls within it. We build accessible templates and checkout fields as standard, and quote a formal audit and accessibility statement separately if needed." },
     { question: "How much does a webshop cost in marketing during year one?", answer: `Budget for traffic from day one: search, shopping feeds, advertising, email and marketplaces. Technical SEO and a product feed are part of our build. Ongoing SEO with us starts from ${P.seo} per month, and advertising spend is a separate budget you control. Nobody can guarantee rankings, so treat marketing as a test-and-learn line.` },
     { question: "Can you build a shopping app for my webshop?", answer: `Yes. An Android and iOS app that uses your shop's catalogue and orders starts from ${P.app} and takes six to ten weeks. For physical products, the app can use your payment provider for iDEAL and cards. Most shops launch the webshop first and add an app when repeat customers make it worthwhile.` },

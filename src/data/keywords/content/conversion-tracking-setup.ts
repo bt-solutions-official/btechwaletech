@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who build and test the tracking" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance on websites we build" },
+    { value: "2", label: "Months of free maintenance on websites we build" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "You do. Your Google Ads, Meta Business, GA4 and Tag Manager accounts stay in your name, and we work through user access you can revoke. The conversion list, container and reconciliation sheet are handed over.",
         "This matters more than it sounds. We regularly meet owners whose pixel or tag container was created by a previous ad seller under a personal login. When that relationship ended, the owner lost years of conversion history and audience data. In a conversion tracking setup we either create assets inside your business accounts or transfer existing ones in before building.",
-        "Handover includes a plain list of every conversion action, where it fires, which platforms receive it and which are used for bidding. If another developer or marketer takes over, they can read that list in ten minutes. Sites we build come with 5 months of free maintenance, which covers keeping tags working through fixes; after that, care plans start at " + P.care + ".",
+        "Handover includes a plain list of every conversion action, where it fires, which platforms receive it and which are used for bidding. If another developer or marketer takes over, they can read that list in ten minutes. Sites we build come with 2 months of free maintenance, which covers keeping tags working through fixes; after that, care plans start at " + P.care + ".",
       ],
     },
     {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Do I need the Meta Conversions API as well as the Pixel?", answer: "It is worth adding when Meta ad spend matters to you, because server events keep reporting more complete when browsers block cookies or scripts. For a business spending little on Meta, a correctly configured Pixel with confirmed lead events is a sensible start. Our Meta Conversions API setup page explains the server side in detail." },
     { question: "How long does conversion tracking setup take?", answer: "A site with a couple of forms, WhatsApp and a phone link usually takes a few working days after access, most of it testing. Stores with several payment options, multiple ad platforms or offline imports take longer, and offline imports need your real sales cycle to produce closed deals before they can be verified end to end." },
     { question: "Can you track purchases paid by UPI and cash on delivery?", answer: "Yes. Each payment path can finish on a different page, so we test UPI, card and cash-on-delivery orders separately and fire the purchase once per order ID. COD orders can be tagged with a payment type so refused deliveries do not distort ad results, and confirmed deliveries can be imported as a separate conversion if that suits your business." },
-    { question: "Will conversion tracking break when my website changes?", answer: "It often does. New form builders, theme changes, plugin updates and redesigned buttons can silently stop triggers. We hand over a re-test checklist and, for sites we build, the first 5 months of maintenance are free. After that, tracking checks can be part of a care plan or monthly SEO, as agreed in your written quote." },
+    { question: "Will conversion tracking break when my website changes?", answer: "It often does. New form builders, theme changes, plugin updates and redesigned buttons can silently stop triggers. We hand over a re-test checklist and, for sites we build, the first 2 months of maintenance are free. After that, tracking checks can be part of a care plan or monthly SEO, as agreed in your written quote." },
     { question: "Who owns the tracking accounts and data?", answer: "You own everything: Google Ads, Meta Business, GA4, Tag Manager and any lead sheets or CRM stay in your business accounts, and we work through user access you can remove. If a previous seller created assets under a personal login, we help move them into your accounts before building, so history is not lost again." },
     { question: "Should I track calls from my Google Business Profile too?", answer: "Calls placed directly from your Google Business Profile do not pass through your website, so website tags cannot see them. Google Business Profile shows its own call and interaction figures. We can add a field in your lead sheet so staff record the source of each call, which feeds the monthly reconciliation and any offline import." },
     { question: "Is conversion tracking the same as conversion rate optimisation?", answer: "No. Conversion tracking measures how many leads and sales happen and where they came from. Conversion rate optimisation changes pages, forms and offers so more visitors become leads. Tracking comes first, because you cannot judge any optimisation test without trustworthy conversion numbers. Our conversion rate optimization services page covers the improvement side." },

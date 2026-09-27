@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Focus", "Collections, products, French pages"],
     ["Access", "Shopify collaborator request you approve"],
     ["Quote", "Itemised USD quote in about 2 working days"],
-    ["After launch builds", "5 months of free maintenance"],
+    ["After launch builds", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who edit your theme directly" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after a store build" },
+    { value: "2", label: "Months of free maintenance after a store build" },
     { value: "0", label: "Rankings anyone can honestly guarantee" },
   ],
   answer: {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
         ["1,000+ products", "Technical audit, then batch content", "Audit quoted first"],
         ["English and French markets", "Markets set-up, translation gaps, hreflang check", "French pages itemised"],
         ["No store yet or replatforming", "Build with SEO designed in", `Store from ${P.shop}`],
-        ["After any build", "Five months of free maintenance", `Then care from ${P.care}`],
+        ["After any build", "Two months of free maintenance", `Then care from ${P.care}`],
       ],
     },
   ],

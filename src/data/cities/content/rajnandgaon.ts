@@ -30,11 +30,11 @@ const rajnandgaon: CityContent = {
     eyebrow: "Rajnandgaon · Chhattisgarh",
     h1: "Websites, apps, SEO and AI automation for Rajnandgaon's mills, traders, institutes and Dongargarh's visitor economy",
     lede:
-      "A three-engineer remote team building websites, search listings and WhatsApp automation for businesses in Rajnandgaon and the towns around it: rice, dal and poha mills, wholesale traders in the old bazaar, private schools, hospitals near the medical college, and hotels serving Dongargarh pilgrims. Starting prices are public, and upkeep is free for five months.",
+      "A three-engineer remote team building websites, search listings and WhatsApp automation for businesses in Rajnandgaon and the towns around it: rice, dal and poha mills, wholesale traders in the old bazaar, private schools, hospitals near the medical college, and hotels serving Dongargarh pilgrims. Starting prices are public, and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Hindi and Chhattisgarhi-aware copy", "Mill and trader catalogues", "Pilgrim-season hotel pages", "You own domain and code"],
   },
   quickAnswer:
-    "In Rajnandgaon, our websites start from ₹10,000 and a simple site usually goes live in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, AI and WhatsApp automation at ₹40,000 and online stores at ₹50,000. We are three remote engineers with no local office, and the first five months of maintenance are free.",
+    "In Rajnandgaon, our websites start from ₹10,000 and a simple site usually goes live in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, AI and WhatsApp automation at ₹40,000 and online stores at ₹50,000. We are three remote engineers with no local office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Rajnandgaon district in Durg division, carved out of Durg district in 1973" },
     { label: "Location", value: "On the Howrah–Nagpur–Mumbai rail line and the Raipur–Nagpur highway, west of Durg–Bhilai" },
@@ -51,7 +51,7 @@ const rajnandgaon: CityContent = {
     ai: "WhatsApp assistants that share rates, room availability or admission details in Hindi, day or night, and hand tricky chats to you.",
     data: "Clear dashboards of paddy purchases, milling yield, sales and dues, readable on a phone between meetings.",
     app: "Android and iOS apps for school parents, hospital appointments or salesmen on the road, listed on both stores with builds from ₹40,000.",
-    maintenance: "Free fixes, backups and updates for five months after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Free fixes, backups and updates for two months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Business owners in Rajnandgaon often have two options: a local freelancer who may be hard to reach later, or an agency in Raipur or Bhilai with city-sized quotes. We sit in between. Our starting prices are published, the engineers themselves reply on WhatsApp all week, and everything we build is registered to you, not to us.",
@@ -167,7 +167,7 @@ const rajnandgaon: CityContent = {
       paragraphs: [
         "Small businesses in Rajnandgaon sometimes discover that the website they paid for is registered to the developer, who has since moved to another city or stopped answering. Renewing the domain or changing a phone number then becomes a months-long problem.",
         "We register the domain and hosting in your name from the first day. At launch you receive every login, the complete code and a short note on how the site is set up. If you later want another developer to take over, you simply hand them the access; there is no exit fee and nothing held back.",
-        "Maintenance is free for five months after launch. That includes updating text, prices and photos, software and security updates, backups, bug fixes and speed checks. Afterwards, a maintenance plan starts from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "Maintenance is free for two months after launch. That includes updating text, prices and photos, software and security updates, backups, bug fixes and speed checks. Afterwards, a maintenance plan starts from ₹8,000 a month, or you can contact us only when a change is needed.",
       ],
     },
     {
@@ -262,9 +262,9 @@ const rajnandgaon: CityContent = {
         "You do. The domain and hosting are in your name from the start, and at launch you get all logins and the full code. You can move to another developer at any time with no exit fee. We would rather keep clients through good work than by holding their access.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Text, price and photo updates, security and software updates, backups, bug fixes and speed checks. After five months, maintenance starts from ₹8,000 a month, or you can message us only when you need a change and pay for that work.",
+        "Text, price and photo updates, security and software updates, backups, bug fixes and speed checks. After two months, maintenance starts from ₹8,000 a month, or you can message us only when you need a change and pay for that work.",
     },
     {
       question: "Can you guarantee my business will rank first on Google?",

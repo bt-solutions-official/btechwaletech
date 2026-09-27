@@ -63,7 +63,7 @@ const facts = [
   ["Starting price", `${appPlan.price} / ${usdPrice(appPlan.price)}`],
   ["Timeline", appPlan.timeline],
   ["Clients", "USA, UK, UAE, Australia, Europe, India"],
-  ["After launch", "5 months of maintenance free"],
+  ["After launch", "2 months of maintenance free"],
 ];
 
 const pills = ["Flutter apps", "React Native apps", "MVPs for startups", "Ecommerce apps", "Booking apps", "Delivery apps", "Staff & field apps", "Play Store & App Store publishing"];
@@ -72,7 +72,7 @@ const stats = [
   { value: "2", label: "Platforms from one codebase" },
   { value: usdPrice(appPlan.price), label: `Apps starting price (${appPlan.price} in India)` },
   { value: "6–10", label: "Weeks for a typical first release" },
-  { value: "5", label: "Months maintenance free" },
+  { value: "2", label: "Months maintenance free" },
 ];
 
 const snapshot = [
@@ -101,7 +101,7 @@ const comparison = [
   ["Who does the work", "Account manager passes it on", "One person, unknown skills", "Engineers you talk to directly"],
   ["Progress you can see", "Monthly status decks", "Screenshots on request", "Test builds on your phone every week"],
   ["Store publishing", "Extra fee or left to you", "Often skipped", "Play Store and App Store submission included"],
-  ["After launch", "Paid retainer only", "Often unreachable", "5 months maintenance included free"],
+  ["After launch", "Paid retainer only", "Often unreachable", "2 months maintenance included free"],
   ["Code and accounts", "Sometimes locked in", "Often not handed over", "100% yours: source code, store accounts, backend"],
 ];
 
@@ -139,7 +139,7 @@ const process = [
   ["Talk", "A short call or WhatsApp chat about your users, the core job the app must do, your budget and your launch date. No charge."],
   ["Plan & quote", "Screen list, feature list, tech choice (Flutter or React Native) and an itemised quote, usually within two working days."],
   ["Build & test", "Weekly test builds installed on your own Android phone and iPhone through TestFlight and Play testing tracks."],
-  ["Publish & support", "Store listings, screenshots, privacy forms and review submission, then 5 months of free maintenance."],
+  ["Publish & support", "Store listings, screenshots, privacy forms and review submission, then 2 months of free maintenance."],
 ];
 
 const sections = [
@@ -183,7 +183,7 @@ const sections = [
       `<strong>Simple app or MVP:</strong> from ${appPlan.price} / ${usdPrice(appPlan.price)}, about ${appPlan.timeline}.`,
       "<strong>Ecommerce, booking or membership app:</strong> quoted on scope, usually more screens, payments and an admin panel.",
       "<strong>Marketplace or delivery platform:</strong> quoted on scope, often two or three connected apps plus a dashboard.",
-      "<strong>Maintenance after the free 5 months:</strong> from ₹8,000 / US$120 a month.",
+      "<strong>Maintenance after the free 2 months:</strong> from ₹8,000 / US$120 a month.",
     ],
   },
   {
@@ -224,7 +224,7 @@ const sections = [
       "<strong>Weeks 2 to 3: design and foundations.</strong> We design the key screens, set up the codebase, backend, database and admin panel, and wire up login. You get the first test build on your own phone early, not at the end.",
       "<strong>Weeks 3 to 8: build in short cycles.</strong> Features land every week. You install each build through TestFlight on iPhone and a Play testing track on Android, send feedback on WhatsApp, and small changes usually land within a day.",
       "<strong>Weeks 8 to 10: test, polish and publish.</strong> We test on real devices, including older and low-memory Android phones, fix crashes, tune performance, prepare the store listings and submit to both stores.",
-      "<strong>After launch: 5 months free maintenance.</strong> We fix bugs, handle store review questions, and keep the app working through Android and iOS updates. After that, maintenance continues from ₹8,000 / US$120 a month, or you take the code and run it yourself.",
+      "<strong>After launch: 2 months free maintenance.</strong> We fix bugs, handle store review questions, and keep the app working through Android and iOS updates. After that, maintenance continues from ₹8,000 / US$120 a month, or you take the code and run it yourself.",
     ],
   },
   {
@@ -266,7 +266,7 @@ const sections = [
     id: "after-launch",
     heading: "After launch: updates, growth and long-term support",
     paragraphs: [
-      "An app is never finished at launch. Apple and Google release new OS versions every year, store policies change, SDKs are deprecated, and your users will ask for features you did not predict. That is why every app includes <strong>5 months of free maintenance</strong> after it goes live.",
+      "An app is never finished at launch. Apple and Google release new OS versions every year, store policies change, SDKs are deprecated, and your users will ask for features you did not predict. That is why every app includes <strong>2 months of free maintenance</strong> after it goes live.",
       "During that period we fix bugs, keep the app compliant with store rules, respond to review feedback and make small improvements. After it ends, you can continue on a maintenance plan from ₹8,000 / US$120 a month that covers updates, fixes, backups and monitoring, or you can take the code to any other developer. Nothing is locked.",
       "When you are ready to grow, we add features in small, priced releases: a loyalty programme, subscriptions, a second language, an AI assistant, or integrations with your CRM, ERP or accounting system. Many clients also pair the app with a fast <a href=\"/services/web-development/\">website</a> so they can be found on Google and send visitors to the stores.",
     ],
@@ -327,7 +327,7 @@ const faqs = [
     answer: "Yes. We add AI assistants, smart search, summaries, document reading and recommendations using OpenAI, Claude or Gemini APIs, with the API keys kept on the server rather than inside the app. AI features are priced as part of the app scope or as a separate automation project.",
   },
   {
-    question: "What happens after the 5 months of free maintenance?",
+    question: "What happens after the 2 months of free maintenance?",
     answer: "You can continue on a maintenance plan from ₹8,000 / US$120 a month that covers OS updates, store compliance, bug fixes, backups and monitoring, or you can stop and keep the app as it is. You own the code and accounts, so nothing expires when the free period ends.",
   },
   {
@@ -459,7 +459,7 @@ const webPageSchema = {
             <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}<small> / {plan.price}</small>{plan.unit ? <small> /mo</small> : null}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">Publishing to Google Play and the App Store included. 5 months maintenance free. Itemised quote in 2 working days.</p>
+        <p class="quote-foot">Publishing to Google Play and the App Store included. 2 months maintenance free. Itemised quote in 2 working days.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my app quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>
@@ -487,7 +487,7 @@ const webPageSchema = {
         <p id="quick-answer" class="answer-text">
           BtechWaleTech is an India-based team that builds Android and iOS apps in Flutter and React Native for businesses worldwide.
           Apps start from {usdPrice(appPlan.price)} internationally or {appPlan.price} in India, take about {appPlan.timeline}, include
-          an admin panel and publishing to Google Play and the App Store, and come with 5 months of free maintenance.
+          an admin panel and publishing to Google Play and the App Store, and come with 2 months of free maintenance.
         </p>
         <p class="updated">Last updated <time datetime={updated}>{new Date(updated).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}</time></p>
       </div>

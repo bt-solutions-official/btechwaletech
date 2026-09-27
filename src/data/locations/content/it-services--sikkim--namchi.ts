@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Pilgrim booking flows", "Tour and route pages", "Contact forms that reach you", "Websites from ₹10,000", "Automation from ₹40,000"],
   },
   quickAnswer:
-    "For Namchi businesses, BtechWaleTech, a freelance group of three remote engineers, builds websites from ₹10,000 in 1 to 2 weeks, AI and WhatsApp automation from ₹40,000 in 2 to 4 weeks, online stores from ₹50,000 and custom software from ₹60,000 in 6 to 12 weeks. Quotes are itemised in about two working days, and maintenance is free for five months.",
+    "For Namchi businesses, BtechWaleTech, a freelance group of three remote engineers, builds websites from ₹10,000 in 1 to 2 weeks, AI and WhatsApp automation from ₹40,000 in 2 to 4 weeks, online stores from ₹50,000 and custom software from ₹60,000 in 6 to 12 weeks. Quotes are itemised in about two working days, and maintenance is free for two months.",
   snapshot: [
     { label: "Status", value: "Headquarters of Namchi district (formerly South Sikkim) and often called the state's cultural capital" },
     { label: "Pilgrim landmarks", value: "Char Dham complex on Solophok hill with its large Shiva statue, and the Guru Padmasambhava statue at Samdruptse" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer Char Dham timings, room rates, taxi fares and directions in Nepali, Hindi or English, then send the booking to staff.",
     data: "Simple dashboards for occupancy during festival weekends, taxi trips by route, or shop sales across Namchi and Jorethang.",
     app: "Android and iOS apps from ₹40,000 for Namchi taxi operators, homestay hosts, cooperatives and schools, built light for budget phones and published on Google Play and the App Store.",
-    maintenance: "Updates, backups and uptime checks for small businesses with no IT staff, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups and uptime checks for small businesses with no IT staff, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Namchi businesses usually get their websites made by someone in Siliguri or Gangtok, then find nobody answers when a form stops working. A freelance group of three engineers keeps things simpler: starting prices in writing, the same people from start to finish, and replies on WhatsApp every day of the week.",
@@ -145,7 +145,7 @@ const content: CityContent = {
         "An Android and iOS app for a Namchi business starts from ₹40,000 with BtechWaleTech and takes about six to ten weeks. We build it once in Flutter or React Native and publish it on Google Play and the Apple App Store, with login, simple forms, push notifications and an admin panel that the owner can use from a phone.",
         "The Namchi apps that pay off are small and focused. A taxi association can let visitors book trips to Char Dham, Samdruptse, Ravangla or Temi and see fixed fares, while drivers get their pickups on their own phones. A group of homestays around Ravangla and Temi can share one app for availability and bookings. A cooperative can record members' produce and savings. Schools can send notices, attendance and fee reminders to parents, many of whom work in Gangtok, Siliguri or further away.",
         "Most local users have budget Android phones, so screens stay simple, text can be shown in Nepali, and the app keeps working when signal fades on the hill roads. Visiting families and tourists often use iPhones, which is why publishing on both stores is part of the plan. Store accounts are registered in your organisation's name.",
-        "If a mobile website or WhatsApp flow meets the need, we will recommend it, since it costs less. During the five months of free maintenance, updates for new Android and iOS versions are included.",
+        "If a mobile website or WhatsApp flow meets the need, we will recommend it, since it costs less. During the two months of free maintenance, updates for new Android and iOS versions are included.",
       ],
       list: [
         "Taxi booking app with fixed route fares",
@@ -176,9 +176,9 @@ const content: CityContent = {
       id: "namchi-maintenance-support",
       heading: "Maintenance and support for businesses without IT staff",
       paragraphs: [
-        "Maintenance for Namchi businesses covers updates, backups, security patches, uptime monitoring and small content changes, and BtechWaleTech includes the first five months after launch free, which suits owners who have no IT staff and simply want the website and booking system to keep working.",
+        "Maintenance for Namchi businesses covers updates, backups, security patches, uptime monitoring and small content changes, and BtechWaleTech includes the first two months after launch free, which suits owners who have no IT staff and simply want the website and booking system to keep working.",
         "We host on reliable cloud servers with daily backups and SSL, so the site stays up even when local power or networks are down. When you want to change a price, add photos or update festival timings, a WhatsApp message is enough.",
-        "After five months, plans start at ₹8,000 a month, or you can pay only for the changes you request. We reply seven days a week. We do not provide on-site hardware repair; for computers and printers, a local technician is still needed.",
+        "After two months, plans start at ₹8,000 a month, or you can pay only for the changes you request. We reply seven days a week. We do not provide on-site hardware repair; for computers and printers, a local technician is still needed.",
       ],
     },
     {
@@ -194,7 +194,7 @@ const content: CityContent = {
         "Itemised quote in about two working days",
         "Weekly progress on a test link",
         "Training and full handover",
-        "Five months of free maintenance",
+        "Two months of free maintenance",
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: CityContent = {
     { question: "Can enquiries come straight to WhatsApp?", answer: "Yes. We set forms to send each enquiry to your WhatsApp and email at the same time, and store a copy in a simple dashboard. Visitors get an automatic acknowledgement. We test forms after every change so they do not fail silently." },
     { question: "Will the chatbot understand Nepali?", answer: "Yes. AI assistants can reply in Nepali, Hindi and English, matching the visitor's language. They use only information you approve, such as room rates and directions, and pass anything unusual, like refunds or complaints, to you." },
     { question: "Do we own the website and domain?", answer: "Yes. The domain, hosting, code and all accounts are registered in your name or transferred at handover. If you ever want to change developers, you have everything needed to continue without starting over." },
-    { question: "What happens after launch?", answer: "The first five months of maintenance are free: updates, bug fixes, backups, security checks and small content changes. After that, plans start at ₹8,000 a month, or you can pay only for individual changes. We reply on WhatsApp seven days a week." },
+    { question: "What happens after launch?", answer: "The first two months of maintenance are free: updates, bug fixes, backups, security checks and small content changes. After that, plans start at ₹8,000 a month, or you can pay only for individual changes. We reply on WhatsApp seven days a week." },
     { question: "How long before my business shows up on Google?", answer: "A complete Google Business Profile can start appearing in map results within weeks. Website SEO usually takes three to six months to build steady traffic. We never guarantee rankings, but we report what we changed and what moved each month." },
     { question: "Can you build an Android and iOS app for our taxi association?", answer: "Yes. Android and iOS apps start from ₹40,000 and take six to ten weeks. Visitors can book trips and see route fares, and drivers get their pickups and trip logs on their phones, with offline support on hill roads. We build in Flutter or React Native and publish on Google Play and the App Store in your association's name." },
     { question: "Can you help us sell tea or cardamom online?", answer: "Yes. We build online stores from ₹50,000 with origin details, shipping rules and UPI and card checkout in your name. If you want to test demand first, a ₹10,000 catalogue website with WhatsApp ordering is a good starting point." },

@@ -52,7 +52,7 @@ const bhadrak: CityContent = {
     ai: "WhatsApp assistants that reply in Odia, Hindi or English with price lists, catch rates, admission details or OPD timings.",
     data: "Dashboards of paddy received, rice dispatched, dealer dues and sales by season, drawn from mill registers and Tally.",
     app: "Android and iOS apps for college notices, field collection and dealer re-orders that work on basic phones, published on Google Play and the App Store.",
-    maintenance: "Price edits, backups, updates and uptime checks, free for five months and from ₹8,000 a month after that.",
+    maintenance: "Price edits, backups, updates and uptime checks, free for two months and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Many Bhadrak businesses have paid for a website once and never managed to change a word on it afterwards. We work differently. Starting prices are published, the written quote lists each item, nothing is billed without your written approval, and the domain, hosting and code belong to you from the first day. WhatsApp replies come seven days a week.",
@@ -148,7 +148,7 @@ const bhadrak: CityContent = {
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software, such as rice mill records:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -189,10 +189,10 @@ const bhadrak: CityContent = {
     },
     {
       id: "ownership-bhadrak",
-      heading: "You own the site, and the first five months of care are free",
+      heading: "You own the site, and the first two months of care are free",
       paragraphs: [
         "The domain is registered in your name, hosting is opened in your account, and the full code and every password are handed over at launch. If you later want a developer in Bhadrak, Balasore or Cuttack to take over, you can move without our permission and without any release fee.",
-        "For five months after launch we maintain the site at no charge: security updates, backups, uptime checks and small edits such as new prices, festival offers, batch timings or doctor schedules. After that, maintenance is from ₹8,000 a month and can be stopped at any time. If your staff want to make routine changes themselves, we train them before handover.",
+        "For two months after launch we maintain the site at no charge: security updates, backups, uptime checks and small edits such as new prices, festival offers, batch timings or doctor schedules. After that, maintenance is from ₹8,000 a month and can be stopped at any time. If your staff want to make routine changes themselves, we train them before handover.",
         "Records kept in software we build, such as paddy intake or trip logs, stay in your account too and can be exported to Excel whenever you need them.",
       ],
     },
@@ -280,7 +280,7 @@ const bhadrak: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months are free, covering updates, backups, monitoring and small edits such as prices or timings. After that, maintenance is from ₹8,000 a month and can be cancelled any time. We can also train your staff to make routine updates themselves.",
+        "The first two months are free, covering updates, backups, monitoring and small edits such as prices or timings. After that, maintenance is from ₹8,000 a month and can be cancelled any time. We can also train your staff to make routine updates themselves.",
     },
     {
       question: "How long does it take to build a website?",

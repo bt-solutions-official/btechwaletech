@@ -7,7 +7,7 @@ const sambalpur: CityContent = {
   meta: {
     title: "IT Services in Sambalpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, handloom stores and WhatsApp automation for Sambalpur, Burla and Hirakud businesses. Static sites from ₹10,000, with five months of free upkeep.",
+      "Websites, local SEO, handloom stores and WhatsApp automation for Sambalpur, Burla and Hirakud businesses. Static sites from ₹10,000, with two months of free upkeep.",
     keywords: [
       "website development team in Sambalpur",
       "web design Sambalpur",
@@ -31,11 +31,11 @@ const sambalpur: CityContent = {
     eyebrow: "Sambalpur · Western Odisha",
     h1: "Web, app, SEO and automation services for Sambalpur, Burla and the Hirakud belt",
     lede:
-      "A remote team of three engineers building websites, online stores and WhatsApp automation for western Odisha: Sambalpuri weavers and saree sellers, Golebazar traders, suppliers to the coal and aluminium industries, clinics near VIMSAR, and institutes serving students at Burla and Jyoti Vihar. Starting prices are published, you talk to the developers directly, and upkeep is free for five months.",
+      "A remote team of three engineers building websites, online stores and WhatsApp automation for western Odisha: Sambalpuri weavers and saree sellers, Golebazar traders, suppliers to the coal and aluminium industries, clinics near VIMSAR, and institutes serving students at Burla and Jyoti Vihar. Starting prices are published, you talk to the developers directly, and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Odia and English pages", "Handloom stores with UPI", "Supplier sites for MCL vendors", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Sambalpur, a static website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store such as a Sambalpuri saree shop from ₹50,000, and custom software from ₹60,000. We work remotely with no Sambalpur office, and the first five months of maintenance are free.",
+    "In Sambalpur, a static website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store such as a Sambalpuri saree shop from ₹50,000, and custom software from ₹60,000. We work remotely with no Sambalpur office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Regional role", value: "District headquarters on the Mahanadi and the main commercial and administrative centre of western Odisha" },
     { label: "Signature craft", value: "Sambalpuri tie-and-dye handloom, with sarees and fabric protected by a Geographical Indication" },
@@ -52,7 +52,7 @@ const sambalpur: CityContent = {
     ai: "WhatsApp flows that share catalogues, fees or timings in Odia or English and pass real decisions to you with the chat attached.",
     data: "Stock, loom output and sales records pulled into a simple dashboard you can read on your phone.",
     app: "Android and iOS apps for re-orders, student notices or patient bookings, released on both stores with builds starting at ₹40,000.",
-    maintenance: "Free updates, backups, security fixes and uptime checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups, security fixes and uptime checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Businesses in Sambalpur often choose between a Bhubaneswar agency that treats a western Odisha client as an afterthought and a local designer who disappears after delivery. We publish our starting prices, send a written itemised quote, and answer on WhatsApp seven days a week, directly from the engineers building your site.",
@@ -170,7 +170,7 @@ const sambalpur: CityContent = {
       paragraphs: [
         "A familiar problem across Odisha's smaller cities is a website built by someone who registered the domain in their own name and then stopped responding. The owner cannot update a phone number or renew the site, and it disappears along with years of search history.",
         "We register the domain and hosting in your name, on your email, from the start. At launch you receive every password, the full source code and a brief explanation of how the site is set up. You can switch developers whenever you choose, with no exit fee.",
-        "Maintenance is free for five months after launch, covering text and price edits, bug fixes, security updates, backups, uptime and speed monitoring. After that you can continue from ₹8,000 a month or call on us only when needed. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
+        "Maintenance is free for two months after launch, covering text and price edits, bug fixes, security updates, backups, uptime and speed monitoring. After that you can continue from ₹8,000 a month or call on us only when needed. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const sambalpur: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle text and price changes, bug fixes, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For two months after launch we handle text and price changes, bug fixes, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed.",
     },
     {
       question: "How long before SEO brings results in Sambalpur?",

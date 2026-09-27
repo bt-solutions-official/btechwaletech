@@ -56,7 +56,7 @@ const phaltan: CityContent = {
     ai: "Marathi WhatsApp assistants that answer rate, stock and timing questions and hand anything unusual to you.",
     data: "Dashboards of litres collected per centre, fat and SNF trends, cane trips and dues, or job-work output by customer.",
     app: "Android and iOS apps for milk collection agents, transporters or a clinic's patients, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Phaltan owners tend to know their numbers to the rupee, whether it is milk rates, cane tonnage or job-work margins. We match that: starting prices in public, an itemised written quote, no bill before you approve it, WhatsApp replies every day of the week, and every domain, hosting account and code repository registered to you.",
@@ -168,7 +168,7 @@ const phaltan: CityContent = {
       heading: "Website cost in Phaltan: starting prices and what to compare",
       paragraphs: [
         "Here are the entry points, since cost is usually the first question. A simple site for a shop, clinic, vendor or class, up to 100 pages, starts at ₹10,000 and takes one to two weeks. An SEO build of 299 pages or more, useful for a coaching group, a dealer with a big range or a firm serving many villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000.",
-        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a milk collection or cane trip system starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after the first five free months.",
+        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a milk collection or cane trip system starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after the first two free months.",
         "Your figure grows only with what you choose: Marathi and English versions, a large catalogue, delivery rules, staff logins, Tally sync or printer support. Each is a separate line you can accept or strike out. If you write your own content and send phone photos, the cost barely moves.",
         "Quotes from designers in Satara district vary widely for work that sounds the same. Compare who owns the domain, whether the site is tested on cheap phones, whether basic on-page SEO is included, how many revision rounds you get and what support costs after a year. Your itemised quote from us arrives in about two working days; ask through our <a href=\"/contact/\">contact page</a> or WhatsApp.",
       ],
@@ -188,7 +188,7 @@ const phaltan: CityContent = {
       heading: "Ownership and maintenance for Phaltan websites and apps",
       paragraphs: [
         "Everything we build for you is yours, legally and practically. The domain is registered on your email, hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no one, including us, can lock you out later.",
-        "For five months after launch, maintenance is free. We update rates and photos, take backups, apply security and version updates, and check that forms, UPI payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without asking our permission.",
+        "For two months after launch, maintenance is free. We update rates and photos, take backups, apply security and version updates, and check that forms, UPI payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without asking our permission.",
         "Apps need a yearly refresh even when nothing is broken, because Google and Apple keep raising the minimum versions they accept. We track those deadlines and ship updates early, so your app is never pulled from the store for being out of date.",
       ],
     },
@@ -280,7 +280,7 @@ const phaltan: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are free after launch: content edits, backups, security and version updates, and checks on forms, UPI payments and WhatsApp links. After that you may continue with us from ₹8,000 a month or move elsewhere. The code and accounts are already yours, so switching needs no permission.",
+        "Two months of maintenance are free after launch: content edits, backups, security and version updates, and checks on forms, UPI payments and WhatsApp links. After that you may continue with us from ₹8,000 a month or move elsewhere. The code and accounts are already yours, so switching needs no permission.",
     },
     {
       question: "Do you work in Lonand, Wathar and Baramati too?",

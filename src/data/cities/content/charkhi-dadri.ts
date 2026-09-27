@@ -56,7 +56,7 @@ const charkhiDadri: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer fee, stock, rate and timing questions and hand anything unusual to a person.",
     data: "Season dashboards of bajra, mustard and wheat arrivals, payments due to farmers and admissions by batch.",
     app: "Android and iOS apps for an akhara's training schedule and diet logs, or a coaching institute's tests and notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "People in Dadri tend to judge work by whether it keeps running a year later. We publish starting prices, send quotes line by line, reply on WhatsApp seven days a week and register every domain, hosting plan, code repository and app store account in the client's own name. When something is not worth the money, we tell you before you pay for it.",
@@ -178,7 +178,7 @@ const charkhiDadri: CityContent = {
       paragraphs: [
         "We work entirely online. A project begins with a WhatsApp chat or a call where you describe your business, followed by a written plan and quote. Designs and test versions are shared as links you can open on your phone, and you approve each stage before we move on. We reply seven days a week on IST hours.",
         "Ownership is simple: the domain, hosting, source code and any Google Play or App Store accounts are registered in your name from the first day. If you later hire someone else, you already hold every login they need. We hand over passwords and a short guide at launch.",
-        "After launch you get five months of free maintenance covering bug fixes, small text changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, or you can manage it yourself. Start a conversation through our <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development work</a>.",
+        "After launch you get two months of free maintenance covering bug fixes, small text changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, or you can manage it yourself. Start a conversation through our <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development work</a>.",
       ],
     },
   ],
@@ -260,7 +260,7 @@ const charkhiDadri: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of free maintenance after launch, covering bug fixes, small content changes, backups and security updates. After that, maintenance starts at ₹8,000 a month. You can also manage the site yourself, since all logins and a short guide are handed over at launch.",
+        "You get two months of free maintenance after launch, covering bug fixes, small content changes, backups and security updates. After that, maintenance starts at ₹8,000 a month. You can also manage the site yourself, since all logins and a short guide are handed over at launch.",
     },
     {
       question: "Do you work in Badhra, Bhiwani and Rewari too?",

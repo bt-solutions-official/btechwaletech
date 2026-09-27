@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Platforms", "Android and iOS, one codebase"],
     ["Data location", "Your cloud account, region you choose"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app's code and data" },
     { value: "2", label: "App stores published from your own accounts" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       heading: "Running a healthcare app after launch",
       paragraphs: [
         `Once patients rely on the app, reliability becomes part of care. A booking system that goes down on a Monday morning fills the clinic's phone lines and frustrates patients.`,
-        `For five months after launch we fix bugs, watch crash reports and server health, and handle store policy updates at no charge. After that, maintenance starts at ${P.care} and covers OS updates, security patches, backup checks and small changes. We also review access logs and permissions periodically with you, remove accounts of staff who have left, and test restoring from backup, because a backup you have never restored is only a hope.`,
+        `For two months after launch we fix bugs, watch crash reports and server health, and handle store policy updates at no charge. After that, maintenance starts at ${P.care} and covers OS updates, security patches, backup checks and small changes. We also review access logs and permissions periodically with you, remove accounts of staff who have left, and test restoring from backup, because a backup you have never restored is only a hope.`,
       ],
     },
     {
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       heading: "Clinic ka app banwana hai? Kya dhyan rakhein",
       paragraphs: [
         `Pehle wahi kaam chuniye jisme sabse zyada pareshani hai, jaise appointment ya report dena. Shuru mein sab kuch ek saath mat banwaiye.`,
-        `Mareez ka data bahut sensitive hota hai, isliye consent, encryption aur staff ki limited access shuru se zaroori hai. Hum Android aur iPhone app ${P.app} se banate hain, 6–10 hafte mein. Data aapke apne cloud account mein rehta hai, app store accounts bhi aapke naam par. Bimari pehchaanne wale ya dawai batane wale AI tools hum nahi banate. Launch ke baad 5 mahine maintenance free hai.`,
+        `Mareez ka data bahut sensitive hota hai, isliye consent, encryption aur staff ki limited access shuru se zaroori hai. Hum Android aur iPhone app ${P.app} se banate hain, 6–10 hafte mein. Data aapke apne cloud account mein rehta hai, app store accounts bhi aapke naam par. Bimari pehchaanne wale ya dawai batane wale AI tools hum nahi banate. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["Weeks 3–6", "Patient app, dashboard, backend, privacy controls", "Weekly feedback on test builds"],
         ["Weeks 6–8", "Payments, reminders, role and security testing", "Approve consent text and policies"],
         ["Weeks 8–10", "Store declarations, submission, launch", "Train staff, announce to patients"],
-        ["Next 5 months", "Fixes, monitoring, policy updates", "Report issues on WhatsApp"],
+        ["Next 2 months", "Fixes, monitoring, policy updates", "Report issues on WhatsApp"],
       ],
     },
   ],
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
       ["Accounts and privacy setup", "Cloud, Play Console and Apple Developer accounts are opened in your organisation's name, and consent text is drafted for your adviser to approve."],
       ["Build with weekly test builds", "Doctors and staff install weekly builds, test with dummy patients and send feedback. Real patient data is not used during development."],
       ["Store declarations and launch", "We complete health declarations and privacy forms, submit, answer reviewer questions, then help you train staff and announce the app."],
-      ["Five months of free support", "Bug fixes, monitoring and policy updates are free for five months. Maintenance continues from " + P.care + " only if you choose."],
+      ["Two months of free support", "Bug fixes, monitoring and policy updates are free for two months. Maintenance continues from " + P.care + " only if you choose."],
     ],
   },
   faqHeading: "Healthcare app developer: common questions",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "How do you make health apps easy for elderly patients?", answer: "Large readable text that respects the phone's font setting, high contrast, big buttons, simple labels, phone OTP login instead of passwords, dates written in words, and language options such as Hindi or a regional language. Family profiles let a son or daughter book on a parent's behalf, which is very common in India." },
     { question: "Can the app take payments for consultations?", answer: "Yes. Patients can prepay for appointments or teleconsults using UPI or cards, with receipts, refunds for cancelled slots and reconciliation reports for your accounts team. Card and UPI details are handled by a licensed payment provider, not stored in the app or on your servers." },
     { question: "Will you sign an NDA and work with dummy data?", answer: "Yes. We sign an NDA before you share sensitive business details, and during development we use dummy patient data only. Real patient data enters the system only after launch, in your own cloud account, and our access to production data is limited to what support requires, with your approval." },
-    { question: "What support does a healthcare app need after launch?", answer: `Ongoing monitoring, bug fixes, OS and store policy updates, security patches, tested backups and periodic reviews of staff access. BtechWaleTech provides five months of free maintenance after launch; after that, maintenance starts at ${P.care}. You can also move support to another developer at any time.` },
+    { question: "What support does a healthcare app need after launch?", answer: `Ongoing monitoring, bug fixes, OS and store policy updates, security patches, tested backups and periodic reviews of staff access. BtechWaleTech provides two months of free maintenance after launch; after that, maintenance starts at ${P.care}. You can also move support to another developer at any time.` },
     { question: "Can you build a healthcare app for patients outside India?", answer: `Yes. We build apps for health startups abroad, billed in USD with apps starting at ${P.appUsd}. Rules such as HIPAA in the USA or GDPR in the UK and Europe will apply; we implement the technical controls they require, but your compliance adviser must confirm the full requirements for your service.` },
     { question: "Clinic ka app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath clinic ya health app ${P.app} se shuru hota hai aur 6–10 hafte mein Play Store aur App Store par aa jaata hai. Appointment, reminder aur staff dashboard basic version mein hote hain. Video consult, payment aur reports jaise features se kharcha badhta hai. Pehle itemised quote milta hai, approval ke baad hi payment.` },
   ],
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a healthcare app developer? Start with one problem",
-    note: `Tell us on WhatsApp which task wastes the most time at your clinic or lab. Within about two working days you get an itemised quote, with healthcare apps starting at ${P.app}, data and accounts in your name and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp which task wastes the most time at your clinic or lab. Within about two working days you get an itemised quote, with healthcare apps starting at ${P.app}, data and accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

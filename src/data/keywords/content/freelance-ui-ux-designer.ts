@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Design tool", "Figma, shared with you from day one"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Who owns the files", "You: Figma, code and store accounts"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "People who both design and build your product" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees between you and the designer" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Web app or SaaS (design + build)", value: `From ${P.software}, 6–12 weeks` },
       { label: "Handoff", value: "Developers who designed it build it, no translation gap" },
       { label: "Files", value: "Figma project and repository in your account" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Starting budget", "Varies widely", "Usually the highest", `App from ${P.app}, web app from ${P.software}`],
       ["Who you talk to", "The designer", "Account or project manager", "The designers-developers on WhatsApp"],
       ["File ownership", "Depends on the agreement", "Usually transferred at the end", "Figma and code in your account from the start"],
-      ["After launch", "New contract for changes", "Retainer", `5 months free, then from ${P.care}`],
+      ["After launch", "New contract for changes", "Retainer", `2 months free, then from ${P.care}`],
     ],
     fine: "If you need large-sample quantitative research, eye-tracking labs or an illustrated brand identity, a specialist design studio will serve you better than our small freelance team.",
   },
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Product discovery, cart, UPI checkout"],
         ["AI tool or chatbot interface", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Clear prompts, fallbacks, human handover"],
         ["Product marketing website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Explaining the product, sign-up path"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Small UX fixes, updates, backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Small UX fixes, updates, backups"],
       ],
       hideSm: [2],
     },
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Discovery and user flows", "We interview a few real users, map the tasks and share the screen map and flows as diagrams you can comment on directly."],
       ["Prototype and test", "Wireframes become a clickable Figma prototype. Short remote sessions with target users show what to fix before any code is written."],
       ["Visual design and build", "Final UI and components go into Figma, then the same three people build the app or web app and share test builds every week."],
-      ["Launch and look after it", "We publish to the stores or your server, hand over files and logins, and cover small fixes free for five months."],
+      ["Launch and look after it", "We publish to the stores or your server, hand over files and logins, and cover small fixes free for two months."],
     ],
   },
   faqHeading: "Freelance UI/UX designer: common questions",
@@ -395,8 +395,8 @@ const content: FreelanceContent = {
     { question: "How are payments handled for UI/UX design projects?", answer: "Payments are staged against visible work, for example after discovery and flows, after the approved prototype, and across the build. In India we accept UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Nothing is billed until you approve the itemised quote in writing." },
     { question: "Do you sign an NDA before seeing my product idea?", answer: "Many founders ask for one before sharing unreleased product details, and that is reasonable. Ask us and we can agree on the terms before you share anything sensitive. Payment stages, ownership and confidentiality points are written into your quote; our general terms are on the terms page." },
     { question: "Can you design a SaaS dashboard with charts and roles?", answer: `Yes. We start from the questions each role needs answered, then design key figures, a few focused charts and filtered tables, with separate menus for owners, managers and staff. Billing and settings screens are included. A web app or SaaS dashboard, designed and built, starts at ${P.software}.` },
-    { question: "What happens after the app or SaaS launches?", answer: `Small UX fixes, content changes and updates are covered free for five months after launch. After that, maintenance is optional and starts at ${P.care}. We also recommend a short review of analytics after the first month, because real usage often shows one or two screens worth refining.` },
-    { question: "UI/UX designer se app design karwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath design aur coding dono milke Android aur iOS app ${P.app} se shuru hota hai, aur web app ya SaaS ${P.software} se. Kharcha screens, user roles aur testing par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "What happens after the app or SaaS launches?", answer: `Small UX fixes, content changes and updates are covered free for two months after launch. After that, maintenance is optional and starts at ${P.care}. We also recommend a short review of analytics after the first month, because real usage often shows one or two screens worth refining.` },
+    { question: "UI/UX designer se app design karwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath design aur coding dono milke Android aur iOS app ${P.app} se shuru hota hai, aur web app ya SaaS ${P.software} se. Kharcha screens, user roles aur testing par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related guides on app, SaaS and web design",
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance UI/UX designer who also builds? Share your idea",
-    note: `Send us your product idea on WhatsApp. In about two working days you get an itemised quote covering design and build, with apps from ${P.app}, web apps from ${P.software}, files in your name and five months of free maintenance.`,
+    note: `Send us your product idea on WhatsApp. In about two working days you get an itemised quote covering design and build, with apps from ${P.app}, web apps from ${P.software}, files in your name and two months of free maintenance.`,
   },
 };
 

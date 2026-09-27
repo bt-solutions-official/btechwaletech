@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Web design Auckland · a remote team, working your afternoons",
     h1: "Web design Auckland businesses can own outright, built by a remote team of three",
     lede: `Web design Auckland owners can budget for without a city-fringe agency overhead: BtechWaleTech is three freelance developers in India who build fast, search-ready sites for Auckland retailers, hospitality venues and construction firms. Static sites start from ${P.site}; SEO sites with suburb pages start from ${P.seoSite}. We have no Auckland office, so every meeting is a video call, usually booked in your afternoon. Start with the <a href='#suburb-pages'>suburb page plan</a> or compare the full <a href='/new-zealand/website-design-cost/'>NZ website cost breakdown</a>.`,
-    pills: ["North Shore, West and South Auckland pages", "Local SEO for the Auckland map pack", "Retail, hospitality, construction", "Afternoon calls, NZ time", "You own domain, hosting and code", "Quotes in USD", "5 months free maintenance"],
+    pills: ["North Shore, West and South Auckland pages", "Local SEO for the Auckland map pack", "Retail, hospitality, construction", "Afternoon calls, NZ time", "You own domain, hosting and code", "Quotes in USD", "2 months free maintenance"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Auckland afternoon is our morning",
   },
   facts: [
@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: build, AI and SEO, project management" },
     { value: "100", label: "Pages included in the static website plan" },
-    { value: "5", label: "Months of free maintenance after your site launches" },
+    { value: "2", label: "Months of free maintenance after your site launches" },
     { value: "0", label: "Marketplace fees added on top of your quote" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Local SEO for Auckland searches", note: "Google Business Profile tidy-up, suburb-aware page structure and monthly work from a developer who handles technical SEO, not a reseller.", href: "/new-zealand/seo-services/", size: "lg" },
       { name: "Redesigns of tired Auckland sites", note: "Keep the URLs that already rank, set redirects for the rest and rebuild the design without losing years of search history.", href: "/website-redesign-freelancer/", size: "md" },
       { name: "WordPress builds and rescues", note: "Plugin clean-ups, speed work and a handover so your staff can edit pages without calling anyone.", href: "/new-zealand/wordpress-developer/", size: "sm" },
-      { name: "Care after launch", note: `Five months of free maintenance, then care plans from ${P.care} if you want us to keep updates, backups and fixes going.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Care after launch", note: `Two months of free maintenance, then care plans from ${P.care} if you want us to keep updates, backups and fixes going.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. Your domain, hosting, source code, analytics and Google Business Profile are registered to your business, and we are added as users while we work. When the project ends you can remove our access in a few clicks.`,
         `This matters more with remote suppliers because you cannot walk into their office if something goes wrong. The simplest protection is to never let a supplier hold the keys. If your current Auckland site sits on an agency's hosting account or the domain is in someone else's name, move those into your name first; we can guide you through it before any build starts.`,
-        `At handover you get the admin logins, a short screen-recorded walkthrough of how to edit pages, a list of every plugin or service used and where it is billed, and the code in a repository you control. Five months of free maintenance follow launch; after that, care plans start from ${P.care} if you want us to keep going, or you can take the site to anyone else.`,
+        `At handover you get the admin logins, a short screen-recorded walkthrough of how to edit pages, a list of every plugin or service used and where it is billed, and the code in a repository you control. Two months of free maintenance follow launch; after that, care plans start from ${P.care} if you want us to keep going, or you can take the site to anyone else.`,
       ],
     },
     {
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
       ["Accounts and page plan", "You add us to your domain, hosting and analytics. We send a sitemap showing service pages and which suburbs earn their own page."],
       ["Design direction", "A home page and one inner page designed first, reviewed on your phone, so the look is settled before the rest is built."],
       ["Build and review", "Templates built and content loaded on a staging link; you review in your afternoon, we revise overnight your time."],
-      ["Launch and handover", "Redirects, analytics and Business Profile links checked, admin logins handed over, then five months of free maintenance."],
+      ["Launch and handover", "Redirects, analytics and Business Profile links checked, admin logins handed over, then two months of free maintenance."],
     ],
   },
   faqHeading: "Web design in Auckland: questions owners ask",
@@ -453,7 +453,7 @@ const content: FreelanceContent = {
     { question: "Can you build an online store for an Auckland retailer?", answer: `Yes. Online stores start from ${P.shop} and usually take 4 to 8 weeks. We build on Shopify, WooCommerce or a custom stack depending on your range and stock system, with click-and-collect per store, GST-inclusive prices and product data ready for Google Shopping. You choose and own the payment and shipping accounts.` },
     { question: "How do I pay a web designer based in India from New Zealand?", answer: "Quotes are in USD and paid by Wise, bank wire or PayPal against milestones set out in your written quote. Nothing is billed until you approve that quote. Invoices come from India, so check with your own accountant how to record them and whether any GST treatment applies to your business." },
     { question: "Will my new website keep my current Google rankings?", answer: "A careful redesign keeps most of them. We crawl your current site, list every URL that gets traffic or has links, keep those addresses where possible and set permanent redirects for the rest. Then we check Search Console after launch for errors. Rankings can shift for a few weeks, but a planned migration avoids large losses." },
-    { question: "Do you offer website maintenance for Auckland businesses?", answer: `Yes. Every site gets five months of free maintenance after launch covering fixes, updates and small changes. After that, care plans start from ${P.care} if you want us to keep handling updates, backups and security checks. You can also take the site to another developer, since every account is already in your name.` },
+    { question: "Do you offer website maintenance for Auckland businesses?", answer: `Yes. Every site gets two months of free maintenance after launch covering fixes, updates and small changes. After that, care plans start from ${P.care} if you want us to keep handling updates, backups and security checks. You can also take the site to another developer, since every account is already in your name.` },
     { question: "Can you help a construction firm in Auckland win more work online?", answer: "Yes. For construction firms we build project libraries sorted by suburb and type, tender and quote enquiry forms with file upload, capability and credentials pages, and careers pages. If your team includes Licensed Building Practitioners, the site can link to the public LBP register so clients can check licences themselves." },
     { question: "What platform is best for a small Auckland business website?", answer: "For service businesses with many pages, a fast static build is often best because it loads quickly and needs little upkeep. WordPress suits teams that publish often and want a familiar editor. Shopify suits retailers. We recommend a platform in the quote and explain why, based on who will edit the site and what it must connect to." },
     { question: "Will my website appear in Google AI overviews and ChatGPT answers?", answer: "Nobody can promise that, because each AI tool chooses its own sources. What helps is a site with clear, factual answers, consistent business details across the web, structured data and a fast, crawlable build. We write and structure pages that way, then connect Search Console so you can watch how Google treats them." },

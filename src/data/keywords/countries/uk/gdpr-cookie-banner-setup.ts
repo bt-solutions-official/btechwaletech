@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Existing site fix", "Itemised after a script audit"],
     ["Typical turnaround", "Days for one site, longer for many tags"],
     ["Quote", "In about 2 working days"],
-    ["Ongoing checks", `Care plan from ${P.care} after 5 free months`],
+    ["Ongoing checks", `Care plan from ${P.care} after 2 free months`],
   ],
   stats: [
     { value: "0", label: "Non-essential tags allowed before a choice" },
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What UK GDPR cookie banner work costs with us",
-    note: `A consent banner is part of every new website we build, from ${P.site} for a static site and ${P.shop} for an ecommerce store, so there is no separate line for it. For an existing site, we audit first and then quote the fix itemised: how many tags, how many templates hardcode scripts, whether Tag Manager needs rebuilding, and whether you want Consent Mode v2 in basic or advanced mode. Any subscription to a consent platform is billed to you by that provider. After launch, five months of fixes are free; the care plan from ${P.care} includes re-scans when you add new tools. Invoices are in USD, paid from GBP by Wise, bank wire or PayPal.`,
+    note: `A consent banner is part of every new website we build, from ${P.site} for a static site and ${P.shop} for an ecommerce store, so there is no separate line for it. For an existing site, we audit first and then quote the fix itemised: how many tags, how many templates hardcode scripts, whether Tag Manager needs rebuilding, and whether you want Consent Mode v2 in basic or advanced mode. Any subscription to a consent platform is billed to you by that provider. After launch, two months of fixes are free; the care plan from ${P.care} includes re-scans when you add new tools. Invoices are in USD, paid from GBP by Wise, bank wire or PayPal.`,
   },
   guideLabel: "UK GDPR cookie banner guide",
   guide: [
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
         `With us, a correct cookie banner is included in new builds: static websites from ${P.site}, SEO websites from ${P.seoSite} and ecommerce stores from ${P.shop}. For an existing site, you get an itemised quote after the script audit, because the effort depends on what is already there.`,
         `Quotes vary widely across the UK market, from free plugins you install yourself to consultancy projects that include legal review. What actually drives the development effort is easy to list: the number of tags and vendors; whether scripts are hardcoded into themes or managed in Tag Manager; how many templates, subdomains and languages you run; whether you want basic or advanced Consent Mode; whether consent logs need custom storage; and whether an existing consent platform needs repairing or replacing.`,
         `Things that are not in our price: a consent platform subscription if you choose one (billed by that provider), and legal review of your cookie policy and privacy notice, which should come from your own solicitor or privacy adviser. We give you the audit spreadsheet they need, which usually shortens their work.`,
-        `After launch, five months of fixes are free. The care plan from ${P.care} adds periodic re-scans, so a tag added by a marketing contractor next spring does not quietly bypass your banner.`,
+        `After launch, two months of fixes are free. The care plan from ${P.care} adds periodic re-scans, so a tag added by a marketing contractor next spring does not quietly bypass your banner.`,
       ],
     },
     {
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Audit spreadsheet and categories", "Every script categorised with its purpose and destination. We agree categories with you, and flag any analytics that might fit the new statistical exception."],
       ["Itemised quote", "A USD quote listing each change: banner, triggers, Consent Mode mode, embeds, logging. Nothing is billed until you approve it in writing."],
       ["Build in staging", "Changes go into a Tag Manager workspace or staging site. Your adviser reviews the banner wording and cookie policy table before anything goes live."],
-      ["Go live and re-test", "We publish, repeat the clean-browser test on key templates, hand over the spreadsheet, and cover fixes free for five months."],
+      ["Go live and re-test", "We publish, repeat the clean-browser test on key templates, hand over the spreadsheet, and cover fixes free for two months."],
     ],
   },
   faqHeading: "UK GDPR cookie banner: questions UK site owners ask",

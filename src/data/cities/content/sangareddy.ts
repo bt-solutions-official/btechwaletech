@@ -57,7 +57,7 @@ const sangareddy: CityContent = {
     ai: "WhatsApp assistants that answer room, fee, stock and appointment questions and hand real decisions to your staff.",
     data: "Dashboards of enquiries, orders, job status and receivables for suppliers and multi-branch businesses.",
     app: "Android and iOS apps for a hostel's residents, a school's parents or a contractor's site supervisors, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then upkeep from ₹8,000 a month if you choose to continue.",
+    maintenance: "Two months of free maintenance after launch, then upkeep from ₹8,000 a month if you choose to continue.",
   },
   whyUsIntro:
     "Sangareddy businesses compete with Hyderabad firms for the same customers, so they need work that looks professional without Hyderabad agency bills. We publish starting prices, send itemised quotes in writing, reply on WhatsApp seven days a week and register your domain, hosting, code and app store accounts in your name. If a feature will not pay back, we tell you.",
@@ -178,7 +178,7 @@ const sangareddy: CityContent = {
       heading: "Ownership and maintenance for Sangareddy websites and apps",
       paragraphs: [
         "Everything we build for a Sangareddy client belongs to that client. The domain is registered on your email, hosting is billed to you, the complete source code is handed over, and you are the owner on your Google Business Profile, Google Play console and Apple developer account. At handover we give you a written list of all logins.",
-        "Maintenance is free for five months after launch. We update content and prices, take backups, apply security and software updates and check that forms, payments and WhatsApp buttons keep working. After that you can continue with us from ₹8,000 a month, look after it in-house, or hand it to another developer without asking our permission.",
+        "Maintenance is free for two months after launch. We update content and prices, take backups, apply security and software updates and check that forms, payments and WhatsApp buttons keep working. After that you can continue with us from ₹8,000 a month, look after it in-house, or hand it to another developer without asking our permission.",
         "Apps also need an annual update to keep up with Google and Apple's minimum requirements, even when nothing is broken. We track those deadlines and update ahead of time so your app stays available in both stores.",
       ],
     },
@@ -270,7 +270,7 @@ const sangareddy: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. The code and accounts are already yours, so switching developers is straightforward.",
+        "Maintenance is free for two months after launch, covering content updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. The code and accounts are already yours, so switching developers is straightforward.",
     },
     {
       question: "Do you work in Patancheru, Isnapur, Sadasivpet and Zaheerabad?",

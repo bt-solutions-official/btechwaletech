@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Dispatch software from ₹60,000", "AI automation from ₹40,000", "Weighbridge integration", "Hindi-first screens", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "If you need a software development team in Dhanbad, BtechWaleTech offers a freelance alternative: three remote engineers building dispatch, fleet and inventory software from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000. Quotes are itemised in about two working days, with five months of free maintenance.",
+    "If you need a software development team in Dhanbad, BtechWaleTech offers a freelance alternative: three remote engineers building dispatch, fleet and inventory software from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000. Quotes are itemised in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The Coal Capital of India, at the centre of the Jharia coalfield" },
     { label: "Coal companies", value: "Bharat Coking Coal Limited (BCCL) headquartered at Koyla Nagar, with ECL operations nearby toward Nirsa and Mugma" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI workflows that read challans, invoices and delivery documents, reply to routine WhatsApp enquiries and chase overdue payments politely.",
     data: "Dashboards for tonnage lifted, trip margins, equipment utilisation, stock expiry and receivables, from Tally exports and your own apps.",
     app: "Android and iOS apps from ₹40,000 for Dhanbad weighbridge operators, supervisors, drivers, hostels and shops, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Security updates, backups and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Security updates, backups and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Dhanbad businesses tend to run on personal trust and hard numbers. We match that with three engineers you can speak to directly, an itemised scope, starting prices you can check, and software whose numbers reconcile with your books.",
@@ -76,7 +76,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Dhanbad, or a freelance team serving the district, builds systems that track coal and material movement, weighbridge readings, equipment hours, stock, bookings and money for businesses that still run largely on registers and phone calls. It also builds AI automation, dashboards, apps, online stores and websites, but the biggest gains usually come from operational software.",
         "Dhanbad's economy revolves around the Jharia coalfield. BCCL is headquartered at Koyla Nagar, and around it operate coal traders and buyers lifting coal against delivery orders, transporters, siding operators, equipment hire firms, washery and coke-oven units, fabrication shops and suppliers. The city is also an education centre anchored by IIT (ISM), with coaching institutes and student hostels, and a healthcare hub for the surrounding districts.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Dhanbad, and we say so plainly. We work through WhatsApp, calls and test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every account and repository, and include five months of maintenance after launch. The <a href='/dhanbad/'>Dhanbad city page</a> covers websites and local SEO; this page focuses on software and automation.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Dhanbad, and we say so plainly. We work through WhatsApp, calls and test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every account and repository, and include two months of maintenance after launch. The <a href='/dhanbad/'>Dhanbad city page</a> covers websites and local SEO; this page focuses on software and automation.",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
       heading: "Cloud hosting, backups and support after launch",
       paragraphs: [
         "Cloud hosting keeps your Dhanbad software running on managed servers with automatic backups, security updates and uptime monitoring, which is safer than a single office computer exposed to power cuts, dust and hardware failure. It also lets a weighbridge, a site office and the owner's phone use the same live system.",
-        "We deploy with HTTPS, individual logins by role, two-factor authentication for administrators, daily database backups with tested restores, and version-controlled releases that can be rolled back. Accounts for domain, hosting and code are registered to you, and hosting bills come directly from the provider. Every project includes five months of maintenance after launch, covering fixes, small changes, updates and backups.",
+        "We deploy with HTTPS, individual logins by role, two-factor authentication for administrators, daily database backups with tested restores, and version-controlled releases that can be rolled back. Accounts for domain, hosting and code are registered to you, and hosting bills come directly from the provider. Every project includes two months of maintenance after launch, covering fixes, small changes, updates and backups.",
         "After that, maintenance starts from ₹8,000 a month or you can pay per change, and we reply on WhatsApp seven days a week. As a remote freelance group, we support software and hosting, not local hardware; weighbridge indicators, cameras, printers and networks need a local technician, with whom we coordinate. More on our approach is on the <a href='/services/'>services page</a>.",
       ],
     },
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "cost-dhanbad-software",
       heading: "Software development cost in Dhanbad: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Dhanbad projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for dispatch, fleet, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. All are starting prices.",
+        "Our starting prices for Dhanbad projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for dispatch, fleet, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after two free months. All are starting prices.",
         "Costs depend on the number of modules, users, sites and integrations such as weighbridges, cameras or accounting exports. A dispatch tracker for one yard is simpler than a multi-siding system with transporter settlements and variance analysis. Beginning with the workflow that loses the most money, then adding modules, keeps costs controlled.",
         "You get an itemised quote in about two working days, and work begins only after written approval. Payment to us is only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones against approved deliverables.",
       ],
@@ -220,7 +220,7 @@ const content: CityContent = {
         "<strong>AI automation workflow:</strong> from ₹40,000, two to four weeks",
         "<strong>Online store or B2B ordering:</strong> from ₹50,000, four to eight weeks",
         "<strong>Dispatch, fleet or inventory software:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Maintenance:</strong> five months free, then from ₹8,000 a month",
+        "<strong>Maintenance:</strong> two months free, then from ₹8,000 a month",
       ],
     },
     {
@@ -288,9 +288,9 @@ const content: CityContent = {
         "You own everything: code repository, hosting, domain and database, registered to you or transferred at handover with documentation. No licence fee is owed to us. Another developer can take over with full access and no release fee if you ever choose.",
     },
     {
-      question: "What does the free five-month maintenance cover?",
+      question: "What does the free two-month maintenance cover?",
       answer:
-        "Bug fixes, small changes, security and dependency updates, backups, uptime checks and basic SEO health checks for five months after launch. After that, maintenance plans start from ₹8,000 a month, or you can pay per change request when needed.",
+        "Bug fixes, small changes, security and dependency updates, backups, uptime checks and basic SEO health checks for two months after launch. After that, maintenance plans start from ₹8,000 a month, or you can pay per change request when needed.",
     },
     {
       question: "Can AI read challans and weighment slips?",

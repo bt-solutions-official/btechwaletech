@@ -31,10 +31,10 @@ const baripada: CityContent = {
     h1: "Websites, software, SEO and AI tools for Baripada's craft makers, Similipal tourism, clinics, colleges and bazaar shops",
     lede:
       "We are a remote team of three engineers who build websites, search visibility and small business tools for Baripada and the rest of Mayurbhanj. Our work suits sabai grass and dhokra producers, Similipal guides and resorts, clinics near the medical college, coaching centres and the traders of Bhanjpur and Station Bazaar, at published starting prices.",
-    pills: ["Sites from ₹10,000", "Odia, Hindi, English", "Craft catalogues and stores", "Similipal booking pages", "Free upkeep for 5 months"],
+    pills: ["Sites from ₹10,000", "Odia, Hindi, English", "Craft catalogues and stores", "Similipal booking pages", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "In Baripada, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online craft store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Baripada, and maintenance is free for five months after launch.",
+    "In Baripada, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online craft store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Baripada, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Mayurbhanj, Odisha's largest district by area, on the Budhabalanga river" },
     { label: "Former state capital", value: "Seat of the Bhanja rulers of Mayurbhanj princely state from the late 18th century" },
@@ -51,10 +51,10 @@ const baripada: CityContent = {
     ai: "WhatsApp replies for tour availability, craft prices, admission questions and appointment requests, handing real buyers to your team.",
     data: "Dashboards that show orders by product and buyer city, bookings by season, or enquiries by source.",
     app: "Android and iPhone apps for artisan groups, field staff or Similipal tour guides that run on low-cost handsets, from ₹40,000 on both stores.",
-    maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you choose it.",
+    maintenance: "Free updates, fixes and backups for two months after launch, then maintenance from ₹8,000 a month if you choose it.",
   },
   whyUsIntro:
-    "Baripada businesses usually have two choices: a cheap template from someone local who disappears, or a Bhubaneswar or Kolkata agency with prices built for bigger cities. We sit in between, with published starting prices, direct WhatsApp contact with the engineers every day of the week, and five months of free maintenance after launch.",
+    "Baripada businesses usually have two choices: a cheap template from someone local who disappears, or a Bhubaneswar or Kolkata agency with prices built for bigger cities. We sit in between, with published starting prices, direct WhatsApp contact with the engineers every day of the week, and two months of free maintenance after launch.",
   pricingIntro:
     "These are starting prices, not packages. A sweet shop on Station Road needs far less than a sabai producer group wanting a store, wholesale enquiries and an order register. You get an itemised quote for your own scope in about two working days, and nothing is billed without your written approval.",
   sections: [
@@ -178,7 +178,7 @@ const baripada: CityContent = {
       paragraphs: [
         "Producer groups and small firms in Mayurbhanj sometimes receive websites through projects, fairs or well-meaning helpers, and then discover that nobody can log in once that person moves on. The domain lapses, orders stop, and the group starts again from scratch. We set things up so that cannot happen.",
         "Your domain and hosting are registered in your name or your organisation's name from the beginning. At launch you receive every login, the full source code and a plain note on how the site works. Order records, customer lists and enquiries stay in accounts you control and can be exported whenever you want. If you choose another developer later, you take everything with you at no charge.",
-        "For five months after launch we make updates, fix bugs, apply security patches, take backups and check speed for free. Afterwards maintenance continues from ₹8,000 a month, or you can contact us only when you need something. See our <a href=\"/services/web-development/\">web development service</a> for details.",
+        "For two months after launch we make updates, fix bugs, apply security patches, take backups and check speed for free. Afterwards maintenance continues from ₹8,000 a month, or you can contact us only when you need something. See our <a href=\"/services/web-development/\">web development service</a> for details.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const baripada: CityContent = {
     {
       question: "What is covered in the free maintenance?",
       answer:
-        "For five months after launch we update text, prices and photos, fix bugs, apply security updates, take backups and check speed at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we update text, prices and photos, fix bugs, apply security updates, take backups and check speed at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Can you make a website for a clinic near PRM Medical College?",

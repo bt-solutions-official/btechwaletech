@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Bookkeeping links", "Exact Online, Moneybird, and similar APIs"],
     ["Workflow tools", "n8n (cloud or self-hosted), Make, or custom code"],
     ["Data handling", "EU processing where offered; minimal personal data in prompts"],
-    ["Support", `5 months free, then care from ${P.care}`],
+    ["Support", `2 months free, then care from ${P.care}`],
   ],
   stats: [
     { value: "2–4", label: "Weeks for a typical automation pilot" },
@@ -175,7 +175,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does an AI automation agency cost in the Netherlands?",
       paragraphs: [
-        `With BtechWaleTech, AI automation starts from ${P.ai} for one workflow in 2–4 weeks, custom agents and portals from ${P.software}, and care from ${P.care} after five free months. A Dutch AI bureau often bundles workshops, strategy and training, which is valuable for some companies and unnecessary for others; quotes vary widely for that reason.`,
+        `With BtechWaleTech, AI automation starts from ${P.ai} for one workflow in 2–4 weeks, custom agents and portals from ${P.software}, and care from ${P.care} after two free months. A Dutch AI bureau often bundles workshops, strategy and training, which is valuable for some companies and unnecessary for others; quotes vary widely for that reason.`,
         `Three kinds of cost make up the full picture, and a fair comparison includes all of them:`,
       ],
       list: [
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       heading: "Keeping AI automations running after launch",
       paragraphs: [
         `Automations drift. Suppliers redesign invoices, customers find new ways to phrase questions, APIs change versions and model providers retire older models. Plan for small, regular adjustments rather than a one-off build.`,
-        `We add monitoring from day one: alerts when a run fails, a weekly count of items sent to review, and a warning when the review share rises, which usually means an input has changed. The first five months after go-live are covered by free maintenance. After that, care continues from ${P.care}, covering prompt adjustments, integration updates and model changes.`,
+        `We add monitoring from day one: alerts when a run fails, a weekly count of items sent to review, and a warning when the review share rises, which usually means an input has changed. The first two months after go-live are covered by free maintenance. After that, care continues from ${P.care}, covering prompt adjustments, integration updates and model changes.`,
         `When a model provider announces that a model will be retired, the automation is re-tested on your saved samples with the replacement before the switch, so accuracy does not quietly drop.`,
       ],
     },
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
       ["Accounts and access", "You open the model provider, workflow tool and hosting accounts in your business name and grant access to your bookkeeping or mailbox for the automation."],
       ["Build and test on your data", "The workflow, prompts, review screen and alerts are built and tested against your samples, with results shared line by line for your team to check."],
       ["Parallel run", "For about a week the automation proposes while your team still does the task. Differences are reviewed and fixed before the switch-over."],
-      ["Live, monitored, maintained", "The workflow goes live with alerts and a weekly summary. Five months of free maintenance follow, then optional care from the monthly starting price."],
+      ["Live, monitored, maintained", "The workflow goes live with alerts and a weekly summary. Two months of free maintenance follow, then optional care from the monthly starting price."],
     ],
   },
   faqHeading: "AI automation for Dutch businesses: frequently asked questions",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Who are the people behind BtechWaleTech?", answer: "Three freelance developers working remotely from India. Santosh Sharma handles AI, machine learning, cloud and data work; Ankur Kumar builds the full-stack parts such as review screens and integrations; Vedansh Shrivastava manages projects and automation workflows. You deal with them directly. There is no office in the Netherlands and invoices are issued from India." },
     { question: "What hours can we reach you from the Netherlands?", answer: "India is three and a half hours ahead of the Netherlands in summer time and four and a half in winter, so calls fit between about 10:00 and 16:00 Dutch time. WhatsApp is answered seven days a week. Samples you send in the morning are often tested and reported back the same afternoon." },
     { question: "How do we pay?", answer: "Quotes and invoices are in USD and can be paid by Wise, bank wire or PayPal, per milestone as work is delivered. Nothing is billed before you approve the written quote. Model and tool subscriptions are paid by you directly to those providers. For how to book an invoice from outside the EU, ask your own accountant." },
-    { question: "What happens when a supplier changes its invoice layout?", answer: `Monitoring notices it: items from that supplier start landing in the review queue, and an alert flags the rise. The prompt or rule is then adjusted and re-tested on the new layout. During the five free months after go-live that is covered; afterwards, care from ${P.care} includes these adjustments, along with API and model updates.` },
+    { question: "What happens when a supplier changes its invoice layout?", answer: `Monitoring notices it: items from that supplier start landing in the review queue, and an alert flags the rise. The prompt or rule is then adjusted and re-tested on the new layout. During the two free months after go-live that is covered; afterwards, care from ${P.care} includes these adjustments, along with API and model updates.` },
     { question: "Can you build an AI chatbot for our website?", answer: `Yes. The assistant answers from your own documents, product data or FAQs, introduces itself as an AI, and hands over to a person when it is unsure or the question is sensitive. It can answer in Dutch and English, with your team checking the Dutch tone. Chatbots start from ${P.ai}, and WhatsApp versions are covered on the sibling WhatsApp chatbot page.` },
     { question: "Do you visit our office to map processes?", answer: "No. Process mapping happens on video calls and through screen recordings of the task being done, which often capture more detail than a visit because every click is visible. If in-person workshops for many departments are essential, a Dutch AI bureau is the better choice for that stage." },
     { question: "What will you not automate?", answer: "We avoid fully autonomous decisions with financial, legal or health consequences, anything that would need personal data the task does not require, and tasks too rare to repay the build. We also will not automate what your existing software already does well. If a request falls outside those limits, the quote says so plainly." },

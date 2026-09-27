@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Lead sources", "Portals, Meta ads, Google ads, website"],
     ["Main channel", "WhatsApp Business Platform"],
     ["Messaging", "Only documents your team approves"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your bot" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
         "Whether you need a full CRM or buyer portal built, from the custom software plan",
       ],
       after: [
-        `Running costs are paid directly by you: WhatsApp template messages, AI usage and hosting. For wider chatbot budgets see <a href='/chatbot-development-cost-in-india/'>chatbot development cost in India</a>. After five free months of maintenance, an optional plan starts from ${P.care}.`,
+        `Running costs are paid directly by you: WhatsApp template messages, AI usage and hosting. For wider chatbot budgets see <a href='/chatbot-development-cost-in-india/'>chatbot development cost in India</a>. After two free months of maintenance, an optional plan starts from ${P.care}.`,
       ],
     },
     {
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "In about two working days you receive a quote per project and per lead source, with running costs and exclusions listed. Nothing is billed before written approval."],
       ["Build on your WhatsApp number", "Qualification flow, document library, booking calendar, routing and CRM mapping are set up in accounts owned by your business."],
       ["Test with tough questions", "We run real past enquiries plus questions on discounts, returns and possession through the bot and adjust wording with your sales head."],
-      ["Launch and hand over", "The bot goes live before your next campaign peak, your team gets a walkthrough and the source code, and five months of free maintenance start."],
+      ["Launch and hand over", "The bot goes live before your next campaign peak, your team gets a walkthrough and the source code, and two months of free maintenance start."],
     ],
   },
   faqHeading: "Chatbot for real estate: frequently asked questions",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Who owns the chatbot and the leads?", answer: "You do. The WhatsApp Business account, CRM or sheet, AI provider account, hosting and source code are all in your business's name. At handover you get the code, setup notes and a recorded walkthrough, and our access is removed when you ask. Your leads never sit only in our systems." },
     { question: "How do I measure if the chatbot is working?", answer: "Track the funnel by source and project: enquiries, qualified leads, visits booked, visits completed and bookings. Response time and visit bookings usually improve first; bookings take longer because property decisions are slow, so compare quarters. Cost per qualified lead and per site visit by source helps decide where to spend marketing money." },
     { question: "Can I send price sheets automatically?", answer: "Yes, and you decide when. Some builders send the price sheet immediately; many prefer to send it only after the buyer states a budget that fits the project. Each price sheet carries a validity date, and when you upload a new one, all future messages use it. Every file sent is logged against the lead." },
-    { question: "What does maintenance cost after launch?", answer: `Maintenance is free for five months after launch, covering fixes, document swaps and small rule changes. After that, an optional plan starts from ${P.care}. Your team can also update brochures, price sheets and visit slots themselves through a simple sheet or admin page, so routine changes do not need a developer.` },
+    { question: "What does maintenance cost after launch?", answer: `Maintenance is free for two months after launch, covering fixes, document swaps and small rule changes. After that, an optional plan starts from ${P.care}. Your team can also update brochures, price sheets and visit slots themselves through a simple sheet or admin page, so routine changes do not need a developer.` },
     { question: "How do we pay for a real estate chatbot?", answer: "Within India by UPI or bank transfer; overseas clients pay by Wise, bank wire or PayPal, quoted in US dollars. The itemised quote must be approved in writing before any billing, and payment milestones are listed in it. Our general terms and refund policy pages explain the rest." },
     { question: "Property enquiries ke liye WhatsApp bot kaise kaam karta hai?", answer: "Jaise hi koi buyer portal, ad ya website par enquiry karta hai, bot turant WhatsApp par message bhejta hai. Woh BHK, budget, location aur kab tak lena hai poochta hai, approved brochure aur floor plan bhejta hai, aur site visit ka slot book karta hai. Returns ya discount jaise sawal sales manager ko chale jaate hain." },
   ],

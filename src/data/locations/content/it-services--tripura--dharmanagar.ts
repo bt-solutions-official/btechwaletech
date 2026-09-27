@@ -37,10 +37,10 @@ const content: CityContent = {
     h1: "Freelance IT services for Dharmanagar: software, apps and automation for North Tripura",
     lede:
       "BtechWaleTech is a freelance group of three engineers who provide IT solutions to Dharmanagar and the wider North Tripura district, working remotely from India. We build trading and transport software, retailer ordering tools, WhatsApp and AI automation, dashboards, installable apps, websites and local SEO for businesses in Tripura's second-largest urban centre and its surrounding towns.",
-    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Built for trade and transport", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Built for trade and transport", "2 months free maintenance"],
   },
   quickAnswer:
-    "In Dharmanagar, BtechWaleTech, a freelance group of three remote engineers, builds custom software and web apps from ₹60,000 in six to twelve weeks, AI and WhatsApp automation from ₹40,000 in two to four weeks, and websites from ₹10,000 in one to two weeks. You get an itemised quote in about two working days and five free months of maintenance.",
+    "In Dharmanagar, BtechWaleTech, a freelance group of three remote engineers, builds custom software and web apps from ₹60,000 in six to twelve weeks, AI and WhatsApp automation from ₹40,000 in two to four weeks, and websites from ₹10,000 in one to two weeks. You get an itemised quote in about two working days and two free months of maintenance.",
   snapshot: [
     { label: "Status", value: "Headquarters of North Tripura district and the state's second-largest urban area after Agartala" },
     { label: "Railway", value: "Dharmanagar station, the oldest in Tripura, on the Lumding–Sabroom broad-gauge line of Northeast Frontier Railway" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "WhatsApp and AI agents that take retailer orders, answer freight and rate questions and log every enquiry into your records.",
     data: "Route-wise sales, collections and vehicle dashboards so an owner sees what moved and what is still due at the end of each day.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on both app stores, for drivers, delivery staff and retailers between Dharmanagar, Kanchanpur and the Jampui foothills.",
-    maintenance: "Backups, security fixes and small changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, security fixes and small changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Dharmanagar sits far from Agartala's handful of software providers, and owners here often settle for whoever repairs their computers. A freelance group online gives you engineers who reply the same day, published starting prices, and code and accounts that stay in your name.",
@@ -144,7 +144,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting keeps Dharmanagar business software and records on managed servers with automatic backups, instead of a single office computer that can fail or be stolen. BtechWaleTech sets up hosting on AWS or a comparable provider in your name, with SSL, daily backups and uptime alerts, as part of every project.",
         "Power cuts and voltage fluctuations are a familiar risk in many Tripura towns, and they shorten the life of office hardware. With cloud hosting, a damaged computer is an inconvenience rather than a disaster: staff log in from another device and continue. We also keep a staging copy so updates are tested before reaching your live system.",
-        "Remote IT support covers software updates, fixes and help for staff using the system. The first five months after launch are free, and monthly plans start at ₹8,000 after that. For hardware and network faults, we will tell you plainly that you need a local technician in Dharmanagar.",
+        "Remote IT support covers software updates, fixes and help for staff using the system. The first two months after launch are free, and monthly plans start at ₹8,000 after that. For hardware and network faults, we will tell you plainly that you need a local technician in Dharmanagar.",
       ],
     },
     {
@@ -169,7 +169,7 @@ const content: CityContent = {
       id: "dharmanagar-costs",
       heading: "What do IT services cost in Dharmanagar?",
       paragraphs: [
-        "IT services in Dharmanagar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. SEO support starts at ₹10,000 a month and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Dharmanagar with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. SEO support starts at ₹10,000 a month and maintenance at ₹8,000 a month after two free months.",
         "The final price depends on scope. A single-counter billing system is close to the starting figure. A combined wholesale and transport system with driver apps, WhatsApp reminders and dashboards costs more. We send an itemised quote within about two working days, and you can remove anything you do not need. Compare plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
@@ -178,7 +178,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom software or web app: from ₹60,000, six to twelve weeks",
-        "Maintenance: free for five months, then from ₹8,000 a month",
+        "Maintenance: free for two months, then from ₹8,000 a month",
       ],
     },
     {
@@ -261,7 +261,7 @@ const content: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "Five months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime checks and small changes to text or settings. After that, you can continue from ₹8,000 a month or pay only when you need changes. Hardware repair and office networking are not included because we work remotely.",
+        "Two months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime checks and small changes to text or settings. After that, you can continue from ₹8,000 a month or pay only when you need changes. Hardware repair and office networking are not included because we work remotely.",
     },
     {
       question: "Can an AI agent take orders from my retailers on WhatsApp?",

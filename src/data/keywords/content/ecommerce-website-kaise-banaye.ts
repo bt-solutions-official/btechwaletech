@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Store ke baad app", `${P.app} se · 6–10 hafte`],
     ["Payment", "UPI, card aur COD, aapke gateway account se"],
     ["Store ka code aur data", "Aapke naam par"],
-    ["Launch ke baad", `5 mahine free, phir ${P.care} se`],
+    ["Launch ke baad", `2 mahine free, phir ${P.care} se`],
   ],
   stats: [
     { value: "7", label: "Kadam jinse har ecommerce website banti hai" },
     { value: "3", label: "Freelance developers jo design, code aur SEO sambhalte hain" },
     { value: "2", label: "Working din mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance store live hone ke baad" },
+    { value: "2", label: "Mahine free maintenance store live hone ke baad" },
   ],
   answer: {
     heading: "Ecommerce website kaise banaye?",
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Ecommerce website kaise banaye, kharcha kitna: hamare starting prices",
-    note: `Custom online store hamare saath ${P.shop} se shuru hota hai aur 4–8 hafte leta hai. Isme design, categories, product pages, cart, UPI aur card checkout, COD ke niyam, order aur GST invoice emails, aur ek admin panel aata hai. Agar aap abhi sirf products dikhana chahte hain aur orders WhatsApp par lena chahte hain, toh catalogue website ${P.site} se hai. Kharcha badhata hai: products ki ginti aur variants, multi-vendor ya B2B pricing, ERP ya Tally se sync, aur custom features. International clients ke liye store ${P.shopUsd} se. Store live hone ke baad 5 mahine free maintenance, phir ${P.care} se.`,
+    note: `Custom online store hamare saath ${P.shop} se shuru hota hai aur 4–8 hafte leta hai. Isme design, categories, product pages, cart, UPI aur card checkout, COD ke niyam, order aur GST invoice emails, aur ek admin panel aata hai. Agar aap abhi sirf products dikhana chahte hain aur orders WhatsApp par lena chahte hain, toh catalogue website ${P.site} se hai. Kharcha badhata hai: products ki ginti aur variants, multi-vendor ya B2B pricing, ERP ya Tally se sync, aur custom features. International clients ke liye store ${P.shopUsd} se. Store live hone ke baad 2 mahine free maintenance, phir ${P.care} se.`,
   },
   guideLabel: "Ecommerce website banane ki kadam-dar-kadam guide",
   guide: [
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Banwane mein aapka kaam content aur faisle hain, developer ka kaam baaki sab. Hamare saath custom store 4–8 hafte ka hota hai, aur aapka samay zyadatar product sheet, photos aur approvals mein lagta hai.`,
         `Pehle hafte hum aapke products, niyam aur customers ko samajh kar ek chhota requirements document likhte hain: kitne products, kaunse variants, COD ke niyam, shipping, invoice ka format aur kaunse features pehle version mein. Phir design ka mockup aata hai jo aap phone par dekh kar approve karte hain.`,
-        `Beech ke hafton mein store banta hai aur aap ek test link par dekhte rehte hain. Aakhri hafte mein asli payment ke saath chhote test orders, speed ki jaanch, Search Console aur analytics setup, aur aapke staff ki training hoti hai. Launch ke baad 5 mahine ki free maintenance mein chhoti dikkatein theek hoti hain.`,
+        `Beech ke hafton mein store banta hai aur aap ek test link par dekhte rehte hain. Aakhri hafte mein asli payment ke saath chhote test orders, speed ki jaanch, Search Console aur analytics setup, aur aapke staff ki training hoti hai. Launch ke baad 2 mahine ki free maintenance mein chhoti dikkatein theek hoti hain.`,
       ],
       list: [
         "Aapse chahiye: product sheet, photos, logo, policies ka text (advisor se check kiya hua), gateway aur courier accounts.",
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `DIY mein paisa kam lagta hai par samay aapka lagta hai; banwane mein paisa zyada, samay kam. Sahi hisaab tab banta hai jab aap apne ek ghante ki keemat bhi ginte hain.`,
         `DIY ka kharcha: builder ka plan ya hosting, theme, zaroori apps, domain, aur gateway aur courier ki fees jo dono raaston mein lagti hain. Samay: simple store ke liye kuch hafte ki shaamein, aur har nayi dikkat ke liye aur. Banwane ka kharcha: hamare saath custom store ${P.shop} se, catalogue website ${P.site} se. Samay: 4–8 hafte, jisme aapke hafte ke kuch ghante lagte hain.`,
-        `Chhupe kharche dono mein hain. DIY mein apps ki monthly fees dheere-dheere badhti hain aur galti se khoye orders ka nuksaan. Banwane mein baad ke badlaav aur maintenance, jo hamare saath 5 mahine free ke baad ${P.care} se hai, agar chahein.`,
+        `Chhupe kharche dono mein hain. DIY mein apps ki monthly fees dheere-dheere badhti hain aur galti se khoye orders ka nuksaan. Banwane mein baad ke badlaav aur maintenance, jo hamare saath 2 mahine free ke baad ${P.care} se hai, agar chahein.`,
       ],
       after: [
         `Platform ke hisaab se poora kharcha <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a> par hai. Kam budget mein store ka tareeka <a href='/kam-paise-me-website-kaise-banwaye/'>kam paise me website kaise banwaye</a> par.`,
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
       columns: ["Pehlu", "Khud (builder par)", "Banwana (hamare saath)"],
       rows: [
         ["Shuru ka kharcha", "Builder plan, theme aur apps", `Custom store ${P.shop} se`],
-        ["Mahine ka kharcha", "Plan aur apps ki subscriptions", "Hosting; maintenance 5 mahine baad chahein toh"],
+        ["Mahine ka kharcha", "Plan aur apps ki subscriptions", "Hosting; maintenance 2 mahine baad chahein toh"],
         ["Store ready hone ka samay", "Kuch hafte ki shaamein", "4–8 hafte"],
         ["Aapka samay", "Sab kaam aapka", "Content aur approvals"],
         ["Custom COD aur pincode niyam", "Apps ki seema tak", "Aapke niyam ke hisaab se"],
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
       ["Design aur catalogue", "Mobile par design ka mockup aapke approval ke liye, aur saath mein aapki product sheet ka template jisme aap products bharte hain."],
       ["Build aur test link", "Store banta hai aur aap test link par dekhte hain. Payment gateway, shipping aur GST invoice aapke accounts se jodte hain."],
       ["Test orders aur launch", "Asli payment, COD aur refund ke test orders, mobile par speed ki jaanch, Search Console setup, phir aapke domain par launch."],
-      ["Training aur handover", "Staff ko orders, products aur offers sambhalna sikhate hain. Code, logins aur documents aapko; phir 5 mahine free maintenance."],
+      ["Training aur handover", "Staff ko orders, products aur offers sambhalna sikhate hain. Code, logins aur documents aapko; phir 2 mahine free maintenance."],
     ],
   },
   faqHeading: "Ecommerce website kaise banaye: aam sawal",
@@ -430,7 +430,7 @@ const content: FreelanceContent = {
     { question: "Do I need a shopping app as well as a website?", answer: "Not at the start. A fast mobile website handles most first orders. An app makes sense once you have repeat customers who order often, because push notifications and saved details help retention. Apps with us start at the listed Android and iOS price and connect to the same store backend, so you manage products in one place." },
     { question: "Kya aap office aakar store set karte hain?", answer: "Nahi. Hum teen freelance developers hain jo India se remote kaam karte hain, isliye design approval, catalogue, testing aur training sab WhatsApp aur screen share par hota hai. Isi wajah se har shehar mein starting price ek hai. Photos aap khud lete hain ya apne local photographer se karwaate hain; hum bata dete hain ki kaunsi photos chahiye." },
     { question: "How do we pay you for the ecommerce website?", answer: "Indian clients pay by UPI or bank transfer, and international clients pay in USD by Wise, bank wire or PayPal. Every quote is itemised, and nothing is billed before your written approval. Payment milestones are set out in your written quote. Gateway and courier fees are charged by those providers to your own accounts, not through us." },
-    { question: "What happens after the store goes live?", answer: "For five months after launch we fix bugs and handle small changes at no charge. After that, maintenance is optional and starts at the listed maintenance price, covering updates, security patches, backups and small feature changes. You can also run the store yourself; the handover guide covers adding products, changing prices and managing orders." },
+    { question: "What happens after the store goes live?", answer: "For two months after launch we fix bugs and handle small changes at no charge. After that, maintenance is optional and starts at the listed maintenance price, covering updates, security patches, backups and small feature changes. You can also run the store yourself; the handover guide covers adding products, changing prices and managing orders." },
     { question: "Ecommerce website kaise banaye jo mobile par tez chale?", answer: "Halka theme chuniye, har product image compress kijiye aur sahi size mein lagaiye, sliders aur faltu apps hataiye, aur checkout ke steps kam rakhiye. Sasti Android phone aur mobile data par store khol kar dekhiye. Google ke Core Web Vitals mein LCP 2.5 second ke andar ka target hai, aur ecommerce mein bhaari images isse sabse zyada bigaadti hain." },
   ],
   related: {

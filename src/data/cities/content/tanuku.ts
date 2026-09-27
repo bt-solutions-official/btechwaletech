@@ -56,7 +56,7 @@ const tanuku: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and admission questions in Telugu or English and pass real orders to a named person.",
     data: "Dashboards for paddy arrivals, bags milled, feed sold or students enrolled, readable on the owner's phone at the end of the day.",
     app: "Android and iOS apps for Tanuku aqua dealers, delivery teams or colleges, from ₹40,000, published on Google Play and the App Store under your account.",
-    maintenance: "Five months of free fixes and updates after launch, then plans from ₹8,000 a month or payment only when you ask for a change.",
+    maintenance: "Two months of free fixes and updates after launch, then plans from ₹8,000 a month or payment only when you ask for a change.",
   },
   whyUsIntro:
     "Tanuku businesses sell to buyers in Hyderabad, Chennai and Kolkata as often as to families from the next mandal. We build for both kinds of customer, answer on WhatsApp every day of the week, put each starting price in writing and register every account in your own name.",
@@ -195,7 +195,7 @@ const tanuku: CityContent = {
       heading: "Ownership and maintenance of your Tanuku website and app",
       paragraphs: [
         "A familiar story in smaller towns: a developer registered the domain in his own name, moved away, and the website vanished when renewal lapsed. The address printed on bags, boards and invoices then led nowhere. We avoid this by registering the domain, hosting, code repository and app store accounts in your name from day one.",
-        "At launch you receive every login, the full source code and a short note on how things fit together. You can move to another developer whenever you like with no exit fee. Maintenance is free for five months after launch, covering bug fixes, security updates, backups and content changes. After that, plans start at ₹8,000 a month, or you can pay per change.",
+        "At launch you receive every login, the full source code and a short note on how things fit together. You can move to another developer whenever you like with no exit fee. Maintenance is free for two months after launch, covering bug fixes, security updates, backups and content changes. After that, plans start at ₹8,000 a month, or you can pay per change.",
         "Seasonal businesses often keep a plan during harvest and stocking months and switch to pay-per-change in quieter periods. Either way, your accounts stay yours.",
       ],
     },
@@ -286,7 +286,7 @@ const tanuku: CityContent = {
         "You do. The domain, hosting, code repository and app store accounts are all in your name, and you receive every password and the full source code at launch. You can change developers whenever you want with no exit fee.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You decide. Maintenance plans start at ₹8,000 a month and cover updates, backups, security fixes and content changes. You can also skip a plan and pay only when you need a change. Your access to the site and accounts continues either way.",
     },

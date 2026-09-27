@@ -39,8 +39,8 @@ const content: CityContent = {
     eyebrow: "Mandi · Himachal Pradesh",
     h1: "Freelance software developers in Mandi for traders, transporters, contractors and founders",
     lede:
-      "If you are searching for a software development team in Mandi, BtechWaleTech offers another route: a freelance group of three engineers, working remotely from India, who build billing and stock systems, fleet trackers, contractor dashboards, AI and WhatsApp automation, apps, online stores and search-ready websites for businesses from Seri Bazaar to Sundernagar and Kamand. Prices start low and are published, and five months of maintenance after launch are free.",
-    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Hindi-first interfaces", "Five months free upkeep", "Pay by UPI or bank transfer"],
+      "If you are searching for a software development team in Mandi, BtechWaleTech offers another route: a freelance group of three engineers, working remotely from India, who build billing and stock systems, fleet trackers, contractor dashboards, AI and WhatsApp automation, apps, online stores and search-ready websites for businesses from Seri Bazaar to Sundernagar and Kamand. Prices start low and are published, and two months of maintenance after launch are free.",
+    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Hindi-first interfaces", "Two months free upkeep", "Pay by UPI or bank transfer"],
   },
   quickAnswer:
     "Instead of a software development team in Mandi, you can hire BtechWaleTech, a freelance group of three remote engineers, for custom software and web apps from ₹60,000 in 6–12 weeks, AI and WhatsApp automation or Android and iOS apps from ₹40,000, websites from ₹10,000 in 1–2 weeks and online stores from ₹50,000. You get an itemised quote in about two working days.",
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI and WhatsApp agents that take repeat orders, share price lists and answer routine customer questions in Hindi while the counter is busy.",
     data: "Dashboards that show outstanding payments by retailer, truck-wise trip profits and project costs for contractors working on hydro and road sites.",
     app: "Android and iOS apps from ₹40,000 for Mandi drivers, sales agents, schools and shops, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Security updates, backups, fixes and small changes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Security updates, backups, fixes and small changes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Mandi businesses usually choose between a relative who knows some web design and an agency in Chandigarh that rarely answers after the invoice. We offer a third route: three engineers who scope the work in writing, build software around the way your trade actually runs, and reply on WhatsApp seven days a week.",
@@ -76,7 +76,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Mandi builds the systems that let a trading and transit town run with fewer registers and fewer phone calls: billing and credit software for wholesalers, trip and fleet tracking for transporters, cost dashboards for contractors, booking tools for hotels, and websites and search visibility for everyone who wants to be found. The emphasis is on software that saves time every day, not on decoration.",
         "Mandi sits where the road from the plains meets the routes to Kullu, Manali and the upper valleys, which is why so much of its economy is about moving goods and people. Wholesalers in the old bazaars supply shops far up the Beas and Uhl valleys. Truck and taxi operators run the highway. Contractors work on hydropower schemes and road widening. Orchardists and vegetable growers in Karsog, Seraj and Janjehli sell through commission agents. Each of these businesses has a lot of repetitive paperwork that software can shrink.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have an office in Mandi or anywhere in Himachal Pradesh, and we never pretend to. We work over WhatsApp, calls and shared test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every login and repository at the end, and include five months of maintenance after launch without charge.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have an office in Mandi or anywhere in Himachal Pradesh, and we never pretend to. We work over WhatsApp, calls and shared test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every login and repository at the end, and include two months of maintenance after launch without charge.",
       ],
     },
     {
@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "maintenance-support-mandi",
       heading: "Software maintenance and remote IT support after launch",
       paragraphs: [
-        "Software maintenance keeps your system secure, backed up and working as your business changes, and every BtechWaleTech project includes five months of it free once the system is live. That covers bug fixes, content and rate changes, security and dependency updates, backups, uptime checks and small adjustments staff ask for after using the system for real.",
+        "Software maintenance keeps your system secure, backed up and working as your business changes, and every BtechWaleTech project includes two months of it free once the system is live. That covers bug fixes, content and rate changes, security and dependency updates, backups, uptime checks and small adjustments staff ask for after using the system for real.",
         "After the free period, maintenance plans start from ₹8,000 a month, or you can pay only when you need changes. We reply on WhatsApp seven days a week, which matters when a wholesaler needs a new rate list live before the morning trucks leave. Every change is recorded, and we keep a written log of what was updated and why.",
         "Being remote, we support the software and hosting we build, not the physical hardware in your shop; for printers, routers and computer repairs, a local technician in Mandi is the right call. Where your software needs a thermal printer or barcode scanner, we specify compatible models and test the setup with you over video before launch.",
       ],
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "cost-software-mandi",
       heading: "Software development cost in Mandi: what do our freelance developers charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Mandi clients are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free five months. These are starting prices, not fixed packages.",
+        "BtechWaleTech's starting prices for Mandi clients are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free two months. These are starting prices, not fixed packages.",
         "The final figure depends on scope. A billing tool for one counter with fifty items is simpler than a multi-godown system with route planning. A fleet app for five trucks is simpler than one for fifty with fuel-card imports. Integrations, data migration from old registers, and multiple languages add effort. Clear requirements, ready data and a phased approach keep costs down.",
         "You receive an itemised quote in about two working days, listing every module with its cost and timeline, and work starts only after written approval. Payment is made to us only by UPI (scan our QR code) or direct bank transfer to our bank account, in INR, usually in milestones such as advance, design approval, test version and launch.",
       ],
@@ -295,9 +295,9 @@ const content: CityContent = {
         "You own everything. The domain, hosting account, code repository and database are registered to you or transferred at handover. Your sales, customer and trip data stays in your own account. If you later hire a different developer, they can pick up the code from your repository without needing our permission or any release fee.",
     },
     {
-      question: "What does the free five-month maintenance cover?",
+      question: "What does the free two-month maintenance cover?",
       answer:
-        "It covers bug fixes, small changes, content and rate updates, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks for five months after your system goes live. After that, maintenance plans start from ₹8,000 a month, or you can request changes only when needed and pay for that work.",
+        "It covers bug fixes, small changes, content and rate updates, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks for two months after your system goes live. After that, maintenance plans start from ₹8,000 a month, or you can request changes only when needed and pay for that work.",
     },
     {
       question: "Can AI automation take orders from our retailers on WhatsApp?",

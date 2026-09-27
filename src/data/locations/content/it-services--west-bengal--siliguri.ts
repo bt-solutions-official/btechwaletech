@@ -40,7 +40,7 @@ const content: CityContent = {
     h1: "Freelance software developers for Siliguri's distributors, transporters and travel firms",
     lede:
       "Looking for a software development team in Siliguri that writes the code itself? BtechWaleTech is a freelance group of three software engineers working remotely from India who build the systems that sit behind a Siliguri business: stock and dispatch software for wholesalers, booking engines for tour operators heading to Sikkim and the Dooars, WhatsApp bots, dashboards, mobile apps and, when you need one, a fast website that ranks. Starting prices are published and every login is handed over to you.",
-    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Nepali, Bengali and Hindi interfaces", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Nepali, Bengali and Hindi interfaces", "2 months free maintenance"],
   },
   quickAnswer:
     "Instead of a software development team in Siliguri, you can hire BtechWaleTech, a freelance group of three engineers working remotely from India. We build custom software and web apps from ₹60,000 (six to twelve weeks), AI and WhatsApp automation from ₹40,000 (two to four weeks) and websites from ₹10,000, with no Siliguri office and quotes in about two working days.",
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp workflows that answer rate enquiries, confirm bookings and chase payments while your staff are loading trucks or out on a tour.",
     data: "Dashboards that show sales by route, pending collections by party and fleet usage by vehicle, built from your Tally exports or existing spreadsheets.",
     app: "Android and iOS apps for Siliguri salesmen, drivers and tour guests, built once in Flutter or React Native, published on Google Play and the App Store and designed to keep working offline on hill roads, from ₹40,000.",
-    maintenance: "Backups, bug fixes, updates and uptime checks, free for five months after launch and from ₹8,000 a month once that period ends.",
+    maintenance: "Backups, bug fixes, updates and uptime checks, free for two months after launch and from ₹8,000 a month once that period ends.",
   },
   whyUsIntro:
     "Most Siliguri firms either buy off-the-shelf billing software that never fits their route-based trade, or hire a single freelancer who disappears after launch. We sit between those: three engineers who write custom code, publish starting prices, reply on WhatsApp every day of the week and hand over the source, domain and hosting accounts.",
@@ -162,7 +162,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for a Siliguri business means your software and website run on reliable servers with automatic backups, instead of on a single office computer that fails when the power or the hard disk does. We set up hosting, domains, SSL, email records and deployment pipelines, and we document them so you are never locked in.",
         "Power cuts and hardware failures are an everyday risk for firms that run billing from one desktop in a back room. Moving the system to the cloud means staff at the godown, the counter and on the road all see the same data, and a failed machine is a nuisance rather than a disaster. We keep hosting costs sensible, choosing plans that match your traffic rather than the biggest option available.",
-        "After launch, every project includes five months of maintenance at no charge: updates, fixes, backups, security checks and speed monitoring. After that you can continue on a maintenance plan from ₹8,000 a month or message us only when you need a change. Either way, you hold the admin logins for the domain, hosting and code repository.",
+        "After launch, every project includes two months of maintenance at no charge: updates, fixes, backups, security checks and speed monitoring. After that you can continue on a maintenance plan from ₹8,000 a month or message us only when you need a change. Either way, you hold the admin logins for the domain, hosting and code repository.",
       ],
     },
     {
@@ -206,7 +206,7 @@ const content: CityContent = {
       paragraphs: [
         "The safest way to choose an IT services team in Siliguri is to ask who will write the code, who owns it when the job ends, what happens after launch, and whether the price is itemised. Vague answers to any of those four questions are the usual cause of projects that stall halfway.",
         "Ask to speak to the people building your system rather than a salesperson. Ask whether the source code, domain, hosting and database will be registered in your name; they should be. Ask what support looks like six months later, and what it costs. Ask for a quote that lists modules and prices, not a single round number. And ask how requirements will be confirmed, because most disputes come from features that one side assumed and the other did not.",
-        "With us, you talk directly to the three engineers doing the work, you own every account and every line of code, maintenance for five months after launch is included, and quotes come itemised. We do not have an office in Siliguri, and we say so plainly. You can read more about how we work on our <a href=\"/about/\">about page</a> or compare nearby options in the wider <a href=\"/it-services/west-bengal/\">West Bengal IT services hub</a>.",
+        "With us, you talk directly to the three engineers doing the work, you own every account and every line of code, maintenance for two months after launch is included, and quotes come itemised. We do not have an office in Siliguri, and we say so plainly. You can read more about how we work on our <a href=\"/about/\">about page</a> or compare nearby options in the wider <a href=\"/it-services/west-bengal/\">West Bengal IT services hub</a>.",
       ],
     },
     {
@@ -332,7 +332,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include after launch?",
       answer:
-        "Every project includes five months of free maintenance once hosting is live: bug fixes, small content changes, security updates, backups, and speed and uptime checks. After that you can choose a monthly plan from ₹8,000 or simply message us when you need something changed and pay for that work.",
+        "Every project includes two months of free maintenance once hosting is live: bug fixes, small content changes, security updates, backups, and speed and uptime checks. After that you can choose a monthly plan from ₹8,000 or simply message us when you need something changed and pay for that work.",
     },
     {
       question: "What can AI automation realistically do for a Siliguri business?",

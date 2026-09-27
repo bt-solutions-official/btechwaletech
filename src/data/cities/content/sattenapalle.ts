@@ -56,7 +56,7 @@ const sattenapalle: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer stock, rate, fee and timing questions and send large orders or complaints to the owner.",
     data: "Season dashboards of dealer credit by village, lots handled per crop, fee collection and patient visits.",
     app: "Android and iOS apps for village retailers to reorder inputs or for colleges to message parents, from ₹40,000, listed on Google Play and the App Store.",
-    maintenance: "No charge for upkeep for five months after launch; after that, maintenance from ₹8,000 a month.",
+    maintenance: "No charge for upkeep for two months after launch; after that, maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Traders in Sattenapalle work on credit, relationships and exact numbers, and they expect the same precision from anyone they hire. You see our starting prices in public, get a written line-by-line quote, reach us on WhatsApp all seven days, and hold the domain, hosting, code and store accounts yourself from day one.",
@@ -174,7 +174,7 @@ const sattenapalle: CityContent = {
       heading: "Ownership, handover and maintenance for Sattenapalle clients",
       paragraphs: [
         "You own what we build. The domain is bought against your email, hosting invoices come in your name, the complete source code is handed to you, and your Google Business Profile plus the Google Play and Apple developer accounts are registered with you as the owner. At handover you receive a single document of logins, so neither a former staff member nor we can ever lock you out.",
-        "Maintenance is free for the first five months after launch. During that stretch we make content and price changes, keep backups, apply security patches and platform updates, and test forms, payments and WhatsApp links. Afterwards you decide whether to keep us on from ₹8,000 a month, manage it in-house, or give the code to any other developer.",
+        "Maintenance is free for the first two months after launch. During that stretch we make content and price changes, keep backups, apply security patches and platform updates, and test forms, payments and WhatsApp links. Afterwards you decide whether to keep us on from ₹8,000 a month, manage it in-house, or give the code to any other developer.",
         "Mobile apps need a rebuild from time to time even without bugs, because Google and Apple raise their minimum requirements every year or so. We watch those deadlines and ship the update early so your listing stays live.",
       ],
     },
@@ -266,7 +266,7 @@ const sattenapalle: CityContent = {
     {
       question: "What support do I get after the site goes live?",
       answer:
-        "Five months of maintenance come free: content and price edits, backups, security patches and checks on forms, payments and WhatsApp links. After that it is your choice to continue from ₹8,000 a month or take the work elsewhere, and since you already own the code and accounts, no permission is needed.",
+        "Two months of maintenance come free: content and price edits, backups, security patches and checks on forms, payments and WhatsApp links. After that it is your choice to continue from ₹8,000 a month or take the work elsewhere, and since you already own the code and accounts, no permission is needed.",
     },
     {
       question: "Do you work in Narasaraopet, Guntur and Amaravati too?",

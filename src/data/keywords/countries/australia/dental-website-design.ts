@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Group or multi-practice SEO", `From ${P.seoSite}`],
     ["Quote", "Itemised, around 2 working days"],
     ["Booking", "HotDoc link or your practice system"],
-    ["Free maintenance", `5 months, then from ${P.care}`],
+    ["Free maintenance", `2 months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one point of contact" },
     { value: "2", label: "Working days for your itemised quote" },
-    { value: "5", label: "Months of maintenance included" },
+    { value: "2", label: "Months of maintenance included" },
     { value: "100", label: "Pages in the starter static plan" },
   ],
   answer: {
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, dental website design starts from ${P.site} for a single practice site of up to 100 pages, and from ${P.seoSite} for groups with several locations and distinct content for each. Quotes from other providers vary widely, largely depending on photography, copywriting and advertising management bundled in.`,
         `The cost drivers for a dental site are fairly predictable: the number of treatment pages and how much copy we draft, the size and handling of the before-and-after gallery, the number of locations, and integrations beyond standard booking links. A practice that supplies approved treatment descriptions and good photos sits near the starting price.`,
-        `You pay running costs such as domain, hosting and email directly to those providers, and your booking platform subscription stays as it is. Maintenance is free for five months after launch, then optional from ${P.care} per month. For a broader view across project types, the <a href='/australia/website-design-cost/'>Australian website design cost guide</a> compares scopes side by side.`,
+        `You pay running costs such as domain, hosting and email directly to those providers, and your booking platform subscription stays as it is. Maintenance is free for two months after launch, then optional from ${P.care} per month. For a broader view across project types, the <a href='/australia/website-design-cost/'>Australian website design cost guide</a> compares scopes side by side.`,
       ],
     },
     {
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
       ["Page map and copy templates", "We send the page plan and a template for each treatment page, so each dentist reviews only the pages relevant to their work."],
       ["Preview build", "The site is built on a private link with booking buttons, emergency path and gallery in place, ready for you to test on your own phone."],
       ["Compliance and quality pass", "We check copy against the testimonial and specialist-title points, test forms and booking links, and run speed and accessibility checks."],
-      ["Launch and five free months", "Domain connected, sitemap submitted to Google Search Console, conversions tracked, then free maintenance for five months after launch."],
+      ["Launch and two free months", "Domain connected, sitemap submitted to Google Search Console, conversions tracked, then free maintenance for two months after launch."],
     ],
   },
   faqHeading: "Dental website design in Australia: frequently asked questions",
@@ -368,8 +368,8 @@ const content: FreelanceContent = {
     { question: "What hours can we reach you from Australia?", answer: "India Standard Time is four and a half hours behind the eastern states in winter and five and a half behind the daylight-saving states in summer. That makes your lunch break or early afternoon our morning. Perth is two and a half hours ahead of India. We reply on WhatsApp seven days a week." },
     { question: "How does payment work with an overseas web developer?", answer: "You receive an itemised quote in USD, and invoices are issued from India. Payment is by Wise, bank wire or PayPal, with the schedule set out in your written quote. Nothing is billed before you approve the quote in writing. Ask your accountant how the expense should be treated for your practice." },
     { question: "Who owns the dental website once it is finished?", answer: "The practice does. The domain, hosting, analytics, Google Business Profile and website code are set up in the practice's name, and we hand over every login at launch. Your booking platform account stays yours as well. If you later switch developers, nothing needs to be transferred from us." },
-    { question: "Can our front desk update hours and team pages?", answer: "Yes. We set up simple editing for hours, holiday closures, fees, team members and news, and provide a short recorded walkthrough. Structural changes are easier for us to do, and small edits are covered during the five months of free maintenance that follow launch." },
-    { question: "What does maintenance cost after the free period?", answer: `After five free months, maintenance continues from ${P.care} per month if you want it, covering updates, backups, security checks and minor edits. You can also manage the site yourself or hand it to another developer. Any ongoing arrangement is agreed in writing; see our terms and refund policy pages for details.` },
+    { question: "Can our front desk update hours and team pages?", answer: "Yes. We set up simple editing for hours, holiday closures, fees, team members and news, and provide a short recorded walkthrough. Structural changes are easier for us to do, and small edits are covered during the two months of free maintenance that follow launch." },
+    { question: "What does maintenance cost after the free period?", answer: `After two free months, maintenance continues from ${P.care} per month if you want it, covering updates, backups, security checks and minor edits. You can also manage the site yourself or hand it to another developer. Any ongoing arrangement is agreed in writing; see our terms and refund policy pages for details.` },
     { question: "Can you build a patient app for our dental practice?", answer: `Yes, Android and iOS apps start from ${P.app}, published under your practice's developer accounts. Most practices do not need one, though, because booking platforms already send reminders and handle recalls. We would usually suggest improving the website and booking flow first and considering an app only for a clear need.` },
     { question: "Do you take photos of our practice and team?", answer: "No. We work remotely and do not offer photography. We can tell you which shots work best, such as team portraits, the reception area, treatment rooms and the entrance from the street, and we compress and size your images so pages load quickly. A local photographer can usually cover it in a single session." },
   ],

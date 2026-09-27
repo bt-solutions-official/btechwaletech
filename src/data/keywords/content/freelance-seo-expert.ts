@@ -278,7 +278,7 @@ const content: FreelanceContent = {
         ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Businesses covering many services or areas"],
         ["New static website with SEO basics", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Sites too weak to optimise"],
         ["Online store with SEO structure", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Retailers starting fresh"],
-        ["Site maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Keeping fixes and updates current"],
+        ["Site maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Keeping fixes and updates current"],
       ],
       hideSm: [2],
     },

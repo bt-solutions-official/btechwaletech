@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Solan district · Himachal Pradesh",
     h1: "Freelance software developers in Solan for Baddi pharma, Parwanoo factories, campuses and hill trade",
     lede:
-      "Searching for a software development team in Solan or Baddi? BtechWaleTech offers freelance software developers instead: a group of three engineers working remotely from India who build order-status portals for third-party pharma manufacturing, MR reporting apps, artwork approval workflows, attendance tools, AI agents, dashboards, stores and SEO for Solan district. Starting prices are published and maintenance is free for five months after launch.",
+      "Searching for a software development team in Solan or Baddi? BtechWaleTech offers freelance software developers instead: a group of three engineers working remotely from India who build order-status portals for third-party pharma manufacturing, MR reporting apps, artwork approval workflows, attendance tools, AI agents, dashboards, stores and SEO for Solan district. Starting prices are published and maintenance is free for two months after launch.",
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Pharma order and artwork portals", "Android & iOS apps from ₹40,000", "Code and hosting in your name"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders, answer brand-owner status queries on WhatsApp and compile daily production and dispatch summaries.",
     data: "Dashboards for orders by brand, batches in progress, dispatches and receivables across plants in Baddi, Nalagarh and Parwanoo.",
     app: "Android and iOS apps from ₹40,000 for Solan district pharma marketers, BBN factories, campuses and Kasauli hotels, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for fixes, updates, backups and monitoring.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for fixes, updates, backups and monitoring.",
   },
   whyUsIntro:
     "BBN units often get quoted by ERP resellers selling far more than a small plant uses, while Solan town businesses rely on whoever built the last website. BtechWaleTech is a freelance group of three engineers: direct contact with the developers, published starting prices and every account in your name.",
@@ -221,7 +221,7 @@ const content: CityContent = {
       paragraphs: [
         "Solan district projects with BtechWaleTech take one to two weeks for a static website, two to four weeks for AI automation, four to eight weeks for an online store and six to twelve weeks for custom software such as order portals and MR apps. Complex multi-plant systems are delivered in phases so teams start benefiting early.",
         "We work remotely. Discovery happens on a video call where your coordinators show the spreadsheets, registers and WhatsApp groups they use today. You receive a written scope and itemised quote, then a live preview link to test with real entries. Training is done over screen-share with short recorded walkthroughs.",
-        "After launch, five months of maintenance are free. For hill-town context, see our <a href='/it-services/himachal-pradesh/shimla/'>Shimla page</a>, or <a href='/contact/'>send your requirement</a> for a quote within about two working days.",
+        "After launch, two months of maintenance are free. For hill-town context, see our <a href='/it-services/himachal-pradesh/shimla/'>Shimla page</a>, or <a href='/contact/'>send your requirement</a> for a quote within about two working days.",
       ],
     },
   ],
@@ -286,7 +286,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free after the system is live, covering bug fixes, small changes, security and software updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change. Urgent issues, such as a portal being down, are handled first on any day of the week.",
+        "Two months of maintenance are free after the system is live, covering bug fixes, small changes, security and software updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change. Urgent issues, such as a portal being down, are handled first on any day of the week.",
     },
     {
       question: "Can AI read our purchase orders and update our records?",

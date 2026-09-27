@@ -412,7 +412,7 @@ const content: FreelanceContent = {
         ["Migration protection", "Redirect map, staging crawl, launch monitoring", "Quoted per project", "2–6 weeks"],
         ["SEO-first site build", "299+ page site with templates and schema", P.seoSite, "3–5 weeks"],
         ["Custom faceted search rebuild", "New filter and URL logic in code", P.software, "6–12 weeks"],
-        ["Post-launch care", "Updates, uptime, small fixes", P.care, "Monthly, after 5 free months"],
+        ["Post-launch care", "Updates, uptime, small fixes", P.care, "Monthly, after 2 free months"],
       ],
       hideSm: [3],
     },

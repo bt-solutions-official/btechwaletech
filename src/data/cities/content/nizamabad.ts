@@ -35,7 +35,7 @@ const nizamabad: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu, Urdu and English", "Spice and turmeric catalogues", "Rice mill buyer pages", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "For Nizamabad businesses, our static websites start at ₹10,000 and take one to two weeks. 299+ page SEO websites start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a three-engineer remote team with no office in Nizamabad, and we maintain every site free for five months after launch.",
+    "For Nizamabad businesses, our static websites start at ₹10,000 and take one to two weeks. 299+ page SEO websites start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a three-engineer remote team with no office in Nizamabad, and we maintain every site free for two months after launch.",
   snapshot: [
     { label: "Location", value: "About 186 km north of Hyderabad, where NH 63 begins and NH 44 bypasses the city" },
     { label: "Turmeric trade", value: "The agricultural market yard, started in 1933 over 67 acres, is one of Asia's largest turmeric trading centres" },
@@ -52,7 +52,7 @@ const nizamabad: CityContent = {
     ai: "WhatsApp replies that share daily rates, product lists or appointment slots in Telugu or English without anyone typing them each time.",
     data: "Arrivals, lots, sales and outstanding payments turned into a dashboard you can check after the market closes.",
     app: "Android and iPhone apps for hospital appointments, school circulars or trader ordering, one Flutter build listed on Google Play and the App Store.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Nizamabad businesses usually choose between a local designer who disappears after launch and a Hyderabad agency that charges city rates. We are a small remote team with published prices, WhatsApp replies every day of the week, and a firm rule that the domain, hosting and code belong to you.",
@@ -187,7 +187,7 @@ const nizamabad: CityContent = {
       paragraphs: [
         "Too many Nizamabad businesses have lost a website because the person who built it kept the domain in his own account and later stopped responding. When that happens, even changing a phone number becomes impossible.",
         "We register the domain and hosting in your name from the first day. At launch you receive every login, the full code and a short note explaining the setup. If you ever want another developer to take over, you can hand everything across without paying us anything.",
-        "Maintenance is free for five months after launch: content and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change. See our <a href=\"/services/web-development/\">web development page</a> for what each build includes.",
+        "Maintenance is free for two months after launch: content and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change. See our <a href=\"/services/web-development/\">web development page</a> for what each build includes.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const nizamabad: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch, we handle text and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch, we handle text and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you also work in Bodhan, Armoor, Kamareddy and Nirmal?",

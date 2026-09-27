@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Subscription and wallet system", `From ${P.software}`],
     ["Delivery staff app", `From ${P.app}`],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission on your milk or ghee orders" },
   ],
   answer: {
@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A dairy farm website starts at ${P.site} for a farm profile with products and a WhatsApp order button, ${P.shop} for a store selling ghee and paneer, and ${P.software} for a subscription system with wallet, pause and route sheets. Each figure is a starting price; your quote depends on the features you choose.`,
         `The biggest cost driver is the subscription logic. An order form is simple; a system that knows tomorrow's milk for every household, respects pauses and deducts wallets correctly takes careful testing, because an error repeats every single morning. The second driver is the delivery side: printed route sheets are cheap, while a rider app with offline marking starts at ${P.app}. Third comes content: professional photos of your farm and written breed or feed pages, which you can supply yourself to save cost.`,
-        `International buyers of a similar build, for example an overseas ghee brand, see USD figures such as a store from ${P.shopUsd}. Running costs after launch are hosting, the domain renewal and message charges for any automated WhatsApp notifications you send. Maintenance is free for five months after launch and then optional from ${P.care}.`,
+        `International buyers of a similar build, for example an overseas ghee brand, see USD figures such as a store from ${P.shopUsd}. Running costs after launch are hosting, the domain renewal and message charges for any automated WhatsApp notifications you send. Maintenance is free for two months after launch and then optional from ${P.care}.`,
       ],
     },
     {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, completely. The domain, the hosting account, the code and the database of subscribers and wallet balances should all sit in accounts registered to your business. The customer list is the most valuable thing your dairy has after the herd; never let it live only in someone else's system.`,
         `At handover you receive admin logins, access to the code repository, a list of renewals with dates, and a short guide for daily tasks such as adding a locality, changing a price or refunding a balance. You can export customers and ledgers to a spreadsheet whenever you like.`,
-        `After launch, five months of maintenance are included free: bug fixes, small text and price changes, updates and backups. After that you can continue with us from ${P.care}, take it over yourself, or hand it to another developer. Terms for anything else are agreed in your written quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
+        `After launch, two months of maintenance are included free: bug fixes, small text and price changes, updates and backups. After that you can continue with us from ${P.care}, take it over yourself, or hand it to another developer. Terms for anything else are agreed in your written quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
       ],
     },
     {
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Domain, hosting and payment gateway accounts are created under your business. We get user access only, so settlements and data are yours from the first day."],
       ["Test on a private link", "You try subscriptions, pauses and wallet top-ups on a staging site from your own phone while we simulate weeks of deliveries to catch errors early."],
       ["Run in parallel, then switch", "For a couple of weeks the system's route sheets are compared with your handwritten list. Once they match, customers are moved over with a WhatsApp announcement."],
-      ["Five months of free support", `Fixes, small changes and updates are free for five months after launch. After that, maintenance continues from ${P.care} a month only if you choose it.`],
+      ["Two months of free support", `Fixes, small changes and updates are free for two months after launch. After that, maintenance continues from ${P.care} a month only if you choose it.`],
     ],
   },
   faqHeading: "Dairy farm website: questions farmers and milk brands ask",
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Can people book farm visits through the website?", answer: "Yes. A visit page can show available weekend slots with a limit on visitors per slot, collect names and phone numbers, and send a WhatsApp confirmation with directions and farm rules. Visits are one of the best ways to build trust, and many visiting families start a trial subscription afterwards." },
     { question: "Will my dairy farm website rank on Google for milk delivery searches?", answer: "It can rank well locally with correct setup, but nobody can guarantee rankings. We build locality pages, fast mobile pages, product and local business structured data, and connect Google Search Console. Pair that with a complete Google Business Profile and genuine reviews from subscribers, and your farm has a fair chance for nearby searches." },
     { question: "Can AI assistants like ChatGPT or Google's AI answers mention my dairy?", answer: "They can, if your website states clear facts they can quote: breeds, delivery localities, timings, products and prices you publish. Short FAQ answers, structured data and consistent details on your Google Business Profile help. There is no guaranteed way to be mentioned, but vague, outdated pages make it much less likely." },
-    { question: "What maintenance does a dairy farm website need?", answer: `Subscription systems need regular backups, security updates, occasional price and locality changes, and checks that the nightly cut-off job runs. BtechWaleTech includes five months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care}, or you can hand the site to someone else.` },
+    { question: "What maintenance does a dairy farm website need?", answer: `Subscription systems need regular backups, security updates, occasional price and locality changes, and checks that the nightly cut-off job runs. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care}, or you can hand the site to someone else.` },
     { question: "Can I move my existing customers from a notebook or Excel?", answer: "Yes. Send the list with names, addresses, quantities, frequency and current balance, and we import it into the new system. Before switching, the system's route sheets are compared with your handwritten lists for a couple of weeks so any wrong quantity is fixed before customers notice." },
     { question: "Do you visit the farm to take photos or set things up?", answer: "No. The team works remotely from India and does not make site visits. You or a local photographer supply farm photos and short videos, and we guide you on what to shoot: animals, feed, milking, chilling and bottling. Everything else, from calls to testing, happens over WhatsApp and video." },
     { question: "Dairy farm ki website banwane mein kitna kharcha aata hai?", answer: `Simple dairy farm website jismein farm ki jaankari, products aur WhatsApp order button ho, ${P.site} se shuru hoti hai. Ghee aur paneer ka online shop ${P.shop} se shuru hota hai. Daily subscription, pause aur wallet wala system ${P.software} se shuru hota hai. Pehle itemised quote milta hai, aapke approval ke baad hi kaam shuru hota hai.` },
@@ -455,7 +455,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to move your milk customers onto a dairy farm website?",
-    note: `Send us your routes, products and how customers pay today on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site} for a farm site, with every account in your name and five months of free maintenance after launch.`,
+    note: `Send us your routes, products and how customers pay today on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site} for a farm site, with every account in your name and two months of free maintenance after launch.`,
   },
 };
 

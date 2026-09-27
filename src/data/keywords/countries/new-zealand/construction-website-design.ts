@@ -36,14 +36,14 @@ const content: FreelanceContent = {
     ["Large plan or region site from", P.seoSite],
     ["Client or subbie portal from", P.software],
     ["Typical build", "1 to 2 weeks; 3 to 5 for big plan libraries"],
-    ["Free maintenance", "5 months after go-live"],
+    ["Free maintenance", "2 months after go-live"],
     ["Quote turnaround", "About 2 working days, itemised in USD"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, SEO and project management covered" },
     { value: "2", label: "Buyer paths planned on every site: homeowners and commercial clients" },
     { value: "2", label: "Working days, roughly, until your itemised quote arrives" },
-    { value: "5", label: "Months of free changes and fixes after launch" },
+    { value: "2", label: "Months of free changes and fixes after launch" },
   ],
   answer: {
     heading: "What should a construction company website include to win bigger contracts?",
@@ -209,7 +209,7 @@ const content: FreelanceContent = {
         "Migration of an old site with many project pages and search history",
         "Photography and video, which you arrange locally",
       ],
-      after: [`After the five free months of maintenance, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional. For general NZ running costs such as domains and hosting, see <a href='/new-zealand/website-design-cost/'>how much a website costs in NZ</a>.`],
+      after: [`After the two free months of maintenance, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional. For general NZ running costs such as domains and hosting, see <a href='/new-zealand/website-design-cost/'>how much a website costs in NZ</a>.`],
     },
     {
       id: "timeline",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
       ["Structure and templates", "We build the sitemap, credentials page and case study template on a staging link, using whatever content already exists."],
       ["Projects in batches", "Your project managers send notes and photos; we write and load case studies in batches so launch is not held up by the last one."],
       ["Review and testing", "You review on phone and desktop. We test forms, downloads, filters and page speed, then fix everything flagged."],
-      ["Launch and handover", "The site goes live on your accounts, your team gets a recorded walkthrough, and five months of free maintenance begins."],
+      ["Launch and handover", "The site goes live on your accounts, your team gets a recorded walkthrough, and two months of free maintenance begins."],
     ],
   },
   faqHeading: "Construction website design: questions NZ builders ask",
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Can you write the case studies for my building projects?", answer: "Yes. Your project manager sends notes, drawings or a short voice memo, and we turn them into a structured case study that you check for accuracy. We never invent project details, outcomes or client quotes, and we follow whatever naming and photo restrictions your clients have set." },
     { question: "Do you take the project photos?", answer: "No. We are remote, so you arrange photography or drone work locally. We provide a shot list for each project and handle resizing and compression so galleries stay fast. Good progress photos from your site managers' phones are also useful for case studies and portals." },
     { question: "Can you redesign my existing builder website instead of starting again?", answer: "Often. If the site is on a platform you control, we can add a case study template, credentials page and main-contractor page without a full rebuild. If it is locked in a provider's account or too slow to fix, rebuilding on accounts you own usually costs less over time." },
-    { question: "What does a construction website cost to run after launch?", answer: `You pay for your domain and hosting directly. Maintenance is free for five months after launch; after that, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional. Portals may add cloud hosting costs, which we estimate in the quote before you commit.` },
+    { question: "What does a construction website cost to run after launch?", answer: `You pay for your domain and hosting directly. Maintenance is free for two months after launch; after that, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional. Portals may add cloud hosting costs, which we estimate in the quote before you commit.` },
     { question: "Is construction website design different from a tradie website?", answer: "Yes. A tradie site is built to make the phone ring for smaller jobs, with click-to-call and suburb pages. Construction website design is built to survive scrutiny from developers, main contractors and homeowners making large decisions, so case studies, credentials, prequal and plan libraries do most of the work." },
   ],
   related: {

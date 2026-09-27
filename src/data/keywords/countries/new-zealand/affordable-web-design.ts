@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Affordable web design NZ · low cost without the hidden catches",
     h1: "Affordable web design NZ small businesses can own, grow and trust",
     lede: `Affordable web design NZ owners can rely on is not the cheapest invoice; it is a site that loads fast, shows up on Google and stays yours when you change providers. BtechWaleTech is three freelance developers in India building small-business websites from ${P.site}, with the .nz domain, hosting and every login held in your name. You pay in milestones, and nothing is billed until you approve an itemised quote.`,
-    pills: ["Sites from " + P.site, "Your .nz domain, your name", "Hosting logins handed over", "Fast on mobile", "SEO basics included", "Milestone payments", "5 months free care"],
+    pills: ["Sites from " + P.site, "Your .nz domain, your name", "Hosting logins handed over", "Fast on mobile", "SEO basics included", "Milestone payments", "2 months free care"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · quotes in USD",
   },
   facts: [
@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Typical build time", "1–2 weeks"],
     ["Domain and hosting", "Registered and billed in your name"],
     ["Payments", "Milestones, by Wise, wire or PayPal"],
-    ["Care after 5 free months", `From ${P.care}`],
+    ["Care after 2 free months", `From ${P.care}`],
   ],
   stats: [
     { value: "100", label: "Pages included in the starter website plan" },
     { value: "2", label: "Working days to receive your itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Logins we keep back when the site is handed over" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Domain", value: "Your .nz or .co.nz, registered to your business" },
       { label: "Hosting", value: "Your account, your card, logins handed over" },
       { label: "Payments", value: "Milestones in USD by Wise, wire or PayPal" },
-      { label: "After launch", value: `5 months free care, then from ${P.care}` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Local SEO set-up", note: "Page titles, Google Business Profile guidance, service-area pages and structured data so nearby customers can find you.", href: "/new-zealand/seo-services/", size: "md" },
       { name: "WordPress on a budget", note: "If you want to edit pages yourself in a familiar dashboard, a lean WordPress build without a pile of paid plugins.", href: "/new-zealand/wordpress-developer/", size: "sm" },
       { name: "Small online shop", note: `A modest product range with card and wallet checkout and courier shipping options, from ${P.shop} when a shop is truly needed.`, href: "/new-zealand/ecommerce-website-design/", size: "md" },
-      { name: "Low-cost care plan", note: `Updates, backups, security checks and small edits. Free for 5 months after launch, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "lg" },
+      { name: "Low-cost care plan", note: `Updates, backups, security checks and small edits. Free for 2 months after launch, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "lg" },
     ],
   },
   comparison: {
@@ -83,7 +83,7 @@ const content: FreelanceContent = {
     columns: ["What matters on a budget", "Cheap template reseller", "DIY Wix or Squarespace", "BtechWaleTech (three freelancers)"],
     rows: [
       ["Upfront cost", "Low", "Lowest; your own time instead", `From ${P.site}, itemised`],
-      ["Ongoing cost", "Often a bundled monthly fee you cannot unbundle", "Subscription for as long as the site exists", `Hosting on your account; care from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Often a bundled monthly fee you cannot unbundle", "Subscription for as long as the site exists", `Hosting on your account; care from ${P.care} after 2 free months`],
       ["Who holds the domain", "Sometimes the reseller", "You, if you registered it yourself", "You, registered in your business name"],
       ["Can you move the site?", "Often not without starting again", "Only by rebuilding elsewhere", "Yes; files and logins are yours"],
       ["Mobile speed", "Depends on the template, often heavy", "Reasonable, limited by the platform", "Built lean and tested on mobile"],
@@ -158,7 +158,7 @@ const content: FreelanceContent = {
         "DIY builders are cheaper in the first year if your time is free; a paid build is often cheaper over three years once you count the subscription and the hours you spend. The right answer depends on how much your time is worth and how long you need the site.",
         "Wix, Squarespace and similar builders charge a monthly or yearly subscription for as long as the site exists, and the plans that remove their branding and allow a custom domain or online payments cost more than the entry tier. Check their current New Zealand pricing pages, because plans change.",
         "The hidden cost of DIY is time. Choosing a template, writing every page, sizing photos, fixing the mobile layout and setting up SEO settings can take a busy owner several weekends. Many people finish with a site that looks fine but says little and ranks poorly because the underlying structure was never set up properly.",
-        `A paid build from ${P.site} costs more on day one. After that, you pay for hosting on your own account and optional care from ${P.care} once the 5 free months end. You also get a site you can move anywhere. If you already have a builder site and want out, see <a href='/wix-to-custom-website/'>moving from Wix to a custom website</a>.`,
+        `A paid build from ${P.site} costs more on day one. After that, you pay for hosting on your own account and optional care from ${P.care} once the 2 free months end. You also get a site you can move anywhere. If you already have a builder site and want out, see <a href='/wix-to-custom-website/'>moving from Wix to a custom website</a>.`,
       ],
     },
     {
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
         "Say a one-person dog grooming business in Masterton has been running on a Facebook page and wants a proper website that appears when locals search. This is a made-up scenario to show how a budget site is scoped, not a real client.",
         `The site needs a home page, a page for each service (full groom, bath and tidy, puppy intro, nail trims), a prices page, a gallery using the owner's own photos, an about page, and a contact page with a map and enquiry form. That is around ten pages, well inside the starter plan from ${P.site}, and about 1–2 weeks of work once the text and photos are ready.`,
         "The owner registers the .co.nz domain in the business name, opens hosting on their own card, and receives every login at launch. We set up page titles for searches such as “dog grooming Masterton” and “puppy groom Wairarapa”, submit the sitemap to Google Search Console, and explain how to keep the Google Business Profile consistent with the site.",
-        `Online booking is left out of version one; the enquiry form and a phone link are enough while the business is small. If bookings grow, a booking tool can be added later without a rebuild. After five months of free care, the owner can choose a care plan from ${P.care} or look after the site themselves.`,
+        `Online booking is left out of version one; the enquiry form and a phone link are enough while the business is small. If bookings grow, a booking tool can be added later without a rebuild. After two months of free care, the owner can choose a care plan from ${P.care} or look after the site themselves.`,
       ],
     },
     {
@@ -377,12 +377,12 @@ const content: FreelanceContent = {
       ["Register domain and hosting in your name", "You open the domain and hosting accounts, or we open them directly in your business name. Either way, you are the owner from the start."],
       ["Approve the design", "We design the home page and one inner page first. Once you approve the look, the remaining pages follow on a private preview link."],
       ["Check it on your phone", "You review every page on your own phone and computer, send changes on WhatsApp, and we fix them overnight your time."],
-      ["Launch and hand over", "The site goes live on your domain, the sitemap goes to Google, and you receive every login plus five months of free care."],
+      ["Launch and hand over", "The site goes live on your domain, the sitemap goes to Google, and you receive every login plus two months of free care."],
     ],
   },
   faqHeading: "Affordable web design NZ: frequently asked questions",
   faqs: [
-    { question: "How much does affordable web design cost in NZ?", answer: `With our small freelance team, a small-business website starts at ${P.site} and covers up to 100 pages, usually built in 1–2 weeks. You pay for hosting on your own account, and care is free for five months after launch, then from ${P.care}. Quotes are in USD and itemised, so you can see what each part costs.` },
+    { question: "How much does affordable web design cost in NZ?", answer: `With our small freelance team, a small-business website starts at ${P.site} and covers up to 100 pages, usually built in 1–2 weeks. You pay for hosting on your own account, and care is free for two months after launch, then from ${P.care}. Quotes are in USD and itemised, so you can see what each part costs.` },
     { question: "Is cheap web design worth it for a small business?", answer: "It is worth it only if the cheap price does not come from cutting ownership, speed or search basics. A low-cost site you own, that loads fast and is structured for Google, is good value. A low-cost site locked to a provider, with the domain in their name, often ends up costing more when you have to rebuild it." },
     { question: "Should I use Wix or Squarespace or pay a web designer?", answer: "Use a DIY builder if your budget is tiny, your time is free and the site is short-term or experimental. Pay a designer when the site needs to win work and you would rather spend your time running the business. Remember builders charge a subscription for as long as the site exists and you cannot easily move the site elsewhere." },
     { question: "Who should own my .nz domain name?", answer: "Your business should be the registrant of your .nz or .co.nz domain, with the registrar account in your name and email. A designer can manage the settings with their own access, but should never be the registered holder. If you are not sure who holds yours, log in to the registrar or ask your current provider in writing." },
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "What are the hidden costs of a cheap website?", answer: "Look out for bundled monthly fees that cannot be separated, charges to release your domain or files, paid plugins or template licences you must renew, and fees for every small edit. Also count the cost of lost customers if the site is slow or hard to find. Ask for all ongoing costs in writing before you agree." },
     { question: "Can you redesign my existing cheap website?", answer: "Yes. We review what you have, keep the content and any pages that already rank, rebuild on a lean platform you own, and redirect old page addresses so search engines follow the change. If the domain is held by your old provider, we help you request the transfer before we start." },
     { question: "Do you write the website content?", answer: "We structure every page and write the SEO elements such as titles and descriptions. You supply the facts about your business, in rough form if you like, and we shape them into clear page copy for you to approve. Because you know your business best, your input keeps the site accurate and genuine." },
-    { question: "How much does it cost to maintain a small website each year?", answer: `You pay the domain registrar and hosting provider directly. Care is free for five months after launch; after that, care plans for updates, backups, security checks and small edits start at ${P.care}. Some owners with simple static sites choose to handle small changes themselves, which is fine because you have every login.` },
+    { question: "How much does it cost to maintain a small website each year?", answer: `You pay the domain registrar and hosting provider directly. Care is free for two months after launch; after that, care plans for updates, backups, security checks and small edits start at ${P.care}. Some owners with simple static sites choose to handle small changes themselves, which is fine because you have every login.` },
     { question: "What happens if I want to leave you later?", answer: "You take the site with you. The domain, hosting and code are already in your name, and you hold every login, so another developer can take over without a rebuild. We can remove our own access on request. There are no lock-in contracts built into how we work; the terms of your project are in your written quote." },
     { question: "Can an affordable website take online bookings or payments?", answer: `A simple booking link or enquiry form fits easily into a starter site. If you need a full online shop with card and wallet checkout and courier shipping, that is the ecommerce plan from ${P.shop}. For complex bookings with staff rosters or deposits, we quote the booking feature as its own line.` },
     { question: "Is WordPress a good choice for a budget website?", answer: "WordPress suits owners who want to edit pages themselves in a familiar dashboard. Kept lean, without a pile of paid plugins, it can be both affordable and fast. For owners who rarely change the site, a static build can be even faster and cheaper to host. We recommend one in your quote and explain why." },

@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Payment methods", "Konbini, PayPay, JCB and other cards, bank transfer"],
     ["Merchant account", "Always in your business name"],
     ["Pages we build", "Checkout, voucher screen, tokushoho disclosure"],
-    ["After launch", `5 months free maintenance, then from ${P.care}`],
+    ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers: checkout, cloud, testing" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Payment fees or commissions taken by us" },
   ],
   answer: {
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
         "State of the existing code, if we are adding to it",
       ],
       after: [
-        `Processor fees are separate and paid by you to the processor. After launch, five months of maintenance are free; payment care after that starts at ${P.care} per month.`,
+        `Processor fees are separate and paid by you to the processor. After launch, two months of maintenance are free; payment care after that starts at ${P.care} per month.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
         ["App with konbini checkout", "Flutter or React Native, in-app voucher, push reminders", `From ${P.app}`, "6–10 weeks"],
         ["Reminder and follow-up automation", "Email or LINE reminders, expired-voucher win-back", `From ${P.ai}`, "2–4 weeks"],
         ["Site with tokushoho and policy pages", "Business site ready for processor review", `From ${P.site}`, "1–2 weeks"],
-        ["Payment care", "Webhook monitoring, API updates, fixes", `From ${P.care}`, "Monthly, after 5 free months"],
+        ["Payment care", "Webhook monitoring, API updates, fixes", `From ${P.care}`, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You apply for the merchant account and share test-mode keys. We review the site against the processor’s onboarding list and build the tokushoho page early."],
       ["Build the lifecycle", "Checkout, voucher screen, webhooks, holds, reminders, cancellation and refund screens, all in test mode on staging, demoed in the JST afternoon."],
       ["Test every outcome", "Paid, late, expired, cancelled, refunded and duplicate-webhook cases are run and recorded, then your staff walk through the customer journey themselves."],
-      ["Go live and watch", "Live keys go into your secret store, the first real vouchers are monitored closely, and five months of free maintenance cover any fixes."],
+      ["Go live and watch", "Live keys go into your secret store, the first real vouchers are monitored closely, and two months of free maintenance cover any fixes."],
     ],
   },
   faqHeading: "Konbini payment integration: questions from sellers in Japan",
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
     { question: "Can LINE send konbini payment reminders?", answer: "Yes, if the customer has linked their LINE account to your shop. A LINE chatbot can send the payment code the day before the deadline and a “payment received” message afterwards. Pushed messages count toward your LINE Official Account allowance, so we send them only to customers with an open voucher." },
     { question: "How do you test konbini payments without real cash?", answer: "Processors provide test modes that simulate each outcome. One global processor offers test emails and confirmation numbers for payments that succeed at once, succeed after a few minutes, expire, or never succeed, plus test bank accounts for refunds. We run every case and deliberately repeat webhooks to prove orders never ship twice." },
     { question: "Who owns the code and accounts after the project?", answer: "You do. The merchant account, cloud account and code repository are in your name from the start, and we document the order states, webhooks and settings in a handover guide. Another developer can pick it up later without asking us for anything." },
-    { question: "What maintenance does a konbini integration need?", answer: `Processors update their APIs, webhooks occasionally fail, and prices or deadlines change. You get five months of free maintenance after launch. Optional payment care after that starts at ${P.care} per month and covers monitoring, API updates and fixes. Terms are set out in your written quote and our terms page.` },
+    { question: "What maintenance does a konbini integration need?", answer: `Processors update their APIs, webhooks occasionally fail, and prices or deadlines change. You get two months of free maintenance after launch. Optional payment care after that starts at ${P.care} per month and covers monitoring, API updates and fixes. Terms are set out in your written quote and our terms page.` },
     { question: "What does BtechWaleTech not do for payment projects?", answer: "We do not give legal or tax advice, negotiate processor fees, underwrite your merchant application or handle funds. We do not visit your premises in Japan or write Japanese marketing copy. We build, test and document the integration, and prepare your site so the processor’s review has what it asks for." },
   ],
   related: {

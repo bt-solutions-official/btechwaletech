@@ -56,7 +56,7 @@ const sindhnur: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and appointment questions in Kannada, Telugu or Hindi and pass real decisions to you.",
     data: "Season dashboards of paddy bought, rice milled and dispatched, dues by buyer and tractor bookings by village.",
     app: "Android and iOS apps for rice buyers re-ordering, dealer service teams or coaching students, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Sindhanur's millers and dealers deal in large volumes and small margins, so they want every cost visible. Our starting prices are published, quotes are itemised in writing, WhatsApp gets a reply every day, and the domain, hosting, code and store accounts are opened in your name. Where a feature will not pay back within a season or two, we advise against it.",
@@ -170,7 +170,7 @@ const sindhnur: CityContent = {
       paragraphs: [
         "Without a Sindhanur office, we rely on clear documents. After an introductory call, you receive a written plan of pages or app screens, a schedule and an itemised quote. Once you approve, we send preview links you can check on your phone with partners or family. Kannada, Telugu or Bengali text is sent to you for approval before anything is published.",
         "WhatsApp messages are answered every day of the week in Indian Standard Time. If a date is going to slip, you hear about it early. Payments follow visible milestones, and nothing is invoiced before written approval of the quote.",
-        "The domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are all registered to you, and logins are handed over in writing. For the first five months after launch, maintenance is free, covering edits, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you choose to keep us, and you may move to any other developer at any point. Apps get the annual updates Google and Apple demand so they stay live.",
+        "The domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are all registered to you, and logins are handed over in writing. For the first two months after launch, maintenance is free, covering edits, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you choose to keep us, and you may move to any other developer at any point. Apps get the annual updates Google and Apple demand so they stay live.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const sindhnur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free, including edits, backups, security patches and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can take the code to another developer at any time.",
+        "The first two months are free, including edits, backups, security patches and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can take the code to another developer at any time.",
     },
     {
       question: "Do you work in Maski, Manvi and Lingsugur too?",

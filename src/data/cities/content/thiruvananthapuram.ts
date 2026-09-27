@@ -7,7 +7,7 @@ const thiruvananthapuram: CityContent = {
   meta: {
     title: "Thiruvananthapuram IT Services | Web, Apps, SEO & AI",
     description:
-      "Websites, SEO and AI automation for Thiruvananthapuram clinics, homestays, Technopark startups and traders. From ₹10,000, with five months of free maintenance.",
+      "Websites, SEO and AI automation for Thiruvananthapuram clinics, homestays, Technopark startups and traders. From ₹10,000, with two months of free maintenance.",
     keywords: [
       "website development team in Thiruvananthapuram",
       "web design team Trivandrum",
@@ -31,11 +31,11 @@ const thiruvananthapuram: CityContent = {
     eyebrow: "Thiruvananthapuram · Kerala",
     h1: "Websites, software, SEO and AI tools for Thiruvananthapuram firms",
     lede:
-      "We are three engineers working remotely for Trivandrum hospitals, ayurveda centres, Kovalam homestays, Chalai traders and young Technopark companies. Our starting prices are public, you speak directly with the developers, and five months of maintenance after launch are included free, so small edits never wait for a new invoice.",
+      "We are three engineers working remotely for Trivandrum hospitals, ayurveda centres, Kovalam homestays, Chalai traders and young Technopark companies. Our starting prices are public, you speak directly with the developers, and two months of maintenance after launch are included free, so small edits never wait for a new invoice.",
     pills: ["Sites from ₹10,000", "Malayalam and English pages", "Direct booking for stays", "Startup landing pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Thiruvananthapuram, a static business website from us starts at ₹10,000 and is usually ready in one to two weeks; a 299+ page SEO site starts at ₹20,000. We are a remote team of three engineers without a Kerala office, so there is no rent in the price, and maintenance is free for five months after launch.",
+    "In Thiruvananthapuram, a static business website from us starts at ₹10,000 and is usually ready in one to two weeks; a 299+ page SEO site starts at ₹20,000. We are a remote team of three engineers without a Kerala office, so there is no rent in the price, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Role", value: "Capital of Kerala, with the state secretariat, government departments and many public institutions" },
     { label: "IT hub", value: "Technopark at Kazhakoottam, India's first technology park (1995), with Technocity being developed further north" },
@@ -52,10 +52,10 @@ const thiruvananthapuram: CityContent = {
     ai: "AI assistants on WhatsApp and the website that answer treatment, room, fee and admission questions in English or Malayalam around the clock.",
     data: "Clean reports and dashboards for hospitals, institutes and distributors, built so decisions do not depend on one person's Excel file.",
     app: "Android and iOS apps for patient bookings, student portals and guest check-ins, built in Flutter or React Native and released on both stores.",
-    maintenance: "Content changes, backups, security updates and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Content changes, backups, security updates and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Trivandrum has many capable web developers, including agencies near Technopark and freelancers working from home. We are different in a few specific ways: our prices are on the website, you work directly with three engineers rather than an account manager, and we maintain your site free for five months after it goes live.",
+    "Trivandrum has many capable web developers, including agencies near Technopark and freelancers working from home. We are different in a few specific ways: our prices are on the website, you work directly with three engineers rather than an account manager, and we maintain your site free for two months after it goes live.",
   pricingIntro:
     "Plenty of Thiruvananthapuram firms quote only after a meeting, which makes comparison slow. Here are our actual starting prices. The final amount depends on the number of pages, languages, features and how much content is ready, and you receive it itemised, in writing, before any billing starts.",
   sections: [
@@ -177,7 +177,7 @@ const thiruvananthapuram: CityContent = {
       paragraphs: [
         "Many Trivandrum businesses have a website they cannot change. The designer has moved on, the domain renewal reminders go to an address nobody checks, and nobody has the hosting password. When the domain finally expires, the site disappears, often along with years of search visibility.",
         "We avoid this from the start. The domain is registered in your name, the hosting account is yours, and at launch you receive every login, the source code and a short note explaining how things fit together. You can move to another developer at any time without an exit fee or permission from us. Our <a href=\"/services/web-development/\">web development</a> work is written to be readable by any competent developer.",
-        "For the first five months after launch, maintenance costs nothing. That covers content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing and pay for that piece of work.",
+        "For the first two months after launch, maintenance costs nothing. That covers content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing and pay for that piece of work.",
       ],
     },
   ],
@@ -264,7 +264,7 @@ const thiruvananthapuram: CityContent = {
     {
       question: "What is included in the free maintenance period?",
       answer:
-        "For five months after launch, we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Neyyattinkara, Attingal, Nedumangad, Kollam and Nagercoil?",

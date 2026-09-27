@@ -7,7 +7,7 @@ const palwal: CityContent = {
   meta: {
     title: "Palwal Website Design, SEO & Software | ₹10,000+",
     description:
-      "Websites, local SEO and business software for Palwal factories, Prithla and Baghola units, dealers, schools and clinics. Sites from ₹10,000, free upkeep 5 months.",
+      "Websites, local SEO and business software for Palwal factories, Prithla and Baghola units, dealers, schools and clinics. Sites from ₹10,000, free upkeep 2 months.",
     keywords: [
       "website development team in Palwal",
       "web designer Palwal",
@@ -30,11 +30,11 @@ const palwal: CityContent = {
     eyebrow: "Palwal · NCR, Haryana",
     h1: "Web development and SEO for Palwal's factories, dealers and local businesses",
     lede:
-      "We are a three-engineer remote team building websites, supplier catalogues, business software and WhatsApp automation for Palwal manufacturers in Prithla and Baghola, NH-19 dealers, property firms, schools and clinics. Starting prices are public, you work directly with the engineers, and maintenance is free for five months after launch.",
+      "We are a three-engineer remote team building websites, supplier catalogues, business software and WhatsApp automation for Palwal manufacturers in Prithla and Baghola, NH-19 dealers, property firms, schools and clinics. Starting prices are public, you work directly with the engineers, and maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Factory capability pages", "Hindi local search", "WhatsApp enquiry logs", "Domain in your name"],
   },
   quickAnswer:
-    "For Palwal businesses, our static website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, ready in roughly one to five weeks. Custom software starts from ₹60,000. We are a remote team of three engineers with no Palwal office, so there is no rent in your quote, and five months of free maintenance follow every launch.",
+    "For Palwal businesses, our static website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, ready in roughly one to five weeks. Custom software starts from ₹60,000. We are a remote team of three engineers with no Palwal office, so there is no rent in your quote, and two months of free maintenance follow every launch.",
   snapshot: [
     { label: "Status", value: "District headquarters since 15 August 2008; part of the National Capital Region" },
     { label: "Distance", value: "About 60 km from Delhi and 29 km from Faridabad on the Delhi–Agra highway (NH-19)" },
@@ -51,7 +51,7 @@ const palwal: CityContent = {
     ai: "WhatsApp assistants that answer common questions, log every enquiry and pass serious buyers to the right person on your team.",
     data: "Production, sales and collection dashboards that let a factory owner see the day's numbers on a phone before reaching the unit.",
     app: "Android and iOS apps for field sales, site visits and service calls, built in Flutter or React Native and listed on both app stores from ₹40,000.",
-    maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you choose to continue.",
+    maintenance: "Two months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you choose to continue.",
   },
   whyUsIntro:
     "Palwal businesses often end up with a Faridabad or Delhi agency, or a local operator who never shares logins. Prices are rarely written down. We publish our starting prices, register everything in your name and reply on WhatsApp every day of the week, before and after launch.",
@@ -156,11 +156,11 @@ const palwal: CityContent = {
     },
     {
       id: "ownership-palwal",
-      heading: "Ownership and five months of free maintenance",
+      heading: "Ownership and two months of free maintenance",
       paragraphs: [
         "We often hear from Palwal owners whose site went offline because a former developer let the domain lapse, or because the hosting account was in someone else's name. Recovering that can take weeks, and sometimes the domain is lost for good.",
         "We set everything up in your name from the start: domain, hosting and any email or analytics accounts. At launch you receive every login, the full source code and a short document explaining how the site runs. You can move to another developer at any time with no exit fee.",
-        "For five months after launch, maintenance is free. That covers content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when a change is needed.",
+        "For two months after launch, maintenance is free. That covers content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when a change is needed.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const palwal: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can message us when you need a change and pay only for that work.",
+        "For two months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can message us when you need a change and pay only for that work.",
     },
     {
       question: "Can you guarantee first-page Google rankings?",

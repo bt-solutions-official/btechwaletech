@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Who owns it", "You: domain, hosting, code"],
     ["Talk to", "The developers, on WhatsApp"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "100", label: "Pages included in the static plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
       { label: "Ownership", value: "Domain, hosting account and source code in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Code and accounts", "Depends on the seller", "Sometimes kept by the agency", "Always in your name from day one"],
       ["SEO and speed", "Often an add-on", "Separate department", "Built in: schema, sitemap, Core Web Vitals"],
       ["Apps and AI later", "Find another seller", "Available, at agency rates", "Same team handles apps and automation"],
-      ["After launch", "Paid per fix", "Retainer contract", "5 months free, then monthly from " + P.care],
+      ["After launch", "Paid per fix", "Retainer contract", "2 months free, then monthly from " + P.care],
       ["Team size ceiling", "One person", "Large teams", "Three people; not suited to 20-developer projects"],
     ],
     fine: "If you need on-site staff in your office every day or a team of twenty, an agency or an in-house hire will serve you better than any freelance web developer.",
@@ -166,7 +166,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance web developer cost for different projects?",
       paragraphs: [
         `Cost follows scope. A five-page brochure site and a 299-page SEO site both count as “a website”, but the effort differs by weeks. Here are our starting points so you can place your project.`,
-        `A static website of up to 100 pages starts at ${P.site} (${P.siteUsd}). An SEO website with 700+ generated pages starts at ${P.seoSite}. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android plus iOS app at ${P.app}. Ongoing SEO starts at ${P.seo}, and maintenance, once the free five months end, starts at ${P.care}.`,
+        `A static website of up to 100 pages starts at ${P.site} (${P.siteUsd}). An SEO website with 700+ generated pages starts at ${P.seoSite}. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android plus iOS app at ${P.app}. Ongoing SEO starts at ${P.seo}, and maintenance, once the free two months end, starts at ${P.care}.`,
         `Across the market, quotes for the same brief vary a lot. That spread comes from experience, whether design is custom or a bought theme, who writes content, and what support is included, not from the city the freelancer lives in. When you compare, line up the scope first and the price second. Detailed figures by type are on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example, not a client story, to show how a freelance web developer project flows.`,
         `A tuition centre in a tier-2 city wants more enquiries for board exam batches. The brief: home, about, six course pages, faculty, results, fees, contact, and a Hindi version of the course pages. Budget: modest. Goal: parents send a WhatsApp message.`,
-        `We would propose the static website plan, starting at ${P.site}, with a line added for the Hindi pages and one for writing course copy if the owner cannot. Week one covers the sitemap, a home page design on a staging link and course page layouts. Week two covers the remaining pages, the WhatsApp button with a prefilled “I want details for Class 10 batch” message, Google Business Profile link, schema for the organisation and FAQs, and Search Console setup. After launch, the free maintenance period covers new batch dates and fee changes for five months.`,
+        `We would propose the static website plan, starting at ${P.site}, with a line added for the Hindi pages and one for writing course copy if the owner cannot. Week one covers the sitemap, a home page design on a staging link and course page layouts. Week two covers the remaining pages, the WhatsApp button with a prefilled “I want details for Class 10 batch” message, Google Business Profile link, schema for the organisation and FAQs, and Search Console setup. After launch, the free maintenance period covers new batch dates and fee changes for two months.`,
       ],
     },
     {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       heading: "Freelance web developer kaise chunein? Seedhi baat",
       paragraphs: [
         `Agar aapko website banwani hai, toh pehle yeh tay kijiye ki website se kya chahiye: calls, WhatsApp enquiries ya online orders. Phir do-teen developers ko wahi brief bhejiye aur har quote ko line by line compare kijiye.`,
-        `Domain aur hosting hamesha apne naam par lijiye. Poora paisa advance mein mat dijiye; kaam dekh kar stages mein payment kijiye. Hamare yahan simple website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Launch ke baad 5 mahine ka maintenance free hai. Sawal ho toh WhatsApp par Hindi ya English mein poochiye.`,
+        `Domain aur hosting hamesha apne naam par lijiye. Poora paisa advance mein mat dijiye; kaam dekh kar stages mein payment kijiye. Hamare yahan simple website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Launch ke baad 2 mahine ka maintenance free hai. Sawal ho toh WhatsApp par Hindi ya English mein poochiye.`,
       ],
     },
   ],
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Bookings, dashboards, internal tools"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Repeat customers, ordering, memberships"],
         ["AI automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "WhatsApp bots, document reading, reports"],
-        ["Maintenance (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, small changes"],
+        ["Maintenance (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, small changes"],
       ],
       hideSm: [2],
     },
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
         ["Week 2, first half", "All inner pages, forms, WhatsApp button", "Send final text and photos", "Full draft site"],
         ["Week 2, second half", "Speed, SEO tags, schema, testing", "One consolidated round of changes", "Launch-ready site"],
         ["Launch day", "DNS, SSL, Search Console, analytics", "Final payment", "Live website and handover notes"],
-        ["Next 5 months", "Fixes and small updates", "Message changes on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes and small updates", "Message changes on WhatsApp", "Free maintenance"],
       ],
       hideSm: [3],
     },
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "On a short call we register the domain and hosting under your email, or you create them and add us as users."],
       ["Review on a staging link", "Designs and pages appear on a private link you can open on your phone. You comment directly on WhatsApp and we revise."],
       ["Launch and hand over", "We connect the domain, enable SSL, verify Google Search Console and share repository access, admin logins and a renewals list."],
-      ["Five months of free care", "Text edits, small fixes and updates are free for five months. After that, maintenance continues from " + P.care + " only if you want it."],
+      ["Two months of free care", "Text edits, small fixes and updates are free for two months. After that, maintenance continues from " + P.care + " only if you want it."],
     ],
   },
   faqHeading: "Freelance web developer: questions people ask",
@@ -388,14 +388,14 @@ const content: FreelanceContent = {
     { question: "Who owns the website code and domain?", answer: "You should. The domain and hosting should be registered in your name and paid from your account, and the source code should sit in a repository you can access. BtechWaleTech sets up accounts in the client’s name from day one and hands over all logins and code at launch, so you can move to anyone else later if you choose." },
     { question: "What should I include in a website brief for a freelancer?", answer: "Include your business goal, the action you want visitors to take, a list of pages, any features such as bookings or payments, examples of sites you like, who will supply text and photos, your timeline and a budget range. A one-page brief gives comparable quotes and saves several rounds of back-and-forth questions." },
     { question: "How do payments work with a freelance web developer?", answer: "Payments are usually split into stages: an advance to start, one or more payments as work is shown, and the balance before launch. In India BtechWaleTech takes UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Nothing is billed until you approve the written, itemised quote." },
-    { question: "Does a freelance web developer provide maintenance after launch?", answer: `Many do, but terms differ, so ask before you start. BtechWaleTech includes five months of free maintenance after launch, covering small text changes, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}. You can also take over the site yourself or hand it to another developer.` },
+    { question: "Does a freelance web developer provide maintenance after launch?", answer: `Many do, but terms differ, so ask before you start. BtechWaleTech includes two months of free maintenance after launch, covering small text changes, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}. You can also take over the site yourself or hand it to another developer.` },
     { question: "Will a freelance web developer do SEO as well?", answer: "A good one builds SEO basics into the site: unique titles and descriptions, clean URLs, sitemap, schema markup, fast loading and Search Console setup. Ongoing SEO such as content, local listings and link work is a separate monthly service. Be wary of anyone promising first-page rankings, because no one can guarantee them." },
     { question: "Should I sign a contract or NDA with a freelance developer?", answer: "Yes, at least a written scope with price, timeline, payment stages and ownership terms, even if it is a detailed email both sides confirm. An NDA makes sense if you share unreleased product details or customer data. BtechWaleTech is happy to sign a reasonable NDA before you share sensitive information." },
     { question: "Can the same freelance web developer build my mobile app?", answer: `Some can. BtechWaleTech builds Android and iOS apps from ${P.app} using Flutter or React Native, and publishes them to Google Play and the App Store in your own developer accounts. Using the team that built your website means the app can share its data, login and design without re-explaining the business.` },
     { question: "Which is better for my site: WordPress or custom code?", answer: "Choose WordPress if your staff will add posts or edit pages often and want a familiar dashboard. Choose a custom static build if you want top speed, fewer security updates and low hosting cost, with changes made by the developer. For logins, bookings or dashboards, a custom web app is usually the cleaner option." },
     { question: "What are the risks of hiring a cheap freelance web developer?", answer: "Very low quotes often mean a pirated theme, no backups, the domain held in the developer’s name, or no support after launch. Fixing those later can cost more than doing it properly. Low budgets are fine; the key is a written scope, ownership in your name and staged payments, whatever the amount." },
     { question: "Can a freelance web developer in India work with clients abroad?", answer: `Yes. Remote work is standard for web projects. BtechWaleTech works with clients in the USA, UK, Canada, Australia, the UAE and elsewhere, bills in USD with a static site from ${P.siteUsd}, overlaps working hours for calls, and shares progress on staging links. Payments go through Wise, bank wire or PayPal.` },
-    { question: "Freelance web developer se website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath simple business website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Online store ${P.shop} se shuru hota hai. Final kharcha pages, features aur content par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Freelance web developer se website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath simple business website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Online store ${P.shop} se shuru hota hai. Final kharcha pages, features aur content par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "What happens if my freelance web developer disappears mid-project?", answer: "If the domain, hosting and code repository are already in your name, another developer can pick up the work quickly. That is why ownership should be set on day one. With BtechWaleTech, three developers know each project, so one person being unavailable does not stop delivery or leave you without access." },
   ],
   related: {
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a freelance web developer? Send us your brief",
-    note: `Tell us on WhatsApp what your website needs to do. You will get an itemised quote in about two working days, with websites starting at ${P.site}, accounts in your name and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp what your website needs to do. You will get an itemised quote in about two working days, with websites starting at ${P.site}, accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

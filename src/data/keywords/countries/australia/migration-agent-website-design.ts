@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Many visa or language pages", `SEO site from ${P.seoSite}`],
     ["Client portal or intake system", `From ${P.software}`],
     ["Quote", "Itemised, within about 2 working days"],
-    ["After launch", `5 free months, then care from ${P.care}`],
+    ["After launch", `2 free months, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your migration website" },
     { value: "2", label: "Working days to receive an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, migration agent website design starts from ${P.site} for a site of up to 100 pages, which suits most sole agents and small practices. Sites with a page for every pathway and several languages start from ${P.seoSite}. Client portals start from ${P.software}.`,
         `The cost drivers specific to migration agent website design are the number of visa pathway pages, the number of languages, whether you need online payment for consultations, and whether you want secure document upload or a portal. Content support also matters: turning your notes into clear, Code-aware pages takes time, and we itemise it separately from the build so you can see what you are paying for.`,
-        `Quotes from other freelancers and agencies vary widely, largely because some include content, SEO setup, booking integration and training, while others only cover templates. Ask for itemised quotes and compare line by line. Ongoing costs you will carry yourself are the domain, hosting, scheduling or payment tool fees and, after five free months of maintenance, an optional care plan from ${P.care}.`,
+        `Quotes from other freelancers and agencies vary widely, largely because some include content, SEO setup, booking integration and training, while others only cover templates. Ask for itemised quotes and compare line by line. Ongoing costs you will carry yourself are the domain, hosting, scheduling or payment tool fees and, after two free months of maintenance, an optional care plan from ${P.care}.`,
       ],
     },
     {
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Approve two sample pages", "We design one visa pathway page and one agent profile on staging, with the footer and review date in place. Once approved, they set the pattern for the rest."],
       ["Review wording together", "Every draft is checked against the Code's limits on misleading statements, with suggested rewording. You approve the final text and translations."],
       ["Build, connect and test", "Booking, payment, confirmation emails, secure uploads and redirects are connected and tested on phones and desktops, including a test booking."],
-      ["Launch and look after it", "The site goes live on your hosting, the sitemap is submitted in Search Console, and five months of free maintenance begin, including review-date reminders."],
+      ["Launch and look after it", "The site goes live on your hosting, the sitemap is submitted in Search Console, and two months of free maintenance begin, including review-date reminders."],
     ],
   },
   faqHeading: "Migration agent website design: questions practices ask",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Do immigration lawyers need a different website from migration agents?", answer: "The structure is similar, but lawyers also have their own professional conduct and advertising rules, which differ by state. We build the same clear pathway pages, secure intake and booking, and you or your practice's compliance adviser confirm the wording. Our law firm website design page covers the legal side in more detail." },
     { question: "Should I show a fee list on my website?", answer: "Many agents show at least the initial consultation fee and explain how service fees are worked out, because clients want to know what starting costs. Whether to publish a full fee schedule is your call. Whatever you publish must match what you charge and what goes into your service agreements." },
     { question: "Can an AI assistant answer client questions on my site?", answer: `It can answer general questions from your approved FAQs, such as booking steps, office hours and document checklists, and pass anything personal to your team. It should never give visa advice or predict outcomes. AI automation starts from ${P.ai}, and every answer source is text you have approved.` },
-    { question: "What happens after my migration website launches?", answer: `You get five months of free maintenance covering fixes, updates, backups and small edits. After that, care is optional and starts from ${P.care}. Practices often use it for visa-page review reminders, agent changes, new language pages and closing pages for programs that have ended.` },
+    { question: "What happens after my migration website launches?", answer: `You get two months of free maintenance covering fixes, updates, backups and small edits. After that, care is optional and starts from ${P.care}. Practices often use it for visa-page review reminders, agent changes, new language pages and closing pages for programs that have ended.` },
   ],
   related: {
     heading: "More for Australian professional practices",

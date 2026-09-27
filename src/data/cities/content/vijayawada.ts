@@ -32,10 +32,10 @@ const vijayawada: CityContent = {
     h1: "Websites and Telugu-English SEO for Vijayawada's traders, workshops and colleges",
     lede:
       "We are a remote team of three engineers building websites, online stores and WhatsApp automation for Bezawada businesses: textile and FMCG wholesalers in Governorpet and One Town, Auto Nagar workshops, hospitals near Benz Circle, colleges and the hotels that host Durga temple pilgrims. Prices are public, and the domain and code are yours.",
-    pills: ["Sites from ₹10,000", "Telugu and English pages", "Wholesale catalogues", "WhatsApp automation", "5 months free maintenance"],
+    pills: ["Sites from ₹10,000", "Telugu and English pages", "Wholesale catalogues", "WhatsApp automation", "2 months free maintenance"],
   },
   quickAnswer:
-    "Our websites for Vijayawada businesses start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no Vijayawada office. Every project includes hosting in your name, SEO basics and five months of free maintenance.",
+    "Our websites for Vijayawada businesses start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no Vijayawada office. Every project includes hosting in your name, SEO basics and two months of free maintenance.",
   snapshot: [
     { label: "Trading streets", value: "Governorpet, Besant Road, One Town and the Kaleswara Rao Market area, with MG Road (Bandar Road) for showrooms" },
     { label: "Industrial estates", value: "Jawaharlal Nehru Auto Nagar for automobile trades, Kondapalli industrial estate, and units around Nunna and Gannavaram" },
@@ -52,10 +52,10 @@ const vijayawada: CityContent = {
     ai: "WhatsApp bots that take retailer orders, answer part availability questions for Auto Nagar dealers and handle admission-season enquiries in Telugu or English.",
     data: "Sales, collection and branch-wise dashboards for distributors and college groups who currently compile reports by hand.",
     app: "Android and iOS apps for field sales, delivery tracking and student portals, one codebase published on Google Play and the App Store.",
-    maintenance: "Price list changes, festival offers, backups and security updates free for five months, then from ₹8,000 a month.",
+    maintenance: "Price list changes, festival offers, backups and security updates free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Vijayawada has many web designers, from agencies along MG Road to freelancers in Benz Circle and around the engineering colleges. What we offer is specific: published prices, the domain and code in your name, WhatsApp replies seven days a week and five months of free maintenance after your site is live.",
+    "Vijayawada has many web designers, from agencies along MG Road to freelancers in Benz Circle and around the engineering colleges. What we offer is specific: published prices, the domain and code in your name, WhatsApp replies seven days a week and two months of free maintenance after your site is live.",
   pricingIntro:
     "Vijayawada business owners are used to bargaining, and web quotes here swing widely for the same work. We prefer to publish our starting prices so you know where you stand. The final figure depends on how many pages or products you need, the features involved and the content you can supply, and it arrives itemised before work starts.",
   sections: [
@@ -164,11 +164,11 @@ const vijayawada: CityContent = {
     },
     {
       id: "ownership-vijayawada",
-      heading: "Ownership, handover and five months of free maintenance",
+      heading: "Ownership, handover and two months of free maintenance",
       paragraphs: [
         "Many older Vijayawada websites are stuck. The domain was booked by a former vendor, the hosting is on an account nobody can access, and the SSL certificate has expired, so browsers warn visitors away. Recovering control can take weeks, and sometimes the only option is to start again under a new domain.",
         "We prevent that from the first day. Your domain is registered in your name, hosting runs on your account, and at launch you receive every login plus a short guide explaining where everything is. The source code belongs to you. If you ever want to move to another developer, you can do so without an exit fee or our permission.",
-        "The first five months of maintenance after launch are free: content and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can get in touch only when you need something changed.",
+        "The first two months of maintenance after launch are free: content and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can get in touch only when you need something changed.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const vijayawada: CityContent = {
         "Yes. The domain is registered to you, hosting runs on your own account, and at launch you receive every login and the complete source code. You can move to another developer whenever you like, with no exit fee.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "Maintenance continues from ₹8,000 a month if you want us to keep handling updates, backups, security fixes and speed checks. Or you can stop the plan and contact us only when you need a change. Because hosting is on your account, the site keeps running either way.",
     },

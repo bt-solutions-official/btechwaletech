@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Estimate", "Itemised, in about 2 working days"],
     ["Repository", "In your GitHub or GitLab account"],
     ["Who you talk to", "The developers themselves, on WhatsApp"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering front end, back end and cloud" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Platform fees added to your invoice" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "App plus backend", value: `From ${P.app}, 6–10 weeks` },
       { label: "Common stacks", value: "Next.js + Node.js, React + Django, Laravel, MERN" },
       { label: "Billing", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       heading: "Project, retainer or monthly: how to hire full stack help",
       paragraphs: [
         `Choose a project engagement when you can describe version one on paper. Choose a monthly arrangement when the work is an ongoing stream of changes that nobody can list in advance.`,
-        `Most of our full stack work is project based: an itemised estimate, milestones you can see on a staging link, payment by stage, and a launch. After launch, the first five months of maintenance are free. Beyond that, if you keep shipping features, a monthly plan starting at ${P.care} covers upkeep, while new modules get their own small estimates.`,
+        `Most of our full stack work is project based: an itemised estimate, milestones you can see on a staging link, payment by stage, and a launch. After launch, the first two months of maintenance are free. Beyond that, if you keep shipping features, a monthly plan starting at ${P.care} covers upkeep, while new modules get their own small estimates.`,
         `If you are comparing a dedicated monthly developer model with project billing, our page on <a href='/dedicated-web-developer/'>dedicated web developers</a> covers the trade-offs, and <a href='/part-time-web-developer/'>part-time help</a> covers lighter needs.`,
       ],
     },
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       heading: "Full stack developer hire karna hai? Seedha jawab",
       paragraphs: [
         `Full stack developer woh hota hai jo app ka screen, server, database aur hosting, sab khud sambhal leta hai. Hire karne se pehle likh lijiye ki kaun-kaun login karega aur har user kya karega. Technology ka naam developer suggest karega.`,
-        `Pehla chhota milestone paid rakhiye aur usi se kaam ki quality dekhiye. Code aapke GitHub mein, server aapke AWS account mein, domain aapke naam par hona chahiye. Hamare saath custom web app ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Launch ke baad 5 mahine maintenance free hai. WhatsApp par Hindi ya English mein baat kijiye.`,
+        `Pehla chhota milestone paid rakhiye aur usi se kaam ki quality dekhiye. Code aapke GitHub mein, server aapke AWS account mein, domain aapke naam par hona chahiye. Hamare saath custom web app ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Launch ke baad 2 mahine maintenance free hai. WhatsApp par Hindi ya English mein baat kijiye.`,
       ],
     },
   ],
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
         ["Android & iOS app with backend", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "App, API, admin panel, push"],
         ["AI feature or automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "LLM API, data pipeline, integrations"],
         ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Static generation, schema, sitemaps"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, monitoring, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, monitoring, fixes"],
       ],
       hideSm: [2],
     },
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Create accounts you control", "You open the repository organisation, cloud account and domain, then add us. Every key and invoice sits under your name from the start."],
       ["Watch it grow on staging", "From week two, working screens appear on a private staging link. You test on your own phone and send comments in one WhatsApp thread."],
       ["Launch with a handover pack", "We deploy to production, enable SSL, backups and monitoring, then hand over the README, credentials list, deployment steps and renewals sheet."],
-      ["Five months of free fixes", `Bug fixes and small adjustments are free for five months after launch. Continued maintenance starts at ${P.care} only if you choose it.`],
+      ["Two months of free fixes", `Bug fixes and small adjustments are free for two months after launch. Continued maintenance starts at ${P.care} only if you choose it.`],
     ],
   },
   faqHeading: "Hiring a full stack developer: common questions",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Do you sign an NDA before I share my product idea?", answer: "Ask us when you first get in touch. Confidentiality terms and any NDA are agreed as part of your written quote before you share sensitive material. You can also start with a high-level brief that describes user roles and actions without revealing the details you consider confidential, and add those once terms are in place." },
     { question: "How are payments handled when I hire a full stack developer?", answer: "Payments are split into stages linked to milestones you can test on a staging link, with the balance due before production launch. In India BtechWaleTech accepts UPI and bank transfer; overseas clients pay through Wise, bank wire or PayPal. Nothing is billed until you have approved the written, itemised estimate." },
     { question: "Can the same full stack developer build my mobile app?", answer: `Yes, and it helps, because the app uses the same API and database as the web app. We build Android and iOS apps with Flutter or React Native from ${P.app}, including the admin panel and push notifications, and publish them through Play Console and App Store Connect under your own developer accounts.` },
-    { question: "What happens after launch?", answer: `You get five months of free maintenance covering bug fixes, small adjustments, dependency updates and backup checks. After that you can continue with a monthly plan from ${P.care}, take the work in-house using the handover documents, or give the repository to another developer. Because everything sits in your accounts, any of these options is straightforward.` },
+    { question: "What happens after launch?", answer: `You get two months of free maintenance covering bug fixes, small adjustments, dependency updates and backup checks. After that you can continue with a monthly plan from ${P.care}, take the work in-house using the handover documents, or give the repository to another developer. Because everything sits in your accounts, any of these options is straightforward.` },
     { question: "Can a full stack developer also handle SEO for the public pages?", answer: "A good one builds the technical basics: server-rendered public pages, unique titles and descriptions, clean URLs, schema markup, an XML sitemap and fast loading. Santosh on our team sets up Google Search Console before launch. Ongoing content and ranking work is a separate monthly SEO service, and nobody can honestly guarantee specific positions." },
     { question: "What are warning signs when hiring a full stack developer?", answer: "Be careful if code lives only on their laptop or personal account, secrets are pasted into chat, backups are never mentioned, the estimate is a single line, or they refuse to show work on staging before final payment. Pushing an unnecessary full rewrite of a working system is another sign to slow down and ask for reasons." },
     { question: "Full stack developer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom web app ya portal ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Online store ${P.shop} se aur app ${P.app} se shuru hota hai. Final kharcha user roles, integrations aur reports par depend karta hai. Pehle itemised estimate milta hai, approval ke baad hi payment hota hai.` },
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a full stack developer? Send us your user roles",
-    note: `Message us on WhatsApp with who logs in and what they need to do. You will get a module-by-module estimate in about two working days, with custom web apps starting at ${P.software}, code in your own repository and five months of free fixes after launch.`,
+    note: `Message us on WhatsApp with who logs in and what they need to do. You will get a module-by-module estimate in about two working days, with custom web apps starting at ${P.software}, code in your own repository and two months of free fixes after launch.`,
   },
 };
 

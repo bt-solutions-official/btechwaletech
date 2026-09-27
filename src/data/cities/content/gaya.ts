@@ -52,7 +52,7 @@ const gaya: CityContent = {
     ai: "WhatsApp assistants that answer pilgrims' questions on rituals, dates, rooms and transport in Hindi and English, then pass bookings to your staff.",
     data: "Seasonal dashboards that show bookings by month, source state and service, so you can plan staff and stock before Pitru Paksha.",
     app: "Android and iOS apps for coaching class attendance, hotel check-ins and tour itineraries around Bodh Gaya, published on both app stores from ₹40,000.",
-    maintenance: "Season-wise rate updates, new photos, backups and security patches, free for five months and ₹8,000 a month thereafter.",
+    maintenance: "Season-wise rate updates, new photos, backups and security patches, free for two months and ₹8,000 a month thereafter.",
   },
   whyUsIntro:
     "Gaya businesses deal with visitors who have never met them, so trust has to be earned on a screen. We build sites that answer the obvious questions honestly, keep prices and quotes in writing, reply on WhatsApp all seven days, and register every account in your name so the business never depends on us.",
@@ -173,11 +173,11 @@ const gaya: CityContent = {
     },
     {
       id: "ownership-gaya",
-      heading: "Your website stays yours, with five months of free care",
+      heading: "Your website stays yours, with two months of free care",
       paragraphs: [
         "We hear the same complaint from many Gaya business owners: the person who built the website years ago kept the domain in his own name, the hosting lapsed, and customers began calling to ask why the site was down. Recovering control can take weeks and often costs money.",
         "Everything we build is registered to you from the start. The domain belongs to your business, hosting is in your account, and at launch you receive every password, the source code and a short explanation of how the site is set up. Moving to another developer is always possible, with no exit charge.",
-        "For five months after launch, maintenance is free: updates to text, photos and seasonal rates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can <a href=\"/contact/\">message us</a> whenever you need a change and pay only for that.",
+        "For two months after launch, maintenance is free: updates to text, photos and seasonal rates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can <a href=\"/contact/\">message us</a> whenever you need a change and pay only for that.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const gaya: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle updates to text, photos and seasonal rates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can pay only when you need a change.",
+        "For two months after launch we handle updates to text, photos and seasonal rates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can pay only when you need a change.",
     },
     {
       question: "How do I get started?",

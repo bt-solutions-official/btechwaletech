@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Works on", "Browser, Android phones, scanners"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Data and code", "Held in your accounts"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Custom build", value: `From ${P.software}, 6–12 weeks` },
       { label: "Android scanning app", value: `From ${P.app}, if a separate app is needed` },
       { label: "Ownership", value: "Code, database and hosting in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
       heading: "Stock management software banwana hai? Seedhi baat",
       paragraphs: [
         `Agar register ya Excel se stock sambhalna mushkil ho gaya hai, toh pehle yeh likhiye: kitni dukaan ya godown hain, maal batch aur expiry wala hai ya nahi, aur kaun-kaun stock entry karega. Isi se software ka size tay hota hai.`,
-        `Hamare saath custom inventory software ${P.software} se shuru hota hai aur lagbhag 6–12 hafte lagte hain. Phone camera se barcode scan ho sakta hai, low stock ka alert WhatsApp par aa sakta hai. Data aur code aapke naam par rahega, aur go-live ke baad 5 mahine maintenance free hai.`,
+        `Hamare saath custom inventory software ${P.software} se shuru hota hai aur lagbhag 6–12 hafte lagte hain. Phone camera se barcode scan ho sakta hai, low stock ka alert WhatsApp par aa sakta hai. Data aur code aapke naam par rahega, aur go-live ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["Android app for scanning and counts", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Online store sharing the same stock", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["WhatsApp alerts or AI forecasting add-on", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Hosting, database and code repository are created under your email and card, with us added as users."],
       ["Build and test on staging", "Milestones arrive on a staging link. Your staff test receiving, transfers and counts on their own phones and scanners."],
       ["Clean data and cut over", "We load the cleaned item master, your team counts stock on the agreed date, and that becomes opening stock."],
-      ["Go live with support", "Five months of free maintenance begin at go-live. After that, care continues from " + P.care + " only if you want it."],
+      ["Go live with support", "Two months of free maintenance begin at go-live. After that, care continues from " + P.care + " only if you want it."],
     ],
   },
   faqHeading: "Inventory management software developer: questions people ask",
@@ -390,10 +390,10 @@ const content: FreelanceContent = {
     { question: "Can I get low-stock alerts on WhatsApp?", answer: "Yes. The system can send a morning list of items below their minimum level, or near expiry, to the purchase manager on WhatsApp or email. Minimum levels are set per item and per location. WhatsApp Business messaging has its own usage charges, which are billed to your account by the provider." },
     { question: "Can staff steal or edit stock figures without anyone knowing?", answer: "Good inventory software makes that hard. Every movement and manual adjustment is logged with the user and time, roles limit who can adjust stock or see purchase prices, and large adjustments can require a manager’s approval. Variance reports after cycle counts show where stock is going missing." },
     { question: "Do you build an Android app for inventory?", answer: `Most staff can use the web app on their phones. When you need faster scanning, offline counts or a more app-like experience for field staff, BtechWaleTech builds Android and iOS apps from ${P.app} with Flutter or React Native, sharing the same database as the web system.` },
-    { question: "What happens after the inventory software goes live?", answer: `Five months of free maintenance start at go-live, covering bug fixes, small changes and backup checks. After that, maintenance is optional and starts at ${P.care}. New modules such as forecasting or a scanning app are quoted separately when you are ready for them.` },
+    { question: "What happens after the inventory software goes live?", answer: `Two months of free maintenance start at go-live, covering bug fixes, small changes and backup checks. After that, maintenance is optional and starts at ${P.care}. New modules such as forecasting or a scanning app are quoted separately when you are ready for them.` },
     { question: "Can an inventory management software developer extend our existing system?", answer: "Often, yes. We first review the code, database and hosting to see how the system is built and whether it is safe to extend. You then get a written assessment and an itemised quote. Sometimes adding a module is straightforward; sometimes a partial rebuild is the cheaper long-term choice." },
     { question: "Can inventory software predict how much stock to order?", answer: `Once you have a year or so of clean sales and stock data, simple forecasting can suggest reorder quantities by item and season. It works best for steady sellers and poorly for one-off items. BtechWaleTech handles data and AI work from ${P.ai}, and we will tell you if your data is not ready yet.` },
-    { question: "Inventory software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom inventory software ${P.software} se shuru hota hai aur 6 se 12 hafte lagte hain. Kharcha godown ki ginti, batch-expiry, barcode, alag app aur purane data ki safai par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 5 mahine maintenance free hai.` },
+    { question: "Inventory software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom inventory software ${P.software} se shuru hota hai aur 6 se 12 hafte lagte hain. Kharcha godown ki ginti, batch-expiry, barcode, alag app aur purane data ki safai par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related pages for anyone hiring an inventory management software developer",
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Talk to an inventory management software developer about your stock",
-    note: `Send us photos of your current register or spreadsheet and a short note on your shops and godowns. You will get an itemised quote in about two working days, with custom inventory software from ${P.software}, data in your accounts and five months of free maintenance after go-live.`,
+    note: `Send us photos of your current register or spreadsheet and a short note on your shops and godowns. You will get an itemised quote in about two working days, with custom inventory software from ${P.software}, data in your accounts and two months of free maintenance after go-live.`,
   },
 };
 

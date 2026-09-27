@@ -39,7 +39,7 @@ const content: CityContent = {
     h1: "Freelance software developers in Thane for societies, developers, SMEs and multi-branch businesses",
     lede:
       "Searching for a software development team in Thane that can build a proper web app, not just a brochure site? BtechWaleTech is a freelance group of three engineers working remotely from India. We write CRMs, society and facility software, AI agents, WhatsApp automation and dashboards for Thane firms from Wagle Estate to Ghodbunder Road, then host, hand over and maintain them.",
-    pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Society and CRM software", "WhatsApp Business API", "5 months free maintenance"],
+    pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Society and CRM software", "WhatsApp Business API", "2 months free maintenance"],
   },
   quickAnswer:
     "BtechWaleTech is a remote freelance team, an alternative to a software development team in Thane: custom web apps and CRMs start at ₹60,000 and take six to twelve weeks, AI automation and Android and iOS apps start at ₹40,000, and websites at ₹10,000. We are three engineers in India with no Thane office, and we quote line by line within about two working days.",
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that qualify property leads, answer routine questions and draft follow-ups, with a person approving anything important.",
     data: "Branch-wise dashboards for Thane businesses with outlets in several localities, pulling from billing software, Tally and spreadsheets.",
     app: "Android and iOS apps for Thane residents, brokers, students and delivery teams, built in Flutter or React Native and listed on Google Play and the App Store.",
-    maintenance: "Hosting, backups, security updates and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Hosting, backups, security updates and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Thane buyers can easily hire a Mumbai agency, but they often pay for account managers and city rent. We are three engineers who scope, code and support the software ourselves, and reply seven days a week.",
@@ -188,7 +188,7 @@ const content: CityContent = {
       heading: "How much does a software development team in Thane charge?",
       paragraphs: [
         "A software development team in Thane usually charges by scope, and with BtechWaleTech custom software and web applications start at ₹60,000. A focused tool with one or two user roles sits near that starting point, while CRMs with multiple branches, WhatsApp integration, AI features and detailed reporting cost more.",
-        "Our other starting prices are published: static websites of up to 100 pages from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000 each, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after the free five months. The complete table is on the <a href='/pricing/'>pricing page</a>.",
+        "Our other starting prices are published: static websites of up to 100 pages from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000 each, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after the free two months. The complete table is on the <a href='/pricing/'>pricing page</a>.",
         "When comparing quotes from Thane or Mumbai vendors, compare scope rather than totals. Check whether hosting, deployment, source code handover and post-launch fixes are included, and whether the price covers design, testing and training. A low quote that excludes those often ends up costing more.",
       ],
     },
@@ -206,7 +206,7 @@ const content: CityContent = {
       heading: "Project timelines, handover and IT support for Thane clients",
       paragraphs: [
         "Typical timelines for Thane projects are one to two weeks for a website, three to five weeks for a 299+ page SEO website, two to four weeks for AI automation, four to eight weeks for a store and six to twelve weeks for custom software. The main variable is how quickly content, sample data and feedback arrive from your side.",
-        "You see working software early, and every change request is tracked in a shared list. At launch you receive the source code, admin credentials, documentation and a recorded training session in English, Hindi or Marathi. Five months of maintenance follow at no charge, covering bug fixes, small changes, backups, security updates and uptime checks.",
+        "You see working software early, and every change request is tracked in a shared list. At launch you receive the source code, admin credentials, documentation and a recorded training session in English, Hindi or Marathi. Two months of maintenance follow at no charge, covering bug fixes, small changes, backups, security updates and uptime checks.",
         "After that you can move to a monthly plan from ₹8,000 or contact us when needed. To see how the services connect, visit our <a href='/services/'>services overview</a>, or browse other cities on the <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a>, including our page for <a href='/it-services/maharashtra/nashik/'>Nashik</a>.",
       ],
     },
@@ -282,7 +282,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of maintenance are free once the software is live: bug fixes, small content changes, backups, security and dependency updates and uptime checks. After that you can choose a monthly plan from ₹8,000 or pay only when you need changes. New features are always quoted before any work starts.",
+        "Two months of maintenance are free once the software is live: bug fixes, small content changes, backups, security and dependency updates and uptime checks. After that you can choose a monthly plan from ₹8,000 or pay only when you need changes. New features are always quoted before any work starts.",
     },
     {
       question: "Can the software and website be in Marathi, Hindi or Gujarati?",

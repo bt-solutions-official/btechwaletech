@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "4", label: "Corners in the Peppol exchange model" },
     { value: "2031", label: "Year the phased requirement reaches all remaining GST-registered businesses" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "What is InvoiceNow integration and who needs it?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Reconciliation dashboard", note: "A daily view of invoices sent, accepted, rejected and pending, matched against your GST return periods so gaps show up early.", href: "/singapore/custom-crm-development/", size: "md" },
       { name: "Inbound e-invoice processing", note: `Receiving supplier e-invoices from your Access Point into your system, with optional AI matching against purchase orders from ${P.ai}.`, href: "/singapore/ai-automation-services/", size: "sm" },
       { name: "B2B portal data capture", note: "Trade portals that collect customer UEN, legal name and address at account sign-up so invoice data is complete from the start.", href: "/singapore/b2b-ecommerce-development/", size: "sm" },
-      { name: "Monitoring and upkeep", note: `Specification updates, Access Point API changes and log reviews. Five months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
+      { name: "Monitoring and upkeep", note: `Specification updates, Access Point API changes and log reviews. Two months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "InvoiceNow integration pricing",
-    note: `A connector from a custom system or in-house ERP to your Access Point's API, with data mapping, validation, retries, logging and a reconciliation view, starts at ${P.software}. The final figure depends on how many document types you send (invoices, credit notes, debit notes, purchase records), how clean the source data is and how many systems produce invoices. Adding InvoiceNow data capture to an online store is quoted within ecommerce builds from ${P.shop}. Access Point subscription or transaction fees are paid by you to the provider and are separate. After five months of free maintenance, care starts at ${P.care}. All figures are USD starting prices.`,
+    note: `A connector from a custom system or in-house ERP to your Access Point's API, with data mapping, validation, retries, logging and a reconciliation view, starts at ${P.software}. The final figure depends on how many document types you send (invoices, credit notes, debit notes, purchase records), how clean the source data is and how many systems produce invoices. Adding InvoiceNow data capture to an online store is quoted within ecommerce builds from ${P.shop}. Access Point subscription or transaction fees are paid by you to the provider and are separate. After two months of free maintenance, care starts at ${P.care}. All figures are USD starting prices.`,
   },
   guideLabel: "InvoiceNow integration guide",
   guide: [
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
         ["Build", "Middleware, validation, retries, logging", "Weeks 3 to 7"],
         ["Sandbox testing", "All document types and error cases", "Weeks 6 to 9"],
         ["Trial and reconciliation", "Controlled production start, totals checked", "2 to 3 weeks"],
-        ["Go-live and care", "Full sending, monitoring, five free months", "Ongoing"],
+        ["Go-live and care", "Full sending, monitoring, two free months", "Ongoing"],
       ],
     },
   ],
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Mapping sheet sign-off", "Every required data element is mapped to your system, including GST category codes, and your finance team approves it in writing."],
       ["Connector build", "Middleware with validation, idempotent sending, logging and a dashboard is built to run in your own infrastructure."],
       ["Sandbox and trial", "All document types and failure cases are tested in the Access Point's sandbox, then a controlled production trial is reconciled."],
-      ["Go-live and monitoring", "Full sending begins, alerts reach a named person, and five months of free maintenance cover fixes and specification updates."],
+      ["Go-live and monitoring", "Full sending begins, alerts reach a named person, and two months of free maintenance cover fixes and specification updates."],
     ],
   },
   faqHeading: "InvoiceNow integration: frequently asked questions",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "How are GST category codes handled?", answer: "Each invoice line or subtotal carries a GST category code from the list IRAS accepts, such as codes for standard-rated supplies or taxable purchases. We map your internal tax codes to those codes in a sheet your accountant signs off. Mixed or ambiguous internal codes should be fixed in the source system before go-live." },
     { question: "Is it safe to let a team in India build our InvoiceNow connector?", answer: "Yes, with sensible access rules. We develop against test data and the Access Point's sandbox, and the production connector runs in your infrastructure with credentials stored there. Access to real invoices is agreed case by case. India is two and a half hours behind Singapore, so working hours overlap for most of your day." },
     { question: "Who owns the connector code?", answer: "You do. The code repository, deployment, logs and Access Point credentials sit in your accounts, and you receive full documentation at handover. We keep no copies of your invoice data. You can maintain the connector yourself, hand it to another developer, or keep us on a care plan." },
-    { question: "What maintenance does an InvoiceNow connector need?", answer: `Specifications and Access Point APIs change over time, so the connector needs updates, log reviews and occasional mapping changes when you add tax scenarios or entities. The first five months after go-live are free; after that, care plans start at ${P.care}. We also monitor rejection rates so problems are fixed before filing.` },
+    { question: "What maintenance does an InvoiceNow connector need?", answer: `Specifications and Access Point APIs change over time, so the connector needs updates, log reviews and occasional mapping changes when you add tax scenarios or entities. The first two months after go-live are free; after that, care plans start at ${P.care}. We also monitor rejection rates so problems are fixed before filing.` },
     { question: "Can you give tax advice on InvoiceNow?", answer: "No. We explain what the published IRAS guidance says so you can brief your adviser, and we build what your accountant approves. Decisions about your implementation phase, GST category codes, treatment of particular transactions and exclusions belong to your business and its tax advisers." },
     { question: "How do we pay for InvoiceNow integration work?", answer: "You receive an itemised quote in USD, and invoices are issued from India. Payment is by Wise or bank wire, in milestones agreed in the quote before work starts, and nothing is billed until you approve it in writing. Ask your accountant how an overseas service invoice should be treated in your GST return." },
     { question: "Can InvoiceNow help with receiving supplier invoices too?", answer: `Yes. Supplier e-invoices arrive through your Access Point as structured data, and a connector can load them into your system for approval, removing manual entry. AI-assisted matching of incoming invoices against purchase orders and delivery records can be added from ${P.ai}, with your staff approving exceptions.` },

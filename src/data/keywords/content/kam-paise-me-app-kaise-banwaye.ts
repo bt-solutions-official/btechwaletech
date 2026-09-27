@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Chhota budget, samajhdaar app",
     h1: "Kam paise me app kaise banwaye: PWA, Android-first, Flutter aur chhote pehle version ka hisaab",
     lede: `Kam paise me app kaise banwaye, iska jawab paanch faislon mein hai: pehle PWA ya website se idea parkhiye, sirf Android se launch kijiye, Flutter ya React Native jaisa ek-code framework lijiye, pehle version mein sirf 4–5 zaroori features rakhiye, aur sasti template app ke chhupe khatron ko samajhiye. Hum teen freelance developers hain; Android aur iOS app ${P.app} se banate hain. Poora kharcha samajhna ho toh <a href='/app-banane-me-kitna-kharcha/'>app banane me kitna kharcha</a> padhiye.`,
-    pills: [`App ${P.app} se`, "PWA ya website pehle", "Sirf Android launch", "Flutter ya React Native", "Chhota pehla version", "Code aur accounts aapke naam", "5 mahine free maintenance"],
+    pills: [`App ${P.app} se`, "PWA ya website pehle", "Sirf Android launch", "Flutter ya React Native", "Chhota pehla version", "Code aur accounts aapke naam", "2 mahine free maintenance"],
     origin: "Teen freelance developers, India se remote · WhatsApp par saaton din jawab, IST",
   },
   facts: [
@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Website se shuruaat", `${P.site} se`],
     ["Google Play fee", "US$25 ek baar"],
     ["Apple fee", "US$99 har saal"],
-    ["Launch ke baad", "5 mahine free maintenance"],
+    ["Launch ke baad", "2 mahine free maintenance"],
   ],
   stats: [
     { value: "1", label: "Code se Android aur iOS, Flutter ya React Native" },
     { value: "2", label: "Working din mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Mahine free maintenance launch ke baad" },
     { value: "0", label: "Platform ya middleman fee" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp automation se shuruaat", note: `Booking, order ya reminders WhatsApp par hi. Kai businesses ke liye app se pehle yahi kaafi. AI automation ${P.ai} se.`, href: "/whatsapp-chatbot-vs-app/", size: "md" },
       { name: "Google Sheets se chhota tool", note: "Staff ke andar ke kaam ke liye AppSheet ya Sheets par tool, poore app se pehle.", href: "/appsheet-developer/", size: "sm" },
       { name: "Template app ki jaanch", note: "Kharidne se pehle code, license aur target API ki jaanch karwaiye.", href: "/readymade-app-vs-custom-app/", size: "sm" },
-      { name: "Maintenance", note: `5 mahine free, phir ${P.care} se, ya code lekar khud sambhaliye.`, href: "/mobile-app-maintenance-services/", size: "sm" },
+      { name: "Maintenance", note: `2 mahine free, phir ${P.care} se, ya code lekar khud sambhaliye.`, href: "/mobile-app-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Aapke hisaab se badlav", "Mushkil aur mehenga", "Haan", "Haan, quote mein din ke saath"],
       ["Backend aur admin", "Seller ke server par ho sakta hai", "Kabhi shaamil, kabhi nahi", "Aapke naam ke server par"],
       ["Store testing aur review", "Aapki zimmedari", "Anubhav par depend", "Plan mein shaamil"],
-      ["Launch ke baad", "Seller ka support plan", "Freelancer uplabdh ho toh", "5 mahine free, phir plan"],
+      ["Launch ke baad", "Seller ka support plan", "Freelancer uplabdh ho toh", "2 mahine free, phir plan"],
       ["Platform fees", "Nahi", "Marketplace ki fees", "Koi middleman fee nahi"],
       ["Kab sahi", "Idea test, standard kaam", "Chhota, saaf kaam", "Business app jo aage badhna hai"],
     ],
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Kam budget mein app ka price kaise tay hota hai",
-    note: `Android aur iOS app ${P.app} se shuru hota hai. Price screens, user types, integrations aur admin panel ke kaam se badhta hai, isliye budget bachane ka asli tareeka scope chhota karna hai, developer se mol-bhaav nahi. PWA ya web app ${P.software} se, aur idea parakhne ke liye landing page ya website ${P.site} se. Quote mein har feature alag line mein hota hai, taaki aap dekh sakein ki kaunsa feature kitna le raha hai aur use doosre release mein daal sakein. Google Play (US$25 ek baar) aur Apple (US$99 saalana) ki fees aap seedhe unhe dete hain. Launch ke baad 5 mahine maintenance free, phir ${P.care} se.`,
+    note: `Android aur iOS app ${P.app} se shuru hota hai. Price screens, user types, integrations aur admin panel ke kaam se badhta hai, isliye budget bachane ka asli tareeka scope chhota karna hai, developer se mol-bhaav nahi. PWA ya web app ${P.software} se, aur idea parakhne ke liye landing page ya website ${P.site} se. Quote mein har feature alag line mein hota hai, taaki aap dekh sakein ki kaunsa feature kitna le raha hai aur use doosre release mein daal sakein. Google Play (US$25 ek baar) aur Apple (US$99 saalana) ki fees aap seedhe unhe dete hain. Launch ke baad 2 mahine maintenance free, phir ${P.care} se.`,
   },
   guideLabel: "Kam budget app guide",
   guide: [
@@ -204,7 +204,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Sasta quote aksar sirf banane ka hota hai. Chalane ke kharche alag hain: server ka mahine ka bill, OTP SMS, maps ya payment provider ke charges, store fees, aur har saal OS updates ke hisaab se app ka sudhaar. Kam paise me app banwane ke liye inhe bhi pehle din se ginna zaroori hai.`,
         `Google Play ek baar US$25 leta hai aur Apple har saal US$99; yeh aap seedhe unhe dete hain. Har OTP SMS ka paisa lagta hai, isliye login session lamba rakhna ek chhoti bachat hai. Maps ki API badi gin-ti mein mehengi ho sakti hai, isliye pehle version mein sirf address text aur "Google Maps mein kholiye" ka link kaafi ho sakta hai. Server ka bill users aur images ke saath badhta hai; images compress karna aur sahi size ka server chunna shuru se zaroori hai.`,
-        `Maintenance ek aur kharcha hai jo log bhool jaate hain. Har saal naye Android aur iOS versions aate hain, aur store ke niyam badalte hain. Humare saath launch ke baad 5 mahine maintenance free hai, phir plan ${P.care} se, ya aap code lekar kisi aur ko de sakte hain. Poora hisaab <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a> par hai.`,
+        `Maintenance ek aur kharcha hai jo log bhool jaate hain. Har saal naye Android aur iOS versions aate hain, aur store ke niyam badalte hain. Humare saath launch ke baad 2 mahine maintenance free hai, phir plan ${P.care} se, ya aap code lekar kisi aur ko de sakte hain. Poora hisaab <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a> par hai.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Accounts aapke naam", "Play Console, server aur zaroorat ho toh Apple account aapke naam par. Hum screen share par setup mein madad karte hain aur testers ki list banwate hain."],
       ["Hafte ke test builds", "Har hafte ek build aapke phone par. Sasta Android phone par bhi jaanch. Closed testing pehle chalte build ke saath shuru, taaki intezaar build ke saath chale."],
       ["Store launch", "Privacy policy, Data safety, listing aur screenshots ke saath submit. Review mein koi sawaal aaye toh hum jawab aur sudhaar sambhalte hain."],
-      ["Launch aur agla phase", "5 mahine maintenance free. Users ke data se tay karte hain ki doosre release mein kya aayega, aur uska alag quote milta hai."],
+      ["Launch aur agla phase", "2 mahine maintenance free. Users ke data se tay karte hain ki doosre release mein kya aayega, aur uska alag quote milta hai."],
     ],
   },
   faqHeading: "Kam budget app ke sawaal",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Kam budget mein app ke kaunse features kaatne chahiye?", answer: "Pehle version se wallet, referral, loyalty points, live chat, live tracking, coupons ke complex niyam aur extra bhashayein kaatiye. Inke saste roop rakhiye: chat ki jagah WhatsApp button, tracking ki jagah status notification, reviews ke liye Google link. Login, main kaam ka flow, confirmation aur admin panel mat kaatiye; inke bina app ka kaam nahi hota." },
     { question: "How can a first-time founder build an app on a small budget?", answer: "Validate before you build: a landing page and a WhatsApp number shared with real prospects for a couple of weeks tell you whether people want the service and what they ask. Then build an Android-first version in Flutter or React Native with four or five features, keep accounts in your name, and plan each later phase as a separate quote." },
     { question: "Is Flutter or React Native cheaper than native apps?", answer: "Usually yes for business apps, because one codebase produces both the Android and iOS apps, so features, bug fixes and yearly OS updates happen once instead of twice. Native Kotlin and Swift apps make sense when an app needs heavy graphics, special hardware or a brand-new platform feature. For booking, ordering and catalogue apps, cross-platform is enough." },
-    { question: "What costs come after the app is built?", answer: "Server hosting that grows with users and images, OTP SMS for logins, charges from payment or maps providers if used, the one-time US$25 Google Play fee and the US$99 yearly Apple fee, and yearly updates for new Android and iOS versions. The first five months of maintenance are free with us; after that a plan starts from the price on our pricing page." },
+    { question: "What costs come after the app is built?", answer: "Server hosting that grows with users and images, OTP SMS for logins, charges from payment or maps providers if used, the one-time US$25 Google Play fee and the US$99 yearly Apple fee, and yearly updates for new Android and iOS versions. The first two months of maintenance are free with us; after that a plan starts from the price on our pricing page." },
     { question: "Can WhatsApp automation replace an app for a small business?", answer: "For bookings, orders, reminders and status updates, often yes, because customers already use WhatsApp daily and do not need to install anything. It falls short when customers need to browse large catalogues, view their own history or documents, or when you handle a very large number of daily orders. Many businesses start on WhatsApp and add an app later." },
     { question: "Who owns a low-budget app built by your team?", answer: "You do, the same as any other project. The Play Console account, any Apple account, the server and the code repository are in your name, and at handover you get logins and a short note on how things run. A cheap app is only cheap if you can update it or move it to another developer later." },
     { question: "How long does a low-budget app take to build?", answer: "A small first version with four or five features usually sits at the shorter end of our six-to-ten-week app timeline. A new personal Google Play account also needs a closed test with at least 12 testers for 14 continuous days before production, so starting that during the build saves time. A PWA skips store review altogether." },

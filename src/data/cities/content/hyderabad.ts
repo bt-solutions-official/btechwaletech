@@ -7,7 +7,7 @@ const hyderabad: CityContent = {
   meta: {
     title: "IT Services in Hyderabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu and English SEO, online stores, pharma catalogues and AI automation for Hyderabad businesses. From ₹10,000 with 5 months of free maintenance.",
+      "Websites, Telugu and English SEO, online stores, pharma catalogues and AI automation for Hyderabad businesses. From ₹10,000 with 2 months of free maintenance.",
     keywords: [
       "website development team in Hyderabad",
       "web design team Hyderabad",
@@ -31,11 +31,11 @@ const hyderabad: CityContent = {
     eyebrow: "Hyderabad · Telangana",
     h1: "Websites, SEO and AI automation for Hyderabad businesses, old city to HITEC City",
     lede:
-      "A remote team of three engineers building websites, product catalogues, online stores and AI workflows for Hyderabad's pharma suppliers, tech firms, clinics, restaurants, jewellers and coaching institutes. Our prices are published, you work directly with the developers, and the first five months of maintenance after launch are free.",
+      "A remote team of three engineers building websites, product catalogues, online stores and AI workflows for Hyderabad's pharma suppliers, tech firms, clinics, restaurants, jewellers and coaching institutes. Our prices are published, you work directly with the developers, and the first two months of maintenance after launch are free.",
     pills: ["Websites from ₹10,000", "Telugu and English SEO", "Pharma product catalogues", "UPI checkout stores", "AI agents from ₹40,000"],
   },
   quickAnswer:
-    "For Hyderabad businesses, our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000, usually delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Hyderabad office, and every project includes five months of free maintenance.",
+    "For Hyderabad businesses, our static websites start at ₹10,000 and 299+ page SEO websites at ₹20,000, usually delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Hyderabad office, and every project includes two months of free maintenance.",
   snapshot: [
     { label: "Tech districts", value: "HITEC City, Madhapur, Gachibowli, Kondapur, Nanakramguda Financial District and Kokapet" },
     { label: "Life sciences", value: "Genome Valley near Shamirpet, and bulk-drug clusters at Patancheru, Bollaram and Pashamylaram" },
@@ -52,10 +52,10 @@ const hyderabad: CityContent = {
     ai: "AI assistants and workflow automation that answer routine questions in Telugu, Hindi, Urdu or English and route the rest to your team.",
     data: "Dashboards that pull sales, stock and batch data from Tally, ERP or spreadsheets into one view, built by an engineer who works in data every day.",
     app: "Android and iOS apps for bookings, deliveries and field sales that run on low-cost phones, built once and listed on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and uptime monitoring, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and uptime monitoring, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Hyderabad has web firms on every floor of every building in Madhapur and Ameerpet, and very few publish prices. We do. You deal with three named engineers, get an itemised quote within about two working days, receive replies on WhatsApp all week, and get five months of free maintenance after launch.",
+    "Hyderabad has web firms on every floor of every building in Madhapur and Ameerpet, and very few publish prices. We do. You deal with three named engineers, get an itemised quote within about two working days, receive replies on WhatsApp all week, and get two months of free maintenance after launch.",
   pricingIntro:
     "Hyderabad quotes for the same website can differ by a factor of ten, and it is rarely clear why. These are our real starting prices. Your final cost depends on pages, products and integrations, and you see it item by item before we start.",
   sections: [
@@ -174,11 +174,11 @@ const hyderabad: CityContent = {
     },
     {
       id: "ownership-hyderabad",
-      heading: "Ownership, handover and five free months of maintenance",
+      heading: "Ownership, handover and two free months of maintenance",
       paragraphs: [
         "Many older Hyderabad websites are effectively orphaned. The developer registered the domain in his own name, the hosting is on an account nobody can open, and when the renewal lapses the site and sometimes the business email go with it. Getting control back can take weeks.",
         "We avoid this from day one. The domain is registered in your name, hosting sits in your own account, and at launch you receive every login, the source code and a short explanation of how everything connects. You can move to another developer at any time without an exit fee.",
-        "Maintenance for the first five months after launch is free: content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when needed.",
+        "Maintenance for the first two months after launch is free: content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
     {
@@ -279,7 +279,7 @@ const hyderabad: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or on request when you need changes.",
+        "For two months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or on request when you need changes.",
     },
     {
       question: "What do you need from me to start?",

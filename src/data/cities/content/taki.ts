@@ -56,7 +56,7 @@ const taki: CityContent = {
     ai: "A WhatsApp assistant that tells visitors room rates, boat timings and directions from Taki Road station in Bengali, and hands real bookings to you.",
     data: "Weekend-by-weekend occupancy, boat trips and festival-week demand laid out on one screen, so you plan staff and stock before the rush.",
     app: "Android and iOS apps for a tuition centre's parents or a lodge's repeat guests, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for rate changes before Puja, backups and security updates.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for rate changes before Puja, backups and security updates.",
   },
   whyUsIntro:
     "Taki is a small place where people know who did a job and whether it lasted. We keep things plain: starting prices are published, the quote comes itemised in writing, WhatsApp gets an answer every day of the week, and your domain, hosting, code and store accounts sit in your own name from the first day.",
@@ -177,7 +177,7 @@ const taki: CityContent = {
       heading: "Who owns your website and app, and how upkeep works",
       paragraphs: [
         "Everything we build belongs to you. The domain is registered with your email, the hosting account carries your name, the source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts list you as owner. At handover you get a written sheet of every login. No one, including us, should be able to hold your website to ransom.",
-        "For five months after launch, maintenance costs nothing. In that period we change rates before the Puja season, update photographs, take backups, apply security updates and test that forms, payment and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, look after it yourself, or give the code to another developer, with no permission needed from us.",
+        "For two months after launch, maintenance costs nothing. In that period we change rates before the Puja season, update photographs, take backups, apply security updates and test that forms, payment and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, look after it yourself, or give the code to another developer, with no permission needed from us.",
         "Apps need an update at least once a year even when nothing is broken, because Google and Apple raise their minimum requirements. We track those deadlines and release the update in time, so your app is not removed from the store. More on our <a href=\"/services/web-development/\">web development service</a>, or <a href=\"/contact/\">message us</a> with a line about your business.",
       ],
     },
@@ -260,7 +260,7 @@ const taki: CityContent = {
     {
       question: "What maintenance do you provide after the site goes live?",
       answer:
-        "The first five months after launch are free: rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or take the work elsewhere. Since the code and accounts already belong to you, switching needs no permission from us.",
+        "The first two months after launch are free: rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or take the work elsewhere. Since the code and accounts already belong to you, switching needs no permission from us.",
     },
     {
       question: "Do you also work in Hasnabad, Basirhat and Hingalganj?",

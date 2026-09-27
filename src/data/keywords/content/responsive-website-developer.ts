@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Smallest width tested", "320 CSS pixels"],
     ["Device checks", "Real Android phones, iPhone, tablet, laptop"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and test your site" },
     { value: "100", label: "Pages included in the static plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
   ],
   answer: {
     heading: "What does a responsive website developer do?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Large SEO site, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Testing", value: "Real phones, tablets, laptops and slow networks" },
       { label: "Ownership", value: "Domain, hosting and code in your name" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
         ["Responsive online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Responsive web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Retrofit of an existing site", "Quoted per template after review", "Quoted per template after review", "Depends on code quality"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
       ["Small-screen designs first", "You receive phone-width designs on a staging link to open on your own device, followed by tablet and desktop versions."],
       ["Build and real-device testing", "We build the templates, then test on budget and recent Android phones, iPhone, tablets and laptops across major browsers and slow networks."],
       ["Launch with URLs protected", "Domain, SSL and Search Console are set up in your name. On redesigns, old addresses are kept or redirected so search traffic carries over."],
-      ["Five months of free fixes", "If any device shows a problem after launch, we fix it free for five months. Then optional maintenance starts at " + P.care + "."],
+      ["Two months of free fixes", "If any device shows a problem after launch, we fix it free for two months. Then optional maintenance starts at " + P.care + "."],
     ],
   },
   faqHeading: "Responsive website developer: common questions",
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
     { question: "What do you need from me to start a responsive website project?", answer: "For a new site: your business goal, page list, logo, text and photos if you have them, and a few sites you like. For a fix: your website link, hosting access and screenshots of what breaks on your phone. A short WhatsApp message or voice note is enough to begin; we ask follow-up questions." },
     { question: "How do I pay for a responsive website?", answer: "Payments are made in stages linked to visible progress, such as approved designs and a finished staging site. In India you pay by UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal. Nothing is billed until you approve the itemised quote in writing." },
     { question: "Mobile-friendly website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath har nayi website responsive hi banti hai, iske liye alag charge nahi hai. Business website ${P.site} se shuru hoti hai aur 1–2 hafte mein ready hoti hai. Purani website ko mobile-friendly banana ho toh pehle review karke template ke hisaab se quote dete hain.` },
-    { question: "Do you provide support after a responsive website launches?", answer: `Yes. Five months of free maintenance after launch cover fixes for any device or browser issue, small content changes, updates and backups. After that, maintenance is optional and starts at ${P.care}. You can also manage the site yourself using the handover notes or pass it to another developer.` },
+    { question: "Do you provide support after a responsive website launches?", answer: `Yes. Two months of free maintenance after launch cover fixes for any device or browser issue, small content changes, updates and backups. After that, maintenance is optional and starts at ${P.care}. You can also manage the site yourself using the handover notes or pass it to another developer.` },
   ],
   related: {
     heading: "Related pages on web design, speed and mobile",
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a website that works on every phone?",
-    note: `Send us your current site or your idea on WhatsApp. You will get an itemised quote in about two working days, with responsive websites from ${P.site}, real-device testing, accounts in your name and five months of free maintenance.`,
+    note: `Send us your current site or your idea on WhatsApp. You will get an itemised quote in about two working days, with responsive websites from ${P.site}, real-device testing, accounts in your name and two months of free maintenance.`,
   },
 };
 

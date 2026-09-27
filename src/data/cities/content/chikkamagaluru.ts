@@ -35,7 +35,7 @@ const chikkamagaluru: CityContent = {
     pills: ["Sites from ₹10,000", "Estate coffee stores", "Kannada and English", "Homestay direct bookings", "Pages for Malnad networks"],
   },
   quickAnswer:
-    "Chikkamagaluru businesses can get a website from ₹10,000, usually live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, estate coffee stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Chikkamagaluru office, and five months of maintenance are free after launch.",
+    "Chikkamagaluru businesses can get a website from ₹10,000, usually live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, estate coffee stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Chikkamagaluru office, and two months of maintenance are free after launch.",
   snapshot: [
     { label: "Region", value: "Malnad foothills of the Western Ghats, about 1,090 m above sea level" },
     { label: "Coffee heritage", value: "Baba Budangiri, nearby, is traditionally credited as where coffee was first grown in India" },
@@ -52,10 +52,10 @@ const chikkamagaluru: CityContent = {
     ai: "WhatsApp assistants that answer booking, directions and product questions in Kannada or English and pass tricky ones to you.",
     data: "Dashboards linking harvest lots, curing returns and sales, or bookings by season and source for stays.",
     app: "Android and iOS apps for estate writers and supervisors who record work in areas with poor mobile signal, syncing later, from ₹40,000.",
-    maintenance: "Free fixes, updates and backups for five months; ongoing maintenance starts from ₹8,000 a month.",
+    maintenance: "Free fixes, updates and backups for two months; ongoing maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Chikkamagaluru owners often end up choosing between Bengaluru agencies that price for city clients and part-timers who stop answering. We publish starting prices, write for coffee buyers and travellers, keep everything in your name, reply on WhatsApp seven days a week and maintain your site free for five months.",
+    "Chikkamagaluru owners often end up choosing between Bengaluru agencies that price for city clients and part-timers who stop answering. We publish starting prices, write for coffee buyers and travellers, keep everything in your name, reply on WhatsApp seven days a week and maintain your site free for two months.",
   pricingIntro:
     "These prices are where Chikkamagaluru projects begin. A single homestay and a planter selling six coffees with subscriptions need very different work, and your quote shows the reasons item by item. You pay nothing until you approve that quote in writing.",
   sections: [
@@ -219,7 +219,7 @@ const chikkamagaluru: CityContent = {
       heading: "Ownership and care after the site goes live",
       paragraphs: [
         "Many Chikkamagaluru businesses have had a website disappear because the domain was booked by a developer who later vanished. We make sure that cannot happen. The domain and hosting are in your name, every login is handed over at launch and the code is yours.",
-        "For five months after launch we provide free updates, fixes, security patches, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when changes are needed. There is no exit fee if you move to another developer, and we leave a simple handover note.",
+        "For two months after launch we provide free updates, fixes, security patches, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when changes are needed. There is no exit fee if you move to another developer, and we leave a simple handover note.",
         "Our <a href=\"/services/web-development/\">web development page</a> explains each type of build.",
       ],
     },
@@ -300,7 +300,7 @@ const chikkamagaluru: CityContent = {
         "You do. Domain and hosting are registered in your name, all logins are handed over at launch and the code is yours. You can move to another developer at any time with no exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "During those months we cover updates, fixes, security, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can pay only when you need changes. There is no lock-in.",
     },

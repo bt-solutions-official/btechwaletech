@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical app timeline", "6–10 weeks to both stores"],
     ["Reminders", "WhatsApp, SMS or push, your choice"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Core features", value: "Services, staff, slots, reminders, cancellations, deposits" },
       { label: "Who owns it", value: "You: store accounts, server, code, customer data" },
       { label: "Payment to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       heading: "Booking app banwana hai? Simple bhasha mein",
       paragraphs: [
         `Agar aapke customers baar baar aate hain, jaise salon, clinic, gym ya tuition, to booking app se phone calls kam honge aur no-show bhi ghatenge. Customer service chunega, staff chunega, khaali slot par booking karega, aur WhatsApp par reminder aayega. Chahein to UPI se advance bhi le sakte hain.`,
-        `Hamare saath booking app ${P.app} se shuru hota hai aur 6 se 10 hafte lagte hain. Sirf web booking chahiye to ${P.software} se. Play Store aur App Store account aapke naam par, customer data bhi aapka. Launch ke baad 5 mahine maintenance free hai. Aur jaankari ke liye <a href='/app-banwana-hai/'>app banwana hai</a> padhiye.`,
+        `Hamare saath booking app ${P.app} se shuru hota hai aur 6 se 10 hafte lagte hain. Sirf web booking chahiye to ${P.software} se. Play Store aur App Store account aapke naam par, customer data bhi aapka. Launch ke baad 2 mahine maintenance free hai. Aur jaankari ke liye <a href='/app-banwana-hai/'>app banwana hai</a> padhiye.`,
       ],
     },
     {
@@ -302,7 +302,7 @@ const content: FreelanceContent = {
         ["Web booking system with admin panel", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["WhatsApp booking assistant", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Business website with enquiry-based booking", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
       ["Design both sides", "Customer screens and the reception or staff view are designed together, because a booking system fails if reception finds it slower than the diary."],
       ["Build and test with real schedules", "We load your actual staff and services and let reception use test builds for daily bookings while the old method continues in parallel."],
       ["Publish and switch over", "Store listings go live under your accounts. We suggest a soft launch to regular customers before announcing it widely."],
-      ["Support and improve", "Five months of free maintenance, then optional monthly support. Version-two features are planned from real booking data, not guesses."],
+      ["Support and improve", "Two months of free maintenance, then optional monthly support. Version-two features are planned from real booking data, not guesses."],
     ],
   },
   faqHeading: "Booking app developer: frequently asked questions",
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
     { question: "Can walk-in and phone bookings go into the same system?", answer: "Yes, and they should. The reception screen lets staff add walk-ins and phone bookings into the same calendar customers book from, so availability is always accurate. Reception can also block time, mark arrivals and no-shows, and move appointments when a staff member is unavailable." },
     { question: "Can the booking app sync with Google Calendar?", answer: "Yes. Staff bookings can appear in their own Google Calendar so they see their day on their phones. We usually make the booking system the source of truth and send bookings out to calendars, because two-way editing from many calendars creates conflicts that are hard to resolve." },
     { question: "Will Apple accept a simple booking app on the App Store?", answer: "Apple rejects apps that are just a website inside an app wrapper. A booking app that offers native features such as saved favourites, booking history, packages and reminders is generally fine. If you only need booking without those features, a web booking page or installable web app avoids App Store review entirely." },
-    { question: "What does maintenance include after the booking app launches?", answer: `The first five months after launch include free maintenance: bug fixes, small changes and help with app store notices. After that, maintenance starts at ${P.care} a month and covers library and operating system updates, server upkeep, backups and minor edits. New features are quoted separately.` },
+    { question: "What does maintenance include after the booking app launches?", answer: `The first two months after launch include free maintenance: bug fixes, small changes and help with app store notices. After that, maintenance starts at ${P.care} a month and covers library and operating system updates, server upkeep, backups and minor edits. New features are quoted separately.` },
     { question: "Booking app banwane mein kitna kharcha aata hai?", answer: `Hamare saath booking app ${P.app} se shuru hota hai aur lagbhag 6 se 10 hafte lagte hain. Sirf website par booking chahiye to ${P.software} se, aur WhatsApp par booking ke liye ${P.ai} se. Final kharcha staff, branches, advance payment aur features par depend karta hai.` },
     { question: "Can you add online booking to my existing website?", answer: "Yes. We can add a booking page to your current site that talks to a new booking backend, or embed a booking flow on your service pages. If your site is very old or slow, we may suggest a rebuild, but many sites can simply link to or embed the new booking system." },
     { question: "Can the booking system handle multiple branches?", answer: "Yes. Each branch has its own services, staff and hours, while customers see one app and choose their branch or the nearest one. Staff who work at more than one branch have shifts per location, so they are never offered in two places at once. Reports can be viewed per branch or combined." },
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a booking app developer? Tell us how you book today",
-    note: `Send us on WhatsApp your services, staff count and how bookings reach you now. We reply with a channel recommendation and an itemised quote in about two working days. Booking apps start at ${P.app}, web booking at ${P.software}, and the first five months of maintenance are free.`,
+    note: `Send us on WhatsApp your services, staff count and how bookings reach you now. We reply with a channel recommendation and an itemised quote in about two working days. Booking apps start at ${P.app}, web booking at ${P.software}, and the first two months of maintenance are free.`,
   },
 };
 

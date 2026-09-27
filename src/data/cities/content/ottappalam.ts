@@ -55,7 +55,7 @@ const ottappalam: CityContent = {
     ai: "WhatsApp assistants in Malayalam and English that answer booking, fee, stock and appointment questions and pass real decisions back to you.",
     data: "Dashboards of orders by client, jobs pending at each machine, admissions by course and room bookings by month.",
     app: "Android and iOS apps for clinic tokens, student updates or repeat orders from shops across the taluk, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Ottappalam customers read the fine print, and they are right to. We give them fine print worth reading: public starting prices, an itemised written quote, WhatsApp replies every day of the week, and the domain, hosting, source code and app store accounts registered in the client's own name. If a feature is unlikely to repay its cost, we say that before you commit.",
@@ -175,7 +175,7 @@ const ottappalam: CityContent = {
       heading: "Ownership and maintenance for Ottappalam websites and apps",
       paragraphs: [
         "Everything we build for you is yours. The domain is on your email, hosting is billed in your name, you receive the full source code, and your Google Business Profile and Google Play and Apple developer accounts name you as the owner. At handover we give you a written list of every login, so nobody, including us, can lock you out later.",
-        "Launch is followed by five months in which upkeep is on the house. Menu and tariff changes, new photographs, scheduled backups, plugin and framework patches, and periodic test runs of the enquiry form, checkout and chat buttons are all covered. When that window closes, three routes are open: a support plan with us at ₹8,000 a month onwards, doing it yourselves, or passing the repository to a developer of your choice.",
+        "Launch is followed by two months in which upkeep is on the house. Menu and tariff changes, new photographs, scheduled backups, plugin and framework patches, and periodic test runs of the enquiry form, checkout and chat buttons are all covered. When that window closes, three routes are open: a support plan with us at ₹8,000 a month onwards, doing it yourselves, or passing the repository to a developer of your choice.",
         "Mobile apps have an extra chore. Each year Google Play and Apple lift the minimum system version they will accept, and an app left untouched is eventually hidden from the store. We note those cut-off dates and push a rebuild well ahead of them. Seasonal businesses benefit from a quick review too: colleges ahead of admissions, snack and payasam-mix sellers ahead of Onam.",
       ],
     },
@@ -267,7 +267,7 @@ const ottappalam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep come free after go-live, covering tariff and photo edits, backups, patches and test runs of forms, checkout and chat buttons. From month six you may keep a support plan with us at ₹8,000 a month onwards, or end it. Every login and the full repository are already in your hands, so another developer can take over without asking us.",
+        "Two months of upkeep come free after go-live, covering tariff and photo edits, backups, patches and test runs of forms, checkout and chat buttons. From month three you may keep a support plan with us at ₹8,000 a month onwards, or end it. Every login and the full repository are already in your hands, so another developer can take over without asking us.",
     },
     {
       question: "Do you work in Shoranur, Lakkidi and Cherpulassery too?",

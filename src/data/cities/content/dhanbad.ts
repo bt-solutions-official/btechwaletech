@@ -31,11 +31,11 @@ const dhanbad: CityContent = {
     eyebrow: "Dhanbad · Jharkhand",
     h1: "Web development, SEO and business software for Dhanbad firms",
     lede:
-      "Three engineers building websites, dashboards and WhatsApp workflows for Dhanbad's mining contractors, hard coke and refractory units, transporters, hospitals, jewellers and coaching institutes. We work remotely, quote in writing, and hand you full ownership of the domain, hosting and code. The first five months of maintenance after launch are free.",
+      "Three engineers building websites, dashboards and WhatsApp workflows for Dhanbad's mining contractors, hard coke and refractory units, transporters, hospitals, jewellers and coaching institutes. We work remotely, quote in writing, and hand you full ownership of the domain, hosting and code. The first two months of maintenance after launch are free.",
     pills: ["Websites from ₹10,000", "Supplier and capability pages", "Fleet and order dashboards", "Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Dhanbad, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page SEO site built over three to five weeks. Custom dashboards and web apps start at ₹60,000. We are a remote three-engineer team with no local office, and every launch includes five months of free maintenance.",
+    "In Dhanbad, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page SEO site built over three to five weeks. Custom dashboards and web apps start at ₹60,000. We are a remote three-engineer team with no local office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Commercial centres", value: "Bank More, Hirapur, Saraidhela, Luby Circular Road, Bartand and the old Jharia market" },
     { label: "Mining", value: "Headquarters of Bharat Coking Coal Limited at Koyla Bhawan, Koyla Nagar, with operating areas across the Jharia coalfield" },
@@ -52,7 +52,7 @@ const dhanbad: CityContent = {
     ai: "WhatsApp assistants that sort tender queries, spare part requests and patient appointments before a staff member ever picks up the phone.",
     data: "Dashboards that pull together trip sheets, diesel logs, invoices and outstanding payments so an owner can see the whole business on one screen.",
     app: "Android and iOS apps for site supervisors and drivers to log trips, photos and attendance from the field, even on a weak signal, from ₹40,000.",
-    maintenance: "Updates, backups and security patching free for five months after launch, then from ₹8,000 a month or on request.",
+    maintenance: "Updates, backups and security patching free for two months after launch, then from ₹8,000 a month or on request.",
   },
   whyUsIntro:
     "Plenty of Dhanbad businesses have a website that was made once for a tender application and never touched again. We build sites that keep earning after launch, publish our starting prices openly, reply on WhatsApp seven days a week and give you every login from day one, so the site never depends on one person's goodwill.",
@@ -182,11 +182,11 @@ const dhanbad: CityContent = {
     },
     {
       id: "ownership-maintenance-dhanbad",
-      heading: "Your domain, your hosting, your code, plus five free months of upkeep",
+      heading: "Your domain, your hosting, your code, plus two free months of upkeep",
       paragraphs: [
         "A common Dhanbad story: a developer built the site years ago, registered the domain under his own email, and has since moved on. The business cannot renew the domain, change a phone number or fix an expired security certificate. We have seen suppliers lose tender-ready websites this way.",
         "With us, the domain and hosting are in your name from the start. On launch day you receive every login and a short note explaining how the site is put together. The code is yours to keep or hand to another developer at any time, with no fee.",
-        "Maintenance for the first five months after launch is free and covers content changes, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you can call on us only when needed. To get started, <a href=\"/contact/\">tell us about your business</a> and we will reply with a plan.",
+        "Maintenance for the first two months after launch is free and covers content changes, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you can call on us only when needed. To get started, <a href=\"/contact/\">tell us about your business</a> and we will reply with a plan.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const dhanbad: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content edits, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle content edits, bug fixes, security and software updates, backups and uptime monitoring at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Can you redesign an old website without losing its Google traffic?",

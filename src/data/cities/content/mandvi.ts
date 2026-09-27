@@ -56,7 +56,7 @@ const mandvi: CityContent = {
     ai: "WhatsApp assistants that answer room rates, tour timings and product questions in Gujarati, Hindi or English and hand serious buyers straight to you.",
     data: "Dashboards showing tourist-season bookings, dispatches by buyer and destination, and sales by product and month.",
     app: "Android and iOS apps for resort bookings, activity check-ins or dealer re-orders, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of upkeep after launch, then ₹8,000 a month onwards for edits, backups and security patches through the tourist season.",
+    maintenance: "Two free months of upkeep after launch, then ₹8,000 a month onwards for edits, backups and security patches through the tourist season.",
   },
   whyUsIntro:
     "Mandvi's trading families have kept careful written accounts for centuries, and they expect the same from anyone they hire. You get a line-by-line quote, a clear timeline and replies on WhatsApp seven days a week. The domain, hosting, code and store accounts are registered to you, and we tell you plainly when something is not worth paying for.",
@@ -182,7 +182,7 @@ const mandvi: CityContent = {
       heading: "Ownership and maintenance for Mandvi websites and apps",
       paragraphs: [
         "Everything we build is registered to you from the first day. The domain is booked on your email, hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts list you as owner. At the end you receive one document that records every login and where it lives.",
-        "The first five months after launch cost nothing for upkeep. In that period we change rates before the season, add new photographs, take backups, apply security and version updates, and test forms, checkout and WhatsApp links. Afterwards, maintenance starts at ₹8,000 a month if you want us to carry on, or you can manage it yourself or hand it to another developer with no lock-in.",
+        "The first two months after launch cost nothing for upkeep. In that period we change rates before the season, add new photographs, take backups, apply security and version updates, and test forms, checkout and WhatsApp links. Afterwards, maintenance starts at ₹8,000 a month if you want us to carry on, or you can manage it yourself or hand it to another developer with no lock-in.",
         "Apps need care even when nothing is broken, because Google and Apple raise their minimum requirements every year. We track those deadlines and update the app before the stores flag it, so bookings and orders keep flowing during the busiest weeks of the tourist season.",
       ],
     },
@@ -274,7 +274,7 @@ const mandvi: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: rate and photo updates, backups, security patches and regular checks of forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month, look after the site yourself or move to another developer. Nothing is locked, because every account is already yours.",
+        "The first two months after launch are free: rate and photo updates, backups, security patches and regular checks of forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month, look after the site yourself or move to another developer. Nothing is locked, because every account is already yours.",
     },
     {
       question: "Do you work with businesses in Bhuj, Mundra and the Mandvi taluka villages?",

@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Silchar · Cachar · Barak Valley, Assam",
     h1: "Hire freelance software developers in Silchar for billing, healthcare, tea and Barak Valley trade",
     lede:
-      "BtechWaleTech lets Silchar businesses hire freelance software developers instead of a large software development company: three independent engineers, working remotely from India, who build billing and inventory systems, hospital queue tools, tea garden payroll, Bengali-language AI assistants, apps, dashboards and search-ready websites for the Barak Valley. Starting prices are public and maintenance is free for five months.",
+      "BtechWaleTech lets Silchar businesses hire freelance software developers instead of a large software development company: three independent engineers, working remotely from India, who build billing and inventory systems, hospital queue tools, tea garden payroll, Bengali-language AI assistants, apps, dashboards and search-ready websites for the Barak Valley. Starting prices are public and maintenance is free for two months.",
     pills: ["Billing and stock software", "Bengali AI assistants", "Android & iOS apps from ₹40,000", "Websites from ₹10,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that understand Bengali, Hindi and English messages and answer routine questions on WhatsApp or your website.",
     data: "Dashboards that turn billing and stock data into daily views of sales, dues and slow-moving items by party and by state.",
     app: "Android and iOS apps for Silchar wholesalers, hospitals, delivery businesses and student services, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Five free months of maintenance after launch, then support from ₹8,000 a month for updates, fixes, backups and monitoring.",
+    maintenance: "Two free months of maintenance after launch, then support from ₹8,000 a month for updates, fixes, backups and monitoring.",
   },
   whyUsIntro:
     "Silchar owners often choose between a local provider who builds from a template and a Guwahati firm that rarely visits. We offer a different trade-off: a freelance group of three engineers who write the code themselves, publish prices, reply on WhatsApp every day and hand everything over at the end.",
@@ -137,7 +137,7 @@ const content: CityContent = {
         "Android and iOS app development in Silchar starts at ₹40,000 with BtechWaleTech and takes six to ten weeks. We build the app once in Flutter or React Native, publish it on Google Play and the Apple App Store under your accounts, and include login, forms, push notifications and an admin panel linked to your billing or booking data.",
         "The most useful apps in the Barak Valley serve people who order or visit repeatedly. A wholesaler in Janiganj can give retailers in Hailakandi, Sribhumi, Aizawl or Agartala a B2B catalogue app with their own rates, stock availability and one-tap reorders. A field sales app lets representatives book orders at the counter and sync later when the hill-route network returns. A delivery app groups city orders by area and records each drop with a photo.",
         "Healthcare and education apps are the other large group. A hospital or diagnostic centre can let patients book OPD slots, see their token number and download reports. A coaching centre can push batch changes and tests to students. Services around NIT Silchar and Assam University, such as tiffin or PG providers, can run subscriptions and payments through a simple app, with labels in Bengali and English.",
-        "An app is worth building only when people will open it often; otherwise a website or WhatsApp flow costs less and is easier to find. We tell you which fits before quoting. You own the store listings, code and admin panel, and the first five months of maintenance after launch are free.",
+        "An app is worth building only when people will open it often; otherwise a website or WhatsApp flow costs less and is easier to find. We tell you which fits before quoting. You own the store listings, code and admin panel, and the first two months of maintenance after launch are free.",
       ],
       list: [
         "B2B catalogue and reorder app for retailers in neighbouring states",
@@ -169,7 +169,7 @@ const content: CityContent = {
       id: "hosting-support-silchar",
       heading: "Hosting, deployment and remote IT support for Silchar projects",
       paragraphs: [
-        "Every Silchar project includes hosting set up in your name, SSL, backups, uptime monitoring and automated deployment, followed by five months of free maintenance. Websites run on fast static hosts; applications run on AWS or similar managed platforms with automatic backups.",
+        "Every Silchar project includes hosting set up in your name, SSL, backups, uptime monitoring and automated deployment, followed by two months of free maintenance. Websites run on fast static hosts; applications run on AWS or similar managed platforms with automatic backups.",
         "Power cuts and network interruptions are facts of life in many offices, which is one reason we prefer cloud-hosted web applications over software installed on a single office computer. Data stays safe and accessible from any device, and a failed hard disk does not wipe out years of records.",
         "Support is remote and covers the systems we build and host. After the free period, maintenance starts at ₹8,000 a month, or you can pay per change. For printers, CCTV or office networks, a local technician remains the right choice.",
       ],
@@ -204,7 +204,7 @@ const content: CityContent = {
       heading: "How much do freelance software developers in Silchar charge, and how long do projects take?",
       paragraphs: [
         "Freelance software developers in Silchar, at BtechWaleTech's published rates, charge from ₹10,000 for a website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI or WhatsApp automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Timelines range from one to two weeks for a website to six to twelve weeks for software.",
-        "Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the five free months. All figures are starting prices: a billing system for one shop costs less than one for three godowns and forty users. The itemised quote lets you phase the work so the most valuable part goes live first.",
+        "Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the two free months. All figures are starting prices: a billing system for one shop costs less than one for three godowns and forty users. The itemised quote lets you phase the work so the most valuable part goes live first.",
         "Payment is only by UPI (scan our QR code) or bank transfer to our account, in INR, in stages tied to progress. Full details are on the <a href='/pricing/'>pricing page</a>, and examples of past projects are on the <a href='/portfolio/'>portfolio</a>.",
       ],
       list: [
@@ -278,7 +278,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "Five months of bug fixes, minor changes, security updates, backups and monitoring from the day your project goes live. New features are quoted separately. After that, maintenance continues from ₹8,000 a month, or you can pay only for changes you request.",
+        "Two months of bug fixes, minor changes, security updates, backups and monitoring from the day your project goes live. New features are quoted separately. After that, maintenance continues from ₹8,000 a month, or you can pay only for changes you request.",
     },
     {
       question: "Who owns the software and data?",

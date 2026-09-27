@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Channels", "Marketplaces, Shopify, your website, WhatsApp"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Per-order fees", "None on a custom build"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting your OMS" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-order or per-channel fees on a custom build" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Starting price", value: `From ${P.software} for the web OMS` },
       { label: "Timeline", value: "6–12 weeks; first two channels live first" },
       { label: "Accounts", value: "Tally-ready sales and returns export" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom order management system from BtechWaleTech starts at ${P.software} (${P.softwareUsd}) for a web OMS with a unified queue from two channels, SKU mapping, stock sync and core reports. Each additional channel, courier integration, returns desk, pack verification, payout reconciliation and Tally export is an itemised line.`,
         `Channel integrations vary most in effort. An API integration with good documentation is predictable. A channel that only offers downloadable reports needs import templates and validation, which is quick to build but depends on the report format staying stable. Multiple warehouses and a warehouse staff app add scope; a native Android and iOS app starts at ${P.app}, though a phone-friendly web screen is enough for many teams.`,
-        `Running costs are hosting in your own cloud account and any charges from your courier or aggregator. There are no per-order or per-channel fees on a custom build, which is the main reason growing brands consider one. After five free months of maintenance, care starts at ${P.care}, which matters for an OMS because marketplaces change their APIs and report formats from time to time.`,
+        `Running costs are hosting in your own cloud account and any charges from your courier or aggregator. There are no per-order or per-channel fees on a custom build, which is the main reason growing brands consider one. After two free months of maintenance, care starts at ${P.care}, which matters for an OMS because marketplaces change their APIs and report formats from time to time.`,
       ],
     },
     {
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["Plus returns desk and pack verification", `Above ${P.software}, itemised`, `Above ${P.softwareUsd}`, "8–10 weeks", "High-return categories"],
         ["Plus more channels, reconciliation, Tally", `Above ${P.software}, itemised`, `Above ${P.softwareUsd}`, "9–12 weeks", "Four or more channels"],
         ["Warehouse staff app (native)", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Large pick-pack teams"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "API and report format changes"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "API and report format changes"],
       ],
       hideSm: [2],
     },
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
       ["Map your catalogue", "We build master SKUs from your channel exports, flag listings that do not match, and agree bundle rules with you before orders flow in."],
       ["Go live channel by channel", "Your busiest channel connects first with conservative buffers. Staff compare stock with the seller panel daily while we tune rules, then the next channel joins."],
       ["Add courier, returns and accounts", "Courier booking, batch labels, the returns desk, payout reconciliation and the Tally export are switched on once the order queue is steady."],
-      ["Hand over and keep it current", `You receive code, hosting and credentials in your name. Five months of maintenance are free; after that, care from ${P.care} keeps up with marketplace API and report changes.`],
+      ["Hand over and keep it current", `You receive code, hosting and credentials in your name. Two months of maintenance are free; after that, care from ${P.care} keeps up with marketplace API and report changes.`],
     ],
   },
   faqHeading: "Order management system: questions sellers ask",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Do marketplaces allow third-party order systems?", answer: "Major marketplaces provide official routes for seller systems, such as Amazon’s Selling Partner API, with their own authorisation steps and rules on how buyer data may be used. Access differs by marketplace and account. Where an account has no API access, the OMS works from the order and return reports sellers download from their panel." },
     { question: "Who owns the OMS and the order data?", answer: "You do. The code is in a repository you control, the database and hosting are in your cloud account, and every API credential is created under your own seller and store accounts. At handover you receive all logins and guides for each role. You can move support to another developer at any time." },
     { question: "Is customer data safe in the order management system?", answer: "We build for it: access by role so packing staff see only shipping details, encryption in transit and at rest, logged actions, and daily backups to your cloud account. We follow each connected marketplace’s rules on storing buyer details. For your wider legal obligations on personal data, your own lawyer is the right adviser." },
-    { question: "What happens when a marketplace changes its API or reports?", answer: `Channel connections run as background jobs that retry and alert you if syncing stops, so a change does not fail silently. We then update the connector. During the five free months of maintenance, such fixes are included. After that, ongoing care starts at ${P.care}, which many sellers keep precisely because channels change over time.` },
+    { question: "What happens when a marketplace changes its API or reports?", answer: `Channel connections run as background jobs that retry and alert you if syncing stops, so a change does not fail silently. We then update the connector. During the two free months of maintenance, such fixes are included. After that, ongoing care starts at ${P.care}, which many sellers keep precisely because channels change over time.` },
     { question: "Can WhatsApp or wholesale orders go into the same system?", answer: "Yes. Orders taken on WhatsApp, over the phone or from wholesale buyers can be entered on a simple screen or captured from chats, and they reserve stock exactly like marketplace orders. That keeps availability accurate on every channel and gives you one dispatch queue for the whole business rather than a separate notebook for offline orders." },
     { question: "Do we need a mobile app for the warehouse team?", answer: `Usually not at first. The picking, packing and dispatch screens work in a phone browser, and barcode scanning works through the camera or a handheld scanner. A native Android and iOS app starting at ${P.app} helps large teams that need offline scanning or faster camera performance. Most sellers start with the browser version.` },
     { question: "Can you also build our D2C website or Shopify store?", answer: `Yes. An ecommerce store starts at ${P.shop} with UPI and card checkout, and orders from it flow straight into the OMS. We also set up and customise Shopify stores. Building both together means product data, stock and orders share one source from the first day rather than being connected later.` },
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Share your channels and get an OMS quote",
-    note: `Tell us on WhatsApp which marketplaces and stores you sell on, your daily order volume and your couriers. You will get an itemised quote in about two working days, with a custom order management system starting at ${P.software}, everything in your name and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp which marketplaces and stores you sell on, your daily order volume and your couriers. You will get an itemised quote in about two working days, with a custom order management system starting at ${P.software}, everything in your name and two months of free maintenance after launch.`,
   },
 };
 

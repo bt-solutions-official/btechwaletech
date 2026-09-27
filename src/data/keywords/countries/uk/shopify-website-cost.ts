@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   facts: [
     ["Custom Shopify store build from", P.shop],
     ["Typical build window", "4–8 weeks"],
-    ["Care after launch", `5 months free, then from ${P.care}`],
+    ["Care after launch", `2 months free, then from ${P.care}`],
     ["Monthly SEO for the store", `From ${P.seo}`],
     ["Who holds the Shopify account", "You, as store owner"],
     ["Quote format", "Itemised USD quote, approved in writing first"],
@@ -42,12 +42,12 @@ const content: FreelanceContent = {
   stats: [
     { value: "4", label: "Cost layers: plan, theme, apps, build" },
     { value: "2", label: "Working days to an itemised Shopify quote" },
-    { value: "5", label: "Months of free care after your store goes live" },
+    { value: "2", label: "Months of free care after your store goes live" },
     { value: "0", label: "Apps installed that you have not approved" },
   ],
   answer: {
     heading: "How much does a Shopify website cost in the UK?",
-    text: `A Shopify website in the UK costs a monthly plan fee, any paid theme, a monthly app stack and payment fees on each sale, plus the one-off build. The build is where quotes vary most, driven by design, catalogue size and custom features. BtechWaleTech builds Shopify stores from ${P.shop} in 4–8 weeks, with five months of free care afterwards.`,
+    text: `A Shopify website in the UK costs a monthly plan fee, any paid theme, a monthly app stack and payment fees on each sale, plus the one-off build. The build is where quotes vary most, driven by design, catalogue size and custom features. BtechWaleTech builds Shopify stores from ${P.shop} in 4–8 weeks, with two months of free care afterwards.`,
     more: `Weighing Shopify against other platforms first? Our <a href='/uk/ecommerce-website-cost/'>UK ecommerce website cost guide</a> compares them, and the <a href='/uk/magento-to-shopify-migration/'>Magento to Shopify migration</a> page covers moving an older store.`,
   },
   snapshot: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Shopify SEO", note: `Collection copy, structured data, clean URLs and internal links for a Shopify catalogue, with monthly work from ${P.seo}.`, href: "/uk/ecommerce-seo-services/", size: "md" },
       { name: "Checkout rules and compliance pages", note: "Delivery charges shown clearly, returns and cancellation pages drafted for your adviser to approve.", href: "/uk/dmcc-act-ecommerce-compliance/", size: "sm" },
       { name: "Accounting link-up", note: "Orders and payouts flowing into your bookkeeping software instead of being typed in by hand.", href: "/uk/xero-integration-developer/", size: "sm" },
-      { name: "Store care", note: `Theme updates, app checks, broken-link fixes and small edits from ${P.care} once the five free months end.`, href: "/uk/website-maintenance-cost/", size: "sm" },
+      { name: "Store care", note: `Theme updates, app checks, broken-link fixes and small edits from ${P.care} once the two free months end.`, href: "/uk/website-maintenance-cost/", size: "sm" },
     ],
   },
   comparison: {
@@ -88,14 +88,14 @@ const content: FreelanceContent = {
       ["Shopify plan advice", "Guesswork", "Usually included", "Included, based on your order volume"],
       ["Who owns the store", "You", "Usually you; check who created the account", "You, from the first day"],
       ["Meetings", "None", "In person or video", "Video calls and WhatsApp only"],
-      ["After launch", "You fix things yourself", "Monthly retainer, if agreed", `Five months free, then care from ${P.care}`],
+      ["After launch", "You fix things yourself", "Monthly retainer, if agreed", `Two months free, then care from ${P.care}`],
       ["Best for", "A tiny range and plenty of spare evenings", "Large brands wanting workshops and photo shoots", "Growing brands who want a proper build at lower cost"],
     ],
     fine: "If you need product photography, in-person brand workshops or someone to visit your warehouse, a UK agency is the better fit; we work entirely online and do none of those.",
   },
   pricing: {
     heading: "What sets the price of a Shopify build with us",
-    note: `A Shopify store build starts at ${P.shop}. That figure covers a store on a paid or free theme adjusted to your brand, your collections and product templates, shipping and tax settings, legal pages set up for your adviser to review, and launch checks. The price rises with custom sections, a large or messy catalogue, complex variants, migration from another platform, integrations with stock or accounting systems, and any custom app work. Shopify's own plan fees, theme purchases and app subscriptions are paid by you directly to Shopify and are never marked up by us. After five free months, optional care starts at ${P.care}.`,
+    note: `A Shopify store build starts at ${P.shop}. That figure covers a store on a paid or free theme adjusted to your brand, your collections and product templates, shipping and tax settings, legal pages set up for your adviser to review, and launch checks. The price rises with custom sections, a large or messy catalogue, complex variants, migration from another platform, integrations with stock or accounting systems, and any custom app work. Shopify's own plan fees, theme purchases and app subscriptions are paid by you directly to Shopify and are never marked up by us. After two free months, optional care starts at ${P.care}.`,
   },
   guideLabel: "Shopify website cost UK: the full guide",
   guide: [
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After launch, a Shopify store's monthly cost is the plan fee, the apps, the payment fees on your sales, your domain renewal spread over the year, and any developer or care time. The plan and apps are predictable; fees and developer time move with your trading.`,
         `Care is where many owners save money by being honest about what they need. A store that changes rarely needs occasional theme updates, an app check and a quick look after Shopify releases new features. A store running weekly promotions, new collections and seasonal landing pages needs regular hands-on time.`,
-        `With us, the first five months after launch are free: fixes, small edits and guidance while you settle in. After that, care starts at ${P.care}, and you can pause it when things are quiet. Our <a href='/uk/website-maintenance-cost/'>website maintenance cost guide for UK businesses</a> explains how care tiers compare in general, not just on Shopify.`,
+        `With us, the first two months after launch are free: fixes, small edits and guidance while you settle in. After that, care starts at ${P.care}, and you can pause it when things are quiet. Our <a href='/uk/website-maintenance-cost/'>website maintenance cost guide for UK businesses</a> explains how care tiers compare in general, not just on Shopify.`,
       ],
     },
     {
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical, to show how a quote is built. Say a small candle and home-fragrance brand in Bristol sells 60 products, each in three sizes, mostly to UK customers, with a few orders to Ireland and the EU. It currently sells through a marketplace and an Instagram shop.`,
         `The build: a paid Theme Store theme, customised with two bespoke sections (a scent-finder quiz and a “refill your jar” block), collection pages by scent family and by room, product templates with size variants, UK and international shipping zones, gift cards, and policy pages for the owner's adviser to approve. That sits a little above our ${P.shop} starting price because of the two custom sections.`,
-        `The running side: the owner starts on Basic, uses Shopify Payments plus PayPal, and installs only a reviews app and an email marketing app. We model the move to Grow at the monthly turnover where lower card rates would cover the higher fee. After five free months, the owner chooses light care from ${P.care} in the busy pre-Christmas quarter only.`,
+        `The running side: the owner starts on Basic, uses Shopify Payments plus PayPal, and installs only a reviews app and an email marketing app. We model the move to Grow at the monthly turnover where lower card rates would cover the higher fee. After two free months, the owner chooses light care from ${P.care} in the busy pre-Christmas quarter only.`,
         `The point of the example: every line has an owner and a reason, and nothing recurring was added without a decision.`,
       ],
     },
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
         ["Apps", "Recurring, usage or one-off", "App developers via Shopify bill", "Some do", "Audit every app; replace simple ones with theme code"],
         ["Card processing", "Per order", "Payment provider", "Yes", "Choose the plan tier that fits your turnover"],
         ["Third-party gateway fee", "Per order", "Shopify", "Yes", "Use Shopify Payments where it suits you"],
-        ["Care and changes", "Recurring or ad hoc", "Your developer", "Partly", `Five months free, then from ${P.care}`],
+        ["Care and changes", "Recurring or ad hoc", "Your developer", "Partly", `Two months free, then from ${P.care}`],
       ],
       hideSm: [3],
     },
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
         ["Migration onto Shopify", "Products, customers, orders, redirects, content", P.shop, "5–8 weeks"],
         ["Custom app or integration", "Private app, stock or ERP sync, custom workflows", P.software, "6–12 weeks"],
         ["Monthly Shopify SEO", "Collections, content, technical fixes", P.seo, "Monthly"],
-        ["Care plan", "Updates, app checks, small edits", P.care, "After 5 free months"],
+        ["Care plan", "Updates, app checks, small edits", P.care, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Approve in writing", "You confirm the scope by email or message. Nothing is billed until you do, and anything outside the written scope is quoted before work starts."],
       ["Build inside your store", "You own the Shopify account and give us staff access. Theme, templates, collections and settings are built there so you can watch progress."],
       ["Test with real orders", "We run test orders across payment methods, shipping zones and discount codes, check pages on phones and fix anything that looks wrong."],
-      ["Launch and five free months", "We connect your domain, submit the sitemap and stay on hand for five months of free care, then optional care from our starting care price."],
+      ["Launch and two free months", "We connect your domain, submit the sitemap and stay on hand for two months of free care, then optional care from our starting care price."],
     ],
   },
   faqHeading: "Shopify website cost UK: questions people ask",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Why hire a Shopify team in India if I am in the UK?", answer: "You get a full build at lower cost with direct access to the three developers doing the work. Our day overlaps the UK business day from late morning, so feedback sent in your morning is usually acted on the same afternoon. We never visit premises, so this suits owners comfortable with video calls, WhatsApp and written sign-off." },
     { question: "How do I pay a Shopify developer based in India?", answer: "Quotes are in USD, and UK clients usually pay from a GBP account through Wise, a bank wire or PayPal. Invoices come from India. Nothing is billed before you approve the written quote. For how overseas services are treated for VAT or tax in your accounts, please check with your own accountant, as we do not give tax advice." },
     { question: "Who owns my Shopify store if a developer builds it?", answer: "You should own it outright: the Shopify account, domain, payment account and every app. We build inside a store you own, using staff access you can remove whenever you like. Be wary of developers who create the store under their own account or bill apps through their invoices, because it hides costs and complicates leaving." },
-    { question: "What does Shopify maintenance cost after launch?", answer: `Shopify handles hosting and platform security, so maintenance is about theme updates, app checks, content changes and fixing anything that breaks. With us, the first five months after launch are free. After that, care starts at ${P.care}, and you can pause it in quiet periods. Stores running frequent promotions need more hands-on time than stores that rarely change.` },
+    { question: "What does Shopify maintenance cost after launch?", answer: `Shopify handles hosting and platform security, so maintenance is about theme updates, app checks, content changes and fixing anything that breaks. With us, the first two months after launch are free. After that, care starts at ${P.care}, and you can pause it in quiet periods. Stores running frequent promotions need more hands-on time than stores that rarely change.` },
     { question: "Does Shopify help my store rank on Google UK?", answer: `Shopify provides a sound technical base, but rankings depend on useful collection and product copy, internal links, structured data and fast pages. Heavy app stacks often slow stores down. Nobody can honestly guarantee rankings. We offer ongoing Shopify SEO from ${P.seo} a month, focused on collections, content and technical fixes you can see in Google Search Console.` },
     { question: "Will my Shopify store show up in AI search answers?", answer: "AI assistants and Google's AI Overviews tend to quote pages that answer specific questions clearly. For a Shopify store, that means well-written size guides, care instructions, delivery and returns pages, and collection copy that explains who a product suits. Clear structure and fast pages help too. We cannot promise inclusion, but good content gives you the best chance." },
     { question: "What hidden costs push up Shopify website cost in the UK?", answer: "The usual surprises are apps that charge per order, third-party transaction fees when not using Shopify Payments, paid theme upgrades, developer time for seasonal changes, and migration work nobody priced. None is truly hidden if you ask for a full cost list before building. We give you one alongside every quote, including the fees you will pay Shopify directly." },

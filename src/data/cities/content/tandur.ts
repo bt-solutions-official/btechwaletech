@@ -56,7 +56,7 @@ const tandur: CityContent = {
     ai: "WhatsApp assistants that answer rate, size, stock and timing questions in Telugu, Urdu, Hindi or English and pass real orders to you.",
     data: "Dashboards of slab dispatches, dealer sales, dues and red gram purchases by village and season.",
     app: "Android and iOS apps from ₹40,000 for builder re-orders, dealer stock checks or school notices, published on Google Play and the App Store.",
-    maintenance: "No charge for upkeep in the first five months after go-live; after that, support for polishing units, dealers and clinics starts from ₹8,000 a month.",
+    maintenance: "No charge for upkeep in the first two months after go-live; after that, support for polishing units, dealers and clinics starts from ₹8,000 a month.",
   },
   whyUsIntro:
     "Tandur businesses deal in heavy goods, thin margins and long credit cycles, so owners want to know exactly what they are paying for. We publish starting prices, send a written itemised quote, reply on WhatsApp every day of the week, and register your domain, hosting, code and app store accounts in your name.",
@@ -183,7 +183,7 @@ const tandur: CityContent = {
       heading: "Ownership and maintenance for Tandur websites and apps",
       paragraphs: [
         "Tandur owners sometimes tell us about an older website that vanished when the person who built it stopped taking calls, because the domain had been booked in his name. We set things up so that cannot happen. The domain, the hosting plan, the source code repository, the Google Business Profile and the Play Store and App Store developer accounts are all opened under your business, and the passwords are handed to you in a written note on launch day.",
-        "For the first five months after going live, upkeep costs nothing: we apply security patches, run backups, swap photos or prices and fix anything that breaks. From month six, a support plan starts from ₹8,000 a month. Stone units often use that time to add new finishes each season, and dal sellers to update pack sizes after harvest.",
+        "For the first two months after going live, upkeep costs nothing: we apply security patches, run backups, swap photos or prices and fix anything that breaks. From month three, a support plan starts from ₹8,000 a month. Stone units often use that time to add new finishes each season, and dal sellers to update pack sizes after harvest.",
         "Continuing with us is optional. Our <a href=\"/services/web-development/\">web development service</a> and SEO support can run month by month, or you can take the code to another developer the same week, with nothing held back.",
       ],
     },
@@ -271,7 +271,7 @@ const tandur: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Nothing for the first five months: patches, backups, small edits and repairs are included. From the sixth month, support plans begin at ₹8,000 a month. A stone unit that only changes photos each season can ask for a lighter arrangement, and you may stop at any point.",
+        "Nothing for the first two months: patches, backups, small edits and repairs are included. From the third month, support plans begin at ₹8,000 a month. A stone unit that only changes photos each season can ask for a lighter arrangement, and you may stop at any point.",
     },
     {
       question: "Do you work in Vikarabad, Zaheerabad and Hyderabad too?",

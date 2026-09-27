@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["Online shop build (Shopware, WooCommerce)", P.shop, "4–8 weeks", "Shop launch with SEO setup"],
         ["Custom web app or portal", P.software, "6–12 weeks", "Development project"],
         ["AI automation or chatbot", P.ai, "2–4 weeks", "AI add-on to an existing site"],
-        ["Maintenance after 5 free months", P.care, "Monthly", "Care plan"],
+        ["Maintenance after 2 free months", P.care, "Monthly", "Care plan"],
       ],
       hideSm: [3],
     },
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
     { question: "How does billing work for a German agency?", answer: "We invoice your agency from India in USD or EUR, paid by Wise or bank wire, and never invoice your clients. Quotes are itemised per client so you can map costs to what you resell. Nothing is billed before you approve in writing. Your tax adviser confirms how your agency books services from a non-EU supplier." },
     { question: "Who owns the code and configurations you create?", answer: "Your client or your agency, as your contracts define; we do not keep ownership. Custom plugins, child themes, schema templates, redirect maps and configurations are handed over with notes, and our access is removed at the end. Domains, hosting and Search Console properties should always sit in the client's or your agency's accounts." },
     { question: "What happens if a technical fix breaks a client site?", answer: "Changes go to a staging copy first and are released only after your team checks them, with a change-log entry and a way to roll back. If something still goes wrong after release, we fix it as the first priority. The exact support terms for each engagement are agreed in your written quote." },
-    { question: "Can you build full websites under our brand, not just do SEO?", answer: `Yes. SEO-ready static sites start at ${P.site}, large content sites with 299+ pages at ${P.seoSite}, online shops at ${P.shop} and custom web apps at ${P.software}. The same no-contact, your-brand rules apply, and you get five months of free maintenance after launch before care plans from ${P.care}.` },
+    { question: "Can you build full websites under our brand, not just do SEO?", answer: `Yes. SEO-ready static sites start at ${P.site}, large content sites with 299+ pages at ${P.seoSite}, online shops at ${P.shop} and custom web apps at ${P.software}. The same no-contact, your-brand rules apply, and you get two months of free maintenance after launch before care plans from ${P.care}.` },
     { question: "How do we end a white-label arrangement?", answer: "Remove our user accounts from Search Console, the CMS, hosting and repositories, which takes minutes if access was set up through your agency's accounts. We hand over any code, documentation and open ticket notes. Personal data we held for a task is deleted or returned as your sub-processor terms require. Notice arrangements are whatever your written agreement says." },
   ],
   related: {

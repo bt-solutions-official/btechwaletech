@@ -63,7 +63,7 @@ const uravakonda: CityContent = {
     ai: "Telugu WhatsApp assistants that quote today's rate, confirm whether stock has arrived and pass real negotiations to you.",
     data: "Season dashboards showing quantity bought per village, average rate paid, advances outstanding and dispatch to Ballari or Chelekere.",
     app: "Android and iOS apps from ₹40,000, published on Google Play and the App Store, for lorry drivers to log trips or regular buyers to reorder oil.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups, updates and form checks.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups, updates and form checks.",
   },
   whyUsIntro:
     "Uravakonda money comes out of rainfed land, so nobody here pays for software twice. We quote item by item in writing, we say plainly which items you can skip this year, and we register the domain, hosting, source code and store accounts in your own name from the first day. Replies come on WhatsApp all seven days.",
@@ -194,7 +194,7 @@ const uravakonda: CityContent = {
       heading: "Who owns your Uravakonda website, and what maintenance covers",
       paragraphs: [
         "Ownership is settled on day one, not at the end. The domain is booked on your email address, hosting is billed in your name, the complete source code is handed to you, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you receive a written sheet with every login on it. Nobody, including us, can hold your site hostage later.",
-        "For the first five months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check now and then that the enquiry form, UPI checkout and WhatsApp button still do what they should. When those five months end you choose: stay with us from ₹8,000 a month, run it with your own staff, or hand the code to any other developer without asking us.",
+        "For the first two months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check now and then that the enquiry form, UPI checkout and WhatsApp button still do what they should. When those two months end you choose: stay with us from ₹8,000 a month, run it with your own staff, or hand the code to any other developer without asking us.",
         "Apps need one predictable piece of attention a year. Google and Apple keep raising the minimum platform versions they will accept, and a listing that misses a deadline gets pulled from the store. We watch those dates and ship the rebuild early rather than after the warning email.",
         "If you would rather learn to make small edits yourself — a rate change, a new photograph, a closed-day notice — we record a short screen video in the handover so you are not calling anyone for a ten-second job.",
       ],

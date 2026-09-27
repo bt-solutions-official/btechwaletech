@@ -57,7 +57,7 @@ const tezpur: CityContent = {
     ai: "WhatsApp assistants in Assamese, Hindi and English that handle room, appointment and price questions and pass the rest to you.",
     data: "Dashboards of monthly sales, patient appointments, admissions enquiries or tea dispatches, built from your existing sheets.",
     app: "Android and iOS apps for hospital appointments, coaching class updates or repeat tea orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, security fixes and content changes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, security fixes and content changes.",
   },
   whyUsIntro:
     "Tezpur has plenty of educated, careful buyers, many of them teachers, doctors, officers and garden managers who read quotes line by line. We publish starting prices, send an itemised written quote, answer WhatsApp every day of the week, and register the domain, hosting, code and app store accounts in your name. Where a feature is not worth paying for, we say so.",
@@ -153,7 +153,7 @@ const tezpur: CityContent = {
       heading: "Website cost in Tezpur: starting prices and how the quote is built",
       paragraphs: [
         "Our static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages, useful for hospitals with many services or tourism businesses covering many places, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation also starts at ₹40,000 with two to four weeks of work.",
-        "Online stores start at ₹50,000 and take four to eight weeks. Custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After launch you receive five months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
+        "Online stores start at ₹50,000 and take four to eight weeks. Custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After launch you receive two months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
         "Quotes in Tezpur and Guwahati vary widely, so compare on the same points: who owns the domain and code, whether Assamese content is included, revisions, support after launch and hosting terms. Our itemised quote comes in about two working days, and nothing is billed before your written approval. See the <a href=\"/pricing/\">pricing</a> page for the full list.",
       ],
     },
@@ -181,7 +181,7 @@ const tezpur: CityContent = {
       heading: "Your Tezpur website, app and accounts stay in your name",
       paragraphs: [
         "Many small businesses in Assam have lost websites because the developer held the domain or hosting login and later became unreachable. We register your domain, hosting, code repository and app store accounts in your own name from day one. You hold the passwords; we work with the access you grant.",
-        "After launch you get five months of free maintenance for bug fixes, small edits and security updates. Ongoing maintenance then starts at ₹8,000 a month and covers backups, updates, uptime checks and routine content changes, such as new doctors, batch timings or room rates.",
+        "After launch you get two months of free maintenance for bug fixes, small edits and security updates. Ongoing maintenance then starts at ₹8,000 a month and covers backups, updates, uptime checks and routine content changes, such as new doctors, batch timings or room rates.",
         "Heavy monsoon months can bring power and network cuts, so we host on reliable servers outside the region and keep regular backups. If you ever decide to change developers, you take everything with you.",
       ],
     },
@@ -254,7 +254,7 @@ const tezpur: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates and routine changes. Since all accounts are in your name, you can also manage the site yourself.",
+        "Every project includes two months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates and routine changes. Since all accounts are in your name, you can also manage the site yourself.",
     },
     {
       question: "You have no office in Tezpur. How does the work happen?",

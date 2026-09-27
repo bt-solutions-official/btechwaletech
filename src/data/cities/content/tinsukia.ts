@@ -34,7 +34,7 @@ const tinsukia: CityContent = {
     pills: ["Sites from ₹10,000", "Dealer catalogues", "Hindi, Bengali, Assamese", "Contractor profiles", "You own the code"],
   },
   quickAnswer:
-    "For a Tinsukia business, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software such as dealer ordering at ₹60,000. We are a remote team of three with no Tinsukia office, and maintenance is free for five months.",
+    "For a Tinsukia business, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software such as dealer ordering at ₹60,000. We are a remote team of three with no Tinsukia office, and maintenance is free for two months.",
   snapshot: [
     { label: "Reputation", value: "Widely called the commercial hub of Assam, about 480 km north-east of Guwahati" },
     { label: "Languages", value: "In the town, Hindi and Bengali speakers outnumber Assamese speakers, according to the 2011 census" },
@@ -51,7 +51,7 @@ const tinsukia: CityContent = {
     ai: "WhatsApp flows that take repeat orders from retailers, confirm stock and share invoices without the owner typing each reply.",
     data: "Sales by retailer, route and brand turned into a phone dashboard, so slow payers and fast movers are visible at a glance.",
     app: "Android and iPhone apps for salesmen and delivery staff to record orders and collections in the field, published on Google Play and the App Store.",
-    maintenance: "Five months of free support after launch, then maintenance from ₹8,000 a month, including price-list updates.",
+    maintenance: "Two months of free support after launch, then maintenance from ₹8,000 a month, including price-list updates.",
   },
   whyUsIntro:
     "Tinsukia traders are used to running on phone calls, handwritten slips and trust. We add structure without losing that: three engineers with published starting prices, WhatsApp replies seven days a week, and the domain, hosting and code registered in your name.",
@@ -73,7 +73,7 @@ const tinsukia: CityContent = {
       heading: "Website and software prices for Tinsukia businesses",
       paragraphs: [
         "Our <a href=\"/pricing/\">pricing page</a> lists starting prices. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks, with a mobile layout, enquiry form, WhatsApp button, map and basic search setup. A 299+ page site built around what your buyers search for starts at ₹20,000 and takes three to five weeks.",
-        "WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, and custom software such as dealer ordering or credit tracking at ₹60,000. Monthly SEO starts at ₹10,000. After launch, maintenance is free for five months and then continues from ₹8,000 a month if you choose.",
+        "WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000, and custom software such as dealer ordering or credit tracking at ₹60,000. Monthly SEO starts at ₹10,000. After launch, maintenance is free for two months and then continues from ₹8,000 a month if you choose.",
         "Local quotes vary a lot, and the lowest number is rarely the cheapest over three years. Compare who holds the domain, whether your staff can update prices and stock, whether the site works in more than one language, and who answers when something breaks during the festival rush. We put all of this in writing before you spend a rupee.",
       ],
       list: [
@@ -188,7 +188,7 @@ const tinsukia: CityContent = {
       paragraphs: [
         "For a distributor, order and payment data is the business. It must not sit in a developer's personal account. We set up the domain, hosting and databases in your name from the start, and at launch we hand over every login, the full source code and a written guide.",
         "If you ever want to move to another developer, you can do so freely, with no exit fee and no locked data. We also keep regular backups, so a lost phone or a crashed laptop does not take your records with it.",
-        "Maintenance is free for five months after launch: updates, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what each build covers.",
+        "Maintenance is free for two months after launch: updates, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what each build covers.",
       ],
     },
   ],
@@ -275,7 +275,7 @@ const tinsukia: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "For five months after launch, updates, fixes, security patches, backups and uptime checks are free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch, updates, fixes, security patches, backups and uptime checks are free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Do you work in Dibrugarh, Digboi, Margherita and Doomdooma too?",

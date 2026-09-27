@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks for the app, 6–12 for the console"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Redemption", "UPI, bank transfer, vouchers or catalogue gifts"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and run your programme tech" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-scan or per-member fees paid to us" },
   ],
   answer: {
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     columns: ["What matters", "Ready-made loyalty SaaS", "Paper coupons or scratch cards", "Custom build by BtechWaleTech"],
     rows: [
       ["Start-up time", "Fast, often weeks", "Fast, but printing and counting are manual", "6–10 weeks for app plus console"],
-      ["Ongoing cost", "Subscription, often per member or per scan", "Printing, courier and staff time to verify coupons", `No per-scan fee; maintenance from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Subscription, often per member or per scan", "Printing, courier and staff time to verify coupons", `No per-scan fee; maintenance from ${P.care} after 2 free months`],
       ["Rules per SKU and region", "Within what the platform allows", "Hard to change once printed", "Any rule you can describe, changed from the console"],
       ["Fraud controls", "Platform defaults", "Weak: coupons are copied or collected in bulk", "Duplicate scans, device limits, geo checks, velocity caps, manual review"],
       ["Payout speed", "Depends on the vendor's payout partner", "Slow: collected, counted, then paid", "UPI or bank payout released from the console after checks"],
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The code sits in a repository you control, the database and files sit in your cloud account, and the apps are published under your developer accounts from day one.`,
         `This matters more for loyalty than for most apps. Your list of verified electricians, plumbers and retailers, with their territories and buying history, is a sales asset you will want to use for years: for product launches, training, and planning where to add distributors. If that list lives on a vendor's platform, leaving means starting again.`,
-        `At handover you receive repository access, admin logins, a short guide for the console, API documentation for the payout and KYC links, and a list of every paid service with its renewal date. After launch there are five months of free maintenance; after that, maintenance continues from ${P.care} only if you want it. The details of support are agreed in your written quote, and our general terms are on the <a href='/terms/'>terms page</a>.`,
+        `At handover you receive repository access, admin logins, a short guide for the console, API documentation for the payout and KYC links, and a list of every paid service with its renewal date. After launch there are two months of free maintenance; after that, maintenance continues from ${P.care} only if you want it. The details of support are agreed in your written quote, and our general terms are on the <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
         ["Admin and payout console", "Scheme rules, SKU points, KYC approval, payout queue, reports", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["WhatsApp alerts and balance bot", "Opt-in alerts, balance and payout status on chat", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
         ["Scheme website or microsite", "Rules, FAQ, helpline, app download links", `${P.site} · ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", "Updates, OS changes, rule tweaks, monitoring", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", "Updates, OS changes, rule tweaks, monitoring", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
       ["Lock the rule sheet", "Point values, member types, KYC fields, fraud caps and languages go into one document your sales and finance heads sign before coding starts."],
       ["Test on your own phones", "Early builds with test codes arrive on a private link and TestFlight or internal Play testing, so your team can scan mock-up packs."],
       ["Pilot in one territory", "A small group of members uses the live app with real payouts. We watch scans, holds and helpline questions, then fix what confuses people."],
-      ["Launch and hand over", "Store release under your accounts, repository and cloud access shared, console guide delivered, followed by five months of free maintenance."],
+      ["Launch and hand over", "Store release under your accounts, repository and cloud access shared, console guide delivered, followed by two months of free maintenance."],
     ],
   },
   faqHeading: "Dealer loyalty program app: questions brands ask",
@@ -442,7 +442,7 @@ const content: FreelanceContent = {
     { question: "Can the loyalty app connect to our ERP or dealer management system?", answer: "Yes, if the ERP or DMS offers an API or can export and import files on a schedule. Typical links bring in SKU lists and dispatch data so batches activate on dispatch, and send payout records back to accounts. We look at your system during scoping and price each integration as its own line, so you can defer the harder ones." },
     { question: "Do we need a separate app for distributors and retailers?", answer: "Usually not. One dealer loyalty program app can carry several member types, each seeing its own screens, schemes and limits after login. Distributors may need only a dashboard and target tracker, while influencers need scanning and quick payouts. Separate apps make sense only when the audiences and brands are completely different." },
     { question: "How do we send OTPs and payout alerts legally?", answer: "SMS in India must go through TRAI's DLT system: your business registers as an entity, registers a sender header and gets each template approved on an operator portal. WhatsApp's business policy requires the member's number and an opt-in before you message them, so the app records that opt-in at sign-up. We prepare the templates; the registrations sit in your business name." },
-    { question: "What happens after the dealer loyalty app launches?", answer: `You get five months of free maintenance covering fixes, small rule changes and updates for new Android and iOS versions. After that, maintenance continues from ${P.care} a month only if you want it. Scheme changes such as new SKUs or bonus multipliers are made from the console by your team, so most day-to-day changes need no developer at all.` },
+    { question: "What happens after the dealer loyalty app launches?", answer: `You get two months of free maintenance covering fixes, small rule changes and updates for new Android and iOS versions. After that, maintenance continues from ${P.care} a month only if you want it. Scheme changes such as new SKUs or bonus multipliers are made from the console by your team, so most day-to-day changes need no developer at all.` },
     { question: "Can you also build the scheme website and helpline chatbot?", answer: `Yes. A scheme website with rules, FAQs, helpline details and app links starts at ${P.site}, and a WhatsApp bot that answers balance and payout questions starts at ${P.ai}. Both use the same database as the app, so answers are always current and your sales officers stop fielding the same questions every day.` },
     { question: "How are payments to BtechWaleTech made?", answer: "Payments are staged against milestones written into your quote. Clients in India pay by UPI or bank transfer; international clients pay by Wise, bank wire or PayPal in USD. Nothing is billed until you approve the itemised estimate in writing. Your reward budget and payout charges never pass through us; they go from your bank account straight to members." },
     { question: "Can you sign an NDA before we share scheme details?", answer: "Yes, you can send your NDA for review before sharing product, margin or member data, and anything specific about confidentiality is agreed in your written quote. Our general terms are on the terms page. Many brands share an outline first and the detailed rule sheet after the NDA is signed, which works well for us too." },
@@ -469,7 +469,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a dealer loyalty program app? Send us your scheme",
-    note: `Tell us on WhatsApp who you want to reward and how the scheme works today. You will get an itemised quote in about two working days, with the member app from ${P.app}, the console from ${P.software}, code and data in your name, and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp who you want to reward and how the scheme works today. You will get an itemised quote in about two working days, with the member app from ${P.app}, the console from ${P.software}, code and data in your name, and two months of free maintenance after launch.`,
   },
 };
 

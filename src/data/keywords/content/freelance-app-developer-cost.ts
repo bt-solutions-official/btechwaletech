@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Typical build time", "6–10 weeks"],
     ["Billing model", "Project quote, paid in milestones"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Free care after launch", "5 months"],
+    ["Free care after launch", "2 months"],
     ["Store accounts", "Google Play and Apple, in your name"],
   ],
   stats: [
     { value: "2", label: "Working days to an itemised app quote" },
-    { value: "5", label: "Months of free maintenance after release" },
+    { value: "2", label: "Months of free maintenance after release" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
     { value: "0", label: "Marketplace commission on your payments" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Google Play registration", value: "One-time fee paid by you to Google" },
       { label: "Apple Developer Program", value: "Yearly fee paid by you to Apple" },
       { label: "Servers, OTP, maps", value: "Monthly, usage-based, billed to your accounts" },
-      { label: "Maintenance", value: `5 months free, then from ${P.care} a month` },
+      { label: "Maintenance", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "AI and automation add-ons", note: `Chat assistants, document reading or WhatsApp follow-ups linked to the app, from ${P.ai}.`, href: "/ai-automation-freelancer/", size: "md" },
       { name: "Store publishing", note: "Listings, screenshots, privacy forms and review submission on Google Play Console and App Store Connect, in your accounts.", href: "/freelance-mobile-app-developer/", size: "sm" },
       { name: "Website for the app", note: `A landing site with store links, privacy policy and support page, from ${P.site}.`, href: "/landing-page-developer/", size: "sm" },
-      { name: "Ongoing care", note: `Updates for new Android and iOS versions, crash fixes and small features, from ${P.care} after five free months.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing care", note: `Updates for new Android and iOS versions, crash fixes and small features, from ${P.care} after two free months.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Platform or hiring overhead", "Service fees on each payment", "Recruitment, equipment, notice periods", "No platform fees"],
       ["Skills covered", "Usually one person's skill set", "One person unless you hire more", "App, backend, cloud, AI and project management"],
       ["Cost visibility up front", "Estimate only", "Fixed monthly, output uncertain", "Line items you can add or remove"],
-      ["When the app is done", "Billing stops, support ad hoc", "Salary continues", "5 months free care, then optional plan"],
+      ["When the app is done", "Billing stops, support ad hoc", "Salary continues", "2 months free care, then optional plan"],
       ["Store and cloud accounts", "Varies by seller", "Company accounts", "Always registered to you"],
       ["Best for", "Small, well-defined fixes", "Long-running product teams", "Apps with a clear first version"],
     ],
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Every app needs some upkeep, because Android, iOS and the stores keep changing. Google Play requires apps to target a recent Android API level to keep publishing updates, and Apple periodically raises its own build requirements. An app that nobody touches for a year or two can become hard to update.`,
         `Maintenance covers updating the framework and libraries, rebuilding for new OS versions, fixing crashes reported in Play Console and App Store Connect, renewing certificates, watching server health and making small content changes. It usually does not include big new features, which are quoted separately.`,
-        `With us, the first five months after launch are free. After that, care plans start at ${P.care} a month and are optional: you can also take the code and handover notes to your own team. Either way, budget something yearly for upkeep rather than treating the build as a one-time purchase.`,
+        `With us, the first two months after launch are free. After that, care plans start at ${P.care} a month and are optional: you can also take the code and handover notes to your own team. Either way, budget something yearly for upkeep rather than treating the build as a one-time purchase.`,
       ],
     },
     {
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       heading: "App banwane ka kharcha kitna hai? Seedhi baat",
       paragraphs: [
         `Hamare saath Android aur iOS dono ke liye ek app ${P.app} se shuru hota hai aur 6 se 10 hafte mein tayyar hota hai. Kharcha is baat par depend karta hai ki app mein kitne tarah ke users hain, payment, chat ya live tracking chahiye ya nahi, aur admin panel kitna bada hai.`,
-        `App ke baad bhi kuch kharche aate hain: Google Play account ki one-time fees, Apple ki saalana fees, server, OTP SMS aur maps ka bill. Yeh sab aapke apne account mein rehte hain. Quote mein har feature ka alag price likha hota hai, taaki aap jo abhi zaruri nahi, use hata sakein. Launch ke baad 5 mahine maintenance free hai. WhatsApp par Hindi mein bhi baat ho jaati hai.`,
+        `App ke baad bhi kuch kharche aate hain: Google Play account ki one-time fees, Apple ki saalana fees, server, OTP SMS aur maps ka bill. Yeh sab aapke apne account mein rehte hain. Quote mein har feature ka alag price likha hota hai, taaki aap jo abhi zaruri nahi, use hata sakein. Launch ke baad 2 mahine maintenance free hai. WhatsApp par Hindi mein bhi baat ho jaati hai.`,
       ],
     },
     {
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
         ["Shopping app plus web store", `App ${P.app} + store ${P.shop}`, `${P.appUsd} + ${P.shopUsd}`, "6–10 weeks", "Shared catalogue and orders"],
         ["AI feature added to an app", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks", "Chat, document reading, smart replies"],
         ["Landing site for the app", `${P.site}`, `${P.siteUsd}`, "1–2 weeks", "Store links, privacy policy, support"],
-        ["Care after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "OS updates, crash fixes, small edits"],
+        ["Care after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "OS updates, crash fixes, small edits"],
       ],
       hideSm: [2, 4],
     },
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Trim to version one", "We go through it with you and move anything non-essential to a version two list, so the first release fits your budget and still proves the idea."],
       ["Open accounts in your name", "Your Google Play Console, Apple Developer and cloud accounts are created with your details; we are added only as team members."],
       ["Pay per working build", "Each milestone ends with a build on your phone via Play internal testing or TestFlight. You approve it, then pay that stage."],
-      ["Release and free care", `We submit to both stores, handle review questions, then provide five months of free maintenance. Care plans start at ${P.care} afterwards, if needed.`],
+      ["Release and free care", `We submit to both stores, handle review questions, then provide two months of free maintenance. Care plans start at ${P.care} afterwards, if needed.`],
     ],
   },
   faqHeading: "Freelance app developer cost: questions people ask",
@@ -374,14 +374,14 @@ const content: FreelanceContent = {
     { question: "How can I reduce the cost of building an app?", answer: "Launch with one user role, use phone OTP or Google sign-in, start with a web admin panel, pick cross-platform development, use standard components, and have all content ready before work begins. Replace in-app chat with a WhatsApp button at first. Move everything that is not essential to a second version with its own estimate." },
     { question: "How long does it take a freelancer to build an app?", answer: "A focused first version of an Android and iOS app usually takes six to ten weeks with our team. Multi-role apps with delivery partners, live tracking or complex integrations take longer. Delays most often come from late content, slow feedback or new features added midway, so a fixed version one list keeps the timeline on track." },
     { question: "Do I need to pay the full amount upfront?", answer: "No, and you should be wary of anyone who insists on it. With BtechWaleTech, nothing is billed before you approve an itemised written quote, and payments follow milestones tied to test builds you can install on your phone. In India we take UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal." },
-    { question: "What does app maintenance cost per month?", answer: `It depends on how much the app changes and how many users it has. Maintenance covers library updates, rebuilds for new Android and iOS versions, crash fixes and small edits. BtechWaleTech gives five months of free maintenance after launch; afterwards, optional care starts at ${P.care} a month, and you can take the code in-house at any time.` },
+    { question: "What does app maintenance cost per month?", answer: `It depends on how much the app changes and how many users it has. Maintenance covers library updates, rebuilds for new Android and iOS versions, crash fixes and small edits. BtechWaleTech gives two months of free maintenance after launch; afterwards, optional care starts at ${P.care} a month, and you can take the code in-house at any time.` },
     { question: "Is a cheap app developer worth the risk?", answer: "A low price is fine when the scope is clear and the terms protect you. The risk comes from apps published in the developer's account, backends on their private server, no admin panel or no real-device testing. Insist on a written scope, accounts in your name and staged payments, whatever the budget." },
     { question: "Does Flutter cost less than React Native?", answer: "The difference in cost between Flutter and React Native is small for most business apps. Both let one codebase run on Android and iOS. Choose Flutter for consistent custom design, React Native if your team knows JavaScript or you want to share code with a React website. Your feature list affects the price far more than this choice." },
     { question: "Who owns the app code after I pay?", answer: "You should own the source code, the store listings and all backend accounts. BtechWaleTech registers Google Play Console, Apple Developer and cloud accounts in the client's name, keeps code in the client's repository, and hands over documentation at launch. That way you can update or move the app with any developer you choose later." },
     { question: "Can I get a fixed price for my app?", answer: "We give an itemised starting-price quote for an agreed feature list, and that total holds as long as the scope stays the same. If you add features midway, each addition is priced as a new line and approved before work begins. This keeps costs predictable without locking you out of changes." },
-    { question: "How much should I budget for changes after launch?", answer: "Keep a reserve beyond the build cost for adjustments once real users arrive, because feedback always reveals something. Small fixes and edits are covered in our five free months of maintenance. Bigger improvements, like a new user role or loyalty system, are quoted separately so you can schedule them when bookings or sales justify it." },
+    { question: "How much should I budget for changes after launch?", answer: "Keep a reserve beyond the build cost for adjustments once real users arrive, because feedback always reveals something. Small fixes and edits are covered in our two free months of maintenance. Bigger improvements, like a new user role or loyalty system, are quoted separately so you can schedule them when bookings or sales justify it." },
     { question: "Do freelance app developers in India work for overseas clients?", answer: `Yes. We build apps for clients in the USA, UK, Canada, Australia, the UAE and Singapore, billed in USD from ${P.appUsd}. Test builds go out through TestFlight and Play internal testing, calls overlap your working day, and payments are made through Wise, bank wire or PayPal against milestones.` },
-    { question: "App developer ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath Android aur iOS app ${P.app} se shuru hota hai aur 6 se 10 hafte lagte hain. Payment, chat, live tracking ya zyada user types ho toh kharcha badhta hai. Play Store aur Apple ki fees, server aur OTP ka bill aap seedha dete hain. Launch ke baad 5 mahine maintenance free rehta hai.` },
+    { question: "App developer ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath Android aur iOS app ${P.app} se shuru hota hai aur 6 se 10 hafte lagte hain. Payment, chat, live tracking ya zyada user types ho toh kharcha badhta hai. Play Store aur Apple ki fees, server aur OTP ka bill aap seedha dete hain. Launch ke baad 2 mahine maintenance free rehta hai.` },
     { question: "Does the app price include an admin panel?", answer: "It should be listed clearly, because many low quotes leave it out. An admin panel is where staff manage orders, bookings, users, products or content. In our quotes it appears as its own line so you can see its cost. Simple panels fit within an app budget; large multi-role portals start in our custom web app band." },
   ],
   related: {
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a real number for your app? Send the core idea",
-    note: `Describe on WhatsApp what your app must let people do and roughly what you want to spend. In about two working days you will get an itemised quote with running costs listed. Android and iOS apps start at ${P.app}, accounts stay in your name, and the first five months of maintenance are free.`,
+    note: `Describe on WhatsApp what your app must let people do and roughly what you want to spend. In about two working days you will get an itemised quote with running costs listed. Android and iOS apps start at ${P.app}, accounts stay in your name, and the first two months of maintenance are free.`,
   },
 };
 

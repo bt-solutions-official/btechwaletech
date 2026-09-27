@@ -37,10 +37,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Kolkata for web apps, Android and iOS apps and AI automation",
     lede:
       "Kolkata has hundreds of IT firms, from global names in Sector V to small studios in Behala, so searching for a software development team in Kolkata rarely narrows things down. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, Android and iOS apps, AI agents, dashboards and cloud deployments for Kolkata traders, freight forwarders, hospitals, startups, restaurants and Puja committees, at published starting prices.",
-    pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents in Bengali", "Startup MVPs", "Five months' free maintenance"],
+    pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents in Bengali", "Startup MVPs", "Two months' free maintenance"],
   },
   quickAnswer:
-    "Our freelance software developers serve Kolkata with custom web apps from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks) and AI automation from ₹40,000 (two to four weeks). BtechWaleTech is three engineers working remotely from India, quoting in about two working days, with five months of free maintenance after launch.",
+    "Our freelance software developers serve Kolkata with custom web apps from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks) and AI automation from ₹40,000 (two to four weeks). BtechWaleTech is three engineers working remotely from India, quoting in about two working days, with two months of free maintenance after launch.",
   snapshot: [
     { label: "Business districts", value: "BBD Bag and Dalhousie, Park Street and Camac Street, Burrabazar, Esplanade, and the corporate strip along EM Bypass" },
     { label: "IT hubs", value: "Salt Lake Sector V and New Town (Rajarhat), home to large IT and ITeS employers, startups and co-working spaces" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents that read shipping documents, answer patient or customer enquiries in Bengali, Hindi or English, and draft replies for approval.",
     data: "Dashboards pulling from Tally, spreadsheets and your apps so owners see sales, shipments or admissions without waiting for a weekly report.",
     app: "Android and iOS apps for Kolkata distributors, restaurants, hospitals and startups, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Fixes, backups, security updates and small changes free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Fixes, backups, security updates and small changes free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kolkata businesses can hire a big Sector V vendor or a neighbourhood freelancer, and both have drawbacks: one layers project managers between you and the code, the other may vanish after launch. A three-engineer freelance group that publishes prices, hands over code and maintains what it builds covers the space in between.",
@@ -226,7 +226,7 @@ const content: CityContent = {
       id: "process-timeline-kolkata",
       heading: "How long does a Kolkata software project take, and how do we work?",
       paragraphs: [
-        "A Kolkata automation takes two to four weeks, an Android and iOS app six to ten weeks, a store four to eight weeks and custom software six to twelve weeks. Each follows a call, an itemised scope, weekly builds with a live preview, testing with your staff and launch with five months of free maintenance.",
+        "A Kolkata automation takes two to four weeks, an Android and iOS app six to ten weeks, a store four to eight weeks and custom software six to twelve weeks. Each follows a call, an itemised scope, weekly builds with a live preview, testing with your staff and launch with two months of free maintenance.",
         "We ask early for sample invoices, registers, shipment files or current spreadsheets, because they show how your process really works. Training is recorded in English, Bengali or Hindi, and support runs on WhatsApp seven days a week. Plan launches around your peaks, such as Puja for retail and restaurants.",
         "See <a href='/portfolio/'>past work</a>, the <a href='/it-services/west-bengal/'>West Bengal overview</a> or our <a href='/it-services/west-bengal/howrah/'>Howrah page</a> across the river.",
       ],
@@ -295,7 +295,7 @@ const content: CityContent = {
     {
       question: "What is covered by free maintenance?",
       answer:
-        "Five months of maintenance are free after launch: bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you contact us only when needed.",
+        "Two months of maintenance are free after launch: bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you contact us only when needed.",
     },
     {
       question: "Can an AI agent read our shipping or purchase documents?",

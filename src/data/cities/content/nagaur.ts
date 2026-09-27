@@ -31,7 +31,7 @@ const nagaur: CityContent = {
     eyebrow: "Nagaur · Rajasthan",
     h1: "Websites, software, SEO and AI tools for methi processors, mandi traders, heritage stays and local services",
     lede:
-      "BtechWaleTech is a remote team of three engineers creating websites, Maps listings and WhatsApp systems for Nagaur's kasuri methi and spice processors, cumin traders, marble and mineral dealers, heritage hotels, schools, hospitals and shops. Our prices are published as starting figures, the domain and code are yours from the first day, and the first five months of maintenance are free.",
+      "BtechWaleTech is a remote team of three engineers creating websites, Maps listings and WhatsApp systems for Nagaur's kasuri methi and spice processors, cumin traders, marble and mineral dealers, heritage hotels, schools, hospitals and shops. Our prices are published as starting figures, the domain and code are yours from the first day, and the first two months of maintenance are free.",
     pills: ["Websites from ₹10,000", "Hindi-first SEO", "Spice and methi catalogues", "WhatsApp order replies", "You own everything"],
   },
   quickAnswer:
@@ -52,7 +52,7 @@ const nagaur: CityContent = {
     ai: "WhatsApp assistants that send rate-request forms, product specs or fee details in Hindi and flag bulk buyers to the owner.",
     data: "Dashboards for purchase by farmer, stock by lot, sales by buyer or admissions by course, readable on one phone.",
     app: "Android and iOS apps for field purchase, mandi-day entries or student attendance that work on weak networks, released on Google Play and the App Store.",
-    maintenance: "Five months of free updates after launch, then plans from ₹8,000 a month or payment per change.",
+    maintenance: "Two months of free updates after launch, then plans from ₹8,000 a month or payment per change.",
   },
   whyUsIntro:
     "Nagaur firms tend to deal with Jaipur or Jodhpur agencies that rarely visit and slowly reply. We are upfront instead: no office anywhere, starting prices in public, itemised quotes, WhatsApp replies seven days a week and every account registered in your name.",
@@ -186,7 +186,7 @@ const nagaur: CityContent = {
       paragraphs: [
         "Many Nagaur owners have a story about a website that disappeared: the developer kept the domain in his own account, stopped answering and let it expire. With it went the business email and whatever search presence the site had built.",
         "With us, the domain is in your name and hosting is in your account from day one. At launch you receive every login, the complete source code and a short guide to how the site is set up. You can move to another developer at any time, with no exit fee and no permission needed.",
-        "The first five months after launch include free maintenance: edits, bug fixes, security updates, backups and uptime monitoring. After that, choose a plan from ₹8,000 a month or pay per change if your site stays mostly the same. See our <a href=\"/services/web-development/\">web development service</a> for details of the handover.",
+        "The first two months after launch include free maintenance: edits, bug fixes, security updates, backups and uptime monitoring. After that, choose a plan from ₹8,000 a month or pay per change if your site stays mostly the same. See our <a href=\"/services/web-development/\">web development service</a> for details of the handover.",
       ],
     },
     {
@@ -282,7 +282,7 @@ const nagaur: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "Maintenance is free for five months after launch. After that, plans start at ₹8,000 a month and cover updates, backups, security and small edits. If your site changes rarely, skip the plan and pay only for the changes you ask for.",
+        "Maintenance is free for two months after launch. After that, plans start at ₹8,000 a month and cover updates, backups, security and small edits. If your site changes rarely, skip the plan and pay only for the changes you ask for.",
     },
     {
       question: "How soon does SEO work in Nagaur?",

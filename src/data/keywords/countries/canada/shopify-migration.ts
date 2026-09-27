@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Tax", "GST/HST and provincial registrations re-entered"],
     ["Quote", "Itemised in USD in about 2 working days"],
     ["Billing", "USD or CAD · Wise, wire, PayPal"],
-    ["After switch-over", "5 months of free maintenance"],
+    ["After switch-over", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers handling data, redirects and theme" },
     { value: "2", label: "Working days until your migration quote" },
-    { value: "5", label: "Months of free maintenance after cut-over" },
+    { value: "2", label: "Months of free maintenance after cut-over" },
     { value: "0", label: "Markup on Shopify plans, apps or migration tools" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Theme and design", note: `A customized Shopify theme matching or refreshing your brand, as part of a store build from ${P.shop}.`, href: "/canada/shopify-developer/", size: "md" },
       { name: "Accounting and app connections", note: "QuickBooks Online, shipping, reviews and email tools reconnected, with the old platform's plugins replaced by suitable apps.", href: "/canada/quickbooks-online-integration/", size: "sm" },
       { name: "Post-launch SEO watch", note: `Search Console coverage and 404 reports checked for weeks after cut-over, then ongoing Shopify SEO from ${P.seo} if you want it.`, href: "/canada/shopify-seo-expert/", size: "sm" },
-      { name: "Maintenance after the move", note: `Five free months of fixes, then care plans from ${P.care} a month.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Maintenance after the move", note: `Two free months of fixes, then care plans from ${P.care} a month.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Test import on a development store", "Products, customers and a sample of orders are imported into a store in your name, and we compare counts and spot-check records with you."],
       ["Build, translate and map", "Theme, collections, French content, tax, shipping and integrations are set up while the redirect map grows to cover every indexed URL."],
       ["Test orders and rehearsal", "Test orders to several provinces and languages, redirect checks and a rehearsal of the cut-over steps so launch morning follows a script."],
-      ["Cut-over and watch", "Final sync, domain switch and sitemap submission in your early morning, then weeks of Search Console checks within the five free months of maintenance."],
+      ["Cut-over and watch", "Final sync, domain switch and sitemap submission in your early morning, then weeks of Search Console checks within the two free months of maintenance."],
     ],
   },
   faqHeading: "Shopify migration services in Canada: questions merchants ask",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate a store while we keep selling?", answer: "Yes. The new store is built on a development store while the old one keeps trading. Before cut-over we run a final sync of new orders and customers, and ask you to pause product edits on the old store for that short window, so nothing gets lost between platforms." },
     { question: "How do I pay for a Shopify migration from Canada?", answer: "Your quote is in USD, and you can pay in USD or CAD by Wise, bank wire or PayPal, following the schedule in the written quote. Nothing is billed before you approve it, and invoices come from India. Ask your accountant how to record an overseas supplier." },
     { question: "Do you need access to my old platform?", answer: "Yes, enough to export data and review settings. For WooCommerce that is usually an administrator user created for us and removed afterwards; for hosted builders, a contributor or staff role where the platform offers one. We never ask for your personal owner password on any platform." },
-    { question: "What do you check after the migration?", answer: "Search Console's page indexing and 404 reports, crawl errors, redirects that fail, speed on phones, tax totals on real orders, and whether key pages hold their positions. Missed URLs get new redirects quickly. This work falls inside the five free months of maintenance after launch." },
+    { question: "What do you check after the migration?", answer: "Search Console's page indexing and 404 reports, crawl errors, redirects that fail, speed on phones, tax totals on real orders, and whether key pages hold their positions. Missed URLs get new redirects quickly. This work falls inside the two free months of maintenance after launch." },
     { question: "Can you also redesign the store during migration?", answer: `Yes, as long as the redirect map and content stay the priority. Many merchants take the chance to refresh the theme, simplify navigation and clean up collections. A migration with a new storefront starts at ${P.shop}; if your whole website needs rethinking, our website redesign page covers that process.` },
   ],
   related: {

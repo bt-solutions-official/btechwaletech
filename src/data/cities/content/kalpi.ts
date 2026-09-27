@@ -56,7 +56,7 @@ const kalpi: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer sample, GSM, size and minimum-order questions and hand bulk deals to the owner.",
     data: "Dashboards that show orders by buyer and city, pulp batches, stock of cloth waste and dues pending from dealers.",
     app: "Android and iOS apps for dealers to reorder paper products or for schools to message parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for updates, backups, security patches and price changes.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for updates, backups, security patches and price changes.",
   },
   whyUsIntro:
     "Kalpi owners have seen bulk buyers bargain hard and middlemen take the margin, so they want to know exactly what they are paying for. We publish starting prices, list every item in a written quote, reply on WhatsApp all week and put the domain, hosting, code and store accounts in your name from the first day.",
@@ -174,7 +174,7 @@ const kalpi: CityContent = {
       heading: "Ownership and maintenance of Kalpi websites and apps",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered with your email, hosting is billed in your name, the full source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account are set up with you as owner. At handover you get a written list of every login, so no one, including us, can hold your website or app hostage later.",
-        "For the first five months after launch, upkeep costs you nothing. In that time we update prices and photos, run backups, install security and version updates and check that forms, checkout and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer.",
+        "For the first two months after launch, upkeep costs you nothing. In that time we update prices and photos, run backups, install security and version updates and check that forms, checkout and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer.",
         "Apps need attention even when nothing is broken, because Google and Apple regularly raise the minimum versions they accept. We track those deadlines and release an updated build in good time, so your app is not removed from the stores for being out of date.",
       ],
     },
@@ -266,7 +266,7 @@ const kalpi: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: we change prices and photos, take backups, apply security updates and test forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month or move the work elsewhere. Since the code and accounts are yours, you need nobody's permission to switch.",
+        "The first two months after launch are free: we change prices and photos, take backups, apply security updates and test forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month or move the work elsewhere. Since the code and accounts are yours, you need nobody's permission to switch.",
     },
     {
       question: "Do you also work in Orai, Konch and Jalaun town?",

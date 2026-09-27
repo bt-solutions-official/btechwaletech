@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, about 2 working days"],
     ["Analyzer links", "ASTM or HL7, serial or network"],
     ["Hosting", "Your cloud account, your data"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your lab’s code" },
     { value: "2", label: "Working days to a written, itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Analyzer interfacing", value: "Per model, from the maker’s host interface manual" },
       { label: "Report delivery", value: "Signed PDF, QR check, WhatsApp and email" },
       { label: "Collection centres", value: "Own login, rate list, credit statement" },
-      { label: "Upkeep", value: `5 free months, then from ${P.care}` },
+      { label: "Upkeep", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Pathology lab software pricing for a custom build",
-    note: `Custom pathology lab software starts at ${P.software}. That covers registration, barcode labels, manual result entry with reference ranges, validation, report design for your main departments and billing. The quote rises with each analyzer model we interface (every maker documents its protocol differently), the number of report layouts, collection-centre logins and statements, and any data we migrate. A phlebotomist or patient app starts at ${P.app}, and a test-booking website at ${P.site}. Cloud hosting and WhatsApp message charges are paid by you directly. After five free months, maintenance is optional from ${P.care}.`,
+    note: `Custom pathology lab software starts at ${P.software}. That covers registration, barcode labels, manual result entry with reference ranges, validation, report design for your main departments and billing. The quote rises with each analyzer model we interface (every maker documents its protocol differently), the number of report layouts, collection-centre logins and statements, and any data we migrate. A phlebotomist or patient app starts at ${P.app}, and a test-booking website at ${P.site}. Cloud hosting and WhatsApp message charges are paid by you directly. After two free months, maintenance is optional from ${P.care}.`,
   },
   guideLabel: "Pathology lab software guide",
   guide: [
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
         { heading: "Migration", text: "Moving years of patients and results from another system depends on how clean its export is." },
       ],
       after: [
-        `Hosting in your own cloud account and WhatsApp message charges are paid by you directly. Five months of maintenance are included; after that it is optional from ${P.care}. The cost table below shows how the pieces add up.`,
+        `Hosting in your own cloud account and WhatsApp message charges are paid by you directly. Two months of maintenance are included; after that it is optional from ${P.care}. The cost table below shows how the pieces add up.`,
       ],
     },
     {
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A first release of custom pathology lab software usually takes 6 to 12 weeks. A single lab with two analyzers and no collection network sits near the short end; a chain with centres and five analyzer models near the long end.`,
         `The order matters more than the total. We build registration, labels and manual result entry first, so the lab can run parallel tests with dummy patients while analyzer interfaces are written. Interfacing depends on access: someone at the lab must connect the cable or network port and let the agent listen while real controls run. Report layouts are reviewed by the pathologist on printed samples before go-live.`,
-        `Go-live normally starts with one department. Many labs switch haematology first, run it for a week, then add biochemistry and the collection centres. The five free months of maintenance cover the adjustments every lab needs in the first weeks.`,
+        `Go-live normally starts with one department. Many labs switch haematology first, run it for a week, then add biochemistry and the collection centres. The two free months of maintenance cover the adjustments every lab needs in the first weeks.`,
       ],
     },
     {
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
         ["WhatsApp report automation", `From ${P.ai}`, "2–4 weeks", "Message charges paid to Meta by you"],
         ["Phlebotomist or patient app", `From ${P.app}`, "6–10 weeks", "Your own store accounts"],
         ["Test-booking website", `From ${P.site}`, "1–2 weeks", "Test menu, pincode check, booking"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Monthly", "Optional"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Monthly", "Optional"],
       ],
       hideSm: [2],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Collect interface manuals", "Your analyzer supplier shares each model’s host interface manual. We confirm the protocol and connection before writing a line of interface code."],
       ["Build and test in parallel", "Registration and reports go onto a test link first, while interfaces are tested on your lab PC during control runs."],
       ["Switch one department at a time", "Haematology usually goes live first, then biochemistry and the collection centres, with us watching logs throughout."],
-      ["Five months of care", `Fixes, mapping changes and small layout edits are free for five months; then maintenance continues from ${P.care} if you choose.`],
+      ["Two months of care", `Fixes, mapping changes and small layout edits are free for two months; then maintenance continues from ${P.care} if you choose.`],
     ],
   },
   faqHeading: "Pathology lab software: questions lab owners ask",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "How do you protect patient reports and privacy?", answer: "Access is role-based, so collection centres see only their own patients and technicians see only what they need. Every edit and release is logged, connections are encrypted, report links can expire, and backups run daily with tested restores. The DPDP Rules were notified in November 2025, and we build notice and consent screens; your lawyer approves the wording." },
     { question: "Can you move our data from our current lab software?", answer: "Usually, if your current vendor provides an export of patients, tests and results, typically as CSV or a database backup. We map test codes, clean duplicate patients and import the history so previous results appear for delta checks and report comparisons. Check your current plan’s export terms early; they decide what can be moved." },
     { question: "Can the lab link reports to a patient’s ABHA?", answer: "Yes, if the lab registers on the Health Facility Registry and the software completes ABDM integration and testing. With the patient’s consent, released reports can then be linked to their ABHA health locker. It is optional for most private labs. Check abdm.gov.in for the current status of incentive schemes before planning around them." },
-    { question: "What happens after the free maintenance period?", answer: `The first five months after go-live cover fixes, test code mapping changes and small layout edits at no charge. After that, maintenance is optional from ${P.care}, covering updates, backups, security patches and small changes. New analyzer interfaces or modules are quoted separately. You can also hand the code to another developer.` },
+    { question: "What happens after the free maintenance period?", answer: `The first two months after go-live cover fixes, test code mapping changes and small layout edits at no charge. After that, maintenance is optional from ${P.care}, covering updates, backups, security patches and small changes. New analyzer interfaces or modules are quoted separately. You can also hand the code to another developer.` },
     { question: "How do payments work for a lab software project?", answer: "You get an itemised written quote first and nothing is billed before you approve it. Payments within India are by UPI or bank transfer, on the schedule written into your quote. Scope, milestones and ownership are written into the quote, and any NDA or additional terms are agreed in writing before work starts." },
     { question: "Will a website help my lab get more test bookings?", answer: `A fast website with a searchable test menu, prices, home collection booking by pincode and a Google Business Profile link helps people find and book your lab. Such sites start at ${P.site}, and ongoing local SEO starts at ${P.seo}. The booking can feed straight into your lab software. Nobody can honestly guarantee search rankings.` },
     { question: "Lab ke liye software khud ka banwana chahiye ya ready-made lena chahiye?", answer: `Agar aapki ek hi lab hai, analyzers common hain aur report format simple hai, toh ready-made software se shuru kijiye. Agar kai collection centres hain, har centre ka rate alag hai, ya analyzer ka result abhi bhi haath se type ho raha hai, toh apna pathology lab software behtar hai. Hamare saath build ${P.software} se shuru hota hai.` },

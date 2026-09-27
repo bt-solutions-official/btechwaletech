@@ -56,7 +56,7 @@ const thiruvallur: CityContent = {
     ai: "WhatsApp assistants that answer enquiry, price and appointment questions in Tamil and English and hand real leads to you.",
     data: "Dashboards of jobs in progress, supplier deliveries, plot enquiries by source and outstanding customer payments.",
     app: "Android and iOS apps for regular buyers to track job status or for students to get college notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Thiruvallur owners deal daily with Chennai buyers who expect paperwork done properly, and they expect the same from their own suppliers. We publish starting prices, send a written quote with each item priced, answer WhatsApp all seven days, and register the domain, hosting, code and store accounts to you. If a feature will not earn back its cost, we say so up front.",
@@ -158,7 +158,7 @@ const thiruvallur: CityContent = {
       heading: "Website cost in Thiruvallur: starting prices and how to compare",
       paragraphs: [
         "Here are our entry prices for Thiruvallur. A static site of up to 100 pages starts at ₹10,000 and is typically finished in a week or two. A 299+ page SEO site, suited to a manufacturer with many processes, a promoter with several layouts or a college with many courses, starts at ₹20,000 and takes three to five weeks.",
-        "Android and iOS apps start at ₹40,000, and AI or WhatsApp automation starts at the same figure over two to four weeks. Online stores start at ₹50,000 and need four to eight weeks. Custom software, such as a job-card and dispatch system, starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month; after five free months of post-launch support, maintenance starts at ₹8,000 a month.",
+        "Android and iOS apps start at ₹40,000, and AI or WhatsApp automation starts at the same figure over two to four weeks. Online stores start at ₹50,000 and need four to eight weeks. Custom software, such as a job-card and dispatch system, starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month; after two free months of post-launch support, maintenance starts at ₹8,000 a month.",
         "Your quote rises only for things you choose: Tamil and English versions, large catalogues, drawing upload, customer logins, UPI payment or accounting exports. Each is priced on its own line so you can keep or remove it. Supplying your own content keeps the figure near the starting price.",
         "Quotes around Chennai's western edge vary a lot for work that sounds similar. Ask every provider who will own the domain, whether the site is tested on inexpensive phones, whether basic SEO is included, how many revisions are covered and what support costs later. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote for your job usually arrives within two working days.",
       ],
@@ -178,7 +178,7 @@ const thiruvallur: CityContent = {
       heading: "Ownership and maintenance for Thiruvallur websites and apps",
       paragraphs: [
         "Everything we build in Thiruvallur is owned by the client. Domains are registered to your email, hosting is billed to you, the full source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts carry your name as owner. You receive every login in writing at handover, so you are never dependent on us or anyone else to get into your own website.",
-        "For five months after launch, maintenance is free: content and price changes, backups, security and software updates, and checks of forms, UPI payments and WhatsApp buttons. Afterwards you choose to continue with us from ₹8,000 a month, handle it internally, or give the code to another developer.",
+        "For two months after launch, maintenance is free: content and price changes, backups, security and software updates, and checks of forms, UPI payments and WhatsApp buttons. Afterwards you choose to continue with us from ₹8,000 a month, handle it internally, or give the code to another developer.",
         "Apps must be updated roughly every year even when they work fine, because Google and Apple keep raising their minimum requirements. We track those deadlines and release updates early, so your app is not removed from a store during admission season or a busy order month.",
       ],
     },
@@ -270,7 +270,7 @@ const thiruvallur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of free maintenance follow launch: content and price edits, backups, security updates and checks of forms, UPI payments and WhatsApp links. After that, support continues from ₹8,000 a month if you want it. With every account and all code in your name, you are free to change developers at any point.",
+        "Two months of free maintenance follow launch: content and price edits, backups, security updates and checks of forms, UPI payments and WhatsApp links. After that, support continues from ₹8,000 a month if you want it. With every account and all code in your name, you are free to change developers at any point.",
     },
     {
       question: "Do you work in Tiruttani, Ponneri and Avadi too?",

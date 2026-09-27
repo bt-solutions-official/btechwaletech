@@ -56,7 +56,7 @@ const sangamner: CityContent = {
     ai: "Marathi WhatsApp assistants that answer rate, stock and admission questions and hand real decisions back to you.",
     data: "Dashboards showing litres collected per centre, payments due, sales by branch and admissions by course.",
     app: "Android and iOS apps for milk collection centres, coaching institutes or repeat retail customers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Sangamner grew on cooperatives, so people here judge a supplier by whether the accounts are clear. We publish starting prices, send an itemised written quote, answer WhatsApp every day, and register the domain, hosting, code and store accounts in your name. When something will not pay for itself, we tell you before you spend on it.",
@@ -168,7 +168,7 @@ const sangamner: CityContent = {
       heading: "Ownership and maintenance of your Sangamner website and app",
       paragraphs: [
         "Many owners in smaller towns have lost a website because the developer registered the domain in his own name and then stopped answering. With us, the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are registered to you, and we hand over every login in writing.",
-        "The first five months of maintenance after launch are free. That covers text and price changes, backups, security and plugin updates, and regular checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "The first two months of maintenance after launch are free. That covers text and price changes, backups, security and plugin updates, and regular checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
         "Apps need attention every year because Google and Apple keep changing their rules for target versions and privacy declarations. We track those changes so your app is updated before a deadline, not removed after one.",
       ],
     },
@@ -265,7 +265,7 @@ const sangamner: CityContent = {
     {
       question: "What maintenance do I get after my website launches?",
       answer:
-        "Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time.",
+        "Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time.",
     },
     {
       question: "Do you work with businesses in Akole, Rahuri and Shirdi too?",

@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI assistants that answer patient, admission and export-order questions and summarise documents for staff to verify.",
     data: "Dashboards for bed occupancy, outpatient volumes, admissions, stock and receivables built on your existing data.",
     app: "Android and iOS apps for Mangaluru patients, students, drivers and dealers, built once in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Five months of free fixes, updates and backups after launch, then support plans from ₹8,000 a month.",
+    maintenance: "Two months of free fixes, updates and backups after launch, then support plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mangaluru buyers are careful with money and quick to ask for references, which suits us. We publish starting prices, write scope before work begins, share a live link instead of promises, and leave every account in your name. Three engineers, no office rent, replies seven days a week.",
@@ -192,7 +192,7 @@ const content: CityContent = {
         "Weeks 2 to 3: first working module on staging, reviewed by the people who will actually use it",
         "Middle weeks: remaining modules, integrations with Tally, billing or WhatsApp, and data import",
         "Final week: testing on real phones, staff walkthrough, go-live and credentials handed over",
-        "After launch: five months of free maintenance while the team settles in",
+        "After launch: two months of free maintenance while the team settles in",
       ],
     },
     {
@@ -223,7 +223,7 @@ const content: CityContent = {
       id: "support-after-launch-mangaluru",
       heading: "Support and maintenance once your Mangaluru system is live",
       paragraphs: [
-        "Software needs regular care: security patches, library updates, backups and small changes as your business evolves. Every BtechWaleTech project includes five months of free maintenance after hosting goes live, covering bug fixes, updates, backups, uptime checks and content edits.",
+        "Software needs regular care: security patches, library updates, backups and small changes as your business evolves. Every BtechWaleTech project includes two months of free maintenance after hosting goes live, covering bug fixes, updates, backups, uptime checks and content edits.",
         "After those months you can choose a plan from ₹8,000 a month or pay per change. We answer on WhatsApp seven days a week, and because the same three engineers built your system, nobody has to relearn it. Read <a href='/about/'>about the team</a> or <a href='/contact/'>contact us</a> with your requirement.",
         "Related reading: <a href='/it-services/karnataka/'>our Karnataka overview</a>, the <a href='/mangaluru/'>Mangaluru websites page</a> and the <a href='/industries/'>industries we serve</a>.",
       ],
@@ -243,7 +243,7 @@ const content: CityContent = {
         "WhatsApp: service replies cost less than promotional broadcasts",
         "AI: billed per request, with a monthly cap you choose",
         "Apps: one-time Google Play registration, yearly Apple membership",
-        "Support: 5 months free, then from ₹8,000 a month or per change"
+        "Support: 2 months free, then from ₹8,000 a month or per change"
       ]
     },
   ],
@@ -277,7 +277,7 @@ const content: CityContent = {
     { question: "What payment methods do you accept?", answer: "Only UPI, by scanning our QR code, and direct bank transfer to our bank account, both in INR. We do not use payment gateways or payment links for our own invoices. Payments are split into milestones, and each one follows work you have already reviewed." },
     { question: "Can our website include Kannada, Tulu or Konkani?", answer: "Yes. We support Kannada script and can add Tulu or Konkani text written in Kannada script or Roman letters, depending on your audience. English usually carries most search traffic, so we plan languages around who your customers are. A fluent speaker on your side should approve the final wording." },
     { question: "Who owns the code and accounts?", answer: "You do. The domain, hosting, code repository, analytics and any payment gateway are set up under your name or business. At handover you receive credentials and short documentation. If you later hire another developer in Mangaluru or elsewhere, they can take over without our involvement." },
-    { question: "What happens after launch?", answer: "Five months of maintenance are included free once hosting is live: bug fixes, security and dependency updates, backups, uptime and speed checks and small content changes. After that you can choose a plan from ₹8,000 a month or contact us as needed. We reply on WhatsApp seven days a week." },
+    { question: "What happens after launch?", answer: "Two months of maintenance are included free once hosting is live: bug fixes, security and dependency updates, backups, uptime and speed checks and small content changes. After that you can choose a plan from ₹8,000 a month or contact us as needed. We reply on WhatsApp seven days a week." },
     { question: "How long before SEO shows results in Mangaluru?", answer: "Three to six months is typical for meaningful local results, though some less competitive searches move sooner. Pages are indexed within weeks, but rankings build with content, reviews and time. We do not guarantee positions; we share monthly Search Console data and explain what we changed." },
     { question: "Can AI automation handle enquiries from Gulf customers at night?", answer: "Yes. An AI assistant on your website or WhatsApp can answer common questions, collect details and book slots at any hour, then hand the lead to your staff in the morning with a summary. Projects start at ₹40,000 and take two to four weeks, with human review for anything sensitive." },
     { question: "Can you build an Android and iOS app for our Mangaluru hospital or college?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. We build once in Flutter or React Native with login, push notifications, forms and an admin panel, then publish on Google Play and the App Store. Patient and student apps usually add appointments, reports, fees and notices." },

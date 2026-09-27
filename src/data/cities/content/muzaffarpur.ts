@@ -7,7 +7,7 @@ const muzaffarpur: CityContent = {
   meta: {
     title: "Muzaffarpur Website & SEO Services | From ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Muzaffarpur traders, litchi growers, bag makers, clinics and coaching. From ₹10,000, 5 months free maintenance.",
+      "Websites, local SEO and WhatsApp automation for Muzaffarpur traders, litchi growers, bag makers, clinics and coaching. From ₹10,000, 2 months free maintenance.",
     keywords: [
       "website development team in Muzaffarpur",
       "website designer Muzaffarpur",
@@ -30,11 +30,11 @@ const muzaffarpur: CityContent = {
     eyebrow: "Muzaffarpur · Bihar",
     h1: "Websites, SEO and automation for Muzaffarpur and north Bihar",
     lede:
-      "Muzaffarpur supplies cloth from Sutapatti, bags from Bela and Shahi litchi to buyers far beyond Tirhut, yet many of its firms are hard to find online. Our remote team of three engineers builds quick websites, online stores, local SEO and WhatsApp workflows at published prices, with five months of free maintenance.",
+      "Muzaffarpur supplies cloth from Sutapatti, bags from Bela and Shahi litchi to buyers far beyond Tirhut, yet many of its firms are hard to find online. Our remote team of three engineers builds quick websites, online stores, local SEO and WhatsApp workflows at published prices, with two months of free maintenance.",
     pills: ["Sites from ₹10,000", "Hindi and Bajjika searches", "Litchi season stores", "WhatsApp order logging", "Code handed to you"],
   },
   quickAnswer:
-    "A business website in Muzaffarpur costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Muzaffarpur office, and every site includes five months of free maintenance after launch.",
+    "A business website in Muzaffarpur costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Muzaffarpur office, and every site includes two months of free maintenance after launch.",
   snapshot: [
     { label: "Known as", value: "Capital of North Bihar and the Lychee Kingdom of India" },
     { label: "Signature product", value: "Shahi litchi, GI-tagged in 2018 through a Muzaffarpur growers’ association" },
@@ -51,10 +51,10 @@ const muzaffarpur: CityContent = {
     ai: "WhatsApp assistants that answer stock, fee or timing questions in Hindi and pass serious enquiries to the owner straight away.",
     data: "Sales, credit and dispatch dashboards for traders who supply shops across Tirhut, Mithila and Champaran.",
     app: "Android and iOS apps for salesmen, students and patients that run well on entry-level phones, available on Google Play and the App Store.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, including litchi-season and wedding-season changes.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then from ₹8,000 a month, including litchi-season and wedding-season changes.",
   },
   whyUsIntro:
-    "Muzaffarpur has local web designers and plenty of Patna agencies willing to take work here, but few publish prices or stay in touch after launch. We show our starting prices openly, reply on WhatsApp all seven days, and look after your site for five months after it goes live without charging.",
+    "Muzaffarpur has local web designers and plenty of Patna agencies willing to take work here, but few publish prices or stay in touch after launch. We show our starting prices openly, reply on WhatsApp all seven days, and look after your site for two months after it goes live without charging.",
   pricingIntro:
     "In Muzaffarpur, website prices are usually settled over tea and change with every conversation. Ours are written down below. The final amount depends on pages, products and features, and you get it item by item before any work starts.",
   sections: [
@@ -72,7 +72,7 @@ const muzaffarpur: CityContent = {
       heading: "What a website costs in Muzaffarpur",
       paragraphs: [
         "We publish our starting prices so you can compare them before speaking to anyone. A basic website of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website, with separate pages for each service, product line or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payments start at ₹50,000. Custom web applications, such as distributor portals or coaching management systems, start at ₹60,000.",
-        "Automation starts at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the first five free months. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Automation starts at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the first two free months. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Prices change with scope. A clinic with four doctors is a small job. A cloth wholesaler with six hundred designs and no product data is a bigger one. Your quote lists every item, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -172,11 +172,11 @@ const muzaffarpur: CityContent = {
     },
     {
       id: "ownership-maintenance-muzaffarpur",
-      heading: "Your website stays yours, with five free months of care",
+      heading: "Your website stays yours, with two free months of care",
       paragraphs: [
         "A familiar problem in Muzaffarpur: the website was made by someone who kept the domain and hosting in their own name, then stopped answering calls. The business cannot change its own phone number online. We make sure that never happens with us.",
         "The domain is registered in your name. The hosting account is yours. At launch, you receive every login and a short note explaining what is where. The code belongs to you, and you can move it to any other developer whenever you want, with no exit charge.",
-        "For five months after launch, maintenance is free. That includes content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free. That includes content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -272,7 +272,7 @@ const muzaffarpur: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can pay per change.",
+        "For two months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Do you work with businesses in Hajipur, Sitamarhi and Motihari?",

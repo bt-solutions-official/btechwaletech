@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Connects bol.com with", "Shopify, WooCommerce, ERPs, own systems"],
     ["Fulfilment", "Own fulfilment, LVB, or both per offer"],
     ["Testing", "bol's demo environment before live orders"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who share the integration code" },
     { value: "0", label: "Percentage we take on your bol.com sales" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "ERP and accounting link", note: "bol.com orders, commissions and payouts booked in Exact Online or another package as your bookkeeper agrees.", href: "/netherlands/exact-online-integration/", size: "md" },
       { name: "LVB stock planning", note: "A view of stock at bol's warehouse versus your own, so you know when to send new LVB shipments.", size: "sm" },
       { name: "API version upgrades", note: "Existing integrations moved to newer Retailer API versions before older endpoints are switched off.", size: "sm" },
-      { name: "Care plan", note: `Monitoring, API change follow-up and fixes; five months free, then from ${P.care}.`, size: "sm" },
+      { name: "Care plan", note: `Monitoring, API change follow-up and fixes; two months free, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a bol.com API integration costs with us",
-    note: `All figures are starting prices in USD, itemised in a written quote. A focused integration that shares stock between your shop and bol.com and brings bol orders into your shop or ERP, with logging and alerts, starts from ${P.ai}. A full integration adding offer creation, price and bundle-price management, shipments with track and trace, cancellations, returns, LVB handling and a dashboard starts from ${P.software}. Upgrading or repairing an existing integration is quoted after a code review. Your bol.com seller fees, hosting for the integration service and any other tool subscriptions are paid by you directly. Five months of free care follow launch; care plans then start from ${P.care}.`,
+    note: `All figures are starting prices in USD, itemised in a written quote. A focused integration that shares stock between your shop and bol.com and brings bol orders into your shop or ERP, with logging and alerts, starts from ${P.ai}. A full integration adding offer creation, price and bundle-price management, shipments with track and trace, cancellations, returns, LVB handling and a dashboard starts from ${P.software}. Upgrading or repairing an existing integration is quoted after a code review. Your bol.com seller fees, hosting for the integration service and any other tool subscriptions are paid by you directly. Two months of free care follow launch; care plans then start from ${P.care}.`,
   },
   guideLabel: "bol.com integration guide",
   guide: [
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a bol.com API integration cost?",
       paragraphs: [
-        `With BtechWaleTech, a focused bol.com API integration for stock and orders starts from ${P.ai}; a full integration covering offers, prices, shipments, cancellations, returns, LVB and reporting starts from ${P.software}. Care after the five free months starts from ${P.care}. All are starting prices with an itemised written quote.`,
+        `With BtechWaleTech, a focused bol.com API integration for stock and orders starts from ${P.ai}; a full integration covering offers, prices, shipments, cancellations, returns, LVB and reporting starts from ${P.software}. Care after the two free months starts from ${P.care}. All are starting prices with an itemised written quote.`,
         `What moves the price: the number of products and how clean their EANs are, whether the master is a shop, ERP or custom system, whether you mix LVB and own fulfilment, how returns are processed, and whether accounting bookings are part of scope. Upgrading or fixing an existing integration depends on the state of its code, so we quote that after a review.`,
         `Running costs are separate: bol's own seller fees, hosting for the integration service and any tool subscriptions you keep. Quotes from others vary widely; compare them on the same list of flows, on how asynchronous calls and rate limits are handled, and on what happens when a sync fails.`,
       ],
@@ -410,13 +410,13 @@ const content: FreelanceContent = {
       ["Credentials and mapping", "You create API credentials in your seller account. We map products, warehouses and order fields, and agree buffers and alert contacts."],
       ["Demo environment build", "Offers, stock, orders, shipments and cancellations are built and tested against bol's demo environment, including failure cases and retries."],
       ["Live pilot", "A small set of offers runs live for a few days while we watch every call, process status and order, then the full catalogue follows."],
-      ["Monitoring and care", "Daily checks and alerts keep running. Five months of free care follow, including API version changes, then care plans from the maintenance price."],
+      ["Monitoring and care", "Daily checks and alerts keep running. Two months of free care follow, including API version changes, then care plans from the maintenance price."],
     ],
   },
   faqHeading: "bol.com API integration: questions sellers ask",
   faqs: [
     { question: "What is a bol.com API integration?", answer: "A bol.com API integration is software that connects your webshop, ERP or own system to bol's Retailer API. It creates and updates offers, shares stock, fetches orders, confirms shipments with track and trace, and handles cancellations and returns automatically, so nobody has to copy data between the seller dashboard and your other systems." },
-    { question: "How much does a bol.com API integration cost?", answer: `With BtechWaleTech, a focused stock and order sync starts from ${P.ai}, and a full integration with offers, shipments, returns, LVB and reporting starts from ${P.software}. Care after five free months starts from ${P.care}. bol's seller fees and hosting are paid by you directly. You get an itemised written quote in about two working days.` },
+    { question: "How much does a bol.com API integration cost?", answer: `With BtechWaleTech, a focused stock and order sync starts from ${P.ai}, and a full integration with offers, shipments, returns, LVB and reporting starts from ${P.software}. Care after two free months starts from ${P.care}. bol's seller fees and hosting are paid by you directly. You get an itemised written quote in about two working days.` },
     { question: "How do I connect Shopify to bol.com?", answer: "Shopify stays the master for products and stock. A separate integration service uses Shopify's Admin API and webhooks to push stock and prices to bol.com, and brings bol orders into Shopify with a channel tag. When you mark an order fulfilled, the service confirms the shipment to bol with track and trace." },
     { question: "Can WooCommerce sync with bol.com?", answer: "Yes. The integration uses WooCommerce's REST API and webhooks and runs outside WordPress, so your shop stays fast. Stock changes are pushed to bol.com, bol orders appear in WooCommerce, and shipments are confirmed back. Stock reservation timing is set carefully because WooCommerce reduces stock at different moments depending on settings." },
     { question: "How can I stop overselling on bol.com?", answer: "Use one master stock for all channels, push every change to bol.com as it happens instead of on a slow timer, and add a small buffer for low-stock items. Choose deliberately how bol counts open orders so the same order is not subtracted twice. A daily comparison report catches any drift." },

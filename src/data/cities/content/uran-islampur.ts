@@ -56,7 +56,7 @@ const uranIslampur: CityContent = {
     ai: "WhatsApp assistants that reply in Marathi about prices, stock, admission dates and appointments, then hand real decisions back to you.",
     data: "Season and month dashboards of litres collected, tonnes delivered, fee receipts or orders by village, shared with partners on a phone.",
     app: "Android and iOS apps for milk societies, farm input dealers or coaching institutes near Islampur, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security fixes and store compliance.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security fixes and store compliance.",
   },
   whyUsIntro:
     "Walwa taluka has a long cooperative habit: people expect accounts to be open, decisions to be minuted and promises to be kept. We work the same way. Starting prices are public, quotes are itemised, WhatsApp is answered seven days a week, and your domain, hosting, code and app store accounts are registered in your own name.",
@@ -186,7 +186,7 @@ const uranIslampur: CityContent = {
       heading: "Ownership, maintenance and support for Islampur websites and apps",
       paragraphs: [
         "In smaller towns we often meet owners whose website vanished because the domain was registered in the developer's name and the developer stopped answering. We avoid that from day one. The domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered to you, and the logins are handed over in writing.",
-        "Maintenance is free for five months after launch. That covers content and price changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After five months, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time with the code in hand.",
+        "Maintenance is free for two months after launch. That covers content and price changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After two months, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time with the code in hand.",
         "Apps need attention every year because Google and Apple change their rules for target versions and privacy. We track those changes and update your app in time, so it is not hidden or removed from the stores. See how we build sites on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -278,7 +278,7 @@ const uranIslampur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and logins to another developer whenever you choose.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and logins to another developer whenever you choose.",
     },
     {
       question: "Do you also work in Ashta, Peth, Kasegaon and Sangli?",

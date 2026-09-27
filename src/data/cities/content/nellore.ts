@@ -34,7 +34,7 @@ const nellore: CityContent = {
     pills: ["Sites from ₹10,000", "Aqua and export sites", "Telugu and English SEO", "WhatsApp lead tools", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Nellore business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team of three engineers, you own the domain and code, and maintenance is free for five months.",
+    "A website for a Nellore business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team of three engineers, you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Known for", value: "Shrimp farming and aquaculture on a scale that earns Nellore the name Shrimp Capital of India" },
     { label: "Agriculture", value: "Paddy across the Penna delta and canal network, with rice milling and trade a long-standing mainstay" },
@@ -51,7 +51,7 @@ const nellore: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and availability questions in Telugu or English and pass negotiations to the owner.",
     data: "Dashboards showing harvests, feed use, sales, dispatches and dues, fed from daily sheets and Tally and readable on a phone.",
     app: "Android and iOS apps for field technicians visiting ponds, dealers placing orders and patients booking appointments, released on both app stores.",
-    maintenance: "Rate and content updates, backups, security patches and uptime checks, free for five months and then from ₹8,000 a month.",
+    maintenance: "Rate and content updates, backups, security patches and uptime checks, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Nellore business owners are careful with money and tend to trust people they can reach easily. That is how we work: prices are public, quotes are itemised and written, nothing is billed without your approval, and you can message the engineers on WhatsApp seven days a week. Your domain and hosting stay in your name.",
@@ -181,11 +181,11 @@ const nellore: CityContent = {
     },
     {
       id: "ownership-nellore",
-      heading: "You own everything, with five months of free maintenance",
+      heading: "You own everything, with two months of free maintenance",
       paragraphs: [
         "Some Nellore businesses find out too late that their website was never really theirs. The domain was booked in the developer's name, the hosting was on his account, and when he stopped responding, the site went offline at renewal time, taking the business email with it.",
         "We register the domain in your business name and open hosting in your account from the start. At launch you receive every login, the full source code and a short note explaining the setup. You can move to another developer whenever you like, without any exit fee or approval from us.",
-        "For five months after launch, we provide free maintenance covering content and rate updates, fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, we provide free maintenance covering content and rate updates, fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
   ],
@@ -277,7 +277,7 @@ const nellore: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch, we handle content and rate updates, fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can pay only when you need a change.",
+        "For two months after launch, we handle content and rate updates, fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can pay only when you need a change.",
     },
     {
       question: "How do I get started?",

@@ -31,10 +31,10 @@ const baramula: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Baramulla's orchards, hotels and shops",
     lede:
       "Baramulla district holds Gulmarg, the Sopore fruit mandi and some of Kashmir's busiest apple and walnut country, yet most of its businesses still sell through middlemen and phone calls. We are three remote engineers who build websites, stores and WhatsApp systems for them, with starting prices published and ownership in your name.",
-    pills: ["Sites from ₹10,000", "Apple and walnut stores", "Gulmarg stay bookings", "Urdu, Hindi, English pages", "5 months' free upkeep"],
+    pills: ["Sites from ₹10,000", "Apple and walnut stores", "Gulmarg stay bookings", "Urdu, Hindi, English pages", "2 months' free upkeep"],
   },
   quickAnswer:
-    "A Baramulla business website starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for apples, walnuts or dry fruit at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team with no Baramulla office, and maintenance is free for five months.",
+    "A Baramulla business website starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for apples, walnuts or dry fruit at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team with no Baramulla office, and maintenance is free for two months.",
   snapshot: [
     { label: "Setting", value: "On the Jhelum in north Kashmir, at the foot of the Pir Panjal, about 55 km from Srinagar" },
     { label: "Called", value: "Historically the “Gateway of Kashmir Valley” on the old route in from the west" },
@@ -51,7 +51,7 @@ const baramula: CityContent = {
     ai: "WhatsApp assistants that answer room, package and order questions in Urdu, Hindi or English, handing real bookings to a person.",
     data: "Dashboards showing boxes dispatched, rates by variety and grade, or bookings by month, so owners can plan the harvest and the ski season.",
     app: "Android and iOS apps for delivery tracking, school notices or clinic appointments that work on basic phones, published on both app stores.",
-    maintenance: "Five months of free updates and fixes after launch, then plans from ₹8,000 a month or pay-per-change support.",
+    maintenance: "Two months of free updates and fixes after launch, then plans from ₹8,000 a month or pay-per-change support.",
   },
   whyUsIntro:
     "Baramulla businesses deal with long winters, uncertain connectivity and buyers who are often hundreds of kilometres away. We build for those conditions: pages that load on weak signal, clear ordering for distant buyers, published starting prices, and replies on WhatsApp seven days a week.",
@@ -176,7 +176,7 @@ const baramula: CityContent = {
       paragraphs: [
         "Many older websites in the valley were set up by someone who later moved away, with the domain registered to their own email. When the renewal lapses, the site vanishes and the phone number printed on boxes and brochures leads nowhere. Getting a domain back from a former developer can take weeks.",
         "We register the domain in your name and put hosting on your own account. At launch you receive every login, the full source code and a short note on how the site works. You can take the site to another developer at any time without an exit fee.",
-        "Maintenance is free for five months after launch: content and price changes, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Seasonal businesses often choose the plan during harvest or ski season and switch to pay-per-change in the quieter months.",
+        "Maintenance is free for two months after launch: content and price changes, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Seasonal businesses often choose the plan during harvest or ski season and switch to pay-per-change in the quieter months.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const baramula: CityContent = {
         "You do. The domain is registered in your name, hosting is on your own account, and you receive every password and the full source code at launch. You can move to another developer any time without an exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose. Plans start at ₹8,000 a month and cover updates, backups, security patches and content changes. Seasonal businesses often take a plan in peak months and pay per change in quieter months. You keep full access either way.",
     },

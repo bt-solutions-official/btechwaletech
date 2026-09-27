@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Admissions", "Enquiry form to WhatsApp and email"],
     ["Updates", "Office staff post notices themselves"],
     ["Ownership", "Domain and hosting in the school’s name"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your school’s site" },
     { value: "100", label: "Pages in the starting website plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
   ],
   answer: {
     heading: "What does a school website developer build, and how much does it cost?",
@@ -157,7 +157,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A school website goes stale when every change depends on the developer. The fix is to give office staff a simple way to post notices, circulars, holiday lists and events, and to make the latest items appear on the home page automatically.`,
         `We set up a lightweight editor where a staff member picks a category, types a title, attaches a PDF if needed and publishes. Old notices move to an archive by year. The academic calendar can be a page the office edits or a shared calendar embedded on the site. We train the staff on a short video call and leave a one-page guide in plain language, in Hindi if that helps.`,
-        `For schools that prefer not to touch the site at all, the office can send updates on WhatsApp and we publish them. During the five free months after launch that costs nothing; after that it is part of maintenance from ${P.care}.`,
+        `For schools that prefer not to touch the site at all, the office can send updates on WhatsApp and we publish them. During the two free months after launch that costs nothing; after that it is part of maintenance from ${P.care}.`,
       ],
     },
     {
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       heading: "School ki website banwani hai? Seedhi jaankari",
       paragraphs: [
         `School ki website mein admission ki jaankari, fees, notice board, calendar, result, gallery aur contact hona chahiye. CBSE school ho toh Mandatory Public Disclosure ka link home page par saaf dikhna chahiye.`,
-        `Hamare saath school website ${P.site} se shuru hoti hai aur content milne ke baad 1–2 hafte mein live ho jaati hai. Office staff khud notice daal sakta hai. Domain aur hosting school ya trust ke naam par rehte hain, aur launch ke baad 5 mahine support free hai.`,
+        `Hamare saath school website ${P.site} se shuru hoti hai aur content milne ke baad 1–2 hafte mein live ho jaati hai. Office staff khud notice daal sakta hai. Domain aur hosting school ya trust ke naam par rehte hain, aur launch ke baad 2 mahine support free hai.`,
       ],
     },
   ],
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
       ["Domain in the school’s name", "We register or recover the domain and hosting in the school or trust’s account, and set up official email records if needed."],
       ["Content collection and design", "A simple content sheet goes to the office. The home page design appears on a staging link the principal can review on a phone."],
       ["Training and launch", "Office staff learn to post notices on a short call. We launch, add schema, link Google Maps and verify Search Console."],
-      ["Five months of free support", `Fixes, new sections and help with notices are free for five months. After that, support continues from ${P.care} if the school wants it.`],
+      ["Two months of free support", `Fixes, new sections and help with notices are free for two months. After that, support continues from ${P.care} if the school wants it.`],
     ],
   },
   faqHeading: "School website developer: frequently asked questions",
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
     { question: "What about a mobile app for parents?", answer: `A parent app for notices, homework, fees and attendance on Android and iOS starts at ${P.app} and takes 6–10 weeks. It works best when the school already has digital records to feed it. For many schools, a well-run website plus WhatsApp broadcasts covers parent communication until an app is justified.` },
     { question: "We already have a school ERP. Do we still need a website?", answer: "Usually yes. ERPs handle operations for existing parents, but prospective parents and search engines need a public site with admissions, facilities and trust signals. If your ERP includes a website you like, keep it. Otherwise we build a separate public site and link to the ERP login for parents." },
     { question: "Can you fix or rebuild our old school website?", answer: "Yes. We first secure the domain and hosting in the school’s name, then rebuild the site with current content, set redirects from old page addresses so links and search visibility carry over, and clean up any malware if the old site was compromised. You get the plan and itemised cost before work starts." },
-    { question: "What support do we get after launch?", answer: `Five months of free maintenance covers fixes, small changes, new sections and help with posting notices. After that, maintenance is optional and starts at ${P.care}. Because the school holds all logins and code, it can also manage the site internally or hand it to another developer.` },
+    { question: "What support do we get after launch?", answer: `Two months of free maintenance covers fixes, small changes, new sections and help with posting notices. After that, maintenance is optional and starts at ${P.care}. Because the school holds all logins and code, it can also manage the site internally or hand it to another developer.` },
     { question: "Do you visit the school campus?", answer: "No, we work remotely and do not make site visits. The school shares photos and content through a simple sheet and shared folder, and we meet the principal or administrator on video calls. If you want professional campus photos, a local photographer can shoot them and send the files to us." },
     { question: "How do schools pay for the website?", answer: "Payments are staged: an advance after management approves the itemised quote, a payment when the design is shown on a staging link, and the balance before launch. Schools in India pay by UPI or bank transfer, and we provide proper invoices. Trusts abroad can pay by Wise, bank wire or PayPal." },
     { question: "Can a WhatsApp bot answer admission questions?", answer: `Yes. A bot can answer common questions about fees, age criteria, documents and visit timings outside office hours and pass serious enquiries to the admissions office. AI automation like this starts at ${P.ai}. It works best after the school has written clear answers to its most frequent admission questions.` },
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a new school website before admissions? Talk to us",
-    note: `Message us on WhatsApp with your school’s name, board and current website if any. Management receives an itemised quote in about two working days, with school websites from ${P.site}, the domain in the school’s name and five months of free support.`,
+    note: `Message us on WhatsApp with your school’s name, board and current website if any. Management receives an itemised quote in about two working days, with school websites from ${P.site}, the domain in the school’s name and two months of free support.`,
   },
 };
 

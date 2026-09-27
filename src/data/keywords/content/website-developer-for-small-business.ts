@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Usual build time", "1–2 weeks"],
     ["Domain, hosting, email", "Registered in your name"],
     ["Quote", "Itemised, about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "100", label: "Pages allowed in the static plan" },
     { value: "3", label: "Freelancers who build and look after it" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Trust and legal", value: "Reviews, photos, privacy, terms" },
       { label: "Measurement", value: "Analytics and Google Search Console" },
       { label: "Starting price", value: `From ${P.site}, 1–2 weeks` },
-      { label: "Care", value: `5 months free, then from ${P.care}` },
+      { label: "Care", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Business email and hosting", note: "Mailboxes on your own domain, correct DNS records so mail does not land in spam, and hosting set up in your account.", href: "/cloud-hosting-setup-freelancer/", size: "md" },
       { name: "Monthly SEO", note: `Search Console reports, local pages and content fixes, from ${P.seo}. Honest reporting, no ranking promises.`, href: "/local-seo-expert/", size: "sm" },
       { name: "Billing or booking tool", note: `A simple internal tool for bookings, invoices or stock, as custom software from ${P.software}.`, href: "/billing-software-developer/", size: "sm" },
-      { name: "Ongoing upkeep", note: `Five free months, then updates, backups and small edits from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing upkeep", note: `Two free months, then updates, backups and small edits from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario used to show how the components fit together; it is not a client case.`,
         `A family hardware and paint store in a district town wants more contractors and homeowners to call before visiting. The owner needs a site he can forget about most days.`,
         `The plan: a home page with the store photo, “Call now” and “WhatsApp us” buttons, opening hours and a map. Category pages for paints, plumbing, electrical and tools, each with brands stocked and a prefilled WhatsApp message. An about page with the family's photo. Privacy and terms pages. Business email on the new domain. Google Business Profile linked, local schema added, analytics tracking every WhatsApp and call tap, and Search Console verified.`,
-        `That sits in the static plan from ${P.site} and launches in 1–2 weeks once photos arrive. During five free months of maintenance, stock brands and holiday timings are updated on request. Online ordering is left for later.`,
+        `That sits in the static plan from ${P.site} and launches in 1–2 weeks once photos arrive. During two free months of maintenance, stock brands and holiday timings are updated on request. Online ordering is left for later.`,
       ],
     },
     {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       heading: "Chhote business ki website mein kya-kya hona chahiye?",
       paragraphs: [
         `Sabse pehle domain, hosting aur business email apne naam par. Phir chaar pages: home, services, about aur contact. Har page par WhatsApp aur call button, contact page par Google Map, aur privacy policy ka page.`,
-        `Google Business Profile ko website se jodiye aur analytics lagwaiye taaki pata chale kitne log WhatsApp ya call kar rahe hain. Blog, online payment aur app baad mein bhi add ho sakte hain. Hamare saath aisi complete website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur 5 mahine maintenance free milta hai.`,
+        `Google Business Profile ko website se jodiye aur analytics lagwaiye taaki pata chale kitne log WhatsApp ya call kar rahe hain. Blog, online payment aur app baad mein bhi add ho sakte hain. Hamare saath aisi complete website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur 2 mahine maintenance free milta hai.`,
       ],
     },
   ],
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       ["Register the foundation in your name", "Domain, hosting and email are set up with your details on a short call, with passwords and two-factor login kept by you."],
       ["Build pages and contact tools", "Core pages, WhatsApp and call buttons, form and map appear on a staging link for you to check on your phone."],
       ["Connect search and measurement", "Business Profile linked, schema added, analytics events for calls and chats set, Search Console verified, then launch."],
-      ["Look after it", `Five months of free maintenance for edits, updates and backups, then optional upkeep from ${P.care}.`],
+      ["Look after it", `Two months of free maintenance for edits, updates and backups, then optional upkeep from ${P.care}.`],
     ],
   },
   faqHeading: "Website developer for small business: frequently asked questions",
@@ -360,14 +360,14 @@ const content: FreelanceContent = {
     { question: "Can you set up business email on my domain?", answer: "Yes. We connect mailboxes on your own domain through the email provider you choose, paid from your account, and set the DNS records such as SPF, DKIM and DMARC so messages reach inboxes. Addresses like info@ or orders@ on your domain make invoices and replies look far more professional." },
     { question: "How do I get enquiries on WhatsApp from my website?", answer: "Add a click-to-chat button with your business number and a prefilled message that names the page or service. On phones it opens WhatsApp directly. We also track these clicks in analytics, so you can see which pages produce chats. For automatic replies or order updates, WhatsApp automation is a separate project." },
     { question: "Will my small business website show up on Google?", answer: "It will be indexable and technically ready: titles, descriptions, schema, sitemap and Search Console are set before launch. Where it ranks depends on competition, content and reviews over time. Nobody can honestly guarantee rankings. Local businesses usually see the quickest gains from a well-kept Google Business Profile linked to the site." },
-    { question: "What does website maintenance include for a small business?", answer: `Maintenance covers small text and photo edits, updates, backups, uptime checks and fixing anything that breaks. BtechWaleTech includes five months free after launch. After that it is optional, starting at ${P.care}. You can also manage edits yourself or move the site to another developer, since everything is in your name.` },
+    { question: "What does website maintenance include for a small business?", answer: `Maintenance covers small text and photo edits, updates, backups, uptime checks and fixing anything that breaks. BtechWaleTech includes two months free after launch. After that it is optional, starting at ${P.care}. You can also manage edits yourself or move the site to another developer, since everything is in your name.` },
     { question: "Can I update the website myself?", answer: "Yes, if you choose a setup with an editing dashboard, such as WordPress or a headless CMS, for pages you change often. Many small businesses change their site only a few times a year, so a fast static build with edits sent to us on WhatsApp is often simpler and more secure. We recommend based on how often you expect changes." },
     { question: "How do I pay a website developer for a small business project?", answer: "Payments are staged against visible progress: an advance after you approve the quote, a payment when the design is ready, and the balance before launch. In India BtechWaleTech accepts UPI and bank transfer; clients abroad pay by Wise, bank wire or PayPal. Nothing is billed before your written approval." },
     { question: "Do I need a GST number to get a business website?", answer: "No, a website does not require a GSTIN. If you are GST-registered, showing the number on invoices and, where relevant, on your site adds credibility. If you plan to sell online, speak to your chartered accountant about GST registration and invoicing before launching the store, since rules depend on your turnover and products." },
     { question: "Can the same team build an online shop later?", answer: `Yes. Because the code and accounts stay in your name and we know the site, adding a shop later is straightforward. An online store with UPI and card checkout starts at ${P.shop}. Many small businesses start with WhatsApp orders from product pages and move to a full store once volumes justify it.` },
     { question: "Is a website still useful if most of my customers come by referral?", answer: "Yes. Referred customers usually look you up before calling. A clear site with your services, photos, timings and reviews reassures them and saves repeated explanations on the phone. It also gives you a professional link to share on WhatsApp, invoices and visiting cards." },
     { question: "What if my current website is old or broken?", answer: "We can redesign it or rebuild it on a faster setup, keeping your domain and planning redirects so search visibility is not lost. If it has been hacked, the clean-up comes first. Either way you receive an itemised quote before any work begins, so you can decide whether to repair or replace." },
-    { question: "Chhote business ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath complete small business website ${P.site} se shuru hoti hai, jismein pages, WhatsApp button, Google Map, privacy page aur Search Console setup shaamil hai. Domain aur hosting ka kharcha aap seedhe provider ko dete hain. Website 1–2 hafte mein live hoti hai aur 5 mahine maintenance free hai.` },
+    { question: "Chhote business ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath complete small business website ${P.site} se shuru hoti hai, jismein pages, WhatsApp button, Google Map, privacy page aur Search Console setup shaamil hai. Domain aur hosting ka kharcha aap seedhe provider ko dete hain. Website 1–2 hafte mein live hoti hai aur 2 mahine maintenance free hai.` },
     { question: "Do you visit the shop or office to take photos?", answer: "No, all our work is remote and we do not do photography or on-site visits. Clear phone photos taken in daylight usually work well; we can guide you on angles and what to shoot. For product-heavy businesses, a local photographer for half a day is often worth the cost." },
   ],
   related: {
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a complete small business website? Tell us about your business",
-    note: `Send a WhatsApp message or voice note about what you sell and where. You will get a component-by-component quote in about two working days, with complete sites from ${P.site}, everything in your name and five months of free maintenance.`,
+    note: `Send a WhatsApp message or voice note about what you sell and where. You will get a component-by-component quote in about two working days, with complete sites from ${P.site}, everything in your name and two months of free maintenance.`,
   },
 };
 

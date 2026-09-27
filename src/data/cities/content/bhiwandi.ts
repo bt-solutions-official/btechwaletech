@@ -30,11 +30,11 @@ const bhiwandi: CityContent = {
     eyebrow: "Bhiwandi · Maharashtra",
     h1: "Websites and software for Bhiwandi's looms, godowns and transporters",
     lede:
-      "A remote team of three engineers building websites, dispatch tools and WhatsApp automation for Bhiwandi's powerloom owners, fabric traders, warehouse operators, transporters and local shops. Our starting prices are public, you talk to the people who write the code, and five months of maintenance come free once your site is live.",
+      "A remote team of three engineers building websites, dispatch tools and WhatsApp automation for Bhiwandi's powerloom owners, fabric traders, warehouse operators, transporters and local shops. Our starting prices are public, you talk to the people who write the code, and two months of maintenance come free once your site is live.",
     pills: ["Sites from ₹10,000", "Warehouse and dispatch tools", "Fabric catalogues", "Transporter websites", "WhatsApp order logging"],
   },
   quickAnswer:
-    "In Bhiwandi, our static business website starts at ₹10,000 and takes one to two weeks, a 299+ page SEO site starts at ₹20,000, and custom tools such as warehouse or dispatch dashboards start at ₹60,000. We are a remote three-engineer team with no local office, and maintenance is free for five months after launch.",
+    "In Bhiwandi, our static business website starts at ₹10,000 and takes one to two weeks, a 299+ page SEO site starts at ₹20,000, and custom tools such as warehouse or dispatch dashboards start at ₹60,000. We are a remote three-engineer team with no local office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Civic body", value: "Bhiwandi-Nizampur City Municipal Corporation, Thane district, Mumbai Metropolitan Region" },
     { label: "Textiles", value: "One of India's largest powerloom clusters, often ranked second only to Surat" },
@@ -51,10 +51,10 @@ const bhiwandi: CityContent = {
     ai: "WhatsApp assistants that log orders, answer rate and stock questions in Hindi or English, and remind buyers about pending payments.",
     data: "Dashboards showing stock by godown, dispatches by client, loom output by shift and outstanding payments by buyer.",
     app: "Android and iOS apps for drivers, supervisors and godown staff to update deliveries and stock from their phones, starting at ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security fixes and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Most Bhiwandi businesses get their websites from a relative, a local computer shop or a listing salesman, and many of those sites stop being updated after a year. We publish our prices, three engineers do the work directly, and we look after the site for five months after launch without charging for it.",
+    "Most Bhiwandi businesses get their websites from a relative, a local computer shop or a listing salesman, and many of those sites stop being updated after a year. We publish our prices, three engineers do the work directly, and we look after the site for two months after launch without charging for it.",
   pricingIntro:
     "In Bhiwandi, website and software prices are usually settled over a phone call, and nobody puts them in writing. Ours are listed below. The final quote depends on pages, features, integrations and how much content you have ready, and it reaches you itemised before anything is billed.",
   sections: [
@@ -163,11 +163,11 @@ const bhiwandi: CityContent = {
     },
     {
       id: "ownership-maintenance-bhiwandi",
-      heading: "Your code, your data, and five months of free maintenance",
+      heading: "Your code, your data, and two months of free maintenance",
       paragraphs: [
         "For a business that keeps stock, trip or production records in software, ownership is not just about the website. It is about your data. We have seen Bhiwandi firms stuck with software they could not export from, built by someone who later became unreachable. When that happens, years of records can be lost or held hostage.",
         "Everything we build belongs to you. The domain is in your name, the hosting or cloud account is yours, and at launch you receive every login, the source code and a short document explaining how things work. Your data can be exported at any time in standard formats. If you want to move to another developer, you can do so without an exit fee or our permission. Our <a href=\"/services/web-development/\">development work</a> is written so other developers can understand it.",
-        "For five months after launch, maintenance is free: content updates, bug fixes, security and dependency updates, backups, uptime monitoring and performance checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change. For software that your operations depend on, we recommend keeping regular maintenance going.",
+        "For two months after launch, maintenance is free: content updates, bug fixes, security and dependency updates, backups, uptime monitoring and performance checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change. For software that your operations depend on, we recommend keeping regular maintenance going.",
       ],
     },
   ],
@@ -254,7 +254,7 @@ const bhiwandi: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch, we handle content updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
+        "For two months after launch, we handle content updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
     },
     {
       question: "Do you work with businesses in Thane, Kalyan, Mira-Bhayandar and nearby towns?",

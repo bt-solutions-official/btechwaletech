@@ -175,12 +175,12 @@ const pills = ["Japanese-language chatbots", "RAG over internal documents", "AI-
 const heroOrigin = "Engineers in India · Remote AI work for Japan in English · No office in Japan";
 const quoteKicker = "AI automation starting prices";
 const quotePlans = ["AI automation", "Custom web app", "Android", "Maintenance"];
-const quoteFoot = `Starting prices in USD, about ¥${JPY_PER_USD} per dollar for comparison. Model usage, LINE plans and platform fees are paid by you directly to the providers. 5 months of maintenance free after launch.`;
+const quoteFoot = `Starting prices in USD, about ¥${JPY_PER_USD} per dollar for comparison. Model usage, LINE plans and platform fees are paid by you directly to the providers. 2 months of maintenance free after launch.`;
 
 const stats = [
   { value: "3", label: "Engineers, no account managers" },
   { value: usd("AI automation"), label: `AI automation starting price, about ${jpy("AI automation")}` },
-  { value: "5", label: "Months maintenance free after launch" },
+  { value: "2", label: "Months maintenance free after launch" },
   { value: "12:30", label: "Our day starts in JST, 7 days a week" },
 ];
 
@@ -209,7 +209,7 @@ const services: { name: string; note: string; href?: string; size: "lg" | "md" |
   { name: "Custom AI web apps", note: "Review queues, internal search portals and quotation tools with login, roles and audit logs.", href: "/japan/software-development/", size: "sm" },
   { name: "AI in your mobile app", note: `Photo capture for AI-OCR or an in-app assistant, in one app for iPhone and Android from ${both("Android")}.`, href: "/japan/android-ios-developer/", size: "sm" },
   { name: "AI on your website", note: "Chat assistants, smarter enquiry forms and multilingual answers built into a fast website.", href: "/japan/website-developer/", size: "sm" },
-  { name: "Maintenance and monitoring", note: "Model updates, API changes, accuracy checks and small improvements, with 5 months free.", href: "/pricing/", size: "sm" },
+  { name: "Maintenance and monitoring", note: "Model updates, API changes, accuracy checks and small improvements, with 2 months free.", href: "/pricing/", size: "sm" },
 ];
 
 // ---------- Pricing ----------
@@ -365,7 +365,7 @@ const guide: Article[] = [
         ["Minimal FAQ chatbot from a template", "¥50,000 to ¥150,000", `A SaaS template may cost less; ours from ${both("AI automation")} when connected to your data`],
         ["Basic AI chatbot", "¥150,000 to ¥400,000", both("AI automation")],
         ["Complex or very complex AI chatbot", "¥400,000 to ¥800,000; very complex builds ¥800,000 and up", `${both("AI automation")} for one workflow; ${both("Custom web app")} with its own screens`],
-        ["Hosted AI chatbot service", "¥100,000 to ¥300,000 or more per month", `No platform fee from us; maintenance from ${both("Maintenance")} after 5 free months`],
+        ["Hosted AI chatbot service", "¥100,000 to ¥300,000 or more per month", `No platform fee from us; maintenance from ${both("Maintenance")} after 2 free months`],
         ["Business automation project", "¥200,000 to ¥1,000,000", both("AI automation")],
         ["AI chatbot or AI-OCR system, initial build", "¥500,000 to ¥3,000,000", `${both("AI automation")} for the first workflow`],
         ["Fully custom AI development", "¥1,000,000 to ¥5,000,000 and up", both("Custom web app")],
@@ -375,7 +375,7 @@ const guide: Article[] = [
     },
     after: [
       `<strong>Compare like with like.</strong> A minimal FAQ chatbot built from a template on a SaaS tool can cost less than our starting price, and if all you need is a handful of fixed answers on your website, that may be the right purchase. Our ${both("AI automation")} starting price is for something different: one mapped workflow connected to your real systems, with validation, logging, a human check where it matters and documentation. The fair comparison is with Japanese business automation projects at ¥200,000 to ¥1,000,000 and with custom AI builds, not with a template bot.`,
-      `<strong>Monthly fees are where costs add up.</strong> Hosted chatbot services and AI-powered RPA are often sold by the month, and the fees continue for as long as you use the tool. We do not charge a platform fee. You pay model usage, hosting and any automation platform directly to the provider, and after five free months of maintenance, ongoing support starts from ${both("Maintenance")}. For some teams a SaaS subscription is still the simpler choice; we will set out both totals over two or three years so you can decide.`,
+      `<strong>Monthly fees are where costs add up.</strong> Hosted chatbot services and AI-powered RPA are often sold by the month, and the fees continue for as long as you use the tool. We do not charge a platform fee. You pay model usage, hosting and any automation platform directly to the provider, and after two free months of maintenance, ongoing support starts from ${both("Maintenance")}. For some teams a SaaS subscription is still the simpler choice; we will set out both totals over two or three years so you can decide.`,
     ],
   },
   {
@@ -388,7 +388,7 @@ const guide: Article[] = [
       `<strong>From ${both("AI automation")}, AI automation:</strong> one well-defined workflow, for example FAX orders read by AI-OCR, validated against your product master and written to kintone with a Chatwork alert, or a Japanese FAQ assistant on LINE that answers from your documents and hands over to staff. Includes process mapping, prompts, integration, a test set built from your real examples, logging and handover notes.`,
       `<strong>From ${both("Custom web app")}, custom AI web app:</strong> for automations that need their own screens, such as a review queue where staff approve AI-extracted orders, an internal document search with login and permissions, or a quotation tool with an approval flow.`,
       `<strong>From ${both("Android")}, mobile app with AI features:</strong> one app for iPhone and Android, for example field staff photographing delivery notes for AI-OCR, or a customer app with a support assistant. More on the <a href="/japan/android-ios-developer/">Android and iOS developer page for Japan</a>.`,
-      `<strong>From ${both("Maintenance")}, maintenance:</strong> monitoring, prompt and model updates when providers retire models, fixes when a connected tool changes its API, and small improvements, after five free months following launch.`,
+      `<strong>From ${both("Maintenance")}, maintenance:</strong> monitoring, prompt and model updates when providers retire models, fixes when a connected tool changes its API, and small improvements, after two free months following launch.`,
     ],
     after: [
       `<strong>What raises a quote:</strong> several workflows at once, connections to older on-premise systems without an API, handwritten documents, strict data residency requirements, many user roles, and high accuracy targets that need a larger test set. <strong>What keeps it down:</strong> one process owner who can answer questions quickly, anonymised sample documents at the start, systems with modern APIs, and agreeing to launch with a human check before removing it.`,
@@ -674,7 +674,7 @@ const process: [string, string][] = [
   ["Samples and test set", "You share anonymised examples, and we build a test set with known answers before writing prompts."],
   ["Build on staging", "The workflow runs in a staging environment on your test data. You try it and send us the misses."],
   ["Parallel run", "The automation runs alongside your staff, with every output reviewed, until the agreed accuracy is reached."],
-  ["Go live and support", "Switch-over in your afternoon, monitoring, handover of accounts and notes, then 5 months of free maintenance."],
+  ["Go live and support", "Switch-over in your afternoon, monitoring, handover of accounts and notes, then 2 months of free maintenance."],
 ];
 const timelineFine = "AI automation timelines assume sample documents, system access and a process owner are available in the first week. A parallel run with staff checking every output usually adds one to two weeks before full go-live.";
 

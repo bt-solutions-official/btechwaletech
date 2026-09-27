@@ -38,10 +38,10 @@ const content: CityContent = {
     h1: "Freelance IT services in Naharlagun: lead capture, follow-up automation and custom software",
     lede:
       "BtechWaleTech offers freelance IT services in Naharlagun and the Itanagar Capital Region: three independent engineers, working remotely from India, who build service websites that capture leads, CRM and WhatsApp follow-up automation, AI agents, web apps and dashboards. If you were comparing software development companies in Naharlagun, you will find our prices published and our engineers reachable directly.",
-    pills: ["Lead capture and CRM", "Follow-up automation from ₹40,000", "Service sites from ₹10,000", "Android & iOS apps from ₹40,000", "5 months free maintenance"],
+    pills: ["Lead capture and CRM", "Follow-up automation from ₹40,000", "Service sites from ₹10,000", "Android & iOS apps from ₹40,000", "2 months free maintenance"],
   },
   quickAnswer:
-    "For freelance IT services in Naharlagun, BtechWaleTech's three remote engineers build service websites from ₹10,000 (1 to 2 weeks), lead capture and follow-up automation from ₹40,000 (2 to 4 weeks), and custom web apps from ₹60,000 (6 to 12 weeks). Quotes are itemised within about two working days, and maintenance is free for five months.",
+    "For freelance IT services in Naharlagun, BtechWaleTech's three remote engineers build service websites from ₹10,000 (1 to 2 weeks), lead capture and follow-up automation from ₹40,000 (2 to 4 weeks), and custom web apps from ₹60,000 (6 to 12 weeks). Quotes are itemised within about two working days, and maintenance is free for two months.",
   snapshot: [
     { label: "Place", value: "Twin town of Itanagar, forming the Itanagar Capital Region in Papum Pare district" },
     { label: "Rail link", value: "Naharlagun railway station connects the capital to Assam through Harmuti Junction" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents that reply to new enquiries within seconds, qualify them with a few questions and schedule follow-ups for your staff.",
     data: "Lead and revenue dashboards showing where enquiries come from, how many convert and which follow-ups are overdue.",
     app: "Android and iOS apps for Capital Region clinics, coaching centres, shops and delivery businesses, built in Flutter or React Native with push notifications and an admin panel, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then care plans from ₹8,000 a month for fixes, updates, backups and monitoring.",
+    maintenance: "Two months of free maintenance after launch, then care plans from ₹8,000 a month for fixes, updates, backups and monitoring.",
   },
   whyUsIntro:
     "Plenty of providers in the capital region will build a website. Fewer will ask what happens to an enquiry after it arrives. We are a freelance group of three engineers who focus on that second question, publish prices, answer seven days a week and hand every login back to you.",
@@ -145,7 +145,7 @@ const content: CityContent = {
         "Android and iOS app development in Naharlagun starts at ₹40,000 with BtechWaleTech and typically takes six to ten weeks. Each app is built once in Flutter or React Native and published on both Google Play and the Apple App Store under your own accounts, with customer or staff login, forms, push notifications and an admin panel with its API.",
         "The Capital Region stretches along a long hilly corridor from Banderdewa through Naharlagun and Nirjuli to Itanagar and Doimukh, so apps that organise movement are especially useful. A delivery app can group orders by area and show riders the day's route. A home-service app can assign plumbers, electricians or technicians to jobs and let them close each job with a photo and customer signature.",
         "Customer-facing apps work well where people return often, and in a capital with many officers and professionals, a fair share of those customers use iPhones. A clinic near TRIHMS can let patients book, receive reminders and download reports. A coaching centre in Nirjuli can push class changes, share notes by batch and run practice tests. A bakery or grocer can offer one-tap reorders with delivery-zone pricing. Enquiries from the app land in the same list as website and WhatsApp leads.",
-        "Our honest advice: if customers will only use it once or twice, a fast website is cheaper and easier to find. If they will use it weekly, an Android and iOS app with push notifications keeps you on their home screen. You own both store listings, the code and the admin panel, and maintenance is free for five months after launch.",
+        "Our honest advice: if customers will only use it once or twice, a fast website is cheaper and easier to find. If they will use it weekly, an Android and iOS app with push notifications keeps you on their home screen. You own both store listings, the code and the admin panel, and maintenance is free for two months after launch.",
       ],
       list: [
         "Clinic and lab app: bookings, reminders, report downloads",
@@ -177,7 +177,7 @@ const content: CityContent = {
       id: "cloud-maintenance-naharlagun",
       heading: "Cloud hosting, DevOps and maintenance for Naharlagun projects",
       paragraphs: [
-        "Every Naharlagun project we deliver includes cloud hosting set up in your name, SSL, backups, uptime monitoring and scripted deployment, followed by five months of free maintenance. Hosting runs on static hosts for websites and on AWS or similar managed platforms for applications, chosen to keep monthly costs low and predictable.",
+        "Every Naharlagun project we deliver includes cloud hosting set up in your name, SSL, backups, uptime monitoring and scripted deployment, followed by two months of free maintenance. Hosting runs on static hosts for websites and on AWS or similar managed platforms for applications, chosen to keep monthly costs low and predictable.",
         "DevOps sounds complicated, but for a small business it comes down to a few habits: code kept in a repository, changes tested before going live, automatic backups you can restore, and alerts when something fails. We put these in place so that a fix takes minutes and a mistake can be rolled back.",
         "After the free period, maintenance starts at ₹8,000 a month, or you can pay per change. Our support is remote and limited to the systems we build and host; for printers, laptops and office networks, you will need a local technician.",
       ],
@@ -252,7 +252,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes, for five months. Once your project is live, we cover bug fixes, small content updates, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you pay per change. New features are always quoted separately.",
+        "Yes, for two months. Once your project is live, we cover bug fixes, small content updates, security patches, backups and uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you pay per change. New features are always quoted separately.",
     },
     {
       question: "Who owns the website, app and data?",

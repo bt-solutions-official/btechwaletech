@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read orders, invoices and certificates, answer dealer and patient questions on WhatsApp in Gujarati or English, and draft reports.",
     data: "MIS dashboards that pull from Tally, Busy, spreadsheets and our systems so Ahmedabad owners see sales, stock and dues without asking.",
     app: "Android and iOS apps from ₹40,000 for Ahmedabad salesmen, dealers, delivery staff and customers, built in Flutter or React Native and published on both app stores.",
-    maintenance: "Five months of free support after launch, then optional monthly care from ₹8,000 for fixes, updates, backups and monitoring.",
+    maintenance: "Two months of free support after launch, then optional monthly care from ₹8,000 for fixes, updates, backups and monitoring.",
   },
   whyUsIntro:
     "Ahmedabad owners compare quotes line by line, and they should. BtechWaleTech gives you a written diagnosis first, an itemised price for each fix, and the same three engineers from audit to handover.",
@@ -167,7 +167,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting runs your Ahmedabad business's software on professional servers with daily backups, access control and monitoring, so a failed office PC or a flooded server room during the monsoon does not stop work. Staff at the factory, godown and head office all reach the same system securely.",
         "We deploy on AWS, DigitalOcean or similar providers with SSL, role-based access, audit logs, encrypted backups and uptime alerts. Systems holding personal data get consent records and deletion workflows in line with the Digital Personal Data Protection Act 2023, which your legal adviser can review.",
-        "After launch, the first five months of support are free. Monthly plans start from ₹8,000 afterwards. We do not provide hardware or networking; a local vendor handles those while we manage software and hosting.",
+        "After launch, the first two months of support are free. Monthly plans start from ₹8,000 afterwards. We do not provide hardware or networking; a local vendor handles those while we manage software and hosting.",
       ],
     },
     {
@@ -226,13 +226,13 @@ const content: CityContent = {
         "After launch, an Ahmedabad business pays for four things: hosting, third-party services, the domain and certificates, and people to keep the software healthy. The build price is only the first bill. Owners who budget for the running side from day one avoid the familiar story of a good system quietly decaying because nobody was paid to update it.",
         "Hosting depends on traffic and data. A brochure site for a CG Road showroom can run on low-cost static hosting, while an order portal used by dealers across Saurashtra needs a small cloud server, a managed database and daily backups. Third-party services add up separately: WhatsApp Business API conversations are billed by Meta through a provider, SMS and email have per-message charges, and AI features call a model that bills by usage. We list each of these in the proposal with the vendor's current pricing page so nothing surprises you.",
         "The accounts should sit in your name, paid by your card or bank. That keeps ownership clean if you change developers and lets your accountant see real invoices. We set up alerts so a cost spike on a Diwali sale day is noticed the same week, not at the end of the quarter.",
-        "People cost is the part most owners skip. The first five months of maintenance are free with every build we deliver. After that, a monthly plan from ₹8,000 covers security updates, bug fixes, backups, small changes and uptime checks. Some Ahmedabad clients prefer to call us only when something changes; that works too, as long as someone updates the software dependencies a few times a year.",
+        "People cost is the part most owners skip. The first two months of maintenance are free with every build we deliver. After that, a monthly plan from ₹8,000 covers security updates, bug fixes, backups, small changes and uptime checks. Some Ahmedabad clients prefer to call us only when something changes; that works too, as long as someone updates the software dependencies a few times a year.",
       ],
       list: [
         "Hosting and database: sized to real traffic",
         "Third-party services: WhatsApp API, SMS, email, AI usage",
         "Domain, email accounts and certificates",
-        "Maintenance: 5 months free, then from ₹8,000 a month",
+        "Maintenance: 2 months free, then from ₹8,000 a month",
       ],
     },
   ],
@@ -289,7 +289,7 @@ const content: CityContent = {
     },
     {
       question: "What is included after launch?",
-      answer: "Five months of free support covering bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
+      answer: "Two months of free support covering bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can apps and software be in Gujarati?",
@@ -321,7 +321,7 @@ const content: CityContent = {
     },
     {
       question: "Will hosting and other running costs be billed through you?",
-      answer: "No, we prefer they are not. Hosting, domain, WhatsApp API and AI usage are billed to accounts created in your own name, so an Ahmedabad business keeps full control and clean GST invoices from each vendor. We estimate these costs in the proposal and set up alerts. Our own fee after the free five months is the maintenance plan, from ₹8,000 a month.",
+      answer: "No, we prefer they are not. Hosting, domain, WhatsApp API and AI usage are billed to accounts created in your own name, so an Ahmedabad business keeps full control and clean GST invoices from each vendor. We estimate these costs in the proposal and set up alerts. Our own fee after the free two months is the maintenance plan, from ₹8,000 a month.",
     },
   ],
   nearby: ["ahmedabad", "vadodara", "anand", "nadiad", "mahesana", "surat", "rajkot", "patan", "bhavnagar", "palanpur"],

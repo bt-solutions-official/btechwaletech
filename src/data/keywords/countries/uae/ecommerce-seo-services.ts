@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who both optimise and build stores" },
     { value: "2", label: "Working days to an itemised ecommerce SEO plan" },
-    { value: "5", label: "Months of free maintenance after a new store build" },
+    { value: "2", label: "Months of free maintenance after a new store build" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -325,7 +325,7 @@ const content: FreelanceContent = {
         ["Arabic category rollout", "Stores with Arabic-speaking customers", "Quoted per category set", "Arabic pages, hreflang, RTL checks"],
         ["Store rebuild", "Stores on slow or limiting platforms", `From ${P.shop}`, "4–8 weeks, schema and feeds built in"],
         ["Content-heavy SEO site", "Brands adding large guide libraries", `From ${P.seoSite}`, "299+ pages in 3–5 weeks"],
-        ["Store maintenance", "After 5 free months post-launch", `From ${P.care}`, "Updates, backups, fixes and checks"],
+        ["Store maintenance", "After 2 free months post-launch", `From ${P.care}`, "Updates, backups, fixes and checks"],
       ],
       hideSm: [1],
     },

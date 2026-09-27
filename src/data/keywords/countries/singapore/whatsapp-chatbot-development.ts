@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "24h", label: "Customer service window Meta opens when a customer messages you" },
     { value: "21", label: "Days a DNC Registry check stays valid for marketing sends" },
     { value: "3", label: "Freelance developers: automation, AI and full-stack" },
-    { value: "5", label: "Months of free fixes after your WhatsApp bot launches" },
+    { value: "2", label: "Months of free fixes after your WhatsApp bot launches" },
   ],
   answer: {
     heading: "What does a WhatsApp chatbot in Singapore cost, and what should it handle?",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Meta charges", value: "Per delivered template message, by category, billed by Meta to you" },
       { label: "Free messages", value: "Replies inside the 24-hour customer service window" },
       { label: "Compliance design", value: "Opt-in records, DNC checks for marketing, unsubscribe keyword" },
-      { label: "After launch", value: `Five months of free fixes, then care from ${P.care}` },
+      { label: "After launch", value: `Two months of free fixes, then care from ${P.care}` },
     ],
   },
   services: {
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The Meta Business portfolio, WhatsApp Business Account, phone number, templates, webhook server, code repository and contact database are all created in your name, and our access is removed at handover unless you keep us on.`,
         `That matters more on WhatsApp than on most channels. The number is how customers reach you; if it belongs to a vendor, switching vendors can mean a new number and lost chat history. Keeping ownership with you from day one avoids that trap.`,
-        `The handover pack covers how to edit bot replies, add a service or outlet, submit a new template to Meta, read the hand-off report, export consent records, and rotate access tokens. A screen recording walks your staff through the inbox. Fixes are free for five months after launch; after that care starts from ${P.care}, or your own developer can take over. Anything beyond this is agreed in your written quote and our <a href='/terms/'>terms</a>.`,
+        `The handover pack covers how to edit bot replies, add a service or outlet, submit a new template to Meta, read the hand-off report, export consent records, and rotate access tokens. A screen recording walks your staff through the inbox. Fixes are free for two months after launch; after that care starts from ${P.care}, or your own developer can take over. Anything beyond this is agreed in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
     { question: "Can Meta block my WhatsApp number?", answer: "Meta can limit or restrict numbers that break its policies or collect many blocks and reports. Staying safe is mostly about behaviour: message only people who opted in, keep promotions relevant and infrequent, honour opt-outs, and never use unofficial tools that automate a normal WhatsApp account. Our builds follow those rules by design." },
     { question: "Is a remote team in India practical for a Singapore WhatsApp project?", answer: "Yes for most projects. India is two and a half hours behind Singapore, so most of your working day overlaps with ours, and everything happens in cloud accounts and on video calls. We do not visit outlets or train staff in person; training is done over video with a recorded walkthrough." },
     { question: "How do I pay for a WhatsApp chatbot build?", answer: "Quotes and invoices are in USD and come from India. You can pay by Wise, which works well from an SGD balance, by international bank wire or by PayPal, following the milestone schedule in your quote. Nothing is billed before you approve the scope in writing. Meta bills its message charges to you directly." },
-    { question: "What happens after the WhatsApp chatbot launches?", answer: `We watch the first weeks closely and fix anything that misbehaves. Fixes are free for five months after launch. After that, optional care starts from ${P.care} and covers template updates, integration changes and monitoring, or your own developer can take over using the handover documentation.` },
+    { question: "What happens after the WhatsApp chatbot launches?", answer: `We watch the first weeks closely and fix anything that misbehaves. Fixes are free for two months after launch. After that, optional care starts from ${P.care} and covers template updates, integration changes and monitoring, or your own developer can take over using the handover documentation.` },
     { question: "Can a WhatsApp chatbot help my Google ranking?", answer: "Not directly. The bot serves people who already found you. A WhatsApp button on fast, clear service pages makes it easier for search visitors to enquire, and the questions customers ask the bot often show which pages your site is missing. Nobody can guarantee rankings, and we do not promise them." },
   ],
   related: {

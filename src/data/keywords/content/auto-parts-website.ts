@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store build time", "4–8 weeks, fitment data permitting"],
     ["Checkout in India", "UPI, cards and cash on delivery"],
     ["Your quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers across build, data and project management" },
     { value: "4–8", label: "Weeks for a typical parts store" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform commission on your own store’s orders" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Garage and dealer portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Payments", value: "UPI, cards and COD with rules you set" },
       { label: "Catalogue data", value: "Stored in your database, exportable any time" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
       heading: "Auto parts website ownership and launch checklist",
       paragraphs: [
         `Your catalogue and fitment data are the most valuable part of the project, so they must belong to you. The domain, hosting, code repository and database are set up in your name, and you can export the full catalogue to a spreadsheet at any time.`,
-        `The first five months after launch include free maintenance: fixes, updates, backups and small changes. After that, maintenance starts at ${P.care} if you want it. Payment stages and any confidentiality terms are written into the quote you approve; see our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> for the general position. Before launch, check this list:`,
+        `The first two months after launch include free maintenance: fixes, updates, backups and small changes. After that, maintenance starts at ${P.care} if you want it. Payment stages and any confidentiality terms are written into the quote you approve; see our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> for the general position. Before launch, check this list:`,
       ],
       list: [
         "Top categories fully mapped to the vehicles you sell most",
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
         ["Android and iOS app for garages or salesmen", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["WhatsApp order desk and data-cleaning automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Monthly parts SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Build the vehicle master", "We agree the make, model, year and variant structure for your range, then write import rules that map your sheets onto it and flag unclear rows."],
       ["Review the store on staging", "You test the fitment finder, part number search and checkout on your phone with real part numbers, and send corrections as messages or voice notes."],
       ["Load data and go live", "Your top categories are fully mapped, COD and return rules configured, domain and SSL connected, Search Console verified and staff trained on the admin screens."],
-      ["Five months of free support", `Fixes, updates, backups and small changes are free for five months. After that, maintenance from ${P.care} continues only if you choose.`],
+      ["Two months of free support", `Fixes, updates, backups and small changes are free for two months. After that, maintenance from ${P.care} continues only if you choose.`],
     ],
   },
   faqHeading: "Auto parts website: common questions from parts sellers",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Can mechanics order on WhatsApp instead?", answer: `Yes. We connect WhatsApp to the same catalogue and order system, so staff can confirm a part from a number or photo, send a payment link or bill the garage’s account, and send dispatch updates automatically. This keeps phone-style ordering alive while every order lands in one place. Automation starts at ${P.ai}.` },
     { question: "Do you build apps for garages or salesmen?", answer: `Yes. We build Android and iOS apps from ${P.app} with Flutter or React Native, published in your own store accounts. Apps suit salesmen who place orders for garages or regular buyers who reorder often. For many sellers, a fast mobile-friendly portal is enough, so we suggest that first where it fits.` },
     { question: "Can you connect the store to Tally or my inventory software?", answer: "Often, yes. Typical links sync stock levels and prices from your billing or inventory software and send online orders back into it. The work depends on your software version and how it exports data, so we check your setup first and quote the integration as a separate line." },
-    { question: "Who owns the catalogue data after the website is built?", answer: `You do. The database, domain, hosting and code are in your name, and the catalogue including fitment mappings can be exported to a spreadsheet at any time. If you later move to another developer or platform, your data goes with you. Maintenance from ${P.care} after the five free months is optional.` },
+    { question: "Who owns the catalogue data after the website is built?", answer: `You do. The database, domain, hosting and code are in your name, and the catalogue including fitment mappings can be exported to a spreadsheet at any time. If you later move to another developer or platform, your data goes with you. Maintenance from ${P.care} after the two free months is optional.` },
     { question: "Can I sell tractor, truck or commercial vehicle parts?", answer: "Yes. Commercial vehicles and tractors often go by model, series or chassis number rather than year, so we design the vehicle structure around how your buyers identify their machines. The same part number search and trade pricing features apply, and product pages can show technical specs that fleet mechanics check." },
     { question: "How do I reduce wrong-part orders online?", answer: "Use a fitment finder, show several clear photos with measurements and connector details, list every compatible vehicle, add a short “check before you order” note, and support part number search with cross-references. Recording a “did not fit” reason on returns shows which listings need better data. A WhatsApp fitment check helps for uncertain buyers." },
     { question: "Spare parts ka online store banane mein kitna time aur kharcha lagta hai?", answer: `BtechWaleTech ke saath fitment finder wala parts store ${P.shop} se shuru hota hai aur aam taur par 4–8 hafte lagte hain. Garage login, trade price aur bulk order wala portal ${P.software} se shuru hota hai. Asli time aapke parts data par depend karta hai, isliye top categories se shuru karna best rehta hai.` },
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an auto parts website? Send us a sample of your parts data",
-    note: `Share a supplier sheet and your top categories on WhatsApp. You will get an itemised plan in about two working days, with parts stores from ${P.shop}, all data and accounts in your name, and five months of free maintenance after launch.`,
+    note: `Share a supplier sheet and your top categories on WhatsApp. You will get an itemised plan in about two working days, with parts stores from ${P.shop}, all data and accounts in your name, and two months of free maintenance after launch.`,
   },
 };
 

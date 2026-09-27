@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Managed platforms", "Amazon EKS, Google GKE, Azure AKS"],
     ["Quote turnaround", "About 2 working days"],
     ["Cloud bill", "Paid by you, straight to the provider"],
-    ["After go-live", "5 months of free fixes, then care from " + P.care],
+    ["After go-live", "2 months of free fixes, then care from " + P.care],
   ],
   stats: [
     { value: "3", label: "Freelance developers: apps, cloud and project management" },
     { value: "2", label: "Working days to an itemised Kubernetes quote" },
-    { value: "5", label: "Months of free fixes after the cluster goes live" },
+    { value: "2", label: "Months of free fixes after the cluster goes live" },
     { value: "0", label: "Platform or marketplace fees added to your bill" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Packaging", value: "Helm charts kept in your Git repository" },
       { label: "Observability", value: "Prometheus metrics, Grafana dashboards, alert routing" },
       { label: "Setup or migration", value: `From ${P.software} · 6–12 weeks` },
-      { label: "Ongoing care", value: `5 free months, then from ${P.care}` },
+      { label: "Ongoing care", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Kubernetes consultant costs with us",
-    note: `Kubernetes work is quoted per milestone after a short call about your services, traffic and cloud. A cluster build or migration starts at ${P.software} (${P.softwareUsd}) and usually runs 6–12 weeks. The quote moves with the number of services to containerise, whether you already have Dockerfiles, how many environments you want (dev, staging, production), stateful components such as databases or queues, multi-region needs, and how much monitoring and alerting you want wired up. Your cloud provider bills cluster, node and storage charges to you directly. After launch you get 5 months of free fixes; ongoing care starts at ${P.care}. Every figure is a starting price, and nothing is billed before you approve the itemised quote in writing.`,
+    note: `Kubernetes work is quoted per milestone after a short call about your services, traffic and cloud. A cluster build or migration starts at ${P.software} (${P.softwareUsd}) and usually runs 6–12 weeks. The quote moves with the number of services to containerise, whether you already have Dockerfiles, how many environments you want (dev, staging, production), stateful components such as databases or queues, multi-region needs, and how much monitoring and alerting you want wired up. Your cloud provider bills cluster, node and storage charges to you directly. After launch you get 2 months of free fixes; ongoing care starts at ${P.care}. Every figure is a starting price, and nothing is billed before you approve the itemised quote in writing.`,
   },
   guideLabel: "Kubernetes consultant guide",
   guide: [
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       id: "consultant-cost",
       heading: "How much does a Kubernetes consultant cost in India?",
       paragraphs: [
-        `With our freelance team, a Kubernetes cluster build or migration starts at ${P.software} (${P.softwareUsd}), and ongoing care starts at ${P.care} after 5 free months. Quotes from other consultants in India vary widely, because the scope behind the words “set up Kubernetes” ranges from a single demo cluster to a multi-region platform.`,
+        `With our freelance team, a Kubernetes cluster build or migration starts at ${P.software} (${P.softwareUsd}), and ongoing care starts at ${P.care} after 2 free months. Quotes from other consultants in India vary widely, because the scope behind the words “set up Kubernetes” ranges from a single demo cluster to a multi-region platform.`,
         `The things that move a Kubernetes consultant’s quote are easy to list. The number of services matters most, since each needs a Dockerfile, a chart, probes and a pipeline. Starting point matters next: apps already running in Docker are quicker than apps installed by hand on a server years ago. Environments multiply work, as do stateful parts such as queues, search engines or file storage. Compliance asks, such as audit logs or network isolation between tenants, add time. So does migrating live traffic with zero downtime rather than during a quiet window.`,
         `Keep two bills in mind. Our fee is for the engineering. Your cloud provider separately bills the cluster, nodes, load balancers, storage and data transfer, and that bill continues every month. A good consultant should estimate both before you commit, and should show how the cloud bill changes at your expected traffic, not just at launch.`,
       ],
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
         `Plan on a Kubernetes minor-version upgrade roughly every few months to a year. The Kubernetes release page states that the project maintains branches for the three most recent minor releases, and that Kubernetes 1.19 and newer receive about a year of patch support, so a cluster left alone drifts out of support fast.`,
         `Managed platforms upgrade the control plane for you on request or on a schedule, but that is only half the job. Your Helm charts, add-ons (ingress controller, certificate manager, monitoring stack) and any deprecated APIs in your manifests must be ready for the new version before you press the button. Upgrades go wrong when a removed API version is still in use, or an add-on only supports older releases.`,
         `Our upgrade routine is dull on purpose: scan manifests for deprecated APIs, upgrade add-ons in staging, upgrade the staging control plane and node pools, run smoke tests and a short load test, then repeat in production during a quiet window with a rollback plan ready. It typically takes an afternoon of attention per cluster once the charts are clean.`,
-        `Upgrades are the most common reason teams need a Kubernetes consultant after launch. If you would rather not track release notes, it can be part of monthly care from ${P.care}, and the 5 free months after launch cover fixes to anything we built.`,
+        `Upgrades are the most common reason teams need a Kubernetes consultant after launch. If you would rather not track release notes, it can be part of monthly care from ${P.care}, and the 2 free months after launch cover fixes to anything we built.`,
       ],
     },
     {
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
         ["Migration from VMs to Kubernetes", "Containerising, parallel run, zero-downtime cut-over", `${P.software} · ${P.softwareUsd}`, "8–12 weeks"],
         ["Autoscaling and load testing", "Metrics-based scaling, node autoscaling, test report", `Quoted within the build from ${P.software}`, "1–2 weeks"],
         ["GPU or AI inference pool", "Model server, GPU nodes, scale-to-zero", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Monthly cluster care", "Upgrades, cost review, alert tuning, fixes", `${P.care} · ${P.careUsd}`, "Monthly, after 5 free months"],
+        ["Monthly cluster care", "Upgrades, cost review, alert tuning, fixes", `${P.care} · ${P.careUsd}`, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -391,13 +391,13 @@ const content: FreelanceContent = {
       ["Itemised quote", "Milestones with a starting price each, sent in about two working days. Nothing is billed until you approve it in writing."],
       ["Build in staging", "Terraform cluster, containers, Helm charts, monitoring and pipeline, demoed to you at each milestone so there are no surprises at the end."],
       ["Load test and cut-over", "Autoscaling proven under simulated peak load, then production traffic moved with a rollback plan and a parallel run where needed."],
-      ["Handover and care", "Runbooks, recorded walkthrough, access audit, 5 months of free fixes, and optional monthly care covering upgrades and cost reviews."],
+      ["Handover and care", "Runbooks, recorded walkthrough, access audit, 2 months of free fixes, and optional monthly care covering upgrades and cost reviews."],
     ],
   },
   faqHeading: "Kubernetes consultant: questions people ask",
   faqs: [
     { question: "What does a Kubernetes consultant do?", answer: "A Kubernetes consultant assesses whether your applications need container orchestration, then designs and builds a managed cluster with networking, Helm charts, autoscaling, monitoring and security controls. A good one also documents everything, trains your team, and leaves the cluster in accounts you own, so you are not dependent on them for every deploy, upgrade or late-night incident." },
-    { question: "How much does a Kubernetes consultant cost in India?", answer: `Quotes vary widely because scopes differ, from a demo cluster to a multi-region platform. With our freelance team, a cluster build or migration starts at ${P.software} (${P.softwareUsd}) and usually takes 6 to 12 weeks, with ongoing care from ${P.care} after five free months. Your cloud provider bills the cluster and nodes to you separately every month.` },
+    { question: "How much does a Kubernetes consultant cost in India?", answer: `Quotes vary widely because scopes differ, from a demo cluster to a multi-region platform. With our freelance team, a cluster build or migration starts at ${P.software} (${P.softwareUsd}) and usually takes 6 to 12 weeks, with ongoing care from ${P.care} after two free months. Your cloud provider bills the cluster and nodes to you separately every month.` },
     { question: "Do small businesses need Kubernetes?", answer: "Usually not. A business with one website or one app and a database is better served by simple hosting, Docker Compose on a virtual machine, or a managed platform. Kubernetes starts paying off when you run several services, face sharp traffic spikes, deploy many times a week, or have multiple teams shipping independently. A good consultant will tell you if you are not there yet." },
     { question: "Is EKS, GKE or AKS better?", answer: "None is better in every case. The right choice is usually the cloud where your data, credits and team skills already are. GKE Autopilot needs the least node management, AKS has a free management tier suited to development clusters, and EKS fits teams already deep in AWS. Keeping the cluster close to your database matters more than small feature differences." },
     { question: "How long does it take to set up a Kubernetes cluster?", answer: "A basic managed cluster can be created in an afternoon, but a production-ready setup takes longer. With containers, Helm charts, ingress, certificates, monitoring, autoscaling, pipelines and a load test, a typical first build with us takes 6 to 8 weeks for two to four services, and migrations from existing servers take 8 to 12 weeks including a parallel run." },

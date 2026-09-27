@@ -30,11 +30,11 @@ const valsad: CityContent = {
     eyebrow: "Valsad · Gujarat",
     h1: "Websites, apps, SEO and AI automation for Valsad's mango growers, Gundlav manufacturers and Halar Road businesses",
     lede:
-      "Three engineers, working remotely, building websites, product catalogues, seasonal mango stores and WhatsApp automation for businesses across Valsad: chemical and engineering units in Gundlav GIDC, suppliers around Atul, orchard owners, Tithal Road hotels, clinics and shops. Starting prices are published, you deal with the developers directly, and maintenance is free for five months.",
+      "Three engineers, working remotely, building websites, product catalogues, seasonal mango stores and WhatsApp automation for businesses across Valsad: chemical and engineering units in Gundlav GIDC, suppliers around Atul, orchard owners, Tithal Road hotels, clinics and shops. Starting prices are published, you deal with the developers directly, and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Gujarati and English pages", "Hapus pre-order stores", "Chemical unit catalogues", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "For a Valsad business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for mangoes or products at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Valsad office, and the first five months of maintenance are free.",
+    "For a Valsad business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for mangoes or products at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Valsad office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Valsad district in south Gujarat, a few kilometres inland from the Arabian Sea" },
     { label: "Connectivity", value: "On the Western Railway's Mumbai–Delhi main line and National Highway 48" },
@@ -51,7 +51,7 @@ const valsad: CityContent = {
     ai: "WhatsApp replies in Gujarati, Hindi or English that share mango availability, product specs or room rates while you are busy.",
     data: "Season-wise sales, repeat buyers and enquiry sources shown on a simple dashboard you can open on your phone.",
     app: "Android and iPhone apps for pre-orders, school updates or clinic bookings, published on both app stores in six to ten weeks.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you choose.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
     "Many Valsad businesses have been sold a website once, paid an annual fee for it, and still can't change a phone number without calling someone. We work differently: prices in writing, everything registered in your name, direct access to the people building your site, and replies on WhatsApp every day.",
@@ -167,7 +167,7 @@ const valsad: CityContent = {
       paragraphs: [
         "A common story in south Gujarat towns: a business paid for a website years ago, the builder kept the domain in his own name, and now the firm pays an annual renewal it cannot verify and cannot move away from. We avoid that entirely.",
         "Your domain and hosting are registered in your name, on your account, from day one. At launch you receive all logins, the complete source code and a short note describing how the site is built. You can move to another developer at any time without paying us an exit fee or asking permission.",
-        "For five months after launch, we handle maintenance free: content and price updates, fixes, security patches, backups and uptime checks. For mango stores, that usually covers a full season. After five months, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "For two months after launch, we handle maintenance free: content and price updates, fixes, security patches, backups and uptime checks. For mango stores, that usually covers a full season. After two months, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
       ],
     },
     {
@@ -258,7 +258,7 @@ const valsad: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. There is no contract forcing you to continue.",
+        "For two months after launch we handle content and price updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. There is no contract forcing you to continue.",
     },
     {
       question: "Can you guarantee a top ranking on Google?",

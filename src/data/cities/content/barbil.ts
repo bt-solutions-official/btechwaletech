@@ -56,7 +56,7 @@ const barbil: CityContent = {
     ai: "WhatsApp assistants in Odia, Hindi and English that answer rate, availability and booking questions for fleets, hotels and clinics.",
     data: "Dashboards of trips per truck, tonnes moved, diesel per trip, breakdown days and money due from each party.",
     app: "Android and iOS apps for truck drivers to log trips or for hotel guests and patients to book, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates and security patches.",
   },
   whyUsIntro:
     "Barbil businesses often run on thin margins and busy phones, and they have little patience for vague promises. We publish starting prices, send itemised written quotes, reply on WhatsApp every day of the week and register your domain, hosting, code and store accounts to you. If a feature will not pay for itself, we say so.",
@@ -168,7 +168,7 @@ const barbil: CityContent = {
       heading: "Ownership and maintenance for Barbil websites and apps",
       paragraphs: [
         "A frequent story in mining towns is a website that disappears when the person who built it moves away with the logins. We register your domain, hosting, source code, Google Business Profile and any Play Store and App Store accounts in your name, and hand over the passwords in writing.",
-        "Maintenance is free for five months after launch. It covers content and rate changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer at any time.",
+        "Maintenance is free for two months after launch. It covers content and rate changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer at any time.",
         "Apps need yearly updates because Google and Apple change their requirements. We watch those changes and update your app before deadlines, so it is not pulled from either store.",
       ],
     },
@@ -265,7 +265,7 @@ const barbil: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like.",
+        "The first two months are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like.",
     },
     {
       question: "Do you also work in Joda, Bolani and Kendujhar?",

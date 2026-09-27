@@ -7,7 +7,7 @@ const srinagar: CityContent = {
   meta: {
     title: "IT Services in Srinagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Srinagar crafts, hotels, houseboats and clinics. Sites from ₹10,000 with 5 months of free maintenance.",
+      "Websites, SEO, online stores and WhatsApp automation for Srinagar crafts, hotels, houseboats and clinics. Sites from ₹10,000 with 2 months of free maintenance.",
     keywords: [
       "website development team in Srinagar",
       "web designer Srinagar",
@@ -31,11 +31,11 @@ const srinagar: CityContent = {
     eyebrow: "Srinagar · Jammu and Kashmir",
     h1: "Websites, software, SEO and AI tools for Srinagar and the valley",
     lede:
-      "We are three engineers who build websites, online shops and WhatsApp automations for Srinagar craft sellers, houseboat owners, hotels, travel agents and clinics. We work remotely, publish our prices, and write pages that explain your business to buyers who have never set foot in Kashmir. Maintenance is free for five months after launch.",
+      "We are three engineers who build websites, online shops and WhatsApp automations for Srinagar craft sellers, houseboat owners, hotels, travel agents and clinics. We work remotely, publish our prices, and write pages that explain your business to buyers who have never set foot in Kashmir. Maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Direct booking pages", "Craft ecommerce with UPI", "Hindi, Urdu and English content", "Lightweight, fast pages"],
   },
   quickAnswer:
-    "A business website for a Srinagar firm costs from ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for crafts or dry fruits at ₹50,000. We are a remote team of three engineers with no Srinagar office, and five months of maintenance after launch is included.",
+    "A business website for a Srinagar firm costs from ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for crafts or dry fruits at ₹50,000. We are a remote team of three engineers with no Srinagar office, and two months of maintenance after launch is included.",
   snapshot: [
     { label: "Commercial core", value: "Lal Chowk, Residency Road, Polo View, Hari Singh High Street and Batamaloo" },
     { label: "Tourism belt", value: "Boulevard Road and Dal Lake houseboats, Nigeen Lake, Rajbagh hotels, the Mughal gardens at Nishat and Shalimar" },
@@ -52,7 +52,7 @@ const srinagar: CityContent = {
     ai: "WhatsApp replies and enquiry sorting for the summer rush, so a travel desk on Boulevard Road can answer package questions at midnight without hiring night staff.",
     data: "Season-by-season sales and booking reports that show which months, markets and channels actually pay, drawn from the records you already keep.",
     app: "Android and iOS apps for guest check-in, repeat orders and tour itineraries that stay usable offline on trips to Gulmarg or Sonamarg, from ₹40,000.",
-    maintenance: "Rate changes, seasonal offers, backups and security updates handled free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Rate changes, seasonal offers, backups and security updates handled free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Srinagar businesses have been burned by a developer who built a site, kept the domain in his own name and then became unreachable. We give you every login on launch day, publish our starting prices openly and answer WhatsApp messages every day of the week, including the long winter months when you finally have time to fix your website.",
@@ -173,11 +173,11 @@ const srinagar: CityContent = {
     },
     {
       id: "ownership-maintenance-srinagar",
-      heading: "You own everything, and the first five months of care are free",
+      heading: "You own everything, and the first two months of care are free",
       paragraphs: [
         "A surprising number of Srinagar businesses cannot edit their own website because the domain, hosting or admin password belongs to someone else. Sometimes that person has moved abroad; sometimes the relationship ended badly. Either way, the business ends up paying for a new site while the old one sits online with outdated rates.",
         "We avoid that from the start. The domain is registered in your name, the hosting account is in your name, and on launch day you receive every login along with a short note describing how the site is set up. The source code is yours. You can move to another developer whenever you like, with no fee and no argument.",
-        "For five months after launch, maintenance costs nothing. That covers rate and content updates, seasonal changes, bug fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing. Before you commit, <a href=\"/contact/\">send us your requirements</a> and ask any of these questions directly.",
+        "For two months after launch, maintenance costs nothing. That covers rate and content updates, seasonal changes, bug fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing. Before you commit, <a href=\"/contact/\">send us your requirements</a> and ask any of these questions directly.",
       ],
     },
   ],
@@ -259,7 +259,7 @@ const srinagar: CityContent = {
     {
       question: "What does the free maintenance period cover?",
       answer:
-        "For five months after launch we handle content and rate updates, seasonal banners, bug fixes, security and software updates, backups and uptime monitoring without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch we handle content and rate updates, seasonal banners, bug fixes, security and software updates, backups and uptime monitoring without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
     },
     {
       question: "Can my website be in Urdu or Hindi as well as English?",

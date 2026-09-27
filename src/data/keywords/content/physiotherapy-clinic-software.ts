@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["First release", "6–12 weeks"],
     ["Quote", "Itemised, about 2 working days"],
     ["Ownership", "Code, data and logins stay with you"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who plan, build and support your software" },
     { value: "2", label: "Working days to a written, itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Progress", value: "ROM in degrees, pain 0–10, functional scores, charted" },
       { label: "Home visits", value: "Therapist, area, travel buffer, check-in" },
       { label: "Starts at", value: `${P.software}; patient app from ${P.app}` },
-      { label: "Upkeep", value: `5 months free, then optional from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Physiotherapy clinic software pricing",
-    note: `Custom physiotherapy clinic software starts at ${P.software}. That first release covers patient records, assessment forms, the package and session ledger, a therapist calendar, GST invoices with UPI payment links, and WhatsApp reminders. The quote grows with the size of the exercise library features, the progress-score module, home-visit scheduling, extra branches, and a patient app, which starts at ${P.app}. Recording the exercise videos is your work (or your therapists’); we build the library that holds them. Hosting and WhatsApp message charges are paid by you directly. After five free months, maintenance is optional from ${P.care}.`,
+    note: `Custom physiotherapy clinic software starts at ${P.software}. That first release covers patient records, assessment forms, the package and session ledger, a therapist calendar, GST invoices with UPI payment links, and WhatsApp reminders. The quote grows with the size of the exercise library features, the progress-score module, home-visit scheduling, extra branches, and a patient app, which starts at ${P.app}. Recording the exercise videos is your work (or your therapists’); we build the library that holds them. Hosting and WhatsApp message charges are paid by you directly. After two free months, maintenance is optional from ${P.care}.`,
   },
   guideLabel: "Physiotherapy clinic software guide",
   guide: [
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
         `A custom build with our team starts at ${P.software} (about ${P.softwareUsd}) for records, assessments, packages, calendar, invoices and reminders. A patient app starts at ${P.app}. Your quote is itemised by module so you can drop what you do not need.`,
         `The main cost drivers are the package rules (simple deduct-on-visit is cheap; family sharing, freezes and refunds add work), the progress-score module, the exercise library with video processing, home-visit zones and routing, number of branches, and the patient app. Migrating old patient lists and active packages from Excel adds a small line.`,
         `Subscription products charge monthly, usually by therapist, branch or feature tier. Compare the three-year total with a one-time build plus hosting, and weigh what matters more to you: a product that is ready now, or software that works exactly the way your packages do. Quotes from other developers vary widely, mostly because of scope and how much testing is included, so compare line by line.`,
-        `Running costs after launch are cloud hosting and WhatsApp message charges, paid directly by you, and optional maintenance from ${P.care} after the free five months.`,
+        `Running costs after launch are cloud hosting and WhatsApp message charges, paid directly by you, and optional maintenance from ${P.care} after the free two months.`,
       ],
     },
     {
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything we build for your clinic is yours: the code sits in a repository under your name, the database in your cloud account, and the store listings under your developer accounts. There is no licence to renew with us.`,
         `At handover you receive admin access, a short guide for adding therapists, package templates, exercise videos and assessment forms, and technical notes for any future developer. Most day-to-day changes, like a new package or a new exercise, are done by your staff without us.`,
-        `For five months after launch, bug fixes and small adjustments are free. After that you can take optional maintenance from ${P.care}, hire someone else, or keep it in-house. Larger additions, such as a second branch or a patient app, are quoted separately. Any other commercial terms go into your written quote; our <a href='/terms/'>terms</a> set out the defaults.`,
+        `For two months after launch, bug fixes and small adjustments are free. After that you can take optional maintenance from ${P.care}, hire someone else, or keep it in-house. Larger additions, such as a second branch or a patient app, are quoted separately. Any other commercial terms go into your written quote; our <a href='/terms/'>terms</a> set out the defaults.`,
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Build the package ledger first", "Records, packages, calendar and invoices go live on a test link, so your front desk can try real scenarios within weeks."],
       ["Add clinical modules", "Assessments, ROM and pain charts, and the exercise library follow, with your therapists testing on their own phones."],
       ["Import, train and launch", "Active packages and patient lists are imported and checked, staff are trained by role, and the software moves to your account."],
-      ["Support and grow", "Five months of free fixes follow. Then choose optional care, and add a patient app or branches when the numbers justify it."],
+      ["Support and grow", "Two months of free fixes follow. Then choose optional care, and add a patient app or branches when the numbers justify it."],
     ],
   },
   faqHeading: "Physiotherapy clinic software: common questions",
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
     { question: "Can the software book equipment like traction or shockwave units?", answer: "Yes. Each machine is treated as a bookable resource alongside therapists and cubicles. A session type that needs a traction unit for twenty minutes will only be offered in slots where the machine, a bed and a therapist are all free. Shared areas such as the exercise floor can be booked up to a capacity you set." },
     { question: "Do you record the exercise videos for our clinic?", answer: "No. The videos should come from your own physiotherapists, because they know the technique and the cues they want patients to hear. We build the library, compress uploads so they play well on mobile data, and support captions or a Hindi voice-over if you record them. Short clips shot on a phone against a plain wall work well." },
     { question: "Will the software send appointment reminders on WhatsApp?", answer: "Yes, through the official WhatsApp Business Platform using approved message templates for reminders, low-balance alerts and exercise prompts. Message charges are billed to your own WhatsApp Business account by Meta or its partner. We set up the templates and connect them to the calendar and package ledger." },
-    { question: "What happens after the physiotherapy software goes live?", answer: `Bug fixes and small adjustments are free for five months after launch. After that, maintenance is optional from ${P.care}, or you can use your own developer with our handover notes. New features, a second branch or a patient app are quoted separately whenever you want them, and nothing is billed without written approval.` },
+    { question: "What happens after the physiotherapy software goes live?", answer: `Bug fixes and small adjustments are free for two months after launch. After that, maintenance is optional from ${P.care}, or you can use your own developer with our handover notes. New features, a second branch or a patient app are quoted separately whenever you want them, and nothing is billed without written approval.` },
     { question: "Can you move our existing patients and packages from Excel?", answer: "Yes. We import patient lists, active packages with their remaining sessions and expiry dates, and therapist details. Before go-live, the clinic checks a sample against receipts and registers so balances are right on day one. Older visit history can be imported too if it is consistent enough, and imported records are marked as such." },
     { question: "Does a small physio clinic really need custom software?", answer: "Not always. A solo physiotherapist with pay-per-visit patients may be fine with a simple booking tool. Custom software makes sense once you sell packages at scale, run home visits, have several therapists sharing equipment, or open a second branch. We will tell you honestly if a simpler option fits better." },
     { question: "How do we pay and approve the project?", answer: "You receive an itemised quote in about two working days. Nothing is billed before you approve it in writing. Clinics in India pay by UPI or bank transfer with a GST invoice where applicable; clinics abroad pay in USD by Wise, bank wire or PayPal. Milestones and other conditions are written into your quote." },

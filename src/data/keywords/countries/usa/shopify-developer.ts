@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who can open your theme code" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after a store launch" },
+    { value: "2", label: "Months of free maintenance after a store launch" },
     { value: "0", label: "Marketplace fees added to your invoice" },
   ],
   answer: {
@@ -56,7 +56,7 @@ const content: FreelanceContent = {
       { label: "Theme and section work", value: `From ${P.site}` },
       { label: "New store or rebuild", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom app or integration", value: `From ${P.software}, 6–12 weeks` },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
       { label: "Call window", value: "8–11 am Eastern, early Pacific by arrangement" },
       { label: "Not a fit", value: "Stores needing daily on-site staff or a large dedicated team" },
     ],
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Shopify SEO foundations", note: "Collection copy structure, product schema checks, redirect clean-up and Search Console setup. Monthly SEO starts at " + P.seo + ".", href: "/usa/ecommerce-seo-services/", size: "md" },
       { name: "Custom app or integration", note: `Private apps that connect Shopify to an ERP, 3PL, CRM or spreadsheet workflow, from ${P.software}.`, href: "/usa/custom-software-development/", size: "sm" },
       { name: "Store automation", note: `Order tagging, low-stock alerts and customer follow-ups wired together with AI where it saves real hours, from ${P.ai}.`, href: "/usa/ai-automation-agency/", size: "sm" },
-      { name: "Ongoing care", note: `Monthly help with theme updates, new sections and small fixes, from ${P.care} after five free months.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing care", note: `Monthly help with theme updates, new sections and small fixes, from ${P.care} after two free months.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["App philosophy", "Often installs another app", "Varies", "Code first when an app only adds a banner or badge"],
       ["Taxes and payments check", "Rarely included", "Usually included on builds", "Included on every build and on request for audits"],
       ["Scale ceiling", "One person", "Large teams available", "Three people; not suited to a 15-person replatform"],
-      ["After launch", "Paid per fix", "Monthly retainer", `5 months free, then from ${P.care}`],
+      ["After launch", "Paid per fix", "Monthly retainer", `2 months free, then from ${P.care}`],
     ],
     fine: "If you need Plus-only work at enterprise scale or someone in your warehouse, a larger US partner is the better call; we will say so on the first message.",
   },
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical and exists only to show how the work flows. Say a two-person apparel brand in Portland, Oregon runs a free theme with fourteen apps, and mobile product pages feel sluggish before a holiday drop.`,
         `Day one: they send a collaborator request code and a list of what annoys them. Within about two working days they receive an itemised USD quote: an app audit, a custom size-guide section driven by metafields, a “complete the look” block, speed fixes, and a settings review covering Shopify Payments and the states where they have told us they collect sales tax. The work sits near the lower end of our range because no new store is being built.`,
-        `Week one runs overnight from their point of view. Each Pacific morning brings a preview link on a duplicate theme and a short note. By the end of the week, five display-only apps are gone and replaced by sections the owners can edit, and the product page loads fewer scripts. Week two is review, publishing the new theme during a quiet hour they choose, and a written handover. After that, five months of free maintenance cover small fixes.`,
+        `Week one runs overnight from their point of view. Each Pacific morning brings a preview link on a duplicate theme and a short note. By the end of the week, five display-only apps are gone and replaced by sections the owners can edit, and the product page loads fewer scripts. Week two is review, publishing the new theme during a quiet hour they choose, and a written handover. After that, two months of free maintenance cover small fixes.`,
       ],
     },
     {
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["New store or rebuild", "Theme setup, templates, collections, policies, payments and tax review", P.shop, "4–8 weeks"],
         ["Migration to Shopify", "Products, customers, redirects, template rebuild", P.shop, "4–8 weeks"],
         ["Custom app or integration", "Admin API, webhooks, ERP, 3PL or CRM connections", P.software, "6–12 weeks"],
-        ["Monthly care", "Small changes, theme updates, checks", `${P.care} after 5 free months`, "Ongoing"],
+        ["Monthly care", "Small changes, theme updates, checks", `${P.care} after 2 free months`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Duplicate theme", "All work happens on a copy of your live theme. The published store keeps selling while we build, and you can compare old and new side by side."],
       ["Overnight builds, morning previews", "We work in the IST evening and send a preview link and short note for your US morning. You reply with changes, and the next round follows the same night."],
       ["Publish and verify", "You choose a quiet hour to publish. We place a test order, check payments and tax behaviour, confirm tracking fires and watch the store for the first day."],
-      ["Handover and care", "You receive a change log and notes on every section. Five months of free maintenance follow, then optional monthly care if you want it."],
+      ["Handover and care", "You receive a change log and notes on every section. Two months of free maintenance follow, then optional monthly care if you want it."],
     ],
   },
   faqHeading: "Questions US merchants ask before hiring a Shopify developer",
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "Will hiring a Shopify developer help my SEO?", answer: "A developer fixes the technical foundations: crawlable collections, clean titles, product structured data, redirects and speed. Rankings also need content and links built over months, and nobody can guarantee a position. If you want ongoing work, our monthly SEO plans start at the price shown in the table on this page." },
     { question: "Do you work on Shopify Plus stores?", answer: "We take on theme, section and integration work for Plus stores. Checkout extensibility, Shopify Functions and B2B features on Plus are covered on our separate Shopify Plus developer page, where we are also honest about when a larger partner makes more sense." },
     { question: "Can you migrate my store to Shopify from WooCommerce or another platform?", answer: `Yes. A migration includes products, customers where allowed, order history options, template rebuilds and a redirect map so search traffic follows the new URLs. It starts at the ${P.shop} store build price and usually takes 4–8 weeks depending on catalogue size and data quality.` },
-    { question: "What happens after my Shopify project is finished?", answer: `You get five months of free maintenance for fixes and small adjustments. After that you can move to monthly care from ${P.care}, hire us per task, or hand everything to another developer using the change log and notes we leave. There is no obligation to stay.` },
+    { question: "What happens after my Shopify project is finished?", answer: `You get two months of free maintenance for fixes and small adjustments. After that you can move to monthly care from ${P.care}, hire us per task, or hand everything to another developer using the change log and notes we leave. There is no obligation to stay.` },
     { question: "Can you build a custom Shopify app for my business?", answer: `Yes, when an app is genuinely needed: syncing orders to a warehouse, custom wholesale pricing rules, or connecting a CRM. Custom apps start at ${P.software}, are created under your account and are documented so another developer could maintain them.` },
   ],
   related: {

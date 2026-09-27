@@ -40,10 +40,10 @@ const content: CityContent = {
     h1: "Freelance app and software developers in Tirupati for pilgrim services, industry and education",
     lede:
       "BtechWaleTech gives Tirupati businesses freelance app and software developers without a local agency markup: three independent engineers building booking engines for hotels and lodges, trip software for travel operators, vendor systems for Sri City and Renigunta suppliers, college portals, AI agents, dashboards and multilingual SEO, entirely remote.",
-    pills: ["Booking engines from ₹60,000", "AI agents from ₹40,000", "Telugu, Tamil, Hindi, English", "Sri City vendor tools", "5 months free maintenance"],
+    pills: ["Booking engines from ₹60,000", "AI agents from ₹40,000", "Telugu, Tamil, Hindi, English", "Sri City vendor tools", "2 months free maintenance"],
   },
   quickAnswer:
-    "For freelance app and software developers in Tirupati, BtechWaleTech is a remote group of three engineers. Booking systems and custom software start from ₹60,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Delivery takes one to twelve weeks, quotes arrive in about two working days, and five months of maintenance are free.",
+    "For freelance app and software developers in Tirupati, BtechWaleTech is a remote group of three engineers. Booking systems and custom software start from ₹60,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Delivery takes one to twelve weeks, quotes arrive in about two working days, and two months of maintenance are free.",
   snapshot: [
     { label: "Pilgrim economy", value: "Gateway to the Sri Venkateswara temple at Tirumala, one of the most visited pilgrimage sites in the world, managed by TTD" },
     { label: "Hospitality", value: "Hundreds of hotels, lodges, choultries, travel operators, taxi services and restaurants serving pilgrims year-round" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that answer pilgrim questions on WhatsApp about rooms, taxis and packages in several languages and pass bookings to your desk.",
     data: "Dashboards for Tirupati hotels and operators showing occupancy, bookings by source, collections and vehicle utilisation.",
     app: "Android and iOS apps from ₹40,000 for Tirupati hotels, drivers, colleges and contractors, multilingual where needed and published on Google Play and the App Store.",
-    maintenance: "Updates, backups and fixes for Tirupati systems, five months free after launch, then from ₹8,000 a month, including festival-peak monitoring.",
+    maintenance: "Updates, backups and fixes for Tirupati systems, two months free after launch, then from ₹8,000 a month, including festival-peak monitoring.",
   },
   whyUsIntro:
     "Tirupati businesses get plenty of calls from agencies and booking platforms, but few offers to build systems they actually own. We are a freelance group of three engineers who publish prices, hand over every account and reply on WhatsApp seven days a week.",
@@ -159,7 +159,7 @@ const content: CityContent = {
         "Cloud hosting for Tirupati booking and business systems must stay fast during Brahmotsavam, Vaikunta Ekadasi and holiday peaks, when traffic can multiply in a few days. We host applications on AWS or comparable platforms in an Indian region with autoscaling where it is justified, daily backups, HTTPS and uptime monitoring.",
         "Websites built with Astro sit on edge networks with Indian points of presence, which keeps them quick for pilgrims browsing on congested mobile networks near the temple and railway station. Before known peaks, we review capacity and test critical flows such as booking and payment.",
         "Dashboards pull bookings, occupancy, trips, collections and admissions into one view for owners, with a morning summary on WhatsApp if you want it. All accounts and the code repository are registered to your business.",
-        "Maintenance is free for five months after launch and from ₹8,000 a month after that.",
+        "Maintenance is free for two months after launch and from ₹8,000 a month after that.",
       ],
     },
     {
@@ -227,7 +227,7 @@ const content: CityContent = {
       paragraphs: [
         "Software in Tirupati with BtechWaleTech starts at ₹60,000 for custom software and booking engines, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce, ₹20,000 for an SEO website and ₹10,000 for a static website. Timelines run from one week for a simple site to twelve weeks for a full booking or vendor system.",
         "The final quote depends on modules, languages, integrations with payment, WhatsApp or accounting tools, data migration and content readiness. Hotels should plan launches outside major festival periods so staff can learn the system calmly.",
-        "Payment is accepted only by UPI, scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote. Five months of maintenance after launch are included.",
+        "Payment is accepted only by UPI, scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote. Two months of maintenance after launch are included.",
       ],
     },
     {
@@ -272,7 +272,7 @@ const content: CityContent = {
     { question: "How much does AI automation cost?", answer: "AI automation starts from ₹40,000 and usually takes two to four weeks. That includes workflow mapping, WhatsApp Business API and tool integration, the agent build, testing and handover. Model and messaging usage is billed directly to your own accounts." },
     { question: "Can you build software for Sri City suppliers?", answer: "Yes. We build capability websites, RFQ routing, quotation generators, order and dispatch trackers, manpower deployment and billing tools. We do not integrate with a manufacturer's own vendor portal unless they provide documented access." },
     { question: "Who owns the website and software?", answer: "You do. Domain, hosting, cloud accounts, payment gateway and WhatsApp accounts, and the code repository are registered to your business wherever possible. At handover you get all credentials and a short technical guide." },
-    { question: "What maintenance is included after launch?", answer: "Five months of free maintenance: bug fixes, small content changes, security and dependency updates, backups, uptime monitoring and speed checks, including a capacity review before known festival peaks. After that, plans start from ₹8,000 a month." },
+    { question: "What maintenance is included after launch?", answer: "Two months of free maintenance: bug fixes, small content changes, security and dependency updates, backups, uptime monitoring and speed checks, including a capacity review before known festival peaks. After that, plans start from ₹8,000 a month." },
     { question: "How soon does SEO work for a Tirupati hotel?", answer: "A well-optimised Google Business Profile and fast pages can improve local visibility within weeks. Competitive travel searches, such as stays near Alipiri, usually need three to six months or more. We report monthly from Search Console and never guarantee rankings." },
     { question: "Do we need an Android and iOS app for our Tirupati business?", answer: "Only if people come back repeatedly. One-time pilgrims are better served by a fast website with booking. Repeat guests, drivers, students and site staff benefit from an app. Android and iOS apps start from ₹40,000, take six to ten weeks, and are built in Flutter or React Native and published on both Google Play and the App Store." },
     { question: "Do you provide on-site IT support?", answer: "No. We support the software, websites and automations we build, remotely. For computers, CCTV, printers or Wi-Fi at your hotel or office, you will need a local technician." },

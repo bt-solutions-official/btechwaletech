@@ -31,11 +31,11 @@ const raipur: CityContent = {
     eyebrow: "Raipur · Chhattisgarh",
     h1: "Websites, SEO and business software for Raipur's industry and trade",
     lede:
-      "We are three engineers who build websites, product catalogues, dealer portals and WhatsApp automations for Raipur businesses, from sponge iron plants in Siltara and rice mills on the city's edge to Pandri wholesalers, hospitals near Tatibandh and developers in Nava Raipur. Prices are published, you own everything, and maintenance is free for five months after launch.",
+      "We are three engineers who build websites, product catalogues, dealer portals and WhatsApp automations for Raipur businesses, from sponge iron plants in Siltara and rice mills on the city's edge to Pandri wholesalers, hospitals near Tatibandh and developers in Nava Raipur. Prices are published, you own everything, and maintenance is free for two months after launch.",
     pills: ["From ₹10,000", "Industrial product pages", "Dealer and order portals", "Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Raipur, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000, and dealer portals or other custom web apps at ₹60,000. We are a remote three-engineer team without a Raipur office, and five months of free maintenance follows every launch.",
+    "In Raipur, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000, and dealer portals or other custom web apps at ₹60,000. We are a remote three-engineer team without a Raipur office, and two months of free maintenance follows every launch.",
   snapshot: [
     { label: "Markets", value: "Pandri cloth market, Gol Bazaar, Malviya Road, Sadar Bazar and Jaistambh Chowk" },
     { label: "Newer business areas", value: "Shankar Nagar, Telibandha, Civil Lines, Samta Colony, Devendra Nagar and VIP Road" },
@@ -52,7 +52,7 @@ const raipur: CityContent = {
     ai: "WhatsApp assistants that handle rate enquiries, order updates and appointment bookings in Hindi and English before your staff step in.",
     data: "Dashboards for dispatch, receivables, rate trends and dealer performance, built from Tally, Excel and weighbridge records.",
     app: "Android and iOS apps for sales reps, dealers and site supervisors on patchy rural connections, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Rate updates, catalogue changes, backups and security patches free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Rate updates, catalogue changes, backups and security patches free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Raipur's web design market ranges from one-person shops near Jaistambh Chowk to agencies in Shankar Nagar, and very few publish their prices or hand over the hosting login. We publish starting prices, register everything in your name and answer WhatsApp messages seven days a week, so your site keeps working after the invoice is paid.",
@@ -183,11 +183,11 @@ const raipur: CityContent = {
     },
     {
       id: "ownership-maintenance-raipur",
-      heading: "You own it all, with five months of free maintenance",
+      heading: "You own it all, with two months of free maintenance",
       paragraphs: [
         "Many Raipur businesses discover too late that their domain was registered by the developer, their hosting account is unreachable, or their catalogue cannot be edited without the person who built it. For a manufacturer, an outdated rate list or broken enquiry form can quietly cost orders for months.",
         "We register the domain and hosting in your name from the start. At launch you receive every login, the source code and a short note explaining the setup. You can move to another developer at any time without paying us anything.",
-        "For five months after launch, maintenance is free: content and catalogue updates, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you can contact us only when needed. <a href=\"/contact/\">Share your requirements</a> and we will send a plan.",
+        "For two months after launch, maintenance is free: content and catalogue updates, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you can contact us only when needed. <a href=\"/contact/\">Share your requirements</a> and we will send a plan.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const raipur: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we cover content and catalogue updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we cover content and catalogue updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work with businesses in Bhilai, Durg and Bilaspur?",

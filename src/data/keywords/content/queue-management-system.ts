@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Hardware", "Bought by you, off the shelf"],
     ["Token channels", "Kiosk, QR, WhatsApp, reception"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-counter licence fees on software you own" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Voice", value: "Hindi and English, or another language using recorded clips" },
       { label: "Software price", value: `From ${P.software} (${P.softwareUsd})` },
       { label: "Hardware", value: "Smart TV or Android TV box, optional tablet kiosk and thermal printer" },
-      { label: "Upkeep", value: `5 months free, then optional from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A custom queue management system from BtechWaleTech starts at ${P.software} (about ${P.softwareUsd}) for the software. Hardware is separate and bought by you, and a software-only setup on your existing TV and staff phones keeps that part close to zero.`,
         `Think of the total in three parts. Software: the one-time build, which depends on token channels, voice languages, routing complexity, integrations and reports. Hardware: whatever you choose to buy, such as a smart TV or Android TV box per display, a tablet and floor stand for each kiosk, a thermal printer per kiosk, and tablets for counters if staff will not use phones or PCs. Running costs: cloud hosting, WhatsApp template messages at Meta's rates and SMS if you use it, all billed by those providers directly.`,
-        `Ready-made token displays and subscription apps are real alternatives, with quotes that vary widely by features, counters and branches. A standalone display is simplest when you need nothing beyond numbers on a screen. A subscription app is quick if its routing and alerts fit. An owned system makes sense when you want your own channels, languages, reports and data, or have enough branches that per-counter fees add up. After five free months, maintenance from ${P.care} is optional.`,
+        `Ready-made token displays and subscription apps are real alternatives, with quotes that vary widely by features, counters and branches. A standalone display is simplest when you need nothing beyond numbers on a screen. A subscription app is quick if its routing and alerts fit. An owned system makes sense when you want your own channels, languages, reports and data, or have enough branches that per-counter fees add up. After two free months, maintenance from ${P.care} is optional.`,
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Test with dummy tokens", "Staff issue and call test tokens on their own phones and your TV, so we can adjust labels, routing and voice clips before visitors see anything."],
       ["Set up devices together", "Your staff or local IT person sets up the TV box, kiosk tablet and printer following written steps, with us on a video call."],
       ["Run in parallel for a few days", "Tokens run alongside the old way of working, and we tune wait estimates, alerts and announcements based on the first real days."],
-      ["Hand over and support", `You receive admin access, documentation and every account in your name. Maintenance is free for five months, then optional from ${P.care}.`],
+      ["Hand over and support", `You receive admin access, documentation and every account in your name. Maintenance is free for two months, then optional from ${P.care}.`],
     ],
   },
   faqHeading: "Queue management system: questions people ask before buying",
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
     { question: "Who owns the queue software and visitor data?", answer: "You do. The code sits in a repository you control, the database runs in your own cloud account, and the WhatsApp Business account is registered in your name. Visitor mobile numbers can be deleted automatically after a period you set, while anonymous timing data stays for reports. At handover you receive admin access and documentation, with no exit fees." },
     { question: "Does a queue system need to follow India's data protection law?", answer: "If it collects mobile numbers or names, yes: that is personal data under the Digital Personal Data Protection Act, 2023, whose Rules were notified in November 2025 with phased obligations. The system can collect only what is needed, show a short notice, restrict access and delete numbers on schedule. Your lawyer should review the notice wording, and compliance remains your responsibility." },
     { question: "How do payments and contracts work if we hire you?", answer: "You get an itemised written quote covering scope, phases and ownership, and nothing is billed until you approve it in writing. In India payments are by UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal in USD. Any NDA or further terms are agreed in writing, and our terms and refund policy pages list the general conditions." },
-    { question: "What happens after the five months of free maintenance?", answer: `Maintenance becomes optional. You can continue with us from ${P.care}, covering updates, backups, template changes and small tweaks such as new services or counters, or pass the documented code to another developer or your own IT team. New features, such as a second branch or a clinic integration, are quoted separately before any work begins.` },
+    { question: "What happens after the two months of free maintenance?", answer: `Maintenance becomes optional. You can continue with us from ${P.care}, covering updates, backups, template changes and small tweaks such as new services or counters, or pass the documented code to another developer or your own IT team. New features, such as a second branch or a clinic integration, are quoted separately before any work begins.` },
     { question: "Can freelance developers build a queue system for a bank or large office?", answer: "For single branches, service networks and offices, yes: three developers covering full-stack work, cloud and data, and project management build and support it remotely. Banks often have strict IT policies on hosting and security reviews, which must be clarified before quoting. We do not do site visits, hardware installation or round-the-clock on-site support." },
     { question: "Can AI be added to a queue management system?", answer: `Yes, in modest, useful ways. AI can improve wait-time estimates from past patterns, answer common visitor questions on WhatsApp while they wait, and summarise daily queue reports for managers in plain Hindi or English. It does not replace clear routing rules. AI features start at ${P.ai} and are best added after a few weeks of real queue data exist.` },
     { question: "Clinic ya office ke liye token system banwana hai, kitna kharcha aayega?", answer: `Software ${P.software} se shuru hota hai, aur hardware aap khud kisi bhi dukaan se lete hain, jaise TV box, tablet aur thermal printer. Agar zyada log smartphone use karte hain toh sirf QR aur WhatsApp token se kaam ho jaata hai, extra hardware ki zaroorat kam padti hai. TV par Hindi aur English mein awaaz se token call hota hai.` },

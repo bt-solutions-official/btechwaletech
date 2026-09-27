@@ -56,7 +56,7 @@ const akot: CityContent = {
     ai: "WhatsApp assistants in Marathi and Hindi that answer rate, stock, timing and fee questions and hand real decisions back to you.",
     data: "Season dashboards of cotton bought by grade and moisture, bales pressed, payments pending and dealer credit by village.",
     app: "Android and iOS apps for cotton buyers to log purchases at the yard or for input dealers' village retailers to re-order, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security patches and store compliance.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security patches and store compliance.",
   },
   whyUsIntro:
     "Akot traders have watched cotton prices swing for decades, so they judge any spend by whether it pays back in a season. We publish starting prices, send written itemised quotes, answer WhatsApp every day of the week, and register the domain, hosting, code and app store accounts in your name. When something is not worth building, we tell you plainly.",
@@ -178,7 +178,7 @@ const akot: CityContent = {
       heading: "Ownership and maintenance for Akot websites and apps",
       paragraphs: [
         "A familiar complaint in smaller towns is a site that vanished because the person who built it registered the domain in his own name and then moved on. We avoid that by registering the domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts in your name from the start, and handing over every login in writing.",
-        "Maintenance is free for the first five months after launch. That period covers content and price updates, backups, security patches, software updates, and regular checks that forms, payments and WhatsApp links still work. After five months, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to take the code to another developer whenever you choose.",
+        "Maintenance is free for the first two months after launch. That period covers content and price updates, backups, security patches, software updates, and regular checks that forms, payments and WhatsApp links still work. After two months, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to take the code to another developer whenever you choose.",
         "Apps need attention every year because Google and Apple keep raising their requirements. We watch those changes and update your app in time, so it is not pulled from the stores for falling behind. Software used in the cotton season gets a check before the season opens, so problems surface in September rather than in the middle of a busy week.",
       ],
     },
@@ -270,7 +270,7 @@ const akot: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time, without any lock-in.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time, without any lock-in.",
     },
     {
       question: "Do you work in Telhara, Hiwarkhed and Akola too?",

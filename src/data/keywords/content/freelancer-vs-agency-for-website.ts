@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers who know every project" },
     { value: "0", label: "Account managers between you and the code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Freelancer vs agency for website development: which is better?",
@@ -127,7 +127,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `In India, solo freelancers usually quote the lowest, agencies the highest, and small teams in between, but the range inside each group is wide. Location in India matters far less than experience, whether design is custom, who writes content and what support is included.`,
         `Rather than trusting anyone's claimed averages, compare line items. Ask every bidder to price the same list: number of unique page designs, pages built, content writing, forms and integrations, SEO setup, speed work, hosting setup, training and months of support. Once the lines match, the real price difference becomes visible, and it is often smaller than the headline gap.`,
-        `Our own starting points: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website of 299+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software}. Monthly SEO starts at ${P.seo} and maintenance at ${P.care} after five free months.`,
+        `Our own starting points: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website of 299+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software}. Monthly SEO starts at ${P.seo} and maintenance at ${P.care} after two free months.`,
       ],
       list: [
         "Solo freelancer: lowest overhead; price reflects one person's time and experience",
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       heading: "A worked example: a CA firm choosing between three quotes",
       paragraphs: [
         `This is a hypothetical scenario to show how the comparison plays out, not a client story. Say a four-partner CA firm in Pune wants a 20-page website with service pages, a blog, a document upload form and Google Business Profile links.`,
-        `It receives three quotes. The solo freelancer's is lowest, a single line with no breakdown, and the domain would be “handled” by the freelancer. The agency's is highest and itemised, includes a project manager and copywriting, and states that source code remains agency property with a licence to the client. The small team's sits in between, itemised, with ownership assigned to the firm and five months of support.`,
+        `It receives three quotes. The solo freelancer's is lowest, a single line with no breakdown, and the domain would be “handled” by the freelancer. The agency's is highest and itemised, includes a project manager and copywriting, and states that source code remains agency property with a licence to the client. The small team's sits in between, itemised, with ownership assigned to the firm and two months of support.`,
         `Using the scorecard, the firm notices three things. The freelancer quote carries continuity and ownership risk. The agency quote includes copywriting it wants, but the ownership clause is a problem. The small team does not include copywriting.`,
         `A sensible outcome: the firm asks the agency to change the ownership clause, asks the small team to price copywriting, and then compares again. Whichever it picks, the decision now rests on matched scope and written terms rather than on the first number it saw.`,
       ],
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Check our ownership terms", "The quote states that domain, hosting, repositories and custom code are yours. Ask other bidders for the same statement in writing."],
       ["Start with a small milestone", "Approve the home page design first. You see how we communicate and what we deliver before committing the rest of the budget."],
       ["Build on a staging link you can open", "All three of us work in the open: progress appears on a private link, with questions and updates in one WhatsApp group."],
-      ["Launch, hand over, then five free months", "At launch you receive logins, repository access and a renewals list. Five months of maintenance are included; after that it is optional."],
+      ["Launch, hand over, then two free months", "At launch you receive logins, repository access and a renewals list. Two months of maintenance are included; after that it is optional."],
     ],
   },
   faqHeading: "Freelancer vs agency: questions buyers ask",
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Comparing freelancers and agencies? Add our quote to the pile",
-    note: `Send us the same brief you sent everyone else. In about two working days you get an itemised quote, with websites from ${P.site}, ownership in writing and five months of free maintenance after launch.`,
+    note: `Send us the same brief you sent everyone else. In about two working days you get an itemised quote, with websites from ${P.site}, ownership in writing and two months of free maintenance after launch.`,
   },
 };
 

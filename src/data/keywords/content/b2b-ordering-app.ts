@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks for the app"],
     ["Quote", "Itemised, about 2 working days"],
     ["Store accounts", "Yours, not ours"],
-    ["Support included", "5 months after launch"],
+    ["Support included", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers you speak to directly" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Per-dealer or per-order fees to us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Dealer app", value: `Android and iPhone from ${P.app}, around 6–10 weeks` },
       { label: "Admin panel", value: `From ${P.software}, built alongside the app` },
       { label: "Order flow", value: "App to approval to Tally or ERP to WhatsApp confirmation" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "B2B ordering app pricing",
-    note: `A B2B ordering app is quoted as the dealer app, the admin panel and the integrations. The Android and iPhone dealer app starts at ${P.app}. The admin panel for price lists, credit limits, approvals and dealer management starts at ${P.software}. WhatsApp order alerts and the Tally or ERP push are itemised separately, with automation work starting at ${P.ai}. If you also want a public product website for new dealer enquiries, that starts at ${P.site}. After five free months, upkeep starts at ${P.care} a month. All figures are starting prices.`,
+    note: `A B2B ordering app is quoted as the dealer app, the admin panel and the integrations. The Android and iPhone dealer app starts at ${P.app}. The admin panel for price lists, credit limits, approvals and dealer management starts at ${P.software}. WhatsApp order alerts and the Tally or ERP push are itemised separately, with automation work starting at ${P.ai}. If you also want a public product website for new dealer enquiries, that starts at ${P.site}. After two free months, upkeep starts at ${P.care} a month. All figures are starting prices.`,
   },
   guideLabel: "B2B ordering app guide",
   guide: [
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
         "Extra languages beyond English and Hindi",
       ],
       after: [
-        `Ongoing costs are small and paid to their providers: cloud hosting in your account, WhatsApp message charges, Google Play's one-time US$25 registration and Apple's US$99 yearly developer fee. Maintenance is free for five months, then from ${P.care} a month. For broader app budgets see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
+        `Ongoing costs are small and paid to their providers: cloud hosting in your account, WhatsApp message charges, Google Play's one-time US$25 registration and Apple's US$99 yearly developer fee. Maintenance is free for two months, then from ${P.care} a month. For broader app budgets see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
       ],
     },
     {
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan for about 6–10 weeks for the dealer app, with the admin panel and integrations built alongside. The first two weeks go on pricing rules, item and dealer masters, and the Tally or ERP connection, because everything else depends on them.`,
         `Weeks three to six cover the catalogue, cart, credit checks and approvals, shown weekly on a test build that your sales team can install. The final weeks add WhatsApp templates, store listings and a pilot with real dealers. Apple and Google review times vary, so we submit early.`,
-        `At handover you hold the code repository, cloud account, database, Google Play and App Store accounts and all admin logins. Ankur builds the app and panel, Santosh handles the cloud, the accounts integration and data, and Vedansh runs the plan, dealer pilot and testing, all reachable on one WhatsApp group. Five months of maintenance follow at no charge; see our <a href='/terms/'>terms</a> for how handover is recorded.`,
+        `At handover you hold the code repository, cloud account, database, Google Play and App Store accounts and all admin logins. Ankur builds the app and panel, Santosh handles the cloud, the accounts integration and data, and Vedansh runs the plan, dealer pilot and testing, all reachable on one WhatsApp group. Two months of maintenance follow at no charge; see our <a href='/terms/'>terms</a> for how handover is recorded.`,
       ],
     },
     {
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
         ["Admin panel", "Price lists, credit limits, approvals, dealers, reports", `From ${P.software}`, "Built alongside the app"],
         ["Integrations and alerts", "Tally or ERP push, WhatsApp templates, balance sync", `From ${P.ai}`, "2–4 weeks"],
         ["Dealer enquiry website", "Public product site to attract new dealers", `From ${P.site}`, "1–2 weeks"],
-        ["Upkeep after 5 free months", "Fixes, OS updates, rule changes", `From ${P.care}/month`, "Ongoing"],
+        ["Upkeep after 2 free months", "Fixes, OS updates, rule changes", `From ${P.care}/month`, "Ongoing"],
       ],
     },
   ],
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Masters and Tally link", "Items, dealers, price lists and the Tally or ERP connection are set up first, so every demo shows your real products and rates."],
       ["Weekly test builds", "Your sales team installs test versions every week and tries real orders, while we adjust screens and rules from their feedback."],
       ["Dealer pilot", "Twenty or thirty active dealers use the live app for a few weeks. We fix what slows them down before the wider rollout."],
-      ["Handover and support", "Code, cloud, store and WhatsApp accounts stay in your name, with five months of free maintenance after launch."],
+      ["Handover and support", "Code, cloud, store and WhatsApp accounts stay in your name, with two months of free maintenance after launch."],
     ],
   },
   faqHeading: "B2B ordering app: questions manufacturers ask",
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
     { question: "Do dealers pay inside the app?", answer: "Most B2B orders are placed on credit against the dealer's ledger, so payment at checkout is optional. Where you want it, the app can show a payment link for advance orders or overdue bills, with UPI and card options through a payment provider you choose, and payments reconciled back to the ledger." },
     { question: "Who owns the app, code and dealer data?", answer: "You do. The app is published in your Google Play and App Store accounts, the code repository and cloud hosting are in your name, and dealer and order data stays in your cloud. There are no per-dealer or per-order fees payable to us, and another developer can maintain the code later." },
     { question: "Why hire a three-person freelance team for this?", answer: "You deal directly with the developers who build the app, and decisions move quickly on WhatsApp in English or Hindi. A small team suits focused dealer apps for tens to a few thousand dealers. If you need on-site training at every branch or a large enterprise team, a bigger provider may fit better, as we work remotely." },
-    { question: "What does maintenance cost after launch?", answer: `Maintenance is free for the first five months: fixes, Android and iOS updates and small rule changes. After that, upkeep starts at ${P.care} a month. New features such as a web portal or loyalty points are quoted separately, and nothing is billed before you approve the quote.` },
+    { question: "What does maintenance cost after launch?", answer: `Maintenance is free for the first two months: fixes, Android and iOS updates and small rule changes. After that, upkeep starts at ${P.care} a month. New features such as a web portal or loyalty points are quoted separately, and nothing is billed before you approve the quote.` },
     { question: "Can the app support Hindi and other languages?", answer: "Yes. The dealer app can show English and Hindi, and another Indian language can be added where you supply or approve the translated text. Product names and codes usually stay as they are in Tally or your ERP so orders match exactly." },
     { question: "Dealer ke liye order app banwane me kitna kharcha hai?", answer: `BtechWaleTech ke saath dealer ordering app ${P.app} se shuru hota hai aur admin panel ${P.software} se. Isme dealer-wise rates, credit limit check, approval aur Tally me order push jaisi cheezein aati hain. Aapke price lists aur Tally setup dekhkar itemised quote lagbhag 2 working days me milta hai.` },
     { question: "What if our item master in Tally is messy?", answer: "That is common. Before building, we export items and ledgers, flag duplicates and missing codes, and agree a clean list with your accounts team. Cleaning happens once inside Tally or your ERP, not only in the app, so both systems stay consistent after launch." },

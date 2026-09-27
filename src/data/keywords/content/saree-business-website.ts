@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Large category and weave site", `From ${P.seoSite}`],
     ["WhatsApp order automation", `From ${P.ai}`],
     ["Itemised quote", "About 2 working days"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and look after your saree store" },
     { value: "0", label: "Commission on sarees sold through your own site" },
-    { value: "5", label: "Months of free maintenance after the store goes live" },
+    { value: "2", label: "Months of free maintenance after the store goes live" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
         `Quotes from different developers vary widely. Ask what is included: product entry, filter setup, COD rules, reseller tiers, shipping setup and training. Also ask whose name the store account is in. Ours is always in yours.`,
       ],
       after: [
-        `Maintenance is free for five months after launch, then starts at ${P.care}. See all starting prices on the <a href='/pricing/'>pricing page</a>.`,
+        `Maintenance is free for two months after launch, then starts at ${P.care}. See all starting prices on the <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
       heading: "Ownership, policies and what happens after launch",
       paragraphs: [
         `You own the saree business website completely: domain, store account, theme and code, product photos, and the customer list. We set up every account in your name from the start. At handover you get admin access, a written guide on adding sarees, updating stock and handling orders, and a recorded walkthrough in Hindi or English.`,
-        `Return, exchange, shipping and COD policies are business decisions only you can make. We build clear policy pages and link them from every product and checkout page, but the rules come from you, and consumer protection questions should go to your own adviser. Five months of free maintenance follow launch, covering fixes and small changes.`,
+        `Return, exchange, shipping and COD policies are business decisions only you can make. We build clear policy pages and link them from every product and checkout page, but the rules come from you, and consumer protection questions should go to your own adviser. Two months of free maintenance follow launch, covering fixes and small changes.`,
       ],
       list: [
         "Store and domain accounts in your name",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "A line-by-line quote in about two working days, covering platform, features and product entry. Nothing is billed until you approve it in writing."],
       ["Store build", "Catalogue, filters, checkout, COD rules, shipping and add-ons are set up and tested with real orders on phones before launch."],
       ["Soft launch", "Your existing customers get the link first, so early orders surface any issues while traffic is still small."],
-      ["Handover and support", "You receive admin access, a written guide and recorded training, and five months of free maintenance start from the launch date."],
+      ["Handover and support", "You receive admin access, a written guide and recorded training, and two months of free maintenance start from the launch date."],
     ],
   },
   faqHeading: "Saree business website: questions sellers ask",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Can a freelance team build a saree store properly?", answer: "Yes. A small freelance team like ours covers store setup, design, filters, checkout rules, automation and SEO, with direct contact and an itemised quote. What we do not do is photograph sarees, manage your couriers or answer customer chats. Most saree sellers already handle those in-house or with a local photographer." },
     { question: "Can you build my saree website without visiting my shop?", answer: "Yes. We are three freelance developers working remotely from India and run projects over WhatsApp, video calls and shared sheets. You send photos, videos and product details digitally, and review the store on your phone. If you need professional photography, a local photographer can shoot and send the files to us." },
     { question: "How do I pay for the saree website project?", answer: "Payments in India are by UPI or bank transfer, and international clients pay by Wise, bank wire or PayPal in USD. Milestones are listed in your itemised quote, and nothing is billed before your written approval. For contract terms, ask us and they will be agreed in the quote; our general terms and refund policy pages explain the basics." },
-    { question: "What happens after my saree store launches?", answer: `Five months of free maintenance cover fixes, updates and small changes after launch. After that, maintenance starts at ${P.care} if you want continued help. New features such as reseller logins or international shipping can be added later and are quoted separately, so there are no surprise costs.` },
+    { question: "What happens after my saree store launches?", answer: `Two months of free maintenance cover fixes, updates and small changes after launch. After that, maintenance starts at ${P.care} if you want continued help. New features such as reseller logins or international shipping can be added later and are quoted separately, so there are no surprise costs.` },
     { question: "Can my saree website rank on Google?", answer: "It can, if category and weave pages answer what buyers search, with genuine introductions, well-tagged products, product structured data, fast mobile pages and descriptive image text. It takes months, not days, and nobody can guarantee rankings. Your existing customers and social media can send traffic from the first day while search visibility grows." },
     { question: "Will my saree website show up in AI search answers?", answer: "AI search tools tend to quote clear, factual pages, such as a guide explaining how a Banarasi or Kanjivaram saree is woven or how to care for silk. Consistent product data, structured data and honest weave guides make it more likely your store is described correctly. There is no guaranteed method, but useful content is the starting point." },
     { question: "Do I need an app for my saree business?", answer: `Most saree sellers do not need one at first; a mobile-friendly website works for most buyers. An app helps when you have many repeat buyers or resellers who order often and want saved measurements, wishlists and new-arrival alerts. Android and iOS apps start at ${P.app}, usually after the store is established.` },
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to sell your sarees from your own website?",
-    note: `Send your stock size, weaves, payment preferences and shipping plans on WhatsApp. You will get a store plan and itemised quote in about two working days, stores starting at ${P.shop}, with every account in your name and five months of free maintenance after launch.`,
+    note: `Send your stock size, weaves, payment preferences and shipping plans on WhatsApp. You will get a store plan and itemised quote in about two working days, stores starting at ${P.shop}, with every account in your name and two months of free maintenance after launch.`,
   },
 };
 

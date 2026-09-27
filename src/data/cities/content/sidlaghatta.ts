@@ -56,7 +56,7 @@ const sidlaghatta: CityContent = {
     ai: "WhatsApp assistants that tell regular buyers what raw silk is in stock and at what rate, and hand bargaining back to you.",
     data: "Season-by-season dashboards comparing cocoon cost per kilo against silk recovered, lot by lot.",
     app: "Android and iOS apps from ₹40,000 for chawki centres to take rearers' bookings or for traders to update weavers, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for backups, updates and small changes.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for backups, updates and small changes.",
   },
   whyUsIntro:
     "Silk margins in Sidlaghatta are thin and swing with every auction, so owners here judge software by whether it saves money within a season. We put starting prices in public, send an itemised written quote, reply on WhatsApp all week and register every account in your name. Where a notebook still does the job better, we will tell you.",
@@ -177,7 +177,7 @@ const sidlaghatta: CityContent = {
       heading: "Ownership, handover and maintenance for Sidlaghatta websites and apps",
       paragraphs: [
         "Everything is registered to you from the first day. The domain is booked on your email, hosting is billed in your name, the full source code is shared with you, and the Google listing, Google Play and Apple developer accounts list you as owner. At handover you get a written sheet of every login, so nobody, including us, can lock you out.",
-        "For five months after launch, maintenance costs nothing. That covers updating rates or photos, backups, security and software updates, and periodic checks that forms, UPI checkout and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you trust.",
+        "For two months after launch, maintenance costs nothing. That covers updating rates or photos, backups, security and software updates, and periodic checks that forms, UPI checkout and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you trust.",
         "Apps also need a yearly update even when nothing seems broken, because Google and Apple keep raising their minimum requirements. We track those dates and ship the update ahead of time, so your app is not removed from the stores. See our <a href=\"/services/web-development/\">web development service</a> for how builds are handed over.",
       ],
     },
@@ -269,7 +269,7 @@ const sidlaghatta: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Because every account and the code are already yours, you can also move to someone else freely.",
+        "The first two months after launch are free: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Because every account and the code are already yours, you can also move to someone else freely.",
     },
     {
       question: "Do you work in Chikkaballapur, Chintamani and Kolar too?",

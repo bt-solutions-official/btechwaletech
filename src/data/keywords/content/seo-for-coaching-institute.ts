@@ -45,7 +45,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers who plan, build and optimise" },
     { value: "2", label: "Working days for an itemised proposal" },
     { value: "7", label: "Days a week on WhatsApp for batch-season changes" },
-    { value: "5", label: "Months of free maintenance on a new site" },
+    { value: "2", label: "Months of free maintenance on a new site" },
   ],
   answer: {
     heading: "How can a coaching institute get student enquiries from Google against big edtech brands?",

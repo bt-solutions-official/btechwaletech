@@ -31,11 +31,11 @@ const proddatur: CityContent = {
     eyebrow: "Proddatur · YSR Kadapa, Andhra Pradesh",
     h1: "Web, app, SEO and automation services for Proddatur's jewellers, cloth merchants and traders",
     lede:
-      "Three engineers working remotely, building Telugu-and-English websites, jewellery and saree catalogues, local search setups and WhatsApp tools for businesses in Proddatur and the towns that shop there. We work with gold merchants, textile showrooms, cotton and grain traders, finance firms, colleges and hospitals, publish our starting prices, and maintain every site free for five months.",
+      "Three engineers working remotely, building Telugu-and-English websites, jewellery and saree catalogues, local search setups and WhatsApp tools for businesses in Proddatur and the towns that shop there. We work with gold merchants, textile showrooms, cotton and grain traders, finance firms, colleges and hospitals, publish our starting prices, and maintain every site free for two months.",
     pills: ["Sites from ₹10,000", "Telugu and English", "Jewellery catalogues", "Saree and textile stores", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "In Proddatur, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, a catalogue store with UPI checkout from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team with no office in Proddatur, and maintenance is free for five months after launch.",
+    "In Proddatur, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, a catalogue store with UPI checkout from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are a remote team with no office in Proddatur, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Where it is", value: "A special-grade municipality in YSR Kadapa district on the Penna river, with NH 67 and a station on the Nandyal–Yerraguntla line" },
     { label: "Gold trade", value: "Long called the “second Bombay” for gold, with a dense bazaar of jewellery and bullion shops" },
@@ -52,10 +52,10 @@ const proddatur: CityContent = {
     ai: "WhatsApp replies that share new designs, today's making-charge policy or stock availability, and log every customer enquiry for follow-up.",
     data: "Monthly views of sales by category, festival-season peaks and slow-moving stock, drawn from records you already keep.",
     app: "Android and iPhone apps for jewellers' customer savings schemes, college notices or clinic tokens, available on both stores from ₹40,000.",
-    maintenance: "Free design uploads, fixes and backups for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free design uploads, fixes and backups for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Proddatur's merchants built their names over generations in crowded bazaar lanes, and many still do most business face to face. But the next generation of buyers checks online first, even before a wedding purchase. We build at published starting prices, work in Telugu and English, reply on WhatsApp seven days a week, and maintain the site free for five months.",
+    "Proddatur's merchants built their names over generations in crowded bazaar lanes, and many still do most business face to face. But the next generation of buyers checks online first, even before a wedding purchase. We build at published starting prices, work in Telugu and English, reply on WhatsApp seven days a week, and maintain the site free for two months.",
   pricingIntro:
     "Every price below is a starting figure. A clinic with a few pages costs less than a jeweller with five hundred designs to photograph and organise. You get an itemised written quote for your exact scope in about two working days, and nothing is billed until you approve it.",
   sections: [
@@ -186,7 +186,7 @@ const proddatur: CityContent = {
       paragraphs: [
         "A familiar problem: someone built a site years ago, kept the domain in his own account and then stopped answering. The shop cannot change a phone number or add new designs, and when the renewal lapses the site disappears.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the full source code and a short note explaining the setup. You can move to another developer whenever you want, with no exit fee and no permission needed from us.",
-        "For five months after launch, maintenance is free: new designs and photos, price and text changes, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need a change. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
+        "For two months after launch, maintenance is free: new designs and photos, price and text changes, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need a change. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -282,7 +282,7 @@ const proddatur: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we add new designs and photos, change prices and text, fix bugs, apply security updates, take backups and check speed, all at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we add new designs and photos, change prices and text, fix bugs, apply security updates, take backups and check speed, all at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in Kadapa, Jammalamadugu and nearby towns?",

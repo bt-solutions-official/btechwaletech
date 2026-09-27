@@ -7,7 +7,7 @@ const narasaraopet: CityContent = {
   meta: {
     title: "Narasaraopet Web Design, Telugu SEO & Online Stores",
     description:
-      "Telugu and English websites, SEO, UPI stores and WhatsApp bots for Narasaraopet hospitals, colleges, chilli and cotton traders. From ₹10,000, 5 months upkeep free.",
+      "Telugu and English websites, SEO, UPI stores and WhatsApp bots for Narasaraopet hospitals, colleges, chilli and cotton traders. From ₹10,000, 2 months upkeep free.",
     keywords: [
       "website development team in Narasaraopet",
       "web designer Narasaraopet",
@@ -31,11 +31,11 @@ const narasaraopet: CityContent = {
     eyebrow: "Narasaraopet · Palnadu, Andhra Pradesh",
     h1: "Websites, Telugu search pages and automation for Narasaraopet's hospitals, colleges and traders",
     lede:
-      "Three engineers, working remotely, who design websites, write Telugu and English search pages, set up UPI checkouts and automate WhatsApp replies for Narasaraopet: hospitals and scan centres, junior and engineering colleges, chilli, cotton and rice traders, cement and building suppliers, and the shops of Palnadu Road. Work begins from ₹10,000, with five months of upkeep included.",
+      "Three engineers, working remotely, who design websites, write Telugu and English search pages, set up UPI checkouts and automate WhatsApp replies for Narasaraopet: hospitals and scan centres, junior and engineering colleges, chilli, cotton and rice traders, cement and building suppliers, and the shops of Palnadu Road. Work begins from ₹10,000, with two months of upkeep included.",
     pills: ["Sites begin at ₹10,000", "Telugu and English", "OPD booking forms", "Admission enquiry pages", "Domain registered to you"],
   },
   quickAnswer:
-    "A Narasaraopet business website from us begins at ₹10,000 and usually goes live in one to two weeks. Larger 299+ page SEO sites begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and UPI online stores at ₹50,000. We are a three-person remote team without a local office, and upkeep costs nothing for the first five months.",
+    "A Narasaraopet business website from us begins at ₹10,000 and usually goes live in one to two weeks. Larger 299+ page SEO sites begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and UPI online stores at ₹50,000. We are a three-person remote team without a local office, and upkeep costs nothing for the first two months.",
   snapshot: [
     { label: "Status", value: "Headquarters of Palnadu district, a municipality since 1915, drawing a large daily floating population from surrounding villages" },
     { label: "Role", value: "Regional hub for trade, higher education and healthcare for the Palnadu area" },
@@ -164,11 +164,11 @@ const narasaraopet: CityContent = {
     },
     {
       id: "ownership-narasaraopet",
-      heading: "Your site stays yours, with five months of free upkeep",
+      heading: "Your site stays yours, with two months of free upkeep",
       paragraphs: [
         "More than one Narasaraopet firm has watched its website vanish because a former developer registered the domain and then went silent. We rule that out on day one: the domain is bought in the owner's name, the hosting account is opened in the owner's name, and the handover includes all passwords with a single sheet describing what sits where.",
-        "The source code belongs to you too. Stay with us, hand it to a developer in Guntur or Vijayawada, or hire your own person; there is no release fee and nothing locks you in. Through the first five months after go-live, upkeep is on us, including copy and rate changes, fixes, plugin and security patches, backups, and uptime and speed monitoring.",
-        "From month six, a care plan is ₹8,000 a month onwards, or you can skip the plan and pay per request whenever something needs changing.",
+        "The source code belongs to you too. Stay with us, hand it to a developer in Guntur or Vijayawada, or hire your own person; there is no release fee and nothing locks you in. Through the first two months after go-live, upkeep is on us, including copy and rate changes, fixes, plugin and security patches, backups, and uptime and speed monitoring.",
+        "From month three, a care plan is ₹8,000 a month onwards, or you can skip the plan and pay per request whenever something needs changing.",
       ],
     },
     {
@@ -256,9 +256,9 @@ const narasaraopet: CityContent = {
         "You do. The domain and hosting accounts are opened in your name, and on launch day you receive every password along with the complete code. Moving to another developer later costs nothing extra. We are firm about this because so many older Palnadu websites were lost when the original builder disappeared.",
     },
     {
-      question: "What happens during the five free months after launch?",
+      question: "What happens during the two free months after launch?",
       answer:
-        "We take care of copy and rate changes, bug fixes, plugin and security patches, backups, and uptime and speed monitoring without charging you. From the sixth month, a care plan begins at ₹8,000 a month, or you can skip the plan and pay only for individual changes when you need them.",
+        "We take care of copy and rate changes, bug fixes, plugin and security patches, backups, and uptime and speed monitoring without charging you. From the third month, a care plan begins at ₹8,000 a month, or you can skip the plan and pay only for individual changes when you need them.",
     },
     {
       question: "How long does SEO take to work in Narasaraopet?",

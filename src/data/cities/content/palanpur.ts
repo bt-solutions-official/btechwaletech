@@ -31,11 +31,11 @@ const palanpur: CityContent = {
     eyebrow: "Palanpur · Banaskantha, Gujarat",
     h1: "Websites, SEO and automation for Palanpur and Banaskantha businesses",
     lede:
-      "A remote team of three engineers building websites, catalogues, business software and WhatsApp automation for Palanpur's dairy suppliers, diamond polishing units, marble and textile traders, agri dealers, schools and hospitals. Our starting prices are published, you speak to the builders directly, and the first five months of maintenance after launch are free.",
-    pills: ["Sites from ₹10,000", "Gujarati and English pages", "Supplier catalogues", "WhatsApp order logs", "Five free months of upkeep"],
+      "A remote team of three engineers building websites, catalogues, business software and WhatsApp automation for Palanpur's dairy suppliers, diamond polishing units, marble and textile traders, agri dealers, schools and hospitals. Our starting prices are published, you speak to the builders directly, and the first two months of maintenance after launch are free.",
+    pills: ["Sites from ₹10,000", "Gujarati and English pages", "Supplier catalogues", "WhatsApp order logs", "Two free months of upkeep"],
   },
   quickAnswer:
-    "In Palanpur, our static business website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start from ₹50,000 and custom software from ₹60,000. We are a three-engineer remote team without a Palanpur office, and each launch includes five months of free maintenance.",
+    "In Palanpur, our static business website starts from ₹10,000 and a 299+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start from ₹50,000 and custom software from ₹60,000. We are a three-engineer remote team without a Palanpur office, and each launch includes two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Headquarters and largest city of Banaskantha district in North Gujarat" },
     { label: "Dairy", value: "Banas Dairy, founded in 1969 under Operation Flood, with its main plants at Palanpur" },
@@ -52,7 +52,7 @@ const palanpur: CityContent = {
     ai: "WhatsApp assistants that answer routine questions in Gujarati, Hindi or English and log every enquiry so none slip through.",
     data: "Sales, collection and inventory dashboards that let an owner see yesterday's numbers on a phone before opening the shop.",
     app: "Android and iOS apps for field sales, service visits and dealer orders across Banaskantha, released on Google Play and the App Store.",
-    maintenance: "Five months of free fixes, updates and backups after launch, then maintenance from ₹8,000 a month if you want us to continue.",
+    maintenance: "Two months of free fixes, updates and backups after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Palanpur firms often hire someone in Ahmedabad or Mehsana, or a local operator who keeps the logins. Prices are rarely written anywhere. We publish our starting prices, set everything up in your name and reply on WhatsApp seven days a week, long after launch.",
@@ -155,11 +155,11 @@ const palanpur: CityContent = {
     },
     {
       id: "ownership-palanpur",
-      heading: "You own everything, and upkeep is free for five months",
+      heading: "You own everything, and upkeep is free for two months",
       paragraphs: [
         "A familiar story in Palanpur: the website was made years ago, the developer changed numbers, the domain renewal went to an old email and the site vanished. Sometimes the domain can be recovered, sometimes it has already been bought by someone else.",
         "We prevent that by registering the domain and hosting in your name from the start. At launch you receive every login, the full source code and a short note on how the site runs. You can move to any other developer whenever you like, with no exit fee.",
-        "Once the site is live, we look after it free for five months: editing text and rates, fixing bugs, applying security and library updates, keeping backups, watching uptime and checking speed. From the sixth month you can keep that arrangement from ₹8,000 a month, or drop it and simply ping us whenever a change comes up.",
+        "Once the site is live, we look after it free for two months: editing text and rates, fixing bugs, applying security and library updates, keeping backups, watching uptime and checking speed. From the third month you can keep that arrangement from ₹8,000 a month, or drop it and simply ping us whenever a change comes up.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const palanpur: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "The five free months after launch cover edits to text and rates, bug fixes, security and library updates, backups, uptime watching and speed checks. Afterwards you can continue from ₹8,000 a month, or skip the monthly plan and pay only for individual changes when you need them.",
+        "The two free months after launch cover edits to text and rates, bug fixes, security and library updates, backups, uptime watching and speed checks. Afterwards you can continue from ₹8,000 a month, or skip the monthly plan and pay only for individual changes when you need them.",
     },
     {
       question: "Can you guarantee a first-page Google ranking?",

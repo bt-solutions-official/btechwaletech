@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Multilingual or many-page build", `From ${P.seoSite}, 3–5 weeks`],
     ["Booking", "OPD slots, or treatment packages with rooms"],
     ["Quote", "Itemised in about 2 working days"],
-    ["Care", "5 months free maintenance"],
+    ["Care", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers you deal with" },
     { value: "2", label: "Working days to your written quote" },
-    { value: "5", label: "Months of maintenance included" },
+    { value: "2", label: "Months of maintenance included" },
     { value: "0", label: "Commission on bookings through your site" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Booking", value: "OPD slots, or packages with room and dates" },
       { label: "Guest follow-up", value: `Pre-arrival emails and WhatsApp from ${P.ai}` },
       { label: "Wording to watch", value: "Drugs and Magic Remedies Act, practitioner ethics rules" },
-      { label: "After launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -317,7 +317,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Once ayurvedic clinic website design work is done, your centre owns the domain, hosting, code, content and guest data, as it has from the first day, and receives every login at launch. We stay involved only for as long as you want.`,
         `Handover includes a short guide for updating packages, seasons, rooms, practitioners and translations, plus a list of every outside service the site depends on. A future developer can pick it up without us.`,
-        `For five months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care} a month; centres that change packages each season usually keep it. General rules are on our <a href='/terms/'>terms page</a>, and refund rules on the <a href='/refund-policy/'>refund policy</a> page.`,
+        `For two months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care} a month; centres that change packages each season usually keep it. General rules are on our <a href='/terms/'>terms page</a>, and refund rules on the <a href='/refund-policy/'>refund policy</a> page.`,
       ],
     },
     {
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
       ["Drafts and claims check", "We draft therapy and package pages from your notes, flag cure claims, and your practitioner approves every clinical line."],
       ["Build and translations", "Pages are built on a private preview. Translations you supply or approve go into proper language versions with correct tags."],
       ["Launch in your name", "Domain, hosting and code are registered to your centre. Search Console, sitemaps and your map listing are set up at launch."],
-      ["Five months of free care", "We fix issues and make small updates at no charge for five months. After that, care is optional from the maintenance plan price."],
+      ["Two months of free care", "We fix issues and make small updates at no charge for two months. After that, care is optional from the maintenance plan price."],
     ],
   },
   faqHeading: "Ayurvedic clinic website design: questions answered",
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
     { question: "Freelancer or agency for ayurvedic clinic website design?", answer: "Either can work. Judge them on whether they understand combined room and therapy booking, multilingual structure and claims risk, and whether you will own the domain, hosting and code. With a small freelance team you talk directly to the people building it. Ask everyone about upkeep costs after launch." },
     { question: "Who owns the website and guest data?", answer: "Your centre does. The domain, hosting, code, content and guest data are registered to you from day one, and every login is handed over at launch. Nothing depends on our accounts, so you can change developers at any time without needing anything released by us." },
     { question: "Does GDPR apply to our Ayurveda website?", answer: "It may, if you collect personal data from guests in the European Union, alongside India’s Digital Personal Data Protection Act, 2023. The build supports consent capture, clear notices, secure storage and deletion requests. Whether and how these laws apply to your centre is for your own legal adviser to confirm." },
-    { question: "What happens after the five free months?", answer: `Care becomes optional and starts at ${P.care} a month. It covers updates, security patches, backups and small changes such as new seasons, packages or practitioners. Centres that adjust packages each season tend to keep it. The scope is written into your quote.` },
+    { question: "What happens after the two free months?", answer: `Care becomes optional and starts at ${P.care} a month. It covers updates, security patches, backups and small changes such as new seasons, packages or practitioners. Centres that adjust packages each season tend to keep it. The scope is written into your quote.` },
     { question: "How do we pay for the website?", answer: "Centres in India pay by UPI or bank transfer, and owners abroad can pay by Wise, bank wire or PayPal in US dollars. The quote is itemised with milestones, and nothing is billed before your written approval. Our refund policy page explains the general rules." },
     { question: "Can you redo the ayurvedic clinic website design of our existing site?", answer: "Yes. We review which pages already bring enquiries, keep good URLs, redirect the rest, and rebuild weak areas such as vague package pages, cure claims, slow galleries and room-only booking. Planning redirects carefully keeps the search visibility your old site has earned." },
     { question: "Do you visit our centre for photos or setup?", answer: "No. We work remotely and do not make site visits, so photography and video are arranged by your centre, ideally with a local photographer. We give a shot list covering rooms, therapy spaces, the kitchen, practitioners and the grounds, and we handle compression and placement." },

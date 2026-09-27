@@ -56,7 +56,7 @@ const diphu: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, fee and booking questions and forward serious enquiries to you.",
     data: "Dashboards of produce bought by village, stock by godown, admissions by course and sales by branch.",
     app: "Android and iOS apps for Diphu coaching centres, clinics, wholesalers or tour operators, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Businesses in Diphu often deal with suppliers from Guwahati or further away and have heard plenty of big promises. We keep it simple: starting prices in public, a written itemised quote, WhatsApp replies every day, and the domain, hosting, code and app store accounts registered to you. If something will not help, we will tell you.",
@@ -168,7 +168,7 @@ const diphu: CityContent = {
       heading: "Ownership and maintenance for your Diphu website and app",
       paragraphs: [
         "In a town where a good developer can be hard to find locally, losing access to your own website is a real risk. It happens when the builder keeps the domain under his name and later stops picking up the phone. From day one, your domain, hosting, source code, Google Business Profile and both app store developer accounts are opened in your name, and a written list of every login is handed to you.",
-        "For the first five months after going live, upkeep costs nothing. During that time we change text and rates when you ask, take backups, apply security and software patches, and test that enquiry forms, payment links and WhatsApp buttons are working. From the sixth month, continued upkeep starts at ₹8,000 a month, and it is entirely optional: you can hand the code to a different developer whenever you choose.",
+        "For the first two months after going live, upkeep costs nothing. During that time we change text and rates when you ask, take backups, apply security and software patches, and test that enquiry forms, payment links and WhatsApp buttons are working. From the third month, continued upkeep starts at ₹8,000 a month, and it is entirely optional: you can hand the code to a different developer whenever you choose.",
         "Google Play and the App Store revise their technical rules every year, and apps that fall behind are hidden or pulled. We keep an eye on those deadlines and ship the update before they arrive.",
         "We also leave you a short handover document describing where everything is hosted, how backups run and how to change prices or photographs yourself, so that the business is never dependent on one person, including us.",
       ],
@@ -266,7 +266,7 @@ const diphu: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "You get five months of upkeep at no charge once the site or app is live: text and rate changes, backups, security patches and regular tests of forms, payment links and WhatsApp buttons. Continuing after that starts at ₹8,000 a month and is optional, since the code is yours to take elsewhere.",
+        "You get two months of upkeep at no charge once the site or app is live: text and rate changes, backups, security patches and regular tests of forms, payment links and WhatsApp buttons. Continuing after that starts at ₹8,000 a month and is optional, since the code is yours to take elsewhere.",
     },
     {
       question: "Do you work in Manja, Bokajan, Lumding and Dimapur too?",

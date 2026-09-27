@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Default compute", "Cloud Run, scaling to zero when idle"],
     ["Indian regions", "Mumbai and Delhi"],
     ["Account ownership", "Your Google Cloud organisation and billing"],
-    ["Ongoing care", `From ${P.care} a month after 5 free months`],
+    ["Ongoing care", `From ${P.care} a month after 2 free months`],
   ],
   stats: [
     { value: "3", label: "Freelance developers covering code, cloud and data" },
     { value: "2", label: "Working days to a written, itemised plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Reseller mark-up on your Google Cloud bill" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Security basics", value: "Least-privilege IAM, no shared owner logins, Secret Manager" },
       { label: "Web app built on GCP", value: `From ${P.software}, 6–12 weeks` },
       { label: "Migration", value: "From shared hosting, a VPS or AWS, with a rollback plan" },
-      { label: "After handover", value: `5 months free, then from ${P.care} a month` },
+      { label: "After handover", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Google Cloud consultant costs with our team",
-    note: `If we are building your software, a custom web app or portal designed for Google Cloud starts at ${P.software} and includes deployment, IAM, budgets and handover notes. For existing apps, setup, migration and bill-review work is quoted after we read your current architecture and last few invoices; we list each task, its effort and what it should save. Google bills cloud usage directly to your own billing account, with no mark-up from us. After launch you get five months of free maintenance, then ongoing care from ${P.care} a month.`,
+    note: `If we are building your software, a custom web app or portal designed for Google Cloud starts at ${P.software} and includes deployment, IAM, budgets and handover notes. For existing apps, setup, migration and bill-review work is quoted after we read your current architecture and last few invoices; we list each task, its effort and what it should save. Google bills cloud usage directly to your own billing account, with no mark-up from us. After launch you get two months of free maintenance, then ongoing care from ${P.care} a month.`,
   },
   guideLabel: "Google Cloud consultant guide for small teams",
   guide: [
@@ -293,7 +293,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Google Cloud setup is finished only when someone will know if it breaks, the data can be restored, and you can run it without the consultant. We treat monitoring, backups and handover as part of the job, not optional extras.`,
         `Monitoring means uptime checks on your public URLs, alerts on error rates and latency for Cloud Run services, database CPU and storage alerts, and budget alerts. Backups mean Cloud SQL automated backups with point-in-time recovery, versioning or scheduled copies for important buckets, and one documented restore performed during the project, so you know it works.`,
-        `Everything stays in your name: the organisation, projects, billing account, domain, code repository and CI pipelines. Handover includes an architecture diagram, a list of every service with its monthly cost, how to deploy and roll back, where logs are, and who holds which role. You receive five months of free maintenance after launch; ongoing care starts at ${P.care} a month if you want us to keep watching.`,
+        `Everything stays in your name: the organisation, projects, billing account, domain, code repository and CI pipelines. Handover includes an architecture diagram, a list of every service with its monthly cost, how to deploy and roll back, where logs are, and who holds which role. You receive two months of free maintenance after launch; ongoing care starts at ${P.care} a month if you want us to keep watching.`,
       ],
       after: [
         `Want uptime watched separately? See our <a href='/website-uptime-monitoring-service/'>uptime monitoring service</a> page.`,
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
       ["Itemised plan", "Within about two working days you receive every task listed with effort and purpose: setup, IAM, migration steps, CI/CD, monitoring and handover."],
       ["Build in parallel", "The new setup is built beside the old one in your organisation, tested on a temporary address, with budgets and alerts active from the start."],
       ["Cut over carefully", "DNS moves at a quiet hour with the old host kept as fallback. We watch logs, errors and costs closely through the first days."],
-      ["Hand over and support", "You get the architecture note, cost breakdown and runbook. Five months of maintenance follow free, then monthly care if you want it."],
+      ["Hand over and support", "You get the architecture note, cost breakdown and runbook. Two months of maintenance follow free, then monthly care if you want it."],
     ],
   },
   faqHeading: "Google Cloud consultant FAQs",
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
     { question: "Do you set up CI/CD on Google Cloud?", answer: "Yes. We use GitHub Actions or Cloud Build to test and deploy each merge, first to staging and then to production after approval, with quick rollback to the previous Cloud Run revision. Pipelines authenticate through workload identity federation rather than stored keys, which removes a common security weak point." },
     { question: "How are payments handled for Google Cloud consulting?", answer: "Clients in India pay us by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Our work is itemised in a written quote you approve before anything is billed. Google bills cloud usage separately to your own card or invoice account, so you always see the real platform cost." },
     { question: "Can you add AI features using Google Cloud?", answer: `Yes. We build chatbots, document reading and summarisation using Vertex AI models, served through your own API on Cloud Run so keys, quotas and logs stay under your control. AI automation work starts at ${P.ai}, and we set quotas so model usage cannot run away with your budget.` },
-    { question: "What happens after the Google Cloud setup is handed over?", answer: `You receive an architecture note, a cost breakdown and a runbook for deploys and rollbacks. Five months of maintenance are included after launch, covering fixes, small changes and a monthly billing check. After that, ongoing care starts at ${P.care} a month if you want us involved.` },
+    { question: "What happens after the Google Cloud setup is handed over?", answer: `You receive an architecture note, a cost breakdown and a runbook for deploys and rollbacks. Two months of maintenance are included after launch, covering fixes, small changes and a monthly billing check. After that, ongoing care starts at ${P.care} a month if you want us involved.` },
     { question: "Google Cloud setup kaise kare, kya aap Hindi mein samjha sakte hain?", answer: "Haan. Hamari team Hindi aur English dono mein baat karti hai. Aap WhatsApp par batayein ki abhi aapki website ya app kahan host hai aur kya problem hai. Hum ek page ka plan, anumaanit monthly Google Cloud bill aur itemised quote lagbhag do working days mein bhejte hain." },
   ],
   related: {

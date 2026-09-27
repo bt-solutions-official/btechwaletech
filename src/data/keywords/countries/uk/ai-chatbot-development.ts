@@ -35,12 +35,12 @@ const content: FreelanceContent = {
     ["Channels", "Website widget, WhatsApp, or both"],
     ["Knowledge source", "Your pages, FAQs, PDFs and policies"],
     ["Hand-off", "Email, WhatsApp or helpdesk to your team"],
-    ["Aftercare", "5 months of free fixes and tuning"],
+    ["Aftercare", "2 months of free fixes and tuning"],
   ],
   stats: [
     { value: "3", label: "Developers covering AI, integration and project lead" },
     { value: "2", label: "Working days to an itemised chatbot quote" },
-    { value: "5", label: "Months of free tuning after launch" },
+    { value: "2", label: "Months of free tuning after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Leads", value: "Name, contact and need captured into email, CRM or spreadsheet" },
       { label: "Privacy", value: "AI disclosed up front, privacy notice updated, log retention set" },
       { label: "Starting price", value: `Build from ${P.ai}; running costs billed to your accounts` },
-      { label: "After launch", value: `5 months free tuning, then care from ${P.care}` },
+      { label: "After launch", value: `2 months free tuning, then care from ${P.care}` },
     ],
   },
   services: {
@@ -201,7 +201,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Monthly running cost is made up of AI model usage, which scales with the number and length of conversations, plus hosting, the search index and, on WhatsApp, Meta’s per-message charges for template messages. For a typical SME website bot, the model usage is often modest; high-volume or WhatsApp-heavy bots cost more.`,
         `Model providers charge by the amount of text processed, both the question plus retrieved passages going in and the answer coming out. Retrieval keeps this efficient, because only relevant passages are sent. Choosing a smaller, cheaper model for straightforward questions and a stronger one only when needed can cut costs further without hurting quality.`,
-        `Before you commit, we estimate running costs from your expected monthly chats and set spending limits on the AI account so a spike cannot surprise you. All of these costs are billed to your own accounts, not resold through us. Care after the free five months starts at ${P.care} if you want us to keep tuning. For a fuller breakdown see <a href='/uk/ai-chatbot-cost/'>AI chatbot costs in the UK</a>.`,
+        `Before you commit, we estimate running costs from your expected monthly chats and set spending limits on the AI account so a spike cannot surprise you. All of these costs are billed to your own accounts, not resold through us. Care after the free two months starts at ${P.care} if you want us to keep tuning. For a fuller breakdown see <a href='/uk/ai-chatbot-cost/'>AI chatbot costs in the UK</a>.`,
       ],
     },
     {
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Accuracy decays when your business changes and the content the bot reads does not. The cure is a routine: update the source content, re-index it, rerun the tests and read a sample of conversations each month.`,
         `We connect the knowledge base to the source where possible, so when you edit a page or FAQ the bot’s index updates automatically. For PDFs and documents, an admin page or shared folder lets your team replace files without calling us. Price and date changes should be made once, at the source, not patched into the bot’s instructions.`,
-        `Each month, someone should read a sample of transcripts, especially those where the bot handed over or the visitor left abruptly. Those conversations show missing content and unclear answers. During the five free months after launch we do that review with you and adjust; afterwards, your team can do it, or we can continue on a care plan.`,
+        `Each month, someone should read a sample of transcripts, especially those where the bot handed over or the visitor left abruptly. Those conversations show missing content and unclear answers. During the two free months after launch we do that review with you and adjust; afterwards, your team can do it, or we can continue on a care plan.`,
       ],
     },
     {
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
         ["Search index and hosting", "Size of knowledge base, traffic", "Right-sized plan, cached common answers"],
         ["WhatsApp messages", "Template messages delivered", "Answer inbound chats within the free service window"],
         ["Helpdesk or live chat seats", "Staff taking hand-offs", "Route to email where live chat is not needed"],
-        ["Tuning and updates", "Content changes, log reviews", `Free for 5 months, then care from ${P.care}`],
+        ["Tuning and updates", "Content changes, log reviews", `Free for 2 months, then care from ${P.care}`],
       ],
     },
     {
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       ["Content and test set", "We gather and tidy source content, flag conflicts for you to settle, and write the test set with your team’s real questions."],
       ["Build and first test run", "Retrieval index, instructions, widget or WhatsApp flow, lead capture and hand-off are built on staging and tested against every question."],
       ["Soft launch", "The bot goes live on a few pages or to staff first; we read every conversation, fix failures and rerun the tests."],
-      ["Full launch and tuning", "Opened to all visitors with disclosure and privacy notice in place. Monthly log reviews and test reruns continue free for five months."],
+      ["Full launch and tuning", "Opened to all visitors with disclosure and privacy notice in place. Monthly log reviews and test reruns continue free for two months."],
     ],
   },
   faqHeading: "AI chatbot development company UK: frequently asked questions",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Can an AI chatbot answer in Welsh or other languages?", answer: "Yes. Language models handle many languages, and the bot can reply in the visitor’s language. For reliable answers the source content should exist in that language or be carefully translated. Our team works in English and Hindi, so you supply or approve Welsh or other translated content; we set up the bot to use it." },
     { question: "Is it better to hire a UK AI chatbot development company or a remote developer team?", answer: "A UK agency may suit you if you want in-person workshops or a large team on call. A remote developer team can suit a smaller business that wants the builders directly, lower overheads and full ownership. With us, calls happen in UK late mornings, accounts stay in your name, and nothing is billed before written approval." },
     { question: "Will a chatbot help my website rank on Google?", answer: "Not directly; chat content usually is not indexed. Indirectly it helps: the content tidy-up for the bot often improves your FAQs and service pages, and chat logs reveal questions worth answering on the site. Nobody can guarantee rankings. For search work itself, see our UK SEO packages and AI search optimisation pages." },
-    { question: "What support is included after launch?", answer: `Five months of free fixes and tuning after launch: monthly log reviews, test reruns, content updates and adjustments to instructions. After that you can manage the bot yourselves using the documentation and admin tools, or continue on a care plan from ${P.care}. Running costs stay billed to your own accounts either way.` },
+    { question: "What support is included after launch?", answer: `Two months of free fixes and tuning after launch: monthly log reviews, test reruns, content updates and adjustments to instructions. After that you can manage the bot yourselves using the documentation and admin tools, or continue on a care plan from ${P.care}. Running costs stay billed to your own accounts either way.` },
   ],
   related: {
     heading: "More AI and messaging work for UK businesses",

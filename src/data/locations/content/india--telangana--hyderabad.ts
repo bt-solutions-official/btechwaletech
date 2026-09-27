@@ -40,7 +40,7 @@ const content: CityContent = {
     pills: ["Consulting call free", "Web apps from ₹60,000", "Android & iOS from ₹40,000", "Telugu, Urdu, Hindi, English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Hyderabad as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom web apps from ₹60,000, with five months of free maintenance after launch.",
+    "BtechWaleTech provides IT consulting and IT solutions in Hyderabad as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom web apps from ₹60,000, with two months of free maintenance after launch.",
   snapshot: [
     { label: "Tech districts", value: "HITEC City, Madhapur, Gachibowli, Kondapur and the Financial District at Nanakramguda, home to large IT campuses and global capability centres" },
     { label: "Industrial areas", value: "Patancheru, Pashamylaram, Jeedimetla, Balanagar, Cherlapally and Uppal, with pharma, engineering, packaging and plastics units" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "Generative AI assistants and workflow automation that search your documents, answer staff and customer questions, and draft emails or reports, with human approval built in.",
     data: "Business intelligence for Hyderabad firms: pipelines from ERPs, Tally, POS and CRMs into clean dashboards for owners and managers.",
     app: "Android and iOS apps for Hyderabad customers, field staff and students, built in Flutter or React Native and released on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month with WhatsApp replies every day.",
+    maintenance: "Two months of free maintenance after launch, then plans from ₹8,000 a month with WhatsApp replies every day.",
   },
   whyUsIntro:
     "Hyderabad buyers can usually tell engineering from sales talk within one call. We are three engineers who consult, build and support directly, publish starting prices, and document our work so thoroughly that your future in-house team can take over easily.",
@@ -209,7 +209,7 @@ const content: CityContent = {
       id: "hyderabad-cost-payment-remote",
       heading: "Cost, payment and remote delivery for Hyderabad IT projects",
       paragraphs: [
-        "IT projects in Hyderabad with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom web apps. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT projects in Hyderabad with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO site, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom web apps. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after two free months.",
         "Final cost depends on screens, roles, integrations, languages, data migration and content. You receive an itemised estimate about two working days after the consultation and can phase features to fit your budget. Hyderabad clients pay only through UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, in milestones tied to visible progress.",
         "Delivery is fully remote: a live preview from week one, weekly updates, WhatsApp replies seven days a week and recorded training videos. We have no Hyderabad office and do not work on site. See our <a href='/portfolio/'>portfolio</a>, meet the team on the <a href='/about/'>about page</a>, or read the wider <a href='/india/telangana/'>Telangana overview</a>.",
       ],
@@ -298,7 +298,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of maintenance are free after hosting goes live: bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. Afterwards, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance are free after hosting goes live: bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. Afterwards, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can you reconcile our food delivery aggregator payouts?",

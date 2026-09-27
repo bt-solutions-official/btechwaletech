@@ -56,7 +56,7 @@ const bhawanipatna: CityContent = {
     ai: "WhatsApp assistants in Odia and English that answer fees, timings and stock questions and pass decisions to you.",
     data: "Dashboards of paddy received, rice dispatched, patient appointments or admissions by month.",
     app: "Android and iOS apps for patient appointments, coaching class notices or dealer orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "Kalahandi businesses have heard plenty of promises from outsiders. We keep ours small and written: starting prices on the page, an itemised quote before any work, WhatsApp replies seven days a week, and the domain, hosting, code and app accounts registered in your name. When a feature is not worth the money, we say so.",
@@ -170,7 +170,7 @@ const bhawanipatna: CityContent = {
       heading: "Ownership and maintenance of Bhawanipatna websites and apps",
       paragraphs: [
         "Too many small businesses lose their website because whoever built it kept the domain under his own name. With us, the domain, hosting, source code, Google Business Profile access and app store accounts are registered to you from the beginning, and you receive every password.",
-        "Maintenance is free for five months after launch. That includes text and price updates, backups, security patches, software updates and checks that forms, payment links and WhatsApp buttons work. After that, maintenance starts at ₹8,000 a month if you want us to carry on; if not, you can hand over to anyone.",
+        "Maintenance is free for two months after launch. That includes text and price updates, backups, security patches, software updates and checks that forms, payment links and WhatsApp buttons work. After that, maintenance starts at ₹8,000 a month if you want us to carry on; if not, you can hand over to anyone.",
         "Apps need regular updates as Google and Apple change requirements, and we track those so your app is not removed from the stores. For ongoing search work see our <a href=\"/services/seo-services/\">SEO services</a>, and for apps our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -262,7 +262,7 @@ const bhawanipatna: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. All logins stay with you, so you can switch to another developer whenever you like.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. All logins stay with you, so you can switch to another developer whenever you like.",
     },
     {
       question: "Do you also work in Kesinga, Junagarh and Dharamgarh?",

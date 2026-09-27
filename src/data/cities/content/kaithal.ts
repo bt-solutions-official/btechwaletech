@@ -31,11 +31,11 @@ const kaithal: CityContent = {
     eyebrow: "Kaithal · Haryana",
     h1: "Websites, software, SEO and AI tools for Kaithal's paddy trade, mills and local businesses",
     lede:
-      "We are three remote engineers who build websites, buyer-facing catalogues and small business software for Kaithal district, from basmati shellers and arhtiya firms in the grain market to Cheeka millers, Pundri retailers, coaching institutes and clinics. Prices start low and are published, you talk to the builders directly, and the first five months of upkeep cost nothing.",
+      "We are three remote engineers who build websites, buyer-facing catalogues and small business software for Kaithal district, from basmati shellers and arhtiya firms in the grain market to Cheeka millers, Pundri retailers, coaching institutes and clinics. Prices start low and are published, you talk to the builders directly, and the first two months of upkeep cost nothing.",
     pills: ["Sites from ₹10,000", "Hindi, Haryanvi-friendly copy", "Rice mill catalogues", "Arhtiya ledgers on the phone", "Google Maps setup"],
   },
   quickAnswer:
-    "A business website in Kaithal starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kaithal office, and maintenance is free for five months after launch.",
+    "A business website in Kaithal starts from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Kaithal office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Kaithal district, formed on 1 November 1989, bordering Patiala in Punjab and Kurukshetra, Karnal and Jind districts" },
     { label: "Tehsils", value: "Kaithal, Guhla, Pundri and Kalayat, with sub-tehsils at Rajaund, Dhand and Siwan" },
@@ -52,7 +52,7 @@ const kaithal: CityContent = {
     ai: "WhatsApp bots that send daily rates, stock positions or admission details in Hindi so your team is not answering the same message fifty times.",
     data: "Season-wise dashboards of arrivals, purchases, milling output and dispatch that a mill owner can read on a phone.",
     app: "Android and iOS apps for school parents, coaching students or field agents, one Flutter build listed on Google Play and the App Store.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then upkeep from ₹8,000 a month if you want us to continue.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then upkeep from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Kaithal businesses usually find a developer through a relative or a card left at the shop, and the result is often a site nobody can update. We work differently: prices are published, quotes are itemised, the domain is registered to you, and three engineers answer your WhatsApp messages seven days a week. No sales staff sits between you and the people writing the code.",
@@ -176,8 +176,8 @@ const kaithal: CityContent = {
       heading: "Owning your site outright, and keeping it running",
       paragraphs: [
         "A common story in district towns goes like this: a developer registers the domain in his own name, builds the site and moves on. Two years later, the business cannot renew it, cannot change a phone number, and loses the search visibility it had built. We avoid this completely. The domain and hosting are registered in your name from day one, and at launch you receive every login, the full source code and a short note explaining the setup.",
-        "For five months after launch, maintenance is free. That covers text and price changes, software and security updates, backups, bug fixes and checks that the site loads quickly. Paddy and wheat seasons tend to bring bursts of changes to rates and contact numbers, and we handle those during this period without extra charges.",
-        "After five months you choose. Ongoing maintenance starts from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work. You can also move the whole site to another developer at any time without an exit fee.",
+        "For two months after launch, maintenance is free. That covers text and price changes, software and security updates, backups, bug fixes and checks that the site loads quickly. Paddy and wheat seasons tend to bring bursts of changes to rates and contact numbers, and we handle those during this period without extra charges.",
+        "After two months you choose. Ongoing maintenance starts from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work. You can also move the whole site to another developer at any time without an exit fee.",
       ],
     },
   ],
@@ -262,7 +262,7 @@ const kaithal: CityContent = {
         "Yes. Everything is registered in your name from the start, and at launch you receive all logins and the full code. You can move to another developer whenever you like with no exit fee. This protects you from the common problem of a developer disappearing with your domain.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You decide. Monthly maintenance starts from ₹8,000 and covers updates, backups, security fixes and content changes. Or you can skip the plan and message us only when you need something, paying for that work alone. Many seasonal businesses prefer the second option.",
     },

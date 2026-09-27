@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Logistics and fleet tools", "AI email agents from ₹40,000", "B2B websites from ₹10,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Vasco-da-Gama businesses: shipment and fleet software from ₹60,000 over six to twelve weeks, AI email automation and Android and iOS apps from ₹40,000, and B2B websites from ₹10,000 within two weeks. We are a freelance group of three remote engineers, with no Vasco office, and five months of maintenance is free.",
+    "BtechWaleTech's freelance software developers build for Vasco-da-Gama businesses: shipment and fleet software from ₹60,000 over six to twelve weeks, AI email automation and Android and iOS apps from ₹40,000, and B2B websites from ₹10,000 within two weeks. We are a freelance group of three remote engineers, with no Vasco office, and two months of maintenance is free.",
   snapshot: [
     { label: "Port", value: "Mormugao Port, a major port of India since the late nineteenth century, long known for iron-ore exports and now handling coal, general cargo and cruise calls" },
     { label: "Shipbuilding", value: "Goa Shipyard Limited, a defence public sector yard building vessels for the Navy and Coast Guard, plus private ship-repair firms" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents that read shipping emails, extract vessel, cargo and date details, draft replies and update your job files for a person to confirm.",
     data: "Dashboards for vessel jobs, truck trips, fuel, turnaround times, receivables and vendor documents that are about to expire.",
     app: "Android and iOS apps for Vasco drivers, surveyors, technicians and hotel guests, built in Flutter or React Native, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of fixes, updates and backups after launch, then support from ₹8,000 a month, answered on WhatsApp seven days a week.",
+    maintenance: "Two free months of fixes, updates and backups after launch, then support from ₹8,000 a month, answered on WhatsApp seven days a week.",
   },
   whyUsIntro:
     "Vasco businesses deal with large principals and strict paperwork, yet most are lean family or partner-run firms. We match that: a freelance group of three engineers who publish starting prices, keep the code in your name and talk to you directly rather than through a sales layer.",
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "maintenance-vasco",
       heading: "Maintenance and IT support for Vasco software after launch",
       paragraphs: [
-        "Maintenance keeps your Vasco software secure and working: bug fixes, security updates, backups, uptime checks and small changes. BtechWaleTech includes five months free after launch, then offers plans from ₹8,000 a month or on-demand work.",
+        "Maintenance keeps your Vasco software secure and working: bug fixes, security updates, backups, uptime checks and small changes. BtechWaleTech includes two months free after launch, then offers plans from ₹8,000 a month or on-demand work.",
         "Because we work remotely, our support covers software, hosting, domains and email, not on-site hardware or networking. We reply on WhatsApp seven days a week and prioritise anything that stops operations, such as a job system outage during a vessel call. Every change is tested on a staging copy first.",
       ],
     },
@@ -202,7 +202,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Job-file, fleet or compliance software:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -281,7 +281,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance is free after launch, covering bug fixes, security updates, backups, uptime and speed checks and small changes. Afterwards, plans start from ₹8,000 a month, or you can pay per request. We support software and hosting remotely and do not handle office hardware or cabling.",
+        "Two months of maintenance is free after launch, covering bug fixes, security updates, backups, uptime and speed checks and small changes. Afterwards, plans start from ₹8,000 a month, or you can pay per request. We support software and hosting remotely and do not handle office hardware or cabling.",
     },
     {
       question: "Is our commercial data safe on the cloud?",

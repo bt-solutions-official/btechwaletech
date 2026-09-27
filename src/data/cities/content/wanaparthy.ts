@@ -56,7 +56,7 @@ const wanaparthy: CityContent = {
     ai: "WhatsApp assistants in Telugu that handle stock, timing and order questions and pass the rest to you.",
     data: "Season-wise views of paddy bought, milled output, dispatches and payments pending by party.",
     app: "Android and iOS apps for weaver groups showing new designs to resellers, or for coaching students, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Wanaparthy clients tend to ask the right questions early: who owns the domain, what happens if the developer disappears, and what the real total will be. We answer in writing. Starting prices are public, quotes are itemised, WhatsApp replies come every day of the week, and every account stays in your name.",
@@ -188,7 +188,7 @@ const wanaparthy: CityContent = {
       heading: "Your accounts, your code: ownership and support after launch in Wanaparthy",
       paragraphs: [
         "District towns are full of businesses whose websites went dark because a developer left and nobody else had the passwords. We prevent that by registering the domain, hosting, source code, Google Business Profile and app store developer accounts to you from day one.",
-        "Every launch includes five months of free maintenance: bug fixes, small text and photo updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need ongoing attention. If your site barely changes, we will tell you a monthly plan may not be worth it.",
+        "Every launch includes two months of free maintenance: bug fixes, small text and photo updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need ongoing attention. If your site barely changes, we will tell you a monthly plan may not be worth it.",
         "At handover we give you a plain-language note describing how the site or app is set up, where it is hosted and how to renew each service. If you later move to another developer, they can pick up from that note rather than rebuilding.",
         "Apps need more attention than websites, because Google and Apple update their rules and required software versions every year. Our maintenance covers these updates so your app stays available on both stores without last-minute scrambles.",
       ],
@@ -277,7 +277,7 @@ const wanaparthy: CityContent = {
     {
       question: "What is the maintenance cost after launch?",
       answer:
-        "Five months of free maintenance come with every launch, covering fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps needing regular work. For a site that rarely changes, we will honestly tell you that you may not need a monthly plan.",
+        "Two months of free maintenance come with every launch, covering fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps needing regular work. For a site that rarely changes, we will honestly tell you that you may not need a monthly plan.",
     },
     {
       question: "Do you handle digital marketing for colleges in Wanaparthy?",

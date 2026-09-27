@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "8–14 weeks for app plus backend"],
     ["Protocols", "OCPP 1.6J, OCPP 2.0.1; OCPI on request"],
     ["Hosting", "Your cloud account, your data"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering app, backend and cloud" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free maintenance post-launch" },
+    { value: "2", label: "Months of free maintenance post-launch" },
     { value: "0", label: "Per-charger fees charged by us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Charger hardware", value: "You buy OCPP-capable chargers; we connect to them, we do not install" },
       { label: "Timeline", value: "8–14 weeks, depending on charger models and billing modes" },
       { label: "Paying us", value: "UPI or bank transfer against approved milestones" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `EV charging app development with BtechWaleTech starts at ${P.app} for the Android and iOS driver app and ${P.software} for the OCPP backend and operator dashboard. Most operators need both, and the quote shows each line separately.`,
         `Cost rises with the number of charger models to integrate and test, OCPP 2.0.1 features beyond basic sessions, the number of billing modes (public, fleet, society, free destination charging), smart charging rules, reservation logic, OCPI roaming, and the depth of reports finance needs. A single-model network with public UPI billing sits near the starting figures; a mixed-brand network with fleets, societies and load management sits well above.`,
-        `Running costs are yours and paid directly to providers: cloud servers sized for always-on charger connections, maps usage, SMS or WhatsApp messages, payment provider charges, and the Google Play (one-time US$25) and Apple Developer Program (US$99 a year) fees in your company name. We list them in the quote. Maintenance is free for five months after launch, then from ${P.care} a month if you want it. For how app budgets work in general, read <a href='/app-development-cost-in-india/'>app development costs in India</a>.`,
+        `Running costs are yours and paid directly to providers: cloud servers sized for always-on charger connections, maps usage, SMS or WhatsApp messages, payment provider charges, and the Google Play (one-time US$25) and Apple Developer Program (US$99 a year) fees in your company name. We list them in the quote. Maintenance is free for two months after launch, then from ${P.care} a month if you want it. For how app budgets work in general, read <a href='/app-development-cost-in-india/'>app development costs in India</a>.`,
       ],
     },
     {
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Write the rules down", "Tariffs, refunds, idle fees, booking and failure handling are agreed on paper first, because the backend, receipts and support all follow from them."],
       ["Build against a simulator", "The OCPP backend and dashboard are developed against simulated chargers, so you see sessions and reports long before hardware reaches a test site."],
       ["Test on real chargers, then pilot", "Each charger model is connected and put through every command and failure. A pilot at one site with real drivers follows before public launch."],
-      ["Publish and hand over", "Apps go live in your store accounts; you receive code, credentials and runbooks. Five months of free maintenance follow, then care from " + P.care + " a month if wanted."],
+      ["Publish and hand over", "Apps go live in your store accounts; you receive code, credentials and runbooks. Two months of free maintenance follow, then care from " + P.care + " a month if wanted."],
     ],
   },
   faqHeading: "EV charging app development: questions operators ask",
@@ -390,9 +390,9 @@ const content: FreelanceContent = {
     { question: "What happens if a charger loses internet during a session?", answer: "The charger normally continues the active session and stores meter values, then sends them when the connection returns. The backend reconciles the transaction from those values and never bills more than was delivered. For known RFID users, chargers can also authorise from a local list while offline." },
     { question: "Can you connect our network to other charging apps?", answer: "Yes, through OCPI, an open protocol for roaming between charging networks. Other networks’ users can then find and pay at your chargers, and yours at theirs. Roaming needs a commercial agreement with a partner or hub first; once that exists, we build and test the integration." },
     { question: "Do Indian government guidelines affect the app?", answer: "The Ministry of Power’s Guidelines for Installation and Operation of Electric Vehicle Charging Infrastructure-2024, issued on 17 September 2024, push for connected, interoperable networks built on standard protocols. We review the current guidelines and any state policy with you during scoping and build the software features they call for; compliance decisions remain yours." },
-    { question: "How much does it cost to run the platform each month?", answer: `Running costs are paid by you directly: cloud servers for always-on charger connections, maps usage, SMS or WhatsApp messages, payment provider charges, the one-time US$25 Google Play fee and Apple’s US$99 yearly membership. Maintenance from us is free for five months after launch, then starts at ${P.care} a month if you want it.` },
+    { question: "How much does it cost to run the platform each month?", answer: `Running costs are paid by you directly: cloud servers for always-on charger connections, maps usage, SMS or WhatsApp messages, payment provider charges, the one-time US$25 Google Play fee and Apple’s US$99 yearly membership. Maintenance from us is free for two months after launch, then starts at ${P.care} a month if you want it.` },
     { question: "Will our charging sites show up on Google and in AI answers?", answer: "They can, if each site has an accurate Google Business Profile or listing, and your website has a page per location with connector types, power, pricing and hours in plain text. AI assistants tend to quote pages that answer those questions directly. Nobody can promise a particular ranking." },
-    { question: "EV charging app banwane mein kitna kharcha aur time lagta hai?", answer: `BtechWaleTech ke saath driver app ${P.app} se aur OCPP backend ${P.software} se shuru hota hai. Pehla release aam taur par 8–14 hafte mein banta hai, real charger testing par depend karta hai. 2 working days mein itemised quote milta hai aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "EV charging app banwane mein kitna kharcha aur time lagta hai?", answer: `BtechWaleTech ke saath driver app ${P.app} se aur OCPP backend ${P.software} se shuru hota hai. Pehla release aam taur par 8–14 hafte mein banta hai, real charger testing par depend karta hai. 2 working days mein itemised quote milta hai aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Do you build EV charging apps for operators outside India?", answer: `Yes. OCPP is an international standard, so the same backend works with chargers abroad, using local payment methods and store accounts in your name. International projects are quoted in USD, with the app starting at ${P.appUsd}, and paid by Wise, bank wire or PayPal.` },
   ],
   related: {
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an EV charging network? Send us your charger list",
-    note: `Share your charger makers, sites and billing ideas on WhatsApp. You will receive an itemised estimate in about two working days, with the driver app from ${P.app}, the OCPP backend from ${P.software}, everything in your name, and five months of free maintenance after launch.`,
+    note: `Share your charger makers, sites and billing ideas on WhatsApp. You will receive an itemised estimate in about two working days, with the driver app from ${P.app}, the OCPP backend from ${P.software}, everything in your name, and two months of free maintenance after launch.`,
   },
 };
 

@@ -56,7 +56,7 @@ const thoubal: CityContent = {
     ai: "WhatsApp assistants that reply to price, stock, fee and timing questions in English or Hindi and forward real orders to you.",
     data: "Simple dashboards of sales by product and city, weaver payments due and admissions by course for colleges and coaching centres.",
     app: "Android and iOS apps for Thoubal coaching centres, schools or wholesalers, with offline-friendly screens, on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for changes, backups, security fixes and store updates.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for changes, backups, security fixes and store updates.",
   },
   whyUsIntro:
     "In a town where most business still happens face to face in the bazaar, trusting a remote team is a real ask. So we make every step checkable: a written quote with each item priced, preview links you can open on your own phone, WhatsApp replies every day, and the domain, hosting and code registered in your name.",
@@ -169,7 +169,7 @@ const thoubal: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom software or web app: from ₹60,000, six to twelve weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -187,7 +187,7 @@ const thoubal: CityContent = {
       paragraphs: [
         "Everything we make for a Thoubal client is registered to that client. The domain uses your email, hosting is billed in your name, the source code is handed to you, and the Google Business Profile, Google Play Console and Apple developer accounts list you as the owner. At the end you get a written sheet of every login.",
         "That matters because many small businesses in the Northeast have lost a website when the person who built it stopped answering. With everything in your name, any developer can take over, and you are never stuck.",
-        "Maintenance is free for five months after launch: text and price changes, backups, security and software updates, and checks that payments, forms and WhatsApp buttons still work. After that, you choose whether to continue with us from ₹8,000 a month or manage it another way. Apps also need a yearly technical update to meet new Google and Apple rules, and we track those dates for you.",
+        "Maintenance is free for two months after launch: text and price changes, backups, security and software updates, and checks that payments, forms and WhatsApp buttons still work. After that, you choose whether to continue with us from ₹8,000 a month or manage it another way. Apps also need a yearly technical update to meet new Google and Apple rules, and we track those dates for you.",
       ],
     },
     {
@@ -278,7 +278,7 @@ const thoubal: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance costs nothing: content edits, backups, security and software updates, and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. Since the accounts and code are yours, you can also move to another developer freely.",
+        "For two months after launch, maintenance costs nothing: content edits, backups, security and software updates, and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. Since the accounts and code are yours, you can also move to another developer freely.",
     },
     {
       question: "Do you work in Wangjing, Yairipok, Lilong and Kakching?",

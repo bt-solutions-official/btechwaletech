@@ -31,11 +31,11 @@ const balangir: CityContent = {
     eyebrow: "Balangir · Western Odisha",
     h1: "Websites, apps, SEO and AI automation for Balangir traders, weavers, clinics and schools",
     lede:
-      "We are three engineers who work remotely and build websites, handloom stores, school portals and WhatsApp automation for Balangir district: Bandha weavers and saree dealers, traders around Rajendra Park, clinics serving patients of the medical college, coaching institutes and schools, and shops in Patnagarh, Titlagarh and Kantabanji. Starting prices are public, and the first five months of upkeep cost nothing.",
+      "We are three engineers who work remotely and build websites, handloom stores, school portals and WhatsApp automation for Balangir district: Bandha weavers and saree dealers, traders around Rajendra Park, clinics serving patients of the medical college, coaching institutes and schools, and shops in Patnagarh, Titlagarh and Kantabanji. Starting prices are public, and the first two months of upkeep cost nothing.",
     pills: ["Websites ₹10,000 onwards", "Odia, Kosli and English content", "Bandha saree stores with UPI", "Clinic and school pages", "WhatsApp enquiry tracking"],
   },
   quickAnswer:
-    "In Balangir, a static website with our team starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages starts from ₹20,000, an online store for Bandha sarees or other goods from ₹50,000, and custom software from ₹60,000. We work remotely with no office in Balangir, and maintenance is free for five months after launch.",
+    "In Balangir, a static website with our team starts at ₹10,000 and usually takes one to two weeks. An SEO website of 299+ pages starts from ₹20,000, an online store for Bandha sarees or other goods from ₹50,000, and custom software from ₹60,000. We work remotely with no office in Balangir, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Balangir district since 1871, when the capital of the Patna state moved here from Patnagarh" },
     { label: "Craft", value: "Sambalpuri Bandha (tie-and-dye) sarees and dress material woven across the district" },
@@ -52,7 +52,7 @@ const balangir: CityContent = {
     ai: "WhatsApp replies that share prices, batch timings or doctor schedules in Odia or English and pass decisions back to you.",
     data: "Sales, dues and admissions pulled from registers and sheets into a phone-friendly dashboard.",
     app: "Android and iOS apps for school notices, repeat orders or appointment requests, one Flutter or React Native build published on both stores.",
-    maintenance: "Free fixes, updates and backups for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free fixes, updates and backups for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Balangir businesses usually choose between a Bhubaneswar agency more than 300 km away and a local operator who builds a site and then goes quiet. We put our starting prices in public, send every quote in writing with each item listed, and reply on WhatsApp all seven days, directly from the developers who build your site.",
@@ -178,7 +178,7 @@ const balangir: CityContent = {
       paragraphs: [
         "In smaller Odisha towns it is common to find a business whose website was registered in the developer's name. When the developer stops responding, the owner cannot change a number or renew the domain, and the site disappears with all its search history.",
         "We register the domain and hosting in your name, on your email, from the first day. When the site goes live you receive every password, the complete source code and a short guide to how it is built. If you ever want to change developers, you can do it without our permission and without an exit charge.",
-        "The first five months after launch include free maintenance: text and price edits, fixes, security patches, backups, and uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when you need something. See what each build covers on the <a href=\"/services/web-development/\">web development</a> page.",
+        "The first two months after launch include free maintenance: text and price edits, fixes, security patches, backups, and uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when you need something. See what each build covers on the <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const balangir: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch, we make text and price changes, fix bugs, apply security updates, take backups and monitor uptime and speed at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch, we make text and price changes, fix bugs, apply security updates, take backups and monitor uptime and speed at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "How long does SEO take to work in Balangir?",

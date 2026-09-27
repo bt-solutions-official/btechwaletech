@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Hire app developer · Brief, features, budget",
     h1: "Hire app developer the right way: write the brief, fix the feature list, then set the budget",
     lede: `When you hire app developer talent, the brief you send decides the quote you get back. This page gives you a copy-ready brief template, a feature list marked by effort, and three budget bands so you can price your idea before you talk to anyone. BtechWaleTech is three freelance developers in India who build Android and iOS apps from ${P.app}, published in your own store accounts. Use the template with us or with anyone else.`,
-    pills: ["Brief template", "Feature list by effort", "Budget bands", "Android + iOS from one codebase", "Admin panel included", "Your store accounts", "5 months free care"],
+    pills: ["Brief template", "Feature list by effort", "Budget bands", "Android + iOS from one codebase", "Admin panel included", "Your store accounts", "2 months free care"],
     origin: "Three freelance developers · Remote from India · App clients across India and abroad",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Store accounts", "Play Console and App Store Connect in your name"],
     ["Frameworks", "Flutter or React Native"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app's code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform fees between you and us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "App plus web dashboard", value: `App from ${P.app}; custom web app from ${P.software}` },
       { label: "Test the idea first", value: `Mobile website from ${P.site}` },
       { label: "Accounts", value: "Play Console, Apple developer account and code in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Store accounts", "Seller may publish under their own", "Yours", "Yours from day one"],
       ["If a developer is unavailable", "Work stops", "Work stops until they return", "Two others know the code"],
       ["Fees on top", "Platform service fee", "PF, benefits, tools", "None"],
-      ["Post-launch fixes", "Paid per request", "Included in salary", `5 months free, then from ${P.care}`],
+      ["Post-launch fixes", "Paid per request", "Included in salary", `2 months free, then from ${P.care}`],
       ["Best for", "Small, well-defined tasks", "Long product roadmaps", "Apps that need launch in weeks with a small team"],
     ],
     fine: "If your roadmap needs several full-time mobile engineers for years, hiring in-house will serve you better than any three-person freelance team, including ours.",
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["Band two: app plus heavy features", "Band one plus itemised payment, chat, tracking or offline lines", `From ${P.app} plus lines`, `From ${P.appUsd} plus lines`, "Longer middle phase"],
         ["Band three: app plus web portal", "Band one plus a separate staff or vendor portal", `App from ${P.app}; portal from ${P.software}`, `From ${P.appUsd} + ${P.softwareUsd}`, "Phased releases"],
         ["AI add-on", "Document reading, smart replies, search", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Care after 5 free months", "OS updates, fixes, small changes", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Care after 2 free months", "OS updates, fixes, small changes", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Register accounts together", "Play Console, Apple developer account, cloud hosting and the code repository are created in your name, with us invited as users."],
       ["Approve clickable designs", "You tap through the main screens on your phone before we build. Changing a design here costs minutes; changing a finished screen costs days."],
       ["Test weekly builds", "Every week a new build lands on your phone. You report issues on WhatsApp with screenshots, and we fix them in the next build."],
-      ["Release, hand over, and five months of care", "We submit to both stores, answer review questions, hand over code and keys, then fix issues free for five months."],
+      ["Release, hand over, and two months of care", "We submit to both stores, answer review questions, hand over code and keys, then fix issues free for two months."],
     ],
   },
   faqHeading: "Hire app developer: common questions",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Can I test my app idea without building a full app?", answer: `Yes. A mobile-first website or progressive web app can prove demand before you commit to an app. BtechWaleTech builds static websites from ${P.site} in 1–2 weeks, with enquiry forms and WhatsApp buttons. If usage is strong, what you learn becomes the brief for the full Android and iOS app.` },
     { question: "How do payments work when I hire BtechWaleTech for an app?", answer: "Payments are split into stages tied to visible work, such as approved designs, a working test build and store release. Clients in India pay by UPI or bank transfer; clients abroad use Wise, bank wire or PayPal. Nothing is billed until you approve the written, itemised quote, and GST details can be added to invoices." },
     { question: "Do I need an NDA before sharing my app idea?", answer: "If your idea depends on an unreleased business model, customer data or pricing logic, an NDA is sensible and BtechWaleTech will sign a reasonable one. For most app ideas, though, execution matters far more than secrecy, and a clear written scope with ownership terms protects you more than an NDA alone." },
-    { question: "What happens after the app is launched?", answer: `Phones and operating systems update constantly, so apps need care. BtechWaleTech fixes bugs, handles OS compatibility updates and makes small changes free for five months after release. After that, maintenance is optional and starts at ${P.care} a month. You can also move the app to any other developer using the handover package.` },
+    { question: "What happens after the app is launched?", answer: `Phones and operating systems update constantly, so apps need care. BtechWaleTech fixes bugs, handles OS compatibility updates and makes small changes free for two months after release. After that, maintenance is optional and starts at ${P.care} a month. You can also move the app to any other developer using the handover package.` },
     { question: "Does the app developer also build the backend and admin panel?", answer: `Ask, because many quotes cover only the phone app. BtechWaleTech's app plan includes the API connection and a basic admin panel for managing users and content. A larger web portal with reports, approvals and exports for staff or vendors is scoped separately as a custom web app from ${P.software}.` },
     { question: "How do I check if an app developer is genuine?", answer: "Install at least two apps they built from Google Play or the App Store and use them on your phone. Ask whose developer account published them and who built the backend. Check that the quote follows your brief line by line, that payments are staged, and that nobody promises download numbers or store rankings." },
     { question: "Can I hire an app developer for a startup MVP?", answer: "Yes, and a small team is often the best fit for a first version. The key is ruthless scope: one main task, the fewest screens that deliver it, and a backend that can grow. BtechWaleTech helps you move nice-to-have features into a later release so the MVP ships within the 6–10 week range." },
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire app developer help? Send your brief",
-    note: `Share the filled template or a voice note on WhatsApp. Within about two working days you get an itemised quote, with Android and iOS apps starting at ${P.app}, store accounts in your name and five months of free fixes after release.`,
+    note: `Share the filled template or a voice note on WhatsApp. Within about two working days you get an itemised quote, with Android and iOS apps starting at ${P.app}, store accounts in your name and two months of free fixes after release.`,
   },
 };
 

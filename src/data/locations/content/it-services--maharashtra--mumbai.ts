@@ -35,10 +35,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Mumbai for CRMs, Android and iOS apps and AI agents",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Mumbai brokers, importers, freight forwarders, real estate firms, production houses, housing societies and D2C brands hire us instead of a software development team in Mumbai to build CRMs, shipment trackers, Android and iOS apps, AI agents and dashboards, with cloud hosting and SEO handled.",
-    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "No Mumbai overheads in quotes", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "No Mumbai overheads in quotes", "2 months free maintenance"],
   },
   quickAnswer:
-    "Comparing a software development team in Mumbai with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Itemised quotes arrive in about two working days, with five months of free maintenance.",
+    "Comparing a software development team in Mumbai with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Itemised quotes arrive in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Financial institutions", value: "RBI, BSE and NSE headquarters, with banks, insurers, brokers and NBFCs clustered around Fort, Nariman Point and BKC" },
     { label: "Tech and office belts", value: "SEEPZ and MIDC in Andheri East, Powai's Hiranandani Business Park, Mindspace in Malad, and Lower Parel's mill-land offices" },
@@ -58,7 +58,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp and email that qualify leads, answer policy or project questions and update your CRM without manual typing.",
     data: "Dashboards for sales pipelines, shipments, collections and campaign spend, fed from your CRM, Tally or spreadsheets.",
     app: "Android and iOS apps for Mumbai housing societies, D2C brands, field agents and production crews, built once in Flutter or React Native, from ₹40,000.",
-    maintenance: "Monitoring, backups, security updates and changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Monitoring, backups, security updates and changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Mumbai software quotes often carry the cost of a Lower Parel office, a sales team and an account manager. We carry none of that. You work with three named engineers, get an itemised quote, and own every account at the end.",
@@ -186,7 +186,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Mumbai system we build runs on cloud hosting with HTTPS, automated backups, uptime monitoring, role-based access and audit logs, in an account registered to the client. For firms holding financial, property or personal data, this is the minimum sensible standard.",
         "Our usual stack is Next.js or Astro on the front end, Node.js or Python with PostgreSQL on the back end, Flutter or React Native for mobile, and AWS or a comparable cloud, often in an Indian region, with automated deployments and rollback. Secrets stay out of the code, backups are restore-tested, and access is removed promptly when staff leave.",
-        "Hosting and deployment are included in every project, followed by five months of free maintenance.",
+        "Hosting and deployment are included in every project, followed by two months of free maintenance.",
       ],
     },
     {
@@ -227,7 +227,7 @@ const content: CityContent = {
       id: "support-ownership-mumbai",
       heading: "Support, maintenance and ownership after launch",
       paragraphs: [
-        "Every Mumbai project includes five months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the code, cloud account, domain, app store listings and all logins.",
+        "Every Mumbai project includes two months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the code, cloud account, domain, app store listings and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Mumbai and do not claim one; the engineers who built your system answer your messages. Larger changes are quoted before work begins.",
         "Documentation at handover lets another developer continue if needed. Our <a href='/it-services/maharashtra/'>Maharashtra IT services hub</a> covers the state, with a sibling page for <a href='/it-services/maharashtra/pune/'>Pune</a>, and nearby <a href='/thane/'>Thane</a> and <a href='/mira-bhayandar/'>Mira-Bhayandar</a> are served the same way. Start on the <a href='/contact/'>contact page</a>.",
       ],
@@ -295,7 +295,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month or per change. New modules are always quoted before work starts.",
+        "Two months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month or per change. New modules are always quoted before work starts.",
     },
     {
       question: "Can your AI agents reply in Marathi, Hindi and English?",

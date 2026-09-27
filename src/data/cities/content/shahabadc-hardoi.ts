@@ -56,7 +56,7 @@ const shahabadHardoi: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rates, timings and stock questions, then pass real negotiations to you.",
     data: "Monthly views of milk collected, grain bought and sold, carpet orders and payments pending by party.",
     app: "Android and iOS apps for milk suppliers to see their entries or for school parents to get notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Shahabad traders have long memories and short patience for vague promises. We give written starting prices, an itemised quote before we begin, WhatsApp replies on every day of the week, and ownership of the domain, hosting, code and app accounts in your own name. If a feature will not pay for itself, you will hear it from us first.",
@@ -169,7 +169,7 @@ const shahabadHardoi: CityContent = {
       heading: "Ownership and maintenance of Shahabad websites and apps",
       paragraphs: [
         "A familiar problem in small towns is the website that disappears when the developer who registered it in his own name stops picking up the phone. We prevent that by registering the domain, hosting, source code, Google Business Profile access and app store accounts in your name from the start.",
-        "For five months after launch, maintenance is free: text and rate changes, backups, security patches, updates and checks that forms, payments and WhatsApp buttons work. After that, maintenance starts at ₹8,000 a month if you want us to continue. If you would rather use someone else, all access is already yours.",
+        "For two months after launch, maintenance is free: text and rate changes, backups, security patches, updates and checks that forms, payments and WhatsApp buttons work. After that, maintenance starts at ₹8,000 a month if you want us to continue. If you would rather use someone else, all access is already yours.",
         "Apps need updates every year as Google and Apple revise their rules, and we track those so your app stays in the stores. For continuing search work, see our <a href=\"/services/seo-services/\">SEO services</a>, and for apps our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -261,7 +261,7 @@ const shahabadHardoi: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free, including updates, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. Because every login is yours, you can move to another developer whenever you want.",
+        "The first two months are free, including updates, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. Because every login is yours, you can move to another developer whenever you want.",
     },
     {
       question: "Do you work in Pihani, Hardoi and Shahjahanpur too?",

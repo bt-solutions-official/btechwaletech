@@ -30,11 +30,11 @@ const nadiad: CityContent = {
     eyebrow: "Nadiad · Kheda, Gujarat",
     h1: "Websites, software, SEO and AI tools for Nadiad's GIDC units, snack makers, hospitals and Charotar traders",
     lede:
-      "We are three engineers working remotely for businesses in Nadiad and Kheda district: manufacturers on the GIDC Mill Road estate, mathiya and papad makers from Uttarsanda, hospitals and colleges on College Road, and the shops around Santram Mandir and the station. Starting prices are published, you talk to the developers directly, and upkeep is free for five months.",
+      "We are three engineers working remotely for businesses in Nadiad and Kheda district: manufacturers on the GIDC Mill Road estate, mathiya and papad makers from Uttarsanda, hospitals and colleges on College Road, and the shops around Santram Mandir and the station. Starting prices are published, you talk to the developers directly, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Gujarati and English", "Snack and food stores", "GIDC supplier sites", "WhatsApp order replies"],
   },
   quickAnswer:
-    "In Nadiad, a business website with us starts from ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Nadiad, and the first five months of maintenance are free.",
+    "In Nadiad, a business website with us starts from ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Nadiad, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Kheda district, in the Charotar region between Ahmedabad and Vadodara" },
     { label: "Rail and road", value: "Nadiad Junction on the Ahmedabad–Mumbai main line, with a high-speed rail station under construction" },
@@ -51,7 +51,7 @@ const nadiad: CityContent = {
     ai: "WhatsApp replies in Gujarati or English that share rate lists, product photos, OPD timings or admission details while you work.",
     data: "Sales, dispatch and seasonal demand figures turned into a simple dashboard, useful for snack makers facing Diwali peaks.",
     app: "Android and iPhone apps for sales staff, dealers or students, released on Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Nadiad businesses sit between two big markets, Ahmedabad and Vadodara, and many have relatives abroad who order from them too. Yet most local websites are outdated or missing. We publish starting prices, write in Gujarati and English, reply on WhatsApp seven days a week, and hand over full ownership of the domain and code at launch.",
@@ -176,7 +176,7 @@ const nadiad: CityContent = {
       paragraphs: [
         "Many small businesses have lost websites because someone else registered the domain and later disappeared. Without the login, renewals lapse and the site, along with its search history, is gone.",
         "We register the domain and hosting in your name from the start. At launch you receive every login, the full source code and a short setup note. You can move to another developer at any time, with no exit fee and no need for our permission.",
-        "The five months that follow launch carry no maintenance fee. In that time we change text and rates when you ask, repair anything that breaks, apply security patches, take backups and watch uptime and page speed. From the sixth month, a monthly plan begins at ₹8,000, though plenty of clients prefer to message us only when a festival banner or new product needs adding.",
+        "The two months that follow launch carry no maintenance fee. In that time we change text and rates when you ask, repair anything that breaks, apply security patches, take backups and watch uptime and page speed. From the third month, a monthly plan begins at ₹8,000, though plenty of clients prefer to message us only when a festival banner or new product needs adding.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const nadiad: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "During the first five months after going live, edits to text and rates, bug repairs, security patches, backups and uptime and speed monitoring cost nothing. After that a monthly plan begins at ₹8,000. If your site rarely changes, you can skip the plan and message us for one-off jobs instead.",
+        "During the first two months after going live, edits to text and rates, bug repairs, security patches, backups and uptime and speed monitoring cost nothing. After that a monthly plan begins at ₹8,000. If your site rarely changes, you can skip the plan and message us for one-off jobs instead.",
     },
     {
       question: "How soon will SEO bring results in Nadiad?",

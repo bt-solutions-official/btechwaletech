@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Works on", "TallyPrime, and Tally.ERP 9 on request"],
     ["Delivered as", "TDL source plus compiled TCP"],
     ["Quote", "In about 2 working days"],
-    ["After delivery", "5 months of free fixes"],
+    ["After delivery", "2 months of free fixes"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, English and Hindi" },
     { value: "2", label: "Working days to a quote" },
-    { value: "5", label: "Months of free fixes" },
+    { value: "2", label: "Months of free fixes" },
     { value: "0", label: "Serial locks held against you" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Pricing", value: `Per customisation; automation bundles from ${P.ai}` },
       { label: "Typical turnaround", value: "Small changes in days, add-ons in 2–4 weeks" },
       { label: "Compatibility", value: "Tested on your exact TallyPrime release" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How TDL customisation is priced",
-    note: `We price TDL work per customisation, because a new column on an invoice and a multi-level approval flow are very different jobs. After seeing your sample invoice, report or rule, each item appears as its own line in the quote with its time estimate. Add-on bundles that combine TDL with automation, such as sending vouchers to WhatsApp or syncing with a portal, start at ${P.ai}. A separate web app or dealer portal built around Tally data starts at ${P.software}. We do not sell TallyPrime licences or TSS. Fixes are free for five months after delivery, and care after that starts at ${P.care}.`,
+    note: `We price TDL work per customisation, because a new column on an invoice and a multi-level approval flow are very different jobs. After seeing your sample invoice, report or rule, each item appears as its own line in the quote with its time estimate. Add-on bundles that combine TDL with automation, such as sending vouchers to WhatsApp or syncing with a portal, start at ${P.ai}. A separate web app or dealer portal built around Tally data starts at ${P.software}. We do not sell TallyPrime licences or TSS. Fixes are free for two months after delivery, and care after that starts at ${P.care}.`,
   },
   guideLabel: "Tally TDL developer guide",
   guide: [
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Build on a copy", "TDL is written and tested against a backup of your company in your release, never on live books."],
       ["Review with you", "A screen-share demo with sample vouchers, including cases where a rule should block and where it should allow."],
       ["Load and confirm", "We load the TCP with you, check TDL Management, and your staff try it on real work for a few days."],
-      ["Hand over", "Source code, compiled TCP and a change list are handed over, with five months of free fixes to follow."],
+      ["Hand over", "Source code, compiled TCP and a change list are handed over, with two months of free fixes to follow."],
     ],
   },
   faqHeading: "Tally TDL developer: frequently asked questions",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Can a TDL developer customise Tally reports?", answer: "Yes. Custom reports can combine vouchers, masters and your custom fields, such as salesperson-wise collections, item-wise margins or ageing in your own day buckets. They can print, export to Excel and drill down to vouchers. For reports on a phone away from the office, a scheduled export to Google Sheets is usually a better fit than TDL." },
     { question: "Freelance TDL developer or Tally partner: which is better?", answer: "A Tally partner suits you when you also need licences, TSS, on-site training or a ready catalogue add-on. A freelance Tally TDL developer suits specific customisations and work that combines TDL with integrations. Whichever you choose, insist on testing with your data and a copy of the source code for work you paid for." },
     { question: "Do you visit our office for Tally customisation?", answer: "No. BtechWaleTech works remotely by screen-share and shared test copies of your data. That keeps costs lower and suits most TDL work. If your team needs in-person training or hardware setup, a local Tally partner can handle that part while we write the customisation." },
-    { question: "Will a TallyPrime upgrade break my customisation?", answer: "Well-written TDL rarely breaks between releases, but test before upgrading. Load the new release on a test machine with a backup of your data and your TDL, and check prints, validations and reports. Upgrade checks for our customisations are free during the first five months after delivery and part of our care plan afterwards." },
+    { question: "Will a TallyPrime upgrade break my customisation?", answer: "Well-written TDL rarely breaks between releases, but test before upgrading. Load the new release on a test machine with a backup of your data and your TDL, and check prints, validations and reports. Upgrade checks for our customisations are free during the first two months after delivery and part of our care plan afterwards." },
     { question: "Can TDL send invoices on WhatsApp or email?", answer: "TDL can add the button or trigger, but the sending is better handled by a separate service that uses the official WhatsApp Business API and keeps a delivery log. That combination is covered on our Tally WhatsApp integration page, and it is quoted as one bundle starting at the automation price." },
     { question: "Can TDL import data from Excel into Tally?", answer: "Yes, for a fixed layout, TDL can read a file and create vouchers. TallyPrime’s own Excel import, and custom import tools outside Tally, are often simpler for varied monthly files. Our Excel to Tally import page compares the options, including validation before import and handling large batches." },
     { question: "Who owns the TDL code you write?", answer: "You do. After payment, the TDL source and compiled TCP are handed over for your own records. We do not lock the TCP to your serial number unless you ask. If you later use another developer, they can read and extend the source, and your list of added fields and changed screens explains what exists." },
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us the invoice or rule you want changed in Tally",
-    note: `Message us on WhatsApp with a photo of your current invoice or report, what you want different, and your TallyPrime release. You get an itemised quote in about two working days, source code on delivery, and five months of free fixes. Automation bundles start at ${P.ai}.`,
+    note: `Message us on WhatsApp with a photo of your current invoice or report, what you want different, and your TallyPrime release. You get an itemised quote in about two working days, source code on delivery, and two months of free fixes. Automation bundles start at ${P.ai}.`,
   },
 };
 

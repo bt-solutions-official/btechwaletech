@@ -35,7 +35,7 @@ const kakinada: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Export-ready catalogues", "Uppada silk stores", "Port and SEZ vendor sites"],
   },
   quickAnswer:
-    "In Kakinada, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote team of three engineers without a Kakinada office, and the first five months of maintenance are free.",
+    "In Kakinada, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote team of three engineers without a Kakinada office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Port city", value: "Deep-water port built in 1996 under a public-private partnership, the state's second largest after Visakhapatnam, sheltered by Hope Island" },
     { label: "Main exports", value: "Seafood, rice, corn and oil meals move through the port" },
@@ -52,7 +52,7 @@ const kakinada: CityContent = {
     ai: "WhatsApp assistants that share catalogues, rates and dispatch status in Telugu or English to buyers in other states and countries.",
     data: "Pond, procurement and export data turned into dashboards that a partner can read on a phone in the evening.",
     app: "Android and iOS apps for hospital tokens, student notices or farm-gate collection, published on both app stores with builds starting at ₹40,000.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kakinada firms often deal with buyers in Chennai, Kolkata, the Gulf, Europe or the United States, yet their websites are built as if only local customers will read them. We build for both audiences, publish our rates, answer on WhatsApp all seven days and hand every login to the owner.",
@@ -187,7 +187,7 @@ const kakinada: CityContent = {
       paragraphs: [
         "Exporters and hospitals cannot afford a website that vanishes because the person who registered the domain stopped answering calls. Yet that is exactly what happens to many Kakinada businesses whose first site was set up informally.",
         "We register the domain and hosting in your company's name from the start. At launch you get every login, the complete source code and a short note describing the setup. If you ever move to another developer, the handover is straightforward and free of charge.",
-        "Maintenance is included free for five months after launch: text and price edits, bug fixes, security updates, backups, uptime and speed monitoring. After that, continuing maintenance costs from ₹8,000 a month, or you can call us only when needed. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
+        "Maintenance is included free for two months after launch: text and price edits, bug fixes, security updates, backups, uptime and speed monitoring. After that, continuing maintenance costs from ₹8,000 a month, or you can call us only when needed. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const kakinada: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "Do you work in Rajahmundry, Samalkot, Pithapuram and Amalapuram too?",

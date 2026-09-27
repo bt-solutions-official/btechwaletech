@@ -32,10 +32,10 @@ const varanasi: CityContent = {
     h1: "Websites, search and automation built for Banaras businesses",
     lede:
       "Three engineers working remotely to build websites, online stores, booking sites and WhatsApp automations for Varanasi. We work with saree weavers in Madanpura and Bajardiha, guest houses along the ghats, clinics in Sigra and Mahmoorganj and coaching centres near BHU. Every price is published and you deal directly with the developers.",
-    pills: ["Sites from ₹10,000", "Banarasi saree stores", "Hotel and guest house booking", "Hindi and Bhojpuri-aware SEO", "5 months free maintenance"],
+    pills: ["Sites from ₹10,000", "Banarasi saree stores", "Hotel and guest house booking", "Hindi and Bhojpuri-aware SEO", "2 months free maintenance"],
   },
   quickAnswer:
-    "In Varanasi, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores for sarees and handicrafts start at ₹50,000. We are a remote three-engineer team without a Varanasi office, you own the domain and code, and five months of maintenance is free.",
+    "In Varanasi, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores for sarees and handicrafts start at ₹50,000. We are a remote three-engineer team without a Varanasi office, you own the domain and code, and two months of maintenance is free.",
   snapshot: [
     { label: "Old city markets", value: "Godowlia, Chowk, Vishwanath Gali and the lanes leading to Dashashwamedh Ghat" },
     { label: "Weaving neighbourhoods", value: "Madanpura, Bajardiha, Pilikothi and Lohta, centres of Banarasi silk and brocade" },
@@ -52,10 +52,10 @@ const varanasi: CityContent = {
     ai: "WhatsApp and AI assistants that answer room, price and stock questions in Hindi or English, day or night.",
     data: "Bookings, orders and admissions brought together into one dashboard so the owner can see the week at a glance.",
     app: "Android and iOS apps for repeat buyer orders, guest check-ins and student portals, built in Flutter or React Native and listed on both stores.",
-    maintenance: "Content changes, backups, security patches and speed checks, free for five months after launch and ₹8,000 a month after.",
+    maintenance: "Content changes, backups, security patches and speed checks, free for two months after launch and ₹8,000 a month after.",
   },
   whyUsIntro:
-    "Varanasi has plenty of web designers, many working from a laptop in Lanka or Sigra, and plenty of businesses let down by them. Common complaints are websites that stopped loading, domains held by someone unreachable and quotes that grew after the work began. We publish prices, reply on WhatsApp every day and support your site free for five months.",
+    "Varanasi has plenty of web designers, many working from a laptop in Lanka or Sigra, and plenty of businesses let down by them. Common complaints are websites that stopped loading, domains held by someone unreachable and quotes that grew after the work began. We publish prices, reply on WhatsApp every day and support your site free for two months.",
   pricingIntro:
     "In Varanasi, a website quote can mean anything from a single template page to a large custom build, and the difference is rarely spelled out. These are our real starting prices. The final amount depends on the number of pages and products, the features and how much content is ready, and you see it itemised before any payment.",
   sections: [
@@ -169,7 +169,7 @@ const varanasi: CityContent = {
       paragraphs: [
         "Many Varanasi businesses have lost a website because they never controlled it. The domain was registered by a developer who left the city, the hosting ran on an account nobody can open, and when it expired, bookings and emails stopped with it. Rebuilding from scratch is sometimes the only option.",
         "We set up ownership correctly from the start. The domain is in your name, the hosting account is yours, and at launch you receive every login, the full source code and a short note on how it all works. You can move to another developer at any time with no exit fee.",
-        "For five months after launch, maintenance is free: content and price updates, fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free: content and price updates, fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const varanasi: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that you can continue from ₹8,000 a month or contact us only when something needs changing.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that you can continue from ₹8,000 a month or contact us only when something needs changing.",
     },
     {
       question: "Do you work with businesses in Prayagraj, Mirzapur and Ghazipur?",

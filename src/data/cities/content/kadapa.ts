@@ -34,7 +34,7 @@ const kadapa: CityContent = {
     pills: ["From ₹10,000", "Telugu and English pages", "Supplier profiles", "WhatsApp automation", "Full code ownership"],
   },
   quickAnswer:
-    "For a Kadapa business we build a website of up to 100 pages from ₹10,000 in one to two weeks, or a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and code are yours, and the first five months of maintenance are free.",
+    "For a Kadapa business we build a website of up to 100 pages from ₹10,000 in one to two weeks, or a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, the domain and code are yours, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Minerals", value: "Barytes, limestone and asbestos; the Kadapa stone slabs; uranium at Tummalapalle" },
     { label: "Cement and power", value: "Cement plants on the Yerraguntla limestone belt; Rayalaseema Thermal Power Station, 1,650 MW" },
@@ -51,7 +51,7 @@ const kadapa: CityContent = {
     ai: "WhatsApp assistants that answer fee, appointment and rate questions in Telugu or English and route serious buyers to your staff.",
     data: "Dashboards that show dispatches, collections or admissions every day, without someone compiling Excel files after hours.",
     app: "Android and iOS apps for drivers, students and field staff that run well on basic phones, from ₹40,000 with Play Store and App Store release.",
-    maintenance: "Five free months of updates, fixes and backups after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two free months of updates, fixes and backups after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kadapa businesses often hire developers from Tirupati, Bengaluru or Hyderabad, or a local freelancer through a relative, and many end up with sites they cannot update. We publish prices, answer WhatsApp every day, write proper Telugu and hand over every account and line of code at launch.",
@@ -73,7 +73,7 @@ const kadapa: CityContent = {
       paragraphs: [
         "In Kadapa you will find offers from a few thousand rupees to quotes from big-city agencies worth lakhs. The cheapest are often templates hosted in the seller's account; the costliest may include work you do not need. What matters is ownership, the ability to edit later, and whether basic search setup is included.",
         "Our starting prices are public. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, with separate pages for each product, department or course, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and cards start at ₹50,000, over four to eight weeks. Custom tools such as dispatch or admission systems start at ₹60,000 and take six to twelve weeks.",
-        "Automation starts at ₹40,000, monthly SEO at ₹10,000, and maintenance at ₹8,000 a month after five free months. The full list is on our <a href=\"/pricing/\">pricing page</a>. You get an itemised quote in about two working days.",
+        "Automation starts at ₹40,000, monthly SEO at ₹10,000, and maintenance at ₹8,000 a month after two free months. The full list is on our <a href=\"/pricing/\">pricing page</a>. You get an itemised quote in about two working days.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a clinic, shop, advocate or consultant.",
@@ -185,7 +185,7 @@ const kadapa: CityContent = {
       paragraphs: [
         "Many Kadapa business owners have had a developer register the domain in his own name and then disappear. When renewal came, the website and email stopped working. We make sure that cannot happen to our clients.",
         "The domain is registered in your name and the hosting account opened in your name. At launch you receive every login, the full source code and a short written guide. You can move to any developer at any time without paying us or asking permission.",
-        "For five months after launch, maintenance is free: updates, fixes, security patches, backups and speed checks. After that it continues from ₹8,000 a month, or you pay only when you need changes. Before launch we also write down where every account lives, who can log in, when the domain renews and how backups are restored, so even a new staff member can find it later. See our <a href=\"/services/web-development/\">web development page</a> for details.",
+        "For two months after launch, maintenance is free: updates, fixes, security patches, backups and speed checks. After that it continues from ₹8,000 a month, or you pay only when you need changes. Before launch we also write down where every account lives, who can log in, when the domain renews and how backups are restored, so even a new staff member can find it later. See our <a href=\"/services/web-development/\">web development page</a> for details.",
       ],
     },
     {
@@ -280,9 +280,9 @@ const kadapa: CityContent = {
         "You do. The domain and hosting are registered in your name, and at launch you receive all logins and the full source code. You can move to another developer whenever you like without paying us or seeking permission.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch we handle updates, fixes, backups and security at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. There is no compulsory contract.",
+        "For two months after launch we handle updates, fixes, backups and security at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. There is no compulsory contract.",
     },
     {
       question: "Can you build booking pages for Gandikota homestays or tours?",

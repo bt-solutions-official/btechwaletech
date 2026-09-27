@@ -56,7 +56,7 @@ const lachhmangarh: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer fee, room, price and timing questions and pass real decisions to you.",
     data: "Simple dashboards of admissions, room bookings, dealer dues and monthly sales that a family can read on one screen.",
     app: "Android and iOS apps for coaching centres sending tests and notices to students or for dealers taking village re-orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Shekhawati families have traded across India for generations and know a vague quote when they see one. We publish starting prices, send an itemised list in writing, reply on WhatsApp every day, and register your domain, hosting, code and app accounts in your own name. If something will not pay back, we tell you plainly.",
@@ -171,7 +171,7 @@ const lachhmangarh: CityContent = {
       heading: "You own it: domains, code and upkeep for Lachhmangarh sites and apps",
       paragraphs: [
         "Everything we build for you is registered in your name. The domain is booked on your email, the hosting account is billed to you, the full source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no developer, including us, can hold your site hostage later.",
-        "For the first five months after launch, maintenance is free. We update prices and photographs before the wedding and festival seasons, keep backups, apply security and version patches, and check that forms, payments and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
+        "For the first two months after launch, maintenance is free. We update prices and photographs before the wedding and festival seasons, keep backups, apply security and version patches, and check that forms, payments and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
         "Apps need a yearly refresh even when nothing is broken, because Google and Apple raise their minimum requirements. We track those deadlines and ship the update early, so your app is not removed from the store for being out of date. Our <a href=\"/services/web-development/\">web development page</a> explains how the handover works in more detail.",
       ],
     },
@@ -263,7 +263,7 @@ const lachhmangarh: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: price and photo updates, backups, security patches and checks that forms, payments and WhatsApp links work. After that, you can continue from ₹8,000 a month, manage it yourself, or move to another developer. Since the code and accounts are in your name, no permission is needed.",
+        "The first two months after launch are free: price and photo updates, backups, security patches and checks that forms, payments and WhatsApp links work. After that, you can continue from ₹8,000 a month, manage it yourself, or move to another developer. Since the code and accounts are in your name, no permission is needed.",
     },
     {
       question: "Do you also work in Sikar, Fatehpur and nearby Shekhawati towns?",

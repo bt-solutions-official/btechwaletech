@@ -57,7 +57,7 @@ const pilani: CityContent = {
     ai: "WhatsApp assistants that answer room availability, admission and order questions in Hindi and English, then pass decisions to you.",
     data: "Dashboards for sensor readings, research datasets or shop sales, built on AWS or plain Google Sheets, depending on the job.",
     app: "Android and iOS apps for parents of boarding students or for a founder's first product, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No maintenance charge for five months after launch, then from ₹8,000 a month, with updates planned around semesters and admissions.",
+    maintenance: "No maintenance charge for two months after launch, then from ₹8,000 a month, with updates planned around semesters and admissions.",
   },
   whyUsIntro:
     "Pilani has more engineers per street than most Indian towns, so people here ask sharp questions about code and hosting. We answer them in writing: published starting prices, an itemised quote, the domain and repository in your name, and replies on WhatsApp every day of the week. If you can build it yourself, we will tell you.",
@@ -170,7 +170,7 @@ const pilani: CityContent = {
       paragraphs: [
         "Working remotely is natural in a town where many residents already study or work with people in other cities. We start with a call about your business and users, then send a written scope with pages or screens, dates and a cost for every item. Nothing is charged until you approve that document. During the build you get preview links, and weekly progress notes on WhatsApp, which we answer every day on Indian time.",
         "Ownership is settled on day one. The domain and hosting are in your name, the code is handed over in full, and the Google Business Profile, Play Console and Apple developer accounts list you as owner. At handover you get a written sheet of every login. Nothing about the project depends on our goodwill later.",
-        "Maintenance is free for five months after launch: backups, updates, security patches, content changes and checks on forms and payments. After that, continue with us from ₹8,000 a month, take it in-house, or give the code to another developer. Apps need a yearly update to meet new Google and Apple requirements, and we schedule those before admissions rather than during them.",
+        "Maintenance is free for two months after launch: backups, updates, security patches, content changes and checks on forms and payments. After that, continue with us from ₹8,000 a month, take it in-house, or give the code to another developer. Apps need a yearly update to meet new Google and Apple requirements, and we schedule those before admissions rather than during them.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const pilani: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of free maintenance: backups, updates, security patches, content changes and checks on forms and payments. After that you can continue from ₹8,000 a month, manage it yourself or hand the code to another developer. You receive every login in writing at handover.",
+        "Two months of free maintenance: backups, updates, security patches, content changes and checks on forms and payments. After that you can continue from ₹8,000 a month, manage it yourself or hand the code to another developer. You receive every login in writing at handover.",
     },
     {
       question: "Is SEO worth it for a guesthouse or eatery in Pilani?",

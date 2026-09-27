@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Posts to", "TallyPrime, Zoho Books or your ERP"],
     ["Checks", "GSTIN, totals, PO lines, GST data"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support the pipeline" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week the developers answer on WhatsApp" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Output", value: "Draft purchase voucher or bill in TallyPrime, Zoho Books or ERP" },
       { label: "Starting price", value: `From ${P.ai} (${P.aiUsd}), 2–4 weeks` },
       { label: "Bigger systems", value: `AP portal with vendor logins from ${P.software}` },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Approval workflow", note: "Clean bills go to one approver, exceptions go to the right person with the reason shown next to the image. Approvals can happen on a phone.", size: "md" },
       { name: "Posting to your books", note: "Approved bills become purchase vouchers in TallyPrime or bills in Zoho Books with the ledger, cost centre and tax mapping you already use.", href: "/zoho-books-integration/", size: "md" },
       { name: "Dashboards and audit trail", note: "Who uploaded, who approved, what was changed, and how long each bill waited. Useful for month-end and for your auditor.", href: "/mis-report-automation/", size: "sm" },
-      { name: "Hosting and upkeep", note: `Runs on your cloud account or office machine. Five months of fixes are free; after that care starts at ${P.care} a month.`, size: "sm" },
+      { name: "Hosting and upkeep", note: `Runs on your cloud account or office machine. Two months of fixes are free; after that care starts at ${P.care} a month.`, size: "sm" },
     ],
   },
   comparison: {
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own it. The code, the cloud or server account, the WhatsApp Business account, the AI provider account and the stored bills are all in your name, and we work with access you grant and can revoke.`,
         `Supplier bills contain commercial data: rates, margins, bank details. So we keep the design conservative. Files are stored in your own storage bucket or server with access restricted to named users. Extraction calls go to an AI provider account you control, with settings chosen so your data is not used for training where the provider offers that option. Staff logins are separate, with roles for uploader, approver and admin. The audit log records every view and change.`,
-        `At handover you receive the source code, deployment notes, the mapping tables and a short runbook covering what to do if a supplier changes their bill format. Five months of maintenance are included after launch; after that you can continue with us from ${P.care} a month or hand the system to your own team. Our <a href='/terms/'>terms</a> set out the general arrangement, and specifics are written into your quote.`,
+        `At handover you receive the source code, deployment notes, the mapping tables and a short runbook covering what to do if a supplier changes their bill format. Two months of maintenance are included after launch; after that you can continue with us from ${P.care} a month or hand the system to your own team. Our <a href='/terms/'>terms</a> set out the general arrangement, and specifics are written into your quote.`,
       ],
     },
     {
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
         ["PO and GRN matching", "Two-way or three-way line matching with tolerances, exception routing", `From ${P.ai}`, "3–4 weeks"],
         ["GST reconciliation reports", "Monthly match of approved bills with the GST portal statement, mismatch lists", `From ${P.ai}`, "1–2 weeks as an add-on"],
         ["Accounts payable portal", "Vendor logins, bill upload, status tracking, multi-branch approvals, ERP posting", `From ${P.software}`, "6–12 weeks"],
-        ["Ongoing care", "Monitoring, supplier format fixes, mapping updates after the free period", `From ${P.care} a month`, "After 5 free months"],
+        ["Ongoing care", "Monitoring, supplier format fixes, mapping updates after the free period", `From ${P.care} a month`, "After 2 free months"],
       ],
     },
     {
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Pilot on your real bills", "We run a representative sample through extraction and show a field-by-field accuracy report, so thresholds and scope are based on your documents rather than promises."],
       ["Build and test in a safe copy", "Checks, approvals and posting are built against a test company or sandbox organisation, and your accountant reviews every draft entry format before anything touches live books."],
       ["Parallel run and tuning", "For one to two weeks the automation drafts entries while your team keeps checking. Corrections tune rules and mappings until the exceptions that remain are genuine ones."],
-      ["Go live and hand over", "Live posting starts, and you receive the code, credentials, mapping tables and runbook. Five months of maintenance are included; after that care is optional."],
+      ["Go live and hand over", "Live posting starts, and you receive the code, credentials, mapping tables and runbook. Two months of maintenance are included; after that care is optional."],
     ],
   },
   faqHeading: "Invoice processing automation: questions people ask",
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
     { question: "Can a CA firm use invoice processing automation for many clients?", answer: "Yes, with a multi-client design. Each client gets a separate queue, ledger mapping and target company in TallyPrime or Zoho Books, and staff see only the clients assigned to them. Reconciliation reports run per client. The build is larger than a single-company pipeline, so the quote reflects the number of clients and how differently their books are kept." },
     { question: "Should I choose an off-the-shelf invoice OCR app or a custom build?", answer: "Choose an off-the-shelf app when your bills are mostly clean PDFs from a small set of suppliers and you only need data exported to a spreadsheet. Choose a custom build when bills arrive on WhatsApp and email, you need GST and PO checks, entries must post into TallyPrime or an ERP with your own mapping, and you want the data and code in your own accounts." },
     { question: "Do you need to visit our office to set this up?", answer: "No. The whole project runs remotely over WhatsApp, video calls and screen sharing. Where TallyPrime runs on an office machine, your staff or IT person installs a small connector with us guiding them on a call. We do not provide hardware or on-site visits, and nothing in an invoice processing automation project requires them." },
-    { question: "What happens after the five months of free maintenance?", answer: `You choose. You can continue with monthly care from ${P.care}, which covers monitoring, supplier format changes and mapping updates, or you can hand the system to your own IT person with the runbook. There is no requirement to stay with us. The specific terms of any care arrangement are written into your quote.` },
+    { question: "What happens after the two months of free maintenance?", answer: `You choose. You can continue with monthly care from ${P.care}, which covers monitoring, supplier format changes and mapping updates, or you can hand the system to your own IT person with the runbook. There is no requirement to stay with us. The specific terms of any care arrangement are written into your quote.` },
     { question: "How do I pay for the project?", answer: `Indian clients pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. The payment schedule is set out in the written quote you approve before any work begins. Running costs such as cloud hosting and AI usage are billed to your own accounts by those providers.` },
     { question: "Purchase bill ki entry automatic kaise kare?", answer: "Sabse pehle bills ek jagah aane chahiye, jaise ek email ID ya ek WhatsApp number. Phir OCR aur AI se GSTIN, bill number, HSN aur tax amount nikaale jaate hain, system unhe PO aur GST rules se check karta hai, aur approval ke baad Tally ya Zoho Books mein entry ban jaati hai. Hum yeh setup remotely karte hain, samples dekhkar quote dete hain." },
     { question: "Can the same system handle sales invoices or e-invoices too?", answer: "It can be extended, but purchase and sales sides are different jobs. Purchase automation reads documents you receive; sales e-invoicing sends your own invoice data to the Invoice Registration Portal to get an IRN and QR code. If you need both, we usually build them as two connected modules sharing the same ledger mapping and hosting." },

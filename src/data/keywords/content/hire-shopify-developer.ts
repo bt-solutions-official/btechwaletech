@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store access", "Collaborator account; you stay owner"],
     ["Estimate", "Itemised, in about 2 working days"],
     ["Migration focus", "Products, customers, orders, redirects"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can work in your store" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Migration care", value: "URL redirects, product data, customer records, SEO tags" },
       { label: "Payments in India", value: "UPI, cards and cash on delivery via providers you choose" },
       { label: "Paying us", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care} a month` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Fees on top", "Marketplace fee per payment", "Overheads in the rate", "No platform or middleman fee"],
       ["Budget", "Varies widely", "Usually highest", `New stores from ${P.shop}`],
       ["Beyond Shopify", "Separate seller needed", "Available at agency rates", "Same team for apps, automation and SEO"],
-      ["After delivery", "Pay per fix", "Monthly retainer", `5 months free, then from ${P.care}`],
+      ["After delivery", "Pay per fix", "Monthly retainer", `2 months free, then from ${P.care}`],
     ],
     fine: "If you run Shopify Plus across many countries with daily campaign launches and need a large team on call, a dedicated Shopify agency will give you more capacity than three freelance developers can.",
   },
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to illustrate the process; it does not describe a real client.`,
         `A family-run saree business sells about 800 products on WooCommerce. The site is slow, plugins keep conflicting, and the owner wants less technical upkeep. They get most orders from Google and Instagram, and a large share of buyers choose cash on delivery.`,
-        `The plan: crawl the old site and export every indexed URL; clean product data so fabric, length and blouse details become metafields; import products, customers and past orders for reference; customise a Theme Store theme with a fabric-details section and a clear COD message; set GST and shipping; connect a UPI and card provider plus COD with order limits; build a redirect map for product, category and blog URLs. The store is built on a development copy and reviewed on the owner's phone. On launch day DNS is switched in a quiet hour, redirects are tested and Search Console is checked daily for a fortnight. Free maintenance for five months covers the settling-in fixes.`,
+        `The plan: crawl the old site and export every indexed URL; clean product data so fabric, length and blouse details become metafields; import products, customers and past orders for reference; customise a Theme Store theme with a fabric-details section and a clear COD message; set GST and shipping; connect a UPI and card provider plus COD with order limits; build a redirect map for product, category and blog URLs. The store is built on a development copy and reviewed on the owner's phone. On launch day DNS is switched in a quiet hour, redirects are tested and Search Console is checked daily for a fortnight. Free maintenance for two months covers the settling-in fixes.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
         ["Speed and app clean-up", "Quoted after an audit", "1–2 weeks", "Apps installed, theme age, image volume"],
         ["Custom integration", `From ${P.software} for larger builds`, "2–8 weeks", "APIs, sync frequency, error handling"],
         ["Monthly store SEO", `From ${P.seo}`, "Ongoing", "Collections, content, technical fixes"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Monthly", "Change requests, app updates, checks"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Monthly", "Change requests, app updates, checks"],
       ],
       hideSm: [2],
     },
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
       ["Approve collaborator access", "We send a collaborator request; you enter the code and pick permissions. Your owner login stays with you."],
       ["Work on a duplicate theme", "Changes are built on a copy of your theme or a development store and shared as a preview link for you to check on your phone."],
       ["Publish and verify", "After approval we publish, test orders with UPI, card and COD, verify redirects and check Search Console for errors."],
-      ["Five months of free support", "Fixes and small changes are free for five months after launch. After that, optional maintenance starts from " + P.care + " a month."],
+      ["Two months of free support", "Fixes and small changes are free for two months after launch. After that, optional maintenance starts from " + P.care + " a month."],
     ],
   },
   faqHeading: "Hiring a Shopify developer: questions answered",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "Can you build a mobile app for my Shopify store?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app} that connect to your Shopify store through its APIs, so products, prices and orders stay in sync. An app makes most sense when customers reorder often; for occasional buyers, a fast mobile storefront usually does the job.` },
     { question: "Who owns the store and theme after the developer finishes?", answer: "You do. The Shopify store is registered to your account, and your subscription, apps and domain are billed to you. Theme customisations live in your store, and we also keep them in a repository you can access. When the job ends, you simply remove the collaborator account." },
     { question: "Do you work with Shopify stores outside India?", answer: `Yes. We work with stores in the USA, UK, Canada, Australia, the UAE and elsewhere, billed in USD, with new stores from ${P.shopUsd}. We overlap a few hours with your working day for calls and accept payment through Wise, bank wire or PayPal.` },
-    { question: "What happens after my Shopify project is delivered?", answer: `Theme updates, app changes and seasonal sales often need small adjustments. BtechWaleTech includes five months of free maintenance after launch for fixes and small changes. After that, maintenance is optional from ${P.care} a month, and you can revoke our collaborator access whenever you choose.` },
+    { question: "What happens after my Shopify project is delivered?", answer: `Theme updates, app changes and seasonal sales often need small adjustments. BtechWaleTech includes two months of free maintenance after launch for fixes and small changes. After that, maintenance is optional from ${P.care} a month, and you can revoke our collaborator access whenever you choose.` },
     { question: "Shopify developer hire karne se pehle kya check karein?", answer: "Pehle unke banaye hue live Shopify stores dekhiye aur poochiye ki unhone kya badla. Password kabhi share mat kijiye; collaborator access dijiye. Changes pehle duplicate theme par hone chahiye. Migration mein redirects zaroor poochiye. BtechWaleTech ke saath naya store itemised quote ke baad hi shuru hota hai." },
     { question: "What should I prepare before hiring a Shopify developer?", answer: "Write a short list of what must change, with screenshots or a screen recording of problems. For a new store, prepare a product spreadsheet, logo, policies and payment preferences. For a migration, note your current platform, product count, and which features you rely on daily. This makes quotes accurate and comparable." },
   ],
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a Shopify developer? Send us your store link",
-    note: `Share your store URL and what needs doing on WhatsApp. You will get an itemised estimate in about two working days, with new stores from ${P.shop}, work done on a duplicate theme and five months of free support after launch.`,
+    note: `Share your store URL and what needs doing on WhatsApp. You will get an itemised estimate in about two working days, with new stores from ${P.shop}, work done on a duplicate theme and two months of free support after launch.`,
   },
 };
 

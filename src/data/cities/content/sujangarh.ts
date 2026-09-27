@@ -56,7 +56,7 @@ const sujangarh: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer room, rate, fee and timing questions and pass the rest to you.",
     data: "Dashboards of room bookings by festival, milk collection, stock turnover or dues pending, readable on a phone.",
     app: "Android and iOS apps for dharamshala bookings, dairy collection or school updates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "No upkeep charge for the first five months; after that, care plans begin at ₹8,000 monthly and you may stop whenever you like.",
+    maintenance: "No upkeep charge for the first two months; after that, care plans begin at ₹8,000 monthly and you may stop whenever you like.",
   },
   whyUsIntro:
     "Sujangarh families have traded with the same villages for generations, and one broken promise travels fast. So our rates are public, each quote is itemised on paper, WhatsApp gets a reply on Sundays too, and the domain, hosting, code and store logins carry your name. When a request is unlikely to repay its cost, you hear that from us upfront.",
@@ -178,7 +178,7 @@ const sujangarh: CityContent = {
       paragraphs: [
         "Since we cannot drop by your counter, paperwork does the job of trust. We start with a call about what you sell, who buys it and the one or two results that matter most. Then comes a written scope listing screens or pages, deadlines and a price broken into items. You approve it in writing before any invoice exists. As the work grows, links arrive on your phone so you, your brother or your daughter can test it and send notes, and every later instalment is tied to a part you have already used.",
         "We reply on WhatsApp on every day of the week, within Indian working hours. Hindi wording is sent for your approval before publishing, and any risk to a deadline is flagged the moment it appears.",
-        "A common story in desert towns is the website that died when its maker switched off his phone and kept the domain. We avoid that by opening the domain, the hosting, the code repository, the Google profile and the Play and App Store developer accounts in your own name, then giving you every login on paper. Upkeep is free for five months after launch, covering bug fixes, backups, security patches and routine checks on forms, payments and WhatsApp links. Month six onwards it costs from ₹8,000 a month if you want it; if not, you can take the code to any other developer.",
+        "A common story in desert towns is the website that died when its maker switched off his phone and kept the domain. We avoid that by opening the domain, the hosting, the code repository, the Google profile and the Play and App Store developer accounts in your own name, then giving you every login on paper. Upkeep is free for two months after launch, covering bug fixes, backups, security patches and routine checks on forms, payments and WhatsApp links. Month three onwards it costs from ₹8,000 a month if you want it; if not, you can take the code to any other developer.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const sujangarh: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Upkeep costs nothing for five months after go-live: updating text and rates, backups, security patches and checks on forms, payments and buttons. From then on it begins at ₹8,000 a month if you choose to continue, or you can pass the work to someone else, as the accounts and code are all yours.",
+        "Upkeep costs nothing for two months after go-live: updating text and rates, backups, security patches and checks on forms, payments and buttons. From then on it begins at ₹8,000 a month if you choose to continue, or you can pass the work to someone else, as the accounts and code are all yours.",
     },
     {
       question: "Do you work in Salasar, Ladnun, Ratangarh and Churu too?",

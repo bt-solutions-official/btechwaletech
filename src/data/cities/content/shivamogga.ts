@@ -31,11 +31,11 @@ const shivamogga: CityContent = {
     eyebrow: "Shivamogga · Karnataka",
     h1: "Web, app, SEO and automation services for Shivamogga's areca mandi, Machenahalli foundries and Malnad homestays",
     lede:
-      "A remote team of three engineers building Kannada and English websites, online stores, search visibility and WhatsApp tools for businesses across Shivamogga district, from areca traders near the APMC and casting units in Machenahalli to Gandhi Bazaar shops and homestays on the road to Jog Falls. Prices are published and the first five months of upkeep are free.",
+      "A remote team of three engineers building Kannada and English websites, online stores, search visibility and WhatsApp tools for businesses across Shivamogga district, from areca traders near the APMC and casting units in Machenahalli to Gandhi Bazaar shops and homestays on the road to Jog Falls. Prices are published and the first two months of upkeep are free.",
     pills: ["Websites from ₹10,000", "Kannada and English pages", "Foundry capability sites", "Homestay booking pages", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "In Shivamogga, a small business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site in Kannada and English starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Shivamogga office, and five months of maintenance are free after launch.",
+    "In Shivamogga, a small business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site in Kannada and English starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Shivamogga office, and two months of maintenance are free after launch.",
   snapshot: [
     { label: "Location", value: "District headquarters on the Tunga river, about 267 km from Bengaluru, known as the Gateway to Malnad" },
     { label: "Taluks", value: "Shivamogga, Bhadravathi, Sagara, Shikaripura, Soraba, Hosanagara and Thirthahalli" },
@@ -52,10 +52,10 @@ const shivamogga: CityContent = {
     ai: "WhatsApp replies in Kannada or English for rate enquiries, room availability or admission questions, with each lead logged to a sheet.",
     data: "Dashboards showing mandi purchases, stock held, mill output or bookings by month, readable on a phone.",
     app: "Android and iOS apps for arecanut trader ledgers, school notices or homestay guest check-in, one codebase listed on both stores.",
-    maintenance: "Free updates, backups and security patches for five months after launch, then from ₹8,000 a month or pay only when you need a change.",
+    maintenance: "Free updates, backups and security patches for two months after launch, then from ₹8,000 a month or pay only when you need a change.",
   },
   whyUsIntro:
-    "Many Shivamogga businesses have been quoted Bengaluru prices by Bengaluru agencies, or have a site built years ago that nobody can edit. We publish our rates, reply on WhatsApp seven days a week, register the domain in your name and look after the site free for five months after it goes live.",
+    "Many Shivamogga businesses have been quoted Bengaluru prices by Bengaluru agencies, or have a site built years ago that nobody can edit. We publish our rates, reply on WhatsApp seven days a week, register the domain in your name and look after the site free for two months after it goes live.",
   pricingIntro:
     "These are our actual starting prices for Shivamogga clients, the same as anywhere else we work. What you finally pay depends on page count, products, languages and features, and you get a written, itemised quote before any work starts or any money changes hands.",
   sections: [
@@ -178,7 +178,7 @@ const shivamogga: CityContent = {
       heading: "Ownership, handover and what happens after launch",
       paragraphs: [
         "Your domain and hosting are registered in your name from the start, not ours. At launch you receive all logins, the full source code and a short written note explaining the setup, so any developer can take over later without an exit fee or permission from us.",
-        "For five months after launch we maintain the site free: content and price edits, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can drop the plan and pay only when you need a change.",
+        "For two months after launch we maintain the site free: content and price edits, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can drop the plan and pay only when you need a change.",
         "If you are replacing an old site, we check which pages already get traffic and set up redirects, so the search visibility you have built is not thrown away. See our <a href=\"/services/web-development/\">web development page</a> for how a typical build runs.",
       ],
     },
@@ -270,7 +270,7 @@ const shivamogga: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price edits, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that it is from ₹8,000 a month, or you can message us only when you need a change and pay for that work alone.",
+        "For two months after launch we handle content and price edits, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that it is from ₹8,000 a month, or you can message us only when you need a change and pay for that work alone.",
     },
     {
       question: "How long before SEO shows results in Shivamogga?",

@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Android & iOS apps from ₹40,000", "Software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "IT services in Mizoram from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website (1 to 2 weeks), ₹40,000 for AI and WhatsApp automation (2 to 4 weeks), ₹50,000 for an online store and ₹60,000 for custom software (6 to 12 weeks). We have no Mizoram office and include five free months of maintenance.",
+    "IT services in Mizoram from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website (1 to 2 weeks), ₹40,000 for AI and WhatsApp automation (2 to 4 weeks), ₹50,000 for an online store and ₹60,000 for custom software (6 to 12 weeks). We have no Mizoram office and include two free months of maintenance.",
   snapshot: [
     { label: "Capital and largest city", value: "Aizawl, the administrative, commercial and education centre, spread along steep ridges" },
     { label: "Other major towns", value: "Lunglei, Champhai, Kolasib, Serchhip, Siaha, Lawngtlai, Mamit, Saitual and Khawzawl" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants and agents that handle routine WhatsApp questions, draft documents and route work, supervised by people on your team.",
     data: "Dashboards that pull records from several towns into one view for managers in Aizawl and programme heads across districts.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for members, parents, retailers and field staff anywhere in Mizoram.",
-    maintenance: "Remote updates, backups, fixes and monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote updates, backups, fixes and monitoring, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Mizoram organisations often choose between the few established IT vendors in Aizawl and agencies in Guwahati or Kolkata. A freelance group offers something different: direct access to engineers, published starting prices, daily WhatsApp replies and full ownership of code and accounts.",
@@ -168,7 +168,7 @@ const content: CityContent = {
       id: "maintenance-support-mizoram",
       heading: "IT support and maintenance for Mizoram clients",
       paragraphs: [
-        "Every Mizoram project gets five months of free maintenance after going live: bug fixes, security updates, small content changes, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "Every Mizoram project gets two months of free maintenance after going live: bug fixes, security updates, small content changes, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
         "Support is remote. We maintain the software, websites, hosting, domains, email setup and automations we built. Hardware, networks and CCTV need a local technician in your town, and we can guide them on the software side over a call.",
         "We reply on WhatsApp or email seven days a week. Outages are restored first and explained afterwards. Before the free period ends we send a health report covering updates made, renewals due and anything worth watching.",
       ],
@@ -203,7 +203,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Mizoram with us start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or a web app. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000.",
         "Price depends on scope: pages or screens, user roles, integrations, offline capability, data migration and content writing. District does not change the rate, because all work is remote. The estimate is itemised so you can remove or phase features to fit a budget.",
-        "Payments are in INR, split into milestones, and accepted only by UPI through our QR code or direct bank transfer to our account. Every milestone follows work you have reviewed, and hosting setup, deployment and five months of maintenance are included.",
+        "Payments are in INR, split into milestones, and accepted only by UPI through our QR code or direct bank transfer to our account. Every milestone follows work you have reviewed, and hosting setup, deployment and two months of maintenance are included.",
       ],
     },
     {
@@ -219,7 +219,7 @@ const content: CityContent = {
         "Itemised estimate in about two working days",
         "Screen map and data model agreed",
         "Weekly demos on a staging link",
-        "Launch, training and five months of free maintenance",
+        "Launch, training and two months of free maintenance",
       ],
     },
     {
@@ -293,7 +293,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, security updates, small content edits, backups and uptime checks. Afterwards, plans start at ₹8,000 a month, or you can pay per change. Hardware support is not included because we work remotely.",
+        "Two months of free maintenance after launch, covering bug fixes, security updates, small content edits, backups and uptime checks. Afterwards, plans start at ₹8,000 a month, or you can pay per change. Hardware support is not included because we work remotely.",
     },
     {
       question: "When will SEO show results?",

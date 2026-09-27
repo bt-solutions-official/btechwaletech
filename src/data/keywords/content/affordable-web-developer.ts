@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Affordable web developer · Budget sites done properly",
     h1: "Affordable web developer in India: a website that fits your budget without the hidden costs of going cheap",
     lede: `An affordable web developer gives you a site you can afford to build, run and grow, not just the lowest quote on the day. BtechWaleTech is three freelance developers working remotely from India, and our static business websites start at ${P.site} with the domain, hosting and code in your name. This page shows where every rupee of a website budget goes, which items you can postpone safely, and which shortcuts cost more later. See also <a href='/pricing/'>all starting prices</a>.`,
-    pills: ["Websites from " + P.site, "Itemised quotes", "No platform fees", "Code in your name", "5 months free care", "UPI or bank transfer", "Phase-wise builds"],
+    pills: ["Websites from " + P.site, "Itemised quotes", "No platform fees", "Code in your name", "2 months free care", "UPI or bank transfer", "Phase-wise builds"],
     origin: "Three freelance developers · Remote from India · Budget-conscious clients in every state",
   },
   facts: [
@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks for most static sites"],
     ["Quote turnaround", "About 2 working days, line by line"],
     ["Middleman fees", "None: you pay the developers directly"],
-    ["Free upkeep", "5 months after launch"],
+    ["Free upkeep", "2 months after launch"],
   ],
   stats: [
     { value: "0", label: "Platform or commission fees on your payments" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "100", label: "Pages included in the starting static plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does an affordable web developer cost in India?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Never cut", value: "Domain in your name, backups, mobile testing, SSL" },
       { label: "Pay how", value: "Stages by UPI or bank transfer; nothing before written approval" },
       { label: "Running costs", value: "Domain and hosting paid by you directly to the provider" },
-      { label: "After launch", value: `5 months free, then maintenance from ${P.care} if you want it` },
+      { label: "After launch", value: `2 months free, then maintenance from ${P.care} if you want it` },
     ],
   },
   services: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Domain and hosting", "Frequently in the seller’s name", "Usually yours", "Yours from day one, paid directly by you"],
       ["Mobile and speed testing", "Rarely done", "Done", "Done on budget Android phones and slow data"],
       ["Backups", "Not included", "Included", "Set up before launch"],
-      ["Changes after launch", "Charged per edit", "Retainer", `Free for 5 months, then from ${P.care}`],
+      ["Changes after launch", "Charged per edit", "Retainer", `Free for 2 months, then from ${P.care}`],
       ["Hidden add-ons later", "Common: SSL, forms, contact changes", "Few", "Listed in the quote before you approve"],
       ["Who you talk to", "One seller, often slow", "Account manager", "The three developers on WhatsApp"],
       ["Year-one total", "Often rises with fixes and rebuilds", "High but predictable", "Starting price plus what you choose to add"],
@@ -126,7 +126,7 @@ const content: FreelanceContent = {
         { heading: "Design (a large share)", text: "Laying out the home page and a few page templates for phone and desktop. Reusing templates across inner pages is how an affordable web developer keeps this line small." },
         { heading: "Build", text: "Turning layouts into code, wiring forms, the WhatsApp button, maps and any integration. Features, not page count, drive this line." },
         { heading: "Launch setup", text: "Domain records, SSL, redirects, Google Search Console, analytics and a sitemap. Short, but skipping it hurts for years." },
-        { heading: "Aftercare", text: "Fixes, updates and backups once the site is live. Our first five months are free; after that, maintenance starts at " + P.care + "." },
+        { heading: "Aftercare", text: "Fixes, updates and backups once the site is live. Our first two months are free; after that, maintenance starts at " + P.care + "." },
       ],
       after: [`For the same buckets across many project types, see the <a href='/website-developer-cost/'>website developer cost breakdown</a>.`],
     },
@@ -174,7 +174,7 @@ const content: FreelanceContent = {
       heading: "How much does an affordable web developer charge for each kind of site?",
       paragraphs: [
         `Here are our floors, which is where the conversation starts. A static website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. An SEO website with 700+ generated pages starts at ${P.seoSite} and takes 3–5 weeks. An online store starts at ${P.shop} over 4–8 weeks, and a custom web app or portal starts at ${P.software} over 6–12 weeks.`,
-        `Beyond websites, an Android and iOS app starts at ${P.app}, AI automation at ${P.ai}, monthly SEO at ${P.seo}, and maintenance, after the free five months, at ${P.care}.`,
+        `Beyond websites, an Android and iOS app starts at ${P.app}, AI automation at ${P.ai}, monthly SEO at ${P.seo}, and maintenance, after the free two months, at ${P.care}.`,
         `Across the wider market, quotes for the same brief vary widely. The spread comes from design depth, whether the theme is custom or bought, who writes the content, how much testing is done and what support is included. It rarely comes from the city the developer lives in. When you compare quotes, match the scope line by line first, then compare totals. City-by-city and type-by-type figures are on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A website that is cheap to build but expensive to run is not affordable. Before you approve any build, ask for the yearly bill in writing.`,
         `A static site usually has the lowest running cost: a domain renewal and light hosting, sometimes on a free or very low-cost tier. A WordPress site adds plugin licences and more frequent updates. An online store adds payment processing charges and possibly paid apps. A web app adds a database and server costs that grow with users.`,
-        `Our first five months of maintenance are free, covering text changes, small fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}; you may also take the site in-house or hand it to someone else, since you already hold every login. For growth, monthly SEO starts at ${P.seo}, but it is never a condition of the build.`,
+        `Our first two months of maintenance are free, covering text changes, small fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}; you may also take the site in-house or hand it to someone else, since you already hold every login. For growth, monthly SEO starts at ${P.seo}, but it is never a condition of the build.`,
       ],
     },
     {
@@ -282,7 +282,7 @@ const content: FreelanceContent = {
       heading: "Sasta nahi, sahi daam: affordable website ki seedhi baat",
       paragraphs: [
         `Sabse kam quote hamesha sabse sasta nahi padta. Agar domain developer ke naam par hai, backup nahi hai ya theme pirated hai, toh baad mein zyada kharcha hota hai. Isliye quote line by line maangiye aur dekhiye ki kya shamil hai aur kya nahi.`,
-        `Hamare saath static business website ${P.site} se shuru hoti hai, 100 pages tak, aur 1–2 hafte mein live ho jaati hai. Pehle zaroori pages banwaiye, blog aur extra features baad mein jodiye. Domain aur hosting aapke naam par rahenge, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Hamare saath static business website ${P.site} se shuru hoti hai, 100 pages tak, aur 1–2 hafte mein live ho jaati hai. Pehle zaroori pages banwaiye, blog aur extra features baad mein jodiye. Domain aur hosting aapke naam par rahenge, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Automate the single most painful workflow"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Prove demand on the website first"],
         ["AI automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Answer the ten most common questions"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Optional; you hold every login"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Optional; you hold every login"],
       ],
       hideSm: [2],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Approve only what you need", "Strike out lines, keep the rest and approve in writing. No work is billed before that approval, and payments follow in stages."],
       ["Accounts in your name", "Domain and hosting are created under your email and paid by you, so there is no mark-up and nothing held back at renewal."],
       ["Build, test, launch", "You review on a staging link on your own phone. We test on budget Android devices, set up Search Console, then go live."],
-      ["Five free months, then your choice", "Small fixes and edits are free for five months. After that, maintenance from " + P.care + " is optional, and phase two is quoted only when you ask."],
+      ["Two free months, then your choice", "Small fixes and edits are free for two months. After that, maintenance from " + P.care + " is optional, and phase two is quoted only when you ask."],
     ],
   },
   faqHeading: "Affordable web developer: common questions",
@@ -384,13 +384,13 @@ const content: FreelanceContent = {
     { question: "How can I reduce the cost of my website?", answer: "Supply your own final text and photos, pick one decision-maker, limit unique page designs to a few templates, postpone optional features such as a blog or second language, and choose a static build if staff do not need to edit pages daily. Each of these removes real hours from the quote without weakening the site." },
     { question: "Should I pay the full amount in advance?", answer: "No. Pay in stages linked to work you can see, such as an advance to start, a payment after the design is approved on a staging link and the balance before launch. We never bill before you approve the itemised quote in writing. In India we take UPI or bank transfer; details are in our terms." },
     { question: "Does an affordable website include SEO?", answer: `It should include the basics: unique page titles and descriptions, clean URLs, a sitemap, schema markup, fast loading and Google Search Console setup. Those are part of every build we do. Ongoing SEO work such as content and local listings is a separate monthly service from ${P.seo}. No one can honestly guarantee rankings.` },
-    { question: "Is maintenance included with an affordable web developer?", answer: `Terms vary between developers, so ask before you begin. We include five months of free maintenance after launch for small edits, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}. Since you already hold every login, you can also manage the site yourself or hand it to anyone you choose.` },
+    { question: "Is maintenance included with an affordable web developer?", answer: `Terms vary between developers, so ask before you begin. We include two months of free maintenance after launch for small edits, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}. Since you already hold every login, you can also manage the site yourself or hand it to anyone you choose.` },
     { question: "Will I own the website if I choose a low budget?", answer: "You should, whatever the budget. Ownership is not an extra feature. With us the domain and hosting are registered in your name from the first day and paid from your account, and you receive the code or admin access at launch. If a low quote requires the developer to keep your domain, treat that as a warning." },
     { question: "Is WordPress or a static site more affordable?", answer: "A static site is usually cheaper to run because hosting is light and there are fewer plugins to update or secure. WordPress costs a little more to maintain but lets staff edit pages and post articles easily. Choose static if edits are occasional and done by the developer; choose WordPress if your team will update content every week." },
     { question: "Can an affordable web developer build an online store?", answer: `Yes. A phase-one store can launch with your main products, UPI and card checkout, order emails and basic stock control, starting at ${P.shop}. Filters, coupons, reviews and loyalty features can follow once sales justify them. For very small catalogues, a website with WhatsApp ordering may be enough to begin with.` },
     { question: "Should I hire an affordable web developer near me or a remote one?", answer: "Distance has little effect on quality or price for a website. A remote developer shares progress on staging links, meets you on video and replies on WhatsApp, often faster than arranging office meetings. Choose based on live portfolio links, an itemised quote and ownership terms, then decide whether meeting in person still matters to you." },
     { question: "Can I add features later without paying for a new website?", answer: "Yes, if the first build is planned for it. A clean structure, code you own and the same team available means a blog, a second language, bookings or a store can be added as a new phase with its own quote. Rebuilding from scratch is usually needed only when the original site was built on something that cannot be extended." },
-    { question: "Affordable website banwane ka sahi tarika kya hai?", answer: `Pehle sirf zaroori pages banwaiye: home, services, about, contact aur WhatsApp button. Quote line by line maangiye, domain aur hosting apne naam par rakhiye, aur payment stages mein kijiye. Hamare saath static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Affordable website banwane ka sahi tarika kya hai?", answer: `Pehle sirf zaroori pages banwaiye: home, services, about, contact aur WhatsApp button. Quote line by line maangiye, domain aur hosting apne naam par rakhiye, aur payment stages mein kijiye. Hamare saath static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Launch ke baad 2 mahine maintenance free hai.` },
     { question: "What if my budget is lower than your starting price?", answer: "Tell us the figure honestly and we will say whether anything useful fits. Sometimes a single landing page or a refresh of your existing site does the job. If nothing sensible fits yet, a free profile such as Google Business Profile plus WhatsApp Business can carry you until the budget grows, and we would rather say that than cut essentials." },
   ],
   related: {
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need an affordable web developer? Share your budget and goal",
-    note: `Send us a WhatsApp message with what the site must do and the range you can spend. You get an itemised quote in about two working days, websites starting at ${P.site}, accounts in your name and five months of free maintenance after launch.`,
+    note: `Send us a WhatsApp message with what the site must do and the range you can spend. You get an itemised quote in about two working days, websites starting at ${P.site}, accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

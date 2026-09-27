@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "IT solutions · Panipat, Haryana",
     h1: "Freelance software developers in Panipat for export houses, weavers and traders",
     lede:
-      "Panipat runs on purchase orders from overseas buyers, sampling deadlines, yarn lots and container dates. BtechWaleTech is a freelance group of three remote engineers, and as freelance software developers in Panipat we build the tools that keep that moving: order and sampling trackers, costing calculators, buyer-mail automation, stock dashboards, catalogue websites and stores. You talk to the engineers directly, prices start where our pricing page says, and five months of maintenance after launch are free.",
+      "Panipat runs on purchase orders from overseas buyers, sampling deadlines, yarn lots and container dates. BtechWaleTech is a freelance group of three remote engineers, and as freelance software developers in Panipat we build the tools that keep that moving: order and sampling trackers, costing calculators, buyer-mail automation, stock dashboards, catalogue websites and stores. You talk to the engineers directly, prices start where our pricing page says, and two months of maintenance after launch are free.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Catalogue sites from ₹10,000", "Hindi and English screens", "Android & iOS apps from ₹40,000"],
   },
   quickAnswer:
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that read buyer emails and tech packs, extract quantities and dates, draft replies and flag delays before a shipment window is missed.",
     data: "Dashboards pulling from Tally, Excel and your portal to show open orders, yarn stock, dues from domestic parties and export receivables together.",
     app: "Android and iOS apps from ₹40,000 for Panipat supervisors, quality checkers, buyers' agents and domestic retailers, coded once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Backups, fixes and security updates, free for five months after launch and from ₹8,000 a month afterwards if you want continued cover.",
+    maintenance: "Backups, fixes and security updates, free for two months after launch and from ₹8,000 a month afterwards if you want continued cover.",
   },
   whyUsIntro:
     "Panipat exporters have seen expensive ERPs that nobody on the floor uses, and cheap software that cannot handle a split shipment. We build smaller, fitted systems, one module at a time, and we stay reachable during peak season when a problem actually costs you money.",
@@ -183,14 +183,14 @@ const content: CityContent = {
       paragraphs: [
         "We deploy every project to cloud hosting set up in your business's name, with automated backups, HTTPS and role-based access, and we remain available for support after launch. For export firms whose order history and buyer approvals live in the system, reliable hosting and backups are not optional.",
         "Websites are built with Astro or Next.js and run on fast static hosting with a CDN, which keeps them quick for buyers opening your catalogue from Europe or the US. Applications use React front ends, Node.js or Python back ends and PostgreSQL, running on AWS or similar managed cloud servers with deployments that can be rolled back if an update misbehaves. Databases are backed up on a schedule to separate storage. Access is limited by role, and sensitive actions such as changing a costing rate or deleting an order can be logged with the user's name and time.",
-        "Some owners prefer a local server in the office. We explain the trade-offs frankly: power cuts, hardware failure and the lack of off-site backups make local setups riskier for most Panipat units. The monthly hosting cost is stated in the quote. After the five free months of maintenance, support continues from ₹8,000 a month or on request. Every credential and piece of documentation is handed over, so you are never dependent on us to access your own system.",
+        "Some owners prefer a local server in the office. We explain the trade-offs frankly: power cuts, hardware failure and the lack of off-site backups make local setups riskier for most Panipat units. The monthly hosting cost is stated in the quote. After the two free months of maintenance, support continues from ₹8,000 a month or on request. Every credential and piece of documentation is handed over, so you are never dependent on us to access your own system.",
       ],
     },
     {
       id: "software-cost-panipat",
       heading: "What do freelance software developers in Panipat charge for custom software?",
       paragraphs: [
-        "Freelance software developers in Panipat quote widely varying rates; with BtechWaleTech, custom software starts from ₹60,000 for a focused custom web application such as an order tracker, sampling register or costing tool. AI automation begins at ₹40,000, Android and iOS apps also at ₹40,000, catalogue websites at ₹10,000, the large SEO website at ₹20,000, online stores at ₹50,000, monthly SEO at ₹10,000 and maintenance at ₹8,000 a month after the free five months.",
+        "Freelance software developers in Panipat quote widely varying rates; with BtechWaleTech, custom software starts from ₹60,000 for a focused custom web application such as an order tracker, sampling register or costing tool. AI automation begins at ₹40,000, Android and iOS apps also at ₹40,000, catalogue websites at ₹10,000, the large SEO website at ₹20,000, online stores at ₹50,000, monthly SEO at ₹10,000 and maintenance at ₹8,000 a month after the free two months.",
         "What moves the final price is scope. More order stages, buyers with their own document formats, multiple firms under one login, integrations with Tally, courier services or email, and large amounts of historical data to import all add effort. Printable outputs such as packing lists, commercial invoices, inspection reports and quotation sheets each need their own layout work. Keeping the first release to one core process, then adding modules, keeps the budget under control.",
         "You receive an itemised quote in about two working days. Payment is in INR only, by our UPI QR code or direct bank transfer, in stages linked to delivery. Our <a href=\"/pricing/\">pricing page</a> lists every starting price. When comparing vendors, confirm whether a lower quote includes source code ownership, hosting setup, training and post-launch fixes, since those are frequently where the extra charges appear later.",
       ],
@@ -303,7 +303,7 @@ const content: CityContent = {
     {
       question: "What support do we get after launch?",
       answer:
-        "Five months of maintenance are included free once the system is live. That covers bug fixes, minor changes, security and software updates, backups and uptime checks. Afterwards you can choose a monthly plan from ₹8,000 or contact us only when something needs doing. Larger additions, such as a new dispatch module, are quoted separately in the same itemised way.",
+        "Two months of maintenance are included free once the system is live. That covers bug fixes, minor changes, security and software updates, backups and uptime checks. Afterwards you can choose a monthly plan from ₹8,000 or contact us only when something needs doing. Larger additions, such as a new dispatch module, are quoted separately in the same itemised way.",
     },
     {
       question: "Can screens and content be in Hindi and English?",

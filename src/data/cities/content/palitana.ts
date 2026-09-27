@@ -56,7 +56,7 @@ const palitana: CityContent = {
     ai: "WhatsApp assistants that answer room availability, meal timings, yatra dates and clinic slots in Gujarati, Hindi and English and pass real decisions to you.",
     data: "Dashboards of occupancy by month, meals served, donations received and shop sales before and after the monsoon closure.",
     app: "Android and iOS apps for yatra groups to register, pay and get updates, or for dharamshalas to handle room bookings, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No upkeep charges for five months after go-live; after that, maintenance is optional from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "No upkeep charges for two months after go-live; after that, maintenance is optional from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "Palitana's trusts and traders serve pilgrims who expect honesty, and they expect the same from anyone they hire. We list starting prices publicly, send a line-by-line written estimate, answer WhatsApp all seven days, and open the domain, hosting, code and store accounts in your trust's or firm's name. If a feature will not justify its cost, you hear that from us first.",
@@ -167,7 +167,7 @@ const palitana: CityContent = {
       heading: "Ownership and upkeep of Palitana websites and apps",
       paragraphs: [
         "The domain, hosting, source code, Google Play and App Store developer accounts and Google profile are all opened in your trust's or business's name. We work with access you provide and can transfer everything within a day if you move to someone else. Trusts in particular should insist on this, because committees change and passwords must not leave with one person.",
-        "Every launch includes five months of upkeep at no charge: content changes, backups, security patches and regular tests of forms, payments and WhatsApp links. After that, you may continue with us from ₹8,000 a month or look after it yourselves.",
+        "Every launch includes two months of upkeep at no charge: content changes, backups, security patches and regular tests of forms, payments and WhatsApp links. After that, you may continue with us from ₹8,000 a month or look after it yourselves.",
         "In Palitana, upkeep follows the calendar: monsoon closure notices, reopening dates, Kartik Purnima and Phalguna arrangements, and revised room rates. Getting these right on time is what keeps pilgrims trusting the page.",
       ],
     },
@@ -253,7 +253,7 @@ const palitana: CityContent = {
     {
       question: "What happens after the site goes live?",
       answer:
-        "Upkeep is free for five months after launch: content changes, backups, security patches and checks of forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or manage it yourselves, since every account is already in your name.",
+        "Upkeep is free for two months after launch: content changes, backups, security patches and checks of forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or manage it yourselves, since every account is already in your name.",
     },
     {
       question: "Do you work in Songadh, Sihor, Bhavnagar and nearby towns?",

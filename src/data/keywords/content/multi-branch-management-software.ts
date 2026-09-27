@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Manager app", `From ${P.app}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Data and code", "Owned by you, on your cloud account"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-branch licence fees on software you own" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Android or iOS manager app", value: `From ${P.app}, 6–10 weeks` },
       { label: "Reorder alerts and forecasting", value: `AI automation from ${P.ai}` },
       { label: "Works offline", value: "Branches keep billing; data syncs when online" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What multi branch management software costs",
-    note: `A custom multi-branch system starts at ${P.software}. The price is driven less by the number of branches and more by the number of workflows: billing only is simpler than billing plus transfers plus purchasing plus staff attendance. Offline-first sync adds real engineering, as does a manager app (from ${P.app}) and integrations with accounting or WhatsApp. Hosting is billed to your own cloud account, so costs stay visible and there is no per-branch licence. We usually quote in phases so the first branches go live early. Each phase is itemised, nothing is billed before written approval, and maintenance is free for 5 months after go-live.`,
+    note: `A custom multi-branch system starts at ${P.software}. The price is driven less by the number of branches and more by the number of workflows: billing only is simpler than billing plus transfers plus purchasing plus staff attendance. Offline-first sync adds real engineering, as does a manager app (from ${P.app}) and integrations with accounting or WhatsApp. Hosting is billed to your own cloud account, so costs stay visible and there is no per-branch licence. We usually quote in phases so the first branches go live early. Each phase is itemised, nothing is billed before written approval, and maintenance is free for 2 months after go-live.`,
   },
   guideLabel: "Multi branch management software guide",
   guide: [
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, custom multi branch management software starts at ${P.software} (about ${P.softwareUsd}) for the web system, with an Android or iOS app for managers or counters from ${P.app}. Quotes from other developers and vendors vary widely, so compare scope, ownership and running costs, not only the build figure.`,
         `What pushes the price up: the number of distinct workflows (billing, transfers, purchasing, attendance, appointments), offline-first sync, integration with your accounting software or WhatsApp, data migration from old systems, and industry-specific screens. What barely affects it: the number of branches. Adding branch number twelve is a setting, not a rebuild.`,
-        `Running costs are hosting on your own cloud account, which scales with usage, plus optional care after the free 5 months, from ${P.care}. Compare that honestly with a subscription: SaaS products charge monthly per branch or user, which is fair for what they offer, but the total grows every time you open a location.`,
+        `Running costs are hosting on your own cloud account, which scales with usage, plus optional care after the free 2 months, from ${P.care}. Compare that honestly with a subscription: SaaS products charge monthly per branch or user, which is fair for what they offer, but the total grows every time you open a location.`,
       ],
       list: [
         `Phase 1, billing and dashboard for two pilot branches: within the ${P.software} starting scope.`,
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Build the core", "Billing, branch stock and the owner dashboard come first, shown to you weekly on a test link with sample data from your own products."],
       ["Pilot in two branches", "We import your data, staff do a stock count, and the pilot branches go live while we watch closely and fix what they find."],
       ["Roll out the rest", "Remaining branches join in small groups, with short recorded training for cashiers and managers so new staff can learn later."],
-      ["Handover and care", "Code, documentation and admin access are handed to you. Maintenance is free for 5 months, then optional care plans are available."],
+      ["Handover and care", "Code, documentation and admin access are handed to you. Maintenance is free for 2 months, then optional care plans are available."],
     ],
   },
   faqHeading: "Multi branch management software: common questions",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Can AI help with stock across branches?", answer: `Yes, once there is some sales history. AI automation, starting at ${P.ai}, can suggest reorder quantities per branch, flag branches heading towards overstock, propose transfers from slow branches to busy ones, and summarise the day for the owner on WhatsApp. The suggestions support decisions; a manager still approves every order and transfer.` },
     { question: "Is our business data secure in cloud-based branch software?", answer: "The system runs on your own cloud account with encrypted connections, daily automated backups and access only for people you approve. Each device and user logs in separately, so a lost tablet or departing employee can be switched off immediately. Sensitive actions are logged. We also document how to restore from backup as part of the handover." },
     { question: "How do payments for the project work?", answer: "Payments are staged by phase as set out in your written quote. In India you pay by UPI or bank transfer against an invoice; clients abroad pay by Wise, bank wire or PayPal in USD. No work is billed before you approve the quote in writing. Questions about cancellations are best asked before starting, and our refund policy page covers the general terms." },
-    { question: "What support do we get after the system goes live?", answer: `The first 5 months after go-live include free maintenance for bug fixes and small adjustments. After that, care plans start at ${P.care} and cover fixes, updates, backup checks and small changes. New modules, such as adding appointments or purchasing later, are quoted separately as a new phase so you always know the cost beforehand.` },
+    { question: "What support do we get after the system goes live?", answer: `The first 2 months after go-live include free maintenance for bug fixes and small adjustments. After that, care plans start at ${P.care} and cover fixes, updates, backup checks and small changes. New modules, such as adding appointments or purchasing later, are quoted separately as a new phase so you always know the cost beforehand.` },
     { question: "Can we add a new branch ourselves later?", answer: "Yes. Adding a branch is an admin task: create the branch, set its invoice series and settings, assign staff and roles, and transfer opening stock. No new code is needed. We include this in the recorded handover walkthrough so your office team can do it without calling us." },
   ],
   related: {

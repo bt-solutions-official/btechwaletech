@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers, one focused on AI and ML" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after handover" },
+    { value: "2", label: "Months of free maintenance after handover" },
     { value: "0", label: "Platform fees added on GPU or API bills" },
   ],
   answer: {
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
       heading: "Fine-tuning readiness checklist and handover",
       paragraphs: [
         `Before commissioning LLM fine-tuning services, check that you can tick most of this list. If several items are open, the first phase of the project should close them, and that phase alone often answers whether tuning is needed.`,
-        `At handover you receive the cleaned dataset with its documentation, the adapter weights or tuned model in your storage, training and evaluation scripts in your repository, the evaluation report and serving instructions. Five months of free maintenance follow, covering fixes and help rerunning the evaluation; ongoing care afterwards starts at ${P.care} a month if you want it.`,
+        `At handover you receive the cleaned dataset with its documentation, the adapter weights or tuned model in your storage, training and evaluation scripts in your repository, the evaluation report and serving instructions. Two months of free maintenance follow, covering fixes and help rerunning the evaluation; ongoing care afterwards starts at ${P.care} a month if you want it.`,
       ],
       list: [
         "A single task defined in one sentence",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
         ["Single-task fine-tune", `From ${P.ai}`, `From ${P.aiUsd}`, "Data prep, LoRA training, evaluation, handover"],
         ["Fine-tune plus serving API", `From ${P.ai}`, `From ${P.aiUsd}`, "Above, plus an endpoint in your cloud"],
         ["Multi-task programme or full app", `From ${P.software}`, `From ${P.softwareUsd}`, "Several adapters, integration, dashboards"],
-        ["Care after 5 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Re-evaluation, fixes, retraining help"],
+        ["Care after 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Re-evaluation, fixes, retraining help"],
       ],
       hideSm: [2],
     },
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
       ["Prepare the dataset", "We collect, clean, mask and label examples in your cloud account, with guidelines your staff review and approve."],
       ["Train in rounds", "LoRA or QLoRA training on a shortlisted open model, or a hosted service where suitable, evaluated after each round with failures fed back."],
       ["Compare and decide", "The tuned model is scored against the baseline on held-out data. It ships only if it wins on the metrics you agreed."],
-      ["Serve and hand over", "The model goes behind an API in your account, with weights, data, scripts and report handed over and five months of free maintenance."],
+      ["Serve and hand over", "The model goes behind an API in your account, with weights, data, scripts and report handed over and two months of free maintenance."],
     ],
   },
   faqHeading: "LLM fine-tuning services: common questions",

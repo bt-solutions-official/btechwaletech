@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Route we default to", "Meta Cloud API, no middleman"],
     ["Meta account owner", "You, in your business portfolio"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your integration" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Markup from us on Meta message charges" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How does WhatsApp Business API integration work for an Indian business?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Meta message charges", value: "Billed by Meta to your own payment method" },
       { label: "Incoming messages", value: "Webhooks stored in your database, not a vendor’s" },
       { label: "Ownership", value: "Business portfolio, WABA, number, code and tokens in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "WhatsApp Business API integration pricing: setup once, Meta charges as you go",
-    note: `Our integration work starts at ${P.ai} (${P.aiUsd}) and covers Meta onboarding, one number, a webhook receiver with a message log, up to a handful of templates and one connected system such as your website forms or CRM. The quote grows with each extra system, two-way sync logic, a custom shared inbox (custom software starts at ${P.software}) or AI replies. It does not include Meta’s per-message charges, which Meta bills to the card or credit line in your own WhatsApp Business account. We add no markup to those. Once the free five months after go-live end, optional upkeep starts at ${P.care}.`,
+    note: `Our integration work starts at ${P.ai} (${P.aiUsd}) and covers Meta onboarding, one number, a webhook receiver with a message log, up to a handful of templates and one connected system such as your website forms or CRM. The quote grows with each extra system, two-way sync logic, a custom shared inbox (custom software starts at ${P.software}) or AI replies. It does not include Meta’s per-message charges, which Meta bills to the card or credit line in your own WhatsApp Business account. We add no markup to those. Once the free two months after go-live end, optional upkeep starts at ${P.care}.`,
   },
   guideLabel: "WhatsApp Business API integration guide",
   guide: [
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how the pieces fit, not a client story. Say a building-materials distributor in Nagpur runs a small custom order portal for about 300 dealers. Dealers phone and WhatsApp the office to ask whether orders are dispatched, and staff copy details between the portal and their phones all day.`,
         `We would propose direct Cloud API integration from ${P.ai}. Week one: the owner creates the business portfolio with us on a call, submits verification with the firm’s registration document, and chooses a new number for dispatch updates while the office number stays on the Business app. We deploy a webhook receiver next to the portal on its existing hosting. Week two: three utility templates (order received, dispatched with vehicle number, delivered) are submitted, and the portal fires them on status changes. Dealer replies land in a new “messages” table and show on the order screen, with an alert to the dispatch clerk when a dealer asks a question.`,
-        `Weeks three and four: a pilot with twenty dealers, fixes to phone-number matching for dealers stored without country codes, then rollout. The owner gets a monthly estimate of Meta charges based on order volume. Since most messages are utility updates, and many are sent while a dealer’s chat window is already open, the running cost stays modest. Five months of free maintenance follow the launch, with the scope set out in the written quote.`,
+        `Weeks three and four: a pilot with twenty dealers, fixes to phone-number matching for dealers stored without country codes, then rollout. The owner gets a monthly estimate of Meta charges based on order volume. Since most messages are utility updates, and many are sent while a dealer’s chat window is already open, the running cost stays modest. Two months of free maintenance follow the launch, with the scope set out in the written quote.`,
       ],
     },
     {
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
         ["Custom shared inbox or lightweight CRM", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["New online store with WhatsApp order updates", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Mobile app with WhatsApp login codes", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
-        ["Upkeep after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Upkeep after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Onboard in your Meta account", "On a screen-share we create or tidy your business portfolio, submit verification, register the number and create a system user. Logins stay with you."],
       ["Build the glue", "We deploy the webhook receiver and send service on your hosting, connect your website or CRM, and submit templates for Meta review."],
       ["Pilot, then switch on", "A small group of customers or staff phones gets real messages first. We fix matching and wording issues before full traffic starts."],
-      ["Hand over and look after it", "You get code access, a runbook and alerts. Maintenance is free for five months after go-live, then upkeep continues from " + P.care + " if you want it."],
+      ["Hand over and look after it", "You get code access, a runbook and alerts. Maintenance is free for two months after go-live, then upkeep continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "WhatsApp Business API integration: questions businesses ask",
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Is it safe to use unofficial WhatsApp API tools?", answer: "Unofficial tools automate a normal WhatsApp login rather than using Meta’s platform, which breaks WhatsApp’s terms and regularly gets numbers banned. They also break when the app updates. If WhatsApp is important to your sales or support, the official Cloud API, with opt-in and templates, is the only route worth building on." },
     { question: "Which programming languages work for WhatsApp Business API integration?", answer: "Any language that can make HTTPS requests and receive them. We commonly build the send service and webhook receiver in Node.js or Python, and integrate with PHP, Laravel or WordPress sites through a small module. The choice usually follows your existing stack so your team or future developers can maintain it easily." },
     { question: "Can the integration reply automatically with a bot or AI?", answer: `Yes. Incoming messages can go to a menu flow or an AI assistant that answers from your own documents, price list or order data, then hands over to a person when needed. That layer sits on top of the same integration. AI features are quoted as separate lines, starting at ${P.ai}, and every automated reply is logged.` },
-    { question: "What does maintenance of a WhatsApp integration involve?", answer: `Meta updates its API versions over time, templates need edits, tokens and hosting need checking, and occasionally a webhook stops. BtechWaleTech gives five months of free maintenance after go-live; exactly what it covers is written into your quote. After that, upkeep is optional and starts at ${P.care}, and alerts are set up so failures are noticed quickly.` },
+    { question: "What does maintenance of a WhatsApp integration involve?", answer: `Meta updates its API versions over time, templates need edits, tokens and hosting need checking, and occasionally a webhook stops. BtechWaleTech gives two months of free maintenance after go-live; exactly what it covers is written into your quote. After that, upkeep is optional and starts at ${P.care}, and alerts are set up so failures are noticed quickly.` },
     { question: "Do you do WhatsApp Business API integration for clients outside India?", answer: `Yes. The Cloud API works the same way worldwide, though Meta’s message rates depend on the recipient’s country. We work remotely with businesses abroad, invoice in USD with integration starting at ${P.aiUsd}, take payment by Wise, bank wire or PayPal, and schedule calls in your working hours. Templates can be in any language you supply or approve.` },
     { question: "Does WhatsApp API integration help with Google or AI search visibility?", answer: "Not directly; WhatsApp messages are private and not indexed. Indirectly, faster replies and fewer lost enquiries improve reviews and repeat business, and a website with clear WhatsApp contact options converts search visitors better. If search visibility is the goal, pair the integration with proper on-page SEO and structured data on the website itself." },
     { question: "WhatsApp Business API integration ke liye kya documents chahiye?", answer: "Aapko business ka legal naam aur address, apne domain par chalti website, us domain ka email, aur registration ka ek official document chahiye jisme wahi naam ho. Naam document, Meta portfolio aur website footer mein ek jaisa hona chahiye. BtechWaleTech screen-share par sab aapke naam par set karta hai; integration kaam 2–4 hafte mein live ho jaata hai." },
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want WhatsApp connected to your own software? Tell us what it should send",
-    note: `Message us on WhatsApp with the system you use and the messages your staff type every day. You get an itemised quote and a Meta cost estimate in about two working days, with integration starting at ${P.ai}, every account in your name and five months of free maintenance after go-live.`,
+    note: `Message us on WhatsApp with the system you use and the messages your staff type every day. You get an itemised quote and a Meta cost estimate in about two working days, with integration starting at ${P.ai}, every account in your name and two months of free maintenance after go-live.`,
   },
 };
 

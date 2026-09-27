@@ -41,13 +41,13 @@ const content: FreelanceContent = {
     ["Supervisor for webshops", "ACM (Autoriteit Consument & Markt)"],
     ["Test benchmark", "WCAG 2.1 AA, via EN 301 549"],
     ["Accessible webshop rebuild from", `${P.shop}, 4–8 weeks`],
-    ["Upkeep after launch", `5 months free, then from ${P.care}`],
+    ["Upkeep after launch", `2 months free, then from ${P.care}`],
     ["Quote turnaround", "About 2 working days, in USD"],
   ],
   stats: [
     { value: "4", label: "WCAG principles every page is tested against" },
     { value: "2", label: "Working days to an itemised remediation quote" },
-    { value: "5", label: "Months of free maintenance after a rebuild goes live" },
+    { value: "2", label: "Months of free maintenance after a rebuild goes live" },
     { value: "0", label: "Overlay widgets installed as a shortcut" },
   ],
   answer: {
@@ -101,7 +101,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What European Accessibility Act website compliance costs",
-    note: `There is no single price for EAA compliance because two shops with the same theme can fail in very different places. We quote remediation after the audit, itemised per template and component, so you can see whether fixing checkout alone costs more than rebuilding. As reference points, an accessible webshop rebuild starts from ${P.shop} and takes 4 to 8 weeks, a brochure site built to WCAG from scratch starts from ${P.site}, and an app starts from ${P.app}. After any rebuild you get 5 months of free maintenance, then upkeep from ${P.care}, which is where monthly regression checks live. Quotes are in USD and nothing is billed before you approve the written quote.`,
+    note: `There is no single price for EAA compliance because two shops with the same theme can fail in very different places. We quote remediation after the audit, itemised per template and component, so you can see whether fixing checkout alone costs more than rebuilding. As reference points, an accessible webshop rebuild starts from ${P.shop} and takes 4 to 8 weeks, a brochure site built to WCAG from scratch starts from ${P.site}, and an app starts from ${P.app}. After any rebuild you get 2 months of free maintenance, then upkeep from ${P.care}, which is where monthly regression checks live. Quotes are in USD and nothing is billed before you approve the written quote.`,
   },
   guideLabel: "EAA compliance guide for Dutch webshops",
   guide: [
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
         `A named person on your side who receives accessibility feedback from customers.`,
       ],
       after: [
-        `After an accessible rebuild you get 5 months of free maintenance, which covers these regression passes. After that, maintenance starts from ${P.care}. You own the code, the hosting account and the domain throughout, so any developer can take over later using the issue log and the notes we leave in the repository.`,
+        `After an accessible rebuild you get 2 months of free maintenance, which covers these regression passes. After that, maintenance starts from ${P.care}. You own the code, the hosting account and the domain throughout, so any developer can take over later using the issue log and the notes we leave in the repository.`,
       ],
     },
     {
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
         ["Large content site, 299+ pages", "Accessible SEO site build", `From ${P.seoSite}`, "3–5 weeks"],
         ["Custom booking or ordering web app", "Component fixes or rebuild", `From ${P.software}`, "6–12 weeks for a rebuild"],
         ["Consumer ordering app", "App accessibility pass or new app", `From ${P.app} for a new app`, "6–10 weeks for a new app"],
-        ["After any rebuild", "Monthly regression checks", `5 months free, then from ${P.care}`, "Ongoing"],
+        ["After any rebuild", "Monthly regression checks", `2 months free, then from ${P.care}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -480,7 +480,7 @@ const content: FreelanceContent = {
       ["Compare fix and rebuild", "You receive an itemised USD quote in about two working days, with a rebuild comparison when the log suggests the theme is the real problem."],
       ["Fix on staging", "Critical and serious items first, so nothing sits on the one-week clock longer than needed, then moderate and minor items, all committed to your repository."],
       ["Retest and draft the statement", "Every item is retested, the accessibility statement drafted from the final log, and open items given dates for your lawyer to review."],
-      ["Keep it compliant", "Monthly regression checks on checkout and changed templates, free for 5 months after a rebuild and then part of maintenance."],
+      ["Keep it compliant", "Monthly regression checks on checkout and changed templates, free for 2 months after a rebuild and then part of maintenance."],
     ],
   },
   faqHeading: "European Accessibility Act website compliance: questions Dutch owners ask",
@@ -491,7 +491,7 @@ const content: FreelanceContent = {
     { question: "Who enforces EAA compliance for websites in the Netherlands?", answer: "For e-commerce services and electronic communications services, the supervisor is ACM, the Authority for Consumers and Markets. Other sectors have their own regulators, for example the AFM for financial services. ACM publishes guidance on what webshops must do, including the accessibility statement and the time limits for reporting known problems that you have not fixed." },
     { question: "Is my small business exempt from the European Accessibility Act?", answer: "You are exempt as a service provider if you are a microenterprise: fewer than 10 people and annual turnover of at most 2 million euros, as ACM puts it. Both conditions have to hold. Being exempt is not a reason to ignore accessibility completely, because growth can end the exemption and inaccessible checkouts lose orders either way." },
     { question: "Which WCAG level do I need for EAA compliance?", answer: "Level AA of WCAG 2.1 is the current benchmark named by ACM, linked through EN 301 549. ACM also says WCAG 2.2 level AA becomes the new standard during 2026, so any new design or rebuild should target 2.2 AA now. Our audits log 2.1 failures and flag the 2.2 additions, so the fixes cover both." },
-    { question: "How much does European Accessibility Act website compliance cost?", answer: `It depends on how many templates and components fail and why, so we quote remediation only after the audit, itemised in USD. As reference points, an accessible webshop rebuild starts from ${P.shop}, a static site from ${P.site} and a new app from ${P.app}. Maintenance with monthly regression checks starts from ${P.care} after 5 free months.` },
+    { question: "How much does European Accessibility Act website compliance cost?", answer: `It depends on how many templates and components fail and why, so we quote remediation only after the audit, itemised in USD. As reference points, an accessible webshop rebuild starts from ${P.shop}, a static site from ${P.site} and a new app from ${P.app}. Maintenance with monthly regression checks starts from ${P.care} after 2 free months.` },
     { question: "How long does it take to make a webshop EAA compliant?", answer: "A targeted fix of a mid-sized webshop typically takes two to five weeks from the start of the audit to the final retest. An accessible rebuild takes 4 to 8 weeks. The main variables are how many components fail, how fast you approve changes on staging, and how quickly your team can write alt text and captions for existing content." },
     { question: "Is an accessibility overlay enough for the European Accessibility Act?", answer: "No. ACM lists overlays among common accessibility problems, saying they can make access worse, and advises fixing problems at the source. An overlay does not change the HTML of your checkout or components. We audit with any overlay switched off, fix the real issues in your code, and then you can decide whether to keep paying for it." },
     { question: "What must an EAA accessibility statement contain?", answer: "It should explain how your service meets the accessibility requirements: the standard used, what conforms, what does not yet and when it will, and how customers can report barriers. ACM says it must be easy to find, accessible itself and also available orally, for instance as an audio recording. We draft it from the audit log; your lawyer approves it." },
@@ -505,7 +505,7 @@ const content: FreelanceContent = {
     { question: "How do payments and contracts work from the Netherlands?", answer: "You receive a written, itemised quote in USD in about two working days, and nothing is billed until you approve it. Payment is by Wise, bank wire or PayPal, and invoices come from India. If you need an NDA or data processing agreement, raise it before you share access; other terms are agreed in the written quote." },
     { question: "Do B2B webshops fall under the European Accessibility Act?", answer: "ACM frames its e-commerce guidance around services offered to consumers. A portal used only by registered business customers ordering on account may fall outside, but many wholesalers also sell to consumers or run mixed sites. Because the answer depends on how you actually trade, confirm your position with your lawyer before you spend on a full audit." },
     { question: "Can you write the Dutch version of my accessibility statement?", answer: "We write the statement draft in English based on the audit results. The Dutch version should be written or approved by you or a translator you trust, because the statement is a public commitment and must read naturally for Dutch customers. We then publish both versions on accessible pages and set up the spoken version, such as an audio clip." },
-    { question: "What happens to accessibility when we add new products or plug-ins?", answer: `New content and plug-ins are the main way compliance slips. We give your team a short editor guide and a plug-in checklist, and run monthly regression checks on checkout and changed templates. After a rebuild that is covered for 5 months free, then through maintenance starting from ${P.care}.` },
+    { question: "What happens to accessibility when we add new products or plug-ins?", answer: `New content and plug-ins are the main way compliance slips. We give your team a short editor guide and a plug-in checklist, and run monthly regression checks on checkout and changed templates. After a rebuild that is covered for 2 months free, then through maintenance starting from ${P.care}.` },
   ],
   related: {
     heading: "Related services for Dutch businesses",

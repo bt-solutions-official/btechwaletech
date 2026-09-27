@@ -34,13 +34,13 @@ const content: FreelanceContent = {
     ["Typical build", "2–3 weeks with price pages"],
     ["Large practice sites", `From ${P.seoSite} for 299+ pages`],
     ["Registered to", "Your firm: domain, hosting, files"],
-    ["After launch", "5 months of free changes"],
+    ["After launch", "2 months of free changes"],
     ["Quote", "Itemised in about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your firm’s site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free edits after launch" },
+    { value: "2", label: "Months of free edits after launch" },
     { value: "0", label: "Monthly platform rent to us" },
   ],
   answer: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Enquiry triage automation", note: "Enquiries sorted by practice area and urgency, with an acknowledgement that sets expectations and does not give advice.", href: "/uk/ai-automation-agency-alternative/", size: "md" },
       { name: "Appointment booking", note: "Consultation requests booked into slots your fee earners control, with reminders.", href: "/uk/booking-system-development/", size: "md" },
       { name: "Cookie banner and consent", note: "Non-essential scripts held back until the visitor agrees, with wording you approve.", href: "/uk/gdpr-cookie-banner-setup/", size: "sm" },
-      { name: "Care and updates", note: `Fee changes, new staff and page edits from ${P.care} after the free five months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Care and updates", note: `Fee changes, new staff and page edits from ${P.care} after the free two months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
       ["Accounts in the firm’s name", "Domain, hosting, Search Console and analytics are set up under the firm’s ownership, with two-factor sign-in on admin accounts."],
       ["Build and review in rounds", "Practice pages, price pages, profiles and the complaints page go onto a private link; your team and COLP review and approve."],
       ["Test badge, forms and devices", "SRA badge, enquiry routing, cookie consent and mobile layouts are tested and recorded on video for your records."],
-      ["Launch and five free months", "The site goes live, redirects are checked, and fee changes or new profiles are made free for five months."],
+      ["Launch and two free months", "The site goes live, redirects are checked, and fee changes or new profiles are made free for two months."],
     ],
   },
   faqHeading: "Solicitor website design: frequently asked questions",
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "Can clients book consultations through the website?", answer: "Yes. We can add consultation booking with slots your fee earners control, confirmation emails and reminders, or connect a booking tool you already use. For some practice areas a request form confirmed by your team works better, because it allows a conflict check before a meeting is booked." },
     { question: "Can you redesign our existing law firm website?", answer: "Yes. We audit the current pages against the Transparency Rules elements, rebuild on hosting registered to your firm, move content into the new price and practice page templates, and redirect old page addresses so existing links and search visibility carry over. Your team reviews every regulatory page before launch." },
     { question: "How do we pay for a website from the UK?", answer: "Quotes are in USD and invoices come from India. Your firm can pay by Wise, bank wire or PayPal. Payment stages are set out in the written quote and nothing is billed before you approve it. Our terms and refund policy pages describe the general arrangements; anything specific is agreed in your quote." },
-    { question: "What does a law firm website cost to run after launch?", answer: `Hosting and domain renewals, paid by your firm to the providers. Edits, fee updates and new profiles are free for five months after launch; after that, care starts at ${P.care}, or your team can edit pages directly. Monthly SEO starts at ${P.seo} if you want ongoing content and profile work.` },
+    { question: "What does a law firm website cost to run after launch?", answer: `Hosting and domain renewals, paid by your firm to the providers. Edits, fee updates and new profiles are free for two months after launch; after that, care starts at ${P.care}, or your team can edit pages directly. Monthly SEO starts at ${P.seo} if you want ongoing content and profile work.` },
   ],
   related: {
     heading: "More for UK law firms and professional practices",

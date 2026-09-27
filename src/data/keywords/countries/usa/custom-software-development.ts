@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering code, cloud and project management" },
     { value: "2", label: "Working days to an itemised phase-one estimate" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-seat fees on software you own" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Single integration or automation", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Systems we connect", value: "QuickBooks Online, HubSpot, Google Workspace, Microsoft 365, Shopify, Twilio and REST or GraphQL APIs" },
       { label: "Ownership", value: "Repository, cloud account and domain in your business name; custom code assigned in writing" },
-      { label: "After launch", value: `5 months of free maintenance, then support from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then support from ${P.care} a month` },
     ],
   },
   services: {
@@ -121,7 +121,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Compare the three-year cost of both paths, not the first invoice. Buying looks cheaper on day one; building often looks cheaper by year two or three when seat counts grow, but only if the software solves a stable, frequent problem.`,
         `Start with what you pay now. Add up subscription fees for every tool involved in the workflow, then multiply by the seats you expect in three years, not today. Next, estimate staff time lost to workarounds: if four people each spend three hours a week re-keying data, that is roughly 600 hours a year. Multiply by a loaded hourly cost you trust. Finally, add the cost of mistakes, such as a missed invoice or a double-booked crew.`,
-        `On the build side, take the estimate for phase one, add hosting and API fees, and add ongoing support. Our phase-one work starts at ${P.software} and support at ${P.care} a month after the five free months. If the build side comes out clearly lower over three years and the process is unlikely to change shape, build. If the numbers are close, buy and revisit later. That rule sounds conservative because it is: software you own is also software you must look after.`,
+        `On the build side, take the estimate for phase one, add hosting and API fees, and add ongoing support. Our phase-one work starts at ${P.software} and support at ${P.care} a month after the two free months. If the build side comes out clearly lower over three years and the process is unlikely to change shape, build. If the numbers are close, buy and revisit later. That rule sounds conservative because it is: software you own is also software you must look after.`,
       ],
       subs: [
         { heading: "A quick sanity check", text: "If you cannot describe the workflow on one page, it is not ready to be built. Spend a week writing it down before you pay anyone to code it." },
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
         "Weeks 3–6: build in weekly demos on a staging link",
         "Weeks 7–8: data migration, reconciliation and user testing",
         "Launch week: go-live, training call, parallel running",
-        "After launch: five months of free maintenance",
+        "After launch: two months of free maintenance",
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
         ["Build", "3–6", "Review a weekly staging demo, answer questions", "Working screens, integrations on test accounts"],
         ["Migration and testing", "7–8", "Reconcile migrated totals, test with real users", "Clean data in the new system, fix list closed"],
         ["Launch", "8+", "Run old and new side by side for a short period", "Live software, training call, handover document"],
-        ["Free maintenance", "5 months", "Report bugs and small issues", "Fixes, monitoring, backup checks"],
+        ["Free maintenance", "2 months", "Report bugs and small issues", "Fixes, monitoring, backup checks"],
       ],
     },
   ],
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
       ["Itemised phase-one estimate", "Within about two working days you get a USD estimate listing screens, roles, integrations, data work, running costs and exclusions. Nothing is billed before you approve it in writing."],
       ["Accounts in your name", "You create the repository, cloud and test accounts and invite our named logins. From this point every line of code lives in systems your business controls."],
       ["Weekly demos and migration", "Each week you click through progress on a staging link and send comments. Near the end we migrate a copy of real data and reconcile totals with you."],
-      ["Launch, training and support", "The software goes live with a training call and handover notes, followed by five months of free maintenance and optional monthly support after that."],
+      ["Launch, training and support", "The software goes live with a training call and handover notes, followed by two months of free maintenance and optional monthly support after that."],
     ],
   },
   faqHeading: "Custom software development company FAQs from US business owners",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "What time zone overlap will we have with a team in India?", answer: "US Eastern mornings line up with our IST evenings, which suits a weekly demo call and quick questions, and early Pacific calls are possible too. The rest of the work is asynchronous: you leave comments during your day and find answers and new builds the next morning. WhatsApp messages get replies seven days a week." },
     { question: "How do we pay a custom software team based in India?", answer: "You receive estimates and invoices in USD, issued from India, and pay by bank wire, Wise or PayPal. Nothing is billed before you approve the estimate in writing, and payment points follow the milestones listed in it. We do not advise on how you treat these payments for tax purposes; your accountant can confirm that." },
     { question: "Will you sign an NDA before we share our workflow?", answer: "Confidentiality is covered in writing before you share anything sensitive. If your business uses its own NDA template, send it with your first message and we will review it; any specific terms are agreed in your written quote. You can also share anonymised screenshots and sample data for the first conversation, which is often enough to estimate." },
-    { question: "What happens after the software launches?", answer: `You get five months of free maintenance after launch covering bugs, small adjustments and backup checks. After that, optional support starts at ${P.care} a month, or you can hand the documented code to your own developer at any time. New features are quoted as separate phases so ongoing costs never creep up without your approval.` },
+    { question: "What happens after the software launches?", answer: `You get two months of free maintenance after launch covering bugs, small adjustments and backup checks. After that, optional support starts at ${P.care} a month, or you can hand the documented code to your own developer at any time. New features are quoted as separate phases so ongoing costs never creep up without your approval.` },
     { question: "Can we start small and add features later?", answer: `Yes, and we recommend it. A first phase from ${P.software} covers one workflow end to end and goes into daily use before anything else is planned. Staff feedback then shapes phase two, which is quoted separately. Many businesses find phase one removes most of the manual work, and stop there or add only small improvements.` },
     { question: "What technology stack do you use for custom business software?", answer: "Usually React or Next.js for the screens, Node.js with TypeScript for the backend, PostgreSQL for data, and Python where analysis or machine learning is involved. Hosting runs in your AWS, Google Cloud or Vercel account. These are mainstream, well-documented tools, so any competent US developer could maintain the software if you ever change teams." },
     { question: "Can custom software replace our spreadsheets without losing them entirely?", answer: "Yes. We move the data into a proper database with validation, history and permissions, then keep scheduled exports or a live sync to Google Sheets for people who like to analyse in a spreadsheet. The difference is that the sheet becomes a view of the data, not the fragile master copy that one wrong paste can damage." },

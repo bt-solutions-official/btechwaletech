@@ -57,7 +57,7 @@ App Store), custom software/web apps, AI automation & AI agents, WhatsApp automa
 STARTING PRICES (use P.*): static website up to 100 pages from P.site (1–2 weeks); SEO website 700+ pages from P.seoSite
 (3–5 weeks); Android & iOS app from P.app (6–10 weeks); AI automation from P.ai (2–4 weeks); ecommerce from P.shop
 (4–8 weeks); custom web app/software from P.software (6–12 weeks); monthly SEO from P.seo; maintenance from P.care after
-5 months of free maintenance post-launch. USD equivalents: P.siteUsd etc.
+2 months of free maintenance post-launch. USD equivalents: P.siteUsd etc.
 PRICE RULE: every price is a starting price: "from", "starts at", "onwards". Never "fixed price", "flat", "package price".
 Market rates of other freelancers: say only that quotes vary widely and explain what drives the difference; never state
 competitor price figures.
@@ -71,7 +71,7 @@ competitor price figures.
   variant, city variants (Delhi, Mumbai, Bangalore, Pune, Hyderabad...), close synonyms relevant to THIS angle only.
 - hero: eyebrow (short), h1 containing the exact keyword naturally (not only the keyword), lede 60–90 words with the
   keyword in the first sentence, 6–7 pills, origin line.
-- facts: 6 [label, value] pairs. stats: 4 items (only true numbers: 3 developers, 2 working days quote, 5 months free
+- facts: 6 [label, value] pairs. stats: 4 items (only true numbers: 3 developers, 2 working days quote, 2 months free
   maintenance, 7 days a week WhatsApp, 0 platform fees, 100 pages in the static plan, etc.).
 - answer.heading: the searcher's core question as a question ("How much does a freelance web developer cost in India?").
   answer.text: 45–65 words, self-contained, direct answer first, includes starting price(s) — this is the AI Overview /

@@ -56,7 +56,7 @@ const arsikere: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and timing questions in Kannada and hand real negotiations back to you.",
     data: "Dashboards of copra lots bought and sold, average rates by week, farmer dues and buyer payments outstanding.",
     app: "Android and iOS apps for copra agents who buy in villages or for regular oil customers who re-order, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Arsikere traders deal in bags, weights and rates every day and notice when numbers do not add up. So we publish starting prices, send an itemised written quote, answer WhatsApp on all seven days, and put your domain, hosting, code and app store accounts in your own name. If something will not pay for itself, we tell you before you spend on it.",
@@ -187,7 +187,7 @@ const arsikere: CityContent = {
       heading: "You own it: ownership and maintenance for Arsikere websites and apps",
       paragraphs: [
         "Everything we build for an Arsikere business belongs to that business. The domain is registered on your email, the hosting account is in your name, the source code is handed over in full, and the Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no one, including us, can hold your site or app to ransom.",
-        "For five months after launch, maintenance is free. In that period we update rates and photographs, take backups, apply security and software updates, and regularly test forms, checkout and WhatsApp buttons. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
+        "For two months after launch, maintenance is free. In that period we update rates and photographs, take backups, apply security and software updates, and regularly test forms, checkout and WhatsApp buttons. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
         "Apps need attention every year even when nothing is broken, because Google and Apple keep raising the versions they accept. We watch those deadlines and release updates in good time, so your app is not removed from the store for being out of date.",
       ],
     },
@@ -270,7 +270,7 @@ const arsikere: CityContent = {
     {
       question: "What maintenance do I get after my website goes live?",
       answer:
-        "The first five months after launch are free: we update rates and photos, take backups, apply security updates and test forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month, handle it yourself, or move to another developer, since every account and all the code are already yours.",
+        "The first two months after launch are free: we update rates and photos, take backups, apply security updates and test forms, checkout and WhatsApp links. After that you can continue with us from ₹8,000 a month, handle it yourself, or move to another developer, since every account and all the code are already yours.",
     },
     {
       question: "Do you also work in Banavara, Javagal, Tiptur and Hassan?",

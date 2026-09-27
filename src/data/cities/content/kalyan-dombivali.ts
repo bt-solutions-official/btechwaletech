@@ -7,7 +7,7 @@ const kalyanDombivali: CityContent = {
   meta: {
     title: "Kalyan-Dombivali IT Services | Web, Apps, SEO & AI",
     description:
-      "Websites, Marathi-friendly SEO and WhatsApp automation for Kalyan and Dombivli clinics, classes, shops and MIDC units. From ₹10,000 with 5 months free upkeep.",
+      "Websites, Marathi-friendly SEO and WhatsApp automation for Kalyan and Dombivli clinics, classes, shops and MIDC units. From ₹10,000 with 2 months free upkeep.",
     keywords: [
       "website developer in Kalyan",
       "website design Dombivli",
@@ -31,11 +31,11 @@ const kalyanDombivali: CityContent = {
     eyebrow: "Kalyan-Dombivli · Maharashtra",
     h1: "Websites, SEO and automation for Kalyan and Dombivli businesses",
     lede:
-      "A remote team of three engineers building websites, online stores and WhatsApp automations for the Kalyan-Dombivli belt. That includes tuition classes near Birla College, clinics on Manpada Road, sweet shops by the station and chemical units in Dombivli MIDC. Our prices are public, replies come seven days a week, and your first five months of upkeep are free.",
+      "A remote team of three engineers building websites, online stores and WhatsApp automations for the Kalyan-Dombivli belt. That includes tuition classes near Birla College, clinics on Manpada Road, sweet shops by the station and chemical units in Dombivli MIDC. Our prices are public, replies come seven days a week, and your first two months of upkeep are free.",
     pills: ["Sites from ₹10,000", "Marathi and English pages", "Google Maps for your ward", "WhatsApp enquiry automation", "You own domain and code"],
   },
   quickAnswer:
-    "In Kalyan-Dombivli, a static business website with us starts at ₹10,000 and takes one to two weeks, and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000. We are three engineers working remotely with no local office, you own the domain and code, and five months of maintenance after launch is free.",
+    "In Kalyan-Dombivli, a static business website with us starts at ₹10,000 and takes one to two weeks, and a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000. We are three engineers working remotely with no local office, you own the domain and code, and two months of maintenance after launch is free.",
   snapshot: [
     { label: "Civic body", value: "Kalyan-Dombivli Municipal Corporation, Thane district" },
     { label: "Rail hubs", value: "Kalyan Junction and Dombivli station, both among the busiest on the Central line" },
@@ -52,10 +52,10 @@ const kalyanDombivali: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that handle fee, timing and availability questions in Marathi, Hindi or English.",
     data: "Admissions, sales and production numbers pulled together into a dashboard the owner can open on the morning commute.",
     app: "Android and iOS apps for student attendance, repeat orders and appointment booking, released on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and speed checks, free for five months after launch and ₹8,000 a month after.",
+    maintenance: "Updates, backups, security fixes and speed checks, free for two months after launch and ₹8,000 a month after.",
   },
   whyUsIntro:
-    "Kalyan and Dombivli have no shortage of people who will make a website, including many who work for large Mumbai firms and design sites on weekends. The trouble usually starts after launch, when their day job comes first. We are a dedicated three-person team: fixed starting prices, WhatsApp replies every day of the week and five months of free support.",
+    "Kalyan and Dombivli have no shortage of people who will make a website, including many who work for large Mumbai firms and design sites on weekends. The trouble usually starts after launch, when their day job comes first. We are a dedicated three-person team: fixed starting prices, WhatsApp replies every day of the week and two months of free support.",
   pricingIntro:
     "Website pricing across the Kalyan-Dombivli belt ranges from bargain offers to Mumbai agency rates, with little explanation either way. These are our genuine starting figures. The final number depends on pages, features and how much of the content you can supply, and you see it line by line before paying anything.",
   sections: [
@@ -168,7 +168,7 @@ const kalyanDombivali: CityContent = {
       paragraphs: [
         "A common story in Kalyan-Dombivli: a website was built years ago by a neighbour's son or a part-time freelancer who has since moved on. The domain is in his name, the hosting account renews on his card, and when it lapses the business loses its email and website at the same moment. Recovering it can take weeks.",
         "We avoid this by making you the owner from the start. The domain is registered to you, hosting sits on your account, and at launch you receive every login, the source code and a short guide to how the site is set up. You can move to another developer at any time without an exit fee.",
-        "Maintenance is free for five months after launch. That covers content and price updates, fixes, security updates, backups, uptime monitoring and speed checks. After that, it costs from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Maintenance is free for two months after launch. That covers content and price updates, fixes, security updates, backups, uptime monitoring and speed checks. After that, it costs from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const kalyanDombivali: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks without charge. After that, maintenance costs from ₹8,000 a month, or you can reach out only when you need something changed.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks without charge. After that, maintenance costs from ₹8,000 a month, or you can reach out only when you need something changed.",
     },
     {
       question: "Do you also work with businesses in Thane, Bhiwandi and Titwala?",

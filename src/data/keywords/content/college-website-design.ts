@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Admission portal from", `${P.software}`],
     ["Disclosure pages", "Open access, no login, searchable"],
     ["Written quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "0", label: "Logins needed to read disclosures" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "2", label: "Working days to your itemised quote" },
   ],
   answer: {
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, college website design for a typical college with several departments starts at ${P.seoSite} (about ${P.seoSiteUsd}) in the SEO website plan, because page counts pass 299 once faculty profiles, disclosures and year-wise documents are included. A smaller institute with a few programmes can start at ${P.site}. Quotes elsewhere vary widely; compare what each includes for disclosures, editing roles and migration.`,
         `The biggest cost drivers are content migration (moving and restructuring years of PDFs and notices), the number of departments and faculty profiles, role-based editing for many staff, and bilingual pages. The admission portal is priced separately as a custom web app from ${P.software}, because it involves payments, document verification and merit logic.`,
-        `Other options: a student or campus app starts at ${P.app}; an AI assistant that answers admission questions on WhatsApp from your published information starts at ${P.ai}; monthly SEO from ${P.seo}; maintenance after the five free months from ${P.care}. Plans are on our <a href='/pricing/'>pricing page</a>.`,
+        `Other options: a student or campus app starts at ${P.app}; an AI assistant that answers admission questions on WhatsApp from your published information starts at ${P.ai}; monthly SEO from ${P.seo}; maintenance after the two free months from ${P.care}. Plans are on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       id: "handover-checklist",
       heading: "College website design checklist: ownership, handover and red flags",
       paragraphs: [
-        `The domain, hosting, Google Search Console, analytics and all code belong to the college, registered in the institution’s name from day one, with editor accounts for staff and a written guide. Five months of free maintenance follow launch; after that, maintenance is optional from ${P.care}. Payments are by UPI or bank transfer against milestones in the approved quote, as set out in our <a href='/terms/'>terms</a>.`,
+        `The domain, hosting, Google Search Console, analytics and all code belong to the college, registered in the institution’s name from day one, with editor accounts for staff and a written guide. Two months of free maintenance follow launch; after that, maintenance is optional from ${P.care}. Payments are by UPI or bank transfer against milestones in the approved quote, as set out in our <a href='/terms/'>terms</a>.`,
         `We are three freelance developers: Ankur builds the site and portal, Santosh handles hosting, data and technical SEO, and Vedansh runs the project plan and editor training. We do not visit campus, take photographs, write regulatory submissions or give compliance advice; your principal and IQAC coordinator approve every disclosure.`,
       ],
       list: [
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["Student or campus app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Notices, timetables and attendance on phones"],
         ["Admission enquiry assistant on WhatsApp", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High enquiry volumes in season"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Programme pages and admission season"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Updates, security, editor support"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Updates, security, editor support"],
       ],
       hideSm: [2],
     },
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Collect content department by department", "Each department receives a simple content sheet for programmes, labs and faculty profiles; the office supplies disclosures, fees and committee lists."],
       ["Review on a private preview", "Your principal, IQAC coordinator and department heads check pages on a preview link, and we correct gaps before anything goes public."],
       ["Migrate, train editors and launch", "Old documents move to permanent URLs, redirects are added, editors are trained by video call, and the site goes live in the college’s own accounts."],
-      ["Support through the first five months", "Free maintenance covers fixes, small changes and editor questions during the first admission cycle after launch."],
+      ["Support through the first two months", "Free maintenance covers fixes, small changes and editor questions during the first admission cycle after launch."],
     ],
   },
   faqHeading: "College website design: questions colleges ask",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "Will the site stay up on result day or admission deadlines?", answer: "Public pages are served as cached files through a content delivery network, so traffic spikes do not overload the server, and the admission portal is sized for the final days before deadlines. Hosting is in your own cloud account with backups and uptime alerts." },
     { question: "How is student and applicant data protected?", answer: "Access to applicant data is restricted by role, connections are encrypted, documents are stored in private storage, and office actions are logged. We collect only the fields your admission process needs. Your institution sets retention and consent practices in line with the Digital Personal Data Protection Act, 2023, with sign-off from its own legal adviser." },
     { question: "What do you need from us to start?", answer: "Your list of departments and programmes, approval and affiliation details, the current website link, existing disclosure documents, NAAC and NIRF files, fee structures, faculty lists with photographs, committee lists, logos and brand colours, and the names of staff who will edit each section." },
-    { question: "How do payments and maintenance work?", answer: `Institutions in India pay by UPI or bank transfer against milestones in the approved estimate; overseas institutions pay by Wise, wire or PayPal in USD. Nothing is billed before written approval. Five months of free maintenance follow launch, then maintenance is optional from ${P.care}. Any refund terms are written into the quote and our refund policy page.` },
+    { question: "How do payments and maintenance work?", answer: `Institutions in India pay by UPI or bank transfer against milestones in the approved estimate; overseas institutions pay by Wise, wire or PayPal in USD. Nothing is billed before written approval. Two months of free maintenance follow launch, then maintenance is optional from ${P.care}. Any refund terms are written into the quote and our refund policy page.` },
     { question: "College ki website banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath college website design ${P.seoSite} se start hota hai, kyunki departments, faculty profiles aur disclosure documents milakar pages 299 se zyada ho jaate hain. Chhote institute ${P.site} se shuru kar sakte hain. Online admission portal ${P.software} se start hota hai, aur itemised quote lagbhag do working days me milta hai.` },
   ],
   related: {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a college website that reviewers can check and students can use?",
-    note: `Send your departments, programmes and current website link on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.seoSite} for most colleges, with the domain, hosting and code in the institution’s name and five months of free maintenance after launch.`,
+    note: `Send your departments, programmes and current website link on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.seoSite} for most colleges, with the domain, hosting and code in the institution’s name and two months of free maintenance after launch.`,
   },
 };
 

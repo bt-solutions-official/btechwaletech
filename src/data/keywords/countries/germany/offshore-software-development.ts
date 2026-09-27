@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers, each able to read the whole codebase" },
     { value: "2", label: "Working days to an itemised pilot estimate" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Team size ceiling", "Medium to large", "Large", "Three people; not for 20-developer programmes"],
       ["Language", "English, sometimes German", "English", "English and Hindi; German texts come from you"],
       ["Price basis", "EU day rates", "Rate cards per role", `Itemised quote, custom software from ${P.software}`],
-      ["After go-live", "Support contract", "Support contract", `5 months free, then from ${P.care}`],
+      ["After go-live", "Support contract", "Support contract", `2 months free, then from ${P.care}`],
     ],
     fine: "If your purchasing rules require a supplier registered in Germany, on-site workshops or a large team with guaranteed headcount, a German or nearshore provider will suit you better than a three-person freelance group.",
   },
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "What does offshore software development cost for a German firm?",
       paragraphs: [
-        `With BtechWaleTech custom software starts at ${P.software} for 6–12 weeks of work, AI automation at ${P.ai}, and maintenance at ${P.care} after five free months. Offshore providers and German agencies quote very differently, and the difference mostly reflects overheads, team structure and risk margin rather than the quality of individual developers.`,
+        `With BtechWaleTech custom software starts at ${P.software} for 6–12 weeks of work, AI automation at ${P.ai}, and maintenance at ${P.care} after two free months. Offshore providers and German agencies quote very differently, and the difference mostly reflects overheads, team structure and risk margin rather than the quality of individual developers.`,
         `The things that really move a quote for offshore software development are the same everywhere, so understanding them lets you shrink the scope on purpose:`,
       ],
       list: [
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
         ["First full release", "Core roles, integrations, migration", `From ${P.software}`, "6–12 weeks"],
         ["Automation add-on", "Document capture, email triage, reports", `From ${P.ai}`, "2–4 weeks"],
         ["Mobile companion app", "Flutter or React Native on the same API", `From ${P.app}`, "6–10 weeks"],
-        ["Maintenance", "Updates, fixes, small changes", `From ${P.care} after 5 free months`, "Monthly"],
+        ["Maintenance", "Updates, fixes, small changes", `From ${P.care} after 2 free months`, "Monthly"],
       ],
     },
     {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Paperwork with your DPO", "Your side sends the AVV, SCC module and security questionnaire. We answer in writing, and the contract names exclusive usage rights and source-code ownership."],
       ["Accounts and staging", "Your IT team gives us personal accounts in Git, cloud and ticketing. We set up staging with generated data and a deployment pipeline you control."],
       ["Build with weekly demos", "Work arrives in small, reviewable pieces. Every week you see progress on staging during the German morning, with written notes after each call."],
-      ["Go-live, handover and review", `Production release in your EU account, handover documentation and a retrospective. Five months of maintenance are free, then from ${P.care} if you want it.`],
+      ["Go-live, handover and review", `Production release in your EU account, handover documentation and a retrospective. Two months of maintenance are free, then from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Offshore software development in Germany: frequently asked questions",
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
     { question: "Who owns the source code when we outsource offshore?", answer: "Under German law copyright itself cannot be transferred; you receive usage rights. Because § 69b UrhG only gives employers automatic rights over employees' code, a contract with external developers must grant exclusive usage rights for all known types of use. With BtechWaleTech the repository is in your organisation from the first day." },
     { question: "Why is the word Nutzungsrechte so important in German software contracts?", answer: "Because § 29 UrhG allows only the granting of usage rights, and § 31(5) UrhG says that if the types of use are not listed, the purpose of the contract decides their scope. A clause that names exclusive, transferable rights, including editing and further development, avoids arguments later. Your lawyer should approve the exact wording." },
     { question: "Do invoices from India include German VAT?", answer: "Usually not. Under § 13b UStG, when a supplier based abroad provides services to a German entrepreneur or legal entity, the recipient normally owes the VAT through the reverse-charge procedure. Our invoices are issued from India in USD. How your company books them is for your Steuerberater to decide; we do not give tax advice." },
-    { question: "How much does offshore software development cost?", answer: `With BtechWaleTech custom software starts at ${P.software} for 6–12 weeks, AI automation at ${P.ai} and maintenance at ${P.care} after five free months. Quotes from other providers vary widely. The real cost drivers are user roles, integrations, data migration, reporting and documentation depth, so an itemised estimate is the only fair comparison.` },
+    { question: "How much does offshore software development cost?", answer: `With BtechWaleTech custom software starts at ${P.software} for 6–12 weeks, AI automation at ${P.ai} and maintenance at ${P.care} after two free months. Quotes from other providers vary widely. The real cost drivers are user roles, integrations, data migration, reporting and documentation depth, so an itemised estimate is the only fair comparison.` },
     { question: "What is the time difference between India and Germany?", answer: "India is 4.5 hours ahead of Germany in winter (CET) and 3.5 hours ahead in summer (CEST), because India does not use daylight saving. A 9:30 stand-up in Germany is 14:00 or 13:00 in India. Calls work best from the German morning to mid-afternoon, and WhatsApp messages are answered seven days a week." },
     { question: "Should we start with a pilot project?", answer: "Yes. A pilot of four to six weeks with one real deliverable tests communication, estimates, code quality and documentation before you commit further. Run it on your own repository and cloud account, and agree exit criteria in advance. If it does not work out, you still keep the working software and its source code." },
     { question: "Is offshore software development suitable for the Mittelstand?", answer: "It suits Mittelstand firms that have one internal owner who can answer questions and make decisions, and processes that can be described in writing. Internal tools, portals, integrations and legacy modernisation are typical. It suits less well when nobody has time for the project or when the work requires regular presence on site." },
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Can an offshore team work inside our existing codebase?", answer: "Yes, if the code can be built and run from its repository with reasonable documentation. We usually start with a short audit, then take bounded tasks with pull requests reviewed by your team. If the codebase has no tests or build instructions, writing those first is often the best use of the pilot." },
     { question: "What languages do you work in?", answer: "We work in English and Hindi. Calls, documentation and code comments are in English. German interface texts, user manuals and legal texts come from your team or a translator you choose; we build the software so German text fits the layouts and can be changed without new code." },
     { question: "How do payments work from Germany?", answer: "We quote in USD. You pay per milestone in USD or EUR by Wise or bank wire, and invoices are issued from India. Each milestone ends with something you can check on staging or in production. Nothing is billed before you approve the itemised estimate in writing, and the payment schedule is part of the quote." },
-    { question: "What happens after go-live?", answer: `Maintenance is free for five months after release: fixes, dependency updates and small adjustments. After that it starts at ${P.care}, and you can stop it any time. Because the code, documentation and cloud accounts are yours, any other developer can take over the software without our involvement.` },
+    { question: "What happens after go-live?", answer: `Maintenance is free for two months after release: fixes, dependency updates and small adjustments. After that it starts at ${P.care}, and you can stop it any time. Because the code, documentation and cloud accounts are yours, any other developer can take over the software without our involvement.` },
     { question: "Can you add AI automation to our software?", answer: `Yes. Typical additions are capturing incoming invoices, sorting emails, drafting quotes and generating reports. AI automation starts at ${P.ai}. For German firms we prefer model providers with EU data options, and each provider becomes a sub-processor your DPO needs to approve.` },
     { question: "Will your team talk to our works council?", answer: "We can supply the technical facts a works council usually asks about: what data the software records about employees, who can see it and how long it is kept. Discussions with the Betriebsrat are your company's responsibility, and we build features such as logging and reporting so they match what was agreed." },
     { question: "What will you not do on an offshore project?", answer: "We do not visit sites, supply hardware, write German marketing or legal texts, give legal or tax advice, or staff programmes that need a dozen developers. We are three freelance developers who build, document and maintain software remotely, and we say early if a project needs something we cannot provide." },

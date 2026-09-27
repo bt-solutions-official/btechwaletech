@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks"],
     ["Payments", "Card and wallet checkout in GBP, deposits or full"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", `5 months free fixes, then care from ${P.care}`],
+    ["After launch", `2 months free fixes, then care from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Commission taken on your bookings" },
@@ -138,7 +138,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Compare the total you would pay an off-the-shelf booking tool over three years (subscription, per-staff charges, add-ons, commission, message bundles) with a custom build plus hosting and support over the same period. Use each vendor’s current published pricing; we do not quote other providers’ prices because plans change.`,
         `Fee structures differ. Some tools charge a monthly plan that rises with staff members or bookings; some charge per feature; marketplace-style apps may take a fee or commission on bookings they bring you. Payment processing is charged on top by almost everyone, including on a custom system, so leave card fees out of the comparison unless the rates differ.`,
-        `On the custom side, the build starts at ${P.software}; hosting for a booking system serving one business is typically modest and billed by your provider; SMS and WhatsApp messages have per-message charges from the messaging provider; and care after the five free months starts at ${P.care} if you want it.`,
+        `On the custom side, the build starts at ${P.software}; hosting for a booking system serving one business is typically modest and billed by your provider; SMS and WhatsApp messages have per-message charges from the messaging provider; and care after the two free months starts at ${P.care} if you want it.`,
         `Custom tends to win for businesses with many staff, high booking volumes, commission-based fees, or add-ons stacked on to get the features they need. It rarely wins for a small studio on an entry plan. Put real numbers in both columns before deciding.`,
       ],
     },
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Venue or hire system with staged payments", "Event spaces, hire firms", `From ${P.software}`, "8–12 weeks"],
         ["Customer or staff mobile app", "High repeat use, field staff", `From ${P.app}`, "6–10 weeks"],
         ["Booking-led website", "New businesses needing a site too", `From ${P.site}`, "1–2 weeks for the site"],
-        ["Care after 5 free months", "Any booking system", `From ${P.care}`, "Monthly"],
+        ["Care after 2 free months", "Any booking system", `From ${P.care}`, "Monthly"],
       ],
     },
     {
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Flow design", "Clickable wireframes of the booking steps, confirmation messages and staff admin. Your team tests them on phones and we refine wording before building."],
       ["Build and integrations", "Availability engine, payments, reminders and calendar sync built on a staging site in short cycles, each one demonstrated with realistic test bookings."],
       ["Scenario testing and launch", "Live test payments and refunds, every cancellation case, clock-change dates and simultaneous bookings tested. New bookings move to the system; existing ones finish on the old tool."],
-      ["Support and tuning", "Five months of free fixes. We review no-show and utilisation reports with you after the first month and adjust reminder timing or rules if needed."],
+      ["Support and tuning", "Two months of free fixes. We review no-show and utilisation reports with you after the first month and adjust reminder timing or rules if needed."],
     ],
   },
   faqHeading: "Custom booking system development: questions UK businesses ask",

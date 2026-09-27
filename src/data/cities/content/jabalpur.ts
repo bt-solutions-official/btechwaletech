@@ -32,10 +32,10 @@ const jabalpur: CityContent = {
     h1: "Web development and local SEO for Jabalpur, from Gohalpur to Gwarighat",
     lede:
       "A three-engineer remote team building websites, online catalogues and WhatsApp automation for Sanskardhani's garment makers, defence-sector suppliers, hospitals, advocates, schools and the tour operators who send travellers to Bhedaghat and Kanha. Prices are published, you talk to the people writing the code, and the site is yours.",
-    pills: ["Sites from ₹10,000", "Garment catalogues", "Tourism booking pages", "Hindi and English SEO", "5 months free maintenance"],
+    pills: ["Sites from ₹10,000", "Garment catalogues", "Tourism booking pages", "Hindi and English SEO", "2 months free maintenance"],
   },
   quickAnswer:
-    "In Jabalpur, our websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office. Each project includes hosting in your name, SEO basics and five months of free maintenance.",
+    "In Jabalpur, our websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office. Each project includes hosting in your name, SEO basics and two months of free maintenance.",
   snapshot: [
     { label: "Markets and business areas", value: "Wright Town, Napier Town, Civil Lines, Sadar, Bada Fuhara and Kamania Gate" },
     { label: "Defence manufacturing", value: "Gun Carriage Factory, Ordnance Factory Khamaria, Vehicle Factory Jabalpur and Grey Iron Foundry" },
@@ -52,10 +52,10 @@ const jabalpur: CityContent = {
     ai: "WhatsApp automation that logs wholesale orders from retailers in Katni, Mandla and Seoni and answers repeated tour-package questions without tying up staff.",
     data: "Production, dispatch and receivables dashboards for manufacturers who currently rely on registers and end-of-month Tally exports.",
     app: "Android and iOS apps for sales agents booking garment orders on the road and for guests checking safari and hotel bookings, from ₹40,000.",
-    maintenance: "Catalogue updates, festival offers, backups and security patches free for five months, and from ₹8,000 a month afterwards.",
+    maintenance: "Catalogue updates, festival offers, backups and security patches free for two months, and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Jabalpur has plenty of people who will make you a website, from agencies near Napier Town to students at the engineering colleges. We differ in a few concrete ways: published prices, the domain and code in your name, WhatsApp replies seven days a week, and five months of free maintenance after launch.",
+    "Jabalpur has plenty of people who will make you a website, from agencies near Napier Town to students at the engineering colleges. We differ in a few concrete ways: published prices, the domain and code in your name, WhatsApp replies seven days a week, and two months of free maintenance after launch.",
   pricingIntro:
     "Most Jabalpur web designers quote only after a meeting, and the numbers vary a lot for the same work. Here are our starting prices in the open. The final amount depends on the number of pages or products, the features you want and how much content is ready, and you see an itemised quote before any work begins.",
   sections: [
@@ -168,7 +168,7 @@ const jabalpur: CityContent = {
       paragraphs: [
         "Lost access is one of the most common problems we see with older Jabalpur websites. The site was made years ago, the developer has moved away, and nobody knows who controls the domain. When the renewal is missed, the site goes dark, and customers who search for you find nothing, or worse, someone else.",
         "We register the domain in your name, set up hosting on your own account and hand over every login at launch, along with a short note explaining how things fit together. You also get the source code. If you decide to move to another developer, you can do so freely, with no exit charge and no need for our permission.",
-        "For five months after launch, maintenance is free: content and price changes, bug fixes, security and software updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need something changed.",
+        "For two months after launch, maintenance is free: content and price changes, bug fixes, security and software updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need something changed.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const jabalpur: CityContent = {
         "Yes. The domain is registered in your name, hosting runs on your own account, and you get every login and the complete source code at launch. You can switch developers whenever you like with no exit fee and no need to ask us.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You can continue maintenance from ₹8,000 a month, which covers updates, backups, security fixes and speed checks. Or you can stop the plan and contact us only when something needs changing, paying for that work alone. Because hosting is in your name, the site keeps running either way.",
     },

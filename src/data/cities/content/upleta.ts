@@ -56,7 +56,7 @@ const upleta: CityContent = {
     ai: "Gujarati WhatsApp assistants that answer tin rates, stock and timing questions and send real decisions to the owner.",
     data: "Dashboards of groundnut bought, oil and cake produced, dealer dues and daily sales, built from your existing sheets.",
     app: "Android and iOS apps for dealers re-ordering oil tins or parents following school notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for edits, backups and security work.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for edits, backups and security work.",
   },
   whyUsIntro:
     "Upleta's trading families bargain carefully and keep long relationships with people who deliver. Our side of that bargain is simple: public starting prices, a quote in writing with every item priced, replies on WhatsApp all week, and domain, hosting, code and app store accounts opened in your firm's name. If a feature will not earn its cost, we advise against it.",
@@ -169,7 +169,7 @@ const upleta: CityContent = {
       heading: "Ownership and upkeep for Upleta websites and apps",
       paragraphs: [
         "Small-town businesses often discover, years later, that their domain was registered by the designer and cannot be renewed without him. With us that does not happen. The domain, hosting, full source code, Google Business Profile and both app store developer accounts are created under your firm's name, and a written list of every login is handed over on launch day.",
-        "For five months after launch, upkeep is free: changes to text and rates, backups, security patches, software updates, and regular tests of forms, payment links and WhatsApp buttons. From month six, continuing care is optional and starts at ₹8,000 a month. You may move the work to any other developer whenever you like.",
+        "For two months after launch, upkeep is free: changes to text and rates, backups, security patches, software updates, and regular tests of forms, payment links and WhatsApp buttons. From month three, continuing care is optional and starts at ₹8,000 a month. You may move the work to any other developer whenever you like.",
         "Apps need attention every year because Google and Apple revise their technical and privacy rules. We watch for those changes and update your app before any deadline, so it stays live in both stores. A short setup note is included at handover, so a future developer can take over without guesswork.",
       ],
     },
@@ -266,7 +266,7 @@ const upleta: CityContent = {
     {
       question: "What happens after my website is launched?",
       answer:
-        "The first five months of upkeep are included: edits, backups, security patches, software updates and routine tests of forms, payment links and WhatsApp buttons. After that, continued care begins at ₹8,000 a month and is optional. You can also hand your code to a different developer whenever you choose.",
+        "The first two months of upkeep are included: edits, backups, security patches, software updates and routine tests of forms, payment links and WhatsApp buttons. After that, continued care begins at ₹8,000 a month and is optional. You can also hand your code to a different developer whenever you choose.",
     },
     {
       question: "Do you work in Dhoraji, Bhayavadar and Jetpur too?",

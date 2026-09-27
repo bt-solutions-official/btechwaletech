@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Secure assessment and review dashboard", `From ${P.software}`],
     ["WhatsApp follow-up automation", `From ${P.ai}`],
     ["Scalp photos stored", "Private storage in your account, never public links"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and maintain your site" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Per-lead fees charged by us" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How should a hair transplant clinic website be built to get graft and cost enquiries?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Out-of-town patient help", note: "Travel page, nearby stay options, procedure-day schedule, airport or station directions, and a checklist of what to bring.", size: "md" },
       { name: "WhatsApp lead follow-up", note: `Instant acknowledgement, photo reminders for incomplete forms, and consultation reminders through the official WhatsApp Business API, from ${P.ai}.`, href: "/whatsapp-business-api-integration/", size: "sm" },
       { name: "Procedure and city SEO pages", note: `Pages for “hair transplant in [city]”, crown restoration, beard transplant and repair cases, built from structured data from ${P.seoSite}; monthly SEO from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Upkeep and security", note: `Patched software, backups and form monitoring, free for five months, then from ${P.care}.`, href: "/website-security-freelancer/", size: "sm" },
+      { name: "Upkeep and security", note: `Patched software, backups and form monitoring, free for two months, then from ${P.care}.`, href: "/website-security-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -210,7 +210,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a hair transplant clinic website starts at ${P.site} for explainers, doctor profile, results and an enquiry form; ${P.seoSite} for a procedure and city page build; and ${P.software} for a secure photo-assessment workflow with a doctor dashboard. In US dollars those start at ${P.siteUsd}, ${P.seoSiteUsd} and ${P.softwareUsd}.`,
         `The quote moves with the number of technique and procedure pages, how many cities you target, whether you want a graft calculator, the depth of the review dashboard, video hosting, languages, and WhatsApp automation from ${P.ai}. Medical copy, photography and video shoots are provided or arranged by your clinic.`,
-        `Recurring costs are paid directly by you: domain, hosting, storage for photos and video, and any WhatsApp message charges. Maintenance is free for five months after launch and then starts at ${P.care}. Monthly SEO, if you want ongoing help, starts at ${P.seo}.`,
+        `Recurring costs are paid directly by you: domain, hosting, storage for photos and video, and any WhatsApp message charges. Maintenance is free for two months after launch and then starts at ${P.care}. Monthly SEO, if you want ongoing help, starts at ${P.seo}.`,
         `Other developers quote very differently for the same brief, mostly depending on whether photo handling and lead tracking are included. Compare scope line by line. Our <a href='/website-developer-cost/'>website developer cost</a> page lists typical items.`,
       ],
     },
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The clinic owns everything: domain, hosting, code, photo storage, enquiry records and consent logs, all in accounts under the clinic’s name. We work with access you can revoke at any time.`,
         `At handover you receive admin logins for each staff role, a recorded walkthrough of reviewing a case and replying with an estimate, and written notes on editing prices, adding a result and removing a patient’s images if consent is withdrawn. If you ever change developers, the new team starts with complete access and documentation.`,
-        `Maintenance is free for five months after launch, covering fixes, security updates and small changes. After that it starts at ${P.care}. Payment for the build is by UPI or bank transfer in stages written into the quote, or by Wise, wire or PayPal for clinics outside India; nothing is billed before your written approval. If you need particular confidentiality terms for patient data access, tell us and we will agree them in the quote.`,
+        `Maintenance is free for two months after launch, covering fixes, security updates and small changes. After that it starts at ${P.care}. Payment for the build is by UPI or bank transfer in stages written into the quote, or by Wise, wire or PayPal for clinics outside India; nothing is billed before your written approval. If you need particular confidentiality terms for patient data access, tell us and we will agree them in the quote.`,
       ],
     },
     {
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
         `Imagine a hypothetical hair transplant clinic in Hyderabad run by one surgeon with a small team. Most enquiries arrive as WhatsApp messages asking “price?”, with no photos. Patients from Vijayawada, Warangal and the Gulf ask the same travel questions again and again.`,
         `The clinic wants: FUE, FUT and DHI pages written with the surgeon; a four-angle photo assessment with private storage; a dashboard where the surgeon adds a graft range and the coordinator sends the estimate; a cost-per-graft page; consented results; and a travel page with a procedure-day schedule and stay options.`,
         `A sensible plan would combine an SEO procedure and city page build from ${P.seoSite} with the assessment workflow and dashboard as custom software from ${P.software}, then WhatsApp follow-ups from ${P.ai} once the process settles. Estimated time: around eight to ten weeks, with the technique pages live first so search can start working while the dashboard is built.`,
-        `After launch, the coordinator edits prices and adds results in the admin, and the five free months of maintenance cover fixes. This scenario is illustrative only, not a past client or a forecast of leads.`,
+        `After launch, the coordinator edits prices and adds results in the admin, and the two free months of maintenance cover fixes. This scenario is illustrative only, not a past client or a forecast of leads.`,
       ],
     },
   ],
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Medical content with your surgeon", "We draft technique, cost and recovery pages in plain language; your doctor corrects and approves each one before it goes live."],
       ["Assessment and dashboard build", "The photo upload, private storage, consent step and doctor review screen are built and tested on staging with your team’s own test cases."],
       ["Launch and staff walkthrough", "We connect the domain, switch on live forms and train your coordinator and doctor on a recorded call covering replies, statuses and consent removal."],
-      ["Five months of upkeep", "Fixes, updates and small changes are free for five months after launch; ongoing maintenance then continues from the starting price in your quote."],
+      ["Two months of upkeep", "Fixes, updates and small changes are free for two months after launch; ongoing maintenance then continues from the starting price in your quote."],
     ],
   },
   faqHeading: "Hair transplant clinic website questions",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Can you run ads for our hair transplant clinic?", answer: "We do not run ad campaigns. We build the website, landing pages, assessment forms and tracking so that ads run by your team or a marketing partner send people to pages that convert. We can set up conversion tracking so you see which campaigns lead to completed assessments rather than just clicks." },
     { question: "Who owns the hair transplant clinic website and data?", answer: "The clinic owns the domain, hosting, code, photo storage, enquiry records and consent logs, all set up in the clinic’s name. We work with access you can revoke. At handover you get logins for each role, a recorded walkthrough and written notes, so any developer can take over later." },
     { question: "Can the website be in Hindi or regional languages?", answer: "Yes. Technique pages, the cost page and the assessment form can be offered in Hindi and English, and in other languages if your team supplies or approves translations. Simple language in the photo instructions matters most, because unclear instructions are the main reason uploads are unusable." },
-    { question: "What maintenance does a clinic website need after launch?", answer: `Software updates, backups, form monitoring, price edits and new results. The first five months after launch are free. After that, maintenance starts at ${P.care}. Your staff can change prices, add results and manage cases in the admin without a developer, and we reply on WhatsApp seven days a week.` },
+    { question: "What maintenance does a clinic website need after launch?", answer: `Software updates, backups, form monitoring, price edits and new results. The first two months after launch are free. After that, maintenance starts at ${P.care}. Your staff can change prices, add results and manage cases in the admin without a developer, and we reply on WhatsApp seven days a week.` },
     { question: "How do clinics pay for the website build?", answer: "Clinics in India pay by UPI or bank transfer in stages set out in the written quote. Clinics abroad pay by Wise, bank wire or PayPal, quoted in USD. Nothing is billed before your written approval. Confidentiality terms around patient data access can be agreed in the quote; our published terms cover the basics." },
   ],
   related: {

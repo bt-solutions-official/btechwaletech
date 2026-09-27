@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Multi-campus or large ministry site", `From ${P.seoSite}`],
     ["Giving platform fees", "Paid by the church to its provider; no markup from us"],
     ["Visitor question assistant", `From ${P.ai}`],
-    ["After launch", `5 months free, then care from ${P.care}`],
+    ["After launch", `2 months free, then care from ${P.care}`],
     ["Meeting times", "Eastern mornings, or a weekday evening call to India"],
   ],
   stats: [
     { value: "3", label: "Developers working on your church site" },
     { value: "2", label: "Working days until your itemized quote" },
-    { value: "5", label: "Months of free changes after launch" },
+    { value: "2", label: "Months of free changes after launch" },
     { value: "100", label: "Pages included in the starting plan" },
   ],
   answer: {
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     columns: ["Question", "Church website builder subscription", "Volunteer-built site", "BtechWaleTech build"],
     rows: [
       ["Up-front cost", "Low or none", "None, besides time", `From ${P.site}, one time`],
-      ["Ongoing cost", "Monthly subscription for as long as you use it", "Hosting, plus the volunteer’s goodwill", "Hosting you pay directly; care optional after 5 free months"],
+      ["Ongoing cost", "Monthly subscription for as long as you use it", "Hosting, plus the volunteer’s goodwill", "Hosting you pay directly; care optional after 2 free months"],
       ["Design", "Church templates shared by many congregations", "Depends on the volunteer", "Designed around your photos, building and tone"],
       ["Sermon library", "Usually built in", "Often a list of links", "Filterable by series, speaker and passage"],
       ["Giving", "Often tied to the builder’s own giving tool", "A link to the provider", "Any provider you already use, embedded"],
@@ -185,7 +185,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, church website design starts at ${P.site} for a site of up to 100 pages and ${P.seoSite} for multi-campus churches or large ministry sites. Hosting, the domain, your giving platform and streaming tools are paid by the church directly.`,
         `Churches often compare that with a monthly church website builder. Neither is wrong. A builder spreads the cost over time and bundles tools; a one-time build costs more at the start but less over five years and belongs entirely to the church. Put both side by side for a five-year total, including any giving-tool fees, and ask what happens to your content if you leave.`,
-        `What moves our quote: how many ministry pages you need, whether sermons are already on YouTube or need importing from an old site, church management system integration, a second language, and extras like event ticket checkout from ${P.shop} or a visitor question assistant from ${P.ai}. After the five free months, care is optional from ${P.care}. You approve an itemized quote before any billing; the <a href='/pricing/'>pricing page</a> shows all plans.`,
+        `What moves our quote: how many ministry pages you need, whether sermons are already on YouTube or need importing from an old site, church management system integration, a second language, and extras like event ticket checkout from ${P.shop} or a visitor question assistant from ${P.ai}. After the two free months, care is optional from ${P.care}. You approve an itemized quote before any billing; the <a href='/pricing/'>pricing page</a> shows all plans.`,
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a made-up scenario to show the process, not a client story. Imagine a 150-member congregation in Knoxville, Tennessee, with one pastor, a part-time office administrator and a volunteer who uploads sermons to YouTube. Their current site lists last year’s events and has no service time on the homepage.`,
         `The plan: a homepage with service time, address and a Plan Your Visit button; a plan-your-visit page with parking photos and kids’ check-in steps; a sermon library that reads their YouTube channel; a Give page embedding their existing giving provider; an events page and group finder fed from Planning Center; five ministry pages; three volunteer team pages; and a short prayer request form that emails a role address with no content in the alert.`,
-        `The office administrator gets editor access for service times and announcements, and the pastor for ministry pages. The build fits the core plan from ${P.site}, and five months of free changes cover the first Christmas and Easter updates. Nothing here requires a monthly subscription from us.`,
+        `The office administrator gets editor access for service times and announcements, and the pastor for ministry pages. The build fits the core plan from ${P.site}, and two months of free changes cover the first Christmas and Easter updates. Nothing here requires a monthly subscription from us.`,
       ],
     },
     {
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
       ["Agree the visitor path", "We map what a first-time guest sees on the homepage and plan-your-visit page, and what members reach from the menu."],
       ["Draft, design and connect", "Pages drafted for staff to correct, sermon feed connected, giving embedded in test mode, events and groups pulled from your ChMS."],
       ["Test with a newcomer", "Someone unfamiliar with the church tries to find the service time, parking, kids’ check-in and the Give page on a phone."],
-      ["Launch and train", "Accounts confirmed in the church’s name, editors trained with a written guide and short videos, and five months of free changes begin."],
+      ["Launch and train", "Accounts confirmed in the church’s name, editors trained with a written guide and short videos, and two months of free changes begin."],
     ],
   },
   faqHeading: "Church website design: questions pastors and staff ask",
@@ -371,11 +371,11 @@ const content: FreelanceContent = {
     { question: "Can you build a bilingual church website?", answer: "Yes. We build a parallel set of pages for your Spanish, Korean or other language service, with its own plan-your-visit page and service times, plus proper language tags and a switcher. Your bilingual staff or a trusted translator supplies or approves the translated text; we write in English only." },
     { question: "Will our church show up when people search “church near me”?", answer: `Map results depend mainly on your Google Business Profile, distance and reviews. The site helps by matching your name, address and service times exactly, adding Church schema and publishing clear seasonal pages. Nobody can guarantee a position. Optional monthly local search help starts at ${P.seo}.` },
     { question: "How do we make our church website accessible for older members?", answer: "Use comfortable text sizes, strong contrast, a clear menu, large buttons and forms that work with a keyboard, plus corrected captions on important sermon videos. We build to WCAG 2.2 AA as the target and test with a screen reader. The plan-your-visit page should also describe physical access such as step-free entrances." },
-    { question: "Can a small church afford a custom website?", answer: `Often yes, because the cost is one-time. Our church sites start at ${P.site}, hosting is paid directly by the church, and the first five months of changes are free. Compared over five years with a monthly subscription, a custom site is frequently the cheaper option, though a subscription spreads cost more evenly.` },
+    { question: "Can a small church afford a custom website?", answer: `Often yes, because the cost is one-time. Our church sites start at ${P.site}, hosting is paid directly by the church, and the first two months of changes are free. Compared over five years with a monthly subscription, a custom site is frequently the cheaper option, though a subscription spreads cost more evenly.` },
     { question: "Who owns the church website after it is built?", answer: "The church does. The domain, hosting, code, video channel, giving account and analytics are registered in the church’s name, with at least two staff admins. We work as added users you can remove after launch, so the site never depends on one volunteer or on us." },
     { question: "Do we need a church app as well as a website?", answer: `Often not. If your church management system or giving provider already includes a member app, the website can link to it. A custom iOS and Android app, from ${P.app}, only makes sense when you need features those apps do not offer and have someone to keep content fresh.` },
     { question: "Can a team in India handle church website design for a US church committee?", answer: "Yes. We share drafts on WhatsApp so pastors and committee members can comment when convenient, and hold calls in your morning or a weekday evening. Quotes are in USD, paid by Wise, wire or PayPal, with invoices from India. We never need access to member records or giving data." },
-    { question: "What happens after our church website launches?", answer: `Five months of changes are free, covering things like seasonal service times, new ministries and staff updates. After that, care starts at ${P.care} a month and covers updates, backups and fixes. Your staff can also make everyday edits themselves using the guide we hand over.` },
+    { question: "What happens after our church website launches?", answer: `Two months of changes are free, covering things like seasonal service times, new ministries and staff updates. After that, care starts at ${P.care} a month and covers updates, backups and fixes. Your staff can also make everyday edits themselves using the guide we hand over.` },
   ],
   related: {
     heading: "More US pages for churches, ministries and community groups",

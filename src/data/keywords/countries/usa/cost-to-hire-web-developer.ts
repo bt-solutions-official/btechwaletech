@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers you speak to directly, no account manager" },
     { value: "2", label: "Working days to an itemized quote in USD" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or platform fees on your invoice" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "US agency", value: "A team and a project manager; overhead is built into the rate" },
       { label: "Marketplace freelancer", value: "Hourly or gig pricing; platform fees and vetting are on you" },
       { label: "Offshore freelance team (us)", value: `Itemized project quotes; static sites from ${P.site}` },
-      { label: "Ongoing care", value: `5 months free after launch, then from ${P.care}` },
+      { label: "Ongoing care", value: `2 months free after launch, then from ${P.care}` },
       { label: "Pricing basis", value: "Per project for builds, monthly for SEO and care" },
       { label: "Not a fit", value: "Roles that need someone on site or a 20-person engineering team" },
     ],
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Management load", "You manage daily", "Account manager handles it", "Direct chat with the developers; weekly written update"],
       ["Time zone", "Yours", "Yours", "Overnight build cycle; US Eastern mornings overlap IST evenings"],
       ["Ownership of code", "Yours by employment", "Check the contract", "Yours; domain, hosting and repo stay in your name"],
-      ["After launch", "Salary continues", "Paid retainer", `5 months free, then from ${P.care}`],
+      ["After launch", "Salary continues", "Paid retainer", `2 months free, then from ${P.care}`],
     ],
     fine: "If you need someone in the building every day or a large team under one roof, an in-house hire or a US agency will serve you better than any remote freelancer.",
   },
@@ -121,7 +121,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose the route by how much work you have, not by the lowest rate you have seen. A business with forty hours of web work a year should never carry a salary, and a SaaS firm shipping features every week should rarely rely on a gig marketplace.`,
         `Here is how each route behaves over a year. An in-house developer is a fixed cost: you pay whether the backlog is full or empty, but you get instant availability and deep product knowledge. An agency is a variable cost with a floor: most have minimum project sizes, and you pay for polish, process and a single throat to choke. A marketplace freelancer on Upwork or Fiverr is the most variable of all: rates, quality and reliability swing widely, and you do the vetting. An offshore freelance team sits between the last two, with written scope, lower overhead and an overnight rhythm.`,
-        `The cost to hire a web developer also depends on what happens after launch. Salaried staff keep costing money after the site ships; agencies usually move you onto a retainer; freelancers bill per fix. With us, launch is followed by five months of free maintenance, then care plans from ${P.care}.`,
+        `The cost to hire a web developer also depends on what happens after launch. Salaried staff keep costing money after the site ships; agencies usually move you onto a retainer; freelancers bill per fix. With us, launch is followed by two months of free maintenance, then care plans from ${P.care}.`,
       ],
       subs: [
         { heading: "Pick an employee when", text: "you have a full backlog every month, a product that changes weekly and the capacity to manage, review and retain a developer." },
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A one-off build is a capital cost; ongoing web work is an operating cost. Budget both, because a site that nobody updates slowly loses speed, security and search visibility.`,
         `After launch, most sites need security and dependency updates, small content changes, occasional new pages and a monthly look at analytics and Search Console. A salaried developer covers this but at full-time cost. A retainer with an agency covers it at a monthly minimum. A freelancer covers it per ticket, which is efficient until they become unavailable.`,
-        `Our model is five months of free maintenance after launch, then care from ${P.care} and SEO from ${P.seo} if you want ongoing search work. That makes the long-run cost to hire a web developer predictable: one project price, a free settling-in period, then a small monthly line. If you are weighing ongoing help specifically, our <a href='/usa/website-maintenance-services/'>website maintenance plans for US businesses</a> page lists what is covered, and <a href='/usa/technical-seo-services/'>technical SEO services</a> explains the search side.`,
+        `Our model is two months of free maintenance after launch, then care from ${P.care} and SEO from ${P.seo} if you want ongoing search work. That makes the long-run cost to hire a web developer predictable: one project price, a free settling-in period, then a small monthly line. If you are weighing ongoing help specifically, our <a href='/usa/website-maintenance-services/'>website maintenance plans for US businesses</a> page lists what is covered, and <a href='/usa/technical-seo-services/'>technical SEO services</a> explains the search side.`,
       ],
     },
     {
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a hypothetical landscaping business near Phoenix wants a 14-page site with six service pages, four town pages, a quote form, a photo gallery and click-to-call. Here is how the cost to hire a web developer plays out across three routes, without inventing anyone’s rates.`,
         `Route one is a part-time employee. The owner would pay wages plus the benefits load BLS describes, buy equipment and spend hours recruiting, all for a build that takes a few weeks, then little work after. It only makes sense if the same person also runs marketing or IT.`,
-        `Route two is a local agency. The owner gets strategy workshops, custom design and a project manager, and the proposal reflects that. It is a good fit if the brand needs a full refresh and the budget allows. Route three is our static plan. The site fits comfortably inside the 100-page static tier, so it starts at ${P.site}; the quote would list the templates, the form, the gallery, analytics and Search Console setup, and a line for any copywriting. After launch, five months of maintenance are free, then care from ${P.care}. The owner compares the three on one sheet and picks based on budget and how much hand-holding the brand needs.`,
+        `Route two is a local agency. The owner gets strategy workshops, custom design and a project manager, and the proposal reflects that. It is a good fit if the brand needs a full refresh and the budget allows. Route three is our static plan. The site fits comfortably inside the 100-page static tier, so it starts at ${P.site}; the quote would list the templates, the form, the gallery, analytics and Search Console setup, and a line for any copywriting. After launch, two months of maintenance are free, then care from ${P.care}. The owner compares the three on one sheet and picks based on budget and how much hand-holding the brand needs.`,
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Android and iOS app", P.app, "6–10 weeks", "Screens, logins, notifications, store review"],
         ["Custom web app or portal", P.software, "6–12 weeks", "User roles, integrations, reports"],
         ["AI automation", P.ai, "2–4 weeks", "Data sources, workflows, review steps"],
-        ["Maintenance after 5 free months", P.care, "Monthly", "Update frequency, edits per month"],
+        ["Maintenance after 2 free months", P.care, "Monthly", "Update frequency, edits per month"],
       ],
       hideSm: [3],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
         ["Equipment and software", "Yes", "Included by the contractor", "Laptops, editors, licenses"],
         ["Recruiting and onboarding", "Weeks of effort", "A brief and a call", "Include manager hours"],
         ["Idle time", "Paid", "Not paid", "Estimate your quiet months"],
-        ["After-launch support", "Salary continues", "Care plan or per fix", `With us: 5 months free, then from ${P.care}`],
+        ["After-launch support", "Salary continues", "Care plan or per fix", `With us: 2 months free, then from ${P.care}`],
       ],
       hideSm: [3],
     },
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
       ["Itemized USD quote", "In about two working days you receive a quote with each deliverable priced separately, a timeline and what we need from you."],
       ["Written approval", "You approve, trim lines or ask for changes. Nothing is billed until the scope is approved in writing."],
       ["Build and review", "We build on a staging link. You review in your morning; changes land overnight, and a written weekly update keeps the budget visible."],
-      ["Launch and handover", "We launch on hosting in your name, hand over credentials and documentation, and start five months of free maintenance."],
+      ["Launch and handover", "We launch on hosting in your name, hand over credentials and documentation, and start two months of free maintenance."],
     ],
   },
   faqHeading: "Questions about the cost to hire a web developer",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Why do web developer quotes vary so much?", answer: "Quotes vary because developers price different scopes, overheads and support. One quote might include copywriting, migration and six months of fixes; another might cover only the templates. Location and business model also matter. Put every quote on one spreadsheet with identical rows for deliverables, responsibilities, quality checks and after-launch support, and most of the gap will explain itself." },
     { question: "Is hiring a web developer in India a good idea for a US business?", answer: "It works well for clearly scoped projects when you are comfortable with written reviews across time zones. US Eastern mornings overlap with IST evenings, so feedback you send in the morning is often done by the next day. Ask for an itemized quote, keep the domain, hosting and code in your name, and speak directly with the developers doing the work." },
     { question: "What is included in your starting prices?", answer: `Each starting price covers a defined base: for example, the static plan from ${P.site} covers up to 100 pages on a fast stack with forms, analytics and Search Console setup. Ecommerce from ${P.shop} covers catalog, checkout, shipping and tax settings review. Extra templates, integrations, copywriting and migrations are priced as separate lines in your itemized quote.` },
-    { question: "Are there hidden costs after the website is built?", answer: "Expect costs to other vendors: domain renewals, hosting, email, premium themes or plugins, booking or form tools and any app subscriptions. With us, the first five months of maintenance after launch are free, then care plans start at a monthly price listed on our pricing page. We list known third-party costs in the quote so they do not surprise you." },
+    { question: "Are there hidden costs after the website is built?", answer: "Expect costs to other vendors: domain renewals, hosting, email, premium themes or plugins, booking or form tools and any app subscriptions. With us, the first two months of maintenance after launch are free, then care plans start at a monthly price listed on our pricing page. We list known third-party costs in the quote so they do not surprise you." },
     { question: "How long does it take to build a website after I hire a developer?", answer: "With us, a static site usually takes one to two weeks, an SEO site of 299 or more pages three to five weeks, an online store four to eight weeks and a custom web app six to twelve weeks. The biggest variable is how quickly content and feedback arrive. We share a checklist on day one so missing content does not stall the launch." },
     { question: "Who owns the code and the domain when I hire you?", answer: "You do. The domain, hosting account, code repository and any app store accounts are registered in your name, and we work as collaborators with the access you grant. At handover you receive credentials and documentation. If you ever move to another developer, nothing needs to be transferred from us because everything already belongs to you." },
     { question: "How do I pay a developer in India from the US?", answer: "We invoice in USD from India and accept bank wire, Wise or PayPal. Billing milestones are written into your quote, and nothing is billed before you approve the scope in writing. We do not advise on tax treatment, so ask your accountant what records your business needs when paying a foreign contractor." },
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
     { question: "Does the cost to hire a web developer include SEO?", answer: `Our builds include technical SEO foundations: clean URLs, headings, meta tags, sitemaps, canonical tags, structured data where it fits, redirects and fast load times. Ongoing SEO, such as content, local listings and link work, is a separate monthly service from ${P.seo}. Nobody can honestly guarantee rankings, and we will not promise them.` },
     { question: "Will my site show up in AI search results like AI Overviews?", answer: "No one can guarantee that, but you can make it more likely. AI tools tend to quote pages with clear question headings, short self-contained answers, named sources and structured data. We build pages that are crawlable and fast, and we can structure your content so each key question has a direct answer that an AI engine can quote accurately." },
     { question: "Can a remote developer handle my ecommerce store?", answer: `Yes. We build stores with card and wallet checkout, shipping rules and sales-tax settings reviewed before launch, starting at ${P.shop} over four to eight weeks. You keep the store and payment accounts in your name. For Shopify-specific projects, compare our Shopify developer and Shopify Plus pages; for WordPress stores, see the WooCommerce page.` },
-    { question: "What does maintenance cost after launch?", answer: `The first five months after launch are free. After that, care plans start at ${P.care} and cover updates, backups, small edits and uptime checks, with the exact scope written into your plan. Larger changes such as new templates or features are quoted separately so the monthly price stays predictable.` },
+    { question: "What does maintenance cost after launch?", answer: `The first two months after launch are free. After that, care plans start at ${P.care} and cover updates, backups, small edits and uptime checks, with the exact scope written into your plan. Larger changes such as new templates or features are quoted separately so the monthly price stays predictable.` },
     { question: "What happens if my project goes over scope?", answer: "Anything outside the written scope becomes a change request. We describe the change, price it as a new line and wait for your written approval before starting. That way the cost to hire a web developer never grows silently. If a request is small and fits the spirit of an existing line, we tell you and usually just do it." },
     { question: "Can I hire you for a few hours instead of a full project?", answer: "Small, well-defined jobs are fine: fixing a form, speeding up a slow page or adding a section. We still send a short written quote so you know the cost before work starts. For steady monthly needs, a care plan or dedicated monthly capacity is usually better value than repeated one-off requests." },
     { question: "How do I know a cheap web developer is trustworthy?", answer: "Ask for an itemized scope, a staging site, repository access and the domain and hosting in your name. Speak with the person writing the code. Avoid anyone who promises rankings, holds your accounts in their own name or wants full payment before a plan exists. A trustworthy developer is happy to put every commitment in writing." },

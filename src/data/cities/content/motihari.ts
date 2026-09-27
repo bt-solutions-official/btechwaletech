@@ -31,10 +31,10 @@ const motihari: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Motihari and the towns of East Champaran",
     lede:
       "Motihari is the district headquarters of East Champaran, a university and coaching town, and the market for villages stretching to the Nepal border at Raxaul. We are three remote engineers who build websites, map listings and WhatsApp systems for its shops, clinics, institutes, traders and makers, with starting prices in writing and every login in your name.",
-    pills: ["Sites from ₹10,000", "Coaching and clinic pages", "Hindi, Bhojpuri, English", "Border-trade enquiries", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Coaching and clinic pages", "Hindi, Bhojpuri, English", "Border-trade enquiries", "2 months free upkeep"],
   },
   quickAnswer:
-    "In Motihari, our websites begin at ₹10,000 and go live in about a fortnight. Large SEO sites of 299+ pages begin at ₹20,000, WhatsApp and AI automation at ₹40,000, and online shops at ₹50,000. The three of us work remotely with no local office, and upkeep costs nothing for the first five months after your site launches.",
+    "In Motihari, our websites begin at ₹10,000 and go live in about a fortnight. Large SEO sites of 299+ pages begin at ₹20,000, WhatsApp and AI automation at ₹40,000, and online shops at ₹50,000. The three of us work remotely with no local office, and upkeep costs nothing for the first two months after your site launches.",
   snapshot: [
     { label: "Role", value: "Headquarters of East Champaran district in the Tirhut division, about 150 km north-west of Patna" },
     { label: "History", value: "Gandhi arrived here in April 1917 to begin the Champaran Satyagraha; George Orwell was born here" },
@@ -51,7 +51,7 @@ const motihari: CityContent = {
     ai: "WhatsApp assistants answering admission, appointment and stock questions in Hindi or English and handing real deals to a person.",
     data: "Dashboards for admissions, patient visits, sales or orders that owners can read on a phone.",
     app: "Android and iOS apps for students, delivery staff or field agents, starting at ₹40,000 and listed on both Google Play and the App Store.",
-    maintenance: "No upkeep charges for five months, then support from ₹8,000 a month or on a per-change basis for quieter businesses.",
+    maintenance: "No upkeep charges for two months, then support from ₹8,000 a month or on a per-change basis for quieter businesses.",
   },
   whyUsIntro:
     "A Motihari business may serve a student from Sheohar, a patient from Sugauli, a buyer from Birgunj and a trader in Muzaffarpur in the same week. The website needs to speak clearly to each of them. We plan it with you over WhatsApp, write starting prices down and hand over every login at launch.",
@@ -194,7 +194,7 @@ const motihari: CityContent = {
       paragraphs: [
         "A common story in smaller towns: a business paid for a website, the developer kept the domain in his own name, and when he stopped answering calls the site expired. Visiting cards, hoardings and pamphlets then pointed customers to an error page, and recovering the domain took weeks.",
         "So the domain is bought under your own name from day one, and the hosting bill comes to your email, not ours. On launch day we pass over the passwords, a copy of the code and a one-page note on how the pieces connect. If a nephew or another agency takes over later, nothing stops them and nobody charges you for leaving.",
-        "For the first five months after launch, we look after edits, bugs, patches, backups and uptime at no charge. From the sixth month, a plan costs from ₹8,000 a month, or you can pay only for the changes you ask for. Coaching institutes often keep a plan from March to July, when admissions run, and drop to pay-per-change afterwards.",
+        "For the first two months after launch, we look after edits, bugs, patches, backups and uptime at no charge. From the third month, a plan costs from ₹8,000 a month, or you can pay only for the changes you ask for. Coaching institutes often keep a plan from March to July, when admissions run, and drop to pay-per-change afterwards.",
       ],
     },
   ],
@@ -279,7 +279,7 @@ const motihari: CityContent = {
         "You, completely. The domain sits in your name, the hosting account is yours, and on launch day we hand over the code and every password. Change developers any time you please; there is no leaving fee and no need to ask us.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "That is your call. A monthly plan begins at ₹8,000 and looks after backups, security patches, software updates and small content edits. If you would rather not commit, simply pay for each change when you need it. Your site and every account stay under your control either way.",
     },

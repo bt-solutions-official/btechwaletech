@@ -35,12 +35,12 @@ const content: FreelanceContent = {
     ["Custom booking or guest tools", `From ${P.software}`],
     ["Guest-message AI helper", `From ${P.ai}`],
     ["Local and overseas SEO", `From ${P.seo}`],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Commission we take on your direct bookings" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "3", label: "Developers you talk to directly" },
   ],
   answer: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Search and maps", note: `Hotel schema, Google Business Profile alignment and guide pages about your area, with ongoing SEO from ${P.seo}.`, href: "/services/seo-services/", size: "md" },
       { name: "Guest messaging helper", note: `An AI assistant grounded in your own policies to answer common questions in English, from ${P.ai}.`, size: "sm" },
       { name: "Custom guest tools", note: `Pre-arrival forms, meal-preference collection or group enquiry flows, from ${P.software}.`, size: "sm" },
-      { name: "Ongoing care", note: `Five free months, then maintenance from ${P.care}.`, size: "sm" },
+      { name: "Ongoing care", note: `Two free months, then maintenance from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Design on staging", "Home and room templates appear on a private link, with the booking box tested against live availability in your engine."],
       ["Copy and photos", "We draft English from your answers, load the Japanese you supply, and prepare galleries sized for phones."],
       ["Checks and launch", "Test bookings, structured data, hreflang, speed and analytics are checked, then the site goes live and is submitted to Search Console."],
-      ["Season-ready care", "Five months of free fixes for seasonal notices and photo swaps, then optional maintenance and search work."],
+      ["Season-ready care", "Two months of free fixes for seasonal notices and photo swaps, then optional maintenance and search work."],
     ],
   },
   faqHeading: "Questions about hotel website design in Japan",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Who owns the website and booking accounts?", answer: "You do. The domain, hosting, analytics and your booking engine and site controller accounts stay in your name. We work through logins you create and can remove. We never register anything for your property in our own name and take no commission on bookings." },
     { question: "Can the website collect guest register details before arrival?", answer: "We can build a pre-arrival form that stores details in a system you control, with access limited to your staff. What information you must record and how long you keep it should be confirmed with your local public health centre or adviser. Collect only what you need, because every field is data to protect." },
     { question: "Can you add a chatbot for guest questions?", answer: `Yes. An AI helper grounded in your own policies can answer common questions about check-in, baths, meals and access in English, and hand anything unusual to your staff. It starts at ${P.ai}. For guests who prefer messaging apps, our LINE chatbot development page for Japan covers that route.` },
-    { question: "What happens after the hotel website launches?", answer: `You get five months of free maintenance for fixes, seasonal notices and photo swaps. After that, maintenance starts at ${P.care}. Search work for direct bookings, such as area guide pages and schema updates, is optional from ${P.seo}. We also check the booking connection after any engine update.` },
+    { question: "What happens after the hotel website launches?", answer: `You get two months of free maintenance for fixes, seasonal notices and photo swaps. After that, maintenance starts at ${P.care}. Search work for direct bookings, such as area guide pages and schema updates, is optional from ${P.seo}. We also check the booking connection after any engine update.` },
     { question: "Can you redo an existing hotel website design in Japan?", answer: "Yes. We start by reviewing speed, mobile layout, booking path, languages and structured data, then list what to fix first. We keep your existing page addresses or redirect them so search history carries over. You receive the review in writing before any paid work starts." },
   ],
   related: {

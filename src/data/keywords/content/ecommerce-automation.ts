@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, about 2 working days"],
     ["Stores we connect", "Shopify, WooCommerce, custom carts"],
     ["Accounts and logins", "Stay in your name"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who read your order data" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Platform or marketplace middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "New store plus automation", value: `Store from ${P.shop}, 4–8 weeks` },
       { label: "Tools we use", value: "Store APIs, webhooks, Shopify Flow, n8n, Python, Postgres" },
       { label: "Who owns it", value: "You: code, server, API keys and data" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The code sits in a repository you can access, it runs on a server or cloud account billed to you, and every courier, marketplace and WhatsApp credential is created under your business accounts.`,
         `This matters more for ecommerce automation than for a website, because the system holds live keys that can create shipments and read customer phone numbers. If a developer disappears with the only copy of those keys, you have an operations problem, not just a design problem.`,
-        `At handover you receive the repository, a list of every credential with where it lives and who can rotate it, a plain-language description of each rule, and a runbook for common failures: courier API down, webhook disabled, WhatsApp template rejected. The first five months after go-live include free maintenance; after that, upkeep starts at ${P.care} if you want us to keep watching it. Terms are confirmed in your written quote and on our <a href='/terms/'>terms page</a>.`,
+        `At handover you receive the repository, a list of every credential with where it lives and who can rotate it, a plain-language description of each rule, and a runbook for common failures: courier API down, webhook disabled, WhatsApp template rejected. The first two months after go-live include free maintenance; after that, upkeep starts at ${P.care} if you want us to keep watching it. Terms are confirmed in your written quote and on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
         ["Multi-channel stock and order hub", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Brands on website plus marketplaces"],
         ["New store with automation built in", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Brands moving off a template store"],
         ["Ops app for warehouse staff", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Scanning, packing and RTO receipt on phones"],
-        ["Upkeep after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Monitoring, API changes, new rules"],
+        ["Upkeep after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Monitoring, API changes, new rules"],
       ],
     },
     {
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
       ["Quote in two working days", "You receive an itemised estimate per workflow, with running costs listed separately, so you can pick what to build first."],
       ["Build against test accounts", "Workflows are built on sandbox or test credentials under your accounts, with logging, retries and duplicate checks included from the start."],
       ["Shadow run, then switch", "Automation prepares shipments and matches while your team still approves, so we compare its choices with theirs before letting it act alone."],
-      ["Hand over and watch", "You get the repository, credential list and runbook; five months of free maintenance cover fixes and small rule changes after go-live."],
+      ["Hand over and watch", "You get the repository, credential list and runbook; two months of free maintenance cover fixes and small rule changes after go-live."],
     ],
   },
   faqHeading: "Ecommerce automation: questions D2C founders ask",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Is n8n or Zapier enough, or do I need custom code?", answer: "A workflow tool is enough when you link a handful of apps with clear triggers and modest volume. Custom code becomes worth it when you match money, handle thousands of orders a day, or need retries, duplicate protection and an audit trail. We often combine them: n8n for simple notifications, custom services for courier booking and reconciliation." },
     { question: "Who owns the automation code and API keys?", answer: "You do. The code lives in a repository you can access, it runs on a server billed to your business, and every courier, marketplace and WhatsApp credential is created in your accounts. At handover you get a credential list, rule descriptions and a runbook. Ownership terms are written into your quote before any work starts." },
     { question: "What happens if a courier API goes down?", answer: "Orders that cannot be booked are queued and retried, and if the outage continues they move to an exception list with an alert to your team on WhatsApp or email. Where you have a second courier, rules can fall back to it automatically. Your team can also book manually from the exception list, so dispatch does not stop." },
-    { question: "Do you offer maintenance after go-live?", answer: `Every build includes five months of free maintenance after go-live, covering bug fixes, API changes by couriers or marketplaces and small rule updates. After that, ongoing upkeep starts at ${P.care}. Exact coverage is agreed in your written quote; you are never locked in, because the code and credentials are already yours.` },
+    { question: "Do you offer maintenance after go-live?", answer: `Every build includes two months of free maintenance after go-live, covering bug fixes, API changes by couriers or marketplaces and small rule updates. After that, ongoing upkeep starts at ${P.care}. Exact coverage is agreed in your written quote; you are never locked in, because the code and credentials are already yours.` },
     { question: "Can automation send order updates on WhatsApp?", answer: "Yes. Order confirmations, dispatch messages with tracking links, delivery-attempt alerts and review requests can all go on WhatsApp through the Business Platform using approved templates. Meta's documentation says templates are required outside the 24-hour customer service window, so we plan message timing and categories with cost in mind and handle opt-outs across every workflow." },
     { question: "How do I know the automation is doing the right thing?", answer: "Every action is logged with the order ID, the rule applied and the result. During the shadow run your team compares its decisions with the system's. After go-live, a daily summary shows orders booked, held, failed and waiting, plus unmatched payouts. If something looks wrong, the log shows exactly which rule fired and why." },
     { question: "Is it better to hire an ops executive instead?", answer: "They solve different problems. A person handles judgement, customer calls and supplier issues well but slows down and makes more errors as volume grows. Automation handles repetitive, rule-based steps at any volume but cannot negotiate or empathise. Most growing brands need both: automation for the repetitive work, and people freed up for the exceptions." },

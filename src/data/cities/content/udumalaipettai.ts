@@ -56,7 +56,7 @@ const udumalaipettai: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, booking and fee questions in Tamil and English and hand real decisions to you.",
     data: "Dashboards of nuts bought and shipped, yarn output by count, turbine service visits or resort occupancy by month.",
     app: "Android and iOS apps for resort guests, wind-turbine service crews or school parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No maintenance charges for five months after launch; after that, upkeep starts at ₹8,000 a month.",
+    maintenance: "No maintenance charges for two months after launch; after that, upkeep starts at ₹8,000 a month.",
   },
   whyUsIntro:
     "Udumalpet's traders and mill owners are used to Kongu-style straight dealing, and that is how we prefer to work. Prices are published as starting points, every quote is written line by line, WhatsApp gets answered all seven days, and your domain, hosting, code and store accounts carry your name. If we think a feature is not worth it for your business, you will hear that from us first.",
@@ -172,7 +172,7 @@ const udumalaipettai: CityContent = {
       paragraphs: [
         "Being remote means we document everything. After an initial call, you get a written plan of pages or screens, a timeline and a costed quote. Once you agree, we send preview links to open on your phone and share with partners. Any Tamil copy is sent to you for approval before it is published.",
         "We answer WhatsApp every day, weekends included, on Indian Standard Time. If a delivery date is at risk, we say so as soon as we see it. Payments are tied to milestones you can check, and nothing is billed without your written approval of the quote.",
-        "Your domain, hosting, code, Google Business Profile, and Play Store and App Store developer accounts are all set up in your name, with credentials handed over in writing. Maintenance costs nothing for the first five months after launch and covers edits, backups, security patches and checks on forms and payments. After that it starts at ₹8,000 a month if you would like us to continue, and you are free to switch developers whenever you want. Apps receive the yearly platform updates Google and Apple require.",
+        "Your domain, hosting, code, Google Business Profile, and Play Store and App Store developer accounts are all set up in your name, with credentials handed over in writing. Maintenance costs nothing for the first two months after launch and covers edits, backups, security patches and checks on forms and payments. After that it starts at ₹8,000 a month if you would like us to continue, and you are free to switch developers whenever you want. Apps receive the yearly platform updates Google and Apple require.",
       ],
     },
     {
@@ -263,7 +263,7 @@ const udumalaipettai: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance is free: edits, backups, security patches and checks on forms and payments. After that it starts at ₹8,000 a month if you want us to continue, and you can hand the code to another developer whenever you choose.",
+        "For two months after launch, maintenance is free: edits, backups, security patches and checks on forms and payments. After that it starts at ₹8,000 a month if you want us to continue, and you can hand the code to another developer whenever you choose.",
     },
     {
       question: "Do you work in Pollachi, Palani and Tiruppur as well?",

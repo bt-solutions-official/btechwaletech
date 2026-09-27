@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Builder subscription", "None: you pay hosting directly"],
     ["Design rounds", "Reviewed on a live staging link"],
     ["Ownership", "Domain, hosting and code in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelancers: design, build and SEO covered" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Platform or builder fees charged by us" },
-    { value: "5", label: "Months of free care after launch" },
+    { value: "2", label: "Months of free care after launch" },
   ],
   answer: {
     heading: "Should you hire a website design freelancer or use a website builder?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Our starting price", value: `From ${P.site} for a static site, 1–2 weeks` },
       { label: "SEO-led design", value: `From ${P.seoSite} for 299+ pages, 3–5 weeks` },
       { label: "Online store design", value: `From ${P.shop}, 4–8 weeks` },
-      { label: "After launch", value: `5 months free care, then from ${P.care}` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Landing page design", note: "Single pages for ads or launches, designed around one action and measured with proper tracking.", href: "/landing-page-developer/", size: "md" },
       { name: "Redesign of an old site", note: "Fresh design on top of your existing content and search rankings, with redirects mapped before anything moves.", href: "/website-redesign-freelancer/", size: "sm" },
       { name: "Bilingual layouts", note: "Hindi, Marathi, Tamil or other regional pages that use proper fonts and still fit on a small phone screen.", href: "/freelance-website-developer-india/", size: "sm" },
-      { name: "Design upkeep", note: `New sections, banners and seasonal changes after launch. Five months free, then care from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Design upkeep", note: `New sections, banners and seasonal changes after launch. Two months free, then care from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -84,7 +84,7 @@ const content: FreelanceContent = {
     columns: ["Point to weigh", "DIY website builder", "Design agency", "BtechWaleTech freelancers"],
     rows: [
       ["Money up front", "Very little; mostly your own time", "Highest of the three", `Custom site from ${P.site}`],
-      ["Ongoing cost", "Monthly or yearly plan for as long as the site lives", "Retainer or per-change billing", "Hosting paid directly by you; 5 months free care"],
+      ["Ongoing cost", "Monthly or yearly plan for as long as the site lives", "Retainer or per-change billing", "Hosting paid directly by you; 2 months free care"],
       ["Design freedom", "Limited to the template’s blocks", "Fully custom", "Fully custom, built mobile-first"],
       ["Who does the work", "You", "A team you mostly meet through a manager", "Three freelancers you message directly"],
       ["Page speed", "Depends on the platform’s scripts", "Usually good", "Lean code tuned for Core Web Vitals"],
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Comparing only the first month is the most common mistake people make when choosing between a builder and a website design freelancer. A fair comparison looks at three years, because that is roughly how long a small business site lives before a serious refresh.`,
         `On a builder, add up the plan you will actually need (not the entry plan), paid apps for forms, bookings or reviews, any premium template, the domain, and your own hours at a realistic value. Remember that the plan renews every year and prices can rise.`,
-        `With a freelance custom site, add the design and build quote, hosting and domain paid directly to the providers, and maintenance after any free period. With us the first five months of maintenance are free; after that it starts at ${P.care} only if you want it, and many small static sites need very little.`,
+        `With a freelance custom site, add the design and build quote, hosting and domain paid directly to the providers, and maintenance after any free period. With us the first two months of maintenance are free; after that it starts at ${P.care} only if you want it, and many small static sites need very little.`,
         `Neither answer is universal. A tiny site with no growth plans can stay cheaper on a builder. A site that brings leads, needs features or grows past a dozen pages usually comes out ahead as an owned custom build within a couple of years, and it has no ceiling on what you can add later.`,
       ],
     },
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
         `<em>This is a hypothetical example to show the reasoning, not a client story.</em> A family bakery in a tier-2 city takes cake orders over phone and WhatsApp. The owner set up a builder site two years ago: a home page, a menu as a photo, and a contact form. It gets few visits and the menu image is unreadable on phones.`,
         `Option one is to stay on the builder and upgrade the plan to add online ordering. That keeps the monthly bill growing, and the menu is still a picture that Google cannot read.`,
         `Option two is a custom static site from a website design freelancer: a phone-first menu as real text, a cake gallery with compressed images, a WhatsApp order button on every page, Google Maps, and separate pages for birthday, wedding and eggless cakes so each can appear in local searches. That fits the static plan from ${P.site} and a 1–2 week build.`,
-        `The bakery would own the domain and code, pay hosting directly, and have five months of free edits for seasonal menus. If it later wants UPI checkout, the same site can grow into a store instead of starting again.`,
+        `The bakery would own the domain and code, pay hosting directly, and have two months of free edits for seasonal menus. If it later wants UPI checkout, the same site can grow into a store instead of starting again.`,
       ],
     },
     {
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
       heading: "Website design freelancer se banwayein ya khud builder par? (simple Hinglish)",
       paragraphs: [
         `Agar aapko sirf ek chhota sa page chahiye, kuch mahino ke liye, aur aapke paas time hai, to builder theek hai. Lekin agar website se customers aane chahiye, enquiry ya order aane chahiye, to website design freelancer se custom site banwana better rehta hai.`,
-        `Kyun? Kyunki builder par aap har mahine kiraya dete ho aur design platform ka hi rehta hai. Freelancer se banwane par domain, hosting aur code sab aapke naam par hota hai. Humari team static website ${P.site} se shuru karti hai, 1–2 hafte mein live, aur launch ke baad 5 mahine free maintenance. Quote 2 working days mein WhatsApp par milta hai, aur approval se pehle koi payment nahi.`,
+        `Kyun? Kyunki builder par aap har mahine kiraya dete ho aur design platform ka hi rehta hai. Freelancer se banwane par domain, hosting aur code sab aapke naam par hota hai. Humari team static website ${P.site} se shuru karti hai, 1–2 hafte mein live, aur launch ke baad 2 mahine free maintenance. Quote 2 working days mein WhatsApp par milta hai, aur approval se pehle koi payment nahi.`,
       ],
     },
     {
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
         ["Online store design and build", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Brands selling with UPI and cards"],
         ["Web app or portal screens", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Bookings, dashboards, member areas"],
         ["Monthly SEO after launch", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Sites that need steady content and fixes"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Edits, backups, updates"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Edits, backups, updates"],
       ],
       hideSm: [2],
     },
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain and hosting are set up under your email, or we are added as users on accounts you already hold."],
       ["Wireframes, then visual design", "Structure is agreed in plain layouts first, then colour and type are applied on a staging link you can open anywhere."],
       ["Build, test, launch", "Pages are built, tested on real phones, connected to your domain with SSL, and verified in Google Search Console."],
-      ["Handover and free care", `You receive logins, code access and renewal dates. Five months of edits are free; after that, care starts from ${P.care} if you want it.`],
+      ["Handover and free care", `You receive logins, code access and renewal dates. Two months of edits are free; after that, care starts from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Website design freelancer: common questions",
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a website design freelancer?", answer: "With BtechWaleTech, clients in India pay by UPI or bank transfer, and clients abroad by Wise, bank wire or PayPal. Payments are staged against milestones you can see, such as approved designs and launch. Nothing is billed before you approve the itemised quote in writing." },
     { question: "Do freelancers design online stores as well as websites?", answer: `Yes. We design and build stores with category and product pages, a phone-friendly cart and UPI and card checkout, starting from ${P.shop} with 4–8 weeks of work. For smaller catalogues, a static site with WhatsApp ordering can be a good first step before a full store.` },
     { question: "What if I am not happy with the design?", answer: "Structure is agreed first on wireframes, so large surprises are rare. Revision rounds are written into the quote, and payments follow approved milestones. If the project still has to stop, cancellation and refund terms are set out in our refund policy page and in your written quote, so read them before starting with any freelancer." },
-    { question: "Does a website design freelancer also look after the site later?", answer: `Many do. Our team includes five months of free maintenance after launch for edits, fixes and updates. After that, maintenance starts from ${P.care} a month if you want it. Because you own the code and accounts, you can also hand upkeep to anyone else.` },
+    { question: "Does a website design freelancer also look after the site later?", answer: `Many do. Our team includes two months of free maintenance after launch for edits, fixes and updates. After that, maintenance starts from ${P.care} a month if you want it. Because you own the code and accounts, you can also hand upkeep to anyone else.` },
     { question: "Website design freelancer chahiye, kaise shuru karein?", answer: `WhatsApp par apna business, kaunse pages chahiye aur pasand ki 2–3 websites bhej dijiye. Humari team 2 working days mein itemised quote deti hai. Static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par rehte hain aur approval se pehle koi payment nahi.` },
     { question: "Can a freelancer design a site for a business outside India?", answer: `Yes. We design for clients in the USA, UK, UAE and elsewhere, working remotely with staging links and video calls. Prices are quoted in USD, for example a custom static site from ${P.siteUsd}, and paid by Wise, bank wire or PayPal. Ownership rules are the same: domain, hosting and code in your name.` },
     { question: "When should I choose an agency instead of a freelancer?", answer: "Choose an agency when you need many specialists at once, such as brand strategy, photography, copywriting and a large build team, or when your company has formal procurement and legal review. For a typical small or medium business website with a clear goal, a website design freelancer usually gives better value and faster contact." },

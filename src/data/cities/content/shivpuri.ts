@@ -35,7 +35,7 @@ const shivpuri: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Safari and stay booking", "Mandi trader catalogues", "WhatsApp replies in Hindi"],
   },
   quickAnswer:
-    "In Shivpuri, a business website built by us starts at ₹10,000 and takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-person team without a Shivpuri office, and maintenance is free for five months after launch.",
+    "In Shivpuri, a business website built by us starts at ₹10,000 and takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-person team without a Shivpuri office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "North-western Madhya Pradesh, about 125 km from Gwalior and 104 km from Jhansi by road" },
     { label: "History", value: "Taken by Daulat Rao Scindia in 1804 and later used as the Scindia summer capital" },
@@ -52,7 +52,7 @@ const shivpuri: CityContent = {
     ai: "WhatsApp replies in Hindi for safari slots, room rates, fees or OPD timings, answering even when the counter is closed.",
     data: "Crop-season purchases, sales and dues turned into a clear phone dashboard for traders and small processors.",
     app: "Android and iOS apps for coaching attendance, clinic tokens, dealer orders or safari bookings, from ₹40,000 in six to ten weeks.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Shivpuri owners are often told to get their website made in Gwalior or Bhopal, and then wait weeks for replies. We are a small remote team that publishes its starting prices, answers WhatsApp seven days a week and puts every domain in the client's own name.",
@@ -178,7 +178,7 @@ const shivpuri: CityContent = {
       paragraphs: [
         "Many Shivpuri businesses have lost a website because the person who made it kept the domain and hosting in his own name and later stopped answering. When the renewal lapsed, the site and the search listing went with it.",
         "We register the domain and hosting in your name from the start. At launch you receive every login, the complete source code and a short written note explaining how things are set up. If you ever want to move to another developer, you hand over the access. There is no exit fee and nothing is locked.",
-        "For five months after launch, maintenance costs nothing: text and rate changes, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when needed. The <a href=\"/services/web-development/\">web development page</a> shows what every build includes.",
+        "For two months after launch, maintenance costs nothing: text and rate changes, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when needed. The <a href=\"/services/web-development/\">web development page</a> shows what every build includes.",
       ],
     },
   ],
@@ -263,9 +263,9 @@ const shivpuri: CityContent = {
         "You will. The domain and hosting are registered in your name, and at launch you receive all logins and the full source code. You can move to any other developer at any time without paying us anything to leave.",
     },
     {
-      question: "What is covered in the five months of free maintenance?",
+      question: "What is covered in the two months of free maintenance?",
       answer:
-        "Text and rate updates, bug fixes, security patches, backups, uptime monitoring and speed checks, all free for five months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Text and rate updates, bug fixes, security patches, backups, uptime monitoring and speed checks, all free for two months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Karera, Pohri, Kolaras and Guna?",

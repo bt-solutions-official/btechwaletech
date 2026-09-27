@@ -56,7 +56,7 @@ const sillod: CityContent = {
     ai: "WhatsApp assistants in Marathi and Hindi that answer rate, stock and appointment questions and hand real decisions back to you.",
     data: "Season dashboards showing quintals bought per crop, dues to farmers, mill dispatches and money still owed by buyers.",
     app: "Android and iOS apps for a trader's village agents or a jeweller's regular customers, from ₹40,000, published on Google Play and the App Store under your account.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for rate updates, backups, security patches and form checks.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for rate updates, backups, security patches and form checks.",
   },
   whyUsIntro:
     "Sillod traders count every rupee and remember who kept a promise last season. We publish starting prices, send quotes line by line in writing, reply on WhatsApp all week, and put your domain, hosting, source code and store accounts in your own name. When a feature will not pay for itself, we tell you before you spend on it.",
@@ -147,7 +147,7 @@ const sillod: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -193,7 +193,7 @@ const sillod: CityContent = {
         "A written scope listing pages or screens, languages, features, dates and an itemised cost",
         "Your approval in writing; nothing is built or billed before this point",
         "Preview links at each stage that open on any phone, so partners and family can comment",
-        "Launch, handover of every login, and five months of free maintenance",
+        "Launch, handover of every login, and two months of free maintenance",
       ],
     },
     {
@@ -202,7 +202,7 @@ const sillod: CityContent = {
       paragraphs: [
         "You do, completely. The domain, hosting, source code, Google Business Profile and app store developer accounts are registered to you from the first day.",
         "This matters in a town where plenty of owners have a story about a relative or a local operator who built a site, kept the password and then vanished. At handover you receive a single written sheet listing every login and where it lives, so nobody, including us, can hold your website to ransom later.",
-        "For five months after launch, maintenance is free. We update rates and photographs, take backups, apply security patches and software updates, and test the enquiry form, checkout and WhatsApp button from time to time. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without needing our permission.",
+        "For two months after launch, maintenance is free. We update rates and photographs, take backups, apply security patches and software updates, and test the enquiry form, checkout and WhatsApp button from time to time. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer without needing our permission.",
         "Apps need one extra habit. Google Play and the App Store raise their minimum technical requirements every year, and apps that fall behind can be hidden from new users. We track those deadlines and ship the update well before they bite.",
       ],
     },
@@ -289,7 +289,7 @@ const sillod: CityContent = {
     {
       question: "What maintenance do you provide after launch for Sillod clients?",
       answer:
-        "Sillod clients get five months of free maintenance after launch: rate and photo updates, backups, security patches and routine checks of forms, checkout and WhatsApp buttons. After that, continuing with us costs from ₹8,000 a month, and it is optional. Because the code and every account are already yours, you can move to another developer at any time.",
+        "Sillod clients get two months of free maintenance after launch: rate and photo updates, backups, security patches and routine checks of forms, checkout and WhatsApp buttons. After that, continuing with us costs from ₹8,000 a month, and it is optional. Because the code and every account are already yours, you can move to another developer at any time.",
     },
     {
       question: "Do you serve Ajintha, Shivna, Bhavan and Soygaon as well as Sillod?",

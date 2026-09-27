@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "3", label: "People who build, test and manage your app" },
     { value: "1", label: "Weekly demo you can attend live" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How can a Canadian startup outsource app development safely?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "SaaS mobile clients", note: "A mobile companion for your existing web product, sharing its API and login.", href: "/canada/saas-development-company/", size: "md" },
       { name: "AI features", note: `Document reading, smart search or assistants inside the app, from ${P.ai}, with data use agreed first.`, href: "/canada/ai-chatbot-development/", size: "sm" },
       { name: "Cross-platform builds", note: "Flutter or React Native, chosen for your team's future, not ours.", href: "/canada/flutter-app-development/", size: "sm" },
-      { name: "Post-launch care", note: `Five free months after release, then maintenance from ${P.care}.`, size: "sm" },
+      { name: "Post-launch care", note: `Two free months after release, then maintenance from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A good outsourcing arrangement is easy to leave. If you can walk away at any milestone with working code, documentation and every account, you are safe; if not, you are locked in.`,
         `At handover we provide the repository, build and release instructions, a list of third-party services and their accounts, environment settings stored in your cloud account, and notes on known issues and next steps. Store and cloud access simply get removed from our logins, since everything was yours already.`,
-        `Every app we build gets five months of free maintenance after launch. After that you choose: continue with us from ${P.care}, move to your own developers, or hire someone else. None of those paths needs our permission.`,
+        `Every app we build gets two months of free maintenance after launch. After that you choose: continue with us from ${P.care}, move to your own developers, or hire someone else. None of those paths needs our permission.`,
       ],
     },
     {
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
       ["Settle the paperwork", "Ownership, confidentiality and data terms are agreed in the written quote, and your lawyer reviews them before you approve."],
       ["Create your accounts", "You set up Apple, Google Play, cloud and repository accounts in your company's name and invite us with limited permissions."],
       ["Build with weekly demos", "Each week you watch a live demo and usually get a test build. You sign off milestones only after testing them yourself."],
-      ["Release and hand over", "We submit through your store accounts, document the build and cover fixes for five months after launch."],
+      ["Release and hand over", "We submit through your store accounts, document the build and cover fixes for two months after launch."],
     ],
   },
   faqHeading: "Outsourcing app development from Canada: questions founders ask",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Do you use subcontractors?", answer: "No. The work is done by our three freelance developers: Ankur Kumar on the app build, Santosh Sharma on backend, cloud, data and AI, and Vedansh Shrivastava on project management and testing. You speak to the people writing your code in every weekly demo." },
     { question: "Can you work under our own project tools and processes?", answer: "Yes. If you already use a particular issue tracker, repository host or design tool, we work inside your accounts. That keeps every ticket, comment and file under your control. If you have no tools yet, we suggest simple ones and set them up in your company's name." },
     { question: "Do you visit our office for workshops?", answer: "No. We work only remotely from India by video, WhatsApp and shared documents, and do not travel to clients. If you want an in-person discovery workshop, a local product designer can run it and we build from their output, joining by video where useful." },
-    { question: "What maintenance do I get after launch?", answer: `Five months of free maintenance after launch covers bug fixes and compatibility updates while real users find the rough edges. After that, you can choose a maintenance plan from ${P.care}, quote new features separately, or move the documented code to another developer.` },
+    { question: "What maintenance do I get after launch?", answer: `Two months of free maintenance after launch covers bug fixes and compatibility updates while real users find the rough edges. After that, you can choose a maintenance plan from ${P.care}, quote new features separately, or move the documented code to another developer.` },
     { question: "How do I start outsourcing my app to your team?", answer: "Send a short description of the app, its users and any deadline on WhatsApp or through the contact form. We hold a call in your morning, help shape the written scope, and send an itemised USD quote in about two working days. Work begins only after you approve it in writing." },
   ],
   related: {

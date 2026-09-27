@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Wix Stores to WooCommerce", `From ${P.shop}`],
     ["Redirects", "Every old URL mapped, one by one"],
     ["Hosting and domain", "In your name, paid by you"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your migration" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after the move" },
+    { value: "2", label: "Months of free fixes after the move" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Large blog or 299+ page site", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Wix Stores to WooCommerce", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Rankings", value: "Protected by a 301 map; nobody can guarantee positions" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Forms and bookings", note: "Wix Forms and Wix Bookings replaced with WordPress form and appointment tools, or a small custom booking module when plugins do not fit.", href: "/booking-app-developer/", size: "md" },
       { name: "Domain and email move", note: "Domain transferred to a registrar account in your name, DNS rebuilt so business email keeps working through the switch.", href: "/cloud-hosting-setup-freelancer/", size: "sm" },
       { name: "SEO carry-over", note: "Titles, descriptions, headings and schema copied across, sitemap submitted and Google Search Console monitored for weeks after launch.", href: "/wordpress-seo-services/", size: "sm" },
-      { name: "Care after the move", note: `Five months of free fixes, then WordPress updates, backups and security checks from ${P.care}.`, href: "/wordpress-maintenance-services/", size: "sm" },
+      { name: "Care after the move", note: `Two months of free fixes, then WordPress updates, backups and security checks from ${P.care}.`, href: "/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Domain and email", "You handle DNS and the transfer lock", "Sometimes left to you", "Done on a call with you, email kept alive"],
       ["Who owns accounts", "You", "Depends on the seller", "You, from the first day"],
       ["Cost", "Your time plus hosting", "Quotes vary widely", `Brochure moves from ${P.site}`],
-      ["After launch", "You watch Search Console", "Usually ends at delivery", "5 months free, then from " + P.care],
+      ["After launch", "You watch Search Console", "Usually ends at delivery", "2 months free, then from " + P.care],
       ["Best fit", "Five-page sites with no blog", "Simple sites, flexible deadlines", "Sites with traffic, blogs, stores or bookings"],
     ],
     fine: "If your Wix site has three pages and no search traffic worth protecting, doing the move yourself over a weekend is a perfectly sensible choice.",
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario to show how the pieces fit, not a client story.`,
         `Say a six-room homestay in Coorg built its Wix site five years ago. It has 18 pages, a blog with 60 travel posts that bring most of its Google visitors, an enquiry form, and Wix Bookings for room reservations. The owner wants lower running costs, a Hindi version of the room pages and a booking flow that takes UPI.`,
         `We would quote the static site plan from ${P.site} for the 18 pages, with separate lines for the 60-post blog import, the Hindi pages and a booking module. Week one: inventory, a redirect sheet of roughly 80 rows, and the design on staging. Week two: blog import and a post-by-post check, room pages in both languages, the booking flow with UPI, and forms wired to the owner's email and WhatsApp.`,
-        `Launch happens on a weekday afternoon, outside peak check-in time. The Wix plan stays active for a month as a fallback. For the following weeks we watch Search Console daily for 404s on old travel-post URLs, fix any row missing from the map, and cover all of it under the five free months of maintenance.`,
+        `Launch happens on a weekday afternoon, outside peak check-in time. The Wix plan stays active for a month as a fallback. For the following weeks we watch Search Console daily for 404s on old travel-post URLs, fix any row missing from the map, and cover all of it under the two free months of maintenance.`,
       ],
     },
     {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Custom bookings or member portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Business rules, payments, roles"],
         ["Enquiry automation after the move", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "WhatsApp flows, CRM sync"],
         ["Monthly SEO after the move", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Content volume, competition"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Plugin count, store size"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Plugin count, store size"],
       ],
       hideSm: [2],
     },
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Hosting and, if you are transferring it, the domain registrar are opened under your email on a short call. You pay providers directly."],
       ["Review the rebuild on staging", "The WordPress version appears on a private link. You compare it page by page with the Wix site and send changes on WhatsApp."],
       ["Switch over and redirect", "DNS records are copied, the redirect map goes live, the domain points to WordPress and every form, booking and checkout is tested on the live site."],
-      ["Watch, fix, then hand over", "We monitor Search Console for weeks, fix missed URLs, and hand over logins and notes. Five months of maintenance are free."],
+      ["Watch, fix, then hand over", "We monitor Search Console for weeks, fix missed URLs, and hand over logins and notes. Two months of maintenance are free."],
     ],
   },
   faqHeading: "Wix to WordPress migration: questions people ask",
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
     { question: "What about my business email on the Wix domain?", answer: "Email keeps working as long as the MX, SPF, DKIM and other DNS records are copied exactly to the new DNS host before the nameservers change. We list every existing record, recreate it, switch, then send and receive test emails. Most email outages during Wix moves happen because this step was skipped." },
     { question: "Does WordPress help with AI search visibility compared to Wix?", answer: "The platform matters less than the page. AI answer engines quote pages with clear structure, direct answers, FAQs and schema. WordPress gives you full control over that markup, speed and structured data, which makes the work easier. Nobody can promise AI citations, but a clean WordPress build removes technical obstacles." },
     { question: "Can you move a Wix site with Hindi pages to WordPress?", answer: "Yes. Hindi or regional-language pages are rebuilt with proper language tags and hreflang where both versions exist, so Google shows each visitor the right one. You supply or approve the translated text. WordPress handles Devanagari and other scripts well, and we check fonts render correctly on budget Android phones." },
-    { question: "Do you offer maintenance after the WordPress site is live?", answer: `Yes. Five months of maintenance after launch are free, covering fixes, plugin and core updates, backups and small content edits. After that, maintenance is optional and starts at ${P.care}. You can also run the site yourself or hand it to another developer, since you hold every login.` },
+    { question: "Do you offer maintenance after the WordPress site is live?", answer: `Yes. Two months of maintenance after launch are free, covering fixes, plugin and core updates, backups and small content edits. After that, maintenance is optional and starts at ${P.care}. You can also run the site yourself or hand it to another developer, since you hold every login.` },
     { question: "Can I migrate from Wix to WordPress myself?", answer: "Yes, if the site is small. Copy each page, re-upload images, rebuild the contact form, set 301 redirects for any URL that changes and copy DNS records before switching. The risk grows with blogs, stores, bookings and search traffic. If organic visitors bring you business, a professional redirect map is cheap insurance." },
     { question: "Wix se WordPress par website shift karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki website ka migration ${P.site} se shuru hota hai aur 1–2 hafte lagte hain. Wix store ko WooCommerce par le jaana ${P.shop} se shuru hota hai. Har purane URL ka 301 redirect banta hai taaki Google traffic bana rahe. Pehle itemised quote milta hai, approval ke baad hi payment.` },
   ],
@@ -439,7 +439,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to leave Wix? Send us your site link",
-    note: `Share your Wix URL on WhatsApp. In about two working days you get an itemised quote and a draft URL inventory, with brochure-size moves starting at ${P.site}, hosting in your name and five months of free maintenance after launch.`,
+    note: `Share your Wix URL on WhatsApp. In about two working days you get an itemised quote and a draft URL inventory, with brochure-size moves starting at ${P.site}, hosting in your name and two months of free maintenance after launch.`,
   },
 };
 

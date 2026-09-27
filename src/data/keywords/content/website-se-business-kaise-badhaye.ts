@@ -45,7 +45,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: design, SEO aur tracking ek hi team" },
     { value: "2", label: "Working din mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Mahine free maintenance launch ke baad" },
     { value: "7", label: "Din WhatsApp par jawab, IST" },
   ],
   answer: {
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
         ["Monthly SEO", "New pages, local SEO, fixes, Search Console report", `${P.seo} (${P.seoUsd})`, "Ongoing"],
         ["WhatsApp follow-up automation", "Auto-reply, lead capture, reminders", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Online store", "Catalogue, UPI and card checkout, orders", `${P.shop} (${P.shopUsd})`, "4–8 weeks"],
-        ["Maintenance after free period", "Updates, backups, small edits, checks", `${P.care} (${P.careUsd})`, "After 5 free months"],
+        ["Maintenance after free period", "Updates, backups, small edits, checks", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
       hideSm: [3],
     },
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Do you work in Hindi and on Hinglish content?", answer: "Yes. The team works in English and Hindi, and we can write or edit service pages in Hindi or natural Hinglish when your customers search that way. Many mobile searches in India are typed in Hinglish, so a Hinglish page for your top service can reach people an English-only page misses. You approve every page before it goes live." },
     { question: "How do payments work for website growth work?", answer: "In India you pay by UPI or bank transfer for the scope in your written quote; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote in writing. Payment milestones for your project are set out in that quote; our terms page covers the general conditions." },
     { question: "Do you visit the shop or office for the audit?", answer: "No. We are three freelance developers working remotely from India, so the audit is done online from your website, Search Console, Business Profile and a WhatsApp or video call with you. For photos, you or your staff shoot them on a phone with simple guidance from us. This keeps costs down and lets us work with businesses in any city." },
-    { question: "What happens after the free maintenance period?", answer: "Every launch includes 5 months of free maintenance for fixes and small updates. After that you can take monthly maintenance, which starts at the price shown on our pricing page, or manage the site yourself since you already hold every login. Monthly SEO is separate and optional, for businesses that want new pages and local SEO work every month." },
+    { question: "What happens after the free maintenance period?", answer: "Every launch includes 2 months of free maintenance for fixes and small updates. After that you can take monthly maintenance, which starts at the price shown on our pricing page, or manage the site yourself since you already hold every login. Monthly SEO is separate and optional, for businesses that want new pages and local SEO work every month." },
     { question: "Can you guarantee more leads or first-page ranking?", answer: "No, and be careful with anyone who does. Rankings are decided by Google and enquiries depend on your market, prices and how fast you reply. What we can commit to is the work itself, written in the quote, and honest tracking so you see exactly what changed after each fix. Most owners find that clarity more useful than any promise." },
     { question: "Do I need an online store to grow sales through my website?", answer: "Not always. Many businesses sell better by taking enquiries on WhatsApp and closing on the phone, especially for custom or high-value work. An online store with UPI and card checkout makes sense when you have standard products, clear prices and can handle delivery. We build both and will tell you which fits your products." },
   ],

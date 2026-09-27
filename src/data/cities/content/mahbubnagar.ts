@@ -7,7 +7,7 @@ const mahbubnagar: CityContent = {
   meta: {
     title: "IT Services in Mahbubnagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu-friendly local SEO and WhatsApp automation for Mahbubnagar clinics, colleges, traders and suppliers. From ₹10,000, with 5 free months of upkeep.",
+      "Websites, Telugu-friendly local SEO and WhatsApp automation for Mahbubnagar clinics, colleges, traders and suppliers. From ₹10,000, with 2 free months of upkeep.",
     keywords: [
       "website development team in Mahbubnagar",
       "website designer Mahabubnagar",
@@ -30,11 +30,11 @@ const mahbubnagar: CityContent = {
     eyebrow: "Mahbubnagar (Palamoor) · Telangana",
     h1: "Websites, Google visibility and automation for Mahbubnagar businesses",
     lede:
-      "Mahbubnagar is close enough to Hyderabad that its customers compare local shops with city options on the same phone. Our three-engineer remote team builds fast websites, UPI stores and WhatsApp automations for clinics, colleges, traders and suppliers here, with published starting prices and five months of free maintenance after launch.",
+      "Mahbubnagar is close enough to Hyderabad that its customers compare local shops with city options on the same phone. Our three-engineer remote team builds fast websites, UPI stores and WhatsApp automations for clinics, colleges, traders and suppliers here, with published starting prices and two months of free maintenance after launch.",
     pills: ["Sites from ₹10,000", "Telugu, Urdu and English searches", "Supplier sites for Jadcherla industry", "WhatsApp enquiry automation", "Hosting in your own name"],
   },
   quickAnswer:
-    "In Mahbubnagar, a business website with us starts at ₹10,000, and an SEO website of 299+ pages starts at ₹20,000. Ecommerce stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office, and each launch includes five free months of maintenance.",
+    "In Mahbubnagar, a business website with us starts at ₹10,000, and an SEO website of 299+ pages starts at ₹20,000. Ecommerce stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers without a local office, and each launch includes two free months of maintenance.",
   snapshot: [
     { label: "Old name", value: "Palamoor, renamed in 1890 after Mir Mahbub Ali Khan, the sixth Nizam" },
     { label: "Distance to Hyderabad", value: "About 98 km by NH 44; Rajiv Gandhi International Airport is roughly 86 km" },
@@ -51,7 +51,7 @@ const mahbubnagar: CityContent = {
     ai: "WhatsApp assistants that answer routine questions in Telugu, Urdu or English and pass real enquiries to your staff without delay.",
     data: "Clear dashboards for distributors, fertiliser dealers and transporters who manage stock and payments across the district’s mandals.",
     app: "Android and iOS apps for student logins, patient bookings and field staff reporting on basic phones, published on both stores from ₹40,000.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month, with admission and harvest seasons planned for.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then from ₹8,000 a month, with admission and harvest seasons planned for.",
   },
   whyUsIntro:
     "Mahbubnagar businesses often end up choosing between a Hyderabad agency with city rates and a local operator who is hard to reach later. We sit in between: published starting prices, direct access to the three engineers doing the work, and replies on WhatsApp every day of the week.",
@@ -72,7 +72,7 @@ const mahbubnagar: CityContent = {
       heading: "Website prices for Mahbubnagar firms",
       paragraphs: [
         "We publish starting prices so you can plan without a sales visit. A business website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 299+ pages, covering each service, department or product and the towns you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start from ₹50,000, and custom web applications start from ₹60,000.",
-        "AI and WhatsApp automation begins at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month after the five free months. All of this is on our <a href=\"/pricing/\">pricing page</a>.",
+        "AI and WhatsApp automation begins at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month after the two free months. All of this is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final number follows the scope. A dental clinic with eight pages is quick work. A college that needs course pages for every branch, an admissions form, a results archive and Telugu versions of the key pages takes longer. The quote lists every page and feature, and you are not billed for anything until you approve it in writing.",
       ],
       list: [
@@ -175,11 +175,11 @@ const mahbubnagar: CityContent = {
     },
     {
       id: "ownership-upkeep-mahbubnagar",
-      heading: "Ownership, handover and five free months of upkeep",
+      heading: "Ownership, handover and two free months of upkeep",
       paragraphs: [
         "Many Mahbubnagar businesses have lost websites because the domain was registered by whoever built it, and that person later stopped responding. Renewals lapse, the site disappears, and years of Google history go with it. We set things up so that cannot happen.",
         "Your domain is registered to you, the hosting account is in your name, and at launch you receive every login with a short note on what runs where. The code is yours, and you can move it to another developer at any time without an exit fee.",
-        "For five months after launch, maintenance costs nothing: content and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, maintenance starts at ₹8,000 a month, or you can pay per change when you need something. Many clients use the free period to see how the site performs through an admission or wedding season before deciding.",
+        "For two months after launch, maintenance costs nothing: content and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, maintenance starts at ₹8,000 a month, or you can pay per change when you need something. Many clients use the free period to see how the site performs through an admission or wedding season before deciding.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const mahbubnagar: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay only for individual changes.",
+        "For two months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay only for individual changes.",
     },
     {
       question: "Do you work with businesses in Jadcherla, Wanaparthy and nearby towns?",

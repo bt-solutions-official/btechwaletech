@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers jo setup se automation tak karte hain" },
     { value: "2", label: "Working din mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance go-live ke baad" },
+    { value: "2", label: "Mahine free maintenance go-live ke baad" },
     { value: "0", label: "Platform fee hamari taraf se; Meta ke charges seedhe aapke account par" },
   ],
   answer: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Chatbot aur auto-replies", note: "Menu, FAQ jawab, order status aur human handover. Hindi, English ya Hinglish mein.", href: "/whatsapp-chatbot-developer/", size: "md" },
       { name: "Shared inbox aur CRM", note: "Ek number par kai staff, lead tags aur follow-up reminders, chahe custom ho ya aapka maujooda CRM.", href: "/whatsapp-crm-for-small-business/", size: "sm" },
       { name: "Bulk messages sahi tareeke se", note: "Opt-in wale contacts ko approved templates se, quality rating dekhte hue.", href: "/whatsapp-bulk-message-api/", size: "sm" },
-      { name: "Baad ki dekhbhaal", note: `Go-live ke baad 5 mahine free fixes; phir chahein toh ${P.care} se maintenance.`, size: "sm" },
+      { name: "Baad ki dekhbhaal", note: `Go-live ke baad 2 mahine free fixes; phir chahein toh ${P.care} se maintenance.`, size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "WhatsApp Business API setup ka kharcha: hamare starting prices",
-    note: `WhatsApp Business API kaise le, is sawal ke saath kharcha bhi judta hai. Access khud Meta se free milta hai; paisa do jagah lagta hai. Pehla, Meta ke per-message charges jo delivered templates par aapke billing account se kat-te hain. Doosra, setup aur automation ka kaam. Hamare saath WhatsApp setup ke saath automation ${P.ai} se shuru hota hai aur aam taur par 2–4 hafte leta hai; isme verification help, Cloud API connection, templates aur ek chatbot ya order-update flow aata hai. Poora CRM ya custom software chahiye toh woh ${P.software} se hai. International clients ke liye yahi kaam ${P.aiUsd} se. Launch ke baad 5 mahine free maintenance, phir ${P.care} se, agar zaroorat ho.`,
+    note: `WhatsApp Business API kaise le, is sawal ke saath kharcha bhi judta hai. Access khud Meta se free milta hai; paisa do jagah lagta hai. Pehla, Meta ke per-message charges jo delivered templates par aapke billing account se kat-te hain. Doosra, setup aur automation ka kaam. Hamare saath WhatsApp setup ke saath automation ${P.ai} se shuru hota hai aur aam taur par 2–4 hafte leta hai; isme verification help, Cloud API connection, templates aur ek chatbot ya order-update flow aata hai. Poora CRM ya custom software chahiye toh woh ${P.software} se hai. International clients ke liye yahi kaam ${P.aiUsd} se. Launch ke baad 2 mahine free maintenance, phir ${P.care} se, agar zaroorat ho.`,
   },
   guideLabel: "WhatsApp Business API lene ki poori guide",
   guide: [
@@ -448,7 +448,7 @@ const content: FreelanceContent = {
     { question: "Can I connect the WhatsApp API to my website, Tally or CRM?", answer: "Yes, that is where it pays off. Order events from a website, invoice data from Tally, rows from Google Sheets or lead stages in a CRM can each trigger an approved template, and incoming replies can be logged back. Each connection is a small project of its own. The integration guide on this site walks through the common ones." },
     { question: "Do you visit our office to set up WhatsApp API?", answer: "No. We are three freelance developers working remotely from India, so verification checks, template drafting and training all happen over screen share and WhatsApp. That keeps the starting price the same in every city. You upload your own documents; we check the fields with you and never keep copies of your legal papers." },
     { question: "Kya API lene ke baad bhi phone par chats dekh sakte hain?", answer: "Normal API setup mein chats aapke software ya inbox panel mein dikhti hain, phone app par nahi. Agar aap phone par bhi chats dekhna chahte hain, toh coexistence ka raasta chuniye, jisme wahi number Business app aur API dono par chalta hai. Kai owners isi wajah se coexistence lete hain aur staff ke liye alag inbox rakhte hain." },
-    { question: "What happens after the 5 free months of maintenance?", answer: "For five months after go-live we fix bugs and handle small adjustments in the setup at no charge. After that, maintenance is optional and starts at the listed maintenance price, covering things like token renewal, template changes and keeping the webhook server updated. Exact scope is agreed in your written quote, and you can also run it yourself using the handover notes." },
+    { question: "What happens after the 2 free months of maintenance?", answer: "For two months after go-live we fix bugs and handle small adjustments in the setup at no charge. After that, maintenance is optional and starts at the listed maintenance price, covering things like token renewal, template changes and keeping the webhook server updated. Exact scope is agreed in your written quote, and you can also run it yourself using the handover notes." },
     { question: "How do we pay for the WhatsApp API setup?", answer: "Indian clients pay us by UPI or bank transfer against an itemised quote, and nothing is billed before your written approval. International clients pay in USD by Wise, bank wire or PayPal. Meta’s message charges are never routed through us; they are billed directly to your own Meta billing account, so you always see the real per-message cost." },
   ],
   related: {

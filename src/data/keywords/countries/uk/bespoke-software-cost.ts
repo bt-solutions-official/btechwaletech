@@ -36,14 +36,14 @@ const content: FreelanceContent = {
     ["Custom web app or software from", P.software],
     ["Usual build window", "6–12 weeks"],
     ["AI automation add-ons from", P.ai],
-    ["Support after go-live", `5 months free, then from ${P.care}`],
+    ["Support after go-live", `2 months free, then from ${P.care}`],
     ["Source code and repositories", "Owned by you"],
     ["Billing", "USD quote, nothing billed before written approval"],
   ],
   stats: [
     { value: "3", label: "Developers you speak to directly, no account managers" },
     { value: "2", label: "Working days to an itemised software quote" },
-    { value: "5", label: "Months of free support after go-live" },
+    { value: "2", label: "Months of free support after go-live" },
     { value: "6–12", label: "Weeks for a typical first release" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Bespoke software development cost with us: how we price it",
-    note: `Custom software starts at ${P.software}. That covers a first release of a web-based system with user login, a handful of core screens, a database designed for your data, an admin area and deployment to cloud hosting in your own account. We estimate each feature in days and show the total, so you can see which features cost what. Price rises with each integration, each extra user role with distinct permissions, data migration from old systems, reporting complexity, and compliance needs such as audit trails. AI features start at ${P.ai}. Support after the five free months starts at ${P.care}.`,
+    note: `Custom software starts at ${P.software}. That covers a first release of a web-based system with user login, a handful of core screens, a database designed for your data, an admin area and deployment to cloud hosting in your own account. We estimate each feature in days and show the total, so you can see which features cost what. Price rises with each integration, each extra user role with distinct permissions, data migration from old systems, reporting complexity, and compliance needs such as audit trails. AI features start at ${P.ai}. Support after the two free months starts at ${P.care}.`,
   },
   guideLabel: "Bespoke software development cost explained",
   guide: [
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
         `After launch, bespoke software costs hosting, monitoring, security updates and ongoing changes. Budget for these from the start, because a system nobody maintains becomes a liability.`,
         `Hosting is paid directly to your cloud provider. Security updates cover the framework, libraries and operating system; skipping them is how systems end up with known holes. Monitoring means someone notices when a scheduled job fails or an integration stops syncing, ideally before your staff do.`,
         `Then there are changes. Every system that people use gets change requests: a new report, an extra field, a tweak to a workflow. Budget some developer time each year for them, because a system frozen at launch slowly drifts away from how the business works.`,
-        `With us, the first five months after go-live are free support: bug fixes, small adjustments and help as your team settles in. After that, support starts at ${P.care}, and larger features are quoted separately. Our <a href='/uk/website-maintenance-cost/'>guide to maintenance costs in the UK</a> covers the website side of the same question.`,
+        `With us, the first two months after go-live are free support: bug fixes, small adjustments and help as your team settles in. After that, support starts at ${P.care}, and larger features are quoted separately. Our <a href='/uk/website-maintenance-cost/'>guide to maintenance costs in the UK</a> covers the website side of the same question.`,
       ],
     },
     {
@@ -335,7 +335,7 @@ const content: FreelanceContent = {
       id: "build-vs-saas",
       eyebrow: "Five-year view",
       heading: "Bespoke build vs per-seat SaaS: what to put in each column",
-      note: `Fill in your own figures. Our side of the build starts at ${P.software}; support starts at ${P.care} after five free months.`,
+      note: `Fill in your own figures. Our side of the build starts at ${P.software}; support starts at ${P.care} after two free months.`,
       columns: ["Cost line", "Per-seat SaaS", "Bespoke software"],
       rows: [
         ["Year-one outlay", "Seats × months, plus set-up", "Build cost plus hosting"],
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Feature-by-feature quote", "You receive a USD quote with days per feature in about two working days. Trim, phase or reorder it before approving anything in writing."],
       ["Build in your accounts", "Code goes into your repository and the system into your cloud account from week one, with a test link you can click through."],
       ["Test with real users", "Your staff try the system with realistic data. We fix issues, adjust workflows and agree anything new as a logged change."],
-      ["Go live and support", "We migrate data, launch, and provide five months of free support, then optional support from our starting maintenance price."],
+      ["Go live and support", "We migrate data, launch, and provide two months of free support, then optional support from our starting maintenance price."],
     ],
   },
   faqHeading: "Bespoke software development cost: common questions",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "How much contingency should I add to a software project?", answer: "It depends on how well the work is understood. A like-for-like rebuild of a familiar system needs less; a new process nobody has tried needs more. Rather than a fixed percentage, mark each feature as clear or unclear and hold contingency in your own budget against the unclear ones. Short investigation spikes can turn unknowns into estimates." },
     { question: "Fixed price or time and materials: which is better for bespoke software?", answer: "A fixed-scope contract suits a clearly specified, stable system and gives price certainty, though suppliers build a risk premium into it. Time and materials suits evolving products and lets you reprioritise, but you carry more risk and need weekly visibility. Many UK firms do best with a fixed-scope first release followed by phases priced one at a time." },
     { question: "How long does bespoke software take to build?", answer: "A focused first release of a business system typically takes six to twelve weeks with us. Larger systems are split into phases so people can use something useful early. The biggest schedule risks are unclear requirements, slow access to existing systems and data migration. A short discovery phase and quick feedback on test versions keep things moving." },
-    { question: "What costs come after bespoke software goes live?", answer: `Expect cloud hosting paid to your provider, security updates to frameworks and libraries, monitoring, bug fixes and new features as your business changes. With us, the first five months after go-live are free support. After that, support starts at ${P.care}, and larger features are quoted separately so you control what you spend each year.` },
+    { question: "What costs come after bespoke software goes live?", answer: `Expect cloud hosting paid to your provider, security updates to frameworks and libraries, monitoring, bug fixes and new features as your business changes. With us, the first two months after go-live are free support. After that, support starts at ${P.care}, and larger features are quoted separately so you control what you spend each year.` },
     { question: "Who owns the code for bespoke software?", answer: "You should, and it should be written into the contract as an assignment of intellectual property once paid. The code should live in a repository under your organisation's account, and hosting should be in your cloud account. We work in your repository and cloud account from the first week, so ownership never depends on a final handover." },
     { question: "Can a small UK business afford bespoke software?", answer: `Often, yes, if the first release is kept focused. Many small firms start with one core workflow, such as quoting or job tracking, and add features as the system proves itself. Custom software with us starts at ${P.software}. The key is cutting scope to what saves the most time now, rather than specifying every future wish upfront.` },
     { question: "What makes bespoke software development cost more than expected?", answer: "The usual causes are integrations that turn out harder than assumed, extra user roles added mid-build, messy data migration, and changing direction after screens are built. Unclear requirements at the start drive most of these. A proper discovery phase, a feature-by-feature estimate and logging every change with its cost in writing keep budgets under control." },

@@ -35,14 +35,14 @@ const content: FreelanceContent = {
     ["Multi-location group from", `${P.seoSite} · 3–5 weeks`],
     ["Custom intake or referral tool from", P.software],
     ["Phone and message triage automation", `From ${P.ai}`],
-    ["Free fixes after launch", `5 months, then care from ${P.care}`],
+    ["Free fixes after launch", `2 months, then care from ${P.care}`],
     ["Overlap with your office", "US Eastern mornings = IST evenings"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support the site" },
     { value: "2", label: "Working days until your itemized quote" },
     { value: "100", label: "Pages included in the starting plan" },
-    { value: "5", label: "Free months of post-launch fixes" },
+    { value: "2", label: "Free months of post-launch fixes" },
   ],
   answer: {
     heading: "What does good medical practice website design include?",
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
         `Custom referral portal or digital intake connected to your systems: from ${P.software}.`,
         `Question routing and missed-call follow-up automation: from ${P.ai}.`,
         `Ongoing local search work across locations: from ${P.seo} a month.`,
-        `Care after the free five months: from ${P.care}.`,
+        `Care after the free two months: from ${P.care}.`,
       ],
       after: [
         `Content volume is the main price driver: the number of provider bios, service and condition pages, and locations. Hosting, domain and any form service are billed to the practice directly. See the full <a href='/pricing/'>pricing page</a>; you approve an itemized quote before anything is billed.`,
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Who writes the medical content on the website?", answer: "We draft service and condition pages in plain language from your notes, and your physicians review every clinical statement before publishing. Pages can show a reviewed-by line with the provider’s name and date. We avoid promises about outcomes and never invent statistics or credentials." },
     { question: "Can you redesign our practice website without losing search traffic?", answer: "We map every old URL, keep strong pages at the same address or redirect them to the closest new page, carry over content that ranks, and monitor Search Console after launch. Some movement is normal after any redesign, and no one can guarantee positions, but careful redirects protect most existing traffic." },
     { question: "What platform do you use for medical practice websites?", answer: "Usually a fast static or headless build with a simple content editor, hosted in your practice’s cloud account. Portals, scheduling, bill pay and telehealth stay as vendor links or embeds, so changing one vendor means changing a few links, not rebuilding. WordPress is available when you need many editors." },
-    { question: "What support do we get after the practice website launches?", answer: `Five months of free fixes and small edits come first, such as new providers, insurance changes or holiday hours. After that, maintenance starts at ${P.care}. Your staff can also update bios, hours, alerts and insurance entries themselves using the editor and the handover guide.` },
+    { question: "What support do we get after the practice website launches?", answer: `Two months of free fixes and small edits come first, such as new providers, insurance changes or holiday hours. After that, maintenance starts at ${P.care}. Your staff can also update bios, hours, alerts and insurance entries themselves using the editor and the handover guide.` },
   ],
   related: {
     heading: "More US pages for healthcare practices",

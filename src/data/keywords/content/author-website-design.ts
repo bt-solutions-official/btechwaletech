@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Signed-copy shop", `From ${P.shop}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["You keep", "Domain, hosting, code and mailing list"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build your site" },
     { value: "100", label: "Pages allowed in the static plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What should author website design include, and what does it cost in India?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Direct sales of signed copies", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Languages", value: "English, Hindi or a regional language you supply" },
       { label: "Who owns it", value: "You: domain, hosting, files and subscribers" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What author website design costs",
-    note: `An author site is usually a static build, so most writers land close to the ${P.site} starting price. What moves the quote up is not the number of books but the extras around them: a shop for signed copies, a large backlist or a publisher catalogue that needs a 299+ page SEO build, a members area for paid chapters, or content in two languages. Newsletter tools, email hosting and the domain are paid by you directly to those providers, so you keep control of them. Every item appears in an itemised quote first, nothing is billed before you approve it in writing, and upkeep is free for 5 months after launch.`,
+    note: `An author site is usually a static build, so most writers land close to the ${P.site} starting price. What moves the quote up is not the number of books but the extras around them: a shop for signed copies, a large backlist or a publisher catalogue that needs a 299+ page SEO build, a members area for paid chapters, or content in two languages. Newsletter tools, email hosting and the domain are paid by you directly to those providers, so you keep control of them. Every item appears in an itemised quote first, nothing is billed before you approve it in writing, and upkeep is free for 2 months after launch.`,
   },
   guideLabel: "Author website design guide",
   guide: [
@@ -213,7 +213,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Author website design in India starts at ${P.site} (about ${P.siteUsd}) for a static site of up to 100 pages with us, and most writers with a handful of books fit comfortably inside that. Other freelancers and studios quote very differently, so compare what is included rather than the headline number.`,
         `The cost drivers for an author are predictable. The number of books matters less than the number of templates: once a book page template exists, adding the tenth title is quick. What adds real work is a direct shop (from ${P.shop}), a large backlist or a small publisher’s catalogue that needs an SEO build of 299+ pages (from ${P.seoSite}), a members area for paid chapters or workshops (a custom web app, from ${P.software}), two-language content, and heavy custom illustration.`,
-        `Running costs are separate and small: a domain renewal, hosting, and the email newsletter tool, which you pay directly. After launch you get 5 months of free maintenance; after that care plans start at ${P.care} if you want someone to update buy links, add new books and keep the site patched.`,
+        `Running costs are separate and small: a domain renewal, hosting, and the email newsletter tool, which you pay directly. After launch you get 2 months of free maintenance; after that care plans start at ${P.care} if you want someone to update buy links, add new books and keep the site patched.`,
       ],
       list: [
         "Ask any designer: is each new book page included, or charged separately?",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
       ["Content checklist and accounts", "We send a list of covers, blurbs, bios and photos to gather. You open the domain, hosting and email tool accounts in your own name."],
       ["Design and build", "We design the homepage and book template first, get your approval, then build every page on a staging link you can open on your phone."],
       ["Launch and indexing", "We test every buy link and form, add structured data, submit the sitemap to Search Console and switch the site live."],
-      ["Handover and aftercare", "You get logins, a short video on adding books and events, and 5 months of free maintenance for fixes and small updates."],
+      ["Handover and aftercare", "You get logins, a short video on adding books and events, and 2 months of free maintenance for fixes and small updates."],
     ],
   },
   faqHeading: "Author website design: questions writers ask",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Do authors really need a website if they are on Amazon and social media?", answer: "Yes, if you plan to publish more than one book. A retailer page shows one title and gives you no reader contact details, and social accounts can be restricted or lose reach overnight. Your own website is the permanent address for all your books, your bio and your newsletter, and it is the page journalists and festival organisers look for when they search your name." },
     { question: "What pages should an author website have?", answer: "At minimum: a homepage featuring your latest book, one page per book with buy links, an about page with a photo and bio, a newsletter signup page, an events page and a contact or booking page. Many authors add a media kit, a reading-order page for a series, a blog or essays section and, if they sell direct, a small shop for signed copies." },
     { question: "How long does it take to design an author website?", answer: "A static author site usually takes 1–2 weeks once your covers, blurbs, bio and photos are ready. A site with a shop for signed copies takes 4–8 weeks because payments and shipping need testing. The best time to start is around three months before your next release, so the site and its pre-launch page are live well ahead of launch." },
-    { question: "Can I update my author website myself?", answer: "Yes. We set up an editor so you can add a new book, change a buy link, post an essay or list an event without calling anyone. At handover you get a short recorded walkthrough. If you would rather not touch it, the first 5 months of maintenance are free and paid care plans start after that." },
+    { question: "Can I update my author website myself?", answer: "Yes. We set up an editor so you can add a new book, change a buy link, post an essay or list an event without calling anyone. At handover you get a short recorded walkthrough. If you would rather not touch it, the first 2 months of maintenance are free and paid care plans start after that." },
     { question: "Should I use my name or my book title as the domain?", answer: "Use your author name, the one printed on your covers. Book titles change between editions and your second book will need a home too. If your name is taken, try adding “author”, “books” or “writes”. You can also register the book title domain and point it at the book page on your main site, which is useful on bookmarks and posters." },
     { question: "How do I add buy links for Amazon, Flipkart and my publisher?", answer: "Each book page gets a row of buttons grouped by format, each pointing to the exact edition on that store rather than a search results page. We test every link on a phone before launch. When a new edition or format appears, you add one more link in the editor. Ask your publisher which store they would like listed first." },
     { question: "How do authors grow a mailing list from their website?", answer: "Offer something readers value, such as a bonus chapter, a short story or a reading-order guide, and ask for the email at the moments of highest interest: after a sample chapter, at the end of each book page and on pre-launch pages. We connect the form to an email tool in your own name, with double opt-in and a welcome email that delivers the gift." },
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
     { question: "Do you write the book blurbs and author bio?", answer: "We usually work with the blurbs and bios you or your publisher already have, and we will edit them for the web: shorter paragraphs, a clear hook and the right headings. We can draft a first version of a web bio from your notes for you to rewrite in your own voice. The words about your books should always sound like you." },
     { question: "Is a freelancer or an agency better for an author website?", answer: "For most authors, the scope is small enough that a freelancer or small freelance team is a good fit: you talk directly to the people building it and pay for fewer layers. A larger studio can make sense for a big publisher campaign with video and ads. Whoever you choose, insist on owning the domain, hosting and code." },
     { question: "Can I pay in instalments, and how do payments work?", answer: "Payment stages are set in your written quote, usually split across approval, build and launch. In India you pay by UPI or bank transfer against a proper invoice; authors abroad can pay by Wise, bank wire or PayPal in USD. Nothing is billed before you approve the quote. For cancellation questions see our refund policy page or ask us before you start." },
-    { question: "What happens after the 5 months of free maintenance?", answer: `You can take over updates yourself, since the editor is set up for that, or choose a care plan starting at ${P.care} for help adding new books, fixing buy links, updating plugins and backups. Hosting and domain renewals continue in your own name either way, so the site keeps running whether or not you keep paying us.` },
+    { question: "What happens after the 2 months of free maintenance?", answer: `You can take over updates yourself, since the editor is set up for that, or choose a care plan starting at ${P.care} for help adding new books, fixing buy links, updating plugins and backups. Hosting and domain renewals continue in your own name either way, so the site keeps running whether or not you keep paying us.` },
     { question: "Can you redesign my old author website without losing search traffic?", answer: "Yes. Before rebuilding, we list every existing URL, keep the useful ones, and set permanent redirects from old addresses to their new equivalents so links from interviews and reviews keep working. We also move you off any free subdomain onto your own domain. After launch we watch Google Search Console for errors during the free maintenance period." },
   ],
   related: {

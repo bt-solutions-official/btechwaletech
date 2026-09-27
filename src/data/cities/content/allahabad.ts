@@ -32,10 +32,10 @@ const allahabad: CityContent = {
     h1: "Web, app, SEO and automation services for Prayagraj institutes, chambers and traders",
     lede:
       "We are three engineers who build websites, run local SEO and set up WhatsApp automation for businesses in Prayagraj, the city most people still call Allahabad. Coaching centres near the university, advocates around the High Court, hotels that fill up at Magh Mela and shops in Chowk and Katra all get the same published prices.",
-    pills: ["Sites from ₹10,000", "Hindi and English pages", "Coaching and legal sites", "Mela-season booking", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Hindi and English pages", "Coaching and legal sites", "Mela-season booking", "2 months free upkeep"],
   },
   quickAnswer:
-    "A business website in Prayagraj costs from ₹10,000 with us for a static site and from ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000. We are a remote three-person team with no local office. Every build includes hosting setup in your name, basic SEO and five months of free maintenance after launch.",
+    "A business website in Prayagraj costs from ₹10,000 with us for a static site and from ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000. We are a remote three-person team with no local office. Every build includes hosting setup in your name, basic SEO and two months of free maintenance after launch.",
   snapshot: [
     { label: "Old names still searched", value: "Allahabad, Ilahabad and Prayag, alongside Prayagraj since the 2018 renaming" },
     { label: "Commercial centres", value: "Civil Lines, Chowk, Katra, George Town, Kidganj and Kareli" },
@@ -52,10 +52,10 @@ const allahabad: CityContent = {
     ai: "WhatsApp replies and enquiry sorting for coaching centres, lodges and hotels whose phones ring nonstop in admission season and at Magh Mela.",
     data: "Admission funnels, fee collection and room occupancy reports built into simple dashboards the owner can read on a phone.",
     app: "Android and iOS apps for student logins, mock tests and room bookings, downloadable from Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "Result updates, notice uploads, backups and security fixes, free for five months and from ₹8,000 a month afterwards.",
+    maintenance: "Result updates, notice uploads, backups and security fixes, free for two months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "In Prayagraj you can find web designers through a cousin, a coaching notice board or a Justdial listing, and quality varies widely. We publish prices, put the domain in your name, reply on WhatsApp every day of the week and keep maintaining the site free for five months after it goes live.",
+    "In Prayagraj you can find web designers through a cousin, a coaching notice board or a Justdial listing, and quality varies widely. We publish prices, put the domain in your name, reply on WhatsApp every day of the week and keep maintaining the site free for two months after it goes live.",
   pricingIntro:
     "Website quotes in Prayagraj often come as a single number with no breakdown, which makes it hard to know what you are paying for. Our starting prices are below. The final figure depends on the number of pages, the features you need and how much text and photography you can supply, and it reaches you itemised before work begins.",
   sections: [
@@ -168,7 +168,7 @@ const allahabad: CityContent = {
       paragraphs: [
         "A surprising number of Prayagraj businesses do not control their own websites. The domain was booked years ago by a nephew who has since moved to Noida, or by a designer who stopped replying, and nobody remembers the password. When the renewal lapses, the site disappears, and sometimes the domain is bought by someone else. For a coaching institute whose name is its brand, that is a serious loss.",
         "We avoid this by setting things up in your name from the start. The domain is registered to you, the hosting account is yours, and at launch you receive every login plus a short note explaining where everything lives. The source code is yours as well. If you ever want to move to another developer, you can do it without asking our permission or paying an exit fee.",
-        "Maintenance after launch is free for the first five months. That covers updating notices and results, fixing bugs, applying security and software updates, taking backups, watching uptime and checking speed. After that, it continues from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work alone.",
+        "Maintenance after launch is free for the first two months. That covers updating notices and results, fixing bugs, applying security and software updates, taking backups, watching uptime and checking speed. After that, it continues from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work alone.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const allahabad: CityContent = {
         "Yes. The domain is registered to you, the hosting account belongs to you, and you get every login and the source code at launch. If you later want another developer, you can move without our permission or any fee. We insist on this because lost domains are a common problem with older Prayagraj websites.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "Maintenance continues from ₹8,000 a month if you want us to keep handling updates, backups, security fixes and speed checks. If you prefer, you can stop the plan and message us only when something needs changing, paying just for that work. The site keeps running either way, because it is hosted on your own account.",
     },

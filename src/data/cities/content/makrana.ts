@@ -57,7 +57,7 @@ const makrana: CityContent = {
     ai: "WhatsApp assistants that send slab photos, sizes and indicative rates on request and pass serious buyers to the owner with full details.",
     data: "Dashboards of slabs cut, dispatched and pending, sales by city and variety, and payments outstanding from each buyer.",
     app: "Android and iOS apps from ₹40,000 for dealers' sales staff or repeat contractor clients to browse live stock and book slabs, published on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for new stock photos, backups and security updates.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for new stock photos, backups and security updates.",
   },
   whyUsIntro:
     "Makrana's stone trade runs on reputation and repeat buyers who have dealt with the same family for years. We work the same way: published starting prices, an itemised written quote, WhatsApp replies every day of the week, and every domain, hosting account, code repository and app store listing registered in your firm's name.",
@@ -169,7 +169,7 @@ const makrana: CityContent = {
       heading: "You own the site, the app and the code",
       paragraphs: [
         "Many small-town businesses lose their website when the person who made it stops answering calls and the domain was in his name. We avoid that by registering the domain, hosting, source code, Google Business Profile and app store developer accounts in your firm's name, and handing over logins in writing at launch.",
-        "The first five months after launch come with free maintenance: updates to stock photos and prices, backups, security patches, software updates and checks that enquiry forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to any other developer.",
+        "The first two months after launch come with free maintenance: updates to stock photos and prices, backups, security patches, software updates and checks that enquiry forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to any other developer.",
         "Apps also need yearly updates as Google and Apple change their rules. We keep track of those deadlines so your app stays live in both stores.",
       ],
     },
@@ -266,7 +266,7 @@ const makrana: CityContent = {
     {
       question: "What happens after my website or app goes live?",
       answer:
-        "You get five months of free maintenance covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you want to continue. You keep full control of the code and accounts and can switch to another developer at any time.",
+        "You get two months of free maintenance covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you want to continue. You keep full control of the code and accounts and can switch to another developer at any time.",
     },
     {
       question: "Do you work in Borawar, Kuchaman and Nagaur too?",

@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Namsai · Namsai district · Arunachal Pradesh",
     h1: "Freelance software developers in Namsai for colleges, markets, tea growers and pagoda tourism",
     lede:
-      "Looking for a software development team in Namsai? BtechWaleTech is a freelance group of three software developers working remotely from India, building admission portals, workflow automation, mobile-first websites, AI assistants and simple dashboards for institutions and businesses across Namsai district. Starting prices are published, you deal directly with the engineers, and maintenance is free for five months after launch.",
+      "Looking for a software development team in Namsai? BtechWaleTech is a freelance group of three software developers working remotely from India, building admission portals, workflow automation, mobile-first websites, AI assistants and simple dashboards for institutions and businesses across Namsai district. Starting prices are published, you deal directly with the engineers, and maintenance is free for two months after launch.",
     pills: ["Admission and fee systems", "Workflow automation from ₹40,000", "Mobile-first sites from ₹10,000", "Android & iOS apps from ₹40,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that answer admission, course and fee questions around the clock, plus agents that sort enquiries and draft replies for your staff to approve.",
     data: "Dashboards that show admissions by course, fee collection, stock or procurement volumes in one screen instead of several registers.",
     app: "Android and iOS apps for Namsai colleges, tea growers, dealers and homestays, built in Flutter or React Native with login, forms and push alerts, on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then monthly care from ₹8,000 covering fixes, updates, backups and security checks.",
+    maintenance: "Two months of free maintenance after launch, then monthly care from ₹8,000 covering fixes, updates, backups and security checks.",
   },
   whyUsIntro:
     "Namsai institutions and traders usually find IT help in one of two places: a local computer shop that builds a template site, or a large outfit in Guwahati that treats a Namsai project as small. We are a third option: three engineers who reply on WhatsApp seven days a week and hand every login back to you.",
@@ -147,7 +147,7 @@ const content: CityContent = {
         "Android and iOS app development in Namsai costs from ₹40,000 with BtechWaleTech and takes six to ten weeks. The price includes one app built in Flutter or React Native for both platforms, login, forms, push notifications, an admin panel connected through an API, and publishing on Google Play and the Apple App Store in your name.",
         "Most people in Namsai district use Android phones on mobile data, while students arriving from other states and visitors to the Golden Pagoda often carry iPhones. Building once for both keeps the cost down. We keep installs small, screens light, labels in Hindi and English, and entries saved offline for staff who travel to Lekang, Piyong or the tea sections where coverage is weak.",
         "The apps that make most sense here are ones people open every week. A college or institute app lets students check notices, fee dues, timetables and results, with push alerts instead of missed group messages. A procurement app lets a tea collector or rice mill supervisor record weights and rates at the collection point and send the farmer a receipt. A dealer app lets village retailers reorder seeds, fertiliser or groceries from a catalogue. A homestay can use a booking app for repeat guests and tour partners.",
-        "We are careful not to sell an app where a website will do. If customers visit once, a mobile-first site is cheaper and easier to find on Google. If staff, students or regular buyers will use it daily, an Android and iOS app pays back quickly. You keep both store accounts, the source code and the admin panel, with five months of free maintenance after launch.",
+        "We are careful not to sell an app where a website will do. If customers visit once, a mobile-first site is cheaper and easier to find on Google. If staff, students or regular buyers will use it daily, an Android and iOS app pays back quickly. You keep both store accounts, the source code and the admin panel, with two months of free maintenance after launch.",
       ],
       list: [
         "Student app for notices, fees, timetables and results",
@@ -178,7 +178,7 @@ const content: CityContent = {
       id: "hosting-support-namsai",
       heading: "Cloud hosting, backups and remote IT support for Namsai clients",
       paragraphs: [
-        "Cloud hosting for Namsai clients means your website or software runs on a managed server or static host, registered in your name, with SSL, daily or weekly backups and uptime monitoring. BtechWaleTech sets this up as part of every project and includes five months of free maintenance once it goes live.",
+        "Cloud hosting for Namsai clients means your website or software runs on a managed server or static host, registered in your name, with SSL, daily or weekly backups and uptime monitoring. BtechWaleTech sets this up as part of every project and includes two months of free maintenance once it goes live.",
         "For static websites we use fast static hosts that cost little and rarely break. For applications we deploy on AWS or similar managed platforms, with databases backed up automatically and alerts sent to us if anything goes down. Deployments are scripted, so fixes reach the live system in minutes and can be rolled back if needed.",
         "Our support is remote and covers the software and hosting we deliver. We cannot visit a Namsai office to repair a computer or network cable. After the free period, monthly maintenance starts at ₹8,000, or you can simply pay for individual changes when you need them.",
       ],
@@ -275,9 +275,9 @@ const content: CityContent = {
         "Yes. We design mobile-first, keep pages light and compress images, so sites stay usable on slow 4G connections. Progressive web apps can store entries on the phone and sync when the network returns, which suits field staff in rural circles. Online payments and live data still need a connection at the moment they are used.",
     },
     {
-      question: "What is covered by the five months of free maintenance?",
+      question: "What is covered by the two months of free maintenance?",
       answer:
-        "Bug fixes, small text and image updates, security and software updates, backups, and uptime and speed checks are all covered for five months after launch. New features are quoted separately. After that period, maintenance continues from ₹8,000 a month, or you can pay only when you need a change.",
+        "Bug fixes, small text and image updates, security and software updates, backups, and uptime and speed checks are all covered for two months after launch. New features are quoted separately. After that period, maintenance continues from ₹8,000 a month, or you can pay only when you need a change.",
     },
     {
       question: "Do we own the software and domain?",

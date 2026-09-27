@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store fees", "US$99 a year Apple, US$25 once Google Play"],
     ["Payments", "Card and wallet checkout; no app-store commission on salon services"],
     ["Ownership", "App store accounts, code and client data in your name"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "2", label: "Store listings, Google Play and the App Store" },
     { value: "0", label: "Per-booking platform fees in your own app" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What salon booking app development costs with us",
-    note: `A branded client app for Android and iOS with booking, deposits, reminders and a staff and admin panel starts from ${P.app} and usually takes six to ten weeks. Adding home-service routing, packages, gift cards and multi-branch commission reports raises the scope, and a separate web platform for staff and owners is quoted as custom software from ${P.software}. WhatsApp reminder automation starts from ${P.ai}. Apple's developer programme (US$99 a year) and Google Play's one-time US$25 registration are paid by you, in your name. Maintenance is free for five months, then from ${P.care}. Quotes are itemised in USD.`,
+    note: `A branded client app for Android and iOS with booking, deposits, reminders and a staff and admin panel starts from ${P.app} and usually takes six to ten weeks. Adding home-service routing, packages, gift cards and multi-branch commission reports raises the scope, and a separate web platform for staff and owners is quoted as custom software from ${P.software}. WhatsApp reminder automation starts from ${P.ai}. Apple's developer programme (US$99 a year) and Google Play's one-time US$25 registration are paid by you, in your name. Maintenance is free for two months, then from ${P.care}. Quotes are itemised in USD.`,
   },
   guideLabel: "Salon booking app development: the UAE guide",
   guide: [
@@ -130,7 +130,7 @@ const content: FreelanceContent = {
       heading: "How do marketplace fees compare with the cost of your own salon app?",
       paragraphs: [
         `Marketplace fees recur with every booking or every month, while an owned app is mostly an upfront build plus maintenance. The comparison that matters is your yearly marketplace spend on repeat clients against the app's build cost and running cost. We won't quote other platforms' fee levels, which vary and change, but you can read yours off your statements.`,
-        `Before committing to salon booking app development, do the maths with your own numbers. Take last year's total platform fees, then estimate what share came from repeat clients. That share is what an owned app could save. Against it, put the build (from ${P.app} with us), your store accounts (US$99 a year for Apple, US$25 once for Google Play), hosting, WhatsApp message costs and maintenance from ${P.care} after five free months.`,
+        `Before committing to salon booking app development, do the maths with your own numbers. Take last year's total platform fees, then estimate what share came from repeat clients. That share is what an owned app could save. Against it, put the build (from ${P.app} with us), your store accounts (US$99 a year for Apple, US$25 once for Google Play), hosting, WhatsApp message costs and maintenance from ${P.care} after two free months.`,
         `There's also a cost that doesn't show on statements: who owns the client list. On a marketplace, your regulars see competitors' offers next to yours. In your own app, they see only you, and you can message them directly. For chains, add the operational savings of one roster, one commission report and one loyalty programme across every branch. If the numbers don't work yet, a booking page on your <a href='/uae/website-development-cost/'>website</a> plus WhatsApp automation is a cheaper stepping stone.`,
       ],
     },
@@ -196,7 +196,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, salon booking app development starts from ${P.app} for Android and iOS client apps with a staff and admin panel, built in six to ten weeks. A larger web platform for multi-branch operations is quoted as custom software from ${P.software}. Other developers' and agencies' quotes vary widely, usually because of scope and who's doing the work.`,
         `What drives cost: number of branches and whether home services are included; deposit and cancellation rules; commission complexity; loyalty, packages and gift cards; bilingual interfaces; integrations with your existing POS or accounting; and design effort. A first release with booking, deposits, reminders and a simple dashboard costs much less than one with every feature, which is why we usually suggest phasing.`,
-        `Running costs are modest but real: Apple's developer programme at US$99 a year, Google Play's one-time US$25, hosting on your own cloud account, WhatsApp message charges, payment processing, and maintenance from ${P.care} after five free months. For more on app budgets in the UAE, see our <a href='/uae/mobile-app-development-cost/'>mobile app development cost guide</a>.`,
+        `Running costs are modest but real: Apple's developer programme at US$99 a year, Google Play's one-time US$25, hosting on your own cloud account, WhatsApp message charges, payment processing, and maintenance from ${P.care} after two free months. For more on app budgets in the UAE, see our <a href='/uae/mobile-app-development-cost/'>mobile app development cost guide</a>.`,
       ],
     },
     {
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Imagine a ladies' salon group with three branches (Jumeirah, Al Barsha and Arabian Ranches), about twenty-five stylists and therapists, and a growing home-service team covering nearby communities. It takes most bookings by phone and WhatsApp and lists on a marketplace, where the owner notices that many bookings are from long-standing clients. This is an illustration, not a real client.`,
         `A sensible plan: release one, built in about eight weeks from ${P.app}, covers booking by service and stylist across all three branches, deposits for long colour and bridal services, WhatsApp confirmations and reminders, and a manager dashboard. Release two adds home-service zones around each branch with travel buffers and female-therapist matching, plus prepaid packages. Release three adds commission reports by service and product sales, exported to payroll.`,
-        `The group keeps its marketplace listing for new clients but gives every first-time visitor a reason to switch: a welcome reward in the app and access to priority weekend slots. Reminders run as utility templates inside the service window where possible, while monthly offers go out as marketing templates to clients who opted in. WhatsApp automation is scoped from ${P.ai}, and maintenance after five free months from ${P.care}.`,
+        `The group keeps its marketplace listing for new clients but gives every first-time visitor a reason to switch: a welcome reward in the app and access to priority weekend slots. Reminders run as utility templates inside the service window where possible, while monthly offers go out as marketing templates to clients who opted in. WhatsApp automation is scoped from ${P.ai}, and maintenance after two free months from ${P.care}.`,
       ],
     },
   ],
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Clickable screens", "Booking, rescheduling, deposits and the staff day view as tappable designs, tested by a stylist and a receptionist as well as you."],
       ["Build and weekly builds", "Test versions on your phone every week through TestFlight and Play Console testing tracks, with your feedback folded in."],
       ["Store submission", "Listings, screenshots and privacy details prepared and submitted under your own Apple and Google developer accounts."],
-      ["Launch and adoption", "Reception scripts and QR codes for the salon, then five months of free maintenance while you gather feedback for release two."],
+      ["Launch and adoption", "Reception scripts and QR codes for the salon, then two months of free maintenance while you gather feedback for release two."],
     ],
   },
   faqHeading: "Salon booking app development: questions UAE salons ask",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "How do I pay for the app from the UAE?", answer: "Quotes are in USD and invoices come from India, payable by Wise or bank wire. The payment schedule for each release is written into your quote, and nothing is billed until you approve it. Ask your accountant how cross-border invoices should be recorded." },
     { question: "Do you sign an NDA before seeing our salon's details?", answer: "Every project runs on a written quote and our published terms. If you want an NDA before sharing your business details, raise it at the start and we'll agree the wording in writing before you send anything sensitive." },
     { question: "Can the salon app connect to our POS or accounting system?", answer: "Often, yes, if your POS or accounting software has an API or reliable export. We check what's available before quoting and price the integration as its own line item. Without an API, we can usually build scheduled exports that your accounts team imports." },
-    { question: "What happens after the salon app is launched?", answer: `Maintenance is free for five months: bug fixes, operating-system updates, small changes and store requirement updates. After that, maintenance starts from ${P.care}. Most salons also plan a second release based on what clients and staff ask for in the first weeks.` },
+    { question: "What happens after the salon app is launched?", answer: `Maintenance is free for two months: bug fixes, operating-system updates, small changes and store requirement updates. After that, maintenance starts from ${P.care}. Most salons also plan a second release based on what clients and staff ask for in the first weeks.` },
     { question: "Can the app handle several branches with different prices?", answer: "Yes. Each branch can have its own services, prices, hours, staff and rules, while clients use one app and one loyalty account across all branches. Owners see comparisons of utilisation, no-shows and revenue per branch in the dashboard." },
     { question: "Can you add an AI assistant to the salon app?", answer: `Yes, as a later feature. An AI assistant can answer questions about services, prices and policies and suggest available slots, handing over to staff when needed. AI automation starts from ${P.ai}. We keep it focused on bookings and information rather than open-ended chat.` },
     { question: "How do we get clients to actually use the app?", answer: "Ask at checkout after a good appointment, offer a clear reason such as priority slots or a welcome reward, and show a QR code at reception. Add the app link to every WhatsApp confirmation. Keep phone, walk-in and web booking available too, so nobody feels forced." },

@@ -56,7 +56,7 @@ const salur: CityContent = {
     ai: "Telugu WhatsApp assistants that reply to rate, stock and appointment questions and hand anything unclear to a person.",
     data: "Simple dashboards showing daily sales, dues by village retailer and seasonal demand for seeds, fertiliser and groceries.",
     app: "Android and iOS apps for village retailers to re-order stock or for school parents to get notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Salur business owners tend to buy on trust built slowly, often through a relative or a regular customer. We try to earn that trust in writing: starting prices on the website, an itemised quote before any work, replies on WhatsApp seven days a week, and your domain, hosting, code and store accounts registered in your own name from the start.",
@@ -177,7 +177,7 @@ const salur: CityContent = {
       heading: "You own it: domains, code and maintenance for Salur clients",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered with your email, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you receive a written sheet of every login.",
-        "For the first five months after launch, maintenance is free. We update prices and photos, take backups, apply security patches and check that forms, checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, manage it yourself or give the code to another developer without asking our permission.",
+        "For the first two months after launch, maintenance is free. We update prices and photos, take backups, apply security patches and check that forms, checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, manage it yourself or give the code to another developer without asking our permission.",
         "Apps need a yearly update even when nothing seems wrong, because Google and Apple raise their minimum requirements. We track those deadlines and update early so your app is not removed from the stores.",
       ],
     },
@@ -274,7 +274,7 @@ const salur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: we update content, take backups, apply patches and check forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are in your name, you can also move to another developer at any time.",
+        "The first two months after launch are free: we update content, take backups, apply patches and check forms, checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are in your name, you can also move to another developer at any time.",
     },
     {
       question: "Do you work with businesses in Pachipenta, Bobbili and Parvathipuram?",

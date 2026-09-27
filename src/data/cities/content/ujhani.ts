@@ -56,7 +56,7 @@ const ujhani: CityContent = {
     ai: "Hindi-speaking WhatsApp bots that handle the day's rate, stock or fee query at midnight and flag anything needing your judgement.",
     data: "Dashboards of oil bought and sold by grade, stock held, rate trends over the season and dues by buyer.",
     app: "Android and iOS apps for mentha growers to check rates and payments or for schools to send notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "The first five months after go-live cost nothing to maintain; later upkeep, backups and patches run from ₹8,000 monthly.",
+    maintenance: "The first two months after go-live cost nothing to maintain; later upkeep, backups and patches run from ₹8,000 monthly.",
   },
   whyUsIntro:
     "Ujhani traders watch mentha rates the way stockbrokers watch a ticker, and they want the same exactness from a developer. Our starting prices are public, quotes are broken into lines, WhatsApp gets answered on Sundays too, and the domain, hosting, code and store accounts are opened under your name. Features that won't repay their cost get flagged, not sold.",
@@ -169,7 +169,7 @@ const ujhani: CityContent = {
       heading: "Ownership and maintenance for Ujhani websites, software and apps",
       paragraphs: [
         "It is common around Budaun for a firm to lose its site after the person who built it kept the domain in his own name and then went quiet. Here the domain, server, source code, Google Business Profile and both app store developer accounts are opened under your ownership from day one, with passwords handed over on paper or in a shared document.",
-        "For five months after launch you pay nothing for upkeep: rate and text edits, backups, security and software updates, plus routine checks on forms, payment links and WhatsApp buttons. Past that window, continuing care is from ₹8,000 a month, entirely optional, and you are free to hand the code to any other developer.",
+        "For two months after launch you pay nothing for upkeep: rate and text edits, backups, security and software updates, plus routine checks on forms, payment links and WhatsApp buttons. Past that window, continuing care is from ₹8,000 a month, entirely optional, and you are free to hand the code to any other developer.",
         "Trade software needs special care around the mentha harvest, when a failure hurts most. We schedule backups and reviews before the season begins, and for apps we track Google and Apple policy changes so your listing is not removed for falling behind.",
       ],
     },
@@ -261,7 +261,7 @@ const ujhani: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep come free after go-live: edits, backups, patches and regular tests of forms, payments and WhatsApp buttons. After that you can continue from ₹8,000 a month or stop, and the code is yours to take to any developer.",
+        "Two months of upkeep come free after go-live: edits, backups, patches and regular tests of forms, payments and WhatsApp buttons. After that you can continue from ₹8,000 a month or stop, and the code is yours to take to any developer.",
     },
     {
       question: "Do you work in Budaun, Sahaswan and Bisauli too?",

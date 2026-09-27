@@ -56,7 +56,7 @@ const goalpara: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and timing questions in Assamese, Bengali or English and hand real decisions to you.",
     data: "Simple dashboards of sales, dues, admissions and enquiries by month, readable on a phone.",
     app: "Android and iOS apps for coaching institutes to share tests and notices or for traders to take repeat orders, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "No upkeep charge for the first five months after going live; later, care plans for Goalpara sites begin at ₹8,000 a month.",
+    maintenance: "No upkeep charge for the first two months after going live; later, care plans for Goalpara sites begin at ₹8,000 a month.",
   },
   whyUsIntro:
     "Goalpara businesses often have to rely on designers based in Guwahati, which means long waits and unclear bills. We keep things transparent instead: published starting prices, an itemised written quote, replies on WhatsApp seven days a week, and the domain, hosting, code and store accounts registered to you from day one.",
@@ -180,7 +180,7 @@ const goalpara: CityContent = {
       heading: "Ownership and maintenance for Goalpara websites and apps",
       paragraphs: [
         "A Goalpara client keeps full title to the work. Your own email address is the registrant of the domain, the hosting invoice is addressed to you, the source code sits in a repository you control, and your map profile plus the Play Console and Apple developer accounts carry you as the owner. On handover day a single sheet lists every username and where it lives.",
-        "Upkeep costs nothing for the first five months once the site is live. In that window we swap rates and pictures, keep backups, patch software, and test now and then that the enquiry form, the UPI checkout and the chat button still respond. From month six the choice is yours: a care plan with us from ₹8,000 a month, doing it in-house, or passing the code to someone else, no permission needed.",
+        "Upkeep costs nothing for the first two months once the site is live. In that window we swap rates and pictures, keep backups, patch software, and test now and then that the enquiry form, the UPI checkout and the chat button still respond. From month three the choice is yours: a care plan with us from ₹8,000 a month, doing it in-house, or passing the code to someone else, no permission needed.",
         "Apps age faster than websites, because Google and Apple tighten their rules every year. We track those cut-off dates and push an update well ahead, so the listing stays live.",
       ],
     },
@@ -272,7 +272,7 @@ const goalpara: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "During the first five months after launch there is no maintenance bill: we handle edits, backups, patches and spot-checks on forms, checkout and chat buttons. From month six you can pick our care plan at ₹8,000 a month onwards, or take everything elsewhere. The accounts and code already belong to you, so leaving takes no permission.",
+        "During the first two months after launch there is no maintenance bill: we handle edits, backups, patches and spot-checks on forms, checkout and chat buttons. From month three you can pick our care plan at ₹8,000 a month onwards, or take everything elsewhere. The accounts and code already belong to you, so leaving takes no permission.",
     },
     {
       question: "Do you work in Dudhnoi, Krishnai and Bongaigaon too?",

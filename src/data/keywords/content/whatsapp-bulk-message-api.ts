@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Route", "Meta's official WhatsApp Business Platform"],
     ["Data source", "CSV, Excel, Google Sheet or CRM"],
     ["Reports", "Sent, delivered, read, failed, replies"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers setting up your sender" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Unofficial tools or scraped lists used" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Daily reach", value: "Set by your portfolio's messaging limit, from 250 up to unlimited" },
       { label: "Setup price", value: `From ${P.ai} (${P.aiUsd})` },
       { label: "Campaign dashboard or CRM", value: `Custom panel from ${P.software}` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       heading: "Cloud API sender, BSP panel or custom campaign tool?",
       paragraphs: [
         `Choose a ready-made provider panel if you want a subscription tool and are happy with its features; choose a direct Cloud API setup built for you if you want control over data, costs and integrations, and no per-seat subscription.`,
-        `Provider panels are quick to start and include a campaign screen, but you rent them, data sits on their servers, and extra fees may be added to Meta's charges. A custom WhatsApp bulk message API setup on the Cloud API puts the number, templates, contact data and reports in your accounts. The trade-off is that someone has to maintain it; that is what the five months of free maintenance and optional care cover.`,
+        `Provider panels are quick to start and include a campaign screen, but you rent them, data sits on their servers, and extra fees may be added to Meta's charges. A custom WhatsApp bulk message API setup on the Cloud API puts the number, templates, contact data and reports in your accounts. The trade-off is that someone has to maintain it; that is what the two months of free maintenance and optional care cover.`,
         `A middle path suits a lot of small businesses: a lightweight sender driven by a Google Sheet, plus reports, without a full panel. When several staff need to run campaigns with approval steps, a panel with roles is worth building. If you are still at the stage of getting access at all, start with <a href='/whatsapp-business-api-kaise-le/'>WhatsApp Business API kaise le</a>.`,
       ],
     },
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything should be in your name: the business portfolio, the WhatsApp Business account, the phone number, the payment method for Meta's charges, the contact database with opt-in records, the server and the code.`,
         `We set up access through Meta's business tools so we can work as a partner on your account, and you can remove that access whenever you like. Contact lists and consent records live in your database, not in a spreadsheet on our side. At handover you receive source code, a guide to creating and submitting new templates, and a runbook for common issues such as a paused template or a failed webhook.`,
-        `You get five months of free maintenance after launch. Afterwards, care starts at ${P.care} a month, or your own team takes over. Anything specific about support arrangements is written into your quote, and general terms are on the <a href='/terms/'>terms page</a>.`,
+        `You get two months of free maintenance after launch. Afterwards, care starts at ${P.care} a month, or your own team takes over. Anything specific about support arrangements is written into your quote, and general terms are on the <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -315,7 +315,7 @@ const content: FreelanceContent = {
         ["Sender with reply handling", "Adds shared inbox or chatbot for replies", `From ${P.ai}`, "3–4 weeks"],
         ["CRM or store audiences", "Segments pulled from your CRM, store or billing data", `From ${P.ai}`, "3–5 weeks"],
         ["Campaign panel", "Multi-user panel with roles, scheduling, approvals and dashboards", `From ${P.software}`, "6–12 weeks"],
-        ["Ongoing care", "Template updates, monitoring, fixes after free period", `From ${P.care} a month`, "After 5 free months"],
+        ["Ongoing care", "Template updates, monitoring, fixes after free period", `From ${P.care} a month`, "After 2 free months"],
       ],
     },
   ],
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
       ["Register the number and templates", "Your number joins the platform under your business portfolio, verification is submitted, and templates are drafted with you and sent for Meta's approval."],
       ["Build the sender and reports", "Validation, personalisation from your Sheet or CRM, a paced queue within your limit, opt-out handling and webhook reports are built and tested on your team's phones."],
       ["Send a first small campaign", "Your most engaged opted-in contacts receive the first send, and we review delivery, reads, replies and quality before any larger list."],
-      ["Scale steadily and hand over", "Volume grows with your messaging limit. You receive code, templates guide and runbook, with five months of free maintenance included."],
+      ["Scale steadily and hand over", "Volume grows with your messaging limit. You receive code, templates guide and runbook, with two months of free maintenance included."],
     ],
   },
   faqHeading: "WhatsApp bulk message API: questions people ask",
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
     { question: "Can replies to bulk messages be handled automatically?", answer: "Yes. Replies can go to a shared team inbox where staff answer from one screen, or to a chatbot that handles common questions such as price, availability or order status and passes the rest to people. Replies from customers open a customer service window, during which your non-template responses are free under Meta's pricing." },
     { question: "Can I send WhatsApp bulk messages in Hindi or regional languages?", answer: "Yes. Templates can be approved in several languages, and each contact receives the version marked for their language. We write English, Hindi and Hinglish templates; for Tamil, Malayalam, Punjabi, Gujarati or other languages you supply or approve the wording. Keep variables such as names and amounts outside the translated text so they fill correctly." },
     { question: "Who owns the WhatsApp account and contact data?", answer: "You do. The business portfolio, WhatsApp Business account, number, payment method, contact database with opt-in records, server and code are all in your name. We work as a partner with access you can remove at any time, and at handover you receive the code, a template guide and a runbook for paused templates or webhook failures." },
-    { question: "What maintenance does a bulk WhatsApp setup need?", answer: `Templates need updating as campaigns change, Meta's platform and pricing evolve, and webhooks or data connections occasionally break. The first five months after launch are maintained free. After that, care starts at ${P.care} a month, or your own staff can manage it using the documentation. Specific support terms are written into your quote.` },
+    { question: "What maintenance does a bulk WhatsApp setup need?", answer: `Templates need updating as campaigns change, Meta's platform and pricing evolve, and webhooks or data connections occasionally break. The first two months after launch are maintained free. After that, care starts at ${P.care} a month, or your own staff can manage it using the documentation. Specific support terms are written into your quote.` },
     { question: "API se bulk WhatsApp message kaise bheje?", answer: "Pehle apna number Meta ke WhatsApp Business Platform par register kijiye aur business verification kijiye. Phir customers se opt-in lijiye, marketing ya utility template approve karwaiye, aur Excel ya Google Sheet se har contact ka naam aur details bharkar messages limit ke andar bhejiye. Delivery aur read report webhook se milti hai. Hum yeh setup remotely karte hain." },
     { question: "How do I pay for the setup?", answer: "Indian businesses pay our setup fee by UPI or bank transfer, and international clients pay in USD via Wise, bank wire or PayPal, according to milestones in the written quote you approve. Meta's per-message charges are billed by Meta to the payment method on your own WhatsApp Business account, so there is no markup from us on messaging costs." },
   ],

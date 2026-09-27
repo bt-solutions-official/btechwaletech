@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Singapore · internal systems · portals, dashboards, admin tools",
     h1: "Outsource software development from Singapore without handing away your data or your know-how",
     lede: `If you outsource software development from Singapore, the risky part is rarely the coding; it is who sees your customers' data and whether your own staff can run the system after the vendor leaves. BtechWaleTech is a freelance group of three developers in India building portals, dashboards and admin tools from ${P.software}. We design access so we see as little real personal data as possible, log who does what, and document everything for your in-house team. Our <a href='/singapore/'>Singapore page</a> lists the other work we take on.`,
-    pills: [`Custom software from ${P.software}`, "Portals, dashboards, admin tools", "Hosted in your Singapore cloud account", "Role-based access and audit logs", "Masked data for developers", "Documented handover", "5 months free maintenance"],
+    pills: [`Custom software from ${P.software}`, "Portals, dashboards, admin tools", "Hosted in your Singapore cloud account", "Role-based access and audit logs", "Masked data for developers", "Documented handover", "2 months free maintenance"],
     origin: "Three freelance developers in India · English and Hindi · WhatsApp replies 7 days a week",
   },
   facts: [
@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "People who know the system, so it never hinges on one" },
     { value: "2", label: "Working days to a written, itemised estimate" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Where it runs", value: "Your AWS, Azure or Google Cloud account in Singapore" },
       { label: "Personal data", value: "Masked in development; production access only when needed and logged" },
       { label: "Documentation", value: "Readme, architecture notes, runbooks, API reference" },
-      { label: "After go-live", value: `Five months free, then support from ${P.care}` },
+      { label: "After go-live", value: `Two months free, then support from ${P.care}` },
     ],
   },
   services: {
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our custom web apps and internal systems start from ${P.software} and typically take 6 to 12 weeks. Local vendors' quotes vary widely, generally reflecting Singapore salaries and overheads, and the gap grows with project length.`,
         `Cost is driven less by screens than by rules. Each workflow with conditions ("if the order exceeds the credit limit, send it to finance") adds design, code and tests. Integrations add effort, especially when the other system has a limited API. Data migration from old spreadsheets is often underestimated; budget time for cleaning, not just copying.`,
-        `Ongoing costs include cloud hosting in your own account, email or SMS providers, and support. Maintenance after the five free months starts from ${P.care}. Compare quotes on the same written scope; the cheapest quote often simply leaves out testing, documentation or migration. Our <a href='/pricing/'>pricing page</a> lists every starting price.`,
+        `Ongoing costs include cloud hosting in your own account, email or SMS providers, and support. Maintenance after the two free months starts from ${P.care}. Compare quotes on the same written scope; the cheapest quote often simply leaves out testing, documentation or migration. Our <a href='/pricing/'>pricing page</a> lists every starting price.`,
       ],
     },
     {
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
       ["Estimate in writing", "You receive an itemised estimate by workflow and integration within about two working days. Nothing is billed until you approve it."],
       ["Build in phases", "Each phase ends with screens your staff can use on staging with masked data, so feedback comes from real users early."],
       ["Go live in your cloud", "We deploy to your Singapore-region account, migrate data with your approval, then switch our production access off."],
-      ["Transfer knowledge", "Documentation, recorded walkthroughs and a shadow-and-pair period hand the system to your team, with five months of free maintenance."],
+      ["Transfer knowledge", "Documentation, recorded walkthroughs and a shadow-and-pair period hand the system to your team, with two months of free maintenance."],
     ],
   },
   faqHeading: "Questions about outsourcing software development from Singapore",
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "How do we pay for outsourced software?", answer: "You receive a USD quote and USD invoices from India. Payment can be made by Wise, where you can pay from an SGD balance, by international bank wire or by PayPal. The payment schedule is set out in your written quote, and nothing is billed until you approve the scope." },
     { question: "Freelance team or software vendor: which is lower risk?", answer: "Risk depends more on set-up than on company size. A vendor may have more staff but can still leave you undocumented. A small freelance team has fewer people but the same named developers throughout. Whichever you choose, insist on your own hosting, written data rules, documentation and a handover plan." },
     { question: "Can you visit our office for requirements workshops?", answer: "No. We work remotely from India and do not travel for site visits. Workshops happen on video calls with screen-sharing, and we often ask staff to record a short video of their current process. Written summaries after each session make sure nothing depends on memory." },
-    { question: "What does maintenance cost after the system goes live?", answer: `The first five months after go-live are covered free for bug fixes and small adjustments. After that, maintenance plans start from ${P.care}, covering updates, monitoring and minor changes. Larger new features are estimated separately. If your in-house team takes over fully, you do not need a plan at all.` },
+    { question: "What does maintenance cost after the system goes live?", answer: `The first two months after go-live are covered free for bug fixes and small adjustments. After that, maintenance plans start from ${P.care}, covering updates, monitoring and minor changes. Larger new features are estimated separately. If your in-house team takes over fully, you do not need a plan at all.` },
     { question: "Can you rescue software another vendor built?", answer: "Often. We start with a paid review of the code, hosting, documentation and data handling, then recommend whether to stabilise, refactor or rebuild parts. If the previous vendor still controls the servers or repository, transferring those to your organisation becomes the first priority before any other work." },
     { question: "Can you add AI to our internal system?", answer: `Yes, for tasks such as extracting data from invoices and delivery orders, summarising records or answering staff questions from internal documents. These start from ${P.ai}. We tell you exactly which data would be sent to an AI provider and help you choose settings that respect your privacy commitments.` },
   ],

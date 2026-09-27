@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "0", label: "App store downloads your customers need" },
     { value: "3", label: "Developers who build, test and submit" },
     { value: "2", label: "Working days to an itemised proposal" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does LINE MINI App development involve, and what does it cost?",
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
         "Whether you supply final Japanese copy and design, or need help with layout",
       ],
       after: [
-        `Your running costs are separate and billed to you: hosting (often a small AWS or Google Cloud setup), your LINE Official Account plan if you send promotional messages, and processor fees if you take payments. After launch you get five months of free maintenance; ongoing care after that starts at ${P.care} per month.`,
+        `Your running costs are separate and billed to you: hosting (often a small AWS or Google Cloud setup), your LINE Official Account plan if you send promotional messages, and processor fees if you take payments. After launch you get two months of free maintenance; ongoing care after that starts at ${P.care} per month.`,
       ],
     },
     {
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
         ["Ordering MINI App", "Menu, pickup slots, payments, kitchen tickets", `From ${P.software}`, "8–12 weeks"],
         ["Multi-branch with back office", "Roles, branches, reports, POS or CRM link", `From ${P.software}`, "8–12 weeks"],
         ["Companion landing page", "Website that explains and links to the MINI App", `From ${P.site}`, "1–2 weeks"],
-        ["Care after launch", "SDK updates, fixes, small features", `From ${P.care}`, "Monthly, after 5 free months"],
+        ["Care after launch", "SDK updates, fixes, small features", `From ${P.care}`, "Monthly, after 2 free months"],
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Channels under your provider", "Your team creates or confirms the LINE provider, adds us as admins, and sets up the cloud account. Nothing is registered in our names."],
       ["Build on the unverified channel", "You test real screens inside LINE on your own phone from early in the build, with demos in the overlap hours and fixes the same week."],
       ["Soft launch and review", "Staff and a few customers use it, we fix what they find, then prepare icons, performance checks, policy details and test scenarios for LY Corporation."],
-      ["Verified launch and care", "After approval we switch links, watch the first weeks of use, and cover fixes under five months of free maintenance before optional monthly care."],
+      ["Verified launch and care", "After approval we switch links, watch the first weeks of use, and cover fixes under two months of free maintenance before optional monthly care."],
     ],
   },
   faqHeading: "LINE MINI App development: questions from businesses in Japan",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
     { question: "How do we pay a team in India from Japan?", answer: "Proposals are in USD, and you can pay in USD or JPY by Wise or bank wire. Payment milestones are written into the proposal, and nothing is billed before your written approval. Invoices come from India; your accountant advises on how to record them." },
     { question: "Do LINE MINI Apps help with SEO or AI search?", answer: "A MINI App lives inside LINE, so search engines do not index it the way they index a website. If you want people to find it from Google or AI assistants, pair it with a fast landing page that explains the membership or booking service and links to the MINI App. We build those from our static website plan." },
     { question: "Can you also build a LINE chatbot to go with the MINI App?", answer: "Yes. A Messaging API bot and rich menu are the usual front door to a MINI App: a button opens the member card, and the bot answers questions like opening hours or points balances with a link into the app. We quote the bot separately so you can decide whether you need it now." },
-    { question: "What happens after the LINE MINI App launches?", answer: `You get five months of free maintenance for bugs and LIFF SDK changes. After that, optional care starts at ${P.care} per month and covers SDK upgrades, guideline changes from LY Corporation, monitoring and small improvements. New features are quoted separately in writing.` },
+    { question: "What happens after the LINE MINI App launches?", answer: `You get two months of free maintenance for bugs and LIFF SDK changes. After that, optional care starts at ${P.care} per month and covers SDK upgrades, guideline changes from LY Corporation, monitoring and small improvements. New features are quoted separately in writing.` },
     { question: "Can one LINE MINI App serve several branches?", answer: "Yes. Members can share one card across branches while bookings, menus and stock are set per branch. Staff logins can be limited to their own branch, and head office sees combined reports. Multi-branch rules add scope, so these MINI Apps are quoted as custom builds." },
     { question: "What does BtechWaleTech not do for LINE MINI App projects?", answer: "We do not visit shops, install POS hardware, write Japanese marketing copy, apply for payment processor contracts on your behalf or give legal advice on privacy or consumer law. We build, test and submit the MINI App, and we tell you early if a part of the project needs another specialist." },
   ],

@@ -31,10 +31,10 @@ const raeBareli: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Rae Bareli's hospitals, coaching centres, contractors and bazaar traders",
     lede:
       "A remote team of three engineers building websites, Google Maps visibility and WhatsApp automations for Rae Bareli clinics and pharmacies around AIIMS, coaching institutes, suppliers to the Modern Coach Factory and NTPC Unchahar, and the shops of Super Market, Capperganj and Kutchery Road. Prices start at ₹10,000 and appear openly on our site.",
-    pills: ["Sites from ₹10,000", "Hindi-first pages", "Clinic and lab booking", "Coaching admission forms", "Five months free upkeep"],
+    pills: ["Sites from ₹10,000", "Hindi-first pages", "Clinic and lab booking", "Coaching admission forms", "Two months free upkeep"],
   },
   quickAnswer:
-    "In Rae Bareli, our static business websites start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rae Bareli office, and the first five months of maintenance are free.",
+    "In Rae Bareli, our static business websites start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Rae Bareli office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "On the Sai river, about 80 km south-east of Lucknow in central Uttar Pradesh" },
     { label: "Rail and power", value: "Modern Coach Factory making rail coaches since 2012, and NTPC's Feroze Gandhi Unchahar thermal power station" },
@@ -51,7 +51,7 @@ const raeBareli: CityContent = {
     ai: "WhatsApp assistants that answer timings, fees and availability questions in Hindi and pass real appointments or orders to your staff.",
     data: "Dashboards for distributors and coaching centres that show sales, collections, batch strength and pending fees at a glance.",
     app: "Android and iOS apps for students seeing batch schedules and notices, or salesmen booking orders in the tehsil markets, from ₹40,000.",
-    maintenance: "Content updates, security fixes and backups free for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Content updates, security fixes and backups free for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Rae Bareli owners often deal with website makers who vanish after launch or who hold the domain hostage. We publish our starting prices, write in the Hindi and Hinglish your customers use, reply on WhatsApp all seven days, and register every domain and hosting account in your own name.",
@@ -158,10 +158,10 @@ const raeBareli: CityContent = {
     },
     {
       id: "ownership-maintenance-rae-bareli",
-      heading: "Your domain, your code and five free months of upkeep",
+      heading: "Your domain, your code and two free months of upkeep",
       paragraphs: [
         "A common story in Rae Bareli: a site was built by someone's acquaintance, the domain was registered in that person's name, and years later the business cannot change even its phone number online. We avoid this by registering the domain and hosting in your name from the start and handing over all logins and the complete source code at launch.",
-        "For five months after launch, maintenance is free. That covers content and price updates, bug fixes, security and software updates, backups and uptime checks. After that, you can continue with maintenance from ₹8,000 a month, or come to us only when a change is needed. You can move to another developer at any time without an exit fee. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
+        "For two months after launch, maintenance is free. That covers content and price updates, bug fixes, security and software updates, backups and uptime checks. After that, you can continue with maintenance from ₹8,000 a month, or come to us only when a change is needed. You can move to another developer at any time without an exit fee. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
       ],
     },
     {
@@ -275,9 +275,9 @@ const raeBareli: CityContent = {
         "Yes. The domain and hosting are registered in your name, and at launch you receive all logins and the full source code. You can move to another developer whenever you like, with no exit fee. We set this up from day one because lost domains are a common problem for local businesses.",
     },
     {
-      question: "What does the five-month free maintenance include?",
+      question: "What does the two-month free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
+        "For two months after launch we handle content and price updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change and pay for that work.",
     },
     {
       question: "How long before SEO brings results?",

@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: design and build, SEO, project coordination" },
     { value: "2", label: "Working days to an itemized roofing website quote" },
-    { value: "5", label: "Months of free maintenance through your first storm season" },
+    { value: "2", label: "Months of free maintenance through your first storm season" },
     { value: "100", label: "Pages included in the starter site plan" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Trust signals", value: "License and insurance details, manufacturer credentials you hold, real crew and job photos, Google reviews" },
       { label: "Speed target", value: "Fast first load on a mid-range phone over cellular, even when storm traffic spikes" },
       { label: "Starting price", value: `From ${P.site}; city-page builds from ${P.seoSite}; monthly SEO from ${P.seo}` },
-      { label: "After launch", value: `5 months of free maintenance, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care} a month` },
     ],
   },
   services: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Roofing website design cost with us",
-    note: `A roofing contractor site of up to 100 pages, with service pages, a handful of city pages, gallery, financing and insurance-claim content, reviews and an inspection form, starts from ${P.site} and takes 1 to 2 weeks once your content is ready. Roofers covering many towns can go for our SEO website plan of 299+ pages, from ${P.seoSite} over 3 to 5 weeks, with city pages built from real job data. A custom estimate tool that pulls building dimensions from an address starts from ${P.software}. Monthly SEO starts from ${P.seo}, and care after five free months from ${P.care}.`,
+    note: `A roofing contractor site of up to 100 pages, with service pages, a handful of city pages, gallery, financing and insurance-claim content, reviews and an inspection form, starts from ${P.site} and takes 1 to 2 weeks once your content is ready. Roofers covering many towns can go for our SEO website plan of 299+ pages, from ${P.seoSite} over 3 to 5 weeks, with city pages built from real job data. A custom estimate tool that pulls building dimensions from an address starts from ${P.software}. Monthly SEO starts from ${P.seo}, and care after two free months from ${P.care}.`,
   },
   guideLabel: "Roofing website design guide for US contractors",
   guide: [
@@ -206,7 +206,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does roofing website design cost in the US?",
       paragraphs: [
-        `With BtechWaleTech, a roofing website design project starts from ${P.site} for a site of up to 100 pages, delivered in 1 to 2 weeks once content is ready, and from ${P.seoSite} for a 299+ page site with a structured set of city and service pages over 3 to 5 weeks. Monthly SEO starts from ${P.seo} and ongoing care from ${P.care} after five free months.`,
+        `With BtechWaleTech, a roofing website design project starts from ${P.site} for a site of up to 100 pages, delivered in 1 to 2 weeks once content is ready, and from ${P.seoSite} for a 299+ page site with a structured set of city and service pages over 3 to 5 weeks. Monthly SEO starts from ${P.seo} and ongoing care from ${P.care} after two free months.`,
         "Across the market, roofing website quotes vary widely. The biggest cost drivers are the number of city pages and how much real content goes into each, custom photography or drone work (which we do not provide, since we have no local crew), copywriting depth for insurance and financing pages, an instant estimate tool, CRM integration, and whether ongoing SEO is bundled. When comparing proposals, ask who owns the site, whether city pages are unique, and what the monthly fee actually buys.",
       ],
     },
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
         ["Redesign keeping rankings", "New design, redirects, speed fixes, content merge", `From ${P.site}`, "2–3 weeks"],
         ["Custom estimate tool", "Address-based measurement and pricing logic", `From ${P.software}`, "6–8 weeks"],
         ["Monthly local SEO", "New job pages, profile updates, rank reports", `From ${P.seo}/month`, "Ongoing"],
-        ["Care and updates", "Hosting checks, updates, content edits", `From ${P.care}/month after 5 free months`, "Ongoing"],
+        ["Care and updates", "Hosting checks, updates, content edits", `From ${P.care}/month after 2 free months`, "Ongoing"],
       ],
     },
   ],
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Quote and approve", `An itemized USD quote in about two working days, from ${P.site} for a starter site or ${P.seoSite} for city-page builds. Nothing billed before written approval.`],
       ["Design on your photos", "A mobile-first design built around your real crews and roofs, with the call button and inspection form tested on actual phones."],
       ["Build, connect, review", "Pages, galleries, estimate form, CRM and text alerts go live on a staging link; you and your attorney review claim and financing pages."],
-      ["Launch before the storms", "Redirects, Search Console, Google profile links and speed checks, then five months of free maintenance through your busy season."],
+      ["Launch before the storms", "Redirects, Search Console, Google profile links and speed checks, then two months of free maintenance through your busy season."],
     ],
   },
   faqHeading: "Roofing website design questions from US roofers",
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "Who owns my roofing website?", answer: "You do. The domain is in your business name, hosting is in your account, and all pages, code and photos belong to you. At handover you receive logins, an account list and a short training video. If you ever switch designers, you take everything with you." },
     { question: "Can leads from my website go straight to my CRM and phone?", answer: "Yes. Each inspection or estimate request can go to your CRM, email and a text alert to the person on call, with the form answers attached. If you use a roofing CRM or job management tool with an API or email-in feature, we connect to it; otherwise leads go to a shared inbox and spreadsheet." },
     { question: "Can my roofing website be in English and Spanish?", answer: "Yes. We build bilingual sites with a language switch and separate pages for each language. We write and edit in English, so you or your translator supply or approve the Spanish copy. Bilingual content is especially useful for roofers in Texas, Florida and other markets with many Spanish-speaking homeowners." },
-    { question: "What does website maintenance cost after launch?", answer: `The first five months after launch include free maintenance, which covers most roofers' first busy season. After that, care plans start from ${P.care} a month for updates, backups, security checks and small content edits. Adding new job pages and SEO work falls under the monthly SEO plan.` },
+    { question: "What does website maintenance cost after launch?", answer: `The first two months after launch include free maintenance, which covers most roofers' first busy season. After that, care plans start from ${P.care} a month for updates, backups, security checks and small content edits. Adding new job pages and SEO work falls under the monthly SEO plan.` },
     { question: "How do I pay for a roofing website from the US?", answer: "You get an itemized quote in USD, invoices issued from India, and payment by bank wire, Wise or PayPal on the milestones set out in the quote. We do not bill anything before you approve the quote in writing. Hosting and domain renewals are paid by you directly to those providers." },
     { question: "Does my roofing website need to be ADA accessible?", answer: "The Department of Justice says businesses open to the public should make their websites accessible and points to the Web Content Accessibility Guidelines as helpful standards. We build with readable contrast, keyboard-friendly forms, alt text on photos and clear headings. Your attorney can advise on your specific obligations." },
   ],

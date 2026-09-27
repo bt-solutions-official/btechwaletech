@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Report portal or LIS sync", `From ${P.software}`],
     ["Home collection", "Slots by pincode and phlebotomist capacity"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers: build, data and automation" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free fixes and updates" },
+    { value: "2", label: "Months of free fixes and updates" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Report portal / LIS link", value: `From ${P.software}, 6–12 weeks` },
       { label: "WhatsApp report alerts", value: `Automation from ${P.ai}` },
       { label: "Imaging content", value: "No sex-determination wording, per PCPNDT Act" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       heading: "Who owns a diagnostic centre website design project after launch?",
       paragraphs: [
         `The lab owns everything: domain, hosting, code, the test data and every booking and report record. We set up accounts in the lab’s name, and at launch hand over the repository, admin access, the data templates and a list of paid services with renewal dates.`,
-        `For five months after launch, small changes are free: price updates the sheet cannot handle, new packages, new centres, fixes. After that, maintenance is optional from ${P.care} a month; your own IT person or another developer can take over with everything they need. Test prices and centres remain editable by your staff throughout, so you are never waiting on us for a routine change.`,
+        `For two months after launch, small changes are free: price updates the sheet cannot handle, new packages, new centres, fixes. After that, maintenance is optional from ${P.care} a month; your own IT person or another developer can take over with everything they need. Test prices and centres remain editable by your staff throughout, so you are never waiting on us for a routine change.`,
       ],
     },
     {
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical, meant only to show how such a project could run. Say a pathology lab in Jabalpur with one processing lab, four collection centres and about 600 tests takes most bookings by phone and wants home collections to grow.`,
         `We would propose the SEO website plan from ${P.seoSite}: 600 test pages generated from the rate list with aliases, 12 package pages, five centre pages, a Hindi version of the home, booking and top 50 test pages, and a request-based home collection form that checks pincodes first. Reports would open through the LIS vendor’s secure link, sent by WhatsApp with an OTP gate on the lab’s own domain.`,
-        `As a second phase, a slot system from ${P.software} would replace the request form once daily home collections outgrow manual scheduling, adding phlebotomist capacity per zone and a dispatch view for the coordinator. The lab would own all accounts and data, and routine price and package changes in the first five months would fall under free maintenance.`,
+        `As a second phase, a slot system from ${P.software} would replace the request form once daily home collections outgrow manual scheduling, adding phlebotomist capacity per zone and a dispatch view for the coordinator. The lab would own all accounts and data, and routine price and package changes in the first two months would fall under free maintenance.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Data template and accounts", "We send a test and centre template; domain and hosting are set up in the lab’s name while your team fills the data."],
       ["Menu and booking on staging", "The searchable menu, packages and home collection flow appear on a private link your staff test on their own phones."],
       ["Reports and final review", "OTP report access tested with real sample IDs, pathologist and radiologist review content, and PCPNDT wording checked."],
-      ["Launch and five months of care", `Search Console, schema and centre profiles linked; code and logins handed over. Free changes for five months, then optional care from ${P.care}.`],
+      ["Launch and two months of care", `Search Console, schema and centre profiles linked; code and logins handed over. Free changes for two months, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Diagnostic centre website design: questions labs ask",
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
     { question: "Should a lab hire a freelancer or an agency for its website?", answer: "A small freelance team suits labs that want direct contact with the developers building the data, booking and report features. An agency suits labs wanting ad campaigns, branding and video under one contract. For most independent labs the integration work matters more than campaigns, and that is where a focused freelance team fits." },
     { question: "Does a remote team work for a diagnostic centre website?", answer: "Yes. Nothing in the build needs someone at your lab: data comes as a spreadsheet or LIS export, reviews happen on staging links, and calls run on Google Meet or WhatsApp. For photos of your centre and equipment, your staff or a local photographer can follow a shot list we send." },
     { question: "Who owns the lab website and its data?", answer: "The lab. Domain, hosting, code, test data, bookings and any report records sit in the lab’s accounts from day one. At launch you receive the repository, admin access, data templates and a list of paid services with renewal dates, so your own IT person or another developer can take over." },
-    { question: "What happens after launch?", answer: `For five months, small changes are free: new packages, new centres, fixes and updates the data sheet cannot handle. After that, maintenance is optional and starts at ${P.care} a month. Your staff can update prices and centres themselves at any time through the data sheet or admin panel. Those edits appear across every page using that test.` },
+    { question: "What happens after launch?", answer: `For two months, small changes are free: new packages, new centres, fixes and updates the data sheet cannot handle. After that, maintenance is optional and starts at ${P.care} a month. Your staff can update prices and centres themselves at any time through the data sheet or admin panel. Those edits appear across every page using that test.` },
     { question: "How do payments for the project work?", answer: "Labs in India pay by UPI or bank transfer, on the terms set out in the itemised quote. Nothing is billed before you approve that quote in writing. If you need specific invoice details for your accounts team, tell us at quote stage and we will confirm what we can provide." },
     { question: "Can you build a patient app for our lab chain?", answer: `Yes. For chains with many repeat patients, an Android and iOS app can show report history, trends for values like HbA1c over time and quick rebooking. We build it with Flutter or React Native from ${P.app} and publish it in the lab’s own store accounts. Launching the website first is usually the better order.` },
   ],
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want more home collections and fewer report calls?",
-    note: `Send your test count, centres and LIS name on WhatsApp. You will get an itemised quote in about two working days, with lab websites from ${P.site}, all data and accounts in your lab’s name and five months of free maintenance after launch.`,
+    note: `Send your test count, centres and LIS name on WhatsApp. You will get an itemised quote in about two working days, with lab websites from ${P.site}, all data and accounts in your lab’s name and two months of free maintenance after launch.`,
   },
 };
 

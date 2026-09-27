@@ -56,7 +56,7 @@ const thodupuzha: CityContent = {
     ai: "WhatsApp assistants that answer daily rate, stock, admission and appointment questions in Malayalam and English and hand the real decisions to you.",
     data: "Dashboards of purchases by grade and farmer, daily market rates, sales by branch and enquiry sources.",
     app: "Android and iOS apps for produce buyers to record collections in the field or for colleges and clinics to reach students and patients, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Thodupuzha customers compare carefully and usually know someone in Kochi who builds websites. We make the comparison straightforward: published starting prices, an itemised written quote, WhatsApp replies every day of the week, and domain, hosting, code and app store accounts registered in your name. If a feature will not pay for itself, we tell you before you commit.",
@@ -167,7 +167,7 @@ const thodupuzha: CityContent = {
       heading: "Ownership and maintenance for Thodupuzha websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Play and App Store accounts and Google Business Profile are registered to you. We work through access you give us and can hand everything over within a day if you want to move. This prevents the common problem of a site locked in a former developer's account.",
-        "Each launch includes five months of free maintenance: content changes, backups, security updates and regular checks of forms, payments and WhatsApp links. After that, maintenance continues from ₹8,000 a month if you want it, or you can run the site yourself.",
+        "Each launch includes two months of free maintenance: content changes, backups, security updates and regular checks of forms, payments and WhatsApp links. After that, maintenance continues from ₹8,000 a month if you want it, or you can run the site yourself.",
         "For Thodupuzha businesses, maintenance often means monsoon updates, harvest-season rates, new batches or new departments. Keeping those current is what makes customers trust your page.",
       ],
     },
@@ -255,7 +255,7 @@ const thodupuzha: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "The first five months after launch are free: content edits, backups, security updates and checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or take over yourself, since all accounts are already registered in your name.",
+        "The first two months after launch are free: content edits, backups, security updates and checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or take over yourself, since all accounts are already registered in your name.",
     },
     {
       question: "Do you also work in Muvattupuzha, Pala and Vazhakulam?",

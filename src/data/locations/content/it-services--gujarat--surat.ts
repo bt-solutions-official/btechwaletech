@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Textile and diamond software", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Surat: textile, diamond and trading software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI and WhatsApp automation from ₹40,000 and online stores from ₹50,000. We are a freelance group of three remote engineers with no Surat office, and maintenance is free for five months.",
+    "BtechWaleTech's freelance software developers build for Surat: textile, diamond and trading software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI and WhatsApp automation from ₹40,000 and online stores from ₹50,000. We are a freelance group of three remote engineers with no Surat office, and maintenance is free for two months.",
   snapshot: [
     { label: "Textile trade", value: "Hundreds of wholesale textile markets along Ring Road and Sahara Darwaja, selling sarees, dress material and fabrics across India" },
     { label: "Processing and weaving", value: "Dyeing and printing houses in Pandesara and Sachin GIDC, with power-loom clusters in Udhna, Palsana and Kadodara" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI automation that tags saree photos, answers reseller queries, reads agent orders and chases overdue payments politely on WhatsApp.",
     data: "Dashboards showing sales by agent and city, overdue dhara, lot status at processors and daily diamond production by department.",
     app: "Android and iOS apps for Surat resellers, agents, karigars and managers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of fixes and updates after launch, then plans from ₹8,000 a month, answered on WhatsApp every day.",
+    maintenance: "Two free months of fixes and updates after launch, then plans from ₹8,000 a month, answered on WhatsApp every day.",
   },
   whyUsIntro:
     "Surat businesses decide fast and hate wasted money. We work to that: a freelance group of three engineers with published starting prices, itemised quotes, working previews in the first fortnight, full ownership handed over and WhatsApp replies seven days a week.",
@@ -211,7 +211,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Textile, diamond or trading software:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -295,7 +295,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay per request. We support software, hosting and apps remotely, not office hardware.",
+        "Two months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay per request. We support software, hosting and apps remotely, not office hardware.",
     },
     {
       question: "Can the software sync with Tally?",

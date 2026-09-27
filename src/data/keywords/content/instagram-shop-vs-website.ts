@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Store build time", "4–8 weeks"],
     ["Checkout", "UPI, cards and COD rules you set"],
     ["Domain, code, customer data", "In your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "0", label: "Marketplace commission on orders placed on your own website" },
     { value: "2", label: "Working days to get an itemised quote" },
-    { value: "5", label: "Months of free fixes after your store goes live" },
+    { value: "2", label: "Months of free fixes after your store goes live" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Biggest DM-selling risk", value: "Account disabled or hacked, customers lost" },
       { label: "Found on Google", value: "Website product pages, not DM threads" },
       { label: "Store with us", value: `From ${P.shop}, 4–8 weeks` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What moving from Instagram DMs to a website costs",
-    note: `A simple catalogue website with an order-on-WhatsApp button starts at ${P.site} (about ${P.siteUsd}) and suits sellers who want a Google-visible home without full checkout. A proper online store with UPI and card payments, COD rules, order management and an admin panel starts at ${P.shop} (about ${P.shopUsd}). DM auto-replies that send product links start at ${P.ai}. After launch you pay for hosting and your domain; maintenance is free for five months, then from ${P.care} if you want us to keep looking after it. Compare these one-time costs with the hours you spend each week chasing DM orders and the orders lost when replies are slow.`,
+    note: `A simple catalogue website with an order-on-WhatsApp button starts at ${P.site} (about ${P.siteUsd}) and suits sellers who want a Google-visible home without full checkout. A proper online store with UPI and card payments, COD rules, order management and an admin panel starts at ${P.shop} (about ${P.shopUsd}). DM auto-replies that send product links start at ${P.ai}. After launch you pay for hosting and your domain; maintenance is free for two months, then from ${P.care} if you want us to keep looking after it. Compare these one-time costs with the hours you spend each week chasing DM orders and the orders lost when replies are slow.`,
   },
   guideLabel: "Instagram shop vs website guide",
   guide: [
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Instagram costs nothing in fees and a lot in time; a website costs money once and then far less time. Which is cheaper depends on how many orders you handle and what your hours are worth.`,
         `On Instagram alone, your costs are ad spend if you boost posts, courier charges, and the hours spent on DMs, payment checks and address entry. There is also the cost you cannot see on a bill: buyers who gave up because nobody replied for three hours, and failed COD deliveries you accepted without any rule to filter them.`,
-        `A website adds a one-time build, a domain, hosting and gateway charges on each payment. With us, a catalogue site starts at ${P.site} and a full store with checkout at ${P.shop}. Maintenance is free for five months after launch, then from ${P.care} if you want us to keep handling it. There is no marketplace commission on orders placed on your own site.`,
+        `A website adds a one-time build, a domain, hosting and gateway charges on each payment. With us, a catalogue site starts at ${P.site} and a full store with checkout at ${P.shop}. Maintenance is free for two months after launch, then from ${P.care} if you want us to keep handling it. There is no marketplace commission on orders placed on your own site.`,
         `A quick way to compare: note how many hours a week you spend on order admin in DMs, put a fair hourly value on them, and add a cautious estimate of lost orders. Put that next to the store cost spread over two years. If you would rather see real budgets, <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a> breaks them down by feature.`,
       ],
     },
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
       ["Itemised quote in two working days", "You get a line-by-line quote covering pages, checkout, COD rules and WhatsApp updates. Nothing is billed until you approve it in writing."],
       ["Build on a private staging link", "We load your products and test UPI, card and COD orders on a preview you can open on your own phone, while Instagram selling continues."],
       ["Launch and update your links", "The domain goes live in your name, Search Console and analytics are set up, and your bio link, Story links and DM replies point to the store."],
-      ["Five months of free fixes", "We watch the first orders closely and fix issues free for five months after launch. After that, upkeep is optional, or you hand over to anyone."],
+      ["Two months of free fixes", "We watch the first orders closely and fix issues free for two months after launch. After that, upkeep is optional, or you hand over to anyone."],
     ],
   },
   faqHeading: "Instagram shop vs website: questions sellers ask",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
     { question: "Does Instagram have a checkout option in India?", answer: "No. Meta's Business Help Centre describes checkout on Facebook and Instagram as a US-only option. Sellers elsewhere send buyers to their own website to pay or close sales in messages. For Indian sellers, that means UPI and COD have to be handled either manually in DMs or through a checkout on your own website." },
     { question: "How do Instagram sellers accept UPI and COD payments?", answer: "Without a website, sellers share a UPI ID or QR code in DMs and check screenshots against their bank app, and decide COD case by case. With a website, a payment gateway handles UPI, cards, net banking and wallets automatically, and COD follows rules you set, such as limits by order value or pincode, with confirmation sent on WhatsApp." },
     { question: "What happens if my Instagram account gets banned?", answer: "If Instagram is your only shop, you lose access to your catalogue, DM order history and the main way buyers reach you until the account is restored, which is not guaranteed. Instagram's Terms of Use allow it to remove content and stop providing the service when it believes rules are broken. A website on your own domain keeps your business running meanwhile." },
-    { question: "How much does a website for an Instagram seller cost?", answer: `With BtechWaleTech, a catalogue website with an order-on-WhatsApp button starts at ${P.site}, and a full online store with UPI, cards and COD rules starts at ${P.shop}. DM auto-replies start at ${P.ai}. You also pay for your domain, hosting and payment gateway charges, and maintenance is free for five months after launch.` },
+    { question: "How much does a website for an Instagram seller cost?", answer: `With BtechWaleTech, a catalogue website with an order-on-WhatsApp button starts at ${P.site}, and a full online store with UPI, cards and COD rules starts at ${P.shop}. DM auto-replies start at ${P.ai}. You also pay for your domain, hosting and payment gateway charges, and maintenance is free for two months after launch.` },
     { question: "Is Instagram or a website better for getting found on Google?", answer: "A website. Instagram is built for discovery inside the app, while a website's product and category pages can be written and structured for the exact words buyers type into Google. Product schema and Google Merchant Center free listings can also help your products appear in Google's shopping results. SEO takes time, and nobody can guarantee rankings." },
     { question: "Can I link my Instagram posts to my website?", answer: "Yes. You can put your store link in your bio, add product links to Stories, and reply to DMs with a direct product link. Where your account is eligible for Instagram Shopping, product tags can open the matching page on your website. Adding UTM tags to these links shows in Google Analytics which posts produce paid orders." },
     { question: "How long does it take to move from Instagram DMs to a website?", answer: "A catalogue site usually takes 1–2 weeks with BtechWaleTech, and a full online store with checkout takes 4–8 weeks, depending on how many products, variants and rules you have. You keep selling on Instagram throughout; the switch is only a change of bio link, Story links and DM replies once the store is tested." },
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Do I need GST registration to start a website for my Instagram shop?", answer: "Whether you need GST registration depends on your turnover, what you sell and how you sell it, so check with your chartered accountant rather than relying on a developer. What we can do is build the store to show GST details and generate GST invoices once you are registered, and to capture a buyer's GSTIN for business orders." },
     { question: "Will a website help my products appear in AI search answers?", answer: "It gives them a chance. AI answer tools and Google's AI features draw on pages they can read, so clear product pages with names, prices, materials, delivery areas and FAQs, plus product schema, give them something to cite. DM conversations are invisible to them. Results build slowly, and no one can promise when or where you will appear." },
     { question: "Instagram se orders aa rahe hain, kya website banwana zaroori hai?", answer: `Agar hafte mein kuch hi orders aate hain toh Instagram DMs se kaam chal jaata hai. Lekin jab DMs ka reply dene mein ghante lagne lagein, UPI screenshot check karna mushkil ho aur COD parcel wapas aane lagein, tab website zaroori hai. BtechWaleTech ke saath online store ${P.shop} se shuru hota hai, aur catalogue website ${P.site} se.` },
-    { question: "What maintenance does a small online store need?", answer: `Hosting renewals, security updates, backups, payment and courier integration checks, and small content changes such as new products and banners. BtechWaleTech includes five months of free maintenance after launch, then offers upkeep from ${P.care}. Since everything is in your name, you can also hand it to your own developer or manage day-to-day updates yourself.` },
+    { question: "What maintenance does a small online store need?", answer: `Hosting renewals, security updates, backups, payment and courier integration checks, and small content changes such as new products and banners. BtechWaleTech includes two months of free maintenance after launch, then offers upkeep from ${P.care}. Since everything is in your name, you can also hand it to your own developer or manage day-to-day updates yourself.` },
   ],
   related: {
     heading: "More guides for social-first sellers",

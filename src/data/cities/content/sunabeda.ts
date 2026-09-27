@@ -56,7 +56,7 @@ const sunabeda: CityContent = {
     ai: "WhatsApp assistants in Odia, Hindi and English that answer fee, timing and stock questions and pass real decisions to you.",
     data: "Dashboards of contract jobs, invoices raised and paid, student attendance or shop sales, drawn from the sheets you already use.",
     app: "Android and iOS apps for coaching institutes, schools or delivery shops serving the township, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Many Sunabeda households have worked with engineers and procedures all their lives, and they expect clear documentation. We give it: published starting prices, a written itemised quote, WhatsApp replies every day of the week, and domain, hosting, code and store accounts registered in your name. When a feature is not worth its cost, we say that too.",
@@ -171,7 +171,7 @@ const sunabeda: CityContent = {
       heading: "Ownership and maintenance for Sunabeda websites and apps",
       paragraphs: [
         "Families in transferable jobs know how often the person who set something up moves away. A website should not disappear because its builder did. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts in your name from the start, and hand over the logins in writing.",
-        "The first five months after launch come with free maintenance: content updates, backups, security patches, software updates and checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to any other developer whenever you choose.",
+        "The first two months after launch come with free maintenance: content updates, backups, security patches, software updates and checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to any other developer whenever you choose.",
         "Apps need yearly updates because Google and Apple regularly change their technical and privacy requirements. We track those rules and update your app in good time so it stays listed. You also get a short handover note explaining how everything is set up.",
       ],
     },
@@ -268,7 +268,7 @@ const sunabeda: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code to another developer whenever you like.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code to another developer whenever you like.",
     },
     {
       question: "Do you work in Koraput, Jeypore and Damanjodi as well?",

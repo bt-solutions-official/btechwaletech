@@ -57,7 +57,7 @@ const markapur: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer product, size, price and room questions and route bulk enquiries to you.",
     data: "Dashboards showing orders by buyer and country, stock by size and grade, and monthly dispatches from each unit.",
     app: "Android and iOS apps for slate buyers to track orders, or for pilgrims to book lodges on the Srisailam route, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and catalogue changes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and catalogue changes.",
   },
   whyUsIntro:
     "Slate owners in Markapur deal with buyers who compare quotes to the rupee, so they expect the same clarity from us. We publish starting prices, send itemised written quotes, reply on WhatsApp seven days a week, and register your domain, hosting, code and app store accounts in your name. If a feature will not pay for itself, we say so.",
@@ -151,7 +151,7 @@ const markapur: CityContent = {
       heading: "Website cost in Markapur: starting prices and what moves the quote",
       paragraphs: [
         "A slate unit usually asks us first what a proper product catalogue will cost. The answer begins with our static website, up to 100 pages, from ₹10,000 and one to two weeks of work. If you want a page for every size, finish and application, or pages for every mandal you supply, an SEO website of 299+ pages begins at ₹20,000 and takes three to five weeks.",
-        "Other work is priced the same way, always as a starting figure. Android and iOS apps are from ₹40,000. AI and WhatsApp automation is from ₹40,000 with two to four weeks of build time. Sample and craft stores are from ₹50,000 over four to eight weeks, and order-to-dispatch software for a unit is from ₹60,000 over six to twelve weeks. Ongoing SEO runs from ₹10,000 a month, and after the five free months of post-launch care, maintenance is from ₹8,000 a month.",
+        "Other work is priced the same way, always as a starting figure. Android and iOS apps are from ₹40,000. AI and WhatsApp automation is from ₹40,000 with two to four weeks of build time. Sample and craft stores are from ₹50,000 over four to eight weeks, and order-to-dispatch software for a unit is from ₹60,000 over six to twelve weeks. Ongoing SEO runs from ₹10,000 a month, and after the two free months of post-launch care, maintenance is from ₹8,000 a month.",
         "Quotes around Markapuram and Ongole differ a great deal, so line them up on the same questions. Whose name is on the domain? Are Telugu and English pages both included? How many rounds of changes? Who pays for hosting next year? We send an itemised reply within about two working days and bill nothing until you sign off. The complete table is on our <a href=\"/pricing/\">pricing</a> page.",
       ],
     },
@@ -179,7 +179,7 @@ const markapur: CityContent = {
       heading: "Your Markapur website, app and accounts stay in your name",
       paragraphs: [
         "A slate exporter's catalogue can take years to earn Google's trust, and losing the domain means starting from zero. That is why the domain, hosting plan, source code, Play Console and App Store accounts are opened in your business name at the very start. The login details sit with you; we only use access you choose to give.",
-        "For the first five months after going live, maintenance is free: bug fixes, small text and photo changes, plugin and security updates. From the sixth month, a maintenance plan starts at ₹8,000 a month and covers backups, uptime monitoring, updates and routine edits such as a new tile size, a price change or fresh lodge photographs before the festival season.",
+        "For the first two months after going live, maintenance is free: bug fixes, small text and photo changes, plugin and security updates. From the third month, a maintenance plan starts at ₹8,000 a month and covers backups, uptime monitoring, updates and routine edits such as a new tile size, a price change or fresh lodge photographs before the festival season.",
         "Should you ever want a different developer, the handover is complete and free. Nothing is held back, because we prefer to be kept on for our work rather than for a password.",
       ],
     },
@@ -252,7 +252,7 @@ const markapur: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "The first five months after launch are covered free, including bug fixes, minor edits and security patches. After that, plans start at ₹8,000 a month for backups, monitoring, updates and routine catalogue or tariff changes. You may also run the site yourself, because every login belongs to you.",
+        "The first two months after launch are covered free, including bug fixes, minor edits and security patches. After that, plans start at ₹8,000 a month for backups, monitoring, updates and routine catalogue or tariff changes. You may also run the site yourself, because every login belongs to you.",
     },
     {
       question: "You have no office in Markapur. How do we work?",

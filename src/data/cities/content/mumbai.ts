@@ -7,7 +7,7 @@ const mumbai: CityContent = {
   meta: {
     title: "IT Services in Mumbai: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Mumbai businesses. Sites from ₹10,000, published prices, 5 months of free maintenance after launch.",
+      "Websites, local SEO, online stores and WhatsApp automation for Mumbai businesses. Sites from ₹10,000, published prices, 2 months of free maintenance after launch.",
     keywords: [
       "website development team in Mumbai",
       "web design team Mumbai",
@@ -31,7 +31,7 @@ const mumbai: CityContent = {
     eyebrow: "Mumbai · Maharashtra",
     h1: "Websites, SEO and automation for Mumbai firms, without Mumbai overheads",
     lede:
-      "Three engineers, working remotely, building websites, online stores, dashboards and WhatsApp automations for Mumbai traders, studios, clinics, consultants and exporters. Prices are on the page, the people you message are the people writing the code, and five months of maintenance after launch are included at no charge.",
+      "Three engineers, working remotely, building websites, online stores, dashboards and WhatsApp automations for Mumbai traders, studios, clinics, consultants and exporters. Prices are on the page, the people you message are the people writing the code, and two months of maintenance after launch are included at no charge.",
     pills: ["Sites from ₹10,000", "Local SEO by suburb", "UPI and Razorpay stores", "WhatsApp order flows", "Dashboards and web apps"],
   },
   quickAnswer:
@@ -52,7 +52,7 @@ const mumbai: CityContent = {
     ai: "AI assistants and WhatsApp workflows that answer rate, stock and appointment questions at 11 pm, when your staff have long since left for the train.",
     data: "Sales and inventory dashboards that pull from Tally or spreadsheets, so a trader in Masjid Bunder sees yesterday's numbers before the shutters go up.",
     app: "Android and iOS apps for bookings, loyalty and repeat orders at salons, gyms and cloud kitchens across the western suburbs, from ₹40,000.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Mumbai has no shortage of agencies, from BKC studios billing lakhs to freelancers found through a cousin. The gap is in the middle: firms that publish a price, answer on a Sunday, and hand over every login. That is the gap we work in, with three engineers and no office rent.",
@@ -177,7 +177,7 @@ const mumbai: CityContent = {
       paragraphs: [
         "A surprising number of Mumbai businesses do not control their own website. The domain was booked by a developer who has since moved to Pune, the hosting renews on someone else's card, and nobody has the password to change the phone number. When the renewal lapses, the site disappears and email can stop working too.",
         "From day one, we register the domain in your name and set up hosting under your account. At launch you receive every login, the source code and a short note explaining what runs where. You can move to another developer whenever you like, with no exit fee and no request to seek our permission.",
-        "The five months after launch are covered by free maintenance: text and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month, or simply message us when something needs doing. Either way, the site stays yours.",
+        "The two months after launch are covered by free maintenance: text and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month, or simply message us when something needs doing. Either way, the site stays yours.",
       ],
     },
     {
@@ -273,7 +273,7 @@ const mumbai: CityContent = {
     {
       question: "What does the free maintenance period cover?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Can you build a portal for my freight or distribution business?",

@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Basic notice period", "Four weeks to the 15th or month end"],
     ["Custom software with us", `From ${P.software}, 6–12 weeks`],
     ["Quote turnaround", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of maintenance included"],
+    ["After launch", "2 months of maintenance included"],
   ],
   stats: [
     { value: "3", label: "Freelance developers you talk to directly" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Recruiting fees or notice periods to wait out" },
   ],
   answer: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Process automation", note: `AI and workflow automation for inboxes, documents and data entry, from ${P.ai}, so admin staff stop retyping.`, href: "/germany/ai-automation-agency/", size: "md" },
       { name: "First product version", note: "A tested first release for a new digital service, built before you commit to permanent headcount.", href: "/germany/mvp-development-for-startups/", size: "sm" },
       { name: "Website and GDPR basics", note: `Company websites with consent handling built in, from ${P.site}.`, href: "/germany/gdpr-compliant-website/", size: "sm" },
-      { name: "Maintenance after handover", note: `Five months included after launch, then from ${P.care} if you want us to stay on.`, href: "/pricing/", size: "sm" },
+      { name: "Maintenance after handover", note: `Two months included after launch, then from ${P.care} if you want us to stay on.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Outsourced starting prices, to set against a year of salary",
-    note: "When you compare in-house vs outsourcing software development, put a full year of employer cost next to the scope you actually need built this year. The table shows our starting prices. A portal or internal tool starts at the custom software price and usually takes 6 to 12 weeks; an app starts at the app price. Every figure is a starting point: the itemised quote names features, integrations and hosting, and nothing is billed before you approve it in writing. Five months of maintenance come included after launch, and after that support is optional, so you are not paying for idle capacity between projects the way you would with a salaried role.",
+    note: "When you compare in-house vs outsourcing software development, put a full year of employer cost next to the scope you actually need built this year. The table shows our starting prices. A portal or internal tool starts at the custom software price and usually takes 6 to 12 weeks; an app starts at the app price. Every figure is a starting point: the itemised quote names features, integrations and hosting, and nothing is billed before you approve it in writing. Two months of maintenance come included after launch, and after that support is optional, so you are not paying for idle capacity between projects the way you would with a salaried role.",
   },
   guideLabel: "In-house vs outsourcing software development: the German SME guide",
   guide: [
@@ -152,7 +152,7 @@ const content: FreelanceContent = {
       heading: "Is outsourcing software development cheaper than hiring in-house?",
       paragraphs: [
         `Often, for project-shaped work, yes; for a stable product that needs full-time attention for years, not necessarily. The answer turns on utilisation: how many of the hours you pay for are spent on work you actually need.`,
-        `An employee costs the same in a quiet month as in a crunch month. If your roadmap has a big build followed by months of small changes, you pay for spare capacity or find other work for the developer. An outsourced project is priced for the scope, and afterwards you pay only for the support you choose. With us, maintenance is included for five months after launch and then starts at ${P.care}.`,
+        `An employee costs the same in a quiet month as in a crunch month. If your roadmap has a big build followed by months of small changes, you pay for spare capacity or find other work for the developer. An outsourced project is priced for the scope, and afterwards you pay only for the support you choose. With us, maintenance is included for two months after launch and then starts at ${P.care}.`,
         `The reverse holds too. When software is the product you sell, when features ship every week and the developers need to sit with sales and support, the in-house team earns its cost through speed and context. Paying an outside supplier indefinitely for that kind of continuous work can end up costing more and teaching you less.`,
         `We cannot give you a like-for-like euro comparison because salaries and supplier quotes vary widely across Germany, by skill and seniority. What we can do is make our side precise: an itemised quote in about two working days, starting at ${P.software} for custom software, ${P.app} for an app and ${P.ai} for an automation. Set that beside your own salary benchmark and the cost list above, and the in-house vs outsourcing software development maths becomes your own, not a sales pitch. For wider budget ranges, see <a href='/germany/software-development-cost/'>what software development costs in Germany</a>.`,
       ],
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
       ["You approve in writing", "Nothing is billed before written approval. We then create the repository and cloud accounts in your name and ask for the access we need."],
       ["We build in short cycles", "Work appears on a staging link your product owner can test. A weekly call in your morning covers demos, decisions and the next priorities."],
       ["You accept and launch", "Once the agreed acceptance points pass, we deploy to production, check monitoring and backups, and fix anything your users report in the first weeks."],
-      ["We hand over or stay", "You receive documentation, a runbook and a recorded handover. Five months of maintenance are included; after that you choose in-house, us or someone else."],
+      ["We hand over or stay", "You receive documentation, a runbook and a recorded handover. Two months of maintenance are included; after that you choose in-house, us or someone else."],
     ],
   },
   faqHeading: "In-house vs outsourcing software development: questions from German SMEs",
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
     { question: "How many working hours overlap between Germany and India?", answer: "India is 3.5 hours ahead of Germany in summer and 4.5 hours ahead in winter. Your morning and early afternoon fall in our afternoon and evening, which is when we hold calls and answer questions live. Work continues after your day ends, so issues raised in the afternoon are often addressed by your next morning." },
     { question: "How do payments and invoices work with a team in India?", answer: "We quote in USD and invoice from India. You can pay by Wise, bank wire or PayPal, and nothing is billed before you approve the itemised quote in writing. We do not advise on how to book or tax foreign invoices in Germany, so please check that with your accountant before the project starts." },
     { question: "Do you sign an NDA or a service contract?", answer: "Ask us about confidentiality and contract terms when you request a quote. What applies to your project is set out in the written quote you approve, and our general terms and refund policy are published on the website. We do not state conditions here that are not agreed in writing for your specific project." },
-    { question: "What happens after the software launches?", answer: `Five months of maintenance are included after launch, covering bug fixes and small adjustments. After that, maintenance starts at ${P.care} if you want us to continue, or you can move support to an in-house developer or another supplier using the documentation and runbook we hand over. You are never tied to us.` },
+    { question: "What happens after the software launches?", answer: `Two months of maintenance are included after launch, covering bug fixes and small adjustments. After that, maintenance starts at ${P.care} if you want us to continue, or you can move support to an in-house developer or another supplier using the documentation and runbook we hand over. You are never tied to us.` },
     { question: "Can you work alongside our existing in-house developers?", answer: "Yes. Many German teams use us for capacity: your lead assigns modules or integrations, we open pull requests in your repository, and your developers review and merge them. We follow your coding standards and branching model, join a regular call in your morning and keep questions written in your ticket system so nothing depends on memory." },
     { question: "Can we bring outsourced software back in-house later?", answer: "Yes, and planning for it from day one makes it easy. Use mainstream technology, keep the repository and accounts in your name, and insist on documentation and a recorded handover. When you hire your first developer, your product owner can onboard them with the existing docs, and we can answer questions during a transition period agreed in writing." },
     { question: "Do you visit offices in Germany?", answer: "No. We are three freelance developers working remotely from India, with no office, entity or staff in Germany. Workshops, demos and reviews happen by video call in English during your morning. If your project genuinely needs someone on site regularly, an in-house hire or a local supplier will serve you better, and we will say so." },

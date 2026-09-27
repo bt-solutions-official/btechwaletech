@@ -56,7 +56,7 @@ const pusad: CityContent = {
     ai: "WhatsApp assistants in Marathi and Hindi that answer rate, stock and timing questions and hand real orders to your staff.",
     data: "Season dashboards of bales pressed, quintals bought, farmer payments pending and dealer credit outstanding.",
     app: "Android and iOS apps for agri dealers or coaching institutes whose customers return every week, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Pusad businesses often run on credit cycles tied to the harvest, so they are wary of spending on anything that does not pay back within a season. We share starting prices openly, send written itemised quotes, reply on WhatsApp all seven days, and register the domain, hosting, code and app accounts in your name.",
@@ -177,7 +177,7 @@ const pusad: CityContent = {
       heading: "Website development team in Pusad that leaves you in control",
       paragraphs: [
         "When we finish, everything is yours. The domain, hosting, source code, Google Business Profile and the Google Play and App Store developer accounts are registered in your name. If you move to another <strong>website development team in Pusad</strong> or anywhere else, you hand over the logins and they continue.",
-        "Every project includes five months of free maintenance after launch. After that, maintenance starts at ₹8,000 a month and covers updates, backups, security fixes and small content edits. For seasonal businesses, the most useful task is a check before sowing and before the cotton season: are stock lists current, does the enquiry form still reach the right phone, are timings correct on Maps.",
+        "Every project includes two months of free maintenance after launch. After that, maintenance starts at ₹8,000 a month and covers updates, backups, security fixes and small content edits. For seasonal businesses, the most useful task is a check before sowing and before the cotton season: are stock lists current, does the enquiry form still reach the right phone, are timings correct on Maps.",
         "If you only need occasional changes, we can quote each one separately instead of a monthly plan.",
       ],
     },
@@ -255,7 +255,7 @@ const pusad: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch for fixes, updates and small edits. After that, maintenance starts at ₹8,000 a month and covers backups, security updates and content changes. Many seasonal businesses use it to refresh stock lists and prices before kharif sowing and the cotton buying season.",
+        "Every project includes two months of free maintenance after launch for fixes, updates and small edits. After that, maintenance starts at ₹8,000 a month and covers backups, security updates and content changes. Many seasonal businesses use it to refresh stock lists and prices before kharif sowing and the cotton buying season.",
     },
     {
       question: "Do you offer monthly SEO services in Pusad?",

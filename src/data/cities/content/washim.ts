@@ -56,7 +56,7 @@ const washim: CityContent = {
     ai: "Marathi WhatsApp assistants that answer rate, stock, fee and timing questions and hand real decisions back to you.",
     data: "Dashboards that show daily purchases, stock by warehouse, dues by farmer and season-on-season comparisons.",
     app: "Android and iOS apps for village retailers to re-order farm inputs or for parents to get school notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Washim business owners plan around the kharif crop and do not like paying for things twice. We publish starting prices, send an itemised written quote, answer WhatsApp every day including Sundays, and register the domain, hosting, code and app store accounts in your name. When something will not earn back its cost, we tell you plainly.",
@@ -178,7 +178,7 @@ const washim: CityContent = {
       heading: "Ownership, maintenance and help across Risod, Malegaon, Karanja and Mangrulpir",
       paragraphs: [
         "A familiar story in district towns is a website that disappears because the person who built it registered the domain in his own name and then stopped answering calls. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your name from day one, and hand over every login in writing.",
-        "Maintenance is free for five months after launch. That covers content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time. Apps need yearly attention because Google and Apple change their rules; we keep track so your app is not removed for falling behind.",
+        "Maintenance is free for two months after launch. That covers content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time. Apps need yearly attention because Google and Apple change their rules; we keep track so your app is not removed for falling behind.",
         "We work with businesses in Washim town and across the district, including Risod, Malegaon, Mangrulpir, Karanja Lad and Manora, and with clients in Akola, Pusad, Mehkar and Lonar. If you are unsure whether you need a website, an app, automation or only a better map listing, send us a WhatsApp message about your business. We will suggest the smallest useful step, even if it is something you can do yourself. You can also <a href=\"/contact/\">contact us here</a>.",
       ],
     },
@@ -266,7 +266,7 @@ const washim: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You pay nothing for upkeep during the five months after going live; we handle edits, backups, security fixes and test that enquiry forms, checkout and WhatsApp buttons keep working. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and accounts to another developer at any time, with no lock-in.",
+        "You pay nothing for upkeep during the two months after going live; we handle edits, backups, security fixes and test that enquiry forms, checkout and WhatsApp buttons keep working. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and accounts to another developer at any time, with no lock-in.",
     },
     {
       question: "Do you work in Risod, Malegaon, Karanja and Mangrulpir too?",

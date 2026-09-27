@@ -32,10 +32,10 @@ const satna: CityContent = {
     h1: "Websites, software, SEO and AI tools for Satna's cement belt, its traders and the Chitrakoot pilgrim trail",
     lede:
       "A three-engineer remote team building websites, vendor profiles, freight and dispatch tools, local search visibility and WhatsApp automation for Satna district. We work with plant suppliers and transporters, wholesale traders around the station, schools and hospitals in the city, and hotels and dharamshalas serving visitors on the way to Chitrakoot, Maihar and Khajuraho.",
-    pills: ["Websites from ₹10,000", "Vendor capability sites", "Truck and trip tracking", "Hindi-first pages", "Five months free upkeep"],
+    pills: ["Websites from ₹10,000", "Vendor capability sites", "Truck and trip tracking", "Hindi-first pages", "Two months free upkeep"],
   },
   quickAnswer:
-    "For a Satna business, our static website starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website costs from ₹20,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote three-engineer team with no Satna office, and every site gets five months of free maintenance.",
+    "For a Satna business, our static website starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website costs from ₹20,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote three-engineer team with no Satna office, and every site gets two months of free maintenance.",
   snapshot: [
     { label: "City role", value: "District headquarters in north-eastern Madhya Pradesh, on the Howrah–Allahabad–Mumbai rail line" },
     { label: "Cement", value: "Around ten cement plants in and near the city, fed by local limestone, including Birla Corporation's Satna Cement Works and Prism Johnson's unit" },
@@ -52,7 +52,7 @@ const satna: CityContent = {
     ai: "WhatsApp assistants that answer freight rates, room availability or admission queries in Hindi at any hour and pass serious leads to you.",
     data: "Dashboards built from trip, dispatch or sales records so owners see which routes, customers or products earn and which lose money.",
     app: "Android and iOS apps for drivers, site supervisors and field staff on low-cost phones, built in Flutter or React Native and released on both stores.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay-per-change, as you prefer.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay-per-change, as you prefer.",
   },
   whyUsIntro:
     "Satna's economy leans heavily on a few large plants, and the hundreds of firms around them compete on trust and reliability rather than advertising. A clear website and a sound Google listing are the cheapest ways to show that reliability. We quote in writing, publish our rates and reply on WhatsApp seven days a week.",
@@ -181,7 +181,7 @@ const satna: CityContent = {
       paragraphs: [
         "Satna has its share of businesses whose website disappeared because the person who built it kept the domain under their own account and later stopped answering calls. The owner is left unable to renew or even change a phone number.",
         "With us, the domain and hosting are registered in your name. At launch you receive every password, the full source code and a short note explaining how the pieces fit together. If you later want another developer to take over, you hand them the note and the logins. We charge no exit fee.",
-        "For the first five months after launch, maintenance costs nothing: content and price changes, bug fixes, security updates, backups and uptime checks. After that you can continue from ₹8,000 a month or simply message us when a change is needed.",
+        "For the first two months after launch, maintenance costs nothing: content and price changes, bug fixes, security updates, backups and uptime checks. After that you can continue from ₹8,000 a month or simply message us when a change is needed.",
       ],
     },
   ],
@@ -263,7 +263,7 @@ const satna: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle text and rate changes, bug fixes, security updates, backups and uptime checks at no cost. After that you can continue from ₹8,000 a month or contact us only when something needs changing.",
+        "For two months after launch we handle text and rate changes, bug fixes, security updates, backups and uptime checks at no cost. After that you can continue from ₹8,000 a month or contact us only when something needs changing.",
     },
     {
       question: "Can my website be in Hindi?",

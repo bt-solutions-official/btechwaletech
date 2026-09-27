@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Consent", value: "Notice and consent at enrolment, with a non-face fallback" },
       { label: "Hardware", value: "Android phones or tablets you buy; we do not supply devices" },
       { label: "Cost", value: `App from ${P.app}; full platform from ${P.software}` },
-      { label: "After launch", value: `5 months free, then maintenance from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then maintenance from ${P.care} a month` },
     ],
   },
   services: {
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a custom face recognition attendance app starts at ${P.app} (about ${P.appUsd}), and a complete platform with HR panel, shifts, multi-site reports and payroll export starts at ${P.software} (about ${P.softwareUsd}). Devices are extra and bought by you.`,
         "The biggest cost drivers are the number of sites and lanes, whether you need both kiosk and personal-phone punching, how complex your shift and overtime rules are, and integrations with payroll or an HRMS. Liveness strength matters too: a commercially licensed liveness SDK adds its own fee, paid by you to its provider, while an in-house passive check keeps costs lower but is less proven.",
-        `Running costs are modest: cloud hosting in your account, any SDK licence, and maintenance from ${P.care} a month after five free months. Quotes from others vary widely; compare them on what is included, especially liveness testing, threshold tuning and data ownership.`,
+        `Running costs are modest: cloud hosting in your account, any SDK licence, and maintenance from ${P.care} a month after two free months. Quotes from others vary widely; compare them on what is included, especially liveness testing, threshold tuning and data ownership.`,
       ],
     },
     {
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
         ["Face attendance app", "Enrolment, on-device match, liveness, offline sync, basic admin", `From ${P.app}`, `From ${P.appUsd}`],
         ["Full platform", "HR panel, shifts, multi-site, approvals, payroll export", `From ${P.software}`, `From ${P.softwareUsd}`],
         ["AI tuning and add-ons", "Threshold tuning on your staff, helmet or mask prompts", `From ${P.ai}`, `From ${P.aiUsd}`],
-        ["Maintenance after 5 free months", "OS updates, model updates, fixes", `From ${P.care}/month`, `From ${P.careUsd}/month`],
+        ["Maintenance after 2 free months", "OS updates, model updates, fixes", `From ${P.care}/month`, `From ${P.careUsd}/month`],
         ["Careers or company website", "Pages for hiring and company information", `From ${P.site}`, `From ${P.siteUsd}`],
       ],
       hideSm: [3],
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
       ["Consent and data plan", "We draft the enrolment notice screen, retention periods and access roles for your lawyer to approve before any face is captured."],
       ["Build and enrol a pilot group", "Ankur builds the apps and panel, Santosh sets up the model and cloud in your account, and one department enrols."],
       ["Tune on real punches", "Two weeks of pilot punches alongside your old method give us similarity scores to set thresholds and fix placement issues."],
-      ["Roll out and hand over", "Remaining sites follow. You receive code, model documentation, admin guides and recordings; five months of free maintenance begin."],
+      ["Roll out and hand over", "Remaining sites follow. You receive code, model documentation, admin guides and recordings; two months of free maintenance begin."],
     ],
   },
   faqHeading: "Face recognition attendance system: common questions",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Where are employees' face images stored?", answer: "In your own cloud account, encrypted, with access limited to named HR roles and every view logged. Kiosks hold encrypted templates for their site only; personal phones hold only their owner's template. When someone leaves, their templates and images are deleted on the schedule you choose." },
     { question: "Freelance team or large vendor for face attendance?", answer: "A large vendor suits you if you want terminals, installation and software from one supplier. A small freelance team suits custom rules, many small sites on phones and tablets, and data kept in your own account. Either way, insist on a pilot on your staff and a clear answer on liveness and data deletion." },
     { question: "Face se attendance lagane wala app banwane me kitna kharcha hai?", answer: `Custom face recognition attendance app ${P.app} se shuru hota hai, jo phone ya tablet par hi chehra match karta hai aur internet na ho tab bhi punch save karta hai. HR panel, shift rules aur payroll export wala pura system ${P.software} se shuru hota hai. Machines aap khud khareedte hain; quote pehle itemised milta hai.` },
-    { question: "What maintenance does a face attendance system need?", answer: `Keep lenses clean, re-enrol people whose appearance changes a lot, and update apps when Android changes. On our side, the first five months of maintenance after launch are free; after that it starts at ${P.care} a month and covers OS updates, model updates, fixes and small changes agreed in your quote.` },
+    { question: "What maintenance does a face attendance system need?", answer: `Keep lenses clean, re-enrol people whose appearance changes a lot, and update apps when Android changes. On our side, the first two months of maintenance after launch are free; after that it starts at ${P.care} a month and covers OS updates, model updates, fixes and small changes agreed in your quote.` },
     { question: "Who owns the face attendance software and data?", answer: "You do. The code, model documentation, cloud account, database and app listings are created in your company's name. We work with access you can revoke at any time. If you move to another developer later, everything they need is in your hands." },
   ],
   related: {
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning face attendance? Send us photos of your gates",
-    note: `Message us on WhatsApp with your sites, headcount per shift and a photo of each punch point. You will get an itemised quote in about two working days. A face recognition attendance app starts at ${P.app}, your employees' data stays in your own account, and five months of maintenance come free after launch.`,
+    note: `Message us on WhatsApp with your sites, headcount per shift and a photo of each punch point. You will get an itemised quote in about two working days. A face recognition attendance app starts at ${P.app}, your employees' data stays in your own account, and two months of maintenance come free after launch.`,
   },
 };
 

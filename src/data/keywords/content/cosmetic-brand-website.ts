@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Store build time", "Usually 4–8 weeks"],
     ["Checkout", "UPI, cards, wallets, COD if you want it"],
     ["You own", "Store, domain, customer data, code"],
-    ["Included after launch", "5 months of maintenance"],
+    ["Included after launch", "2 months of maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers, spoken to directly" },
     { value: "2", label: "Working days to your written quote" },
-    { value: "5", label: "Free maintenance months post-launch" },
+    { value: "2", label: "Free maintenance months post-launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -206,7 +206,7 @@ const content: FreelanceContent = {
         `<strong>Content:</strong> ingredient guides and product copy; you supply approved label data and photos.`,
       ],
       after: [
-        `Monthly SEO starts at ${P.seo}; maintenance from ${P.care} once the 5 free months end. A companion app for loyal buyers starts at ${P.app}; see <a href='/d2c-app-development/'>D2C app development</a> before deciding you need one.`,
+        `Monthly SEO starts at ${P.seo}; maintenance from ${P.care} once the 2 free months end. A companion app for loyal buyers starts at ${P.app}; see <a href='/d2c-app-development/'>D2C app development</a> before deciding you need one.`,
       ],
     },
     {
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Label data and templates", "You send approved labels, ingredient lists and photos; we build the product template, ingredient blocks and review fields around them."],
       ["Store design and offers", "Home, collection, product and checkout pages are designed to your packaging, then bundles, subscriptions and creator codes are configured."],
       ["Test orders and sign-off", "We place real test orders with UPI, card and COD, check invoices and codes, and you and your advisor sign off copy and claims."],
-      ["Launch, handover, care", "The store goes live on your accounts with analytics and Search Console. You get a walkthrough, then 5 months of free maintenance."],
+      ["Launch, handover, care", "The store goes live on your accounts with analytics and Search Console. You get a walkthrough, then 2 months of free maintenance."],
     ],
   },
   faqHeading: "Cosmetic brand website: common questions",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Can the website handle GST invoices?", answer: "Yes. The store generates invoices with your GSTIN, HSN codes and tax breakup as configured, and we test them with real orders before launch. Your accountant should confirm tax rates and invoice format for your products; we make sure the store applies what they specify consistently." },
     { question: "Do you write product descriptions and ingredient guides?", answer: "We write and structure web copy from the approved label data, formulation notes and evidence you provide, and we draft ingredient and concern guides in plain language. We do not invent claims or test results. Every piece goes to you and your advisor for approval before it is published." },
     { question: "Do I need an app for my cosmetic brand?", answer: `Usually not at launch. A fast mobile store does the job for most new labels. An app starts to make sense when you have a loyal base who reorders often and responds to push notifications; ours start at ${P.app}. Build the store first, watch repeat-purchase data, then decide.` },
-    { question: "What happens after launch?", answer: `You get 5 months of free maintenance covering fixes and small changes, then an optional plan from ${P.care}. Monthly SEO is available separately. Nothing renews by itself; exact scope is agreed in your written quote, and our refund policy page covers general terms.` },
+    { question: "What happens after launch?", answer: `You get 2 months of free maintenance covering fixes and small changes, then an optional plan from ${P.care}. Monthly SEO is available separately. Nothing renews by itself; exact scope is agreed in your written quote, and our refund policy page covers general terms.` },
     { question: "How do I pay you?", answer: "Indian brands pay by UPI or bank transfer against milestones in the written quote; nothing is billed until you approve it. Founders abroad pay in USD through Wise, bank wire or PayPal. Milestones are typically linked to design sign-off, store build and launch, as set out in the quote." },
     { question: "Cosmetic brand ki website banane mein kitna kharcha aata hai?", answer: `Poore online store wali cosmetic brand website ${P.shop} se shuru hoti hai aur lagbhag 4–8 hafte lagte hain. Agar abhi sirf marketplaces par bech rahe hain to bina cart wali brand site ${P.site} se ban jaati hai. Quote 2 working days mein itemised milta hai, approval ke bina koi payment nahi.` },
   ],

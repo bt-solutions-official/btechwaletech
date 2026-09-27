@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Usual build time", "6–10 weeks for the apps"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Payments collected", "UPI, cards, cash notes, monthly office invoices"],
-    ["After go-live", "5 months of maintenance free"],
+    ["After go-live", "2 months of maintenance free"],
   ],
   stats: [
     { value: "3", label: "Developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission per jar delivered" },
   ],
   answer: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Water can delivery app pricing",
-    note: `A water can delivery app is usually quoted as two parts. The customer and staff apps start at ${P.app}; the owner’s panel with the jar ledger, credit accounts and invoices starts at ${P.software}. What moves the final figure is how many ways you sell (homes, offices, events, dealers), whether you need offline sync, route sequencing, several plants or franchise depots, and how much of your existing customer list we migrate. The quote you receive is itemised by module, so you can drop route optimisation or iPhone for launch and add them later. After launch you get 5 months of free maintenance; ongoing care starts at ${P.care}.`,
+    note: `A water can delivery app is usually quoted as two parts. The customer and staff apps start at ${P.app}; the owner’s panel with the jar ledger, credit accounts and invoices starts at ${P.software}. What moves the final figure is how many ways you sell (homes, offices, events, dealers), whether you need offline sync, route sequencing, several plants or franchise depots, and how much of your existing customer list we migrate. The quote you receive is itemised by module, so you can drop route optimisation or iPhone for launch and add them later. After launch you get 2 months of free maintenance; ongoing care starts at ${P.care}.`,
   },
   guideLabel: "Water can delivery app guide",
   guide: [
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A water can delivery app from BtechWaleTech starts at ${P.app} for the customer and staff apps and ${P.software} for the owner’s panel. That is the starting point for a single-plant supplier with homes and offices; the itemised quote grows or shrinks with the modules you choose.`,
         `Cost goes up with the number of moving parts, not the number of screens. Route optimisation, multi-plant stock, franchise depots with their own logins, per-jar barcode scanning and a dealer ordering portal each add real work. Things that add surprisingly little: Hindi labels, extra reports on data we already store, and WhatsApp order confirmations once the API is set up.`,
-        `Running costs are separate and sit in your name: cloud hosting (small for a single city), SMS or WhatsApp message charges billed by the provider, payment gateway fees on online payments, the one-time US$25 Google Play registration and Apple’s US$99 yearly developer fee if you publish an iPhone app. After the first 5 months of free maintenance, ongoing care starts at ${P.care}. For a wider view of app budgets see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
+        `Running costs are separate and sit in your name: cloud hosting (small for a single city), SMS or WhatsApp message charges billed by the provider, payment gateway fees on online payments, the one-time US$25 Google Play registration and Apple’s US$99 yearly developer fee if you publish an iPhone app. After the first 2 months of free maintenance, ongoing care starts at ${P.care}. For a wider view of app budgets see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
       ],
     },
     {
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
       ["Rules document and screens", "We write down your deposit, cut-off, credit and route rules, and show rough screens for the staff and customer apps. You correct them before building starts."],
       ["Panel and staff app first", "The ledger and staff app are built and tested on one route with your real customers, while the diary runs in parallel so differences show up quickly."],
       ["Customer app and store publishing", "The customer app goes live on Google Play, and on the App Store if you need it, under developer accounts registered to your business."],
-      ["Handover and five free months", "You receive code, logins and a system map. For five months after launch we fix bugs and keep the apps current at no charge."],
+      ["Handover and two free months", "You receive code, logins and a system map. For two months after launch we fix bugs and keep the apps current at no charge."],
     ],
   },
   faqHeading: "Water can delivery app: questions suppliers ask",
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
     { question: "What happens to jar balances from my old register?", answer: "We turn them into opening balances. You fill a simple sheet with each customer’s address, usual order, jars held, deposit and dues, or send register photos and we help structure it. In the first two weeks, drivers confirm jars at each door and the app records corrections with a reason, which settles most old uncertainty." },
     { question: "Can customers pay by UPI and cash in the same app?", answer: "Yes. Customers can pay online by UPI or card when ordering, keep a prepaid balance if you offer one, or choose to pay the driver. Drivers record cash or UPI received at each stop, and the app totals cash in hand at the end of the round so a supervisor can confirm it the same day." },
     { question: "Do I need a website as well as a water can delivery app?", answer: `Usually yes, but a small one. New customers search Google for water can suppliers near them before they install anything. A simple site listing your areas, jar prices and a WhatsApp button, linked to your Google Business Profile, brings those enquiries in. Our static websites start at ${P.site}.` },
-    { question: "What does maintenance cost after the app goes live?", answer: `The first 5 months after launch are maintained free: bug fixes, small adjustments and keeping the apps current. After that, maintenance starts at ${P.care}. Separate running costs, such as cloud hosting, message charges and store fees, are billed to your own accounts by those providers, so you always see exactly what they cost.` },
+    { question: "What does maintenance cost after the app goes live?", answer: `The first 2 months after launch are maintained free: bug fixes, small adjustments and keeping the apps current. After that, maintenance starts at ${P.care}. Separate running costs, such as cloud hosting, message charges and store fees, are billed to your own accounts by those providers, so you always see exactly what they cost.` },
     { question: "Is a custom app better than ready-made water jar software?", answer: "Not always. Ready-made software is quicker and cheaper to start and suits suppliers with standard rules. A custom water can delivery app makes sense when you need your own brand on the stores, unusual pricing or deposit rules, franchise logins, or when per-customer fees grow large. Ask any vendor how you would export your data if you left." },
     { question: "Can event organisers book bulk jars with a separate deposit?", answer: "Yes. Event orders can carry their own quantity, delivery date, pick-up date and deposit, separate from a customer’s regular account. The staff app lists the pick-up on the right day, and the deposit refund is worked out after the jars come back, with charges for any missing or damaged cans." },
     { question: "Can the delivery staff app be in Hindi or Tamil?", answer: "Yes. The labels and buttons in the staff app can be shown in Hindi or another regional language, and drivers can switch language on their own phone. You supply or approve the translated wording; we build the app so that adding a language later is a text change, not a redesign." },

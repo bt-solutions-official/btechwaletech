@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers, all reachable directly" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Invoices before you approve the quote" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Connects to", value: "AFAS Profit, Exact Online, Moneybird, Shopify, WooCommerce" },
       { label: "Copyright", value: "Transferred to you by written deed, as your lawyer drafts or approves" },
       { label: "Personal data", value: "Processing agreement and SCCs on request; your counsel signs off" },
-      { label: "After go-live", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After go-live", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does custom software development cost in the Netherlands?",
       paragraphs: [
-        `With BtechWaleTech, custom software starts from ${P.software} for a focused first release, AI features start from ${P.ai}, and maintenance starts from ${P.care} after five free months. Quotes from Dutch bureaus and zzp developers vary widely; local rates, team size and how much consultancy is bundled explain most of the difference.`,
+        `With BtechWaleTech, custom software starts from ${P.software} for a focused first release, AI features start from ${P.ai}, and maintenance starts from ${P.care} after two free months. Quotes from Dutch bureaus and zzp developers vary widely; local rates, team size and how much consultancy is bundled explain most of the difference.`,
         `Whoever builds it, these are the factors that move a custom software quote the most:`,
       ],
       list: [
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
         ["AFAS, Exact or Moneybird link", "Two-way sync with logging and alerts", `${P.software}`, "6–8 weeks"],
         ["AI document or email handling", "Extraction, sorting, human approval step", `${P.ai}`, "2–4 weeks"],
         ["Companion Android and iOS app", "Mobile app on the same backend", `${P.app}`, "6–10 weeks"],
-        ["Care after go-live", "Updates, fixes, small changes", `${P.care}`, "Monthly, after 5 free months"],
+        ["Care after go-live", "Updates, fixes, small changes", `${P.care}`, "Monthly, after 2 free months"],
       ],
       hideSm: [1],
     },
@@ -442,7 +442,7 @@ const content: FreelanceContent = {
       ["Discovery milestone", "Process map, data model and clickable sketches agreed with your team. Access to AFAS, Exact Online or Moneybird is requested so integration work is not delayed."],
       ["Build in two-week cycles", "Each cycle ends with a demo link, a written summary and open questions. You test real screens early rather than reading status reports."],
       ["Go-live and parallel run", "The software goes live on hosting in your name, historic data is imported and checked, and the old spreadsheet stays read-only as a fallback."],
-      ["Handover and care", "Code, documentation and the copyright deed are handed over. Five months of free maintenance follow, then optional care from the monthly starting price."],
+      ["Handover and care", "Code, documentation and the copyright deed are handed over. Two months of free maintenance follow, then optional care from the monthly starting price."],
     ],
   },
   faqHeading: "Custom software development in the Netherlands: common questions",
@@ -463,7 +463,7 @@ const content: FreelanceContent = {
     { question: "Can the software be in Dutch?", answer: "Yes. The interface, emails and documents can be in Dutch, English or both. We build the structure so every text can be translated, and you or your team supply or approve the Dutch wording. We write English and do not present machine translation as final Dutch copy, so someone on your side checks the text before go-live." },
     { question: "Where will our software be hosted?", answer: "In an account registered to your business, usually in an EU region of a major cloud provider such as AWS Frankfurt or Ireland. You pay the hosting provider directly. We set up backups, monitoring and access control, and document everything so another developer could take over. If you already have a hosting provider you trust, we can deploy there instead." },
     { question: "Can you add AI to our custom software?", answer: `Yes, for specific tasks such as reading incoming invoices, sorting emails or extracting order lines from PDFs. We design it with a human check before anything is booked in your bookkeeping system. AI features start from ${P.ai} and take 2–4 weeks, either as part of the first build or added later once the core software is in use.` },
-    { question: "What if the process changes after launch?", answer: `Processes do change, and custom software can change with them. During the five free months after go-live, fixes and small adjustments are covered. After that, care continues from ${P.care}, and larger changes are quoted as their own milestones. Because the code, hosting and documentation are yours, you can also hand changes to another developer.` },
+    { question: "What if the process changes after launch?", answer: `Processes do change, and custom software can change with them. During the two free months after go-live, fixes and small adjustments are covered. After that, care continues from ${P.care}, and larger changes are quoted as their own milestones. Because the code, hosting and documentation are yours, you can also hand changes to another developer.` },
     { question: "Do you visit our office for workshops?", answer: "No. All work is remote: kick-off, discovery sessions and demos happen on video calls, and day-to-day contact runs through WhatsApp and email. A screen recording of how your team currently works often gives us more detail than a site visit would. If in-person workshops are essential for you, a Dutch bureau is a better fit." },
     { question: "Can you take over software another developer built?", answer: "Often, yes. We start with a paid review of the code, hosting, documentation and open issues, then tell you plainly whether it is better to continue, refactor or rebuild parts. The review needs access to the repository and a test environment. If the previous supplier still holds the copyright, sort out the transfer first with your lawyer." },
     { question: "What will you not build?", answer: "We do not take on projects needing large teams working in parallel, hardware or embedded systems, on-site installation, or work requiring certifications we do not hold. We also avoid building what a good existing product already does. If your project falls outside what three developers can deliver well, we will say so in the quote rather than stretch." },

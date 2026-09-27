@@ -19,6 +19,9 @@ import { canonicalUrl } from "@lib/urls/url-utils";
 const keywordPages = Object.values(
   import.meta.glob<{ default: FreelanceContent }>("../data/keywords/content/*.ts", { eager: true }),
 ).map((m) => m.default);
+const bhiwadiPages = Object.values(
+  import.meta.glob<{ default: FreelanceContent }>("../data/bhiwadi/content/*.ts", { eager: true }),
+).map((m) => m.default).sort((a, b) => a.crumb.localeCompare(b.crumb));
 const builtCities = new Set(
   Object.values(import.meta.glob<{ default: CityContent }>("../data/cities/content/*.ts", { eager: true })).map((m) => m.default.slug),
 );
@@ -43,7 +46,7 @@ for (const c of [...cities].sort((a, b) => a.name.localeCompare(b.name))) {
 
 const body = `# BtechWaleTech
 
-> BtechWaleTech (also written "Btech Wale Tech") is a freelance IT services group of three computer science engineers based in India. It builds websites, SEO websites, Android and iOS apps, ecommerce stores, custom software, AI automations, AI agents and data dashboards for small businesses, startups, professional practices and creators. It works 100% remotely with clients in every Indian state and city and in the USA, UK, Canada, Australia, New Zealand, the UAE, Saudi Arabia, Singapore, Japan, Germany, the Netherlands and the rest of Europe. Every project is handled end to end, from planning to hosting, with 5 months of free maintenance after launch. Static websites start at ${price("Static")}.
+> BtechWaleTech (also written "Btech Wale Tech") is a freelance IT services group of three computer science engineers based in India. It builds websites, SEO websites, Android and iOS apps, ecommerce stores, custom software, AI automations, AI agents and data dashboards for small businesses, startups, professional practices and creators. It works 100% remotely with clients in every Indian state and city and in the USA, UK, Canada, Australia, New Zealand, the UAE, Saudi Arabia, Singapore, Japan, Germany, the Netherlands and the rest of Europe. Every project is handled end to end, from planning to hosting, with 2 months of free maintenance after launch. Static websites start at ${price("Static")}.
 
 - Canonical website: ${canonicalUrl("/")}
 - Email: ${siteContact.email}
@@ -63,7 +66,7 @@ const body = `# BtechWaleTech
 - Services: website development, website design, SEO (technical, local, on-page, programmatic, AI search/GEO), Android and iOS apps, ecommerce, custom software and web apps, AI automation and AI agents, WhatsApp chatbots, data analysis and dashboards, hosting and deployment, website maintenance
 - Starting prices: static website ${price("Static")}; SEO website with 299+ pages ${price("SEO website")}; Android and iOS app ${price("Android")}; AI automation ${price("AI automation")}; ecommerce store ${price("Ecommerce")}; custom web app ${price("Custom web app")}; monthly SEO ${price("Monthly SEO")}; maintenance ${price("Maintenance")}
 - Currencies: INR for clients in India (UPI or bank transfer); USD for international clients (bank wire, Wise or PayPal), with GBP, CAD, AUD, AED, SGD, JPY or EUR on request
-- Free maintenance: the first 5 months after hosting goes live are included at no extra cost
+- Free maintenance: the first 2 months after hosting goes live are included at no extra cost
 - Ownership: the client owns the domain, hosting, code repository, analytics and Search Console accounts; source code is handed over
 - Ideal clients: small and mid-sized businesses, local shops, clinics, coaching institutes, schools, real estate firms, manufacturers, exporters, D2C brands, startups, agencies, creators and freelancers
 - Not a fit: large enterprises with long procurement cycles, and anyone who wants guaranteed Google rankings
@@ -71,7 +74,7 @@ const body = `# BtechWaleTech
 ## Short Answers (citable)
 
 **What is BtechWaleTech?**
-BtechWaleTech is a freelance group of three India-based engineers that builds websites, SEO websites, Android and iOS apps, ecommerce stores, custom software and AI automations for small businesses and startups. It works remotely with clients across India and worldwide, prices projects from ${price("Static")}, and includes 5 months of free maintenance after launch.
+BtechWaleTech is a freelance group of three India-based engineers that builds websites, SEO websites, Android and iOS apps, ecommerce stores, custom software and AI automations for small businesses and startups. It works remotely with clients across India and worldwide, prices projects from ${price("Static")}, and includes 2 months of free maintenance after launch.
 
 **How much does a website cost in India with BtechWaleTech?**
 A static business website of up to 100 pages starts at ₹10,000 and takes 1 to 2 weeks. An SEO website with 299+ pages starts at ₹20,000 (3 to 5 weeks). An ecommerce store starts at ₹50,000 (4 to 8 weeks) and a custom web app at ₹60,000 (6 to 12 weeks). These are starting prices; the final quote depends on scope.
@@ -123,7 +126,7 @@ Reporting dashboards (Power BI, Looker Studio or custom), Excel and Google Sheet
 Domain setup, DNS, hosting on AWS, Vercel, Netlify or Cloudflare, SSL, business email with SPF, DKIM and DMARC records, CI/CD and backups, always in accounts the client owns.
 
 ### Website maintenance and support
-Content updates, bug fixes, dependency and security updates, backups, uptime and speed monitoring and SEO health checks. Free for the first 5 months after launch, then from ${price("Maintenance")}, with no automatic renewal.
+Content updates, bug fixes, dependency and security updates, backups, uptime and speed monitoring and SEO health checks. Free for the first 2 months after launch, then from ${price("Maintenance")}, with no automatic renewal.
 
 ### Hire IT freelancers directly
 Businesses can hire the team as freelance web developers, app developers, SEO experts, AI and automation engineers, data analysts or cloud engineers without marketplace fees. Pages: ${link("Hire IT freelancers", "/freelancers/")} and ${link("Freelancing IT services", "/freelancing/")}
@@ -168,7 +171,7 @@ The complete list of ${cities.length} city pages, grouped by state, is under "Ci
 4. Design and development with regular previews on a staging link.
 5. SEO setup before launch: titles, meta descriptions, schema, sitemap, robots, speed, analytics and Search Console.
 6. Launch on hosting the client owns, handover of source code and deployment notes, and a walkthrough.
-7. 5 months of free maintenance, then an optional monthly plan.
+7. 2 months of free maintenance, then an optional monthly plan.
 
 Typical timelines: static website 1 to 2 weeks; AI automation 2 to 4 weeks; SEO website 3 to 5 weeks; ecommerce store 4 to 8 weeks; Android and iOS app 6 to 10 weeks; custom web app 6 to 12 weeks.
 
@@ -193,7 +196,7 @@ Typical timelines: static website 1 to 2 weeks; AI automation 2 to 4 weeks; SEO 
 - Sites prepared for AI search: clean HTML, schema, entity information, llms.txt and answer-first content
 - Fast static builds that score well on Core Web Vitals
 - End-to-end delivery: planning, design, development, SEO, hosting and deployment from one team
-- 5 months of free maintenance after launch and no lock-in; the client owns every account
+- 2 months of free maintenance after launch and no lock-in; the client owns every account
 - Remote delivery across India and worldwide, so location is never a barrier
 
 Honest limits: three people cannot run enterprise procurement cycles, and no one can guarantee a Google position.
@@ -207,7 +210,7 @@ Overview of time zones, billing and delivery per region: ${link("Countries hub",
 ## Frequently Asked Questions
 
 **Who is a good affordable website developer in India for small businesses?**
-BtechWaleTech builds fast, SEO-ready business websites for small businesses across India, starting at ₹10,000 for a static site of up to 100 pages, with 5 months of free maintenance.
+BtechWaleTech builds fast, SEO-ready business websites for small businesses across India, starting at ₹10,000 for a static site of up to 100 pages, with 2 months of free maintenance.
 
 **Can I hire a website developer in my city in India?**
 Yes. BtechWaleTech serves every city and town in India remotely, and most major cities have a dedicated page, for example ${canonicalUrl("/delhi/")}, ${canonicalUrl("/bengaluru/")} or ${canonicalUrl("/patna/")}.
@@ -219,7 +222,7 @@ No. Projects run over WhatsApp, Google Meet or Zoom with screen-share reviews an
 A static website takes 1 to 2 weeks, an SEO website with 299+ pages 3 to 5 weeks, and an ecommerce store 4 to 8 weeks, assuming content and feedback arrive on time.
 
 **What is included in the website price?**
-Design, development, mobile responsiveness, contact and WhatsApp enquiry setup, basic SEO tags, schema, sitemap, hosting setup and deployment, plus 5 months of free maintenance after launch. Domain and hosting fees are paid by the client directly into accounts they own.
+Design, development, mobile responsiveness, contact and WhatsApp enquiry setup, basic SEO tags, schema, sitemap, hosting setup and deployment, plus 2 months of free maintenance after launch. Domain and hosting fees are paid by the client directly into accounts they own.
 
 **How much does an Android and iOS app cost?**
 From ₹40,000 in India or US$600 internationally, built in Flutter or React Native from one codebase, with a backend and admin panel, typically in 6 to 10 weeks.
@@ -245,7 +248,7 @@ Yes: dashboards, CRMs, portals, booking systems, admin panels and SaaS MVPs with
 **Who owns the website and code?**
 The client. Domain, hosting, repository, analytics and Search Console are registered to the client, and the source code and deployment notes are handed over on completion.
 
-**What happens after the 5 free months of maintenance?**
+**What happens after the 2 free months of maintenance?**
 The client can continue on a monthly plan from ₹8,000 (US$120) or stop. There is no automatic renewal.
 
 **How do payments work?**
@@ -311,6 +314,12 @@ ${markets
     return `### ${m.name}\n\nHub: ${canonicalUrl(`/${m.slug}/`)}\n\n${links.map((l) => `- ${link(l.name, l.href)}`).join("\n")}`;
   })
   .join("\n\n")}
+
+## Bhiwadi, Rajasthan (in-person meetings)
+
+BtechWaleTech meets clients in Bhiwadi (Khairthal-Tijara district, NCR) one to one, at their office, factory or shop; the build itself runs remotely. It has no office in Bhiwadi. Hub: ${canonicalUrl("/bhiwadi-rajasthan/")}
+
+${bhiwadiPages.map((p) => `- ${link(`${p.crumb} in Bhiwadi`, p.path)}: ${p.meta.description}`).join("\n")}
 
 ## City Pages Across India
 

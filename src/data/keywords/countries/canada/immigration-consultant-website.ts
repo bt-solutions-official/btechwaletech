@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["CRS estimator and intake tools", `Custom tools from ${P.software}`],
     ["Languages built in", "English, with Hindi and Punjabi pages you approve"],
     ["Typical launch", "2–5 weeks, depending on page count"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building, testing and maintaining your practice site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Guarantee claims in the copy we write" },
   ],
   answer: {
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
         `<strong>Booking complexity:</strong> several licensees, fee types and languages add configuration time.`,
       ],
       after: [
-        `Ongoing costs are hosting, booking and payment tool fees in your accounts, and care after the five free months from ${P.care}. See all <a href='/pricing/'>starting prices</a>.`,
+        `Ongoing costs are hosting, booking and payment tool fees in your accounts, and care after the two free months from ${P.care}. See all <a href='/pricing/'>starting prices</a>.`,
       ],
     },
     {
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
         ["Secure client portal", "Document checklists, uploads, status updates", `${P.software}`, "6–12 weeks"],
         ["Enquiry automation", "Routing, reminders, CRM updates, WhatsApp replies", `${P.ai}`, "2–4 weeks"],
         ["Monthly SEO", "Program updates, new pages, Search Console reviews", `${P.seo}`, "Monthly"],
-        ["Care after 5 free months", "Updates, backups, estimator re-tests", `${P.care}`, "Monthly"],
+        ["Care after 2 free months", "Updates, backups, estimator re-tests", `${P.care}`, "Monthly"],
       ],
     },
   ],
@@ -455,7 +455,7 @@ const content: FreelanceContent = {
       ["Compliance-first templates", "Header, footer and program templates are built with registered name, licence number and register link in place before any marketing copy is added."],
       ["Content and review", "Program pages are drafted or edited, run through the banned-phrase list, and sent to you for accuracy review. Hindi pages reviewed in-house; Punjabi approved by you."],
       ["Tools and testing", "Booking, payment, questionnaires and any estimator are wired and tested with sample profiles, real payments and forms in every language on real phones."],
-      ["Launch and upkeep", "Launch in your morning, then five months of free maintenance covering fixes, rule-change updates and estimator re-tests when IRCC updates its criteria."],
+      ["Launch and upkeep", "Launch in your morning, then two months of free maintenance covering fixes, rule-change updates and estimator re-tests when IRCC updates its criteria."],
     ],
   },
   faqHeading: "Immigration consultant website design: frequently asked questions",
@@ -479,7 +479,7 @@ const content: FreelanceContent = {
     { question: "Who owns the website, booking system and enquiries?", answer: "Your practice does. The domain, hosting, code, booking and payment accounts, analytics and every enquiry are registered to you. We work as removable users, and at handover you receive documentation and training so another developer could maintain the site." },
     { question: "Why hire a remote team in India instead of a Canadian agency?", answer: "Lower starting prices and a team that speaks Hindi and knows how South Asian families research immigration online. Trade-offs: meetings are by video in your morning, there are no in-person visits, and invoices come from India. If you want a local vendor you can meet, a Canadian agency suits you better." },
     { question: "How do Canadian practices pay for the website?", answer: "Quotes are itemised in USD, and you pay by Wise, bank wire or PayPal; Wise lets you send from a CAD account. Payments follow milestones set in your written quote, and nothing is billed until you approve it. Your accountant advises on recording the invoices." },
-    { question: "What happens when IRCC changes a program?", answer: "Program pages get a dated update, and any calculator or questionnaire logic affected by the change is updated and re-tested. During the five free months of maintenance this is included; afterwards it falls under a care plan from the starting maintenance price. You still review content accuracy." },
+    { question: "What happens when IRCC changes a program?", answer: "Program pages get a dated update, and any calculator or questionnaire logic affected by the change is updated and re-tested. During the two free months of maintenance this is included; afterwards it falls under a care plan from the starting maintenance price. You still review content accuracy." },
     { question: "What do you need from me to quote?", answer: "Your licence details, the programs you handle, languages you consult in, consultation types and fees, any existing website or booking tools, and whether you want a CRS estimator or client portal. With that, you get an itemised quote in about two working days." },
   ],
   related: {

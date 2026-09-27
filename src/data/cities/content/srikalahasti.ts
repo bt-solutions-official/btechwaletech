@@ -56,7 +56,7 @@ const srikalahasti: CityContent = {
     ai: "WhatsApp assistants that answer room, timing, route and order questions in Telugu, Tamil or English and hand bookings to your staff.",
     data: "Dashboards of room occupancy by festival and weekday, Kalamkari orders by city, or patient visits by department.",
     app: "Android and iOS apps for a lodge chain's repeat pilgrims, a Kalamkari seller's buyers or a college's students, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes, with extra checks before Maha Shivaratri.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes, with extra checks before Maha Shivaratri.",
   },
   whyUsIntro:
     "Srikalahasti's economy runs on trust: pilgrims trust a lodge they found online, and buyers trust that a Kalamkari piece is hand-drawn. We try to earn the same trust from you with public starting prices, an itemised written quote, daily WhatsApp replies and every account registered in your own name.",
@@ -181,7 +181,7 @@ const srikalahasti: CityContent = {
       heading: "Ownership and maintenance for Srikalahasti websites and apps",
       paragraphs: [
         "Many small businesses have lost a website because the domain was registered in the developer's name. We register your domain, hosting, source code, Google Business Profile and any Play Store or App Store developer accounts to you, and hand over every login in writing.",
-        "Maintenance is free for five months after launch. It covers tariff and content updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. From the sixth month, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to any other developer whenever you like.",
+        "Maintenance is free for two months after launch. It covers tariff and content updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. From the third month, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to any other developer whenever you like.",
         "Before Maha Shivaratri and other peak dates, we check that booking forms and contact links are working under load. Apps receive yearly updates as Google and Apple change their requirements, so they stay listed in both stores.",
       ],
     },
@@ -269,7 +269,7 @@ const srikalahasti: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. Afterwards, maintenance starts at ₹8,000 a month if you want us to continue. You may take the code to another developer at any time.",
+        "The first two months are free and include updates, backups, security patches and checks on forms, payments and WhatsApp links. Afterwards, maintenance starts at ₹8,000 a month if you want us to continue. You may take the code to another developer at any time.",
     },
     {
       question: "Do you work in Tirupati, Renigunta and Naidupet as well?",

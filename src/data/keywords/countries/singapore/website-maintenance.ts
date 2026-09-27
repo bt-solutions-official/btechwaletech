@@ -26,27 +26,27 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Singapore · Monthly care for the site you already have",
     h1: "Website maintenance in Singapore: updates, backups and fixes on a plan you can read",
-    lede: `Website maintenance in Singapore keeps your site patched, backed up, online and accurate, so problems are caught before customers notice. BtechWaleTech is three freelance developers in India who look after WordPress, Shopify and custom sites on monthly plans from ${P.care}: core, plugin and theme updates tested on staging, off-site backups with restore tests, uptime and security monitoring, and content changes handled in Singapore hours. Sites we build get five months free. See our <a href='/singapore/'>Singapore work</a>.`,
+    lede: `Website maintenance in Singapore keeps your site patched, backed up, online and accurate, so problems are caught before customers notice. BtechWaleTech is three freelance developers in India who look after WordPress, Shopify and custom sites on monthly plans from ${P.care}: core, plugin and theme updates tested on staging, off-site backups with restore tests, uptime and security monitoring, and content changes handled in Singapore hours. Sites we build get two months free. See our <a href='/singapore/'>Singapore work</a>.`,
     pills: ["WordPress core, plugin and theme updates", "Off-site backups, restore tested", "Uptime alerts", "Security monitoring", "Small content edits", "Replies in SGT hours", "Plain monthly report"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Singapore sites maintained remotely",
   },
   facts: [
     ["Maintenance plans from", `${P.care}`],
-    ["Sites we build", "Five months free after launch"],
+    ["Sites we build", "Two months free after launch"],
     ["Platforms", "WordPress, Shopify, static and custom"],
     ["Backups", "Stored off the web server, in your account"],
     ["Hours", "Covers the Singapore afternoon and evening"],
     ["Billing", "USD monthly invoice · Wise or wire"],
   ],
   stats: [
-    { value: "5", label: "Months of free maintenance on sites we build" },
+    { value: "2", label: "Months of free maintenance on sites we build" },
     { value: "7", label: "Days a week on WhatsApp" },
     { value: "3", label: "Developers who can pick up your site" },
     { value: "2", label: "Working days to a written plan and quote" },
   ],
   answer: {
     heading: "What should website maintenance in Singapore include?",
-    text: `A website maintenance plan for a Singapore business should include tested WordPress core, plugin and theme updates, daily or weekly off-site backups with occasional restore tests, uptime and security monitoring, small content changes, and a short monthly report. BtechWaleTech offers plans from ${P.care}, with five free months on sites we build, and replies in Singapore hours.`,
+    text: `A website maintenance plan for a Singapore business should include tested WordPress core, plugin and theme updates, daily or weekly off-site backups with occasional restore tests, uptime and security monitoring, small content changes, and a short monthly report. BtechWaleTech offers plans from ${P.care}, with two free months on sites we build, and replies in Singapore hours.`,
     more: `Site too old to maintain sensibly? Consider a <a href='/singapore/website-revamp/'>website revamp</a> first, or read about <a href='/singapore/wordpress-website-design/'>WordPress website design in Singapore</a>.`,
   },
   snapshot: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Edits", value: "Small text, image, price and opening-hours changes" },
       { label: "Response", value: "Handled in SGT afternoons and evenings; timings set in your quote" },
       { label: "Reporting", value: "Monthly note: what was updated, what broke, what to plan for" },
-      { label: "Starting price", value: `From ${P.care}; free for five months on sites we build` },
+      { label: "Starting price", value: `From ${P.care}; free for two months on sites we build` },
     ],
   },
   services: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Website maintenance pricing",
-    note: `Monthly website maintenance starts at ${P.care} for a standard WordPress or static business site, covering scheduled updates, off-site backups, uptime and security monitoring, an agreed amount of content edits and a monthly report. Busier sites, online stores and custom applications are quoted higher because updates need more testing and there is more to monitor. Sites we build include five months of maintenance free after launch. Larger changes, such as new sections or features, are quoted separately so the plan stays predictable. Quotes and invoices are in USD from India, payable by Wise or bank wire, and nothing is billed until you approve.`,
+    note: `Monthly website maintenance starts at ${P.care} for a standard WordPress or static business site, covering scheduled updates, off-site backups, uptime and security monitoring, an agreed amount of content edits and a monthly report. Busier sites, online stores and custom applications are quoted higher because updates need more testing and there is more to monitor. Sites we build include two months of maintenance free after launch. Larger changes, such as new sections or features, are quoted separately so the plan stays predictable. Quotes and invoices are in USD from India, payable by Wise or bank wire, and nothing is billed until you approve.`,
   },
   guideLabel: "Website maintenance Singapore guide",
   guide: [
@@ -335,7 +335,7 @@ const content: FreelanceContent = {
         ["WordPress business site", "Updates tested on staging, security, edits, report", "Weekly or daily", `From ${P.care}`],
         ["WooCommerce or Shopify store", "Updates or app reviews, checkout tests, product edits", "Daily", "Quoted by store size"],
         ["Custom portal or web app", "Framework updates, server patching, logs, database backups", "Daily", "Quoted per application"],
-        ["Site we built for you", "Full maintenance", "As above", "Free for five months, then from the plan price"],
+        ["Site we built for you", "Full maintenance", "As above", "Free for two months, then from the plan price"],
         ["New features or redesign", "Project work outside the plan", "Not applicable", `Sites from ${P.site}; apps from ${P.software}`],
       ],
       hideSm: [2],
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Website maintenance in Singapore: frequently asked questions",
   faqs: [
-    { question: "How much does website maintenance cost in Singapore?", answer: `BtechWaleTech's website maintenance plans start at ${P.care} for a standard WordPress or static business site. Stores, booking systems and custom applications are quoted higher because they need more testing and monitoring. Sites we build get five months free after launch. Quotes are itemised in USD, and nothing is billed until you approve the written plan.` },
+    { question: "How much does website maintenance cost in Singapore?", answer: `BtechWaleTech's website maintenance plans start at ${P.care} for a standard WordPress or static business site. Stores, booking systems and custom applications are quoted higher because they need more testing and monitoring. Sites we build get two months free after launch. Quotes are itemised in USD, and nothing is billed until you approve the written plan.` },
     { question: "What does a website maintenance plan include?", answer: "A good plan lists its tasks: WordPress core, plugin and theme updates tested before going live, off-site backups with restore tests, uptime and SSL monitoring, security scans and hardening, an agreed amount of content edits, basic speed and Search Console checks, and a monthly report of what was done." },
     { question: "Is website maintenance really necessary?", answer: "For WordPress sites, stores and any site handling bookings or enquiries, yes. Plugins and themes need regular updates, and outdated software is a common route for hacks. A simple static site with no database needs much less, and occasional checks plus on-demand edits may be enough." },
     { question: "How often should WordPress plugins be updated?", answer: "Security releases should be applied promptly, and other updates checked at least monthly. WordPress updates minor core releases automatically by default, but plugins and themes generally are not auto-updated unless you enable it. We test plugin batches on a staging copy with a fresh backup before updating the live site." },
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Does website maintenance help with PDPA?", answer: "It supports the technical side: keeping software that handles personal data patched, restricting admin access, removing old accounts, securing backups and checking cookie consent after changes. Whether your organisation meets its PDPA obligations overall is for you and your own counsel to confirm." },
     { question: "What is the difference between hosting and maintenance?", answer: "Hosting is the server space where your site lives; the hosting company keeps the server running. Maintenance is the care of the website on that server: updating its software, backing it up elsewhere, monitoring it, fixing problems and editing content. Many hacked sites had good hosting and no maintenance." },
     { question: "Will maintenance updates break my website?", answer: "They can if applied carelessly, which is why we test on a staging copy first, take a backup immediately before updating the live site and check key pages, forms and checkout afterwards. If something still goes wrong, the backup lets us roll back quickly." },
-    { question: "Do sites you build come with free maintenance?", answer: `Yes. Every site we build includes five months of free maintenance after launch, covering updates, backups, monitoring and fixes. After that, plans start at ${P.care}, or you can move maintenance to anyone you choose, since you own every account and all the code.` },
+    { question: "Do sites you build come with free maintenance?", answer: `Yes. Every site we build includes two months of free maintenance after launch, covering updates, backups, monitoring and fixes. After that, plans start at ${P.care}, or you can move maintenance to anyone you choose, since you own every account and all the code.` },
     { question: "What should a monthly maintenance report show?", answer: "It should list which software was updated and to which versions, backup and restore status, uptime incidents, security findings and actions, content edits made, any Search Console or speed issues, and decisions you need to make. A few clear lines are more useful than pages of charts." },
     { question: "Does Singapore have official website security guidance for SMEs?", answer: "Singapore's Cyber Security Agency publishes alerts and advisories on vulnerabilities, including ones affecting WordPress, and runs the Cyber Essentials mark as a structured cybersecurity baseline aimed at organisations including SMEs. Website maintenance supports parts of that baseline, but certification covers much more than a website." },
   ],

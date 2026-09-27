@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks, released in stages"],
     ["Monthly licence fee", "None: the code is yours"],
     ["Hardware", "You buy printers and tablets; we configure"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your POS code" },
     { value: "0", label: "Per-outlet licence fees to us" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
   ],
   answer: {
     heading: "Should a restaurant build its own POS software or keep a subscription?",
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The source code sits in a repository you own, the cloud account and database are in your business name, and the domain for the back office is registered to you. Guest phone numbers and order history are your customer list, not a vendor’s.`,
         `That matters more in restaurants than people expect. Your order history is the base for loyalty offers, menu engineering and forecasting. When it lives in your own PostgreSQL database, you can query it, move it to another developer, or connect it to a loyalty app later without asking anyone’s permission.`,
-        `At handover you receive repository access, admin logins, a hardware and printer settings sheet, a short staff manual in English and Hindi, and a list of every paid cloud service with its renewal date. The first five months of maintenance are free; after that care is optional, from ${P.care}. If you would rather have another team maintain it, the code and documentation let them take over.`,
+        `At handover you receive repository access, admin logins, a hardware and printer settings sheet, a short staff manual in English and Hindi, and a list of every paid cloud service with its renewal date. The first two months of maintenance are free; after that care is optional, from ${P.care}. If you would rather have another team maintain it, the code and documentation let them take over.`,
         `One more point on data: guests should know why you collect their number. We can add a short line on the bill or feedback page explaining that the number is used for e-bills and for offers the guest agrees to, plus an opt-out. What that notice must say under India’s data protection law and WhatsApp’s messaging policy is for your own lawyer to confirm; the software simply records each guest’s consent.`,
       ],
     },
@@ -315,7 +315,7 @@ const content: FreelanceContent = {
         ["Recipe stock and purchases", "Quoted per project", "3–4 weeks extra", "Needs recipes from your chef"],
         ["Multi-outlet and central kitchen", "Quoted per project", "4–6 weeks extra", "Offline-first sync per outlet"],
         ["AI demand forecast and reorder hints", `From ${P.ai}`, "2–4 weeks", "Needs a few months of sales data"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Monthly", "Updates, fixes, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Monthly", "Updates, fixes, small changes"],
       ],
       hideSm: [3],
     },
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Send menu, recipes and hardware list", "We share spreadsheet templates for items, modifiers, taxes and recipes. You confirm printers and tablets, or we suggest standard models to buy locally."],
       ["Test on a staging POS", "You and your manager place fake orders on a test system from your own phones, print sample KOTs on a spare printer, try a split bill and approve the final bill format."],
       ["Pilot in one outlet", "We go live in a quiet weekday shift, with the old system on standby, and stay on WhatsApp and video while your team takes the first real orders and closes the first day."],
-      ["Roll out and keep improving", "Other outlets and modules follow once the first outlet runs cleanly. Five months of maintenance are free; after that, care continues from " + P.care + " only if you want it."],
+      ["Roll out and keep improving", "Other outlets and modules follow once the first outlet runs cleanly. Two months of maintenance are free; after that, care continues from " + P.care + " only if you want it."],
     ],
   },
   faqHeading: "Restaurant POS software: questions owners ask",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Can one POS manage multiple restaurant outlets?", answer: "Yes. A multi-outlet build keeps a local database at each outlet so billing never stops, and syncs to a central cloud database. You change menus and prices once, see outlet-wise sales and voids on your phone, and handle central kitchen indents and transfers. Franchise royalty reports can come from the same data." },
     { question: "What hardware do I need for restaurant POS software?", answer: "Usually a billing terminal (touchscreen PC, laptop or Android tablet), a thermal bill printer, one KOT printer per kitchen station, a cash drawer, a router and Android phones for captains. You buy standard hardware locally; we specify models, configure the software and guide your staff on a video call. We do not supply or repair hardware." },
     { question: "Who owns the POS software and the data?", answer: "You do. The source code sits in a repository in your name, the cloud account and database belong to your business, and guest data is your customer list. You receive admin access, documentation and settings at handover, so you can switch developers later without losing anything or paying a release fee." },
-    { question: "Are there monthly fees for a custom POS?", answer: `There is no licence fee to us. You pay your cloud hosting bill directly to the provider, and any SMS, WhatsApp or payment charges to those services. Maintenance is free for five months after launch; after that it is optional, from ${P.care}, and covers updates, fixes and small changes you request.` },
+    { question: "Are there monthly fees for a custom POS?", answer: `There is no licence fee to us. You pay your cloud hosting bill directly to the provider, and any SMS, WhatsApp or payment charges to those services. Maintenance is free for two months after launch; after that it is optional, from ${P.care}, and covers updates, fixes and small changes you request.` },
     { question: "Can you move my data from my current POS?", answer: "Usually, yes, if your current vendor lets you export menus, customers and sales history to Excel or CSV. We clean and import that data so reports continue from where you left off. Keep the old system in read-only mode for a month after switching so you can check anything that looks different." },
     { question: "Can the POS send bills and offers on WhatsApp?", answer: "Yes. With the WhatsApp Business Platform connected, the POS can send e-bills, order-ready alerts and feedback links to guests who share their number. Promotional messages need the guest’s opt-in and follow WhatsApp’s template rules, and WhatsApp charges for business messages under its current pricing, billed to your own Meta account rather than through us." },
     { question: "Is restaurant POS software secure against staff fraud?", answer: "Software cannot stop every trick, but it closes the common ones. Voids, discounts, complimentary items and reprints need a reason and a manager PIN, every action is logged with the user’s name, and day close compares expected and actual cash and UPI. The owner gets exception reports rather than digging through bills." },
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Outgrown your restaurant POS? Tell us how your kitchen runs",
-    note: `Message us on WhatsApp with your outlet count, kitchen stations and what the current POS cannot do. You will get a module-wise quote in about two working days, with custom POS builds starting at ${P.software}, code and data in your name, and five months of free maintenance after go-live.`,
+    note: `Message us on WhatsApp with your outlet count, kitchen stations and what the current POS cannot do. You will get a module-wise quote in about two working days, with custom POS builds starting at ${P.software}, code and data in your name, and two months of free maintenance after go-live.`,
   },
 };
 

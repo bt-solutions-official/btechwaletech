@@ -31,11 +31,11 @@ const jammu: CityContent = {
     eyebrow: "Jammu · Jammu and Kashmir",
     h1: "Websites, SEO and automation built for Jammu's traders, hotels and factories",
     lede:
-      "We are three engineers working remotely for businesses in Jammu, from dry fruit sellers in Raghunath Bazaar to hotels serving Katra pilgrims and units at Bari Brahmana. You get published prices, direct access to the developers on WhatsApp, a site that stays quick on patchy mobile networks and five months of free upkeep after launch.",
+      "We are three engineers working remotely for businesses in Jammu, from dry fruit sellers in Raghunath Bazaar to hotels serving Katra pilgrims and units at Bari Brahmana. You get published prices, direct access to the developers on WhatsApp, a site that stays quick on patchy mobile networks and two months of free upkeep after launch.",
     pills: ["Sites from ₹10,000", "Pilgrim and hotel bookings", "Dry fruit stores with UPI", "Dogri and Hindi search", "Bari Brahmana B2B sites"],
   },
   quickAnswer:
-    "A business website for a Jammu company costs from ₹10,000 with us and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote three-person team with no Jammu office, so you pay for engineering, not rent, and maintenance is free for five months after launch.",
+    "A business website for a Jammu company costs from ₹10,000 with us and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote three-person team with no Jammu office, so you pay for engineering, not rent, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Old city trade", value: "Raghunath Bazaar, Residency Road and the lanes around the Raghunath Temple" },
     { label: "Newer retail", value: "Gole Market in Gandhi Nagar and Bahu Plaza in Trikuta Nagar" },
@@ -52,7 +52,7 @@ const jammu: CityContent = {
     ai: "WhatsApp replies for room availability, yatra-season questions and price lists, answered in Hindi or English and handed to a person when a query gets unusual.",
     data: "Seasonal sales and occupancy reports that show how pilgrim months, winter and the summer holiday rush actually affect your numbers.",
     app: "Android and iOS apps for taxi operators, tour desks and delivery services, listed on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, including seasonal price and package changes.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then from ₹8,000 a month, including seasonal price and package changes.",
   },
   whyUsIntro:
     "Jammu businesses are often quoted high prices by Delhi or Chandigarh agencies, or given a quick template by someone who disappears. We sit in between: fixed starting prices on our website, the same three engineers from quote to launch, and replies on WhatsApp every day of the week, including the Sunday when you finally have time to check the site.",
@@ -168,7 +168,7 @@ const jammu: CityContent = {
       paragraphs: [
         "A surprising number of Jammu businesses do not control their own websites. The domain sits in an old developer's account, the hosting renewal goes to an email nobody checks, and one day the site simply stops loading. Getting it back can take weeks of chasing, and sometimes the only option is to start again under a new name.",
         "We avoid this by setting everything up in your name from the start. The domain is registered to you, the hosting account is yours, and at launch you receive every login plus a short note explaining where each part lives. The source code is yours too, so you can move to another developer at any time without paying an exit fee or asking permission.",
-        "After launch, five months of maintenance are included at no cost: content edits, price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, <a href=\"/services/web-development/\">ongoing support</a> continues from ₹8,000 a month, or you can simply message us when you need something changed.",
+        "After launch, two months of maintenance are included at no cost: content edits, price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, <a href=\"/services/web-development/\">ongoing support</a> continues from ₹8,000 a month, or you can simply message us when you need something changed.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const jammu: CityContent = {
     {
       question: "What happens after the site goes live?",
       answer:
-        "The first five months of maintenance are free: content and price updates, bug fixes, security patches, backups and uptime and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change. There is no long contract.",
+        "The first two months of maintenance are free: content and price updates, bug fixes, security patches, backups and uptime and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change. There is no long contract.",
     },
     {
       question: "Do you also work in Kathua, Samba, Udhampur and Katra?",

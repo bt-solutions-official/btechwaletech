@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Payment methods", "mada, Visa, Mastercard, Apple Pay, STC Pay"],
     ["Platforms", "Custom web, WooCommerce, Flutter, React Native"],
     ["Merchant account", "Opened and owned by your business"],
-    ["After launch", `5 months free maintenance, then from ${P.care}`],
+    ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build, test and ship your checkout" },
     { value: "2", label: "Working days to an itemised payment integration quote" },
     { value: "0", label: "Card numbers stored on your servers in our standard design" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "How does payment gateway integration work in Saudi Arabia, and what does it cost?",
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What payment gateway integration costs with us",
-    note: `Payment work is priced inside the project it belongs to. A new store with mada, Apple Pay and card checkout starts from ${P.shop}. Adding a gateway to an existing custom site, booking system or web app is quoted as custom software, from ${P.software}, and the figure moves with the number of payment methods, whether you need saved cards or subscriptions, how many platforms share the checkout (web, Android, iOS), and how much reconciliation reporting you want. Mobile apps with in-app payments start from ${P.app}. The gateway's own transaction fees are separate and paid to the gateway. After five free months, care starts from ${P.care}.`,
+    note: `Payment work is priced inside the project it belongs to. A new store with mada, Apple Pay and card checkout starts from ${P.shop}. Adding a gateway to an existing custom site, booking system or web app is quoted as custom software, from ${P.software}, and the figure moves with the number of payment methods, whether you need saved cards or subscriptions, how many platforms share the checkout (web, Android, iOS), and how much reconciliation reporting you want. Mobile apps with in-app payments start from ${P.app}. The gateway's own transaction fees are separate and paid to the gateway. After two free months, care starts from ${P.care}.`,
   },
   guideLabel: "Saudi payment gateway integration guide",
   guide: [
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Itemised quote in USD", "About two working days later you receive a quote split by methods, platforms and reports. Nothing is billed before your written approval."],
       ["Build in the sandbox", "Payments service, webhook listener, refunds and checkout screens are built against sandbox keys, with a demo you can test on your own phone."],
       ["Test every path", "Success, decline, abandonment, duplicate webhook and refund cases are run for each method, then one live payment per method is made and refunded."],
-      ["Go live and watch", "Live keys are switched on, the first days of payments are monitored and reconciled daily, and five months of free maintenance begin."],
+      ["Go live and watch", "Live keys are switched on, the first days of payments are monitored and reconciled daily, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Payment gateway integration in Saudi Arabia: common questions",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Is a payment receipt the same as a ZATCA tax invoice?", answer: "No. The gateway's receipt confirms a payment; a tax invoice is a separate document your business issues under ZATCA's rules, and in Phase 2 it has to be generated and sent to ZATCA in a structured format. Your checkout can trigger both at once, but they are built and checked separately. Your accountant confirms the invoicing requirements." },
     { question: "Can a remote team in India handle payment integration for a Saudi business?", answer: "Yes. The work is code against the gateway's documentation, sandbox and webhooks, so location does not limit it. India is 2.5 hours ahead of Saudi Arabia, which gives a large overlap across your Sunday–Thursday week. You keep the merchant account and live keys, sharing sandbox keys first and live keys only at go-live." },
     { question: "How do we pay you and who owns the code?", answer: "You receive an itemised quote in US dollars, approve milestones in writing, and pay by Wise, bank wire or PayPal against invoices issued from India. The repository, hosting, merchant account and Apple developer account are all in your business's name, so the payment code is yours and any developer can maintain it later." },
-    { question: "What maintenance does a payment integration need?", answer: `Gateways update their APIs and SDKs, Apple and Google change mobile requirements, and certificates and keys expire. After launch you get five months of free maintenance, then care starts from ${P.care}. It covers SDK updates, monitoring failed webhooks and fixing anything that stops payments from matching orders.` },
+    { question: "What maintenance does a payment integration need?", answer: `Gateways update their APIs and SDKs, Apple and Google change mobile requirements, and certificates and keys expire. After launch you get two months of free maintenance, then care starts from ${P.care}. It covers SDK updates, monitoring failed webhooks and fixing anything that stops payments from matching orders.` },
   ],
   related: {
     heading: "More Saudi Arabia services and guides",

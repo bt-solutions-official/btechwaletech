@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Custom tenant portal", `From ${P.software}`],
     ["Typical build time", "1–2 weeks core, 3–5 weeks with area pages"],
     ["Tenant data", "Minimal fields, consent text, retention settings"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one WhatsApp thread" },
     { value: "2", label: "Working days to your itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-door or per-lead fees from us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Price", value: `From ${P.site}; city-page builds from ${P.seoSite}` },
       { label: "Privacy", value: "Short forms, consent for checks, SIN never required, retention settings" },
       { label: "Payment from Canada", value: "USD quote; Wise, wire or PayPal from a CAD account" },
-      { label: "Upkeep", value: `5 months free, then care from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then care from ${P.care}` },
     ],
   },
   services: {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
         "Custom tenant or owner portals",
       ],
       after: [
-        `Running costs are yours: hosting, your property management software, and any screening service. After five free months of maintenance, care starts at ${P.care}; many managers only need it for feed checks and small edits. The <a href='/canada/website-design-cost/'>website design cost guide for Canada</a> breaks down pricing across other business types.`,
+        `Running costs are yours: hosting, your property management software, and any screening service. After two free months of maintenance, care starts at ${P.care}; many managers only need it for feed checks and small edits. The <a href='/canada/website-design-cost/'>website design cost guide for Canada</a> breaks down pricing across other business types.`,
       ],
     },
     {
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A core site takes one to two weeks once content is ready; a multi-city build with building pages takes three to five weeks. Custom portals add six to twelve weeks and are usually a separate phase.`,
         `The usual holdups are content, not code: owner FAQs, fee explanations, photos and access to your software's listing feed. We send a content checklist on day one and start with pages that need the least from you. The listing feed request goes to your software provider in week one because approval can take time.`,
-        `Launch follows a short checklist: test applications end to end, confirm maintenance requests reach the right person, check every listing links correctly, submit the sitemap to Google Search Console and set redirects from any old pages. Five months of free maintenance start at launch.`,
+        `Launch follows a short checklist: test applications end to end, confirm maintenance requests reach the right person, check every listing links correctly, submit the sitemap to Google Search Console and set redirects from any old pages. Two months of free maintenance start at launch.`,
       ],
     },
     {
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
         ["Leasing assistant", "Busy leasing team", "Answers listing questions, books showings", `${P.ai}`],
         ["Custom portal", "Condo or mixed portfolios", "Owner reports, documents, request board", `${P.software}`],
         ["Monthly SEO", "Growing managers", "New area pages, Search Console work", `${P.seo}`],
-        ["Care plan", "After 5 free months", "Feed checks, updates, fixes", `${P.care}`],
+        ["Care plan", "After 2 free months", "Feed checks, updates, fixes", `${P.care}`],
       ],
     },
   ],
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
       ["Feed and form setup", "You request listing feed access from your software provider; we draft application and maintenance forms with purpose statements and consent wording."],
       ["Pages on preview", "City, property-type and building pages appear on a private link. You check local accuracy and fee wording before anything goes public."],
       ["End-to-end tests", "Test applications, maintenance requests and owner enquiries run through to your inboxes and software, with retention settings confirmed."],
-      ["Launch", "The site goes live, the sitemap goes to Search Console and you receive every login. Five months of free maintenance begin."],
+      ["Launch", "The site goes live, the sitemap goes to Search Console and you receive every login. Two months of free maintenance begin."],
     ],
   },
   faqHeading: "Property management website design in Canada: common questions",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Can you add a chatbot for leasing questions?", answer: `Yes, from ${P.ai}. It answers questions about listed units, such as parking, pets and move-in dates, using your own listing data, and books showings. It does not discuss approval decisions, screening results or legal questions, and it passes anything unusual to your leasing team.` },
     { question: "Do you build websites for condo management companies?", answer: "Yes. Condo management sites speak to boards choosing a manager and to unit owners needing documents. Typical features are governance and service pages, a proposal request, and a secure document area per corporation. Larger document and request systems are quoted as custom software." },
     { question: "Can you migrate my old site without losing search traffic?", answer: "Usually. We list every old URL with traffic, map each to its new page, set redirects, and carry over useful content. Old vacancy pages are redirected to the relevant building or city page rather than left broken. Search Console then shows whether the move settled." },
-    { question: "What maintenance does the site need after launch?", answer: `Listing feed checks, form tests, software updates, new city pages and privacy page edits. The first five months after launch are free. Afterwards, care starts at ${P.care}, or you can use the handover notes to maintain it yourself or with another developer.` },
+    { question: "What maintenance does the site need after launch?", answer: `Listing feed checks, form tests, software updates, new city pages and privacy page edits. The first two months after launch are free. Afterwards, care starts at ${P.care}, or you can use the handover notes to maintain it yourself or with another developer.` },
     { question: "Do you take photos or visit our properties?", answer: "No. We work fully remotely and do not visit properties. You, your leasing staff or a local photographer supply photos and video walkthroughs, and we optimise them for fast loading. We can advise on which shots tend to help renters decide." },
     { question: "Can maintenance requests go straight into our software?", answer: "Where your software accepts requests through an API or email-to-ticket address, yes. Otherwise requests go to a shared inbox or ticketing tool with the unit, category, photos and entry permission. Tenants receive an acknowledgement with a reference number either way." },
   ],

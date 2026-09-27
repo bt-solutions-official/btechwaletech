@@ -56,7 +56,7 @@ const suri: CityContent = {
     ai: "Bengali WhatsApp assistants that answer price, stock and appointment questions and pass real decisions to you.",
     data: "Dashboards of paddy bought, rice dispatched, orders by city and payments outstanding.",
     app: "Android and iOS apps for Suri schools, coaching centres, clinics or repeat sweet customers, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Maintenance is free for five months after launch, then starts at ₹8,000 a month for updates, backups and security.",
+    maintenance: "Maintenance is free for two months after launch, then starts at ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "Suri is a town of lawyers, officials, teachers and old family businesses, and people here read the fine print. We publish our starting prices, send every quote itemised in writing, answer WhatsApp all seven days, and register the domain, hosting, code and store accounts to you. If something is not worth your money, we will tell you plainly.",
@@ -171,7 +171,7 @@ const suri: CityContent = {
       heading: "Ownership and maintenance for Suri websites and apps",
       paragraphs: [
         "Many small businesses have lost a website because the builder registered the domain in his own name and then disappeared. We register your domain, hosting, source code, Google Business Profile and Play Store and App Store accounts to you and hand over every login in writing.",
-        "Maintenance is free for five months after launch. That covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another provider whenever you like.",
+        "Maintenance is free for two months after launch. That covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another provider whenever you like.",
         "Apps need yearly attention because Google and Apple keep updating their requirements. We follow those changes and update your app in time, so it stays listed.",
       ],
     },
@@ -268,7 +268,7 @@ const suri: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any time.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any time.",
     },
     {
       question: "Do you work in Bolpur, Sainthia and Rampurhat too?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Store accounts", "Yours: Play Console and Apple"],
     ["Code", "In a repository you control"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can read your codebase" },
     { value: "2", label: "App stores from one codebase" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform fees on top of our quote" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Core stack", value: "TypeScript, React Native, Expo, Node.js API" },
       { label: "Testing", value: "Real Android and iPhone devices, TestFlight" },
       { label: "Payments", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       heading: "After launch: upgrades, OS changes and maintenance",
       paragraphs: [
         `Whoever you hire as your React Native developer, remember that an app is never finished. Apple and Google release new OS versions every year, the stores raise their minimum target SDK requirements, and React Native itself ships regular releases. An app left alone for eighteen months often needs a painful catch-up.`,
-        `We include five months of free maintenance after release: bug fixes, small changes, dependency updates and store compliance tasks. After that, maintenance is optional and starts at ${P.care}. It covers keeping libraries current, responding to store policy emails, watching crash reports and shipping small improvements. If you would rather hand the app to an in-house developer later, the code, documentation and accounts are already yours.`,
+        `We include two months of free maintenance after release: bug fixes, small changes, dependency updates and store compliance tasks. After that, maintenance is optional and starts at ${P.care}. It covers keeping libraries current, responding to store policy emails, watching crash reports and shipping small improvements. If you would rather hand the app to an in-house developer later, the code, documentation and accounts are already yours.`,
       ],
     },
     {
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show how a hire might run, not a client story.`,
         `A group of three physiotherapy clinics wants patients to book slots, pay online and get reminders. The owner interviews two freelancers and our team using the questions above, and pays each shortlisted candidate for the same small test task. Our proposal would start from the app plan at ${P.app}, listing patient screens (login with OTP, clinic and therapist choice, slot booking, UPI payment, history), a simple admin panel for reception, and push plus WhatsApp reminders.`,
-        `Weeks one and two cover designs and the booking data model; weeks three to seven the app, backend and admin; week eight device testing, Play closed testing with the clinic’s staff and TestFlight; then store release in the clinic’s own accounts. Five months of free maintenance follow, which is when real patients reveal what to improve.`,
+        `Weeks one and two cover designs and the booking data model; weeks three to seven the app, backend and admin; week eight device testing, Play closed testing with the clinic’s staff and TestFlight; then store release in the clinic’s own accounts. Two months of free maintenance follow, which is when real patients reveal what to improve.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       heading: "React Native developer hire karna hai? Kya dekhein",
       paragraphs: [
         `Sabse pehle developer se Play Store aur App Store ke live app links maangiye aur unhe apne phone par chala kar dekhiye. Phir ek chhota paid test task dijiye, jaise ek list screen jo offline bhi chale.`,
-        `Play Console aur Apple developer account hamesha apne business ke naam par banaiye, developer ko sirf user ke roop mein add kijiye. Code aapki repository mein rehna chahiye. Hamare saath Android aur iOS app ${P.app} se shuru hota hai aur aam taur par 6–10 hafte lagte hain. Release ke baad 5 mahine maintenance free hai.`,
+        `Play Console aur Apple developer account hamesha apne business ke naam par banaiye, developer ko sirf user ke roop mein add kijiye. Code aapki repository mein rehna chahiye. Hamare saath Android aur iOS app ${P.app} se shuru hota hai aur aam taur par 6–10 hafte lagte hain. Release ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
         ["AI features in the app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Assistants, document reading, smart search"],
         ["Marketing website for the app", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Landing page, privacy policy, store links"],
         ["Store with web and app checkout", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, UPI and card payments"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Upgrades, store compliance, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Upgrades, store compliance, fixes"],
       ],
       hideSm: [2],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Create your store accounts", "You register Play Console and Apple Developer accounts in your business name and add us as users. Code goes into your repository."],
       ["Test builds every few days", "Install fresh builds through TestFlight and a Play testing track, try them on your own phone and send feedback directly on WhatsApp."],
       ["Store submission and release", "We prepare listings, screenshots, privacy forms and data safety answers, handle review feedback and release in your accounts."],
-      ["Five months of free maintenance", "Fixes, small changes and dependency updates are free for five months. After that, maintenance continues from " + P.care + " only if you want it."],
+      ["Two months of free maintenance", "Fixes, small changes and dependency updates are free for two months. After that, maintenance continues from " + P.care + " only if you want it."],
     ],
   },
   faqHeading: "Hire React Native developer: frequently asked questions",
@@ -388,9 +388,9 @@ const content: FreelanceContent = {
     { question: "Do you also build the backend and admin panel?", answer: `Yes. Most apps need an API, a database and an admin panel for your staff. We build these with Node.js or Python and a database such as PostgreSQL, hosted in your cloud account. Simple backends are included in app quotes; larger systems with complex rules start at ${P.software}.` },
     { question: "Can a React Native app accept UPI payments?", answer: "Yes. React Native apps can offer UPI and card checkout through a payment provider’s mobile SDK, including opening UPI apps directly on Android. Payment confirmation must be verified on your server, not just in the app, and failed or pending payments need clear handling so customers are not charged twice." },
     { question: "How do payments work when I hire your team?", answer: "Payments are staged against visible progress, such as an advance to start and further payments when test builds and the store release are delivered. In India we accept UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. The stages are written into the quote you approve, and nothing is billed before approval." },
-    { question: "What does app maintenance include after launch?", answer: `After release you get five months of free maintenance covering bug fixes, small changes, dependency updates and store compliance tasks. After that it is optional and starts at ${P.care}. Ongoing maintenance matters because Android and iOS change every year and stores raise their technical requirements regularly.` },
+    { question: "What does app maintenance include after launch?", answer: `After release you get two months of free maintenance covering bug fixes, small changes, dependency updates and store compliance tasks. After that it is optional and starts at ${P.care}. Ongoing maintenance matters because Android and iOS change every year and stores raise their technical requirements regularly.` },
     { question: "Can I hire a React Native developer from India if I am abroad?", answer: `Yes. Mobile work is fully remote: builds arrive through TestFlight and Play testing tracks, and reviews happen on video calls during overlapping hours. BtechWaleTech bills international clients in USD, with apps starting at ${P.appUsd}, and accepts payment by Wise, bank wire or PayPal.` },
-    { question: "React Native developer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iOS dono ke liye ek React Native app ${P.app} se shuru hota hai aur aam taur par 6–10 hafte lagte hain. Backend, admin panel aur payment jaise features se kharcha badhta hai. Pehle itemised quote milta hai, store accounts aapke naam par rehte hain, aur release ke baad 5 mahine maintenance free hai.` },
+    { question: "React Native developer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iOS dono ke liye ek React Native app ${P.app} se shuru hota hai aur aam taur par 6–10 hafte lagte hain. Backend, admin panel aur payment jaise features se kharcha badhta hai. Pehle itemised quote milta hai, store accounts aapke naam par rehte hain, aur release ke baad 2 mahine maintenance free hai.` },
     { question: "Should I sign an NDA before sharing my app idea?", answer: "If your idea involves unreleased product details or customer data, asking for a confidentiality agreement is reasonable. Discuss the terms you need before sharing sensitive material, and have them recorded alongside the written quote. You can also share a general description first and reveal specifics once the terms are agreed." },
   ],
   related: {
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a React Native developer?",
-    note: `Send your app idea on WhatsApp. You will receive a feature list and itemised quote in about two working days, with Android and iOS apps starting at ${P.app}, store accounts and code in your name, and five months of free maintenance after release.`,
+    note: `Send your app idea on WhatsApp. You will receive a feature list and itemised quote in about two working days, with Android and iOS apps starting at ${P.app}, store accounts and code in your name, and two months of free maintenance after release.`,
   },
 };
 

@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Build time, information site", "1–2 weeks after content is ready"],
     ["Content review", "The practising member approves every page"],
     ["Written quote", "Itemised in about 2 working days"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who plan, build and look after the site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
     { value: "100", label: "Pages allowed in the static website plan" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Several hundred guide pages", value: `SEO website plan from ${P.seoSite}` },
       { label: "Rules the copy follows", value: "ICSI guidance on publicity, checked by the member" },
       { label: "Document handling", value: "Private storage, expiring links, role-based access" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Search visibility", note: `Technical SEO, internal linking between guides and Google Search Console reporting from ${P.seo}. Nobody can honestly guarantee rankings.`, href: "/services/seo-services/", size: "md" },
       { name: "Document reminders", note: "Automated WhatsApp nudges to opted-in clients when board minutes, KYC or financials are still pending before a filing.", href: "/whatsapp-payment-reminder-automation/", size: "sm" },
       { name: "Document reading with AI", note: `Pulls names, PAN and addresses from uploaded scans into a draft sheet for staff to check, from ${P.ai}.`, href: "/intelligent-document-processing/", size: "sm" },
-      { name: "Upkeep", note: `Calendar edits, form-name changes, backups and security patches: 5 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Upkeep", note: `Calendar edits, form-name changes, backups and security patches: 2 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, completely. The domain is registered in your name or your practice’s name, the hosting account is yours, and the source code sits in a repository you control. We work inside those accounts with access you grant and can revoke.`,
         `That matters more for a CS practice than for most businesses. Your site holds client documents and years of guides; you cannot afford to have it held hostage by a vendor dispute or a builder subscription. At handover you receive admin logins, a short written guide to editing pages and the calendar, and the repository link.`,
-        `After launch, five months of maintenance are included: security updates, small fixes, calendar and form-name edits, and backups checked. After that, maintenance continues from ${P.care} if you want it, or you take it in-house or to another developer. Nothing in the build ties you to us, and terms for any ongoing work are written in your quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
+        `After launch, two months of maintenance are included: security updates, small fixes, calendar and form-name edits, and backups checked. After that, maintenance continues from ${P.care} if you want it, or you take it in-house or to another developer. Nothing in the build ties you to us, and terms for any ongoing work are written in your quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
       ],
     },
     {
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Client compliance portal", "Logins, folders per year, pending list, filings log, audit trail", `${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["Reminder and document automation", "WhatsApp nudges, scan reading into draft sheets", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Monthly SEO", "Technical fixes, guide planning, Search Console reporting", `${P.seo} (${P.seoUsd}) a month`, "Ongoing"],
-        ["Maintenance after free period", "Updates, backups, edits, security patches", `${P.care} (${P.careUsd})`, "After 5 free months"],
+        ["Maintenance after free period", "Updates, backups, edits, security patches", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
       ["Agree pages and the publicity sheet", "We list every page and feature, note why each is informational, and draft service outlines for you to correct against current ICSI guidance and registry practice."],
       ["Design, build and test", "Templates, checklists, calendar and forms are built mobile-first and checked on an inexpensive Android phone over 4G, then shared on a staging link for your comments."],
       ["Member sign-off and launch", "The practising member approves every page. We connect the domain, submit the sitemap in Search Console and confirm each form stores files privately."],
-      ["Five months of care included", "Calendar updates, form-name changes, fixes and security patches are free for five months. After that, maintenance continues on a monthly plan only if you want it."],
+      ["Two months of care included", "Calendar updates, form-name changes, fixes and security patches are free for two months. After that, maintenance continues on a monthly plan only if you want it."],
     ],
   },
   faqHeading: "Company secretary website design: questions CS professionals ask",
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Freelance team or agency for a company secretary website?", answer: "A general agency may bring a larger team and account managers, while a small freelance team gives you direct contact with the people building the site and usually a simpler process. Agency and freelancer quotes vary widely. Whoever you choose, insist on an itemised quote, ownership of the domain and code, private file storage and no promotional templates that clash with ICSI norms." },
     { question: "Can you work with my practice remotely?", answer: "Yes, all our work is remote. We plan on WhatsApp and video calls, share page drafts in a document and give you a staging link to review the site. There are no office visits, and none are needed for a website or portal. We reply on WhatsApp every day, in English or Hindi, during Indian working hours." },
     { question: "Who owns the website and the code?", answer: "Your practice does. The domain and hosting are registered in your name, and the source code sits in a repository you control. At handover you get admin logins, a short editing guide and the repository link. If you later move maintenance elsewhere, nothing in the build ties you to us." },
-    { question: "What happens after the website goes live?", answer: `Five months of maintenance are included after launch: security updates, small fixes, calendar and form-name edits and backup checks. After that you can continue maintenance from ${P.care} a month, handle it in-house or hand it to another developer. Terms for any ongoing work are written into your quote.` },
+    { question: "What happens after the website goes live?", answer: `Two months of maintenance are included after launch: security updates, small fixes, calendar and form-name edits and backup checks. After that you can continue maintenance from ${P.care} a month, handle it in-house or hand it to another developer. Terms for any ongoing work are written into your quote.` },
     { question: "How do I pay for a company secretary website?", answer: "In India, payment is by UPI or bank transfer, against the milestones set out in your approved quote, and you receive proper invoices. International clients pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and our refund policy page explains how cancellations are handled." },
     { question: "Will you sign an NDA for our client data?", answer: "Ask us when you request the quote. Confidentiality terms for your practice are agreed in writing with the quote, and our general terms page covers the default position. In any case, we set up the site so we do not need routine access to client documents once the build and handover are complete." },
     { question: "Can the website be in Hindi as well as English?", answer: "Yes. We build language switching into the site and set it up so search engines understand which page is which language. You supply or approve the Hindi text, because professional wording must be exact. Many practices translate only the most-used checklists and incorporation pages first, then add more pages over time." },

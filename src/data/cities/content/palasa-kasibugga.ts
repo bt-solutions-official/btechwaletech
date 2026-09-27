@@ -56,7 +56,7 @@ const palasaKasibugga: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer grade, price, stock and dispatch questions and pass deals to you.",
     data: "Dashboards of raw nut bought, kernel yield by lot, grades packed and outstanding payments by buyer.",
     app: "Android and iOS apps for wholesale buyers to check grades and re-order, or for units to log daily output, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Cashew traders in Palasa deal in thin margins and know exactly what everything costs. We work the same way: published starting prices, a written itemised quote, WhatsApp replies every day of the week, and domain, hosting, code and store accounts registered in your name. If a feature will not earn back its cost for your business, we tell you plainly.",
@@ -187,7 +187,7 @@ const palasaKasibugga: CityContent = {
       paragraphs: [
         "Because we work online, a project starts with a WhatsApp message or a call about your business. We send a written plan and quote, then share designs and test versions as links you open on your phone. You approve each stage before the next one starts. We reply seven days a week in IST hours.",
         "The domain, hosting, source code and any Google Play or App Store accounts are registered to you from day one. If you later switch developers, every login is already yours. At launch you receive passwords and a short plain-language guide.",
-        "Five months of free maintenance follow launch, covering bug fixes, small content changes, backups and security updates. Maintenance after that starts at ₹8,000 a month, or you can run the site yourself. Contact us through our <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development service</a>.",
+        "Two months of free maintenance follow launch, covering bug fixes, small content changes, backups and security updates. Maintenance after that starts at ₹8,000 a month, or you can run the site yourself. Contact us through our <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const palasaKasibugga: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Every launch includes five months of free maintenance for bug fixes, small text edits, backups and security updates. After that, maintenance starts at ₹8,000 a month. You can also manage the site yourself, since all logins and a short guide are handed over at launch.",
+        "Every launch includes two months of free maintenance for bug fixes, small text edits, backups and security updates. After that, maintenance starts at ₹8,000 a month. You can also manage the site yourself, since all logins and a short guide are handed over at launch.",
     },
     {
       question: "Do you work in Srikakulam, Sompeta and Berhampur too?",

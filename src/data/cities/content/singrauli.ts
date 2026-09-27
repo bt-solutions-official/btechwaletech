@@ -30,11 +30,11 @@ const singrauli: CityContent = {
     eyebrow: "Singrauli · Madhya Pradesh",
     h1: "Websites, Hindi search visibility and automation for Singrauli's mining contractors, PSU vendors, hotels and schools",
     lede:
-      "A remote team of three engineers building websites and practical software for businesses in India's energy capital: transport and earthmoving contractors, suppliers to coal and power companies, hotels hosting visiting engineers, schools serving township families, clinics, and shops in Waidhan, Morwa and Vindhyanagar. Starting prices are public, you talk to the engineers, and maintenance is free for five months.",
+      "A remote team of three engineers building websites and practical software for businesses in India's energy capital: transport and earthmoving contractors, suppliers to coal and power companies, hotels hosting visiting engineers, schools serving township families, clinics, and shops in Waidhan, Morwa and Vindhyanagar. Starting prices are public, you talk to the engineers, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Contractor capability sites", "Fleet and trip trackers", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "In Singrauli, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and custom software such as fleet trackers at ₹60,000. We are a remote team with no Singrauli office; you own the domain and code, and five months of maintenance are free.",
+    "In Singrauli, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and custom software such as fleet trackers at ₹60,000. We are a remote team with no Singrauli office; you own the domain and code, and two months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "India's “energy capital”, with coal mines and thermal power plants producing well over 10,000 MW across the Singrauli coalfield" },
     { label: "Coal", value: "Northern Coalfields Limited, a Coal India subsidiary, is headquartered here and runs large opencast mines such as Jayant, Nigahi, Amlori and Dudhichua" },
@@ -51,10 +51,10 @@ const singrauli: CityContent = {
     ai: "WhatsApp assistants that answer room, fee or availability questions in Hindi and route contract enquiries to the owner directly.",
     data: "Dashboards for trips, tonnage, fuel, invoices and payments so a contractor can see what each vehicle and site is earning.",
     app: "Android and iOS apps for drivers and supervisors to log trips, breakdowns and attendance from site, published on both stores from ₹40,000.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Singrauli businesses earn well, yet many are poorly represented online. The usual choices are a local shop selling template sites or an agency from Varanasi, Jabalpur or Delhi that rarely understands mining-belt work. We publish starting prices, send written itemised quotes, reply on WhatsApp seven days a week, and provide five free months of maintenance after launch.",
+    "Singrauli businesses earn well, yet many are poorly represented online. The usual choices are a local shop selling template sites or an agency from Varanasi, Jabalpur or Delhi that rarely understands mining-belt work. We publish starting prices, send written itemised quotes, reply on WhatsApp seven days a week, and provide two free months of maintenance after launch.",
   pricingIntro:
     "Treat every figure here as a starting point. The final quote depends on pages, languages, features and whether you need software for your operations as well as a public website. It is sent in writing, line by line, within about two working days, and nothing is billed until you approve it.",
   sections: [
@@ -172,11 +172,11 @@ const singrauli: CityContent = {
     },
     {
       id: "ownership-singrauli",
-      heading: "You own everything, and maintenance is free for five months",
+      heading: "You own everything, and maintenance is free for two months",
       paragraphs: [
         "Many Singrauli businesses have had a website built by someone who later changed jobs or towns, leaving the domain in his name and the hosting password with nobody. When the renewal failed, the site vanished. For a contractor whose profile is checked during tenders, that is a real loss.",
         "With us, the domain and hosting are registered in your name, on your payment method, from day one. At launch you get every login, the full source code and a written handover note. Our <a href=\"/services/web-development/\">web development</a> uses common, well-documented tools, so any capable developer can continue the work. Software data stays in your account and can be exported at any time.",
-        "For five months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small content changes free of charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small content changes free of charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
   ],
@@ -253,7 +253,7 @@ const singrauli: CityContent = {
     {
       question: "What does the free maintenance period cover?",
       answer:
-        "For five months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small text or photo changes at no cost. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
+        "For two months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small text or photo changes at no cost. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long does SEO take in Singrauli?",

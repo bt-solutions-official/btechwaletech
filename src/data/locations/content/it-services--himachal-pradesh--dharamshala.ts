@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Dharamshala · Kangra · Himachal Pradesh",
     h1: "Freelance software developers in Dharamshala for guesthouses, retreats and Kangra valley businesses",
     lede:
-      "Searching for a software development team in Dharamshala? BtechWaleTech is a freelance group of three independent engineers, remote from India, building booking engines, retreat management tools, AI enquiry assistants, apps, dashboards and search-ready websites for businesses from McLeod Ganj down to Kangra town. You talk directly to the people writing your code, prices start low and are written down, and the first five months of upkeep after launch cost nothing.",
+      "Searching for a software development team in Dharamshala? BtechWaleTech is a freelance group of three independent engineers, remote from India, building booking engines, retreat management tools, AI enquiry assistants, apps, dashboards and search-ready websites for businesses from McLeod Ganj down to Kangra town. You talk directly to the people writing your code, prices start low and are written down, and the first two months of upkeep after launch cost nothing.",
     pills: ["Booking and retreat software", "AI enquiry assistants", "Web apps from ₹60,000", "Multilingual SEO", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Looking for a software development team in Dharamshala? BtechWaleTech is a freelance group of three engineers working remotely from India. Custom web apps and booking systems start at ₹60,000 (6–12 weeks), AI automation at ₹40,000 (2–4 weeks), Android and iOS apps from ₹40,000 (6–10 weeks), websites at ₹10,000 (1–2 weeks) and online stores at ₹50,000. You get an itemised quote in about two working days and five months of free maintenance.",
+    "Looking for a software development team in Dharamshala? BtechWaleTech is a freelance group of three engineers working remotely from India. Custom web apps and booking systems start at ₹60,000 (6–12 weeks), AI automation at ₹40,000 (2–4 weeks), Android and iOS apps from ₹40,000 (6–10 weeks), websites at ₹10,000 (1–2 weeks) and online stores at ₹50,000. You get an itemised quote in about two working days and two months of free maintenance.",
   snapshot: [
     { label: "District and status", value: "Headquarters of Kangra district and the winter seat of the Himachal Pradesh Vidhan Sabha at Tapovan, Sidhbari" },
     { label: "Upper town", value: "McLeod Ganj, home of the Central Tibetan Administration, Tsuglagkhang complex and a large Tibetan community" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that answer the same fifty questions visitors ask about taxis from Gaggal, Triund permits, room heaters and course dates, day or night.",
     data: "Occupancy, revenue and enquiry dashboards that show which months, rooms and channels actually pay, so the off-season can be planned with numbers.",
     app: "Android and iOS apps from ₹40,000 for Dharamshala guesthouses, trek operators and cafés, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Backups, security patches, content updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Backups, security patches, content updates and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Most software work for Dharamshala businesses is either a template website from a friend in Chandigarh or an expensive hotel system built for chains. We sit between the two: three engineers who build the tool your guesthouse, retreat or shop actually needs, price it openly and keep it running.",
@@ -75,7 +75,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team serving Dharamshala mostly builds tools that help small hospitality, wellness and retail businesses handle bookings, enquiries and payments without a large office team. The town has very few large employers outside government, education and the Tibetan administration. Most businesses are family guesthouses, cafés, trekking outfits, meditation and yoga centres, handicraft shops and small clinics, and each runs with a handful of people who also do the cooking, the cleaning and the accounts.",
         "That shapes what software is useful here. A 12-room guesthouse in Bhagsu does not need an enterprise property management system with forty modules. It needs a calendar that cannot double-book, a way to take a deposit by UPI, automatic confirmation messages, and a single view of what online travel agencies, walk-ins and repeat guests have booked. A retreat in Dharamkot needs course registration, dietary notes and a waiting list. A carpet workshop needs a catalogue that overseas buyers can browse and a way to quote shipping.",
-        "We are BtechWaleTech, a freelance group of three engineers working remotely from India. We have no office in Kangra district, and we say so upfront. What we offer instead is direct contact with the people designing and coding your system, starting prices that are published on our <a href='/pricing/'>pricing page</a>, and five months of maintenance after launch at no charge. The rest of this page walks through the kinds of software, automation and web work that fit Dharamshala, what each costs to start, and how long it takes.",
+        "We are BtechWaleTech, a freelance group of three engineers working remotely from India. We have no office in Kangra district, and we say so upfront. What we offer instead is direct contact with the people designing and coding your system, starting prices that are published on our <a href='/pricing/'>pricing page</a>, and two months of maintenance after launch at no charge. The rest of this page walks through the kinds of software, automation and web work that fit Dharamshala, what each costs to start, and how long it takes.",
       ],
     },
     {
@@ -192,9 +192,9 @@ const content: CityContent = {
       id: "it-support-maintenance",
       heading: "IT support and software maintenance after launch",
       paragraphs: [
-        "Software maintenance means keeping your website, booking system or app secure, backed up, fast and up to date after launch, and fixing problems when they appear. Every project we deliver includes five months of maintenance at no extra cost once hosting is live, covering content changes, bug fixes, dependency and security updates, backups and uptime checks.",
+        "Software maintenance means keeping your website, booking system or app secure, backed up, fast and up to date after launch, and fixing problems when they appear. Every project we deliver includes two months of maintenance at no extra cost once hosting is live, covering content changes, bug fixes, dependency and security updates, backups and uptime checks.",
         "Hill businesses tend to change things at the start of each season: new rates, new menus, new course dates, new photos after a renovation. During the free period you send those changes on WhatsApp, and we make them. We also watch for the less visible problems, such as an expired SSL certificate, a broken payment callback or a spam flood on your contact form, and fix them before they cost you bookings.",
-        "After five months you can continue on a maintenance plan starting from ₹8,000 a month or simply contact us when you need something. We reply seven days a week on WhatsApp. Because we work remotely, we cannot come and fix your office printer or router, and we would not pretend otherwise; our support covers the software and hosting we build and run for you.",
+        "After two months you can continue on a maintenance plan starting from ₹8,000 a month or simply contact us when you need something. We reply seven days a week on WhatsApp. Because we work remotely, we cannot come and fix your office printer or router, and we would not pretend otherwise; our support covers the software and hosting we build and run for you.",
       ],
     },
     {
@@ -229,7 +229,7 @@ const content: CityContent = {
       paragraphs: [
         "A simple website takes one to two weeks, an online store four to eight weeks, and a custom booking or management system six to twelve weeks from the day the scope is agreed. The biggest variable is how quickly content, photos and decisions arrive from your side.",
         "Timing matters more in the hills than in most places. If you want a new booking engine live before the spring rush, the best time to start is during the quiet winter months or the monsoon lull, when you have time to review screens and test with real bookings. Launching a new system in the middle of peak season, with every room full and staff stretched, is possible but stressful, and we will advise against it.",
-        "Our process is straightforward: a call or WhatsApp conversation to understand the business, a written scope and quote, design screens for approval, development with a test link you can try, a launch with your data moved across, and then the five-month maintenance period. You can read how we compare with other ways of buying software on the <a href='/it-services/himachal-pradesh/'>Himachal Pradesh IT services page</a>, which also links to our work for <a href='/it-services/himachal-pradesh/mandi/'>Mandi</a> and <a href='/it-services/himachal-pradesh/baddi/'>Baddi</a>.",
+        "Our process is straightforward: a call or WhatsApp conversation to understand the business, a written scope and quote, design screens for approval, development with a test link you can try, a launch with your data moved across, and then the two-month maintenance period. You can read how we compare with other ways of buying software on the <a href='/it-services/himachal-pradesh/'>Himachal Pradesh IT services page</a>, which also links to our work for <a href='/it-services/himachal-pradesh/mandi/'>Mandi</a> and <a href='/it-services/himachal-pradesh/baddi/'>Baddi</a>.",
       ],
     },
   ],
@@ -283,9 +283,9 @@ const content: CityContent = {
         "You do. The domain, hosting account and code repository are registered in your name or transferred to you at handover, and your guest and booking data stays in your own database. We do not keep anything locked behind our accounts. If you later move to another developer, you can hand them full access without asking our permission or paying a release fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Once your project is live on hosting, the next five months of maintenance cost nothing. That covers content and rate updates, bug fixes, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks. After that, maintenance plans start from ₹8,000 a month, or you can simply message us when you need a change and pay for that work.",
+        "Once your project is live on hosting, the next two months of maintenance cost nothing. That covers content and rate updates, bug fixes, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks. After that, maintenance plans start from ₹8,000 a month, or you can simply message us when you need a change and pay for that work.",
     },
     {
       question: "Can an AI assistant really answer guest questions for our property?",

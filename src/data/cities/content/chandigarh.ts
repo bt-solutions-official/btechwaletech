@@ -32,11 +32,11 @@ const chandigarh: CityContent = {
     eyebrow: "Chandigarh · Tricity",
     h1: "Web development, SEO and AI automation across Chandigarh, Mohali and Panchkula",
     lede:
-      "A remote team of three engineers building websites and automations for tricity clinics, coaching institutes, immigration consultancies, builders and Industrial Area manufacturers. You see our prices before you call, you work directly with the developers, and there is no maintenance bill for the first five months after launch.",
+      "A remote team of three engineers building websites and automations for tricity clinics, coaching institutes, immigration consultancies, builders and Industrial Area manufacturers. You see our prices before you call, you work directly with the developers, and there is no maintenance bill for the first two months after launch.",
     pills: ["From ₹10,000", "Sector-level local SEO", "UPI and card stores", "Lead handling for consultancies", "Custom portals and dashboards"],
   },
   quickAnswer:
-    "Our websites for Chandigarh businesses start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom apps from ₹60,000. We are a remote team of three engineers, not a Sector 17 agency, and five months of maintenance after launch is included free.",
+    "Our websites for Chandigarh businesses start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom apps from ₹60,000. We are a remote team of three engineers, not a Sector 17 agency, and two months of maintenance after launch is included free.",
   snapshot: [
     { label: "Commercial sectors", value: "Sector 17 plaza, Sector 22, Sector 35 and the Sector 34 institutional area" },
     { label: "IT hub", value: "Rajiv Gandhi Chandigarh Technology Park, about 250 acres near Sukhna Lake, with SEZ status since 2006; Mohali's IT City nearby" },
@@ -53,10 +53,10 @@ const chandigarh: CityContent = {
     ai: "AI assistants and WhatsApp workflows that qualify leads for consultancies, book appointments for clinics and send reminders for institutes.",
     data: "Lead source, conversion and revenue dashboards for businesses spending on ads and wanting to know which ones actually pay back.",
     app: "Android and iOS apps for bookings, memberships and customer accounts at gyms, salons and studios, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Content updates, backups, security patches and uptime checks free for five months, then from ₹8,000 a month.",
+    maintenance: "Content updates, backups, security patches and uptime checks free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "The tricity is crowded with digital agencies, many of them in Mohali and along the sectors near the IT Park. Few publish what they charge, and some hand you off to a junior once the contract is signed. We put our prices online, answer WhatsApp every day, and maintain your site at no cost for five months after it launches.",
+    "The tricity is crowded with digital agencies, many of them in Mohali and along the sectors near the IT Park. Few publish what they charge, and some hand you off to a junior once the contract is signed. We put our prices online, answer WhatsApp every day, and maintain your site at no cost for two months after it launches.",
   pricingIntro:
     "Website quotes in Chandigarh range so widely that comparing them is almost pointless without knowing what each includes. These are our real starting prices, published so you can plan. The final quote depends on page count, features and ready content, and it arrives itemised before we begin.",
   sections: [
@@ -178,7 +178,7 @@ const chandigarh: CityContent = {
       paragraphs: [
         "A common story in the tricity: an agency built the site years ago, kept the domain and hosting under its own account, then raised renewal charges or stopped responding. The business ends up paying to get its own website back or starting again from nothing.",
         "With us, the domain and hosting are in your name from day one. You get every login, the source code and a short handover document. You can move the site to anyone at any time, with no exit fee and no lock-in.",
-        "The first five months after launch include free maintenance: content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
+        "The first two months after launch include free maintenance: content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const chandigarh: CityContent = {
     {
       question: "What does free maintenance include, and what happens after?",
       answer:
-        "For five months after launch we cover content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can reach out only when something needs changing.",
+        "For two months after launch we cover content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can reach out only when something needs changing.",
     },
     {
       question: "How long does SEO take in the tricity?",

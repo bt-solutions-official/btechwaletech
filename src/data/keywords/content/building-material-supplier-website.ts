@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Contractor portal with credit", `From ${P.software}`],
     ["Contractor ordering app", `From ${P.app}`],
     ["Itemised quote", "About 2 working days"],
-    ["Free maintenance", "First 5 months after launch"],
+    ["Free maintenance", "First 2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your dealer site" },
     { value: "1", label: "Admin screen to change all of today’s rates" },
-    { value: "5", label: "Months of maintenance at no charge" },
+    { value: "2", label: "Months of maintenance at no charge" },
     { value: "2", label: "Working days for a written quote" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Ordering with UPI and card", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Contractor accounts and credit", value: `From ${P.software}, 6–12 weeks` },
       { label: "Price updates", value: "One screen, a few minutes each morning" },
-      { label: "After launch", value: `5 months free care, then from ${P.care}` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Delivery zone map", note: "Localities and pin codes you cover, minimum order per zone and typical delivery time, so buyers outside your range do not waste your staff’s time.", size: "md" },
       { name: "Rate alerts on WhatsApp", note: "Opted-in contractors receive the morning rate list automatically from your business number.", href: "/whatsapp-business-api-integration/", size: "sm" },
       { name: "Stock and billing link", note: "Connect stock and invoices with your billing or inventory software so the site shows what is really in the yard.", href: "/inventory-management-software-developer/", size: "sm" },
-      { name: "Maintenance", note: `Updates, backups and new brands added: 5 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Updates, backups and new brands added: 2 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the domain, the hosting, the code and every enquiry and customer record. We build inside accounts registered to your business and hand over admin access, the code repository and a written guide for staff.`,
         `The most important handover item is the rate-update routine. Before launch we train whoever will update rates, usually on a video call, and make sure they can do it on a phone in a couple of minutes. A rate board that goes stale is worse than none.`,
-        `Five months of maintenance are included after launch. After that, maintenance continues from ${P.care} if you want it; otherwise your staff or another developer can take over. Terms for ongoing work are written into your quote, with our general <a href='/terms/'>terms</a> covering the rest.`,
+        `Two months of maintenance are included after launch. After that, maintenance continues from ${P.care} if you want it; otherwise your staff or another developer can take over. Terms for ongoing work are written into your quote, with our general <a href='/terms/'>terms</a> covering the rest.`,
       ],
     },
     {
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
       ["Agree rate board and forms", "We fix units, columns, tax notes, zones and bulk form fields with you, and decide which rates are public and which are for logged-in contractors."],
       ["Build and phone test", "Pages, admin screens and forms are built, then tested on a low-cost Android phone over mobile data, the way a site engineer will use them."],
       ["Staff trial and launch", "Your team updates rates for a few days on the live admin. We connect the domain, Search Console, analytics and Business Profile links in your accounts."],
-      ["Five months included", "Fixes, updates, new brands and small changes are free for five months. After that, a monthly maintenance plan is available if you want one."],
+      ["Two months included", "Fixes, updates, new brands and small changes are free for two months. After that, a monthly maintenance plan is available if you want one."],
     ],
   },
   faqHeading: "Building material supplier website: questions dealers ask",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
     { question: "Can the website connect to my billing software?", answer: "Often, yes. If your billing or inventory software can export stock, invoices and balances, we can feed that data into the contractor portal so balances are real, not retyped. We check what your software supports during planning and include any connection work as a separate line in the quote." },
     { question: "Freelancers or a local agency for a dealer website?", answer: "A local agency may offer in-person meetings; a small freelance team offers direct contact with the developers and usually a leaner process. Quotes from both vary widely. What matters is that the site has a working rate board, bulk form and zones, and that you own the domain, hosting and code. Ask any provider to show how rates are updated." },
     { question: "Who owns the building material website?", answer: "You do. The domain, hosting account, code and all enquiry and customer data belong to your business. We hand over admin logins, the code repository and a staff guide. If you ever move to another developer, nothing in the build ties you to us." },
-    { question: "What support do I get after launch?", answer: `Five months of maintenance are included: fixes, updates, backups and small additions such as new brands or zones. After that, maintenance continues from ${P.care} a month if you choose. Your staff update rates, products and zones themselves, so daily changes never wait for us.` },
+    { question: "What support do I get after launch?", answer: `Two months of maintenance are included: fixes, updates, backups and small additions such as new brands or zones. After that, maintenance continues from ${P.care} a month if you choose. Your staff update rates, products and zones themselves, so daily changes never wait for us.` },
     { question: "How do I pay for the website?", answer: "Payments in India are by UPI or bank transfer against the milestones in your approved quote, with invoices for each. International clients pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote; our refund policy page explains cancellations." },
     { question: "Can the website send rate updates on WhatsApp?", answer: `Yes. Contractors who opt in can receive the morning rate list automatically from your business number through the WhatsApp Business Platform, and due-invoice reminders can follow the same route. That automation starts from ${P.ai}. Smaller dealers can begin with the free WhatsApp Business app’s broadcast and quick-reply features.` },
     { question: "Cement dealer ki website mein kya kya hona chahiye?", answer: `Aaj ka rate board jo roz subah update ho, brand aur grade ke saath catalogue, bulk order form jismein site ka location aur quantity ho, delivery area ki jaankari aur contractor credit ka enquiry form. Har page par call aur WhatsApp button. Aisi website ${P.site} se shuru hoti hai.` },

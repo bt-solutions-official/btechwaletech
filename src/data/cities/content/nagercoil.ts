@@ -31,11 +31,11 @@ const nagercoil: CityContent = {
     eyebrow: "Nagercoil · Tamil Nadu",
     h1: "Websites, apps, SEO and AI automation for Nagercoil traders, makers and professionals",
     lede:
-      "We are three remote engineers building fast websites, online stores, clinic and college pages, and WhatsApp workflows for Nagercoil businesses, from Vadasery's temple jewellery makers and Kottar's commodity traders to shops near Chettikulam junction. Our starting prices are published, you own the domain and code, and maintenance is free for five months after launch.",
+      "We are three remote engineers building fast websites, online stores, clinic and college pages, and WhatsApp workflows for Nagercoil businesses, from Vadasery's temple jewellery makers and Kottar's commodity traders to shops near Chettikulam junction. Our starting prices are published, you own the domain and code, and maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Tamil, English and Malayalam", "Temple jewellery stores", "Clinic and college sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Nagercoil businesses, our static websites start from ₹10,000 and are ready in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Nagercoil office, and every website includes five months of free maintenance after launch.",
+    "For Nagercoil businesses, our static websites start from ₹10,000 and are ready in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Nagercoil office, and every website includes two months of free maintenance after launch.",
   snapshot: [
     { label: "Administration", value: "Headquarters of Kanyakumari district; upgraded to a municipal corporation in 2019" },
     { label: "GI craft", value: "Vadasery temple jewellery holds a Geographical Indication registration" },
@@ -52,10 +52,10 @@ const nagercoil: CityContent = {
     ai: "WhatsApp assistants that reply to repeat questions about rates, stock, OPD timings and fees in Tamil or English, and pass unusual ones to your team.",
     data: "Dashboards for daily sales, orders by region, student enquiries or patient bookings that owners can read on a phone.",
     app: "Android and iPhone apps for order taking, field sales and student portals, available on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Nagercoil businesses often get quotes from Thiruvananthapuram or Chennai agencies that never publish a rate, or from local developers who are hard to reach once the site is live. We list our starting prices openly, reply on WhatsApp seven days a week, and look after your site free of charge for five months after launch.",
+    "Nagercoil businesses often get quotes from Thiruvananthapuram or Chennai agencies that never publish a rate, or from local developers who are hard to reach once the site is live. We list our starting prices openly, reply on WhatsApp seven days a week, and look after your site free of charge for two months after launch.",
   pricingIntro:
     "The amounts below show where each kind of project starts. Your final price depends on pages, products, languages and features, and it reaches you as an itemised written quote before any billing.",
   sections: [
@@ -182,11 +182,11 @@ const nagercoil: CityContent = {
     },
     {
       id: "ownership-nagercoil",
-      heading: "Ownership, handover and five months of free maintenance",
+      heading: "Ownership, handover and two months of free maintenance",
       paragraphs: [
         "A common problem across smaller cities is losing a website because the domain was booked in a developer's name. When that developer stops responding and the renewal lapses, the site and the email address on your visiting cards disappear together. Recovering it can take weeks, if it is possible at all.",
         "We register the domain and hosting in your name from the start. At launch you get every login, the full source code and a short handover note. You can move to another developer whenever you wish, with no exit fee from us.",
-        "Maintenance is free for five months after launch, covering content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that it starts from ₹8,000 a month, or you can contact us only when needed. Send us a message through the <a href=\"/contact/\">contact page</a> or on WhatsApp to begin.",
+        "Maintenance is free for two months after launch, covering content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that it starts from ₹8,000 a month, or you can contact us only when needed. Send us a message through the <a href=\"/contact/\">contact page</a> or on WhatsApp to begin.",
       ],
     },
   ],
@@ -283,7 +283,7 @@ const nagercoil: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we cover content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we cover content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
     },
   ],
   nearby: ["padmanabhapuram", "unnamalaikadai", "thiruvananthapuram", "neyyattinkara", "tirunelveli", "vadakkuvalliyur", "panagudi", "tenkasi"],

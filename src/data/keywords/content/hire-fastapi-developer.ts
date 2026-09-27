@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["AI timelines", "2–4 weeks for a focused AI service"],
     ["Quote", "Itemised in about 2 working days"],
     ["Deployment", "Docker image in your AWS, GCP or Azure account"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers, one focused on AI, ML and AWS" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees between you and the developers" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Private LLM deployment", note: "Put an open-weight model behind an authenticated FastAPI gateway in your own cloud, with rate limits and request logs.", href: "/private-llm-deployment/", size: "md" },
       { name: "Back end for a mobile app", note: `Auth, users, payments hooks and push notifications for a Flutter or React Native app, apps from ${P.app}.`, href: "/hire-flutter-developer/", size: "sm" },
       { name: "Flask or Django API migration", note: "Move slow or tangled endpoints to FastAPI one route at a time, with the same URLs and response shapes.", href: "/hire-flask-developer/", size: "sm" },
-      { name: "Ongoing care for AI services", note: `Dependency and model updates, cost monitoring and drift checks after the free five months, from ${P.care}.`, size: "sm" },
+      { name: "Ongoing care for AI services", note: `Dependency and model updates, cost monitoring and drift checks after the free two months, from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does it cost to hire a FastAPI developer in India?",
       paragraphs: [
-        `With BtechWaleTech, a focused AI service built on FastAPI starts from ${P.ai} (${P.aiUsd}) and usually takes 2–4 weeks. A full FastAPI back end with users, roles, a database and integrations starts from ${P.software} (${P.softwareUsd}) and takes 6–12 weeks. Maintenance after the free five months starts from ${P.care}.`,
+        `With BtechWaleTech, a focused AI service built on FastAPI starts from ${P.ai} (${P.aiUsd}) and usually takes 2–4 weeks. A full FastAPI back end with users, roles, a database and integrations starts from ${P.software} (${P.softwareUsd}) and takes 6–12 weeks. Maintenance after the free two months starts from ${P.care}.`,
         `Across India, FastAPI developer rates vary widely by experience, engagement model and whether the person brings ML skills or only web API skills, so published hourly figures are a weak guide. Budget drivers to check in any quote:`,
       ],
       list: [
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything we build and everything you bring: the code in your Git repository, the Docker images in your registry, model weights and training data in your storage, and all cloud and LLM provider accounts in your name.`,
         `Handover includes the repository, OpenAPI spec, environment variable list, deployment and rollback steps, a note on how each model was packaged and how to swap in a new version, and a list of third-party services with their billing owners. If you retrain the model later, your data team can drop in new weights without touching the API code.`,
-        `Five months of free maintenance follow launch. After that, care starts from ${P.care}, covering Python and library updates, model version swaps, cost checks and small changes.`,
+        `Two months of free maintenance follow launch. After that, care starts from ${P.care}, covering Python and library updates, model version swaps, cost checks and small changes.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
         ["Document or OCR pipeline", "Upload API, workers, extraction, review queue", `${P.ai} plus itemised parts`, "3–5 weeks"],
         ["Full FastAPI back end", "Users, roles, PostgreSQL, integrations, admin", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["Mobile app on the API", "Flutter or React Native, store release", `${P.app} · ${P.appUsd}`, "6–10 weeks"],
-        ["Care after 5 free months", "Updates, model swaps, cost checks", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Care after 2 free months", "Updates, model swaps, cost checks", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
     },
   ],
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
       ["Contracts first", "We write the Pydantic request and response models and publish the OpenAPI docs on staging, so your app team can start integrating immediately."],
       ["Build and load test", "Endpoints, workers, database and auth are built, then tested with realistic concurrency to catch blocking code and slow queries."],
       ["Deploy to your cloud", "Docker images, health checks, logs, alerts and cost tracking are set up in your own AWS, Google Cloud or Azure account."],
-      ["Handover and care", "You receive code, docs and a model-swap guide, then five months of free maintenance for fixes, updates and small changes."],
+      ["Handover and care", "You receive code, docs and a model-swap guide, then two months of free maintenance for fixes, updates and small changes."],
     ],
   },
   faqHeading: "Hire FastAPI developer: common questions",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Can you fix a slow FastAPI service someone else built?", answer: "Yes. We start with a short audit: profiling endpoints, checking for blocking calls inside async code, models loaded per request, missing database indexes and oversized prompts. You get a written list of findings with an itemised quote for fixes, and nothing is billed before you approve it in writing." },
     { question: "Freelancer or agency for FastAPI development?", answer: "A small freelance team suits most AI services and API back ends: you talk directly to the developers, and our team combines ML and backend skills with code review between members. A larger vendor suits programmes needing many engineers at once. Our honest limit is three developers and no large-scale model training." },
     { question: "How do you control LLM costs in a FastAPI app?", answer: "Every request logs the model used and tokens consumed, repeated questions are cached, retrieval sends only the most relevant chunks, and routine questions go to a cheaper model while hard ones go to a stronger one. Per-user rate and spend limits stop surprises. You pay the provider directly and can see every charge." },
-    { question: "What happens after launch?", answer: `There are five months of free maintenance after launch for bug fixes, library updates and small changes. After that, care starts from ${P.care} (${P.careUsd}) and can include model version swaps, drift checks, cost reviews and Python upgrades. Larger features are quoted as new milestones.` },
+    { question: "What happens after launch?", answer: `There are two months of free maintenance after launch for bug fixes, library updates and small changes. After that, care starts from ${P.care} (${P.careUsd}) and can include model version swaps, drift checks, cost reviews and Python upgrades. Larger features are quoted as new milestones.` },
     { question: "How do we pay for a FastAPI project?", answer: "You approve an itemised quote in writing first; nothing is billed before that. Indian clients pay by UPI or bank transfer with a GST invoice, and international clients pay in USD by Wise, bank wire or PayPal. Milestone terms are set out in the written quote." },
     { question: "Can you sign an NDA before we share our model and data?", answer: "Send your NDA before sharing anything sensitive; confidentiality terms are agreed in writing before work starts. We prefer working inside your own cloud and repositories, so data does not need to be copied to our machines. Any specific handling rules for your data go into the written quote." },
     { question: "FastAPI developer chahiye, apna ML model live karna hai. Kaise shuru karein?", answer: `WhatsApp par apna notebook ya model ke baare mein short note bhejiye: input kya hai, output kya chahiye, aur kitne users use karenge. Lagbhag 2 working days mein architecture note aur itemised quote milega. AI service ${P.ai} se shuru hoti hai, aur written approval se pehle kuch bill nahi hota.` },

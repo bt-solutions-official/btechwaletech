@@ -56,7 +56,7 @@ const warora: CityContent = {
     ai: "WhatsApp assistants that answer in Marathi and Hindi, collect enquiries and route real decisions to the owner.",
     data: "Dashboards of trips per vehicle, dues by client, labour attendance and seasonal cotton or soybean purchases.",
     app: "Android and iOS apps for fleet drivers, contractor supervisors or college students, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for backups, updates and security.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for backups, updates and security.",
   },
   whyUsIntro:
     "Warora firms work to plant schedules and mine deadlines, and they notice quickly when a supplier goes quiet. We give written itemised quotes, starting prices you can read before calling us, WhatsApp replies every day of the week, and domains, code and store accounts that belong to you from the start.",
@@ -150,7 +150,7 @@ const warora: CityContent = {
       heading: "Website cost in Warora: what a realistic budget looks like",
       paragraphs: [
         "Think of our prices as floors. A Warora shop, clinic or contractor can have a static website of up to 100 pages from ₹10,000, typically delivered in one to two weeks. A large SEO site with 700 or more pages, useful for a dealer covering many products and villages, starts at ₹20,000 and takes three to five weeks. Apps for Android and iPhone start at ₹40,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 over four to eight weeks, and custom software such as a fleet system at ₹60,000 over six to twelve weeks.",
-        "Retainers are optional. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the five free months after launch are over. Additions that raise a quote include Marathi and English versions, large catalogues, checkout, multiple logins, offline app features and integrations with Tally or plant portals. You see each one as a separate line and decide.",
+        "Retainers are optional. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the two free months after launch are over. Additions that raise a quote include Marathi and English versions, large catalogues, checkout, multiple logins, offline app features and integrations with Tally or plant portals. You see each one as a separate line and decide.",
         "When comparing quotes from Chandrapur or Nagpur designers, look past the headline number. Ask who registers the domain, who owns the code, how many revision rounds are covered, whether basic SEO and a Google Business Profile are included, and who answers when something breaks next year. Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>, and your written itemised quote arrives in about two working days.",
       ],
     },
@@ -168,7 +168,7 @@ const warora: CityContent = {
       heading: "Who owns your Warora website or app, and how it is maintained",
       paragraphs: [
         "You do, entirely. The domain is booked in your name and on your email, hosting is billed to you, the Google Business Profile lists you as owner, and apps are published through Google Play and Apple developer accounts registered to your business. At handover you get the full source code and a document listing every login. No part of your online presence depends on keeping us happy.",
-        "For five months after launch, maintenance costs nothing. We update rates and content, take regular backups, apply security patches and platform updates, and periodically test forms, payments and WhatsApp buttons. After that, you can stay with us from ₹8,000 a month, look after things yourself, or hand the code to another developer without asking our permission.",
+        "For two months after launch, maintenance costs nothing. We update rates and content, take regular backups, apply security patches and platform updates, and periodically test forms, payments and WhatsApp buttons. After that, you can stay with us from ₹8,000 a month, look after things yourself, or hand the code to another developer without asking our permission.",
         "Apps need an annual check even when they work perfectly, because Google and Apple raise minimum requirements and remove apps that fall behind. We keep track of those dates and ship the update in time. Websites need less, but a yearly review of speed, content and broken links keeps them useful.",
       ],
     },
@@ -255,7 +255,7 @@ const warora: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Five months of free maintenance: content and rate updates, backups, security patches, platform updates and routine tests of forms and payments. After that you can continue from ₹8,000 a month or manage it yourself. Apps also get the yearly updates Google and Apple require, so your listing is not removed.",
+        "Two months of free maintenance: content and rate updates, backups, security patches, platform updates and routine tests of forms and payments. After that you can continue from ₹8,000 a month or manage it yourself. Apps also get the yearly updates Google and Apple require, so your listing is not removed.",
     },
     {
       question: "Do you work in Bhadravati, Chandrapur and Wani too?",

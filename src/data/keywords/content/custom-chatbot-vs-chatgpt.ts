@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Typical build time", "2–4 weeks"],
     ["Model API account", "Opened in your name, billed to you"],
     ["Channels", "Website widget, WhatsApp, internal tools"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Quote", "Itemised, in about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Developers: AI and data, full-stack, automation" },
     { value: "2–4", label: "Weeks for a typical custom chatbot build" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Markup added to your model API bill" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a custom AI chatbot costs to build and to run",
-    note: `Our custom AI chatbot builds start at ${P.ai} (${P.aiUsd}) and usually take two to four weeks. The final quote depends on how many knowledge sources we connect, whether the bot needs live data such as bookings or stock, how many channels it runs on and whether Hindi or Hinglish is required. Running costs are separate and are paid straight to the providers from accounts in your name: model API usage, WhatsApp template messages where you send them, and a small cloud server. We do not resell tokens or add a margin to them. You get five months of free maintenance, then support from ${P.care} if you want it.`,
+    note: `Our custom AI chatbot builds start at ${P.ai} (${P.aiUsd}) and usually take two to four weeks. The final quote depends on how many knowledge sources we connect, whether the bot needs live data such as bookings or stock, how many channels it runs on and whether Hindi or Hinglish is required. Running costs are separate and are paid straight to the providers from accounts in your name: model API usage, WhatsApp template messages where you send them, and a small cloud server. We do not resell tokens or add a margin to them. You get two months of free maintenance, then support from ${P.care} if you want it.`,
   },
   guideLabel: "Custom AI chatbot vs ChatGPT: the complete guide",
   guide: [
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
         { heading: "Hosting and storage", text: "A small cloud server and a database with a vector index. For most small businesses this is modest and stable month to month." },
       ],
       after: [
-        `Two habits keep costs predictable: set a monthly spending limit inside the model provider's dashboard, and review the log of the most expensive conversations once a month. After the five free months, our <a href='/website-maintenance-charges/'>maintenance</a> from ${P.care} can include that monthly cost review.`,
+        `Two habits keep costs predictable: set a monthly spending limit inside the model provider's dashboard, and review the log of the most expensive conversations once a month. After the two free months, our <a href='/website-maintenance-charges/'>maintenance</a> from ${P.care} can include that monthly cost review.`,
       ],
     },
     {
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You open or confirm the model API, cloud and WhatsApp Business accounts. We receive access you can revoke; no key is ever held only by us."],
       ["Build and guardrails", "We clean and index your content, write the prompts and handover rules, and connect the lead sheet or CRM, showing progress on a private test page."],
       ["Test with real questions", "Your staff try real customer questions for several days. Wrong or weak answers are traced to their source and fixed before anything goes live."],
-      ["Launch and review", "The bot goes live on your site or WhatsApp. For five months maintenance is free, including knowledge updates and a monthly look at costs and logs."],
+      ["Launch and review", "The bot goes live on your site or WhatsApp. For two months maintenance is free, including knowledge updates and a monthly look at costs and logs."],
     ],
   },
   faqHeading: "Custom AI chatbot vs ChatGPT: questions owners ask",
@@ -468,7 +468,7 @@ const content: FreelanceContent = {
     { question: "Can the chatbot run without sending data outside India?", answer: "It can, by hosting an open-weight model on a server in an Indian cloud region inside your own account, instead of calling a hosted API. This costs more to run and needs more monitoring, so it suits businesses with contracts or regulatory reasons to keep data in place. Your lawyer should confirm what your obligations actually require." },
     { question: "Does a chatbot help SEO or AI search visibility?", answer: "Not directly. Search engines and AI Overviews read your pages, not your chat conversations. What a chatbot does provide is a log of the exact questions customers ask, which is excellent input for new FAQ and service pages that do rank. Keep the website strong and use the bot's logs to guide what you publish." },
     { question: "What does the DPDP Act mean for a business chatbot?", answer: "India's Digital Personal Data Protection Rules were notified in November 2025, with obligations phasing in over 18 months. For a chatbot, that points to clear notice before collecting personal data, collecting only what you need, sensible retention and access controls. We build those controls; confirming compliance is for your own legal adviser." },
-    { question: "Who maintains the chatbot after launch?", answer: `We maintain it free for five months after launch, including knowledge updates, fixing weak answers found in the logs and a monthly look at running costs. After that, maintenance starts from ${P.care} if you want us to continue, or your own team can update documents themselves through the process we hand over.` },
+    { question: "Who maintains the chatbot after launch?", answer: `We maintain it free for two months after launch, including knowledge updates, fixing weak answers found in the logs and a monthly look at running costs. After that, maintenance starts from ${P.care} if you want us to continue, or your own team can update documents themselves through the process we hand over.` },
     { question: "Can a freelance team build a chatbot as well as an agency?", answer: "For most small and mid-sized business chatbots, yes. The work needs a person who understands retrieval and models, a developer for the widget and integrations, and someone to run testing with your staff. Our three freelance developers cover those roles directly. A large agency suits projects needing many parallel teams or round-the-clock support desks." },
   ],
   related: {

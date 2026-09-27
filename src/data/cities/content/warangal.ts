@@ -7,7 +7,7 @@ const warangal: CityContent = {
   meta: {
     title: "IT Services in Warangal: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO and WhatsApp automation for Warangal, Hanamkonda and Kazipet businesses, from chilli traders to clinics. From ₹10,000, five months free support.",
+      "Websites, local SEO and WhatsApp automation for Warangal, Hanamkonda and Kazipet businesses, from chilli traders to clinics. From ₹10,000, two months free support.",
     keywords: [
       "website development team in Warangal",
       "web design team Warangal",
@@ -30,11 +30,11 @@ const warangal: CityContent = {
     eyebrow: "Warangal · Telangana",
     h1: "Websites, SEO and automation for businesses across the Warangal tri-city",
     lede:
-      "We are three engineers working remotely for Hanamkonda clinics, Enumamula traders, durrie weavers, Kazipet hotels, coaching centres and the new units near the textile park. Our prices are published below, you speak directly with the people building your site, and five months of maintenance after launch are included free.",
+      "We are three engineers working remotely for Hanamkonda clinics, Enumamula traders, durrie weavers, Kazipet hotels, coaching centres and the new units near the textile park. Our prices are published below, you speak directly with the people building your site, and two months of maintenance after launch are included free.",
     pills: ["Websites from ₹10,000", "Telugu and English pages", "Trader and mandi sites", "Stores for durries and handloom", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Warangal, a basic business website with us starts at ₹10,000 and a 299+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote three-engineer team with no office in Warangal or Hanamkonda, and every site gets five months of free maintenance.",
+    "In Warangal, a basic business website with us starts at ₹10,000 and a 299+ page SEO website from ₹20,000, usually ready in one to five weeks. Online stores start at ₹50,000 and automation at ₹40,000. We are a remote three-engineer team with no office in Warangal or Hanamkonda, and every site gets two months of free maintenance.",
   snapshot: [
     { label: "Tri-city", value: "Warangal, Hanamkonda and Kazipet, linked by NH 163 and served by Kazipet Junction and Warangal stations" },
     { label: "Agri trade", value: "Enumamula Agricultural Market, a major grain and red chilli market; Warangal Chapata chilli holds a GI tag" },
@@ -51,10 +51,10 @@ const warangal: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, fee or appointment questions in Telugu or English and pass the rest to your staff.",
     data: "Arrivals, sales and collection figures pulled into dashboards the owner can check before the market opens.",
     app: "Android and iOS apps for student portals, trader ordering and appointment booking, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Across Warangal and Hanamkonda there are plenty of people offering websites, but prices are rarely written down and support often ends at handover. We publish our starting rates, reply on WhatsApp seven days a week, and look after your site free for five months after it goes live.",
+    "Across Warangal and Hanamkonda there are plenty of people offering websites, but prices are rarely written down and support often ends at handover. We publish our starting rates, reply on WhatsApp seven days a week, and look after your site free for two months after it goes live.",
   pricingIntro:
     "Website quotes in the tri-city vary enormously and rarely say what is included. These are our real starting prices. Your final figure depends on pages, features and how much of your content is ready, and it comes to you itemised before any work starts.",
   sections: [
@@ -160,7 +160,7 @@ const warangal: CityContent = {
       paragraphs: [
         "A common tri-city problem: a business paid for a website years ago, the designer has since moved to Hyderabad or abroad, and nobody has the domain or hosting login. When the renewal lapses, the site and business email stop working together, and getting them back can take weeks.",
         "We prevent this from the beginning. The domain is registered in your name and the hosting is in your account. At launch you receive every password, the full source code and a short document explaining how it all fits together. You can move to another developer at any time without paying us an exit fee.",
-        "Maintenance is free for five months after launch. It covers content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed.",
+        "Maintenance is free for two months after launch. It covers content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const warangal: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch, we handle content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, we handle content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Karimnagar, Jangaon and Khammam?",

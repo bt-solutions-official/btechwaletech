@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Web apps from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Bengali and English interfaces", "Replies 7 days a week"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three remote engineers serving Agartala clients who compare us with a software development team. Custom software and web apps start at ₹60,000 (six to twelve weeks), AI automation at ₹40,000 (two to four weeks), online stores at ₹50,000 and websites at ₹10,000. You receive an itemised quote in about two working days, full code ownership and five months of free maintenance.",
+    "BtechWaleTech is a freelance group of three remote engineers serving Agartala clients who compare us with a software development team. Custom software and web apps start at ₹60,000 (six to twelve weeks), AI automation at ₹40,000 (two to four weeks), online stores at ₹50,000 and websites at ₹10,000. You receive an itemised quote in about two working days, full code ownership and two months of free maintenance.",
   snapshot: [
     { label: "Administrative core", value: "Secretariat and New Capital Complex at Kunjaban, with most state directorates and district offices in the city" },
     { label: "Retail and wholesale", value: "Battala, Maharajganj Bazar, GB Bazar, Lake Chowmuhani, Banamalipur and Dhaleswar Bazar" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp Business API flows that sort enquiries, answer routine questions in Bengali and English, and create leads without manual copying.",
     data: "Owner dashboards that combine Tally, sheet and app data, so a business with counters in Battala and GB Bazar sees one figure each morning.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store, for Agartala staff, riders, students and patients.",
-    maintenance: "Bug fixes, security patches, backups and uptime checks, free for the first five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Bug fixes, security patches, backups and uptime checks, free for the first two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Agartala has a few established IT firms and many freelancers, and quality varies widely. BtechWaleTech offers a different trade-off: engineers you message directly, starting prices published online, source code and cloud accounts in your name, and no office overhead in the quote.",
@@ -129,7 +129,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting means your website or software runs on professionally managed servers instead of a computer in your office, which protects data from power cuts, theft and hardware failure. BtechWaleTech includes hosting setup and deployment in every Agartala project, with accounts registered in your name, SSL, daily backups and uptime monitoring.",
         "Many Agartala organisations still keep critical records on a single desktop. When that machine fails, months of billing or student data can disappear. Moving to cloud hosting on AWS or a similar provider costs little each month and removes that risk. We also set up separate staging and live environments, so changes are tested before your staff see them.",
-        "Ongoing IT support covers software updates, security patches, bug fixes and help when a user forgets how a feature works. The first five months after launch are free; after that, maintenance plans start at ₹8,000 a month. We do not provide on-site hardware repair or network cabling, and we will tell you honestly if a problem needs a local technician.",
+        "Ongoing IT support covers software updates, security patches, bug fixes and help when a user forgets how a feature works. The first two months after launch are free; after that, maintenance plans start at ₹8,000 a month. We do not provide on-site hardware repair or network cabling, and we will tell you honestly if a problem needs a local technician.",
       ],
     },
     {
@@ -198,7 +198,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech works with Agartala clients entirely online: requirements over WhatsApp or video call, designs and staging links for review, staged payments and a documented handover. We have no office in Agartala or elsewhere in Tripura, and we reply seven days a week, usually within a few hours.",
         "Remote work suits software projects because most of the effort happens on screen anyway. You can send photographs of your registers, sample bills, voice notes in Bengali and screenshots of existing tools, and we turn them into a clear specification. Every milestone produces something you can click, so progress is visible rather than promised.",
-        "Payment is in INR only, by UPI QR code or direct bank transfer to our bank account, split across milestones. At handover you receive the repository, hosting and domain logins, an admin guide and a short recorded walkthrough for staff. Five months of maintenance follow at no charge.",
+        "Payment is in INR only, by UPI QR code or direct bank transfer to our bank account, split across milestones. At handover you receive the repository, hosting and domain logins, an admin guide and a short recorded walkthrough for staff. Two months of maintenance follow at no charge.",
       ],
     },
   ],
@@ -259,7 +259,7 @@ const content: CityContent = {
     {
       question: "What support do I get after the software goes live?",
       answer:
-        "Five months of maintenance are included free after launch: bug fixes, security and dependency updates, backups, uptime checks and small changes. After that, you can choose a monthly plan from ₹8,000 or pay only when you need changes. We reply on WhatsApp seven days a week. On-site hardware repairs and office networking are outside our scope, and we will say so if needed.",
+        "Two months of maintenance are included free after launch: bug fixes, security and dependency updates, backups, uptime checks and small changes. After that, you can choose a monthly plan from ₹8,000 or pay only when you need changes. We reply on WhatsApp seven days a week. On-site hardware repairs and office networking are outside our scope, and we will say so if needed.",
     },
     {
       question: "Can AI automation answer my customers on WhatsApp?",

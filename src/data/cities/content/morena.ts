@@ -30,7 +30,7 @@ const morena: CityContent = {
     eyebrow: "Morena · Madhya Pradesh",
     h1: "Web design, local SEO and automation for Morena businesses, from oil mills to gajak counters",
     lede:
-      "We are three remote engineers building websites, Google Maps profiles and WhatsApp systems for Morena's mustard oil mills, gajak makers, Banmore factories, seed and fertiliser dealers, clinics and coaching institutes. Starting prices are public, the domain and code are registered to you, and the first five months of maintenance after launch cost nothing.",
+      "We are three remote engineers building websites, Google Maps profiles and WhatsApp systems for Morena's mustard oil mills, gajak makers, Banmore factories, seed and fertiliser dealers, clinics and coaching institutes. Starting prices are public, the domain and code are registered to you, and the first two months of maintenance after launch cost nothing.",
     pills: ["Websites from ₹10,000", "Hindi-first pages", "Oil mill and gajak catalogues", "Maps and reviews", "No lock-in"],
   },
   quickAnswer:
@@ -51,10 +51,10 @@ const morena: CityContent = {
     ai: "WhatsApp assistants that quote the day's oil rate or the next batch timing in Hindi, then hand real buyers to the owner.",
     data: "Simple dashboards comparing mustard purchase prices, oil and cake output and dealer payments week by week.",
     app: "Android and iOS apps for dealer ordering, field staff visiting villages, or students checking coaching test results, released on both app stores.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or a per-job charge if changes are rare.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then from ₹8,000 a month or a per-job charge if changes are rare.",
   },
   whyUsIntro:
-    "In Morena, a website usually comes from a relative who “knows computers” or a Gwalior agency that stops answering after the invoice clears. We do it differently: prices are published, every quote is itemised, replies come on WhatsApp every day of the week, and the site stays looked after for five months at no charge.",
+    "In Morena, a website usually comes from a relative who “knows computers” or a Gwalior agency that stops answering after the invoice clears. We do it differently: prices are published, every quote is itemised, replies come on WhatsApp every day of the week, and the site stays looked after for two months at no charge.",
   pricingIntro:
     "Every figure below is a starting price. A mill that wants forty product and packaging pages will pay more than a physiotherapist on Station Road, because the work is larger, not because of the address. You see the line-by-line quote before anything is billed.",
   sections: [
@@ -176,7 +176,7 @@ const morena: CityContent = {
       paragraphs: [
         "A common Morena complaint goes like this: someone paid for a website years ago, the developer changed his number, and now nobody can renew the domain or change the phone number on the site. Customers keep calling a disconnected line printed on every oil tin and gajak box. Getting a domain back from a vanished developer can take weeks of emails.",
         "We avoid that by design. The domain is registered in your name, hosting sits in your account, and at launch you receive every login, the full source code and a short note on what runs where. If you ever want another developer to take over, you can hand over everything without asking our permission or paying an exit fee.",
-        "Maintenance is free for the first five months after launch: price and text changes, fixes, security updates, backups and uptime checks. After that, a plan starts at ₹8,000 a month. If your site barely changes between seasons, skip the plan and message us when something is needed, paying only for that job.",
+        "Maintenance is free for the first two months after launch: price and text changes, fixes, security updates, backups and uptime checks. After that, a plan starts at ₹8,000 a month. If your site barely changes between seasons, skip the plan and message us when something is needed, paying only for that job.",
       ],
     },
   ],
@@ -263,7 +263,7 @@ const morena: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months after launch are free and cover updates, backups, security fixes and small content changes. After that, a monthly plan starts at ₹8,000. If your site rarely changes, you can skip the plan and pay only when you ask for a specific change.",
+        "The first two months after launch are free and cover updates, backups, security fixes and small content changes. After that, a monthly plan starts at ₹8,000. If your site rarely changes, you can skip the plan and pay only when you ask for a specific change.",
     },
     {
       question: "How soon will SEO bring customers?",

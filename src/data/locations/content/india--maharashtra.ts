@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Websites from ₹10,000", "Android and iOS apps from ₹40,000", "Custom software from ₹60,000", "Marathi and English", "UPI or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers freelance IT solutions across Maharashtra: websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three engineers working remotely, with no Maharashtra office, and include five months of free maintenance after launch.",
+    "BtechWaleTech offers freelance IT solutions across Maharashtra: websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three engineers working remotely, with no Maharashtra office, and include two months of free maintenance after launch.",
   snapshot: [
     { label: "Financial capital", value: "Mumbai, home to the RBI, BSE, NSE and a vast base of trading, finance, media and corporate headquarters" },
     { label: "IT and education hub", value: "Pune, with Hinjewadi, Kharadi and Magarpatta tech parks and a large student population" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI automation for Maharashtra firms: WhatsApp replies in Marathi, Hindi and English, order and invoice reading, lead routing and daily summaries.",
     data: "Dashboards that combine Tally, ERP and spreadsheet data so owners of multi-location Maharashtra businesses see sales, stock and dues in one place.",
     app: "Android and iOS apps from ₹40,000 for Maharashtra businesses, built once in Flutter or React Native, published on Google Play and the App Store, with Marathi screens where users need them.",
-    maintenance: "Support for Maharashtra websites and systems: updates, backups, security and speed checks, with five months free after every launch.",
+    maintenance: "Support for Maharashtra websites and systems: updates, backups, security and speed checks, with two months free after every launch.",
   },
   whyUsIntro:
     "Businesses across Maharashtra often choose between costly metro vendors and unreliable freelancers. We are three engineers you can reach directly, with written starting prices and one team for software, apps, automation and websites.",
@@ -185,7 +185,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for Maharashtra businesses should be fast for local users, affordable and owned by the business. We deploy on AWS's Mumbai region, Cloudflare, Vercel or DigitalOcean depending on workload, with SSL, daily backups, uptime monitoring and automated deployments, all under accounts in your name.",
         "Security basics come standard: updated software, two-factor login for admins, limited access, tested backups and careful handling of personal data in line with India's Digital Personal Data Protection Act.",
-        "Every launch includes five months of free maintenance. After that, support starts at ₹8,000 per month or per task. We reply on WhatsApp seven days a week. We do not offer on-site hardware or networking; a local technician is better for that, and we coordinate when software is involved.",
+        "Every launch includes two months of free maintenance. After that, support starts at ₹8,000 per month or per task. We reply on WhatsApp seven days a week. We do not offer on-site hardware or networking; a local technician is better for that, and we coordinate when software is involved.",
       ],
     },
     {
@@ -246,7 +246,7 @@ const content: CityContent = {
       "paragraphs": [
         "A Maharashtra business can tell whether software paid off by measuring two or three specific numbers before the project starts and again a few months after launch: hours spent on a task, errors or missed orders, days taken to collect payments, or enquiries converted into sales. If the numbers improve by more than the project and running costs, the investment has paid for itself. Without a baseline, even a useful system is hard to judge.",
         "Pick measures that match the problem. A MIDC engineering unit in Ambad or Waluj might track how often dispatches slip and how long it takes to prepare a quote. A cooperative in Kolhapur or Sangli district could count the hours staff spend reconciling member records. A coaching institute in Latur or Nagpur might watch how many enquiries receive a same-day callback. A Nashik or Aurangabad retailer could compare repeat orders before and after a WhatsApp reorder flow. Each of these can be noted in a simple register for two weeks before work begins.",
-        "Adoption is part of the return. Software that half the staff avoid will not move any number, so we plan training in Marathi or Hindi where helpful, keep screens simple, and review usage with the owner in the first months after launch, which fall inside our five free months of maintenance. Keep expectations honest: some gains, such as fewer errors, show within weeks, while others, such as better cash flow, take a full business cycle. Websites and SEO work are judged differently, by enquiries over several months, not by rankings alone."
+        "Adoption is part of the return. Software that half the staff avoid will not move any number, so we plan training in Marathi or Hindi where helpful, keep screens simple, and review usage with the owner in the first months after launch, which fall inside our two free months of maintenance. Keep expectations honest: some gains, such as fewer errors, show within weeks, while others, such as better cash flow, take a full business cycle. Websites and SEO work are judged differently, by enquiries over several months, not by rankings alone."
       ],
       "list": [
         "Before the project: record 2 to 3 baseline numbers for at least two weeks.",
@@ -330,7 +330,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. You get five months of free maintenance after go-live, covering fixes, updates, backups, security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
+        "Yes. You get two months of free maintenance after go-live, covering fixes, updates, backups, security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
     },
     {
       question: "Can you connect new software with Tally?",

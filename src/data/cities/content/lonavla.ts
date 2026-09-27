@@ -56,7 +56,7 @@ const lonavla: CityContent = {
     ai: "WhatsApp assistants that answer availability, tariff and check-in questions at night and forward real bookings to you.",
     data: "Dashboards of occupancy by weekend and month, enquiry sources, and chikki sales by product and city.",
     app: "Android and iOS apps for villa guests, housekeeping staff or repeat chikki buyers in Lonavla, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for tariff updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for tariff updates, backups and security fixes.",
   },
   whyUsIntro:
     "Lonavla owners are busy exactly when everyone else is on holiday. We publish starting prices, send itemised written quotes, reply on WhatsApp every day including weekends, and register your domain, hosting, code and app store accounts in your own name, so no booking platform or developer holds your business hostage.",
@@ -178,7 +178,7 @@ const lonavla: CityContent = {
       heading: "You own the site, the bookings and the code",
       paragraphs: [
         "Many villa owners discover too late that their website, domain or even their Google listing is controlled by a broker or a former developer. When the relationship ends, the bookings channel goes with it. We prevent this by registering the domain, hosting, code repository, Google Business Profile access and app store accounts in your name before we start.",
-        "After launch you get five months of free maintenance: fixes, security updates and small changes such as tariff edits or new photos. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and regular edits. Seasonal businesses can plan heavier updates before the monsoon and winter peaks.",
+        "After launch you get two months of free maintenance: fixes, security updates and small changes such as tariff edits or new photos. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and regular edits. Seasonal businesses can plan heavier updates before the monsoon and winter peaks.",
         "Whoever you choose, ask four questions: whose name is the domain in, where is the code stored, who has the admin password, and what does it cost to move? Clear answers matter more than any portfolio.",
         "Every project ends with a written handover listing all logins and where they are kept.",
       ],
@@ -272,7 +272,7 @@ const lonavla: CityContent = {
     {
       question: "What happens after my Lonavla website goes live?",
       answer:
-        "You get five months of free maintenance for fixes, security updates and small edits like tariff changes. After that, maintenance starts at ₹8,000 a month. The domain, hosting, code and app store accounts remain in your name throughout, so you can move to another developer whenever you like without losing bookings or data.",
+        "You get two months of free maintenance for fixes, security updates and small edits like tariff changes. After that, maintenance starts at ₹8,000 a month. The domain, hosting, code and app store accounts remain in your name throughout, so you can move to another developer whenever you like without losing bookings or data.",
     },
     {
       question: "Do you also work with businesses in Khandala, Talegaon or Karjat?",

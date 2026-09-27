@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Large custom modules", `From ${P.software}`],
     ["OpenCart 4 needs", "PHP 8.0 or higher"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After a new build", "5 months of free maintenance"],
+    ["After a new build", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can read your store's code" },
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your hosting account, database, domain, OpenCart admin and gateway credentials should always be in your name. An OpenCart developer needs temporary access, not ownership. We ask for a separate admin user and an SFTP or control panel login created for us, and we ask you to remove them when the work ends.`,
         `Every job ends with a short note: what was changed, which files or extensions were added, where backups are, and anything to watch. Custom extensions come with their source code and a readme. If we worked on a staging copy, the staging site is removed or password-protected so it does not appear in search results.`,
-        `For new or rebuilt stores, the first five months after launch include free maintenance. For existing stores, ongoing care starts at ${P.care} a month if you want it; one-off fixes are billed per approved quote. Any further terms are agreed in writing, and our <a href='/refund-policy/'>refund policy</a> explains how changes are handled.`,
+        `For new or rebuilt stores, the first two months after launch include free maintenance. For existing stores, ongoing care starts at ${P.care} a month if you want it; one-off fixes are billed per approved quote. Any further terms are agreed in writing, and our <a href='/refund-policy/'>refund policy</a> explains how changes are handled.`,
       ],
     },
     {
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Should I hire a freelance OpenCart developer or an agency?", answer: "For fixes, extensions, upgrades and ongoing care, a small freelance team is usually the better fit: you talk directly to the developers, costs stay lower and the same people learn your store. An agency fits projects needing many specialists at once. Our three developers cover PHP, hosting, SEO and project management, with backup cover if one is unavailable." },
     { question: "Is it safe to give an OpenCart developer access to my store?", answer: "It is safe when access is limited and temporary. Create a separate admin user and an SFTP or hosting login just for the developer, rather than sharing your own passwords, and remove them when the job ends. Insist on a full backup before changes and on work being done on a staging copy. Those habits protect you from any developer's mistakes." },
     { question: "Who owns the code for custom OpenCart extensions?", answer: "You receive the full source code of any custom extension we build for your store, along with a short readme. OpenCart itself is licensed under the GNU GPL version 3, and your hosting, database, domain and admin accounts remain in your name throughout. Specific terms for any project are confirmed in your written quote." },
-    { question: "Do you offer monthly maintenance for OpenCart stores?", answer: `Yes. Ongoing care starts at ${P.care} a month and covers backups, tested updates, small fixes and routine changes such as banners and product edits. New or rebuilt stores get five months of free maintenance after launch first. For existing stores, you can also book one-off fixes without a monthly plan.` },
+    { question: "Do you offer monthly maintenance for OpenCart stores?", answer: `Yes. Ongoing care starts at ${P.care} a month and covers backups, tested updates, small fixes and routine changes such as banners and product edits. New or rebuilt stores get two months of free maintenance after launch first. For existing stores, you can also book one-off fixes without a monthly plan.` },
     { question: "How do I pay for OpenCart work?", answer: "In India, pay by UPI or bank transfer; international clients pay by Wise, bank wire or PayPal, with quotes in USD. The itemised quote lists what each payment covers, and nothing is billed until you approve it in writing. Our terms and refund policy pages explain how scope changes are handled during a job." },
     { question: "Can you connect my OpenCart store to WhatsApp?", answer: `Yes. We can send order confirmations, dispatch updates with tracking links and abandoned-cart reminders on WhatsApp through the WhatsApp Business Platform, and add a WhatsApp enquiry button for bulk or custom orders. WhatsApp automation starts at ${P.ai}, and the messages are set up with templates you approve.` },
     { question: "OpenCart store theek karwana hai, kaise shuru karein?", answer: "WhatsApp par apna OpenCart version, PHP version, installed extensions ki list aur problem ka screenshot bhejiye. Hum error log dekh kar lagbhag 2 working days mein itemised quote bhejenge, jisme urgent fix aur upgrade alag-alag likhe honge. Kaam hamesha backup lekar staging copy par hota hai, live store par seedha nahi." },

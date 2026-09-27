@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who design, build and support your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Invoices before you approve the quote in writing" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Hosting", value: "AWS Sydney by default, billed to your own account" },
       { label: "Delivery", value: "Phase one live in 6–12 weeks, later phases quoted separately" },
       { label: "Starting price", value: `Custom web apps from ${P.software}` },
-      { label: "After go-live", value: `5 months free maintenance, then support from ${P.care}` },
+      { label: "After go-live", value: `2 months free maintenance, then support from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom software development costs from Australia",
-    note: `Custom web apps start from ${P.software} for a focused first phase: one database, a few user roles, the screens your team uses daily and one or two integrations. The price climbs with the number of roles, integrations, reports and automated rules, not with lines of code. AWS hosting is billed to your own account, and any Xero, MYOB or ServiceM8 subscription stays with you. After go-live you get five months of free maintenance, then support from ${P.care}. Every quote is itemised in USD, arrives in about two working days, and nothing is billed until you approve it in writing.`,
+    note: `Custom web apps start from ${P.software} for a focused first phase: one database, a few user roles, the screens your team uses daily and one or two integrations. The price climbs with the number of roles, integrations, reports and automated rules, not with lines of code. AWS hosting is billed to your own account, and any Xero, MYOB or ServiceM8 subscription stays with you. After go-live you get two months of free maintenance, then support from ${P.care}. Every quote is itemised in USD, arrives in about two working days, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "Custom software development guide for Australia",
   guide: [
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We are three freelance developers: Ankur Kumar leads full-stack development, Santosh Sharma handles AWS, data and AI, and Vedansh Shrivastava runs project management and process automation. You deal with all three directly, and the same people support the system after go-live.`,
         `We build web apps, integrations, dashboards, portals and companion mobile apps. We do not supply on-site staff in Australia, install hardware or networks, replace your accounting system, or give legal, tax or privacy advice. We are also not the right fit for programmes that need twenty developers at once. If your project needs any of those, we say so in the first conversation.`,
-        `Five months of free maintenance follow go-live, covering fixes and dependency updates while your team settles in. After that, support plans start from ${P.care}, or you can hand everything to another developer or an in-house hire, since the code and accounts are already yours.`,
+        `Two months of free maintenance follow go-live, covering fixes and dependency updates while your team settles in. After that, support plans start from ${P.care}, or you can hand everything to another developer or an in-house hire, since the code and accounts are already yours.`,
       ],
     },
   ],
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a USD quote listing each role, integration and report as its own line, with phase one clearly separated."],
       ["Build in your accounts", "After written approval, we work in your repository and AWS Sydney account, demo every week and log every decision in writing."],
       ["Migrate and go live", "We import and clean the old spreadsheet data, train your staff, and keep the old file read-only until everyone is confident."],
-      ["Support and next phase", `Five months of free maintenance follow; later phases are quoted only after the first is in daily use. Support then starts from ${P.care}.`],
+      ["Support and next phase", `Two months of free maintenance follow; later phases are quoted only after the first is in daily use. Support then starts from ${P.care}.`],
     ],
   },
   faqHeading: "Custom software development in Australia: frequently asked questions",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "What happens to my spreadsheet data?", answer: "We clean and import it as part of the build, usually as a separate line in the quote because messy data takes real time. You check the migrated records before go-live. The old spreadsheet stays read-only for a few weeks as a safety net, then you archive it according to your own retention rules." },
     { question: "What is phased delivery in software development?", answer: "Phased delivery means building the system in stages, each with its own scope, quote and acceptance criteria. Phase one puts one core process into real use quickly; later phases are shaped by how staff actually use it. You can stop after any phase and still own working software." },
     { question: "How do I choose a custom software developer in Australia?", answer: "Send the same brief and a sample of your anonymised data to each candidate. Favour the one who asks about exceptions, shows working software weekly, and puts code and hosting in your name. Ask how backups are tested, who can reach production data and what the handover pack contains." },
-    { question: "Do you offer maintenance after launch?", answer: `Yes. Five months of free maintenance follow go-live, covering fixes and dependency updates. After that, support plans start from ${P.care}. Because the code, documentation and cloud accounts are yours, you can also move support to another developer or an in-house hire whenever you choose.` },
+    { question: "Do you offer maintenance after launch?", answer: `Yes. Two months of free maintenance follow go-live, covering fixes and dependency updates. After that, support plans start from ${P.care}. Because the code, documentation and cloud accounts are yours, you can also move support to another developer or an in-house hire whenever you choose.` },
     { question: "How do I pay for custom software development from Australia?", answer: "Quotes are in USD and itemised. Australian clients usually pay by Wise, international bank wire or PayPal, and invoices are issued from India. Nothing is billed before you approve the written quote. Ask your accountant how GST applies to services imported from overseas; we do not advise on tax." },
     { question: "Can you add AI to our custom software?", answer: `Yes, where it saves real time: reading emailed orders into drafts, summarising job notes, classifying documents or suggesting replies. AI steps start from ${P.ai}. We keep a person in the loop for decisions that affect customers, and design data handling so personal information goes only to services you have approved.` },
     { question: "Will I need a mobile app as well?", answer: `Usually not at first. A responsive web app works on phones and tablets with nothing to install. A native app makes sense when crews need offline use, camera-heavy workflows or push notifications. If so, an iOS and Android app on the same backend starts from ${P.app}.` },

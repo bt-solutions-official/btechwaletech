@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Typical first workflow", "2–4 weeks from mapping to go-live"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Accounts, data and code in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who map, build and support your workflows" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Charges before you approve the quote in writing" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Where people act", value: "WhatsApp, email, a web form or a phone-friendly dashboard" },
       { label: "Records kept", value: "Who did what, when, and what changed, for every request" },
       { label: "Proof it worked", value: "Before-and-after time log per process" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Approval by amount or department", "Rules live in people’s heads", "Needs careful condition logic", "Approval matrix agreed on paper first, then built"],
       ["Time to start", "Already running", "Days, depending on who has time", "2–4 weeks for a first workflow"],
       ["Cost to start", "Nothing visible, hidden in staff hours", "Tool subscription plus internal time", `From ${P.ai}; custom app from ${P.software}`],
-      ["Change when the process changes", "Tell everyone again", "Whoever built it must remember how", "Documented flow, free changes for 5 months"],
+      ["Change when the process changes", "Tell everyone again", "Whoever built it must remember how", "Documented flow, free changes for 2 months"],
       ["Proof of hours saved", "None", "Rarely measured", "Before-and-after time log agreed at the start"],
       ["Works with Tally, Zoho or Sheets", "Copy-paste", "Depends on connectors", "API or file-based sync built and tested"],
       ["Scale ceiling", "Breaks around a few dozen requests a day", "Depends on tool limits", "Three developers; not suited to company-wide ERP rollouts"],
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a single automated workflow built on a workflow tool or with scripts starts at ${P.ai} (${P.aiUsd}) and usually takes 2–4 weeks. A custom workflow application with its own screens, roles and database starts at ${P.software} and takes 6–12 weeks. These are starting prices; the itemised quote reflects your process.`,
         `The biggest cost drivers are branches and systems. A request that goes to one approver and then to accounts is simple. One that routes by five amount bands, three departments and two locations, with deputies and escalations, needs more building and much more testing. Each system we connect, such as Tally, Zoho, an ERP or Google Sheets, adds integration and error handling.`,
-        `Across the market, quotes for “automation” vary widely, largely because some include mapping, testing and training while others only build what you describe. Compare scope first. Tool subscriptions are separate and paid by you to the vendor. After the free five months, maintenance starts at ${P.care} a month if you want it. The detailed breakdown for small businesses is on <a href='/ai-automation-cost-for-small-business/'>AI automation cost for small business</a>.`,
+        `Across the market, quotes for “automation” vary widely, largely because some include mapping, testing and training while others only build what you describe. Compare scope first. Tool subscriptions are separate and paid by you to the vendor. After the free two months, maintenance starts at ${P.care} a month if you want it. The detailed breakdown for small businesses is on <a href='/ai-automation-cost-for-small-business/'>AI automation cost for small business</a>.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Agree rules and quote", "You sign off the to-be map and approval matrix. An itemised quote follows in about two working days; nothing is billed before written approval."],
       ["Build in your accounts", "The workflow is built in your tool account or on your server, with logs, reminders and integrations to Tally, Zoho, Sheets or email."],
       ["Pilot, then switch over", "A small group uses it on real requests for one to two weeks. We fix gaps, train the rest of the team, and pick a go-live date."],
-      ["Measure and support", "After a month you get a before-and-after report. Changes and fixes are free for five months, then maintenance continues from " + P.care + " if you want it."],
+      ["Measure and support", "After a month you get a before-and-after report. Changes and fixes are free for two months, then maintenance continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Business process automation services: questions SMEs ask",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Can you connect workflows to Tally, Zoho or our ERP?", answer: "Often, yes. Tally can exchange data through its XML interface or TDL-based approaches, Zoho apps have APIs, and many ERPs offer APIs or file imports. We check what your version supports during mapping and include the integration as a separate line in the quote, with error handling so a failed sync is reported rather than silently lost." },
     { question: "Is business process automation useful for a business with 10 to 20 staff?", answer: "It can be, if one or two processes cause regular delays or mistakes. A small team often gains most from automating purchase approvals, expense claims or a complaint queue. The key is choosing a process that runs often enough to matter; automating something that happens twice a month may not justify the effort." },
     { question: "Who owns the workflows and data after the project?", answer: "You do. Workflows are built in your own tool account, Microsoft 365 tenant, Zoho organisation or cloud server, and the data stays there. We hand over admin access, documentation of each flow and the approval matrix, and any custom code. If you later change developers, the new person can pick up from the documentation." },
-    { question: "What happens when the process changes after go-live?", answer: `Processes change: a new approver, a new band, a new branch. For five months after launch, BtechWaleTech makes such changes free as part of maintenance. After that, maintenance starts at ${P.care} a month if you want it, or your own admin can make simple changes using the documentation we hand over.` },
+    { question: "What happens when the process changes after go-live?", answer: `Processes change: a new approver, a new band, a new branch. For two months after launch, BtechWaleTech makes such changes free as part of maintenance. After that, maintenance starts at ${P.care} a month if you want it, or your own admin can make simple changes using the documentation we hand over.` },
     { question: "Do you sign an NDA before we share process details?", answer: "Many clients share internal documents and vendor data during mapping, so confidentiality is a fair question. Ask us before the mapping call and we will discuss it; the terms that apply to your project are recorded in your written quote. Our general terms are on the terms page, and you can share only anonymised sample requests until you are comfortable." },
     { question: "Can AI make approval decisions automatically?", answer: "We do not recommend letting AI approve requests that involve money or customers. AI is useful for reading bills, classifying emails and summarising long requests, with a person confirming. Approval logic should stay as clear rules and named approvers, so your auditor and staff can always see why something was approved or rejected." },
     { question: "How is business process automation different from RPA?", answer: "Business process automation redesigns and routes a whole process between people and systems, usually through APIs, forms and workflow rules. RPA, robotic process automation, uses software bots that mimic clicks and typing on screens, which helps when an old system has no API. Many projects use workflow automation first and add RPA only for a screen that cannot be reached any other way." },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Pick one process and send it to us",
-    note: `Tell us on WhatsApp which internal process wastes the most time, and how often it runs. We will suggest a first workflow, map it with your team and send an itemised quote in about two working days. Automation starts at ${P.ai}, with five months of free maintenance after go-live.`,
+    note: `Tell us on WhatsApp which internal process wastes the most time, and how often it runs. We will suggest a first workflow, map it with your team and send an itemised quote in about two working days. Automation starts at ${P.ai}, with two months of free maintenance after go-live.`,
   },
 };
 

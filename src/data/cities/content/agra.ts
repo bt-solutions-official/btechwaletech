@@ -7,7 +7,7 @@ const agra: CityContent = {
   meta: {
     title: "IT Services in Agra | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, SEO and WhatsApp automation for Agra hotels, tour operators, footwear makers and shops. Sites from ₹10,000 with five months of free maintenance.",
+      "Websites, SEO and WhatsApp automation for Agra hotels, tour operators, footwear makers and shops. Sites from ₹10,000 with two months of free maintenance.",
     keywords: [
       "website development team in Agra",
       "website designer in Agra",
@@ -31,11 +31,11 @@ const agra: CityContent = {
     eyebrow: "Agra · Uttar Pradesh",
     h1: "Web design, SEO and automation for Agra's hotels, shoe makers and traders",
     lede:
-      "We are three remote engineers building booking sites for Tajganj guesthouses, catalogues for Hing Ki Mandi footwear units, petha and handicraft stores, and WhatsApp systems for busy Agra offices. Prices are on our website, the domain stays in your name, and maintenance for the first five months after launch is included at no charge.",
+      "We are three remote engineers building booking sites for Tajganj guesthouses, catalogues for Hing Ki Mandi footwear units, petha and handicraft stores, and WhatsApp systems for busy Agra offices. Prices are on our website, the domain stays in your name, and maintenance for the first two months after launch is included at no charge.",
     pills: ["Websites from ₹10,000", "Direct bookings for hotels", "Footwear export catalogues", "Hindi and English SEO", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Agra, our business websites start at ₹10,000 and go live in one to two weeks, while a 299+ page SEO site suited to hotels, tour operators or exporters starts at ₹20,000. Online stores start at ₹50,000. We are a remote three-engineer team with no local office, and five months of maintenance are free after launch.",
+    "In Agra, our business websites start at ₹10,000 and go live in one to two weeks, while a 299+ page SEO site suited to hotels, tour operators or exporters starts at ₹20,000. Online stores start at ₹50,000. We are a remote three-engineer team with no local office, and two months of maintenance are free after launch.",
   snapshot: [
     { label: "Tourism belt", value: "Taj Mahal, Agra Fort and Fatehpur Sikri, with hotels clustered along Fatehabad Road and in Tajganj" },
     { label: "Footwear trade", value: "Hing Ki Mandi, Sadar Bhatti, Moti Katra and Shahganj, with component units in Foundry Nagar and Sikandra" },
@@ -52,7 +52,7 @@ const agra: CityContent = {
     ai: "WhatsApp and email assistants that answer tour timings, room rates or shoe MOQs at any hour and hand bookings to your staff.",
     data: "Occupancy, season-wise booking, export order and dealer sales reports combined into dashboards you can read on your phone.",
     app: "Android and iOS apps for guests, guides and dealers, with digital itineraries and reorder screens, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Rate and season updates, new product photos, backups and security patches, free for five months and then from ₹8,000 a month.",
+    maintenance: "Rate and season updates, new product photos, backups and security patches, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Agra businesses often deal with two extremes: tiny operators who build a site and vanish, and large booking platforms that take a big commission on every room. We sit in between. You get a proper website that brings direct enquiries, published prices, a team that replies on WhatsApp all week, and full ownership of everything we build.",
@@ -164,11 +164,11 @@ const agra: CityContent = {
     },
     {
       id: "ownership-agra",
-      heading: "Keeping ownership, and five months of free upkeep",
+      heading: "Keeping ownership, and two months of free upkeep",
       paragraphs: [
         "Many Agra hotels and shops have lost websites because the domain was bought by a former employee or a developer who later disappeared. When the renewal lapses, the site goes offline, and the listing people have been sharing for years stops working. Sometimes the domain is snapped up by someone else.",
         "We register your domain in your name, open hosting in your name, and hand over every login at launch, along with the full code and a short document listing what renews when. You can change developers at any time without any fee or permission from us.",
-        "Maintenance is free for the first five months after launch. That covers rate and season updates, adding new tours or products, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when something needs changing. For hotels with seasonal rates, the monthly plan usually pays for itself in time saved.",
+        "Maintenance is free for the first two months after launch. That covers rate and season updates, adding new tours or products, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when something needs changing. For hotels with seasonal rates, the monthly plan usually pays for itself in time saved.",
       ],
     },
     {
@@ -272,7 +272,7 @@ const agra: CityContent = {
         "Yes. Because we work remotely, we serve clients across the region on the same terms, including Mathura and Vrindavan temple-town businesses, Firozabad glass and bangle units, Fatehpur Sikri guides, and firms in Tundla, Shikohabad and Bharatpur.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You can continue on a monthly plan from ₹8,000, which covers updates, backups, security patches and speed checks, or simply contact us when you need a change and pay per task. You keep full access to your site either way.",
     },

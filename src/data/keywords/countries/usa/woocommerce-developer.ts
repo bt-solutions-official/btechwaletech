@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering PHP, databases and hosting" },
     { value: "2", label: "Working days to an itemized quote" },
-    { value: "5", label: "Months of free maintenance after a store launch" },
+    { value: "2", label: "Months of free maintenance after a store launch" },
     { value: "0", label: "Platform transaction fees added by us" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Fixes, add-ons, speed audits", value: `From ${P.site}` },
       { label: "New store or rebuild", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom plugin or integration", value: `From ${P.software}` },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
       { label: "Hosting", value: "Your account; we set up or tune it" },
       { label: "Not a fit", value: "Stores wanting zero server responsibility; Shopify suits them better" },
     ],
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
       ["Code and database ownership", "Hosted platform; you export data", "Yours, if they hand it over", "Yours; repository and hosting in your name"],
       ["Custom checkout logic", "Limited below Plus", "Varies by person", "Update-safe custom plugin"],
       ["Hosting and security", "Handled by the platform", "Often left to you", "We set up, tune and monitor your hosting"],
-      ["Monthly cost pattern", "Plan fee plus apps", "Per fix", `Care plan from ${P.care} after 5 free months`],
+      ["Monthly cost pattern", "Plan fee plus apps", "Per fix", `Care plan from ${P.care} after 2 free months`],
       ["Migration effort", "Full replatform, redirects, retraining", "None", "None; we improve what exists"],
       ["Sales tax and carrier rates", "Built-in or apps", "Depends on skill", "Configured and tested with sample orders"],
       ["Large-catalog speed", "Platform-managed", "Often a caching plugin only", "Database, HPOS, object cache and query fixes"],
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a WooCommerce developer for hire cost?",
       paragraphs: [
-        `It depends on the job: with us, fixes and small add-ons start at ${P.site}, a full store at ${P.shop} and a custom plugin or integration at ${P.software}. Monthly care starts at ${P.care} after five free months.`,
+        `It depends on the job: with us, fixes and small add-ons start at ${P.site}, a full store at ${P.shop} and a custom plugin or integration at ${P.software}. Monthly care starts at ${P.care} after two free months.`,
         `The biggest price drivers are catalog size and data quality, the number of plugins involved, custom checkout or subscription logic, integrations with outside systems and whether hosting needs changing. A speed project on a store with 50,000 products and ten years of orders is a different job from one on a 200-product store, even if the symptom is the same.`,
         `Other WooCommerce developers quote across a wide range, reflecting location, overhead and what support is included. We do not quote other people’s rates. We send an itemized quote so you can compare lines, remove what you do not need and see the new total. For a wider view of hiring models, see <a href='/usa/cost-to-hire-web-developer/'>the cost to hire a web developer</a>; for WordPress work without a store, see <a href='/usa/wordpress-website-design/'>WordPress website design</a>.`,
       ],
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A WooCommerce store is only as safe as its oldest plugin. Regular updates, fewer plugins, strong admin access controls and tested backups prevent most problems.`,
         `Our care routine: update WordPress core, WooCommerce, themes and extensions on staging first, run through checkout with test payments, then apply to live. We keep daily backups on storage separate from the server and test restoring them. We remove plugins nobody uses, since inactive code can still carry vulnerabilities. Admin accounts get strong passwords and two-factor authentication, and we give each person their own login rather than sharing one.`,
-        `Card data should never touch your server; gateway extensions use hosted fields or redirects. We check that forms and admin pages run over HTTPS, that file permissions are sensible and that the hosting firewall is on. None of this is glamorous, but it is the reason a care plan exists. After launch, five months of maintenance are free, then plans start at ${P.care}. Details are on our <a href='/usa/website-maintenance-services/'>website maintenance page</a>.`,
+        `Card data should never touch your server; gateway extensions use hosted fields or redirects. We check that forms and admin pages run over HTTPS, that file permissions are sensible and that the hosting firewall is on. None of this is glamorous, but it is the reason a care plan exists. After launch, two months of maintenance are free, then plans start at ${P.care}. Details are on our <a href='/usa/website-maintenance-services/'>website maintenance page</a>.`,
       ],
     },
     {
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a hypothetical auto and hardware parts seller in Ohio runs WooCommerce with 40,000 products, eight years of orders, flat-rate shipping and tax calculated only for Ohio. Pages feel slow and heavy items lose money on shipping. The owner asks whether to hire a WooCommerce developer or move platforms. This is an illustration, not a real client.`,
         `Step one is an audit on a staging copy: plugin list, slow queries, database size, HPOS status and scheduled-action backlog. Step two fixes the database: HPOS migration after compatibility checks, cleanup of old transients and meta, a persistent object cache and indexed product search. Step three fixes shipping: product weights and dimensions audited, warehouse boxes configured and live USPS, UPS and FedEx rates shown for ground and two-day only.`,
-        `Step four connects a tax service for the states the seller’s accountant lists and maps tax codes for exempt fleet buyers. The quote would price the audit and fixes separately, with smaller items from ${P.site} and the integration work under the custom line from ${P.software}. The seller keeps the store, its URLs and its search history, and skips a replatform. Five months of maintenance follow at no charge.`,
+        `Step four connects a tax service for the states the seller’s accountant lists and maps tax codes for exempt fleet buyers. The quote would price the audit and fixes separately, with smaller items from ${P.site} and the integration work under the custom line from ${P.software}. The seller keeps the store, its URLs and its search history, and skips a replatform. Two months of maintenance follow at no charge.`,
       ],
     },
     {
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
       ["Itemized USD quote", "About two working days later you receive a quote with each fix or feature priced separately, including anything we found along the way."],
       ["Approve and build", "After written approval we build on staging, keeping custom code in its own plugin under version control."],
       ["Test and deploy", "Checkout, payments, tax, shipping and renewals are tested on staging, then changes go live at a quiet hour with a backup."],
-      ["Handover and care", "You receive change notes and code, followed by five months of free maintenance and an optional care plan."],
+      ["Handover and care", "You receive change notes and code, followed by two months of free maintenance and an optional care plan."],
     ],
   },
   faqHeading: "WooCommerce developer for hire: questions from US sellers",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Who owns the code you write for my store?", answer: "You do. Custom work lives in a plugin in a repository your business owns, and the store, hosting, domain and payment accounts stay in your name. At handover you receive change notes and access details. If you move to another developer later, they can pick up the work without needing anything from us." },
     { question: "How long does a WooCommerce developer for hire take to finish a project?", answer: "Small fixes often take days once access is ready. A full store build takes four to eight weeks with us, and custom plugins or integrations six to twelve weeks. Speed and HPOS projects depend on catalog size and plugin compatibility. We give a timeline in the quote and flag anything that depends on third-party vendors." },
     { question: "Can a remote WooCommerce developer for hire in India handle my US store?", answer: "Yes, for scoped work. US Eastern mornings overlap with IST evenings, so issues you report in your day are usually fixed on staging by your next morning. We do not offer on-site visits or instant around-the-clock response, so stores that need live emergency cover at any hour should plan for that separately." },
-    { question: "Will you keep my WooCommerce store updated after launch?", answer: `Yes. The first five months after launch are free. Then care plans start at ${P.care} and cover staged updates for WordPress, WooCommerce and extensions, tested backups, monitoring and small edits. Larger features are quoted separately so the monthly cost stays predictable.` },
+    { question: "Will you keep my WooCommerce store updated after launch?", answer: `Yes. The first two months after launch are free. Then care plans start at ${P.care} and cover staged updates for WordPress, WooCommerce and extensions, tested backups, monitoring and small edits. Larger features are quoted separately so the monthly cost stays predictable.` },
     { question: "Does WooCommerce hurt SEO compared with Shopify?", answer: "No. WooCommerce gives full control over URLs, templates and schema, which can help SEO when used well. The usual problems are slow pages, duplicate filter URLs and thin category pages, and all of those are fixable. Nobody can guarantee rankings, but a fast, well-structured store gives search and AI engines clear content to work with." },
     { question: "Can you connect WooCommerce to our ERP or inventory system?", answer: `Yes, when the system has a documented API or import format. We build a custom plugin that syncs products, stock, orders and customers, with logging so failures are visible. Integration work starts at ${P.software}. Poorly documented vendor systems take longer, and we flag that risk before you approve the quote.` },
     { question: "How do I pay and what contract do we use?", answer: "We invoice in USD from India, paid by bank wire, Wise or PayPal. The basis of the work is your itemized written quote plus our published terms and refund policy, and nothing is billed before written approval. Send your own NDA or contract before the project starts if you need one." },

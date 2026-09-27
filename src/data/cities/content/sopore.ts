@@ -56,7 +56,7 @@ const sopore: CityContent = {
     ai: "WhatsApp assistants that answer rate, box size and dispatch questions from outstation buyers and hand real negotiations back to you.",
     data: "Season dashboards of boxes received, lots sold, buyer dues and grower payments, updated from your own sheets or software.",
     app: "Android and iOS apps that let growers check sale reports and payments or let buyers book apple consignments, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates and security patches.",
   },
   whyUsIntro:
     "Sopore traders deal in large sums during a short season and remember who delivered. We publish starting prices, give written itemised quotes, reply on WhatsApp on all seven days and set up the domain, hosting, code and app store accounts under your name. When something will not earn back its cost, we tell you before you spend.",
@@ -185,7 +185,7 @@ const sopore: CityContent = {
       heading: "Ownership and maintenance for Sopore websites and apps",
       paragraphs: [
         "Everything we build for you is registered in your name: the domain, the hosting account, the source code, the Google Business Profile and the Google Play and App Store developer accounts. If you ever decide to work with someone else, you already hold every login and nothing has to be negotiated.",
-        "After launch you get five months of free maintenance. That covers fixes, small content updates, security patches and help if something breaks. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular care, such as mandi software used daily through the season.",
+        "After launch you get two months of free maintenance. That covers fixes, small content updates, security patches and help if something breaks. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular care, such as mandi software used daily through the season.",
         "For a simple shop website that rarely changes, you may not need monthly maintenance at all. We will explain how to update prices and photographs yourself and step in only when you ask.",
         "Before each apple season we suggest a short check of any software or app you rely on: backups, speed, user accounts and the rate list. Problems found in July are far easier to fix than problems found in October.",
       ],
@@ -279,7 +279,7 @@ const sopore: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Every project gets five months of free maintenance after launch, covering fixes, small updates and security patches. After that, maintenance starts at ₹8,000 a month. Simple shop websites may not need it; software used daily through the apple season usually does.",
+        "Every project gets two months of free maintenance after launch, covering fixes, small updates and security patches. After that, maintenance starts at ₹8,000 a month. Simple shop websites may not need it; software used daily through the apple season usually does.",
     },
     {
       question: "Do you work with businesses near Sopore, like Baramulla or Bandipora?",

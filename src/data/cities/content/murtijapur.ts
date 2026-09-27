@@ -56,7 +56,7 @@ const murtijapur: CityContent = {
     ai: "Marathi WhatsApp assistants that quote rates, note down orders, and hand any real decision back to you with the chat attached.",
     app: "Android and iOS apps from ₹40,000 for arrival alerts to farmers, dealer re-ordering or parent notices, published on Google Play and the App Store under your accounts.",
     data: "Season dashboards showing arrivals by commodity, bales pressed, oil recovery, credit outstanding and collection days.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "Trade in Murtijapur runs on reputation and on written slips, and that is roughly how we work too. Starting prices are published, the quote lists every item, WhatsApp is answered all seven days on Indian time, and your domain, hosting, source code and store accounts are registered to you rather than to us. When a feature will not earn back what it costs in a mandi town this size, we say so before you spend.",
@@ -186,7 +186,7 @@ const murtijapur: CityContent = {
       heading: "Who owns your Murtijapur website and app, and what maintenance covers",
       paragraphs: [
         "Everything we build belongs to you on paper and in practice. The domain is booked on your email, the hosting account is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you get a written sheet with every login on it. That single sheet is what stops any developer, us included, from holding a business hostage later, and it is worth asking for from whoever you hire.",
-        "For the first five months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check now and then that the enquiry form, the payment step and the WhatsApp button still work. When those months are over you choose: stay with us from ₹8,000 a month, run it yourself, or hand the code to any other developer in Akola or Amravati.",
+        "For the first two months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check now and then that the enquiry form, the payment step and the WhatsApp button still work. When those months are over you choose: stay with us from ₹8,000 a month, run it yourself, or hand the code to any other developer in Akola or Amravati.",
         "Apps need attention once a year even when nothing has broken, because Google and Apple keep raising the minimum versions they will accept in their stores. We track those deadlines and ship the rebuild before the cut-off, so your listing is never pulled while your customers are looking for it. Websites need less, but a yearly check on the domain renewal, the SSL certificate and the contact form is the difference between a small task and a lost season.",
       ],
     },
@@ -278,7 +278,7 @@ const murtijapur: CityContent = {
     {
       question: "What does maintenance include after my Murtijapur site goes live?",
       answer:
-        "For five months after launch you pay nothing: we handle rate and photograph edits, backups, security patches and periodic checks of your form, payment step and WhatsApp link. After that it is your choice to continue from ₹8,000 a month, manage it in-house, or move to another developer. Because every account is already in your name, moving needs no permission from us.",
+        "For two months after launch you pay nothing: we handle rate and photograph edits, backups, security patches and periodic checks of your form, payment step and WhatsApp link. After that it is your choice to continue from ₹8,000 a month, manage it in-house, or move to another developer. Because every account is already in your name, moving needs no permission from us.",
     },
     {
       question: "Do you also work in Akola, Karanja, Daryapur and Yavatmal?",

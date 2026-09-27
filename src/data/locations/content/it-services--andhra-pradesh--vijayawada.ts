@@ -7,7 +7,7 @@ const content: CityContent = {
   meta: {
     title: "Hire Freelance Software & App Developers in Vijayawada",
     description:
-      "Hire freelance software developers in Vijayawada for billing tools, apps, AI agents, dashboards and SEO. From ₹10,000, quote in 2 days, 5 months free support.",
+      "Hire freelance software developers in Vijayawada for billing tools, apps, AI agents, dashboards and SEO. From ₹10,000, quote in 2 days, 2 months free support.",
     keywords: [
       "software development team in Vijayawada",
       "IT services team in Vijayawada",
@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Web apps from ₹60,000", "WhatsApp + AI from ₹40,000", "Transport and wholesale tools", "Telugu interfaces", "Pay by UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers freelance software developers to Vijayawada businesses remotely: three engineers building custom software from ₹60,000, Android and iOS apps and AI automation from ₹40,000, stores from ₹50,000 and websites from ₹10,000. Projects take one to twelve weeks, itemised quotes arrive in about two working days, and maintenance is free for five months.",
+    "BtechWaleTech offers freelance software developers to Vijayawada businesses remotely: three engineers building custom software from ₹60,000, Android and iOS apps and AI automation from ₹40,000, stores from ₹50,000 and websites from ₹10,000. Projects take one to twelve weeks, itemised quotes arrive in about two working days, and maintenance is free for two months.",
   snapshot: [
     { label: "City role", value: "Commercial capital of central coastal Andhra on the Krishna river, in NTR district, next to the Amaravati capital region" },
     { label: "Transport hub", value: "Vijayawada Junction is one of South India's busiest rail junctions; the city is also a major lorry and bus transport base" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents for Vijayawada colleges, clinics and dealers that answer common WhatsApp questions in Telugu or English and pass on real leads.",
     data: "Owner dashboards for Vijayawada wholesalers and transporters covering credit, stock, trips and collections across coastal Andhra.",
     app: "Android and iOS apps from ₹40,000 for Vijayawada dealers, drivers, mechanics and students, built in Flutter or React Native and listed on Google Play and the App Store.",
-    maintenance: "Fixes, updates, backups and uptime checks for Vijayawada systems, free for five months, then from ₹8,000 a month.",
+    maintenance: "Fixes, updates, backups and uptime checks for Vijayawada systems, free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Vijayawada owners tend to know exactly what they want and dislike paying for layers of sales staff. That suits how we work: a freelance group of three engineers who talk to you directly, quote in writing and answer on WhatsApp seven days a week.",
@@ -159,7 +159,7 @@ const content: CityContent = {
       paragraphs: [
         "Dashboards for Vijayawada owners pull data from billing software, Tally, Google Sheets and apps into one screen that shows sales, collections, stock, trips or admissions as of this morning. They replace the habit of calling the accountant for numbers and waiting until month-end for a clear picture.",
         "We host every system properly: applications on AWS in the Hyderabad or Mumbai region with daily backups and monitoring, websites built with Astro on fast edge networks, and code in a Git repository owned by your business. Updates go to a staging copy first and then to live, so a fix never breaks the counter during business hours.",
-        "Support after launch covers bug fixes, updates, backups and small changes, free for five months and from ₹8,000 a month after that. Because we are remote, we do not provide on-site hardware, printer or network repairs; a local technician is still needed for that.",
+        "Support after launch covers bug fixes, updates, backups and small changes, free for two months and from ₹8,000 a month after that. Because we are remote, we do not provide on-site hardware, printer or network repairs; a local technician is still needed for that.",
       ],
     },
     {
@@ -219,7 +219,7 @@ const content: CityContent = {
       paragraphs: [
         "Software development in Vijayawada with BtechWaleTech starts at ₹60,000 for custom web apps, ₹40,000 for Android and iOS apps or AI and WhatsApp automation, ₹50,000 for ecommerce and ₹10,000 for a static website. Typical timelines are six to twelve weeks for software, six to ten weeks for apps, two to four weeks for automation, four to eight weeks for stores and one to two weeks for a basic website.",
         "The final price depends on screens, user roles, integrations with Tally, WhatsApp or courier services, data migration from old books or software, and how quickly you can supply content and approvals. Full plan details are on the <a href='/pricing/'>pricing page</a>.",
-        "Payment is made only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote. Five months of maintenance after launch are included.",
+        "Payment is made only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote. Two months of maintenance after launch are included.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const content: CityContent = {
     { question: "Can the software and website be in Telugu?", answer: "Yes. We build Telugu interfaces and bilingual Telugu-English websites with proper fonts, and AI agents that understand Telugu and Tenglish messages. Telugu content is written or reviewed by a native speaker you approve. Our own calls are in English or Hindi." },
     { question: "What does an AI agent cost?", answer: "AI automation starts from ₹40,000 and usually takes two to four weeks. That covers workflow mapping, WhatsApp Business API and tool integrations, the agent itself, testing and handover. Language model and messaging usage is billed by those providers directly to your account." },
     { question: "Will we own the code and data?", answer: "Yes. The domain, hosting, cloud account, WhatsApp Business account and Git repository are registered to your business wherever possible. You receive all credentials and a short technical guide at handover. If you ever switch developers, you simply remove our access." },
-    { question: "What maintenance is included?", answer: "Five months of maintenance come free after launch: bug fixes, small content changes, security and dependency updates, backups, uptime monitoring and speed checks. After that, monthly maintenance starts from ₹8,000, or you can pay only for specific changes." },
+    { question: "What maintenance is included?", answer: "Two months of maintenance come free after launch: bug fixes, small content changes, security and dependency updates, backups, uptime monitoring and speed checks. After that, monthly maintenance starts from ₹8,000, or you can pay only for specific changes." },
     { question: "Do you provide on-site IT support in Vijayawada?", answer: "No. We support the software, websites and automations we build, remotely. For printers, CCTV, office networks or computer repairs, you will need a local technician. Many clients keep a local hardware vendor and use us for everything software-related." },
     { question: "How long does SEO take to work for a Vijayawada business?", answer: "Local results can improve within a few weeks after technical fixes and a well-kept Google Business Profile. Competitive searches across Vijayawada usually take three to six months or longer. We report progress from Search Console monthly and never guarantee specific rankings." },
     { question: "How much does an Android and iOS app cost in Vijayawada?", answer: "Android and iOS apps start from ₹40,000 and take six to ten weeks. That covers one Flutter or React Native app for both platforms with login, forms, push notifications, an admin panel and publishing on Google Play and the App Store. Offline trip entry, GPS or Tally integration add to the price. A website alone is enough if customers only need to find and trust you." },

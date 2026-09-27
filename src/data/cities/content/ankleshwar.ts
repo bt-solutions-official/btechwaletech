@@ -56,7 +56,7 @@ const ankleshwar: CityContent = {
     ai: "WhatsApp assistants that answer product, price and delivery queries in English, Gujarati or Hindi and route serious inquiries to sales.",
     data: "Dashboards of inquiries by product and country, dispatches, tanker turnaround and pending payments.",
     app: "Android and iOS apps for field sales teams, contractor attendance or tanker drivers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Ankleshwar buyers are used to vendor audits, so we behave like a vendor who expects one. Starting prices are published, every quote is itemised, decisions are recorded in writing, WhatsApp is answered seven days a week, and your domain, hosting, code and app store accounts sit in your company's name.",
@@ -177,7 +177,7 @@ const ankleshwar: CityContent = {
       heading: "Ownership and maintenance for Ankleshwar websites and apps",
       paragraphs: [
         "Industrial firms often discover that their domain was registered by a former employee or an old designer, and they cannot renew it without that person. We register the domain, hosting, source code, Google Business Profile and app store accounts in the company's name, and hand over every login in writing.",
-        "Maintenance is free for five months after launch: updates, backups, security patches, software updates and checks on forms, downloads and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue, and you can move the full code to another developer at any time.",
+        "Maintenance is free for two months after launch: updates, backups, security patches, software updates and checks on forms, downloads and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue, and you can move the full code to another developer at any time.",
         "Apps need yearly updates to stay compliant with Google and Apple rules. We track those changes and update in time so your app remains available.",
       ],
     },
@@ -274,7 +274,7 @@ const ankleshwar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free, including updates, backups, security patches and checks on forms, downloads and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. You can take the full code to another developer at any time.",
+        "The first two months are free, including updates, backups, security patches and checks on forms, downloads and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue. You can take the full code to another developer at any time.",
     },
     {
       question: "Do you also work in Panoli, Jhagadia, Bharuch and Dahej?",

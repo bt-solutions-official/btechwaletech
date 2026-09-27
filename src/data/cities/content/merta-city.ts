@@ -56,7 +56,7 @@ const mertaCity: CityContent = {
     ai: "WhatsApp assistants that answer daily rate, room availability and fee questions in Hindi and hand real decisions back to you.",
     data: "Season dashboards of arrivals, lots sold, farmer payments due and spice batches dispatched by buyer and district.",
     app: "Android and iOS apps from ₹40,000 for commission agents' regular buyers or coaching students, listed on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for changes, backups and security fixes.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for changes, backups and security fixes.",
   },
   whyUsIntro:
     "Merta City traders settle accounts in writing and remember who kept their word. So we put everything on paper: published starting prices, an itemised quote, dates, and a promise that billing waits for your approval. WhatsApp is answered every day of the week, and your domain, hosting, code and app accounts are registered to you, not to us.",
@@ -184,7 +184,7 @@ const mertaCity: CityContent = {
       heading: "Your domain, your code: ownership and upkeep for Merta City sites",
       paragraphs: [
         "From the first day, the domain is registered to your email, the hosting account is in your name, and the source code is handed to you. Google Business Profile, Google Play and Apple developer accounts are created with you as owner. At launch you receive a written sheet of every login. If you ever part ways with us, you take everything with you and the site keeps running.",
-        "For five months after launch we maintain it free: rate and photograph updates, backups, security patches, and checks that forms, payment and WhatsApp links work. After that, paid upkeep from ₹8,000 a month is optional; you can also run it yourself or hand it to another developer.",
+        "For two months after launch we maintain it free: rate and photograph updates, backups, security patches, and checks that forms, payment and WhatsApp links work. After that, paid upkeep from ₹8,000 a month is optional; you can also run it yourself or hand it to another developer.",
         "Apps need yearly attention because Google and Apple raise their minimum versions. We watch those deadlines and update early so your app stays listed.",
       ],
     },
@@ -281,7 +281,7 @@ const mertaCity: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "For five months after launch you pay nothing for upkeep: we handle rate and photograph edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, ongoing support starts at ₹8,000 a month and is optional. Every account is already yours, so you are free to move.",
+        "For two months after launch you pay nothing for upkeep: we handle rate and photograph edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, ongoing support starts at ₹8,000 a month and is optional. Every account is already yours, so you are free to move.",
     },
     {
       question: "Do you work with businesses in Merta Road, Gotan and Nagaur?",

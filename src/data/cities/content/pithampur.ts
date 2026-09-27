@@ -56,7 +56,7 @@ const pithampur: CityContent = {
     ai: "WhatsApp assistants that answer Hindi and English questions on rates, stock, job status and vacancies, and hand real decisions to your team.",
     data: "Dashboards showing rejection rates, on-time dispatch, machine hours and outstanding payments by customer plant.",
     app: "Android and iOS apps from ₹40,000 for supervisors, drivers and field sales staff in Pithampur, published on Google Play and the App Store under your account.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Industrial buyers in Pithampur expect specifications, timelines and invoices that match, and so do we. Our starting prices are published, quotes are itemised and written, WhatsApp replies come every day of the week, and the domain, hosting, code and app store accounts sit in your company's name. If a feature will not save time or win orders, we leave it out.",
@@ -176,7 +176,7 @@ const pithampur: CityContent = {
       heading: "Ownership and maintenance for Pithampur websites, apps and software",
       paragraphs: [
         "Companies sometimes discover that their website domain belongs to a former employee or a vanished freelancer. We prevent that: domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your company's name, and the credentials are handed over in writing.",
-        "Maintenance is free for five months after launch, covering content and price updates, backups, security patches, library updates and checks that forms, payments, portals and WhatsApp integrations still work. After that period, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you like.",
+        "Maintenance is free for two months after launch, covering content and price updates, backups, security patches, library updates and checks that forms, payments, portals and WhatsApp integrations still work. After that period, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you like.",
         "Apps need updates every year as Google and Apple revise their rules. We track those changes so your app stays in the stores. For internal software, we keep off-site backups and a documented restore process, because losing a month of dispatch records is far more expensive than any maintenance fee.",
       ],
     },
@@ -268,7 +268,7 @@ const pithampur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, including updates, backups, security patches and checks on forms, portals and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the full code and credentials to another developer at any time.",
+        "The first two months of maintenance are free, including updates, backups, security patches and checks on forms, portals and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the full code and credentials to another developer at any time.",
     },
     {
       question: "Do you also work in Betma, Dhar, Mhow and Indore?",

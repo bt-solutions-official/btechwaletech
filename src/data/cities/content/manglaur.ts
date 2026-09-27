@@ -56,7 +56,7 @@ const manglaur: CityContent = {
     ai: "WhatsApp assistants that answer in Hindi about rates, availability, fees and timings, and forward bookings and quote requests to you.",
     data: "Dashboards of cane trips, workshop jobs, fuel spend and dues per customer, updated from a phone instead of a register.",
     app: "Android and iOS apps from ₹40,000 for driver trip logs, school notices or repeat customer orders, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for changes, backups, security updates and store compliance.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for changes, backups, security updates and store compliance.",
   },
   whyUsIntro:
     "Manglaur traders deal with outsiders every day on the highway and can spot a smooth talker quickly. So we keep things plain: starting prices in public, a quote with every line written out, replies on WhatsApp seven days a week, and your domain, hosting, code and store accounts registered to you from the first day.",
@@ -191,7 +191,7 @@ const manglaur: CityContent = {
       heading: "Your domain, your code, your app accounts: ownership and upkeep",
       paragraphs: [
         "Small businesses often lose a website because whoever built it registered the domain in his own name and later stopped answering calls. We do the opposite. The domain is registered to your email, hosting is billed to you, the source code is handed over in full, and the Google Business Profile, Google Play account and Apple developer account name you as owner. A written sheet of every login is part of handover.",
-        "For five months after launch, maintenance is free: price and content updates, backups, security patches, and regular checks that forms, payments and WhatsApp buttons work. After that, continue with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you like.",
+        "For two months after launch, maintenance is free: price and content updates, backups, security patches, and regular checks that forms, payments and WhatsApp buttons work. After that, continue with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you like.",
         "Apps need a yearly update even when nothing seems wrong, because Google and Apple keep raising their technical requirements, and an outdated app can be removed from the store. We watch those deadlines and update in time, ideally before the cane season or school admissions, when your users need the app most.",
       ],
     },
@@ -274,7 +274,7 @@ const manglaur: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance come free after going live: content and price changes, backups, security updates and checks that forms, payments and WhatsApp links work. After that you can continue from ₹8,000 a month or handle it yourself. Because you hold every account and the code, switching developers needs no permission from us.",
+        "Two months of maintenance come free after going live: content and price changes, backups, security updates and checks that forms, payments and WhatsApp links work. After that you can continue from ₹8,000 a month or handle it yourself. Because you hold every account and the code, switching developers needs no permission from us.",
     },
     {
       question: "Do you work with businesses in Roorkee, Landhaura, Narsan and Bhagwanpur too?",

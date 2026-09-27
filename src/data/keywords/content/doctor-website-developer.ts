@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Typical launch", "1–2 weeks for a clinic site"],
     ["Wording", "Factual, no cure claims or solicitation"],
     ["Ownership", "Domain, hosting and code in your name"],
-    ["Aftercare", "5 months free maintenance"],
+    ["Aftercare", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your clinic’s site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free updates after launch" },
+    { value: "2", label: "Months of free updates after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Slot booking with logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Booking options", value: "WhatsApp, call button, request form, live slots" },
       { label: "Compliance focus", value: "Factual claims, consent, minimal patient data" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Patient app", note: `Appointments, reports and reminders in an Android and iOS app, from ${P.app}.`, href: "/healthcare-app-developer/", size: "md" },
       { name: "WhatsApp reminders and replies", note: `Automated timing and location answers, appointment confirmations and follow-up nudges, from ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "sm" },
       { name: "Redesign of an old clinic site", note: "Remove risky claims, fix mobile layout, keep old page addresses so existing search visibility is not lost.", href: "/website-redesign-freelancer/", size: "sm" },
-      { name: "Upkeep and new doctors", note: `Adding a consultant, changing timings or holiday notices: free for five months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Upkeep and new doctors", note: `Adding a consultant, changing timings or holiday notices: free for two months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Local SEO for your own name", "Helps the platform’s pages", "Sometimes", "Schema, profile alignment, Search Console"],
       ["Patient data", "Held by the platform", "Varies", "Minimal collection, stored in your accounts"],
       ["Cost pattern", "Subscription or per-lead fees", "Varies widely", `Clinic site from ${P.site}, then optional care`],
-      ["Changes to timings or doctors", "You edit the profile", "Paid change requests", "Free for five months after launch"],
+      ["Changes to timings or doctors", "You edit the profile", "Paid change requests", "Free for two months after launch"],
     ],
     fine: "Listing apps are still useful for discovery; many clinics keep a profile there and use their own website as the trusted, owned home base. We are not lawyers, so confirm anything uncertain with your state medical council.",
   },
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A single-doctor clinic site usually goes live in 1–2 weeks once content is ready. A multi-specialty site takes 3–5 weeks, and a booking system with logins takes 6–12 weeks.`,
         `The slow part is almost always content and approvals, because doctors are busy. We plan around that. On the first call, often 30 minutes after OPD hours, we collect the page list, booking method and photos needed. We then send a short questionnaire per doctor (qualifications, registration, specialties, languages, timings) that the clinic manager can fill in. The home page and one doctor profile appear on a staging link first, so the format is agreed before everything else is built.`,
-        `In the second week we add treatment pages, the booking path, schema, speed work and Search Console. The doctor reviews every medical sentence in one sitting using a checklist we provide. Launch happens after approval and final payment, followed by five months of free updates for new timings, holiday notices and staff changes.`,
+        `In the second week we add treatment pages, the booking path, schema, speed work and Search Console. The doctor reviews every medical sentence in one sitting using a checklist we provide. Launch happens after approval and final payment, followed by two months of free updates for new timings, holiday notices and staff changes.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       heading: "Doctor ki website kaise banwaye? Seedhi baat",
       paragraphs: [
         `Doctor ki website mein sabse zaroori hai sahi jaankari: naam, degree, registration number, timing, address aur appointment ka aasaan tareeka. Bade-bade vaade, “pakka ilaaj” jaise shabd aur nakli reviews mat daaliye; medical ethics ke hisaab se website jaankari deni chahiye, prachaar nahi.`,
-        `Hamare saath clinic ki website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Appointment WhatsApp, call ya form se, aur zaroorat ho toh live slot booking ${P.software} se. Domain aur hosting aapke naam par, aur launch ke baad 5 mahine timing ya naye doctor ke badlaav free.`,
+        `Hamare saath clinic ki website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Appointment WhatsApp, call ya form se, aur zaroorat ho toh live slot booking ${P.software} se. Domain aur hosting aapke naam par, aur launch ke baad 2 mahine timing ya naye doctor ke badlaav free.`,
       ],
     },
   ],
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Doctor questionnaire and accounts", "The clinic manager fills in qualifications, registration, timings and languages. Domain and hosting are created in the clinic’s or doctor’s name."],
       ["Preview on a staging link", "Home page and one doctor profile first, then treatment pages and booking. Changes come by WhatsApp from whoever you nominate."],
       ["Claims review and launch", "The doctor approves every medical sentence using our checklist. We connect the domain, enable HTTPS, verify Search Console and hand over logins."],
-      ["Five months of free updates", "New timings, holiday notices, added doctors and small fixes are free for five months; after that, care continues from " + P.care + " if you want it."],
+      ["Two months of free updates", "New timings, holiday notices, added doctors and small fixes are free for two months; after that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Doctor website developer: questions doctors ask",
@@ -384,11 +384,11 @@ const content: FreelanceContent = {
     { question: "Who writes the medical content on a doctor’s website?", answer: "The medical content must come from and be approved by the doctor. A developer can structure pages and turn the doctor’s notes into plain language, but should not invent medical claims. BtechWaleTech drafts from your notes when asked, then runs a claims review where you approve every medical sentence before launch." },
     { question: "Can the website be in Hindi or a regional language?", answer: "Yes. Timings, directions, preparation instructions and FAQs can be offered in Hindi, Tamil, Telugu, Marathi, Malayalam or another language alongside English, with proper language tags so Google shows each patient the right version. This often helps elderly patients and family members who book on their behalf." },
     { question: "Who owns the clinic website and domain?", answer: "The clinic or doctor should own everything. BtechWaleTech registers the domain and hosting with your email and payment method, keeps the code in a repository you can access, and hands over all logins at launch. If a doctor leaves a partnership or you change developers, you keep full control." },
-    { question: "Can you add a new doctor or change timings after launch?", answer: `Yes. Send the details on WhatsApp. For five months after launch, adding a doctor, changing timings, posting holiday notices and small fixes are free. After that, maintenance is optional and starts at ${P.care} a month, or your staff can edit content themselves if the site includes a simple editor.` },
+    { question: "Can you add a new doctor or change timings after launch?", answer: `Yes. Send the details on WhatsApp. For two months after launch, adding a doctor, changing timings, posting holiday notices and small fixes are free. After that, maintenance is optional and starts at ${P.care} a month, or your staff can edit content themselves if the site includes a simple editor.` },
     { question: "Can you build a patient app for my clinic too?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app} using Flutter or React Native, with appointment booking, reminders and reports if needed, published in your own Google Play and App Store accounts. For most single-doctor clinics a fast website with WhatsApp booking is enough; an app makes sense for larger practices with repeat patients.` },
     { question: "Do you visit the clinic to take photos?", answer: "No. BtechWaleTech is three freelance developers working remotely, so we do not visit clinics. We send a simple photo guide so your staff can take clear, well-lit phone photos of the doctor, reception and consultation rooms, or you can hire a local photographer. Real photos matter more than professional polish." },
     { question: "How do payments work for a doctor website project?", answer: "Payments are staged: an advance to begin, a payment after you approve the design on the staging link, and the balance before launch. In India payment is by UPI or bank transfer; international clients pay through Wise, bank wire or PayPal. Nothing is charged until you approve the itemised quote in writing." },
-    { question: "Doctor ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath clinic ki website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Kai doctors ya branches wali website ${P.seoSite} se, aur live appointment booking system ${P.software} se. Quote line by line milta hai, domain aapke naam par hota hai, aur launch ke baad 5 mahine updates free.` },
+    { question: "Doctor ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath clinic ki website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Kai doctors ya branches wali website ${P.seoSite} se, aur live appointment booking system ${P.software} se. Quote line by line milta hai, domain aapke naam par hota hai, aur launch ke baad 2 mahine updates free.` },
   ],
   related: {
     heading: "Related pages for clinics and healthcare",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a doctor website developer? Message us after OPD hours",
-    note: `Tell us your specialty, number of doctors and how patients book today. You will receive an itemised quote in about two working days, with clinic websites from ${P.site}, careful medical wording, accounts in your name and five months of free updates.`,
+    note: `Tell us your specialty, number of doctors and how patients book today. You will receive an itemised quote in about two working days, with clinic websites from ${P.site}, careful medical wording, accounts in your name and two months of free updates.`,
   },
 };
 

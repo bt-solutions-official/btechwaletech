@@ -56,7 +56,7 @@ const gopalganj: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about prices, stock, fees and appointments, and pass anything important to you with the full chat.",
     data: "Season-wise dashboards of paddy bought, rice dispatched, cane delivered or fees collected, readable on a phone.",
     app: "Android and iOS apps for coaching institutes, clinics or wholesale traders in Gopalganj, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security fixes and store rules.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, security fixes and store rules.",
   },
   whyUsIntro:
     "Gopalganj owners have heard many promises from people selling websites and ads. We keep it simple: public starting prices, written itemised quotes, WhatsApp replies every day of the week, and the domain, hosting, code and app store accounts registered in your own name. If something will not earn back its cost, we tell you before you spend.",
@@ -186,7 +186,7 @@ const gopalganj: CityContent = {
       heading: "Ownership and maintenance for Gopalganj websites and apps",
       paragraphs: [
         "A familiar complaint in Bihar's smaller towns: the website stopped working, the builder's phone is switched off, and the domain turns out to belong to him. That cannot happen with our work. Your domain, server account, source code, Google Business Profile and both app store developer accounts are opened in your name, and a written sheet of every login is handed to you at launch.",
-        "For the first five months after going live, upkeep costs nothing. In that time we change prices and text when you ask, run backups, apply security and software updates, and test that enquiry forms, payment pages and WhatsApp buttons still respond. From the sixth month, continued upkeep begins at ₹8,000 per month, and only if you choose it; you may hand the project to anyone else whenever you wish.",
+        "For the first two months after going live, upkeep costs nothing. In that time we change prices and text when you ask, run backups, apply security and software updates, and test that enquiry forms, payment pages and WhatsApp buttons still respond. From the third month, continued upkeep begins at ₹8,000 per month, and only if you choose it; you may hand the project to anyone else whenever you wish.",
         "Mobile apps carry an extra duty. Google and Apple revise their technical and privacy rules every year, and apps that fall behind get hidden or pulled. We watch for those notices and ship the required update before the deadline. Our <a href=\"/services/web-development/\">web development page</a> describes how the sites themselves are built.",
       ],
     },
@@ -278,7 +278,7 @@ const gopalganj: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep are included free once the site or app is live: text and price edits, backups, security and software updates, and regular tests of forms, payments and WhatsApp buttons. Continued support after that begins at ₹8,000 per month, entirely optional, and your code can go with you to any developer.",
+        "Two months of upkeep are included free once the site or app is live: text and price edits, backups, security and software updates, and regular tests of forms, payments and WhatsApp buttons. Continued support after that begins at ₹8,000 per month, entirely optional, and your code can go with you to any developer.",
     },
     {
       question: "Do you work in Hathua, Mirganj, Barauli and Siwan too?",

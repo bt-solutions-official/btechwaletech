@@ -31,11 +31,11 @@ const jodhpur: CityContent = {
     eyebrow: "Jodhpur · Rajasthan",
     h1: "Web, app, SEO and automation services for Jodhpur exporters, hotels, traders and professionals",
     lede:
-      "We are a remote team of three engineers who build websites, export catalogues, online stores and WhatsApp automations for Jodhpur businesses, from Basni furniture workshops to Sardar Market shops and heritage hotels. Our prices are published, quotes are itemised, you own everything we build, and maintenance is free for five months after launch.",
+      "We are a remote team of three engineers who build websites, export catalogues, online stores and WhatsApp automations for Jodhpur businesses, from Basni furniture workshops to Sardar Market shops and heritage hotels. Our prices are published, quotes are itemised, you own everything we build, and maintenance is free for two months after launch.",
     pills: ["From ₹10,000", "Export catalogues", "Heritage stay bookings", "Hindi and English SEO", "UPI stores"],
   },
   quickAnswer:
-    "A Jodhpur business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website costs from ₹20,000, an export catalogue or online store from ₹50,000, and custom software from ₹60,000. We are three engineers working remotely without a Jodhpur office, and five months of maintenance is free after launch.",
+    "A Jodhpur business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website costs from ₹20,000, an export catalogue or online store from ₹50,000, and custom software from ₹60,000. We are three engineers working remotely without a Jodhpur office, and two months of maintenance is free after launch.",
   snapshot: [
     { label: "Old city markets", value: "Ghanta Ghar and Sardar Market, Nai Sarak, Tripolia Bazaar, Sojati Gate and Jalori Gate" },
     { label: "Newer commercial areas", value: "Sardarpura, Shastri Nagar, Ratanada, Paota, Pal Road and Chopasni Housing Board" },
@@ -52,7 +52,7 @@ const jodhpur: CityContent = {
     ai: "WhatsApp automation that sends buyer enquiries, product codes and price requests to the right person and replies instantly to routine questions.",
     data: "Reports on orders, shipments, receivables and product-wise margins, built from Tally exports and the spreadsheets you already use.",
     app: "Android and iPhone apps for sales reps, hotel guests and repeat trade buyers, published on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Catalogue updates, seasonal offers, backups and security work covered free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Catalogue updates, seasonal offers, backups and security work covered free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Jodhpur has web designers on every commercial street and plenty of agencies that serve exporters from Delhi or Jaipur. What most don't do is publish prices, give you the logins or stay reachable after launch. We do all three: fixed starting prices, full ownership from day one, and WhatsApp replies seven days a week.",
@@ -183,11 +183,11 @@ const jodhpur: CityContent = {
     },
     {
       id: "ownership-maintenance-jodhpur",
-      heading: "Full ownership and five months of free maintenance",
+      heading: "Full ownership and two months of free maintenance",
       paragraphs: [
         "Too many Jodhpur businesses have lost control of their website: the domain renewed under a developer's email, the hosting account unreachable, the catalogue frozen in a year when prices were different. For an exporter, an outdated catalogue can cost an order.",
         "From day one, your domain and hosting are in your name. At launch you receive every login, the source code and a short note explaining the setup. You can move to another developer at any time without paying us anything.",
-        "The first five months after launch include free maintenance: product and content updates, bug fixes, security updates, backups and uptime monitoring. After that it costs from ₹8,000 a month, or you can ask for changes only when needed. <a href=\"/contact/\">Tell us what you need</a> and we will send a plan.",
+        "The first two months after launch include free maintenance: product and content updates, bug fixes, security updates, backups and uptime monitoring. After that it costs from ₹8,000 a month, or you can ask for changes only when needed. <a href=\"/contact/\">Tell us what you need</a> and we will send a plan.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const jodhpur: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle content and catalogue updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle content and catalogue updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work with businesses in Pali, Barmer and Nagaur too?",

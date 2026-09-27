@@ -35,7 +35,7 @@ const pali: CityContent = {
     pills: ["Sites from ₹10,000", "Fabric and henna catalogues", "Hindi and English pages", "Buyer enquiries on WhatsApp", "Domain in your own name"],
   },
   quickAnswer:
-    "A basic business website for a Pali firm costs from ₹10,000 with us and takes one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no office in Pali, and maintenance is free for five months after launch.",
+    "A basic business website for a Pali firm costs from ₹10,000 with us and takes one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-person team with no office in Pali, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Where it sits", value: "District headquarters on the Bandi river, about 70 km south-east of Jodhpur" },
     { label: "Main industry", value: "Textile dyeing, printing and processing, spread over Mandia Road, Industrial Area Phase II and Punayata" },
@@ -52,7 +52,7 @@ const pali: CityContent = {
     ai: "WhatsApp assistants that send shade cards, rate lists and minimum order quantities to traders in Surat, Delhi or Kolkata while you are on the factory floor.",
     data: "Dashboards that show which designs, shades or buyers bring in money each month, built from your Tally exports or existing sheets.",
     app: "Android and iOS apps for agents and salesmen who visit markets across Rajasthan and Gujarat and need catalogues offline, from ₹40,000.",
-    maintenance: "Backups, security patches, price updates and uptime checks at no charge for five months, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Backups, security patches, price updates and uptime checks at no charge for two months, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Pali's businesses sell a lot outside Pali: cloth goes to wholesale markets in other states, henna goes overseas, stone goes to builders elsewhere. Yet most of these firms have a phone number and a visiting card and little else online. We build the missing piece at published prices, answer on WhatsApp every day of the week and hand you full ownership.",
@@ -179,7 +179,7 @@ const pali: CityContent = {
       paragraphs: [
         "A familiar story in Pali: a nephew or a local shop made the website years ago, the domain was booked on their account, and now nobody can renew it or change the phone number. The site expires and the business starts from zero.",
         "We avoid that. The domain and hosting are booked in your name from the first day, and you receive all logins, the full source code and a short written note on how everything connects. You can move to another developer whenever you choose, and we charge nothing for handing over.",
-        "Maintenance is free for five months after launch: small text and rate changes, fixes, security updates, backups and uptime monitoring. After that you can continue from ₹8,000 a month or simply message us when something needs changing.",
+        "Maintenance is free for two months after launch: small text and rate changes, fixes, security updates, backups and uptime monitoring. After that you can continue from ₹8,000 a month or simply message us when something needs changing.",
       ],
     },
   ],
@@ -264,9 +264,9 @@ const pali: CityContent = {
         "Yes. We book the domain and hosting in your name, and hand over every login and the complete source code at launch. You can move to any other developer without paying us anything. Losing control of a domain is common in smaller towns, and we set things up so it cannot happen.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Text and rate updates, bug fixes, security patches, backups, uptime checks and speed checks. After five months you can continue from ₹8,000 a month or contact us only when you need something done. There is no lock-in either way.",
+        "Text and rate updates, bug fixes, security patches, backups, uptime checks and speed checks. After two months you can continue from ₹8,000 a month or contact us only when you need something done. There is no lock-in either way.",
     },
     {
       question: "Do you work with businesses in Sojat, Sumerpur, Falna and Jodhpur too?",

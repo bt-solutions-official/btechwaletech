@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Developers on your NGO’s project" },
-    { value: "5", label: "Months of free updates after launch" },
+    { value: "2", label: "Months of free updates after launch" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Transparency", value: "Registration certificates, audited accounts, annual reports" },
       { label: "Website", value: `From ${P.site}, 1–2 weeks` },
       { label: "Donor system or portal", value: `From ${P.software}, 6–12 weeks` },
-      { label: "After launch", value: `5 free months, then from ${P.care}` },
+      { label: "After launch", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Donor management system", note: `Donor records, receipt history, recurring gifts and year-end exports in a private dashboard, from ${P.software}.`, href: "/freelance-crm-developer/", size: "md" },
       { name: "WhatsApp updates and automation", note: `Thank-you messages, receipt links and campaign updates sent automatically to donors who opted in, from ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "sm" },
       { name: "SEO for causes", note: `Programme pages people find when searching for causes they care about, with monthly SEO from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Care after launch", note: `Five free months of edits, then maintenance from ${P.care}, including report uploads.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Care after launch", note: `Two free months of edits, then maintenance from ${P.care}, including report uploads.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Continuity when people leave", "Leaves with the volunteer", "Tied to whoever holds the login", "Accounts in the NGO’s name, documented handover"],
       ["Speed on rural networks", "Varies", "Often script-heavy", "Light pages tested on older Android phones"],
       ["Reports and documents", "Scattered uploads", "Possible but manual", "Organised library by year and type"],
-      ["Security updates", "Irregular", "Handled by the builder", "Included for 5 months, then optional"],
+      ["Security updates", "Irregular", "Handled by the builder", "Included for 2 months, then optional"],
       ["Who answers questions", "Whoever is free", "Help articles", "Three developers on WhatsApp, 7 days a week"],
     ],
     fine: "If your NGO has no budget at all this year, a well-organised free template with a clear bank transfer page is a reasonable start; move to a proper donation setup once gifts begin arriving regularly.",
@@ -183,7 +183,7 @@ const content: FreelanceContent = {
       heading: "How much does an NGO website developer cost?",
       paragraphs: [
         `Quotes vary widely. Some developers offer NGO templates cheaply; others build full donor platforms. Compare what is actually delivered: a donation checkout with receipts is a very different product from a contact form with a bank account number.`,
-        `With BtechWaleTech, an NGO website with a donation page starts at ${P.site} (${P.siteUsd}) in our static plan, and usually goes live in 1–2 weeks once content is ready. Automated 80G receipt details, recurring donations, extra languages and a self-service documents library are added as separate lines. A full donor management system with records, receipt history and exports is a custom web app from ${P.software}. Monthly SEO starts at ${P.seo}, and maintenance, after five free months, at ${P.care}.`,
+        `With BtechWaleTech, an NGO website with a donation page starts at ${P.site} (${P.siteUsd}) in our static plan, and usually goes live in 1–2 weeks once content is ready. Automated 80G receipt details, recurring donations, extra languages and a self-service documents library are added as separate lines. A full donor management system with records, receipt history and exports is a custom web app from ${P.software}. Monthly SEO starts at ${P.seo}, and maintenance, after two free months, at ${P.care}.`,
         `Keep payment provider fees in mind too. Most charge a percentage per transaction, and rates differ for UPI and cards. Those fees are paid to the provider, not to us. For a general cost breakdown see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["Donor management system", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
         ["WhatsApp thank-yous and updates", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks"],
         ["Monthly SEO", `${P.seo}`, `${P.seoUsd}`, "Ongoing"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Set up accounts in the NGO’s name", "Domain, hosting, email and payment accounts are created with your team under an organisational address, with us added as users."],
       ["Build and review on a private link", "Pages, the donation flow and the documents library appear on a staging link. Make a test donation and check the receipt yourselves."],
       ["Launch and hand over", "We go live, verify Google Search Console, and hand over code, logins, a renewals list and a short guide for uploading reports."],
-      ["Keep it current", "Five free months cover new programme pages and report uploads. After that, maintenance continues from " + P.care + " only if the board wants it."],
+      ["Keep it current", "Two free months cover new programme pages and report uploads. After that, maintenance continues from " + P.care + " only if the board wants it."],
     ],
   },
   faqHeading: "NGO website developer: frequently asked questions",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "Is our donor data safe on the website?", answer: "It should be stored with restricted access, collected only for stated purposes and never shared without consent. India’s DPDP Act, 2023 expects clear consent and purpose limitation. We keep donor records in the NGO’s own accounts, use HTTPS throughout, limit admin access and do not store card details on the site." },
     { question: "Can you build our NGO website in Hindi or a regional language?", answer: "Yes. Each language gets its own set of pages with correct language tags, so search engines show the right version. Programme pages in the local language help beneficiaries, while English pages often serve donors and funders. Text should be written or checked by a fluent speaker from your team." },
     { question: "Will an NGO website help us get more donations?", answer: "It helps when it makes giving easy and shows evidence of impact, but a website alone does not create donors. Combine it with regular updates, prompt thank-yous, stories with outcomes and outreach to your networks. Nobody can guarantee search rankings or donation totals, so be wary of anyone who promises them." },
-    { question: "Do you offer maintenance for NGO websites?", answer: `Yes. Every new site includes five months of free maintenance for edits, report uploads, fixes and updates. After that, maintenance is optional and starts at ${P.care}. Because all code and accounts stay with the NGO, you can also hand the site to a volunteer or another developer later.` },
+    { question: "Do you offer maintenance for NGO websites?", answer: `Yes. Every new site includes two months of free maintenance for edits, report uploads, fixes and updates. After that, maintenance is optional and starts at ${P.care}. Because all code and accounts stay with the NGO, you can also hand the site to a volunteer or another developer later.` },
     { question: "Can you build an app for our NGO?", answer: `Yes, when an app genuinely helps, for example for field staff collecting data offline or volunteers managing shifts. We build Android and iOS apps from ${P.app} using Flutter or React Native, published in the NGO’s own store accounts. For most donor-facing needs, a fast website is enough.` },
     { question: "NGO ki website banwani hai, kitna kharcha aayega?", answer: `BtechWaleTech ke saath donation page wali NGO website ${P.site} se shuru hoti hai aur content ready hone par 1–2 hafte mein live ho jaati hai. UPI se donation, 80G ke liye PAN aur turant receipt ka setup hota hai. Quote lagbhag do working days mein aata hai aur approval ke baad hi payment hota hai.` },
     { question: "Do you work with foundations or NGOs outside India?", answer: "Yes. We build sites for foundations and diaspora groups abroad that support causes in India, billed in USD through Wise, bank wire or PayPal. If money is going to an Indian NGO, the site must respect FCRA rules, and we design the donation route accordingly." },
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Building or rebuilding your NGO’s website? Send us the details",
-    note: `Message us on WhatsApp with your registrations, programmes and what donors should be able to do. You get an itemised proposal in about two working days, with NGO websites from ${P.site}, every account registered to the organisation and five months of free updates.`,
+    note: `Message us on WhatsApp with your registrations, programmes and what donors should be able to do. You get an itemised proposal in about two working days, with NGO websites from ${P.site}, every account registered to the organisation and two months of free updates.`,
   },
 };
 

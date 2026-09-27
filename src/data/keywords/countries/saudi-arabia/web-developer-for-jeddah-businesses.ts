@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Online store with mada and Apple Pay", value: `From ${P.shop}, 4–8 weeks` },
       { label: "WhatsApp enquiry automation", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Monthly SEO for Jeddah searches", value: `From ${P.seo}` },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
       { label: "Where the team sits", value: "India, online on your working day" },
     ],
   },
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Restaurant ordering pages", note: "Menus in Arabic and English, pickup and delivery ordering, and a kitchen view, for cafés and restaurants along the Corniche and in the malls.", href: "/saudi-arabia/restaurant-online-ordering-system/", size: "md" },
       { name: "Local SEO for Jeddah", note: `Google Business Profile tidy-up, district landing pages and Arabic search terms. Monthly SEO from ${P.seo}; nobody can promise rankings.`, href: "/saudi-arabia/local-seo-services/", size: "sm" },
       { name: "Store apps", note: `When repeat buyers justify it, a Flutter app for iOS and Android from ${P.app}.`, href: "/saudi-arabia/mobile-app-development/", size: "sm" },
-      { name: "Care and updates", note: `Five free months after launch, then care plans from ${P.care}: updates, backups, small edits.`, href: "/pricing/", size: "sm" },
+      { name: "Care and updates", note: `Two free months after launch, then care plans from ${P.care}: updates, backups, small edits.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["WhatsApp integration", "Common", "Usually a floating button only", "Pre-filled product or room messages, optional automation"],
       ["Quote format", "Varies", "Hourly or milestone bids", "Itemised starting prices in USD within about 2 working days"],
       ["Ownership", "Check the contract", "Check the platform terms", "Domain, hosting and code in your name"],
-      ["Aftercare", "Retainer, terms vary", "Often ends at delivery", `5 free months, then from ${P.care}`],
+      ["Aftercare", "Retainer, terms vary", "Often ends at delivery", `2 free months, then from ${P.care}`],
     ],
     fine: "If your project depends on someone photographing your showroom or sitting with your staff every week, a Jeddah-based studio will serve you better than any remote team, us included.",
   },
@@ -226,7 +226,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A company website takes about 1–2 weeks, a large catalogue or SEO site 3–5 weeks, and an online store 4–8 weeks, counted from the day your content is ready. Content delays, not coding, are the usual reason projects slip.`,
         `Seasons matter in Jeddah retail and hospitality. A store that wants to sell for Ramadan should start about two months before, so there is time for testing checkout and loading products. Hotels expecting a busy season should launch before it starts, not during it. We will tell you plainly if your date is unrealistic for the scope, and suggest what to cut to hit it.`,
-        `Typical sequence: a short call and written scope, an itemised quote, design of the key templates, build, content loading, testing on real phones, then launch. After launch come five months of free maintenance for fixes and small changes. Bigger additions are quoted separately so you always know the cost before work starts.`,
+        `Typical sequence: a short call and written scope, an itemised quote, design of the key templates, build, content loading, testing on real phones, then launch. After launch come two months of free maintenance for fixes and small changes. Bigger additions are quoted separately so you always know the cost before work starts.`,
       ],
     },
     {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The domain, hosting account, code repository, analytics and Google Business Profile stay in your name from the start, and we work on them as invited users. If we part ways, you remove our access and keep everything.`,
         `At handover you receive admin logins, a short video walkthrough of editing products, rooms or pages, a list of plugins or services with their renewal dates, and the location of backups. For stores, we also document payment and shipping settings so your staff know where to look when a customer asks about an order.`,
-        `After launch, five months of free maintenance cover bug fixes, updates and small edits. After that, care plans start from ${P.care}, or you can move the work to anyone you like, because nothing is locked to us. Details about refunds and changes sit on the <a href='/refund-policy/'>refund policy</a> page.`,
+        `After launch, two months of free maintenance cover bug fixes, updates and small edits. After that, care plans start from ${P.care}, or you can move the work to anyone you like, because nothing is locked to us. Details about refunds and changes sit on the <a href='/refund-policy/'>refund policy</a> page.`,
       ],
     },
     {
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
         ["Build", "All pages, WhatsApp links, forms", "Send content and photos", "4–6 days"],
         ["Testing", "Real phones, speed, both languages", "Try enquiries yourself", "1–2 days"],
         ["Launch", "Domain live, Search Console, analytics", "Final approval", "1 day"],
-        ["Aftercare", "Fixes and small edits", "Report issues on WhatsApp", "5 months free"],
+        ["Aftercare", "Fixes and small edits", "Report issues on WhatsApp", "2 months free"],
       ],
     },
   ],
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Set up your accounts", "Domain, hosting and analytics are opened in your name, or we are invited to existing ones. We send a shot list and a content checklist."],
       ["Review live previews", "You see real pages in Arabic and English on a preview link and comment directly. Changes happen in days, not after the next meeting."],
       ["Test and launch", "We test on real phones, check WhatsApp links reach your numbers, submit the sitemap to Google Search Console and go live."],
-      ["Aftercare", "Five months of free maintenance cover fixes and small edits. After that, care plans start from the maintenance price or you take the site elsewhere."],
+      ["Aftercare", "Two months of free maintenance cover fixes and small edits. After that, care plans start from the maintenance price or you take the site elsewhere."],
     ],
   },
   faqHeading: "Questions Jeddah business owners ask before hiring a web developer",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Do you sign a contract or NDA with Jeddah clients?", answer: "Every project runs on a written quote that lists scope, milestones and ownership, together with our published terms. If your business needs an NDA or particular clauses, tell us at the start and we agree them in writing before any work begins. We do not work on verbal agreements." },
     { question: "Can you help my Jeddah business rank on Google?", answer: `We build sites that Google can crawl and understand, set up Search Console, structured data and district pages, and tidy your Google Business Profile. Monthly SEO starts from ${P.seo}. Nobody can guarantee rankings, and anyone who promises first place is guessing; we report what changed and what we did each month.` },
     { question: "Will my website appear in AI answers like Google AI Overviews or ChatGPT?", answer: "There is no guarantee, but clear pages help. We write each key page with a one-sentence definition, direct answers to common customer questions and structured data about your business, hours and location. That gives AI search tools short, accurate passages to quote instead of guessing from vague marketing text." },
-    { question: "What happens after my website goes live?", answer: `You get five months of free maintenance covering bug fixes, updates and small edits. After that, care plans start from ${P.care}, or you can hand the site to any other developer, because you own everything. Larger new features are quoted separately, so there are no surprise bills.` },
+    { question: "What happens after my website goes live?", answer: `You get two months of free maintenance covering bug fixes, updates and small edits. After that, care plans start from ${P.care}, or you can hand the site to any other developer, because you own everything. Larger new features are quoted separately, so there are no surprise bills.` },
     { question: "Can you move my existing Jeddah website to a new design without losing Google traffic?", answer: "Yes, if the move is planned. We list your current URLs, keep the ones that bring traffic, set redirects for anything that changes, and check Search Console after launch for errors. Rebuilds that skip redirects are the most common reason small businesses lose search traffic after a redesign." },
     { question: "Do I need a mobile app or is a website enough?", answer: `For most Jeddah shops and hotels, a fast mobile website is enough at first. An app makes sense when customers reorder often, you want push notifications, or you run a loyalty scheme. We build apps in Flutter for iOS and Android from ${P.app}, published under your own store accounts.` },
     { question: "Does the website handle Saudi personal data rules?", answer: "We build features that support your obligations under Saudi Arabia's Personal Data Protection Law: minimal form fields, a privacy notice you approve, separate marketing consent and restricted admin access. Whether your business complies overall is a legal question for your own lawyer; we do not give legal advice or certify compliance." },

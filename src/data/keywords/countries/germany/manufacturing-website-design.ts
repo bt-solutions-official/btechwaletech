@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks focused, 3–5 weeks catalogue"],
     ["Languages", "As many as you supply or approve"],
     ["Domain, hosting, code", "Registered to your company"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers on your site" },
     { value: "100", label: "Pages in the entry-level plan" },
     { value: "299+", label: "Pages in the catalogue plan" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
   ],
   answer: {
     heading: "What should manufacturing website design include to bring in RFQs?",
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a focused manufacturing site of up to 100 pages starts at ${P.site} and takes 1–2 weeks, and a catalogue site of 299 pages or more starts at ${P.seoSite} and takes 3–5 weeks. German industrial agencies price in many different ways, so compare the scope line by line.`,
         `The biggest cost drivers are the product data, the number of languages and the integrations. A site built from a clean PIM feed costs less than one where specifications must be extracted from old PDF catalogues. Each additional language adds template work and QA, though the translation itself is yours to supply. CRM routing, gated downloads, a distributor finder and a careers section with an applicant tracking system are each separate lines.`,
-        `Running costs are hosting on an EU server in your account, the domain, any PIM licence and maintenance after the free five months, from ${P.care}. When the project grows into logged-in ordering or product configuration, it becomes custom software from ${P.software}. The <a href='/germany/website-development-cost/'>website development cost guide for Germany</a> sets these figures against the wider market.`,
+        `Running costs are hosting on an EU server in your account, the domain, any PIM licence and maintenance after the free two months, from ${P.care}. When the project grows into logged-in ordering or product configuration, it becomes custom software from ${P.software}. The <a href='/germany/website-development-cost/'>website development cost guide for Germany</a> sets these figures against the wider market.`,
       ],
     },
     {
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days: pages, data import, languages, integrations and timeline priced line by line in USD. Nothing is billed before your written approval."],
       ["Data model and templates", "Product data is structured and imported to a staging site, and the first family, variant and RFQ templates are reviewed with your team."],
       ["Content, languages and QA", "Downloads attached, translations added, redirects mapped, forms tested end to end with real sales recipients before launch."],
-      ["Launch and five free months", "The site goes live in your hosting account with Search Console connected, and fixes are covered for five months. Care plans follow from " + P.care + "."],
+      ["Launch and two free months", "The site goes live in your hosting account with Search Console connected, and fixes are covered for two months. Care plans follow from " + P.care + "."],
     ],
   },
   faqHeading: "Manufacturing website design: questions from German manufacturers",
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
     { question: "Can you add a distributor finder we can update ourselves?", answer: "Yes. Distributors are managed in a simple admin with fields for country, region, product lines and contact details, and your team edits them without developer help. The finder shows a searchable list and optionally a map, and it can route RFQs from a country to the right partner." },
     { question: "How does a remote team in India work with our German sales team?", answer: "Calls take place during your morning, which is the Indian afternoon, since India is 3.5 hours ahead of German summer time and 4.5 hours ahead in winter. Most work runs on shared documents, a staging site and WhatsApp or email, with short video calls for reviews and routing rules." },
     { question: "How are payments handled for a manufacturing website project?", answer: "You receive an itemised quote in USD and approve it in writing before anything is billed. Invoices come from India in USD or EUR and are paid by Wise or bank wire according to the schedule in the quote. Your accountant advises on how to book them." },
-    { question: "What happens after launch?", answer: `Five months of free maintenance cover fixes, small changes and updates while sales and buyers use the new site. After that, maintenance starts from ${P.care} and monthly SEO from ${P.seo} if you want ongoing help. You can also hand the site to your own team at any time.` },
+    { question: "What happens after launch?", answer: `Two months of free maintenance cover fixes, small changes and updates while sales and buyers use the new site. After that, maintenance starts from ${P.care} and monthly SEO from ${P.seo} if you want ongoing help. You can also hand the site to your own team at any time.` },
     { question: "Can the website later grow into a portal or configurator?", answer: `Yes, if the product data is structured from the start. The same data can feed a logged-in B2B portal with customer prices and reorder, or a 3D configurator with rules and price calculation. Those are custom software projects starting at ${P.software}, and they reuse the catalogue work.` },
   ],
   related: {

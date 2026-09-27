@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "0", label: "Per-user licence fees in a CRM you own" },
     { value: "3", label: "Developers who build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "Is custom CRM development worth it for an Australian SMB?",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Messaging", value: "SMS and email through your own gateway and mail accounts" },
       { label: "Permissions", value: "Owner, sales, estimator, office and field roles you define" },
       { label: "Starting price", value: `From ${P.software}, first release in 6–12 weeks` },
-      { label: "After go-live", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After go-live", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom CRM development costs from Australia",
-    note: `A custom CRM starts from ${P.software} for a first release with one pipeline, a quote builder, a handful of roles and one integration such as Xero. The price grows with the number of pipelines, quote complexity (options, variations, deposits), integrations, the SMS and email automations you want, and how messy the data you are migrating is. There is no licence fee per user. Ongoing costs are hosting in your own cloud account, your SMS gateway credits and optional support from ${P.care} after five free months. Quotes are itemised in USD, arrive in about two working days, and nothing is billed until you approve in writing.`,
+    note: `A custom CRM starts from ${P.software} for a first release with one pipeline, a quote builder, a handful of roles and one integration such as Xero. The price grows with the number of pipelines, quote complexity (options, variations, deposits), integrations, the SMS and email automations you want, and how messy the data you are migrating is. There is no licence fee per user. Ongoing costs are hosting in your own cloud account, your SMS gateway credits and optional support from ${P.care} after two free months. Quotes are itemised in USD, arrive in about two working days, and nothing is billed until you approve in writing.`,
   },
   guideLabel: "Custom CRM development guide for Australian SMBs",
   guide: [
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
         ["Build or setup", "Configuration time", `One-off, from ${P.software}`],
         ["Hosting", "Included in the subscription", "Your cloud account, billed directly"],
         ["SMS credits", "Via the add-on's pricing", "Your gateway account, billed directly"],
-        ["Support", "Included, within vendor limits", `5 months free, then from ${P.care}`],
+        ["Support", "Included, within vendor limits", `2 months free, then from ${P.care}`],
         ["Staff time on workarounds", "Hours per week re-keying", "Should fall sharply"],
       ],
     },
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Written scope and quote", "About two working days later you receive wireframes, a proposed first release and an itemised USD quote. Nothing is billed before written approval."],
       ["Build in your accounts", "We build in your GitHub and cloud account, connect Xero and your SMS gateway with your admin logins, and demo progress every week."],
       ["Migrate and cut over", "Old records are cleaned and imported to a test copy first, checked by you, then moved at cutover while the old system stays read-only."],
-      ["Support and grow", `Five months of free maintenance follow go-live. New modules are quoted as later phases, and support afterwards starts from ${P.care}.`],
+      ["Support and grow", `Two months of free maintenance follow go-live. New modules are quoted as later phases, and support afterwards starts from ${P.care}.`],
     ],
   },
   faqHeading: "Custom CRM development in Australia: frequently asked questions",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "What happens if the Xero sync fails?", answer: "Each change is queued and retried automatically on temporary errors, and the sync respects Xero's API limits. Anything that still fails appears in an error log the office can see, with the reason and a retry button. Your bookkeeper never has to guess whether an invoice made it across." },
     { question: "Is a custom CRM a good idea for a small business?", answer: "It is a good idea when the business sells by quote, several staff need occasional access, and the current CRM is bent out of shape with workarounds. It is a poor idea when a standard CRM already fits and the bill is comfortable. In that case keep it and add one integration instead." },
     { question: "Can a developer in India build a CRM for an Australian business?", answer: "Yes. Discovery calls and weekly demos happen in your afternoon, which is our morning, and written updates arrive most working days. Your code, database, Xero connection and SMS account all stay in your name, so where the developers sit does not change who controls the system." },
-    { question: "Will you maintain the CRM after launch?", answer: `Yes. Five months of free maintenance follow go-live, covering fixes and dependency updates. After that, support starts from ${P.care}. Because the code, documentation and accounts are yours, you can also move support to another developer or an in-house hire whenever you like.` },
+    { question: "Will you maintain the CRM after launch?", answer: `Yes. Two months of free maintenance follow go-live, covering fixes and dependency updates. After that, support starts from ${P.care}. Because the code, documentation and accounts are yours, you can also move support to another developer or an in-house hire whenever you like.` },
     { question: "Can you add AI features to our CRM?", answer: `Yes, where they save time: drafting follow-up messages, summarising call notes, extracting details from emailed plans, or a website chatbot that creates leads in the pipeline. AI features start from ${P.ai}. Staff approve anything sent to clients, and personal data only goes to services you have approved.` },
     { question: "How do we pay for custom CRM development from Australia?", answer: "Quotes and invoices are in USD and issued from India. Australian clients usually pay by Wise or international bank wire. Nothing is billed before you approve the written quote. Ask your accountant how GST applies to services imported from overseas, as we do not give tax advice." },
     { question: "Can you sign an NDA before we share client data?", answer: "Send your NDA and we will review it before you share anything sensitive. Confidentiality terms are agreed in writing alongside the quote. For scoping, a walkthrough of your process and a sample export with names and phone numbers removed is usually enough." },

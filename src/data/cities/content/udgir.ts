@@ -34,7 +34,7 @@ const udgir: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi and English", "Dal mill catalogues", "Daily rate pages", "WhatsApp all week"],
   },
   quickAnswer:
-    "For Udgir businesses, our websites start from ₹10,000 and usually go live in one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000, an online store for dal or farm products from ₹50,000 and custom software from ₹60,000. We have no Udgir office, work remotely, and maintain each site free for five months.",
+    "For Udgir businesses, our websites start from ₹10,000 and usually go live in one to two weeks. A 299+ page SEO site starts from ₹20,000, WhatsApp and AI automation from ₹40,000, an online store for dal or farm products from ₹50,000 and custom software from ₹60,000. We have no Udgir office, work remotely, and maintain each site free for two months.",
   snapshot: [
     { label: "District", value: "Udgir is a taluka headquarters in Latur district, Marathwada, close to the Karnataka border near Bidar" },
     { label: "Economy", value: "Agriculture and pulses milling, with around 80 dal processing units reported in the area" },
@@ -51,10 +51,10 @@ const udgir: CityContent = {
     ai: "WhatsApp assistants that share daily rates and answer order, fee or appointment questions in Marathi, Hindi or English.",
     data: "Dashboards for arrivals, purchase rates, mill output or sales by district, built from sheets you already maintain.",
     app: "Android and iPhone apps for buyers in the market yard, delivery drivers and field staff on basic phones, available on both app stores.",
-    maintenance: "Five months of free updates and security care after launch; afterwards maintenance starts from ₹8,000 a month.",
+    maintenance: "Two months of free updates and security care after launch; afterwards maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Udgir owners usually weigh up a Latur, Pune or Hyderabad agency with city pricing against a local helper who cannot handle search or support. We publish starting prices, write proper Marathi, answer on WhatsApp all seven days and care for your site free for five months after launch.",
+    "Udgir owners usually weigh up a Latur, Pune or Hyderabad agency with city pricing against a local helper who cannot handle search or support. We publish starting prices, write proper Marathi, answer on WhatsApp all seven days and care for your site free for two months after launch.",
   pricingIntro:
     "These are opening figures for Udgir projects, not package deals. What you pay depends on pages, languages, products and features. We begin with an itemised written quote, and no payment is taken until you approve it in writing.",
   sections: [
@@ -191,11 +191,11 @@ const udgir: CityContent = {
     },
     {
       id: "ownership-maintenance-udgir",
-      heading: "Your website stays yours, with five months of free care",
+      heading: "Your website stays yours, with two months of free care",
       paragraphs: [
         "Several Udgir businesses have lost their websites because the designer registered the domain in their own name and then stopped answering calls. When the renewal date passed, the site vanished, along with the email address printed on bills and letterheads.",
         "We register the domain and hosting in your name, hand over every login at launch and give you full ownership of the source code. You can move to another developer at any time without an exit fee, and we provide a short guide explaining how the site is built.",
-        "For five months after launch, we handle updates, fixes, security patches, backups and uptime monitoring at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> describes what each build includes.",
+        "For two months after launch, we handle updates, fixes, security patches, backups and uptime monitoring at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> describes what each build includes.",
       ],
     },
   ],
@@ -277,7 +277,7 @@ const udgir: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content edits, bug fixes, security and software updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content edits, bug fixes, security and software updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long will SEO take for my Udgir business?",

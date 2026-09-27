@@ -56,7 +56,7 @@ const tarikere: CityContent = {
     ai: "WhatsApp assistants that answer homestay, rate and admission questions in Kannada and hand anything unusual to you.",
     data: "Season dashboards showing areca bought and sold, grower dues, mill output and homestay occupancy by month.",
     app: "Android and iOS apps for areca buyers visiting gardens or for school parents across the taluk, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then optional support from ₹8,000 a month covering updates, backups and fixes.",
+    maintenance: "Two months of free upkeep after launch, then optional support from ₹8,000 a month covering updates, backups and fixes.",
   },
   whyUsIntro:
     "Tarikere traders deal in a crop that swings in price every week, so they tend to ask sharp questions before paying for anything. We answer with written, itemised quotes, starting prices published openly, replies on WhatsApp seven days a week and every account registered to you from the first day.",
@@ -186,7 +186,7 @@ const tarikere: CityContent = {
       heading: "Who owns your Tarikere website or app, and how upkeep works",
       paragraphs: [
         "You own everything we build, and the paperwork shows it. The domain is registered on your email, hosting is billed to you, the source code is handed over, and the Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no single person, including us, can lock you out later.",
-        "For the first five months after launch, maintenance is free. We update rates and photos before the season, run backups, apply security patches and check that forms, checkout and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or pass the code to another developer without asking our permission.",
+        "For the first two months after launch, maintenance is free. We update rates and photos before the season, run backups, apply security patches and check that forms, checkout and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or pass the code to another developer without asking our permission.",
         "Apps need a yearly update even when nothing seems broken, because Google and Apple raise their minimum requirements. We watch those deadlines and ship updates early, so a school or trader's app is never pulled from the store for falling behind.",
       ],
     },
@@ -278,7 +278,7 @@ const tarikere: CityContent = {
     {
       question: "What maintenance do I get after my Tarikere website goes live?",
       answer:
-        "Every Tarikere website gets five months of free maintenance after launch: content and price edits, backups, security updates and checks that forms, checkout and WhatsApp links work. After that, support continues from ₹8,000 a month if you want it. Since the code and accounts are in your name, you can also move to another developer freely.",
+        "Every Tarikere website gets two months of free maintenance after launch: content and price edits, backups, security updates and checks that forms, checkout and WhatsApp links work. After that, support continues from ₹8,000 a month if you want it. Since the code and accounts are in your name, you can also move to another developer freely.",
     },
     {
       question: "Do you serve Lakkavalli, Lingadahalli, Birur and Bhadravati?",

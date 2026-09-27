@@ -35,7 +35,7 @@ const lucknow: CityContent = {
     pills: ["Sites from ₹10,000", "Chikan stores with UPI", "Gomti Nagar local SEO", "WhatsApp enquiry bots", "Portals and dashboards"],
   },
   quickAnswer:
-    "A business website for a Lucknow firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 299+ page site planned for Google search starts at ₹20,000, and an online store at ₹50,000. We are a remote three-engineer team, you own the domain and code, and five months of maintenance after launch are free.",
+    "A business website for a Lucknow firm costs from ₹10,000 with us and is usually ready in one to two weeks. A 299+ page site planned for Google search starts at ₹20,000, and an online store at ₹50,000. We are a remote three-engineer team, you own the domain and code, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "Commercial centres", value: "Hazratganj, Aminabad, Chowk, Kapoorthala, Alambagh and the Vibhuti Khand office area of Gomti Nagar" },
     { label: "Signature craft", value: "Chikankari embroidery, sold wholesale and retail around Chowk and Aminabad and shipped across India" },
@@ -52,7 +52,7 @@ const lucknow: CityContent = {
     ai: "WhatsApp and website bots that answer fee, timing and stock questions in Hindi, log each lead and hand the serious ones to your staff.",
     data: "Sales, collection and branch reports pulled together into one dashboard that a Lucknow owner can check on a phone before leaving home.",
     app: "Android and iOS apps for appointment booking, parent logins and repeat orders, built in Flutter or React Native and listed on both stores from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and speed checks at no cost for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and speed checks at no cost for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Search for a web designer in Lucknow and you will find agencies in Gomti Nagar towers, freelancers on Justdial and a long list of firms in Noida and Delhi selling to the city remotely. Very few put prices in writing. We publish ours, answer on WhatsApp all seven days, and hand over every login on the day your site goes live.",
@@ -177,7 +177,7 @@ const lucknow: CityContent = {
       paragraphs: [
         "A surprising number of Lucknow businesses do not actually control their own website. The domain sits in a former developer's account, renewal reminders go to an email nobody reads, and one day the site simply disappears. Recovering a domain from someone who has stopped answering calls can take months.",
         "We avoid that from the first day. The domain is registered in your name, the hosting account is opened in your name, and at launch you receive every password along with a one-page note on where everything lives. The source code is yours. You can move to another developer whenever you like, with no exit charge and no awkward conversation.",
-        "For five months after launch, maintenance is free: content and price changes, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month, or simply message us when you need something done. Our <a href=\"/services/web-development/\">web development service</a> page has the full list of what is included.",
+        "For two months after launch, maintenance is free: content and price changes, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month, or simply message us when you need something done. Our <a href=\"/services/web-development/\">web development service</a> page has the full list of what is included.",
       ],
     },
     {
@@ -266,9 +266,9 @@ const lucknow: CityContent = {
         "Yes. We register the domain and open the hosting account in your name, and at launch we hand over every login plus the full source code. You can take the site to any other developer at any time without paying us anything. We insist on this because lost domains are a common problem with older Lucknow websites.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For the first five months after launch we cover updates, fixes, backups, security patches and speed checks at no charge. After that, you can choose monthly maintenance from ₹8,000, or simply contact us when you need a change and pay for that work alone. There is no compulsory annual contract.",
+        "For the first two months after launch we cover updates, fixes, backups, security patches and speed checks at no charge. After that, you can choose monthly maintenance from ₹8,000, or simply contact us when you need a change and pay for that work alone. There is no compulsory annual contract.",
     },
     {
       question: "Can you write my website in Hindi as well as English?",

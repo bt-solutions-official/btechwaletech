@@ -56,7 +56,7 @@ const sankarankovil: CityContent = {
     ai: "Tamil WhatsApp assistants that share catalogues, take bulk order details and pass price negotiations to the owner.",
     data: "Dashboards showing metres woven per loom, pending orders by buyer and payments due from agents in other states.",
     app: "Android and iOS apps for retailers to re-order towels and lungis from a Sankarankovil unit, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Weaving families in Sankarankovil count every rupee against the yarn price and the next order. We publish starting prices, send itemised quotes in writing, reply on WhatsApp all week, and register your domain, hosting, code and store accounts in your name. When a feature will not pay for itself, we say so plainly.",
@@ -176,7 +176,7 @@ const sankarankovil: CityContent = {
       heading: "Who owns your Sankarankovil website or app, and how we maintain it",
       paragraphs: [
         "You own everything. The domain, hosting, source code, Google Business Profile and any Play Store or App Store developer accounts are registered in your name, and we hand over the logins in writing. If you ever stop working with us, the site keeps running and a new developer can pick it up.",
-        "Maintenance is free for five months after launch. That covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons work. After those five months, maintenance starts at ₹8,000 a month if you want us to continue.",
+        "Maintenance is free for two months after launch. That covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons work. After those two months, maintenance starts at ₹8,000 a month if you want us to continue.",
         "Apps need attention every year as Google and Apple change their requirements. We track those changes and update your app before it risks removal from the stores.",
       ],
     },
@@ -268,7 +268,7 @@ const sankarankovil: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months after launch include free maintenance covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You are always free to take the code to another developer.",
+        "The first two months after launch include free maintenance covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You are always free to take the code to another developer.",
     },
     {
       question: "Do you work in Puliyangudi, Sivagiri and Tenkasi as well?",

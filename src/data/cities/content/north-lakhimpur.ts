@@ -56,7 +56,7 @@ const northLakhimpur: CityContent = {
     ai: "WhatsApp assistants that answer price, stock, fee and timing questions in Assamese, Hindi and English, handing real decisions to you.",
     data: "Dashboards of green leaf intake by grower, rice and mustard stock, fee collection and sales by area.",
     app: "Android and iOS apps for a coaching centre's students, a clinic's patients or a distributor's retailers, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "North Lakhimpur businesses deal with floods, power cuts and long distances, so they value suppliers who stay reachable. We publish starting prices, send quotes item by item, reply on WhatsApp every day, and register domain, hosting, code and store accounts in your name. If an expensive feature will not help a business of your size, we will tell you.",
@@ -169,7 +169,7 @@ const northLakhimpur: CityContent = {
       paragraphs: [
         "Because we are not based in North Lakhimpur, we write everything down. A first call covers your business and goals. You then receive a page or screen plan, a timeline and an itemised quote, and after approval, live preview links that you can open on your own phone. We reply on WhatsApp seven days a week on Indian Standard Time, and Assamese content is sent to you for checking before it goes live.",
         "Your domain, hosting, source code, Google Business Profile and app store accounts are registered in your name, and all logins are handed over in writing. Nothing is billed before you approve the quote, and payments are tied to visible progress. <a href=\"/contact/\">Get in touch</a> to begin.",
-        "Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue, and you may switch to another developer at any time. Apps are updated for Google and Apple's yearly rule changes.",
+        "Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue, and you may switch to another developer at any time. Apps are updated for Google and Apple's yearly rule changes.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const northLakhimpur: CityContent = {
     {
       question: "What happens to my website during floods or power cuts?",
       answer:
-        "Your website and records are hosted in the cloud with daily backups, so they stay online even when your office is closed. Enquiries reach you on WhatsApp and email, and a notice banner can announce changed timings quickly. The first five months of maintenance after launch are free, then from ₹8,000 a month.",
+        "Your website and records are hosted in the cloud with daily backups, so they stay online even when your office is closed. Enquiries reach you on WhatsApp and email, and a notice banner can announce changed timings quickly. The first two months of maintenance after launch are free, then from ₹8,000 a month.",
     },
     {
       question: "Do you work in Bihpuria, Narayanpur and Dhakuakhana as well?",

@@ -30,11 +30,11 @@ const dimapur: CityContent = {
     eyebrow: "Dimapur · Nagaland",
     h1: "Websites, software, SEO and AI tools for Dimapur's wholesalers, market traders and Naga product brands",
     lede:
-      "Three remote engineers building websites, distributor catalogues, online stores and WhatsApp automations for businesses in Dimapur and Chümoukedima. We work with wholesale houses near the railway, shops in Hong Kong Market and New Market, schools, clinics and makers of Naga food and textiles. Prices are published, and maintenance is free for five months after launch.",
+      "Three remote engineers building websites, distributor catalogues, online stores and WhatsApp automations for businesses in Dimapur and Chümoukedima. We work with wholesale houses near the railway, shops in Hong Kong Market and New Market, schools, clinics and makers of Naga food and textiles. Prices are published, and maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Distributor catalogues", "Naga product stores", "English, Hindi, Nagamese-friendly", "WhatsApp order desks"],
   },
   quickAnswer:
-    "In Dimapur, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Dimapur office, and five months of maintenance are free.",
+    "In Dimapur, a business website with us starts at ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Dimapur office, and two months of maintenance are free.",
   snapshot: [
     { label: "State role", value: "Nagaland's largest city and main commercial gateway, on the Dhansiri river near the Assam border" },
     { label: "Transport", value: "Nagaland's only railway hub on the Lumding–Dibrugarh section, and the state's airport next door in Chümoukedima" },
@@ -51,10 +51,10 @@ const dimapur: CityContent = {
     ai: "WhatsApp assistants that share price lists, stock and delivery days with retailers in other districts, answering even after the market closes.",
     data: "Sales, outstanding credit and route-wise dispatch pulled into one dashboard for owners who travel between Dimapur and Kohima.",
     app: "Android and iOS apps for salesmen taking orders on the road, or for school and clinic updates, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security fixes for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Dimapur businesses often end up hiring developers in Guwahati or further away, paying city rates and waiting days for replies. We publish our prices, answer on WhatsApp seven days a week, and look after your site for free for five months once it is live. You talk to the engineers directly, not to a salesperson.",
+    "Dimapur businesses often end up hiring developers in Guwahati or further away, paying city rates and waiting days for replies. We publish our prices, answer on WhatsApp seven days a week, and look after your site for free for two months once it is live. You talk to the engineers directly, not to a salesperson.",
   pricingIntro:
     "These are starting prices only. A shop with a dozen product lines costs less than a distributor catalogue with thousands of items and dealer logins. Your quote is itemised, written down and sent before any work begins, and you are billed only after you approve it.",
   sections: [
@@ -175,11 +175,11 @@ const dimapur: CityContent = {
     },
     {
       id: "ownership-dimapur",
-      heading: "You own the site, and upkeep is free for five months",
+      heading: "You own the site, and upkeep is free for two months",
       paragraphs: [
         "A common story: a developer registered the domain in their own name, then left the city or stopped answering. The business couldn't renew or edit its site, and years of search presence disappeared.",
         "With us, the domain and hosting are registered to you from the start. At launch you receive every login, the full source code and a short guide to how it is set up. You can move to any other developer at any time, without an exit fee.",
-        "For five months after launch, maintenance is free: content edits, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you contact us only when you need something. More detail on how we build is on our <a href=\"/services/web-development/\">web development page</a>.",
+        "For two months after launch, maintenance is free: content edits, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you contact us only when you need something. More detail on how we build is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const dimapur: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle content edits, bug fixes, security updates, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle content edits, bug fixes, security updates, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "How long does SEO take to work in Dimapur?",

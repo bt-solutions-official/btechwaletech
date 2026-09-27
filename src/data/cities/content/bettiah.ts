@@ -35,7 +35,7 @@ const bettiah: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and Bhojpuri-aware copy", "Marcha rice and chura stores", "Clinic and school sites", "WhatsApp enquiry tools"],
   },
   quickAnswer:
-    "Bettiah shops, clinics and traders can get a static website with up to 100 pages from ₹10,000, delivered in one to two weeks. Bigger 299+ page SEO sites begin at ₹20,000, Marcha rice or chura stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We have no Bettiah office, and upkeep costs nothing for five months.",
+    "Bettiah shops, clinics and traders can get a static website with up to 100 pages from ₹10,000, delivered in one to two weeks. Bigger 299+ page SEO sites begin at ₹20,000, Marcha rice or chura stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We have no Bettiah office, and upkeep costs nothing for two months.",
   snapshot: [
     { label: "District role", value: "Headquarters of West Champaran in Tirhut division, about 225 km north-west of Patna" },
     { label: "Farm economy", value: "West Champaran produced the most sugarcane in Bihar in 2022; sugar production is centred in Majhaulia, Bagaha, Narkatiaganj and Lauriya" },
@@ -52,7 +52,7 @@ const bettiah: CityContent = {
     ai: "WhatsApp replies in Hindi for fees, doctor timings, stock and delivery questions, with payments and medical matters passed to a person.",
     data: "Phone dashboards showing daily sales, pending dues, stock levels or admissions, built from the registers your staff already keep.",
     app: "Android and iOS apps for delivery staff, field agents and school transport that work on weak signal and sync later, from ₹40,000 on both stores.",
-    maintenance: "Nothing to pay for upkeep during the first five months; later, ongoing care is ₹8,000 a month onwards, entirely optional.",
+    maintenance: "Nothing to pay for upkeep during the first two months; later, ongoing care is ₹8,000 a month onwards, entirely optional.",
   },
   whyUsIntro:
     "Many Bettiah businesses were sold a website by a Patna or Muzaffarpur agency, paid once, and never heard from them again. Others have only a Facebook page. We are a small remote team you can reach on WhatsApp every day, our starting prices are public, and every domain and hosting account is registered in your name.",
@@ -186,7 +186,7 @@ const bettiah: CityContent = {
       paragraphs: [
         "Ask around Bettiah and you will hear of a website that simply stopped working one day. Usually the person who built it had bought the domain under his own account, never shared the password and later changed his number, so the owner could neither renew nor recover it.",
         "We avoid that trap by buying the domain and hosting in your name, with your email and your payment, before we build anything. On launch day you are given every password, a copy of the complete code and a one-page note describing how the site is put together. Our <a href=\"/services/web-development/\">web development</a> relies on popular, well-documented tools, so if you ever hire someone else they can carry on without starting again, and we charge nothing for the handover.",
-        "For the first five months after the site goes live, looking after it is free: software updates, backups, security patches, checks that the site is up, and small changes to text or photos. From the sixth month you can keep that service from ₹8,000 a month, or skip it and message us only when something needs doing.",
+        "For the first two months after the site goes live, looking after it is free: software updates, backups, security patches, checks that the site is up, and small changes to text or photos. From the third month you can keep that service from ₹8,000 a month, or skip it and message us only when something needs doing.",
       ],
     },
     {
@@ -276,7 +276,7 @@ const bettiah: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "The first five months of care are on us: updates, backups, security fixes, uptime monitoring and minor edits. Afterwards maintenance continues from ₹8,000 a month if you want it; otherwise just message us when a change is needed. Monthly SEO is billed separately, from ₹10,000.",
+        "The first two months of care are on us: updates, backups, security fixes, uptime monitoring and minor edits. Afterwards maintenance continues from ₹8,000 a month if you want it; otherwise just message us when a change is needed. Monthly SEO is billed separately, from ₹10,000.",
     },
     {
       question: "How long does SEO take to work in Bettiah?",

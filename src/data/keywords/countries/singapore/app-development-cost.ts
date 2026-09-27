@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Singapore · App budgets explained line by line",
     h1: "App development cost in Singapore: what you pay for, and where the money really goes",
     lede: `App development cost in Singapore depends less on the idea and more on four things: how many screens, how many user roles, what the app connects to, and who keeps it running after launch. BtechWaleTech is three freelance developers in India who build Android and iOS apps from ${P.app}, quoted in USD and payable in SGD through Wise, with every feature, fee and running cost listed before you commit. This guide sits with our other <a href='/singapore/'>Singapore services</a>.`,
-    pills: [`Android + iOS from ${P.app}`, "Itemised feature quote", "Apple and Google fees explained", "Hosting and upkeep budgeted", "Singpass and payments costed", "Pay in SGD via Wise", "5 months free maintenance"],
+    pills: [`Android + iOS from ${P.app}`, "Itemised feature quote", "Apple and Google fees explained", "Hosting and upkeep budgeted", "Singpass and payments costed", "Pay in SGD via Wise", "2 months free maintenance"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · quotes in about 2 working days",
   },
   facts: [
@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Backend or admin system from", `${P.software}, 6–12 weeks`],
     ["Apple Developer Program", "US$99 per year"],
     ["Google Play registration", "US$25, one time"],
-    ["Maintenance", `Free for 5 months, then from ${P.care}`],
+    ["Maintenance", `Free for 2 months, then from ${P.care}`],
     ["Currency", "Quoted in USD; SGD payment through Wise"],
   ],
   stats: [
     { value: "1", label: "Codebase for both Android and iOS" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees added on top of our quote" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "AI features", value: `Automation and AI add-ons from ${P.ai}` },
       { label: "Store accounts", value: "Apple US$99 a year; Google Play US$25 once" },
       { label: "Store commission", value: "Only on digital goods sold in-app, per Apple and Google rules" },
-      { label: "Running costs", value: "Hosting, third-party services, maintenance after 5 free months" },
+      { label: "Running costs", value: "Hosting, third-party services, maintenance after 2 free months" },
       { label: "Currency", value: "USD quote; pay in SGD via Wise at the live rate" },
     ],
   },
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "MVP scoping", note: "A trimmed first version that tests the core promise with real users before you pay for the full roadmap.", href: "/singapore/mvp-development/", size: "sm" },
       { name: "AI features", note: `Chat assistants, document scanning or smart search, scoped from ${P.ai} when the feature is substantial.`, href: "/singapore/ai-chatbot-development/", size: "sm" },
       { name: "Store publishing", note: "Listings, screenshots, privacy labels and review submissions under your own Apple and Google accounts.", size: "sm" },
-      { name: "Maintenance after launch", note: `Five free months, then care from ${P.care} for OS updates, store policy changes and fixes.`, href: "/singapore/website-maintenance/", size: "md" },
+      { name: "Maintenance after launch", note: `Two free months, then care from ${P.care} for OS updates, store policy changes and fixes.`, href: "/singapore/website-maintenance/", size: "md" },
     ],
   },
   comparison: {
@@ -87,14 +87,14 @@ const content: FreelanceContent = {
       ["Backend and admin panel", "Usually included", "Often outsourced again", "Included in scope and priced as its own line"],
       ["Local workshops in person", "Yes", "Sometimes", "No; video calls and shared documents"],
       ["Quote format", "Varies; ask for a breakdown", "Often a single number", "Itemised by feature, integration and running cost"],
-      ["Maintenance after launch", "Usually a paid retainer", "Depends on availability", `Five months free, then from ${P.care}`],
+      ["Maintenance after launch", "Usually a paid retainer", "Depends on availability", `Two months free, then from ${P.care}`],
       ["Starting price", "Quotes vary widely", "Quotes vary widely", `From ${P.app}`],
     ],
     fine: "A lower quote is only cheaper if the scope is the same, so compare line items, ownership terms and maintenance, not the headline number.",
   },
   pricing: {
     heading: "App development cost with BtechWaleTech",
-    note: `Our Android and iOS plan starts at ${P.app} for a cross-platform app with a straightforward backend, published under your own store accounts in six to ten weeks. Apps with complex business rules, several user roles or heavy admin tools add custom software from ${P.software}. AI features start at ${P.ai}, and a companion web store starts at ${P.shop}. Every price is a USD starting point; you can pay the SGD equivalent through Wise at the day's rate. After five free months, maintenance starts at ${P.care}. The written quote lists each feature before anything is billed.`,
+    note: `Our Android and iOS plan starts at ${P.app} for a cross-platform app with a straightforward backend, published under your own store accounts in six to ten weeks. Apps with complex business rules, several user roles or heavy admin tools add custom software from ${P.software}. AI features start at ${P.ai}, and a companion web store starts at ${P.shop}. Every price is a USD starting point; you can pay the SGD equivalent through Wise at the day's rate. After two free months, maintenance starts at ${P.care}. The written quote lists each feature before anything is billed.`,
   },
   guideLabel: "App cost guide for Singapore",
   guide: [
@@ -132,7 +132,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Across a typical project, money goes into six buckets: discovery and scope, design, the app itself, the backend and admin panel, testing and store release, and post-launch care. The split changes with every project, which is why we do not quote a fixed percentage for each; your itemised quote shows the real split for your app.`,
         `Discovery is small but decisive. An afternoon spent agreeing which screens exist, who can see what and which features are for version two saves more money than any later optimisation. Design covers user flows and screen layouts, not only colours. The backend covers data, security and business rules. Testing covers different phones, screen sizes and OS versions, plus the store review process.`,
-        `The bucket people forget is care after launch. Apple and Google release new OS versions every year, store policies change, and third-party services update their APIs. An app nobody maintains starts to break within months. We include five months of free maintenance, then offer care plans from ${P.care}.`,
+        `The bucket people forget is care after launch. Apple and Google release new OS versions every year, store policies change, and third-party services update their APIs. An app nobody maintains starts to break within months. We include two months of free maintenance, then offer care plans from ${P.care}.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Suppose a hypothetical group of three fitness studios in Tampines, Bishan and Jurong East wants members to book classes, buy class packs and get reminders. This is an illustrative scenario, not a client.`,
         `The scope would include a member app for Android and iOS, a web admin panel for studio staff, class schedules per studio, class-pack purchases through the group's payment provider (physical services, so no app store commission applies), push reminders and a waitlist. Singpass would not be needed. The app would start from ${P.app}; if the group also wanted instructor payroll and reporting, that back-office piece would be quoted as custom software from ${P.software}.`,
-        `Running costs would include Apple's US$99 yearly fee, Google's one-time US$25 fee, hosting in the Singapore region, payment processing fees and, after five free months, maintenance from ${P.care}. Build time would be around eight to ten weeks. Every one of those lines would appear in the quote before any work started.`,
+        `Running costs would include Apple's US$99 yearly fee, Google's one-time US$25 fee, hosting in the Singapore region, payment processing fees and, after two free months, maintenance from ${P.care}. Build time would be around eight to ten weeks. Every one of those lines would appear in the quote before any work started.`,
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Hosting and database", "Your cloud provider", "Usage-based"],
         ["Push, SMS, email, maps", "Each service provider", "Per message or request"],
         ["Payment processing", "Your payment provider", "Per transaction, per their pricing"],
-        ["Maintenance", "BtechWaleTech", `Free for 5 months, then from ${P.care}`],
+        ["Maintenance", "BtechWaleTech", `Free for 2 months, then from ${P.care}`],
       ],
     },
   ],
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Scope lock and milestones", "Once approved, the scope, milestone payments and ownership terms are fixed in writing, so any change later is priced openly before work starts."],
       ["Designs and first build", "Main-journey designs arrive in week one, and a test build reaches your phone through TestFlight or Play internal testing by about week two."],
       ["Build, test, submit", "Features are built in agreed order, tested on real devices, and submitted for store review under your Apple and Google accounts."],
-      ["Launch and five free months", "After launch, five months of free maintenance cover fixes and OS changes. Care plans follow, priced from our published starting rate."],
+      ["Launch and two free months", "After launch, two months of free maintenance cover fixes and OS changes. Care plans follow, priced from our published starting rate."],
     ],
   },
   faqHeading: "App development cost in Singapore: common questions",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Is it cheaper to build one app for both Android and iOS?", answer: "Usually yes. A Flutter or React Native app shares one codebase across both platforms, so most features are built once. Native code is added only where a feature truly needs it, such as some Bluetooth or background tasks. For most business apps, cross-platform gives both stores at a much lower cost than two separate native apps." },
     { question: "How much do Apple and Google charge to publish an app?", answer: "Apple's Developer Program costs US$99 per year, and Google Play charges a one-time US$25 registration fee. Both accounts should be in your organisation's name. Commission applies only to digital goods and features sold inside the app, with 15% and 30% tiers under each company's published programmes." },
     { question: "Do I pay app store commission on physical goods or services?", answer: "No. Apple's App Review Guidelines say apps selling physical goods or services used outside the app must use payment methods other than in-app purchase, such as cards. Food ordering, retail and booking apps therefore pay their payment provider's processing fees rather than an app store commission. Digital content and in-app features follow the store purchase rules." },
-    { question: "How much does app maintenance cost per year?", answer: `Maintenance covers OS updates, store policy changes, library updates, bug fixes and small improvements. With BtechWaleTech, the first five months after launch are free, and care plans start at ${P.care} after that. Hosting and third-party services are separate running costs, which we estimate in your quote from expected users and usage.` },
+    { question: "How much does app maintenance cost per year?", answer: `Maintenance covers OS updates, store policy changes, library updates, bug fixes and small improvements. With BtechWaleTech, the first two months after launch are free, and care plans start at ${P.care} after that. Hosting and third-party services are separate running costs, which we estimate in your quote from expected users and usage.` },
     { question: "What hidden costs should I budget for?", answer: "Plan for hosting and database, push, SMS and email services, maps for tracking apps, payment processing fees, Singpass onboarding time if you use it, licensed design assets, legal review of your privacy notice and terms, and maintenance after any free period. We list each as a line, marked as our work or a third-party cost." },
     { question: "How much does Singpass integration add to the cost?", answer: "Singpass adds development work for the login flow, token security and any Myinfo data handling, plus calendar time for your organisation's onboarding, staging tests and Singpass's approval before going live. We price the build work as a line item and plan the approval stage into the timeline. It is worth it when verified identity matters." },
     { question: "How long does it take to build an app?", answer: "Our cross-platform apps typically take six to ten weeks from approved scope to store submission. Simpler apps can be faster; marketplaces, tracking apps and anything with complex backends take longer, often twelve weeks or more. Store review adds a short wait at the end, and slow content or approvals are the most common source of delay." },
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "How much do AI features add to an app?", answer: `It depends on the feature. A chat assistant trained on your own documents, document scanning or smart search each involve model costs, data preparation and privacy settings. Substantial AI features are quoted from ${P.ai}, and the usage cost of the AI model itself is listed as a running cost, since it grows with the number of requests.` },
     { question: "What should an app development quote include?", answer: "A good quote lists screens, user roles and integrations separately, describes the backend and admin panel, confirms store accounts in your name, includes device testing and store submission, lists third-party running costs, states maintenance terms and confirms who owns the code and data. A single total without those details is hard to compare." },
     { question: "How do milestone payments work?", answer: "Milestones are set out in your written quote, typically tied to approved designs, test builds and store submission. You pay each milestone by Wise or bank wire after the matching work is delivered as agreed. Nothing is billed before you approve the quote in writing, and any change in scope is priced before work on it begins." },
-    { question: "Will my app need an update every year?", answer: "Yes, in practice. Apple and Google release new OS versions each year, store requirements change, and libraries and third-party services update. Without updates, apps gradually develop bugs or fall out of line with store rules. Budget for maintenance from the start; our first five months after launch are free." },
+    { question: "Will my app need an update every year?", answer: "Yes, in practice. Apple and Google release new OS versions each year, store requirements change, and libraries and third-party services update. Without updates, apps gradually develop bugs or fall out of line with store rules. Budget for maintenance from the start; our first two months after launch are free." },
     { question: "Can you estimate my app cost before a call?", answer: "Send a short description of your users, the main journey, the systems it must connect to and whether users pay inside the app. From that we can reply with a rough range on WhatsApp, and after a short call, an itemised quote in about two working days." },
   ],
   related: {

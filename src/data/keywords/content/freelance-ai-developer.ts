@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised in about 2 working days"],
     ["Model accounts", "Opened in your name, billed to your card"],
     ["Data", "Your documents stay in your storage"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one of them focused on AI and ML" },
     { value: "2", label: "Working days to an itemised AI quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Platform or middleman fees on your payments" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Running cost", value: "Model usage billed to your provider account" },
       { label: "Languages", value: "English and Hindi tested; other Indian languages checked case by case" },
       { label: "Ownership", value: "Code, prompts, test sets and API keys belong to you" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
         ["“We will train a custom model”", "Retrieval and prompts solve most cases", "Fine-tuning only if tests show a gap"],
         ["“Running cost is negligible”", "Cost scales with volume and model size", "Written monthly estimate and a spend cap"],
         ["“Works in every Indian language”", "Quality varies by language and model", "Tested on your samples before promising"],
-        ["“Set it and forget it”", "Documents and models change", "Monitoring plus 5 months of free fixes"],
+        ["“Set it and forget it”", "Documents and models change", "Monitoring plus 2 months of free fixes"],
       ],
     },
     {
@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         ["Week 2", "Weak cases, review screen, one integration", "A staff member to try it", "Pilot you can use"],
         ["Weeks 3–4", "Wider testing, soft launch, monitoring", "Go or no-go decision", "Live system on part of traffic"],
         ["Handover", "Repository, prompts, runbook, cost dashboard", "Final payment", "Everything in your accounts"],
-        ["Next 5 months", "Prompt tuning and fixes", "Report odd outputs on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Prompt tuning and fixes", "Report odd outputs on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Model provider, cloud and storage accounts are created under your business, with a spending cap, and we are added as users."],
       ["Pilot on real data", "A first version runs on your samples. You see the accuracy table, the failures and the cost per task, then decide whether to continue."],
       ["Integrate and hand over", "We connect the chosen tools, add the review screen and monitoring, and hand over the repository, prompts, test set and a short runbook."],
-      ["Five months of free tuning", `Prompt fixes, small changes and model updates are free for five months after go-live. Ongoing care is optional after that, from ${P.care}.`],
+      ["Two months of free tuning", `Prompt fixes, small changes and model updates are free for two months after go-live. Ongoing care is optional after that, from ${P.care}.`],
     ],
   },
   faqHeading: "Freelance AI developer: common questions",
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
     { question: "Can you add AI to my existing website or app?", answer: `Usually, yes. AI search, summaries, smart forms or a support bot can be added through an API to most websites, web apps and mobile apps, provided we can access the code or the platform allows custom scripts. If the product itself needs to be built, custom software starts at ${P.software} and mobile apps at ${P.app}, with the AI features quoted as separate lines.` },
     { question: "What is the difference between an AI chatbot and an AI agent?", answer: "A chatbot answers questions. An agent can also act: look up an order, create a support ticket, update a CRM record or send a document. Actions need extra care, so agents get a limited list of approved tools, confirmation steps for sensitive actions and full logs. Start with a chatbot if you are unsure; add actions once answers are reliable." },
     { question: "How do payments and contracts work for AI projects?", answer: "You receive an itemised written quote, and nothing is billed until you approve it. Payments are staged against visible work such as the pilot results and the integrated version. In India we accept UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Confidentiality or NDA requirements can be discussed and recorded in your written quote before you share data." },
-    { question: "What happens if the AI provider changes prices or retires a model?", answer: "It happens regularly, so the system should be built to swap models with minimal code change and to rerun the test set against a replacement. During the five months of free maintenance we handle such switches; after that, maintenance continues from the monthly care plan if you want it. Keeping accounts in your name means price changes are visible to you directly." },
+    { question: "What happens if the AI provider changes prices or retires a model?", answer: "It happens regularly, so the system should be built to swap models with minimal code change and to rerun the test set against a replacement. During the two months of free maintenance we handle such switches; after that, maintenance continues from the monthly care plan if you want it. Keeping accounts in your name means price changes are visible to you directly." },
     { question: "AI developer hire karne ka kharcha kitna hai?", answer: `BtechWaleTech ke saath AI automation ${P.ai} se shuru hota hai aur zyada tar projects 2–4 hafte mein ban jaate hain. AI model ka usage bill alag hota hai jo seedha aapke provider account se kat-ta hai. Pehle chhota pilot aapke asli data par chalaya jaata hai, results dekh kar hi aage badhte hain, aur code aapke naam par rehta hai.` },
     { question: "Do you work on AI projects for clients outside India?", answer: `Yes. Remote delivery suits AI work because data sharing, testing and reviews all happen online. International clients are billed in USD, with AI automation starting at ${P.aiUsd}, and pay through Wise, bank wire or PayPal. We schedule calls in overlapping hours and share progress on a staging link and WhatsApp, the same way we do for Indian clients.` },
   ],
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Have a task you think AI could handle? Test it first",
-    note: `Send us a description and a few real examples on WhatsApp. You will get an itemised quote and a proposed test set in about two working days, with AI projects starting at ${P.ai}, accounts in your name and five months of free maintenance after go-live.`,
+    note: `Send us a description and a few real examples on WhatsApp. You will get an itemised quote and a proposed test set in about two working days, with AI projects starting at ${P.ai}, accounts in your name and two months of free maintenance after go-live.`,
   },
 };
 

@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers who share every codebase" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Platform or recruiter fees" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What is the best way to hire developers in India?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "SEO website at scale", note: `700+ structured pages for service and location searches, from ${P.seoSiteUsd} (${P.seoSite}).`, href: "/seo-website-developer/", size: "md" },
       { name: "Online store", note: `Catalogue, cart, card and UPI checkout, order flow, from ${P.shopUsd} (${P.shop}).`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "AI automation", note: `Document reading, lead routing, WhatsApp replies and reports connected to your tools, from ${P.aiUsd} (${P.ai}).`, href: "/ai-automation-freelancer/", size: "sm" },
-      { name: "Maintenance after launch", note: `Five months free, then from ${P.careUsd} (${P.care}) a month if you want us to stay on.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance after launch", note: `Two months free, then from ${P.careUsd} (${P.care}) a month if you want us to stay on.`, href: "/website-maintenance-freelancer/", size: "sm" },
       { name: "Monthly SEO", note: `Technical fixes, content and Search Console reports from ${P.seoUsd} (${P.seo}). No ranking promises.`, href: "/services/seo-services/", size: "sm" },
     ],
   },
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Plan the exit on day one. A good engagement ends with you able to hand the system to anyone else without asking the original developers for permission.`,
         `At launch we hand over the repository, a short README on how to run and deploy the project, environment variable names (values stay in your password manager), admin logins, and a list of every renewal date: domain, SSL, hosting, app store memberships and paid APIs. For apps, releases sit in your Play Console and App Store Connect accounts.`,
-        `After launch you get five months of free maintenance for fixes, updates and small changes. After that you can keep us on from ${P.careUsd} (${P.care}) a month, move to your own staff, or bring in another team. The point of owning everything is that the choice stays yours.`,
+        `After launch you get two months of free maintenance for fixes, updates and small changes. After that you can keep us on from ${P.careUsd} (${P.care}) a month, move to your own staff, or bring in another team. The point of owning everything is that the choice stays yours.`,
       ],
     },
     {
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks"],
         ["AI automation", `From ${P.aiUsd}`, `From ${P.ai}`, "2–4 weeks"],
-        ["Maintenance after the free 5 months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
+        ["Maintenance after the free 2 months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly"],
       ],
     },
     {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Create accounts in your name", "Your repository, cloud or hosting, domain and store accounts are set up under your organisation, with the three of us invited as members."],
       ["Build in visible stages", "Each stage lands on a staging link you can test. Payment for a stage follows the work you have seen, not a promise of it."],
       ["Launch and hand over", "We deploy, run final checks, then hand over the repository, README, logins and renewal dates. Apps go out through your own store accounts."],
-      ["Five months of support", `Fixes, updates and small changes are free for five months after launch. Afterwards maintenance is optional, from ${P.careUsd} (${P.care}) a month.`],
+      ["Two months of support", `Fixes, updates and small changes are free for two months after launch. Afterwards maintenance is optional, from ${P.careUsd} (${P.care}) a month.`],
     ],
   },
   faqHeading: "Hiring developers in India: common questions",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
     { question: "What red flags should I watch for when hiring Indian developers?", answer: "Be careful if someone asks for full payment upfront, keeps the domain or repository in their own name, cannot show live work, promises guaranteed search rankings, or will not name who writes the code. Also be wary of quotes with no breakdown, because you cannot tell what has been left out until it is too late." },
     { question: "Do Indian developers work on weekends or public holidays?", answer: "Practices vary by developer and vendor, so agree it in writing. BtechWaleTech replies on WhatsApp seven days a week in IST hours. Indian festivals such as Diwali can slow some vendors for a few days, so check the calendar when you set launch dates for any Indian team." },
     { question: "Can developers in India build mobile apps for the App Store and Google Play?", answer: `Yes. We build Android and iOS apps with Flutter or React Native from ${P.appUsd} (${P.app}), usually in 6–10 weeks, and publish them through your own Play Console and App Store Connect accounts so the listings stay yours if you change developers later.` },
-    { question: "What happens after launch if I hire your team?", answer: `You get five months of free maintenance covering fixes, updates, backups and small changes. After that you can continue with us from ${P.careUsd} (${P.care}) a month, move the work in-house, or give it to another team. The handover pack includes the repository, deployment notes and every login and renewal date.` },
+    { question: "What happens after launch if I hire your team?", answer: `You get two months of free maintenance covering fixes, updates, backups and small changes. After that you can continue with us from ${P.careUsd} (${P.care}) a month, move the work in-house, or give it to another team. The handover pack includes the repository, deployment notes and every login and renewal date.` },
     { question: "Can I hire developers in India part time or for a few hours a month?", answer: `Yes, for ongoing upkeep or small changes that is common. Our maintenance plan starts at ${P.careUsd} (${P.care}) a month after the free period. For a steady stream of feature work, a monthly arrangement agreed in your written quote usually works better than paying hour by hour.` },
     { question: "Do I need to visit India or meet the developers in person?", answer: "No. Nearly all offshore software work is run remotely through video calls, written updates, shared boards and staging links. BtechWaleTech has no office and does not do on-site visits; you judge progress on working builds you can open yourself, which is a better test than a meeting room." },
     { question: "Can Indian clients also hire your team?", answer: `Yes, most of our clients are in India. Indian clients pay by UPI or bank transfer, can talk to us in Hindi or English, and see the same itemised quotes in rupees, for example a website from ${P.site} or custom software from ${P.software}.` },
@@ -438,7 +438,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning to hire developers in India? Start with a brief",
-    note: `Send us what you need built. Within about two working days you get an itemised quote in USD or INR, with websites from ${P.siteUsd} and custom software from ${P.softwareUsd}, accounts in your name and five months of free maintenance after launch.`,
+    note: `Send us what you need built. Within about two working days you get an itemised quote in USD or INR, with websites from ${P.siteUsd} and custom software from ${P.softwareUsd}, accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

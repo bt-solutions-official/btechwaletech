@@ -7,7 +7,7 @@ const ratlam: CityContent = {
   meta: {
     title: "IT Services in Ratlam: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, UPI stores and WhatsApp automation for Ratlam namkeen makers, jewellers, saree sellers and traders. Published prices and 5 months free care.",
+      "Websites, local SEO, UPI stores and WhatsApp automation for Ratlam namkeen makers, jewellers, saree sellers and traders. Published prices and 2 months free care.",
     keywords: [
       "website development team in Ratlam",
       "web designer Ratlam",
@@ -31,11 +31,11 @@ const ratlam: CityContent = {
     eyebrow: "Ratlam · Madhya Pradesh",
     h1: "Websites, apps, SEO and AI automation for Ratlam's sev makers, Chandni Chowk jewellers and saree traders",
     lede:
-      "Three engineers working remotely, building websites, UPI stores, Google Maps visibility and WhatsApp order flows for Ratlam district: namkeen units shipping GI-tagged Ratlami sev, Sarafa jewellers, saree shops near Do Batti, chemical and wire makers off Jaora Road, and clinics and schools across the city. Prices are public and the first five months of upkeep are free.",
+      "Three engineers working remotely, building websites, UPI stores, Google Maps visibility and WhatsApp order flows for Ratlam district: namkeen units shipping GI-tagged Ratlami sev, Sarafa jewellers, saree shops near Do Batti, chemical and wire makers off Jaora Road, and clinics and schools across the city. Prices are public and the first two months of upkeep are free.",
     pills: ["Sites from ₹10,000", "Sev and namkeen stores", "Jeweller catalogues", "Hindi and English pages", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A business website in Ratlam starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, a namkeen or saree store with UPI at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team of three engineers without a Ratlam office, and five months of maintenance are free.",
+    "A business website in Ratlam starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, a namkeen or saree store with UPI at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team of three engineers without a Ratlam office, and two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Malwa region of north-west Madhya Pradesh, close to the Rajasthan and Gujarat borders" },
     { label: "Railway hub", value: "Ratlam Junction on the Delhi–Mumbai and Ajmer–Khandwa routes, and a Western Railway division headquarters" },
@@ -52,10 +52,10 @@ const ratlam: CityContent = {
     ai: "WhatsApp replies that share price lists, today's designs or dispatch status in Hindi and log every trade enquiry to a sheet.",
     data: "Dashboards for daily sales, dispatch by city, dealer outstanding and best-selling products, read on your phone.",
     app: "Android and iPhone apps for distributor reorders, school notices or clinic appointments, one codebase released on both stores from ₹40,000.",
-    maintenance: "Free updates, backups and security fixes for five months after launch, then from ₹8,000 a month or pay only for the changes you need.",
+    maintenance: "Free updates, backups and security fixes for two months after launch, then from ₹8,000 a month or pay only for the changes you need.",
   },
   whyUsIntro:
-    "Ratlam businesses often choose between a very cheap local site that nobody updates and an Indore agency quote that feels heavy for a family firm. We publish our prices, reply on WhatsApp seven days a week, keep the domain in your name and maintain the site free for five months after launch.",
+    "Ratlam businesses often choose between a very cheap local site that nobody updates and an Indore agency quote that feels heavy for a family firm. We publish our prices, reply on WhatsApp seven days a week, keep the domain in your name and maintain the site free for two months after launch.",
   pricingIntro:
     "Our starting prices are the same in Ratlam as anywhere else. Your exact figure depends on how many pages, products and features you need, and it comes to you in writing, item by item, before any work starts. Nothing is billed until you approve that quote.",
   sections: [
@@ -174,11 +174,11 @@ const ratlam: CityContent = {
     },
     {
       id: "ratlam-ownership",
-      heading: "Your domain, your code, and free upkeep for five months",
+      heading: "Your domain, your code, and free upkeep for two months",
       paragraphs: [
         "A common Ratlam story: the domain was registered by a nephew or a local operator, he moved to Indore or Pune, and now nobody can renew it or change the phone number on the site. We avoid that completely by registering the domain and hosting in your name from day one.",
         "At launch you receive all logins, the complete code and a written note explaining the setup. You can hand the site to another developer whenever you like, without any exit fee or permission from us.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime checks and speed checks. After that it is from ₹8,000 a month, or you can message us only when you need something changed. Our <a href=\"/services/web-development/\">web development page</a> explains how a typical project runs.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime checks and speed checks. After that it is from ₹8,000 a month, or you can message us only when you need something changed. Our <a href=\"/services/web-development/\">web development page</a> explains how a typical project runs.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const ratlam: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "For five months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need a change and pay just for that work.",
+        "For two months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need a change and pay just for that work.",
     },
     {
       question: "How soon does SEO work in Ratlam?",

@@ -31,11 +31,11 @@ const hindupur: CityContent = {
     eyebrow: "Hindupur · Sri Sathya Sai district",
     h1: "Websites, software, SEO and AI tools for textile sellers, silk and tamarind traders and industrial suppliers",
     lede:
-      "We are three remote engineers who build websites, search visibility, online stores and WhatsApp workflows for Hindupur. Our clients include garment and saree retailers, cocoon and tamarind traders, suppliers in the Penukonda–Hindupur industrial belt, schools, clinics and Lepakshi-bound travel businesses. We write in Telugu, English and Urdu where needed, and the first five months of upkeep are free.",
+      "We are three remote engineers who build websites, search visibility, online stores and WhatsApp workflows for Hindupur. Our clients include garment and saree retailers, cocoon and tamarind traders, suppliers in the Penukonda–Hindupur industrial belt, schools, clinics and Lepakshi-bound travel businesses. We write in Telugu, English and Urdu where needed, and the first two months of upkeep are free.",
     pills: ["Sites from ₹10,000", "Telugu, Urdu and English", "Garment and saree stores", "Supplier capability pages", "WhatsApp order routing"],
   },
   quickAnswer:
-    "Hindupur businesses can get a website from ₹10,000 with us, usually ready in one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We work remotely with no Hindupur office and include five months of free maintenance.",
+    "Hindupur businesses can get a website from ₹10,000 with us, usually ready in one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We work remotely with no Hindupur office and include two months of free maintenance.",
   snapshot: [
     { label: "District", value: "Largest town of Sri Sathya Sai district, about 67 km from the headquarters at Puttaparthi" },
     { label: "Connectivity", value: "On NH 44 and the Bengaluru–Guntakal rail line (station code HUP); Bengaluru airport is about 90 km away" },
@@ -52,10 +52,10 @@ const hindupur: CityContent = {
     ai: "WhatsApp replies in Telugu, Urdu or English for stock, rate and timing questions, with a person taking over when it matters.",
     data: "Simple dashboards for season-wise arrivals, sales by party or production output, fed from your existing sheets.",
     app: "Android and iOS apps for salesmen, collection agents and factory attendance that run on ordinary phones, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Free fixes, updates and backups for five months after launch; ongoing care starts from ₹8,000 a month.",
+    maintenance: "Free fixes, updates and backups for two months after launch; ongoing care starts from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Hindupur owners often end up with a Bengaluru agency that is quick to sell and slow to support, or a part-time local builder who stops picking up. We list starting prices publicly, write pages in the languages your buyers use, answer WhatsApp messages daily, and look after your site at no cost for the first five months.",
+    "Hindupur owners often end up with a Bengaluru agency that is quick to sell and slow to support, or a part-time local builder who stops picking up. We list starting prices publicly, write pages in the languages your buyers use, answer WhatsApp messages daily, and look after your site at no cost for the first two months.",
   pricingIntro:
     "These are opening prices for Hindupur projects, not packages. Your actual figure moves with the number of pages, products and languages and the features you want. We send a written quote that lists every item, and you pay nothing until you have agreed to it in writing.",
   sections: [
@@ -194,11 +194,11 @@ const hindupur: CityContent = {
     },
     {
       id: "ownership-maintenance-hindupur",
-      heading: "Ownership, handover and five free months of care",
+      heading: "Ownership, handover and two free months of care",
       paragraphs: [
         "Plenty of Hindupur shops have a dead website somewhere: built years ago, registered in the developer's name, and lost when the renewal slipped. We structure every project so that cannot happen to you.",
         "The domain and hosting accounts are in your name from day one, every login is handed over at launch, and the code belongs to you. Switching developers later needs no permission and carries no exit fee. We include a brief document explaining where everything lives.",
-        "For five months after launch we look after updates, bug fixes, security patches, backups and uptime checks free of charge. Afterwards, maintenance is available from ₹8,000 a month, or you can simply call on us when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains each build in detail.",
+        "For two months after launch we look after updates, bug fixes, security patches, backups and uptime checks free of charge. Afterwards, maintenance is available from ₹8,000 a month, or you can simply call on us when you need something. Our <a href=\"/services/web-development/\">web development page</a> explains each build in detail.",
       ],
     },
   ],
@@ -278,9 +278,9 @@ const hindupur: CityContent = {
         "You do. Domain and hosting are registered in your name, all logins are handed over at launch and the source code is yours. You can change developers any time without an exit fee, and we leave a short guide explaining how everything is set up.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During those five months we cover updates, fixes, security patches, backups and uptime monitoring. After that, you can continue maintenance from ₹8,000 a month, or pay only when you need a change. There is no lock-in either way.",
+        "During those two months we cover updates, fixes, security patches, backups and uptime monitoring. After that, you can continue maintenance from ₹8,000 a month, or pay only when you need a change. There is no lock-in either way.",
     },
     {
       question: "How soon will SEO work show results?",

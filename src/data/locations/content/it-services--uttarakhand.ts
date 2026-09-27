@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Uttarakhand · Garhwal and Kumaon · Statewide IT services",
     h1: "Freelance IT services in Uttarakhand: software, apps, automation and SEO from Doon to Kumaon",
     lede:
-      "BtechWaleTech provides freelance IT services in Uttarakhand as a group of three independent engineers based in India. We build custom software, web apps, Android and iOS apps from ₹40,000 published on Google Play and the App Store, AI and WhatsApp automations, dashboards, online stores and search-ready websites for hotels in Nainital, factories in SIDCUL Haridwar and Pantnagar, schools in Dehradun and yoga retreats in Rishikesh, with published starting prices and five free months of maintenance.",
+      "BtechWaleTech provides freelance IT services in Uttarakhand as a group of three independent engineers based in India. We build custom software, web apps, Android and iOS apps from ₹40,000 published on Google Play and the App Store, AI and WhatsApp automations, dashboards, online stores and search-ready websites for hotels in Nainital, factories in SIDCUL Haridwar and Pantnagar, schools in Dehradun and yoga retreats in Rishikesh, with published starting prices and two free months of maintenance.",
     pills: ["Websites from ₹10,000", "Custom software from ₹60,000", "AI automation from ₹40,000", "Hill-network friendly builds", "Garhwal and Kumaon covered"],
   },
   quickAnswer:
-    "IT services in Uttarakhand from BtechWaleTech start at ₹10,000 for a website, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software. Delivery takes one to twelve weeks depending on scope. We are three engineers working remotely from India, with five months of free maintenance after launch.",
+    "IT services in Uttarakhand from BtechWaleTech start at ₹10,000 for a website, ₹40,000 for AI automation, ₹50,000 for an online store and ₹60,000 for custom software. Delivery takes one to twelve weeks depending on scope. We are three engineers working remotely from India, with two months of free maintenance after launch.",
   snapshot: [
     { label: "Regions and capital", value: "Two divisions, Garhwal and Kumaon, with 13 districts; Dehradun is the capital and Gairsain is the summer capital" },
     { label: "Main economic centres", value: "Dehradun, Haridwar, Roorkee, Rishikesh, Haldwani, Rudrapur, Kashipur and Nainital" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp automations that handle yatra, trek and room enquiries at any hour, and pass serious bookings to your staff.",
     data: "Dashboards for occupancy, production, admissions or sales that owners can check from Dehradun, Delhi or a hill property on one screen.",
     app: "Android and iOS apps for Uttarakhand trek operators, schools, distributors and hotels, built in Flutter or React Native, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Backups, fixes, security updates and seasonal content changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, fixes, security updates and seasonal content changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Uttarakhand buyers often face a thin choice: a handful of firms in Dehradun or Haldwani, or expensive agencies in Delhi. A remote team that writes its own code, publishes prices and answers on WhatsApp seven days a week works well for a state where your business may sit hours from the nearest IT office.",
@@ -180,7 +180,7 @@ const content: CityContent = {
       id: "it-support-uttarakhand",
       heading: "IT support and maintenance for Uttarakhand businesses after launch",
       paragraphs: [
-        "Every BtechWaleTech project in Uttarakhand includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, speed checks and small content changes. After that, maintenance plans start at ₹8,000 a month, or you can contact us only when needed.",
+        "Every BtechWaleTech project in Uttarakhand includes two months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, speed checks and small content changes. After that, maintenance plans start at ₹8,000 a month, or you can contact us only when needed.",
         "Seasonal businesses benefit from planned maintenance windows. Hotels and yatra operators should update rates, packages and photos before the summer and autumn seasons, and before the Char Dham portals open. Schools need admission forms reset each academic year. We schedule these changes in advance so they do not collide with your busiest weeks.",
         "Support is handled on WhatsApp seven days a week by the engineers who built the system. We explain what we changed and why, and we keep a change log you can read.",
       ],
@@ -282,7 +282,7 @@ const content: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "Five months of maintenance come free after your system goes live. That includes bug fixes, security and dependency updates, backups, uptime and speed checks and small text or photo changes. After five months you can take a plan from ₹8,000 a month or pay only when you need work done.",
+        "Two months of maintenance come free after your system goes live. That includes bug fixes, security and dependency updates, backups, uptime and speed checks and small text or photo changes. After two months you can take a plan from ₹8,000 a month or pay only when you need work done.",
     },
     {
       question: "Can you build software for a SIDCUL factory?",

@@ -35,7 +35,7 @@ const nandurbar: CityContent = {
     pills: ["Websites from ₹10,000", "Chilli and amchur sellers", "Marathi, Hindi and Gujarati", "WhatsApp order capture", "All code handed over"],
   },
   quickAnswer:
-    "In Nandurbar, a business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and five months of maintenance after launch are free.",
+    "In Nandurbar, a business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, you own the domain and code, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "Location", value: "North-west Maharashtra; the district borders Gujarat and Madhya Pradesh, with the Narmada on its northern edge and the Tapi close to the city" },
     { label: "District", value: "Formed on 1 July 1998 from Dhule; six talukas: Nandurbar, Shahada, Navapur, Taloda, Akkalkuwa and Dhadgaon" },
@@ -52,7 +52,7 @@ const nandurbar: CityContent = {
     ai: "WhatsApp assistants that answer rate, admission and appointment questions in Marathi, Hindi or Gujarati and hand complex chats to staff.",
     data: "Dashboards that turn daily arrivals, sales, dues and beneficiary records into clear summaries for owners and NGO managers.",
     app: "Android and iPhone apps for field workers, delivery staff and outreach teams that work offline and sync when the signal returns, from ₹40,000.",
-    maintenance: "Backups, updates, uptime checks and small edits, free for five months and from ₹8,000 a month after that.",
+    maintenance: "Backups, updates, uptime checks and small edits, free for two months and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Many Nandurbar business owners have been sold websites that nobody could update and nobody answered for. We keep it simple and honest: public starting prices, itemised written quotes, replies on WhatsApp seven days a week, and every login, domain and line of code registered to you from the first day.",
@@ -111,7 +111,7 @@ const nandurbar: CityContent = {
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Rate broadcasts, order capture and admission replies.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Chilli powder, amchur and masalas with UPI payments.",
         "<strong>Custom software or field app — from ₹60,000, 6–12 weeks.</strong> Purchase ledgers and offline data collection.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the free five months end.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the free two months end.",
       ],
     },
     {
@@ -185,7 +185,7 @@ const nandurbar: CityContent = {
       heading: "Your website, your data, and support after launch",
       paragraphs: [
         "The domain is registered in your name, hosting sits in your account, and all code and passwords are handed over at launch. For field apps and ledgers, the database is also yours. If you ever prefer a different developer, you can move without our permission or any fee.",
-        "Maintenance is free for five months after launch, covering security updates, backups, uptime monitoring and small edits like new rates, timings, products or notices. After that, it starts at ₹8,000 a month and you can stop at any time.",
+        "Maintenance is free for two months after launch, covering security updates, backups, uptime monitoring and small edits like new rates, timings, products or notices. After that, it starts at ₹8,000 a month and you can stop at any time.",
         "A website left alone slowly decays: forms stop working, software goes out of date and pages grow heavy. We check these things monthly and send a short report, so your site is ready when the chilli season or admission rush arrives.",
       ],
     },
@@ -273,7 +273,7 @@ const nandurbar: CityContent = {
     {
       question: "How much does maintenance cost after launch?",
       answer:
-        "Maintenance is free for the first five months after launch and covers updates, backups, monitoring and small edits. After that it costs from ₹8,000 a month and can be cancelled at any time. We can also train your staff to change rates, timings and photos themselves.",
+        "Maintenance is free for the first two months after launch and covers updates, backups, monitoring and small edits. After that it costs from ₹8,000 a month and can be cancelled at any time. We can also train your staff to change rates, timings and photos themselves.",
     },
     {
       question: "Can you make a booking website for my Toranmal resort?",

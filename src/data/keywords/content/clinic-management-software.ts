@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Written quote", "Itemised, in about 2 working days"],
     ["Scope", "OPD clinics and polyclinics only"],
     ["Ownership", "Code, database and hosting in your name"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-doctor licence fees on software you own" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Patient app (optional)", value: `From ${P.app}, Android and iOS` },
       { label: "Integrations", value: "ABHA Scan & Share, WhatsApp, lab report upload" },
       { label: "Not included", value: "IPD, bed management, hospital pharmacy" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Clinic management software pricing when you own it",
-    note: `An owned clinic system starts at ${P.software} for the core OPD: registration, token queue, prescription templates, billing and basic reports. The quote grows with the number of doctors and specialities that need their own prescription layouts, whether you want ABHA linking, how many WhatsApp message types you automate, and how much old data we import. A patient app starts at ${P.app}. Hosting is paid by you directly to the cloud provider. After five free months, maintenance is optional from ${P.care}. You get a line-by-line estimate in about two working days and approve it in writing before anything is billed.`,
+    note: `An owned clinic system starts at ${P.software} for the core OPD: registration, token queue, prescription templates, billing and basic reports. The quote grows with the number of doctors and specialities that need their own prescription layouts, whether you want ABHA linking, how many WhatsApp message types you automate, and how much old data we import. A patient app starts at ${P.app}. Hosting is paid by you directly to the cloud provider. After two free months, maintenance is optional from ${P.care}. You get a line-by-line estimate in about two working days and approve it in writing before anything is billed.`,
   },
   guideLabel: "Clinic management software guide",
   guide: [
@@ -136,7 +136,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Compare total cost over 36 months, not the monthly figure against the build figure. SaaS looks cheap in month one and owned software looks expensive in month one; by month thirty-six the picture is often different.`,
         `For SaaS, add up: the subscription for every doctor login you will have in each year (not just today’s count), any setup or training charge, add-ons such as extra branches, SMS or WhatsApp credits, and the yearly price increase written in the terms. Multiply by 36 months. Quotes vary widely between vendors, so use the actual figures from the plan you would buy.`,
-        `For an owned build with us, add up: the build, which starts at ${P.software}; your own cloud hosting, paid directly to the provider; WhatsApp message charges, which Meta bills per message whichever software you use; and maintenance after the five free months, optional from ${P.care}. Add a sum for new features you expect to want in years two and three.`,
+        `For an owned build with us, add up: the build, which starts at ${P.software}; your own cloud hosting, paid directly to the provider; WhatsApp message charges, which Meta bills per message whichever software you use; and maintenance after the two free months, optional from ${P.care}. Add a sum for new features you expect to want in years two and three.`,
         `If the SaaS total is close to or below the owned total, rent. The software is not worth owning just for the sake of it. If the SaaS total is clearly higher and your workflow is unusual, owning usually wins, and the difference grows with each doctor you add. The worksheet table further down lays this out line by line.`,
       ],
     },
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Version one of owned clinic management software usually takes 6 to 12 weeks, depending on specialities, languages and integrations. We release it in phases so the front desk starts using it early.`,
         `Weeks one and two cover a detailed walk-through of your OPD over video, the screen list, the prescription layouts per doctor and a clickable prototype. Weeks three to six build registration, the queue, billing and prescriptions on a test link that your reception and one doctor try with dummy patients. Weeks seven to nine add WhatsApp templates, reports and data migration. ABHA features, if included, follow their own testing path with ABDM and may add time outside our control.`,
-        `Go-live is on a day you pick. For the first week we watch every error log and stay on WhatsApp during OPD hours; small adjustments to layouts and rules are normal in that week and are covered by the five free months of maintenance.`,
+        `Go-live is on a day you pick. For the first week we watch every error log and stay on WhatsApp during OPD hours; small adjustments to layouts and rules are normal in that week and are covered by the two free months of maintenance.`,
       ],
     },
     {
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
         ["Adding doctors", "Extra login fee per doctor", "No per-login fee", "How many doctors you expect by year three"],
         ["Extra branch", "Usually another plan or add-on", "Configuration within your code", "Shared patient records across branches"],
         ["WhatsApp messages", "Credits or Meta charges", "Meta charges from your own account", "Per-message pricing since July 2025"],
-        ["Support and fixes", "Included in plan", `5 months free, then optional from ${P.care}`, "Response on OPD days"],
+        ["Support and fixes", "Included in plan", `2 months free, then optional from ${P.care}`, "Response on OPD days"],
         ["New features", "Only if vendor builds them", "Quoted when you want them", "Your must-have list for years 2–3"],
         ["Leaving", "Depends on export terms", "Everything already yours", "Can you take prescriptions with you?"],
       ],
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
         ["5–6", "Prescriptions, medicine sets, printing", "Each doctor checks their template", "Printed sample pads"],
         ["7", "WhatsApp templates, reports, data import", "Approve message wording", "Real data in test system"],
         ["8", "Go-live and watch", "Pick a quiet day", "Live system, handover notes"],
-        ["After", "Fixes and small changes", "Message us on WhatsApp", "5 months free maintenance"],
+        ["After", "Fixes and small changes", "Message us on WhatsApp", "2 months free maintenance"],
       ],
       hideSm: [2],
     },
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Walk through the OPD on video", "One reception and one doctor session on video lets us map every step, from token to review visit, before designing screens."],
       ["Test with dummy patients", "Your staff use a test link on your own PCs and phones, and each doctor signs off their printed prescription layout."],
       ["Go live on a quiet day", "We import your data, switch on the live system and stay on WhatsApp through the first OPD sessions."],
-      ["Keep it healthy", `Five months of free maintenance covers fixes and small changes. After that, support continues from ${P.care} only if you want it.`],
+      ["Keep it healthy", `Two months of free maintenance covers fixes and small changes. After that, support continues from ${P.care} only if you want it.`],
     ],
   },
   faqHeading: "Clinic management software: questions doctors ask",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Can you move our data from our current clinic software?", answer: "Usually yes, working from the export your current vendor provides, commonly CSV with some prescriptions as PDFs. We clean duplicates, match family members by mobile number and import the history. Check your current plan’s export terms early, because what you can export decides what we can move. Keep the old system read-only for a few months after switching." },
     { question: "Do we also get a mobile app for patients?", answer: `Only if you want one. The core clinic management software runs in a browser on PCs, laptops, tablets and phones. A branded Android and iOS patient app for booking, prescriptions and reports starts at ${P.app}, built with Flutter or React Native and published in your own Google Play and App Store accounts.` },
     { question: "How do payments and contracts work with your team?", answer: "You receive an itemised written quote and nothing is billed before you approve it. Payments in India are by UPI or bank transfer, on the schedule written into your quote. Scope, milestones and ownership are written into the quote; any NDA or further terms are agreed in writing before work starts. See our terms and refund policy pages for the general conditions." },
-    { question: "What happens after the five months of free maintenance?", answer: `Maintenance becomes optional. You can continue with us from ${P.care}, covering updates, backups, security patches and small changes, or take the code and documentation to another developer or your own IT person. Larger new features, such as a new speciality module, are quoted separately so you always know the cost in advance.` },
+    { question: "What happens after the two months of free maintenance?", answer: `Maintenance becomes optional. You can continue with us from ${P.care}, covering updates, backups, security patches and small changes, or take the code and documentation to another developer or your own IT person. Larger new features, such as a new speciality module, are quoted separately so you always know the cost in advance.` },
     { question: "Can freelance developers really build software for a clinic?", answer: "Yes, for OPD-scale systems. We are three freelance developers covering full-stack development, cloud hosting and data, and project management, and we talk to you directly on WhatsApp. What we do not offer is on-site installation, hardware supply or in-person training, and we are not suited to projects that need a large team, such as a multi-hospital chain’s system." },
     { question: "Will clinic management software help my clinic rank on Google?", answer: `Indirectly. The software itself sits behind a login, so Google does not see it. What helps local search is a fast clinic website with doctor and service pages, a well-kept Google Business Profile and genuine patient reviews. Clinic websites start at ${P.site} and monthly SEO at ${P.seo}. Nobody can honestly guarantee rankings.` },
     { question: "Clinic ke liye apna software banwana sahi hai ya monthly plan lena?", answer: `Agar aap akele doctor hain aur abhi shuru kar rahe hain, toh monthly plan theek hai. Agar clinic mein teen ya zyada doctor hain, Hindi ya local bhasha mein parchi chahiye, ya har mahine ka bill badhta ja raha hai, toh apna clinic software behtar padta hai. Hamare saath yeh ${P.software} se shuru hota hai, code aur data aapke naam par rehta hai.` },

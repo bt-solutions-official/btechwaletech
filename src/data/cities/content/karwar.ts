@@ -32,10 +32,10 @@ const karwar: CityContent = {
     h1: "Web, app, SEO and automation services for Karwar's beach stays, water sports, fish traders, clinics and navy-town shops",
     lede:
       "Three engineers, working remotely, building websites, local search and booking tools for Karwar and the Uttara Kannada coast. We work with homestays near Devbagh and Majali, boat and water sports operators, seafood and cashew businesses, clinics near KIMS, schools and the shops that serve naval families, all from published starting prices.",
-    pills: ["Sites from ₹10,000", "Konkani, Kannada, English", "Homestay and boat bookings", "Seafood and cashew stores", "5 months free maintenance"],
+    pills: ["Sites from ₹10,000", "Konkani, Kannada, English", "Homestay and boat bookings", "Seafood and cashew stores", "2 months free maintenance"],
   },
   quickAnswer:
-    "A static website for a Karwar business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team without a Karwar office, and the first five months of maintenance are free.",
+    "A static website for a Karwar business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team without a Karwar office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Uttara Kannada district, at the mouth of the Kali river on the Arabian Sea" },
     { label: "Navy", value: "INS Kadamba at Binaga, built under Project Seabird, is one of the Indian Navy's largest bases" },
@@ -52,10 +52,10 @@ const karwar: CityContent = {
     ai: "WhatsApp replies for room availability, boat timings, prices and appointment requests, passing ready guests or patients to your staff.",
     data: "Dashboards that show bookings by month and source, sales by product, or enquiries by channel across the tourist season.",
     app: "Android and iPhone apps for boat crews, delivery staff or school notices on ordinary phones, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Free updates, fixes and backups for two months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Karwar sits between two bigger markets, Goa to the north and Mangaluru to the south, and local businesses often end up with a Goa-style template that says nothing about Karwar itself. We build pages around your actual place and customers, publish our starting prices, reply on WhatsApp seven days a week and maintain the site free for five months.",
+    "Karwar sits between two bigger markets, Goa to the north and Mangaluru to the south, and local businesses often end up with a Goa-style template that says nothing about Karwar itself. We build pages around your actual place and customers, publish our starting prices, reply on WhatsApp seven days a week and maintain the site free for two months.",
   pricingIntro:
     "Treat these as starting prices. A Kodibag clinic needs far less than a Devbagh stay wanting room pages, a booking calendar and advance payments. You get an itemised quote for your exact scope in about two working days, and nothing is charged until you approve it in writing.",
   sections: [
@@ -186,7 +186,7 @@ const karwar: CityContent = {
       paragraphs: [
         "Many coastal businesses have lost control of their online presence at least once. A booking portal changes its commission, a freelancer stops answering, or a domain registered in someone else's name lapses during the monsoon off-season. Guest contacts and reviews built up over years can vanish overnight.",
         "We register your domain and hosting in your name from the start. At launch you get every login, the full source code and a short note on how the site works. Guest lists, bookings and enquiries stay in accounts you control and can be exported at any time. If you move to another developer later, you take everything with you and pay no exit fee.",
-        "Maintenance is free for five months after launch: rate and photo updates, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you contact us only when you need a change. More details are on our <a href=\"/services/web-development/\">web development page</a>.",
+        "Maintenance is free for two months after launch: rate and photo updates, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you contact us only when you need a change. More details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -277,7 +277,7 @@ const karwar: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we update rates, photos and seasonal notices, fix bugs, apply security updates, take backups and check speed at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we update rates, photos and seasonal notices, fix bugs, apply security updates, take backups and check speed at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Can you build a website for a clinic near KIMS Karwar?",

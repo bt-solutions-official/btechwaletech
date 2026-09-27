@@ -38,17 +38,17 @@ const content: FreelanceContent = {
     ["Typical build", "4–8 weeks for a selling site"],
     ["LearnDash licence", "Bought in your name, billed annually"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who share your code" },
     { value: "5", label: "Enrolment modes LearnDash offers per course" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a LearnDash developer do, and what does it cost?",
-    text: `A LearnDash developer installs and configures the LearnDash plugin on WordPress, builds your course, lesson and quiz structure, connects payments and memberships, designs certificates, writes custom reports and keeps the site fast as students grow. With BtechWaleTech a selling course platform starts at ${P.shop} (${P.shopUsd}), custom LearnDash plugins or reports start at ${P.software}, and maintenance starts at ${P.care} after five free months.`,
+    text: `A LearnDash developer installs and configures the LearnDash plugin on WordPress, builds your course, lesson and quiz structure, connects payments and memberships, designs certificates, writes custom reports and keeps the site fast as students grow. With BtechWaleTech a selling course platform starts at ${P.shop} (${P.shopUsd}), custom LearnDash plugins or reports start at ${P.software}, and maintenance starts at ${P.care} after two free months.`,
     more: `Comparing platforms first? Read <a href='/lms-development-cost/'>LMS development cost</a> or see how a <a href='/course-selling-website-development/'>course selling website</a> is planned end to end.`,
   },
   snapshot: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Marketing site around the courses", value: `From ${P.site}, 1–2 weeks` },
       { label: "Payments", value: "UPI and card checkout in India; card and wallet abroad" },
       { label: "Ownership", value: "Domain, hosting, WordPress admin and code in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `At handover you should hold every key to your course business: the domain, the hosting account, the WordPress administrator login, the LearnDash licence, any premium add-on licences, payment gateway credentials and the code for any custom plugin. If a developer holds any of these in their own name, your courses can go dark when the relationship ends.`,
         `We set up accounts in your name from day one, or you create them and add us as users. Custom plugins are delivered with their source code in a Git repository you control, with a short readme explaining what each one does. You also get a handover document: where videos live, how to add a new course, how drip and certificates are configured, what renews when, and how to restore a backup.`,
-        `The first five months after launch include free maintenance: plugin and LearnDash updates tested on staging first, small content fixes, and help if something odd happens during your first batches. After that, ongoing care starts at ${P.care} a month only if you want it; many clients keep it through exam season and pause afterwards. Terms beyond that are agreed in your written quote.`,
+        `The first two months after launch include free maintenance: plugin and LearnDash updates tested on staging first, small content fixes, and help if something odd happens during your first batches. After that, ongoing care starts at ${P.care} a month only if you want it; many clients keep it through exam season and pause afterwards. Terms beyond that are agreed in your written quote.`,
       ],
     },
     {
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Custom reports or LearnDash plugin", `From ${P.software}`, `From ${P.softwareUsd}`, "2–6 weeks", "Batch, teacher or HR reports; CRM sync"],
         ["WhatsApp or AI add-on", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Reminders, enrolment alerts, question drafting help"],
         ["Companion Android and iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "App reading the same courses and progress"],
-        ["Ongoing maintenance", `From ${P.care}/month`, `From ${P.careUsd}/month`, "After 5 free months", "Tested updates, backups, small changes"],
+        ["Ongoing maintenance", `From ${P.care}/month`, `From ${P.careUsd}/month`, "After 2 free months", "Tested updates, backups, small changes"],
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You buy the LearnDash licence and hosting in your name, or we guide you through it, and add us as users on the staging site."],
       ["One sample course first", "We build one complete course with checkout, drip and certificate on staging, and you test it as a student before we build the rest."],
       ["Load content and test hard", "Remaining courses, quizzes and emails go in. We test real payments, quiz grading, mobile speed and a simulated exam rush."],
-      ["Launch and five free months", "We go live, submit sitemaps to Google Search Console, hand over logins and code, then look after updates free for five months."],
+      ["Launch and two free months", "We go live, submit sitemaps to Google Search Console, hand over logins and code, then look after updates free for two months."],
     ],
   },
   faqHeading: "LearnDash developer: questions course creators ask",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Will my LearnDash site rank on Google?", answer: "Your public pages can. Lessons behind a login are not indexed, which is correct. Course landing pages, syllabus pages, instructor profiles, free sample lessons and blog posts can rank if built well, with clear titles, Course structured data and fast loading. Nobody can honestly guarantee rankings, but good structure gives your courses a fair chance." },
     { question: "Is it better to hire a freelance LearnDash developer or an agency?", answer: "A small freelance team suits most course businesses: the scope is clear, you talk directly to the people building it, and costs stay lower. An agency makes sense if you need many specialists at once, formal procurement or on-site staff. Our three-person team covers development, hosting, SEO and project management, but we do not provide large dedicated teams." },
     { question: "Who owns the LearnDash site after the project?", answer: "You do. The domain, hosting, WordPress admin, LearnDash licence, add-on licences and the source code of any custom plugins stay in your name. We work as invited users on your accounts. At handover you receive a document explaining how courses, drip and certificates are configured and what renews when." },
-    { question: "What happens after my LearnDash site goes live?", answer: `You get five months of free maintenance: LearnDash and plugin updates tested on staging first, small fixes and help during your first batches. After that, maintenance starts at ${P.care} a month if you want it. Many course creators keep it through exam season. Anything beyond that is agreed in your written quote.` },
+    { question: "What happens after my LearnDash site goes live?", answer: `You get two months of free maintenance: LearnDash and plugin updates tested on staging first, small fixes and help during your first batches. After that, maintenance starts at ${P.care} a month if you want it. Many course creators keep it through exam season. Anything beyond that is agreed in your written quote.` },
     { question: "Can you fix a LearnDash site that broke after an update?", answer: "Yes. The usual causes are a theme or add-on that is no longer compatible, direct edits to plugin files that were overwritten, or an old PHP version. We take a backup, reproduce the problem on a staging copy, fix it there and then apply it to the live site. Payments and student access are always fixed first." },
     { question: "Can you build a mobile app for my LearnDash courses?", answer: `Yes. A companion Android and iOS app can read the same courses and progress from your WordPress site, so students continue where they stopped on any device. We build apps in Flutter or React Native and publish them on Google Play and the App Store under your developer accounts. Apps start at ${P.app}.` },
     { question: "How do I pay a LearnDash developer from your team?", answer: "Clients in India pay by UPI or bank transfer; international clients pay by Wise, bank wire or PayPal, with quotes in USD. Nothing is billed before you approve the itemised quote in writing, and payment milestones are listed in that quote. See our terms and refund policy pages for how changes are handled." },
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a LearnDash developer? Send us your course list",
-    note: `Message us on WhatsApp with your courses, how students pay today and how many are active. You will get a course map and an itemised quote in about two working days. Selling platforms start at ${P.shop}, with everything in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with your courses, how students pay today and how many are active. You will get a course map and an itemised quote in about two working days. Selling platforms start at ${P.shop}, with everything in your name and two months of free maintenance after launch.`,
   },
 };
 

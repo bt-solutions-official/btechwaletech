@@ -56,7 +56,7 @@ const ashokNagar: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about today's rates, stock, fees and timings, and hand real decisions back to you.",
     data: "Season dashboards of arrivals bought, bags dispatched, dues by buyer and orders by city for traders and mills.",
     app: "Android and iOS apps from ₹40,000 for grain buyers to see daily lots or for school parents to get notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Traders in Ashok Nagar weigh every rupee and remember who kept their word. We publish our starting prices, send a written quote with each item listed, reply on WhatsApp all seven days, and register every domain, hosting plan, code repository and store account in your name. If something will not pay for itself, we tell you plainly.",
@@ -176,7 +176,7 @@ const ashokNagar: CityContent = {
       heading: "Ownership, handover and maintenance for Ashok Nagar clients",
       paragraphs: [
         "A familiar story in district towns is a website that vanishes because the person who built it registered the domain in his own name and then stopped answering calls. We avoid that completely. The domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are all registered to you, and login details are handed over in writing.",
-        "Maintenance is free for the first five months after launch. That covers content and price changes, backups, security patches, software updates, and regular checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time with all your files.",
+        "Maintenance is free for the first two months after launch. That covers content and price changes, backups, security patches, software updates, and regular checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time with all your files.",
         "Apps need attention every year because Google and Apple keep changing their rules. We track those changes and update your app before a deadline, so it is not pulled from the stores for falling behind.",
       ],
     },
@@ -268,7 +268,7 @@ const ashokNagar: CityContent = {
     {
       question: "What happens after my Ashok Nagar website goes live?",
       answer:
-        "You get five months of free maintenance covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you want us to continue. All accounts are in your name, so you can also move to another developer whenever you wish.",
+        "You get two months of free maintenance covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you want us to continue. All accounts are in your name, so you can also move to another developer whenever you wish.",
     },
     {
       question: "Do you work with businesses in Mungaoli, Isagarh and Chanderi?",

@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Frameworks", "Flutter or React Native, native modules where needed"],
     ["Store accounts", "Apple and Google accounts owned by your company"],
     ["Billing", "Quoted in USD · pay in USD or EUR by Wise, wire or PayPal"],
-    ["After release", `5 free months, then from ${P.care}`],
+    ["After release", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
     { value: "2", label: "Working days to an itemised app estimate" },
-    { value: "5", label: "Months of free maintenance after store release" },
+    { value: "2", label: "Months of free maintenance after store release" },
     { value: "0", label: "Platform or middleman fees on your payments" },
   ],
   answer: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Holiday and sickness cover", "Team cover", "Project pauses", "Two colleagues already know the code"],
       ["Overlap with German hours", "Full day", "Full day if local", "German morning to mid-afternoon"],
       ["Team ceiling", "Large teams possible", "One person", "Three people; not built for 20-developer programmes"],
-      ["After release", "Support contract", "Paid per fix", `5 months free, then from ${P.care}`],
+      ["After release", "Support contract", "Paid per fix", `2 months free, then from ${P.care}`],
     ],
     fine: "If your procurement needs a German legal entity as supplier, on-site workshops or a large squad running for years, a local mobile app development company will fit better than we do.",
   },
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
       heading: "After launch: OS updates, store policy changes and maintenance",
       paragraphs: [
         `An app is never finished. Apple and Google release major operating system versions every year, change store policies and raise the minimum SDK levels they accept, so budget for regular updates from the start.`,
-        `For five months after release, maintenance is free: crash fixes, small changes, dependency updates and help with store review questions. After that, maintenance starts at ${P.care}, and it covers testing against new iOS and Android versions, updating Flutter or React Native and their plugins, renewing certificates and keeping privacy labels current. You can stop it whenever you want, and because the code, accounts and documentation are yours, any other developer can take over.`,
+        `For two months after release, maintenance is free: crash fixes, small changes, dependency updates and help with store review questions. After that, maintenance starts at ${P.care}, and it covers testing against new iOS and Android versions, updating Flutter or React Native and their plugins, renewing certificates and keeping privacy labels current. You can stop it whenever you want, and because the code, accounts and documentation are yours, any other developer can take over.`,
         `We also watch crash reports and store reviews in the first weeks after each release, because that is when real devices show problems that test phones did not. Feature work after launch is quoted separately, like the original build, so you always know what a change costs before it starts.`,
       ],
     },
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
       ["Accounts and repository", "Your company enrols with Apple and Google as an organisation and creates the Git repository and cloud account. We join as team members with the roles the work needs."],
       ["Design, then build in sprints", "Screens are approved first. Features then arrive in short cycles as TestFlight and Google Play test builds your team installs and comments on."],
       ["German-market checks", "Consent flow, in-app Impressum and privacy links, accessibility with VoiceOver and TalkBack, store privacy labels and trader details are tested before submission."],
-      ["Release and aftercare", `We submit to both stores, handle review questions, monitor crashes after launch and maintain free for five months; afterwards from ${P.care} if you want it.`],
+      ["Release and aftercare", `We submit to both stores, handle review questions, monitor crashes after launch and maintain free for two months; afterwards from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Mobile app development company Germany: questions buyers ask",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Do you write the German texts for the app?", answer: "No. We work in English and build the app ready for German and any other languages you need. The German interface text, store descriptions and legal texts come from you, your copywriter or your legal-text provider. We place them, check that longer German words fit the layouts, and keep them editable." },
     { question: "Can you add AI features to our app?", answer: `Yes, as a separate line in the quote, starting from ${P.ai}. Typical features are document or receipt scanning, smart search over your product data, and an assistant that answers from your own content. For German users we choose model providers with EU data options where possible and show clearly when users are talking to an AI.` },
     { question: "How do you help our app get found?", answer: `We set up store listings, localisations and screenshot sizes, and build a landing website with store badges, FAQs, structured data and Search Console. You supply the German marketing copy. Nobody can guarantee store rankings or AI citations, so we focus on clear facts and fast pages. Website SEO support starts at ${P.seo}.` },
-    { question: "What maintenance does an app need after launch?", answer: `Every year brings new iOS and Android versions, store policy changes and framework updates. We maintain the app free for five months after release, then from ${P.care}, covering OS testing, dependency updates, certificate renewals, crash fixes and privacy label updates. You can end maintenance any time, since the code and accounts are yours.` },
+    { question: "What maintenance does an app need after launch?", answer: `Every year brings new iOS and Android versions, store policy changes and framework updates. We maintain the app free for two months after release, then from ${P.care}, covering OS testing, dependency updates, certificate renewals, crash fixes and privacy label updates. You can end maintenance any time, since the code and accounts are yours.` },
     { question: "What does BtechWaleTech not do on app projects?", answer: "We do not visit your office, build hardware, provide legal or tax advice, write native German copy or staff a 20-developer programme. We are three freelance developers who build, release and maintain apps remotely. If your project needs any of those things, we will say so early and suggest what to look for instead." },
   ],
   related: {
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an app for your German company? Send the brief first",
-    note: `Describe the app on WhatsApp, even in a few lines. You get an itemised estimate in about two working days, apps from ${P.app}, store accounts and code in your company’s name, and five free months of maintenance after release.`,
+    note: `Describe the app on WhatsApp, even in a few lines. You get an itemised estimate in about two working days, apps from ${P.app}, store accounts and code in your company’s name, and two free months of maintenance after release.`,
   },
 };
 

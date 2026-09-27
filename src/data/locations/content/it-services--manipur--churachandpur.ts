@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "WhatsApp update and enquiry automation with fixed, tested replies in local languages and English, and people handling sensitive cases.",
     data: "Simple dashboards for NGOs, churches and schools that turn scattered records into clear reports for meetings and donors.",
     app: "Android and iOS apps for Churachandpur schools, clinics, churches and NGOs, built in Flutter or React Native with offline saving and sync.",
-    maintenance: "Backups, fixes and content updates, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Backups, fixes and content updates, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "In a district where information changes quickly and connections are unreliable, organisations need simple, dependable tools more than impressive ones. We build lightweight, offline-aware systems and keep every account in your name.",
@@ -212,7 +212,7 @@ const content: CityContent = {
       id: "cost-choose-churachandpur",
       heading: "What does IT work cost in Churachandpur, and how should you choose a provider?",
       paragraphs: [
-        "IT work for Churachandpur clients with BtechWaleTech starts at ₹10,000 for a static information website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
+        "IT work for Churachandpur clients with BtechWaleTech starts at ₹10,000 for a static information website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months. See the <a href='/pricing/'>pricing page</a>.",
         "If you are comparing a software development team for Churachandpur with a freelance team, ask who writes the code, whether scope and price are written down, whether the domain and hosting will be in your name, and how the system behaves offline. Local providers can visit; remote teams usually cost less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. Earlier work is in our <a href='/portfolio/'>portfolio</a>, and more about us is on the <a href='/about/'>about page</a>.",
       ],
@@ -223,7 +223,7 @@ const content: CityContent = {
       paragraphs: [
         "Getting started takes one WhatsApp message describing your organisation and what you need, with photos of any forms or registers you use. We reply with questions and send an itemised quote within about two working days. Nothing is billed until you approve the scope in writing.",
         "Typical timelines are one to two weeks for information websites, two to four weeks for automation, four to eight weeks for stores and six to twelve weeks for custom software. If connectivity problems interrupt communication, we pause deadlines fairly and catch up when possible.",
-        "After launch you get five months of free maintenance. Explore all <a href='/services/'>services</a>, the statewide <a href='/it-services/manipur/'>Manipur hub</a>, or our page for <a href='/aizawl/'>Aizawl</a> in neighbouring Mizoram.",
+        "After launch you get two months of free maintenance. Explore all <a href='/services/'>services</a>, the statewide <a href='/it-services/manipur/'>Manipur hub</a>, or our page for <a href='/aizawl/'>Aizawl</a> in neighbouring Mizoram.",
       ],
     },
   ],
@@ -293,7 +293,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months free after launch: bug fixes, content and notice updates, backups, security updates and uptime checks. After that you can choose a monthly plan from ₹8,000 or message us only when needed. Any new feature is quoted before we start.",
+        "Two months free after launch: bug fixes, content and notice updates, backups, security updates and uptime checks. After that you can choose a monthly plan from ₹8,000 or message us only when needed. Any new feature is quoted before we start.",
     },
     {
       question: "Can AI automation help a Churachandpur organisation?",
@@ -323,7 +323,7 @@ const content: CityContent = {
     {
       question: "Can a church or school update the website without technical help?",
       answer:
-        "Yes. We set up a simple editing screen where a secretary, pastor or teacher can post a notice, change timings or add photos from a phone in a few minutes. Each change is saved with a date and can be undone. We give a short recorded walkthrough at handover, and during the five free months of maintenance we are available on WhatsApp if anyone gets stuck.",
+        "Yes. We set up a simple editing screen where a secretary, pastor or teacher can post a notice, change timings or add photos from a phone in a few minutes. Each change is saved with a date and can be undone. We give a short recorded walkthrough at handover, and during the two free months of maintenance we are available on WhatsApp if anyone gets stuck.",
     },
     {
       question: "Do you charge less for churches, NGOs or small schools?",

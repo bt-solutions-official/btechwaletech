@@ -31,11 +31,11 @@ const kollam: CityContent = {
     eyebrow: "Kollam · Kerala",
     h1: "Websites, software, SEO and AI tools for Kollam exporters, traders and clinics",
     lede:
-      "We are three engineers who design and build websites, online stores and automations for businesses around Ashtamudi Lake, from cashew processors in Kundara and Kottiyam to seafood firms near Neendakara and shops in Chinnakada. You deal with the engineers directly, prices are public, and five months of upkeep after launch are included.",
-    pills: ["Sites from ₹10,000", "Export-ready catalogues", "Malayalam and English pages", "WhatsApp enquiry flows", "5 months free upkeep"],
+      "We are three engineers who design and build websites, online stores and automations for businesses around Ashtamudi Lake, from cashew processors in Kundara and Kottiyam to seafood firms near Neendakara and shops in Chinnakada. You deal with the engineers directly, prices are public, and two months of upkeep after launch are included.",
+    pills: ["Sites from ₹10,000", "Export-ready catalogues", "Malayalam and English pages", "WhatsApp enquiry flows", "2 months free upkeep"],
   },
   quickAnswer:
-    "A business website in Kollam costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000, usually live in one to five weeks. Online stores start at ₹50,000. We are a remote three-person engineering team with no Kollam office, and every build includes hosting setup, basic SEO and five months of free maintenance.",
+    "A business website in Kollam costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000, usually live in one to five weeks. Online stores start at ₹50,000. We are a remote three-person engineering team with no Kollam office, and every build includes hosting setup, basic SEO and two months of free maintenance.",
   snapshot: [
     { label: "Commercial core", value: "Chinnakada and the clock tower junction, Main Road, Kadappakada, Asramam and Polayathode" },
     { label: "Signature industry", value: "Cashew processing and export; the Cashew Export Promotion Council of India is headquartered at Mundakkal" },
@@ -52,10 +52,10 @@ const kollam: CityContent = {
     ai: "WhatsApp replies, enquiry sorting and AI assistants that answer routine questions in Malayalam or English, so staff at a clinic, showroom or tuition centre can focus on the people in front of them.",
     data: "Clean dashboards for batch yields, export shipments, dealer sales or patient footfall, built from the spreadsheets you already keep.",
     app: "Android and iOS apps for bookings, delivery orders or member accounts, built in Flutter or React Native and released on both app stores.",
-    maintenance: "Updates, backups, security fixes and speed checks at no cost for five months after launch, then from ₹8,000 a month if you want us to keep looking after it.",
+    maintenance: "Updates, backups, security fixes and speed checks at no cost for two months after launch, then from ₹8,000 a month if you want us to keep looking after it.",
   },
   whyUsIntro:
-    "Kollam has its share of web designers, many of them working out of small offices near Chinnakada or entirely through Instagram. Prices are rarely written down, and support often fades once the final payment clears. We publish our starting prices, answer WhatsApp every day of the week, and remain responsible for your site for five months after it goes live.",
+    "Kollam has its share of web designers, many of them working out of small offices near Chinnakada or entirely through Instagram. Prices are rarely written down, and support often fades once the final payment clears. We publish our starting prices, answer WhatsApp every day of the week, and remain responsible for your site for two months after it goes live.",
   pricingIntro:
     "The figures below are what our work actually starts at in Kollam. A cashew exporter with twelve product grades, certifications and three languages will pay more than a tuition centre with four pages, and the quote will say exactly why, line by line, before anything is billed.",
   sections: [
@@ -173,11 +173,11 @@ const kollam: CityContent = {
     },
     {
       id: "ownership-kollam",
-      heading: "You own it: domain, hosting, code and five free months",
+      heading: "You own it: domain, hosting, code and two free months",
       paragraphs: [
         "A surprising number of older Kollam websites are stuck. The domain sits in a former developer's account, the hosting renewal goes to an email nobody checks, and one day the site simply disappears. Recovering control can take weeks of emails to registrars, and sometimes it cannot be done at all.",
         "We avoid that from the first day. The domain is registered in your name, the hosting account belongs to you, and at launch you receive every password along with a short note describing where each part lives. The code is yours. You can move it to another developer whenever you like, with no exit charge and no awkward conversation.",
-        "Once the site is live, the next five months of maintenance are free: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can keep us on from ₹8,000 a month or simply message us when something needs doing.",
+        "Once the site is live, the next two months of maintenance are free: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can keep us on from ₹8,000 a month or simply message us when something needs doing.",
       ],
     },
   ],
@@ -257,9 +257,9 @@ const kollam: CityContent = {
         "Yes, fully. The domain is registered in your name, the hosting account is yours, and you get all passwords and the source code at launch. You can move to another developer at any time without an exit fee. We insist on this because lost access is a common problem with older Kollam sites.",
     },
     {
-      question: "What does the free maintenance cover, and what happens after five months?",
+      question: "What does the free maintenance cover, and what happens after two months?",
       answer:
-        "For five months after launch we handle content and price edits, bug fixes, security and dependency updates, backups, uptime checks and speed checks at no charge. After that you can continue from ₹8,000 a month, or simply contact us whenever you need a change.",
+        "For two months after launch we handle content and price edits, bug fixes, security and dependency updates, backups, uptime checks and speed checks at no charge. After that you can continue from ₹8,000 a month, or simply contact us whenever you need a change.",
     },
     {
       question: "How long before SEO shows results for a Kollam business?",

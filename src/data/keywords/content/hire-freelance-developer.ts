@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "AI developer", note: `Chatbots, document reading and workflow automation connected to your tools, from ${P.ai}.`, href: "/hire-ai-developer/", size: "md" },
       { name: "Python or Node.js developer", note: "APIs, scripts, integrations and back-end fixes for an existing product, quoted per task after we see the code.", href: "/hire-python-developer/", size: "sm" },
       { name: "SEO specialist", note: `Technical SEO, content and Search Console reporting from ${P.seo}, with no ranking promises.`, href: "/hire-seo-expert/", size: "sm" },
-      { name: "Maintenance developer", note: `Updates, backups and fixes after the five free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance developer", note: `Updates, backups and fixes after the two free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -293,7 +293,7 @@ const content: FreelanceContent = {
         ["App developer", "Android and iOS app", P.app, P.appUsd, "6–10 weeks"],
         ["Full stack developer", "Portal, SaaS tool or admin panel", P.software, P.softwareUsd, "6–12 weeks"],
         ["AI developer", "Automation or AI agent", P.ai, P.aiUsd, "2–4 weeks"],
-        ["Maintenance developer", "Monthly care after 5 free months", P.care, P.careUsd, "Monthly"],
+        ["Maintenance developer", "Monthly care after 2 free months", P.care, P.careUsd, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -344,7 +344,7 @@ const content: FreelanceContent = {
       ["Optional paid first milestone", "If you want proof first, we start with a small real piece of the project on a staging link, so you judge our work before committing the full budget."],
       ["Accounts go in your name", "Domain, hosting, repository and store accounts are opened by you or with you on a call. We work as invited users throughout."],
       ["Build with weekly demos", "You see progress on staging, receive short written updates and give feedback in one place. New requests are quoted as changes so the plan stays honest."],
-      ["Launch and five free months", "We launch, hand over logins and documentation, and cover fixes and small changes free for five months. After that, maintenance is optional."],
+      ["Launch and two free months", "We launch, hand over logins and documentation, and cover fixes and small changes free for two months. After that, maintenance is optional."],
     ],
   },
   faqHeading: "Hiring a freelance developer: common questions",
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
     { question: "What should I ask a freelance developer before hiring?", answer: "Ask what they personally built on past projects, how they would approach your brief, whose name accounts will be in, how you will see progress, what happens if they are unavailable, and what support they give after launch. Listen for specific, honest answers. Vague replies or instant quotes without questions are warning signs." },
     { question: "Should I give a freelance developer a test task?", answer: "Yes, but pay for it. A small, real piece of your project, such as one screen or one page, shows how the developer communicates, handles unclear points and meets deadlines. Unpaid tests put off experienced people and tell you less. A paid first milestone also keeps the risk small for both sides." },
     { question: "How long does it take to hire a freelance developer?", answer: "On a marketplace you can have proposals within hours. Hiring directly usually takes a few days: a brief, a couple of calls, an estimate and perhaps a short paid test. BtechWaleTech sends an itemised estimate in about two working days after understanding your brief, and work can begin once you approve it in writing." },
-    { question: "Can I hire a freelance developer for a long-term project?", answer: `Yes. Many clients start with a defined build and continue with monthly maintenance. BtechWaleTech includes five months of free maintenance after launch, and ongoing care starts at ${P.care} after that. For continuous development work, a monthly arrangement can be agreed in the written quote, with a log of the work done each month.` },
+    { question: "Can I hire a freelance developer for a long-term project?", answer: `Yes. Many clients start with a defined build and continue with monthly maintenance. BtechWaleTech includes two months of free maintenance after launch, and ongoing care starts at ${P.care} after that. For continuous development work, a monthly arrangement can be agreed in the written quote, with a log of the work done each month.` },
     { question: "What is the difference between a freelance developer and an agency?", answer: "A freelance developer or small freelance team works directly with you, with fewer layers and usually lower overheads. An agency has account managers, several departments and more people to scale up, at higher cost. Freelancers suit defined projects where direct contact matters; agencies suit very large programmes or strict procurement requirements." },
     { question: "Who owns the code when I hire a freelancer?", answer: "You should own it. Agree in writing that code and content made for your project belong to you once paid for, and keep the repository in your own account from the start. BtechWaleTech sets up domain, hosting, repository and app store accounts in the client’s name and hands over every login and a short technical document at launch." },
     { question: "Do I need a contract to hire a freelance developer?", answer: "You need written terms, even if they are a detailed email both sides confirm. Cover scope, price per stage, timeline, acceptance, ownership and support. Off-platform, these terms and a staged payment plan replace the protection a marketplace would give you. Project-specific terms with BtechWaleTech are written into the approved quote; our general terms are on the site." },
@@ -364,9 +364,9 @@ const content: FreelanceContent = {
     { question: "Can one freelance developer build both my website and app?", answer: `Some can. BtechWaleTech is three developers covering web, Android and iOS apps, back-end systems and AI automation, so the same people can build a website from ${P.site} and an app from ${P.app} that share data and logins. That saves you explaining the business twice and keeps the design consistent.` },
     { question: "What are the red flags when hiring a freelance developer?", answer: "Be careful if someone quotes instantly without questions, shows only screenshots, wants the domain or store account in their own name, asks for full payment upfront or into someone else’s account, promises guaranteed rankings or downloads, or disappears during a test task. Two or more of these signs are a good reason to keep looking." },
     { question: "Can I hire a freelance developer near me instead of online?", answer: "You can, but location matters less than evidence and process. Remote developers share staging links, join video calls and reply on chat, often faster than arranging office visits. BtechWaleTech works remotely with clients across India and abroad and does not make on-site visits, so we suit clients who are comfortable working online." },
-    { question: "Will a freelance developer maintain my project after launch?", answer: `Ask before hiring, because terms differ widely. BtechWaleTech includes five months of free maintenance after launch for fixes, updates and small changes. After that, maintenance starts at ${P.care} if you want it, or you can take the handover documents and manage the project yourself or with another developer.` },
+    { question: "Will a freelance developer maintain my project after launch?", answer: `Ask before hiring, because terms differ widely. BtechWaleTech includes two months of free maintenance after launch for fixes, updates and small changes. After that, maintenance starts at ${P.care} if you want it, or you can take the handover documents and manage the project yourself or with another developer.` },
     { question: "Can foreign clients hire a freelance developer from India directly?", answer: `Yes. BtechWaleTech works with clients in the USA, UK, Canada, Australia, the UAE and Singapore, quotes in USD with websites from ${P.siteUsd}, and accepts Wise, bank wire or PayPal. We agree an overlap window for calls and keep everything else in writing, with your code in your own repository.` },
-    { question: "Freelance developer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath website ${P.site} se, online store ${P.shop} se aur Android-iOS app ${P.app} se shuru hota hai. Final kharcha features aur pages par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, koi platform fee nahi lagti, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Freelance developer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath website ${P.site} se, online store ${P.shop} se aur Android-iOS app ${P.app} se shuru hota hai. Final kharcha features aur pages par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, koi platform fee nahi lagti, aur launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "More hiring guides",
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want to hire a freelance developer without platform fees?",
-    note: `Send your brief on WhatsApp or email. You will get an itemised estimate in about two working days, with websites from ${P.site}, apps from ${P.app}, accounts in your name and five months of free maintenance after launch.`,
+    note: `Send your brief on WhatsApp or email. You will get an itemised estimate in about two working days, with websites from ${P.site}, apps from ${P.app}, accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

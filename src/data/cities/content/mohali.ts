@@ -31,11 +31,11 @@ const mohali: CityContent = {
     eyebrow: "Mohali (SAS Nagar) · Punjab",
     h1: "Web development, SEO and automation for Mohali's startups, clinics, builders and consultants",
     lede:
-      "We are three engineers working remotely for businesses across Mohali, Kharar and Zirakpur. We build marketing sites, SaaS products, property portals, clinic booking systems and WhatsApp automations. Prices are published, you work directly with the developers instead of an account manager, and maintenance costs nothing for the first five months after launch.",
+      "We are three engineers working remotely for businesses across Mohali, Kharar and Zirakpur. We build marketing sites, SaaS products, property portals, clinic booking systems and WhatsApp automations. Prices are published, you work directly with the developers instead of an account manager, and maintenance costs nothing for the first two months after launch.",
     pills: ["Sites from ₹10,000", "SaaS and web apps", "Punjabi, Hindi, English", "Property and clinic sites", "AI and WhatsApp agents"],
   },
   quickAnswer:
-    "In Mohali, a business website with us starts from ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team without a Mohali office, and maintenance is free for five months.",
+    "In Mohali, a business website with us starts from ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team without a Mohali office, and maintenance is free for two months.",
   snapshot: [
     { label: "Official name", value: "Sahibzada Ajit Singh Nagar (SAS Nagar), a planned city beside Chandigarh, founded in 1975" },
     { label: "Layout", value: "Sector grid, with the first sectors known as Phases, extending to Sector 128 under GMADA plans" },
@@ -52,7 +52,7 @@ const mohali: CityContent = {
     ai: "AI agents and WhatsApp bots that qualify property leads, pre-screen visa enquiries or book clinic slots without a person on every message.",
     data: "Dashboards joining CRM, ad spend and sales data for Mohali marketing teams and founders who want one honest number.",
     app: "Android and iOS apps for PG and hostel bookings, patient follow-ups or field sales, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Free updates, backups and security patches for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security patches for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mohali has no shortage of IT companies, and that is exactly why small businesses here find it hard to pick one. Big firms quote for enterprise work, while many small agencies resell templates. We are three engineers who publish starting prices, answer WhatsApp every day, write the code ourselves and hand you full ownership at launch.",
@@ -188,7 +188,7 @@ const mohali: CityContent = {
       paragraphs: [
         "In a city with high developer turnover, ownership matters. Agencies change staff, freelancers take full-time jobs, and businesses discover their site lives on an account nobody can access.",
         "We register domains, hosting and cloud accounts in your name. At launch you receive every login, the full code repository, and documentation that another developer can follow. There is no exit fee and no licence that expires if you leave us.",
-        "For five months after launch, maintenance is free: content edits, bug fixes, security patches, dependency updates, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can call us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains how we build and hand over.",
+        "For two months after launch, maintenance is free: content edits, bug fixes, security patches, dependency updates, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can call us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains how we build and hand over.",
       ],
     },
     {
@@ -280,7 +280,7 @@ const mohali: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle edits, bug fixes, security patches, dependency updates, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle edits, bug fixes, security patches, dependency updates, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "How long does SEO take in a competitive city like Mohali?",

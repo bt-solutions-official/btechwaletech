@@ -41,12 +41,12 @@ const content: FreelanceContent = {
     ["Client portal or document room from", `${P.software}, 6–12 weeks`],
     ["Languages", "Dutch and English, copy supplied or approved by your lawyers"],
     ["Intake data", "Minimal fields, encrypted, stored on EU hosting you control"],
-    ["After launch", `5 months of free maintenance, then from ${P.care}`],
+    ["After launch", `2 months of free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days until your itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Client files we need to see" },
   ],
   answer: {
@@ -99,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What law firm website design costs",
-    note: `All figures are starting prices in USD, confirmed in an itemised quote within about two working days. A law firm site with practice-area pages, lawyer profiles, an intake form and a contact page starts from ${P.site}. Practices with many areas of law, two full language trees and a regular insights programme usually fit the content-heavy plan from ${P.seoSite}, because templates, internal linking and sitemaps are designed for scale. A client portal with secure document exchange starts from ${P.software}. Monthly SEO starts from ${P.seo}. Maintenance is free for five months after launch, then from ${P.care}. Copywriting and translation are not included unless quoted.`,
+    note: `All figures are starting prices in USD, confirmed in an itemised quote within about two working days. A law firm site with practice-area pages, lawyer profiles, an intake form and a contact page starts from ${P.site}. Practices with many areas of law, two full language trees and a regular insights programme usually fit the content-heavy plan from ${P.seoSite}, because templates, internal linking and sitemaps are designed for scale. A client portal with secure document exchange starts from ${P.software}. Monthly SEO starts from ${P.seo}. Maintenance is free for two months after launch, then from ${P.care}. Copywriting and translation are not included unless quoted.`,
   },
   guideLabel: "Law firm website design guide",
   guide: [
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
         ["Client portal", "Logins, document exchange, matter updates", P.software, "6–12 weeks"],
         ["AI drafting helpers", "Outlines and summaries for lawyer review", P.ai, "2–4 weeks"],
         ["Monthly SEO", "Local SEO, technical fixes, reporting", P.seo, "Monthly"],
-        ["Maintenance", "Updates, backups, security, small edits", P.care, "Monthly, after 5 free months"],
+        ["Maintenance", "Updates, backups, security, small edits", P.care, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -452,7 +452,7 @@ const content: FreelanceContent = {
       ["Agree structure and reviewers", "We map hubs, matter pages and profiles, and you name a reviewing lawyer for each area so copy approval runs alongside the build."],
       ["Review templates on staging", "Homepage, hub, matter page, profile and intake designs in both languages, demoed on video calls during your late morning or early afternoon."],
       ["Load approved copy and test", "Only signed-off pages go in. We validate structured data, test intake with dummy records and check the site with every optional cookie refused."],
-      ["Launch and maintain", `Redirects, Search Console submission and a final partner sign-off. Five months of maintenance are free, then from ${P.care} a month.`],
+      ["Launch and maintain", `Redirects, Search Console submission and a final partner sign-off. Two months of maintenance are free, then from ${P.care} a month.`],
     ],
   },
   faqHeading: "Law firm website design: questions from Dutch practices",
@@ -477,7 +477,7 @@ const content: FreelanceContent = {
     { question: "How do we pay for law firm website design from India?", answer: "Quotes are in USD and invoices come from India. You pay by Wise, bank wire or PayPal against milestones such as approved templates and launch, and nothing is billed before you approve the quote in writing. Your accountant can advise on how a non-EU invoice is treated for Dutch VAT." },
     { question: "Can you add online consultation booking?", answer: "Yes. We can add booking tied to lawyers' calendars, ideally shown only after the conflict check, so you do not book a meeting with a party you cannot represent. The booking step can make clear whether a first consultation is paid or free, using wording your practice approves." },
     { question: "Can you build a client portal for document exchange?", answer: `Yes, as a separate web application starting from ${P.software}. A portal can offer secure logins, document upload and download, matter status updates and audit logs, hosted in the EU under your account. It usually takes six to twelve weeks and is often best as a second phase after the public website is live.` },
-    { question: "What maintenance does a law firm website need?", answer: `Software updates, security patches, backups, uptime checks and small edits such as new lawyer profiles or updated practice pages. The first five months after launch are free; after that, maintenance starts from ${P.care} a month. We also re-check the intake form and cookie behaviour after major updates, since plugin changes can affect both.` },
+    { question: "What maintenance does a law firm website need?", answer: `Software updates, security patches, backups, uptime checks and small edits such as new lawyer profiles or updated practice pages. The first two months after launch are free; after that, maintenance starts from ${P.care} a month. We also re-check the intake form and cookie behaviour after major updates, since plugin changes can affect both.` },
   ],
   related: {
     heading: "Related pages for Dutch businesses",

@@ -56,7 +56,7 @@ const mansa: CityContent = {
     ai: "WhatsApp assistants in Punjabi and Hindi that answer rate, stock and timing questions and hand real decisions to you.",
     data: "Season dashboards of arrivals, lots bought, payments due and dispatches by buyer, readable on a phone.",
     app: "Android and iOS apps for dealers' field staff, coaching students or repeat buyers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Business in Mansa runs on relationships built over many crop seasons, and nobody here likes surprises in a bill. We publish starting prices, send itemised quotes in writing, answer WhatsApp every day of the week and register your domain, hosting, code and app store accounts in your own name from day one.",
@@ -168,7 +168,7 @@ const mansa: CityContent = {
       heading: "Website cost in Mansa and what a quote includes",
       paragraphs: [
         "The usual first question is about the <strong>website cost in Mansa</strong>. Our starting prices are public. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000 with two to four weeks of work.",
-        "Online stores start at ₹50,000 and usually take four to eight weeks. Custom web apps and software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and after five months of free post-launch maintenance, maintenance starts at ₹8,000 a month.",
+        "Online stores start at ₹50,000 and usually take four to eight weeks. Custom web apps and software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and after two months of free post-launch maintenance, maintenance starts at ₹8,000 a month.",
         "These figures are where a project starts, not what every project costs. The final amount depends on page count, language mix, catalogue size, app screens, payment and delivery rules and integrations. We send an itemised quote in about two working days, and we bill nothing until you approve it in writing.",
         "Quotes from local providers in Mansa and Bathinda vary widely. When comparing, ask who will own the domain and hosting, whether source code is handed over, how many revisions are included, what yearly renewals cost and what maintenance costs after launch. Our full list is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -189,7 +189,7 @@ const mansa: CityContent = {
       paragraphs: [
         "We often meet owners whose earlier website vanished when the developer stopped answering. The domain was in the developer's name, hosting details were never shared and the business had to start again. We set up every project so that cannot happen to you.",
         "The domain, hosting, source code, Google Business Profile and, for apps, the Google Play and App Store developer accounts are registered in your name. We hand over all logins in a written document and walk you or a trusted family member through them. If you ever choose another developer, they can continue without rebuilding.",
-        "After launch you receive five months of free maintenance covering bug fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and a set amount of editing time. For apps, it includes the updates Android and iOS require from time to time.",
+        "After launch you receive two months of free maintenance covering bug fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and a set amount of editing time. For apps, it includes the updates Android and iOS require from time to time.",
         "If your site is small and rarely changes, we will say that occasional paid updates may suit you better than a monthly plan. We would rather keep your trust than sell you a service you do not use.",
       ],
     },
@@ -272,7 +272,7 @@ const mansa: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch, covering bug fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month with backups, updates, uptime checks and editing time. If your site rarely changes, we will honestly tell you that occasional updates may be enough.",
+        "Every project includes two months of free maintenance after launch, covering bug fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month with backups, updates, uptime checks and editing time. If your site rarely changes, we will honestly tell you that occasional updates may be enough.",
     },
     {
       question: "Can you build an ecommerce website in Mansa for Phulkari or desi ghee?",

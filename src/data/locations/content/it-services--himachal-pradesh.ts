@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Himachal Pradesh · State hub",
     h1: "Freelance IT services in Himachal Pradesh, from Shimla hotels to Baddi pharma plants",
     lede:
-      "Need IT services in Himachal Pradesh that work on patchy hill internet and survive a peak-season rush? BtechWaleTech is a freelance group of three engineers working remotely from India. We build booking systems, pharma and manufacturing software, AI and WhatsApp automation, apps, dashboards, online stores and SEO for businesses in all twelve districts, with published starting prices and five months of free maintenance after launch.",
+      "Need IT services in Himachal Pradesh that work on patchy hill internet and survive a peak-season rush? BtechWaleTech is a freelance group of three engineers working remotely from India. We build booking systems, pharma and manufacturing software, AI and WhatsApp automation, apps, dashboards, online stores and SEO for businesses in all twelve districts, with published starting prices and two months of free maintenance after launch.",
     pills: ["Websites from ₹10,000", "Booking and automation from ₹40,000", "Custom software from ₹60,000", "Works on slow hill networks", "Android & iOS apps from ₹40,000"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI and WhatsApp assistants that answer room availability, tariff and route questions around the clock during peak tourist season.",
     data: "Dashboards for occupancy, bookings by source, production output or orchard sales, built from spreadsheets, Tally or booking data.",
     app: "Android and iOS apps from ₹40,000 for Himachal hotels, tour operators, orchard businesses and pharma units, written once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month, with extra care before summer and winter peak seasons.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month, with extra care before summer and winter peak seasons.",
   },
   whyUsIntro:
     "Himachal businesses often depend on a developer in Chandigarh who visits rarely, or on booking portals that take a cut of every room. BtechWaleTech is a freelance group of three engineers: published prices, direct access to the people coding, WhatsApp replies seven days a week, and every account in your own name.",
@@ -272,7 +272,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include?",
       answer:
-        "Five months of maintenance are free after launch: bug fixes, small content changes, security and software updates, backups, and uptime and speed checks, including a pre-season check for tourism sites. After that, plans start from ₹8,000 a month, or you can pay only when you need a change.",
+        "Two months of maintenance are free after launch: bug fixes, small content changes, security and software updates, backups, and uptime and speed checks, including a pre-season check for tourism sites. After that, plans start from ₹8,000 a month, or you can pay only when you need a change.",
     },
     {
       question: "Can you build software for a pharma unit in Baddi?",

@@ -31,11 +31,11 @@ const bhimavaram: CityContent = {
     eyebrow: "Bhimavaram · West Godavari, Andhra Pradesh",
     h1: "Websites, apps, SEO and AI automation for Bhimavaram's aquaculture trade, rice mills, colleges and delta businesses",
     lede:
-      "Three remote engineers building websites, Telugu and English local SEO, and WhatsApp automation for businesses in Bhimavaram and the surrounding delta mandals: shrimp hatcheries, aqua feed and medicine dealers, processing and export units, rice mills, engineering colleges, hospitals and temple-town hotels. Starting prices are public, and upkeep is free for five months after launch.",
+      "Three remote engineers building websites, Telugu and English local SEO, and WhatsApp automation for businesses in Bhimavaram and the surrounding delta mandals: shrimp hatcheries, aqua feed and medicine dealers, processing and export units, rice mills, engineering colleges, hospitals and temple-town hotels. Starting prices are public, and upkeep is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Hatchery and feed catalogues", "Exporter credibility sites", "Your domain, your code"],
   },
   quickAnswer:
-    "For Bhimavaram businesses, our static websites start from ₹10,000 and a simple site usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no Bhimavaram office, and five months of maintenance are free.",
+    "For Bhimavaram businesses, our static websites start from ₹10,000 and a simple site usually goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team with no Bhimavaram office, and two months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of West Godavari district after the 2022 reorganisation, and of Bhimavaram mandal and revenue division" },
     { label: "Population", value: "About 1.42 lakh in the town and 1.64 lakh in the urban area at the 2011 Census, with literacy above 83 percent" },
@@ -52,7 +52,7 @@ const bhimavaram: CityContent = {
     ai: "WhatsApp replies in Telugu or English for seed availability, feed rates, fees or bookings, with complex questions passed to your team.",
     data: "Dashboards of stocking, feed use, survival, harvest counts and payments that an aqua farmer or dealer can read on a phone.",
     app: "Android and iOS apps for college students, hospital patients or field technicians visiting ponds, released on Google Play and the App Store.",
-    maintenance: "Updates, backups and fixes free for five months after launch, then maintenance from ₹8,000 a month if you choose.",
+    maintenance: "Updates, backups and fixes free for two months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
     "Bhimavaram businesses often pick between a local freelancer who may be hard to reach later and an agency in Vijayawada or Hyderabad with city-level quotes. We publish our starting prices, the engineers who build your site answer WhatsApp seven days a week, and your domain, hosting and code are registered in your name from the first day.",
@@ -186,8 +186,8 @@ const bhimavaram: CityContent = {
       heading: "Your website stays yours",
       paragraphs: [
         "Many Bhimavaram businesses have lost a website because the developer registered the domain in their own name and later stopped responding. We prevent this: the domain and hosting are registered in your name from day one, and at launch you get every login, the complete code and a short note on the setup.",
-        "Maintenance is free for five months after launch. That covers text, price and photo changes, security and software updates, backups, bug fixes and speed checks. Aquaculture businesses often need frequent small changes during stocking and harvest seasons, and we handle those without charge in this period.",
-        "After five months, maintenance starts from ₹8,000 a month, or you can contact us only when you need something. You are free to move to another developer at any time, without an exit fee.",
+        "Maintenance is free for two months after launch. That covers text, price and photo changes, security and software updates, backups, bug fixes and speed checks. Aquaculture businesses often need frequent small changes during stocking and harvest seasons, and we handle those without charge in this period.",
+        "After two months, maintenance starts from ₹8,000 a month, or you can contact us only when you need something. You are free to move to another developer at any time, without an exit fee.",
       ],
     },
   ],
@@ -272,9 +272,9 @@ const bhimavaram: CityContent = {
         "Yes. The domain and hosting are registered in your name from the start, and at launch you receive every login and the full code. You can move to another developer at any time without an exit fee. We keep clients through good work, not by holding their access.",
     },
     {
-      question: "What is included in the five free months of maintenance?",
+      question: "What is included in the two free months of maintenance?",
       answer:
-        "Text, price and photo updates, security and software updates, backups, bug fixes and speed checks. After five months, maintenance starts from ₹8,000 a month, or you can message us only when you need changes and pay for that work alone.",
+        "Text, price and photo updates, security and software updates, backups, bug fixes and speed checks. After two months, maintenance starts from ₹8,000 a month, or you can message us only when you need changes and pay for that work alone.",
     },
     {
       question: "Can you guarantee a top ranking on Google?",

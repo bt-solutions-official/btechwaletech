@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Data and code", "Stored in accounts you own"],
     ["Meetings", "Video call, screen share, WhatsApp"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Per-user licence fees charged by us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Runs on", value: "Browser on PC, tablet and Android phone" },
       { label: "Hosting", value: "Cloud server billed to your account" },
       { label: "Training", value: "Recorded screen-share sessions for staff" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -251,7 +251,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how a project might run, not a client case study.`,
         `A hardware distributor with two godowns, five field salespeople and around 400 retailer customers tracks orders in WhatsApp groups and stock in spreadsheets. Dues are chased by memory. The owner wants three things: orders captured properly, stock visible per godown, and a weekly list of overdue retailers.`,
-        `We would propose three modules. First, order booking: salespeople pick retailer and items on an Android phone, prices come from party-wise rate lists, and the godown sees the order instantly. Second, stock and dispatch: inward entries, transfers between godowns, and dispatch against orders. Third, collections: outstanding by retailer with ageing, and a WhatsApp reminder with a UPI link. The estimate would start from the custom software plan at ${P.software}, with the field-staff Android app as a separate line. The first module would go live in a few weeks, and the full system would land within the 6–12 week range, with five months of free maintenance after that.`,
+        `We would propose three modules. First, order booking: salespeople pick retailer and items on an Android phone, prices come from party-wise rate lists, and the godown sees the order instantly. Second, stock and dispatch: inward entries, transfers between godowns, and dispatch against orders. Third, collections: outstanding by retailer with ageing, and a WhatsApp reminder with a UPI link. The estimate would start from the custom software plan at ${P.software}, with the field-staff Android app as a separate line. The first module would go live in a few weeks, and the full system would land within the 6–12 week range, with two months of free maintenance after that.`,
       ],
     },
     {
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       heading: "Software developer near me dhoondh rahe hain? Seedhi baat",
       paragraphs: [
         `Agar aapka hisaab register ya Excel mein hai aur stock kabhi match nahi hota, toh pehle yeh likhiye ki roz kaunse kaam sabse zyada time lete hain: bill banana, stock dekhna ya party se payment maangna. Wahi pehla module banna chahiye.`,
-        `Hamari custom software ${P.software} se shuru hoti hai aur poora system aam taur par 6–12 hafte mein ready hota hai. Server aur data aapke naam par rehta hai, aur hum koi per-user fee nahi lete. Milne ke liye office aane ki zaroorat nahi; video call par screen share karke aapka kaam samajh lete hain. Launch ke baad 5 mahine maintenance free hai.`,
+        `Hamari custom software ${P.software} se shuru hoti hai aur poora system aam taur par 6–12 hafte mein ready hota hai. Server aur data aapke naam par rehta hai, aur hum koi per-user fee nahi lete. Milne ke liye office aane ki zaroorat nahi; video call par screen share karke aapka kaam samajh lete hain. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
         ["AI automation add-on", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Reading supplier bills, auto-replies, reports"],
         ["Website that feeds the CRM", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Businesses that want online enquiries"],
         ["Online store linked to stock", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Retailers selling online and offline"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, small new reports"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, small new reports"],
       ],
       hideSm: [2],
     },
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Approve the screens", "We share clickable screen designs for the first module. Your staff try them and tell us what feels slow or confusing before any building starts."],
       ["Test with sample data", "The working module appears on a test link. You enter real-looking bills and stock moves on your PC and phone, and we fix what you find."],
       ["Go live alongside the old way", "The module runs in parallel with registers for a week or two. Once numbers match, the old method stops and the next module begins."],
-      ["Training, handover and support", "Staff get recorded training sessions. You receive code, server and admin access. Five months of free maintenance follow, then optional support from " + P.care + "."],
+      ["Training, handover and support", "Staff get recorded training sessions. You receive code, server and admin access. Two months of free maintenance follow, then optional support from " + P.care + "."],
     ],
   },
   faqHeading: "Software developer near me: common questions",
@@ -370,12 +370,12 @@ const content: FreelanceContent = {
     { question: "Is my business data safe with a remote developer?", answer: "Safety depends on setup, not distance. Your data should sit in a cloud account you own, with role-based logins, HTTPS, an edit log and automatic daily backups to separate storage. We test a backup restore before go-live and remove our own access whenever you ask. Share only test data until you are comfortable." },
     { question: "What happens if the internet goes down at my shop?", answer: "Cloud software needs a connection, so plan for outages. Options include a mobile hotspot as backup, or a billing screen designed to hold entries briefly offline and sync when the connection returns. Tell us about your connectivity during discovery so the design matches your location instead of assuming perfect internet." },
     { question: "Can the software send WhatsApp messages to customers?", answer: "Yes. Order confirmations, dispatch updates and payment reminders with a UPI link can go automatically through the WhatsApp Business Platform. Meta charges per template message, billed to your own account, and customers should have agreed to receive messages. For lighter needs, the software can open a prefilled WhatsApp chat for staff to send manually." },
-    { question: "Do you charge yearly licence or per-user fees?", answer: `No. BtechWaleTech charges for building the software, not for using it. Adding users or shops costs only whatever extra server capacity you need, paid to the hosting provider. Maintenance is free for five months after go-live and optional afterwards, starting from ${P.care}, and you can also give the code to another developer.` },
+    { question: "Do you charge yearly licence or per-user fees?", answer: `No. BtechWaleTech charges for building the software, not for using it. Adding users or shops costs only whatever extra server capacity you need, paid to the hosting provider. Maintenance is free for two months after go-live and optional afterwards, starting from ${P.care}, and you can also give the code to another developer.` },
     { question: "Can you add features later as my business grows?", answer: "Yes, and we plan for it. Modules are built on a shared database, so adding purchase orders, a dealer portal or production tracking later does not mean starting again. Each addition gets its own itemised quote. Because the code is yours and documented, any competent developer can extend it, not only us." },
     { question: "What is the difference between a CRM and billing software?", answer: "Billing software records what you sold, to whom and for how much, including tax. A CRM records the conversations before and after the sale: enquiries, quotations, follow-up dates and complaints. Many small businesses need both linked, so a lead becomes a customer with a bill, and dues show against the same customer record." },
     { question: "Do you build ERP software for manufacturers?", answer: "We build smaller, focused ERP systems for small and mid-sized manufacturers: purchase, stock, production batches, sales and dispatch, added module by module. We do not take on large enterprise ERP rollouts that need big teams on site. If your needs fit a three-person freelance team, we can scope a first module and grow from there." },
     { question: "How do payments work for a software project?", answer: "Payments are staged against visible progress, typically an advance to start and further payments as each module goes live. In India we accept UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. The stages are listed in the written quote you approve, and nothing is billed before that approval." },
-    { question: "Software developer near me chahiye, kitna kharcha aayega?", answer: `BtechWaleTech ke saath custom billing, stock ya CRM software ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Kharcha modules, reports aur integrations par depend karta hai. Pehle itemised quote milta hai, data aur server aapke naam par rehte hain, aur go-live ke baad 5 mahine maintenance free hai.` },
+    { question: "Software developer near me chahiye, kitna kharcha aayega?", answer: `BtechWaleTech ke saath custom billing, stock ya CRM software ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Kharcha modules, reports aur integrations par depend karta hai. Pehle itemised quote milta hai, data aur server aapke naam par rehte hain, aur go-live ke baad 2 mahine maintenance free hai.` },
     { question: "Do you also build the website and app for my business?", answer: `Yes. The same three developers build business websites from ${P.site}, online stores from ${P.shop} and Android and iOS apps from ${P.app}. Linking them to your software means website enquiries land in the CRM and online orders reduce the same stock as counter sales, without anyone retyping data.` },
   ],
   related: {
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us what slows your business down",
-    note: `Send a WhatsApp message describing your billing, stock or follow-up problem, with a photo of your current register if you like. You will get an itemised, module-wise quote in about two working days, with custom software starting at ${P.software}, everything in your name and five months of free maintenance after go-live.`,
+    note: `Send a WhatsApp message describing your billing, stock or follow-up problem, with a photo of your current register if you like. You will get an itemised, module-wise quote in about two working days, with custom software starting at ${P.software}, everything in your name and two months of free maintenance after go-live.`,
   },
 };
 

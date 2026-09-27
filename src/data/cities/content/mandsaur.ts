@@ -35,7 +35,7 @@ const mandsaur: CityContent = {
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Mandi trader catalogues", "Slate pencil exporters", "College and clinic sites"],
   },
   quickAnswer:
-    "For Mandsaur businesses, a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandsaur office, and five months of maintenance is free after launch.",
+    "For Mandsaur businesses, a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandsaur office, and two months of maintenance is free after launch.",
   snapshot: [
     { label: "Location", value: "Western Madhya Pradesh on the Malwa–Mewar edge, district headquarters in Ujjain Division, on the Shivna river" },
     { label: "Mandi", value: "Krishi Upaj Mandi beside the Mhow–Neemuch highway, widely described as Asia's largest garlic market" },
@@ -52,7 +52,7 @@ const mandsaur: CityContent = {
     ai: "WhatsApp replies in Hindi that send daily rates, stock and dispatch updates to buyers who have opted in.",
     data: "Arrival, rate and sales records turned into a simple phone dashboard for traders and their partners.",
     app: "Android and iOS apps for dealer ordering, student notices or patient tokens, one Flutter or React Native build listed on both app stores.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mandsaur businesses usually choose between a relative who “knows computers” and an Indore agency that bills city rates. We are a remote team of three with published starting prices, WhatsApp replies every day of the week, and a rule that the domain, hosting and code stay in the client's name.",
@@ -178,7 +178,7 @@ const mandsaur: CityContent = {
       paragraphs: [
         "A familiar Mandsaur story: a nephew or a local shop built the website years ago, registered the domain on his own email, and later moved to Indore or changed his number. Now the renewal lapses, the site vanishes and nobody can log in to fix it.",
         "We prevent that from the first day. Domain and hosting are registered in your name, and at launch you receive every login, the complete source code and a short note explaining how the site is set up. You can move to another developer at any point without paying an exit fee or asking our permission.",
-        "For five months after launch, maintenance is free: text and photo changes, bug fixes, security updates, backups, uptime and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
+        "For two months after launch, maintenance is free: text and photo changes, bug fixes, security updates, backups, uptime and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
       ],
     },
   ],
@@ -265,7 +265,7 @@ const mandsaur: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle text and photo updates, bug fixes, security patches, backups, uptime checks and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and photo updates, bug fixes, security patches, backups, uptime checks and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Neemuch, Shamgarh, Sitamau and Ratlam?",

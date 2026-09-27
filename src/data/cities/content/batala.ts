@@ -7,7 +7,7 @@ const batala: CityContent = {
   meta: {
     title: "IT Services in Batala: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Batala foundries, machine tool makers, shops and schools. Static sites from ₹10,000, remote team, 5 months free upkeep.",
+      "Websites, SEO and WhatsApp automation for Batala foundries, machine tool makers, shops and schools. Static sites from ₹10,000, remote team, 2 months free upkeep.",
     keywords: [
       "website development team in Batala",
       "web design Batala",
@@ -31,11 +31,11 @@ const batala: CityContent = {
     eyebrow: "Batala · Gurdaspur district, Punjab",
     h1: "Websites, software, SEO and AI tools that help Batala's foundries, tool makers and traders find new buyers",
     lede:
-      "We are three engineers working remotely for businesses across Batala and the rest of Gurdaspur district. We build websites for cast iron foundries, lathe and farm implement makers, wholesale traders, schools, clinics and the gurdwara-visitor economy. Prices are published up front, you deal directly with the people writing the code, and maintenance is free for five months after launch.",
+      "We are three engineers working remotely for businesses across Batala and the rest of Gurdaspur district. We build websites for cast iron foundries, lathe and farm implement makers, wholesale traders, schools, clinics and the gurdwara-visitor economy. Prices are published up front, you deal directly with the people writing the code, and maintenance is free for two months after launch.",
     pills: ["Websites from ₹10,000", "Punjabi, Hindi and English", "Catalogues for machinery", "Dealer enquiry forms", "WhatsApp quotes"],
   },
   quickAnswer:
-    "A business website for a Batala firm starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, and an online store from ₹50,000. We are a remote three-engineer team with no Batala office, and every site gets five months of free maintenance after launch.",
+    "A business website for a Batala firm starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, and an online store from ₹50,000. We are a remote three-engineer team with no Batala office, and every site gets two months of free maintenance after launch.",
   snapshot: [
     { label: "District role", value: "Largest town of Gurdaspur district and a municipal corporation since 2019, about 39 km from Amritsar" },
     { label: "Industrial identity", value: "Once called the “Iron Bird of Asia” for cast iron foundries, lathes, shapers and farm implements" },
@@ -52,7 +52,7 @@ const batala: CityContent = {
     ai: "WhatsApp replies that send price lists, machine specs and dispatch dates in Punjabi or Hindi while you are on the shop floor.",
     data: "Monthly dashboards of orders by state, dealer dues and raw material costs, built from the sheets and Tally exports you already keep.",
     app: "Android and iOS apps for dealer orders, service requests or school notices, with a download link you can share on WhatsApp, from ₹40,000.",
-    maintenance: "Five months of free updates, backups and security fixes after launch, then upkeep from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and security fixes after launch, then upkeep from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Batala makes things that are sold all over India, yet very few of its workshops have a website that explains what they make. Agencies in Amritsar, Jalandhar or Ludhiana can build one but often price for bigger firms. We publish starting prices, reply on WhatsApp every day of the week and hand you full ownership of the site.",
@@ -177,7 +177,7 @@ const batala: CityContent = {
       paragraphs: [
         "A familiar story in smaller Punjab towns: a relative or local designer made the site years ago, the domain is in their name, and nobody knows the password. When the phone number changes or the renewal lapses, the business loses its online presence.",
         "We register the domain and hosting in your name from day one. At launch you receive all logins, the full source code and a short note explaining the setup. If you ever want to move to another developer, you can do it without our permission and without any exit charge.",
-        "For five months after launch, maintenance is free: price and text edits, bug fixes, security patches, backups and uptime checks. After that, ongoing maintenance starts at ₹8,000 a month, or you can simply contact us when you need a change and pay for that work alone.",
+        "For two months after launch, maintenance is free: price and text edits, bug fixes, security patches, backups and uptime checks. After that, ongoing maintenance starts at ₹8,000 a month, or you can simply contact us when you need a change and pay for that work alone.",
       ],
     },
   ],
@@ -259,7 +259,7 @@ const batala: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For two months after launch we handle text and price updates, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need something changed.",
     },
     {
       question: "Do you work in Gurdaspur, Qadian, Dera Baba Nanak and Amritsar too?",

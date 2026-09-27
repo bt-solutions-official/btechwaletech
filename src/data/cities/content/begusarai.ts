@@ -34,7 +34,7 @@ const begusarai: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor profiles for PSUs", "Hindi local SEO", "WhatsApp enquiry bots", "You own the code"],
   },
   quickAnswer:
-    "A Begusarai business can get a website of up to 100 pages from us from ₹10,000 in one to two weeks, or a 299+ page search-focused site from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We work remotely, register the domain in your name and maintain the site free for five months.",
+    "A Begusarai business can get a website of up to 100 pages from us from ₹10,000 in one to two weeks, or a 299+ page search-focused site from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We work remotely, register the domain in your name and maintain the site free for two months.",
   snapshot: [
     { label: "Industrial core", value: "Barauni: IOCL refinery, NTPC Barauni thermal station, HURL fertiliser plant at Urvarak Nagar, Garhara loco shed" },
     { label: "Industrial areas", value: "Old Barauni industrial area near Zero Mile on NH 31, plus a newer area in Barauni block" },
@@ -51,7 +51,7 @@ const begusarai: CityContent = {
     ai: "WhatsApp assistants that reply to fee, appointment and stock questions in Hindi at any hour and hand real buyers to your staff.",
     data: "Simple dashboards that show trips, invoices, milk collection or admissions without someone adding up registers every evening.",
     app: "Android and iPhone apps for drivers, field staff and students that handle low-cost handsets and patchy signal, listed on both app stores from ₹40,000.",
-    maintenance: "Five free months of fixes, content updates and backups after launch, then care from ₹8,000 a month if you want it.",
+    maintenance: "Two free months of fixes, content updates and backups after launch, then care from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Most Begusarai owners find web designers through a cousin, a Facebook advert or an agency in Patna. The result is often a site nobody can update and a domain in someone else's name. We publish our prices, answer on WhatsApp all seven days, and hand over every login on launch day.",
@@ -175,7 +175,7 @@ const begusarai: CityContent = {
       paragraphs: [
         "A familiar Begusarai story goes like this: a local designer builds a site, registers the domain in his own account, then moves to Delhi for a job. A year later the domain expires and the business loses its email and website together. We design every project so that cannot happen.",
         "The domain is booked in your name, the hosting account is opened in your name, and at launch you receive all logins, the full source code and a short written guide. You can hand the site to another developer any time without asking us or paying a transfer fee.",
-        "For the first five months after launch we maintain the site free: text and price updates, fixes, security patches, backups and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing and pay for that job. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
+        "For the first two months after launch we maintain the site free: text and price updates, fixes, security patches, backups and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing and pay for that job. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -274,9 +274,9 @@ const begusarai: CityContent = {
         "You do. The domain and hosting are registered in your name, and at launch you receive all logins and the complete source code. You can move to any other developer whenever you like without paying us a transfer fee or asking for permission.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch we handle updates, fixes, backups and security at no charge. After that you can choose maintenance from ₹8,000 a month or contact us only when something needs changing. There is no lock-in contract either way.",
+        "For two months after launch we handle updates, fixes, backups and security at no charge. After that you can choose maintenance from ₹8,000 a month or contact us only when something needs changing. There is no lock-in contract either way.",
     },
     {
       question: "Do you work with businesses in Teghra, Samastipur, Lakhisarai and nearby towns?",

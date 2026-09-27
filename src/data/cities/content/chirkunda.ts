@@ -56,7 +56,7 @@ const chirkunda: CityContent = {
     ai: "WhatsApp assistants that answer price, stock and timing questions in Hindi or Bengali and pass bulk or unusual enquiries to you.",
     data: "Dashboards showing dispatches by buyer, dues by party and sales by week, built from the challans and bills you already keep.",
     app: "Android and iOS apps for transport drivers logging trips or wholesale buyers reordering, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Businesses in Chirkunda deal with buyers from two states, and they have learned to ask for everything in writing. That suits us. Our starting prices are public, every quote lists each item, we reply on WhatsApp every day, and your domain, hosting, code and app store accounts are registered to you. If a feature will not earn back its cost, we say that before you pay for it.",
@@ -159,7 +159,7 @@ const chirkunda: CityContent = {
       heading: "Website cost in Chirkunda: what you pay and what changes the figure",
       paragraphs: [
         "The first question in most Chirkunda conversations is the price, so here it is. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website of 700 or more pages, the kind a wholesaler or refractory unit uses to cover every product and nearby area, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which takes two to four weeks. Ecommerce stores start at ₹50,000 and custom software at ₹60,000.",
-        "Several things can raise your figure, and each appears as a separate line you can accept or remove: pages in both Hindi and Bengali, a large product catalogue, data sheets and certificates to upload, payment and courier setup, staff logins, or an export to Tally. After launch, monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the five free months are over.",
+        "Several things can raise your figure, and each appears as a separate line you can accept or remove: pages in both Hindi and Bengali, a large product catalogue, data sheets and certificates to upload, payment and courier setup, staff logins, or an export to Tally. After launch, monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the two free months are over.",
         "When comparing a <strong>website cost in Chirkunda</strong> with quotes from Dhanbad or Asansol designers, you will find prices differ widely for jobs that sound similar. Check who registers the domain, whether hosting renewal is included, how many rounds of changes are allowed, whether basic SEO is part of the job and what support costs a year later. Our full list is on the <a href=\"/pricing/\">pricing page</a>; your written quote comes within about two working days.",
       ],
     },
@@ -177,7 +177,7 @@ const chirkunda: CityContent = {
       heading: "Ownership and maintenance for Chirkunda websites and apps",
       paragraphs: [
         "Everything we build for a Chirkunda client is registered to that client from day one. At handover, you receive a written sheet with these accounts and their logins:",
-        "Maintenance is free for five months after launch. In that time we update rates and photographs, run backups, apply security and software updates, and check that forms, UPI and card checkout and WhatsApp links still work. After that, you can continue with us from ₹8,000 a month, manage the site yourself, or hand the code to another developer; you do not need our permission for any of these.",
+        "Maintenance is free for two months after launch. In that time we update rates and photographs, run backups, apply security and software updates, and check that forms, UPI and card checkout and WhatsApp links still work. After that, you can continue with us from ₹8,000 a month, manage the site yourself, or hand the code to another developer; you do not need our permission for any of these.",
         "Apps need a yearly update even when nothing seems broken, because Google and Apple keep raising the versions they accept. We watch those deadlines and release updates ahead of time, so your app is not hidden from the store while you are busy with the Puja season rush.",
       ],
       list: [
@@ -262,7 +262,7 @@ const chirkunda: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "The first five months of maintenance are free, covering edits to rates and photos, backups, security updates and checks on forms, checkout and WhatsApp links. After that, you can continue from ₹8,000 a month or take it elsewhere. All accounts and code are already in your name, so switching needs nothing from us.",
+        "The first two months of maintenance are free, covering edits to rates and photos, backups, security updates and checks on forms, checkout and WhatsApp links. After that, you can continue from ₹8,000 a month or take it elsewhere. All accounts and code are already in your name, so switching needs nothing from us.",
     },
     {
       question: "Do you work in Kumardhubi, Nirsa, Maithon and Barakar too?",

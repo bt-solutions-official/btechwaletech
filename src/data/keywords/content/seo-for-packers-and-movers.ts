@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Freelance developers on your SEO and site" },
     { value: "0", label: "Commission or per-lead fee on your enquiries" },
     { value: "20", label: "Service areas a Google Business Profile allows" },
-    { value: "5", label: "Months of free maintenance after a new build" },
+    { value: "2", label: "Months of free maintenance after a new build" },
   ],
   answer: {
     heading: "How can genuine packers and movers rank above fake listings and lead portals?",
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
         ["Many services and real routes", "SEO website with 299+ pages", `${P.seoSite}`, "3–5 weeks"],
         ["Survey, quote and tracking chaos", "Custom mover software", `${P.software}`, "6–12 weeks"],
         ["Too many enquiries to answer", "Automated WhatsApp first reply", `${P.ai}`, "2–4 weeks"],
-        ["After launch", "Maintenance after 5 free months", `${P.care} per month`, "Ongoing"],
+        ["After launch", "Maintenance after 2 free months", `${P.care} per month`, "Ongoing"],
       ],
       hideSm: [1],
     },

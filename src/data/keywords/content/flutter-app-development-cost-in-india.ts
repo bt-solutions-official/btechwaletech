@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Flutter app pricing · Android + iOS from one codebase",
     h1: "Flutter app development cost in India: what one codebase saves, and where the savings stop",
     lede: `Flutter app development cost in India starts at ${P.app} with BtechWaleTech for a single codebase that ships to both Google Play and the App Store. Three freelance developers write it, test it on real phones and publish it in your own store accounts. This page shows how we estimate by screen count, when <a href='/hire-flutter-developer/'>a Flutter developer</a> should pick Firebase over a custom API, what the two stores charge, and the few kinds of apps where Flutter stops being the cheaper route.`,
-    pills: ["One codebase, two stores", `From ${P.app}`, "Priced by screen count", "Firebase or custom API", "Publishing handled", "Code in your name", "5 months free care"],
+    pills: ["One codebase, two stores", `From ${P.app}`, "Priced by screen count", "Firebase or custom API", "Publishing handled", "Code in your name", "2 months free care"],
     origin: "Three freelance developers in India · replies on WhatsApp, 7 days a week",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks"],
     ["Quote", "Itemised by screen and feature, ~2 working days"],
     ["Store accounts", "Google Play and Apple, both in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "1", label: "Codebase for Android and iOS" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Google Play fee", value: "US$25, paid once by you" },
       { label: "Apple Developer fee", value: "US$99 per year, paid by you" },
       { label: "Build time", value: "6–10 weeks for most first versions" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Migrating two native apps to Flutter", note: "Replacing separate Android and iPhone code with one Flutter app, screen by screen, so two teams are not fixing the same bug twice.", href: "/native-vs-hybrid-app/", size: "md" },
       { name: "AI features inside the app", note: `Chat support, document scanning or smart search wired to an AI service through your backend, from ${P.ai} when built as a separate automation.`, href: "/ai-agent-development-cost/", size: "sm" },
       { name: "Store publishing and listings", note: "Signing, privacy forms, screenshots, closed testing on Play and TestFlight on iOS, done inside your accounts.", href: "/app-store-optimization-services/", size: "sm" },
-      { name: "Maintenance and Flutter upgrades", note: `SDK updates, OS changes and small features after the free 5 months, from ${P.care}.`, href: "/app-maintenance-cost-in-india/", size: "sm" },
+      { name: "Maintenance and Flutter upgrades", note: `SDK updates, OS changes and small features after the free 2 months, from ${P.care}.`, href: "/app-maintenance-cost-in-india/", size: "sm" },
     ],
   },
   comparison: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Team you need", "An Android and an iOS specialist", "JavaScript developers", "Dart developers who also know both stores"],
       ["Starting price", "Usually highest of the three", "Similar to Flutter", `From ${P.app} for both platforms`],
       ["Who owns code and accounts", "Depends on the vendor", "Depends on the vendor", "You, from day one"],
-      ["After launch", "Two apps to update", "One app plus native modules", `5 months free, then from ${P.care}`],
+      ["After launch", "Two apps to update", "One app plus native modules", `2 months free, then from ${P.care}`],
     ],
     fine: "If your app is mostly Bluetooth hardware control, AR or a graphics-heavy game, two native apps or a game engine can cost less overall than forcing Flutter to do the job.",
   },
@@ -213,7 +213,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After launch a Flutter app has four ongoing costs: the Apple fee each year, backend usage, maintenance and new features. None of them are large for a small app, but budgeting for them stops the app going stale six months after launch.`,
         `Backend usage depends on your choice. A small Firebase app can sit inside the no-cost tier for a long time. A custom API runs on a cloud server that you pay for monthly, sized to your traffic. Santosh sets up billing alerts in your cloud account so a sudden spike never surprises you.`,
-        `Maintenance matters more with apps than websites. Google and Apple release new OS versions every year and periodically raise the minimum target versions they accept, and Flutter itself ships regular stable releases. An app nobody updates eventually cannot publish fixes. BtechWaleTech includes 5 months of free maintenance after launch; after that, optional care starts at ${P.care}. Our <a href='/app-maintenance-cost-in-india/'>app maintenance cost page</a> lists what is typically covered.`,
+        `Maintenance matters more with apps than websites. Google and Apple release new OS versions every year and periodically raise the minimum target versions they accept, and Flutter itself ships regular stable releases. An app nobody updates eventually cannot publish fixes. BtechWaleTech includes 2 months of free maintenance after launch; after that, optional care starts at ${P.care}. Our <a href='/app-maintenance-cost-in-india/'>app maintenance cost page</a> lists what is typically covered.`,
       ],
       list: [
         "Apple Developer Program renewal each year",
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
         ["Customer app plus admin web panel", "15–25 + admin", "Custom API", `From ${P.app} + panel from ${P.software}`, `From ${P.appUsd} + ${P.softwareUsd}`, "8–12 weeks"],
         ["Flutter MVP to test a startup idea", "6–10", "Firebase", `From ${P.app}`, `From ${P.appUsd}`, "6 weeks"],
         ["AI chat or document scanning add-on", "2–4", "Your API + AI service", `From ${P.ai} as a separate build`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", "—", "—", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", "—", "—", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2, 4],
     },
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "In about two working days you get prices per screen group, backend, admin and publishing, with a timeline. Drop lines to fit your budget; nothing is billed before written approval."],
       ["Open accounts in your name", "You create Google Play and Apple developer accounts and a Firebase or cloud account, then add us as users. We help with verification steps on a short call."],
       ["Build with test builds every few days", "You install test builds on your own phone through Play testing and TestFlight, comment on WhatsApp, and see changes in the next build."],
-      ["Publish, hand over, maintain", "We submit to both stores, answer reviewer questions, hand over code and keys, and cover fixes free for five months after launch."],
+      ["Publish, hand over, maintain", "We submit to both stores, answer reviewer questions, hand over code and keys, and cover fixes free for two months after launch."],
     ],
   },
   faqHeading: "Flutter app development cost in India: questions people ask",
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
     { question: "Is Flutter or React Native cheaper in India?", answer: "They generally cost about the same for the same scope. Flutter suits apps that must look identical on every phone and teams comfortable with Dart. React Native suits businesses with React web developers who will maintain it. Differences between quotes are usually about backend, screens and integrations, not the framework, so compare itemised quotes line by line." },
     { question: "When should I not use Flutter?", answer: "Skip Flutter when the core of your product is native: Bluetooth hardware control, AR, 3D or game graphics, watch apps, home-screen widgets or car integrations. Also reconsider if you have a healthy native app that needs only small changes. In these cases native code or a game engine can cost less overall than working around Flutter." },
     { question: "Who owns the Flutter source code and app store accounts?", answer: "You should own everything: the code repository, Firebase or cloud account, signing keys and both store accounts. BtechWaleTech works inside accounts registered to you and hands over code, keys, a build guide and renewal dates at launch. That way you can switch developers later without losing your listing, reviews or installs." },
-    { question: "What does Flutter app maintenance cost after launch?", answer: `BtechWaleTech covers maintenance free for 5 months after launch. After that, optional monthly care starts at ${P.care} and covers Flutter and package upgrades, fixes for new Android and iOS versions, and small changes. Separately, you pay the Apple membership each year and any backend usage beyond the free tier.` },
+    { question: "What does Flutter app maintenance cost after launch?", answer: `BtechWaleTech covers maintenance free for 2 months after launch. After that, optional monthly care starts at ${P.care} and covers Flutter and package upgrades, fixes for new Android and iOS versions, and small changes. Separately, you pay the Apple membership each year and any backend usage beyond the free tier.` },
     { question: "Can you add an iOS version to my existing Flutter Android app?", answer: "Usually, yes, because Flutter code already targets iOS. The work is setting up the Apple account, signing, permission texts, testing on iPhones, fixing platform differences in any plugins, and passing App Store review. If the original developer used Android-only packages or native Android code, those parts need an iOS equivalent, which we price after reviewing the code." },
     { question: "Can you take over a Flutter app another developer built?", answer: "Yes. We first review the code, packages and Flutter version, check that you control the store accounts and signing keys, and list what needs upgrading before new work. You get a written assessment and a quote for fixes and features. If the keys or accounts are with the old developer, recovering them comes first." },
     { question: "Does the Flutter app price include an admin panel?", answer: `Not always, so check. Our starting price covers a simple app with Firebase, where basic management can happen in the Firebase console or a small panel. A full admin web panel with roles, reports and exports is a separate line, from ${P.software} when built as its own web app. We tell you plainly which you need.` },
@@ -445,7 +445,7 @@ const content: FreelanceContent = {
     { question: "Can a Flutter app support Hindi and regional languages?", answer: "Yes. Flutter has built-in localisation, so each language is a set of translated strings plus checks that longer words still fit the layout. You supply or approve the translations for Hindi or any regional language. Right-to-left layouts are possible too. Each added language is priced as a small line in the quote." },
     { question: "How do I reduce my Flutter app development cost in India?", answer: "Cut screens rather than quality. Launch with the screens that prove customers will use the app, start on Firebase if data is simple, use phone OTP login instead of several methods, and postpone native extras like background tracking. Supplying final text and images early also reduces cost, because waiting and rework are paid time." },
     { question: "How do payments work for a Flutter project?", answer: "Payment is split into stages tied to visible work, agreed in your written quote. Indian clients pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote. For contract terms, see our terms page or ask us before you start." },
-    { question: "Flutter app banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Flutter app ${P.app} se shuru hota hai, aur ek hi code se Android aur iPhone dono ka app ban jaata hai. Kharcha screens ki ginti, backend (Firebase ya custom API), payment aur admin panel par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur launch ke baad 5 mahine maintenance free.` },
+    { question: "Flutter app banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Flutter app ${P.app} se shuru hota hai, aur ek hi code se Android aur iPhone dono ka app ban jaata hai. Kharcha screens ki ginti, backend (Firebase ya custom API), payment aur admin panel par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur launch ke baad 2 mahine maintenance free.` },
   ],
   related: {
     heading: "More on app costs, Flutter and publishing",
@@ -467,7 +467,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get your Flutter app priced screen by screen",
-    note: `Send your idea or screen sketches on WhatsApp. You get an itemised Flutter quote in about two working days, starting at ${P.app} for Android and iOS, with store accounts and code in your name and five months of free maintenance after launch.`,
+    note: `Send your idea or screen sketches on WhatsApp. You get an itemised Flutter quote in about two working days, starting at ${P.app} for Android and iOS, with store accounts and code in your name and two months of free maintenance after launch.`,
   },
 };
 

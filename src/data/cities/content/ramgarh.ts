@@ -34,7 +34,7 @@ const ramgarh: CityContent = {
     pills: ["Websites from ₹10,000", "Contractor and vendor profiles", "Hindi and Khortha-area searches", "WhatsApp enquiry capture", "Your domain, your code"],
   },
   quickAnswer:
-    "A website for a Ramgarh (Jharkhand) business starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, you own the domain and code, and maintenance is free for five months after launch.",
+    "A website for a Ramgarh (Jharkhand) business starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, you own the domain and code, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "About 45 km from Ranchi on the Ranchi–Hazaribagh road, in the Damodar basin" },
     { label: "District", value: "Formed on 12 September 2007 from Hazaribagh; blocks Ramgarh, Gola, Mandu, Patratu, Chitarpur and Dulmi" },
@@ -51,7 +51,7 @@ const ramgarh: CityContent = {
     ai: "WhatsApp assistants that collect tender, quote, admission and appointment details in Hindi and pass serious enquiries to your staff.",
     data: "Dashboards that show work orders, bills pending with clients, trips, fuel and site costs pulled from your registers or Tally.",
     app: "Android and iOS apps for site supervisors and drivers to log attendance, photos and deliveries, published on Google Play and the App Store.",
-    maintenance: "Backups, updates, uptime checks and small edits, free for five months and from ₹8,000 a month after that.",
+    maintenance: "Backups, updates, uptime checks and small edits, free for two months and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Businesses in Ramgarh deal with large clients, strict paperwork and payments that take time, so they value suppliers who keep their word. We publish starting prices, send itemised written quotes, reply on WhatsApp seven days a week and register your domain, hosting and code in your own name.",
@@ -111,7 +111,7 @@ const ramgarh: CityContent = {
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Quote requests, admissions and appointments.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Hardware, electricals, safety gear and local products with UPI.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Work order tracking, trip registers and site apps.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -187,7 +187,7 @@ const ramgarh: CityContent = {
       heading: "Your ownership and our support after launch",
       paragraphs: [
         "The domain is registered in your name, hosting sits in your account, and all code and passwords are handed over at launch. For software, the database is yours too. You can move to another developer in Ramgarh, Ranchi or anywhere else without our permission and without a transfer fee.",
-        "Maintenance is free for the first five months after launch, covering security updates, backups, uptime monitoring and small edits such as new project photos, prices, timings or notices. After that it starts at ₹8,000 a month and can be stopped at any time.",
+        "Maintenance is free for the first two months after launch, covering security updates, backups, uptime monitoring and small edits such as new project photos, prices, timings or notices. After that it starts at ₹8,000 a month and can be stopped at any time.",
         "For work order and trip systems, we also train your staff, write short instructions in simple Hindi and keep regular backups, because losing billing records would cost far more than any website fault. Each month you receive a brief summary of what was checked and updated.",
       ],
     },
@@ -275,7 +275,7 @@ const ramgarh: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "Maintenance is free for the first five months after launch and covers updates, backups, monitoring and small edits. After that it starts at ₹8,000 a month and can be cancelled at any time. We can also train your staff to update photos, prices and notices themselves.",
+        "Maintenance is free for the first two months after launch and covers updates, backups, monitoring and small edits. After that it starts at ₹8,000 a month and can be cancelled at any time. We can also train your staff to update photos, prices and notices themselves.",
     },
     {
       question: "Can I sell hardware or safety equipment online from Ramgarh?",

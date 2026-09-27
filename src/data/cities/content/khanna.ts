@@ -7,7 +7,7 @@ const khanna: CityContent = {
   meta: {
     title: "IT Services in Khanna: Websites, Apps, SEO & AI",
     description:
-      "Website design, local SEO and WhatsApp automation for Khanna arhtiyas, traders, schools and clinics on GT Road. Sites from ₹10,000, 5 months free maintenance.",
+      "Website design, local SEO and WhatsApp automation for Khanna arhtiyas, traders, schools and clinics on GT Road. Sites from ₹10,000, 2 months free maintenance.",
     keywords: [
       "website development team in Khanna",
       "web designer Khanna Punjab",
@@ -30,11 +30,11 @@ const khanna: CityContent = {
     eyebrow: "Khanna · Ludhiana district, Punjab",
     h1: "Web development and local SEO for Khanna's mandi town and GT Road businesses",
     lede:
-      "A remote team of three engineers building websites, trade software and WhatsApp automation for Khanna commission agents, grain and input dealers, steel suppliers, schools, clinics and showrooms along GT Road. Our starting prices are public, the developers answer you directly, and maintenance is free for five months after launch.",
+      "A remote team of three engineers building websites, trade software and WhatsApp automation for Khanna commission agents, grain and input dealers, steel suppliers, schools, clinics and showrooms along GT Road. Our starting prices are public, the developers answer you directly, and maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Arhtiya record software", "Punjabi and Hindi search", "WhatsApp lead logging", "Code and domain in your name"],
   },
   quickAnswer:
-    "In Khanna, our static business website starts from ₹10,000, and a 299+ page SEO website starts from ₹20,000, taking roughly one to five weeks. Custom trade software starts from ₹60,000. We are three remote engineers with no Khanna office, so the quote carries no rent, and each launch comes with five months of free maintenance.",
+    "In Khanna, our static business website starts from ₹10,000, and a 299+ page SEO website starts from ₹20,000, taking roughly one to five weeks. Custom trade software starts from ₹60,000. We are three remote engineers with no Khanna office, so the quote carries no rent, and each launch comes with two months of free maintenance.",
   snapshot: [
     { label: "District", value: "Khanna city and tehsil, Ludhiana district, about 40 km from Ludhiana on GT Road" },
     { label: "Signature trade", value: "Grain market often described as Asia's largest, with the new grain market beside GT Road" },
@@ -51,7 +51,7 @@ const khanna: CityContent = {
     ai: "WhatsApp bots that answer common farmer and customer questions in Punjabi or Hindi and keep every enquiry logged in one sheet.",
     data: "Season-wise arrival, purchase and payment dashboards so an agent can see who is owed what without flipping through registers.",
     app: "Android and iPhone apps that let field staff record grain purchases or deliveries and sync once they have a signal, from ₹40,000.",
-    maintenance: "Free fixes, updates and backups for five months after launch; after that, maintenance runs from ₹8,000 a month if you want it.",
+    maintenance: "Free fixes, updates and backups for two months after launch; after that, maintenance runs from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Khanna businesses usually find a web designer through a relative or a Ludhiana contact, and prices are rarely written down anywhere. We publish ours, hand over every login at launch, and answer on WhatsApp all week, including the harvest weeks when you have no time to chase anyone.",
@@ -158,7 +158,7 @@ const khanna: CityContent = {
       paragraphs: [
         "We regularly meet Khanna business owners whose website vanished because the domain was registered by an old developer who no longer picks up. Sometimes the domain can be recovered; sometimes a competitor or a reseller has already bought it. Either way, it is a painful and avoidable problem.",
         "So we set up everything in your name from the start. The domain and hosting accounts are yours. At launch you receive every password, the full source code and a short document listing where each part runs. You can take the site to any other developer whenever you choose, with no exit fee.",
-        "Maintenance is free for the first five months after launch. That includes content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can keep us on from ₹8,000 a month, or just message us when you need a change.",
+        "Maintenance is free for the first two months after launch. That includes content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can keep us on from ₹8,000 a month, or just message us when you need a change.",
       ],
     },
     {
@@ -263,7 +263,7 @@ const khanna: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks without charge. After that, maintenance continues from ₹8,000 a month, or you can message us only when a change is needed and pay just for that work.",
+        "For two months after launch we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks without charge. After that, maintenance continues from ₹8,000 a month, or you can message us only when a change is needed and pay just for that work.",
     },
     {
       question: "Can you guarantee a top Google ranking?",

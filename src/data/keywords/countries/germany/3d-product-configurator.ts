@@ -40,7 +40,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: front end, cloud and data, project lead" },
     { value: "2", label: "Working days to an itemised configurator quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Monthly per-view licence fees on a custom build" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Outputs", value: "Cart line item, PDF spec, RFQ to CRM or ERP" },
       { label: "Build cost", value: `From ${P.software}, 6–12 weeks` },
       { label: "Mobile target", value: "Usable on mid-range Android phones over mobile data" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Dealer and B2B portals", note: "Trade customers configure with their own price lists and send orders for approval.", href: "/germany/b2b-portal-development/", size: "md" },
       { name: "Model preparation", note: "CAD or artist files converted to glTF, simplified, compressed and checked for correct scale.", size: "sm" },
       { name: "AR preview", note: "View in your room on iPhone and Android from the product page.", size: "sm" },
-      { name: "Upkeep", note: `New options, models and price updates, from ${P.care} after five free months.`, size: "sm" },
+      { name: "Upkeep", note: `New options, models and price updates, from ${P.care} after two free months.`, size: "sm" },
     ],
   },
   comparison: {
@@ -282,7 +282,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is invented to show how the pieces fit; it is not a client story.`,
         `Say a small workshop in Leipzig builds cargo bikes to order: three frame lengths, two drive systems, four battery sizes, a dozen box and child-seat modules and eight colours. Customers currently email for quotes, and staff spend evenings working out which modules fit which frame. The owners want buyers to configure online, see the bike, get a total price and either pay a deposit or book a test ride.`,
-        `We would propose a custom 3D product configurator on the existing Shopware shop. The quote would list model preparation from the workshop’s CAD files, a rules table for frame, drive, battery and module compatibility, a price file the owners edit themselves, a Shopware plugin that adds the configured bike to the cart with a deposit, an AR view for the garage, and a “book a test ride” exit that creates a CRM entry instead. Timeline: around nine weeks, with a rotating bike on staging by week three. After launch, five months of free maintenance cover new modules and colours.`,
+        `We would propose a custom 3D product configurator on the existing Shopware shop. The quote would list model preparation from the workshop’s CAD files, a rules table for frame, drive, battery and module compatibility, a price file the owners edit themselves, a Shopware plugin that adds the configured bike to the cart with a deposit, an AR view for the garage, and a “book a test ride” exit that creates a CRM entry instead. Timeline: around nine weeks, with a rotating bike on staging by week three. After launch, two months of free maintenance cover new modules and colours.`,
       ],
     },
     {
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
         ["Landing site to launch a configurable product", `From ${P.site}`, "1–2 weeks", "Number of layouts"],
         ["SEO pages for popular configurations", `From ${P.seoSite}`, "3–5 weeks", "Page count, image generation"],
         ["AI assistant that qualifies RFQs", `From ${P.ai}`, "2–4 weeks", "Data sources, CRM handoff"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Ongoing", "How often options and prices change"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Ongoing", "How often options and prices change"],
       ],
       hideSm: [3],
     },
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Lock the option matrix", "We agree option groups, rules and price sources in a shared sheet before heavy coding starts, so the build does not chase moving targets."],
       ["Build on staging", "The configurator grows on a staging link: model first, then options, rules, pricing and the exit into your cart or CRM, reviewed weekly."],
       ["Test on real devices", "We test on mid-range Android phones and older iPhones, check every risky combination and compare browser prices with server prices."],
-      ["Launch and five free months", `Go-live, handover of code, models and data files, then five months of free maintenance and optional care from ${P.care}.`],
+      ["Launch and two free months", `Go-live, handover of code, models and data files, then two months of free maintenance and optional care from ${P.care}.`],
     ],
   },
   faqHeading: "3D product configurator questions from German businesses",
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "Do you sign an NDA before I share CAD files?", answer: "Ask us and we will agree NDA terms in writing before you send anything sensitive. Every project also starts with a written, itemised quote covering scope, milestones and ownership. Anything not spelled out there falls under the terms page on our website, and your lawyer is welcome to review both documents." },
     { question: "Is a 3D configurator GDPR friendly?", answer: "It can be built that way. Analytics and marketing tags stay off until the visitor consents, saved configurations are stored only when the buyer chooses, enquiry forms ask only for what sales needs, and hosting runs in an EU region under a data processing agreement you sign with the host. Your own lawyer confirms the setup." },
     { question: "Can Google index a 3D configurator page?", answer: "Google cannot read inside a WebGL canvas, so the page around the configurator must carry the content: product text, dimensions, materials, lead times, FAQs and structured data. Popular configurations can get their own crawlable URLs with images. No one can guarantee rankings or AI citations, and we will not promise them." },
-    { question: "What happens after the configurator launches?", answer: `For five months after launch, fixes, library updates and small changes such as new colours are free. After that, maintenance starts at ${P.care} and covers new options, price file updates, browser compatibility and performance checks. Because all code and accounts are yours, you can also move maintenance elsewhere whenever you like.` },
+    { question: "What happens after the configurator launches?", answer: `For two months after launch, fixes, library updates and small changes such as new colours are free. After that, maintenance starts at ${P.care} and covers new options, price file updates, browser compatibility and performance checks. Because all code and accounts are yours, you can also move maintenance elsewhere whenever you like.` },
     { question: "Can you add a configurator to my existing website?", answer: "Usually, yes. The configurator can run as an embedded app on an existing product page, as long as we can add a script and, for shop checkouts, a small plugin or app. If the current site is very old or slow, we will say whether fixing it first is the better investment before adding 3D on top." },
     { question: "What do you not do on configurator projects?", answer: "We do not visit your premises, build photoreal marketing films, model products from scratch without CAD or 3D files, provide legal advice on pricing or privacy texts, or staff large teams. We say this up front so you can bring in a 3D artist, lawyer or specialist studio where needed." },
   ],
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a 3D product configurator? Send one product and its options",
-    note: `Share a product link, your option list and one CAD or 3D file on WhatsApp. You get an itemised quote in about two working days, with custom configurators from ${P.software}, all code and models in your accounts, and five months of free maintenance after launch.`,
+    note: `Share a product link, your option list and one CAD or 3D file on WhatsApp. You get an itemised quote in about two working days, with custom configurators from ${P.software}, all code and models in your accounts, and two months of free maintenance after launch.`,
   },
 };
 

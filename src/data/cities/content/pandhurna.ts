@@ -56,7 +56,7 @@ const pandhurna: CityContent = {
     ai: "WhatsApp replies in Marathi or Hindi for rate, stock and admission questions, with hard cases passed to a person.",
     data: "Season dashboards showing kapas bought, bales pressed, orchard deals, dues and dispatches, week by week.",
     app: "Android and iOS apps from ₹40,000 for dealer reorders or orchard supervisors, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, and from ₹8,000 a month afterwards if you want us to continue.",
+    maintenance: "Free maintenance for two months after launch, and from ₹8,000 a month afterwards if you want us to continue.",
   },
   whyUsIntro:
     "A Pandhurna grower or ginner deals in written slips, weights and rates, and expects the same from a service provider. So our terms are on paper: published starting prices, an itemised quote before we begin, WhatsApp replies seven days a week, and your domain, hosting, code and app store accounts held in your name, never ours.",
@@ -185,7 +185,7 @@ const pandhurna: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom software or web app: from ₹60,000, six to twelve weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -210,7 +210,7 @@ const pandhurna: CityContent = {
       heading: "Ownership, handover and maintenance for Pandhurna projects",
       paragraphs: [
         "Everything we build for a Pandhurna client belongs to that client from the start. The domain is registered under your email, hosting is paid in your name, the complete source code is handed over, and your Google Business Profile and any Google Play or Apple developer accounts name you as owner. A written login sheet goes to you at handover.",
-        "For five months after launch, maintenance is free: backups, security and version updates, content and rate changes, and checks on forms, payments and WhatsApp links. After that, you can keep us from ₹8,000 a month or hand everything to another developer without needing anything from us.",
+        "For two months after launch, maintenance is free: backups, security and version updates, content and rate changes, and checks on forms, payments and WhatsApp links. After that, you can keep us from ₹8,000 a month or hand everything to another developer without needing anything from us.",
       ],
     },
     {
@@ -306,7 +306,7 @@ const pandhurna: CityContent = {
     {
       question: "What happens after my Pandhurna website is launched?",
       answer:
-        "Pandhurna clients get five months of free maintenance covering backups, security and version updates, content and rate changes, and checks on forms and payments. After that, maintenance continues from ₹8,000 a month if you choose. The code and accounts are yours, so you may also move to any other developer.",
+        "Pandhurna clients get two months of free maintenance covering backups, security and version updates, content and rate changes, and checks on forms and payments. After that, maintenance continues from ₹8,000 a month if you choose. The code and accounts are yours, so you may also move to any other developer.",
     },
     {
       question: "Do you work in Sausar, Multai and Warud as well?",

@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "North and South Goa", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "BtechWaleTech's IT services in Goa cover custom software and web apps from ₹60,000 (six to twelve weeks), AI and WhatsApp automation from ₹40,000 (two to four weeks), Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000. We are a freelance group of three remote engineers with no Goa office, and every project includes five months of free maintenance after launch.",
+    "BtechWaleTech's IT services in Goa cover custom software and web apps from ₹60,000 (six to twelve weeks), AI and WhatsApp automation from ₹40,000 (two to four weeks), Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000. We are a freelance group of three remote engineers with no Goa office, and every project includes two months of free maintenance after launch.",
   snapshot: [
     { label: "Administration", value: "Two districts, North Goa (headquarters Panaji) and South Goa (headquarters Margao), with twelve talukas between them" },
     { label: "Main towns", value: "Panaji, Margao, Vasco-da-Gama, Mapusa and Ponda, plus Bicholim, Curchorem, Sanquelim, Canacona and Pernem" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp flows that answer tariff, availability and order questions in English, Hindi and Konkani, even at midnight in peak December.",
     data: "Dashboards that pull bookings, sales, production or dispatch data into one screen, so owners compare monsoon months with the high season honestly.",
     app: "Android and iOS apps for Goan hotels, taxi and tour operators, schools and distributors, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then care plans from ₹8,000 a month, timed so updates happen before the season, not during it.",
+    maintenance: "Two months of free maintenance after launch, then care plans from ₹8,000 a month, timed so updates happen before the season, not during it.",
   },
   whyUsIntro:
     "Goa has plenty of talented individual developers and a few agencies, but many owners here still end up with a site built in Mumbai that nobody can update, or a portal that owns their guest list. We work differently: three engineers, published starting prices, every login handed over, and replies on WhatsApp seven days a week.",
@@ -214,7 +214,7 @@ const content: CityContent = {
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Custom web app or software:</strong> from ₹60,000, six to twelve weeks",
         "<strong>Monthly SEO:</strong> from ₹10,000 per month",
-        "<strong>Maintenance after the free five months:</strong> from ₹8,000 per month",
+        "<strong>Maintenance after the free two months:</strong> from ₹8,000 per month",
       ],
     },
   ],
@@ -285,7 +285,7 @@ const content: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Every project includes five months of free maintenance once hosting is live. That covers content changes, bug fixes, security and dependency updates, backups, uptime and speed checks, and basic SEO health. After that, you can continue on a monthly plan from ₹8,000 or pay only when you need a change. For seasonal businesses, we plan larger updates for the monsoon months so nothing is disrupted during peak weeks.",
+        "Every project includes two months of free maintenance once hosting is live. That covers content changes, bug fixes, security and dependency updates, backups, uptime and speed checks, and basic SEO health. After that, you can continue on a monthly plan from ₹8,000 or pay only when you need a change. For seasonal businesses, we plan larger updates for the monsoon months so nothing is disrupted during peak weeks.",
     },
     {
       question: "How soon will SEO bring results in Goa?",

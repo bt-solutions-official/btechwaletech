@@ -39,7 +39,7 @@ const content: CityContent = {
     h1: "Freelance software developers in Belagavi for foundries, suppliers and institutes",
     lede:
       "If you are comparing a software development team in Belagavi with freelancers, here is the short version of us: BtechWaleTech is a freelance group of three engineers working remotely from India. We build B2B websites and RFQ portals, production and traceability software, AI and WhatsApp automation, dashboards, apps and cloud setups for Belagavi foundries, machine shops, sugar and textile units, colleges and clinics.",
-    pills: ["B2B sites and RFQ portals", "Traceability software", "AI automation from ₹40,000", "Kannada and Marathi", "5 months free support"],
+    pills: ["B2B sites and RFQ portals", "Traceability software", "AI automation from ₹40,000", "Kannada and Marathi", "2 months free support"],
   },
   quickAnswer:
     "BtechWaleTech is a freelance group of three engineers serving Belagavi remotely, not a software development team in Belagavi with an office. B2B websites start at ₹10,000 (1 to 2 weeks), AI automation at ₹40,000 (2 to 4 weeks) and custom production or traceability software at ₹60,000 (6 to 12 weeks). You get an itemised quote in about two working days.",
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that read drawings' title blocks, purchase orders and supplier invoices into sheets for a person to verify.",
     data: "Plant dashboards for melt, yield, rejection and on-time delivery, plus sales and receivables for the owner.",
     app: "Android and iOS apps for Belagavi shop floors, growers, weavers and colleges, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Five free months of updates, fixes and backups after launch, then support plans from ₹8,000 a month.",
+    maintenance: "Two free months of updates, fixes and backups after launch, then support plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Belagavi engineering owners respect straight talk and dislike surprises on invoices. We give a written, itemised scope, show every step on a live staging link, keep all accounts in your name and answer seven days a week. Three engineers, remote, with no office costs passed on to you.",
@@ -249,7 +249,7 @@ const content: CityContent = {
       id: "support-after-launch-belagavi",
       heading: "IT support and maintenance after launch",
       paragraphs: [
-        "Every BtechWaleTech project includes five months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, support plans start at ₹8,000 a month, or you pay per change.",
+        "Every BtechWaleTech project includes two months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, support plans start at ₹8,000 a month, or you pay per change.",
         "We answer on WhatsApp seven days a week, and the engineers who built your system are the ones who support it. Read <a href='/about/'>about us</a> or <a href='/contact/'>send your requirement</a>.",
         "See also <a href='/it-services/karnataka/'>Karnataka IT services</a>, our <a href='/belagavi/'>Belagavi websites page</a> and <a href='/it-services/karnataka/hubballi/'>software for Hubballi businesses</a>.",
       ],
@@ -310,7 +310,7 @@ const content: CityContent = {
     { question: "How do we pay?", answer: "Only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not take payments through gateways or payment links. Projects are split into milestones, each paid after you review the work on staging." },
     { question: "Can the website and software be in Kannada and Marathi?", answer: "Yes. We support Kannada and Marathi alongside English in interfaces, messages and web pages, with fonts that render properly on phones. Export-facing B2B pages usually stay in English, while local customer and staff content can use either language." },
     { question: "Who owns the code and domain?", answer: "You do. The repository, domain, hosting, database and any gateway account are in your name from the start. At handover you receive credentials and documentation so any developer can take over later without our permission." },
-    { question: "What is included after launch?", answer: "Five months of free maintenance after hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
+    { question: "What is included after launch?", answer: "Two months of free maintenance after hosting goes live, covering bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
     { question: "How long before SEO brings foundry enquiries?", answer: "Usually three to six months for meaningful results, sometimes longer for competitive export terms. Pages get indexed within weeks, but visibility builds with specific content and time. We do not guarantee rankings and report monthly from Search Console." },
     { question: "Can AI read purchase orders and drawings?", answer: "Yes, within limits. AI can extract part numbers, quantities, materials and dates from purchase orders and drawing title blocks into a register for a person to verify. It does not replace an engineer reading the drawing. Projects start at ₹40,000." },
     { question: "Do you build Android and iOS apps for Belagavi factories?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. We use Flutter or React Native, add login, forms, photo capture, push notifications and an admin panel, and publish on Google Play and the App Store under your name. Offline saving keeps shop-floor entries safe when Wi-Fi drops." },

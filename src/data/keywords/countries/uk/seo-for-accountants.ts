@@ -359,7 +359,7 @@ const content: FreelanceContent = {
         ["Large niche-and-town build", "299+ pages, each with specific content, internal linking and schema", `From ${P.seoSite}`, "3–5 weeks"],
         ["Lead dashboard or calculator app", "Enquiries by service, won/lost tagging, partner logins, CRM writes", `From ${P.software}`, "6–12 weeks"],
         ["AI enquiry triage", "Enquiries sorted by service and urgency, draft replies for staff", `From ${P.ai}`, "2–4 weeks"],
-        ["Care plan", "Updates, backups, seasonal edits after the free period", `From ${P.care}`, "After 5 free months"],
+        ["Care plan", "Updates, backups, seasonal edits after the free period", `From ${P.care}`, "After 2 free months"],
       ],
       hideSm: [3],
     },

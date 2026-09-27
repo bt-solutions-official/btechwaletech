@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Android & iOS apps from ₹40,000", "Software from ₹60,000", "Automation from ₹40,000", "Websites from ₹10,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "IT services in Nagaland from BtechWaleTech, three freelance engineers based elsewhere in India: static websites from ₹10,000 in one to two weeks, automations and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and bespoke software from ₹60,000 in six to twelve weeks. There is no Nagaland office, and the first five months of upkeep are free.",
+    "IT services in Nagaland from BtechWaleTech, three freelance engineers based elsewhere in India: static websites from ₹10,000 in one to two weeks, automations and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and bespoke software from ₹60,000 in six to twelve weeks. There is no Nagaland office, and the first two months of upkeep are free.",
   snapshot: [
     { label: "Capital", value: "Kohima, the administrative centre, home to the state secretariat and the Kohima War Cemetery" },
     { label: "Commercial hub", value: "Dimapur, the state's largest city, with its railway station, airport and wholesale markets" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that answer routine questions, capture bookings and orders, and draft documents, with a person reviewing important decisions.",
     data: "Dashboards pulling records from several districts into one view for owners, managers and programme heads.",
     app: "Cross-platform Android and iOS apps from ₹40,000, written once in Flutter or React Native and listed on Google Play and the App Store, for Dimapur retailers, Kohima parents, church members, Hornbill visitors and district field teams.",
-    maintenance: "Upkeep handled remotely, covering patches, backups, fixes and uptime alerts, at no charge for the first five months and then from ₹8,000 monthly.",
+    maintenance: "Upkeep handled remotely, covering patches, backups, fixes and uptime alerts, at no charge for the first two months and then from ₹8,000 monthly.",
   },
   whyUsIntro:
     "Nagaland organisations often pick between a handful of local IT vendors and agencies in Guwahati or Kolkata. A freelance group offers direct engineer contact, published starting prices, WhatsApp replies seven days a week and full ownership of code and accounts.",
@@ -191,7 +191,7 @@ const content: CityContent = {
       id: "maintenance-nagaland",
       heading: "IT support and maintenance for Nagaland clients",
       paragraphs: [
-        "Once a Nagaland project is live, the first five months of upkeep cost nothing: we patch bugs, apply security releases, make minor text and image edits, verify that backups ran and watch uptime. From month six you can move to a plan starting at ₹8,000 a month, or simply message us whenever a specific change is needed.",
+        "Once a Nagaland project is live, the first two months of upkeep cost nothing: we patch bugs, apply security releases, make minor text and image edits, verify that backups ran and watch uptime. From month three you can move to a plan starting at ₹8,000 a month, or simply message us whenever a specific change is needed.",
         "Everything we support, we support remotely: the applications, sites, servers, domains, mail setup and automations we delivered. Office hardware such as PCs, networks and cameras belongs with a technician in your town, and we are happy to brief them over the phone when needed.",
         "We reply on WhatsApp or email seven days a week, restore outages first and explain causes afterwards, and send a health report before the free period ends.",
       ],
@@ -245,7 +245,7 @@ const content: CityContent = {
         "Itemised estimate in about two working days",
         "Screen map agreed",
         "Weekly demos on your phone",
-        "Launch, training and five months of free maintenance",
+        "Launch, training and two months of free maintenance",
       ],
     },
   ],
@@ -311,7 +311,7 @@ const content: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For the first five months after go-live it costs nothing and includes bug fixing, security patches, minor edits, backup checks and uptime watching. After that, either take a plan from ₹8,000 monthly or pay per request. Hardware visits are outside the scope, as we work remotely.",
+        "For the first two months after go-live it costs nothing and includes bug fixing, security patches, minor edits, backup checks and uptime watching. After that, either take a plan from ₹8,000 monthly or pay per request. Hardware visits are outside the scope, as we work remotely.",
     },
     {
       question: "When will SEO show results in Nagaland?",

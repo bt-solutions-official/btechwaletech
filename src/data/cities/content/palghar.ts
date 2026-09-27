@@ -57,7 +57,7 @@ const palghar: CityContent = {
     ai: "WhatsApp assistants in Marathi, Hindi and English that answer room, rate, stock and service questions and pass bookings or orders to your staff.",
     data: "Dashboards of enquiries by source, bookings by season, jobs by plant and payments pending by client.",
     app: "Android and iOS apps for a resort's repeat guests, a school's parents or an MIDC contractor's field staff, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Palghar sits close enough to Mumbai that clients here have seen every kind of web agency pitch, and far enough that most of them want plain answers rather than a presentation. We give written scope, published starting prices, WhatsApp replies every day of the week, and accounts registered in your name from the start.",
@@ -178,7 +178,7 @@ const palghar: CityContent = {
       heading: "Ownership and maintenance for Palghar websites and apps",
       paragraphs: [
         "Everything we build is yours. The domain is registered with your email, the hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. You receive a written sheet of every login at handover, so nobody, including us, can lock you out.",
-        "Maintenance is free for five months after launch. In that time we update tariffs, prices and notices, take backups, apply security and software updates, and check that forms, booking requests, checkout and WhatsApp buttons work. After five months you can continue with us from ₹8,000 a month, manage the site yourself, or pass the code to another developer.",
+        "Maintenance is free for two months after launch. In that time we update tariffs, prices and notices, take backups, apply security and software updates, and check that forms, booking requests, checkout and WhatsApp buttons work. After two months you can continue with us from ₹8,000 a month, manage the site yourself, or pass the code to another developer.",
         "Apps need a yearly update even when nothing is broken, because Google and Apple raise their minimum requirements. We watch those deadlines and ship updates early so your app is never removed from the store. Our <a href=\"/services/web-development/\">web development page</a> explains how we keep sites fast and safe after launch.",
       ],
     },
@@ -270,7 +270,7 @@ const palghar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: tariff and price updates, backups, security patches and checks of forms, bookings, checkout and WhatsApp links. After that it starts at ₹8,000 a month if you continue with us. The code and accounts are in your name, so you can switch providers freely.",
+        "Maintenance is free for two months after launch: tariff and price updates, backups, security patches and checks of forms, bookings, checkout and WhatsApp links. After that it starts at ₹8,000 a month if you continue with us. The code and accounts are in your name, so you can switch providers freely.",
     },
     {
       question: "Do you work in Boisar, Dahanu and Vasai-Virar as well?",

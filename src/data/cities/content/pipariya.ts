@@ -56,7 +56,7 @@ const pipariya: CityContent = {
     ai: "WhatsApp bots that quote taxi fares, confirm bookings, share mill price lists and hand tricky chats to a person.",
     data: "Crop-season dashboards of arrivals, purchases, stock by warehouse and outstanding payments, drawn from your existing sheets.",
     app: "Android and iOS apps for Pachmarhi taxi fleets to assign drivers or for dealers' farmer customers to book service, from ₹40,000, listed on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after go-live, then from ₹8,000 a month for changes, backups, patches and yearly app updates.",
+    maintenance: "Free upkeep for two months after go-live, then from ₹8,000 a month for changes, backups, patches and yearly app updates.",
   },
   whyUsIntro:
     "Pipariya traders are used to settling deals on trust and paying against delivery, and we work the same way. Our starting prices are public, every quote is itemised in writing, WhatsApp gets a reply seven days a week, and the domain, hosting, code and app store accounts are registered to you rather than to us.",
@@ -164,7 +164,7 @@ const pipariya: CityContent = {
       heading: "Website cost in Pipariya: what drives the number up or down",
       paragraphs: [
         "It helps to think in examples. A clinic near Station Road with five or six pages, doctor timings and a map pin fits within a static website, which starts at ₹10,000 and is ready in one to two weeks. A Pachmarhi taxi operator wanting a page for every route and sightseeing plan needs a 299+ page SEO website, from ₹20,000 over three to five weeks.",
-        "A dal brand selling packs online needs a store, from ₹50,000 and four to eight weeks. A grain trader's purchase and warehouse system is custom software, from ₹60,000 across six to twelve weeks. Apps and AI automation each start at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the five free months are over.",
+        "A dal brand selling packs online needs a store, from ₹50,000 and four to eight weeks. A grain trader's purchase and warehouse system is custom software, from ₹60,000 across six to twelve weeks. Apps and AI automation each start at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month once the two free months are over.",
         "Hindi and English versions, long product catalogues, payment collection, staff logins and Tally links add separate lines to the quote. Other designers in and around Narmadapuram quote very differently for similar-sounding jobs, so compare on substance: who holds the domain, whether the price includes basic SEO, how many revisions are covered and what support costs after year one. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your own quote arrives within about two working days.",
       ],
     },
@@ -188,7 +188,7 @@ const pipariya: CityContent = {
       heading: "After launch in Pipariya: ownership, upkeep and yearly app updates",
       paragraphs: [
         "From the first day the web address, hosting, source code, Google Business Profile and any Google Play or Apple developer account are held in your name. That matters in a family business: if the person who dealt with us moves away, the next person can pick up every login from the handover sheet without calling anyone.",
-        "For five months after launch, upkeep costs nothing. We change rates and photos when you ask, take backups, apply security updates and test forms, payments and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, or you can move the work to any other developer, since the code is already with you.",
+        "For two months after launch, upkeep costs nothing. We change rates and photos when you ask, take backups, apply security updates and test forms, payments and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, or you can move the work to any other developer, since the code is already with you.",
         "Apps carry one more duty. Google and Apple raise their minimum requirements every year, and an app that is not rebuilt can be hidden from the store. We watch those deadlines and schedule the update well before the cutoff, ideally in a slow month rather than during harvest or the holiday season.",
       ],
     },
@@ -271,7 +271,7 @@ const pipariya: CityContent = {
     {
       question: "What does maintenance cost after the free period?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and small edits. After that it starts at ₹8,000 a month if you want us to continue. You are free to stop at any time or hand the code to another developer, because it is already in your possession.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and small edits. After that it starts at ₹8,000 a month if you want us to continue. You are free to stop at any time or hand the code to another developer, because it is already in your possession.",
     },
     {
       question: "Do you serve Sohagpur, Bankhedi, Itarsi and Narmadapuram too?",

@@ -7,7 +7,7 @@ const miraBhayandar: CityContent = {
   meta: {
     title: "Web Design & SEO in Mira-Bhayandar | From ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Mira Road and Bhayandar shops, clinics, galas and caterers. Sites from ₹10,000, five months of free upkeep.",
+      "Websites, local SEO and WhatsApp automation for Mira Road and Bhayandar shops, clinics, galas and caterers. Sites from ₹10,000, two months of free upkeep.",
     keywords: [
       "website development team in Mira-Bhayandar",
       "web designer Mira Road",
@@ -31,11 +31,11 @@ const miraBhayandar: CityContent = {
     eyebrow: "Mira-Bhayandar · Maharashtra",
     h1: "Websites, local SEO and automation for Mira Road and Bhayandar",
     lede:
-      "Three remote engineers building quick, phone-friendly websites for the clinics, classes, caterers, jewellers and Bhayandar East gala units of Mira-Bhayandar. Prices are on the page, replies come on WhatsApp every day of the week, and after launch you get five months of maintenance without paying anything extra.",
+      "Three remote engineers building quick, phone-friendly websites for the clinics, classes, caterers, jewellers and Bhayandar East gala units of Mira-Bhayandar. Prices are on the page, replies come on WhatsApp every day of the week, and after launch you get two months of maintenance without paying anything extra.",
     pills: ["Sites from ₹10,000", "Mira Road map searches", "UPI stores", "Gala and B2B catalogues", "WhatsApp replies"],
   },
   quickAnswer:
-    "For a business in Mira-Bhayandar, our static website starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO site starts at ₹20,000 over three to five weeks. We are a three-person remote team with no local office, so you pay for engineering rather than rent, and maintenance is free for five months.",
+    "For a business in Mira-Bhayandar, our static website starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO site starts at ₹20,000 over three to five weeks. We are a three-person remote team with no local office, so you pay for engineering rather than rent, and maintenance is free for two months.",
   snapshot: [
     { label: "Civic body", value: "Mira-Bhayandar Municipal Corporation, Thane district, part of the Mumbai Metropolitan Region" },
     { label: "Main areas", value: "Mira Road East, Shanti Nagar, Naya Nagar, Kashimira, Bhayandar West and Bhayandar East" },
@@ -52,10 +52,10 @@ const miraBhayandar: CityContent = {
     ai: "WhatsApp assistants that answer fee, menu, slot and price questions in Hindi, English or Gujarati and pass the unusual ones to you.",
     data: "Simple dashboards for society-level service firms and traders showing which areas, products and channels actually bring money in.",
     app: "Android and iOS apps for home delivery, class attendance and society service bookings, listed on Google Play and the App Store from ₹40,000.",
-    maintenance: "Price edits, new photos, backups and security fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Price edits, new photos, backups and security fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Mira-Bhayandar has no shortage of people who will build you a website, many of them working out of a flat or a small office near the station. The difference with us is simple: our prices are published, three engineers do the work themselves, and we keep maintaining the site for five months after launch at no cost.",
+    "Mira-Bhayandar has no shortage of people who will build you a website, many of them working out of a flat or a small office near the station. The difference with us is simple: our prices are published, three engineers do the work themselves, and we keep maintaining the site for two months after launch at no cost.",
   pricingIntro:
     "Most web designers in Mira Road and Bhayandar quote only after a call, so two neighbouring shops can pay very different amounts for similar sites. Below are our actual starting prices. Your own quote depends on pages, features and how much of the content is ready, and it comes itemised before anything is billed.",
   sections: [
@@ -173,11 +173,11 @@ const miraBhayandar: CityContent = {
     },
     {
       id: "ownership-upkeep",
-      heading: "You own everything, and upkeep is free for five months",
+      heading: "You own everything, and upkeep is free for two months",
       paragraphs: [
         "A surprising number of Mira-Bhayandar businesses have lost control of their own website. The domain was booked by a nephew who moved abroad, the hosting renewal emails go to an old employee, or the designer who built it stopped picking up. The site stays online until something expires, and then it is gone along with whatever ranking it had.",
         "We set things up to avoid that. The domain is registered in your name, the hosting account belongs to you, and at launch you receive every login plus a one-page note explaining what runs where. The source code is yours. If you ever want another developer to take over, you can hand it over the same day without paying us anything.",
-        "For the first five months after launch, maintenance is included at no charge: text and price edits, new photos, bug fixes, security and dependency updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing. Either way, there is no contract that locks you in, and our <a href=\"/services/web-development/\">web development</a> work is written so another competent developer can read it.",
+        "For the first two months after launch, maintenance is included at no charge: text and price edits, new photos, bug fixes, security and dependency updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month or simply message us when something needs changing. Either way, there is no contract that locks you in, and our <a href=\"/services/web-development/\">web development</a> work is written so another competent developer can read it.",
       ],
     },
   ],
@@ -262,9 +262,9 @@ const miraBhayandar: CityContent = {
         "Yes. The domain is registered to you, the hosting account is yours and you receive all logins and the source code at launch. You can change developers whenever you like without paying an exit fee. We insist on this because lost access to an old website is one of the most common problems we see in Mira-Bhayandar.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During those five months we handle content and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month if you want it. Otherwise, you can message us only when you need a change and pay for that piece of work.",
+        "During those two months we handle content and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month if you want it. Otherwise, you can message us only when you need a change and pay for that piece of work.",
     },
     {
       question: "Do you also work with businesses in Vasai-Virar, Thane, Bhiwandi and Borivali?",

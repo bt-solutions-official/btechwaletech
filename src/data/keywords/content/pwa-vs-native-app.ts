@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "0", label: "Store review days for a PWA update" },
     { value: "1", label: "Codebase for web, Android and iPhone with a PWA" },
     { value: "16.4", label: "iOS version that added web push for Home Screen apps" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "PWA vs native app: which should an Indian business choose?",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Does a PWA work on low-end Android phones?", answer: "Yes, and often better than a native app, because there is no large download and updates load in small pieces. A well-built PWA opens quickly on budget phones and patchy networks. We test on entry-level devices and measure against Google’s Core Web Vitals before launch." },
     { question: "Who owns the PWA and the code?", answer: "You do. The domain, hosting and code are registered in your name, and if we publish to Google Play or the App Store, it is under your own developer accounts. You can move to another developer at any time without asking permission." },
     { question: "PWA banwaye ya app, kya better hai?", answer: "Agar customer WhatsApp link, Google ya QR code se aate hain aur order, booking ya catalogue chahiye, to PWA sasta aur jaldi live hota hai. Background location, lambe offline kaam ya Play Store search zaroori ho to native app lijiye. Kai business pehle PWA se shuru karke baad mein app banwate hain." },
-    { question: "What does maintenance look like for a PWA vs a native app?", answer: `A PWA needs website-style upkeep: hosting, security updates and content changes, deployed instantly. A native app also needs store updates when Android and iOS requirements change, each going through review. With BtechWaleTech, maintenance is free for five months after launch, then from ${P.care}.` },
+    { question: "What does maintenance look like for a PWA vs a native app?", answer: `A PWA needs website-style upkeep: hosting, security updates and content changes, deployed instantly. A native app also needs store updates when Android and iOS requirements change, each going through review. With BtechWaleTech, maintenance is free for two months after launch, then from ${P.care}.` },
     { question: "Can I have both a PWA and a native app?", answer: "Yes, and many businesses end up there. The PWA serves customers who arrive from search, links and QR codes; the native app serves loyal users who want dependable notifications and deeper features. Both run on one backend and admin panel, so data, prices and orders stay in sync." },
   ],
   related: {

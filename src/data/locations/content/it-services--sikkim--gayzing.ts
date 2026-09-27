@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Gyalshing for Pelling hotels, trek operators and West Sikkim businesses",
     lede:
       "Businesses that search for a software development team in Gyalshing are usually hotels in Pelling, trek operators in Yuksom, homestays and district service providers who need bookings and discovery to work reliably. BtechWaleTech is a freelance group of three engineers working remotely from India. We build lightweight tourism pages, booking and trek software, Android and iOS apps, automation, local SEO and ongoing maintenance.",
-    pills: ["Lightweight tourism pages", "Trek and permit workflows", "Android and iOS apps from ₹40,000", "Local SEO for Pelling", "Maintenance free for 5 months"],
+    pills: ["Lightweight tourism pages", "Trek and permit workflows", "Android and iOS apps from ₹40,000", "Local SEO for Pelling", "Maintenance free for 2 months"],
   },
   quickAnswer:
-    "For Gyalshing and Pelling businesses, BtechWaleTech, a freelance group of three remote engineers, builds tourism websites from ₹10,000 (1 to 2 weeks), Android and iOS apps or AI automation from ₹40,000, and custom booking or trek software from ₹60,000 (6 to 12 weeks). Quotes are itemised in about two working days, with five months of free maintenance.",
+    "For Gyalshing and Pelling businesses, BtechWaleTech, a freelance group of three remote engineers, builds tourism websites from ₹10,000 (1 to 2 weeks), Android and iOS apps or AI automation from ₹40,000, and custom booking or trek software from ₹60,000 (6 to 12 weeks). Quotes are itemised in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Status", value: "Gyalshing, also spelt Geyzing, is headquarters of Gyalshing district, formerly West Sikkim; the name is linked to the royal gardens of old Rabdentse" },
     { label: "Main tourist town", value: "Pelling, close to Gyalshing, is one of Sikkim's busiest destinations after Gangtok, with close Kanchenjunga views" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer room, trek date, permit document and transport questions in English, Hindi or Nepali, then hand bookings to staff.",
     data: "Dashboards for occupancy through the spring and autumn seasons, trek batches filled, and income by source for Gyalshing and Pelling owners.",
     app: "Android and iOS apps from ₹40,000 for West Sikkim: trek companion apps with offline route notes, guest apps for Pelling hotels and guide roster apps, published on Google Play and the App Store.",
-    maintenance: "Regular updates, backups, security patches and uptime checks through each season, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Regular updates, backups, security patches and uptime checks through each season, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Many Gyalshing and Pelling businesses had a website built once by a contact in Siliguri or Gangtok and never updated. A freelance group of three engineers offers something steadier: published starting prices, lightweight builds, direct WhatsApp contact seven days a week, and maintenance that keeps prices and photos current.",
@@ -115,7 +115,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development for Gyalshing and Pelling businesses starts from ₹40,000 with BtechWaleTech and takes six to ten weeks. We build once in Flutter or React Native and publish on Google Play and the Apple App Store, with login, forms, push notifications and an admin panel connected through an API.",
         "The apps that make sense in West Sikkim are built for travellers and field teams. A trek companion app gives each trekker the itinerary, packing list, emergency contacts and route notes, readable offline once downloaded in Yuksom. A hotel guest app lets Pelling visitors order meals, book a taxi to Khecheopalri Lake or request an early wake-up for sunrise views. A guide and porter roster app lets agency owners assign crews and track advances. Homestay networks can share one app for availability.",
-        "Signal disappears quickly beyond the main towns, so every app caches data, queues entries offline and syncs later. Many domestic and international trekkers use iPhones, which is why both stores are included. Developer accounts are opened in your business name. If a lightweight website would serve your guests just as well, we will recommend that, since it costs less. Store updates for new Android and iOS versions are covered in the five free months of maintenance.",
+        "Signal disappears quickly beyond the main towns, so every app caches data, queues entries offline and syncs later. Many domestic and international trekkers use iPhones, which is why both stores are included. Developer accounts are opened in your business name. If a lightweight website would serve your guests just as well, we will recommend that, since it costs less. Store updates for new Android and iOS versions are covered in the two free months of maintenance.",
       ],
       list: [
         "Trek companion app with offline route notes",
@@ -147,8 +147,8 @@ const content: CityContent = {
       heading: "Why do West Sikkim websites need regular maintenance?",
       paragraphs: [
         "West Sikkim websites need regular maintenance because prices, seasons, road access, trek dates and photos change every year, and an outdated page with last year's rates or a broken booking form loses guests quickly; maintenance also covers backups, security patches and making sure the site stays online during the busiest weeks.",
-        "BtechWaleTech includes five months of maintenance free after launch. Send updates on WhatsApp, such as new rates, a new room, festival timings or trek batches, and we make them, usually within a working day. We host on reliable cloud servers with daily backups and SSL, so the site stays up even when local power or networks fail.",
-        "After five months, plans start at ₹8,000 a month, or you can pay per change. We reply seven days a week. We do not provide on-site hardware support; a local technician is still best for computers and Wi-Fi.",
+        "BtechWaleTech includes two months of maintenance free after launch. Send updates on WhatsApp, such as new rates, a new room, festival timings or trek batches, and we make them, usually within a working day. We host on reliable cloud servers with daily backups and SSL, so the site stays up even when local power or networks fail.",
+        "After two months, plans start at ₹8,000 a month, or you can pay per change. We reply seven days a week. We do not provide on-site hardware support; a local technician is still best for computers and Wi-Fi.",
       ],
     },
     {
@@ -255,7 +255,7 @@ const content: CityContent = {
     { question: "Can your system collect documents for trek permits?", answer: "Yes. Registration forms collect each trekker's ID, photos and required declarations, flag anything missing and organise documents by batch, so staff can apply for permits quickly. We do not file permits ourselves or link to government systems unless an official integration exists." },
     { question: "Will the chatbot answer in Nepali and Hindi?", answer: "Yes. The WhatsApp assistant can reply in Nepali, Hindi or English, matching the traveller. It answers only from information you approve and passes refunds, cancellations, safety and weather questions to a person." },
     { question: "Who owns the website and data?", answer: "You do. The domain, hosting, source code, database and store accounts are in your name or transferred at handover. Guest and trekker data stays with you, and you can change developers whenever you like." },
-    { question: "What does maintenance include?", answer: "Five months of maintenance are free after launch: updates to prices, photos and dates, bug fixes, backups, security patches and uptime checks. After that, plans start at ₹8,000 a month, or you pay only for the changes you request." },
+    { question: "What does maintenance include?", answer: "Two months of maintenance are free after launch: updates to prices, photos and dates, bug fixes, backups, security patches and uptime checks. After that, plans start at ₹8,000 a month, or you pay only for the changes you request." },
     { question: "How long before local SEO brings bookings?", answer: "Map listings can improve within weeks once the Google Business Profile is complete. Website SEO usually takes three to six months. We focus on specific searches, such as a hotel type or trek, where West Sikkim businesses can compete, and we never guarantee rankings." },
     { question: "Will the website load on weak signal?", answer: "Yes, that is a design priority. We build lightweight static pages, compress images for mobile, avoid heavy sliders and videos, and put the key information and contact buttons on the first screen, so the page works on the slow connections common in West Sikkim." },
     { question: "Do you fix hotel Wi-Fi or computers?", answer: "No. We are remote software engineers and do not handle hardware, Wi-Fi or CCTV. A local technician is the right choice for that. We build and maintain websites, apps, booking software, automation and dashboards." },

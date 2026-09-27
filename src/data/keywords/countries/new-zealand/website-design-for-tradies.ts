@@ -35,14 +35,14 @@ const content: FreelanceContent = {
     ["Multi-area SEO site from", P.seoSite],
     ["Build time", "About 1 to 2 weeks once photos arrive"],
     ["Quote forms go to", "Your inbox or job management tool"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Your first step", "Send your trade, areas and current site on WhatsApp"],
   ],
   stats: [
     { value: "3", label: "Freelance developers; one handles the SEO side of every tradie build" },
     { value: "1", label: "Tap to call you from any page on a phone" },
     { value: "2", label: "Working days, about, to get an itemised quote" },
-    { value: "5", label: "Months of free fixes and changes after launch" },
+    { value: "2", label: "Months of free fixes and changes after launch" },
   ],
   answer: {
     heading: "What makes website design for tradies actually bring in work?",
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         "Extra features: online booking, finance enquiry forms, careers page",
       ],
       after: [
-        `After launch you get five months of free maintenance. After that, care plans start from ${P.care}, and monthly local SEO from ${P.seo}, both optional. For a full picture of NZ website running costs such as domain and hosting, read <a href='/new-zealand/website-design-cost/'>how much a website costs in NZ</a>.`,
+        `After launch you get two months of free maintenance. After that, care plans start from ${P.care}, and monthly local SEO from ${P.seo}, both optional. For a full picture of NZ website running costs such as domain and hosting, read <a href='/new-zealand/website-design-cost/'>how much a website costs in NZ</a>.`,
       ],
     },
     {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Send photos and details", "Job photos, registration details and review links go into a shared folder; we draft service and area pages from a short call."],
       ["Review on your phone", "A staging link you check between jobs. You mark changes on WhatsApp; we update overnight your time."],
       ["Test enquiries", "We send test quote requests with photos through the form and confirm they arrive in your email and job tool as expected."],
-      ["Go live and hand over", "Launch, Business Profile link updated, logins handed over, and five months of free maintenance begins."],
+      ["Go live and hand over", "Launch, Business Profile link updated, logins handed over, and two months of free maintenance begins."],
     ],
   },
   faqHeading: "Website design for tradies: common questions",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Is a Facebook page enough for a tradie instead of a website?", answer: "A Facebook page helps, but you do not control it, it ranks poorly for most local job searches and it cannot hold proper service or area pages. Keep it for updates and reviews, and use a website as your main address online. The two work best linked to each other." },
     { question: "Can you help with my Google Business Profile as a tradie?", answer: "Yes. We set your categories, services and service areas, update hours and photos, and link the profile to the right pages on your site so details match exactly. Google allows up to 20 service areas and says a service-area business should hide its address if customers are not served there." },
     { question: "Should I keep using NoCowboys or Builderscrack if I have a website?", answer: "If they bring you good jobs, yes. Review and lead sites can fill gaps in the diary and add trust. Link your profiles from your website, keep your business details identical everywhere, and ask happy customers to review you on Google too. The aim is not to depend on any single platform." },
-    { question: "Can I update my tradie website myself?", answer: "Yes. We build the site so you can add photos, change prices or edit text from a phone or laptop, and we record a short walkthrough at handover. For bigger changes, you get five months of free maintenance after launch, and care plans after that if you want us to keep handling updates." },
+    { question: "Can I update my tradie website myself?", answer: "Yes. We build the site so you can add photos, change prices or edit text from a phone or laptop, and we record a short walkthrough at handover. For bigger changes, you get two months of free maintenance after launch, and care plans after that if you want us to keep handling updates." },
     { question: "Why would a New Zealand tradie hire web designers in India?", answer: "Mainly for cost and direct contact with the people doing the work. Most of a website is desk work that can be done remotely. You message us on WhatsApp, calls happen in your afternoon, and changes often arrive overnight. We do not visit sites or take photos, so you supply those." },
     { question: "How do I pay for a website built in India?", answer: "Quotes are in USD and you pay by Wise, bank wire or PayPal at the milestones listed in your written quote. Nothing is billed before you approve the quote. Invoices come from India; ask your accountant how to record them and whether any GST treatment applies to your business." },
     { question: "Who owns the website and domain?", answer: "You do. Your domain and hosting are registered to your business, the code is handed over, and quote requests go straight to your email and job tool. We are added as users while working and can be removed any time. There is no rental arrangement holding your site or domain hostage." },

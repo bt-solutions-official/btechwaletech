@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "3–5 weeks for a standard portal"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Domain, hosting, AdSense", "All in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering build, hosting and SEO" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Languages", value: "Hindi, English and regional scripts" },
       { label: "Speed target", value: "Core Web Vitals passing on mobile, ads included" },
       { label: "Ownership", value: "Domain, hosting, ad and analytics accounts yours" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       heading: "News portal banwana hai? Kya dhyan rakhein",
       paragraphs: [
         `News portal sirf theme lagane se nahi chalta. Reporter mobile se khabar daal sake, editor approve kare, aur breaking news turant upar aaye, yeh sab pehle plan kijiye. Site tez honi chahiye, khaaskar jab ads lagte hain aur result wale din traffic achanak badhta hai.`,
-        `Domain, hosting, AdSense aur Search Console hamesha apne naam par rakhiye. Hamare saath news ya blog portal ${P.seoSite} se shuru hota hai aur 3–5 hafte mein live hota hai. Launch ke baad 5 mahine maintenance free hai. Legal registration aur rules ke liye kisi vakil se salah zaroor lijiye.`,
+        `Domain, hosting, AdSense aur Search Console hamesha apne naam par rakhiye. Hamare saath news ya blog portal ${P.seoSite} se shuru hota hai aur 3–5 hafte mein live hota hai. Launch ke baad 2 mahine maintenance free hai. Legal registration aur rules ke liye kisi vakil se salah zaroor lijiye.`,
       ],
     },
   ],
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
         ["News app for Android and iOS", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Push alerts, offline reading"],
         ["AI tools for the desk", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Transcription, summaries, tagging"],
         ["Monthly SEO for publishers", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Audits, internal links, Search Console"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes"],
       ],
       hideSm: [2],
     },
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Domain, hosting, CDN, analytics, Search Console and ad accounts are created in your name, with us added as users."],
       ["Review templates on a test site", "Home, category, article and author pages appear on a staging link. Your desk files test stories from phones and we adjust the workflow."],
       ["Launch and train the desk", "We migrate any old content with redirects, verify sitemaps and schema, go live and run a short training session for reporters and editors."],
-      ["Five months of free maintenance", "Updates, fixes and tuning after your first busy news days are free for five months, then optional from " + P.care + "."],
+      ["Two months of free maintenance", "Updates, fixes and tuning after your first busy news days are free for two months, then optional from " + P.care + "."],
     ],
   },
   faqHeading: "News portal developer: questions publishers ask",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "Who owns the news portal and its content?", answer: "You should own everything: domain, hosting, CDN, database, media storage, ad accounts, analytics and Search Console, all registered to you or your organisation. BtechWaleTech sets these up in your name and hands over every login and any custom code at launch, so your archive stays yours whoever maintains the site." },
     { question: "Can you build an e-paper for my print newspaper?", answer: "Yes. An e-paper section can publish daily PDF editions with page navigation, clipping or sharing of individual stories, and a dated archive. It is usually part of a custom tier. Many publishers pair it with a regular web portal so stories are also readable as normal articles, which works better on phones and in search." },
     { question: "Is WordPress secure enough for a news site?", answer: "It can be, with discipline. Keep core, theme and plugins updated, use few, well-maintained plugins, enforce strong passwords and two-factor login, limit admin roles, run the site behind a CDN with attack protection, and take automatic daily backups stored separately. Most WordPress hacks come from outdated plugins or weak passwords rather than WordPress itself." },
-    { question: "News portal banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath news ya blog portal ${P.seoSite} se shuru hota hai aur aam taur par 3–5 hafte mein live ho jaata hai. Paywall, alag editions ya reporter app jaise custom features ${P.software} se shuru hote hain. Hosting aur domain aapke naam par rehte hain, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "News portal banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath news ya blog portal ${P.seoSite} se shuru hota hai aur aam taur par 3–5 hafte mein live ho jaata hai. Paywall, alag editions ya reporter app jaise custom features ${P.software} se shuru hote hain. Hosting aur domain aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Do you also provide SEO for news websites?", answer: `Yes, as a separate monthly service starting at ${P.seo}. It covers technical audits, internal linking between related stories, category and tag clean-up, structured data checks and Search Console monitoring. We never promise rankings or Google News placement, because those depend on your reporting, competition and search engines’ own decisions.` },
     { question: "How do payments work for a news portal project?", answer: "Payments are staged against visible work, such as an advance to start and further payments when templates are approved and at launch. In India we accept UPI or bank transfer; publishers abroad pay by Wise, bank wire or PayPal. The stages are written into the itemised quote you approve, and nothing is billed before approval." },
   ],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a news or blog portal?",
-    note: `Tell us on WhatsApp about your newsroom, languages and publishing volume. You will get a platform recommendation and itemised quote in about two working days, with portals starting at ${P.seoSite}, every account in your name and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp about your newsroom, languages and publishing volume. You will get a platform recommendation and itemised quote in about two working days, with portals starting at ${P.seoSite}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

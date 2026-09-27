@@ -56,7 +56,7 @@ const gangarampur: CityContent = {
     ai: "WhatsApp assistants that answer saree, price and appointment questions in Bengali and hand real orders to you.",
     data: "Dashboards of sarees woven, stock by design, orders by district and payments owed to weavers.",
     app: "Android and iOS apps for retailers to reorder sarees or for polytechnic and college students to get notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Gangarampur's weavers and traders have seen enough middlemen to be wary of big promises. Our approach is plain: starting prices on the website, a written quote broken into items, WhatsApp answers every day of the week, and the domain, hosting, code and app accounts registered to you. When something is not worth paying for, we say so first.",
@@ -158,7 +158,7 @@ const gangarampur: CityContent = {
       heading: "Website cost in Gangarampur: starting prices and comparing quotes",
       paragraphs: [
         "Here are the base figures for Gangarampur. A static site of up to 100 pages starts at ₹10,000, with delivery in one to two weeks. An SEO site of 700 or more pages, useful for a saree seller listing every design or a coaching centre covering every course and nearby block, starts at ₹20,000 and needs three to five weeks.",
-        "Android and iOS apps start at ₹40,000. AI and WhatsApp automation also starts at ₹40,000, over two to four weeks. Online stores start at ₹50,000 and take four to eight weeks; custom software such as a weaver register starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and after five free months of post-launch care, maintenance starts at ₹8,000 a month.",
+        "Android and iOS apps start at ₹40,000. AI and WhatsApp automation also starts at ₹40,000, over two to four weeks. Online stores start at ₹50,000 and take four to eight weeks; custom software such as a weaver register starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and after two free months of post-launch care, maintenance starts at ₹8,000 a month.",
         "Only your choices raise these numbers: two languages, a large saree catalogue, weaver logins, UPI payment or export of accounts. Each is shown separately, so you can drop what you do not need. Supplying your own text and photographs keeps the price close to the starting figure.",
         "Quotes in Dakshin Dinajpur can differ widely for work that sounds the same. Ask each provider whose name the domain will be in, whether pages are tested on basic phones, whether on-page SEO is included, how many rounds of changes you get, and what support costs after the first year. Our starting prices sit on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote for your project arrives within about two working days.",
       ],
@@ -178,7 +178,7 @@ const gangarampur: CityContent = {
       heading: "Ownership and maintenance for Gangarampur websites and apps",
       paragraphs: [
         "Whatever we deliver in Gangarampur is legally and practically yours. The domain is registered with your email, the hosting account bills you directly, the full code is shared with you, and the Google Business Profile, Play Console and Apple developer accounts name you as owner. On handover you receive every login in writing, so nobody can lock you out of your own shop online.",
-        "Upkeep costs nothing for the first five months after launch. We change designs and prices, keep backups, apply security and software updates, and test the order form, UPI payment and WhatsApp buttons from time to time. After that, you may continue with us from ₹8,000 a month, take it over in-house, or move the code to a different developer.",
+        "Upkeep costs nothing for the first two months after launch. We change designs and prices, keep backups, apply security and software updates, and test the order form, UPI payment and WhatsApp buttons from time to time. After that, you may continue with us from ₹8,000 a month, take it over in-house, or move the code to a different developer.",
         "Apps need a rebuild roughly once a year, even without bugs, because Google and Apple regularly raise the versions they accept. We watch for those deadlines and publish the update in advance, so your app is not pulled from a store just before Puja shopping begins.",
       ],
     },
@@ -270,7 +270,7 @@ const gangarampur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch include free maintenance: design and price updates, backups, security updates and checks of forms, UPI payment and WhatsApp links. Later, care continues from ₹8,000 a month if you choose. Because all accounts and code are in your name, you can switch developers whenever you like.",
+        "The first two months after launch include free maintenance: design and price updates, backups, security updates and checks of forms, UPI payment and WhatsApp links. Later, care continues from ₹8,000 a month if you choose. Because all accounts and code are in your name, you can switch developers whenever you like.",
     },
     {
       question: "Do you work in Buniadpur, Balurghat and Tapan too?",

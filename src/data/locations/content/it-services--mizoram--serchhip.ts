@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Websites you update yourself", "Records software from ₹60,000", "Android & iOS apps from ₹40,000", "Sites from ₹10,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "Freelance software and web developers for Serchhip: BtechWaleTech, three engineers working remotely from India, builds easy-update websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom record software from ₹60,000 (6 to 12 weeks). We have no Serchhip office and include five months of free maintenance.",
+    "Freelance software and web developers for Serchhip: BtechWaleTech, three engineers working remotely from India, builds easy-update websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom record software from ₹60,000 (6 to 12 weeks). We have no Serchhip office and include two months of free maintenance.",
   snapshot: [
     { label: "Position", value: "Headquarters of Serchhip district in central Mizoram, on the main road south from Aizawl towards Lunglei" },
     { label: "Literacy", value: "The district has been recorded among the most literate in India, and reading habits run high" },
@@ -58,7 +58,7 @@ const content: CityContent = {
     ai: "AI helpers that answer routine questions on WhatsApp and draft notices and circulars for staff to check before sending.",
     data: "Dashboards that show collections, attendance, stock or programme numbers for committees and owners at a glance.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for parents, members, weavers' buyers and field staff.",
-    maintenance: "Remote updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards if you want help to continue.",
+    maintenance: "Remote updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards if you want help to continue.",
   },
   whyUsIntro:
     "Serchhip readers notice when a website is out of date or vague. As a freelance group we build simple systems you can keep current yourself, publish our starting prices, answer on WhatsApp every day and hand over every login, so you are never dependent on us.",
@@ -207,7 +207,7 @@ const content: CityContent = {
       id: "hosting-support-serchhip",
       heading: "Hosting, maintenance and remote IT support for Serchhip",
       paragraphs: [
-        "Serchhip websites and systems run on cloud hosting with SSL, daily backups and uptime checks. We handle domains, DNS, hosting and deployments, and every project includes five months of free maintenance after launch.",
+        "Serchhip websites and systems run on cloud hosting with SSL, daily backups and uptime checks. We handle domains, DNS, hosting and deployments, and every project includes two months of free maintenance after launch.",
         "Maintenance covers bug fixes, security updates, small changes and backup checks. Afterwards it continues from ₹8,000 a month, or you contact us only when needed. Support is remote; computers and networks need a local technician.",
         "Accounts are registered in your name where possible, and all credentials are handed over. We reply on WhatsApp or email seven days a week and send a health report before the free period ends.",
       ],
@@ -218,13 +218,13 @@ const content: CityContent = {
       paragraphs: [
         "A Serchhip website or app has four recurring costs after launch: the domain renewal, hosting, optional maintenance and, for apps, the store developer accounts. For a small static site the yearly total is modest, while custom record software with daily backups costs more because it runs on a server around the clock and stores data that must never be lost.",
         "Committees in Serchhip often approve the build budget and forget the running budget, which is how many society and school websites quietly expire when a domain lapses. We list every recurring item in the quote before you approve anything, name the provider, and set renewal reminders to reach the institution's own email, so the treasurer sees them rather than a former secretary who has moved on.",
-        "During the first five months after launch, our maintenance is free. After that, you can choose a monthly plan from ₹8,000 or pay only when you ask for a change. Hosting and domain renewals are paid by you directly to the provider, so there is no mark-up hidden in our invoice. For apps, Google Play charges a one-time registration fee and Apple charges a yearly developer membership; both accounts should be opened in the organisation's name.",
+        "During the first two months after launch, our maintenance is free. After that, you can choose a monthly plan from ₹8,000 or pay only when you ask for a change. Hosting and domain renewals are paid by you directly to the provider, so there is no mark-up hidden in our invoice. For apps, Google Play charges a one-time registration fee and Apple charges a yearly developer membership; both accounts should be opened in the organisation's name.",
         "A simple way to protect the institution is to put a line in the annual budget for digital running costs and review it at the yearly general meeting. If a cost looks out of proportion to how the system is used, we will suggest a cheaper hosting tier or a lighter setup rather than keep billing for capacity you do not need.",
       ],
       list: [
         "Domain renewal: yearly, paid to the registrar",
         "Hosting: monthly or yearly, sized to traffic and data",
-        "Maintenance: free for five months, then from ₹8,000 a month or on request",
+        "Maintenance: free for two months, then from ₹8,000 a month or on request",
         "App store accounts: one-time for Google Play, yearly for Apple",
         "WhatsApp or SMS charges, if automation sends many messages",
       ],
@@ -328,7 +328,7 @@ const content: CityContent = {
         "You do. Domain, hosting and email are registered in your name where possible, and the full source code is handed over. Data can be exported whenever you want, and we provide a handover note if you change developers.",
     },
     {
-      question: "What happens after five free months of maintenance?",
+      question: "What happens after two free months of maintenance?",
       answer:
         "You can continue on a monthly plan from ₹8,000 covering updates, backups, fixes and checks, or contact us only for specific changes. We send a health report before the free period ends so you can decide.",
     },

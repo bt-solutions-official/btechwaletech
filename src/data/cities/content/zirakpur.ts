@@ -31,11 +31,11 @@ const zirakpur: CityContent = {
     eyebrow: "Zirakpur · SAS Nagar, Punjab",
     h1: "Web, app, SEO and automation services for Zirakpur's builders, banquet halls, restaurants and new-township services",
     lede:
-      "We are three engineers who work remotely and build websites, map-focused SEO, property listing sites, online stores and WhatsApp automations for Zirakpur businesses: builders and property consultants on VIP Road and Patiala Road, wedding venues and hotels near the airport, restaurants, clinics, schools and the service firms that follow every new tower. Starting prices are public and maintenance is free for five months.",
+      "We are three engineers who work remotely and build websites, map-focused SEO, property listing sites, online stores and WhatsApp automations for Zirakpur businesses: builders and property consultants on VIP Road and Patiala Road, wedding venues and hotels near the airport, restaurants, clinics, schools and the service firms that follow every new tower. Starting prices are public and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Property listing sites", "Map-first SEO", "Hindi, Punjabi and English", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "A basic website for a Zirakpur business starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, which suits property firms listing many projects, and WhatsApp or AI automation starts at ₹40,000. We are a remote team with no Zirakpur office, and five months of maintenance come free.",
+    "A basic website for a Zirakpur business starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, which suits property firms listing many projects, and WhatsApp or AI automation starts at ₹40,000. We are a remote team with no Zirakpur office, and two months of maintenance come free.",
   snapshot: [
     { label: "Location", value: "Municipal town in SAS Nagar (Mohali) district, Punjab, on the southern edge of the Chandigarh tricity" },
     { label: "Population", value: "95,553 at the 2011 census, with rapid growth since then through high-rise and builder-floor projects" },
@@ -52,7 +52,7 @@ const zirakpur: CityContent = {
     ai: "WhatsApp assistants that share project brochures, venue availability or menu details and hand serious leads to a salesperson at once.",
     data: "Lead source, site visit and booking numbers in a single dashboard, so you see which portal or campaign actually brings buyers.",
     app: "Android and iOS apps for society management, gym memberships and delivery orders, published on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Listing updates, backups, security fixes and uptime monitoring free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Listing updates, backups, security fixes and uptime monitoring free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Zirakpur businesses compete with Chandigarh, Mohali and Panchkula for the same customers, often on the same search results page. Tricity agencies can be expensive, and many cheaper offers leave you with a template, no search work and a domain you do not control. We publish starting prices, reply on WhatsApp seven days a week and put the domain, hosting and code in your name.",
@@ -167,11 +167,11 @@ const zirakpur: CityContent = {
     },
     {
       id: "ownership-zirakpur",
-      heading: "You own the website, and upkeep is covered for five months",
+      heading: "You own the website, and upkeep is covered for two months",
       paragraphs: [
         "Everything is registered in your name: domain, hosting and any business email. At launch you receive every login, the complete source code and a plain note describing how the site is built. You can take it to another developer whenever you want, with no exit fee.",
         "This matters in a fast-moving market like Zirakpur, where agencies and freelancers come and go. We regularly hear from owners whose developer kept the domain, and who lost their site, emails and search history when the relationship ended.",
-        "Maintenance is free for five months after launch, covering content and listing updates, small fixes, security patches, backups, uptime monitoring and speed checks. After that, ongoing maintenance starts from ₹8,000 a month, or you can pay only for individual changes when you need them.",
+        "Maintenance is free for two months after launch, covering content and listing updates, small fixes, security patches, backups, uptime monitoring and speed checks. After that, ongoing maintenance starts from ₹8,000 a month, or you can pay only for individual changes when you need them.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const zirakpur: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle content and listing updates, small fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can pay only for specific changes when you need them.",
+        "For two months after launch we handle content and listing updates, small fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can pay only for specific changes when you need them.",
     },
     {
       question: "Can you guarantee top rankings in the tricity?",

@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["First release", "Usually 6–12 weeks"],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Hosting", "Your own cloud account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
     { value: "0", label: "Per-employee monthly fees paid to us" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Web system", value: `From ${P.software}, usually 6–12 weeks` },
       { label: "Mobile app", value: `Android and iPhone from ${P.app}, 6–10 weeks` },
       { label: "Payroll", value: "CSV or Excel export, or a direct push to your payroll tool" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Attendance management software pricing",
-    note: `Attendance projects are priced on four things: how many punch sources we must read (and whether their vendors publish an SDK), how many shift and late-mark rules your policy contains, whether a mobile selfie app is needed, and how payroll receives the output. A web system with device sync, rules and reports starts at ${P.software}. The Android and iPhone selfie app with geofencing starts at ${P.app}. WhatsApp alerts or an AI assistant for HR queries start at ${P.ai}. After five free months, upkeep starts at ${P.care} a month. Every figure is a starting price; your quote lists each module separately.`,
+    note: `Attendance projects are priced on four things: how many punch sources we must read (and whether their vendors publish an SDK), how many shift and late-mark rules your policy contains, whether a mobile selfie app is needed, and how payroll receives the output. A web system with device sync, rules and reports starts at ${P.software}. The Android and iPhone selfie app with geofencing starts at ${P.app}. WhatsApp alerts or an AI assistant for HR queries start at ${P.ai}. After two free months, upkeep starts at ${P.care} a month. Every figure is a starting price; your quote lists each module separately.`,
   },
   guideLabel: "Attendance management software guide",
   guide: [
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         "Migration: bringing in historical punches and leave balances takes careful checking",
       ],
       after: [
-        `For the general picture on bespoke builds, read <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>. Running costs after launch are separate and small: cloud hosting in your own account, SMS or WhatsApp message charges if used, and optional upkeep from ${P.care} a month after the free five months.`,
+        `For the general picture on bespoke builds, read <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>. Running costs after launch are separate and small: cloud hosting in your own account, SMS or WhatsApp message charges if used, and optional upkeep from ${P.care} a month after the free two months.`,
       ],
     },
     {
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Selfie attendance app", "Android and iPhone, geofence per site, live selfie, offline punch", `From ${P.app}`, "6–10 weeks"],
         ["WhatsApp and AI add-ons", "Morning summaries, approval links, HR query assistant", `From ${P.ai}`, "2–4 weeks"],
         ["Careers or company website", "Simple site that links to the employee app", `From ${P.site}`, "1–2 weeks"],
-        ["Upkeep after 5 free months", "Fixes, rule changes, OS and device updates", `From ${P.care}/month`, "Ongoing"],
+        ["Upkeep after 2 free months", "Fixes, rule changes, OS and device updates", `From ${P.care}/month`, "Ongoing"],
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Rules engine on real data", "We build the employee master, collector and rules first, then run your past month through them so HR can compare results line by line."],
       ["App and reports", "The selfie app, dashboards, regularisation flow and payroll export follow, with weekly demos on a staging link you can click through yourself."],
       ["Parallel month", "The new system runs beside your current method for one payroll cycle. Differences are traced to a rule, fixed, and signed off by HR."],
-      ["Handover and upkeep", "Code, cloud and app accounts stay in your name. Five months of free maintenance follow, then optional upkeep at a monthly starting price."],
+      ["Handover and upkeep", "Code, cloud and app accounts stay in your name. Two months of free maintenance follow, then optional upkeep at a monthly starting price."],
     ],
   },
   faqHeading: "Attendance management software: common questions",
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Is biometric attendance data covered by India's DPDP Act?", answer: "Fingerprint templates, face images and locations are personal data under the Digital Personal Data Protection Act, 2023, and its Rules were notified in November 2025 with a phased timeline. We build notices, role-based access, retention settings and audit logs to support your obligations, but your own lawyer should confirm your policy." },
     { question: "Will the attendance app work without internet at a site?", answer: "Yes. The mobile app can record punches offline with time, photo and location, then upload them when a signal returns. Site collectors attached to biometric devices also keep a local copy and send the backlog once internet is restored, so a bad connection delays reports but does not lose attendance." },
     { question: "Does the employee app support Hindi?", answer: "Yes, the app can show Hindi and English, and staff can switch language in settings. Other Indian languages can be added when you supply or approve the translated text. Reports, payroll exports and the admin panel normally stay in English so HR and your CA work with consistent labels." },
-    { question: "What maintenance does attendance software need after launch?", answer: `Mostly small things: new Android and iOS versions, a new device model at a new site, a changed shift or late-mark rule, and cloud updates. The first five months after launch are covered free. After that, upkeep starts at ${P.care} a month, or you can hand the code to any developer since you own it.` },
+    { question: "What maintenance does attendance software need after launch?", answer: `Mostly small things: new Android and iOS versions, a new device model at a new site, a changed shift or late-mark rule, and cloud updates. The first two months after launch are covered free. After that, upkeep starts at ${P.care} a month, or you can hand the code to any developer since you own it.` },
     { question: "How do we pay, and is anything charged before we agree?", answer: "Nothing is charged before you approve a written, itemised quote. Payments in India are by UPI or bank transfer, and invoices carry the project details your accounts team needs. Milestones and payment stages are set out in the quote itself, and our terms and refund policy pages explain the rest." },
     { question: "Attendance software banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom attendance web system ${P.software} se shuru hota hai, jisme biometric sync, shift rules, reports aur payroll export aata hai. Selfie aur geofence wala mobile app ${P.app} se shuru hota hai. Final quote aapke devices aur rules dekhkar itemised milta hai, lagbhag 2 working days me.` },
     { question: "Can you add attendance to an HRMS or ERP we already use?", answer: "Often, yes. If your HRMS or ERP has an import API or accepts files, we can build just the missing piece, such as a collector for unsupported devices or a site selfie app, and feed it clean attendance. That is usually cheaper than replacing a system your team already knows." },

@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Dealer or ordering portal", `From ${P.software}`],
     ["Quote", "Itemised in about 2 working days"],
     ["Ownership", "Domain, hosting and code in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers across design, code and SEO" },
     { value: "100", label: "Pages in the entry catalogue plan" },
     { value: "700+", label: "Pages possible on the SEO website plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What should a B2B website developer build, and what does it cost?",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Portal with logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Lead handling", value: "RFQs routed to CRM, email or WhatsApp by product and region" },
       { label: "Buyer trust", value: "Certifications, spec sheets, GSTIN, clear company details" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how a project runs, not a client story.`,
         `A distributor of industrial pipe fittings in western India stocks several hundred items across materials and pressure classes. Enquiries arrive by phone and a single contact form that says “send price list”. Sales spends hours asking follow-up questions.`,
-        `A B2B website developer would start by cleaning the product spreadsheet into columns for type, material, size, pressure class and standard. Because the range is large, we would propose the SEO website plan from ${P.seoSite}: product pages generated from the data, filter pages for each material and type, and application pages for water treatment, chemicals and construction. Every product page carries a “request quote” button that pre-fills an RFQ with product code, quantity, pressure class, delivery pincode and a drawing upload. Enquiries above a set quantity route to the senior salesperson on WhatsApp; the rest land in a shared sheet. After launch, the five free months cover new products and form tweaks.`,
+        `A B2B website developer would start by cleaning the product spreadsheet into columns for type, material, size, pressure class and standard. Because the range is large, we would propose the SEO website plan from ${P.seoSite}: product pages generated from the data, filter pages for each material and type, and application pages for water treatment, chemicals and construction. Every product page carries a “request quote” button that pre-fills an RFQ with product code, quantity, pressure class, delivery pincode and a drawing upload. Enquiries above a set quantity route to the senior salesperson on WhatsApp; the rest land in a shared sheet. After launch, the two free months cover new products and form tweaks.`,
       ],
     },
     {
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
         ["Week 2–3", "Product pages, filters, RFQ flow", "Approve RFQ fields and routing", "Working catalogue"],
         ["Week 3–5 (large sites)", "Application pages, schema, sitemaps", "Check technical accuracy", "Full site on staging"],
         ["Launch", "Domain, SSL, Search Console, lead routing live", "Final payment", "Live site and handover"],
-        ["Next 5 months", "New products and form tweaks", "Send changes on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "New products and form tweaks", "Send changes on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Domain and hosting are registered to your business, and the code repository is created in an account you control."],
       ["Review the catalogue on staging", "Product pages, filters and the RFQ form appear on a private link your sales team can test with real enquiries."],
       ["Launch with lead routing", "The site goes live with SSL, Search Console, schema and sitemaps, and enquiries flow to your CRM, email or WhatsApp."],
-      ["Five months of free changes", `New products, form tweaks and fixes are free for five months after launch. Maintenance is optional afterwards, from ${P.care}.`],
+      ["Two months of free changes", `New products, form tweaks and fixes are free for two months after launch. Maintenance is optional afterwards, from ${P.care}.`],
     ],
   },
   faqHeading: "B2B website developer: frequently asked questions",
@@ -366,9 +366,9 @@ const content: FreelanceContent = {
     { question: "Who owns the B2B website and the enquiry data?", answer: "You should own everything: the domain, hosting account, source code and every enquiry. BtechWaleTech registers the domain and hosting in your business name, keeps the code in a repository you control, and sends leads to your own CRM, email or sheet. You can move the site to another developer or host whenever you choose." },
     { question: "Do you write product descriptions and content?", answer: "We can. Many suppliers have product names and specs but little descriptive text, which weakens both SEO and buyer confidence. Content writing and product data clean-up are listed as separate lines in the quote, so you can supply some content yourself and have us write the rest. Technical accuracy is always checked by your team before launch." },
     { question: "Can the site be in Hindi or regional languages?", answer: "Yes. Selected pages, such as dealer information or product category pages, can be built in Hindi, Gujarati, Marathi, Tamil or other languages with proper language tags, while detailed technical data stays in English where buyers expect it. Translating only the pages that matter keeps cost and maintenance reasonable." },
-    { question: "What happens after the B2B website launches?", answer: `For five months after launch, adding new products, adjusting RFQ fields, small design changes and fixes are free. After that, maintenance is optional and starts at ${P.care}, and monthly SEO starts at ${P.seo}. Because the code and accounts are yours, you can also manage updates in-house or with another developer.` },
+    { question: "What happens after the B2B website launches?", answer: `For two months after launch, adding new products, adjusting RFQ fields, small design changes and fixes are free. After that, maintenance is optional and starts at ${P.care}, and monthly SEO starts at ${P.seo}. Because the code and accounts are yours, you can also manage updates in-house or with another developer.` },
     { question: "How do payments work for a B2B website project?", answer: "You receive an itemised written quote and nothing is billed until you approve it. Payments are staged against work you can see, such as approved designs, the working catalogue on staging and the launch. Indian businesses pay by UPI or bank transfer and receive invoices; international clients pay by Wise, bank wire or PayPal." },
-    { question: "B2B website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki B2B catalogue website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Bade product range ke liye 299+ pages wali SEO website ${P.seoSite} se shuru hoti hai. Dealer portal ${P.software} se. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur 5 mahine maintenance free hai.` },
+    { question: "B2B website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath 100 pages tak ki B2B catalogue website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Bade product range ke liye 299+ pages wali SEO website ${P.seoSite} se shuru hoti hai. Dealer portal ${P.software} se. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur 2 mahine maintenance free hai.` },
     { question: "Do you build B2B websites for companies outside India?", answer: `Yes. B2B website projects work well remotely, and international clients are billed in USD, with catalogue sites starting at ${P.siteUsd} and large product sites at ${P.seoSiteUsd}. Payments go by Wise, bank wire or PayPal. We schedule reviews in overlapping hours and share progress on staging links that your sales team can test.` },
   ],
   related: {
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a B2B website that brings detailed RFQs?",
-    note: `Send us your product list and tell us how enquiries reach you today. You will get an itemised quote in about two working days, with catalogue sites starting at ${P.site}, everything registered in your name and five months of free maintenance after launch.`,
+    note: `Send us your product list and tell us how enquiries reach you today. You will get an itemised quote in about two working days, with catalogue sites starting at ${P.site}, everything registered in your name and two months of free maintenance after launch.`,
   },
 };
 

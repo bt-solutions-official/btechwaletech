@@ -40,7 +40,7 @@ const content: CityContent = {
     pills: ["Free consulting call", "Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "Hindi, Urdu and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Lucknow as a remote freelance group of three engineers working from India, with no office in Lucknow. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, with five months of free maintenance and replies on WhatsApp daily.",
+    "BtechWaleTech provides IT consulting and IT solutions in Lucknow as a remote freelance group of three engineers working from India, with no office in Lucknow. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, with two months of free maintenance and replies on WhatsApp daily.",
   snapshot: [
     { label: "Business districts", value: "Hazratganj, Gomti Nagar with Vibhuti Khand, Aminabad, Chowk, Alambagh, Indira Nagar, Aliganj and Kapoorthala" },
     { label: "Industrial areas", value: "Amausi, Talkatora and Chinhat industrial areas, with growth along Sultanpur Road, Kanpur Road and the outer ring road" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that reply in Hindi, Urdu or English, capture enquiries, book appointments and extract data from documents, with staff approving sensitive replies.",
     data: "Dashboards linking Tally, billing and our apps so Lucknow owners see sales, collections, stock and pending work without chasing managers.",
     app: "Android and iOS apps for Lucknow customers, patients, students and field staff, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then support plans from ₹8,000 a month with WhatsApp replies every day.",
+    maintenance: "Two months of free maintenance after launch, then support plans from ₹8,000 a month with WhatsApp replies every day.",
   },
   whyUsIntro:
     "Lucknow business runs on relationships and trust, and many owners have had a developer vanish after launch. We are three engineers who stay: we consult, build and maintain ourselves, publish starting prices, and register every account to you.",
@@ -193,7 +193,7 @@ const content: CityContent = {
       id: "lucknow-cost-payment-process",
       heading: "What do IT solutions cost in Lucknow, and how does a project run?",
       paragraphs: [
-        "IT solutions in Lucknow with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Lucknow with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after two free months.",
         "Final cost depends on features, user roles, integrations, languages, data migration and content writing. The project runs in clear steps: free consultation, itemised quote within about two working days, milestone plan, a live preview in the first week, weekly updates, testing with your staff, launch on hosting in your name, and recorded Hindi or English training.",
         "Lucknow clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, in milestones linked to visible progress. We have no Lucknow office and work fully remotely. See our <a href='/portfolio/'>portfolio</a>, learn about the team on the <a href='/about/'>about page</a>, or read the broader <a href='/india/uttar-pradesh/'>Uttar Pradesh overview</a>.",
       ],
@@ -276,7 +276,7 @@ const content: CityContent = {
     {
       question: "What maintenance do you provide?",
       answer:
-        "Five months of free maintenance after hosting goes live covers bug fixes, content updates, security patches, backups, and speed and uptime checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; hardware and networks need a local technician.",
+        "Two months of free maintenance after hosting goes live covers bug fixes, content updates, security patches, backups, and speed and uptime checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; hardware and networks need a local technician.",
     },
     {
       question: "Is AI automation safe for a clinic or lab?",

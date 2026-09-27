@@ -1,0 +1,602 @@
+[
+ {
+  "slug": "website-development",
+  "keyword": "website development company in Bhiwadi",
+  "angle": "Core hub: complete website builds for Bhiwadi businesses, scope, cost, process, meeting one to one at your unit",
+  "group": "websites"
+ },
+ {
+  "slug": "website-designer",
+  "keyword": "website designer in Bhiwadi",
+  "angle": "Design side: layout, branding, photos of your unit and team, mobile-first design, designer vs developer",
+  "group": "websites"
+ },
+ {
+  "slug": "web-developer-near-me",
+  "keyword": "web developer near me in Bhiwadi",
+  "angle": "\"Near me\" intent: a developer you can meet face to face, how to vet one, local meeting plus remote build",
+  "group": "websites"
+ },
+ {
+  "slug": "affordable-website-design",
+  "keyword": "affordable website design in Bhiwadi",
+  "angle": "Budget buyers (shops, small units, new firms): what the starting-price static site includes, what never to cut",
+  "group": "websites"
+ },
+ {
+  "slug": "website-development-cost",
+  "keyword": "website development cost in Bhiwadi",
+  "angle": "Price breakdown: cost drivers, sample scopes, running costs (domain, hosting, email), comparing quotes",
+  "group": "websites"
+ },
+ {
+  "slug": "ecommerce-website-development",
+  "keyword": "ecommerce website development in Bhiwadi",
+  "angle": "Online stores for Bhiwadi retailers and D2C brands: catalogue, UPI and card checkout, shipping from Bhiwadi",
+  "group": "websites"
+ },
+ {
+  "slug": "wordpress-developer",
+  "keyword": "WordPress developer in Bhiwadi",
+  "angle": "WordPress builds and fixes: themes, plugins, speed, hacked-site cleanup, when WordPress is and is not right",
+  "group": "websites"
+ },
+ {
+  "slug": "website-redesign",
+  "keyword": "website redesign in Bhiwadi",
+  "angle": "Old or slow sites of Bhiwadi units: redesign without losing Google rankings, redirects, content migration",
+  "group": "websites"
+ },
+ {
+  "slug": "website-maintenance",
+  "keyword": "website maintenance services in Bhiwadi",
+  "angle": "Ongoing care: updates, backups, security, 2 months free after launch, what monthly maintenance covers",
+  "group": "websites"
+ },
+ {
+  "slug": "landing-page-design",
+  "keyword": "landing page design in Bhiwadi",
+  "angle": "Single-offer pages for ads, launches, real estate projects and hiring drives: conversion, forms, WhatsApp",
+  "group": "websites"
+ },
+ {
+  "slug": "manufacturing-company-website",
+  "keyword": "manufacturing company website design in Bhiwadi",
+  "angle": "Factory and OEM-supplier websites that win procurement teams: capabilities, machines, certifications, plant pages",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "industrial-product-catalogue-website",
+  "keyword": "industrial product catalogue website in Bhiwadi",
+  "angle": "Large SKU catalogues: spec sheets, PDF datasheets, search by part number, RFQ and bulk enquiry forms",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "auto-parts-manufacturer-website",
+  "keyword": "auto component manufacturer website in Bhiwadi",
+  "angle": "Tier-2 and tier-3 auto suppliers in the Tapukara-Bhiwadi belt: capabilities, quality systems shown honestly, buyer RFQs",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "export-business-website",
+  "keyword": "export company website in Bhiwadi",
+  "angle": "Exporters: international buyers, English-first copy, trust signals, enquiry handling across time zones, trade-fair follow-up",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "real-estate-website-design",
+  "keyword": "real estate website design in Bhiwadi",
+  "angle": "Builders and brokers: project pages, RERA number display, lead capture, projects along Alwar Bypass Road",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "school-website-design",
+  "keyword": "school website design in Bhiwadi",
+  "angle": "Schools: admissions pages, notices, fee information, gallery, mandatory disclosures, parents on mobile",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "hospital-website-design",
+  "keyword": "hospital website design in Bhiwadi",
+  "angle": "Multi-department hospitals: specialities, doctor profiles, OPD timings, appointment requests, health-ad rules",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "hotel-website-design",
+  "keyword": "hotel website design in Bhiwadi",
+  "angle": "Hotels, banquets and business stays: direct booking vs OTA commission, corporate guests visiting plants",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "restaurant-website-design",
+  "keyword": "restaurant website design in Bhiwadi",
+  "angle": "Restaurants, cafes, cloud kitchens: menu, own ordering vs aggregators, Google Maps, factory lunch orders",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "logistics-company-website",
+  "keyword": "transport and logistics company website in Bhiwadi",
+  "angle": "Transporters, 3PLs and warehouses near NH-48: fleet, routes, quote forms, shipment tracking",
+  "group": "industry-websites"
+ },
+ {
+  "slug": "android-app-development",
+  "keyword": "Android app developer in Bhiwadi",
+  "angle": "Android apps: Google Play publishing, low-end phones on the shop floor, Kotlin vs Flutter, costs",
+  "group": "apps"
+ },
+ {
+  "slug": "ios-app-development",
+  "keyword": "iOS app development in Bhiwadi",
+  "angle": "iPhone apps: App Store review, Apple fees, when iOS matters for a Bhiwadi business",
+  "group": "apps"
+ },
+ {
+  "slug": "mobile-app-development",
+  "keyword": "mobile app development company in Bhiwadi",
+  "angle": "Both platforms: scope, cost, process; choosing an app team you can meet in Bhiwadi",
+  "group": "apps"
+ },
+ {
+  "slug": "flutter-app-development",
+  "keyword": "Flutter app developer in Bhiwadi",
+  "angle": "Flutter specifically: one codebase, performance, offline use, when to choose it",
+  "group": "apps"
+ },
+ {
+  "slug": "app-development-cost",
+  "keyword": "app development cost in Bhiwadi",
+  "angle": "App pricing: cost drivers, sample scopes, store fees, maintenance and hosting costs",
+  "group": "apps"
+ },
+ {
+  "slug": "ecommerce-app-development",
+  "keyword": "ecommerce app development in Bhiwadi",
+  "angle": "Shopping apps for retailers and distributors: app vs website, push notifications, UPI",
+  "group": "apps"
+ },
+ {
+  "slug": "delivery-app-development",
+  "keyword": "delivery app development in Bhiwadi",
+  "angle": "Local delivery apps (grocery, food, water, gas): customer, rider and admin apps, zones, cash on delivery",
+  "group": "apps"
+ },
+ {
+  "slug": "sales-team-tracking-app",
+  "keyword": "field sales tracking app in Bhiwadi",
+  "angle": "Distributors and dealers: salesman GPS check-in, order booking, beat plans, daily reports",
+  "group": "apps"
+ },
+ {
+  "slug": "employee-attendance-app",
+  "keyword": "employee attendance app in Bhiwadi",
+  "angle": "Factories and sites: GPS, geofence and selfie attendance, shifts, payroll export",
+  "group": "apps"
+ },
+ {
+  "slug": "dealer-distributor-app",
+  "keyword": "dealer ordering app in Bhiwadi",
+  "angle": "B2B ordering app for a manufacturer's dealers: price lists, schemes, orders, ledgers",
+  "group": "apps"
+ },
+ {
+  "slug": "software-development-company",
+  "keyword": "software development company in Bhiwadi",
+  "angle": "Core software hub: custom vs off-the-shelf, what gets built, meeting at your unit to map the workflow",
+  "group": "business-software"
+ },
+ {
+  "slug": "custom-software-development",
+  "keyword": "custom software development in Bhiwadi",
+  "angle": "Bespoke tools for unusual workflows: discovery, specification, ownership of code",
+  "group": "business-software"
+ },
+ {
+  "slug": "erp-software-for-manufacturing",
+  "keyword": "ERP software for manufacturing in Bhiwadi",
+  "angle": "Manufacturing ERP: BOM, MRP, production, stores, GST; custom vs packaged ERP",
+  "group": "business-software"
+ },
+ {
+  "slug": "erpnext-implementation",
+  "keyword": "ERPNext implementation in Bhiwadi",
+  "angle": "ERPNext: modules, customisation, hosting, data migration from Tally and Excel",
+  "group": "business-software"
+ },
+ {
+  "slug": "crm-software-development",
+  "keyword": "CRM software development in Bhiwadi",
+  "angle": "CRM for B2B enquiries, dealers and real estate: pipeline, WhatsApp, follow-ups",
+  "group": "business-software"
+ },
+ {
+  "slug": "hrms-payroll-software",
+  "keyword": "HRMS and payroll software in Bhiwadi",
+  "angle": "Factory HR: shifts, overtime, PF and ESI data preparation, payslips (no legal advice)",
+  "group": "business-software"
+ },
+ {
+  "slug": "contract-labour-management-software",
+  "keyword": "contract labour management software in Bhiwadi",
+  "angle": "Contractor workforce: gate entry, attendance, wage registers, compliance records kept in one place",
+  "group": "business-software"
+ },
+ {
+  "slug": "inventory-management-software",
+  "keyword": "inventory management software in Bhiwadi",
+  "angle": "Stores, raw material and finished goods: barcodes, stock levels, reorder points, batches",
+  "group": "business-software"
+ },
+ {
+  "slug": "billing-software",
+  "keyword": "GST billing software in Bhiwadi",
+  "angle": "Invoicing: GST invoices, e-way bill and e-invoice data, custom billing vs Tally",
+  "group": "business-software"
+ },
+ {
+  "slug": "excel-to-software",
+  "keyword": "convert Excel to software in Bhiwadi",
+  "angle": "Replacing spreadsheet-run processes with a web app your team can use together",
+  "group": "business-software"
+ },
+ {
+  "slug": "production-planning-software",
+  "keyword": "production planning software in Bhiwadi",
+  "angle": "PPC: schedules, machine loading, work orders, shift output and OEE-style reports",
+  "group": "factory-software"
+ },
+ {
+  "slug": "quality-management-software",
+  "keyword": "quality management software in Bhiwadi",
+  "angle": "QMS records: inspections, NCR and CAPA, PPAP documents, customer audit readiness (supports, never certifies)",
+  "group": "factory-software"
+ },
+ {
+  "slug": "warehouse-management-software",
+  "keyword": "warehouse management software in Bhiwadi",
+  "angle": "WMS for warehouses in the belt: bins, picking, dispatch, barcode scanners",
+  "group": "factory-software"
+ },
+ {
+  "slug": "gate-pass-management-system",
+  "keyword": "gate pass management system in Bhiwadi",
+  "angle": "Material in and out gate passes, returnable challans, security desk on a tablet",
+  "group": "factory-software"
+ },
+ {
+  "slug": "visitor-management-system",
+  "keyword": "visitor management system in Bhiwadi",
+  "angle": "Visitors and contractors at plants: pre-registration, OTP, badges, safety induction",
+  "group": "factory-software"
+ },
+ {
+  "slug": "machine-maintenance-software",
+  "keyword": "preventive maintenance software in Bhiwadi",
+  "angle": "CMMS: PM schedules, breakdown logs, spares, QR codes on machines",
+  "group": "factory-software"
+ },
+ {
+  "slug": "vendor-portal-development",
+  "keyword": "vendor portal development in Bhiwadi",
+  "angle": "Supplier portal: POs, delivery schedules, ASNs, invoices, vendor ratings",
+  "group": "factory-software"
+ },
+ {
+  "slug": "purchase-management-software",
+  "keyword": "purchase management software in Bhiwadi",
+  "angle": "Procurement: indents, quote comparison, purchase orders, approval chains",
+  "group": "factory-software"
+ },
+ {
+  "slug": "canteen-management-system",
+  "keyword": "canteen management system in Bhiwadi",
+  "angle": "Factory canteens: meal coupons, QR or card meals, contractor billing, headcount forecasts",
+  "group": "factory-software"
+ },
+ {
+  "slug": "transport-management-software",
+  "keyword": "transport management software in Bhiwadi",
+  "angle": "Fleet and trip management: trips, diesel, drivers, POD, freight bills",
+  "group": "factory-software"
+ },
+ {
+  "slug": "school-management-software",
+  "keyword": "school management software in Bhiwadi",
+  "angle": "School ERP: fees, attendance, exams and results, parent app",
+  "group": "sector-software"
+ },
+ {
+  "slug": "hospital-management-software",
+  "keyword": "hospital management software in Bhiwadi",
+  "angle": "HMS: OPD and IPD, billing, pharmacy, lab reports",
+  "group": "sector-software"
+ },
+ {
+  "slug": "real-estate-crm",
+  "keyword": "real estate CRM in Bhiwadi",
+  "angle": "Builders and brokers: lead sources, site visits, unit inventory, bookings, payment schedules",
+  "group": "sector-software"
+ },
+ {
+  "slug": "web-app-development",
+  "keyword": "web application development in Bhiwadi",
+  "angle": "Web apps, portals and dashboards: architecture, hosting, security, user roles",
+  "group": "sector-software"
+ },
+ {
+  "slug": "mis-dashboard-development",
+  "keyword": "MIS dashboard development in Bhiwadi",
+  "angle": "Management dashboards from ERP, Tally and Excel data: KPIs, daily MIS reports",
+  "group": "sector-software"
+ },
+ {
+  "slug": "data-analytics-services",
+  "keyword": "data analytics services in Bhiwadi",
+  "angle": "Analysis projects: sales, production, cost and rejection analysis, forecasting",
+  "group": "sector-software"
+ },
+ {
+  "slug": "tally-integration",
+  "keyword": "Tally integration developer in Bhiwadi",
+  "angle": "Connecting Tally with a website, app or CRM: sync, reports, what Tally allows",
+  "group": "sector-software"
+ },
+ {
+  "slug": "cloud-hosting-setup",
+  "keyword": "cloud hosting setup in Bhiwadi",
+  "angle": "Cloud deployment, backups, moving off a local server, accounts in your name",
+  "group": "sector-software"
+ },
+ {
+  "slug": "saas-product-development",
+  "keyword": "SaaS product development in Bhiwadi",
+  "angle": "Founders building SaaS: MVP scope, multi-tenant design, subscriptions",
+  "group": "sector-software"
+ },
+ {
+  "slug": "startup-mvp-development",
+  "keyword": "MVP development for startups in Bhiwadi",
+  "angle": "Validate an idea cheaply: scope, timeline, what to skip in version one",
+  "group": "sector-software"
+ },
+ {
+  "slug": "seo-services",
+  "keyword": "SEO services in Bhiwadi",
+  "angle": "Core SEO hub: what monthly SEO includes, timelines, reporting, honest limits",
+  "group": "seo"
+ },
+ {
+  "slug": "local-seo",
+  "keyword": "local SEO in Bhiwadi",
+  "angle": "Map pack in Bhiwadi: Google Business Profile, reviews, NAP, locality pages",
+  "group": "seo"
+ },
+ {
+  "slug": "google-business-profile",
+  "keyword": "Google Business Profile setup in Bhiwadi",
+  "angle": "GBP creation, verification, categories, service-area settings, posts, photos of your unit",
+  "group": "seo"
+ },
+ {
+  "slug": "seo-for-manufacturers",
+  "keyword": "SEO for manufacturers in Bhiwadi",
+  "angle": "Industrial B2B SEO: product keywords, RFQ pages, reaching buyers across India",
+  "group": "seo"
+ },
+ {
+  "slug": "seo-expert",
+  "keyword": "SEO expert in Bhiwadi",
+  "angle": "Hiring an SEO specialist: vetting questions, red flags, meeting in person to review data",
+  "group": "seo"
+ },
+ {
+  "slug": "ecommerce-seo",
+  "keyword": "ecommerce SEO in Bhiwadi",
+  "angle": "Store SEO: category pages, product schema, filters, duplicate content",
+  "group": "seo"
+ },
+ {
+  "slug": "seo-audit",
+  "keyword": "SEO audit in Bhiwadi",
+  "angle": "Technical and content audit: what it covers, the deliverable, fixing priorities",
+  "group": "seo"
+ },
+ {
+  "slug": "digital-marketing",
+  "keyword": "digital marketing company in Bhiwadi",
+  "angle": "Organic-led digital marketing: SEO, Google Business Profile, WhatsApp, content, analytics; honest scope",
+  "group": "seo"
+ },
+ {
+  "slug": "ai-search-optimization",
+  "keyword": "AI search optimisation in Bhiwadi",
+  "angle": "Getting cited in Google AI Overviews and ChatGPT: structured answers, entities, facts",
+  "group": "seo"
+ },
+ {
+  "slug": "programmatic-seo",
+  "keyword": "programmatic SEO website in Bhiwadi",
+  "angle": "299+ page SEO sites: product x city and service x area pages without thin content",
+  "group": "seo"
+ },
+ {
+  "slug": "ai-automation",
+  "keyword": "AI automation services in Bhiwadi",
+  "angle": "Core AI automation: what to automate first in Bhiwadi SMEs and factories",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "whatsapp-business-api",
+  "keyword": "WhatsApp Business API in Bhiwadi",
+  "angle": "Official API setup, message templates, broadcasts, catalogue, Meta rules",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "whatsapp-chatbot",
+  "keyword": "WhatsApp chatbot in Bhiwadi",
+  "angle": "Bots for enquiries, orders and status updates: flows, handoff to a human",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "ai-chatbot-development",
+  "keyword": "AI chatbot development in Bhiwadi",
+  "angle": "Website and internal chatbots answering from your own documents",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "ai-agent-development",
+  "keyword": "AI agent development in Bhiwadi",
+  "angle": "Agents that act: email triage, order entry, follow-ups, with guardrails",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "business-process-automation",
+  "keyword": "business process automation in Bhiwadi",
+  "angle": "Workflow automation: approvals, reports, email and Excel chores",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "invoice-data-extraction",
+  "keyword": "invoice data extraction in Bhiwadi",
+  "angle": "AI reading purchase invoices and challans into ERP or Tally",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "ai-voice-agent",
+  "keyword": "AI voice agent in Bhiwadi",
+  "angle": "Phone bots for enquiries and reminders in Hindi and English, and their limits",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "ai-for-manufacturing",
+  "keyword": "AI for manufacturing companies in Bhiwadi",
+  "angle": "Practical AI in factories: forecasting, document AI, maintenance-log analysis; honest limits (no hardware)",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "python-developer",
+  "keyword": "Python developer in Bhiwadi",
+  "angle": "Python scripts, automation, data work, APIs, Django apps",
+  "group": "ai-automation"
+ },
+ {
+  "slug": "it-company",
+  "keyword": "IT company in Bhiwadi",
+  "angle": "IT services overview: what a small team covers and what it does not (hardware, networking, CCTV)",
+  "group": "developers"
+ },
+ {
+  "slug": "freelance-developer",
+  "keyword": "freelance developer in Bhiwadi",
+  "angle": "Freelance team vs agency vs in-house hire for a Bhiwadi business",
+  "group": "developers"
+ },
+ {
+  "slug": "it-consultant",
+  "keyword": "IT consultant in Bhiwadi",
+  "angle": "Advice before buying software: requirement documents, vendor evaluation, digital roadmap",
+  "group": "developers"
+ },
+ {
+  "slug": "full-stack-developer",
+  "keyword": "full stack developer in Bhiwadi",
+  "angle": "Frontend, backend, database and deployment handled by one team",
+  "group": "developers"
+ },
+ {
+  "slug": "react-developer",
+  "keyword": "React and Next.js developer in Bhiwadi",
+  "angle": "React and Next.js apps and websites: when to use them, SEO, speed",
+  "group": "developers"
+ },
+ {
+  "slug": "laravel-developer",
+  "keyword": "PHP Laravel developer in Bhiwadi",
+  "angle": "PHP and Laravel builds, upgrading legacy PHP applications",
+  "group": "developers"
+ },
+ {
+  "slug": "nodejs-developer",
+  "keyword": "Node.js developer in Bhiwadi",
+  "angle": "APIs, real-time features, integrations with machines and third-party systems",
+  "group": "developers"
+ },
+ {
+  "slug": "ui-ux-design",
+  "keyword": "UI UX design in Bhiwadi",
+  "angle": "Design for apps and software: wireframes, prototypes, shop-floor usability",
+  "group": "developers"
+ },
+ {
+  "slug": "msme-digitalisation",
+  "keyword": "MSME digitalisation in Bhiwadi",
+  "angle": "Step-by-step digital roadmap for small units: website, Google profile, billing, ERP",
+  "group": "developers"
+ },
+ {
+  "slug": "business-email-setup",
+  "keyword": "business email setup in Bhiwadi",
+  "angle": "Domain, business email, SPF, DKIM and DMARC, emails going to spam",
+  "group": "developers"
+ },
+ {
+  "slug": "chemical-company-website",
+  "keyword": "chemical company website in Bhiwadi",
+  "angle": "Chemical and pharma units: product data, safety data sheets, export buyers",
+  "group": "more-websites"
+ },
+ {
+  "slug": "steel-company-website",
+  "keyword": "steel company website in Bhiwadi",
+  "angle": "Steel, fabrication and foundry units: grades, capacity, capabilities, RFQ",
+  "group": "more-websites"
+ },
+ {
+  "slug": "plastic-packaging-company-website",
+  "keyword": "packaging company website in Bhiwadi",
+  "angle": "Moulding and packaging units: product range, MOQ, custom orders",
+  "group": "more-websites"
+ },
+ {
+  "slug": "electronics-manufacturer-website",
+  "keyword": "electronics manufacturer website in Bhiwadi",
+  "angle": "Electronics and electrical products: specs, certifications shown honestly, distributor locator",
+  "group": "more-websites"
+ },
+ {
+  "slug": "construction-company-website",
+  "keyword": "construction company website in Bhiwadi",
+  "angle": "Builders, contractors and PEB firms: project portfolio, tenders, credentials",
+  "group": "more-websites"
+ },
+ {
+  "slug": "coaching-institute-website",
+  "keyword": "coaching institute website in Bhiwadi",
+  "angle": "Coaching centres: courses, batches, results, online fee payment",
+  "group": "more-websites"
+ },
+ {
+  "slug": "doctor-clinic-website",
+  "keyword": "doctor website in Bhiwadi",
+  "angle": "Solo doctors and dentists: appointments, Google reviews, medical advertising rules",
+  "group": "more-websites"
+ },
+ {
+  "slug": "retail-shop-website",
+  "keyword": "shop website in Bhiwadi",
+  "angle": "Local shops: catalogue, WhatsApp orders, Google Maps, home delivery",
+  "group": "more-websites"
+ },
+ {
+  "slug": "website-kaise-banaye",
+  "keyword": "Bhiwadi me website kaise banaye",
+  "angle": "Hinglish: how a Bhiwadi business gets a website, cost, steps, one-to-one meeting",
+  "group": "more-websites"
+ },
+ {
+  "slug": "app-banwane-ka-kharcha",
+  "keyword": "Bhiwadi me app banwane ka kharcha",
+  "angle": "Hinglish: app cost and time explained simply, with the Bhiwadi meeting",
+  "group": "more-websites"
+ }
+]

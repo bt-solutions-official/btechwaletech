@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Typical build", "1–2 weeks for up to 100 pages"],
     ["Main goal", "Date checks, site visits and advance bookings"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one WhatsApp thread" },
     { value: "100", label: "Pages in the starter static plan" },
     { value: "0", label: "Commission taken on your bookings" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
   ],
   answer: {
     heading: "How should a banquet hall website show availability and convert enquiries?",
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Pay an advance", "Sometimes through the portal", "Screenshot of a UPI payment", "UPI or card advance with an automatic receipt"],
       ["Whose enquiry it is", "Portal shares it with rival venues", "Yours", "Yours, straight to WhatsApp and a sheet"],
       ["Visible for “banquet hall in [area]” searches", "Ranks the portal", "Rarely", "Area and event pages with structured data"],
-      ["Monthly cost", "Listing or lead fees", "Free", `Hosting only; care from ${P.care} after 5 free months`],
+      ["Monthly cost", "Listing or lead fees", "Free", `Hosting only; care from ${P.care} after 2 free months`],
     ],
     fine: "A listing portal can still bring enquiries from families who have not heard of you; keep it if it pays, and use your own site to win the ones who compare.",
   },
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       heading: "What does banquet hall website design cost in India?",
       paragraphs: [
         `A banquet hall website with capacity pages, packages, menus, galleries, event pages and a calendar view starts at ${P.site} (${P.siteUsd}) and usually takes 1–2 weeks with BtechWaleTech.`,
-        `Adding online advance payments with receipts and automatic calendar updates makes it an ecommerce-style build from ${P.shop}, over 4–8 weeks. Venue groups wanting many area and event pages for local search start at ${P.seoSite}. A full back office with bookings, billing and vendor schedules is a custom web app from ${P.software}. After five free months of maintenance, care is optional from ${P.care}.`,
+        `Adding online advance payments with receipts and automatic calendar updates makes it an ecommerce-style build from ${P.shop}, over 4–8 weeks. Venue groups wanting many area and event pages for local search start at ${P.seoSite}. A full back office with bookings, billing and vendor schedules is a custom web app from ${P.software}. After two free months of maintenance, care is optional from ${P.care}.`,
         `Quotes in this market vary widely. The difference usually lies in four lines: the number of spaces and packages to lay out, how the calendar is connected, whether payments are included, and how much photo and video editing is needed. Ask every developer to price those separately so you compare like with like.`,
       ],
       after: [
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A venue site without payments takes 1–2 weeks after we have your capacity figures, packages, menus and photos; a site with online advances takes 4–8 weeks because payment testing and calendar locking need care.`,
         `The first days produce the page map and itemised quote. Then a staging link shows the home page, one hall page and one package page with your real photos. The rest of the build adds event pages, menus, galleries and the calendar feed, and connects enquiries to WhatsApp. Payment builds add a test phase where your staff run dummy bookings from enquiry to receipt.`,
-        `Plan the launch outside your peak season if you can, so your team has time to check calendar accuracy before the busiest months. Five months of free maintenance cover package updates, new photos and fixes.`,
+        `Plan the launch outside your peak season if you can, so your team has time to check calendar accuracy before the busiest months. Two months of free maintenance cover package updates, new photos and fixes.`,
       ],
     },
     {
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
       ["Check one hall page on staging", "A private link shows the home page, a hall page and a package card with your own photos, so you can judge accuracy before we build the rest."],
       ["Connect the calendar and enquiries", "Your manager’s calendar or sheet feeds the availability view; enquiries and site visit requests arrive on WhatsApp and in a sheet you own."],
       ["Test with dummy bookings", "Your staff try dates, sessions and, where included, advance payments from start to receipt, on real phones, before anything goes public."],
-      ["Launch and five free months", `Everything goes live in your accounts. Package and menu updates, new photos and fixes are free for five months; care then starts at ${P.care}.`],
+      ["Launch and two free months", `Everything goes live in your accounts. Package and menu updates, new photos and fixes are free for two months; care then starts at ${P.care}.`],
     ],
   },
   faqHeading: "Banquet hall website design: questions venue owners ask",
@@ -425,9 +425,9 @@ const content: FreelanceContent = {
     { question: "Is listing on venue portals enough, or do I need my own website?", answer: "Portals can bring families who have never heard of you, but they often show rival venues on the same page and may charge for leads. Your own site keeps enquiries with you, shows live dates and full packages, and gives your team one link to share on WhatsApp. Many venues keep both." },
     { question: "Can the website handle several venues or branches?", answer: `Yes. Each venue gets its own pages, calendar and Business Profile link, while shared packages and event pages stay central. Enquiries route to the right manager automatically. Venue groups wanting many area pages for search usually move to the SEO plan from ${P.seoSite}.` },
     { question: "Who owns the website, calendar and payment account?", answer: "You do. Domain, hosting, code, calendar source, photo library, lead sheet and merchant account are registered to your business from day one, with us as invited users. Advance payments settle straight into your account. At handover you receive every login and a guide to updating packages and menus." },
-    { question: "Can I update menus and packages myself?", answer: "Yes. Menus and packages sit in a simple file or sheet your staff can edit, and the website picks up the change. If your team prefers a visual editor, we can build on WordPress instead. For the first five months after launch we also make updates for free on request." },
+    { question: "Can I update menus and packages myself?", answer: "Yes. Menus and packages sit in a simple file or sheet your staff can edit, and the website picks up the change. If your team prefers a visual editor, we can build on WordPress instead. For the first two months after launch we also make updates for free on request." },
     { question: "Do you photograph or film our venue?", answer: "No. We work remotely and do not visit venues. We send a shot list covering empty daylight views, decorated night views, each space, the stage and the entrance, and we edit, compress and arrange what you or a local photographer capture. For tours, a steady phone video on a gimbal often works well." },
-    { question: "What does maintenance include after launch?", answer: `Five months of free maintenance cover new photos, package and menu changes, text edits and fixes. After that, care is optional and starts at ${P.care}. Calendar updates themselves are done by your manager in the connected calendar, so day-to-day availability never waits for a developer.` },
+    { question: "What does maintenance include after launch?", answer: `Two months of free maintenance cover new photos, package and menu changes, text edits and fixes. After that, care is optional and starts at ${P.care}. Calendar updates themselves are done by your manager in the connected calendar, so day-to-day availability never waits for a developer.` },
     { question: "Should I hire a freelancer or an agency for a venue website?", answer: "Pick based on scope, communication and ownership. A small freelance team like ours suits venues that want to talk directly to the builders, receive an itemised quote and keep every account in their own name. A larger team may suit a national hospitality chain that needs in-person workshops, which we do not provide." },
     { question: "How are payments for the website project handled?", answer: "You get an itemised quote in about two working days and pay nothing until you approve it in writing. Payments in India are by UPI or bank transfer, in stages tied to visible work; overseas venues pay in USD by Wise, bank wire or PayPal. Stage details are written into your quote." },
     { question: "Can an AI assistant answer date and package questions on WhatsApp?", answer: `Yes. An assistant can read your calendar and package file, answer common questions about open dates, capacity and menus, collect guest count and event type, and hand the family to your manager for confirmation. It should never confirm a booking by itself. AI automation starts at ${P.ai}.` },
@@ -454,7 +454,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want families to check your dates online? Send us your halls and packages",
-    note: `Message us on WhatsApp with your spaces, capacities and packages. You will receive a page map and itemised quote in about two working days, venue sites from ${P.site}, every account in your name and five months of free maintenance.`,
+    note: `Message us on WhatsApp with your spaces, capacities and packages. You will receive a page map and itemised quote in about two working days, venue sites from ${P.site}, every account in your name and two months of free maintenance.`,
   },
 };
 

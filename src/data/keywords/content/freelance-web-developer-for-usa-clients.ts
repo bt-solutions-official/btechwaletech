@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Time zone", "IST, UTC+5:30, no daylight saving"],
     ["Payment", "Wise, bank wire or PayPal"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Aftercare", "5 months free maintenance"],
+    ["Aftercare", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your project" },
     { value: "2", label: "Working days for an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace fees added to your invoice" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Call window", value: "US morning = Indian evening" },
       { label: "Contract basics", value: "Scope, milestones, IP assignment, confidentiality" },
       { label: "Payment", value: "Wise, bank wire or PayPal, in stages" },
-      { label: "After launch", value: `5 months free, then from ${P.careUsd}` },
+      { label: "After launch", value: `2 months free, then from ${P.careUsd}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Agency overflow and white-label", note: "US agencies send us builds under their own brand, with confidentiality agreed in writing.", href: "/white-label-web-development/", size: "md" },
       { name: "Android & iOS apps", note: `One Flutter or React Native codebase, published in your own store accounts, from ${P.appUsd}.`, href: "/it-services/android-ios-app/", size: "sm" },
       { name: "Workflow automation", note: `CRM, email and spreadsheet automations that save office hours, from ${P.aiUsd}.`, href: "/zapier-automation-expert/", size: "sm" },
-      { name: "Monthly SEO and care", note: `Technical SEO from ${P.seoUsd}; maintenance from ${P.careUsd} after five free months.`, href: "/services/seo-services/", size: "sm" },
+      { name: "Monthly SEO and care", note: `Technical SEO from ${P.seoUsd}; maintenance from ${P.careUsd} after two free months.`, href: "/services/seo-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should end the project holding everything: the domain at your registrar, hosting in your account, the code in your GitHub or GitLab organisation, app store listings under your developer accounts, and all analytics and Search Console properties.`,
         `We set it up that way from the start. You create or own each account and invite us as users. At handover you receive a README explaining how to run and deploy the project, a list of every service and credential location, and a short walkthrough call.`,
-        `After launch you get five months of free maintenance covering fixes, updates and small changes. After that, you can continue with us from ${P.careUsd}, hand the project to your in-house team, or move to any other developer. Because everything is yours, switching costs you nothing but a handover call.`,
+        `After launch you get two months of free maintenance covering fixes, updates and small changes. After that, you can continue with us from ${P.careUsd}, hand the project to your in-house team, or move to any other developer. Because everything is yours, switching costs you nothing but a handover call.`,
       ],
     },
     {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Custom web app or portal", `From ${P.softwareUsd}`, "6–12 weeks", "Client portals, internal tools"],
         ["Android & iOS app", `From ${P.appUsd}`, "6–10 weeks", "Bookings, memberships, field staff"],
         ["AI or workflow automation", `From ${P.aiUsd}`, "2–4 weeks", "CRM, email and document workflows"],
-        ["Maintenance after 5 free months", `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes"],
+        ["Maintenance after 2 free months", `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes"],
       ],
     },
     {
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Itemised USD quote", "Within about two working days you receive scope, exclusions, milestones and prices. Nothing is invoiced until you approve it."],
       ["Overnight progress on staging", "We build during Indian working hours; you review the staging link each morning and reply with consolidated comments."],
       ["Launch in your accounts", "Domain, hosting, repository, analytics and Search Console sit in your company's accounts, with accessibility and speed checked."],
-      ["Handover and five free months", "You receive documentation and credentials, and five months of free maintenance begin."],
+      ["Handover and two free months", "You receive documentation and credentials, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Freelance web developer for USA clients: FAQs",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Do you work with US startups on MVPs?", answer: `Yes. We build scoped MVPs as projects, typically web apps from ${P.softwareUsd} or mobile apps from ${P.appUsd}, with a tight feature list and a demo-ready staging environment. Accounts, code and app store listings stay in the founders' names, which matters when investors ask about IP.` },
     { question: "Can you help with SEO for a US business?", answer: `Yes. Technical SEO is built into every site: clean structure, schema, sitemaps, speed and Search Console setup. For ongoing work, monthly SEO starts at ${P.seoUsd}, including technical fixes, content and reporting. No one can honestly guarantee rankings, so be cautious of anyone who does.` },
     { question: "Do you visit clients in the United States?", answer: "No. We work entirely remotely from India and do not travel for on-site meetings. Video calls, screen sharing, staging links and written updates replace in-person contact. If on-site presence is essential for your project, a US-based developer is the better choice and we would tell you so." },
-    { question: "What support do I get after launch?", answer: `Five months of free maintenance begin at launch, covering bug fixes, updates, backups and small content changes. After that, ongoing care starts at ${P.careUsd}, or you can take the project in-house or move to another developer, since you already hold every account and the full source code.` },
+    { question: "What support do I get after launch?", answer: `Two months of free maintenance begin at launch, covering bug fixes, updates, backups and small content changes. After that, ongoing care starts at ${P.careUsd}, or you can take the project in-house or move to another developer, since you already hold every account and the full source code.` },
   ],
   related: {
     heading: "More for clients outside India",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a project from the US? Get a dollar quote",
-    note: `Email or message your brief with your time zone. You will receive an itemised USD quote in about two working days, with websites from ${P.siteUsd}, everything in your company's name and five months of free maintenance after launch.`,
+    note: `Email or message your brief with your time zone. You will receive an itemised USD quote in about two working days, with websites from ${P.siteUsd}, everything in your company's name and two months of free maintenance after launch.`,
   },
 };
 

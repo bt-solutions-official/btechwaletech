@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering app, backend and cloud" },
     { value: "2", label: "Apps in a basic taxi system: rider and driver" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Charges before you approve the written quote" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Cheapest real start", value: `Booking website from ${P.site} plus WhatsApp confirmations` },
       { label: "Running costs", value: "Maps, SMS, hosting and store fees, paid by you directly" },
       { label: "Ownership", value: "Code, store listings and cloud accounts in your name" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care}` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Store account", "Sometimes the seller’s", "Usually yours", "Always yours, Google Play and Apple"],
       ["Quality of driver app on cheap phones", "Varies, often heavy", "Usually tested", "Tested on budget Android handsets"],
       ["Upfront cost", "Lowest", "Highest", `Single app from ${P.app}; system quoted by parts`],
-      ["Changes after launch", "Limited or paid per request", "Change orders", `5 months free care, then from ${P.care}`],
+      ["Changes after launch", "Limited or paid per request", "Change orders", `2 months free care, then from ${P.care}`],
       ["Scale ceiling", "Depends on script quality", "Large national scale", "Single-city to regional operators, not national platforms"],
     ],
     fine: "If you plan to launch an open ride-hailing marketplace across many cities with thousands of drivers from day one, you need a larger engineering team than three freelance developers.",
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
         ["Rider app", "Booking, tracking, history, payments", `From ${P.app}`, `From ${P.appUsd}`, "When repeat riders want it"],
         ["Admin and dispatch panel with backend", "Drivers, fares, bookings, reports, real-time server", `From ${P.software}`, `From ${P.softwareUsd}`, "Yes"],
         ["WhatsApp automation", "Confirmations, reminders, driver details", `From ${P.ai}`, `From ${P.aiUsd}`, "Useful, optional"],
-        ["Maintenance after 5 free months", "Updates, OS changes, fixes", `From ${P.care}`, `From ${P.careUsd}`, "After launch"],
+        ["Maintenance after 2 free months", "Updates, OS changes, fixes", `From ${P.care}`, `From ${P.careUsd}`, "After launch"],
       ],
       hideSm: [3],
     },
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["Cloud hosting", "Active drivers, location updates, storage", "Right-sized servers, sensible update intervals"],
         ["App store fees", "Google Play registration, Apple yearly membership", "One set of accounts for both apps"],
         ["Payment provider fees", "Per digital transaction", "Chosen by you with your bank"],
-        ["Maintenance", "OS updates, store policy changes, fixes", `5 months free, then from ${P.care}`],
+        ["Maintenance", "OS updates, store policy changes, fixes", `2 months free, then from ${P.care}`],
       ],
     },
   ],
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "In about two working days you get each part priced with features as line items, plus estimated monthly running costs. Nothing is billed before you approve in writing."],
       ["Accounts in your name", "You open Google Play, Apple Developer, cloud and map accounts in your business name and add us as users. Code goes into your repository."],
       ["Test builds with real drivers", "Each version goes to a few drivers and staff through internal testing and TestFlight. We watch battery, data and signal recovery before release."],
-      ["Launch and look after it", "Apps are published, the admin panel goes live, and five months of maintenance follow free. After that, care continues from " + P.care + " if you want it."],
+      ["Launch and look after it", "Apps are published, the admin panel goes live, and two months of maintenance follow free. After that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Taxi app developer: questions operators ask",
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
     { question: "What safety features should a taxi app have?", answer: "At minimum: verified driver and vehicle details shown to the rider before pickup, an OTP to start each trip, an SOS button that alerts your control room, trip sharing with a contact, and trip records kept securely. Your state’s rules may require more, so confirm the list with your advisers and build it into version one." },
     { question: "Can the taxi app work in Hindi or regional languages?", answer: "Yes. Both apps can support multiple languages, which is especially useful for driver apps. We usually launch in one or two languages and add more once core flows are stable, because each language needs translated screens, notifications and help text that must be checked by a fluent speaker." },
     { question: "Can you publish the taxi app on the Play Store and App Store?", answer: "Yes, under your accounts. Location-heavy apps get closer review: Google Play needs a declaration for background location, and Apple checks permission messages and needs working demo logins. We prepare the listings, privacy details and test accounts, respond to review questions and plan a few days for approval, sometimes longer." },
-    { question: "What does a taxi app cost to run every month?", answer: `Expect map and routing charges, SMS for OTP logins, cloud hosting, payment provider fees and app store fees, all paid by you directly to each provider. Amounts depend on trips and choices. After five free months, BtechWaleTech’s maintenance for OS updates, policy changes and fixes starts at ${P.care}.` },
+    { question: "What does a taxi app cost to run every month?", answer: `Expect map and routing charges, SMS for OTP logins, cloud hosting, payment provider fees and app store fees, all paid by you directly to each provider. Amounts depend on trips and choices. After two free months, BtechWaleTech’s maintenance for OS updates, policy changes and fixes starts at ${P.care}.` },
     { question: "Can you add a booking website to my taxi business first?", answer: `Yes, and it is often the smartest start. A fast booking website with route fares and WhatsApp confirmations starts at ${P.site} and takes 1–2 weeks. It brings in bookings, tests demand and gives you data to decide whether a driver app or rider app is worth building next.` },
     { question: "Taxi app banwane mein kitna kharcha aata hai?", answer: `Taxi app mein customer app, driver app, admin panel aur server hota hai, isliye yeh ek simple app se mehenga hai. Hamare saath ek mobile app ${P.app} se aur admin panel wala web app ${P.software} se shuru hota hai. Shuruaat booking website aur WhatsApp se bhi kar sakte hain. Itemised quote pehle milta hai.` },
     { question: "Do you build school van, staff shuttle or e-rickshaw apps too?", answer: "Yes. Fixed-route transport such as school vans, staff shuttles and hospital transport is often simpler than public ride-hailing because routes and passengers are known. Features usually include route and stop management, live vehicle location for parents or staff, attendance at pickup and alerts. Scope and price follow the same itemised approach." },
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a taxi or cab booking app? Start with the honest version",
-    note: `Tell us on WhatsApp how your bookings and drivers work today. You get a phased, itemised quote in about two working days, with apps from ${P.app}, every store and cloud account in your name and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp how your bookings and drivers work today. You get a phased, itemised quote in about two working days, with apps from ${P.app}, every store and cloud account in your name and two months of free maintenance after launch.`,
   },
 };
 

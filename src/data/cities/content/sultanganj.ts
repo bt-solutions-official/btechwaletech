@@ -56,7 +56,7 @@ const sultanganj: CityContent = {
     ai: "WhatsApp assistants that answer room, rate and timing questions in Hindi at any hour and send bookings or complaints to a person.",
     data: "Dashboards comparing Shravan weeks year on year: rooms filled, orders taken, stock sold and money still to be collected.",
     app: "Android and iOS apps from ₹40,000 for pilgrim groups, camp volunteers or school parents, published on Google Play and the App Store under your name.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month, with extra checks timed before the Shravani Mela starts.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month, with extra checks timed before the Shravani Mela starts.",
   },
   whyUsIntro:
     "A Sultanganj business gets one month when mistakes are very expensive, so it needs people who answer. We reply on WhatsApp all seven days, publish our starting prices, send quotes itemised in writing, and put your domain, hosting, code and app accounts in your name. If something will not pay for itself, we tell you before you spend.",
@@ -160,7 +160,7 @@ const sultanganj: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -177,7 +177,7 @@ const sultanganj: CityContent = {
       heading: "Ownership and maintenance for Sultanganj websites and apps",
       paragraphs: [
         "At handover you receive a sheet with every login, and every one of them is in your name. The domain is registered to your email. Hosting is billed to you. The full source code is shared. Your Google Business Profile, Google Play developer account and Apple developer account list you as owner. No one, including us, can hold your site back later.",
-        "Maintenance is free for five months after launch: text and rate updates, backups, security patches, updates to the underlying frameworks, and checks that forms, payments and WhatsApp links still work. For Sultanganj clients we schedule a full check a few weeks before Shravan every year, because that is when a broken booking form hurts most. After five months you can continue from ₹8,000 a month, maintain it yourself, or pass it to another developer.",
+        "Maintenance is free for two months after launch: text and rate updates, backups, security patches, updates to the underlying frameworks, and checks that forms, payments and WhatsApp links still work. For Sultanganj clients we schedule a full check a few weeks before Shravan every year, because that is when a broken booking form hurts most. After two months you can continue from ₹8,000 a month, maintain it yourself, or pass it to another developer.",
         "Apps also need a yearly refresh, since Google and Apple regularly raise the minimum versions they accept. We track those dates so your app is updated before a store deadline, not after it is taken down.",
       ],
     },
@@ -264,7 +264,7 @@ const sultanganj: CityContent = {
     {
       question: "What happens after my Sultanganj website goes live?",
       answer:
-        "We maintain it free for five months: updates to rates and photos, backups, security fixes and checks on forms, payments and WhatsApp links, plus a pre-Shravan check. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can manage it yourself or hand the code to someone else.",
+        "We maintain it free for two months: updates to rates and photos, backups, security fixes and checks on forms, payments and WhatsApp links, plus a pre-Shravan check. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can manage it yourself or hand the code to someone else.",
     },
     {
       question: "Do you work with businesses in Asarganj, Bhagalpur and Munger?",

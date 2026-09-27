@@ -35,14 +35,14 @@ const content: FreelanceContent = {
     ["Typical build", "6 to 10 weeks"],
     ["Who the client sees", "Only your agency"],
     ["Store accounts", "Usually the client's own"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Billing", "USD or GBP · Wise, wire, PayPal"],
   ],
   stats: [
     { value: "0", label: "Emails from us to your clients" },
     { value: "3", label: "Developers working behind your brand" },
     { value: "2", label: "Working days to price a client's app" },
-    { value: "5", label: "Free maintenance months after each launch" },
+    { value: "2", label: "Free maintenance months after each launch" },
   ],
   answer: {
     heading: "How can a UK agency sell apps without hiring app developers?",
@@ -56,7 +56,7 @@ const content: FreelanceContent = {
       { label: "Frameworks", value: "Flutter or React Native, chosen per project" },
       { label: "Developer accounts", value: "Client's own Apple and Google accounts by default" },
       { label: "Handover pack", value: "Technical and user guides in your branding" },
-      { label: "Support after launch", value: "5 free months, then terms agreed in writing for you to resell" },
+      { label: "Support after launch", value: "2 free months, then terms agreed in writing for you to resell" },
       { label: "Starting price", value: `From ${P.app} per app` },
       { label: "Contact rules", value: "Non-contact and confidentiality agreed in writing" },
     ],
@@ -71,7 +71,7 @@ const content: FreelanceContent = {
       { name: "App plus web admin panel", note: `A dashboard for your client's staff to manage bookings, orders or content, priced from ${P.software}.`, href: "/uk/web-app-development-company/", size: "md" },
       { name: "Discovery and quote support", note: "We help you scope a client's app before you quote it, so your retail price rests on real screens and integrations, not guesses.", size: "md" },
       { name: "Store submission and listings", note: "Store listings, privacy declarations, screenshots and reviewer replies prepared for the client's accounts, with your agency in the loop.", size: "md" },
-      { name: "Resellable app care", note: `OS testing, library upgrades and small fixes after the five free months, from ${P.care}, packaged however you sell support.`, href: "/mobile-app-maintenance-services/", size: "sm" },
+      { name: "Resellable app care", note: `OS testing, library upgrades and small fixes after the two free months, from ${P.care}, packaged however you sell support.`, href: "/mobile-app-maintenance-services/", size: "sm" },
       { name: "White label MVPs", note: "Lean first versions for start-up clients who need something in testers' hands before a funding round.", href: "/uk/mvp-development-company/", size: "sm" },
       { name: "AI features inside apps", note: `Chat assistants, document reading or smart search added to a client's app, from ${P.ai}.`, href: "/uk/ai-chatbot-development/", size: "sm" },
     ],
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "White label app pricing that leaves room for your margin",
-    note: `We quote your agency, not your client. A white label app for iOS and Android starts from ${P.app}, with a web admin panel from ${P.software} where the client needs one. The quote is itemised per screen group and integration, so you can see exactly what you are paying for and build your retail price on top: your discovery time, project management, account management and a margin for the risk you carry with the client. After launch, the client's app gets five months of free maintenance from us; beyond that, care starts from ${P.care}, which you can bundle into your own support plan at whatever price you set.`,
+    note: `We quote your agency, not your client. A white label app for iOS and Android starts from ${P.app}, with a web admin panel from ${P.software} where the client needs one. The quote is itemised per screen group and integration, so you can see exactly what you are paying for and build your retail price on top: your discovery time, project management, account management and a margin for the risk you carry with the client. After launch, the client's app gets two months of free maintenance from us; beyond that, care starts from ${P.care}, which you can bundle into your own support plan at whatever price you set.`,
   },
   guideLabel: "White label app development UK: the agency guide",
   guide: [
@@ -193,7 +193,7 @@ const content: FreelanceContent = {
         "<strong>Exit terms:</strong> how the client receives code and credentials if support ends.",
       ],
       after: [
-        `Your first five months after each launch are covered by our free maintenance, which gives your agency a period to sell a support plan without carrying the cost yet. After that, care starts from ${P.care}. Our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the general starting point; project specifics live in the quote.`,
+        `Your first two months after each launch are covered by our free maintenance, which gives your agency a period to sell a support plan without carrying the cost yet. After that, care starts from ${P.care}. Our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the general starting point; project specifics live in the quote.`,
       ],
     },
     {
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Apps need regular upkeep even when nobody asks for new features, and your agency should sell that upkeep rather than absorb it. Apple and Google release new OS versions every year, libraries publish security fixes, and store policies change on fixed dates.`,
         `A current example: Google's documentation says that from 31 August 2026, new apps and app updates must target Android 16 (API level 36) or higher to be submitted to Google Play, with extensions available to 1 November 2026. An app that is not updated to meet a rule like that cannot ship updates at all, which is a bad moment for your client to discover nobody is looking after it.`,
-        `Our five months of free maintenance cover bug fixes and small adjustments after each launch. After that, care from ${P.care} covers OS testing, dependency upgrades, store policy changes and small fixes. You package it: many agencies bundle app care with website hosting and <a href='/uk/wordpress-maintenance-services/'>website maintenance</a> into one monthly plan the client understands.`,
+        `Our two months of free maintenance cover bug fixes and small adjustments after each launch. After that, care from ${P.care} covers OS testing, dependency upgrades, store policy changes and small fixes. You package it: many agencies bundle app care with website hosting and <a href='/uk/wordpress-maintenance-services/'>website maintenance</a> into one monthly plan the client understands.`,
       ],
     },
     {
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
       ["Itemised quote to your agency", "Within about two working days, a line-by-line quote from our starting price. You build your retail proposal on top and approve ours in writing."],
       ["Client accounts connected", "The client enrols with Apple and Google, then adds your agency and us with limited roles. Code goes into your or the client's Git organisation."],
       ["Build with fortnightly test builds", "Two-week cycles, each ending with an installable build and a short written update your account manager can forward in your branding."],
-      ["Launch, handover and support", "Store submission in the client's accounts, handover pack in your template, five free months of maintenance, then care you can resell."],
+      ["Launch, handover and support", "Store submission in the client's accounts, handover pack in your template, two free months of maintenance, then care you can resell."],
     ],
   },
   faqHeading: "White label app development UK: agency questions",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "How much does white label app development cost in the UK?", answer: `Partner quotes vary widely depending on screens, integrations and backend work. With BtechWaleTech, a white label iOS and Android app starts from ${P.app}, and a web admin panel from ${P.software}. We quote your agency with an itemised breakdown, and you set your own retail price, adding discovery, project management and margin.` },
     { question: "Should a client app go on the agency's developer account or the client's?", answer: "Usually the client's. The account holder is the publisher, controls the listing and receives payouts, and Apple shows the enrolled organisation as the seller. Apple's guideline 4.2.6 also says template or app generation services should not submit apps on behalf of clients. Agency accounts can suit internal staff tools, with a written transfer plan." },
     { question: "Will my client ever know you built the app?", answer: "Not unless you tell them. Documents, test builds and release notes go out in your agency's branding, all communication runs through your team, and we do not contact your client. If a client ever finds us and gets in touch, we direct them back to you. These non-contact terms are agreed with your agency in writing." },
-    { question: "Can we resell a support SLA based on your work?", answer: "Yes. Response targets, cover hours and what counts as urgent are agreed with your agency in the written quote, and you build your client SLA on top of those commitments with your own buffer. Every launch includes five months of free maintenance, and ongoing care after that starts from our monthly maintenance price." },
+    { question: "Can we resell a support SLA based on your work?", answer: "Yes. Response targets, cover hours and what counts as urgent are agreed with your agency in the written quote, and you build your client SLA on top of those commitments with your own buffer. Every launch includes two months of free maintenance, and ongoing care after that starts from our monthly maintenance price." },
     { question: "Do you sign NDAs and non-solicitation agreements with agencies?", answer: "Confidentiality and non-contact terms are agreed in writing with your agency, either in our quote or in your own agreement if you send one for us to read first. Durations and remedies are legal matters, so we recommend your solicitor reviews the wording. Our published terms page gives the general starting point." },
     { question: "What does the branded handover pack include?", answer: "A client guide for the client's staff, a technical handbook covering architecture, environment variables and releases, an accounts and credentials map showing who owns what, and release notes with known limits. Everything uses your agency's template and logo. Passwords never appear in the document; they stay in a password manager you or the client control." },
     { question: "How long does a white label app take?", answer: "A typical white label app takes 6 to 10 weeks from signed scope to store submission, with a discovery stage before and store review after. Your account manager receives an installable test build every two weeks to show the client. Larger apps with complex integrations or an extensive admin panel can take longer." },

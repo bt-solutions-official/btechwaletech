@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store build time", "4–8 weeks"],
     ["Pricing engine", "Rate × net weight + making + stones + tax"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on your jewellery build" },
     { value: "6", label: "Characters in a HUID, shown per piece" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Commission on sales through your site" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Trust details", value: "Hallmark purity grade and HUID per piece, return policy, store address" },
       { label: "High-value sales", value: "Video-call viewing, try-at-home or reserve-and-visit" },
       { label: "Scheme pages", value: "Terms you set, instalment tracking, reminders" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       heading: "Ownership, handover and support after launch",
       paragraphs: [
         `The jeweller owns the domain, hosting, code, product catalogue, customer data, scheme records, WhatsApp number and merchant account. We create them in your business name or you create them and add us.`,
-        `At handover: the repository, admin logins, a list of paid services with renewal dates, and a short guide to updating the rate, adding products and handling orders. Five months of free maintenance follow launch. After that, maintenance is optional from ${P.care} a month, or your staff or another developer can take over.`,
+        `At handover: the repository, admin logins, a list of paid services with renewal dates, and a short guide to updating the rate, adding products and handling orders. Two months of free maintenance follow launch. After that, maintenance is optional from ${P.care} a month, or your staff or another developer can take over.`,
         `Family jewellery businesses pass between generations. Keeping every account in the business’s name, with the logins documented, means the website passes along cleanly with the counter and the safe.`,
       ],
     },
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical case for illustration only. Suppose a third-generation jeweller in Coimbatore sells 22K gold and silver in one showroom, runs an eleven-month savings scheme on paper and wants customers from other cities to buy lightweight daily-wear pieces online.`,
         `We would propose an online store from ${P.shop}: a rate board the owner updates each morning, a price engine using their per-gram making rule, 100 lightweight pieces at launch with HUID and weights, video-call booking for pieces above a value they set, a hallmark explainer, the scheme page with terms approved by their CA, and Tamil versions of the key pages.`,
-        `Weeks one to three: rate board, price engine, product template and scheme pages on staging, with the owner checking prices against counter bills. Weeks four to six: checkout, token-and-visit option, WhatsApp order and instalment messages, JewelryStore markup and Search Console. The jeweller would own every account, and catalogue changes in the first five months would be free.`,
+        `Weeks one to three: rate board, price engine, product template and scheme pages on staging, with the owner checking prices against counter bills. Weeks four to six: checkout, token-and-visit option, WhatsApp order and instalment messages, JewelryStore markup and Search Console. The jeweller would own every account, and catalogue changes in the first two months would be free.`,
       ],
     },
     {
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Domain, hosting, payment merchant account and WhatsApp Business number are registered to your business, with us added as users."],
       ["Build the price engine first", "Rate board and calculator go up on staging before design polish, and you check twenty products against your counter bills."],
       ["Enter catalogue and test orders", "Products go in from your spreadsheet and photos, then we run real small payments, order messages and return flows."],
-      ["Launch and five free months", `We connect the domain, submit the sitemap, link your Business Profile and hand over logins. Fixes are free for five months, then optional care from ${P.care}.`],
+      ["Launch and two free months", `We connect the domain, submit the sitemap, link your Business Profile and hand over logins. Fixes are free for two months, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Jewellery website design: questions jewellers ask",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Should I use a hosted store platform or a custom jewellery website?", answer: "For fashion or silver jewellery at set prices, a hosted store platform often works fine. Gold priced by weight and the daily rate, with making charges, HUID fields, schemes and video-call booking, usually needs custom logic or several paid add-ons. Compare total monthly cost and how well it handles your pricing rule before deciding." },
     { question: "Can customers pay by UPI on a jewellery website?", answer: "Yes. We set up UPI and card checkout through a payment provider you choose, in your own merchant account. For high-value orders you can add a staff confirmation step, delivery OTP and insured shipping. Many jewellers also allow a token payment online with the balance paid in store, which suits wedding purchases well." },
     { question: "Who owns the jewellery website and customer data?", answer: "Your business does. The domain, hosting, code, product catalogue, customer and scheme records, WhatsApp number and merchant account are all in your name. At launch you receive the repository, admin logins and a list of paid services with renewal dates, so any developer can take over later without asking us for anything." },
-    { question: "What happens after my jewellery website goes live?", answer: `Small changes and fixes are free for five months after launch: new collections, policy edits, rate board tweaks. After that, maintenance is optional from ${P.care} a month. Your staff can update the rate, add products and manage orders themselves through the admin screens we build.` },
+    { question: "What happens after my jewellery website goes live?", answer: `Small changes and fixes are free for two months after launch: new collections, policy edits, rate board tweaks. After that, maintenance is optional from ${P.care} a month. Your staff can update the rate, add products and manage orders themselves through the admin screens we build.` },
     { question: "Do I need a freelancer or an agency for jewellery website design?", answer: "A small freelance team suits a jeweller who wants direct contact with the people building the price engine and a clear scope. A larger agency suits brands that also want photo shoots, campaigns and brand identity together. For most family jewellers moving online, a focused freelance build with everything in their own name is enough." },
     { question: "Can you build my jewellery website remotely?", answer: "Yes. Jewellery website design needs your pricing rules, catalogue data and good photos, all of which work well over WhatsApp and Google Meet. We send a photography guide and a product spreadsheet template, show progress on staging links you check on your phone, and test payments with small real transactions." },
     { question: "Will my jewellery website rank on Google?", answer: `No honest developer can guarantee rankings. We build collection pages that match how people search, add JewelryStore and product structured data, align your Business Profile and set up Search Console so you see what is working. Ongoing SEO starts at ${P.seo} a month if you want regular content and reporting.` },
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a jewellery website buyers trust with real money?",
-    note: `Send your purities, making-charge method and catalogue size on WhatsApp. You will get an itemised quote in about two working days, with showroom sites from ${P.site}, online stores from ${P.shop}, everything in your name and five months of free maintenance.`,
+    note: `Send your purities, making-charge method and catalogue size on WhatsApp. You will get an itemised quote in about two working days, with showroom sites from ${P.site}, online stores from ${P.shop}, everything in your name and two months of free maintenance.`,
   },
 };
 

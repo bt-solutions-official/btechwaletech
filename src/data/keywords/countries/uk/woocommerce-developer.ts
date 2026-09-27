@@ -32,7 +32,7 @@ const content: FreelanceContent = {
     origin: "Three freelance developers in India · WhatsApp 7 days a week · our afternoon is your late morning",
   },
   facts: [
-    ["Store care from", `${P.care}, after 5 free months on our builds`],
+    ["Store care from", `${P.care}, after 2 free months on our builds`],
     ["Rebuild or new store from", P.shop],
     ["Custom plugin or portal from", P.software],
     ["First reply", "WhatsApp, 7 days a week (IST)"],
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Freelance WooCommerce developer or agency: which is better?", answer: "An agency suits large projects with in-house marketing teams, workshops and several specialists. A freelancer or small freelance team suits focused work on an existing store at lower overheads. Judge either by process: staging first, itemised quotes, custom code kept separate, access in your name and a written handover after every job." },
     { question: "Who owns the code you write for my store?", answer: "You do. Custom plugins, theme changes and configuration belong to you from the first commit, and they live in your hosting or repository. Your domain, hosting, card processor and courier accounts stay in your name throughout. We use our own user accounts, which you can remove whenever you choose." },
     { question: "How do I pay a WooCommerce developer in India from the UK?", answer: "We quote and invoice in USD. You can pay from a GBP business account through Wise, a bank wire or PayPal, usually per job or per milestone set out in the quote. Nothing is charged before you approve the quote in writing. How the payment is treated for your tax is a question for your accountant." },
-    { question: "Do you offer monthly WooCommerce maintenance?", answer: `Yes. Care plans start at ${P.care} and typically cover plugin, theme and core updates tested on staging, backups, checkout checks and small fixes. Stores we build get five free months of care first. Exact inclusions are agreed in your quote, and our WordPress maintenance services page explains what a good plan should contain.` },
+    { question: "Do you offer monthly WooCommerce maintenance?", answer: `Yes. Care plans start at ${P.care} and typically cover plugin, theme and core updates tested on staging, backups, checkout checks and small fixes. Stores we build get two free months of care first. Exact inclusions are agreed in your quote, and our WordPress maintenance services page explains what a good plan should contain.` },
     { question: "Can you move my shop from another platform to WooCommerce?", answer: `Yes, when WooCommerce suits you better, for example because you want full control of data or unusual product logic. We migrate products, customers and orders where the source platform allows export, and redirect old URLs. A migration is quoted as a rebuild starting at ${P.shop}, with the data work itemised separately.` },
     { question: "What should I prepare before hiring a WooCommerce developer?", answer: "Take your own full backup, ask your host for a staging site, create a separate admin user for the developer, list the plugins you know you use, and have your accountant’s tax instructions ready. Read-only access to your payment dashboard helps with webhook problems. Agree scope, price and handover contents in writing before work starts." },
   ],

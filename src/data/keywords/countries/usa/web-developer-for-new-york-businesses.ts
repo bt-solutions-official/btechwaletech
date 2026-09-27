@@ -45,7 +45,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers you speak to directly" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Boutique and retail stores", note: `Online stores for shops in Brooklyn, Queens or Manhattan, with local pickup and delivery options. From ${P.shop}.`, href: "/usa/ecommerce-website-development/", size: "md" },
       { name: "Redesigns of tired sites", note: "Keep the URLs that rank, fix mobile layout and speed, replace outdated plugins and add what the old site never had.", href: "/usa/website-redesign-services/", size: "sm" },
       { name: "Accessibility fixes", note: "Labels, contrast, keyboard use and alt text improved as part of the build, not left as an afterthought.", href: "/usa/ada-compliant-website-design/", size: "sm" },
-      { name: "Care after launch", note: `Five months of free maintenance, then updates, backups and small edits from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Care after launch", note: `Two months of free maintenance, then updates, backups and small edits from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -92,7 +92,7 @@ const content: FreelanceContent = {
       ["Brand strategy and photography", "Usually available", "Sometimes", "Not offered; you supply or approve photos and copy"],
       ["Speed to launch", "Depends on their pipeline", "Depends on their workload", "1–2 weeks for a small site"],
       ["Ownership of accounts", "Varies; check the contract", "Varies", "Domain, hosting and code in your name"],
-      ["After launch", "Retainer common", "Ad hoc", `5 months free, then care from ${P.care}`],
+      ["After launch", "Retainer common", "Ad hoc", `2 months free, then care from ${P.care}`],
     ],
     fine: "If you want a brand strategist in the room, a photo shoot at your restaurant or someone who can walk your office, a New York agency or local freelancer is the better choice; we suit owners who want a well-built site, clear pricing and remote communication.",
   },
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Whoever you pick as your web developer for small business NYC projects, you should own everything: the domain, the hosting account, the code or site files, the Google Business Profile, Search Console and analytics. We set them up in your business name, or you create them and invite us, and we step out at handover.`,
         `This matters more in New York than in many places because businesses here change hands, partners split and leases end. We have heard of owners who could not update their own hours because a former designer held the domain. Setting accounts up correctly on day one costs nothing and prevents that entirely.`,
-        `At handover you receive a short document listing every account, who has access, how to make common edits, how backups work and what the monthly running costs are. Maintenance is free for five months after launch; after that, care plans start at ${P.care} and cover updates, backups and small edits. You can also hand the site to any other developer; nothing we build depends on us.`,
+        `At handover you receive a short document listing every account, who has access, how to make common edits, how backups work and what the monthly running costs are. Maintenance is free for two months after launch; after that, care plans start at ${P.care} and cover updates, backups and small edits. You can also hand the site to any other developer; nothing we build depends on us.`,
       ],
     },
     {
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Plan on a morning call", "On a video call in your Eastern morning we agree pages, main actions and who supplies copy and photos. Accounts are set up in your business name."],
       ["Review on your phone", "A staging link arrives within days. You review between appointments or services, leave comments, and we revise overnight Eastern time."],
       ["Launch with checks", "Speed, forms, hours, accessibility basics and Google profile links are checked before launch. DNS switches during your quiet hours."],
-      ["Hand over and support", "You receive an account list and short guide. Maintenance is free for five months, then optional care plans with monthly updates and backups."],
+      ["Hand over and support", "You receive an account list and short guide. Maintenance is free for two months, then optional care plans with monthly updates and backups."],
     ],
   },
   faqHeading: "Web developer for small business NYC: questions owners ask",
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "Do you sign contracts and NDAs?", answer: "Scope, confidentiality and ownership are set out in your written quote, and our default contract terms are published on our terms page. If you need your own NDA or specific wording, ask us before work starts and we will agree it in writing. We do not give legal advice on your side of the agreement." },
     { question: "Can you make our website accessible?", answer: "Yes. We build with proper headings, form labels, alt text, colour contrast and keyboard navigation from the start, and check them before launch. For a formal accessibility review or remediation of an existing site, see our accessibility pages. Legal questions about accessibility claims belong with your own counsel." },
     { question: "Do you take photos or write copy?", answer: "We do not take photos or visit your premises. You can supply photos, use a New York photographer, or use suitable licensed images. We can draft and structure copy from your notes and calls in English, and you approve every word. For multilingual sites, you supply or approve the translated text." },
-    { question: "What happens after the site launches?", answer: `Maintenance is free for five months after launch, covering fixes and small adjustments. After that, care plans start at ${P.care} and include updates, backups, monitoring and small edits. You can also keep the site yourself using the handover guide, or hire any other developer.` },
+    { question: "What happens after the site launches?", answer: `Maintenance is free for two months after launch, covering fixes and small adjustments. After that, care plans start at ${P.care} and include updates, backups, monitoring and small edits. You can also keep the site yourself using the handover guide, or hire any other developer.` },
     { question: "Is a remote web developer for small business NYC owners reliable?", answer: "Reliability comes from process, not location. Ask for an itemised quote, written decisions, a staging link you can check any time, accounts in your name and clear aftercare terms. We work that way, reply on WhatsApp seven days a week, and never hold your domain or hosting hostage." },
     { question: "Can you also help with dashboards, cloud hosting or apps?", answer: "Yes. Beyond websites, we build custom dashboards that combine sales and accounting data, set up and clean up AWS accounts, help with Power BI, and build Android and iOS apps and custom web apps. Each is quoted separately in USD, so you can start with the website and add more later." },
   ],

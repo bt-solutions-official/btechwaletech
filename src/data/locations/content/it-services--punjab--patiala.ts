@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents answering course, fee, timing and appointment questions in Punjabi, Hindi or English on WhatsApp, and passing genuine leads to your counsellor or front desk.",
     data: "Dashboards for admissions, fee collections, patient footfall, sales by counter and outstanding payments, refreshed daily on your phone.",
     app: "Android and iOS apps for Patiala coaching centres, schools, clinics and retailers, built once in Flutter or React Native and published on both app stores, from ₹40,000.",
-    maintenance: "Updates, backups, fixes and uptime checks, free for five months after launch and from ₹8,000 a month later.",
+    maintenance: "Updates, backups, fixes and uptime checks, free for two months after launch and from ₹8,000 a month later.",
   },
   whyUsIntro:
     "Patiala runs on education, healthcare, government work and retail, and most of these businesses need reliability more than flash. We are three freelance engineers who write clear scopes, build in small testable steps, hand over every account and remain reachable on WhatsApp seven days a week.",
@@ -149,7 +149,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development in Patiala starts at ₹40,000 with BtechWaleTech and usually takes six to ten weeks. We build one app in Flutter or React Native, publish it on Google Play and the Apple App Store under your own developer accounts, and include login, forms, push notifications, an admin panel and a connection to your institute, clinic or billing software.",
         "Patiala's app needs are shaped by education and healthcare. A coaching centre preparing students for government exams, IELTS or university entrance can offer an app with live batch schedules, test series results, recorded-class links and fee-due notifications. Schools can send homework, attendance alerts and circulars to parents instead of paper diaries. Clinics and labs near Rajindra Hospital can let patients book slots, get reminders and download reports. Retailers selling juttis and suits can run a loyalty and reorder app, and sports academies can share training plans and renewal reminders.",
-        "Before we build, we check whether your users will actually install and reopen the app. Students, parents, patients on long treatment and loyal customers usually will. One-time visitors usually will not, and a mobile website serves them better. Every app shares the same backend as your website and software, so there is no duplicate data entry, and five months of post-launch maintenance are included free.",
+        "Before we build, we check whether your users will actually install and reopen the app. Students, parents, patients on long treatment and loyal customers usually will. One-time visitors usually will not, and a mobile website serves them better. Every app shares the same backend as your website and software, so there is no duplicate data entry, and two months of post-launch maintenance are included free.",
       ],
       list: [
         "Coaching app: schedules, test results, fee alerts",
@@ -174,7 +174,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting keeps your institute, clinic or shop software online on managed servers with SSL, daily backups and monitoring, accessible from any branch or from home. We set it up on AWS or similar providers, in your name, with automated deployments that can be rolled back quickly.",
         "We also handle domains, email deliverability, access roles and routine security updates. Patient and student data get extra care: restricted access, logs and encrypted connections.",
-        "Maintenance is free for five months after launch, then from ₹8,000 a month or pay-per-request. We reply on WhatsApp every day of the week, including during admission season and exam results when systems are busiest.",
+        "Maintenance is free for two months after launch, then from ₹8,000 a month or pay-per-request. We reply on WhatsApp every day of the week, including during admission season and exam results when systems are busiest.",
       ],
     },
     {
@@ -191,7 +191,7 @@ const content: CityContent = {
         "Online store: from ₹50,000, four to eight weeks",
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Institute, clinic or billing software: from ₹60,000, six to twelve weeks",
-        "Maintenance: five months free, then from ₹8,000 a month",
+        "Maintenance: two months free, then from ₹8,000 a month",
       ],
     },
     {
@@ -317,7 +317,7 @@ const content: CityContent = {
     {
       question: "What is covered in the free maintenance?",
       answer:
-        "Five months after launch are covered for free: bug fixes, security updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We answer on WhatsApp seven days a week.",
+        "Two months after launch are covered for free: bug fixes, security updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We answer on WhatsApp seven days a week.",
     },
     {
       question: "Can you build an Android and iOS app for our Patiala institute or clinic?",

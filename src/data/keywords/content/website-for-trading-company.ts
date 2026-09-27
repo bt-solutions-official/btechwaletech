@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Product data source", "Your Excel, Tally export or ERP"],
     ["Typical build", "3–5 weeks catalogue; 6–12 weeks with portal"],
     ["Quote from us", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "299+", label: "Pages as the starting point of the SEO catalogue plan" },
     { value: "3", label: "Developers: build, data and project management" },
     { value: "2", label: "Working days to receive an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "What should trading company website design include, and what does it cost?",
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the domain, hosting account, source code and the product database, including the cleaned version of your sheet. We hand over all of it, plus the import script, so your team or any other developer can update the catalogue without us.`,
         `For traders the product database is often the most valuable asset from the whole project, because cleaning and structuring thousands of SKUs takes real effort. Make sure any developer you hire gives you the cleaned data in a format you can open (a spreadsheet or CSV), not just a live site. Repository access, admin logins and hosting credentials should all sit with an email address your business controls.`,
-        `After launch you get five months of free maintenance for fixes and small changes. Beyond that, maintenance starts at ${P.care} a month and covers updates, backups and help with imports. Specific terms go in your written quote.`,
+        `After launch you get two months of free maintenance for fixes and small changes. Beyond that, maintenance starts at ${P.care} a month and covers updates, backups and help with imports. Specific terms go in your written quote.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Clean and import data", "Our script standardises units, attributes and codes and flags exceptions for your team to check, then loads everything into the catalogue database."],
       ["Preview on real products", "You browse a working preview with your actual SKUs, test search with real part numbers and try the enquiry basket before launch."],
       ["Launch and index", "We connect your domain, set up hosting in your account, split sitemaps by section in Search Console and hand over the import process."],
-      ["Maintain and extend", "Five months of free maintenance cover fixes and help with imports. The quotation builder or dealer portal can follow as a second phase."],
+      ["Maintain and extend", "Two months of free maintenance cover fixes and help with imports. The quotation builder or dealer portal can follow as a second phase."],
     ],
   },
   faqHeading: "Questions traders ask about their website",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Can AI search tools like ChatGPT find my products?", answer: "They can find and quote pages that state clear facts: what you stock, which brands, which regions you supply and how to order. We build brand and category pages with plain, specific statements and structured data, which also helps normal search. No one can promise AI tools will mention a particular trader." },
     { question: "Can AI read incoming enquiry emails and drawings for us?", answer: `Yes, as a separate AI automation project starting at ${P.ai}. It can read RFQ emails and attached PDFs, extract item names, part numbers and quantities, and create a draft enquiry record for your sales team to check. It works best when it assists staff rather than sending quotations without review.` },
     { question: "Do you visit our office or warehouse?", answer: "No. We are three freelance developers working remotely from India, so we do not make site visits or take product photos in person. We work over WhatsApp, calls and screen sharing, and guide your team on photographing products consistently if new images are needed." },
-    { question: "How do we pay and what happens after launch?", answer: `Payment is by UPI or bank transfer in India, following the schedule in your written quote; nothing is billed before your approval. After launch you get five months of free maintenance, then optional maintenance from ${P.care} a month. Details are set out in the quote and our terms page.` },
+    { question: "How do we pay and what happens after launch?", answer: `Payment is by UPI or bank transfer in India, following the schedule in your written quote; nothing is billed before your approval. After launch you get two months of free maintenance, then optional maintenance from ${P.care} a month. Details are set out in the quote and our terms page.` },
   ],
   related: {
     heading: "Related guides for traders, distributors and B2B sellers",

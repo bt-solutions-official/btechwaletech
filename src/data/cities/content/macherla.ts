@@ -56,7 +56,7 @@ const macherla: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer rate, stock and timing questions and route real decisions to you.",
     data: "Dashboards of loads dispatched, chilli bags bought and sold, dues by farmer and monthly sales.",
     app: "Android and iOS apps for transport owners to track trips or for colleges to share notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "Palnadu people like straight talk, and that suits how we work. Starting prices are on the site, the quote arrives in writing with every item listed, nothing is billed before you approve it, and replies come on WhatsApp every day. Domain, hosting, code and app accounts are opened in your name, not ours.",
@@ -178,7 +178,7 @@ const macherla: CityContent = {
       heading: "Ownership and maintenance for Macherla websites and apps",
       paragraphs: [
         "Many small-town websites disappear because the domain was registered by the designer. We avoid that completely. Your domain, hosting, source code, Google Business Profile and app store developer accounts are set up in your name, and you keep every password.",
-        "After launch you get five months of free maintenance covering edits, backups, security updates and checks that forms, UPI checkout and WhatsApp links work. After that, maintenance starts at ₹8,000 a month and is optional. You can move to any other developer at any time without our permission.",
+        "After launch you get two months of free maintenance covering edits, backups, security updates and checks that forms, UPI checkout and WhatsApp links work. After that, maintenance starts at ₹8,000 a month and is optional. You can move to any other developer at any time without our permission.",
         "We leave a short, plain handover note explaining where things are hosted, when renewals are due and how to update common content yourself. For apps, build files and store listings are kept in order so someone else could continue if you ever decide to switch.",
       ],
     },
@@ -270,7 +270,7 @@ const macherla: CityContent = {
     {
       question: "What maintenance do you offer after the site is live?",
       answer:
-        "Five months of free maintenance: edits, backups, security updates and checks on forms, UPI checkout and WhatsApp links. After that it starts at ₹8,000 a month and is optional. Since you own the code and accounts, you are free to switch developers whenever you like.",
+        "Two months of free maintenance: edits, backups, security updates and checks on forms, UPI checkout and WhatsApp links. After that it starts at ₹8,000 a month and is optional. Since you own the code and accounts, you are free to switch developers whenever you like.",
     },
     {
       question: "Do you work in Gurazala, Narasaraopet and Sattenapalle as well?",

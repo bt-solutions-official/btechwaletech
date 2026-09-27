@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Report and reminder automation", `From ${P.ai}`],
     ["Disclosures", "ARN, commission link, scheme documents"],
     ["Estimate", "Itemised, about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers, one of them focused on data" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Client dashboard and platform links", value: `From ${P.software}, 6–12 weeks` },
       { label: "Statement and SIP reminder automation", value: `From ${P.ai}` },
       { label: "Rule set followed", value: "AMFI code of conduct and your own compliance review" },
-      { label: "Maintenance", value: `5 months free, then from ${P.care}` },
+      { label: "Maintenance", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Portfolio reports", "Inside the app", "None", "Report page with secure downloads and requests"],
       ["Your brand and voice", "Limited", "Template look", "Your name, photo, practice story, languages"],
       ["If you change platform", "Clients relearn an app", "Site stays, needs relinking", "Site stays; only the integration changes"],
-      ["Cost pattern", "Platform charges as agreed", "Monthly builder fee", `Site from ${P.site}, care optional after 5 free months`],
+      ["Cost pattern", "Platform charges as agreed", "Monthly builder fee", `Site from ${P.site}, care optional after 2 free months`],
     ],
     fine: "The transaction platform remains the system of record for orders and holdings; the website is your storefront and education hub around it, and it should never duplicate order placement without the platform’s approved integration.",
   },
@@ -224,7 +224,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A mutual fund distributor website with BtechWaleTech starts at ${P.site} (${P.siteUsd}), including the disclosure panels, calculators, education pages, contact paths and Search Console setup.`,
         `The client side is where cost grows. A branded dashboard with imported holdings, report downloads and platform links starts at ${P.software}. Automated report imports and WhatsApp reminders start at ${P.ai}. A learning library with a hundred or more explainers and area pages fits the SEO website plan from ${P.seoSite}. If we write explainers from your notes, that is its own line; your review of every figure remains essential.`,
-        `Other quotes will vary widely for the same brief, mostly because some include compliance-aware structure, calculators and aftercare while others are a template with your logo. Compare line by line. After launch, maintenance is free for five months, then optional from ${P.care}.`,
+        `Other quotes will vary widely for the same brief, mostly because some include compliance-aware structure, calculators and aftercare while others are a template with your logo. Compare line by line. After launch, maintenance is free for two months, then optional from ${P.care}.`,
       ],
     },
     {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
         { heading: "Data pipeline", text: "Scheduled jobs that read platform or RTA exports you already receive, check them and update summaries." },
         { heading: "Ownership", text: "Domain, hosting, database, storage and code are in your name; we are removable users. You get logins, a renewal list and a data-flow note at handover." },
       ],
-      after: [`Five months of maintenance are free after launch. After that, care is optional from ${P.care} a month, or you can move the site to anyone else.`],
+      after: [`Two months of maintenance are free after launch. After that, care is optional from ${P.care} a month, or you can move the site to anyone else.`],
     },
     {
       id: "mistakes",
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Disclosure wording agreed first", "We draft the disclaimer, regular-plan panel and funds-distributed statement as a document for your compliance review before design starts."],
       ["Staging site and calculators", "You test every calculator on your phone and read every explainer, checking figures, wording and the absence of return promises."],
       ["Dashboard with dummy data", "If you order the dashboard, we build and test it with invented client data first, then connect your real exports only after you approve."],
-      ["Launch and hand over", `Search Console, profile updates, logins and a data-flow note go to you. Five months of care are free, then optional from ${P.care}.`],
+      ["Launch and hand over", `Search Console, profile updates, logins and a data-flow note go to you. Two months of care are free, then optional from ${P.care}.`],
     ],
   },
   faqHeading: "Mutual fund distributor website: frequently asked questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Do I need an investor app as well?", answer: `Most distributors do not at first; the transaction platform usually offers an investor app, and your site covers education and reports. A branded app makes sense when many clients want your dashboard on their phones. BtechWaleTech builds Android and iOS apps from ${P.app}.` },
     { question: "Can the site be in Hindi or a regional language?", answer: "Yes. Explainers, calculators and disclosure panels can be bilingual, with proper language tags for search. You supply or approve translations, and disclosure wording in each language should be checked with your compliance source." },
     { question: "How do I pay BtechWaleTech?", answer: "In India by UPI or bank transfer, in stages linked to visible work, after you approve the itemised written quote. Clients abroad pay in USD by Wise, bank wire or PayPal. Specific stages are agreed in your quote; general conditions are on our terms page." },
-    { question: "What happens after the five free months of maintenance?", answer: `You decide. Care can continue from ${P.care} a month for updates, backups, disclosure changes and new explainers, or you can manage the site yourself or move it to another developer, since every account is already yours.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You decide. Care can continue from ${P.care} a month for updates, backups, disclosure changes and new explainers, or you can manage the site yourself or move it to another developer, since every account is already yours.` },
     { question: "Mutual fund distributor ki website mein kya hona chahiye?", answer: `ARN number, risk disclaimer, regular plan aur commission ka link, SIP aur goal calculator jisme return rate visitor khud daale, client login ka button aur aasaan bhasha mein explainers. BtechWaleTech ke saath aisi website ${P.site} se shuru hoti hai aur client dashboard ${P.software} se.` },
   ],
   related: {
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a mutual fund distributor website investors trust?",
-    note: `Send your ARN details and platform on WhatsApp. You get an itemised quote in about two working days, with MFD sites from ${P.site}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send your ARN details and platform on WhatsApp. You get an itemised quote in about two working days, with MFD sites from ${P.site}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

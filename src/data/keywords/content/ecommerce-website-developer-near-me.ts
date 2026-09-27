@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store build time", "4–8 weeks"],
     ["Payments", "UPI, cards and COD if you want it"],
     ["Who owns it", "You: domain, hosting, product data"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one WhatsApp group" },
     { value: "100", label: "Pages in the catalogue site plan" },
-    { value: "5", label: "Months of free upkeep after going live" },
+    { value: "2", label: "Months of free upkeep after going live" },
     { value: "7", label: "Days a week for order-season questions" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Delivery", value: "Own riders nearby, courier partners for far pincodes" },
       { label: "Product entry", value: "Spreadsheet import, then edit from a simple admin" },
       { label: "Ownership", value: "Domain, hosting and customer data in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -128,7 +128,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Product data is the part owners underestimate. A shop with a few hundred items needs names, prices, sizes, photos and categories in a clean format before the site can go live.`,
         `The fastest route is a spreadsheet. If your billing software can export products, we start there. Otherwise, one column each for name, category, price, size or variant, and a short description is enough. Photos named by product code can be matched automatically. We import the sheet, fix duplicates and show you the result on a staging link so you can correct prices on your phone.`,
-        `After launch, you or your staff edit products from a simple admin panel: change a price, mark something out of stock, add a new arrival with photos from your phone. If you would rather send changes over WhatsApp, that is covered in the free five months of maintenance.`,
+        `After launch, you or your staff edit products from a simple admin panel: change a price, mark something out of stock, add a new arrival with photos from your phone. If you would rather send changes over WhatsApp, that is covered in the free two months of maintenance.`,
       ],
       list: [
         "Export from billing software, or fill a simple product sheet",
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Domain, hosting and payment gateway are registered to your business. We help with the gateway documents and test payments."],
       ["Load products and review", "Your sheet and photos are imported to a staging store. You check prices and categories on your phone and send corrections."],
       ["Test orders, then launch", "We run test orders for each payment and delivery type, train your staff on the admin, and switch the store live."],
-      ["Five months of free care", "Price changes, new categories and fixes are free for five months after launch. Monthly care continues from " + P.care + " if you choose."],
+      ["Two months of free care", "Price changes, new categories and fixes are free for two months after launch. Monthly care continues from " + P.care + " if you choose."],
     ],
   },
   faqHeading: "Ecommerce website developer near me: shop owners ask",
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
     { question: "Will my online store show up on Google?", answer: `A well-built store gives Google clean category pages, product schema and a fast mobile experience, and linking it to your Google Business Profile helps nearby searchers. Nobody can guarantee rankings. Ongoing store SEO is available from ${P.seo} per month with Search Console reports.` },
     { question: "Can you meet me at my shop?", answer: "No, BtechWaleTech works fully remotely. A short video walk-through of your shop on your phone usually gives us everything we need, and all reviews happen on staging links you open on your phone. If in-person visits are essential, a developer in your own city may suit you better." },
     { question: "What platform is best for a small retail store?", answer: "It depends on who will run it. A hosted platform suits owners who want little upkeep, WooCommerce suits those who want WordPress flexibility, and a custom store suits unusual delivery, wholesale or pricing rules. A catalogue with WhatsApp ordering is the cheapest place to start." },
-    { question: "What happens after my store goes live?", answer: `BtechWaleTech covers the first five months free: price changes, new categories, fixes and updates. After that, monthly care starts at ${P.care}, or your own staff can manage the store from the admin panel. Festival-season questions are answered on WhatsApp seven days a week.` },
+    { question: "What happens after my store goes live?", answer: `BtechWaleTech covers the first two months free: price changes, new categories, fixes and updates. After that, monthly care starts at ${P.care}, or your own staff can manage the store from the admin panel. Festival-season questions are answered on WhatsApp seven days a week.` },
     { question: "Do I need an app as well as a website for my shop?", answer: `Usually not at first. A mobile-friendly store serves most buyers. An app, from ${P.app}, makes sense when many customers reorder weekly and would use saved carts and offers. Start with the website, watch repeat orders, and decide once you see the numbers.` },
     { question: "How do I pay for the website?", answer: "Payment is split into stages tied to visible work: an advance after you approve the estimate, a payment when the staging store is ready, and the balance at launch. In India we take UPI or bank transfer; overseas clients can pay by Wise, bank wire or PayPal." },
     { question: "Meri dukaan ke liye online store banwane mein kitna kharcha hoga?", answer: `Agar orders WhatsApp par lene hain toh catalogue website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Poora online store, jismein cart, UPI payment aur delivery charges ho, ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Pehle itemised quote milta hai, approve karne ke baad hi kaam shuru hota hai.` },
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to take your shop online? Send us a quick video",
-    note: `Record a short walk-through of your shop and message it on WhatsApp. You will get an itemised plan in about two working days, with catalogue sites from ${P.site}, full stores from ${P.shop}, everything in your name and five months of free care after launch.`,
+    note: `Record a short walk-through of your shop and message it on WhatsApp. You will get an itemised plan in about two working days, with catalogue sites from ${P.site}, full stores from ${P.shop}, everything in your name and two months of free care after launch.`,
   },
 };
 

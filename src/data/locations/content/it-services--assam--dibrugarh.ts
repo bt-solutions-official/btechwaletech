@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Dibrugarh · Upper Assam",
     h1: "Freelance software and app developers in Dibrugarh for industry suppliers, pharmacies, tea brands and builders",
     lede:
-      "BtechWaleTech is a freelance group of three software developers serving Dibrugarh remotely from India, and an alternative to hiring a software development team in Dibrugarh for jobs like vendor compliance records, pharmacy stock and expiry tracking, tea traceability, builder CRMs, AI agents, Android and iOS apps and business dashboards. Starting prices are published, you talk to the engineers directly, and five months of maintenance are free.",
+      "BtechWaleTech is a freelance group of three software developers serving Dibrugarh remotely from India, and an alternative to hiring a software development team in Dibrugarh for jobs like vendor compliance records, pharmacy stock and expiry tracking, tea traceability, builder CRMs, AI agents, Android and iOS apps and business dashboards. Starting prices are published, you talk to the engineers directly, and two months of maintenance are free.",
     pills: ["Compliance and records tools", "Android & iOS apps from ₹40,000", "Custom software from ₹60,000", "AI automation from ₹40,000", "UPI or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three software developers serving Dibrugarh remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and websites at ₹10,000. Itemised quotes arrive in about two working days, with five months of free maintenance after launch.",
+    "BtechWaleTech is a freelance group of three software developers serving Dibrugarh remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and websites at ₹10,000. Itemised quotes arrive in about two working days, with two months of free maintenance after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Dibrugarh district and the commercial centre of Upper Assam" },
     { label: "Industry belt", value: "Oil India at Duliajan, BCPL's petrochemical complex at Lepetkata, and the fertiliser plant at Namrup" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read documents, answer routine questions, remind about expiring certificates and draft replies for staff to approve.",
     data: "Dashboards for businesses with branches in Dibrugarh, Tinsukia, Duliajan and Naharkatia, showing sales, stock, dues and compliance status in one place.",
     app: "Android and iOS apps for Dibrugarh supervisors, sales teams, patients and buyers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of maintenance after launch, then care plans from ₹8,000 a month covering fixes, updates, backups and monitoring.",
+    maintenance: "Two free months of maintenance after launch, then care plans from ₹8,000 a month covering fixes, updates, backups and monitoring.",
   },
   whyUsIntro:
     "Dibrugarh businesses often have to choose between hardware-and-software shops that mostly handle repairs, and larger outfits in Guwahati that treat Upper Assam as an afterthought. We are a freelance group of three engineers who build software for a living, publish prices, reply daily on WhatsApp and hand every login back to you.",
@@ -143,7 +143,7 @@ const content: CityContent = {
         "Android and iOS app development in Dibrugarh starts at ₹40,000 with BtechWaleTech and takes six to ten weeks. We build once in Flutter or React Native and publish on both Google Play and the Apple App Store under your accounts, with login, forms, push notifications and an admin panel connected to your data through an API.",
         "The apps Dibrugarh organisations need are mostly working tools. Contractor supervisors need an app to mark crew attendance at the gate and upload site photographs. Pharmacy distributors need a B2B catalogue app so chemists in Tinsukia or Moran can reorder with their own rates. Tea brands need an app or scan page for buyers to verify batches. Schools and coaching centres need parent and student apps for notices, fees and results. Hospitals and labs need patient apps for bookings and reports.",
         "Network coverage in the industrial belt and tea areas can be weak, so field apps save entries offline and sync later. We test on the budget Android phones supervisors use as well as on iPhones common among managers and professionals. Screens can carry Assamese, Hindi or English labels.",
-        "We recommend an app only when people will open it regularly; otherwise a website or WhatsApp flow is cheaper. You own the code, both store listings and the admin panel, and maintenance is free for five months after launch.",
+        "We recommend an app only when people will open it regularly; otherwise a website or WhatsApp flow is cheaper. You own the code, both store listings and the admin panel, and maintenance is free for two months after launch.",
       ],
       list: [
         "Supervisor app for gate attendance and site photos",
@@ -166,7 +166,7 @@ const content: CityContent = {
       id: "websites-stores-dibrugarh",
       heading: "Websites and online stores for Dibrugarh businesses: what to build first",
       paragraphs: [
-        "Most Dibrugarh businesses should start with a fast static website from ₹10,000 that states services, location, hours and contact options clearly, then add an online store from ₹50,000 only when they have products that ship well and buyers outside the city. BtechWaleTech builds both, with hosting, SEO basics and five months of maintenance included.",
+        "Most Dibrugarh businesses should start with a fast static website from ₹10,000 that states services, location, hours and contact options clearly, then add an online store from ₹50,000 only when they have products that ship well and buyers outside the city. BtechWaleTech builds both, with hosting, SEO basics and two months of maintenance included.",
         "A contractor's website is really a capability statement: services, equipment, clients served in general terms, safety approach and a clean enquiry form, so that a procurement officer checking your name finds something credible. A hospital or clinic site needs doctor profiles, timings and directions for patients arriving from Tinsukia, Dhemaji or Arunachal. A hotel needs rooms, rates guidance and a booking form that works on a phone.",
         "Online stores suit Dibrugarh tea brands, Assamese food products, handloom and crafts. Checkout runs on UPI and cards through a payment gateway account in your own name, so money reaches your bank directly. We set courier rules that reflect real delivery times from Upper Assam, which are longer than many buyers expect, and write clear return terms. The detailed build approach is on our <a href='/services/web-development/'>web development page</a>.",
       ],
@@ -181,7 +181,7 @@ const content: CityContent = {
       id: "hosting-support-dibrugarh",
       heading: "Cloud hosting, backups and remote support for Dibrugarh systems",
       paragraphs: [
-        "Every Dibrugarh project includes cloud hosting in your name, SSL, automatic backups, uptime monitoring and scripted deployment, followed by five months of free maintenance. Websites run on fast static hosts and applications on AWS or similar managed platforms, which keeps records safe even if an office computer fails or floods during the monsoon.",
+        "Every Dibrugarh project includes cloud hosting in your name, SSL, automatic backups, uptime monitoring and scripted deployment, followed by two months of free maintenance. Websites run on fast static hosts and applications on AWS or similar managed platforms, which keeps records safe even if an office computer fails or floods during the monsoon.",
         "Compliance records and medical stock data are exactly the kind of information you cannot afford to lose. Cloud hosting with daily backups and tested restores protects it far better than a single desktop in a back office. Access is controlled by user, and actions are logged so you know who changed what.",
         "Support is remote and covers the software and hosting we deliver. After the free months, maintenance starts at ₹8,000 a month, or you can pay per change. Printers, networks and computer repairs need a local technician, and we are glad to coordinate with yours.",
       ],
@@ -260,9 +260,9 @@ const content: CityContent = {
         "Yes. Android and iOS apps start at ₹40,000 and take six to ten weeks. We build once in Flutter or React Native and publish on Google Play and the App Store under your accounts, with login, forms, push notifications and an admin panel. Field apps for the industrial belt and tea areas can work offline.",
     },
     {
-      question: "What is covered in the five months of free maintenance?",
+      question: "What is covered in the two months of free maintenance?",
       answer:
-        "Bug fixes, minor content changes, security updates, backups and uptime and speed monitoring for five months after launch. New features are quoted separately. After that, maintenance continues from ₹8,000 a month, or you can pay per change.",
+        "Bug fixes, minor content changes, security updates, backups and uptime and speed monitoring for two months after launch. New features are quoted separately. After that, maintenance continues from ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Who owns the code and data?",

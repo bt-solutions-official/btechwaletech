@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Shopify side", "GraphQL Admin API and order webhooks"],
     ["Tally side", "TallyPrime HTTP/XML on your own PC or VM"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers; one of them owns your mapping" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Platform or per-order fees charged by us" },
   ],
   answer: {
@@ -99,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Tally Shopify integration costs",
-    note: `A one-way connector that posts orders and refunds into TallyPrime starts at ${P.ai}. The quote grows with what your books need: a second GSTIN or warehouse, bundle SKUs that split into several stock items, payout and COD matching, two-way stock, or a small web dashboard showing failed orders. A full order hub that also serves marketplaces or a dealer portal is priced as custom software from ${P.software}. You receive an itemised quote in roughly two working days and nothing is billed before you approve it in writing. After launch you get five months of free maintenance, then optional care from ${P.care}.`,
+    note: `A one-way connector that posts orders and refunds into TallyPrime starts at ${P.ai}. The quote grows with what your books need: a second GSTIN or warehouse, bundle SKUs that split into several stock items, payout and COD matching, two-way stock, or a small web dashboard showing failed orders. A full order hub that also serves marketplaces or a dealer portal is priced as custom software from ${P.software}. You receive an itemised quote in roughly two working days and nothing is billed before you approve it in writing. After launch you get two months of free maintenance, then optional care from ${P.care}.`,
   },
   guideLabel: "Shopify to Tally guide",
   guide: [
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
       heading: "Who owns the integration once it is live?",
       paragraphs: [
         `You do. The source code sits in a repository under your account, the cloud service runs in your hosting account, and the Shopify custom app is created in your store with a token only you can revoke. We hand over a mapping document written in accountant’s language, not only a technical README.`,
-        `The first five months after launch include free maintenance: if Shopify changes an API field, or a new tax case appears that the mapping sheet did not cover, we fix it. After that, you can continue on a care plan from ${P.care}, hand the code to your own developer, or leave it running. Nothing in the build stops another developer from reading it, because it uses ordinary languages and Tally’s documented interfaces.`,
+        `The first two months after launch include free maintenance: if Shopify changes an API field, or a new tax case appears that the mapping sheet did not cover, we fix it. After that, you can continue on a care plan from ${P.care}, hand the code to your own developer, or leave it running. Nothing in the build stops another developer from reading it, because it uses ordinary languages and Tally’s documented interfaces.`,
         `Ownership also means your data stays yours. The queue stores order data only as long as needed to post it and to show recent exceptions; we agree a retention period with you and purge older entries automatically. We do not copy your sales data to any service outside the ones listed in the handover note.`,
         `If you want the same data used elsewhere later, such as an owner dashboard or a <a href='/mis-report-automation/'>monthly MIS pack</a>, it can be read from Tally once it is posted there, so the integration becomes the single clean feed for everything downstream.`,
       ],
@@ -344,7 +344,7 @@ const content: FreelanceContent = {
         `Exceptions list reaches a named person every day.`,
         `Shopify custom app token stored in your password manager, not in chat.`,
         `Backup of the Tally company taken just before go-live.`,
-        `Clear owner for fixes: us during the free five months, then your choice.`,
+        `Clear owner for fixes: us during the free two months, then your choice.`,
       ],
       after: [
         `Keep this list; it doubles as the audit trail if anyone later asks how online sales entered the books.`,
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       id: "cost-scope",
       eyebrow: "Costs",
       heading: "Tally Shopify integration cost by scope",
-      note: `All figures are starting prices; your itemised quote depends on the mapping sheet. Everything includes five months of free maintenance.`,
+      note: `All figures are starting prices; your itemised quote depends on the mapping sheet. Everything includes two months of free maintenance.`,
       columns: ["Scope", "Includes", "Starts at", "Typical time"],
       rows: [
         ["Order and refund posting", "One Tally company, GST mapping, retry queue, exceptions list", `${P.ai}`, "2–3 weeks"],
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a line-by-line quote with starting prices and timeline. Nothing is billed until you approve it in writing."],
       ["Build against a test company", "We build the reader, queue and poster, then replay last month’s orders into a copy of your Tally company and share totals by day, rate and state."],
       ["Parallel run", "For a week or more the connector posts to the test company while your team continues as usual. Differences are explained and fixed before anything touches live books."],
-      ["Go-live and handover", "Switch to the live company, hand over code, credentials and the mapping document, and watch exceptions closely. Five months of free maintenance start here."],
+      ["Go-live and handover", "Switch to the live company, hand over code, credentials and the mapping document, and watch exceptions closely. Two months of free maintenance start here."],
     ],
   },
   faqHeading: "Tally Shopify integration: common questions",
@@ -454,7 +454,7 @@ const content: FreelanceContent = {
     { question: "Can you handle multiple Shopify stores or GST registrations?", answer: "Yes. Each Shopify store or location is mapped to the right Tally company or GSTIN in a configuration sheet you control. A warehouse in another state with its own registration posts to its own company. Each extra store or GSTIN is priced as its own line in the quote, so you see exactly what the added complexity costs." },
     { question: "Will payouts from the payment gateway match my Tally books?", answer: "They can, if receipts go through a clearing ledger. Each order’s payment is posted to the clearing ledger on the order date; when the batch settlement hits your bank, one entry clears it and the gateway fee plus GST on that fee go to a charges ledger. Orders left uncleared show exactly where money is missing." },
     { question: "Who owns the integration code after it is built?", answer: "You own it. The code is in a repository under your account, services run in your hosting account and the Shopify app token belongs to your store. We hand over a mapping document your accountant can read, plus a technical note for any developer. There is no lock-in and no per-order fee from us." },
-    { question: "What happens if Shopify changes its API?", answer: "Shopify versions its API and retires old versions on a published schedule, so connectors need occasional updates. During the five months of free maintenance after launch we handle any such change. After that you can take a care plan starting at the maintenance price, have your own developer update it, or ask for a one-off quote." },
+    { question: "What happens if Shopify changes its API?", answer: "Shopify versions its API and retires old versions on a published schedule, so connectors need occasional updates. During the two months of free maintenance after launch we handle any such change. After that you can take a care plan starting at the maintenance price, have your own developer update it, or ask for a one-off quote." },
     { question: "Can the integration send invoices to customers on WhatsApp?", answer: "Once orders sit correctly in Tally, sending the Tally invoice PDF or a payment reminder over the WhatsApp Business Platform is a separate, small add-on. We keep it separate on purpose: accounting accuracy comes first, messaging second. Our Tally WhatsApp integration page explains how that part works and what it costs to run." },
     { question: "Shopify ke orders Tally me automatic kaise aayenge?", answer: "Ek chhota connector Shopify se har naya order padhta hai, GST aur HSN lagakar Tally me sales voucher bana deta hai. Refund aaye to credit note banta hai, aur COD ka paisa courier remittance se match hota hai. Tally chalu hona chahiye, warna orders queue me wait karte hain. Custom build ka starting price AI automation plan jitna hai." },
     { question: "Do you work with stores outside my city, and do you visit?", answer: "We work fully remotely with sellers anywhere in India and abroad, over WhatsApp, Google Meet and screen sharing, in English or Hindi. We do not make on-site visits or handle office hardware. If your Tally PC needs a new UPS or network fix, your local IT person handles that while we manage the software." },
@@ -479,7 +479,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send one day of Shopify orders and your Tally ledger list",
-    note: `Message us on WhatsApp with a day’s order export and a list of your Tally ledgers and stock items. We will say whether a packaged app would do, or send an itemised quote for a custom Tally Shopify integration starting at ${P.ai}, with code in your name and five months of free maintenance.`,
+    note: `Message us on WhatsApp with a day’s order export and a list of your Tally ledgers and stock items. We will say whether a packaged app would do, or send an itemised quote for a custom Tally Shopify integration starting at ${P.ai}, with code in your name and two months of free maintenance.`,
   },
 };
 

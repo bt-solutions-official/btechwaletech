@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["App build time", "Typically 6–10 weeks"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Platforms", "Android first, iPhone if needed"],
-    ["Included support", "5 months after launch"],
+    ["Included support", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers, one WhatsApp group" },
     { value: "2", label: "Working days to your quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Per-salesman fees owed to us" },
   ],
   answer: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Salesman tracking app pricing",
-    note: `A salesman tracking app is two builds that talk to each other: the rep's mobile app and the manager's web panel. The app, with beat list, photo check-in, order booking and duty-time GPS, starts at ${P.app}. The web panel with live map, route replay, reports and product and retailer masters starts at ${P.software}. Pushing orders into Tally or your ERP, or sending WhatsApp reports, is quoted as an add-on, with automation work starting at ${P.ai}. After five months of free maintenance, upkeep starts at ${P.care} a month. These are starting prices; the written quote lists every item.`,
+    note: `A salesman tracking app is two builds that talk to each other: the rep's mobile app and the manager's web panel. The app, with beat list, photo check-in, order booking and duty-time GPS, starts at ${P.app}. The web panel with live map, route replay, reports and product and retailer masters starts at ${P.software}. Pushing orders into Tally or your ERP, or sending WhatsApp reports, is quoted as an add-on, with automation work starting at ${P.ai}. After two months of free maintenance, upkeep starts at ${P.care} a month. These are starting prices; the written quote lists every item.`,
   },
   guideLabel: "Salesman tracking app guide",
   guide: [
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         "Background location with Play Console declaration, versus duty-time foreground tracking",
       ],
       after: [
-        `Ongoing costs are modest: cloud hosting in your account, map service usage billed by the map provider, WhatsApp message charges if you use them, and optional upkeep from ${P.care} a month after five free months. For a broader view of app budgets, see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
+        `Ongoing costs are modest: cloud hosting in your account, map service usage billed by the map provider, WhatsApp message charges if you use them, and optional upkeep from ${P.care} a month after two free months. For a broader view of app budgets, see <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
       ],
     },
     {
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
       ["Catalogue and beats first", "We load your products, price lists, schemes, outlets and beats early, so every demo uses real data your managers recognise."],
       ["Pilot with one team", "One team uses the app for about two weeks. We watch the data, collect complaints on WhatsApp and ship fixes quickly."],
       ["Rollout and Play listing", "The app goes live in your Google Play account, and on the App Store if needed, with the location disclosures prepared."],
-      ["Handover and support", "Code, cloud and store accounts stay yours. Five months of free maintenance follow, then optional upkeep at a monthly starting price."],
+      ["Handover and support", "Code, cloud and store accounts stay yours. Two months of free maintenance follow, then optional upkeep at a monthly starting price."],
     ],
   },
   faqHeading: "Salesman tracking app: questions buyers ask",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Why hire three freelancers instead of an app development agency?", answer: "You talk directly to the developers building the app, decisions move quickly on WhatsApp, and a lean team suits a focused sales app for tens or low hundreds of reps. If you need a large team for a nationwide rollout with on-site training in every state, a bigger provider may suit better, since we work remotely." },
     { question: "Can retailers also place orders themselves?", answer: "Yes. A companion ordering app or WhatsApp ordering flow can share the same product catalogue, prices and schemes, so retailers reorder between visits and the rep sees those orders on his next check-in. This is often the second phase after reps are comfortable with the main app." },
     { question: "Salesman ko track karne wala app banwane me kitna time lagta hai?", answer: `Rep ka app aam taur par 6–10 hafte me banta hai aur manager ka web panel saath me banta hai. Uske baad ek team ke saath do hafte ka pilot karna accha rehta hai. Custom app ${P.app} se shuru hota hai aur quote lagbhag 2 working days me milta hai.` },
-    { question: "What happens after the app launches?", answer: `The first five months of maintenance are free: fixes, Android and iOS updates, small changes to beats or reports. After that, upkeep starts at ${P.care} a month, or you can move maintenance elsewhere, since the code and accounts are yours. Larger additions are quoted separately before any work starts.` },
+    { question: "What happens after the app launches?", answer: `The first two months of maintenance are free: fixes, Android and iOS updates, small changes to beats or reports. After that, upkeep starts at ${P.care} a month, or you can move maintenance elsewhere, since the code and accounts are yours. Larger additions are quoted separately before any work starts.` },
   ],
   related: {
     heading: "Related field sales and distribution software",

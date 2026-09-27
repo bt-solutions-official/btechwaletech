@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Multi-centre group site", `From ${P.seoSite}`],
     ["Custom waitlist or tour system", `From ${P.software}`],
     ["Written quote", "Itemised, around 2 working days"],
-    ["Maintenance", `5 months free, then from ${P.care}`],
+    ["Maintenance", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers building your centre's site" },
     { value: "7", label: "NQS quality areas your rating page can explain" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free care after launch" },
+    { value: "2", label: "Months of free care after launch" },
   ],
   answer: {
     heading: "What does an Australian childcare centre website need to fill places?",
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Consider a hypothetical 90-place long day care centre in the Wyndham area of Melbourne, rated Meeting NQS, using Xplor for enrolments. Their current site is a single page with a phone number, and most enquiries arrive by phone during lunch when the director is busiest.`,
         `A good fit would be the static plan from ${P.site}: home with rating badge and tour button, five room pages from babies to kindergarten, a quality page explaining all seven areas and their results, a fees and subsidy page linking the official calculator, educator profiles, a gallery of rooms and gardens without identifiable children, and tour booking with director-set slots. The waitlist button opens the centre's Xplor enquiry form, subject to what their account provides.`,
-        `After launch, the director can update vacancies and fees herself. Five free months of maintenance cover edits while tours start coming through the website rather than the phone. If the operator later opens a second centre, the site moves to the SEO plan from ${P.seoSite} with a page per location. This illustrates how we would scope the work; it is not a real client.`,
+        `After launch, the director can update vacancies and fees herself. Two free months of maintenance cover edits while tours start coming through the website rather than the phone. If the operator later opens a second centre, the site moves to the SEO plan from ${P.seoSite} with a page per location. This illustrates how we would scope the work; it is not a real client.`,
       ],
     },
     {
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
       ["Content pack", "You send room details, fees, rating information, educator profiles and approved photos. We draft the subsidy and quality pages from official sources for your review."],
       ["Build on staging", "We build on a private link, test tour booking and waitlist links on phones, and check speed and accessibility."],
       ["Director approval and launch", "Your director signs off every page. We set up redirects, Search Console and analytics, then launch in your hosting account."],
-      ["Five months of care", "Free maintenance covers rating updates, fee changes and fixes. Afterwards you can self-manage or keep a monthly plan."],
+      ["Two months of care", "Free maintenance covers rating updates, fee changes and fixes. Afterwards you can self-manage or keep a monthly plan."],
     ],
   },
   faqHeading: "Childcare website design: questions centres ask",
@@ -428,12 +428,12 @@ const content: FreelanceContent = {
     { question: "When can we talk to you from Australia?", answer: "Our morning is your early afternoon. India is four and a half hours behind Sydney and Melbourne in standard time and five and a half in daylight saving, four and a half behind Brisbane all year, and two and a half behind Perth. Many directors find rest time is a good moment for a short call." },
     { question: "How do we pay you?", answer: "Quotes and invoices are in USD and issued from India. Payment is by Wise, bank wire or PayPal, following the schedule written into your quote, and nothing is billed until you approve it in writing. For how the expense is treated in your accounts, please speak with your accountant." },
     { question: "Who owns our childcare website?", answer: "Your service owns the domain, hosting, code, analytics and Google Business Profile, all set up in its name with every login handed over at launch. Your enrolment platform stays under your own account. If you change developers later, the new one can take over using the documentation we provide." },
-    { question: "Can our director update vacancies and fees without help?", answer: "Yes. We set up simple editing for vacancies, fees, hours, closures, news and educator profiles, and record a short walkthrough video. Structural changes or new page types are easier for us, and small edits are included during the five free months of maintenance." },
+    { question: "Can our director update vacancies and fees without help?", answer: "Yes. We set up simple editing for vacancies, fees, hours, closures, news and educator profiles, and record a short walkthrough video. Structural changes or new page types are easier for us, and small edits are included during the two free months of maintenance." },
     { question: "Will our centre show up in Google for “childcare near me”?", answer: `Map results decide many of those searches, so your Google Business Profile matters as much as the site. We build a fast site with clear suburb, hours and rating details and structured data. Nobody can guarantee rankings; ongoing local search work starts at ${P.seo} a month.` },
     { question: "How do AI assistants decide which childcare centres to mention?", answer: "They tend to rely on clear, consistent information that matches other sources, such as official listings and your Business Profile. A quality page, accurate hours and vacancy details, and plain answers to common questions make your centre easier to describe correctly. There are no guarantees, but clarity helps." },
     { question: "Can you build a parent communication app for our centre?", answer: `We can build Android and iOS apps from ${P.app}, but most enrolment and family communication platforms already include parent apps. We check what your current platform offers first and only recommend a custom build where it adds something your families genuinely need.` },
     { question: "Can the website support families who speak other languages?", answer: "Yes. We build multilingual pages where you supply or approve the translated copy; we write in English and do not produce native copy in other languages. Plain English throughout also helps families for whom English is a second language, and forms can include a preferred language field." },
-    { question: "What happens after the five free months?", answer: `You can manage the site yourself, move it to another developer with our documentation, or keep us on from ${P.care} a month for rating updates, fee changes, backups and security. Ongoing work is agreed in writing, and the terms and refund policy pages explain how agreements work.` },
+    { question: "What happens after the two free months?", answer: `You can manage the site yourself, move it to another developer with our documentation, or keep us on from ${P.care} a month for rating updates, fee changes, backups and security. Ongoing work is agreed in writing, and the terms and refund policy pages explain how agreements work.` },
     { question: "Do you build websites for aged care and NDIS providers too?", answer: "Yes. Care services share a need for trust, clear funding explanations and careful handling of personal information. We have separate Australian guides for aged care and NDIS provider websites, and operators running more than one type of service sometimes combine them under one group site." },
   ],
   related: {

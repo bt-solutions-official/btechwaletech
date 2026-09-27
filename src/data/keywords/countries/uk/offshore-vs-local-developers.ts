@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Named developers, no hidden subcontractors" },
     { value: "0", label: "Invoices before you approve the written quote" },
     { value: "2", label: "Working days to turn your brief into an itemised quote" },
-    { value: "5", label: "Months of free fixes after your software goes live" },
+    { value: "2", label: "Months of free fixes after your software goes live" },
   ],
   answer: {
     heading: "Offshore vs onshore software development: which should a UK business choose?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "White-label delivery for UK studios", note: "UK agencies keep the client relationship and hand build capacity to us under their brand.", href: "/uk/white-label-app-development/", size: "md" },
       { name: "Business system integrations", note: "Connecting accounting, CRM and booking tools so data stops being retyped between systems.", href: "/uk/xero-integration-developer/", size: "sm" },
       { name: "AI automation", note: `Document reading, lead triage and internal assistants that sit inside existing workflows, from ${P.ai}.`, href: "/uk/ai-automation-agency-alternative/", size: "sm" },
-      { name: "Maintenance after launch", note: `Five free months of fixes, then care from ${P.care} if you want us to keep the lights on.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Maintenance after launch", note: `Two free months of fixes, then care from ${P.care} if you want us to keep the lights on.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What offshore development costs with our team",
-    note: `Our quotes start at ${P.software} for custom web software, ${P.app} for iOS and Android apps, ${P.ai} for AI automation and ${P.site} for a business website, and every figure is a starting point that grows with scope. What moves the number: user roles, business rules, integrations, reporting, data migration and how much design you need. We quote in USD, itemised by feature and milestone, and nothing is invoiced until you approve the quote in writing. UK clients usually pay from sterling through Wise, or by bank wire or PayPal. After launch you get five months of free fixes, then optional care from ${P.care}.`,
+    note: `Our quotes start at ${P.software} for custom web software, ${P.app} for iOS and Android apps, ${P.ai} for AI automation and ${P.site} for a business website, and every figure is a starting point that grows with scope. What moves the number: user roles, business rules, integrations, reporting, data migration and how much design you need. We quote in USD, itemised by feature and milestone, and nothing is invoiced until you approve the quote in writing. UK clients usually pay from sterling through Wise, or by bank wire or PayPal. After launch you get two months of free fixes, then optional care from ${P.care}.`,
   },
   guideLabel: "Offshore vs onshore software development guide",
   guide: [
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
       ["Contract and accounts", "You approve in writing; the agreement covers IP assignment, confidentiality and the dispute route. You create repository and cloud accounts and invite us."],
       ["Trial milestone", "A short first stage, such as a clickable prototype or one integration, proves the working rhythm before most of the budget is spent."],
       ["Build in the overlap", "Morning calls or written updates, demos on staging, code pushed daily to your repository, and invoices only after you accept each milestone."],
-      ["Launch and look after", "Release to production in your account, five months of free fixes, then optional care or a full handover to a UK team."],
+      ["Launch and look after", "Release to production in your account, two months of free fixes, then optional care or a full handover to a UK team."],
     ],
   },
   faqHeading: "Offshore vs onshore software development: questions UK buyers ask",
@@ -442,7 +442,7 @@ const content: FreelanceContent = {
     { question: "Where does nearshore fit in offshore vs onshore software development for UK firms?", answer: "Nearshore teams in Europe give more shared hours and shorter travel, which helps when you need frequent live collaboration or occasional in-person workshops. Offshore teams usually cost less per feature and suit clearly scoped cloud projects with a morning overlap. Pick based on how much live time your project truly needs, not on labels." },
     { question: "What should an offshore software contract include?", answer: "At minimum: scope and milestones, acceptance criteria, payment tied to acceptance, IP assignment, confidentiality, data-protection terms if personal data is involved, change-request handling, governing law and dispute route, and an exit clause describing the handover. Ask your solicitor to review it; we work to terms agreed in your written quote." },
     { question: "How do I test an offshore team before hiring them for the full project?", answer: "Commission a paid first milestone of one to three weeks with a clear finish line, such as a clickable prototype or one integration. Check whether they asked good questions, hit their estimate, pushed readable code to your repository and gave specific updates. It costs little and tells you more than any sales call." },
-    { question: "Can an offshore team maintain software after launch?", answer: `Yes. We fix issues in our own work free for five months after launch, then offer care from ${P.care} covering updates, security patches, monitoring and small changes. Because the code sits in your repository with documentation, you can also move maintenance to a UK team later without starting over.` },
+    { question: "Can an offshore team maintain software after launch?", answer: `Yes. We fix issues in our own work free for two months after launch, then offer care from ${P.care} covering updates, security patches, monitoring and small changes. Because the code sits in your repository with documentation, you can also move maintenance to a UK team later without starting over.` },
     { question: "Will I ever meet the offshore developers in person?", answer: "Not with us. We are three freelance developers working remotely from India and do not travel to clients or keep a UK office. You meet us on Zoom, Google Meet or Teams in your morning and message us on WhatsApp seven days a week. If in-person meetings are essential, choose an onshore supplier." },
     { question: "Does offshore vs onshore software development affect SEO or site speed?", answer: "No. Search engines judge the website itself, not where its developers live. Speed, Core Web Vitals, crawlable structure and structured data depend on how the site is built and hosted. We host in a region close to your customers, and Santosh handles technical SEO. Nobody can honestly guarantee rankings, onshore or offshore." },
   ],

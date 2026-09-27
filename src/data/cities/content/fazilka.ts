@@ -56,7 +56,7 @@ const fazilka: CityContent = {
     ai: "WhatsApp assistants in Punjabi and Hindi that answer rate, size, stock and fee questions and hand real decisions to you.",
     data: "Season dashboards of kinnow boxes dispatched by market, cotton purchases, jutti orders by state and dues outstanding.",
     app: "Android and iOS apps for kinnow buyers to see available lots or for jutti retailers to re-order designs, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Fazilka businesses deal with long distances, border-area restrictions and buyers who are hundreds of kilometres away, so they value straight answers. We publish starting prices, send a written itemised quote, reply on WhatsApp every day of the week, and register your domain, hosting, code and app store accounts in your name. If something will not pay back, we say so.",
@@ -168,7 +168,7 @@ const fazilka: CityContent = {
       heading: "Ownership and maintenance for Fazilka websites and apps",
       paragraphs: [
         "In smaller towns, websites often disappear because the builder registered the domain in his own name and then moved on. We avoid that by registering the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts in your name from the first day, and handing over every login in writing.",
-        "Maintenance is free for five months after launch. That covers content and price updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can switch to another developer at any time without penalty.",
+        "Maintenance is free for two months after launch. That covers content and price updates, backups, security patches, software updates, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can switch to another developer at any time without penalty.",
         "Apps need a check every year because Google and Apple update their rules. We follow those changes and update your app in time so it is not pulled from the stores. For stores selling juttis or packaged food, we also review the size guide, shipping rates and product photos before each wedding and festival season, when traffic is highest.",
       ],
     },
@@ -265,7 +265,7 @@ const fazilka: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and accounts to another developer whenever you like, with no lock-in.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and accounts to another developer whenever you like, with no lock-in.",
     },
     {
       question: "Do you work in Abohar, Jalalabad and nearby towns?",

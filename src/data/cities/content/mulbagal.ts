@@ -57,7 +57,7 @@ const mulbagal: CityContent = {
     ai: "WhatsApp assistants that reply in Kannada, Telugu or English about rates, rooms and timings, and hand real decisions back to you.",
     data: "Daily arrival and price dashboards for vegetable traders, and milk or cocoon collection summaries by village.",
     app: "Android and iOS apps that let farmers see their daily sale slips or let pilgrim groups book rooms, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No upkeep charge for five months after launch, then from ₹8,000 a month for festival updates, backups and security fixes.",
+    maintenance: "No upkeep charge for two months after launch, then from ₹8,000 a month for festival updates, backups and security fixes.",
   },
   whyUsIntro:
     "Mulbagal runs on trust and repeat business, so we keep things plain. Starting prices are public, each quote is itemised in writing, WhatsApp is answered on all seven days, and your domain, hosting, code and store accounts are registered in your own name. When something is not worth building, we tell you.",
@@ -171,7 +171,7 @@ const mulbagal: CityContent = {
         "WhatsApp or AI automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Mandi ledger, piece-rate register or other custom software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -197,7 +197,7 @@ const mulbagal: CityContent = {
       heading: "Ownership, handover and maintenance for Mulbagal websites and apps",
       paragraphs: [
         "Everything you pay for stays yours. The domain is registered on your email, hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a sheet with every login, so no single person, including us, can lock you out.",
-        "For five months after launch, maintenance costs nothing. In that time we change rates and photos, take backups, apply security updates, and test that the WhatsApp button, forms and UPI checkout still work. After that you can stay with us from ₹8,000 a month, give the work to your own staff, or move to another developer with the code in hand.",
+        "For two months after launch, maintenance costs nothing. In that time we change rates and photos, take backups, apply security updates, and test that the WhatsApp button, forms and UPI checkout still work. After that you can stay with us from ₹8,000 a month, give the work to your own staff, or move to another developer with the code in hand.",
         "Apps need attention even when nothing is broken, because Google and Apple raise their minimum requirements every year and delist apps that fall behind. We watch those deadlines and update your app ahead of time, so your listing stays live through the next season.",
       ],
     },
@@ -275,7 +275,7 @@ const mulbagal: CityContent = {
     {
       question: "What maintenance do you provide after the website goes live?",
       answer:
-        "The first five months after launch are free: rate and photo changes, backups, security updates and regular checks that forms, WhatsApp links and UPI checkout work. After that, maintenance starts at ₹8,000 a month if you want us to continue. Since the code and accounts are already yours, switching to someone else needs nobody's permission.",
+        "The first two months after launch are free: rate and photo changes, backups, security updates and regular checks that forms, WhatsApp links and UPI checkout work. After that, maintenance starts at ₹8,000 a month if you want us to continue. Since the code and accounts are already yours, switching to someone else needs nobody's permission.",
     },
     {
       question: "Do you also work in Kolar, Srinivaspur, KGF and Palamaner?",

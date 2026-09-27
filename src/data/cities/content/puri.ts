@@ -7,7 +7,7 @@ const puri: CityContent = {
   meta: {
     title: "IT Services in Puri | Web, Apps, SEO & AI from ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp booking automation for Puri hotels, tour operators, handicraft sellers and clinics. From ₹10,000, with 5 free months of upkeep.",
+      "Websites, local SEO and WhatsApp booking automation for Puri hotels, tour operators, handicraft sellers and clinics. From ₹10,000, with 2 free months of upkeep.",
     keywords: [
       "website development team in Puri",
       "hotel website design Puri",
@@ -30,11 +30,11 @@ const puri: CityContent = {
     eyebrow: "Puri · Odisha",
     h1: "Web, app, SEO and automation services for Puri’s hotels, craft sellers and local firms",
     lede:
-      "Most people planning a trip to Puri decide where to stay, eat and shop on their phones, often weeks before they board the train. Our remote team of three engineers builds fast hotel sites, craft stores and WhatsApp booking flows at published starting prices, and maintains every site free for five months after launch.",
+      "Most people planning a trip to Puri decide where to stay, eat and shop on their phones, often weeks before they board the train. Our remote team of three engineers builds fast hotel sites, craft stores and WhatsApp booking flows at published starting prices, and maintains every site free for two months after launch.",
     pills: ["Sites from ₹10,000", "Odia, Bengali, Telugu and Hindi visitors", "Booking enquiries on WhatsApp", "Pattachitra and appliqué stores", "Your domain, your code"],
   },
   quickAnswer:
-    "A Puri business website with us starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000. Hotel booking and store builds begin from ₹50,000, custom software from ₹60,000. We are a remote three-engineer team with no office in Puri, and five months of maintenance come free after launch.",
+    "A Puri business website with us starts at ₹10,000, and a 299+ page SEO website starts at ₹20,000. Hotel booking and store builds begin from ₹50,000, custom software from ₹60,000. We are a remote three-engineer team with no office in Puri, and two months of maintenance come free after launch.",
   snapshot: [
     { label: "Economy", value: "Tourism supports roughly 80 per cent of the city’s economy" },
     { label: "Landmark", value: "Shree Jagannath Temple, begun in the 12th century, on a 10.7-acre complex" },
@@ -51,7 +51,7 @@ const puri: CityContent = {
     ai: "WhatsApp assistants that answer tariff, check-in and darshan-timing questions in several languages and pass bookings to your desk.",
     data: "Season-by-season occupancy and enquiry dashboards so hotel owners can see which months, rooms and sources actually pay.",
     app: "Android and iOS apps for guest check-in, tour bookings and staff duty rosters on ordinary phones, listed on Google Play and the App Store.",
-    maintenance: "Free updates and backups for five months after launch, then from ₹8,000 a month, with Rath Yatra and holiday peaks planned ahead.",
+    maintenance: "Free updates and backups for two months after launch, then from ₹8,000 a month, with Rath Yatra and holiday peaks planned ahead.",
   },
   whyUsIntro:
     "Puri hotels and shops pay heavy commissions to travel portals and still lose guests to rivals with better pages. We help you win more direct bookings with a site you own, publish our starting prices openly, and reply on WhatsApp every day, which matters in a town where the busiest days fall on holidays.",
@@ -72,7 +72,7 @@ const puri: CityContent = {
       heading: "Website costs for Puri hotels and shops",
       paragraphs: [
         "Our starting prices are public. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks, which suits a guest house, restaurant or shop. An SEO website with 299+ pages, with pages for every room type, nearby attraction, travel route and common question, starts at ₹20,000 and takes three to five weeks. An online store or a site with online booking and payment starts from ₹50,000, and a custom booking or property management system starts from ₹60,000.",
-        "AI and WhatsApp automation starts at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance at ₹8,000 a month after the first five free months. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "AI and WhatsApp automation starts at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance at ₹8,000 a month after the first two free months. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
         "The final figure depends on scope. A ten-room lodge with good photos is fast to build. A hotel group with three properties, four languages and a live availability calendar needs more. Every item appears in the quote, and nothing is billed before you approve it in writing.",
       ],
       list: [
@@ -166,11 +166,11 @@ const puri: CityContent = {
     },
     {
       id: "ownership-puri",
-      heading: "Your website stays yours, with five months of free care",
+      heading: "Your website stays yours, with two months of free care",
       paragraphs: [
         "Some Puri hotels have lost their websites when the person who built them kept the domain and stopped answering calls. Others discovered their site was built on an agency platform they could not leave. We set things up so neither can happen to you.",
         "The domain is registered in your name, hosting is in your account, and at launch you receive every login and a short guide to what runs where. The code is yours to keep or move to another developer at any time, with no exit fee.",
-        "For five months after launch, maintenance is free: tariff and content updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance starts at ₹8,000 a month, or you can pay only for changes you ask for. Launching before a season means your first peak is covered at no extra cost.",
+        "For two months after launch, maintenance is free: tariff and content updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance starts at ₹8,000 a month, or you can pay only for changes you ask for. Launching before a season means your first peak is covered at no extra cost.",
       ],
     },
     {
@@ -275,7 +275,7 @@ const puri: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch, we handle tariff and content updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change.",
+        "For two months after launch, we handle tariff and content updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Do you work with businesses in Konark, Pipili, Satapada and Bhubaneswar?",

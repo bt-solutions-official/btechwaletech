@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Commission we take per order", "None"],
     ["Card payouts", "Straight to your own processor account"],
     ["Typical build time", "4–8 weeks"],
-    ["Care plan", `From ${P.care} after 5 free months`],
+    ["Care plan", `From ${P.care} after 2 free months`],
   ],
   stats: [
     { value: "0", label: "Per-order commission paid to us" },
     { value: "14", label: "Allergens your menu can flag per dish" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "How can a UK takeaway get its own website with online ordering?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Kitchen tickets and alerts", note: "New orders ring on a tablet, print on a thermal printer and appear on an order screen, with estimated ready times sent to the customer.", size: "md" },
       { name: "WhatsApp and SMS updates", note: `Order confirmations and “out for delivery” messages, plus consented re-order offers, automated from ${P.ai}.`, href: "/uk/whatsapp-business-api-integration/", size: "sm" },
       { name: "Local search set-up", note: `Google Business Profile order link, menu schema and pages for the areas you deliver to, with monthly SEO from ${P.seo}.`, href: "/uk/local-seo-services/", size: "sm" },
-      { name: "Care plan", note: `Menu changes, updates and checks from ${P.care}, after five free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
+      { name: "Care plan", note: `Menu changes, updates and checks from ${P.care}, after two free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
     ],
   },
   comparison: {
@@ -294,7 +294,7 @@ const content: FreelanceContent = {
         "Google Business Profile order link pointing at your own site",
       ],
       after: [
-        `Launch on a quiet weekday, watch the first evening together on WhatsApp, and only then put the QR cards in the bags. New builds get five months of free fixes, then care from ${P.care} if you want it.`,
+        `Launch on a quiet weekday, watch the first evening together on WhatsApp, and only then put the QR cards in the bags. New builds get two months of free fixes, then care from ${P.care} if you want it.`,
       ],
     },
     {
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
       ["Your accounts, our build", "You register the domain, hosting and card processor in your own name and invite us. We model the menu and zones on a private preview link."],
       ["Test service", "You and your staff place real test orders on your own phones, try the tablet and printer, and refund a few. Feedback comes as one list."],
       ["Quiet launch", "We go live on a weekday, watch the first orders with you on WhatsApp and fix anything odd the same evening."],
-      ["Push regulars across", "QR cards, loyalty and consented messages switched on, then five months of free fixes before any care plan starts."],
+      ["Push regulars across", "QR cards, loyalty and consented messages switched on, then two months of free fixes before any care plan starts."],
     ],
   },
   faqHeading: "Takeaway website with online ordering: questions UK owners ask",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
     { question: "Will my ordering site connect to my EPOS till?", answer: "Sometimes. It depends whether your till offers an API or an import route. We check the model and its documentation before quoting and tell you plainly if it cannot be connected. If not, a separate order tablet usually works well, and many small takeaways prefer it anyway." },
     { question: "How do I get customers to use my own ordering website?", answer: "Reach them when they already have your food: a QR card in every marketplace bag with a direct-only offer, a counter sign, and your order link on Google Business Profile. Then make direct ordering easy with saved addresses, one-tap re-order and loyalty stamps. Staff mentioning it at the counter helps more than any advert." },
     { question: "Will my takeaway website rank on Google for “takeaway near me”?", answer: "Nobody can guarantee rankings. Local results depend heavily on your Google Business Profile, reviews and distance from the searcher. We set up the technical basics: fast pages, structured data for your menu and hours, pages for each delivery area and a correct order link on your profile. Monthly local SEO is available if you want ongoing work." },
-    { question: "What happens if the site goes down on a Friday night?", answer: "We set up uptime monitoring so we are alerted, and we reply on WhatsApp seven days a week. During the five free months after launch, fixes for our own work cost nothing. After that, a care plan covers checks and updates. Keep your phone line and marketplace listings live as a fallback during any outage." },
+    { question: "What happens if the site goes down on a Friday night?", answer: "We set up uptime monitoring so we are alerted, and we reply on WhatsApp seven days a week. During the two free months after launch, fixes for our own work cost nothing. After that, a care plan covers checks and updates. Keep your phone line and marketplace listings live as a fallback during any outage." },
     { question: "Can you build ordering for several takeaway branches?", answer: "Yes. One site can route orders by postcode to the nearest branch, with branch-level prices, opening hours, sold-out items and delivery zones. Each kitchen sees only its own orders, and reports show takings by branch. Payouts can go to one processor account or several, as your accountant prefers." },
     { question: "How do I pay a developer in India from the UK?", answer: "We quote in USD and invoice from India. UK takeaways usually pay from a GBP bank account through Wise, which shows the rate upfront, or by bank wire or PayPal. Payments follow the milestones in the written quote you approve, and nothing is billed before that approval. Your domain, hosting and processor fees are paid directly to those providers." },
     { question: "Can you work UK hours for a takeaway that opens in the evening?", answer: "India is 4.5 hours ahead in summer and 5.5 in winter, so your mornings and early afternoons overlap with our working day, and we reply on WhatsApp every day of the week. Big changes are planned for quiet weekdays. Urgent evening problems get a response, although our team is working late in India time." },

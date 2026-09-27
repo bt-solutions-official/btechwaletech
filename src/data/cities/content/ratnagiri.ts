@@ -56,7 +56,7 @@ const ratnagiri: CityContent = {
     ai: "Marathi WhatsApp assistants that take mango bookings, answer room and rate questions and pass custom orders to you.",
     data: "Season dashboards of boxes dispatched by city, catch and sales by boat, and room occupancy by month.",
     app: "Android and iOS apps for repeat hapus buyers to pre-book boxes, or for fish traders to share daily rates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "The mango season in Ratnagiri leaves no room for a website that fails in March. We publish starting prices, send written itemised quotes, reply on WhatsApp every day of the week and keep your domain, hosting, code and app store accounts in your name. When something is not worth doing before the season, we say so.",
@@ -177,7 +177,7 @@ const ratnagiri: CityContent = {
       heading: "Ownership and maintenance for Ratnagiri websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts are all registered in your name, and the logins are handed over in writing. If you later move to another developer, nothing is held back.",
-        "Maintenance is free for five months after launch: content and price updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. For mango stores, we suggest timing launch so the free months cover your first full season.",
+        "Maintenance is free for two months after launch: content and price updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. For mango stores, we suggest timing launch so the free months cover your first full season.",
         "Apps need yearly updates as Google and Apple change their rules. We track these and update your app in time so it stays listed.",
       ],
     },
@@ -269,7 +269,7 @@ const ratnagiri: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to carry on. You can move your code to another developer at any time.",
+        "Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to carry on. You can move your code to another developer at any time.",
     },
     {
       question: "Do you work in Ganpatipule, Chiplun and Dapoli as well?",

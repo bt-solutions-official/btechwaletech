@@ -40,7 +40,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering workflows, AI and data" },
     { value: "2", label: "Working days to an itemised automation estimate" },
-    { value: "5", label: "Months of free fixes after the automation goes live" },
+    { value: "2", label: "Months of free fixes after the automation goes live" },
     { value: "0", label: "Platform commission on the tools you choose" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Tools", value: "n8n, Make or custom code, chosen for your volume and data rules" },
       { label: "AI usage", value: "Only on steps that need reading, sorting or drafting" },
       { label: "Human role", value: "Reviews exceptions and low-confidence results" },
-      { label: "Support", value: `Five months free, then from ${P.care}` },
+      { label: "Support", value: `Two months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our AI automation projects start from ${P.ai} for one process and usually take 2 to 4 weeks. The quote grows with the number of systems, the variety of documents, how many exceptions need handling and whether the workflow must be self-hosted.`,
         `On grants: Enterprise Singapore's <a href='https://www.enterprisesg.gov.sg/financial-support/productivity-solutions-grant' rel='noopener'>Productivity Solutions Grant</a> supports pre-approved IT solutions, covering up to 50% of eligible costs for qualifying local SMEs, and it requires that you have not paid the vendor before applying. We are not a pre-approved vendor, so our prices are quoted without any grant. If a listed solution fits your process closely, the grant route may cost you less, and it is worth checking first.`,
-        `Running costs are separate and paid directly by you: the workflow tool plan or server, and AI usage billed by the model provider per request. We estimate these from your volumes before building, set spending limits, and show monthly usage in a simple report so there are no surprises. After five free months, maintenance starts from ${P.care}.`,
+        `Running costs are separate and paid directly by you: the workflow tool plan or server, and AI usage billed by the model provider per request. We estimate these from your volumes before building, set spending limits, and show monthly usage in a simple report so there are no surprises. After two free months, maintenance starts from ${P.care}.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. Workflow tool accounts, AI provider accounts, API keys and servers are registered to your organisation from the start, and we work as invited users.`,
         `At handover you receive exported workflow files, a short document per workflow describing its trigger, steps, systems and failure alerts, a list of credentials and where they are stored, and a recorded walkthrough. Your staff learn how to use the review queue and how to pause a workflow safely.`,
-        `After the five free months, you can keep us on a maintenance plan, hand the documentation to someone in-house, or both. Nothing in the set-up depends on our accounts. See our <a href='/about/'>about page</a> for who does what in the team.`,
+        `After the two free months, you can keep us on a maintenance plan, hand the documentation to someone in-house, or both. Nothing in the set-up depends on our accounts. See our <a href='/about/'>about page</a> for who does what in the team.`,
       ],
     },
     {
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
         ["Several linked workflows", P.ai, "3–6 weeks", "Leads, quotes and follow-ups end to end"],
         ["Automation inside a custom system", P.software, "6–12 weeks", "CRM or portal with built-in workflows"],
         ["Staff mobile app with automations", P.app, "6–10 weeks", "Field job sheets that trigger invoicing"],
-        ["Maintenance after five free months", P.care, "Monthly", "Monitoring, fixes, small changes"],
+        ["Maintenance after two free months", P.care, "Monthly", "Monitoring, fixes, small changes"],
       ],
     },
     {
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Estimate in writing", "You receive an itemised estimate with running-cost projections in about two working days. Nothing is billed before you approve it."],
       ["Build on test data", "The workflow is built in your accounts, tested against real samples, with a review queue for anything uncertain."],
       ["Go live and monitor", "We switch it on with alerts, spending caps and a daily heartbeat, then fix issues found in the first weeks."],
-      ["Hand over and measure", "You receive documentation and exports, plus a monthly summary of volumes and hours saved. Five months of fixes are free."],
+      ["Hand over and measure", "You receive documentation and exports, plus a monthly summary of volumes and hours saved. Two months of fixes are free."],
     ],
   },
   faqHeading: "AI automation services in Singapore: common questions",
@@ -400,11 +400,11 @@ const content: FreelanceContent = {
     { question: "Can you connect Xero with our other tools?", answer: "Yes. We use Xero's official API to create contacts, bills, invoices and payments from other systems, such as email inboxes, CRMs, forms or ecommerce stores. Tax codes and account mappings follow rules your accountant sets. For deeper Xero work, our Xero integration page covers syncing orders and payouts." },
     { question: "Can WhatsApp messages feed into our CRM automatically?", answer: "Yes, through the WhatsApp Business Platform. Incoming enquiries can create or update CRM contacts, assign an owner, set follow-up tasks and alert staff. Outgoing messages use approved templates where required. For full chatbot conversations on WhatsApp, see our WhatsApp chatbot guide for Singapore." },
     { question: "How do you measure the time saved?", answer: "We record a baseline during mapping: items per week and manual minutes per item. After launch, workflow logs show how many items passed straight through, how many needed review and how long reviews took. Hours saved equals automated items multiplied by the old handling time, minus review time, reported monthly." },
-    { question: "What happens when an automation breaks?", answer: "Each workflow sends error alerts to a named person and a daily heartbeat confirms it ran. Failed items are held, not lost, and can be reprocessed once fixed. During the first five months after launch, fixes are free; afterwards maintenance plans start from our care plan price." },
+    { question: "What happens when an automation breaks?", answer: "Each workflow sends error alerts to a named person and a daily heartbeat confirms it ran. Failed items are held, not lost, and can be reprocessed once fixed. During the first two months after launch, fixes are free; afterwards maintenance plans start from our care plan price." },
     { question: "Do we need AI agents?", answer: "Usually not at first. Agents help when the steps vary a lot between cases, such as researching a lead across several sources. Fixed processes run better as ordinary workflows: cheaper, more predictable and easier to audit. We typically add agent steps after the basic workflows are running and measured." },
     { question: "Who owns the workflows and accounts?", answer: "Your organisation. Workflow tool accounts, AI provider accounts, API keys and servers are registered in your name, and we are invited users. At handover you get exported workflow files, documentation and a walkthrough recording, and we remove our access. Nothing depends on our own accounts." },
     { question: "Will AI automation replace our admin staff?", answer: "It usually removes the retyping and chasing, not the person. Staff move to reviewing exceptions, handling customers and work that needs judgement. Many SMEs find the time saved absorbs growth without extra hiring. Any decision about roles is yours; the automation just changes where the hours go." },
-    { question: "What are the ongoing costs of AI automation?", answer: `Ongoing costs are the workflow tool plan or server, AI usage charged per request by the model provider, and optional maintenance after the five free months, from ${P.care}. We estimate running costs from your volumes before building, set spending caps and send a monthly usage summary.` },
+    { question: "What are the ongoing costs of AI automation?", answer: `Ongoing costs are the workflow tool plan or server, AI usage charged per request by the model provider, and optional maintenance after the two free months, from ${P.care}. We estimate running costs from your volumes before building, set spending caps and send a monthly usage summary.` },
     { question: "Can you automate processes in Chinese or other languages?", answer: "AI models can read and classify documents in Chinese, Malay and other languages, and workflows can route them accordingly. Our team works in English, so for customer-facing text in other languages you supply or approve the wording. We test extraction on your own multilingual samples before go-live." },
     { question: "Is a remote team in India practical for automation work?", answer: "Yes. Automation is built entirely inside cloud tools, so location matters little. India is 2.5 hours behind Singapore, giving most of your working day in overlap. You grant named access to your tools, we build and test there, and calls happen on video with written summaries." },
     { question: "How do we pay?", answer: "Estimates and invoices are in USD, issued from India. You can pay by Wise, including from an SGD balance, by international bank wire or by PayPal. The payment schedule is in your written quote, and nothing is billed until you approve the scope. Ask your accountant how to record overseas invoices." },

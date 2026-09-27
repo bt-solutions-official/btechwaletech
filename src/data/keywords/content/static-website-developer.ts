@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks"],
     ["SEO static site, 299+ pages", `From ${P.seoSite}`],
     ["Hosting", "CDN hosting in your own account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "100", label: "Pages included in the static plan" },
     { value: "2", label: "Weeks or less for most static sites" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Databases for attackers to break into" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Tools", value: "Astro, Eleventy or hand-written HTML and CSS" },
       { label: "Hosting", value: "Cloudflare Pages, Netlify, GitHub Pages or AWS, in your name" },
       { label: "Dynamic bits", value: "Forms, WhatsApp, maps, bookings via small add-ons" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Moving off WordPress or Wix", note: "Rebuild a slow or frequently hacked site as static pages, keep URLs or add redirects, and cut hosting bills.", href: "/wix-to-custom-website/", size: "md" },
       { name: "Blog on a static site", note: "Articles written in Markdown or a simple editor, published as static pages that stay fast as the archive grows.", href: "/blog-website-developer/", size: "sm" },
       { name: "Speed and Core Web Vitals", note: "Existing site failing Core Web Vitals? Static rendering is often the most direct fix for slow load times.", href: "/website-speed-optimization-freelancer/", size: "sm" },
-      { name: "Updates after launch", note: `Text changes, new pages and dependency updates; five months free, then from ${P.care} if you want ongoing help.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Updates after launch", note: `Text changes, new pages and dependency updates; two months free, then from ${P.care} if you want ongoing help.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -182,7 +182,7 @@ const content: FreelanceContent = {
       heading: "Can you edit a static website yourself?",
       paragraphs: [
         `Yes, in one of three ways, and the right one depends on how often you change content.`,
-        `If you change things a few times a year, message us; small edits are free for five months after launch and quick after that. If you update weekly, we add a lightweight content editor, such as Decap CMS or a hosted headless CMS, where you log in, change text or photos in a form, and the site rebuilds itself in a minute or two. If your team is technical, you can edit Markdown files directly in the repository.`,
+        `If you change things a few times a year, message us; small edits are free for two months after launch and quick after that. If you update weekly, we add a lightweight content editor, such as Decap CMS or a hosted headless CMS, where you log in, change text or photos in a form, and the site rebuilds itself in a minute or two. If your team is technical, you can edit Markdown files directly in the repository.`,
         `What you give up compared with WordPress is the huge plugin catalogue. For most business sites that is a benefit, not a loss, because every plugin is another thing to update and secure.`,
       ],
     },
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       heading: "Static website banwana hai? Aasaan shabdon mein",
       paragraphs: [
         `Static website ka matlab hai ki pages pehle se bane hote hain, isliye site phone par jaldi khulti hai, hack hona mushkil hota hai aur hosting ka kharcha bahut kam ya zero ho sakta hai. Dukaan, clinic, school, consultant ya hotel jaisi businesses ke liye yeh aksar sabse samajhdaar choice hai.`,
-        `Hamare saath 100 pages tak ki static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain, hosting aur code aapke naam par rehte hain, launch ke baad 5 mahine free maintenance milta hai, aur likhit manzoori ke bina koi payment nahi hota.`,
+        `Hamare saath 100 pages tak ki static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain, hosting aur code aapke naam par rehte hain, launch ke baad 2 mahine free maintenance milta hai, aur likhit manzoori ke bina koi payment nahi hota.`,
       ],
     },
     {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
         ["Static SEO site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Free or low-cost CDN tier"],
         ["WordPress or Wix to static rebuild", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks for up to 100 pages", "Replaces paid PHP hosting"],
         ["Dynamic site or web app instead", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Server and database hosting"],
-        ["Maintenance after free period", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 5 free months", "Unchanged"],
+        ["Maintenance after free period", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 2 free months", "Unchanged"],
       ],
       hideSm: [2, 4],
     },
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Domain, hosting and repository are created under your email, or you add us as users on accounts you already have."],
       ["Review on a preview link", "Every change appears on a private preview URL you can open on your phone. Comments on WhatsApp come back as updated previews."],
       ["Go live on the CDN", "We connect the domain, enable HTTPS, submit the sitemap to Google Search Console and hand over repository access and editing instructions."],
-      ["Five months of free changes", `Text edits, new pages and fixes are free for five months after launch; after that, maintenance continues from ${P.care} only if you want it.`],
+      ["Two months of free changes", `Text edits, new pages and fixes are free for two months after launch; after that, maintenance continues from ${P.care} only if you want it.`],
     ],
   },
   faqHeading: "Static website developer: questions people ask",
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
     { question: "Which technology do you use for static websites?", answer: "Mostly Astro, which outputs plain HTML and adds JavaScript only where needed, and hand-written HTML and CSS for very small sites. Other good static site generators include Eleventy, Hugo and Jekyll. The build steps are documented so another developer can take over later." },
     { question: "Can you convert my WordPress or Wix site to a static site?", answer: `Yes. We rebuild the pages as static files, keep your existing URLs or add redirects so search traffic is preserved, and move hosting to an account in your name. A rebuild of up to 100 pages falls within the static plan from ${P.site}.` },
     { question: "Will a static website work well on cheap phones?", answer: "It should work better than most alternatives. Static pages are light, need no waiting on a slow server and open even on weak mobile signals. We compress images, limit fonts and scripts, and test on a budget Android phone over mobile data before launch." },
-    { question: "Do static websites need maintenance?", answer: `Much less than database-driven sites, since there are no plugins or server software to patch. You still need domain renewals, occasional content updates and dependency updates when the site is rebuilt. Every site gets five months of free maintenance, then optional care from ${P.care}.` },
+    { question: "Do static websites need maintenance?", answer: `Much less than database-driven sites, since there are no plugins or server software to patch. You still need domain renewals, occasional content updates and dependency updates when the site is rebuilt. Every site gets two months of free maintenance, then optional care from ${P.care}.` },
     { question: "Can a static website have a blog?", answer: "Yes. Posts are written in a simple editor or Markdown and published as static pages, so the blog stays fast as it grows to hundreds of articles. Categories, tags, RSS and in-browser search can all be generated at build time." },
     { question: "Can a static website be in Hindi or other Indian languages?", answer: "Yes. We publish separate language versions such as Hindi and English, or a regional language like Tamil or Marathi, with proper language tags so search engines show the right version. Fonts are chosen to display Indian scripts clearly without slowing the page." },
     { question: "Who owns the static website after it is built?", answer: "You do. The domain, hosting account and code repository are in your name from the start. At handover you receive repository access, editing instructions and a list of renewal dates. Because the site is just files, you can move it to another host or developer at any time." },

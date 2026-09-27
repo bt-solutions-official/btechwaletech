@@ -38,17 +38,17 @@ const content: FreelanceContent = {
     ["Pages included", "Up to 100 in the static plan"],
     ["Domain", "Registered in your name"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free updates and fixes"],
+    ["After launch", "2 months of free updates and fixes"],
   ],
   stats: [
     { value: "100", label: "Pages allowed in the static plan" },
     { value: "3", label: "Developers who can update your site" },
-    { value: "5", label: "Months of free changes after launch" },
+    { value: "2", label: "Months of free changes after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
     heading: "What does a portfolio website developer charge, and what do you get?",
-    text: `A portfolio website developer builds a fast site on your own domain that shows your best work as galleries or case studies, with an about page, résumé and contact options. With BtechWaleTech, a portfolio built on our static plan starts at ${P.site} (${P.siteUsd} abroad), takes 1–2 weeks, and includes five months of free updates, so you can add new projects without paying extra.`,
+    text: `A portfolio website developer builds a fast site on your own domain that shows your best work as galleries or case studies, with an about page, résumé and contact options. With BtechWaleTech, a portfolio built on our static plan starts at ${P.site} (${P.siteUsd} abroad), takes 1–2 weeks, and includes two months of free updates, so you can add new projects without paying extra.`,
     more: `If you are a doctor, lawyer or consultant rather than a creative, <a href='/personal-website-developer/'>personal website developer</a> fits better; designers may also like <a href='/freelance-web-designer/'>freelance web designer</a>.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "1–2 weeks after you share your work" },
       { label: "Selling prints or presets", value: `Online store from ${P.shop}` },
       { label: "Domain and hosting", value: "In your name; static hosting is low cost" },
-      { label: "Updates", value: "Free for five months, then optional" },
+      { label: "Updates", value: "Free for two months, then optional" },
       { label: "Maintenance later", value: `From ${P.care} a month, if you want it` },
     ],
   },
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Portfolio quotes vary widely between freelancers and studios. The difference usually comes from how custom the design is, how many images need handling, whether case study writing is included, and what support follows launch.`,
         `With BtechWaleTech, most portfolios fall under the static plan, from ${P.site} for up to 100 pages, and take 1–2 weeks. If you want to sell prints, presets, templates or courses from the same site, the ecommerce plan starts at ${P.shop}. A booking system with calendar and deposits is scoped as a custom web app from ${P.software}, though a simple enquiry form is enough for most photographers. Monthly SEO for creatives who want local search enquiries starts at ${P.seo}.`,
-        `Running costs are small. Static hosting is inexpensive, and you pay the domain renewal to the registrar each year yourself. After five months of free updates, maintenance is optional from ${P.care}.`,
+        `Running costs are small. Static hosting is inexpensive, and you pay the domain renewal to the registrar each year yourself. After two months of free updates, maintenance is optional from ${P.care}.`,
       ],
       after: [`A general breakdown of website pricing is on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`],
     },
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
         `A portfolio that stops at launch goes stale fast. Plan how updates happen before the build starts.`,
       ],
       subs: [
-        { heading: "We update it for you", text: "Send new images and a few lines on WhatsApp; we add the project. Free for the first five months, then part of optional maintenance from " + P.care + "." },
+        { heading: "We update it for you", text: "Send new images and a few lines on WhatsApp; we add the project. Free for the first two months, then part of optional maintenance from " + P.care + "." },
         { heading: "You update it yourself", text: "A simple content dashboard lets you add projects, images and blog posts without touching code. Adds a line to the quote but saves messages later." },
         { heading: "Mixed", text: "You post blog updates and small text edits; we handle new page layouts and larger galleries." },
       ],
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
         `This is a hypothetical example to show how a portfolio project can be scoped; it is not a real client.`,
         `A wedding photographer in a tier-2 city gets most enquiries through Instagram but loses bookings to studios with proper websites. The brief: show twelve weddings, highlight pre-wedding shoots, and collect enquiries with date and venue.`,
         `We would propose the static plan, starting at ${P.site}. The home page opens with a single strong image and a line such as “Candid wedding photography across the state”. Below come six featured weddings, each linking to an album page with a short story, the venue city and 30 to 40 optimised images. A packages page gives “starting from” ranges set by the photographer. The enquiry form asks for date, city, guest count and budget band, and a WhatsApp button opens a prefilled message. Titles and descriptions mention wedding photography and the cities covered. Client galleries are protected by password and hidden from search.`,
-        `After launch, the photographer sends a new album on WhatsApp each month and we add it free for five months.`,
+        `After launch, the photographer sends a new album on WhatsApp each month and we add it free for two months.`,
       ],
     },
     {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Register your domain", "We set up the domain and hosting in your name together, with email on your domain if you want it."],
       ["See the home page first", "Your home page and one gallery or case study go up on a private link so you can judge the direction on your phone."],
       ["Fill, polish and test", "All projects are added, images optimised, titles and previews set, and the site tested on several phones and browsers."],
-      ["Launch and keep it fresh", "We go live, hand over code and logins, and add new work free for five months; after that, maintenance is from " + P.care + "."],
+      ["Launch and keep it fresh", "We go live, hand over code and logins, and add new work free for two months; after that, maintenance is from " + P.care + "."],
     ],
   },
   faqHeading: "Portfolio website developer: frequently asked questions",
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "Do I need a portfolio website if I have Instagram or Behance?", answer: "Keep those profiles for discovery, but a website of your own helps convert interest into work. It shows only your projects, in your order, on your domain, and can rank for your name and service on Google. Platforms can change reach or rules at any time; your site stays under your control." },
     { question: "What should I put on my portfolio website?", answer: "Include a clear line on what you do, your 8 to 20 strongest projects as galleries or case studies, a short about section with a real photo, a services or rates hint if you want enquiries, and simple contact options. Job seekers should add a web résumé, a PDF download and links to GitHub or Behance." },
     { question: "Can you build a photography portfolio that loads fast?", answer: "Yes. We export images in several sizes and modern formats like WebP or AVIF, load off-screen images only as the visitor scrolls, keep gallery scripts light and prioritise the first image. That keeps pages sharp on large screens and quick on phones using mobile data." },
-    { question: "Can I update my portfolio myself?", answer: "Yes, if you want. We can add a simple content dashboard so you can upload projects and write posts without code. Alternatively, send new work on WhatsApp and we add it for you, free for the first five months after launch and afterwards through optional maintenance." },
+    { question: "Can I update my portfolio myself?", answer: "Yes, if you want. We can add a simple content dashboard so you can upload projects and write posts without code. Alternatively, send new work on WhatsApp and we add it for you, free for the first two months after launch and afterwards through optional maintenance." },
     { question: "Should my portfolio domain be my name?", answer: "Usually yes. Your full name, or your name plus your craft, is easy to remember and builds recognition over time. Choose .com or .in where available, avoid hyphens and numbers, register it in your own name with auto-renewal switched on, and add an email address on the same domain." },
     { question: "Will a portfolio website help me get found on Google?", answer: "It can help with searches for your name and, with enough descriptive text, for your service in your city. That needs clear titles, descriptive project text, image alt text and Person schema. Rankings build over months and depend on competition, and nobody can guarantee a position." },
     { question: "Is a portfolio website useful for job seekers and students?", answer: "Yes, especially for design, development, data, media and writing roles. A one-link portfolio lets recruiters see real projects quickly. It supports your résumé rather than replacing it, since tracking systems read the résumé file. Students applying abroad can also use it for admissions that ask for samples." },
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Is a template builder good enough for a portfolio?", answer: "For someone starting out, often yes. Builders are quick and cheap at first. The downsides appear later: monthly fees, layouts shared by many others, limited speed tuning and a site you rent rather than own. A custom build suits creatives whose work already brings steady enquiries." },
     { question: "Do you design the portfolio or just code it?", answer: "Both. We plan the structure, choose type and layout to suit your work, and then build it. If you are a designer with your own layout ready in Figma, we can build it exactly as designed and advise only where something would hurt speed or mobile use." },
     { question: "Can architects show plans and 3D renders on a portfolio site?", answer: "Yes. Project pages can combine plans, renders, sketches and completed photographs, with filters by project type. Large drawings are shown as zoomable images rather than heavy PDFs, and walkthrough videos are embedded from a video host so the site stays fast." },
-    { question: "Portfolio website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath portfolio website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Kharcha pages, photos ki sankhya aur extra features par depend karta hai. Domain aapke naam par hoga, aur launch ke baad 5 mahine tak naya kaam free mein add karte hain.` },
+    { question: "Portfolio website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath portfolio website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Kharcha pages, photos ki sankhya aur extra features par depend karta hai. Domain aapke naam par hoga, aur launch ke baad 2 mahine tak naya kaam free mein add karte hain.` },
     { question: "Do you build portfolios for clients outside India?", answer: `Yes. The process is fully remote, so creatives in the USA, UK, UAE, Australia and elsewhere work with us the same way. Portfolios start at ${P.siteUsd}, reviews happen on a private link, and payments go through Wise, bank wire or PayPal.` },
   ],
   related: {
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to show your work properly? Send us your best projects",
-    note: `Share a folder of your strongest work on WhatsApp. You will get an itemised quote in about two working days, with portfolios starting at ${P.site}, the domain in your name and five months of free updates after launch.`,
+    note: `Share a folder of your strongest work on WhatsApp. You will get an itemised quote in about two working days, with portfolios starting at ${P.site}, the domain in your name and two months of free updates after launch.`,
   },
 };
 

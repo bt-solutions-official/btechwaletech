@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Main channel", "WhatsApp, with calls on Google Meet or Zoom"],
     ["Time zone", "IST (UTC+5:30), overlap planned per client"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who all know your project" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "SEO website, 299+ pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Web app or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Payments", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Upkeep", value: `5 months free after launch, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free after launch, then from ${P.care}` },
     ],
   },
   services: {
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
       heading: "Remote developer ke saath kaam kaise hota hai? Simple bhasha mein",
       paragraphs: [
         `Aapko developer se milne ki zaroorat nahi padti. Pehle WhatsApp par apni zaroorat bataiye, do working days mein itemised quote milta hai. Approve karne ke baad ek staging link milta hai jahan aap apni website banti hui dekh sakte hain, apne phone par.`,
-        `Har working day ek chhota update aata hai: kya hua, aage kya hoga, aapse kya chahiye. Zaroorat ho toh chhoti video call. Domain aur hosting aapke naam par rehte hain. Simple website ${P.site} se shuru hoti hai aur launch ke baad 5 mahine maintenance free hai.`,
+        `Har working day ek chhota update aata hai: kya hua, aage kya hoga, aapse kya chahiye. Zaroorat ho toh chhoti video call. Domain aur hosting aapke naam par rehte hain. Simple website ${P.site} se shuru hoti hai aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
         ["Online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks"],
         ["Custom web app", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
         ["Android & iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
       ["Kickoff and cadence", "A short video call fixes the update rhythm, the decision channel and overlap hours. We guide you through creating the domain, hosting and repository in your name."],
       ["Build on staging", "Pages appear on a private staging link as they are built. You review on your own phone and send numbered comments; changes show up on the same link."],
       ["Launch checklist", "Domain connected, SSL on, forms tested, Search Console verified and sitemap submitted. A short call walks you through the handover sheet and every login."],
-      ["Free upkeep, then optional", "For five months after launch, small edits and fixes are free and tested on staging first. Afterwards, maintenance continues from " + P.care + " only if you want it."],
+      ["Free upkeep, then optional", "For two months after launch, small edits and fixes are free and tested on staging first. Afterwards, maintenance continues from " + P.care + " only if you want it."],
     ],
   },
   faqHeading: "Remote web developer in India: questions people ask",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Can a remote web developer also handle SEO?", answer: `Technical SEO basics belong in every build: titles, descriptions, clean URLs, schema, sitemap, speed and Search Console setup. Ongoing SEO is a separate monthly service, starting at ${P.seo} with BtechWaleTech. Nobody, remote or local, can honestly guarantee a ranking, so treat any such promise as a warning sign.` },
     { question: "Can I hire a remote web developer in India from the USA or UK?", answer: `Yes. Clients abroad work with BtechWaleTech the same way as Indian clients: written updates, staging links and calls in agreed overlap hours. Billing is in USD, with a static site starting at ${P.siteUsd}, and payment goes through Wise, bank wire or PayPal. Accounts are set up in your name from the start.` },
     { question: "How do I give feedback to a remote developer without confusion?", answer: "Number your comments, attach a screenshot or short screen recording for each, and send them in one message rather than many. Say which device and browser you used. Mention what you want, not just what feels wrong. Clear, batched feedback often halves the number of revision rounds on a remote project." },
-    { question: "Will a remote developer maintain my site after launch?", answer: `BtechWaleTech includes five months of free maintenance after launch for small edits, fixes and updates, each tested on staging before going live. After that, maintenance is optional and starts at ${P.care}. You can also manage the site yourself or bring in another developer, since everything is in your name.` },
+    { question: "Will a remote developer maintain my site after launch?", answer: `BtechWaleTech includes two months of free maintenance after launch for small edits, fixes and updates, each tested on staging before going live. After that, maintenance is optional and starts at ${P.care}. You can also manage the site yourself or bring in another developer, since everything is in your name.` },
     { question: "Can the same remote team build an app for my business?", answer: `Yes. BtechWaleTech builds Android and iOS apps with Flutter or React Native from ${P.app}, published under your own Play Console and App Store Connect accounts. Test builds reach your phone through internal testing tracks and TestFlight, so you review an app remotely the same way you review a website on staging.` },
     { question: "Remote developer se website banwana sahi hai kya?", answer: `Haan, agar domain aur hosting aapke naam par ho, payment stages mein ho aur aapko staging link mile. Aap apne phone par website banti hui dekh sakte hain aur WhatsApp par feedback de sakte hain. BtechWaleTech ke saath simple website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai.` },
   ],
@@ -447,7 +447,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a remote web developer who keeps you in the loop?",
-    note: `Message us on WhatsApp with what your website should do. You will get an itemised quote in about two working days, a staging link once work starts, accounts in your name and five months of free maintenance after launch. Websites start at ${P.site}.`,
+    note: `Message us on WhatsApp with what your website should do. You will get an itemised quote in about two working days, a staging link once work starts, accounts in your name and two months of free maintenance after launch. Websites start at ${P.site}.`,
   },
 };
 

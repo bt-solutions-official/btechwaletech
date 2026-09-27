@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Own booking system", `From ${P.software}`],
     ["Gift vouchers and online shop", `From ${P.shop}`],
     ["Monthly local SEO", `From ${P.seo}`],
-    ["Free care after launch", "5 months"],
+    ["Free care after launch", "2 months"],
   ],
   stats: [
     { value: "14", label: "Allergens the menu pages are structured to signpost" },
     { value: "3", label: "Freelance developers: design, build and local search" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes and menu edits after launch" },
+    { value: "2", label: "Months of free fixes and menu edits after launch" },
   ],
   answer: {
     heading: "What does a UK restaurant website need to fill tables?",
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Menu data and design", "We turn menus into structured data, agree allergen markers with your kitchen and send homepage and menu designs for comment on a preview link."],
       ["Build and connect", "Pages built, booking widget placed in the header and under menus, private dining form connected, Google profile links prepared."],
       ["Kitchen and front-of-house check", "Your chef confirms allergen data and your manager tests bookings on their phone. We fix anything before launch."],
-      ["Launch and care", "Site goes live on your hosting, profile menu and reservation links updated, and five months of free fixes and menu edits begin."],
+      ["Launch and care", "Site goes live on your hosting, profile menu and reservation links updated, and two months of free fixes and menu edits begin."],
     ],
   },
   faqHeading: "Restaurant website design UK: questions owners ask",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "How do restaurants rank higher on Google Maps?", answer: "Map rankings depend on relevance, distance and prominence. Choose accurate categories, keep hours correct, add a menu and reservation link, post fresh photos and ask diners for reviews without offering anything in return, which Google's policy prohibits. The website supports this with text menus, location details and structured data. Nobody can guarantee a map position." },
     { question: "Can you build a website for a café that does not take bookings?", answer: "Yes. A café site focuses on the menu, opening hours, location, dietary options and perhaps catering or cake orders. Where a booking button would go, we state the walk-in policy clearly, so visitors do not search for a booking option that does not exist. Many café sites fit comfortably within the starting price." },
     { question: "Can the site handle several restaurant locations?", answer: `Yes. Each location gets its own page with hours, menu, booking link and map, all fed from shared data so common dishes and prices stay consistent. Groups with many venues and seasonal menus may need a larger structure from ${P.seoSite}. Each location should also have its own Google Business Profile.` },
-    { question: "What happens after launch?", answer: `You get five months of free fixes and small edits, including menu changes. After that, a care plan starts at ${P.care}, or your team can manage menus yourselves through the editor. Monthly local search work, covering Google profile updates and review replies, starts at ${P.seo}.` },
+    { question: "What happens after launch?", answer: `You get two months of free fixes and small edits, including menu changes. After that, a care plan starts at ${P.care}, or your team can manage menus yourselves through the editor. Monthly local search work, covering Google profile updates and review replies, starts at ${P.seo}.` },
     { question: "Do you also build takeaway ordering websites?", answer: "Yes, but that is a different brief with its own rules on allergen information before purchase and on delivery. Our takeaway online ordering website page covers ordering, delivery zones and commission-free checkout. Many restaurants combine both: bookings for the dining room and ordering for collection or delivery." },
   ],
   related: {

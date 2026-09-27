@@ -56,7 +56,7 @@ const bhongir: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer price, stock, admission and appointment questions and hand real decisions to you.",
     data: "Dashboards of orders, dispatches, dues and admissions that an owner can check on a phone between Bhongir and Hyderabad.",
     app: "Android and iOS apps for junior colleges sending test results or for dealers taking re-orders from shops across the district, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Bhongir owners often compare us with Hyderabad agencies an hour away. We publish starting prices, send itemised written quotes, reply on WhatsApp every day, and register your domain, hosting, code and store accounts in your own name. When a feature will not pay for itself, we say so before you spend on it.",
@@ -168,7 +168,7 @@ const bhongir: CityContent = {
       heading: "Ownership and maintenance for Bhongir websites and apps",
       paragraphs: [
         "Everything we build for you is in your name. The domain is registered on your email, hosting is billed to you, the full source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you get a written list of every login, so nobody, including us, can lock you out.",
-        "Maintenance is free for the first five months after launch. We update prices and photographs, keep backups, apply security and version patches, and check that forms, payments and WhatsApp links still work. After that you decide whether to continue with us from ₹8,000 a month, look after it in-house, or hand the code to another developer.",
+        "Maintenance is free for the first two months after launch. We update prices and photographs, keep backups, apply security and version patches, and check that forms, payments and WhatsApp links still work. After that you decide whether to continue with us from ₹8,000 a month, look after it in-house, or hand the code to another developer.",
         "Apps need a yearly update even when nothing is broken, because Google and Apple raise their minimum requirements every year. We track those deadlines and ship the update early, so your app is never removed for being out of date. Our <a href=\"/services/web-development/\">web development page</a> covers the handover in more detail.",
       ],
     },
@@ -260,7 +260,7 @@ const bhongir: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: updates to prices and photographs, backups, security patches and checks on forms, payments and WhatsApp links. After that, continue with us from ₹8,000 a month, manage it yourself, or move to another developer. Since the code and accounts are yours, no permission is needed.",
+        "The first two months after launch are free: updates to prices and photographs, backups, security patches and checks on forms, payments and WhatsApp links. After that, continue with us from ₹8,000 a month, manage it yourself, or move to another developer. Since the code and accounts are yours, no permission is needed.",
     },
     {
       question: "Do you also work in Bibinagar, Yadagirigutta and Choutuppal?",

@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Build time", "2–4 weeks with calculators"],
     ["CRS maximum used", "1,200 points, as published by IRCC"],
     ["Quote", "Itemised, about 2 working days"],
-    ["Free care", "5 months after launch"],
+    ["Free care", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers you talk to directly" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How should immigration consultant website design generate qualified leads?",
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a consultancy site starts at ${P.site} (about ${P.siteUsd}) for up to 100 pages, which covers country hubs, programme pages, trust pages and a basic assessment form. Calculators, lead scoring and CRM automation are usually quoted from ${P.ai}. Other designers price these very differently, so compare scope line by line.`,
         `The big cost drivers are not visual. They are the number of programme pages you want written and maintained, the depth of calculator logic, how many languages the site runs in, whether consultations are booked and paid online, and whether several branches each need their own pages and lead routing. A single-destination consultant with ten programme pages is a small project; a five-branch office covering six countries in three languages is a larger one.`,
-        `A consultancy targeting hundreds of programme and city combinations may fit our SEO website plan from ${P.seoSite}, built for 299 or more pages. Ongoing SEO, mostly policy-update articles and new programme pages, starts at ${P.seo}. After five free months, maintenance starts at ${P.care}. The full list is on our <a href='/pricing/'>pricing page</a>.`,
+        `A consultancy targeting hundreds of programme and city combinations may fit our SEO website plan from ${P.seoSite}, built for 299 or more pages. Ongoing SEO, mostly policy-update articles and new programme pages, starts at ${P.seo}. After two free months, maintenance starts at ${P.care}. The full list is on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -335,7 +335,7 @@ const content: FreelanceContent = {
         ["Large programme and city page network", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Multi-country, multi-branch consultancies"],
         ["Client portal with document uploads and status", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Consultancies managing many open files"],
         ["Monthly SEO and policy updates", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Keeping programme pages current"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Updates, backups, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Updates, backups, small changes"],
       ],
       hideSm: [2],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Agree the scoring rules", "We draft the assessment questions and score bands; you adjust them so the output matches how your senior counsellor judges a profile."],
       ["Review on a private link", "Templates, forms and first programme pages go live on a preview you can test from any phone, including test submissions into your CRM."],
       ["Launch and verify", "We check every form path, WhatsApp alert, redirect and register link, set up Search Console, then switch the domain."],
-      ["Update as rules change", "Five months of free maintenance follow launch, with the scope written into your quote; optional care continues afterwards."],
+      ["Update as rules change", "Two months of free maintenance follow launch, with the scope written into your quote; optional care continues afterwards."],
     ],
   },
   faqHeading: "Immigration consultant website design: frequently asked questions",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Is a freelance team suitable for building an immigration consultancy website?", answer: "For most consultancies, yes. The work is a well-structured site with forms, calculators and integrations, which a small experienced team handles well. You speak directly to the three developers doing the work. If you need a huge case-management platform with dozens of integrations, we will tell you honestly whether that fits a freelance team." },
     { question: "Can you run Google and Meta ad landing pages for immigration services?", answer: "We build the landing pages and connect them to the same scored assessment and CRM, so ad leads can be compared with organic ones by quality, not just count. We do not manage ad spend. Google and Meta each apply their own advertising policies, so check the current rules for your category before launching, and keep guarantees out of the copy either way." },
     { question: "Do I own the website, domain and lead data?", answer: "Yes. The domain, hosting, CRM account and analytics are opened in your name, and the code is handed over at launch. All lead data sits in your accounts, not ours. We work through access you grant and return every login at handover. Payments are by UPI or bank transfer in India, or Wise, wire or PayPal from abroad." },
-    { question: "What is included in the five months of free maintenance?", answer: `Maintenance is free for five months after launch, and your written quote lists exactly what it covers, typically fixes and small updates to existing pages. Larger work, such as new calculators or new country sections, is quoted separately. After that, maintenance is optional from ${P.care}, or you can manage the site yourself or hire anyone else, since you own everything.` },
+    { question: "What is included in the two months of free maintenance?", answer: `Maintenance is free for two months after launch, and your written quote lists exactly what it covers, typically fixes and small updates to existing pages. Larger work, such as new calculators or new country sections, is quoted separately. After that, maintenance is optional from ${P.care}, or you can manage the site yourself or hire anyone else, since you own everything.` },
     { question: "Can you add a study visa section to an immigration consultant website?", answer: "Yes, but keep it structurally separate, because students search and decide differently: they follow intake deadlines, course choices and university partners rather than points scores. A clear student section or sister site with its own course finder and counselling booking usually converts better. Our study abroad consultant website guide explains that funnel." },
     { question: "Immigration consultant ki website banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath immigration consultant website ${P.site} se start hoti hai, jisme country pages, visa-type pages, licence details aur enquiry form aate hain. CRS calculator, scored assessment aur CRM automation ${P.ai} se start hote hain. Itemised quote lagbhag do working days me milta hai, aur approval se pehle koi billing nahi hoti.` },
   ],
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for an immigration consultant website design that screens leads before you call?",
-    note: `Send us your destinations, visa types and registrations on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with every account in your name and five months of free maintenance after launch.`,
+    note: `Send us your destinations, visa types and registrations on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with every account in your name and two months of free maintenance after launch.`,
   },
 };
 

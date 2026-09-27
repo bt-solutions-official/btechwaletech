@@ -56,7 +56,7 @@ const kasaragod: CityContent = {
     ai: "WhatsApp helpers that reply in Malayalam, Kannada or English about rates, room availability and timings, and hand real decisions to you.",
     data: "Monthly views of bookings by season, produce bought per grower, sales by product and dues outstanding.",
     app: "Android and iOS apps for resort guests, school parents or repeat produce buyers, from ₹40,000, released on Google Play and the App Store.",
-    maintenance: "Free upkeep for the first five months after launch, then ₹8,000 a month onwards for edits, backups and security work.",
+    maintenance: "Free upkeep for the first two months after launch, then ₹8,000 a month onwards for edits, backups and security work.",
   },
   whyUsIntro:
     "Many Kasaragod owners run their business while a brother or son manages it from Dubai or Doha, so clarity matters more than meetings. Our entry prices are public, each quote is split into items, WhatsApp is answered every day, and every login is registered in your name. When a feature is not worth its cost, we say that before you pay.",
@@ -184,7 +184,7 @@ const kasaragod: CityContent = {
       heading: "Ownership and maintenance for Kasaragod websites and apps",
       paragraphs: [
         "All of it is registered to you: domain under your email, hosting billed to you, complete source code shared, and the Google Business Profile, Play Console and Apple developer accounts in your name. A handover document lists every login so that the business, not any single person, controls them.",
-        "For five months after launch we look after updates at no charge: new photos and rates, festive offers, backups, security patches and checks that booking forms and payments still work. After that, maintenance continues from ₹8,000 a month if you want us, or you can take it in-house or to any other developer.",
+        "For two months after launch we look after updates at no charge: new photos and rates, festive offers, backups, security patches and checks that booking forms and payments still work. After that, maintenance continues from ₹8,000 a month if you want us, or you can take it in-house or to any other developer.",
         "Apps also need yearly updates as Google and Apple raise their minimum standards; we schedule them before the deadline so the app is never pulled during the tourist season.",
       ],
     },
@@ -276,7 +276,7 @@ const kasaragod: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "Five months of maintenance are free: we update photos, rates and offers, take backups, apply security patches and check forms and payments. After that, you can continue with us from ₹8,000 a month or manage it yourselves. Because code and accounts are already in your name, you can move to anyone without asking us.",
+        "Two months of maintenance are free: we update photos, rates and offers, take backups, apply security patches and check forms and payments. After that, you can continue with us from ₹8,000 a month or manage it yourselves. Because code and accounts are already in your name, you can move to anyone without asking us.",
     },
     {
       question: "Do you work in Uppala, Kanhangad and Mangaluru too?",

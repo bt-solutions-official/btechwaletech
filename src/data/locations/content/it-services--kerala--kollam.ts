@@ -40,10 +40,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Kollam for custom apps, AI automation and IT support",
     lede:
       "BtechWaleTech is a freelance group of three engineers, working remotely from India, that Kollam firms hire instead of a software development team in Kollam. We build order systems, export paperwork tools, booking apps, WhatsApp automations and reporting dashboards for Kollam companies. Websites and SEO are part of the work, but the main job is replacing the registers, spreadsheets and phone chains that slow a growing firm down.",
-    pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Export and processing tools", "Malayalam-ready interfaces", "5 months free maintenance"],
+    pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Export and processing tools", "Malayalam-ready interfaces", "2 months free maintenance"],
   },
   quickAnswer:
-    "Comparing a software development team in Kollam with freelancers? BtechWaleTech is a freelance group of three remote engineers in India. Custom web apps start at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation from ₹40,000, and websites from ₹10,000. You get an itemised quote in about two working days and five months of free maintenance after launch.",
+    "Comparing a software development team in Kollam with freelancers? BtechWaleTech is a freelance group of three remote engineers in India. Custom web apps start at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation from ₹40,000, and websites from ₹10,000. You get an itemised quote in about two working days and two months of free maintenance after launch.",
   snapshot: [
     { label: "Signature industry", value: "Cashew processing and export, with processing units spread across the district and a long export history" },
     { label: "Coastal economy", value: "Neendakara and Sakthikulangara fishing harbours, seafood processing and the mineral sands belt at Chavara" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp flows that answer rate enquiries, collect orders and send reminders in Malayalam or English around the clock.",
     data: "Dashboards that show daily production, stock by grade, receivables and export shipments, pulled from Tally or your spreadsheets.",
     app: "Android and iOS apps for Kollam cashew and seafood buyers, harbour agents, clinics and schools, built once in Flutter or React Native, from ₹40,000.",
-    maintenance: "Hosting, backups, security updates and bug fixes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Hosting, backups, security updates and bug fixes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Kollam has fewer software firms than Kochi or Technopark, so many businesses here either wait for a Kochi agency to find time or hand work to a relative who knows some code. We sit between the two: working engineers, written quotes, and every login handed back to you.",
@@ -153,7 +153,7 @@ const content: CityContent = {
       paragraphs: [
         "Every system we build is deployed on reliable cloud hosting with automatic backups, HTTPS, monitoring and a clear record of who holds which login. Many small firms in Kollam have lost data because the only copy of the billing software lived on a single office computer, or a previous developer hosted the website on a personal account and then disappeared.",
         "Our usual stack is Next.js or Astro for the front end, Node.js or Python for the backend, PostgreSQL for data, AWS or a comparable cloud for hosting, and n8n with the WhatsApp Business API for automations. We set up hosting in your name, or transfer it to you at handover. Databases are backed up on a schedule, and we test that backups actually restore. Deployments are scripted, so updates go live in minutes with the option to roll back. For businesses that must keep some data on premises, such as a local billing server in a processing unit, we can connect it securely to cloud dashboards rather than forcing a full migration.",
-        "Kerala's monsoon brings power cuts and connectivity drops, so we design apps to fail gracefully: forms that keep entries if the network drops, and pages that load on slow mobile data. Uptime checks alert us if something goes down. Hosting, deployment and the first five months of maintenance are included with every project, so you are not left to figure out servers alone.",
+        "Kerala's monsoon brings power cuts and connectivity drops, so we design apps to fail gracefully: forms that keep entries if the network drops, and pages that load on slow mobile data. Uptime checks alert us if something goes down. Hosting, deployment and the first two months of maintenance are included with every project, so you are not left to figure out servers alone.",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "support-after-launch-kollam",
       heading: "IT support and maintenance after your Kollam system goes live",
       paragraphs: [
-        "After launch, every project includes five months of free maintenance covering bug fixes, content updates, security patches, backups and uptime checks. After that, support continues from ₹8,000 a month, or you can simply contact us when you need a change and pay for that work alone.",
+        "After launch, every project includes two months of free maintenance covering bug fixes, content updates, security patches, backups and uptime checks. After that, support continues from ₹8,000 a month, or you can simply contact us when you need a change and pay for that work alone.",
         "Software is never finished on day one. Staff find shortcuts they want, owners ask for one more report, a courier changes its API or a tax rule changes. Our support covers those small adjustments quickly. Larger additions, such as a new module for a second factory, are quoted separately so costs remain clear.",
         "Because we are a remote team, support happens over WhatsApp, phone and screen share, seven days a week. We do not have an office in Kollam and do not pretend to; what we offer is quick replies from the engineers who built your system. If you ever decide to move to another developer, you already own the code, hosting and documentation, so the transition is straightforward.",
       ],
@@ -274,7 +274,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks. After that you can continue on a monthly plan from ₹8,000 or pay only when you need something changed. New modules or major features are quoted separately so you always know the cost first.",
+        "Every project includes two months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks. After that you can continue on a monthly plan from ₹8,000 or pay only when you need something changed. New modules or major features are quoted separately so you always know the cost first.",
     },
     {
       question: "Can you build Android and iOS apps for a Kollam business?",

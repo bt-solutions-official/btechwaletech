@@ -7,7 +7,7 @@ const bhilwara: CityContent = {
   meta: {
     title: "Bhilwara Website Design & Textile SEO | From ₹10,000",
     description:
-      "Websites, SEO and WhatsApp automation for Bhilwara textile mills, traders and shops. Sites from ₹10,000, catalogues for suiting fabric, 5 months free upkeep.",
+      "Websites, SEO and WhatsApp automation for Bhilwara textile mills, traders and shops. Sites from ₹10,000, catalogues for suiting fabric, 2 months free upkeep.",
     keywords: [
       "website development team in Bhilwara",
       "web designer Bhilwara",
@@ -30,11 +30,11 @@ const bhilwara: CityContent = {
     eyebrow: "Bhilwara · Rajasthan",
     h1: "Web, app, SEO and automation services for Bhilwara’s mills, traders and shops",
     lede:
-      "Bhilwara sells suiting fabric and yarn to buyers across India, yet many of its units still send price lists as blurry photos on WhatsApp. We are three remote engineers who build quick fabric catalogues, local SEO, online stores and order automation, with published prices and five months of maintenance at no charge.",
+      "Bhilwara sells suiting fabric and yarn to buyers across India, yet many of its units still send price lists as blurry photos on WhatsApp. We are three remote engineers who build quick fabric catalogues, local SEO, online stores and order automation, with published prices and two months of maintenance at no charge.",
     pills: ["Sites from ₹10,000", "Fabric catalogues", "Hindi and Mewari search terms", "WhatsApp order flows", "You own everything"],
   },
   quickAnswer:
-    "A business website for a Bhilwara firm costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000. Fabric stores with UPI start at ₹50,000 and custom mill software at ₹60,000. We are a remote three-engineer team with no Bhilwara office, and every launch includes five months of free maintenance.",
+    "A business website for a Bhilwara firm costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000. Fabric stores with UPI start at ₹50,000 and custom mill software at ₹60,000. We are a remote three-engineer team with no Bhilwara office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "Textile City of Rajasthan, often called the Manchester of Rajasthan" },
     { label: "Core trade", value: "Polyester-viscose and blended suiting fabric, spun and synthetic yarn, processing houses" },
@@ -51,10 +51,10 @@ const bhilwara: CityContent = {
     ai: "WhatsApp assistants that answer shade, rate and stock questions from agents across India and hand serious enquiries to your sales desk.",
     data: "Dashboards that show loom output, pending orders and payment ageing by agent, readable on a phone while you are at the factory.",
     app: "Android and iPhone apps for travelling sales agents to show the season's fabric range and book orders, published on both app stores from ₹40,000.",
-    maintenance: "Rate list updates, new design uploads, backups and security fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Rate list updates, new design uploads, backups and security fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Most Bhilwara units get their websites from a relative, a printing press or a one-person operator who vanishes after launch. We are three engineers who publish prices, reply on WhatsApp every day of the week, and keep looking after the site for five months after it goes live without sending a bill.",
+    "Most Bhilwara units get their websites from a relative, a printing press or a one-person operator who vanishes after launch. We are three engineers who publish prices, reply on WhatsApp every day of the week, and keep looking after the site for two months after it goes live without sending a bill.",
   pricingIntro:
     "Website quotes in Bhilwara are usually given verbally and change depending on who is asking. Ours are written down. The figures below are starting points, and the final number depends on how many designs, pages and features you need. You receive an itemised quote before any work begins.",
   sections: [
@@ -167,7 +167,7 @@ const bhilwara: CityContent = {
       paragraphs: [
         "A common Bhilwara story: a site was made years ago, the developer registered the domain in their own name, and now nobody can renew it or change the phone number on the contact page. Getting it back can take months. We prevent that from day one.",
         "The domain is registered in your name, the hosting account is yours, and at launch you receive every login plus a short note explaining where each part lives. The code belongs to you. If you ever want another developer to take over, you can hand it to them without asking our permission or paying an exit fee.",
-        "The first five months of maintenance after launch are free. That covers rate list and design updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, ongoing maintenance starts at ₹8,000 a month, or you can simply message us when you need something changed and pay for that work alone.",
+        "The first two months of maintenance after launch are free. That covers rate list and design updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, ongoing maintenance starts at ₹8,000 a month, or you can simply message us when you need something changed and pay for that work alone.",
       ],
     },
     {
@@ -258,7 +258,7 @@ const bhilwara: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and rate updates, new design uploads, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance is from ₹8,000 a month, or you can pay only when you ask for a change.",
+        "For two months after launch we handle content and rate updates, new design uploads, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance is from ₹8,000 a month, or you can pay only when you ask for a change.",
     },
     {
       question: "Do you work with businesses in Shahpura, Mandalgarh and nearby towns?",

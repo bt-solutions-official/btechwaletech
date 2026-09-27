@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI assistants that answer tourist and customer questions on WhatsApp in English, Hindi or Urdu, share packages and availability, and take bookings.",
     data: "Dashboards for hotel groups, fruit traders, manufacturers and institutes that combine bookings, stock, sales and dues across districts.",
     app: "Android and iOS apps for J&K businesses, from guest booking apps to offline-ready field apps for orchards and factories, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security checks and fixes, free for five months after launch and from ₹8,000 per month afterwards.",
+    maintenance: "Updates, backups, security checks and fixes, free for two months after launch and from ₹8,000 per month afterwards.",
   },
   whyUsIntro:
     "Businesses in Jammu and Kashmir have often been sold websites by outside agencies that did not understand the seasons, the connectivity or the customers. As a freelance group, we make no local claims we cannot back: three engineers, remote, with published starting prices, direct WhatsApp contact seven days a week, and full ownership of your code, domain and accounts.",
@@ -184,7 +184,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for J&K businesses keeps websites and booking systems available to customers everywhere even when local connectivity is disrupted, because the system runs on servers outside the region with SSL, daily backups and monitoring. Guests in Mumbai can still book a houseboat while the owner's local connection is down.",
         "We pair cloud hosting with offline-capable apps and clear fallbacks: staff can keep recording data offline, automatic replies continue to handle enquiries, and owners can check dashboards once they reconnect. We deploy on AWS or comparable providers and document every setting and credential for you.",
-        "Five months of maintenance are included free after launch: fixes, updates, backups, security checks and speed monitoring. Afterwards, plans start from ₹8,000 a month. We build with Next.js, Astro, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, so any developer, including graduates of NIT Srinagar or IIT Jammu, can extend the system later.",
+        "Two months of maintenance are included free after launch: fixes, updates, backups, security checks and speed monitoring. Afterwards, plans start from ₹8,000 a month. We build with Next.js, Astro, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, so any developer, including graduates of NIT Srinagar or IIT Jammu, can extend the system later.",
       ],
     },
     {
@@ -282,7 +282,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can request changes as needed.",
+        "Two months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can request changes as needed.",
     },
     {
       question: "Can you help a saffron or Pashmina seller sell online honestly?",

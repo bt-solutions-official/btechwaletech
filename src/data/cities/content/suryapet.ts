@@ -32,10 +32,10 @@ const suryapet: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Suryapet's rice mills, market yard traders and highway businesses",
     lede:
       "Three remote engineers building Telugu and English websites, Google listings, stores and WhatsApp tools for Suryapet district. We work with rice millers and paddy traders, cotton buyers, hospitals near the new medical college, schools and junior colleges, and the hotels, dhabas, showrooms and service centres that line NH65 between Hyderabad and Vijayawada.",
-    pills: ["Websites from ₹10,000", "Telugu and English pages", "Rice mill and trader sites", "Hospital and college sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Telugu and English pages", "Rice mill and trader sites", "Hospital and college sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "A Suryapet business can get a static website from us from ₹10,000, usually ready within two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no office in Suryapet, and maintenance is free for five months after launch.",
+    "A Suryapet business can get a static website from us from ₹10,000, usually ready within two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no office in Suryapet, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Position", value: "District headquarters on NH65, about 134 km from Hyderabad and 138 km from Vijayawada" },
     { label: "District", value: "Formed in 2016, with Suryapet, Kodad and Huzurnagar revenue divisions and 23 mandals" },
@@ -52,7 +52,7 @@ const suryapet: CityContent = {
     ai: "WhatsApp replies in Telugu or English for rates, OPD timings, admissions and bookings, with urgent enquiries sent to a person.",
     data: "Dashboards showing daily arrivals, milling output, sales or admissions by month, built from your existing books.",
     app: "Android and iPhone apps for field buyers, service technicians and delivery staff on everyday phones, listed on both stores from ₹40,000.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:
     "Suryapet has grown from a market town into a district headquarters with a medical college, an integrated collectorate and a busy highway economy. Many businesses have grown with it but still rely on word of mouth. We help them get found online, publish starting prices openly, answer on WhatsApp every day and keep ownership with the client.",
@@ -161,7 +161,7 @@ const suryapet: CityContent = {
       paragraphs: [
         "Every price we quote is a starting price. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. It suits most shops, clinics, schools and small traders who need a clear, trustworthy site with a map, contact form and WhatsApp button.",
         "A 299+ page SEO website starts at ₹20,000 and takes three to five weeks. It suits businesses with many products, services or locations, such as a distributor with a large catalogue or a hospital with many departments and doctors. Online stores with UPI and Razorpay start at ₹50,000, and custom web applications, such as a mill register or a college management tool, start at ₹60,000.",
-        "WhatsApp and AI automation starts at ₹40,000, and monthly SEO starts at ₹10,000 a month. After the five free months of maintenance, you can continue from ₹8,000 a month or pay per change. Our <a href=\"/pricing/\">pricing page</a> sets out each plan and what it includes.",
+        "WhatsApp and AI automation starts at ₹40,000, and monthly SEO starts at ₹10,000 a month. After the two free months of maintenance, you can continue from ₹8,000 a month or pay per change. Our <a href=\"/pricing/\">pricing page</a> sets out each plan and what it includes.",
         "Scope decides the final figure: the number of pages and languages, the size of a product catalogue, links to billing or accounting software, and any custom features. You receive an itemised quote in writing within about two working days and pay nothing until you approve it. If a smaller project will meet your needs, we will say so.",
       ],
     },
@@ -181,7 +181,7 @@ const suryapet: CityContent = {
       paragraphs: [
         "Too many small businesses have lost their website because the developer registered the domain in his own name and later stopped responding. We prevent that by registering the domain and hosting in your name from day one and handing over every login and the full source code when the site goes live.",
         "You are free to move to another developer at any time without paying an exit fee or asking our permission. We prefer to keep clients because they are satisfied, not because they are trapped.",
-        "For five months after launch, maintenance is free. That includes text and price changes, small design adjustments, security updates, backups and uptime monitoring. The first months after launch are when most businesses find things to adjust, such as a new doctor joining, fees changing for a new academic year or a product line being added.",
+        "For two months after launch, maintenance is free. That includes text and price changes, small design adjustments, security updates, backups and uptime monitoring. The first months after launch are when most businesses find things to adjust, such as a new doctor joining, fees changing for a new academic year or a product line being added.",
         "After that, maintenance continues from ₹8,000 a month if you want us to look after the site regularly, or you can contact us only when you need a change and pay for that job. Every update comes with a short written note of what was done. Read more about how we build and hand over sites on our <a href=\"/services/web-development/\">web development page</a>, or <a href=\"/contact/\">message us</a> to begin.",
       ],
     },
@@ -264,7 +264,7 @@ const suryapet: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch, we handle text and price changes, fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when something needs changing and pay for that job.",
+        "For two months after launch, we handle text and price changes, fixes, security updates, backups and uptime checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when something needs changing and pay for that job.",
     },
     {
       question: "Do you work in Kodad, Huzurnagar, Miryalaguda and Khammam?",

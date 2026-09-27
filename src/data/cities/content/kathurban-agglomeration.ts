@@ -56,7 +56,7 @@ const kathua: CityContent = {
     ai: "WhatsApp assistants that answer product, price, appointment and admission questions in Hindi and English and pass real decisions to you.",
     data: "Dashboards of production, dispatches, dealer dues and enquiries by source for factories and distributors.",
     app: "Android and iOS apps for dealers to reorder from Kathua manufacturers or for schools and clinics to reach families, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Upkeep costs nothing for the first five months after go-live; afterwards it is optional, from ₹8,000 a month, covering edits, backups, patches and uptime checks.",
+    maintenance: "Upkeep costs nothing for the first two months after go-live; afterwards it is optional, from ₹8,000 a month, covering edits, backups, patches and uptime checks.",
   },
   whyUsIntro:
     "Kathua owners often buy from Jammu or Pathankot and know what things should cost. We keep it simple: published starting prices, an itemised written quote, WhatsApp replies every day of the week, and domain, hosting, code and store accounts registered in your name. If something will not repay its cost, we say so before you spend.",
@@ -167,7 +167,7 @@ const kathua: CityContent = {
       heading: "Ownership and maintenance for Kathua websites and apps",
       paragraphs: [
         "Domain, server space, source code, both app store developer accounts and your Google profile are all opened under your business name. We log in with the access you share and, should you ever change developers, we pass on everything within one working day. That way you never face the old trap of a former web designer who holds the only password and has stopped picking up.",
-        "After any launch, the first five months of upkeep are on us: text and price edits, backups, security patches and periodic tests of enquiry forms, checkout and WhatsApp buttons. Once that period ends you can keep us on from ₹8,000 a month or run things in-house.",
+        "After any launch, the first two months of upkeep are on us: text and price edits, backups, security patches and periodic tests of enquiry forms, checkout and WhatsApp buttons. Once that period ends you can keep us on from ₹8,000 a month or run things in-house.",
         "For a Govindsar factory, upkeep mostly means adding new models and refreshing the catalogue; for a school or clinic near Chak Sajjan it means new sessions, doctors and timings. Pages that stay current are pages buyers believe.",
       ],
     },
@@ -253,7 +253,7 @@ const kathua: CityContent = {
     {
       question: "What support comes after my Kathua site goes live?",
       answer:
-        "Upkeep is free for five months after launch: we handle text edits, backups, security patches and tests of forms, checkout and WhatsApp links. After that it is your choice to retain us from ₹8,000 a month or take charge yourself, because every account already sits in your name.",
+        "Upkeep is free for two months after launch: we handle text edits, backups, security patches and tests of forms, checkout and WhatsApp links. After that it is your choice to retain us from ₹8,000 a month or take charge yourself, because every account already sits in your name.",
     },
     {
       question: "Do you work in Hiranagar, Billawar, Basohli and Jammu too?",

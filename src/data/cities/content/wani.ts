@@ -56,7 +56,7 @@ const wani: CityContent = {
     ai: "Marathi and Hindi WhatsApp assistants that answer rate, stock and admission questions and hand real decisions to you.",
     data: "Dashboards of trips per vehicle, bales pressed, dues by buyer and fees collected, built from the sheets you already keep.",
     app: "Android and iOS apps for transport drivers logging trips or students following college notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Wani traders deal in large volumes on thin margins, and they notice every rupee. We publish starting prices, send a written itemised quote, reply on WhatsApp all seven days, and register the domain, hosting, code and store accounts in your name. If a feature will not pay for itself in your business, we will tell you so before you spend on it.",
@@ -169,7 +169,7 @@ const wani: CityContent = {
       heading: "Ownership and maintenance for Wani websites and apps",
       paragraphs: [
         "Ask around the Wani market and you will hear of a shop whose site went dark because a freelancer held the domain and then changed his number. That cannot happen with our work. Domain, hosting, the full source code, your Google listing and both app store developer accounts are opened under your business name, and a written sheet of every login is handed to you.",
-        "For the first five months after going live, upkeep costs nothing: we change rates and text on request, take backups, apply security patches and test that enquiry forms, payment links and WhatsApp buttons still respond. From the sixth month, continued care begins at ₹8,000 per month, entirely optional, and you are free to shift to any other developer.",
+        "For the first two months after going live, upkeep costs nothing: we change rates and text on request, take backups, apply security patches and test that enquiry forms, payment links and WhatsApp buttons still respond. From the third month, continued care begins at ₹8,000 per month, entirely optional, and you are free to shift to any other developer.",
         "Apps need yearly updates because Google and Apple change their technical and privacy requirements. We follow those changes and update your app in time so it stays in the stores. At handover you also get a short note explaining the setup for any future developer.",
       ],
     },
@@ -266,7 +266,7 @@ const wani: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep are included after launch: edits, backups, security patches and regular tests of forms, payment links and WhatsApp buttons. Beyond that, ongoing care starts at ₹8,000 per month and is optional. If you would rather hand the code to someone else, you may do so whenever you wish.",
+        "Two months of upkeep are included after launch: edits, backups, security patches and regular tests of forms, payment links and WhatsApp buttons. Beyond that, ongoing care starts at ₹8,000 per month and is optional. If you would rather hand the code to someone else, you may do so whenever you wish.",
     },
     {
       question: "Do you work in Maregaon, Warora and Chandrapur too?",

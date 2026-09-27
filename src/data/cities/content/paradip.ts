@@ -40,7 +40,7 @@ const paradip: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Port and logistics software", "Odia and English SEO", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "For Paradip businesses, we build static websites from ₹10,000 (one to two weeks), 299+ page SEO websites from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000 and online stores from ₹50,000. We are a remote team of three engineers with no Paradip office, and the first five months of maintenance after launch are free.",
+    "For Paradip businesses, we build static websites from ₹10,000 (one to two weeks), 299+ page SEO websites from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000 and online stores from ₹50,000. We are a remote team of three engineers with no Paradip office, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "District", value: "Jagatsinghpur district, on the Odisha coast where the Mahanadi reaches the Bay of Bengal, about 90 km from Cuttack" },
     { label: "Port", value: "Paradip Port, a major port opened in 1966 and the first deep-sea major port commissioned on the east coast after independence" },
@@ -57,7 +57,7 @@ const paradip: CityContent = {
     ai: "WhatsApp bots that answer rate, truck availability and room enquiries in Odia or English while your team is at the gate or on site.",
     data: "Dashboards that turn trip sheets, diesel logs and invoice registers into daily figures a transport owner can check on a phone.",
     app: "Android and iOS apps for driver trip logging, contractor attendance or school notices, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five free months of fixes, backups and updates after launch, then maintenance from ₹8,000 a month if you want us to continue.",
+    maintenance: "Two free months of fixes, backups and updates after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Paradip is an industrial township, and most of its businesses sell to purchase departments, shipping lines and plant contractors, not only to walk-in customers. Those buyers check a vendor online before they call. Local web help is thin and agencies in Bhubaneswar or Cuttack often vanish after launch. We publish starting prices, reply on WhatsApp every day and hand you every account.",
@@ -205,7 +205,7 @@ const paradip: CityContent = {
       heading: "You own the domain, code and app accounts",
       paragraphs: [
         "Contractors change, staff change, and a website registered in someone else's name can disappear with them. We register the domain and hosting in your name from day one. Apps go on your own Google Play and Apple developer accounts. At launch you receive every login, the full code and a short written handover.",
-        "For five months after launch, maintenance is free: text and rate updates, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month if you want it, or you can bring changes to us only when needed. You can move to another developer at any time, with no exit fee.",
+        "For two months after launch, maintenance is free: text and rate updates, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month if you want it, or you can bring changes to us only when needed. You can move to another developer at any time, with no exit fee.",
       ],
     },
   ],
@@ -290,9 +290,9 @@ const paradip: CityContent = {
         "Yes. The domain and hosting are registered in your name, apps go on your own Play Console and Apple developer accounts, and at launch you get every login and the complete code. You can move to another developer whenever you like without an exit fee.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During those five months we handle updates, fixes, security patches, backups and uptime checks free. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need a change and pay for that work alone.",
+        "During those two months we handle updates, fixes, security patches, backups and uptime checks free. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need a change and pay for that work alone.",
     },
     {
       question: "Can you guarantee first place on Google in Paradip?",

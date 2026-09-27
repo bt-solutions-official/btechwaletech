@@ -32,7 +32,7 @@ AI automation & AI agents, WhatsApp automation, data analysis/dashboards, mainte
 STARTING PRICES (INR): static website (up to 100 pages) from ₹10,000 (1–2 weeks); SEO website (700+ pages) from ₹20,000
 (3–5 weeks); Android & iOS app from ₹40,000; AI automation from ₹40,000 (2–4 weeks); ecommerce store from ₹50,000 (4–8 weeks);
 custom web app/software from ₹60,000 (6–12 weeks); monthly SEO from ₹10,000/month; maintenance from ₹8,000/month after
-5 months free maintenance post-launch.
+2 months free maintenance post-launch.
 PRICE RULE: every price is a STARTING price. Write "from ₹X", "starts at ₹X", "₹X onwards" (or "₹X se shuru" etc. in regional
 FAQs). Never call prices fixed, flat, final or a package price; never write "fixed price"/"fixed quote"/"prices are fixed".
 Old prices (₹5,000 sites, 30-page ₹10,000 sites, ₹15,000, ₹25,000, ₹2,000) must never appear.

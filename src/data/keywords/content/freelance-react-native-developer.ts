@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Store accounts", "Yours: Play Console and App Store Connect"],
     ["Code", "TypeScript repository in your name"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "1", label: "Codebase for Android and iOS" },
     { value: "3", label: "Developers who can read your app’s code" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Tooling", value: "Expo, EAS Build, React Navigation or Expo Router" },
       { label: "Native code", value: "Kotlin and Swift modules when a feature requires them" },
       { label: "Ownership", value: "Store accounts, repository and backend in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -80,7 +80,7 @@ const content: FreelanceContent = {
   },
   comparison: {
     heading: "Freelance React Native developer, marketplace hire or large app studio",
-    note: "Where you hire from changes who owns the store accounts, who fixes things in month six, and how much of the budget reaches the code.",
+    note: "Where you hire from changes who owns the store accounts, who fixes things in month three, and how much of the budget reaches the code.",
     columns: ["What matters", "Marketplace freelancer", "Large app studio", "BtechWaleTech"],
     rows: [
       ["Who builds it", "One person, often solo", "A team behind a project manager", "Three developers you message directly"],
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Native Kotlin/Swift", "Depends on the individual", "Dedicated specialists", "Handled in-house when features need it"],
       ["Backend and admin", "Often another hire", "Separate team", "Same three people"],
       ["If a developer is away", "Work stops", "Someone is reassigned", "Two others already know the code"],
-      ["After release", "Paid per fix", "Support retainer", "5 months free, then from " + P.care],
+      ["After release", "Paid per fix", "Support retainer", "2 months free, then from " + P.care],
       ["Scale limit", "One person", "Large parallel teams", "Three people; not for 20-developer apps"],
     ],
     fine: "If your app is a graphics-heavy game, needs deep platform features on day one, or will be built by a large in-house mobile team, a fully native or specialised studio may serve you better than any React Native freelancer.",
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A React Native app is never truly finished. Apple and Google raise their minimum SDK and target requirements every year, React Native itself ships regular releases, and libraries move on. Apps that skip upgrades for two years often need a painful catch-up project.`,
         `Plan for three kinds of change. Quick JavaScript fixes can go out through EAS Update, within the stores’ rules on over-the-air code. Feature releases go through normal store review. Platform upgrades, such as a new React Native version or Android target level, are done a few times a year and tested properly.`,
-        `Our five months of free maintenance after release covers bug fixes, small changes and keeping builds healthy. After that, maintenance starts at ${P.care} and is optional; the code and accounts are yours, so your own team or another developer can take over. For apps that stopped building after years of neglect, we also take on upgrade rescue work as a quoted project.`,
+        `Our two months of free maintenance after release covers bug fixes, small changes and keeping builds healthy. After that, maintenance starts at ${P.care} and is optional; the code and accounts are yours, so your own team or another developer can take over. For apps that stopped building after years of neglect, we also take on upgrade rescue work as a quoted project.`,
       ],
     },
     {
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
         ["App with new backend and admin", `From ${P.software}`, `From ${P.softwareUsd}`, "8–12 weeks", "Server, database, staff web panel"],
         ["Shopping app with store backend", `From ${P.shop}`, `From ${P.shopUsd}`, "6–10 weeks", "Catalogue, UPI and card checkout, orders"],
         ["AI feature inside the app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Chat help, document reading, smart search"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, SDK updates, store compliance"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, SDK updates, store compliance"],
       ],
       hideSm: [2],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Create store accounts in your name", "You register Play Console and the Apple Developer Program; we get added as users. Repository and hosting are set up under your ownership too."],
       ["Test builds every week", "From the first few weeks you install real builds through TestFlight and a Play testing track, and send feedback directly to the developers."],
       ["Submit and launch", "We prepare listings, privacy labels and reviewer notes, submit to both stores and handle any review questions until the app is live."],
-      ["Maintain and upgrade", "Five months of free fixes and updates follow launch. After that, ongoing care starts from " + P.care + " if you want it, including yearly platform upgrades."],
+      ["Maintain and upgrade", "Two months of free fixes and updates follow launch. After that, ongoing care starts from " + P.care + " if you want it, including yearly platform upgrades."],
     ],
   },
   faqHeading: "Freelance React Native developer: frequently asked questions",
@@ -375,9 +375,9 @@ const content: FreelanceContent = {
     { question: "Can the same team build the backend and admin panel?", answer: `Yes. BtechWaleTech builds the API, database and web admin panel along with the React Native app, usually in Node.js or Python with PostgreSQL. A modest backend fits within the app quote; a larger system with complex business rules is scoped like custom software, starting at ${P.software}, and itemised separately.` },
     { question: "How do payments work when I hire a freelance React Native developer?", answer: "Payments follow milestones tied to builds you can install: an advance to start, instalments as feature sets arrive, and the balance before store submission. In India BtechWaleTech accepts UPI or bank transfer, and international clients pay through Wise, bank wire or PayPal. Nothing is billed before you approve the written quote." },
     { question: "Is a React Native developer near me better than a remote one?", answer: "For app work, location matters less than process. You test builds on your own phone, review designs on video calls and message the developers directly, which is the same whether they sit in your city or elsewhere. Judge candidates on published apps, code quality and ownership terms, then decide whether meeting in person still matters." },
-    { question: "What happens after my React Native app is live?", answer: `BtechWaleTech provides five months of free maintenance after launch, covering bug fixes, small changes and keeping builds working. Later, optional maintenance starts at ${P.care} and includes yearly platform updates required by Google and Apple. Since the code and accounts are yours, you can also hand maintenance to your own JavaScript developers.` },
+    { question: "What happens after my React Native app is live?", answer: `BtechWaleTech provides two months of free maintenance after launch, covering bug fixes, small changes and keeping builds working. Later, optional maintenance starts at ${P.care} and includes yearly platform updates required by Google and Apple. Since the code and accounts are yours, you can also hand maintenance to your own JavaScript developers.` },
     { question: "Can a React Native app accept UPI payments?", answer: "Yes. A React Native app can accept UPI and card payments through your payment provider’s SDK or a hosted checkout, often with native module work on Android for UPI app switching. Payment confirmation should always be verified on your server, not only in the app, so orders are marked paid only after the provider confirms." },
-    { question: "React Native app banwane mein kitna time aur kharcha lagta hai?", answer: `BtechWaleTech ke saath Android aur iOS dono ke liye React Native app ${P.app} se shuru hota hai aur pehla version 6 se 10 hafte mein ready hota hai. Kharcha backend, native features aur admin panel par depend karta hai. Play Store aur App Store account aapke naam par bante hain, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "React Native app banwane mein kitna time aur kharcha lagta hai?", answer: `BtechWaleTech ke saath Android aur iOS dono ke liye React Native app ${P.app} se shuru hota hai aur pehla version 6 se 10 hafte mein ready hota hai. Kharcha backend, native features aur admin panel par depend karta hai. Play Store aur App Store account aapke naam par bante hain, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Do you work with clients outside India on React Native apps?", answer: `Yes. BtechWaleTech builds React Native apps for clients in the USA, UK, Canada, Australia, the UAE and elsewhere, billed in USD with apps from ${P.appUsd}. Calls are held in overlapping hours, test builds reach you through TestFlight and Play testing tracks, and payments go through Wise, bank wire or PayPal.` },
   ],
   related: {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a React Native app? Tell us what it must do",
-    note: `Message us on WhatsApp with your app idea and any website or backend you already run. You will get an itemised quote in about two working days, with Android and iOS apps from ${P.app}, store accounts in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with your app idea and any website or backend you already run. You will get an itemised quote in about two working days, with Android and iOS apps from ${P.app}, store accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

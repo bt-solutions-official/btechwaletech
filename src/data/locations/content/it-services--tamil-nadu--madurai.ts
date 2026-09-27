@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT services · Madurai, Tamil Nadu",
     h1: "Freelance software developers for Madurai's hotels, hospitals, colleges and traders",
     lede:
-      "If you are searching for a software development team in Madurai, consider BtechWaleTech instead, a freelance group of three remote engineers who build the systems behind the Temple City's businesses: room and yatra booking engines, patient appointment tools, admission CRMs for colleges, WhatsApp AI agents, dashboards and the mobile-first websites that pilgrims and students actually find. Starting prices are public, and five months of maintenance are included after launch.",
+      "If you are searching for a software development team in Madurai, consider BtechWaleTech instead, a freelance group of three remote engineers who build the systems behind the Temple City's businesses: room and yatra booking engines, patient appointment tools, admission CRMs for colleges, WhatsApp AI agents, dashboards and the mobile-first websites that pilgrims and students actually find. Starting prices are public, and two months of maintenance are included after launch.",
     pills: ["Booking and hospital software", "AI agents on WhatsApp", "College admission CRMs", "Tamil-first interfaces", "UPI or bank transfer only"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "WhatsApp AI agents that answer room availability, doctor timings and fee questions in Tamil or English at any hour, and hand tricky cases to staff.",
     data: "Occupancy, footfall, admissions and sales dashboards that combine spreadsheets, billing software and booking data into one phone-friendly view.",
     app: "Android and iOS apps in Flutter or React Native, published on Google Play and the App Store, for Madurai patients, students, pilgrims and retailers, from ₹40,000.",
-    maintenance: "Backups, security updates, bug fixes and content changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, security updates, bug fixes and content changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Madurai businesses are often family-run, relationship-driven and wary of vendors who vanish after the final invoice. We keep the team small so the engineer you meet on the first call stays with the project, and every login stays in your name from the start.",
@@ -186,7 +186,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom software or web app: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
@@ -203,7 +203,7 @@ const content: CityContent = {
       heading: "Hiring freelance software developers in Madurai: timelines, handover and support",
       paragraphs: [
         "Most Madurai projects go live within two to twelve weeks: websites in one to two, automations in two to four, stores in four to eight and custom software in six to twelve. Timelines depend less on coding speed than on how quickly content, prices and decisions reach us, so we ask each client to name one point person.",
-        "At handover you receive the source code, every login, and a short document describing how the system is built and deployed. The first five months of maintenance after launch are free, covering bug fixes, updates, backups and small changes. After that, maintenance starts from ₹8,000 a month, or you can pay per change.",
+        "At handover you receive the source code, every login, and a short document describing how the system is built and deployed. The first two months of maintenance after launch are free, covering bug fixes, updates, backups and small changes. After that, maintenance starts from ₹8,000 a month, or you can pay per change.",
         "Support runs on WhatsApp seven days a week, with screen-share calls for training. We time launches away from the busiest festival weeks where possible, so staff are not learning a new system during the Chithirai rush. To begin, message us or use the <a href=\"/contact/\">contact page</a>, and see <a href=\"/services/\">all services</a> for the full range.",
       ],
     },
@@ -281,7 +281,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are included free after your system goes live on hosting. This covers bug fixes, security and software updates, backups, uptime checks and small content changes. Afterwards, you can continue on a plan from ₹8,000 a month or pay only when you need a change. New features or modules are always quoted separately beforehand.",
+        "Two months of maintenance are included free after your system goes live on hosting. This covers bug fixes, security and software updates, backups, uptime checks and small content changes. Afterwards, you can continue on a plan from ₹8,000 a month or pay only when you need a change. New features or modules are always quoted separately beforehand.",
     },
     {
       question: "Can you help a college manage admission season?",

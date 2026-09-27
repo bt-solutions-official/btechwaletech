@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Idea se Play Store tak ka calendar",
     h1: "App banane me kitna time lagta hai: design, development, testing aur store review, phase by phase",
     lede: `App banane me kitna time lagta hai, iska imaandaar jawab do hisson mein hai: developer ka kaam aur store ka intezaar. Ek simple Android aur iOS app 6–7 hafte mein, medium app 8–10 hafte mein ban jaata hai, aur complex app isse lamba chalta hai. Uske upar Google Play ki closed testing aur review ka samay alag se jodna padta hai. Hum teen freelance developers hain; Flutter ya React Native app ${P.app} se banate hain. Kharche ki baat <a href='/app-banane-me-kitna-kharcha/'>app banane me kitna kharcha</a> par hai.`,
-    pills: ["Simple app 6–7 hafte", "Medium app 8–10 hafte", "Android + iOS ek code se", "Play Store testing plan", "Har hafte test build", "Quote ~2 working din", "5 mahine free maintenance"],
+    pills: ["Simple app 6–7 hafte", "Medium app 8–10 hafte", "Android + iOS ek code se", "Play Store testing plan", "Har hafte test build", "Quote ~2 working din", "2 mahine free maintenance"],
     origin: "Teen freelance developers, India se remote · WhatsApp par saaton din jawab, IST",
   },
   facts: [
@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "6–10", label: "Hafte ek aam business app ka build" },
     { value: "14", label: "Din ki closed testing, naye personal Play account par" },
     { value: "2", label: "Working din mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Mahine free maintenance launch ke baad" },
   ],
   answer: {
     heading: "App banane me kitna time lagta hai?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Store launch aur testing plan", note: "Play Console setup, closed testing ke liye testers ka intezaam, store listing, screenshots, privacy policy aur review ke sawaalon ke jawab.", href: "/app-rejected-by-google-play/", size: "md" },
       { name: "Website ko app mein badalna", note: "Agar website pehle se hai, toh content aur backend ka kuch hissa kaam aa sakta hai, par app ki screens aur flows alag se bante hain.", href: "/website-or-app-for-business/", size: "md" },
       { name: "Complex app: quote par", note: "Live location, chat, teen user types jaise customer, driver aur admin. Hum ise do release mein todne ki salah dete hain.", href: "/delivery-app-developer/", size: "sm" },
-      { name: "App maintenance", note: `5 mahine free, phir ${P.care} se: OS updates, target API badlav, crash fixes.`, href: "/mobile-app-maintenance-services/", size: "sm" },
+      { name: "App maintenance", note: `2 mahine free, phir ${P.care} se: OS updates, target API badlav, crash fixes.`, href: "/mobile-app-maintenance-services/", size: "sm" },
       { name: "WhatsApp se shuruaat", note: "Kabhi-kabhi app se pehle WhatsApp automation hi kaafi hota hai aur kuch hafton mein chal padta hai.", href: "/whatsapp-chatbot-vs-app/", size: "sm" },
     ],
   },
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "App ka timeline aur price: dono scope se nikalte hain",
-    note: `Android aur iOS app ${P.app} se shuru hota hai aur aam taur par 6–10 hafte leta hai. Jitne zyada screens, user types aur integrations, utna lamba timeline aur utna zyada quote, kyunki developer ka samay hi asli laagat hai. Isliye scope chhota karna ek saath do fayde deta hai: jaldi launch aur kam kharcha. Google Play ki US$25 ek baar ki registration fee aur Apple ki US$99 saalana fee aap seedhe Google aur Apple ko dete hain, account aapke naam par hota hai. Quote lagbhag 2 working din mein aata hai, har feature ke saath andaazan din likhe hote hain, aur approval se pehle kuch bill nahi hota. Launch ke baad 5 mahine maintenance free.`,
+    note: `Android aur iOS app ${P.app} se shuru hota hai aur aam taur par 6–10 hafte leta hai. Jitne zyada screens, user types aur integrations, utna lamba timeline aur utna zyada quote, kyunki developer ka samay hi asli laagat hai. Isliye scope chhota karna ek saath do fayde deta hai: jaldi launch aur kam kharcha. Google Play ki US$25 ek baar ki registration fee aur Apple ki US$99 saalana fee aap seedhe Google aur Apple ko dete hain, account aapke naam par hota hai. Quote lagbhag 2 working din mein aata hai, har feature ke saath andaazan din likhe hote hain, aur approval se pehle kuch bill nahi hota. Launch ke baad 2 mahine maintenance free.`,
   },
   guideLabel: "App timeline guide",
   guide: [
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `App ka code, admin panel, server account aur dono store accounts aapke naam par hote hain. Handover mein aapko code repository ka access, logins, aur ek chhota note milta hai ki app kaise update hota hai aur kahan kya chalta hai.`,
         `Timeline ke hisaab se ownership isliye maayne rakhti hai kyunki kai log app kisi aur ke developer account par daalwa lete hain aur baad mein update karna ho toh atak jaate hain. Play Store app ko ek account se doosre mein transfer karna sambhav hai, par woh ek alag process hai jismein samay lagta hai. Shuru se apna account ho toh yeh jhanjhat hi nahi.`,
-        `Launch ke baad 5 mahine ki maintenance free hai: crash fixes, chhote badlav, OS updates ke hisaab se sudhaar. Uske baad maintenance plan ${P.care} se hai, ya aap kisi aur developer ko de sakte hain kyunki code aapka hai. Maintenance ka kharcha aur kaam <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a> par samjhaya hai.`,
+        `Launch ke baad 2 mahine ki maintenance free hai: crash fixes, chhote badlav, OS updates ke hisaab se sudhaar. Uske baad maintenance plan ${P.care} se hai, ya aap kisi aur developer ko de sakte hain kyunki code aapka hai. Maintenance ka kharcha aur kaam <a href='/app-maintenance-cost-in-india/'>app maintenance cost in India</a> par samjhaya hai.`,
       ],
     },
     {
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Store accounts aur design", "Aap Play Console aur Apple account apne naam par banate hain, hum screen share par madad karte hain. Saath hi clickable prototype banta hai jise aap phone par chalate hain."],
       ["Hafte ke sprint aur test builds", "Har hafte ek test build aapke phone par. Pehla chalta build aate hi closed testing shuru, taaki 14 din ki ghadi build ke saath chale."],
       ["Testing aur store submission", "Sasta Android phone, iPhone, slow internet aur galat input par jaanch. Phir store listing, privacy policy, Data safety aur review ke liye submit."],
-      ["Launch aur 5 mahine saath", "App live hone ke baad 5 mahine maintenance free: crash fixes, chhote badlav, OS updates. Code aur accounts aapke naam par rehte hain."],
+      ["Launch aur 2 mahine saath", "App live hone ke baad 2 mahine maintenance free: crash fixes, chhote badlav, OS updates. Code aur accounts aapke naam par rehte hain."],
     ],
   },
   faqHeading: "App timeline ke sawaal",
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "Flutter app kitne din mein banta hai?", answer: "Flutter app ka timeline bhi app ke scope se tay hota hai: simple app 6–7 hafte, medium 8–10 hafte. Flutter ka fayda yeh hai ki ek hi code se Android aur iOS dono ke app bante hain, isliye do alag native apps ke mukable samay kaafi bachta hai. React Native mein bhi lagbhag yahi timeline rehta hai." },
     { question: "Can my existing website be turned into an app quickly?", answer: "Some parts carry over, such as content, product data and parts of the backend, but app screens, navigation and store setup are built fresh, so it is not an overnight conversion. If you mainly want customers to install something on their phone, a progressive web app built on your site can be quicker because it skips store review." },
     { question: "Who owns the app, the code and the store accounts?", answer: "You do. The Play Console and Apple Developer accounts are created in your name, and the code repository, server account and admin panel are handed over with logins at launch. Moving an app between Play accounts later is a separate process that takes time, so starting with your own account avoids a delay down the line." },
-    { question: "What happens after the app is launched?", answer: "The first five months after launch include free maintenance: crash fixes, small changes and updates needed for new OS versions. After that, a maintenance plan starts from the price listed on our pricing page, or you can hand the code to anyone else since it is yours. Google Play also raises target API requirements each year, so apps need periodic updates." },
+    { question: "What happens after the app is launched?", answer: "The first two months after launch include free maintenance: crash fixes, small changes and updates needed for new OS versions. After that, a maintenance plan starts from the price listed on our pricing page, or you can hand the code to anyone else since it is yours. Google Play also raises target API requirements each year, so apps need periodic updates." },
     { question: "How are app projects paid for?", answer: "You get an itemised written quote in about two working days and nothing is billed until you approve it in writing. In India, payment is by UPI or bank transfer; international clients pay in USD via Wise, bank wire or PayPal. The payment split across the project is written into your quote, and general terms are on our terms page." },
     { question: "Freelancer se app banwane mein zyada time lagta hai ya company se?", answer: "Zaroori nahi. Timeline scope, testing aur store ke kaam se tay hota hai, team ke naam se nahi. Ek chhoti freelance team mein aap seedhe developer se baat karte hain, isliye feedback aur badlav ka raasta chhota hota hai. Dekhiye ki developer har hafte test build deta hai ya nahi aur store testing ka plan pehle din se hai ya nahi." },
     { question: "App ka timeline aage kyun khisakta hai?", answer: "Aam kaaran hain: coding ke beech mein naye features jodna, test build par der se feedback, content aur product list ka intezaar, Play Console account ya testers ka der se intezaam, aur store review mein reject hona. In mein se zyada tar pehle hafte ki planning se roke ja sakte hain, khaas kar store accounts aur testers ki list jaldi banakar." },

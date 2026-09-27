@@ -7,7 +7,7 @@ const bhubaneswar: CityContent = {
   meta: {
     title: "Bhubaneswar Website Development & SEO | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and AI automation for Bhubaneswar startups, clinics, institutes and handloom sellers. From ₹10,000, five months free support.",
+      "Websites, local SEO, online stores and AI automation for Bhubaneswar startups, clinics, institutes and handloom sellers. From ₹10,000, two months free support.",
     keywords: [
       "website development team in Bhubaneswar",
       "web design team Bhubaneswar",
@@ -31,11 +31,11 @@ const bhubaneswar: CityContent = {
     eyebrow: "Bhubaneswar · Odisha",
     h1: "Websites, SEO and automation for Bhubaneswar's startups, institutes and Odia brands",
     lede:
-      "A remote team of three engineers building product sites for Infocity and Patia startups, admission systems for colleges and coaching centres, stores for handloom and handicraft sellers, and booking pages for hospitals and hotels. Our prices are listed openly, you work straight with the developers, and five months of maintenance come free after launch.",
+      "A remote team of three engineers building product sites for Infocity and Patia startups, admission systems for colleges and coaching centres, stores for handloom and handicraft sellers, and booking pages for hospitals and hotels. Our prices are listed openly, you work straight with the developers, and two months of maintenance come free after launch.",
     pills: ["Websites from ₹10,000", "Odia, Hindi and English pages", "Stores for handloom brands", "Startup and SaaS sites", "AI and WhatsApp workflows"],
   },
   quickAnswer:
-    "In Bhubaneswar, a basic business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bhubaneswar office, and every build includes five months of free maintenance.",
+    "In Bhubaneswar, a basic business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bhubaneswar office, and every build includes two months of free maintenance.",
   snapshot: [
     { label: "Commercial areas", value: "Saheed Nagar and Janpath, Market Building (Unit-2), Rasulgarh, Jaydev Vihar and Patia" },
     { label: "IT parks", value: "Infocity at Chandaka and Patia, Infovalley and STPI-Bhubaneswar, with Infosys, TCS, Tech Mahindra and Wipro among the employers" },
@@ -52,10 +52,10 @@ const bhubaneswar: CityContent = {
     ai: "AI assistants and WhatsApp flows that handle admission, appointment or order questions in Odia, Hindi or English and route the rest to staff.",
     data: "Sales, admissions and project data cleaned and shown in dashboards that suit weekly review meetings.",
     app: "Android and iPhone apps for bookings, student portals and field teams, built once and released on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Updates, security patches, backups and speed checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, security patches, backups and speed checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Bhubaneswar has hundreds of IT companies and plenty of web agencies, yet few will tell you a price before a meeting. We publish our starting rates, reply on WhatsApp seven days a week, and keep supporting your site without charge for five months after it goes live.",
+    "Bhubaneswar has hundreds of IT companies and plenty of web agencies, yet few will tell you a price before a meeting. We publish our starting rates, reply on WhatsApp seven days a week, and keep supporting your site without charge for two months after it goes live.",
   pricingIntro:
     "Bhubaneswar web design quotes range so widely that comparing them is almost impossible. These are our real starting prices. Your final figure depends on the number of pages, the features and how much content is ready, and you receive it itemised in writing before any development starts.",
   sections: [
@@ -160,7 +160,7 @@ const bhubaneswar: CityContent = {
       paragraphs: [
         "A surprising number of Bhubaneswar organisations, including some colleges and hospitals, cannot edit their own websites because the domain or hosting sits with a vendor they no longer work with. When the renewal lapses, email stops too, and recovering access can take weeks of paperwork.",
         "We avoid that entirely. The domain is registered in your organisation's name, the hosting account belongs to you, and at launch you receive every login, the source code and a short handover document. You may move to another developer whenever you like, with no exit charge. For institutions that need it, we can also document the setup for your internal IT or audit team.",
-        "For five months after launch, maintenance is free: content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free: content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const bhubaneswar: CityContent = {
     {
       question: "What does the free maintenance period include?",
       answer:
-        "For five months after launch, we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. Afterwards, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch, we handle content and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. Afterwards, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Do you work with businesses in Cuttack, Puri and Khordha?",

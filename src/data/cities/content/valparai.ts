@@ -56,7 +56,7 @@ const valparai: CityContent = {
     ai: "WhatsApp assistants that answer room, road, weather and tariff questions in Tamil, Malayalam or English and send confirmed bookings to the owner.",
     data: "Dashboards showing occupancy by month, enquiry sources, estate output by division or rainfall against yield.",
     app: "Android and iOS apps for estate supervisors, taxi operators or repeat guests, from ₹40,000, published on Google Play and the App Store under your account.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month covering updates, backups and fixes, including after monsoon outages.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month covering updates, backups and fixes, including after monsoon outages.",
   },
   whyUsIntro:
     "Valparai businesses live with long monsoons, unreliable signal and a tourist season that can swing sharply. We keep things simple for that: public starting prices, a written quote broken into lines, replies on WhatsApp every day, and sites built to load on a single bar of network. Everything we register, from domain to app store listing, is in your name.",
@@ -178,7 +178,7 @@ const valparai: CityContent = {
       heading: "Ownership and maintenance for Valparai websites and apps",
       paragraphs: [
         "A familiar story in hill towns is a homestay website that disappears when the person who built it stops renewing the domain. We prevent that by registering the domain, hosting, source code, Google Business Profile and any Play Store or App Store developer accounts in your name, and handing the logins over in writing.",
-        "Maintenance is free for five months after launch. It covers tariff and content updates, backups, security patches, software updates and checks that booking forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "Maintenance is free for two months after launch. It covers tariff and content updates, backups, security patches, software updates and checks that booking forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
         "Apps also need yearly updates as Google and Apple change their rules. We track those deadlines and update your app in time so it is not removed from the stores. After long monsoon outages, we check that backups and forms have kept running.",
       ],
     },
@@ -266,7 +266,7 @@ const valparai: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any time.",
+        "Maintenance is free for two months and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any time.",
     },
     {
       question: "Do you work with businesses in Pollachi, Aliyar and Sholayar too?",

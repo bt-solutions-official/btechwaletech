@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["URL pattern we default to", "/en/ and /fr/ subfolders"],
     ["French copy", "Written by your translator"],
     ["Platforms", "WordPress, Shopify, Astro, Next.js"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "2", label: "Languages built into every template from day one" },
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How do you build an English French bilingual website properly?",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "How do AI assistants handle bilingual websites?", answer: "They read public HTML the way search engines do, so French pages at their own URLs with French text in the source are what they can find and quote. Script-injected translations are much less visible. Clear French headings, short answer paragraphs and FAQ blocks give assistants something useful to cite." },
     { question: "Why hire developers in India for a Canadian bilingual website?", answer: "The engineering is the same wherever it is done, our starting prices are lower than typical local rates, and your translator stays local. Our evenings overlap Canadian mornings for calls. You own the domain, hosting and code; we work through access you grant and can revoke at any time." },
     { question: "Can you make my mobile app bilingual too?", answer: `Yes. Flutter and React Native apps keep English and French in separate string files, pick the language from the device or a user setting, and need store listings in both languages on Google Play and the App Store. New apps start at ${P.app}; your translator supplies the French strings and store text.` },
-    { question: "How do we keep both languages up to date after launch?", answer: `Publish both together. We set up the CMS so editors fill English and French in one sitting and train your team by screen share. After five free months of maintenance, ongoing care from ${P.care} can include a monthly check for pages missing a French twin.` },
+    { question: "How do we keep both languages up to date after launch?", answer: `Publish both together. We set up the CMS so editors fill English and French in one sitting and train your team by screen share. After two free months of maintenance, ongoing care from ${P.care} can include a monthly check for pages missing a French twin.` },
   ],
   related: {
     heading: "More for Canadian websites",

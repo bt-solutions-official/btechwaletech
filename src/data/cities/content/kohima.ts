@@ -30,11 +30,11 @@ const kohima: CityContent = {
     eyebrow: "Kohima · Capital of Nagaland",
     h1: "Websites, software, SEO and AI tools for Kohima's homestays, shops, schools and offices",
     lede:
-      "Three engineers, working remotely, who build websites, booking pages, small online shops and WhatsApp automation for Kohima: guest houses filling up for Hornbill, handloom and craft sellers, churches and schools, clinics near Naga Hospital, and the contractors and suppliers who work with state departments. Prices start from published figures, and upkeep is free for five months.",
+      "Three engineers, working remotely, who build websites, booking pages, small online shops and WhatsApp automation for Kohima: guest houses filling up for Hornbill, handloom and craft sellers, churches and schools, clinics near Naga Hospital, and the contractors and suppliers who work with state departments. Prices start from published figures, and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Homestay and hotel booking pages", "Handloom and craft stores", "Sites that load on hill networks", "WhatsApp replies and records"],
   },
   quickAnswer:
-    "A static website for a Kohima business starts from ₹10,000 with us and is usually ready in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, online stores for shawls or local produce from ₹50,000 and custom software from ₹60,000. We are remote, keep no Kohima office, and maintain your site free for five months.",
+    "A static website for a Kohima business starts from ₹10,000 with us and is usually ready in one to two weeks. Larger 299+ page SEO sites start at ₹20,000, online stores for shawls or local produce from ₹50,000 and custom software from ₹60,000. We are remote, keep no Kohima office, and maintain your site free for two months.",
   snapshot: [
     { label: "Role", value: "State capital of Nagaland, home to the Secretariat, the Assembly and most state directorates" },
     { label: "Terrain", value: "Hill city at roughly 1,400 to 1,500 metres, spread along ridges above NH 2 and NH 29" },
@@ -51,7 +51,7 @@ const kohima: CityContent = {
     ai: "WhatsApp flows that answer room availability, fees or opening hours and hand anything unusual to you with the chat attached.",
     data: "Booking, sales and donor records turned into a simple dashboard you can check on your phone between meetings.",
     app: "Android and iOS apps for church notices, school circulars or repeat orders, listed on Google Play and the App Store and starting at ₹40,000.",
-    maintenance: "Five months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Most Kohima businesses end up asking a cousin who knows computers or paying a Guwahati agency that has never walked up to Midland. We publish our starting prices, send an itemised quote in writing, and answer on WhatsApp every day of the week, with the engineers who build your site on the other end of the chat.",
@@ -174,11 +174,11 @@ const kohima: CityContent = {
     },
     {
       id: "ownership-kohima",
-      heading: "Your domain, your code and five months of free upkeep",
+      heading: "Your domain, your code and two months of free upkeep",
       paragraphs: [
         "A common story in smaller capitals is a website built by someone who registered the domain under their own name, then moved to another city or stopped answering. The owner cannot change a phone number, cannot renew the domain, and eventually loses the address and any search history it had.",
         "We avoid that from day one. The domain and hosting are registered in your name, using your email. At launch you receive every login, the full source code and a short note explaining how the site is put together. If you later want another developer, you can hand everything over without asking our permission or paying an exit fee.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when something needs changing. The <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or call us only when something needs changing. The <a href=\"/services/web-development/\">web development</a> page lists what each build includes.",
       ],
     },
     {
@@ -272,9 +272,9 @@ const kohima: CityContent = {
         "Yes. The domain and hosting are registered in your name from the start, and at launch you receive every login and the full source code. You can move to another developer whenever you like without paying us anything to leave.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During those five months we handle edits, bug fixes, security updates, backups and uptime checks free. Afterwards, maintenance continues from ₹8,000 a month, or you can skip the plan and contact us only when you need a change, paying for that work alone.",
+        "During those two months we handle edits, bug fixes, security updates, backups and uptime checks free. Afterwards, maintenance continues from ₹8,000 a month, or you can skip the plan and contact us only when you need a change, paying for that work alone.",
     },
     {
       question: "Do you work with businesses in Dimapur, Wokha and other Nagaland towns?",

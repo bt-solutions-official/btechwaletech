@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Websites from ₹10,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Malayalam and English", "UPI or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech delivers freelance IT solutions across Kerala: websites from ₹10,000 in one to two weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000. We are three engineers working remotely, not a Kerala office, and every launch includes five months of free maintenance.",
+    "BtechWaleTech delivers freelance IT solutions across Kerala: websites from ₹10,000 in one to two weeks, Android and iOS apps from ₹40,000, AI automation from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000. We are three engineers working remotely, not a Kerala office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "IT parks", value: "Technopark in Thiruvananthapuram, Infopark in Kochi and Cyberpark in Kozhikode" },
     { label: "Startup support", value: "Kerala Startup Mission, with incubation hubs such as the Kochi Integrated Startup Complex" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI automation for Kerala firms, such as WhatsApp answers for tourists and NRI families, enquiry routing, document reading and daily summaries.",
     data: "Dashboards joining billing, bookings and CRM data so Kerala owners, even when travelling or abroad, can check performance from their phone.",
     app: "Android and iOS apps from ₹40,000 for Kerala businesses, built once in Flutter or React Native, published on Google Play and the App Store, with Malayalam screens where needed.",
-    maintenance: "Monsoon-proof support for Kerala websites and apps: backups, updates, uptime checks and quick fixes, with five months free after launch.",
+    maintenance: "Monsoon-proof support for Kerala websites and apps: backups, updates, uptime checks and quick fixes, with two months free after launch.",
   },
   whyUsIntro:
     "Kerala customers value trust, clear communication and follow-through. You speak directly to the three engineers doing the work, get written starting prices before any commitment, and keep ownership of your code, domain and accounts.",
@@ -193,7 +193,7 @@ const content: CityContent = {
       heading: "Hosting, maintenance and IT support for Kerala websites and apps",
       paragraphs: [
         "Hosting and maintenance keep a Kerala website or app fast, secure and available through every season. We deploy on reliable cloud platforms with SSL, daily backups, uptime monitoring and automated deployments, and register every account in your name.",
-        "After launch you get five months of free maintenance covering fixes, updates, backups, security and speed checks. After that, support plans start from ₹8,000 per month, or you can pay per task. We reply on WhatsApp seven days a week, and urgent issues that stop bookings or orders are handled first.",
+        "After launch you get two months of free maintenance covering fixes, updates, backups, security and speed checks. After that, support plans start from ₹8,000 per month, or you can pay per task. We reply on WhatsApp seven days a week, and urgent issues that stop bookings or orders are handled first.",
         "We do not offer on-site hardware or network repair. For computers, printers or office networks, a local technician is the right partner, and we coordinate with them whenever software is involved.",
       ],
     },
@@ -322,7 +322,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. Five months of maintenance are free after go-live, including fixes, updates, backups, security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per change.",
+        "Yes. Two months of maintenance are free after go-live, including fixes, updates, backups, security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per change.",
     },
     {
       question: "Can you build a booking website for a houseboat or homestay?",

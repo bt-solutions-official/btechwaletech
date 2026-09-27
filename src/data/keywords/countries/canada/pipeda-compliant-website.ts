@@ -45,7 +45,7 @@ const content: FreelanceContent = {
     { value: "10", label: "Fair information principles the build maps to" },
     { value: "3", label: "Freelance developers on the project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What makes a PIPEDA compliant website?",
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Access and correction requests", note: "A simple request form and an internal inbox so people can ask to see or correct their information, and your team can track replies.", href: "/canada/custom-software-development/", size: "md" },
       { name: "Store and checkout privacy", note: `Guest checkout, minimal account fields and card entry handled by your processor's hosted fields, in store builds from ${P.shop}.`, href: "/canada/ecommerce-website-development/", size: "sm" },
       { name: "Retention and deletion jobs", note: "Scheduled clean-up so old enquiries and abandoned carts are removed after the period you set.", size: "sm" },
-      { name: "Ongoing care", note: `Security updates and a check of new plugins or tools before they collect data, from ${P.care} after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing care", note: `Security updates and a check of new plugins or tools before they collect data, from ${P.care} after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Can people ask to see the information my website collected about them?", answer: "Yes, the individual access principle gives people that right, with limited exceptions your lawyer can explain. We publish a clear route on the privacy page, usually a short request form or dedicated email, and our processor register tells your team every place to look when a request arrives." },
     { question: "Does a PIPEDA compliant website affect SEO?", answer: "Not negatively. Search rankings depend on content, links and technical quality, and a clean privacy setup does not change those. Analytics numbers may drop when tracking waits for consent, but Google Search Console measures search performance on Google's side. Fast, secure HTTPS pages help both privacy and search." },
     { question: "Who owns the website and the data?", answer: "You do. The domain, hosting, code, form storage, processor accounts and every record are in your business's name. We work through named access you grant and remove it at the end. You can move the site to another developer or in-house at any time without needing anything released by us." },
-    { question: "What happens after launch?", answer: `The first five months include free maintenance: security updates, fixes and a check of any new plugin or tool before it starts collecting data. After that, care plans start at ${P.care}. You can also run through the checklist on this page yourself every few months, especially after adding marketing tools.` },
+    { question: "What happens after launch?", answer: `The first two months include free maintenance: security updates, fixes and a check of any new plugin or tool before it starts collecting data. After that, care plans start at ${P.care}. You can also run through the checklist on this page yourself every few months, especially after adding marketing tools.` },
     { question: "How do quotes and payments work?", answer: "You receive an itemised written quote in USD, usually within two working days of a call. Work starts only after you approve it, and nothing is billed before then. Payment is by Wise, bank wire or PayPal, with invoices issued from India. Payment stages and any data-handling terms are set out in your quote." },
     { question: "Do you give legal advice on PIPEDA?", answer: "No. We are developers. We explain what the build does and which official guidance it follows, and we give your lawyer accurate facts about what the site collects and where data goes. Legal interpretation, policy wording and the final judgement on compliance come from your own counsel." },
   ],

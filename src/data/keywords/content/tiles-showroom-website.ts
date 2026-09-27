@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Custom room visualiser", `From ${P.software}`],
     ["Catalogue launch", "1–2 weeks once photos and data are ready"],
     ["Quote", "Itemised within about 2 working days"],
-    ["Maintenance", "5 months free after launch"],
+    ["Maintenance", "2 months free after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your showroom website" },
     { value: "100", label: "Pages in the starting static plan" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Platform fees charged on your enquiries" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Room visualiser", value: `Custom build from ${P.software}` },
       { label: "Lead routes", value: "Visit booking, architect form, builder bulk form, WhatsApp shortlist" },
       { label: "Image handling", value: "Compressed WebP or AVIF, lazy loading, zoom on demand" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Showroom visit booking", note: "Choose a date and time slot, note the rooms being planned, and receive a WhatsApp confirmation, so your staff prepare samples in advance.", size: "md" },
       { name: "Builder bulk enquiries", note: "Project name, number of units, tile types and delivery schedule in one form, routed to your project sales person.", href: "/b2b-website-developer/", size: "sm" },
       { name: "Google Business Profile", note: "Categories, photos of the display floor and consistent details so the showroom appears on Maps for local searches.", href: "/google-business-profile-expert/", size: "sm" },
-      { name: "Upkeep", note: `New collections, discontinued designs, backups and updates: 5 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Upkeep", note: `New collections, discontinued designs, backups and updates: 2 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your business owns the domain, hosting, code, images and enquiry data. We work inside accounts in your name and hand over admin access, the code repository and a guide for staff.`,
         `Tile collections change often, so the real test is whether your staff can keep up. We train them on adding designs, retiring discontinued ones and updating featured collections, usually on a video call with their own phones and laptops. A catalogue that still shows last year’s discontinued designs frustrates buyers who arrive asking for them.`,
-        `Five months of maintenance are included after launch, covering fixes, updates, backups and small feature changes. After that, maintenance continues from ${P.care} if you want it. Ongoing terms are written into your quote; our <a href='/refund-policy/'>refund policy</a> covers cancellations.`,
+        `Two months of maintenance are included after launch, covering fixes, updates, backups and small feature changes. After that, maintenance continues from ${P.care} if you want it. Ongoing terms are written into your quote; our <a href='/refund-policy/'>refund policy</a> covers cancellations.`,
       ],
     },
     {
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Structure the catalogue data", "We agree tags, filters and box data, give you an import template, and list which photos each design needs so tagging and shooting can run in parallel."],
       ["Build templates and tools", "Catalogue, design pages, calculator, booking and forms are built and tested on phones, with images compressed and resized automatically on upload."],
       ["Import, review and launch", "Your catalogue is imported, staff review designs and filters, and we connect the domain, Search Console, image sitemap and Business Profile links in your accounts."],
-      ["Five months of care", "Fixes, updates and help with new collections are free for five months, then maintenance continues monthly only if you want it."],
+      ["Two months of care", "Fixes, updates and help with new collections are free for two months, then maintenance continues monthly only if you want it."],
     ],
   },
   faqHeading: "Tiles showroom website: questions showroom owners ask",
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
     { question: "Can the website help my showroom rank on Google Maps?", answer: "The website supports your Google Business Profile, which is what appears on Maps. We make sure name, address, phone and hours match, link the site and profile, add local business markup and build category pages for local searches. Real photos of your floor and genuine reviews on the profile also matter." },
     { question: "Freelance team or agency for a tiles showroom website?", answer: "An agency may offer more hands and in-person meetings; a small freelance team gives you direct contact with the developers and a leaner process. Quotes vary widely between both. Judge any provider on how they handle catalogue data, image speed and your ownership of the domain, hosting and code." },
     { question: "Who owns the tiles showroom website and photos?", answer: "Your business does: domain, hosting, code, catalogue data, the photos you supply and every enquiry. We set everything up in accounts in your name and hand over admin access, the repository and a staff guide. Manufacturer images remain subject to the manufacturer’s permission, so we use only those you are allowed to use." },
-    { question: "What maintenance is included after launch?", answer: `Five months of maintenance are included: fixes, updates, backups and help with small changes. After that, maintenance continues from ${P.care} a month if you choose. Your staff handle everyday updates such as new designs and discontinued collections from the admin, so the catalogue never waits on us.` },
+    { question: "What maintenance is included after launch?", answer: `Two months of maintenance are included: fixes, updates, backups and help with small changes. After that, maintenance continues from ${P.care} a month if you choose. Your staff handle everyday updates such as new designs and discontinued collections from the admin, so the catalogue never waits on us.` },
     { question: "How do I pay for the website?", answer: "In India, by UPI or bank transfer against milestones in the approved quote, with an invoice for each payment. International clients pay in US dollars through Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and the refund policy page on our site explains cancellations." },
     { question: "Do I need an app for my tiles showroom?", answer: `Most showrooms do not. A fast mobile website handles browsing, shortlists and booking without an install. A trade app from ${P.app} can make sense if you have many architects and builders who order repeatedly and want saved projects and alerts. Start with the website and see how professionals use it.` },
     { question: "Can buyers share a tile shortlist with family or their architect?", answer: "Yes. Buyers add designs to a shortlist without logging in and share it by link on WhatsApp. The shortlist shows each design, size, finish and the calculated boxes, and includes a button to book a visit. Architects can create shortlists per project for their clients." },

@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Free scoping call", "AI automation from ₹40,000", "Android and iOS apps from ₹40,000", "Custom software from ₹60,000", "UPI or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides freelance IT consulting and development in Mumbai: a free scoping call, then websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, typically in one to twelve weeks. We are three engineers working remotely, not a Mumbai office, with five months of free maintenance.",
+    "BtechWaleTech provides freelance IT consulting and development in Mumbai: a free scoping call, then websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, typically in one to twelve weeks. We are three engineers working remotely, not a Mumbai office, with two months of free maintenance.",
   snapshot: [
     { label: "Financial districts", value: "Bandra-Kurla Complex, Nariman Point, Fort and Lower Parel, with the BSE on Dalal Street and the NSE at BKC" },
     { label: "Wholesale and trade", value: "Crawford Market, Masjid Bunder, Kalbadevi, Mangaldas Market and Zaveri Bazaar for jewellery" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents for Mumbai back offices: reading contracts and invoices, answering client queries on WhatsApp, reconciling data and drafting reports for approval.",
     data: "Dashboards for Mumbai owners and finance teams that unify Tally, ERP, CRM and bank data into clear daily and monthly views.",
     app: "Android and iOS apps from ₹40,000 for Mumbai businesses, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Support for Mumbai systems after launch: patches, backups, monitoring and small changes, with five free months and then plans from ₹8,000 a month.",
+    maintenance: "Support for Mumbai systems after launch: patches, backups, monitoring and small changes, with two free months and then plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mumbai vendors often price in their real estate. We do not have any, so the money goes into engineering. You consult with and are served by the same three engineers, and every recommendation comes with a cost you can check.",
@@ -234,7 +234,7 @@ const content: CityContent = {
       id: "support-ownership-mumbai",
       heading: "Support, maintenance and ownership after a Mumbai project",
       paragraphs: [
-        "After a Mumbai project launches, you own the code, domain, hosting and app store accounts, and get five months of free maintenance covering fixes, updates, backups, security and speed checks. After that, support starts at ₹8,000 per month, or per task.",
+        "After a Mumbai project launches, you own the code, domain, hosting and app store accounts, and get two months of free maintenance covering fixes, updates, backups, security and speed checks. After that, support starts at ₹8,000 per month, or per task.",
         "We respond on WhatsApp, email and calls seven days a week, prioritising issues that stop orders, payments or client service. Every change is logged.",
         "Handover documentation explains deployment, data locations and backup restoration, so your business never depends on us alone. Read more about us on the <a href='/about/'>about page</a>, see the <a href='/portfolio/'>portfolio</a>, or explore the wider <a href='/india/maharashtra/'>Maharashtra overview</a>.",
       ],
@@ -334,7 +334,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included?",
       answer:
-        "Yes. Five months of maintenance are free after launch, covering fixes, updates, backups and security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
+        "Yes. Two months of maintenance are free after launch, covering fixes, updates, backups and security and speed checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
     },
     {
       question: "Do you speak Marathi, Hindi or Gujarati?",

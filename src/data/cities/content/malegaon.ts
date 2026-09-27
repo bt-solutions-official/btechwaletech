@@ -35,7 +35,7 @@ const malegaon: CityContent = {
     pills: ["Sites from ₹10,000", "Grey cloth catalogues", "Urdu, Marathi, Hindi pages", "WhatsApp order logging", "You own the code"],
   },
   quickAnswer:
-    "A business website in Malegaon costs from ₹10,000 with us and is usually live within one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, write in Marathi, Urdu, Hindi or English, and give you full ownership plus five months of free maintenance.",
+    "A business website in Malegaon costs from ₹10,000 with us and is usually live within one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, write in Marathi, Urdu, Hindi or English, and give you full ownership plus two months of free maintenance.",
   snapshot: [
     { label: "Main industry", value: "Powerloom weaving of cotton and synthetic grey cloth, sarees and processed fabric, largely in small decentralised units" },
     { label: "City character", value: "Nashik district's second-largest city, on the Girna river, with the Mosam river dividing the old city from Malegaon Camp" },
@@ -52,7 +52,7 @@ const malegaon: CityContent = {
     ai: "WhatsApp assistants that log fabric orders, reply to rate enquiries in Hindi or Marathi, and send payment reminders to traders on a schedule you set.",
     data: "Phone-friendly dashboards that show metres woven, pending payments and top-buying parties, pulled from Tally and daily production sheets.",
     app: "Android and iOS apps for powerloom mill supervisors, school fee collection and clinic queues on low-cost phones, from ₹40,000.",
-    maintenance: "Rate list changes, new fabric photos, backups and security updates, free for five months after launch and ₹8,000 a month after that.",
+    maintenance: "Rate list changes, new fabric photos, backups and security updates, free for two months after launch and ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Most Malegaon owners we speak to have one worry: paying someone and then being unable to reach them when the site breaks. We answer on WhatsApp every day, put every price in writing before starting and register the domain and hosting in your name. If you ever want to leave, you take everything with you.",
@@ -177,7 +177,7 @@ const malegaon: CityContent = {
       paragraphs: [
         "A common Malegaon story goes like this: a relative or a local developer built the site years ago, registered the domain in his own name and then became unreachable. When the domain expired, the business lost its email and website on the same day. Getting access back can take weeks and sometimes money.",
         "We avoid that by setting everything up in your name from the start. The domain is registered to your business, hosting sits in your account, and at launch you receive every login, the source code and a short written note on how the site is put together. You are free to move to another developer at any time, and there is no exit fee.",
-        "Maintenance is free for the first five months after launch. That covers content and rate updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, <a href=\"/contact/\">you can continue</a> from ₹8,000 a month or simply message us when you need a change and pay for that work alone.",
+        "Maintenance is free for the first two months after launch. That covers content and rate updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, <a href=\"/contact/\">you can continue</a> from ₹8,000 a month or simply message us when you need a change and pay for that work alone.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const malegaon: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle content and rate updates, bug fixes, security updates, backups, uptime checks and speed monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can pay only when you need a specific change.",
+        "For two months after launch we handle content and rate updates, bug fixes, security updates, backups, uptime checks and speed monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can pay only when you need a specific change.",
     },
     {
       question: "How do we start?",

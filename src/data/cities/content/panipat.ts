@@ -31,11 +31,11 @@ const panipat: CityContent = {
     eyebrow: "Panipat · Haryana",
     h1: "Websites, online stores, SEO and automation that sell Panipat's textiles in India and abroad",
     lede:
-      "A remote team of three engineers building export catalogues, trade websites, online stores and order automations for Panipat's home-furnishing, blanket, rug and yarn businesses, and for the shops, clinics and schools of the city. Our prices are public, you own every file, and the first five months of maintenance are free.",
+      "A remote team of three engineers building export catalogues, trade websites, online stores and order automations for Panipat's home-furnishing, blanket, rug and yarn businesses, and for the shops, clinics and schools of the city. Our prices are public, you own every file, and the first two months of maintenance are free.",
     pills: ["Export-ready catalogues", "Sites from ₹10,000", "Buyer-focused SEO", "UPI and card stores", "WhatsApp order flows"],
   },
   quickAnswer:
-    "For Panipat businesses, a static website costs from ₹10,000 (one to two weeks), a 299+ page SEO or catalogue site from ₹20,000 (three to five weeks) and an online store from ₹50,000. We are three remote engineers with no Panipat office, so prices carry no overheads, and every build includes five free months of maintenance.",
+    "For Panipat businesses, a static website costs from ₹10,000 (one to two weeks), a 299+ page SEO or catalogue site from ₹20,000 (three to five weeks) and an online store from ₹50,000. We are three remote engineers with no Panipat office, so prices carry no overheads, and every build includes two free months of maintenance.",
   snapshot: [
     { label: "Main trade", value: "Home furnishings, carpets, rugs, bath mats, curtains, bedsheets and handloom made for export" },
     { label: "Recycling", value: "Widely described as the world's largest centre for shoddy yarn, and the source of most of India's blankets" },
@@ -52,10 +52,10 @@ const panipat: CityContent = {
     ai: "WhatsApp and email automation that sorts buyer enquiries, replies with the right catalogue and logs every lead.",
     data: "Order, production and shipment dashboards drawn from the Excel sheets your merchandising team already maintains.",
     app: "Android and iOS apps for textile sales agents, dealer orders and factory attendance on ordinary phones, released on Google Play and the App Store.",
-    maintenance: "Catalogue updates, backups and security fixes free for five months, then from ₹8,000 a month.",
+    maintenance: "Catalogue updates, backups and security fixes free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Panipat exporters often use buying-house contacts and trade fairs rather than websites, and many local sites were built years ago and never touched again. We build sites buyers actually use, publish our prices, reply on WhatsApp every day and look after the site free for five months after launch.",
+    "Panipat exporters often use buying-house contacts and trade fairs rather than websites, and many local sites were built years ago and never touched again. We build sites buyers actually use, publish our prices, reply on WhatsApp every day and look after the site free for two months after launch.",
   pricingIntro:
     "A local shop, a pickle brand and an export house with four hundred SKUs need very different amounts of work. These starting prices apply to all of them, and your quote lists each page and feature separately so you can see where the money goes before approving anything.",
   sections: [
@@ -169,7 +169,7 @@ const panipat: CityContent = {
       paragraphs: [
         "We often hear from Panipat firms whose website was built by a relative or a small agency years ago. The domain is in someone else's email, product photos are stored on a server nobody can reach, and every update requires a phone call that goes unanswered. For an exporter, a dead website at the moment a buyer checks it can cost a real order.",
         "With us, your domain is registered in your company's name and hosting runs on your own account. At launch you receive all logins, the full source code and a short document explaining the set-up. Product images and data are yours to reuse anywhere, and you can move to another developer at any time without an exit fee.",
-        "The five months after launch include free maintenance: catalogue and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can pay per change.",
+        "The two months after launch include free maintenance: catalogue and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can pay per change.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const panipat: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle catalogue and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can pay only for the changes you ask for.",
+        "For two months after launch we handle catalogue and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can pay only for the changes you ask for.",
     },
     {
       question: "How long does SEO take to bring export enquiries?",

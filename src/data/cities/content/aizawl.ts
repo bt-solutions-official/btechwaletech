@@ -7,7 +7,7 @@ const aizawl: CityContent = {
   meta: {
     title: "Web Design & SEO in Aizawl, Mizoram | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Aizawl shops, weavers, homestays and clinics. Sites from ₹10,000, five months of free maintenance.",
+      "Websites, local SEO, online stores and WhatsApp automation for Aizawl shops, weavers, homestays and clinics. Sites from ₹10,000, two months of free maintenance.",
     keywords: [
       "website development team in Aizawl",
       "web design Aizawl",
@@ -31,11 +31,11 @@ const aizawl: CityContent = {
     eyebrow: "Aizawl · Mizoram",
     h1: "Websites, search visibility and automation for Aizawl businesses",
     lede:
-      "Three remote engineers building quick-loading websites, puan and produce stores, homestay booking pages and WhatsApp workflows for businesses along Aizawl's ridges, from Bara Bazar to Durtlang. Prices are published, the code and domain are yours, and the first five months of upkeep after launch are free.",
+      "Three remote engineers building quick-loading websites, puan and produce stores, homestay booking pages and WhatsApp workflows for businesses along Aizawl's ridges, from Bara Bazar to Durtlang. Prices are published, the code and domain are yours, and the first two months of upkeep after launch are free.",
     pills: ["Sites from ₹10,000", "English and Mizo pages", "UPI stores for puan sellers", "Homestay bookings", "WhatsApp automation"],
   },
   quickAnswer:
-    "For an Aizawl business, a simple website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO site starts at ₹20,000. Online stores start at ₹50,000. We are a remote team of three engineers with no Aizawl office, and every build includes five months of free maintenance.",
+    "For an Aizawl business, a simple website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO site starts at ₹20,000. Online stores start at ₹50,000. We are a remote team of three engineers with no Aizawl office, and every build includes two months of free maintenance.",
   snapshot: [
     { label: "Commercial core", value: "Bara Bazar, Dawrpui (Millennium Centre), Zarkawt and Chanmari" },
     { label: "Connectivity", value: "Sairang railhead on the Bairabi–Sairang line (opened September 2025) and Lengpui Airport" },
@@ -52,10 +52,10 @@ const aizawl: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that answer the questions an Aizawl shop, clinic or homestay hears every day, in English or Mizo, with a person taking over when needed.",
     data: "Sales, stock and booking data turned into simple dashboards for owners who manage suppliers in Silchar and Guwahati and customers across Mizoram.",
     app: "Android and iOS apps for orders, room bookings and student notices that cope with weak signal on the hills, released on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and speed checks, free for the first five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and speed checks, free for the first two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Aizawl has only a handful of local web design firms, and many businesses end up hiring agencies in Guwahati or Delhi who have never seen the city and quote without publishing a price. We put every starting price online, reply on WhatsApp seven days a week, and keep looking after your site free for five months after it goes live.",
+    "Aizawl has only a handful of local web design firms, and many businesses end up hiring agencies in Guwahati or Delhi who have never seen the city and quote without publishing a price. We put every starting price online, reply on WhatsApp seven days a week, and keep looking after your site free for two months after it goes live.",
   pricingIntro:
     "Businesses in Aizawl often receive quotes from outside the state with no breakdown at all, sometimes with a large advance and no clear list of pages. Our starting prices are below. The final number depends on how many pages, products and languages you need, and you see it itemised before anything is billed.",
   sections: [
@@ -173,11 +173,11 @@ const aizawl: CityContent = {
     },
     {
       id: "ownership-aizawl",
-      heading: "Your domain, your hosting, and five free months of upkeep",
+      heading: "Your domain, your hosting, and two free months of upkeep",
       paragraphs: [
         "A familiar story in smaller markets goes like this: a relative or an outside agency built the website years ago, registered the domain under their own email, and has since stopped replying. The renewal lapses, the site disappears, and the business loses the address printed on every visiting card. We make sure that cannot happen to you.",
         "The domain is registered in your name, the hosting account is in your name, and at launch you receive every login plus a short note explaining where each part lives. The source code is yours to keep or hand to any other developer, with no exit charge. If you later hire someone in Aizawl to take over, they can start the same day.",
-        "For five months after launch, maintenance is free. That covers text and price changes, bug fixes, security and software updates, backups, uptime checks and speed tests. Afterwards maintenance costs from ₹8,000 a month, or you can simply message us when you need something done. To start a conversation, use our <a href=\"/contact/\">contact page</a> or WhatsApp.",
+        "For two months after launch, maintenance is free. That covers text and price changes, bug fixes, security and software updates, backups, uptime checks and speed tests. Afterwards maintenance costs from ₹8,000 a month, or you can simply message us when you need something done. To start a conversation, use our <a href=\"/contact/\">contact page</a> or WhatsApp.",
       ],
     },
   ],
@@ -267,9 +267,9 @@ const aizawl: CityContent = {
         "Yes, fully. The domain and hosting are registered in your name, and at launch you receive all passwords and the source code. You can move to another developer whenever you like, with no exit fee. We insist on this because lost access to old websites is common across the region.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months after launch, we handle content changes, fixes, updates, backups and monitoring at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work alone.",
+        "During the first two months after launch, we handle content changes, fixes, updates, backups and monitoring at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work alone.",
     },
     {
       question: "What should I send you for a quote?",

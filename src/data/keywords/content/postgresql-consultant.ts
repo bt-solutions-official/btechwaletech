@@ -34,7 +34,7 @@ const content: FreelanceContent = {
   },
   facts: [
     ["First step", "Read-only review of your slowest queries"],
-    ["Ongoing care", `From ${P.care} after 5 free months`],
+    ["Ongoing care", `From ${P.care} after 2 free months`],
     ["New app on Postgres", `From ${P.software}`],
     ["Hosting we work with", "RDS, Aurora, Cloud SQL, Azure, Supabase, self-hosted"],
     ["Quote", "Itemised in about 2 working days"],
@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who share your database notes" },
     { value: "2", label: "Working days to findings and a quote" },
-    { value: "5", label: "Months of free care after a build" },
+    { value: "2", label: "Months of free care after a build" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Receive findings and a quote", "Within about two working days you get the top problems in plain English and an itemised estimate. Nothing is billed until you approve it in writing."],
       ["Change one thing at a time", "Each fix is tested on a copy or staging first, applied in an agreed window with a backup ready, and logged with the exact command run."],
       ["Measure and document", "We compare plans, timings and resource graphs before and after, then hand over the change log, runbooks and monitoring settings."],
-      ["Keep it healthy", `Optional monthly care from ${P.care}: slow-query reviews, vacuum checks, restore tests and minor upgrades. Projects we build get five free months first.`],
+      ["Keep it healthy", `Optional monthly care from ${P.care}: slow-query reviews, vacuum checks, restore tests and minor upgrades. Projects we build get two free months first.`],
     ],
   },
   faqHeading: "PostgreSQL consultant: questions teams ask",

@@ -52,7 +52,7 @@ const ranibennur: CityContent = {
     ai: "WhatsApp assistants that answer the rate, stock and variety questions dealers and farmers repeat every day, and hand anything unusual to your staff.",
     data: "Season dashboards comparing plots, villages and varieties, so a seed production manager can see germination and yield patterns without waiting for month-end.",
     app: "Android and iOS apps for field supervisors who record plot visits, photos and GPS points in villages with patchy signal, syncing later, from ₹40,000.",
-    maintenance: "Rate list changes, new variety pages and security updates, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Rate list changes, new variety pages and security updates, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Most software on offer to Ranibennur firms is either a generic website template or a large ERP priced for city factories. The work here sits in between: a seed organiser tracking a few hundred growers, or a cloth wholesaler with retailers across three districts. We build that middle layer, publish our starting prices and answer on WhatsApp every day of the week.",
@@ -175,7 +175,7 @@ const ranibennur: CityContent = {
       heading: "Who owns the system, and looking after it through the seasons",
       paragraphs: [
         "A register holding several years of grower records or trading accounts is a business asset. It should belong to you, not to the developer. The domain, hosting account and source code are registered in your name from the start, and we hand over the credentials and a short written guide when the project finishes.",
-        "After launch, maintenance is free for five months. That covers content changes, fixes, security updates and backups, which typically carries a seed firm through its first full season on the new system. After that, maintenance starts from ₹8,000 a month if you want us to continue, or you can take the code to anyone else.",
+        "After launch, maintenance is free for two months. That covers content changes, fixes, security updates and backups, which typically carries a seed firm through its first full season on the new system. After that, maintenance starts from ₹8,000 a month if you want us to continue, or you can take the code to anyone else.",
         "We also document the data. If a future team, or your own staff, need to export grower lists or ledger entries, they can do it without guessing what each column means. That is the difference between owning software and merely renting access to it.",
       ],
     },
@@ -270,7 +270,7 @@ const ranibennur: CityContent = {
         "You do. The domain, hosting and source code are registered in your name, and we hand over credentials and a short guide at the end. If you later move to another developer, they can take over without asking our permission.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose. Maintenance continues from ₹8,000 a month, covering updates, backups, security fixes and small changes, or you take full control yourself. There is no lock-in, and your data export is documented so anyone can use it.",
     },

@@ -35,7 +35,7 @@ const hardoi: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Trader and dealer catalogues", "Clinic and school sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "Hardoi businesses can get a static website from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Hardoi office, and we maintain every site free for five months after launch.",
+    "Hardoi businesses can get a static website from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Hardoi office, and we maintain every site free for two months after launch.",
   snapshot: [
     { label: "Location", value: "District headquarters in Lucknow division, about 110 km north-west of Lucknow" },
     { label: "District", value: "Third largest district in Uttar Pradesh by area, with five tehsils: Hardoi, Sandila, Shahabad, Bilgram and Sawayajpur" },
@@ -52,7 +52,7 @@ const hardoi: CityContent = {
     ai: "WhatsApp replies in Hindi for rates, stock, fees and appointments that run all day and pass unusual cases to you.",
     data: "Phone dashboards for owners that show sales, purchases, dues and stock without opening a register.",
     app: "Android and iOS apps for dealer orders, school notices or patient tokens, starting at ₹40,000 and released on both app stores in six to ten weeks.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "In Hardoi the usual choice is a local cyber café template with the domain in someone else's name, or a Lucknow agency with a yearly contract. We are neither: three engineers with public starting prices, itemised written quotes, WhatsApp replies every day, and the domain, hosting and code registered to you.",
@@ -183,7 +183,7 @@ const hardoi: CityContent = {
       paragraphs: [
         "Many Hardoi businesses have had a site built by a relative or a local operator who registered the domain in his own name. When he moved to Lucknow or Delhi, or simply stopped answering, the renewal lapsed and the site vanished, taking every shared link and review with it.",
         "We prevent that from day one. The domain and hosting are registered in your name. At launch you receive every login, the full source code and a short guide to how the site works. You can move to another developer at any time without paying us anything.",
-        "For five months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when something is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "For two months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups and uptime checks. After that it continues from ₹8,000 a month, or you can contact us only when something is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
   ],
@@ -270,7 +270,7 @@ const hardoi: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we cover text and price updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we cover text and price updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in Sandila, Shahabad, Sitapur and Lucknow?",

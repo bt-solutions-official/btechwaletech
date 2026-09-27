@@ -34,7 +34,7 @@ const portBlair: CityContent = {
     pills: ["Sites from ₹10,000", "Direct booking pages", "Port Blair and SVP searches", "Hindi, Tamil, Bengali pages", "Code and domain yours"],
   },
   quickAnswer:
-    "A website for a Sri Vijaya Puram (Port Blair) business starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site for a tour operator starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team of three with no office in the islands, and five months of maintenance come free.",
+    "A website for a Sri Vijaya Puram (Port Blair) business starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site for a tour operator starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team of three with no office in the islands, and two months of maintenance come free.",
   snapshot: [
     { label: "Name", value: "Officially renamed Sri Vijaya Puram on 13 September 2024; most travellers still search for Port Blair" },
     { label: "Role", value: "Capital of the Andaman and Nicobar Islands union territory, on the east coast of South Andaman" },
@@ -51,7 +51,7 @@ const portBlair: CityContent = {
     ai: "WhatsApp replies that answer package, ferry-timing and room questions late at night, when mainland guests plan their trips.",
     data: "Dashboards that show bookings by season, source and island so owners can plan staff before the October rush.",
     app: "Android and iOS apps for guest itineraries and driver duty sheets that still open when the signal drops, published on Google Play and the App Store.",
-    maintenance: "Five months of free care after launch, then support from ₹8,000 a month, including seasonal tariff updates.",
+    maintenance: "Two months of free care after launch, then support from ₹8,000 a month, including seasonal tariff updates.",
   },
   whyUsIntro:
     "Island businesses usually depend on a mainland agency they have never met or on booking portals that take a cut of every room. We are three engineers who publish starting prices, answer on WhatsApp seven days a week and hand over the domain, hosting and code in your name.",
@@ -183,7 +183,7 @@ const portBlair: CityContent = {
       heading: "Your domain, your code, and care through the monsoon",
       paragraphs: [
         "Many island businesses have lost a website because a mainland freelancer registered the domain in his own name and then stopped answering. Renewals lapsed, emails bounced and reviews linked to a dead page. We avoid that from the start: the domain and hosting are registered to you, and at launch you receive every password, the full source code and a short guide.",
-        "Maintenance is free for five months after launch. That covers tariff and package updates, bug fixes, security patches, backups and uptime checks. Those five months usually include the busiest weeks of your season, when a broken form costs the most. After that, care continues from ₹8,000 a month, or you can call on us only when needed.",
+        "Maintenance is free for two months after launch. That covers tariff and package updates, bug fixes, security patches, backups and uptime checks. Those two months usually include the busiest weeks of your season, when a broken form costs the most. After that, care continues from ₹8,000 a month, or you can call on us only when needed.",
         "The monsoon months are a good time for bigger changes: new photos, new itineraries, fresh island pages. We plan that work with you so the site is ready before bookings pick up again. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
       ],
     },
@@ -279,7 +279,7 @@ const portBlair: CityContent = {
         "Yes. Because we work remotely, location makes no difference to the process. We work with hotels, dive centres and operators on Swaraj Dweep, Shaheed Dweep, Baratang, Rangat, Mayabunder and Diglipur, and with mainland businesses in Chennai, Kolkata and Visakhapatnam that serve the islands.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "Maintenance continues from ₹8,000 a month and covers tariff changes, security updates, backups, uptime checks and small fixes. You can also stop the plan and contact us only when something needs doing. Nothing renews without your agreement.",
     },

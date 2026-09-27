@@ -40,7 +40,7 @@ const content: CityContent = {
     h1: "Freelance IT services for Uttar Pradesh: software, AI automation, apps and SEO",
     lede:
       "BtechWaleTech provides IT services in Uttar Pradesh as a freelance group of three engineers working remotely from India. We build custom software and web apps for MSMEs, AI and WhatsApp automation for high-volume enquiries, dashboards, mobile apps, ecommerce for ODOP products, and SEO in Hindi and English, for businesses from the Noida and Ghaziabad NCR belt to Lucknow, Kanpur, Agra, Prayagraj and Varanasi.",
-    pills: ["Websites from ₹10,000", "Custom software from ₹60,000", "AI automation from ₹40,000", "Hindi and English builds", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Custom software from ₹60,000", "AI automation from ₹40,000", "Hindi and English builds", "2 months free maintenance"],
   },
   quickAnswer:
     "IT services in Uttar Pradesh from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Websites take one to two weeks, software six to twelve. Itemised quotes arrive within about two working days.",
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp Business API flows that handle high-volume Hindi and English enquiries, qualify leads and update your CRM.",
     data: "Dashboards pulling sales, production and collections into one view for owners with units in more than one UP city.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store, for field sales, distributors, students and patients across Uttar Pradesh.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Uttar Pradesh has everything from large Noida IT firms to single freelancers in every district town. We sit between them: three engineers you message directly, starting prices published online, Hindi-first builds where they help, and every account in your name.",
@@ -173,14 +173,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting keeps Uttar Pradesh business websites and software on managed servers with automatic backups rather than a single office computer. BtechWaleTech includes hosting setup and deployment on AWS or similar providers in every project, registered in your name, with SSL, daily backups and uptime monitoring.",
         "Power fluctuations and hardware failures remain real risks in many UP towns. With cloud hosting, a failed computer is an inconvenience, not a disaster. We also set up separate staging and live environments so updates are tested before your staff see them.",
-        "Maintenance is free for five months after launch, covering bug fixes, security updates, backups and small changes. After that, plans start at ₹8,000 a month. We do not provide on-site hardware repair or networking; for those, a local technician is the right call and we will say so.",
+        "Maintenance is free for two months after launch, covering bug fixes, security updates, backups and small changes. After that, plans start at ₹8,000 a month. We do not provide on-site hardware repair or networking; for those, a local technician is the right call and we will say so.",
       ],
     },
     {
       id: "up-cost-guide",
       heading: "How much do IT services cost in Uttar Pradesh?",
       paragraphs: [
-        "IT services in Uttar Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Uttar Pradesh with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months.",
         "Prices are starting points. A bilingual five-page clinic site stays near ₹10,000; a dealer portal with role-based logins, Tally imports and a sales app costs more. You receive an itemised quote within about two working days, with every line visible so you can remove what you do not need.",
         "Because we work remotely, there is no office rent or travel charge in the quote, whether you are in Noida or a smaller district town. Compare every plan on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -217,7 +217,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech works with Uttar Pradesh clients entirely online: requirements on WhatsApp or video call, an itemised quote, designs for approval, a staged build on a private link and launch with full handover. We have no office anywhere in Uttar Pradesh, and we reply seven days a week.",
         "You can send photos of registers, voice notes in Hindi, or screenshots of tools you use now, and we turn them into a clear written scope. Payment is in INR only, by UPI QR code or direct bank transfer to our bank account, split across milestones you can test before paying the next part.",
-        "At handover you receive the source code, domain and hosting logins, an admin guide and a recorded staff walkthrough. Five months of maintenance follow at no charge.",
+        "At handover you receive the source code, domain and hosting logins, an admin guide and a recorded staff walkthrough. Two months of maintenance follow at no charge.",
       ],
     },
   ],
@@ -278,7 +278,7 @@ const content: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering text and image updates, bug fixes, security and dependency updates, backups, and speed and uptime checks. After that, plans start at ₹8,000 a month, or you can pay only when changes are needed. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance are free after launch, covering text and image updates, bug fixes, security and dependency updates, backups, and speed and uptime checks. After that, plans start at ₹8,000 a month, or you can pay only when changes are needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How long does SEO take to show results in UP?",

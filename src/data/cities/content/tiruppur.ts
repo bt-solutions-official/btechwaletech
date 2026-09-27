@@ -34,7 +34,7 @@ const tiruppur: CityContent = {
     pills: ["Sites from ₹10,000", "Export buyer catalogues", "D2C apparel stores", "Tamil and English SEO", "Code and domain yours"],
   },
   quickAnswer:
-    "A website for a Tiruppur garment or knitwear business starts at ₹10,000 with us and takes one to two weeks. A 299+ page export catalogue site starts at ₹20,000, a D2C apparel store at ₹50,000 and order or production software at ₹60,000. We work remotely, you own everything, and maintenance is free for five months after launch.",
+    "A website for a Tiruppur garment or knitwear business starts at ₹10,000 with us and takes one to two weeks. A 299+ page export catalogue site starts at ₹20,000, a D2C apparel store at ₹50,000 and order or production software at ₹60,000. We work remotely, you own everything, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Core industry", value: "Cotton knitwear: T-shirts, innerwear, sportswear, nightwear and kidswear, with thousands of garment units across the city" },
     { label: "Export role", value: "Widely known as India's knitwear capital and the source of most of the country's cotton knitwear exports" },
@@ -51,7 +51,7 @@ const tiruppur: CityContent = {
     ai: "WhatsApp assistants that answer retailer and buyer questions about MOQs, sizes and lead times in Tamil, Hindi and English, and log each enquiry.",
     data: "Dashboards showing orders by buyer, style and stage, delayed lots and job-worker performance, built from Excel sheets you already keep.",
     app: "Android and iPhone apps for supervisors recording line output, drivers confirming job-work deliveries and salesmen taking wholesale orders, from ₹40,000.",
-    maintenance: "New styles, season catalogues, backups and security updates handled free for five months, then from ₹8,000 a month.",
+    maintenance: "New styles, season catalogues, backups and security updates handled free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Tiruppur owners are busy with shipments, not websites, so we keep the process light: one conversation, a written quote, a preview link and changes on WhatsApp. Everything is registered to your company, prices are published, and we reply seven days a week, including during the pre-shipment rush.",
@@ -174,11 +174,11 @@ const tiruppur: CityContent = {
     },
     {
       id: "ownership-tiruppur",
-      heading: "Full ownership, clean handover and five free months",
+      heading: "Full ownership, clean handover and two free months",
       paragraphs: [
         "In a city where businesses change hands and partners separate, ownership of digital assets matters. We regularly hear of Tiruppur companies whose domain sits in a former employee's or developer's account, or whose email stopped working because a renewal went to someone who no longer answers.",
         "Every site we build is registered to your company from day one. The domain and hosting are in your accounts, and at launch you receive all logins, the full source code and a short note explaining the setup. You can switch developers at any time with no exit fee.",
-        "Maintenance is free for five months after launch: style and catalogue updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can <a href=\"/contact/\">contact us</a> only when you need a change.",
+        "Maintenance is free for two months after launch: style and catalogue updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can <a href=\"/contact/\">contact us</a> only when you need a change.",
       ],
     },
   ],
@@ -268,9 +268,9 @@ const tiruppur: CityContent = {
         "Yes. The domain is registered to your company, hosting is in your account and you receive every login and the source code at launch. You can move to another developer at any time without paying an exit fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "We handle style and catalogue updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no cost for five months after launch. After that, maintenance is from ₹8,000 a month, or you can pay only for the changes you need.",
+        "We handle style and catalogue updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no cost for two months after launch. After that, maintenance is from ₹8,000 a month, or you can pay only for the changes you need.",
     },
     {
       question: "How do we get started?",

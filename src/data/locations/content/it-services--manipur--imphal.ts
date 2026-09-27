@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read documents, draft replies and answer routine WhatsApp questions, always with a person approving key decisions.",
     data: "Dashboards that show sales, dues, admissions or project progress for Imphal owners without collecting spreadsheets every week.",
     app: "Android and iOS apps for Imphal restaurants, clinics, colleges and startups, built once in Flutter or React Native and published on both stores.",
-    maintenance: "Hosting, backups, updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Imphal buyers often have to choose between small local outfits and expensive vendors in Guwahati or Delhi. We are three engineers who write the code ourselves, publish starting prices and plan for Manipur's network realities.",
@@ -75,7 +75,7 @@ const content: CityContent = {
       paragraphs: [
         "From a software development team in Imphal, or a freelance team like ours, you should expect working software that fits how your business already runs, written scope and pricing, ownership of all code and accounts, and support after launch. Imphal buyers increasingly need business systems, not just websites: billing, stock, patient records, admissions, project tracking and automation.",
         "The Imphal market has particular needs. Many businesses are family-run and cash-and-credit based, institutions serve people travelling in from every district, and connectivity can be unreliable. Good software for Imphal therefore stays simple, opens quickly on a basic phone, tolerates dropped connections, and can present content in Manipuri as well as English.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Imphal. We run every project through WhatsApp, email and video calls. You describe the problem, we write a clear scope, show you a working version early, and hand over everything at launch, followed by five months of free maintenance.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Imphal. We run every project through WhatsApp, email and video calls. You describe the problem, we write a clear scope, show you a working version early, and hand over everything at launch, followed by two months of free maintenance.",
       ],
       list: [
         "Business software: billing, stock, credit and orders",
@@ -155,7 +155,7 @@ const content: CityContent = {
         "Building an Android and iOS app for an Imphal business with BtechWaleTech starts at ₹40,000 and takes six to ten weeks. The price covers one app written in Flutter or React Native, login, forms, push notifications, an admin panel, an API connection and publishing on Google Play and the Apple App Store.",
         "Imphal clients usually want one of a few kinds of app. Restaurants and bakeries around Singjamei and Keishampat want ordering apps with saved addresses and order history. Clinics near Lamphelpat and Porompat want appointment apps that deliver lab reports to the patient's phone. Coaching centres in Canchipur and Langol want test-series and timetable apps. Distributors in Thangal Bazar want a catalogue app for retailers across the valley, and founders want a first app to show users and incubators.",
         "Features such as offline mode, live rider tracking, in-app payment through a gateway account in your name, or chat add to the cost, and each appears as its own line in the quote. Since signal in Imphal can be unreliable, we design apps to keep working with poor data and to sync when the connection returns.",
-        "Your Google Play and Apple developer accounts are opened in your name, and you pay their registration fees directly. We prepare the listings and privacy details and handle store reviews, then look after updates during the five free months of maintenance.",
+        "Your Google Play and Apple developer accounts are opened in your name, and you pay their registration fees directly. We prepare the listings and privacy details and handle store reviews, then look after updates during the two free months of maintenance.",
       ],
       list: [
         "Food and grocery ordering apps",
@@ -197,7 +197,7 @@ const content: CityContent = {
       heading: "How much does software development cost in Imphal?",
       paragraphs: [
         "Software development for an Imphal business with BtechWaleTech starts at ₹60,000 for custom software, web apps and MVPs, with the final price depending on screens, user roles, integrations and offline requirements. A single-shop billing tool sits near the starting price, while multi-department hospital or college systems cost more.",
-        "Other starting prices: static websites from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after five free months. See the full list on our <a href='/pricing/'>pricing page</a>.",
+        "Other starting prices: static websites from ₹10,000, 299+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after two free months. See the full list on our <a href='/pricing/'>pricing page</a>.",
         "Payments are accepted only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in agreed milestones. You get an itemised quote in about two working days, and nothing is billed until you approve it.",
       ],
     },
@@ -222,7 +222,7 @@ const content: CityContent = {
       paragraphs: [
         "An Imphal software project with BtechWaleTech runs in five steps: a requirement discussion, a written scope with an itemised quote, an early working version, feedback rounds on real screens, and launch with full handover. Each step is confirmed in writing so nothing depends on memory of a phone call.",
         "Typical timelines are six to twelve weeks for custom software, two to four weeks for automation, one to two weeks for websites and four to eight weeks for stores. If internet disruptions interrupt communication, we pause deadlines fairly and catch up with voice notes and smaller file transfers.",
-        "At launch you receive source code, credentials, documentation and recorded training. Five months of maintenance are free. Explore all services on our <a href='/services/'>services page</a>, or see nearby towns such as <a href='/it-services/manipur/thoubal/'>Thoubal</a> and <a href='/it-services/manipur/bishnupur/'>Bishnupur</a>.",
+        "At launch you receive source code, credentials, documentation and recorded training. Two months of maintenance are free. Explore all services on our <a href='/services/'>services page</a>, or see nearby towns such as <a href='/it-services/manipur/thoubal/'>Thoubal</a> and <a href='/it-services/manipur/bishnupur/'>Bishnupur</a>.",
       ],
     },
   ],
@@ -303,7 +303,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of free maintenance: bug fixes, small content changes, backups, security and dependency updates, and uptime checks. After that you can choose a monthly plan from ₹8,000 or contact us only when needed. New features are always quoted first so you know the cost before any work begins.",
+        "Two months of free maintenance: bug fixes, small content changes, backups, security and dependency updates, and uptime checks. After that you can choose a monthly plan from ₹8,000 or contact us only when needed. New features are always quoted first so you know the cost before any work begins.",
     },
     {
       question: "How long does SEO take to work for an Imphal business?",

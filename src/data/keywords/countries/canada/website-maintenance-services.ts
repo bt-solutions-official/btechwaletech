@@ -26,20 +26,20 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Monthly website care · WordPress, Shopify and static sites · every Canadian time zone",
     h1: "Website maintenance services in Canada: a monthly plan that keeps your site updated, backed up and compliant",
-    lede: `Website maintenance services in Canada should cover more than clicking “update”: tested plugin and theme updates, backups you can actually restore, uptime and security monitoring, accessibility checks that keep you on the right side of <a href='/canada/aoda-compliant-website/'>AODA website rules</a>, and quick text edits in English and French. BtechWaleTech is three freelance developers in India who run this care work while Canada sleeps. Plans start at ${P.care} a month, and sites we build get five months of free maintenance first.`,
+    lede: `Website maintenance services in Canada should cover more than clicking “update”: tested plugin and theme updates, backups you can actually restore, uptime and security monitoring, accessibility checks that keep you on the right side of <a href='/canada/aoda-compliant-website/'>AODA website rules</a>, and quick text edits in English and French. BtechWaleTech is three freelance developers in India who run this care work while Canada sleeps. Plans start at ${P.care} a month, and sites we build get two months of free maintenance first.`,
     pills: ["Tested WordPress and Shopify updates", "Daily off-site backups", "Uptime and security alerts", "WCAG 2.0 AA spot checks", "Consent banner upkeep", "English and French edits", "WhatsApp 7 days a week"],
     origin: "Three freelance developers in India · working through the Canadian night · WhatsApp any day of the week",
   },
   facts: [
     ["Care plans start at", `${P.care} a month`],
-    ["Free care on our builds", "5 months after launch"],
+    ["Free care on our builds", "2 months after launch"],
     ["Platforms", "WordPress, WooCommerce, Shopify, static sites"],
     ["Accessibility benchmark", "WCAG 2.0 Level AA"],
     ["Edit languages", "English, plus French copy you supply or approve"],
     ["Billing", "USD · Wise from CAD, bank wire or PayPal"],
   ],
   stats: [
-    { value: "5", label: "Months of free maintenance after we launch your site" },
+    { value: "2", label: "Months of free maintenance after we launch your site" },
     { value: "3", label: "Developers who know your site, so care continues when one is away" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
     { value: "2", label: "Working days to a written maintenance quote" },
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How much website maintenance costs for a Canadian business",
-    note: `Care plans start at ${P.care} a month and are quoted in USD. The final monthly figure depends on the platform, the number of plugins or apps, whether you sell online, how many edits you expect, whether the site runs in two languages, and how often compliance items like accessibility or consent settings need checking. Sites we build include five months of free maintenance after launch, so the monthly plan begins after that. For a site built by someone else we start with a one-off audit, quoted in writing, to find what needs fixing before regular care begins. You can pause or change the plan by agreement; terms sit in your written quote.`,
+    note: `Care plans start at ${P.care} a month and are quoted in USD. The final monthly figure depends on the platform, the number of plugins or apps, whether you sell online, how many edits you expect, whether the site runs in two languages, and how often compliance items like accessibility or consent settings need checking. Sites we build include two months of free maintenance after launch, so the monthly plan begins after that. For a site built by someone else we start with a one-off audit, quoted in writing, to find what needs fixing before regular care begins. You can pause or change the plan by agreement; terms sit in your written quote.`,
   },
   guideLabel: "Website maintenance guide for Canadian businesses",
   guide: [
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, completely. The domain, hosting, platform account, backups and any licences stay in your business’s name, and we work with user access you can remove at any time.`,
         `On day one of a care plan we build a runbook: every account, its owner and billing email, admin URLs, where backups live, how to restore one, which plugins or apps are installed and why, and the contact for your host. You get a copy, and it updates whenever something changes.`,
-        `If you move to another provider or bring maintenance in-house, the handover is that runbook, a final backup and a call to walk your new person through it. Nothing is locked behind our accounts. The same principle applies to the sites we build from scratch, which is why owners who start with a <a href='/canada/small-business-website-design/'>small business website from us</a> keep full control after the five free months end.`,
+        `If you move to another provider or bring maintenance in-house, the handover is that runbook, a final backup and a call to walk your new person through it. Nothing is locked behind our accounts. The same principle applies to the sites we build from scratch, which is why owners who start with a <a href='/canada/small-business-website-design/'>small business website from us</a> keep full control after the two free months end.`,
       ],
     },
     {
@@ -461,7 +461,7 @@ const content: FreelanceContent = {
   },
   faqHeading: "Website maintenance services in Canada: common questions",
   faqs: [
-    { question: "How much do website maintenance services cost in Canada?", answer: `Prices vary widely because plans range from update-only services to full agency retainers. BtechWaleTech’s care plans start at ${P.care} a month, quoted in USD. The monthly figure depends on the platform, number of plugins or apps, ecommerce, edit volume, bilingual pages and compliance checks. Sites we build include five months of free maintenance before any plan begins.` },
+    { question: "How much do website maintenance services cost in Canada?", answer: `Prices vary widely because plans range from update-only services to full agency retainers. BtechWaleTech’s care plans start at ${P.care} a month, quoted in USD. The monthly figure depends on the platform, number of plugins or apps, ecommerce, edit volume, bilingual pages and compliance checks. Sites we build include two months of free maintenance before any plan begins.` },
     { question: "What is included in a website maintenance plan?", answer: "A solid plan includes tested software updates, daily off-site backups with restore tests, uptime and security monitoring, SSL checks, form and checkout testing, broken-link scans, accessibility spot checks, consent banner upkeep, a set allowance of content edits and a monthly written report. Anything outside that, such as new templates or features, should be quoted separately in writing." },
     { question: "Do I need website maintenance if my site is on Shopify?", answer: "Less than on WordPress, but yes. Shopify runs and updates the platform itself, so there is no server work. Your theme, apps, product data, collections, redirects, tax and shipping settings and policies still need regular attention, and unused apps can slow the store. A lighter Shopify care plan covers those and keeps checkout tested." },
     { question: "Does WordPress update itself automatically?", answer: "Partly. WordPress’s developer documentation says minor core releases and translations update automatically, new installs since version 5.6 also update major core releases by default, and plugins and themes update automatically only in special cases chosen by the WordPress security team. Most plugin and theme updates still need someone to apply and test them." },

@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["SEO website, 299+ pages, from", P.seoSite],
     ["Online shop from", P.shop],
     ["Monthly SEO from", P.seo],
-    ["Maintenance from", `${P.care} after 5 free months`],
+    ["Maintenance from", `${P.care} after 2 free months`],
     ["German VAT standard rate", "19%, shown as MwSt. or USt. on German quotes"],
   ],
   stats: [
     { value: "100", label: "Pages included in the starting website plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Consent and privacy", value: "Consent banner, self-hosted fonts, EU hosting, processing agreements" },
       { label: "Content", value: "Texts, photos, product data, translations" },
       { label: "Running costs", value: "Domain, hosting, email, backups, licences" },
-      { label: "Care", value: `Updates and fixes, from ${P.care} after five free months` },
+      { label: "Care", value: `Updates and fixes, from ${P.care} after two free months` },
       { label: "Visibility", value: `Monthly SEO from ${P.seo}, if you want ongoing growth` },
     ],
   },
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Our website starting prices in USD",
-    note: `These are the starting points behind our share of website development cost in Germany. A business website with up to 100 pages starts at ${P.site} and takes one to two weeks. An SEO website of 299+ pages starts at ${P.seoSite}. An online shop starts at ${P.shop} and takes four to eight weeks. Portals and web apps start at ${P.software}. After five months of free maintenance, care plans start at ${P.care}, and monthly SEO at ${P.seo}. Legal texts, stock photos, translations and third-party licences are separate and listed in your quote.`,
+    note: `These are the starting points behind our share of website development cost in Germany. A business website with up to 100 pages starts at ${P.site} and takes one to two weeks. An SEO website of 299+ pages starts at ${P.seoSite}. An online shop starts at ${P.shop} and takes four to eight weeks. Portals and web apps start at ${P.software}. After two months of free maintenance, care plans start at ${P.care}, and monthly SEO at ${P.seo}. Legal texts, stock photos, translations and third-party licences are separate and listed in your quote.`,
   },
   guideLabel: "Website development cost in Germany guide",
   guide: [
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
         "Hosting: shared hosting for small sites, managed or cloud hosting for shops and busy sites, ideally in a German or EU data centre.",
         "Email: business mailboxes, often through Microsoft 365, Google Workspace or a German provider.",
         "Licences: premium themes, plugins, shop apps, consent tools and legal-text services.",
-        `Maintenance: updates, backups, security monitoring and small edits; ours starts at ${P.care} after five free months.`,
+        `Maintenance: updates, backups, security monitoring and small edits; ours starts at ${P.care} after two free months.`,
         `SEO and content: optional but decisive for growth; our monthly SEO starts at ${P.seo}.`,
       ],
       after: [
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `To see website development cost in Germany in practice, consider a hypothetical Schreinerei near Augsburg with nine staff that builds fitted kitchens and furniture. Its old site is a site-builder page with three pages, few enquiries and no privacy setup beyond a generic template.`,
         `The plan: 25 pages covering services, project gallery, a page per town in the service area, team, careers and contact; a gallery template, a service template and a location template; a project request form with photo upload; self-hosted fonts, a map loaded only on click, and EU hosting. The owner writes the German texts with a local copywriter and supplies photos of finished work.`,
-        `On our side, this fits the business website plan from ${P.site}, with the upload form and gallery as listed items. Running costs: domain, hosting, email and a legal-text subscription paid directly by the business; maintenance free for five months, then from ${P.care}. Optional monthly SEO from ${P.seo} for local rankings. The example is illustrative; the business and figures are not a real client.`,
+        `On our side, this fits the business website plan from ${P.site}, with the upload form and gallery as listed items. Running costs: domain, hosting, email and a legal-text subscription paid directly by the business; maintenance free for two months, then from ${P.care}. Optional monthly SEO from ${P.seo} for local rankings. The example is illustrative; the business and figures are not a real client.`,
       ],
     },
     {
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
         ["Portal or web app", "Logins, roles, dashboards, integrations", `From ${P.software}`, "6 to 12 weeks"],
         ["AI features on the site", "Chat on your content, lead routing", `From ${P.ai}`, "2 to 4 weeks"],
         ["Monthly SEO", "Technical, on-page, local, content", `From ${P.seo}`, "Ongoing"],
-        ["Maintenance", "Updates, backups, monitoring, small edits", `From ${P.care}`, "After 5 free months"],
+        ["Maintenance", "Updates, backups, monitoring, small edits", `From ${P.care}`, "After 2 free months"],
       ],
     },
     {
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Itemised USD quote", "In about two working days you get positions for design, templates, features, legal structure and content work, plus a list of running costs you pay directly."],
       ["Design and staging", "After approval we set up hosting in your name, design key templates and build on a staging site you can click through."],
       ["Content and checks", "Your German texts go in, we test speed, forms, consent and accessibility, and you approve before anything goes live."],
-      ["Launch and hand-over", "We launch, submit the sitemap in Search Console, hand over all access, and cover five months of maintenance free."],
+      ["Launch and hand-over", "We launch, submit the sitemap in Search Console, hand over all access, and cover two months of maintenance free."],
     ],
   },
   faqHeading: "Website development cost in Germany: questions and answers",
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
     { question: "Why does website development cost in Germany vary so much between quotes?", answer: "Suppliers include different things. One quote covers design, content entry, legal pages and SEO; another covers only the build. Rates also differ between agencies, freelancers and remote teams. Compare offers position by position, check what is excluded, and compare net with net. The total alone tells you very little." },
     { question: "Is a site builder like Wix or Jimdo enough?", answer: "For a small, simple site that mainly lists services and contact details, often yes. The limits are speed tuning, structured data, consent control and moving away later. When you need a shop with German legal features, integrations or strong search visibility, a custom site usually pays off. You also carry the configuration and legal responsibility yourself." },
     { question: "What does an online shop cost in Germany?", answer: `A shop costs more than a business site because of products, checkout, payment methods, shipping rules and German legal features such as the order button wording, withdrawal information and function, and unit prices. Our shops start at ${P.shop} and take four to eight weeks. Platform fees, apps and payment processing costs are separate.` },
-    { question: "What are the yearly running costs of a German website?", answer: `Running costs are the second half of website development cost in Germany. Budget for the domain, hosting, email, licences for themes, plugins or shop apps, a legal-text service, maintenance and optionally SEO. Ask every supplier for a running-cost list next to the build price. Our maintenance starts at ${P.care} after five free months, and monthly SEO at ${P.seo}.` },
+    { question: "What are the yearly running costs of a German website?", answer: `Running costs are the second half of website development cost in Germany. Budget for the domain, hosting, email, licences for themes, plugins or shop apps, a legal-text service, maintenance and optionally SEO. Ask every supplier for a running-cost list next to the build price. Our maintenance starts at ${P.care} after two free months, and monthly SEO at ${P.seo}.` },
     { question: "Does every German website need an Impressum?", answer: "Commercial digital services must provide the information set out in section 5 of the Digitale-Dienste-Gesetz, such as name, address, contact details and, where relevant, register number and VAT ID, easy to find and directly reachable. Most business websites therefore need an Impressum page linked from every page. Your lawyer confirms the exact content for your business." },
     { question: "How much does DSGVO compliance add to a website?", answer: "On a new build, little, because self-hosted fonts, click-to-load maps and videos, a proper consent banner, lean forms and EU hosting are part of our normal scope. On an existing site, an audit lists every third-party request and each fix is quoted. We build the technical measures; your lawyer or data protection officer confirms compliance." },
     { question: "Does the BFSG apply to my website?", answer: "It applies if consumers can conclude contracts with you through your site, as in an online shop or booking engine, unless you are a service microenterprise with fewer than 10 employees and turnover or balance sheet up to 2 million euros. Accessibility adds modest effort on a new build and can be expensive to retrofit." },
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "Can you write the German website texts?", answer: "We write in English and do not produce German marketing copy ourselves. You, your team or a German copywriter supply the texts, and we build the pages, structure and SEO around them. Many clients have a copywriter write while we build, which keeps the project moving." },
     { question: "What does a website relaunch cost?", answer: "A relaunch costs more than a new site of the same size because of content migration, redirect mapping, SEO checks and often a new CMS. The biggest risk is losing rankings. We plan a URL inventory and 301 redirects before any design work. The relaunch is quoted after we review your current site and its traffic." },
     { question: "Do you charge German VAT?", answer: "We invoice from India, not from Germany, and quote in USD. How such invoices are handled for VAT in your accounts is a question for your Steuerberater; we do not give tax advice. We make sure our invoices contain the details your adviser needs." },
-    { question: "What is included in website maintenance?", answer: `CMS, theme and plugin updates, backups, security monitoring, uptime checks and small content edits. New builds get five months free; after that, maintenance starts at ${P.care}. Larger changes, new page types or features are quoted separately so the monthly fee stays predictable.` },
+    { question: "What is included in website maintenance?", answer: `CMS, theme and plugin updates, backups, security monitoring, uptime checks and small content edits. New builds get two months free; after that, maintenance starts at ${P.care}. Larger changes, new page types or features are quoted separately so the monthly fee stays predictable.` },
     { question: "Can low website development cost in Germany still mean good rankings?", answer: "Yes, if the site is technically clean, fast and answers what searchers look for. Price does not decide rankings; structure, content and links do. A cheap site with heavy page-builder code and thin content will struggle. We build lean pages with clear headings and structured data, but nobody can guarantee rankings." },
     { question: "How do I pay and when?", answer: "You receive an itemised USD quote. After written approval, payments follow agreed milestones by Wise or bank wire, in USD or EUR. Nothing is billed before approval. Terms not covered in the quote follow our published terms and refund policy." },
     { question: "Do you visit our office in Germany?", answer: "No. We work fully remotely from India and do not make site visits. Meetings happen by video call in English, and most coordination runs over WhatsApp and a shared project board. If you need on-site workshops or photography, a local partner is the right addition." },

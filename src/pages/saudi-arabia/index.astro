@@ -86,7 +86,7 @@ const faqs = [
   },
   {
     question: "Who owns the website and accounts when the project ends?",
-    answer: `You do. Domain, hosting, analytics, Search Console, store and gateway accounts are set up in your company's name, and at handover you receive the source code and every login. After launch you get five months of maintenance free, then an optional plan from ${usd("Maintenance")} a month.`,
+    answer: `You do. Domain, hosting, analytics, Search Console, store and gateway accounts are set up in your company's name, and at handover you receive the source code and every login. After launch you get two months of maintenance free, then an optional plan from ${usd("Maintenance")} a month.`,
   },
   {
     question: "How do we start?",
@@ -152,7 +152,7 @@ const facts = [
   ["Languages", "Arabic-first RTL builds, English in-house"],
   ["Billing", "USD, or SAR on request"],
   ["Time gap", "KSA is 2.5 hours behind IST"],
-  ["After launch", "5 months of maintenance free"],
+  ["After launch", "2 months of maintenance free"],
 ];
 
 const pills = ["Arabic-first RTL sites", "Salla, Zid and Shopify", "mada, Apple Pay, STC Pay", "SEO for google.com.sa", "AI automation", "Custom web apps"];
@@ -161,7 +161,7 @@ const stats = [
   { value: "3", label: "Engineers you deal with directly" },
   { value: usd("Static"), label: "Websites starting price" },
   { value: "2.5h", label: "Behind India, all year round" },
-  { value: "5", label: "Months maintenance included free" },
+  { value: "2", label: "Months maintenance included free" },
 ];
 
 const snapshot = [
@@ -184,7 +184,7 @@ const services = [
   { name: "Custom software", note: "Contractor portals, booking systems, fleet dashboards and admin panels for your team.", size: "sm" },
   { name: "AI automation", note: "Arabic and English document extraction, lead routing, WhatsApp flows and internal assistants.", size: "sm" },
   { name: "Android & iOS apps", note: `Arabic and English Android and iPhone apps for staff and customers, on Google Play and the App Store, from ${usd("Android")}.`, size: "sm" },
-  { name: "Maintenance & support", note: "Updates, backups, fixes and speed checks, with 5 months free after launch.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, backups, fixes and speed checks, with 2 months free after launch.", size: "sm" },
 ] as const;
 
 // ---------- Comparison ----------
@@ -197,7 +197,7 @@ const comparison = [
   ["Sunday availability", "Yes", "Depends on the person", "Yes; replies seven days a week"],
   ["Payment integrations", "Usually experienced", "Often Stripe-only habits", "mada, Apple Pay, STC Pay, Tabby, Tamara via your gateway"],
   ["Ownership", "Usually yours, check the contract", "Logins sometimes kept back", "Every account in your company's name"],
-  ["After launch", "Paid support contract", "Often unreachable", "5 months of maintenance included free"],
+  ["After launch", "Paid support contract", "Often unreachable", "2 months of maintenance included free"],
 ];
 
 // ---------- Regions ----------
@@ -233,7 +233,7 @@ const process = [
   ["Arabic-first design", "Key page layouts designed right-to-left first, then adapted for English, reviewed by you before development."],
   ["Build on staging", "Development on a private staging link, with gateway, courier and form testing in both languages."],
   ["Go live", "Hosting, domain, SSL, Search Console, analytics and sitemap set up, and launch timed early in your working week."],
-  ["Aftercare", "Five months of maintenance free, then an optional monthly plan or changes only when you need them."],
+  ["Aftercare", "Two months of maintenance free, then an optional monthly plan or changes only when you need them."],
 ];
 
 // ---------- Schema ----------
@@ -366,7 +366,7 @@ const servicePages = countryPageLinks("saudi-arabia");
             <li><span>{plan.name}</span><strong><small>from </small>{usd(plan.name)}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">Starting prices; the final quote depends on your requirements. SAR invoicing on request. 5 months maintenance free after launch.</p>
+        <p class="quote-foot">Starting prices; the final quote depends on your requirements. SAR invoicing on request. 2 months maintenance free after launch.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my Saudi quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>
@@ -562,11 +562,11 @@ const servicePages = countryPageLinks("saudi-arabia");
             back in the same WhatsApp or email thread, we group it into a change list, and small fixes usually appear the same
             day. Weekly written updates summarise what was done, what is next and what we are waiting for from you.
           </p>
-          <h3>From planning to deployment, then five months of care</h3>
+          <h3>From planning to deployment, then two months of care</h3>
           <p>
             We do not hand you a zip file and disappear. We plan the site, design it, build it, set up the SEO foundations,
             configure hosting, point the domain, install SSL and set up email authentication records so your mail reaches
-            inboxes. After launch, five months of maintenance are included: text and content edits, bug fixes, security and
+            inboxes. After launch, two months of maintenance are included: text and content edits, bug fixes, security and
             dependency updates, backups, and uptime and speed checks. After that you can choose a monthly plan or pay only for
             changes you request.
           </p>
@@ -1025,7 +1025,7 @@ const servicePages = countryPageLinks("saudi-arabia");
           </p>
           <h3>What happens after launch?</h3>
           <p>
-            Ask what support is included, for how long and what it costs afterwards. With us, five months of maintenance are
+            Ask what support is included, for how long and what it costs afterwards. With us, two months of maintenance are
             included free, then an optional plan from {usd("Maintenance")} a month or changes billed only when you need them.
           </p>
         </article>

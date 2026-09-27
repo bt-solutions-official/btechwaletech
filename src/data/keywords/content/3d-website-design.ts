@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Custom Three.js experience from", `${P.software} · ${P.softwareUsd}`],
     ["Tools", "Spline, Three.js, model-viewer, GSAP"],
     ["Model format we ship", "glTF / GLB, compressed"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who scope, build and test your 3D pages" },
     { value: "2", label: "Working days from brief to itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Platform commission on your project" },
   ],
   answer: {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The code, the exported GLB models, the Spline project or Three.js source, the domain and the hosting all sit in your accounts. We work inside them rather than holding anything back on our side.`,
         `Editing depends on the pattern. Text, prices, specs and FAQs live in your CMS, so your team edits them like any page. Spline scenes can be adjusted by a designer in Spline and republished. Three.js scenes are code; small changes such as a new colour or a swapped model are documented in a short handover note, but larger changes need a developer.`,
-        `The handover pack includes the source models, the web-ready exports, a list of every scene with its file size, and a recorded walk-through of how to replace a model. The first 5 months after launch include free fixes; after that, maintenance starts at ${P.care} (${P.careUsd}). Our <a href='/terms/'>terms</a> set out the general basis of work, and anything specific is agreed in your written quote.`,
+        `The handover pack includes the source models, the web-ready exports, a list of every scene with its file size, and a recorded walk-through of how to replace a model. The first 2 months after launch include free fixes; after that, maintenance starts at ${P.care} (${P.careUsd}). Our <a href='/terms/'>terms</a> set out the general basis of work, and anything specific is agreed in your written quote.`,
       ],
     },
     {
@@ -449,7 +449,7 @@ const content: FreelanceContent = {
       ["Scene sketch and download budget", "We agree the pattern (hero, scroll story or viewer), the tool (Spline, Three.js or model-viewer) and a file-size budget for each scene before building."],
       ["Build on staging", "The HTML page goes up first with a poster image, then the live scene replaces the placeholder. You review on your own phone from the first week."],
       ["Device, speed and access testing", "We test on mid-range Android and iPhone, with reduced motion on and off, check Core Web Vitals and confirm every hotspot has an HTML equivalent."],
-      ["Launch and hand over", "The site goes live in your hosting, models and source files move to your accounts, and five months of free fixes begin."],
+      ["Launch and hand over", "The site goes live in your hosting, models and source files move to your accounts, and two months of free fixes begin."],
     ],
   },
   faqHeading: "3D website design: questions buyers ask",
@@ -470,7 +470,7 @@ const content: FreelanceContent = {
     { question: "Can visitors see the product in their room with AR?", answer: "On supported devices, yes. Apple's AR Quick Look can show a USDZ model from Safari on iPhone and iPad, and Google's model-viewer component supports AR through WebXR on compatible Android browsers. We export both formats from the same source model and show the AR button only where the device supports it." },
     { question: "How do you make 3D websites accessible?", answer: "We respect the reduced-motion setting on the visitor's device by stopping auto-rotation and scroll animation, add a visible pause control for motion lasting more than five seconds as WCAG 2.2 asks, give every scene hotspot an HTML equivalent reachable by keyboard, and keep text contrast readable over 3D backgrounds. The information never lives only inside the scene." },
     { question: "Who owns the 3D website and models after launch?", answer: "You do. The domain, hosting, code, Spline project or Three.js source and the exported models all sit in your accounts. We hand over the source models, web-ready files, a list of scenes with their sizes and a recorded walk-through of replacing a model, so another developer could continue the work if needed." },
-    { question: "What happens after the 3D website goes live?", answer: `The first 5 months after launch include free fixes for anything in the agreed scope. After that, maintenance starts at ${P.care} and covers model swaps, library updates and speed checks. Your team edits text, prices and products in the CMS without us; changes to Three.js scenes themselves need a developer.` },
+    { question: "What happens after the 3D website goes live?", answer: `The first 2 months after launch include free fixes for anything in the agreed scope. After that, maintenance starts at ${P.care} and covers model swaps, library updates and speed checks. Your team edits text, prices and products in the CMS without us; changes to Three.js scenes themselves need a developer.` },
     { question: "How do I pay for a 3D website project?", answer: "You get an itemised quote first and nothing is billed until you approve it in writing. Payments follow milestones you can see on staging. Clients in India pay by UPI or bank transfer and receive GST invoices where applicable; international clients pay in USD by Wise, bank wire or PayPal. The exact milestone split is written into your quote." },
     { question: "Do you sign an NDA for an unreleased product launch?", answer: "Ask us when you get in touch. Many launch briefs involve products that are not public yet, and confidentiality terms can be agreed in writing before you share CAD files or launch dates. Our terms page describes the general basis we work on, and anything specific to your launch goes into the written quote." },
     { question: "Can a 3D website be updated when the product changes?", answer: "Yes, but plan for it. Text, prices and specifications update in the CMS like any other page. A new colour or finish in the model means re-exporting the GLB; in Spline a designer can change materials and republish. Larger changes to Three.js scenes, such as new interactions or a redesigned camera path, need developer time." },

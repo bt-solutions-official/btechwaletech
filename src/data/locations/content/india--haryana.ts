@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders, gate passes and invoices, answer dealer questions on WhatsApp in Hindi, and send owners a daily summary.",
     data: "Dashboards combining Tally, Busy, weighbridge records and spreadsheets into one view of stock, output, dispatch and dues.",
     app: "Android and iOS apps from ₹40,000 for Haryana salesmen, dealers, mandi staff and drivers, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free support after launch, then monthly plans from ₹8,000 for fixes, updates, backups and security.",
+    maintenance: "Two months of free support after launch, then monthly plans from ₹8,000 for fixes, updates, backups and security.",
   },
   whyUsIntro:
     "Haryana owners want straight answers and fair prices. BtechWaleTech diagnoses first, quotes each fix line by line, speaks Hindi on calls, and builds with the same three engineers from the first conversation to handover.",
@@ -166,7 +166,7 @@ const content: CityContent = {
       paragraphs: [
         "Dashboards give Haryana owners one screen for output, stock, dispatch, receivables and cash, and cloud hosting keeps that data on professional servers with daily backups instead of on a single office computer. Owners who divide time between the plant, the mandi and Delhi see the business without phoning anyone.",
         "We consolidate Tally, Busy, weighbridge exports and spreadsheets, agree definitions with your team, and show the few numbers that change decisions. Hosting runs on AWS, DigitalOcean or similar providers with SSL, access control, audit logs and monitoring, all registered to your business.",
-        "After launch, five months of support are free. Monthly plans start from ₹8,000. We do not provide hardware or networking; a local vendor handles those.",
+        "After launch, two months of support are free. Monthly plans start from ₹8,000. We do not provide hardware or networking; a local vendor handles those.",
       ],
     },
     {
@@ -302,7 +302,7 @@ const content: CityContent = {
     },
     {
       question: "What support is included after go-live?",
-      answer: "Five months of free support covering bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We answer on WhatsApp seven days a week.",
+      answer: "Two months of free support covering bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We answer on WhatsApp seven days a week.",
     },
     {
       question: "How long does SEO take for a Haryana manufacturer?",

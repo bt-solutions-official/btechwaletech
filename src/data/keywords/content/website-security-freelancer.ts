@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance on sites we build" },
+    { value: "2", label: "Months of free maintenance on sites we build" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Quotes across the market vary widely, because the work varies widely. The main cost drivers are the platform, the number of plugins and custom features, whether the site is currently infected, how many sites share the same hosting account, and whether ongoing monitoring is needed.`,
         `With BtechWaleTech the first step is a review, after which you receive an itemised quote in about two working days. Each fix is a separate line, so you can prioritise. Ongoing care, including updates, backups, monitoring and small fixes, starts at ${P.care}, or ${P.careUsd} for clients abroad.`,
-        `Sometimes the most secure option is a rebuild. An old site on unsupported software with a nulled theme can cost more to patch than to replace. A static site starts at ${P.site} and has very little to attack: no database, no admin panel on the public server, no plugins. Sites we build include five months of free maintenance after launch.`,
+        `Sometimes the most secure option is a rebuild. An old site on unsupported software with a nulled theme can cost more to patch than to replace. A static site starts at ${P.site} and has very little to attack: no database, no admin panel on the public server, no plugins. Sites we build include two months of free maintenance after launch.`,
       ],
     },
     {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Review and itemised quote", "We check the site from outside and inside, then send a ranked list of findings with an itemised quote in about two working days."],
       ["Fix in priority order", "Approved fixes are applied highest risk first, tested on staging where possible, with a backup taken before any change."],
       ["Written handover", "You receive a list of every change, account touched and setting added, plus backup and restore instructions. Remove our access whenever you like."],
-      ["Optional ongoing care", "Updates, backups, monitoring and small fixes continue from " + P.care + " a month if you want them. Sites we build get five months free."],
+      ["Optional ongoing care", "Updates, backups, monitoring and small fixes continue from " + P.care + " a month if you want them. Sites we build get two months free."],
     ],
   },
   faqHeading: "Website security freelancer: questions people ask",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "What backups does a website need?", answer: "Automatic backups of both files and database, stored away from the website’s own server, with several versions kept, because malware is often discovered weeks later. Most importantly, test a restore. A backup that has never been restored might be incomplete or corrupt, and you would only find out during an emergency." },
     { question: "Is my online store’s payment data at risk?", answer: "If card payments go through your payment provider’s secure hosted page or components, card details should never touch your server, which greatly reduces risk. Your site still needs updates, secure admin logins and HTTPS, because attackers can inject scripts that tamper with checkout pages. Never store card numbers on your own database." },
     { question: "Does India have rules on website data security?", answer: "Yes. The Digital Personal Data Protection Act, 2023 requires businesses handling personal data to take reasonable security safeguards. CERT-In directions from 2022 require specified organisations to report certain cyber incidents within six hours. How each rule applies to you is a legal question; a security freelancer helps put the safeguards and logs in place." },
-    { question: "Is rebuilding my old website more secure than fixing it?", answer: `Sometimes. A site on unsupported software with a nulled theme and dozens of plugins can cost more to patch than to replace. A static site has very little to attack: no database or public admin panel. BtechWaleTech builds static sites from ${P.site}, with five months of free maintenance after launch.` },
+    { question: "Is rebuilding my old website more secure than fixing it?", answer: `Sometimes. A site on unsupported software with a nulled theme and dozens of plugins can cost more to patch than to replace. A static site has very little to attack: no database or public admin panel. BtechWaleTech builds static sites from ${P.site}, with two months of free maintenance after launch.` },
     { question: "Can a website security freelancer work remotely?", answer: "Yes, and almost all website security work is done remotely anyway, through your hosting panel, website admin and code repository. What matters is that access is granted through separate accounts you control and removed afterwards, and that every change is listed in a written handover note you keep." },
     { question: "Can you secure custom PHP or Node.js applications?", answer: "Yes. For custom code we add server-side input validation, parameterised database queries, access checks on every request, proper password hashing, secure cookies and rate limits on logins. We also review cloud settings such as storage permissions. These are code changes, quoted after reviewing the application." },
     { question: "Website hack ho gayi hai, ab kya karun?", answer: `Turant hosting, website admin aur email ke passwords badaliye aur Google Search Console mein Security issues check kijiye. Phir site saaf karwaiye aur woh kamzori band karwaiye jisse hacker aaya tha. BtechWaleTech pehle review karke itemised quote deta hai; monthly care ${P.care} se shuru hoti hai.` },

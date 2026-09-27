@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks, phased"],
     ["Quote", "Itemised within about 2 working days"],
     ["Runs on", "Counter PC, tablet in the bay, mechanics’ Android phones"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building your workshop system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Per-user or per-branch fees paid to us" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Garage management software pricing",
-    note: `We quote garage management software module by module, so you can see what the job card, parts, billing and reminders each add. The workshop web panel starts at ${P.software}, and an Android app for mechanics or customers starts at ${P.app}. Cost moves mainly with the number of branches, whether you need insurance-claim jobs, how detailed the parts catalogue is, and how much old data we import. A garage that also wants a booking website can add one from ${P.site}. After launch you get 5 months of free maintenance, then support from ${P.care}. Hosting and message charges are billed to your own accounts.`,
+    note: `We quote garage management software module by module, so you can see what the job card, parts, billing and reminders each add. The workshop web panel starts at ${P.software}, and an Android app for mechanics or customers starts at ${P.app}. Cost moves mainly with the number of branches, whether you need insurance-claim jobs, how detailed the parts catalogue is, and how much old data we import. A garage that also wants a booking website can add one from ${P.site}. After launch you get 2 months of free maintenance, then support from ${P.care}. Hosting and message charges are billed to your own accounts.`,
   },
   guideLabel: "Garage management software guide",
   guide: [
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The source code sits in a repository under your account, the database and server run in a cloud account registered to your business, and if we publish a mechanic or customer app, it goes on Google Play and the App Store under your own developer accounts.`,
         `Ownership matters more in a garage than people expect. Your customer and vehicle history is the asset that brings people back: the list of every car you have serviced, its odometer trend and the advice it declined. If that sits only with a vendor, leaving becomes painful. When it sits with you, you can move developers, add a website or run your own analysis without asking permission. It also protects you if the workshop is ever sold or split between partners, since the records transfer with the business instead of sitting under someone else’s login.`,
-        `At handover you receive the code, database access, admin logins, a short written guide for advisors and store staff, and a recorded walkthrough. The first 5 months after launch include free maintenance for bugs and small adjustments. If a previous developer left your system half-built, our note on what to do when a <a href='/developer-left-project-midway/'>developer leaves a project midway</a> may help.`,
+        `At handover you receive the code, database access, admin logins, a short written guide for advisors and store staff, and a recorded walkthrough. The first 2 months after launch include free maintenance for bugs and small adjustments. If a previous developer left your system half-built, our note on what to do when a <a href='/developer-left-project-midway/'>developer leaves a project midway</a> may help.`,
       ],
     },
     {
@@ -326,7 +326,7 @@ const content: FreelanceContent = {
         ["Customer app", "Service history, booking, estimate approval, payments", `${P.app} · ${P.appUsd}`, "After the panel is stable"],
         ["Booking website", "Service pages, starting prices, booking form", `${P.site} · ${P.siteUsd}`, "1–2 weeks"],
         ["WhatsApp and reminder automation", "Template reminders, feedback requests, payment nudges", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Ongoing support", "Updates and fixes after the free period", `${P.care} · ${P.careUsd}`, "After 5 free months"],
+        ["Ongoing support", "Updates and fixes after the free period", `${P.care} · ${P.careUsd}`, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Screens you correct", "We sketch the check-in, job card, estimate and invoice screens with your real labour names and parts categories, and change them until your advisors say they are quick enough."],
       ["Counter goes live first", "Job cards, estimate approval and billing launch while paper runs alongside for a few days, so any missing field shows up before the old book is retired."],
       ["Parts, reminders and reports follow", "Opening stock is loaded, issue against job cards is switched on, then WhatsApp reminders and the mechanic time report are added once staff are comfortable."],
-      ["Handover and free maintenance", "You receive code, database and admin access, a written staff guide and a recorded walkthrough. The first 5 months after launch include free maintenance for fixes and small changes."],
+      ["Handover and free maintenance", "You receive code, database and admin access, a written staff guide and a recorded walkthrough. The first 2 months after launch include free maintenance for fixes and small changes."],
     ],
   },
   faqHeading: "Garage management software: questions workshop owners ask",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Will the mechanic app work with weak mobile signal?", answer: "Yes. Workshop floors with pits, shutters and concrete walls often have poor signal, so the mechanic app saves clock-ons, checklists and photos on the phone and syncs when a connection returns, keeping the original time. Photos are compressed before upload so check-ins do not stall. The counter panel needs a normal internet connection." },
     { question: "Can I run several garage branches on one system?", answer: "Yes. Each branch gets its own logins, job cards, bays and stock, while the owner sees consolidated sales, pending jobs and stock across all branches. Parts can be transferred between stores with a record at both ends. Franchise setups can add royalty statements calculated from each outlet’s invoices, with the rules you agree with franchisees." },
     { question: "Can you move data from my old garage software or Excel?", answer: "Usually, yes. We ask for an export or your spreadsheets and map customers, vehicles, service history and parts into the new system, cleaning duplicates on the way. Paper-only workshops can start with a simple sheet of regular customers and vehicles. We test the import with you before go-live so the first reminders go to the right people." },
-    { question: "What does maintenance cost after launch?", answer: `The first 5 months after go-live include free maintenance: bug fixes and small adjustments. After that, ongoing support starts at ${P.care}, covering updates, fixes and help when something changes, such as a new tax rule or a phone OS update. Hosting and WhatsApp charges are separate and billed to your own accounts by those providers. Terms are agreed in your written quote.` },
+    { question: "What does maintenance cost after launch?", answer: `The first 2 months after go-live include free maintenance: bug fixes and small adjustments. After that, ongoing support starts at ${P.care}, covering updates, fixes and help when something changes, such as a new tax rule or a phone OS update. Hosting and WhatsApp charges are separate and billed to your own accounts by those providers. Terms are agreed in your written quote.` },
     { question: "What hardware does a garage need for this software?", answer: "Usually very little: a counter PC or laptop, a printer for invoices and gate passes, and a tablet or a few Android phones in the bays for check-in photos and clock-ons. A barcode scanner helps if you label parts bins. We do not sell or install hardware; we tell you what the software supports and test it with the models you buy locally." },
     { question: "Can the mechanic app be in Hindi or a regional language?", answer: "Yes. Buttons, labels and checklists in the mechanic app can be shown in Hindi, Marathi, Tamil, Kannada or another language you choose, while the owner’s reports stay in English if you prefer. You supply or approve the translated wording, and we make sure long words still fit on small phone screens used in the bay." },
     { question: "Is garage management software worth it for a small garage?", answer: "It depends on size and leakage. A one- or two-bay garage where the owner handles every customer may do fine with a simple billing app and a WhatsApp reminder list. Once you have several bays, more than one advisor, or parts leaving the store without bills, the software usually pays back through recovered billing, repeat visits and fewer disputes. We will tell you honestly if you are not there yet." },

@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers on your project" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Per-van monthly licence fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Connectivity", value: "Offline on the route; sync at depot or when signal returns" },
       { label: "Collections", value: "Cash, UPI QR per invoice, cheque, credit within limits" },
       { label: "Settlement", value: "Stock, cash and UPI reconciled per van per day" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What van sales software costs",
-    note: `A van sales Android app with offline invoicing, Bluetooth printing, collections, returns and settlement starts at ${P.app}. A web back office for the depot, covering loading, price lists, schemes, credit limits, settlement approval and reports, starts at ${P.software}. If you already run ERPNext or another system, we can build only the app and sync it, which lowers the total. Costs rise with the number of price lists and scheme types, batch and expiry tracking, multi-depot operations, e-invoice integration and AI features such as suggested van loads from past sales (from ${P.ai}). Printers and phones are bought by you. After five free months, support starts at ${P.care}.`,
+    note: `A van sales Android app with offline invoicing, Bluetooth printing, collections, returns and settlement starts at ${P.app}. A web back office for the depot, covering loading, price lists, schemes, credit limits, settlement approval and reports, starts at ${P.software}. If you already run ERPNext or another system, we can build only the app and sync it, which lowers the total. Costs rise with the number of price lists and scheme types, batch and expiry tracking, multi-depot operations, e-invoice integration and AI features such as suggested van loads from past sales (from ${P.ai}). Printers and phones are bought by you. After two free months, support starts at ${P.care}.`,
   },
   guideLabel: "Van sales guide",
   guide: [
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
       ["Masters and printer test", "Items, HSN, prices, schemes, outlets and routes are cleaned and loaded, and your chosen printer model is tested with a draft invoice layout."],
       ["Build and field test builds", "We build the app and back office with weekly test builds installed on a real phone, so your supervisor can try billing in airplane mode early."],
       ["One-van pilot", "One van runs the app for a full week with the bill book as backup. Settlement is compared daily, and every issue found on the road is fixed before rollout."],
-      ["Rollout and handover", "Remaining vans switch over in small groups. You receive the Play Store listing under your account, code, server access and documentation. Five months of free maintenance begin."],
+      ["Rollout and handover", "Remaining vans switch over in small groups. You receive the Play Store listing under your account, code, server access and documentation. Two months of free maintenance begin."],
     ],
   },
   faqHeading: "Van sales software: questions distributors ask",
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "Who owns the van sales app after it is built?", answer: "You do. The app is published under your own Google Play developer account, the code lives in your repository and the data sits on your cloud account. At handover you receive credentials and documentation, so any competent developer can maintain or extend it later without depending on us." },
     { question: "Do you supply the phones and printers?", answer: "No. You buy the phones and printers, which keeps hardware costs transparent and warranty with the seller. We recommend types, test the exact models you choose with the app, design the invoice layout for your paper width and write simple pairing instructions for salesmen. We also do not visit depots; setup runs over calls." },
     { question: "Gaadi se maal bechne ke liye billing app kitne mein banega?", answer: `Van sales app ${P.app} se shuru hota hai aur depot ka back office ${P.software} se. App bina internet ke bill banata hai, Bluetooth printer par GST invoice print karta hai, cash aur UPI record karta hai aur shaam ko stock aur cash ka hisaab milata hai. Quote 2 working days mein milta hai.` },
-    { question: "What support is included after launch?", answer: `Five months of free maintenance start after launch, covering fixes and help during the first weeks on the road. After that, support starts at ${P.care}, which includes keeping the app working with Android updates and new printer models. New features are quoted in writing first, and terms sit in your written quote.` },
+    { question: "What support is included after launch?", answer: `Two months of free maintenance start after launch, covering fixes and help during the first weeks on the road. After that, support starts at ${P.care}, which includes keeping the app working with Android updates and new printer models. New features are quoted in writing first, and terms sit in your written quote.` },
     { question: "How do we pay for the project?", answer: "Nothing is billed until you approve the itemised quote in writing. In India, payment is by UPI or bank transfer against invoices; overseas clients pay in USD by Wise, bank wire or PayPal. Milestones and confidentiality are agreed in the written quote, and our terms and refund policy are published on the website." },
   ],
   related: {

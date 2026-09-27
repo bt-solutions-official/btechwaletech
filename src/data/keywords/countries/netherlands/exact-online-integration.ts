@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Data typically synced", "Orders, invoices, items, stock, relations"],
     ["Error handling", "Retries, alerts and a daily reconciliation report"],
     ["Other packages", "Moneybird, Twinfield, AFAS on request"],
-    ["After go-live", `5 free months, then care from ${P.care}`],
+    ["After go-live", `2 free months, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers covering build, data and monitoring" },
     { value: "2", label: "Working days to a written, itemised quote" },
-    { value: "5", label: "Months of free care once the sync is live" },
+    { value: "2", label: "Months of free care once the sync is live" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Monitoring and reconciliation", note: "A dashboard of sync runs, failed records with the reason in plain English, and a daily comparison of totals on both sides.", size: "md" },
       { name: "Connector rescue", note: "An existing custom sync that stalls, duplicates or silently fails: we read the code, fix the cause and add logging.", size: "sm" },
       { name: "Moneybird, Twinfield or AFAS", note: "The same approach for other Dutch accounting and ERP packages, using each vendor's own API or connectors.", size: "sm" },
-      { name: "Care after go-live", note: `Five months free, then care from ${P.care}: API changes, token issues, new fields.`, size: "sm" },
+      { name: "Care after go-live", note: `Two months free, then care from ${P.care}: API changes, token issues, new fields.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Exact Online integration pricing",
-    note: `Prices are starting prices in USD, itemised per data flow in a written quote. A focused sync of one or two flows, such as webshop orders into Exact and stock back out, with logging and alerts, starts from ${P.ai}. A full integration covering several flows, multiple administrations, a monitoring dashboard or a custom portal starts from ${P.software}. Your Exact Online subscription, any App Store or API-related charges from Exact, and hosting for the integration service are paid by you directly. After the five free months, care plans start from ${P.care}; they cover API changes, token problems and small mapping updates.`,
+    note: `Prices are starting prices in USD, itemised per data flow in a written quote. A focused sync of one or two flows, such as webshop orders into Exact and stock back out, with logging and alerts, starts from ${P.ai}. A full integration covering several flows, multiple administrations, a monitoring dashboard or a custom portal starts from ${P.software}. Your Exact Online subscription, any App Store or API-related charges from Exact, and hosting for the integration service are paid by you directly. After the two free months, care plans start from ${P.care}; they cover API changes, token problems and small mapping updates.`,
   },
   guideLabel: "Exact Online integration guide",
   guide: [
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does an Exact Online integration cost?",
       paragraphs: [
-        `With BtechWaleTech, a focused Exact Online integration of one or two flows starts from ${P.ai}, and a full integration with several flows, divisions or a custom portal starts from ${P.software}. Care after the five free months starts from ${P.care}. The written quote lists each flow separately.`,
+        `With BtechWaleTech, a focused Exact Online integration of one or two flows starts from ${P.ai}, and a full integration with several flows, divisions or a custom portal starts from ${P.software}. Care after the two free months starts from ${P.care}. The written quote lists each flow separately.`,
         `The price depends on the number of flows, the number of divisions, how unusual your mappings are, the volume you need to handle within API limits, and whether you want a monitoring dashboard or a simple email alert. Rescuing an existing integration is quoted after we have read its code, because the state of that code decides the effort.`,
         `Separate running costs are paid by you: your Exact subscription and any API-related charges Exact applies to your plan, hosting for the integration service, and subscriptions for other systems involved. Quotes from other developers vary widely; compare them on the same list of flows, error handling and reconciliation, not on the headline figure.`,
       ],
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
         ["Multi-administration integration", "Two entities, routing and mapping tables", P.software, "6–10 weeks"],
         ["Portal or CRM integration", "Custom portal reading and writing Exact", P.software, "6–12 weeks"],
         ["Integration rescue", "Fix and document an existing custom sync", P.ai, "After code review"],
-        ["Care plan", "API changes, tokens, new fields", P.care, "Monthly, after 5 free months"],
+        ["Care plan", "API changes, tokens, new fields", P.care, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -420,13 +420,13 @@ const content: FreelanceContent = {
       ["Data map sign-off", "Masters per field, matching rules, VAT codes, accounts and journals are written into one document your bookkeeper approves."],
       ["Build against a test administration", "Authentication, read flows, then write flows, replaying real historic orders and comparing results with manual bookings."],
       ["Go-live from a cut-off date", "The integration switches to live administrations on an agreed date, and the first reconciliation reports are reviewed together."],
-      ["Monitoring and care", "Alerts and daily reconciliation keep running. Five free months of care follow, then plans covering API changes and new fields."],
+      ["Monitoring and care", "Alerts and daily reconciliation keep running. Two free months of care follow, then plans covering API changes and new fields."],
     ],
   },
   faqHeading: "Exact Online integration: frequent questions",
   faqs: [
     { question: "What is an Exact Online integration?", answer: "An Exact Online integration is software that exchanges data between Exact Online and another system through Exact's API, such as webshop orders becoming invoices, stock flowing to the shop, and customer records staying consistent. It replaces manual exports, imports and retyping, and should include logging and error alerts so you can trust the data." },
-    { question: "How much does an Exact Online integration cost?", answer: `With BtechWaleTech, a focused integration of one or two flows starts from ${P.ai} and a full integration with several flows, administrations or a custom portal starts from ${P.software}. Care after five free months starts from ${P.care}. Your Exact subscription and hosting are paid directly by you. The quote itemises each flow.` },
+    { question: "How much does an Exact Online integration cost?", answer: `With BtechWaleTech, a focused integration of one or two flows starts from ${P.ai} and a full integration with several flows, administrations or a custom portal starts from ${P.software}. Care after two free months starts from ${P.care}. Your Exact subscription and hosting are paid directly by you. The quote itemises each flow.` },
     { question: "Should I use an Exact App Store connector or a custom integration?", answer: "Use a connector when your platform, administration and mappings are standard and the connector's errors are rare and visible. Choose a custom Exact Online integration when you have several administrations, a custom portal or CRM, unusual mappings, high volume or a need for daily reconciliation. Sometimes the best answer is both: connector plus one custom flow." },
     { question: "What are the Exact Online API rate limits?", answer: "Exact's knowledge base lists 60 API calls per minute and 5,000 per day per company, with extra calls rejected with an HTTP 429 response. Limits can change and may vary by subscription, so a good integration reads the rate-limit headers in each response, uses bulk or sync endpoints and queues writes." },
     { question: "How does Exact Online authentication work?", answer: "Exact Online uses OAuth 2.0. An app is registered under your Exact account, an authorised user approves access once, and the integration then uses short-lived access tokens renewed with a refresh token. Passwords are never stored. Tokens should be refreshed by a single process and kept encrypted." },
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
     { question: "Is it safe to let a team in India build our financial integration?", answer: "It can be, when access and ownership are set up correctly. Your administrator authorises the app, the service runs on your cloud account, the code is in your repository and our access can be removed at any time. Personal data handling is designed to support your AVG obligations, confirmed by your own adviser." },
     { question: "Can an integration book marketplace payouts correctly?", answer: "Yes. Marketplace and payment-provider payouts arrive in batches with fees deducted. The integration books the sales, fees and payout so bank reconciliation in Exact matches, following the mapping your bookkeeper approves. This removes a lot of manual matching of small amounts." },
     { question: "Do we still need our App Store connector after a custom build?", answer: "Not always. Many businesses keep the connector for the flows it handles well and add custom flows for the gaps. After a month of clean running, you can decide whether to consolidate everything into the custom integration or keep both, based on cost and reliability." },
-    { question: "What does care after go-live cover?", answer: `The first five months are free and cover fixes, token issues and small mapping changes. After that, care starts from ${P.care}. It covers API changes announced by Exact or the other system, monitoring, and small updates such as a new VAT code. Larger changes are quoted separately in writing.` },
+    { question: "What does care after go-live cover?", answer: `The first two months are free and cover fixes, token issues and small mapping changes. After that, care starts from ${P.care}. It covers API changes announced by Exact or the other system, monitoring, and small updates such as a new VAT code. Larger changes are quoted separately in writing.` },
   ],
   related: {
     heading: "Related integration and ecommerce pages",

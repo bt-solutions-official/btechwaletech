@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering app, backend and data" },
     { value: "2", label: "Store listings: Google Play and App Store" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken by us on your orders" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "6–10 weeks for a first release" },
       { label: "Payments", value: "UPI, cards and cash on delivery" },
       { label: "Ownership", value: "Code, store accounts and customer data are yours" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -290,7 +290,7 @@ const content: FreelanceContent = {
         ["Multi-restaurant platform", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Town or campus marketplace MVP"],
         ["AI order helper or bill reading", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Many repeat questions on WhatsApp"],
         ["Restaurant website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Menu, location and reservations only"],
-        ["Maintenance (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu changes, updates, OS releases"],
+        ["Maintenance (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu changes, updates, OS releases"],
       ],
       hideSm: [2],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Set up your accounts", "Play Console, Apple Developer, hosting and payment accounts are created in your business name, with us added as users."],
       ["Build with weekly test builds", "You install test builds on your own phone each week and place real orders to the kitchen panel before launch."],
       ["Soft launch, then publish", "Staff and regular customers use it first. Once issues are closed, we submit to Google Play and the App Store."],
-      ["Five months of free care", "Menu logic fixes, OS updates and small changes are covered for five months; after that, care continues from " + P.care + " if you want it."],
+      ["Two months of free care", "Menu logic fixes, OS updates and small changes are covered for two months; after that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Food delivery app developer: common questions",
@@ -375,9 +375,9 @@ const content: FreelanceContent = {
     { question: "Can the app show GST and FSSAI details on bills?", answer: "Yes. Invoices can show your GSTIN and tax lines, with packaging and delivery charges as separate items, set up the way your accountant advises. The FSSAI licence number can appear in the app, on invoices and on the ordering website. We build the fields; confirm current requirements with your adviser." },
     { question: "How do I get customers to download my restaurant app?", answer: "Start with people who already order from you: QR cards in parcels, a first-order offer valid only in the app, table QR codes, counter reminders and WhatsApp messages to opted-in customers. Track installs and repeat orders monthly. Nobody can guarantee downloads; the app works when your food and service already have loyal customers." },
     { question: "Can I also have an ordering website, not just an app?", answer: `Yes, and many restaurants should. A web ordering store lets customers order without installing anything and can share the same menu, kitchen panel and orders as the app. It starts from ${P.shop}, and it is a sensible first step if you want to test direct ordering before building the app.` },
-    { question: "What happens after the app is launched?", answer: `BtechWaleTech includes five months of free maintenance after launch, covering fixes, small changes and updates for new Android and iOS versions. After that, care is optional from ${P.care}. You also receive the source code, store access and a handover note, so another developer can continue if you choose.` },
+    { question: "What happens after the app is launched?", answer: `BtechWaleTech includes two months of free maintenance after launch, covering fixes, small changes and updates for new Android and iOS versions. After that, care is optional from ${P.care}. You also receive the source code, store access and a handover note, so another developer can continue if you choose.` },
     { question: "Can you connect the app to my billing or POS software?", answer: "Often, yes, if your billing or point-of-sale software offers an API or import option. Then online orders flow in without staff re-typing them. We check the software’s documentation before quoting and list the integration as its own line, with a fallback such as printed tickets if no API exists." },
-    { question: "Restaurant ka food delivery app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iOS ordering app ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Kitchen panel, rider app aur billing software se connection alag lines mein quote hote hain. App aapke naam ke Play Store aur App Store account mein publish hota hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Restaurant ka food delivery app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iOS ordering app ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Kitchen panel, rider app aur billing software se connection alag lines mein quote hote hain. App aapke naam ke Play Store aur App Store account mein publish hota hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Do you build food ordering apps for restaurants outside India?", answer: `Yes. We work remotely with food businesses abroad, including Indian restaurants in the UAE, UK and elsewhere. Pricing is in USD, with ordering apps starting from ${P.appUsd}, and payment goes through Wise, bank wire or PayPal. Payment methods, taxes and delivery rules are set up for your country.` },
   ],
   related: {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want your own food delivery app? Tell us how your kitchen runs",
-    note: `Message us your outlets, who delivers and roughly how many orders you handle. In about two working days you get an itemised quote, with ordering apps starting from ${P.app}, store accounts in your name and five months of free maintenance after launch.`,
+    note: `Message us your outlets, who delivers and roughly how many orders you handle. In about two working days you get an itemised quote, with ordering apps starting from ${P.app}, store accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

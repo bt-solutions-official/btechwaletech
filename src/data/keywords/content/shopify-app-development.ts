@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks for a full app"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Code ownership", "Your repository, your Partner or store account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can read and maintain your app's code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Platform fees added by us to your build" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Checkout logic", value: "Shopify Functions and checkout UI extensions" },
       { label: "App Store review", value: "Needed for public apps only" },
       { label: "Hosting", value: "Your cloud account, billed to you directly" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -307,7 +307,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A Shopify app needs regular upkeep because Shopify's versioning documentation says a new API version ships every three months and each stable version is supported for at least 12 months. An app that is never updated eventually calls a version Shopify no longer supports.`,
         `In practice we pin the app to a specific API version, read Shopify's changelog when a new version lands, and bump the version in a planned update with tests run first. Other routine work: rotating credentials when staff change, adjusting when the ERP on the other end updates, watching error logs for failed webhooks, and adding small features as the business changes.`,
-        `Our five months of free maintenance after launch covers fixes and small adjustments. After that, upkeep continues from ${P.care} if you want it, or your in-house developer takes over using the runbook we hand over. For store-wide support beyond the app, see <a href='/shopify-maintenance-services/'>Shopify maintenance services</a>.`,
+        `Our two months of free maintenance after launch covers fixes and small adjustments. After that, upkeep continues from ${P.care} if you want it, or your in-house developer takes over using the runbook we hand over. For store-wide support beyond the app, see <a href='/shopify-maintenance-services/'>Shopify maintenance services</a>.`,
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Set up ownership", "We create the app under your store or Partner account, the repository and cloud account in your name, and join them as collaborators."],
       ["Build on a development store", "All coding happens on a development store with copies of your products. You get an early staging install to click through real screens."],
       ["Test with real scenarios", "We run the agreed cases: refunds, cancellations, exchanges, odd variants and failures on the other system, and fix what breaks."],
-      ["Go live and hand over", "Launch on a quiet day with reconciliation on, logs watched for a week, then the runbook and repository handed over. Five months of free maintenance follow."],
+      ["Go live and hand over", "Launch on a quiet day with reconciliation on, logs watched for a week, then the runbook and repository handed over. Two months of free maintenance follow."],
     ],
   },
   faqHeading: "Shopify app development: questions store owners ask",
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
     { question: "Can you build a Shopify app to sell on the App Store?", answer: "Yes. A public app needs multi-store installation, Shopify billing, onboarding screens, the three mandatory compliance webhooks, a listing and fixes after Shopify's review. That is noticeably more work than a private tool with the same core feature. We usually suggest proving the idea as a custom app on one store before investing in public distribution." },
     { question: "How does Shopify charge app developers for public apps?", answer: "According to Shopify's developer documentation, a one-time registration fee applies to a Partner account, and developers keep all of their first US$1 million in gross app revenue earned from 1 January 2025 and pay a 15% share on earnings above that. The same page lists a 2.9% processing fee on app billing. Check Shopify's current terms before planning a pricing model." },
     { question: "Can a Shopify app hide cash on delivery for some orders?", answer: "Yes, through a payment customisation Function that hides or renames payment methods based on cart total, pincode, product type or customer tag. For a custom app this requires Shopify Plus. On other plans, some public apps offer COD rules, or a custom app can flag risky COD orders after purchase for confirmation on WhatsApp before dispatch." },
-    { question: "What happens when Shopify releases a new API version?", answer: "Shopify releases a new API version every quarter and supports each stable version for at least 12 months, according to its versioning documentation. An app pinned to an old version must be updated and retested before that version is removed. This is routine maintenance: reading the changelog, bumping the version, running tests and deploying. It is covered in our free five months, then from our maintenance plan." },
+    { question: "What happens when Shopify releases a new API version?", answer: "Shopify releases a new API version every quarter and supports each stable version for at least 12 months, according to its versioning documentation. An app pinned to an old version must be updated and retested before that version is removed. This is routine maintenance: reading the changelog, bumping the version, running tests and deploying. It is covered in our free two months, then from our maintenance plan." },
     { question: "Is it safe to give a developer access to my Shopify store?", answer: "Give collaborator or staff access with only the permissions needed, never your owner password. For the app itself, check the list of API scopes it requests and make sure each one is justified by a feature. Remove access when the project ends. Keeping the app, repository and hosting in your own accounts means access can always be revoked." },
     { question: "Can a Shopify app help my store appear in Google or AI search?", answer: "Indirectly. An app can generate structured product data from metafields, keep stock and price information accurate for Google Merchant Center, and help write consistent collection content in bulk. Those support visibility in Google and AI answers. No app or developer can guarantee rankings, which depend on content, competition and links over time." },
     { question: "Can you fix or finish a Shopify app another developer started?", answer: "Usually, if you can give us the code repository and access to the app record. We first audit the code, API scopes, hosting and webhook setup, then quote either to finish it or to rebuild the risky parts. If the app sits in someone else's Partner account and they cannot be reached, a replacement under your ownership is often the cleaner route." },
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a Shopify app built? Send us the workflow",
-    note: `Describe on WhatsApp what the app should do, with a few real order examples. You get a written spec and itemised quote in about two working days, with custom apps from ${P.software}, code and hosting in your name, and five months of free maintenance after launch.`,
+    note: `Describe on WhatsApp what the app should do, with a few real order examples. You get a written spec and itemised quote in about two working days, with custom apps from ${P.software}, code and hosting in your name, and two months of free maintenance after launch.`,
   },
 };
 

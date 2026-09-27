@@ -56,7 +56,7 @@ const tasgaon: CityContent = {
     ai: "Marathi WhatsApp assistants that answer rate, stock and slot questions and pass anything unusual to the owner.",
     data: "Season dashboards comparing lots stored, boxes released, rent collected and auction rates week by week.",
     app: "Android and iOS apps for storage clients to check their lots or for grape buyers to follow harvest dates, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for rate changes, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for rate changes, backups and security patches.",
   },
   whyUsIntro:
     "Tasgaon traders know the value of a written slip and a straight rate. We work the same way: starting prices in public, an itemised quote before any work, replies on WhatsApp all seven days, and the domain, hosting, code and store accounts registered to you. If something will not earn back its cost in a season or two, we tell you.",
@@ -167,7 +167,7 @@ const tasgaon: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store for raisins or dry fruit: from ₹50,000, four to eight weeks",
         "Custom software such as a cold storage register: from ₹60,000, six to twelve weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -193,7 +193,7 @@ const tasgaon: CityContent = {
       heading: "Your site, your code: ownership and upkeep for Tasgaon clients",
       paragraphs: [
         "Everything we build is registered to you from the first day. The domain sits on your email, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play and Apple developer accounts list you as owner. At handover you receive a sheet of every login so no designer, including us, can lock you out later.",
-        "The first five months after launch carry no maintenance charge. In that period we change rates and photos, take backups, apply security updates and test the forms, UPI checkout and WhatsApp links. After that, you can stay with us from ₹8,000 a month, manage it in-house or give the code to another developer without asking permission.",
+        "The first two months after launch carry no maintenance charge. In that period we change rates and photos, take backups, apply security updates and test the forms, UPI checkout and WhatsApp links. After that, you can stay with us from ₹8,000 a month, manage it in-house or give the code to another developer without asking permission.",
         "Apps need a yearly rebuild even when nothing is broken, because Google and Apple keep raising the versions they accept. We track those deadlines and update early, so your app is not pulled in the middle of harvest.",
       ],
     },
@@ -285,7 +285,7 @@ const tasgaon: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that you can continue from ₹8,000 a month or take the work elsewhere, since all accounts and code already belong to you. There is no exit fee and no handover charge.",
+        "Maintenance is free for two months after launch: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that you can continue from ₹8,000 a month or take the work elsewhere, since all accounts and code already belong to you. There is no exit fee and no handover charge.",
     },
     {
       question: "Do you work with businesses in Savlaj, Manerajuri and Sangli?",

@@ -56,7 +56,7 @@ const shegaon: CityContent = {
     ai: "Marathi and Hindi WhatsApp assistants that answer room, rate, darshan-timing and order questions before pilgrims arrive.",
     data: "Dashboards of room bookings by season, cotton arrivals and payments by farmer, and orders by dealer and state.",
     app: "Android and iOS apps for a lodge's repeat pilgrim families, a college's students, or a manufacturer's dealers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Shegaon's traders have watched pilgrims get misled by look-alike booking pages and expensive agents, so they tend to trust plain dealing more than polish. We publish starting prices, send written itemised quotes, reply on WhatsApp every day of the week and register your domain, hosting and code in your own name.",
@@ -177,7 +177,7 @@ const shegaon: CityContent = {
       heading: "Ownership and maintenance for Shegaon websites and apps",
       paragraphs: [
         "The site, the app and the data behind them belong to your business, not to us. We book the domain against your own email ID, set up hosting so the renewal bill comes to you, hand over the full code, and make you the owner of the Google listing and of the Play Console and Apple developer accounts. A printed or PDF list of all passwords is part of the handover, so no outsider ever controls your online presence.",
-        "For the first five months after going live, upkeep costs you nothing. We change tariffs before festival rushes, post new notices, run backups, patch software and test that the booking form, payments and WhatsApp link still behave. When the five months end, the choice is yours: keep us on from ₹8,000 per month, look after it yourselves, or hand the code to any developer you like.",
+        "For the first two months after going live, upkeep costs you nothing. We change tariffs before festival rushes, post new notices, run backups, patch software and test that the booking form, payments and WhatsApp link still behave. When the two months end, the choice is yours: keep us on from ₹8,000 per month, look after it yourselves, or hand the code to any developer you like.",
         "Store-listed apps also need a rebuild roughly once a year, because Google and Apple tighten their rules for the minimum system versions they accept. We keep a calendar of those deadlines and update early, so a regular pilgrim never finds your app missing from the store. How we keep websites quick and secure is explained on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -269,7 +269,7 @@ const shegaon: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, updates, festival tariff changes, backups and security patches are on us at no charge. From the sixth month you can continue from ₹8,000 per month, or stop. Since you already hold the code and every login, you can hire anyone else without needing a handover from us.",
+        "For two months after launch, updates, festival tariff changes, backups and security patches are on us at no charge. From the third month you can continue from ₹8,000 per month, or stop. Since you already hold the code and every login, you can hire anyone else without needing a handover from us.",
     },
     {
       question: "Do you work in Khamgaon, Malkapur and Akola too?",

@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Singapore · Android & iOS apps · Flutter or React Native",
     h1: "Mobile app development services in Singapore, built by a remote team and published under your own name",
     lede: `Mobile app development services in Singapore usually come from a local studio with a local price tag, yet the work itself happens in a code editor, not in your office. BtechWaleTech is three freelance developers in India who build Android and iOS apps from ${P.app}, publish them under your company's own Apple and Google accounts, run the backend in the AWS Singapore region and handle updates while you are still at your desk. See how it fits your <a href='/singapore/'>Singapore</a> business.`,
-    pills: [`Android + iOS from ${P.app}`, "One Flutter or React Native codebase", "Your own App Store and Play accounts", "Backend in AWS ap-southeast-1", "PayNow and card checkout", "Optional Singpass login", "5 months free maintenance"],
+    pills: [`Android + iOS from ${P.app}`, "One Flutter or React Native codebase", "Your own App Store and Play accounts", "Backend in AWS ap-southeast-1", "PayNow and card checkout", "Optional Singpass login", "2 months free maintenance"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Singapore clients served remotely",
   },
   facts: [
@@ -43,11 +43,11 @@ const content: FreelanceContent = {
     { value: "1", label: "Shared codebase for Android and iOS" },
     { value: "3", label: "Developers who know your app, not one" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Can a Singapore business get its mobile app built by a remote team instead of a local studio?",
-    text: `Yes. A remote Flutter or React Native team can design, build and publish an Android and iOS app for a Singapore business, provided the app sits in your own Apple and Google developer accounts and the backend runs in the Singapore cloud region. BtechWaleTech's mobile app development services start at ${P.app}, typically take 6 to 10 weeks and include five months of free maintenance.`,
+    text: `Yes. A remote Flutter or React Native team can design, build and publish an Android and iOS app for a Singapore business, provided the app sits in your own Apple and Google developer accounts and the backend runs in the Singapore cloud region. BtechWaleTech's mobile app development services start at ${P.app}, typically take 6 to 10 weeks and include two months of free maintenance.`,
     more: `Still working out a budget? Read the <a href='/singapore/app-development-cost/'>app development cost guide for Singapore</a>, or the <a href='/singapore/outsource-app-development/'>step-by-step outsourcing playbook</a> if contracts and milestones are your main worry.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Typical timeline", value: "6–10 weeks from signed scope to store submission" },
       { label: "Accounts", value: "Apple Developer and Play Console in your organisation's name" },
       { label: "Hosting", value: "Your AWS account, Singapore region by default" },
-      { label: "After launch", value: `Five free months, then care plans from ${P.care}` },
+      { label: "After launch", value: `Two free months, then care plans from ${P.care}` },
     ],
   },
   services: {
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
       id: "after-launch",
       heading: "Who looks after the app after launch, and in which hours?",
       paragraphs: [
-        `We do, for five months after launch at no charge, and then on a monthly care plan from ${P.care} if you want it. Apps need more upkeep than websites: Apple and Google release new OS versions every year, store policies change, and third-party SDKs publish security updates you should not ignore.`,
+        `We do, for two months after launch at no charge, and then on a monthly care plan from ${P.care} if you want it. Apps need more upkeep than websites: Apple and Google release new OS versions every year, store policies change, and third-party SDKs publish security updates you should not ignore.`,
         `Because our working day overlaps with the Singapore business day, most fixes are handled while your staff are still at work. Crash reports reach us automatically, so we often see a problem before a customer reports it. Larger changes, such as a new feature or a redesign, are quoted separately so you always know what you are paying for.`,
       ],
       list: [
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
         "Week 2: clickable screens are tested by two instructors and three regular members.",
         "Weeks 3–7: the build, with a new TestFlight build every Friday.",
         "Weeks 8–9: real-device testing, then store submission.",
-        "After launch: five free months of fixes; the studio decides later whether to add a waitlist feature.",
+        "After launch: two free months of fixes; the studio decides later whether to add a waitlist feature.",
       ],
       after: [
         `The quote for a scope like this would start from our ${P.app} app price, with the payment gateway, admin panel and instructor role listed as separate lines.`,
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Your company checks its D-U-N-S number and enrols with Apple, Google and AWS. We send a short checklist and join each account as an invited team member."],
       ["Approve clickable designs", "You tap through the screens on your own phone and sign off the flows. Code starts only once the design and scope are agreed in writing."],
       ["Test weekly builds", "Each week a new build lands on TestFlight and a Google Play testing track. Your feedback goes into the next cycle, and backend progress is shown on staging."],
-      ["Launch and hand over", "We submit to both stores, answer reviewer questions and hand over code, credentials and documentation. Five months of free maintenance begins on launch day."],
+      ["Launch and hand over", "We submit to both stores, answer reviewer questions and hand over code, credentials and documentation. Two months of free maintenance begins on launch day."],
     ],
   },
   faqHeading: "Mobile app development services in Singapore: common questions",
@@ -439,7 +439,7 @@ const content: FreelanceContent = {
     { question: "Where will my app's data be stored?", answer: "By default in your own AWS account in the Asia Pacific (Singapore) region, ap-southeast-1. The database and file storage are encrypted, backups stay in the same region, and staging is kept separate from live data. If a contract requires a different location, we can plan for that during scoping." },
     { question: "Is the app PDPA compliant?", answer: "Compliance is your organisation's responsibility, confirmed by your own legal adviser. What we do is build features that support it: collecting only needed data, clear notices and consent, separate marketing consent, in-app account deletion, access control and logs that help you assess any incident quickly." },
     { question: "Who owns the source code?", answer: "You do. The code lives in a Git repository under your organisation's account from the first commit, and the handover includes build instructions, environment settings and credentials. If you later hire your own developer or another team, they can pick it up without needing anything from us." },
-    { question: "What happens after the app is launched?", answer: `You get five months of free maintenance covering bug fixes, OS updates, SDK updates and small changes. After that, care plans start at ${P.care}. New features are quoted separately. Because our hours overlap with Singapore's working day, most issues are handled while your staff are still at work.` },
+    { question: "What happens after the app is launched?", answer: `You get two months of free maintenance covering bug fixes, OS updates, SDK updates and small changes. After that, care plans start at ${P.care}. New features are quoted separately. Because our hours overlap with Singapore's working day, most issues are handled while your staff are still at work.` },
     { question: "Do you build apps that work offline?", answer: "Yes, when the use case needs it, for example field staff in basements, warehouses or on the road. Data is stored on the phone and synced when a connection returns, with rules for what happens if two people edit the same record. Offline sync adds cost, so it is quoted as its own line." },
     { question: "Freelance team or app development company: which is better for an SME?", answer: "A larger company can staff big teams and meet you in person. A small freelance team usually costs less and gives you direct contact with the people writing the code. For an SME or start-up app, what matters most is written scope, ownership of accounts and a maintenance plan, whichever you choose." },
     { question: "Can you take over an app another developer started?", answer: "Often, yes. We first review the code, the store accounts and the backend to check what is there and who controls it, then quote either to continue or to rebuild the weak parts. If the app sits in another developer's account, we help you plan a transfer to your own." },

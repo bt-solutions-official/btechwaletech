@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Integrations from", `${P.ai}, 2–4 weeks`],
     ["Theme stack", "Twilight: Twig templates, Tailwind CSS, Salla CLI"],
     ["Access we need", "A staff account, never your owner password"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering theme, app and integration work" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free support after go-live" },
+    { value: "2", label: "Months of free support after go-live" },
     { value: "0", label: "Commission taken on your store sales" },
   ],
   answer: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Starting cost", "Your time and app subscriptions", "Quotes vary widely", `From ${P.shop} for store work`],
       ["Meetings", "None", "In person possible", "Video and WhatsApp; no visits"],
       ["Code ownership", "Not applicable", "Check the contract", "Theme and app code handed over to you"],
-      ["Support after launch", "Salla support", "Retainer", `5 months free, then from ${P.care}`],
+      ["Support after launch", "Salla support", "Retainer", `2 months free, then from ${P.care}`],
     ],
     fine: "If what you need is product photography, Arabic content writing and ad management in one package, a local full-service agency will suit you better than a developer.",
   },
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, Salla store work starts from ${P.shop} for a new store build, redesign or substantial theme customisation. Integrations start from ${P.ai}. Custom Salla apps start from ${P.software}. Small one-off fixes are quoted after we look at the store.`,
         `What moves a Salla store developer quote: the number of templates changed; whether you need a custom theme or edits to an existing one; catalogue and order volume in a migration; the number of systems an app talks to; and how much admin interface your team needs to manage an integration. We quote in US dollars; because the Saudi riyal is pegged to the dollar, the riyal figure does not drift between quote and invoice.`,
-        `You pay Salla directly for your plan and the App Store developers for any apps you install. Hosting for a custom app runs on a cloud account in your name. After five free months of maintenance, support starts from ${P.care}.`,
+        `You pay Salla directly for your plan and the App Store developers for any apps you install. Hosting for a custom app runs on a cloud account in your name. After two free months of maintenance, support starts from ${P.care}.`,
       ],
     },
     {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       heading: "What do you get at handover, and what happens after launch?",
       paragraphs: [
         `You get the theme source in your repository, app code and deployment notes, admin credentials for any hosting in your name, a list of every setting we changed, and a short screen-recorded walkthrough for your team. Nothing about your store depends on us staying involved.`,
-        `For five months after go-live, fixes and small adjustments are free. If Salla changes something that affects your theme or app in that time, we handle it. After that, care starts from ${P.care}, or you can hire us for individual tasks when they come up. Some merchants prefer that, especially once the theme is stable and the integrations run quietly in the background.`,
+        `For two months after go-live, fixes and small adjustments are free. If Salla changes something that affects your theme or app in that time, we handle it. After that, care starts from ${P.care}, or you can hire us for individual tasks when they come up. Some merchants prefer that, especially once the theme is stable and the integrations run quietly in the background.`,
       ],
     },
   ],
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Preview first", "Theme changes are built and shown on a demo store through the Salla CLI preview, so you approve before anything reaches customers."],
       ["Build and connect", "Apps and integrations are built on hosting in your name, with logs and retries, then tested with real test orders."],
       ["Publish on a quiet day", "Changes go live away from sales peaks, with redirects checked and a rollback path ready if anything misbehaves."],
-      ["Handover and support", "You receive code, credentials and a walkthrough, followed by 5 months of free maintenance."],
+      ["Handover and support", "You receive code, credentials and a walkthrough, followed by 2 months of free maintenance."],
     ],
   },
   faqHeading: "Salla store developer: questions merchants ask",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a Salla developer in India?", answer: "You receive an itemised quote in US dollars and pay by Wise or bank wire at the milestones in that quote. Invoices come from India, and nothing is billed until you approve the scope in writing. Because the riyal is pegged to the dollar, the amount in riyals stays predictable." },
     { question: "Who owns the theme and app code?", answer: "You do. Theme code sits in a repository in your name, custom apps run on hosting in your name, and everything is handed over with deployment notes at the end. Your store keeps working if you stop working with us or hire another developer." },
     { question: "Is Salla better than Zid or Shopify?", answer: "It depends on your market and team. Salla suits stores selling mainly inside Saudi Arabia with an Arabic-speaking team; Zid is a close alternative; Shopify suits cross-border selling with a large app ecosystem. A good developer can stretch whichever you choose, so moving platforms only makes sense for a clear reason." },
-    { question: "What support do I get after the project?", answer: `Five months of free maintenance after go-live, covering fixes and small changes, including adjustments needed when Salla updates something that affects your theme or app. After that, care plans start from ${P.care}, or you can book individual tasks when needed.` },
+    { question: "What support do I get after the project?", answer: `Two months of free maintenance after go-live, covering fixes and small changes, including adjustments needed when Salla updates something that affects your theme or app. After that, care plans start from ${P.care}, or you can book individual tasks when needed.` },
     { question: "What should I send to get a quote?", answer: "Your store link, what you want changed or connected, examples of stores or designs you like, any systems Salla should talk to, and your target launch date. Add us as a limited staff user if you are comfortable. We reply on WhatsApp with questions and an itemised quote." },
   ],
   related: {

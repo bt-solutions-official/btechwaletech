@@ -56,7 +56,7 @@ const laharpur: CityContent = {
     ai: "WhatsApp replies in Hindi for design, size, rate and delivery questions, handing orders and exceptions to you.",
     data: "Dashboards of pieces woven per loom, yarn issued and returned, orders by buyer and payments pending.",
     app: "Android and iOS apps for weavers to log finished pieces or for school parents to follow notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free upkeep for the first five months after go-live, then updates, backups and fixes from ₹8,000 a month.",
+    maintenance: "Free upkeep for the first two months after go-live, then updates, backups and fixes from ₹8,000 a month.",
   },
   whyUsIntro:
     "Laharpur's weavers and traders have dealt with middlemen for generations and are right to be cautious. We keep things transparent: starting prices in public, quotes split into lines, WhatsApp replies seven days a week, and your domain, hosting, code and app store accounts registered in your own name. If a feature is unlikely to earn back its cost, you will hear that from us first.",
@@ -170,7 +170,7 @@ const laharpur: CityContent = {
       paragraphs: [
         "Since we are not in Laharpur, clear documents replace office visits. An opening call covers your trade and customers; you then receive a page or screen plan, timeline and itemised quote. After approval, you get preview links to open on your own phone and share with family or partners. We reply on WhatsApp every day on Indian Standard Time, and Hindi or Urdu text is sent for your approval before anything goes live.",
         "Payments are tied to work you can see, and nothing is billed before written approval of the quote. The domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered to you from the start, with logins handed over in writing, so you are never locked in.",
-        "Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it continues from ₹8,000 a month if you wish, or you can move the code to another developer. To begin, send a short message through our <a href=\"/contact/\">contact page</a>.",
+        "Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it continues from ₹8,000 a month if you wish, or you can move the code to another developer. To begin, send a short message through our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const laharpur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of free maintenance after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. Afterwards it continues from ₹8,000 a month if you want it. The code is yours, so you can move to another developer at any time.",
+        "You get two months of free maintenance after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. Afterwards it continues from ₹8,000 a month if you want it. The code is yours, so you can move to another developer at any time.",
     },
     {
       question: "Do you work in Sitapur, Biswan and Khairabad too?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "1–2 weeks after your service list is final"],
     ["Ideal launch", "Autumn, well before January enquiries"],
     ["Who owns it", "Your domain, hosting account and code"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, no account managers in between" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance once live" },
+    { value: "2", label: "Months of free maintenance once live" },
     { value: "0", label: "Platform fees added on top of the quote" },
   ],
   answer: {
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
         "Migration: moving posts and redirects from an old site so rankings survive",
       ],
       after: [
-        `Monthly local SEO starts at ${P.seo} if you want new deadline content and profile upkeep handled for you. Maintenance is free for the first 5 months after launch and starts at ${P.care} afterwards, if you choose to keep it. For broader price context, see <a href='/canada/website-design-cost/'>website design cost in Canada</a>.`,
+        `Monthly local SEO starts at ${P.seo} if you want new deadline content and profile upkeep handled for you. Maintenance is free for the first 2 months after launch and starts at ${P.care} afterwards, if you choose to keep it. For broader price context, see <a href='/canada/website-design-cost/'>website design cost in Canada</a>.`,
       ],
     },
     {
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
         "Your team can edit dates and add an article without calling us",
       ],
       after: [
-        `After launch, maintenance is free for 5 months. Ongoing care afterwards is optional and described on the <a href='/canada/website-maintenance-services/'>website maintenance services</a> page.`,
+        `After launch, maintenance is free for 2 months. Ongoing care afterwards is optional and described on the <a href='/canada/website-maintenance-services/'>website maintenance services</a> page.`,
       ],
     },
     {
@@ -458,7 +458,7 @@ const content: FreelanceContent = {
     { question: "Do you write the tax content for the website?", answer: "We draft structure and plain-language copy from your notes, and research official CRA pages for dates and rules. Every tax statement is reviewed and approved by you before publication, because you are the professional responsible for it. We don't give tax advice or publish technical tax content under your name without your sign-off." },
     { question: "Can the website connect to QuickBooks Online or our practice software?", answer: "Where the software provides an API or embed option, yes. Common examples are onboarding forms that create a client record, booking tools that sync with your calendar, and portal login buttons. Deeper integrations are scoped separately and quoted as custom software. Tell us which tools you use and we'll confirm what's possible before quoting." },
     { question: "Who owns the accounting firm website once it's finished?", answer: "You do. The domain, hosting account and source code are registered in your practice's name from the start, and every login is handed over. If you stop working with us, the site keeps running and any other developer can take it over. There's no platform lock-in from our side." },
-    { question: "Do you offer maintenance after the website launches?", answer: `Yes. Maintenance is free for 5 months after launch, covering fixes, updates and small content changes. After that, ongoing maintenance starts at ${P.care} if you want it. Many practices keep it through their first full tax season so deadline dates and booking rules get updated without them lifting a finger.` },
+    { question: "Do you offer maintenance after the website launches?", answer: `Yes. Maintenance is free for 2 months after launch, covering fixes, updates and small content changes. After that, ongoing maintenance starts at ${P.care} if you want it. Many practices keep it through their first full tax season so deadline dates and booking rules get updated without them lifting a finger.` },
     { question: "How do we pay a web team in India from Canada?", answer: "You receive an itemised quote in USD and pay by Wise, bank wire or PayPal, which lets you pay from a Canadian-dollar account with the conversion handled by your bank or Wise. Nothing is billed before you approve the quote in writing, and invoices come from India. Your own accountant decides how to record them." },
     { question: "Can you build a bilingual English and French accounting website?", answer: "Yes. We build separate language versions with a switcher, correct language tags for search engines and translated booking emails. We write in English, so you supply the French copy or approve a professional translation. For Quebec practices, your lawyer should confirm the site meets provincial language requirements before launch." },
     { question: "What if our practice is already full for tax season?", answer: "Then the site should say so politely and collect a waitlist. We add a switch to the booking page that pauses new personal-tax enquiries and invites visitors to join a list for next season or book business services instead. That keeps goodwill and gives you a warm list to contact in the autumn, with their consent." },

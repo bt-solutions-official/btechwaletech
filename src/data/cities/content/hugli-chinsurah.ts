@@ -32,10 +32,10 @@ const hugliChinsurah: CityContent = {
     h1: "Web, app, SEO and automation services for Hugli-Chinsurah and Bandel businesses",
     lede:
       "We are three remote engineers who build websites, Google listings, small online stores and WhatsApp tools for the Hooghly district headquarters. Our clients here include advocates near the court, clinics and diagnostic labs, tutors and coaching rooms, sweet shops and saree sellers, and traders in Chawk Bazar, Kharua Bazar and around Bandel Junction.",
-    pills: ["Websites from ₹10,000", "Bengali and English pages", "Court, clinic and tutor sites", "Heritage-tourism pages", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Bengali and English pages", "Court, clinic and tutor sites", "Heritage-tourism pages", "2 months free maintenance"],
   },
   quickAnswer:
-    "In Hugli-Chinsurah, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, AI or WhatsApp automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no local office, and the first five months of maintenance are free.",
+    "In Hugli-Chinsurah, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, AI or WhatsApp automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no local office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Right bank of the Hooghly River, about 35 km north of Kolkata, inside the Kolkata metropolitan planning area" },
     { label: "Status", value: "Headquarters of Hooghly district; Hooghly Chinsurah Municipality was formed in 1865" },
@@ -52,7 +52,7 @@ const hugliChinsurah: CityContent = {
     ai: "WhatsApp assistants that answer hearing-date, test-price or batch-timing questions in Bengali and hand anything serious to a person.",
     data: "Monthly dashboards for cold-storage bookings, shop sales or lab test volumes, built from the registers and sheets you already keep.",
     app: "Android and iOS apps for delivery boys, sample-collection staff and field agents moving between Chinsurah, Bandel and Mogra, from ₹40,000.",
-    maintenance: "Five months of free updates, backups and fixes after launch; after that, care plans from ₹8,000 a month or paid per request.",
+    maintenance: "Two months of free updates, backups and fixes after launch; after that, care plans from ₹8,000 a month or paid per request.",
   },
   whyUsIntro:
     "Chinsurah is an old administrative town with a settled, highly literate population and Kolkata only a train ride away. People here compare before they choose, and they often check a business online before visiting. We give you a clear site, an honest Google listing and published starting prices, and we answer WhatsApp messages every day of the week.",
@@ -183,11 +183,11 @@ const hugliChinsurah: CityContent = {
     },
     {
       id: "ownership-chinsurah",
-      heading: "Your domain, your code, and five months of free care",
+      heading: "Your domain, your code, and two months of free care",
       paragraphs: [
         "A common story in older towns: a website built years ago by a relative or a small firm, registered in their name, and now impossible to change because nobody has the password. The business keeps paying renewal fees for a site it cannot edit.",
         "We avoid that from the start. The domain and hosting are registered in your name, and at launch you receive every login, the complete source code and a short note on how things are set up. You can take the site to another developer whenever you like, and there is no exit charge.",
-        "For five months after launch, maintenance costs nothing: content and price changes, fixes, security updates, backups and uptime monitoring. After that, you can continue from ₹8,000 a month or simply message us when something needs doing and pay per task.",
+        "For two months after launch, maintenance costs nothing: content and price changes, fixes, security updates, backups and uptime monitoring. After that, you can continue from ₹8,000 a month or simply message us when something needs doing and pay per task.",
       ],
     },
   ],
@@ -272,7 +272,7 @@ const hugliChinsurah: CityContent = {
         "You do. The domain and hosting are registered in your name, and at launch you receive every password and the full code. You can move to another developer at any time without an exit fee or any permission from us.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You choose. Maintenance continues from ₹8,000 a month covering updates, backups, security and small changes, or you message us only when you need something and pay for that task. Either way, your site keeps running on hosting in your own name.",
     },

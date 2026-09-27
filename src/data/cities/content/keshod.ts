@@ -56,7 +56,7 @@ const keshod: CityContent = {
     ai: "Gujarati WhatsApp assistants that answer rate, stock and delivery questions and collect order details before a person takes over.",
     data: "Dashboards of daily groundnut intake, oil yield, cake sales, dealer outstanding and furniture orders by town.",
     app: "Android and iOS apps for oil dealers to reorder tins or furniture buyers to track orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates, security fixes and small edits.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates, security fixes and small edits.",
   },
   whyUsIntro:
     "Keshod businesses run on trust built over years with the same traders and families. We work the same way: published starting prices, an itemised written quote, replies on WhatsApp every day of the week, and your domain, hosting, code and app store accounts registered in your name from the first day.",
@@ -114,7 +114,7 @@ const keshod: CityContent = {
         "We build Android and iOS apps using Flutter or React Native, so a single codebase serves both platforms. An app for a Keshod business normally includes phone-number login, a product or service list, ordering or booking, push notifications and an admin panel where staff update rates and see orders. Apps start from ₹40,000, and we publish them on Google Play and the App Store using accounts in your name.",
         "Which Keshod businesses benefit? Oil mills or distributors with a fixed network of dealers who reorder every week. Furniture makers who want dealers to browse current designs and place orders. Agro input dealers with hundreds of regular farmers. Hospitals, diagnostic labs and coaching classes that send reports, schedules and results to the same people repeatedly.",
         "If most customers come to you once, a fast website and a WhatsApp button will do the job at a fraction of the price. A clothing shop in the cloth bazaar, a guest house or a lawyer rarely needs an app. We would rather tell you that than build something that sits unused on a few phones.",
-        "Store publishing is part of our job: listings in Gujarati and English, screenshots, privacy policy, submission and handling any review issues Google or Apple raise. You get five months of free maintenance after launch. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has the full scope.",
+        "Store publishing is part of our job: listings in Gujarati and English, screenshots, privacy policy, submission and handling any review issues Google or Apple raise. You get two months of free maintenance after launch. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has the full scope.",
       ],
     },
     {
@@ -186,7 +186,7 @@ const keshod: CityContent = {
       heading: "Ownership, handover and maintenance for Keshod clients",
       paragraphs: [
         "A familiar story in smaller towns is a business losing its website because the developer registered the domain in his own name and then disappeared. We prevent that from the beginning. Your domain, hosting, code repository, Google Business Profile and app store accounts are created in your name or your firm's name, with us added as users.",
-        "Every project includes five months of free maintenance after launch: bug fixes, small edits, security updates and help if something breaks. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime checks and small changes. You can stop at any time and take the work to someone else; we hand over everything they need.",
+        "Every project includes two months of free maintenance after launch: bug fixes, small edits, security updates and help if something breaks. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime checks and small changes. You can stop at any time and take the work to someone else; we hand over everything they need.",
         "For mill and furniture software, we write plain-language notes on how the system works, so a new munim or another developer can pick it up. A Keshod mill may run for three generations, and its records should outlast any one vendor.",
       ],
     },
@@ -229,7 +229,7 @@ const keshod: CityContent = {
     {
       question: "Which is the best IT services team in Keshod for a small business?",
       answer:
-        "Look for someone who registers your domain, code and accounts in your name, gives a written itemised quote and explains maintenance clearly. We are a remote team of three engineers with published starting prices and five months of free maintenance. Compare any option on ownership, delivery speed and support after launch, not only the first figure.",
+        "Look for someone who registers your domain, code and accounts in your name, gives a written itemised quote and explains maintenance clearly. We are a remote team of three engineers with published starting prices and two months of free maintenance. Compare any option on ownership, delivery speed and support after launch, not only the first figure.",
     },
     {
       question: "How long does a website take for a Keshod shop or mill?",
@@ -264,7 +264,7 @@ const keshod: CityContent = {
     {
       question: "What is the maintenance cost after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime monitoring and small changes. You can stop whenever you like and manage it yourself or pass it to someone else.",
+        "Every project includes two months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime monitoring and small changes. You can stop whenever you like and manage it yourself or pass it to someone else.",
     },
     {
       question: "Can you build a furniture catalogue website for my Keshod unit?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["GPT-only setup", "Scoped and quoted separately"],
     ["Built inside", "Your ChatGPT workspace or your cloud account"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and test it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees added by us" },
   ],
   answer: {
@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         `The account that creates a custom GPT controls it, so the GPT should always be built inside your organisation's ChatGPT workspace, never in a developer's personal account. With API assistants, the code repository, cloud account and API keys should likewise sit under your name from day one.`,
         `At handover you receive a short document listing the GPT's name and purpose, the full instruction text, every knowledge file with its date, each action with the endpoint it calls, and the test sheet with results. For API assistants, add repository access, deployment notes, environment variables stored in your cloud's secret manager, and a list of monthly bills you will see.`,
         `We also write down what the assistant must not be used for. That line protects you when a new manager, six months later, decides to point customers at an internal GPT.`,
-        `Maintenance is included for five months after launch: file updates, instruction tweaks after model changes, and fixes to actions. After that, ongoing care starts at ${P.care} a month, and only if you want it. Nothing locks you in; another developer can pick up from the handover pack.`,
+        `Maintenance is included for two months after launch: file updates, instruction tweaks after model changes, and fixes to actions. After that, ongoing care starts at ${P.care} a month, and only if you want it. Nothing locks you in; another developer can pick up from the handover pack.`,
       ],
     },
     {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
         ["API assistant on website with lead capture", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["API assistant on WhatsApp with human handover", `From ${P.ai}`, `From ${P.aiUsd}`, "3–4 weeks"],
         ["Internal assistant portal with logins and roles", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
-        ["Care after the 5 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Monthly"],
+        ["Care after the 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -433,7 +433,7 @@ const content: FreelanceContent = {
       ["Clean the knowledge", "We sort files into keep, rewrite and exclude, then rewrite what needs it into short, dated text the model can use reliably."],
       ["Build in your account", "The GPT goes into your workspace, or the API assistant into your cloud and repository, with actions scoped to the minimum data required."],
       ["Test and review together", "We run the question sheet and adversarial prompts, share results with you, fix weak answers and retest before anyone else sees it."],
-      ["Hand over and look after it", "You get the instruction text, file list, test sheet and access details, plus five months of free updates and fixes after launch."],
+      ["Hand over and look after it", "You get the instruction text, file list, test sheet and access details, plus two months of free updates and fixes after launch."],
     ],
   },
   faqHeading: "Custom GPT for business: questions people ask",
@@ -452,7 +452,7 @@ const content: FreelanceContent = {
     { question: "Can we put a custom GPT on our website?", answer: "No. Custom GPTs run only inside ChatGPT. To have an assistant on your website, it needs to be built on the API with its own chat widget, which also lets you brand it, control what it says, capture leads and keep conversation logs. That work starts at our AI automation plan." },
     { question: "Custom GPT kaise banaye business ke liye?", answer: "ChatGPT ke paid plan mein GPT Builder khol kar instructions likhiye, apni saaf aur non-confidential files upload kijiye, aur sharing ko sirf apni team tak rakhiye. Pehle 20–30 asli sawaalon par test kijiye. Agar customers ko use karna hai ya website aur WhatsApp par chahiye, to API wala assistant banwana behtar rahega." },
     { question: "Do all our staff need ChatGPT subscriptions to use the GPT?", answer: "Anyone using a workspace GPT needs access to that ChatGPT workspace, which means a seat on your organisation's plan. If you have many occasional users, an API assistant can work out cheaper, because you pay a build fee once and then only for the messages actually sent, rather than a seat for every person." },
-    { question: "What happens to our custom GPT when OpenAI updates its models?", answer: "The GPT keeps working, but answers can change in tone or accuracy after a model update. That is why we leave you a written test sheet: rerun it after any noticeable change or monthly, and adjust instructions or files if answers drift. Fixes of this kind are covered in the five months of free maintenance after launch." },
+    { question: "What happens to our custom GPT when OpenAI updates its models?", answer: "The GPT keeps working, but answers can change in tone or accuracy after a model update. That is why we leave you a written test sheet: rerun it after any noticeable change or monthly, and adjust instructions or files if answers drift. Fixes of this kind are covered in the two months of free maintenance after launch." },
     { question: "Can a custom GPT replace our customer support team?", answer: "No, and it should not try. A custom GPT is an internal tool inside ChatGPT. Even an API-based support assistant works best answering routine questions and handing complex or emotional conversations to a person. Plan for human handover from the start, and measure which questions the assistant resolves before reducing any staff time." },
     { question: "Is a custom GPT for business covered by the DPDP Act?", answer: "The Digital Personal Data Protection Act, 2023 applies to how your business processes personal data, whichever tool it uses. If staff paste customers' personal details into a GPT, your obligations still apply. We design assistants to keep personal data out or minimise it, but compliance decisions belong to you and your own legal adviser." },
     { question: "Freelancer or agency for custom GPT development?", answer: "A small freelance team suits custom GPT and assistant work well because the job is mostly careful document work, prompt writing and testing, not a large engineering programme. Ask any provider, freelance or agency, to build inside your accounts, include a written test sheet and hand over every instruction and file." },
@@ -480,7 +480,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Not sure if you need a custom GPT or a proper assistant? Ask us",
-    note: `Send us on WhatsApp who will use it and a few real questions it should answer. In about two working days you get an honest recommendation and an itemised quote, with API assistants starting at ${P.ai}, everything built in your own accounts and five months of free maintenance.`,
+    note: `Send us on WhatsApp who will use it and a few real questions it should answer. In about two working days you get an honest recommendation and an itemised quote, with API assistants starting at ${P.ai}, everything built in your own accounts and two months of free maintenance.`,
   },
 };
 

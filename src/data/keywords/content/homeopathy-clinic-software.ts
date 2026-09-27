@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["First release", "6–12 weeks"],
     ["Quote", "Itemised in about 2 working days"],
     ["Data", "In your own cloud account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers, the same three from first call to support" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
     { value: "0", label: "Monthly licence fees on software you own" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Dispensary", value: "Stock by remedy, potency, scale and form; reorder alerts" },
       { label: "Remote patients", value: "Video consult, payment, courier dispatch, tracking link" },
       { label: "Starts at", value: `${P.software}; patient app from ${P.app}` },
-      { label: "Support", value: `5 months free, then from ${P.care} if you want it` },
+      { label: "Support", value: `2 months free, then from ${P.care} if you want it` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Homeopathy clinic software pricing",
-    note: `Custom homeopathy clinic software starts at ${P.software}. The first release includes patient registration, your case-taking format, follow-up notes, prescriptions with potency and dose, dispensing labels, billing and WhatsApp reminders. Quotes rise with the potency-wise stock module, courier dispatch and tracking, online consultation with payment links, extra branches or doctors, importing old case records, and a patient app from ${P.app}. Repertory or materia medica content is added only where you hold the rights. Hosting and WhatsApp message charges are paid by you directly. After five free months, maintenance is optional from ${P.care}.`,
+    note: `Custom homeopathy clinic software starts at ${P.software}. The first release includes patient registration, your case-taking format, follow-up notes, prescriptions with potency and dose, dispensing labels, billing and WhatsApp reminders. Quotes rise with the potency-wise stock module, courier dispatch and tracking, online consultation with payment links, extra branches or doctors, importing old case records, and a patient app from ${P.app}. Repertory or materia medica content is added only where you hold the rights. Hosting and WhatsApp message charges are paid by you directly. After two free months, maintenance is optional from ${P.care}.`,
   },
   guideLabel: "Homeopathy clinic software guide",
   guide: [
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
         `A custom build with our team starts at ${P.software} (about ${P.softwareUsd}) for registration, case-taking, prescriptions, labels, billing and reminders. The dispensary, courier and online consultation modules are quoted as separate lines, as is a patient app from ${P.app}.`,
         `The main drivers are how detailed your case format is, whether you need potency-wise stock with purchases and expiry, courier dispatch and tracking, online booking with payment, several doctors or branches, and how many old cases we import. Digitising years of handwritten cases is usually done as photos attached to patient records rather than retyped, which keeps the cost sensible.`,
         `Ready-made homeopathy programs and subscriptions vary widely in price and focus. Some are excellent repertory tools with light clinic features; others are clinic tools with little homeopathic depth. Compare against the work you actually do each day, and ask how your data can be exported if you leave.`,
-        `After launch, you pay your cloud host and WhatsApp charges directly. Maintenance is free for five months, then optional from ${P.care}.`,
+        `After launch, you pay your cloud host and WhatsApp charges directly. Maintenance is free for two months, then optional from ${P.care}.`,
       ],
     },
     {
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the software outright: source code in your repository, patient data in your cloud account, apps under your store accounts. Nothing stops working if you stop paying us, because there is no licence to stop.`,
         `Handover includes admin logins, a guide for editing case forms, the remedy master, stock items and message templates, and technical notes for any future developer. Most changes, such as adding a remedy, a potency or a new follow-up template, are made by your team in the admin screens.`,
-        `Bug fixes and small adjustments are free for five months after launch. After that, maintenance is optional from ${P.care}, or you can move to another developer with our notes. New modules are quoted when you need them. Other terms are agreed in your written quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
+        `Bug fixes and small adjustments are free for two months after launch. After that, maintenance is optional from ${P.care}, or you can move to another developer with our notes. New modules are quoted when you need them. Other terms are agreed in your written quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
       ],
     },
     {
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
       ["Build case record first", "Registration, case-taking, follow-ups and prescriptions go up on a test link so you can try them between real patients."],
       ["Add dispensary and remote flow", "Potency-wise stock, labels, billing, online booking, payment links and courier tracking follow, each shown before moving on."],
       ["Load masters and train", "Your remedy list, stock and patient list are imported, old cases attached as photos, and doctor and assistant trained separately."],
-      ["Launch and support", "The software moves to your account with five months of free fixes, then optional maintenance whenever you want it."],
+      ["Launch and support", "The software moves to your account with two months of free fixes, then optional maintenance whenever you want it."],
     ],
   },
   faqHeading: "Homeopathy clinic software: questions doctors ask",
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
     { question: "Who owns homeopathy software built by BtechWaleTech?", answer: "Your clinic owns it. The source code is in a repository under your account, the data sits in your cloud account, and any app is published under your own store accounts. You receive admin access and handover notes, so your team can manage remedies, stock and templates, and any developer can maintain the system later." },
     { question: "Does it produce GST invoices for medicine sales?", answer: "Yes. Consultation fees and medicine sales can be billed with your GSTIN and invoice series, from the same stock the dispensary uses. Payment links by UPI or card can be sent on WhatsApp for remote patients. Your accountant decides the tax treatment of each item; the software applies what they set and exports reports for them." },
     { question: "Do homeopathic doctors need a patient app?", answer: "Not always. A secure link sent on WhatsApp covers booking, update forms and tracking for most patients. An app, built for Android and iOS from our starting price, adds push reminders, easier photo uploads and a history of prescriptions. It makes sense when a large share of your practice is remote and patients follow up regularly." },
-    { question: "What happens after the homeopathy software goes live?", answer: `Bug fixes and small adjustments are free for five months. After that, maintenance is optional from ${P.care}, or you can move to another developer using our handover notes. New modules, such as a second branch or a patient app, are quoted separately, and nothing is billed without your written approval.` },
+    { question: "What happens after the homeopathy software goes live?", answer: `Bug fixes and small adjustments are free for two months. After that, maintenance is optional from ${P.care}, or you can move to another developer using our handover notes. New modules, such as a second branch or a patient app, are quoted separately, and nothing is billed without your written approval.` },
     { question: "How do payments work for building the software?", answer: "You receive an itemised quote in about two working days and approve it in writing before any billing. Clinics in India pay by UPI or bank transfer; clinics abroad pay in USD through Wise, bank wire or PayPal. Milestones and other conditions are written into your quote, and our terms page sets out the general conditions." },
     { question: "Homeopathy doctor ke liye clinic software kaise banwayein?", answer: `Apna case sheet, dispensary ki remedy aur potency list, aur remote patients ka courier ka tareeka ek jagah rakhiye. WhatsApp par humein bhejiye. Hum video call par aapka pura flow samjhenge aur lagbhag do working days mein itemised quote denge. Custom software ${P.software} se shuru hota hai aur approval se pehle kuch bill nahi hota.` },
   ],

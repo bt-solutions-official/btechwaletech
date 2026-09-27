@@ -30,7 +30,7 @@ const sultanpur: CityContent = {
     eyebrow: "Sultanpur · Uttar Pradesh",
     h1: "Websites, software, SEO and AI tools for Sultanpur's institutes, clinics, courts and bazaars",
     lede:
-      "BtechWaleTech is a remote team of three engineers that builds websites, Maps profiles and WhatsApp systems for Sultanpur's coaching institutes, schools, hospitals, advocates, wholesale traders, showrooms and businesses along the Purvanchal Expressway. Every price is a starting figure published openly, your domain and code are registered to you, and maintenance costs nothing for five months after launch.",
+      "BtechWaleTech is a remote team of three engineers that builds websites, Maps profiles and WhatsApp systems for Sultanpur's coaching institutes, schools, hospitals, advocates, wholesale traders, showrooms and businesses along the Purvanchal Expressway. Every price is a starting figure published openly, your domain and code are registered to you, and maintenance costs nothing for two months after launch.",
     pills: ["Websites from ₹10,000", "Hindi and Awadhi-aware SEO", "Coaching and school sites", "WhatsApp lead replies", "Domain in your name"],
   },
   quickAnswer:
@@ -51,7 +51,7 @@ const sultanpur: CityContent = {
     ai: "WhatsApp assistants that answer fee, OPD or stock questions in Hindi and hand serious enquiries to the right person.",
     data: "Dashboards for admissions by batch, dues by customer or patients by department, readable on a phone.",
     app: "Android and iOS apps for student tests, attendance, delivery routes or field sales, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free support for five months after launch, then plans from ₹8,000 a month or per-change charges.",
+    maintenance: "Free support for two months after launch, then plans from ₹8,000 a month or per-change charges.",
   },
   whyUsIntro:
     "Sultanpur businesses often get websites from Lucknow or Prayagraj agencies that treat a small-city client as an afterthought. We answer on WhatsApp every day, send written itemised quotes, publish our starting prices and register every account in your own name.",
@@ -194,7 +194,7 @@ const sultanpur: CityContent = {
       paragraphs: [
         "We regularly meet owners whose domain sits in a former developer's account. When that person stops answering, the business cannot renew the domain, change a phone number on its own site or recover its email. Sometimes the only fix is starting again under a new name.",
         "With us, the domain is registered to you and hosting is in your account from day one. At launch you receive every login, the complete source code and a short document explaining the setup. You can move to another developer whenever you like, without an exit fee.",
-        "The first five months after launch include free maintenance: edits, bug fixes, security patches, backups and uptime checks. After that, choose a plan from ₹8,000 a month or pay per change. Our <a href=\"/services/web-development/\">web development page</a> lists everything included at handover.",
+        "The first two months after launch include free maintenance: edits, bug fixes, security patches, backups and uptime checks. After that, choose a plan from ₹8,000 a month or pay per change. Our <a href=\"/services/web-development/\">web development page</a> lists everything included at handover.",
       ],
     },
     {
@@ -290,7 +290,7 @@ const sultanpur: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "Maintenance is free for five months after launch. After that, plans start at ₹8,000 a month and cover updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you ask for.",
+        "Maintenance is free for two months after launch. After that, plans start at ₹8,000 a month and cover updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you ask for.",
     },
     {
       question: "How long does SEO take in Sultanpur?",

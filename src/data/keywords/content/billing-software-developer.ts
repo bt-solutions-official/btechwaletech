@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Estimate", "Itemised, in about 2 working days"],
     ["Data and code", "In your cloud account and repository"],
     ["Mobile billing app from", `${P.app}`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on your billing project" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Store with online billing", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Hardware support", value: "Barcode scanners, thermal and A4 printers via the browser or app" },
       { label: "Where data lives", value: "Your cloud or server account, backed up daily" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
         { heading: "Integrations", text: "E-invoice, e-way bill, payment gateway, WhatsApp, website or store sync, and accountant exports." },
         { heading: "Migration and offline", text: "Importing old item masters and outstanding balances, plus offline counters, add effort that is easy to underestimate." },
       ],
-      after: [`Running costs such as cloud hosting and any paid API usage are billed to you directly by the providers. Maintenance is free for five months after launch, then from ${P.care}.`],
+      after: [`Running costs such as cloud hosting and any paid API usage are billed to you directly by the providers. Maintenance is free for two months after launch, then from ${P.care}.`],
     },
     {
       id: "timeline",
@@ -250,7 +250,7 @@ const content: FreelanceContent = {
       heading: "Billing software banwana hai? Kya dhyan rakhein",
       paragraphs: [
         `Agar ek hi counter hai aur normal GST items hain, toh pehle ready-made billing app use kijiye. Custom billing software tab banwaiye jab app mein aapke scheme, rate ya branch wale kaam fit na ho rahe hon, aur staff alag se Excel chala raha ho.`,
-        `Software mein GST invoice numbering, HSN code, CGST-SGST ya IGST ka sahi hisaab, credit note aur CA ke liye export zaroor hona chahiye. Data aapke apne cloud account mein rahe. Hamare saath custom billing software ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Launch ke baad 5 mahine maintenance free hai.`,
+        `Software mein GST invoice numbering, HSN code, CGST-SGST ya IGST ka sahi hisaab, credit note aur CA ke liye export zaroor hona chahiye. Data aapke apne cloud account mein rahe. Hamare saath custom billing software ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
         ["Android field billing app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Offline orders, invoices, sync, admin panel"],
         ["Online store with billing", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Checkout, GST invoices, order admin"],
         ["AI purchase-bill reading", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "PDF and photo bills into structured entries"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, rule changes, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, rule changes, fixes"],
       ],
       hideSm: [2],
     },
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
       ["Itemised estimate", "Within about two working days you get modules, prices and a timeline. Phase anything non-urgent. Nothing is billed before written approval."],
       ["Test invoices early", "The first invoices print from a test server within about three weeks, so you and your accountant can check tax logic before the rest is built."],
       ["Parallel run and cut-over", "Staff bill in both systems for a short period while totals are compared daily. We switch over only when they match."],
-      ["Five months of free support", `Rule changes, fixes and small tweaks are free for five months after go-live. Later maintenance starts at ${P.care} if you want it.`],
+      ["Two months of free support", `Rule changes, fixes and small tweaks are free for two months after go-live. Later maintenance starts at ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Billing software developer: frequently asked questions",
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
     { question: "Is my billing data safe in the cloud?", answer: "It is safe when hosted properly: encrypted connections, role-based access, daily automated backups with restore tests, and an audit log of edits, discounts and cancellations. Issued invoices are corrected through credit or debit notes rather than silent edits. Hosting in your own account keeps control of the data with you." },
     { question: "Can you build a billing app for my salespeople's phones?", answer: `Yes. We build Android and iOS billing apps with Flutter or React Native from ${P.app}. Salespeople can take orders, raise invoices, collect payments and record visits at the customer's shop, even with weak signal, and everything syncs to the main billing system when a connection returns.` },
     { question: "Can you migrate data from my old billing software?", answer: "Usually yes. We import item masters, party masters, opening stock and outstanding balances from exports of your current system or spreadsheets, clean duplicates and check totals with you. Full historical invoices can also be imported where the old system exports them in a usable format; we confirm that after seeing a sample." },
-    { question: "Do you provide support after the billing software goes live?", answer: `Yes. Five months of maintenance are free after go-live, covering bug fixes, small changes and rule updates. After that you can continue from ${P.care}, manage it with your own developer using the handover documents, or pause support. Everything is in your accounts, so the choice stays yours.` },
+    { question: "Do you provide support after the billing software goes live?", answer: `Yes. Two months of maintenance are free after go-live, covering bug fixes, small changes and rule updates. After that you can continue from ${P.care}, manage it with your own developer using the handover documents, or pause support. Everything is in your accounts, so the choice stays yours.` },
     { question: "Is billing software from you a replacement for my CA?", answer: "No. Billing software produces correct invoices and clean data, which makes your accountant's job faster, but it does not file returns, give tax advice or replace professional review. We design the software around rules your CA confirms, and we recommend involving them when the tax logic is tested." },
     { question: "Billing software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom billing software ${P.software} se shuru hota hai aur 6–12 hafte lagte hain. Salesman ke liye Android billing app ${P.app} se shuru hota hai. Kharcha branches, GST e-invoice, barcode aur purana data shift karne par depend karta hai. Approval ke baad hi payment hota hai.` },
     { question: "Can you add billing to my existing website or online store?", answer: "Yes. Billing can connect to your website or store so online orders create GST invoices automatically, stock updates in one place and payments reconcile against orders. If the store itself is old or unmaintained, we review it first and suggest whether to integrate with it or rebuild the store alongside the billing system." },
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a billing software developer? Send us two sample invoices",
-    note: `Share a couple of current invoices and how you take payments on WhatsApp. You will get an itemised estimate in about two working days, with custom billing software starting at ${P.software}, data in your own account and five months of free support after go-live.`,
+    note: `Share a couple of current invoices and how you take payments on WhatsApp. You will get an itemised estimate in about two working days, with custom billing software starting at ${P.software}, data in your own account and two months of free support after go-live.`,
   },
 };
 

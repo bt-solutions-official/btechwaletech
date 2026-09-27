@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Direct booking engines", "AI guest concierge on WhatsApp", "Web apps from ₹60,000", "Automation from ₹40,000", "Code and data in your name"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three remote engineers serving Udaipur, an alternative to a software development team. Custom software and booking portals start at ₹60,000 (6 to 12 weeks), AI and WhatsApp automation at ₹40,000 (2 to 4 weeks), online stores at ₹50,000 and websites at ₹10,000. Itemised quotes in about two working days, and five months of maintenance included after launch.",
+    "BtechWaleTech is a freelance group of three remote engineers serving Udaipur, an alternative to a software development team. Custom software and booking portals start at ₹60,000 (6 to 12 weeks), AI and WhatsApp automation at ₹40,000 (2 to 4 weeks), online stores at ₹50,000 and websites at ₹10,000. Itemised quotes in about two working days, and two months of maintenance included after launch.",
   snapshot: [
     { label: "Economy", value: "Heritage tourism and luxury hospitality alongside mining, marble processing and a growing local IT services scene" },
     { label: "Tourist core", value: "Old city around City Palace, Jagdish Chowk, Lal Ghat, Gangaur Ghat and the shores of Lake Pichola and Fateh Sagar" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI concierge agents on WhatsApp and web chat that answer guest questions about rooms, transfers, boat rides and check-in in several languages, then pass bookings to staff.",
     data: "Dashboards for occupancy, average room rate, channel mix and repeat guests, or for dispatches, receivables and plant output in Madri and Sukher units.",
     app: "Android and iOS apps from ₹40,000 for Udaipur resorts, wedding planners and marble sales teams, covering in-stay guest requests, event schedules and B2B ordering, published on Google Play and the App Store.",
-    maintenance: "Backups, security patches, OTA sync checks and uptime monitoring through the October to March tourist season, free for five months after launch.",
+    maintenance: "Backups, security patches, OTA sync checks and uptime monitoring through the October to March tourist season, free for two months after launch.",
   },
   whyUsIntro:
     "Udaipur has established IT firms and plenty of freelancers, and hotels also get pitched by large hospitality software brands. We sit in a practical middle: three engineers who write custom tools for a single property, a wedding company or a stone trader, publish starting prices, and hand over every login at the end.",
@@ -130,7 +130,7 @@ const content: CityContent = {
         "Udaipur businesses most often need three kinds of Android and iOS apps: guest apps for resorts and palace hotels, event apps for destination weddings, and B2B catalogue or field sales apps for marble and mineral traders. With BtechWaleTech these start from ₹40,000 and take six to ten weeks, built once in Flutter or React Native for both Google Play and the App Store.",
         "A resort guest app lets visitors request housekeeping, book a spa slot, reserve a sunset table or a boat ride on Lake Pichola, and read the property guide without calling reception. A wedding app gives guests the day-wise schedule, venue maps, dress codes, transport pickups from Dabok airport and live updates when a function moves. Planners can also run a private staff app for vendors and coordinators. For Madri and Sukher firms, a sales app lets representatives show slab photos, check stock and place orders from a buyer's showroom in Ahmedabad.",
         "iPhone support matters more in Udaipur than in many cities, because international guests and wealthier wedding families use iPhones heavily. Every app includes login, forms, push notifications and an admin panel that connects through an API to your booking engine or order system. Developer accounts on Google Play and the App Store are registered in your business name.",
-        "For one-time tourists, a fast mobile website is still the better tool; we recommend an app only when the same people will open it repeatedly. Store updates for new operating system versions are part of the five months of free maintenance.",
+        "For one-time tourists, a fast mobile website is still the better tool; we recommend an app only when the same people will open it repeatedly. Store updates for new operating system versions are part of the two months of free maintenance.",
       ],
       list: [
         "Resort guest app: requests, spa, dining, boat rides",
@@ -178,7 +178,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and IT support for Udaipur businesses must hold up between October and March, when tourist traffic, wedding enquiries and booking volumes peak together; a slow or broken site in that window costs far more than it would in the monsoon.",
         "We host on reliable cloud infrastructure with a content delivery network, automated daily backups, SSL certificates and uptime monitoring. Deployments use version control and staging environments, so changes are tested before guests see them and can be rolled back in minutes if something goes wrong.",
-        "Every build includes five months of maintenance after launch at no charge: bug fixes, content changes, security updates, backups and performance checks. After that, plans begin at ₹8,000 a month, or you can request work as needed. Support runs on WhatsApp seven days a week, which suits hotel managers who work weekends.",
+        "Every build includes two months of maintenance after launch at no charge: bug fixes, content changes, security updates, backups and performance checks. After that, plans begin at ₹8,000 a month, or you can request work as needed. Support runs on WhatsApp seven days a week, which suits hotel managers who work weekends.",
       ],
     },
     {
@@ -203,7 +203,7 @@ const content: CityContent = {
         "Itemised quote in about two working days",
         "Weekly builds on a test link",
         "Staff training and full handover",
-        "Five months of free maintenance",
+        "Two months of free maintenance",
       ],
     },
     {
@@ -247,7 +247,7 @@ const content: CityContent = {
     { question: "How long does it take to build custom software?", answer: "Six to twelve weeks is typical for custom software such as booking engines, event CRMs and order portals. AI automation takes two to four weeks, an online store four to eight weeks and a website one to two weeks. For hospitality clients we recommend finishing before October so the system is stable for peak season." },
     { question: "Will the AI concierge reply in foreign languages?", answer: "Yes. Modern AI agents can reply in English, Hindi and most major foreign languages, following the guest's language automatically. We train the agent only on your approved information and set rules so questions about refunds, complaints or special requests go to a staff member instead of being answered automatically." },
     { question: "Who owns the software and data after launch?", answer: "You do. The source code, database, domain, hosting and third-party accounts are in your name or transferred at handover. Guest and customer data stays in your accounts. You can continue with us for maintenance or move to another developer at any time with everything you need." },
-    { question: "What is included in the free maintenance?", answer: "Five months of maintenance after launch are free. That covers bug fixes, small content updates, security patches, backups, uptime monitoring and performance checks. After five months, plans start from ₹8,000 a month, or you can request individual changes as and when needed." },
+    { question: "What is included in the free maintenance?", answer: "Two months of maintenance after launch are free. That covers bug fixes, small content updates, security patches, backups, uptime monitoring and performance checks. After two months, plans start from ₹8,000 a month, or you can request individual changes as and when needed." },
     { question: "How long before SEO brings direct bookings?", answer: "Usually three to six months for early results, longer for competitive hotel searches. OTAs dominate broad searches in Udaipur, so we focus on specific long-tail searches, brand searches and map results where a property can realistically win. We do not guarantee rankings, and anyone who does is not being honest." },
     { question: "How much does an Android and iOS app cost in Udaipur?", answer: "Android and iOS apps start from ₹40,000 and usually take six to ten weeks. We build once in Flutter or React Native and publish on both Google Play and the Apple App Store. The starting plan includes login, forms, push notifications and an admin panel; integrations with booking engines or channel managers add to the scope and are shown in the itemised quote." },
     { question: "Can you work with marble and industrial businesses too?", answer: "Yes. Besides hospitality, we build quotation portals, stock catalogues, dispatch trackers, vendor portals and receivables dashboards for marble processors and units in Madri, Sukher and Kaladwas. Where accounting runs in Tally, we sync or export data rather than replacing it." },

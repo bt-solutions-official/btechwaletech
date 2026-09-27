@@ -56,7 +56,7 @@ const renukoot: CityContent = {
     ai: "WhatsApp assistants that answer admission, appointment, stock and service questions and pass decisions to you.",
     data: "Dashboards of work orders, manpower deployed, pending bills and equipment usage by site.",
     app: "Supervisor apps that log gate attendance and daily work inside the plant, or school apps that push notices to parents, listed on Play Store and App Store at ₹40,000 onwards.",
-    maintenance: "The first five months after go-live carry no upkeep fee; after that, care for busy billing systems runs ₹8,000 a month onwards.",
+    maintenance: "The first two months after go-live carry no upkeep fee; after that, care for busy billing systems runs ₹8,000 a month onwards.",
   },
   whyUsIntro:
     "Renukoot's businesses are used to formal purchase orders, measured work and delayed payments, so they value paperwork that is clear. We publish starting prices, send itemised written quotes, reply on WhatsApp all seven days and put the domain, hosting, code and app store accounts in your name. When a feature is not worth building, we say so.",
@@ -185,7 +185,7 @@ const renukoot: CityContent = {
       heading: "Ownership and maintenance of your Renukoot website and app",
       paragraphs: [
         "Your firm is the legal holder of all of it. Web address, server, code repository, Maps profile, and both Play Console and Apple developer accounts sit under your name, and each password is handed over. Switching to another developer later needs nothing from us, because it is already yours.",
-        "For five months from launch, bug fixes, small text edits, patches and emergency help are included free. From the sixth month, systems in heavy daily use, such as contractor billing, can stay under our care at ₹8,000 a month onwards.",
+        "For two months from launch, bug fixes, small text edits, patches and emergency help are included free. From the third month, systems in heavy daily use, such as contractor billing, can stay under our care at ₹8,000 a month onwards.",
         "A simple shop or clinic website that rarely changes may need no paid maintenance at all. We will show you how to update details and photographs yourself.",
         "For software that handles billing, we set up automatic backups from the start and check them during maintenance, because losing a month of work orders is far more costly than any maintenance fee.",
       ],
@@ -279,7 +279,7 @@ const renukoot: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Fixes, minor edits and patches cost nothing for five months from launch. After that, paid care starts at ₹8,000 a month. Contractor billing used every day generally needs it; a shop site that rarely changes often does not, and we will say which yours is.",
+        "Fixes, minor edits and patches cost nothing for two months from launch. After that, paid care starts at ₹8,000 a month. Contractor billing used every day generally needs it; a shop site that rarely changes often does not, and we will say which yours is.",
     },
     {
       question: "Can you do digital marketing in Renukoot for a school or coaching centre?",

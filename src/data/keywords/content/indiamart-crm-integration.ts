@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Sync interval", "Every 5 minutes (IndiaMART’s limit)"],
     ["Destinations", "Zoho, ERPNext, custom CRM, Sheets"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free fixes"],
+    ["After launch", "2 months of free fixes"],
   ],
   stats: [
     { value: "3", label: "Developers who build and monitor the sync" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "2–3 weeks including a monitored trial" },
       { label: "Speed", value: "New leads land within minutes of reaching Lead Manager" },
       { label: "Reports", value: "Leads, replies, conversions and value by source" },
-      { label: "Support", value: `5 months free, then optional care from ${P.care}` },
+      { label: "Support", value: `2 months free, then optional care from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "IndiaMART CRM integration pricing",
-    note: `A standard IndiaMART CRM integration, meaning the Lead Manager pull every five minutes, duplicate handling, rule-based assignment and a salesperson alert into one CRM or Google Sheet, starts at ${P.ai}. An instant WhatsApp acknowledgement, a monthly lead-source ROI report or AI scoring are added as separate lines. Complex routing, several IndiaMART accounts or a CRM with a difficult API add scope. If you have no CRM and want one built around IndiaMART and WhatsApp, that is custom software from ${P.software}. WhatsApp message charges and CRM subscriptions are paid by you directly. Quotes are itemised within about two working days, with free fixes for five months and optional care from ${P.care}.`,
+    note: `A standard IndiaMART CRM integration, meaning the Lead Manager pull every five minutes, duplicate handling, rule-based assignment and a salesperson alert into one CRM or Google Sheet, starts at ${P.ai}. An instant WhatsApp acknowledgement, a monthly lead-source ROI report or AI scoring are added as separate lines. Complex routing, several IndiaMART accounts or a CRM with a difficult API add scope. If you have no CRM and want one built around IndiaMART and WhatsApp, that is custom software from ${P.software}. WhatsApp message charges and CRM subscriptions are paid by you directly. Quotes are itemised within about two working days, with free fixes for two months and optional care from ${P.care}.`,
   },
   guideLabel: "IndiaMART CRM integration guide",
   guide: [
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
         `Most failures come from an expired or regenerated key, calling the API too often and getting suspended, a CRM field or permission changing, or gaps between time windows that silently skip leads. Monitoring each of these is part of the build, not an afterthought.`,
         `Our IndiaMART CRM integration keeps a small log per run: time window requested, leads received, created, merged and failed, and the API status code. A daily check compares the count of enquiries in IndiaMART with those in your CRM for the previous day. If the numbers differ, the missing query IDs are refetched and you get a note explaining what happened.`,
         `Alerts go to a named person on your team, and to us while we support the integration: a 401 means regenerate the key; repeated 429s mean something else is also calling the API with your key, often an old tool nobody switched off; CRM errors list the field that was rejected. Most issues are fixed in minutes once someone knows about them; the damage comes from not knowing for a week.`,
-        `Fixes are free for five months after launch. After that, optional care starts at ${P.care}; whether it includes watching these alerts on your behalf is agreed in your written quote.`,
+        `Fixes are free for two months after launch. After that, optional care starts at ${P.care}; whether it includes watching these alerts on your behalf is agreed in your written quote.`,
       ],
     },
     {
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
         ["AI lead scoring", "Quoted after sample leads", "Custom scoring rules per product"],
         ["History back-fill (up to 365 days)", "Quoted with the sync", "Heavy de-duplication"],
         ["Custom CRM built around IndiaMART and WhatsApp", `${P.software}`, "Quotations, orders, dealer portal"],
-        ["Care after 5 free months", `${P.care}`, "Alert monitoring on your behalf"],
+        ["Care after 2 free months", `${P.care}`, "Alert monitoring on your behalf"],
       ],
     },
   ],
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a quote with each piece priced separately. Nothing is billed until you approve it in writing."],
       ["Build and test", "You generate the Pull API key; we store it securely, build the sync against a test CRM or sheet, and replay recent real leads through it."],
       ["Monitored trial week", "Live leads flow while we compare daily counts against Lead Manager and tune routing. The WhatsApp template goes live once Meta approves it."],
-      ["Hand over and watch", "You get documentation, logs and the settings sheet. Fixes are free for five months; what optional care covers afterwards is set out in your quote."],
+      ["Hand over and watch", "You get documentation, logs and the settings sheet. Fixes are free for two months; what optional care covers afterwards is set out in your quote."],
     ],
   },
   faqHeading: "IndiaMART CRM integration: questions sellers ask",

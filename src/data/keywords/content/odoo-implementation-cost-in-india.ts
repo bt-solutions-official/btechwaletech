@@ -37,17 +37,17 @@ const content: FreelanceContent = {
     ["Licence", "Paid by you to Odoo, or none on Community"],
     ["Localisation", "GST, e-invoice, e-way bill configured"],
     ["Migration", "Masters and balances from Tally or Excel"],
-    ["After go-live", `5 months free, then from ${P.care}`],
+    ["After go-live", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers: Python, data and project management" },
     { value: "2", label: "Working days to a line-by-line Odoo budget" },
-    { value: "5", label: "Months of free support after go-live" },
+    { value: "2", label: "Months of free support after go-live" },
     { value: "0", label: "Margin added to Odoo licences or hosting" },
   ],
   answer: {
     heading: "What is the Odoo implementation cost in India for a small business?",
-    text: `Odoo implementation cost in India has two parts: licences, paid per user per month to Odoo on Enterprise or nothing on Community, and rollout work covering configuration, GST setup, data migration and training. With BtechWaleTech, a standard-fit rollout starts from ${P.ai}; rollouts needing custom modules start from ${P.software}. Support after five free months starts from ${P.care}.`,
+    text: `Odoo implementation cost in India has two parts: licences, paid per user per month to Odoo on Enterprise or nothing on Community, and rollout work covering configuration, GST setup, data migration and training. With BtechWaleTech, a standard-fit rollout starts from ${P.ai}; rollouts needing custom modules start from ${P.software}. Support after two free months starts from ${P.care}.`,
     more: `Weighing Odoo against a system built for you? Read <a href='/erp-software-development-cost-in-india/'>ERP software development cost in India</a>. Need code in an existing Odoo? See <a href='/hire-odoo-developer/'>hiring an Odoo developer</a>.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "With custom modules", value: `From ${P.software}` },
       { label: "Biggest swing factor", value: "Customisation, then data quality" },
       { label: "Often forgotten", value: "Plan upgrades, Odoo.sh hosting, paid apps, staff time" },
-      { label: "Support after go-live", value: `5 months free, then from ${P.care}` },
+      { label: "Support after go-live", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Integrations", note: "Website, marketplace, WhatsApp or courier systems linked through Odoo’s API.", href: "/whatsapp-business-api-integration/", size: "md" },
       { name: "Training", note: "Short recorded sessions per role in English or Hindi.", size: "sm" },
       { name: "Hosting setup", note: "Odoo Online, Odoo.sh or a cloud server in your name.", size: "sm" },
-      { name: "Support and AMC", note: `Five free months, then from ${P.care}.`, size: "sm" },
+      { name: "Support and AMC", note: `Two free months, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Odoo implementation cost with us",
-    note: `A standard-fit Odoo rollout, where your processes match Odoo’s standard flows, sits in the AI automation row below and starts from ${P.ai}. It covers configuration of the apps you need, GST and e-invoice setup to your accountant’s instructions, one migration of masters and opening balances, user rights and recorded training, usually over two to four weeks for a small business. Rollouts needing custom modules, several companies or branches, or heavy integrations are priced like custom software from ${P.software}. Licences, Odoo.sh or server hosting and paid apps are billed to you directly by the providers. Support after five free months starts from ${P.care}.`,
+    note: `A standard-fit Odoo rollout, where your processes match Odoo’s standard flows, sits in the AI automation row below and starts from ${P.ai}. It covers configuration of the apps you need, GST and e-invoice setup to your accountant’s instructions, one migration of masters and opening balances, user rights and recorded training, usually over two to four weeks for a small business. Rollouts needing custom modules, several companies or branches, or heavy integrations are priced like custom software from ${P.software}. Licences, Odoo.sh or server hosting and paid apps are billed to you directly by the providers. Support after two free months starts from ${P.care}.`,
   },
   guideLabel: "Odoo cost guide",
   guide: [
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
         `After go-live, budget for support: fixes, small changes, help for users and, on Community or custom modules, upgrades. In India this is often sold as an AMC; what matters is the scope, not the label.`,
         `On Enterprise, Odoo’s subscription includes its own support for standard features and, per its pricing page, upgrades at no extra fee. That does not cover your custom modules or process changes, which your implementer or developer supports.`,
         `On Community, everything is your responsibility: server updates, backups, bug fixes, and moving to newer versions. Odoo’s documentation says each major version gets three years of standard support from Odoo, so a Community install left untouched for years drifts out of any supported window.`,
-        `With us, support is free for five months after go-live. After that, maintenance starts from ${P.care} per month if you want it, with the scope written in your quote: monitoring, backups, fixes, small changes and user help. Larger changes and version upgrades are quoted separately so the monthly figure stays predictable. You are never locked in, because configuration notes, code and server access stay with you.`,
+        `With us, support is free for two months after go-live. After that, maintenance starts from ${P.care} per month if you want it, with the scope written in your quote: monitoring, backups, fixes, small changes and user help. Larger changes and version upgrades are quoted separately so the monthly figure stays predictable. You are never locked in, because configuration notes, code and server access stay with you.`,
       ],
     },
     {
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
         `Say an electrical goods distributor in Vijayawada has 22 staff, two godowns, accounts in Tally, stock in Excel and about 1,500 products. Turnover is above the e-invoicing threshold, so e-invoices and e-way bills are needed. Salespeople take orders on WhatsApp and phone.`,
         `The budget would have these lines. Licences: if Enterprise, the per-user monthly rate from Odoo’s pricing page for about 12 real users, since packers and drivers do not need logins; if Community, none, but a cloud server billed to the distributor. Rollout: sales, purchase, inventory with two warehouses, invoicing with GST, e-invoice and e-way bill, one migration of masters and balances from Tally and Excel, recorded training in English or Hindi for each role. That standard-fit rollout would start from ${P.ai} over roughly four weeks.`,
         `Optional later lines: WhatsApp order confirmations and payment reminders as an automation project, and a dealer ordering app from ${P.app} if the business wants dealers to order directly.`,
-        `Support: five free months, then from ${P.care} if wanted. This is an illustration of the method, not a real client or a quote.`,
+        `Support: two free months, then from ${P.care} if wanted. This is an illustration of the method, not a real client or a quote.`,
       ],
     },
     {
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
         ["Custom modules", "Developer", "Number and depth of genuine gaps", `From ${P.software} for larger sets`],
         ["Integrations and automation", "Developer", "Outside systems, WhatsApp, website", `From ${P.ai}`],
         ["Training", "Implementer plus staff time", "Roles and departments", "Recorded, English or Hindi"],
-        ["Support after go-live", "Implementer or developer", "Custom code, user count, change requests", `5 months free, then from ${P.care}`],
+        ["Support after go-live", "Implementer or developer", "Custom code, user count, change requests", `2 months free, then from ${P.care}`],
       ],
       hideSm: [1],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Line-by-line budget", "Within about two working days you get an itemised quote using the cost lines on this page, with licences and hosting shown as separate bills."],
       ["Configure and migrate", "Apps and localisation are set up on a test database, masters and balances imported, and your accountant checks taxes and ledgers."],
       ["Train, parallel run, go live", "Recorded role training, a short parallel run against old records, then the switch at a month start your team chooses."],
-      ["Support and next phase", `Five free months of support, a review after 30 days, then maintenance from ${P.care} if wanted. Later phases get their own quotes.`],
+      ["Support and next phase", `Two free months of support, a review after 30 days, then maintenance from ${P.care} if wanted. Later phases get their own quotes.`],
     ],
   },
   faqHeading: "Odoo implementation cost in India: questions answered",
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
     { question: "How much does data migration from Tally to Odoo cost?", answer: "It depends on data quality and scope rather than volume. Our standard-fit rollout includes one migration of masters, such as products, customers, suppliers and chart of accounts, plus opening balances for stock and outstanding amounts. Moving years of old vouchers costs extra and is rarely worth it; keeping them in Tally for reference is usually cheaper." },
     { question: "Why do Odoo implementation costs go over budget?", answer: "Mostly through customisation added during the project, product and customer data that turns out messier than expected, and plan changes discovered late, such as needing the external API or multi-company. Unclear decision-making on the client side adds weeks. Pricing each custom request separately and running standard Odoo before customising prevents most overruns." },
     { question: "How long does Odoo implementation take?", answer: "A standard-fit rollout for a small business usually takes two to four weeks with us. Manufacturing, several branches, integrations or custom modules stretch it to six to twelve weeks. Delays usually come from data exports, master cleaning and decisions on the client side, not from configuring the Odoo apps themselves." },
-    { question: "What is an Odoo AMC and how much should it cost?", answer: `An AMC is a yearly support arrangement covering fixes, small changes, user help and, for self-hosted setups, server upkeep. With us, support is free for five months after go-live, then maintenance starts from ${P.care} per month if you want it. Version upgrades and new features are quoted separately so the monthly amount stays predictable.` },
+    { question: "What is an Odoo AMC and how much should it cost?", answer: `An AMC is a yearly support arrangement covering fixes, small changes, user help and, for self-hosted setups, server upkeep. With us, support is free for two months after go-live, then maintenance starts from ${P.care} per month if you want it. Version upgrades and new features are quoted separately so the monthly amount stays predictable.` },
     { question: "Does Odoo charge for version upgrades?", answer: "Odoo’s pricing page says upgrades are included in all its plans at no extra fee. That covers standard data. Custom modules, third-party apps and Community installs are different: your developer must migrate custom code to each new version, and some paid apps must be bought again for the new version. Budget for that at every upgrade." },
     { question: "How much does Odoo.sh hosting cost?", answer: "Odoo’s pricing page states that Odoo.sh hosting is not included in the subscription, so it is a separate monthly line that depends on the resources you choose. It suits businesses on the Custom plan that need custom modules without managing their own server. Check Odoo.sh’s own pricing page for current rates." },
     { question: "Can a small business implement Odoo without customisation?", answer: "Often, yes. Many small traders, distributors and service firms run standard Odoo apps with configuration only. The best approach is to go live on standard flows first, use them for a few weeks, then customise only the gaps that remain. This keeps both the first budget and every future upgrade cheaper." },

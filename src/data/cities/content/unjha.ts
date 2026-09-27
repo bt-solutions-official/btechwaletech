@@ -56,7 +56,7 @@ const unjha: CityContent = {
     ai: "WhatsApp assistants that share today's indicative rates you set, collect buyer requirements and route every deal to a partner.",
     data: "Dashboards of arrivals bought, stock by commodity and grade, contracts pending shipment and receivables by buyer.",
     app: "Android and iOS apps for a trader's regular buyers to view offers and confirm orders, or for staff to log lots, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch; after that maintenance starts at ₹8,000 a month.",
+    maintenance: "Free upkeep for two months after launch; after that maintenance starts at ₹8,000 a month.",
   },
   whyUsIntro:
     "Unjha traders measure everything, from moisture and purity to brokerage and freight, and they expect the same precision from a tech supplier. We publish starting prices, send a written itemised quote, answer WhatsApp all seven days and register your domain, hosting, code and app store accounts in your name. When a feature will not pay back, we say so.",
@@ -177,7 +177,7 @@ const unjha: CityContent = {
       heading: "Ownership and maintenance for Unjha websites and apps",
       paragraphs: [
         "Everything we build belongs to you. The domain is booked on your email, hosting is billed in your name, the full source code is handed over, and you own your Google Business Profile, Google Play console and Apple developer account. You receive a written list of all logins at handover.",
-        "Maintenance is free for five months after launch: product and rate updates, backups, security patches and regular checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it in-house or move to another developer freely.",
+        "Maintenance is free for two months after launch: product and rate updates, backups, security patches and regular checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it in-house or move to another developer freely.",
         "Apps need a yearly update to meet Google and Apple's changing minimum requirements, even when they work perfectly. We track those deadlines and update early so your app is never pulled from a store.",
       ],
     },
@@ -269,7 +269,7 @@ const unjha: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: product and rate updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or manage it yourself. The code and accounts are yours, so you can switch developers anytime.",
+        "The first two months after launch are free: product and rate updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or manage it yourself. The code and accounts are yours, so you can switch developers anytime.",
     },
     {
       question: "Do you also work in Sidhpur, Visnagar and Mehsana?",

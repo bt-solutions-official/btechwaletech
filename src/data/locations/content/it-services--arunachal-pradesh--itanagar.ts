@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Software from ₹60,000", "Android and iOS apps from ₹40,000", "Websites from ₹10,000", "Itanagar, Naharlagun, Nirjuli", "Pay by UPI QR or bank transfer"],
   },
   quickAnswer:
-    "To hire freelance software developers in Itanagar, BtechWaleTech offers a remote group of three engineers. Websites start at ₹10,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Projects take one to twelve weeks, quotes arrive in about two working days, and five months of maintenance are free.",
+    "To hire freelance software developers in Itanagar, BtechWaleTech offers a remote group of three engineers. Websites start at ₹10,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Projects take one to twelve weeks, quotes arrive in about two working days, and two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Capital of Arunachal Pradesh, with the state secretariat, legislative assembly, directorates and most head offices" },
     { label: "Twin town", value: "Naharlagun, with the railway station and many offices, markets and hospitals, forms one continuous capital region" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that answer admission, appointment, room and service questions on WhatsApp for Itanagar businesses and pass real leads to staff.",
     data: "Dashboards for Itanagar owners and administrators showing fees, bookings, sales, site progress and collections in one place.",
     app: "Android and iOS apps from ₹40,000 for Itanagar schools, clinics and contractors, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Hosting, updates, backups and fixes for Itanagar systems, five months free after launch and from ₹8,000 a month after that.",
+    maintenance: "Hosting, updates, backups and fixes for Itanagar systems, two months free after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Itanagar has a handful of local IT providers and many businesses that end up hiring from Guwahati. We are a freelance group of three engineers who work remotely, publish starting prices, keep every account in your name and reply on WhatsApp seven days a week.",
@@ -199,7 +199,7 @@ const content: CityContent = {
       paragraphs: [
         "A dashboard gives an Itanagar owner or administrator the current picture in one screen: fee collection, bookings, sales, site progress, collections and pending work, pulled automatically from the systems already in use. It removes the wait for weekly reports compiled by hand.",
         "We host applications on AWS or comparable platforms in an Indian region with daily backups, HTTPS and uptime monitoring. Websites built with Astro are served from edge networks and kept light so they load on slow connections. Code lives in a Git repository registered to your organisation.",
-        "Support after launch covers fixes, updates, backups and small changes, free for five months and from ₹8,000 a month afterwards. We work remotely, so on-site computer, printer or network repairs still need a local technician.",
+        "Support after launch covers fixes, updates, backups and small changes, free for two months and from ₹8,000 a month afterwards. We work remotely, so on-site computer, printer or network repairs still need a local technician.",
       ],
     },
     {
@@ -238,16 +238,16 @@ const content: CityContent = {
       "id": "after-launch-costs-itanagar",
       "heading": "What are the running costs of software in Itanagar once it is live?",
       "paragraphs": [
-        "Once an Itanagar website, app or school system is live, the ongoing costs are the yearly domain renewal, monthly hosting, any messaging charges for SMS or WhatsApp, app store accounts if you have an app, and technical upkeep after our five free months end. Knowing these in advance stops a useful system from being switched off because a bill surprised someone.",
+        "Once an Itanagar website, app or school system is live, the ongoing costs are the yearly domain renewal, monthly hosting, any messaging charges for SMS or WhatsApp, app store accounts if you have an app, and technical upkeep after our two free months end. Knowing these in advance stops a useful system from being switched off because a bill surprised someone.",
         "Hosting in the capital region needs a little extra thought. Because mobile data and power can be patchy in parts of Itanagar, Naharlagun and Nirjuli, we host on reliable cloud servers outside the region rather than on a machine in your office, and pages are built to load light. That hosting is billed monthly by the cloud provider to your account. A school sending fee reminders by SMS or WhatsApp pays those providers per message or conversation, and an app on Google Play and the App Store carries a one-time Google fee and a yearly Apple fee.",
-        "Upkeep is the last line. For five months after launch we fix bugs, update software and check backups at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change if the system rarely needs attention. We list every recurring item, its payer and its renewal month in the quote."
+        "Upkeep is the last line. For two months after launch we fix bugs, update software and check backups at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change if the system rarely needs attention. We list every recurring item, its payer and its renewal month in the quote."
       ],
       "list": [
         "Domain renewal, once a year",
         "Cloud hosting outside the region, billed monthly",
         "SMS or WhatsApp charges per message or conversation",
         "App store accounts for published apps",
-        "Maintenance free for five months, then from ₹8,000 a month"
+        "Maintenance free for two months, then from ₹8,000 a month"
       ]
     },
     {
@@ -294,7 +294,7 @@ const content: CityContent = {
     { question: "Do you connect to government portals?", answer: "No. We do not integrate with government procurement, billing or permit systems. We keep your internal records clean and organised so that entering data into those portals is quicker and more accurate." },
     { question: "What does AI automation cost?", answer: "AI automation starts from ₹40,000 and takes two to four weeks, including workflow mapping, WhatsApp Business API integration, the agent, testing and handover. Model and messaging usage is billed directly to your own accounts." },
     { question: "Will we own the software and data?", answer: "Yes. Domain, hosting, cloud, app store and WhatsApp accounts and the code repository are registered to your organisation wherever possible. You receive every credential and a technical guide at handover." },
-    { question: "What maintenance do you provide?", answer: "Five months of free maintenance after launch covers bug fixes, small changes, security updates, backups and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change." },
+    { question: "What maintenance do you provide?", answer: "Two months of free maintenance after launch covers bug fixes, small changes, security updates, backups and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change." },
     { question: "How soon will SEO help an Itanagar business?", answer: "Because competition in Itanagar is moderate, a complete Google Business Profile and clear service pages can improve local visibility within weeks. Broader searches take three to six months or more. We report monthly and do not guarantee rankings." },
     { question: "Which languages do you work in?", answer: "Our calls and messages are in English and Hindi. Websites and apps are usually built in English with Hindi where useful, and we can add community-language content if you supply or approve the text." },
     { question: "Do you provide on-site IT support?", answer: "No. We support the software, apps and websites we build, remotely. Computers, printers, CCTV and office networks need a local technician." },

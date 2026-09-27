@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "IT services · Rajkot, Gujarat",
     h1: "Freelance software development in Rajkot: custom apps, automation and AI",
     lede:
-      "BtechWaleTech is a freelance group of three engineers offering software development in Rajkot remotely from India. We build the systems Rajkot manufacturers and traders run on: job-card and dispatch software, distributor order apps, WhatsApp and CRM automation, AI agents, management dashboards, cloud hosting and the websites and SEO that bring the enquiries in. You get a written, itemised quote, the source code in your name and five months of free maintenance after launch.",
+      "BtechWaleTech is a freelance group of three engineers offering software development in Rajkot remotely from India. We build the systems Rajkot manufacturers and traders run on: job-card and dispatch software, distributor order apps, WhatsApp and CRM automation, AI agents, management dashboards, cloud hosting and the websites and SEO that bring the enquiries in. You get a written, itemised quote, the source code in your name and two months of free maintenance after launch.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Dashboards over Tally data", "Android & iOS apps from ₹40,000", "Code and domain in your name"],
   },
   quickAnswer:
-    "Freelance software development in Rajkot with BtechWaleTech starts at ₹60,000 for custom web apps (six to twelve weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹40,000 for AI automation and ₹10,000 for websites. We are three freelance engineers working remotely from India, quote itemised in about two working days and include five months of free maintenance.",
+    "Freelance software development in Rajkot with BtechWaleTech starts at ₹60,000 for custom web apps (six to twelve weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹40,000 for AI automation and ₹10,000 for websites. We are three freelance engineers working remotely from India, quote itemised in about two working days and include two months of free maintenance.",
   snapshot: [
     { label: "Industrial estates", value: "Aji GIDC, Metoda GIDC at Lodhika, Shapar-Veraval, Kuvadva GIDC and workshops along Gondal Road and Bhaktinagar" },
     { label: "Core manufacturing", value: "Diesel engines, submersible and monoblock pumps, CNC and conventional machine tools, castings, forgings, bearings and auto components" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that read incoming enquiries, draft quotations from your rate list, classify service complaints and hand anything unusual to a named person on your team.",
     data: "Dashboards that pull sales, receivables and dispatch figures from Tally exports and production sheets so the owner sees one honest picture every morning.",
     app: "Android and iOS apps from ₹40,000 for Rajkot distributors, salesmen and service engineers, built once in Flutter or React Native and published on Google Play and the App Store under your own account.",
-    maintenance: "Bug fixes, backups, security updates, user changes and small feature tweaks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Bug fixes, backups, security updates, user changes and small feature tweaks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Most Rajkot owners we speak to are not short of software offers. They are short of software that fits: an ERP bought for a large plant that nobody on the shop floor opens, or an app that stopped working when the developer changed jobs. We build smaller, focused systems, document them, and hand over code, logins and hosting in your company's name.",
@@ -192,7 +192,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for Rajkot business software should be boring: a reputable provider with an Indian data centre region, automatic daily backups, HTTPS everywhere, monitored uptime and an account that belongs to your company, not to the developer. We set it up that way by default and document where everything lives, so another engineer could take over if you ever needed that.",
         "Deployment follows a simple, repeatable process. Code sits in a version-controlled repository that you own. Changes are tested on a staging copy before reaching the live system, and each release can be rolled back. Database backups are kept off the main server and restored in a test at least once, because a backup nobody has tried to restore is only a hope.",
-        "After launch, the first five months of maintenance are free: bug fixes, security updates, small changes, new users and reports adjusted as you learn what you actually need. After that, support plans start from ₹8,000 a month and cover monitoring, updates, backups and a set amount of change work. We answer on WhatsApp seven days a week, and urgent issues that stop the business from working are handled first.",
+        "After launch, the first two months of maintenance are free: bug fixes, security updates, small changes, new users and reports adjusted as you learn what you actually need. After that, support plans start from ₹8,000 a month and cover monitoring, updates, backups and a set amount of change work. We answer on WhatsApp seven days a week, and urgent issues that stop the business from working are handled first.",
         "Many Rajkot firms also ask for help with the basics around the software: business email on their own domain, access control when staff leave, and shared drives that are not somebody's personal account. We sort these out as part of the same engagement.",
       ],
     },
@@ -233,7 +233,7 @@ const content: CityContent = {
       paragraphs: [
         "The right IT partner for a Rajkot business is one that understands your process before quoting, puts ownership in your name, and will still answer the phone a year later. Whether that firm sits on Kalawad Road or works remotely matters far less than those three things, and it is worth checking them before paying any advance.",
         "Ask to see a written scope listing every screen, report and integration, with a price against each. Ask who will actually write the code and whether you can speak to them. Confirm in writing that the source code repository, domain, hosting and any third-party accounts will be registered to your company. Ask what happens after launch, how bugs are handled and what support costs. And ask for a small first phase rather than a single large payment for everything.",
-        "Our own terms are simple. We quote itemised in about two working days, take payment in INR by UPI QR or bank transfer against agreed milestones, and include five months of maintenance. Our <a href='/portfolio/'>portfolio</a> shows the kind of work we have built, and our <a href='/pricing/'>pricing page</a> lists every starting rate. If you run businesses in both cities, the <a href='/it-services/gujarat/gandhinagar/'>Gandhinagar IT services page</a> explains how we work with institutions and service firms there.",
+        "Our own terms are simple. We quote itemised in about two working days, take payment in INR by UPI QR or bank transfer against agreed milestones, and include two months of maintenance. Our <a href='/portfolio/'>portfolio</a> shows the kind of work we have built, and our <a href='/pricing/'>pricing page</a> lists every starting rate. If you run businesses in both cities, the <a href='/it-services/gujarat/gandhinagar/'>Gandhinagar IT services page</a> explains how we work with institutions and service firms there.",
       ],
     },
   ],
@@ -310,7 +310,7 @@ const content: CityContent = {
     {
       question: "What maintenance and IT support do you provide after launch?",
       answer:
-        "Five months of maintenance after launch are free. That covers bug fixes, security updates, backups, small changes, adding users and adjusting reports as your team gets used to the system. After that, support plans start from ₹8,000 a month and include monitoring, updates and a set amount of change work each month. We reply on WhatsApp seven days a week and handle anything that stops daily work first.",
+        "Two months of maintenance after launch are free. That covers bug fixes, security updates, backups, small changes, adding users and adjusting reports as your team gets used to the system. After that, support plans start from ₹8,000 a month and include monitoring, updates and a set amount of change work each month. We reply on WhatsApp seven days a week and handle anything that stops daily work first.",
     },
     {
       question: "How soon will SEO bring enquiries for a Rajkot manufacturer?",
@@ -330,7 +330,7 @@ const content: CityContent = {
     {
       question: "Do you also work with firms in Morbi, Jamnagar, Gondal and Jetpur?",
       answer:
-        "Yes. Because we work remotely, a ceramic unit in Morbi, a brass parts maker in Jamnagar or a textile printer in Jetpur follows exactly the same process as a Rajkot client: a video call, an itemised scope, milestone payments and five months of free maintenance. Many Saurashtra businesses have units or dealers in more than one of these towns, and our systems can handle multiple locations in one login.",
+        "Yes. Because we work remotely, a ceramic unit in Morbi, a brass parts maker in Jamnagar or a textile printer in Jetpur follows exactly the same process as a Rajkot client: a video call, an itemised scope, milestone payments and two months of free maintenance. Many Saurashtra businesses have units or dealers in more than one of these towns, and our systems can handle multiple locations in one login.",
     },
     {
       question: "What should we send to get a quote?",

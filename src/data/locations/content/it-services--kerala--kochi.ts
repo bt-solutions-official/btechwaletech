@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that read shipping documents, answer customer queries in Manglish or English and route qualified leads to staff.",
     data: "Dashboards for retail chains, distributors and exporters covering sales, stock, shipments and receivables.",
     app: "Android and iOS apps for Kochi retailers, clinics, distributors and startups, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month with WhatsApp replies every day.",
+    maintenance: "Two months of free maintenance after launch, then plans from ₹8,000 a month with WhatsApp replies every day.",
   },
   whyUsIntro:
     "Kochi has plenty of IT firms at Infopark and beyond, and plenty of individual freelancers. What owners tell us is missing is the middle: a small team that publishes prices, writes the scope, answers on weekends and hands over the code. That is how we work.",
@@ -199,7 +199,7 @@ const content: CityContent = {
         "Within about 2 working days: itemised quote and timeline",
         "Every week: new features on staging for your team to test",
         "Launch: deployment, store publishing for apps, credentials and training",
-        "After launch: five months of free maintenance",
+        "After launch: two months of free maintenance",
       ],
     },
     {
@@ -238,7 +238,7 @@ const content: CityContent = {
       id: "maintenance-support-kochi",
       heading: "Maintenance and IT support after launch in Kochi",
       paragraphs: [
-        "Every BtechWaleTech project includes five months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
+        "Every BtechWaleTech project includes two months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
         "We answer on WhatsApp seven days a week. See our <a href='/it-services/kerala/'>Kerala IT services overview</a>, read <a href='/about/'>about the team</a> or <a href='/contact/'>share your requirement</a>.",
       ],
     },
@@ -300,7 +300,7 @@ const content: CityContent = {
     { question: "Do you build Android and iOS apps in Kochi?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. We build once in Flutter or React Native, with login, forms, push notifications and an admin panel, and publish on Google Play and the Apple App Store under your own developer accounts." },
     { question: "Can the app or website be in Malayalam?", answer: "Yes. We build in Malayalam, English or both, with fonts that render correctly on phones, and chat automation that understands Manglish. A native speaker on your side should review final Malayalam text for tone." },
     { question: "Who owns the code, domain and app store listing?", answer: "You do. The domain, hosting, repository, Google Play and App Store accounts and any payment gateway are in your name. At handover you receive credentials and documentation, so another developer can take over without our permission." },
-    { question: "What happens after launch?", answer: "You get five months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp every day." },
+    { question: "What happens after launch?", answer: "You get two months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp every day." },
     { question: "How soon will SEO work in Kochi?", answer: "Usually three to six months for meaningful local results, longer for competitive citywide terms. Pages index within weeks, but rankings build with content, reviews and time. We never guarantee positions and report monthly from Search Console." },
     { question: "Can AI automation read shipping documents?", answer: "Yes, within limits. AI can extract invoice numbers, quantities, weights and dates from common export and shipping documents into your records for a person to verify. Projects start at ₹40,000 and take two to four weeks." },
     { question: "Can you work with a Kerala Startup Mission startup?", answer: "Yes. We build MVPs, apps and admin panels for early-stage founders, keep the code in the founder's repository from day one and scope tightly so the first version fits an early budget and a demo date." },

@@ -56,7 +56,7 @@ const supaul: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer fees, rates, timings and stock questions and pass real decisions to you.",
     data: "Dashboards of daily sales, dues by customer, admissions by batch and orders by block.",
     app: "Coaching, school and dealer apps that work on both Android and iPhone, listed on Google Play and the App Store under your name, starting at ₹40,000.",
-    maintenance: "No upkeep charge for the first five months; after that, care plans begin at ₹8,000 monthly and cover edits, backups and patches.",
+    maintenance: "No upkeep charge for the first two months; after that, care plans begin at ₹8,000 monthly and cover edits, backups and patches.",
   },
   whyUsIntro:
     "Supaul customers have seen promises that did not hold, so we keep ours on paper. Entry prices sit openly on our site, each quote breaks the job into lines, WhatsApp gets a reply on Sundays too, and the domain, server, source code and store listings carry your name. When an idea will not earn back its cost for your shop or institute, you hear that from us first.",
@@ -185,7 +185,7 @@ const supaul: CityContent = {
       heading: "Ownership and maintenance for Supaul websites and apps",
       paragraphs: [
         "Nothing we make stays with us. Your email owns the domain, the hosting invoice carries your name, the complete code is passed to you, and you are listed as owner on the Google Business Profile, the Play Console and the Apple developer account. On the last day you get a document listing every username and password.",
-        "Upkeep costs nothing for the first five months after going live. During that stretch we change fees, rates and pictures, run backups, install security patches and confirm that the forms, UPI payments and WhatsApp buttons still work. Once it ends, choose freely: stay with us at ₹8,000 a month onwards, run it in-house, or pass the code to another developer.",
+        "Upkeep costs nothing for the first two months after going live. During that stretch we change fees, rates and pictures, run backups, install security patches and confirm that the forms, UPI payments and WhatsApp buttons still work. Once it ends, choose freely: stay with us at ₹8,000 a month onwards, run it in-house, or pass the code to another developer.",
         "Apps also need a yearly rebuild because Google and Apple keep lifting the minimum versions they accept. We note those dates and ship the update ahead of time, so a coaching app does not vanish from the store just as admissions open.",
       ],
     },
@@ -277,7 +277,7 @@ const supaul: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep come free once the site is live, covering fee or rate edits, new photos, backups, patches and checks on forms and payments. Later, you choose: keep us on at ₹8,000 a month onwards, look after it yourselves, or hand the code to someone else. You never need our permission, because every account is already yours.",
+        "Two months of upkeep come free once the site is live, covering fee or rate edits, new photos, backups, patches and checks on forms and payments. Later, you choose: keep us on at ₹8,000 a month onwards, look after it yourselves, or hand the code to someone else. You never need our permission, because every account is already yours.",
     },
     {
       question: "Do you work in Birpur, Triveniganj and Saharsa too?",

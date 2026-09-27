@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Is IndiaMART worth it at your plan price? Cost the alternative first",
-    note: `You cannot judge whether IndiaMART is worth it without pricing the alternative. A B2B catalogue website of up to 100 pages starts at ${P.site} and takes one to two weeks. A catalogue SEO website with 299+ generated product and application pages starts at ${P.seoSite} and takes three to five weeks. Monthly SEO, which is what brings Google buyers over time, starts at ${P.seo}. Sending marketplace and website leads into one CRM with a WhatsApp acknowledgement starts at ${P.ai}. After five free months, maintenance starts at ${P.care}. You get an itemised estimate in about two working days, and nothing is billed before written approval.`,
+    note: `You cannot judge whether IndiaMART is worth it without pricing the alternative. A B2B catalogue website of up to 100 pages starts at ${P.site} and takes one to two weeks. A catalogue SEO website with 299+ generated product and application pages starts at ${P.seoSite} and takes three to five weeks. Monthly SEO, which is what brings Google buyers over time, starts at ${P.seo}. Sending marketplace and website leads into one CRM with a WhatsApp acknowledgement starts at ${P.ai}. After two free months, maintenance starts at ${P.care}. You get an itemised estimate in about two working days, and nothing is billed before written approval.`,
   },
   guideLabel: "Is IndiaMART worth it: seller’s guide",
   guide: [

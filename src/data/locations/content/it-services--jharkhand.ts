@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Jharkhand · statewide",
     h1: "Freelance IT services in Jharkhand, from Ranchi and Jamshedpur to Dhanbad, Bokaro and Deoghar",
     lede:
-      "BtechWaleTech provides IT services in Jharkhand as a freelance group of three engineers working remotely from India. We build custom software, web apps, AI and WhatsApp automation, dashboards, mobile apps, online stores, SEO and websites for contractors, manufacturers, schools, hospitals, traders and pilgrim-town businesses across all five divisions of the state, with published starting prices and five months of free maintenance after launch.",
+      "BtechWaleTech provides IT services in Jharkhand as a freelance group of three engineers working remotely from India. We build custom software, web apps, AI and WhatsApp automation, dashboards, mobile apps, online stores, SEO and websites for contractors, manufacturers, schools, hospitals, traders and pilgrim-town businesses across all five divisions of the state, with published starting prices and two months of free maintenance after launch.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Hindi-first builds", "UPI or bank transfer only"],
   },
   quickAnswer:
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI assistants and WhatsApp agents that answer routine enquiries in Hindi, take orders and chase payments for businesses with small teams.",
     data: "Dashboards that pull from Tally, spreadsheets and ERPs so owners with sites in several districts see one clear picture.",
     app: "Android and iOS apps from ₹40,000 for Jharkhand contractors, institutes, hospitals and distributors, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and fixes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and fixes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Businesses in Jharkhand often have to choose between a cousin who builds websites on the side and an out-of-state vendor who treats a Ranchi or Dhanbad client as a small account. We are neither: a freelance group of three engineers with published starting prices, itemised quotes and direct access to the people writing your code.",
@@ -77,7 +77,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Jharkhand, for most small and mid-sized businesses, include a website that brings enquiries, custom software for billing, projects or operations, automation that handles repetitive messages and paperwork, dashboards for owners, mobile apps for field staff, SEO for local and statewide searches, and ongoing maintenance. The mix depends on the sector, and Jharkhand's sectors are unusually varied for a state of its size.",
         "A coal transport contractor in Dhanbad, an auto-component maker in Adityapur, a coaching institute in Bokaro, a hospital in Ranchi, a peda maker near Deoghar and a tussar weaver in Godda all need different tools. Some need a credible website before a public sector vendor registration; others need trip records or fee collection; others need to sell to buyers outside the state. Good IT work in Jharkhand starts from those differences rather than from a single package.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Jharkhand and do not claim one. We work over WhatsApp, calls and shared test links, publish our <a href='/pricing/'>starting prices</a>, hand over every account and repository, and include five months of maintenance after launch. The sections below explain how each IT service applies across the state, with separate pages for <a href='/it-services/jharkhand/ranchi/'>Ranchi</a>, <a href='/it-services/jharkhand/jamshedpur/'>Jamshedpur</a>, <a href='/it-services/jharkhand/dhanbad/'>Dhanbad</a>, <a href='/it-services/jharkhand/bokaro/'>Bokaro</a> and <a href='/it-services/jharkhand/deoghar/'>Deoghar</a>.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Jharkhand and do not claim one. We work over WhatsApp, calls and shared test links, publish our <a href='/pricing/'>starting prices</a>, hand over every account and repository, and include two months of maintenance after launch. The sections below explain how each IT service applies across the state, with separate pages for <a href='/it-services/jharkhand/ranchi/'>Ranchi</a>, <a href='/it-services/jharkhand/jamshedpur/'>Jamshedpur</a>, <a href='/it-services/jharkhand/dhanbad/'>Dhanbad</a>, <a href='/it-services/jharkhand/bokaro/'>Bokaro</a> and <a href='/it-services/jharkhand/deoghar/'>Deoghar</a>.",
       ],
     },
     {
@@ -213,7 +213,7 @@ const content: CityContent = {
       id: "maintenance-support-jharkhand",
       heading: "Maintenance and remote IT support after launch",
       paragraphs: [
-        "Maintenance keeps your website or software secure, backed up and working as your business changes, and every BtechWaleTech project includes five months of it free once hosting is live. That covers bug fixes, content and price updates, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks.",
+        "Maintenance keeps your website or software secure, backed up and working as your business changes, and every BtechWaleTech project includes two months of it free once hosting is live. That covers bug fixes, content and price updates, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks.",
         "After the free period, plans start from ₹8,000 a month, or you can pay per change. We reply on WhatsApp seven days a week, which helps during admission seasons, festival rushes and year-end billing. Changes are logged, tested on a copy where possible, and released with a note of what changed.",
         "As a remote freelance group, we support the software and hosting we build. We cannot attend your office for computer, printer or network problems; a local technician in your town is the right person for hardware. Where software depends on devices such as barcode scanners or thermal printers, we recommend compatible models and test with you over video.",
       ],
@@ -222,7 +222,7 @@ const content: CityContent = {
       id: "cost-it-services-jharkhand",
       heading: "How much do IT services in Jharkhand cost?",
       paragraphs: [
-        "With BtechWaleTech, IT services in Jharkhand start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. These are starting prices, not fixed packages.",
+        "With BtechWaleTech, IT services in Jharkhand start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or a web app, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after two free months. These are starting prices, not fixed packages.",
         "Local quotes in Jharkhand vary widely, from a few thousand rupees for a template site to several lakhs for enterprise systems. When comparing, check whether hosting and domain are in your name, whether SEO basics are included, what support costs after launch, and whether the code is handed over. A cheap build that cannot be maintained often costs more over two years.",
         "You receive an itemised quote in about two working days. Work starts only after written approval. Payments to us are made only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],
@@ -282,7 +282,7 @@ const content: CityContent = {
     {
       question: "What do IT services in Jharkhand typically cost?",
       answer:
-        "With us, a website starts at ₹10,000, a 299+ page SEO website at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. Final quotes depend on features and integrations and are itemised before you approve.",
+        "With us, a website starts at ₹10,000, a 299+ page SEO website at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months. Final quotes depend on features and integrations and are itemised before you approve.",
     },
     {
       question: "Jharkhand mein software banwane mein kitna samay lagta hai?",
@@ -300,9 +300,9 @@ const content: CityContent = {
         "You do. Domains, hosting, code repositories and databases are registered to you or transferred at handover, with documentation. There is no ongoing licence fee to us for your own software. If you later switch developers, they can take over with full access and no release fee from us.",
     },
     {
-      question: "What does the free five-month maintenance include?",
+      question: "What does the free two-month maintenance include?",
       answer:
-        "Bug fixes, content and price updates, small changes, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks for five months after launch. After that, maintenance plans start from ₹8,000 a month, or you can request work only when needed and pay for each change.",
+        "Bug fixes, content and price updates, small changes, security and dependency updates, backups, uptime and speed checks, and basic SEO health checks for two months after launch. After that, maintenance plans start from ₹8,000 a month, or you can request work only when needed and pay for each change.",
     },
     {
       question: "Can AI automation handle enquiries for my Jharkhand business?",

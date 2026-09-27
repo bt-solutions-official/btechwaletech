@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers, one leading data work" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Legal step", value: "Terms, robots.txt, personal data and API check before code" },
       { label: "Data quality", value: "De-duplication, type checks and change alerts" },
       { label: "Ownership", value: "Code, server and outputs in your accounts" },
-      { label: "After launch", value: `5 months free fixes, then from ${P.care}` },
+      { label: "After launch", value: `2 months free fixes, then from ${P.care}` },
     ],
   },
   services: {
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A scheduled scraper is only useful if it keeps working, and websites change without warning. Planning for breakage is part of the build, not an afterthought.`,
         `The schedule should match how fast the data changes. Mandi prices update daily; tender portals publish throughout the working day; product catalogues may change weekly. Running more often than needed wastes resources and puts unnecessary load on the source. We run jobs with cron on a small server, or with a cloud scheduler such as Amazon EventBridge triggering AWS Lambda, which suits jobs that run briefly a few times a day.`,
-        `Monitoring has three layers. The job must report that it ran. The output must pass checks: expected row counts, required fields present, values in sensible ranges. And someone must be told when either fails, by email or a WhatsApp message, rather than discovering it weeks later. When a source redesigns its pages, the fix is usually a few selectors; during the five free months of maintenance we handle those repairs, and afterwards care continues from ${P.care} if you want it.`,
+        `Monitoring has three layers. The job must report that it ran. The output must pass checks: expected row counts, required fields present, values in sensible ranges. And someone must be told when either fails, by email or a WhatsApp message, rather than discovering it weeks later. When a source redesigns its pages, the fix is usually a few selectors; during the two free months of maintenance we handle those repairs, and afterwards care continues from ${P.care} if you want it.`,
       ],
     },
     {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       heading: "How much does a web scraping freelancer cost in India?",
       paragraphs: [
         `Quotes for scraping vary widely, because “scrape this site” can mean a one-hour script or a monitored pipeline across twenty sources. When you compare, ask what happens on day thirty, not only what arrives on day one.`,
-        `With BtechWaleTech, a scheduled scraper with cleaning, storage and alerts is scoped like our automation projects, starting at ${P.ai} (${P.aiUsd}), usually built in 2–4 weeks. If you also want a dashboard with logins, filters and history charts, that becomes a custom web app starting at ${P.software}. Monthly care after the free five months starts at ${P.care}.`,
+        `With BtechWaleTech, a scheduled scraper with cleaning, storage and alerts is scoped like our automation projects, starting at ${P.ai} (${P.aiUsd}), usually built in 2–4 weeks. If you also want a dashboard with logins, filters and history charts, that becomes a custom web app starting at ${P.software}. Monthly care after the free two months starts at ${P.care}.`,
         `The main cost drivers are the number of sources, whether they need a headless browser, how much matching is needed across sources (the same product named differently on three sites is real work), run frequency and output format. Running costs for servers or cloud functions are billed to your own account and are usually modest for small jobs; we estimate them in the quote so there are no surprises.`,
       ],
     },
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
         ["Scheduled scraper with cleaning and alerts", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Scraper plus dashboard with logins", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Website rebuilt from scraped old content", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Monthly care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Monthly care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
         ["Store catalogue import", `Store from ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
       ],
     },
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a quote by source, frequency and output, plus estimated running costs. Nothing is billed before approval."],
       ["Prototype on real pages", "A first run delivers a sample sheet from live pages so you can check fields, formats and edge cases before we build the schedule."],
       ["Schedule, checks and alerts", "The job moves to your server or cloud account with validation, run logs and failure alerts, then runs in parallel with your manual checks."],
-      ["Handover and care", "You receive the code, runbook and source notes. Five months of free maintenance cover selector fixes when sites change."],
+      ["Handover and care", "You receive the code, runbook and source notes. Two months of free maintenance cover selector fixes when sites change."],
     ],
   },
   faqHeading: "Web scraping freelancer: common questions",
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
     { question: "Can you scrape data behind a login?", answer: "Only where you own the account and the data, or where the site owner has given written permission. We do not use fake or shared accounts to reach data that the owner has restricted, because accessing a system without permission can create legal liability. If you need restricted data, we can help you request an API or data licence." },
     { question: "Do you scrape phone numbers and emails for lead generation?", answer: "No. Bulk collection of personal contact details for cold outreach raises data protection and consent problems, and those lists often perform poorly anyway. We can help with lead generation in cleaner ways, such as forms on your own website, WhatsApp opt-ins or public business data that does not identify individuals." },
     { question: "How long does it take to build a web scraper?", answer: "A single-source one-off extraction can be quick, but a scheduled scraper with cleaning, storage and alerts usually takes 2–4 weeks, including a period of running alongside manual checks to confirm accuracy. Projects with many sources, heavy JavaScript pages or complex product matching take longer, and the quote states the timeline." },
-    { question: "What happens when the website I scrape changes?", answer: `The scraper may stop finding the right fields. That is why we build checks on row counts and required fields, with alerts by email or WhatsApp when something looks wrong. Selector fixes are covered during the five months of free maintenance after launch; after that, maintenance starts at ${P.care} if you want us to keep it running.` },
+    { question: "What happens when the website I scrape changes?", answer: `The scraper may stop finding the right fields. That is why we build checks on row counts and required fields, with alerts by email or WhatsApp when something looks wrong. Selector fixes are covered during the two months of free maintenance after launch; after that, maintenance starts at ${P.care} if you want us to keep it running.` },
     { question: "Which tools do you use for web scraping?", answer: "We mostly use Python: Requests and Beautiful Soup for simple HTML pages, Scrapy for larger crawls with throttling and retries, and Playwright for pages that render content with JavaScript. Data is cleaned with pandas and stored in PostgreSQL, Google Sheets or CSV. Jobs run on a small server or a cloud scheduler such as AWS EventBridge with Lambda." },
     { question: "Should I use an API instead of scraping?", answer: "If a permitted API or data feed exists, usually yes. It is more stable, easier to maintain and clearer legally. Government data on data.gov.in and agricultural prices on Agmarknet are examples of sources worth checking first. Even a paid API can cost less over a year than building and repairing a scraper." },
     { question: "Where will the scraped data be delivered?", answer: "Wherever your team will actually use it: a Google Sheet, a CSV emailed or saved to cloud storage, a PostgreSQL database, or a dashboard with filters and charts. We also send summaries on email or WhatsApp when a quick morning view is more useful than opening a spreadsheet." },
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need data from the web? Talk to a web scraping freelancer who checks first",
-    note: `Send your source links and an example of the table you want on WhatsApp. We review legality and API options, then send an itemised quote in about two working days, with scheduled scrapers from ${P.ai}, code and servers in your name and five months of free maintenance.`,
+    note: `Send your source links and an example of the table you want on WhatsApp. We review legality and API options, then send an itemised quote in about two working days, with scheduled scrapers from ${P.ai}, code and servers in your name and two months of free maintenance.`,
   },
 };
 

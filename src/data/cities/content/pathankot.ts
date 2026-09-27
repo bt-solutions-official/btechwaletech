@@ -31,10 +31,10 @@ const pathankot: CityContent = {
     h1: "Web, app, SEO and automation services for Pathankot's junction-town businesses",
     lede:
       "Pathankot sits where Punjab, Himachal and Jammu and Kashmir meet, and most of its customers arrive from somewhere else. We are three remote engineers who build websites, booking pages and WhatsApp automation for its hotels, cab operators, wholesalers, clinics and schools, with published starting prices and the code in your name.",
-    pills: ["Sites from ₹10,000", "Hill-route travel bookings", "Punjabi, Hindi, English pages", "WhatsApp enquiry capture", "5 months' free upkeep"],
+    pills: ["Sites from ₹10,000", "Hill-route travel bookings", "Punjabi, Hindi, English pages", "WhatsApp enquiry capture", "2 months' free upkeep"],
   },
   quickAnswer:
-    "A Pathankot business website starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Pathankot office, and maintenance is free for five months.",
+    "A Pathankot business website starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Pathankot office, and maintenance is free for two months.",
   snapshot: [
     { label: "Position", value: "Northernmost district of Punjab, bordering Himachal Pradesh, Jammu and Kashmir and Pakistan's Narowal district" },
     { label: "Rail", value: "Pathankot Junction, where the Amritsar and Delhi lines meet before running on to Jammu; Pathankot Cantt (earlier Chakki Bank)" },
@@ -51,7 +51,7 @@ const pathankot: CityContent = {
     ai: "WhatsApp assistants that answer fare, room and admission questions in Punjabi, Hindi or English, and pass real bookings to a person.",
     data: "Simple dashboards showing bookings by season, orders by town or patients by department, so owners can plan staff and stock.",
     app: "Android and iPhone apps for cab drivers' duty slips, hotel check-ins or fee reminders, released on both app stores with builds from ₹40,000.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then plans from ₹8,000 a month or pay-per-job changes.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then plans from ₹8,000 a month or pay-per-job changes.",
   },
   whyUsIntro:
     "Pathankot businesses serve a moving audience: pilgrims heading to Vaishno Devi, families going up to Dalhousie, soldiers' families posted in the cantonment, and traders from three states. We build for that audience, write down every starting price, reply on WhatsApp seven days a week and hand over every login at launch.",
@@ -176,7 +176,7 @@ const pathankot: CityContent = {
       paragraphs: [
         "A common story in smaller Punjab towns runs like this: a website was built years ago by someone who has since moved to Canada or changed jobs, the domain renewal went to their email, and one day the site simply vanished. Getting a domain back can take weeks, and the phone number printed on your brochures points nowhere in the meantime.",
         "We avoid that by registering the domain in your name and setting up hosting on your own account. At launch you receive the full source code, every login and a short document explaining what runs where. If you ever want another developer to take over, you hand them the keys. There is no exit fee and no permission to ask.",
-        "Maintenance is free for five months after launch: text and rate changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, plans start at ₹8,000 a month, or you can pay per change if your site rarely needs updating. Hotels and travel businesses usually prefer the plan, because tariffs and routes change with every season.",
+        "Maintenance is free for two months after launch: text and rate changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, plans start at ₹8,000 a month, or you can pay per change if your site rarely needs updating. Hotels and travel businesses usually prefer the plan, because tariffs and routes change with every season.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const pathankot: CityContent = {
         "You do. The domain is in your name, hosting is on your account, and you receive every password and the complete source code at launch. You can move to another developer at any time with no exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You decide. A maintenance plan starts at ₹8,000 a month and covers updates, backups, security patches and content changes. If your site rarely changes, skip the plan and pay per job when you need something. You keep full access either way.",
     },

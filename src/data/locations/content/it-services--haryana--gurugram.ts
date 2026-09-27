@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Next.js, Node.js, Python", "Android & iOS apps from ₹40,000", "Pay by UPI or bank transfer"],
   },
   quickAnswer:
-    "Freelance software developers in Gurugram from BtechWaleTech build custom web apps and software from ₹60,000 in six to twelve weeks, Android and iOS apps from ₹40,000 in six to ten weeks, AI agents from ₹40,000 and websites from ₹10,000. We are three independent engineers working remotely, not a local office, and include five months of free maintenance after launch.",
+    "Freelance software developers in Gurugram from BtechWaleTech build custom web apps and software from ₹60,000 in six to twelve weeks, Android and iOS apps from ₹40,000 in six to ten weeks, AI agents from ₹40,000 and websites from ₹10,000. We are three independent engineers working remotely, not a local office, and include two months of free maintenance after launch.",
   snapshot: [
     { label: "Corporate districts", value: "DLF Cyber City, Cyber Hub, Golf Course Road, MG Road and the Sohna Road office belt" },
     { label: "Industrial pockets", value: "Udyog Vihar phases, Sector 18 and Sector 37 industrial areas, and IMT Manesar to the south-west" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that triage support tickets, qualify property and B2B leads, read documents and draft replies, with a human approval step where it matters.",
     data: "Founder and finance dashboards that join product events, CRM data and accounting exports so Monday reviews start from one trusted number.",
     app: "Android and iOS apps from ₹40,000 for Gurugram startups, clinics, gyms and D2C brands, built once in React Native or Flutter and published on Google Play and the App Store under your account.",
-    maintenance: "Bug fixes, dependency updates, uptime monitoring and small feature changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Bug fixes, dependency updates, uptime monitoring and small feature changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Gurugram has hundreds of software vendors, from global consultancies in Cyber City to one-person shops on Sohna Road. What product and operations leads usually lack is a small team that writes production code, answers fast and hands over everything. That is the slot we fill, as three freelance engineers.",
@@ -101,7 +101,7 @@ const content: CityContent = {
       paragraphs: [
         "A focused SaaS MVP for a Gurugram startup usually takes six to twelve weeks and starts from ₹60,000, covering user sign-up, the one core workflow the product exists for, a basic admin panel, payments or invoicing if needed, and deployment. Timelines stretch when founders add features mid-build, so we freeze a first-release list before writing code.",
         "Our typical MVP stack is Next.js or React on the front end, Node.js or Python on the back end, PostgreSQL for data and AWS or a similar managed platform for hosting. We choose boring, well-supported tools because the code will outlive the MVP and may be handed to an in-house team hired later from Gurugram's large developer pool.",
-        "Founders get a staging link from the second week and a short weekly note on what shipped, what slipped and what decision is needed. We also set up analytics and error tracking before launch, so the first users generate data you can act on instead of guesses. After launch, the five months of free maintenance cover bug fixes and minor adjustments while you learn what users actually do.",
+        "Founders get a staging link from the second week and a short weekly note on what shipped, what slipped and what decision is needed. We also set up analytics and error tracking before launch, so the first users generate data you can act on instead of guesses. After launch, the two months of free maintenance cover bug fixes and minor adjustments while you learn what users actually do.",
       ],
       list: [
         "Week 1: scope, user flows and a clickable wireframe",
@@ -210,7 +210,7 @@ const content: CityContent = {
       id: "custom-software-cost-gurugram",
       heading: "How much does custom software development cost in Gurugram?",
       paragraphs: [
-        "Custom software development in Gurugram with BtechWaleTech starts from ₹60,000 for a web app or internal tool, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an ecommerce store and ₹10,000 for a static website, with maintenance from ₹8,000 a month after the free five months. These are starting prices; the full table is on our <a href='/pricing/'>pricing page</a>.",
+        "Custom software development in Gurugram with BtechWaleTech starts from ₹60,000 for a web app or internal tool, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for an ecommerce store and ₹10,000 for a static website, with maintenance from ₹8,000 a month after the free two months. These are starting prices; the full table is on our <a href='/pricing/'>pricing page</a>.",
         "The main cost drivers are the number of user roles, third-party integrations, reporting complexity, mobile apps on top of the web app, and how firm the deadline is. A single-workflow internal tool sits near the starting price. A multi-tenant SaaS product with billing, an admin panel and a mobile app costs several times more. We itemise by feature so you can move items to a second phase.",
         "Payment is staged by milestone and made only by UPI or bank transfer in INR. There are no licence fees on code we write for you. Cloud, WhatsApp and third-party subscriptions are billed to you directly by those providers, so you see the true running cost rather than a marked-up bundle.",
       ],
@@ -235,7 +235,7 @@ const content: CityContent = {
       id: "it-support-maintenance-gurugram",
       heading: "IT support and maintenance after your Gurugram software goes live",
       paragraphs: [
-        "After launch, every BtechWaleTech build in Gurugram includes five months of free maintenance covering bug fixes, security and dependency updates, backups, uptime monitoring and small content or configuration changes; after that, maintenance continues from ₹8,000 a month or on a pay-per-task basis.",
+        "After launch, every BtechWaleTech build in Gurugram includes two months of free maintenance covering bug fixes, security and dependency updates, backups, uptime monitoring and small content or configuration changes; after that, maintenance continues from ₹8,000 a month or on a pay-per-task basis.",
         "Software is never finished. Browsers update, libraries publish security patches, APIs you integrate with change their rules and users find edge cases nobody predicted. Our maintenance covers that routine upkeep and sends a short monthly note on what was done. Larger feature requests are quoted separately so the maintenance fee stays predictable.",
         "We do not offer on-site desktop support, network installation or hardware repair in Gurugram offices; we are remote engineers focused on the software, cloud and automation layer. For clients who later build an in-house team, we help with handover: documentation, a walkthrough call and a period of overlap so the new developers are not left guessing.",
       ],
@@ -309,7 +309,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes, five months of maintenance is included free after hosting goes live. It covers bug fixes, security and dependency updates, backups, uptime monitoring and small changes. After that, you can continue from ₹8,000 a month or pay per task. New features are quoted separately so the monthly fee stays predictable.",
+        "Yes, two months of maintenance is included free after hosting goes live. It covers bug fixes, security and dependency updates, backups, uptime monitoring and small changes. After that, you can continue from ₹8,000 a month or pay per task. New features are quoted separately so the monthly fee stays predictable.",
     },
     {
       question: "Can you sign an NDA and work with our security requirements?",

@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering design, code and technical SEO" },
     { value: "2", label: "Working days to a redesign estimate" },
-    { value: "5", label: "Months of free fixes after the new site launches" },
+    { value: "2", label: "Months of free fixes after the new site launches" },
     { value: "0", label: "Old URLs left without a planned destination" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Built in", value: "Core Web Vitals fixes, accessibility fixes, structured data" },
       { label: "Starting price", value: `From ${P.site}; sites of 299+ pages from ${P.seoSite}` },
       { label: "Monitoring", value: "Search Console and analytics checks for 6–8 weeks after launch" },
-      { label: "After launch", value: `5 months of free fixes, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free fixes, then care from ${P.care} a month` },
     ],
   },
   services: {
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The launch is the midpoint of a redesign, not the end. For six to eight weeks we watch Search Console’s page indexing report, crawl errors, the performance report for key queries, and your lead volume, and fix anything that slips.`,
         `Day one: re-run the redirect test against production, submit the new sitemap, check robots settings and confirm forms deliver. Week one: look for 404s from old URLs we missed, often from old PDFs or campaign links, and add redirects. Weeks two to four: compare clicks and impressions for the benchmark pages. Weeks five to eight: confirm the new pages are indexed and holding their queries, and report back with the before-and-after numbers.`,
-        `After that the five months of free fixes continue. Longer-term care is available from ${P.care} a month; our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page explains what it covers.`,
+        `After that the two months of free fixes continue. Longer-term care is available from ${P.care} a month; our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page explains what it covers.`,
       ],
     },
     {
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Inventory, benchmark and audit", "Every URL listed with its traffic, links and conversions, then labelled keep, merge, rewrite or retire. You make the final decisions on content."],
       ["Design and build on staging", "Two main templates reviewed on your phone, then the full site built with content moved, speed measured and accessibility tested before launch."],
       ["Redirect test and launch", "The full redirect map crawled on staging, forms tested, then launch on a quiet weekday morning with the sitemap submitted and production checked."],
-      ["Watch, fix and report", "Six to eight weeks of Search Console and lead checks, fixes included, and a before-and-after summary. Five months of free fixes run from launch."],
+      ["Watch, fix and report", "Six to eight weeks of Search Console and lead checks, fixes included, and a before-and-after summary. Two months of free fixes run from launch."],
     ],
   },
   faqHeading: "Website redesign services: questions US businesses ask",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Do you rewrite the content during a redesign?", answer: "Where the content audit says so. Pages that rank keep their substance with light edits; weak pages on the right topic are rewritten around the questions they already rank for; thin overlapping pages are merged. Copywriting is a separate line in the estimate, and you approve every rewrite before launch." },
     { question: "Will my forms and integrations keep working after the redesign?", answer: "They are part of the scope. We list every form, phone link, booking widget and integration on the old site, rebuild or reconnect each one, and test real submissions on staging and again after launch. If your CRM expects certain field names, we keep them so your sales process does not change." },
     { question: "Can a redesign help me appear in AI answers?", answer: "It can remove obstacles. Clear one-sentence summaries, question-led headings, short answer blocks, tables and structured data make pages easier for answer engines such as Google’s AI Overviews and Perplexity to understand and quote. Nobody can guarantee inclusion, but a well-structured redesign gives good content a better chance of being cited." },
-    { question: "What happens after the redesign is finished?", answer: `After the monitoring period you get a before-and-after summary, and fixes and small changes stay free for five months from launch. After that, you can choose a care plan from ${P.care} a month, pay for changes as needed, or manage the site yourself. Ongoing SEO help is available from ${P.seo} a month.` },
+    { question: "What happens after the redesign is finished?", answer: `After the monitoring period you get a before-and-after summary, and fixes and small changes stay free for two months from launch. After that, you can choose a care plan from ${P.care} a month, pay for changes as needed, or manage the site yourself. Ongoing SEO help is available from ${P.seo} a month.` },
   ],
   related: {
     heading: "Related services for US businesses",

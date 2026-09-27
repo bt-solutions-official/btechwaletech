@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Budget iOS and Android apps for US founders and small businesses",
     h1: "Affordable app development company pricing without the cheap-app traps",
     lede: `An affordable app development company should cut your cost by building smarter, not by skipping the parts that keep an app alive after launch. BtechWaleTech is three freelance developers in India who build one Flutter or React Native codebase for iPhone and Android, publish it under <strong>your</strong> Apple and Google developer accounts, and bill in fixed-scope milestones you approve one at a time. Cross-platform apps start at ${P.app}. See the full <a href='/it-services/android-ios-app/'>app development service</a> or compare <a href='/usa/app-development-cost/'>app costs by feature</a>.`,
-    pills: ["iOS and Android from one codebase", `Apps from ${P.app}`, "Flutter or React Native", "Your own store accounts", "Milestone billing in USD", "Code in your repository", "5 months of free fixes"],
+    pills: ["iOS and Android from one codebase", `Apps from ${P.app}`, "Flutter or React Native", "Your own store accounts", "Milestone billing in USD", "Code in your repository", "2 months of free fixes"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · calls in US Eastern mornings",
   },
   facts: [
@@ -36,17 +36,17 @@ const content: FreelanceContent = {
     ["Store accounts", "Apple and Google accounts in your name"],
     ["Billing", "USD · wire, Wise, PayPal"],
     ["Call window", "US Eastern mornings (IST evenings)"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "1", label: "Codebase that ships to both iPhone and Android" },
     { value: "2", label: "Working days to an itemised USD estimate" },
-    { value: "5", label: "Months of free fixes after your app goes live" },
+    { value: "2", label: "Months of free fixes after your app goes live" },
     { value: "0", label: "Store accounts or repositories held in our name" },
   ],
   answer: {
     heading: "How do you find an affordable app development company that does not cut corners?",
-    text: `Look for a team that saves money through one cross-platform codebase, a tight first version and milestone billing, not by dropping testing, backend security or store submission. BtechWaleTech builds Flutter or React Native apps for iOS and Android from ${P.app}, in 6–10 weeks, publishes them under your own developer accounts and gives you five months of free fixes.`,
+    text: `Look for a team that saves money through one cross-platform codebase, a tight first version and milestone billing, not by dropping testing, backend security or store submission. BtechWaleTech builds Flutter or React Native apps for iOS and Android from ${P.app}, in 6–10 weeks, publishes them under your own developer accounts and gives you two months of free fixes.`,
     more: `Want the line-by-line numbers first? Read <a href='/usa/app-development-cost/'>how much it costs to build an app</a>. Launching a startup product rather than a business tool? <a href='/usa/mvp-development-for-startups/'>MVP development for startups</a> covers scope cutting in depth.`,
   },
   snapshot: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Typical build time", value: "6–10 weeks from approved screens to store submission" },
       { label: "Store fees you pay directly", value: "Apple US$99 a year; Google Play US$25 once" },
       { label: "Ownership", value: "Code, backend and store listings under your business from day one" },
-      { label: "After launch", value: `Five free months of fixes, then care from ${P.care}` },
+      { label: "After launch", value: `Two free months of fixes, then care from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Starting budget", "Lowest headline number", "Usually the highest", `From ${P.app} for both platforms`],
       ["How you pay", "Platform escrow or upfront", "Deposit plus monthly invoices", "Milestones, each approved in writing"],
       ["Meetings", "Chat messages", "In person or video", "Video in US Eastern mornings; no site visits"],
-      ["After launch", "Usually a new contract", "Retainer", `Five free months, then from ${P.care}`],
+      ["After launch", "Usually a new contract", "Retainer", `Two free months, then from ${P.care}`],
     ],
     fine: "A three-developer team is right for small and mid-size apps; if you need twenty engineers or round-the-clock support staff, a larger studio is the better fit.",
   },
@@ -158,7 +158,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The lowest quotes usually leave out the backend, the admin panel, store submission, device testing and post-launch fixes. Each of those gaps turns into a second invoice later, often larger than the original saving.`,
         `Read any quote, including ours, by asking what happens after the screens are drawn. Where does the data live, and who can reach it? How does your office manager change a price or a class time without a developer? Who writes the privacy nutrition label for the App Store and the data-safety form for Google Play? What happens when Apple rejects the first submission, which is common for first-time apps? If a quote is silent on these questions, the answer is usually “that costs extra”.`,
-        `Another common gap is maintenance. Both stores keep moving their requirements. Google publishes target API level deadlines on its Android developer site; from August 31, 2026, new apps and updates must target Android 16 (API level 36) or higher. An app nobody updates eventually cannot ship fixes at all. An affordable app development company should tell you upfront who handles those upgrades and what it costs. Ours are free for five months after launch and covered by care plans from ${P.care} afterwards.`,
+        `Another common gap is maintenance. Both stores keep moving their requirements. Google publishes target API level deadlines on its Android developer site; from August 31, 2026, new apps and updates must target Android 16 (API level 36) or higher. An app nobody updates eventually cannot ship fixes at all. An affordable app development company should tell you upfront who handles those upgrades and what it costs. Ours are free for two months after launch and covered by care plans from ${P.care} afterwards.`,
       ],
       list: [
         "Backend, database and security rules",
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       id: "after-launch",
       heading: "What does an affordable app cost to maintain after launch?",
       paragraphs: [
-        `Expect ongoing costs for store fees, backend usage and developer time for OS updates and fixes. With us, fixes are free for five months after launch; after that, care plans start at ${P.care}, and your store and hosting fees go directly to Apple, Google and the backend provider.`,
+        `Expect ongoing costs for store fees, backend usage and developer time for OS updates and fixes. With us, fixes are free for two months after launch; after that, care plans start at ${P.care}, and your store and hosting fees go directly to Apple, Google and the backend provider.`,
         `Apple and Google release major OS versions every year, and both stores update their policies throughout the year. Most years this means a small round of SDK upgrades, a rebuild and a resubmission. Occasionally a policy change affects a feature, such as how permissions are requested or how subscriptions are displayed. A care plan covers that routine work so your listing never falls behind.`,
         `Maintenance is also where you add the features you cut from version one. Many of our budget clients plan a second release around three months after launch, once real usage shows which requests matter. That rhythm keeps each spend small and backed by evidence, which is the whole point of building affordably in the first place.`,
       ],
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a two-location dog-grooming salon in Tampa wants customers to book appointments, pay a deposit and receive reminders from an app instead of phone calls. This is an illustration of how we would scope it, not a past client.`,
         `In the first call we would separate must-haves from nice-to-haves. Must-haves: sign-in with email or Apple and Google, pet profiles, booking against each location's calendar, a card or wallet deposit, reminder notifications and a staff panel to manage slots. Nice-to-haves such as loyalty points, photo updates during grooming and a referral scheme move to version two. Because grooming is a service delivered in person, the deposit uses card or wallet checkout rather than Apple or Google in-app purchase.`,
-        `That scope fits comfortably in a cross-platform build near our starting price of ${P.app}, over roughly eight weeks, split into four milestones. The owner opens both store accounts in week one. Staff test the panel in week five. The app goes to review in week seven, leaving a week for any rejection notes. After launch, five months of free fixes cover the first real-world surprises, and the version-two list is priced only once customers have used version one.`,
+        `That scope fits comfortably in a cross-platform build near our starting price of ${P.app}, over roughly eight weeks, split into four milestones. The owner opens both store accounts in week one. Staff test the panel in week five. The app goes to review in week seven, leaving a week for any rejection notes. After launch, two months of free fixes cover the first real-world surprises, and the version-two list is priced only once customers have used version one.`,
       ],
     },
     {
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Store listing and privacy forms", "Required by Apple and Google before review", "Often", "Included"],
         ["Rejection handling", "First submissions are frequently sent back", "Yes", "Included until approval"],
         ["Code in your repository", "Lets you switch developers without rebuilding", "Often", "From the first commit"],
-        ["Post-launch fixes", "Real users find edge cases testers miss", "Yes", "Free for five months"],
+        ["Post-launch fixes", "Real users find edge cases testers miss", "Yes", "Free for two months"],
       ],
       hideSm: [1],
     },
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Open your accounts", "You create Apple and Google developer accounts, a repository and a backend project in your business name, then invite us with limited roles."],
       ["Approve screens, then features", "Clickable designs come first. Once approved, each weekly test build lands on your phone so you judge real behaviour, not screenshots."],
       ["Submit to both stores", "We prepare listings, privacy answers and test tracks, submit for review and handle any rejection notes until both stores approve the app."],
-      ["Launch and five free months", "After release we monitor crashes and reviews, fix issues free for five months and hand over notes explaining how everything fits together."],
+      ["Launch and two free months", "After release we monitor crashes and reviews, fix issues free for two months and hand over notes explaining how everything fits together."],
     ],
   },
   faqHeading: "Affordable app development: questions US buyers ask",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a remote app development team?", answer: "US clients pay us in USD by bank wire, Wise or PayPal, milestone by milestone. Each milestone is described and priced in your written quote, and nothing is billed until you approve it. Invoices come from India; your accountant can advise how to record them for your business." },
     { question: "Do I need my own Apple and Google developer accounts?", answer: "Yes, and we insist on it. Apple's developer program costs US$99 a year and Google Play charges US$25 once. Accounts in your name mean you control the listing, reviews and updates forever. We join as team members with limited access and can be removed any time." },
     { question: "What happens if Apple rejects my app?", answer: "Rejections are common on first submissions and usually concern missing information, incomplete features or privacy details. We read the reviewer's notes, fix the issue or reply with an explanation, and resubmit. Handling rejections until approval is part of our store submission work, not an extra invoice." },
-    { question: "How much does it cost to maintain an app each year?", answer: `Plan for Apple's US$99 yearly fee, backend and third-party service usage, and developer time for OS updates and fixes. Our fixes are free for five months after launch. After that, care plans start at ${P.care}. A small app on a managed backend often has modest hosting bills at first.` },
+    { question: "How much does it cost to maintain an app each year?", answer: `Plan for Apple's US$99 yearly fee, backend and third-party service usage, and developer time for OS updates and fixes. Our fixes are free for two months after launch. After that, care plans start at ${P.care}. A small app on a managed backend often has modest hosting bills at first.` },
     { question: "Can you build an app that takes payments?", answer: "Yes. For physical goods and in-person services we add card and wallet checkout through a payment provider you choose and own. For digital content or features, Apple and Google generally require their own in-app purchase systems, so we plan the payment design around those store rules from the first milestone." },
     { question: "Will an app from an affordable app development company work on older phones?", answer: "It should, and we test for it. Every milestone build runs on older and newer iPhones and budget Android handsets, because many of your customers will not have the latest phone. We agree the minimum iOS and Android versions with you in the estimate, balancing reach against extra testing time." },
     { question: "Do you offer fixed-scope pricing for apps?", answer: "Yes. Each milestone has a written scope and a price you approve before work starts. If you want something outside that scope, we write it up separately with its own price and timing, and you decide whether to add it now or later. Nothing is billed on a verbal request." },

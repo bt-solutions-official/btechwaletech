@@ -36,7 +36,7 @@ const content: CityContent = {
     h1: "Freelance IT services in Tamil Nadu for manufacturers, exporters, clinics, colleges and traders",
     lede:
       "IT services in Tamil Nadu must serve one of India's most industrialised states, from Coimbatore foundries and Tiruppur knitwear exporters to Madurai traders, Trichy engineering suppliers and Salem textile units. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, dealer portals, Tamil-first Android and iOS apps, AI automation, dashboards, stores and SEO websites.",
-    pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "Tamil and English interfaces", "Automation from ₹40,000", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "Tamil and English interfaces", "Automation from ₹40,000", "2 months free maintenance"],
   },
   quickAnswer:
     "IT services in Tamil Nadu from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website (1 to 2 weeks), ₹40,000 for AI automation (2 to 4 weeks) or an Android and iOS app (6 to 10 weeks), ₹50,000 for an online store and ₹60,000 for custom software (6 to 12 weeks). Quotes are itemised in about two working days.",
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp and web chat that answer product, dealer and patient questions in Tamil and English and route real leads to staff.",
     data: "Dashboards pulling from Tally, ERPs and sheets to show orders, production, dispatches and receivables across plants and branches in Tamil Nadu.",
     app: "Android and iOS apps from ₹40,000 for Tamil Nadu: dealer ordering, field service, school and patient apps with Tamil interfaces, published on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Tamil Nadu has everything from global IT services firms to one-person web shops. Mid-sized manufacturers, exporters and institutions often fall between them: too small for big-vendor rates, too complex for a template site. A freelance group of three engineers fills that gap with custom work, written starting prices and direct contact.",
@@ -115,7 +115,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development for Tamil Nadu businesses starts from ₹40,000 with BtechWaleTech and takes six to ten weeks. We build once in Flutter or React Native and publish on Google Play and the Apple App Store, with login, forms, push notifications and an admin panel connected through an API to your existing software.",
         "The apps we see most demand for across Tamil Nadu are B2B and field apps. Dealers of pumps, motors, tiles or FMCG products want to place orders, check schemes and track dispatches. Service engineers for machinery or appliances want job lists, spare part requests and customer signatures on a phone. Schools and colleges want parent and student apps. Hospitals and clinics want appointment and report apps for patients from other districts. Retail brands want loyalty and ordering apps.",
-        "Tamil interfaces matter for dealers, technicians and parents outside the big cities, so we design screens in Tamil and English with proper fonts. Store accounts are registered in your business name. If a mobile website would serve your users just as well, we will recommend it. Updates for new Android and iOS versions are included in the five months of free maintenance.",
+        "Tamil interfaces matter for dealers, technicians and parents outside the big cities, so we design screens in Tamil and English with proper fonts. Store accounts are registered in your business name. If a mobile website would serve your users just as well, we will recommend it. Updates for new Android and iOS versions are included in the two months of free maintenance.",
       ],
       list: [
         "Dealer ordering and scheme app",
@@ -174,7 +174,7 @@ const content: CityContent = {
       heading: "Cloud hosting, DevOps and IT support for Tamil Nadu businesses",
       paragraphs: [
         "BtechWaleTech hosts Tamil Nadu projects on reliable cloud infrastructure such as AWS, with staging environments, automated deployments, daily backups, SSL and uptime monitoring, so updates go live safely and factory or clinic systems stay available even when local power or networks fail.",
-        "The first five months of maintenance after launch are free, covering bug fixes, updates, security patches and performance checks. After that, plans start at ₹8,000 a month, or you can pay per change. Support runs on WhatsApp seven days a week.",
+        "The first two months of maintenance after launch are free, covering bug fixes, updates, security patches and performance checks. After that, plans start at ₹8,000 a month, or you can pay per change. Support runs on WhatsApp seven days a week.",
         "We do not provide on-site hardware or networking; a local technician is still needed for computers, printers and CCTV.",
       ],
     },
@@ -192,7 +192,7 @@ const content: CityContent = {
       heading: "Timelines and how we work with Tamil Nadu clients remotely",
       paragraphs: [
         "Typical timelines are one to two weeks for a static website, three to five weeks for an SEO website, two to four weeks for AI automation, six to ten weeks for an Android and iOS app, four to eight weeks for an online store and six to twelve weeks for custom software; factories often prefer launching after a festival rush or financial year end.",
-        "We work in five steps: a discovery call, an itemised quote in about two working days, weekly builds on a test link, staff training on video calls, and handover with source code, logins, hosting and domain in your name. Then the five months of free maintenance begin.",
+        "We work in five steps: a discovery call, an itemised quote in about two working days, weekly builds on a test link, staff training on video calls, and handover with source code, logins, hosting and domain in your name. Then the two months of free maintenance begin.",
         "You can see sample work on our <a href='/portfolio/'>portfolio</a>, read the <a href='/it-services/tamil-nadu/chennai/'>Chennai page</a>, or visit city pages for <a href='/coimbatore/'>Coimbatore</a> and <a href='/madurai/'>Madurai</a>.",
       ],
       list: [
@@ -200,7 +200,7 @@ const content: CityContent = {
         "Itemised quote in about two working days",
         "Weekly builds on a test link",
         "Training and handover",
-        "Five months of free maintenance",
+        "Two months of free maintenance",
       ],
     },
     {
@@ -261,7 +261,7 @@ const content: CityContent = {
     { question: "Will your chatbot reply in Tamil?", answer: "Yes. AI assistants can reply in Tamil and English, following the user's language. They answer only from information you approve and pass complaints, special pricing and sensitive questions to your staff." },
     { question: "Can you connect with Tally or our existing ERP?", answer: "Often, yes. We can import Tally exports, sync on a schedule where practical, or connect through an ERP's API if available. We prefer extending what already works over replacing it, which reduces disruption for your accounts team." },
     { question: "Who owns the code and data?", answer: "You do. Source code, database, domain, hosting and app store accounts are in your name or transferred at handover. Your data stays with you, and you can move to another developer at any time." },
-    { question: "What is included in free maintenance?", answer: "Five months after launch: bug fixes, updates, security patches, backups, uptime checks and performance monitoring. After that, maintenance starts at ₹8,000 a month, or you pay only for requested changes. Support is on WhatsApp seven days a week." },
+    { question: "What is included in free maintenance?", answer: "Two months after launch: bug fixes, updates, security patches, backups, uptime checks and performance monitoring. After that, maintenance starts at ₹8,000 a month, or you pay only for requested changes. Support is on WhatsApp seven days a week." },
     { question: "How long does SEO take in Tamil Nadu?", answer: "Usually three to six months for steady results, longer in competitive Chennai and Coimbatore markets. Specific B2B product pages and Tamil-language local pages often move sooner. We do not guarantee rankings and report progress monthly." },
     { question: "Can you build AI automation for our factory?", answer: "Yes, for the business side. AI and workflow automation can answer dealer queries, generate order summaries, route service requests, send dispatch updates and compile daily reports. We do not build machine control or safety systems; those need specialist industrial vendors." },
     { question: "Do you work with small shops as well as factories?", answer: "Yes. A static website from ₹10,000 suits shops, clinics and service providers, and many start there before adding WhatsApp automation or an online store. Larger manufacturers usually start with a focused custom tool." },

@@ -56,7 +56,7 @@ const tilhar: CityContent = {
     ai: "WhatsApp assistants that answer rate, fee, timing and stock questions in Hindi and pass anything important to you.",
     data: "Crop-season dashboards of purchases, dues by buyer and farmer, and admission enquiries by month.",
     app: "Apps for Android phones and iPhones that let school parents see notices or let dealers re-order, ₹40,000 onwards, listed on Google Play and the App Store under your account.",
-    maintenance: "The first five months after go-live cost nothing to maintain; later upkeep, backups and fixes begin at ₹8,000 a month.",
+    maintenance: "The first two months after go-live cost nothing to maintain; later upkeep, backups and fixes begin at ₹8,000 a month.",
   },
   whyUsIntro:
     "Tilhar businesses tend to buy carefully and expect straight answers. We publish our starting prices, send a written itemised quote, reply on WhatsApp every day of the week and register your domain, hosting, code and store accounts in your own name. If something will not bring you customers, we tell you before you spend.",
@@ -171,7 +171,7 @@ const tilhar: CityContent = {
       paragraphs: [
         "With no Tilhar office, paper replaces handshakes. The first call is about your trade and what you want to achieve; next comes a written outline of pages or screens, a schedule and a costed quote. When you say yes, you get preview links to open on your own phone and pass around the family. Any Hindi copy comes to you for approval before publishing.",
         "Messages get answers every day, Sunday included, in IST working hours. Should a deadline slip, we inform you the moment we see it coming. Money is released in stages tied to visible work, never before you have approved the quote in writing.",
-        "Ownership stays with you. The domain, the hosting plan, the code, your Google listing and any Play Store or App Store developer account are opened in your name, and every password is handed over on paper or email. For five months after launch we maintain everything free: content changes, backups, security patching and testing of forms and payments. If you want us to continue beyond that, upkeep starts at ₹8,000 a month; if not, you are free to hire anyone else. Apps also receive the annual updates that Google and Apple insist on, so your listing never lapses.",
+        "Ownership stays with you. The domain, the hosting plan, the code, your Google listing and any Play Store or App Store developer account are opened in your name, and every password is handed over on paper or email. For two months after launch we maintain everything free: content changes, backups, security patching and testing of forms and payments. If you want us to continue beyond that, upkeep starts at ₹8,000 a month; if not, you are free to hire anyone else. Apps also receive the annual updates that Google and Apple insist on, so your listing never lapses.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const tilhar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch you pay nothing for upkeep, which includes edits, backups, security fixes and checks on forms and payments. Continuing with us afterwards starts at ₹8,000 a month, and you are equally free to hand the code to someone else.",
+        "For two months after launch you pay nothing for upkeep, which includes edits, backups, security fixes and checks on forms and payments. Continuing with us afterwards starts at ₹8,000 a month, and you are equally free to hand the code to someone else.",
     },
     {
       question: "Do you work in Shahjahanpur, Miranpur Katra and Nigohi too?",

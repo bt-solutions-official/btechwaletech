@@ -383,7 +383,7 @@ const content: FreelanceContent = {
         ["SEO website (299+ pages)", "Service and location pages built for search, 3–5 weeks", P.seoSite],
         ["Small business website", "Up to 100 pages, fast and indexable, 1–2 weeks", P.site],
         ["Ecommerce store", "Store with SEO-ready product and collection templates, 4–8 weeks", P.shop],
-        ["Website care", "Updates and fixes after 5 free months", P.care],
+        ["Website care", "Updates and fixes after 2 free months", P.care],
       ],
     },
   ],

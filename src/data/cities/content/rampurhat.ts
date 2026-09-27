@@ -56,7 +56,7 @@ const rampurhat: CityContent = {
     ai: "Bengali WhatsApp assistants that answer room, rate and order questions and pass bookings or complaints to a person.",
     data: "Dashboards of tonnes dispatched by grade and buyer, room occupancy by festival, or sales by product and month.",
     app: "Android and iOS apps for crusher dispatch staff, lodge guests or a clinic's patients, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for changes, backups and security work.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for changes, backups and security work.",
   },
   whyUsIntro:
     "Rampurhat business runs on trust built over years, often across a counter on Deshbandhu Road or at a crusher office in Pachami. We try to earn it the same way: starting prices in public, a written itemised quote, no billing before approval, WhatsApp answers every day and every account registered in your name, never ours.",
@@ -167,7 +167,7 @@ const rampurhat: CityContent = {
       heading: "Website cost in Rampurhat: starting prices and how to compare quotes",
       paragraphs: [
         "A simple site for a shop, lodge, clinic or class, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website, useful for a coaching group or a trader covering many products and blocks, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
-        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a dispatch system or room booking calendar starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after five free months.",
+        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a dispatch system or room booking calendar starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after two free months.",
         "Your quote rises only with what you choose: Bengali and English versions, many products or rooms, delivery rules, staff logins, Tally or weighbridge links. Each is a line you can keep or remove. If you provide your own text and photos, the cost barely changes.",
         "Local quotes in Birbhum vary widely for similar-sounding jobs. Compare who owns the domain, whether the site is tested on low-cost phones, whether basic SEO is included, how many revisions you get and what support costs after a year. Your itemised quote from us arrives in about two working days; start on our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -186,7 +186,7 @@ const rampurhat: CityContent = {
       heading: "Ownership and maintenance for Rampurhat websites and apps",
       paragraphs: [
         "Whatever we build is yours. The domain is registered on your email, hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you receive a written list of every login.",
-        "The first five months after launch include free maintenance: content changes, backups, security and version updates, and checks that forms, UPI payments and WhatsApp buttons work. After that you can continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
+        "The first two months after launch include free maintenance: content changes, backups, security and version updates, and checks that forms, UPI payments and WhatsApp buttons work. After that you can continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
         "Apps need an update at least once a year because Google and Apple raise their minimum requirements. We watch those deadlines and update early, so your app is not removed from the store.",
       ],
     },
@@ -278,7 +278,7 @@ const rampurhat: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance come free after launch, covering content edits, backups, security and version updates and checks on forms, UPI and WhatsApp links. After that you may stay with us from ₹8,000 a month or move on. The code and accounts are already yours, so switching needs no permission from us.",
+        "Two months of maintenance come free after launch, covering content edits, backups, security and version updates and checks on forms, UPI and WhatsApp links. After that you may stay with us from ₹8,000 a month or move on. The code and accounts are already yours, so switching needs no permission from us.",
     },
     {
       question: "Do you work in Nalhati, Mallarpur and Suri as well?",

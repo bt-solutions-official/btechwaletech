@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["IT consulting first", "Telugu and English", "Apps from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "For IT consulting and IT solutions in Telangana, BtechWaleTech is a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, usually delivered in one to twelve weeks, with five months of maintenance free after launch.",
+    "For IT consulting and IT solutions in Telangana, BtechWaleTech is a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, usually delivered in one to twelve weeks, with two months of maintenance free after launch.",
   snapshot: [
     { label: "Capital and major cities", value: "Hyderabad is the capital; Warangal, Nizamabad, Karimnagar, Khammam, Ramagundam and Mahbubnagar are the next largest urban centres" },
     { label: "Technology hubs", value: "HITEC City, Madhapur, Gachibowli and the Financial District, with T-Hub, T-Works and WE-Hub supporting startups and hardware makers" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "Telugu and English AI agents that answer customers on WhatsApp, capture orders, schedule visits and summarise documents, with staff in control of exceptions.",
     data: "Owner dashboards pulling from Tally, spreadsheets and field apps, showing sales by district, dealer outstanding, stock and collections in one place.",
     app: "Android and iOS apps for Telangana dealers, farmers' advisory teams, field staff and customers, built in Flutter or React Native for Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of maintenance after launch, with optional plans from ₹8,000 a month and WhatsApp replies on all seven days.",
+    maintenance: "Two free months of maintenance after launch, with optional plans from ₹8,000 a month and WhatsApp replies on all seven days.",
   },
   whyUsIntro:
     "In a state full of large IT employers, small Telangana businesses often struggle to get attention from big vendors. Our model is the reverse: three engineers, direct access, published starting prices and projects sized for MSMEs rather than enterprises.",
@@ -197,7 +197,7 @@ const content: CityContent = {
       paragraphs: [
         "IT solutions in Telangana with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after the free period.",
         "These are starting prices. What you finally pay depends on screens, user roles, integrations, offline needs, languages, data migration and content writing. After a consulting call, you receive an itemised estimate in around two working days, and features can be moved to later phases.",
-        "Clients pay only through UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Payments are split into milestones tied to visible progress, with invoices for each. Five months of maintenance come free once hosting is live. See every plan on our <a href='/pricing/'>pricing page</a> and past work in the <a href='/portfolio/'>portfolio</a>.",
+        "Clients pay only through UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. Payments are split into milestones tied to visible progress, with invoices for each. Two months of maintenance come free once hosting is live. See every plan on our <a href='/pricing/'>pricing page</a> and past work in the <a href='/portfolio/'>portfolio</a>.",
       ],
     },
     {
@@ -205,7 +205,7 @@ const content: CityContent = {
       heading: "How we deliver and support Telangana projects remotely",
       paragraphs: [
         "We deliver Telangana projects fully remotely, through video calls, screen shares, WhatsApp and a live preview link, and support them the same way after launch. There is no office in Hyderabad or any district, and we do not make site visits.",
-        "Each project follows the same path: free consultation, itemised quote, a short plan with milestones, a working preview in the first week, weekly updates, testing with your staff, launch on hosting in your name, and training through recorded screen-share videos your team can rewatch in Telugu or English. After launch you get five months of free maintenance and WhatsApp replies seven days a week.",
+        "Each project follows the same path: free consultation, itemised quote, a short plan with milestones, a working preview in the first week, weekly updates, testing with your staff, launch on hosting in your name, and training through recorded screen-share videos your team can rewatch in Telugu or English. After launch you get two months of free maintenance and WhatsApp replies seven days a week.",
         "Remote delivery works for district businesses as well as Hyderabad firms; all you need is WhatsApp and someone who can share files. For printers, networks and CCTV, keep a trusted local technician. You can learn about the three of us on the <a href='/about/'>about page</a>, and for city-level detail see our <a href='/india/telangana/hyderabad/'>Hyderabad IT consulting page</a> or the broader <a href='/india/'>India hub</a>.",
       ],
     },
@@ -288,7 +288,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include?",
       answer:
-        "Five months of free maintenance after hosting goes live cover bug fixes, content updates, security patches, backups, and speed and uptime checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; hardware and network problems need a local technician.",
+        "Two months of free maintenance after hosting goes live cover bug fixes, content updates, security patches, backups, and speed and uptime checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; hardware and network problems need a local technician.",
     },
     {
       question: "Can you connect new software to Tally?",

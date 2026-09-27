@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Customer portal with tracking", `From ${P.software}`],
     ["First launch", "1–2 weeks for a service site"],
     ["Your quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -252,7 +252,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A service-focused freight forwarder website takes about 1–2 weeks once your services, lanes and credentials are confirmed. A lane SEO site takes 3–5 weeks, and a customer portal 6–12 weeks depending on integrations.`,
         `The work runs in clear steps: a WhatsApp or video call on your modes and lanes, an itemised quote, a data sheet you fill in (services, ports, lanes, credentials, documents per service), design and build on a staging link, then launch with forms tested end to end. Most delays come from gathering credential details and lane information, so start those early.`,
-        `Everything is yours: domain, hosting, code, enquiry data and documents. At handover you get every login, the code repository and a renewals list. Maintenance is free for five months, then optional from ${P.care}. Payment stages and confidentiality terms are written into your approved quote; see our <a href='/terms/'>terms</a> for the general position.`,
+        `Everything is yours: domain, hosting, code, enquiry data and documents. At handover you get every login, the code repository and a renewals list. Maintenance is free for two months, then optional from ${P.care}. Payment stages and confidentiality terms are written into your approved quote; see our <a href='/terms/'>terms</a> for the general position.`,
       ],
     },
     {
@@ -329,7 +329,7 @@ const content: FreelanceContent = {
         ["Quote routing and milestone automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Busy teams losing time to follow-ups"],
         ["Mobile app for customers or field staff", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Frequent shippers who want updates on the go"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Growing lane rankings"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, new lanes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, new lanes"],
       ],
       hideSm: [2],
     },
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
       ["Fill the operations data sheet", "Your ops lead lists services, ports, lanes, documents per service and credential details. This sheet drives every service and lane page."],
       ["Review on a staging link", "Pages, quote form and tracking appear on a private link. You test them on your phone and send changes as messages or voice notes."],
       ["Launch with forms tested", "Domain, SSL, Search Console and sitemap are set up, and every quote form path is tested so alerts reach the right person on WhatsApp and email."],
-      ["Five months of free support", `Updates, fixes and small additions such as a new lane are free for five months. After that, maintenance from ${P.care} is optional.`],
+      ["Two months of free support", `Updates, fixes and small additions such as a new lane are free for two months. After that, maintenance from ${P.care} is optional.`],
     ],
   },
   faqHeading: "Freight forwarder website: questions forwarders and CHAs ask",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Can customers download shipping documents from my website?", answer: `Yes, through a customer portal from ${P.software}. Importers log in to see their shipments and download invoices, bills of lading and clearance documents. Documents are stored in your own cloud account with access control and logs of who viewed them. A lighter option is secure links sent by WhatsApp or email at each milestone.` },
     { question: "Can you connect the website to my freight software?", answer: "Often, if the software offers an export, database access or an API. Typical links read shipment status for tracking or push new quote requests into your system. We check what your software allows before quoting, and price the integration as a separate line so you can decide whether it is worth it." },
     { question: "Is a freight forwarder website different from a logistics company website?", answer: "Yes. A logistics company website usually centres on trucking, warehousing and domestic distribution. A freight forwarder website centres on international sea and air shipments, customs clearance, Incoterms, HS codes and overseas agents. Some firms do both and need both sections, but the questions buyers ask are quite different." },
-    { question: "Who owns the website and enquiry data?", answer: `You do. The domain, hosting, code, enquiry records and any stored documents are in your firm’s name, and all logins are handed over at launch. Maintenance is free for five months, then optional from ${P.care}. You can move to another developer at any time with full access to everything.` },
+    { question: "Who owns the website and enquiry data?", answer: `You do. The domain, hosting, code, enquiry records and any stored documents are in your firm’s name, and all logins are handed over at launch. Maintenance is free for two months, then optional from ${P.care}. You can move to another developer at any time with full access to everything.` },
     { question: "Can you automate quote follow-ups and shipment updates?", answer: `Yes. Quote requests can be routed to the right person on WhatsApp with reminders if nobody replies, and customers can receive milestone updates when your team changes a shipment status. An AI step can extract cargo details from emails into draft requests for staff to check. Automation starts at ${P.ai}.` },
     { question: "Do you work with forwarders outside India?", answer: `Yes. Overseas forwarders and agents can work with us remotely, with quotes in USD, service sites from ${P.siteUsd}, and payment by Wise, bank wire or PayPal. We overlap working hours for calls and share progress on staging links. We do not provide local offices or site visits.` },
     { question: "Freight forwarding business ke liye website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath sea, air aur customs pages, quote form aur credentials wali freight forwarder website ${P.site} se shuru hoti hai aur lagbhag 1–2 hafte lagte hain. Lane pages, tracking ya customer portal jodne par kharcha scope ke hisaab se badhta hai. Pehle itemised quote milta hai, approval ke baad hi payment.` },
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freight forwarder website that brings prepared enquiries?",
-    note: `Send your modes, lanes and credentials on WhatsApp. You will get an itemised quote in about two working days, with service sites from ${P.site}, everything registered in your name, and five months of free maintenance after launch.`,
+    note: `Send your modes, lanes and credentials on WhatsApp. You will get an itemised quote in about two working days, with service sites from ${P.site}, everything registered in your name, and two months of free maintenance after launch.`,
   },
 };
 

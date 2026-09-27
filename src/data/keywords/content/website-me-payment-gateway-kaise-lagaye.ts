@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: integration, testing aur handover" },
     { value: "0", label: "Card numbers jo aapki website ke database mein save hote hain" },
-    { value: "5", label: "Mahine ki free maintenance, payment plugin updates samet" },
+    { value: "2", label: "Mahine ki free maintenance, payment plugin updates samet" },
     { value: "2", label: "Working din mein line-by-line quote" },
   ],
   answer: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Booking ya fees portal", note: `Coaching fees, appointment booking ya membership jaise custom payment flow ${P.software} se.`, href: "/services/web-development/", size: "md" },
       { name: "WhatsApp payment reminder", note: "Adhoore checkout ya due payment par WhatsApp reminder, jisme payment link ho.", href: "/whatsapp-payment-reminder-automation/", size: "sm" },
       { name: "Order par WhatsApp alert", note: "Naya order aate hi aapko aur customer ko WhatsApp par jaankari.", href: "/woocommerce-whatsapp-integration/", size: "sm" },
-      { name: "Payment plugin maintenance", note: `Launch ke baad 5 mahine free, phir ${P.care} se; payment plugin update test karke.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Payment plugin maintenance", note: `Launch ke baad 2 mahine free, phir ${P.care} se; payment plugin update test karke.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Yeh kaalpanik misaal hai, kisi asli client ki nahi. Maan lijiye Tiruppur ka ek chhota T-shirt brand abhi Instagram DM par order leta hai aur UPI ID par payment maangta hai. Har din kuch orders aate hain, aur owner ka aadha samay screenshots se payment milane mein jaata hai. Unhe website par seedha checkout chahiye.`,
         `Plan yeh hoga: owner apne proprietorship ke naam par gateway account kholta hai, PAN, current account ka cancelled cheque aur GST certificate ke saath. Saath hi hum WooCommerce store banate hain, jismein size aur colour wale products, terms, privacy, refund aur shipping policy pages hon. Gateway ka official plugin, test keys, webhook, aur test mode mein safal, cancel, decline, browser-band aur refund, paanchon case check.`,
-        `KYC approve hone ke baad live keys, ek chhota asli payment aur refund, phir launch. Order aate hi owner ko WhatsApp alert. Kharcha: store ${P.shop} se, 4–8 hafte; gateway fees owner seedha gateway ko deta hai. Pehle 5 mahine plugin updates aur chhote badlav free. Kitne orders badhenge, iski koi guarantee nahi, par payment milane ka samay bachta hai.`,
+        `KYC approve hone ke baad live keys, ek chhota asli payment aur refund, phir launch. Order aate hi owner ko WhatsApp alert. Kharcha: store ${P.shop} se, 4–8 hafte; gateway fees owner seedha gateway ko deta hai. Pehle 2 mahine plugin updates aur chhote badlav free. Kitne orders badhenge, iski koi guarantee nahi, par payment milane ka samay bachta hai.`,
       ],
     },
   ],
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
       ["Aapka gateway account", "Aap apne naam se gateway par signup aur KYC karte hain; hum screen share par madad karte hain. Test API keys hume share karte hain."],
       ["Integration aur policy pages", "Plugin ya API se checkout, webhook, order emails aur policy pages ka layout. Sab test mode mein, aapki site ke staging copy par agar ho."],
       ["Har case ka test", "Safal, cancel, decline, browser band aur refund: har case ka screenshot ke saath report. Aap bhi apne phone se test karte hain."],
-      ["Live aur handover", "KYC approve hone par live keys, ek chhota asli payment aur refund, phir launch. 5 mahine free support, plugin updates samet."],
+      ["Live aur handover", "KYC approve hone par live keys, ek chhota asli payment aur refund, phir launch. 2 mahine free support, plugin updates samet."],
     ],
   },
   faqHeading: "Website me payment gateway kaise lagaye: aapke sawal",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Payment gateway integration ka kharcha kitna hai?", answer: `Naya online store UPI aur card checkout ke saath hamare saath ${P.shop} se shuru hota hai. Fees portal, booking ya subscription jaisa custom flow ${P.software} se. Maujooda website mein sirf gateway jodna ho toh hum site dekhkar alag quote dete hain. Gateway ki transaction fees aap seedha gateway ko dete hain, woh hamare bill mein nahi hoti.` },
     { question: "Kya cash on delivery aur online payment dono rakh sakte hain?", answer: "Haan. WooCommerce aur Shopify dono mein COD ko ek payment method ke roop mein on kar sakte hain, gateway ke UPI aur card ke saath. Kai Indian stores COD orders ko WhatsApp par confirm karte hain taaki fake orders kam hon, aur prepaid par chhoti chhoot dete hain. Yeh aapke product aur margin par nirbhar hai." },
     { question: "Kya mobile app mein bhi yahi payment gateway chalega?", answer: `Zyada tar gateways ka mobile SDK hota hai, aur wahi merchant account website aur app dono mein kaam kar sakta hai. App mein bhi payment ka final confirmation server par hona chahiye. Google Play aur App Store ki apni policies hain ki digital goods ke liye kaunsa payment use ho; physical products ke liye gateway chalta hai. App hamare saath ${P.app} se.` },
-    { question: "Payment gateway lagne ke baad maintenance kya chahiye?", answer: `Payment plugin aur store ko updated rakhna, har update se pehle backup aur test order, settlement report ko orders se milana, aur SSL auto-renewal check. Hamare saath launch ke baad 5 mahine yeh sab free hai, phir ${P.care} se, sirf agar aap chahein. Saalana kharchon ka poora hisaab website ka yearly kharcha page par hai.` },
+    { question: "Payment gateway lagne ke baad maintenance kya chahiye?", answer: `Payment plugin aur store ko updated rakhna, har update se pehle backup aur test order, settlement report ko orders se milana, aur SSL auto-renewal check. Hamare saath launch ke baad 2 mahine yeh sab free hai, phir ${P.care} se, sirf agar aap chahein. Saalana kharchon ka poora hisaab website ka yearly kharcha page par hai.` },
   ],
   related: {
     heading: "Online store aur payment par aur guides",

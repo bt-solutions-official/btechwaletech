@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Portal types", "Tenant, dealer, supplier, customer"],
     ["Access control", "Roles, per-record rules, audit log"],
     ["Hosting", "Your cloud account, monitored"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and run your app" },
     { value: "2", label: "Working days from brief to itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Licence fees per portal user from us" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Supplier portals", note: "Suppliers upload quotes, confirm purchase orders, submit delivery notes and track payment status without chasing your accounts team.", size: "md" },
       { name: "Internal tools", note: "Approval flows, job trackers, field-team checklists and admin panels that replace the spreadsheet everybody edits at once.", href: "/uae/custom-software-development/", size: "sm" },
       { name: "AI features in portals", note: "Document reading, smart search or an assistant that answers from your own data.", href: "/uae/ai-agent-development/", size: "sm" },
-      { name: "Hosting and care", note: `Monitoring, backups and updates; five months free, then from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
+      { name: "Hosting and care", note: `Monitoring, backups and updates; two months free, then from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -293,7 +293,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Whoever does your web application development in Dubai, you should hold every account and every line of code: the repository, the cloud account, the domain, the email-sending service and any third-party API keys. We set these up in your name at the start, so there is nothing to transfer at the end.`,
         `Handover is a folder, not a meeting. It contains an architecture diagram, the data model, the permissions matrix, deployment steps, a list of every external service with its purpose and billing owner, the backup and restore procedure, and short screen recordings of admin tasks. Any competent developer should be able to take over from that folder.`,
-        `After launch you get five months of free maintenance: bug fixes, dependency updates, monitoring and backup checks. After that, care starts from ${P.care}. New features are quoted separately, so maintenance never quietly becomes an open-ended retainer.`,
+        `After launch you get two months of free maintenance: bug fixes, dependency updates, monitoring and backup checks. After that, care starts from ${P.care}. New features are quoted separately, so maintenance never quietly becomes an open-ended retainer.`,
       ],
     },
     {
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
       ["Design the rules", "A permissions matrix, data model and clickable wireframes for the must-have stories, reviewed with you before any production code is written."],
       ["Build in weekly slices", "Authentication and roles first, then records, portal screens and integrations, shown on a staging link in a weekly video demo."],
       ["Test with your people", "Automated permission tests, realistic-volume load tests and user acceptance testing by your staff and a few friendly external users."],
-      ["Launch and look after it", "Production launch, close monitoring in the first weeks, a handover folder and five months of free maintenance before any care plan begins."],
+      ["Launch and look after it", "Production launch, close monitoring in the first weeks, a handover folder and two months of free maintenance before any care plan begins."],
     ],
   },
   faqHeading: "Web application development company in Dubai: common questions",
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
     { question: "Where will my web application be hosted?", answer: "In a cloud account opened in your name, in a region you choose with your own lawyer's input, often in or near the UAE. We set up managed databases, automated daily backups, private file storage and uptime monitoring. You pay the provider directly, so you always see the running costs and control the account." },
     { question: "Does a UAE web app need to follow data protection law?", answer: "If it holds personal data, very likely yes. The UAE has a federal personal data protection law, and financial free zones such as DIFC have their own. Which applies depends on your licence and your users, so confirm with your lawyer. We build features that support compliance, such as consent records, data export and deletion, encryption and access logs." },
     { question: "Who owns the code of my web application?", answer: "You do. The repository, cloud account, domain and all third-party accounts are set up in your name at the start, so nothing needs transferring later. At launch you also receive a handover folder with the architecture, data model, permissions matrix and deployment steps, so any developer can continue the work." },
-    { question: "What happens after my web app launches?", answer: `We watch the app closely in the first weeks and provide five months of free maintenance: bug fixes, dependency updates, monitoring and backup checks. After that, maintenance starts from ${P.care} if you want us to continue. New features are quoted separately, so you always know what you are paying for.` },
+    { question: "What happens after my web app launches?", answer: `We watch the app closely in the first weeks and provide two months of free maintenance: bug fixes, dependency updates, monitoring and backup checks. After that, maintenance starts from ${P.care} if you want us to continue. New features are quoted separately, so you always know what you are paying for.` },
     { question: "Can you guarantee uptime for my web application?", answer: "We do not give contractual uptime guarantees of our own, because availability depends on the cloud provider and tier you choose. What we do is set up monitoring, alerts, backups and quick rollbacks, and explain the hosting options so you can match cost to how critical the app is. Any service commitments are agreed in your written quote." },
     { question: "How do I pay a web app developer in India from the UAE?", answer: "We quote and invoice in USD. You can pay by Wise, international bank wire or PayPal, according to milestones in the written quote you approve. Nothing is billed before approval. Invoices are issued from India, so check with your accountant how to record them. There are no per-user licence fees from us." },
     { question: "Can my web application work in Arabic?", answer: "Yes. We build front ends that support right-to-left layouts and bilingual content, including Arabic labels on emails, documents and PDFs. You or your translator provide or approve the Arabic text, because accurate business Arabic needs a fluent writer. We test both languages on phones and desktops before launch." },

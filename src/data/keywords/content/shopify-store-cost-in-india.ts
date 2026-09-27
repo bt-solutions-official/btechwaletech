@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Shopify plans", "Basic, Grow, Advanced, Plus"],
     ["Third-party payment fee", "2% Basic · 1% Grow · 0.6% Advanced"],
     ["Shopify Payments in India", "Not available"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Upkeep after that", `From ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Cost layers: build, monthly, per order" },
     { value: "4", label: "Shopify plans listed on its India pricing page" },
-    { value: "5", label: "Months of free maintenance after we launch" },
+    { value: "2", label: "Months of free maintenance after we launch" },
     { value: "0", label: "Markup from us on Shopify, theme or app bills" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Apps (monthly)", value: "The line most likely to grow unnoticed" },
       { label: "Per online order", value: "Provider fee plus Shopify's 2%, 1% or 0.6%" },
       { label: "Domain (yearly)", value: "Renewal paid by you to the registrar" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Custom features", note: `When apps cost more than a one-time build, a custom app from ${P.software} can replace several subscriptions.`, href: "/shopify-app-development/", size: "md" },
       { name: "Theme changes", note: "New sections and templates beyond the theme's settings, quoted per task.", href: "/shopify-theme-customization/", size: "sm" },
       { name: "SEO", note: `Ongoing Shopify SEO from ${P.seo}; optional, and no ranking guarantee.`, href: "/shopify-seo-expert/", size: "sm" },
-      { name: "Upkeep", note: `Free for five months after launch, then from ${P.care} if you want it.`, href: "/services/web-development/", size: "sm" },
+      { name: "Upkeep", note: `Free for two months after launch, then from ${P.care} if you want it.`, href: "/services/web-development/", size: "sm" },
     ],
   },
   comparison: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What our part of the Shopify website cost looks like",
-    note: `The table below lists our starting prices. For a Shopify store the line that matters is ecommerce, from ${P.shop}, covering setup, theme configuration, product upload up to an agreed count, payments, shipping, GST settings and legal pages. Custom Shopify apps sit on the custom software line from ${P.software}, SEO from ${P.seo}, and maintenance from ${P.care} once the five free months end. None of these include Shopify's plan, theme purchases, app subscriptions or payment fees; those you pay directly, and we list them in your quote as expected running costs so the whole Shopify website cost in India is visible on one page.`,
+    note: `The table below lists our starting prices. For a Shopify store the line that matters is ecommerce, from ${P.shop}, covering setup, theme configuration, product upload up to an agreed count, payments, shipping, GST settings and legal pages. Custom Shopify apps sit on the custom software line from ${P.software}, SEO from ${P.seo}, and maintenance from ${P.care} once the two free months end. None of these include Shopify's plan, theme purchases, app subscriptions or payment fees; those you pay directly, and we list them in your quote as expected running costs so the whole Shopify website cost in India is visible on one page.`,
   },
   guideLabel: "Shopify website cost guide",
   guide: [
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
         "<strong>Apps</strong>: list each app, its tier at your expected order volume, times twelve",
         "<strong>Per-order fees</strong>: expected online sales times (provider rate plus Shopify's 2%, 1% or 0.6%)",
         "<strong>Domain</strong>: one renewal",
-        `<strong>Upkeep</strong>: free for the first five months after launch; from ${P.care} afterwards if you want it`,
+        `<strong>Upkeep</strong>: free for the first two months after launch; from ${P.care} afterwards if you want it`,
         `<strong>Marketing</strong>: ads, photography and SEO (from ${P.seo}) are optional but usually the largest growth cost`,
       ],
       after: [`We fill in this sheet with you during the quote so the owner sees the total cost of the store, not just our fee. Courier charges are usually passed to buyers or built into prices, so we list them separately.`],
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is an illustrative scenario, not a client. Say a small skincare brand in Chennai plans 40 products, one founder and one packer, and expects most orders to be prepaid because its buyers are urban and young.`,
         `Build: our ecommerce line from ${P.shop}, with a free theme, product descriptions supplied by the founder and a GST invoice app. Plan: Basic at launch, because two people can share access sensibly and online sales will start well below the Grow break-even. Apps: invoice, courier and reviews only, listed with their tiers at the expected order volume. Per-order: provider fee plus Shopify's 2% on prepaid orders.`,
-        `We would add a trigger to the budget sheet: when monthly online sales approach the Basic-to-Grow break-even, or when a third staff member joins, revisit the plan. After five free months of maintenance, the brand can take upkeep from ${P.care} or run the store themselves. That keeps the Shopify website cost in India predictable in year one and shows exactly when it changes.`,
+        `We would add a trigger to the budget sheet: when monthly online sales approach the Basic-to-Grow break-even, or when a third staff member joins, revisit the plan. After two free months of maintenance, the brand can take upkeep from ${P.care} or run the store themselves. That keeps the Shopify website cost in India predictable in year one and shows exactly when it changes.`,
       ],
     },
     {
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
         ["Apps", "Mostly monthly", "App developers via Shopify", "Varies by app tier and order volume"],
         ["Third-party transaction fee", "Per online order", "Shopify", "2% Basic, 1% Grow, 0.6% Advanced, 0.2% Plus"],
         ["Payment processing", "Per online order", "Your payment provider", "Per the provider's published rates"],
-        ["Maintenance after 5 free months", "Monthly, optional", "BtechWaleTech", `From ${P.care}`],
+        ["Maintenance after 2 free months", "Monthly, optional", "BtechWaleTech", `From ${P.care}`],
         ["SEO (optional)", "Monthly", "BtechWaleTech", `From ${P.seo}`],
       ],
       hideSm: [2],
@@ -379,11 +379,11 @@ const content: FreelanceContent = {
     { question: "How much do Shopify apps cost per month?", answer: "It depends entirely on which apps and which tiers. Many apps have free plans that end once your order count passes a limit, so the bill grows with sales. A typical Indian store needs invoice, courier and reviews apps at launch. Audit the app list twice a year and remove anything unused; apps are where Shopify costs drift most." },
     { question: "When should I upgrade from Shopify Basic to Grow?", answer: "Upgrade when one percent of your monthly online (non-COD) sales exceeds the price gap between the two plans, or when you need more staff accounts. Divide the plan gap by 0.01 to find your break-even sales. At the list prices we checked in September 2026 this was roughly four lakh rupees of online sales a month." },
     { question: "Does Shopify charge a fee on cash on delivery orders?", answer: "Not when COD is set up as a manual payment method. Shopify's help centre page on manual payments says third-party transaction fees are not charged for manual payments, so the 2%, 1% or 0.6% applies only to orders paid online through your provider. Your courier's COD handling charge and return-to-origin costs still apply, so budget for those separately." },
-    { question: "What is the first-year cost of a Shopify store in India?", answer: `Add up the build (from ${P.shop} with us), twelve months of the Shopify plan, any premium theme, each app at your expected tier, per-order fees on expected online sales, and a domain renewal. Maintenance is free for five months after launch with us. We fill in this sheet with you during the quote so the full year is visible.` },
+    { question: "What is the first-year cost of a Shopify store in India?", answer: `Add up the build (from ${P.shop} with us), twelve months of the Shopify plan, any premium theme, each app at your expected tier, per-order fees on expected online sales, and a domain renewal. Maintenance is free for two months after launch with us. We fill in this sheet with you during the quote so the full year is visible.` },
     { question: "Are there hidden costs with Shopify?", answer: "Nothing in the Shopify website cost in India is hidden by Shopify, but owners often miss the third-party transaction fee, app free tiers that expire with volume, leftover app code slowing the theme, refund charges from payment providers, return-to-origin courier costs on COD, and Plus-only features assumed to work on lower plans. Put each on your budget sheet before launch." },
     { question: "How much does Shopify Plus cost in India?", answer: "Shopify lists Plus on its India pricing page with a starting monthly price far above Advanced, aimed at large brands. It lowers the third-party fee to 0.2% and adds checkout extensibility, custom-app Shopify Functions and B2B features. Most Indian stores do not need Plus; it makes sense when those specific features drive revenue." },
     { question: "Can I pay Shopify in rupees?", answer: "Yes. Shopify's India pricing page lists plans in rupees. Your subscription and most app charges appear on one Shopify bill paid by card. Ask your accountant how GST applies to those bills for your business. We do not add any markup to Shopify, theme or app charges because they are paid directly by you." },
-    { question: "How much does Shopify maintenance cost after launch?", answer: `With BtechWaleTech, the first five months after launch include free maintenance for fixes and small changes. After that, maintenance starts at ${P.care} if you want it. Many small stores handle day-to-day work themselves and call a developer only for theme changes or app problems, which is also fine.` },
+    { question: "How much does Shopify maintenance cost after launch?", answer: `With BtechWaleTech, the first two months after launch include free maintenance for fixes and small changes. After that, maintenance starts at ${P.care} if you want it. Many small stores handle day-to-day work themselves and call a developer only for theme changes or app problems, which is also fine.` },
     { question: "Will a cheaper Shopify plan hurt my store's SEO?", answer: "No. Every plan gets the same core SEO features: editable titles and descriptions, clean URLs, sitemaps and structured data through the theme. Rankings depend on content, speed, collection structure and links, not on the plan. What can hurt SEO is app clutter slowing the store, which is a cost issue as much as a speed one." },
     { question: "What does a custom Shopify app cost compared to paying for apps?", answer: `A custom app with BtechWaleTech starts at ${P.software} for a full app, and small integrations from ${P.ai}. It is a one-time build plus hosting you pay directly. It makes financial sense when several subscriptions overlap or when no app handles your rules. For common features, a well-priced App Store app is usually cheaper.` },
     { question: "Shopify website banane ka kharcha kitna hai India mein?", answer: `BtechWaleTech ke saath Shopify store ka build ${P.shop} se shuru hota hai. Iske alawa Shopify ka monthly plan, apps ka kharcha aur har online order par payment provider ki fee aur Shopify ki 2%, 1% ya 0.6% fee lagti hai. Quote ke saath hum poore saal ka kharcha sheet mein likh kar dete hain.` },

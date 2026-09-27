@@ -56,7 +56,7 @@ const vaniyambadi: CityContent = {
     ai: "WhatsApp assistants that answer order and price questions in Tamil, English or Urdu and pass bulk enquiries to the right person.",
     data: "Dashboards that show orders by buyer country, rejection rates by batch and dues by customer from your own sales records.",
     app: "Android and iOS apps from ₹40,000 for biryani ordering, dealer reorders or a school parents' app, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and changes to rates and catalogues.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and changes to rates and catalogues.",
   },
   whyUsIntro:
     "Vaniyambadi owners often hear two kinds of offer: a cheap template from someone who disappears after payment, or a Chennai or Bengaluru agency quoting for work the business does not need. We publish starting prices, send a line-by-line written quote, keep the domain and code in your name and answer on WhatsApp every day of the week.",
@@ -168,7 +168,7 @@ const vaniyambadi: CityContent = {
         "Ecommerce store with UPI and Razorpay: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance: from ₹8,000 a month after five free months",
+        "Maintenance: from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -185,7 +185,7 @@ const vaniyambadi: CityContent = {
       heading: "What you own, and how maintenance works",
       paragraphs: [
         "The domain is registered in your name and the hosting sits in your account. At launch you get the full source code and every password, and the Google Play and App Store developer accounts belong to you. If you later hire a developer in Vellore, Bengaluru or Chennai, they can take over without needing us.",
-        "Maintenance is free for five months after launch and covers security updates, backups, uptime checks and small edits such as new rates, products or timings. After that it starts at ₹8,000 a month and can be stopped at any time. Order and batch data can be exported to Excel whenever you want, and we leave a short handover note explaining renewals and where each account lives.",
+        "Maintenance is free for two months after launch and covers security updates, backups, uptime checks and small edits such as new rates, products or timings. After that it starts at ₹8,000 a month and can be stopped at any time. Order and batch data can be exported to Excel whenever you want, and we leave a short handover note explaining renewals and where each account lives.",
       ],
     },
   ],
@@ -227,7 +227,7 @@ const vaniyambadi: CityContent = {
     {
       question: "Which is the best IT services team in Vaniyambadi for a small business?",
       answer:
-        "Choose a provider who gives a written itemised quote, registers the domain and code in your name and keeps responding after launch. We do all three, publish our starting prices and include five months of free maintenance. We should be clear, though: we are a remote team, not an office in the town.",
+        "Choose a provider who gives a written itemised quote, registers the domain and code in your name and keeps responding after launch. We do all three, publish our starting prices and include two months of free maintenance. We should be clear, though: we are a remote team, not an office in the town.",
     },
     {
       question: "Can you build a website for my tannery that export buyers will trust?",
@@ -272,7 +272,7 @@ const vaniyambadi: CityContent = {
     {
       question: "What happens after launch? Is maintenance included?",
       answer:
-        "The first five months after launch include free maintenance: security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled anytime. The domain, hosting, code and app store accounts remain in your name throughout.",
+        "The first two months after launch include free maintenance: security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled anytime. The domain, hosting, code and app store accounts remain in your name throughout.",
     },
     {
       question: "Vaniyambadi-la website panna evvalavu aagum?",

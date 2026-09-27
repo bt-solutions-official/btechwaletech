@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Large SEO site (299+ pages) from", `${P.seoSite}, 3–5 weeks`],
     ["Languages", "Dutch and English, hreflang in both directions"],
     ["Editor", "Gutenberg blocks; page builder only if you ask"],
-    ["Care plan from", `${P.care} after 5 months free`],
+    ["Care plan from", `${P.care} after 2 months free`],
     ["Quote", "Itemised, in USD, about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Developers who share your WordPress project" },
     { value: "2", label: "Working days to a written, itemised quote" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
     { value: "100", label: "Pages covered by the starting business-site plan" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Language set-up", value: "nl-NL and en versions linked with hreflang" },
       { label: "Privacy", value: "Minimal form fields, consent log, trackers held until opt-in" },
       { label: "Hosting", value: "EU data centre, account registered to you" },
-      { label: "After launch", value: `5 months free care, then from ${P.care}` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "EU hosting and backups", note: "Managed WordPress hosting in an EU data centre on your account, daily off-site backups, and a restore test before handover.", href: "/cloud-hosting-setup-freelancer/", size: "md" },
       { name: "SEO groundwork", note: `Titles, schema, sitemaps, Search Console, Core Web Vitals checks. Ongoing SEO from ${P.seo} a month if you want it.`, href: "/netherlands/technical-seo-services/", size: "sm" },
       { name: "Custom plugins", note: `Booking rules, calculators or CRM hand-offs that no plugin covers, written as a small plugin you own. From ${P.software}.`, href: "/custom-wordpress-plugin-development/", size: "sm" },
-      { name: "Care plan", note: `Staged updates, uptime checks, security scans and small edits, from ${P.care} after five free months.`, href: "/wordpress-maintenance-services/", size: "sm" },
+      { name: "Care plan", note: `Staged updates, uptime checks, security scans and small edits, from ${P.care} after two free months.`, href: "/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -90,13 +90,13 @@ const content: FreelanceContent = {
       ["Hosting ownership", "Your account", "Sometimes the bureau's server", "Always your account, EU data centre"],
       ["Face-to-face meeting", "Not applicable", "Usually possible", "Video calls only"],
       ["Upfront cost", "Lowest cash, most time", "Highest of the three", `From ${P.site}`],
-      ["Updates after launch", "You click update and hope", "Monthly contract", `5 months free, then from ${P.care}`],
+      ["Updates after launch", "You click update and hope", "Monthly contract", `2 months free, then from ${P.care}`],
     ],
     fine: "If you want someone at your kitchen table, native Dutch marketing copy or a full brand identity, a local bureau suits you better; we are a compact remote team focused on the build.",
   },
   pricing: {
     heading: "What WordPress website development costs for a Dutch business",
-    note: `Every figure is a starting price in USD. A business site of up to 100 pages starts from ${P.site} and includes a custom block theme, your service and contact pages, a consent banner, forms, basic schema and hosting set-up on your account. A second language adds work mainly in templates, menus and hreflang; you provide the translated copy. Larger content sites of 299+ pages start from ${P.seoSite}. Custom plugins start from ${P.software}. Premium plugin licences, hosting and your domain are billed to you directly. After five free months, care plans start from ${P.care}. Your quote lists each line so you can drop what you do not need.`,
+    note: `Every figure is a starting price in USD. A business site of up to 100 pages starts from ${P.site} and includes a custom block theme, your service and contact pages, a consent banner, forms, basic schema and hosting set-up on your account. A second language adds work mainly in templates, menus and hreflang; you provide the translated copy. Larger content sites of 299+ pages start from ${P.seoSite}. Custom plugins start from ${P.software}. Premium plugin licences, hosting and your domain are billed to you directly. After two free months, care plans start from ${P.care}. Your quote lists each line so you can drop what you do not need.`,
   },
   guideLabel: "WordPress website development guide for the Netherlands",
   guide: [
@@ -118,7 +118,7 @@ const content: FreelanceContent = {
       id: "diy-vs-professional",
       heading: "DIY WordPress template vs professional WordPress website development: what is the real difference?",
       paragraphs: [
-        "The real difference is not how the homepage looks on launch day; it is what happens in month six. A template looks finished in the demo, but it usually ships with a heavy page builder, twenty bundled plugins, generic markup and no plan for languages, consent or backups.",
+        "The real difference is not how the homepage looks on launch day; it is what happens in month three. A template looks finished in the demo, but it usually ships with a heavy page builder, twenty bundled plugins, generic markup and no plan for languages, consent or backups.",
         "A professional build starts from the business. We map which services earn money, which questions prospects ask, and which pages Google should find. Then the theme is made to serve that plan: lean templates, reusable blocks for your service pages, one form plugin instead of three, and scripts loaded only where they are needed.",
       ],
       subs: [
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
         "Custom functionality, such as calculators, booking rules or CRM links.",
         "Content migration from an old site, especially with redirects.",
         "Premium plugin licences, paid by you in your own name.",
-        "The care plan after the five free months.",
+        "The care plan after the two free months.",
       ],
       after: [
         `Our quote is itemised in USD and arrives in about two working days. Nothing is billed before you approve it in writing. If budget is tight, launch in Dutch first and add English as a second phase; the structure is prepared from day one. More detail sits on <a href='/pricing/'>our pricing page</a>.`,
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       id: "care",
       heading: "What should a WordPress care plan for a Dutch business include?",
       paragraphs: [
-        `A useful care plan covers updates tested on staging, verified backups, uptime and security monitoring, and a set amount of small edits each month. With us the first five months after launch are free; after that, care starts from ${P.care}.`,
+        `A useful care plan covers updates tested on staging, verified backups, uptime and security monitoring, and a set amount of small edits each month. With us the first two months after launch are free; after that, care starts from ${P.care}.`,
         "WordPress core, themes and plugins release updates often, and some fix security issues. Clicking update on the live site works until it does not. We copy the site to staging, run updates, click through forms and key pages in both languages, then apply the same updates live.",
       ],
       list: [
@@ -344,7 +344,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "Picture a hypothetical independent HR consultant in Utrecht who works with Dutch and international companies. She has a one-page template site, gets most work through LinkedIn and wants her site to start producing enquiries on its own.",
         "The plan would be modest. Eight Dutch pages and their English equivalents: home, three services, about, two case articles written from her own experience, and contact. A block theme with four patterns. One form asking for name, company, email and a short question, with no newsletter box. A consent banner, although she might decide to use only privacy-friendly analytics. Hosting in the EU on her account.",
-        `That fits comfortably in the starting plan from ${P.site}, with a build of around one to two weeks once her Dutch copy and translations are ready. Care would be free for five months, then from ${P.care} if she wants us to keep updating it.`,
+        `That fits comfortably in the starting plan from ${P.site}, with a build of around one to two weeks once her Dutch copy and translations are ready. Care would be free for two months, then from ${P.care} if she wants us to keep updating it.`,
       ],
       after: [
         "This is an illustration, not a client story; your scope might be smaller or larger. A similar plan for a recruitment firm would add vacancy pages, covered on our <a href='/netherlands/recruitment-agency-website-design/'>recruitment agency website</a> guide.",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
         ["Content-heavy SEO site", "299+ pages, programmatic templates, schema", P.seoSite, "3–5 weeks"],
         ["WordPress with WooCommerce", "Catalogue, checkout, shipping plugin", P.shop, "4–8 weeks"],
         ["Custom plugin or portal", "Bookings, calculators, member areas, CRM sync", P.software, "6–12 weeks"],
-        ["Care after launch", "Updates, backups, monitoring, small edits", P.care, "Monthly, after 5 free months"],
+        ["Care after launch", "Updates, backups, monitoring, small edits", P.care, "Monthly, after 2 free months"],
       ],
       hideSm: [3],
     },
@@ -451,7 +451,7 @@ const content: FreelanceContent = {
       ["Structure on paper", "Sitemap for both languages, translated slugs, wireframes and a plugin list with a reason for every item, all approved before design starts."],
       ["Staging build", "Block theme, patterns, forms and consent set-up on a private staging URL you can click through and comment on at any time."],
       ["Content, languages, checks", "Your Dutch and English content goes in, hreflang is verified, trackers are tested against the consent banner and speed is measured on mobile."],
-      ["Launch and care", "DNS switch, redirects, Search Console, a restore test and a recorded admin walkthrough, followed by five months of free care."],
+      ["Launch and care", "DNS switch, redirects, Search Console, a restore test and a recorded admin walkthrough, followed by two months of free care."],
     ],
   },
   faqHeading: "WordPress website development in the Netherlands: questions Dutch owners ask",
@@ -467,7 +467,7 @@ const content: FreelanceContent = {
     { question: "Does my WordPress site need a cookie banner in the Netherlands?", answer: "If the site uses non-essential cookies or trackers, such as marketing pixels or most analytics set-ups, you need consent before they load, and refusing must be as easy as accepting. Purely functional cookies, like a language preference, do not need consent but should be mentioned. We configure the banner, block scripts until opt-in and test it in the browser; your adviser confirms your policy." },
     { question: "Where will my WordPress site be hosted?", answer: "On managed WordPress hosting in an EU data centre, usually in the Netherlands or Germany, on an account registered to your business. You pay the host directly. We set up staging, current PHP, HTTPS, daily backups with a second copy stored off the server, and uptime monitoring, then prove a restore works before handing the site over." },
     { question: "Who owns the website when it is finished?", answer: "You do. The domain, hosting account, WordPress administrator login, theme code, custom plugins and premium licences are registered to you from the first day. We work through a separate user account that you can remove whenever you like, and the handover includes documentation and a recorded walkthrough so another developer could take over without guesswork." },
-    { question: "What happens after WordPress website development is finished?", answer: `The first five months of maintenance are free: updates tested on staging, backups checked, uptime monitored and small fixes handled. After that, care plans start from ${P.care}. Larger changes such as new sections, a redesign of one template or a new integration are quoted separately, so you always know what each change costs before it starts.` },
+    { question: "What happens after WordPress website development is finished?", answer: `The first two months of maintenance are free: updates tested on staging, backups checked, uptime monitored and small fixes handled. After that, care plans start from ${P.care}. Larger changes such as new sections, a redesign of one template or a new integration are quoted separately, so you always know what each change costs before it starts.` },
     { question: "Is remote WordPress website development from India safe for a Dutch business?", answer: "It is as safe as the set-up you insist on. Keep hosting, domain and admin accounts in your name, pay in milestones against visible work on staging, and ask for documentation. We work that way by default. You see progress on a staging URL throughout, and nothing is billed before written approval of the quote." },
     { question: "How do we communicate across time zones?", answer: "India is three and a half hours ahead of the Netherlands in summer and four and a half in winter. Dutch mornings and early afternoons overlap with our working hours, so video calls fit easily. WhatsApp messages are answered seven days a week, and requests sent late in your afternoon are often finished by the next morning." },
     { question: "How do I pay, and in which currency?", answer: "Quotes are in USD and paid in milestones by Wise, bank wire or PayPal. Invoices are issued from India. How you book them in your administration is a question for your accountant. Payment terms and milestone splits are written into your quote, and our general terms are on the terms page of this site." },

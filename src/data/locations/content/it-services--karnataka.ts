@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["MVPs and web apps from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents from ₹40,000", "Kannada and English", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "IT services in Karnataka from BtechWaleTech, a remote freelance group of three engineers, start at ₹10,000 for a website (1–2 weeks), ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or an MVP (6–12 weeks). Quotes are itemised in about two working days, with five months of free maintenance.",
+    "IT services in Karnataka from BtechWaleTech, a remote freelance group of three engineers, start at ₹10,000 for a website (1–2 weeks), ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or an MVP (6–12 weeks). Quotes are itemised in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Tech capital", value: "Bengaluru, India's largest technology hub, with Electronic City, Whitefield, Outer Ring Road and Manyata Tech Park" },
     { label: "Beyond Bengaluru", value: "State efforts to grow technology clusters in Mysuru, Mangaluru and the Hubballi–Dharwad–Belagavi belt" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that answer customers in Kannada and English, read documents, qualify leads and automate follow-ups, with human review where it matters.",
     data: "Dashboards that pull from Tally, spreadsheets, ERPs and product databases for founders, plant owners and estate managers.",
     app: "Android and iOS apps from ₹40,000 for Karnataka startups, stores, estates and institutes, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Karnataka has thousands of software firms, so the question is not whether you can find a developer but whether you can find one who is direct, affordable and accountable. We are three engineers with published starting prices, itemised quotes and complete handover of code and accounts.",
@@ -75,7 +75,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Karnataka, for startups and small or mid-sized businesses, include MVP and product development, custom software and portals, Android and iOS apps, AI agents and automation, data dashboards, cloud hosting, online stores, websites and SEO in Kannada and English, and ongoing maintenance. The state's large technology industry mostly serves global clients; local businesses often need a partner sized for their projects.",
         "Karnataka's economy is far broader than Bengaluru's IT corridors. Manufacturers fill industrial areas from Peenya to Belagavi. Coffee estates cover the Western Ghats in Kodagu and Chikkamagaluru. Silk flows from Ramanagara's cocoon market to Mysuru's looms. Coastal Mangaluru and Udupi combine port trade, education, healthcare and a large diaspora. Hubballi–Dharwad is a trade and education centre for north Karnataka, and Kalaburagi and Ballari anchor the Kalyana Karnataka region.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Karnataka and do not claim one; we work through WhatsApp, calls and shared test links. Starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and five months of maintenance are included after launch. City-specific detail is on our pages for <a href='/bengaluru/'>Bengaluru</a>, <a href='/mysore/'>Mysuru</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/hubli-dharwad/'>Hubballi–Dharwad</a>.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Karnataka and do not claim one; we work through WhatsApp, calls and shared test links. Starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and two months of maintenance are included after launch. City-specific detail is on our pages for <a href='/bengaluru/'>Bengaluru</a>, <a href='/mysore/'>Mysuru</a>, <a href='/mangaluru/'>Mangaluru</a> and <a href='/hubli-dharwad/'>Hubballi–Dharwad</a>.",
       ],
     },
     {
@@ -192,14 +192,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and DevOps mean running your applications on managed infrastructure with automated deployments, backups, monitoring and access controls, so software stays fast, secure and recoverable. For startups it also means an architecture that can grow without a rewrite.",
         "We deploy static sites on global content networks and applications on AWS, Vercel or similar providers, often in Indian regions, with HTTPS, role-based access, two-factor authentication for administrators, daily database backups with tested restores, and version-controlled releases that can be rolled back. We follow sensible practices for personal data under India's Digital Personal Data Protection Act, 2023, such as collecting only what is needed and restricting access, while your organisation remains responsible for its own compliance decisions.",
-        "All accounts are registered to you, and hosting bills come directly from providers. Every project includes five months of maintenance after launch, then plans from ₹8,000 a month or pay-per-change, with WhatsApp replies seven days a week. Read more on our <a href='/services/'>services page</a>.",
+        "All accounts are registered to you, and hosting bills come directly from providers. Every project includes two months of maintenance after launch, then plans from ₹8,000 a month or pay-per-change, with WhatsApp replies seven days a week. Read more on our <a href='/services/'>services page</a>.",
       ],
     },
     {
       id: "cost-it-services-karnataka",
       heading: "How much do IT services in Karnataka cost with a freelance team?",
       paragraphs: [
-        "With BtechWaleTech, IT services in Karnataka start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or an MVP, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
+        "With BtechWaleTech, IT services in Karnataka start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software or an MVP, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after two free months.",
         "Bengaluru agency quotes are often much higher, reflecting office costs and larger teams, while very cheap quotes usually mean templates and no handover. When comparing, check ownership of code and accounts, whether SEO and hosting are included, what support costs after launch, and who actually writes the code. Phasing a build keeps early costs down.",
         "You receive an itemised quote in about two working days and approve it before work starts. Payments to us are only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],
@@ -259,7 +259,7 @@ const content: CityContent = {
     {
       question: "What do IT services in Karnataka cost with you?",
       answer:
-        "A website starts at ₹10,000, a 299+ page SEO website at ₹20,000, AI automation or an Android and iOS app at ₹40,000, an online store at ₹50,000 and custom software or an MVP at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. Quotes are itemised before you approve.",
+        "A website starts at ₹10,000, a 299+ page SEO website at ₹20,000, AI automation or an Android and iOS app at ₹40,000, an online store at ₹50,000 and custom software or an MVP at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months. Quotes are itemised before you approve.",
     },
     {
       question: "How much does an Android and iOS app cost in Karnataka?",
@@ -282,9 +282,9 @@ const content: CityContent = {
         "You do. The code repository, hosting, domain, database and Google Play and App Store developer accounts are registered to your business or transferred at handover, with documentation. No licence fee is owed to us, and another developer or your in-house team can take over with full access.",
     },
     {
-      question: "What does the five-month free maintenance include?",
+      question: "What does the two-month free maintenance include?",
       answer:
-        "Bug fixes, small changes, content updates, security and dependency updates, backups, uptime checks and basic SEO health checks for five months after launch. After that, plans start from ₹8,000 a month, or you can pay per change request.",
+        "Bug fixes, small changes, content updates, security and dependency updates, backups, uptime checks and basic SEO health checks for two months after launch. After that, plans start from ₹8,000 a month, or you can pay per change request.",
     },
     {
       question: "Can you build an MVP for our Bengaluru startup?",

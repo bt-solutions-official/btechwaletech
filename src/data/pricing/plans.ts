@@ -89,16 +89,16 @@ export const pricingNote =
 
 /** Shared offer wording so every page states the same thing. */
 export const endToEndOffer =
-  "Every project is handled end to end: planning, design, development, SEO setup, hosting, and deployment. Once hosting is live you also get 5 months of maintenance included free, covering content updates, bug fixes, backups, and performance checks.";
+  "Every project is handled end to end: planning, design, development, SEO setup, hosting, and deployment. Once hosting is live you also get 2 months of maintenance included free, covering content updates, bug fixes, backups, and performance checks.";
 
 export const endToEndFaq = {
   question: "Do you handle everything end to end, including hosting and deployment?",
   answer:
-    "Yes. We take a project from the first planning conversation through design, development, SEO setup, hosting, and deployment, so you are not coordinating between different providers. After hosting goes live you get 5 months of maintenance included free, covering content updates, bug fixes, backups, security checks, and performance monitoring.",
+    "Yes. We take a project from the first planning conversation through design, development, SEO setup, hosting, and deployment, so you are not coordinating between different providers. After hosting goes live you get 2 months of maintenance included free, covering content updates, bug fixes, backups, security checks, and performance monitoring.",
 };
 
 export const freeMaintenanceFaq = {
-  question: "What is included in the 5 months of free maintenance?",
+  question: "What is included in the 2 months of free maintenance?",
   answer:
-    "After your site is hosted and live, the next 5 months of maintenance are included at no extra cost. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After those 5 months you can continue on a monthly plan from ₹8,000 (US$120) or simply contact us when something needs changing.",
+    "After your site is hosted and live, the next 2 months of maintenance are included at no extra cost. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After those 2 months you can continue on a monthly plan from ₹8,000 (US$120) or simply contact us when something needs changing.",
 };

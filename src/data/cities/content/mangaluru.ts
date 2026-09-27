@@ -31,11 +31,11 @@ const mangaluru: CityContent = {
     eyebrow: "Mangaluru · Karnataka",
     h1: "Websites, search and automation for Mangaluru's exporters, hospitals and colleges",
     lede:
-      "Mangaluru ships India's coffee and cashew through its port, trains doctors and engineers by the thousand and still runs on family businesses in Hampankatta and Bunder. We are three remote engineers building fast websites, export catalogues and WhatsApp automations for them, with public prices and five months of free maintenance after launch.",
+      "Mangaluru ships India's coffee and cashew through its port, trains doctors and engineers by the thousand and still runs on family businesses in Hampankatta and Bunder. We are three remote engineers building fast websites, export catalogues and WhatsApp automations for them, with public prices and two months of free maintenance after launch.",
     pills: ["Sites from ₹10,000", "Export-ready catalogues", "Hospital and college sites", "Tulu, Konkani, Kannada, English", "UPI stores for coastal brands"],
   },
   quickAnswer:
-    "Our Mangaluru websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, built in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Mangaluru office, and the first five months of maintenance after launch are free.",
+    "Our Mangaluru websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, built in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Mangaluru office, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "Port and energy", value: "New Mangalore Port at Panambur, MRPL (Karnataka's only refinery) and the ONGC-Mangalore SEZ" },
     { label: "Industrial estate", value: "Baikampady, with cashew processing, engineering, leaf springs, hollow blocks and pharma units" },
@@ -52,7 +52,7 @@ const mangaluru: CityContent = {
     ai: "WhatsApp assistants for hospitals, colleges and shops that handle routine questions in English, Kannada or Hindi and pass complex cases to staff.",
     data: "Shipment, grading and sales dashboards that bring export paperwork and domestic orders into one view.",
     app: "Android and iOS apps for admissions, patient appointments and delivery tracking, available on Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mangaluru has capable web firms, but many quote only after long meetings and hand over sites nobody can edit. We publish our starting prices, keep the same three engineers on your project throughout, and reply on WhatsApp seven days a week, so a hospital administrator or an exporter gets answers without chasing.",
@@ -174,11 +174,11 @@ const mangaluru: CityContent = {
     },
     {
       id: "ownership-mangaluru",
-      heading: "Full ownership and five months of free maintenance",
+      heading: "Full ownership and two months of free maintenance",
       paragraphs: [
         "Many older Mangaluru websites are stuck: the domain was registered by a developer who moved to Bengaluru or the Gulf, the hosting renewal goes to an old email, or a site builder will not export the content. Recovering access takes weeks.",
         "We set everything up in your name from the beginning. You own the domain, the hosting account and the source code, and at launch you receive every login with a short note explaining where things live. You can switch developers whenever you like, with no exit fee.",
-        "The first five months after launch include free maintenance: content and price edits, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can contact us only when needed.",
+        "The first two months after launch include free maintenance: content and price edits, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
     {
@@ -274,7 +274,7 @@ const mangaluru: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "For five months after launch we handle content and price edits, bug fixes, security and dependency updates, backups, uptime checks and speed tests at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content and price edits, bug fixes, security and dependency updates, backups, uptime checks and speed tests at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Udupi, Puttur and Kasaragod?",

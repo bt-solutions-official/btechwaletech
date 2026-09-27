@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Monthly reporting", note: "GA4 key events, Search Console clicks and queries, and a task log, explained in a short written summary.", size: "md" },
       { name: "AI search groundwork", note: "Answer-first sections, schema and crawler access checks so AI tools can read and cite your pages.", href: "/uk/ai-search-optimisation/", size: "md" },
       { name: "Authority building", note: "Links and mentions you could defend in public: trade bodies, partners, useful resources. No bought link bundles.", size: "sm" },
-      { name: "Site care alongside SEO", note: `Updates, backups and uptime checks from ${P.care}, after five free months on sites we build.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Site care alongside SEO", note: `Updates, backups and uptime checks from ${P.care}, after two free months on sites we build.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -287,7 +287,7 @@ const content: FreelanceContent = {
         "Quarterly review of results and plan.",
       ],
       after: [
-        `What it does not include: bought links, ranking promises, office visits or legal advice. If you need a sales team of account managers and weekly meetings, a larger retainer suits you better. Sites we build also get five months of free maintenance after launch; for existing sites, care plans start from ${P.care}.`,
+        `What it does not include: bought links, ranking promises, office visits or legal advice. If you need a sales team of account managers and weekly meetings, a larger retainer suits you better. Sites we build also get two months of free maintenance after launch; for existing sites, care plans start from ${P.care}.`,
       ],
     },
     {
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
     { question: "Is content writing included in your monthly SEO plan?", answer: "Yes, scoped in your quote. We plan pages and articles from real search data, write in UK English, draft from your input and publish only after your approval. The number per month depends on what gaps your site has and your budget, not on a fixed tier count." },
     { question: "How do I pay for monthly SEO with you from the UK?", answer: "You receive a USD invoice each month. Most UK clients pay from sterling through Wise, and bank wire or PayPal also work. Nothing is billed until you approve the quote in writing, and your accountant can advise on how overseas services are treated for VAT." },
     { question: "What happens to my content and accounts if I cancel?", answer: "They stay yours. Your domain, hosting, Google accounts, profiles and every page we wrote remain in your name. We finish or pause work in progress as agreed in your quote, remove our access and hand over the task log so the next person can see the full history." },
-    { question: "Can you build a new website as part of an SEO package?", answer: `A rebuild is usually a separate project because it is a one-off piece of work. Static sites with us start from ${P.site}, and larger sites planned for search from ${P.seoSite}. After launch, sites we build get five months of free maintenance, then monthly SEO can continue on a clean foundation.` },
+    { question: "Can you build a new website as part of an SEO package?", answer: `A rebuild is usually a separate project because it is a one-off piece of work. Static sites with us start from ${P.site}, and larger sites planned for search from ${P.seoSite}. After launch, sites we build get two months of free maintenance, then monthly SEO can continue on a clean foundation.` },
     { question: "How do I compare two SEO proposals fairly?", answer: "Put them in the same grid: monthly deliverables, who does each task, whether fixes are implemented, what the report measures, contract term, notice and ownership. Ask each provider to show a real task log and sample report. The better proposal is the one with more verifiable work, not the longer document." },
   ],
   related: {

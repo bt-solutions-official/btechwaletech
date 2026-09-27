@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Bokaro Steel City · Chas · Jharkhand",
     h1: "Freelance software developers in Bokaro for schools, plant contractors and Chas businesses",
     lede:
-      "If you are shortlisting a software development team in Bokaro, compare it with BtechWaleTech, a freelance group of three engineers working remotely from India. We build school management systems and bus-tracking apps, contractor work-order and manpower tools, Balidih inventory software, Android and iOS apps, AI automation, dashboards and websites for the sectors, Chas and the wider district, with published starting prices and five months of free maintenance.",
+      "If you are shortlisting a software development team in Bokaro, compare it with BtechWaleTech, a freelance group of three engineers working remotely from India. We build school management systems and bus-tracking apps, contractor work-order and manpower tools, Balidih inventory software, Android and iOS apps, AI automation, dashboards and websites for the sectors, Chas and the wider district, with published starting prices and two months of free maintenance.",
     pills: ["School ERP and apps", "Contractor software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Searching for a software development team in Bokaro? BtechWaleTech is a freelance group of three remote engineers. School, contractor and inventory software starts at ₹60,000 (6–12 weeks), Android and iOS apps and AI automation at ₹40,000, websites at ₹10,000 and online stores at ₹50,000. You get an itemised quote in about two working days and five months of free maintenance.",
+    "Searching for a software development team in Bokaro? BtechWaleTech is a freelance group of three remote engineers. School, contractor and inventory software starts at ₹60,000 (6–12 weeks), Android and iOS apps and AI automation at ₹40,000, websites at ₹10,000 and online stores at ₹50,000. You get an itemised quote in about two working days and two months of free maintenance.",
   snapshot: [
     { label: "City origin", value: "A planned township built around SAIL's Bokaro Steel Plant, set up with Soviet collaboration from the late 1960s" },
     { label: "Layout", value: "Numbered residential sectors with City Centre in Sector 4 as the main commercial hub" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that answer admission and fee questions, sort contractor paperwork and chase overdue bills on WhatsApp in Hindi and English.",
     data: "Dashboards for fee collection, work-order billing, stock value and branch sales that principals and owners can check on a phone.",
     app: "Android and iOS apps from ₹40,000 for Bokaro schools, parents, contractors and shops, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Bokaro is a planned city that values order: numbered sectors, timetables, school discipline. We bring the same to software work, with three engineers, a written scope, starting prices you can check in advance and systems that are handed over completely.",
@@ -73,7 +73,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Bokaro, or a freelance team serving Bokaro clients, mostly builds school management systems and parent apps, work-order and manpower software for steel plant contractors, inventory and billing tools for Chas traders and Balidih units, lab and clinic apps, AI automation, dashboards and websites. The aim is to move records out of registers and WhatsApp groups into systems that are accurate and easy to search.",
         "Bokaro Steel City grew as a planned township around SAIL's steel plant, with numbered sectors and City Centre in Sector 4 as the commercial hub. Next door, Chas developed as a busy private market town. Around the plant operate hundreds of contractors and suppliers, while the Balidih Industrial Area hosts ancillary units. The city is also known in Jharkhand for its schools, which draw students from surrounding districts, and for healthcare anchored by Bokaro General Hospital.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Bokaro. We state that plainly and work through WhatsApp, calls and test links. Starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and five months of maintenance are included after launch. The <a href='/bokaro-steel-city/'>Bokaro Steel City page</a> covers websites and local SEO in more detail.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Bokaro. We state that plainly and work through WhatsApp, calls and test links. Starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and two months of maintenance are included after launch. The <a href='/bokaro-steel-city/'>Bokaro Steel City page</a> covers websites and local SEO in more detail.",
       ],
     },
     {
@@ -188,16 +188,16 @@ const content: CityContent = {
       id: "cloud-maintenance-bokaro",
       heading: "Hosting, security and maintenance after launch",
       paragraphs: [
-        "Cloud hosting keeps your Bokaro system on managed servers with backups, security updates and monitoring, which is more dependable than a computer in the school office or shop that can fail during a power cut. Every project includes five months of maintenance after launch covering fixes, small changes, updates, backups and uptime checks.",
+        "Cloud hosting keeps your Bokaro system on managed servers with backups, security updates and monitoring, which is more dependable than a computer in the school office or shop that can fail during a power cut. Every project includes two months of maintenance after launch covering fixes, small changes, updates, backups and uptime checks.",
         "Our setups use HTTPS, role-based access, two-factor authentication for administrators, daily database backups with tested restores and version-controlled releases. Student and patient data is protected with restricted access and audit logs, and hosted in Indian regions where preferred. Accounts are registered to you, and hosting bills come directly from the provider.",
-        "After five months, maintenance starts from ₹8,000 a month, or you can pay per change. We reply on WhatsApp seven days a week, which matters during admission season and exam results. As a remote freelance group we look after software and hosting; computers, printers and networks need a local technician. See our <a href='/services/'>services page</a> for more.",
+        "After two months, maintenance starts from ₹8,000 a month, or you can pay per change. We reply on WhatsApp seven days a week, which matters during admission season and exam results. As a remote freelance group we look after software and hosting; computers, printers and networks need a local technician. See our <a href='/services/'>services page</a> for more.",
       ],
     },
     {
       id: "cost-bokaro-software",
       heading: "Software development cost in Bokaro: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Bokaro are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for school, contractor, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months.",
+        "Our starting prices for Bokaro are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for school, contractor, inventory or other custom software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after two free months.",
         "Costs depend on modules, users, data migration and integrations. A school system for one campus with fees and attendance is simpler than a multi-branch system with transport, exams and a parent app. Starting with the module that saves the most time, then adding others, spreads cost and lets staff adjust gradually.",
         "You receive an itemised quote in about two working days, and work begins only after written approval. Payment to us is only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],
@@ -274,9 +274,9 @@ const content: CityContent = {
         "You do. The code repository, hosting account, domain, database and the Google Play and App Store developer accounts are registered to your school or business, or transferred at handover. No licence fee is owed to us. Another developer can take over with full access if you ever choose.",
     },
     {
-      question: "What is included in the five free months of maintenance?",
+      question: "What is included in the two free months of maintenance?",
       answer:
-        "Bug fixes, small changes, content updates, security and dependency updates, backups, uptime checks and basic SEO health checks for five months after launch. After that, plans start from ₹8,000 a month, or you can pay per change request.",
+        "Bug fixes, small changes, content updates, security and dependency updates, backups, uptime checks and basic SEO health checks for two months after launch. After that, plans start from ₹8,000 a month, or you can pay per change request.",
     },
     {
       question: "Can AI answer admission enquiries for our school?",

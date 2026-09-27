@@ -56,7 +56,7 @@ const sidhi: CityContent = {
     ai: "Hindi WhatsApp assistants that reply to fee, stock and appointment questions at night and pass the real decisions to you in the morning.",
     data: "Simple dashboards for dealers and contractors showing dues, stock and monthly sales by tehsil.",
     app: "Android and iOS apps for coaching students, patient tokens or dealer orders from village retailers, from ₹40,000 and published on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then support from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two free months of maintenance after launch, then support from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Businesses in Sidhi usually have one question first: who will actually answer when something breaks? We reply on WhatsApp seven days a week, put every cost in writing before work starts, and register the domain, hosting, code and store accounts in your own name so you are never locked to us.",
@@ -180,7 +180,7 @@ const sidhi: CityContent = {
       heading: "Who owns your Sidhi website or app, and how it is maintained",
       paragraphs: [
         "A common story in smaller towns: a developer builds a site, registers the domain in his own name, and then stops answering calls. The business owner loses the site and the Google ranking with it. We avoid this by setting up the domain, hosting, Google accounts, Play Console and App Store developer accounts in your name from day one. You get the passwords and a copy of the source code.",
-        "Every project includes five months of free maintenance after launch. That covers bug fixes, small content edits, security updates and backups. After that, maintenance continues from ₹8,000 a month if you want us to keep looking after it, or you can hand it to anyone else with full access.",
+        "Every project includes two months of free maintenance after launch. That covers bug fixes, small content edits, security updates and backups. After that, maintenance continues from ₹8,000 a month if you want us to keep looking after it, or you can hand it to anyone else with full access.",
         "For apps, maintenance matters more than people expect. Google and Apple update their rules every year, and an app that is not updated can be removed from the stores. We keep a note of those deadlines so you are not caught out. Learn more about our <a href=\"/services/web-development/\">web development work</a>.",
       ],
     },
@@ -253,7 +253,7 @@ const sidhi: CityContent = {
     {
       question: "What happens after my website or app is launched?",
       answer:
-        "You get five months of free maintenance covering fixes, small edits, backups and security updates. After that, maintenance starts at ₹8,000 a month if you want us to continue. You hold every login and the source code, so you can also move the work to another developer at any time.",
+        "You get two months of free maintenance covering fixes, small edits, backups and security updates. After that, maintenance starts at ₹8,000 a month if you want us to continue. You hold every login and the source code, so you can also move the work to another developer at any time.",
     },
     {
       question: "Do you work with businesses in Rewa, Singrauli and nearby towns?",

@@ -39,10 +39,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Indore for web apps, SaaS MVPs and AI automation",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India, hired by Indore founders, distributors, manufacturers and institutes who might otherwise approach a software development team in Indore. We build web applications, SaaS MVPs, mobile apps, AI agents, WhatsApp automations and dashboards, and we also handle hosting, SEO and support.",
-    pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "SaaS MVPs for startups", "Tally and WhatsApp integrations", "5 months free maintenance"],
+    pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "SaaS MVPs for startups", "Tally and WhatsApp integrations", "2 months free maintenance"],
   },
   quickAnswer:
-    "Instead of a software development team in Indore, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. You get an itemised quote in about two working days and five months of free maintenance.",
+    "Instead of a software development team in Indore, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. You get an itemised quote in about two working days and two months of free maintenance.",
   snapshot: [
     { label: "Tech corridors", value: "Crystal IT Park, the Super Corridor with large IT campuses, and IT SEZ developments near the airport side of the city" },
     { label: "Startup and office belt", value: "Vijay Nagar, Scheme 54, AB Road, Palasia and Bhawarkua, with coworking spaces and incubators" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp Business API flows that qualify leads, answer Hindi and English queries and update your CRM automatically.",
     data: "Dashboards for soybean processors, FMCG distributors and multi-branch retailers, fed from Tally, spreadsheets or your app database.",
     app: "Android and iOS apps for Indore distributors, startups, coaching institutes and clinics, built once in Flutter or React Native, starting at ₹40,000.",
-    maintenance: "Monitoring, backups, security updates and small changes, free for five months after launch and from ₹8,000 a month later.",
+    maintenance: "Monitoring, backups, security updates and small changes, free for two months after launch and from ₹8,000 a month later.",
   },
   whyUsIntro:
     "Indore has hundreds of IT firms, from large delivery centres on the Super Corridor to small studios in Vijay Nagar. Owners still tell us the same things: quotes are vague, the developer changes mid-project, and nobody answers after launch. A small freelance group with named engineers fixes most of that.",
@@ -179,7 +179,7 @@ const content: CityContent = {
       paragraphs: [
         "Every application we deliver for Indore clients is deployed to cloud hosting with HTTPS, automated backups, uptime monitoring and a scripted deployment pipeline, with the cloud account registered to the client. This avoids the common Indore story of software stuck on one office server or a developer's personal account.",
         "Typical infrastructure is AWS or a similar provider, a managed PostgreSQL database, object storage for files and a CI pipeline that deploys tested code with a rollback option. Secrets are kept out of the codebase, admin access uses strong passwords and role-based permissions, and database backups are tested by actually restoring them.",
-        "For startups, we also set sensible cost controls so the cloud bill does not surprise you as usage grows. For businesses with on-premises systems like a local Tally server, we connect securely rather than forcing a migration. Hosting setup and deployment are included in every project, followed by five months of free maintenance.",
+        "For startups, we also set sensible cost controls so the cloud bill does not surprise you as usage grows. For businesses with on-premises systems like a local Tally server, we connect securely rather than forcing a migration. Hosting setup and deployment are included in every project, followed by two months of free maintenance.",
       ],
     },
     {
@@ -213,7 +213,7 @@ const content: CityContent = {
       id: "support-handover-indore",
       heading: "IT support, maintenance and handover for Indore clients",
       paragraphs: [
-        "Every Indore project includes five months of free maintenance after launch, covering bug fixes, small changes, security patches, backups and uptime monitoring, followed by optional support from ₹8,000 a month. At handover, the client owns the code repository, cloud account, domain and every admin login.",
+        "Every Indore project includes two months of free maintenance after launch, covering bug fixes, small changes, security patches, backups and uptime monitoring, followed by optional support from ₹8,000 a month. At handover, the client owns the code repository, cloud account, domain and every admin login.",
         "Support is remote, over WhatsApp, calls and screen share, seven days a week. We do not have an Indore office and do not claim one. What you get instead is the engineers who wrote your system answering your messages. Changes that take minutes are done quickly; larger features are quoted first so there are no surprise bills.",
         "Handover includes documentation of the architecture, deployment steps and admin tasks, so another developer or your future in-house team can continue without us. Our <a href='/it-services/madhya-pradesh/'>Madhya Pradesh IT services hub</a> covers the rest of the state, and nearby cities such as <a href='/ujjain/'>Ujjain</a> and <a href='/bhopal/'>Bhopal</a> are served in the same way. You can also <a href='/contact/'>contact us</a> directly.",
       ],
@@ -286,7 +286,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month, or you can pay per change. New modules are always quoted before work starts, so there are no surprise bills.",
+        "Two months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month, or you can pay per change. New modules are always quoted before work starts, so there are no surprise bills.",
     },
     {
       question: "How long before SEO shows results for an Indore business?",

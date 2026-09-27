@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Design", "Kept, as a custom WordPress theme"],
     ["URLs", "Kept where possible, otherwise 301-redirected"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "100", label: "Pages covered by the starting website plan" },
     { value: "2", label: "Working days to audit your HTML site and quote" },
-    { value: "5", label: "Months of free maintenance after the switch-over" },
+    { value: "2", label: "Months of free maintenance after the switch-over" },
     { value: "3", label: "Developers: one converts, one checks redirects, one manages" },
   ],
   answer: {
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the result: the theme’s source code, the WordPress site, the hosting account, the domain and any plugin licences. We set them up in your name and hand over administrator access on launch day.`,
         `Hosting needs change slightly. A static site can run anywhere; WordPress needs PHP and a database. WordPress.org currently recommends PHP 8.3 or greater, MySQL 8.0 or greater or MariaDB 10.11 or greater, and HTTPS support. Most reputable Indian and international hosts meet that; if yours does not, we help you choose and move.`,
-        `Unlike static HTML, WordPress needs regular updates, backups stored off the server and basic security settings. The first 5 months of maintenance after launch are free with us; after that, plans start at ${P.care} (${P.careUsd}). A lean custom theme with few plugins keeps that work light. See <a href='/wordpress-maintenance-services/'>WordPress maintenance services</a> for what a proper plan includes.`,
+        `Unlike static HTML, WordPress needs regular updates, backups stored off the server and basic security settings. The first 2 months of maintenance after launch are free with us; after that, plans start at ${P.care} (${P.careUsd}). A lean custom theme with few plugins keeps that work light. See <a href='/wordpress-maintenance-services/'>WordPress maintenance services</a> for what a proper plan includes.`,
       ],
     },
     {
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
         ["Institution or multi-service site", "Up to 100 pages, notices, team, galleries", `${P.site} · ${P.siteUsd}`, "1–2 weeks"],
         ["Large static site", "299+ product, location or article pages", `${P.seoSite} · ${P.seoSiteUsd}`, "3–5 weeks"],
         ["Catalogue to online store", "Products, cart, UPI and card checkout", `${P.shop} · ${P.shopUsd}`, "4–8 weeks"],
-        ["Ongoing care", "Updates, backups, small edits", `${P.care} · ${P.careUsd}`, "After 5 free months"],
+        ["Ongoing care", "Updates, backups, small edits", `${P.care} · ${P.careUsd}`, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
     { question: "Can old news pages become WordPress posts?", answer: "Yes. A folder of HTML news or notice pages becomes WordPress posts with their original dates, categories and attachments such as PDFs, and each old address is redirected to its new post. Large archives are imported with a script and then checked, so staff can publish new notices in minutes." },
     { question: "Who owns the WordPress site after conversion?", answer: "You do. The custom theme is delivered as source code, WordPress runs on hosting in your name, the domain is registered to you and you hold the administrator account. Plugin licences, if any, sit on your account. Any developer can work on the site later with the handover notes we provide." },
     { question: "My old vendor controls the domain. Can you still convert the site?", answer: "We can start the conversion on staging, but you will need control of the domain’s DNS to launch it. We guide you through recovering the domain from your old vendor or registrar, which usually needs proof that the business owns it. The launch waits until the domain is under your control." },
-    { question: "What maintenance does WordPress need after conversion?", answer: `More than static HTML: core and plugin updates tested before going live, off-server backups and basic security checks. The first 5 months after launch are free with us. After that, maintenance starts at ${P.care} (${P.careUsd}). A custom theme with few plugins keeps the upkeep modest.` },
+    { question: "What maintenance does WordPress need after conversion?", answer: `More than static HTML: core and plugin updates tested before going live, off-server backups and basic security checks. The first 2 months after launch are free with us. After that, maintenance starts at ${P.care} (${P.careUsd}). A custom theme with few plugins keeps the upkeep modest.` },
     { question: "Freelancer or agency for an HTML to WordPress conversion?", answer: "Either can do it well. The deciding factors are a complete URL audit, a written redirect map, a custom theme rather than a restyled template, and ownership in your name. A freelance team is usually quicker to reach and has lower overhead. Ask any candidate to show a redirect map from a past project." },
     { question: "How do I pay for the conversion?", answer: "You receive an itemised quote first, and nothing is billed until you approve it in writing. Payments follow milestones visible on staging. Indian clients pay by UPI or bank transfer in rupees; international clients pay in USD via Wise, bank wire or PayPal. The milestone split is written into your quote." },
     { question: "Can you work with an NDA or restricted server access?", answer: "Ask us when you get in touch. For many conversions we only need the public site and read access to Search Console to quote; server or hosting access comes after the quote is approved and any confidentiality terms are agreed in writing. Our terms page covers the general basis we work on." },

@@ -35,7 +35,7 @@ const darjiling: CityContent = {
     pills: ["Sites from ₹10,000", "Direct booking pages", "Tea stores from ₹50,000", "Nepali, Bengali, English", "Pages that load on hill networks"],
   },
   quickAnswer:
-    "Darjeeling businesses can get a website from ₹10,000, usually live within one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, tea and gift stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Darjeeling office, and five months of maintenance are free after launch.",
+    "Darjeeling businesses can get a website from ₹10,000, usually live within one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI booking automation at ₹40,000, tea and gift stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Darjeeling office, and two months of maintenance are free after launch.",
   snapshot: [
     { label: "Elevation", value: "About 2,045 m, with Kangchenjunga visible to the north on clear days" },
     { label: "Population", value: "Around 1.19 lakh in the municipality (Census 2011); municipality dates from 1850" },
@@ -52,10 +52,10 @@ const darjiling: CityContent = {
     ai: "WhatsApp assistants that answer availability, tariff and pick-up questions in English, Hindi, Bengali or Nepali late into the night.",
     data: "Season dashboards comparing bookings, sources and room nights across spring, autumn and the quiet monsoon months.",
     app: "Android and iOS apps for drivers and guides to check trips, guests and pick-up points on patchy hill connections, published on both stores.",
-    maintenance: "Five months of free updates and backups after launch; later care starts from ₹8,000 a month.",
+    maintenance: "Two months of free updates and backups after launch; later care starts from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Darjeeling owners often pay heavy commissions to booking portals and get little from agencies based in the plains. We publish starting prices, build sites that bring direct enquiries, keep everything in your name, reply on WhatsApp all week and look after the site free for five months after launch.",
+    "Darjeeling owners often pay heavy commissions to booking portals and get little from agencies based in the plains. We publish starting prices, build sites that bring direct enquiries, keep everything in your name, reply on WhatsApp all week and look after the site free for two months after launch.",
   pricingIntro:
     "These prices are where Darjeeling projects begin, not packages. A three-room homestay needs far less than a tea garden store selling in several currencies, and the quote explains each difference. You pay nothing until you approve the itemised quote in writing.",
   sections: [
@@ -209,7 +209,7 @@ const darjiling: CityContent = {
       heading: "Keeping control of your domain, code and bookings",
       paragraphs: [
         "Some Darjeeling businesses have lost their websites because the domain was registered by a developer who moved on. We make sure that cannot happen. The domain and hosting are in your name, every login is handed over at launch and the code belongs to you.",
-        "For five months after launch we provide free updates, fixes, security patches, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes. There is no exit fee if you switch developers, and we leave a short guide explaining how everything is set up.",
+        "For two months after launch we provide free updates, fixes, security patches, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes. There is no exit fee if you switch developers, and we leave a short guide explaining how everything is set up.",
         "Our <a href=\"/services/web-development/\">web development page</a> explains each type of build in more detail.",
       ],
     },
@@ -297,7 +297,7 @@ const darjiling: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "For five months after launch we cover updates, fixes, security, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can pay only when you need changes. Nothing renews without your agreement.",
+        "For two months after launch we cover updates, fixes, security, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can pay only when you need changes. Nothing renews without your agreement.",
     },
     {
       question: "Do you work in Kalimpong, Kurseong, Mirik or Siliguri?",

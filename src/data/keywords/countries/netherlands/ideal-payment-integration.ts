@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Webshop with iDEAL from", `${P.shop}, 4–8 weeks`],
     ["Payment contract", "Signed by you with your PSP or acquirer"],
     ["Working overlap", "European business day from late morning"],
-    ["After launch", `5 months free maintenance, then from ${P.care}`],
+    ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who write and test the payment code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Payment accounts held in our name" },
   ],
   answer: {
@@ -158,7 +158,7 @@ const content: FreelanceContent = {
         "Test on both desktop (QR) and phone (app switch) after every PSP update.",
       ],
       after: [
-        `We do not predict dates beyond what the scheme and EPI publish. When your PSP announces a change, maintenance covers the update, whether it falls in the free five months after launch or a later plan from ${P.care}.`,
+        `We do not predict dates beyond what the scheme and EPI publish. When your PSP announces a change, maintenance covers the update, whether it falls in the free two months after launch or a later plan from ${P.care}.`,
       ],
     },
     {
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
       ["Quote in writing", "Within about two working days you get an itemised quote in USD. Nothing is billed until you approve it in writing."],
       ["Build in test mode", "Payment layer, webhooks, screens and admin tools are built against the PSP sandbox, with a staging link for you to try."],
       ["Prove it live", "You make a small real payment and refund it yourself; then iDEAL goes live behind a flag for staff, then for customers."],
-      ["Hand over and watch", "Code, documentation and keys stay with you. Five months of free maintenance follow, covering PSP updates and fixes."],
+      ["Hand over and watch", "Code, documentation and keys stay with you. Two months of free maintenance follow, covering PSP updates and fixes."],
     ],
   },
   faqHeading: "iDEAL payment integration: questions Dutch businesses ask",
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
     { question: "Do I still need cards if I have iDEAL?", answer: "It depends on who pays. Dutch consumers widely pay by iDEAL, but business customers, international buyers and some subscription users prefer cards, and Belgian customers often expect Bancontact. Most PSPs offer several methods under one contract, and a well-built payment layer lets you switch methods on without rewriting checkout code." },
     { question: "Do you give advice on payment regulations or VAT?", answer: "No. We build software that follows the rules you and your advisers set: consent screens, receipts with the fields your accountant asks for, retention and deletion routines. Legal, licensing and tax questions belong with a Dutch lawyer or accountant. We will point out where a decision is needed, but we do not make it for you." },
     { question: "How do we communicate across time zones?", answer: "Our working day in India covers the European business day from late morning onward, so video calls fit Dutch late mornings and afternoons. Day-to-day questions go through WhatsApp, which we answer 7 days a week in IST. Written updates follow every call so decisions about payment states or refund rules are recorded." },
-    { question: "What maintenance does an iDEAL integration need after launch?", answer: `Payment providers update APIs, add webhook events and, with the Wero transition, change payment pages. Store rules for apps also change. We include five months of free maintenance after launch for fixes and provider updates. After that, maintenance plans start from ${P.care}, or your own developers can take over using the documentation we hand over.` },
+    { question: "What maintenance does an iDEAL integration need after launch?", answer: `Payment providers update APIs, add webhook events and, with the Wero transition, change payment pages. Store rules for apps also change. We include two months of free maintenance after launch for fixes and provider updates. After that, maintenance plans start from ${P.care}, or your own developers can take over using the documentation we hand over.` },
   ],
   related: {
     heading: "More for Dutch businesses building online",

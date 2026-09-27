@@ -34,7 +34,7 @@ const bhilai: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor capability pages", "Coaching lead handling", "Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Bhilai we build static websites from ₹10,000 in one to two weeks, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps such as job or admission trackers from ₹60,000. We are a remote team with no office in Bhilai, we reply on WhatsApp daily, and maintenance is free for five months after launch.",
+    "In Bhilai we build static websites from ₹10,000 in one to two weeks, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps such as job or admission trackers from ₹60,000. We are a remote team with no office in Bhilai, we reply on WhatsApp daily, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Anchor employer", value: "Bhilai Steel Plant of SAIL, built with Soviet collaboration and India's supplier of long rails to the railways" },
     { label: "Industrial areas", value: "Heavy Industrial Area Hathkhoj and the Bhilai industrial estates, with fabrication, machining, castings and rolling units" },
@@ -51,7 +51,7 @@ const bhilai: CityContent = {
     ai: "WhatsApp assistants that answer batch, fee, order-status and appointment questions in Hindi or English and hand real leads to staff.",
     data: "Dashboards for job-work status, collections, student enquiries and test scores, built from Excel, Tally and your existing forms.",
     app: "Android and iOS apps for supervisors, faculty and field staff, one Flutter or React Native codebase listed on Google Play and the App Store.",
-    maintenance: "Content changes, result updates, security patches and backups free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content changes, result updates, security patches and backups free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Bhilai grew up around a public-sector plant where things are done on paper, with tenders and written specifications. We bring the same discipline to websites: published prices, an itemised written quote, domain and hosting in your name, and WhatsApp replies seven days a week after launch.",
@@ -187,7 +187,7 @@ const bhilai: CityContent = {
       paragraphs: [
         "A common Bhilai story: a nephew or a computer centre built the website years ago, the domain renewal went to an email nobody checks, and one day the site simply disappears. Rebuilding is expensive, and search rankings built over years are lost with it.",
         "We register the domain and hosting in your name and pay for them from your account. At launch you receive every login, the full source code and a short note explaining the setup. You can move to another developer at any time without asking us or paying an exit fee.",
-        "For five months after launch, maintenance is free: content and result updates, new photographs, bug fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Tell us about your business</a> and we will send a plan.",
+        "For two months after launch, maintenance is free: content and result updates, new photographs, bug fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Tell us about your business</a> and we will send a plan.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const bhilai: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we cover content and result updates, photographs, bug fixes, security and software updates, backups and uptime checks at no charge. After that, maintenance is from ₹8,000 a month, or you contact us only when needed.",
+        "For two months after launch we cover content and result updates, photographs, bug fixes, security and software updates, backups and uptime checks at no charge. After that, maintenance is from ₹8,000 a month, or you contact us only when needed.",
     },
     {
       question: "Do you work with businesses in Durg, Raipur and Rajnandgaon?",

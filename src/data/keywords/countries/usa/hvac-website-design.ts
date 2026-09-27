@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["City-page build (299+ pages)", `From ${P.seoSite} · 3–5 weeks`],
     ["Plan signups with card checkout", `From ${P.shop}`],
     ["Local SEO, monthly", `From ${P.seo}`],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
     ["Call window", "US Eastern mornings (IST evenings)"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, SEO and project lead" },
     { value: "2", label: "Working days to an itemized quote in USD" },
-    { value: "5", label: "Months of free fixes once the site is live" },
+    { value: "2", label: "Months of free fixes once the site is live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What HVAC website design costs with us",
-    note: `A core heating and cooling site of up to 100 pages starts at ${P.site} and takes one to two weeks once your service list, photos and license details are in. Add city pages for every suburb you run trucks to and the build starts at ${P.seoSite}. If you want maintenance plans sold and billed online, that checkout work starts at ${P.shop}. A missed-call text-back or after-hours chat starts at ${P.ai}. Monthly local SEO starts at ${P.seo}. The first five months of fixes are free, then care starts at ${P.care}. Every figure is a starting price; the itemized quote tells you exactly what your scope adds.`,
+    note: `A core heating and cooling site of up to 100 pages starts at ${P.site} and takes one to two weeks once your service list, photos and license details are in. Add city pages for every suburb you run trucks to and the build starts at ${P.seoSite}. If you want maintenance plans sold and billed online, that checkout work starts at ${P.shop}. A missed-call text-back or after-hours chat starts at ${P.ai}. Monthly local SEO starts at ${P.seo}. The first two months of fixes are free, then care starts at ${P.care}. Every figure is a starting price; the itemized quote tells you exactly what your scope adds.`,
   },
   guideLabel: "HVAC website design guide",
   guide: [
@@ -246,7 +246,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A core HVAC website takes one to two weeks from the day your content is ready; a build with city pages takes three to five weeks. The most common delay is not development but waiting on photos, license details and decisions about after-hours wording.`,
         `The first two or three days go into a page plan: which services get their own page, which towns get area pages, where booking and plan signup sit, and how the seasonal block behaves. We share it as a simple outline you approve on WhatsApp or a short call. Design comes next, phone layout first, then desktop. Build and integration follow, including your booking widget and analytics. The last days are testing: real bookings, calls from a phone, forms at night, speed checks and accessibility basics like contrast, labels and keyboard use.`,
-        `We launch mid-week rather than on a Friday, so any issue shows up while your office is open. After launch, the first five months of fixes and small changes are free.`,
+        `We launch mid-week rather than on a Friday, so any issue shows up while your office is open. After launch, the first two months of fixes and small changes are free.`,
       ],
     },
     {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should own every part of your HVAC website: the domain, the hosting account, the code, the Google Business Profile, the analytics property and any call-tracking numbers. With us, each of those is registered to you or transferred to you at handover, with admin logins in your hands.`,
         `This matters more in HVAC than most trades because websites are so often bundled with something else: a software subscription, a lead program or a marketing retainer. The bundle is convenient until you want to switch, and then the pages, the phone number that is printed on your trucks, or the review profile turn out to belong to someone else.`,
-        `At handover you get a short document listing each account, who pays for it, and how to change the seasonal block, update a rebate page and add a review. If another developer takes over later, they get clean code and a working copy. For ongoing help, see <a href='/usa/website-maintenance-services/'>website maintenance services</a>; care starts at ${P.care} after the free five months.`,
+        `At handover you get a short document listing each account, who pays for it, and how to change the seasonal block, update a rebate page and add a review. If another developer takes over later, they get clean code and a working copy. For ongoing help, see <a href='/usa/website-maintenance-services/'>website maintenance services</a>; care starts at ${P.care} after the free two months.`,
       ],
     },
     {
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
         ["Plan checkout", "Maintenance-plan signup with card or wallet payments", P.shop, "4–8 weeks"],
         ["AI follow-up", "Missed-call text-back, after-hours chat, lead summaries", P.ai, "2–4 weeks"],
         ["Monthly local SEO", "Profile, reviews, new pages, Search Console monitoring", P.seo, "Ongoing"],
-        ["Care after free period", "Updates, fixes, seasonal switches, rebate edits", P.care, "Ongoing, after 5 free months"],
+        ["Care after free period", "Updates, fixes, seasonal switches, rebate edits", P.care, "Ongoing, after 2 free months"],
       ],
       hideSm: [1],
     },
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
       ["Approve the page plan", "A one-page outline of services, area pages, booking placement, plan signup and the seasonal switch. You mark it up; we finalize it in a day."],
       ["Phone-first design and build", "We design for the phone first, then desktop, build the pages, connect booking, forms and call tracking, and share a private preview link for your comments."],
       ["Test like a homeowner at night", "Real bookings, calls from US phones, the after-hours banner at different hours, speed checks, accessibility basics and every form on every page."],
-      ["Launch and hand over", "Mid-week launch, redirects from old pages, Search Console and analytics in your name, a short handover guide, then five months of free fixes."],
+      ["Launch and hand over", "Mid-week launch, redirects from old pages, Search Console and analytics in your name, a short handover guide, then two months of free fixes."],
     ],
   },
   faqHeading: "HVAC website design: questions US contractors ask",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Can you guarantee my HVAC company ranks first on Google?", answer: "No, and nobody honestly can. What we do is remove the reasons you would not rank: fast pages, one useful page per service and town, correct structured data, a consistent Google Business Profile and steady reviews. Monthly local SEO from us starts at " + P.seo + " and focuses on the work that tends to move map and organic visibility over time." },
     { question: "How do I get my HVAC business into AI search answers?", answer: "Write clear question-and-answer content, keep your name, phone, hours and service area identical everywhere, mark up the site with HVACBusiness structured data, and publish specific facts such as plan inclusions and service hours. AI tools like Google AI Overviews and Perplexity quote pages that answer directly, so every service page opens with a plain answer before the detail." },
     { question: "Does my HVAC website need to be ADA accessible?", answer: "The Department of Justice says Title III covers businesses open to the public and points to WCAG as helpful guidance for accessible websites. We build to WCAG basics: labeled forms, keyboard access, visible focus, readable contrast and alt text. For a formal legal view on your obligations, ask your own lawyer; we explain what the build does, not legal advice." },
-    { question: "What happens after my HVAC website launches?", answer: `The first five months of fixes and small changes are free. After that, care starts at ${P.care} and covers updates, seasonal switches, rebate page edits and security checks. You can also skip care and handle edits yourself; the handover guide explains how to change the seasonal block and add reviews.` },
+    { question: "What happens after my HVAC website launches?", answer: `The first two months of fixes and small changes are free. After that, care starts at ${P.care} and covers updates, seasonal switches, rebate page edits and security checks. You can also skip care and handle edits yourself; the handover guide explains how to change the seasonal block and add reviews.` },
     { question: "Can you redesign my existing HVAC site without losing rankings?", answer: "Yes. We list your current URLs, keep the ones that bring traffic, write redirects for the rest, and carry over titles and content that already rank. After launch we watch Google Search Console for errors and drops. Rankings can move for a few weeks after any rebuild, so we launch mid-week and outside your busiest season where possible." },
     { question: "Can you build an app for my HVAC technicians too?", answer: `Yes. A technician or customer app on Android and iOS, built with Flutter or React Native, starts at ${P.app}, and a custom field service system starts at ${P.software}. Most shops are better served by their existing subscription at first; we help you decide whether a custom build pays off before you commit.` },
     { question: "What do you need from me to start an HVAC website?", answer: "Your current site link, a list of services and towns, your license and insurance details, the field-service software and phone setup you use, your after-hours rule, twenty or so real photos, and your logo. Send what you have on WhatsApp; we will list anything missing in the quote so nothing surprises you later." },

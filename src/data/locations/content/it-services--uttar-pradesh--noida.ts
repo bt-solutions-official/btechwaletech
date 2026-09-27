@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents built with n8n, Python and the WhatsApp Business API that qualify leads, triage support tickets and update your CRM automatically.",
     data: "Dashboards on PostgreSQL, BigQuery or Sheets for Noida founders and plant managers who need one reliable view of metrics.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on Google Play and the App Store, for Noida startups, field teams and customers.",
-    maintenance: "Bug fixes, dependency updates, backups and uptime monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Bug fixes, dependency updates, backups and uptime monitoring, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Noida has hundreds of IT companies, many of them expensive and layered with account managers. A freelance group gives you senior attention on a focused project: the engineers read your messages, the starting prices are public, and the repository, cloud and domain are yours from day one.",
@@ -133,7 +133,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and DevOps for Noida projects means setting up your application on AWS or a similar provider with automated deployments, staging and production environments, SSL, backups, monitoring and cost controls. BtechWaleTech includes this in every build, with all cloud accounts registered to your company rather than ours.",
         "We use infrastructure that a future in-house team or another vendor can understand: containerised services or managed platforms, CI/CD pipelines from your Git repository, environment variables documented and secrets kept out of code. Monthly cloud bills are sized to real usage, because an MVP rarely needs the architecture of a unicorn.",
-        "For businesses migrating from shared hosting or an old server in the office, we plan the move, test it on staging and cut over with minimal downtime. After launch, five months of maintenance are free, covering dependency updates, security patches and uptime checks; afterwards support starts at ₹8,000 a month.",
+        "For businesses migrating from shared hosting or an old server in the office, we plan the move, test it on staging and cut over with minimal downtime. After launch, two months of maintenance are free, covering dependency updates, security patches and uptime checks; afterwards support starts at ₹8,000 a month.",
       ],
     },
     {
@@ -158,7 +158,7 @@ const content: CityContent = {
       id: "noida-cost-guide",
       heading: "What does software development cost in Noida?",
       paragraphs: [
-        "Software development in Noida with BtechWaleTech starts at ₹60,000 for a custom web app or SaaS MVP, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Noida with BtechWaleTech starts at ₹60,000 for a custom web app or SaaS MVP, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "Costs rise with user roles, integrations, real-time features, complex permissions and data migration. An internal tool for one team sits near the starting price; a multi-tenant SaaS with billing, analytics and a mobile app costs more. You get an itemised quote within about two working days, with assumptions spelled out, and you can trim scope line by line. Full plan details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
@@ -183,14 +183,14 @@ const content: CityContent = {
       heading: "How a remote engagement with BtechWaleTech works in Noida",
       paragraphs: [
         "A remote engagement with BtechWaleTech runs through WhatsApp, video calls and a shared staging environment, with weekly demos rather than status reports. We have no office in Noida or anywhere in the NCR, even though many clients are nearby, and we reply seven days a week.",
-        "Work is broken into milestones, each ending in something you can click. Payment is in INR only, by UPI QR code or direct bank transfer to our bank account, released milestone by milestone. At handover you receive the repository, cloud and domain access, environment documentation and a recorded walkthrough, followed by five months of free maintenance.",
+        "Work is broken into milestones, each ending in something you can click. Payment is in INR only, by UPI QR code or direct bank transfer to our bank account, released milestone by milestone. At handover you receive the repository, cloud and domain access, environment documentation and a recorded walkthrough, followed by two months of free maintenance.",
       ],
       list: [
         "Day 1 to 2: discovery call and written scope",
         "Within about 2 working days: itemised quote and milestone plan",
         "Weekly: demo on staging and priority check",
         "Launch: deployment, handover of all accounts and documentation",
-        "After launch: five months of free maintenance, then optional monthly support",
+        "After launch: two months of free maintenance, then optional monthly support",
       ],
     },
     {
@@ -270,7 +270,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering bug fixes, dependency and security updates, backups, uptime monitoring and small changes. After that, support plans start at ₹8,000 a month, or you can engage us only when needed. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance are free after launch, covering bug fixes, dependency and security updates, backups, uptime monitoring and small changes. After that, support plans start at ₹8,000 a month, or you can engage us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How soon will SEO landing pages bring results in Noida?",

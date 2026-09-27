@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["BI-tool dashboards", "Quoted after we see your data"],
     ["Estimate", "Itemised, about 2 working days"],
     ["Data ownership", "Your database, your cloud account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering data, back end and front end" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes and tweaks after go-live" },
+    { value: "2", label: "Months of free fixes and tweaks after go-live" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom dashboard", value: `From ${P.software}, 6–12 weeks` },
       { label: "Automated reports", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Access", value: "Owner, managers and staff see only their own numbers" },
-      { label: "Support", value: `5 free months, then from ${P.care}` },
+      { label: "Support", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Mobile use", "Hard to read on a phone", "Varies by tool", "Designed for the owner’s phone first"],
       ["Time to first version", "Days", "Weeks of learning", "A few weeks, depending on data mess"],
       ["When numbers look wrong", "Someone checks formulas", "You debug it", "We trace the source and fix the pipeline"],
-      ["Long-term upkeep", "Depends on one employee", "Your team", `5 free months, then from ${P.care}`],
+      ["Long-term upkeep", "Depends on one employee", "Your team", `2 free months, then from ${P.care}`],
     ],
     fine: "If your data already lives in one clean system that has good built-in reports, a dashboard developer may add little; we will say so after looking at your data.",
   },
@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       heading: "Handover and ownership: your data, your dashboard",
       paragraphs: [
         `Everything a dashboard depends on should belong to you: the database, the cloud account, the BI workspace or licences, the code repository and any API keys. We work as invited users and hand over a document listing each source, each cleaning rule, each KPI definition and how refresh is scheduled.`,
-        `This matters more for dashboards than for most software, because pipelines break when source systems change. An update to your billing software or a new column in a shared sheet can stop the refresh. With good documentation, anyone competent can trace the problem. BtechWaleTech covers such fixes free for five months after launch, then from ${P.care} if you want ongoing care.`,
+        `This matters more for dashboards than for most software, because pipelines break when source systems change. An update to your billing software or a new column in a shared sheet can stop the refresh. With good documentation, anyone competent can trace the problem. BtechWaleTech covers such fixes free for two months after launch, then from ${P.care} if you want ongoing care.`,
       ],
       list: [
         "Database and cloud account in your name",
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
         ["Online store with sales admin dashboard", P.shop, P.shopUsd, "4–8 weeks"],
         ["Dashboard inside an Android and iOS app", P.app, P.appUsd, "6–10 weeks"],
         ["Looker Studio or Power BI on tidy data", "Quoted after data review", "Quoted after data review", "Depends on sources"],
-        ["Ongoing upkeep after 5 free months", P.care, P.careUsd, "Monthly"],
+        ["Ongoing upkeep after 2 free months", P.care, P.careUsd, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
       ["Set up your accounts", "Database, cloud and BI workspace are created in your name. We join as users and connect the first sources with scheduled extraction."],
       ["First screen early", "A working draft with two or three real KPIs appears within the first weeks, so you can correct definitions before we build the rest."],
       ["Full build and checks", "All KPIs, filters, roles and alerts go in. We reconcile totals against your accounts so the dashboard matches the numbers you already trust."],
-      ["Handover and care", "You get documentation of sources, rules and KPIs, plus five months of free fixes. Ongoing upkeep afterwards is optional."],
+      ["Handover and care", "You get documentation of sources, rules and KPIs, plus two months of free fixes. Ongoing upkeep afterwards is optional."],
     ],
   },
   faqHeading: "Dashboard developer: frequently asked questions",
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
     { question: "Do I need a data warehouse for a dashboard?", answer: "Not a big one. For most small and mid-sized businesses a single PostgreSQL database on your cloud account, loaded on a schedule, is enough. It keeps history, makes the dashboard fast and protects you when a source system changes. Larger warehouses only make sense when data volumes or the number of sources grow well beyond that." },
     { question: "Can you fix or improve a dashboard someone else built?", answer: "Often, yes. We start by reviewing the data sources, cleaning logic and definitions, because most broken dashboards fail there rather than in the charts. Then we suggest whether to repair, simplify or rebuild. Access to the original workspace or code is essential; if it was built in someone else’s account, ownership needs sorting first." },
     { question: "Can a dashboard developer work remotely?", answer: "Yes, dashboard work is almost entirely remote. We review sample exports, meet on video calls, share drafts through the BI tool or a staging link and communicate on WhatsApp. BtechWaleTech works with businesses across India and abroad this way and does not make on-site visits, so access is arranged through your accounts." },
-    { question: "What happens when my source software changes and the dashboard breaks?", answer: `It happens, which is why documentation and monitoring matter. BtechWaleTech covers such fixes free for five months after launch. After that, maintenance starts at ${P.care} if you want us to keep watching refresh jobs and adjust for changes, or your own team can follow the documentation we hand over.` },
+    { question: "What happens when my source software changes and the dashboard breaks?", answer: `It happens, which is why documentation and monitoring matter. BtechWaleTech covers such fixes free for two months after launch. After that, maintenance starts at ${P.care} if you want us to keep watching refresh jobs and adjust for changes, or your own team can follow the documentation we hand over.` },
     { question: "Business dashboard banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom web dashboard ${P.software} se aur automated daily report ${P.ai} se shuru hota hai. Agar data pehle se saaf hai to Looker Studio ya Power BI dashboard kam kharche mein ban sakta hai, jo data dekhne ke baad quote hota hai. Pehle itemised estimate milta hai, approval ke baad hi payment hota hai.` },
   ],
   related: {
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a dashboard developer? Send us your five questions",
-    note: `Tell us on WhatsApp the questions you want answered every morning and where your data lives. You will get an itemised estimate in about two working days, with custom dashboards from ${P.software}, data kept in your accounts and five months of free maintenance.`,
+    note: `Tell us on WhatsApp the questions you want answered every morning and where your data lives. You will get an itemised estimate in about two working days, with custom dashboards from ${P.software}, data kept in your accounts and two months of free maintenance.`,
   },
 };
 

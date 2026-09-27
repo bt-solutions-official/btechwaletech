@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Billing", "USD or AUD, via Wise or bank wire"],
     ["Quote", "Itemised, about 2 working days"],
     ["Accounts", "Domain, hosting, code in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Online store", value: `From ${P.shopUsd}, 4–8 weeks` },
       { label: "Billing", value: "USD or AUD; Wise, bank wire or PayPal" },
       { label: "Hosting", value: "Australian region on your own account" },
-      { label: "Upkeep", value: `5 months free, then from ${P.careUsd}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.careUsd}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Starting prices for Australian clients, in USD",
-    note: `We quote Australian clients in USD by default, and can invoice in AUD through Wise if that suits your bookkeeping better; the currency is agreed in your written quote. A small business website starts at ${P.siteUsd}, an online store at ${P.shopUsd} and monthly upkeep, after five free months, at ${P.careUsd}. The quote moves with scope: unique page layouts, integrations with Australian tools such as accounting or booking software, and copywriting in Australian English. Hosting, domains and email are billed to you directly by the providers, so there is no mark-up hidden in our invoice.`,
+    note: `We quote Australian clients in USD by default, and can invoice in AUD through Wise if that suits your bookkeeping better; the currency is agreed in your written quote. A small business website starts at ${P.siteUsd}, an online store at ${P.shopUsd} and monthly upkeep, after two free months, at ${P.careUsd}. The quote moves with scope: unique page layouts, integrations with Australian tools such as accounting or booking software, and copywriting in Australian English. Hosting, domains and email are billed to you directly by the providers, so there is no mark-up hidden in our invoice.`,
   },
   guideLabel: "Guide for Australian clients",
   guide: [
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `At the end you should hold everything needed to run the site without us. That is the test of a clean offshore engagement.`,
         `You receive repository access with the full source code, admin logins, DNS and hosting details, a list of every paid service with renewal dates, and short notes on editing common content. If we built an app, it sits in your own Play Console and App Store Connect accounts. Where a freelance web developer for Australia clients offers to register the .com.au name “for convenience”, decline: it should be under your ABN.`,
-        `Five months of free maintenance follow launch. After that, upkeep from ${P.careUsd} is optional; many clients keep it, some manage the site themselves, and a few move it to a local developer. All three are fine because nothing is locked to us.`,
+        `Two months of free maintenance follow launch. After that, upkeep from ${P.careUsd} is optional; many clients keep it, some manage the site themselves, and a few move it to a local developer. All three are fine because nothing is locked to us.`,
       ],
     },
     {
@@ -294,7 +294,7 @@ const content: FreelanceContent = {
         ["Booking system or client portal", `${P.softwareUsd}`, `${P.software}`, "6–12 weeks"],
         ["Android & iOS app", `${P.appUsd}`, `${P.app}`, "6–10 weeks"],
         ["AI or workflow automation", `${P.aiUsd}`, `${P.ai}`, "2–4 weeks"],
-        ["Upkeep after 5 free months", `${P.careUsd}`, `${P.care}`, "Monthly"],
+        ["Upkeep after 2 free months", `${P.careUsd}`, `${P.care}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -344,7 +344,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Domain under your ABN, hosting in an Australian region and the code repository are created with you on a short afternoon call."],
       ["Review overnight progress", "Each morning your time, the staging link shows the previous day's work. Send one consolidated list of changes; we act on it in our morning."],
       ["Check the Australian rules list", "Before launch we run the privacy, spam consent, GST display, accessibility and local SEO checklist with you."],
-      ["Launch, hand over, look after", `Search Console verified, logins and code handed over, then five free months of maintenance and optional upkeep from ${P.careUsd}.`],
+      ["Launch, hand over, look after", `Search Console verified, logins and code handed over, then two free months of maintenance and optional upkeep from ${P.careUsd}.`],
     ],
   },
   faqHeading: "Freelance web developer for Australia clients: common questions",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a site from Australia? Get an itemised quote in two working days",
-    note: `Email or WhatsApp your brief in your morning. You will get an itemised quote in USD or AUD within about two working days, with websites from ${P.siteUsd}, hosting in Australia on your own account and five months of free maintenance.`,
+    note: `Email or WhatsApp your brief in your morning. You will get an itemised quote in USD or AUD within about two working days, with websites from ${P.siteUsd}, hosting in Australia on your own account and two months of free maintenance.`,
   },
 };
 

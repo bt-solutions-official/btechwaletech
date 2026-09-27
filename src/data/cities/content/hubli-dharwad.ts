@@ -7,7 +7,7 @@ const hubliDharwad: CityContent = {
   meta: {
     title: "IT Services in Hubli-Dharwad: Websites, Apps, SEO & AI",
     description:
-      "Website development, SEO, ecommerce and automation for Hubballi and Dharwad businesses. Sites from ₹10,000, SEO sites from ₹20,000, five months free maintenance.",
+      "Website development, SEO, ecommerce and automation for Hubballi and Dharwad businesses. Sites from ₹10,000, SEO sites from ₹20,000, two months free maintenance.",
     keywords: [
       "website development team in Hubli",
       "website development team Dharwad",
@@ -31,11 +31,11 @@ const hubliDharwad: CityContent = {
     eyebrow: "Hubballi-Dharwad · Karnataka",
     h1: "Websites and automation for Hubballi traders and Dharwad's institutions",
     lede:
-      "We are a remote team of three engineers building sites, online stores and workflow automation for Gokul Road and Tarihal manufacturers, Durgadbail wholesalers, Dharwad schools and colleges, clinics and food brands. Prices are listed openly, you work directly with the developers, and the first five months of maintenance after launch are free.",
+      "We are a remote team of three engineers building sites, online stores and workflow automation for Gokul Road and Tarihal manufacturers, Durgadbail wholesalers, Dharwad schools and colleges, clinics and food brands. Prices are listed openly, you work directly with the developers, and the first two months of maintenance after launch are free.",
     pills: ["Sites from ₹10,000", "Kannada and English pages", "UPI stores for sweets and snacks", "Dealer and order portals", "WhatsApp lead handling"],
   },
   quickAnswer:
-    "For businesses in Hubballi and Dharwad, our static websites start at ₹10,000 and usually go live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team with no local office, and five months of maintenance come free.",
+    "For businesses in Hubballi and Dharwad, our static websites start at ₹10,000 and usually go live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-engineer team with no local office, and two months of maintenance come free.",
   snapshot: [
     { label: "Twin-city character", value: "Hubballi as the commercial and railway centre, Dharwad as the district seat and education hub, linked by a BRTS corridor" },
     { label: "Industrial areas", value: "Gokul Road and Tarihal in Hubballi, with more than a thousand small and medium units; KIADB Belur near Dharwad" },
@@ -52,10 +52,10 @@ const hubliDharwad: CityContent = {
     ai: "WhatsApp assistants that answer admission, stock or appointment questions in Kannada, Hindi or English and forward the harder ones to your staff.",
     data: "Sales, collection and production figures brought into one clear dashboard, instead of five spreadsheets updated by different people.",
     app: "Android and iOS apps for bookings, reorders and student access, published on both Google Play and the App Store with prices starting at ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Hubballi and Dharwad have their share of local web designers and Bengaluru agencies that sell remotely into the region. Most quote only after a meeting, and after-launch support is often vague. We put our prices on the page, reply on WhatsApp every day of the week, and maintain your site at no charge for five months after launch.",
+    "Hubballi and Dharwad have their share of local web designers and Bengaluru agencies that sell remotely into the region. Most quote only after a meeting, and after-launch support is often vague. We put our prices on the page, reply on WhatsApp every day of the week, and maintain your site at no charge for two months after launch.",
   pricingIntro:
     "Few web developers in the twin cities publish prices, which makes budgeting guesswork. Here are our actual starting figures. What you finally pay depends on the number of pages, the features you need and how much content you already have, and you receive an itemised quote before any work starts.",
   sections: [
@@ -177,7 +177,7 @@ const hubliDharwad: CityContent = {
       paragraphs: [
         "Many older websites in the twin cities are stuck because the developer who made them still controls the domain or hosting. When that person stops responding, the business cannot change a phone number, renew a certificate or move the site elsewhere.",
         "With us, the domain and hosting are in your name from the beginning, and you receive every login, the source code and a short note on how things are set up. You can take the site to another developer at any time, with no exit fee.",
-        "Five months of maintenance after launch are free, covering content changes, bug fixes, security updates, backups, uptime monitoring and speed checks. Afterwards, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "Two months of maintenance after launch are free, covering content changes, bug fixes, security updates, backups, uptime monitoring and speed checks. Afterwards, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
       ],
     },
     {
@@ -268,7 +268,7 @@ const hubliDharwad: CityContent = {
     {
       question: "What does the free maintenance period include?",
       answer:
-        "For five months after launch we cover content and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs doing.",
+        "For two months after launch we cover content and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs doing.",
     },
     {
       question: "How long does SEO take to work in Hubli-Dharwad?",

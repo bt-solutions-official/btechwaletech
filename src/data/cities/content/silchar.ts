@@ -7,7 +7,7 @@ const silchar: CityContent = {
   meta: {
     title: "Silchar Web Design and SEO | Websites from ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Silchar and Barak Valley businesses. Static sites start at ₹10,000 with five months free upkeep.",
+      "Websites, local SEO, online stores and WhatsApp automation for Silchar and Barak Valley businesses. Static sites start at ₹10,000 with two months free upkeep.",
     keywords: [
       "website development team in Silchar",
       "web design Silchar",
@@ -31,11 +31,11 @@ const silchar: CityContent = {
     eyebrow: "Silchar · Cachar, Assam",
     h1: "Web, app, SEO and automation services for Silchar's traders, clinics, colleges and tea-belt suppliers",
     lede:
-      "Three remote engineers building websites, local search visibility and WhatsApp automation for businesses in Silchar and the rest of the Barak Valley: wholesalers in Fatak Bazar, jewellers on Club Road, hospitals and diagnostic centres, coaching institutes near the colleges, and suppliers serving Cachar's tea estates. Prices are published as starting figures and upkeep is free for five months.",
+      "Three remote engineers building websites, local search visibility and WhatsApp automation for businesses in Silchar and the rest of the Barak Valley: wholesalers in Fatak Bazar, jewellers on Club Road, hospitals and diagnostic centres, coaching institutes near the colleges, and suppliers serving Cachar's tea estates. Prices are published as starting figures and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Map listings for Silchar", "Catalogues for wholesalers", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Silchar, a static business website with us starts at ₹10,000 and goes live in about one to two weeks. A 299+ page SEO website starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Silchar office, and maintenance is free for five months after launch.",
+    "In Silchar, a static business website with us starts at ₹10,000 and goes live in about one to two weeks. A 299+ page SEO website starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Silchar office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Cachar district and the main town of Assam's Barak Valley, far south of Guwahati" },
     { label: "Trade position", value: "Road and rail gateway for goods moving to Mizoram and Manipur, with a large wholesale trade" },
@@ -52,7 +52,7 @@ const silchar: CityContent = {
     ai: "WhatsApp replies that confirm stock, timings and fees in Bengali or English and forward real negotiations to you.",
     data: "Sales, collections and dispatch sheets turned into a simple dashboard you can check from your phone after the shop closes.",
     app: "Android and iOS apps for appointment booking, student notices or retailer re-orders, released on both app stores with prices starting at ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks at no charge for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks at no charge for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Silchar businesses often hire developers from Guwahati or Kolkata, pay a large advance, and then wait weeks for replies. The alternative has usually been a relative's template site no one can edit. We sit between those options: published starting prices, an itemised written quote, direct contact with the engineers and replies seven days a week.",
@@ -170,7 +170,7 @@ const silchar: CityContent = {
       paragraphs: [
         "A common problem in the Barak Valley: an outside agency built the website, kept the domain under its own name, and later stopped responding. The business cannot change its phone number or renew the site, and years of search visibility disappear with it.",
         "We register the domain and hosting in your name from the first day. At launch you receive every login, the complete source code and a short guide to how the site is put together. You are free to move to another developer at any time, with no exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, bug fixes, security patches, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or contact us only when you need something done. See our <a href=\"/services/web-development/\">web development</a> page for what each build includes.",
+        "For two months after launch, maintenance is free: text and price changes, bug fixes, security patches, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or contact us only when you need something done. See our <a href=\"/services/web-development/\">web development</a> page for what each build includes.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const silchar: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "How soon will SEO show results in Silchar?",

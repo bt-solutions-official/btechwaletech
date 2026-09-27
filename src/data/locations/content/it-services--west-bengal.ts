@@ -36,11 +36,11 @@ const content: CityContent = {
     eyebrow: "West Bengal · From the Sundarbans to the Darjeeling hills",
     h1: "Freelance IT services in West Bengal: software, Android and iOS apps, AI and SEO for every district",
     lede:
-      "BtechWaleTech offers freelance IT services in West Bengal as a group of three independent engineers working remotely from India. We build custom software for the Durgapur–Asansol industrial belt, tea estate and distribution systems in North Bengal, Android and iOS apps, AI agents that reply in Bengali, dashboards, online stores for handloom and tea brands, and search-ready websites, with published starting prices and five months of free maintenance.",
+      "BtechWaleTech offers freelance IT services in West Bengal as a group of three independent engineers working remotely from India. We build custom software for the Durgapur–Asansol industrial belt, tea estate and distribution systems in North Bengal, Android and iOS apps, AI agents that reply in Bengali, dashboards, online stores for handloom and tea brands, and search-ready websites, with published starting prices and two months of free maintenance.",
     pills: ["Websites from ₹10,000", "Android and iOS apps from ₹40,000", "Custom software from ₹60,000", "Bengali-language automation", "North and South Bengal covered"],
   },
   quickAnswer:
-    "IT services in West Bengal from BtechWaleTech start at ₹10,000 for a website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Delivery takes one to twelve weeks by scope. We are three freelance engineers working remotely from India, with five months of free maintenance.",
+    "IT services in West Bengal from BtechWaleTech start at ₹10,000 for a website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Delivery takes one to twelve weeks by scope. We are three freelance engineers working remotely from India, with two months of free maintenance.",
   snapshot: [
     { label: "Capital and IT hubs", value: "Kolkata, with IT clusters in Salt Lake Sector V and New Town (Rajarhat), where large Indian and global IT firms operate" },
     { label: "Industrial belts", value: "Durgapur and Asansol for steel, engineering and coal-linked industry; Haldia for port, petrochemicals and chemicals; Howrah and Hooghly for engineering and jute" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp workflows that reply in Bengali, Hindi or English, take routine orders and route leads to the right branch.",
     data: "Dashboards for multi-branch sales, production, tea garden output or hospital volumes, readable on a phone from anywhere in the state.",
     app: "Android and iOS apps for West Bengal distributors, tea estates, schools and retailers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Fixes, backups, security updates and content changes free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Fixes, backups, security updates and content changes free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Outside Kolkata, many West Bengal businesses struggle to find developers who will visit, and Kolkata agencies can be expensive or slow to respond. A freelance group that writes its own code, supports Bengali content and replies on WhatsApp seven days a week works well for firms in Siliguri, Durgapur or Malda as much as in the capital.",
@@ -200,7 +200,7 @@ const content: CityContent = {
       id: "process-west-bengal",
       heading: "How we deliver projects for West Bengal clients remotely",
       paragraphs: [
-        "West Bengal projects follow five steps: a discovery call, an itemised scope and quote within about two working days, weekly build cycles with a live preview link, testing with your staff and real data, then launch with five months of free maintenance. Automations take two to four weeks, apps six to ten weeks and custom software six to twelve weeks.",
+        "West Bengal projects follow five steps: a discovery call, an itemised scope and quote within about two working days, weekly build cycles with a live preview link, testing with your staff and real data, then launch with two months of free maintenance. Automations take two to four weeks, apps six to ten weeks and custom software six to twelve weeks.",
         "Because we work remotely, we ask early for photos of registers, sample invoices and existing spreadsheets. They reveal more about your process than a long meeting. Training is recorded, in Bengali or Hindi where staff prefer, and support runs on WhatsApp seven days a week.",
         "Seasonal businesses should plan around their peaks: Puja for retail and sweets, first and second flush for tea, admission season for schools.",
       ],
@@ -277,7 +277,7 @@ const content: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "Five months of maintenance come free after launch: bug fixes, security updates, backups, uptime and speed checks and small content changes. After that, plans start at ₹8,000 a month, or you contact us only when needed.",
+        "Two months of maintenance come free after launch: bug fixes, security updates, backups, uptime and speed checks and small content changes. After that, plans start at ₹8,000 a month, or you contact us only when needed.",
     },
     {
       question: "Can you build software for a tea estate?",

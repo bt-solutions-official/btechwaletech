@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["First quote", "Itemised, in about 2 working days"],
     ["How you pay", "UPI or bank transfer, in stages"],
     ["Website from", `${P.site} · ${P.siteUsd}`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your project" },
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Choice of talent", value: "Local: your town only. Remote: the whole country" },
       { label: "Our static site", value: `From ${P.site}, 1–2 weeks` },
       { label: "Our SEO website", value: `From ${P.seoSite}, 3–5 weeks` },
-      { label: "Support after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Support after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Redesign of an old site", note: "We rebuild from a copy of your current site, keep URLs and set redirects, so no visit to your office is needed.", href: "/website-redesign-freelancer/", size: "md" },
       { name: "App for your customers", note: `Android and iOS from one codebase, from ${P.app}, published in your own store accounts.`, href: "/it-services/android-ios-app/", size: "sm" },
       { name: "WhatsApp and AI automation", note: `Auto-replies, lead sorting and order updates, from ${P.ai}. Set up over screen share.`, href: "/whatsapp-automation-expert/", size: "sm" },
-      { name: "Maintenance", note: `Five months free after launch, then from ${P.care}. Changes are requested by message and done remotely.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Two months free after launch, then from ${P.care}. Changes are requested by message and done remotely.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Accounts and code", "Varies; sometimes in their name", "Varies by seller", "Created in your name from the first week"],
       ["On-site help", "Possible", "No", "No: we do not visit offices or install hardware"],
       ["Local SEO result", "Depends on skill, not postcode", "Depends on skill", "Built in; monthly SEO from " + P.seo],
-      ["Aftercare", "Informal favours", "Paid per job", "5 months free, then from " + P.care],
+      ["Aftercare", "Informal favours", "Paid per job", "2 months free, then from " + P.care],
     ],
     fine: "If you need someone to physically set up office computers, printers or a shop display screen, a local technician is the right hire; that is outside what we do.",
   },
@@ -169,7 +169,7 @@ const content: FreelanceContent = {
       heading: "What keeps a remote freelancer accountable if something goes wrong?",
       paragraphs: [
         `Accountability comes from what is written and what you control. A freelancer next door who made only verbal promises is harder to hold to account than a remote one with a signed-off scope.`,
-        `Start with the quote. Ours lists every page, feature and timeline, so both sides know what “done” means. Then the staging link, where you watch the site grow and can flag problems before launch. Then the repository and hosting, which you own, so the work can move to someone else if you are unhappy. Finally, the free maintenance period, which covers fixes for five months after launch, so bugs that surface later are not your cost.`,
+        `Start with the quote. Ours lists every page, feature and timeline, so both sides know what “done” means. Then the staging link, where you watch the site grow and can flag problems before launch. Then the repository and hosting, which you own, so the work can move to someone else if you are unhappy. Finally, the free maintenance period, which covers fixes for two months after launch, so bugs that surface later are not your cost.`,
         `There is also a practical layer. BtechWaleTech is three people, so if one of us is ill or travelling, the other two already know your code. A solo freelancer, local or remote, cannot offer that.`,
       ],
       subs: [
@@ -209,7 +209,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance web developer near me cost compared with a remote one?",
       paragraphs: [
         `Quotes vary widely between freelancers, and the variation comes from scope, experience and aftercare far more than from the city they live in. A local freelancer in a small town is not automatically cheaper, and a remote one is not automatically pricier.`,
-        `Our starting points are public. A static website of up to 100 pages starts at ${P.site}. An SEO website with 299+ pages starts at ${P.seoSite}. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android and iOS app at ${P.app}. Ongoing SEO starts at ${P.seo}, and maintenance, after five free months, starts at ${P.care}.`,
+        `Our starting points are public. A static website of up to 100 pages starts at ${P.site}. An SEO website with 299+ pages starts at ${P.seoSite}. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android and iOS app at ${P.app}. Ongoing SEO starts at ${P.seo}, and maintenance, after two free months, starts at ${P.care}.`,
         `To compare fairly, ask each candidate to price the same brief line by line. Then check what is missing: content writing, speed work, schema, backups, support after launch. A cheaper quote that leaves out aftercare often costs more over a year.`,
       ],
       after: [`A detailed breakdown sits on <a href='/website-developer-cost/'>website developer cost</a>.`],
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Get the itemised quote", "Within about two working days you receive every page and feature priced separately with dates. Nothing is billed until you approve it in writing."],
       ["Open accounts in your name", "Domain and hosting are created under your email, paid from your card, with us added as users only."],
       ["Review on your own phone", "Pages go up on a private staging link. Comment by chat or voice note; changes appear on the same link."],
-      ["Launch, hand over, stay reachable", "We go live, pass on every login and a recorded walkthrough, and fix issues free for five months, then from " + P.care + " if you choose."],
+      ["Launch, hand over, stay reachable", "We go live, pass on every login and a recorded walkthrough, and fix issues free for two months, then from " + P.care + " if you choose."],
     ],
   },
   faqHeading: "Freelance web developer near me: common questions",
@@ -394,11 +394,11 @@ const content: FreelanceContent = {
     { question: "Can a remote freelance web developer take product photos?", answer: "No. Photos need someone on the spot. You can hire a local photographer or take clear shots on a good phone in daylight and share them on WhatsApp or Google Drive. The developer then crops, compresses and places them so pages stay fast." },
     { question: "Do I need a contract with a freelance web developer near me?", answer: "Yes. Whether the freelancer is local or remote, write down the scope, price, timeline, payment stages and ownership terms. A detailed email both sides confirm is enough for most small sites. Add an NDA if you share customer data or unreleased plans." },
     { question: "Can I get a GST invoice from a freelance web developer?", answer: "Only if the freelancer is registered for GST, which not all are. If your business needs input credit, ask about invoicing at the quote stage rather than at the final payment, so you can choose accordingly. Clarify it in writing along with the rest of the scope." },
-    { question: "What happens after launch if my developer is not local?", answer: `Support continues remotely. BtechWaleTech includes five months of free maintenance after launch, covering fixes, small edits and updates, requested by WhatsApp. After that, maintenance is optional and starts at ${P.care}. Most fixes take minutes over a screen share, with no travel needed.` },
+    { question: "What happens after launch if my developer is not local?", answer: `Support continues remotely. BtechWaleTech includes two months of free maintenance after launch, covering fixes, small edits and updates, requested by WhatsApp. After that, maintenance is optional and starts at ${P.care}. Most fixes take minutes over a screen share, with no travel needed.` },
     { question: "Can the same remote team build my app later?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app} using Flutter or React Native, published in your own Google Play and App Store accounts. Because we already know your website and customers, the app can share its data and design without starting from zero.` },
     { question: "How quickly will a remote freelancer reply to me?", answer: "It depends on the person, so ask directly before hiring. BtechWaleTech replies on WhatsApp the same day, seven days a week, in Indian time. Urgent problems on a live site, such as a broken form, are usually fixed within hours during the free maintenance period." },
     { question: "Is a marketplace freelancer the same as a remote freelancer?", answer: "Not quite. Marketplace freelancers work through platforms such as Upwork or Fiverr, which add a service fee and keep messages inside the platform. Hiring a remote freelancer directly means you agree terms together and pay without a middleman, which makes ownership terms even more important to get in writing." },
-    { question: "Mere shehar mein freelance web developer nahi mila, kya karoon?", answer: `Remote developer se bhi website utni hi achhi banti hai. Domain aur hosting apne naam par rakhiye, likhit quote lijiye aur stages mein payment kijiye. BtechWaleTech ki simple website ${P.site} se shuru hoti hai, baat video ya phone call par hoti hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Mere shehar mein freelance web developer nahi mila, kya karoon?", answer: `Remote developer se bhi website utni hi achhi banti hai. Domain aur hosting apne naam par rakhiye, likhit quote lijiye aur stages mein payment kijiye. BtechWaleTech ki simple website ${P.site} se shuru hoti hai, baat video ya phone call par hoti hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can I visit the BtechWaleTech office?", answer: "We do not have an office to visit. BtechWaleTech is three freelance developers who work remotely from India, so every project runs over calls, chat and shared links. You will still speak directly with the people building your site, and every decision is recorded in writing." },
   ],
   related: {
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "No developer nearby you trust? Talk to us on a call first",
-    note: `Send your brief on WhatsApp and we will set up a short call, then send an itemised quote within about two working days. Websites start at ${P.site}, accounts stay in your name, and you get five months of free maintenance after launch.`,
+    note: `Send your brief on WhatsApp and we will set up a short call, then send an itemised quote within about two working days. Websites start at ${P.site}, accounts stay in your name, and you get two months of free maintenance after launch.`,
   },
 };
 

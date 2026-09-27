@@ -31,11 +31,11 @@ const bharatpur: CityContent = {
     eyebrow: "Bharatpur · Rajasthan",
     h1: "Websites, software, SEO and AI tools for mustard oil mills, Keoladeo hotels and guides, and the town's clinics and shops",
     lede:
-      "We are a remote team of three engineers building websites, Google listings and WhatsApp workflows for Bharatpur: kachi ghani and mustard oil mills, hotels, homestays and naturalist guides around Keoladeo, hospitals and diagnostic centres, schools and coaching, and shops in the old walled city and new colonies. Prices are published, you speak to the developers, and upkeep is free for five months.",
+      "We are a remote team of three engineers building websites, Google listings and WhatsApp workflows for Bharatpur: kachi ghani and mustard oil mills, hotels, homestays and naturalist guides around Keoladeo, hospitals and diagnostic centres, schools and coaching, and shops in the old walled city and new colonies. Prices are published, you speak to the developers, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Oil mill catalogues", "Hotel booking pages", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "A business website in Bharatpur starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Bharatpur office, and maintenance is free for five months after launch.",
+    "A business website in Bharatpur starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Bharatpur office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Regional role", value: "Divisional and district headquarters in eastern Rajasthan, about 56 km from Agra and on the routes to Delhi and Jaipur" },
     { label: "Mustard and oil", value: "A major mustard-growing district with hundreds of registered oil mills and an edible oil mill cluster in the city" },
@@ -52,10 +52,10 @@ const bharatpur: CityContent = {
     ai: "WhatsApp replies that share room rates, park timings, oil prices or OPD schedules in Hindi and English and pass real bookings to you.",
     data: "Seasonal dashboards for mills, hotels and clinics, so you can see mustard arrivals, occupancy or patient numbers week by week.",
     app: "Android and iOS apps for guide scheduling at Keoladeo, order booking or staff attendance, released on both stores in six to ten weeks.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Bharatpur businesses tend to get websites from a local freelancer, an Agra or Jaipur agency, or an online booking platform that takes a commission on every room. We offer a straightforward alternative: published prices, itemised written quotes, the three engineers reachable on WhatsApp seven days a week, and a site you fully own, with five months of free upkeep.",
+    "Bharatpur businesses tend to get websites from a local freelancer, an Agra or Jaipur agency, or an online booking platform that takes a commission on every room. We offer a straightforward alternative: published prices, itemised written quotes, the three engineers reachable on WhatsApp seven days a week, and a site you fully own, with two months of free upkeep.",
   pricingIntro:
     "In Bharatpur, website quotes are rarely written down and often grow after work starts. Our starting prices are published openly. The final amount depends on pages, languages, features and how much content we write for you, and it reaches you in writing, line by line, before any work begins.",
   sections: [
@@ -168,7 +168,7 @@ const bharatpur: CityContent = {
       paragraphs: [
         "Hotels and shops in tourist towns often lose their websites because the domain was registered by a developer or agent who later disappeared. The owner cannot update tariffs or renew the site, and guests end up finding an outdated page or nothing at all.",
         "We register the domain and hosting in your name and on your payment method from day one. At launch you receive every login, the full source code and a written handover note. You can move to another developer at any time, with no exit fee. Our <a href=\"/services/web-development/\">web development</a> uses common, well-documented tools so any competent developer can continue.",
-        "For five months after launch, maintenance is free: security and software updates, backups, uptime checks, bug fixes, and small changes such as new tariffs or photos. After that, it continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "For two months after launch, maintenance is free: security and software updates, backups, uptime checks, bug fixes, and small changes such as new tariffs or photos. After that, it continues from ₹8,000 a month, or you can contact us only when you need something.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const bharatpur: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle security and software updates, backups, uptime checks, bug fixes and small changes such as new tariffs, prices or photos at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle security and software updates, backups, uptime checks, bug fixes and small changes such as new tariffs, prices or photos at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "How long will SEO take in Bharatpur?",

@@ -56,7 +56,7 @@ const ozar: CityContent = {
     ai: "WhatsApp assistants in Marathi that answer rate, booking and admission questions and send decisions back to you.",
     data: "Season dashboards of plot-wise harvest, crates packed, rejections, buyer payments and container dispatches.",
     app: "Android and iOS apps for vineyard supervisors logging spray and harvest work or for regular buyers placing orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Upkeep is on us for the first five months after go-live; after that, pre-season updates, backups and security fixes continue from ₹8,000 a month if you want them.",
+    maintenance: "Upkeep is on us for the first two months after go-live; after that, pre-season updates, backups and security fixes continue from ₹8,000 a month if you want them.",
   },
   whyUsIntro:
     "Grape families in Ozar work to export deadlines and residue reports, where one missed date can cost a consignment. We try to work the same way. Starting prices are public, every quote is broken into items, WhatsApp is answered on all seven days, and the domain, server, source code and Play and App Store listings are opened under your own name. If a feature will not repay its cost, you hear that from us first.",
@@ -201,7 +201,7 @@ const ozar: CityContent = {
       heading: "Who owns your Ozar website and app, and how it is maintained",
       paragraphs: [
         "You do. We open the domain against your email ID, set up hosting in your name, hand over the complete source code, and add you as owner on the Google Business Profile, the Google Play console and the Apple developer account. A handover sheet lists every username and where it is used, so the project never depends on us.",
-        "Upkeep costs nothing for the first five months after launch. In that window we change prices and photographs before the season, keep backups, install security updates and check that forms, checkout and WhatsApp buttons still work. Later you can keep us on from ₹8,000 a month, run it yourself, or give the code to a developer of your choice.",
+        "Upkeep costs nothing for the first two months after launch. In that window we change prices and photographs before the season, keep backups, install security updates and check that forms, checkout and WhatsApp buttons still work. Later you can keep us on from ₹8,000 a month, run it yourself, or give the code to a developer of your choice.",
         "Apps are the part people forget. Google and Apple raise their minimum requirements every year, and an app that misses the deadline can be hidden from the store. We track those dates so an update ships before harvest, when supervisors lean on the app most.",
       ],
     },
@@ -284,7 +284,7 @@ const ozar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance come free once the site or app is live. That covers seasonal price and photo changes, backups, security patches and routine checks of forms, checkout and WhatsApp links. Afterwards, stay with us from ₹8,000 a month, look after it in-house, or hand it to any developer, since the code and accounts are already registered to you.",
+        "Two months of maintenance come free once the site or app is live. That covers seasonal price and photo changes, backups, security patches and routine checks of forms, checkout and WhatsApp links. Afterwards, stay with us from ₹8,000 a month, look after it in-house, or hand it to any developer, since the code and accounts are already registered to you.",
     },
     {
       question: "Do you work in Pimpalgaon, Niphad and Nashik as well?",

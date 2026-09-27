@@ -56,7 +56,7 @@ const punch: CityContent = {
     ai: "WhatsApp assistants that answer room, fare and timing questions in Urdu, Hindi or English, day and night, and pass real bookings to you.",
     data: "Simple dashboards of bookings by month, fares collected and outstanding dues, so the busy season can be planned.",
     app: "Android and iOS apps from ₹40,000 for taxi bookings, coaching batches or clinic tokens, published on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Poonch businesses are used to being far from everything, including the agencies in Jammu and Srinagar. We are remote by design: starting prices are published, quotes are itemised in writing, WhatsApp is answered every day, and the domain, code and store accounts are registered to you. If a plain listing will serve you better than a website, we will say so.",
@@ -189,7 +189,7 @@ const punch: CityContent = {
       heading: "Ownership and maintenance after your Poonch site or app goes live",
       paragraphs: [
         "You own the work outright. The domain is registered with your email, hosting is billed to you, the source code is handed over, and your Google listing and app store accounts are in your name. A written sheet of every login is given to you at handover, so you are never dependent on one developer.",
-        "Maintenance is free for five months after launch: updating rates and photos before the season, backups, security updates, and checks that forms, payments and WhatsApp buttons work. After that you can continue with us from ₹8,000 a month, handle it yourself, or move to anyone else. Apps get their yearly platform update before Google or Apple deadlines, so they stay listed. Read about <a href=\"/services/web-development/\">our web development service</a>.",
+        "Maintenance is free for two months after launch: updating rates and photos before the season, backups, security updates, and checks that forms, payments and WhatsApp buttons work. After that you can continue with us from ₹8,000 a month, handle it yourself, or move to anyone else. Apps get their yearly platform update before Google or Apple deadlines, so they stay listed. Read about <a href=\"/services/web-development/\">our web development service</a>.",
       ],
     },
     {
@@ -279,7 +279,7 @@ const punch: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch there is no maintenance charge: we update rates and photos, take backups, apply security updates and check forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are yours, you can move elsewhere at any time.",
+        "For two months after launch there is no maintenance charge: we update rates and photos, take backups, apply security updates and check forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it. Since the code and accounts are yours, you can move elsewhere at any time.",
     },
     {
       question: "Do you work in Mendhar, Surankote and Rajouri?",

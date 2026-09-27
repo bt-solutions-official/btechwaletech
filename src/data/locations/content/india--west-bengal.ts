@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Consulting first", "Bengali and English", "Android & iOS from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions across West Bengal as a remote freelance group of three engineers, not an IT services team. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of maintenance included free.",
+    "BtechWaleTech provides IT consulting and IT solutions across West Bengal as a remote freelance group of three engineers, not an IT services team. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with two months of maintenance included free.",
   snapshot: [
     { label: "Capital and major cities", value: "Kolkata is the capital; Howrah, Asansol, Durgapur, Siliguri, Bardhaman, Kharagpur, Haldia and Baharampur are other key centres" },
     { label: "Technology hubs", value: "Salt Lake Sector V and New Town (Rajarhat) host most IT and ITeS offices, with state-backed IT parks in several district towns" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "Bengali and English AI agents on WhatsApp that answer customers, record orders, send reminders and summarise documents, with staff taking over when needed.",
     data: "Dashboards that combine Tally, spreadsheets and our apps so owners see stock, sales, receivables and production across units at a glance.",
     app: "Android and iOS apps for West Bengal dealers, field staff, farmers' agents, students and tourists, built in Flutter or React Native for Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then optional plans from ₹8,000 a month with WhatsApp replies every day.",
+    maintenance: "Two months of free maintenance after launch, then optional plans from ₹8,000 a month with WhatsApp replies every day.",
   },
   whyUsIntro:
     "Many West Bengal businesses are family-run across generations and wary of consultants who arrive with big promises. We keep it modest and concrete: three engineers, starting prices on the table, every account in your name, and advice you can check.",
@@ -84,7 +84,7 @@ const content: CityContent = {
       paragraphs: [
         "A freelance IT group is right for West Bengal businesses with clearly defined projects, moderate budgets and a preference for dealing directly with the engineers; an IT solutions team is right when you need large teams, on-site staff or long enterprise contracts.",
         "Kolkata's Sector V and New Town host many IT firms, while district towns have fewer options and rely on local vendors. If you are comparing IT companies in West Bengal, ask every candidate the same practical questions: can I see a working system you built, who writes the code, is the quote itemised, will the domain, hosting, app store listings and code be in my name, and what does support cost after launch?",
-        "BtechWaleTech is a freelance group of three engineers. We do not have a Kolkata office, do not make site visits and take a limited number of projects at a time. What you get instead is continuity, because the same three people consult, build and maintain, along with WhatsApp replies seven days a week and five months of free maintenance.",
+        "BtechWaleTech is a freelance group of three engineers. We do not have a Kolkata office, do not make site visits and take a limited number of projects at a time. What you get instead is continuity, because the same three people consult, build and maintain, along with WhatsApp replies seven days a week and two months of free maintenance.",
       ],
     },
     {
@@ -197,7 +197,7 @@ const content: CityContent = {
       paragraphs: [
         "IT solutions in West Bengal with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month after the free period.",
         "These are starting prices. The final figure depends on the number of screens and roles, integrations with Tally or other systems, offline needs, Bengali and English versions, data migration from registers and content writing. After a free consulting call, you receive an itemised quote in about two working days and can phase features to suit your budget.",
-        "Clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, split into milestones tied to visible progress. Five months of maintenance come free after launch. See every plan on our <a href='/pricing/'>pricing page</a> and past work in the <a href='/portfolio/'>portfolio</a>.",
+        "Clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, split into milestones tied to visible progress. Two months of maintenance come free after launch. See every plan on our <a href='/pricing/'>pricing page</a> and past work in the <a href='/portfolio/'>portfolio</a>.",
       ],
     },
     {
@@ -205,7 +205,7 @@ const content: CityContent = {
       heading: "How we deliver and support West Bengal projects remotely",
       paragraphs: [
         "We deliver West Bengal projects fully remotely, using video calls, screen shares, WhatsApp and a live preview link, and provide support the same way after launch. There is no office in Kolkata or any district, and we do not visit sites.",
-        "Each project follows a clear path: free consultation, itemised quote, milestone plan, a working preview in the first week, weekly progress updates, testing with the staff who will use the system, launch on hosting in your name, and recorded training videos in Bengali, Hindi or English. Five months of maintenance are then included free.",
+        "Each project follows a clear path: free consultation, itemised quote, milestone plan, a working preview in the first week, weekly progress updates, testing with the staff who will use the system, launch on hosting in your name, and recorded training videos in Bengali, Hindi or English. Two months of maintenance are then included free.",
         "Remote work suits a Bankura terracotta seller as well as a Salt Lake startup; all you need is WhatsApp and someone who can share files or photos. For printers, networks and CCTV, keep a local technician. Learn about the three of us on the <a href='/about/'>about page</a>, see city detail on our <a href='/india/west-bengal/kolkata/'>Kolkata IT consulting page</a>, or explore other states on the <a href='/india/'>India hub</a>.",
       ],
     },
@@ -288,7 +288,7 @@ const content: CityContent = {
     {
       question: "What does maintenance cover?",
       answer:
-        "Five months of free maintenance after hosting goes live covers bug fixes, content updates, security patches, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; hardware and networks need a local technician.",
+        "Two months of free maintenance after hosting goes live covers bug fixes, content updates, security patches, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week; hardware and networks need a local technician.",
     },
     {
       question: "Do you work with businesses in the hills and small towns?",

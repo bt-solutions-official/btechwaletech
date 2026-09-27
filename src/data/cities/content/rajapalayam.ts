@@ -31,11 +31,11 @@ const rajapalayam: CityContent = {
     eyebrow: "Rajapalayam · Tamil Nadu",
     h1: "Websites, apps, SEO and AI automation for Rajapalayam's mills, bandage makers, nightwear units and mango growers",
     lede:
-      "We are three engineers working remotely for businesses in Rajapalayam and the surrounding Virudhunagar belt. We build export-ready catalogues for surgical cotton and gauze units, trade sites for nightwear makers in Dhalavaipuram and Muhavoor, seasonal mango stores and school or clinic websites. Prices are published and maintenance is free for five months.",
+      "We are three engineers working remotely for businesses in Rajapalayam and the surrounding Virudhunagar belt. We build export-ready catalogues for surgical cotton and gauze units, trade sites for nightwear makers in Dhalavaipuram and Muhavoor, seasonal mango stores and school or clinic websites. Prices are published and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "B2B and export catalogues", "Mango season pre-orders", "WhatsApp order desks"],
   },
   quickAnswer:
-    "In Rajapalayam, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Rajapalayam office, and five months of maintenance are free.",
+    "In Rajapalayam, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Rajapalayam office, and two months of maintenance are free.",
   snapshot: [
     { label: "District", value: "Largest municipality in Virudhunagar district, at the foothills of the Western Ghats" },
     { label: "Textile base", value: "Called the “Cotton City”, with spinning mills since the 1930s and a long-running surgical cotton industry" },
@@ -52,10 +52,10 @@ const rajapalayam: CityContent = {
     ai: "WhatsApp assistants that share catalogues, MOQs and dispatch status with wholesale buyers in Tamil or English, even outside office hours.",
     data: "Dashboards showing orders, production and outstanding payments by buyer and product for mill owners and garment exporters.",
     app: "Android and iOS apps for field sales, school updates or orchard pre-orders, published on both app stores and ready in six to ten weeks.",
-    maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security fixes for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Rajapalayam businesses often hire developers in Madurai or Chennai, paying city rates and waiting for replies, or they settle for a basic template that doesn't explain their products properly. We publish our starting prices, write the code ourselves, answer WhatsApp seven days a week and maintain your site free for five months after it goes live.",
+    "Rajapalayam businesses often hire developers in Madurai or Chennai, paying city rates and waiting for replies, or they settle for a basic template that doesn't explain their products properly. We publish our starting prices, write the code ourselves, answer WhatsApp seven days a week and maintain your site free for two months after it goes live.",
   pricingIntro:
     "These are starting prices, not packages. A school website is a very different job from a gauze manufacturer's export catalogue with certifications and RFQ handling, so every quote is itemised once we understand the work. You receive it in writing, and nothing is billed without your approval.",
   sections: [
@@ -188,7 +188,7 @@ const rajapalayam: CityContent = {
       paragraphs: [
         "Many regional businesses have lost websites because a developer registered the domain in his own name and then disappeared. The company couldn't renew it, edit it or move it, and years of search presence vanished.",
         "We register the domain and hosting in your company's name from day one. At launch you receive every login, the full source code and a short document explaining the setup. You can move to another developer at any time with no exit charge.",
-        "For five months after launch, maintenance is free: content and price updates, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains how we build and hand over.",
+        "For two months after launch, maintenance is free: content and price updates, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains how we build and hand over.",
       ],
     },
     {
@@ -280,7 +280,7 @@ const rajapalayam: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle content and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "How long before SEO brings results?",

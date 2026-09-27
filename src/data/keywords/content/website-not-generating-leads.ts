@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Ongoing SEO", `From ${P.seo} a month`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Proof", "GA4 key events you can read yourself"],
-    ["After a rebuild", "5 months of free maintenance"],
+    ["After a rebuild", "2 months of free maintenance"],
   ],
   stats: [
     { value: "2", label: "Working days to an itemised quote" },
     { value: "3", label: "Freelance developers who check your site" },
-    { value: "5", label: "Months of free maintenance after a rebuild" },
+    { value: "2", label: "Months of free maintenance after a rebuild" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
         ["SEO website, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Many services or towns to cover"],
         ["Monthly SEO and testing", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Intent re-mapping, content, reporting"],
         ["WhatsApp automation and lead sorting", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High chat volume, after-hours replies"],
-        ["Maintenance after the free 5 months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, form monitoring"],
+        ["Maintenance after the free 2 months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, form monitoring"],
       ],
       hideSm: [2],
     },

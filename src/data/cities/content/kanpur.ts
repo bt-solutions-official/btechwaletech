@@ -7,7 +7,7 @@ const kanpur: CityContent = {
   meta: {
     title: "IT Services in Kanpur: Websites, Apps, SEO & AI",
     description:
-      "Websites, export catalogues, SEO and automation for Kanpur tanneries, hosiery units, traders and coaching institutes. From ₹10,000 with 5 months free maintenance.",
+      "Websites, export catalogues, SEO and automation for Kanpur tanneries, hosiery units, traders and coaching institutes. From ₹10,000 with 2 months free maintenance.",
     keywords: [
       "website development team in Kanpur",
       "web design team Kanpur",
@@ -31,11 +31,11 @@ const kanpur: CityContent = {
     eyebrow: "Kanpur · Uttar Pradesh",
     h1: "Web, app, SEO and automation services for Kanpur's exporters, factories, traders and institutes",
     lede:
-      "From tanneries in Jajmau to hosiery units, Generalganj wholesalers and Kakadeo coaching centres, we build websites and tools that help Kanpur firms win buyers they have never met. Three engineers, published prices, your name on the domain, and five months of maintenance after launch at no charge.",
+      "From tanneries in Jajmau to hosiery units, Generalganj wholesalers and Kakadeo coaching centres, we build websites and tools that help Kanpur firms win buyers they have never met. Three engineers, published prices, your name on the domain, and two months of maintenance after launch at no charge.",
     pills: ["Websites from ₹10,000", "Export-ready catalogues", "Hindi and English SEO", "Order automation", "Factory dashboards"],
   },
   quickAnswer:
-    "Website development in Kanpur with us starts at ₹10,000 for a static business site, ₹20,000 for a 299+ page SEO site and ₹50,000 for an online store. Custom software starts at ₹60,000. We are a remote team of three engineers, so there is no showroom cost, you own everything, and maintenance is free for five months.",
+    "Website development in Kanpur with us starts at ₹10,000 for a static business site, ₹20,000 for a 299+ page SEO site and ₹50,000 for an online store. Custom software starts at ₹60,000. We are a remote team of three engineers, so there is no showroom cost, you own everything, and maintenance is free for two months.",
   snapshot: [
     { label: "Leather cluster", value: "Tanneries concentrated at Jajmau on the Ganga, with more across the river in Unnao; finished leather, footwear and saddlery exported worldwide" },
     { label: "Industrial estates", value: "Panki, Dada Nagar and Fazalganj, plus a long history of textile and woollen mills" },
@@ -52,7 +52,7 @@ const kanpur: CityContent = {
     ai: "Automations that turn WhatsApp order messages into proper orders, send price lists to new dealers and chase pending payments politely.",
     data: "Production, dispatch and outstanding-payment reports built into a dashboard that updates itself instead of being compiled every Saturday.",
     app: "Android and iOS apps for field salesmen, dealers and students that handle cheap handsets and patchy connections, published on both stores from ₹40,000.",
-    maintenance: "Five free months of fixes, backups, updates and speed checks after launch, then support from ₹8,000 a month.",
+    maintenance: "Two free months of fixes, backups, updates and speed checks after launch, then support from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kanpur businesses are practical buyers. They want to know the cost, the timeline and who is accountable. Most local web firms answer those questions only after a visit and a negotiation. We put our starting prices in public, put the domain in your name, and reply on WhatsApp every day of the week, Sundays included.",
@@ -168,7 +168,7 @@ const kanpur: CityContent = {
       paragraphs: [
         "We regularly meet Kanpur business owners who cannot edit their own website because the developer who built it has moved on and still holds the logins. Sometimes the domain has lapsed and been bought by someone else. It is an avoidable problem, and avoiding it is part of our standard process.",
         "Your domain is registered in your name and your hosting account is opened in your name. At launch you receive every password, the full source code and a short document explaining how the pieces fit together. If you ever want to switch to another developer, you can do it the same day, with no exit fee and no need for our permission.",
-        "The first five months after launch include free maintenance: content and price updates, fixes, security patches, backups, uptime monitoring and speed checks. After that you can continue from ₹8,000 a month or pay only for changes when you need them. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
+        "The first two months after launch include free maintenance: content and price updates, fixes, security patches, backups, uptime monitoring and speed checks. After that you can continue from ₹8,000 a month or pay only for changes when you need them. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -262,9 +262,9 @@ const kanpur: CityContent = {
         "Map results for nearby searches often improve within two to three months once the profile and website are fixed. Broader city-wide or export keywords usually take four to eight months of consistent work. We report monthly and never promise a guaranteed position, because nobody can honestly offer one.",
     },
     {
-      question: "What is covered by the five months of free maintenance?",
+      question: "What is covered by the two months of free maintenance?",
       answer:
-        "Content and price updates, bug fixes, security and software updates, backups, uptime checks and speed reviews for five months after launch at no charge. After that, maintenance continues from ₹8,000 a month, or you can pay only for individual changes. There is no forced annual contract.",
+        "Content and price updates, bug fixes, security and software updates, backups, uptime checks and speed reviews for two months after launch at no charge. After that, maintenance continues from ₹8,000 a month, or you can pay only for individual changes. There is no forced annual contract.",
     },
     {
       question: "Do you work with businesses in Unnao, Lucknow and nearby towns?",

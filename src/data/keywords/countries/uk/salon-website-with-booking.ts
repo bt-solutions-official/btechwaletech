@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks after your menu and photos arrive"],
     ["Website with product shop", `From ${P.shop}`],
     ["Custom booking system", `From ${P.software}`],
-    ["Free maintenance", "5 months from launch"],
+    ["Free maintenance", "2 months from launch"],
     ["Written quote", "About 2 working days"],
   ],
   stats: [
     { value: "3", label: "Developers: build, booking set-up and local search" },
     { value: "0", label: "Commission taken by us on any booking" },
-    { value: "5", label: "Months of free maintenance after going live" },
+    { value: "2", label: "Months of free maintenance after going live" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp booking replies", note: `Automatic WhatsApp replies with your booking link, opening hours and aftercare notes, from ${P.ai}.`, href: "/uk/whatsapp-business-api-integration/", size: "md" },
       { name: "Moving off a rented site", note: "Rebuild from a template or marketplace mini-site onto hosting you own, with redirects so Google keeps finding you.", href: "/uk/website-redesign-services/", size: "md" },
       { name: "Salon app", note: `A branded app for loyalty and rebooking, from ${P.app}. Worth it for groups, rarely for one salon.`, href: "/uk/flutter-app-development/", size: "sm" },
-      { name: "Care plan", note: `Price updates, new stylists and backups from ${P.care} after the five free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Care plan", note: `Price updates, new stylists and backups from ${P.care} after the two free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Salon website with booking: prices",
-    note: `A salon website of up to 100 pages starts at ${P.site} and covers your menu with ‘from’ prices, stylist profiles, a gallery, reviews, FAQs and booking buttons for every service category, linked to the direct booking page of your salon software. If you sell haircare or gift vouchers, a full shop starts at ${P.shop}. Salons wanting their own booking system with deposits and client logins start at ${P.software}. Local search help starts at ${P.seo} a month, and care plans start at ${P.care} after five free months. Every figure here is a starting price, itemised in your quote.`,
+    note: `A salon website of up to 100 pages starts at ${P.site} and covers your menu with ‘from’ prices, stylist profiles, a gallery, reviews, FAQs and booking buttons for every service category, linked to the direct booking page of your salon software. If you sell haircare or gift vouchers, a full shop starts at ${P.shop}. Salons wanting their own booking system with deposits and client logins start at ${P.software}. Local search help starts at ${P.seo} a month, and care plans start at ${P.care} after two free months. Every figure here is a starting price, itemised in your quote.`,
   },
   guideLabel: "Salon website with booking guide",
   guide: [
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Design on a staging link", "We build the menu, stylist profiles and gallery on a private link you can check from your phone between clients."],
       ["Booking wired everywhere", "Every service, stylist and price table gets a booking button using your direct link. We test each one on a phone, including deposits."],
       ["Switch every route", "At launch we help update your Google Business Profile, and give you a list of bio links, QR codes and printed materials to switch to the new address."],
-      ["Five months of support", "Price changes, new stylists and fixes are covered for five months after launch. Care plans follow only if you want them."],
+      ["Two months of support", "Price changes, new stylists and fixes are covered for two months after launch. Care plans follow only if you want them."],
     ],
   },
   faqHeading: "Salon website with booking: questions salon owners ask",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Do I need a cookie banner on my salon website?", answer: "If your site uses analytics, advertising pixels or social embeds that set non-essential cookies, PECR requires consent before they load. The ICO says simply continuing to browse is not consent. We build a banner with clear accept and reject options that keeps those tags off until a visitor agrees. Your cookie notice text is yours to approve." },
     { question: "Can clients get booking replies on WhatsApp?", answer: `Yes. An automated WhatsApp setup can reply with your booking link, opening hours, parking notes and aftercare advice, and pass anything else to you. It starts at ${P.ai}. Marketing messages need clients' consent under PECR, so we keep booking replies and promotions separate and add an opt-in on the booking form.` },
     { question: "How do I pay for the project from the UK?", answer: "Your quote is itemised in USD. You can pay in USD or GBP by Wise, bank wire or PayPal, and invoices come from India. Milestones are written into the quote, and nothing is billed until you approve it. For VAT or tax questions about paying an overseas supplier, speak to your accountant." },
-    { question: "What support do I get after the site launches?", answer: `Five months of maintenance are free: price updates, new stylists, fixes and software updates. After that, care plans start at ${P.care}, or you can manage the site yourself because you hold every login. Most salons only need help around January price rises and new staff.` },
+    { question: "What support do I get after the site launches?", answer: `Two months of maintenance are free: price updates, new stylists, fixes and software updates. After that, care plans start at ${P.care}, or you can manage the site yourself because you hold every login. Most salons only need help around January price rises and new staff.` },
     { question: "Can you move my salon off a rented template website?", answer: "Yes. We rebuild the pages on hosting you own, move your content and photos, set up redirects from old addresses so Google keeps finding you, and switch booking to your direct link. Check your current contract for notice terms first, and make sure the domain is registered in your name before you cancel." },
   ],
   related: {

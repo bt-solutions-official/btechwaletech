@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "9", label: "New success criteria in WCAG 2.2" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "3", label: "Developers testing and fixing" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "What is a website accessibility audit, and does a UK business need one?",
@@ -243,7 +243,7 @@ const content: FreelanceContent = {
         `Quotes across the UK vary widely, from low-cost automated reports to large consultancy engagements with user testing panels. What moves the price is scope, not the name on the report. Our audit is quoted per project after we see the site, and the fix work is quoted from the resulting issue log.`,
         `The main cost drivers are the number of distinct templates and components, the number of journeys, whether dynamic web-app behaviour is involved (live search, dashboards, drag-and-drop), whether native apps are in scope, how many PDFs matter, and whether you want an accessibility statement drafted. On the fix side, what matters is how many issues sit in shared components versus one-off content, and whether the theme or page builder fights against accessible markup.`,
         `Sometimes the honest answer is that repairing an old page-builder theme will cost more than rebuilding. In that case we quote an accessible rebuild: static sites from ${P.site}, SEO sites with many pages from ${P.seoSite}, online shops from ${P.shop}, and custom web apps or portals from ${P.software}. Rebuilds include accessibility testing before launch.`,
-        `Ongoing, the care plan from ${P.care} (after five free months) can include regression checks when you add pages or plugins, so the site does not quietly drift back.`,
+        `Ongoing, the care plan from ${P.care} (after two free months) can include regression checks when you add pages or plugins, so the site does not quietly drift back.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Test by hand", "Keyboard, NVDA, VoiceOver, zoom and contrast testing across every agreed journey, backed by automated scans and short recordings of serious barriers."],
       ["Walk through the issue log", "A ranked list with criterion, impact, evidence and fix for each issue, explained on a call with you and your developer or content team."],
       ["Fix sprint", "Blockers first, then serious issues on busy journeys. We change templates, components and CSS in a staging copy for your review."],
-      ["Re-test and hand over", "Fixed journeys re-tested, the log updated, a statement drafted if wanted, and five months of free fixes to anything we changed."],
+      ["Re-test and hand over", "Fixed journeys re-tested, the log updated, a statement drafted if wanted, and two months of free fixes to anything we changed."],
     ],
   },
   faqHeading: "Website accessibility audit UK: questions businesses ask",

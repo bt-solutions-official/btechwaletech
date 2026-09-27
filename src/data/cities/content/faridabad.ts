@@ -7,7 +7,7 @@ const faridabad: CityContent = {
   meta: {
     title: "IT Services in Faridabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Faridabad manufacturers, auto-part suppliers, clinics and builders. From ₹10,000, remote team, five months of free maintenance.",
+      "Websites, SEO and automation for Faridabad manufacturers, auto-part suppliers, clinics and builders. From ₹10,000, remote team, two months of free maintenance.",
     keywords: [
       "website development team in Faridabad",
       "web design team Faridabad",
@@ -32,11 +32,11 @@ const faridabad: CityContent = {
     eyebrow: "Faridabad · Haryana",
     h1: "Websites and software for Faridabad's factories, clinics and growing sectors",
     lede:
-      "Three engineers, working remotely, who build supplier sites for Mathura Road and Ballabgarh manufacturers, project pages for Greater Faridabad builders, and WhatsApp systems for clinics and schools across the sectors. You get Delhi-quality work at published freelance prices, full ownership of your accounts, and five months of free maintenance after launch.",
+      "Three engineers, working remotely, who build supplier sites for Mathura Road and Ballabgarh manufacturers, project pages for Greater Faridabad builders, and WhatsApp systems for clinics and schools across the sectors. You get Delhi-quality work at published freelance prices, full ownership of your accounts, and two months of free maintenance after launch.",
     pills: ["Websites from ₹10,000", "Supplier and OEM vendor sites", "Hindi and English SEO", "Real estate microsites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Faridabad, a business website from us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site for a manufacturer, clinic or school starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no local office, and maintenance is free for five months after launch.",
+    "In Faridabad, a business website from us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site for a manufacturer, clinic or school starts at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no local office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Industrial belt", value: "Mathura Road, NIT, Ballabgarh and the numbered industrial sectors, developed with HSIIDC" },
     { label: "Anchor manufacturers", value: "Escorts Kubota, whose Faridabad base dates to around 1960, and JCB's plant on Mathura Road at Ballabgarh" },
@@ -53,7 +53,7 @@ const faridabad: CityContent = {
     ai: "WhatsApp assistants that answer part availability, delivery schedules, admission dates or appointment slots and pass the rest to staff.",
     data: "Production, rejection, dispatch and customer-wise sales reports pulled from spreadsheets and ERP exports into one dashboard.",
     app: "Android and iOS apps for supervisors, field engineers and dealers working on the shop floor, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Product, price and content updates, backups and security patches, free for five months and from ₹8,000 a month after that.",
+    maintenance: "Product, price and content updates, backups and security patches, free for two months and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Faridabad businesses are surrounded by Delhi and Gurugram agencies that charge metro prices and hand work to junior staff. We are a small team of engineers who build everything ourselves, publish our prices, reply on WhatsApp every day, and give you full ownership of the domain, hosting and code.",
@@ -165,11 +165,11 @@ const faridabad: CityContent = {
     },
     {
       id: "ownership-faridabad",
-      heading: "Ownership, hosting and five months of free maintenance",
+      heading: "Ownership, hosting and two months of free maintenance",
       paragraphs: [
         "A common Faridabad story: the factory's website was built by an agency that later closed, the domain was registered on the agency's account, and now nobody can update the product list or renew the SSL certificate. Getting control back can take weeks and sometimes means starting from scratch.",
         "We register your domain in your company's name and on your email, open hosting in your name, and hand over every login, the full source code and a short document listing what renews when. You can move to another developer at any time without paying an exit fee or asking our permission.",
-        "Maintenance is free for five months after launch. That covers content and price updates, new products, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need changes. Manufacturers with changing catalogues often keep the monthly plan.",
+        "Maintenance is free for two months after launch. That covers content and price updates, new products, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need changes. Manufacturers with changing catalogues often keep the monthly plan.",
       ],
     },
     {
@@ -273,7 +273,7 @@ const faridabad: CityContent = {
         "Yes. Because we work remotely, the process and prices are the same across the NCR. We work with clients in Palwal, Ballabgarh, Gurugram, Sohna, Noida, Delhi and the Haryana towns further south.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You choose. Maintenance continues from ₹8,000 a month, covering updates, backups, security patches and speed checks, or you can stop the plan and contact us only when you need a change. You keep full access to everything either way.",
     },

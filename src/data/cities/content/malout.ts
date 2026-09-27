@@ -56,7 +56,7 @@ const malout: CityContent = {
     ai: "WhatsApp assistants in Punjabi and Hindi that answer rate, stock and timing questions and hand serious buyers to you.",
     data: "Season dashboards showing arrivals, bales pressed, dues by farmer and machinery sales by village.",
     app: "Android and iOS apps for village farmers to check dealer stock or book a service visit, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates and security fixes.",
   },
   whyUsIntro:
     "Traders in Malout judge people on whether their word holds from one season to the next. We publish starting prices, send a written itemised quote, reply on WhatsApp all seven days, and keep the domain, hosting, code and app accounts in your name. If something will not earn back its cost, we tell you before you spend on it.",
@@ -177,7 +177,7 @@ const malout: CityContent = {
       heading: "Ownership and maintenance of Malout websites and apps",
       paragraphs: [
         "A familiar story in smaller towns is a site that vanishes because the builder kept the domain in his own name and then stopped answering calls. We register your domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts in your name, and hand over every login in writing.",
-        "The first five months after launch come with free maintenance: content and rate updates, backups, security patches, software upgrades and regular checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer whenever you like.",
+        "The first two months after launch come with free maintenance: content and rate updates, backups, security patches, software upgrades and regular checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer whenever you like.",
         "Apps need yearly updates because Google and Apple keep changing their rules. We watch for those changes and update your app in time so it is not pulled from the stores.",
       ],
     },
@@ -269,7 +269,7 @@ const malout: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to carry on. You can take your code and move to another developer at any time.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to carry on. You can take your code and move to another developer at any time.",
     },
     {
       question: "Do you work in Gidderbaha, Lambi, Muktsar and Abohar too?",

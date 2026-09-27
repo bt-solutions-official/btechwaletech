@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Runs on", "Your PC, a server or a cloud schedule"],
     ["Main libraries", "pandas, openpyxl, requests, Playwright"],
     ["Quote", "Itemised in about 2 working days"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one focused on automation" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after handover" },
+    { value: "2", label: "Months of free fixes after handover" },
     { value: "0", label: "Platform fees between you and us" },
   ],
   answer: {
@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An automation you cannot read, move or restart is a liability. Ownership here means three things you should hold after handover.`,
         `The code, in a Git repository under your account, with a short README explaining what it does and how to run it. The credentials, stored in your systems, with our access removed or limited once the project ends if you prefer. And the documentation: which files the script expects, where it saves results, what each alert means and what to do when it fires.`,
-        `This matters because business processes change. A new branch opens, a supplier changes its file layout, the accounts team moves to a new tool. With the code and a clear guide, any Python developer can make the change, including us during the five months of free maintenance and afterwards from ${P.care} if you want ongoing help.`,
+        `This matters because business processes change. A new branch opens, a supplier changes its file layout, the accounts team moves to a new tool. With the code and a clear guide, any Python developer can make the change, including us during the two months of free maintenance and afterwards from ${P.care} if you want ongoing help.`,
       ],
     },
     {
@@ -307,7 +307,7 @@ const content: FreelanceContent = {
       rows: [
         ["Python or AI automation project", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks"],
         ["Internal web tool with logins", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
         ["Static website", `${P.site}`, `${P.siteUsd}`, "1–2 weeks"],
         ["Android & iOS app", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],
       ],
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "In about two working days you get line items for inputs, processing, outputs and scheduling. Nothing is billed until you approve it in writing."],
       ["Prototype and compare", "The script runs on past data first. Your team compares its output with their manual results until both match."],
       ["Schedule and alerts", "We install the script where it will run, set the timing and delivery, and configure an alert for missing files or errors."],
-      ["Handover and free fixes", "You get the repository, run guide and a recorded walkthrough. Fixes and small changes are free for five months, then from " + P.care + " if needed."],
+      ["Handover and free fixes", "You get the repository, run guide and a recorded walkthrough. Fixes and small changes are free for two months, then from " + P.care + " if needed."],
     ],
   },
   faqHeading: "Python automation freelancer: questions people ask",
@@ -357,12 +357,12 @@ const content: FreelanceContent = {
     { question: "Where does my Python script run after it is built?", answer: "It can run on an office Windows PC with Task Scheduler, on a Linux server with cron, or on a cloud schedule such as a timed function on AWS. An office PC is cheapest but must be switched on. A server or cloud option runs regardless of office hours and suits reports people depend on." },
     { question: "Should I use Python or a no-code tool like Zapier?", answer: "Use a no-code tool when you are linking popular apps with simple triggers, such as a form adding a row to a sheet. Use Python when data needs heavy cleaning, files are large or unusual, logic is custom, or per-task subscription fees would add up. We recommend the no-code route when it genuinely fits better." },
     { question: "Who owns the automation code?", answer: "You do. The code goes into a Git repository under your account, with a README and run guide. Credentials stay in your systems, and access can be removed once the project ends. That way any Python developer can maintain or change the script later, not only the person who wrote it." },
-    { question: "What happens when my automation breaks?", answer: `Every script we deliver writes a log and sends an alert when an input is missing or something unexpected happens, so problems surface quickly. For five months after handover, fixes are free. After that, maintenance starts at ${P.care}, or your own developer can use the run guide and logs to fix it.` },
+    { question: "What happens when my automation breaks?", answer: `Every script we deliver writes a log and sends an alert when an input is missing or something unexpected happens, so problems surface quickly. For two months after handover, fixes are free. After that, maintenance starts at ${P.care}, or your own developer can use the run guide and logs to fix it.` },
     { question: "Can Python read invoices and PDFs automatically?", answer: "Python reads text and tables from digital PDFs reliably when the layout is consistent. Scanned documents need OCR first, and invoices from many suppliers with varying layouts may need an AI model to pick out fields. We test on a sample of your real invoices before promising accuracy and add a review step for uncertain results." },
     { question: "Can a Python script help with GST reconciliation?", answer: "Yes, for the matching step. After you download GSTR-2B from the GST portal as Excel or JSON, a script can compare it with your purchase register by GSTIN, invoice number and amount, then list missing or mismatched entries for your accountant to review. We do not automate logging into government portals." },
     { question: "Is my data safe with a Python automation freelancer?", answer: "Reduce risk by sharing masked sample files, granting the least access needed, and keeping passwords and API keys in environment variables or a secrets manager rather than in code or chat. Remove access after handover. If your data is under client contracts or privacy rules, agree the handling approach in writing before sharing anything." },
     { question: "Can Python send reports on WhatsApp?", answer: "Yes, through the WhatsApp Business Platform, which requires a verified business account, recipient opt-in and approved message templates for business-initiated messages. Unofficial tools that automate personal WhatsApp accounts risk being banned, so we use the official route. Email delivery remains the simplest option when WhatsApp is not essential." },
-    { question: "Do I need a Python developer on staff to maintain the script?", answer: "Not for normal running. Your team only needs to keep input files arriving and read alerts. Changes to logic, such as a new branch or a new file layout, need someone who reads Python. The run guide and logs make that quick for any developer, and we handle it free for five months after handover." },
+    { question: "Do I need a Python developer on staff to maintain the script?", answer: "Not for normal running. Your team only needs to keep input files arriving and read alerts. Changes to logic, such as a new branch or a new file layout, need someone who reads Python. The run guide and logs make that quick for any developer, and we handle it free for two months after handover." },
     { question: "Can a small automation grow into proper software?", answer: `Yes. When a script needs a user interface, logins or approvals, it can become a small web app. BtechWaleTech builds custom web apps from ${P.software}. Many clients start with one automation, see the time saved, and later turn it into an internal tool their whole team uses.` },
     { question: "Can I hire a Python automation freelancer from abroad?", answer: `Yes. Automation work is remote by nature: you share sample files and receive results and code online. Clients outside India are billed in USD, with automation projects from ${P.aiUsd}, and pay through Wise, bank wire or PayPal. Scripts can run on your own cloud account in your region.` },
     { question: "Python automation se kya fayda hota hai?", answer: `Jo kaam aapka staff roz haath se Excel mein karta hai, jaise files jodna, report banana ya data match karna, woh Python script khud kar deti hai, bina galti ke aur tay samay par. BtechWaleTech ke saath automation project ${P.ai} se shuru hota hai aur code aur guide aapko milte hain.` },
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Have a task your team repeats every day? Let’s automate it",
-    note: `Send us a short description or screen recording on WhatsApp. After seeing sample files, you get an itemised quote in about two working days. Automation projects start at ${P.ai}, the code is yours, and fixes are free for five months after handover.`,
+    note: `Send us a short description or screen recording on WhatsApp. After seeing sample files, you get an itemised quote in about two working days. Automation projects start at ${P.ai}, the code is yours, and fixes are free for two months after handover.`,
   },
 };
 

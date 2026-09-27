@@ -40,7 +40,7 @@ const content: CityContent = {
     pills: ["Custom ERP from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents from ₹40,000", "Startup MVPs and SaaS", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers serve Ahmedabad with custom ERP, portals and MVPs from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI agents from ₹40,000 (two to four weeks) and websites from ₹10,000. We are a freelance group of three remote engineers with no Ahmedabad office, and maintenance is free for five months.",
+    "BtechWaleTech's freelance software developers serve Ahmedabad with custom ERP, portals and MVPs from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI agents from ₹40,000 (two to four weeks) and websites from ₹10,000. We are a freelance group of three remote engineers with no Ahmedabad office, and maintenance is free for two months.",
   snapshot: [
     { label: "Tech corridor", value: "SG Highway, Prahlad Nagar, Sindhu Bhavan Road and Bodakdev host most of the city's software firms and startups" },
     { label: "Industrial estates", value: "Vatva for chemicals, dyes and pharma; Naroda and Odhav for engineering and processing; Changodar for food, plastics and packaging" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders and emails, qualify property leads, answer dealer queries in Gujarati and English and draft replies for approval.",
     data: "Dashboards on Tally, ERP exports and spreadsheets showing sales, receivables, production and branch performance for owners and partners.",
     app: "Android and iOS apps for Ahmedabad dealers, salesmen, site engineers, customers and startups, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month with WhatsApp replies seven days a week.",
+    maintenance: "Two months of free maintenance after launch, then plans from ₹8,000 a month with WhatsApp replies seven days a week.",
   },
   whyUsIntro:
     "Ahmedabad has hundreds of software firms, from large houses on SG Highway to one-person shops. We are neither: a freelance group of three engineers who publish starting prices, write the code ourselves, give you every account and answer on WhatsApp seven days a week.",
@@ -198,7 +198,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Custom ERP module, portal or MVP:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What maintenance and support do you provide?",
       answer:
-        "Five months of free maintenance after launch covers bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay only when you need something. We support software, hosting and apps remotely; we do not provide on-site hardware support.",
+        "Two months of free maintenance after launch covers bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay only when you need something. We support software, hosting and apps remotely; we do not provide on-site hardware support.",
     },
     {
       question: "Can your software sync with Tally?",

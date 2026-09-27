@@ -56,7 +56,7 @@ const sira: CityContent = {
     ai: "WhatsApp assistants in Kannada, English or Hindustani that answer rate, stock and timing questions and route real orders to you.",
     data: "Dashboards of arrivals by crop, stock by lot, dues by buyer and admissions or patients by village.",
     app: "Android and iOS apps for dealer re-orders, school notices or transport fleets, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "A Sira trader who has seen outside vendors vanish after taking an advance will ask hard questions, and should. Our answers are on paper: published starting prices, itemised written quotes, WhatsApp replies seven days a week, and domain, hosting, code and app store accounts opened in your own name. If a feature will not bring its money back, you hear that from us first.",
@@ -161,7 +161,7 @@ const sira: CityContent = {
       heading: "Website cost in Sira: the starting prices and what changes them",
       paragraphs: [
         "Here are the figures Sira owners ask for first. A static website up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 299 pages or more, useful for a dealer or institute that wants a page per product, course or village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation.",
-        "An online store starts at ₹50,000, custom software or a web app at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for five months after launch; after that it starts at ₹8,000 a month if you want us to continue.",
+        "An online store starts at ₹50,000, custom software or a web app at ₹60,000, and monthly SEO at ₹10,000 a month. Maintenance is free for two months after launch; after that it starts at ₹8,000 a month if you want us to continue.",
         "The quote goes up only for what you pick: extra languages, a long product list, courier rates, UPI checkout, staff logins, GPS or Tally sync. If you write your own text and send phone photos, content adds very little.",
         "Local quotes vary widely, so compare with care. Ask who owns the domain, whether the site is tested on low-cost phones, what SEO basics are included, how many revisions are covered and what support costs after a year. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and an itemised quote usually reaches you within two working days.",
       ],
@@ -180,7 +180,7 @@ const sira: CityContent = {
       heading: "Ownership, maintenance and work around Sira, Madhugiri and Tumakuru",
       paragraphs: [
         "Everything we build is registered to you. The domain is booked on your email, hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play account and Apple developer account list you as owner. A written login sheet comes with handover, so no developer, including us, can lock you out.",
-        "Maintenance is free for five months after launch: rate and photo changes, backups, security and version updates, and checks of forms, UPI and WhatsApp buttons. After that, stay with us from ₹8,000 a month or take the code elsewhere. Apps also need a yearly update to meet Google and Apple's rules, and we plan it ahead so your listing is never removed.",
+        "Maintenance is free for two months after launch: rate and photo changes, backups, security and version updates, and checks of forms, UPI and WhatsApp buttons. After that, stay with us from ₹8,000 a month or take the code elsewhere. Apps also need a yearly update to meet Google and Apple's rules, and we plan it ahead so your listing is never removed.",
         "We work across Sira taluk, including Kallambella, Bukkapatna, Baragur, Gowdagere and Hulikunte, and in Madhugiri, Pavagada, Tiptur, Tumakuru and across the border in Hindupur. Area pages are written only where your business genuinely serves that place, with real details rather than copied text.",
       ],
     },
@@ -263,7 +263,7 @@ const sira: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance come free after launch, covering rate and photo changes, backups, security patches and checks of forms, UPI and WhatsApp buttons. After that it is your choice: continue from ₹8,000 a month, manage it yourself, or hand the code, which is already yours, to any other developer.",
+        "Two months of maintenance come free after launch, covering rate and photo changes, backups, security patches and checks of forms, UPI and WhatsApp buttons. After that it is your choice: continue from ₹8,000 a month, manage it yourself, or hand the code, which is already yours, to any other developer.",
     },
     {
       question: "Do you work in Madhugiri, Pavagada, Tumakuru and Hindupur?",

@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Apps in a typical delivery platform" },
     { value: "3", label: "Developers who design, build and support it" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-order fees charged by us" },
   ],
   answer: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Arabic RTL quality", "Varies, often patched", "Depends on vendor", "Built RTL-first"],
       ["National address support", "Rarely", "Sometimes", "Short address, full address or pin"],
       ["Cash-on-delivery settlement", "Basic", "Varies", "Per-driver cash ledger and hand-in"],
-      ["Ongoing cost", "Licence renewals and paid updates", "Monthly or per-order fees", `Hosting and maps; care from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Licence renewals and paid updates", "Monthly or per-order fees", `Hosting and maps; care from ${P.care} after 2 free months`],
       ["Changing it later", "Hard: someone else's code", "Only what the vendor allows", "Any developer can work on it"],
     ],
     fine: "If you need to launch within days to test demand in one district, a subscription platform is the faster experiment; build custom once you know the model works.",
@@ -204,7 +204,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, the customer and driver apps in Flutter start from ${P.app}, and the admin and dispatch backend starts from ${P.software}. A single-seller MVP combines those two; a marketplace adds vendor tools and payouts. Every figure is a starting point confirmed in your itemised quote.`,
         `Why a quote can grow: automatic dispatch with batching instead of manual assignment; scheduled delivery slots; multi-vendor commission and payouts; in-app chat; wallets and promo codes; deep reports; several cities with different pricing. Why it can stay lean: launch in one city, manual dispatch, card and cash only, no chat, simple reports.`,
-        `Running costs belong to you: cloud hosting, map and geocoding usage, SMS for sign-in codes, push notifications, payment fees and developer accounts (Apple US$99 per year, Google Play US$25 once). After five free months of maintenance, care plans start from ${P.care}.`,
+        `Running costs belong to you: cloud hosting, map and geocoding usage, SMS for sign-in codes, push notifications, payment fees and developer accounts (Apple US$99 per year, Google Play US$25 once). After two free months of maintenance, care plans start from ${P.care}.`,
       ],
     },
     {
@@ -311,7 +311,7 @@ const content: FreelanceContent = {
         ["Web ordering front", "Browser ordering for non-installers", P.shop, "4–8 weeks"],
         ["WhatsApp notifications", "Order updates and reminders", P.ai, "2–4 weeks"],
         ["Landing site for the brand", "App download page, city pages", P.site, "1–2 weeks"],
-        ["Aftercare", "Fixes, OS updates, small changes", `${P.care} after 5 free months`, "Ongoing"],
+        ["Aftercare", "Fixes, OS updates, small changes", `${P.care} after 2 free months`, "Ongoing"],
       ],
     },
     {
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Clickable prototype", "All three apps as a tappable prototype in Arabic and English, so drivers and operators can react before code is written."],
       ["Build in sprints", "Backend and admin first, then customer and driver apps, with a staging build on your phone after every sprint review."],
       ["Pilot in one zone", "Real drivers and real orders for a week in one area, while we watch tracking, cash and dispatch and fix issues daily."],
-      ["Launch and hand over", "Store release under your accounts, full code and admin access to you, then 5 months of free maintenance."],
+      ["Launch and hand over", "Store release under your accounts, full code and admin access to you, then 2 months of free maintenance."],
     ],
   },
   faqHeading: "Delivery app development in Saudi Arabia: frequently asked questions",
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
     { question: "Is customer location data covered by the PDPL?", answer: "Yes. Names, numbers, addresses and location history are personal data under Saudi Arabia's Personal Data Protection Law, supervised by SDAIA. Your company is responsible for compliance, confirmed by your lawyer. We support it with consent screens, limited location retention, role-based access and deletion features." },
     { question: "What happens during the pilot?", answer: "A small group of your drivers run real orders in one zone for about a week. We monitor tracking accuracy, dispatch timing, payment and cash records, and collect driver feedback daily, then fix issues before wider launch. It is the cheapest time to discover problems." },
     { question: "Can the app support scheduled or subscription deliveries?", answer: "Yes. Customers can choose a delivery slot or set a repeating order, such as weekly water or groceries, and the admin can cap orders per slot and zone. Scheduled work also allows route ordering for drivers, which lowers cost per delivery compared with instant dispatch." },
-    { question: "What does maintenance look like after launch?", answer: `The first five months after launch are free for fixes and small changes. After that, care plans start from ${P.care}, covering operating system updates, store policy changes, library updates and monitoring. The exact scope is written into your quote, and you can take the code elsewhere at any time.` },
+    { question: "What does maintenance look like after launch?", answer: `The first two months after launch are free for fixes and small changes. After that, care plans start from ${P.care}, covering operating system updates, store policy changes, library updates and monitoring. The exact scope is written into your quote, and you can take the code elsewhere at any time.` },
     { question: "Can you add delivery to my existing store or restaurant system?", answer: "Yes. If you already take orders on a website, Salla store or POS, we can build the driver app and dispatch panel and connect them to your order source through its API or webhooks. That is often cheaper than a full new platform. Restaurants can start from our direct ordering work and add riders later." },
     { question: "What should I prepare before contacting you?", answer: "Your delivery model, target city and zones, expected daily orders at launch, fleet type, payment mix including cash, any existing systems to connect, and your timeline. Rough numbers are fine. Send them on WhatsApp and we will reply with questions and an itemised quote." },
   ],

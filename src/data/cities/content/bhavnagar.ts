@@ -30,11 +30,11 @@ const bhavnagar: CityContent = {
     eyebrow: "Bhavnagar · Gujarat",
     h1: "Websites, apps, SEO and AI automation for Bhavnagar's diamond, steel, plastics and retail trade",
     lede:
-      "A remote team of three engineers building practical websites, stores and automations for Bhavnagar: polishing units, re-rolling mills, Alang traders, Chitra and Vartej GIDC factories, gathiya brands and Waghawadi Road shops. Prices are published, you talk to the developers directly, and maintenance costs nothing for the first five months after launch.",
+      "A remote team of three engineers building practical websites, stores and automations for Bhavnagar: polishing units, re-rolling mills, Alang traders, Chitra and Vartej GIDC factories, gathiya brands and Waghawadi Road shops. Prices are published, you talk to the developers directly, and maintenance costs nothing for the first two months after launch.",
     pills: ["From ₹10,000", "Gujarati and English", "Industrial catalogues", "Online food stores", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A website for a Bhavnagar business starts at ₹10,000 with us and a 299+ page SEO site at ₹20,000, ready in one to five weeks. We are three engineers who work remotely and have no Bhavnagar office. Hosting setup, Google search basics and five months of free maintenance come with every project.",
+    "A website for a Bhavnagar business starts at ₹10,000 with us and a 299+ page SEO site at ₹20,000, ready in one to five weeks. We are three engineers who work remotely and have no Bhavnagar office. Hosting setup, Google search basics and two months of free maintenance come with every project.",
   snapshot: [
     { label: "Heavy trade", value: "Alang ship recycling yard on the Gulf of Khambhat, and re-rolling mills across the district" },
     { label: "Diamond work", value: "Thousands of cutting and polishing units in the district, the second-largest small-scale industry after ship breaking" },
@@ -51,10 +51,10 @@ const bhavnagar: CityContent = {
     ai: "WhatsApp assistants that answer stock and price questions in Gujarati or English and log every trade enquiry.",
     data: "Production, lot and sales dashboards built from Tally exports and the spreadsheets your staff already maintain.",
     app: "Android and iOS apps for dealer orders, job-work tracking and field staff, published on Google Play and the App Store and starting at ₹40,000.",
-    maintenance: "Price and stock updates, backups and security patches, free for five months after launch and then from ₹8,000 a month.",
+    maintenance: "Price and stock updates, backups and security patches, free for two months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Bhavnagar firms tell us the same thing: the website was made once, the maker became unreachable, and nobody can change it now. We publish our prices, keep the domain and hosting in your name, answer on WhatsApp seven days a week and stay on free for five months after launch.",
+    "Bhavnagar firms tell us the same thing: the website was made once, the maker became unreachable, and nobody can change it now. We publish our prices, keep the domain and hosting in your name, answer on WhatsApp seven days a week and stay on free for two months after launch.",
   pricingIntro:
     "Few web developers in Bhavnagar publish rates, so owners compare quotes that differ by ten times. Here are our actual starting prices. The final figure depends on pages, products, languages and features, and it comes to you itemised before any work starts.",
   sections: [
@@ -176,7 +176,7 @@ const bhavnagar: CityContent = {
       paragraphs: [
         "A common Bhavnagar problem: the website was built by a relative or a local operator, the domain is registered to them, and now nobody can update the phone number or product list. Sometimes the domain lapses and is bought by someone else, taking your email with it.",
         "We register the domain in your business name and host the site on an account you control. At launch you receive every login, the full source code and a short document explaining how it all fits together. If you ever want another developer, they can take over the same day, with no exit fee from us.",
-        "For the first five months after launch, maintenance is free: content and price changes, bug fixes, security updates, backups, uptime and speed checks. Afterwards it continues from ₹8,000 a month, or you can contact us only when something needs changing and pay for that work.",
+        "For the first two months after launch, maintenance is free: content and price changes, bug fixes, security updates, backups, uptime and speed checks. Afterwards it continues from ₹8,000 a month, or you can contact us only when something needs changing and pay for that work.",
       ],
     },
     {
@@ -272,7 +272,7 @@ const bhavnagar: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we cover content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we cover content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Can you guarantee first position on Google?",

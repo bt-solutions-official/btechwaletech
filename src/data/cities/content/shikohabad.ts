@@ -36,7 +36,7 @@ const shikohabad: CityContent = {
     eyebrow: "Shikohabad · Uttar Pradesh",
     h1: "Websites, Android & iOS apps, SEO and AI automation for Shikohabad's glass workshops, colleges and junction-town traders",
     lede:
-      "We are a remote team of three engineers building websites, Android and iOS apps, Google Maps listings and WhatsApp automation for Shikohabad: bangle and glass units on Firozabad Road, Katra Bazar and Station Road shops, colleges on Mainpuri Road, coaching centres, clinics and transporters along NH19. Prices are published as starting figures, and five months of maintenance come free.",
+      "We are a remote team of three engineers building websites, Android and iOS apps, Google Maps listings and WhatsApp automation for Shikohabad: bangle and glass units on Firozabad Road, Katra Bazar and Station Road shops, colleges on Mainpuri Road, coaching centres, clinics and transporters along NH19. Prices are published as starting figures, and two months of maintenance come free.",
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi and Braj-friendly pages", "Bangle and glass catalogues", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
@@ -57,7 +57,7 @@ const shikohabad: CityContent = {
     ai: "WhatsApp replies in Hindi that share bangle designs, college fee details or clinic timings and save every enquiry to a sheet.",
     data: "Simple dashboards showing orders by buyer city, admissions by course or daily sales, readable on the owner's phone.",
     app: "Android and iOS apps for Shikohabad coaching attendance, college notices or trader reorders, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month only if you want to continue.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month only if you want to continue.",
   },
   whyUsIntro:
     "Shikohabad sits between two bigger names, Firozabad and Agra, and local owners are often told they need an agency from one of them. Most do not. What they need is a clear site, a correct map pin and quick replies. We publish starting prices, keep every account in the client's name and reply on WhatsApp every day of the week.",
@@ -191,7 +191,7 @@ const shikohabad: CityContent = {
       paragraphs: [
         "A common Shikohabad story: a local designer made a site years ago, registered the domain in his own name, then moved away. The owner could not renew it, change the phone number or move it to someone else, and the site simply vanished. We make sure that never happens with our work.",
         "The domain, hosting, Google Play developer account and Apple developer account are all registered in your name from the start. At launch you receive every login, the full source code and a short handover note explaining how things are set up. If you want to move to another developer later, you can, without an exit fee or permission from us.",
-        "Maintenance is free for five months after launch and covers text and price changes, bug fixes, security updates, backups and uptime checks. After that, you can continue maintenance from ₹8,000 a month, or simply message us when you need something done and pay for that work.",
+        "Maintenance is free for two months after launch and covers text and price changes, bug fixes, security updates, backups and uptime checks. After that, you can continue maintenance from ₹8,000 a month, or simply message us when you need something done and pay for that work.",
       ],
     },
   ],
@@ -271,9 +271,9 @@ const shikohabad: CityContent = {
         "Yes. The domain, hosting and Google Play and App Store developer accounts are registered in your name. At launch you get every login, the complete source code and a handover note. You can move to any other developer whenever you like, with no exit fee.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During those five months we handle text and price updates, fixes, security patches, backups and uptime checks at no charge. Afterwards you can continue with maintenance from ₹8,000 a month, or pay only when you need a specific change. There is no automatic renewal and no lock-in.",
+        "During those two months we handle text and price updates, fixes, security patches, backups and uptime checks at no charge. Afterwards you can continue with maintenance from ₹8,000 a month, or pay only when you need a specific change. There is no automatic renewal and no lock-in.",
     },
     {
       question: "Can you promise first rank on Google for my business?",

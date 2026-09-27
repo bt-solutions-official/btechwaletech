@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Member data", "In your database, exportable any time"],
     ["Platform fee on revenue", "None from us"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your platform" },
     { value: "0", label: "Share of your member revenue we take" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Members app", value: `From ${P.app}, Android and iPhone` },
       { label: "Invoices", value: "GST-ready invoice for every payment and renewal" },
       { label: "Ownership", value: "Code, database and payment account in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -176,7 +176,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a custom membership platform starts from ${P.software} (${P.softwareUsd}). A members app for Android and iPhone starts from ${P.app}; WhatsApp renewal reminders and automation start from ${P.ai}; if members also buy physical products, store features start from ${P.shop}.`,
         `Across the market, quotes vary widely for what sounds like the same brief. The differences come from scope that is easy to miss: recurring payment handling and failure recovery, invoice generation, admin reports, video protection, migration of existing members, and the number of special rules. One quote may cover only login and gated pages; another covers the full renewal cycle.`,
-        `Running costs include hosting, video hosting or streaming if you protect video, email and WhatsApp message charges and payment provider fees. We take no share of your revenue. After five free months, maintenance starts at ${P.care}.`,
+        `Running costs include hosting, video hosting or streaming if you protect video, email and WhatsApp message charges and payment provider fees. We take no share of your revenue. After two free months, maintenance starts at ${P.care}.`,
       ],
     },
     {
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This hypothetical scenario shows how a membership website developer might scope a project. It is not a client story.`,
         `A yoga studio runs in-person classes and a WhatsApp group for online students who pay monthly by UPI. The owner tracks payments in a notebook, and every month several students are missed or overcharged. The goal: two tiers, online only and online plus studio, with recorded classes, live session links, class booking for studio members and automatic renewals.`,
-        `We would propose a custom membership platform starting from ${P.software}, with lines for UPI AutoPay and card mandates, booking, protected recorded videos and a migration of the existing student list. WhatsApp reminders from ${P.ai} would handle pre-renewal notices and failed payments. The build would run around eight weeks, with a two-week soft launch for a small group before the full switch. After launch, five months of free maintenance covers new class types and pricing changes.`,
+        `We would propose a custom membership platform starting from ${P.software}, with lines for UPI AutoPay and card mandates, booking, protected recorded videos and a migration of the existing student list. WhatsApp reminders from ${P.ai} would handle pre-renewal notices and failed payments. The build would run around eight weeks, with a two-week soft launch for a small group before the full switch. After launch, two months of free maintenance covers new class types and pricing changes.`,
       ],
     },
     {
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
         ["Members app, Android and iPhone", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["WhatsApp reminders and AI help", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Public marketing site only", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
       ["Map member states", "Together we write every status a member can have and what happens in each, from application to lapse, before code begins."],
       ["Accounts in your name", "Payment provider, hosting, video hosting and messaging accounts are created in your name, with us added as users."],
       ["Build, test and migrate", "Payments and renewals are built first and tested with sandbox mandates. Existing members are imported with their expiry dates for a soft launch."],
-      ["Launch and five months of care", "After the full switch, fixes and small changes are free for five months, then maintenance continues from " + P.care + " if you want it."],
+      ["Launch and two months of care", "After the full switch, fixes and small changes are free for two months, then maintenance continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Membership website developer: common questions",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Can you build a membership portal for an association or club?", answer: "Yes. Association portals typically need online applications with committee approval, annual dues with reminders, digital member ID cards, a directory with privacy controls, event registration and sometimes elections or voting. We map your constitution’s membership rules into the system before building so the portal matches how your body actually works." },
     { question: "Is member data kept private and secure?", answer: "Passwords are hashed, admin accounts use two-factor authentication, card details stay with the payment provider and access rules are checked on the server. Backups run daily. We follow India’s Digital Personal Data Protection Act, 2023 principles: collect only needed data, get clear consent and let members download or delete their data." },
     { question: "How do payments work for the build itself?", answer: "The project is split into stages tied to things you can see on a staging link, such as working sign-up and payments, then the member area and admin panel. Clients in India pay by UPI or bank transfer; international clients by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote." },
-    { question: "Membership website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom membership website ${P.software} se shuru hoti hai aur 6–12 hafte mein banti hai. Isme tiers, UPI AutoPay renewals, member area aur admin panel aate hain. Pehle itemised quote milta hai, approval ke baad hi payment, aur launch ke baad 5 mahine maintenance free hai. Aapki member income mein hamara koi hissa nahi.` },
+    { question: "Membership website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom membership website ${P.software} se shuru hoti hai aur 6–12 hafte mein banti hai. Isme tiers, UPI AutoPay renewals, member area aur admin panel aate hain. Pehle itemised quote milta hai, approval ke baad hi payment, aur launch ke baad 2 mahine maintenance free hai. Aapki member income mein hamara koi hissa nahi.` },
     { question: "Can you build membership sites for clients outside India?", answer: `Yes. We build membership platforms for creators, studios and associations in the USA, UK, Canada, Australia, the UAE and elsewhere, starting from ${P.softwareUsd}. Recurring billing is set up with a provider that suits your country, and we bill through Wise, bank wire or PayPal. The platform and data stay in your name.` },
   ],
   related: {
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a membership site? Tell us about your members",
-    note: `Send us on WhatsApp who your members are, what they get and how they pay today. You will get an itemised quote in about two working days, with custom membership platforms from ${P.software}, your data and accounts in your name and five months of free maintenance.`,
+    note: `Send us on WhatsApp who your members are, what they get and how they pay today. You will get an itemised quote in about two working days, with custom membership platforms from ${P.software}, your data and accounts in your name and two months of free maintenance.`,
   },
 };
 

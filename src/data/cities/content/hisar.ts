@@ -7,7 +7,7 @@ const hisar: CityContent = {
   meta: {
     title: "Web Design & SEO in Hisar | Sites from ₹10,000",
     description:
-      "Websites, local SEO and WhatsApp automation for Hisar steel units, dealers, clinics and coaching centres. Sites from ₹10,000, with 5 months of free maintenance.",
+      "Websites, local SEO and WhatsApp automation for Hisar steel units, dealers, clinics and coaching centres. Sites from ₹10,000, with 2 months of free maintenance.",
     keywords: [
       "website development team in Hisar",
       "web designer in Hisar",
@@ -31,11 +31,11 @@ const hisar: CityContent = {
     eyebrow: "Hisar · Haryana",
     h1: "Websites and local SEO for Hisar's steel, farm and service businesses",
     lede:
-      "Three engineers, working remotely, who build websites, online stores and WhatsApp automations for pipe makers, farm-input dealers, veterinary and dairy businesses, clinics and institutes in Hisar. Every starting price is on this page, the code and domain belong to you, and maintenance is free for five months after launch.",
-    pills: ["Sites from ₹10,000", "Hindi and English SEO", "Dealer catalogues", "WhatsApp enquiry flows", "Five months' free upkeep"],
+      "Three engineers, working remotely, who build websites, online stores and WhatsApp automations for pipe makers, farm-input dealers, veterinary and dairy businesses, clinics and institutes in Hisar. Every starting price is on this page, the code and domain belong to you, and maintenance is free for two months after launch.",
+    pills: ["Sites from ₹10,000", "Hindi and English SEO", "Dealer catalogues", "WhatsApp enquiry flows", "Two months' free upkeep"],
   },
   quickAnswer:
-    "A business website for a Hisar firm costs from ₹10,000 with us and takes one to two weeks; a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. We are three remote engineers with no Hisar office, so quotes carry no rent, and five months of maintenance come free after launch.",
+    "A business website for a Hisar firm costs from ₹10,000 with us and takes one to two weeks; a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. We are three remote engineers with no Hisar office, so quotes carry no rent, and two months of maintenance come free after launch.",
   snapshot: [
     { label: "Known as", value: "The “City of Steel”, home to a Jindal Stainless plant and a long line of galvanised and MS pipe makers" },
     { label: "Universities", value: "CCS Haryana Agricultural University, Guru Jambheshwar University of Science and Technology, LUVAS" },
@@ -52,10 +52,10 @@ const hisar: CityContent = {
     ai: "WhatsApp bots that answer admission, rate-list and appointment questions in Hindi, then pass serious leads to a person in your office.",
     data: "Dashboards that pull mandi rates, dealer orders or clinic bookings into one screen an owner can check between meetings.",
     app: "Android and iPhone apps for booking vet visits, tracking deliveries to dealers or sharing test series with coaching students, from ₹40,000.",
-    maintenance: "Updates, backups and security fixes free for five months, then from ₹8,000 a month or pay-per-change if you prefer.",
+    maintenance: "Updates, backups and security fixes free for two months, then from ₹8,000 a month or pay-per-change if you prefer.",
   },
   whyUsIntro:
-    "Most Hisar businesses find a web designer through a cousin, a Justdial listing or a visiting card handed over at Red Square Market. Prices are rarely written down and support often ends at launch. We publish our rates, answer on WhatsApp seven days a week and keep looking after the site for five months without charge.",
+    "Most Hisar businesses find a web designer through a cousin, a Justdial listing or a visiting card handed over at Red Square Market. Prices are rarely written down and support often ends at launch. We publish our rates, answer on WhatsApp seven days a week and keep looking after the site for two months without charge.",
   pricingIntro:
     "These are the numbers we actually quote Hisar clients from. A pipe manufacturer with forty product sizes will pay more than a physiotherapist with one clinic, so the final figure depends on pages, features and content. You get the full breakdown in writing before anything is billed.",
   sections: [
@@ -168,7 +168,7 @@ const hisar: CityContent = {
       paragraphs: [
         "A familiar Hisar story: a business paid for a website five years ago, the developer moved to Chandigarh or stopped answering, and now nobody knows the domain password. The renewal lapses, the site disappears, and the phone number printed on thousands of visiting cards leads to an empty page. Recovering a domain from a former developer can take weeks.",
         "We register the domain in your name and set up hosting on your own account. At launch you receive every login, the full source code and a one-page note explaining what runs where. You can move the site to another developer whenever you like, with no exit fee and no need to ask permission.",
-        "The first five months after launch include free maintenance: text and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, a maintenance plan costs from ₹8,000 a month, or you can simply message us when something needs changing and pay per job.",
+        "The first two months after launch include free maintenance: text and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, a maintenance plan costs from ₹8,000 a month, or you can simply message us when something needs changing and pay per job.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const hisar: CityContent = {
         "You do. The domain is registered in your name, the hosting account is yours, and you get every password and the complete source code at launch. You can hand the site to another developer at any time without an exit fee. We insist on this because lost domain access is a common problem for older Hisar websites.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose. A monthly plan costs from ₹8,000 and covers updates, backups, security patches and small content changes. If your site rarely changes, you can skip the plan and message us when you need something, paying only for that job. Either way, you keep full access to everything.",
     },

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Custom features", `Web app work from ${P.software}`],
     ["Code ownership", "Your repository, your hosting"],
     ["Quote", "Itemised, about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "100", label: "Pages included in the static custom plan" },
     { value: "3", label: "Freelance developers who know your code" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Theme licences you need to renew" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom web app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Who holds the code", value: "You, in a repository you control" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -161,7 +161,7 @@ const content: FreelanceContent = {
       heading: "Can you edit a custom website yourself?",
       paragraphs: [
         `Yes, if you plan for it. Whether you need a dashboard depends on how often content changes and who changes it.`,
-        `If updates happen a few times a month, many clients prefer messaging us on WhatsApp during the five free months of maintenance, then choosing monthly maintenance or a developer of their own. If your team posts news, adds products or changes prices weekly, we connect a content management system: a headless CMS with a simple editor, or a custom WordPress theme if your staff already know WordPress.`,
+        `If updates happen a few times a month, many clients prefer messaging us on WhatsApp during the two free months of maintenance, then choosing monthly maintenance or a developer of their own. If your team posts news, adds products or changes prices weekly, we connect a content management system: a headless CMS with a simple editor, or a custom WordPress theme if your staff already know WordPress.`,
         `The key is to decide before the build. Adding a CMS later is possible but costs more than planning for it. Tell us who will edit what, and we will suggest the lightest setup that works.`,
       ],
       list: [
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       heading: "Custom website ya template: kaunsa lena chahiye?",
       paragraphs: [
         `Agar aapko jaldi se ek simple website chahiye aur roz khud badlav karne hain, toh template ya builder theek hai. Lekin agar website se leads aate hain, phone par tez khulni chahiye, ya koi khaas feature chahiye jaise calculator ya booking, toh custom website behtar hai.`,
-        `Hamare saath custom website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Code, domain aur hosting sab aapke naam par rehta hai, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Hamare saath custom website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Code, domain aur hosting sab aapke naam par rehta hai, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
         ["Custom online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks", "Checkout and catalogue must fit how you sell"],
         ["Custom web app or portal", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "Logins, bookings, dashboards, business rules"],
         ["Custom app alongside the site", `${P.app}`, `${P.appUsd}`, "6–10 weeks", "Customers return often on mobile"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "You want updates handled for you"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "You want updates handled for you"],
       ],
       hideSm: [2],
     },
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Design the layout system", "Home page and one inner page appear on a staging link, phone first. Once approved, the same components shape every other page."],
       ["Build, connect and speed-check", "Remaining pages, forms, WhatsApp button, schema and any CMS are added, then tested on budget phones and throttled networks."],
       ["Launch with redirects and handover", "Domain, SSL, redirects from any old site, Search Console and analytics go live. You receive repository access and a renewals list."],
-      ["Five months of free maintenance", `Edits, fixes and updates are free for five months after launch. Maintenance continues from ${P.care} only if you want it.`],
+      ["Two months of free maintenance", `Edits, fixes and updates are free for two months after launch. Maintenance continues from ${P.care} only if you want it.`],
     ],
   },
   faqHeading: "Custom website developer: questions people ask",
@@ -370,13 +370,13 @@ const content: FreelanceContent = {
     { question: "How much does a custom website cost in India?", answer: `With BtechWaleTech a custom-coded static site of up to 100 pages starts at ${P.site}, a custom SEO site of 299+ pages at ${P.seoSite}, a custom online store at ${P.shop}, and a custom web app at ${P.software}. The final quote depends on layouts, features, integrations and content work, and it is itemised before you pay.` },
     { question: "Is a custom website better than a template?", answer: "For businesses that rely on their site for leads or sales, usually yes: custom sites load faster, look distinct and handle specific features cleanly. For a quick, simple presence that you will edit yourself and replace soon, a template or builder may be enough. The right choice depends on how important the website is to revenue." },
     { question: "How long does a custom website developer take?", answer: "A custom static site of up to 100 pages usually takes one to two weeks. A custom SEO site with 700+ generated pages takes three to five weeks, a custom store four to eight weeks, and a custom web app six to twelve weeks. Late content and slow approvals are the usual reasons for delay." },
-    { question: "Can I update a custom website myself?", answer: "Yes, if editing is planned before the build. For frequent updates we connect a content management system, such as a headless CMS or a custom WordPress theme, so your team can edit pages. For occasional changes, many clients simply message us during the five free months of maintenance and choose a monthly plan afterwards." },
+    { question: "Can I update a custom website myself?", answer: "Yes, if editing is planned before the build. For frequent updates we connect a content management system, such as a headless CMS or a custom WordPress theme, so your team can edit pages. For occasional changes, many clients simply message us during the two free months of maintenance and choose a monthly plan afterwards." },
     { question: "Is a custom website better for SEO?", answer: "It removes technical obstacles and lets pages follow how customers search, which helps good content perform. It does not guarantee rankings; content, links and competition still decide positions. Our custom builds include clean HTML, unique meta tags, sitemaps, schema and fast loading, with Search Console set up before launch." },
     { question: "Is WordPress a custom website?", answer: "WordPress itself is a platform. A WordPress site using a bought multipurpose theme and a page builder is template-based. A WordPress site with a theme written specifically for your business, and few plugins, is custom. Both are valid; ask the developer which one they are quoting." },
     { question: "Who owns the code of a custom website?", answer: "You should. With BtechWaleTech the code sits in a repository registered to you, and hosting and domain are in your name and paid from your account. At launch you receive all logins, DNS details and a renewals list. Any specific intellectual property wording is agreed in your written quote." },
     { question: "Why are custom websites faster than theme-based ones?", answer: "Themes are built for thousands of buyers, so they bundle sliders, animations, fonts and scripts that load on every page even when unused. A custom site includes only the code its pages need, with images sized correctly and minimal JavaScript. That usually means quicker loading on budget phones and better Core Web Vitals." },
     { question: "Can a custom website developer move my Wix or Shopify site?", answer: "Yes. We copy or export your content, rebuild the design in custom code or a lean platform, and map every old URL to its new address with permanent redirects so search visibility carries over. Once the new site is stable, you can cancel the old subscription. Stores need extra planning for products, customers and orders." },
-    { question: "Does a custom website need more maintenance?", answer: `A custom static site needs very little, because there are no theme or plugin updates and no database to patch. Custom web apps need normal upkeep like any software. We include five months of free maintenance after launch, then optional maintenance from ${P.care} per month.` },
+    { question: "Does a custom website need more maintenance?", answer: `A custom static site needs very little, because there are no theme or plugin updates and no database to patch. Custom web apps need normal upkeep like any software. We include two months of free maintenance after launch, then optional maintenance from ${P.care} per month.` },
     { question: "What features can a custom website have that a template cannot?", answer: "Almost anything your process needs: price or loan calculators, multi-step quote forms, booking flows linked to your calendar, dealer or branch locators, member areas, product configurators, or integrations with your CRM or billing tool. Templates can approximate some of these with plugins, often with conflicts and extra weight." },
     { question: "Should a small business pay for a custom website?", answer: `If the website brings in enquiries, a lean custom site is often a sensible investment because it is faster and needs fewer renewals. Our custom static plan starts at ${P.site}, which puts it within reach of many small businesses. If you only need a placeholder for a few months, a builder is cheaper.` },
     { question: "How do I pay a custom website developer?", answer: "Payments are split into stages tied to visible progress, set out in the itemised quote. In India we accept UPI or bank transfer; international clients pay via Wise, bank wire or PayPal. Domain and hosting are paid from your own account to the providers. Nothing is billed before you approve the quote in writing." },
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a website built for your business, not borrowed from a theme?",
-    note: `Send your goals and a rough page list on WhatsApp. You will receive an itemised quote in about two working days, with custom sites from ${P.site}, code and accounts in your name, and five months of free maintenance after launch.`,
+    note: `Send your goals and a rough page list on WhatsApp. You will receive an itemised quote in about two working days, with custom sites from ${P.site}, code and accounts in your name, and two months of free maintenance after launch.`,
   },
 };
 

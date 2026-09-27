@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Wage types", "Piece-rate, daily, monthly, hourly"],
     ["Statutory outputs", "PF, ESI, PT, LWF, bank file"],
     ["Who owns it", "You: code, server, worker data"],
-    ["Free maintenance", "5 months after go-live"],
+    ["Free maintenance", "2 months after go-live"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-employee subscription fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Inputs", value: "Attendance device logs, production counts, rate cards" },
       { label: "Outputs", value: "Payslips, registers, PF/ESI files, bank transfer file" },
       { label: "Languages", value: "English and Hindi screens; payslips in the worker's language on request" },
-      { label: "After launch", value: `5 months free support, then from ${P.care}` },
+      { label: "After launch", value: `2 months free support, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What payroll software for factory units costs to build",
-    note: `A factory payroll build starts at ${P.software} for one unit with the core wage types: time-rate, piece-rate, overtime, the four statutory deductions and a bank file. Cost goes up when you add more units with different state rules, several attendance device brands, multi-level approvals, a supervisor app (from ${P.app} if built as a separate app) or AI features such as anomaly alerts on overtime (from ${P.ai}). Hosting is billed by the cloud provider to your own account. After the five free months, support starts at ${P.care}. The quote lists each module separately, so you can drop one and see the effect before you approve anything.`,
+    note: `A factory payroll build starts at ${P.software} for one unit with the core wage types: time-rate, piece-rate, overtime, the four statutory deductions and a bank file. Cost goes up when you add more units with different state rules, several attendance device brands, multi-level approvals, a supervisor app (from ${P.app} if built as a separate app) or AI features such as anomaly alerts on overtime (from ${P.ai}). Hosting is billed by the cloud provider to your own account. After the two free months, support starts at ${P.care}. The quote lists each module separately, so you can drop one and see the effect before you approve anything.`,
   },
   guideLabel: "Factory payroll guide",
   guide: [
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Rule sheet sign-off", "HR and accounts approve a plain-language rule sheet covering shifts, overtime, piece rates, statutory tables and approvals. This becomes the test standard for the build."],
       ["Build and weekly demos", "We build the worker master, attendance import, wage engine and outputs, showing progress every week on a staging server so your team tests with real data early."],
       ["Parallel payroll month", "The old method and the new software run the same month. Every difference is traced to a rule or a data error and fixed before the software goes live."],
-      ["Go-live and handover", "You receive the code repository, server access, documentation and a short training session. Five months of free maintenance begin from go-live."],
+      ["Go-live and handover", "You receive the code repository, server access, documentation and a short training session. Two months of free maintenance begin from go-live."],
     ],
   },
   faqHeading: "Factory payroll software: questions buyers ask",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Do you visit the factory to set it up?", answer: "No. We are three freelance developers working remotely from India, so everything runs over video calls, WhatsApp and screen sharing. We collect sample data, run workshops online and test on a staging server. For hardware or network work at the site, your local vendor or IT person handles the physical side." },
     { question: "Can the payroll data go into our accounting software?", answer: "Yes. The salary journal can be exported as a file your accountant imports, or posted directly to ERPNext through its API. We map payroll heads such as wages, overtime, PF, ESI and PT to your ledgers once, and every month's journal follows the same mapping, with totals that match the wage register." },
     { question: "Factory ke liye payroll software banwane mein kitna time aur kharcha lagta hai?", answer: `Custom payroll software for factory units ${P.software} se shuru hota hai aur aam taur par 6 se 12 hafte lagte hain, jismein ek mahina purane tarike ke saath parallel payroll chalta hai. Kharcha piece-rate rules, shifts, units aur attendance machines par depend karta hai. Quote 2 working days mein milta hai aur approval se pehle kuch bill nahi hota.` },
-    { question: "What support is included after the payroll software goes live?", answer: `Every build includes five months of free maintenance after go-live, covering bug fixes and help with the first few payroll runs. After that, maintenance starts at ${P.care}. Rule changes, new modules or extra units are quoted separately in writing before any work starts, and the terms are set out in your quote.` },
+    { question: "What support is included after the payroll software goes live?", answer: `Every build includes two months of free maintenance after go-live, covering bug fixes and help with the first few payroll runs. After that, maintenance starts at ${P.care}. Rule changes, new modules or extra units are quoted separately in writing before any work starts, and the terms are set out in your quote.` },
     { question: "How are payments and contracts handled for the build?", answer: "You receive an itemised written quote and nothing is billed before you approve it. Payments in India are by UPI or bank transfer against invoices; overseas clients pay in USD by Wise, wire or PayPal. Milestones, confidentiality and other terms are agreed in the written quote, and our general terms are on the terms page." },
   ],
   related: {

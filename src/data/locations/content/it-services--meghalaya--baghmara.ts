@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Light sites from ₹10,000", "Records software from ₹60,000", "Automation from ₹40,000", "Android & iOS apps from ₹40,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "Freelance software developers for Baghmara: BtechWaleTech, a remote group of three engineers, makes lightweight websites from ₹10,000 in 1 to 2 weeks, WhatsApp and AI automation from ₹40,000 in 2 to 4 weeks, and custom record software from ₹60,000 in 6 to 12 weeks. We have no Baghmara office; five months of maintenance come free after launch.",
+    "Freelance software developers for Baghmara: BtechWaleTech, a remote group of three engineers, makes lightweight websites from ₹10,000 in 1 to 2 weeks, WhatsApp and AI automation from ₹40,000 in 2 to 4 weeks, and custom record software from ₹60,000 in 6 to 12 weeks. We have no Baghmara office; two months of maintenance come free after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of South Garo Hills district, formed in 1992, on the banks of the Simsang river" },
     { label: "Border", value: "The district shares a long international border with Bangladesh, and Baghmara lies close to it" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that reply to routine questions about stock, rates, permits or tour timings and pass everything else to you.",
     data: "One-page summaries of sales, dues, work orders or programme data that an owner can check from anywhere with a signal.",
     app: "Android and iOS apps from ₹40,000, one Flutter or React Native build on Google Play and the App Store, with offline entry for staff working in South Garo Hills villages beyond the network.",
-    maintenance: "Remote upkeep, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards for those who want it.",
+    maintenance: "Remote upkeep, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards for those who want it.",
   },
   whyUsIntro:
     "In a smaller market like Baghmara, the risk is paying for a big build that nobody maintains. As a freelance group we suggest the smallest useful step first, publish our starting prices, answer on WhatsApp every day of the week, and hand you every login and file.",
@@ -90,7 +90,7 @@ const content: CityContent = {
         "Phase 2: a lightweight website from ₹10,000 with services, prices and WhatsApp button",
         "Phase 3: WhatsApp automation from ₹40,000 for repeat questions and orders",
         "Phase 4: custom record software from ₹60,000 with owner dashboard",
-        "Ongoing: maintenance, free for five months, then optional from ₹8,000 a month",
+        "Ongoing: maintenance, free for two months, then optional from ₹8,000 a month",
       ],
     },
     {
@@ -193,7 +193,7 @@ const content: CityContent = {
       heading: "Why maintenance matters most for small-town websites and software",
       paragraphs: [
         "Maintenance matters most for small-town websites because there is rarely anyone local to fix problems: a lapsed domain, an expired security certificate or a broken form can quietly cost months of enquiries. Regular updates, backups and checks prevent that, and they cost far less than rebuilding a site that has decayed.",
-        "Every project includes five months of free maintenance after it goes live: bug fixes, security updates, small content edits, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when something needs changing.",
+        "Every project includes two months of free maintenance after it goes live: bug fixes, security updates, small content edits, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when something needs changing.",
         "Our support is remote. We maintain the software, website, hosting, domains, email setup and automations we built. We cannot repair local hardware or networks in Baghmara, but we can guide a local technician by phone. Before the free period ends we send a short health report so you can decide calmly.",
       ],
     },
@@ -203,7 +203,7 @@ const content: CityContent = {
       paragraphs: [
         "For a Baghmara business, websites start at ₹10,000, a 299+ page SEO site at ₹20,000, automation at ₹40,000, Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. These are starting points; the itemised estimate reflects your actual scope.",
         "What moves the price: number of pages or screens, user roles, offline capability, integrations with WhatsApp or accounting data, data migration from old registers, and who writes the content. Because many Baghmara projects are small, we often suggest the phased plan described above so costs are spread across months.",
-        "Payment is in INR, split by milestones, and accepted only by UPI through our QR code or direct transfer to our bank account. Each payment follows work you have seen. Hosting setup, deployment and five months of maintenance are included in every project.",
+        "Payment is in INR, split by milestones, and accepted only by UPI through our QR code or direct transfer to our bank account. Each payment follows work you have seen. Hosting setup, deployment and two months of maintenance are included in every project.",
       ],
     },
     {
@@ -280,7 +280,7 @@ const content: CityContent = {
         "You do. We register the domain and hosting in your name wherever the provider allows, and give you all credentials and the full source code. If you ever switch developers, we provide a short handover note so nothing is lost.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You can continue on a monthly plan from ₹8,000 that covers updates, backups, fixes and checks, or contact us only when you need changes and pay for each job. Before the free period ends we send a health report listing renewals and anything that needs attention.",
     },

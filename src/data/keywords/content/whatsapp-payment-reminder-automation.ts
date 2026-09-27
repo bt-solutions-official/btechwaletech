@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Data sources", "Tally, Zoho Books, Sheets, custom databases"],
     ["Message channel", "Official WhatsApp Business Platform"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering data, code and project planning" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free maintenance once reminders run" },
+    { value: "2", label: "Months of free maintenance once reminders run" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Stops when", value: "Payment is recorded, a promise-to-pay date is set, or the customer disputes" },
       { label: "Build starts at", value: `${P.ai} (${P.aiUsd})` },
       { label: "Time to go live", value: "2–4 weeks, including template approval" },
-      { label: "Ongoing care", value: `5 months free, then from ${P.care} monthly` },
+      { label: "Ongoing care", value: `2 months free, then from ${P.care} monthly` },
     ],
   },
   services: {
@@ -204,7 +204,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Expect two kinds of cost: a one-time build, from ${P.ai} with us, and running costs that are mostly Meta’s per-message charges plus a small hosting bill, all paid directly by you.`,
         `The build cost moves with complexity, not with the number of customers. One clean data source and one reminder ladder sit at the starting figure. Several sources, separate ladders for dealers and retail, two-way sync of promise dates, invoice attachments and a dashboard each add lines to the quote. Messy data, such as phone numbers missing from half the ledgers, may need a cleanup step first.`,
-        `Meta charges for template messages vary by category and recipient country and are published by Meta; our <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost</a> guide explains the model. Hosting is usually a small cloud function or instance under your own account. After five months of free maintenance, ongoing care is optional and starts from ${P.care} a month.`,
+        `Meta charges for template messages vary by category and recipient country and are published by Meta; our <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost</a> guide explains the model. Hosting is usually a small cloud function or instance under your own account. After two months of free maintenance, ongoing care is optional and starts from ${P.care} a month.`,
       ],
     },
     {
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["Several sources or branches, ladders per group", `From ${P.ai}, quoted per source`, `From ${P.aiUsd}`, "3–4 weeks"],
         ["Plus reply handling and collections dashboard", `From ${P.ai}, quoted per feature`, `From ${P.aiUsd}`, "3–4 weeks"],
         ["Custom billing or collections software", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
-        ["Monthly care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Monthly care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
   ],
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Connect the data", "We build the read-only sync from Tally, Zoho Books, Sheets or your database into a small reminder queue, and validate every phone number."],
       ["Wire payments and auto-stop", "UPI or provider links go into each message, and the stop logic reads your books and payment webhooks before every single send."],
       ["Pilot with a small group", "Twenty or thirty customers get reminders for a week. We watch replies, delivery and stop behaviour, then fix wording or timing."],
-      ["Full launch and handover", "Everyone goes on the ladder. You get the code, credentials list and a guide to editing ladders, plus five months of free maintenance."],
+      ["Full launch and handover", "Everyone goes on the ladder. You get the code, credentials list and a guide to editing ladders, plus two months of free maintenance."],
     ],
   },
   faqHeading: "WhatsApp payment reminder automation: common questions",
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
     { question: "Can reminders go out in Hindi or regional languages?", answer: "Yes. Each language is submitted to Meta as its own template version, and each customer’s preferred language is stored once. Hindi, Hinglish, Tamil, Gujarati and others all work, and many customers respond better in their own language. You supply or approve the wording so it sounds like your business." },
     { question: "WhatsApp par payment reminder automatic kaise bheje?", answer: "Apne unpaid bills ki list, Tally, Zoho Books ya Google Sheet se, ek scheduler se jodiye jo official WhatsApp Business Platform par approved templates bhejta hai. Har message mein UPI link ho aur payment milte hi reminder band ho jaye. Hum yeh poora setup karte hain aur account aapke business ke naam par hi rehta hai." },
     { question: "What happens if the data sync fails?", answer: "Reminders are only sent from data that synced successfully within a set time. If the sync stops, sending pauses and the owner gets an alert, because a stale list is how paid customers get chased. We also send a daily summary of reminders sent, payments received and failed deliveries so problems are visible early." },
-    { question: "Is maintenance included after launch?", answer: "Yes, five months of free maintenance follow go-live, covering fixes, template edits, ladder changes and monitoring. After that, monthly care starts from the maintenance starting price on this page if you want us to keep watching it. Many clients manage routine wording and schedule changes themselves using the handover guide." },
+    { question: "Is maintenance included after launch?", answer: "Yes, two months of free maintenance follow go-live, covering fixes, template edits, ladder changes and monitoring. After that, monthly care starts from the maintenance starting price on this page if you want us to keep watching it. Many clients manage routine wording and schedule changes themselves using the handover guide." },
   ],
   related: {
     heading: "Related WhatsApp and billing automation",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tired of chasing payments by phone?",
-    note: `Share where your invoices live and how you chase them today. You will get an itemised quote in about two working days, with WhatsApp payment reminder automation starting from ${P.ai}, accounts in your name and five months of free maintenance.`,
+    note: `Share where your invoices live and how you chase them today. You will get an itemised quote in about two working days, with WhatsApp payment reminder automation starting from ${P.ai}, accounts in your name and two months of free maintenance.`,
   },
 };
 

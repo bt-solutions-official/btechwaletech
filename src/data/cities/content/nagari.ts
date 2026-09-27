@@ -56,7 +56,7 @@ const nagari: CityContent = {
     ai: "WhatsApp assistants in Tamil, Telugu or English that answer design, rate, stock and dispatch questions and hand real decisions to you.",
     data: "Dashboards showing metres woven per loom, yarn stock, pending orders by buyer and payments due.",
     app: "Android and iOS apps for wholesale buyers to browse new designs and reorder, or for loom supervisors to log output, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "No maintenance charge for the first five months after launch; afterwards support is available from ₹8,000 a month.",
+    maintenance: "No maintenance charge for the first two months after launch; afterwards support is available from ₹8,000 a month.",
   },
   whyUsIntro:
     "Weaving margins in Nagari are thin, so every rupee spent on a website or app has to come back. We show starting prices up front, list each piece of work separately, reply on WhatsApp all seven days, and open your domain, hosting, code and app store accounts in your own name. Where something will not pay back, we tell you plainly.",
@@ -176,7 +176,7 @@ const nagari: CityContent = {
       heading: "Ownership and after-launch care: everything stays in your name",
       paragraphs: [
         "Each account behind your project, including the domain, hosting, source code, Google Business Profile and any Play Store or App Store developer account, is opened with your email and mobile number from the start. That way nobody, us included, can hold your website back if you change developers.",
-        "Once the site or app is live, we look after it free for five months: bug fixes, small edits, security patches and backups. After that, optional care is priced from ₹8,000 per month. You may move the code to another developer whenever you wish, and we hand over every file and password.",
+        "Once the site or app is live, we look after it free for two months: bug fixes, small edits, security patches and backups. After that, optional care is priced from ₹8,000 per month. You may move the code to another developer whenever you wish, and we hand over every file and password.",
         "We also show you or a staff member how to add new designs, change rates and update photos yourself, usually in one screen-share session, so a new lungi range can go online the same day it comes off the loom.",
       ],
     },
@@ -264,7 +264,7 @@ const nagari: CityContent = {
     {
       question: "What happens after the website or app is launched?",
       answer:
-        "For five months after launch we fix bugs, make small edits, apply security patches and keep backups at no cost. Optional care after that starts at ₹8,000 per month. We also train your staff to add designs, change rates and update notices themselves, so routine updates never wait on us.",
+        "For two months after launch we fix bugs, make small edits, apply security patches and keep backups at no cost. Optional care after that starts at ₹8,000 per month. We also train your staff to add designs, change rates and update notices themselves, so routine updates never wait on us.",
     },
     {
       question: "Do you work with businesses in Puttur, Tiruttani and nearby towns?",

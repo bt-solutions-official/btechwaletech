@@ -56,7 +56,7 @@ const panruti: CityContent = {
     ai: "WhatsApp assistants that answer grade, price and stock questions in Tamil and pass bulk enquiries to the owner.",
     data: "Dashboards of raw nut stock, kernel output by grade, season-wise jackfruit loads and buyer dues.",
     app: "Android and iOS apps for a cashew trader's repeat buyers or a school's parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Panruti traders deal in season-bound crops and tight margins, so they want plain numbers and work that pays back quickly. We publish starting prices, send written itemised quotes, answer WhatsApp every day of the week and register domain, hosting, code and store accounts in your name. If something will not earn its cost, we tell you before you pay for it.",
@@ -174,7 +174,7 @@ const panruti: CityContent = {
       heading: "Ownership and maintenance for Panruti websites and apps",
       paragraphs: [
         "A cashew unit or shop should never have to ask a developer for permission to change its own website. So the domain goes on your email, the hosting invoice is addressed to you, and the source code is handed over in full. Your Google listing and the Play and Apple developer accounts carry your name as owner. A sheet of all logins comes with the handover.",
-        "The first five months after launch come with free maintenance. We update prices before the season, take backups, apply security and version updates, and check forms, UPI payments and WhatsApp buttons. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
+        "The first two months after launch come with free maintenance. We update prices before the season, take backups, apply security and version updates, and check forms, UPI payments and WhatsApp buttons. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
         "Apps need a yearly update even when nothing seems wrong, because Google and Apple keep raising their minimum requirements. We track those dates and release the update early so your listing is never removed.",
       ],
     },
@@ -271,7 +271,7 @@ const panruti: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Nothing is charged for upkeep during the five months after going live. Seasonal price changes, fresh photographs, backups, patches and checks of the order form and UPI checkout are all covered. From month six, a plan costs ₹8,000 a month onwards, or you can take the work to any developer you like, since everything is already yours.",
+        "Nothing is charged for upkeep during the two months after going live. Seasonal price changes, fresh photographs, backups, patches and checks of the order form and UPI checkout are all covered. From month three, a plan costs ₹8,000 a month onwards, or you can take the work to any developer you like, since everything is already yours.",
     },
     {
       question: "Do you work in Neyveli, Nellikuppam and Cuddalore too?",

@@ -40,7 +40,7 @@ const content: FreelanceContent = {
     ["Learner apps from", `${P.app}, 6–10 weeks`],
     ["Player", "Arabic RTL and English, captions, quizzes"],
     ["Licensing", "Your NeLC or TVTC obligations stay yours"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your platform" },
@@ -99,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What e-learning platform development costs with us",
-    note: `An academy that needs a catalogue, course pages and enquiry forms can start on the static website plan from ${P.site}, then add learning later. Selling courses with learner accounts and checkout on a proven LMS starts from ${P.shop}. A custom platform with cohorts, live classes, assessments, certificates and admin reports starts from ${P.software}, and learner apps from ${P.app}. Video hosting, live-class software, payment processing and hosting are billed to you by those providers, which keeps you free to change any of them. Maintenance is free for five months, then from ${P.care}.`,
+    note: `An academy that needs a catalogue, course pages and enquiry forms can start on the static website plan from ${P.site}, then add learning later. Selling courses with learner accounts and checkout on a proven LMS starts from ${P.shop}. A custom platform with cohorts, live classes, assessments, certificates and admin reports starts from ${P.software}, and learner apps from ${P.app}. Video hosting, live-class software, payment processing and hosting are billed to you by those providers, which keeps you free to change any of them. Maintenance is free for two months, then from ${P.care}.`,
   },
   guideLabel: "E-learning platform guide for Saudi Arabia",
   guide: [
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
         "Store admin logins, documentation and the handover video somewhere your team controls.",
       ],
       after: [
-        `If anything on this list fails, delay the launch by a week rather than fixing it live. The five free months of maintenance after launch cover the fixes a pilot cohort usually uncovers.`,
+        `If anything on this list fails, delay the launch by a week rather than fixing it live. The two free months of maintenance after launch cover the fixes a pilot cohort usually uncovers.`,
       ],
     },
   ],
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Arabic prototype", "A clickable Arabic-first prototype of the dashboard, course page and player, reviewed by instructors on their own phones before any code is written."],
       ["Build in weekly slices", "Enrolment, player, payments, live classes and certificates delivered in slices on staging, each demonstrated on a short call and adjusted from your feedback."],
       ["Pilot with real learners", "A small cohort uses the platform for real; we fix what they hit, tune video and load, and confirm reports match what your managers expect."],
-      ["Launch and ownership handover", "Go-live on your accounts, admin training for staff, documentation and walkthrough videos delivered, then five months of free maintenance."],
+      ["Launch and ownership handover", "Go-live on your accounts, admin training for staff, documentation and walkthrough videos delivered, then two months of free maintenance."],
     ],
   },
   faqHeading: "E-learning platform development in Saudi Arabia: frequent questions",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "How will our courses rank on Google?", answer: "Each course gets an indexable page with outcome, duration, schedule, price and instructor, course structured data and Arabic and English versions with hreflang. Lessons stay behind login. Nobody can guarantee rankings, but clear course pages, fast loading and genuine learner reviews build visibility steadily. Monthly SEO support is available if you want it." },
     { question: "Is it practical to hire developers in India for a Saudi e-learning platform?", answer: "Yes. India is only 2.5 hours ahead, so your working week overlaps with ours for most of the day, and we reply on WhatsApp seven days a week. Reviews happen on staging links and short video calls. We work remotely with no office in the Kingdom, and everything is built on accounts you own." },
     { question: "How do we pay and what does the contract cover?", answer: "Quotes and invoices are in USD, payable by Wise, bank wire or PayPal, with invoices issued from India. The itemised quote you approve in writing sets out scope and milestones; nothing is billed before that approval. For terms beyond the quote, see our published terms and refund policy or ask us directly." },
-    { question: "What support do we get after launch?", answer: `Five months of free maintenance covers bug fixes, updates and small changes after launch. After that, care plans start from ${P.care} for updates, backups, monitoring and minor features. New modules such as apps or a marketplace are quoted separately and approved in writing first.` },
+    { question: "What support do we get after launch?", answer: `Two months of free maintenance covers bug fixes, updates and small changes after launch. After that, care plans start from ${P.care} for updates, backups, monitoring and minor features. New modules such as apps or a marketplace are quoted separately and approved in writing first.` },
   ],
   related: {
     heading: "More for Saudi educators and training providers",

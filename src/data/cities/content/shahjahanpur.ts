@@ -30,11 +30,11 @@ const shahjahanpur: CityContent = {
     eyebrow: "Shahjahanpur · Uttar Pradesh",
     h1: "Web, app, SEO and automation services for Shahjahanpur businesses",
     lede:
-      "We are three remote engineers who build websites, online shops and automation for Shahjahanpur's zari and zardozi workshops, sugar-belt dealers, clinics, schools and city shops, as well as traders in Tilhar, Powayan and Jalalabad. Prices are listed openly, the engineers answer your messages, and maintenance is free for five months.",
+      "We are three remote engineers who build websites, online shops and automation for Shahjahanpur's zari and zardozi workshops, sugar-belt dealers, clinics, schools and city shops, as well as traders in Tilhar, Powayan and Jalalabad. Prices are listed openly, the engineers answer your messages, and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Hindi and Urdu-friendly pages", "Zari catalogue stores", "Google Maps help", "WhatsApp automation"],
   },
   quickAnswer:
-    "A Shahjahanpur business website costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote team of three engineers and have no office in Shahjahanpur. Every project includes hosting setup, SEO basics and five months of free maintenance.",
+    "A Shahjahanpur business website costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000. We are a remote team of three engineers and have no office in Shahjahanpur. Every project includes hosting setup, SEO basics and two months of free maintenance.",
   snapshot: [
     { label: "Location", value: "Rohilkhand region between Bareilly and Lucknow, on NH 30 and the Lucknow–Moradabad railway line" },
     { label: "Heritage craft", value: "Zari and zardozi embroidery, promoted as the district's One District One Product" },
@@ -51,10 +51,10 @@ const shahjahanpur: CityContent = {
     ai: "WhatsApp replies and enquiry tracking for coaching centres, hospitals and showrooms that answer the same questions all day.",
     data: "Dashboards for dealer sales, dues and seasonal stock, built from the Excel sheets or Tally exports you already have.",
     app: "Android and iPhone apps for school notices, clinic bookings or field sales, available on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security checks.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security checks.",
   },
   whyUsIntro:
-    "In Shahjahanpur, websites are often made by a nephew, a computer centre or an out-of-town agency that disappears after the final payment. We do things more plainly: public prices, a written quote, replies on WhatsApp every day, and five months of care after launch without extra charge.",
+    "In Shahjahanpur, websites are often made by a nephew, a computer centre or an out-of-town agency that disappears after the final payment. We do things more plainly: public prices, a written quote, replies on WhatsApp every day, and two months of care after launch without extra charge.",
   pricingIntro:
     "Below are our actual starting rates. A small clinic's site and a zardozi exporter's catalogue with a hundred designs are very different jobs, so your quote breaks the work into lines you can read, question and trim before you approve it.",
   sections: [
@@ -185,7 +185,7 @@ const shahjahanpur: CityContent = {
       paragraphs: [
         "We regularly meet Shahjahanpur businesses whose old website has vanished because the developer who registered the domain stopped renewing it or changed his number. The business name is lost, the Google listing points to a dead link, and everything has to be rebuilt.",
         "With us, the domain is bought in your name, the hosting account is yours, and at handover you receive every login and the complete code, along with a short note explaining what runs where. You are free to take it to another developer at any time without paying us anything.",
-        "For the first five months after launch, maintenance costs nothing: edits to text and prices, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or contact us only when a change is needed.",
+        "For the first two months after launch, maintenance costs nothing: edits to text and prices, bug fixes, security updates, backups, uptime and speed checks. After that you can continue from ₹8,000 a month or contact us only when a change is needed.",
       ],
     },
   ],
@@ -265,9 +265,9 @@ const shahjahanpur: CityContent = {
         "Yes. The domain is registered in your name, hosting is in your account, and you receive all passwords and the full code at launch. You can move to another developer whenever you like with no exit fee.",
     },
     {
-      question: "What is covered in the five months of free maintenance?",
+      question: "What is covered in the two months of free maintenance?",
       answer:
-        "Text and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks for five months after launch, at no charge. Afterwards maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "Text and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks for two months after launch, at no charge. Afterwards maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
     },
     {
       question: "How long does SEO take to bring customers in Shahjahanpur?",

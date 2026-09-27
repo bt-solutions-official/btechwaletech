@@ -56,7 +56,7 @@ const sironj: CityContent = {
     ai: "WhatsApp replies in Hindi that tell farmers today's buying rate, shop timings or admission dates, and hand anything unusual to you.",
     data: "Season dashboards comparing soybean and wheat arrivals, supplier dues and dealer credit across the rabi and kharif cycles.",
     app: "Android and iOS apps from ₹40,000 for coaching students, dealer networks or repeat grain buyers, published on Google Play and the App Store in your name.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for backups, rate updates and security patches.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for backups, rate updates and security patches.",
   },
   whyUsIntro:
     "Sironj owners have usually been burnt once by a designer who vanished with the domain. We work the opposite way: starting prices in public, a written itemised quote, your name on every login from day one, and replies on WhatsApp every day of the week. If a feature will not earn back its cost, we tell you plainly.",
@@ -168,7 +168,7 @@ const sironj: CityContent = {
       heading: "Your site, your app, your accounts: ownership and upkeep",
       paragraphs: [
         "The domain is registered with your email, hosting is billed in your name, and the full code is handed to you. Google Business Profile, Google Play and Apple developer accounts list you as the owner. At handover you get one document with every login, so no designer, including us, can hold your business hostage.",
-        "For five months after launch we maintain everything at no charge: updating rates and photos, taking backups, applying security updates and checking that forms, payments and WhatsApp buttons still work after each change. After that, you can continue with us from ₹8,000 a month, manage it yourself, or pass the code to another developer without asking our permission.",
+        "For two months after launch we maintain everything at no charge: updating rates and photos, taking backups, applying security updates and checking that forms, payments and WhatsApp buttons still work after each change. After that, you can continue with us from ₹8,000 a month, manage it yourself, or pass the code to another developer without asking our permission.",
         "Apps need a yearly rebuild even when nothing breaks, because Google and Apple keep raising minimum version rules. We track those dates and update early so your listing is never removed.",
       ],
     },
@@ -260,7 +260,7 @@ const sironj: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: rate and photo edits, backups, security updates and checks on forms, payments and WhatsApp links. After that you can stay with us from ₹8,000 a month or take the work elsewhere, since the code and all accounts are already in your name.",
+        "The first two months after launch are free: rate and photo edits, backups, security updates and checks on forms, payments and WhatsApp links. After that you can stay with us from ₹8,000 a month or take the work elsewhere, since the code and all accounts are already in your name.",
     },
     {
       question: "Do you also work in Lateri, Ganjbasoda and Kurwai?",

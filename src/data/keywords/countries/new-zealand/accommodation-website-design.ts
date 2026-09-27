@@ -36,14 +36,14 @@ const content: FreelanceContent = {
     ["Multi-property or large site from", P.seoSite],
     ["Custom booking tools from", P.software],
     ["Usual build", "1 to 2 weeks with your engine"],
-    ["Free maintenance", "5 months from launch"],
+    ["Free maintenance", "2 months from launch"],
     ["Itemised quote", "About 2 working days, in USD"],
   ],
   stats: [
     { value: "0", label: "Commission we take on bookings made through your site" },
     { value: "3", label: "Freelance developers: build, search and project lead" },
     { value: "2", label: "Working days, roughly, to your itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How can a motel or holiday park get more direct bookings from its website?",
@@ -243,7 +243,7 @@ const content: FreelanceContent = {
         "Guest messaging automation",
         "Moving an old site while keeping its search history",
       ],
-      after: [`Maintenance is free for five months after launch; care plans then start from ${P.care}. See <a href='/new-zealand/website-design-cost/'>website costs in NZ</a> for domain and hosting figures.`],
+      after: [`Maintenance is free for two months after launch; care plans then start from ${P.care}. See <a href='/new-zealand/website-design-cost/'>website costs in NZ</a> for domain and hosting figures.`],
     },
     {
       id: "timeline",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Booking connection first", "We connect your engine on a staging site and make test bookings to confirm rates, availability and sync behave correctly."],
       ["Rooms, perks and pages", "Room pages, policies and town content are written from your notes; you correct any local detail."],
       ["Test on phones", "We book on several phones, check the confirmation email and channel sync, and fix every snag you report."],
-      ["Go live and hand over", "Launch on your accounts, Business Profile updated, logins shared, five months of free maintenance begins."],
+      ["Go live and hand over", "Launch on your accounts, Business Profile updated, logins shared, two months of free maintenance begins."],
     ],
   },
   faqHeading: "Accommodation website design: questions from NZ property owners",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "How do I pay and who owns the website?", answer: "You pay in USD by Wise, bank wire or PayPal at milestones in your written quote. Nothing is billed before approval. You own the domain, hosting, content and guest data, and all logins are handed over. Invoices come from India; ask your accountant how to record them." },
     { question: "Can you automate pre-arrival and review request messages?", answer: `Yes. Pre-arrival details, check-in codes, directions and review requests can be sent by email or WhatsApp from your booking data, with the right consent. Automation work starts from ${P.ai}. We check your system's data access before quoting.` },
     { question: "Can you redesign my accommodation site without changing booking engines?", answer: "Yes. Most redesigns keep the existing engine and channel manager, which avoids reloading rates and retraining staff. We restyle the booking flow as far as the engine allows and rebuild the pages around it." },
-    { question: "What does an accommodation website cost to run after launch?", answer: `Domain, hosting, booking engine and payment fees are paid by you directly. Maintenance is free for five months after launch; care plans then start from ${P.care} and monthly SEO from ${P.seo}, both optional.` },
+    { question: "What does an accommodation website cost to run after launch?", answer: `Domain, hosting, booking engine and payment fees are paid by you directly. Maintenance is free for two months after launch; care plans then start from ${P.care} and monthly SEO from ${P.seo}, both optional.` },
     { question: "Is accommodation website design different for lodges and B&Bs?", answer: "Yes. Lodges sell an experience, so longer pages, dining, activities and exclusive-use enquiries matter. B&Bs sell the hosts and breakfast, so warm writing and house rules matter. Motels and holiday parks need speed, location and site detail. The booking engine may be the same; the site plan is not." },
   ],
   related: {

@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Invoiced in", "USD or EUR, via Wise or bank wire"],
     ["Hosting", "EU region you choose, e.g. AWS Frankfurt"],
     ["Code and accounts", "Owned by your company"],
-    ["Aftercare", "5 months free, then from " + P.care],
+    ["Aftercare", "2 months free, then from " + P.care],
   ],
   stats: [
     { value: "3", label: "Developers who know your portal" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or middleman fees" },
   ],
   answer: {
@@ -177,7 +177,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `What a b2b portal development company charges depends far more on integrations and workflows than on page count. With BtechWaleTech a custom portal starts at ${P.software} and a platform-based B2B shop at ${P.shop}; both are starting prices, and the itemised quote shows how your scope moves them. Quotes from German agencies and other offshore vendors vary widely, so compare scopes line by line rather than headline numbers.`,
         `The biggest cost drivers, in the order we usually see them: the number of systems to sync and how clean their data is; the number of price rule types (customer prices, group discounts, quantity breaks, surcharges, promotions); the number of workflows beyond ordering (quotes, approvals, RMA, service tickets); the product structure, especially variants and configurable items; and migration of existing customer logins.`,
-        `Running costs are separate and belong in your budget from day one: EU cloud hosting billed by the provider to your card, any platform licence, monitoring, and maintenance after the free five months, from ${P.care}. Our page on <a href='/germany/software-development-cost/'>software development cost in Germany</a> explains how to budget total cost of ownership over several years.`,
+        `Running costs are separate and belong in your budget from day one: EU cloud hosting billed by the provider to your card, any platform licence, monitoring, and maintenance after the free two months, from ${P.care}. Our page on <a href='/germany/software-development-cost/'>software development cost in Germany</a> explains how to budget total cost of ownership over several years.`,
       ],
     },
     {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is an illustration, not a client story. Say a family-owned wholesaler of pipe fittings near Karlsruhe serves several hundred installer businesses. Orders arrive by email and phone, prices are negotiated per customer in SAP Business One, and staff email the same installation manuals every day.`,
         `We would propose a custom portal starting at ${P.software}. Release one: buyer companies with purchaser and admin roles, prices read live from SAP Business One's Service Layer, reorder from history and a paste-your-article-numbers box, delivery status from the delivery notes, and a document library per article. Approvals are left out because most installers are small firms with one buyer.`,
-        `Release two, after a pilot with a small group of regular customers, would add quotes for project orders and an RMA form. Hosting runs in the wholesaler's own AWS account in Frankfurt. The sales team keeps taking phone orders but enters them through the portal's "act as customer" view, so all history sits in one place. Five months of free maintenance cover fixes while the portal settles.`,
+        `Release two, after a pilot with a small group of regular customers, would add quotes for project orders and an RMA form. Hosting runs in the wholesaler's own AWS account in Frankfurt. The sales team keeps taking phone orders but enters them through the portal's "act as customer" view, so all history sits in one place. Two months of free maintenance cover fixes while the portal settles.`,
       ],
     },
     {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
         ["Field sales or service app", `From ${P.app}`, "6–10 weeks", "Android and iOS app on the portal API"],
         ["AI order intake", `From ${P.ai}`, "2–4 weeks", "Emailed orders and PDFs into draft orders"],
         ["Public SEO catalogue", `From ${P.seoSite}`, "3–5 weeks", "Product and application pages for search"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Monthly", "Updates, monitoring, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Monthly", "Updates, monitoring, small changes"],
       ],
     },
   ],
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
       ["Itemised quote in about two working days", "Each module is priced as its own line in USD, with a timeline. Remove lines to fit the budget; nothing is billed until you approve the scope in writing."],
       ["Prototype and sprints", "A clickable buyer journey first, then two-week sprints with a demo on your staging portal. Code lives in your repository and deploys to your EU cloud account."],
       ["Pilot with friendly customers", "A small group of regular buyers uses the portal for real orders while we fix issues, rehearse data migration and tune ERP sync timings."],
-      ["Rollout and aftercare", "Customers are invited in batches, the order queue is monitored daily, and five months of free maintenance follow. After that, care plans start from " + P.care + "."],
+      ["Rollout and aftercare", "Customers are invited in batches, the order queue is monitored daily, and two months of free maintenance follow. After that, care plans start from " + P.care + "."],
     ],
   },
   faqHeading: "B2B portal development company: questions from German buyers",
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate our existing customer logins?", answer: "Usually, yes. Customer companies, contacts and addresses are imported from the ERP or old portal. Passwords can often be carried over if the old system's hashing method is known; otherwise buyers receive a secure invitation to set a new one. We rehearse the migration on staging before launch." },
     { question: "How do we work with a portal team in India across the time difference?", answer: "India is three and a half hours ahead of German summer time and four and a half in winter, so your morning is our afternoon and there is a shared working window every weekday. We hold short video calls in that window, use WhatsApp or your Teams or Slack for questions, and reply seven days a week." },
     { question: "How are invoices and payments handled?", answer: "Quotes are itemised in USD and invoices, issued from India, can be in USD or EUR. Payment is by Wise or bank wire, on the schedule set out in your written quote. Nothing is billed before you approve the scope in writing. Your accountant can advise on how to book the invoices." },
-    { question: "What happens after the portal goes live?", answer: `Five months of free maintenance follow launch, covering fixes, updates and small adjustments while real customers use the portal. After that, maintenance starts from ${P.care} if you want it. You can also hand the portal to your own developers at any time, because the code and documentation are already yours.` },
+    { question: "What happens after the portal goes live?", answer: `Two months of free maintenance follow launch, covering fixes, updates and small adjustments while real customers use the portal. After that, maintenance starts from ${P.care} if you want it. You can also hand the portal to your own developers at any time, because the code and documentation are already yours.` },
     { question: "Can you build a mobile app for our sales reps on top of the portal?", answer: `Yes. A Flutter or React Native app for Android and iOS can use the same API as the portal, so sales reps and service technicians see the same prices, orders and tickets. Apps start at ${P.app}, and they are published in your company's Google Play and App Store accounts.` },
     { question: "Will the portal help our Google rankings?", answer: "The logged-in area is invisible to search engines, but a public product catalogue with specifications, datasheets and application pages can bring qualified traffic. We build those pages with clean URLs, structured data and fast loading. Nobody can honestly guarantee rankings; we set up Search Console in your account so you can track progress." },
     { question: "Can the B2B portal create XRechnung or ZUGFeRD invoices?", answer: "Yes, if invoices are generated in or passed through the portal. Most German firms keep invoicing in the ERP and show the resulting files in the portal. Where the portal must issue e-invoices itself, we generate and validate XRechnung or ZUGFeRD files as a separate module." },

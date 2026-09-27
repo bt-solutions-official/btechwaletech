@@ -31,11 +31,11 @@ const anantapur: CityContent = {
     eyebrow: "Anantapur · Andhra Pradesh",
     h1: "Web, app, SEO and automation services for Anantapur's traders, institutes and silk sellers",
     lede:
-      "Three remote engineers building websites, online stores and WhatsApp automations for Anantapur's groundnut and fruit traders, Dharmavaram silk sellers, engineering colleges and coaching centres, hospitals and the auto-component suppliers along NH-44. Prices are public, you talk to the developers directly, and maintenance is free for five months.",
+      "Three remote engineers building websites, online stores and WhatsApp automations for Anantapur's groundnut and fruit traders, Dharmavaram silk sellers, engineering colleges and coaching centres, hospitals and the auto-component suppliers along NH-44. Prices are public, you talk to the developers directly, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Silk saree online stores", "Agri trade catalogues", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "For an Anantapur shop, clinic or institute, a basic website is priced from ₹10,000 and is ready in one to two weeks. Telugu-English SEO sites of 299+ pages start at ₹20,000, a silk or produce store at ₹50,000 and WhatsApp automation at ₹40,000. We work remotely with no local office, and upkeep is free for five months.",
+    "For an Anantapur shop, clinic or institute, a basic website is priced from ₹10,000 and is ready in one to two weeks. Telugu-English SEO sites of 299+ pages start at ₹20,000, a silk or produce store at ₹50,000 and WhatsApp automation at ₹40,000. We work remotely with no local office, and upkeep is free for two months.",
   snapshot: [
     { label: "Official name", value: "Ananthapuramu, headquarters of Anantapur district in the Rayalaseema region of Andhra Pradesh" },
     { label: "Connectivity", value: "On National Highway 44 between Bengaluru and Hyderabad; Bengaluru's international airport is about 190 km away" },
@@ -52,10 +52,10 @@ const anantapur: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock or appointment questions in Telugu or English and pass the rest to your staff.",
     data: "Dashboards showing sales, collections or admissions by town and season, built from the spreadsheets you already keep.",
     app: "Android and iPhone apps for field sales, farmer registrations or attendance that run on ordinary handsets, published on Google Play and the App Store.",
-    maintenance: "Free updates, backups and security patches for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security patches for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "A common Anantapur story: the site was made by a Bengaluru or Hyderabad agency that stopped answering once the invoice cleared, or by a young freelancer who later took a job elsewhere. Our starting rates sit on a public page, Telugu copy is checked by a Telugu speaker, WhatsApp replies come every day of the week, and the first five months of upkeep cost nothing.",
+    "A common Anantapur story: the site was made by a Bengaluru or Hyderabad agency that stopped answering once the invoice cleared, or by a young freelancer who later took a job elsewhere. Our starting rates sit on a public page, Telugu copy is checked by a Telugu speaker, WhatsApp replies come every day of the week, and the first two months of upkeep cost nothing.",
   pricingIntro:
     "Website quotes in Anantapur range widely and seldom say what is included. Below are our real starting prices. Your final quote depends on the number of pages, products and languages, the features you need and how much content is ready. You receive it itemised, line by line, before we start.",
   sections: [
@@ -165,11 +165,11 @@ const anantapur: CityContent = {
     },
     {
       id: "ownership-maintenance-anantapur",
-      heading: "Your site belongs to you, with five months of free upkeep",
+      heading: "Your site belongs to you, with two months of free upkeep",
       paragraphs: [
         "Ask around Subash Road and you will hear of a hospital or a coaching centre whose old site simply vanished one year. The usual cause is a domain bought under the developer's personal account; he changed his number, the renewal notice went to him, and the address expired.",
         "We avoid that by design. The domain is booked with your business as the owner, the hosting account carries your email, and at handover you get a sheet of passwords, a one-page note explaining where things live, and the full code repository. If you ever want another agency to take over, nothing is held back and nothing is charged for leaving.",
-        "For the first five months after going live, we make text and photo changes, fix bugs, apply updates, take backups and watch uptime without billing you. From the sixth month, a maintenance plan is available from ₹8,000 a month; many smaller clients simply message us when they need something. What goes into each build is listed on our <a href=\"/services/web-development/\">web development</a> page.",
+        "For the first two months after going live, we make text and photo changes, fix bugs, apply updates, take backups and watch uptime without billing you. From the third month, a maintenance plan is available from ₹8,000 a month; many smaller clients simply message us when they need something. What goes into each build is listed on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const anantapur: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "During the five months after your site goes live, text and photo edits, bug fixes, plugin and security updates, backups and uptime checks are included free. From month six, plans start at ₹8,000 a month, or you can pay only when you ask for work.",
+        "During the two months after your site goes live, text and photo edits, bug fixes, plugin and security updates, backups and uptime checks are included free. From month three, plans start at ₹8,000 a month, or you can pay only when you ask for work.",
     },
     {
       question: "How long does SEO take in Anantapur?",

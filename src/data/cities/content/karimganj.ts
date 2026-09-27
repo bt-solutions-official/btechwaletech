@@ -56,7 +56,7 @@ const karimganj: CityContent = {
     ai: "WhatsApp assistants in Bengali and English that answer price, stock and fee questions and pass real decisions to your staff.",
     data: "Dashboards of consignments, payments pending from buyers, stock by godown and admissions by course.",
     app: "Android and iOS apps for wholesalers taking retailer orders across the Barak Valley or schools messaging parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "Trade in Sribhumi runs on trust built over years, often across a border. We work the same way: published starting prices, written itemised quotes, WhatsApp replies seven days a week, and every domain, hosting account, codebase and app store listing registered in your name. If something will not earn back its cost, we tell you before you pay for it.",
@@ -177,7 +177,7 @@ const karimganj: CityContent = {
       heading: "Ownership and maintenance for Karimganj websites and apps",
       paragraphs: [
         "Everything we make for you is yours from the first day. The domain is registered on your email, the hosting account is in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list your business as owner. At handover you receive a written sheet of every login, so nobody, including us, can hold your website or app hostage.",
-        "For five months after launch, maintenance is free. We update prices and photos, take backups, apply security patches and check that forms, payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to any other developer without asking our permission.",
+        "For two months after launch, maintenance is free. We update prices and photos, take backups, apply security patches and check that forms, payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to any other developer without asking our permission.",
         "Apps need a yearly update even when nothing seems broken, because Google and Apple regularly raise the minimum versions they accept. We watch those deadlines and ship updates early, so your listing does not disappear from the stores. Websites need less, but domain renewals and hosting bills still come every year, and we remind you well before they are due.",
       ],
     },
@@ -274,7 +274,7 @@ const karimganj: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance costs nothing: price and photo edits, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, you can continue with us from ₹8,000 a month or move on. Because the code and every account are already yours, switching needs no permission from us.",
+        "For two months after launch, maintenance costs nothing: price and photo edits, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, you can continue with us from ₹8,000 a month or move on. Because the code and every account are already yours, switching needs no permission from us.",
     },
     {
       question: "Do you work in Badarpur, Patharkandi and Silchar too?",

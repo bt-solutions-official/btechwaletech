@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Estimate", "Itemised, in about 2 working days"],
     ["Branding", "None of ours on sites, code or emails to clients"],
     ["Communication", "WhatsApp, Slack or your PM tool"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know each project" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free upkeep after launch" },
+    { value: "2", label: "Months of free upkeep after launch" },
     { value: "0", label: "Credits or links back to us on client sites" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Online store", value: `From ${P.shopUsd} · ${P.shop}` },
       { label: "Apps and web apps", value: `App from ${P.appUsd}; web app from ${P.softwareUsd}` },
       { label: "Payment", value: "Wise, bank wire or PayPal abroad; UPI or bank transfer in India" },
-      { label: "Upkeep", value: `5 months free, then from ${P.careUsd} · ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.careUsd} · ${P.care}` },
     ],
   },
   services: {
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       heading: "White label web development pricing and agency margins",
       paragraphs: [
         `Most agencies buy white label web development per project and add their own margin for strategy, design, account management and risk. Because our estimates are itemised, you can see exactly which lines drive cost and price your proposal accordingly.`,
-        `Starting points: a static site from ${P.siteUsd} (${P.site}), an SEO website with 299+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, an app from ${P.appUsd}, a custom web app from ${P.softwareUsd}, and AI automation from ${P.aiUsd}. Care plans after the five free months start at ${P.careUsd}.`,
+        `Starting points: a static site from ${P.siteUsd} (${P.site}), an SEO website with 299+ pages from ${P.seoSiteUsd}, an online store from ${P.shopUsd}, an app from ${P.appUsd}, a custom web app from ${P.softwareUsd}, and AI automation from ${P.aiUsd}. Care plans after the two free months start at ${P.careUsd}.`,
         `Across the market, white label quotes vary widely. The difference usually comes from the level of design fidelity expected, whether content loading and image preparation are included, the testing depth, and support after launch. Ask every partner to price the same written brief so you compare like with like.`,
       ],
     },
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shopUsd}`, `From ${P.shop}`, "4–8 weeks", "WooCommerce, Shopify or custom stores"],
         ["Custom web app or portal", `From ${P.softwareUsd}`, `From ${P.software}`, "6–12 weeks", "Client dashboards and booking systems"],
         ["Android & iOS app", `From ${P.appUsd}`, `From ${P.app}`, "6–10 weeks", "Companion apps for agency clients"],
-        ["Care plan after 5 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly", "Resold maintenance retainers"],
+        ["Care plan after 2 free months", `From ${P.careUsd}`, `From ${P.care}`, "Monthly", "Resold maintenance retainers"],
       ],
       hideSm: [2],
     },
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Staging on your domain", "We build on a staging subdomain you control and post updates in your Slack, WhatsApp or project tool."],
       ["Your review, then your client's", "You check the build first against our pre-handover checklist, then present it. Client feedback returns through you in consolidated batches."],
       ["Launch under your name", "We deploy to the client's hosting, run final checks and give you unbranded handover and editing guides to send under your logo."],
-      ["Five months of free care", `Fixes and small edits are free for five months after launch. Later care plans, which you can resell, start at ${P.careUsd} or ${P.care}.`],
+      ["Two months of free care", `Fixes and small edits are free for two months after launch. Later care plans, which you can resell, start at ${P.careUsd} or ${P.care}.`],
     ],
   },
   faqHeading: "White label web development: agency questions",
@@ -384,8 +384,8 @@ const content: FreelanceContent = {
     { question: "Can you build mobile apps under white label?", answer: `Yes. We build Android and iOS apps with Flutter or React Native from ${P.appUsd}, published under your client's own Play Console and App Store Connect accounts, so the store listing shows the client or your agency, never us. The app can share its backend with a website we build for the same client.` },
     { question: "Can I test you with a small project first?", answer: "Yes, and it is a sensible approach. A landing page, a small brochure site or a redesign of your own agency site lets you judge design accuracy, communication and testing standards before you put a key client in our hands. The estimate for a small job follows the same itemised process as a large one." },
     { question: "What will you not do as a white label partner?", answer: "We do not provide on-site staff, contact your clients behind your back, resell to your clients, or take on programmes that need a large bench of developers every month. We are three freelance developers, which suits agencies that value consistency and direct access to the people doing the work." },
-    { question: "Is maintenance included after launch?", answer: `Yes, five months of maintenance are free after each launch, covering fixes, small edits and updates. After that, care plans start at ${P.careUsd} (${P.care}) per site, which many agencies resell as their own retainer. You can also take maintenance in-house at any time, since all access sits with you or the client.` },
-    { question: "White label web development kya hota hai?", answer: `White label web development mein website hum banate hain, par client ko aapki agency ke naam se deliver hoti hai. Site par hamara naam ya link nahi hota. Static site ${P.site} se shuru hoti hai. Estimate itemised milta hai, toh aap apna margin khud tay kar sakte hain. Launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Is maintenance included after launch?", answer: `Yes, two months of maintenance are free after each launch, covering fixes, small edits and updates. After that, care plans start at ${P.careUsd} (${P.care}) per site, which many agencies resell as their own retainer. You can also take maintenance in-house at any time, since all access sits with you or the client.` },
+    { question: "White label web development kya hota hai?", answer: `White label web development mein website hum banate hain, par client ko aapki agency ke naam se deliver hoti hai. Site par hamara naam ya link nahi hota. Static site ${P.site} se shuru hoti hai. Estimate itemised milta hai, toh aap apna margin khud tay kar sakte hain. Launch ke baad 2 mahine maintenance free hai.` },
     { question: "How is white label different from simply outsourcing overflow work?", answer: "Overflow outsourcing is about capacity: extra hands during busy periods, and the vendor may be visible to the client. White label is about invisibility and brand consistency: the client experiences one company, your agency, from sales to support. Many partnerships combine both, and our web development for agencies page covers the overflow side." },
   ],
   related: {
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a white label web development partner?",
-    note: `Send an anonymised brief or design file on WhatsApp. You will get an itemised estimate in about two working days, with static sites from ${P.siteUsd} (${P.site}), no branding of ours anywhere and five months of free care after each launch.`,
+    note: `Send an anonymised brief or design file on WhatsApp. You will get an itemised estimate in about two working days, with static sites from ${P.siteUsd} (${P.site}), no branding of ours anywhere and two months of free care after each launch.`,
   },
 };
 

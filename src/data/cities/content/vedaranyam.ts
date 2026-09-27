@@ -58,7 +58,7 @@ const vedaranyam: CityContent = {
     ai: "Tamil WhatsApp assistants that give rates, confirm loading times and hand any real negotiation straight back to you.",
     data: "Dashboards by season showing tonnage lifted, pan yields, boat landings and money still sitting with buyers.",
     app: "Android and iOS apps so lorry drivers can log salt loads or a lodge near Point Calimere can take room requests, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Upkeep costs nothing for five months after launch, then starts at ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Upkeep costs nothing for two months after launch, then starts at ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Trade here runs on long memory and short margins, and nobody in Vedaranyam wants to pay twice for the same job. So we publish our starting prices, send a written itemised quote before any invoice, answer WhatsApp on all seven days, and put the domain, hosting, source code and store accounts in your name from day one. Where a feature will not earn back its cost, we say that instead of selling it.",
@@ -179,7 +179,7 @@ const vedaranyam: CityContent = {
       heading: "Ownership and maintenance for Vedaranyam websites and apps",
       paragraphs: [
         "What we build is yours, on paper and in practice. The domain is booked on your email address, the hosting bill arrives in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account all show you as owner. At handover you get a written sheet listing every login, so no developer, us included, can hold your site over you later.",
-        "For the first five months after launch the upkeep is on us. In that window we change rates before festival season, take backups, apply security and version updates, and test now and then that the enquiry form, the UPI checkout and the WhatsApp button still do what they should. After that the choice is yours: stay with us from ₹8,000 a month, hand it to somebody in the family who can manage it, or pass the code to any other developer.",
+        "For the first two months after launch the upkeep is on us. In that window we change rates before festival season, take backups, apply security and version updates, and test now and then that the enquiry form, the UPI checkout and the WhatsApp button still do what they should. After that the choice is yours: stay with us from ₹8,000 a month, hand it to somebody in the family who can manage it, or pass the code to any other developer.",
         "Apps need a yearly look even when nothing is visibly broken, because Google and Apple keep raising the minimum versions they will accept in their stores. We watch those deadlines and ship the rebuild ahead of them, so your listing is never pulled for being out of date in the middle of a season.",
       ],
     },
@@ -271,7 +271,7 @@ const vedaranyam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Nothing is charged for upkeep in the first five months after going live. We handle rate and photo edits, backups, patches and routine checks of your forms, UPI checkout and WhatsApp links. Continuing after that is your call, starting at ₹8,000 a month. Because the code and accounts already sit in your name, moving elsewhere needs no permission from us.",
+        "Nothing is charged for upkeep in the first two months after going live. We handle rate and photo edits, backups, patches and routine checks of your forms, UPI checkout and WhatsApp links. Continuing after that is your call, starting at ₹8,000 a month. Because the code and accounts already sit in your name, moving elsewhere needs no permission from us.",
     },
     {
       question: "Do you also work in Thiruthuraipoondi, Nagapattinam and Pattukkottai?",

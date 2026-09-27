@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who build and support the portal" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees charged by us on your orders" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Sales rep ordering app", note: `A tablet or phone app for reps placing orders on a customer's behalf at site visits, synced with the same price lists. From ${P.app}.`, href: "/singapore/mobile-app-development-services/", size: "md" },
       { name: "Order capture automation", note: `AI that reads purchase orders arriving by email or WhatsApp and drafts portal orders for staff to check, from ${P.ai}.`, href: "/singapore/ai-automation-services/", size: "sm" },
       { name: "Buyer CRM and account views", note: "Account managers see each customer's orders, open quotes and overdue invoices in one screen.", href: "/singapore/custom-crm-development/", size: "sm" },
-      { name: "Support after go-live", note: `Price list imports, platform updates and integration monitoring. Five months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
+      { name: "Support after go-live", note: `Price list imports, platform updates and integration monitoring. Two months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
     ],
   },
   comparison: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "B2B ecommerce pricing for Singapore businesses",
-    note: `A trade ordering portal on Shopify or WooCommerce, with company accounts, price lists, credit terms, quick order and a standard accounting sync, starts at ${P.shop}. When the portal needs custom approval chains, complex contract pricing, ERP-driven stock or a quote engine tied to your costing, it becomes custom software from ${P.software}. A companion app for sales reps starts at ${P.app}, and AI automation that turns emailed purchase orders into draft orders starts at ${P.ai}. After five months of free maintenance, care plans begin at ${P.care}. These are USD starting prices; the quote lists each integration and feature on its own line.`,
+    note: `A trade ordering portal on Shopify or WooCommerce, with company accounts, price lists, credit terms, quick order and a standard accounting sync, starts at ${P.shop}. When the portal needs custom approval chains, complex contract pricing, ERP-driven stock or a quote engine tied to your costing, it becomes custom software from ${P.software}. A companion app for sales reps starts at ${P.app}, and AI automation that turns emailed purchase orders into draft orders starts at ${P.ai}. After two months of free maintenance, care plans begin at ${P.care}. These are USD starting prices; the quote lists each integration and feature on its own line.`,
   },
   guideLabel: "B2B ecommerce Singapore guide",
   guide: [
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Catalogue and accounts on staging", "Products, price lists, company accounts and buyer roles are imported and configured on a private staging site for your team to test."],
       ["Integrations and test orders", "Sync with accounting or ERP is built and proven with test orders that travel from cart to invoice with correct codes."],
       ["Pilot with real buyers", "Ten to twenty friendly accounts order for real while email orders remain available, and we fix what they report."],
-      ["Wave rollout and care", "Remaining accounts join in batches; five months of free maintenance follow, then optional care plans."],
+      ["Wave rollout and care", "Remaining accounts join in batches; two months of free maintenance follow, then optional care plans."],
     ],
   },
   faqHeading: "B2B ecommerce in Singapore: frequently asked questions",
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
     { question: "Will a B2B portal help our search visibility?", answer: `A public catalogue with product pages, specifications and clear category names can rank for searches from new trade buyers, while prices stay behind the login. Nobody can guarantee rankings, but a well-structured catalogue helps. Ongoing SEO for trade catalogues starts at ${P.seo} a month if you want help with it.` },
     { question: "Can sales reps place orders for their customers?", answer: `Yes. Reps can log in with permission to act on behalf of their accounts, using the same price lists and terms. For field teams, a dedicated tablet or phone app that works with patchy signal on site visits starts at ${P.app}, and syncs orders when the connection returns.` },
     { question: "How do we pay for a B2B ecommerce build?", answer: "You receive an itemised quote in USD, and invoices are issued from India. Payment is by Wise or bank wire, in milestones written into the quote before work begins. Nothing is billed until you approve the quote in writing. Ask your accountant how an overseas service invoice should be recorded in your books." },
-    { question: "What support is available after the portal goes live?", answer: `The first five months after launch include free maintenance: bug fixes, platform and extension updates, and help with price list imports. After that, care plans start at ${P.care} and cover integration monitoring, updates and small changes. New features, such as a quote engine or rep app, are quoted separately.` },
+    { question: "What support is available after the portal goes live?", answer: `The first two months after launch include free maintenance: bug fixes, platform and extension updates, and help with price list imports. After that, care plans start at ${P.care} and cover integration monitoring, updates and small changes. New features, such as a quote engine or rep app, are quoted separately.` },
     { question: "Can the portal handle GST on trade orders?", answer: "Yes. The portal applies the tax settings you configure, such as the prevailing GST rate on standard-rated supplies, and passes tax codes to your accounting system with each order. Zero-rated exports or special schemes need specific setup. Your accountant confirms the treatment; we build the portal to follow it." },
   ],
   related: {

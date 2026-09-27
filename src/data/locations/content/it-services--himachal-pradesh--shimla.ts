@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Shimla · Himachal Pradesh",
     h1: "Freelance software developers in Shimla for hotel operations, fruit trade, travel desks and offices",
     lede:
-      "BtechWaleTech gives Shimla businesses freelance software developers instead of an agency layer: three engineers working remotely from India, writing hotel operations tools, commission-agent billing for the fruit trade, travel CRMs, AI agents, apps, dashboards and cloud deployments for firms from Mall Road to Dhalli and Shoghi. Starting prices are published, and five months of maintenance come free after launch.",
+      "BtechWaleTech gives Shimla businesses freelance software developers instead of an agency layer: three engineers working remotely from India, writing hotel operations tools, commission-agent billing for the fruit trade, travel CRMs, AI agents, apps, dashboards and cloud deployments for firms from Mall Road to Dhalli and Shoghi. Starting prices are published, and two months of maintenance come free after launch.",
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Hotel and restaurant tools", "Offline-tolerant in snow season", "Android & iOS apps from ₹40,000"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that reply to guest enquiries, draft review responses, read supplier bills and summarise the day for owners who are on the floor.",
     data: "Dashboards for occupancy, restaurant covers, fruit arrivals and grower dues, pulling from your software, Tally or spreadsheets.",
     app: "Android and iOS apps from ₹40,000 for Shimla hotels, travel desks, taxi operators and fruit traders, coded once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month, with a check before each summer and snowfall season.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month, with a check before each summer and snowfall season.",
   },
   whyUsIntro:
     "Shimla owners usually hire a developer from Chandigarh who visits once, or buy software built for city hotels that ignores hill realities. BtechWaleTech is a freelance group of three engineers: you speak to the developers directly, see starting prices upfront, and keep every account in your name.",
@@ -212,7 +212,7 @@ const content: CityContent = {
       paragraphs: [
         "Shimla projects with BtechWaleTech take one to two weeks for a static website, two to four weeks for AI automation, four to eight weeks for an online store and six to twelve weeks for custom software. For hotels, the best build windows are the quieter months after the winter holidays and after the monsoon; for fruit agents, well before July.",
         "We start with a video call where you show us your registers, spreadsheets and the problems in each. You receive a written scope and itemised quote, then a live preview link you check from your phone as the build progresses. Staff training happens over screen-share, with short videos for new hires.",
-        "After launch, five months of maintenance are free. You send a screenshot on WhatsApp and we fix it. For the wider state, see our <a href='/it-services/himachal-pradesh/'>Himachal Pradesh page</a>, or <a href='/contact/'>send your requirement</a> for a quote.",
+        "After launch, two months of maintenance are free. You send a screenshot on WhatsApp and we fix it. For the wider state, see our <a href='/it-services/himachal-pradesh/'>Himachal Pradesh page</a>, or <a href='/contact/'>send your requirement</a> for a quote.",
       ],
     },
   ],
@@ -272,7 +272,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of maintenance are free once the system is live: bug fixes, small changes, security and software updates, backups, and uptime and speed checks, plus a pre-season review. After that, plans start from ₹8,000 a month, or you can pay per change when you need something done.",
+        "Two months of maintenance are free once the system is live: bug fixes, small changes, security and software updates, backups, and uptime and speed checks, plus a pre-season review. After that, plans start from ₹8,000 a month, or you can pay per change when you need something done.",
     },
     {
       question: "What can an AI agent do for a Shimla hotel?",

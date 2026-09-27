@@ -56,7 +56,7 @@ const vrindavan: CityContent = {
     ai: "WhatsApp assistants in Hindi and English that answer room, darshan timing, tour and order questions and pass real decisions to you.",
     data: "Dashboards showing occupancy by festival date, poshak orders by size and region, or tour bookings by season.",
     app: "Android and iOS apps for devotees to book stays and Braj yatras or for poshak buyers to reorder, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Vrindavan businesses see extreme peaks: Janmashtami, Holi and every weekend fill the lanes, then weekdays go quiet. We plan for that, publish starting prices, send itemised written quotes, reply on WhatsApp every day of the week and register your domain, hosting, code and store accounts in your name.",
@@ -173,10 +173,10 @@ const vrindavan: CityContent = {
     },
     {
       id: "ownership-maintenance",
-      heading: "You own everything, with five months of free maintenance",
+      heading: "You own everything, with two months of free maintenance",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and any Google Play or App Store developer accounts are registered in your name, with your email and phone. No developer can hold your website hostage, including us.",
-        "After launch you get five months of free maintenance covering bug fixes, small text and photo changes, security updates and backups. Before a big festival we can also check that pages and forms are working. After the free period, maintenance starts at ₹8,000 a month if you want us to continue. You can move the code to another developer whenever you like.",
+        "After launch you get two months of free maintenance covering bug fixes, small text and photo changes, security updates and backups. Before a big festival we can also check that pages and forms are working. After the free period, maintenance starts at ₹8,000 a month if you want us to continue. You can move the code to another developer whenever you like.",
         "We also teach you or a staff member to update room rates, products, photos and notices yourself in one screen-share session, so festival changes never wait on us.",
       ],
     },
@@ -264,7 +264,7 @@ const vrindavan: CityContent = {
     {
       question: "What happens after the website or app goes live?",
       answer:
-        "You get five months of free maintenance after launch, covering bug fixes, small changes, security updates and backups, plus a check before major festivals. After that, maintenance starts at ₹8,000 a month if you want ongoing care. We also show you how to update rates, products and notices yourself.",
+        "You get two months of free maintenance after launch, covering bug fixes, small changes, security updates and backups, plus a check before major festivals. After that, maintenance starts at ₹8,000 a month if you want ongoing care. We also show you how to update rates, products and notices yourself.",
     },
     {
       question: "Do you work with businesses in Mathura, Govardhan and nearby towns?",

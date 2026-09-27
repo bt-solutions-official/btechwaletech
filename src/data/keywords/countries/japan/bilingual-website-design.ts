@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "2", label: "Languages, each with its own indexable URLs" },
     { value: "3", label: "Freelance developers who build and support the site" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Search in two languages", note: `Keyword research in English, structure for the Japanese keywords you or your writer choose, and Search Console for both, from ${P.seo}.`, href: "/services/seo-services/", size: "md" },
       { name: "Translation workflow", note: "Export and import of strings, a review status per page and a rule that nothing goes live half-translated.", size: "sm" },
       { name: "AI draft help", note: `Draft English from Japanese notes, or the reverse, for your translator to fix, from ${P.ai}.`, size: "sm" },
-      { name: "Care after launch", note: `Five months free, then maintenance from ${P.care}.`, size: "sm" },
+      { name: "Care after launch", note: `Two months free, then maintenance from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Type and layout samples", "A staging page shows your real copy in both scripts so you can judge fonts, spacing and heading breaks before full design."],
       ["Build and copy loading", "Templates are built once, then Japanese and English content is loaded, paired and checked for overflow on phones and desktops."],
       ["Language QA and launch", "We verify hreflang, canonicals, sitemaps, forms and emails in both languages, then launch and submit both versions in Search Console."],
-      ["Handover and care", "Your editors get a short guide to adding paired pages; five months of free fixes follow, then maintenance if you want it."],
+      ["Handover and care", "Your editors get a short guide to adding paired pages; two months of free fixes follow, then maintenance if you want it."],
     ],
   },
   faqHeading: "Questions about bilingual website design",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Who owns the bilingual website after launch?", answer: "You do. The domain, hosting, CMS, analytics and Search Console properties are opened in your company's name. We work through user accounts you create, and you can remove our access whenever you like. There is nothing to transfer at the end because nothing was ever registered to us." },
     { question: "Do you handle privacy policies in both languages?", answer: "We build the privacy and terms pages, consent checkboxes and forms that collect only what you need, in both languages. The legal wording, and whether laws such as Japan's Act on the Protection of Personal Information or overseas rules apply to you, must be confirmed by your own lawyer." },
     { question: "Can a bilingual site include a shop or bookings?", answer: `Yes. A bilingual store starts at ${P.shop}, with product pages, checkout and emails in both languages. For hotels and inns, we connect booking engines that support both languages. Our cross-border ecommerce and hotel website pages for Japan explain those builds in more detail.` },
-    { question: "What happens after the site launches?", answer: `You get five months of free maintenance for fixes and small adjustments. After that, maintenance starts at ${P.care}. Search work in both languages is optional from ${P.seo}. We also give your editors a short guide on adding a page in one language and linking its translation later.` },
+    { question: "What happens after the site launches?", answer: `You get two months of free maintenance for fixes and small adjustments. After that, maintenance starts at ${P.care}. Search work in both languages is optional from ${P.seo}. We also give your editors a short guide on adding a page in one language and linking its translation later.` },
     { question: "Can foreign-owned companies in Japan use your bilingual website design service?", answer: "Yes, and many bilingual projects start that way: an English-first firm that needs Japanese pages for customers, landlords, partners and job applicants. You or your translator supply the Japanese; we build the structure, forms with furigana fields and postal lookup, and the Japanese layout." },
   ],
   related: {

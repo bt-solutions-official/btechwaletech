@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Image formats", "AVIF and WebP with fallbacks"],
     ["Title rule noted", "Architects Act, 1972, Section 37"],
     ["Quote", "Itemised, about 2 working days"],
-    ["Aftercare", "5 months free, then optional"],
+    ["Aftercare", "2 months free, then optional"],
   ],
   stats: [
     { value: "2.5s", label: "Google’s “good” LCP threshold we build towards" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Speed target", value: "LCP under 2.5 seconds on a mid-range phone" },
       { label: "Price", value: `From ${P.site}; 1–2 weeks for most studios` },
       { label: "Professional context", value: "COA registration shown; no free-design offers" },
-      { label: "After launch", value: `5 months free care, then from ${P.care}` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Drawings and PDFs", "Images only", "Upload limits and heavy viewers", "Vector plans and light PDF links"],
       ["Ownership", "Platform owns the page and the audience", "You rent the template", "Domain, hosting and code in your name"],
       ["Cost", "Free, plus your time", "Monthly subscription", `From ${P.site}, one-time build`],
-      ["Changes after launch", "You post", "You edit", "Free for 5 months, then optional care"],
+      ["Changes after launch", "You post", "You edit", "Free for 2 months, then optional care"],
     ],
     fine: "Keep posting on Instagram; the website does not replace it. The site is where a serious client goes after a post catches their eye, so it should hold the detail a feed cannot.",
   },
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A studio portfolio with ten to fifteen projects fits our static plan, which starts at ${P.site} (${P.siteUsd} for practices abroad) and takes one to two weeks. Larger practices with thirty or more projects, several typologies and a CMS for staff to add work take longer and cost more, mostly because of image and caption preparation.`,
         `Quotes for architect website design across the market vary a great deal for similar-sounding briefs. The gap usually sits in four places: how many projects the designer will lay out, whether they prepare images or expect ready files, whether copy for each project is written or just pasted, and whether anything happens after launch. Ask every designer to price those separately.`,
-        `Our quote lists the site structure, project count, image preparation, drawing clean-up, any 3D or video work, languages and integrations as individual lines. Maintenance is free for five months after launch, then optional from ${P.care} a month. Monthly SEO, if you want ongoing visibility work, starts at ${P.seo}. Domain and hosting are paid by you directly.`,
+        `Our quote lists the site structure, project count, image preparation, drawing clean-up, any 3D or video work, languages and integrations as individual lines. Maintenance is free for two months after launch, then optional from ${P.care} a month. Monthly SEO, if you want ongoing visibility work, starts at ${P.seo}. Domain and hosting are paid by you directly.`,
       ],
     },
     {
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
         { heading: "Days 4–8", text: "Remaining projects, drawings, walkthrough embeds, practice and fees pages, and the enquiry form." },
         { heading: "Days 9–12", text: "Speed tuning, schema, captions and alt text, Search Console, one consolidated review round, then launch." },
       ],
-      after: [`After launch, adding a new project during the five free months is part of maintenance, not a new job.`],
+      after: [`After launch, adding a new project during the two free months is part of maintenance, not a new job.`],
     },
     {
       id: "tech",
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is an illustrative scenario, not a client story. A five-person practice in Ahmedabad designs private homes and small offices. It wants more enquiries from homeowners with plots in the suburbs and fewer requests to “just make a plan for approval”.`,
         `The plan would feature twelve projects split into Homes and Workplaces, each built on the case study template with a cleaned-up plan, one section and ten to twelve photographs. A process page would walk a homeowner through the stages from site visit to handover. The fee explainer would describe stage-wise instalments and refer to the COA Conditions of Engagement. The enquiry form would ask whether the plot is owned, its size, the locality, the stage and the preferred start, with a note that approval-only drawing requests are not taken.`,
-        `The quote would start from the static plan at ${P.site}, with separate lines for drawing clean-up across twelve projects and for two walkthrough videos set behind click-to-load previews. The team page would list registration numbers for the architects and describe the two interior designers as designers. After launch, the five free months of maintenance would cover adding new projects as photographs arrive.`,
+        `The quote would start from the static plan at ${P.site}, with separate lines for drawing clean-up across twelve projects and for two walkthrough videos set behind click-to-load previews. The team page would list registration numbers for the architects and describe the two interior designers as designers. After launch, the two free months of maintenance would cover adding new projects as photographs arrive.`,
       ],
     },
     {
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Client drawing-sharing portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Practices sharing drawings with ongoing clients"],
         ["Enquiry sorting automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Studios with many enquiries to triage"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Project pages, explainers, Search Console"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New projects, updates, backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New projects, updates, backups"],
       ],
       hideSm: [2],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Test the template", "One real project goes onto a private staging link first, so you judge the layout with your own photographs and drawings on your phone."],
       ["Fill and tune", "Remaining projects, fee explainer, enquiry form and walkthrough previews are added, then every page is tested for speed on mobile data."],
       ["Launch in your name", "Domain, hosting and repository stay in the practice’s accounts. We connect Search Console and hand over all logins and a short editing guide."],
-      ["Add work as it is photographed", "For five months after launch, new projects and edits are included free. After that, maintenance is optional."],
+      ["Add work as it is photographed", "For two months after launch, new projects and edits are included free. After that, maintenance is optional."],
     ],
   },
   faqHeading: "Architect website design: frequently asked questions",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Should an architect put fees on the website?", answer: "Most practices explain how fees are structured rather than publishing rates. A fee explainer describes stages of work, how instalments link to them and that the Council of Architecture publishes Conditions of Engagement and a Scale of Charges. Avoid discount language or free-design offers, which conflict with the fair-competition principle in the COA Regulations." },
     { question: "How long does it take to design an architect website?", answer: "One to two weeks for a studio with a dozen projects and ready photographs, around three weeks for larger practices or when many drawings need cleaning up. The slowest part is usually gathering photographs, client permissions and project facts, so starting that collection early shortens the whole project." },
     { question: "Is Instagram enough for an architecture practice?", answer: "Instagram is good for discovery but weak for detail and search. Captions are short, drawings get lost in carousels and profiles rarely rank for local service searches. A website holds full case studies, answers process and fee questions and filters enquiries. Most practices use both, with posts linking to the relevant project page." },
-    { question: "Can my team add new projects to the website themselves?", answer: "Yes, if we build with a headless CMS or WordPress. Your team fills in project fields and uploads photographs, and the image pipeline resizes them automatically. With a static build, you send new projects to us and we add them; that is included in the five months of free maintenance after launch." },
+    { question: "Can my team add new projects to the website themselves?", answer: "Yes, if we build with a headless CMS or WordPress. Your team fills in project fields and uploads photographs, and the image pipeline resizes them automatically. With a static build, you send new projects to us and we add them; that is included in the two months of free maintenance after launch." },
     { question: "Does an architect website need SEO?", answer: `It needs the basics built in: descriptive project titles, captions, alt text, schema markup, a sitemap and Google Search Console. Ongoing SEO, such as explainer pages and project page improvements, is optional and starts at ${P.seo} a month. Nobody can guarantee rankings; clear, specific pages simply give Google more to match.` },
     { question: "How can an architecture firm appear in AI search answers?", answer: "AI tools quote pages that state facts clearly. Project pages with plain descriptions of type, city, area and approach, process pages that answer common questions in the first sentence, consistent practice details across your site and Google Business Profile, and schema markup all help. There is no way to guarantee inclusion, but clarity improves the odds." },
     { question: "What should an architect’s enquiry form ask?", answer: "Project type, city or locality, plot or floor area, whether the land is owned, the current stage and expected start date, with an optional budget band. Mostly dropdowns, five or six fields. These answers let you judge fit before a call, and submissions can arrive as a WhatsApp alert with everything in one message." },
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for an architect website design that shows your best work properly?",
-    note: `Send us the projects you want to lead with on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain and code in your name and five months of free care after launch.`,
+    note: `Send us the projects you want to lead with on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain and code in your name and two months of free care after launch.`,
   },
 };
 

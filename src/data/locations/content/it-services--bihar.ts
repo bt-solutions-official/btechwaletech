@@ -36,7 +36,7 @@ const content: CityContent = {
     eyebrow: "Bihar · East India",
     h1: "Freelance IT services in Bihar: software, apps, AI automation and SEO from Patna to Purnia",
     lede:
-      "BtechWaleTech provides freelance IT services in Bihar through three independent engineers working remotely from India. For coaching institutes, hospitals, makhana and litchi businesses, silk weavers, pilgrimage hotels and traders across the state, we build custom software, Android and iOS apps, AI and WhatsApp automation, dashboards, online stores, websites and SEO. Prices are published and five months of maintenance are free.",
+      "BtechWaleTech provides freelance IT services in Bihar through three independent engineers working remotely from India. For coaching institutes, hospitals, makhana and litchi businesses, silk weavers, pilgrimage hotels and traders across the state, we build custom software, Android and iOS apps, AI and WhatsApp automation, dashboards, online stores, websites and SEO. Prices are published and two months of maintenance are free.",
     pills: ["Coaching and test apps", "Android & iOS apps from ₹40,000", "Custom software from ₹60,000", "Hindi-first websites from ₹10,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that reply in Hindi and Hinglish on WhatsApp, answer routine questions, collect details and hand real conversations to your staff.",
     data: "Dashboards for businesses with branches across Bihar districts, showing admissions, collections, stock or sales in one live view.",
     app: "Android and iOS apps for Bihar coaching institutes, hospitals, agri businesses and shops, built in Flutter or React Native and published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month covering updates, fixes, backups and monitoring.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month covering updates, fixes, backups and monitoring.",
   },
   whyUsIntro:
     "Bihar businesses often hear two kinds of offers: very cheap template sites with nothing behind them, or large quotes from firms in Delhi or Kolkata. We are a freelance group of three engineers in between, publishing prices, answering on WhatsApp seven days a week in Hindi or English, and handing over every login.",
@@ -163,7 +163,7 @@ const content: CityContent = {
         "Android and iOS app development in Bihar starts at ₹40,000 with BtechWaleTech and takes six to ten weeks. Each app is built once in Flutter or React Native and published on Google Play and the Apple App Store under your own accounts, with login, forms, push notifications and an admin panel connected through an API.",
         "The apps most in demand across Bihar follow its economy. Coaching institutes want student apps with lectures, notes, test series and fee reminders. Hospitals and diagnostic centres want patient apps for bookings, tokens and reports. Agri businesses want collection apps for makhana, litchi or grain purchases that work offline in villages. Distributors want B2B reorder apps for retailers in district towns. Schools want parent apps for notices, homework and fees. Hotels in Bodh Gaya want booking apps for tour partners and returning guests.",
         "Most users in Bihar are on budget Android phones, so we keep downloads small, screens light and text in Hindi or bilingual. Publishing on iOS as well covers doctors, professionals, international pilgrims and students who use iPhones, without doubling the cost.",
-        "An app earns its cost when people use it every week. For one-time visitors, a fast website found on Google is the better buy, and we will say so. You own the code, both store listings and the admin panel, with five months of free maintenance after launch.",
+        "An app earns its cost when people use it every week. For one-time visitors, a fast website found on Google is the better buy, and we will say so. You own the code, both store listings and the admin panel, with two months of free maintenance after launch.",
       ],
       list: [
         "Coaching app: lectures, notes, test series, fees",
@@ -186,7 +186,7 @@ const content: CityContent = {
       id: "hosting-maintenance-bihar",
       heading: "Cloud hosting, backups and maintenance for Bihar projects",
       paragraphs: [
-        "Every Bihar project includes cloud hosting in your name, SSL, backups, uptime monitoring and scripted deployment, followed by five months of free maintenance. Websites run on fast static hosts; applications and apps run on AWS or similar managed platforms with automatic database backups.",
+        "Every Bihar project includes cloud hosting in your name, SSL, backups, uptime monitoring and scripted deployment, followed by two months of free maintenance. Websites run on fast static hosts; applications and apps run on AWS or similar managed platforms with automatic database backups.",
         "Coaching institutes in particular face heavy traffic spikes when results or test series go live. We plan hosting for those peaks, use caching and video hosting that streams well on mobile data, and monitor performance during busy periods. For all clients, backups are tested so that a restore actually works when needed.",
         "After the free months, maintenance continues from ₹8,000 a month or on a pay-per-change basis. Support is remote and covers the software and hosting we manage; hardware and office networks need a local technician.",
       ],
@@ -253,7 +253,7 @@ const content: CityContent = {
     {
       question: "How much do IT services cost in Bihar?",
       answer:
-        "From ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months. Quotes are itemised.",
+        "From ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months. Quotes are itemised.",
     },
     {
       question: "How long do projects take?",
@@ -278,7 +278,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "Five months of bug fixes, minor content changes, security updates, backups and uptime and speed monitoring after launch. New features are quoted separately. After that, maintenance continues from ₹8,000 a month, or you can pay per change.",
+        "Two months of bug fixes, minor content changes, security updates, backups and uptime and speed monitoring after launch. New features are quoted separately. After that, maintenance continues from ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Who owns the code, domain and app?",

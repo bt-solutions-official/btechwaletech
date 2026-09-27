@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Hand-coded websites for US businesses · built remotely from India",
     h1: "Custom website development company or a three-developer team? What custom code buys a US business",
     lede: `If you are searching for a custom website development company, you probably already suspect that a theme will not carry the site you need. BtechWaleTech is three freelance developers in India who write US business sites from scratch in Astro or Next.js, connect them to the tools you already pay for, such as your CRM, booking system or <a href='/usa/custom-software-development/'>QuickBooks</a>, and assign the code to you in writing. Custom-coded sites start at ${P.site}; builds with logins and integrations start at ${P.software}.`,
-    pills: ["Astro and Next.js builds", "Headless CMS your staff can edit", "CRM and booking integrations", "QuickBooks connections", "IP assigned to you in writing", "Quoted in USD", "5 months of free fixes"],
+    pills: ["Astro and Next.js builds", "Headless CMS your staff can edit", "CRM and booking integrations", "QuickBooks connections", "IP assigned to you in writing", "Quoted in USD", "2 months of free fixes"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · calls in US Eastern mornings",
   },
   facts: [
@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who write, review and support your code" },
     { value: "2", label: "Working days to an itemised USD estimate" },
-    { value: "5", label: "Months of free fixes after your site goes live" },
+    { value: "2", label: "Months of free fixes after your site goes live" },
     { value: "0", label: "Page-builder licences your site depends on" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Large search-led site (299+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Portal, logins or two-way sync", value: `From ${P.software}, 6–12 weeks` },
       { label: "Ownership", value: "Repository, hosting and CMS accounts in your name; IP assigned in the contract" },
-      { label: "After launch", value: `5 months of free fixes, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free fixes, then care from ${P.care} a month` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["IP in the contract", "Theme licence terms apply to the theme", "Depends on the contract you sign", "Assignment of custom code to your business, in writing"],
       ["Meetings", "Not needed", "In person or video", "Video calls in US Eastern mornings; no site visits"],
       ["Team size", "You or a contractor", "Can staff large teams", "Three developers; not a fit for twenty-person programs"],
-      ["After launch", "Plugin updates are on you", "Retainer or hourly", `5 free months, then from ${P.care} a month`],
+      ["After launch", "Plugin updates are on you", "Retainer or hourly", `2 free months, then from ${P.care} a month`],
     ],
     fine: "If your project needs a dozen engineers working in parallel, formal vendor security questionnaires on day one or someone in your office, a larger US shop is the better fit.",
   },
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
       heading: "Maintenance after a custom website launches",
       paragraphs: [
         `A custom site needs less routine maintenance than a plugin-heavy theme, but not zero. Framework and library updates, API changes at your CRM or booking vendor, and content additions all need attention over time.`,
-        `For five months after launch, fixes and small changes are included. After that, you choose: a care plan from ${P.care} a month, paid changes as needed, or handing the repository to your own developer with our documentation. The details of a care plan are in <a href='/usa/website-maintenance-services/'>website maintenance services</a>.`,
+        `For two months after launch, fixes and small changes are included. After that, you choose: a care plan from ${P.care} a month, paid changes as needed, or handing the repository to your own developer with our documentation. The details of a care plan are in <a href='/usa/website-maintenance-services/'>website maintenance services</a>.`,
         `We also leave a short runbook in the repository: how to deploy, how to roll back, where secrets are stored, which vendor accounts exist and when each integration last changed. That document is what makes the code genuinely yours, because anyone competent can pick it up.`,
       ],
     },
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
       ["Accounts and repository in your name", "We set up the repository, hosting and CMS under your business, invite ourselves as users and share a staging link that updates as we work."],
       ["Two key templates, reviewed on your phone", "Home and one service page are designed and coded first. Once you approve their look and behaviour, the rest of the site follows the same pattern."],
       ["Integrations tested in a sandbox", "CRM, booking and QuickBooks connections are built against test accounts, with logs and retries, then switched to live credentials only at launch."],
-      ["Launch, watch and hand over", "We launch on a quiet US morning, monitor forms and speed, then hand over the runbook. Five months of free fixes start that day."],
+      ["Launch, watch and hand over", "We launch on a quiet US morning, monitor forms and speed, then hand over the runbook. Two months of free fixes start that day."],
     ],
   },
   faqHeading: "Custom website development: questions US buyers ask",
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
     { question: "What time are calls with a team in India?", answer: "Our evening overlaps the US Eastern morning, so calls usually fall between about 8 and 11 a.m. ET. Central and Mountain clients join a little earlier in their day, and Pacific clients can take an early-morning call. Between calls, we work through WhatsApp and email, and you can check progress on the staging link whenever you like." },
     { question: "How do I pay a custom website development team overseas?", answer: "Estimates and invoices are in USD, paid by bank wire, Wise or PayPal on the milestone schedule written into the estimate. Nothing is billed before you approve the estimate in writing. Invoices come from India, and your own accountant can advise on how to record payments to an overseas contractor." },
     { question: "Do you sign an NDA?", answer: "Confidentiality is part of the contract, and we are happy to review your own NDA as well. The specific terms are agreed in your written estimate and contract rather than set by a standard policy. See our terms page for the general basis on which we work, and ask your attorney to check anything you are unsure about." },
-    { question: "What happens after my custom website launches?", answer: `Fixes and small changes are included for five months after launch. After that you can take a care plan from ${P.care} a month, pay for changes when you need them, or hand the repository to another developer using the runbook we leave. Framework updates and vendor API changes are the main things a custom site needs over time.` },
+    { question: "What happens after my custom website launches?", answer: `Fixes and small changes are included for two months after launch. After that you can take a care plan from ${P.care} a month, pay for changes when you need them, or hand the repository to another developer using the runbook we leave. Framework updates and vendor API changes are the main things a custom site needs over time.` },
     { question: "Can you rebuild my existing theme site as a custom site without losing traffic?", answer: "Yes. We inventory your current URLs, keep the ones that rank and redirect the rest with permanent 301 redirects, carry over titles and content that work, and watch Search Console for weeks after launch. A rebuild is also a redesign, so the redesign page explains the ranking-safe process in more depth." },
     { question: "Is a custom website accessible by default?", answer: "Not automatically, but it is easier to make accessible because every component is written with keyboard focus, labels, contrast and screen-reader text in mind. We target WCAG 2.2 AA and test with a keyboard, a screen reader and automated tools before launch. Whether a particular accessibility law applies to your business is a question for your attorney." },
     { question: "What kinds of projects are too big for a three-developer team?", answer: "Programs needing a dozen or more engineers in parallel, round-the-clock on-call staff, on-site work or formal enterprise procurement with long vendor audits are better suited to a larger shop. We are a good fit for business sites, search-led sites, portals and integrations where three experienced people can own the whole build." },

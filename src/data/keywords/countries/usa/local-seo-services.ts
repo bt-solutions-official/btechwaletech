@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers handling profiles, pages and tracking" },
     { value: "2", label: "Working days to a map-pack audit and plan" },
-    { value: "5", label: "Months of free site maintenance after any rebuild" },
+    { value: "2", label: "Months of free site maintenance after any rebuild" },
     { value: "0", label: "Fake reviews, keyword-stuffed names or doorway pages" },
   ],
   answer: {

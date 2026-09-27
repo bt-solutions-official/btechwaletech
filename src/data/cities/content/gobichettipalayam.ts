@@ -56,7 +56,7 @@ const gobichettipalayam: CityContent = {
     ai: "Tamil WhatsApp assistants that answer rate, stock and appointment questions and hand genuine decisions back to the owner.",
     data: "Dashboards of daily arrivals, rates paid, dues by buyer and mill output by count, updated from sheets your staff already keep.",
     app: "Android and iOS apps for field buyers booking plantain loads or parents following school notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, fixes and store compliance.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, fixes and store compliance.",
   },
   whyUsIntro:
     "Gobi business families tend to decide slowly and stay loyal once trust is earned. We make that easier by publishing starting prices, giving a written itemised quote, replying on WhatsApp all seven days, and registering the domain, hosting, code and store accounts in your name. If something will not earn back its cost, we tell you plainly.",
@@ -178,7 +178,7 @@ const gobichettipalayam: CityContent = {
       heading: "Ownership and maintenance for Gobichettipalayam websites and apps",
       paragraphs: [
         "A familiar problem in towns like Gobi is the website that vanishes because the person who built it registered the domain in his own name and stopped answering calls. We avoid that by registering the domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts in your name from day one, and handing over every login in writing.",
-        "Maintenance is free for five months after launch. It covers content and rate updates, backups, security patches, plugin and framework updates, and routine checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer whenever you like.",
+        "Maintenance is free for two months after launch. It covers content and rate updates, backups, security patches, plugin and framework updates, and routine checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer whenever you like.",
         "Apps need yearly attention because Google and Apple keep changing their rules for target versions and privacy disclosures. We track those changes and update your app in time so it is not hidden or removed from the stores.",
         "At handover you also get a short written note on how the site is set up, so any future developer can pick it up without guesswork.",
       ],
@@ -276,7 +276,7 @@ const gobichettipalayam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer at any time without penalty.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer at any time without penalty.",
     },
     {
       question: "Do you work in Nambiyur, Kavindapadi and Sathyamangalam too?",

@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Typical build", "1–2 weeks for up to 100 pages"],
     ["Built to win", "Event bookings, tastings and meal contracts"],
     ["Quote", "Itemised, about 2 working days"],
-    ["Free care", "5 months after launch"],
+    ["Free care", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building and supporting your site" },
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
       heading: "How much does catering website design cost in India?",
       paragraphs: [
         `With BtechWaleTech, catering website design starts at ${P.site} (${P.siteUsd}) for up to 100 pages and usually takes 1–2 weeks. That includes packages, menus, a menu builder with per-plate ranges, tasting booking, corporate and bulk enquiry forms, event pages and a hygiene page.`,
-        `Online ordering with payment for party boxes and trays is an ecommerce build from ${P.shop}, over 4–8 weeks. Caterers targeting many cities or localities can move to the SEO plan from ${P.seoSite}. Kitchen and order management with recipe costing and corporate meal counts starts at ${P.software}, and an AI assistant that answers menu questions on WhatsApp starts at ${P.ai}. Maintenance after the five free months starts at ${P.care}.`,
+        `Online ordering with payment for party boxes and trays is an ecommerce build from ${P.shop}, over 4–8 weeks. Caterers targeting many cities or localities can move to the SEO plan from ${P.seoSite}. Kitchen and order management with recipe costing and corporate meal counts starts at ${P.software}, and an AI assistant that answers menu questions on WhatsApp starts at ${P.ai}. Maintenance after the two free months starts at ${P.care}.`,
         `Other quotes will vary widely. The real cost drivers are the number of dishes and cuisines to load, how complex the menu-builder rules are, whether payments are involved, languages, and food photo editing. Ask each developer to price those as separate lines.`,
       ],
       after: [
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `One to two weeks for a standard caterer site, four to eight weeks with online ordering and payments. Loading your dish list and rates is usually the slowest step, so start a clean spreadsheet of dishes, courses and rate bands early.`,
         `First, the page plan and itemised quote in about two working days. Then a staging link with the home page, one package page and a working menu builder with a sample of your dishes, so you can test the estimate against how you actually price. After your feedback, the remaining packages, corporate and bulk sections, tasting booking and hygiene page are added, and every form is connected to WhatsApp.`,
-        `Before launch we run the menu builder on budget Android phones, check estimates against a few real past events you share, and verify Search Console. Five months of free maintenance follow for menu updates and fixes.`,
+        `Before launch we run the menu builder on budget Android phones, check estimates against a few real past events you share, and verify Search Console. Two months of free maintenance follow for menu updates and fixes.`,
       ],
     },
     {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything belongs to your business: domain, hosting, code, dish and rate sheets, lead records and any merchant account. We work in your accounts as invited users.`,
         `For caterers, the customer list and the dish-rate sheet are years of knowledge. The rate sheet in particular encodes how you price, and it should never sit only in a developer’s system. With your own accounts, you can change developers, hire a marketing person or connect kitchen software whenever you like.`,
-        `At handover you get every login, the code, the dish and rate sheets and a short guide to updating menus, packages and tasting slots. Five months of free maintenance follow, then optional care from ${P.care}.`,
+        `At handover you get every login, the code, the dish and rate sheets and a short guide to updating menus, packages and tasting slots. Two months of free maintenance follow, then optional care from ${P.care}.`,
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Test the menu builder on staging", "A private link shows the home page, a package page and a working builder with sample dishes, so you can compare estimates with your real pricing."],
       ["Add paths for events, offices and bulk orders", "We complete packages, tastings, the corporate proposal form and bulk ordering, and connect every form to WhatsApp and your sheet."],
       ["Go live in your accounts", "Domain, hosting, analytics and Search Console sit under your business email. You receive every login, the code and the rate sheets."],
-      ["Five months of free updates", `Menu changes, new photos and fixes are free for five months after launch. Care then starts at ${P.care}, if you want it.`],
+      ["Two months of free updates", `Menu changes, new photos and fixes are free for two months after launch. Care then starts at ${P.care}, if you want it.`],
     ],
   },
   faqHeading: "Catering website design: questions caterers ask",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
     { question: "How much does catering website design cost?", answer: `BtechWaleTech builds catering websites from ${P.site} for up to 100 pages, usually in 1–2 weeks, including a menu builder with per-plate ranges, event packages, tasting booking, corporate and bulk enquiry forms and an FSSAI and hygiene page. Online ordering with payment starts at ${P.shop}. Your itemised quote depends on dishes, builder rules and languages.` },
     { question: "What should a catering business website include?", answer: "Separate paths for events, corporate meals and bulk orders; event packages with sample menus; a menu builder that estimates per-plate cost; tasting booking; a corporate proposal form; a quick bulk-order form; a hygiene page with your FSSAI number; your own food and setup photos; and WhatsApp contact on every page." },
     { question: "Can customers see per-plate prices on my catering website?", answer: "Yes, as an indicative range. The menu builder multiplies their dish choices, guest count and service style against rate bands you set, and shows a per-plate range with its assumptions. It then sends the menu to you. The final price follows your call or tasting, which the page states clearly." },
-    { question: "How do I update dish prices when ingredient costs change?", answer: "Rates live in a simple sheet you control. Change a dish or course rate there and the menu builder uses the new figure on its next load, with no developer needed. We show your team how during handover, and in the first five months we can make changes for you on request." },
+    { question: "How do I update dish prices when ingredient costs change?", answer: "Rates live in a simple sheet you control. Change a dish or course rate there and the menu builder uses the new figure on its next load, with no developer needed. We show your team how during handover, and in the first two months we can make changes for you on request." },
     { question: "Do caterers need to show an FSSAI number on their website?", answer: "FSSAI requires the 14-digit licence or registration number on receipts, invoices and bills, and its FAQs confirm that wedding and party caterers need a licence or registration. Showing the number in the site footer and on a hygiene page builds trust. Your food safety consultant should confirm which licence type applies to you." },
     { question: "Which FSSAI licence does a caterer need?", answer: "It depends on turnover. Under an FSSAI order of 13 March 2026, effective 1 April 2026, registration covers turnover up to 1.5 crore rupees, a state licence covers above that up to 50 crore rupees, and a central licence applies above 50 crore rupees. Other criteria can apply, so confirm with your consultant or the FoSCoS portal." },
     { question: "Can offices request daily meal contracts through the website?", answer: "Yes. A corporate section explains meal formats, weekly rotation, diet mixes and your delivery or on-site model, and a form collects headcount, meals per day, diet mix, location and start date. It leads to a proposal from you rather than a price on screen, since contracts depend on volume and terms." },
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
     { question: "Should I use stock food photos on my catering site?", answer: "Avoid presenting stock images as your cooking. Customers expect to be served what they saw, and mismatches cause complaints. Use your own dishes and buffet setups, photographed in good light; phone photos are fine if steady and well lit. We crop, colour-correct and compress what you send." },
     { question: "Can the website support Jain, pure-veg and regional menus?", answer: "Yes. The menu builder can offer separate tracks such as Jain, pure-veg, non-veg or regional cuisines, each with its own dishes and rates. Cuisine pages explain each track with photos. You decide which combinations are allowed, for example keeping a Jain track entirely separate." },
     { question: "Who owns the website and my menu data?", answer: "You own everything: domain, hosting, code, the dish and rate sheets, enquiry records and any merchant account, all registered to your business from the start. We work as invited users and hand over every login at launch, so you can switch developers or add software without losing anything." },
-    { question: "What maintenance is included after launch?", answer: `Maintenance is free for five months after launch, covering menu and package updates, new photos, text edits and fixes. After that it is optional and starts at ${P.care}. Rates and dishes in the sheet can always be updated by your own team.` },
+    { question: "What maintenance is included after launch?", answer: `Maintenance is free for two months after launch, covering menu and package updates, new photos, text edits and fixes. After that it is optional and starts at ${P.care}. Rates and dishes in the sheet can always be updated by your own team.` },
     { question: "Should I hire a freelancer or an agency for my catering website?", answer: "Choose by scope, communication and ownership. A small freelance team like ours works well for caterers who want to speak directly with the people building the site, get an itemised quote and keep every account in their name. A larger team may suit a national food chain needing on-site workshops, which we do not offer." },
     { question: "How do I pay for the website project?", answer: "You receive an itemised quote in about two working days and pay nothing before approving it in writing. Clients in India pay by UPI or bank transfer in stages linked to visible work; clients abroad pay in USD by Wise, bank wire or PayPal. The stages are written in your quote." },
     { question: "Can an AI assistant answer menu questions for my catering business?", answer: `Yes. An assistant on WhatsApp or your site can answer questions about packages, dishes, minimum orders and service areas from your approved content, collect event details and pass the enquiry to your team. It should never confirm prices or dates on its own. AI automation starts at ${P.ai}.` },
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to take event and office orders online? Send us your menu",
-    note: `Share your menus, packages and FSSAI number on WhatsApp. You will get a page plan and itemised quote in about two working days, caterer sites from ${P.site}, all accounts in your name and five months of free maintenance.`,
+    note: `Share your menus, packages and FSSAI number on WhatsApp. You will get a page plan and itemised quote in about two working days, caterer sites from ${P.site}, all accounts in your name and two months of free maintenance.`,
   },
 };
 

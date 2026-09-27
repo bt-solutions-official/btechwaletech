@@ -56,7 +56,7 @@ const koratla: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer rates, stock and timings, and help Gulf-based family members book or pay for services back home.",
     data: "Season dashboards of lots bought, loads dispatched to Nagpur or Delhi buyers, commission earned and payments still pending.",
     app: "Android and iOS apps for traders to record farm purchases or for clinics and schools to reach families, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Koratla families are used to dealing with people far away, often relatives working in the Gulf, and they judge by what is put in writing. We publish starting prices, send itemised quotes, reply on WhatsApp every day and register your domain, hosting, code and store accounts to you. When a feature is not worth the money, we say so.",
@@ -170,7 +170,7 @@ const koratla: CityContent = {
       heading: "Ownership and maintenance for Koratla websites and apps",
       paragraphs: [
         "Many small-town business owners have lost a website because the person who built it registered the domain to himself and later stopped answering. We register your domain, hosting, source code, Google Business Profile and any Play Store and App Store accounts in your name, and hand over all logins in writing.",
-        "Maintenance is free for five months after launch. That covers content and rate changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. Afterwards, maintenance starts at ₹8,000 a month if you want us to continue, and you may switch to another developer at any time.",
+        "Maintenance is free for two months after launch. That covers content and rate changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. Afterwards, maintenance starts at ₹8,000 a month if you want us to continue, and you may switch to another developer at any time.",
         "Apps need updates every year as Google and Apple revise their rules. We track those changes and update your app on time, so it is not removed from either store.",
       ],
     },
@@ -267,7 +267,7 @@ const koratla: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch we look after the site at no charge: backups, updates, security fixes and regular tests of forms, payments and WhatsApp buttons. If you want us to keep going after that, plans begin at ₹8,000 a month. You are never locked in; the code is yours to hand to anyone.",
+        "For two months after launch we look after the site at no charge: backups, updates, security fixes and regular tests of forms, payments and WhatsApp buttons. If you want us to keep going after that, plans begin at ₹8,000 a month. You are never locked in; the code is yours to hand to anyone.",
     },
     {
       question: "Do you work in Metpalli, Jagtial and Armoor too?",

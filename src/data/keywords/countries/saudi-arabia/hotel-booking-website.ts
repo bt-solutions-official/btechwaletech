@@ -41,13 +41,13 @@ const content: FreelanceContent = {
     ["Booking route", "Connect your engine, or build one"],
     ["Languages", "Arabic RTL and English, you approve the Arabic"],
     ["Calendars", "Hijri (Umm al-Qura) and Gregorian"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your hotel project" },
     { value: "0", label: "Commission we take on your bookings" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does hotel booking website development in Saudi Arabia involve, and what does it cost?",
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, hotel booking website development in Saudi Arabia starts from ${P.site} for a bilingual site of up to 100 pages with your engine connected, from ${P.seoSite} for a larger search-focused site, and from ${P.software} for a custom booking engine. Every figure is a starting price; the itemised quote follows your scope.`,
         `What moves the number is rarely the design. It is the integration: how many systems we connect, whether they offer a proper API, how many room types and rate plans you sell, and whether you need group, package or long-stay logic. Content is the second driver. A hotel with approved Arabic and English copy and professional photos is a two-week job; a hotel that still needs its room descriptions written and photos shot will wait on that, not on us.`,
-        `Running costs belong to you and are paid directly to each provider: hosting, the booking engine subscription, channel manager fees, payment processing and any WhatsApp message charges. After five free months of maintenance, ongoing care starts from ${P.care}. Quotes from other developers and agencies vary widely, mostly because some bundle an engine subscription into their price and some do not, so compare like with like. Our <a href='/pricing/'>pricing page</a> lists every plan.`,
+        `Running costs belong to you and are paid directly to each provider: hosting, the booking engine subscription, channel manager fees, payment processing and any WhatsApp message charges. After two free months of maintenance, ongoing care starts from ${P.care}. Quotes from other developers and agencies vary widely, mostly because some bundle an engine subscription into their price and some do not, so compare like with like. Our <a href='/pricing/'>pricing page</a> lists every plan.`,
       ],
     },
     {
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
       ["Arabic-first design on staging", "Mobile designs for home, room, rates and checkout pages in Arabic and English, shared on a private link your front office and owners can review."],
       ["Engine and calendar connection", "Rooms and rates loaded, booking engine connected, Hijri and Gregorian picker wired, and channel sync checked in your vendor's sandbox where one exists."],
       ["End-to-end test bookings", "Test reservations made, changed and cancelled in both languages on phones and laptops, with taxes, deposits and confirmation messages verified against your policy."],
-      ["Launch and handover", "Domain switched, Search Console and analytics connected, admin access and documentation delivered, and 5 months of free maintenance begin."],
+      ["Launch and handover", "Domain switched, Search Console and analytics connected, admin access and documentation delivered, and 2 months of free maintenance begin."],
     ],
   },
   faqHeading: "Hotel booking website development in Saudi Arabia: questions hoteliers ask",
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
     { question: "Will our hotel rank first on Google for our city?", answer: "No honest developer can guarantee that. What helps is a strong Google Business Profile, consistent details across OTAs, hotel structured data, fast pages, a page per room type and useful guide pages. If your engine or channel manager is a Google connectivity partner, your direct rate can also appear in Google's free hotel booking links." },
     { question: "Can a hotel booking website get us cited by AI assistants?", answer: "It can make you easier to cite. AI assistants quote clear, consistent facts: check-in time, parking, family rooms, distance to landmarks, cancellation rules. We write those as short answer blocks on the right pages and keep your details identical across the web. We cannot control what any assistant chooses to recommend." },
     { question: "Who owns the website, domain and guest data?", answer: "You do. The domain, hosting, website code and all provider accounts are set up in your hotel's name, and guest records live in your own booking engine and PMS. At handover you receive admin access, documentation and a walkthrough video, so another developer could take over without asking us for anything." },
-    { question: "What happens after launch?", answer: `You get five months of free maintenance covering fixes, small updates and engine or plugin updates. After that, care plans start from ${P.care}, covering seasonal banners, new room types, security updates and checks after engine changes. Anything larger is quoted separately and approved in writing before work begins.` },
+    { question: "What happens after launch?", answer: `You get two months of free maintenance covering fixes, small updates and engine or plugin updates. After that, care plans start from ${P.care}, covering seasonal banners, new room types, security updates and checks after engine changes. Anything larger is quoted separately and approved in writing before work begins.` },
     { question: "How do we pay a remote team in India from Saudi Arabia?", answer: "Quotes and invoices are in USD, and you can pay by Wise, bank wire or PayPal. Invoices come from India. Nothing is billed before you approve the itemised quote in writing, and milestone terms are set out in that quote. Your accountant can advise how to record the payment on your side." },
     { question: "Is working with developers in India practical for a Saudi hotel?", answer: "Yes. India is only 2.5 hours ahead, so most of your working day overlaps with ours, and we reply on WhatsApp seven days a week. Calls happen on video, designs are reviewed on staging links, and there are no site visits, so photography and on-property checks stay with your team." },
     { question: "How is guest data protected on the booking site?", answer: "Forms collect only what the booking needs, data is encrypted in transit, admin access is limited by role and exports are logged. ID documents stay at the front desk or in your PMS rather than a web form. Saudi Arabia's PDPL applies to your processing, and your own lawyer confirms compliance; we build the technical side." },

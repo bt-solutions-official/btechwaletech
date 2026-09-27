@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "2", label: "Working days to receive an itemised quote" },
     { value: "0", label: "Work billed before your written approval" },
     { value: "3", label: "Developers who know your project" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Fixed price vs time and material: which is better for the buyer?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "AI automation", note: `Scope depends on how clean your data and processes are, so a short paid discovery step often comes first. From ${P.ai}.`, href: "/ai-automation-freelancer/", size: "md" },
       { name: "Rescue of a stalled project", note: "Unknown code quality makes a fixed total risky for both sides; an audit first, then a quote for agreed fixes, is safer.", href: "/developer-left-project-midway/", size: "sm" },
       { name: "Monthly SEO", note: `Ongoing work billed monthly with a clear list of tasks, from ${P.seo}; rankings themselves cannot be contracted.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Maintenance after launch", note: `Five months free after launch, then a monthly plan from ${P.care}.`, href: "/mobile-app-maintenance-services/", size: "sm" },
+      { name: "Maintenance after launch", note: `Two months free after launch, then a monthly plan from ${P.care}.`, href: "/mobile-app-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "In about two working days you get each item with its price, the proposed model, milestones and how changes will be handled."],
       ["Approve in writing", "Work starts only after your written approval. Nothing is billed before that, and the approved scope becomes the reference for every later decision."],
       ["Build with visible progress", "You see preview links or test builds at each milestone. New ideas are logged, priced and approved separately before anyone works on them."],
-      ["Accept, launch and hand over", "You check each milestone against the agreed criteria. At launch, code, accounts and access are confirmed in your name, followed by five months of free maintenance."],
+      ["Accept, launch and hand over", "You check each milestone against the agreed criteria. At launch, code, accounts and access are confirmed in your name, followed by two months of free maintenance."],
     ],
   },
   faqHeading: "Fixed price vs time and material: questions buyers ask",

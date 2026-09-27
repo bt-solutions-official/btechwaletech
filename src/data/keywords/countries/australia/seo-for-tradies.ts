@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario, not a client story. Imagine two tradies in Ipswich doing fencing, retaining walls and landscaping, getting most work from a lead platform and word of mouth, with an old one-page website and eleven Google reviews.`,
         `Month one: the audit finds the Google profile set to a home address with a radius-style description, a vague primary category and no service areas. We fix the categories, hide the address, set service areas for the suburbs they want (Springfield, Redbank Plains, Brassall, Yamanto and others), and start the review link in their invoice texts. The one-page site is rebuilt as a trade site from ${P.site} with pages for fencing, retaining walls and landscaping, plus five suburb pages built from their recent jobs.`,
-        `Months two to six: monthly SEO from ${P.seo} adds two or three pages a month from their voice notes, keeps reviews flowing and fixes technical issues. They add a “source” field to their job spreadsheet. By month six they compare cost per booked job from the platform with cost per booked job from search, and decide how much platform spend to keep for quiet periods. The decision is based on their own numbers.`,
+        `Months two to six: monthly SEO from ${P.seo} adds two or three pages a month from their voice notes, keeps reviews flowing and fixes technical issues. They add a “source” field to their job spreadsheet. By month three they compare cost per booked job from the platform with cost per booked job from search, and decide how much platform spend to keep for quiet periods. The decision is based on their own numbers.`,
       ],
     },
     {

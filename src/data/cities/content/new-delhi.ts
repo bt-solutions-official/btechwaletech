@@ -52,7 +52,7 @@ const newDelhi: CityContent = {
     ai: "Assistants that answer routine enquiries in English and Hindi, draft replies for staff approval and route visa, booking or donation questions to the right desk.",
     data: "Dashboards that turn programme data, survey results or hotel bookings into clear charts a board or funder can read in minutes.",
     app: "Android and iOS apps for field teams, event attendees and members, published on Google Play and the App Store with builds starting at ₹40,000.",
-    maintenance: "Five free months of updates, security patches and backups after launch, then care from ₹8,000 a month.",
+    maintenance: "Two free months of updates, security patches and backups after launch, then care from ₹8,000 a month.",
   },
   whyUsIntro:
     "New Delhi has no shortage of agencies, many of them in the same buildings as their clients. What is scarce is a team that states prices upfront, writes plainly, and hands over every account. We do all three, reply on WhatsApp every day, and do not bill a rupee before written approval.",
@@ -74,7 +74,7 @@ const newDelhi: CityContent = {
       paragraphs: [
         "Agency quotes in central New Delhi can run into several lakhs, partly because rents around Connaught Place are among the highest anywhere. Our prices do not carry that load because we have no office to pay for. The work is the same careful work; the overhead simply is not there.",
         "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site suitable for a consultancy with many practice areas or an NGO with several programmes starts at ₹20,000, over three to five weeks. Online stores begin at ₹50,000 and take four to eight weeks. Custom portals for members, grants or vendors start at ₹60,000 and take six to twelve weeks.",
-        "Automation projects start at ₹40,000, monthly SEO at ₹10,000, and maintenance at ₹8,000 a month after the first five months, which are free. See the <a href=\"/pricing/\">pricing page</a> for detail. We send an itemised estimate in about two working days, suitable for internal approval or a purchase order.",
+        "Automation projects start at ₹40,000, monthly SEO at ₹10,000, and maintenance at ₹8,000 a month after the first two months, which are free. See the <a href=\"/pricing/\">pricing page</a> for detail. We send an itemised estimate in about two working days, suitable for internal approval or a purchase order.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> profile site for a chamber, clinic, gallery or boutique.",
@@ -177,7 +177,7 @@ const newDelhi: CityContent = {
       paragraphs: [
         "Institutions outlive vendors. We plan for that from day one: the domain is registered to your organisation, hosting is opened in your organisation's account, and at launch you receive all credentials, the source code and documentation that a future developer can follow.",
         "For NGOs and research bodies that face audits or funder reviews, this matters. You can show who owns the site, where data is stored and who has access. We remove our own access when you ask, and we will help with a handover to any other team at no extra charge.",
-        "For five months after launch, maintenance is included: content updates, fixes, security patches, backups and uptime checks. After that, it continues from ₹8,000 a month, or on request only. The <a href=\"/services/web-development/\">web development page</a> lists what is covered.",
+        "For two months after launch, maintenance is included: content updates, fixes, security patches, backups and uptime checks. After that, it continues from ₹8,000 a month, or on request only. The <a href=\"/services/web-development/\">web development page</a> lists what is covered.",
       ],
     },
     {
@@ -276,9 +276,9 @@ const newDelhi: CityContent = {
         "Your organisation does. The domain and hosting are in your name, and you receive all logins, the source code and documentation at launch. We remove our access on request and help with handover to any future developer without charge.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During the first five months we handle updates, fixes, backups and security at no cost. After that, maintenance continues from ₹8,000 a month, or you can request work only when needed. There is no long-term contract.",
+        "During the first two months we handle updates, fixes, backups and security at no cost. After that, maintenance continues from ₹8,000 a month, or you can request work only when needed. There is no long-term contract.",
     },
     {
       question: "Do you work with organisations in Gurgaon, Noida and the rest of Delhi?",

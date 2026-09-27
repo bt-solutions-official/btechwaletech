@@ -33,7 +33,7 @@ const content: FreelanceContent = {
   facts: [
     ["Business site from", `${P.site} · 1–2 weeks`],
     ["WooCommerce from", `${P.shop} · 4–8 weeks`],
-    ["Care plan", `From ${P.care}, after 5 free months`],
+    ["Care plan", `From ${P.care}, after 2 free months`],
     ["Quote", "Line-item estimate, about 2 working days"],
     ["Hosting", "EU data centre, contract in your name"],
     ["Payment", "USD quote · pay in USD or EUR via Wise or wire"],
@@ -41,12 +41,12 @@ const content: FreelanceContent = {
   stats: [
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
     { value: "3", label: "Developers covering build, hosting and SEO" },
-    { value: "5", label: "Months of maintenance included after launch" },
+    { value: "2", label: "Months of maintenance included after launch" },
     { value: "100", label: "Pages covered by the static website starting plan" },
   ],
   answer: {
     heading: "How do you hire a WordPress developer in Germany without Abmahnung risk?",
-    text: `Hire a WordPress developer who self-hosts fonts, audits every plugin for third-party data transfers, sets up consent before tracking, and hosts in the EU. With BtechWaleTech a WordPress business site starts at ${P.site}, a WooCommerce shop at ${P.shop}, and maintenance at ${P.care} after five free months. Legal texts still come from your lawyer.`,
+    text: `Hire a WordPress developer who self-hosts fonts, audits every plugin for third-party data transfers, sets up consent before tracking, and hosts in the EU. With BtechWaleTech a WordPress business site starts at ${P.site}, a WooCommerce shop at ${P.shop}, and maintenance at ${P.care} after two free months. Legal texts still come from your lawyer.`,
     more: `Weighing a CMS change? Read <a href='/germany/typo3-vs-wordpress/'>TYPO3 vs WordPress</a>. For the full legal build checklist, see the <a href='/germany/gdpr-compliant-website/'>GDPR-compliant website guide</a>.`,
   },
   snapshot: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Shop compliance", value: "Germanized or German Market on WooCommerce" },
       { label: "Hosting", value: "German or EU data centre with an AVV" },
       { label: "Theme approach", value: "Block theme first, page builder only when justified" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Language", "German", "Varies", "English; German copy supplied or approved by you"],
       ["Meeting on-site", "Yes", "No", "No; everything online"],
       ["Starting price basis", "Agency day rate or package", "Low hourly, add-ons later", `Itemised quote, sites from ${P.site}`],
-      ["After launch", "Maintenance contract", "Ad hoc", "5 free months, then care plan"],
+      ["After launch", "Maintenance contract", "Ad hoc", "2 free months, then care plan"],
     ],
     fine: "A remote team reduces technical risk, but it does not replace legal review: your lawyer or a legal-text provider still owns the wording of the Impressum, privacy policy and shop terms.",
   },
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Quotes vary widely: freelancers, agencies and remote teams price the same brief very differently, mostly because of overheads, design depth and what support is included. With us, WordPress business sites start at ${P.site} and WooCommerce shops at ${P.shop}.`,
         `The honest cost drivers for German WordPress work are the unique layouts you need, the shop compliance setup, the number of integrations, and, on existing sites, how much clean-up is needed. A privacy clean-up can be cheaper than a rebuild, or not: a site with forty plugins and a heavy builder sometimes costs less to rebuild than to untangle.`,
-        `Running costs belong in the budget too: hosting, premium plugin licences, a legal-text service and maintenance. Care plans with us start at ${P.care} after five free months. For wider benchmarks, see <a href='/germany/website-development-cost/'>website development cost in Germany</a>.`,
+        `Running costs belong in the budget too: hosting, premium plugin licences, a legal-text service and maintenance. Care plans with us start at ${P.care} after two free months. For wider benchmarks, see <a href='/germany/website-development-cost/'>website development cost in Germany</a>.`,
       ],
     },
     {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       heading: "WordPress maintenance for German sites: what a care plan should include",
       paragraphs: [
         `A care plan should cover updates tested before they reach the live site, backups you can restore, security monitoring and a privacy re-check when plugins change. Without that last part, a site that was clean at launch can drift back into risk.`,
-        `Our plan starts at ${P.care} after five free months. Each month we update WordPress core, the theme and plugins on staging first, then production. We check that no new external requests appeared, confirm backups ran and can be restored, watch uptime and error logs, and send a short note of what changed. Small content edits are part of the plan; larger changes are quoted separately.`,
+        `Our plan starts at ${P.care} after two free months. Each month we update WordPress core, the theme and plugins on staging first, then production. We check that no new external requests appeared, confirm backups ran and can be restored, watch uptime and error logs, and send a short note of what changed. Small content edits are part of the plan; larger changes are quoted separately.`,
         `You can end the plan whenever you like, and because every account is yours, another developer can take over from the handover pack.`,
       ],
     },
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show the process, not a client story.`,
         `Picture a tax adviser’s office in Cologne with a six-year-old WordPress site built on a page builder, 34 plugins, Google Fonts loaded from Google, an embedded map and an analytics tag that fires on arrival. The partners want to reduce warning-letter risk and add an appointment request form.`,
-        `The first step would be a plugin audit and network-request report. The estimate would then offer two options side by side: a clean-up (local fonts, map behind consent, analytics gated, eleven plugins removed, builder assets trimmed) or a rebuild as a block theme from ${P.site}, with the appointment form built in and hosting moved to a German managed host in the office’s name. Both would include consent testing, a fresh services list for their privacy policy and five months of free maintenance.`,
+        `The first step would be a plugin audit and network-request report. The estimate would then offer two options side by side: a clean-up (local fonts, map behind consent, analytics gated, eleven plugins removed, builder assets trimmed) or a rebuild as a block theme from ${P.site}, with the appointment form built in and hosting moved to a German managed host in the office’s name. Both would include consent testing, a fresh services list for their privacy policy and two months of free maintenance.`,
       ],
     },
     {
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
         ["WooCommerce shop with German compliance", `From ${P.shop}`, "4–8 weeks", "Retailers and D2C brands"],
         ["Custom plugin or portal", `From ${P.software}`, "6–12 weeks", "Bookings, member areas, integrations"],
         ["AI assistant on the site", `From ${P.ai}`, "2–4 weeks", "FAQ answers, lead qualification"],
-        ["Care plan (after 5 free months)", `From ${P.care}`, "Monthly", "Updates, backups, privacy re-checks"],
+        ["Care plan (after 2 free months)", `From ${P.care}`, "Monthly", "Updates, backups, privacy re-checks"],
       ],
       hideSm: [3],
     },
@@ -365,19 +365,19 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Hosting, domain, premium licences and consent tool are registered to your business; we join as users you can remove."],
       ["Build and audit on staging", "Theme, pages, forms and shop features are built on a staging site, with fonts local and every plugin checked before it is kept."],
       ["Test consent and legal pages", "We record network requests before and after consent, check legal links on every template and test shop compliance features with you."],
-      ["Launch and care", `We switch the domain, verify Search Console, hand over the documentation and maintain the site free for five months, then from ${P.care}.`],
+      ["Launch and care", `We switch the domain, verify Search Console, hand over the documentation and maintain the site free for two months, then from ${P.care}.`],
     ],
   },
   faqHeading: "WordPress developer Germany: frequently asked questions",
   faqs: [
-    { question: "How much does a WordPress developer in Germany cost?", answer: `It depends heavily on who you hire and how much custom work you need; quotes vary widely. With BtechWaleTech, a remote team in India, WordPress business sites start at ${P.site}, WooCommerce shops at ${P.shop} and care plans at ${P.care} after five free months. Every estimate is itemised before you commit.` },
+    { question: "How much does a WordPress developer in Germany cost?", answer: `It depends heavily on who you hire and how much custom work you need; quotes vary widely. With BtechWaleTech, a remote team in India, WordPress business sites start at ${P.site}, WooCommerce shops at ${P.shop} and care plans at ${P.care} after two free months. Every estimate is itemised before you commit.` },
     { question: "Can I get an Abmahnung for Google Fonts on WordPress?", answer: "The risk exists. In January 2022 the Regional Court of Munich I (case 3 O 17493/20) held that loading Google Fonts from Google’s servers without consent transferred visitors’ IP addresses unlawfully and awarded damages. Warning letters followed. Serving fonts from your own server avoids that transfer entirely, which is how we build every site." },
     { question: "How do I check if my WordPress site loads external resources?", answer: "Open the site in a private browser window, open the developer tools, switch to the Network tab and reload without accepting cookies. Any domain other than your own is an external request. Note which plugin or theme causes each one. We do this as a paid audit and give you a written list with fixes." },
     { question: "Is WordPress GDPR compliant?", answer: "WordPress itself can be run in a compliant way, but compliance depends on your theme, plugins, hosting, consent setup and legal texts. A site with local fonts, audited plugins, consent-gated tracking and EU hosting is a good technical basis. Your lawyer or data-protection officer confirms whether your setup meets your obligations." },
     { question: "Should I use Germanized or German Market for WooCommerce?", answer: "Both adapt WooCommerce to German shop law. Germanized by vendidero has a free version on WordPress.org and a Pro upgrade with invoices and shipping labels. German Market by MarketPress is commercial, includes template legal pages and can connect to Lexware Office. Choose one based on features and support, never both." },
     { question: "Where should I host my WordPress site in Germany?", answer: "In Germany or elsewhere in the EU, with a provider that signs a data processing agreement. Managed WordPress hosting on German servers suits most sites. Larger shops or teams already on AWS may choose the Frankfurt region. The hosting contract should always be in your company’s name." },
     { question: "Are page builders bad for SEO?", answer: "Not automatically, but they often add extra scripts, styles and fonts to every page, which can hurt Core Web Vitals on phones. Block themes built with WordPress’s own editor are usually lighter. If your team depends on a builder, it can be slimmed down; if speed matters more, key templates can be rebuilt as blocks." },
-    { question: "What does a WordPress maintenance plan include?", answer: `Ours covers core, theme and plugin updates tested on staging, backups with restore checks, uptime and error monitoring, a re-check for new external requests after updates, small content edits and a monthly note. It starts at ${P.care} once the five free months after launch end, and you can cancel anytime.` },
+    { question: "What does a WordPress maintenance plan include?", answer: `Ours covers core, theme and plugin updates tested on staging, backups with restore checks, uptime and error monitoring, a re-check for new external requests after updates, small content edits and a monthly note. It starts at ${P.care} once the two free months after launch end, and you can cancel anytime.` },
     { question: "Can a WordPress developer in India work for a German business?", answer: "Yes. The work happens in the browser, on staging sites and in video calls, and India’s time zone overlaps with German mornings and early afternoons. What a remote developer does not do is visit your office or write native German copy, so you supply or approve the German texts." },
     { question: "Is hiring a WordPress freelancer cheaper than an agency in Germany?", answer: "Often, because freelancers and small teams have lower overheads. But compare scope, not rates: ask what plugins they use, how they handle fonts and consent, and what maintenance costs. A cheap build with twenty plugins and remote fonts can cost more over two years than a careful one." },
     { question: "How long does a WordPress site take to build?", answer: "A business site of up to 100 pages usually takes 1–2 weeks, an SEO site with 299+ pages 3–5 weeks, and a WooCommerce shop 4–8 weeks. A privacy clean-up of an existing site often takes a few days to two weeks, depending on the plugin count." },
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a WordPress developer for Germany who checks the risky details?",
-    note: `Send your site URL or brief on WhatsApp. Within about two working days you get an itemised estimate, with WordPress sites from ${P.site}, WooCommerce shops from ${P.shop}, all accounts in your name and five months of free maintenance after launch.`,
+    note: `Send your site URL or brief on WhatsApp. Within about two working days you get an itemised estimate, with WordPress sites from ${P.site}, WooCommerce shops from ${P.shop}, all accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

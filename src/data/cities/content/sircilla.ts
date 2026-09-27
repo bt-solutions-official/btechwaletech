@@ -56,7 +56,7 @@ const sircilla: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer design, rate, stock and appointment questions and pass real decisions to you.",
     data: "Dashboards of metres woven per loom, orders by buyer, dues by trader and patient or admission enquiries by mandal.",
     app: "Android and iOS apps for weavers logging daily metres, traders sharing new designs or hospitals issuing tokens, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for changes, backups and security patches.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for changes, backups and security patches.",
   },
   whyUsIntro:
     "Sircilla's loom owners work on job rates and tight margins, and they want to know exactly what they are paying for. So our starting prices are public, quotes arrive itemised and in writing, WhatsApp is answered on all seven days, and the domain, hosting, code and app store accounts sit in your name. We will also tell you when a feature is not worth the money.",
@@ -171,7 +171,7 @@ const sircilla: CityContent = {
       paragraphs: [
         "Whether you ask in Telugu, Hindi or English, the process is the same. We talk about your business and buyers, then send a written page or screen plan, schedule and itemised cost, normally within two working days. After your approval, you follow the work on a preview link on your phone, and Telugu text comes to you for checking before anything goes public.",
         "We answer WhatsApp every day of the week on Indian Standard Time. Payments are linked to completed stages, and nothing is billed before you approve the quote in writing. If a delay is coming, we tell you early.",
-        "Ownership is not negotiable: the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts are opened in your name, with logins handed over in writing. Maintenance is free for five months after launch; after that it starts at ₹8,000 a month if you want it, and you can move to another developer with all your files at any time. Apps also receive the yearly updates Google and Apple require to stay listed.",
+        "Ownership is not negotiable: the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts are opened in your name, with logins handed over in writing. Maintenance is free for two months after launch; after that it starts at ₹8,000 a month if you want it, and you can move to another developer with all your files at any time. Apps also receive the yearly updates Google and Apple require to stay listed.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const sircilla: CityContent = {
     {
       question: "What maintenance do you give after launch?",
       answer:
-        "Maintenance is free for five months after launch, covering changes, backups, security updates and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want to continue. You may also move your code and accounts to another developer whenever you wish.",
+        "Maintenance is free for two months after launch, covering changes, backups, security updates and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want to continue. You may also move your code and accounts to another developer whenever you wish.",
     },
     {
       question: "Do you work in Vemulawada, Karimnagar and nearby towns?",

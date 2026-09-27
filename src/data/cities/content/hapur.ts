@@ -31,11 +31,11 @@ const hapur: CityContent = {
     eyebrow: "Hapur · Uttar Pradesh",
     h1: "Websites, software, SEO and AI tools for Hapur's manufacturers, mandi traders and Pilkhuwa textile houses",
     lede:
-      "Three remote engineers building B2B catalogues, online stores and WhatsApp automations for Hapur steel tube and pipe units, papad and food processors, grain and jaggery traders, Pilkhuwa bedsheet makers and local schools and clinics. Our prices are on the website, you speak to the developers, and five months of upkeep are free.",
+      "Three remote engineers building B2B catalogues, online stores and WhatsApp automations for Hapur steel tube and pipe units, papad and food processors, grain and jaggery traders, Pilkhuwa bedsheet makers and local schools and clinics. Our prices are on the website, you speak to the developers, and two months of upkeep are free.",
     pills: ["Sites from ₹10,000", "B2B product catalogues", "Hindi and English pages", "Bulk enquiry to WhatsApp", "Stores for home textiles"],
   },
   quickAnswer:
-    "A website for a Hapur business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site for a manufacturer or trader starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team with no Hapur office, and maintenance is free for five months after launch.",
+    "A website for a Hapur business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site for a manufacturer or trader starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote team with no Hapur office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "About 60 km east of New Delhi in the National Capital Region, on National Highway 9 between Delhi and Moradabad" },
     { label: "District", value: "Hapur district, formed in 2011 as Panchsheel Nagar and renamed in 2012; the smallest district in Uttar Pradesh" },
@@ -52,10 +52,10 @@ const hapur: CityContent = {
     ai: "WhatsApp assistants that answer size, rate and minimum-order questions from buyers and pass serious enquiries to the owner.",
     data: "Dashboards that show which products, dealers and cities bring the most business, drawn from your billing data.",
     app: "Android and iPhone apps for salesmen to take orders at retailer counters, available on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Rate list changes, new products, backups and security updates free for five months, then from ₹8,000 a month.",
+    maintenance: "Rate list changes, new products, backups and security updates free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Many Hapur business owners have paid for a website that never brought a single enquiry, or that went offline when the developer stopped answering. We publish our starting prices, build around the searches your buyers actually make, reply on WhatsApp every day of the week, and maintain the site free for five months after launch.",
+    "Many Hapur business owners have paid for a website that never brought a single enquiry, or that went offline when the developer stopped answering. We publish our starting prices, build around the searches your buyers actually make, reply on WhatsApp every day of the week, and maintain the site free for two months after launch.",
   pricingIntro:
     "Hapur owners are used to bargaining, and web quotes here vary wildly. Our starting figures are fixed and public. The final price depends on the number of products and pages, features and how much content you already have, and you get an itemised quote to check before any work begins.",
   sections: [
@@ -166,11 +166,11 @@ const hapur: CityContent = {
     },
     {
       id: "ownership-maintenance-hapur",
-      heading: "Ownership, handover and five free months of maintenance",
+      heading: "Ownership, handover and two free months of maintenance",
       paragraphs: [
         "A familiar Hapur problem: the website was built by a relative's friend or a local shop, the domain was registered in their name, and now nobody can change the phone number on the site. We avoid this from the start.",
         "Your domain and hosting are registered in your name. At launch you receive all logins, a short guide to how the site works and the complete source code. You can move to another developer whenever you wish, with no exit fee.",
-        "Maintenance is free for five months after launch. That covers product and rate updates, bug fixes, security and software updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. More about what each build includes is on our <a href=\"/services/web-development/\">web development</a> page.",
+        "Maintenance is free for two months after launch. That covers product and rate updates, bug fixes, security and software updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. More about what each build includes is on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const hapur: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle product and rate updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that, maintenance is available from ₹8,000 a month, or you can pay only when you need a change.",
+        "For two months after launch we handle product and rate updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that, maintenance is available from ₹8,000 a month, or you can pay only when you need a change.",
     },
     {
       question: "How long does SEO take for a Hapur business?",

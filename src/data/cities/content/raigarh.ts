@@ -31,11 +31,11 @@ const raigarh: CityContent = {
     eyebrow: "Raigarh · Northern Chhattisgarh",
     h1: "Web, app, SEO and automation services for plant vendors, Kosa weavers, hospitals and Kelo-side traders",
     lede:
-      "BtechWaleTech is a remote crew of three engineers. For Raigarh we build vendor websites for firms supplying the steel, sponge iron and power plants, online shops for Kosa silk and Dhokra craft, Hindi and Chhattisgarhi-friendly search pages, and WhatsApp workflows for clinics, colleges and Gandhi Ganj traders. Pricing opens at ₹10,000, and the first five months of care are free.",
+      "BtechWaleTech is a remote crew of three engineers. For Raigarh we build vendor websites for firms supplying the steel, sponge iron and power plants, online shops for Kosa silk and Dhokra craft, Hindi and Chhattisgarhi-friendly search pages, and WhatsApp workflows for clinics, colleges and Gandhi Ganj traders. Pricing opens at ₹10,000, and the first two months of care are free.",
     pills: ["Pricing opens at ₹10,000", "Hindi, English, Odia", "Plant vendor profiles", "Kosa and Dhokra stores", "Every login handed over"],
   },
   quickAnswer:
-    "Raigarh businesses can get a static website from us starting at ₹10,000, typically delivered in one to two weeks. A 299+ page SEO build starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and a UPI store at ₹50,000. Our three-engineer team works remotely, has no Raigarh office, and covers upkeep free for five months post-launch.",
+    "Raigarh businesses can get a static website from us starting at ₹10,000, typically delivered in one to two weeks. A 299+ page SEO build starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and a UPI store at ₹50,000. Our three-engineer team works remotely, has no Raigarh office, and covers upkeep free for two months post-launch.",
   snapshot: [
     { label: "Industry", value: "Steel, sponge iron and power hub; Jindal Steel and Power's large sponge iron and steel complex lies a few kilometres from the city" },
     { label: "Coal belt", value: "Most district coal lies in the Gharghoda and Tamnar blocks of the Mand-Raigarh coalfield, with several coal-fired power plants in the district" },
@@ -52,7 +52,7 @@ const raigarh: CityContent = {
     ai: "WhatsApp flows that tell customers about OPD hours, batch fees, spare-part stock or truck availability, with a staff member taking over when the question needs thought.",
     data: "Monthly dashboards linking work orders, invoices raised and payments received, so contractors know which plant owes them what at a glance.",
     app: "Android and iPhone apps for site supervisors, delivery drivers or hostel wardens that work offline for a while and sync once signal returns.",
-    maintenance: "Upkeep free for the first five months, covering edits, patches, backups and monitoring; afterwards a plan from ₹8,000 per month if you want one.",
+    maintenance: "Upkeep free for the first two months, covering edits, patches, backups and monitoring; afterwards a plan from ₹8,000 per month if you want one.",
   },
   whyUsIntro:
     "Industrial money has brought plenty of web vendors to Raigarh, some from Raipur and Bilaspur, some from much further. Prices are rarely published, and many owners cannot say who holds their domain today. We list our starting rates openly, the engineers who write your code also answer your calls, and every account we create is in your name from the first day.",
@@ -173,10 +173,10 @@ const raigarh: CityContent = {
     },
     {
       id: "ownership-raigarh",
-      heading: "Ownership from day one and five months of free care",
+      heading: "Ownership from day one and two months of free care",
       paragraphs: [
         "Vendors who have been through a plant audit know the value of clean records, and websites need the same. We register your domain in your name, open hosting under your account, and hand over every login at launch with a single page describing where each piece sits. No developer, including us, should ever be able to hold your site hostage.",
-        "You also own the code, so you can stay with us, move to a Raipur or Bilaspur developer, or hire in-house later with no release fee. For the first five months after launch we look after edits, fixes, software and security updates, backups, uptime monitoring and speed checks free of charge. After that, a care plan starts at ₹8,000 a month, or you can pay per change whenever you need one.",
+        "You also own the code, so you can stay with us, move to a Raipur or Bilaspur developer, or hire in-house later with no release fee. For the first two months after launch we look after edits, fixes, software and security updates, backups, uptime monitoring and speed checks free of charge. After that, a care plan starts at ₹8,000 a month, or you can pay per change whenever you need one.",
       ],
     },
     {
@@ -264,9 +264,9 @@ const raigarh: CityContent = {
         "Always. The domain and hosting are registered to you, and at launch you receive every login plus the full source code. You can move to another developer at any time with no release fee. We treat this as non-negotiable, since many older Raigarh websites were lost when builders disappeared.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During those five months we cover edits, fixes, software and security updates, backups, uptime monitoring and speed checks free. After that, you can choose a care plan starting at ₹8,000 a month, or simply pay for individual changes as they come up.",
+        "During those two months we cover edits, fixes, software and security updates, backups, uptime monitoring and speed checks free. After that, you can choose a care plan starting at ₹8,000 a month, or simply pay for individual changes as they come up.",
     },
     {
       question: "How soon can SEO bring enquiries in Raigarh?",

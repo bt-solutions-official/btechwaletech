@@ -58,7 +58,7 @@ const mathura: CityContent = {
     ai: "WhatsApp assistants that answer dealer price-list, room availability and admission questions in Hindi and hand anything unusual to a person.",
     data: "Dashboards of dealer orders by district, contractor billing by site, or room occupancy around Janmashtami and Holi.",
     app: "Android and iOS apps for fittings dealers to reorder or for hotel guests to book and check in, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups, security patches and small edits.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups, security patches and small edits.",
   },
   whyUsIntro:
     "Mathura buyers range from a refinery contractor who needs clean paperwork to a peda maker who needs festival orders handled without mistakes. We publish starting prices, send a written itemised quote, reply on WhatsApp every day of the week, and put the domain, hosting, code and app store accounts in your name from the first day.",
@@ -179,7 +179,7 @@ const mathura: CityContent = {
       heading: "Ownership, handover and maintenance for Mathura websites and apps",
       paragraphs: [
         "The domain is booked in your name and on your email. Hosting is billed to you. The source code is handed over in full. Your Google Business Profile, Google Play developer account and Apple developer account list your business as owner, with us added only as helpers you can remove. At handover you get a written list of every login, so no developer, ourselves included, can ever hold your site back.",
-        "For five months after launch, maintenance costs you nothing. We update prices before festival season, take backups, apply security patches and version upgrades, and check that forms, UPI and card checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, manage it in-house, or hand the code to anyone you like.",
+        "For two months after launch, maintenance costs you nothing. We update prices before festival season, take backups, apply security patches and version upgrades, and check that forms, UPI and card checkout and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, manage it in-house, or hand the code to anyone you like.",
         "Apps need attention even when nothing is broken, because Google and Apple raise their minimum requirements every year. We track those deadlines and update your app before the stores send warnings, so it stays listed and installable.",
       ],
     },
@@ -267,7 +267,7 @@ const mathura: CityContent = {
     {
       question: "What happens after my website or app goes live?",
       answer:
-        "Maintenance is free for the first five months: edits, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, it is your choice to continue with us from ₹8,000 a month, handle it yourself or move to another developer, and you already hold every login.",
+        "Maintenance is free for the first two months: edits, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, it is your choice to continue with us from ₹8,000 a month, handle it yourself or move to another developer, and you already hold every login.",
     },
     {
       question: "Do you also work in Vrindavan, Govardhan and Kosi Kalan?",

@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["First launch", "1–2 weeks for a package site"],
     ["Enquiries", "Form plus WhatsApp, tracked per package"],
     ["Ownership", "Domain, hosting and photos in your name"],
-    ["After launch", "5 months of free updates"],
+    ["After launch", "2 months of free updates"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your travel site" },
     { value: "100", label: "Pages in the static plan, enough for most package lists" },
-    { value: "5", label: "Months of free package and price updates" },
+    { value: "2", label: "Months of free package and price updates" },
     { value: "7", label: "Days a week we reply, including peak season" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Custom booking system", value: `From ${P.software}, 6–12 weeks` },
       { label: "Enquiry channels", value: "Form, WhatsApp button, call tracking" },
       { label: "Payments", value: "UPI and card deposits or full payment" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       heading: "How much does a travel website developer cost for different sites?",
       paragraphs: [
         `Cost follows what the site must do, not the word “travel”. A ten-package site for a local operator and a multi-state operator with hundreds of routes are both travel websites, but the work differs by weeks.`,
-        `Our starting points: a package and itinerary site of up to 100 pages from ${P.site} (${P.siteUsd}), launched in 1–2 weeks. A destination SEO site with hundreds of generated pages from ${P.seoSite} (${P.seoSiteUsd}), 3–5 weeks. A custom booking system from ${P.software}, 6–12 weeks. WhatsApp automation from ${P.ai}, a traveller app from ${P.app}, monthly SEO from ${P.seo}, and maintenance after the free five months from ${P.care}.`,
+        `Our starting points: a package and itinerary site of up to 100 pages from ${P.site} (${P.siteUsd}), launched in 1–2 weeks. A destination SEO site with hundreds of generated pages from ${P.seoSite} (${P.seoSiteUsd}), 3–5 weeks. A custom booking system from ${P.software}, 6–12 weeks. WhatsApp automation from ${P.ai}, a traveller app from ${P.app}, monthly SEO from ${P.seo}, and maintenance after the free two months from ${P.care}.`,
         `Across the market, travel website quotes vary widely. The biggest differences hide in content work (who writes itineraries and destination text), photo handling, languages, booking features and whether “portal” includes any real inventory. Compare line by line. For more on website budgets, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       heading: "Travel website banwana hai? Seedha jawab",
       paragraphs: [
         `Apne saare packages ki list, itinerary aur photos ek jagah jama kijiye. Humein bataiye kaunse trips fixed date wale hain aur kaunse customer ke hisaab se bante hain. Har package page par din-wise plan, kya shamil hai aur kya nahi, aur WhatsApp enquiry button hoga.`,
-        `Travel website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Bahut saari destination pages chahiye toh SEO website ${P.seoSite} se. Domain aur hosting aapke naam par, UPI se advance lene ki suvidha, aur launch ke baad 5 mahine tak package aur price updates free.`,
+        `Travel website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Bahut saari destination pages chahiye toh SEO website ${P.seoSite} se. Domain aur hosting aapke naam par, UPI se advance lene ki suvidha, aur launch ke baad 2 mahine tak package aur price updates free.`,
       ],
     },
   ],
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
       ["Domain and hosting in your name", "We set up accounts under your email on a short call, and keep your original photos in your own storage."],
       ["One complete package page first", "The home page and a finished package page appear on staging so you can check layout, prices and enquiry flow on your phone."],
       ["All packages, tracking, launch", "Remaining pages, destination content, WhatsApp links, deposits and tracking go live, ideally before your busy season starts."],
-      ["Five months of free updates", "New departures, price changes and seasonal packages are updated free for five months, then from " + P.care + " if you want ongoing help."],
+      ["Two months of free updates", "New departures, price changes and seasonal packages are updated free for two months, then from " + P.care + " if you want ongoing help."],
     ],
   },
   faqHeading: "Travel website developer: questions from tour operators",
@@ -343,11 +343,11 @@ const content: FreelanceContent = {
     { question: "Who owns the travel website and its content?", answer: "You do. The domain and hosting are registered in your name, the code sits in a repository you can access, and your photos and itineraries remain yours. At launch we hand over all logins and a list of renewals, so you can switch developers any time without losing anything." },
     { question: "Should I list on OTAs or build my own travel website?", answer: "Most operators benefit from both. Platforms bring visibility but take commission and hold customer relationships. Your own website brings direct enquiries with no commission, builds your brand in search and keeps traveller data with you. Many operators use platforms for discovery and their own site to convert repeat and referral travellers." },
     { question: "Can you automate replies to travel enquiries on WhatsApp?", answer: `Yes. An automated first reply can send the package PDF, ask travel month and group size, and tag the lead for your team, following WhatsApp's template and opt-in rules. It helps most in peak season when enquiries pile up. WhatsApp automation starts at ${P.ai}.` },
-    { question: "Can you update packages and prices after launch?", answer: `Yes. Five months of free maintenance after launch covers new departures, price changes, seasonal packages and small fixes. After that, updates continue from ${P.care} a month if you want them, or we can give your team a simple way to update package data themselves.` },
+    { question: "Can you update packages and prices after launch?", answer: `Yes. Two months of free maintenance after launch covers new departures, price changes, seasonal packages and small fixes. After that, updates continue from ${P.care} a month if you want them, or we can give your team a simple way to update package data themselves.` },
     { question: "Do you build travel apps as well as websites?", answer: `Yes. An Android and iOS app can give repeat travellers and groups their itineraries, documents and live updates in one place, built with Flutter or React Native and published in your own store accounts. Apps start at ${P.app}. Most operators should launch the website first and add an app once they have repeat customers.` },
     { question: "What should a tour operator prepare before contacting a developer?", answer: "Prepare a list of packages with durations and starting prices, itineraries in any format, your best real photos, payment and cancellation terms, registration details you hold, and a note on which trips are fixed-departure and which are custom. Also note your busy season, so the launch can happen before it." },
-    { question: "Travel website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath package aur itinerary wali travel website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Bahut saari destination pages ke liye SEO website ${P.seoSite} se, aur poora booking system ${P.software} se. Quote line by line milta hai, approval ke baad hi billing, aur 5 mahine updates free.` },
-    { question: "Do you build websites for inbound tour operators selling to foreigners?", answer: `Yes. Inbound sites need English and often other languages, prices in INR with a reference currency, international card payments, strong trust signals and pages targeted at overseas searches. We build these from ${P.site} or ${P.siteUsd}, with the same ownership terms and five months of free maintenance.` },
+    { question: "Travel website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath package aur itinerary wali travel website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Bahut saari destination pages ke liye SEO website ${P.seoSite} se, aur poora booking system ${P.software} se. Quote line by line milta hai, approval ke baad hi billing, aur 2 mahine updates free.` },
+    { question: "Do you build websites for inbound tour operators selling to foreigners?", answer: `Yes. Inbound sites need English and often other languages, prices in INR with a reference currency, international card payments, strong trust signals and pages targeted at overseas searches. We build these from ${P.site} or ${P.siteUsd}, with the same ownership terms and two months of free maintenance.` },
   ],
   related: {
     heading: "More on travel, hospitality and booking sites",
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a travel website that brings direct enquiries?",
-    note: `Send your package list on WhatsApp. You get an itemised estimate in about two working days, travel websites from ${P.site}, accounts in your name and five months of free package and price updates after launch.`,
+    note: `Send your package list on WhatsApp. You get an itemised estimate in about two working days, travel websites from ${P.site}, accounts in your name and two months of free package and price updates after launch.`,
   },
 };
 

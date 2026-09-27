@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Shopify account", "Opened in your name, paid from your card"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Before launch", "A real test order, paid and refunded"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers setting up and checking your store" },
     { value: "2", label: "Working days to an itemised setup quote" },
-    { value: "5", label: "Months of free fixes and small changes" },
+    { value: "2", label: "Months of free fixes and small changes" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Shipping", value: "Zones, rates and a courier app linked to your account" },
       { label: "Legal pages", value: "Refund, shipping, privacy, terms and contact" },
       { label: "Accounts", value: "Shopify, domain, provider and courier all in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Shipping rules", "Flat rate for everyone", "Basic zones", "Zones, weight rates, courier app, pincode checks"],
       ["Legal and trust pages", "Copied from somewhere", "Generic templates", "Written for your actual returns and delivery terms"],
       ["Account ownership", "Yours", "Sometimes opened by the seller", "Yours from the first click"],
-      ["After launch", "Search forums", "Paid per question", "5 months of free fixes and small changes"],
+      ["After launch", "Search forums", "Paid per question", "2 months of free fixes and small changes"],
       ["Best for", "Very small catalogues and time to spare", "One narrow task you can verify", "Owners who want a store that works on day one"],
     ],
     fine: "If you have fewer than ten products, time to learn, and simple shipping, you can set up Shopify yourself; bring in help only for payments and a final check.",
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "On a short call, you create the Shopify, domain and provider accounts, then add us as collaborators with limited permissions."],
       ["Fill the product sheet", "You complete our template and send photos. We import, check each variant and build collections while the theme takes shape."],
       ["Connect payments and shipping", "After your provider KYC clears, we connect UPI, cards and COD, set shipping zones and the courier app, and configure GST settings."],
-      ["Test, launch and hand over", "We run the launch checklist with real orders, remove the password page, and give you a one-page guide. Five months of free fixes follow."],
+      ["Test, launch and hand over", "We run the launch checklist with real orders, remove the password page, and give you a one-page guide. Two months of free fixes follow."],
     ],
   },
   faqHeading: "Shopify store setup service: common questions",
@@ -388,9 +388,9 @@ const content: FreelanceContent = {
     { question: "Do you design a custom Shopify theme during setup?", answer: "Base setup configures an existing theme: branding, layouts, sections and mobile checks. Designing new sections or templates that the theme does not offer is development work and is quoted as extra lines. For most new stores a well-configured free theme is enough, and it keeps the store fast." },
     { question: "Is SEO included in Shopify store setup?", answer: `SEO basics are included: titles and descriptions for key pages, clean handles, image alt text, collection introductions, Search Console verification and sitemap submission. Ongoing SEO, such as new content and link work, is a monthly service from ${P.seo}. No one can guarantee rankings for a new store, and we do not promise them.` },
     { question: "Can you move my Instagram or WhatsApp business to Shopify?", answer: "Yes. We turn your existing product posts or catalogue into a proper product sheet, set up the store, and add a WhatsApp chat button so regular buyers can still message you. Many sellers keep Instagram for discovery and send buyers to the store for payment, which also gives them order records for GST." },
-    { question: "What happens after the store goes live?", answer: `You get five months of free maintenance covering fixes and small changes such as a new banner, a price correction or a shipping rule update. After that, support continues from ${P.care} if you want it, or you manage the store yourself using the handover guide. Larger additions are quoted separately.` },
+    { question: "What happens after the store goes live?", answer: `You get two months of free maintenance covering fixes and small changes such as a new banner, a price correction or a shipping rule update. After that, support continues from ${P.care} if you want it, or you manage the store yourself using the handover guide. Larger additions are quoted separately.` },
     { question: "Do you visit my shop or warehouse to set up the store?", answer: "No. We work fully remotely through video calls, screen sharing and WhatsApp. That covers everything a Shopify setup needs. Product photography and packaging are done by you or a local photographer; we send a simple photo guide so the pictures work well on product pages." },
-    { question: "Shopify store banwana hai, setup mein kya kya milta hai?", answer: `Hamare Shopify store setup mein theme, products upload, UPI aur COD payment, courier aur shipping rates, GST invoice aur policy pages sab set hota hai. Starting price ${P.shop} hai aur 4–8 hafte lagte hain. Store aapke naam par hota hai aur launch ke baad 5 mahine free support milta hai.` },
+    { question: "Shopify store banwana hai, setup mein kya kya milta hai?", answer: `Hamare Shopify store setup mein theme, products upload, UPI aur COD payment, courier aur shipping rates, GST invoice aur policy pages sab set hota hai. Starting price ${P.shop} hai aur 4–8 hafte lagte hain. Store aapke naam par hota hai aur launch ke baad 2 mahine free support milta hai.` },
     { question: "Can you set up a Shopify store for selling abroad?", answer: `Yes. We configure markets and currencies, international shipping zones and a payment provider that supports international cards. Export rules, customs and tax on cross-border sales are for your accountant or customs agent. Overseas sellers opening a store get the same setup scope, priced from ${P.shopUsd}.` },
     { question: "What if I already started setting up Shopify and got stuck?", answer: "Send us the store link and a list of what is done. We audit it, keep what is correct, and quote only the missing or broken parts, such as payments, shipping rates or legal pages. Stores stuck mid-setup are common, and finishing one is usually quicker than starting over." },
   ],
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want your Shopify store set up properly? Tell us what you sell",
-    note: `Send your product list and a few photos on WhatsApp. You get an itemised setup quote in about two working days, with store setup from ${P.shop}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send your product list and a few photos on WhatsApp. You get an itemised setup quote in about two working days, with store setup from ${P.shop}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

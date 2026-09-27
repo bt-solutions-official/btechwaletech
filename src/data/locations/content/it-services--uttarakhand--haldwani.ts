@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Haldwani–Kathgodam · Kumaon · Freelance software team",
     h1: "Hire freelance software developers in Haldwani for distribution, mandi, fleet and clinic systems",
     lede:
-      "Owners looking for a software development team in Haldwani often want one thing: software that fits how goods, money and people move between the plains and the Kumaon hills. BtechWaleTech is a freelance group of three engineers working remotely from India. We build distributor ordering apps, aadhat ledgers, trip-sheet systems, hospital tools, AI automations and dashboards, with starting prices in public and five months of maintenance free.",
+      "Owners looking for a software development team in Haldwani often want one thing: software that fits how goods, money and people move between the plains and the Kumaon hills. BtechWaleTech is a freelance group of three engineers working remotely from India. We build distributor ordering apps, aadhat ledgers, trip-sheet systems, hospital tools, AI automations and dashboards, with starting prices in public and two months of maintenance free.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Offline-ready sales apps", "Mandi and fleet systems", "Hindi screens for staff"],
   },
   quickAnswer:
-    "For Haldwani businesses, BtechWaleTech's freelance developers build custom software from ₹60,000 in six to twelve weeks and AI or WhatsApp automation from ₹40,000 in two to four weeks; websites start at ₹10,000. We are three engineers working remotely from India, send an itemised quote in about two working days and include five months of free maintenance.",
+    "For Haldwani businesses, BtechWaleTech's freelance developers build custom software from ₹60,000 in six to twelve weeks and AI or WhatsApp automation from ₹40,000 in two to four weeks; websites start at ₹10,000. We are three engineers working remotely from India, send an itemised quote in about two working days and include two months of free maintenance.",
   snapshot: [
     { label: "Role in the region", value: "Kumaon's largest commercial centre and the supply gateway to Nainital, Almora, Bageshwar, Pithoragarh and Champawat districts" },
     { label: "Markets", value: "Bada Bazaar, Mangal Parao, Nainital Road, Kaladhungi Road, Rampur Road and the wholesale fruit and vegetable mandi" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI assistants that take routine orders and appointment requests on WhatsApp and pass exceptions to your team.",
     data: "Dashboards for sales by hill route, collections by retailer, patient volumes or truck utilisation, visible on the owner's phone.",
     app: "Android and iOS apps for Haldwani distributors, transporters, hospitals and coaching centres, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Fixes, backups and small changes free for five months after launch, then plans from ₹8,000 a month.",
+    maintenance: "Fixes, backups and small changes free for two months after launch, then plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Haldwani firms often choose between a few local developers and agencies in Delhi or Dehradun who have never seen a hill supply route. A freelance group that writes its own code, understands offline sales on mountain roads and replies on WhatsApp seven days a week offers a practical middle path.",
@@ -222,7 +222,7 @@ const content: CityContent = {
       id: "support-process-haldwani",
       heading: "How we deliver and support Haldwani projects remotely",
       paragraphs: [
-        "Haldwani projects follow a simple sequence: a discovery call, a written scope and quote, weekly build cycles with a live preview, testing with your staff and real data, then launch with five months of free maintenance. You see working screens within the first two weeks.",
+        "Haldwani projects follow a simple sequence: a discovery call, a written scope and quote, weekly build cycles with a live preview, testing with your staff and real data, then launch with two months of free maintenance. You see working screens within the first two weeks.",
         "Because we work remotely, we ask for photos of your registers, sample bills and existing spreadsheets early. They tell us more about your process than any meeting. Training happens on short recorded video calls. Support after launch runs on WhatsApp seven days a week with the engineers who built the system.",
         "Timelines are two to four weeks for automation, four to eight weeks for stores and six to twelve weeks for custom software. See <a href='/services/'>our services</a> or <a href='/contact/'>contact us</a> to start.",
       ],
@@ -290,7 +290,7 @@ const content: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "Five months of maintenance come free after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you contact us only when you need changes.",
+        "Two months of maintenance come free after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you contact us only when you need changes.",
     },
     {
       question: "Can AI take orders from our retailers on WhatsApp?",

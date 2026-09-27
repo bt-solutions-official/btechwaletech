@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Kathua · Jammu division · Gateway to J&K",
     h1: "Freelance software developers in Kathua for Ghatti and SICOP factories, suppliers and growing MSMEs",
     lede:
-      "Kathua has become one of the busiest places in Jammu and Kashmir to set up a factory, and owners searching for a software development team in Kathua usually need workflow systems more than brochures: purchase and production records, dispatch and e-way bill logs, vendor portals and management dashboards. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, B2B websites, Android and iOS apps, AI automation and ongoing support for Kathua district businesses, with published starting prices and five months of free maintenance.",
+      "Kathua has become one of the busiest places in Jammu and Kashmir to set up a factory, and owners searching for a software development team in Kathua usually need workflow systems more than brochures: purchase and production records, dispatch and e-way bill logs, vendor portals and management dashboards. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, B2B websites, Android and iOS apps, AI automation and ongoing support for Kathua district businesses, with published starting prices and two months of free maintenance.",
     pills: ["Workflow software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "B2B websites from ₹10,000", "Tally-friendly exports"],
   },
   quickAnswer:
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders and supplier invoices, draft quotations, answer dealer queries on WhatsApp and summarise the day for owners.",
     data: "Dashboards for output, rejections, stock, dispatches, receivables and power or fuel use, built on Tally, spreadsheets or our software.",
     app: "Android and iOS apps from ₹40,000 for Kathua supervisors, salesmen, drivers and dealers, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Five months of free support after launch, then monthly plans from ₹8,000 for fixes, updates, backups, user changes and monitoring.",
+    maintenance: "Two months of free support after launch, then monthly plans from ₹8,000 for fixes, updates, backups, user changes and monitoring.",
   },
   whyUsIntro:
     "New Kathua units are often sold oversized ERP licences they barely use. BtechWaleTech is three engineers who build the workflows your plant needs now, extend them as you grow, answer on WhatsApp every day, and keep every account in your company's name.",
@@ -159,7 +159,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting runs a Kathua unit's software and website on professional data-centre servers with daily backups, so an office power cut, a failed computer or a theft does not lose your records. It also lets managers log in securely from Jammu, Pathankot or anywhere else.",
         "We deploy on AWS, DigitalOcean or similar providers with SSL, access controls, audit logs, uptime alerts and security updates. Domain, hosting and code repositories are registered to your company. Users get individual logins with roles, and departing staff can be removed in seconds.",
-        "After launch, five months of support are free, covering fixes, updates, backups, user changes and speed checks. Monthly plans start from ₹8,000 afterwards. We do not supply hardware, cabling or on-site networking; a local technician handles those, while we handle software.",
+        "After launch, two months of support are free, covering fixes, updates, backups, user changes and speed checks. Monthly plans start from ₹8,000 afterwards. We do not supply hardware, cabling or on-site networking; a local technician handles those, while we handle software.",
       ],
     },
     {
@@ -201,7 +201,7 @@ const content: CityContent = {
       heading: "How is software rolled out in a Kathua plant without disrupting work?",
       paragraphs: [
         "Software is rolled out in a Kathua plant without disruption by starting with one department, running the new system alongside existing registers for two to three weeks, then switching fully once figures match. This parallel run catches gaps before anyone depends on the new system, and gives staff time to trust it.",
-        "Our sequence is consistent: discovery and sample collection, a written scope with itemised quote, agreed screens and data fields, weekly builds you test on real transactions, staff training over video with short guides in Hindi, a parallel run, and full launch. The five months of free support begin at launch.",
+        "Our sequence is consistent: discovery and sample collection, a written scope with itemised quote, agreed screens and data fields, weekly builds you test on real transactions, staff training over video with short guides in Hindi, a parallel run, and full launch. The two months of free support begin at launch.",
         "One internal champion, often the plant manager or accountant, makes the biggest difference. They collect feedback, approve changes and help colleagues. Projects with a clear champion finish faster and are used more.",
       ],
       list: [
@@ -209,7 +209,7 @@ const content: CityContent = {
         "Week 2: scope, quote and screen approval",
         "Build weeks: weekly staging links and testing",
         "Parallel run: new system alongside registers",
-        "Launch: full switch and five months of free support",
+        "Launch: full switch and two months of free support",
       ],
     },
     {
@@ -219,13 +219,13 @@ const content: CityContent = {
         "Once software is live in a Kathua plant, the ongoing costs are cloud hosting, a few metered services, the domain, and upkeep of the code. For a typical production and dispatch system used by one unit, hosting is modest; what grows the bill is extra users, heavy reports, stored photos from quality checks, and messages sent to dealers.",
         "Metered services deserve a line each in your budget. WhatsApp Business API alerts to transporters and distributors are charged per conversation by Meta through a provider. SMS for OTP login has a per-message cost. If the system reads invoices or answers questions with AI, the model provider bills by usage. We list the vendor for each and link their pricing so the finance person can track changes.",
         "Power and internet in industrial areas can be uneven, so we plan for it. Shop-floor apps built for Kathua units keep working offline on a tablet and sync when the connection returns, which avoids paying for a second internet line purely to keep data entry going. Backups run to cloud storage every night, and restoring one is tested before handover rather than on the day it is needed.",
-        "Upkeep is the last piece. We include five months of free maintenance after launch. After that, a monthly plan from ₹8,000 keeps security updates, bug fixes, backups and small changes going. Plants with a capable in-house IT person can take over instead; we hand over the code, documentation and admin access so they can.",
+        "Upkeep is the last piece. We include two months of free maintenance after launch. After that, a monthly plan from ₹8,000 keeps security updates, bug fixes, backups and small changes going. Plants with a capable in-house IT person can take over instead; we hand over the code, documentation and admin access so they can.",
       ],
       list: [
         "Cloud hosting and nightly backups",
         "WhatsApp API, SMS and AI usage, billed by each vendor",
         "Domain and email accounts in your name",
-        "Maintenance: free for 5 months, then from ₹8,000 a month",
+        "Maintenance: free for 2 months, then from ₹8,000 a month",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const content: CityContent = {
     },
     {
       question: "What support is available after launch?",
-      answer: "Five months of support are included free after launch, covering bug fixes, small changes, security updates, backups, user changes and performance checks. Afterwards, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
+      answer: "Two months of support are included free after launch, covering bug fixes, small changes, security updates, backups, user changes and performance checks. Afterwards, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How long will SEO take for a Kathua manufacturer?",

@@ -31,11 +31,11 @@ const hajipur: CityContent = {
     eyebrow: "Hajipur · Vaishali district, Bihar",
     h1: "Web, app, SEO and automation services for Hajipur's factories, railway suppliers, fruit traders and clinics",
     lede:
-      "We are a remote team of three engineers who build websites, Google listings and WhatsApp workflows for businesses in Hajipur and the rest of Vaishali: units in the BIADA industrial area and EPIP, suppliers to the East Central Railway, banana and litchi traders, hospitals and labs, coaching centres and shops. Rates are published and upkeep is free for five months.",
+      "We are a remote team of three engineers who build websites, Google listings and WhatsApp workflows for businesses in Hajipur and the rest of Vaishali: units in the BIADA industrial area and EPIP, suppliers to the East Central Railway, banana and litchi traders, hospitals and labs, coaching centres and shops. Rates are published and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Manufacturer and B2B sites", "Clinic and school sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "A basic website for a Hajipur business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We work remotely with no office in Hajipur or Patna, and maintenance is free for five months after launch.",
+    "A basic website for a Hajipur business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We work remotely with no office in Hajipur or Patna, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Headquarters of Vaishali district, about 10 km from Patna across the Ganga, at its meeting point with the Gandak" },
     { label: "Railway role", value: "Headquarters of the East Central Railway zone, with Hajipur Junction on the lines towards Muzaffarpur and Sonepur" },
@@ -52,7 +52,7 @@ const hajipur: CityContent = {
     ai: "WhatsApp replies in Hindi or English for product, rate, fee and appointment questions, with people handling anything sensitive.",
     data: "Dashboards that bring production, sales, dues or admissions into one phone-friendly view for owners who travel between Hajipur and Patna.",
     app: "Android and iOS apps for delivery tracking, attendance or field orders on mobile data, from ₹40,000 and listed on both Google Play and the App Store.",
-    maintenance: "Updates, backups, uptime checks and small changes free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, uptime checks and small changes free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Hajipur businesses often go to a Patna agency across the bridge or a freelancer found through a friend. Too often the site is left unfinished, the domain sits in the agency's account and changes take weeks. We are three engineers with published rates, written quotes and direct replies, and you hold every login from launch day.",
@@ -186,7 +186,7 @@ const hajipur: CityContent = {
       paragraphs: [
         "A common Hajipur story: a firm paid an agency for a website, the domain went into the agency's account, and when the relationship ended the firm lost access to its own name. Rebuilding cost more than the original site.",
         "We register the domain and hosting in your name and account from day one. At launch you receive every login, the full source code and a short note on the setup. You can change developers any time with no exit fee. Our <a href=\"/services/web-development/\">web development</a> uses common, documented tools so a handover is straightforward.",
-        "For five months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small edits. After that you can continue from ₹8,000 a month or contact us only when needed.",
+        "For two months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small edits. After that you can continue from ₹8,000 a month or contact us only when needed.",
       ],
     },
     {
@@ -276,7 +276,7 @@ const hajipur: CityContent = {
     {
       question: "What happens after launch?",
       answer:
-        "For five months we maintain your site free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months we maintain your site free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long does SEO take in Hajipur?",

@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: build, SEO and project management" },
     { value: "0", label: "Commission or per-lead fees on enquiries from your own site" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Portfolio layout", value: "Filtered by property type, room and style" },
       { label: "Trust signals", value: "DRC listing, accreditations you hold, genuine reviews" },
       { label: "Lead capture", value: "Quote form with key date, scope and floor-plan upload" },
-      { label: "After launch", value: `Five months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `Two months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
         `With our freelance team, a renovation or interior design website starts from ${P.site} for up to 100 pages and takes one to two weeks. A site with a large portfolio and pages for many HDB towns starts from ${P.seoSite}, and a custom lead tracker or client portal from ${P.software}.`,
         `The real cost drivers are how many projects you want published, how sorted your photos are, how many estate or service pages need writing, and whether you want automation after the form. A firm that hands over twenty projects in labelled folders, each with a few lines about scope, is quick to build. One with thousands of unsorted phone photos needs a sorting and captioning step, which we can do but will quote for.`,
         `Other studios and freelancers quote very differently for renovation sites, and the gap usually comes from what is included. Ask each one whether they write the project pages or only upload what you send, whether the quote covers photo optimisation, who owns the domain, and whether there are monthly platform fees for the gallery or form. Our itemised quote lists every page and feature, arrives in about two working days, and nothing is billed until you approve it in writing.`,
-        `Compare the website cost with what you pay for leads today. A site is a one-off build plus modest upkeep, while platform leads are paid for again every month. After the free five months of maintenance, care plans start from ${P.care}; ongoing SEO from ${P.seo} if you want new project pages and estate pages added each month. Full details are on our <a href='/pricing/'>pricing page</a>.`,
+        `Compare the website cost with what you pay for leads today. A site is a one-off build plus modest upkeep, while platform leads are paid for again every month. After the free two months of maintenance, care plans start from ${P.care}; ongoing SEO from ${P.seo} if you want new project pages and estate pages added each month. Full details are on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Lead tracker or client progress portal", P.software, "6–12 weeks"],
         ["Online store for furniture or fittings", P.shop, "4–8 weeks"],
         ["Monthly SEO with new project and town pages", P.seo, "Ongoing"],
-        ["Maintenance after the free five months", P.care, "Ongoing"],
+        ["Maintenance after the free two months", P.care, "Ongoing"],
       ],
     },
   ],
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Photo sorting and project pages", "We sort your photos by property type and room, optimise them, and draft project pages from your notes for you to correct."],
       ["Credentials and reviews check", "You confirm every credential and licence we display; reviews are matched to their source links before anything goes live."],
       ["Form, WhatsApp and tracking", "The quote form is tested with floor-plan uploads, enquiries flow to email and WhatsApp, and source tracking is switched on."],
-      ["Launch and free upkeep", "The site goes live on your domain, you get a recorded guide to adding projects, and maintenance is free for five months."],
+      ["Launch and free upkeep", "The site goes live on your domain, you get a recorded guide to adding projects, and maintenance is free for two months."],
     ],
   },
   faqHeading: "Renovation website design in Singapore: frequently asked questions",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Can I add new projects to the website myself?", answer: "Yes. We build a simple editor where you upload photos, pick the property type, room and style, and fill in the project details. The site resizes images and adds the project to the right gallery and town page automatically. We record a short walkthrough so any staff member can do it." },
     { question: "How do we pay a freelance team in India from Singapore?", answer: "Quotes are in USD and invoices come from India. You can pay by Wise, bank wire or PayPal. You approve an itemised quote in writing before anything is billed, and payment milestones are set out in that quote. Our terms and refund policy pages explain the general approach; ask us anything specific before you sign." },
     { question: "Is it risky to hire a web team in India for a Singapore renovation business?", answer: "The main risks with any developer are losing access to your site or data and unclear scope. We reduce both: everything is registered in your name, the itemised quote lists every page, and you see progress on a preview link throughout. Singapore is only two and a half hours ahead of India, so replies come during your working day." },
-    { question: "What happens after the five months of free maintenance?", answer: `You can continue with a care plan from ${P.care}, which covers updates, backups, security checks and small content changes, or manage the site yourself. If you want new project pages and town pages added regularly with SEO tracking, monthly SEO starts from ${P.seo}. Ask us what each plan covers and it goes into your quote.` },
+    { question: "What happens after the two months of free maintenance?", answer: `You can continue with a care plan from ${P.care}, which covers updates, backups, security checks and small content changes, or manage the site yourself. If you want new project pages and town pages added regularly with SEO tracking, monthly SEO starts from ${P.seo}. Ask us what each plan covers and it goes into your quote.` },
     { question: "Can you rebuild our old renovation website?", answer: "Yes. We keep the URLs that already bring traffic, redirect old addresses to new ones, re-sort your portfolio by property type, and rebuild the quote form. Existing reviews and credentials are checked and relinked. The rebuild usually fits the same starting prices as a new site, depending on how many projects need migrating." },
   ],
   related: {

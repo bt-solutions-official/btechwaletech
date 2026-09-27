@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Designed for", "Mobile screens first, then desktop"],
     ["Prices shown", "GST-inclusive if you are GST-registered"],
     ["Quote", "Itemised in USD in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers designing and building" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
     { value: "0", label: "Commission on your sales from us" },
   ],
   answer: {
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       heading: "How much does ecommerce website design cost in Singapore?",
       paragraphs: [
         `Ecommerce website design quotes in Singapore vary widely, from template setups to fully custom builds, and we do not quote other suppliers' figures. The main drivers are the number of unique templates, the size and state of your product data, the payment and delivery integrations, and whether the platform is hosted or custom.`,
-        `With BtechWaleTech, an online store starts at ${P.shop} and usually takes four to eight weeks. Custom-built stores start at ${P.software}. After launch, five months of maintenance are included, then care from ${P.care} if you want it. Platform subscriptions, apps and payment fees are paid by you directly. For year-one and year-two running totals, see <a href='/singapore/ecommerce-website-cost/'>our Singapore ecommerce cost breakdown</a>.`,
+        `With BtechWaleTech, an online store starts at ${P.shop} and usually takes four to eight weeks. Custom-built stores start at ${P.software}. After launch, two months of maintenance are included, then care from ${P.care} if you want it. Platform subscriptions, apps and payment fees are paid by you directly. For year-one and year-two running totals, see <a href='/singapore/ecommerce-website-cost/'>our Singapore ecommerce cost breakdown</a>.`,
       ],
     },
     {
@@ -365,12 +365,12 @@ const content: FreelanceContent = {
       ["Phone wireframes", "Home, collection, product, cart and checkout layouts at phone width first, reviewed on your own handset before any visual design."],
       ["Design and build on staging", "Your real products, photos and prices go into the designed templates so you judge the store as shoppers will see it."],
       ["Payment and delivery testing", "Every payment method and delivery option is tested with real orders and refunds, and speed is checked on mobile data."],
-      ["Launch and five free months", "Domain connected, Search Console set up and sitemap submitted, followed by five months of maintenance at no charge."],
+      ["Launch and two free months", "Domain connected, Search Console set up and sitemap submitted, followed by two months of maintenance at no charge."],
     ],
   },
   faqHeading: "Ecommerce website design Singapore: common questions",
   faqs: [
-    { question: "How much does ecommerce website design cost in Singapore?", answer: `Quotes vary widely depending on templates, product data, integrations and platform. With BtechWaleTech, an online store starts at ${P.shop} and a custom-built store at ${P.software}, both quoted in USD with every item listed. Platform subscriptions, apps and payment fees are paid by you directly to those providers, and five months of maintenance are included after launch.` },
+    { question: "How much does ecommerce website design cost in Singapore?", answer: `Quotes vary widely depending on templates, product data, integrations and platform. With BtechWaleTech, an online store starts at ${P.shop} and a custom-built store at ${P.software}, both quoted in USD with every item listed. Platform subscriptions, apps and payment fees are paid by you directly to those providers, and two months of maintenance are included after launch.` },
     { question: "Which platform is best for an online store in Singapore?", answer: "Shopify suits most new and growing stores because hosting, security and checkout are handled for you. WooCommerce suits businesses already on WordPress that want full hosting control. A custom build suits configurators, complex pricing or multi-vendor models. We recommend one in the quote and explain why." },
     { question: "Should I sell on my own website or only on Shopee and Lazada?", answer: "Many sellers do both. Marketplaces bring existing shoppers quickly but hold much of the customer relationship and take fees per order. Your own store builds a customer list, brand and search traffic over time. If you cannot market your own site yet, start with marketplaces and add a store when you can." },
     { question: "How long does it take to design and build an online store?", answer: "Most stores take four to eight weeks from approved scope, and custom builds six to twelve. The biggest variable is how ready your product data and photos are. We send a content checklist on the first day and design with your real products as soon as they arrive." },
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Can a team in India design an online store for Singapore shoppers?", answer: "Yes. We design for Singapore specifics such as PayNow on mobile, block and unit addresses, GST display and local delivery expectations. Singapore is two and a half hours ahead of India, so most of your office day overlaps ours. We do not make site visits, so photography and in-store work stay with you." },
     { question: "How do I pay for the project from Singapore?", answer: "Quotes and invoices are in USD from India, paid by Wise or bank wire against milestones in the written quote. Nothing is billed before you approve that quote. We do not charge Singapore GST; your accountant can advise on recording an overseas service invoice." },
     { question: "Who owns the online store after launch?", answer: "You do. Platform accounts, domain, payment provider accounts and any custom code are in your business's name from the start. We work through invited or collaborator access that you control. At handover you receive notes covering the templates, apps, integrations and settings." },
-    { question: "What maintenance does an online store need?", answer: `Platform and app updates, backups for self-hosted stores, payment and delivery checks, seasonal banners and small fixes. Five months of maintenance are included after launch; afterwards care starts from ${P.care}. Bigger changes such as new templates or integrations are quoted separately.` },
+    { question: "What maintenance does an online store need?", answer: `Platform and app updates, backups for self-hosted stores, payment and delivery checks, seasonal banners and small fixes. Two months of maintenance are included after launch; afterwards care starts from ${P.care}. Bigger changes such as new templates or integrations are quoted separately.` },
     { question: "Can you add a mobile shopping app later?", answer: `Yes. We build Android and iOS apps with Flutter or React Native from ${P.app}, connected to the same product and order data. For most stores, a fast mobile website comes first; an app becomes worthwhile when repeat customers would use it regularly.` },
     { question: "Can you build a wholesale or trade section?", answer: "Yes. Trade buyers can log in to see their own price lists, order in bulk and reorder quickly, while retail shoppers see normal prices. For larger B2B needs, see our dedicated B2B ecommerce page for Singapore distributors and wholesalers." },
     { question: "Do you use reviews and testimonials on the store?", answer: "We set up a review system that collects feedback from real customers after delivery and displays it honestly, including critical reviews. We do not write, import from other sites or invent reviews. A store with fewer genuine reviews builds more trust than one with suspicious ones." },

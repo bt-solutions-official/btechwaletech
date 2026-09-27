@@ -56,7 +56,7 @@ const taliparamba: CityContent = {
     ai: "WhatsApp assistants in Malayalam that answer rate, timing and availability questions and send the tricky chats to you.",
     data: "Dashboards of daily purchase volumes, rates paid, outstanding dues and seasonal sales for trading families.",
     app: "Android and iOS apps for clinic appointments, hostel notices for students or re-orders from village shops, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Trading families in Taliparamba judge people by whether they keep their word on price and time. We publish starting prices, send a written itemised quote, reply on WhatsApp every day of the week, and put the domain, hosting, code and store accounts in your name. When a feature will not earn back its cost, we tell you.",
@@ -182,7 +182,7 @@ const taliparamba: CityContent = {
       heading: "Ownership and maintenance for Taliparamba websites and apps",
       paragraphs: [
         "A common complaint in smaller towns is a website that vanished because the designer registered the domain in their own name and then stopped answering calls. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts in your name, and we hand over every login in writing at launch.",
-        "Maintenance is free for the first five months after launch. That covers content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "Maintenance is free for the first two months after launch. That covers content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
         "Apps need attention every year, because Google and Apple keep changing their rules for published apps. We watch for those changes and update your app in time, so it is not pulled from the stores for falling behind.",
       ],
     },
@@ -279,7 +279,7 @@ const taliparamba: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you choose.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you choose.",
     },
     {
       question: "Do you work in Dharmasala, Alakode and Kannur as well?",

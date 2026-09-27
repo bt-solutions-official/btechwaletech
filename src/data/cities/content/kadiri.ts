@@ -56,7 +56,7 @@ const kadiri: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer price, stock, room and timing questions and pass real orders to you.",
     data: "Dashboards of groundnut bought and sold by lot, dealer credit by village, and lodge occupancy around festival dates.",
     app: "Android and iOS apps from ₹40,000 for a dealer's village retailers to reorder or a school's parents to get notices, published on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Rainfall decides much of Kadiri's business year, so owners here are careful about spending. We publish starting prices, send an itemised written quote, reply on WhatsApp every day of the week, register your domain, hosting, code and app store accounts in your name, and tell you honestly when a smaller step will do.",
@@ -171,7 +171,7 @@ const kadiri: CityContent = {
       heading: "Ownership and maintenance for Kadiri websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and app store accounts are registered in your name, and all logins are handed over in writing. If you stop working with us, everything stays yours and keeps running.",
-        "Maintenance is free for five months after launch, covering content and price updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue, and you can move to any other developer at any time.",
+        "Maintenance is free for two months after launch, covering content and price updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue, and you can move to any other developer at any time.",
         "Apps need at least one update a year to meet Google Play and App Store rules. We track those requirements so your app is not removed.",
       ],
     },
@@ -268,7 +268,7 @@ const kadiri: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you continue. You can move the code and accounts to another developer whenever you want.",
+        "Two months of maintenance are free after launch, covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you continue. You can move the code and accounts to another developer whenever you want.",
     },
     {
       question: "Do you work in Puttaparthi, Dharmavaram and Hindupur too?",

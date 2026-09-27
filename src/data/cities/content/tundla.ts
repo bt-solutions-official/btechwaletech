@@ -56,7 +56,7 @@ const tundla: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rent, rate, batch and timing questions and hand disputes to the owner.",
     data: "Dashboards of bags stored per farmer and chamber, rent due, and sales by product and month.",
     app: "Android and iOS apps for cold store customers checking stock, coaching students or retailers reordering, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for changes, backups and patches.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for changes, backups and patches.",
   },
   whyUsIntro:
     "A railway town learns to value timetables, and Tundla clients ask for the same from us. You get public starting prices, a written quote broken into items, no bill before your approval, WhatsApp answers on all seven days and every domain, hosting account and store listing registered in your own name.",
@@ -167,7 +167,7 @@ const tundla: CityContent = {
       heading: "Website cost in Tundla: starting prices and how to judge quotes",
       paragraphs: [
         "The cheapest option is a static site of up to 100 pages for a shop, clinic, contractor or hotel, starting at ₹10,000 and taking one to two weeks. A 299+ page SEO site, which suits a coaching group or a trader with many products and service areas, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, the same as AI automation.",
-        "Online stores begin at ₹50,000 and take four to eight weeks. Custom software such as a cold storage register begins at ₹60,000 and takes six to twelve weeks. Monthly SEO begins at ₹10,000, and maintenance begins at ₹8,000 a month after the first five months, which are free.",
+        "Online stores begin at ₹50,000 and take four to eight weeks. Custom software such as a cold storage register begins at ₹60,000 and takes six to twelve weeks. Monthly SEO begins at ₹10,000, and maintenance begins at ₹8,000 a month after the first two months, which are free.",
         "Your quote only goes up with things you ask for: two languages, more products or chambers, courier rules, staff logins or a Tally link. Each is listed so you can remove it. Providing your own text and photos keeps you close to the starting figure.",
         "Quotes from designers in Agra and Firozabad differ a great deal for similar work. Check who will own the domain, whether the site is tested on low-cost phones, whether on-page SEO is included, how many revisions you get and what support costs after a year. Our itemised quote arrives in about two working days; start on the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -186,7 +186,7 @@ const tundla: CityContent = {
       heading: "Ownership and upkeep of Tundla websites and apps",
       paragraphs: [
         "Your website or app is your property from the first day. The domain is booked on your email, hosting is billed to you, the source code is handed over, and the Google Play, Apple developer and Google Business Profile accounts are created in your name. A written list of all logins is part of the handover.",
-        "For five months after launch we maintain everything free: rate changes, backups, security patches and checks on forms, UPI payments and WhatsApp buttons. Then the choice is yours: a plan with us from ₹8,000 a month, handling it in-house, or passing the code to another developer with no permission needed from us.",
+        "For two months after launch we maintain everything free: rate changes, backups, security patches and checks on forms, UPI payments and WhatsApp buttons. Then the choice is yours: a plan with us from ₹8,000 a month, handling it in-house, or passing the code to another developer with no permission needed from us.",
         "Apps need at least a yearly update as Google and Apple raise their minimum standards. We watch those deadlines and update early so your listing does not disappear.",
       ],
     },
@@ -278,7 +278,7 @@ const tundla: CityContent = {
     {
       question: "What maintenance comes after launch?",
       answer:
-        "Five months of maintenance are free: updates to rates and content, backups, security patches and checks on forms, UPI checkout and WhatsApp links. After that you can keep a plan with us from ₹8,000 a month or move to another developer. The code and all accounts are yours already.",
+        "Two months of maintenance are free: updates to rates and content, backups, security patches and checks on forms, UPI checkout and WhatsApp links. After that you can keep a plan with us from ₹8,000 a month or move to another developer. The code and all accounts are yours already.",
     },
     {
       question: "Do you work in Etmadpur, Firozabad and Agra too?",

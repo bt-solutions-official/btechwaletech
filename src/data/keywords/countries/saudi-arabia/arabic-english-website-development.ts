@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Bilingual store from", `${P.shop}, 4–8 weeks`],
     ["Direction handling", "HTML dir attribute plus CSS logical properties"],
     ["Arabic copy", "Supplied or approved by you or your translator"],
-    ["After launch", `5 months free maintenance, then from ${P.care}`],
+    ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "2", label: "Languages, each with its own crawlable URLs" },
     { value: "100", label: "Pages included in the starting static plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What makes Arabic English website design different from translating a site?",
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What Arabic English website design costs with us",
-    note: `A bilingual company site of up to 100 pages starts from ${P.site}, counting each language version of a page within the plan. Larger bilingual content and SEO sites start from ${P.seoSite}, bilingual stores from ${P.shop}, and bilingual portals or web apps from ${P.software}. What moves the quote is the number of unique templates, how much content needs structuring into both languages, custom components such as maps, sliders or calculators that need careful RTL work, and whether you want Hijri dates or Arabic-Indic digits in specific places. Arabic copywriting is not in our price; you or your translator provide it. Care after five free months starts from ${P.care}.`,
+    note: `A bilingual company site of up to 100 pages starts from ${P.site}, counting each language version of a page within the plan. Larger bilingual content and SEO sites start from ${P.seoSite}, bilingual stores from ${P.shop}, and bilingual portals or web apps from ${P.software}. What moves the quote is the number of unique templates, how much content needs structuring into both languages, custom components such as maps, sliders or calculators that need careful RTL work, and whether you want Hijri dates or Arabic-Indic digits in specific places. Arabic copywriting is not in our price; you or your translator provide it. Care after two free months starts from ${P.care}.`,
   },
   guideLabel: "Bilingual Arabic and English website guide",
   guide: [
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "In about two working days you get a USD quote covering templates, pages, components and SEO setup. Nothing is billed before your written approval."],
       ["RTL templates on staging", "Templates built with logical CSS appear on a staging link in both directions with placeholder text, for you to check on your own phone."],
       ["Copy import and review", "Your English and Arabic copy goes in, and you review both versions side by side for line breaks, button lengths, dates and digits."],
-      ["Launch and measure both languages", "hreflang and sitemaps go live, both versions are submitted in Search Console, and speed is measured per language before five free months of maintenance begin."],
+      ["Launch and measure both languages", "hreflang and sitemaps go live, both versions are submitted in Search Console, and speed is measured per language before two free months of maintenance begin."],
     ],
   },
   faqHeading: "Arabic English website design: questions Saudi businesses ask",
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
     { question: "Can a team in India build an Arabic English website for a Saudi business?", answer: "Yes. RTL engineering, fonts, URLs and hreflang are technical work that runs well remotely, and your Arabic writer provides the copy. India is 2.5 hours ahead of Saudi Arabia, so there is a long daily overlap in your Sunday–Thursday week. Reviews happen on a staging link you open on your own phone." },
     { question: "Who owns the bilingual website and domain?", answer: "Your business does. The domain, including a .sa domain registered through a licensed registrar, the hosting account and the code repository are set up in your name from the start. We work as invited users you can remove at any time, and at handover you receive notes on how to edit content in both languages." },
     { question: "How do payments and contracts work?", answer: "You receive an itemised quote in US dollars and approve milestones in writing before anything is billed. Payment is by Wise, bank wire or PayPal, with invoices issued from India. Confidentiality and change terms are agreed in your written quote, alongside our published terms. Your accountant advises on how the payment is treated in the Kingdom." },
-    { question: "What maintenance does a bilingual site need?", answer: `Mostly content changes made in both languages, plugin or framework updates, checks that new components still flip correctly, and hreflang staying intact as pages are added. You get five months of free maintenance after launch, and care then starts from ${P.care}. A short checklist helps your own staff add paired pages safely.` },
+    { question: "What maintenance does a bilingual site need?", answer: `Mostly content changes made in both languages, plugin or framework updates, checks that new components still flip correctly, and hreflang staying intact as pages are added. You get two months of free maintenance after launch, and care then starts from ${P.care}. A short checklist helps your own staff add paired pages safely.` },
   ],
   related: {
     heading: "More Saudi Arabia services and guides",

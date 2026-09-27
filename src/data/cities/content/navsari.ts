@@ -7,7 +7,7 @@ const navsari: CityContent = {
   meta: {
     title: "Navsari Website Design, SEO and WhatsApp Automation",
     description:
-      "Websites, local SEO and automation for Navsari traders, chikoo growers, clinics and diamond units. Sites from ₹10,000, with 5 months of free maintenance.",
+      "Websites, local SEO and automation for Navsari traders, chikoo growers, clinics and diamond units. Sites from ₹10,000, with 2 months of free maintenance.",
     keywords: [
       "website development team in Navsari",
       "website designer Navsari",
@@ -30,11 +30,11 @@ const navsari: CityContent = {
     eyebrow: "Navsari · South Gujarat",
     h1: "Websites, apps, SEO and AI automation for Navsari’s traders, growers and professionals",
     lede:
-      "Navsari sits between Surat’s markets and the orchards of Gandevi, and its buyers now check a business on Google before they ring. Our remote team of three engineers builds quick-loading websites, UPI stores and WhatsApp automations, publishes starting prices openly, and looks after every site free for five months after it goes live.",
+      "Navsari sits between Surat’s markets and the orchards of Gandevi, and its buyers now check a business on Google before they ring. Our remote team of three engineers builds quick-loading websites, UPI stores and WhatsApp automations, publishes starting prices openly, and looks after every site free for two months after it goes live.",
     pills: ["Sites from ₹10,000", "Gujarati and English pages", "Chikoo and mango stores with UPI", "WhatsApp order automation", "Domain registered to you"],
   },
   quickAnswer:
-    "For Navsari businesses, our websites start at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores begin from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Navsari office, and every launch includes five months of free maintenance.",
+    "For Navsari businesses, our websites start at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores begin from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Navsari office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Where it sits", value: "About 37 km south of Surat, on the Mumbai–Delhi rail line and NH 48" },
     { label: "Known for", value: "Parsi heritage, Jamsetji Tata’s birthplace, and Dandi of the 1930 Salt March" },
@@ -51,7 +51,7 @@ const navsari: CityContent = {
     ai: "WhatsApp assistants that answer price and availability questions in Gujarati or English and forward serious enquiries to the owner.",
     data: "Season-wise sales and stock dashboards for fruit traders, cold storage owners and distributors covering Gandevi, Chikhli and Jalalpore.",
     app: "Android and iOS apps for farmer orders, patient appointments and student logins on low-cost phones, listed on both app stores from ₹40,000.",
-    maintenance: "Five free months of updates and backups after launch, then maintenance from ₹8,000 a month, timed around mango and wedding seasons.",
+    maintenance: "Two free months of updates and backups after launch, then maintenance from ₹8,000 a month, timed around mango and wedding seasons.",
   },
   whyUsIntro:
     "Navsari buyers are careful with money and quick to compare. We think that suits us: our starting prices are written on the website, the quote lists every page before any payment, and the same three engineers who build your site answer your WhatsApp messages afterwards, seven days a week.",
@@ -72,7 +72,7 @@ const navsari: CityContent = {
       heading: "What a website costs in Navsari with us",
       paragraphs: [
         "We keep our numbers public so you can budget before a single call. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website with 299+ pages, where every service, product line and nearby town gets its own page, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card checkout start at ₹50,000, and custom web applications such as order portals or clinic systems start at ₹60,000.",
-        "AI and WhatsApp automation projects begin at ₹40,000. Ongoing SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the five free months end. The full list sits on our <a href=\"/pricing/\">pricing page</a>.",
+        "AI and WhatsApp automation projects begin at ₹40,000. Ongoing SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the two free months end. The full list sits on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope moves the final figure more than anything else. A tuition class with six pages and a contact form is quick. A fruit trader who wants daily rates, a Gujarati version of every page and a WhatsApp order flow needs more work. Each page and feature is written into the quote, and no invoice is raised until you approve the scope in writing.",
       ],
       list: [
@@ -176,7 +176,7 @@ const navsari: CityContent = {
       paragraphs: [
         "A common Navsari story goes like this: a relative or a local operator made the website years ago, registered the domain in his own name, and is now hard to reach. The business cannot renew, edit or move its own site. We set things up so this never happens to you.",
         "The domain is bought in your name, the hosting account is yours, and at launch you receive every password along with a one-page note explaining what runs where. The source code belongs to you, and you can take it to any developer later without paying us an exit charge.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime checks and speed tests. After that, maintenance starts at ₹8,000 a month, or you can simply message us whenever you need a change and pay for that work alone.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups, uptime checks and speed tests. After that, maintenance starts at ₹8,000 a month, or you can simply message us whenever you need a change and pay for that work alone.",
       ],
     },
     {
@@ -270,9 +270,9 @@ const navsari: CityContent = {
         "You do. The domain is registered in your name, the hosting account belongs to you, and you receive the source code and all logins at launch. You can move to another developer whenever you want, and we charge nothing for handing over.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Text and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks, all free for five months after launch. After that, maintenance starts at ₹8,000 a month, or you can pay only for individual changes when you need them.",
+        "Text and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks, all free for two months after launch. After that, maintenance starts at ₹8,000 a month, or you can pay only for individual changes when you need them.",
     },
     {
       question: "Do you work with businesses in Bilimora, Gandevi, Chikhli and Surat?",

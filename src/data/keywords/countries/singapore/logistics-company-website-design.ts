@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers covering build, integrations and SEO" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform commission on RFQs sent through your own site" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Quote options", value: "Mode-specific RFQ, courier rate calculator, or both" },
       { label: "Existing customers", value: "Tracking lookup and portal login, linked or integrated" },
       { label: "Trust content", value: "Licences, certifications and memberships you actually hold" },
-      { label: "After launch", value: `Five months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `Two months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -201,7 +201,7 @@ const content: FreelanceContent = {
         `With our freelance team, a logistics website starts from ${P.site} for up to 100 pages and takes one to two weeks. Larger lane and industry libraries start from ${P.seoSite}. Instant quote calculators, API tracking and customer portals are custom software from ${P.software}, and RFQ triage automation from ${P.ai}.`,
         `Integrations drive most of the cost variation. A site with RFQ forms and a tracking link out is quick to build. A site where the tracking box queries your TMS, the calculator reads live rate tables and the portal pulls invoices from your accounting system needs proper development and testing against your systems. We price each integration separately so you can phase them.`,
         `Quotes from other web providers vary widely for logistics sites, often because some include integrations and others quietly assume a link out. Ask each provider exactly what the tracking and quote features do, whether they have worked with your TMS's API, who hosts the integration code, and what happens when an API changes. Our itemised quote answers those questions, arrives in about two working days, and nothing is billed before your written approval.`,
-        `After launch, maintenance is free for five months, then from ${P.care}. Integrations need monitoring because external APIs change, so we recommend a care plan for any site with live connections. B2B SEO with new lane and industry pages each month starts from ${P.seo}. See our <a href='/pricing/'>pricing page</a> for every plan.`,
+        `After launch, maintenance is free for two months, then from ${P.care}. Integrations need monitoring because external APIs change, so we recommend a care plan for any site with live connections. B2B SEO with new lane and industry pages each month starts from ${P.seo}. See our <a href='/pricing/'>pricing page</a> for every plan.`,
       ],
     },
     {
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
         ["RFQ triage and follow-up automation", P.ai, "2–4 weeks"],
         ["Driver or customer mobile app", P.app, "6–10 weeks"],
         ["Monthly B2B SEO", P.seo, "Ongoing"],
-        ["Maintenance after the free five months", P.care, "Ongoing"],
+        ["Maintenance after the free two months", P.care, "Ongoing"],
       ],
     },
   ],
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Structure and RFQ forms", "We build the preview site, lane pages from your data, and mode-specific RFQ forms, then test them with your pricing desks."],
       ["Credentials and content review", "Your team confirms every credential, transit range and capability claim before anything is published."],
       ["Integrations in phases", "Tracking, calculator or portal integrations are built against sandbox access, tested with your team, then switched on."],
-      ["Launch and monitoring", "The site goes live on your domain, RFQ routing and analytics are verified, and maintenance is free for five months."],
+      ["Launch and monitoring", "The site goes live on your domain, RFQ routing and analytics are verified, and maintenance is free for two months."],
     ],
   },
   faqHeading: "Logistics company website design in Singapore: common questions",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Does the PDPA apply to B2B logistics enquiries?", answer: "RFQs contain personal data of your buyers' staff, such as names, emails and phone numbers, so the PDPA's notification, protection and retention obligations are relevant. Link a privacy notice from every form, restrict access and delete old unconverted RFQs on a schedule. Your own adviser should confirm your approach." },
     { question: "Is it practical to hire a web team in India for a Singapore logistics website?", answer: "Yes. Logistics sites are mostly systems and data work, which suits remote collaboration. Singapore is two and a half hours ahead of India, so integration testing with your IT team or TMS vendor happens during your working day. All accounts and API credentials stay in your company's name." },
     { question: "Who owns the logistics website and integrations?", answer: "Your company does. The domain, hosting, source code, integration code, API credentials and analytics are set up in your accounts. We hand over access and documentation at launch, including how each integration works, so you or another developer can maintain it later." },
-    { question: "What happens when a carrier or TMS changes its API?", answer: `Integrations need monitoring for exactly this reason. During the five months of free maintenance we handle breaking changes; after that, a care plan from ${P.care} covers monitoring and routine fixes. Larger API changes may need a small project, which we quote before starting.` },
+    { question: "What happens when a carrier or TMS changes its API?", answer: `Integrations need monitoring for exactly this reason. During the two months of free maintenance we handle breaking changes; after that, a care plan from ${P.care} covers monitoring and routine fixes. Larger API changes may need a small project, which we quote before starting.` },
     { question: "How do we pay and contract with a freelance team in India?", answer: "Quotes are in USD and invoices come from India, payable by Wise, bank wire or PayPal. You approve an itemised quote in writing before any billing, and milestones for phased integrations are set out in that quote. Our terms and refund policy pages explain the general approach." },
     { question: "Can you build a driver or customer app for our logistics business?", answer: `Yes. Driver apps for proof of delivery and job updates, or customer apps for booking and tracking, are built in Flutter or React Native and published on Google Play and the App Store in your accounts. Apps start from ${P.app}, usually after the website and core integrations are in place.` },
     { question: "Can you rebuild our existing logistics website?", answer: "Yes. We review which pages bring traffic and RFQs, keep those URLs or redirect them, restructure services and lanes, rebuild quote forms by mode, and check every credential claim. Existing tracking links or portal logins are carried over or improved. The rebuild follows the same starting prices as a new site." },

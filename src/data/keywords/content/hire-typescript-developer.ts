@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Compiler settings", "strict on, plus extra index and optional checks"],
     ["API boundary", "Runtime validation (Zod) at every input"],
     ["Quote", "Itemised within about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers reviewing each other's TypeScript" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
     { value: "0", label: "Marketplace fees added to your invoice" },
   ],
   answer: {
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       id: "rates",
       heading: "How much does it cost to hire a TypeScript developer in India?",
       paragraphs: [
-        `With us, projects are quoted per scope: a typed web app or portal starts at ${P.software} (${P.softwareUsd}), a typed marketing site at ${P.site}, an Android and iOS app in React Native at ${P.app}, and AI features at ${P.ai}. Maintenance after the five free months starts at ${P.care} a month.`,
+        `With us, projects are quoted per scope: a typed web app or portal starts at ${P.software} (${P.softwareUsd}), a typed marketing site at ${P.site}, an Android and iOS app in React Native at ${P.app}, and AI features at ${P.ai}. Maintenance after the two free months starts at ${P.care} a month.`,
         `Elsewhere, TypeScript developer rates vary a lot between hourly contractors, marketplace sellers on Upwork, Toptal or Freelancer.com, agencies and full-time hires. The spread reflects experience, whether code review and testing are included, and who carries the risk if the estimate is wrong. Hourly billing puts that risk on you; a project quote puts more of it on the developer.`,
         `When comparing quotes, line them up on the same scope and ask each candidate the same questions: is strict mode on, is input validated at runtime, is there a CI type check, who reviews the code, and what happens after launch? The cheapest quote often leaves out exactly those lines. For ongoing monthly work instead of a project, see <a href='/dedicated-web-developer/'>dedicated web developer</a>, and for the in-house question see <a href='/in-house-vs-outsourcing-software-development/'>in-house vs outsourcing</a>.`,
       ],
@@ -229,7 +229,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own all of it: the repository, CI pipeline, cloud accounts, domains and any package registry entries are in your name, and we work as collaborators you can remove at any time.`,
         `Handover for a TypeScript project includes a README with local setup and the Node and TypeScript versions, a short note on the tsconfig choices and why they were made, the list of environment variables (names only), how types are shared between packages, and how to run the type check, linter and tests. That package is what lets you hire a TypeScript developer later, in-house or elsewhere, who can pick up the work quickly.`,
-        `The five months after launch include free bug fixes and dependency updates. Anything beyond that, including confidentiality terms or support scope, goes into your written quote; the general rules are on our <a href='/terms/'>terms</a> page.`,
+        `The two months after launch include free bug fixes and dependency updates. Anything beyond that, including confidentiality terms or support scope, goes into your written quote; the general rules are on our <a href='/terms/'>terms</a> page.`,
       ],
     },
     {
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
         ["Typed web app or portal", "Logins, roles, dashboards, typed API, CI checks", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["React Native app", "Android and iOS sharing types with the API", `${P.app} · ${P.appUsd}`, "6–10 weeks"],
         ["AI feature with typed outputs", "LLM calls validated against schemas before use", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Care after 5 free months", "Dependency and compiler updates, fixes, small changes", `${P.care}/month`, "Ongoing"],
+        ["Care after 2 free months", "Dependency and compiler updates, fixes, small changes", `${P.care}/month`, "Ongoing"],
       ],
       hideSm: [1],
     },
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Contract the API first", "Data shapes are written as schemas or routers before screens are built, so front end and back end agree from the first week."],
       ["Build with review and CI", "Every change is read by a second developer, and CI runs the type check, lint and tests before anything reaches staging."],
       ["Staging, launch and handover", "You test on staging, we launch on your accounts, then hand over the README, tsconfig notes and environment list."],
-      ["Five months free, then optional care", "Bug fixes and dependency updates are free for five months after launch; after that, care plans start at the published price."],
+      ["Two months free, then optional care", "Bug fixes and dependency updates are free for two months after launch; after that, care plans start at the published price."],
     ],
   },
   faqHeading: "Hire TypeScript developer: common questions",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Does TypeScript make an app slower?", answer: "No. TypeScript is compiled to JavaScript before it runs, and the types are removed, so users download and run ordinary JavaScript. The extra cost is a build step during development. The TypeScript team reports that TypeScript 7, a native port released in July 2026, is about ten times faster at compiling than earlier versions." },
     { question: "Should my React Native app use TypeScript?", answer: "Yes, in most cases. React Native supports TypeScript well, and sharing types between the app, the web dashboard and the API means a change to an order or user record is checked everywhere at once. That matters more on mobile, where fixing a bug means shipping an app update and waiting for users to install it." },
     { question: "Freelancer or agency: which is better for TypeScript work?", answer: "For a defined project, conversion or audit, a small freelance team gives you direct contact with the developers and code review between them without agency overhead. An agency or in-house team fits better when you need many specialists, daily on-site presence or a large team. We are three developers, so very large programmes are not our fit." },
-    { question: "Can I hire a TypeScript developer for only a few hours a week?", answer: "We work per project rather than selling hours, but a project can be small: a code audit, converting one module, adding validation to an API or setting up CI checks. For continuous monthly work, ask us about a care arrangement, whose scope is agreed in your written quote. After launch, the first five months of maintenance are free." },
+    { question: "Can I hire a TypeScript developer for only a few hours a week?", answer: "We work per project rather than selling hours, but a project can be small: a code audit, converting one module, adding validation to an API or setting up CI checks. For continuous monthly work, ask us about a care arrangement, whose scope is agreed in your written quote. After launch, the first two months of maintenance are free." },
     { question: "How do I test a TypeScript developer before hiring?", answer: "Ask for the tsconfig and one pull request from a recent project, then look for strict mode, runtime validation and few uses of any or casts. Follow up with a paid half-day task: convert a small module from your code to strict TypeScript and add input validation. The resulting diff shows their habits better than an interview." },
     { question: "Who owns the TypeScript code you write?", answer: "You do. The repository, CI, cloud accounts and any package registry entries are in your name from the start, and we work as collaborators you can remove. At handover you receive setup instructions, notes on the compiler settings, the environment variable list and how types are shared, so another developer can continue." },
     { question: "Do you use TypeScript on backend projects too?", answer: "Yes. Our Node, Express and NestJS APIs are written in TypeScript with validated input, typed database access and shared types for front ends. For Python work such as data pipelines or FastAPI services we use Python's type hints instead. Choosing the backend language depends on your project and existing team." },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
     { question: "Will you sign an NDA before looking at our code?", answer: "Ask us when you get in touch. Confidentiality terms are agreed in writing as part of the quote, and our published terms cover the general rules. If you prefer, you can share an anonymised sample or just the compiler's error output before any agreement, which is often enough for a first estimate." },
     { question: "Can a TypeScript developer help with SEO?", answer: "Indirectly. TypeScript itself does not affect rankings, but a TypeScript developer building on Next.js, Nuxt or Astro can render pages on the server, validate SEO fields such as titles and descriptions at build time, and keep pages fast. Our team also includes technical SEO, though nobody can guarantee rankings." },
     { question: "TypeScript developer chahiye, kaise baat karein?", answer: "WhatsApp par project ki details bhejiye, ya agar purana JavaScript code hai to repository ka read access dijiye. Hum code ko measure karke lagbhag do working days mein itemised quote dete hain. Written approval se pehle koi payment nahi, aur repository aur saare accounts shuru se aapke naam par rehte hain." },
-    { question: "What happens after launch?", answer: `For five months after launch we fix bugs and keep TypeScript, frameworks and dependencies updated at no charge. After that, you can continue with a care plan from ${P.care} a month, or hand the project to your own team using the documentation we provide. Support scope is written into your quote.` },
+    { question: "What happens after launch?", answer: `For two months after launch we fix bugs and keep TypeScript, frameworks and dependencies updated at no charge. After that, you can continue with a care plan from ${P.care} a month, or hand the project to your own team using the documentation we provide. Support scope is written into your quote.` },
   ],
   related: {
     heading: "Related hiring and framework pages",

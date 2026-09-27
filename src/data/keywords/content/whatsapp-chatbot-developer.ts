@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Message fees", "Paid by you to Meta or your provider"],
     ["Account owner", "Your Meta business portfolio"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers behind your bot" },
     { value: "24", label: "Hour customer service window after each user message" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Connects to", value: "Google Sheets, CRM, billing, website, booking calendar" },
       { label: "Running costs", value: "Meta message fees, hosting, optional AI usage" },
       { label: "Ownership", value: "WhatsApp account, number and data in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["WhatsApp account", "Linked through the platform", "Sometimes the seller's setup", "Your Meta business portfolio, your number"],
       ["Chat data", "Stored on the platform", "Unclear unless agreed", "Stored in your database or cloud account"],
       ["Opt-in and templates", "Tools provided, rules up to you", "Often skipped", "Designed into the flows from day one"],
-      ["After launch", "Platform support desk", "Paid per fix", `5 months free, then from ${P.care}`],
+      ["After launch", "Platform support desk", "Paid per fix", `2 months free, then from ${P.care}`],
       ["Best for", "Simple menus, low budgets", "One-off small tasks", "Bots tied to your own data and processes"],
     ],
     fine: "If all you need is a greeting message, quick replies and a catalogue for a few dozen chats a day, the free WhatsApp Business app may be enough and no WhatsApp chatbot developer is required.",
@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         ["Replies in the 24-hour window", "Nobody", "Free", "No charge for service replies"],
         ["Bot server hosting", "Your cloud provider", "Depends on volume", "Monthly, in your account"],
         ["AI model usage (if used)", "AI provider", "Depends on volume", "Per use, kept low by caching answers"],
-        ["Maintenance after 5 free months", "BtechWaleTech", `From ${P.care}`, "Monthly, optional"],
+        ["Maintenance after 2 free months", "BtechWaleTech", `From ${P.care}`, "Monthly, optional"],
       ],
       hideSm: [1],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Set up Meta in your name", "On a screen-share we create or check your business portfolio, number, display name and payment method, and you grant us removable developer access."],
       ["Test on your own phone", "The bot runs on a test number first. Your team tries every flow, tries to confuse it, and we adjust wording and logic."],
       ["Soft launch and watch", "Templates go for approval, a small group of customers gets the bot, and we review real chats daily for the first week."],
-      ["Five months of free care", `Fixes, template updates and small flow changes are free for five months. Afterwards, support from ${P.care} is optional and the code stays in your repository.`],
+      ["Two months of free care", `Fixes, template updates and small flow changes are free for two months. Afterwards, support from ${P.care} is optional and the code stays in your repository.`],
     ],
   },
   faqHeading: "WhatsApp chatbot developer: common questions",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "Do I need a WhatsApp chatbot developer or a bot platform subscription?", answer: "A self-serve platform suits simple menu bots with standard connectors and a small budget, though its monthly plan continues indefinitely. A developer suits bots that must read your own data, connect to your systems or follow your specific processes, with the code and chat data kept in your accounts." },
     { question: "Can you connect the WhatsApp bot to Google Sheets or my CRM?", answer: `Yes. Google Sheets, CRMs, billing software, booking calendars and online stores are the most common links. Where a system has no API, we use exports, email parsing or a small custom database as a bridge. Bots that sit inside a larger custom system are quoted from ${P.software}.` },
     { question: "Is my customers' chat data safe with a custom bot?", answer: "Messages are encrypted in transit, and after they reach your bot server the data sits in your own cloud account. We collect only what each flow needs, limit staff access by role, set retention periods and keep sensitive details out of AI prompts. Your business stays responsible for that data under India's data protection law." },
-    { question: "WhatsApp chatbot banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath WhatsApp Business API bot ${P.ai} se shuru hota hai aur 2–4 hafte mein live ho jaata hai. Meta ke message charges alag hain, lekin customer ke message ke 24 ghante ke andar jawab free hote hain. Account aapke naam par rahega, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "WhatsApp chatbot banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath WhatsApp Business API bot ${P.ai} se shuru hota hai aur 2–4 hafte mein live ho jaata hai. Meta ke message charges alag hain, lekin customer ke message ke 24 ghante ke andar jawab free hote hain. Account aapke naam par rahega, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can businesses outside India hire your WhatsApp chatbot developers?", answer: `Yes. Businesses in the UAE, UK, USA and elsewhere, often with customers in India, work with us remotely. Meta's message rates depend on each customer's country, which we factor into the running cost estimate. Builds are billed in USD from ${P.aiUsd} through Wise, bank wire or PayPal.` },
   ],
   related: {
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a WhatsApp chatbot developer to look at your chats?",
-    note: `Send a few typical customer conversations on WhatsApp. You will get proposed flows and an itemised quote in about two working days, bots starting at ${P.ai}, the Meta account in your name, and five months of free maintenance after launch.`,
+    note: `Send a few typical customer conversations on WhatsApp. You will get proposed flows and an itemised quote in about two working days, bots starting at ${P.ai}, the Meta account in your name, and two months of free maintenance after launch.`,
   },
 };
 

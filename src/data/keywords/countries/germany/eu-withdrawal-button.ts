@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "2", label: "Clicks: withdraw, then confirm" },
     { value: "3", label: "Data items the law lists for the form" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance on new builds" },
+    { value: "2", label: "Months of free maintenance on new builds" },
   ],
   answer: {
     heading: "What is the EU withdrawal button and who needs one?",

@@ -36,7 +36,7 @@ const content: CityContent = {
     h1: "Freelance software and IT team for Belonia and South Tripura",
     lede:
       "BtechWaleTech is a freelance group of three engineers providing IT solutions to Belonia, the headquarters of South Tripura, working remotely from India. We build custom software for traders, transporters and institutions, logistics and document tools for border-linked businesses, WhatsApp and AI automation, dashboards, mobile apps, clear information websites and local SEO for the Muhuri river town and its neighbours.",
-    pills: ["Custom software from ₹60,000", "Border trade and logistics tools", "AI automation from ₹40,000", "Websites from ₹10,000", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Border trade and logistics tools", "AI automation from ₹40,000", "Websites from ₹10,000", "2 months free maintenance"],
   },
   quickAnswer:
     "In Belonia, BtechWaleTech, a freelance group of three remote engineers, builds custom software and logistics tools from ₹60,000 (six to twelve weeks), AI and WhatsApp automation from ₹40,000 (two to four weeks), online stores from ₹50,000 and websites from ₹10,000 (one to two weeks). Itemised quotes arrive within about two working days.",
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "WhatsApp and AI agents that answer rate, schedule and document questions, capture enquiries and alert staff to anything urgent.",
     data: "Dashboards showing sales, trips, collections and pending documents for owners managing work across Belonia, Santirbazar and Sabroom.",
     app: "Android and iOS apps from ₹40,000, built in Flutter or React Native and published on both app stores, for drivers, field agents and collection staff across South Tripura.",
-    maintenance: "Content updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Content updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Belonia businesses rarely find a software developer locally and often rely on someone from Agartala who is hard to reach after handover. We are three engineers you message directly, with starting prices on the website and every account kept in your name.",
@@ -177,7 +177,7 @@ const content: CityContent = {
       id: "belonia-costs",
       heading: "How much do IT services cost in Belonia?",
       paragraphs: [
-        "IT services in Belonia with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or logistics tools. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Belonia with BtechWaleTech start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software or logistics tools. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months.",
         "The final price depends on your scope. An information website for a school sits near the starting figure; a trade system with driver apps, document uploads and customer notifications costs more. We send an itemised quote within about two working days, and you can remove anything you do not need. Compare plans on our <a href=\"/pricing/\">pricing page</a>.",
       ],
       list: [
@@ -186,7 +186,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom software or logistics system: from ₹60,000, six to twelve weeks",
-        "Support: five free months, then from ₹8,000 a month",
+        "Support: two free months, then from ₹8,000 a month",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "belonia-ownership-support",
       heading: "Ownership, maintenance and honest limits",
       paragraphs: [
-        "Every Belonia client owns their domain, hosting, source code and data outright and receives five months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. After that, support plans start at ₹8,000 a month, or you can contact us only when needed.",
+        "Every Belonia client owns their domain, hosting, source code and data outright and receives two months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. After that, support plans start at ₹8,000 a month, or you can contact us only when needed.",
         "We are equally clear about limits. As a remote freelance group, we do not repair computers, install office networks or visit Belonia for on-site training; we provide recorded guides and live video sessions instead. We do not give customs or legal advice. And we never promise search rankings, because no honest provider can.",
         "If you want to know more about who we are, read <a href=\"/about/\">about BtechWaleTech</a>, look through our <a href=\"/portfolio/\">portfolio</a>, or browse <a href=\"/services/\">all our services</a>.",
       ],
@@ -269,7 +269,7 @@ const content: CityContent = {
     {
       question: "What happens after the free maintenance ends?",
       answer:
-        "After five free months, you can continue on a maintenance plan from ₹8,000 a month covering updates, fixes, backups and checks, or pay only when you need changes. Either way, you keep full access to your code and hosting. We continue replying on WhatsApp seven days a week.",
+        "After two free months, you can continue on a maintenance plan from ₹8,000 a month covering updates, fixes, backups and checks, or pay only when you need changes. Either way, you keep full access to your code and hosting. We continue replying on WhatsApp seven days a week.",
     },
     {
       question: "Can AI reply to WhatsApp enquiries for my Belonia business?",

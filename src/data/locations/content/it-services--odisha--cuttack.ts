@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Distributor software", "Case tools for advocates", "Android and iOS apps from ₹40,000", "Lead forms and WhatsApp CRM", "Sites from ₹10,000"],
   },
   quickAnswer:
-    "For IT solutions in Cuttack, BtechWaleTech is a freelance group rather than a software development team: websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks by scope. Three engineers work remotely from India; maintenance is free for five months.",
+    "For IT solutions in Cuttack, BtechWaleTech is a freelance group rather than a software development team: websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks by scope. Three engineers work remotely from India; maintenance is free for two months.",
   snapshot: [
     { label: "City character", value: "Odisha's former capital and oldest city, known as the Silver City and the Millennium City, on the delta between the Mahanadi and Kathajodi rivers" },
     { label: "Legal hub", value: "The Orissa High Court, with many advocates' chambers, notaries and legal service providers across the city" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI helpers that read orders and documents, draft routine replies and summarise files, always with a person checking before anything is sent or filed.",
     data: "Dashboards for distributors and multi-outlet retailers that show sales, dues and stock by salesman, route and outlet each morning.",
     app: "Android and iOS apps for Cuttack distributors, clinics and institutes, from ₹40,000: salesman order apps, patient booking apps and student apps on Google Play and the App Store.",
-    maintenance: "Updates, backups, security and small changes handled remotely, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Updates, backups, security and small changes handled remotely, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Cuttack's businesses are often older and more cautious than Bhubaneswar's, and rightly so: many have been burned by software they could not change and vendors who stopped answering. A freelance group that publishes starting prices, builds in small phases and hands over every login suits that caution well.",
@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "support-after-launch-cuttack",
       heading: "What happens after launch: maintenance and support",
       paragraphs: [
-        "After launch, BtechWaleTech maintains your system remotely: security and software updates, backups, bug fixes, uptime checks and small content changes. The first five months are free once hosting is live, and afterwards plans start from ₹8,000 a month, or you can contact us only when something needs doing.",
+        "After launch, BtechWaleTech maintains your system remotely: security and software updates, backups, bug fixes, uptime checks and small content changes. The first two months are free once hosting is live, and afterwards plans start from ₹8,000 a month, or you can contact us only when something needs doing.",
         "We reply on WhatsApp seven days a week, and the engineers who built your system are the ones who fix it. Training is delivered by video, with recorded guides for staff who join later. Hardware, printers and office networks remain the job of a local technician in Cuttack.",
         "Read more <a href=\"/about/\">about the team</a>, see <a href=\"/portfolio/\">examples of our work</a>, or compare with our pages for <a href=\"/it-services/odisha/bhubaneswar/\">Bhubaneswar</a> and the wider <a href=\"/it-services/odisha/\">Odisha hub</a>.",
       ],
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What is covered in free maintenance?",
       answer:
-        "For five months after hosting goes live: security and software updates, backups, uptime checks, bug fixes and small content changes. After that, plans start from ₹8,000 a month, or you can request work only when needed. Your system keeps running on hosting in your name either way.",
+        "For two months after hosting goes live: security and software updates, backups, uptime checks, bug fixes and small content changes. After that, plans start from ₹8,000 a month, or you can request work only when needed. Your system keeps running on hosting in your name either way.",
     },
     {
       question: "Can you connect our software with Tally?",
@@ -299,7 +299,7 @@ const content: CityContent = {
     {
       question: "Can you handle hosting and deployment too?",
       answer:
-        "Yes. We set up hosting, the domain, SSL, email records, backups and monitoring, deploy the system and document everything at handover. The five months of free maintenance begin from the day hosting goes live.",
+        "Yes. We set up hosting, the domain, SSL, email records, backups and monitoring, deploy the system and document everything at handover. The two months of free maintenance begin from the day hosting goes live.",
     },
   ],
   nearby: ["bhubaneswar", "puri", "bhadrak", "baleshwar-town", "brahmapur", "sambalpur", "baripada-town", "raurkela"],

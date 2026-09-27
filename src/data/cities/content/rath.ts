@@ -56,7 +56,7 @@ const rath: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rate, stock, fee and timing questions and pass real decisions to you.",
     data: "Season-wise dashboards of arrivals by crop, farmer payments due, dealer credit and admission enquiries.",
     app: "Android and iOS apps for farmers checking dues with an arhatiya or parents following a school, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Rath businesses work on trust built over years and do not like surprises in a bill. We publish starting prices, send a written itemised quote, answer WhatsApp every day of the week, and keep your domain, hosting, code and app store accounts registered to you. If something will not pay for itself in a season or two, we say so.",
@@ -168,7 +168,7 @@ const rath: CityContent = {
       heading: "Ownership and maintenance for Rath websites and apps",
       paragraphs: [
         "Everything we build is yours in practice, not just on paper. The domain is registered with your email, hosting is billed in your name, the full source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no single person, including us, can lock you out later.",
-        "For five months after launch, maintenance costs you nothing. In that period we update rates and offers before the wedding season, take backups, apply security and version updates, and check that forms, UPI payment and WhatsApp buttons still work. After that, you decide: continue with us from ₹8,000 a month, manage it yourself or give the code to another developer.",
+        "For two months after launch, maintenance costs you nothing. In that period we update rates and offers before the wedding season, take backups, apply security and version updates, and check that forms, UPI payment and WhatsApp buttons still work. After that, you decide: continue with us from ₹8,000 a month, manage it yourself or give the code to another developer.",
         "Apps need a yearly update even when nothing is wrong, because Google and Apple keep raising the minimum versions they accept. We track those deadlines and release the update early, so your app is never taken down for being outdated. More on our <a href=\"/services/web-development/\">website development work</a>.",
       ],
     },
@@ -260,7 +260,7 @@ const rath: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Upkeep is free for five months after launch: we handle price and photo edits, backups, security patches and regular checks of forms, UPI payment and WhatsApp links. After that you can continue from ₹8,000 a month or move on. Since the code and every account are in your name, changing provider needs no permission from us.",
+        "Upkeep is free for two months after launch: we handle price and photo edits, backups, security patches and regular checks of forms, UPI payment and WhatsApp links. After that you can continue from ₹8,000 a month or move on. Since the code and every account are in your name, changing provider needs no permission from us.",
     },
     {
       question: "Do you work in Sarila, Charkhari and Mahoba as well?",

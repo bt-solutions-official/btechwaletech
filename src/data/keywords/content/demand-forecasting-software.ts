@@ -38,11 +38,11 @@ const content: FreelanceContent = {
     ["Reads stock and sales from", "Tally, ERPNext, Busy, store platforms, Excel"],
     ["Output", "Suggested order quantities per SKU"],
     ["Accuracy tracked by", "Weekly error and bias per SKU group"],
-    ["Free upkeep after launch", "5 months"],
+    ["Free upkeep after launch", "2 months"],
   ],
   stats: [
     { value: "0", label: "Per-user licence fees on software we build for you" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "7", label: "Days a week on WhatsApp, in English or Hindi" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Outputs", value: "Weekly SKU forecast, reorder point, suggested purchase quantity" },
       { label: "Forecast pipeline", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Planning app with logins", value: `From ${P.software}, 6–12 weeks` },
-      { label: "After launch", value: `5 months free upkeep, then from ${P.care}` },
+      { label: "After launch", value: `2 months free upkeep, then from ${P.care}` },
     ],
   },
   services: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Handles Indian festival and wedding peaks", "Only as well as the buyer remembers", "Varies; custom events may need configuration", "Your own event calendar is part of the model"],
       ["Scales past a few hundred SKUs", "Becomes slow and error-prone", "Yes", "Yes, forecasts run by SKU group on a schedule"],
       ["Explains each suggestion", "The buyer knows their reasons", "Varies by product", "Every order suggestion shows forecast, stock and lead time"],
-      ["Ongoing cost", "Staff time", "Recurring subscription, often per user or per SKU", `Upkeep from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Staff time", "Recurring subscription, often per user or per SKU", `Upkeep from ${P.care} after 2 free months`],
       ["Who owns the logic", "The buyer's head", "The vendor", "You own the code and data"],
       ["Best for", "Under a hundred active SKUs with stable demand", "Standard ERPs and teams wanting a ready product", "Tally users, unusual seasonality, or custom workflows"],
     ],
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Demand forecasting software pricing",
-    note: `A custom forecasting build has two common shapes. The first is a forecast pipeline: it reads sales and stock data on a schedule, produces SKU-level forecasts and reorder suggestions, and writes them to a Google Sheet or back into your ERP. That starts at ${P.ai} and usually takes 2–4 weeks. The second is a purchase planning web app with buyer logins, overrides, approvals and accuracy dashboards, which is custom software starting at ${P.software}. Both include 5 months of free upkeep, then maintenance from ${P.care}. You own the result, so there are no per-user or per-SKU licence fees.`,
+    note: `A custom forecasting build has two common shapes. The first is a forecast pipeline: it reads sales and stock data on a schedule, produces SKU-level forecasts and reorder suggestions, and writes them to a Google Sheet or back into your ERP. That starts at ${P.ai} and usually takes 2–4 weeks. The second is a purchase planning web app with buyer logins, overrides, approvals and accuracy dashboards, which is custom software starting at ${P.software}. Both include 2 months of free upkeep, then maintenance from ${P.care}. You own the result, so there are no per-user or per-SKU licence fees.`,
   },
   guideLabel: "Demand forecasting software guide",
   guide: [
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       heading: "How much does demand forecasting software cost in India?",
       paragraphs: [
         `Packaged demand forecasting software is usually a recurring subscription priced by users, SKUs or locations, and quotes vary widely between vendors, so compare them on your own catalogue size. A custom build with BtechWaleTech is a one-time project plus optional upkeep.`,
-        `A forecast pipeline that reads your data, forecasts SKUs weekly and writes reorder suggestions to a Sheet or ERP starts at ${P.ai} (${P.aiUsd}). A purchase planning web app with logins, approvals, overrides and accuracy dashboards starts at ${P.software} (${P.softwareUsd}). Both include 5 months of free upkeep; after that maintenance starts at ${P.care}.`,
+        `A forecast pipeline that reads your data, forecasts SKUs weekly and writes reorder suggestions to a Sheet or ERP starts at ${P.ai} (${P.aiUsd}). A purchase planning web app with logins, approvals, overrides and accuracy dashboards starts at ${P.software} (${P.softwareUsd}). Both include 2 months of free upkeep; after that maintenance starts at ${P.care}.`,
       ],
       list: [
         "Number of SKUs and locations to forecast",
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything we build is yours: source code, forecasting scripts, the event calendar, documentation and the cloud account it runs on. There is no licence to renew and no per-user charge.`,
         `This matters because stock planning becomes more valuable the longer it runs. Two years of recorded forecasts, overrides and outcomes is an asset; with a subscription, that history can be hard to extract if you switch. With your own build, it sits in your database and your accountant or a future developer can read it.`,
-        `Handover includes a written guide to the data flow, a list of every rule (service levels, minimums, event dates), and steps to update the calendar each year. After the 5 free months, you can keep us on maintenance from ${P.care}, move it to an in-house developer, or run it as is.`,
+        `Handover includes a written guide to the data flow, a list of every rule (service levels, minimums, event dates), and steps to update the calendar each year. After the 2 free months, you can keep us on maintenance from ${P.care}, move it to an in-house developer, or run it as is.`,
       ],
     },
     {
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
         ["Packaged forecasting SaaS", "Vendor subscription", "Vendor subscription", "Depends on ERP connector", "Supported ERPs, standard seasonality"],
         ["Forecast pipeline to Sheet or ERP", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Tally users, moving festival peaks"],
         ["Purchase planning web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Several buyers, approvals, many suppliers"],
-        ["Upkeep of a custom build", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 5 free months", "Calendar updates, refits, fixes"],
+        ["Upkeep of a custom build", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 2 free months", "Calendar updates, refits, fixes"],
       ],
     },
     {
@@ -404,13 +404,13 @@ const content: FreelanceContent = {
       ["Written, itemised quote", "Scope, timeline and starting price per item arrive in about 2 working days. Work starts only after you approve the quote in writing."],
       ["Back-test on past seasons", "Methods are tested on seasons they have not seen, against a seasonal naive benchmark, and results are explained in plain language."],
       ["Go live with reorder suggestions", "Weekly forecasts and reorder quantities land in your Sheet, report or ERP, each showing forecast, lead time, safety stock and stock on hand."],
-      ["Review, refit, update calendar", "For 5 free months we review accuracy and overrides monthly, refit models and add next year's festival and wedding dates."],
+      ["Review, refit, update calendar", "For 2 free months we review accuracy and overrides monthly, refit models and add next year's festival and wedding dates."],
     ],
   },
   faqHeading: "Demand forecasting software: questions buyers ask",
   faqs: [
     { question: "What is demand forecasting software?", answer: "Demand forecasting software predicts how many units of each product will sell in future periods, usually by week and location, using past sales, seasonality, events and prices. It then converts those predictions into purchase or production suggestions through reorder points and safety stock, so buyers order the right quantity at the right time instead of relying on memory or last year's figures." },
-    { question: "How much does demand forecasting software cost in India?", answer: `Packaged tools are usually subscriptions priced by users, SKUs or locations, and they vary widely by vendor. A custom build with BtechWaleTech starts at ${P.ai} for a forecast pipeline that writes reorder suggestions to a Sheet or ERP, and at ${P.software} for a full purchase planning web app. Both include 5 months of free upkeep before maintenance begins.` },
+    { question: "How much does demand forecasting software cost in India?", answer: `Packaged tools are usually subscriptions priced by users, SKUs or locations, and they vary widely by vendor. A custom build with BtechWaleTech starts at ${P.ai} for a forecast pipeline that writes reorder suggestions to a Sheet or ERP, and at ${P.software} for a full purchase planning web app. Both include 2 months of free upkeep before maintenance begins.` },
     { question: "Is it better to buy or build demand forecasting software?", answer: "Buy when a packaged tool already connects to your ERP, handles your seasons in a trial and suits your team. Build when your data lives in Tally or spreadsheets, your peaks follow moving festival and wedding dates, you need a specific output format, or recurring per-user fees are hard to justify. Businesses with under a hundred stable SKUs may need neither yet." },
     { question: "Can demand forecasting work with Tally data?", answer: "Yes. TallyPrime supports data exchange with other applications through JSON, XML and ODBC according to Tally's integration documentation. We use those to read stock items, godowns, sales and purchase vouchers on a schedule, forecast each SKU, and return reorder suggestions as a report, a Google Sheet or draft purchase orders that a buyer confirms before anything is entered in your books." },
     { question: "How do you forecast demand around Diwali and the wedding season?", answer: "We build an event calendar with the actual dates of each festival, wedding period and sale event for past and future years, because these move every year. The model learns the effect of, say, the three weeks before Diwali rather than a calendar month. Regional events such as Onam, Durga Puja or Pongal are added for businesses selling in those markets." },
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Will the software place purchase orders automatically?", answer: "It can, but we recommend starting with suggestions that a buyer reviews and approves. Suggested quantities appear with the forecast, stock on hand, open orders and lead time, and the buyer confirms or overrides with a reason. Once the numbers earn trust, low-risk items can move to automatic draft purchase orders, while high-value items stay under human approval." },
     { question: "How long does it take to build demand forecasting software?", answer: "A forecast pipeline that writes weekly reorder suggestions to a Sheet or ERP usually takes 2–4 weeks after data access is ready. A purchase planning web app with logins, approvals and dashboards takes 6–12 weeks. Item master cleanup and stock accuracy checks often take more time than the forecasting itself, especially where the same product has several codes." },
     { question: "Does demand forecasting work for manufacturers as well as retailers?", answer: "Yes. Manufacturers forecast finished goods demand from dealer and distributor orders, then translate it into raw material and production requirements using bills of material and lead times. Retailers and distributors forecast sell-through per SKU and location. The methods overlap; what changes is the output, which for manufacturers is usually a production and purchase plan rather than a simple reorder list." },
-    { question: "Who owns the forecasting software you build?", answer: "You own the source code, scripts, event calendar, documentation and the cloud account it runs on. There are no licence renewals or per-user charges. After 5 months of free upkeep you can keep us on maintenance, pass it to an in-house developer, or run it without changes. Your forecast and override history stays in your own database." },
+    { question: "Who owns the forecasting software you build?", answer: "You own the source code, scripts, event calendar, documentation and the cloud account it runs on. There are no licence renewals or per-user charges. After 2 months of free upkeep you can keep us on maintenance, pass it to an in-house developer, or run it without changes. Your forecast and override history stays in your own database." },
     { question: "Can it forecast demand across Amazon, Flipkart and my own store?", answer: "Yes. Sales exports from each marketplace and your own store are combined so each SKU is forecast once on total demand, then split by channel based on recent share. Stock on hand is read from your inventory system. This avoids ordering separately for each channel and helps decide where to place stock when warehouses serve different platforms." },
     { question: "Do I need a data scientist on staff to use it?", answer: "No. The output is written for buyers and owners: forecast quantity, reorder suggestion and the reasons behind it. Updating the event calendar each year and reading the accuracy dashboard need no coding. Model refits are handled during maintenance, and the documentation lets any developer take over later if you prefer to run it in-house." },
     { question: "What if our stock records in Tally are not accurate?", answer: "Then fix that first, because forecasts built on wrong closing stock will order wrongly. During the data review we look for negative stock, duplicate items and suspicious balances and tell you what to correct. A physical count and item master cleanup are done by your team; we provide the lists and checks that show where the records disagree." },

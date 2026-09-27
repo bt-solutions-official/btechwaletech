@@ -26,7 +26,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Website care plans · Australia",
     h1: "Website maintenance services for Australian businesses: what a monthly care plan should actually cover",
-    lede: `Website maintenance services keep an Australian business website patched, backed up, fast and ready if something goes wrong, instead of waiting for a hacked homepage or a broken checkout to force the issue. BtechWaleTech is three freelance developers in India who look after WordPress, WooCommerce, Shopify and custom sites for Australian owners: updates tested on staging, daily off-site backups, uptime alerts, small edits during your afternoon, and a plain monthly report. Care starts from ${P.care}, and sites we build get five months free.`,
+    lede: `Website maintenance services keep an Australian business website patched, backed up, fast and ready if something goes wrong, instead of waiting for a hacked homepage or a broken checkout to force the issue. BtechWaleTech is three freelance developers in India who look after WordPress, WooCommerce, Shopify and custom sites for Australian owners: updates tested on staging, daily off-site backups, uptime alerts, small edits during your afternoon, and a plain monthly report. Care starts from ${P.care}, and sites we build get two months free.`,
     pills: ["WordPress and WooCommerce updates", "Shopify theme and app care", "Daily off-site backups", "Uptime and SSL monitoring", "Breach-ready incident notes", "Small edits in your afternoon", "Monthly written report"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · overlap with Australian afternoons",
   },
@@ -36,17 +36,17 @@ const content: FreelanceContent = {
     ["Backups", "Daily, stored away from your host, restore-tested"],
     ["Edit requests", "WhatsApp or email, handled in AEST/AWST afternoons"],
     ["Reporting", "Monthly summary: updates, uptime, speed, issues"],
-    ["New builds", "5 months of free maintenance after launch"],
+    ["New builds", "2 months of free maintenance after launch"],
   ],
   stats: [
     { value: "3", label: "Developers who can pick up your site" },
-    { value: "5", label: "Free maintenance months on sites we build" },
+    { value: "2", label: "Free maintenance months on sites we build" },
     { value: "7", label: "Days a week we read WhatsApp" },
     { value: "2", label: "Working days to an itemised care quote" },
   ],
   answer: {
     heading: "What should website maintenance services include for an Australian business?",
-    text: `Good website maintenance services cover tested core, plugin and theme updates, daily off-site backups you can actually restore, uptime and SSL monitoring, security patching with a written plan for a suspected data breach, small content edits, speed checks and a monthly report. For Australian businesses, BtechWaleTech care plans start from ${P.care}, and sites we build include five months free.`,
+    text: `Good website maintenance services cover tested core, plugin and theme updates, daily off-site backups you can actually restore, uptime and SSL monitoring, security patching with a written plan for a suspected data breach, small content edits, speed checks and a monthly report. For Australian businesses, BtechWaleTech care plans start from ${P.care}, and sites we build include two months free.`,
     more: `If your site is too old to maintain sensibly, compare the cost of <a href='/australia/website-redesign-services/'>a website redesign</a>. Running WordPress? See our <a href='/australia/wordpress-website-design/'>WordPress website design</a> page too.`,
   },
   snapshot: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What website maintenance services cost",
-    note: `Care plans start from ${P.care}. The monthly figure moves with how many plugins or apps your site runs, whether it takes payments, how often content changes and how much edit time you want included. A brochure site on a lean theme sits near the starting price; a WooCommerce store with subscriptions, bookings and a dozen extensions needs more testing per update. Sites we build get five free months first, then care is optional. For a site someone else built, we start with a one-off health check, quoted separately, so you know what you are inheriting before signing up. Quotes arrive itemised in about two working days, in USD, and nothing is billed without your written approval.`,
+    note: `Care plans start from ${P.care}. The monthly figure moves with how many plugins or apps your site runs, whether it takes payments, how often content changes and how much edit time you want included. A brochure site on a lean theme sits near the starting price; a WooCommerce store with subscriptions, bookings and a dozen extensions needs more testing per update. Sites we build get two free months first, then care is optional. For a site someone else built, we start with a one-off health check, quoted separately, so you know what you are inheriting before signing up. Quotes arrive itemised in about two working days, in USD, and nothing is billed without your written approval.`,
   },
   guideLabel: "Website maintenance services guide",
   guide: [
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `If every monthly update session turns into repairs, the theme or page builder is no longer supported, or the site fails basic speed and accessibility checks no matter what is patched, you are paying for website maintenance services that only prop up a problem. A rebuild often costs less over a year or two than patching it.`,
         `Typical signs: a theme abandoned by its author years ago, a page builder whose updates break layouts, custom code written for an old PHP version your host is retiring, or a store with so many overlapping extensions that nobody knows which one handles shipping. At that point each maintenance hour buys less stability.`,
-        `A rebuilt brochure site starts from ${P.site}, a larger content site from ${P.seoSite} and an online store from ${P.shop}, each with five months of free maintenance before any care plan begins. Our <a href='/australia/website-redesign-services/'>website redesign services</a> page explains how to rebuild without losing Google rankings, which is the main fear most owners have.`,
+        `A rebuilt brochure site starts from ${P.site}, a larger content site from ${P.seoSite} and an online store from ${P.shop}, each with two months of free maintenance before any care plan begins. Our <a href='/australia/website-redesign-services/'>website redesign services</a> page explains how to rebuild without losing Google rankings, which is the main fear most owners have.`,
       ],
     },
     {
@@ -307,7 +307,7 @@ const content: FreelanceContent = {
         ["WooCommerce store", "Extension updates, checkout tests, order backups", "Cart and test checkout each cycle", `From ${P.care}, scope-based`],
         ["Shopify store", "Theme merges, app audits, feed and redirect checks", "Product, collection and cart templates", `From ${P.care}, scope-based`],
         ["Large content site", "Broken links, indexing, speed across templates", "One page per template", `From ${P.care}, scope-based`],
-        ["Site we built", "Same routine", "Same routine", "Free for the first 5 months"],
+        ["Site we built", "Same routine", "Same routine", "Free for the first 2 months"],
       ],
       hideSm: [2],
     },
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
     { question: "What hours can I reach the maintenance team?", answer: "We reply on WhatsApp seven days a week, working to India Standard Time. That lines up with Australian afternoons on the east coast and late morning onwards in Perth. Video calls work best between early afternoon and evening in Sydney, Melbourne and Brisbane. We do not make site visits." },
     { question: "Do you maintain WooCommerce stores?", answer: "Yes. WooCommerce care adds a working test checkout to every update cycle, more careful extension updates, database backups that capture recent orders, and checks on shipping, tax and payment settings after changes. Stores with subscriptions, bookings or many extensions need more testing time, which is reflected in the quote." },
     { question: "Can website maintenance include security hardening?", answer: "Yes. We remove unused plugins and themes, review admin users, switch on two-factor log-in, apply patches once published, restrict file editing in the dashboard and add log-in rate limits where the host allows. We don't sell security certifications and cannot promise a site will never be attacked, but these steps remove the easy entry points." },
-    { question: "Should I maintain my old website or redesign it?", answer: "Maintain it if the platform is supported and updates run without repairs each month. Consider a rebuild if the theme or builder is abandoned, updates keep breaking layouts, or the site stays slow and hard to use whatever is patched. A rebuilt brochure site starts from the static website price, with five months of free maintenance afterwards." },
+    { question: "Should I maintain my old website or redesign it?", answer: "Maintain it if the platform is supported and updates run without repairs each month. Consider a rebuild if the theme or builder is abandoned, updates keep breaking layouts, or the site stays slow and hard to use whatever is patched. A rebuilt brochure site starts from the static website price, with two months of free maintenance afterwards." },
     { question: "Do you also manage email, domains and office IT?", answer: "We watch domain and SSL expiry and can update DNS records connected to the website. We don't administer email servers, office networks, devices or printers. For those, keep a local IT provider. Our work stays with websites, online stores, web apps and the hosting they run on." },
   ],
   related: {

@@ -30,11 +30,11 @@ const vellore: CityContent = {
     eyebrow: "Vellore · Tamil Nadu",
     h1: "Websites, Tamil and English search reach and automation for Vellore's tanneries, CMC-area lodges and Katpadi businesses",
     lede:
-      "Three engineers working remotely for Vellore businesses: leather and footwear exporters, lodges and service apartments that host patients' families near CMC, clinics, pharmacies and labs, shops and eateries around VIT in Katpadi, handloom and match units in Gudiyatham, and retailers on Long Bazaar. Starting prices are public, you deal directly with the engineers, and maintenance is free for five months.",
+      "Three engineers working remotely for Vellore businesses: leather and footwear exporters, lodges and service apartments that host patients' families near CMC, clinics, pharmacies and labs, shops and eateries around VIT in Katpadi, handloom and match units in Gudiyatham, and retailers on Long Bazaar. Starting prices are public, you deal directly with the engineers, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Tamil, English and Hindi pages", "Leather export catalogues", "Patient-family lodge bookings", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Vellore, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, AI or WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no Vellore office; you own the domain and code, and five months of maintenance are free.",
+    "In Vellore, a static website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, AI or WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no Vellore office; you own the domain and code, and two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "On the Palar river, about 135 km west of Chennai on the Chennai–Bengaluru corridor, ringed by hills of the Eastern Ghats" },
     { label: "Healthcare", value: "Christian Medical College, founded in 1900, draws patients from across India and abroad; Government Vellore Medical College also serves the region" },
@@ -51,10 +51,10 @@ const vellore: CityContent = {
     ai: "WhatsApp assistants that answer room availability, OP timings or product questions in Tamil, English or Hindi and pass real conversations to your staff.",
     data: "Dashboards for export orders, occupancy or daily sales so owners can see the month's picture without calling five people.",
     app: "Android and iOS apps for staff attendance, delivery rounds or student notices, available on both app stores with builds starting at ₹40,000.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want to continue.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want to continue.",
   },
   whyUsIntro:
-    "Vellore businesses often weigh a local developer against a Chennai or Bengaluru agency. The first can be hard to reach once the site is live; the second prices in city overheads. We publish starting prices, send itemised written quotes, answer on WhatsApp seven days a week, register everything in your name, and look after the site free for five months.",
+    "Vellore businesses often weigh a local developer against a Chennai or Bengaluru agency. The first can be hard to reach once the site is live; the second prices in city overheads. We publish starting prices, send itemised written quotes, answer on WhatsApp seven days a week, register everything in your name, and look after the site free for two months.",
   pricingIntro:
     "The figures below are where each kind of project starts, not a final bill. Your quote depends on pages, languages, features and how much of the writing and photography we handle. It arrives in writing, item by item, within about two working days, and nothing is charged until you approve it.",
   sections: [
@@ -176,7 +176,7 @@ const vellore: CityContent = {
       paragraphs: [
         "Losing a website to a developer is surprisingly common. The domain was registered in his name, the hosting account used his email, and when he moved to Bengaluru the renewals stopped. The business is left with a dead site and no way to fix even a phone number.",
         "We set things up the other way round. The domain and hosting are in your name and on your payment method from the start. At launch you receive all logins, the full source code and a written handover note. Our <a href=\"/services/web-development/\">web development</a> uses widely known tools, so any capable developer can take over if you ever want. There is no lock-in and no exit fee.",
-        "For five months after launch we handle updates, security patches, backups, uptime monitoring, bug fixes and small content changes at no cost. After that, maintenance continues from ₹8,000 a month, or you can call on us only when needed.",
+        "For two months after launch we handle updates, security patches, backups, uptime monitoring, bug fixes and small content changes at no cost. After that, maintenance continues from ₹8,000 a month, or you can call on us only when needed.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const vellore: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we cover updates, security patches, backups, uptime checks, bug fixes and small changes to text or images. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need help. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months after launch we cover updates, security patches, backups, uptime checks, bug fixes and small changes to text or images. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when you need help. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long does SEO take in Vellore?",

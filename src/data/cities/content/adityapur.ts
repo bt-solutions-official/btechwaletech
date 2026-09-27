@@ -32,10 +32,10 @@ const adityapur: CityContent = {
     h1: "Websites, vendor profiles and shop-floor software for Adityapur's industrial units",
     lede:
       "Three remote engineers building B2B websites, RFQ pages, production and dispatch trackers and WhatsApp tools for the Adityapur industrial belt. We work with auto-component makers, forging, casting and fabrication units, machine shops, tool rooms, traders and service firms in the phases and at Gamharia, and with schools, clinics and shops on the residential side.",
-    pills: ["Websites from ₹10,000", "B2B vendor and RFQ pages", "Production and dispatch tools", "Hindi, Bengali and English", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "B2B vendor and RFQ pages", "Production and dispatch tools", "Hindi, Bengali and English", "2 months free maintenance"],
   },
   quickAnswer:
-    "For an Adityapur unit or shop, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom production or dispatch software at ₹60,000. We work remotely with no Adityapur office and include five months of free maintenance.",
+    "For an Adityapur unit or shop, our static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom production or dispatch software at ₹60,000. We work remotely with no Adityapur office and include two months of free maintenance.",
   snapshot: [
     { label: "Setting", value: "Municipal corporation in Seraikela Kharsawan district, across the Kharkai river from Jamshedpur and part of its urban agglomeration" },
     { label: "Industrial area", value: "Managed by the Adityapur Industrial Area Development Authority, now under JIADA; over 3,200 hectares with more than 1,200 units" },
@@ -52,7 +52,7 @@ const adityapur: CityContent = {
     ai: "WhatsApp and email assistants that sort RFQs, send drawings to the right person and answer routine status questions.",
     data: "Dashboards for output per shift, rejection rates, on-time dispatch and receivables by customer, built from existing sheets.",
     app: "Shop-floor apps for Android phones, tablets and iPhones, so supervisors and quality inspectors log checks on the line; one Flutter build, from ₹40,000.",
-    maintenance: "Five months of free fixes, updates and backups after launch, then support from ₹8,000 a month or charged per job.",
+    maintenance: "Two months of free fixes, updates and backups after launch, then support from ₹8,000 a month or charged per job.",
   },
   whyUsIntro:
     "Adityapur is one of eastern India's largest industrial belts, and most units in it are small and medium firms that sell on relationships. Those relationships increasingly start with a search. We build websites that help a buyer judge your capability quickly, software that brings order to your shop floor, and we price everything openly, starting from published figures.",
@@ -189,7 +189,7 @@ const adityapur: CityContent = {
       paragraphs: [
         "Industrial owners worry, rightly, about being locked in: production data stuck in a vendor's system, a website on someone else's account, or software nobody else can maintain. We design against that from the start.",
         "The domain, hosting and databases are registered in your name. At launch you receive all passwords, the full source code and documentation explaining the setup. Your production and dispatch data can be exported to Excel at any time. You can move to another developer whenever you wish, with no exit fee.",
-        "For five months after launch, maintenance is free: fixes, small changes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or call on us only when needed and pay per job.",
+        "For two months after launch, maintenance is free: fixes, small changes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or call on us only when needed and pay per job.",
         "We also document the database structure and keep a changelog, so an engineer you hire in-house later, perhaps a graduate from NIT Jamshedpur, can extend the system without reverse-engineering it or depending on us.",
       ],
     },
@@ -277,7 +277,7 @@ const adityapur: CityContent = {
     {
       question: "What does maintenance cost after the free period?",
       answer:
-        "The first five months after launch are free, covering fixes, small changes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you contact us only when needed and pay per job.",
+        "The first two months after launch are free, covering fixes, small changes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you contact us only when needed and pay per job.",
     },
     {
       question: "Do you also work in Jamshedpur, Gamharia, Kandra and Chaibasa?",

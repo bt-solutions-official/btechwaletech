@@ -34,13 +34,13 @@ const content: FreelanceContent = {
     ["Large content sites from", P.seoSite],
     ["Typical timeline", "1–2 weeks build, plus inventory and launch checks"],
     ["Redirects", "Every indexed URL mapped, kept at least a year"],
-    ["Aftercare", "5 months free, including post-launch monitoring"],
+    ["Aftercare", "2 months free, including post-launch monitoring"],
     ["Quote", "Itemised in about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Developers: build, technical SEO and project lead" },
     { value: "2", label: "Working days to an itemised redesign quote" },
-    { value: "5", label: "Months of free fixes and monitoring after launch" },
+    { value: "2", label: "Months of free fixes and monitoring after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Platforms we move from", value: "Wix, Squarespace, page-builder WordPress, dated custom sites" },
       { label: "Quality gates", value: "WCAG 2.2 AA checks and Core Web Vitals on a mid-range phone" },
       { label: "Starting price", value: `From ${P.site}; 299+ page sites from ${P.seoSite}` },
-      { label: "After launch", value: `Search Console monitored; 5 months free, then from ${P.care}` },
+      { label: "After launch", value: `Search Console monitored; 2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
       ["Platform choice", "Designer’s favourite builder", "Agency’s preferred stack", "Chosen for your editing needs, explained in writing"],
       ["Accessibility", "Visual check only", "Varies by agency", "WCAG 2.2 AA checklist and keyboard testing"],
       ["Speed testing", "Desktop preview", "Often included", "Core Web Vitals on a mid-range phone"],
-      ["Post-launch monitoring", "Ends at launch", "Paid retainer", "Search Console checks in the free 5 months"],
+      ["Post-launch monitoring", "Ends at launch", "Paid retainer", "Search Console checks in the free 2 months"],
       ["Who holds hosting and domain", "Sometimes the designer", "Sometimes the agency", "You, from day one"],
       ["Meetings", "Varies", "In person possible", "Video calls and WhatsApp; no UK office or site visits"],
       ["Pricing", "Varies widely", "Varies widely, higher overheads", `From ${P.site}, itemised`],
@@ -173,7 +173,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Quotes for website redesign services in the UK vary widely, mostly with the number of URLs, how much content must be rewritten, and the supplier’s overheads. With us, a business site redesign starts at ${P.site}, content-heavy sites of 299+ pages start at ${P.seoSite}, and shop redesigns start at ${P.shop}.`,
         `What moves the number up: a large blog or resource library that needs individual redirects; product catalogues with variants; copy that needs rewriting rather than moving; complex forms such as multi-step quotes; integrations with CRMs or booking tools; and multilingual content. What keeps it down: reusing good copy and photography, a clear list of page types, and a decision-maker who replies within a day or two.`,
-        `Add running costs when you compare. Leaving a hosted builder often reduces monthly fees because you pay for hosting directly, but you then need someone to apply updates. That is what the five free months cover, and afterwards a care plan starts at ${P.care}. For a line-by-line view of UK budgets, see <a href='/uk/website-design-cost/'>how much a website costs in the UK</a>.`,
+        `Add running costs when you compare. Leaving a hosted builder often reduces monthly fees because you pay for hosting directly, but you then need someone to apply updates. That is what the two free months cover, and afterwards a care plan starts at ${P.care}. For a line-by-line view of UK budgets, see <a href='/uk/website-design-cost/'>how much a website costs in the UK</a>.`,
       ],
     },
     {
@@ -244,7 +244,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For the first few weeks after launch, Search Console is the early-warning system: it shows crawl errors, pages Google could not index and changes in clicks well before you would notice them in enquiries.`,
         `We look at four reports. The Pages report shows whether new URLs are being indexed and whether old ones are dropping out as redirects are processed. The Performance report, compared against the same weeks before launch, shows whether clicks and impressions for your main queries hold. The Sitemaps report confirms the new sitemap was read. And the Core Web Vitals report, once it has enough data, confirms real-user speed.`,
-        `Expect some movement; Google says fluctuations are normal while it recrawls. What we watch for is a pattern: a group of queries that falls and stays down, usually pointing at a page that was merged too aggressively or a redirect that goes somewhere unhelpful. Because the inventory records what each old URL ranked for, we can trace a drop to a specific decision and fix it. This monitoring is included in the free five months after launch.`,
+        `Expect some movement; Google says fluctuations are normal while it recrawls. What we watch for is a pattern: a group of queries that falls and stays down, usually pointing at a page that was merged too aggressively or a redirect that goes somewhere unhelpful. Because the inventory records what each old URL ranked for, we can trace a drop to a specific decision and fix it. This monitoring is included in the free two months after launch.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Decide the structure", "You mark each page keep, move, merge or remove. We turn that into a sitemap, page templates and a redirect map for your sign-off."],
       ["Build on staging", "New templates and content go onto a password-protected staging site. You review on your phone and laptop; accessibility and speed checks run against every template."],
       ["Launch on a weekday", "DNS switched on a UK weekday morning, redirects tested, sitemap submitted, every enquiry route checked and confirmed with you on the same day."],
-      ["Monitor and hand over", "Search Console reviewed through the first weeks, issues fixed, and a handover document listing every account. Free fixes run for five months after launch."],
+      ["Monitor and hand over", "Search Console reviewed through the first weeks, issues fixed, and a handover document listing every account. Free fixes run for two months after launch."],
     ],
   },
   faqHeading: "Website redesign services UK: common questions",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Do I need to rewrite all my content for a redesign?", answer: "Usually not. Content that already ranks and converts should move with minimal edits, because rewriting it can change what Google thinks the page is about. Thin, outdated or duplicate pages are better candidates for rewriting or merging. The inventory shows which pages fall into which group, so rewriting effort goes where it helps." },
     { question: "How do you choose the platform for my redesigned site?", answer: "By how you will edit and grow the site. WordPress with a block theme suits most businesses that publish regularly; a static build suits sites that rarely change and need maximum speed; a shop platform suits ecommerce. We explain the choice in the quote. We do not push a platform because it is our favourite." },
     { question: "What does a website redesign checklist include?", answer: "Before launch: inventory, redirect map, content approved, forms tested, accessibility and speed checks, noindex removed. On the day: DNS switch, redirects tested, sitemap submitted, enquiry routes confirmed, cookie consent checked. Afterwards: daily then weekly Search Console reviews, broken-link fixes and a handover of every account and login." },
-    { question: "What ongoing support comes after a redesign?", answer: `Five months of free maintenance after launch, covering fixes, updates and Search Console monitoring. After that you can continue on a care plan from ${P.care} or take the site elsewhere; the code and accounts are yours either way. If you want ongoing content and search work, monthly SEO starts at ${P.seo}.` },
+    { question: "What ongoing support comes after a redesign?", answer: `Two months of free maintenance after launch, covering fixes, updates and Search Console monitoring. After that you can continue on a care plan from ${P.care} or take the site elsewhere; the code and accounts are yours either way. If you want ongoing content and search work, monthly SEO starts at ${P.seo}.` },
     { question: "How do I pay for a website redesign from the UK?", answer: "Quotes are in USD and invoices come from India. You can pay from a GBP business account via Wise, bank wire or PayPal. Nothing is billed before you approve the written quote, and payment stages are set out in that quote. Our terms and refund policy pages explain the general arrangements; ask us about anything specific." },
     { question: "Can you redesign a site for AI search as well as Google?", answer: "The same foundations help both: clear headings, direct answers near the top of pages, accurate structured data, fast pages and consistent business details. We add question-led sections and FAQ content where they genuinely help visitors. Nobody can guarantee citations in AI answers, just as nobody can guarantee rankings, but a clean structure gives you a better chance." },
   ],

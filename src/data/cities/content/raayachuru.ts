@@ -31,11 +31,11 @@ const raayachuru: CityContent = {
     eyebrow: "Raichur (Raayachuru) · Kalyana Karnataka",
     h1: "Websites, search visibility and automation for Raichur's traders, mills and clinics",
     lede:
-      "We are three remote engineers who build websites, dealer catalogues, UPI stores and WhatsApp workflows for Raichur businesses: cotton ginners and rice millers, Gunj Road traders, hospitals near RIMS, colleges and coaching centres, and contractors serving the power stations. Prices are published as starting figures, you speak to the builders directly, and upkeep is free for five months.",
-    pills: ["Sites from ₹10,000", "Kannada, Telugu, Urdu, English", "Rice and cotton trade pages", "Clinic appointment flows", "Five months free upkeep"],
+      "We are three remote engineers who build websites, dealer catalogues, UPI stores and WhatsApp workflows for Raichur businesses: cotton ginners and rice millers, Gunj Road traders, hospitals near RIMS, colleges and coaching centres, and contractors serving the power stations. Prices are published as starting figures, you speak to the builders directly, and upkeep is free for two months.",
+    pills: ["Sites from ₹10,000", "Kannada, Telugu, Urdu, English", "Rice and cotton trade pages", "Clinic appointment flows", "Two months free upkeep"],
   },
   quickAnswer:
-    "In Raichur, a business website with our team starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Raichur office, and the first five months of maintenance cost nothing.",
+    "In Raichur, a business website with our team starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote three-person team with no Raichur office, and the first two months of maintenance cost nothing.",
   snapshot: [
     { label: "Location", value: "Deccan plateau doab between the Krishna and Tungabhadra rivers, near the Telangana and Andhra Pradesh borders" },
     { label: "Known as", value: "“Cotton City”, with a large paddy belt in Sindhanur taluk fed by Tungabhadra water" },
@@ -52,10 +52,10 @@ const raayachuru: CityContent = {
     ai: "WhatsApp replies that give rates, timings, stock and documents in Kannada or English, and pass tricky conversations to your own staff.",
     data: "Daily arrivals, procurement, sales and dues pulled into one dashboard so a mill owner or distributor can see the season at a glance.",
     app: "Android and iOS apps for farmer registrations, dealer orders or patient tokens, published on both app stores with builds starting at ₹40,000.",
-    maintenance: "Five months of updates, backups and security fixes at no charge after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of updates, backups and security fixes at no charge after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Raichur businesses usually find web developers through a relative, a printing press or an agency in Hyderabad or Bengaluru. Few of them write down what they charge or who owns the domain. We publish starting prices, put the domain and hosting in your name, reply on WhatsApp every day of the week and handle maintenance free for five months after the site goes live.",
+    "Raichur businesses usually find web developers through a relative, a printing press or an agency in Hyderabad or Bengaluru. Few of them write down what they charge or who owns the domain. We publish starting prices, put the domain and hosting in your name, reply on WhatsApp every day of the week and handle maintenance free for two months after the site goes live.",
   pricingIntro:
     "The amounts below are starting prices, not packages. A rice mill with twenty products and a dealer portal costs more than a dental clinic with five pages, so we price each job on its actual scope and send you an itemised written quote before any work or billing starts.",
   sections: [
@@ -177,7 +177,7 @@ const raayachuru: CityContent = {
       paragraphs: [
         "A story we hear often: a business in Raichur paid someone years ago, the domain was registered in that person's name, the hosting renewed on his card, and now the website is down with nobody to call. Getting a lost domain back can take weeks, and sometimes it is not possible.",
         "We avoid that from the first day. The domain is registered to you, the hosting account is in your name, and at launch you receive every login, the full source code and a short note on how the site is put together. If you ever want another developer, you can move without paying us anything.",
-        "For five months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that you can continue maintenance from ₹8,000 a month, or simply message us when you need something done.",
+        "For two months after launch, maintenance is free: text and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that you can continue maintenance from ₹8,000 a month, or simply message us when you need something done.",
       ],
     },
     {
@@ -266,9 +266,9 @@ const raayachuru: CityContent = {
         "Yes. The domain is registered in your name, the hosting account is yours, and you receive all logins and the source code at launch. You can move to another developer at any time with no exit fee. We set this up correctly because lost domains are a common problem with older Raichur websites.",
     },
     {
-      question: "What is covered in the five months of free maintenance?",
+      question: "What is covered in the two months of free maintenance?",
       answer:
-        "Text and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks, all at no cost for five months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Text and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks, all at no cost for two months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long does SEO take for a Raichur business?",

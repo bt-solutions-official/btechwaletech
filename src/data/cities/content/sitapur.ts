@@ -32,10 +32,10 @@ const sitapur: CityContent = {
     h1: "Websites, apps, SEO and AI automation for durrie makers, mill suppliers, schools and Neemsar hosts",
     lede:
       "Three engineers working remotely to build websites, local SEO, online stores and WhatsApp automation for Sitapur. We serve durrie weavers and exporters from Khairabad and Laharpur, sugar and paper mill suppliers, wholesalers near Ghanta Ghar, schools, clinics on Eye Hospital Road and dharamshalas serving Naimisharanya pilgrims. Pages in Hindi and English, with published starting prices.",
-    pills: ["Sites from ₹10,000", "Hindi-first pages", "Durrie export catalogues", "Neemsar pilgrim bookings", "Free upkeep for 5 months"],
+    pills: ["Sites from ₹10,000", "Hindi-first pages", "Durrie export catalogues", "Neemsar pilgrim bookings", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "Sitapur businesses can start with a website from ₹10,000, typically ready in one to two weeks. SEO sites with 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores for durries or food products from ₹50,000 and custom software from ₹60,000. We are a remote team with no Sitapur office, and maintenance is free for five months.",
+    "Sitapur businesses can start with a website from ₹10,000, typically ready in one to two weeks. SEO sites with 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores for durries or food products from ₹50,000 and custom software from ₹60,000. We are a remote team with no Sitapur office, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "District headquarters in Lucknow division, about 90 km north of Lucknow on the highway toward Shahjahanpur" },
     { label: "Rail", value: "Two stations, Sitapur Junction and Sitapur City, with broad-gauge links to Lucknow, Lakhimpur, Gonda and Moradabad" },
@@ -52,10 +52,10 @@ const sitapur: CityContent = {
     ai: "WhatsApp replies in Hindi or English for fee, booking and order questions, handing anything delicate to your staff.",
     data: "Dashboards for loom output, seasonal sales or school admissions, built from registers and spreadsheets you already keep.",
     app: "Android and iPhone apps for durrie weaver job cards, dealer orders or staff attendance on basic phones, from ₹40,000 on both app stores.",
-    maintenance: "Free updates, fixes and backups for five months after launch; later maintenance from ₹8,000 a month.",
+    maintenance: "Free updates, fixes and backups for two months after launch; later maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Many Sitapur owners have paid a Lucknow agency that went silent after launch, or a local builder who left the domain in their own name. We put starting prices on the page, write natural Hindi, reply on WhatsApp seven days a week, and look after your site at no charge for five months after launch.",
+    "Many Sitapur owners have paid a Lucknow agency that went silent after launch, or a local builder who left the domain in their own name. We put starting prices on the page, write natural Hindi, reply on WhatsApp seven days a week, and look after your site at no charge for two months after launch.",
   pricingIntro:
     "Below are the prices our Sitapur projects start from, not set packages. The real figure moves with the number of pages, products and languages and the features involved. You receive an itemised written quote before any work begins, and payment is only due after you approve it in writing.",
   sections: [
@@ -176,11 +176,11 @@ const sitapur: CityContent = {
     },
     {
       id: "ownership-maintenance-sitapur",
-      heading: "You own everything, and upkeep is free for five months",
+      heading: "You own everything, and upkeep is free for two months",
       paragraphs: [
         "A common Sitapur complaint is a website that vanished: the developer registered the domain in their own name, stopped answering, and the renewal lapsed. The business lost its site and sometimes its email as well.",
         "We make that impossible from day one. The domain and hosting are in your name, all logins are handed over at launch and the source code belongs to you. You can move to another developer at any time with no exit fee, and we hand over a brief guide explaining how the site is built.",
-        "For five months after launch we cover updates, fixes, security patches, backups and uptime monitoring free of charge. Then maintenance continues from ₹8,000 a month, or you can message us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> details what each build includes.",
+        "For two months after launch we cover updates, fixes, security patches, backups and uptime monitoring free of charge. Then maintenance continues from ₹8,000 a month, or you can message us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> details what each build includes.",
       ],
     },
     {
@@ -271,7 +271,7 @@ const sitapur: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security and software updates, backups and uptime checks without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch we handle content changes, bug fixes, security and software updates, backups and uptime checks without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something done.",
     },
     {
       question: "How soon does SEO start working in Sitapur?",

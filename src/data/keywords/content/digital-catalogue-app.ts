@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Freelance developers build it" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days for your quote" },
     { value: "0", label: "Commission on your orders" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Buying flow", value: "Enquiry cart with quantities and notes, sent to your WhatsApp or panel" },
       { label: "Uploading", value: "Hundreds of photos at once, auto-resized, matched to design numbers" },
       { label: "Price", value: `App from ${P.app}; web catalogue from ${P.shop}` },
-      { label: "After launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a web digital catalogue with sharing, hidden prices and an enquiry cart starts at ${P.shop} (about ${P.shopUsd}); a branded Android and iPhone app starts at ${P.app} (about ${P.appUsd}); and a platform with per-buyer pricing, private catalogues, stock sync and salesperson logins starts at ${P.software} (about ${P.softwareUsd}).`,
         "What moves the price: the number of products and how much data comes with them, trade-specific pricing such as metal-rate formulas, the number of buyer groups and price lists, integration with billing software, AI tagging of photos, and how many images need migrating from old folders. Ready-made catalogue apps charge subscriptions; quotes from other developers vary widely, mostly because of these same factors.",
-        `After launch the first five months of maintenance are free, then from ${P.care} a month. Hosting and image storage are billed to your own cloud account.`,
+        `After launch the first two months of maintenance are free, then from ${P.care} a month. Hosting and image storage are billed to your own cloud account.`,
       ],
     },
     {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Catalogue app", "Branded Android and iPhone app, new-arrival notifications", `From ${P.app}`, `From ${P.appUsd}`],
         ["Catalogue platform", "Per-buyer price lists, private catalogues, stock sync, salesperson logins", `From ${P.software}`, `From ${P.softwareUsd}`],
         ["AI add-ons", "Photo tagging, WhatsApp assistant for buyer questions", `From ${P.ai}`, `From ${P.aiUsd}`],
-        ["Maintenance after 5 free months", "Updates, fixes, store releases", `From ${P.care}/month`, `From ${P.careUsd}/month`],
+        ["Maintenance after 2 free months", "Updates, fixes, store releases", `From ${P.care}/month`, `From ${P.careUsd}/month`],
       ],
       hideSm: [3],
     },
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Photo and data preparation", "Your team names and organises photos using our guide while we build the catalogue and admin panel in parallel."],
       ["Weekly versions with real buyers", "A few trusted buyers try each version on their phones. Their confusion shows us what to simplify before launch."],
       ["Bulk upload and launch", "We load your range, check matching and prices, and you share the first links on WhatsApp with approved buyers."],
-      ["App, handover and support", "The branded app follows if needed. You receive code, logins and guides, and five months of free maintenance begin."],
+      ["App, handover and support", "The branded app follows if needed. You receive code, logins and guides, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Digital catalogue app: questions wholesalers ask",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Can you add AI to tag product photos?", answer: `Yes. AI tagging can group photos by colour, pattern or product type and suggest tags for a person to confirm, which saves hours when you upload large batches. A WhatsApp assistant can also answer common buyer questions about availability. AI add-ons start at ${P.ai}.` },
     { question: "What about buyer privacy?", answer: "Buyer names, shop details and phone numbers are personal data under India's Digital Personal Data Protection Act, 2023. We collect only what you need, limit staff access by role, keep data in your own cloud account and let you delete inactive buyers. Your lawyer should approve the privacy notice shown at sign-up." },
     { question: "Catalogue banane wala app banwana hai, kitna kharcha aayega?", answer: `Web digital catalogue ${P.shop} se shuru hota hai, jisme WhatsApp par link share karna, guest se rate chhupana aur enquiry cart shamil hai. Apne brand ka Android aur iPhone app ${P.app} se shuru hota hai. Photos ek saath bulk me upload hoti hain, aur kaam shuru hone se pehle aapko itemised quote milta hai.` },
-    { question: "What happens after launch?", answer: `Five months of maintenance are free after launch, covering fixes and small changes. After that, maintenance starts at ${P.care} a month for app updates, store releases and support. Hosting and image storage are billed by the provider to your own account, so you always see those costs directly.` },
+    { question: "What happens after launch?", answer: `Two months of maintenance are free after launch, covering fixes and small changes. After that, maintenance starts at ${P.care} a month for app updates, store releases and support. Hosting and image storage are billed by the provider to your own account, so you always see those costs directly.` },
     { question: "How do I pay, and is anything billed upfront?", answer: "Nothing is billed before you approve a written, itemised quote. Payments within India are by UPI or bank transfer, and international clients pay in USD by Wise, bank wire or PayPal. Milestones are agreed in the quote, and our terms and refund policy pages cover the rest." },
   ],
   related: {
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Selling wholesale on WhatsApp? Send us a sample of your range",
-    note: `Message us on WhatsApp with a few product photos, your current catalogue and how many buyers you serve. You will get an itemised quote in about two working days. A digital catalogue app starts at ${P.app}, a web catalogue at ${P.shop}, everything stays in your name, and five months of maintenance come free.`,
+    note: `Message us on WhatsApp with a few product photos, your current catalogue and how many buyers you serve. You will get an itemised quote in about two working days. A digital catalogue app starts at ${P.app}, a web catalogue at ${P.shop}, everything stays in your name, and two months of maintenance come free.`,
   },
 };
 

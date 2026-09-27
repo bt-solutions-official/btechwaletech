@@ -57,7 +57,7 @@ const fatehabad: CityContent = {
     ai: "WhatsApp assistants that send today's crop rates to farmers, confirm clinic slots or share fee details for coaching batches.",
     data: "Dashboards of arrivals, purchases, dues by farmer and dealer sales by village, built from Tally or spreadsheet exports.",
     app: "Android and iOS apps from ₹40,000 for dealers, schools or agents to take orders, share notices and send reminders, published on Google Play and the App Store.",
-    maintenance: "Rate updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Rate updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Fatehabad business owners tend to deal with people they can phone and hold to their word. We keep that spirit with written quotes, public starting prices and quick WhatsApp replies every day of the week. The domain, hosting, code and store accounts are registered to you, so no one can hold your website hostage later.",
@@ -178,7 +178,7 @@ const fatehabad: CityContent = {
       heading: "Website cost in Fatehabad and how to read a quote",
       paragraphs: [
         "The <strong>website cost in Fatehabad</strong> varies widely because quotes cover very different things. One developer includes hosting for a year, another rents you a template you never own, and a third quotes only the design and charges again for every change. Before comparing numbers, check what the quote actually includes.",
-        "Our <a href=\"/pricing/\">starting prices</a> are public: a static website of up to 100 pages from ₹10,000, a 299+ page SEO website from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after five free months.",
+        "Our <a href=\"/pricing/\">starting prices</a> are public: a static website of up to 100 pages from ₹10,000, a 299+ page SEO website from ₹20,000, Android and iOS apps from ₹40,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after two free months.",
         "When comparing local quotes, look for domain and hosting in your name, number of pages and revisions, who writes the Hindi text, mobile speed, whether the admin panel is included and what yearly renewals cost. Our itemised quote lists each of these, and nothing is billed before you approve it in writing.",
       ],
     },
@@ -188,7 +188,7 @@ const fatehabad: CityContent = {
       paragraphs: [
         "We should be plain about this: we have no office in Fatehabad or anywhere in Haryana. We work remotely, reply on WhatsApp seven days a week during Indian working hours, and share progress through calls, screen recordings and a test link you can open on your own phone. Most local clients find this faster than waiting for a visit.",
         "Ownership is not negotiable. Your domain, hosting, source code, Google Business Profile, Play Console and App Store accounts are registered to you or your business. We work with access you grant and can hand everything to another developer at any time without holding anything back.",
-        "After launch, five months of maintenance are free: bug fixes, small text and price changes, backups, updates and uptime checks. After that, maintenance starts at ₹8,000 a month, or you can manage it yourselves with the admin panel. To start, send a short WhatsApp message through our <a href=\"/contact/\">contact page</a> describing your business and what you need.",
+        "After launch, two months of maintenance are free: bug fixes, small text and price changes, backups, updates and uptime checks. After that, maintenance starts at ₹8,000 a month, or you can manage it yourselves with the admin panel. To start, send a short WhatsApp message through our <a href=\"/contact/\">contact page</a> describing your business and what you need.",
       ],
     },
   ],
@@ -270,7 +270,7 @@ const fatehabad: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "The first five months of maintenance are free, covering bug fixes, small content and price changes, backups, updates and uptime monitoring. After that, maintenance starts at ₹8,000 a month. You can also run things yourself through the admin panel, and your accounts remain in your name either way.",
+        "The first two months of maintenance are free, covering bug fixes, small content and price changes, backups, updates and uptime monitoring. After that, maintenance starts at ₹8,000 a month. You can also run things yourself through the admin panel, and your accounts remain in your name either way.",
     },
     {
       question: "Can you build an ecommerce website in Fatehabad for mustard oil or ghee?",

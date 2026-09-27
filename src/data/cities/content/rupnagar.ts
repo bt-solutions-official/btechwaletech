@@ -56,7 +56,7 @@ const rupnagar: CityContent = {
     ai: "WhatsApp assistants that answer room rent, fee, stock and timing questions in Punjabi, Hindi and English and hand real decisions to you.",
     data: "Dashboards of rent collection, admissions by batch, tanker or truck trips and pending payments, updated from sheets you already keep.",
     app: "Android and iOS apps for student housing, coaching institutes or delivery runs between Ropar, Morinda and Nangal, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then maintenance from ₹8,000 a month, including renewals of app store builds.",
+    maintenance: "Two free months of upkeep after launch, then maintenance from ₹8,000 a month, including renewals of app store builds.",
   },
   whyUsIntro:
     "Ropar owners tend to know exactly what they paid for last time and what went wrong. We answer that with published starting prices, a written list of every item before work begins, domain and code registered in your own name, and WhatsApp replies seven days a week on Indian time. If something you ask for will not earn back its cost, we tell you plainly.",
@@ -176,7 +176,7 @@ const rupnagar: CityContent = {
       heading: "Who owns your Ropar website and app, and what upkeep looks like",
       paragraphs: [
         "Everything we build is registered to you from the first day. The domain is booked on your email, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you receive a written sheet of every login, so no developer, including us, can hold your business back later.",
-        "For five months after launch, maintenance is free. That covers price and photo updates, backups, security patches, and regular checks that forms, payments and the WhatsApp button still work. After that, you can keep us on from ₹8,000 a month, manage the site yourself, or give the code to another developer without asking our permission.",
+        "For two months after launch, maintenance is free. That covers price and photo updates, backups, security patches, and regular checks that forms, payments and the WhatsApp button still work. After that, you can keep us on from ₹8,000 a month, manage the site yourself, or give the code to another developer without asking our permission.",
         "Apps need attention even when nothing breaks, because Google and Apple raise the minimum versions they accept each year. We track those deadlines and ship updates early so your listing is not removed. Admission seasons, Hola Mohalla and harvest months are when your pages matter most, so we plan changes ahead of them rather than during."
       ],
     },
@@ -263,7 +263,7 @@ const rupnagar: CityContent = {
     {
       question: "What happens after my website is launched?",
       answer:
-        "The first five months of maintenance are free: updates to prices and photos, backups, security patches and checks on forms and payments. After that you can continue with us from ₹8,000 a month, manage it yourself, or move to another developer. Since every account is yours, switching needs no permission from us.",
+        "The first two months of maintenance are free: updates to prices and photos, backups, security patches and checks on forms and payments. After that you can continue with us from ₹8,000 a month, manage it yourself, or move to another developer. Since every account is yours, switching needs no permission from us.",
     },
     {
       question: "Do you work in Morinda, Nangal, Kiratpur Sahib and Anandpur Sahib?",

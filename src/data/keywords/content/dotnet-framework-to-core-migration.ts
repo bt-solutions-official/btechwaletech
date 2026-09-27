@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Target runtime", ".NET 10 (LTS), unless a dependency forces otherwise"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Approach", "Audit, then phased cutover behind a proxy"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who read your solution file" },
     { value: "2", label: "Working days to an itemised migration quote" },
-    { value: "5", label: "Months of free fixes after cutover" },
+    { value: "2", label: "Months of free fixes after cutover" },
     { value: "0", label: "Rupees billed before your written approval" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Mid-sized app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Downtime", value: "Planned per route, usually none for users" },
       { label: "Ownership", value: "Repository, build scripts and servers stay in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Class libraries and NuGet", note: "Libraries converted to SDK-style projects and multi-targeted so the old app and the new one can share them during the move.", href: "/freelance-backend-developer/", size: "md" },
       { name: "Linux, container and cloud hosting", note: "Deployment moved off IIS where it makes sense, onto Linux servers, containers or Azure App Service, with health checks and logs.", href: "/azure-cloud-consultant/", size: "sm" },
       { name: "Build and release pipeline", note: "Automated build, test and deploy for the new solution so every slice reaches staging the same way.", href: "/ci-cd-pipeline-setup/", size: "sm" },
-      { name: "Care after cutover", note: `Five months of free fixes, then runtime patching and package updates from ${P.care}.`, href: "/it-services/", size: "sm" },
+      { name: "Care after cutover", note: `Two months of free fixes, then runtime patching and package updates from ${P.care}.`, href: "/it-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
         ["AI or WhatsApp automation on the migrated data", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Public marketing site rebuilt next to the app", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
         ["Online ordering store replacing an old ASP.NET shop", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
-        ["Maintenance after the 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after the 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Groundwork on staging", "Project files are modernised, packages updated and characterisation tests written against today’s behaviour, all on a staging copy that never touches your live data."],
       ["Proxy and first slice", "An ASP.NET Core front app goes live in front of the old site with shared sign-in. The first small group of routes moves across and is compared with the old output."],
       ["Slices, services and jobs", "Screens, WCF endpoints and background jobs move in the order agreed, each one tested and released separately, with you approving every release."],
-      ["Retire, document, support", "When the .NET Framework to .NET Core migration is complete, the old app is switched off, the new one runs on your chosen hosting, you receive the handover notes, and five months of free maintenance begin."],
+      ["Retire, document, support", "When the .NET Framework to .NET Core migration is complete, the old app is switched off, the new one runs on your chosen hosting, you receive the handover notes, and two months of free maintenance begin."],
     ],
   },
   faqHeading: ".NET Framework to .NET Core migration: common questions",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
     { question: "Do I have to migrate Entity Framework 6 to EF Core at the same time?", answer: "No. Entity Framework 6 can run on modern .NET, so you can move the web layer first and upgrade the data layer later. This reduces risk because only one major piece changes per release. When you do move to EF Core, heavy queries should be checked, since query translation and loading behaviour differ." },
     { question: "Why hire freelancers instead of a large IT services vendor for a .NET migration?", answer: "A small freelance team suits migrations of business applications with one to a few solutions, where you want to talk to the developers doing the work and approve each phase. A large vendor suits programmes needing dozens of developers, on-site staff or formal procurement. BtechWaleTech is three freelance developers, so we say so when a project is beyond that size." },
     { question: "Who owns the code after the migration?", answer: "You do. The repository, cloud accounts, servers and domain stay in your name or are transferred to you at handover. We document the build and deployment steps so another developer can pick the project up later. Nothing depends on our personal accounts once the project closes." },
-    { question: "What does maintenance cost after a .NET migration?", answer: `The first five months after go-live are free and cover fixes and small adjustments. After that, maintenance is optional and starts at ${P.care} a month, covering .NET runtime patches, package updates, security checks and monitoring. Microsoft ships patches regularly, and staying on the latest patch is required for support.` },
+    { question: "What does maintenance cost after a .NET migration?", answer: `The first two months after go-live are free and cover fixes and small adjustments. After that, maintenance is optional and starts at ${P.care} a month, covering .NET runtime patches, package updates, security checks and monitoring. Microsoft ships patches regularly, and staying on the latest patch is required for support.` },
     { question: "How do you make sure calculations stay the same after migrating?", answer: "Before changing code we write characterisation tests that run real sample inputs, such as orders, invoices or payroll rows, through the old system and record the outputs. The migrated code must produce the same results. Rounding, dates, culture settings and string comparison are checked specifically, since they cause most silent differences." },
     { question: "Can you migrate a .NET Windows Forms or WPF desktop app?", answer: "Windows Forms and WPF can move to modern .NET while staying on Windows, which brings runtime support and newer libraries. If you want the desktop app to become a web app instead, that is a larger project we plan separately. Either way the audit looks at third-party controls first, since they decide most of the effort." },
     { question: "Do you sign an NDA before seeing our source code?", answer: "Yes, you can share your NDA before sending code, and the specific terms are agreed in writing between us. Share read-only repository access or a copy of the solution rather than production credentials during the audit. Our general terms are on the terms page, and anything specific to your project goes into the written quote." },
@@ -444,7 +444,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us your solution and get a phased migration plan",
-    note: `Share repository access or a short description on WhatsApp. You get an audit summary and an itemised, phase-by-phase quote in about two working days, with migration projects from ${P.software} and five months of free maintenance after cutover.`,
+    note: `Share repository access or a short description on WhatsApp. You get an audit summary and an itemised, phase-by-phase quote in about two working days, with migration projects from ${P.software} and two months of free maintenance after cutover.`,
   },
 };
 

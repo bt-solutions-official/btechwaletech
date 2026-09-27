@@ -56,7 +56,7 @@ const tenkasi: CityContent = {
     ai: "Tamil and Malayalam WhatsApp assistants that answer room, rate and timing questions and pass bookings to you.",
     data: "Season dashboards of room occupancy, trade arrivals, sales by town and payments due.",
     app: "Android and iOS apps for Tenkasi schools, hospitals or retailers who re-order from a wholesaler, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Tenkasi businesses have heard plenty of promises from outsiders. We keep ours small and written: starting prices on the website, an itemised quote, replies on WhatsApp all seven days, and your domain, hosting, code and store accounts in your own name. If something is not worth the money for your shop, we will say it.",
@@ -178,7 +178,7 @@ const tenkasi: CityContent = {
       heading: "Ownership, handover and maintenance for Tenkasi websites and apps",
       paragraphs: [
         "The domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts are all registered in your name, and the logins are handed to you in writing. If you ever choose another developer, they can take over without asking us for anything.",
-        "Maintenance is free for the first five months after launch. It covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue.",
+        "Maintenance is free for the first two months after launch. It covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue.",
         "Apps need yearly updates as Google and Apple change their rules. We track these and update your app in time so it stays in the stores.",
       ],
     },
@@ -270,7 +270,7 @@ const tenkasi: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can always move your code to another developer.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can always move your code to another developer.",
     },
     {
       question: "Do you serve Courtallam, Shenkottai and Kadayanallur too?",

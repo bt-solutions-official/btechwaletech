@@ -35,7 +35,7 @@ const deesa: CityContent = {
     pills: ["Websites from ₹10,000", "Cold storage stock tools", "Gujarati and Hindi searches", "WhatsApp rate broadcasts", "Domain and code in your name"],
   },
   quickAnswer:
-    "A website for a Deesa business starts at ₹10,000 and is typically live within one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, the domain and code belong to you, and maintenance is free for five months after launch.",
+    "A website for a Deesa business starts at ₹10,000 and is typically live within one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We work remotely, the domain and code belong to you, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Banaskantha district, north Gujarat, on the east bank of the West Banas river; largest taluka in the district by population" },
     { label: "Main trade", value: "Potatoes, plus groundnut, castor, rapeseed, fennel and millet through APMC Deesa" },
@@ -52,7 +52,7 @@ const deesa: CityContent = {
     ai: "WhatsApp assistants that share approved rates, answer storage and appointment questions in Gujarati or Hindi and log every enquiry.",
     data: "Dashboards showing bags in storage, arrivals, dispatches, rent due and farmer balances drawn from your registers or Tally.",
     app: "Android and iOS apps for loading supervisors, field buyers and hospital queues, from ₹40,000 and released on Google Play and the App Store.",
-    maintenance: "Updates, backups, uptime checks and small edits, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, uptime checks and small edits, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Deesa traders are used to hard bargaining and fast decisions, and they expect the same from a website developer. We publish starting prices, itemise every quote, answer WhatsApp seven days a week and register the domain, hosting and code in your name, so there is nothing hidden to argue about later.",
@@ -111,7 +111,7 @@ const deesa: CityContent = {
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Rate broadcasts, storage queries and appointments.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Snacks, spices and farm products with UPI checkout.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Cold storage stock, purchase ledgers and dealer portals.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -185,7 +185,7 @@ const deesa: CityContent = {
       heading: "Ownership, handover and support after launch",
       paragraphs: [
         "Your domain is registered in your name, the hosting account is yours, and the full code and every password are handed over at launch. If you later want to work with a developer in Deesa, Palanpur or Ahmedabad, you can move freely without our permission and without any transfer fee.",
-        "Maintenance is free for the first five months after launch. It covers security updates, backups, uptime monitoring and small edits such as new rates, doctor timings, product photos or admission notices. After that, maintenance starts at ₹8,000 a month and can be stopped at any time.",
+        "Maintenance is free for the first two months after launch. It covers security updates, backups, uptime monitoring and small edits such as new rates, doctor timings, product photos or admission notices. After that, maintenance starts at ₹8,000 a month and can be stopped at any time.",
         "For software such as cold storage registers, we also train your staff, write short instructions in simple language and keep regular backups, because losing a season's stock data would be far more costly than any website problem. Each month you receive a short summary showing what was checked and what was updated.",
       ],
     },
@@ -273,7 +273,7 @@ const deesa: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Maintenance is free for the first five months after launch and covers updates, backups, monitoring and small edits. After that it costs from ₹8,000 a month and can be cancelled whenever you choose. We can also train your staff to update rates and photos themselves.",
+        "Maintenance is free for the first two months after launch and covers updates, backups, monitoring and small edits. After that it costs from ₹8,000 a month and can be cancelled whenever you choose. We can also train your staff to update rates and photos themselves.",
     },
     {
       question: "Can I sell snacks or spices online from Deesa?",

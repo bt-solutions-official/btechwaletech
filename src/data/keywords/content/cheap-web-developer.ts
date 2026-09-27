@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Time to launch", "1–2 weeks"],
     ["Hidden fees", "None: every line shown in the quote"],
     ["Ownership", "Domain, hosting and code in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "100", label: "Pages allowed in the entry-level static plan" },
     { value: "2", label: "Working days to get an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Middleman or platform fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "What you can postpone", value: "Blog, extra languages, custom illustrations, bookings" },
       { label: "Payment", value: "UPI or bank transfer, in stages after written approval" },
       { label: "Running costs", value: "Domain and hosting renewals paid by you, to the provider" },
-      { label: "Support", value: `5 months free, then optional from ${P.care}` },
+      { label: "Support", value: `2 months free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Moving away later", "Hard: code and access withheld", "Pages cannot be exported cleanly", "Full code and logins handed over"],
       ["Speed on budget phones", "Often heavy", "Depends on template", "Tested on older Android phones"],
       ["Your time needed", "Low", "High: you build it", "Low: a brief and one review round"],
-      ["Help after launch", "Paid per ticket, if at all", "Builder help articles", `5 months free, then from ${P.care}`],
+      ["Help after launch", "Paid per ticket, if at all", "Builder help articles", `2 months free, then from ${P.care}`],
     ],
     fine: "If you have more time than money and only need a one-page profile, a free or low-cost website builder can be a reasonable start; just keep the domain in your own name.",
   },
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
         `Our entry plan is a static website from ${P.site}. “Static” means the pages are built ahead of time and served as plain files, which is why hosting is inexpensive, pages open quickly, and there is very little for attackers to target.`,
         `Here is what that typically covers for a small business: a phone-first design adapted to your logo and colours, the pages you need (up to 100 are allowed, most start with a handful), a contact form that emails you, a click-to-chat WhatsApp button with a prefilled message, a Google Maps embed, page titles and descriptions, a sitemap, schema for your business type, SSL and Google Search Console set up in your account.`,
         `Ankur builds the pages, Santosh handles hosting setup and the technical SEO pieces, and Vedansh keeps the timeline and your questions on track. You deal with all three on one WhatsApp thread.`,
-        `Edits during the first five months after launch are free. After that you can make changes through us from ${P.care}, or take the code elsewhere.`,
+        `Edits during the first two months after launch are free. After that you can make changes through us from ${P.care}, or take the code elsewhere.`,
       ],
     },
     {
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
       heading: "Sasti website chahiye? Pehle yeh padh lijiye",
       paragraphs: [
         `Kam budget mein website banwana bilkul theek hai, bas teen cheezein apne haath mein rakhiye: domain aapke naam par ho, hosting ka login aapke paas ho, aur launch ke baad files ki copy mile. Agar koi developer yeh dene se mana kare, toh daam kitna bhi kam ho, mat lijiye.`,
-        `Hamari sabse chhoti website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur launch ke baad 5 mahine chhote badlav free hain. Pehle likhit, itemised quote milta hai; approval ke baad hi payment. WhatsApp par Hindi ya English mein baat kijiye.`,
+        `Hamari sabse chhoti website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur launch ke baad 2 mahine chhote badlav free hain. Pehle likhit, itemised quote milta hai; approval ke baad hi payment. WhatsApp par Hindi ya English mein baat kijiye.`,
       ],
     },
   ],
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["Domain renewal", "You, directly to the registrar", "Whose account is it in?"],
         ["Hosting renewal", "You, directly to the provider", "What does year two cost?"],
         ["Theme or plugin licences", "Usually none on a static build", "Are all licences genuine and in my name?"],
-        ["Small edits", "Free for 5 months after launch", "How are edits charged after launch?"],
+        ["Small edits", "Free for 2 months after launch", "How are edits charged after launch?"],
         ["Ongoing maintenance", `Optional, from ${P.care}`, "Can I leave with my files any time?"],
         ["Monthly SEO", `Optional, from ${P.seo}`, "Is anyone promising rankings? (They should not.)"],
       ],
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "On a short call you register the domain and hosting under your own email and card, then add us as a user. No markup on either."],
       ["Send text and photos once", "Share your wording and phone photos in one go. We tidy the language, compress the images and build on a private staging link."],
       ["Review, launch, hand over", "One round of changes, then we connect the domain, switch on SSL, set up Search Console and give you the logins and code."],
-      ["Five months of free edits", "Number changes, new photos and small fixes are free for five months. After that, maintenance is optional and starts at " + P.care + "."],
+      ["Two months of free edits", "Number changes, new photos and small fixes are free for two months. After that, maintenance is optional and starts at " + P.care + "."],
     ],
   },
   faqHeading: "Cheap web developer: questions people ask",
@@ -374,12 +374,12 @@ const content: FreelanceContent = {
     { question: "Will a cheap website rank on Google?", answer: `A small site can rank for local searches if it is built correctly: unique titles, clear headings, fast loading, business schema, a sitemap and a matching Google Business Profile. No one can guarantee rankings. Ongoing growth work such as content and citations is separate, and BtechWaleTech’s monthly SEO starts at ${P.seo}.` },
     { question: "What happens if my cheap web developer disappears?", answer: "If the domain, hosting and files are in your name, another developer can take over quickly. If they are not, you may need to contact the registrar to prove ownership, which can take weeks, and you may have to rebuild the site. That is why ownership should be settled before any payment." },
     { question: "How do I pay for a low-cost website?", answer: "Payment should be split into stages, with a modest advance and the balance after you have seen the site on a staging link. BtechWaleTech takes UPI or bank transfer in India and Wise, bank wire or PayPal from abroad. Nothing is billed until you approve the itemised quote in writing." },
-    { question: "Do cheap websites come with maintenance?", answer: `Many do not, or charge for every small change. BtechWaleTech includes five months of free maintenance after launch, covering text changes, photo swaps and small fixes. After that, maintenance is optional and starts at ${P.care}, or you can take your files to anyone else.` },
+    { question: "Do cheap websites come with maintenance?", answer: `Many do not, or charge for every small change. BtechWaleTech includes two months of free maintenance after launch, covering text changes, photo swaps and small fixes. After that, maintenance is optional and starts at ${P.care}, or you can take your files to anyone else.` },
     { question: "Can I upgrade a cheap website later?", answer: `Yes, if it was built on clean, owned code. A small static site from BtechWaleTech can grow into a larger SEO website from ${P.seoSite} or an online store from ${P.shop}, keeping your existing URLs so search visibility carries over. Sites locked into a builder or a seller’s hosting are harder to upgrade.` },
     { question: "Should I use WordPress for a cheap website?", answer: "WordPress suits owners who will edit pages or post often and are willing to keep themes and plugins updated. For a small site that changes rarely, a static build is usually cheaper to host, faster on phones and safer, because there is no dashboard or plugin stack to patch. Choose based on who will make edits." },
     { question: "Is a cheap web developer near me better than a remote one?", answer: "Not necessarily. A nearby developer is easier to meet, but the quality and safety of a site depend on process and ownership terms, not distance. Remote developers share staging links, talk on WhatsApp and video, and take UPI payments. Check live work and written terms whichever you choose." },
     { question: "Can you fix a cheap website that someone else built?", answer: "Often, yes. We start by checking who controls the domain, hosting and files, then look for malware, broken pages and slow templates. If the site can be cleaned and handed to you properly, we fix it. If not, rebuilding on a static plan is sometimes cheaper than repairing a compromised theme." },
-    { question: "Kam budget mein website kaise banwaye?", answer: `Pehle pages kam rakhiye: home, services, about aur contact kaafi hain. Domain apne naam par lijiye aur launch par files ki copy maangiye. BtechWaleTech ke saath static website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur launch ke baad 5 mahine chhote badlav free hain.` },
+    { question: "Kam budget mein website kaise banwaye?", answer: `Pehle pages kam rakhiye: home, services, about aur contact kaafi hain. Domain apne naam par lijiye aur launch par files ki copy maangiye. BtechWaleTech ke saath static website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur launch ke baad 2 mahine chhote badlav free hain.` },
     { question: "Do you offer websites cheaper than your starting price?", answer: `Our static plan from ${P.site} is the lowest starting point we offer, and it already allows up to 100 pages. What we can do is keep the scope small, reuse your own photos and text, and mark optional lines in the quote so you only pay for what you need right now.` },
   ],
   related: {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a cheap web developer you can trust? Tell us your budget",
-    note: `Message us on WhatsApp with your budget and what your business does. You get an itemised, trimmed quote in about two working days, with sites from ${P.site}, the domain in your name and five months of free edits.`,
+    note: `Message us on WhatsApp with your budget and what your business does. You get an itemised, trimmed quote in about two working days, with sites from ${P.site}, the domain in your name and two months of free edits.`,
   },
 };
 

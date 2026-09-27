@@ -31,10 +31,10 @@ const jagdalpur: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Jagdalpur, the market and gateway town of Bastar",
     lede:
       "Jagdalpur is where Bastar comes to trade, study, get treated and set out for Chitrakote. We are three remote engineers who build websites, map listings and WhatsApp systems for its hotels, tour operators, craft sellers, rice and furniture units, clinics and schools, with starting prices written down and every account kept in your name.",
-    pills: ["Sites from ₹10,000", "Tourism and hotel pages", "Hindi, Halbi, English", "Craft stores with UPI", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Tourism and hotel pages", "Hindi, Halbi, English", "Craft stores with UPI", "2 months free upkeep"],
   },
   quickAnswer:
-    "Websites for Jagdalpur businesses begin at ₹10,000 and normally go live within a fortnight. Bigger SEO builds of 299+ pages begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and online shops at ₹50,000. We are a three-person remote team without a Jagdalpur office, and the first five months of upkeep cost nothing.",
+    "Websites for Jagdalpur businesses begin at ₹10,000 and normally go live within a fortnight. Bigger SEO builds of 299+ pages begin at ₹20,000, WhatsApp or AI automation at ₹40,000 and online shops at ₹50,000. We are a three-person remote team without a Jagdalpur office, and the first two months of upkeep cost nothing.",
   snapshot: [
     { label: "Role", value: "Headquarters of Bastar district and Bastar division; former capital of the Bastar princely state" },
     { label: "Population", value: "About 3.25 lakh in the city and 5.67 lakh in the urban area (2011)" },
@@ -51,7 +51,7 @@ const jagdalpur: CityContent = {
     ai: "WhatsApp assistants answering booking, stock and appointment questions in Hindi or English and passing real orders to a person.",
     data: "Dashboards for paddy arrivals, milling output, room occupancy or patient flow, readable on the owner's phone.",
     app: "Android and iOS apps for field staff, tour guides, delivery riders or school parents, listed on Google Play and the App Store in six to ten weeks.",
-    maintenance: "No upkeep bill for five months after launch; after that, support from ₹8,000 a month, or per change for quiet seasons.",
+    maintenance: "No upkeep bill for two months after launch; after that, support from ₹8,000 a month, or per change for quiet seasons.",
   },
   whyUsIntro:
     "A Jagdalpur business may deal with a tourist from Pune, a supplier from Raipur, a buyer in Visakhapatnam and a farming family from Bakawand in the same week. The website needs to serve each of them. We plan it with you over WhatsApp, quote starting prices in writing and hand over all logins at launch.",
@@ -186,7 +186,7 @@ const jagdalpur: CityContent = {
       paragraphs: [
         "We often hear of Jagdalpur businesses whose websites disappeared because the domain was registered in a developer's name and the renewal was missed. The hotel's brochures, travel listings and signboards then pointed to an error page in the middle of the tourist season.",
         "That cannot happen with us, because the domain is booked under your own name and the hosting account is opened with your email. When the site goes live, you are handed each login, a complete copy of the code and a brief written map of how it all fits together. Walk away to any other developer whenever you wish; there is nothing to pay and nothing to request.",
-        "Your first five months after launch carry no maintenance fee: edits, bug fixes, patches, backups and uptime watching are included. From month six, choose a plan from ₹8,000 a month or pay per change. Tourism operators usually keep a plan running from Dussehra through the cold-weather season and drop to pay-per-change once the rains arrive.",
+        "Your first two months after launch carry no maintenance fee: edits, bug fixes, patches, backups and uptime watching are included. From month three, choose a plan from ₹8,000 a month or pay per change. Tourism operators usually keep a plan running from Dussehra through the cold-weather season and drop to pay-per-change once the rains arrive.",
       ],
     },
     {
@@ -280,7 +280,7 @@ const jagdalpur: CityContent = {
         "The owner is you. Domain in your name, hosting under your account, every password and the complete code handed over on launch day. If you later prefer another developer, you simply move; no exit charge, no permission from us.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "It is up to you. A plan from ₹8,000 a month covers backups, patches, software updates and small edits. Or keep no plan and pay for changes as they come. Your website and accounts remain fully yours in both cases.",
     },

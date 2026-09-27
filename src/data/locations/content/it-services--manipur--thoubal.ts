@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer routine questions and collect orders, with simple fixed Meitei replies and a person handling decisions.",
     data: "Simple dashboards for cooperatives, SHGs and fisheries societies that pull members' records into one clear view.",
     app: "Android and iOS apps for Thoubal weaving groups, schools, traders and field staff, built in Flutter or React Native and able to work offline.",
-    maintenance: "Backups, fixes and updates, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Backups, fixes and updates, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Most Thoubal businesses are small, family-run and careful with money. We keep builds small, prices visible and communication in plain language, and the engineers you message are the ones doing the work.",
@@ -118,7 +118,7 @@ const content: CityContent = {
       paragraphs: [
         "A mobile website for a Thoubal shop or service is a small, fast site designed first for phones, with a tap-to-call button, a WhatsApp button, directions, opening hours and clear service or product pages. It helps customers who search for you, or who were told about you, reach you in seconds instead of asking around.",
         "Contact flows turn visitors into enquiries: a short form that goes straight to WhatsApp, a booking request with a preferred time, or a price request for a specific product. Every enquiry is logged so nothing is lost if a phone is busy. For clinics, tailors, repair shops, tuition centres and transport operators, that alone can make a noticeable difference.",
-        "We build these sites with Astro so they load quickly even on slow connections and cost very little to host. Static websites start at ₹10,000 and are usually live in one to two weeks. You can update text and photos yourself, or ask us, with five months of maintenance included free.",
+        "We build these sites with Astro so they load quickly even on slow connections and cost very little to host. Static websites start at ₹10,000 and are usually live in one to two weeks. You can update text and photos yourself, or ask us, with two months of maintenance included free.",
       ],
     },
     {
@@ -197,7 +197,7 @@ const content: CityContent = {
       id: "cost-choose-thoubal",
       heading: "What does IT work cost in Thoubal, and how do you choose who to hire?",
       paragraphs: [
-        "IT work for a Thoubal business with BtechWaleTech starts at ₹10,000 for a static mobile website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after five free months. Full details are on the <a href='/pricing/'>pricing page</a>.",
+        "IT work for a Thoubal business with BtechWaleTech starts at ₹10,000 for a static mobile website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after two free months. Full details are on the <a href='/pricing/'>pricing page</a>.",
         "If you are comparing a software development team for Thoubal with a freelance team, look at who writes the code, whether the scope and price are written down, whether the domain, hosting and code will be in your name, and what support costs after launch. A local provider can visit for hardware; a remote freelance group cannot, but usually costs less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in agreed milestones. You can see earlier work in our <a href='/portfolio/'>portfolio</a> and read about us on the <a href='/about/'>about page</a>.",
       ],
@@ -215,7 +215,7 @@ const content: CityContent = {
       paragraphs: [
         "Hosting and IT support for Thoubal clients are handled remotely: we deploy your site or software on reliable managed cloud hosting such as AWS, set up SSL and backups, and fix issues or update content through WhatsApp requests. For hardware, networks and printers, we recommend a trusted local technician.",
         "Getting started is simple. Send a WhatsApp message describing your business and the problem you want solved, with photos of any registers or forms you use today. We reply with questions, then an itemised quote within about two working days. Nothing is billed until you approve the scope in writing.",
-        "At launch you receive the source code, credentials and a short guide, followed by five months of free maintenance. See all our <a href='/services/'>services</a>, the nearby <a href='/it-services/manipur/imphal/'>Imphal page</a>, or the statewide <a href='/it-services/manipur/'>Manipur IT services hub</a>.",
+        "At launch you receive the source code, credentials and a short guide, followed by two months of free maintenance. See all our <a href='/services/'>services</a>, the nearby <a href='/it-services/manipur/imphal/'>Imphal page</a>, or the statewide <a href='/it-services/manipur/'>Manipur IT services hub</a>.",
       ],
     },
   ],
@@ -285,7 +285,7 @@ const content: CityContent = {
     {
       question: "What happens after the website or software goes live?",
       answer:
-        "You get five months of maintenance free: bug fixes, small text and photo updates, backups, security updates and uptime checks. After that, you can choose a monthly plan from ₹8,000 or simply message us when you need something changed, with the cost confirmed before we start.",
+        "You get two months of maintenance free: bug fixes, small text and photo updates, backups, security updates and uptime checks. After that, you can choose a monthly plan from ₹8,000 or simply message us when you need something changed, with the cost confirmed before we start.",
     },
     {
       question: "Is AI automation worth it for a small business?",

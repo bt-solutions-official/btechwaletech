@@ -35,7 +35,7 @@ const jehanabad: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and Magahi-friendly text", "Sattu and besan stores", "Clinic and school sites", "WhatsApp enquiry flows"],
   },
   quickAnswer:
-    "A basic website for a Jehanabad business starts at ₹10,000 with us and is live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely without a Jehanabad office, and the first five months of maintenance are free.",
+    "A basic website for a Jehanabad business starts at ₹10,000 with us and is live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely without a Jehanabad office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Jehanabad district in Magadh division, formed on 1 August 1986 from the former Gaya sub-division" },
     { label: "Location", value: "On the Patna–Gaya rail line and highway, near the confluence of the Dardha and Jamuna rivers, between Patna and Gaya" },
@@ -52,7 +52,7 @@ const jehanabad: CityContent = {
     ai: "WhatsApp replies in Hindi that answer price, timing and admission questions around the clock and forward serious enquiries to the owner.",
     data: "Weekly dashboards of sales, purchases or admissions that an owner can read on a phone without opening several registers.",
     app: "Android and iOS apps for delivery rounds, test schedules or attendance that work on weak signal, published on both app stores from ₹40,000.",
-    maintenance: "Backups, updates, security checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Backups, updates, security checks and small edits free for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Most Jehanabad firms either have no website or have one made by an acquaintance or a Patna agency that nobody can update any more. We are a small remote team with starting prices on the page, itemised quotes in writing, direct access to the engineers and every login handed to you at launch.",
@@ -166,11 +166,11 @@ const jehanabad: CityContent = {
     },
     {
       id: "ownership-jehanabad",
-      heading: "Your website stays yours, with free upkeep for five months",
+      heading: "Your website stays yours, with free upkeep for two months",
       paragraphs: [
         "A frequent problem in smaller towns: the person who made the website registered the domain in his own name, and when he changed his number the business lost control of its own site. Renewal notices went to him, the site expired, and the name was gone.",
         "We register the domain and hosting in your name, paid from your account. At launch you receive all logins, the complete code and a short written note on how the site works. If you ever want another developer, give them those details and they can continue. No exit fee, nothing held back.",
-        "For the first five months after launch we maintain the site free: updates, backups, security, uptime checks, bug fixes and small text or photo changes. After that you can keep maintenance going from ₹8,000 a month, or call us only when you need something.",
+        "For the first two months after launch we maintain the site free: updates, backups, security, uptime checks, bug fixes and small text or photo changes. After that you can keep maintenance going from ₹8,000 a month, or call us only when you need something.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const jehanabad: CityContent = {
     {
       question: "What happens after the website is launched?",
       answer:
-        "For five months we maintain it free, covering updates, backups, security fixes, uptime checks and small edits. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months we maintain it free, covering updates, backups, security fixes, uptime checks and small edits. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long before local SEO works in Jehanabad?",

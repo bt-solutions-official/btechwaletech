@@ -58,7 +58,7 @@ const nidadavole: CityContent = {
     ai: "Telugu WhatsApp assistants that quote paddy and bag rates, confirm lorry availability and take booking details before your staff wake up.",
     data: "Dashboards for season intake by farmer, outturn per lot, bags despatched by destination and money still to collect.",
     app: "Android and iOS apps for Nidadavole mill supervisors, lorry fleets or school parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after go-live, then from ₹8,000 a month for content edits, backups, patches and form checks.",
+    maintenance: "Two months of free upkeep after go-live, then from ₹8,000 a month for content edits, backups, patches and form checks.",
   },
   whyUsIntro:
     "Delta business is settled on relationships, so a stranger asking for a bank transfer needs to show their working. We put the scope, the item list and the dates in writing, register the domain and code in your name on day one, and answer WhatsApp seven days a week. If the cheaper option does your job, we point at the cheaper option.",
@@ -186,7 +186,7 @@ const nidadavole: CityContent = {
       heading: "Ownership, handover and maintenance for Nidadavole clients",
       paragraphs: [
         "Ownership is not negotiable and it is not a favour. Your domain is booked on your email, hosting is billed in your name, the whole source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as the owner. A written sheet of every login is part of handover. No developer, us included, should ever be able to switch your business off.",
-        "Maintenance costs nothing for five months after launch. In that stretch we edit rates and photographs, take backups, apply security and version updates, and test the enquiry form, the payment step and the WhatsApp link from time to time. At the end you decide freely: continue with us from ₹8,000 a month, hire somebody in Rajahmundry, or run it yourself with the logins you already hold.",
+        "Maintenance costs nothing for two months after launch. In that stretch we edit rates and photographs, take backups, apply security and version updates, and test the enquiry form, the payment step and the WhatsApp link from time to time. At the end you decide freely: continue with us from ₹8,000 a month, hire somebody in Rajahmundry, or run it yourself with the logins you already hold.",
         "Apps carry a separate obligation. Google and Apple raise the minimum versions they will accept every year and remove listings that fall behind, whether or not the app still works. For app clients we watch those dates and ship the rebuild ahead of the deadline, which is cheaper and much less embarrassing than a removal notice during admission or harvest season.",
       ],
     },
@@ -283,7 +283,7 @@ const nidadavole: CityContent = {
     {
       question: "What does maintenance include after launch?",
       answer:
-        "For five months after go-live it costs nothing: rate and photo edits, backups, security patches, version updates and periodic checks of your forms, payment step and WhatsApp link. After that you may continue from ₹8,000 a month or stop. Because the code and every account are already registered to you, moving to another developer needs no clearance from us.",
+        "For two months after go-live it costs nothing: rate and photo edits, backups, security patches, version updates and periodic checks of your forms, payment step and WhatsApp link. After that you may continue from ₹8,000 a month or stop. Because the code and every account are already registered to you, moving to another developer needs no clearance from us.",
     },
     {
       question: "Do you also work in Kovvur, Tanuku and Rajahmundry?",

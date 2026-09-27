@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who build, test and tune the agent" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free tuning and fixes after launch" },
+    { value: "2", label: "Months of free tuning and fixes after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Emergencies", value: "Transferred to your mobile or texted instantly, by your rules" },
       { label: "Compliance support", value: "AI and recording notice at the start of every call" },
       { label: "Starting price", value: `Custom builds from ${P.ai}, running costs on your accounts` },
-      { label: "Afterwards", value: `5 months free tuning, then from ${P.care}` },
+      { label: "Afterwards", value: `2 months free tuning, then from ${P.care}` },
     ],
   },
   services: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What an AI receptionist costs to build and run",
-    note: `A custom AI receptionist starts from ${P.ai}, covering the call flow, your knowledge base, one booking integration, triage rules, call summaries and testing. Running costs are separate and paid to providers in your name: a phone number and call minutes from a telephony provider, speech recognition and voice, and AI model usage. For small-business call volumes these are usually modest, and we estimate them from your real call counts before you commit. Compare that with per-minute subscription pricing at your volume. After launch, five months of tuning are free, then upkeep starts from ${P.care}.`,
+    note: `A custom AI receptionist starts from ${P.ai}, covering the call flow, your knowledge base, one booking integration, triage rules, call summaries and testing. Running costs are separate and paid to providers in your name: a phone number and call minutes from a telephony provider, speech recognition and voice, and AI model usage. For small-business call volumes these are usually modest, and we estimate them from your real call counts before you commit. Compare that with per-minute subscription pricing at your volume. After launch, two months of tuning are free, then upkeep starts from ${P.care}.`,
   },
   guideLabel: "AI receptionist for small business: Australian guide",
   guide: [
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Receive the quote", "In about two working days you get an itemised USD quote plus a running-cost estimate from your own call volumes, compared with subscription options."],
       ["Build and test", "After written approval, we build in accounts you own, connect your booking system and run test calls with varied voices and background noise."],
       ["Go live gradually", "Start with after-hours calls only, review transcripts daily, then add in-hours missed calls once summaries and bookings look right."],
-      ["Tune and support", `Five months of free tuning follow launch. Afterwards, upkeep plans start from ${P.care}, or you edit the knowledge base yourself.`],
+      ["Tune and support", `Two months of free tuning follow launch. Afterwards, upkeep plans start from ${P.care}, or you edit the knowledge base yourself.`],
     ],
   },
   faqHeading: "AI receptionist for small business in Australia: FAQs",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Where are call recordings and transcripts stored?", answer: "In accounts registered to your business, with the providers and regions stated in the written scope. You set retention periods, and you can choose to keep only text summaries with no audio. We use business API accounts rather than consumer AI tools for every step." },
     { question: "How long does it take to set up?", answer: "Most single-location setups take 2–4 weeks: a week for rules and scope, a week to build and connect bookings, then testing and a gradual go-live, starting with after-hours calls. Clinic rules, several locations or an on-call roster can add a week." },
     { question: "Can the AI receptionist take payments or quote prices?", answer: "We do not build it to take card payments over the phone or to quote firm prices for unseen work. It can describe how pricing works in words you approve, such as whether a call-out fee applies, and book a quote visit or callback instead." },
-    { question: "What if the AI gets something wrong?", answer: "Every call produces a transcript and summary, so mistakes are visible. In the first month we review transcripts with you weekly and fix misheard suburbs, missing services or awkward questions. During the five free months after launch, tuning is included; after that, upkeep starts from the maintenance plan." },
+    { question: "What if the AI gets something wrong?", answer: "Every call produces a transcript and summary, so mistakes are visible. In the first month we review transcripts with you weekly and fix misheard suburbs, missing services or awkward questions. During the two free months after launch, tuning is included; after that, upkeep starts from the maintenance plan." },
     { question: "Can a team in India build an AI receptionist for my Australian business?", answer: "Yes. The work is done in accounts you own and tested with real calls from Australia. We hold calls in your afternoon, which is our morning, answer WhatsApp seven days a week, and quote in USD, paid by Wise, wire or PayPal. Your lawyer checks the recording notice." },
     { question: "Can the same AI answer website chat?", answer: "Yes. The knowledge base behind the phone agent can also power a website chat assistant, clearly labelled as AI, that answers questions, captures details and offers bookings. Enquiries from both channels arrive in the same place with the same summaries." },
     { question: "How do I know if the AI receptionist is paying off?", answer: "Compare your carrier's missed-call records before and after launch, and track bookings or qualified enquiries created by the agent, calls handed to a person and early hang-ups. If callers stop disappearing and response times drop, it is working; if not, we tune it or you switch it off." },

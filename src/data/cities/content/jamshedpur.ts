@@ -34,7 +34,7 @@ const jamshedpur: CityContent = {
     pills: ["From ₹10,000", "Vendor-ready company profiles", "Order and job trackers", "Hindi and Bengali-friendly SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "Jamshedpur businesses can get a static website from us from ₹10,000 in one to two weeks, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app such as an order or job tracker from ₹60,000. We work remotely with no Jamshedpur office, and maintenance is free for five months after launch.",
+    "Jamshedpur businesses can get a static website from us from ₹10,000 in one to two weeks, a 299+ page SEO site from ₹20,000, an online store from ₹50,000 and a custom web app such as an order or job tracker from ₹60,000. We work remotely with no Jamshedpur office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Anchor industries", value: "Tata Steel's integrated works, the Tata Motors commercial vehicle plant at Telco, and the Tinplate works at Golmuri" },
     { label: "Ancillary belt", value: "Adityapur Industrial Area across the Kharkai, with several hundred auto-component, forging, casting and fabrication units" },
@@ -51,7 +51,7 @@ const jamshedpur: CityContent = {
     ai: "WhatsApp assistants that handle enquiries, order status and appointment bookings in Hindi, English or Bengali, with staff handover.",
     data: "Dashboards for production, rejection rates, receivables and orders, built from Tally, ERP exports and Excel sheets.",
     app: "Android and iPhone apps for supervisors, site engineers and sales reps on shop-floor networks, built in Flutter or React Native from ₹40,000.",
-    maintenance: "Content updates, security patches, backups and small fixes free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content updates, security patches, backups and small fixes free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Jamshedpur business owners are used to process: purchase orders, vendor codes, audits. Website work here is often the opposite, with verbal quotes and passwords that vanish. We publish prices, send a written itemised quote, register everything in your name and answer WhatsApp messages seven days a week.",
@@ -182,11 +182,11 @@ const jamshedpur: CityContent = {
     },
     {
       id: "ownership-jamshedpur",
-      heading: "You own everything, and maintenance is free for five months",
+      heading: "You own everything, and maintenance is free for two months",
       paragraphs: [
         "Industrial firms keep drawings, certificates and records for years, and their website and software should be treated the same way. Yet we regularly meet Jamshedpur businesses whose domain belongs to a past employee or whose site was built on a platform only the original designer can open.",
         "We register the domain, hosting and any cloud accounts in your name. At launch you receive all logins, the full source code and a short note explaining how things are set up. If you change developers later, you can hand everything over without our permission and without paying anything.",
-        "For five months after launch, maintenance is free: content and product updates, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Tell us about your business</a> and we will reply with a plan.",
+        "For two months after launch, maintenance is free: content and product updates, bug fixes, security updates, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Tell us about your business</a> and we will reply with a plan.",
       ],
     },
   ],
@@ -273,7 +273,7 @@ const jamshedpur: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle content and product updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you contact us only when something needs doing.",
+        "For two months after launch we handle content and product updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is from ₹8,000 a month, or you contact us only when something needs doing.",
     },
     {
       question: "Do you work with businesses in Adityapur, Chaibasa and Ranchi?",

@@ -7,7 +7,7 @@ const shillong: CityContent = {
   meta: {
     title: "Shillong Website Design & Local SEO | From ₹10,000",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Shillong homestays, cafés, institutes and Iewduh traders. Sites from ₹10,000, five months' upkeep free.",
+      "Websites, SEO, online stores and WhatsApp automation for Shillong homestays, cafés, institutes and Iewduh traders. Sites from ₹10,000, two months' upkeep free.",
     keywords: [
       "website development team in Shillong",
       "web designer Shillong",
@@ -31,11 +31,11 @@ const shillong: CityContent = {
     eyebrow: "Shillong · Meghalaya",
     h1: "Websites, search visibility and automation for Shillong businesses, from Police Bazar to Upper Shillong",
     lede:
-      "We are three remote engineers who build websites, online stores and WhatsApp automations for Shillong homestays, cafés, coaching institutes, clinics and the traders of Iewduh. Prices are published, you talk to the people writing the code, and the first five months of maintenance after launch cost you nothing.",
+      "We are three remote engineers who build websites, online stores and WhatsApp automations for Shillong homestays, cafés, coaching institutes, clinics and the traders of Iewduh. Prices are published, you talk to the people writing the code, and the first two months of maintenance after launch cost you nothing.",
     pills: ["Sites from ₹10,000", "Homestay and tour enquiry pages", "Khasi, Hindi and English content", "UPI stores for hill produce", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "A business website in Shillong costs from ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Shillong office, and we maintain every site free for five months after launch.",
+    "A business website in Shillong costs from ₹10,000 with us and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no Shillong office, and we maintain every site free for two months after launch.",
   snapshot: [
     { label: "Role", value: "Capital of Meghalaya and headquarters of East Khasi Hills district, spread across the Shillong Plateau at roughly 1,495 to 1,965 metres" },
     { label: "Main markets", value: "Iewduh (Bara Bazar), the largest market in the city, plus Police Bazar and Laitumkhrah" },
@@ -52,10 +52,10 @@ const shillong: CityContent = {
     ai: "WhatsApp assistants that answer the same twenty tourist questions every monsoon, in English or Hindi, and pass real bookings to you.",
     data: "Simple dashboards showing which months, sources and room types actually bring bookings, so pricing stops being guesswork.",
     app: "Android and iOS apps for café pre-orders, class schedules or delivery rounds on ordinary phones, released on Google Play and the App Store.",
-    maintenance: "Five months of free updates, backups and security fixes after launch, then plans from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security fixes after launch, then plans from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Most Shillong businesses we speak to have been through at least one developer who built a site, disappeared, and left the domain in their own name. We work differently: fixed starting prices on our website, direct WhatsApp access to the three engineers, and five months of maintenance after launch without a bill.",
+    "Most Shillong businesses we speak to have been through at least one developer who built a site, disappeared, and left the domain in their own name. We work differently: fixed starting prices on our website, direct WhatsApp access to the three engineers, and two months of maintenance after launch without a bill.",
   pricingIntro:
     "Asking three Shillong designers for a quote usually gets you three numbers with no explanation behind any of them. Ours start from the figures below. The final amount depends on page count, features, languages and how much of the text and photography you already have, and you see it itemised before anything starts.",
   sections: [
@@ -178,11 +178,11 @@ const shillong: CityContent = {
     },
     {
       id: "ownership-upkeep-shillong",
-      heading: "You own the site; we look after it for five months free",
+      heading: "You own the site; we look after it for two months free",
       paragraphs: [
         "A common story in Shillong: a business paid someone to build a site years ago, the developer registered the domain under their own account, then changed numbers. When the renewal lapsed, the site vanished and the domain was lost. We set every project up so this cannot happen.",
         "Your domain and hosting are registered to you. At launch you receive every password, a short note explaining what runs where, and the full source code. If you ever want to move to another developer, you can, without paying us an exit charge or asking permission.",
-        "For five months after launch, maintenance is free. That covers content edits, price and room-rate changes, bug fixes, software and security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when you need something done. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
+        "For two months after launch, maintenance is free. That covers content edits, price and room-rate changes, bug fixes, software and security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when you need something done. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
       ],
     },
   ],
@@ -262,9 +262,9 @@ const shillong: CityContent = {
         "Yes, completely. The domain and hosting are registered in your name, and at launch you receive all logins and the full source code. You can move to another developer at any time without an exit fee. We see many Shillong businesses who lost old sites because a developer held the domain, and we set things up to prevent that.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch we handle updates, fixes, backups, security patches and uptime checks at no cost. After that you can take a maintenance plan from ₹8,000 a month, or simply contact us when you need a change and pay for that work alone.",
+        "For two months after launch we handle updates, fixes, backups, security patches and uptime checks at no cost. After that you can take a maintenance plan from ₹8,000 a month, or simply contact us when you need a change and pay for that work alone.",
     },
     {
       question: "How long does SEO take to work in Shillong?",

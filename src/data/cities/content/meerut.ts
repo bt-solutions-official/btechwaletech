@@ -35,7 +35,7 @@ const meerut: CityContent = {
     pills: ["Sites from ₹10,000", "Export-ready catalogues", "Hindi and Hinglish SEO", "UPI and Razorpay stores", "WhatsApp order automation"],
   },
   quickAnswer:
-    "For a Meerut business, a static website with us starts at ₹10,000 and a 299+ page search-focused website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, so there is no office cost built in, and five months of maintenance is free.",
+    "For a Meerut business, a static website with us starts at ₹10,000 and a 299+ page search-focused website from ₹20,000, usually live within one to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, so there is no office cost built in, and two months of maintenance is free.",
   snapshot: [
     { label: "Main markets", value: "Begum Bridge, Abu Lane, Sadar Bazaar, Sarafa Bazaar and Shastri Nagar" },
     { label: "Sports goods", value: "Workshops, dealers and wholesalers concentrated around Suraj Kund Road" },
@@ -52,10 +52,10 @@ const meerut: CityContent = {
     ai: "WhatsApp and AI assistants that handle price, stock and delivery questions so your staff can focus on the orders that need a person.",
     data: "Dealer-wise sales, seasonal demand and stock reports turned into one dashboard instead of five spreadsheets.",
     app: "Android and iPhone apps for dealers to place repeat orders and check dispatch status from their phones, published on both app stores from ₹40,000.",
-    maintenance: "Content changes, backups, security patches and speed checks, free for five months and ₹8,000 a month after that.",
+    maintenance: "Content changes, backups, security patches and speed checks, free for two months and ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Meerut buyers are used to negotiating, and web design here is often sold the same way: no fixed price, a figure made up on the spot and a developer who disappears after the final payment. We do the opposite. Our starting prices are public, we reply on WhatsApp seven days a week, and support continues free for five months after launch.",
+    "Meerut buyers are used to negotiating, and web design here is often sold the same way: no fixed price, a figure made up on the spot and a developer who disappears after the final payment. We do the opposite. Our starting prices are public, we reply on WhatsApp seven days a week, and support continues free for two months after launch.",
   pricingIntro:
     "Website quotes in Meerut are rarely comparable, because nobody explains what is included. Here are our real starting prices. Your final figure depends on how many pages and products you need, what features you want and how ready your content is, and you see every line of it before anything is billed.",
   sections: [
@@ -168,7 +168,7 @@ const meerut: CityContent = {
       paragraphs: [
         "Ask around Meerut and you will hear the same complaint: the website stopped working, the developer's number is switched off and nobody knows where the domain was bought. Some businesses have paid for the same website twice because they could not recover the first one.",
         "We make ownership clear from day one. The domain is registered in your name. Hosting is on an account you own, paid by you. At handover you receive every password, the full source code and a short document explaining what runs where. If you want to switch to another developer later, you can, with no exit fee and no permission needed from us.",
-        "For five months after launch we maintain the site free of charge: content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can message us only when you need something done.",
+        "For two months after launch we maintain the site free of charge: content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can message us only when you need something done.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const meerut: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no cost. After that you can take maintenance at ₹8,000 a month or contact us only when changes are needed.",
+        "For two months after launch we handle text and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no cost. After that you can take maintenance at ₹8,000 a month or contact us only when changes are needed.",
     },
     {
       question: "My old website is outdated. Do I need a completely new one?",

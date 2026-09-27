@@ -56,7 +56,7 @@ const vita: CityContent = {
     ai: "Marathi and Hindi WhatsApp assistants that answer rate, timing and service questions and pass serious enquiries to you.",
     data: "Dashboards of refining lots, workshop output, sales by branch and dues by customer.",
     app: "Android and iOS apps for refinery branches to log lots or for jewellery customers to follow savings schemes, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Vita's gold trade runs on trust and exact numbers, and so does our work. We publish starting prices, send an itemised written quote, reply on WhatsApp seven days a week, and register your domain, hosting, code and app store accounts in your own name. If something will not earn its cost, we tell you before you pay for it.",
@@ -177,7 +177,7 @@ const vita: CityContent = {
       heading: "Ownership and maintenance for Vita websites and apps",
       paragraphs: [
         "A Vita business should never depend on a developer's goodwill to reach its own website. So the domain is booked against your email address, the hosting invoice carries your name, the full code is delivered to you, and you are the listed owner of the Google Business Profile, the Play Console account and the Apple developer account. On the last day of the project you get one sheet with every username and where it lives.",
-        "Five months of upkeep after go-live cost you nothing. In that window we change rates and photos when you ask, keep backups, install security updates and routinely test that enquiry forms, the checkout and the WhatsApp link still behave. From month six you choose: a plan with us from ₹8,000 a month, your own staff, or any developer you like, with no handover fee.",
+        "Two months of upkeep after go-live cost you nothing. In that window we change rates and photos when you ask, keep backups, install security updates and routinely test that enquiry forms, the checkout and the WhatsApp link still behave. From month three you choose: a plan with us from ₹8,000 a month, your own staff, or any developer you like, with no handover fee.",
         "Apps age faster than websites. Google and Apple lift their minimum software levels roughly every year, and an app that misses the deadline can be hidden from new users. We keep a calendar of those dates for every app we look after and push the update in good time.",
       ],
     },
@@ -269,7 +269,7 @@ const vita: CityContent = {
     {
       question: "What happens after the website or app goes live?",
       answer:
-        "The next five months of care are included at no charge: edits, backups, security updates and regular tests of forms, payments and WhatsApp buttons. Later you can take a plan from ₹8,000 a month, handle it in-house or switch developers. Nothing is locked, because every account already belongs to you.",
+        "The next two months of care are included at no charge: edits, backups, security updates and regular tests of forms, payments and WhatsApp buttons. Later you can take a plan from ₹8,000 a month, handle it in-house or switch developers. Nothing is locked, because every account already belongs to you.",
     },
     {
       question: "Do you take work from Khanapur, Palus, Tasgaon and Karad as well?",

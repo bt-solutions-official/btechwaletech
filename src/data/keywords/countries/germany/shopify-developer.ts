@@ -35,11 +35,11 @@ const content: FreelanceContent = {
     ["Estimate", "Line by line, in about 2 working days"],
     ["Store ownership", "Shopify account and apps billed to you"],
     ["Currency", "Quoted in USD · pay in USD or EUR"],
-    ["Aftercare", `5 free months, then from ${P.care}`],
+    ["Aftercare", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who all share your store’s code" },
-    { value: "5", label: "Free maintenance months once the store is live" },
+    { value: "2", label: "Free maintenance months once the store is live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
     { value: "2", label: "Working days until your itemised estimate" },
   ],
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Markets for DACH", note: "Separate prices, languages and duties for Germany, Austria and Switzerland from one store.", size: "md" },
       { name: "DATEV and e-invoices", note: "Exports your Steuerberater can book, plus XRechnung where B2B buyers need it.", href: "/germany/xrechnung-zugferd-integration/", size: "sm" },
       { name: "Speed and SEO", note: `Theme clean-up, image work, structured data and monthly SEO from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Store care", note: `Five months free after launch, then from ${P.care}.`, size: "sm" },
+      { name: "Store care", note: `Two months free after launch, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Invite us to your account", "You own the Shopify store and add us as collaborators. Theme licences, apps and payment contracts stay on your card and your contracts."],
       ["Build on a duplicate theme", "All work happens on an unpublished theme and preview links, reviewed during your working day, so the live store keeps selling."],
       ["Test the German details", "Consent behaviour, unit prices, VAT display, withdrawal function, payment methods and DATEV export get tested together before launch."],
-      ["Publish and keep improving", `We publish, watch the first orders, hand over documentation and maintain free for five months, then from ${P.care} if you choose.`],
+      ["Publish and keep improving", `We publish, watch the first orders, hand over documentation and maintain free for two months, then from ${P.care} if you choose.`],
     ],
   },
   faqHeading: "Shopify developer Germany: common questions",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a Shopify developer in India from Germany?", answer: "Our estimates are in USD, and you can pay in USD or EUR by Wise or bank wire in milestones linked to work you can see. Invoices come from India. Ask your accountant how to book them in Germany, since we do not advise on tax." },
     { question: "Will a Shopify developer help with SEO?", answer: `A good one sets the technical base: collection structure, structured data, hreflang between markets, speed and Search Console. Keyword research and German copy work best with a native writer. Our monthly SEO starts at ${P.seo}, and we never promise rankings, because nobody can guarantee them.` },
     { question: "How many apps should a Shopify store have?", answer: "As few as do the job well. Each app can add scripts, cost and a privacy review. We replace simple app features with theme sections or Shopify Functions and keep apps for complex jobs like reviews, subscriptions or returns. At handover you get a list of every app, its cost and why it stays." },
-    { question: "What maintenance does a Shopify store need?", answer: `Less than self-hosted shops, since Shopify runs the platform, but themes, apps and legal texts still change. We maintain the store free for five months after launch: fixes, small changes and app updates. Afterwards, maintenance starts at ${P.care}, and you can end it whenever you like.` },
+    { question: "What maintenance does a Shopify store need?", answer: `Less than self-hosted shops, since Shopify runs the platform, but themes, apps and legal texts still change. We maintain the store free for two months after launch: fixes, small changes and app updates. Afterwards, maintenance starts at ${P.care}, and you can end it whenever you like.` },
     { question: "Can you migrate my store from WooCommerce or Shopware to Shopify?", answer: "Yes. We move products, customers and order history where the platforms allow, rebuild key features, keep SEO with a 301 redirect map and re-do the German legal set-up on Shopify. Before starting, we check whether Shopify really covers your requirements, especially for B2B." },
     { question: "What does BtechWaleTech not do on Shopify projects?", answer: "We do not write native German brand copy, give legal or tax advice, attend meetings in person, or run paid advertising campaigns. We also do not buy apps or themes on your behalf. Those limits keep ownership and responsibility clear." },
   ],
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a Shopify developer for your German brand?",
-    note: `Send your store URL or launch plan on WhatsApp. Expect an itemised estimate in about two working days, Shopify stores from ${P.shop} with German legal set-up included, your company as account owner and five free months of maintenance after launch.`,
+    note: `Send your store URL or launch plan on WhatsApp. Expect an itemised estimate in about two working days, Shopify stores from ${P.shop} with German legal set-up included, your company as account owner and two free months of maintenance after launch.`,
   },
 };
 

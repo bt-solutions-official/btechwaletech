@@ -30,11 +30,11 @@ const hazaribag: CityContent = {
     eyebrow: "Hazaribag · Jharkhand",
     h1: "Websites, apps, SEO and AI automation for Hazaribagh's contractors, coal-belt suppliers, colleges and Sohrai artists",
     lede:
-      "Three engineers, working remotely, building websites, Google listings and WhatsApp automation for Hazaribagh district: transport and mining contractors around the CCL and NTPC projects, hardware and equipment dealers, coaching institutes near Vinoba Bhave University, hospitals, lake-side hotels and Sohrai-Khovar painters selling to buyers elsewhere. Starting prices are public; the first five months of upkeep are free.",
-    pills: ["Websites from ₹10,000", "Hindi-first pages", "Vendor profiles for coal projects", "Sohrai art stores", "Free upkeep for 5 months"],
+      "Three engineers, working remotely, building websites, Google listings and WhatsApp automation for Hazaribagh district: transport and mining contractors around the CCL and NTPC projects, hardware and equipment dealers, coaching institutes near Vinoba Bhave University, hospitals, lake-side hotels and Sohrai-Khovar painters selling to buyers elsewhere. Starting prices are public; the first two months of upkeep are free.",
+    pills: ["Websites from ₹10,000", "Hindi-first pages", "Vendor profiles for coal projects", "Sohrai art stores", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "In Hazaribagh, our websites start from ₹10,000 and a static site is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no Hazaribagh office, and maintenance is free for five months after launch.",
+    "In Hazaribagh, our websites start from ₹10,000 and a static site is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are three remote engineers with no Hazaribagh office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Hazaribagh district and of North Chotanagpur division" },
     { label: "Name", value: "From Persian hazar and bagh, “a thousand gardens”; a cantonment from 1790 and a municipality from 1869" },
@@ -51,7 +51,7 @@ const hazaribag: CityContent = {
     ai: "WhatsApp replies in Hindi that share rates, availability, fees or room details, passing unusual chats to your staff.",
     data: "Clear dashboards of trips, diesel, machine hours, collections and dues that a contractor can check from a site office.",
     app: "Android and iOS apps for students, parents, patients or site supervisors, built in Flutter or React Native and listed on both app stores.",
-    maintenance: "Updates, backups and fixes free for five months after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Updates, backups and fixes free for two months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Hazaribagh business owners usually choose between a local person who may vanish after the site is made and an agency in Ranchi with Ranchi prices. We publish our starting prices, the engineers who build your site answer WhatsApp seven days a week, and the domain, hosting and code are registered in your name from the beginning.",
@@ -176,7 +176,7 @@ const hazaribag: CityContent = {
       heading: "Keeping control of your website",
       paragraphs: [
         "A frequent complaint in Hazaribagh: the person who built the site registered the domain in their own name and is no longer reachable. The business cannot renew it or even change the phone number shown. We prevent this by registering the domain and hosting in your name from day one. At launch you receive every login, the full code and a short note on the setup.",
-        "Maintenance is free for five months after launch, covering text and price changes, security and software updates, backups, bug fixes and speed checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need something done.",
+        "Maintenance is free for two months after launch, covering text and price changes, security and software updates, backups, bug fixes and speed checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need something done.",
         "You can move to another developer at any time with no exit fee. We would rather keep clients because they are satisfied than because they are locked in.",
       ],
     },
@@ -273,7 +273,7 @@ const hazaribag: CityContent = {
     {
       question: "What does the free maintenance period cover?",
       answer:
-        "For five months after launch we handle text, price and photo updates, security and software updates, backups, bug fixes and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can message us only when you need a change.",
+        "For two months after launch we handle text, price and photo updates, security and software updates, backups, bug fixes and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can message us only when you need a change.",
     },
     {
       question: "Can you guarantee first position on Google?",

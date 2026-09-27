@@ -56,7 +56,7 @@ const periyakulam: CityContent = {
     ai: "WhatsApp assistants that reply in Tamil with today's rates, stock and timings during the season rush and pass real decisions back to you.",
     data: "Season dashboards of lots received, buyer dues and orders by city, readable on a phone at the end of a long day in the market.",
     app: "Android and iOS apps from ₹40,000 for repeat mango buyers, school parents or input dealer field staff, published on Google Play and the App Store in your name.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for season price changes, backups and security updates.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for season price changes, backups and security updates.",
   },
   whyUsIntro:
     "Periyakulam owners run on thin margins and long memories, and they judge a supplier by what happens after payment. So we put starting prices in public, write every quote item by item, reply on WhatsApp all seven days, and register your domain, hosting, code and store accounts to you. When a feature will not earn back its cost, we say that plainly.",
@@ -167,7 +167,7 @@ const periyakulam: CityContent = {
         "A written plan within about two working days listing pages or app screens, timelines and the cost of each item.",
         "Your approval in writing; nothing is billed before this point.",
         "Preview links at each stage that open on any phone, so a partner or family member can review them too.",
-        "Launch, a handover sheet of every login, and five months of maintenance at no charge.",
+        "Launch, a handover sheet of every login, and two months of maintenance at no charge.",
       ],
     },
     {
@@ -175,7 +175,7 @@ const periyakulam: CityContent = {
       heading: "You own it: domains, code, app accounts and upkeep for Periyakulam clients",
       paragraphs: [
         "Everything we build is registered to you from day one. The domain sits on your email, hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At launch you get one document with every login and where each one lives.",
-        "For five months after launch, maintenance is free: price and photo changes before the season, backups, security patches, framework updates and periodic checks that forms, payments and WhatsApp buttons still work. After that the choice is yours. Stay with us from ₹8,000 a month, look after it in-house, or give the code to another developer. Nothing we build ties you to us.",
+        "For two months after launch, maintenance is free: price and photo changes before the season, backups, security patches, framework updates and periodic checks that forms, payments and WhatsApp buttons still work. After that the choice is yours. Stay with us from ₹8,000 a month, look after it in-house, or give the code to another developer. Nothing we build ties you to us.",
         "Apps need a yearly check even when nothing is broken, since Google and Apple keep raising the minimum system versions they accept. We watch those deadlines and ship updates early, so your listing is never pulled without warning. Websites age more slowly, but a yearly review of speed, content and search terms keeps a site pulling its weight.",
       ],
     },
@@ -262,7 +262,7 @@ const periyakulam: CityContent = {
     {
       question: "What maintenance do you give after launch?",
       answer:
-        "The first five months after launch are free: content and price edits, backups, security patches and routine checks of forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also manage it yourself or move to another developer, since all accounts and code are already yours.",
+        "The first two months after launch are free: content and price edits, backups, security patches and routine checks of forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also manage it yourself or move to another developer, since all accounts and code are already yours.",
     },
     {
       question: "Do you also work in Devadanapatti, Theni and Bodinayakanur?",

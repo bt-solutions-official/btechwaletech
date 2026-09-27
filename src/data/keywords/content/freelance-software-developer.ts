@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Source code", "Your repository, your hosting account"],
     ["You speak with", "The developers who write the code"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Platform or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Delivery", value: "Web app on any browser; Android & iOS app if needed" },
       { label: "Code ownership", value: "Repository and cloud account in your name" },
       { label: "Payments", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       heading: "Software banwana hai? Seedhe shabdon mein",
       paragraphs: [
         `Pehle ek din ka kaam likhiye: kaun order leta hai, kaun bill banata hai, kaun stock check karta hai. Wahi list developer ko dijiye. Pehla version chhota rakhiye, sirf woh module jo roz sabse zyada time khaata hai.`,
-        `Hamare saath custom software ${P.software} se shuru hota hai aur 6 se 12 hafte lagte hain. Server, database aur code aapke naam par rahega. Payment milestone ke hisaab se UPI ya bank transfer se hota hai, aur go-live ke baad 5 mahine ki maintenance free hai. Hindi ya English, jo aasaan lage, WhatsApp par likhiye.`,
+        `Hamare saath custom software ${P.software} se shuru hota hai aur 6 se 12 hafte lagte hain. Server, database aur code aapke naam par rahega. Payment milestone ke hisaab se UPI ya bank transfer se hota hai, aur go-live ke baad 2 mahine ki maintenance free hai. Hindi ya English, jo aasaan lage, WhatsApp par likhiye.`,
       ],
     },
   ],
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["Billing plus stock system", `From ${P.software}`, `From ${P.softwareUsd}`, "8–12 weeks", "GST invoices, ledgers, stock movements"],
         ["Companion Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Field entry, scanning, push alerts"],
         ["AI feature or automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Document reading, enquiry sorting"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, backups, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, backups, small changes"],
       ],
       hideSm: [2],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Cloud hosting, database, domain and code repository are created under your ownership, with us added as users."],
       ["Module-by-module delivery", "Each module arrives on a staging link with sample data. Your staff try it, we adjust, and payments follow visible milestones."],
       ["Data migration and go-live", "We import your existing records, test permissions and backups, train the people who will use it daily, and switch over."],
-      ["Five months of free upkeep", "Bug fixes and small changes are covered for five months after go-live; ongoing care continues from " + P.care + " if you choose."],
+      ["Two months of free upkeep", "Bug fixes and small changes are covered for two months after go-live; ongoing care continues from " + P.care + " if you choose."],
     ],
   },
   faqHeading: "Freelance software developer: common questions",
@@ -406,12 +406,12 @@ const content: FreelanceContent = {
     { question: "How are payments handled on a software project?", answer: "Payments follow milestones you can see: an advance to begin, then instalments as modules are delivered on the staging link, and the balance before go-live. In India BtechWaleTech accepts UPI or bank transfer; international clients pay through Wise, bank wire or PayPal. Exact stages are listed in your written, itemised quote." },
     { question: "Is my business data safe with a freelance developer?", answer: "It should sit in your own cloud account, not the developer’s. Good practice includes server-side permission checks, hashed passwords, HTTPS, audit logs of edits, and automated backups with a tested restore. BtechWaleTech sets these up by default and gives you full database access, so no one can hold your records hostage." },
     { question: "Can a freelancer sign an NDA before I explain my software idea?", answer: "You can ask for one, and it is reasonable if your idea or data is sensitive. Share only what is needed for a quote until the NDA is agreed. Terms of any NDA are settled in writing with BtechWaleTech before detailed discussion; our general terms are on the terms page linked from this site." },
-    { question: "What happens after the software goes live?", answer: `BtechWaleTech covers bug fixes and small adjustments free for five months after go-live. After that, ongoing maintenance for updates, backups monitoring and minor changes starts at ${P.care}, and it is optional. Because the code and hosting are in your name, you can also move maintenance to your own staff or another developer.` },
+    { question: "What happens after the software goes live?", answer: `BtechWaleTech covers bug fixes and small adjustments free for two months after go-live. After that, ongoing maintenance for updates, backups monitoring and minor changes starts at ${P.care}, and it is optional. Because the code and hosting are in your name, you can also move maintenance to your own staff or another developer.` },
     { question: "Can you move our old Excel data into the new software?", answer: "Yes, data migration is a normal part of a custom software build. Old sheets usually need cleaning first: duplicate customers merged, dates and amounts standardised, and missing fields filled or marked. It is quoted as its own line because the effort depends on how many years of records you want to bring across and how tidy they are." },
     { question: "Which technology do you use for custom software?", answer: "Usually a React or Next.js front end in TypeScript, a Node.js or Python backend, and a PostgreSQL database on AWS or similar cloud hosting. Django suits admin-heavy or data-heavy tools. If you already run a PHP or Laravel system, extending it can be cheaper than replacing it. The aim is technology many developers can maintain later." },
     { question: "Can a freelance software developer near me work better than a remote one?", answer: "Meeting in person helps for the first scoping conversation, but most of the build happens on screen either way. Remote developers share staging links, run video walkthroughs with your staff and answer on WhatsApp. What matters more is whether they understand your process, deliver in milestones and keep the code in your name." },
     { question: "Can AI features be added to custom software?", answer: `Yes, as a separate module when there is a clear job for it, such as reading supplier invoices into the system, sorting incoming enquiries or drafting standard replies. AI automation work with BtechWaleTech starts at ${P.ai}. It is priced on its own line so you can judge its value separately from the core software.` },
-    { question: "Custom software banwane mein kitna kharcha aur time lagta hai?", answer: `BtechWaleTech ke saath custom software ${P.software} se shuru hota hai aur aam taur par 6 se 12 hafte lagte hain. Kharcha roles, modules aur integrations par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai. Code, server aur data aapke naam par rehte hain, aur go-live ke baad 5 mahine maintenance free hai.` },
+    { question: "Custom software banwane mein kitna kharcha aur time lagta hai?", answer: `BtechWaleTech ke saath custom software ${P.software} se shuru hota hai aur aam taur par 6 se 12 hafte lagte hain. Kharcha roles, modules aur integrations par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai. Code, server aur data aapke naam par rehte hain, aur go-live ke baad 2 mahine maintenance free hai.` },
     { question: "Do you work on software for clients outside India?", answer: `Yes. BtechWaleTech builds custom software for clients abroad remotely, billed in USD with projects from ${P.softwareUsd}. Calls are scheduled in overlapping working hours, progress is shared on staging links, and payments go through Wise, bank wire or PayPal. The hosting region can be chosen to suit where your users and data need to be.` },
   ],
   related: {
@@ -435,7 +435,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance software developer? Describe your process to us",
-    note: `Send a WhatsApp message describing what your team does each day and where it breaks. You will get a module-by-module quote in about two working days, with custom software from ${P.software}, code and data in your name, and five months of free upkeep after go-live.`,
+    note: `Send a WhatsApp message describing what your team does each day and where it breaks. You will get a module-by-module quote in about two working days, with custom software from ${P.software}, code and data in your name, and two months of free upkeep after go-live.`,
   },
 };
 

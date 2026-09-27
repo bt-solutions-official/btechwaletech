@@ -7,7 +7,7 @@ const nashik: CityContent = {
   meta: {
     title: "IT Services in Nashik: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Nashik MIDC suppliers, wineries, grape and onion exporters, clinics and hotels. From ₹10,000, with 5 months free maintenance.",
+      "Websites, SEO and automation for Nashik MIDC suppliers, wineries, grape and onion exporters, clinics and hotels. From ₹10,000, with 2 months free maintenance.",
     keywords: [
       "website development team in Nashik",
       "web design team Nashik",
@@ -32,11 +32,11 @@ const nashik: CityContent = {
     eyebrow: "Nashik · Maharashtra",
     h1: "Websites, SEO and software for Nashik's factories, farms and wineries",
     lede:
-      "We are three engineers working remotely for Nashik businesses: capability sites for Ambad and Satpur suppliers, catalogues for grape and onion exporters, stores for wineries and food brands, and WhatsApp systems for clinics and hotels. You see our prices before you call, own every account we set up, and pay nothing for maintenance in the five months after launch.",
+      "We are three engineers working remotely for Nashik businesses: capability sites for Ambad and Satpur suppliers, catalogues for grape and onion exporters, stores for wineries and food brands, and WhatsApp systems for clinics and hotels. You see our prices before you call, own every account we set up, and pay nothing for maintenance in the two months after launch.",
     pills: ["Sites from ₹10,000", "MIDC supplier websites", "Export-ready agri catalogues", "Marathi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "For a Nashik business, a website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site for an MIDC supplier, exporter or clinic starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, and maintenance is free for five months after launch.",
+    "For a Nashik business, a website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site for an MIDC supplier, exporter or clinic starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Industrial areas", value: "MIDC Satpur and Ambad in the city, with Sinnar, Gonde, Igatpuri and Dindori nearby" },
     { label: "Major manufacturers", value: "HAL's aircraft plant at Ozar, plus units of Mahindra & Mahindra, Bosch, CEAT, Siemens and others" },
@@ -53,10 +53,10 @@ const nashik: CityContent = {
     ai: "WhatsApp assistants that answer RFQ status, tour slot, room or appointment questions in Marathi, Hindi or English and hand off to staff.",
     data: "Production, rejection, dispatch and farm-to-export reports turned into simple dashboards you can check from the shop floor or the vineyard.",
     app: "Android and iOS apps for field staff, farm supervisors and dealers that cope with weak rural signal, built in Flutter or React Native from ₹40,000.",
-    maintenance: "Content, price and seasonal updates, backups and security fixes, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Content, price and seasonal updates, backups and security fixes, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
-    "Nashik business owners often have strong ties to Pune and Mumbai, and they have seen what big-city agencies charge. They have also seen local sites that were abandoned after launch. We publish our prices, answer on WhatsApp seven days a week, give you ownership of everything, and maintain the site free for five months after it goes live.",
+    "Nashik business owners often have strong ties to Pune and Mumbai, and they have seen what big-city agencies charge. They have also seen local sites that were abandoned after launch. We publish our prices, answer on WhatsApp seven days a week, give you ownership of everything, and maintain the site free for two months after it goes live.",
   pricingIntro:
     "Our starting prices are public and the same for every city. What you finally pay depends on the number of pages, languages, catalogue size and features such as bookings, payments or logins. An itemised quote comes first, and we don't bill anything until you have approved it in writing.",
   sections: [
@@ -165,11 +165,11 @@ const nashik: CityContent = {
     },
     {
       id: "ownership-nashik",
-      heading: "Your accounts in your name, plus five months of free maintenance",
+      heading: "Your accounts in your name, plus two months of free maintenance",
       paragraphs: [
         "We regularly meet Nashik businesses whose websites cannot be updated because nobody has the logins. The domain was registered by a former developer, the hosting belongs to an agency that closed, or the email linked to the account was a personal address that nobody uses anymore. Recovering control can take weeks.",
         "We avoid this from the start. Your domain is registered in your company's name, the hosting account is yours, and at launch you receive every password, the full source code and a short document listing what renews when and what it costs. You can move to another developer at any time, with no exit fee.",
-        "For five months after launch, maintenance is free: content and price updates, new products or pages, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need changes. Seasonal businesses such as exporters and wineries often keep the monthly plan for this reason.",
+        "For two months after launch, maintenance is free: content and price updates, new products or pages, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need changes. Seasonal businesses such as exporters and wineries often keep the monthly plan for this reason.",
       ],
     },
     {

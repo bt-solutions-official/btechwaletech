@@ -35,7 +35,7 @@ const content: FreelanceContent = {
   facts: [
     ["Maintenance from", `${P.care} · ${P.careUsd}`],
     ["Monthly SEO from", `${P.seo}`],
-    ["New builds with us", "5 free months of care first"],
+    ["New builds with us", "2 free months of care first"],
     ["How you ask", "WhatsApp, 7 days a week"],
     ["Monthly scope", "Written in your quote"],
     ["People who know your site", "3, not one"],
@@ -43,12 +43,12 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who can pick up your request" },
     { value: "7", label: "Days a week we read WhatsApp" },
-    { value: "5", label: "Free months of care after a new build" },
+    { value: "2", label: "Free months of care after a new build" },
     { value: "2", label: "Working days to a written quote" },
   ],
   answer: {
     heading: "How much does a part-time web developer cost per month in India?",
-    text: `A part-time web developer is usually paid a monthly retainer for a defined set of tasks rather than a salary. With BtechWaleTech, website maintenance starts at ${P.care} and monthly SEO at ${P.seo}; sites we build get five months of care free first. Larger additions, such as an online store from ${P.shop}, are quoted separately so the retainer stays predictable.`,
+    text: `A part-time web developer is usually paid a monthly retainer for a defined set of tasks rather than a salary. With BtechWaleTech, website maintenance starts at ${P.care} and monthly SEO at ${P.seo}; sites we build get two months of care free first. Larger additions, such as an online store from ${P.shop}, are quoted separately so the retainer stays predictable.`,
     more: `For what routine care includes, see <a href='/website-maintenance-freelancer/'>website maintenance freelancer</a>; if you want one developer reserved for you full-time, compare <a href='/dedicated-web-developer/'>dedicated web developer</a>.`,
   },
   snapshot: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Part-time web developer pricing: retainers and one-off projects",
-    note: `Ongoing work is priced in two layers. The monthly layer covers upkeep and a steady flow of small tasks: maintenance starts at ${P.care} and search work at ${P.seo}. The project layer covers anything big enough to plan separately, like a store, an app or a new portal, each with its own itemised quote using the starting prices below. Keeping these apart stops a retainer from quietly swallowing a large build. If your site was built by us, the first five months of maintenance are free. The exact monthly scope for a part-time web developer arrangement is written into your quote before anything is billed.`,
+    note: `Ongoing work is priced in two layers. The monthly layer covers upkeep and a steady flow of small tasks: maintenance starts at ${P.care} and search work at ${P.seo}. The project layer covers anything big enough to plan separately, like a store, an app or a new portal, each with its own itemised quote using the starting prices below. Keeping these apart stops a retainer from quietly swallowing a large build. If your site was built by us, the first two months of maintenance are free. The exact monthly scope for a part-time web developer arrangement is written into your quote before anything is billed.`,
   },
   guideLabel: "Part-time web developer guide",
   guide: [
@@ -155,7 +155,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a part-time web developer cost compared with a salary?",
       paragraphs: [
-        `With us, maintenance starts at ${P.care} a month and monthly SEO at ${P.seo}. A new website built by us includes five months of care before any monthly fee begins.`,
+        `With us, maintenance starts at ${P.care} a month and monthly SEO at ${P.seo}. A new website built by us includes two months of care before any monthly fee begins.`,
         `A salaried developer, even part-time, costs more than the pay figure. There is time spent recruiting, onboarding and supervising, plus leave, and payroll obligations depending on how the role is structured. You also carry the risk that the one person you hired lacks a skill you suddenly need, such as server configuration or search work.`,
         `Market rates for freelance retainers vary widely across India. The spread comes from what is included: some quotes cover only emergency fixes, others include content changes, security and reporting. Compare scope line by line before comparing totals. Our general guide to <a href='/freelance-web-developer-rates/'>freelance web developer rates</a> explains hourly and project billing in more depth.`,
       ],
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
   faqHeading: "Part-time web developer: questions businesses ask",
   faqs: [
     { question: "What is a part-time web developer?", answer: "A part-time web developer works on your website for part of their time, usually on a monthly arrangement, handling updates, fixes, new pages and small features. They are not on your payroll full-time and often support several clients. It suits businesses whose website needs regular attention but not a full working week of development." },
-    { question: "How much does a part-time web developer cost in India?", answer: `Costs depend on scope. With BtechWaleTech, website maintenance starts at ${P.care} a month and monthly SEO at ${P.seo}. New sites built by us include five months of maintenance free. Bigger additions such as a store, app or portal are quoted separately so your monthly cost stays predictable.` },
+    { question: "How much does a part-time web developer cost in India?", answer: `Costs depend on scope. With BtechWaleTech, website maintenance starts at ${P.care} a month and monthly SEO at ${P.seo}. New sites built by us include two months of maintenance free. Bigger additions such as a store, app or portal are quoted separately so your monthly cost stays predictable.` },
     { question: "Is a retainer better than paying by the hour?", answer: "A retainer is better when requests arrive regularly, because the monthly cost is predictable and you avoid waiting for a quote each time. Hourly billing suits unpredictable work with a developer you already trust. Per-task pricing suits rare changes. Whatever model you choose, get the scope and billing method written down before work starts." },
     { question: "Should I hire a part-time employee or a freelance developer?", answer: "Hire an employee if the work fills set hours every week and you want someone in your office. Choose a freelance arrangement if work comes in bursts, you need several skills such as coding, SEO and hosting, or you want to avoid recruitment and payroll. A small freelance team also covers when one person is unavailable." },
     { question: "What does website maintenance on a retainer include?", answer: "Typically software and plugin updates, backups, uptime and security checks, SSL and domain renewal reminders, and routine content changes such as prices, timings and new pages from existing templates. The exact list is written into your quote. New systems such as online stores, booking engines or apps are handled as separate projects." },
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "How are payments made for monthly web support?", answer: "In India, payment is by UPI or bank transfer; overseas clients pay by Wise, bank wire or PayPal. Nothing is billed before you approve a written quote describing the monthly scope. Separate projects have their own itemised quotes and staged payments linked to work you can see." },
     { question: "Can a part-time web developer work with overseas clients?", answer: `Yes. Remote work suits ongoing support, and requests can be sent while you sleep for us to pick up during Indian hours. For clients abroad, maintenance starts at ${P.careUsd}. We communicate on WhatsApp, email and video calls, and bill through Wise, bank wire or PayPal.` },
     { question: "When should I stop paying for part-time support and rebuild instead?", answer: "If most of the monthly time goes on keeping an old or plugin-heavy site alive rather than improving it, a rebuild can cost less over a year. Signs include frequent breakage after updates, slow pages that resist fixing and a design you are unhappy with. We will say so plainly if we think that point has come." },
-    { question: "Part-time web developer ka monthly kharcha kitna hota hai?", answer: `BtechWaleTech ke saath website maintenance ${P.care} se shuru hota hai aur monthly SEO ${P.seo} se. Hamari banayi nayi website par pehle 5 mahine maintenance free hai. Bade kaam jaise online store ya app ka alag quote banta hai, taaki monthly kharcha fix sa rahe aur har cheez likhit mein ho.` },
+    { question: "Part-time web developer ka monthly kharcha kitna hota hai?", answer: `BtechWaleTech ke saath website maintenance ${P.care} se shuru hota hai aur monthly SEO ${P.seo} se. Hamari banayi nayi website par pehle 2 mahine maintenance free hai. Bade kaam jaise online store ya app ka alag quote banta hai, taaki monthly kharcha fix sa rahe aur har cheez likhit mein ho.` },
   ],
   related: {
     heading: "More on ongoing website help and hiring models",

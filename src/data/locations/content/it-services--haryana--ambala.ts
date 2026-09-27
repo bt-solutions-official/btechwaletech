@@ -7,7 +7,7 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Ambala",
     description:
-      "Freelance software developers for Ambala: custom software, web apps, Android and iOS apps, AI automation, dashboards and SEO. Starting prices, 5 months free upkeep.",
+      "Freelance software developers for Ambala: custom software, web apps, Android and iOS apps, AI automation, dashboards and SEO. Starting prices, 2 months free upkeep.",
     keywords: [
       "software development team in Ambala",
       "IT services team in Ambala",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Ambala · Haryana",
     h1: "Freelance software developers in Ambala for instrument makers, traders, schools and clinics",
     lede:
-      "Hiring a software development team in Ambala? Consider BtechWaleTech, a freelance group of three engineers working remotely from India and building order systems, admissions portals, appointment tools, AI assistants and dashboards for businesses in Ambala Cantt, Ambala City, Mullana and Saha. You deal directly with the people writing the code, prices start low and are published, and every project comes with five months of free maintenance after launch.",
+      "Hiring a software development team in Ambala? Consider BtechWaleTech, a freelance group of three engineers working remotely from India and building order systems, admissions portals, appointment tools, AI assistants and dashboards for businesses in Ambala Cantt, Ambala City, Mullana and Saha. You deal directly with the people writing the code, prices start low and are published, and every project comes with two months of free maintenance after launch.",
     pills: ["Web apps from ₹60,000", "AI automation from ₹40,000", "Android & iOS apps from ₹40,000", "Dashboards over Tally and Excel", "Replies 7 days on WhatsApp"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that answer admission, appointment and price questions in Hindi, Punjabi or English after hours, and hand serious leads to your staff.",
     data: "Dashboards that pull sales, stock and fee data from Tally, Google Sheets or your database, so owners see today's numbers without calling the accountant.",
     app: "Android and iOS apps from ₹40,000 for Ambala instrument makers, schools, clinics and their dealers, parents and patients, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Bug fixes, updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Bug fixes, updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Ambala owners usually choose between a Chandigarh agency with a big retainer and a local computer shop that stops answering after handover. We sit between the two: three engineers who publish starting prices, reply on a Sunday, hand over every password and keep the code in your name.",
@@ -161,7 +161,7 @@ const content: CityContent = {
       paragraphs: [
         "Any IT partner for an Ambala business, freelance or an IT services team, should pick a boring, well-supported tech stack and deploy it on cloud hosting in the client's own name. BtechWaleTech builds websites with Astro or Next.js, web applications with React and Node.js or Python, mobile apps with React Native or Flutter, and automations with n8n and the WhatsApp Business API, hosted on AWS or similar cloud with SSL, backups and monitoring. Hosting choice depends on the application: static sites go on fast global hosting at very low cost, while web applications with databases run on managed cloud servers sized for the actual load.",
         "We set up automated backups, uptime alerts and security updates, and we deploy through version control so every change can be traced and rolled back. Domain, hosting, email and code repository accounts are registered to your business, and you receive every login at handover. If we ever stop working together, your software keeps running and another developer can pick it up.",
-        "For firms with existing systems on old shared hosting or a local server in the office, we can plan a migration: moving data, testing, switching over on a quiet evening and keeping the old system available until everyone is confident. This is also where our <a href='/services/'>maintenance and support plans</a> begin, covering updates, fixes and checks after the five free months end.",
+        "For firms with existing systems on old shared hosting or a local server in the office, we can plan a migration: moving data, testing, switching over on a quiet evening and keeping the old system available until everyone is confident. This is also where our <a href='/services/'>maintenance and support plans</a> begin, covering updates, fixes and checks after the two free months end.",
       ],
     },
     {
@@ -177,8 +177,8 @@ const content: CityContent = {
       id: "it-support-maintenance",
       heading: "IT support and maintenance after your Ambala project goes live",
       paragraphs: [
-        "After launch, every Ambala project gets five months of maintenance free: bug fixes, content updates, dependency and security updates, backups, and uptime and speed checks. Software is never really finished, and the first months after launch are when staff find the small things that need adjusting.",
-        "During that period you message us on WhatsApp with a screenshot and a line of explanation, and we fix it. We reply seven days a week, and urgent issues such as a site being down or an order form failing come first. After five months, you can continue with a monthly plan from ₹8,000 or simply contact us when something needs doing.",
+        "After launch, every Ambala project gets two months of maintenance free: bug fixes, content updates, dependency and security updates, backups, and uptime and speed checks. Software is never really finished, and the first months after launch are when staff find the small things that need adjusting.",
+        "During that period you message us on WhatsApp with a screenshot and a line of explanation, and we fix it. We reply seven days a week, and urgent issues such as a site being down or an order form failing come first. After two months, you can continue with a monthly plan from ₹8,000 or simply contact us when something needs doing.",
         "We also document each system in plain language: what it does, where it is hosted, how backups work and who to call. That document belongs to you. It matters in Ambala, where many firms have been left with software nobody else understands because the original developer moved on.",
       ],
     },
@@ -273,7 +273,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of maintenance are included free after your system is hosted and live. That covers bug fixes, small content changes, security and dependency updates, backups, and uptime and speed checks. After that, monthly maintenance starts from ₹8,000, or you can contact us only when you need a change and pay for that work separately.",
+        "Two months of maintenance are included free after your system is hosted and live. That covers bug fixes, small content changes, security and dependency updates, backups, and uptime and speed checks. After that, monthly maintenance starts from ₹8,000, or you can contact us only when you need a change and pay for that work separately.",
     },
     {
       question: "Can your AI assistant reply to customers in Hindi and Punjabi?",

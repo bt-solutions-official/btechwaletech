@@ -35,18 +35,18 @@ const content: FreelanceContent = {
     ["Build time", "4–8 weeks"],
     ["Platforms", "Shopify or a custom build"],
     ["Storefront", "English and Arabic (RTL)"],
-    ["Free aftercare", "5 months after launch"],
+    ["Free aftercare", "2 months after launch"],
     ["Billing", "USD via Wise, wire or PayPal"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Platform fees charged by us" },
   ],
   answer: {
     heading: "What does a perfume ecommerce website need to sell across the GCC?",
-    text: `A perfume ecommerce website for the GCC needs structured scent data (notes, family, concentration), filters and a quiz that replace the testing strip, discovery sets, gift options, per-country shipping rules for flammable goods, and an Arabic storefront. BtechWaleTech builds these stores on Shopify or custom code from ${P.shop}, usually in 4–8 weeks, with five months of free maintenance.`,
+    text: `A perfume ecommerce website for the GCC needs structured scent data (notes, family, concentration), filters and a quiz that replace the testing strip, discovery sets, gift options, per-country shipping rules for flammable goods, and an Arabic storefront. BtechWaleTech builds these stores on Shopify or custom code from ${P.shop}, usually in 4–8 weeks, with two months of free maintenance.`,
     more: `Already set on Shopify? See <a href='/uae/shopify-developer/'>hiring a Shopify developer in Dubai</a>. Budgeting first? Read <a href='/uae/ecommerce-website-cost/'>what an online store costs in the UAE</a>.`,
   },
   snapshot: {
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
       list: [
         `Scope: store from ${P.shop}, Arabic storefront, discovery sets, gifting`,
         "Timeline: about six weeks of build, then a quiet period before the peak",
-        `Aftercare: five months free, then from ${P.care}`,
+        `Aftercare: two months free, then from ${P.care}`,
       ],
     },
     {
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
         "Search Console, sitemap and product structured data validated",
         "Store, domain, payment and courier accounts in your name; our access documented",
       ],
-      after: [`After launch, the first five months of maintenance are free. Longer-term care is described on <a href='/uae/website-maintenance-services/'>website maintenance in the UAE</a>.`],
+      after: [`After launch, the first two months of maintenance are free. Longer-term care is described on <a href='/uae/website-maintenance-services/'>website maintenance in the UAE</a>.`],
     },
   ],
   tables: [
@@ -435,7 +435,7 @@ const content: FreelanceContent = {
       ["Data and accounts", "Accounts are opened in your name. We agree the note list, product types and shipping classes, and load ten products as a test of the model."],
       ["Build on staging", "Templates, filters, quiz, gifting and checkout are built on a private staging store. You review on your phone and comment in one shared list."],
       ["Test for real", "Small live orders with each payment method, gift flows, Arabic pages, blocked shipping combinations and a load test before campaigns begin."],
-      ["Launch and look after", "The store goes live well ahead of the peak, with five months of free maintenance and a check-in before Ramadan and Eid."],
+      ["Launch and look after", "The store goes live well ahead of the peak, with two months of free maintenance and a check-in before Ramadan and Eid."],
     ],
   },
   faqHeading: "Perfume ecommerce website: questions UAE brands ask",
@@ -456,7 +456,7 @@ const content: FreelanceContent = {
     { question: "Will my perfume ecommerce website rank on Google?", answer: "Nobody can honestly guarantee rankings. What we do is build collections that match how people search for fragrance, add product and variant structured data, keep pages fast on mobile, set up Search Console and write useful collection content. Those give a new store a sound base, and ongoing SEO from our monthly plan helps it compete for broader searches over time." },
     { question: "How do I get my perfume store recommended by AI assistants?", answer: "AI assistants quote pages that state facts clearly. Give each scent a precise description of notes, concentration and who it suits, answer common questions on collection pages, use structured data, and keep information consistent across your site, marketplaces and social profiles. There is no switch that forces an assistant to recommend you, but clear, well-structured pages are easier for them to understand and cite." },
     { question: "Can the store handle corporate perfume gifting orders?", answer: "Yes. We can add a bulk gift upload where a corporate buyer submits a spreadsheet of recipients, addresses and messages, which becomes draft orders your team reviews. Price-free packing slips, gift messages and delivery date choices are included in the gifting flow. For invoices, the platform generates tax invoices; your accountant confirms what corporate clients need on them." },
-    { question: "What happens after my perfume store launches?", answer: `The first five months of maintenance are free: fixes, small updates and a check before your next peak. After that, care starts from ${P.care}, covering updates, monitoring and seasonal checks. SEO is separate, from ${P.seo}. If you prefer to run the store yourself, we hand over documentation of every setting, including shipping classes and discount rules.` },
+    { question: "What happens after my perfume store launches?", answer: `The first two months of maintenance are free: fixes, small updates and a check before your next peak. After that, care starts from ${P.care}, covering updates, monitoring and seasonal checks. SEO is separate, from ${P.seo}. If you prefer to run the store yourself, we hand over documentation of every setting, including shipping classes and discount rules.` },
     { question: "Do you do product photography or influencer marketing for fragrance brands?", answer: "No. We build the store, set up search and analytics, and maintain the site. For photography, video and influencer campaigns, work with a local UAE provider; we give you a photo brief with the shots, sizes and ratios the store needs so the images fit the design. Being clear about this keeps your budget on the parts we do well." },
     { question: "Can you connect the online store to my boutique POS or ERP?", answer: "Usually, yes, if your POS or ERP has an API or supports regular data exports. The common goal is shared stock, so a bottle sold in a boutique is not also sold online. We look at your system during scoping and tell you whether it is a simple sync, a custom integration, or something better handled another way." },
     { question: "Do I need a licence to sell perfume online in the UAE?", answer: "The UAE government portal says online traders need the licences and approvals required by the relevant authority, and refers to Federal Decree-Law No. 14 of 2023 on Modern Technology-Based Trade. The right licence depends on your setup and emirate. Please confirm with your licensing authority or a business setup adviser; we build the store, not the licence application." },

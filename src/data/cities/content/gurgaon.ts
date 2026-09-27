@@ -35,7 +35,7 @@ const gurgaon: CityContent = {
     pills: ["Sites from ₹10,000", "Next-gen static builds", "D2C stores with UPI", "SaaS and internal tools", "AI agents and automation"],
   },
   quickAnswer:
-    "In Gurugram, our websites start at ₹10,000 for a static site delivered in one to two weeks, ₹20,000 for a 299+ page SEO build and ₹50,000 for an online store. Custom web apps start at ₹60,000. We are a three-engineer remote team, you keep the domain, hosting and code, and maintenance is free for five months.",
+    "In Gurugram, our websites start at ₹10,000 for a static site delivered in one to two weeks, ₹20,000 for a 299+ page SEO build and ₹50,000 for an online store. Custom web apps start at ₹60,000. We are a three-engineer remote team, you keep the domain, hosting and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Office districts", value: "DLF Cyber City, Golf Course Road, MG Road, Sohna Road and Golf Course Extension Road" },
     { label: "Industrial estates", value: "Udyog Vihar Phases I–VI, one of the older industrial zones in the NCR, and IMT Manesar to the south-west" },
@@ -52,7 +52,7 @@ const gurgaon: CityContent = {
     ai: "AI agents, lead qualification bots and document workflows built on your own data, with clear limits on what the model may say or do.",
     data: "Dashboards that join ad spend, CRM, marketplace and order data so founders can see acquisition cost and repeat rate without waiting on a spreadsheet.",
     app: "Android and iOS apps for bookings, field teams and customer accounts that hold up on patchy mobile networks, built in Flutter or React Native from ₹40,000.",
-    maintenance: "Dependency upgrades, uptime alerts, backups and small feature changes, free for five months after launch and then from ₹8,000 a month.",
+    maintenance: "Dependency upgrades, uptime alerts, backups and small feature changes, free for two months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Gurugram buyers have usually worked with an agency before, and many have been burned by it: junior developers, slipping deadlines, a site held hostage on the agency's hosting. We are three senior engineers, we publish our starting prices, we put scope in writing, and every account is created in your name.",
@@ -168,7 +168,7 @@ const gurgaon: CityContent = {
       paragraphs: [
         "A surprising number of Gurugram companies do not fully control their own website. The domain sits in a former agency's registrar account, the repository is private to the vendor, or the hosting is bundled into a retainer that costs more every year. Switching vendors then becomes a negotiation.",
         "We set everything up in your name from the start: domain, hosting or cloud account, analytics, Search Console and the code repository. At launch you receive every credential and a short technical note explaining how the site is built and deployed. You can hand it to an in-house team or another vendor at any point, with no exit charge.",
-        "The first five months of maintenance after launch are free. That covers bug fixes, content changes, dependency and security updates, backups, uptime monitoring and performance checks. Afterwards, maintenance starts at ₹8,000 a month for small sites, or you can simply contact us when you need something.",
+        "The first two months of maintenance after launch are free. That covers bug fixes, content changes, dependency and security updates, backups, uptime monitoring and performance checks. Afterwards, maintenance starts at ₹8,000 a month for small sites, or you can simply contact us when you need something.",
       ],
     },
     {
@@ -267,9 +267,9 @@ const gurgaon: CityContent = {
         "Yes. The domain, hosting or cloud account, analytics, Search Console and code repository are all created in your company's name. You receive every credential at launch and can move to another vendor or an in-house team at any time, with no exit fee and full documentation.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months after launch, we fix bugs, update content, apply security and dependency updates, run backups and monitor uptime at no cost. After that, maintenance starts at ₹8,000 a month for smaller sites, with larger apps priced by scope. You can also pay only when you need a change.",
+        "During the first two months after launch, we fix bugs, update content, apply security and dependency updates, run backups and monitor uptime at no cost. After that, maintenance starts at ₹8,000 a month for smaller sites, with larger apps priced by scope. You can also pay only when you need a change.",
     },
     {
       question: "How do we start?",

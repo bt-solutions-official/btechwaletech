@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "App banwana hai? · Seedhi baat, Hinglish mein",
     h1: "App banwana hai? Kharcha, time aur Play Store tak ke saare steps, aasaan bhasha mein",
     lede: `App banwana hai toh sabse pehle yeh jaan lijiye ki ek Android aur iPhone app ka kharcha, time aur Play Store ka process kya hota hai, taaki koi aapko ghuma na sake. BtechWaleTech teen freelance developers ki team hai jo India se remote kaam karti hai. Hum Flutter ya React Native se ek hi code mein Android aur iOS app banate hain, ${P.app} se shuru, aur usko aapke apne Google Play aur App Store account par publish karte hain.`,
-    pills: ["Android + iPhone dono", `${P.app} se shuru`, "6–10 hafte", "Play Store account aapka", "UPI payment", "Hindi mein app", "5 mahine free support"],
+    pills: ["Android + iPhone dono", `${P.app} se shuru`, "6–10 hafte", "Play Store account aapka", "UPI payment", "Hindi mein app", "2 mahine free support"],
     origin: "Teen freelance developers · India se remote · WhatsApp par Hindi ya English mein baat",
   },
   facts: [
@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Platform", "Android aur iPhone, ek code se"],
     ["Store account", "Aapke naam par, aapki email se"],
     ["Quote", "Line-by-line, lagbhag 2 working days mein"],
-    ["Launch ke baad", "5 mahine maintenance free"],
+    ["Launch ke baad", "2 mahine maintenance free"],
   ],
   stats: [
     { value: "3", label: "Developers jo aapke app par kaam karte hain" },
     { value: "2", label: "Working days mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Mahine free maintenance launch ke baad" },
     { value: "7", label: "Din hafte mein WhatsApp par jawab" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Technology", value: "Flutter ya React Native, ek code do platform" },
       { label: "Accounts", value: "Play Console aur App Store Connect aapke naam par" },
       { label: "Payment", value: "UPI ya bank transfer, stages mein" },
-      { label: "Baad ki care", value: `5 mahine free, phir ${P.care} se` },
+      { label: "Baad ki care", value: `2 mahine free, phir ${P.care} se` },
     ],
   },
   services: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Play Store account", "Kabhi kabhi builder ke naam par", "Aksar aapke naam par", "Hamesha aapke naam aur email par"],
       ["Code ka maalik", "Code milta hi nahi", "Contract par depend", "Poora source code aapka"],
       ["Sasta phone aur slow net", "Template par depend", "Test hota hai", "Purane Android phone par test karke"],
-      ["Launch ke baad", "Khud sambhalna", "Paid contract", "5 mahine free, phir optional"],
+      ["Launch ke baad", "Khud sambhalna", "Paid contract", "2 mahine free, phir optional"],
       ["Kab theek nahi", "Jab app mein alag logic chahiye", "Jab budget chhota ho", "Jab 20 logon ki team chahiye ho"],
     ],
     fine: "Agar aapko sirf ek simple catalogue dikhana hai aur khud time de sakte hain, toh no-code builder se shuruaat bhi galat nahi hai.",
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
       heading: "Launch ke baad: maintenance, updates aur mahine ka kharcha",
       paragraphs: [
         `App launch hone ke baad kaam khatam nahi hota. Android aur iPhone ke naye version aate hain, Google aur Apple niyam badalte hain, aur customer naye features maangte hain. Isliye har app ko samay samay par update chahiye.`,
-        `Humare saath launch ke baad paanch mahine maintenance free hai: bugs theek karna, chhote text ya design badlav, aur zaroori updates. Uske baad maintenance optional hai aur ${P.care} mahine se shuru hota hai. Aap chahein toh code lekar kisi aur developer ya apni team ko de sakte hain.`,
+        `Humare saath launch ke baad do mahine maintenance free hai: bugs theek karna, chhote text ya design badlav, aur zaroori updates. Uske baad maintenance optional hai aur ${P.care} mahine se shuru hota hai. Aap chahein toh code lekar kisi aur developer ya apni team ko de sakte hain.`,
         `Mahine ke running costs alag hote hain: server, database, SMS OTP, aur agar ho toh maps ya AI. Chhote business app mein yeh kam hote hain aur users badhne par badhte hain. Hum quote mein andaaza dete hain aur launch ke baad bill kam rakhne ke tareeke bhi batate hain.`,
       ],
     },
@@ -325,7 +325,7 @@ const content: FreelanceContent = {
         ["Hafta 3–5", "App screens, backend, admin panel", "Har hafte test app chala kar feedback", "Test version phone par"],
         ["Hafta 6–7", "Payment, notification, testing", "Products, photos, rates bhejna", "Lagbhag poora app"],
         ["Hafta 8", "Store listing, review, launch", "Final approval aur payment", "Play Store aur App Store par app"],
-        ["Agle 5 mahine", "Bug fix aur chhote badlav", "WhatsApp par badlav batana", "Free maintenance"],
+        ["Agle 2 mahine", "Bug fix aur chhote badlav", "WhatsApp par badlav batana", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Accounts aapke naam par", "Video call par saath baith kar Play Console, Apple account aur server aapki email aur card se banate hain."],
       ["Har hafte test app", "Design ke baad har hafte naya test version aapke phone par aata hai. Aap chala kar WhatsApp par feedback dete hain."],
       ["Store par launch", "Listing, screenshots, privacy policy aur Data safety form tayyar karke app review ke liye bhejte hain aur approve hone tak sambhalte hain."],
-      ["Launch ke baad saath", "Code, logins aur bills ki list aapko milti hai. Paanch mahine maintenance free, phir chahein toh " + P.care + " se."],
+      ["Launch ke baad saath", "Code, logins aur bills ki list aapko milti hai. Do mahine maintenance free, phir chahein toh " + P.care + " se."],
     ],
   },
   faqHeading: "App banwana hai: log yeh sawal poochte hain",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "App banwane ke liye mujhe kya kya dena hoga?", answer: "Business ki jaankari, app kaun chalayega, zaroori features ki list, products ya services ki list aur rates, logo, photos, aur agar pasand ho toh do teen apps ke naam jo aapko achhe lagte hain. Play Store aur Apple account ke liye aapki email, phone number aur business documents lagenge. Voice note mein samjhana bhi chalega." },
     { question: "App mein UPI payment lag sakta hai?", answer: "Haan. App ke checkout mein UPI, cards aur zarurat ho toh cash on delivery ka option lagaya ja sakta hai. Payment successful ya fail hone par order ka status sahi update ho, refund ka tareeka ho, aur har payment ka record admin panel mein dikhe, yeh sab testing ke saath banaya jaata hai." },
     { question: "Kya app Hindi mein ban sakta hai?", answer: "Haan. App poora Hindi mein, ya Hindi aur English dono mein ban sakta hai, jahan user settings se bhasha badal sake. Marathi, Gujarati, Tamil, Telugu, Bengali jaisi doosri bhashayein bhi jod sakte hain. Text koi achhi tarah bhasha jaanne wala likhta ya check karta hai, aur launch se pehle aap approve karte hain." },
-    { question: "App launch hone ke baad kya kharcha hota hai?", answer: `Server ya cloud, database, SMS OTP aur agar use ho toh maps ka mahina bill, jo users badhne ke saath badhta hai. Apple ki saalana fees bhi. BtechWaleTech ke saath launch ke baad 5 mahine maintenance free hai; uske baad maintenance optional hai aur ${P.care} mahine se shuru hota hai.` },
+    { question: "App launch hone ke baad kya kharcha hota hai?", answer: `Server ya cloud, database, SMS OTP aur agar use ho toh maps ka mahina bill, jo users badhne ke saath badhta hai. Apple ki saalana fees bhi. BtechWaleTech ke saath launch ke baad 2 mahine maintenance free hai; uske baad maintenance optional hai aur ${P.care} mahine se shuru hota hai.` },
     { question: "Play Store app ko reject kar de toh kya hoga?", answer: "Google aur Apple reject karne par reason batate hain, jaise privacy policy missing, Data safety form galat, ya login ka test account nahi diya. Hum reason padh kar app theek karte hain aur dobara bhejte hain; yeh launch process ka hissa hai aur alag se charge nahi hota. Zyada tar rejection pehle se sahi taiyari se bach jaate hain." },
     { question: "Mere paas idea hai par budget kam hai, kya karoon?", answer: "Pehla version chhota rakhiye. Sirf woh teen chaar features daaliye jinke bina app ka matlab nahi banta, baaki baad ke liye list mein rakhiye. Itemised quote se aap khud dekh sakte hain ki kaunsi line hatane se kitna bachega. Kabhi kabhi app se pehle website ya WhatsApp automation se idea test karna bhi samajhdari hai." },
     { question: "Kya aap mere shehar aakar mil sakte hain?", answer: "Nahi, hamari team remote kaam karti hai aur kisi shehar mein office nahi hai. Saari baat video call aur WhatsApp par hoti hai, test app aapke phone par aata hai aur payment UPI se hota hai. Isse har jagah daam aur process ek jaisa rehta hai, aur jawab hafte ke saaton din milta hai." },
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "App banwana hai? WhatsApp par batayiye",
-    note: `Apne business aur app ke teen zaroori kaam WhatsApp par likhiye ya voice note bhejiye. Lagbhag do working days mein line-by-line quote milega. App ${P.app} se shuru, accounts aapke naam par, aur launch ke baad paanch mahine free maintenance.`,
+    note: `Apne business aur app ke teen zaroori kaam WhatsApp par likhiye ya voice note bhejiye. Lagbhag do working days mein line-by-line quote milega. App ${P.app} se shuru, accounts aapke naam par, aur launch ke baad do mahine free maintenance.`,
   },
 };
 

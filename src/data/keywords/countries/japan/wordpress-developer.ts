@@ -33,19 +33,19 @@ const content: FreelanceContent = {
     ["WordPress site", `From ${P.site} · 1–2 weeks`],
     ["Large content or SEO site", `From ${P.seoSite} · 3–5 weeks`],
     ["WooCommerce shop", `From ${P.shop}`],
-    ["Care after launch", `5 months free, then from ${P.care}`],
+    ["Care after launch", `2 months free, then from ${P.care}`],
     ["Overlap with Tokyo", "Weekday afternoons, from about 12:30 JST"],
     ["Invoicing", "Estimate in USD · pay in USD or JPY via Wise or wire"],
   ],
   stats: [
     { value: "3", label: "Freelance developers sharing your codebase" },
     { value: "100", label: "Pages included in the starting static plan" },
-    { value: "5", label: "Months of updates and fixes at no charge" },
+    { value: "2", label: "Months of updates and fixes at no charge" },
     { value: "7", label: "Days a week someone answers WhatsApp" },
   ],
   answer: {
     heading: "How do you hire a WordPress developer for a business in Japan?",
-    text: `Look for a WordPress developer who can set up Japanese and English versions with WPML or Polylang, host on a Japanese provider or AWS Tokyo, migrate from Movable Type without losing URLs, and keep plugins updated. BtechWaleTech builds WordPress sites from ${P.site}, large SEO sites from ${P.seoSite}, with five free months of maintenance.`,
+    text: `Look for a WordPress developer who can set up Japanese and English versions with WPML or Polylang, host on a Japanese provider or AWS Tokyo, migrate from Movable Type without losing URLs, and keep plugins updated. BtechWaleTech builds WordPress sites from ${P.site}, large SEO sites from ${P.seoSite}, with two free months of maintenance.`,
     more: `Planning the Japanese and English structure first? Our <a href='/japan/bilingual-website-design/'>bilingual website design</a> guide covers hreflang and typography. Need budgets? See <a href='/japan/website-design-cost/'>website design cost in Japan</a>.`,
   },
   snapshot: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Custom themes and blocks", note: "Block themes or classic themes built for your content, with editor blocks your staff can use safely.", href: "/services/web-development/", size: "md" },
       { name: "WooCommerce shops", note: `Product catalogues and checkout for Japan, from ${P.shop}; compare with our Shopify route before deciding.`, href: "/japan/shopify-developer/", size: "sm" },
       { name: "SEO and content growth", note: `Technical SEO, internal links and Search Console, with monthly SEO from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Maintenance plans", note: `Updates, backups and fixes free for five months, then from ${P.care}.`, size: "sm" },
+      { name: "Maintenance plans", note: `Updates, backups and fixes free for two months, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
       ["Estimate format", "Items and man-days, often detailed", "Hourly or per page", `Itemised USD estimate, sites from ${P.site}`],
       ["Movable Type experience", "Common", "Varies", "Migration mapped entry by entry, with redirects"],
       ["Bilingual setup", "Usually offered", "Varies", "WPML or Polylang chosen for your editors"],
-      ["Updates after launch", "Maintenance contract", "Often ad hoc", `5 months free, then from ${P.care}`],
+      ["Updates after launch", "Maintenance contract", "Often ad hoc", `2 months free, then from ${P.care}`],
       ["Cover during absence", "Team", "Usually none", "Three people know the codebase"],
       ["On-site meetings", "Yes", "Sometimes", "No; video calls only"],
       ["Strongest fit", "Japanese-only teams wanting full service", "Small edits and quick fixes", "English-speaking teams wanting direct developer access"],
@@ -178,7 +178,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A good update plan says what gets updated, how often, where it is tested first, and how quickly security fixes go live. Without that, updates either never happen or happen blindly on the live site.`,
         `WordPress applies minor core releases automatically by default, and plugins can be set to auto-update from the dashboard. For a corporate site we prefer a middle path: security releases go out quickly, while feature updates to plugins that shape the layout are tested on staging first, especially multilingual plugins and form plugins, which touch every page.`,
-        `Our maintenance is free for five months after launch and then starts at ${P.care}. It covers core, theme and plugin updates, uptime checks, backup checks and small content fixes. Anything bigger, such as a new section or a new language, gets its own estimate. Notice periods and other terms are agreed in writing in your estimate and our <a href='/terms/'>terms page</a>; we do not hide them in a monthly plan.`,
+        `Our maintenance is free for two months after launch and then starts at ${P.care}. It covers core, theme and plugin updates, uptime checks, backup checks and small content fixes. Anything bigger, such as a new section or a new language, gets its own estimate. Notice periods and other terms are agreed in writing in your estimate and our <a href='/terms/'>terms page</a>; we do not hide them in a monthly plan.`,
       ],
     },
     {
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Open the accounts", "You create or grant access to hosting, domain and licences in your company’s name. We set up staging and a Git repository you own."],
       ["Build and migrate on staging", "Templates, blocks, the multilingual setup and any test imports appear on staging for review during your afternoon."],
       ["Harden, test and switch", "Security settings, a backup restore test, redirect checks and speed tests happen before the DNS switch, which we time for a quiet period."],
-      ["Maintain and improve", `Updates, backups and fixes are free for five months after launch, then from ${P.care}. Larger changes get their own estimate.`],
+      ["Maintain and improve", `Updates, backups and fixes are free for two months after launch, then from ${P.care}. Larger changes get their own estimate.`],
     ],
   },
   faqHeading: "WordPress developer Japan: questions buyers ask",
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "How long does a WordPress site take to build?", answer: "With us, a site of up to 100 pages usually takes one to two weeks, and large SEO sites take three to five weeks. Bilingual builds and Movable Type migrations add time for content checks and redirect testing. Late copy or translations are the most common cause of delay." },
     { question: "Do you write Japanese content?", answer: "No. Our team writes in English and Hindi. Japanese copy comes from you, your staff or a professional translator, and we place it, format it and test it. We will not publish machine translation as finished Japanese text, because readers notice and it reflects on your organization." },
     { question: "Who owns the WordPress site after launch?", answer: "You do. Hosting, domain, plugin licences, theme code and the Git repository should all be in your company’s name. We hand over admin access, a plugin list with reasons, backup instructions and any redirect map, so another developer can take over without needing anything from us." },
-    { question: "What does a WordPress maintenance plan cover?", answer: `Ours covers core, theme and plugin updates, uptime and backup checks, security monitoring and small fixes. It is free for five months after launch, then starts at ${P.care}. New sections, new languages or redesigns are estimated separately, and contract terms are written into your estimate.` },
+    { question: "What does a WordPress maintenance plan cover?", answer: `Ours covers core, theme and plugin updates, uptime and backup checks, security monitoring and small fixes. It is free for two months after launch, then starts at ${P.care}. New sections, new languages or redesigns are estimated separately, and contract terms are written into your estimate.` },
     { question: "Can WordPress handle personal data under Japan’s APPI?", answer: "WordPress can be configured to collect less, restrict access and send form data securely, but compliance is your responsibility with your adviser. If an overseas developer could access stored personal data, ask how APPI’s cross-border rules apply to you. Working on staging copies with personal data removed avoids much of that question." },
     { question: "Should I choose a Japanese web production company or a remote WordPress developer?", answer: "Choose a Japanese web production company if your team works only in Japanese, wants native copywriting or in-person workshops. Choose a remote developer if you are comfortable with English, want direct contact with the people coding, and prefer an itemised estimate with lower overhead." },
     { question: "What time zone difference is there between Japan and India?", answer: "India is 3.5 hours behind Japan, and neither country uses daylight saving time, so it never changes. Our working day overlaps with Tokyo from about 12:30 or 13:00 until your office closes, leaving time for a call and same-day replies." },
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a WordPress developer for your site in Japan?",
-    note: `Send your current site address and what needs to change. You will get an itemised USD estimate in about two working days, sites from ${P.site}, hosting and licences in your name, and five months of free maintenance once the site is live.`,
+    note: `Send your current site address and what needs to change. You will get an itemised USD estimate in about two working days, sites from ${P.site}, hosting and licences in your name, and two months of free maintenance once the site is live.`,
   },
 };
 

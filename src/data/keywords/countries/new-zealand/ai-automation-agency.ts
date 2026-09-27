@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Connects to", "Xero, Gmail, Outlook, Google Sheets, your CRM"],
     ["Built with", "n8n, Make or plain code, chosen per job"],
     ["Human check", "Drafts and approvals before anything is sent or posted"],
-    ["After launch", `5 months free fixes, then care from ${P.care}`],
+    ["After launch", `2 months free fixes, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Engineers who scope, build and support your automation themselves" },
     { value: "1", label: "Workflow in the pilot, so you judge results before spending more" },
     { value: "2", label: "Working days, roughly, until you receive an itemised quote" },
-    { value: "5", label: "Months of free fixes once the automation is live" },
+    { value: "2", label: "Months of free fixes once the automation is live" },
   ],
   answer: {
     heading: "What can an AI automation agency in NZ realistically do for a small business?",
@@ -182,7 +182,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "A retainer makes sense when you want ongoing advice and someone to keep finding new things to automate. A project-based engineering team makes sense when you know the workflow that hurts and want it built, owned by you and measured, without a monthly commitment.",
         "A retainer can bundle platform fees, support and new builds into one monthly number, which is convenient. The risk is paying every month for capacity you do not use, or finding that the workflows live in the agency's own accounts and stop when the retainer stops.",
-        "Our model is different by design. You pay for a scoped pilot. The workflows, AI keys and logs sit in your accounts. After launch you get five months of free fixes. If you want further builds, each one is quoted separately. If you want ongoing care after the free period, it starts from a published price. You are never paying for an idle retainer, and you can take everything to another developer whenever you like.",
+        "Our model is different by design. You pay for a scoped pilot. The workflows, AI keys and logs sit in your accounts. After launch you get two months of free fixes. If you want further builds, each one is quoted separately. If you want ongoing care after the free period, it starts from a published price. You are never paying for an idle retainer, and you can take everything to another developer whenever you like.",
       ],
       list: [
         "You decide the next project; nobody is incentivised to invent work",
@@ -462,7 +462,7 @@ const content: FreelanceContent = {
     { question: "Do I need a privacy impact assessment for AI automation?", answer: "The Privacy Commissioner recommends one before you start using an AI tool, updated as things change. For a small automation it can be short: what personal information is used, where it goes, who sees it, how accuracy is checked and how long data is kept. We prepare the technical half for you to complete." },
     { question: "Who owns the automations you build?", answer: "Your business does. The n8n or Make workspace, AI provider account, API keys, Xero app connection and any code sit in accounts you own, and we are invited as users. Workflows are documented so another developer could maintain them. If we stop working together, everything keeps running." },
     { question: "Can you automate Outlook and Microsoft 365 as well as Gmail?", answer: "Yes. Gmail and Google Workspace are handled through Google's official APIs, and Outlook and Microsoft 365 through Microsoft Graph, with permissions approved by whoever administers your accounts. Shared inboxes can be automated too, with assignments and notes so staff do not reply twice." },
-    { question: "What ongoing costs should I expect after launch?", answer: `Expect AI usage charges, your automation platform plan and any hosting, all billed by those providers. We estimate these from your volumes at the quote stage. Our fixes are free for 5 months after launch; after that, optional care starts from ${P.care}, or you can move support elsewhere.` },
+    { question: "What ongoing costs should I expect after launch?", answer: `Expect AI usage charges, your automation platform plan and any hosting, all billed by those providers. We estimate these from your volumes at the quote stage. Our fixes are free for 2 months after launch; after that, optional care starts from ${P.care}, or you can move support elsewhere.` },
     { question: "How do we work together across the NZ and India time difference?", answer: "India is six and a half hours behind NZ standard time and seven and a half during NZ daylight saving. Calls fit your mid to late afternoon, which is our morning. You send samples or feedback before finishing work, and updates are usually ready when you start the next day." },
     { question: "How do we pay from New Zealand?", answer: "Quotes are in USD and invoiced per milestone from India. You can pay by Wise, bank wire or PayPal; Wise lets you pay straight from a NZD account. Nothing is billed before you approve the written quote. Ask your accountant how to treat overseas invoices, as we do not give tax advice." },
     { question: "Can AI automation help my business appear in Google or AI search?", answer: "Not directly; back-office automation is invisible to search engines. It can help indirectly by answering enquiries faster and freeing time for content and reviews. If search visibility is the goal, monthly SEO work is the right tool, and it includes making your pages easy for AI answer tools to understand." },

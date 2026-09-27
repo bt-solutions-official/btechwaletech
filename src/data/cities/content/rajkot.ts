@@ -7,7 +7,7 @@ const rajkot: CityContent = {
   meta: {
     title: "IT Services in Rajkot: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Rajkot manufacturers, jewellers and traders. Sites from ₹10,000, stores from ₹50,000, five months of free maintenance.",
+      "Websites, SEO and automation for Rajkot manufacturers, jewellers and traders. Sites from ₹10,000, stores from ₹50,000, two months of free maintenance.",
     keywords: [
       "website development team in Rajkot",
       "web design Rajkot",
@@ -32,11 +32,11 @@ const rajkot: CityContent = {
     eyebrow: "Rajkot · Gujarat",
     h1: "Websites and software for Rajkot's engineers, jewellers and traders",
     lede:
-      "Three engineers, working remotely, who build catalogue sites, online stores, dealer portals and WhatsApp automations for Rajkot. We write specification pages that a pump buyer in Nairobi can use, price everything in the open, hand you every login, and keep maintaining the site free of charge for five months after it goes live.",
+      "Three engineers, working remotely, who build catalogue sites, online stores, dealer portals and WhatsApp automations for Rajkot. We write specification pages that a pump buyer in Nairobi can use, price everything in the open, hand you every login, and keep maintaining the site free of charge for two months after it goes live.",
     pills: ["Sites from ₹10,000", "Product catalogues for exporters", "Gujarati and English SEO", "Dealer and order portals", "WhatsApp order flows"],
   },
   quickAnswer:
-    "A business website for a Rajkot company costs from ₹10,000 with us and is ready in one to two weeks; a 299+ page SEO site with a proper product catalogue starts at ₹20,000. Online stores start at ₹50,000 and custom portals at ₹60,000. We are a remote three-person team, and five months of maintenance after launch are free.",
+    "A business website for a Rajkot company costs from ₹10,000 with us and is ready in one to two weeks; a 299+ page SEO site with a proper product catalogue starts at ₹20,000. Online stores start at ₹50,000 and custom portals at ₹60,000. We are a remote three-person team, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "Industrial estates", value: "Aji GIDC, Metoda GIDC near Lodhika, Shapar-Veraval, Bhaktinagar and the Gondal Road belt" },
     { label: "Engineering products", value: "Diesel engines, submersible pumps, CNC machine tools, auto parts, bearings, castings and forgings" },
@@ -53,7 +53,7 @@ const rajkot: CityContent = {
     ai: "WhatsApp bots that answer rate, stock and dispatch questions in Gujarati or English and pass real negotiations to your sales person.",
     data: "Order, dispatch and dealer-wise sales reports pulled out of Tally exports and spreadsheets into one dashboard on your phone.",
     app: "Android and iPhone apps for field service engineers, dealers and salesmen that handle patchy mobile data, released on Google Play and the App Store.",
-    maintenance: "Price list changes, new product pages, backups and security updates, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Price list changes, new product pages, backups and security updates, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Rajkot has no shortage of people who build websites, and many of them are good. What owners here tell us they struggle with is different: quotes without a breakdown, a site that nobody updates after the new pump series launches, and a domain held in someone else's name. We publish prices, itemise every quote and put ownership in your name from day one.",
@@ -165,11 +165,11 @@ const rajkot: CityContent = {
     },
     {
       id: "ownership-rajkot",
-      heading: "Your domain, your hosting, your code, and five free months of care",
+      heading: "Your domain, your hosting, your code, and two free months of care",
       paragraphs: [
         "A familiar Rajkot story: the company website was made by a nephew or a local operator years ago, the domain renewal went to his email, and now the site is down or showing a security warning. Recovering a domain registered in someone else's name can take weeks of back-and-forth, and sometimes it cannot be done at all.",
         "We register the domain in your company's name and on your email. The hosting account is opened in your name too. At launch you get every password, the full source code and a one-page note describing what is hosted where and what it costs to renew. If you later want another developer to take over, they can start the same day. There is no lock-in clause and no exit fee.",
-        "For five months after launch, maintenance is free: new products and price updates, bug fixes, security and dependency updates, backups, uptime checks and speed tests. After that you can continue from ₹8,000 a month or simply message us when you need something. Many manufacturers choose the monthly plan because their catalogue changes each season, and a website listing last year's models loses buyers quietly.",
+        "For two months after launch, maintenance is free: new products and price updates, bug fixes, security and dependency updates, backups, uptime checks and speed tests. After that you can continue from ₹8,000 a month or simply message us when you need something. Many manufacturers choose the monthly plan because their catalogue changes each season, and a website listing last year's models loses buyers quietly.",
       ],
     },
     {
@@ -263,7 +263,7 @@ const rajkot: CityContent = {
         "Map results for local searches often improve within two to three months once the profile and site are in order. National product searches, like “submersible pump manufacturer”, are highly competitive and usually take six months or more of steady work. We report honestly each month and never promise a guaranteed ranking.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You choose. Maintenance continues from ₹8,000 a month, covering updates, new products, backups, security patches and speed checks. Or you can stop the plan and message us only when you need a change, paid per task. Either way, you keep full access to everything.",
     },

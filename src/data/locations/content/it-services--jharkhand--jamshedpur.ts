@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Production software from ₹60,000", "AI automation from ₹40,000", "Quality and inspection records", "Owned code and data", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Comparing a software development team in Jamshedpur? BtechWaleTech is a freelance group of three remote engineers. Production, quality and portal software starts at ₹60,000 (6–12 weeks), AI automation or Android and iOS apps at ₹40,000, B2B websites at ₹10,000 and online stores at ₹50,000. You receive an itemised quote in about two working days and five months of free maintenance.",
+    "Comparing a software development team in Jamshedpur? BtechWaleTech is a freelance group of three remote engineers. Production, quality and portal software starts at ₹60,000 (6–12 weeks), AI automation or Android and iOS apps at ₹40,000, B2B websites at ₹10,000 and online stores at ₹50,000. You receive an itemised quote in about two working days and two months of free maintenance.",
   snapshot: [
     { label: "City origin", value: "Planned steel city founded around the Tata iron and steel works, also known as Tatanagar" },
     { label: "Anchor employers", value: "Tata Steel, Tata Motors' commercial vehicle plant and other Tata group units, with a large supplier network around them" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI tools that read RFQs and drawings metadata, draft quotation sheets, sort supplier emails and answer customer schedule questions for a human to approve.",
     data: "Dashboards for output, rejections, on-time delivery and receivables, built from accounting exports and shop-floor entries.",
     app: "Android and iOS apps from ₹40,000 for Jamshedpur operators, inspectors, service engineers and retail customers, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Security updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Security updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Jamshedpur suppliers are used to exacting customers, so they notice when a software vendor over-promises. We keep it plain: three engineers, a written scope, starting prices you can check, and software your team can actually use on the shop floor.",
@@ -76,7 +76,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Jamshedpur, or a freelance team working with Jamshedpur clients, mainly builds shop-floor and supply-chain tools for manufacturers: job-work and production tracking, inspection and quality records, supplier and customer portals, maintenance systems and dashboards. For the city's service businesses it builds booking, ordering, CRM and automation tools, plus websites and SEO.",
         "Jamshedpur's economy is shaped by large anchor plants and the supplier base around them. The Adityapur Industrial Area, set up under AIADA, is widely described as eastern India's auto-component hub and hosts well over a thousand units, from small machine shops to sizeable forging and fabrication plants. Many of these units supply automotive and steel customers with demanding delivery schedules, quality requirements and documentation.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Jamshedpur. We say that upfront and work through video calls, screen sharing and test links your team can try on their own phones. Starting prices are on the <a href='/pricing/'>pricing page</a>, all code and accounts are handed to you, and five months of maintenance are included after launch. For websites and local search, see also the <a href='/jamshedpur/'>Jamshedpur city page</a>.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Jamshedpur. We say that upfront and work through video calls, screen sharing and test links your team can try on their own phones. Starting prices are on the <a href='/pricing/'>pricing page</a>, all code and accounts are handed to you, and two months of maintenance are included after launch. For websites and local search, see also the <a href='/jamshedpur/'>Jamshedpur city page</a>.",
       ],
     },
     {
@@ -201,16 +201,16 @@ const content: CityContent = {
       id: "maintenance-jamshedpur",
       heading: "Maintenance and support once the system is live",
       paragraphs: [
-        "Maintenance keeps your software secure, backed up and matched to how your plant works as it changes, and every BtechWaleTech project includes five months of it free after launch. That covers bug fixes, small changes, security and dependency updates, backups, uptime checks and access reviews.",
+        "Maintenance keeps your software secure, backed up and matched to how your plant works as it changes, and every BtechWaleTech project includes two months of it free after launch. That covers bug fixes, small changes, security and dependency updates, backups, uptime checks and access reviews.",
         "New part numbers, new customers, a new inspection format or a changed shift pattern are normal in manufacturing. During the free period these adjustments are handled on request via WhatsApp. Larger changes are tested on a staging copy and released with a short note so supervisors know what changed.",
-        "After five months, maintenance starts from ₹8,000 a month, or you can pay per change. We reply seven days a week. As a remote freelance group we handle software and hosting; computers, printers, barcode scanners and plant networks should be looked after by a local technician, with whom we coordinate when needed.",
+        "After two months, maintenance starts from ₹8,000 a month, or you can pay per change. We reply seven days a week. As a remote freelance group we handle software and hosting; computers, printers, barcode scanners and plant networks should be looked after by a local technician, with whom we coordinate when needed.",
       ],
     },
     {
       id: "cost-jamshedpur-software",
       heading: "Software development cost in Jamshedpur: what do freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Jamshedpur projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for production, quality, portal or dashboard software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. These are starting points.",
+        "Our starting prices for Jamshedpur projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for production, quality, portal or dashboard software, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after two free months. These are starting points.",
         "Costs depend on how many modules, users and integrations you need and how clean your existing data is. A job tracker for one section with twenty part numbers is simpler than a plant-wide system with inspection plans, maintenance and supplier portals. Building one module, using it for a month and then adding the next keeps risk and cash flow manageable.",
         "You receive an itemised quote in about two working days, and work begins after written approval. Payment to us is made only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, typically in milestones against approved deliverables.",
       ],
@@ -220,7 +220,7 @@ const content: CityContent = {
         "<strong>AI automation workflow:</strong> from ₹40,000, two to four weeks",
         "<strong>Online store or B2B ordering:</strong> from ₹50,000, four to eight weeks",
         "<strong>Production, quality or portal software:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Maintenance:</strong> five months free, then from ₹8,000 a month",
+        "<strong>Maintenance:</strong> two months free, then from ₹8,000 a month",
       ],
     },
     {
@@ -293,9 +293,9 @@ const content: CityContent = {
         "Your business owns the code repository, hosting account, domain and database, registered to you or transferred at handover with documentation. No licence fee is owed to us for your own software, and another developer can take over with full access and no release fee if you choose.",
     },
     {
-      question: "What is covered in the five free months of maintenance?",
+      question: "What is covered in the two free months of maintenance?",
       answer:
-        "Bug fixes, small changes, new fields or reports of modest size, security and dependency updates, backups, uptime checks and access reviews for five months after launch. Afterwards, maintenance plans start from ₹8,000 a month, or you can pay per change request.",
+        "Bug fixes, small changes, new fields or reports of modest size, security and dependency updates, backups, uptime checks and access reviews for two months after launch. Afterwards, maintenance plans start from ₹8,000 a month, or you can pay per change request.",
     },
     {
       question: "Can AI read purchase orders and update our schedules?",

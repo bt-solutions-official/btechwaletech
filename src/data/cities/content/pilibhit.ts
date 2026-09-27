@@ -7,7 +7,7 @@ const pilibhit: CityContent = {
   meta: {
     title: "IT Services in Pilibhit: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Pilibhit, Puranpur and Bisalpur businesses. Static sites from ₹10,000, five months free upkeep.",
+      "Websites, local SEO, online stores and WhatsApp automation for Pilibhit, Puranpur and Bisalpur businesses. Static sites from ₹10,000, two months free upkeep.",
     keywords: [
       "website development team in Pilibhit",
       "web designer Pilibhit",
@@ -31,11 +31,11 @@ const pilibhit: CityContent = {
     eyebrow: "Pilibhit · Uttar Pradesh",
     h1: "Websites, apps, SEO and AI automation for Pilibhit's bansuri makers, rice millers, Terai resorts and town traders",
     lede:
-      "We are three engineers working remotely for businesses in Pilibhit, Puranpur, Bisalpur and Amariya. We build websites, flute stores, rice-mill catalogues, safari booking pages and WhatsApp automations. Prices are published, you deal directly with the people writing the code, and the first five months of maintenance after launch cost nothing.",
+      "We are three engineers working remotely for businesses in Pilibhit, Puranpur, Bisalpur and Amariya. We build websites, flute stores, rice-mill catalogues, safari booking pages and WhatsApp automations. Prices are published, you deal directly with the people writing the code, and the first two months of maintenance after launch cost nothing.",
     pills: ["Sites from ₹10,000", "Bansuri stores with UPI", "Hindi and Punjabi pages", "Safari and homestay bookings", "Mandi and mill catalogues"],
   },
   quickAnswer:
-    "A business website in Pilibhit starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for flutes or produce at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Pilibhit office, and maintenance is free for five months.",
+    "A business website in Pilibhit starts at ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for flutes or produce at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Pilibhit office, and maintenance is free for two months.",
   snapshot: [
     { label: "District role", value: "Headquarters of Pilibhit district in Bareilly division, on the Nepal border in the Terai belt" },
     { label: "Signature craft", value: "Bamboo bansuri making, Pilibhit's ODOP product, with a GI tag granted in March 2024" },
@@ -52,10 +52,10 @@ const pilibhit: CityContent = {
     ai: "WhatsApp assistants that send flute price lists, safari availability or school fee details in Hindi when you are busy at the kiln or the counter.",
     data: "Dashboards that pull crushing-season purchases, mandi rates and sales into one screen you can read on your phone.",
     app: "Android and iPhone apps for tiger reserve gypsy bookings, coaching attendance or delivery tracking, released on Google Play and the App Store.",
-    maintenance: "Five months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Pilibhit businesses usually hear two kinds of offers: a cheap one-page template from a local contact, or an expensive proposal from an agency in Bareilly, Lucknow or Delhi. We sit in between. Our starting prices are on the website, three engineers answer your WhatsApp messages every day of the week, and you get five months of upkeep free after launch.",
+    "Pilibhit businesses usually hear two kinds of offers: a cheap one-page template from a local contact, or an expensive proposal from an agency in Bareilly, Lucknow or Delhi. We sit in between. Our starting prices are on the website, three engineers answer your WhatsApp messages every day of the week, and you get two months of upkeep free after launch.",
   pricingIntro:
     "The figures below are starting prices, not packages. A bansuri workshop with twelve models needs far less than a rice mill wanting dealer logins, so your actual quote is itemised once we understand the work. You receive it in writing, and nothing is billed until you approve it.",
   sections: [
@@ -164,11 +164,11 @@ const pilibhit: CityContent = {
     },
     {
       id: "ownership-pilibhit",
-      heading: "Ownership, handover and five months of free upkeep",
+      heading: "Ownership, handover and two months of free upkeep",
       paragraphs: [
         "In small towns, websites often die for a boring reason: the domain was booked in the developer's name, the developer moved on, and the renewal lapsed. The business loses its address and its search history in one go.",
         "We avoid that from day one. The domain and hosting are registered in your name, and at launch you receive every login, the full source code and a short note explaining how the site is set up. If you later want another developer, you can hand it over without asking our permission and without paying any exit charge.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security patches, backups, uptime and speed checks. After that you can continue from ₹8,000 a month, or simply contact us when a change is needed. Our <a href=\"/services/web-development/\">web development page</a> explains the build process in more detail.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security patches, backups, uptime and speed checks. After that you can continue from ₹8,000 a month, or simply contact us when a change is needed. Our <a href=\"/services/web-development/\">web development page</a> explains the build process in more detail.",
       ],
     },
     {
@@ -257,9 +257,9 @@ const pilibhit: CityContent = {
         "Yes. The domain and hosting are registered in your name, and at launch you get every login plus the complete code. You can move to another developer at any time without an exit fee. We insist on this because lost domains are a common problem in district towns.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During those five months we handle edits, bug fixes, security updates, backups, uptime and speed checks at no charge. Afterwards, maintenance continues from ₹8,000 a month, or you can skip the plan and contact us only when you need a change.",
+        "During those two months we handle edits, bug fixes, security updates, backups, uptime and speed checks at no charge. Afterwards, maintenance continues from ₹8,000 a month, or you can skip the plan and contact us only when you need a change.",
     },
     {
       question: "How soon will SEO show results in Pilibhit?",

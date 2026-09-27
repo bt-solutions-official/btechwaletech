@@ -35,7 +35,7 @@ const jhansi: CityContent = {
     pills: ["Websites from ₹10,000", "Coaching and hospitals", "Hindi and Bundeli-friendly SEO", "Soft toy stores", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Jhansi business costs from ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Jhansi office; you own the domain and code, and maintenance is free for five months.",
+    "A website for a Jhansi business costs from ₹10,000 with us and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Jhansi office; you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Region", value: "Gateway to Bundelkhand, on the UP–MP border near the Betwa and Pahuj rivers" },
     { label: "Transport hub", value: "Jhansi Junction, headquarters of a North Central Railway division, and a meeting point of NH 27, 44, 75 and 39" },
@@ -52,7 +52,7 @@ const jhansi: CityContent = {
     ai: "WhatsApp assistants that answer admission, OPD or stock questions in Hindi and pass fee or price discussions to your staff.",
     data: "Dashboards for admissions, patient footfall, dealer orders and dues, fed from Excel or Tally and simple enough to read on a phone.",
     app: "Android and iOS apps for students checking test results, patients booking slots and salesmen taking orders in nearby towns, from ₹40,000.",
-    maintenance: "Content and fee updates, backups, security patches and uptime checks, free for five months and from ₹8,000 a month after.",
+    maintenance: "Content and fee updates, backups, security patches and uptime checks, free for two months and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Jhansi customers like to see what they are paying for before they pay. So our starting prices are public, every quote is itemised and written, and nothing is billed until you approve it. You talk directly with the engineers on WhatsApp, seven days a week, and your domain and hosting are in your name from the first day.",
@@ -182,11 +182,11 @@ const jhansi: CityContent = {
     },
     {
       id: "ownership-jhansi",
-      heading: "Ownership, handover and five months of free maintenance",
+      heading: "Ownership, handover and two months of free maintenance",
       paragraphs: [
         "Many Jhansi businesses have learned the hard way that a website is only as secure as the account it sits in. We regularly hear about domains that expired because the renewal email went to a developer who moved to Noida, or hosting that nobody could log in to after a falling-out.",
         "We set everything up in your name. The domain is registered to your business, hosting is on your account, and at launch you receive every login, the full source code and a short note explaining the setup. If you ever want another developer to take over, you can move without paying any fee or asking us.",
-        "For five months after launch, we provide free maintenance: content and fee updates, fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch, we provide free maintenance: content and fee updates, fixes, security patches, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
       ],
     },
   ],
@@ -278,7 +278,7 @@ const jhansi: CityContent = {
     {
       question: "What is included in the free maintenance period?",
       answer:
-        "For five months after launch, we handle content and fee updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can pay only when you need a change.",
+        "For two months after launch, we handle content and fee updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can pay only when you need a change.",
     },
     {
       question: "How do I start?",

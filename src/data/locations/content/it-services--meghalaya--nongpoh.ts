@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Booking and enquiry automation", "Factory and stock software", "Sites from ₹10,000", "Android & iOS apps from ₹40,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "For IT services in Nongpoh, BtechWaleTech, a freelance group of three remote engineers, builds websites from ₹10,000 (1 to 2 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks), online stores from ₹50,000 and custom software from ₹60,000 (6 to 12 weeks). We have no Nongpoh office and include five free months of maintenance.",
+    "For IT services in Nongpoh, BtechWaleTech, a freelance group of three remote engineers, builds websites from ₹10,000 (1 to 2 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks), online stores from ₹50,000 and custom software from ₹60,000 (6 to 12 weeks). We have no Nongpoh office and include two free months of maintenance.",
   snapshot: [
     { label: "Location", value: "Headquarters of Ri-Bhoi district, roughly midway on the highway between Guwahati (about 50 km) and Shillong (about 53 km)" },
     { label: "Highway economy", value: "Hotels, dhabas, fuel stations, workshops and shops serving the heavy Guwahati–Shillong traffic on NH-6" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that answer room availability, menu, rate and direction questions on WhatsApp at any hour and hand confirmed bookings to staff.",
     data: "Dashboards showing occupancy, daily covers, dispatches or sales so owners see performance without driving to the property.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for resort guests, taxi bookings, factory staff and delivery runs in Ri-Bhoi.",
-    maintenance: "Remote maintenance with backups and security checks, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Remote maintenance with backups and security checks, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Businesses in Nongpoh often end up hiring someone in Guwahati or Shillong and then chasing them for updates. As a freelance group we keep it simpler: published starting prices, engineers who reply on WhatsApp seven days a week, and full ownership of code, domain and data for you.",
@@ -192,8 +192,8 @@ const content: CityContent = {
       id: "hosting-support-nongpoh",
       heading: "Hosting, backups and remote IT support for Nongpoh systems",
       paragraphs: [
-        "Nongpoh systems run on cloud hosting with daily backups, SSL and uptime monitoring, which keeps them available through local power cuts and hardware failures. We handle domain, DNS, hosting setup and deployments, and every project includes five months of free maintenance after it goes live.",
-        "After five months, maintenance continues from ₹8,000 a month, covering updates, backups, fixes and checks, or you can call us only when needed. Support is remote. We handle the software, hosting, domain, email setup and automations we built; hardware and network cabling need a local technician, whom we can guide by phone.",
+        "Nongpoh systems run on cloud hosting with daily backups, SSL and uptime monitoring, which keeps them available through local power cuts and hardware failures. We handle domain, DNS, hosting setup and deployments, and every project includes two months of free maintenance after it goes live.",
+        "After two months, maintenance continues from ₹8,000 a month, covering updates, backups, fixes and checks, or you can call us only when needed. Support is remote. We handle the software, hosting, domain, email setup and automations we built; hardware and network cabling need a local technician, whom we can guide by phone.",
         "Hosting and domain accounts are created in your name where possible, and all credentials are handed over. We size servers to real traffic, so a small hotel site stays cheap while a factory system with many users gets the database and backups it needs. We explain the recurring costs before launch so nothing surprises you later.",
       ],
     },
@@ -275,9 +275,9 @@ const content: CityContent = {
         "You do. Domain, hosting and email accounts are set up in your name wherever providers allow, and you receive the full source code at handover. Your data can be exported at any time. If you later hire another developer, we provide credentials and a clear handover note.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Bug fixes, security and dependency updates, small content edits, backup checks and uptime and speed monitoring for five months after the project goes live. After that, maintenance continues from ₹8,000 a month, or you contact us only when a change is needed. Hardware repairs are not included since our support is remote.",
+        "Bug fixes, security and dependency updates, small content edits, backup checks and uptime and speed monitoring for two months after the project goes live. After that, maintenance continues from ₹8,000 a month, or you contact us only when a change is needed. Hardware repairs are not included since our support is remote.",
     },
     {
       question: "How long does SEO take to bring customers in Nongpoh?",

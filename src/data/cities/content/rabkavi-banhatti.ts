@@ -56,7 +56,7 @@ const rabkaviBanhatti: CityContent = {
     ai: "Kannada WhatsApp assistants that share catalogues, take bulk enquiries and hand serious buyers to the owner.",
     data: "Dashboards of pieces woven, orders by state, stock by design and payments pending from each dealer.",
     app: "Android and iOS apps for dealers to reorder designs or for loom supervisors to log output, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Weaving families in Rabkavi Banhatti work on thin margins and know exactly what a rupee buys. So we show starting prices openly, send an itemised quote before any work, reply on WhatsApp all seven days, and put the domain, hosting, code and store accounts in your name. If something will not earn its cost, we tell you plainly.",
@@ -168,7 +168,7 @@ const rabkaviBanhatti: CityContent = {
       heading: "Ownership and maintenance of Rabkavi Banhatti websites and apps",
       paragraphs: [
         "Small towns have plenty of stories about a website that vanished because the person who built it kept the domain in his own name and then stopped answering calls. We avoid that by registering the domain, hosting, source code, Google Business Profile access and app store accounts in your name from day one.",
-        "After launch, maintenance is free for five months. That covers content and price changes, backups, security patches, plugin and framework updates, and checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can hand everything to someone else with full access.",
+        "After launch, maintenance is free for two months. That covers content and price changes, backups, security patches, plugin and framework updates, and checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can hand everything to someone else with full access.",
         "Apps need yearly updates because Google and Apple keep changing their rules. We track those changes so your app is not pulled from the stores. For SEO support after launch, see our <a href=\"/services/seo-services/\">SEO services</a>, and for app details our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -260,7 +260,7 @@ const rabkaviBanhatti: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free: content changes, backups, security patches, updates and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move the site to another developer at any time, since all logins are yours.",
+        "The first two months are free: content changes, backups, security patches, updates and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move the site to another developer at any time, since all logins are yours.",
     },
     {
       question: "Do you work in Jamkhandi, Terdal and Mahalingpur too?",

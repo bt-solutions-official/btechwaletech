@@ -56,7 +56,7 @@ const sitamarhi: CityContent = {
     ai: "WhatsApp bots that share rice rates with buyers, take room enquiries from pilgrims and answer OPD questions in Hindi.",
     data: "Dashboards of paddy bought, rice sold and dues by party, built from Tally exports or daily sheets.",
     app: "Android and iOS apps for coaching institutes, pharmacies and wholesalers to take orders or share notes, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Rate updates, festival banners, backups and security fixes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Rate updates, festival banners, backups and security fixes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Sitamarhi owners tend to buy from people they can reach on the phone, and they are wary of paying for a website that never brings a call. We put starting prices on a public page, send a written quote with each item priced, answer WhatsApp every day of the week and keep the domain, hosting and code in your name. If a feature is not worth the money for your trade, we tell you plainly.",
@@ -158,7 +158,7 @@ const sitamarhi: CityContent = {
         "<strong>AI or WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software such as a mill register:</strong> ₹60,000 onwards, six to twelve weeks.",
-        "<strong>Monthly SEO:</strong> from ₹10,000 a month. <strong>Maintenance:</strong> from ₹8,000 a month after five free months.",
+        "<strong>Monthly SEO:</strong> from ₹10,000 a month. <strong>Maintenance:</strong> from ₹8,000 a month after two free months.",
       ],
     },
     {
@@ -194,7 +194,7 @@ const sitamarhi: CityContent = {
       heading: "Ownership, handover and maintenance for Sitamarhi clients",
       paragraphs: [
         "Everything we build is registered to you. The domain is in your name, hosting sits in your account, and your app is published under your own Google Play and App Store developer accounts. At launch you receive the full source code and every password, and you can hand the work to another developer at any time without asking us.",
-        "Maintenance is free for five months after launch: security updates, backups, uptime checks and small edits such as new rates, room tariffs, doctor timings or festival banners. After that it costs from ₹8,000 a month and can be stopped whenever you like. We also train one of your staff to make simple updates, so you are not waiting on us for a price change.",
+        "Maintenance is free for two months after launch: security updates, backups, uptime checks and small edits such as new rates, room tariffs, doctor timings or festival banners. After that it costs from ₹8,000 a month and can be stopped whenever you like. We also train one of your staff to make simple updates, so you are not waiting on us for a price change.",
         "Data in your software, such as paddy purchases or student records, stays in your account and can be exported to Excel whenever you want.",
       ],
     },
@@ -287,7 +287,7 @@ const sitamarhi: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months after launch are free, covering updates, backups, monitoring and small edits such as rates, tariffs or timings. After that, maintenance is from ₹8,000 a month and you can stop it whenever you choose. We can also train your staff to handle simple changes themselves.",
+        "The first two months after launch are free, covering updates, backups, monitoring and small edits such as rates, tariffs or timings. After that, maintenance is from ₹8,000 a month and you can stop it whenever you choose. We can also train your staff to handle simple changes themselves.",
     },
     {
       question: "Will you guarantee first rank on Google for Sitamarhi searches?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Headless or custom app", `From ${P.software}`],
     ["Quote", "Itemised, about 2 working days"],
     ["Store owner", "You: the BigCommerce account and code"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your store" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Full store build", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Headless or custom app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Payments to us", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Platform fee on your payments", "None, but overhead in the rate", "Marketplace service fee on each payment", "None"],
       ["Time-zone fit for India", "Depends on where the agency sits", "Varies", "IST, WhatsApp 7 days a week"],
       ["Scale ceiling", "Large multi-brand programmes", "One person's hours", "Three people; not a 20-developer programme"],
-      ["After launch", "Paid retainer", "Paid per ticket", `5 months free, then from ${P.care}`],
+      ["After launch", "Paid retainer", "Paid per ticket", `2 months free, then from ${P.care}`],
     ],
     fine: "If you need an official BigCommerce partner badge for procurement, or dozens of developers on a multi-country rollout, a certified agency will serve you better than any small BigCommerce developer team.",
   },
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
         ["WhatsApp and order automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Stores drowning in manual updates"],
         ["Companion Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Repeat buyers and dealers"],
         ["Monthly store SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Stores that want organic sales"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Theme updates, fixes, integration checks"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Theme updates, fixes, integration checks"],
       ],
       hideSm: [2],
     },
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
       ["Create accounts in your name", "You create API accounts, the Git repository and any headless hosting, then invite us. You can revoke every credential at any time."],
       ["Build on preview", "Theme changes appear on a preview, integrations run against a sandbox, and you review everything on your own phone before it goes live."],
       ["Launch with checks", "We push the theme, switch on integrations, test real payments, load redirects and verify Search Console, then watch orders closely for the first days."],
-      ["Five free months of care", `Fixes, theme updates and integration checks are free for five months. After that, ongoing maintenance starts at ${P.care} if you want it.`],
+      ["Two free months of care", `Fixes, theme updates and integration checks are free for two months. After that, ongoing maintenance starts at ${P.care} if you want it.`],
     ],
   },
   faqHeading: "BigCommerce developer: questions buyers ask",
@@ -412,9 +412,9 @@ const content: FreelanceContent = {
     { question: "How do BigCommerce API rate limits affect integrations?", answer: "BigCommerce's documentation says request quotas refresh every 30 seconds and differ by plan, and each response tells you how many requests remain. If an integration exceeds the quota it receives a 429 response and must wait before retrying. Well-built integrations read those headers, queue work and back off, so they keep working during high-traffic sales." },
     { question: "Can a BigCommerce developer improve my store's SEO?", answer: `A developer can fix the technical side: duplicate filter URLs, missing product schema, heavy images, slow scripts, broken redirects and thin category templates. Rankings also depend on content, links and competition, and nobody can guarantee a position. BtechWaleTech offers ongoing SEO from ${P.seo} a month if you want help beyond the build.` },
     { question: "How do I pay a BigCommerce developer in India?", answer: "With BtechWaleTech, clients in India pay by UPI or bank transfer and international clients pay in USD by Wise, bank wire or PayPal. Payments are staged against milestones you can see. Nothing is billed until you approve an itemised quote in writing, and the payment schedule is written into that quote." },
-    { question: "What support do I get after my BigCommerce store launches?", answer: `Five months of free maintenance: bug fixes, theme updates, small content changes and checks that integrations are still syncing. After that, maintenance is optional and starts at ${P.care}. You can also take the code and documentation to another developer at any point, because everything is already in your accounts.` },
+    { question: "What support do I get after my BigCommerce store launches?", answer: `Two months of free maintenance: bug fixes, theme updates, small content changes and checks that integrations are still syncing. After that, maintenance is optional and starts at ${P.care}. You can also take the code and documentation to another developer at any point, because everything is already in your accounts.` },
     { question: "Will you sign an NDA before seeing my store?", answer: "If you want an NDA, send it and we will review it before you share sensitive data. Anything specific about confidentiality, like duration or scope, is agreed in writing with you rather than set by a standard policy. See our terms page for how we handle client information in general." },
-    { question: "BigCommerce developer chahiye, kaise shuru karein?", answer: `WhatsApp par apne store ka link aur kya karwana hai woh bhejiye. Lagbhag do working days mein itemised quote milega. Naya BigCommerce store ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Store account, code aur API keys aapke naam par rahenge, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "BigCommerce developer chahiye, kaise shuru karein?", answer: `WhatsApp par apne store ka link aur kya karwana hai woh bhejiye. Lagbhag do working days mein itemised quote milega. Naya BigCommerce store ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Store account, code aur API keys aapke naam par rahenge, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Can the same team build a mobile app for my BigCommerce store?", answer: `Yes. We build Android and iOS apps with Flutter or React Native from ${P.app}, reading products and orders from the same BigCommerce store through its APIs. The app is published in your own Google Play and App Store developer accounts, so buyers can reorder quickly while stock and prices stay in one place.` },
   ],
   related: {
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a BigCommerce developer? Send us your store link",
-    note: `Message us on WhatsApp with your store and what needs to change. You will get an itemised quote in about two working days, with full store builds from ${P.shop}, every account in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with your store and what needs to change. You will get an itemised quote in about two working days, with full store builds from ${P.shop}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

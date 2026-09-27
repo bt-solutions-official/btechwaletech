@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering build, tracking and data" },
     { value: "2", label: "Working days to an itemized quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Page-builder subscriptions required" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Single page or small set", value: `From ${P.site}, 1–2 weeks` },
       { label: "Many location or service pages", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Lead routing and follow-up automation", value: `From ${P.ai}` },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
       { label: "What we do not do", value: "Manage your ad accounts or bids; we build and track the pages" },
       { label: "Not a fit", value: "Businesses with no ad budget and no traffic to send yet" },
     ],
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Speed tuning", note: "Static pages, compressed images and minimal scripts, aimed at loading in under two seconds on mid-range phones.", href: "/usa/technical-seo-services/", size: "md" },
       { name: "Location page sets", note: `Dozens or hundreds of city or service variants from structured templates, from ${P.seoSite}.`, href: "/usa/seo-services-for-small-business/", size: "sm" },
       { name: "Lead routing", note: `New leads pushed to your CRM, email or SMS tool and assigned to the right person, from ${P.ai}.`, href: "/usa/ai-automation-agency/", size: "sm" },
-      { name: "Ongoing page care", note: `New variants, offer swaps and tracking checks, from ${P.care} after five free months.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing page care", note: `New variants, offer swaps and tracking checks, from ${P.care} after two free months.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -235,7 +235,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do landing page design services cost?",
       paragraphs: [
-        `With us, a single landing page or small set starts at ${P.site}, and large template-driven sets of location or service pages start at ${P.seoSite}. Lead routing automation starts at ${P.ai}, and care starts at ${P.care} after five free months.`,
+        `With us, a single landing page or small set starts at ${P.site}, and large template-driven sets of location or service pages start at ${P.seoSite}. Lead routing automation starts at ${P.ai}, and care starts at ${P.care} after two free months.`,
         `Price depends on the number of unique layouts, the number of variants per ad group, copywriting, integrations with your CRM or call tracking tool and how much tracking setup your ad accounts need. A single layout with five message-matched variants costs far less than five fully different designs.`,
         `Other providers vary widely, often because some bundle ad management, copywriting or ongoing testing into a monthly retainer. We do not quote other people’s rates. We quote the build and tracking as itemized lines so you can compare like with like. For broader hiring comparisons, see <a href='/usa/cost-to-hire-web-developer/'>the cost to hire a web developer</a>. For ecommerce campaigns, product landing pages can also be built inside a store by a <a href='/usa/shopify-developer/'>Shopify developer</a> or <a href='/usa/woocommerce-developer/'>WooCommerce developer</a>.`,
       ],
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Say a hypothetical roofing contractor in Tampa runs Google Search ads for repair, replacement and storm inspections, plus Meta ads offering free inspections after storm season. All traffic goes to the home page, and calls are not tracked. This is an illustration, not a client.`,
         `Step one maps ad groups to pages: three Google pages, one per service, and one Meta page that continues the free-inspection story. Step two builds a shared template with message-matched headlines, license and insurance proof the contractor supplies, a two-step form and a sticky call button. Step three adds tracking: form submissions and call taps as Google Ads conversions, enhanced conversions, a Meta pixel with server events and hidden fields that store the campaign on every lead.`,
-        `Step four adds the consent block for text follow-ups, with wording the contractor’s lawyer approves, and records what each person agreed to. Step five sets up one test: the Meta page’s headline angle. The quote would list the template and four pages under the static plan from ${P.site}, and routing leads to the office phone and CRM under automation from ${P.ai}. After launch, five months of care are free.`,
+        `Step four adds the consent block for text follow-ups, with wording the contractor’s lawyer approves, and records what each person agreed to. Step five sets up one test: the Meta page’s headline angle. The quote would list the template and four pages under the static plan from ${P.site}, and routing leads to the office phone and CRM under automation from ${P.ai}. After launch, two months of care are free.`,
       ],
     },
     {
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
         ["Template plus several ad-group variants", P.site, "1–2 weeks", "Number of variants and layouts"],
         ["Large location or service page set", P.seoSite, "3–5 weeks", "Page count, data, internal linking"],
         ["Lead routing to CRM or SMS", P.ai, "2–4 weeks", "Tools, rules, follow-up steps"],
-        ["Ongoing variants and checks", P.care, "Monthly after 5 free months", "Frequency of changes"],
+        ["Ongoing variants and checks", P.care, "Monthly after 2 free months", "Frequency of changes"],
       ],
     },
   ],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Itemized USD quote", "About two working days later you receive a quote per page, variant, integration and tracking task, with a timeline."],
       ["Wireframe and build", "After written approval we build the template and variants on staging, with tracking in test mode."],
       ["Test conversions", "We submit test leads and tap-to-call together with you, confirming each conversion lands in Google Ads, Meta and your CRM."],
-      ["Launch and care", "Pages go live on hosting in your name, followed by five months of free care for tweaks and new variants."],
+      ["Launch and care", "Pages go live on hosting in your name, followed by two months of free care for tweaks and new variants."],
     ],
   },
   faqHeading: "Landing page design services: questions from US advertisers",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Can you connect leads to my CRM or send text alerts?", answer: `Yes. We route form leads to your CRM, email or SMS tool with the campaign details attached and assign them to the right person or location. Lead routing automation starts at ${P.ai}. Any text follow-ups to leads should rely on consent wording your lawyer has approved.` },
     { question: "Is it safe to buy landing page design services from a team in India?", answer: "It works well when the scope is written down and accounts stay in your name. US Eastern mornings overlap with IST evenings, so you review staging pages in your morning after we build overnight. We do not visit offices. Invoices come from India, paid in USD by wire, Wise or PayPal." },
     { question: "Do you offer white-label landing page design services for agencies?", answer: "Yes. A marketing agency can hand us page builds and tracking setups for its clients, delivered under the agency’s own brand. The quote is itemized per client project, and communication runs through the agency. Our white-label web development page explains how the arrangement works." },
-    { question: "What happens after my landing page launches?", answer: `You get five months of free care for fixes, small edits and new variants within the agreed scope. After that, care plans start at ${P.care}. We also recommend a monthly tracking check, since ad platforms and tags change and a broken conversion can quietly waste budget.` },
+    { question: "What happens after my landing page launches?", answer: `You get two months of free care for fixes, small edits and new variants within the agreed scope. After that, care plans start at ${P.care}. We also recommend a monthly tracking check, since ad platforms and tags change and a broken conversion can quietly waste budget.` },
     { question: "Can you make my landing pages accessible?", answer: "Yes. We use proper field labels, visible focus states, enough color contrast, helpful error messages, keyboard-reachable buttons and meaningful alt text. These basics help people using assistive technology and usually improve conversions for everyone. For a full accessibility review of a whole site, see our accessibility remediation page." },
     { question: "Do you use countdown timers and urgency tricks?", answer: "Only if the urgency is real, such as an offer that genuinely ends on a date. We will not build fake timers that reset, invented scarcity or fabricated reviews. They can damage trust, and misleading claims can create legal risk. Honest proof and a clear offer tend to work better over time." },
   ],

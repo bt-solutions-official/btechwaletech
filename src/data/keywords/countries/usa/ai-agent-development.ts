@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: full-stack, AI and cloud, delivery management" },
     { value: "2", label: "Working days to an itemized agent estimate" },
-    { value: "5", label: "Months of free maintenance after the agent goes live" },
+    { value: "2", label: "Months of free maintenance after the agent goes live" },
     { value: "0", label: "Platform fees from us on top of your model and hosting bills" },
   ],
   answer: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom AI agent development costs with us",
-    note: `Agent pricing has two halves: the build and the running cost. The build starts from ${P.ai} for a pilot agent with one knowledge source and two or three tools, and from ${P.software} for a production agent with its own admin screens, role-based access and an approval queue. Running cost is separate and paid by you directly: model tokens to OpenAI or Anthropic, plus hosting and a vector store in your cloud account. Before we quote, we estimate calls per task, average tokens and monthly volume so you see a cost-per-resolution figure. After five months of free maintenance, ongoing care starts from ${P.care} a month.`,
+    note: `Agent pricing has two halves: the build and the running cost. The build starts from ${P.ai} for a pilot agent with one knowledge source and two or three tools, and from ${P.software} for a production agent with its own admin screens, role-based access and an approval queue. Running cost is separate and paid by you directly: model tokens to OpenAI or Anthropic, plus hosting and a vector store in your cloud account. Before we quote, we estimate calls per task, average tokens and monthly volume so you see a cost-per-resolution figure. After two months of free maintenance, ongoing care starts from ${P.care} a month.`,
   },
   guideLabel: "AI agent development guide for US businesses",
   guide: [
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
         ["CRM research agent", "Enrichment, duplicate check, activity logging", `From ${P.ai}`, "3–4 weeks"],
         ["Production agent with admin UI", "Approval queue, roles, SSO, reporting", `From ${P.software}`, "6–10 weeks"],
         ["Multi-system operations agent", "Several APIs, scheduled jobs, audit exports", `From ${P.software}`, "8–12 weeks"],
-        ["Care after launch", "Model updates, eval re-runs, index upkeep", `From ${P.care}/month after 5 free months`, "Ongoing"],
+        ["Care after launch", "Model updates, eval re-runs, index upkeep", `From ${P.care}/month after 2 free months`, "Ongoing"],
       ],
     },
   ],
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
       ["Quote with running cost", `Itemized USD quote in about two working days, from ${P.ai} for a pilot, including a per-task running cost estimate. No billing before written approval.`],
       ["Build read-only first", "Document index and lookup tools come first, tested nightly against your evaluation set, with a private test link you can try each morning."],
       ["Shadow, then gate", "The agent proposes actions beside your staff for one to two weeks. Approved tools switch on one at a time with limits in code."],
-      ["Hand over and watch", "You receive code, prompts, eval set, runbooks and a walkthrough, plus five months of free maintenance with monthly log and cost reviews."],
+      ["Hand over and watch", "You receive code, prompts, eval set, runbooks and a walkthrough, plus two months of free maintenance with monthly log and cost reviews."],
     ],
   },
   faqHeading: "Questions US buyers ask an ai agent development company",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "How do you stop prompt injection in an AI agent?", answer: "No single trick stops it, so we layer defenses. Retrieved emails, web pages and files are treated as data, not instructions. Each tool has the smallest permission it needs, arguments are validated in code, and irreversible actions require human approval. We also red-team the agent with hidden instructions in test documents before launch, following the OWASP Top 10 for LLM Applications categories." },
     { question: "What is RAG and does my agent need it?", answer: "Retrieval-augmented generation lets the agent search an index of your documents and answer from the matching passages with citations, instead of relying on what the model memorized. If the agent must know your policies, products or procedures, it needs retrieval. We clean and index your files, enforce the same access groups you use today, and test that the right passage is found." },
     { question: "Will you train a model on our business data?", answer: "Usually not, and you rarely need it. Retrieval over your documents gives the agent current, citable knowledge without training, and updating it is as simple as editing a file. Fine-tuning can help with narrow formatting or classification tasks at high volume, and we will say plainly if your case is one of them after testing retrieval first." },
-    { question: "What are the ongoing costs of running an AI agent?", answer: "Three items: model tokens billed by OpenAI or Anthropic, cloud hosting for the agent service and document index, and maintenance. Token cost depends on tasks per month, calls per task and context size. We measure these in the pilot, give you a per-task estimate, set provider spend limits, and offer maintenance from the monthly care plan after five free months." },
+    { question: "What are the ongoing costs of running an AI agent?", answer: "Three items: model tokens billed by OpenAI or Anthropic, cloud hosting for the agent service and document index, and maintenance. Token cost depends on tasks per month, calls per task and context size. We measure these in the pilot, give you a per-task estimate, set provider spend limits, and offer maintenance from the monthly care plan after two free months." },
     { question: "Is it better to hire an ai agent development company or build in-house?", answer: "Build in-house if agents are core to your product and you can hire engineers who will own them long term. Hire outside help when you need a first agent working in weeks, want an evaluation and guardrail setup you can copy, or lack AI and cloud skills on staff. Our handover package is designed so an in-house team can take over later." },
     { question: "Why hire a remote team in India instead of a US ai agent development company?", answer: "Mainly cost and focus: starting prices are lower, and three senior people work on your agent directly. The trade-offs are no in-person workshops and a limited afternoon overlap. We run calls in US Eastern mornings, answer WhatsApp seven days a week, deliver overnight progress, and build everything in accounts you own so switching is easy." },
     { question: "Who owns the AI agent you build?", answer: "Your business. Code sits in your repository, cloud and model provider accounts are in your name, and prompts, tool definitions and evaluation sets are handed over as files. Conversation logs stay in your storage under the retention period you choose. Confidentiality and code assignment terms are set out in your written quote." },

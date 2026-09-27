@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Android & iOS apps", note: `Flutter or React Native apps from ${P.app}, published through your own Play Console and App Store Connect accounts.`, href: "/it-services/android-ios-app/", size: "md" },
       { name: "Online stores", note: `Stores with UPI and card checkout from ${P.shop}; international stores with the payment methods your market expects.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "AI automation", note: `Document reading, WhatsApp replies and report automation from ${P.ai}, with API keys held in your account.`, href: "/ai-automation-freelancer/", size: "md" },
-      { name: "Ongoing maintenance", note: `Five free months after launch, then monthly care from ${P.care} if you want it.`, href: "/part-time-web-developer/", size: "sm" },
+      { name: "Ongoing maintenance", note: `Two free months after launch, then monthly care from ${P.care} if you want it.`, href: "/part-time-web-developer/", size: "sm" },
       { name: "Monthly SEO", note: `Technical fixes and content from ${P.seo}, reported through your own Search Console.`, href: "/services/seo-services/", size: "sm" },
       { name: "Overflow for agencies", note: "Agencies abroad sometimes need remote build capacity under their own brand; scope and terms are agreed per project.", href: "/white-label-web-development/", size: "sm" },
     ],
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       heading: "How much does it cost to hire a remote developer?",
       paragraphs: [
         `It depends on the model and the scope far more than on the developer’s location. Marketplace rates for the same brief vary widely, vendor rates include their management layers, and employee costs include salary, equipment and benefits. Compare total cost for a defined result, not headline hourly numbers.`,
-        `With us the cost is set per project. A business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 299+ pages at ${P.seoSite} (${P.seoSiteUsd}), an online store at ${P.shop} (${P.shopUsd}), a custom web app at ${P.software} (${P.softwareUsd}), an Android and iOS app at ${P.app} (${P.appUsd}) and AI automation at ${P.ai} (${P.aiUsd}). After five free months of maintenance, ongoing care starts at ${P.care}.`,
+        `With us the cost is set per project. A business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 299+ pages at ${P.seoSite} (${P.seoSiteUsd}), an online store at ${P.shop} (${P.shopUsd}), a custom web app at ${P.software} (${P.softwareUsd}), an Android and iOS app at ${P.app} (${P.appUsd}) and AI automation at ${P.ai} (${P.aiUsd}). After two free months of maintenance, ongoing care starts at ${P.care}.`,
         `Hidden costs in remote hiring usually come from management time, not rates: re-explaining requirements to a new person, chasing updates, or rebuilding work that was never written down. A clear brief and a single decision-maker on your side save more money than negotiating the price down.`,
       ],
       after: [`For hourly versus project billing in detail, see <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`],
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is hypothetical and is here to show how the pieces fit, not to describe a real client.`,
         `A physiotherapy practice in Sydney wants a new website with online booking linked to its existing appointment software, plus a simple patient intake form. The owner has no technical staff and is nervous about hiring someone overseas.`,
-        `We would start with a video call in the Indian morning, which is the Sydney afternoon. The quote would list the website, booking integration and forms as separate lines, with the website portion starting at ${P.siteUsd} and the integration priced after we read the booking system’s documentation. The practice creates its own hosting and GitHub accounts and adds us as users. Week one delivers a homepage and service page on a staging link, which the owner reviews on her phone between patients and comments on via WhatsApp. Week two adds the booking integration and forms, tested with dummy data only. At launch we hand over the repository, logins and a short guide, remove our access to anything we no longer need, and the five months of free maintenance begin.`,
+        `We would start with a video call in the Indian morning, which is the Sydney afternoon. The quote would list the website, booking integration and forms as separate lines, with the website portion starting at ${P.siteUsd} and the integration priced after we read the booking system’s documentation. The practice creates its own hosting and GitHub accounts and adds us as users. Week one delivers a homepage and service page on a staging link, which the owner reviews on her phone between patients and comments on via WhatsApp. Week two adds the booking integration and forms, tested with dummy data only. At launch we hand over the repository, logins and a short guide, remove our access to anything we no longer need, and the two months of free maintenance begin.`,
       ],
     },
     {
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["Custom web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["AI automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You create or confirm hosting, repository, domain and app store accounts, and add us as named users with only the access the work needs."],
       ["First visible milestone", "An early screen or page appears on a staging link or test build, so you judge real work before the larger payments."],
       ["Build with short updates", "Two or three written updates a week, each with links, blockers and decisions needed. Calls happen in the agreed overlap window."],
-      ["Launch and access review", "We launch from your accounts, hand over code, logins and notes, remove access we no longer need, and start five months of free maintenance."],
+      ["Launch and access review", "We launch from your accounts, hand over code, logins and notes, remove access we no longer need, and start two months of free maintenance."],
     ],
   },
   faqHeading: "Hiring a remote developer: questions people ask",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Is hiring a remote developer cheaper than hiring locally?", answer: "Often, but not always, and price should not be the only reason. You avoid office and commute costs and choose from a wider pool, which can mean better value for the same work. The real saving comes from clear scope and fewer rebuilds. A cheap remote hire who needs constant chasing can cost more than a local one." },
     { question: "What is the hardest part of hiring remote developers?", answer: "Communication, not coding. Most failures come from unclear requirements, feedback spread across many people, and progress nobody can see. Fix these with one decision-maker on your side, a written scope, agreed overlap hours and a staging link that shows real work. The technical part is usually the easier half." },
     { question: "Remote developer hire karna safe hai kya?", answer: `Haan, agar sab account aapke naam par ho: domain, hosting, code repository aur app store. Password share mat kijiye, alag user banake access dijiye. Pehle chhota paid kaam karwaiye aur staging link par dekh kar hi aage payment kijiye. BtechWaleTech ke saath website ${P.site} se shuru hoti hai aur WhatsApp par hafte ke saaton din reply milta hai.` },
-    { question: "Can I hire a remote developer for ongoing work after launch?", answer: `Yes. Every BtechWaleTech project includes five months of free maintenance after launch for fixes, updates and small changes. After that, monthly maintenance starts at ${P.care} and monthly SEO at ${P.seo}. Both are optional, and because you own the code and accounts, you can also move the work elsewhere.` },
+    { question: "Can I hire a remote developer for ongoing work after launch?", answer: `Yes. Every BtechWaleTech project includes two months of free maintenance after launch for fixes, updates and small changes. After that, monthly maintenance starts at ${P.care} and monthly SEO at ${P.seo}. Both are optional, and because you own the code and accounts, you can also move the work elsewhere.` },
   ],
   related: {
     heading: "More on remote, offshore and freelance developer hiring",
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a remote developer? Start with a small, visible milestone",
-    note: `Tell us on WhatsApp what you need built and which time zone you are in. You will get an itemised quote in INR or USD in about two working days, with projects from ${P.site} (${P.siteUsd}), all accounts in your name and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp what you need built and which time zone you are in. You will get an itemised quote in INR or USD in about two working days, with projects from ${P.site} (${P.siteUsd}), all accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

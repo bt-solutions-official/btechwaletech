@@ -39,7 +39,7 @@ const content: CityContent = {
     h1: "Freelance IT services for Tripura: software, apps, SEO and automation across all eight districts",
     lede:
       "BtechWaleTech provides IT services in Tripura as a freelance group of three engineers working remotely from India, building custom software, business websites, mobile-friendly web apps, AI automations and search visibility for organisations across Tripura, from Agartala traders and Udaipur temple-town hotels to rubber processors in Bodhjungnagar and shopkeepers in Dharmanagar, Kailashahar and Belonia.",
-    pills: ["Websites from ₹10,000", "Custom software from ₹60,000", "Bengali and English sites", "WhatsApp and AI automation", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Custom software from ₹60,000", "Bengali and English sites", "WhatsApp and AI automation", "2 months free maintenance"],
   },
   quickAnswer:
     "For a Tripura business, a static website with us starts at ₹10,000, a large SEO website at ₹20,000, custom software or a web app at ₹60,000 and AI automation at ₹40,000. Simple sites go live in one to two weeks. We are a freelance group of three remote engineers, reply on WhatsApp seven days a week and send itemised quotes within about two working days.",
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI assistants and WhatsApp workflows that answer routine enquiries in Bengali or English, book appointments and pass qualified leads to your staff.",
     data: "Dashboards that turn sales, stock and collection data from Tally or spreadsheets into one daily view, useful when branches are spread across districts.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for field staff, parents, patients and retailers across Tripura.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Tripura has few local software development companies, so many owners either wait for a relative in Kolkata or Bengaluru to help or pay a large agency outside the state. We sit between those options: published starting prices, engineers you can message directly, and full ownership of everything we build.",
@@ -215,7 +215,7 @@ const content: CityContent = {
       paragraphs: [
         "IT services in Tripura cost from ₹10,000 for a static website, ₹20,000 for a large SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, and ₹60,000 for custom software or a web app. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after the free period. These are starting prices, not fixed prices.",
         "Your final figure depends on the number of pages, features, integrations, languages and how much content you already have. A five-page bilingual site with ready photographs will sit near the starting price. A rubber purchase system with grower logins, SMS alerts and reports will cost more than a single-user tool. We send an itemised estimate within about two working days so you can see exactly what each part costs.",
-        "Because we work remotely, there is no office rent or travel charge added to Tripura quotes. Five months of maintenance are included free after launch. You can compare every plan on our <a href=\"/pricing/\">pricing page</a> before contacting us.",
+        "Because we work remotely, there is no office rent or travel charge added to Tripura quotes. Two months of maintenance are included free after launch. You can compare every plan on our <a href=\"/pricing/\">pricing page</a> before contacting us.",
       ],
     },
     {
@@ -304,7 +304,7 @@ const content: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Every project includes five months of free maintenance after it goes live. That covers text and image updates, bug fixes, security and dependency updates, backups, and speed and uptime checks. After the free period you can continue on a monthly plan starting at ₹8,000 or simply contact us when something needs changing. We reply on WhatsApp seven days a week, including festival periods.",
+        "Every project includes two months of free maintenance after it goes live. That covers text and image updates, bug fixes, security and dependency updates, backups, and speed and uptime checks. After the free period you can continue on a monthly plan starting at ₹8,000 or simply contact us when something needs changing. We reply on WhatsApp seven days a week, including festival periods.",
     },
     {
       question: "How soon will SEO bring results for a Tripura business?",
@@ -339,7 +339,7 @@ const content: CityContent = {
     {
       question: "Which is the best IT services team in Tripura?",
       answer:
-        "There is no single best IT services team in Tripura; the right choice depends on your project. Check live work on your own phone, confirm the domain and code will be in your name, and ask for an itemised quote. BtechWaleTech is a freelance group of three remote engineers with starting prices from ₹10,000 for websites and ₹60,000 for custom software, and five months of free maintenance after launch.",
+        "There is no single best IT services team in Tripura; the right choice depends on your project. Check live work on your own phone, confirm the domain and code will be in your name, and ask for an itemised quote. BtechWaleTech is a freelance group of three remote engineers with starting prices from ₹10,000 for websites and ₹60,000 for custom software, and two months of free maintenance after launch.",
     },
     {
       question: "How quickly will you reply to my enquiry?",

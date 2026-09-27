@@ -32,7 +32,7 @@ const purnia: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Purnia businesses",
     lede:
       "We are three remote engineers who build websites, online stores, Google listings and WhatsApp tools for Purnia. Our clients here include makhana units and exporters, maize traders at the Gulabbagh mandi, doctors and diagnostic labs in Line Bazar, coaching institutes near Purnea College, and shops in Bhatta Bazar, Madhubani and along the Kasba and Banmankhi roads.",
-    pills: ["Websites from ₹10,000", "Makhana export pages", "Line Bazar clinic sites", "Hindi, Maithili and Bangla copy", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Makhana export pages", "Line Bazar clinic sites", "Hindi, Maithili and Bangla copy", "2 months free maintenance"],
   },
   quickAnswer:
     "In Purnia, a static business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000, a makhana or retail online store at ₹50,000 and custom software at ₹60,000. We work remotely, with no Purnia office.",
@@ -52,7 +52,7 @@ const purnia: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, OPD and batch questions in Hindi, and pass genuine buyers and patients straight to a person.",
     data: "Dashboards that turn mandi purchase records, clinic footfall or fee collections into clear monthly figures you can act on.",
     app: "Android and iOS apps for field purchase agents, sample collectors and delivery riders on basic phones, from ₹40,000 in six to ten weeks.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month or paid changes only when needed.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month or paid changes only when needed.",
   },
   whyUsIntro:
     "Purnia sells to half of eastern India. Its maize goes to Bengal and the North-East, its makhana now travels to Dubai, and patients arrive from Nepal. Yet many firms here are still known only to people who already have their number. We build the pages and listings that let new buyers find you, keep every account in your name, and answer on WhatsApp all week.",
@@ -187,7 +187,7 @@ const purnia: CityContent = {
       paragraphs: [
         "A common story in Purnia: a business paid someone for a website, the domain was booked under that person's email, and when he stopped answering, the owner could not even update a phone number. Some lost years of Google reviews tied to the old address.",
         "With us, the domain and hosting are registered in your name from the start. At handover you receive every login, the full source code and a short written note explaining how things are set up. You can move to any developer whenever you like, and there is no exit charge.",
-        "Maintenance is free for five months after launch, covering content and price updates, bug fixes, security patches, backups and uptime checks. After that you can continue from ₹8,000 a month, or simply message us when a change is needed and pay for that work alone.",
+        "Maintenance is free for two months after launch, covering content and price updates, bug fixes, security patches, backups and uptime checks. After that you can continue from ₹8,000 a month, or simply message us when a change is needed and pay for that work alone.",
       ],
     },
   ],
@@ -272,9 +272,9 @@ const purnia: CityContent = {
         "Yes. The domain and hosting are registered to you, and at launch you receive all logins and the complete source code. You can switch developers at any time without paying us an exit fee, and nothing about your site depends on our accounts.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "For five months after launch, updates, fixes, security patches, backups and uptime checks cost nothing. After that you can choose a maintenance plan from ₹8,000 a month, or message us only when a change is needed and pay for that job alone.",
+        "For two months after launch, updates, fixes, security patches, backups and uptime checks cost nothing. After that you can choose a maintenance plan from ₹8,000 a month, or message us only when a change is needed and pay for that job alone.",
     },
     {
       question: "Do you also work in Katihar, Araria, Kishanganj and Forbesganj?",

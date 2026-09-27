@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Taps from the home page to an order or a booking" },
     { value: "0", label: "Commission we take on your orders" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What should restaurant website design in Singapore include, and what does it cost?",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Bookings", value: "Your existing reservation system embedded, or a simple built-in form" },
       { label: "Price wording", value: "GST-inclusive prices, or the IRAS service-charge statement" },
       { label: "Starting prices", value: `Menu site from ${P.site}; ordering site from ${P.shop}` },
-      { label: "After launch", value: `Five months free, then care plans from ${P.care}` },
+      { label: "After launch", value: `Two months free, then care plans from ${P.care}` },
     ],
   },
   services: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Restaurant website pricing for Singapore outlets",
-    note: `A single outlet that needs a menu, photos, opening hours, a map and a booking button fits the static plan from ${P.site}. Direct ordering with a cart, pick-up time slots, delivery zones and a kitchen order screen follows the ecommerce plan from ${P.shop}. Groups with a central kitchen, loyalty points or staff rostering tools move into custom software from ${P.software}. Monthly local SEO starts at ${P.seo}; after five free months, maintenance starts at ${P.care}. These are starting prices in USD, and your written quote breaks down every page and feature before any work is billed.`,
+    note: `A single outlet that needs a menu, photos, opening hours, a map and a booking button fits the static plan from ${P.site}. Direct ordering with a cart, pick-up time slots, delivery zones and a kitchen order screen follows the ecommerce plan from ${P.shop}. Groups with a central kitchen, loyalty points or staff rostering tools move into custom software from ${P.software}. Monthly local SEO starts at ${P.seo}; after two free months, maintenance starts at ${P.care}. These are starting prices in USD, and your written quote breaks down every page and feature before any work is billed.`,
   },
   guideLabel: "Restaurant website design guide",
   guide: [
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Consider a hypothetical noodle brand with outlets in Tanjong Pagar and Tampines, one of which charges service charge and one of which runs as a counter-service shop. This is an illustration, not a client story.`,
         `The site would have one brand home page, two outlet pages with their own hours, maps and booking links, and a shared menu with outlet-specific prices. The Tanjong Pagar page shows pre-GST prices with the IRAS service-charge statement; the Tampines page shows GST-inclusive prices. Direct ordering is enabled for pick-up at both outlets, with delivery only from the outlet that has its own rider.`,
-        `If the brand were halal-certified at one outlet only, that outlet page alone would carry the certification status and expiry reminder. Build time would be about five to six weeks for the ordering site, starting from ${P.shop}, followed by five months of free maintenance.`,
+        `If the brand were halal-certified at one outlet only, that outlet page alone would carry the certification status and expiry reminder. Build time would be about five to six weeks for the ordering site, starting from ${P.shop}, followed by two months of free maintenance.`,
       ],
     },
     {
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Menu turned into data", "Your menu becomes structured text with categories, modifiers and dietary tags, and you check every price and description before design starts."],
       ["Design and build", "Pages are designed on your real dishes, then built with bookings, ordering, schema and the price-display mode your accountant confirmed."],
       ["Service-time testing", "We run test orders and bookings with your staff on real phones, check kitchen tickets, and fix anything awkward before the public sees it."],
-      ["Launch and five free months", "Domain switched, Business Profile links updated, and five months of free fixes and small edits. Menu changes after that fall under an optional care plan."],
+      ["Launch and two free months", "Domain switched, Business Profile links updated, and two months of free fixes and small edits. Menu changes after that fall under an optional care plan."],
     ],
   },
   faqHeading: "Restaurant website design in Singapore: questions owners ask",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Do you take photos of our food?", answer: "No, we do not do on-site photography. For hero images, a local food photographer is worth the spend. We can work with photos you already have, crop and compress them for fast loading, and advise on the shots that matter most for a menu, such as signature dishes and the dining room." },
     { question: "Can one website handle several outlets?", answer: "Yes. Each outlet gets its own page with hours, map, booking link, menu differences and, where relevant, its own price-display mode and halal status. Diners pick their outlet once, and the site remembers it for ordering. Central settings keep brand details consistent across all outlets." },
     { question: "Will I own my restaurant website and customer data?", answer: "Yes. The domain, hosting account, code, order history and customer list are yours from day one, and you receive every login at launch. We do not keep copies of your customer data or take any share of orders. If you later move to another developer, everything goes with you." },
-    { question: "What does a restaurant website cost to run each year?", answer: `Plan for domain renewal, hosting, payment processing fees on direct orders, any reservation platform subscription, and maintenance. The first five months after launch include free maintenance; after that, care plans start at ${P.care}. We list expected running costs in the quote so there are no surprises in year one.` },
+    { question: "What does a restaurant website cost to run each year?", answer: `Plan for domain renewal, hosting, payment processing fees on direct orders, any reservation platform subscription, and maintenance. The first two months after launch include free maintenance; after that, care plans start at ${P.care}. We list expected running costs in the quote so there are no surprises in year one.` },
     { question: "Can my website send orders to the kitchen automatically?", answer: "Yes. Orders can appear on a kitchen tablet screen or print on a receipt printer as clear tickets with modifiers, pick-up time and notes. Staff accept orders and mark them ready, and the customer can receive a confirmation and ready message. We test this with your team during a real service before launch." },
     { question: "Is a WhatsApp ordering bot better than a website?", answer: "They do different jobs. A WhatsApp flow is good for quick booking requests, opening hours and sending menu links to people who already message you. A website is better for browsing a full menu with photos, paying online and being found on Google. Many outlets use both, with the bot linking to the ordering page." },
     { question: "How do you handle customer data under the PDPA?", answer: "We collect only what an order or booking needs, show a short privacy notice with your data contact, keep marketing consent separate and unticked, and store delivery addresses only as long as you decide. Analytics and ad pixels follow the cookie choice you set. This supports your PDPA obligations; your own adviser confirms the final wording." },

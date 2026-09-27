@@ -56,7 +56,7 @@ const gumia: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about rates, stock, fees or OPD timings and flag the chats a person must handle.",
     data: "Monthly views of trips, equipment hours, wages and outstanding bills per site, so a contractor can see which job is losing money.",
     app: "Android and iOS apps, from ₹40,000 and listed on Google Play and the App Store, for supervisors logging challans at Swang or Kathara or for parents following school notices.",
-    maintenance: "Nothing to pay for upkeep during the first five months after go-live; later plans begin at ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Nothing to pay for upkeep during the first two months after go-live; later plans begin at ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Gomia suppliers are used to large clients who want every figure on paper. We keep the same habit with you: starting prices shown openly on our site, a written quote broken into lines, WhatsApp answered every day of the week, and the domain, hosting, source code and store accounts held under your name.",
@@ -194,7 +194,7 @@ const gumia: CityContent = {
       heading: "Ownership and maintenance for Gumia websites and apps",
       paragraphs: [
         "Everything we make belongs to you from day one. The domain sits on your email ID, hosting is invoiced in your name, the full source code is handed over, and you are the owner on the Google Business Profile and on the Play Console and App Store Connect accounts. At handover you receive a sheet listing each login.",
-        "Upkeep costs nothing for the first five months after launch. In that window we edit content, keep backups, apply security updates and test forms, carts and WhatsApp links. From month six you can choose a plan from ₹8,000 a month, run things yourself or give the code to any other developer.",
+        "Upkeep costs nothing for the first two months after launch. In that window we edit content, keep backups, apply security updates and test forms, carts and WhatsApp links. From month three you can choose a plan from ₹8,000 a month, run things yourself or give the code to any other developer.",
         "Apps need one extra habit: Google and Apple raise their technical requirements every year, and an app left without updates can drop out of the stores. We keep an eye on those dates for you.",
       ],
     },
@@ -286,7 +286,7 @@ const gumia: CityContent = {
     {
       question: "What maintenance comes after launch?",
       answer:
-        "The first five months after go-live are covered free: content edits, backups, security patches and checks on forms, payment pages and WhatsApp buttons. After that, paid upkeep starts at ₹8,000 a month if you want it. You can also manage it in-house or pass the code to another developer.",
+        "The first two months after go-live are covered free: content edits, backups, security patches and checks on forms, payment pages and WhatsApp buttons. After that, paid upkeep starts at ₹8,000 a month if you want it. You can also manage it in-house or pass the code to another developer.",
     },
     {
       question: "Do you also work in Tenughat, Bermo, Phusro and Bokaro?",

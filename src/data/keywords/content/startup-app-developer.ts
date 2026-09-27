@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Web app or SaaS from", `${P.software}`],
     ["Equity asked", "None; paid per written quote"],
     ["Store accounts", "Google Play and App Store in your company name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering app, backend and data" },
     { value: "2", label: "Working days to an itemised MVP quote" },
     { value: "0", label: "Equity or platform fees" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "Should a startup hire an app developer or find a technical co-founder?",
@@ -144,7 +144,7 @@ const content: FreelanceContent = {
       heading: "How much does a startup app developer cost in India?",
       paragraphs: [
         `With BtechWaleTech, an Android and iOS app MVP starts at ${P.app}, a web app or SaaS MVP at ${P.software}, an AI feature at ${P.ai}, and a launch website at ${P.site}. Most startup MVPs land somewhere above the base figure depending on roles, integrations and real-time features.`,
-        `Budget for more than the build. Allow for your Google Play developer registration and Apple Developer Program membership, cloud hosting, any AI API usage, SMS or email services, and a few months of fixes and small changes after real users arrive. Five months of maintenance is included free with us; after that it starts at ${P.care}.`,
+        `Budget for more than the build. Allow for your Google Play developer registration and Apple Developer Program membership, cloud hosting, any AI API usage, SMS or email services, and a few months of fixes and small changes after real users arrive. Two months of maintenance is included free with us; after that it starts at ${P.care}.`,
         `Quotes from different startup app developers vary widely for the same idea. The gap usually reflects scope assumptions: one quote includes an admin panel and analytics, another does not. Line up features before comparing numbers. For a detailed breakdown by complexity, read <a href='/app-development-cost-in-india/'>app development cost in India</a>.`,
       ],
     },
@@ -250,7 +250,7 @@ const content: FreelanceContent = {
       heading: "After launch: iterating, maintaining and handing over",
       paragraphs: [
         `Launch is when learning starts. The first weeks with real users show which assumptions were wrong, and the product needs quick, small changes rather than big new features.`,
-        `The five months of free maintenance after launch cover bug fixes, OS updates, store policy changes and small adjustments. New features are quoted separately, in small batches, so you only spend on what the data supports. After five months, maintenance starts at ${P.care} if you want us to continue.`,
+        `The two months of free maintenance after launch cover bug fixes, OS updates, store policy changes and small adjustments. New features are quoted separately, in small batches, so you only spend on what the data supports. After two months, maintenance starts at ${P.care} if you want us to continue.`,
         `When you hire your first in-house engineer, we run a handover: a walkthrough of the architecture, the deployment process and known technical debt, with our notes in the repository. From then on you can keep us for overflow work or step away entirely.`,
       ],
     },
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
         ["AI feature or agent", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Document reading, assistants, matching"],
         ["Launch or waitlist website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Pre-launch sign-ups, investor links"],
         ["Store or D2C commerce", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Product startups selling online"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, OS updates, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, OS updates, small changes"],
       ],
       hideSm: [2],
     },
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
       ["Accounts in your company name", "You create or we help set up the repository, cloud account and Google Play and App Store developer accounts under your company."],
       ["Weekly builds and demos", "Every week you install a new test build on your phone and see progress on a short call. Feedback goes straight to the three developers."],
       ["Beta, store review and launch", "We run a small beta with your test users, fix what they find, and take the app through Google Play and App Store review."],
-      ["Five months of free care, then handover", "Fixes and OS updates are free for five months. When you hire in-house, we walk your engineer through the code and docs."],
+      ["Two months of free care, then handover", "Fixes and OS updates are free for two months. When you hire in-house, we walk your engineer through the code and docs."],
     ],
   },
   faqHeading: "Startup app developer: questions founders ask",
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
     { question: "How do you keep app running costs low for a startup?", answer: "We use managed cloud services that charge by usage, keep the backend simple, cache expensive requests, and set limits on AI API calls. Before launch we estimate monthly running costs at your expected user numbers, so you know what to budget. Most early apps run cheaply until they reach real scale." },
     { question: "Can you add AI features to my startup app?", answer: `Yes, when AI solves a real user problem. Common examples are reading documents, smart search, summaries and recommendations using hosted AI APIs. We add cost limits, logging and test examples. AI features start at ${P.ai}. We will tell you honestly if a simpler non-AI approach would work better for your MVP.` },
     { question: "Do you sign NDAs with startup founders?", answer: "Ask us before you share sensitive details, and any NDA terms can be agreed in writing. Most founders find that a short description of the problem and user is enough for an initial quote, with deeper product details shared after an agreement is in place. See our terms page for how we handle client information." },
-    { question: "What happens after my startup app launches?", answer: `You get five months of free maintenance covering bug fixes, OS updates and store policy changes. New features are quoted in small batches so you spend only on what user data supports. After five months, maintenance starts at ${P.care}, or you can hand the app to your own engineers with our documentation.` },
+    { question: "What happens after my startup app launches?", answer: `You get two months of free maintenance covering bug fixes, OS updates and store policy changes. New features are quoted in small batches so you spend only on what user data supports. After two months, maintenance starts at ${P.care}, or you can hand the app to your own engineers with our documentation.` },
     { question: "Can you hand the project over to our first in-house developer?", answer: "Yes. We write architecture notes, setup steps and a list of third-party services into the repository as we build. When your engineer joins, we walk them through the code, deployment and known technical debt. After that you can keep us for extra capacity or run everything internally." },
     { question: "Do you work with startups outside India?", answer: `Yes. Founders in the USA, UK, Canada, Australia, Singapore, the UAE and elsewhere work with us remotely. We bill in USD, with app MVPs from ${P.appUsd}, and accept Wise, bank wire or PayPal. Weekly demos are scheduled in overlapping hours, and builds arrive on your phone through TestFlight and Google Play testing tracks.` },
     { question: "How do I pay a startup app developer safely?", answer: "Pay in stages tied to things you can see: an approved scope, a working test build, a complete core flow and store launch. Never pay the full amount upfront. With BtechWaleTech, nothing is billed before you approve the written quote, and Indian founders pay by bank transfer or UPI." },
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Have a startup idea that needs a real app?",
-    note: `Send us your idea and the assumption you most need to test. You will get an itemised MVP quote in about two working days, with mobile apps from ${P.app}, code and store accounts in your company name, and five months of free fixes after launch.`,
+    note: `Send us your idea and the assumption you most need to test. You will get an itemised MVP quote in about two working days, with mobile apps from ${P.app}, code and store accounts in your company name, and two months of free fixes after launch.`,
   },
 };
 

@@ -32,10 +32,10 @@ const patiala: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Patiala's bazaars, clinics and workshops",
     lede:
       "Three engineers, working remotely, who build quick-loading websites, online stores and automations for Patiala. We work with jutti and phulkari sellers near Qila Mubarak, doctors on the Leela Bhawan side, coaching centres for university students and suppliers at Focal Point. Prices are published and you talk to the person writing your code.",
-    pills: ["Sites from ₹10,000", "Punjabi and Hinglish search", "Phulkari and jutti stores", "WhatsApp enquiry flows", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Punjabi and Hinglish search", "Phulkari and jutti stores", "WhatsApp enquiry flows", "2 months free upkeep"],
   },
   quickAnswer:
-    "A Patiala business website with us starts at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page site built for Google search. Online stores start at ₹50,000. We are a remote team of three engineers with no Patiala office, and every launch includes five months of free maintenance.",
+    "A Patiala business website with us starts at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page site built for Google search. Online stores start at ₹50,000. We are a remote team of three engineers with no Patiala office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Old city bazaars", value: "Adalat Bazaar, Dharampura Bazaar and the lanes around Qila Mubarak" },
     { label: "Newer commercial areas", value: "Leela Bhawan, Bhupindra Road, Tripuri, Urban Estate and Sanauri Adda" },
@@ -52,10 +52,10 @@ const patiala: CityContent = {
     ai: "WhatsApp auto-replies, enquiry logging and AI assistants that answer routine questions in Punjabi, Hindi or English.",
     data: "Sales and admission figures pulled out of scattered Excel files and shown on one dashboard you can check from your phone.",
     app: "Android and iOS apps for student portals, patient bookings and repeat orders, available on Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "Updates, backups, security fixes and speed checks, free for five months after launch and ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security fixes and speed checks, free for two months after launch and ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "In Patiala, most websites are made by a friend's cousin or a small local shop that also sells printers, and many are abandoned within a year. We publish our prices, answer on WhatsApp every day of the week, and keep looking after your site for five months after it goes live without charging for it.",
+    "In Patiala, most websites are made by a friend's cousin or a small local shop that also sells printers, and many are abandoned within a year. We publish our prices, answer on WhatsApp every day of the week, and keep looking after your site for two months after it goes live without charging for it.",
   pricingIntro:
     "Ask five people in Patiala what a website costs and you will get five answers, most of them without a breakdown. The figures below are our actual starting prices. What you finally pay depends on the number of pages, the features and how much writing and photography you already have, and you see it itemised first.",
   sections: [
@@ -164,11 +164,11 @@ const patiala: CityContent = {
     },
     {
       id: "ownership-patiala",
-      heading: "Your domain, your code, and five months of care after launch",
+      heading: "Your domain, your code, and two months of care after launch",
       paragraphs: [
         "A surprising number of Patiala businesses do not control their own website. The domain was bought by a developer who has since moved to Canada, the hosting renews on someone else's card, and nobody has the password. When the site goes down, there is no one to call. Sorting this out can mean months of emails and sometimes buying a new domain altogether.",
         "We set things up the other way round. The domain is registered in your name, hosting is on an account you own, and at launch you receive every login, the source code and a one-page note explaining how it all fits together. If you later want another developer, you can hand everything over without asking our permission and without paying any exit charge.",
-        "For five months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that you can continue from ₹8,000 a month or simply message us when something needs doing.",
+        "For two months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that you can continue from ₹8,000 a month or simply message us when something needs doing.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const patiala: CityContent = {
         "Completely. The domain is registered in your name, the hosting account is yours, and you get the source code and every password at launch. You can move to another developer whenever you like, with no exit fee and no need for our permission.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose. You can continue with monthly maintenance from ₹8,000, which covers updates, backups, security and small edits, or you can stop and contact us only when you need a change. Either way the site keeps running on hosting you own.",
     },

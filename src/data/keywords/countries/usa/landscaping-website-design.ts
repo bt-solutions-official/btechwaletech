@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Town-page build", `From ${P.seoSite} · 3–5 weeks`],
     ["Custom quote tool or portal", `From ${P.software}`],
     ["Monthly local SEO", `From ${P.seo}`],
-    ["Free care after launch", `5 months, then from ${P.care}`],
+    ["Free care after launch", `2 months, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and maintain the site" },
     { value: "2", label: "Working days to an itemized USD quote" },
-    { value: "5", label: "Free months of fixes through your next busy season" },
+    { value: "2", label: "Free months of fixes through your next busy season" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -196,7 +196,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With our team, landscaping website design starts at ${P.site} for a lead site with galleries, seasonal pages and quote forms, and at ${P.shop} when customers sign up and pay for recurring plans online. Town-page builds start at ${P.seoSite}. Every figure is a starting price, and you receive an itemized USD quote in about two working days.`,
         `What moves the number: how many services and seasonal pages you need, gallery size and whether we write the captions, recurring billing and the number of plans, calculator complexity, and integrations with your scheduling or lawn-care software. A map-measuring quote tool or customer portal is a custom piece from ${P.software}.`,
-        `Your running costs go directly to providers: domain, hosting, payment processing fees and any paid tools. Five months of free fixes follow launch, then care plans from ${P.care}. Quotes from others vary widely for similar briefs, so compare line items rather than headline prices. The <a href='/pricing/'>pricing page</a> lists every starting price in one place.`,
+        `Your running costs go directly to providers: domain, hosting, payment processing fees and any paid tools. Two months of free fixes follow launch, then care plans from ${P.care}. Quotes from others vary widely for similar briefs, so compare line items rather than headline prices. The <a href='/pricing/'>pricing page</a> lists every starting price in one place.`,
       ],
     },
     {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: the domain, hosting, code, analytics, Google Business Profile and, most importantly, the payment provider account that receives recurring charges. We work as invited users and hand over a full account list at launch.`,
         `Payment ownership deserves emphasis. If a developer opens the payment account in their own name, your customers' recurring plans are effectively tied to that person. We never do this: you open the account, complete the provider's identity checks, and grant us limited access to connect it. If we part ways, billing continues without interruption.`,
-        `At handover you receive the code, the account list, a short video showing how to add gallery projects and switch seasonal promotions, and notes on how plans and renewals are configured. Five free months of maintenance start that day.`,
+        `At handover you receive the code, the account list, a short video showing how to add gallery projects and switch seasonal promotions, and notes on how plans and renewals are configured. Two free months of maintenance start that day.`,
       ],
     },
     {
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
       ["Plan the year", "A short call maps seasonal pages, which services are promoted when, and how recurring plans, add-ons and cancellations should work."],
       ["Review the design", "A preview link shows the home page, a gallery project and a signup flow. You comment from your phone; we revise overnight."],
       ["Test billing and forms", "We run test signups with test cards, check ZIP rules, renewals and online cancellation, and send sample leads to your inbox and software."],
-      ["Launch before your season", "The site goes live, sitemaps are submitted, every account is confirmed in your name and five free months of maintenance begin."],
+      ["Launch before your season", "The site goes live, sitemaps are submitted, every account is confirmed in your name and two free months of maintenance begin."],
     ],
   },
   faqHeading: "Landscaping website design questions",
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "Can I add snow removal to my landscaping website?", answer: "Yes. A snow and ice removal page with seasonal contract options, service areas and a signup or quote form works well, promoted from late fall. If contracts are billed per season or per visit, the signup flow shows those terms clearly before the customer agrees." },
     { question: "Does water-wise landscaping content help my website?", answer: "It often does, because homeowners care about water bills and restrictions. EPA WaterSense reports that US homes use nearly 8 billion gallons of water a day outdoors, mainly for landscape irrigation. Pages on irrigation checkups, smart controllers and low-water planting give customers useful answers and give you seasonal hooks." },
     { question: "How do I get more reviews through my landscaping website?", answer: "Send an automatic review link to customers after a job or at the end of a season, making it one tap to reach your Google profile. Ask them to add a photo of their yard. Show recent reviews near signup and quote buttons on the site. Never offer rewards for positive reviews." },
-    { question: "What happens after my landscaping website launches?", answer: `You get five months of free fixes and small edits, which usually covers your first busy season. Care plans then start at ${P.care}, covering updates, backups, monitoring and content changes. Monthly SEO from ${P.seo} is optional if you want ongoing work on content and local rankings.` },
+    { question: "What happens after my landscaping website launches?", answer: `You get two months of free fixes and small edits, which usually covers your first busy season. Care plans then start at ${P.care}, covering updates, backups, monitoring and content changes. Monthly SEO from ${P.seo} is optional if you want ongoing work on content and local rankings.` },
     { question: "How do I pay a web team in India for a landscaping website?", answer: "Quotes and invoices are in US dollars, and you pay by bank wire, Wise or PayPal on milestones written into the quote you approve. Nothing is billed before approval. Invoices come from India, so check with your accountant on how to record them." },
     { question: "Can you help write the content for my landscaping website?", answer: "Yes. We draft service, seasonal and town pages from a short call with you or a crew lead, and you check every technical detail before launch. Local knowledge, such as grass types, soil and timing in your area, comes from your team; we turn it into clear, readable pages." },
   ],

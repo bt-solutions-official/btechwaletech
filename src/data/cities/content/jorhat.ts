@@ -56,7 +56,7 @@ const jorhat: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock, room and ferry questions in Assamese, Hindi or English and hand real decisions back to a person.",
     data: "Dashboards comparing leaf intake, made tea and auction dispatches week by week, or admissions by course and source for colleges.",
     app: "Android and iOS apps for a garden's field staff, a coaching institute's students or a Jorhat restaurant's regulars, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "The first five months after launch are maintained free; afterwards maintenance starts at ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "The first two months after launch are maintained free; afterwards maintenance starts at ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Jorhat has a long habit of reading the small print, whether it is a tea auction catalogue or a college prospectus. We work the same way: starting prices in public, an itemised quote you can check line by line, WhatsApp replies seven days a week, and every login registered to you rather than to us.",
@@ -178,7 +178,7 @@ const jorhat: CityContent = {
       heading: "Ownership, handover and maintenance for Jorhat websites and apps",
       paragraphs: [
         "Small businesses in Upper Assam have lost websites because a developer registered the domain in his own name and then stopped answering. We avoid that from the start. Your domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are registered to you, and the logins are handed over in writing.",
-        "Maintenance is free for the first five months after launch. That covers content and price updates, backups, security patches, plugin and framework updates, and checks that forms, payments and WhatsApp links still work after changes. From the sixth month, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish.",
+        "Maintenance is free for the first two months after launch. That covers content and price updates, backups, security patches, plugin and framework updates, and checks that forms, payments and WhatsApp links still work after changes. From the third month, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish.",
         "Apps need attention every year because Google and Apple keep changing their requirements. We watch those changes and update your app before a deadline, so it is not pulled from the stores. During the monsoon, when power and network cuts are common, we also check that backups are running as they should.",
       ],
     },
@@ -266,7 +266,7 @@ const jorhat: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer at any time without penalty.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer at any time without penalty.",
     },
     {
       question: "Do you work with businesses in Titabor, Teok, Mariani and Sivasagar?",

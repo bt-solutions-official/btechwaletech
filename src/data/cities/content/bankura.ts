@@ -35,7 +35,7 @@ const bankura: CityContent = {
     pills: ["Websites from ₹10,000", "Bengali and English", "Terracotta and Baluchari stores", "Rice and oil mill pages", "Homestay booking sites"],
   },
   quickAnswer:
-    "Bankura businesses can get a static website from ₹10,000, built in one to two weeks. Our 299+ page SEO websites start at ₹20,000, craft or product stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Bankura office, and five months of maintenance after launch costs nothing.",
+    "Bankura businesses can get a static website from ₹10,000, built in one to two weeks. Our 299+ page SEO websites start at ₹20,000, craft or product stores at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Bankura office, and two months of maintenance after launch costs nothing.",
   snapshot: [
     { label: "Location", value: "District headquarters in western West Bengal, on the Dwarakeswar river, between the Damodar plains and the Chota Nagpur edge" },
     { label: "Crafts", value: "Bankura Panchmura terracotta (GI-registered in 2018), Baluchari sarees of Bishnupur, dokra metalwork and tussar silk" },
@@ -52,7 +52,7 @@ const bankura: CityContent = {
     ai: "WhatsApp replies in Bengali or English that answer price, stock, admission or appointment questions at any hour.",
     data: "Purchase, production and sales figures turned into a simple dashboard an owner can read on a phone.",
     app: "Android and iOS apps for dealer orders, patient tokens or student notices, released on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Five months of free updates, backups and security checks, then from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security checks, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "In Bankura, a website often means waiting on a Kolkata or Durgapur agency, or a cousin's template that nobody can edit. We are a remote team of three with published starting prices, WhatsApp replies every day of the week, and a firm rule that the client owns the domain, hosting and code.",
@@ -180,7 +180,7 @@ const bankura: CityContent = {
       paragraphs: [
         "A common Bankura story: a site was built years ago by someone who registered the domain in his own name and later moved to Kolkata or Bengaluru for work. The renewal lapses, the site disappears, and the business has to start again from nothing.",
         "We make sure this cannot happen. Domain and hosting are registered in your name from the first day, and at launch you receive every login, the full source code and a short guide to how the site works. You can move to another developer whenever you want, with no exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "For two months after launch, maintenance is free: text and price changes, bug fixes, security patches, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
   ],
@@ -267,7 +267,7 @@ const bankura: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in Bishnupur, Sonamukhi, Purulia and Durgapur?",

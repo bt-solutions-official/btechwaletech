@@ -31,11 +31,11 @@ const viluppuram: CityContent = {
     eyebrow: "Viluppuram · Tamil Nadu",
     h1: "Websites, apps, SEO and AI automation for Viluppuram's rice mills, clinics, schools and junction-town traders",
     lede:
-      "We are three engineers who build websites, Tamil and English search pages, UPI stores and WhatsApp automations for businesses in Viluppuram district, from rice and sugar traders and SIPCOT suppliers in Tindivanam to clinics near the medical college, Gingee travel operators and coaching centres. Starting prices are published, you deal with the developers directly, and maintenance costs nothing for five months.",
+      "We are three engineers who build websites, Tamil and English search pages, UPI stores and WhatsApp automations for businesses in Viluppuram district, from rice and sugar traders and SIPCOT suppliers in Tindivanam to clinics near the medical college, Gingee travel operators and coaching centres. Starting prices are published, you deal with the developers directly, and maintenance costs nothing for two months.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Villupuram, Vizhuppuram spellings covered", "Rice and agri trade sites", "WhatsApp enquiry routing"],
   },
   quickAnswer:
-    "A basic business website for a Viluppuram shop, clinic or trader starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Viluppuram office, and the first five months of maintenance are free.",
+    "A basic business website for a Viluppuram shop, clinic or trader starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Viluppuram office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Civic role", value: "Headquarters of Viluppuram district, carved out of Cuddalore district in 1993; a special grade municipality with 42 wards" },
     { label: "Transport", value: "A major railway junction with lines towards Chennai, Tiruchirappalli, Puducherry and Vellore, and National Highway 45 passing through" },
@@ -52,7 +52,7 @@ const viluppuram: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, appointment and fee questions in Tamil or English and hand anything unusual back to you.",
     data: "Season-wise purchase, sales and payment figures turned into a phone-friendly dashboard a mill owner or distributor can read in a minute.",
     app: "Android and iOS apps for school circulars, clinic tokens and dealer orders, listed on both stores with prices from ₹40,000.",
-    maintenance: "Backups, security patches, content edits and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Backups, security patches, content edits and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Viluppuram is a district headquarters and one of the busiest rail junctions in the state, yet many of its businesses still depend on word of mouth and a Justdial listing. Agencies in Chennai or Puducherry often quote high and rarely visit, while very cheap offers leave you without SEO or control of your domain. We publish starting prices, reply on WhatsApp seven days a week and hand over everything in your name.",
@@ -167,11 +167,11 @@ const viluppuram: CityContent = {
     },
     {
       id: "ownership-maintenance-viluppuram",
-      heading: "Your domain, your hosting, your code, and five months of free upkeep",
+      heading: "Your domain, your hosting, your code, and two months of free upkeep",
       paragraphs: [
         "A story we hear often in district towns: a developer registered the domain in his own name, stopped answering calls, and the business lost its website and email the next time renewal was due. Getting it back can take months, if it is possible at all.",
         "We avoid this by registering the domain and hosting in your name from day one. At launch you receive every login, the complete source code and a short note explaining how things are set up. If you later want another developer to take over, you can hand them everything without asking our permission or paying an exit fee.",
-        "Maintenance is free for the first five months after launch. That covers text and price edits, small layout fixes, security updates, backups, uptime monitoring and speed checks. After that, ongoing maintenance starts from ₹8,000 a month, or you can simply message us when you need a change and pay for that work alone.",
+        "Maintenance is free for the first two months after launch. That covers text and price edits, small layout fixes, security updates, backups, uptime monitoring and speed checks. After that, ongoing maintenance starts from ₹8,000 a month, or you can simply message us when you need a change and pay for that work alone.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const viluppuram: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle text and price changes, small fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can message us only when you need a change.",
+        "For two months after launch we handle text and price changes, small fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can message us only when you need a change.",
     },
     {
       question: "Can you guarantee a first-page ranking on Google?",

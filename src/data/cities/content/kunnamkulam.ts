@@ -56,7 +56,7 @@ const kunnamkulam: CityContent = {
     ai: "Malayalam-aware WhatsApp assistants that answer stock, timing and quotation questions and hand real decisions back to your staff.",
     data: "Monthly views of print orders by customer, book sales by title, and daily arecanut lots, rates and payments.",
     app: "Android and iOS apps for a book seller's regular buyers or a clinic's token queue, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for changes, backups and security patches.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for changes, backups and security patches.",
   },
   whyUsIntro:
     "Kunnamkulam merchants have seen plenty of salesmen and trust written numbers over promises. So we put our starting prices in public, send an itemised quote, reply on WhatsApp every day of the week and register every account in your name. When something you ask for will not earn its keep, we tell you plainly.",
@@ -178,7 +178,7 @@ const kunnamkulam: CityContent = {
       paragraphs: [
         "Everything we build is yours from the first day, not after a final payment ceremony. The domain is registered on your email. Hosting is billed to you. The full source code is shared with you. Your Google Business Profile, Google Play developer account and Apple developer account list your business as owner. At handover you get a written sheet of every login and where each one is used.",
         "Some local businesses have had the unhappy experience of a designer who disappeared with the domain password. That cannot happen with our setup, because we never hold the only key to anything.",
-        "For five months after launch, maintenance costs nothing: price and content changes, backups, security and software updates, and regular checks that forms, payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer. Apps need an update roughly once a year to meet Google and Apple requirements, and we schedule that before the deadline rather than after a warning email.",
+        "For two months after launch, maintenance costs nothing: price and content changes, backups, security and software updates, and regular checks that forms, payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer. Apps need an update roughly once a year to meet Google and Apple requirements, and we schedule that before the deadline rather than after a warning email.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const kunnamkulam: CityContent = {
     {
       question: "What happens to maintenance after the website is launched?",
       answer:
-        "The first five months after launch are free: content and price changes, backups, updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move it in-house or to another developer, because the code and accounts are already yours.",
+        "The first two months after launch are free: content and price changes, backups, updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move it in-house or to another developer, because the code and accounts are already yours.",
     },
     {
       question: "Do you serve Guruvayur, Kechery and Chowannur as well?",

@@ -56,7 +56,7 @@ const naidupet: CityContent = {
     ai: "Telugu WhatsApp assistants that answer rates, stock and timing questions and hand real decisions back to you.",
     data: "Dashboards of sales by village, dues by retailer, trips by vehicle and patient visits by month.",
     app: "Android and iOS apps for dealer re-orders, transport trip logs or school notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Naidupet owners often run two businesses at once, a shop in town and land or a vehicle outside it, and they have little time for long meetings. We publish starting prices, send an itemised quote in writing, reply on WhatsApp every day of the week and put the domain, hosting, code and store accounts in your own name.",
@@ -176,7 +176,7 @@ const naidupet: CityContent = {
       heading: "Ownership and maintenance for Naidupet websites and apps",
       paragraphs: [
         "A familiar problem in smaller towns is a website that vanishes because the person who built it registered the domain in his own name and then stopped answering calls. We avoid that from the first day. The domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are registered in your name, and the logins are handed over in writing.",
-        "Maintenance is free for five months after launch. That covers content and price changes, backups, security patches, software updates, and regular checks that forms, payments and WhatsApp buttons still work. After that period, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any point.",
+        "Maintenance is free for two months after launch. That covers content and price changes, backups, security patches, software updates, and regular checks that forms, payments and WhatsApp buttons still work. After that period, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any point.",
         "Apps need attention each year because Google and Apple keep raising their requirements. We watch for those changes and update your app in time, so it is not pulled from the stores for falling behind.",
       ],
     },
@@ -268,7 +268,7 @@ const naidupet: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to carry on. You can also take your code and move to another developer at any time.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to carry on. You can also take your code and move to another developer at any time.",
     },
     {
       question: "Do you work in Sullurpeta, Gudur and Venkatagiri as well?",

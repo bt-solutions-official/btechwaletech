@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["iOS and Android app from", `${P.app} · 6–10 weeks`],
     ["Hurricane season", "June 1 – November 30 (NOAA)"],
     ["Billing", "USD · wire, Wise, PayPal"],
-    ["Care plan", `5 months free, then from ${P.care}`],
+    ["Care plan", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, AI and cloud, delivery" },
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Your time spent", "Low", "High: you design, write and maintain", "Low to moderate: reviews and answers"],
       ["Moving away later", "Depends on contract", "Often means rebuilding", "Easy: code and hosting are already yours"],
       ["Texas privacy setup", "Varies", "Your responsibility", "Built in and explained"],
-      ["Support", "Retainer or hourly", "Builder help center", `5 months free, then from ${P.care}`],
+      ["Support", "Retainer or hourly", "Builder help center", `2 months free, then from ${P.care}`],
     ],
     fine: "A DIY builder is a sensible start for a one-page presence on a tight budget; switch when you need Spanish pages done properly, custom forms or control of your own hosting.",
   },
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, Houston small business web design starts at ${P.site} for a lead site, ${P.seoSite} for a larger or bilingual SEO site, ${P.shop} for an online store and ${P.app} for a mobile app. Local quotes vary widely; what matters is what each line of the quote covers.`,
         `The main cost drivers for Houston projects are page count (a full Spanish version roughly doubles it), content readiness, integrations such as scheduling, CRM or field-service tools, and resilience upgrades like moving hosting, setting up off-region backups and building the storm banner. Copywriting and translation are either supplied by you or listed separately, so you can control them.`,
-        `Ongoing costs are simple to see because they are in your name: domain renewal, hosting and any paid plugins or tools. After the first five months of free fixes, optional maintenance starts at ${P.care}, and monthly SEO in one or both languages starts at ${P.seo}. For a line-by-line look at what US small business sites cost, see <a href='/usa/small-business-website-cost/'>small business website cost</a>, and our <a href='/pricing/'>pricing page</a> lists what each plan includes.`,
+        `Ongoing costs are simple to see because they are in your name: domain renewal, hosting and any paid plugins or tools. After the first two months of free fixes, optional maintenance starts at ${P.care}, and monthly SEO in one or both languages starts at ${P.seo}. For a line-by-line look at what US small business sites cost, see <a href='/usa/small-business-website-cost/'>small business website cost</a>, and our <a href='/pricing/'>pricing page</a> lists what each plan includes.`,
       ],
     },
     {
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
         `This is an illustrative scenario, not a client story. Picture a family-run HVAC company in Katy with six technicians, an English-only site on an aging theme, and a dispatcher who handles many calls in Spanish. It is March, and the owner wants the new site live before the summer rush and hurricane season.`,
         `The plan: an English site with pages for AC repair, AC installation, heating, maintenance plans and indoor air quality; a matching Spanish version under /es/ translated by a professional and checked by the dispatcher; a quote form with photo upload in both languages; a storm-status banner; and hosting moved to a cloud region outside the Gulf Coast with daily off-site backups.`,
         `Weeks one and two: site map, English outlines, string export for translation, and templates on staging. The owner reviews each morning before the first job. Week three: Spanish copy placed, layout fixes for longer text, hreflang tags added and checked, forms tested end to end in both languages. Week four: backup restore tested, banner training for the office manager, launch, and Search Console set up for both versions.`,
-        `A bilingual SEO site of this kind would start from ${P.seoSite}, with translation paid separately to the translator. After launch, the company has five months of free fixes, then optional care from ${P.care}.`,
+        `A bilingual SEO site of this kind would start from ${P.seoSite}, with translation paid separately to the translator. After launch, the company has two months of free fixes, then optional care from ${P.care}.`,
       ],
     },
     {
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
       ["Kick off in a Central-time morning", "One call around 8 a.m. Central settles goals, accounts and who reviews the Spanish copy. After that, updates arrive in writing each morning."],
       ["Build in English, then Spanish", "Templates and English content go on staging first; we export every string for translation, then place and test the approved Spanish pages."],
       ["Set up hosting, backups and banner", "Hosting goes to a region away from the Gulf, backups to a second region, and the status banner is tested with your staff before launch."],
-      ["Launch and hand over", "The site goes live, Search Console covers both languages, logins and notes are handed over and five months of free fixes begin."],
+      ["Launch and hand over", "The site goes live, Search Console covers both languages, logins and notes are handed over and two months of free fixes begin."],
     ],
   },
   faqHeading: "Houston small business web design questions",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a web developer in India from Texas?", answer: "Quotes are in USD, and you pay by bank wire, Wise or PayPal against milestones in the quote. Invoices come from India. We do not give tax advice, so check with your accountant about recording payments to an overseas contractor." },
     { question: "Will you come to our office in Houston?", answer: "No. The team works remotely from India and does not make site visits or office meetings. Everything runs through WhatsApp, email, shared boards and video calls in your morning. For photos of your team, projects or facility, a local photographer is the best choice, and we will tell you which shots the site needs." },
     { question: "Can you guarantee first-page rankings in Houston?", answer: "No, and be cautious of anyone who does. Rankings depend on competition, reviews, content and many signals outside a developer’s control. We build fast, well-structured pages in English and Spanish, set up structured data and Search Console, and report honestly on what changes after launch." },
-    { question: "What does website maintenance cost after launch?", answer: `The first five months of fixes and small updates after launch are free. After that, maintenance starts at ${P.care}, covering updates, backup checks, uptime monitoring and small content edits, including storm-season banner support. You hold every login, so you can also manage the site yourself or move to someone else.` },
+    { question: "What does website maintenance cost after launch?", answer: `The first two months of fixes and small updates after launch are free. After that, maintenance starts at ${P.care}, covering updates, backup checks, uptime monitoring and small content edits, including storm-season banner support. You hold every login, so you can also manage the site yourself or move to someone else.` },
     { question: "Can you build an app for our field technicians?", answer: `Yes. A field app with job lists, photos, customer signatures and offline mode for poor-signal areas starts at ${P.app} for iOS and Android, built with Flutter or React Native. It is published under your own Apple and Google developer accounts, which cost US$99 a year and a one-time US$25 respectively.` },
     { question: "How can my Houston business appear in AI search answers?", answer: "Give AI tools clear, specific information to work with: question-and-answer sections, exact services, hours, areas and prices, structured data, and consistent business details across your site, Google Business Profile and directories. Do this in both languages if you serve Spanish speakers. No one controls what AI assistants cite, but accurate, clear content improves your chances." },
   ],

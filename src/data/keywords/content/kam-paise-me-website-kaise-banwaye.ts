@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Chhote budget, par achhi website",
     h1: "Kam paise me website kaise banwaye: kya rakhein, kya kaatein, aur kin sasti offers se bachein",
     lede: `Kam paise me website kaise banwaye, iska seedha formula hai: chhoti par saaf website se shuru kijiye, content khud taiyaar kijiye, domain aur hosting apne naam par rakhiye, aur baaki features baad ke phase mein jodiye. Hum teen freelance developers hain aur up to 100 pages ki static business website ${P.site} se, 1–2 hafte mein banate hain. Neeche wo sab hai jo sasti offer lene se pehle jaanna chahiye; poora kharcha samajhna ho toh <a href='/website-banane-ka-kharcha/'>website banane ka kharcha</a> bhi padhiye.`,
-    pills: [`Static website ${P.site} se`, "Up to 100 pages", "Domain aur hosting aapke naam", "Mobile par tez", "Phase-wise build", "Line-by-line quote", "5 mahine free maintenance"],
+    pills: [`Static website ${P.site} se`, "Up to 100 pages", "Domain aur hosting aapke naam", "Mobile par tez", "Phase-wise build", "Line-by-line quote", "2 mahine free maintenance"],
     origin: "Teen freelance developers, India se remote · WhatsApp par saaton din jawab, IST",
   },
   facts: [
@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Build ka samay", "1–2 hafte, static site"],
     ["Pages", "100 tak static plan mein"],
     ["Code aur domain", "Aapke naam par, shuru se"],
-    ["Launch ke baad", "5 mahine free maintenance"],
+    ["Launch ke baad", "2 mahine free maintenance"],
     ["Payment", "UPI ya bank transfer, approval ke baad"],
   ],
   stats: [
     { value: "100", label: "Pages tak static plan mein shaamil" },
     { value: "2", label: "Working din mein line-by-line quote" },
-    { value: "5", label: "Mahine free maintenance launch ke baad" },
+    { value: "2", label: "Mahine free maintenance launch ke baad" },
     { value: "0", label: "Platform ya middleman fee" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Kya baad mein jodein", value: "Online payment, blog, booking, extra languages" },
       { label: "Kabhi mat kaatiye", value: "SSL, backups, apne naam ka domain, mobile speed" },
       { label: "Sabse bada jaal", value: "Domain ya hosting vendor ke naam par" },
-      { label: "Launch ke baad", value: `5 mahine free, phir ${P.care} se ya khud sambhaliye` },
+      { label: "Launch ke baad", value: `2 mahine free, phir ${P.care} se ya khud sambhaliye` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "SEO website, jab leads Google se chahiye", note: `Kai shehar ya services ke liye 299+ pages, schema aur sitemap ke saath, ${P.seoSite} se. Budget badhne par agla kadam.`, href: "/seo-website-developer/", size: "md" },
       { name: "Chhota online store", note: `UPI aur card checkout ke saath, ${P.shop} se. Pehle WhatsApp order se kaam chal jaaye toh isse rukiye.`, href: "/online-dukan-kaise-khole/", size: "sm" },
       { name: "Hosting aur domain setup", note: "Aapke naam par sahi account, SSL aur email, bina extra saal ke bundle ke.", href: "/cloud-hosting-setup-freelancer/", size: "sm" },
-      { name: "Maintenance", note: `5 mahine free, phir ${P.care} se, ya aapko khud sambhalna sikhayenge.`, href: "/services/", size: "sm" },
+      { name: "Maintenance", note: `2 mahine free, phir ${P.care} se, ya aapko khud sambhalna sikhayenge.`, href: "/services/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Kam budget ki website ka price: shuruaat kahan se hoti hai",
-    note: `Static website humari sabse sasti line hai: ${P.site} se, up to 100 pages, 1–2 hafte. Price tab badhta hai jab alag-alag design wale pages zyada hon, form ya calculator jaise custom features chahiye hon, ya content hume likhna ya dobara sajana pade. Isliye budget bachane ka sabse aasaan tareeka hai apna text aur photos khud taiyaar karna. Quote line-by-line aata hai, lagbhag 2 working din mein, taaki aap koi line hata kar budget mein fit kar sakein. Domain aur hosting ka saalana kharcha aap seedhe provider ko dete hain. Launch ke baad 5 mahine ki maintenance free hai.`,
+    note: `Static website humari sabse sasti line hai: ${P.site} se, up to 100 pages, 1–2 hafte. Price tab badhta hai jab alag-alag design wale pages zyada hon, form ya calculator jaise custom features chahiye hon, ya content hume likhna ya dobara sajana pade. Isliye budget bachane ka sabse aasaan tareeka hai apna text aur photos khud taiyaar karna. Quote line-by-line aata hai, lagbhag 2 working din mein, taaki aap koi line hata kar budget mein fit kar sakein. Domain aur hosting ka saalana kharcha aap seedhe provider ko dete hain. Launch ke baad 2 mahine ki maintenance free hai.`,
   },
   guideLabel: "Kam budget website guide",
   guide: [
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       heading: "What does a small website cost after launch?",
       paragraphs: [
         `After launch, a static site mainly costs its domain and hosting renewals, plus any changes you ask for. There is no plugin licence to renew and very little to patch, which is why it suits tight budgets.`,
-        `With us, the first 5 months after launch include free maintenance: fixes, small text or photo changes and checks that forms still reach you. After that you can take a maintenance plan from ${P.care}, or run the site yourself with the handover notes we give you. Many small static sites need so little attention that owners simply message us when they need a change and get a quote for that job.`,
+        `With us, the first 2 months after launch include free maintenance: fixes, small text or photo changes and checks that forms still reach you. After that you can take a maintenance plan from ${P.care}, or run the site yourself with the handover notes we give you. Many small static sites need so little attention that owners simply message us when they need a change and get a quote for that job.`,
         `A WordPress site is different. Core, theme and plugin updates arrive regularly, and backups need checking. If nobody does that, the site slowly becomes a security risk, which is how many cheap WordPress sites end up hacked. Budget for that upkeep before choosing WordPress. For a line-by-line view of renewals and upkeep, see <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a>.`,
       ],
     },
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Content aapki taraf se", "Aap services ka text, 15–20 photos, timing aur price list bhejte hain. Hum structure banate hain aur bhasha thodi sudhaarte hain."],
       ["Domain aur hosting aapke naam", "Aap khud domain aur hosting khareedte hain ya hum aapke account mein setup karte hain. Owner access aapke paas hi rehta hai."],
       ["Design, build aur speed check", "Phone-first design, pages, form, WhatsApp button, map aur Search Console. Launch se pehle PageSpeed report aapke saath share hota hai."],
-      ["Launch, handover aur agla phase", "Website live, logins aur code aapko, aur 5 mahine free maintenance shuru. Data dekhkar agle phase ki salah dete hain, jab aap tayyar hon."],
+      ["Launch, handover aur agla phase", "Website live, logins aur code aapko, aur 2 mahine free maintenance shuru. Data dekhkar agle phase ki salah dete hain, jab aap tayyar hon."],
     ],
   },
   faqHeading: "Kam budget website ke sawaal",
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
     { question: "Who owns the website if I pay a freelancer?", answer: "You should, completely. With us the domain and hosting are in your name from day one, and at launch you receive the source code and every login. If you later hire someone else, they can pick it up without asking us for anything. Ask any developer to confirm ownership in writing before you pay." },
     { question: "Can I add online payments or a store later?", answer: `Yes. A well-structured phase-one site can take a store or a payment page later without a redesign. Many small businesses start with a WhatsApp order button, then add UPI and card checkout once orders are steady. Our ecommerce line starts from ${P.shop}, quoted separately when you are ready.` },
     { question: "Will a cheap website show up on Google?", answer: "It can, because Google looks at relevance, speed, structure and trust rather than what the site cost. Unique page titles, clear service pages, LocalBusiness schema, a submitted sitemap in Google Search Console and a matching Google Business Profile do most of the early work. No one can honestly guarantee a ranking or a date for it." },
-    { question: "Do I need to pay for maintenance every month?", answer: `Not straight away. Our first 5 months after launch include free maintenance. After that you can choose a plan from ${P.care}, or run a static site yourself with our handover notes and pay only when you need a change. WordPress sites need regular updates, so plan maintenance for those.` },
+    { question: "Do I need to pay for maintenance every month?", answer: `Not straight away. Our first 2 months after launch include free maintenance. After that you can choose a plan from ${P.care}, or run a static site yourself with our handover notes and pay only when you need a change. WordPress sites need regular updates, so plan maintenance for those.` },
     { question: "Can you make the website in Hindi?", answer: "Yes. We can build a Hindi-only site, an English site with Hindi pages, or both languages side by side. You supply or approve the Hindi text so it sounds like your business. A second language adds pages, so on a tight budget many owners start with the language most customers use and add the other in phase two." },
     { question: "How do I compare quotes from different developers?", answer: "Send every developer the same brief: page list, features, who writes content, and your deadline. Then compare what each quote actually includes: mobile-first design, contact form, WhatsApp button, HTTPS, backups, Search Console, handover of code and logins, and after-launch support. A lower number missing half of these is not the better deal." },
     { question: "Is it safe to pay the full amount upfront?", answer: "It is safer not to. With us, nothing is billed before you approve a written quote, and payment in India is by UPI or bank transfer. For larger projects, staged payments tied to milestones are normal; the exact terms are set in your written quote. A developer demanding everything upfront for a small site is a warning sign." },

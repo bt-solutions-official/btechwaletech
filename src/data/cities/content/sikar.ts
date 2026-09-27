@@ -30,11 +30,11 @@ const sikar: CityContent = {
     eyebrow: "Sikar · Rajasthan",
     h1: "Websites, software, SEO and AI tools for Sikar coaching institutes, hostels, traders and temple-town hotels",
     lede:
-      "A remote team of three engineers building websites and automation for Sikar and the wider Shekhawati belt: NEET and JEE coaching institutes on Piprali Road, student hostels and PGs, onion and grain traders at the mandi, hospitals, schools, and hotels serving Khatu Shyam pilgrims. Starting prices are public, you speak to the engineers directly, and maintenance is free for five months.",
+      "A remote team of three engineers building websites and automation for Sikar and the wider Shekhawati belt: NEET and JEE coaching institutes on Piprali Road, student hostels and PGs, onion and grain traders at the mandi, hospitals, schools, and hotels serving Khatu Shyam pilgrims. Starting prices are public, you speak to the engineers directly, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Coaching admission funnels", "Hostel and PG listings", "Pilgrim hotel bookings"],
   },
   quickAnswer:
-    "In Sikar, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team without a Sikar office; you own the domain and code, and five months of maintenance are free.",
+    "In Sikar, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote three-engineer team without a Sikar office; you own the domain and code, and two months of maintenance are free.",
   snapshot: [
     { label: "Regional role", value: "Largest city of Shekhawati (Sikar, Jhunjhunu and Churu districts), about 114 km north-west of Jaipur on NH 52" },
     { label: "Education", value: "Often called Rajasthan's “Mini Kota” for its NEET and IIT-JEE coaching institutes, concentrated around Piprali Road and Nawalgarh Road" },
@@ -51,10 +51,10 @@ const sikar: CityContent = {
     ai: "WhatsApp assistants that answer batch, fee, hostel and room questions in Hindi at any hour and hand genuine leads to your counsellor.",
     data: "Dashboards for enquiries, admissions, test scores or daily arrivals, so owners can see the season's numbers without chasing staff.",
     app: "Android and iPhone apps for student notices, test schedules and hostel attendance, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month if you choose.",
+    maintenance: "Free updates, backups and security fixes for two months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
-    "Sikar has no shortage of people who build websites, from students freelancing between classes to Jaipur agencies with account managers. The gap is usually accountability: the domain ends up in someone else's name and nobody answers after launch. We publish starting prices, send written itemised quotes, reply on WhatsApp seven days a week, and include five free months of maintenance.",
+    "Sikar has no shortage of people who build websites, from students freelancing between classes to Jaipur agencies with account managers. The gap is usually accountability: the domain ends up in someone else's name and nobody answers after launch. We publish starting prices, send written itemised quotes, reply on WhatsApp seven days a week, and include two free months of maintenance.",
   pricingIntro:
     "Every figure on this page is a starting price. What you finally pay depends on page count, features, whether you need Hindi, English or both, and how much writing we take on. We send an itemised quote in writing within about two working days, and nothing is billed until you approve it.",
   sections: [
@@ -176,7 +176,7 @@ const sikar: CityContent = {
       paragraphs: [
         "In a coaching town, many sites are built by students or part-time freelancers who move on when their course ends. Institutes and hostels then discover the domain was registered in that person's name and the hosting login is lost. A phone number cannot be changed and a site goes dark just before admission season.",
         "We avoid that by design. Your domain and hosting are registered in your name, on your payment method, from day one. At launch you receive all logins, the complete source code and a short handover note. Our <a href=\"/services/web-development/\">web development</a> uses common, well-documented tools, so any capable developer can continue if you choose. There is no lock-in and no exit charge.",
-        "For five months after launch, maintenance is free: updates, security patches, backups, uptime checks, bug fixes and small content changes. After that you can continue from ₹8,000 a month, or contact us only when you need something done.",
+        "For two months after launch, maintenance is free: updates, security patches, backups, uptime checks, bug fixes and small content changes. After that you can continue from ₹8,000 a month, or contact us only when you need something done.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const sikar: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small changes to text or photos. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
+        "For two months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small changes to text or photos. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long does SEO take for a Sikar institute or hostel?",

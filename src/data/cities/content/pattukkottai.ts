@@ -56,7 +56,7 @@ const pattukkottai: CityContent = {
     ai: "WhatsApp assistants in Tamil that answer rate, stock, admission and appointment questions and pass real decisions to you.",
     data: "Dashboards of daily coconut arrivals and rates, coir dispatches by buyer, and patient or admission enquiries by village.",
     app: "Android and iOS apps for farmers checking coconut lot payments, college notices or hospital tokens, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Pattukkottai traders deal in thin margins and daily rates, so they want costs clear before they start. We publish starting prices, send an itemised written quote, and answer WhatsApp every day of the week. Domain, hosting, source code and app store accounts are registered in your name, and if something will not pay for itself, we say so.",
@@ -169,7 +169,7 @@ const pattukkottai: CityContent = {
       heading: "Ownership and maintenance for Pattukkottai websites and apps",
       paragraphs: [
         "Many delta businesses have lost a website because a freelancer bought the domain under his own login and then vanished. We prevent that by opening every account, from domain and hosting to the code repository, Google Business Profile and developer accounts on Google Play and the App Store, in the client's name. Passwords are handed over in a written note.",
-        "For five months after launch we look after the site at no charge: text and rate changes, backups, security patches, plugin and framework updates, and regular tests of forms, checkout and WhatsApp buttons. After those five months, continuing care is available from ₹8,000 a month, and if you would rather hire someone else, the whole project goes with you.",
+        "For two months after launch we look after the site at no charge: text and rate changes, backups, security patches, plugin and framework updates, and regular tests of forms, checkout and WhatsApp buttons. After those two months, continuing care is available from ₹8,000 a month, and if you would rather hire someone else, the whole project goes with you.",
         "Google and Apple revise their store policies every year, and apps that fall behind get delisted. We watch those notices and ship the required updates. After Cyclone Gaja in 2018 flattened large parts of the coconut belt, the value of having your records and website on cloud servers, away from any single office, became obvious to many here.",
       ],
     },
@@ -261,7 +261,7 @@ const pattukkottai: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of care free after going live, including edits, backups, security fixes and regular testing of forms and checkout. Beyond that, ongoing maintenance begins at ₹8,000 a month, but it is optional. If you prefer another developer later, the code and accounts are already yours to hand over.",
+        "You get two months of care free after going live, including edits, backups, security fixes and regular testing of forms and checkout. Beyond that, ongoing maintenance begins at ₹8,000 a month, but it is optional. If you prefer another developer later, the code and accounts are already yours to hand over.",
     },
     {
       question: "Do you work in Adirampattinam, Madukkur and nearby towns?",

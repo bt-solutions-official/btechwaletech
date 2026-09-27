@@ -35,7 +35,7 @@ const buxar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Rice and grain trade sites", "School and clinic pages", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "A basic business website in Buxar starts at ₹10,000 with us and is ready in one to two weeks. Search-focused sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Buxar office, and maintenance is free for five months after launch.",
+    "A basic business website in Buxar starts at ₹10,000 with us and is ready in one to two weeks. Search-focused sites of 299+ pages start at ₹20,000, online stores at ₹50,000 and WhatsApp or AI automation at ₹40,000. We work remotely with no Buxar office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "District role", value: "Buxar is the headquarters of Buxar district, carved out in 1991, with Buxar and Dumraon as its two subdivisions" },
     { label: "Border trade", value: "The town sits on the Ganga opposite Uttar Pradesh, bordering Ballia and Ghazipur districts, roughly 125 km from Patna" },
@@ -52,7 +52,7 @@ const buxar: CityContent = {
     ai: "WhatsApp auto-replies in Hindi that answer fee, timing, stock and rate questions, and pass anything unusual to the owner with the chat history.",
     data: "Simple dashboards for admissions, sales or mill output by week, so an owner in Buxar can compare this season with the last one on a phone.",
     app: "Android and iOS apps for school notices, delivery rounds or site attendance that keep working offline, released on Google Play and the App Store.",
-    maintenance: "Updates, backups, security checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to carry on.",
+    maintenance: "Updates, backups, security checks and small edits free for two months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:
     "A lot of Buxar businesses either have no website or have one that a nephew or a Varanasi agency made years ago and nobody can edit now. We publish our starting rates, put every quote in writing item by item, register the domain in your name and let you talk directly to the engineer building your site.",
@@ -164,11 +164,11 @@ const buxar: CityContent = {
     },
     {
       id: "ownership-buxar",
-      heading: "Keeping your site in your own name, with five months of free care",
+      heading: "Keeping your site in your own name, with two months of free care",
       paragraphs: [
         "Ask around Buxar and you will hear of shops whose websites vanished because the person who built them kept the domain and later stopped answering calls. Years of reviews, visiting cards and signboards then pointed to a dead address.",
         "We avoid that by design. The domain and hosting are bought in your name from your own account. At launch you get every password, the full source code and a short written guide to how the site is built. If you ever move to another developer, you simply give them those details. There is no exit fee and nothing held back.",
-        "For five months after launch we look after the site free: updates, backups, security, uptime checks, bug fixes and small content changes. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month if you want it, or you can call us only when something needs doing.",
+        "For two months after launch we look after the site free: updates, backups, security, uptime checks, bug fixes and small content changes. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month if you want it, or you can call us only when something needs doing.",
       ],
     },
     {
@@ -258,7 +258,7 @@ const buxar: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "Five months of free maintenance: updates, backups, security fixes, uptime checks and small edits. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is a separate service starting from ₹10,000.",
+        "Two months of free maintenance: updates, backups, security fixes, uptime checks and small edits. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is a separate service starting from ₹10,000.",
     },
     {
       question: "How soon will SEO show results in Buxar?",

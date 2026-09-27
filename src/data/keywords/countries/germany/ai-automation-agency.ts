@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Model hosting", "EU region or self-hosted, your choice"],
     ["Who owns the workflows", "Your company, in your accounts"],
     ["Billing", "USD or EUR by Wise or bank wire"],
-    ["After launch", `5 months free, then care from ${P.care}`],
+    ["After launch", `2 months free, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers on your automation" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, one production-ready workflow starts at ${P.ai} and takes 2–4 weeks; a small bundle of related workflows is quoted as one project with shared components. German agencies and freelancers quote in many different ways, so the only reliable comparison is scope against scope.`,
         `What moves the price: the number of document layouts or email types to handle; the number of systems to read from and write to; whether you need a custom review screen or can approve inside existing tools such as Outlook, Teams or your ERP; how strict the audit trail must be; and whether the model runs hosted or on your own hardware. A self-hosted model adds setup and tuning time.`,
-        `Running costs sit outside the build price and belong to your account: the model provider bills usage directly, the cloud host bills compute, and the automation platform may have its own licence if you choose a paid tier. After five free months of maintenance, a care plan starts from ${P.care} if you want us to keep watching the workflows. When the project grows into an application with its own users and screens, it becomes custom software, which starts at ${P.software}. The <a href='/germany/software-development-cost/'>software development cost guide for Germany</a> shows how to budget that bigger step.`,
+        `Running costs sit outside the build price and belong to your account: the model provider bills usage directly, the cloud host bills compute, and the automation platform may have its own licence if you choose a paid tier. After two free months of maintenance, a care plan starts from ${P.care} if you want us to keep watching the workflows. When the project grows into an application with its own users and screens, it becomes custom software, which starts at ${P.software}. The <a href='/germany/software-development-cost/'>software development cost guide for Germany</a> shows how to budget that bigger step.`,
       ],
     },
     {
@@ -229,7 +229,7 @@ const content: FreelanceContent = {
         `A single workflow typically takes 2–4 weeks from signed quote to production, split into discovery, build, a shadow pilot and go-live. The pilot is the step people want to skip and should not.`,
         `In the first days we collect real samples (anonymised where needed), agree the fields and decisions, and write the acceptance criteria: for example, "supplier, invoice number and gross amount correct on at least the agreed share of the test set, and every failure routed to review". Then the workflow is built against those samples in your cloud account.`,
         `During the shadow pilot the workflow runs on live input but changes nothing; its output is compared with what your staff did by hand. That shows real accuracy, reveals document types nobody mentioned, and lets the team build trust. Only then do we switch it to "prepare and wait for approval" mode, and later, for low-risk steps you choose, to fully automatic.`,
-        `After go-live the first month is about tuning: adjusting prompts for edge cases, tightening rules, and checking that alerts reach the right person. Five months of free maintenance cover that period, and the handover document records every change so your IT team always knows what is running.`,
+        `After go-live the first month is about tuning: adjusting prompts for edge cases, tightening rules, and checking that alerts reach the right person. Two months of free maintenance cover that period, and the handover document records every change so your IT team always knows what is running.`,
       ],
     },
     {
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get the scope, model and hosting choice, timeline and price in USD, with running costs estimated. Nothing is billed until you approve it."],
       ["Build in your accounts", "The workflow is set up in your cloud and tools, prompts are tested on your samples, and error handling, alerts and logs are added before anyone relies on it."],
       ["Shadow pilot", "The workflow runs on live input without acting, its output is compared with staff decisions, and accuracy and review time are measured against the agreed criteria."],
-      ["Go-live and care", "Approval mode is switched on, staff get a short AI literacy session and guide, and five months of free maintenance begin. Care plans start from " + P.care + " afterwards."],
+      ["Go-live and care", "Approval mode is switched on, staff get a short AI literacy session and guide, and two months of free maintenance begin. Care plans start from " + P.care + " afterwards."],
     ],
   },
   faqHeading: "AI automation agency: questions from German businesses",
@@ -408,10 +408,10 @@ const content: FreelanceContent = {
     { question: "How are payments and invoices handled?", answer: "You receive an itemised quote in USD and approve it in writing before any work is billed. Invoices come from India in USD or EUR and are paid by Wise or bank wire, on the schedule set in your quote. Your accountant advises on how to book them. Model and hosting costs are billed to you directly by those providers." },
     { question: "Can AI read handwritten or poorly scanned documents?", answer: "Often it can, but accuracy drops with poor scans, stamps over text and handwriting. We test your worst samples during discovery and tell you honestly what to expect. Where quality is too low, the workflow flags the document for a person instead of guessing, which keeps errors out of your accounts." },
     { question: "Can you connect AI automation to DATEV, lexoffice or sevDesk?", answer: "Yes. Approved invoice data can be exported in a DATEV-ready format agreed with your tax adviser, and lexoffice (now Lexware Office) and sevDesk both offer APIs that workflows can write to. The account mapping is decided by your Steuerberater, not by the model, and every export can be checked before it is sent." },
-    { question: "What happens if the AI makes a mistake?", answer: "The workflow is designed for that. Validation rules catch many errors automatically, doubtful items go to a person, and nothing irreversible happens without approval. Every run is logged with input, output and who approved it, so a mistake can be traced and the prompt or rule fixed. Free maintenance for five months covers that tuning." },
+    { question: "What happens if the AI makes a mistake?", answer: "The workflow is designed for that. Validation rules catch many errors automatically, doubtful items go to a person, and nothing irreversible happens without approval. Every run is logged with input, output and who approved it, so a mistake can be traced and the prompt or rule fixed. Free maintenance for two months covers that tuning." },
     { question: "Do you build AI chatbots and phone assistants too?", answer: "Yes, as separate projects, because customer-facing AI has different rules: people must be told they are talking to an AI, conversations need retention limits and there must be a way to reach a human. See our pages on GDPR compliant AI chatbots and AI phone assistants for small businesses in Germany for those builds." },
     { question: "Can you guarantee cost savings from AI automation?", answer: "No honest provider can guarantee savings before measuring your process. What we do is measure volume and time per item before the build, measure checking time during the pilot and show the difference on a dashboard. If the pilot shows the saving is too small, you have learned that for the price of one workflow." },
-    { question: "What maintenance do AI workflows need?", answer: `Models change, supplier layouts change and systems update their APIs, so workflows need occasional prompt tuning, rule updates and connector fixes. The first five months after launch are covered free. After that, care plans start from ${P.care}, or your IT team can take over using the handover guide and version-controlled prompt files.` },
+    { question: "What maintenance do AI workflows need?", answer: `Models change, supplier layouts change and systems update their APIs, so workflows need occasional prompt tuning, rule updates and connector fixes. The first two months after launch are covered free. After that, care plans start from ${P.care}, or your IT team can take over using the handover guide and version-controlled prompt files.` },
   ],
   related: {
     heading: "More for German businesses",

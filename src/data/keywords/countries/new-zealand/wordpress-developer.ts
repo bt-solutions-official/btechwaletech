@@ -34,19 +34,19 @@ const content: FreelanceContent = {
     ["WordPress rebuild from", `${P.site} (up to 100 pages)`],
     ["Large content site from", `${P.seoSite} (299+ pages)`],
     ["WooCommerce store from", P.shop],
-    ["Care plan from", `${P.care}, after 5 free months`],
+    ["Care plan from", `${P.care}, after 2 free months`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Your hosting, domain, theme and logins"],
   ],
   stats: [
     { value: "100", label: "Pages included in the starting rebuild plan" },
-    { value: "5", label: "Months of free care once your new site is live" },
+    { value: "2", label: "Months of free care once your new site is live" },
     { value: "3", label: "Developers covering code, speed and project management" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
     heading: "What should a NZ business expect when it hires a WordPress developer?",
-    text: `Expect a written scope, work on a staging copy, and a site you can edit yourself afterwards. A WordPress developer should cut plugin bloat, pass Core Web Vitals, host near your customers and hand over logins. With BtechWaleTech a rebuild starts at ${P.site} (1–2 weeks), a WooCommerce store at ${P.shop}, and ongoing care at ${P.care} after five free months.`,
+    text: `Expect a written scope, work on a staging copy, and a site you can edit yourself afterwards. A WordPress developer should cut plugin bloat, pass Core Web Vitals, host near your customers and hand over logins. With BtechWaleTech a rebuild starts at ${P.site} (1–2 weeks), a WooCommerce store at ${P.shop}, and ongoing care at ${P.care} after two free months.`,
     more: `Selling online and unsure WooCommerce is right? Compare it on our <a href='/new-zealand/shopify-developer/'>Shopify developer NZ page</a> or read <a href='/wordpress-speed-optimization/'>how we approach WordPress speed work</a>.`,
   },
   snapshot: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Speed or security fix", value: "Quoted per task after a quick audit" },
       { label: "Hosting", value: "NZ or Australian servers, in your name" },
       { label: "Payment", value: "USD quote · Wise or bank wire from NZ" },
-      { label: "After launch", value: `5 months free, then care from ${P.care}` },
+      { label: "After launch", value: `2 months free, then care from ${P.care}` },
     ],
   },
   services: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What WordPress work costs when you hire us from NZ",
-    note: `A WordPress rebuild of up to 100 pages starts at ${P.site} and usually takes 1–2 weeks; content-heavy sites of 299+ pages start at ${P.seoSite}. WooCommerce stores start at ${P.shop} because payments, shipping and GST need testing. Speed fixes, hack clean-ups and hosting moves are quoted per task after a short audit, since a site with eight plugins and one with sixty are very different jobs. Care plans start at ${P.care} once the five free months after launch end. Every quote is in USD and payable by Wise or bank wire; hosting and premium plugin licences are billed to you directly by their vendors.`,
+    note: `A WordPress rebuild of up to 100 pages starts at ${P.site} and usually takes 1–2 weeks; content-heavy sites of 299+ pages start at ${P.seoSite}. WooCommerce stores start at ${P.shop} because payments, shipping and GST need testing. Speed fixes, hack clean-ups and hosting moves are quoted per task after a short audit, since a site with eight plugins and one with sixty are very different jobs. Care plans start at ${P.care} once the two free months after launch end. Every quote is in USD and payable by Wise or bank wire; hosting and premium plugin licences are billed to you directly by their vendors.`,
   },
   guideLabel: "WordPress developer NZ guide",
   guide: [
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       id: "care-plans",
       heading: "WordPress maintenance retainers: what NZ clients get for the money",
       paragraphs: [
-        `A WordPress care plan pays someone to keep the site updated, backed up and working, so problems are caught on a Tuesday afternoon instead of during your busiest weekend. After the five free months that follow launch, our plans start at ${P.care}, quoted in USD.`,
+        `A WordPress care plan pays someone to keep the site updated, backed up and working, so problems are caught on a Tuesday afternoon instead of during your busiest weekend. After the two free months that follow launch, our plans start at ${P.care}, quoted in USD.`,
         `A typical month includes:`,
       ],
       list: [
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
         `Picture a twelve-person engineering consultancy in Dunedin whose WordPress site takes ages to load on mobile, and whose office manager is afraid to update the team page. This is an illustrative scenario, not a real client.`,
         `Our audit finds forty-one plugins, a page builder loading everywhere, a homepage video and US-based shared hosting. The theme has not been updated in years. Using the decision rules above, it is a rebuild, not a repair.`,
         `The itemised quote starts from the ${P.site} rebuild plan. It lists a block theme with eight patterns, migration of sixty pages and their images, a redirect map, a hosting move to Australian servers in the client's own account, and a Search Console check two weeks after launch.`,
-        `Over roughly two weeks the office manager reviews staging each morning, NZ time, and records questions as voice notes. Plugin count ends at nine. Before launch we run PageSpeed Insights on the same pages as the original audit and share both reports. Afterwards the consultancy has five months of free care, then chooses whether to continue from ${P.care}.`,
+        `Over roughly two weeks the office manager reviews staging each morning, NZ time, and records questions as voice notes. Plugin count ends at nine. Before launch we run PageSpeed Insights on the same pages as the original audit and share both reports. Afterwards the consultancy has two months of free care, then chooses whether to continue from ${P.care}.`,
       ],
     },
     {
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
       id: "care-cadence",
       eyebrow: "Maintenance",
       heading: "What a WordPress care plan covers, and how often",
-      note: `Care plans start at ${P.care} after the five free months. Your quote sets the exact allowance.`,
+      note: `Care plans start at ${P.care} after the two free months. Your quote sets the exact allowance.`,
       columns: ["Task", "How often", "Why it matters"],
       rows: [
         ["Plugin and theme updates on staging", "As releases arrive, checked weekly", "Most hacks exploit known, already-patched flaws"],
@@ -458,12 +458,12 @@ const content: FreelanceContent = {
       ["Itemised USD quote", "Within about two working days you get a quote broken into lines you can add or remove. Nothing is charged before your written approval."],
       ["Work on staging", "All changes happen on a staging copy in your hosting account. You review in your NZ morning and send notes in one thread."],
       ["Launch with checks", "We launch at a quiet time you pick, then verify forms, redirects, SSL, email, analytics and the sitemap in Google Search Console."],
-      ["Handover and care", "You receive videos, the logins guide and code. Five months of free care follow, then you decide whether to continue."],
+      ["Handover and care", "You receive videos, the logins guide and code. Two months of free care follow, then you decide whether to continue."],
     ],
   },
   faqHeading: "WordPress developer NZ: frequently asked questions",
   faqs: [
-    { question: "How much does a WordPress developer cost in New Zealand?", answer: `It depends on the job. With BtechWaleTech a WordPress rebuild of up to 100 pages starts at ${P.site}, a content-heavy site of 299+ pages at ${P.seoSite}, a WooCommerce store at ${P.shop}, and a care plan at ${P.care} after five free months. Speed fixes and hack clean-ups are quoted per task after a short audit.` },
+    { question: "How much does a WordPress developer cost in New Zealand?", answer: `It depends on the job. With BtechWaleTech a WordPress rebuild of up to 100 pages starts at ${P.site}, a content-heavy site of 299+ pages at ${P.seoSite}, a WooCommerce store at ${P.shop}, and a care plan at ${P.care} after two free months. Speed fixes and hack clean-ups are quoted per task after a short audit.` },
     { question: "Should I rebuild my WordPress site or just fix it?", answer: "Fix it when the theme is still maintained and the problems are specific, such as one slow page or a broken form. Rebuild when the theme is abandoned, a page builder slows every page, or staff cannot edit without breaking layouts. A short audit on your actual site settles it, and we explain the reasoning in writing." },
     { question: "Why is my WordPress website so slow?", answer: "Usually because of what was added: heavy page builders, overlapping plugins, uncompressed images, homepage sliders or videos, and budget hosting far from New Zealand. WordPress itself is rarely the cause. Removing weight and moving to better hosting fixes most sites; stacking another optimisation plugin on top usually does not." },
     { question: "Can you make my WordPress site pass Core Web Vitals?", answer: "In most cases, yes. We work toward Google's published targets: LCP within 2.5 seconds, INP of 200 milliseconds or less and CLS of 0.1 or less. We measure with PageSpeed Insights and Search Console before and after. Field data takes weeks to update, so improvement shows in reports gradually rather than overnight." },
@@ -472,7 +472,7 @@ const content: FreelanceContent = {
     { question: "How many plugins should a WordPress site have?", answer: "There is no magic number, but each plugin should be maintained, needed and doing a job no other plugin does. Many small business sites run well on around ten. What matters more is quality: one abandoned plugin can cause more trouble than twenty well-kept ones." },
     { question: "Is WordPress still a good choice for NZ small businesses?", answer: "Yes, for most content-led sites. It is flexible, widely supported and you own it outright. It does need updates and sensible hosting, so budget for care. If you only need a few pages and never want to think about updates, a hosted builder may suit you better." },
     { question: "Can I edit my WordPress site myself after you build it?", answer: "Yes, that is the point of the handover. We set up block patterns so your team can add pages, posts and staff profiles without breaking the design, give you recorded walkthroughs of common tasks, and set user roles so the right people can publish." },
-    { question: "What does a WordPress maintenance plan include?", answer: "Updates tested on staging first, backup checks, uptime monitoring, error log reviews, a monthly speed check and small content edits within an agreed allowance. The first five months after launch are free. After that plans start from the maintenance starting price, and your quote spells out exactly what is included." },
+    { question: "What does a WordPress maintenance plan include?", answer: "Updates tested on staging first, backup checks, uptime monitoring, error log reviews, a monthly speed check and small content edits within an agreed allowance. The first two months after launch are free. After that plans start from the maintenance starting price, and your quote spells out exactly what is included." },
     { question: "My WordPress site has been hacked. Can you fix it?", answer: "Yes. We clean infected files and database entries, find how the attacker got in, replace vulnerable plugins, reset every login and harden the set-up, then give you a written summary. If customer data may have been exposed, talk to your own adviser about your obligations under the Privacy Act." },
     { question: "Will a WordPress rebuild hurt my Google rankings?", answer: "It should not if URLs are handled carefully. We crawl the old site, keep or redirect every URL that gets traffic, preserve working titles and descriptions, and watch Search Console after launch. Small fluctuations are normal in the first weeks. Nobody can guarantee rankings, but a careful rebuild protects what you have." },
     { question: "Is it risky to hire a WordPress developer from India?", answer: "The risk sits in access and ownership, not geography. Keep hosting, domain and admin accounts in your name, give the developer their own login you can remove, and insist on staging. With those in place, a remote WordPress developer cannot hold your site hostage." },

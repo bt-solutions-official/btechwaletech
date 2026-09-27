@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers on your booking project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Booking commission paid to us" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "WhatsApp booking confirmations", value: `From ${P.ai}` },
       { label: "Deposit methods", value: "mada, Apple Pay, cards via your provider" },
       { label: "Contract step", value: "Tajeer contract created by your staff at pickup" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care}` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Booking app", note: `Repeat renters and corporate drivers book and extend from their phone, with push reminders. Apps from ${P.app}.`, href: "/saudi-arabia/mobile-app-development/", size: "md" },
       { name: "WhatsApp confirmations", note: `Booking confirmed, pickup reminder, return reminder and extension requests over WhatsApp, from ${P.ai}.`, href: "/saudi-arabia/whatsapp-automation-services/", size: "sm" },
       { name: "Local SEO for branches", note: `Branch pages for airports and districts plus Google Business Profile links. Monthly SEO from ${P.seo}.`, href: "/saudi-arabia/local-seo-services/", size: "sm" },
-      { name: "Care after launch", note: `Five free months, then care from ${P.care}.`, href: "/pricing/", size: "sm" },
+      { name: "Care after launch", note: `Two free months, then care from ${P.care}.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: domain, hosting, code, booking data, customer records and the payment merchant account. We work in your accounts as invited users and take no commission on bookings.`,
         `This matters for a rental business because booking history is how you plan fleet size, set seasonal prices and win repeat customers. With your own database, you can export bookings any time, analyse which branches and classes earn most, and run loyalty offers without asking permission from a platform.`,
-        `At handover you receive admin logins, the code repository, a short video guide for staff on managing the calendar, prices and bookings, and a list of external services with renewal dates. Five months of free maintenance follow launch. After that, care plans start from ${P.care}, or any developer can take over. Changes and cancellations are covered on the <a href='/refund-policy/'>refund policy</a> page.`,
+        `At handover you receive admin logins, the code repository, a short video guide for staff on managing the calendar, prices and bookings, and a list of external services with renewal dates. Two months of free maintenance follow launch. After that, care plans start from ${P.care}, or any developer can take over. Changes and cancellations are covered on the <a href='/refund-policy/'>refund policy</a> page.`,
       ],
     },
     {
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "Within about two working days you get starting prices in USD, split into booking site, back office and extras, with nothing billed before written approval."],
       ["Start the payment account", "You open or confirm your merchant account with a licensed provider while we design the booking flow in Arabic and English on a live preview."],
       ["Test with real bookings", "We run test payments, document uploads and handovers with your staff, then take live bookings alongside the phone for about two weeks."],
-      ["Launch and support", "The site goes fully live, staff get a video guide, and five months of free maintenance begin, with care plans optional afterwards."],
+      ["Launch and support", "The site goes fully live, staff get a video guide, and two months of free maintenance begin, with care plans optional afterwards."],
     ],
   },
   faqHeading: "Car rental website development questions from Saudi rental firms",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "How do we pay for the project from Saudi Arabia?", answer: "Quotes are in US dollars, itemised by module. You pay by Wise, bank wire or PayPal against invoices issued from India, following the milestones in your approved quote. Nothing is billed before written approval. Your accountant can advise on how your company treats these invoices." },
     { question: "Can you help our rental branches rank on Google?", answer: `We build branch and airport pages with structured data, link them to your Google Business Profile listings and keep pages fast on mobile. Monthly SEO starts from ${P.seo}. Nobody can guarantee rankings; we report what we changed and what moved each month, in plain language.` },
     { question: "Will our car rental site show up in AI search answers?", answer: "There is no guarantee, but clear pages help. FAQs that state your deposit, required documents, airport procedures and opening hours in one or two sentences give AI tools accurate passages to quote. Structured data for each branch and a crawlable, fast site remove common reasons for being skipped." },
-    { question: "What happens after the booking site launches?", answer: `Five months of free maintenance cover bug fixes and small changes, including adjustments staff request after the first busy weekends. After that, care plans start from ${P.care}, or another developer can take over. New features such as corporate accounts or an app are quoted separately.` },
+    { question: "What happens after the booking site launches?", answer: `Two months of free maintenance cover bug fixes and small changes, including adjustments staff request after the first busy weekends. After that, care plans start from ${P.care}, or another developer can take over. New features such as corporate accounts or an app are quoted separately.` },
     { question: "Can you move our existing rental website without losing bookings or Google traffic?", answer: "Yes, with planning. We export existing bookings and customers where your current system allows, list current URLs, redirect the ones that bring traffic, and switch over during a quiet period. Phone bookings continue alongside the new site for about two weeks until staff are confident." },
     { question: "What do you need from us to start?", answer: "Your fleet list by class and branch, photos, prices including seasonal and monthly rates, deposit and refund rules, branch and airport opening hours, and whether a payment provider account exists. A short video of a handover and a return also helps us design the counter screens." },
   ],

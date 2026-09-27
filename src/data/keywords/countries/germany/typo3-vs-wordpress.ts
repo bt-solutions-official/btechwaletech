@@ -33,7 +33,7 @@ const content: FreelanceContent = {
   facts: [
     ["WordPress site", `From ${P.site}`],
     ["Large multilingual site", `From ${P.seoSite}`],
-    ["CMS care (either system)", `From ${P.care}, 5 months free after launch`],
+    ["CMS care (either system)", `From ${P.care}, 2 months free after launch`],
     ["Custom extensions or plugins", `From ${P.software}`],
     ["Quote", "Itemised in about 2 working days"],
     ["Payment", "USD or EUR via Wise or wire, quoted in USD"],
@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "2", label: "CMSs we build and maintain" },
     { value: "3", label: "Freelance developers, one shared codebase" },
     { value: "2", label: "Working days to a migration quote" },
-    { value: "5", label: "Months free maintenance after launch" },
+    { value: "2", label: "Months free maintenance after launch" },
   ],
   answer: {
     heading: "TYPO3 vs WordPress: which should a German company choose?",
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Written review", "You receive a stay, switch or both recommendation with risks, timelines and starting prices, plus an itemised quote within about two working days of the review."],
       ["Build or upgrade", "Depending on the decision, we upgrade TYPO3 on staging or build the WordPress theme and scripted content import, keeping the live site untouched."],
       ["Redirects and QA", "Every old URL is mapped and tested, content compared, accessibility and privacy settings checked before launch day."],
-      ["Launch and care", "We switch over, watch Search Console closely and look after the site free for five months, then regular care begins."],
+      ["Launch and care", "We switch over, watch Search Console closely and look after the site free for two months, then regular care begins."],
     ],
   },
   faqHeading: "TYPO3 vs WordPress: questions we hear from German companies",

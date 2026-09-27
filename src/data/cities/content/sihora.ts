@@ -56,7 +56,7 @@ const sihora: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock, fee and OPD-timing questions in Hindi and hand anything unusual to you.",
     data: "Dashboards of trips per truck, tonnage per lease, mandi arrivals by crop and outstanding payments by party.",
     app: "Android and iOS apps from ₹40,000 for drivers logging ore trips or parents following a Sihora school’s notices, published on Google Play and the App Store under your account.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for backups, security patches and seasonal edits.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for backups, security patches and seasonal edits.",
   },
   whyUsIntro:
     "Sihora owners tend to know every rupee they spend, because margins in mandi trade, ore haulage and small retail are thin. So we publish starting prices, send a line-by-line written quote, reply on WhatsApp every day of the week, and register the domain, hosting, code and app accounts in your name before any money changes hands.",
@@ -186,7 +186,7 @@ const sihora: CityContent = {
       heading: "Ownership and maintenance of your Sihora website or app",
       paragraphs: [
         "Everything we build for a Sihora client is registered to that client. The domain sits on your email, hosting bills come in your name, you receive the complete source code, and your Google Business Profile, Google Play account and Apple developer account name you as owner. At handover you get a sheet listing every login, so no developer, including us, can hold your site back later.",
-        "For five months after launch, upkeep costs nothing. In that period we change rates and photos when you ask, run backups, apply security and software updates, and periodically test the enquiry form, payment page and WhatsApp button. After that you choose: continue from ₹8,000 a month, manage it yourselves, or give the code to another developer without needing our permission.",
+        "For two months after launch, upkeep costs nothing. In that period we change rates and photos when you ask, run backups, apply security and software updates, and periodically test the enquiry form, payment page and WhatsApp button. After that you choose: continue from ₹8,000 a month, manage it yourselves, or give the code to another developer without needing our permission.",
         "Apps need attention once a year even if nothing breaks, because Google and Apple regularly raise the minimum versions they accept. We track those deadlines and ship the update early so your listing is never removed. For mine and mandi software, we also check that backups restore correctly before each busy season, since a lost ledger in peak weeks costs far more than the maintenance fee.",
       ],
     },
@@ -273,7 +273,7 @@ const sihora: CityContent = {
     {
       question: "What maintenance do you give after the Sihora site goes live?",
       answer:
-        "Every Sihora website or app gets five months of free maintenance after launch, covering edits to rates and photos, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move elsewhere; the code and accounts are already yours, so no permission is needed.",
+        "Every Sihora website or app gets two months of free maintenance after launch, covering edits to rates and photos, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or move elsewhere; the code and accounts are already yours, so no permission is needed.",
     },
     {
       question: "Do you work in Gosalpur, Majhauli and Bahoriband as well?",

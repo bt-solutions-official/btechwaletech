@@ -30,7 +30,7 @@ const rewari: CityContent = {
     eyebrow: "Rewari · Haryana",
     h1: "Websites, apps, SEO and AI automation for brass traders, factory suppliers and neighbourhood shops",
     lede:
-      "BtechWaleTech is a three-engineer remote team building websites, search listings and WhatsApp workflows for Rewari's brassware sellers, auto-component vendors around Bawal and Dharuhera, schools, defence-exam academies, clinics and retailers. Every price is a published starting figure, the domain and source code are registered to you, and maintenance is free for five months after launch.",
+      "BtechWaleTech is a three-engineer remote team building websites, search listings and WhatsApp workflows for Rewari's brassware sellers, auto-component vendors around Bawal and Dharuhera, schools, defence-exam academies, clinics and retailers. Every price is a published starting figure, the domain and source code are registered to you, and maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Hindi and Hinglish SEO", "B2B supplier catalogues", "WhatsApp enquiry flows", "Full code ownership"],
   },
   quickAnswer:
@@ -51,7 +51,7 @@ const rewari: CityContent = {
     ai: "WhatsApp assistants that share catalogues, batch timings or rate-request forms in Hindi and alert the owner about serious buyers.",
     data: "Simple dashboards for pending purchase orders, dispatches by customer or admissions by course, readable on a phone.",
     app: "Android and iOS apps for PG and hostel bookings, attendance, or shop-floor checklists, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free fixes and updates for five months after launch, then plans from ₹8,000 a month or per-change billing.",
+    maintenance: "Free fixes and updates for two months after launch, then plans from ₹8,000 a month or per-change billing.",
   },
   whyUsIntro:
     "Rewari sits close enough to Gurugram that agencies there happily quote Gurugram prices, and far enough that they rarely answer the phone after the deal. We publish starting prices, itemise every quote, reply on WhatsApp seven days a week and register your domain in your own name.",
@@ -176,7 +176,7 @@ const rewari: CityContent = {
       paragraphs: [
         "In Rewari, as elsewhere, we meet owners whose website sits on a developer's personal account. When that person moves on, the business cannot edit its own site, renew its domain or recover its email. Sometimes years of search history are lost with it.",
         "We register the domain in your name and place hosting in your account from the beginning. At launch you receive all logins, the complete source code and a short document explaining the setup. You may move to any developer at any time, with no exit fee and no need to ask us.",
-        "The first five months after launch include free maintenance: edits, bug fixes, security patches, backups and uptime monitoring. After that, choose a plan from ₹8,000 a month or pay per change. Our <a href=\"/services/web-development/\">web development page</a> explains what a standard handover contains.",
+        "The first two months after launch include free maintenance: edits, bug fixes, security patches, backups and uptime monitoring. After that, choose a plan from ₹8,000 a month or pay per change. Our <a href=\"/services/web-development/\">web development page</a> explains what a standard handover contains.",
       ],
     },
     {
@@ -272,7 +272,7 @@ const rewari: CityContent = {
     {
       question: "What happens when the free maintenance ends?",
       answer:
-        "Maintenance is free for five months after launch. After that, plans start at ₹8,000 a month and cover updates, backups, security and small edits. If your site rarely changes, you can skip the plan and pay only for the changes you request.",
+        "Maintenance is free for two months after launch. After that, plans start at ₹8,000 a month and cover updates, backups, security and small edits. If your site rarely changes, you can skip the plan and pay only for the changes you request.",
     },
     {
       question: "How long does SEO take to work in Rewari?",

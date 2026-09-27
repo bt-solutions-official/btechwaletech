@@ -31,11 +31,11 @@ const alwar: CityContent = {
     eyebrow: "Alwar · Rajasthan",
     h1: "Websites, apps, SEO and AI automation for Hope Circus traders, MIA suppliers and Sariska hotels",
     lede:
-      "We are three remote engineers who build websites, online stores, local search setups and WhatsApp tools for Alwar businesses: sweet makers selling milk cake, vendors to Matsya Industrial Area plants, hotels on the Sariska and Siliserh route, schools, clinics and bazaar retailers. Prices are published, the domain is registered to you, and upkeep is free for five months.",
+      "We are three remote engineers who build websites, online stores, local search setups and WhatsApp tools for Alwar businesses: sweet makers selling milk cake, vendors to Matsya Industrial Area plants, hotels on the Sariska and Siliserh route, schools, clinics and bazaar retailers. Prices are published, the domain is registered to you, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Milk cake delivery stores", "Vendor sites for MIA", "Hotel booking enquiries"],
   },
   quickAnswer:
-    "A basic business website in Alwar costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Alwar office, and maintenance is free for five months.",
+    "A basic business website in Alwar costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-person team with no Alwar office, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "About 150 km from both Delhi and Jaipur, on the Delhi–Jaipur rail line, and part of the National Capital Region" },
     { label: "Industrial estate", value: "Matsya Industrial Area (MIA), a RIICO estate with plants of automotive, electrical, ceramics, beverage and edible oil companies" },
@@ -52,7 +52,7 @@ const alwar: CityContent = {
     ai: "WhatsApp assistants that answer room rates, fee structures or product availability in Hindi while your staff handle walk-in customers.",
     data: "Sales, production and collection figures pulled into one phone-friendly dashboard instead of three registers and a diary.",
     app: "Android and iPhone apps for school notices, clinic tokens or dealer ordering, one codebase released to Google Play and the Apple App Store.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Alwar sits close enough to Delhi that many owners assume they must hire an NCR agency, and far enough that those agencies rarely understand the local market. We are a small remote team that publishes prices, replies on WhatsApp every day of the week and hands over the domain, hosting and code to the business owner.",
@@ -108,6 +108,7 @@ const alwar: CityContent = {
         "North of Alwar lies one of Rajasthan's biggest industrial clusters. Bhiwadi's RIICO area alone covers well over a thousand plots suited to engineering, chemical, electrical and building-material units, while Neemrana's Japanese investment zone has drawn dozens of Japanese firms. Administrative boundaries in the region were redrawn in 2023, but for an Alwar supplier these estates remain the natural next market.",
         "Selling into that belt means competing with suppliers from Gurgaon, Dharuhera and Delhi. Buyers there compare vendors quickly and often in English. We write capability pages that state lead times, capacities and quality systems plainly, and we add separate pages for each industrial area you deliver to, so a buyer searching for a supplier near Neemrana or Bhiwadi finds you rather than someone further away.",
         "Some Japanese and multinational plants prefer vendors who document processes well. A website that explains your inspection steps, packaging standards and delivery records in clear language will not guarantee a contract, but it removes one common reason for being passed over.",
+        "If your unit is in the belt itself, see our <a href='/bhiwadi-rajasthan/'>IT services in Bhiwadi</a>: websites, apps, ERP and factory software, with one-to-one meetings at your plant in Bhiwadi.",
       ],
     },
     {
@@ -177,7 +178,7 @@ const alwar: CityContent = {
       paragraphs: [
         "A familiar Alwar story goes like this: a nephew or a local vendor made the website, registered the domain under his own email and later moved to Jaipur or Gurgaon. The business can no longer change a phone number, the renewal lapses and the site disappears from Google.",
         "We avoid that from the first day. The domain and hosting are registered in your name, and at launch you receive every login, the full source code and a short written note explaining how the site is set up. If you later want another developer, you simply hand over access. There is no lock-in and no exit charge.",
-        "For five months after launch we look after the site at no cost: content and price changes, bug fixes, security updates, backups, uptime and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
+        "For two months after launch we look after the site at no cost: content and price changes, bug fixes, security updates, backups, uptime and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
   ],
@@ -264,7 +265,7 @@ const alwar: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security updates, backups, uptime checks and speed checks without charge. After that, you can continue from ₹8,000 a month or contact us only when you need a change.",
+        "For two months after launch we handle text and price updates, bug fixes, security updates, backups, uptime checks and speed checks without charge. After that, you can continue from ₹8,000 a month or contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Bhiwadi, Rajgarh and Bharatpur as well?",

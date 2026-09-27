@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Websites from ₹10,000", "Android and iOS apps from ₹40,000", "Custom software from ₹60,000", "Kannada and English sites", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "BtechWaleTech provides freelance IT solutions across Karnataka: websites from ₹10,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000 and custom software from ₹60,000. Most projects run one to twelve weeks. We are three remote engineers, not a local office, and include five months of free maintenance after launch.",
+    "BtechWaleTech provides freelance IT solutions across Karnataka: websites from ₹10,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000 and custom software from ₹60,000. Most projects run one to twelve weeks. We are three remote engineers, not a local office, and include two months of free maintenance after launch.",
   snapshot: [
     { label: "Capital and tech hub", value: "Bengaluru, with Whitefield, Electronics City, Outer Ring Road and Manyata Tech Park" },
     { label: "Emerging IT clusters", value: "Mysuru, Mangaluru and Hubballi-Dharwad-Belagavi, promoted under the state's Beyond Bengaluru initiative" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI automation for Karnataka firms: WhatsApp replies, document reading, lead routing and report generation, with humans approving sensitive steps.",
     data: "Dashboards that combine Tally, spreadsheets and app data so Karnataka owners see sales, stock and collections across branches in one place.",
     app: "Android and iOS apps from ₹40,000 for Karnataka businesses, built once in Flutter or React Native and published on Google Play and the App Store, with Kannada screens where users need them.",
-    maintenance: "Ongoing support for Karnataka websites and apps: backups, updates, fixes and monitoring, with the first five months free after launch.",
+    maintenance: "Ongoing support for Karnataka websites and apps: backups, updates, fixes and monitoring, with the first two months free after launch.",
   },
   whyUsIntro:
     "Karnataka firms outside Bengaluru often get either expensive city agencies or unreliable one-person shops. We sit in between: three engineers you speak to directly, clear written quotes and a full IT stack under one roof, delivered remotely.",
@@ -185,7 +185,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for Karnataka businesses should be fast for local users, affordable and owned by the business itself. We deploy on AWS's Mumbai region, Cloudflare, Vercel or DigitalOcean depending on workload, set up SSL, daily backups, uptime alerts and automated deployments, and register every account in your name.",
         "Security basics matter more than fancy tools: updated software, strong passwords with two-factor login, limited admin access, backups tested by actually restoring them, and careful handling of customer data under India's Digital Personal Data Protection Act. We apply these by default on every project.",
-        "After launch you get five months of free maintenance. After that, support plans start at ₹8,000 per month and cover updates, fixes, backups and monitoring. We answer on WhatsApp seven days a week. We do not provide on-site hardware repair or network cabling; for that, a local technician in your town is the right call, and we coordinate with them when software is involved.",
+        "After launch you get two months of free maintenance. After that, support plans start at ₹8,000 per month and cover updates, fixes, backups and monitoring. We answer on WhatsApp seven days a week. We do not provide on-site hardware repair or network cabling; for that, a local technician in your town is the right call, and we coordinate with them when software is involved.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const content: CityContent = {
       "id": "running-costs-after-launch-karnataka",
       "heading": "What does it cost to keep a website or app running in Karnataka after launch?",
       "paragraphs": [
-        "Keeping a Karnataka business website or app running costs far less than building it, but it is never zero. The recurring items are a domain renewal, hosting or cloud servers, business email, third-party services such as WhatsApp messaging or SMS, and someone to apply updates. With BtechWaleTech the first five months of maintenance after launch are free; after that, support starts from ₹8,000 per month, or you simply pay per task when something needs changing.",
+        "Keeping a Karnataka business website or app running costs far less than building it, but it is never zero. The recurring items are a domain renewal, hosting or cloud servers, business email, third-party services such as WhatsApp messaging or SMS, and someone to apply updates. With BtechWaleTech the first two months of maintenance after launch are free; after that, support starts from ₹8,000 per month, or you simply pay per task when something needs changing.",
         "The size of the bill depends on what was built. A static brochure site for a Mysuru silk showroom or a Udupi restaurant can sit on low-cost or free static hosting, so the main expense is the yearly domain. A web application for a Hubballi distributor or a Belagavi foundry needs a database server on AWS, Google Cloud or DigitalOcean, which is billed monthly. An Android and iOS app adds a one-time Google Play developer registration and an annual Apple Developer Program membership. AI features are usually charged per use by the model provider, and WhatsApp Business API messages are charged by Meta per conversation category.",
         "Third-party providers revise their rates, so we do not print their prices on this page. Instead, every quote we send to a Karnataka client lists each outside service, who it is billed to and the rate at the time of quoting, so there are no surprises in month six. We also size servers to actual traffic; an over-provisioned machine is one of the most common reasons small firms in Karnataka overpay for cloud hosting."
       ],
@@ -303,7 +303,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after the project?",
       answer:
-        "Yes. You get five months of free maintenance after launch, covering fixes, updates, backups, security and speed checks. After that, plans start from ₹8,000 per month, or you can pay only when you need a change.",
+        "Yes. You get two months of free maintenance after launch, covering fixes, updates, backups, security and speed checks. After that, plans start from ₹8,000 per month, or you can pay only when you need a change.",
     },
     {
       question: "Can you work with our existing Tally or billing software?",
@@ -327,7 +327,7 @@ const content: CityContent = {
     },
     {
       "question": "Which recurring bills will a Karnataka business pay after its website goes live?",
-      "answer": "Usually four: the yearly domain renewal, hosting or cloud charges, business email, and any messaging or AI services you use, such as WhatsApp Business API or SMS OTPs. Apps add Google Play and Apple developer accounts. All of these are billed to your own accounts. Our maintenance is free for five months after launch, then from ₹8,000 per month or per task. See <a href='/pricing/'>pricing</a> for starting prices."
+      "answer": "Usually four: the yearly domain renewal, hosting or cloud charges, business email, and any messaging or AI services you use, such as WhatsApp Business API or SMS OTPs. Apps add Google Play and Apple developer accounts. All of these are billed to your own accounts. Our maintenance is free for two months after launch, then from ₹8,000 per month or per task. See <a href='/pricing/'>pricing</a> for starting prices."
     },
   ],
   nearby: ["bengaluru", "mysore", "mangaluru", "hubli-dharwad", "belagavi", "davanagere", "tumkur", "udupi", "shivamogga", "ballari"],

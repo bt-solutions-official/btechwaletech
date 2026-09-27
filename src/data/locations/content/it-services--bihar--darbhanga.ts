@@ -40,10 +40,10 @@ const content: CityContent = {
     h1: "Freelance software developers for Darbhanga's hospitals, makhana trade and colleges",
     lede:
       "BtechWaleTech is a freelance group of three engineers building software for Darbhanga from a distance: appointment and report systems for Laheriasarai clinics, procurement tools for makhana processors, admission software for colleges, AI agents that answer patients and buyers, and the dashboards, apps and websites around them. We work remotely from India, publish starting prices and keep maintaining what we build.",
-    pills: ["Clinic and hospital software", "Makhana procurement tools", "Patient-friendly websites", "AI replies in Hindi and Maithili-friendly Hinglish", "5 months free maintenance"],
+    pills: ["Clinic and hospital software", "Makhana procurement tools", "Patient-friendly websites", "AI replies in Hindi and Maithili-friendly Hinglish", "2 months free maintenance"],
   },
   quickAnswer:
-    "Freelance software developers at BtechWaleTech build clinic, makhana and college software for Darbhanga from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI automation from ₹40,000, healthcare websites from ₹10,000 and online stores from ₹50,000. We are three remote engineers in India, with five months of free maintenance.",
+    "Freelance software developers at BtechWaleTech build clinic, makhana and college software for Darbhanga from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), AI automation from ₹40,000, healthcare websites from ₹10,000 and online stores from ₹50,000. We are three remote engineers in India, with two months of free maintenance.",
   snapshot: [
     { label: "Medical hub", value: "Darbhanga Medical College and Hospital at Laheriasarai, with a dense belt of private clinics, nursing homes and labs; AIIMS Darbhanga is being developed" },
     { label: "Signature produce", value: "Mithila makhana (fox nut), a GI-tagged product; an ICAR research centre for makhana operates in Darbhanga" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that tell patients about timings, fees and reports, answer makhana buyers about grades and MOQ, and escalate anything sensitive to staff.",
     data: "Dashboards for OPD footfall, department revenue, procurement costs and stock, so owners see the day's picture on a phone.",
     app: "Android and iOS apps from ₹40,000 for Darbhanga patients, makhana buyers and students, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Security updates, backups, fixes and small edits, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Security updates, backups, fixes and small edits, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Darbhanga's clinics and processors need software that works, is explained in plain Hindi and keeps working after the developer is paid. Many buyers here have been left with half-finished systems. As a freelance group of three engineers, we keep scope honest, show demos every week and stay reachable on WhatsApp long after launch.",
@@ -213,7 +213,7 @@ const content: CityContent = {
       id: "maintenance-darbhanga",
       heading: "Why maintenance matters for Darbhanga healthcare and business software",
       paragraphs: [
-        "Maintenance keeps software secure and working as rules, staff and devices change, and for Darbhanga clinics holding patient data it is not optional. BtechWaleTech includes five months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes such as new doctors or revised fees.",
+        "Maintenance keeps software secure and working as rules, staff and devices change, and for Darbhanga clinics holding patient data it is not optional. BtechWaleTech includes two months of free maintenance after hosting goes live: bug fixes, security and library updates, backups, uptime checks and small changes such as new doctors or revised fees.",
         "After that, plans start at ₹8,000 a month, or you can pay per request. We answer WhatsApp seven days a week, and urgent problems such as booking or report pages failing are handled first. Read more <a href='/about/'>about us</a>, or see nearby pages for <a href='/it-services/bihar/muzaffarpur/'>Muzaffarpur</a> and <a href='/darbhanga/'>Darbhanga IT services</a>.",
       ],
     },
@@ -290,7 +290,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after hosting goes live, maintenance is free. It covers bug fixes, security and library updates, backups, uptime and speed checks, and small edits such as new doctors, fee changes or extra report fields. Afterwards, plans start at ₹8,000 a month, or you can pay only when you need changes.",
+        "For two months after hosting goes live, maintenance is free. It covers bug fixes, security and library updates, backups, uptime and speed checks, and small edits such as new doctors, fee changes or extra report fields. Afterwards, plans start at ₹8,000 a month, or you can pay only when you need changes.",
     },
     {
       question: "When will SEO bring patients or customers in Darbhanga?",

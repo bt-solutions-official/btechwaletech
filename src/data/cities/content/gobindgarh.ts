@@ -57,7 +57,7 @@ const gobindgarh: CityContent = {
     ai: "WhatsApp replies that share today's section list, ask for size, grade and quantity, and pass serious enquiries to the sales desk with the details filled in.",
     data: "Dashboards that pull production, dispatch and outstanding payments into one screen, so an owner can see the day's position from a phone.",
     app: "Android and iOS apps for dealers to place orders, track trucks and view statements, or for colleges and coaching centres, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then care plans from ₹8,000 a month covering updates, backups, fixes and small content changes.",
+    maintenance: "Two months of free maintenance after launch, then care plans from ₹8,000 a month covering updates, backups, fixes and small content changes.",
   },
   whyUsIntro:
     "Most Gobindgarh mills sell through long-standing relationships, brokers and phone calls, and that works until a new buyer from Haryana, Rajasthan or Jammu searches online and finds a competitor first. We keep things practical: clear starting prices, an itemised quote, WhatsApp replies seven days a week and every login handed to you.",
@@ -191,7 +191,7 @@ const gobindgarh: CityContent = {
       paragraphs: [
         "We should be clear: we have no office in Mandi Gobindgarh or anywhere else. We work remotely, meet on video or phone calls, and answer on WhatsApp seven days a week during Indian working hours. Most of our clients never need a physical meeting, because they see progress on a live preview link.",
         "Ownership is straightforward. Your domain, hosting, source code, Google accounts and Play Store and App Store developer accounts are registered in your name, and we hand over every password. If you ever move to another developer, nothing is held back.",
-        "After launch, five months of maintenance are free. That covers security updates, backups, fixes and small changes. After that, maintenance starts at ₹8,000 a month, or you can manage the site yourself. Talk to us on the <a href=\"/contact/\">contact page</a> whenever you are ready.",
+        "After launch, two months of maintenance are free. That covers security updates, backups, fixes and small changes. After that, maintenance starts at ₹8,000 a month, or you can manage the site yourself. Talk to us on the <a href=\"/contact/\">contact page</a> whenever you are ready.",
       ],
     },
   ],
@@ -273,7 +273,7 @@ const gobindgarh: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "The first five months after launch include free maintenance: updates, backups, security fixes and small edits. After that you can take a maintenance plan from ₹8,000 a month or manage the site yourself. There is no lock-in either way.",
+        "The first two months after launch include free maintenance: updates, backups, security fixes and small edits. After that you can take a maintenance plan from ₹8,000 a month or manage the site yourself. There is no lock-in either way.",
     },
     {
       question: "Do you work with businesses in Sirhind, Amloh and Khanna?",

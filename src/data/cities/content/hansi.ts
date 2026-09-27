@@ -56,7 +56,7 @@ const hansi: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rate, stock, fee and timing questions and send the rest to you.",
     data: "Season dashboards of arrivals, purchases, dues from buyers and payments to farmers, readable on the owner's phone.",
     app: "Android and iOS apps for coaching classes, dealers' field staff or repeat sweet orders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "In Hansi, a trader's word travels from the mandi to the villages in a day. We publish starting prices, give an itemised written quote, reply on WhatsApp all seven days and open the domain, hosting, code and store accounts in your name. If something you ask for will not pay for itself, we say so plainly before you spend on it.",
@@ -178,7 +178,7 @@ const hansi: CityContent = {
       paragraphs: [
         "Since none of us lives in Hansi district, written records do the work of a handshake. The first call is about your trade, your customers and the one or two things the website or app has to get right. A written scope follows with pages or screens, dates and an itemised price. Nothing is billed before your written approval. During the build you receive preview links on your phone, so you, a partner or a son in college can tap through and comment, and each later payment comes after you have seen that part working.",
         "Messages on WhatsApp are answered seven days a week during IST hours. Hindi text is shown to you before it goes live, and if a date looks likely to slip, you hear about it as soon as we know, not on the deadline.",
-        "Many small-town owners have lost an old website because the person who built it kept the domain. That cannot happen here: domain, hosting, source code, Google Business Profile and both app store developer accounts are opened in your name, and passwords are handed over in writing. The first five months after launch include free maintenance: fixes, backups, security updates and checks of forms, payments and WhatsApp buttons. From the sixth month, care is ₹8,000 a month onwards, entirely optional, and you are free to hand the code to another developer at any time.",
+        "Many small-town owners have lost an old website because the person who built it kept the domain. That cannot happen here: domain, hosting, source code, Google Business Profile and both app store developer accounts are opened in your name, and passwords are handed over in writing. The first two months after launch include free maintenance: fixes, backups, security updates and checks of forms, payments and WhatsApp buttons. From the third month, care is ₹8,000 a month onwards, entirely optional, and you are free to hand the code to another developer at any time.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const hansi: CityContent = {
     {
       question: "What maintenance do you give after launch?",
       answer:
-        "The first five months after launch are free: text and price edits, backups, security updates and checks of forms, payments and buttons. After that, maintenance is ₹8,000 a month onwards if you want it, or you can hand the code to any developer, since all accounts are yours.",
+        "The first two months after launch are free: text and price edits, backups, security updates and checks of forms, payments and buttons. After that, maintenance is ₹8,000 a month onwards if you want it, or you can hand the code to any developer, since all accounts are yours.",
     },
     {
       question: "Do you work in Narnaund, Bass and Hisar as well?",

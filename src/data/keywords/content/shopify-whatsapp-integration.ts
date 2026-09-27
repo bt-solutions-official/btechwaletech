@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First message to automate", "COD order confirmation"],
     ["Runs on", "Official WhatsApp Cloud API"],
     ["Who owns the Meta account", "You, not us"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Opt-in", value: "Collected on the store and at checkout, stored against the customer" },
       { label: "Two routes", value: "App subscription, or a custom webhook service you own" },
       { label: "Custom setup with us", value: `From ${P.ai} (${P.aiUsd}), 2–4 weeks` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Shopify WhatsApp integration pricing: one build, then Meta’s charges",
-    note: `A custom Shopify WhatsApp integration is quoted as AI automation work, starting at ${P.ai} (${P.aiUsd}), and usually takes 2–4 weeks. A typical first scope is a Shopify custom app with order and fulfilment webhooks, a COD confirmation flow with buttons, order and delivery updates, opt-in capture, a message log and one set of approved templates in English and Hindi. Cart recovery, a support inbox or an AI assistant for product questions are extra lines in the same quote. Meta bills message charges to your own account; we add nothing to them. After five months of free maintenance, optional upkeep starts at ${P.care}. All starting prices are in the table below.`,
+    note: `A custom Shopify WhatsApp integration is quoted as AI automation work, starting at ${P.ai} (${P.aiUsd}), and usually takes 2–4 weeks. A typical first scope is a Shopify custom app with order and fulfilment webhooks, a COD confirmation flow with buttons, order and delivery updates, opt-in capture, a message log and one set of approved templates in English and Hindi. Cart recovery, a support inbox or an AI assistant for product questions are extra lines in the same quote. Meta bills message charges to your own account; we add nothing to them. After two months of free maintenance, optional upkeep starts at ${P.care}. All starting prices are in the table below.`,
   },
   guideLabel: "Shopify WhatsApp integration guide",
   guide: [
@@ -192,7 +192,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `It has two parts: the build (once) and the messages (every month). With BtechWaleTech, a custom Shopify WhatsApp integration starts at ${P.ai} (${P.aiUsd}) and takes 2–4 weeks. Meta’s message charges go on your own WhatsApp Business account, and we never resell or mark them up.`,
         `What moves the build cost up or down is the number of flows and how much logic sits inside them. A store that wants COD confirmation plus four order updates is a compact job. Adding cart recovery with consent checks, courier tracking from an aggregator, Hindi and English template sets, a return-request flow and a support inbox each adds a line. A full custom team inbox is priced as software from ${P.software}. If you do not have a store yet, a new Shopify or custom online store starts at ${P.shop}, and the WhatsApp lines are itemised inside it.`,
-        `App subscriptions vary widely by provider and plan, and their pricing pages change often, so compare them on shape rather than headline: a monthly fee, per-message margin, per-agent seats, or all three. Multiply by 24 months and add the margin on your expected message volume. That is the fair number to set against a one-time build plus upkeep, which with us is free for five months and then from ${P.care}.`,
+        `App subscriptions vary widely by provider and plan, and their pricing pages change often, so compare them on shape rather than headline: a monthly fee, per-message margin, per-agent seats, or all three. Multiply by 24 months and add the margin on your expected message volume. That is the fair number to set against a one-time build plus upkeep, which with us is free for two months and then from ${P.care}.`,
         `For the monthly Meta side in detail, including free windows and sample bills, read <a href='/whatsapp-business-api-cost-in-india/'>WhatsApp Business API cost in India</a>. For what the store itself costs to run, see <a href='/shopify-store-cost-in-india/'>Shopify store cost in India</a>.`,
       ],
     },
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We work remotely with Shopify sellers in every state, in English or Hindi, and the setup is the same whether you ship from a metro warehouse or a small workshop. What changes city to city is the product and the payment mix: some regions lean heavily on COD, others on UPI prepaid.`,
         `Our city pages describe local businesses we build for, including <a href='/bengaluru/'>Bengaluru</a>, <a href='/gurgaon/'>Gurgaon</a>, <a href='/noida/'>Noida</a>, <a href='/vadodara/'>Vadodara</a>, <a href='/mysore/'>Mysuru</a>, <a href='/bhubaneswar/'>Bhubaneswar</a>, <a href='/patna/'>Patna</a>, <a href='/chandigarh/'>Chandigarh</a>, <a href='/bikaner/'>Bikaner</a> and <a href='/thiruvananthapuram/'>Thiruvananthapuram</a>. Payments are by UPI or bank transfer, with GST details on the invoice as agreed in your quote. Stores selling abroad from India pay the same way, while overseas clients are quoted in USD and pay by Wise, bank wire or PayPal.`,
-        `What we do not do: visit your warehouse, handle your courier contracts or give legal advice on consent wording. What we do is wire Shopify and WhatsApp together properly, hand you every account, and look after it for five months free.`,
+        `What we do not do: visit your warehouse, handle your courier contracts or give legal advice on consent wording. What we do is wire Shopify and WhatsApp together properly, hand you every account, and look after it for two months free.`,
       ],
     },
   ],
@@ -338,7 +338,7 @@ const content: FreelanceContent = {
         ["Plus courier tracking", "Aggregator or courier status feed for out-for-delivery and failed attempts", "Quoted per courier or aggregator", "A few days"],
         ["Support inbox tied to orders", "Shared inbox, order lookup, assignment", `From ${P.software} as custom software`, "6–12 weeks"],
         ["New Shopify store with WhatsApp", "Store build plus the flows above", `From ${P.shop}`, "4–8 weeks"],
-        ["Upkeep after launch", "Token checks, template updates, fixes", `5 months free, then from ${P.care}`, "Monthly"],
+        ["Upkeep after launch", "Token checks, template updates, fixes", `2 months free, then from ${P.care}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "Your Meta business portfolio, WhatsApp number and templates, plus a Shopify custom app with narrow permissions, all owned by you."],
       ["Build and test on test orders", "Webhook service, queue, COD replies, updates and consent checks are built, then run through the go-live checklist with your team watching."],
       ["Go live with a watchful week", "Flows switch on one at a time with real orders while we monitor the log, fix wording and tune delays together with you."],
-      ["Hand over and look after it", "You get credentials, a plain-language runbook and five months of free maintenance; after that, upkeep is optional from " + P.care + "."],
+      ["Hand over and look after it", "You get credentials, a plain-language runbook and two months of free maintenance; after that, upkeep is optional from " + P.care + "."],
     ],
   },
   faqHeading: "Shopify WhatsApp integration: questions store owners ask",
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tired of confirming COD orders by phone? Send us your store link",
-    note: `Share your Shopify link, rough daily orders and COD share on WhatsApp. In about two working days you get a message map and an itemised quote, with custom Shopify WhatsApp integration from ${P.ai}, every account in your name and five months of free maintenance.`,
+    note: `Share your Shopify link, rough daily orders and COD share on WhatsApp. In about two working days you get a message map and an itemised quote, with custom Shopify WhatsApp integration from ${P.ai}, every account in your name and two months of free maintenance.`,
   },
 };
 

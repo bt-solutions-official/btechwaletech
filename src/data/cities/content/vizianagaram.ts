@@ -32,10 +32,10 @@ const vizianagaram: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Vizianagaram's colleges, clinics, traders and industrial suppliers",
     lede:
       "We are a three-person remote engineering team that builds websites, search visibility, small online stores and WhatsApp automation for businesses in Vizianagaram district: engineering and medical colleges, hospitals and clinics near the fort, shops around the clock tower, vendors serving the ferro-alloy plants at Garividi and Kothavalasa, and craft sellers from Bobbili.",
-    pills: ["Sites from ₹10,000", "Telugu and English pages", "College and hospital sites", "Supplier profiles", "Free upkeep for 5 months"],
+    pills: ["Sites from ₹10,000", "Telugu and English pages", "College and hospital sites", "Supplier profiles", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "In Vizianagaram, our static website starts at ₹10,000 and is usually live within two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three engineers working remotely with no office in the city, and maintenance is free for five months.",
+    "In Vizianagaram, our static website starts at ₹10,000 and is usually live within two weeks. A 299+ page SEO site costs from ₹20,000, an online store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We are three engineers working remotely with no office in the city, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "District headquarters about 40 km north-north-east of Visakhapatnam, some 24 km inland from the Bay of Bengal" },
     { label: "Heritage", value: "Fort built in 1713 under the Pusapati rulers, the clock tower, and the annual Pydithalli Ammavari Sirimanotsavam" },
@@ -52,7 +52,7 @@ const vizianagaram: CityContent = {
     ai: "WhatsApp replies in Telugu and English for admission, OPD or order questions, with anything unusual passed to a real person.",
     data: "Dashboards built from fee, admission, dispatch or sales records, so management sees trends without opening ten spreadsheets.",
     app: "Android and iPhone apps for student notices, patient reminders or field staff, published on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Content changes, security updates, backups and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content changes, security updates, backups and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Vizianagaram businesses often compete with firms in Visakhapatnam, an hour away, for the same customers. A clear, fast website in the language people search in levels that field. We publish our prices, reply on WhatsApp seven days a week, and keep your domain and code in your name.",
@@ -189,7 +189,7 @@ const vizianagaram: CityContent = {
       paragraphs: [
         "Businesses in smaller cities often lose their website because the person who built it registered the domain on their own account and then moved on. The owner cannot renew it, change a number or move it to someone else.",
         "We register the domain and hosting in your name from the start. At launch, you receive every login, the complete source code and a simple note explaining how things are set up. You can take the site to another developer at any time without paying us anything.",
-        "Maintenance is free for five months after launch, covering content changes, fixes, security updates, backups and uptime checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Maintenance is free for two months after launch, covering content changes, fixes, security updates, backups and uptime checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
   ],
@@ -276,7 +276,7 @@ const vizianagaram: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security updates, backups and uptime checks at no cost. After that you can continue from ₹8,000 a month, or contact us only when something needs doing.",
+        "For two months after launch we handle content changes, bug fixes, security updates, backups and uptime checks at no cost. After that you can continue from ₹8,000 a month, or contact us only when something needs doing.",
     },
     {
       question: "Do you work with businesses in Bobbili, Rajam, Srikakulam and Visakhapatnam?",

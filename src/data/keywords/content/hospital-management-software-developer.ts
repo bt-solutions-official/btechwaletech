@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Patient app from", `${P.app}`],
     ["Quote", "Itemised by module, ~2 working days"],
     ["Data and servers", "In your cloud account, under your control"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering software, cloud and data" },
     { value: "2", label: "Working days to an itemised module quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Patient app", value: `From ${P.app}, Android and iOS` },
       { label: "Privacy basics", value: "Role-based access, audit trail, encryption, backups" },
       { label: "Hosting", value: "Your cloud account, with data kept in India if you choose" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -171,7 +171,7 @@ const content: FreelanceContent = {
       heading: "How much does a hospital management software developer charge?",
       paragraphs: [
         `With BtechWaleTech, custom hospital and clinic software starts at ${P.software} (${P.softwareUsd}). A focused first phase, such as registration, appointments, clinical notes and billing, sits closest to that starting point. Each additional module is priced as its own line.`,
-        `A patient app for booking and reports starts at ${P.app}. A clinic website to bring in appointments starts at ${P.site}. WhatsApp reminders or AI-assisted helpers, such as reading scanned referral letters into the system, start at ${P.ai}. After five months of free maintenance, ongoing support starts at ${P.care}.`,
+        `A patient app for booking and reports starts at ${P.app}. A clinic website to bring in appointments starts at ${P.site}. WhatsApp reminders or AI-assisted helpers, such as reading scanned referral letters into the system, start at ${P.ai}. After two months of free maintenance, ongoing support starts at ${P.care}.`,
         `Across the market, quotes for hospital software vary widely, and the gap usually comes from scope: how many modules, how many printed formats, whether data migration and staff training are included, and who pays for hosting. When you compare, put the module lists side by side before the totals.`,
       ],
     },
@@ -250,7 +250,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example, not a client story, to show how a phased hospital software project could look.`,
         `A polyclinic with three doctors, an in-house pharmacy and a small lab keeps registers at reception, paper prescriptions and a separate billing tool. The owner wants shorter queues, fewer billing errors and a daily revenue view.`,
-        `Phase one, starting from ${P.software}: registration with patient ID, appointments and token queue per doctor, WhatsApp reminders, consultation notes with prescription templates, OPD billing with UPI and card receipts, and an owner dashboard. About eight weeks including a parallel-run week. Phase two, quoted separately: pharmacy stock with batch and expiry, lab orders and report printing. Phase three, optional: a patient app for bookings and reports from ${P.app}. Data sits in the clinic’s own cloud account, with five months of free maintenance after each go-live.`,
+        `Phase one, starting from ${P.software}: registration with patient ID, appointments and token queue per doctor, WhatsApp reminders, consultation notes with prescription templates, OPD billing with UPI and card receipts, and an owner dashboard. About eight weeks including a parallel-run week. Phase two, quoted separately: pharmacy stock with batch and expiry, lab orders and report printing. Phase three, optional: a patient app for bookings and reports from ${P.app}. Data sits in the clinic’s own cloud account, with two months of free maintenance after each go-live.`,
       ],
     },
     {
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       heading: "Hospital software banwana hai? Seedhi baat",
       paragraphs: [
         `Agar aapke clinic mein patient ka naam register, parchi aur billing mein baar-baar likha jaata hai, toh hospital software se kaafi samay bachega. Hum pehle aapka workflow samajhte hain: reception, doctor, pharmacy, lab aur accounts. Phir module-wise quote dete hain.`,
-        `Custom hospital software ${P.software} se shuru hota hai. Pehla phase 6–12 hafte mein live ho jaata hai. Data aapke apne cloud account mein rehta hai aur har staff ka alag login hota hai. Go-live ke baad 5 mahine maintenance free hai. Sawal ho toh WhatsApp par Hindi ya English mein poochiye.`,
+        `Custom hospital software ${P.software} se shuru hota hai. Pehla phase 6–12 hafte mein live ho jaata hai. Data aapke apne cloud account mein rehta hai aur har staff ka alag login hota hai. Go-live ke baad 2 mahine maintenance free hai. Sawal ho toh WhatsApp par Hindi ya English mein poochiye.`,
       ],
     },
   ],
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
         ["WhatsApp reminders or AI helper", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Confirmations, report alerts, FAQs"],
         ["Clinic or hospital website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Doctors, departments, appointment form"],
         ["Local SEO for the hospital", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Search Console, profile, content"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, backups checks"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fixes, updates, backups checks"],
       ],
       hideSm: [2],
     },
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
       ["Receive a module-wise quote", "In about two working days you get each module, integration and migration task as a priced line. Nothing is billed before you approve it in writing."],
       ["Try it with dummy patients", "Weekly releases go to a test environment. Staff from each department try real scenarios and their feedback shapes the screens before go-live."],
       ["Parallel run and go-live", "Staff use the new system alongside the old register for a short period, then switch. Role-wise training videos and close WhatsApp support cover the first days."],
-      ["Maintain and extend", "Five months of maintenance are free after go-live. Later phases, such as pharmacy, lab or a patient app, are quoted separately when you are ready."],
+      ["Maintain and extend", "Two months of maintenance are free after go-live. Later phases, such as pharmacy, lab or a patient app, are quoted separately when you are ready."],
     ],
   },
   faqHeading: "Hospital management software developer: questions clinics ask",
@@ -372,9 +372,9 @@ const content: FreelanceContent = {
     { question: "Do you visit the hospital for setup?", answer: "No. BtechWaleTech works remotely: workflow mapping over video with screen sharing, test environments your staff open from their desks, and go-live support on WhatsApp seven days a week. We do not supply or install hardware, so printers, scanners and networking should be handled by your local IT vendor." },
     { question: "Can patients book appointments and download reports online?", answer: `Yes. A patient portal or mobile app can offer bookings, reminders and secure report downloads, connected to the same records your staff use. A patient app for Android and iOS starts at ${P.app}. Simpler options include WhatsApp confirmations and a booking form on your clinic website.` },
     { question: "How do payments work for a hospital software project?", answer: "Payments are staged by module or milestone, as agreed in your written quote. Indian clients pay by UPI or bank transfer; overseas clients use Wise, bank wire or PayPal. You approve the itemised estimate before anything is billed, and cloud hosting is paid directly from your account to the provider." },
-    { question: "What support is available after the software goes live?", answer: `BtechWaleTech gives five months of free maintenance after go-live, covering bug fixes, small changes and checking that backups run. After that, maintenance continues from ${P.care} if you want it. Larger additions, such as a new module, are quoted separately so you always know the cost before work starts.` },
+    { question: "What support is available after the software goes live?", answer: `BtechWaleTech gives two months of free maintenance after go-live, covering bug fixes, small changes and checking that backups run. After that, maintenance continues from ${P.care} if you want it. Larger additions, such as a new module, are quoted separately so you always know the cost before work starts.` },
     { question: "Can one system serve multiple clinic branches?", answer: "Yes. A multi-branch design shares one patient record across locations while keeping branch-wise queues, stock, billing and reports. Staff permissions can be limited to their own branch. This adds design and testing work compared with a single site, so it appears as its own line in the estimate." },
-    { question: "Hospital software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom clinic ya hospital software ${P.software} se shuru hota hai. Pehle phase mein registration, appointment, parchi, billing aur dashboard aate hain, jo 6–12 hafte mein live ho jaate hain. Har module ka alag price quote mein likha hota hai. Go-live ke baad 5 mahine maintenance free hai.` },
+    { question: "Hospital software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom clinic ya hospital software ${P.software} se shuru hota hai. Pehle phase mein registration, appointment, parchi, billing aur dashboard aate hain, jo 6–12 hafte mein live ho jaate hain. Har module ka alag price quote mein likha hota hai. Go-live ke baad 2 mahine maintenance free hai.` },
     { question: "Can hospital software include insurance and TPA billing?", answer: "It can include the records insurance desks need: policy details, pre-authorisation status, claim documents and separate bill formats for insured patients. Direct electronic exchange with insurers depends on what each insurer or TPA supports, so we confirm that before quoting. Many clinics start with organised records and exports, then automate further later." },
   ],
   related: {
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Talk to a hospital management software developer about your clinic",
-    note: `Send us your departments, staff count and the problem you most want fixed on WhatsApp. After a workflow call you get a module-wise quote in about two working days, with custom systems from ${P.software}, data in your own account and five months of free maintenance.`,
+    note: `Send us your departments, staff count and the problem you most want fixed on WhatsApp. After a workflow call you get a module-wise quote in about two working days, with custom systems from ${P.software}, data in your own account and two months of free maintenance.`,
   },
 };
 

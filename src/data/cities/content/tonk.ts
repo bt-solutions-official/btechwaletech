@@ -30,11 +30,11 @@ const tonk: CityContent = {
     eyebrow: "Tonk · Rajasthan",
     h1: "Web, app, SEO and automation services for Tonk's namda workshops, oil mills and market traders",
     lede:
-      "We are three engineers who build websites, online catalogues and WhatsApp systems for Tonk district, from felt makers near the old city and mustard oil mills in the RIICO area to slate units at Deoli, schools in Newai and shops around Ghantaghar. We work remotely, quote in writing and maintain every site free for five months.",
+      "We are three engineers who build websites, online catalogues and WhatsApp systems for Tonk district, from felt makers near the old city and mustard oil mills in the RIICO area to slate units at Deoli, schools in Newai and shops around Ghantaghar. We work remotely, quote in writing and maintain every site free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and Urdu-friendly pages", "Namda catalogues", "Oil mill and slate B2B sites", "WhatsApp enquiry sheets"],
   },
   quickAnswer:
-    "A basic business website for a Tonk shop, clinic or workshop starts at ₹10,000 and takes one to two weeks. Sites with 700+ search-focused pages start from ₹20,000 and online stores from ₹50,000. We are a remote three-person team with no office in Tonk, and maintenance is free for five months after launch.",
+    "A basic business website for a Tonk shop, clinic or workshop starts at ₹10,000 and takes one to two weeks. Sites with 700+ search-focused pages start from ₹20,000 and online stores from ₹50,000. We are a remote three-person team with no office in Tonk, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Where it sits", value: "District headquarters on the right bank of the Banas, about 95 km south of Jaipur" },
     { label: "History", value: "Former princely state founded by Nawab Amir Khan in the early nineteenth century" },
@@ -51,7 +51,7 @@ const tonk: CityContent = {
     ai: "WhatsApp replies in Hindi that share today's oil rates, product photos or school fee details while you are busy at the counter.",
     data: "Simple dashboards showing seed purchases, oil output, dispatches and dues, readable on a phone in the mill office.",
     app: "Android and iOS apps for orders, attendance or patient queues, released on Google Play and the App Store with builds starting at ₹40,000.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Tonk businesses usually rely on Jaipur agencies or a relative who knows computers. The first is costly and slow to respond; the second often disappears. We sit in between: engineers who answer WhatsApp every day, publish starting prices openly and hand over every login when the site goes live.",
@@ -169,7 +169,7 @@ const tonk: CityContent = {
       paragraphs: [
         "A familiar story in district towns: someone built the site years ago, booked the domain under their own email, and later stopped answering calls. The owner cannot change a phone number, and when the renewal lapses, the site vanishes along with whatever search position it had.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the complete code and a short note explaining the setup, so any other developer can take over later without asking us for anything and without an exit fee.",
-        "Maintenance is free for five months after launch and covers text and rate updates, fixes, security patches, backups and uptime and speed checks. After that you can continue from ₹8,000 a month or simply call us when something needs changing.",
+        "Maintenance is free for two months after launch and covers text and rate updates, fixes, security patches, backups and uptime and speed checks. After that you can continue from ₹8,000 a month or simply call us when something needs changing.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const tonk: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "For five months after launch we handle text and rate changes, bug fixes, security updates, backups and uptime and speed checks without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For two months after launch we handle text and rate changes, bug fixes, security updates, backups and uptime and speed checks without charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed.",
     },
     {
       question: "Do you work in Newai, Deoli, Malpura and nearby towns?",

@@ -39,10 +39,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Bhopal for hospitals, institutes, contractors and industry",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Bhopal clinics, colleges, contractors, Govindpura and Mandideep units and retailers hire us in place of a software development team in Bhopal to build patient and admission systems, tender trackers, AI agents, mobile apps and dashboards, with hosting and SEO handled too.",
-    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Hospital and college systems", "Hindi and English screens", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Hospital and college systems", "Hindi and English screens", "2 months free maintenance"],
   },
   quickAnswer:
-    "If you are searching for a software development team in Bhopal, BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. Itemised quotes arrive in about two working days, with five months of free maintenance.",
+    "If you are searching for a software development team in Bhopal, BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. Itemised quotes arrive in about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Capital of Madhya Pradesh, with the state secretariat, directorates and many public sector offices" },
     { label: "Business districts", value: "MP Nagar, New Market and TT Nagar, Arera Colony, Hamidia Road and the Chowk Bazaar area of the old city" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that confirm appointments, answer admission queries and share tender or order status without extra staff.",
     data: "Dashboards for hospital footfall, college admissions, contractor billing and branch sales, fed from your apps, Tally or sheets.",
     app: "Android and iOS apps for Bhopal hospitals, colleges, contractors and sales teams, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Hosting, backups, security patches and changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, security patches and changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Bhopal buyers are careful: institutions and government-facing firms want documented work, and families running hospitals or colleges want someone reliable after launch. A freelance group of named engineers, with written quotes and every account in your name, suits that caution well.",
@@ -174,7 +174,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Bhopal system we deliver is hosted in the cloud with HTTPS, daily backups, uptime monitoring, role-based access and audit logs, in an account registered to the client. For hospitals and colleges holding personal data, this is the minimum sensible setup, not an optional extra.",
         "Our standard stack is Node.js or Python with PostgreSQL, a React or Astro front end, and AWS or a comparable provider, deployed through an automated pipeline with a rollback option. Backups are tested by restoring them. Passwords and keys are kept out of the code, and staff accounts are removed promptly when people leave.",
-        "Organisations with an existing local server, for example a billing system in a hospital, can keep it and connect securely to cloud dashboards. Hosting and deployment are included in every project, followed by five months of free maintenance.",
+        "Organisations with an existing local server, for example a billing system in a hospital, can keep it and connect securely to cloud dashboards. Hosting and deployment are included in every project, followed by two months of free maintenance.",
       ],
     },
     {
@@ -208,7 +208,7 @@ const content: CityContent = {
       id: "support-ownership-bhopal",
       heading: "Maintenance, IT support and ownership after launch in Bhopal",
       paragraphs: [
-        "Bhopal projects include five months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks; afterwards, support continues from ₹8,000 a month or on a pay-per-change basis. The client owns the code, domain, hosting and all logins from the start.",
+        "Bhopal projects include two months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks; afterwards, support continues from ₹8,000 a month or on a pay-per-change basis. The client owns the code, domain, hosting and all logins from the start.",
         "Support is remote, over WhatsApp, calls and screen share, seven days a week. We do not have an office in Bhopal and do not pretend to. What you get is the engineers who built your system answering your questions, which is faster than a ticket queue.",
         "Handover includes documentation so another developer can continue if you ever change providers. Our <a href='/it-services/madhya-pradesh/'>Madhya Pradesh hub</a> covers the rest of the state, with sibling pages for <a href='/it-services/madhya-pradesh/indore/'>Indore</a> and <a href='/it-services/madhya-pradesh/jabalpur/'>Jabalpur</a>. To start, use the <a href='/contact/'>contact page</a> or read <a href='/about/'>about the team</a>.",
       ],
@@ -281,7 +281,7 @@ const content: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are included free after launch: bug fixes, small changes, security updates, backups and uptime checks. After that, support is available from ₹8,000 a month, or you can pay per change. New modules are quoted first, so costs never surprise you.",
+        "Two months of maintenance are included free after launch: bug fixes, small changes, security updates, backups and uptime checks. After that, support is available from ₹8,000 a month, or you can pay per change. New modules are quoted first, so costs never surprise you.",
     },
     {
       question: "Do you build Android and iOS apps for Bhopal hospitals and colleges?",

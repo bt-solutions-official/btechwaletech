@@ -56,7 +56,7 @@ const sivaganga: CityContent = {
     ai: "Tamil WhatsApp assistants that reply to price, stock and timing questions at night and hand the real decisions to you.",
     data: "Dashboards that show season-wise procurement, despatch tonnage, outstanding payments and enquiry sources in one screen.",
     app: "Android and iOS apps from ₹40,000 for lorry and despatch crews, repeat spice buyers or parents at a Sivaganga school, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then ₹8,000 a month onwards for edits, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then ₹8,000 a month onwards for edits, backups and security patches.",
   },
   whyUsIntro:
     "Owners here have usually been burned once by a website that stopped working when the person who built it stopped answering calls. So we put the boring things in writing first: what you get, what it costs line by line, and whose name every account sits in. We are three freelance engineers, not a firm with a sales floor, and we say no to features that will not earn their cost.",
@@ -177,7 +177,7 @@ const sivaganga: CityContent = {
       heading: "Who owns your Sivaganga website, and what upkeep costs afterwards",
       paragraphs: [
         "Everything we build is registered to you from the start. The domain is booked on your email address, the hosting invoice carries your name, the complete source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you get a written sheet with every login on it, which means no developer — us included — can ever hold your site to ransom.",
-        "The first five months after launch are covered by us at no charge. In that window we change prices and photographs, take backups, apply security and framework updates, and periodically test that the enquiry form, the checkout and the WhatsApp button still work. When those months end the choice is yours: stay with us from ₹8,000 a month, move it in-house, or hand the code to any other developer in Madurai or Karaikudi.",
+        "The first two months after launch are covered by us at no charge. In that window we change prices and photographs, take backups, apply security and framework updates, and periodically test that the enquiry form, the checkout and the WhatsApp button still work. When those months end the choice is yours: stay with us from ₹8,000 a month, move it in-house, or hand the code to any other developer in Madurai or Karaikudi.",
         "Apps need a yearly pass even when nothing looks broken, because Google Play and the App Store keep raising the minimum versions they will accept. We watch those deadlines and rebuild early rather than after a takedown notice, and we tell you in advance what that will cost.",
       ],
     },
@@ -269,7 +269,7 @@ const sivaganga: CityContent = {
     {
       question: "What maintenance do I get after my Sivaganga website goes live?",
       answer:
-        "Five months of upkeep at no charge: price and photo edits, backups, security patches and routine checks that your forms, checkout and WhatsApp button still work. After that you can continue with us from ₹8,000 a month or stop. Since the code and every account are already registered to you, moving to another developer needs no permission from us.",
+        "Two months of upkeep at no charge: price and photo edits, backups, security patches and routine checks that your forms, checkout and WhatsApp button still work. After that you can continue with us from ₹8,000 a month or stop. Since the code and every account are already registered to you, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you also work with businesses in Manamadurai, Karaikudi and Devakottai?",

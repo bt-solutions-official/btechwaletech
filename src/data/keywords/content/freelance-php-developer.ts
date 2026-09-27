@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who can read your codebase" },
     { value: "2", label: "Working days to an itemised plan" },
-    { value: "5", label: "Months free maintenance on new builds" },
+    { value: "2", label: "Months free maintenance on new builds" },
     { value: "0", label: "Platform fees between you and us" },
   ],
   answer: {
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
       ["Receive the audit and plan", "In about two working days you get findings in plain language and an itemised plan: each fix, upgrade step or module priced separately."],
       ["Work on staging, never blind", "We set up a Git repository and staging copy in your accounts, make changes there, and your staff test the screens that matter."],
       ["Deploy with a way back", "Production changes go out at a quiet hour with the previous version ready to restore. Every deployment is written into the change log."],
-      ["Keep it healthy", "New builds get five months of free maintenance. Existing systems can move to a monthly plan from " + P.care + " covering patches, backups and small changes."],
+      ["Keep it healthy", "New builds get two months of free maintenance. Existing systems can move to a monthly plan from " + P.care + " covering patches, backups and small changes."],
     ],
   },
   faqHeading: "Freelance PHP developer: frequently asked questions",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Is it safe to give a freelancer access to my PHP code and server?", answer: "It is safe if you grant access in stages and keep ownership. Start with a read-only code copy for the audit, then staging access, and production access only for deployments. Keep the repository and hosting in your own accounts, sign an NDA if data is sensitive, and change passwords when any engagement ends." },
     { question: "Can a PHP developer fix a hacked website?", answer: "Yes. The usual steps are isolating the site, taking a forensic backup, finding and removing injected files and database entries, closing the hole that let the attacker in, updating PHP and libraries, changing every password and key, and requesting a review from Google if the site was flagged. Prevention through patches and backups is cheaper than recovery." },
     { question: "How long does a PHP upgrade or migration take?", answer: "A small site can move to a current PHP version in a few days. A mid-sized business application usually takes two to four weeks including testing. A framework migration done module by module can run for several weeks or months depending on size. A new custom web app typically takes 6–12 weeks." },
-    { question: "Do you provide ongoing PHP maintenance?", answer: `Yes. New builds include five months of free maintenance after launch. For existing systems, monthly maintenance starts at ${P.care} and covers security patches, dependency updates, backups, monitoring and small changes. You can pause or stop it at any time, and all code stays in your repository.` },
+    { question: "Do you provide ongoing PHP maintenance?", answer: `Yes. New builds include two months of free maintenance after launch. For existing systems, monthly maintenance starts at ${P.care} and covers security patches, dependency updates, backups, monitoring and small changes. You can pause or stop it at any time, and all code stays in your repository.` },
     { question: "Can you make my PHP website faster?", answer: "Usually, yes. We start with the database, because missing indexes and repeated queries cause most slowness, then enable OPcache, move to a current PHP 8 release and cache data that rarely changes. If shared hosting is the bottleneck, we can move you to a VPS or AWS in your own account." },
     { question: "Will I own the code a freelance PHP developer writes?", answer: "You should, and with us you do. Code lives in a Git repository in your account from the first day, the server and database are in your name, and at the end you get a runbook covering deployment, rollback, scheduled tasks and every third-party key. You can hand the system to any other developer." },
     { question: "Do you build APIs in PHP for mobile apps?", answer: `Yes. We build documented REST APIs in Laravel or plain PHP for Android and iOS apps, partner integrations and WhatsApp bots, with authentication and versioning. If you need the app too, we build Android and iOS apps from ${P.app} using Flutter or React Native.` },

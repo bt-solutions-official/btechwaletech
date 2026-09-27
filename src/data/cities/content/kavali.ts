@@ -56,7 +56,7 @@ const kavali: CityContent = {
     ai: "Telugu WhatsApp assistants that answer stock, price, admission and appointment questions and hand real decisions to you.",
     data: "Crop-wise dashboards of feed used, survival, harvest count and margin per pond, and dealer credit by farmer.",
     app: "Android and iOS apps for aqua farm supervisors to log daily feed and water readings, or for students to follow college notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kavali farmers and dealers work with thin margins and long credit cycles, so they want every rupee explained. We publish our starting prices, send an itemised quote in writing, reply on WhatsApp seven days a week, and register the domain, hosting, code and store accounts in your own name.",
@@ -171,7 +171,7 @@ const kavali: CityContent = {
       heading: "Remote work, ownership and maintenance for Kavali clients",
       paragraphs: [
         "Since we are not in Kavali, every step is written down. After a first call, you receive a page or screen plan, a timeline and an itemised quote. Once you approve it, we share preview links that you can open on your own phone and show to partners. We reply on WhatsApp every day, weekends included, on Indian Standard Time, and Telugu text is sent to you for checking before it goes live.",
-        "The domain, hosting, source code, Google Business Profile and app store developer accounts are all registered in your name, with logins handed over in writing. Maintenance is free for five months after launch and includes updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month, and you can move to another developer at any time.",
+        "The domain, hosting, source code, Google Business Profile and app store developer accounts are all registered in your name, with logins handed over in writing. Maintenance is free for two months after launch and includes updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month, and you can move to another developer at any time.",
         "Payments are tied to visible progress, and nothing is billed before your written approval. Apps get yearly updates for new Google and Apple rules. To begin, <a href=\"/contact/\">contact us on WhatsApp</a>.",
       ],
     },
@@ -268,7 +268,7 @@ const kavali: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch, including updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take your code to another developer whenever you choose.",
+        "Maintenance is free for two months after launch, including updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take your code to another developer whenever you choose.",
     },
     {
       question: "Do you work in Bitragunta, Kandukur and Nellore too?",

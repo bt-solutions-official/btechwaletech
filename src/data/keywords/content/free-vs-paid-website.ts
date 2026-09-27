@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Typical build time", "1–2 weeks"],
     ["Domain and hosting", "Registered in your name"],
     ["Ads on your site", "None"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Quote", "Itemised, in about 2 working days"],
   ],
   stats: [
     { value: "100", label: "Pages included in the static website plan" },
     { value: "1–2", label: "Weeks to build a typical static site" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Builder ads or platform branding on your site" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Business email setup", note: "Connecting email on your own domain through the provider you choose, with the DNS records that keep mail out of spam folders.", href: "/business-emails-going-to-spam/", size: "md" },
       { name: "Landing page", note: "One focused page for an ad campaign or launch, on your own domain rather than a free builder link.", href: "/landing-page-developer/", size: "sm" },
       { name: "Local SEO basics", note: "Google Business Profile linked to a page that matches it, so maps and search results agree about who you are.", href: "/local-seo-packages-india/", size: "sm" },
-      { name: "Maintenance", note: `Updates, backups and small edits after the five free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Updates, backups and small edits after the two free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a paid website costs, and what the price covers",
-    note: `Our static websites start at ${P.site} (${P.siteUsd}) for up to 100 pages, usually built in one to two weeks. That covers design for your business, mobile-first pages, contact and WhatsApp buttons, basic on-page SEO, a sitemap and connecting your own domain and hosting. The domain and hosting are bought in your name and renewed with those providers, so you are never locked to us. Business email is billed by whichever provider you pick. If you need online payments, ecommerce starts at ${P.shop}; for hundreds of service or area pages, the SEO website starts at ${P.seoSite}. Five months of maintenance are free, then ${P.care} onwards.`,
+    note: `Our static websites start at ${P.site} (${P.siteUsd}) for up to 100 pages, usually built in one to two weeks. That covers design for your business, mobile-first pages, contact and WhatsApp buttons, basic on-page SEO, a sitemap and connecting your own domain and hosting. The domain and hosting are bought in your name and renewed with those providers, so you are never locked to us. Business email is billed by whichever provider you pick. If you need online payments, ecommerce starts at ${P.shop}; for hundreds of service or area pages, the SEO website starts at ${P.seoSite}. Two months of maintenance are free, then ${P.care} onwards.`,
   },
   guideLabel: "Free website vs paid website: the full guide",
   guide: [
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
       heading: "Free website vs paid website cost over a year",
       paragraphs: [
         `Over a year, a free site costs nothing in fees but costs time, missed enquiries and a future rebuild. A paid site costs a build fee plus renewals, and the question is whether it brings in more than that.`,
-        `For a paid site from us, the first-year list is the build from ${P.site}, the domain registration and hosting paid to those providers in your name, and optionally business email billed by the provider you choose. Maintenance is free for five months after launch; after that, you can maintain the site yourself or take support from ${P.care}. From year two, the recurring items are the domain, hosting and email renewals.`,
+        `For a paid site from us, the first-year list is the build from ${P.site}, the domain registration and hosting paid to those providers in your name, and optionally business email billed by the provider you choose. Maintenance is free for two months after launch; after that, you can maintain the site yourself or take support from ${P.care}. From year two, the recurring items are the domain, hosting and email renewals.`,
         `The fair comparison is against what the site earns. If one extra customer a month finds you because your site loads fast, shows a proper address and appears in search, most small businesses cover the cost quickly. If you truly get no work from the internet and never will, free remains the sensible choice. For a fuller yearly breakdown, see <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a>.`,
       ],
     },
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
         ["Domain name", "Domain registrar", "Yearly renewal", "Registered to your business"],
         ["Hosting", "Hosting provider", "Monthly or yearly", "Static sites need only light hosting"],
         ["Business email", "Email provider", "Monthly or yearly per user", "Optional, on your domain"],
-        ["Maintenance", "Us, if you want", "After 5 free months", `From ${P.care}, or do it yourself`],
+        ["Maintenance", "Us, if you want", "After 2 free months", `From ${P.care}, or do it yourself`],
         ["Google Business Profile", "Free", "Ongoing upkeep", "Link it to your matching page"],
       ],
     },
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You register the domain and hosting, or we guide you through it on a call. Nothing is registered under our name."],
       ["Build and preview", "We write the pages with your input, design them for phones first and share a preview link for your changes."],
       ["Launch and connect", "The site goes live on your domain, Search Console is verified in your name and your Google Business Profile links to the right page."],
-      ["Five months of care", "Free maintenance for five months after launch for fixes and small edits, then optional support or full self-management."],
+      ["Two months of care", "Free maintenance for two months after launch for fixes and small edits, then optional support or full self-management."],
     ],
   },
   faqHeading: "Free website vs paid website: questions answered",
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
     { question: "Do I need a website if I have Instagram or a Google Business Profile?", answer: "They help, but you do not control their rules, layout or reach, and they rarely rank for detailed service searches on their own. A website gives you pages for each service and area, your own contact routes and a home for reviews and photos. Many businesses use all three together, linked to each other." },
     { question: "How long does it take to build a paid website?", answer: "Our static websites typically take one to two weeks once you have shared your content and photos. Larger SEO websites with 299+ pages take three to five weeks, and ecommerce stores four to eight weeks. Most delays come from waiting for content, so gathering your service details and photos early speeds things up." },
     { question: "Does a paid website help with AI search and AI Overviews?", answer: "It helps because you control the structure. Google says there are no special requirements for AI Overviews beyond normal SEO, so clear pages that answer one question each, direct answers near the top, structured data and accurate facts all help. Free plans often limit exactly those controls." },
-    { question: "What happens after five months of free maintenance?", answer: `You choose. You can manage small edits yourself, hire anyone you like since the files and accounts are yours, or take maintenance from us starting from ${P.care}. Domain, hosting and email renewals continue with those providers regardless of who maintains the site.` },
+    { question: "What happens after two months of free maintenance?", answer: `You choose. You can manage small edits yourself, hire anyone you like since the files and accounts are yours, or take maintenance from us starting from ${P.care}. Domain, hosting and email renewals continue with those providers regardless of who maintains the site.` },
     { question: "How do I pay for a website with you?", answer: "In India, by UPI or bank transfer against an invoice; clients abroad pay in USD by Wise, bank wire or PayPal. You receive an itemised quote first, and nothing is billed until you approve it in writing. The payment stages for the build are listed in that quote." },
   ],
   related: {

@@ -14,7 +14,7 @@ const content: FreelanceContent = {
   updated: "2026-09-24",
   meta: {
     title: `Freelance Laravel Developer India: Apps from ${P.software}`,
-    description: `Freelance Laravel developer in India for SaaS, portals, REST APIs and version upgrades. Custom web apps from ${P.software}, code in your repo, 5 months free care.`,
+    description: `Freelance Laravel developer in India for SaaS, portals, REST APIs and version upgrades. Custom web apps from ${P.software}, code in your repo, 2 months free care.`,
     keywords: [
       "freelance laravel developer", "freelance laravel developer in India", "laravel developer near me", "laravel developer for hire",
       "hire laravel developer", "laravel developer cost", "laravel developer price India", "best freelance laravel developer",
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised in about 2 working days"],
     ["Repository", "In your GitHub or GitLab account"],
     ["Upgrades", "Audited and moved one major version at a time"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can read your codebase" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Stack", value: "Laravel, PHP 8.x, MySQL or PostgreSQL, Redis" },
       { label: "Front end", value: "Blade, Livewire, Inertia with Vue or React" },
       { label: "Hosting", value: "Your VPS or AWS account, deployed by pipeline" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Admin panel with Filament", note: "Data-heavy back offices built quickly on Filament, so your team gets tables, filters, forms and exports without months of custom UI.", size: "md" },
       { name: "CRM or billing module", note: "Leads, follow-ups, invoices with GST lines and WhatsApp notifications, shaped around how your team already works.", href: "/freelance-crm-developer/", size: "sm" },
       { name: "Performance and bug fixing", note: "Slow pages, N+1 queries, failing queues or random 500 errors traced with logs and profiling, then fixed at the cause.", href: "/website-bug-fixing-freelancer/", size: "sm" },
-      { name: "Ongoing Laravel maintenance", note: `Security patches, dependency updates, backups and small features after the five free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing Laravel maintenance", note: `Security patches, dependency updates, backups and small features after the two free months, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
         ["Mobile app on your API", `${P.app}`, `${P.appUsd}`, "6–10 weeks", "Flutter or React Native client"],
         ["Marketing site for the product", `${P.site}`, `${P.siteUsd}`, "1–2 weeks", "Static site, separate from the app"],
         ["Upgrade or rescue", "After audit", "After audit", "Depends on audit", "Tests first, one major version per step"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Patches, backups, small features"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Patches, backups, small features"],
       ],
       hideSm: [2],
     },
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
       ["Itemised estimate", "In about two working days you receive priced lines and dates. Change anything you like; billing starts only after written approval."],
       ["Set up in your accounts", "Repository, staging and production servers, storage and backups are created under your ownership, with us as collaborators."],
       ["Weekly staging releases", "Features arrive in small batches on staging with tests around business rules. You test, comment on WhatsApp and we adjust."],
-      ["Deploy, hand over, support", "Production deploy with verified backups, a README and walkthrough call, then five months of free fixes and patches."],
+      ["Deploy, hand over, support", "Production deploy with verified backups, a README and walkthrough call, then two months of free fixes and patches."],
     ],
   },
   faqHeading: "Freelance Laravel developer: questions answered",
@@ -351,9 +351,9 @@ const content: FreelanceContent = {
     { question: "Where will my Laravel app be hosted?", answer: "On a server in your own account: a VPS from a provider you choose, or AWS for apps that need managed databases, queues and scaling. We deploy through a pipeline from Git rather than uploading files by hand, set up daily backups to your storage and test a restore before launch." },
     { question: "How do you handle security in Laravel projects?", answer: "We keep debug mode off in production, store secrets outside the repository, validate every input, authorise every action with policies, rate-limit logins and APIs, keep packages patched and log errors where you can see them. Daily backups go to storage you own, and restoring one is tested before go-live." },
     { question: "Can a Laravel app generate GST invoices and accept UPI?", answer: "Yes. A Laravel app can generate PDF invoices with GSTIN, HSN or SAC codes and tax lines, and accept UPI and card payments through the payment provider you choose via its API. We run invoice generation and payment webhooks on queues so screens stay fast even when a provider is slow." },
-    { question: "Do you offer Laravel maintenance after launch?", answer: `Yes. Every launch includes five months of free maintenance covering bug fixes, security patches and small changes. After that, maintenance is optional and starts at ${P.care}, covering dependency updates, backups checks, monitoring and minor features. You are free to move the work to your own team at any point.` },
+    { question: "Do you offer Laravel maintenance after launch?", answer: `Yes. Every launch includes two months of free maintenance covering bug fixes, security patches and small changes. After that, maintenance is optional and starts at ${P.care}, covering dependency updates, backups checks, monitoring and minor features. You are free to move the work to your own team at any point.` },
     { question: "Should I hire a Laravel freelancer or an agency?", answer: "A small freelance team suits portals, SaaS first versions, APIs and upgrades where you want direct contact with the developers and lower overheads. An agency suits programmes that need many developers, designers and testers working at once. We are three people and will tell you honestly if your project needs a bigger team." },
-    { question: "Laravel developer chahiye, kaise shuru karein?", answer: `WhatsApp par batayiye ki app mein kaun log login karenge, kaunse screens chahiye aur kin tools se judna hai. Purana code hai toh repository access dijiye; hum pehle audit karke report denge. Naya Laravel app ${P.software} se shuru hota hai, quote lagbhag 2 working days mein milta hai aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Laravel developer chahiye, kaise shuru karein?", answer: `WhatsApp par batayiye ki app mein kaun log login karenge, kaunse screens chahiye aur kin tools se judna hai. Purana code hai toh repository access dijiye; hum pehle audit karke report denge. Naya Laravel app ${P.software} se shuru hota hai, quote lagbhag 2 working days mein milta hai aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Do you work with overseas clients on Laravel projects?", answer: `Yes. Teams in the USA, UK, Europe, Australia and the Middle East can work with us remotely. Laravel apps start at ${P.softwareUsd}, we overlap part of the working day for calls, releases go to staging for review, and payment is through Wise, bank wire or PayPal, with the repository in your account.` },
   ],
   related: {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance Laravel developer? Send the brief or the repo",
-    note: `Describe the app you want, or share read access to the one you have. You get a scope or audit plan and an itemised estimate in about two working days, with new Laravel apps from ${P.software} and five months of free maintenance after launch.`,
+    note: `Describe the app you want, or share read access to the one you have. You get a scope or audit plan and an itemised estimate in about two working days, with new Laravel apps from ${P.software} and two months of free maintenance after launch.`,
   },
 };
 

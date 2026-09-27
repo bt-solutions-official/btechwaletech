@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build time", "1–2 weeks for up to 100 pages"],
     ["Best month to start", "January or February, before the first heatwave"],
     ["Written quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and look after your site" },
     { value: "100", label: "Pages included in the starting static plan" },
-    { value: "5", label: "Months of free maintenance once the site is live" },
+    { value: "2", label: "Months of free maintenance once the site is live" },
     { value: "0", label: "Commission taken on the bookings your site brings" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What an AC repair service website costs",
-    note: `Most AC and appliance repair businesses need the static plan from ${P.site}: up to 100 pages is plenty for job pages, brand pages, a price list, AMC plans and a dozen area pages. If you cover a whole metro and its suburbs and want a page for every locality and every job in each, the SEO build from ${P.seoSite} fits better. Technician dispatch, job cards and AMC visit schedules are software, quoted from ${P.software}. Monthly SEO starts at ${P.seo}, and care after the five free months starts at ${P.care}. Every figure is a starting price; your itemised quote comes in about two working days.`,
+    note: `Most AC and appliance repair businesses need the static plan from ${P.site}: up to 100 pages is plenty for job pages, brand pages, a price list, AMC plans and a dozen area pages. If you cover a whole metro and its suburbs and want a page for every locality and every job in each, the SEO build from ${P.seoSite} fits better. Technician dispatch, job cards and AMC visit schedules are software, quoted from ${P.software}. Monthly SEO starts at ${P.seo}, and care after the two free months starts at ${P.care}. Every figure is a starting price; your itemised quote comes in about two working days.`,
   },
   guideLabel: "AC repair service website guide",
   guide: [
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       heading: "Who owns the AC repair service website once it is live?",
       paragraphs: [
         `You do. The domain is registered in your name, hosting is billed to your account, the code is handed over, and every lead, photo and review is yours. We work inside your accounts rather than holding them.`,
-        `This matters more for repair businesses than most, because the site becomes the thing that separates you from aggregator apps. If a developer registers the domain in their own name or hosts the site on a platform only they can log in to, you are simply renting again. At handover you get the logins, a short document of what is where, and the source files. The first five months after launch include free maintenance: bug fixes, small text and price changes, and help if something breaks. After that, care is optional and starts at ${P.care}, or you can take the site to anyone else. Terms for changes and payments are set out in your written quote and on our <a href='/terms/'>terms page</a>.`,
+        `This matters more for repair businesses than most, because the site becomes the thing that separates you from aggregator apps. If a developer registers the domain in their own name or hosts the site on a platform only they can log in to, you are simply renting again. At handover you get the logins, a short document of what is where, and the source files. The first two months after launch include free maintenance: bug fixes, small text and price changes, and help if something breaks. After that, care is optional and starts at ${P.care}, or you can take the site to anyone else. Terms for changes and payments are set out in your written quote and on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Approve the page plan", "We send the list of job, brand, area and AMC pages with a sample page. You correct rates and wording before the full build starts."],
       ["Build and review", "We build on a private link you can open on your own phone. You check prices, test the booking form and the call and WhatsApp buttons."],
       ["Launch and set up local search", "The site goes live on your domain and hosting; we connect Search Console and set up or tidy your Business Profile as a service-area business."],
-      ["Five months of free care", "Price updates, new job pages, fixes and seasonal banners are covered for five months after launch; ongoing care or SEO is optional after that."],
+      ["Two months of free care", "Price updates, new job pages, fixes and seasonal banners are covered for two months after launch; ongoing care or SEO is optional after that."],
     ],
   },
   faqHeading: "AC repair service website: questions owners ask",
@@ -395,13 +395,13 @@ const content: FreelanceContent = {
     { question: "Can the website also cover fridge, washing machine and geyser repair?", answer: "Yes, and it should if your team repairs them. Each appliance gets its own page with symptoms, what the visit involves, starting rates and booking. These pages keep the site earning in winter, when geyser faults peak across much of North India and AC searches fall away." },
     { question: "Will my AC repair website work on cheap Android phones?", answer: "It is built for them. We keep pages light, compress images, load the call and WhatsApp buttons first and test on budget phones over mobile data. We check Core Web Vitals in PageSpeed Insights before launch and in Search Console afterwards, and fix slow pages instead of adding plugins." },
     { question: "Who owns the website and the domain?", answer: "You do. The domain is registered in your name, hosting is on your account, and you receive the code and logins at handover. Leads, photos and reviews are yours. If you ever want another developer to take over, they can do so without asking our permission." },
-    { question: "What happens after the website goes live?", answer: `You get five months of free maintenance: bug fixes, price changes, new job pages and seasonal banners. After that, care is optional and starts at ${P.care}, or you can manage the site yourself or hand it to someone else. Many owners update prices once before each summer and leave the rest alone.` },
+    { question: "What happens after the website goes live?", answer: `You get two months of free maintenance: bug fixes, price changes, new job pages and seasonal banners. After that, care is optional and starts at ${P.care}, or you can manage the site yourself or hand it to someone else. Many owners update prices once before each summer and leave the rest alone.` },
     { question: "How do I pay for the website?", answer: "In India you pay by UPI or bank transfer, and you receive an invoice for each payment. The payment stages are listed in your written quote, and nothing is billed before you approve that quote in writing. See our terms and refund policy pages for how payments and cancellations are handled." },
     { question: "Should I hire a local agency or a remote freelance team?", answer: "A local agency can visit your shop; a remote team cannot, and we do not make site visits. What matters more is whether the builder understands repair work, writes job pages rather than generic text and hands you full ownership. We work over WhatsApp and calls in English and Hindi, and quotes from different providers vary widely, so compare the itemised scope." },
     { question: "Can the site take advance payment for AC installation?", answer: "Yes. For installation or AMC plans the site can take UPI or card payments through a payment provider in your name, with receipts sent automatically. Most repair businesses keep one-time repairs as pay-after-service and collect advances only for installations, plans and bulk orders. We set up whichever flow you choose." },
     { question: "Can you add an AI or WhatsApp assistant for bookings?", answer: `Yes. A WhatsApp assistant can answer common questions about rates and areas, collect AC type, problem and locality, and offer open slots, then hand the chat to your staff. It helps most in peak weeks when calls go unanswered. AI automation work starts at ${P.ai}, usually built in two to four weeks.` },
     { question: "How does an AC repair website show up in AI answers like Google's AI Overviews?", answer: "AI answer engines quote clear, specific pages. Short direct answers at the top of each job page, question headings, a price table in real text, consistent business details and genuine reviews make your pages easier to quote. Nobody controls which sources are shown, but vague pages with no prices are rarely chosen." },
-    { question: "AC repair ki website banane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath AC repair website ${P.site} se shuru hoti hai, jisme 100 pages tak job pages, price list, booking form, AMC plans aur area pages aa jaate hain. Kaam 1–2 hafte me ho jaata hai. Domain, hosting aur code aapke naam par rehte hain, aur launch ke baad 5 mahine free maintenance milta hai.` },
+    { question: "AC repair ki website banane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath AC repair website ${P.site} se shuru hoti hai, jisme 100 pages tak job pages, price list, booking form, AMC plans aur area pages aa jaate hain. Kaam 1–2 hafte me ho jaata hai. Domain, hosting aur code aapke naam par rehte hain, aur launch ke baad 2 mahine free maintenance milta hai.` },
     { question: "Can I update prices and offers myself?", answer: "Yes, if you want. We can set up a simple editor for the price list, offers and banners. Many owners prefer to send changes on WhatsApp during the free maintenance period instead, because summer leaves little time for admin work. Either way, the price list page shows the date it was last updated." },
   ],
   related: {

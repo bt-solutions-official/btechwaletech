@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Internal tools from ₹60,000", "Automation from ₹40,000", "Plant and campus systems", "Websites from ₹10,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Ponda: internal tools, portals and web apps from ₹60,000 in six to twelve weeks, workflow and AI automation or Android and iOS apps from ₹40,000, and websites from ₹10,000 in one to two weeks. We are a freelance group of three remote engineers without a Ponda office, and five months of maintenance is free.",
+    "BtechWaleTech's freelance software developers build for Ponda: internal tools, portals and web apps from ₹60,000 in six to twelve weeks, workflow and AI automation or Android and iOS apps from ₹40,000, and websites from ₹10,000 in one to two weeks. We are a freelance group of three remote engineers without a Ponda office, and two months of maintenance is free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Ponda taluka in central Goa, governed by the Ponda Municipal Council and known as Goa's temple town" },
     { label: "Industrial estates", value: "Kundaim, Bethora, Usgao and Madkai estates, home to pharmaceutical, consumer electrical, engineering and processing units" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that summarise documents, answer staff and student questions, and turn forms and messages into structured records for review.",
     data: "Dashboards showing production, maintenance, attendance, admissions or seva bookings from existing spreadsheets and systems.",
     app: "Android and iOS apps for Ponda supervisors, collection agents, students and pilgrims, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month, supported remotely seven days a week.",
+    maintenance: "Two months of free maintenance after launch, then plans from ₹8,000 a month, supported remotely seven days a week.",
   },
   whyUsIntro:
     "Ponda's plants, colleges and trusts need software that works quietly every day rather than impressive demos. We are a freelance group of three engineers who build exactly that, publish starting prices, hand over all code and accounts, and answer on WhatsApp seven days a week.",
@@ -190,7 +190,7 @@ const content: CityContent = {
       id: "maintenance-ponda",
       heading: "Maintenance and support for Ponda software after launch",
       paragraphs: [
-        "Maintenance keeps Ponda systems stable, secure and up to date through bug fixes, security patches, backups, uptime checks and small changes. BtechWaleTech includes five months of maintenance free after launch, then offers plans from ₹8,000 a month.",
+        "Maintenance keeps Ponda systems stable, secure and up to date through bug fixes, security patches, backups, uptime checks and small changes. BtechWaleTech includes two months of maintenance free after launch, then offers plans from ₹8,000 a month.",
         "We support software, hosting, domains and email remotely and reply on WhatsApp seven days a week. We do not provide on-site hardware or network support, so plants and colleges keep their local IT staff or vendors for that, and we coordinate with them when needed.",
       ],
     },
@@ -208,7 +208,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Internal tool or portal:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -287,7 +287,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch, including bug fixes, security updates, backups, uptime checks and small changes. After that, plans start from ₹8,000 a month, or you can pay per request. We support software and hosting remotely; on-site hardware remains with your local IT team.",
+        "Two months of free maintenance after launch, including bug fixes, security updates, backups, uptime checks and small changes. After that, plans start from ₹8,000 a month, or you can pay per request. We support software and hosting remotely; on-site hardware remains with your local IT team.",
     },
     {
       question: "Can worker-facing screens be in Hindi, Konkani or Marathi?",

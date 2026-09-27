@@ -34,7 +34,7 @@ const content: FreelanceContent = {
     ["Monthly SEO", `From ${P.seo}`],
     ["SEO website, 299+ pages", `From ${P.seoSite}, 3–5 weeks`],
     ["Business website", `From ${P.site}, 1–2 weeks`],
-    ["Site maintenance", `From ${P.care} after 5 free months`],
+    ["Site maintenance", `From ${P.care} after 2 free months`],
     ["Billing currency", "USD quote; pay from SGD via Wise"],
     ["Accounts you keep", "Search Console, Analytics, Business Profile"],
   ],

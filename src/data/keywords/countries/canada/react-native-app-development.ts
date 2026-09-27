@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["First release", "Usually 6–10 weeks"],
     ["Default toolchain", "Expo with EAS Build, bare when native code demands it"],
     ["Store listings", "Your Play Console and App Store Connect"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "1", label: "JavaScript codebase for Android and iOS" },
     { value: "3", label: "Developers on your project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
   ],
   answer: {
     heading: "When should a Canadian company choose React Native app development?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Toolchain", value: "Expo and EAS Build by default; bare React Native if a native SDK needs it" },
       { label: "Starting price", value: `From ${P.app}, itemised in USD` },
       { label: "Call windows", value: "Toronto and Montreal mornings are Indian evenings; Vancouver early mornings work" },
-      { label: "After launch", value: `Five free months of fixes, then care from ${P.care}` },
+      { label: "After launch", value: `Two free months of fixes, then care from ${P.care}` },
     ],
   },
   services: {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       heading: "What does React Native app maintenance involve after launch?",
       paragraphs: [
         `Maintenance for a React Native app means keeping three things current: the framework and its libraries, the store requirements, and your own features. Skipping upgrades for a year or two is the most common reason a cross-platform app becomes expensive to change.`,
-        `Every new build includes five months of free maintenance after launch. During that time we fix bugs, handle crash reports, answer store review questions and apply minor library updates. After that, care plans start at ${P.care} and cover React Native and Expo SDK upgrades, security patches, store policy changes and small improvements. Larger features are quoted separately so you always know what you are paying for.`,
+        `Every new build includes two months of free maintenance after launch. During that time we fix bugs, handle crash reports, answer store review questions and apply minor library updates. After that, care plans start at ${P.care} and cover React Native and Expo SDK upgrades, security patches, store policy changes and small improvements. Larger features are quoted separately so you always know what you are paying for.`,
         `Because the code sits in your repository and follows the same patterns as your web app, you can also take maintenance in-house at any point. We leave a handover document covering the build commands, environment variables, release channels, where credentials live and how to run the app locally.`,
       ],
       list: [
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Accounts and monorepo", "You create the Apple, Google, Expo and cloud accounts in your name and invite us. We set up the monorepo and extract shared types and rules."],
       ["Weekly test builds", "Features arrive in order of business value, installed on your phone through TestFlight and a Play testing track, with a short demo call each week."],
       ["Store submission", "We prepare listings in English and French, privacy labels, screenshots and permission texts, then submit and handle any reviewer questions until approval."],
-      ["Launch and care", "Five months of free fixes and minor updates, then optional care plans for upgrades, store policy changes and new features, or a clean handover to your team."],
+      ["Launch and care", "Two months of free fixes and minor updates, then optional care plans for upgrades, store policy changes and new features, or a clean handover to your team."],
     ],
   },
   faqHeading: "React Native app development in Canada: frequently asked questions",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "Is it safe to have a React Native app built in India under PIPEDA?", answer: "The Office of the Privacy Commissioner of Canada says PIPEDA does not prohibit transferring personal information abroad for processing, but your organization stays accountable. We work inside cloud accounts you own, can host data in AWS Canada (Central), use test data where possible and restrict access by role. Compliance is your responsibility, so have your own counsel review the setup and your privacy notice." },
     { question: "How do we pay a team in India from Canada?", answer: "Quotes are in USD and payments are split into milestones. You can pay through Wise, bank wire or PayPal, including from a CAD account; your bank or Wise handles the conversion. Invoices come from India. Nothing is billed before you approve the written quote, and each milestone is tied to something you can test on your phone." },
     { question: "What time are calls with your team?", answer: "India is 9.5 hours ahead of Eastern time during daylight saving and 12.5 hours ahead of Pacific time. A 9 a.m. call in Toronto or Montreal is 6:30 p.m. in India, and 8 a.m. in Vancouver is 8:30 p.m. in India. We also reply on WhatsApp seven days a week, so quick questions do not wait for a scheduled call." },
-    { question: "Do you maintain React Native apps after launch?", answer: `Yes. Every new build includes five months of free maintenance for bugs, crash reports, review questions and minor updates. After that, care plans start at ${P.care} and cover React Native and Expo upgrades, store policy changes and small improvements. Because the app follows your web team's patterns and lives in your repository, you can also take maintenance in-house with our handover notes.` },
+    { question: "Do you maintain React Native apps after launch?", answer: `Yes. Every new build includes two months of free maintenance for bugs, crash reports, review questions and minor updates. After that, care plans start at ${P.care} and cover React Native and Expo upgrades, store policy changes and small improvements. Because the app follows your web team's patterns and lives in your repository, you can also take maintenance in-house with our handover notes.` },
     { question: "Can you take over an existing React Native app?", answer: "Often, yes. We start with a paid review of the repository, dependencies, build setup and store accounts, then tell you whether upgrading is sensible or whether some parts need rewriting. Old React Native versions and abandoned libraries are the usual problems. You get a written list of findings and an itemised quote before any upgrade work starts." },
     { question: "Will React Native handle our app's performance needs?", answer: "For business, commerce, booking, field-service and SaaS apps, React Native performs well when lists, images and animations are built carefully. For 3D games, heavy camera processing or apps that need brand-new OS features immediately, native Swift and Kotlin are a better fit, and we will tell you so." },
     { question: "Do you work with our in-house developers or replace them?", answer: "Either works. Many Canadian clients have React web developers who review our pull requests, own the shared packages and eventually take over the mobile app. Others have no developers and want us to handle everything. We adapt to your branch strategy, code review rules and release process rather than bringing our own conventions into your repository." },

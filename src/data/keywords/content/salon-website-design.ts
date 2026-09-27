@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Multi-outlet salon", `From ${P.seoSite}, 3–5 weeks`],
     ["Booking style", "Per stylist, per service length"],
     ["Reminders", `WhatsApp flows from ${P.ai}`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your salon build" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Booking logic", value: "Service length plus stylist availability plus buffer" },
       { label: "Client messages", value: `Confirm, remind, rebook on WhatsApp, from ${P.ai}` },
       { label: "Selling packages", value: "UPI or card checkout for prepaid packages and memberships" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       heading: "Who owns the salon website and client list?",
       paragraphs: [
         `Your salon does. Salon website design with us puts the domain, hosting, code, booking data, client list, WhatsApp Business number and payment merchant account in the salon’s name, or you create them and add us as users.`,
-        `At handover you receive the repository, admin logins, a list of paid services and their renewal dates, and a short guide for updating prices, stylists and hours. Five months of free maintenance follows launch. After that, care is optional from ${P.care} a month, or any developer can take over.`,
+        `At handover you receive the repository, admin logins, a list of paid services and their renewal dates, and a short guide for updating prices, stylists and hours. Two months of free maintenance follows launch. After that, care is optional from ${P.care} a month, or any developer can take over.`,
         `Salons often see stylists move on and partners change. When the client list lives in the salon’s own system, not in a senior stylist’s phone, a staff change does not walk out of the door with half your regulars.`,
       ],
     },
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is invented for illustration. Imagine a five-chair unisex salon in Nashik with two senior colourists, three stylists and a makeup artist. From October to February the phone rings nonstop with bridal enquiries while regular clients cannot get through.`,
         `We would suggest the static website plan from ${P.site}: home, a full priced menu, stylist-wise booking, stylist profiles, a bridal page with a date enquiry form, packages with online checkout, a reviews block and contact, with Marathi versions of the menu and bridal pages. Bridal enquiries would go to a separate WhatsApp flow so they do not clog regular bookings.`,
-        `Week one: menu data, booking rules per service and the staging link for the receptionist to test. Week two: bridal and package pages, a real payment test, HairSalon structured data, Search Console and the Business Profile booking link. As a later phase, reminders and rebooking from ${P.ai}. The salon would own every account, and menu changes in the first five months would be free.`,
+        `Week one: menu data, booking rules per service and the staging link for the receptionist to test. Week two: bridal and package pages, a real payment test, HairSalon structured data, Search Console and the Business Profile booking link. As a later phase, reminders and rebooking from ${P.ai}. The salon would own every account, and menu changes in the first two months would be free.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Accounts in the salon’s name", "Domain, hosting, the WhatsApp Business number and the payment merchant account are opened in the salon’s name, with us as added users."],
       ["Booking rules workshop", "A short call with your manager to set each service’s duration, buffer and who can perform it, including breaks, leave and walk-in blocks."],
       ["Receptionist test on staging", "Your desk tries real-life bookings on a private link, including combos and cancellations, and we fix anything that trips them up."],
-      ["Launch and five free months", `We connect the domain, link your Business Profile booking button, verify Search Console and hand over logins. Changes are free for five months, then optional care from ${P.care}.`],
+      ["Launch and two free months", `We connect the domain, link your Business Profile booking button, verify Search Console and hand over logins. Changes are free for two months, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Salon website design: questions salon owners ask",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Should I hire a freelancer or an agency for my salon website?", answer: "A small freelance team works well when you want to speak directly with the people building the booking system and your scope is clear: menu, booking, packages, reminders. A larger agency suits brands that also want photo shoots, ad campaigns and brand identity at once. Most single salons and small chains are well served by a focused freelance build." },
     { question: "Can a remote team build a salon website without visiting?", answer: "Yes. What a salon website needs is an accurate menu, clear booking rules and good photos of your work, all of which travel well over WhatsApp. We run calls on Google Meet, test on staging links your receptionist can use, and guide you on shooting service photos in good light on a phone." },
     { question: "Who owns the salon website and the client data?", answer: "The salon owns everything: domain, hosting, code, the booking database, client list, WhatsApp number and payment merchant account. At launch you get the repository, admin logins and a list of paid services with renewal dates. If you ever switch developers, the new person can take over without needing anything from us." },
-    { question: "What happens after the salon website goes live?", answer: `For five months after launch, small changes are free: new prices, a new stylist, updated hours. After that, maintenance is optional from ${P.care} a month. Your staff can also change prices, services, staff hours and leave from the admin screen without waiting for us.` },
+    { question: "What happens after the salon website goes live?", answer: `For two months after launch, small changes are free: new prices, a new stylist, updated hours. After that, maintenance is optional from ${P.care} a month. Your staff can also change prices, services, staff hours and leave from the admin screen without waiting for us.` },
     { question: "Will my salon appear first for “salon near me”?", answer: `No honest developer can promise that. Map results depend on your Business Profile, distance from the searcher, reviews and competition nearby. We build fast pages, add HairSalon or BeautySalon structured data, link your profile’s booking button to your site and set up Search Console. Ongoing local SEO starts at ${P.seo} a month.` },
     { question: "Can the salon website connect to my salon billing software?", answer: `If your software offers an API or import, we can push online bookings and package sales into it. If it cannot, bookings can sit in the website’s own system with a daily export. When your current tool is holding you back, custom salon software starts at ${P.software}, though most salons do not need it on day one.` },
     { question: "Does my salon need a mobile app?", answer: `Usually not at first. A fast website with booking and WhatsApp confirmations covers what most clients want without an install. An app makes sense for chains with loyalty points, package balances and frequent repeat clients. We build Android and iOS apps from ${P.app}, published in the salon’s own store accounts.` },
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to let clients book the chair themselves?",
-    note: `Send your service menu, stylists and outlets on WhatsApp. An itemised quote follows in about two working days, with salon websites from ${P.site}, every account in the salon’s name and five months of free maintenance after launch.`,
+    note: `Send your service menu, stylists and outlets on WhatsApp. An itemised quote follows in about two working days, with salon websites from ${P.site}, every account in the salon’s name and two months of free maintenance after launch.`,
   },
 };
 

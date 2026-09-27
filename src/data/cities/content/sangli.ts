@@ -34,7 +34,7 @@ const sangli: CityContent = {
     pills: ["Sites from ₹10,000", "Haldi and raisin trade", "Marathi SEO", "Hospital and clinic sites", "You own the code"],
   },
   quickAnswer:
-    "A website for a Sangli or Miraj business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, a store for raisins or turmeric products from ₹50,000, and automation from ₹40,000. We are three remote engineers, you own the domain and code, and five months of maintenance are free.",
+    "A website for a Sangli or Miraj business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, a store for raisins or turmeric products from ₹50,000, and automation from ₹40,000. We are three remote engineers, you own the domain and code, and two months of maintenance are free.",
   snapshot: [
     { label: "Signature trade", value: "Turmeric, with Sangli one of the country's biggest haldi trading markets and a GI-tagged Sangli turmeric" },
     { label: "Fruit and dry fruit", value: "Grapes and GI-tagged Sangli raisins, with Tasgaon, Miraj, Palus and Kadegaon the main raisin belts" },
@@ -51,7 +51,7 @@ const sangli: CityContent = {
     ai: "WhatsApp assistants that answer rate, lot and availability questions in Marathi, Hindi or English and pass real negotiations to the owner.",
     data: "Phone-friendly dashboards showing arrivals, sales by buyer, cold storage stock and outstanding payments, fed from Tally and daily sheets.",
     app: "Android and iOS apps for hospital appointment queues, field agents visiting grape growers and dealers checking order status, from ₹40,000.",
-    maintenance: "Rate and catalogue updates, backups, security patches and uptime monitoring, free for five months and then from ₹8,000 a month.",
+    maintenance: "Rate and catalogue updates, backups, security patches and uptime monitoring, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Sangli business families have been burnt by developers who disappeared after taking the advance. We work differently: prices are on our website, the quote is itemised and written, the domain is registered in your name from day one, and you can message the engineer building your site on WhatsApp any day of the week.",
@@ -172,11 +172,11 @@ const sangli: CityContent = {
     },
     {
       id: "ownership-maintenance-sangli",
-      heading: "Your domain, your hosting, your code, and five free months of care",
+      heading: "Your domain, your hosting, your code, and two free months of care",
       paragraphs: [
         "A surprising number of Sangli businesses cannot log in to their own website. The domain was booked on a freelancer's email, the hosting renewal went to someone who left town, or the site was built on a platform only the old developer understood. Getting control back can take weeks and sometimes means starting again.",
         "We avoid this from the start. The domain is registered in your business name, the hosting account is opened in your name, and at handover you receive every password, the full source code and a short document explaining how the site is put together. If you later decide to work with someone else, you can move without asking our permission or paying any fee.",
-        "For the first five months after launch, maintenance is free: text and price updates, fixes, security patches, backups, uptime checks and speed tests. After that you can choose a maintenance plan from ₹8,000 a month or simply message us when you need something. Either way, the site remains yours.",
+        "For the first two months after launch, maintenance is free: text and price updates, fixes, security patches, backups, uptime checks and speed tests. After that you can choose a maintenance plan from ₹8,000 a month or simply message us when you need something. Either way, the site remains yours.",
       ],
     },
     {
@@ -275,9 +275,9 @@ const sangli: CityContent = {
         "You do. The domain is in your business name, the hosting account is yours, and you receive the source code and every login at launch. You are free to switch developers whenever you like, with no exit charge and no need for our approval.",
     },
     {
-      question: "What does the free five-month maintenance cover?",
+      question: "What does the free two-month maintenance cover?",
       answer:
-        "Content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks, all free for five months after launch. After that you can take a plan from ₹8,000 a month or pay only when you need a change.",
+        "Content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks, all free for two months after launch. After that you can take a plan from ₹8,000 a month or pay only when you need a change.",
     },
     {
       question: "How do we start a project?",

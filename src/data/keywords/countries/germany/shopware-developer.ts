@@ -35,17 +35,17 @@ const content: FreelanceContent = {
     ["Quote", "Itemised in about 2 working days"],
     ["Accounts", "Shopware account, hosting and repo in your name"],
     ["Billing", "Quoted in USD · pay in USD or EUR by Wise or wire"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who all know your shop’s code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Platform or middleman fees on payments" },
   ],
   answer: {
     heading: "Should you hire a Shopware developer remotely, and what does it cost?",
-    text: `Yes, if you want the build without agency overheads. You can hire a Shopware developer team in India for a Shopware 6 shop starting at ${P.shop}, delivered in 4–8 weeks, with custom plugins or portals from ${P.software} and maintenance from ${P.care} after five free months. The final quote depends on catalogue size, plugins, integrations and theme work.`,
+    text: `Yes, if you want the build without agency overheads. You can hire a Shopware developer team in India for a Shopware 6 shop starting at ${P.shop}, delivered in 4–8 weeks, with custom plugins or portals from ${P.software} and maintenance from ${P.care} after two free months. The final quote depends on catalogue size, plugins, integrations and theme work.`,
     more: `Still deciding on the platform? Read <a href='/germany/shopware-vs-shopify/'>Shopware vs Shopify for German merchants</a>. Running Shopware 5? See the <a href='/germany/shopware-5-to-6-migration/'>Shopware 5 to 6 migration guide</a>.`,
   },
   snapshot: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "German checkout rules", value: "Order button wording, withdrawal function, legal pages" },
       { label: "Payments and shipping", value: "PayPal, invoice or pay-later providers, DHL, Sendcloud configured" },
       { label: "Working hours overlap", value: "German morning to mid-afternoon" },
-      { label: "Ongoing care", value: `5 months free, then from ${P.care}` },
+      { label: "Ongoing care", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Magento to Shopware", note: "Products, customers, orders and rankings moved with a tested redirect plan.", href: "/germany/magento-to-shopware-migration/", size: "md" },
       { name: "DATEV and e-invoice links", note: "Order exports your tax adviser can book, and XRechnung or ZUGFeRD output.", href: "/germany/datev-api-integration/", size: "sm" },
       { name: "Shop SEO", note: `Clean SEO URLs, structured data, speed work and Search Console, monthly from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Updates and fixes", note: `Core and extension updates on staging first, from ${P.care} after five free months.`, size: "sm" },
+      { name: "Updates and fixes", note: `Core and extension updates on staging first, from ${P.care} after two free months.`, size: "sm" },
     ],
   },
   comparison: {
@@ -144,7 +144,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does it cost to hire a Shopware developer?",
       paragraphs: [
-        `For a new Shopware 6 shop with us, the build starts at ${P.shop} and takes 4–8 weeks; bespoke portals and heavier custom software start at ${P.software}. Maintenance, after five months of free care, starts at ${P.care}.`,
+        `For a new Shopware 6 shop with us, the build starts at ${P.shop} and takes 4–8 weeks; bespoke portals and heavier custom software start at ${P.software}. Maintenance, after two months of free care, starts at ${P.care}.`,
         `Across the market, quotes for the same brief can differ several times over, and hourly or day rates tell you little on their own. What actually drives the total is scope: the number of custom plugins, integration count, theme depth, data migration and who writes content. A cheap day rate spent on an unclear brief ends up costing more than a higher rate on a sharp one.`,
         `Two cost lines never appear in our quote because you pay them directly: the Shopware plan licence if you choose Rise or above, and any commercial extensions from the Shopware Store. We list the ones we recommend so you can budget them, and we explain which free alternatives exist.`,
       ],
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how the pieces fit, not a client story.`,
         `Say a family business near Osnabrück sells garden furniture online, about 900 products with colour and size variants, mostly to consumers in Germany and Austria, plus a small trade channel for landscapers. Their old shop is slow and the agency quote for a relaunch is beyond budget.`,
-        `We would propose Community Edition, with the trade channel handled by a customer group, a price rule and one small plugin for order approval, instead of an Evolve licence. The quote would list: shop build from ${P.shop}, the approval plugin as its own line, a theme built on the default storefront, PayPal and invoice payment via providers the business signs up with, DHL labels, a withdrawal-function extension and the redirect map. Timeline: around seven weeks, with a staging shop from week one. After launch, five months of free maintenance cover updates and small changes.`,
+        `We would propose Community Edition, with the trade channel handled by a customer group, a price rule and one small plugin for order approval, instead of an Evolve licence. The quote would list: shop build from ${P.shop}, the approval plugin as its own line, a theme built on the default storefront, PayPal and invoice payment via providers the business signs up with, DHL labels, a withdrawal-function extension and the redirect map. Timeline: around seven weeks, with a staging shop from week one. After launch, two months of free maintenance cover updates and small changes.`,
       ],
     },
     {
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
       heading: "Maintenance: what happens after your Shopware developer hands over",
       paragraphs: [
         `Plan for regular updates. Shopware releases core updates frequently, extensions follow, and PHP versions reach end of life, so a shop left alone for a year becomes expensive to bring current.`,
-        `For five months after launch we handle updates, fixes and small changes free. After that, maintenance starts at ${P.care}: core and extension updates tested on staging first, backups verified, uptime and error logs watched, and a monthly note on what changed. You can stop at any time and take the shop to another developer, since everything already sits in your accounts.`,
+        `For two months after launch we handle updates, fixes and small changes free. After that, maintenance starts at ${P.care}: core and extension updates tested on staging first, backups verified, uptime and error logs watched, and a monthly note on what changed. You can stop at any time and take the shop to another developer, since everything already sits in your accounts.`,
         `If you later need a WhatsApp order-status bot, an AI assistant for product questions or a companion app, the same three people can build it; see our <a href='/germany/mobile-app-development-company/'>mobile app page for German companies</a>.`,
       ],
     },
@@ -325,7 +325,7 @@ const content: FreelanceContent = {
         ["SEO content hub for categories", `From ${P.seoSite}`, "3–5 weeks", "Page count, data preparation"],
         ["AI product assistant or order bot", `From ${P.ai}`, "2–4 weeks", "Data sources, handoff rules"],
         ["Monthly shop SEO", `From ${P.seo}`, "Ongoing", "Catalogue size, competition"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Ongoing", "Extension count, update frequency"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Ongoing", "Extension count, update frequency"],
       ],
       hideSm: [3],
     },
@@ -388,12 +388,12 @@ const content: FreelanceContent = {
       ["Accounts in your company’s name", "You create or confirm the Shopware account, hosting, domain and payment contracts, then invite us as users. We never hold your licences."],
       ["Build on staging", "Catalogue, theme, checkout and integrations take shape on a staging shop you can open on any device, with progress updates in the German morning."],
       ["Test the German details", "Test orders with every payment method, order button wording, withdrawal flow, legal pages, consent banner and shipping labels are checked with you before launch."],
-      ["Launch and five free months", `We switch DNS, watch the first orders, hand over code and logins, and keep maintaining free for five months, then from ${P.care} if you want it.`],
+      ["Launch and two free months", `We switch DNS, watch the first orders, hand over code and logins, and keep maintaining free for two months, then from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Questions about hiring a Shopware developer",
   faqs: [
-    { question: "How much does it cost to hire a Shopware developer?", answer: `With BtechWaleTech a new Shopware 6 shop starts at ${P.shop} and takes 4–8 weeks. Custom portals or heavier plugin work start at ${P.software}, and maintenance starts at ${P.care} after five free months. Shopware plan licences and Store extensions are paid by you to their vendors. Every quote is itemised, and nothing is billed before you approve it in writing.` },
+    { question: "How much does it cost to hire a Shopware developer?", answer: `With BtechWaleTech a new Shopware 6 shop starts at ${P.shop} and takes 4–8 weeks. Custom portals or heavier plugin work start at ${P.software}, and maintenance starts at ${P.care} after two free months. Shopware plan licences and Store extensions are paid by you to their vendors. Every quote is itemised, and nothing is billed before you approve it in writing.` },
     { question: "Can a developer in India build a Shopware shop for the German market?", answer: "Yes. Shopware 6 is built on PHP, Symfony and Vue.js, and the German-specific parts are configuration and templates: order button wording, legal pages, withdrawal function, unit prices and payment providers. What a remote team cannot do is visit your office or write native German copy, so you supply or approve all German text." },
     { question: "Is hiring a Shopware freelancer cheaper than a Shopware agency?", answer: "Usually, because a small freelance team carries far fewer overheads than an agency with offices, sales staff and account managers. Quotes vary widely, though, so compare scope line by line rather than day rates. An agency still makes sense when you need certified partner status, German-language workshops or many developers working in parallel." },
     { question: "Should I choose Shopware Community Edition or a paid plan?", answer: "Start with Community Edition, which Shopware publishes free under the MIT licence, unless you clearly need features from Rise, Evolve or Beyond, such as the B2B Components or multi-inventory. Often one small custom plugin covers a single B2B requirement more cheaply than a plan upgrade. We put both options side by side in the quote so you can compare." },
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate my shop from Shopware 5 or Magento?", answer: "Yes. For Shopware 5 we use the Migration Assistant for data, rebuild the plugins you still need as Shopware 6 extensions and map old URLs to new ones. For Magento we map attributes, variants and customer groups, plan password handling and write redirects. Each has its own dedicated guide on our Germany pages." },
     { question: "Is a remote Shopware developer good for SEO?", answer: `Location does not affect SEO quality; how the shop is built does. We configure SEO URL templates, canonicals for variants, structured data, sitemaps, hreflang for DACH storefronts and Search Console before launch. Ongoing SEO starts at ${P.seo}. No one can guarantee rankings, and we will not promise them.` },
     { question: "Can Shopware handle B2B for wholesalers?", answer: "Yes. The B2B Components in Shopware’s Evolve plan cover quotes, roles and approvals. For simpler needs, customer groups, price rules and a small custom plugin on Community Edition often suffice. We look at how your buyers actually order, then suggest the cheaper route that covers it." },
-    { question: "What does Shopware maintenance cover after launch?", answer: `For five months after launch, updates, fixes and small changes are free. After that, maintenance starts at ${P.care} and includes core and extension updates tested on staging, backup checks, error monitoring and a short monthly report. You can stop whenever you want, because all accounts and code are already yours.` },
+    { question: "What does Shopware maintenance cover after launch?", answer: `For two months after launch, updates, fixes and small changes are free. After that, maintenance starts at ${P.care} and includes core and extension updates tested on staging, backup checks, error monitoring and a short monthly report. You can stop whenever you want, because all accounts and code are already yours.` },
     { question: "Can you host my Shopware shop in Germany?", answer: "We set it up, but the hosting contract is yours. Most merchants choose a German managed host with Shopware experience and a data processing agreement; larger shops sometimes use AWS Frankfurt. We configure staging and production, deployments from Git, caching, backups and a tested restore." },
     { question: "Can I hire a Shopware developer just for small changes?", answer: "Yes. You can send a list of small jobs: a new payment method, a shipping rule, a template tweak, an extension update. We estimate each item in the quote. For ongoing small work, the monthly maintenance plan usually works out simpler than separate quotes." },
     { question: "What do you not do on Shopware projects?", answer: "We do not visit offices or warehouses, write native German marketing copy, give legal advice on your terms or withdrawal texts, act as a certified Shopware partner, or staff large programmes with many parallel teams. We say so upfront so you can plan the right mix of partners." },
@@ -435,7 +435,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a Shopware developer team? Send your shop brief",
-    note: `Share your shop URL or brief on WhatsApp. You get an itemised quote in about two working days, with Shopware 6 shops from ${P.shop}, every account in your company’s name and five months of free maintenance after launch.`,
+    note: `Share your shop URL or brief on WhatsApp. You get an itemised quote in about two working days, with Shopware 6 shops from ${P.shop}, every account in your company’s name and two months of free maintenance after launch.`,
   },
 };
 

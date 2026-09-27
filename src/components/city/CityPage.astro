@@ -51,7 +51,7 @@ const services = [
 const stats = [
   { value: "3", label: "Engineers you talk to directly" },
   { value: "₹10,000", label: "Websites starting price" },
-  { value: "5", label: "Months maintenance free" },
+  { value: "2", label: "Months maintenance free" },
   { value: "7", label: "Days a week on WhatsApp" },
 ];
 
@@ -61,7 +61,7 @@ const comparison = [
   ["Who does the work", "Account manager passes it on", "One person, unknown skills", "Three engineers, named, you talk to them"],
   ["Written quote", "After several meetings", "Rarely", "Itemised quote within two working days"],
   ["SEO and schema", "Separate team, extra fee", "Usually skipped", "Built into every page from day one"],
-  ["After launch", "Paid retainer only", "Often unreachable", "5 months maintenance included free"],
+  ["After launch", "Paid retainer only", "Often unreachable", "2 months maintenance included free"],
   ["Code and logins", "Sometimes locked in", "Often not handed over", "100% yours: domain, hosting, code"],
 ];
 
@@ -69,7 +69,7 @@ const process = [
   ["Talk", `A short call or WhatsApp chat about your ${city.name} business, customers and goal. No charge.`],
   ["Plan & quote", "Page plan, keyword list, timeline and an itemised quote with starting prices, usually within two working days."],
   ["Build & review", "You review a live preview link, not static mockups. Small changes land the same day."],
-  ["Launch & support", "Hosting, deployment, Search Console and sitemap set up, then 5 months of free maintenance."],
+  ["Launch & support", "Hosting, deployment, Search Console and sitemap set up, then 2 months of free maintenance."],
 ];
 
 const stateLanguage: Record<string, string> = {
@@ -86,7 +86,7 @@ const facts = [
   ["Starting price", `Websites from ${pricingPlans[0].price} · Android & iOS apps from ${appPlan?.price ?? "₹40,000"}`],
   ["Languages", languages],
   ["Payments", "UPI and bank transfer, in INR"],
-  ["After launch", "5 months of maintenance free"],
+  ["After launch", "2 months of maintenance free"],
   ["Coverage", areaType === "City" ? `${city.name} and all of ${city.state}` : `All of ${city.name}`],
 ];
 
@@ -196,7 +196,7 @@ const webPageSchema = {
             <li><span>{plan.name}</span><strong><small>from </small>{plan.price}{plan.unit ? <small> /mo</small> : null}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">5 months maintenance free after launch. Itemised quote in 2 working days.</p>
+        <p class="quote-foot">2 months maintenance free after launch. Itemised quote in 2 working days.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my {city.name} quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>

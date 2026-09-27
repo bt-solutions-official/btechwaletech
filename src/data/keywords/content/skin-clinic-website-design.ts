@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Treatment and area SEO site", `From ${P.seoSite}, 3–5 weeks`],
     ["Consult booking", "In-clinic or video slots"],
     ["Quote turnaround", "About 2 working days"],
-    ["Included care", "5 months free after launch"],
+    ["Included care", "2 months free after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "7", label: "Days a week on WhatsApp" },
-    { value: "5", label: "Free maintenance months after launch" },
+    { value: "2", label: "Free maintenance months after launch" },
     { value: "100", label: "Pages included in the static site plan" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Consult options", value: "In-clinic slot, video slot or WhatsApp question" },
       { label: "Reminders and follow-ups", value: `Session reminders on WhatsApp from ${P.ai}` },
       { label: "Rules to watch", value: "Doctor conduct rules, Drugs and Magic Remedies Act, DPDP Act" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -307,7 +307,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After skin clinic website design is finished, your clinic owns the domain, hosting, code and content, as it has from day one. We register everything in your name, hand over every login at launch, and remain available for as long as you choose.`,
         `Handover includes a short guide for your staff: how to add a treatment, update a package, swap a gallery image, and change doctor timings. We also list every outside service the site depends on, so nothing is a mystery if you change developers later.`,
-        `For five months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care} a month; it suits clinics that add treatments, run seasonal offers and refresh galleries often. General terms are on our <a href='/terms/'>terms page</a>.`,
+        `For two months after launch, fixes and small changes are free. After that, care is optional and starts at ${P.care} a month; it suits clinics that add treatments, run seasonal offers and refresh galleries often. General terms are on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
       ["Gallery and consent setup", "We build the consent-logged gallery and agree photo labels, cropping and withdrawal steps with your team before any image goes live."],
       ["Booking and reels", "Consult and session slots are configured, video links tested, and chosen reels placed on treatment pages to load only when tapped."],
       ["Preview, test and launch", "You test on your own phone. Then the domain, hosting and code go live in your clinic's accounts, with Search Console and a sitemap."],
-      ["Free care for five months", "We fix issues and make small changes at no charge for five months. Ongoing care after that is optional and starts at the maintenance plan price."],
+      ["Free care for two months", "We fix issues and make small changes at no charge for two months. Ongoing care after that is optional and starts at the maintenance plan price."],
     ],
   },
   faqHeading: "Skin clinic website design questions",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Freelancer or agency for skin clinic website design?", answer: "Either can do good work. Judge them on whether they understand treatments, consent, packages and booking, and whether you will own the domain, hosting and code. With a small freelance team you speak directly to the developers. Ask every provider about upkeep costs after launch before you decide." },
     { question: "Who owns the website and gallery images?", answer: "Your clinic does. The domain, hosting, code and content, including gallery images, are held in your accounts from the start, and we hand over all logins at launch. The consent records stay with you too, so you remain in control if you change developers." },
     { question: "Can we sell sunscreens and aftercare products online?", answer: `Yes. A small shop can sit on the same site with UPI and card checkout, from ${P.shop}. For a handful of products, a simpler order-on-WhatsApp catalogue may be enough. Check the rules on selling cosmetics or medicines online with your adviser before listing anything that needs a prescription.` },
-    { question: "What happens after the five free months?", answer: `Care becomes optional and starts at ${P.care} a month. It covers updates, security patches, backups and small changes such as new packages or doctor timings. Clinics that add treatments or refresh galleries often find it useful. The exact scope is written into your quote.` },
+    { question: "What happens after the two free months?", answer: `Care becomes optional and starts at ${P.care} a month. It covers updates, security patches, backups and small changes such as new packages or doctor timings. Clinics that add treatments or refresh galleries often find it useful. The exact scope is written into your quote.` },
     { question: "Can the site be in Hindi or regional languages?", answer: "Yes. Top treatment pages in Hindi, Marathi, Gujarati, Tamil, Kannada, Malayalam or Punjabi help reach patients from nearby towns. You supply or approve the translations, and we build proper language versions with correct tags. Common terms like laser or peel can stay in English where patients use them." },
     { question: "How are payments handled for the website project?", answer: "In India you pay by UPI or bank transfer against an itemised quote, and nothing is billed before your written approval. Clinics abroad or NRI-owned practices can pay by Wise, bank wire or PayPal in US dollars. Milestones are written into the quote, and our refund policy page covers the general rules." },
     { question: "Can you redo the skin clinic website design of our current site?", answer: "Yes. We review what already brings visitors, keep useful URLs, redirect changed ones, and rebuild weak areas such as vague treatment pages, slow galleries and clumsy booking. Mapping old addresses to new pages before launch protects the search visibility you have already earned." },

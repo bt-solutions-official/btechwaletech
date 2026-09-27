@@ -32,10 +32,10 @@ const firozpur: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Firozpur's traders, processors, schools and Cantt businesses",
     lede:
       "We are three remote engineers who build websites, search visibility and simple business software for Firozpur and the border belt around it. Our clients here are the kind of firms that fill the old walled city, Malwal Road and the Cantonment: grain traders, chilli and spice units, clinics, coaching centres and shops, all working from published starting prices.",
-    pills: ["Static sites from ₹10,000", "Punjabi, Hindi, English", "Mandi and trader tools", "Chilli product catalogues", "5 months free upkeep"],
+    pills: ["Static sites from ₹10,000", "Punjabi, Hindi, English", "Mandi and trader tools", "Chilli product catalogues", "2 months free upkeep"],
   },
   quickAnswer:
-    "For a Firozpur business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Firozpur office, and maintenance is free for five months.",
+    "For a Firozpur business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Firozpur office, and maintenance is free for two months.",
   snapshot: [
     { label: "Where it sits", value: "District headquarters on the Sutlej, close to the India–Pakistan border, with a large Cantonment beside the city" },
     { label: "Old city", value: "The walled town grew inside ten gates, including Zira Gate, Makhu Gate, Amritsari Gate and Baghdadi Gate" },
@@ -52,10 +52,10 @@ const firozpur: CityContent = {
     ai: "WhatsApp replies that handle rate enquiries, admission questions and appointment requests, then pass real buyers to a person.",
     data: "Simple dashboards showing sales by product and district, enquiries by source, or crop arrivals across the wheat and paddy seasons.",
     app: "Android and iOS apps for field staff, school notices or dealer orders that work on budget phones, released on Google Play and the App Store.",
-    maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month only if you want it.",
+    maintenance: "Two months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:
-    "Firozpur businesses often sit a long drive from the agencies in Ludhiana or Amritsar, and many end up with a website that nobody updates after the first payment. We work remotely at published starting prices, answer on WhatsApp every day of the week, and keep the site maintained free for the first five months.",
+    "Firozpur businesses often sit a long drive from the agencies in Ludhiana or Amritsar, and many end up with a website that nobody updates after the first payment. We work remotely at published starting prices, answer on WhatsApp every day of the week, and keep the site maintained free for the first two months.",
   pricingIntro:
     "Every number below is a starting price. A Cantt boutique with twelve pages will cost less than a chilli processor wanting an online store, dealer logins and a Punjabi and English catalogue. Send us your requirements and you get an itemised quote in about two working days. Nothing is billed before you approve it in writing.",
   sections: [
@@ -168,7 +168,7 @@ const firozpur: CityContent = {
       paragraphs: [
         "A common Firozpur story goes like this: a local computer shop or a cousin built the website years ago, registered the domain in their own name, and then moved on. When the domain lapsed, the business lost its email and every link printed on its bills and boards. We make sure that cannot happen to you.",
         "Domain and hosting are registered in your name from day one. At launch you receive all logins, the complete source code and a short note on how everything fits together. Trader ledgers, student enquiries and customer lists stay in accounts you control and can be exported at any time. If you move to another developer, you leave with everything and owe us nothing.",
-        "For five months after launch we handle updates, bug fixes, security patches, backups and speed checks free of charge. After that, maintenance is available from ₹8,000 a month, or you can simply message us when you need something changed. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
+        "For two months after launch we handle updates, bug fixes, security patches, backups and speed checks free of charge. After that, maintenance is available from ₹8,000 a month, or you can simply message us when you need something changed. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -268,7 +268,7 @@ const firozpur: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we make text, price and photo updates, fix bugs, apply security updates, take backups and check speed at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we make text, price and photo updates, fix bugs, apply security updates, take backups and check speed at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Can you build a website for a hotel or taxi service near Hussainiwala?",

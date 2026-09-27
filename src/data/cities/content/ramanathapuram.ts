@@ -57,7 +57,7 @@ const ramanathapuram: CityContent = {
     ai: "WhatsApp assistants in Tamil and English that answer rate, room, fee and timing questions and pass real decisions to you.",
     data: "Dashboards of chilli bags bought and sold by grade, daily catch value, room occupancy and admissions by course.",
     app: "Android and iOS apps for chilli buyers to place repeat orders or pilgrims to book rooms and cabs, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Ramanathapuram businesses deal with thin margins, dry-season uncertainty and customers spread across Tamil Nadu and abroad. We publish starting prices, itemise every quote, reply on WhatsApp seven days a week, and register your domain, hosting, code and store accounts in your name. When a feature will not pay for itself, we say so before you spend on it.",
@@ -171,7 +171,7 @@ const ramanathapuram: CityContent = {
       heading: "Ownership and maintenance for Ramanathapuram websites and apps",
       paragraphs: [
         "A common complaint from small businesses is a website that vanished because the designer held the domain and stopped answering. We register the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts in your name, and hand over every login in writing.",
-        "Maintenance is free for five months after launch. It covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to any other developer whenever you like.",
+        "Maintenance is free for two months after launch. It covers content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to any other developer whenever you like.",
         "Apps need updates each year because Google and Apple change their rules. We track those changes and release updates in time, so your app is not pulled from the stores, and we schedule checks before the pilgrim peaks and chilli harvest when a breakdown would cost the most.",
       ],
     },
@@ -263,7 +263,7 @@ const ramanathapuram: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any time.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer at any time.",
     },
     {
       question: "Do you work in Paramakudi, Kilakarai and Rameswaram as well?",

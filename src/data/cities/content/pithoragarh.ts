@@ -57,7 +57,7 @@ const pithoragarh: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer room, rate, permit-season and timing questions through the yatra months and hand over anything unusual.",
     data: "Dashboards that show bookings by month, cancellations, which tehsil enquiries come from and how much each trek season actually earned.",
     app: "Android and iOS apps from ₹40,000, published on Google Play and the App Store: trek rosters for guides, parent notices for schools, field logs for suppliers.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for backups, security patches, content changes and app store updates.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for backups, security patches, content changes and app store updates.",
   },
   whyUsIntro:
     "Pithoragarh owners have usually been burnt once already, often by somebody from Haldwani or Delhi who built a page, took the money and stopped answering by the next season. We work the other way: starting prices published, an itemised written quote before any invoice, WhatsApp replies every day of the week, and the domain, hosting, source code and store accounts in your own name from day one.",
@@ -220,7 +220,7 @@ const pithoragarh: CityContent = {
       heading: "Ownership, upkeep and the towns around Pithoragarh",
       paragraphs: [
         "The commonest disaster story in a hill town is a site that disappeared because the person who built it had registered the domain in his own name and then stopped renewing it. We prevent that in the dullest possible way: domain, hosting, source code, Google Business Profile and both app store developer accounts are opened in your name at the start, and every login is handed over in writing.",
-        "Maintenance is free for the first five months after launch, covering content and rate changes, backups, security patches, library updates and checks that forms, payment links and WhatsApp buttons still work. After five months it is ₹8,000 a month onwards if you want us to continue, and you may take the code to any other developer at any time without an exit fee.",
+        "Maintenance is free for the first two months after launch, covering content and rate changes, backups, security patches, library updates and checks that forms, payment links and WhatsApp buttons still work. After two months it is ₹8,000 a month onwards if you want us to continue, and you may take the code to any other developer at any time without an exit fee.",
         "Apps need yearly attention because Google and Apple keep raising their requirements, and we track those deadlines so a listing is not pulled for falling behind. Anything used in a season, whether a trek booking sheet or a rajma collection book, gets a check before that season opens rather than during it.",
         "We work the same way for businesses in Didihat, Dharchula, Berinag, Gangolihat, Munsiyari, Thal and Jauljibi, and down the road at Champawat, Bageshwar, Almora and Haldwani. For a firm serving several of those places we build a real page per location with its own contact, service area and travel time, not one page with the name swapped, because both search engines and customers see through that immediately.",
       ],
@@ -314,7 +314,7 @@ const pithoragarh: CityContent = {
     {
       question: "What does the free maintenance period include?",
       answer:
-        "For five months after launch we handle content and rate updates, backups, security patches, library updates and checks that forms, payment links and WhatsApp buttons still work, at no charge. After that it is ₹8,000 a month onwards if you want it, or you can simply call us when something needs changing.",
+        "For two months after launch we handle content and rate updates, backups, security patches, library updates and checks that forms, payment links and WhatsApp buttons still work, at no charge. After that it is ₹8,000 a month onwards if you want it, or you can simply call us when something needs changing.",
     },
     {
       question: "What should I send you to get a quote?",

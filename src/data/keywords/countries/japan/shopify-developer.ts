@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Working overlap with Japan", "About 5 hours, JST afternoons"],
     ["Estimate", "Itemised, in about 2 working days"],
     ["Billing", "Quoted in USD · settle in USD or JPY by Wise or wire"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who can open your theme code" },
     { value: "2", label: "Working days to a line-by-line estimate" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Marketplace fees added to your invoice" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Theme and font tuning", note: "Section work in Liquid, Japanese typography, font loading and image sizes checked against Core Web Vitals.", size: "md" },
       { name: "LINE and apps", note: `Custom Shopify apps and LINE connections for order updates and member perks, from ${P.software}.`, href: "/japan/line-mini-app-development/", size: "sm" },
       { name: "SEO for Japanese search", note: `Collection structure, structured data and Search Console, with monthly SEO from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Ongoing care", note: `Five free months after launch, then maintenance from ${P.care}.`, size: "sm" },
+      { name: "Ongoing care", note: `Two free months after launch, then maintenance from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Invite us as collaborators", "Your company owns the Shopify account and adds us with limited permissions. Themes, apps, payment and carrier contracts stay in your name."],
       ["Build on a duplicate theme", "Every change happens on an unpublished theme with preview links you review in your afternoon, so the live store keeps taking orders."],
       ["Test Japan checkout end to end", "Cards, JCB, wallets, konbini slips, delivery slots, labels and tax-inclusive totals are tested together with real test orders before launch."],
-      ["Launch and look after it", `We publish at a quiet hour for your customers, watch the first orders, hand over documentation and maintain the store free for five months, then from ${P.care}.`],
+      ["Launch and look after it", `We publish at a quiet hour for your customers, watch the first orders, hand over documentation and maintain the store free for two months, then from ${P.care}.`],
     ],
   },
   faqHeading: "Shopify developer Japan: frequently asked questions",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Can you build a Japanese and English Shopify store?", answer: "Yes. We set up Shopify Markets or language settings, a language switcher, translated templates and hreflang so each language version is indexed properly. You or a translator supply the Japanese copy; we never present machine translation as finished Japanese text." },
     { question: "Will a Shopify developer help my store rank on Google in Japan?", answer: `A good developer sets the technical base: collection structure, structured data, speed, hreflang and Search Console. Japanese keyword choices and copy work best with a native writer. Our monthly SEO starts at ${P.seo}, and nobody can honestly guarantee rankings or AI citations.` },
     { question: "Can you connect Shopify to LINE?", answer: `Yes. Common requests are order and shipping updates in LINE, member cards and coupons, and chat answers about orders. Small connections can use existing apps; custom work starts at ${P.software}. Our LINE MINI App and LINE chatbot pages explain which route fits your customers.` },
-    { question: "What maintenance does a Japan Shopify store need?", answer: `Shopify runs the platform, but apps, payment providers, delivery rules and holiday blackout dates change every year. We maintain the store free for five months after launch, then maintenance starts at ${P.care}. Contract terms beyond that are set out in your written estimate and our terms page.` },
+    { question: "What maintenance does a Japan Shopify store need?", answer: `Shopify runs the platform, but apps, payment providers, delivery rules and holiday blackout dates change every year. We maintain the store free for two months after launch, then maintenance starts at ${P.care}. Contract terms beyond that are set out in your written estimate and our terms page.` },
   ],
   related: {
     heading: "More guides for brands selling in Japan",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a Shopify developer for your Japan store?",
-    note: `Send your store link or launch plan on WhatsApp. You get an itemised USD estimate in about two working days, stores from ${P.shop} with the tokushoho page and payment testing included, your company as account owner, and five free months of care after launch.`,
+    note: `Send your store link or launch plan on WhatsApp. You get an itemised USD estimate in about two working days, stores from ${P.shop} with the tokushoho page and payment testing included, your company as account owner, and two free months of care after launch.`,
   },
 };
 

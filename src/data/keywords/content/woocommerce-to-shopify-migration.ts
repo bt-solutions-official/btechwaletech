@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Old store during the move", "Stays live and selling"],
     ["Redirect map", "Every indexed URL, checked"],
     ["Quote", "Itemised, about 2 working days"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers handling data, theme and SEO in one team" },
     { value: "2", label: "Working days to an itemised migration quote" },
-    { value: "5", label: "Months of free maintenance after the new store goes live" },
+    { value: "2", label: "Months of free maintenance after the new store goes live" },
     { value: "7", label: "Days a week we reply on WhatsApp during the switch" },
   ],
   answer: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Payments for India", "You configure it", "Varies", "UPI, cards and COD tested with real orders"],
       ["Theme and content parity", "Not included", "Depends on the developer", "Product templates carry the old page content"],
       ["Cut-over plan", "You decide the day", "Informal", "Freeze window, final delta sync, DNS switch, checks"],
-      ["After launch", "App support tickets", "Ends at handover", "5 months free maintenance, then from " + P.care],
+      ["After launch", "App support tickets", "Ends at handover", "2 months free maintenance, then from " + P.care],
       ["Best for", "Under 100 simple products, no custom plugins", "Tiny catalogues with no SEO history", "Stores with traffic, orders and plugins worth protecting"],
     ],
     fine: "For a store with a few dozen products and almost no Google traffic, a good migration app and a free weekend may genuinely be enough; we will say so if that is your situation.",
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the Shopify store, the domain, the payment provider account, every app subscription and all exported data. We work through a collaborator or staff account with limited permissions, and you can remove it whenever you like.`,
         `Before we start, you create the Shopify store in your name, or we create a development store and transfer ownership to you before launch; either way billing sits with you from the first paid day. Your WooCommerce hosting, database backups and full CSV exports stay with you too, so the old store can be consulted or restored later.`,
-        `At handover you receive the redirect sheet, the data mapping document, a list of installed apps with what each replaces, admin notes for common tasks (adding products, running a sale, handling COD returns), and login-free access to everything we used. Five months of free maintenance follow launch, then maintenance continues from ${P.care} a month if you want it; our <a href='/shopify-maintenance-services/'>Shopify maintenance page</a> lists what that covers.`,
+        `At handover you receive the redirect sheet, the data mapping document, a list of installed apps with what each replaces, admin notes for common tasks (adding products, running a sale, handling COD returns), and login-free access to everything we used. Two months of free maintenance follow launch, then maintenance continues from ${P.care} a month if you want it; our <a href='/shopify-maintenance-services/'>Shopify maintenance page</a> lists what that covers.`,
       ],
     },
     {
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Do I need to rebuild my theme when migrating to Shopify?", answer: "Yes, WordPress themes do not run on Shopify. Most stores choose a well-built Shopify theme and customise it to match their brand, which is quicker and cheaper than recreating a bespoke design exactly. The important part is that product, collection and content templates carry the same useful text your WooCommerce pages had." },
     { question: "What happens to my WordPress blog when I move to Shopify?", answer: "Blog posts can move into Shopify’s blog with their text, images and publish dates, and each old post URL gets a redirect to its new /blogs/ address. Shopify’s blog is simpler than WordPress, so very content-heavy sites sometimes keep WordPress for the blog on a subdomain. We recommend based on how much traffic the blog brings." },
     { question: "Who owns the new Shopify store and data?", answer: "You do. The Shopify account, domain, payment provider account, app subscriptions and every export belong to you and are billed to you. We work through a collaborator or staff account with limited permissions, which you can remove at any time. Your WooCommerce backups and exports also stay with you as an archive." },
-    { question: "What support do I get after the migration?", answer: `Five months of free maintenance follow launch, covering fixes, small changes and monitoring. During the first weeks we also check Search Console and crawl the old URL list for errors. After the free period, maintenance continues from ${P.care} a month if you want it, and monthly SEO from ${P.seo} is available separately.` },
+    { question: "What support do I get after the migration?", answer: `Two months of free maintenance follow launch, covering fixes, small changes and monitoring. During the first weeks we also check Search Console and crawl the old URL list for errors. After the free period, maintenance continues from ${P.care} a month if you want it, and monthly SEO from ${P.seo} is available separately.` },
     { question: "Can you migrate a WooCommerce store with custom plugins?", answer: "Usually yes, but each plugin’s job must be replaced. We list what every plugin does, then match it to a Shopify app, a small piece of theme code, a custom Shopify app or a changed process. Some plugins store data in their own database tables, so we check those early; missing them is a common migration mistake." },
     { question: "Is it cheaper to run Shopify than WooCommerce?", answer: "It depends on your store. WooCommerce itself is free, but you pay for hosting, premium plugins, security and developer time. Shopify charges a subscription plus app fees and payment charges, but removes hosting and most maintenance work. We list both sets of running costs in the quote so you can compare the next two years honestly." },
     { question: "WooCommerce se Shopify par store shift karne mein kya kya jaata hai?", answer: "Products, variants, photos, customers, purane orders, reviews, pages aur blog posts sab Shopify par shift ho jaate hain. Passwords shift nahi hote, isliye customers email aur one-time code se login karte hain. Har purane URL ka 301 redirect lagana zaroori hai taaki Google ranking bani rahe. Payment aur shipping Shopify par dobara set hote hain." },

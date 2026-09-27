@@ -39,10 +39,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Guwahati for distributors, transporters, hospitals and startups",
     lede:
       "BtechWaleTech is a freelance group of three software developers serving Guwahati remotely from India. If you are comparing a software development team in Guwahati with independent developers, here is what we do: distributor and order portals, transport and trip tracking, lab and clinic systems, CRMs, MVPs for founders, AI agents and business dashboards, plus the websites and SEO around them. Prices are published and every login is yours.",
-    pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Android & iOS apps from ₹40,000", "MVPs for startups", "5 months free maintenance"],
+    pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Android & iOS apps from ₹40,000", "MVPs for startups", "2 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech's three freelance software developers serve Guwahati remotely. Custom software, portals and MVPs start at ₹60,000 and take 6 to 12 weeks; AI agents and automation start at ₹40,000 (2 to 4 weeks); websites start at ₹10,000. You get an itemised quote in about two working days and five months of free maintenance after launch.",
+    "BtechWaleTech's three freelance software developers serve Guwahati remotely. Custom software, portals and MVPs start at ₹60,000 and take 6 to 12 weeks; AI agents and automation start at ₹40,000 (2 to 4 weeks); websites start at ₹10,000. You get an itemised quote in about two working days and two months of free maintenance after launch.",
   snapshot: [
     { label: "Role", value: "Commercial and logistics gateway for the seven North Eastern states" },
     { label: "Business corridors", value: "GS Road, Dispur, Christian Basti, Ganeshguri, Zoo Road, Ulubari and Paltan Bazaar" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that read orders, answer customer questions, qualify leads and draft replies in English, Hindi and Roman-script Assamese.",
     data: "Dashboards that pull from Tally, spreadsheets and your apps so owners see sales, collections, stock and pipeline without waiting for reports.",
     app: "Android and iOS apps for Guwahati sales teams, drivers, patients and customers, built in Flutter or React Native and live on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Remote maintenance, monitoring and DevOps: free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Remote maintenance, monitoring and DevOps: free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Guwahati has established software businesses and many freelancers. What is harder to find is a small team that writes the code itself, publishes prices, answers on Sunday and gives you the repository on day one. That is how we work, as a freelance group of three engineers.",
@@ -165,7 +165,7 @@ const content: CityContent = {
         "Android and iOS app development in Guwahati starts at ₹40,000 with BtechWaleTech and usually takes six to ten weeks. One codebase in Flutter or React Native produces both apps, published on Google Play and the Apple App Store in your accounts, with login, forms, push notifications and an admin panel connected to your data through an API.",
         "Guwahati's app needs are shaped by its role as the North East's supply hub. Distributors want B2B catalogue apps where retailers in Shillong, Itanagar or Dimapur see party-wise rates and reorder in a few taps. Transporters want driver apps that update trip status and capture proof of delivery. Sales teams want order-booking apps that work at the counter even when the network is poor in hill towns.",
         "Consumer-facing apps suit businesses with repeat customers: diagnostic labs sharing reports, coaching institutes in Ganeshguri pushing batch updates and tests, clinics managing appointments, and restaurants or grocers offering reorders. A mixed customer base in Guwahati means a real share of iPhone users, which is why we publish on both stores by default rather than treating iOS as an afterthought.",
-        "Apps cost more to maintain than websites because of store reviews, operating system updates and user support, so we recommend one only when people will open it regularly. Founders building a product from scratch can start with an app MVP on the same ₹40,000 base, adding custom backend features at custom software rates. You own the code, store listings and admin panel, with five free months of maintenance.",
+        "Apps cost more to maintain than websites because of store reviews, operating system updates and user support, so we recommend one only when people will open it regularly. Founders building a product from scratch can start with an app MVP on the same ₹40,000 base, adding custom backend features at custom software rates. You own the code, store listings and admin panel, with two free months of maintenance.",
       ],
       list: [
         "B2B catalogue and reorder app for North East retailers",
@@ -179,7 +179,7 @@ const content: CityContent = {
       id: "cloud-devops-guwahati",
       heading: "Cloud hosting, DevOps and IT support from a remote team",
       paragraphs: [
-        "Cloud hosting and DevOps for Guwahati projects cover setting up servers or managed platforms in your name, automated deployments, backups, monitoring, security updates and incident response. BtechWaleTech includes all of this in each project, with five months of free maintenance and paid plans from ₹8,000 a month afterwards.",
+        "Cloud hosting and DevOps for Guwahati projects cover setting up servers or managed platforms in your name, automated deployments, backups, monitoring, security updates and incident response. BtechWaleTech includes all of this in each project, with two months of free maintenance and paid plans from ₹8,000 a month afterwards.",
         "We typically deploy applications on AWS or comparable managed services and websites on static hosts. Code lives in a repository you own; deployments run through scripts so changes are tested and can be rolled back. Alerts reach us when something fails, often before your staff notice.",
         "Our support is remote and covers the systems we build and host. We cannot come to your Guwahati office to fix a printer or network, and we say so up front. For those needs, a local technician is the right partner, and we will coordinate with them when required.",
       ],
@@ -206,7 +206,7 @@ const content: CityContent = {
         "Written scope, itemised quote and timeline in about two working days",
         "Build in stages with a live preview link",
         "Testing with your own staff, customers or drivers",
-        "Launch, handover of code and logins, five months of free maintenance",
+        "Launch, handover of code and logins, two months of free maintenance",
       ],
     },
     {
@@ -276,7 +276,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "Five months of bug fixes, minor content changes, security updates, backups and uptime and speed monitoring, starting at launch. New features are quoted separately. Afterwards, maintenance continues from ₹8,000 a month, or you can pay per change.",
+        "Two months of bug fixes, minor content changes, security updates, backups and uptime and speed monitoring, starting at launch. New features are quoted separately. Afterwards, maintenance continues from ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Who owns the source code?",

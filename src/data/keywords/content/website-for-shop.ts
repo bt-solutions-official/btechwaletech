@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Catalogue site ready in", "1–2 weeks"],
     ["Orders arrive on", "Your WhatsApp number"],
     ["Domain and hosting", "Registered in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your shop website" },
     { value: "100", label: "Pages in the starting catalogue plan" },
-    { value: "5", label: "Months of free price and product updates help" },
+    { value: "2", label: "Months of free price and product updates help" },
     { value: "0", label: "Commission taken on your orders" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Orders", value: "Prefilled WhatsApp message with product, size and quantity" },
       { label: "Payments", value: "UPI QR or ID on the site; card and UPI checkout in the store plan" },
       { label: "Finding you", value: "Google Maps link, Business Profile tie-in, local search basics" },
-      { label: "Updates", value: `5 months free, then from ${P.care}` },
+      { label: "Updates", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       heading: "Keeping prices and stock up to date without stress",
       paragraphs: [
         `An outdated price list does more harm than no website at all. Decide how updates will happen before the build, not after.`,
-        `For shops with a few dozen products that change occasionally, the simplest route is sending changes to us on WhatsApp; during the five free months of maintenance those small updates cost nothing. For shops that change prices daily, we can give you a simple admin screen, or connect the catalogue to a Google Sheet you already maintain, so updating a cell updates the website.`,
+        `For shops with a few dozen products that change occasionally, the simplest route is sending changes to us on WhatsApp; during the two free months of maintenance those small updates cost nothing. For shops that change prices daily, we can give you a simple admin screen, or connect the catalogue to a Google Sheet you already maintain, so updating a cell updates the website.`,
         `For fast-moving stock, add a note such as “availability confirmed on WhatsApp” instead of showing exact counts. It sets honest expectations and avoids disappointed customers.`,
       ],
       list: [
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example, not a client story, to show how a shop website might come together.`,
         `A family footwear shop sells school shoes, sandals and wedding footwear. The owner answers the same price questions on WhatsApp every evening, and most buyers live within a few kilometres. School reopening and the wedding season are the busiest times.`,
-        `We would suggest the catalogue website starting at ${P.site}: categories for school, men, women, kids and wedding; product pages with size selection; a WhatsApp button that sends product, size and quantity; a size-chart page; shop timings, directions and parking notes; and a Hindi version of the main pages. A reusable offer page is switched on for school reopening. Products come from a spreadsheet the owner’s son maintains. Launch in about two weeks, with five months of free updates for new stock and prices.`,
+        `We would suggest the catalogue website starting at ${P.site}: categories for school, men, women, kids and wedding; product pages with size selection; a WhatsApp button that sends product, size and quantity; a size-chart page; shop timings, directions and parking notes; and a Hindi version of the main pages. A reusable offer page is switched on for school reopening. Products come from a spreadsheet the owner’s son maintains. Launch in about two weeks, with two months of free updates for new stock and prices.`,
       ],
     },
     {
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       heading: "Dukaan ki website kaise banwayein? Aasaan bhasha mein",
       paragraphs: [
         `Dukaan ki website mein aapke saaman ki photo, daam aur har product ke saath WhatsApp order ka button hota hai. Customer button dabata hai aur product ka naam, size aur quantity likha hua message aapke WhatsApp par aa jaata hai. Saath mein shop ka pata, timing aur Google Maps ka rasta bhi hota hai.`,
-        `Aisi website hamare saath ${P.site} se shuru hoti hai aur 1–2 hafte mein ready ho jaati hai. Agar online payment wala cart chahiye toh store ${P.shop} se shuru hota hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 5 mahine tak daam aur naye products badalne ki madad free hai.`,
+        `Aisi website hamare saath ${P.site} se shuru hoti hai aur 1–2 hafte mein ready ho jaati hai. Agar online payment wala cart chahiye toh store ${P.shop} se shuru hota hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine tak daam aur naye products badalne ki madad free hai.`,
       ],
     },
   ],
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
         ["WhatsApp order automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Shops with high daily chat volume"],
         ["Shopping app for repeat buyers", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Regular reorders, loyalty"],
         ["Local SEO and Maps help", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Shops competing in busy markets"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Price and product updates"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Price and product updates"],
       ],
       hideSm: [2],
     },
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
       ["Set up the domain in your name", "We register the domain and hosting with your email on a short call, or you create them and add us."],
       ["Check the design on your phone", "Home and category pages appear on a preview link. You check them on your own phone and send changes on WhatsApp."],
       ["Products, WhatsApp buttons and Maps", "We add products from your list, test each order button with your number and link your Google Business Profile."],
-      ["Launch and keep it fresh", "After launch, five months of price and product updates are free. Later, maintenance continues from " + P.care + " if you want it."],
+      ["Launch and keep it fresh", "After launch, two months of price and product updates are free. Later, maintenance continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Website for shop: questions shop owners ask",
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
     { question: "Can customers order on WhatsApp from my shop website?", answer: "Yes. Each product has a button that opens WhatsApp with the product name, size, quantity and link already typed. The customer sends it and you receive a clear order on your number. You confirm availability and payment in the chat, just as you do today, but without repeated price questions." },
     { question: "Do I need a full online store or just a catalogue website?", answer: "Most local shops do well with a catalogue website and WhatsApp orders, because buyers like to ask before paying and stock changes often. A full store with cart and online payment makes sense when you ship outside your city or when chat orders become too many to handle comfortably by hand." },
     { question: "How long does it take to make a shop website?", answer: "A catalogue website usually goes live in 1–2 weeks once product details and photos are ready. A full online store takes 4–8 weeks. The most common delay is waiting for photos, so shooting them early, against a plain background in daylight, is the easiest way to launch sooner." },
-    { question: "Can I update prices and products myself?", answer: "Yes, if you want to. Options include a simple admin screen or a Google Sheet that feeds the catalogue, so changing a cell updates the site. If changes are occasional, you can send them to us on WhatsApp instead, and during the first five months after launch those small updates are free." },
+    { question: "Can I update prices and products myself?", answer: "Yes, if you want to. Options include a simple admin screen or a Google Sheet that feeds the catalogue, so changing a cell updates the site. If changes are occasional, you can send them to us on WhatsApp instead, and during the first two months after launch those small updates are free." },
     { question: "Will my shop website show on Google Maps?", answer: "Google Maps results are driven by your Google Business Profile. We link your website to it, match the name, address and phone exactly, and add local business schema so Google reads your details correctly. Nobody can guarantee a top map position, because distance, relevance and reviews all play a part." },
     { question: "Can my shop website accept UPI payments?", answer: `On a catalogue website, you show your UPI ID or QR code and customers pay directly, with no integration needed. On a full online store starting at ${P.shop}, customers pay by UPI or card at checkout and the order is marked paid automatically. The payment provider charges a fee per transaction.` },
     { question: "Is a website better than selling on a marketplace?", answer: "They do different jobs. A marketplace can bring buyers you would not reach alone, but it takes commission, sets the rules and shows competitors next to you. Your own website carries no commission, sends orders to your WhatsApp and stays yours. Many shops keep both and push repeat customers to the website." },
@@ -379,10 +379,10 @@ const content: FreelanceContent = {
     { question: "Do I need GST registration to have a shop website?", answer: "A catalogue website that only shows products and takes WhatsApp enquiries does not itself create a GST requirement; your existing registration status continues. Selling online through a cart or marketplace can bring specific tax rules. Your accountant is the right person to confirm what applies to your shop before you start taking online payments." },
     { question: "Will the website work on cheap phones and slow internet?", answer: "It should, and we test for it. Photos are compressed and load as the customer scrolls, scripts are kept small, and pages are checked on older Android phones over slow connections. Large WhatsApp and call buttons stay visible, so a customer standing in a busy market can order with one thumb." },
     { question: "Can you add home delivery options?", answer: "Yes. A catalogue website can list delivery areas and charges, and the order message can include the customer’s area. A full online store can check pincodes, apply delivery charges and offer time slots or pickup at checkout. We build the ordering side; the actual delivery stays with you or your courier." },
-    { question: "What happens after my shop website launches?", answer: `For five months after launch, maintenance is free: new products, price changes, offer pages and small fixes. After that it continues from ${P.care} if you want it, or you can update the site yourself or hand it to someone else. Domain and hosting renewals are paid from your own account.` },
+    { question: "What happens after my shop website launches?", answer: `For two months after launch, maintenance is free: new products, price changes, offer pages and small fixes. After that it continues from ${P.care} if you want it, or you can update the site yourself or hand it to someone else. Domain and hosting renewals are paid from your own account.` },
     { question: "Can you also make an app for my shop?", answer: `Yes, when it makes sense. An app helps shops with regular customers who reorder often, such as grocery or dairy. Android and iOS apps start at ${P.app}. For most shops, a fast website with WhatsApp ordering is the better first step, because customers do not need to install anything.` },
     { question: "How do I pay for the shop website?", answer: "Payment is in stages tied to work you can see, as set out in your written quote. In India you pay by UPI or bank transfer; from abroad by Wise, bank wire or PayPal. You approve the itemised estimate first, and nothing is billed before that. Domain and hosting are paid directly by you." },
-    { question: "Dukaan ki website banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath dukaan ki catalogue website WhatsApp order button ke saath ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Online payment wala store ${P.shop} se shuru hota hai. Domain aapke naam par hota hai aur launch ke baad 5 mahine tak daam aur products badalna free hai.` },
+    { question: "Dukaan ki website banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath dukaan ki catalogue website WhatsApp order button ke saath ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Online payment wala store ${P.shop} se shuru hota hai. Domain aapke naam par hota hai aur launch ke baad 2 mahine tak daam aur products badalna free hai.` },
     { question: "Can I show offers during festivals and sales?", answer: "Yes. We build a reusable offer page and home page banner that can be switched on for Diwali, Eid, Pongal, wedding season or school reopening, then switched off afterwards. Offer products can be tagged so they appear together. During the free maintenance period, we can set these up for you on request." },
   ],
   related: {
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a website for your shop that brings WhatsApp orders",
-    note: `Send a voice note or a few product photos on WhatsApp. You will get a category plan and itemised quote in about two working days, with shop websites starting at ${P.site}, the domain in your name and five months of free updates after launch.`,
+    note: `Send a voice note or a few product photos on WhatsApp. You will get a category plan and itemised quote in about two working days, with shop websites starting at ${P.site}, the domain in your name and two months of free updates after launch.`,
   },
 };
 

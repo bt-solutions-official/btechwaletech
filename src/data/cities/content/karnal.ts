@@ -7,7 +7,7 @@ const karnal: CityContent = {
   meta: {
     title: "Karnal Website Design, SEO & Automation Team",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Karnal rice millers, dairy firms, clinics, IELTS centres and shops. From ₹10,000, 5 months free care.",
+      "Websites, local SEO, online stores and WhatsApp automation for Karnal rice millers, dairy firms, clinics, IELTS centres and shops. From ₹10,000, 2 months free care.",
     keywords: [
       "website development team in Karnal",
       "web designer Karnal",
@@ -31,11 +31,11 @@ const karnal: CityContent = {
     eyebrow: "Karnal · Haryana",
     h1: "Websites, local search and automation for Karnal businesses on the GT Road belt",
     lede:
-      "Three remote engineers building fast websites, basmati and dairy catalogues, clinic booking pages and WhatsApp workflows for businesses across Karnal, from the HSVP sectors and Kunjpura Road to Taraori's rice mills. Prices are published, you own the domain and code, and five months of maintenance after launch are free.",
+      "Three remote engineers building fast websites, basmati and dairy catalogues, clinic booking pages and WhatsApp workflows for businesses across Karnal, from the HSVP sectors and Kunjpura Road to Taraori's rice mills. Prices are published, you own the domain and code, and two months of maintenance after launch are free.",
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Rice mill and exporter sites", "Clinic and IELTS centre sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Karnal, our static business websites start at ₹10,000 and take one to two weeks; a 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Karnal office, and five months of free maintenance come with every website we build.",
+    "In Karnal, our static business websites start at ₹10,000 and take one to two weeks; a 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no Karnal office, and two months of free maintenance come with every website we build.",
   snapshot: [
     { label: "Location", value: "On NH 44 (old GT Road), roughly midway between Delhi and Chandigarh" },
     { label: "Research institutes", value: "National Dairy Research Institute, Central Soil Salinity Research Institute, wheat and barley research, NBAGR" },
@@ -52,10 +52,10 @@ const karnal: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that handle the daily rush of questions about fees, rates, stock and appointments, and pass the tricky ones to your staff.",
     data: "Dashboards for paddy arrivals, sales, dealer orders and student enquiries, readable on a phone in the mandi or the office.",
     app: "Android and iOS apps for bookings, order taking and student portals, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Karnal businesses are often sold websites by agencies in Chandigarh or Delhi who never publish a price, or by local freelancers who are hard to reach once the job is done. We list our starting prices openly, answer on WhatsApp all seven days, and keep maintaining your site free of charge for five months after launch.",
+    "Karnal businesses are often sold websites by agencies in Chandigarh or Delhi who never publish a price, or by local freelancers who are hard to reach once the job is done. We list our starting prices openly, answer on WhatsApp all seven days, and keep maintaining your site free of charge for two months after launch.",
   pricingIntro:
     "Ask three Karnal developers for a quote and you may get three numbers with no explanation. Below are our real starting prices. The final amount depends on the number of pages, products, languages and features, and you receive it itemised before any work is billed.",
   sections: [
@@ -173,11 +173,11 @@ const karnal: CityContent = {
     },
     {
       id: "ownership-karnal",
-      heading: "Domain, hosting and code in your name, plus five free months",
+      heading: "Domain, hosting and code in your name, plus two free months",
       paragraphs: [
         "A problem we see often in Haryana's smaller cities is lost control of a website. The developer booked the domain on their own account, then moved on or stopped responding. When the renewal lapsed, the website vanished along with the email address printed on letterheads. Recovering it can take weeks, if it is possible at all.",
         "With us, the domain and hosting are registered in your name from the start. At launch you receive every login, the complete source code and a short note explaining how everything fits together. You can hand the site to any other developer at any time, with no exit fee.",
-        "Maintenance is free for the first five months after launch, covering content changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing. Start with a message through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "Maintenance is free for the first two months after launch, covering content changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing. Start with a message through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const karnal: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "What should I send to get started?",

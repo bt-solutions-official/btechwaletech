@@ -40,7 +40,7 @@ const content: CityContent = {
     h1: "Freelance app and AI developers in Rishikesh for yoga schools, retreats and adventure operators",
     lede:
       "Plenty of people search for a software development team in Rishikesh when what they really need is a course-booking system that handles deposits from abroad, a rafting slot planner or an assistant that answers students at 3 a.m. Indian time. BtechWaleTech is a freelance group of three engineers working remotely from India, building exactly those systems, plus dashboards, apps and SEO, at published starting prices.",
-    pills: ["Course systems from ₹60,000", "AI assistants from ₹40,000", "English-first, global-ready", "Rafting slot booking", "Five months' free upkeep"],
+    pills: ["Course systems from ₹60,000", "AI assistants from ₹40,000", "English-first, global-ready", "Rafting slot booking", "Two months' free upkeep"],
   },
   quickAnswer:
     "For Rishikesh yoga schools, retreats and adventure operators, BtechWaleTech's freelance developers build booking and course software from ₹60,000 in six to twelve weeks and AI enquiry assistants from ₹40,000 in two to four weeks. Websites start at ₹10,000. We are three engineers working remotely from India, with an itemised quote in two working days.",
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI assistants answering curriculum, fee, visa-document and room questions around the clock, handing serious applicants to your team.",
     data: "Dashboards showing enrolments by batch, occupancy by room, deposits received and rafting capacity used per day.",
     app: "Android and iOS apps for Rishikesh yoga students, retreat guests and rafting guides, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Updates, backups and fixes free for five months after launch, then from ₹8,000 a month, with pre-season checks included.",
+    maintenance: "Updates, backups and fixes free for two months after launch, then from ₹8,000 a month, with pre-season checks included.",
   },
   whyUsIntro:
     "Rishikesh schools and operators often rely on a friend-of-a-friend developer or a template that cannot handle deposits, batches and room allocation together. A freelance group that writes its own code, understands international enquiries and answers every day on WhatsApp gives you continuity without an agency's overhead.",
@@ -222,7 +222,7 @@ const content: CityContent = {
       id: "process-support-rishikesh",
       heading: "How we build and support Rishikesh projects, and how long it takes",
       paragraphs: [
-        "A Rishikesh project with BtechWaleTech takes two to four weeks for automation, four to eight weeks for a store and six to twelve weeks for custom software, following a call, a written scope, weekly builds with a live preview, testing and launch. Five months of free maintenance follow launch.",
+        "A Rishikesh project with BtechWaleTech takes two to four weeks for automation, four to eight weeks for a store and six to twelve weeks for custom software, following a call, a written scope, weekly builds with a live preview, testing and launch. Two months of free maintenance follow launch.",
         "Schools should aim to launch between intakes, not during a running batch. Operators should launch before the rafting season reopens. After launch, support is on WhatsApp seven days a week with the engineers who built the system. See <a href='/services/'>our services</a>, <a href='/portfolio/'>past work</a>, or the <a href='/it-services/uttarakhand/'>Uttarakhand overview</a> and <a href='/it-services/uttarakhand/haridwar/'>Haridwar page</a> for nearby coverage.",
       ],
       list: [
@@ -230,7 +230,7 @@ const content: CityContent = {
         "Itemised scope and quote in about two working days",
         "Weekly builds with a live preview link",
         "Testing with real bookings and staff",
-        "Launch, training recordings and five months of free maintenance",
+        "Launch, training recordings and two months of free maintenance",
       ],
     },
   ],
@@ -295,7 +295,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "Five months of free maintenance start after launch, covering bug fixes, security updates, backups, uptime checks and small content changes such as new batch dates. After that, plans start at ₹8,000 a month, or you can contact us only when needed.",
+        "Two months of free maintenance start after launch, covering bug fixes, security updates, backups, uptime checks and small content changes such as new batch dates. After that, plans start at ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Can an AI assistant answer students in other languages?",

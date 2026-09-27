@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Charged by Meta", "Per delivered template message"],
     ["Billing currency options", "Meta lists SAR among its currencies"],
     ["Message languages", "Arabic and English templates"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "24", label: "Hour customer service window after a customer messages you" },
     { value: "3", label: "Template categories Meta prices differently" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "How does WhatsApp automation work for a Saudi business?",
@@ -226,7 +226,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our WhatsApp automation setup starts from ${P.ai} for a first set of flows, such as order confirmation, COD check and shipping updates, including templates, integration and testing. On top of that you pay Meta per delivered template message and a small hosting bill for the integration service.`,
         `The setup price rises with the number of flows, the number of systems involved and whether you want a custom inbox or an AI layer. Connecting one Salla store to three templates is at the lower end. Connecting a store, a courier and a CRM, with a team inbox and Arabic AI replies, needs more weeks.`,
-        `Meta's charges depend on how many templates you send, in which category, to which country codes. We estimate them from your order and booking volumes during scoping and show you which flows cost the most. Maintenance is free for five months after launch and then optional from ${P.care}.`,
+        `Meta's charges depend on how many templates you send, in which category, to which country codes. We estimate them from your order and booking volumes during scoping and show you which flows cost the most. Maintenance is free for two months after launch and then optional from ${P.care}.`,
       ],
       after: [`Quotes from BSPs and other developers vary widely because some include subscriptions and some do not; compare the total monthly picture. For other AI back-office work, see <a href='/saudi-arabia/ai-automation-services/'>AI automation services in Saudi Arabia</a>.`],
     },
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
         ["Flows plus team inbox", `From ${P.ai}`, "3–4 weeks", "Assignment, tags, notes, message history"],
         ["Flows plus Arabic AI replies", `From ${P.ai}`, "3–4 weeks", "Grounded answers, handoff, Arabic testing"],
         ["WhatsApp inside a custom portal", `From ${P.software}`, "6–12 weeks", "Customer portal, admin, WhatsApp notifications"],
-        ["Monthly care after 5 free months", `From ${P.care}`, "Monthly", "Template updates, monitoring, small changes"],
+        ["Monthly care after 2 free months", `From ${P.care}`, "Monthly", "Template updates, monitoring, small changes"],
       ],
       hideSm: [3],
     },
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
       ["Set up Meta in your name", "On a screen-share call we help you prepare your Meta business portfolio and number, then you add us as developers with limited access."],
       ["Draft and submit templates", "We draft structure and English wording, your team supplies or approves the Arabic, and we submit both, fixing anything Meta rejects."],
       ["Build and test on a test number", "Integrations with your store, calendar or CRM are built and tested with real test orders or bookings before the live number is switched on."],
-      ["Go live and monitor", "Flows go live with failure alerts. Five months of maintenance are free; after that, care continues from " + P.care + " only if you want it."],
+      ["Go live and monitor", "Flows go live with failure alerts. Two months of maintenance are free; after that, care continues from " + P.care + " only if you want it."],
     ],
   },
   faqHeading: "WhatsApp automation in Saudi Arabia: questions businesses ask",
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us which WhatsApp messages your team types every day",
-    note: `Send us the list on WhatsApp. You will get an itemised USD quote in about two working days, with automation setups starting from ${P.ai}, the Meta account and number in your name and five months of free maintenance after launch.`,
+    note: `Send us the list on WhatsApp. You will get an itemised USD quote in about two working days, with automation setups starting from ${P.ai}, the Meta account and number in your name and two months of free maintenance after launch.`,
   },
 };
 

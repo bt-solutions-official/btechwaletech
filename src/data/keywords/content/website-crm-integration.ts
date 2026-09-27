@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["CRMs", "Zoho, HubSpot, LeadSquared, custom"],
     ["Tracked per lead", "Source, medium, campaign, page"],
     ["If the CRM fails", "Retry queue plus alert"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support the integration" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance included" },
+    { value: "2", label: "Months of free maintenance included" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Website CRM integration pricing",
-    note: `Custom integration work falls under our AI automation plan, starting at ${P.ai}, because most projects include the same pieces: server-side intake, mapping, deduplication, retries and alerts. The quote grows with the number of touchpoints (forms, chat, call clicks, bookings), the number of CRM modules involved, and how unusual your CRM’s API is. A single-form job on a well-documented CRM may be quoted lower after we review it; a custom in-house CRM with no documentation takes longer. If the website itself needs rebuilding, a static site starts at ${P.site}. Connector subscriptions and CRM licences are paid by you directly. Maintenance is free for 5 months, then from ${P.care}.`,
+    note: `Custom integration work falls under our AI automation plan, starting at ${P.ai}, because most projects include the same pieces: server-side intake, mapping, deduplication, retries and alerts. The quote grows with the number of touchpoints (forms, chat, call clicks, bookings), the number of CRM modules involved, and how unusual your CRM’s API is. A single-form job on a well-documented CRM may be quoted lower after we review it; a custom in-house CRM with no documentation takes longer. If the website itself needs rebuilding, a static site starts at ${P.site}. Connector subscriptions and CRM licences are paid by you directly. Maintenance is free for 2 months, then from ${P.care}.`,
   },
   guideLabel: "Website CRM integration guide",
   guide: [
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
         "Handover note with credentials location, mapping and how to change a field",
       ],
       after: [
-        `All credentials, code and logs stay in your accounts. The handover note lists where each piece lives, and you can hand it to any developer later. Maintenance is free for the first 5 months, then continues from ${P.care} if you want us to keep watching the alerts.`,
+        `All credentials, code and logs stay in your accounts. The handover note lists where each piece lives, and you can hand it to any developer later. Maintenance is free for the first 2 months, then continues from ${P.care} if you want us to keep watching the alerts.`,
       ],
     },
     {

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First step", "A free look at your sheets before quoting"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Your data", "In a database you own"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who read your sheets and write the code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-user licence fees on the finished app" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "6–12 weeks, with both systems running side by side at the end" },
       { label: "Data import", value: "Cleaned, validated and reconciled against your sheets" },
       { label: "Excel afterwards", value: "Still available as an export for anyone who wants it" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -204,7 +204,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a custom web app that replaces a spreadsheet system starts at ${P.software} (${P.softwareUsd}). That covers a workbook with a handful of related sheets, a few user roles, an audit trail, data import and basic reports. Larger or messier workbooks cost more, and every quote is itemised.`,
         "The drivers are the number of distinct processes (each becomes a module), the complexity of rules and macros, approval steps, integrations with tools like Tally, email or WhatsApp, the state of historical data, and reporting needs. A workbook with forty tabs but one simple process can cost less than a ten-tab workbook with pricing logic nobody fully understands.",
-        `Running costs are modest: hosting in your own cloud account, paid directly to the provider, and optional care from ${P.care} after five free months of maintenance. There is no per-user fee, which is often the deciding factor against subscription tools once a team passes a dozen users. For a comparison of web app pricing in general, see <a href='/web-application-development-cost/'>web application development cost</a>.`,
+        `Running costs are modest: hosting in your own cloud account, paid directly to the provider, and optional care from ${P.care} after two free months of maintenance. There is no per-user fee, which is often the deciding factor against subscription tools once a team passes a dozen users. For a comparison of web app pricing in general, see <a href='/web-application-development-cost/'>web application development cost</a>.`,
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "Once you convert Excel to software with us, you own the source code, the database, the hosting account and the domain, all registered to your business. The app is built with mainstream tools so any competent developer can maintain it, not only us.",
         "Handover includes repository access, admin logins, a short guide per role, a data dictionary explaining each table in plain language, and the import scripts in case you ever need to reload. Daily backups run to your cloud account and we walk your team through a restore.",
-        `Five months of free maintenance follow launch: bug fixes, small changes, new reports and dependency updates. After that, care starts at ${P.care} if you want it. Most clients find the first requests after launch are for reports and exports they did not think to ask for, because once data is clean and central, people start asking better questions of it.`,
+        `Two months of free maintenance follow launch: bug fixes, small changes, new reports and dependency updates. After that, care starts at ${P.care} if you want it. Most clients find the first requests after launch are for reports and exports they did not think to ask for, because once data is clean and central, people start asking better questions of it.`,
         "Excel does not vanish. Any screen can export to a spreadsheet, and many users will keep doing their own analysis that way. The difference is that the export is a copy of trusted data, not the master that everyone edits.",
       ],
     },
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
         ["Data cleaning and import", "Scripts, questions, reconciliation", "1–2 weeks, overlapping", "Itemised by data quality"],
         ["Parallel run and cut-over", "Both systems side by side, then retire the sheet", "2–4 weeks", "Included"],
         ["Native app for field staff (optional)", "Android & iOS app on the same database", "6–10 weeks", `From ${P.app}`],
-        ["Care after 5 free months", "Changes, reports, updates, backups", "Monthly", `From ${P.care}`],
+        ["Care after 2 free months", "Changes, reports, updates, backups", "Monthly", `From ${P.care}`],
       ],
       hideSm: [1],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Screen-share audit", "We watch your main users work, list every rule and formula in plain language, and send the process map and database design for your sign-off."],
       ["Build on a staging link", "Screens, roles and the audit trail appear on a private link. Your team tests with sample data and we adjust from their comments each week."],
       ["Clean, import, reconcile", "Data is cleaned by script, imported, and matched against your sheet totals. Open questions come to you as a short, specific list."],
-      ["Parallel run, then retire the sheet", `Both systems run side by side until numbers agree. Then the workbook goes read-only, you receive code and logins, and five free months of maintenance begin, then care from ${P.care}.`],
+      ["Parallel run, then retire the sheet", `Both systems run side by side until numbers agree. Then the workbook goes read-only, you receive code and logins, and two free months of maintenance begin, then care from ${P.care}.`],
     ],
   },
   faqHeading: "Convert Excel to software: common questions",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Who owns the software after it is built?", answer: "Your business does. The code sits in a repository you control, the database and hosting are in your cloud account, and the domain is in your name. You also receive admin logins, role guides, a plain-language data dictionary and the import scripts. Any competent developer can maintain the app later if you decide to move on." },
     { question: "Is a web app secure enough for business data?", answer: "Built properly, it is far safer than files emailed between laptops. Logins are individual, access is role-based, traffic and stored data are encrypted, changes are logged, and daily backups run to your own cloud account. When someone leaves, disabling one login removes their access, whereas copies of a spreadsheet can stay on personal devices indefinitely." },
     { question: "Do we have to stop using Excel on a single day?", answer: "No. When you convert Excel to software with us, the last two to four weeks of the project are a parallel run where staff use both the spreadsheet and the app. Differences are investigated and fixed until the numbers agree. Only then does the workbook become read-only, so there is never a day when the business depends on a system nobody has checked." },
-    { question: "What happens after the software goes live?", answer: `Five months of free maintenance cover bug fixes, small changes, new reports and updates. After that, ongoing care starts at ${P.care} if you want it. Early requests usually involve extra reports and exports, because once data is clean and in one place, managers start asking new questions of it.` },
+    { question: "What happens after the software goes live?", answer: `Two months of free maintenance cover bug fixes, small changes, new reports and updates. After that, ongoing care starts at ${P.care} if you want it. Early requests usually involve extra reports and exports, because once data is clean and in one place, managers start asking new questions of it.` },
     { question: "Can you convert Google Sheets as well as Excel?", answer: "Yes. Google Sheets and Excel workbooks go through the same audit, modelling, cleaning and import process. If your team is already on Google Workspace and the process is small, a Google Apps Script automation may be enough for now, and we will say so. Larger shared sheets benefit from the same move to a proper web app." },
     { question: "How do we pay for an Excel conversion project?", answer: "Payments are staged against visible progress, as written in your itemised quote. In India you pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote. For questions the quote does not answer, see our terms page or ask us directly." },
     { question: "Do you need to see our data before quoting?", answer: "Yes. To convert Excel to software accurately we need, ideally, a copy of the workbook with real or realistic data. Quoting from a description alone leads to surprises, because spreadsheets always hold more logic than their owners remember. If the data is sensitive, you can mask names and numbers, as long as the structure, formulas and macros stay intact." },
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us your spreadsheet and get a conversion quote",
-    note: `Share the workbook and a few lines about who uses it. We read it first, then send an itemised quote in about two working days, with custom web apps starting at ${P.software}, code and data in your name, and five months of free maintenance after launch.`,
+    note: `Share the workbook and a few lines about who uses it. We read it first, then send an itemised quote in about two working days, with custom web apps starting at ${P.software}, code and data in your name, and two months of free maintenance after launch.`,
   },
 };
 

@@ -31,11 +31,11 @@ const yemmiganur: CityContent = {
     eyebrow: "Yemmiganur · Kurnool district · Andhra Pradesh",
     h1: "Websites, apps, SEO and AI automation for Yemmiganur's handloom weavers, cotton traders and local businesses",
     lede:
-      "We are a three-person remote engineering team building websites, online handloom stores, business software and WhatsApp automation for Yemmiganur and the villages that trade through it. Weaving units, ginning and groundnut mills, dealers, schools and clinics get Telugu and English pages, published starting prices and direct access to the developers, plus five months of free maintenance.",
+      "We are a three-person remote engineering team building websites, online handloom stores, business software and WhatsApp automation for Yemmiganur and the villages that trade through it. Weaving units, ginning and groundnut mills, dealers, schools and clinics get Telugu and English pages, published starting prices and direct access to the developers, plus two months of free maintenance.",
     pills: ["Websites from ₹10,000", "Handloom product stores", "Telugu and English", "UPI and Razorpay payments", "WhatsApp order replies"],
   },
   quickAnswer:
-    "In Yemmiganur, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, a handloom store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office and include five months of free maintenance.",
+    "In Yemmiganur, a static business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, a handloom store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office and include two months of free maintenance.",
   snapshot: [
     { label: "Where it is", value: "Municipal town in Kurnool district, Adoni revenue division, in the Rayalaseema region of Andhra Pradesh" },
     { label: "Signature product", value: "Yemmiganur handloom, Kurnool district's product under the One District One Product programme" },
@@ -52,7 +52,7 @@ const yemmiganur: CityContent = {
     ai: "WhatsApp replies in Telugu or English that send product photos, sizes and starting rates to retailers and resellers at any hour.",
     data: "Dashboards showing monthly sales by product, pending dues from buyers and which designs keep selling.",
     app: "Android and iPhone apps for reseller orders, school notices or clinic tokens, one Flutter or React Native build released on both stores.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month if needed.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then maintenance from ₹8,000 a month if needed.",
   },
   whyUsIntro:
     "Yemmiganur's handloom products already sell on national marketplaces, but most weaving units and traders in the town have no website of their own and rely on middlemen or marketplace listings they do not control. We build sites that you own, publish our starting prices, reply on WhatsApp every day of the week, and hand over all logins at launch.",
@@ -188,7 +188,7 @@ const yemmiganur: CityContent = {
       paragraphs: [
         "A common story in smaller towns: a website was made by someone who registered the domain in their own name, then moved away or stopped answering. When the renewal lapsed, the business lost its web address and everything built on it.",
         "We register the domain and hosting in your name from day one, give you every login at launch and hand over the complete source code with a short note explaining the setup. If you ever want another developer, you can move without any exit fee or permission from us.",
-        "Maintenance is free for five months after launch, covering content updates, bug fixes, security patches, backups and speed checks. After that you can choose maintenance from ₹8,000 a month or pay only when you ask for changes.",
+        "Maintenance is free for two months after launch, covering content updates, bug fixes, security patches, backups and speed checks. After that you can choose maintenance from ₹8,000 a month or pay only when you ask for changes.",
       ],
     },
     {
@@ -279,7 +279,7 @@ const yemmiganur: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security patches, backups and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes and pay for that work.",
+        "For two months after launch we handle content and price updates, bug fixes, security patches, backups and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes and pay for that work.",
     },
     {
       question: "Can you build software for my weaving unit?",

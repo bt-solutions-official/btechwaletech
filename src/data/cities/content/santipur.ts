@@ -31,11 +31,11 @@ const santipur: CityContent = {
     eyebrow: "Santipur · Nadia, West Bengal",
     h1: "Web, app, SEO and automation services for Santipur's weavers, mahajans and local businesses",
     lede:
-      "We are three engineers working remotely for businesses in Santipur, Phulia and the rest of Nadia. We build catalogue sites and UPI stores for tant and jamdani sellers, simple Bengali-and-English websites for shops, clinics and schools, and WhatsApp tools that sort wholesale enquiries. Prices are published, and the first five months of maintenance cost nothing.",
-    pills: ["Websites from ₹10,000", "Bengali and English pages", "Saree catalogue stores", "Wholesale enquiry tools", "Five months free upkeep"],
+      "We are three engineers working remotely for businesses in Santipur, Phulia and the rest of Nadia. We build catalogue sites and UPI stores for tant and jamdani sellers, simple Bengali-and-English websites for shops, clinics and schools, and WhatsApp tools that sort wholesale enquiries. Prices are published, and the first two months of maintenance cost nothing.",
+    pills: ["Websites from ₹10,000", "Bengali and English pages", "Saree catalogue stores", "Wholesale enquiry tools", "Two months free upkeep"],
   },
   quickAnswer:
-    "For a Santipur business, a static website with us starts at ₹10,000 and takes one to two weeks. An SEO site of 299+ pages starts at ₹20,000, a saree store with UPI checkout from ₹50,000 and AI or WhatsApp automation from ₹40,000. We are a remote team with no office in Santipur, and maintenance is free for five months.",
+    "For a Santipur business, a static website with us starts at ₹10,000 and takes one to two weeks. An SEO site of 299+ pages starts at ₹20,000, a saree store with UPI checkout from ₹50,000 and AI or WhatsApp automation from ₹40,000. We are a remote team with no office in Santipur, and maintenance is free for two months.",
   snapshot: [
     { label: "Where it is", value: "A municipal town in Ranaghat subdivision of Nadia district, near the Hooghly, with EMU trains via Ranaghat to Sealdah and NH 12 running through" },
     { label: "Main trade", value: "Handloom: cotton tant sarees and fine dhotis, woven in Santipur and neighbouring Phulia for more than five centuries" },
@@ -52,10 +52,10 @@ const santipur: CityContent = {
     ai: "WhatsApp flows that send the latest design photos, collect wholesale quantities and log every retailer enquiry, answered in Bengali or English.",
     data: "Monthly views of which designs, counts and colours sold, and which retailers are overdue, built from the sales records you already keep.",
     app: "Android and iPhone apps for order-taking at the haat or for weavers reporting finished pieces, published on Google Play and the App Store.",
-    maintenance: "Five months of free updates after launch, including new design uploads and price edits, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Two months of free updates after launch, including new design uploads and price edits, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
-    "Santipur sells its sarees to the whole country, but very little of that trade carries the maker's own name online. Most weaving units rely on wholesalers, Facebook posts and a phone number. We price openly, work in Bengali and English, answer on WhatsApp seven days a week, and look after the site free for five months after it goes live.",
+    "Santipur sells its sarees to the whole country, but very little of that trade carries the maker's own name online. Most weaving units rely on wholesalers, Facebook posts and a phone number. We price openly, work in Bengali and English, answer on WhatsApp seven days a week, and look after the site free for two months after it goes live.",
   pricingIntro:
     "Every figure below is a starting price. A shop with one page of services pays less than a saree unit with four hundred designs to photograph and describe. You get a written, itemised quote for your exact scope within about two working days, and nothing is billed until you approve it.",
   sections: [
@@ -177,7 +177,7 @@ const santipur: CityContent = {
       paragraphs: [
         "A familiar story in smaller Bengal towns: a nephew or a local operator made the site, bought the domain in his own name and later moved away. The business can no longer change a phone number, the renewal lapses and the site vanishes along with years of search history.",
         "We avoid that from day one. The domain and hosting are registered in your name, you receive every password, and you get the full source code with a short note on how it is set up. If you want another developer later, you hand over the details and leave, with no exit charge.",
-        "For five months after launch we handle maintenance free: adding new designs, changing prices, fixing bugs, applying security updates, taking backups and checking speed. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs doing.",
+        "For two months after launch we handle maintenance free: adding new designs, changing prices, fixing bugs, applying security updates, taking backups and checking speed. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs doing.",
       ],
     },
     {
@@ -268,7 +268,7 @@ const santipur: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we add new designs and photos, change prices and text, fix bugs, apply security updates, take backups and check speed and uptime, at no charge. After that, maintenance continues from ₹8,000 a month, or you can simply contact us when a change is needed.",
+        "For two months after launch we add new designs and photos, change prices and text, fix bugs, apply security updates, take backups and check speed and uptime, at no charge. After that, maintenance continues from ₹8,000 a month, or you can simply contact us when a change is needed.",
     },
     {
       question: "When should I launch a store for Puja sales?",

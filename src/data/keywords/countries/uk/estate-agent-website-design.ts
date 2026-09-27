@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Build time", "2–3 weeks including feed set-up"],
     ["Area-guide sites", `From ${P.seoSite} for 299+ pages`],
     ["Custom portal or tools", `From ${P.software}`],
-    ["Free support", "5 months after go-live"],
+    ["Free support", "2 months after go-live"],
     ["Quote", "Itemised, in about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Developers handling design, CRM feeds and search" },
     { value: "2", label: "Working days to an itemised written quote" },
-    { value: "5", label: "Months of free fixes and edits after launch" },
+    { value: "2", label: "Months of free fixes and edits after launch" },
     { value: "0", label: "Per-listing or per-branch platform fees from us" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Enquiry follow-up automation", note: `Applicant and vendor enquiries sorted, answered with a first reply and passed to negotiators, from ${P.ai}.`, href: "/uk/ai-receptionist-for-small-business/", size: "md" },
       { name: "WhatsApp enquiries", note: "Viewing and valuation requests through WhatsApp with property details pre-filled.", href: "/uk/whatsapp-business-api-integration/", size: "md" },
       { name: "Monthly local search", note: `Area content, Google Business Profile upkeep and Search Console reviews from ${P.seo}.`, href: "/uk/seo-packages/", size: "sm" },
-      { name: "Ongoing care", note: `Feed monitoring, updates and backups from ${P.care} after five free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Ongoing care", note: `Feed monitoring, updates and backups from ${P.care} after two free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         "Owning the site protects the agency's value. Area guides, recent-sales pages and years of search history are marketing assets; if they sit on a supplier's platform, they may not move with you, and an agency sale is harder to value.",
         "With our builds, the domain, hosting account, code repository and enquiry storage all sit in the agency's name. Valuation requests and applicant registrations go to your CRM or mailbox, not to a database we control. At handover you receive the code, all logins, notes on the feed connector and a guide to editing branch and area pages.",
-        `Five months of fixes and edits are free after launch. After that, care plans start from ${P.care}, or any developer can take over. Changing CRM later means swapping the feed connector, not rebuilding the site.`,
+        `Two months of fixes and edits are free after launch. After that, care plans start from ${P.care}, or any developer can take over. Changing CRM later means swapping the feed connector, not rebuilding the site.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Listing and search build", "Listing pages with the material information panel and fast search are built on a preview with your live data, so you judge them with real homes."],
       ["Trust and branch pages", "Redress scheme, memberships, team profiles, reviews and branch details go in. Your compliance lead checks wording and memberships."],
       ["Launch and redirects", "Old URLs are redirected, the domain is switched in a quiet midweek slot and feed monitoring starts, with alerts to your team."],
-      ["Five months of support", "Free fixes and small edits for five months, including new team members, branch changes and area guide updates."],
+      ["Two months of support", "Free fixes and small edits for two months, including new team members, branch changes and area guide updates."],
     ],
   },
   faqHeading: "Estate agent website design: common questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Will listing photos slow the website down?", answer: "Not if the build handles them properly. We resize and convert images during import, load the first few photos immediately and the rest as the visitor scrolls, and defer video tours and maps until requested. Listing pages are tested on a mid-range phone against Core Web Vitals." },
     { question: "Can you migrate our old estate agent site without losing traffic?", answer: "Yes. We crawl the old site, redirect every URL that has traffic or links, recreate useful content such as area pages, and check Search Console after launch. Old listing URLs for sold properties are redirected to the relevant area or search page." },
     { question: "Do you photograph properties or draw floorplans?", answer: "No. We work remotely and do not visit properties or branches. Your existing photographer and floorplan supplier keep working as they do now; their files reach the website automatically through your CRM feed." },
-    { question: "What support is there after launch?", answer: `Five months of free fixes and small edits come with every build. After that, care plans start from ${P.care} and include feed monitoring, updates and backups. You can also hand the site to another developer at any time, because you own everything.` },
+    { question: "What support is there after launch?", answer: `Two months of free fixes and small edits come with every build. After that, care plans start from ${P.care} and include feed monitoring, updates and backups. You can also hand the site to another developer at any time, because you own everything.` },
     { question: "How does an estate agent get mentioned in AI search answers?", answer: "AI assistants quote clear, factual passages. Area guides with concise summaries, sold-price tables, plain answers to questions like “what is the average time to sell in this town” and consistent agency details all help. No provider can guarantee a mention, but well-structured local content improves the chances." },
   ],
   related: {

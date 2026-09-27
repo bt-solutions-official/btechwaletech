@@ -55,7 +55,7 @@ const bobbili: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer price, stock, fee and appointment questions and hand over to your staff.",
     data: "Dashboards of dispatches, labour attendance, rice and mango lots traded and pending payments by buyer.",
     app: "Android and iOS apps for growth centre contractors logging attendance or schools messaging parents, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Upkeep is free for the first five months after go-live; afterwards Bobbili clients can keep us on from ₹8,000 monthly.",
+    maintenance: "Upkeep is free for the first two months after go-live; afterwards Bobbili clients can keep us on from ₹8,000 monthly.",
   },
   whyUsIntro:
     "In a town where most families know one another, a poor job travels fast by word of mouth. So we keep things visible: starting prices on our site, quotes broken into lines, WhatsApp answered seven days a week, and your name on every domain, server, code repository and app store listing. Features that will not pay back get flagged early.",
@@ -176,7 +176,7 @@ const bobbili: CityContent = {
       heading: "Ownership and maintenance for Bobbili websites and apps",
       paragraphs: [
         "From the day we start, the assets are legally and practically yours. Your email holds the domain registration, invoices for the server come to you, the source code is delivered in full, and your business is recorded as owner on the Google Business Profile and both app store developer accounts. A handover document lists every password, which means no developer, ourselves included, can ever keep you out.",
-        "The first five months after launch carry no upkeep charge. In that window we change prices and pictures, run backups, install patches and test forms, payment links and WhatsApp buttons. When it ends, choose freely: a plan with us from ₹8,000 monthly, in-house care, or a new developer who simply receives the code.",
+        "The first two months after launch carry no upkeep charge. In that window we change prices and pictures, run backups, install patches and test forms, payment links and WhatsApp buttons. When it ends, choose freely: a plan with us from ₹8,000 monthly, in-house care, or a new developer who simply receives the code.",
         "Google and Apple lift their minimum app requirements every year or so, and an app left untouched eventually drops out of the stores. We note those deadlines and push a compatible build ahead of time. On the website side, you get an early nudge before any domain or hosting renewal falls due.",
       ],
     },
@@ -273,7 +273,7 @@ const bobbili: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Months one to five after going live are covered free: content tweaks, backups, patches and routine tests of forms, UPI and WhatsApp links. From month six, a plan with us starts at ₹8,000 a month, though you are free to go elsewhere. Your code and logins are already in your hands, so leaving needs nobody's approval.",
+        "Months one to five after going live are covered free: content tweaks, backups, patches and routine tests of forms, UPI and WhatsApp links. From month three, a plan with us starts at ₹8,000 a month, though you are free to go elsewhere. Your code and logins are already in your hands, so leaving needs nobody's approval.",
     },
     {
       question: "Do you work in Salur, Rajam and Parvathipuram too?",

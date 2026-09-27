@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Ranchi · Jharkhand",
     h1: "Freelance software developers in Ranchi for CRMs, web apps, AI agents and dashboards",
     lede:
-      "Before you sign with a software development team in Ranchi, consider a freelance group of three engineers working remotely from India. BtechWaleTech builds real estate and sales CRMs, test-series platforms, NGO field systems, AI agents, WhatsApp automation, dashboards, apps and search-ready websites for businesses from Lalpur and Kanke Road to Dhurwa and Namkum, with published starting prices and five months of free maintenance.",
+      "Before you sign with a software development team in Ranchi, consider a freelance group of three engineers working remotely from India. BtechWaleTech builds real estate and sales CRMs, test-series platforms, NGO field systems, AI agents, WhatsApp automation, dashboards, apps and search-ready websites for businesses from Lalpur and Kanke Road to Dhurwa and Namkum, with published starting prices and two months of free maintenance.",
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "CRMs and dashboards", "Code owned by you", "UPI or bank transfer only"],
   },
   quickAnswer:
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that qualify property leads, read documents for CA and consultancy firms, and answer student queries in Hindi and English.",
     data: "Dashboards for sales pipelines, project progress, donor reporting and fee collection that owners and directors can read in two minutes.",
     app: "Android and iOS apps from ₹40,000 for Ranchi institutes, builders, clinics and delivery businesses, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Security updates, backups and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Security updates, backups and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Ranchi has a growing list of local software vendors and a steady stream of out-of-state agencies. Our difference is structure: three engineers, no sales layer, published starting prices, and the same people from the first call to post-launch support.",
@@ -76,7 +76,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Ranchi, or a freelance team serving the city, typically builds CRMs for sales and real estate, project and proposal trackers for consultancies and contractors, learning and test platforms for coaching institutes, field data systems for NGOs, AI and WhatsApp automation, dashboards, mobile apps and websites. The common thread is replacing Excel files, registers and WhatsApp groups with a single system that everyone trusts.",
         "Ranchi's economy has an unusual mix. As the state capital it hosts government departments and public sector headquarters such as CCL, HEC and MECON, which support a large ecosystem of consultants, contractors and suppliers. It is an education centre with IIM Ranchi, BIT Mesra and a busy coaching belt around Lalpur. It is a healthcare hub for the surrounding districts. And it has a fast-growing real estate market along Kanke Road, Bariatu and Ormanjhi. Each of these groups needs different software.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Ranchi and do not claim one; we work over WhatsApp, calls and test links. Our starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and five months of maintenance are included after launch. This page focuses on software and automation; the <a href='/ranchi/'>Ranchi city page</a> covers websites and local search in more depth.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Ranchi and do not claim one; we work over WhatsApp, calls and test links. Our starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and two months of maintenance are included after launch. This page focuses on software and automation; the <a href='/ranchi/'>Ranchi city page</a> covers websites and local search in more depth.",
       ],
     },
     {
@@ -193,16 +193,16 @@ const content: CityContent = {
       id: "maintenance-ranchi",
       heading: "Software maintenance and support after go-live",
       paragraphs: [
-        "Software maintenance keeps your system secure, backed up and aligned with how your business changes, and every BtechWaleTech project includes five months of it free after launch. That covers bug fixes, small feature adjustments, content changes, security and dependency updates, backups, uptime checks and basic SEO health checks.",
+        "Software maintenance keeps your system secure, backed up and aligned with how your business changes, and every BtechWaleTech project includes two months of it free after launch. That covers bug fixes, small feature adjustments, content changes, security and dependency updates, backups, uptime checks and basic SEO health checks.",
         "In the first months after launch, staff usually ask for small changes: a new report column, a different reminder time, an extra field on a form. These are expected and handled within the free period. We keep a change log, test on a staging copy for larger changes, and release with notes so managers know what changed.",
-        "After five months, maintenance plans start from ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week. As a remote freelance group we support software and hosting, not office hardware; a local technician in Ranchi should handle computers, printers and networks.",
+        "After two months, maintenance plans start from ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week. As a remote freelance group we support software and hosting, not office hardware; a local technician in Ranchi should handle computers, printers and networks.",
       ],
     },
     {
       id: "cost-ranchi-software",
       heading: "Software development cost in Ranchi: what do our freelance developers charge?",
       paragraphs: [
-        "Our starting prices for Ranchi projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software, CRMs, web apps or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after five free months. All are starting prices.",
+        "Our starting prices for Ranchi projects are ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹60,000 for custom software, CRMs, web apps or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after two free months. All are starting prices.",
         "Costs rise with integrations, user roles, data migration and complex reports. A CRM for five salespeople with one project is simpler than one for three projects with channel partners and payment schedules. A test platform with only multiple-choice questions is simpler than one with numerical answers, images and sectional timing. Phasing the build keeps early costs down.",
         "You receive an itemised quote in about two working days and approve it before work starts. Payment is made to us only by UPI (scan our QR code) or direct bank transfer to our bank account in INR, usually in milestones tied to approved deliverables.",
       ],
@@ -212,7 +212,7 @@ const content: CityContent = {
         "<strong>AI agent or automation:</strong> from ₹40,000, two to four weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>CRM, web app or dashboard:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Maintenance:</strong> free for five months, then from ₹8,000 a month",
+        "<strong>Maintenance:</strong> free for two months, then from ₹8,000 a month",
       ],
     },
     {
@@ -281,9 +281,9 @@ const content: CityContent = {
         "You own everything: code repository, domain, hosting account and database, registered to you or transferred at handover with documentation. No licence fees are owed to us for your own software. If you later move to another developer or an in-house team, they get full access without a release fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Bug fixes, small adjustments, content changes, security and dependency updates, backups, uptime checks and basic SEO health checks for five months after launch. After that, plans start from ₹8,000 a month, or you can pay only for specific changes when you need them.",
+        "Bug fixes, small adjustments, content changes, security and dependency updates, backups, uptime checks and basic SEO health checks for two months after launch. After that, plans start from ₹8,000 a month, or you can pay only for specific changes when you need them.",
     },
     {
       question: "What can an AI agent realistically do for a Ranchi business?",

@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Audit output", "Issue list by page, criterion and priority"],
     ["Testing", "Keyboard, NVDA, VoiceOver, TalkBack, automated scans"],
     ["Quote", "Itemised, about 2 working days"],
-    ["After launch", `5 free months, then care from ${P.care}`],
+    ["After launch", `2 free months, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers auditing and fixing your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after an accessible rebuild" },
+    { value: "2", label: "Months of free maintenance after an accessible rebuild" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What WCAG compliance work costs",
-    note: `An audit and a round of fixes on an existing site is quoted after we look at your templates, because five templates with hundreds of pages cost less to fix than fifty one-off pages. When the existing theme or builder blocks accessible markup, an accessible rebuild starts from ${P.site} for up to 100 pages, from ${P.seoSite} for larger SEO sites, from ${P.shop} for online stores, and from ${P.software} for web apps and portals. After a rebuild you get five months of free maintenance, then optional care from ${P.care} that includes accessibility checks. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.`,
+    note: `An audit and a round of fixes on an existing site is quoted after we look at your templates, because five templates with hundreds of pages cost less to fix than fifty one-off pages. When the existing theme or builder blocks accessible markup, an accessible rebuild starts from ${P.site} for up to 100 pages, from ${P.seoSite} for larger SEO sites, from ${P.shop} for online stores, and from ${P.software} for web apps and portals. After a rebuild you get two months of free maintenance, then optional care from ${P.care} that includes accessibility checks. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.`,
   },
   guideLabel: "WCAG compliance Australia guide",
   guide: [
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The cost of WCAG compliance depends on the number of distinct templates and custom components, not the page count. Audits and fixes are quoted after we look at your site; accessible rebuilds with BtechWaleTech start from ${P.site}, and local quotes vary widely depending on scope and testing depth.`,
         `A brochure site built on a few well-structured templates may need a day or two of fixes after the audit. A site on an old page builder with nested layouts, inaccessible sliders and dozens of custom forms may need so much work that a rebuild is cheaper and faster. An online store adds product filters, variant pickers, carts and checkout steps, each with its own accessibility traps; accessible store builds start from ${P.shop}. Web apps and portals with complex interactive screens start from ${P.software}.`,
-        `Remember the ongoing side. Every new page, blog post, PDF and plugin can introduce barriers, so part of the cost is training your editors and checking updates. Care after the five free months starts from ${P.care}. For a wider look at website budgets, see <a href='/australia/website-design-cost/'>how much a website costs in Australia</a>.`,
+        `Remember the ongoing side. Every new page, blog post, PDF and plugin can introduce barriers, so part of the cost is training your editors and checking updates. Care after the two free months starts from ${P.care}. For a wider look at website budgets, see <a href='/australia/website-design-cost/'>how much a website costs in Australia</a>.`,
       ],
     },
     {
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Audit on staging", "Automated scans, keyboard testing and screen-reader testing on desktop and mobile, with every issue tied to a WCAG criterion and a priority."],
       ["Fix blockers first", "Shared templates and components are fixed first, then page-level content. Each fix is retested with the same methods used in the audit."],
       ["Statement and training", "We draft your accessibility statement from the results and run a short session so your editors keep new content accessible."],
-      ["Monitor and maintain", `Scheduled scans and spot-checks after updates keep the site on track. Rebuilds include five free months, then care from ${P.care}.`],
+      ["Monitor and maintain", `Scheduled scans and spot-checks after updates keep the site on track. Rebuilds include two free months, then care from ${P.care}.`],
     ],
   },
   faqHeading: "WCAG compliance in Australia: frequently asked questions",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Is it safe to hire a WCAG compliance team in India?", answer: "Yes, when you keep control of the site. You invite us to your hosting, CMS or repository as users, we work on a staging copy, and nothing goes live without your approval. You can remove our access at any time. The audit report, fixes and statement are yours to keep and share." },
     { question: "When can we meet if your team is in India?", answer: "India is four and a half hours behind the Australian east coast on standard time and five and a half during daylight saving, so walkthrough calls fit your afternoon. Brisbane's gap is constant, and Perth clients can meet before lunch. WhatsApp messages are answered seven days a week." },
     { question: "How do Australian clients pay for accessibility work?", answer: "Quotes are in USD. Clients usually pay by Wise from an AUD account, by international bank wire or by PayPal, in stages set out in the written quote. Nothing is billed until you approve the itemised quote in writing. Invoices come from India; your accountant can advise how to record them." },
-    { question: "How do we keep the site compliant after the fixes?", answer: `Train editors on headings, link text, alt text and document accessibility, check new plugins before installing them, and run scans plus a manual spot-check after significant updates. After an accessible rebuild you get five free months of maintenance, then optional care from ${P.care} that includes these checks.` },
+    { question: "How do we keep the site compliant after the fixes?", answer: `Train editors on headings, link text, alt text and document accessibility, check new plugins before installing them, and run scans plus a manual spot-check after significant updates. After an accessible rebuild you get two free months of maintenance, then optional care from ${P.care} that includes these checks.` },
     { question: "Does the Digital Service Standard apply to my business?", answer: "The Commonwealth Digital Service Standard applies to the government services it covers, and version 2.0 requires the latest WCAG version. Private businesses are not bound by it directly, but suppliers building or running government services may find it written into their contracts. Check your contract or ask the agency you supply." },
   ],
   related: {

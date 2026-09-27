@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Three-month plan", "A short video call in your afternoon agrees priorities. The plan names pages to fix or write, listings to clean up and how leads will be tracked."],
       ["Monthly work", "Technical fixes, page improvements and citation work happen through the month, each logged with a date and the page or listing it changed."],
       ["Report you can verify", "Every month you get the task log, Search Console figures for priority pages and organic enquiries, plus open issues and next month's plan."],
-      ["Review at month six", "We look back at what moved, what did not and why, then agree whether to adjust, scale up or pause. The decision is yours."],
+      ["Review at month three", "We look back at what moved, what did not and why, then agree whether to adjust, scale up or pause. The decision is yours."],
     ],
   },
   faqHeading: "SEO services in NZ: common questions",

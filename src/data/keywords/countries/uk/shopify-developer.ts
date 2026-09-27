@@ -32,7 +32,7 @@ const content: FreelanceContent = {
   facts: [
     ["New store from", P.shop],
     ["Custom app or portal from", P.software],
-    ["Ongoing care from", `${P.care} after 5 free months`],
+    ["Ongoing care from", `${P.care} after 2 free months`],
     ["Store access", "Shopify collaborator account"],
     ["Quote", "Itemised in about 2 working days"],
     ["Billing", "USD; pay via Wise, wire or PayPal"],
@@ -41,7 +41,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers who can read your theme code" },
     { value: "2", label: "Working days to an itemised Shopify quote" },
     { value: "0", label: "Owner passwords we ask you to share" },
-    { value: "5", label: "Months of free fixes after a new build" },
+    { value: "2", label: "Months of free fixes after a new build" },
   ],
   answer: {
     heading: "How do you hire a Shopify developer in the UK without paying agency rates?",
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Store access", value: "Collaborator request you approve and can revoke" },
       { label: "UK settings covered", value: "VAT-inclusive prices, Shopify Payments, shipping profiles" },
       { label: "Working hours", value: "Your morning overlaps our afternoon and evening" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Magento or WooCommerce move", note: "Products, customers, orders and redirects carried across so rankings and repeat buyers survive the switch.", href: "/uk/magento-to-shopify-migration/", size: "md" },
       { name: "Store SEO", note: `Collection structure, product schema, Merchant Center feed and content, with monthly plans from ${P.seo}.`, href: "/uk/ecommerce-seo-services/", size: "sm" },
       { name: "Order automation", note: `Order alerts, stock sync and customer replies automated with AI and scripts, from ${P.ai}.`, href: "/uk/ai-automation-agency-alternative/", size: "sm" },
-      { name: "Care and fixes", note: `Theme updates, app checks and small edits from ${P.care}, after five free months on new builds.`, size: "sm" },
+      { name: "Care and fixes", note: `Theme updates, app checks and small edits from ${P.care}, after two free months on new builds.`, size: "sm" },
     ],
   },
   comparison: {
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
         "Short video or notes on editing new sections yourself",
       ],
       after: [
-        `New builds get five months of free maintenance; after that care is optional from ${P.care}. Ready to talk about your store? <a href='/contact/'>Send us the store address</a> and a line about what is wrong or missing.`,
+        `New builds get two months of free maintenance; after that care is optional from ${P.care}. Ready to talk about your store? <a href='/contact/'>Send us the store address</a> and a line about what is wrong or missing.`,
       ],
     },
   ],
@@ -373,12 +373,12 @@ const content: FreelanceContent = {
     { question: "Do you build Shopify Plus stores?", answer: "We can work on Plus stores for defined jobs, such as theme work or a custom app, but large Plus programmes with multiple expansion stores and heavy checkout customisation are not our focus. A specialist UK Plus agency with a bigger team is often the better choice there." },
     { question: "Will I own the custom app code?", answer: "Yes. Custom app code sits in a repository in your account, hosting is set up in your name, and the app is installed on your store only. If you later change developers, they get the repository and hosting details from you. We do not keep your app on our own servers." },
     { question: "Can you make my Shopify store faster?", answer: "Usually, yes. We audit installed apps and scripts, remove leftover code from uninstalled apps, defer non-essential scripts, optimise images and test product pages against Google’s Core Web Vitals thresholds. If the theme itself is the bottleneck, we tell you plainly and quote a rebuild instead." },
-    { question: "Do you offer a monthly Shopify retainer?", answer: `We offer a maintenance plan from ${P.care} covering theme and app checks, updates and small edits. Larger requests are quoted separately so costs stay visible. New builds include five months of free maintenance first, so you can see what you actually need before committing to anything.` },
+    { question: "Do you offer a monthly Shopify retainer?", answer: `We offer a maintenance plan from ${P.care} covering theme and app checks, updates and small edits. Larger requests are quoted separately so costs stay visible. New builds include two months of free maintenance first, so you can see what you actually need before committing to anything.` },
     { question: "Can a Shopify developer improve my SEO?", answer: "A developer fixes the technical side: clean collection structure, unique titles, product structured data, a correct Merchant Center feed and fast pages. Rankings also depend on content, links and competition, and nobody can promise positions. Our monthly SEO plans handle the ongoing content and reporting side." },
     { question: "Will my products show in Google Shopping for free?", answer: "They can. Google’s free listings let products appear across Search, the Shopping tab, Images and other surfaces at no cost, provided your Merchant Center feed is accurate and approved. Appearance is not guaranteed. We connect Shopify’s Google channel and fix feed errors as part of a build." },
     { question: "How do I pay a Shopify developer in India from the UK?", answer: "Our invoices are in USD. UK clients usually pay from a GBP account through Wise, which shows the exchange rate upfront, or by bank wire or PayPal. Payment follows the milestones in the written quote you approved. Your Shopify subscription and app fees are paid directly to Shopify, never through us." },
     { question: "Can you work with my existing UK agency or marketing team?", answer: "Yes. Many stores have an in-house marketer or a UK agency handling ads and content while we handle code. We work on a duplicate theme, share previews, and keep a change log so everyone knows what changed. Agencies can also engage us on a white-label basis with confidentiality agreed in writing." },
-    { question: "What happens if something breaks after you finish?", answer: "New builds include five months of free maintenance, so issues caused by our work are fixed at no charge. Because every change is logged and the previous theme is kept unpublished, we can roll back quickly if needed. After the free period, fixes are covered by a care plan or quoted per task." },
+    { question: "What happens if something breaks after you finish?", answer: "New builds include two months of free maintenance, so issues caused by our work are fixed at no charge. Because every change is logged and the previous theme is kept unpublished, we can roll back quickly if needed. After the free period, fixes are covered by a care plan or quoted per task." },
     { question: "Is a remote Shopify developer a good idea for a small UK brand?", answer: "It suits brands comfortable with WhatsApp and video calls who want lower costs and a small team that knows their store. It suits less well if you need someone in your studio for photography or regular in-person workshops. Store ownership and access stay with you either way." },
   ],
   related: {

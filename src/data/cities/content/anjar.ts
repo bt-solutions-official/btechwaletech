@@ -56,7 +56,7 @@ const anjar: CityContent = {
     ai: "WhatsApp assistants in Gujarati and Hindi that answer rate, stock and availability questions and log orders.",
     data: "Dashboards of trips, vendor bills pending, job status and product sales by city.",
     app: "Android and iOS apps for transport fleets, contract-labour attendance or craft re-orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kutch business runs on trust and long relationships. We publish starting prices, send a written itemised quote, answer WhatsApp every day and register your domain, hosting, code and app store accounts in your name. When a cheaper option will do the job, we tell you before you spend more.",
@@ -187,7 +187,7 @@ const anjar: CityContent = {
       heading: "Ownership and maintenance for Anjar websites and apps",
       paragraphs: [
         "We register the domain, hosting, source code, Google Business Profile and any Play Store or App Store developer accounts in your name, and hand over all logins in writing. For companies, accounts are set up under the company, not an individual employee who may leave.",
-        "Maintenance is free for five months after launch, covering content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another provider at any time.",
+        "Maintenance is free for two months after launch, covering content and rate updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another provider at any time.",
         "Apps need yearly updates because Google and Apple change their rules. We track those changes and update your app in time so it remains in the stores.",
       ],
     },
@@ -275,7 +275,7 @@ const anjar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue. You can take your code to another developer whenever you like.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue. You can take your code to another developer whenever you like.",
     },
     {
       question: "Do you work in Bhuj, Mandvi and other Kutch towns too?",

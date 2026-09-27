@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers jo cleanup aur hardening karte hain" },
     { value: "7", label: "Din hafte WhatsApp par jawab, emergency mein bhi" },
-    { value: "5", label: "Mahine ki free maintenance, naye build par" },
+    { value: "2", label: "Mahine ki free maintenance, naye build par" },
     { value: "2", label: "Working din mein line-by-line quote, baaki kaam ke liye" },
   ],
   answer: {
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Safai ke baad asli kaam hai darwaze band karna. Sab kuch updated rakhiye, istemal na hone wale plugins aur themes hataiye, har user ko alag login aur sirf zaroori permission dijiye, two-factor login on rakhiye, aur purane developers ke access hataiye. Dashboard se code editing band kijiye aur SFTP use kijiye.`,
         `Backups ko regular aur offsite rakhiye, yaani hosting se alag jagah, aur mahine mein ek baar restore karke check kijiye. Uptime monitoring aur Search Console ke email alerts on rakhiye taaki agli baar problem ka pata ghanton mein chale, hafton mein nahi. Web application firewall bhi ek parat hai, par updates ki jagah nahi le sakta.`,
-        `Yeh kaam aap khud bhi kar sakte hain, ya hamare maintenance plan mein ${P.care} se. Naye build par pehle 5 mahine yeh free hota hai. Saalana kharche mein security ka hissa kitna rakhein, yeh <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a> page par hai; wahan yeh bhi hai ki kaunse kharche kabhi band nahi karne chahiye.`,
+        `Yeh kaam aap khud bhi kar sakte hain, ya hamare maintenance plan mein ${P.care} se. Naye build par pehle 2 mahine yeh free hota hai. Saalana kharche mein security ka hissa kitna rakhein, yeh <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a> page par hai; wahan yeh bhi hai ki kaunse kharche kabhi band nahi karne chahiye.`,
       ],
     },
     {

@@ -57,7 +57,7 @@ const shahade: CityContent = {
     ai: "WhatsApp assistants that reply in Marathi, Gujarati or Hindi about rates, OPD timings and admissions, then hand real decisions to you.",
     data: "Season dashboards showing daily arrivals, rates paid, dues by farmer and dispatch by buyer city.",
     app: "Android and iOS apps for field buyers booking papaya and banana lots or for a hospital's patient tokens, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No upkeep charge for five months after launch; from ₹8,000 a month after that for edits, backups and security fixes.",
+    maintenance: "No upkeep charge for two months after launch; from ₹8,000 a month after that for edits, backups and security fixes.",
   },
   whyUsIntro:
     "Shahade traders deal in lots, weights and rates, and they like to see a figure written down before agreeing to anything. That suits us. Our starting prices are public, every quote is split into line items, WhatsApp is answered daily, and the domain, hosting, code and store accounts are registered to you from the first day.",
@@ -177,7 +177,7 @@ const shahade: CityContent = {
       heading: "Your accounts, your code, and upkeep after launch",
       paragraphs: [
         "Everything we build for a Shahade client is registered to the client. The domain is booked on your email, hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written sheet of every login, so no developer, including us, can hold your site back if you move on.",
-        "For five months after launch, upkeep costs nothing: price and photo edits, backups, security updates and regular checks that forms, UPI checkout and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can manage it yourself or hand it to someone else.",
+        "For two months after launch, upkeep costs nothing: price and photo edits, backups, security updates and regular checks that forms, UPI checkout and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, or you can manage it yourself or hand it to someone else.",
         "Apps need a yearly rebuild even when nothing is broken, because Google and Apple keep raising their minimum requirements. We watch those deadlines so your app is not removed from the store for being out of date. We also work across Nandurbar, Taloda, Dondaicha, Shirpur and Dhule, writing separate pages only where you actually have a branch or delivery.",
       ],
     },
@@ -250,7 +250,7 @@ const shahade: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You are free to manage the site yourself or move to another developer, since you already hold every login.",
+        "The first two months after launch are free: content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You are free to manage the site yourself or move to another developer, since you already hold every login.",
     },
     {
       question: "Do you work in Nandurbar, Taloda, Dondaicha and Shirpur too?",

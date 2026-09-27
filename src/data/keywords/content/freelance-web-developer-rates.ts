@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Website from", `${P.site} · ${P.siteUsd}`],
     ["Quote turnaround", "About 2 working days"],
     ["Line items", "Every feature priced separately"],
-    ["Monthly care", `From ${P.care} after 5 free months`],
+    ["Monthly care", `From ${P.care} after 2 free months`],
     ["Payment", "UPI, bank transfer, Wise, wire, PayPal"],
   ],
   stats: [
     { value: "0", label: "Platform fees added on top" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of maintenance included free" },
+    { value: "2", label: "Months of maintenance included free" },
     { value: "100", label: "Pages covered by the static plan" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Static website", value: `From ${P.site} (${P.siteUsd} abroad)` },
       { label: "Custom web app", value: `From ${P.software} (${P.softwareUsd} abroad)` },
       { label: "Monthly SEO", value: `From ${P.seo}` },
-      { label: "Maintenance", value: `5 months free, then from ${P.care}` },
+      { label: "Maintenance", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Android & iOS app", note: `From ${P.app}: one Flutter or React Native codebase, published in your store accounts. Store fees are paid by you directly.`, href: "/it-services/android-ios-app/", size: "md" },
       { name: "AI automation", note: `From ${P.ai}: bots and workflows on your tools. Ongoing AI API usage is billed to your account, so you see the real cost.`, href: "/ai-automation-freelancer/", size: "sm" },
       { name: "Monthly SEO retainer", note: `From ${P.seo}: technical fixes, content and Search Console reporting each month, with no ranking promises.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Maintenance retainer", note: `From ${P.care} once the 5 free months end: updates, backups, fixes and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance retainer", note: `From ${P.care} once the 2 free months end: updates, backups, fixes and small edits.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Platform or middleman fees", "Marketplace fees on top", "Overheads built into the rate", "None"],
       ["Changing scope midway", "Easy, just more hours", "Formal change request", "New line added and approved in writing"],
       ["Paying for learning time", "Possible, if the stack is new to them", "Absorbed in the rate", "Quote lists deliverables, not hours of learning"],
-      ["Support after launch", "More hours", "Retainer contract", "5 months free, then from " + P.care],
+      ["Support after launch", "More hours", "Retainer contract", "2 months free, then from " + P.care],
       ["Currency", "Usually USD on platforms", "Varies", "INR in India, USD abroad"],
     ],
     fine: "Hourly billing is the fairer model for vague or research-heavy work; if you cannot describe the scope yet, a short paid discovery phase or an hourly arrangement with a cap is more honest than a project price.",
@@ -125,7 +125,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "A sensible middle path", text: "Pay for a short discovery phase to write the scope, then move to a project price for the build. You spend a little to avoid guessing a lot." },
         { heading: "If you do pay hourly", text: "Ask for a weekly cap, a time log with task names, and an estimate range before each chunk of work. Stop and review if the range is exceeded." },
-        { heading: "How we handle it", text: "Builds are always quoted per project. Small edits after launch are covered by the free five months and then by the maintenance plan, so hourly billing rarely comes up." },
+        { heading: "How we handle it", text: "Builds are always quoted per project. Small edits after launch are covered by the free two months and then by the maintenance plan, so hourly billing rarely comes up." },
       ],
     },
     {
@@ -158,7 +158,7 @@ const content: FreelanceContent = {
       heading: "Freelance web developer rates by project type",
       paragraphs: [
         `Here are our own starting rates, so you have firm reference points instead of market guesses. A static website of up to 100 pages starts at ${P.site} and takes 1–2 weeks. An SEO website with 299+ pages starts at ${P.seoSite} and takes 3–5 weeks. An online store starts at ${P.shop} over 4–8 weeks. A custom web app or software starts at ${P.software} over 6–12 weeks. An Android and iOS app starts at ${P.app} over 6–10 weeks, and AI automation from ${P.ai} over 2–4 weeks.`,
-        `Ongoing work is monthly: SEO from ${P.seo} and maintenance from ${P.care}, the latter only after five months of free maintenance post-launch. None of these is a package price; each is the floor from which your itemised quote is built. For a longer explanation by website type, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
+        `Ongoing work is monthly: SEO from ${P.seo} and maintenance from ${P.care}, the latter only after two months of free maintenance post-launch. None of these is a package price; each is the floor from which your itemised quote is built. For a longer explanation by website type, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
     {
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After launch, most websites need a small amount of regular work: updates, backups, fixes, new content and, for businesses chasing search traffic, ongoing SEO. A retainer turns that into a predictable monthly cost instead of a series of small invoices.`,
         `A good retainer defines what is included each month, how requests are sent, how quickly they are picked up, and what happens to unused effort. Vague retainers breed disputes, so read the list of inclusions more carefully than the amount.`,
-        `Our maintenance retainer starts at ${P.care}, but only after five months of free maintenance that begins at launch. Monthly SEO starts at ${P.seo} and includes technical fixes, content work and Google Search Console reporting. Nobody can guarantee rankings, and we do not promise them. See <a href='/part-time-web-developer/'>part-time and ongoing developer help</a> for other ongoing arrangements.`,
+        `Our maintenance retainer starts at ${P.care}, but only after two months of free maintenance that begins at launch. Monthly SEO starts at ${P.seo} and includes technical fixes, content work and Google Search Console reporting. Nobody can guarantee rankings, and we do not promise them. See <a href='/part-time-web-developer/'>part-time and ongoing developer help</a> for other ongoing arrangements.`,
       ],
     },
     {
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       heading: "Freelance web developer kitna charge karta hai? Seedha jawab",
       paragraphs: [
         `Har developer ka rate alag hota hai, kyunki koi design, content aur support shaamil karta hai aur koi nahi. Isliye sirf total mat dekhiye; har quote mein kya-kya shaamil hai, woh line by line milaiye.`,
-        `Hum ghante ke hisaab se nahi, project ke hisaab se quote karte hain. Simple website ${P.site} se, SEO website ${P.seoSite} se aur online store ${P.shop} se shuru hota hai. Quote lagbhag 2 working days mein milta hai, approval ke baad hi payment hota hai, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Hum ghante ke hisaab se nahi, project ke hisaab se quote karte hain. Simple website ${P.site} se, SEO website ${P.seoSite} se aur online store ${P.shop} se shuru hota hai. Quote lagbhag 2 working days mein milta hai, approval ke baad hi payment hota hai, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -320,7 +320,7 @@ const content: FreelanceContent = {
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Project, milestones"],
         ["AI automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Project, milestones"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Monthly retainer"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Monthly retainer"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Monthly retainer"],
       ],
       hideSm: [2],
     },
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Trim or add lines", "Remove anything you can postpone, add anything the brief missed, and watch the total change line by line before you commit."],
       ["Approve in writing", "Nothing is billed until you approve the final scope in writing. Payments then follow milestones you can see on a staging link."],
       ["Pay by milestone", "UPI or bank transfer in India; Wise, bank wire or PayPal for international clients. Each payment matches visible progress."],
-      ["Know the monthly cost after launch", "Five months of maintenance are free. After that, care starts from " + P.care + " and SEO from " + P.seo + ", only if you want them."],
+      ["Know the monthly cost after launch", "Two months of maintenance are free. After that, care starts from " + P.care + " and SEO from " + P.seo + ", only if you want them."],
     ],
   },
   faqHeading: "Freelance web developer rates: questions people ask",
@@ -381,12 +381,12 @@ const content: FreelanceContent = {
     { question: "Is it better to pay a web developer hourly or per project?", answer: "Pay per project when you can describe the scope: pages, features, content and deadline. The total is known and slow work is the developer’s problem, not yours. Pay hourly when the work is open-ended, such as debugging an old site. If you choose hourly, set a weekly cap and ask for time logs with task names." },
     { question: "Why do freelance web developer quotes vary so much?", answer: "Most of the difference comes from scope, not greed. One quote may include custom design, content writing, SEO setup, testing on real phones and months of support; another may cover only a theme install. Experience, technology choice and urgency also matter. Put every quote into the same comparison sheet before deciding which is expensive." },
     { question: "How do I compare quotes from different web developers?", answer: "Send the same written brief to everyone. Then list every deliverable in rows, such as page designs, total pages, content, features, SEO setup, support and ownership, with one column per quote. Mark each cell included, excluded or unclear, ask developers to clarify, and add the cost of missing items before comparing totals." },
-    { question: "Are your freelance web developer rates charged by the hour?", answer: "No, we quote builds per project with an itemised breakdown and milestone payments. Small edits after launch are covered by five months of free maintenance, and then by the optional maintenance plan starting at the published monthly rate. If a task is genuinely open-ended, we agree the approach in writing with the quote before starting." },
+    { question: "Are your freelance web developer rates charged by the hour?", answer: "No, we quote builds per project with an itemised breakdown and milestone payments. Small edits after launch are covered by two months of free maintenance, and then by the optional maintenance plan starting at the published monthly rate. If a task is genuinely open-ended, we agree the approach in writing with the quote before starting." },
     { question: "Are freelance web developer rates lower in India than in the USA or UK?", answer: "Generally yes, mainly because of living costs and local market levels. The tools, frameworks and hosting are the same, so a well-built site from India can match one built abroad. International clients should focus on controls: written scope, milestone payments, overlap hours and code and accounts in their own name." },
     { question: "What do you charge international clients?", answer: `International clients are billed in USD. Starting prices include ${P.siteUsd} for a static website, ${P.shopUsd} for an online store and ${P.softwareUsd} for a custom web app. Payments go through Wise, bank wire or PayPal, and calls are scheduled in overlapping hours. The scope and process are the same as for clients in India.` },
     { question: "Does a website quote include domain and hosting?", answer: "Usually not, and it should not be hidden if it does. Domain, hosting, business email, premium plugins and similar services are paid to their providers. We set them up in your name, paid from your own card, so there is no mark-up. Your quote lists which of these your project needs and how they renew." },
     { question: "Should a freelance web developer charge GST?", answer: "A GST-registered freelancer adds GST to invoices for Indian clients, and registered businesses can usually claim input credit. Freelancers below the registration threshold may not charge it, which makes their rate look lower. Always ask whether a quote includes tax and what invoice you will receive; our written quote states this for your case." },
-    { question: "What is a fair rate for website maintenance?", answer: `A fair maintenance rate depends on what is included: updates, backups, security checks, uptime alerts and a set amount of edits each month. Read the inclusions before the amount. With BtechWaleTech, maintenance is free for five months after launch and then starts at ${P.care} per month, only if you choose to continue.` },
+    { question: "What is a fair rate for website maintenance?", answer: `A fair maintenance rate depends on what is included: updates, backups, security checks, uptime alerts and a set amount of edits each month. Read the inclusions before the amount. With BtechWaleTech, maintenance is free for two months after launch and then starts at ${P.care} per month, only if you choose to continue.` },
     { question: "Are freelance web developer rates higher on marketplaces than hiring directly?", answer: "They can be, because marketplaces such as Upwork and Fiverr charge fees that are built into rates or added to payments. In return you get escrow and dispute features. Hiring directly removes the fees; replace the escrow with a written scope, milestone payments tied to visible work and accounts in your name from day one." },
     { question: "Why is a cheap web developer sometimes more expensive?", answer: "Very low quotes can rely on pirated themes, skip backups and mobile testing, end support at launch or register the domain in the developer’s name. Each shortcut moves cost to you later, through a hacked site, lost domain or early rebuild. Low budgets are fine when the scope is written, ownership is yours and payments follow milestones." },
     { question: "How can I get lower freelance web developer rates without losing quality?", answer: "Change scope rather than asking for a discount on the same work. Launch with fewer pages, supply final text and photos, reuse one layout for similar pages, postpone features such as logins or multiple languages, and keep one decision-maker. With an itemised quote you can see what each change saves before you decide." },
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want freelance web developer rates you can compare line by line?",
-    note: `Send your brief on WhatsApp and get an itemised quote in about two working days. Websites start at ${P.site}, every line is priced separately, accounts stay in your name and maintenance is free for five months after launch.`,
+    note: `Send your brief on WhatsApp and get an itemised quote in about two working days. Websites start at ${P.site}, every line is priced separately, accounts stay in your name and maintenance is free for two months after launch.`,
   },
 };
 

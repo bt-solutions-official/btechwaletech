@@ -56,7 +56,7 @@ const barpeta: CityContent = {
     ai: "WhatsApp assistants that reply in Assamese, Bengali or Hindi about prices, stock, OPD days and admissions, then hand real decisions to you.",
     data: "Dashboards that show sales by haat day, dues by retailer and seasonal demand around Doul, Bihu and the wedding months.",
     app: "Android and iOS apps from ₹40,000 for jewellery order tracking, clinic tokens or school notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups, security patches and app updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups, security patches and app updates.",
   },
   whyUsIntro:
     "Barpeta families tend to buy from people they know, and they remember who kept a promise. We cannot meet you at the satra gate, so we make everything else checkable: published starting prices, a written itemised quote, WhatsApp replies every day of the week, and every domain, hosting and store account registered in your own name.",
@@ -197,7 +197,7 @@ const barpeta: CityContent = {
       heading: "Who owns your website and app, and what happens after launch",
       paragraphs: [
         "Everything we build for a Barpeta client is registered to that client. The domain sits on your email address, hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. A written handover sheet records every login, so nobody, including us, can lock you out later.",
-        "The first five months after launch are covered by free maintenance. In that period we update prices and photographs, take backups, apply security and software updates, and periodically test that your enquiry forms, UPI payments and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage the site yourself, or give the code to another developer without asking anyone's permission.",
+        "The first two months after launch are covered by free maintenance. In that period we update prices and photographs, take backups, apply security and software updates, and periodically test that your enquiry forms, UPI payments and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage the site yourself, or give the code to another developer without asking anyone's permission.",
         "Apps need attention even when nothing is broken, because Google and Apple raise their minimum requirements every year. We track those deadlines and ship updates in time, so your app stays listed. Websites need less, but festival updates before Doul, Bihu and the wedding season are worth planning, since that is when Barpeta customers search most.",
       ],
     },
@@ -280,7 +280,7 @@ const barpeta: CityContent = {
     {
       question: "What maintenance do I get after my Barpeta website goes live?",
       answer:
-        "Five months of maintenance come free after launch: content edits, price and photo changes, backups, security updates, and checks that forms, payments and WhatsApp links still work. After that you can continue from ₹8,000 a month or take it in-house. Since you already own the code and accounts, switching developers needs nobody's permission.",
+        "Two months of maintenance come free after launch: content edits, price and photo changes, backups, security updates, and checks that forms, payments and WhatsApp links still work. After that you can continue from ₹8,000 a month or take it in-house. Since you already own the code and accounts, switching developers needs nobody's permission.",
     },
     {
       question: "Do you also work in Barpeta Road, Howly, Pathsala and Sarthebari?",

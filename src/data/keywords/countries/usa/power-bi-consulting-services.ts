@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Sources we connect", "QuickBooks Online, Excel, SharePoint, SQL Server, Dynamics, HubSpot"],
     ["Licences", "Bought by you from Microsoft; we advise, we do not resell"],
     ["Billing", "USD · wire, Wise, PayPal"],
-    ["After handover", `5 months free fixes, then from ${P.care}`],
+    ["After handover", `2 months free fixes, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers, one of whom leads data and BI work" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after handover" },
+    { value: "2", label: "Months of free fixes after handover" },
     { value: "0", label: "Licence markups: Microsoft bills you directly" },
   ],
   answer: {
@@ -92,7 +92,7 @@ const content: FreelanceContent = {
       ["Documentation", "Usually thorough", "Varies widely", "Measure notes, data diagram, recorded training"],
       ["Platform fees", "None", "Marketplace fees built into rates", "None"],
       ["Call hours", "US business hours", "Depends on the person", "US Eastern mornings, WhatsApp all week"],
-      ["After handover", "Retainer typical", "Rehire as needed", `5 months free fixes, then optional care from ${P.care}`],
+      ["After handover", "Retainer typical", "Rehire as needed", `2 months free fixes, then optional care from ${P.care}`],
     ],
     fine: "If you need on-site workshops across several US offices or a formal Microsoft partner designation for procurement, a larger consultancy is the better choice; we suit teams that want a model built properly and handed over.",
   },
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A proper handover leaves you with a documented model, a measure library with descriptions, a refresh and gateway runbook, a licence register and recorded training on your own data. The goal is that a new analyst can make a safe change in their first week without calling us.`,
         `Training is where we spend more time than most clients expect. We run three short sessions over Teams in your morning. The first, for report editors, covers adding a page, using existing measures and publishing through the app. The second, for viewers, covers filters, drill-through, exporting and subscribing to email snapshots. The third, for whoever manages Microsoft 365, covers assigning licences, workspace roles, gateway admins and what to check when a refresh fails. Each session is recorded and stored in your SharePoint.`,
-        `Documentation lives next to the model: a diagram, a measure list exported from the model, a data-source register with owners, and a one-page “how to fix a failed refresh” note. After handover, fixes are free for five months. After that, a care plan from ${P.care} is optional; many small businesses find they need us only when they add a new source.`,
+        `Documentation lives next to the model: a diagram, a measure list exported from the model, a data-source register with owners, and a one-page “how to fix a failed refresh” note. After handover, fixes are free for two months. After that, a care plan from ${P.care} is optional; many small businesses find they need us only when they add a new source.`,
       ],
     },
     {
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Set up guest access", "Your admin invites our named accounts as guests with limited workspace roles. Gateway and database credentials are entered by your staff, not shared in chat."],
       ["Build and reconcile the model", "We shape sources in Power Query, build the star schema and measures, and reconcile a closed month with your controller before designing pages."],
       ["Publish, secure and test", "Reports are published through an app, row-level security roles are tested with real sign-ins, and scheduled refresh runs for a week with alerts."],
-      ["Train and hand over", "Three recorded sessions, a model diagram, measure list and refresh runbook. Fixes are free for five months; care plans are optional afterwards."],
+      ["Train and hand over", "Three recorded sessions, a model diagram, measure list and refresh runbook. Fixes are free for two months; care plans are optional afterwards."],
     ],
   },
   faqHeading: "Power BI consulting services: questions US businesses ask",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "What training do you provide at handover?", answer: "Three recorded sessions on your own model: one for report editors on adding pages and publishing, one for viewers on filters, drill-through and subscriptions, and one for the Microsoft 365 admin on licences, workspace roles, gateway admins and failed refreshes. Recordings and written notes stay in your SharePoint." },
     { question: "What time zone do you work in for US clients?", answer: "We are in India, which is nine and a half hours ahead of US Eastern time in summer and ten and a half in winter. Calls happen in your morning, our evening. Work done during our day is ready for review when yours starts, and WhatsApp messages get answers seven days a week." },
     { question: "How do US companies pay for Power BI consulting services?", answer: "You receive an itemised quote in USD and pay approved milestones by bank wire, Wise or PayPal. Invoices come from India; your accountant can advise how to book them. Nothing is billed before you approve the quote in writing, and Microsoft licences are always paid by you directly to Microsoft." },
-    { question: "What happens after the project ends?", answer: `Fixes are free for five months after handover. After that, an optional care plan starts at ${P.care} and covers refresh monitoring, gateway updates, new sources and small report changes. Many small businesses only call us back when they add a new system, because the training and documentation cover day-to-day changes.` },
+    { question: "What happens after the project ends?", answer: `Fixes are free for two months after handover. After that, an optional care plan starts at ${P.care} and covers refresh monitoring, gateway updates, new sources and small report changes. Many small businesses only call us back when they add a new system, because the training and documentation cover day-to-day changes.` },
   ],
   related: {
     heading: "Related services for US businesses",

@@ -7,7 +7,7 @@ const surat: CityContent = {
   meta: {
     title: "IT Services in Surat: Websites, Apps, SEO & AI",
     description:
-      "Websites, catalogues, SEO and WhatsApp automation for Surat textile, diamond and trading firms. Sites from ₹10,000, stores from ₹50,000, five months' upkeep free.",
+      "Websites, catalogues, SEO and WhatsApp automation for Surat textile, diamond and trading firms. Sites from ₹10,000, stores from ₹50,000, two months' upkeep free.",
     keywords: [
       "website development team in Surat",
       "web design team Surat",
@@ -31,11 +31,11 @@ const surat: CityContent = {
     eyebrow: "Surat · Gujarat",
     h1: "Web, app, SEO and automation services for Surat's textile, diamond and trading firms",
     lede:
-      "A remote team of three engineers building websites, B2B catalogues, online stores and WhatsApp automation for Ring Road textile traders, Sachin and Pandesara mills, Varachha diamond units, Hazira suppliers and Surat's shops and clinics. Starting prices are public, you deal directly with the developers, and maintenance is free for five months after launch.",
+      "A remote team of three engineers building websites, B2B catalogues, online stores and WhatsApp automation for Ring Road textile traders, Sachin and Pandesara mills, Varachha diamond units, Hazira suppliers and Surat's shops and clinics. Starting prices are public, you deal directly with the developers, and maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Gujarati and Hindi SEO", "Saree and fabric catalogues", "WhatsApp order flows", "Custom web apps"],
   },
   quickAnswer:
-    "A website for a Surat business costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000, typically ready in one to five weeks. B2B catalogues and online stores start at ₹50,000, custom web apps at ₹60,000. We are a remote team of three engineers, and every project comes with five months of free maintenance.",
+    "A website for a Surat business costs from ₹10,000 with us, and a 299+ page SEO website from ₹20,000, typically ready in one to five weeks. B2B catalogues and online stores start at ₹50,000, custom web apps at ₹60,000. We are a remote team of three engineers, and every project comes with two months of free maintenance.",
   snapshot: [
     { label: "Textile trade", value: "Wholesale markets along Ring Road, including New Textile Market and Millennium Textile Market" },
     { label: "Textile production", value: "Weaving, dyeing and processing units in Udhna, Pandesara and Sachin GIDC" },
@@ -52,10 +52,10 @@ const surat: CityContent = {
     ai: "WhatsApp assistants that share catalogues, answer rate and stock questions in Gujarati, Hindi or English and log every order.",
     data: "Sales, dispatch and outstanding-payment data from Tally or Busy turned into dashboards an owner can check on a phone.",
     app: "Android and iOS apps for textile resellers, agents and field staff on ordinary phones, built in Flutter or React Native and released on both stores.",
-    maintenance: "Catalogue updates, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Catalogue updates, backups, security fixes and speed checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Surat has many website makers, from agencies in Adajan and Vesu to relatives who can set up a free site in an afternoon. What most don't offer is a published price, full ownership in your name and quick replies long after launch. We do all three, and we look after your site free for five months after it goes live.",
+    "Surat has many website makers, from agencies in Adajan and Vesu to relatives who can set up a free site in an afternoon. What most don't offer is a published price, full ownership in your name and quick replies long after launch. We do all three, and we look after your site free for two months after it goes live.",
   pricingIntro:
     "Surat businesses are careful with money, and they should be. Quotes for similar websites vary a lot and rarely come itemised. These are our real starting prices. Your final quote depends on pages, products and features, and you see every line before work begins.",
   sections: [
@@ -182,11 +182,11 @@ const surat: CityContent = {
     },
     {
       id: "ownership-maintenance-surat",
-      heading: "Ownership in your name and five months of free maintenance",
+      heading: "Ownership in your name and two months of free maintenance",
       paragraphs: [
         "Many Surat firms have been caught out by websites they don't control. A developer registered the domain in his own name, the hosting expired during the wedding season, or the catalogue cannot be updated because nobody has the login. For a trader who relies on online enquiries, that costs real business.",
         "We avoid this from the first day. The domain and hosting are registered in your name, and at launch you receive every login, the full source code and a short note on how the setup works. You can move to another developer at any time with no exit fee.",
-        "For five months after launch, maintenance is free: catalogue and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch, maintenance is free: catalogue and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
       ],
     },
   ],
@@ -271,9 +271,9 @@ const surat: CityContent = {
         "Yes. The domain and hosting are in your name, and at launch you get every login and the full source code. You can move to another developer whenever you want, with no exit fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "For five months after launch we handle catalogue and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle catalogue and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work with businesses in Navsari, Bharuch, Ankleshwar and Vapi?",

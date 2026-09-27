@@ -56,7 +56,7 @@ const kothagudem: CityContent = {
     ai: "WhatsApp assistants that answer in Telugu or English about rates, stock, fees and slots, and send the real decisions to you.",
     data: "Dashboards of work orders, running bills, vehicle hours, attendance and pending payments for contract firms.",
     app: "Android and iOS apps from ₹40,000 for site supervisors to log attendance and vehicle hours or for patients to book tokens, on Google Play and the App Store.",
-    maintenance: "No charge for upkeep during the first five months after launch; afterwards care plans begin at ₹8,000 a month.",
+    maintenance: "No charge for upkeep during the first two months after launch; afterwards care plans begin at ₹8,000 a month.",
   },
   whyUsIntro:
     "Kothagudem's contractors and traders are used to tenders, work orders and bills that have to match to the last rupee. We bring the same discipline: starting prices published openly, a quote broken into clear parts, WhatsApp replies on every day of the week, and domains, hosting, code and store accounts registered to you rather than to us.",
@@ -175,7 +175,7 @@ const kothagudem: CityContent = {
       heading: "Ownership, handover and ongoing support for Kothagudem clients",
       paragraphs: [
         "A common complaint in the district is a website that went dark because the developer held the domain under his own account and later could not be reached. We rule that out. Your domain, hosting, source code, Google Business Profile and both app store developer accounts are opened in your name, and every password is handed over in writing.",
-        "The first five months after launch come with free upkeep: content and price edits, backups, security and software updates, and routine checks on forms, UPI links and WhatsApp buttons. After that, a care plan is ₹8,000 a month onwards if you want it, and you are free to take your files to any other developer.",
+        "The first two months after launch come with free upkeep: content and price edits, backups, security and software updates, and routine checks on forms, UPI links and WhatsApp buttons. After that, a care plan is ₹8,000 a month onwards if you want it, and you are free to take your files to any other developer.",
         "Google and Apple revise their app store policies every year. We follow those changes and push the required updates on time, so your app stays listed.",
       ],
     },
@@ -267,7 +267,7 @@ const kothagudem: CityContent = {
     {
       question: "What support do I get after my Kothagudem website goes live?",
       answer:
-        "Upkeep is free for five months after launch, covering edits, backups, security updates and checks on forms and payments. After that, a care plan is ₹8,000 a month onwards if you want it. All accounts are in your name, so moving to another developer later needs nobody's permission.",
+        "Upkeep is free for two months after launch, covering edits, backups, security updates and checks on forms and payments. After that, a care plan is ₹8,000 a month onwards if you want it. All accounts are in your name, so moving to another developer later needs nobody's permission.",
     },
     {
       question: "Do you work in Palvancha, Bhadrachalam and Khammam too?",

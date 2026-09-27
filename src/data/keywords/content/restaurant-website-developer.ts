@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Online ordering from", `${P.shop} · ${P.shopUsd}`],
     ["Menu site live in", "1–2 weeks"],
     ["Customer data", "Stored in your account, exportable"],
-    ["Menu changes", "Free for 5 months after launch"],
+    ["Menu changes", "Free for 2 months after launch"],
     ["Contact", "WhatsApp, 7 days a week"],
   ],
   stats: [
     { value: "3", label: "Developers who know your menu setup" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free menu and price updates" },
+    { value: "2", label: "Months of free menu and price updates" },
     { value: "0", label: "Commission taken on your direct orders" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Own ordering app", value: `From ${P.app}, 6–10 weeks` },
       { label: "Checkout", value: "UPI and cards, paid into your account" },
       { label: "Who owns orders and customers", value: "You, with export any time" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -130,7 +130,7 @@ const content: FreelanceContent = {
       heading: "How much does a restaurant website cost in India?",
       paragraphs: [
         `It depends on whether the site shows food or sells food. A menu, gallery and location website starts at ${P.site} (${P.siteUsd}) and launches in 1–2 weeks. Direct ordering with a cart and UPI and card checkout starts at ${P.shop} and takes 4–8 weeks. Reservations, multi-outlet menus or a kitchen dashboard start at ${P.software}. An Android and iOS ordering app starts at ${P.app}.`,
-        `After launch, five months of maintenance are free, which covers the constant small changes restaurants need: seasonal dishes, price revisions, festival specials and holiday timings. Ongoing care after that starts at ${P.care}.`,
+        `After launch, two months of maintenance are free, which covers the constant small changes restaurants need: seasonal dishes, price revisions, festival specials and holiday timings. Ongoing care after that starts at ${P.care}.`,
         `Quotes from different developers for “a restaurant website” vary widely. Compare what is inside them: is the menu real text or a PDF? Is ordering included or just a WhatsApp link? Who edits prices after launch? Who owns the domain? A quote that looks cheaper often hides a PDF menu and a domain in someone else’s name. Our broader breakdown is on <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A menu website takes 1–2 weeks; ordering takes 4–8. The work follows the same order each time.`,
         `First, you send the current menu, photos, timings, address and FSSAI and GST details, plus any links you like. We reply with an itemised quote in about two working days. Next, we set up the domain and hosting in your name and build the menu structure, which is the slowest part to get right. You review a home page and menu on a private staging link on your phone.`,
-        `For ordering builds, we then add the cart, delivery rules and checkout, and run test orders together, including cancelled payments and wrong addresses. Staff are shown how new orders arrive and how to mark dishes sold out. On launch day we connect the domain, verify Google Search Console, update your Business Profile links, and hand over logins. Five months of free changes follow.`,
+        `For ordering builds, we then add the cart, delivery rules and checkout, and run test orders together, including cancelled payments and wrong addresses. Staff are shown how new orders arrive and how to mark dishes sold out. On launch day we connect the domain, verify Google Search Console, update your Business Profile links, and hand over logins. Two months of free changes follow.`,
       ],
     },
     {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A hypothetical scenario, not a client story, to show how the pieces fit.`,
         `A South Indian vegetarian restaurant has two outlets in one city, gets steady dinner delivery orders through apps, and wants more direct orders from regulars plus office catering. The owner edits prices every few months and wants Tamil and English menus.`,
-        `We would propose the ecommerce plan from ${P.shop}, with lines for a second outlet, the Tamil menu and a catering page. Diners pick an outlet, browse a text menu with photos of the top dishes, choose a slot and pay by UPI or card. Kitchen staff hear a chime and get a WhatsApp alert per order. The catering page collects date, headcount and budget and sends leads to the owner. A QR code on delivery bags points regulars to the direct site. Launch would take about six weeks, with menu and price edits free for five months.`,
+        `We would propose the ecommerce plan from ${P.shop}, with lines for a second outlet, the Tamil menu and a catering page. Diners pick an outlet, browse a text menu with photos of the top dishes, choose a slot and pay by UPI or card. Kitchen staff hear a chime and get a WhatsApp alert per order. The catering page collects date, headcount and budget and sends leads to the owner. A QR code on delivery bags points regulars to the direct site. Launch would take about six weeks, with menu and price edits free for two months.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         ["Reservations, multi-outlet or kitchen dashboard", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Chains, cloud kitchens, fine dining"],
         ["Android and iOS ordering app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Brands with many weekly regulars"],
         ["WhatsApp order bot", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High WhatsApp order volume"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu, price and offer updates"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu, price and offer updates"],
       ],
       hideSm: [2],
     },
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting and payment provider accounts are created under your email and paid from your card, so the restaurant owns every piece."],
       ["Review the menu first", "The menu structure and home page appear on a private link. You check dish names, prices and marks on your phone before we build the rest."],
       ["Test orders and go live", "For ordering builds we run test orders and refunds with you, train staff on alerts, then connect the domain and update your Business Profile."],
-      ["Five months of menu updates", "New dishes, price changes and holiday timings are free for five months. After that, care continues from " + P.care + " if you want it."],
+      ["Two months of menu updates", "New dishes, price changes and holiday timings are free for two months. After that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Restaurant website developer: questions owners ask",
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
     { question: "Should I put my menu as a PDF on the website?", answer: "No. PDF menus load slowly on mobile data, are hard to read on small screens, cannot be read well by Google, and are painful to update. A text menu with categories, prices, veg marks and a few photos loads faster, ranks better and lets you change a price in a minute." },
     { question: "Can customers book a table on my restaurant website?", answer: "Yes. A booking system lets diners choose date, time and party size, then confirms instantly or sends a request for approval. Reminder messages reduce no-shows, and a deposit by UPI can be required for large groups if you want. Simple enquiry forms fit a basic site; live availability is a custom build." },
     { question: "Do I need a website if I am already on delivery apps?", answer: "Most restaurants benefit from one. Delivery apps are good for discovery, but diners who already know you search your name on Google for menus, timings and phone numbers. A website also captures catering and party enquiries, and it lets regulars order directly so you keep the full bill value and their contact details." },
-    { question: "Can I update prices and dishes myself?", answer: "Yes. The menu is stored in a simple admin screen or data file, so a price or dish change updates every page at once. If you prefer not to, send changes on WhatsApp; they are free for five months after launch, and ongoing care after that is optional." },
+    { question: "Can I update prices and dishes myself?", answer: "Yes. The menu is stored in a simple admin screen or data file, so a price or dish change updates every page at once. If you prefer not to, send changes on WhatsApp; they are free for two months after launch, and ongoing care after that is optional." },
     { question: "Does a restaurant website help with Google Maps ranking?", answer: "It helps, alongside Google Business Profile. We link the website and menu from your profile, keep name, address and phone identical, add Restaurant schema and submit a sitemap. Reviews, photos and distance also shape map results. No honest restaurant website developer can guarantee a map position, but a clean setup gives you the best chance." },
     { question: "Can you build a website for a cloud kitchen with several brands?", answer: `Yes. Each brand can have its own domain and design while all orders arrive on one kitchen dashboard. Managers can pause orders or mark dishes unavailable per brand. This kind of setup sits in the custom web app plan, which starts at ${P.software}, because routing and reporting need custom logic.` },
     { question: "Which payment options can my restaurant website accept?", answer: "Your ordering site can accept UPI and debit and credit cards through a payment provider account in your restaurant’s name. The server confirms each payment before the order reaches the kitchen, so unpaid orders do not get cooked. Cash on delivery can also be offered for trusted areas if you want it." },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a restaurant website developer?", answer: "With BtechWaleTech, payments are staged against visible work: an advance to start, a payment when the menu and pages are ready on a preview link, and the balance before launch. Indian clients pay by UPI or bank transfer; restaurants abroad pay by Wise, bank wire or PayPal. Nothing is billed before your written approval." },
     { question: "Can you make a menu website in Hindi or a regional language?", answer: "Yes. Menus can be built in two languages with a switch at the top and proper language tags so Google shows the right version. You or your team supply the translated dish names and descriptions, and we lay them out so they stay readable on small screens." },
     { question: "Can a restaurant abroad hire an Indian restaurant website developer?", answer: `Yes. Indian restaurants in the UAE, UK, USA and elsewhere work with us remotely, with calls in overlapping hours and progress on staging links. Menu websites start at ${P.siteUsd}, and payment is by Wise, bank wire or PayPal. Domain and hosting stay in the restaurant’s own name.` },
-    { question: "Restaurant ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath menu, photos, timing, map aur WhatsApp order button wali website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Apna online ordering system UPI payment ke saath ${P.shop} se shuru hota hai. Direct order par koi commission nahi lagta, aur launch ke baad 5 mahine menu badlaav free hain.` },
+    { question: "Restaurant ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath menu, photos, timing, map aur WhatsApp order button wali website ${P.site} se shuru hoti hai aur 1–2 hafte mein live hoti hai. Apna online ordering system UPI payment ke saath ${P.shop} se shuru hota hai. Direct order par koi commission nahi lagta, aur launch ke baad 2 mahine menu badlaav free hain.` },
   ],
   related: {
     heading: "Related pages for restaurants, hotels and food businesses",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a restaurant website developer? Send us your menu",
-    note: `Share your menu, timings and a few photos on WhatsApp. You get an itemised quote in about two working days, with menu sites from ${P.site}, direct ordering from ${P.shop}, accounts in your name and five months of free menu updates.`,
+    note: `Share your menu, timings and a few photos on WhatsApp. You get an itemised quote in about two working days, with menu sites from ${P.site}, direct ordering from ${P.shop}, accounts in your name and two months of free menu updates.`,
   },
 };
 

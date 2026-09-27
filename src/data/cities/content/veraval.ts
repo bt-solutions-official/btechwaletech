@@ -35,7 +35,7 @@ const veraval: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English", "Seafood export catalogues", "Somnath hotel bookings", "Kesar mango stores"],
   },
   quickAnswer:
-    "In Veraval, our websites start from ₹10,000 and usually launch in one to two weeks. A 299+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store for Kesar mangoes or dry fish from ₹50,000 and custom software from ₹60,000. We are remote, have no Veraval office, and maintain every site free for five months.",
+    "In Veraval, our websites start from ₹10,000 and usually launch in one to two weeks. A 299+ page SEO site starts from ₹20,000, AI and WhatsApp automation from ₹40,000, an online store for Kesar mangoes or dry fish from ₹50,000 and custom software from ₹60,000. We are remote, have no Veraval office, and maintain every site free for two months.",
   snapshot: [
     { label: "District", value: "Veraval is the headquarters town of Gir Somnath district, formed from Junagadh district in 2013" },
     { label: "Port", value: "One of India's major fishing ports, historically called Somnath Bandar; wooden fishing boats and dhows are still built here" },
@@ -52,10 +52,10 @@ const veraval: CityContent = {
     ai: "WhatsApp assistants that reply in Gujarati, Hindi or English to room, rate and order questions and pass the rest to staff.",
     data: "Dashboards for season-wise catch, export shipments or hotel occupancy, built from spreadsheets you already maintain.",
     app: "Android and iPhone apps for boat crew records, dock purchases and mango orchard bookings on basic phones, released on Google Play and the App Store.",
-    maintenance: "Five months of free updates and security care after launch; afterwards maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates and security care after launch; afterwards maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Veraval owners usually pick between a Rajkot or Ahmedabad agency that goes quiet once paid and a local designer with little time for search or support. We publish starting prices, write proper Gujarati, reply on WhatsApp all seven days, and look after your site at no charge for five months after it goes live.",
+    "Veraval owners usually pick between a Rajkot or Ahmedabad agency that goes quiet once paid and a local designer with little time for search or support. We publish starting prices, write proper Gujarati, reply on WhatsApp all seven days, and look after your site at no charge for two months after it goes live.",
   pricingIntro:
     "The amounts below are starting points for Veraval work; every one of them reads “from”. What you pay depends on pages, products, languages and the features you pick. Every project begins with an itemised written quote, and no money is asked for until you approve it in writing.",
   sections: [
@@ -175,11 +175,11 @@ const veraval: CityContent = {
     },
     {
       id: "ownership-care-veraval",
-      heading: "Your site, your accounts, and five months of free care",
+      heading: "Your site, your accounts, and two months of free care",
       paragraphs: [
         "Many Veraval businesses have lost an older website because the designer booked the domain in their own name and then disappeared. When renewal lapsed, the site and the email address went with it.",
         "We prevent that from the start. Domain and hosting are registered in your name, you receive every login at launch, and you own the source code. You can move to any other developer later with no exit fee, and we hand over a short note explaining how everything is set up.",
-        "For five months after launch we take care of updates, bug fixes, security patches, backups and uptime monitoring without charge. After that, maintenance continues from ₹8,000 a month, or you can reach out only when needed. Our <a href=\"/services/web-development/\">web development page</a> lists what each build covers.",
+        "For two months after launch we take care of updates, bug fixes, security patches, backups and uptime monitoring without charge. After that, maintenance continues from ₹8,000 a month, or you can reach out only when needed. Our <a href=\"/services/web-development/\">web development page</a> lists what each build covers.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const veraval: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security and software updates, backups and uptime checks at no cost. After that you can continue maintenance from ₹8,000 a month or simply contact us when you need something changed.",
+        "For two months after launch we handle content changes, bug fixes, security and software updates, backups and uptime checks at no cost. After that you can continue maintenance from ₹8,000 a month or simply contact us when you need something changed.",
     },
     {
       question: "How long does SEO take for a Veraval business?",

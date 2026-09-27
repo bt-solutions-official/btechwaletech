@@ -35,12 +35,12 @@ const content: FreelanceContent = {
     ["Magento 1 security patches", "Ended 30 June 2020"],
     ["Quote", "Itemised in about 2 working days"],
     ["Accounts", "Shopware, hosting and repository in your name"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers splitting data, theme and extensions" },
     { value: "2", label: "Working days to an itemised migration quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Platform fees added to your payments" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Mapped first", value: "Order status, payment methods, tax rates" },
       { label: "Rebuilt", value: "Theme, CMS pages, shipping costs, email and document templates" },
       { label: "Project cost", value: `From ${P.shop}, 4–8 weeks` },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "Extension replacement", note: "Magento modules matched to Shopware Store extensions, Rule Builder setups or custom plugins.", size: "md" },
       { name: "ERP and accounting links", note: "Interfaces reconnected, including DATEV exports.", href: "/germany/datev-api-integration/", size: "sm" },
       { name: "E-invoicing output", note: "XRechnung or ZUGFeRD for business customers.", href: "/germany/xrechnung-zugferd-integration/", size: "sm" },
-      { name: "Care after launch", note: `Five free months, then from ${P.care}.`, size: "sm" },
+      { name: "Care after launch", note: `Two free months, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -81,7 +81,7 @@ const content: FreelanceContent = {
     columns: ["Aspect", "Upgrade and stay on Magento 2.4", "Shopware 6 via an agency in Germany", "Shopware 6 via BtechWaleTech (India)"],
     rows: [
       ["Main cost", "Upgrade work, plus Adobe licence if on Adobe Commerce", "Day rates or project fee", `Itemised USD quote, migrations from ${P.shop}`],
-      ["Ongoing upkeep", "Regular version upgrades to stay supported", "Shopware updates, agency retainer", `Shopware updates, care from ${P.care} after five free months`],
+      ["Ongoing upkeep", "Regular version upgrades to stay supported", "Shopware updates, agency retainer", `Shopware updates, care from ${P.care} after two free months`],
       ["Data move", "None", "Handled", "Magento profile runs with test and delta migrations"],
       ["Theme and CMS", "Kept", "Rebuilt", "Rebuilt on the Shopware 6 default theme"],
       ["Rankings risk", "Low", "Depends on redirect work", "Full URL rewrite export and tested 301 map"],
@@ -244,7 +244,7 @@ const content: FreelanceContent = {
       id: "cost-time",
       heading: "How much does a Magento to Shopware migration cost, and how long does it take?",
       paragraphs: [
-        `With BtechWaleTech, a Magento to Shopware migration starts at ${P.shop} and usually takes four to eight weeks; B2B portals, ERP interfaces or heavy custom modules are priced as custom software from ${P.software}. Maintenance starts at ${P.care} after five free months.`,
+        `With BtechWaleTech, a Magento to Shopware migration starts at ${P.shop} and usually takes four to eight weeks; B2B portals, ERP interfaces or heavy custom modules are priced as custom software from ${P.software}. Maintenance starts at ${P.care} after two free months.`,
         `Across the market, quotes differ widely, so ask every bidder for the same breakdown: data migration with test runs, attribute clean-up, product types beyond simple and configurable, B2B price rebuilds, password migration, theme and CMS rebuild, extension replacements, redirect map, and post-launch support.`,
         `A typical timeline: week one for installation, hosting and the first migration run; weeks two and three for attribute, price and customer-group fixes; weeks three to six for the storefront, Shopping Experiences, shipping and payments; the last one or two weeks for testing, redirects and cutover. Delays usually come from pending decisions on attributes and extensions, not from the migration itself.`,
       ],
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
         ["B2B store with tier prices and dealer features", `From ${P.software}`, "6–12 weeks", "Price structures, approvals, ERP sync"],
         ["Content hub for categories after the move", `From ${P.seoSite}`, "3–5 weeks", "Page count, data preparation"],
         ["SEO monitoring after cutover", `From ${P.seo}`, "Ongoing", "Catalogue size, fixes needed"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Ongoing", "Extension count, update rhythm"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Ongoing", "Extension count, update rhythm"],
       ],
       hideSm: [3],
     },
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Set up and first migration run", "Shopware 6 goes onto hosting in your name, the Magento profile connects read-only to your database, and the first run shows data issues."],
       ["Clean, map and rebuild", "Attributes, prices, customer groups and extensions are resolved while the storefront, Shopping Experiences, shipping and payments are rebuilt on staging."],
       ["Test and cut over", "Password logins, test orders, legal checks and the redirect map are verified, then a final delta migration and domain switch in a quiet window."],
-      ["Monitor and maintain", `Orders and Search Console are watched closely after launch, fixes are free for five months, and care continues from ${P.care} if you want it.`],
+      ["Monitor and maintain", `Orders and Search Console are watched closely after launch, fixes are free for two months, and care continues from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Magento to Shopware migration questions",
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Leaving Magento? Get a migration quote with every attribute and extension planned",
-    note: `Send your shop URL, Magento version and extension list on WhatsApp. Within about two working days you get an itemised quote, migrations from ${P.shop}, every account in your company’s name and five months of free maintenance after cutover.`,
+    note: `Send your shop URL, Magento version and extension list on WhatsApp. Within about two working days you get an itemised quote, migrations from ${P.shop}, every account in your company’s name and two months of free maintenance after cutover.`,
   },
 };
 

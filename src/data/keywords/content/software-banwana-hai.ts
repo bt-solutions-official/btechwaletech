@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Business owners ke liye · 10 steps, Hinglish mein",
     h1: "Software banwana hai? Requirement list se go-live tak, 10 seedhe steps",
     lede: `Software banwana hai toh sabse pehla kaam developer dhoondhna nahi, apni zaroorat kaagaz par likhna hai: kaun use karega, kya data jaayega, aur roz ka kaunsa kaam aasaan hona chahiye. Hum BtechWaleTech hain, teen freelance developers, jo billing, inventory, CRM aur customer portal jaisa custom software ${P.software} se banate hain, aur source code aapko dete hain. Yeh page aapko step-by-step le chalega, aur batayega ki <a href='/custom-software-development-cost-in-india/'>kharcha kaise banta hai</a> aur developer kaise chunein.`,
-    pills: [`Custom software ${P.software} se`, "Web, desktop ya mobile", "Source code aapka", "GST aur e-invoice ready", "Excel se data import", "5 mahine free maintenance", "Hindi mein baat"],
+    pills: [`Custom software ${P.software} se`, "Web, desktop ya mobile", "Source code aapka", "GST aur e-invoice ready", "Excel se data import", "2 mahine free maintenance", "Hindi mein baat"],
     origin: "Teen freelance developers, India se · WhatsApp par jawab, hafte ke saaton din",
   },
   facts: [
@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Saath mein mobile app", `${P.app} se`],
     ["Automation aur AI", `${P.ai} se · 2–4 hafte`],
     ["Source code", "Launch par aapko, aapki repository mein"],
-    ["Launch ke baad", `5 mahine free, phir ${P.care} se`],
+    ["Launch ke baad", `2 mahine free, phir ${P.care} se`],
   ],
   stats: [
     { value: "10", label: "Steps, requirement list se go-live tak" },
     { value: "3", label: "Freelance developers: full-stack, data aur project management" },
     { value: "2", label: "Working din mein module-wise quote" },
-    { value: "5", label: "Mahine free maintenance go-live ke baad" },
+    { value: "2", label: "Mahine free maintenance go-live ke baad" },
   ],
   answer: {
     heading: "Software banwana hai toh kaise shuru karein?",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Kis roop mein", value: "Web (sabse aam), desktop ya mobile app" },
       { label: "Data kahan", value: "Aapke cloud account mein, backup ke saath" },
       { label: "Source code", value: "Aapka, launch par handover" },
-      { label: "Maintenance", value: `5 mahine free, phir ${P.care} se` },
+      { label: "Maintenance", value: `2 mahine free, phir ${P.care} se` },
       { label: "Payment", value: "UPI ya bank transfer, milestones par" },
     ],
   },
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Bahar se access", "Haan", "Aksar sirf office mein", "Web par kahin se bhi, roles ke saath"],
       ["Requirement likhne mein madad", "Nahi", "Kabhi-kabhi", "Haan, hum sawal poochkar list banate hain"],
       ["Badlav baad mein", "Unke roadmap par", "Wahi coder mile tab", "Koi bhi developer, code aur notes aapke paas"],
-      ["Launch ke baad", "Subscription tak support", "Jab tak rishta chale", `5 mahine free, phir ${P.care} se`],
+      ["Launch ke baad", "Subscription tak support", "Jab tak rishta chale", `2 mahine free, phir ${P.care} se`],
       ["Kab sahi", "Aapka kaam aam tarah ka hai", "Bahut chhota, ek computer ka kaam", "Aapka kaam alag hai aur badhega"],
     ],
     fine: "Agar koi ready-made software aapke kaam ka 80–90% theek kar deta hai aur aap baaki ke liye apna tareeka badal sakte hain, toh use lena aksar sasta aur jaldi hota hai; custom tab banwaiye jab fark sach mein paisa ya samay kha raha ho.",
@@ -162,7 +162,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "What keeps the cost near the starting price", text: "One branch, a handful of user roles, two or three modules, standard reports, clean data you can export from Excel, and no live connection to other software." },
         { heading: "What pushes the cost up", text: "Multiple branches or godowns with transfers, approval chains, complex pricing (schemes, slabs, party-wise rates), custom print formats, messy historical data, and live links to accounting, GST, payment or machines." },
-        { heading: "What costs separately", text: `A companion mobile app from ${P.app}, AI or WhatsApp automation from ${P.ai}, and ongoing maintenance from ${P.care} after the first five free months. Your server and domain bills go directly to the provider.` },
+        { heading: "What costs separately", text: `A companion mobile app from ${P.app}, AI or WhatsApp automation from ${P.ai}, and ongoing maintenance from ${P.care} after the first two free months. Your server and domain bills go directly to the provider.` },
       ],
       after: [
         `Our quote lists every module separately so you can move some to a second phase. For deeper cost detail by module, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a> and, for CRM specifically, <a href='/crm-software-development-cost/'>CRM software development cost</a>.`,
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Go-live day should be boring. Data is already imported and checked, staff have practised, and there is a clear person to call if something looks wrong.`,
         `Before go-live we record short screen videos in Hindi or English for each role, such as “how to make a bill”, “how to transfer stock” and “how to add a new lead”, so new staff can learn without a trainer. Then a live video session with your team, where they do real entries while we watch.`,
-        `Handover includes the source code in your repository, database and cloud account access, the admin logins, the handover sheet with renewal dates, and short documentation for any future developer. The first five months after go-live are covered by free maintenance: bug fixes, small changes and help when staff get stuck. After that, maintenance starts from ${P.care} if you want us to continue.`,
+        `Handover includes the source code in your repository, database and cloud account access, the admin logins, the handover sheet with renewal dates, and short documentation for any future developer. The first two months after go-live are covered by free maintenance: bug fixes, small changes and help when staff get stuck. After that, maintenance starts from ${P.care} if you want us to continue.`,
         `New features after go-live, such as a dealer portal or a mobile app for salesmen, are quoted separately, module by module, so you can add them when the business needs them rather than all at once.`,
       ],
     },
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Design aur database", "Screens ka design aur data ka structure preview link par dikhate hain. Aap aur aapka staff dekh kar batate hain ki kya badalna hai."],
       ["Module-wise build", "Ek-ek module banta hai aur aap usi waqt test karte hain, aakhir ka intezaar nahi. Har hafte WhatsApp par progress update milta hai."],
       ["Data import aur parallel run", "Purana data import hota hai, aap sample milaate hain, aur ek-do hafte purane tareeke ke saath chalakar numbers check karte hain."],
-      ["Go-live aur handover", `Training videos, live session, source code aur saare logins aapko. 5 mahine free maintenance, phir ${P.care} se, agar chahein.`],
+      ["Go-live aur handover", `Training videos, live session, source code aur saare logins aapko. 2 mahine free maintenance, phir ${P.care} se, agar chahein.`],
     ],
   },
   faqHeading: "Software banwana hai: aapke sawal, seedhe jawab",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Does custom software need to support GST e-invoicing?", answer: "If your aggregate turnover has exceeded ₹5 crore in any financial year from 2017-18, e-invoicing has been mandatory for your B2B invoices since 1 August 2023 under CBIC Notification 10/2023. Your billing software then needs to prepare invoice data for the government system. Your CA decides the exact route, and we build the software to match it." },
     { question: "How is my business data kept safe?", answer: "The software runs in a cloud account in your name, with encrypted connections, individual logins, role-based access, audit logs and regular backups you control. If it stores personal data, India’s DPDP Act, 2023 applies; we build features that support your obligations, while legal compliance is confirmed by your own adviser. Tell us early about sensitive data." },
     { question: "Can the software connect to my accounting package or WhatsApp?", answer: `Usually yes. For accounting, we check what export or API options your package offers and send vouchers or daily exports so your accountant keeps working as before. For WhatsApp, automatic order updates, reminders and reports can be added, sent only to people who agreed to receive them. WhatsApp and AI automation builds start from ${P.ai}.` },
-    { question: "What happens after the software goes live?", answer: `The first 5 months after go-live include free maintenance: bug fixes, small changes and help when staff get stuck. After that, maintenance starts from ${P.care} if you want us to continue, or you can take the code to another developer. New modules, like a dealer portal or salesman app, are quoted separately when you need them.` },
+    { question: "What happens after the software goes live?", answer: `The first 2 months after go-live include free maintenance: bug fixes, small changes and help when staff get stuck. After that, maintenance starts from ${P.care} if you want us to continue, or you can take the code to another developer. New modules, like a dealer portal or salesman app, are quoted separately when you need them.` },
     { question: "Can I get a mobile app with my software?", answer: `Yes. Office work usually runs in the web software, and a small Android and iOS app for salesmen, technicians or delivery staff uses the same data. The app starts from ${P.app}. Many businesses add it in phase two, after the core web modules are running smoothly.` },
     { question: "How do I pay for custom software?", answer: "In India you pay by UPI or bank transfer against milestones agreed in the written quote, and that quote also spells out the invoicing details. Clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote in writing. Cloud and domain bills go directly from your account to those providers." },
     { question: "Do you sign an NDA before I share business details?", answer: "If you need an NDA before sharing sensitive details, tell us on the first message and we will discuss it with you. The specific terms for your project, including confidentiality, ownership and support, go into the written quote you approve. Our general terms are on the terms page of this site." },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Software banwana hai? Apni requirement list WhatsApp kijiye",
-    note: `Adhoori list bhi chalegi. Lagbhag do working din mein module-wise quote milega, custom software ${P.software} se shuru, source code aur data aapke naam, aur go-live ke baad 5 mahine free maintenance.`,
+    note: `Adhoori list bhi chalegi. Lagbhag do working din mein module-wise quote milega, custom software ${P.software} se shuru, source code aur data aapke naam, aur go-live ke baad 2 mahine free maintenance.`,
   },
 };
 

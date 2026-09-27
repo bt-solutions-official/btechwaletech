@@ -31,11 +31,11 @@ const salem: CityContent = {
     eyebrow: "Salem · Tamil Nadu",
     h1: "Web design, SEO and automation for Salem's weavers, sago mills and silver traders",
     lede:
-      "Three engineers working remotely for Salem businesses: handloom and powerloom units, sago and starch mills, steel and engineering suppliers, Shevapet anklet makers, Yercaud resorts and clinics along the city's main roads. Every starting price is on this page, you speak straight to the developers, and maintenance is free for the first five months.",
+      "Three engineers working remotely for Salem businesses: handloom and powerloom units, sago and starch mills, steel and engineering suppliers, Shevapet anklet makers, Yercaud resorts and clinics along the city's main roads. Every starting price is on this page, you speak straight to the developers, and maintenance is free for the first two months.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Wholesale catalogues", "UPI stores for textiles", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A business website for a Salem firm starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote three-engineer team with no Salem office, and maintenance is free for five months after launch.",
+    "A business website for a Salem firm starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and a custom web application at ₹60,000. We are a remote three-engineer team with no Salem office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Trade centres", value: "Shevapet, Leigh Bazaar, Chinnakadai Street, Five Roads, Four Roads and the New Bus Stand area" },
     { label: "Textiles", value: "More than 75,000 handlooms plus spinning mills; Salem silk (Salem Venpattu) is a registered GI" },
@@ -52,10 +52,10 @@ const salem: CityContent = {
     ai: "WhatsApp assistants that reply to rate, stock and dispatch questions in Tamil or English and keep a log of every enquiry.",
     data: "Production, dispatch and payment data turned into dashboards the owner can read before the day's trading starts.",
     app: "Android and iOS apps for dealer ordering, Yercaud resort bookings and delivery tracking, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Rate updates, new designs, backups and security fixes free for five months, then from ₹8,000 a month.",
+    maintenance: "Rate updates, new designs, backups and security fixes free for two months, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Salem has web designers on most main roads, but very few show a price before you sit down with them, and many stop picking up once the site is paid for. Our starting prices are public, we reply on WhatsApp all seven days, and we maintain your site free for five months after it launches.",
+    "Salem has web designers on most main roads, but very few show a price before you sit down with them, and many stop picking up once the site is paid for. Our starting prices are public, we reply on WhatsApp all seven days, and we maintain your site free for two months after it launches.",
   pricingIntro:
     "The same five-page website can be quoted at wildly different prices across Salem, with no clear reason. These are our real starting points. Your final price depends on the number of pages and products, the features you need and how much content you already have, and it is itemised in writing before we begin.",
   sections: [
@@ -170,7 +170,7 @@ const salem: CityContent = {
       paragraphs: [
         "We often hear from Salem businesses whose website is effectively held hostage: the domain sits in a former designer's account, the hosting login is unknown and the site cannot be updated. When the renewal is missed, the website and business email disappear together.",
         "We set things up to prevent this. Your domain is registered in your name and your hosting is in your account. At launch you receive every login, the full source code and a short note explaining the setup. You can take the site to any other developer whenever you choose, without an exit fee.",
-        "For five months after launch, maintenance costs nothing. That covers content and rate updates, new product additions, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when something needs changing.",
+        "For two months after launch, maintenance costs nothing. That covers content and rate updates, new product additions, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when something needs changing.",
       ],
     },
     {
@@ -264,9 +264,9 @@ const salem: CityContent = {
         "You do. The domain is registered in your name, hosting is in your account, and you get every login and the full source code at launch. You can switch developers at any time without paying us anything. Lost access is one of the most common problems we see with older Salem websites, so we insist on this.",
     },
     {
-      question: "What is included in five months of free maintenance?",
+      question: "What is included in two months of free maintenance?",
       answer:
-        "Content and rate updates, new product additions, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, at no charge for five months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something.",
+        "Content and rate updates, new product additions, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, at no charge for two months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something.",
     },
     {
       question: "Do you work with businesses in Namakkal, Erode and Tiruchengode?",

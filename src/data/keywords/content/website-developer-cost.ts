@@ -37,18 +37,18 @@ const content: FreelanceContent = {
     ["SEO website from", `${P.seoSite} · ${P.seoSiteUsd}`],
     ["Online store from", `${P.shop} · ${P.shopUsd}`],
     ["Estimate turnaround", "About 2 working days, itemised"],
-    ["Free upkeep", "5 months after launch"],
+    ["Free upkeep", "2 months after launch"],
     ["Paid upkeep after that", `From ${P.care}`],
   ],
   stats: [
     { value: "2", label: "Working days to an itemised estimate" },
     { value: "100", label: "Pages covered in the static website plan" },
-    { value: "5", label: "Months of maintenance included free" },
+    { value: "2", label: "Months of maintenance included free" },
     { value: "0", label: "Middleman or platform fees" },
   ],
   answer: {
     heading: "What is the website developer cost in India?",
-    text: `Website developer cost in India depends on page count, features and who writes the content. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 299+ pages at ${P.seoSite}, and an online store at ${P.shop}. Domain and hosting are paid by you directly to the provider, and maintenance is free for five months.`,
+    text: `Website developer cost in India depends on page count, features and who writes the content. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}), an SEO website with 299+ pages at ${P.seoSite}, and an online store at ${P.shop}. Domain and hosting are paid by you directly to the provider, and maintenance is free for two months.`,
     more: `For costs grouped by website type, see <a href='/website-making-cost-in-india/'>website making cost in India</a>; for hourly versus project billing, see <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`,
   },
   snapshot: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Web app or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Domain, hosting, email", value: "Paid by you to providers, billed yearly or monthly" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
       { label: "Ongoing SEO (optional)", value: `From ${P.seo}` },
     ],
   },
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "SEO setup", note: "Titles, descriptions, schema, sitemap and Search Console at launch. Included in our builds; ongoing SEO is a monthly service.", href: "/seo-website-developer/", size: "md" },
       { name: "Store features", note: `Catalogue, cart, UPI and card checkout, order emails and GST-ready invoices, from ${P.shop}.`, href: "/freelance-ecommerce-developer/", size: "sm" },
       { name: "Custom functions", note: `Logins, bookings, calculators and dashboards move a project into web app pricing, from ${P.software}.`, href: "/web-application-developer/", size: "sm" },
-      { name: "Maintenance", note: `Updates, backups and edits. Free for five months after launch, then from ${P.care} if you want it.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Updates, backups and edits. Free for two months after launch, then from ${P.care} if you want it.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -84,7 +84,7 @@ const content: FreelanceContent = {
     columns: ["Cost element", "DIY website builder", "Full-service agency", "BtechWaleTech freelance team"],
     rows: [
       ["Upfront build cost", "Low; you do the work", "Usually the highest of the three", `Static site from ${P.site}`],
-      ["Recurring cost", "Monthly subscription for as long as the site exists", "Retainer or support contract", "Hosting to provider; maintenance optional after 5 free months"],
+      ["Recurring cost", "Monthly subscription for as long as the site exists", "Retainer or support contract", "Hosting to provider; maintenance optional after 2 free months"],
       ["Your time", "High: design, text, setup", "Low", "Low to medium: approvals and content"],
       ["Overheads in the price", "Platform margin", "Office, sales and account management", "No office, no platform fee"],
       ["Leaving later", "Hard; site stays on the platform", "Depends on the contract", "Easy; code and accounts are yours"],
@@ -128,7 +128,7 @@ const content: FreelanceContent = {
         "<strong>Maintenance</strong>: updates, backups, edits after launch",
       ],
       after: [
-        `In our estimates the first six are priced by us and itemised; the next three are paid by you directly to providers in your name; maintenance is free for five months and then optional from ${P.care}.`,
+        `In our estimates the first six are priced by us and itemised; the next three are paid by you directly to providers in your name; maintenance is free for two months and then optional from ${P.care}.`,
       ],
     },
     {
@@ -159,7 +159,7 @@ const content: FreelanceContent = {
       heading: "One-time versus recurring website costs",
       paragraphs: [
         `The build is paid once; domain, hosting, email and optional upkeep repeat. Budget the first year and the second year separately, because they look very different.`,
-        `In year one you pay the build, the domain registration, the first hosting term and any mailboxes. From year two you pay only renewals, plus maintenance and SEO if you choose them. With us, maintenance is free for the first five months after launch, so a static website often runs its first several months with nothing to pay the developer beyond the build itself.`,
+        `In year one you pay the build, the domain registration, the first hosting term and any mailboxes. From year two you pay only renewals, plus maintenance and SEO if you choose them. With us, maintenance is free for the first two months after launch, so a static website often runs its first several months with nothing to pay the developer beyond the build itself.`,
         `Watch for two traps. First, introductory hosting offers often renew at a higher rate, so check the renewal price, not the first-year banner. Second, some site builders and some developers lock you into their own hosting, where the monthly fee quietly includes a margin. When accounts are in your name and you pay providers directly, every recurring cost is visible on your own card statement.`,
       ],
     },
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
         "Support billed per request from the first week after launch",
       ],
       after: [
-        `Our estimates list licences as separate lines, set up accounts in your name, and include five months of maintenance, which removes most of this list. Our <a href='/affordable-web-developer/'>affordable web developer</a> page covers what you can postpone safely.`,
+        `Our estimates list licences as separate lines, set up accounts in your name, and include two months of maintenance, which removes most of this list. Our <a href='/affordable-web-developer/'>affordable web developer</a> page covers what you can postpone safely.`,
       ],
     },
     {
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       heading: "Does a website developer charge per hour or per project?",
       paragraphs: [
         `For defined website builds, most developers in India quote per project; for open-ended changes, some bill by the hour or by monthly retainer. Per-project pricing puts the risk of overruns on the developer, which is usually better for you when scope is clear.`,
-        `We price builds per project, itemised by line. Small post-launch changes are covered free in the first five months, and after that by a maintenance plan or a small estimate per change. We do not run hourly meters on website work, because hourly billing punishes clients for asking questions.`,
+        `We price builds per project, itemised by line. Small post-launch changes are covered free in the first two months, and after that by a maintenance plan or a small estimate per change. We do not run hourly meters on website work, because hourly billing punishes clients for asking questions.`,
         `If you want to see how hourly and project rates compare across the market, and how to normalise them, read <a href='/freelance-web-developer-rates/'>freelance web developer rates</a>.`,
       ],
     },
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Maintenance is the recurring part of website developer cost, and it depends on how much your site changes and what it runs on. A static site needs little; a WordPress store with many plugins needs regular attention.`,
         `Typical maintenance work includes software and plugin updates, security checks, backups and restore tests, text and price changes, new pages, broken link fixes and speed checks. On WordPress, skipping updates is the most common route to a hacked site, and cleaning a hacked site costs far more than months of routine updates.`,
-        `With BtechWaleTech the first five months after launch are free. After that, maintenance starts at ${P.care} and is entirely optional: you can take the site in-house or hand it to someone else, because all access is already yours. See <a href='/website-maintenance-freelancer/'>website maintenance</a> for what a plan covers.`,
+        `With BtechWaleTech the first two months after launch are free. After that, maintenance starts at ${P.care} and is entirely optional: you can take the site in-house or hand it to someone else, because all access is already yours. See <a href='/website-maintenance-freelancer/'>website maintenance</a> for what a plan covers.`,
       ],
     },
     {
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how line items become a total, not a real client.`,
         `A physiotherapy clinic wants eight pages: home, about the doctor, five treatment pages and contact, plus a Hindi version of the treatment pages. The owner can write short notes for each treatment but not polished copy. Patients should book by WhatsApp. The clinic already owns its domain.`,
-        `The estimate would start from the static website plan at ${P.site} and list: design of three templates; build of eight pages; editing of the owner's notes into readable treatment pages; Hindi translation of five pages as a separate line; WhatsApp button with a prefilled message; Google Maps embed; schema for a medical business and FAQs; Search Console setup. Hosting would be bought in the clinic's name. Online booking with slot rules was discussed and deliberately left for phase two, because WhatsApp handles current volume. After launch, five months of edits are free, covering new treatment prices and timing changes.`,
+        `The estimate would start from the static website plan at ${P.site} and list: design of three templates; build of eight pages; editing of the owner's notes into readable treatment pages; Hindi translation of five pages as a separate line; WhatsApp button with a prefilled message; Google Maps embed; schema for a medical business and FAQs; Search Console setup. Hosting would be bought in the clinic's name. Online booking with slot rules was discussed and deliberately left for phase two, because WhatsApp handles current volume. After launch, two months of edits are free, covering new treatment prices and timing changes.`,
       ],
     },
     {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       heading: "Website developer ka kharcha kitna hota hai? Simple hisaab",
       paragraphs: [
         `Website ka kharcha teen hisson mein samjhiye. Pehla, banwane ka ek baar ka kharcha: design, pages aur features. Doosra, har saal ka kharcha: domain, hosting aur email, jo aap seedha provider ko dete hain. Teesra, maintenance, jo zarurat ho toh hi lijiye.`,
-        `Hamare saath simple business website ${P.site} se shuru hoti hai, SEO website ${P.seoSite} se aur online store ${P.shop} se. Launch ke baad 5 mahine maintenance free hai, uske baad ${P.care} se. Quote line by line milta hai, toh jo cheez abhi nahi chahiye use hata sakte hain.`,
+        `Hamare saath simple business website ${P.site} se shuru hoti hai, SEO website ${P.seoSite} se aur online store ${P.shop} se. Launch ke baad 2 mahine maintenance free hai, uske baad ${P.care} se. Quote line by line milta hai, toh jo cheez abhi nahi chahiye use hata sakte hain.`,
       ],
     },
   ],
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, cart, checkout, order basics"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Logins, roles, admin panel, APIs"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Technical fixes, content, reporting"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Updates, backups, edits, speed checks"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Updates, backups, edits, speed checks"],
       ],
       hideSm: [2],
     },
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
         ["Hosting and SSL", "Hosting provider", "Monthly or yearly", "Check the renewal rate, not only the offer"],
         ["Business email", "Email provider", "Per mailbox", "Optional; many start with one mailbox"],
         ["Theme or plugin licences", "Vendor", "Usually yearly", "Only if the build needs them"],
-        ["Maintenance", "Developer", "Monthly, optional", `Free for 5 months, then from ${P.care}`],
+        ["Maintenance", "Developer", "Monthly, optional", `Free for 2 months, then from ${P.care}`],
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Receive the itemised estimate", "In about two working days you get each line with its price and a timeline. Remove, add or phase lines. Nothing is billed before written approval."],
       ["Open accounts in your name", "Domain, hosting and email are bought by you from providers, with us added as users, so recurring costs appear on your own statements."],
       ["Build, review and launch", "Pages appear on a staging link for review on your phone. Payments follow the agreed stages, and launch happens after final approval."],
-      ["Free upkeep, then your choice", `Five months of maintenance are included. Afterwards you can continue from ${P.care}, take over yourself or move to another developer.`],
+      ["Free upkeep, then your choice", `Two months of maintenance are included. Afterwards you can continue from ${P.care}, take over yourself or move to another developer.`],
     ],
   },
   faqHeading: "Website developer cost: questions people ask",
@@ -370,22 +370,22 @@ const content: FreelanceContent = {
     { question: "How much does a website developer charge in India?", answer: `It depends on page count, features and content work, and quotes across the market vary widely. With BtechWaleTech a static business website of up to 100 pages starts at ${P.site}, an SEO website with 299+ pages at ${P.seoSite} and an online store at ${P.shop}. You receive an itemised estimate before anything is billed.` },
     { question: "What is included in website developer cost?", answer: "A complete estimate covers planning, design, development, forms and integrations, content handling, SEO setup, launch and a support period. Domain, hosting and email are usually paid directly to providers. Ask for each item as a separate line so you can see what is included, what is optional and what someone else must provide." },
     { question: "Why do website quotes differ so much?", answer: "Different quotes usually assume different scope: more unique layouts, custom features, content writing, integrations or longer support. Experience and overheads also play a part. Put every quote into the same line items, such as pages, features, content, ownership and aftercare, and most of the difference becomes explainable before you compare totals." },
-    { question: "What are the yearly costs of a website after it is built?", answer: `After launch you pay domain renewal, hosting and any business email mailboxes to their providers, plus theme or plugin licences if your site uses paid ones. Maintenance is optional; with us it is free for five months after launch and then starts at ${P.care}. Ongoing SEO, if you want it, starts at ${P.seo}.` },
+    { question: "What are the yearly costs of a website after it is built?", answer: `After launch you pay domain renewal, hosting and any business email mailboxes to their providers, plus theme or plugin licences if your site uses paid ones. Maintenance is optional; with us it is free for two months after launch and then starts at ${P.care}. Ongoing SEO, if you want it, starts at ${P.seo}.` },
     { question: "Is domain and hosting included in website developer cost?", answer: "Usually not, and ideally they should not be resold to you. Buying the domain and hosting in your own name, paid from your own account, keeps ownership clear and costs transparent. We help you choose and set them up on a short call, but the provider bills you directly." },
     { question: "How much does a small business website cost?", answer: `A small business site with a handful of service pages, an enquiry form, a WhatsApp button and a map fits our static website plan, which starts at ${P.site} and takes 1–2 weeks. The estimate rises with extra unique layouts, content writing, translations or features such as bookings.` },
     { question: "How much does an ecommerce website developer cost?", answer: `With BtechWaleTech an online store starts at ${P.shop} and takes 4–8 weeks. That covers catalogue, cart, UPI and card checkout and order basics. Product count, variants, shipping rules, GST invoice needs and integrations with stock or accounting software decide where the final estimate lands.` },
-    { question: "Does a website developer charge hourly or per project?", answer: "For defined website builds most developers in India quote per project. Hourly or retainer billing is more common for ongoing change requests. BtechWaleTech prices builds per project, itemised by line, covers small changes free for five months after launch, and handles later work through maintenance or a small estimate per change." },
+    { question: "Does a website developer charge hourly or per project?", answer: "For defined website builds most developers in India quote per project. Hourly or retainer billing is more common for ongoing change requests. BtechWaleTech prices builds per project, itemised by line, covers small changes free for two months after launch, and handles later work through maintenance or a small estimate per change." },
     { question: "What hidden costs should I watch for?", answer: "Common surprises include yearly renewals for premium themes and plugins, extra revision rounds, rework when content changes late, domain transfer fees if the developer registered it, marked-up hosting, missing backups and paid support starting from launch day. Ask about each before signing and have the answers written in the quote." },
     { question: "Can I reduce website developer cost without losing quality?", answer: "Yes. Launch with the pages that bring enquiries first, reuse a few strong templates, write rough text yourself, use your own photos and give one person approval authority. Do not cut domain ownership, HTTPS, backups, mobile testing or basic SEO setup, because those are cheap and protect everything else." },
-    { question: "Is maintenance included in the website cost?", answer: `With BtechWaleTech, yes for the first five months after launch: content edits, bug fixes, updates, backups and speed checks. After that maintenance is optional and starts at ${P.care}. Because all accounts are in your name, you can also maintain the site yourself or hand it to another developer.` },
+    { question: "Is maintenance included in the website cost?", answer: `With BtechWaleTech, yes for the first two months after launch: content edits, bug fixes, updates, backups and speed checks. After that maintenance is optional and starts at ${P.care}. Because all accounts are in your name, you can also maintain the site yourself or hand it to another developer.` },
     { question: "Is SEO part of website developer cost?", answer: `The technical foundation should be: titles, descriptions, clean URLs, schema, sitemap, fast loading and Search Console setup. We include these in every build. Ongoing SEO such as content, local listings and monthly fixes is a separate service from ${P.seo}. No one can honestly guarantee specific rankings.` },
     { question: "How much advance should I pay a website developer?", answer: "Pay in stages tied to work you can see, not the whole amount upfront. A common pattern is an advance to start, a payment when designs or the first pages are on a staging link, and the balance before launch. Our payment stages are set out in your written estimate, and nothing is billed before you approve it." },
     { question: "Why is a custom web app priced higher than a website?", answer: `A web app stores data, applies rules and has user accounts, so it needs a database, security, permissions and far more testing than pages of content. That is why custom web apps and portals start at ${P.software} with a 6–12 week timeline, compared with ${P.site} for a static website.` },
     { question: "Does website developer cost change by city?", answer: "Our prices are the same everywhere because all work is remote and there is no office to pay for. Across the market, quotes vary more with experience, scope and overheads than with the city the developer lives in. Compare scope and ownership terms first, then price." },
     { question: "Do you give a GST invoice or proper bill?", answer: "Ask us when requesting your estimate and we will confirm the billing details for your project in writing. Every project comes with a written, itemised estimate and payment records. In India payments are by UPI or bank transfer; international clients pay through Wise, bank wire or PayPal." },
-    { question: "Website banwane ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath simple business website ${P.site} se shuru hoti hai aur 1–2 hafte lagte hain. SEO website ${P.seoSite} se aur online store ${P.shop} se shuru hota hai. Domain aur hosting aap seedha provider ko pay karte hain. Launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Website banwane ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath simple business website ${P.site} se shuru hoti hai aur 1–2 hafte lagte hain. SEO website ${P.seoSite} se aur online store ${P.shop} se shuru hota hai. Domain aur hosting aap seedha provider ko pay karte hain. Launch ke baad 2 mahine maintenance free hai.` },
     { question: "What does website developer cost look like for clients outside India?", answer: `The same scope is priced in USD: a static website from ${P.siteUsd}, an SEO website from ${P.seoSiteUsd} and an online store from ${P.shopUsd}. Payments go through Wise, bank wire or PayPal. Calls are scheduled in overlapping hours and progress is shared on staging links.` },
-    { question: "What happens if I want more pages after launch?", answer: "Small additions and edits during the five free months are covered by maintenance. A larger batch of new pages or a new feature gets its own short itemised estimate, priced on the same basis as the original build, so you know the cost before any work begins." },
+    { question: "What happens if I want more pages after launch?", answer: "Small additions and edits during the two free months are covered by maintenance. A larger batch of new pages or a new feature gets its own short itemised estimate, priced on the same basis as the original build, so you know the cost before any work begins." },
   ],
   related: {
     heading: "More on website costs, rates and budgets",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want your website developer cost broken into lines?",
-    note: `Send your requirement on WhatsApp and get an itemised estimate in about two working days. Business websites start at ${P.site}, domain and hosting stay in your name, and the first five months of maintenance are free.`,
+    note: `Send your requirement on WhatsApp and get an itemised estimate in about two working days. Business websites start at ${P.site}, domain and hosting stay in your name, and the first two months of maintenance are free.`,
   },
 };
 

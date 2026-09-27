@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT services · Tiruchirappalli, Tamil Nadu",
     h1: "Freelance software developers for Tiruchirappalli's fabricators, institutions and service businesses",
     lede:
-      "Freelance software developers for Tiruchirappalli, working as a group of three remote engineers under the BtechWaleTech name. We build vendor job-tracking systems for the fabrication units around BHEL, admission and fee software for Trichy's schools and colleges, WhatsApp AI agents, dashboards, mobile apps and the websites that bring in enquiries. If you were about to hire a software development team in Tiruchirappalli, compare us first: prices are public and five months of maintenance come free.",
+      "Freelance software developers for Tiruchirappalli, working as a group of three remote engineers under the BtechWaleTech name. We build vendor job-tracking systems for the fabrication units around BHEL, admission and fee software for Trichy's schools and colleges, WhatsApp AI agents, dashboards, mobile apps and the websites that bring in enquiries. If you were about to hire a software development team in Tiruchirappalli, compare us first: prices are public and two months of maintenance come free.",
     pills: ["Fabrication job tracking", "School and college ERPs", "Lead forms that reach a CRM", "Tamil and English screens", "Code in your name"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that answer admission, fee, stock and appointment questions, read purchase orders, and pass anything unusual to a person.",
     data: "Owner dashboards for work in progress, dues, admissions and collections, pulling from Tally, spreadsheets and your own applications.",
     app: "Android and iOS apps built in Flutter or React Native and published on Google Play and the App Store, for Trichy parents, students, shop-floor supervisors and field technicians, from ₹40,000.",
-    maintenance: "Fixes, updates, backups and small changes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Fixes, updates, backups and small changes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Trichy clients are practical buyers. Fabricators want to know the software will survive a busy BHEL order cycle, and principals want to know admissions will not break in June. A freelance group of three keeps the engineer who scoped your project on your project, with no handover to strangers.",
@@ -199,14 +199,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom software or web app: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
       id: "working-with-us-trichy",
       heading: "How our freelance software developers work with Tiruchirappalli clients",
       paragraphs: [
-        "Our freelance software developers work with Tiruchirappalli clients in five steps: a short discovery call, an itemised written quote, weekly demos of working screens, launch with training, and five months of free maintenance. Everything happens over WhatsApp and video calls, and you always know what is being built this week.",
+        "Our freelance software developers work with Tiruchirappalli clients in five steps: a short discovery call, an itemised written quote, weekly demos of working screens, launch with training, and two months of free maintenance. Everything happens over WhatsApp and video calls, and you always know what is being built this week.",
         "At handover you receive the source code, the database, every login and a written note explaining how the system is deployed. The hosting, domain and code repository sit in your name from day one. If you later hire someone else, they can take over without asking us for anything.",
         "We are honest about limits. We do not guarantee rankings, we do not write fake reviews, and we do not replace certified systems where regulation requires them. We will tell you if a smaller project would solve the problem. You can read <a href=\"/about/\">more about us</a>, browse <a href=\"/portfolio/\">our portfolio</a>, see <a href=\"/services/\">all services</a>, or start a conversation through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of maintenance are free once the system is live. This includes bug fixes, security and dependency updates, backups, uptime monitoring and small content changes. Afterwards, plans start at ₹8,000 a month, or you can pay per change. New features are always quoted separately so you know the cost upfront.",
+        "Two months of maintenance are free once the system is live. This includes bug fixes, security and dependency updates, backups, uptime monitoring and small content changes. Afterwards, plans start at ₹8,000 a month, or you can pay per change. New features are always quoted separately so you know the cost upfront.",
     },
     {
       question: "How soon will SEO bring enquiries in Trichy?",

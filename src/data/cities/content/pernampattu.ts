@@ -56,7 +56,7 @@ const pernampattu: CityContent = {
     ai: "WhatsApp assistants that answer buyer questions on grades, thickness and sample dispatch in English or Tamil, and hand serious leads to you.",
     data: "Dashboards of lots processed, rejections, dispatches and dues by buyer, so the owner sees the month at a glance.",
     app: "Android and iOS apps from ₹40,000 for tannery supervisors to log batches or for leather shops to take repeat orders, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Pernambut trades on trust built over generations, and most owners here prefer to deal with people who answer the phone. We reply on WhatsApp every day, publish starting prices, send quotes in writing and register every domain, server and store account in your name. If something will not earn back its cost, we tell you before you spend.",
@@ -167,7 +167,7 @@ const pernampattu: CityContent = {
       heading: "Ownership, handover and maintenance after launch",
       paragraphs: [
         "Everything we build for a Pernambut client is registered in the client's name: the domain, the hosting, the source code, Google Business Profile access and the Play Store and App Store developer accounts. If you ever want to move to another developer, you already hold every key.",
-        "After launch, you get five months of maintenance free. That covers bug fixes, small text and price changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular care; many simple websites need very little and you can pay only when changes come up.",
+        "After launch, you get two months of maintenance free. That covers bug fixes, small text and price changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular care; many simple websites need very little and you can pay only when changes come up.",
         "Before handover we give you a short written note listing every login, where the backups live and how to update common details yourself. If a key staff member leaves, the business keeps running.",
       ],
     },
@@ -253,7 +253,7 @@ const pernampattu: CityContent = {
     {
       question: "What does maintenance cost after the website is launched?",
       answer:
-        "You get five months of free maintenance after launch, covering bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for sites or apps needing regular updates. Simple sites that rarely change can skip a monthly plan and pay only when work is needed.",
+        "You get two months of free maintenance after launch, covering bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for sites or apps needing regular updates. Simple sites that rarely change can skip a monthly plan and pay only when work is needed.",
     },
     {
       question: "Can you build an online store for leather belts, wallets and bags?",

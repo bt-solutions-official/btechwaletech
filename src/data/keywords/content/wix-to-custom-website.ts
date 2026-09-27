@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Stores", `Ecommerce rebuilds from ${P.shop}`],
     ["Rankings", "Every old URL redirected, none left to 404"],
     ["Ownership", "Domain, hosting and code in your name"],
-    ["After the move", "5 months of free maintenance"],
+    ["After the move", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers handling content, code and SEO" },
     { value: "2", label: "Working days to an itemised migration quote" },
-    { value: "5", label: "Months of free fixes after switchover" },
+    { value: "2", label: "Months of free fixes after switchover" },
     { value: "100", label: "Pages included in the static plan" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Bookings or member areas", value: `From ${P.software}, 6–12 weeks` },
       { label: "What cannot be exported", value: "Builder design and code: pages are rebuilt" },
       { label: "What we carry over", value: "Text, images, blog posts, products, URLs" },
-      { label: "Care after switchover", value: `5 months free, then from ${P.care}` },
+      { label: "Care after switchover", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -144,7 +144,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Price it like a new site of the same size, plus migration work. A small business site of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. Sites with hundreds of blog posts or location pages start at ${P.seoSite}. Stores start at ${P.shop}. Booking engines or member areas that replace builder apps start at ${P.software}.`,
         `The migration-specific lines are the URL inventory and redirect map, content transfer, domain and email handling, and post-launch monitoring in Search Console. On a small site these are modest; on a site with years of blog posts or a large product catalogue they are a meaningful share of the effort.`,
-        `Think also about the running cost after the move. Instead of a builder plan you pay for hosting and domain directly, and optional care from ${P.care} once the five free months end. For a static site, hosting is often very cheap. We list both sides so you can judge the change honestly. More cost detail sits on <a href='/website-developer-cost/'>website developer cost</a>.`,
+        `Think also about the running cost after the move. Instead of a builder plan you pay for hosting and domain directly, and optional care from ${P.care} once the two free months end. For a static site, hosting is often very cheap. We list both sides so you can judge the change honestly. More cost detail sits on <a href='/website-developer-cost/'>website developer cost</a>.`,
       ],
     },
     {
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
         "Builder plan kept active until email and redirects are confirmed",
         "New sitemap submitted and old URLs spot-checked for 301s",
       ],
-      after: [`For two to four weeks after the move, we check Search Console for crawl errors and 404s and fix any stragglers. That is included in the five free months of maintenance.`],
+      after: [`For two to four weeks after the move, we check Search Console for crawl errors and 404s and fix any stragglers. That is included in the two free months of maintenance.`],
     },
     {
       id: "example",
@@ -289,7 +289,7 @@ const content: FreelanceContent = {
         ["Large blog or location site", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Wix or Squarespace with many posts"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Wix Stores, Squarespace Commerce"],
         ["Bookings or member site", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Builder booking and member apps"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Any migrated site"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Any migrated site"],
       ],
       hideSm: [2],
     },
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
       ["Set up your own accounts", "Hosting, and the domain if you are transferring it, are created in your name. We copy every DNS record, including email, before anything changes."],
       ["Rebuild and transfer on staging", "Pages, blog posts, products and images move to the new site on a private link. You review on your phone while the old site stays live."],
       ["Redirect, switch and verify", "Every old URL gets its 301, the domain switches at a quiet hour, and we confirm SSL, forms, email and redirects before you cancel the builder plan."],
-      ["Monitor for five months", "Search Console is watched for crawl errors in the first weeks, and fixes and small changes are free for five months. Care continues from " + P.care + " if you want it."],
+      ["Monitor for two months", "Search Console is watched for crawl errors in the first weeks, and fixes and small changes are free for two months. Care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Wix to custom website: common questions",
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate from Squarespace or Google Sites too?", answer: "Yes. Squarespace offers a WordPress-format export for pages and posts and CSV for products, which speeds up content transfer. Google Sites content is copied across by hand, and the main gain is control over titles, descriptions and structured data. Both get the same URL inventory and redirect map as a Wix to custom website move." },
     { question: "Will my Wix blog posts keep their dates and images?", answer: "Yes. Each post keeps its title, body, headings, images, publish date and category, and its old address redirects to the new one. Images are downloaded at original quality, compressed and given alt text. Internal links in posts are updated to point directly at the new URLs." },
     { question: "What replaces Wix Bookings or member areas?", answer: `It depends on your rules. A simple enquiry form or embedded calendar covers many service businesses. Custom booking systems handle staff, rooms, deposits or capacity, and member areas get custom logins; these start at ${P.software}. Existing members reset their passwords because builder passwords cannot be moved.` },
-    { question: "Will my monthly cost go down after leaving Wix?", answer: `Often, but not always, so compare honestly. Instead of a builder plan you pay for hosting and the domain directly, and hosting for a static site is usually inexpensive. Maintenance is free for five months after the move and optional afterwards, from ${P.care}. We list running costs in the quote.` },
+    { question: "Will my monthly cost go down after leaving Wix?", answer: `Often, but not always, so compare honestly. Instead of a builder plan you pay for hosting and the domain directly, and hosting for a static site is usually inexpensive. Maintenance is free for two months after the move and optional afterwards, from ${P.care}. We list running costs in the quote.` },
     { question: "Do I need to give you my Wix password?", answer: "Where possible, no. Wix lets site owners invite collaborators with their own logins, and Google Search Console lets you add users, so you keep control and can remove access later. For the domain and hosting, accounts are created in your name and we are added as users." },
     { question: "When is the best time to switch from Wix?", answer: "During a quieter month for your business, not before a festival season, admissions period or big sale. Switchover itself happens at a low-traffic hour, and the builder plan stays active for a short overlap until email, forms and redirects are verified. Only then should you cancel it." },
     { question: "Who owns the new website after migration?", answer: "You do. The code sits in a repository you can access, and the hosting, domain and analytics accounts are in your name. At handover you receive every login, a list of renewals, and notes on editing content, so you can move to any other developer in future without asking anyone’s permission." },
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to move from Wix to a custom website? Send your site link",
-    note: `Share your current Wix, Squarespace or Google Sites address and what is holding you back. You get a URL inventory and itemised quote in about two working days, with rebuilds from ${P.site}, everything in your name and five months of free care after the switch.`,
+    note: `Share your current Wix, Squarespace or Google Sites address and what is holding you back. You get a URL inventory and itemised quote in about two working days, with rebuilds from ${P.site}, everything in your name and two months of free care after the switch.`,
   },
 };
 

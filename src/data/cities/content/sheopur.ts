@@ -57,7 +57,7 @@ const sheopur: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer safari stay, room, price and stock questions and hand bargaining back to you.",
     data: "Dashboards of crop purchases by season, room occupancy by month, or shop sales and pending dues, built from your current records.",
     app: "Android and iOS apps for safari lodges to take bookings or for traders to track farmer accounts, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and seasonal content changes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and seasonal content changes.",
   },
   whyUsIntro:
     "Sheopur owners have seen outsiders arrive with big promises since the cheetahs made news, so they judge on terms, not talk. We publish starting prices, send written itemised quotes, answer WhatsApp every day of the week, and open your domain, hosting, code and store accounts in your name. When a feature is not worth the money, we tell you.",
@@ -151,7 +151,7 @@ const sheopur: CityContent = {
       heading: "Website cost in Sheopur: starting prices explained",
       paragraphs: [
         "Most owners in Sheopur start by asking what a website will cost. A static website of up to 100 pages starts at ₹10,000 and is ready in one to two weeks. When you want pages for every service, crop, village or safari question, an SEO website of 299+ pages starts at ₹20,000 and takes three to five weeks.",
-        "Beyond websites, Android and iOS apps start at ₹40,000, AI and WhatsApp automation starts at ₹40,000 over two to four weeks, online stores start at ₹50,000 over four to eight weeks, and custom software such as a mandi register starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the five free months after launch are over.",
+        "Beyond websites, Android and iOS apps start at ₹40,000, AI and WhatsApp automation starts at ₹40,000 over two to four weeks, online stores start at ₹50,000 over four to eight weeks, and custom software such as a mandi register starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the two free months after launch are over.",
         "Quotes from different providers in Sheopur, Gwalior and Kota vary widely, so compare them carefully: who owns the domain, whether Hindi content is included, how many revisions you get and what support looks like after launch. We send an itemised quote in about two working days and bill nothing before your approval. The full list is on our <a href=\"/pricing/\">pricing</a> page.",
       ],
     },
@@ -178,7 +178,7 @@ const sheopur: CityContent = {
       heading: "Ownership and upkeep: your Sheopur website belongs to you",
       paragraphs: [
         "A hotel that has spent two seasons building Google reviews and search visibility cannot afford to lose its domain because a developer disappeared. So we register the domain, hosting, source code and app store accounts under your business from the first day. Passwords stay with you, and we use only the access you allow.",
-        "For five months after launch, maintenance is free, covering fixes, small edits and security updates. After that, plans start at ₹8,000 a month for backups, updates, uptime checks and changes such as new tariffs, safari season dates, crop rates or product photographs.",
+        "For two months after launch, maintenance is free, covering fixes, small edits and security updates. After that, plans start at ₹8,000 a month for backups, updates, uptime checks and changes such as new tariffs, safari season dates, crop rates or product photographs.",
         "If you ever choose a different developer, you take the full code and access with you at no charge. We would rather keep your work by doing it well than by holding the keys.",
       ],
     },
@@ -251,7 +251,7 @@ const sheopur: CityContent = {
     {
       question: "What happens after my Sheopur website goes live?",
       answer:
-        "Five months of maintenance are free after launch, covering bug fixes, small edits and security updates. From then on, plans start at ₹8,000 a month for backups, updates, uptime checks and seasonal changes such as new tariffs or crop rates. You can also manage it yourself, since you hold every login.",
+        "Two months of maintenance are free after launch, covering bug fixes, small edits and security updates. From then on, plans start at ₹8,000 a month for backups, updates, uptime checks and seasonal changes such as new tariffs or crop rates. You can also manage it yourself, since you hold every login.",
     },
     {
       question: "You have no office in Sheopur. How does the work happen?",

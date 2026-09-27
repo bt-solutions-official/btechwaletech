@@ -35,7 +35,7 @@ const madanapalle: CityContent = {
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Silk saree stores", "Trader and school sites", "WhatsApp order tools"],
   },
   quickAnswer:
-    "A static business website in Madanapalle starts from ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online saree or produce store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We work remotely with no Madanapalle office, and maintenance is free for five months.",
+    "A static business website in Madanapalle starts from ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, an online saree or produce store from ₹50,000 and WhatsApp or AI automation from ₹40,000. We work remotely with no Madanapalle office, and maintenance is free for two months.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Annamayya district, formed in April 2022 from parts of Chittoor and Kadapa districts" },
     { label: "Signature market", value: "Widely described as Asia's biggest tomato market, sending produce to states across south and north India" },
@@ -52,7 +52,7 @@ const madanapalle: CityContent = {
     ai: "WhatsApp replies in Telugu and English for arrival timings, saree catalogues, fees and doctor schedules, with money matters routed to a person.",
     data: "Dashboards that show daily arrivals and dispatches, saree stock by design or admissions by class, readable on a phone.",
     app: "Android and iOS apps for mandi staff, weavers and school transport that keep working on weak signal and sync later, from ₹40,000.",
-    maintenance: "Five free months of updates, backups and edits after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two free months of updates, backups and edits after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Madanapalle businesses often get websites from Bengaluru or Tirupati agencies that never visit, never answer, and keep the domain. We are a small remote team too, but we publish our starting prices, answer WhatsApp every day and register everything in your name, so the site stays yours even if we part ways.",
@@ -195,7 +195,7 @@ const madanapalle: CityContent = {
       paragraphs: [
         "Many businesses discover too late that their website belonged to the developer. The domain was in his account, the hosting was on his card, and when he moved on the site went offline.",
         "We avoid that from the start. Your domain and hosting are registered in your name and paid from your account. At launch you get every login, the full source code and a short setup note. Our <a href=\"/services/web-development/\">web development</a> uses standard, documented tools so another developer can pick it up later, and we charge nothing to hand it over.",
-        "For five months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small changes. After that you can continue from ₹8,000 a month or come to us only when needed.",
+        "For two months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small changes. After that you can continue from ₹8,000 a month or come to us only when needed.",
       ],
     },
     {
@@ -286,7 +286,7 @@ const madanapalle: CityContent = {
     {
       question: "What support is included after launch?",
       answer:
-        "Five months of free maintenance covering updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts from ₹10,000.",
+        "Two months of free maintenance covering updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long does SEO take to show results in Madanapalle?",

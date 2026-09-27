@@ -56,7 +56,7 @@ const sherkot: CityContent = {
     ai: "Hindi WhatsApp assistants that answer price list, minimum order, sample and dispatch questions from dealers across the country.",
     data: "Dashboards of orders by state and dealer, stock by brush series and size, and pending payments by distributor.",
     app: "Android and iOS apps for dealers to re-order brush series or for a school to send notices to parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Sherkot's brush makers have supplied distant markets for years mostly through agents, dealers and phone calls, and they are right to be wary of anyone promising overnight online sales. We give written scope, published starting prices, replies on WhatsApp every day of the week and accounts in your own name, and we tell you when a tool will not pay for itself.",
@@ -168,7 +168,7 @@ const sherkot: CityContent = {
       heading: "Ownership and maintenance for Sherkot websites and apps",
       paragraphs: [
         "Everything we build belongs to you. The domain is registered on your email, the hosting bill is in your name, the full source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. You receive a written sheet of every login at handover, so no one, including us, can hold your website to ransom later.",
-        "Maintenance is free for five months after launch. During that time we update rate lists and photographs, take backups, apply security and software updates, and check that forms, checkout and WhatsApp buttons still work. After that, you decide: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
+        "Maintenance is free for two months after launch. During that time we update rate lists and photographs, take backups, apply security and software updates, and check that forms, checkout and WhatsApp buttons still work. After that, you decide: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
         "Apps need a refresh every year even when nothing is broken, because Google and Apple keep raising their minimum requirements. We track those deadlines and ship updates in time, so your app is not removed from the store. Our <a href=\"/services/web-development/\">web development page</a> explains how we keep sites fast and secure after launch.",
       ],
     },
@@ -260,7 +260,7 @@ const sherkot: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: rate list and photo updates, backups, security patches and regular checks of forms, checkout and WhatsApp links. After that it starts at ₹8,000 a month if you want to continue with us. The code and accounts are in your name, so you can move to anyone else freely.",
+        "Maintenance is free for two months after launch: rate list and photo updates, backups, security patches and regular checks of forms, checkout and WhatsApp links. After that it starts at ₹8,000 a month if you want to continue with us. The code and accounts are in your name, so you can move to anyone else freely.",
     },
     {
       question: "Do you also work in Dhampur, Afzalgarh and Bijnor?",

@@ -7,7 +7,7 @@ const robertsonPet: CityContent = {
   meta: {
     title: "KGF and Robertsonpet Website Design and Local SEO",
     description:
-      "Websites, Tamil and Kannada local SEO and WhatsApp automation for Robertsonpet and KGF shops, schools, clinics and suppliers. From ₹10,000, 5 months free upkeep.",
+      "Websites, Tamil and Kannada local SEO and WhatsApp automation for Robertsonpet and KGF shops, schools, clinics and suppliers. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in KGF",
       "website designer Robertsonpet",
@@ -30,11 +30,11 @@ const robertsonPet: CityContent = {
     eyebrow: "Robertsonpet · Kolar Gold Fields, Karnataka",
     h1: "Websites, software, SEO and AI tools for Robertsonpet and the KGF townships",
     lede:
-      "Kolar Gold Fields has moved from mining to trade, schools, small industry and daily commuting to Bengaluru, and its customers now look businesses up online first. Our remote team of three engineers builds quick websites, UPI stores and WhatsApp automations here, publishes starting prices, and gives five months of free maintenance after launch.",
+      "Kolar Gold Fields has moved from mining to trade, schools, small industry and daily commuting to Bengaluru, and its customers now look businesses up online first. Our remote team of three engineers builds quick websites, UPI stores and WhatsApp automations here, publishes starting prices, and gives two months of free maintenance after launch.",
     pills: ["Sites from ₹10,000", "Tamil, Kannada, Telugu and English", "Pages for every KGF township", "WhatsApp enquiry automation", "Domain and code in your name"],
   },
   quickAnswer:
-    "In Robertsonpet and the KGF area, our websites start at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no KGF office, and each launch includes five months of free maintenance.",
+    "In Robertsonpet and the KGF area, our websites start at ₹10,000 and a 299+ page SEO website starts at ₹20,000. Online stores start from ₹50,000 and custom web apps from ₹60,000. We are a remote team of three engineers with no KGF office, and each launch includes two months of free maintenance.",
   snapshot: [
     { label: "Founded", value: "Laid out in 1901 as New Town, renamed Robertsonpet in 1903 after Sir Donald Robertson" },
     { label: "Mining history", value: "Gold mines ran for over a century and closed on 28 February 2001" },
@@ -51,7 +51,7 @@ const robertsonPet: CityContent = {
     ai: "WhatsApp assistants that reply in Tamil, Kannada or English to routine questions and hand real enquiries to your staff promptly.",
     data: "Dashboards for distributors and dealers who supply shops across Robertsonpet, Bangarapet, Kolar and the Andhra border towns.",
     app: "Android and iOS apps for school notices, clinic tokens and field staff reports on budget phones, released on both stores, starting at ₹40,000.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month, with school admission and festival months planned for.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then from ₹8,000 a month, with school admission and festival months planned for.",
   },
   whyUsIntro:
     "KGF residents have long felt overlooked by Bengaluru businesses, and many local owners have had poor experiences with websites that vanished after a year. We work differently: written starting prices, a domain in your name, and three engineers who keep answering on WhatsApp every day of the week.",
@@ -72,7 +72,7 @@ const robertsonPet: CityContent = {
       heading: "Website prices for KGF and Robertsonpet businesses",
       paragraphs: [
         "Our starting prices are published so you can plan before calling anyone. A business website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO website with 299+ pages, covering every service and each KGF township or nearby town you serve, starts at ₹20,000 and takes three to five weeks. An online store with UPI and card checkout starts from ₹50,000, and a custom web application starts from ₹60,000.",
-        "AI and WhatsApp automation starts at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the first five free months end. See our <a href=\"/pricing/\">pricing page</a> for details.",
+        "AI and WhatsApp automation starts at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month once the first two free months end. See our <a href=\"/pricing/\">pricing page</a> for details.",
         "What moves the final number is scope. A small bakery or tuition centre with a handful of pages is quick. A school with admissions, fee payments, notices in two languages and a photo gallery needs more work. The quote lists every page and feature, and you are not billed until you approve it in writing.",
       ],
       list: [
@@ -181,7 +181,7 @@ const robertsonPet: CityContent = {
         "Many KGF businesses have had websites built by someone who kept the domain and later disappeared. When renewals lapse, the site goes offline and years of Google history vanish. We set things up so that cannot happen to you.",
         "This matters more than it sounds. Your website address ends up printed on shop boards, visiting cards, school diaries and delivery bags. If the domain is lost, all of that printing points to nothing, and rebuilding the Google history of a new address takes months.",
         "The domain is registered in your name, the hosting account is yours, and at launch you receive every login plus a short note explaining what runs where. The source code belongs to you, and you can take it to any developer later without an exit fee.",
-        "For five months after launch, maintenance is free: content and price updates, bug fixes, security updates, backups, uptime checks and speed tests. After that, maintenance starts at ₹8,000 a month, or you can pay per change whenever you need one.",
+        "For two months after launch, maintenance is free: content and price updates, bug fixes, security updates, backups, uptime checks and speed tests. After that, maintenance starts at ₹8,000 a month, or you can pay per change whenever you need one.",
       ],
     },
     {
@@ -272,7 +272,7 @@ const robertsonPet: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change.",
+        "For two months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Do you work with businesses in Bangarapet, Kolar and nearby towns?",

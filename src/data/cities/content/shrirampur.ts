@@ -56,7 +56,7 @@ const shrirampur: CityContent = {
     ai: "WhatsApp assistants in Marathi that answer rate, loan, fee and timing questions and hand real decisions to your staff.",
     data: "Dashboards of loan recovery by branch, onion lots sold by grade and rate, and dealer credit across villages.",
     app: "Android and iOS apps for patsanstha members to check balances or for dealers' village retailers to re-order, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Shrirampur was built on co-operatives, and people here expect clear accounts and answers to every question at the annual meeting. We work the same way: published starting prices, a written itemised quote, WhatsApp replies every day of the week, and domain, hosting, code and app store accounts registered to you. If a feature will not pay for itself, we say so.",
@@ -177,7 +177,7 @@ const shrirampur: CityContent = {
       heading: "Ownership and maintenance for Shrirampur websites and apps",
       paragraphs: [
         "Too many small-town websites vanish because the developer kept the domain in his own name. We register the domain, hosting, source code, Google Business Profile, cloud accounts, and Play Store and App Store developer accounts in your name, and hand over every login in writing.",
-        "Maintenance is free for five months after launch, covering content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you choose.",
+        "Maintenance is free for two months after launch, covering content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you choose.",
         "Apps need yearly updates as Google and Apple change their requirements, and we track those changes so your app stays in the stores. For societies and traders, we test backups by actually restoring them, because a backup nobody has tried is only a hope.",
       ],
     },
@@ -269,7 +269,7 @@ const shrirampur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code to another developer at any time, with no lock-in.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code to another developer at any time, with no lock-in.",
     },
     {
       question: "Do you work in Rahuri, Newasa and Shirdi too?",

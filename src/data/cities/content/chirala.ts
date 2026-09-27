@@ -56,7 +56,7 @@ const chirala: CityContent = {
     ai: "WhatsApp assistants in Telugu that share catalogues, answer price and stock questions and book resort enquiries.",
     data: "Dashboards of designs sold, colours in demand, loom output and dues by buyer, readable on a phone.",
     app: "Android and iOS apps for saree retailers who re-order stock or for resorts taking repeat bookings, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Chirala traders bargain carefully and remember who delivered. We publish starting prices, send itemised written quotes, reply on WhatsApp seven days a week and register your domain, hosting, code and store accounts in your name. If a feature will not earn back its cost, we say so before you pay for it.",
@@ -187,7 +187,7 @@ const chirala: CityContent = {
       heading: "Ownership and maintenance for Chirala websites and apps",
       paragraphs: [
         "We register your domain, hosting, source code, Google Business Profile and any Play Store or App Store accounts in your name, and hand over every login in writing. If you switch providers later, everything goes with you.",
-        "Maintenance is free for five months after launch: content and price updates, new saree designs, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue.",
+        "Maintenance is free for two months after launch: content and price updates, new saree designs, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue.",
         "Apps need yearly updates as Google and Apple change their requirements. We track those changes and update your app in time so it stays in the stores, and we tell you beforehand if any update involves extra cost.",
       ],
     },
@@ -270,7 +270,7 @@ const chirala: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, new products, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You may take the code to another developer whenever you wish.",
+        "The first two months of maintenance are free, covering updates, new products, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You may take the code to another developer whenever you wish.",
     },
     {
       question: "Do you work in Vetapalem, Bapatla and Ongole as well?",

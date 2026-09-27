@@ -7,7 +7,7 @@ const ludhiana: CityContent = {
   meta: {
     title: "IT Services in Ludhiana: Websites, Apps, SEO & AI",
     description:
-      "Websites, B2B catalogues, SEO and WhatsApp automation for Ludhiana hosiery, cycle-parts and machine-tool firms. From ₹10,000, with 5 months free maintenance.",
+      "Websites, B2B catalogues, SEO and WhatsApp automation for Ludhiana hosiery, cycle-parts and machine-tool firms. From ₹10,000, with 2 months free maintenance.",
     keywords: [
       "website development team in Ludhiana",
       "web design team Ludhiana",
@@ -35,7 +35,7 @@ const ludhiana: CityContent = {
     pills: ["Sites from ₹10,000", "Catalogues for dealers", "Punjabi, Hindi and English SEO", "WhatsApp order flows", "Custom ERP-style tools"],
   },
   quickAnswer:
-    "A Ludhiana business can get a static website from us from ₹10,000 and a 299+ page SEO website from ₹20,000. Online stores begin at ₹50,000 and custom web applications at ₹60,000. We are a remote freelance team of three engineers, so there is no office overhead in the price, you own every account, and maintenance is free for five months after launch.",
+    "A Ludhiana business can get a static website from us from ₹10,000 and a 299+ page SEO website from ₹20,000. Online stores begin at ₹50,000 and custom web applications at ₹60,000. We are a remote freelance team of three engineers, so there is no office overhead in the price, you own every account, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Industrial zones", value: "Focal Point, Industrial Areas A and B, Giaspura, Dhandari Kalan and the Gill Road machinery belt" },
     { label: "Signature industries", value: "Hosiery and woollen knitwear, bicycles and bicycle parts, machine tools, sewing-machine parts and auto components" },
@@ -52,7 +52,7 @@ const ludhiana: CityContent = {
     ai: "WhatsApp flows and AI assistants that answer rate, stock and delivery questions in Punjabi, Hindi or English and log every order.",
     data: "Season-by-season sales, design performance and dealer payment dashboards that an owner can read on a phone.",
     app: "Android and iOS apps for dealer reorders, field sales reports and patient or student portals, published on Google Play and the App Store.",
-    maintenance: "Catalogue updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Catalogue updates, backups, security patches and speed checks, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Ludhiana has web designers on every other street, many of them reselling the same template to dozens of units. Quotes are vague and ownership is rarely discussed until it becomes a problem. We publish our starting prices, register every domain and hosting account in your name, and answer WhatsApp seven days a week.",
@@ -177,7 +177,7 @@ const ludhiana: CityContent = {
       paragraphs: [
         "In Ludhiana we regularly meet owners whose websites are held hostage without anyone meaning harm. The domain was booked by a designer's cousin, the hosting runs on a reseller account, and changing a single phone number needs a favour. When the designer moves on, the site expires with the business email addresses attached to it.",
         "We register the domain and hosting in your name from the first day. At launch you receive every login, the complete source code and a short note explaining the setup. You can take the site or system to any other developer without an exit fee or our permission.",
-        "The first five months of maintenance after launch are free: catalogue and price updates, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month, or contact us only when you need changes.",
+        "The first two months of maintenance after launch are free: catalogue and price updates, bug fixes, security and dependency updates, backups, uptime checks and speed reviews. After that you can continue from ₹8,000 a month, or contact us only when you need changes.",
       ],
     },
   ],

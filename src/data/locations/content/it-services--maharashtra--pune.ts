@@ -35,7 +35,7 @@ const content: CityContent = {
     h1: "Freelance software developers in Pune for SaaS MVPs, AI agents, dashboards and apps",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Pune founders, Chakan and Bhosari suppliers, IT service SMEs, institutes and PG operators hire us instead of a software development team in Pune to build SaaS MVPs, traceability systems, AI agents, dashboards and Android and iOS apps, with cloud setup and SEO included.",
-    pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Dashboards and BI", "5 months free maintenance"],
+    pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Dashboards and BI", "2 months free maintenance"],
   },
   quickAnswer:
     "Instead of a software development team in Pune, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000, with an itemised quote in about two working days.",
@@ -58,7 +58,7 @@ const content: CityContent = {
     ai: "AI agents and document assistants that answer from your own manuals, policies and data, with human review for anything sensitive.",
     data: "Dashboards and BI for Pune manufacturers, SaaS teams and D2C brands, pulling from ERPs, product databases, ad accounts and sheets.",
     app: "Android and iOS apps for Pune startups, PG operators, field teams and institutes, built once in Flutter or React Native, from ₹40,000.",
-    maintenance: "Monitoring, backups, updates and small changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Monitoring, backups, updates and small changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Pune has world-class IT firms, but they are built for large, long contracts. Founders and SME owners here often need something smaller and faster: a working product, a supplier system or a dashboard, from engineers they can message directly. That is the work we do.",
@@ -172,7 +172,7 @@ const content: CityContent = {
       paragraphs: [
         "Pune startups and SMEs need cloud infrastructure that is secure, automated and affordable, with CI/CD pipelines, backups, monitoring and sensible cost controls, set up in their own account from day one. We include this in every project.",
         "Typical infrastructure is AWS or a comparable provider, managed PostgreSQL, object storage and a deployment pipeline that runs tests and deploys with a rollback option. Environments for staging and production are separate. Secrets are managed properly, access is least-privilege, and backups are tested by restoring them.",
-        "We also review existing setups. Many early-stage firms overspend on idle servers or oversized databases; a short review often trims the monthly bill. Hosting and deployment come with five months of free maintenance.",
+        "We also review existing setups. Many early-stage firms overspend on idle servers or oversized databases; a short review often trims the monthly bill. Hosting and deployment come with two months of free maintenance.",
       ],
     },
     {
@@ -199,7 +199,7 @@ const content: CityContent = {
       paragraphs: [
         "A typical Pune custom software project with BtechWaleTech runs in four stages over six to twelve weeks: discovery and a written scope in week one, design and data model in week two, build in weekly cycles on a live preview, and testing, launch and handover in the final one or two weeks. Mobile apps follow the same rhythm over six to ten weeks.",
         "Discovery is short but thorough. We talk to the people who will use the system, collect sample documents and data, and write down the must-have workflow, the users and roles, and what success looks like. That document becomes the itemised quote. During the build, you get a working preview link every week, and feedback from that week shapes the next one, so surprises surface early rather than at the end.",
-        "Testing uses your real data where possible, because edge cases hide there: a supplier code with a slash in it, a student with two guardians, a PG tenant who moves rooms mid-month. Launch includes deployment to your cloud account, app store submission if relevant, a training session over video, and written documentation. Then the five free months of maintenance begin, covering the small adjustments every new system needs once people start using it daily.",
+        "Testing uses your real data where possible, because edge cases hide there: a supplier code with a slash in it, a student with two guardians, a PG tenant who moves rooms mid-month. Launch includes deployment to your cloud account, app store submission if relevant, a training session over video, and written documentation. Then the two free months of maintenance begin, covering the small adjustments every new system needs once people start using it daily.",
       ],
       list: [
         "Week 1: discovery, scope and itemised quote",
@@ -214,7 +214,7 @@ const content: CityContent = {
       paragraphs: [
         "Running a Pune SaaS product or mobile app after launch costs cloud hosting, a managed database, email and notification services, monitoring, third-party APIs such as maps or AI models, app store accounts and ongoing engineering time. For an early MVP with a few hundred users these stay small; they grow with users, stored files and AI usage rather than with the number of features.",
         "Founders in Baner, Kharadi and Hinjewadi are often surprised by two lines: AI model charges, billed per request, which climb quickly if a feature calls a model on every page view, and database costs once logs and uploads accumulate. We design with this in mind, caching repeated answers, limiting what is stored and setting billing alerts on the cloud account so a spike is noticed within hours, not at month end.",
-        "For apps, Google Play charges a one-time registration fee and Apple a yearly developer membership, both paid by you in the product's name. Our maintenance is free for five months after launch and then starts from ₹8,000 a month; many teams move to that plan or hand over to their own hires once revenue arrives.",
+        "For apps, Google Play charges a one-time registration fee and Apple a yearly developer membership, both paid by you in the product's name. Our maintenance is free for two months after launch and then starts from ₹8,000 a month; many teams move to that plan or hand over to their own hires once revenue arrives.",
       ],
       list: [
         "Cloud compute and a managed database",
@@ -240,7 +240,7 @@ const content: CityContent = {
       id: "support-ownership-pune",
       heading: "Support, maintenance and ownership after launch",
       paragraphs: [
-        "Every Pune project includes five months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the repositories, cloud accounts, domains, app store listings and all logins.",
+        "Every Pune project includes two months of free maintenance after launch, covering fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. You own the repositories, cloud accounts, domains, app store listings and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Pune; the engineers who built your system answer your messages. Larger features are quoted before work begins.",
         "Documentation and clean code let your future hires or another vendor continue without rebuilding. Our <a href='/it-services/maharashtra/'>Maharashtra hub</a> covers the state, with sibling pages for <a href='/it-services/maharashtra/mumbai/'>Mumbai</a> and <a href='/it-services/maharashtra/nagpur/'>Nagpur</a>, and nearby <a href='/satara/'>Satara</a> and <a href='/ahmednagar/'>Ahmednagar</a> are served the same way. Read <a href='/about/'>about the team</a> or use the <a href='/contact/'>contact page</a>.",
       ],
@@ -313,7 +313,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month or per change. New features are always quoted first.",
+        "Two months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month or per change. New features are always quoted first.",
     },
     {
       question: "Which technologies do you use?",

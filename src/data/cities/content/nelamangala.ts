@@ -57,7 +57,7 @@ const nelamangala: CityContent = {
     ai: "WhatsApp assistants in Kannada, English and Hindi that answer rate, space and delivery-status questions from drivers and customers, handing tricky cases to you.",
     data: "Dashboards that show dock turnaround, trips per vehicle, pending freight bills and daily dispatch counts in one screen.",
     app: "Android and iOS driver or dealer apps for Nelamangala fleets and distributors, with login and push alerts, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Businesses on the Nelamangala side of Bengaluru deal with tight dispatch windows and suppliers who promise more than they deliver. We publish starting prices, send a written line-by-line quote, answer WhatsApp every day, and register domain, hosting, code and store accounts in your name. When a feature will not earn back its cost, we tell you before you pay for it.",
@@ -160,7 +160,7 @@ const nelamangala: CityContent = {
       heading: "How much does a website cost in Nelamangala?",
       paragraphs: [
         "A basic business website in Nelamangala starts at ₹10,000 with us, and covers anything up to 100 pages, usually finished in one to two weeks. That suits a workshop, clinic, school or shop. A larger SEO website of 299 pages or more starts at ₹20,000 and takes three to five weeks; warehouse operators and transporters use this size to cover every route, service and nearby area properly.",
-        "Beyond websites, Android and iOS apps start at ₹40,000, and so does AI automation. Online stores for agarbathi or silk start at ₹50,000. Custom software such as a dock, gate pass or trip system starts at ₹60,000. Monthly SEO is ₹10,000 onwards, and maintenance is ₹8,000 a month onwards once the free five months end. All of these are starting points; the <a href=\"/pricing/\">pricing page</a> lists them together.",
+        "Beyond websites, Android and iOS apps start at ₹40,000, and so does AI automation. Online stores for agarbathi or silk start at ₹50,000. Custom software such as a dock, gate pass or trip system starts at ₹60,000. Monthly SEO is ₹10,000 onwards, and maintenance is ₹8,000 a month onwards once the free two months end. All of these are starting points; the <a href=\"/pricing/\">pricing page</a> lists them together.",
         "The figure moves up only with things you choose: Kannada pages, a large product range, driver logins, payment collection, Tally or ERP links, or copywriting if you do not want to write the text yourself. Quotes from different Bengaluru-side developers vary widely for similar-looking jobs, so compare what is included rather than the headline number. Ask who owns the domain and code, whether the site is tested on cheap Android phones, how many revision rounds are covered, and what support costs after year one.",
       ],
     },
@@ -178,7 +178,7 @@ const nelamangala: CityContent = {
       heading: "Who owns your website and app, and how maintenance works after launch",
       paragraphs: [
         "You do. The domain is registered with your email, hosting is billed to you, the full source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list your business as owner. At handover you receive a document with every login and where it lives, so no developer, including us, can ever lock you out.",
-        "For five months after launch, maintenance is free. That covers updates to prices and photos, backups, security and version patches, and periodic checks that forms, payment links and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, give the work to your own staff, or move to another developer with everything already in your name.",
+        "For two months after launch, maintenance is free. That covers updates to prices and photos, backups, security and version patches, and periodic checks that forms, payment links and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, give the work to your own staff, or move to another developer with everything already in your name.",
         "Apps need attention every year even when nothing breaks, because Google and Apple raise the minimum versions they accept. We track those deadlines and release updates ahead of time, so a driver or dealer app does not vanish from the store in the middle of your busy season.",
       ],
     },
@@ -270,7 +270,7 @@ const nelamangala: CityContent = {
     {
       question: "What maintenance do you offer after a Nelamangala website goes live?",
       answer:
-        "For five months after a Nelamangala website or app launches, maintenance costs nothing: content edits, backups, security patches and checks on forms, payments and WhatsApp links. After that it is optional, from ₹8,000 a month. Since the code and accounts are in your name, you can also hand upkeep to anyone else.",
+        "For two months after a Nelamangala website or app launches, maintenance costs nothing: content edits, backups, security patches and checks on forms, payments and WhatsApp links. After that it is optional, from ₹8,000 a month. Since the code and accounts are in your name, you can also hand upkeep to anyone else.",
     },
     {
       question: "Do you work in Dabaspet, Tyamagondlu and Sompura as well?",

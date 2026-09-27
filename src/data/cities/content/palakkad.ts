@@ -30,7 +30,7 @@ const palakkad: CityContent = {
     eyebrow: "Palakkad · Kerala",
     h1: "Web design, SEO and automation for Palakkad's factories, farms, clinics and shops",
     lede:
-      "Three engineers working remotely, building websites, Google Maps profiles, online stores and WhatsApp systems for Kanjikode manufacturers and suppliers, rice mills, ayurveda brands, hospitals, colleges, hotels and retailers across Palakkad. Starting prices are written down, the domain and code are registered to you, and maintenance costs nothing for five months after launch.",
+      "Three engineers working remotely, building websites, Google Maps profiles, online stores and WhatsApp systems for Kanjikode manufacturers and suppliers, rice mills, ayurveda brands, hospitals, colleges, hotels and retailers across Palakkad. Starting prices are written down, the domain and code are registered to you, and maintenance costs nothing for two months after launch.",
     pills: ["Sites from ₹10,000", "Malayalam, Tamil and English", "Supplier catalogues", "Maps and reviews", "No lock-in"],
   },
   quickAnswer:
@@ -51,10 +51,10 @@ const palakkad: CityContent = {
     ai: "WhatsApp assistants that reply in Malayalam or English about stock, admissions or appointments, and pass real leads to your staff.",
     data: "Dashboards showing paddy procurement, milling output, vendor invoices or clinic bookings in one view.",
     app: "Android and iPhone apps for field sales teams, maintenance technicians or students checking schedules, published on both stores from ₹40,000.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month or per change.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then from ₹8,000 a month or per change.",
   },
   whyUsIntro:
-    "Palakkad businesses often turn to agencies in Kochi or Coimbatore, then wait days for small changes. We publish starting prices, send line-by-line quotes, reply on WhatsApp seven days a week and keep your site maintained free for five months after it goes live.",
+    "Palakkad businesses often turn to agencies in Kochi or Coimbatore, then wait days for small changes. We publish starting prices, send line-by-line quotes, reply on WhatsApp seven days a week and keep your site maintained free for two months after it goes live.",
   pricingIntro:
     "All prices shown are starting points. A Kanjikode supplier with a hundred part numbers needs more pages than a physiotherapy clinic in Chandranagar, so their quotes differ. You receive the breakdown in writing, item by item, and approve it before any billing.",
   sections: [
@@ -185,7 +185,7 @@ const palakkad: CityContent = {
       paragraphs: [
         "One of the most common problems we see is a domain registered in a former developer's account. When that developer moves to the Gulf or changes careers, the business loses its website and email at the next renewal, and customers find a dead page.",
         "We register the domain in your name and put hosting on your account. At launch you receive every login, the full source code and a short explanation of how everything fits together. You can move to another developer whenever you like, with no exit fee and no permission needed from us.",
-        "Maintenance is free for five months after launch: updates, fixes, security patches, backups and uptime checks. After that, a plan starts at ₹8,000 a month, or you can pay per change if your site stays much the same through the year.",
+        "Maintenance is free for two months after launch: updates, fixes, security patches, backups and uptime checks. After that, a plan starts at ₹8,000 a month, or you can pay per change if your site stays much the same through the year.",
       ],
     },
   ],
@@ -272,7 +272,7 @@ const palakkad: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "The first five months after launch are free. After that, a plan starts at ₹8,000 a month and covers updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you ask for.",
+        "The first two months after launch are free. After that, a plan starts at ₹8,000 a month and covers updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you ask for.",
     },
     {
       question: "How soon will SEO bring enquiries in Palakkad?",

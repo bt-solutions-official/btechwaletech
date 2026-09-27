@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Android and iOS apps", `From ${P.app}, 6–10 weeks`],
     ["Info site for a marriage bureau", `From ${P.site}`],
     ["Member data owned by", "Your trust, samaj or business"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who write your portal’s code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes and updates after launch" },
+    { value: "2", label: "Months of free fixes and updates after launch" },
     { value: "0", label: "Commission taken on your membership fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Trust tools", value: "ID check, photo approval, report and block, moderator queue" },
       { label: "Payments", value: "UPI and card checkout for plans, GST invoice emailed" },
       { label: "Hosting and data", value: "In your own cloud account; you hold every member record" },
-      { label: "Support", value: `5 months free, then maintenance from ${P.care}` },
+      { label: "Support", value: `2 months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp alerts for members", note: `Interest received, profile approved and plan expiry messages over the official WhatsApp Business API, from ${P.ai}.`, href: "/whatsapp-business-api-integration/", size: "md" },
       { name: "AI profile screening", note: "Flags copy-paste bios, stock photos, repeated phone numbers and suspicious sign-up bursts for a human moderator to check, never auto-bans on its own.", href: "/ai-lead-qualification/", size: "sm" },
       { name: "Community and city SEO pages", note: `Landing pages such as “Agarwal matrimony in Jaipur” built from real member categories, with monthly SEO from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Hosting, backups and upkeep", note: `Daily backups, security patches and plan-rule changes, free for five months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Hosting, backups and upkeep", note: `Daily backups, security patches and plan-rule changes, free for two months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. In our matrimonial website development projects the domain, cloud hosting account, source code repository, database and every member record are set up in your trust’s or company’s name from the start, and we work inside them with access you can revoke.`,
         `This matters more for matrimony than almost any other website. Member data is sensitive and long-lived; a committee that changes every two years must be able to hand the keys to the next team without asking a vendor for permission. At launch you receive the repository, database access, admin logins, hosting credentials and a short written guide covering how to add plans, edit field lists and restore a backup.`,
-        `After launch, five months of maintenance are free: bug fixes, security updates and small rule changes. After that, maintenance starts at ${P.care}, or you can move the work to anyone you like, since the code is yours. Payment for the build is by UPI or bank transfer in stages agreed in the written quote, and nothing is billed before you approve it. For contract questions such as confidentiality terms, ask us and we will write them into the quote; our <a href='/terms/'>terms</a> set out the basics.`,
+        `After launch, two months of maintenance are free: bug fixes, security updates and small rule changes. After that, maintenance starts at ${P.care}, or you can move the work to anyone you like, since the code is yours. Payment for the build is by UPI or bank transfer in stages agreed in the written quote, and nothing is billed before you approve it. For contract questions such as confidentiality terms, ask us and we will write them into the quote; our <a href='/terms/'>terms</a> set out the basics.`,
       ],
     },
     {
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Screens before code", "We share clickable wireframes of sign-up, profile, search, interest and admin screens. Your committee comments on real flows instead of long documents."],
       ["Staged build on staging", "Registration and admin arrive first, then search and interests, then plans and checkout. You test each stage on a private link with a few real families."],
       ["Moderator training and launch", "We train your moderators on a recorded video call, load the first approved profiles, switch on payments and move the portal to your domain."],
-      ["Five months of care", "Fixes, security updates and small rule changes are free for five months. After that, maintenance continues from the starting price in your quote, or you move on."],
+      ["Two months of care", "Fixes, security updates and small rule changes are free for two months. After that, maintenance continues from the starting price in your quote, or you move on."],
     ],
   },
   faqHeading: "Matrimonial website development: questions families and founders ask",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Will my matrimonial website rank on Google?", answer: `Public pages can rank for community and city searches such as a community name with matrimony and a city, if they are useful and well built. Member profiles should stay private and out of search. Nobody can honestly guarantee rankings, and national brands dominate generic terms. Ongoing monthly SEO starts at ${P.seo} if you want help after launch.` },
     { question: "Can the website support Hindi and regional languages?", answer: "Yes. The interface can run in English plus Hindi, Gujarati, Marathi, Tamil, Telugu, Bengali or any language you provide translations for. We write in English and Hindi; for other languages your volunteers supply or approve the text. Members can type their profile details in any language, and search filters keep working because they rely on list values, not free text." },
     { question: "Kya chhote samaj ke liye matrimonial website banwana sahi hai?", answer: `Haan, agar aapke paas kuch sau families bhi hain aur koi volunteer roz profiles approve kar sakta hai. Shuruaat ek moderated web portal se karein, jisme photo privacy aur verified badge ho. Custom portal ${P.software} se shuru hota hai. Agar abhi sirf enquiry lena hai, to ${P.site} wali simple website bhi kaafi hai. Apps baad me jod sakte hain.` },
-    { question: "What happens after the matrimonial website launches?", answer: `The first five months of maintenance are free: bug fixes, security updates, backups checks and small rule changes such as a new plan or an extra sub-caste. After that, maintenance starts at ${P.care}, or you can hand the work to anyone, since the code is yours. We reply on WhatsApp seven days a week, in India time.` },
+    { question: "What happens after the matrimonial website launches?", answer: `The first two months of maintenance are free: bug fixes, security updates, backups checks and small rule changes such as a new plan or an extra sub-caste. After that, maintenance starts at ${P.care}, or you can hand the work to anyone, since the code is yours. We reply on WhatsApp seven days a week, in India time.` },
     { question: "How should a matrimonial site handle profiles of people who are already married?", answer: "Ask members to confirm every few months that they are still looking, and hide profiles that do not respond. Offer a one-tap “match found” option that hides the profile and, if the member wishes, collects a success story. Reports of a married person on the site should go to the top of the moderator queue, with a ban that blocks the phone number, not just the account." },
     { question: "How do I pay for matrimonial website development, and is there a contract?", answer: "In India you pay by UPI or bank transfer, in stages set out in the written quote; international clients pay by Wise, bank wire or PayPal in USD. Nothing is billed before you approve the quote in writing. If you need specific confidentiality or contract terms, ask us and we will agree them in the quote; our published terms and refund policy cover the basics." },
   ],

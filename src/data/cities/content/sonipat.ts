@@ -31,11 +31,11 @@ const sonipat: CityContent = {
     eyebrow: "Sonipat · Haryana",
     h1: "Web, app, SEO and automation services for Sonipat's factories, campuses and highway trade",
     lede:
-      "Three remote engineers building fast websites, vendor profiles, dhaba and PG pages, and WhatsApp workflows for Sonipat businesses, from Geeta Bhawan Chowk and Atlas Road to the HSIIDC estates at Kundli, Rai and Barhi. Our starting prices are public, the domain and code are registered to you, and maintenance is free for five months.",
+      "Three remote engineers building fast websites, vendor profiles, dhaba and PG pages, and WhatsApp workflows for Sonipat businesses, from Geeta Bhawan Chowk and Atlas Road to the HSIIDC estates at Kundli, Rai and Barhi. Our starting prices are public, the domain and code are registered to you, and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Hindi and English content", "Factory and warehouse sites", "PG, hostel and dhaba pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "Sonipat businesses can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Sonipat, and five months of maintenance come free after launch.",
+    "Sonipat businesses can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no office in Sonipat, and two months of maintenance come free after launch.",
   snapshot: [
     { label: "Location", value: "About 45 km from New Delhi on NH 44, inside the National Capital Region" },
     { label: "Industrial estates", value: "HSIIDC estates at Sonipat city, Kundli, Rai, Barhi and Murthal; industry here began with Atlas Cycle in the 1950s" },
@@ -52,10 +52,10 @@ const sonipat: CityContent = {
     ai: "WhatsApp assistants that deal with repeat questions about rates, rooms, menus and order status in Hindi or English, handing the rest to your staff.",
     data: "Dashboards for production, dispatch, warehouse stock or occupancy that an owner can check on a phone between Delhi and the plant.",
     app: "Android and iOS apps for field sales, delivery tracking and tenant portals, one Flutter build published on both app stores from ₹40,000.",
-    maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Sonipat sits so close to Delhi that most business owners get quotes from Delhi, Noida or Gurugram agencies with metro overheads and no public rates. We publish our starting prices, answer on WhatsApp every day of the week, and maintain every site free for five months after it goes live.",
+    "Sonipat sits so close to Delhi that most business owners get quotes from Delhi, Noida or Gurugram agencies with metro overheads and no public rates. We publish our starting prices, answer on WhatsApp every day of the week, and maintain every site free for two months after it goes live.",
   pricingIntro:
     "Every price here is where a project begins. Pages, products, languages and features decide the final number, and you get it as a line-by-line written quote before anything is billed.",
   sections: [
@@ -174,11 +174,11 @@ const sonipat: CityContent = {
     },
     {
       id: "ownership-sonipat",
-      heading: "You own the domain and code, and upkeep is free for five months",
+      heading: "You own the domain and code, and upkeep is free for two months",
       paragraphs: [
         "Many Sonipat firms have lost a website because the domain was registered by a developer who later disappeared. When the renewal lapsed, the site and the company email printed on catalogues stopped working together. Recovering a domain in that situation can take weeks or may not be possible at all.",
         "We register the domain and hosting in your name from the first day. At launch you receive every login, the complete source code and a short handover note. You can move to another developer whenever you want without paying us any exit fee.",
-        "Maintenance is free for five months after launch: content changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that it starts from ₹8,000 a month, or you can contact us only when you need a change. Write to us through our <a href=\"/contact/\">contact page</a> or on WhatsApp to begin.",
+        "Maintenance is free for two months after launch: content changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that it starts from ₹8,000 a month, or you can contact us only when you need a change. Write to us through our <a href=\"/contact/\">contact page</a> or on WhatsApp to begin.",
       ],
     },
   ],
@@ -275,7 +275,7 @@ const sonipat: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle content changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
     },
   ],
   nearby: ["panipat", "bahadurgarh", "rohtak", "delhi", "samalkha", "gohana", "jind", "new-delhi"],

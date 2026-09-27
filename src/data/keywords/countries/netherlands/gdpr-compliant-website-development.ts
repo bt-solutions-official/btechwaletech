@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["Webshop from", `${P.shop}, 4–8 weeks`],
     ["Default before consent", "No analytics or ad cookies, no marketing tags"],
     ["Hosting", "EU region, account registered to you"],
-    ["Care after launch", `5 months free, then from ${P.care}`],
+    ["Care after launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers building your site" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "4", label: "Consent Mode v2 signals configured" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
   ],
   answer: {
     heading: "What makes a website GDPR compliant in the Netherlands?",
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What GDPR compliant website development costs",
-    note: `Prices are starting points in USD, confirmed in an itemised quote within about two working days. A new privacy-first business site starts from ${P.site} and includes the consent set-up, Consent Mode v2, lean forms and EU hosting configuration. Sites with hundreds of pages, several languages or many tracking tools fit the content plan from ${P.seoSite}. A webshop, where checkout, payment and marketing tags add privacy work, starts from ${P.shop}. Portals that store customer data behind logins start from ${P.software}. Fixing an existing site is quoted after a scan. Maintenance is free for five months, then from ${P.care}. Legal review is always by your own adviser.`,
+    note: `Prices are starting points in USD, confirmed in an itemised quote within about two working days. A new privacy-first business site starts from ${P.site} and includes the consent set-up, Consent Mode v2, lean forms and EU hosting configuration. Sites with hundreds of pages, several languages or many tracking tools fit the content plan from ${P.seoSite}. A webshop, where checkout, payment and marketing tags add privacy work, starts from ${P.shop}. Portals that store customer data behind logins start from ${P.software}. Fixing an existing site is quoted after a scan. Maintenance is free for two months, then from ${P.care}. Legal review is always by your own adviser.`,
   },
   guideLabel: "GDPR compliant website development guide",
   guide: [
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
         ["Webshop", "Checkout, payment and marketing tag mapping", P.shop, "4–8 weeks"],
         ["Portal with accounts", "Logins, self-service export and deletion", P.software, "6–12 weeks"],
         ["AI features", "Chat or automation with EU data processing where available", P.ai, "2–4 weeks"],
-        ["Maintenance", "Updates, cookie re-scans after changes", P.care, "Monthly, after 5 free months"],
+        ["Maintenance", "Updates, cookie re-scans after changes", P.care, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -451,7 +451,7 @@ const content: FreelanceContent = {
       ["Agree the privacy choices", "With your adviser, decide the analytics route, Consent Mode basic or advanced, retention periods and whether we need data access at all."],
       ["Build on staging with dummy data", "Templates, banner, forms and tag wiring are built without real personal data, and demoed weekly during your late morning or early afternoon."],
       ["Test and document", "Refusal and acceptance flows tested in clean browsers, Consent Mode checked in Tag Assistant, and a cookie list and provider list handed over."],
-      ["Launch and keep it clean", `Go-live on EU hosting in your name. Five months of free maintenance include re-scans after changes; then care from ${P.care}.`],
+      ["Launch and keep it clean", `Go-live on EU hosting in your name. Two months of free maintenance include re-scans after changes; then care from ${P.care}.`],
     ],
   },
   faqHeading: "GDPR compliant website development: questions from Dutch businesses",
@@ -476,7 +476,7 @@ const content: FreelanceContent = {
     { question: "Does GDPR compliance affect SEO?", answer: "Not negatively when done well. Search engines do not need cookies to crawl your site, and removing third-party scripts often improves speed and Core Web Vitals. Google Search Console measures search performance without any tag on the page. Nobody can guarantee rankings, but a lean, private site gives SEO a solid base." },
     { question: "Can AI chatbots on our website be GDPR compliant?", answer: `They can support compliance if designed carefully: the widget loads after consent or on click, visitors are told they are talking to AI, conversations are stored in the EU where the provider allows it, retention is limited and sensitive data is discouraged. AI features start from ${P.ai}; our AI automation page for Dutch businesses covers this.` },
     { question: "How do we pay and who signs the contracts?", answer: "Quotes are in USD, invoices come from India, and payment is by Wise, bank wire or PayPal against milestones. Nothing is billed before you approve the quote in writing. A verwerkersovereenkomst is added if we will access personal data, and any NDA terms are agreed before work starts." },
-    { question: "What happens after launch?", answer: `Five months of free maintenance cover updates, backups, security checks and a cookie re-scan whenever new tools are added. After that, maintenance starts from ${P.care} a month. New marketing tags are the most common way sites drift out of line, so we check each one against the consent set-up before it goes live.` },
+    { question: "What happens after launch?", answer: `Two months of free maintenance cover updates, backups, security checks and a cookie re-scan whenever new tools are added. After that, maintenance starts from ${P.care} a month. New marketing tags are the most common way sites drift out of line, so we check each one against the consent set-up before it goes live.` },
   ],
   related: {
     heading: "Related pages for Dutch businesses",

@@ -31,11 +31,11 @@ const ganjbasoda: CityContent = {
     eyebrow: "Ganjbasoda · Vidisha, Madhya Pradesh",
     h1: "Websites, software, SEO and AI tools for Ganjbasoda's sandstone exporters, mandi traders and town businesses",
     lede:
-      "We are three engineers who work remotely, building export catalogues for Basoda stone firms, simple Hindi websites for grain traders, shops, schools and clinics, and WhatsApp systems that keep rate and order enquiries in one place. You see our starting prices before calling, you deal with the developers directly, and maintenance is free for five months.",
+      "We are three engineers who work remotely, building export catalogues for Basoda stone firms, simple Hindi websites for grain traders, shops, schools and clinics, and WhatsApp systems that keep rate and order enquiries in one place. You see our starting prices before calling, you deal with the developers directly, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and English", "Stone export catalogues", "Mandi trader tools", "WhatsApp enquiry logs"],
   },
   quickAnswer:
-    "In Ganjbasoda, a static business website with us starts at ₹10,000 and is live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team of three engineers with no Ganjbasoda office, and five months of maintenance are free.",
+    "In Ganjbasoda, a static business website with us starts at ₹10,000 and is live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team of three engineers with no Ganjbasoda office, and two months of maintenance are free.",
   snapshot: [
     { label: "Where it is", value: "Tehsil headquarters in Vidisha district, on the Delhi–Mumbai main rail line roughly 96 km north of Bhopal (station code BAQ)" },
     { label: "Grain trade", value: "A first-class krishi upaj mandi, known across the region for cash payment to farmers" },
@@ -52,10 +52,10 @@ const ganjbasoda: CityContent = {
     ai: "WhatsApp replies that send stone photos, sizes and rates, collect order quantities and log every enquiry, answered in Hindi or English.",
     data: "Season-wise views of grain purchases, dispatches and dues, or of stone orders by size and finish, readable on your phone.",
     app: "Android and iOS apps for loading slips, truck dispatch records or school notices, starting at ₹40,000 and ready in six to ten weeks.",
-    maintenance: "Free updates, fixes and backups for five months after launch, then from ₹8,000 a month if you want us to keep going.",
+    maintenance: "Free updates, fixes and backups for two months after launch, then from ₹8,000 a month if you want us to keep going.",
   },
   whyUsIntro:
-    "Ganjbasoda earns from two things the rest of the country needs, grain and stone, but very few local firms present themselves well online. The nearest agencies are in Vidisha or Bhopal, and many quote high for simple work. We publish starting prices, work in Hindi and English, reply on WhatsApp seven days a week and maintain your site free for five months.",
+    "Ganjbasoda earns from two things the rest of the country needs, grain and stone, but very few local firms present themselves well online. The nearest agencies are in Vidisha or Bhopal, and many quote high for simple work. We publish starting prices, work in Hindi and English, reply on WhatsApp seven days a week and maintain your site free for two months.",
   pricingIntro:
     "Treat every figure below as a starting price. A clinic with a few pages costs less than a stone exporter with two hundred products in several finishes and sizes. Tell us your scope and you get an itemised written quote in about two working days, and nothing is billed until you approve it.",
   sections: [
@@ -177,7 +177,7 @@ const ganjbasoda: CityContent = {
       paragraphs: [
         "A common problem in tehsil towns: a site was built years ago, the domain was bought in the developer's name, and now nobody can update the phone number. When the renewal date passes, the site and all its search history vanish.",
         "We register the domain and hosting in your name from the first day. At launch you receive every login, the full source code and a short note explaining the setup. You can move to any other developer whenever you like, with no exit fee and no need to ask our permission.",
-        "For five months after launch, maintenance costs nothing: new products and photos, price and text edits, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when something needs doing. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
+        "For two months after launch, maintenance costs nothing: new products and photos, price and text edits, bug fixes, security updates, backups and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when something needs doing. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
@@ -268,7 +268,7 @@ const ganjbasoda: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we add products and photos, update prices and text, fix bugs, apply security updates, take backups and check speed, at no charge. After that, maintenance continues from ₹8,000 a month, or you can call us only when a change is needed.",
+        "For two months after launch we add products and photos, update prices and text, fix bugs, apply security updates, take backups and check speed, at no charge. After that, maintenance continues from ₹8,000 a month, or you can call us only when a change is needed.",
     },
     {
       question: "Can a hotel or taxi service near Udaipur get bookings online?",

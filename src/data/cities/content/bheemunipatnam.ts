@@ -56,7 +56,7 @@ const bheemunipatnam: CityContent = {
     ai: "WhatsApp assistants that reply in Telugu and English about room rates, check-in times, site visits and clinic slots, and hand real decisions to you.",
     data: "Dashboards of room occupancy by season, enquiry sources for layouts, and daily sales for shops and restaurants.",
     app: "Android and iOS apps for resort guests to book rooms and activities or for layout buyers to track payments, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for content edits, backups, updates and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for content edits, backups, updates and security fixes.",
   },
   whyUsIntro:
     "Bheemili owners usually have a cousin in Vizag who has already quoted them something. We make the comparison easy: published starting prices, an itemised written quote, replies on WhatsApp every day, and domain, hosting, code and store accounts registered to you from day one. If a feature will not earn its cost, we tell you before you pay for it.",
@@ -167,7 +167,7 @@ const bheemunipatnam: CityContent = {
       heading: "Ownership, maintenance and support for Bheemili websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Play and App Store accounts and business profile are registered in your name. We work with access you grant and can hand everything over in a day if you choose to move on. That arrangement protects you from the most common problem we see: a site held hostage by a former developer who no longer answers.",
-        "Every website and app we launch comes with five months of free maintenance. During that time we update prices and photographs, keep backups, apply security patches, and test forms, payment and WhatsApp links. After five months, maintenance continues from ₹8,000 a month if you want it, or you can manage it yourself.",
+        "Every website and app we launch comes with two months of free maintenance. During that time we update prices and photographs, keep backups, apply security patches, and test forms, payment and WhatsApp links. After two months, maintenance continues from ₹8,000 a month if you want it, or you can manage it yourself.",
         "Coastal businesses change with the season, so maintenance also means updating monsoon hours, festival offers and new rooms or projects promptly. Stale information on a resort or clinic page costs trust quickly.",
       ],
     },
@@ -253,7 +253,7 @@ const bheemunipatnam: CityContent = {
     {
       question: "What maintenance do you provide after the website goes live?",
       answer:
-        "The first five months after launch are free: we update content, keep backups, apply security updates and test forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take everything over yourself, since all accounts are already registered to you.",
+        "The first two months after launch are free: we update content, keep backups, apply security updates and test forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take everything over yourself, since all accounts are already registered to you.",
     },
     {
       question: "Do you work with businesses in Tagarapuvalasa, Anandapuram and Vizag too?",

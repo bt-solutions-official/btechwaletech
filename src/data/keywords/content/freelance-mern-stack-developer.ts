@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Language end to end", "JavaScript or TypeScript"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Repository and database", "Created in your accounts"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom web app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Companion mobile app", value: `React Native, from ${P.app}` },
       { label: "Hosting", value: "MongoDB Atlas or AWS, billed to your card" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Repository and database accounts", "Sometimes the freelancer’s own", "Often held by the vendor until final payment", "Your GitHub and your Atlas or AWS account from day one"],
       ["SEO for public pages", "React SPA with little thought for search", "Separate SEO team", "Next.js or a static site for public pages when search matters"],
       ["Mobile app later", "Hire someone else", "Available at vendor rates", "Same team, React Native reusing your API"],
-      ["After launch", "Paid per fix", "Annual support contract", "5 months free, then from " + P.care],
+      ["After launch", "Paid per fix", "Annual support contract", "2 months free, then from " + P.care],
       ["Scale of team", "One developer", "Can staff 20+ people", "Three people; not built for very large parallel teams"],
     ],
     fine: "If your product already needs several full-time engineers working in parallel on different services, a larger vendor or an in-house team will fit better than any freelance MERN stack developer.",
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       heading: "Maintaining a MERN app after launch",
       paragraphs: [
         `MERN apps depend on many open-source packages, and those packages keep moving. Node.js releases a new LTS version every year, React and Express publish updates, and security advisories appear in dependencies you never chose directly. Ignoring all of this for two years is how apps end up impossible to update.`,
-        `After launch we include five months of free maintenance: bug fixes, small changes, dependency updates and backup checks. After that, maintenance is optional and starts at ${P.care}. It covers scheduled upgrades, monitoring alerts and small improvements. You can also move maintenance to your own team at any point; the runbook and repository make that straightforward. See <a href='/website-maintenance-freelancer/'>ongoing maintenance</a> for how we handle updates.`,
+        `After launch we include two months of free maintenance: bug fixes, small changes, dependency updates and backup checks. After that, maintenance is optional and starts at ${P.care}. It covers scheduled upgrades, monitoring alerts and small improvements. You can also move maintenance to your own team at any point; the runbook and repository make that straightforward. See <a href='/website-maintenance-freelancer/'>ongoing maintenance</a> for how we handle updates.`,
       ],
     },
     {
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       heading: "MERN stack developer chahiye? Pehle yeh samjhiye",
       paragraphs: [
         `MERN ka matlab hai MongoDB, Express, React aur Node.js. Yeh tab sahi hai jab aapko login wala web app, dashboard ya portal chahiye jahan log data daalte aur dekhte hain. Agar sirf business website chahiye, toh MERN ki zaroorat nahi; simple static site ${P.site} se ban jaati hai.`,
-        `Hamare saath MERN web app ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Code aapke GitHub mein rahega, database aapke account mein. Pehle itemised quote milega, approval ke baad hi payment. Launch ke baad 5 mahine maintenance free hai.`,
+        `Hamare saath MERN web app ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Code aapke GitHub mein rahega, database aapke account mein. Pehle itemised quote milega, approval ke baad hi payment. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
         ["Online store with custom logic", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Varied product attributes per category"],
         ["React Native app on the same API", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Shared JavaScript skills and validation"],
         ["AI feature added to a MERN app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Node.js handles LLM API calls and queues"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Node, React and dependency upgrades"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Node, React and dependency upgrades"],
       ],
       hideSm: [2],
     },
@@ -331,7 +331,7 @@ const content: FreelanceContent = {
         ["Middle weeks", "Remaining features by business value", "Each milestone on staging", "Feature-complete app"],
         ["Final weeks", "Testing, indexes, security checks, data import", "Real data, real devices", "Launch-ready build"],
         ["Launch", "Production deploy, backups, monitoring", "Go-live sign-off", "Live app and runbook"],
-        ["Next 5 months", "Fixes, small changes, upgrades", "Requests on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes, small changes, upgrades", "Requests on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You create the GitHub, Atlas or AWS and domain accounts, or we do it together on a call, and add us as users."],
       ["Build in milestones", "Each milestone lands on a staging URL you can log into. Code is pushed to your repository as we go, so progress is never hidden."],
       ["Test with real data", "We import your sample data, test on phones and desktops, check indexes and security settings, and fix what we find before go-live."],
-      ["Launch, hand over, support", "Production deploy, backups and alerts are set up, the runbook is shared, and five months of free maintenance begin."],
+      ["Launch, hand over, support", "Production deploy, backups and alerts are set up, the runbook is shared, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Freelance MERN stack developer: common questions",
@@ -386,10 +386,10 @@ const content: FreelanceContent = {
     { question: "Freelance MERN developer or a full-time hire: which is better?", answer: "A freelance MERN developer or small team suits a defined build such as an MVP, a portal or a dashboard, with maintenance afterwards. A full-time hire makes sense once the product needs daily development for years and you can manage and review an engineer’s work. Many startups begin freelance and hire once the product has proven demand." },
     { question: "Can you take over a half-built MERN project?", answer: "Usually, yes. We start with a paid review of the repository and database: how the code is structured, which dependencies are outdated, whether indexes and validation exist and what is missing for launch. You then get a written list of fixes and an itemised quote, and can decide whether to continue, refactor or rebuild parts." },
     { question: "Do you use TypeScript for MERN projects?", answer: "We prefer TypeScript for most MERN builds because shared types between the React front end and the Express API catch many errors before users see them. For very small tools plain JavaScript is fine. Either way, the choice is written into the quote so there are no surprises for developers who work on the code later." },
-    { question: "What happens after my MERN app launches?", answer: `Five months of free maintenance begin at launch, covering bug fixes, small changes, dependency updates and backup checks. After that, maintenance is optional and starts at ${P.care}. It includes Node.js and package upgrades, monitoring alerts and small improvements. You can also hand maintenance to your own team using the repository and runbook.` },
+    { question: "What happens after my MERN app launches?", answer: `Two months of free maintenance begin at launch, covering bug fixes, small changes, dependency updates and backup checks. After that, maintenance is optional and starts at ${P.care}. It includes Node.js and package upgrades, monitoring alerts and small improvements. You can also hand maintenance to your own team using the repository and runbook.` },
     { question: "How are payments handled for a MERN project?", answer: "Payments are split into milestones tied to work you can log into on the staging URL. Clients in India pay by UPI or bank transfer; overseas clients pay through Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote in writing. Contract details are agreed in that written quote." },
     { question: "Do you sign an NDA before discussing my app idea?", answer: "If your idea or data is sensitive, ask for an NDA before sharing details and we will review it. Terms such as confidentiality and ownership are agreed in writing with your quote. You can read our general terms on the terms page before the first call, and share only a high-level description until you are comfortable." },
-    { question: "MERN stack developer se app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath MERN web app ${P.software} se shuru hota hai aur 6 se 12 hafte lagte hain. Kharcha screens, user roles, integrations aur reports par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment. Code aur database aapke naam par rehte hain, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "MERN stack developer se app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath MERN web app ${P.software} se shuru hota hai aur 6 se 12 hafte lagte hain. Kharcha screens, user roles, integrations aur reports par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment. Code aur database aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related pages on full stack, JavaScript and web app development",
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance MERN stack developer? Tell us what the app must do",
-    note: `Send a short description or voice note on WhatsApp. Within about two working days you get an honest stack recommendation and an itemised quote, with MERN web apps starting at ${P.software}, code and databases in your accounts, and five months of free maintenance after launch.`,
+    note: `Send a short description or voice note on WhatsApp. Within about two working days you get an honest stack recommendation and an itemised quote, with MERN web apps starting at ${P.software}, code and databases in your accounts, and two months of free maintenance after launch.`,
   },
 };
 

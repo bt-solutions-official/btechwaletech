@@ -56,7 +56,7 @@ const palani: CityContent = {
     ai: "WhatsApp replies in Tamil and English for room rates, check-in times and taxi fares, passing bookings to you for confirmation.",
     data: "Festival-season dashboards of occupancy, booking sources and repeat guests, so staffing before Thaipusam is planned, not guessed.",
     app: "Android and iOS apps for lodge groups or tour operators that repeat pilgrims can re-book from, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes before each festival rush.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes before each festival rush.",
   },
   whyUsIntro:
     "Palani owners deal with sudden crowds and quiet weeks, so they want tools that work when the phone is ringing nonstop. We publish starting prices, send itemised written quotes, reply on WhatsApp every day of the week, and put the domain, hosting, code and store accounts in your name from the first day.",
@@ -176,7 +176,7 @@ const palani: CityContent = {
       heading: "Ownership, maintenance and festival-season readiness",
       paragraphs: [
         "Everything we build belongs to you. The domain, hosting, source code, Google Business Profile and the Google Play and App Store developer accounts are registered in your name. If you later hire someone else, you hand them the logins and they carry on.",
-        "After launch you get five months of free maintenance. After that, maintenance starts at ₹8,000 a month and covers updates, backups, security fixes and small content changes. For Palani businesses, the most useful maintenance task is a check before each major festival: are the rates current, does the booking form still reach the right phone, are the opening hours right on Google Maps.",
+        "After launch you get two months of free maintenance. After that, maintenance starts at ₹8,000 a month and covers updates, backups, security fixes and small content changes. For Palani businesses, the most useful maintenance task is a check before each major festival: are the rates current, does the booking form still reach the right phone, are the opening hours right on Google Maps.",
         "If you only need occasional changes, we can quote them one at a time instead of a monthly plan. Details are on our <a href=\"/services/web-development/\">web development</a> and <a href=\"/services/seo-services/\">SEO</a> pages.",
       ],
     },
@@ -254,7 +254,7 @@ const palani: CityContent = {
     {
       question: "What happens after the website goes live?",
       answer:
-        "You get five months of free maintenance after launch, covering fixes, updates and small changes. After that, maintenance starts at ₹8,000 a month for backups, security updates and content edits. Many Palani clients use it to update festival tariffs and check that booking forms still reach the right phone.",
+        "You get two months of free maintenance after launch, covering fixes, updates and small changes. After that, maintenance starts at ₹8,000 a month for backups, security updates and content edits. Many Palani clients use it to update festival tariffs and check that booking forms still reach the right phone.",
     },
     {
       question: "Do you offer SEO services in Palani every month?",

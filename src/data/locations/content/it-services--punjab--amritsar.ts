@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that answer booking, fare and route questions in Punjabi, Hindi and English on WhatsApp, collect trip details and pass confirmed leads to your staff.",
     data: "Dashboards for occupancy, trips completed, export shipments and payments due, pulled together from Tally, sheets and your own software.",
     app: "Android and iOS apps for Amritsar food brands, taxi operators, hotels and NRI services, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Backups, updates, uptime checks and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, updates, uptime checks and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Amritsar is full of businesses that grew on word of mouth and now drown in phone calls and WhatsApp messages. They do not need a glossy agency deck; they need someone to build a dependable system, explain it in Punjabi or Hindi, and answer when something stops working. That is the role our three freelance engineers take on.",
@@ -158,7 +158,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development in Amritsar starts at ₹40,000 with BtechWaleTech, typically delivered in six to ten weeks as one Flutter or React Native app published on both Google Play and the Apple App Store. It includes login, booking or order forms, push notifications, an admin panel and a link to your existing software.",
         "The apps worth building in Amritsar are the ones people open again and again. A food brand known for kulchas, papad-warian or sweets can let regular customers across India reorder in a few taps and hear about Diwali and Lohri gift boxes by notification. A taxi operator can run a driver app showing Wagah, airport and hill-station trips, with expense entry and trip completion. A hotel group can offer repeat pilgrims and NRI families a booking app that remembers their preferences for the next Gurpurab visit. Property managers can let overseas clients check rent receipts and updates from Canada or the UK.",
-        "NRI customers are a strong reason to publish on the App Store as well as Google Play, since many use iPhones. For short-stay tourists who will not install anything, we build a fast mobile website instead and say so upfront. All developer accounts, code and servers are registered to you, and five months of post-launch fixes are included.",
+        "NRI customers are a strong reason to publish on the App Store as well as Google Play, since many use iPhones. For short-stay tourists who will not install anything, we build a fast mobile website instead and say so upfront. All developer accounts, code and servers are registered to you, and two months of post-launch fixes are included.",
       ],
       list: [
         "Reorder app for Amritsari food and gifting brands",
@@ -182,14 +182,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting keeps your booking system, store or CRM running on managed servers with SSL, daily backups and uptime monitoring, so a festival-day traffic jump or a failed office computer does not take your business offline. Everything is registered in your name, not ours.",
         "We set up domains, DNS, email deliverability and automated deployments, using AWS or similar providers for applications and fast edge hosting for websites. Updates can be rolled back in minutes if something goes wrong.",
-        "Five months of maintenance after launch are free. After that, support starts at ₹8,000 a month, or you can pay only when you need changes. We reply on WhatsApp seven days a week, including during Gurpurab and holiday peaks.",
+        "Two months of maintenance after launch are free. After that, support starts at ₹8,000 a month, or you can pay only when you need changes. We reply on WhatsApp seven days a week, including during Gurpurab and holiday peaks.",
       ],
     },
     {
       id: "cost-amritsar",
       heading: "How much do freelance software developers in Amritsar cost?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Amritsar clients are ₹60,000 for custom software or a web app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after five free months.",
+        "BtechWaleTech's starting prices for Amritsar clients are ₹60,000 for custom software or a web app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO is from ₹10,000 and maintenance from ₹8,000 a month after two free months.",
         "The final figure depends on features, integrations and how much content and data are ready. A small guest-house system sits near the starting price; a hotel with a booking engine, housekeeping app and channel tracking costs more. The quote is itemised so you can phase work over time.",
         "Clients pay us in INR, only by UPI through our QR code or by direct bank transfer to our bank account. Bigger projects are split into milestones paid after you review working software.",
       ],
@@ -214,7 +214,7 @@ const content: CityContent = {
         "Step 1: free call or WhatsApp chat",
         "Step 2: written scope and itemised quote",
         "Step 3: build on a live preview with regular feedback",
-        "Step 4: launch, training, handover and five months of free maintenance",
+        "Step 4: launch, training, handover and two months of free maintenance",
       ],
     },
     {
@@ -289,7 +289,7 @@ const content: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "Five months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp seven days a week and treat booking or payment problems as urgent.",
+        "Two months of maintenance after launch cover bug fixes, security and dependency updates, backups, uptime and speed checks, and small content changes. After that, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp seven days a week and treat booking or payment problems as urgent.",
     },
     {
       question: "Can you build an Android and iOS app for our Amritsar taxi or food business?",

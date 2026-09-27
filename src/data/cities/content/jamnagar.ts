@@ -7,7 +7,7 @@ const jamnagar: CityContent = {
   meta: {
     title: "IT Services in Jamnagar: Websites, Apps, SEO & AI",
     description:
-      "Websites, export catalogues, local SEO and WhatsApp automation for Jamnagar brass units, bandhani sellers and shops. From ₹10,000, with 5 months free care.",
+      "Websites, export catalogues, local SEO and WhatsApp automation for Jamnagar brass units, bandhani sellers and shops. From ₹10,000, with 2 months free care.",
     keywords: [
       "website development team in Jamnagar",
       "website designer Jamnagar",
@@ -30,11 +30,11 @@ const jamnagar: CityContent = {
     eyebrow: "Jamnagar · Gujarat",
     h1: "Websites, software, SEO and AI tools for Jamnagar's brass, bandhani and service firms",
     lede:
-      "We are a remote team of three engineers building websites, online stores and automation for Jamnagar businesses: brass part makers in Shankar Tekri and Dared, contractors serving the refineries, bandhani sellers near Chandi Bazaar, Ayurveda brands, clinics and shops. Prices are published, you speak to the developers directly, and five months of post-launch maintenance are free.",
+      "We are a remote team of three engineers building websites, online stores and automation for Jamnagar businesses: brass part makers in Shankar Tekri and Dared, contractors serving the refineries, bandhani sellers near Chandi Bazaar, Ayurveda brands, clinics and shops. Prices are published, you speak to the developers directly, and two months of post-launch maintenance are free.",
     pills: ["Sites from ₹10,000", "Brass part catalogues", "Bandhani stores with UPI", "Gujarati search pages", "RFQ and WhatsApp flows"],
   },
   quickAnswer:
-    "In Jamnagar, a basic business website from us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO or product catalogue site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We work remotely with no Jamnagar office, and include five months of free maintenance.",
+    "In Jamnagar, a basic business website from us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO or product catalogue site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We work remotely with no Jamnagar office, and include two months of free maintenance.",
   snapshot: [
     { label: "Brass cluster", value: "Thousands of brass workshops across Shankar Tekri, GIDC Dared and M P Shah Udyognagar" },
     { label: "Refining", value: "Reliance's Jamnagar refinery complex, and Nayara Energy's refinery at nearby Vadinar" },
@@ -51,10 +51,10 @@ const jamnagar: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that answer standard questions about part sizes, prices, stock or appointments and hand the rest to your team.",
     data: "Production, order and dispatch data from Excel sheets turned into dashboards the owner can read on a phone.",
     app: "Android and iOS apps for sales staff, workshop supervisors and customers, usable on basic phones and released on Google Play and the App Store.",
-    maintenance: "Free updates, backups, security fixes and speed checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups, security fixes and speed checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Many Jamnagar firms got their first website from a directory package or a Rajkot agency, and some still show a catalogue that is ten years old. We publish our starting prices, reply on WhatsApp all week, and support your website free for its first five months.",
+    "Many Jamnagar firms got their first website from a directory package or a Rajkot agency, and some still show a catalogue that is ten years old. We publish our starting prices, reply on WhatsApp all week, and support your website free for its first two months.",
   pricingIntro:
     "Quotes for a Jamnagar website range widely, and product-heavy catalogues are often priced with no explanation at all. These are our real starting prices. Your final quote depends on the number of products, pages and features, and it is itemised so you can approve every line before work begins.",
   sections: [
@@ -185,7 +185,7 @@ const jamnagar: CityContent = {
       paragraphs: [
         "We regularly see Jamnagar firms whose catalogue site is stuck because only a former developer could edit it, or whose domain lapsed without warning. For an exporter, a dead website during a buyer's due diligence can cost an order.",
         "From the start, your domain is registered in your company's name and the hosting is set up in your account. At launch you receive every login, the full source code and a short note explaining how things work. You can take the site to another developer at any time with no exit fee.",
-        "Maintenance is free for five months after launch: product and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Maintenance is free for two months after launch: product and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -273,9 +273,9 @@ const jamnagar: CityContent = {
         "Yes. The domain and hosting are registered to your business, and you receive every login and the full source code at launch. You can move to another developer at any time with no exit fee. This matters especially for exporters, whose website is often checked during buyer due diligence.",
     },
     {
-      question: "What is covered by the five months of free maintenance?",
+      question: "What is covered by the two months of free maintenance?",
       answer:
-        "For five months after launch we handle product and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle product and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Can you guarantee my brass business will rank first on Google?",

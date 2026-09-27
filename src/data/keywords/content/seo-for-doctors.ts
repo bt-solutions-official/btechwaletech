@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on your account" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance on a new site" },
+    { value: "2", label: "Months of free maintenance on a new site" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Physician and clinic schema", note: "IndividualPhysician or MedicalClinic markup with specialty, address, hours and hospital affiliation, matched to what the page shows.", href: "/schema-markup-services/", size: "md" },
       { name: "Directory profile alignment", note: "Practo, Justdial and hospital listings checked so names, addresses, phone numbers and timings match your website and Google profile.", href: "/local-seo-expert/", size: "md" },
       { name: "Appointment tracking", note: "Calls, WhatsApp chats and booking forms recorded as GA4 key events, without sending any patient health details into analytics.", href: "/conversion-tracking-setup/", size: "md" },
-      { name: "Clinic website", note: `Fast, mobile-first site with doctor profiles, services and booking, from ${P.site}. Five months of free maintenance after launch.`, href: "/doctor-website-developer/", size: "sm" },
+      { name: "Clinic website", note: `Fast, mobile-first site with doctor profiles, services and booking, from ${P.site}. Two months of free maintenance after launch.`, href: "/doctor-website-developer/", size: "sm" },
       { name: "Monthly SEO for clinics", note: `New patient-education pages, profile posts, review replies guidance and a monthly report, from ${P.seo}.`, href: "/services/seo-services/", size: "sm" },
       { name: "Booking and clinic software", note: `Online appointments, reminders on WhatsApp and patient records, from ${P.software}.`, href: "/clinic-management-software/", size: "sm" },
     ],
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
     { question: "Can my clinic website be in Hindi or a regional language?", answer: "Yes. Key pages can be built in Hindi or another regional language alongside English, with correct language tags so Google shows the right version. The doctor or a trusted translator should approve translated medical content, and we set up each version so both can rank independently." },
     { question: "How does AI search affect SEO for doctors?", answer: "AI answers often summarise general health information, so clinics win by being the clear, trustworthy source for specific, local questions: which conditions they treat, how to book, timings and what to expect. Doctor-reviewed pages with authorship, schema and consistent business details are the kind AI systems can understand and cite." },
     { question: "Do you need access to my patient records?", answer: "No. SEO work needs access to your website, Google Business Profile, Search Console and GA4, not patient data. If we build booking or clinic software for you, data handling is agreed in writing in the quote, with access limited and the system hosted in your own account." },
-    { question: "Who owns the website and Google profile?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 stay in the clinic’s or doctor’s own accounts, with us added as users. A new website includes five months of free maintenance, and ongoing care starts at ${P.care} a month after that.` },
+    { question: "Who owns the website and Google profile?", answer: `You do. The domain, hosting, website code, Google Business Profile, Search Console and GA4 stay in the clinic’s or doctor’s own accounts, with us added as users. A new website includes two months of free maintenance, and ongoing care starts at ${P.care} a month after that.` },
     { question: "Doctor ke liye SEO kaise kaam karta hai?", answer: `Jab mareez Google par apni bimari, specialist ya “doctor near me” search karta hai, toh SEO se aapki clinic Google Maps aur results mein dikhti hai. Iske liye sahi Google Business Profile, doctor dwara check kiye gaye jaankari wale pages aur appointment tracking chahiye. Monthly SEO ${P.seo} se shuru hota hai.` },
   ],
   related: {

@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Tenant portal with rent tracking", `From ${P.software}`],
     ["Starter build time", "1–2 weeks"],
     ["Quote turnaround", "About 2 working days"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "0", label: "Brokerage or commission taken by us" },
     { value: "3", label: "Developers, one WhatsApp group" },
     { value: "100", label: "Pages in the starter plan" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
   ],
   answer: {
     heading: "What should a PG hostel website include to fill beds without broker fees?",
@@ -244,7 +244,7 @@ const content: FreelanceContent = {
         `Compare quotes carefully. Others quote across a wide range; ask each whether the bed board updates automatically, where KYC documents are stored, who owns the hosting and domain, and what monthly costs follow launch.`,
       ],
       after: [
-        `After launch you get 5 months of free maintenance. Care plans then start at ${P.care}, and monthly SEO help for local rankings starts at ${P.seo}.`,
+        `After launch you get 2 months of free maintenance. Care plans then start at ${P.care}, and monthly SEO help for local rankings starts at ${P.seo}.`,
       ],
     },
     {
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
       ["Approve design on a real room", "We design the home page and one sharing-type page using your actual room and rent, shared as a preview link you open on your phone."],
       ["Connect the bed board and forms", "The board reads your sheet; enquiry, visit, deposit, KYC and agreement flows are built and tested with a trial booking you make yourself."],
       ["Launch before peak season", "Domain connected, Google Search Console verified, business profile linked, and pages checked on a budget Android phone over mobile data."],
-      ["Hand over and support", "You get every login and a short video on updating beds and rents. Five months of free maintenance follow the launch."],
+      ["Hand over and support", "You get every login and a short video on updating beds and rents. Two months of free maintenance follow the launch."],
     ],
   },
   faqHeading: "PG hostel website design: owners' questions",
@@ -453,7 +453,7 @@ const content: FreelanceContent = {
     { question: "Can a remote team build my PG website?", answer: "Yes. Rents, rules, photos and videos move easily over WhatsApp, and you check each stage on preview links. We do not visit properties or shoot videos, so you record rooms on your phone following a simple shot list, and we handle compression and layout." },
     { question: "Who receives the deposits and rent payments?", answer: "You do, directly into your own bank or UPI account. We never hold or route your money. The payment setup is in your name, and tenant records and receipts are stored in accounts you control." },
     { question: "Who owns the website and tenant data?", answer: "You own the domain, hosting, code, tenant records and KYC documents. Accounts are set up in your name and the code is handed over. If you change developers, the site and records stay with you and the handover notes let someone else continue." },
-    { question: "What does maintenance cost after launch?", answer: `The first five months are free for fixes and small changes. Care plans then start at ${P.care}. Hosting is billed by the provider to your account. Updating rents, beds and photos yourself keeps ongoing costs low.` },
+    { question: "What does maintenance cost after launch?", answer: `The first two months are free for fixes and small changes. Care plans then start at ${P.care}. Hosting is billed by the provider to your account. Updating rents, beds and photos yourself keeps ongoing costs low.` },
     { question: "How do I pay for the website?", answer: "In India by UPI or bank transfer; from abroad by Wise, bank wire or PayPal in USD. You get an itemised quote in about two working days, and nothing is billed until you approve it in writing. Milestones are written into the quote." },
     { question: "Do I need a tenant app for my PG?", answer: `Not at first. A website with booking, KYC and WhatsApp reminders covers most needs. A tenant app for rent, complaints and notices helps large operators with many buildings. Apps start at ${P.app} and can share the same data as the website.` },
     { question: "PG ki website banwane se broker ka kharcha kam hoga?", answer: "Haan, dheere dheere. Jab tenant Google par aapki PG dhoondh kar rooms ka video, rent aur free beds khud dekh leta hai, aur UPI se bed hold kar leta hai, to broker ki zaroorat kam padti hai. Har tenant ka source note karein, taaki pata chale kitne beds website se bhare." },

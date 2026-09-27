@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Typical connector build", "2–4 weeks after ASP sandbox access"],
     ["Our role", "Developer; your ASP handles exchange and reporting"],
     ["Billing", "USD · Wise or bank wire"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "5", label: "Corners in the UAE exchange model" },
     { value: "3", label: "Developers working on your connector" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Custom invoicing modules", note: `Where your software has no proper invoicing, we build numbering, credit notes and locking of issued invoices, from ${P.software}.`, href: "/uae/erp-software-development/", size: "md" },
       { name: "Inbound invoice handling", note: "Receiving supplier e-invoices from your ASP and pushing them into purchase approval or accounts payable.", size: "sm" },
       { name: "Monitoring and alerts", note: "A dashboard of sent, accepted and rejected invoices, with WhatsApp or email alerts when rejections pile up.", size: "sm" },
-      { name: "Ongoing support", note: `Five months of free maintenance, then from ${P.care}, including changes when the ASP updates its API.`, href: "/uae/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing support", note: `Two months of free maintenance, then from ${P.care}, including changes when the ASP updates its API.`, href: "/uae/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Fix invoicing basics", "Numbering, locking, credit notes and audit records are added where missing, and forms gain the fields needed to capture buyer and product data correctly."],
       ["Clean master data", "Review sheets grouped by problem let your team fix customer, supplier and product records quickly, and validation stops the same errors returning."],
       ["Build and sandbox test", "The connector is built, then tested with real historic invoice patterns, credit notes and deliberate failures until responses match expectations."],
-      ["Go live and support", "One invoice series goes live first, then the rest. Monitoring and alerts run from day one, with five months of free maintenance afterwards."],
+      ["Go live and support", "One invoice series goes live first, then the rest. Monitoring and alerts run from day one, with two months of free maintenance afterwards."],
     ],
   },
   faqHeading: "E-invoicing integration in the UAE: common questions",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Why hire a remote team in India for e-invoicing integration in the UAE?", answer: "E-invoicing integration is data and software work that runs well remotely. India is only 1.5 hours ahead of the UAE, so working hours overlap almost fully. You work directly with the three developers doing the build, receive itemised USD quotes, and keep all credentials and code in your business's name." },
     { question: "How do we share financial data safely with a remote team?", answer: "We ask for the minimum: anonymised exports for the audit where possible, a staging copy for development, and sandbox credentials issued to your business. Production credentials stay in your secrets store. Confidentiality terms are agreed in your written quote before any data is shared, and you revoke access at handover." },
     { question: "Who owns the e-invoicing integration code?", answer: "You do. The code lives in your repository or on your server, the ASP account and credentials are in your business's name, and documentation is handed over at the end. If you later move support to another developer or your own IT team, they can take it over without asking us for anything." },
-    { question: "What support is there after go-live?", answer: `Five months of free maintenance cover fixes, monitoring and help when rejections spike. After that, support starts from ${P.care}, including updates when your ASP changes its API or the Ministry publishes a new version of the specification.` },
+    { question: "What support is there after go-live?", answer: `Two months of free maintenance cover fixes, monitoring and help when rejections spike. After that, support starts from ${P.care}, including updates when your ASP changes its API or the Ministry publishes a new version of the specification.` },
     { question: "How do we pay for the work from the UAE?", answer: "Quotes and invoices are in USD and issued from India. UAE clients usually pay by Wise or bank wire. Nothing is billed until you approve the itemised quote in writing. How our invoices are treated for your own VAT is a question for your accountant." },
   ],
   related: {

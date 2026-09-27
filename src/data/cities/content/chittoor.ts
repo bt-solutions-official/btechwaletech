@@ -31,8 +31,8 @@ const chittoor: CityContent = {
     eyebrow: "Chittoor · Andhra Pradesh",
     h1: "Web, app, SEO and automation services for Chittoor's mango processors, colleges, clinics and bazaar traders",
     lede:
-      "A three-engineer remote team that builds websites, SEO, online stores and WhatsApp workflows for Chittoor. We work with Totapuri pulp units, dairy and granite suppliers, engineering and medical colleges, hospitals near the Collectorate and the shops of Gandhi Road. Pages can be in Telugu, Tamil and English, and five months of upkeep are free.",
-    pills: ["Sites from ₹10,000", "Telugu, Tamil and English", "Export-ready pulp catalogues", "Admission enquiry flows", "5 months free upkeep"],
+      "A three-engineer remote team that builds websites, SEO, online stores and WhatsApp workflows for Chittoor. We work with Totapuri pulp units, dairy and granite suppliers, engineering and medical colleges, hospitals near the Collectorate and the shops of Gandhi Road. Pages can be in Telugu, Tamil and English, and two months of upkeep are free.",
+    pills: ["Sites from ₹10,000", "Telugu, Tamil and English", "Export-ready pulp catalogues", "Admission enquiry flows", "2 months free upkeep"],
   },
   quickAnswer:
     "A business website in Chittoor starts at ₹10,000 with us and usually goes live in one to two weeks. Search-focused sites of 299+ pages start from ₹20,000, WhatsApp and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote team with no Chittoor office, and every quote comes itemised.",
@@ -52,10 +52,10 @@ const chittoor: CityContent = {
     ai: "WhatsApp assistants that reply in Telugu, Tamil or English and hand real negotiations to your team.",
     data: "Season-wise dashboards for mango intake, milk collection or admissions, built from the sheets you already fill.",
     app: "Android and iOS apps for field procurement, farmer payments or hostel attendance that run on basic phones, from ₹40,000 on both stores.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Chittoor firms usually choose between a Chennai or Bengaluru agency that stops answering after handover and a local freelancer who may not stay in the trade. We publish starting prices, write in the languages your buyers actually use, answer on WhatsApp every day of the week, and keep your site maintained free for five months.",
+    "Chittoor firms usually choose between a Chennai or Bengaluru agency that stops answering after handover and a local freelancer who may not stay in the trade. We publish starting prices, write in the languages your buyers actually use, answer on WhatsApp every day of the week, and keep your site maintained free for two months.",
   pricingIntro:
     "The figures below are where our work begins, and each one is a starting price. The final number for a Chittoor project depends on pages, languages, product count and the features you choose. You get a written, line-by-line quote first, and nothing is billed until you approve it.",
   sections: [
@@ -184,11 +184,11 @@ const chittoor: CityContent = {
     },
     {
       id: "ownership-upkeep-chittoor",
-      heading: "You own the site, and upkeep is free for five months",
+      heading: "You own the site, and upkeep is free for two months",
       paragraphs: [
         "A common Chittoor story: a developer registered the domain under their own name years ago, then changed numbers. When the renewal lapsed, the business lost its site and its email with it. We set every project up to avoid that.",
         "Your domain and hosting are registered in your name, you receive all logins at launch, and the source code is yours. If you ever switch developers, there is no exit fee and nothing to negotiate. We also leave a short guide explaining how the site is put together.",
-        "For five months after launch we handle content changes, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
+        "For two months after launch we handle content changes, bug fixes, security patches, backups and uptime checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
       ],
     },
     {
@@ -279,7 +279,7 @@ const chittoor: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle text and photo updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that you can continue with maintenance from ₹8,000 a month, or simply message us when a change is needed.",
+        "For two months after launch we handle text and photo updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that you can continue with maintenance from ₹8,000 a month, or simply message us when a change is needed.",
     },
     {
       question: "How long before SEO shows results in Chittoor?",

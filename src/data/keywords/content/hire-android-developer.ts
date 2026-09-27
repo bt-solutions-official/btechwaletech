@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Hire an Android developer · remote, India-wide",
     h1: "Hire an Android developer in India: skills to test, questions to ask and what it really costs",
     lede: `If you want to hire an Android developer, the hard part is not finding one; it is telling a capable builder from a confident talker before you have paid anything. This page gives you the skill checks, a paid test task you can copy, interview questions and honest starting prices. BtechWaleTech is three freelance developers in India who build Android and iOS apps from ${P.app}, published in your own Google Play Console, with the source code in your name.`,
-    pills: ["Kotlin & Jetpack Compose", "Flutter or React Native", "Paid test task template", "Play Console in your name", "Low-end phone testing", "Admin panel & API", "5 months free support"],
+    pills: ["Kotlin & Jetpack Compose", "Flutter or React Native", "Paid test task template", "Play Console in your name", "Low-end phone testing", "Admin panel & API", "2 months free support"],
     origin: "Three freelance developers · Remote from India · Android projects for clients across India and abroad",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Play Console account", "Yours, not the developer’s"],
     ["Test before you commit", "Small paid first milestone"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "App with custom back end", value: `From ${P.software}, 6–12 weeks` },
       { label: "Accounts", value: "Play Console, signing key and repository in your name" },
       { label: "Payments", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "MVP for a startup", note: "A first version with the three features that prove the idea, released to a closed test group before the public launch.", href: "/freelance-mvp-developer/", size: "md" },
       { name: "WhatsApp and AI features", note: `Order updates on WhatsApp, a support chatbot or document reading inside the app, from ${P.ai} as a separate line.`, href: "/ai-automation-freelancer/", size: "sm" },
       { name: "iPhone version", note: "The same Flutter or React Native code builds for iOS, published through App Store Connect in your Apple account.", href: "/hire-ios-developer/", size: "sm" },
-      { name: "Monthly upkeep", note: `After five free months, updates for new Android versions and policy changes continue from ${P.care}.`, href: "/pricing/", size: "sm" },
+      { name: "Monthly upkeep", note: `After two free months, updates for new Android versions and policy changes continue from ${P.care}.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -177,7 +177,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For a complete app with its back end and admin panel, budget from ${P.app} with us; heavier server logic moves the project to custom software pricing from ${P.software}. Those are starting points for a first release, not ceilings.`,
         `Across the market, quotes for the same Android brief spread widely. The spread comes from what each quote includes: one covers only the app screens, another includes the server, panel, store listing and three months of fixes. It also comes from whether the developer designs the screens or expects you to supply designs, and from how much testing on real devices is planned.`,
-        `Ongoing costs matter too. Google charges a one-time Play Console registration fee in US dollars; Apple charges a yearly developer fee if you add iPhone. Server hosting is usually modest for a small user base. Push notifications through Firebase are free at typical small business volumes. After our five free months, maintenance starts at ${P.care}. More detail sits on <a href='/freelance-app-developer-cost/'>freelance app developer cost</a>.`,
+        `Ongoing costs matter too. Google charges a one-time Play Console registration fee in US dollars; Apple charges a yearly developer fee if you add iPhone. Server hosting is usually modest for a small user base. Push notifications through Firebase are free at typical small business volumes. After our two free months, maintenance starts at ${P.care}. More detail sits on <a href='/freelance-app-developer-cost/'>freelance app developer cost</a>.`,
       ],
     },
     {
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how the hiring and build steps fit together. It is not a client story.`,
         `A dairy products distributor in a tier-2 town wants retailers to place orders from their phones instead of calling. Retailers use budget Android phones; the owner uses an iPhone. The brief lists five screens: login by OTP, product list with prices per retailer, cart, order history and a notice board. The admin panel needs order approval, a daily dispatch sheet and price updates.`,
-        `Our quote would start from the Android and iOS app plan at ${P.app}, with lines for the per-retailer pricing logic and a Hindi version. We would run a four-hour paid test first if the owner wants proof, then build in weekly test releases to five retailers on a closed track. Launch would follow the fourteen-day closed test. After release, five months of free maintenance covers new product fields and Android version updates.`,
+        `Our quote would start from the Android and iOS app plan at ${P.app}, with lines for the per-retailer pricing logic and a Hindi version. We would run a four-hour paid test first if the owner wants proof, then build in weekly test releases to five retailers on a closed track. Launch would follow the fourteen-day closed test. After release, two months of free maintenance covers new product fields and Android version updates.`,
       ],
     },
     {
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
       heading: "Android developer hire karna hai? Seedhe steps",
       paragraphs: [
         `Pehle likhiye ki app kaun use karega aur usme kaunse screens chahiye. Phir do-teen developers ko wahi brief bhejiye aur ek chhota paid test task dijiye, jaise do screen wali app jo internet na hone par bhi list dikhaye.`,
-        `Play Console account apne business ke naam par banaiye aur developer ko sirf user ke roop mein add kijiye. Code ka repository bhi aapke paas hona chahiye. Hamare saath Android aur iPhone app ${P.app} se shuru hoti hai aur 6–10 hafte mein Play Store par aa jaati hai. Release ke baad 5 mahine ka maintenance free hai.`,
+        `Play Console account apne business ke naam par banaiye aur developer ko sirf user ke roop mein add kijiye. Code ka repository bhi aapke paas hona chahiye. Hamare saath Android aur iPhone app ${P.app} se shuru hoti hai aur 6–10 hafte mein Play Store par aa jaati hai. Release ke baad 2 mahine ka maintenance free hai.`,
       ],
     },
   ],
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
         ["Online store plus shopping app", `From ${P.shop} for the store`, `From ${P.shopUsd}`, "4–8 weeks for the store", "App quoted as a separate line"],
         ["AI or WhatsApp feature in an app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Chatbot, document reading, order updates"],
         ["Landing site for the app", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Privacy policy page, download links"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Android updates, policy changes, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Android updates, policy changes, fixes"],
       ],
       hideSm: [2],
     },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Optional paid test", "If you want proof before committing, we build a small first milestone, such as login and the home screen, on a testing track you can install."],
       ["Accounts in your name", "You create the Play Console, Apple and cloud accounts in your business name and add us as users. The repository is shared with you from the first commit."],
       ["Weekly test builds", "Each week a new build lands on your phone through a testing track. You send feedback on WhatsApp and see fixes in the next build."],
-      ["Release and five months of care", "We complete the listing, data safety form and review. After release, fixes and Android updates are free for five months, then from " + P.care + " if you want to continue."],
+      ["Release and two months of care", "We complete the listing, data safety form and review. After release, fixes and Android updates are free for two months, then from " + P.care + " if you want to continue."],
     ],
   },
   faqHeading: "Hire Android developer: common questions",
@@ -390,14 +390,14 @@ const content: FreelanceContent = {
     { question: "Can I hire an Android developer near me instead of remote?", answer: "You can, and some people prefer meeting face to face. App development works well remotely, though, because progress arrives as test builds you install on your own phone. Judge any candidate, nearby or remote, on shipped apps, a paid test and ownership terms, then decide whether distance still matters." },
     { question: "What questions should I ask in an Android developer interview?", answer: "Ask to see a shipped app and hear about its hardest bug, how the app would behave offline, who owns the signing key and Play Console, how they keep the app small, what they do when Google changes a policy, and how you will see weekly progress. Specific, checkable answers are a good sign." },
     { question: "Does the price include the back end and admin panel?", answer: `With BtechWaleTech, yes: the app plan starting at ${P.app} includes an admin panel and API connection. Many quotes elsewhere cover only the app screens, so always ask. When the server needs complex business rules, roles or billing, we quote it as custom software starting at ${P.software} and show that line separately.` },
-    { question: "What are the ongoing costs after the app is live?", answer: `Expect server hosting, any paid APIs such as maps or SMS, the one-time Play Console fee and, for iPhone, Apple’s yearly developer fee. You also need updates when Android versions and Play policies change. BtechWaleTech covers maintenance free for five months after release, then from ${P.care} if you choose to continue.` },
+    { question: "What are the ongoing costs after the app is live?", answer: `Expect server hosting, any paid APIs such as maps or SMS, the one-time Play Console fee and, for iPhone, Apple’s yearly developer fee. You also need updates when Android versions and Play policies change. BtechWaleTech covers maintenance free for two months after release, then from ${P.care} if you choose to continue.` },
     { question: "How do payments work when I hire your Android developers?", answer: "Payments are split into stages tied to things you can install and see, such as the first test build and the release candidate. Clients in India pay by UPI or bank transfer; international clients pay through Wise, bank wire or PayPal. Nothing is billed before you approve the written, itemised quote." },
     { question: "Will you sign an NDA before I share my app idea?", answer: "Yes. BtechWaleTech signs a reasonable NDA before you share unreleased product details, customer data or business plans. The written scope also states that the source code, designs and store listing belong to you once paid, so your idea and the work built on it stay yours." },
     { question: "Can you take over an Android app another developer left unfinished?", answer: "Usually, yes. We first check what you actually hold: source code, repository history, Play Console access and the upload key. With those, we audit the code, list what works and what is missing, then quote to finish it. If the listing sits in someone else’s account, we explain the transfer or republishing options honestly." },
     { question: "Will the app work on cheap Android phones?", answer: "It should, if it is built and tested with those phones in mind. We test on entry-level handsets, keep the download small with App Bundles, cache data for weak networks and avoid heavy libraries. Ask any developer you hire which low-end phones they test on and how they measure start-up time." },
     { question: "Can the app support Hindi and other Indian languages?", answer: "Yes. Text is kept in resource files so each language is a translation rather than a rebuild. We check fonts and layouts for Hindi, Tamil, Telugu, Marathi and other scripts, and prepare store listing text and screenshots per language. Budget a line in the quote for translation and testing." },
     { question: "Can an Android developer from India work with clients abroad?", answer: `Yes. BtechWaleTech works with clients in the USA, UK, Canada, Australia, the UAE and elsewhere, with apps starting at ${P.appUsd}. We overlap part of the working day for calls, share weekly test builds and bill through Wise, bank wire or PayPal. The Play Console and code stay in your company’s account.` },
-    { question: "Android developer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iPhone dono ke liye app ${P.app} se shuru hoti hai aur 6–10 hafte mein Play Store par aa jaati hai. Isme login, notifications aur admin panel shamil hain. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur release ke baad 5 mahine maintenance free hai.` },
+    { question: "Android developer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iPhone dono ke liye app ${P.app} se shuru hoti hai aur 6–10 hafte mein Play Store par aa jaati hai. Isme login, notifications aur admin panel shamil hain. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur release ke baad 2 mahine maintenance free hai.` },
     { question: "What happens if my Android developer disappears mid-project?", answer: "If the Play Console, repository and server are already in your name, another developer can continue with little delay. That is why ownership should be set up in week one. With BtechWaleTech three developers know each project, so one person being away does not stop your builds or cut you off from your own app." },
   ],
   related: {
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire an Android developer? Send your app brief",
-    note: `Message us on WhatsApp with who will use the app and the screens you picture. You will get an itemised quote in about two working days, with apps starting at ${P.app}, every account in your name and five months of free maintenance after release.`,
+    note: `Message us on WhatsApp with who will use the app and the screens you picture. You will get an itemised quote in about two working days, with apps starting at ${P.app}, every account in your name and two months of free maintenance after release.`,
   },
 };
 

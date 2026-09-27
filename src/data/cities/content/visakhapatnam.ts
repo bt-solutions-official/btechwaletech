@@ -7,7 +7,7 @@ const visakhapatnam: CityContent = {
   meta: {
     title: "IT Services in Visakhapatnam: Websites, Apps, SEO & AI",
     description:
-      "Websites, Telugu and English SEO, ecommerce and AI automation for Visakhapatnam businesses. Sites from ₹10,000, clear quotes, 5 months of free maintenance.",
+      "Websites, Telugu and English SEO, ecommerce and AI automation for Visakhapatnam businesses. Sites from ₹10,000, clear quotes, 2 months of free maintenance.",
     keywords: [
       "website development team in Visakhapatnam",
       "web design team Vizag",
@@ -35,7 +35,7 @@ const visakhapatnam: CityContent = {
     pills: ["Websites from ₹10,000", "Telugu and English SEO", "Stores with UPI checkout", "WhatsApp automation", "Portals and dashboards"],
   },
   quickAnswer:
-    "For a Visakhapatnam business, our websites start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with stores from ₹50,000 and custom web apps from ₹60,000. We are a remote freelance team of three engineers, you own the domain and code, and maintenance is free for five months after launch.",
+    "For a Visakhapatnam business, our websites start at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with stores from ₹50,000 and custom web apps from ₹60,000. We are a remote freelance team of three engineers, you own the domain and code, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Commercial areas", value: "Dwaraka Nagar, Jagadamba Junction, MVP Colony, Siripuram, Asilmetta and Gajuwaka" },
     { label: "Ports", value: "Visakhapatnam Port and Gangavaram Port, with container freight stations and logistics firms around them" },
@@ -52,7 +52,7 @@ const visakhapatnam: CityContent = {
     ai: "Enquiry routing, WhatsApp replies and AI assistants that handle routine questions in English or Telugu and pass the rest to your team.",
     data: "Dashboards for container moves, dispatches, admissions or bookings, so an owner can see yesterday's numbers before the first call of the day.",
     app: "Android and iOS apps for bookings, driver check-ins or student portals, built in Flutter or React Native and released on both stores from ₹40,000.",
-    maintenance: "Updates, backups, security patches and edits, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and edits, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Vizag has plenty of web design firms, from agencies in Dwaraka Nagar to freelancers who share one template across dozens of clients. Prices are rarely public and ownership is rarely discussed. We publish our starting prices, register every account in your name, and keep answering on WhatsApp seven days a week after launch.",
@@ -177,7 +177,7 @@ const visakhapatnam: CityContent = {
       paragraphs: [
         "When we audit older Vizag websites, the most common problem is not design. It is access. The domain sits in a former vendor's account, hosting renewals go to an old email address, and nobody can change a phone number on the contact page. Sometimes the site has already expired.",
         "We set things up so that never happens to you. Your domain and hosting are registered in your name from the start, and at launch you get every login, the complete source code and a short note describing the setup. You are free to move to another developer at any point without an exit fee.",
-        "Maintenance for the first five months after launch is included at no cost: content changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can simply ask us for changes as and when you need them.",
+        "Maintenance for the first two months after launch is included at no cost: content changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can simply ask us for changes as and when you need them.",
       ],
     },
   ],

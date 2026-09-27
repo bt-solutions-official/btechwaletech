@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Accessibility target", "WCAG 2.2 level AA"],
     ["Performance target", "Core Web Vitals in the “good” range"],
     ["Code delivered to", "Your Git repository"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can review each other’s code" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Build the foundation first", "Design tokens, layout system and core components come first, reviewed on a preview link, so pages later assemble quickly and consistently."],
       ["Pull requests with evidence", "Each change arrives as a pull request with a short note, screenshots and, where relevant, before and after performance or accessibility results."],
       ["Launch checks", "Keyboard and screen reader pass, cross-browser testing on Android Chrome and iPhone Safari, Core Web Vitals lab check and Search Console verification."],
-      ["Five months of support", `Fixes and small changes are free for five months after launch. After that, ongoing frontend care starts at ${P.care} if you want it.`],
+      ["Two months of support", `Fixes and small changes are free for two months after launch. After that, ongoing frontend care starts at ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Freelance frontend developer: questions answered",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance frontend developer for your next build or fix?",
-    note: `Send your design, repository or live URL on WhatsApp. You get findings and an itemised estimate in about two working days, marketing site front ends start at ${P.site}, code stays in your repository and five months of maintenance come free after launch.`,
+    note: `Send your design, repository or live URL on WhatsApp. You get findings and an itemised estimate in about two working days, marketing site front ends start at ${P.site}, code stays in your repository and two months of maintenance come free after launch.`,
   },
 };
 

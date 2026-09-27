@@ -264,7 +264,7 @@ const content: FreelanceContent = {
         "Obvious fixes can show an effect within weeks of launch; properly tested improvements take as long as the sample size demands, which may be months on smaller sites. The audit itself is usually a matter of days once access is shared.",
         "A typical first cycle: access and tracking check; audit with a ranked findings list; quick fixes such as broken forms, hidden buttons and heavy images; then the first larger change, either tested or measured before and after. After that, work settles into a rhythm of one meaningful change at a time, each measured before the next.",
         "Patience is part of honest CRO. Seasonal businesses, such as coaching institutes during admissions or travel operators before holidays, see conversion rates swing for reasons unrelated to any change. We note those swings and compare like with like, which sometimes means waiting for a comparable period.",
-        "Sites we build include 5 months of free maintenance after launch, which covers keeping the changes working; later care plans start at " + P.care + ".",
+        "Sites we build include 2 months of free maintenance after launch, which covers keeping the changes working; later care plans start at " + P.care + ".",
       ],
     },
     {

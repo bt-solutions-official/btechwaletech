@@ -56,7 +56,7 @@ const tuensang: CityContent = {
     ai: "WhatsApp assistants that answer fee, timing, stock and festival questions in English and pass anything sensitive to a person.",
     data: "Simple dashboards for admissions, patient footfall, stall sales at Poanglüm or SHG produce collected across villages.",
     app: "Android and iOS apps for a school's parents or an association's members, with notices that still load offline, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes, done remotely.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes, done remotely.",
   },
   whyUsIntro:
     "Tuensang people tend to trust slowly and by recommendation, which is fair when the developer is far away. So we put everything in writing: starting prices, an itemised quote, dates and who is doing what. We reply on WhatsApp seven days a week, and your domain, hosting, code and app store accounts sit in your name from the first day.",
@@ -188,7 +188,7 @@ const tuensang: CityContent = {
       paragraphs: [
         "Everything we build for a Tuensang client belongs to that client: the domain, hosting, source code, Google Business Profile and the Google Play and Apple developer accounts are registered in your name or your organisation's name.",
         "At handover you get a written list of every login and where each service is billed. This matters most for associations and institutions whose office bearers or principals change, because the next team inherits a working site instead of a locked one. Our <a href=\"/services/web-development/\">web development</a> work follows the same rule for every client.",
-        "The first five months after launch include free maintenance: content edits, backups, security updates and regular checks that forms, UPI payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, manage it yourselves or pass the code to another developer without asking our permission. Apps also need a yearly update because Google and Apple raise their minimum requirements, and we track those deadlines so your listing is not removed.",
+        "The first two months after launch include free maintenance: content edits, backups, security updates and regular checks that forms, UPI payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, manage it yourselves or pass the code to another developer without asking our permission. Apps also need a yearly update because Google and Apple raise their minimum requirements, and we track those deadlines so your listing is not removed.",
         "Want to start small? Send a message with a few lines about your organisation. Sometimes the right first step is a corrected map pin and some photos, which you can do yourself, and we will say so.",
       ],
     },
@@ -271,7 +271,7 @@ const tuensang: CityContent = {
     {
       question: "What maintenance do you provide after a Tuensang site goes live?",
       answer:
-        "Every Tuensang project includes five months of free maintenance after launch, covering content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code to another developer at any time.",
+        "Every Tuensang project includes two months of free maintenance after launch, covering content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code to another developer at any time.",
     },
     {
       question: "Do you work with clients in Longkhim, Noklak, Shamator and Mokokchung?",

@@ -55,7 +55,7 @@ const jatani: CityContent = {
     ai: "WhatsApp assistants in Odia and English that answer room, fee, menu and timing questions and pass real decisions to the owner.",
     data: "Dashboards of rent collected, occupancy by semester, contractor bills pending and admission enquiries by source.",
     app: "Android and iOS apps for hostel residents paying rent or coaching students taking tests, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Jatani clients range from railway contractors used to formal paperwork to families renting rooms to students for the first time. We publish starting prices, send a written itemised quote, reply on WhatsApp all seven days and register the domain, hosting, code and app store accounts in your name. If a feature will not pay back, we tell you.",
@@ -167,7 +167,7 @@ const jatani: CityContent = {
       heading: "Ownership and maintenance for Jatani websites and apps",
       paragraphs: [
         "Ownership is yours in fact and on paper. We book the domain with your email address, the hosting invoice carries your name, the source code is handed to you in full, and you are the listed owner of the Google Business Profile, the Play Console account and the Apple developer account. A written login sheet comes with the handover, which means nobody, ourselves included, can ever lock you out.",
-        "The first five months after launch include maintenance at no cost. During that time we update prices, menus and room details before each semester, take backups, apply security and version updates, and check that forms, payments and WhatsApp buttons still work. Afterwards you choose: continue with us from ₹8,000 a month, handle it yourself or pass the code to another developer.",
+        "The first two months after launch include maintenance at no cost. During that time we update prices, menus and room details before each semester, take backups, apply security and version updates, and check that forms, payments and WhatsApp buttons still work. Afterwards you choose: continue with us from ₹8,000 a month, handle it yourself or pass the code to another developer.",
         "Even a problem-free app must be rebuilt about once a year, since Google and Apple regularly lift the minimum system versions they will accept on their stores. We keep a calendar of those cut-off dates and push the rebuild out ahead of time, so the listing is not delisted for age. Our <a href=\"/services/web-development/\">website development page</a> explains the rest.",
       ],
     },
@@ -259,7 +259,7 @@ const jatani: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep after launch are included free: edits to prices, menus and photos, backups, security patches and regular tests of forms, payments and WhatsApp links. After that you can stay on from ₹8,000 a month or take the work elsewhere. The code and accounts already belong to you, so leaving needs no permission from us.",
+        "Two months of upkeep after launch are included free: edits to prices, menus and photos, backups, security patches and regular tests of forms, payments and WhatsApp links. After that you can stay on from ₹8,000 a month or take the work elsewhere. The code and accounts already belong to you, so leaving needs no permission from us.",
     },
     {
       question: "Do you also work in Khordha, Bhubaneswar and Puri?",

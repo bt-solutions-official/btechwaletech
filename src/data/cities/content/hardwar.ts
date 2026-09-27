@@ -31,11 +31,11 @@ const hardwar: CityContent = {
     eyebrow: "Haridwar · Uttarakhand",
     h1: "Web, app, SEO and automation services for Haridwar's pilgrim trade, Ayurveda makers and SIDCUL suppliers",
     lede:
-      "We are three remote engineers who build booking-ready websites, product catalogues, vendor profiles and WhatsApp workflows for businesses in Haridwar, from the lanes near Har Ki Pauri and Jwalapur's bazaars to the SIDCUL estate. Our starting prices are public, you own the domain and code, and there is no maintenance charge for five months after launch.",
+      "We are three remote engineers who build booking-ready websites, product catalogues, vendor profiles and WhatsApp workflows for businesses in Haridwar, from the lanes near Har Ki Pauri and Jwalapur's bazaars to the SIDCUL estate. Our starting prices are public, you own the domain and code, and there is no maintenance charge for two months after launch.",
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Hotel and dharamshala booking", "Ayurveda product stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Haridwar, our static websites start from ₹10,000 and take one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store for Ayurveda or puja products from ₹50,000, and AI automation from ₹40,000. We are a remote three-engineer team with no Haridwar office, and every site gets five months of free maintenance.",
+    "In Haridwar, our static websites start from ₹10,000 and take one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store for Ayurveda or puja products from ₹50,000, and AI automation from ₹40,000. We are a remote three-engineer team with no Haridwar office, and every site gets two months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage", value: "Har Ki Pauri and the Ganga Aarti; Mansa Devi, Chandi Devi and Maya Devi temples; Kumbh and Ardh Kumbh fairs" },
     { label: "Industrial estate", value: "SIDCUL Haridwar, about 2,034 acres beside Shivalik Nagar, with 650+ companies" },
@@ -52,10 +52,10 @@ const hardwar: CityContent = {
     ai: "WhatsApp assistants that handle repeated questions about room rates, aarti timings, product stock and dispatch status in Hindi or English, and pass complex ones to staff.",
     data: "Dashboards for bookings by season, product sales by distributor or plant dispatches, readable on a phone during the busiest weeks.",
     app: "Android and iOS apps for room booking, distributor ordering and field staff reporting, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, security patches and speed checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
-    "Haridwar businesses are often pitched by Delhi or Dehradun agencies that hide their rates, or by booking platforms that take a cut of every room. We publish our starting prices, answer on WhatsApp all seven days, build sites you own outright, and maintain them free for five months after launch.",
+    "Haridwar businesses are often pitched by Delhi or Dehradun agencies that hide their rates, or by booking platforms that take a cut of every room. We publish our starting prices, answer on WhatsApp all seven days, build sites you own outright, and maintain them free for two months after launch.",
   pricingIntro:
     "These are starting prices, not package rates. The final figure depends on pages, rooms or products, languages and features, and it comes to you in an itemised written quote before any billing begins.",
   sections: [
@@ -174,11 +174,11 @@ const hardwar: CityContent = {
     },
     {
       id: "ownership-haridwar",
-      heading: "Ownership, handover and five months of free maintenance",
+      heading: "Ownership, handover and two months of free maintenance",
       paragraphs: [
         "Trusts and family businesses in Haridwar sometimes discover that their website's domain was registered by a volunteer or an old developer who is no longer reachable. When the renewal lapses, the site and email stop working, often just before a festival. Getting control back can take weeks.",
         "We register the domain and hosting in your name or your trust's name from the start. At launch you receive every login, the full source code and a short handover note. If you later choose another developer, you can pass everything on without any exit fee from us.",
-        "For the first five months after launch, maintenance is free: content and tariff updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance starts from ₹8,000 a month, or you can message us only when needed. Reach us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "For the first two months after launch, maintenance is free: content and tariff updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance starts from ₹8,000 a month, or you can message us only when needed. Reach us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -275,7 +275,7 @@ const hardwar: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we cover content and tariff updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we cover content and tariff updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed.",
     },
   ],
   nearby: ["roorkee", "rishikesh", "dehradun", "manglaur", "saharanpur", "najibabad", "mussoorie"],

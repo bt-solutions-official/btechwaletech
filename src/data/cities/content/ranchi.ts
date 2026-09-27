@@ -32,10 +32,10 @@ const ranchi: CityContent = {
     h1: "Websites, search visibility and automation for Ranchi and Jharkhand businesses",
     lede:
       "Three remote engineers building for the traders of Upper Bazar, the clinics of Bariatu, the institutes of Lalpur, the contractors who work with public sector companies and the tour operators who send visitors to Patratu and the waterfalls. You get published prices, plain communication and every login in your own name.",
-    pills: ["Websites from ₹10,000", "Hindi and English SEO", "Tender-ready company profiles", "WhatsApp automation", "5 months free upkeep"],
+    pills: ["Websites from ₹10,000", "Hindi and English SEO", "Tender-ready company profiles", "WhatsApp automation", "2 months free upkeep"],
   },
   quickAnswer:
-    "In Ranchi, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers, so there is no office cost in the price, you own the domain and code, and maintenance is free for five months.",
+    "In Ranchi, a business website with us starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO website starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers, so there is no office cost in the price, you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Status", value: "Capital of Jharkhand since the state was formed in 2000, and the main administrative and trade centre for the region" },
     { label: "Business districts", value: "Main Road, Upper Bazar, Lalpur, Doranda, Hindpiri and the Firayalal Chowk area" },
@@ -52,7 +52,7 @@ const ranchi: CityContent = {
     ai: "WhatsApp assistants and lead routing that answer routine questions in Hindi or English and pass real enquiries to your staff.",
     data: "Dashboards for project progress, site expenses, sales and collections that owners can open on a phone before visiting a site.",
     app: "Android and iOS apps for field teams, site supervisors and delivery staff where highway signal is weak, built in Flutter or React Native from ₹40,000.",
-    maintenance: "Content changes, backups, security updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Content changes, backups, security updates and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Many Ranchi businesses tell us the same thing about their previous web developer: quick to take the advance, slow to fix anything afterwards. We work the other way round. Prices are published, scope is written down, nothing is billed until you approve it, and we reply on WhatsApp seven days a week.",
@@ -173,11 +173,11 @@ const ranchi: CityContent = {
     },
     {
       id: "ownership-ranchi",
-      heading: "Your website stays yours, with five months of free upkeep",
+      heading: "Your website stays yours, with two months of free upkeep",
       paragraphs: [
         "One problem we see often in Ranchi is a website that the business cannot control. The domain was booked by a developer who has moved away, the hosting account is in someone else's name, or the site simply stopped working when a renewal was missed. Getting it back can take weeks.",
         "We register the domain in your business name, set up hosting on your own account and give you every login, the source code and a short explanation of how everything is set up at launch. You can move to another developer at any time without any exit fee.",
-        "Maintenance is free for five months after launch. That covers content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when something needs changing.",
+        "Maintenance is free for two months after launch. That covers content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when something needs changing.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const ranchi: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch, we handle content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, we handle content updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "What do I need to send to get started?",

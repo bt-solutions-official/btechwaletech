@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical first dashboard", "2–4 weeks, depending on data clean-up"],
     ["Works in", "Your Microsoft 365 / Power BI tenant"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After delivery", "5 months of free maintenance"],
+    ["After delivery", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one focused on data" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after handover" },
+    { value: "2", label: "Months of free fixes after handover" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Security", value: "Row-level security so each user sees only their rows" },
       { label: "Data automation", value: `From ${P.ai} (${P.aiUsd}), 2–4 weeks` },
       { label: "Ownership", value: "PBIX files, workspace and credentials stay in your tenant" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Data automation feeding Power BI", note: `Python or workflow jobs that pull from APIs, clean files and load a database so Power BI has something reliable to read, from ${P.ai}.`, href: "/python-automation-freelancer/", size: "md" },
       { name: "Custom web dashboard instead", note: `When licences or public sharing make Power BI awkward, a dashboard inside your own web app, from ${P.software}.`, href: "/web-application-developer/", size: "sm" },
       { name: "Analysis and forecasting", note: "Questions that need statistics or forecasts before they become a chart.", href: "/freelance-data-scientist/", size: "sm" },
-      { name: "Ongoing report care", note: `Five months of free fixes, then from ${P.care} a month for new measures, pages and source changes.`, size: "sm" },
+      { name: "Ongoing report care", note: `Two months of free fixes, then from ${P.care} a month for new measures, pages and source changes.`, size: "sm" },
     ],
   },
   comparison: {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything should sit in your tenant: the workspace, the published dataset and reports, the gateway registration, and the source PBIX files. We work as guest or member users you add, and you can remove us at any time.`,
         `At handover you receive the PBIX files, a measure list with plain-English definitions, a diagram of the model, the refresh schedule and gateway notes, security roles and who is mapped to them, and a short guide for adding a new branch, product category or month of targets.`,
-        `Five months of free maintenance follow, covering broken refreshes, measure fixes and small report changes. After that, ongoing care starts at ${P.care} a month if you want it, or your own analyst can take over using the documentation.`,
+        `Two months of free maintenance follow, covering broken refreshes, measure fixes and small report changes. After that, ongoing care starts at ${P.care} a month if you want it, or your own analyst can take over using the documentation.`,
       ],
     },
     {
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Build the model first", "We connect and clean the sources, build the star schema and measures, then check key totals against your own books with you."],
       ["Design the pages", "Report pages go to a test workspace in your tenant. Your team uses them for a few days and we adjust based on what they actually click."],
       ["Publish, secure, schedule", "Row-level security, gateway, refresh schedule and failure alerts are set up and each role is tested before wider sharing."],
-      ["Hand over and support", `PBIX files, measure list and guides are handed over, followed by five months of free maintenance. Ongoing care from ${P.care} a month is optional.`],
+      ["Hand over and support", `PBIX files, measure list and guides are handed over, followed by two months of free maintenance. Ongoing care from ${P.care} a month is optional.`],
     ],
   },
   faqHeading: "Power BI developer freelance: frequently asked questions",
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
     { question: "Can Power BI reports be viewed on mobile?", answer: "Yes. The Power BI mobile app runs on Android and iOS, and reports can have a separate phone layout designed for small screens. We build a mobile layout for the pages managers check on the move, such as daily sales or collections." },
     { question: "Can you show amounts in lakh and crore?", answer: "Yes. Custom format strings can display values in lakh and crore, and the date table can follow the Indian April to March financial year with fiscal quarters. GST components can be modelled as separate columns so tax summaries match your filings." },
     { question: "Do I need a Windows computer for Power BI?", answer: "To build or edit reports in Power BI Desktop, yes, because it runs only on Windows. Viewing and light editing work in a browser through the Power BI service on any operating system, and the mobile apps run on phones and tablets." },
-    { question: "What do I get at handover?", answer: "You receive the PBIX files, a measure list with plain-English definitions, a model diagram, refresh and gateway notes, the security roles and who is assigned to each, and a short guide for common changes. Five months of free maintenance follow for broken refreshes and small fixes." },
+    { question: "What do I get at handover?", answer: "You receive the PBIX files, a measure list with plain-English definitions, a model diagram, refresh and gateway notes, the security roles and who is assigned to each, and a short guide for common changes. Two months of free maintenance follow for broken refreshes and small fixes." },
     { question: "How do payments work for a freelance Power BI project?", answer: "Payments are made in stages tied to work you can see, such as the model checked against your books and the first report pages. Clients in India pay by UPI or bank transfer; international clients pay by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote." },
     { question: "Can you also automate the data that goes into Power BI?", answer: `Yes. Scheduled Python or workflow jobs can pull from APIs, clean files and load a database so reports refresh reliably. This data automation starts at ${P.ai} and typically takes 2–4 weeks, and it removes most of the manual copying that makes reports late.` },
     { question: "Power BI developer freelance mein hire karne se pehle kya taiyar rakhein?", answer: "Apne data ke sample files, kaunse sawaal ka jawab chahiye, aur kaun report dekhega, yeh list bana lijiye. Licence ka plan bhi pehle dekh lijiye. BtechWaleTech ko WhatsApp par yeh bhejiye, lagbhag 2 working days mein itemised quote milega aur saara kaam aapke apne tenant mein hoga." },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance Power BI developer? Send a sample of your data",
-    note: `Share your sources and the questions your reports must answer. In about two working days you get an itemised quote, with data automation from ${P.ai}, everything built in your own tenant and five months of free maintenance.`,
+    note: `Share your sources and the questions your reports must answer. In about two working days you get an itemised quote, with data automation from ${P.ai}, everything built in your own tenant and two months of free maintenance.`,
   },
 };
 

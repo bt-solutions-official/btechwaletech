@@ -35,7 +35,7 @@ const patan: CityContent = {
     pills: ["Sites from ₹10,000", "Gujarati and English", "Patola and Mashru stores", "Agro trade pages", "Heritage tour booking"],
   },
   quickAnswer:
-    "Patan businesses can get a static website from ₹10,000, ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Patan office, and maintenance is free for five months.",
+    "Patan businesses can get a static website from ₹10,000, ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, AI and WhatsApp automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers with no Patan office, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "Headquarters of Patan district in North Gujarat, about 108 km by rail from Ahmedabad" },
     { label: "History", value: "Capital of Gujarat under the Chavda and Chaulukya (Solanki) dynasties, with twelve old gates around the walled city" },
@@ -52,7 +52,7 @@ const patan: CityContent = {
     ai: "WhatsApp replies in Gujarati, Hindi or English for rates, stock, admission and appointment questions, day or night.",
     data: "Dashboards that turn season-wise purchase and sales numbers into charts a trader can read in a minute.",
     app: "Android and iOS apps for dealer orders, class notices or Rani ki Vav tour check-ins, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "Patan business owners usually choose between a local operator who builds a quick template and keeps the domain, and an Ahmedabad agency with a price to match. We offer something else: three engineers, starting prices you can see in advance, an itemised quote, daily WhatsApp replies and the domain, hosting and code in your name.",
@@ -181,7 +181,7 @@ const patan: CityContent = {
       paragraphs: [
         "We have seen Patan businesses lose their websites because the domain sat in a developer's account and nobody renewed it. When that happens, the address, the search rankings and every link shared on WhatsApp disappear together.",
         "With us, the domain and hosting are registered in your name from the first day. At launch you receive all logins, the full source code and a short guide. You may change developers whenever you wish, and there is no exit charge.",
-        "For five months after launch we maintain the site free: content and price updates, bug fixes, security patches, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "For two months after launch we maintain the site free: content and price updates, bug fixes, security patches, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const patan: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups and uptime checks without charge. After that, maintenance continues from ₹8,000 a month, or you can call us only when something is needed.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups and uptime checks without charge. After that, maintenance continues from ₹8,000 a month, or you can call us only when something is needed.",
     },
     {
       question: "Do you also work in Sidhpur, Mehsana, Unjha and Palanpur?",

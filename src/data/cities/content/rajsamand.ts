@@ -56,7 +56,7 @@ const rajsamand: CityContent = {
     ai: "WhatsApp assistants in Hindi and English that answer slab size, stock, room and darshan-timing questions and pass deals to you.",
     data: "Dashboards of blocks received, slabs cut, orders by state and payments pending from buyers.",
     app: "Android and iOS apps for marble buyers checking live stock or hotel guests booking rooms, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Rajsamand's stone traders sell to buyers across India and are used to haggling over every square foot. We work the same way on price: public starting figures, an item-wise written quote, WhatsApp replies on all seven days, and domain, hosting, code and store accounts registered to you. Where a feature will not pay for itself, we advise against it.",
@@ -168,7 +168,7 @@ const rajsamand: CityContent = {
       heading: "Ownership and maintenance for Rajsamand websites and apps",
       paragraphs: [
         "Everything is owned by you from the start. Your email holds the domain, the hosting account is billed to you, the complete code is handed over, and the Google Business Profile, Play Console and Apple developer accounts list you as owner. A written sheet of all logins comes with handover, so nobody, including us, can ever lock you out.",
-        "Maintenance costs nothing for five months after launch. That period covers edits to prices and stock photos, backups, security and version updates, and checks that forms, payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, manage the site yourself or hand the code to any other developer.",
+        "Maintenance costs nothing for two months after launch. That period covers edits to prices and stock photos, backups, security and version updates, and checks that forms, payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, manage the site yourself or hand the code to any other developer.",
         "Apps must be refreshed about once a year, even when working perfectly, because Google and Apple keep raising their minimum supported versions. We track those deadlines and update early, so your listing is never pulled. More on our <a href=\"/services/web-development/\">website development work</a>.",
       ],
     },
@@ -260,7 +260,7 @@ const rajsamand: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "We maintain the site free for five months after launch, covering edits, stock photo updates, backups, security patches and checks of forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or stop. Since the code and accounts are already yours, changing provider requires nothing from us.",
+        "We maintain the site free for two months after launch, covering edits, stock photo updates, backups, security patches and checks of forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or stop. Since the code and accounts are already yours, changing provider requires nothing from us.",
     },
     {
       question: "Do you work in Nathdwara, Kumbhalgarh and Amet too?",

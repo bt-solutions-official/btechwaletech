@@ -7,7 +7,7 @@ const kolkata: CityContent = {
   meta: {
     title: "IT Services in Kolkata: Websites, Apps, SEO & AI",
     description:
-      "Kolkata websites, SEO and WhatsApp automation from a remote three-engineer team. Sites from ₹10,000, online stores from ₹50,000, five months' upkeep free.",
+      "Kolkata websites, SEO and WhatsApp automation from a remote three-engineer team. Sites from ₹10,000, online stores from ₹50,000, two months' upkeep free.",
     keywords: [
       "website development team in Kolkata",
       "web design team Kolkata",
@@ -31,11 +31,11 @@ const kolkata: CityContent = {
     eyebrow: "Kolkata · West Bengal",
     h1: "Websites, apps, SEO and AI automation for Kolkata's traders, firms and brands",
     lede:
-      "A remote team of three engineers building websites, online stores and automation for Burrabazar wholesalers, Sector V tech firms, tea and jute houses, hospitals on the EM Bypass and sweet shops with a following. You get published prices, direct contact with the developers and five months of free maintenance once the site is live.",
+      "A remote team of three engineers building websites, online stores and automation for Burrabazar wholesalers, Sector V tech firms, tea and jute houses, hospitals on the EM Bypass and sweet shops with a following. You get published prices, direct contact with the developers and two months of free maintenance once the site is live.",
     pills: ["Websites from ₹10,000", "Bengali and English SEO", "Stores with UPI", "WhatsApp order flows", "Portals and dashboards"],
   },
   quickAnswer:
-    "In Kolkata, our business websites start at ₹10,000 and a 299+ page website built for Google search starts at ₹20,000, usually live in one to five weeks. Online stores begin at ₹50,000. We are a remote freelance team of three engineers with no Kolkata office, and each project includes five months of maintenance free.",
+    "In Kolkata, our business websites start at ₹10,000 and a 299+ page website built for Google search starts at ₹20,000, usually live in one to five weeks. Online stores begin at ₹50,000. We are a remote freelance team of three engineers with no Kolkata office, and each project includes two months of maintenance free.",
   snapshot: [
     { label: "Business districts", value: "BBD Bag and Dalhousie, Park Street, Camac Street, Esplanade and Chowringhee" },
     { label: "IT hubs", value: "Salt Lake Sector V and New Town, together the main technology cluster in eastern India" },
@@ -52,10 +52,10 @@ const kolkata: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and appointment questions in Bengali, Hindi or English, and pass the unusual ones to your team.",
     data: "Tally, Excel and ledger data turned into sales and receivables dashboards an owner can check between meetings on Brabourne Road.",
     app: "Android and iOS apps for salesmen, field staff and customers on ordinary phones, published on Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "Content changes, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month thereafter.",
+    maintenance: "Content changes, backups, security fixes and speed checks, free for two months after launch and from ₹8,000 a month thereafter.",
   },
   whyUsIntro:
-    "Kolkata has a long list of web studios, from firms in Sector V to individual developers working from home in Behala or Dum Dum. Few publish prices, and many are hard to reach once a site is delivered. We put our starting prices on this page, reply on WhatsApp every day of the week and handle maintenance for free for five months after launch.",
+    "Kolkata has a long list of web studios, from firms in Sector V to individual developers working from home in Behala or Dum Dum. Few publish prices, and many are hard to reach once a site is delivered. We put our starting prices on this page, reply on WhatsApp every day of the week and handle maintenance for free for two months after launch.",
   pricingIntro:
     "Kolkata quotes for similar websites can differ tenfold, and the reasons are rarely written down. These are our genuine starting prices. Your final figure depends on pages, features and how much content is ready, and you receive it itemised before any work begins.",
   sections: [
@@ -191,11 +191,11 @@ const kolkata: CityContent = {
     },
     {
       id: "ownership-maintenance-kolkata",
-      heading: "Your domain, your hosting, your code, plus five months of free upkeep",
+      heading: "Your domain, your hosting, your code, plus two months of free upkeep",
       paragraphs: [
         "We regularly meet Kolkata business owners who cannot change a single word on their website. The domain was booked by a nephew or an old vendor, the hosting login is lost, and the site shows a security warning because nobody renewed the certificate. Recovering access can take weeks.",
         "Our rule is simple. The domain is registered in your name, the hosting account is in your name, and at launch you receive every password, the full source code and a short note describing the setup. You can take the site to any other developer at any time, with no exit charge.",
-        "For five months after launch, we maintain the site at no cost: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
+        "For two months after launch, we maintain the site at no cost: content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something done.",
       ],
     },
   ],
@@ -282,7 +282,7 @@ const kolkata: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks without charge. After that, you can continue from ₹8,000 a month or contact us only when you need a change.",
+        "For two months after launch we handle content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks without charge. After that, you can continue from ₹8,000 a month or contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Howrah, Hooghly and the suburbs?",

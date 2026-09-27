@@ -36,17 +36,17 @@ const content: FreelanceContent = {
     ["Hosting options", "n8n Cloud (EU) or your own EU server"],
     ["Instance and exports", "Owned by your company"],
     ["Billing", "USD or EUR via Wise or bank wire"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who know your instance" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of maintenance included" },
+    { value: "2", label: "Months of maintenance included" },
     { value: "0", label: "Middleman or platform commission" },
   ],
   answer: {
     heading: "What does an n8n automation agency do, and why do German firms choose n8n?",
-    text: `An n8n automation agency plans, builds, hosts and maintains n8n workflows that connect your business tools. German firms choose n8n because it is built in Berlin, can be self-hosted on an EU server and keeps workflow data under their control. With BtechWaleTech, workflows start at ${P.ai} and take 2–4 weeks; maintenance starts at ${P.care} after five free months.`,
+    text: `An n8n automation agency plans, builds, hosts and maintains n8n workflows that connect your business tools. German firms choose n8n because it is built in Berlin, can be self-hosted on an EU server and keeps workflow data under their control. With BtechWaleTech, workflows start at ${P.ai} and take 2–4 weeks; maintenance starts at ${P.care} after two free months.`,
     more: `If your workflows will include language models, read our <a href='/germany/ai-automation-agency/'>AI automation page for German SMEs</a>; for an Indian-market view of the same tool, see <a href='/n8n-automation-expert/'>hiring an n8n automation expert</a>.`,
   },
   snapshot: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Licence position", value: "Sustainable Use License covers your own internal business use" },
       { label: "Credentials", value: "Encrypted in the instance, with the key kept by your company" },
       { label: "Build price", value: `From ${P.ai} per workflow, 2–4 weeks` },
-      { label: "Ongoing care", value: `Updates, monitoring and fixes from ${P.care} after 5 free months` },
+      { label: "Ongoing care", value: `Updates, monitoring and fixes from ${P.care} after 2 free months` },
       { label: "Call window", value: "German mornings, which fall in the Indian afternoon" },
     ],
   },
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "n8n project pricing: what the starting figure includes",
-    note: `A workflow build starts at ${P.ai} and covers requirements on one page, the flow itself with error handling, credential setup, test runs on sample data, a JSON export in your repository and a short runbook. Setting up a self-hosted instance is quoted as its own line. Costs rise with the number of systems, custom nodes, data mapping rules, approval steps and how much historical data must be moved. Server or n8n Cloud fees are paid by you to the provider. After five free months, maintenance starts from ${P.care}. The quote is itemised and nothing is billed before you approve it in writing.`,
+    note: `A workflow build starts at ${P.ai} and covers requirements on one page, the flow itself with error handling, credential setup, test runs on sample data, a JSON export in your repository and a short runbook. Setting up a self-hosted instance is quoted as its own line. Costs rise with the number of systems, custom nodes, data mapping rules, approval steps and how much historical data must be moved. Server or n8n Cloud fees are paid by you to the provider. After two free months, maintenance starts from ${P.care}. The quote is itemised and nothing is billed before you approve it in writing.`,
   },
   guideLabel: "n8n guide for German companies",
   guide: [
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does an n8n automation agency cost?",
       paragraphs: [
-        `With BtechWaleTech, a workflow build starts at ${P.ai} and a typical project runs 2–4 weeks; maintenance starts from ${P.care} a month once the five free months end. Rates at other providers vary widely, so compare the number of workflows, the error handling and the hosting work included, not a headline figure.`,
+        `With BtechWaleTech, a workflow build starts at ${P.ai} and a typical project runs 2–4 weeks; maintenance starts from ${P.care} a month once the two free months end. Rates at other providers vary widely, so compare the number of workflows, the error handling and the hosting work included, not a headline figure.`,
         `Cost drivers, roughly in order: the number of systems per workflow, how messy the data mapping is (German accounting fields, tax keys and customer numbers rarely line up across tools), the need for custom nodes, approval steps involving people, and any migration of historical records. Setting up and hardening a self-hosted instance is a separate line in the quote.`,
         `Running costs belong in the budget as well: a server or n8n Cloud plan, any paid n8n tier, and usage fees for connected services such as AI models. On self-hosted n8n these do not grow with each workflow step, which is often the main financial reason to move away from per-task pricing. If AI steps are involved, the <a href='/germany/ai-automation-agency/'>AI automation guide</a> explains how model costs are estimated.`,
       ],
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       heading: "What does an n8n automation agency maintenance retainer cover?",
       paragraphs: [
         `A maintenance retainer keeps the instance updated, watches failed runs, fixes broken connections and makes small changes. n8n ships updates frequently, and the APIs your workflows use change on their own schedules, so unattended instances drift into trouble.`,
-        `Our care plans start from ${P.care} a month after five months of free maintenance. Typical monthly work includes applying n8n updates on a test copy first, then production; checking the error log and re-running failed items; renewing expiring credentials and tokens; adjusting a workflow when a connected tool changes its API; and a short monthly note on what ran, what failed and what changed.`,
+        `Our care plans start from ${P.care} a month after two months of free maintenance. Typical monthly work includes applying n8n updates on a test copy first, then production; checking the error log and re-running failed items; renewing expiring credentials and tokens; adjusting a workflow when a connected tool changes its API; and a short monthly note on what ran, what failed and what changed.`,
         `What a retainer should not be is a lock-in. Your instance, workflows and credentials stay in your accounts, and the runbooks let your own IT or another n8n automation agency take over. The exact scope and notice terms are set out in your written quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
       ],
     },
@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A hypothetical scenario, not a client story. Say a 12-person online shop in Freiburg sells outdoor gear on Shopware 6, invoices in lexoffice and sends its books to a tax adviser who works with DATEV. Today a staff member copies each paid order into lexoffice and exports a monthly file by hand.`,
         `The n8n design would have three workflows. <strong>Orders to invoices</strong>: a Shopware webhook fires when an order is paid; n8n checks it has not been processed before, maps customer and line items, and creates the invoice in lexoffice through its API, then writes the invoice number back to the order. <strong>Returns and withdrawals</strong>: when a return is registered, a credit note is prepared for approval in Teams rather than created automatically. <strong>Month-end export</strong>: approved documents are collected and passed on in the format the tax adviser agreed.`,
-        `Hosting would be a small self-hosted instance in the shop's own EU cloud account with nightly database backups and execution data pruned after an agreed period. The error workflow posts to a Teams channel the owner reads. Build cost would start from the ${P.ai} workflow price, with the three flows quoted together, and maintenance from ${P.care} after five free months.`,
+        `Hosting would be a small self-hosted instance in the shop's own EU cloud account with nightly database backups and execution data pruned after an agreed period. The error workflow posts to a Teams channel the owner reads. Build cost would start from the ${P.ai} workflow price, with the three flows quoted together, and maintenance from ${P.care} after two free months.`,
         `What would be left to people: approving credit notes, answering the tax adviser's questions and deciding what happens with unusual orders. That split is deliberate.`,
       ],
     },
@@ -358,13 +358,13 @@ const content: FreelanceContent = {
       ["Written quote", "Within about two working days: workflows, hosting setup, maintenance option, timeline and USD price, each as its own line. Nothing is billed before you approve it."],
       ["Instance and build", "The n8n instance is set up in your account, credentials created as service accounts, and workflows built with retries, error workflows and duplicate checks."],
       ["Parallel run", "New workflows run beside the old process or old zaps, outputs are compared and differences fixed until they match for an agreed period."],
-      ["Switch-over and care", "Triggers are switched, runbooks handed over, a restore test done, and five months of free maintenance begin. Care plans continue from " + P.care + "."],
+      ["Switch-over and care", "Triggers are switched, runbooks handed over, a restore test done, and two months of free maintenance begin. Care plans continue from " + P.care + "."],
     ],
   },
   faqHeading: "n8n automation agency: questions from German companies",
   faqs: [
     { question: "What does an n8n automation agency do?", answer: "An n8n automation agency sets up an n8n instance, designs and builds workflows that connect your business tools, adds error handling and documentation, and maintains everything after launch. BtechWaleTech does this as three freelance developers in India, working in your accounts so the instance, workflows and credentials remain with your company." },
-    { question: "How much does an n8n automation agency cost?", answer: `With BtechWaleTech, workflow builds start at ${P.ai} and take 2–4 weeks, and maintenance starts from ${P.care} a month after five free months. Other providers price very differently, so compare the scope: number of workflows, error handling, hosting setup and documentation. Server or n8n Cloud fees are paid directly by you.` },
+    { question: "How much does an n8n automation agency cost?", answer: `With BtechWaleTech, workflow builds start at ${P.ai} and take 2–4 weeks, and maintenance starts from ${P.care} a month after two free months. Other providers price very differently, so compare the scope: number of workflows, error handling, hosting setup and documentation. Server or n8n Cloud fees are paid directly by you.` },
     { question: "Why is n8n popular with German companies?", answer: "n8n is built by a Berlin-based company, can be self-hosted on a server in Germany or the EU, and its hosted n8n Cloud runs on Azure in the EU. It also handles complex logic, code and any API, which suits German stacks with tools like lexoffice, sevDesk, DATEV exports and regional ERPs." },
     { question: "Is n8n free to use for my business?", answer: "The self-hosted software can be used under the Sustainable Use License for your own internal business purposes, which covers automating your own company's processes. Selling n8n or a product whose value comes substantially from it to others is restricted. Some features are only in paid tiers, and n8n Cloud is a paid service. Unclear cases belong with n8n and your lawyer." },
     { question: "Should we use n8n Cloud or self-host?", answer: "Choose n8n Cloud if you want no server to manage and are happy with n8n as a processor. Choose self-hosting if you need data on infrastructure you control, access to internal systems or lower costs at high volume. Many Mittelstand firms self-host in their own EU cloud account with a maintenance plan covering updates and backups." },
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Who owns the workflows you build?", answer: "Your company. The instance runs in your account, workflows are exported as JSON to your repository and credentials belong to service accounts you control. We work through user accounts you can disable at any time. At handover you receive runbooks, so your IT or another provider can continue." },
     { question: "How do we work with an n8n team in India?", answer: "Your morning overlaps our afternoon: India is 3.5 hours ahead of German summer time and 4.5 hours ahead in winter. We meet on video in that window, answer on WhatsApp, Teams or email seven days a week and write down every decision. There are no on-site visits; screen sharing covers process walkthroughs." },
     { question: "How are we invoiced?", answer: "You approve an itemised quote in USD before anything is billed. Invoices come from India in USD or EUR and are paid by Wise or bank wire according to the schedule in your quote. Hosting and any n8n plan are billed to you directly by those providers. Your accountant advises on booking." },
-    { question: "What is included in n8n maintenance?", answer: `Updating n8n on a test copy before production, reviewing failed runs, re-running failed items, renewing credentials and tokens, adapting workflows when a connected tool changes its API and a short monthly report. The first five months after launch are free; afterwards care starts from ${P.care}. Exact scope and notice terms are in your written quote.` },
+    { question: "What is included in n8n maintenance?", answer: `Updating n8n on a test copy before production, reviewing failed runs, re-running failed items, renewing credentials and tokens, adapting workflows when a connected tool changes its API and a short monthly report. The first two months after launch are free; afterwards care starts from ${P.care}. Exact scope and notice terms are in your written quote.` },
     { question: "Can our own staff edit workflows later?", answer: "Yes, for simple changes such as a new email recipient, a changed field or an extra condition, n8n's visual editor is approachable after a short walkthrough. Structural changes, code nodes and credential work are better left to a developer. Every workflow comes with a runbook explaining which parts are safe to edit." },
   ],
   related: {

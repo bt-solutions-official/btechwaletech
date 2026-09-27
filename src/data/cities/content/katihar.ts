@@ -32,10 +32,10 @@ const katihar: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Katihar's traders, clinics and coaching centres",
     lede:
       "Three remote engineers building websites, Google listings, small online stores and WhatsApp tools for Katihar district. We work with makhana processors selling beyond Bihar, maize and grain traders, shops around Shaheed Chowk and Mangal Bazar, hospitals and clinics on the Purnia road, coaching institutes near DS College, and businesses in Manihari and Barsoi.",
-    pills: ["Websites from ₹10,000", "Makhana online stores", "Hindi and Bangla-friendly pages", "Coaching and clinic sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Makhana online stores", "Hindi and Bangla-friendly pages", "Coaching and clinic sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "A Katihar business can get a static website from us from ₹10,000, ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for makhana or other products at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team of three with no office in Katihar, and maintenance is free for five months.",
+    "A Katihar business can get a static website from us from ₹10,000, ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for makhana or other products at ₹50,000, and WhatsApp automation at ₹40,000. We are a remote team of three with no office in Katihar, and maintenance is free for two months.",
   snapshot: [
     { label: "Position", value: "District headquarters in eastern Bihar, on the Kari Kosi, in Purnia division" },
     { label: "Railways", value: "Katihar Junction on the Barauni–Guwahati line and headquarters of a Northeast Frontier Railway division" },
@@ -52,7 +52,7 @@ const katihar: CityContent = {
     ai: "WhatsApp replies for rates, stock, admission or OPD questions in Hindi, with serious buyers and patients passed straight to you.",
     data: "Simple dashboards showing purchase prices, sales and margins by grade, buyer or month, built from your existing records.",
     app: "Android and iOS apps for field buyers, delivery staff and teachers that work on inexpensive phones, released on Google Play and the App Store.",
-    maintenance: "Updates, backups, fixes and uptime checks free for five months after launch, then from ₹8,000 a month or pay as needed.",
+    maintenance: "Updates, backups, fixes and uptime checks free for two months after launch, then from ₹8,000 a month or pay as needed.",
   },
   whyUsIntro:
     "Katihar is a railway town and a farm-trade town, and most of its business still runs on phone calls and personal networks. That works for existing customers. For new ones, especially buyers outside Bihar, a clear website and a proper Google listing matter. We publish our prices, reply on WhatsApp seven days a week and put everything in your name.",
@@ -196,7 +196,7 @@ const katihar: CityContent = {
       paragraphs: [
         "Many Katihar businesses have lost a website because the person who built it registered the domain on their own account and then stopped responding. Without the login, the owner cannot even change a phone number.",
         "We register the domain and hosting in your name. At launch you get every password, the full code and a short note explaining the setup. You can move to any other developer at any time with no exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or message us only when you need a change.",
+        "For two months after launch, maintenance is free: text and price changes, fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month or message us only when you need a change.",
       ],
     },
   ],
@@ -283,7 +283,7 @@ const katihar: CityContent = {
     {
       question: "What is included in free maintenance?",
       answer:
-        "For five months after launch we handle text and price changes, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you contact us only when something needs doing.",
+        "For two months after launch we handle text and price changes, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you contact us only when something needs doing.",
     },
     {
       question: "Do you work in Purnia, Manihari, Barsoi and Bhagalpur as well?",

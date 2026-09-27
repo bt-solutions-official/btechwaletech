@@ -39,10 +39,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Ujjain for pilgrim services, hotels, industry and trade",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Ujjain hotels, dharamshalas, puja service providers, taxi operators, Vikram Udyogpuri and Maksi Road units and mandi traders hire us instead of a software development team in Ujjain to build booking engines, Simhastha-ready apps, AI agents, factory software and dashboards, with hosting and SEO handled.",
-    pills: ["Booking systems from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Simhastha-ready hosting", "Multilingual pilgrim flows", "5 months free maintenance"],
+    pills: ["Booking systems from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Simhastha-ready hosting", "Multilingual pilgrim flows", "2 months free maintenance"],
   },
   quickAnswer:
-    "Looking for a software development team in Ujjain? BtechWaleTech is a freelance group of three remote engineers. Booking engines and custom software start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. Quotes are itemised within about two working days, with five months of free maintenance.",
+    "Looking for a software development team in Ujjain? BtechWaleTech is a freelance group of three remote engineers. Booking engines and custom software start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. Quotes are itemised within about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage centre", value: "Mahakaleshwar Jyotirlinga and the Mahakal Lok corridor, plus Kal Bhairav, Harsiddhi and Ram Ghat on the Shipra" },
     { label: "Major event", value: "Simhastha Kumbh held every 12 years, with the next one due in 2028 and large infrastructure work underway" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that answer pilgrim questions in Hindi, English and other Indian languages and confirm bookings instantly.",
     data: "Dashboards for occupancy, bookings, fleet use, mandi purchases and factory output, fed from your apps, Tally or sheets.",
     app: "Android and iOS apps for Ujjain hotels, puja providers, taxi operators and traders, built in Flutter or React Native and ready for festival traffic, from ₹40,000.",
-    maintenance: "Monitoring, backups, updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Monitoring, backups, updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Ujjain's pilgrim economy is growing fast, and many hotels and service providers depend on third-party platforms or a single local web designer. A freelance group of three named engineers, with written quotes, peak-load planning and every account in your name, gives you more control.",
@@ -208,7 +208,7 @@ const content: CityContent = {
       id: "cost-timeline-ujjain",
       heading: "How much does software cost in Ujjain, and how long does it take?",
       paragraphs: [
-        "BtechWaleTech's Ujjain starting prices are ₹60,000 for booking engines and custom software over six to twelve weeks, ₹40,000 for Android and iOS apps over six to ten weeks, ₹40,000 for AI automation over two to four weeks, ₹50,000 for ecommerce over four to eight weeks and ₹10,000 for a static website over one to two weeks. Maintenance is from ₹8,000 a month after five free months.",
+        "BtechWaleTech's Ujjain starting prices are ₹60,000 for booking engines and custom software over six to twelve weeks, ₹40,000 for Android and iOS apps over six to ten weeks, ₹40,000 for AI automation over two to four weeks, ₹50,000 for ecommerce over four to eight weeks and ₹10,000 for a static website over one to two weeks. Maintenance is from ₹8,000 a month after two free months.",
         "Cost grows with rooms or resources managed, user roles, integrations, languages and data migration. Group booking logic, multiple properties or payment integrations add scope. Each item is listed separately so you can launch the essentials before a festival and add the rest later.",
         "Payment is by UPI QR or bank transfer in INR, in milestones. See the <a href='/pricing/'>pricing page</a>. For festival deadlines, start early: good software needs testing time.",
       ],
@@ -217,7 +217,7 @@ const content: CityContent = {
       id: "support-ownership-ujjain",
       heading: "Support during peak season, maintenance and ownership",
       paragraphs: [
-        "Every Ujjain project includes five months of free maintenance after launch, with fixes, small changes, security updates, backups and uptime checks, then optional support from ₹8,000 a month. You own the code, domain, hosting and all logins from the start.",
+        "Every Ujjain project includes two months of free maintenance after launch, with fixes, small changes, security updates, backups and uptime checks, then optional support from ₹8,000 a month. You own the code, domain, hosting and all logins from the start.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week, which matters during festival weekends when problems cannot wait until Monday. We have no office in Ujjain; the engineers who built your system respond directly.",
         "Documentation at handover lets another developer continue if you ever switch. The <a href='/it-services/madhya-pradesh/'>Madhya Pradesh hub</a> covers the state, with a sibling page for <a href='/it-services/madhya-pradesh/indore/'>Indore</a>, and nearby <a href='/nagda/'>Nagda</a> and <a href='/ratlam/'>Ratlam</a> are served the same way. Start on the <a href='/contact/'>contact page</a>.",
       ],
@@ -295,7 +295,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month, or pay per change. We respond seven days a week, including festival weekends.",
+        "Two months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month, or pay per change. We respond seven days a week, including festival weekends.",
     },
     {
       question: "Can you build Android and iOS apps for Ujjain pilgrims, drivers and staff?",

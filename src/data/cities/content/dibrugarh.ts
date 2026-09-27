@@ -35,7 +35,7 @@ const dibrugarh: CityContent = {
     pills: ["Websites from ₹10,000", "Assamese and English", "Tea brand stores", "Oil-belt vendor profiles", "Hotel and homestay sites"],
   },
   quickAnswer:
-    "A static website for a Dibrugarh business starts at ₹10,000 and takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, online stores such as tea shops at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team without a Dibrugarh office, and every build includes five months of free maintenance.",
+    "A static website for a Dibrugarh business starts at ₹10,000 and takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, online stores such as tea shops at ₹50,000 and custom web apps at ₹60,000. We are a remote three-person engineering team without a Dibrugarh office, and every build includes two months of free maintenance.",
   snapshot: [
     { label: "Location", value: "Upper Assam on the south bank of the Brahmaputra, about 435 km east of Dispur" },
     { label: "Status", value: "Declared Assam's second capital in March 2024, with a new Dibrugarh Municipal Corporation" },
@@ -52,7 +52,7 @@ const dibrugarh: CityContent = {
     ai: "WhatsApp replies that answer room, tariff, stock or appointment questions in English, Assamese or Hindi, day and night.",
     data: "Green leaf arrivals, made-tea output and sales turned into a dashboard that estate managers can read on a phone.",
     app: "Android and iPhone apps for dealer orders, patient tokens or student notices, from ₹40,000 with release on Google Play and the App Store.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Dibrugarh businesses often wait weeks for a Guwahati agency or settle for a site nobody can update. We are a remote team of three with published starting prices, WhatsApp replies seven days a week, and a firm rule that you own the domain, hosting and code.",
@@ -179,7 +179,7 @@ const dibrugarh: CityContent = {
       paragraphs: [
         "It happens often in smaller cities: the person who built a firm's website moves away for work, and the domain, hosting and passwords go with him. The renewal lapses and years of search visibility vanish overnight. We set things up so that cannot happen to you.",
         "Your domain and hosting are registered in your name from the start. At launch you receive every login, the complete source code and a short written guide to how the site is built. You can move to another developer at any time without an exit fee.",
-        "Maintenance is free for five months after launch: text and price changes, bug fixes, security updates, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
+        "Maintenance is free for two months after launch: text and price changes, bug fixes, security updates, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
       ],
     },
   ],
@@ -266,7 +266,7 @@ const dibrugarh: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when something needs changing.",
     },
     {
       question: "Do you work with businesses in Tinsukia, Duliajan, Sivasagar and Jorhat?",

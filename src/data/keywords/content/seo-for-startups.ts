@@ -308,7 +308,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You message us on WhatsApp with your site link (or idea), your buyer, and your runway horizon. Within about two working days you get an itemised quote that separates build work from monthly SEO, so you can approve only the first slice.`,
         `We work in short cycles. Each month has a written list of pages and fixes; you see drafts on a staging link, comment on WhatsApp, and approve before anything goes live. Every account (domain, hosting, Search Console, analytics, code repository) sits in your name from the start, so if you later hire in-house, the handover is a login change rather than a migration.`,
-        `After launch you get five months of free maintenance on the build; maintenance after that starts at ${P.care}. Payments within India are by UPI or bank transfer, and international founders pay by Wise, bank wire or PayPal, quoted in USD. We cannot promise rankings, and nobody honestly can. What we can promise is that every recommendation is explained in plain words and every change is visible to you.`,
+        `After launch you get two months of free maintenance on the build; maintenance after that starts at ${P.care}. Payments within India are by UPI or bank transfer, and international founders pay by Wise, bank wire or PayPal, quoted in USD. We cannot promise rankings, and nobody honestly can. What we can promise is that every recommendation is explained in plain words and every change is visible to you.`,
       ],
       after: [
         `Want the build first? See <a href='/freelance-web-developer-for-startups/'>freelance web development for startups</a> or <a href='/freelance-mvp-developer/'>MVP development</a>, then add SEO when the product is live.`,

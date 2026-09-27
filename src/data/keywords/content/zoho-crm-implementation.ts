@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Licences", "Bought by you, directly from Zoho"],
     ["Lead sources", "IndiaMART, website, ads, WhatsApp"],
     ["Training", "Recorded sessions in English or Hindi"],
-    ["After launch", `5 months free support, then from ${P.care}`],
+    ["After launch", `2 months free support, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your rollout" },
     { value: "2", label: "Working days to an itemised implementation quote" },
-    { value: "5", label: "Months of free support after go-live" },
+    { value: "2", label: "Months of free support after go-live" },
     { value: "0", label: "Margin added to your Zoho licences" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Zoho CRM implementation cost with us",
-    note: `A standard Zoho CRM implementation sits in the AI automation row below, starting from ${P.ai}. That covers process mapping, edition advice, pipelines and fields, cleaning and importing one set of existing leads, IndiaMART and website lead capture, roles, and recorded training, usually in two to four weeks. The quote grows with the number of pipelines, how messy your data is, how many lead sources and branches you have, and whether you need Deluge functions or a Zoho Books sync. Customer portals or custom modules built outside Zoho start from ${P.software}. Licences are billed by Zoho to you. Support after five free months starts from ${P.care}.`,
+    note: `A standard Zoho CRM implementation sits in the AI automation row below, starting from ${P.ai}. That covers process mapping, edition advice, pipelines and fields, cleaning and importing one set of existing leads, IndiaMART and website lead capture, roles, and recorded training, usually in two to four weeks. The quote grows with the number of pipelines, how messy your data is, how many lead sources and branches you have, and whether you need Deluge functions or a Zoho Books sync. Customer portals or custom modules built outside Zoho start from ${P.software}. Licences are billed by Zoho to you. Support after two free months starts from ${P.care}.`,
   },
   guideLabel: "Zoho CRM implementation guide",
   guide: [
@@ -127,7 +127,7 @@ const content: FreelanceContent = {
         `Zoho CRM implementation cost has two separate bills: Zoho’s licence fee per user, paid to Zoho, and the setup work, paid to whoever implements it. With us, setup starts from ${P.ai} (${P.aiUsd}) for a standard rollout.`,
         `Licence cost depends on edition, user count and whether you pay monthly or yearly, and it is listed on Zoho’s pricing page. We never resell licences, so there is no margin hidden inside them. Buying directly also keeps the billing relationship between your business and Zoho, which matters if you change implementers later.`,
         `Setup cost is driven by scope. The main drivers are how many pipelines and custom modules you need, the state of your existing data, how many lead sources must be connected, whether branches need separate visibility, and whether any Deluge code is required for automation that rules cannot handle.`,
-        `Then there are the costs people forget. Your team’s time in process calls and testing. Training time for reps, which is lost selling time. WhatsApp conversation charges if you message customers through the Business Platform. Add-ons from the Zoho Marketplace. And support after launch: the first five months are free with us, and ongoing help starts from ${P.care}. Our broader guide to <a href='/crm-software-development-cost/'>CRM software development cost</a> compares these with building a CRM of your own.`,
+        `Then there are the costs people forget. Your team’s time in process calls and testing. Training time for reps, which is lost selling time. WhatsApp conversation charges if you message customers through the Business Platform. Add-ons from the Zoho Marketplace. And support after launch: the first two months are free with us, and ongoing help starts from ${P.care}. Our broader guide to <a href='/crm-software-development-cost/'>CRM software development cost</a> compares these with building a CRM of your own.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         `The first 60 days decide whether a Zoho CRM implementation sticks. Plan a daily check for the first two weeks, a review at 30 days, and one round of adjustments based on real use.`,
         `In the first fortnight we watch for three signals: leads arriving from every source with tags, reps logging activities on their phones, and the owner using the dashboard. If any signal is missing, the fix is usually small, such as a shorter mobile layout or a missing assignment rule.`,
         `At 30 days, we review stage probabilities, mandatory fields nobody fills properly, and duplicates that slipped through. Adjusting these once, based on data, beats guessing during setup.`,
-        `Ownership stays simple. The Zoho org, licences and super-admin role are yours from day one. At handover you receive a short document listing pipelines, fields, rules, integrations and who to call for what. Support for five months after go-live is free with us, and afterwards starts from ${P.care} per month if you want it. Terms for your project are written into the quote and our <a href='/terms/'>terms page</a>.`,
+        `Ownership stays simple. The Zoho org, licences and super-admin role are yours from day one. At handover you receive a short document listing pipelines, fields, rules, integrations and who to call for what. Support for two months after go-live is free with us, and afterwards starts from ${P.care} per month if you want it. Terms for your project are written into the quote and our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Configure and clean", "Pipelines, fields, layouts and rules are built while your data is cleaned and deduplicated. A test batch is checked by someone who knows the customers."],
       ["Connect lead sources", "IndiaMART, website forms, ad forms and WhatsApp are connected with source tags, and assignment rules route each lead to the right person."],
       ["Pilot, train, go live", "Two or three reps work from Zoho first. After fixes, the full import runs, role videos go out, and the whole team switches over."],
-      ["Review and support", `Daily checks for two weeks, a 30-day review, five months of free support, then maintenance from ${P.care} if you want it.`],
+      ["Review and support", `Daily checks for two weeks, a 30-day review, two months of free support, then maintenance from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Zoho CRM implementation: frequently asked questions",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Will you train my team in Hindi?", answer: "Yes. Training is recorded in English or Hindi, split by role so a rep watches only what a rep needs. Each person also gets a one-page daily routine. During the first two weeks after go-live, a WhatsApp group handles quick questions, which is where most practical learning happens for new users." },
     { question: "Can Zoho CRM connect with Zoho Books for invoices?", answer: `Yes. Customers can be shared between the two, and with a custom function a won deal can raise a sales order or invoice in Books automatically, with payment status written back to CRM. That sync is usually an add-on to the implementation, priced as automation work starting from ${P.ai}. Your accountant should confirm GST settings.` },
     { question: "Who owns the Zoho CRM account after implementation?", answer: "You do. Licences are bought by your business directly from Zoho, you are super admin from the first day, and the implementer works through a scoped user that you can remove at any time. At handover you receive a short document describing pipelines, fields, rules and integrations, so anyone can maintain it later." },
-    { question: "What support do we get after Zoho CRM goes live?", answer: `With us, the first five months of support after go-live are free, covering fixes and small adjustments to what we set up, including a 30-day review based on real usage. After that, maintenance starts from ${P.care} per month if you want it. The exact scope is agreed in your written quote.` },
+    { question: "What support do we get after Zoho CRM goes live?", answer: `With us, the first two months of support after go-live are free, covering fixes and small adjustments to what we set up, including a 30-day review based on real usage. After that, maintenance starts from ${P.care} per month if you want it. The exact scope is agreed in your written quote.` },
     { question: "Can you migrate from another CRM to Zoho CRM?", answer: "Yes. We export leads, contacts, accounts, deals and notes from the old system, map its fields to your new Zoho design, and clean duplicates on the way. Attachments and activity history are moved where the old system allows export. We run a test migration first, then the final one on a quiet day." },
     { question: "Is Zoho CRM data stored in India?", answer: "Zoho runs several data centres, and its API documentation lists a separate India data centre with its own domains, such as accounts.zoho.in. Which data centre your account uses depends on where it was created. If data location matters for your business, check your account’s domain before migrating, and ask your own advisers about any legal requirement." },
     { question: "Zoho CRM lagwana hai, shuru kaise karein?", answer: `Pehle apna sales process ek page par likhiye: leads kahan se aate hain, kaun se stages hain, deal kab won ya lost maani jaati hai. Phir WhatsApp par humse baat kariye. Hum edition choose karne mein madad karenge aur do working days mein itemised quote denge. Standard setup ${P.ai} se shuru hota hai.` },

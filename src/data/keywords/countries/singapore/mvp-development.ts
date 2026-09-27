@@ -26,7 +26,7 @@ const content: FreelanceContent = {
     eyebrow: "Singapore · startup MVPs · web and mobile",
     h1: "MVP development in Singapore: an investor-ready first version in 6 to 10 weeks",
     lede: `MVP development in Singapore should get a founder from idea to real users, and real numbers for investors, before the runway starts to hurt. BtechWaleTech is three freelance developers in India who build web MVPs from ${P.software} and mobile MVPs from ${P.app}, on a written scope, in roughly 6 to 10 weeks. We cut features until what remains tests your riskiest assumption, add the analytics investors ask about, and write the code so your first Singapore engineer can take it over. More on our work for <a href='/singapore/'>Singapore businesses</a>.`,
-    pills: [`Mobile MVP from ${P.app}`, `Web MVP from ${P.software}`, "6–10 weeks on a written scope", "Subscription billing in SGD", "Traction analytics built in", "Code your first hire can inherit", "5 months free maintenance"],
+    pills: [`Mobile MVP from ${P.app}`, `Web MVP from ${P.software}`, "6–10 weeks on a written scope", "Subscription billing in SGD", "Traction analytics built in", "Code your first hire can inherit", "2 months free maintenance"],
     origin: "Three freelance developers in India · founder-friendly WhatsApp updates, 7 days a week",
   },
   facts: [
@@ -41,7 +41,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers building your MVP, so progress never depends on one person" },
     { value: "2", label: "Working days to a written, itemised MVP estimate" },
     { value: "0", label: "Invoices before you approve the scope" },
-    { value: "5", label: "Months of free fixes after your MVP goes live" },
+    { value: "2", label: "Months of free fixes after your MVP goes live" },
   ],
   answer: {
     heading: "How can a Singapore startup build an MVP quickly on a founder's budget?",
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Scope rule", value: "Only features that test your riskiest assumption" },
       { label: "Built in", value: "Sign-up, core flow, payments if needed, analytics, admin view" },
       { label: "Handover", value: "Repository, readme, architecture notes, recorded walkthroughs" },
-      { label: "After launch", value: `Five months free, then support from ${P.care}` },
+      { label: "After launch", value: `Two months free, then support from ${P.care}` },
     ],
   },
   services: {
@@ -150,7 +150,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a mobile MVP starts from ${P.app} and a web or SaaS MVP from ${P.software}. Quotes from other developers vary widely; the spread comes from scope, where the team is based, how much design and testing is included, and who carries the risk if things run over.`,
         `The main cost drivers are the same for every MVP: the number of user roles, whether payments or payouts flow through the product, real-time features, integrations, and how custom the design must be. A single-role SaaS tool with one workflow is near the starting price. A marketplace with payouts to sellers is not.`,
-        `Budget beyond the build: cloud hosting, email and SMS, analytics tools past their free tiers, app store fees (US$99 a year for Apple, a one-time US$25 for Google Play) and support once our five free months end, from ${P.care}. Keep a reserve for the changes your first users will ask for; the MVP is the start of learning, not the end of spending.`,
+        `Budget beyond the build: cloud hosting, email and SMS, analytics tools past their free tiers, app store fees (US$99 a year for Apple, a one-time US$25 for Google Play) and support once our two free months end, from ${P.care}. Keep a reserve for the changes your first users will ask for; the MVP is the start of learning, not the end of spending.`,
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Set up in your name", "You create the cloud, repository, domain and store accounts; we help with each step and join as invited members."],
       ["Build in two-week cycles", "A working version lands every two weeks on a test URL or test build, so you can use it and adjust priorities."],
       ["Beta, measure, launch", "Analytics and billing are checked with real beta users, then we launch and set up a demo environment for investors."],
-      ["Hand over or keep going", "You get documentation and walkthroughs for your first hire, five months of free fixes, and the option to continue with us."],
+      ["Hand over or keep going", "You get documentation and walkthroughs for your first hire, two months of free fixes, and the option to continue with us."],
     ],
   },
   faqHeading: "MVP development in Singapore: founder questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "How is personal data handled in an MVP?", answer: "Even a small MVP collects personal data such as names and emails, so the PDPA applies to your startup. We add clear consent wording to sign-up, collect only what the test needs, host data in the Singapore cloud region under your account and restrict admin access. Your own adviser should confirm your privacy notice." },
     { question: "Can you add AI features to an MVP?", answer: `Yes. AI is often the product itself, for example summarising documents or answering questions from a knowledge base. We set spending limits, log outputs for review and measure quality with test cases. The AI layer starts from ${P.ai}, and we explain which data goes to the model provider.` },
     { question: "Can we meet in Singapore to plan the MVP?", answer: "No. We are a remote team in India and do not make in-person visits. Planning sessions happen on video calls with shared documents, and because India is only 2.5 hours behind Singapore, calls fit easily into your afternoon. Written summaries after each call keep decisions clear." },
-    { question: "What support do we get after the MVP launches?", answer: `Five months of free maintenance cover bug fixes and small adjustments after launch. After that, support plans start from ${P.care}. New features for the next phase are estimated separately, based on what your analytics show users actually need rather than the original wishlist.` },
+    { question: "What support do we get after the MVP launches?", answer: `Two months of free maintenance cover bug fixes and small adjustments after launch. After that, support plans start from ${P.care}. New features for the next phase are estimated separately, based on what your analytics show users actually need rather than the original wishlist.` },
     { question: "Will the MVP be found on Google or in AI answers?", answer: "An MVP is mainly for testing with users you recruit, but a fast landing page with clear answers helps people who search for your problem, and AI tools such as ChatGPT or Google AI Overviews quote pages that answer questions directly. Nobody can guarantee rankings; early traction usually comes from direct outreach." },
   ],
   related: {

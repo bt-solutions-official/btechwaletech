@@ -31,11 +31,11 @@ const ongole: CityContent = {
     eyebrow: "Ongole · Prakasam district, coastal Andhra Pradesh",
     h1: "Websites, software, SEO and AI tools for Ongole's granite, seafood and service firms",
     lede:
-      "Three remote engineers building websites, export catalogues, UPI stores and WhatsApp workflows for Ongole: granite quarries and processors on the Chimakurthy side, shrimp and seafood firms along the coast, tobacco growers and traders, hospitals near RIMS, colleges and the shops of Trunk Road and Gandhi Road. Starting prices are published, and the first five months of maintenance are free.",
+      "Three remote engineers building websites, export catalogues, UPI stores and WhatsApp workflows for Ongole: granite quarries and processors on the Chimakurthy side, shrimp and seafood firms along the coast, tobacco growers and traders, hospitals near RIMS, colleges and the shops of Trunk Road and Gandhi Road. Starting prices are published, and the first two months of maintenance are free.",
     pills: ["Websites from ₹10,000", "Telugu and English", "Granite export catalogues", "Hospital booking forms", "Direct WhatsApp support"],
   },
   quickAnswer:
-    "In Ongole, a business website with our team starts from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team without an Ongole office, and maintenance is free for five months.",
+    "In Ongole, a business website with our team starts from ₹10,000 and goes live in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team without an Ongole office, and maintenance is free for two months.",
   snapshot: [
     { label: "Status", value: "Headquarters of Prakasam district; upgraded to a municipal corporation in January 2012" },
     { label: "Famous for", value: "Ongole cattle, an indigenous breed whose bloodline helped create the American Brahman" },
@@ -52,10 +52,10 @@ const ongole: CityContent = {
     ai: "WhatsApp assistants that answer timings, fees, stock or specification questions in Telugu or English and hand the conversation to your staff when needed.",
     data: "Production, dispatch, sales and collections pulled into a dashboard so an owner can see which quarry, product or branch is really paying.",
     app: "Android and iOS apps for patient tokens, dealer orders or student portals, released on both app stores with prices starting at ₹40,000.",
-    maintenance: "Updates, backups, security patches and monitoring free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and monitoring free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Ongole businesses usually choose between a local designer, a Vijayawada or Hyderabad agency and a listing portal. Few of them publish prices or explain who owns the domain. We write down our starting prices, put the domain and hosting in your name, answer on WhatsApp seven days a week and maintain the site free for five months after launch.",
+    "Ongole businesses usually choose between a local designer, a Vijayawada or Hyderabad agency and a listing portal. Few of them publish prices or explain who owns the domain. We write down our starting prices, put the domain and hosting in your name, answer on WhatsApp seven days a week and maintain the site free for two months after launch.",
   pricingIntro:
     "These are starting prices, not packages. A granite processor with forty stone varieties and export documentation needs far more than a single-doctor clinic, so we price the actual pages and features. You receive an itemised written quote within about two working days, and nothing is billed until you approve it.",
   sections: [
@@ -177,7 +177,7 @@ const ongole: CityContent = {
       paragraphs: [
         "Ongole businesses often tell us the same story: a developer registered the domain in his own name years ago, the hosting was on his account, and now the site is offline and he cannot be reached. Getting a domain back from someone else's account can take weeks, and sometimes it is lost entirely.",
         "With us, the domain is in your name and the hosting account is yours from day one. At launch you receive every login, the full source code and a short note explaining the setup. You can move to another developer whenever you choose, with no exit fee.",
-        "Maintenance is free for five months after launch: content and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need something done.",
+        "Maintenance is free for two months after launch: content and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need something done.",
       ],
     },
     {
@@ -266,9 +266,9 @@ const ongole: CityContent = {
         "Yes. The domain is registered in your name, the hosting account is yours, and you receive every login and the source code at launch. You can switch developers at any time with no exit fee.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Content and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks, all at no cost for five months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "Content and price changes, bug fixes, security and software updates, backups, uptime monitoring and speed checks, all at no cost for two months after launch. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
     },
     {
       question: "How long does SEO take in Ongole?",

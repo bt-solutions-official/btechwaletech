@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Handoff format", "Figma, brief, sitemap, content"],
     ["Who talks to your client", "You, unless you ask otherwise"],
     ["Code and accounts", "In the client’s or agency’s name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers you can call on" },
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       id: "after-launch",
       heading: "Maintenance and support for your agency’s clients after launch",
       paragraphs: [
-        `Launch is where many overflow arrangements go quiet, leaving the agency alone with the first round of client requests. On sites we build, five months of free maintenance start at launch: fixes, small edits, updates and backup checks, requested through your team.`,
+        `Launch is where many overflow arrangements go quiet, leaving the agency alone with the first round of client requests. On sites we build, two months of free maintenance start at launch: fixes, small edits, updates and backup checks, requested through your team.`,
         `After that period, maintenance continues from ${P.care} per site if you want it, and you decide how to package it for your client. For clients who want ongoing search work, our technical SEO support starts at ${P.seo} and fits under your SEO team’s strategy. We never promise rankings to you or your clients; nobody can guarantee them.`,
       ],
     },
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show how overflow work is planned, not a client story.`,
         `A 12-person digital marketing agency has one in-house developer. In the same month it signs a clinic website, a 400-page service-area site for a home services brand and a festive landing page for a retailer. Its developer can manage the landing page, but not all three.`,
-        `The agency sends us the clinic’s Figma file and the service-area brief during the pitch stage. We return itemised estimates: the clinic under the static website plan from ${P.site}, and the service-area build under the SEO website plan from ${P.seoSite}, with lines for location page templates, schema and content import from the agency’s spreadsheet. The agency adds its margin and wins both. We build in its Asana board and Git organisation, share staging links with its project manager, and hand over QA notes at each milestone. The client meets only the agency. After launch, both sites move into five months of free maintenance handled through the agency.`,
+        `The agency sends us the clinic’s Figma file and the service-area brief during the pitch stage. We return itemised estimates: the clinic under the static website plan from ${P.site}, and the service-area build under the SEO website plan from ${P.seoSite}, with lines for location page templates, schema and content import from the agency’s spreadsheet. The agency adds its margin and wins both. We build in its Asana board and Git organisation, share staging links with its project manager, and hand over QA notes at each milestone. The client meets only the agency. After launch, both sites move into two months of free maintenance handled through the agency.`,
       ],
     },
     {
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
         ["Portal or web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Requirements sign-off, client contact"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "App concept, UX approval"],
         ["AI or WhatsApp automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Use case and client training"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Packaging and client billing"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Packaging and client billing"],
       ],
       hideSm: [2],
     },
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
         ["Internal QA", "Device, speed, SEO and accessibility checks", "Review QA note and staging"],
         ["Client review", "Fix feedback you pass on", "Present to client, consolidate comments"],
         ["Launch", "DNS, SSL, Search Console, final checks", "Client sign-off, announce"],
-        ["Next 5 months", "Fixes and small edits", "Route client requests to us"],
+        ["Next 2 months", "Fixes and small edits", "Route client requests to us"],
       ],
     },
   ],
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
       ["Hand over the pack", "Figma, sitemap, content, licences, access and acceptance criteria arrive together, and we list anything missing before the build starts."],
       ["Build inside your tools", "Work is tracked on your board, code goes to your repository, and staging links go to your project manager at each milestone."],
       ["QA, client review and launch", "We test against your criteria, share a QA note, fix client feedback you pass on and launch in the client’s accounts."],
-      ["Support through your agency", "Five months of free maintenance follow launch, with requests routed through your team. After that, care continues from " + P.care + " if you want it."],
+      ["Support through your agency", "Two months of free maintenance follow launch, with requests routed through your team. After that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Web development for agencies: questions agency owners ask",
@@ -381,13 +381,13 @@ const content: FreelanceContent = {
     { question: "How is quality checked in web development for agencies?", answer: "We test against your acceptance criteria before your review: design fidelity, real-device responsive checks, Core Web Vitals on mobile, basic accessibility, forms and tracking, SEO essentials and security settings. Each milestone comes with a short QA note listing what was tested and any known issues, so your project manager can decide what goes to the client." },
     { question: "Can you work in our project management tools?", answer: "Yes. We work in your Slack or Teams channel, your board in Asana, Trello, ClickUp or Jira, and your Git hosting. Vedansh manages delivery on our side as the single point of contact, and WhatsApp is available seven days a week, IST, for quick questions." },
     { question: "Do you sign an NDA or non-solicitation agreement with agencies?", answer: "Confidentiality and any terms about contacting your clients are agreed in writing with the estimate, so ask us before you share client details. You can review our general terms beforehand. Until an agreement is in place, you can send an anonymised brief and still receive a useful estimate." },
-    { question: "What happens after launch on a site you built for our client?", answer: `Five months of free maintenance start at launch, covering fixes, small edits, updates and backup checks, with requests routed through your agency. After that, maintenance continues from ${P.care} per site if you want it, and you decide how to package and bill it to your client.` },
+    { question: "What happens after launch on a site you built for our client?", answer: `Two months of free maintenance start at launch, covering fixes, small edits, updates and backup checks, with requests routed through your agency. After that, maintenance continues from ${P.care} per site if you want it, and you decide how to package and bill it to your client.` },
     { question: "Can you help SEO agencies with large site builds?", answer: `Yes. SEO websites with 700+ generated pages start at ${P.seoSite}. We build location and service templates, schema, sitemaps, internal linking and redirects from your keyword plan and content, so your SEO team gets a technically clean structure. Rankings depend on many factors and nobody can guarantee them, so we never promise positions.` },
     { question: "Do you work with agencies outside India?", answer: `Yes. Agencies in the USA, UK, Canada, Australia, the UAE and elsewhere work with us remotely, billed in USD from ${P.siteUsd} for a static site and paid through Wise, bank wire or PayPal. We agree a daily overlap window for calls and send written updates so your morning starts with progress, not questions.` },
     { question: "Can you take on a half-finished project another vendor left?", answer: "Often, yes. We start by reviewing the code, hosting, plugins and design files to see what is usable, then send a written assessment and an itemised estimate for finishing or partly rebuilding. Access to the repository and hosting is needed first, so check your client can provide it." },
     { question: "Can you build apps or automation for an agency’s clients?", answer: `Yes. Android and iOS apps start at ${P.app}, built in Flutter or React Native and published in the client’s own store accounts. AI and WhatsApp automation start at ${P.ai}. These let your agency say yes to briefs that go beyond websites without hiring new specialists.` },
     { question: "How do payments work between an agency and you?", answer: "Payments follow milestones tied to work you can review on staging, agreed in the written estimate. Indian agencies pay by UPI or bank transfer; overseas agencies pay through Wise, bank wire or PayPal. Nothing is billed before you approve the estimate in writing, and the payment schedule is independent of how you bill your client." },
-    { question: "Agency ke liye web developer chahiye, kaise kaam hota hai?", answer: `Aap client aur design sambhalte hain, hum website banate hain. Brief ya Figma bhejiye, lagbhag 2 working days mein itemised estimate milega, jisse aap apna proposal bana sakte hain. Static website ${P.site} se shuru hoti hai. Kaam aapke tools mein hota hai, code aapke ya client ke account mein, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Agency ke liye web developer chahiye, kaise kaam hota hai?", answer: `Aap client aur design sambhalte hain, hum website banate hain. Brief ya Figma bhejiye, lagbhag 2 working days mein itemised estimate milega, jisse aap apna proposal bana sakte hain. Static website ${P.site} se shuru hoti hai. Kaam aapke tools mein hota hai, code aapke ya client ke account mein, aur launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related reading on web development for agencies and outsourced delivery",
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need web development for your agency’s next crunch?",
-    note: `Send the brief or draft designs for your next pitch on WhatsApp. You will get an itemised estimate in about two working days, with websites from ${P.site}, work done in your tools, accounts in your client’s name and five months of free maintenance after launch.`,
+    note: `Send the brief or draft designs for your next pitch on WhatsApp. You will get an itemised estimate in about two working days, with websites from ${P.site}, work done in your tools, accounts in your client’s name and two months of free maintenance after launch.`,
   },
 };
 

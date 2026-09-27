@@ -56,7 +56,7 @@ const nabha: CityContent = {
     ai: "WhatsApp assistants that answer Punjabi, Hindi and English questions on models, spares, prices and service slots, then pass serious leads to you.",
     data: "Dashboards of machines sold by state and season, spare part demand, service calls and dealer payments due.",
     app: "Android and iOS apps from ₹40,000 for harvester service engineers, dealers and school parents in Nabha, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Nabha business owners know machinery and money, and they dislike vague promises. We work the same way: published starting prices, written itemised quotes, WhatsApp answers seven days a week, and the domain, hosting, code and app store accounts in your name. If a feature will not earn its cost in a season or two, we tell you.",
@@ -176,7 +176,7 @@ const nabha: CityContent = {
       heading: "Ownership and maintenance for Nabha websites, apps and software",
       paragraphs: [
         "Too many small businesses have lost websites because a developer kept the domain in his own name. We avoid that completely: domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered to your business, and all logins are handed over in writing.",
-        "Maintenance is free for five months after launch. It covers content and price updates, backups, security patches, software updates, and checks that forms, payments, dealer logins and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer at any time.",
+        "Maintenance is free for two months after launch. It covers content and price updates, backups, security patches, software updates, and checks that forms, payments, dealer logins and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer at any time.",
         "Apps need yearly updates as Google and Apple change their requirements, and we track those so your app is not removed. For dealer and service software, we keep off-site backups and test restores, because losing a season's service records would be a serious blow.",
       ],
     },
@@ -268,7 +268,7 @@ const nabha: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments, dealer logins and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments, dealer logins and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like.",
     },
     {
       question: "Do you serve Bhadson, Amloh, Patiala and Malerkotla?",

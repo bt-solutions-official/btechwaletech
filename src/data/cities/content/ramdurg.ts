@@ -57,7 +57,7 @@ const ramdurg: CityContent = {
     ai: "WhatsApp assistants that reply in Kannada about stock, fees, darshan-day lodge rooms and clinic timings, and hand odd cases to a person.",
     data: "Simple dashboards showing credit outstanding by village, season-wise sales, or enquiries per course for a college office.",
     app: "Android and iOS apps from ₹40,000, such as a parent app for a Ramdurg school or a re-order app for village retailers, published on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for edits, backups, security patches and app store updates.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for edits, backups, security patches and app store updates.",
   },
   whyUsIntro:
     "Business in Ramdurg runs on trust built over years, often between families. We try to earn it the slow way: starting prices on the website, a written quote with every line priced, WhatsApp replies seven days a week, and your domain, hosting, source code and store accounts registered to you from the first day.",
@@ -169,7 +169,7 @@ const ramdurg: CityContent = {
       heading: "Who owns the website, and what maintenance covers for Ramdurg clients",
       paragraphs: [
         "You do, entirely. The domain is booked on your email, the hosting account carries your name, the full source code is handed over, and your Google Business Profile, Google Play console and Apple developer account are registered to you. At handover we send a sheet of every login, so nobody, including us, can lock you out later.",
-        "The first five months after launch come with free maintenance. In that window we update prices and photos, run backups, apply security and plugin updates, and check that forms, UPI payment and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it in-house, or pass the code to another developer without asking our permission.",
+        "The first two months after launch come with free maintenance. In that window we update prices and photos, run backups, apply security and plugin updates, and check that forms, UPI payment and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it in-house, or pass the code to another developer without asking our permission.",
         "Apps need attention even when nothing breaks, because Google and Apple raise their minimum requirements every year. We watch those deadlines and ship the update before the store sends a warning, so your listing does not vanish during admission season or the jatre rush.",
       ],
     },
@@ -261,7 +261,7 @@ const ramdurg: CityContent = {
     {
       question: "What maintenance do you provide after a Ramdurg website goes live?",
       answer:
-        "Maintenance is free for five months after launch: price and photo edits, backups, security updates and checks on forms, payments and WhatsApp buttons. After that, Ramdurg clients can continue from ₹8,000 a month or take it in-house. Since the code and accounts are already yours, switching to another developer needs no approval from us.",
+        "Maintenance is free for two months after launch: price and photo edits, backups, security updates and checks on forms, payments and WhatsApp buttons. After that, Ramdurg clients can continue from ₹8,000 a month or take it in-house. Since the code and accounts are already yours, switching to another developer needs no approval from us.",
     },
     {
       question: "Do you work with businesses in Saundatti, Nargund and Gokak too?",

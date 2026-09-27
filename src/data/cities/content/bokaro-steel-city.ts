@@ -7,7 +7,7 @@ const bokaro: CityContent = {
   meta: {
     title: "Bokaro Steel City IT Services | Web, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Bokaro Steel City vendors, Balidih units, Chas traders, schools and clinics. From ₹10,000, five months upkeep free.",
+      "Websites, SEO and WhatsApp automation for Bokaro Steel City vendors, Balidih units, Chas traders, schools and clinics. From ₹10,000, two months upkeep free.",
     keywords: [
       "website development team in Bokaro",
       "web design Bokaro Steel City",
@@ -30,11 +30,11 @@ const bokaro: CityContent = {
     eyebrow: "Bokaro Steel City · Jharkhand",
     h1: "Websites, SEO and automation for Bokaro's plant vendors, Chas traders and schools",
     lede:
-      "We are a remote team of three engineers building websites, online stores and WhatsApp automations for Bokaro: contractors and suppliers around the steel plant, Balidih units, Chas wholesalers and showrooms, schools, coaching centres and clinics in the sectors. Prices are published, you speak to the developers directly, and maintenance is free for five months after launch.",
+      "We are a remote team of three engineers building websites, online stores and WhatsApp automations for Bokaro: contractors and suppliers around the steel plant, Balidih units, Chas wholesalers and showrooms, schools, coaching centres and clinics in the sectors. Prices are published, you speak to the developers directly, and maintenance is free for two months after launch.",
     pills: ["Websites from ₹10,000", "Vendor capability sites", "Hindi and English pages", "School and coaching sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "For a Bokaro Steel City business, a basic website with our team starts at ₹10,000 and is live in one to two weeks. A 299+ page SEO website costs from ₹20,000, an online store from ₹50,000 and automation from ₹40,000. We are a remote three-engineer team without a Bokaro office, and five months of maintenance are free.",
+    "For a Bokaro Steel City business, a basic website with our team starts at ₹10,000 and is live in one to two weeks. A 299+ page SEO website costs from ₹20,000, an online store from ₹50,000 and automation from ₹40,000. We are a remote three-engineer team without a Bokaro office, and two months of maintenance are free.",
   snapshot: [
     { label: "City type", value: "Planned steel township and headquarters of Bokaro district, with Chas as its twin town" },
     { label: "Anchor industry", value: "Bokaro Steel Plant of SAIL, set up in the 1960s with Soviet collaboration" },
@@ -51,10 +51,10 @@ const bokaro: CityContent = {
     ai: "WhatsApp assistants that answer admission, fee, stock or service questions in Hindi or English and pass the rest to your staff.",
     data: "Contract, billing and payment data turned into a dashboard that shows pending bills and job progress at a glance.",
     app: "Android and iPhone apps for school notices, patient appointments or site reporting, one codebase published to Google Play and the App Store.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Bokaro businesses usually get websites from a local freelancer, a Ranchi or Dhanbad agency, or a Kolkata firm that rarely visits. Prices are seldom published and support often ends at launch. We list our starting prices openly, answer WhatsApp every day of the week and maintain your site free for five months.",
+    "Bokaro businesses usually get websites from a local freelancer, a Ranchi or Dhanbad agency, or a Kolkata firm that rarely visits. Prices are seldom published and support often ends at launch. We list our starting prices openly, answer WhatsApp every day of the week and maintain your site free for two months.",
   pricingIntro:
     "In Bokaro, website prices tend to be quoted after a long conversation and rarely broken down. These are our real starting prices. Your final quote depends on pages, features and existing content, and it comes itemised and in writing before any work begins.",
   sections: [
@@ -164,11 +164,11 @@ const bokaro: CityContent = {
     },
     {
       id: "ownership-bokaro",
-      heading: "Ownership, hosting and five months of free maintenance",
+      heading: "Ownership, hosting and two months of free maintenance",
       paragraphs: [
         "We often hear the same story from Bokaro business owners: the old website stopped working, the domain was registered by someone who has moved away, and nobody has the hosting password. Recovering it can take weeks, if it can be done at all.",
         "With us, the domain is registered in your name, the hosting account is yours and you receive every login, the source code and a short note on how everything is set up. You can move to another developer at any time with no exit fee.",
-        "For five months after launch, maintenance is free: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. Afterwards, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. Afterwards, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -257,9 +257,9 @@ const bokaro: CityContent = {
         "Yes. The domain is in your name, the hosting account is yours and you receive all logins plus the source code at launch. You can switch developers at any time without an exit fee. We set it up this way because lost domains are a common problem with older Bokaro websites.",
     },
     {
-      question: "What is included in five months of free maintenance?",
+      question: "What is included in two months of free maintenance?",
       answer:
-        "For five months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "How long does SEO take in Bokaro?",

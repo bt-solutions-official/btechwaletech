@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Quotation and dealer portals", "Lab sample tracking", "Code handed over on GitHub"],
   },
   quickAnswer:
-    "In Roorkee, BtechWaleTech's freelance developers build custom software such as quotation systems, lab trackers or hostel tools from ₹60,000 in six to twelve weeks, and AI or WhatsApp automations from ₹40,000 in two to four weeks. Websites start at ₹10,000. We are three engineers working remotely from India, with five months of free maintenance.",
+    "In Roorkee, BtechWaleTech's freelance developers build custom software such as quotation systems, lab trackers or hostel tools from ₹60,000 in six to twelve weeks, and AI or WhatsApp automations from ₹40,000 in two to four weeks. Websites start at ₹10,000. We are three engineers working remotely from India, with two months of free maintenance.",
   snapshot: [
     { label: "Defining institution", value: "IIT Roorkee, which grew from the Thomason College of Civil Engineering founded in 1847 and gives the town a strong engineering culture" },
     { label: "Research bodies", value: "CSIR-Central Building Research Institute, the National Institute of Hydrology and the Irrigation Research Institute" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI assistants that answer specification and availability questions, draft quotations for review and read test requests from email.",
     data: "Dashboards showing quotations won, dealer sales, samples pending, room occupancy or project progress at a glance.",
     app: "Android and iOS apps for Roorkee instrument dealers, lab technicians, hostel residents and coaching students, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Fixes, backups and updates free for five months after launch, then from ₹8,000 a month for continued support.",
+    maintenance: "Fixes, backups and updates free for two months after launch, then from ₹8,000 a month for continued support.",
   },
   whyUsIntro:
     "Roorkee clients are often engineers themselves and can tell quickly when a vendor is bluffing. A freelance group that shows working code early, explains its technical choices and keeps the same developers from scope to handover tends to suit this town better than a sales-led agency.",
@@ -239,7 +239,7 @@ const content: CityContent = {
       id: "process-timeline-roorkee",
       heading: "How long do Roorkee projects take, and how do we work?",
       paragraphs: [
-        "Roorkee automations usually take two to four weeks, online stores four to eight weeks and custom software six to twelve weeks. Every project follows the same pattern: a discovery call, an itemised scope and quote within about two working days, weekly build cycles with a live preview, testing with your team and launch with five months of free maintenance.",
+        "Roorkee automations usually take two to four weeks, online stores four to eight weeks and custom software six to twelve weeks. Every project follows the same pattern: a discovery call, an itemised scope and quote within about two working days, weekly build cycles with a live preview, testing with your team and launch with two months of free maintenance.",
         "Because we work remotely, we ask for samples early: an old quotation, a lab report, a hostel register page or a site report. Those documents shape the data model and prevent surprises. Support after launch runs on WhatsApp seven days a week.",
         "Hostel systems should launch before admissions, lab systems at the start of a month and dealer portals before a new price list. Learn more on <a href='/services/'>our services page</a>, or see the <a href='/it-services/uttarakhand/haridwar/'>Haridwar page</a> and <a href='/it-services/uttarakhand/'>Uttarakhand overview</a>.",
       ],
@@ -301,7 +301,7 @@ const content: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "Five months of maintenance are free after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can contact us only when needed.",
+        "Two months of maintenance are free after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Can AI draft quotations for our instruments?",

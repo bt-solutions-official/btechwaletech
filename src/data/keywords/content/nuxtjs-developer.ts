@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Rendering", "Chosen per route: SSR, prerender or client"],
     ["Current major", "Nuxt 4 (Nuxt 3 support ended July 2026)"],
     ["Quote turnaround", "Itemised, about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who read and review every Nuxt commit" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance once you go live" },
+    { value: "2", label: "Months of free maintenance once you go live" },
     { value: "0", label: "Platform or middleman fees on payments" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Nuxt with a headless CMS", note: "Strapi, Sanity or another CMS feeding a Nuxt front end, so marketing staff edit without touching code.", href: "/headless-cms-development/", size: "md" },
       { name: "Nuxt storefronts", note: `Product and category pages rendered for search, cart and checkout wired to your payment provider. From ${P.shop}.`, href: "/hire-ecommerce-developer/", size: "sm" },
       { name: "Speed and Core Web Vitals fixes", note: "Hydration cost, oversized bundles, unoptimised images and layout shift traced and fixed on an existing Nuxt site.", href: "/core-web-vitals-assessment-failed/", size: "sm" },
-      { name: "Monthly care for Nuxt apps", note: `Dependency updates, security patches, uptime checks and small changes after the free five months. From ${P.care}.`, href: "/pricing/", size: "sm" },
+      { name: "Monthly care for Nuxt apps", note: `Dependency updates, security patches, uptime checks and small changes after the free two months. From ${P.care}.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       id: "nuxt-developer-cost",
       heading: "How much does a Nuxt JS developer cost in India?",
       paragraphs: [
-        `With us, a Nuxt marketing site starts at ${P.site} (${P.siteUsd}), a data-driven SEO site with 299+ pages at ${P.seoSite}, a storefront at ${P.shop} and a Nuxt web app or portal at ${P.software} (${P.softwareUsd}). Monthly care starts at ${P.care} once the five free months end.`,
+        `With us, a Nuxt marketing site starts at ${P.site} (${P.siteUsd}), a data-driven SEO site with 299+ pages at ${P.seoSite}, a storefront at ${P.shop} and a Nuxt web app or portal at ${P.software} (${P.softwareUsd}). Monthly care starts at ${P.care} once the two free months end.`,
         `Across the market, Nuxt JS developer quotes vary a great deal, and the spread is rarely about the framework. Hourly contractors, marketplace sellers on Upwork or Fiverr, and agencies all price differently; what you should compare is the scope each quote covers. Ask whether it includes the rendering plan, hosting setup, SEO metadata, CMS integration, testing on real phones and post-launch fixes.`,
         `A cheap quote that leaves out hosting and deployment often costs more later, because the site works on the developer's laptop and nowhere else. For web apps specifically, our <a href='/web-application-development-cost/'>web application development cost</a> page breaks down how logins, roles and integrations add up.`,
       ],
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: the Git repository, domain, hosting account, CMS account and any API keys, all opened in your name from day one. We work as invited collaborators, so removing us is a settings change, not a negotiation.`,
         `At handover you should receive more than a ZIP file. We provide a README that explains how to run the project locally, the Node version, environment variables (names only, values stay in your hosting dashboard), the route rules and why each exists, how to deploy, and which modules the project depends on. That document is what lets another Nuxt JS developer pick up the work if you ever switch.`,
-        `Maintenance for five months after launch is free: bug fixes, dependency updates and small changes. After that, care plans start at ${P.care} a month. Any terms beyond this, such as notice or scope of support hours, are written into your quote; see <a href='/terms/'>our terms</a> for the general rules.`,
+        `Maintenance for two months after launch is free: bug fixes, dependency updates and small changes. After that, care plans start at ${P.care} a month. Any terms beyond this, such as notice or scope of support hours, are written into your quote; see <a href='/terms/'>our terms</a> for the general rules.`,
       ],
     },
     {
@@ -329,7 +329,7 @@ const content: FreelanceContent = {
         ["Nuxt storefront", "Catalogue, cart, checkout, order emails, cached product pages", `${P.shop} · ${P.shopUsd}`, "4–8 weeks"],
         ["Nuxt web app or portal", "Logins, roles, dashboards, Nitro or external API", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
         ["AI features in a Nuxt app", "Document Q&A, lead sorting, WhatsApp replies via server routes", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Ongoing care", "Updates, patches, small changes after 5 free months", `${P.care}/month`, "Monthly"],
+        ["Ongoing care", "Updates, patches, small changes after 2 free months", `${P.care}/month`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You open or confirm the Git host, domain, hosting and CMS accounts; we are added as collaborators so ownership never sits with us."],
       ["Build in reviewed slices", "We ship templates and features to a staging link, you review on your own phone, and each slice is signed off before the next begins."],
       ["Speed, SEO and launch checks", "Metadata, sitemap, schema, status codes and Core Web Vitals are checked on a real mid-range Android device, then DNS is switched."],
-      ["Handover and five free months", "You receive the README and environment list; for five months we fix bugs and update dependencies free, then care continues if you want it."],
+      ["Handover and two free months", "You receive the README and environment list; for two months we fix bugs and update dependencies free, then care continues if you want it."],
     ],
   },
   faqHeading: "Nuxt JS developer: questions buyers ask",
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Does Nuxt work well on low-end Android phones?", answer: "It can, if the developer watches the JavaScript budget. Server-rendered HTML shows content quickly, but hydrating too many components still slows interaction on budget phones. We lazy-load below-the-fold components, trim third-party scripts, size images, and test on a real mid-range Android handset over mobile data before launch." },
     { question: "Can Nuxt power an online store in India?", answer: `Yes. Product and category pages can be cached for speed and search, while cart and checkout run client-side and talk to your payment provider for UPI and card payments. A Nuxt storefront with us starts at ${P.shop}. If you want a hosted platform instead, a Shopify build may be quicker; we explain the trade-off in the quote.` },
     { question: "Nuxt JS developer chahiye, kaise shuru karein?", answer: "WhatsApp par apna brief bhejiye: kaunse pages Google par rank karne chahiye, login ya dashboard chahiye ya nahi, aur koi purana code ho to uska package.json. Hum lagbhag do working days mein itemised quote dete hain. Written approval ke bina koi payment nahi hota, aur domain, hosting aur code shuru se aapke naam par rehte hain." },
-    { question: "What happens after the five free months of maintenance?", answer: `You can continue with a monthly care plan from ${P.care}, covering dependency updates, security patches for Nuxt and its modules, uptime checks and small changes. Or you can take the handover documents and move maintenance in-house or to another developer. The scope of any plan is written into your quote.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You can continue with a monthly care plan from ${P.care}, covering dependency updates, security patches for Nuxt and its modules, uptime checks and small changes. Or you can take the handover documents and move maintenance in-house or to another developer. The scope of any plan is written into your quote.` },
   ],
   related: {
     heading: "Related pages for Vue and modern front-end projects",

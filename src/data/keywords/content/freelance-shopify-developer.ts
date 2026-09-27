@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Checkout", "UPI, cards, net banking, COD"],
     ["Store owner", "You, on your own Shopify account"],
     ["Our access", "Collaborator account, removable any time"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can work on your store" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Platform fees charged by us on your sales" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
   ],
   answer: {
     heading: "How much does a freelance Shopify developer cost in India?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Payments", value: "UPI, cards, net banking and cash on delivery" },
       { label: "Shipping", value: "Pincode checks, weight slabs, courier app integration" },
       { label: "Monthly running costs", value: "Shopify plan, apps and paid theme, billed to you" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Shipping in India", "Flat rate", "Basic rates", "Zones, weight slabs, pincode checks, courier app link"],
       ["GST invoices", "Often missed", "Sometimes", "Invoice setup checked with your accountant’s format"],
       ["Speed on phones", "Depends on theme", "Often slowed by apps", "Tested on a budget Android handset before launch"],
-      ["After launch", "You alone", "Paid per fix", `5 months free, then from ${P.care}`],
+      ["After launch", "You alone", "Paid per fix", `2 months free, then from ${P.care}`],
     ],
     fine: "If your catalogue is under twenty products and you are comfortable with settings screens, a free Shopify theme set up yourself is a reasonable first step; bring in a developer once checkout, shipping or speed start costing sales.",
   },
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
         ["Apps", "Monthly per app", "App makers", "Build simple features into the theme"],
         ["Payment charges", "Per transaction", "Payment provider, possibly Shopify", "Compare plan fees against volume"],
         ["Shipping", "Per parcel", "Courier or aggregator", "Accurate weights and COD controls"],
-        ["Maintenance after 5 free months", `Monthly, from ${P.care}`, "Developer", "Optional; batch small changes"],
+        ["Maintenance after 2 free months", `Monthly, from ${P.care}`, "Developer", "Optional; batch small changes"],
       ],
       hideSm: [2],
     },
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
       ["Create the store and add us", "You open the Shopify account in your name and approve our collaborator request. We start on a duplicate theme so nothing live is affected."],
       ["Review the theme on your phone", "Preview links show the home page and product template. Send one combined round of changes, marked as essential or optional."],
       ["Test real orders", "We place UPI, card and COD test orders, check invoices, courier labels and emails, then run speed and SEO checks."],
-      ["Launch and hand over", "The domain is connected, Search Console set up and notes shared. Five months of free support follow, then optional maintenance."],
+      ["Launch and hand over", "The domain is connected, Search Console set up and notes shared. Two months of free support follow, then optional maintenance."],
     ],
   },
   faqHeading: "Freelance Shopify developer: frequently asked questions",
@@ -351,9 +351,9 @@ const content: FreelanceContent = {
     { question: "Should I hire a Shopify freelancer or a Shopify agency?", answer: "For most small and mid-sized brands, a freelance Shopify developer or small freelance team covers theme work, checkout, shipping and integrations well, with direct contact and lower overheads. An agency suits brands that need many specialists at once, such as brand strategy, photography, paid ads and development running in parallel under one contract." },
     { question: "Can I sell internationally from an Indian Shopify store?", answer: "Yes. Shopify Markets lets you show local currencies, set country-specific prices and use regional domains or subfolders. You also need international shipping rates, clear duties information and a payment setup that accepts foreign cards. Check export rules and paperwork for your product category before listing it abroad." },
     { question: "Can you build a mobile app for my Shopify store?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app} that pull products and orders from your Shopify store, published on Google Play and the App Store in your own developer accounts. An app is worth it mainly when you have many repeat buyers who would use push notifications and faster reordering.` },
-    { question: "What support do I get after the Shopify store launches?", answer: `BtechWaleTech includes five months of free support after launch, covering fixes, small theme changes and help with Shopify or app updates. After that, maintenance is optional and starts at ${P.care} a month. Your team can also manage products, orders and discounts from the Shopify admin without developer help.` },
+    { question: "What support do I get after the Shopify store launches?", answer: `BtechWaleTech includes two months of free support after launch, covering fixes, small theme changes and help with Shopify or app updates. After that, maintenance is optional and starts at ${P.care} a month. Your team can also manage products, orders and discounts from the Shopify admin without developer help.` },
     { question: "Can a freelance Shopify developer work with me remotely?", answer: "Yes, Shopify work suits remote collaboration completely. A freelance Shopify developer joins your store as a collaborator, shares theme preview links you open on your phone, and places test orders from their own devices. Updates come on WhatsApp and video calls, so there is no need for in-person meetings at any stage of the build." },
-    { question: "Shopify store banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Shopify store ka build ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Iske alawa Shopify plan, paid theme aur apps ka monthly kharcha aap seedha Shopify aur app companies ko dete hain. Quote mein hum ye sab alag likhte hain, aur launch ke baad 5 mahine support free hai.` },
+    { question: "Shopify store banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Shopify store ka build ${P.shop} se shuru hota hai aur 4–8 hafte lagte hain. Iske alawa Shopify plan, paid theme aur apps ka monthly kharcha aap seedha Shopify aur app companies ko dete hain. Quote mein hum ye sab alag likhte hain, aur launch ke baad 2 mahine support free hai.` },
   ],
   related: {
     heading: "More on online stores and ecommerce",
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance Shopify developer? Send us your catalogue",
-    note: `Share a few products and how you sell today on WhatsApp. In about two working days you get a store plan, an app list with monthly costs and an itemised quote, with Shopify builds starting at ${P.shop}, the store in your own account and five months of free support.`,
+    note: `Share a few products and how you sell today on WhatsApp. In about two working days you get a store plan, an app list with monthly costs and an itemised quote, with Shopify builds starting at ${P.shop}, the store in your own account and two months of free support.`,
   },
 };
 

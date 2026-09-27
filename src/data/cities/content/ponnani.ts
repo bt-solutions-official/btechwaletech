@@ -56,7 +56,7 @@ const ponnani: CityContent = {
     ai: "WhatsApp assistants in Malayalam and English that answer price, timing, fee and admission questions and hand real decisions to you.",
     data: "Dashboards of catch landed and sold by species, boat-wise trip earnings, credit to retailers and shop sales by month.",
     app: "Android and iOS apps for boat owners to log trips and crew shares or for madrasa and school parents to receive notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "In Ponnani, a lot of business money comes from family members working in the Gulf, and nobody wants to see it wasted on a site that stops working. So we publish starting prices, send an itemised written quote, reply on WhatsApp every day, and keep the domain, hosting, code and app store accounts in your name. If a feature is not worth it, we will say that.",
@@ -177,7 +177,7 @@ const ponnani: CityContent = {
       heading: "Your accounts, your code: ownership and maintenance in Ponnani",
       paragraphs: [
         "Every account we set up for you is registered to you: domain, hosting, source code repository, Google Business Profile, cloud storage and Google Play and Apple developer accounts. Logins are handed over in writing at launch, so your website never depends on one developer staying reachable.",
-        "The first five months after launch include free maintenance: content and price changes, backups, security patches, software updates and regular checks that forms, payments and WhatsApp buttons work. After that, you can continue with us from ₹8,000 a month or move to another developer, taking everything with you.",
+        "The first two months after launch include free maintenance: content and price changes, backups, security patches, software updates and regular checks that forms, payments and WhatsApp buttons work. After that, you can continue with us from ₹8,000 a month or move to another developer, taking everything with you.",
         "Apps need updates each year to meet new Google and Apple rules, and we plan those before deadlines so your app stays listed. For harbour and shop software, we review backups and check the system before the busy post-monsoon season and the wedding months.",
       ],
     },
@@ -269,7 +269,7 @@ const ponnani: CityContent = {
     {
       question: "What support do I get after the site or app is launched?",
       answer:
-        "Five months of maintenance come free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, you can continue from ₹8,000 a month or move to another developer with all your code and accounts. There is no lock-in.",
+        "Two months of maintenance come free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, you can continue from ₹8,000 a month or move to another developer with all your code and accounts. There is no lock-in.",
     },
     {
       question: "Do you work in Edappal, Tirur and Kuttippuram too?",

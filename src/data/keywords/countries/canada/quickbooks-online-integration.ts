@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Sync or automation build from", `${P.ai}, 2–4 weeks`],
     ["Portal or app with accounting from", `${P.software}, 6–12 weeks`],
     ["Store plus accounting sync from", `${P.shop}, 4–8 weeks`],
-    ["Support after launch", `5 months free, then from ${P.care}`],
+    ["Support after launch", `2 months free, then from ${P.care}`],
     ["Tax provinces handled", "All GST, HST and GST-plus-PST/QST setups"],
     ["Billing", "USD or CAD by Wise, wire or PayPal"],
   ],
@@ -46,7 +46,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Freelance developers on the team" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "1 hr", label: "Life of an Intuit access token, so refresh is automated" },
-    { value: "5", label: "Months of free fixes after the sync goes live" },
+    { value: "2", label: "Months of free fixes after the sync goes live" },
   ],
   answer: {
     heading: "What does a QuickBooks Online integration developer do for a Canadian business?",
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "AI receipt and bill capture", note: "Supplier bills read from email attachments, checked by a person, then posted as bills in QuickBooks Online with the vendor and account suggested.", href: "/canada/ai-automation-agency/", size: "md" },
       { name: "Subscription and SaaS billing sync", note: "Recurring charges from your own product summarized into QuickBooks Online so revenue and tax match what customers actually paid.", href: "/canada/saas-development-company/", size: "sm" },
       { name: "Broken connector repair", note: "Duplicate invoices, missing tax or orphaned payments from an existing sync diagnosed and fixed, with a clean-up plan agreed with your bookkeeper.", size: "sm" },
-      { name: "Ongoing integration care", note: `Monitoring, token renewal alerts and changes when Intuit updates its API, from ${P.care} after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing integration care", note: `Monitoring, token renewal alerts and changes when Intuit updates its API, from ${P.care} after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         `Source systems: each extra platform, such as a second store or a marketplace, adds its own adapter.`,
       ],
       after: [
-        `Running costs are yours and paid directly: your QuickBooks Online subscription, hosting for the integration (often small), and any connector apps you keep. After five free months of fixes, optional care starts at ${P.care}.`,
+        `Running costs are yours and paid directly: your QuickBooks Online subscription, hosting for the integration (often small), and any connector apps you keep. After two free months of fixes, optional care starts at ${P.care}.`,
       ],
     },
     {
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
         `You do: the Intuit developer app, its keys, the hosting account, the code repository and the mapping document are all created in your name or transferred to you at handover. We work as invited collaborators on your accounts.`,
         `Ownership is more than a legal point with integrations. If the developer owns the Intuit app, your QuickBooks Online company is connected to their account, and ending the relationship means breaking and rebuilding the connection. If the code lives in the developer's private repository, a future fix needs their permission. We avoid both situations from day one.`,
         `At handover you receive the source code in your repository, a short runbook explaining how to re-authorize the connection, where tokens are stored and how to retry failed records, and the signed-off mapping table in a spreadsheet your bookkeeper can read. We also record a short screen-share walkthrough. After that, anyone competent with the language and Intuit's API can maintain the integration, including a local contractor you hire later.`,
-        `Support continues free for five months after launch, covering bugs in what we built. Beyond that, a care plan from ${P.care} covers monitoring and changes, or you can simply call us when something needs attention. Terms for anything unusual go into your written quote; see our <a href='/terms/'>terms</a> for the general rules.`,
+        `Support continues free for two months after launch, covering bugs in what we built. Beyond that, a care plan from ${P.care} covers monitoring and changes, or you can simply call us when something needs attention. Terms for anything unusual go into your written quote; see our <a href='/terms/'>terms</a> for the general rules.`,
       ],
     },
     {
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
       ["Mapping table", "We draft the account, item, class and tax-code mapping from your data. Your bookkeeper or CPA reviews and signs it off; this document drives every line of code."],
       ["Sandbox build", "The integration is built against an Intuit sandbox company using your own developer app. You receive test postings for every province and edge case you sell into."],
       ["Controlled go-live", "Production keys are connected on an agreed cut-over date. We watch the first days closely and review the reconciliation report with you each morning."],
-      ["Handover and care", "Code, runbook, mapping file and a recorded walkthrough are handed over. Fixes are free for five months, then optional care continues on a monthly plan."],
+      ["Handover and care", "Code, runbook, mapping file and a recorded walkthrough are handed over. Fixes are free for two months, then optional care continues on a monthly plan."],
     ],
   },
   faqHeading: "QuickBooks Online integration developer: questions from Canadian owners",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Is a remote team in India safe for financial integrations?", answer: "The safeguards are the same wherever the developer sits: your ownership of accounts, OAuth instead of passwords, encrypted token storage, separate revocable access for us, sandbox testing on masked or test data, and logs that avoid storing full customer profiles. Under PIPEDA you remain accountable for personal information sent to processors, so your privacy notice should mention it; your lawyer can confirm wording." },
     { question: "Can a QuickBooks Online integration developer connect our CRM?", answer: `Yes. A common build is job-to-invoice: when a deal is won or a job is completed in the CRM, an invoice with the right terms and tax is created in QuickBooks Online, and payment status flows back so sales staff can see who has paid. If your CRM is custom, we build this as part of it, from ${P.software}.` },
     { question: "Does a QuickBooks Online integration developer import historical orders?", answer: "We can, as a separate line in the quote. Historical import needs extra care because closed periods, previously filed sales tax and existing manual entries can clash with imported data. We agree a cut-over date with your accountant, import only what they want, and run the import in the sandbox first so totals can be checked before anything touches production." },
-    { question: "What happens when Intuit changes its API?", answer: `Intuit updates its API and developer requirements from time to time. During the five free months after launch we fix anything that breaks. After that, a care plan from ${P.care} covers monitoring and adjustments, or you can ask for a quote when a change arrives. Your runbook explains what to check if the sync stops.` },
+    { question: "What happens when Intuit changes its API?", answer: `Intuit updates its API and developer requirements from time to time. During the two free months after launch we fix anything that breaks. After that, a care plan from ${P.care} covers monitoring and adjustments, or you can ask for a quote when a change arrives. Your runbook explains what to check if the sync stops.` },
     { question: "Can the integration post daily summaries instead of every order?", answer: "Yes, and for high-volume stores it is often cleaner. The integration groups the day's sales by tax code and payment method into one sales receipt per group, with a linked report listing the individual orders behind it. Your accountant decides between summary and per-order posting based on how they reconcile and audit." },
     { question: "What time zone do you work in and how do calls happen?", answer: "We are in India. Our evenings overlap with Canadian Eastern and Pacific mornings, so calls usually happen early in your working day. Between calls we reply on WhatsApp seven days a week. The bookkeeper review is normally a single call where we walk through the mapping table and sandbox results together." },
     { question: "How do we pay and in which currency?", answer: "Quotes are in USD and can be paid in USD or CAD by Wise, bank wire or PayPal. Invoices come from India. Payments are tied to milestones stated in your written quote, and nothing is billed before you approve that quote. Your accountant can advise on how to record a foreign supplier's invoices." },

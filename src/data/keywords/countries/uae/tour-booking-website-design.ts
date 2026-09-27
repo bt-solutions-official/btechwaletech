@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Pricing models", "Per adult, child, group or vehicle"],
     ["Payment options", "Full, deposit, or pay on pickup"],
     ["OTA handling", "Shared availability to avoid double bookings"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Commission on bookings made on your own site" },
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
     { question: "Is it safe to hire a remote team in India for my tour website?", answer: "Yes. Remote tour booking website design works when ownership is clear. Your domain, hosting, payment account and guest data are set up in your name, the quote is itemised and approved in writing before billing, and you can test everything on staging. India is only 1.5 hours ahead of the UAE, so hours overlap well." },
     { question: "Who owns the tour website and the guest data?", answer: "You do. The domain, hosting, code, payment account and guest records sit in your accounts from the start. If you ever move to another developer, you take everything with you; we keep no hold over your accounts." },
     { question: "Can you send booking confirmations on WhatsApp?", answer: `Yes. Confirmations, pickup reminders and driver details can go out on WhatsApp using approved message templates through the official WhatsApp Business Platform, alongside email. AI replies to common guest questions can be added from ${P.ai}.` },
-    { question: "What happens after the free maintenance period?", answer: `Every site gets five months of free maintenance after launch. After that you can continue with us from ${P.care} for updates, backups, security fixes and seasonal changes, move to someone else, or manage it in-house. Any ongoing plan is agreed in writing.` },
+    { question: "What happens after the free maintenance period?", answer: `Every site gets two months of free maintenance after launch. After that you can continue with us from ${P.care} for updates, backups, security fixes and seasonal changes, move to someone else, or manage it in-house. Any ongoing plan is agreed in writing.` },
     { question: "How do payments to BtechWaleTech work from the UAE?", answer: "You receive an itemised quote in USD and pay by Wise, bank wire or PayPal against milestones listed in it. Nothing is billed before your written approval, and invoices come from India. Details like NDAs are agreed in your written quote." },
     { question: "Do you need our tour booking software login?", answer: "Only if we are integrating with it. We usually ask you to create a separate user or API key for us with the least access needed, which you can revoke at any time. Your main admin login stays with you." },
     { question: "Can you build a tour booking app as well?", answer: `Yes. If repeat guests or resellers would use an app, we build Android and iOS apps in Flutter or React Native from ${P.app}, published under your own store accounts. Most tour operators get more value from a fast booking website first, then add an app later.` },

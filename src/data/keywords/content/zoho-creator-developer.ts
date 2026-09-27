@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "2–4 weeks for one process; 6–12 for several"],
     ["Built in", "Your own Zoho account and licence"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers: Creator and full-code skills" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Licence", value: "Zoho bills per user per month; paid by you, directly to Zoho" },
       { label: "Our price", value: `From ${P.ai} (${P.aiUsd}); multi-module from ${P.software}` },
       { label: "Timeline", value: "2–4 weeks for one process" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What hiring a Zoho Creator developer costs",
-    note: `A Creator app covering one business process, typically a few forms, reports, an approval workflow and one integration, starts at ${P.ai}. A multi-module system with several departments, portals, a Books and CRM link and dashboards is scoped like custom software from ${P.software}. Zoho’s licence is separate: you pay Zoho directly, per user, on the plan that suits your users and limits, and we help you size that before you commit. The quote you receive in about two working days lists build lines separately from Zoho costs, so you see both. Nothing is billed before your written approval, and five months of free maintenance follow launch.`,
+    note: `A Creator app covering one business process, typically a few forms, reports, an approval workflow and one integration, starts at ${P.ai}. A multi-module system with several departments, portals, a Books and CRM link and dashboards is scoped like custom software from ${P.software}. Zoho’s licence is separate: you pay Zoho directly, per user, on the plan that suits your users and limits, and we help you size that before you commit. The quote you receive in about two working days lists build lines separately from Zoho costs, so you see both. Nothing is billed before your written approval, and two months of free maintenance follow launch.`,
   },
   guideLabel: "Zoho Creator developer guide",
   guide: [
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
         `The app is built inside your Zoho organisation, under your admin account, on a licence you pay for. We work as invited developers with the access you grant, and you remove that access when the work is done. Nothing sits in an account belonging to us.`,
         `Handover includes a plain-language document listing forms and what each stores, reports and who uses them, every workflow and Blueprint with its trigger, every Deluge function with its purpose, integration connections and where their credentials live, and user roles. That document is what lets another developer, or your own admin, take over without starting from scratch.`,
         `Data remains yours as well. Creator lets you export report data, and we show your admin how before we leave. If you later decide to move to a custom app, those exports plus the handover document are the starting point for a migration; our <a href='/custom-software-development-cost-in-india/'>custom software cost</a> page explains what a rebuild typically involves.`,
-        `The first five months after launch include free maintenance: bug fixes, small adjustments your team discovers in daily use, and fixes if a Zoho update changes behaviour. After that, you can choose a care plan from ${P.care}, ask for one-off changes, or let your in-house admin run it.`,
+        `The first two months after launch include free maintenance: bug fixes, small adjustments your team discovers in daily use, and fixes if a Zoho update changes behaviour. After that, you can choose a care plan from ${P.care}, ask for one-off changes, or let your in-house admin run it.`,
       ],
     },
     {
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       id: "cost-scope",
       eyebrow: "Costs",
       heading: "Zoho Creator developer cost by scope",
-      note: `Build prices are starting points; Zoho licences are extra and paid directly to Zoho. All builds include five months of free maintenance.`,
+      note: `Build prices are starting points; Zoho licences are extra and paid directly to Zoho. All builds include two months of free maintenance.`,
       columns: ["Scope", "Typical contents", "Starts at", "Typical time"],
       rows: [
         ["Single-process app", "A few forms, reports, one workflow, one integration", `${P.ai}`, "2–4 weeks"],
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get build lines, integrations and migration priced separately, with Zoho licence costs shown apart from our fees."],
       ["Build in your Zoho account", "We work as invited developers in your organisation, sharing a working version every few days so your team tests real screens early."],
       ["Pilot with real users", "A small group uses the app for a week with real records. We fix what confuses them and adjust workflows before everyone switches over."],
-      ["Handover and support", "You receive the workflow and Deluge document, admin training and removal of our access when you choose. Five months of free maintenance start at launch."],
+      ["Handover and support", "You receive the workflow and Deluge document, admin training and removal of our access when you choose. Two months of free maintenance start at launch."],
     ],
   },
   faqHeading: "Zoho Creator developer: questions businesses ask",
@@ -453,7 +453,7 @@ const content: FreelanceContent = {
     { question: "Can you move my Excel sheets into Zoho Creator?", answer: "Yes. We map spreadsheet columns to forms, clean duplicates and inconsistent entries, link records through lookups, and import them so history is available from day one. Messy spreadsheets take longer to clean than to import, so we look at a sample before quoting the migration line." },
     { question: "What happens if we outgrow Zoho Creator?", answer: "Data can be exported from Creator reports, and the handover document describes every rule the app enforces, which together make a rebuild much easier. Because we also build custom web apps, we can plan the move, rebuild the app in code and migrate the data when licence costs or limits justify it." },
     { question: "Do you resell Zoho licences?", answer: "No. You buy licences directly from Zoho, in your own name, on the plan that fits your users. We help estimate the plan and user count before you commit and include that estimate in the quote, but our invoices cover only design, build and support work." },
-    { question: "Do you provide support after the Creator app goes live?", answer: `Yes. Five months of free maintenance follow launch, covering bugs, small changes your team discovers in daily use and fixes after Zoho updates. After that you can choose a care plan from ${P.care}, request one-off changes, or hand the app to your in-house admin with our documentation.` },
+    { question: "Do you provide support after the Creator app goes live?", answer: `Yes. Two months of free maintenance follow launch, covering bugs, small changes your team discovers in daily use and fixes after Zoho updates. After that you can choose a care plan from ${P.care}, request one-off changes, or hand the app to your in-house admin with our documentation.` },
     { question: "Zoho Creator app kaise banwayein aur kitna kharcha aayega?", answer: `Pehle apna process likhiye: kaun form bharta hai, kaun approve karta hai, manager ko kya report chahiye. Phir developer forms, reports, workflows aur Deluge scripts se app banata hai. BtechWaleTech ke saath ek process ka Creator app ${P.ai} se shuru hota hai; Zoho licence alag se Zoho ko per user dena hota hai.` },
     { question: "Do you work remotely, and in which languages?", answer: "Yes, fully remotely with businesses across India and abroad, over WhatsApp, Google Meet and screen sharing, in English or Hindi. We do not make site visits. The app is built in your Zoho account from the first day, so your team can see and test progress at any time." },
   ],
@@ -477,7 +477,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Show us the spreadsheet your team is tired of",
-    note: `Send the sheet or paper form behind your process and the number of people who will use the app. We will tell you whether Zoho Creator fits, estimate the licence, and send an itemised quote starting at ${P.ai} within about two working days, with five months of free maintenance.`,
+    note: `Send the sheet or paper form behind your process and the number of people who will use the app. We will tell you whether Zoho Creator fits, estimate the licence, and send an itemised quote starting at ${P.ai} within about two working days, with two months of free maintenance.`,
   },
 };
 

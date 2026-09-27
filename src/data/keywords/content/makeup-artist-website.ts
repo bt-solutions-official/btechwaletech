@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Date booking", "Checks your capacity per wedding date"],
     ["Advance collection", "UPI or card, into your own account"],
     ["Course sales", `Paid batches and workshops, from ${P.shop}`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelancers who build and look after your site" },
     { value: "2", label: "Working days until your itemised quote" },
     { value: "0", label: "Commission to us on bookings or course fees" },
-    { value: "5", label: "Free maintenance months after launch" },
+    { value: "2", label: "Free maintenance months after launch" },
   ],
   answer: {
     heading: "What should a bridal makeup artist website include?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Date logic", value: "Brides per date set by your team size" },
       { label: "Advance", value: "Paid online, amount and terms decided by you" },
       { label: "Reminders", value: `Trial and wedding-day messages on WhatsApp, from ${P.ai}` },
-      { label: "Care", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
         `You do. The domain, hosting, code, photos, bookings and every bride’s contact details stay in accounts registered in your name. We work as added users and hand over everything at launch.`,
         `Handover includes the admin panel login, hosting and domain access, the code repository, and a short recorded guide showing how to add a new look, change a package or open a course batch. Payments settle directly into your own merchant account; we never hold your money.`,
         `Bride data deserves care. India’s Digital Personal Data Protection Act, 2023 expects a clear notice when you collect personal details, so booking forms carry a short consent line and a link to your privacy notice, and we collect only what you need to deliver the booking. Access is limited to you and anyone you add.`,
-        `For five months after launch, maintenance is free. After that it is optional from ${P.care} a month. Anything beyond that is agreed in your written quote; our <a href='/terms/'>terms page</a> sets out the general position.`,
+        `For two months after launch, maintenance is free. After that it is optional from ${P.care} a month. Anything beyond that is agreed in your written quote; our <a href='/terms/'>terms page</a> sets out the general position.`,
       ],
     },
     {
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Sort and tag your looks", "We send a simple sheet; you tag your best photos by style, occasion and skin tone and confirm bride consent for each set."],
       ["Review designs on your phone", "Home, package, look and course pages go up on a private link, and you check them the way brides will: on a phone, at night, on mobile data."],
       ["Test a real booking", "You book a test date, pay a small advance and refund it, check the WhatsApp alert and confirm the calendar blocks correctly."],
-      ["Go live and update your bio", `We connect your domain, verify Search Console, update your bio link and hand over logins. Five free months of maintenance follow, then optional care from ${P.care}.`],
+      ["Go live and update your bio", `We connect your domain, verify Search Console, update your bio link and hand over logins. Two free months of maintenance follow, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Makeup artist website: questions artists ask",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Who owns my website, photos and bride contacts?", answer: "You do. The domain, hosting, code and all booking data sit in accounts registered in your name, and payments go to your own merchant account. Photos remain yours and your photographers’. At launch you receive the code repository and every admin login." },
     { question: "Can the website be in Hindi or a regional language?", answer: "Yes. Package and booking pages are often most useful in Hindi or the state language for families, with the rest in English. You supply or approve the translated text, and we build a language switch with proper language tags so search engines show the right version." },
     { question: "How do I show before-and-after photos safely?", answer: "Get written consent from each bride before publishing, especially for before photos. Keep lighting similar in both shots and avoid filters that exaggerate the result. Where a bride prefers privacy, use close-up detail shots without her full face. Honest images protect your reviews when brides compare their trial with your gallery." },
-    { question: "What happens after my makeup artist website goes live?", answer: `You get five months of free maintenance for fixes, help when you are stuck adding a look or opening a course batch, and checks that bookings still deliver. After that, maintenance is optional from ${P.care} a month. You can add looks, packages and batches yourself from the admin panel at any time.` },
+    { question: "What happens after my makeup artist website goes live?", answer: `You get two months of free maintenance for fixes, help when you are stuck adding a look or opening a course batch, and checks that bookings still deliver. After that, maintenance is optional from ${P.care} a month. You can add looks, packages and batches yourself from the admin panel at any time.` },
     { question: "How do I pay for my makeup artist website?", answer: "Artists in India pay by UPI or bank transfer, in stages tied to work you can see, as set out in the written quote. Clients abroad pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote, and our refund policy page explains the general position." },
     { question: "Can I sell my own makeup kit or products on the site?", answer: `Yes. A small shop with product pages, UPI and card checkout, stock counts and delivery settings can sit alongside your booking pages, starting from the ecommerce plan at ${P.shop}. If you plan to launch a full cosmetics brand, our cosmetic brand website guide covers labelling and catalogue needs.` },
     { question: "Do I need an app for my makeup business?", answer: `Usually not. A fast website with date booking and WhatsApp messages covers what brides need without a download. An app becomes useful for large teams assigning artists across cities, or academies with many students. We build Android and iOS apps from ${P.app} when that need is genuine.` },
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to stop answering “price please” one DM at a time?",
-    note: `Send your packages, team size and a few favourite bridal looks on WhatsApp. You will have an itemised quote in about two working days, with makeup artist websites from ${P.site}, your own domain and accounts, and five free months of maintenance after launch.`,
+    note: `Send your packages, team size and a few favourite bridal looks on WhatsApp. You will have an itemised quote in about two working days, with makeup artist websites from ${P.site}, your own domain and accounts, and two free months of maintenance after launch.`,
   },
 };
 

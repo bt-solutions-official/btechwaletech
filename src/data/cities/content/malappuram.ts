@@ -31,7 +31,7 @@ const malappuram: CityContent = {
     eyebrow: "Malappuram · Kerala",
     h1: "Websites, software, SEO and AI tools for Malappuram businesses, from Kunnummal to Kottakkal",
     lede:
-      "BtechWaleTech is three remote engineers who build websites, Google Maps profiles and WhatsApp workflows for Malappuram's hospitals, Ayurveda firms, travel and visa agents, textile showrooms, schools and Gulf-backed family businesses. Prices start low and are published, every domain and line of code is registered to you, and five months of post-launch maintenance cost nothing.",
+      "BtechWaleTech is three remote engineers who build websites, Google Maps profiles and WhatsApp workflows for Malappuram's hospitals, Ayurveda firms, travel and visa agents, textile showrooms, schools and Gulf-backed family businesses. Prices start low and are published, every domain and line of code is registered to you, and two months of post-launch maintenance cost nothing.",
     pills: ["Sites from ₹10,000", "Malayalam and English pages", "Clinic and Ayurveda sites", "WhatsApp enquiry bots", "Code in your name"],
   },
   quickAnswer:
@@ -52,7 +52,7 @@ const malappuram: CityContent = {
     ai: "WhatsApp assistants that answer package, fee or appointment questions in Malayalam, even when the owner is abroad or asleep.",
     data: "Dashboards showing enquiries by source, admissions by course or sales by branch, so a Gulf-based partner sees the same numbers as the manager.",
     app: "Android and iOS apps for turf bookings, tuition attendance or field-staff orders that work on patchy mobile data, released on both app stores.",
-    maintenance: "Five months of free fixes and updates after launch, then plans from ₹8,000 a month or pay-per-change.",
+    maintenance: "Two months of free fixes and updates after launch, then plans from ₹8,000 a month or pay-per-change.",
   },
   whyUsIntro:
     "Many Malappuram businesses are run by two people in two countries: a partner in Dubai or Doha and a manager at home. They need a developer who answers on WhatsApp at odd hours, writes quotes that both can read, and never keeps the domain hostage. That is how we work.",
@@ -177,7 +177,7 @@ const malappuram: CityContent = {
       paragraphs: [
         "A familiar story in the district: a relative's contact builds a website, registers the domain on his own email, then moves abroad or changes his number. Two years later the domain expires, the business email stops working and nobody has the password. Getting it back can take weeks, and sometimes it cannot be done at all.",
         "We avoid that from the start. The domain is registered in your name, hosting sits in your account, and at launch you receive every login, the full source code and a short note explaining how things fit together. If you later want another developer, you simply hand over access; there is no exit fee.",
-        "The first five months after launch include free maintenance: edits, bug fixes, security updates, backups and uptime checks. After that, choose a plan from ₹8,000 a month, or pay per change if the site rarely needs work. See our <a href=\"/services/web-development/\">web development service</a> for what a standard handover includes.",
+        "The first two months after launch include free maintenance: edits, bug fixes, security updates, backups and uptime checks. After that, choose a plan from ₹8,000 a month, or pay per change if the site rarely needs work. See our <a href=\"/services/web-development/\">web development service</a> for what a standard handover includes.",
       ],
     },
     {
@@ -273,7 +273,7 @@ const malappuram: CityContent = {
     {
       question: "What happens after the free maintenance period ends?",
       answer:
-        "The first five months after launch are free. After that, a maintenance plan starts at ₹8,000 a month and covers updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you ask for.",
+        "The first two months after launch are free. After that, a maintenance plan starts at ₹8,000 a month and covers updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you ask for.",
     },
     {
       question: "How soon will SEO show results in Malappuram?",

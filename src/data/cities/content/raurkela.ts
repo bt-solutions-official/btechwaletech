@@ -35,7 +35,7 @@ const raurkela: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor and tender-ready profiles", "Kalunga B2B catalogues", "Odia, Hindi and English", "Coaching and clinic sites"],
   },
   quickAnswer:
-    "In Rourkela, our business websites start at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a three-engineer remote team with no Rourkela office, and five months of maintenance after launch is included free.",
+    "In Rourkela, our business websites start at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a three-engineer remote team with no Rourkela office, and two months of maintenance after launch is included free.",
   snapshot: [
     { label: "Anchor industry", value: "SAIL's Rourkela Steel Plant, set up with German collaboration and India's first integrated steel plant in the public sector" },
     { label: "Industrial estate", value: "Kalunga, on the Rourkela–Sambalpur road, known for sponge iron, refractories, ferro alloys and chemicals" },
@@ -52,7 +52,7 @@ const raurkela: CityContent = {
     ai: "WhatsApp assistants that answer repeat questions about rates, stock, batch timings or OPD hours in Odia, Hindi or English and pass the rest to your staff.",
     data: "Production, rejection and order-status dashboards built from the Excel files your plant office already maintains.",
     app: "Android and iOS apps for service contractors, transporters and tuition centres, listed on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Rourkela firms have been burned by websites that were paid for once and never updated. We publish our starting prices, keep the same three engineers on your project from quote to handover, and answer WhatsApp every day of the week, including the holidays when plant contractors finally have time to review a site.",
@@ -165,11 +165,11 @@ const raurkela: CityContent = {
     },
     {
       id: "ownership-rourkela",
-      heading: "Ownership, handover and five months of free support",
+      heading: "Ownership, handover and two months of free support",
       paragraphs: [
         "Lost access is one of the most common problems we see with older Rourkela websites. The domain was bought by a developer who has since left town, the hosting renewal went to an email nobody reads, and the site quietly went offline months ago.",
         "We prevent that by registering the domain in your name, putting the hosting account in your name and handing over every login and the full source code at launch, along with a short note explaining where everything lives. You can move to another developer at any time without an exit fee.",
-        "For five months after launch, maintenance is free: content changes, bug fixes, security and dependency updates, backups, uptime checks and speed tests. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can message us only when you need something.",
+        "For two months after launch, maintenance is free: content changes, bug fixes, security and dependency updates, backups, uptime checks and speed tests. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can message us only when you need something.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const raurkela: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we cover content and price changes, bug fixes, security and dependency updates, backups, uptime checks and speed tests at no charge. Afterwards, maintenance costs from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we cover content and price changes, bug fixes, security and dependency updates, backups, uptime checks and speed tests at no charge. Afterwards, maintenance costs from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "Do you work with businesses in Sundargarh, Rajgangpur and Jharsuguda?",

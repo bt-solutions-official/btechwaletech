@@ -31,10 +31,10 @@ const udupi: CityContent = {
     h1: "Web, app, SEO and automation services for Udupi's temple town, Manipal campus and coastal trade",
     lede:
       "Udupi brings together the Krishna Matha, the Manipal university town, the Malpe fishing harbour and a coastal belt of cashew, jasmine and areca growers. We are three remote engineers building websites, map listings and WhatsApp systems for its restaurants, clinics, homestays, exporters and startups, with starting prices in writing and every account in your name.",
-    pills: ["Sites from ₹10,000", "Tulu, Kannada, Konkani, English", "Restaurant and homestay pages", "Export catalogues", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Tulu, Kannada, Konkani, English", "Restaurant and homestay pages", "Export catalogues", "2 months free upkeep"],
   },
   quickAnswer:
-    "An Udupi or Manipal business website starts at ₹10,000 with us and typically takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Udupi, and maintenance is free for five months after launch.",
+    "An Udupi or Manipal business website starts at ₹10,000 with us and typically takes one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no office in Udupi, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "City", value: "District headquarters on the Karnataka coast; about 2.16 lakh people in the city in 2011" },
     { label: "Education", value: "Manipal, next door, hosts the Manipal Academy of Higher Education, including KMC and MIT" },
@@ -51,7 +51,7 @@ const udupi: CityContent = {
     ai: "WhatsApp assistants answering room, table, appointment and product questions in Kannada, English or Hindi, with handover to a person.",
     data: "Dashboards for bookings, sales, catch landings or patient flow that owners and managers can read on a phone.",
     app: "Android and iOS apps for students, members, delivery riders or field staff, released on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Five free months of fixes after launch, then plans from ₹8,000 a month or pay-per-change support.",
+    maintenance: "Two free months of fixes after launch, then plans from ₹8,000 a month or pay-per-change support.",
   },
   whyUsIntro:
     "An Udupi business may serve a pilgrim family from Bengaluru, a medical student from Kerala and a buyer in the Gulf in the same week. The website needs to make sense to each of them. We plan it with you over WhatsApp, write every starting price down and give you all logins at launch.",
@@ -194,7 +194,7 @@ const udupi: CityContent = {
       paragraphs: [
         "In a university town, freelancers often graduate and leave. We regularly hear of Udupi and Manipal businesses whose websites disappeared because the domain was registered by a student developer who has since moved abroad, and nobody knows the password. Menus, visiting cards and booking sites then point to nothing.",
         "We register the domain in your name and set up hosting on your own account. At launch you receive every password, the full source code and a short guide to how everything works. You are free to hire another developer whenever you like, with no exit fee.",
-        "Maintenance is free for five months after launch, covering content changes, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Many seasonal businesses keep a plan through the tourist and admission seasons and switch to pay-per-change during the monsoon.",
+        "Maintenance is free for two months after launch, covering content changes, bug fixes, security updates, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change. Many seasonal businesses keep a plan through the tourist and admission seasons and switch to pay-per-change during the monsoon.",
       ],
     },
   ],
@@ -279,7 +279,7 @@ const udupi: CityContent = {
         "You do. The domain is registered in your name, hosting is on your account, and you receive every password and the complete source code at launch. You can move to another developer whenever you want, with no exit fee.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You choose. Plans start at ₹8,000 a month and cover updates, backups, security patches and content changes. Or you skip the plan and pay per change. Either way, you keep complete access to your site and accounts.",
     },

@@ -35,7 +35,7 @@ const azamgarh: CityContent = {
     pills: ["Websites from ₹10,000", "Saree and pottery stores", "Hindi, Urdu and Bhojpuri searches", "WhatsApp replies for NRI customers", "Code and domain are yours"],
   },
   quickAnswer:
-    "An Azamgarh business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for five months after launch.",
+    "An Azamgarh business website with us starts at ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Eastern Uttar Pradesh on the Tamsa (Tons) river, about 268 km east of Lucknow; headquarters of Azamgarh division" },
     { label: "Connectivity", value: "Purvanchal Expressway, railway links to Delhi, Mumbai and Kolkata, and an airport opened in 2024" },
@@ -52,7 +52,7 @@ const azamgarh: CityContent = {
     ai: "WhatsApp assistants that answer fee, appointment, stock and visa-document questions in Hindi or Urdu and hand tricky chats to staff.",
     data: "Dashboards that show orders, sales, dues and branch performance drawn from Tally, registers or Google Sheets.",
     app: "Android and iOS apps for delivery staff, field agents and patient queues, listed on Google Play and the App Store and priced from ₹40,000.",
-    maintenance: "Updates, backups, uptime checks and small edits, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, uptime checks and small edits, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "In Azamgarh, trust is built on word of mouth and on people who pick up the phone. We work the same way: public starting prices, an itemised quote in writing, WhatsApp replies seven days a week, and your domain, hosting and code registered in your own name from the start.",
@@ -112,7 +112,7 @@ const azamgarh: CityContent = {
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Admissions, appointments and NRI enquiries.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Silk sarees, black pottery and other products with UPI checkout.",
         "<strong>Custom software — from ₹60,000, 6–12 weeks.</strong> Order and karigar records, billing and stock tools.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -187,7 +187,7 @@ const azamgarh: CityContent = {
       heading: "Ownership, handover and ongoing care",
       paragraphs: [
         "The domain is registered in your name, the hosting account is yours, and the full code and every password are handed over at launch. If you later prefer a developer in Azamgarh, Varanasi or Lucknow, you can move without our permission and without a transfer fee.",
-        "Maintenance is free for five months after launch. It covers security updates, backups, uptime monitoring and small edits such as new products, prices, doctor timings or admission notices. After that, it starts at ₹8,000 a month and can be stopped at any time.",
+        "Maintenance is free for two months after launch. It covers security updates, backups, uptime monitoring and small edits such as new products, prices, doctor timings or admission notices. After that, it starts at ₹8,000 a month and can be stopped at any time.",
         "Sites fail gradually when nobody watches them: payment links break, forms stop sending and pages grow slow with large images. We check for these problems monthly and send a short report, so your store is ready before the wedding season and your school site is ready before admissions open.",
       ],
     },
@@ -275,7 +275,7 @@ const azamgarh: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "Maintenance is free for the first five months after launch and covers updates, backups, monitoring and small edits. After that it starts at ₹8,000 a month and can be cancelled at any time. We can also show your staff how to update products, prices and timings themselves.",
+        "Maintenance is free for the first two months after launch and covers updates, backups, monitoring and small edits. After that it starts at ₹8,000 a month and can be cancelled at any time. We can also show your staff how to update products, prices and timings themselves.",
     },
     {
       question: "Do you build websites for recruitment agencies?",

@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Quote cart and dealer portal", `From ${P.software}`],
     ["Our quote to you", "Itemised in about 2 working days"],
     ["Ownership", "Domain, hosting, code and leads are yours"],
-    ["Support", "5 months free after launch"],
+    ["Support", "2 months free after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your catalogue build" },
     { value: "299+", label: "Pages in the SEO catalogue plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a medical equipment supplier website need to win hospital orders?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Quote cart, dealer portal, rentals", value: `From ${P.software}, 6–12 weeks` },
       { label: "Online store for consumables", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Quote handling", value: "Email, WhatsApp and a lead dashboard" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -243,7 +243,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own everything: domain, hosting, code, product database, brochures and every enquiry. We create accounts in your business name and hand over all logins at launch.`,
         `That matters for a supplier because the product database becomes a business asset. Once models, specs and brochures are structured, the same data can feed a sales app, an online store for consumables or a GeM catalogue update. If a developer or a platform controls it, you rebuild it every time you switch.`,
-        `After launch there are 5 months of free maintenance, then maintenance from ${P.care} per month, or you can hire anyone else. Changes and cancellations follow your written quote and our <a href='/terms/'>terms</a>.`,
+        `After launch there are 2 months of free maintenance, then maintenance from ${P.care} per month, or you can hire anyone else. Changes and cancellations follow your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Catalogue structure", "Categories, spec templates and filters are agreed with your sales and service heads, then applied consistently across every model page."],
       ["Import and build", "Products, brochures and certificates are imported into the database, pages are generated, and the admin panel is set up for your staff."],
       ["Quote and rental testing", "Multi-item quote requests, attachments, WhatsApp alerts and rental request forms are tested end to end with your sales team."],
-      ["Launch and training", "The site goes live in your accounts, staff are trained on updating products and certificates, and five months of free maintenance begin."],
+      ["Launch and training", "The site goes live in your accounts, staff are trained on updating products and certificates, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Medical equipment supplier website questions",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Should I hire a freelancer or an agency for a medical equipment website?", answer: "A small freelance team suits most dealers and distributors: you speak directly with the developers, and data import and catalogue logic get close attention. A large agency fits if you need many specialists at once, formal procurement or on-site staff. Either way, ask how product data will be imported and who owns the accounts." },
     { question: "Can the website sync with Tally or our ERP?", answer: "Often yes, where Tally or your ERP can export data or offers an API. We can sync product names, codes and stock status so the website stays current without double entry. If no export route exists, bulk spreadsheet uploads through the admin panel are a simple alternative. We confirm options before quoting." },
     { question: "Can your sales team use the catalogue offline on hospital visits?", answer: `Yes, through an Android and iOS sales app that reuses the same product database and brochures, with offline access for hospitals with weak signal. Apps start at ${P.app}. For many dealers, a fast mobile website plus downloadable brochures is enough to start, and the app follows once the catalogue is stable.` },
-    { question: "What happens after the website is launched?", answer: `Maintenance is free for 5 months after launch, covering fixes, updates and small changes. After that, maintenance starts at ${P.care} per month, or any other developer can take over since you hold everything. New modules, such as a dealer login or rental tracker, are quoted separately in writing.` },
+    { question: "What happens after the website is launched?", answer: `Maintenance is free for 2 months after launch, covering fixes, updates and small changes. After that, maintenance starts at ${P.care} per month, or any other developer can take over since you hold everything. New modules, such as a dealer login or rental tracker, are quoted separately in writing.` },
     { question: "How do we pay for the website?", answer: "Businesses in India pay by UPI or bank transfer against the milestones in the approved quote. Overseas distributors pay by Wise, bank wire or PayPal, quoted in USD. Nothing is billed before written approval. See our refund policy page for cancellation details." },
     { question: "Do you write product descriptions and specs?", answer: "We use the specifications and intended-use wording from manufacturer brochures you supply, rather than writing our own claims, and add short category guides in plain language. Your team approves pages before launch. Keeping to manufacturer wording avoids exaggerated clinical claims that engineers distrust and that can create regulatory trouble." },
     { question: "Can you redesign our old medical equipment website without losing traffic?", answer: "Yes. We map all existing URLs, rebuild the catalogue, and set permanent redirects from old product and category addresses to the new pages so search engines carry over existing signals. Pages that already rank keep their titles where sensible. Migration work is itemised in the quote." },

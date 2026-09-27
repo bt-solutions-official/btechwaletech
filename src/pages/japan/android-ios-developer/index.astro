@@ -62,7 +62,7 @@ const faqs = [
   },
   {
     question: "What does app maintenance cost after launch?",
-    answer: `The first five months after release cost nothing and cover bug fixes, small changes, dependency and security updates, and help with store review questions on updates. From the sixth month, an ongoing plan starts from ${both("Maintenance")}. Apps need more upkeep than websites because Apple and Google release new operating system versions every year and periodically raise the SDK and API levels that updates must target. Servers, databases, push notifications and other outside services bill your company directly.`,
+    answer: `The first two months after release cost nothing and cover bug fixes, small changes, dependency and security updates, and help with store review questions on updates. From the third month, an ongoing plan starts from ${both("Maintenance")}. Apps need more upkeep than websites because Apple and Google release new operating system versions every year and periodically raise the SDK and API levels that updates must target. Servers, databases, push notifications and other outside services bill your company directly.`,
   },
   {
     question: "Where will the app back end and user data be hosted?",
@@ -167,23 +167,23 @@ const facts: [string, string][] = [
   ["Platforms", "iPhone and Android from one codebase"],
   ["Japan time", "Online 12:30 pm to 12:30 am JST"],
   ["Billing", "USD or fixed JPY, by Wise or bank wire"],
-  ["After launch", "Five free months of maintenance"],
+  ["After launch", "Two free months of maintenance"],
 ];
 const pills = ["Flutter and React Native", "Point card and member apps", "Salon, clinic and restaurant booking", "LINE Login and messaging", "Offline field apps", "App Store and Google Play publishing"];
 const heroOrigin = "Built by a remote team in India · No office in Japan · Serving all 47 prefectures";
 const quoteKicker = "App starting prices for Japan";
 const quotePlans = ["Android", "Custom web app", "AI automation", "Maintenance"];
-const quoteFoot = `USD starting prices; yen shown at ¥${JPY_PER_USD} to the dollar as a guide. Store fees, hosting and payment fees are paid by you directly. 5 months maintenance free after launch.`;
+const quoteFoot = `USD starting prices; yen shown at ¥${JPY_PER_USD} to the dollar as a guide. Store fees, hosting and payment fees are paid by you directly. 2 months maintenance free after launch.`;
 
 const stats = [
   { value: "1", label: "Codebase for iPhone and Android" },
   { value: usd("Android"), label: `App starting price, about ${jpy("Android")}` },
-  { value: "5", label: "Months maintenance free after launch" },
+  { value: "2", label: "Months maintenance free after launch" },
   { value: "3.5 h", label: "Time difference, India behind Japan" },
 ];
 
 const answerHeading = "Looking for an Android and iOS app developer for your business in Japan?";
-const quickAnswer = `We are three engineers in India making Android and iOS apps for Japanese businesses: member and point card apps, booking apps, ecommerce and ordering apps, and field-work apps, all from one Flutter or React Native codebase with an admin panel and API. Apps start from ${both("Android")}, against 2026 Japanese price guides that put contract development at ¥1,000,000 to ¥2,000,000 per platform. We work remotely in English, publish under your company's store accounts and include five months of maintenance after launch.`;
+const quickAnswer = `We are three engineers in India making Android and iOS apps for Japanese businesses: member and point card apps, booking apps, ecommerce and ordering apps, and field-work apps, all from one Flutter or React Native codebase with an admin panel and API. Apps start from ${both("Android")}, against 2026 Japanese price guides that put contract development at ¥1,000,000 to ¥2,000,000 per platform. We work remotely in English, publish under your company's store accounts and include two months of maintenance after launch.`;
 const answerMore = "Your team tests a new build in the morning, we come online at 12:30 pm Japan time, and fixes usually reach TestFlight and Google Play internal testing the same evening. The Japanese text is written or reviewed on your side, while we handle Japanese input, fonts and forms in the code.";
 const snapshotCaption = "Android and iOS apps for Japan at a glance";
 const snapshot = [
@@ -207,7 +207,7 @@ const services: { name: string; note: string; href?: string; size: "lg" | "md" |
   { name: "Admin panels and back ends", note: "APIs, databases and staff dashboards hosted in Tokyo, connected to kintone, Shopify or your existing systems.", href: "/japan/software-development/", size: "sm" },
   { name: "AI features and automation", note: "Chat assistants on your own FAQs, AI-OCR for paper orders and workflow automation around the app.", href: "/japan/ai-automation-engineer/", size: "sm" },
   { name: "Progressive web apps", note: "Installable web apps without store review, for internal tools, B2B ordering and occasional-use services.", href: "/japan/website-developer/", size: "sm" },
-  { name: "App maintenance", note: `OS updates, crash fixes and store review support, five months free after launch, then from ${both("Maintenance")}.`, size: "sm" },
+  { name: "App maintenance", note: `OS updates, crash fixes and store review support, two months free after launch, then from ${both("Maintenance")}.`, size: "sm" },
 ];
 
 // ---------- Pricing ----------
@@ -337,7 +337,7 @@ const guide: Article[] = [
         ["Larger apps with complex back ends", "¥3,000,000 and up", `Itemised quote; admin systems from ${both("Custom web app")}`],
         ["AI chatbot or AI-OCR features", "¥500,000 to ¥3,000,000 initial for AI chatbot or AI-OCR systems", both("AI automation")],
         ["App server and hosting", "Commonly around ¥20,000 a month", "Billed to you directly by the cloud provider"],
-        ["Maintenance after launch", "Usually quoted monthly on top of the build", `5 months free, then from ${both("Maintenance")}`],
+        ["Maintenance after launch", "Usually quoted monthly on top of the build", `2 months free, then from ${both("Maintenance")}`],
       ],
     },
     after: [
@@ -356,7 +356,7 @@ const guide: Article[] = [
       `<strong>From ${both("Android")}, Android and iOS app:</strong> a single Flutter or React Native codebase serving both iPhone and Android, with login, a set of core screens, forms, push notifications, an admin panel for your staff, an API and publication on the App Store and Google Play under your developer accounts. A typical example is a member app with a digital card, points, coupons and news.`,
       `<strong>From ${both("Custom web app")}, custom web app:</strong> the heavier back end some apps need, such as a booking engine with staff rosters, a B2B ordering system with customer-specific prices, or a dashboard several departments use every day.`,
       `<strong>From ${both("AI automation")}, AI automation:</strong> one workflow around the app, such as enquiries from the app routed to kintone and Chatwork, AI-OCR for paper orders, or a support assistant that answers from your own FAQs.`,
-      `<strong>From ${both("Maintenance")}, maintenance:</strong> fixes, small changes, OS and dependency updates and store review support, with the first five months after launch free.`,
+      `<strong>From ${both("Maintenance")}, maintenance:</strong> fixes, small changes, OS and dependency updates and store review support, with the first two months after launch free.`,
     ],
     after: [
       "<strong>What raises an app quote.</strong> Payments inside the app, integration with an older point-of-sale or core system, offline sync, several user roles, real-time features such as chat or live location, many languages and a fixed launch date that compresses the schedule. <strong>What keeps it down.</strong> A clear first version, standard screen patterns, content and images supplied on time, one decision-maker and features that can wait for version two.",
@@ -546,7 +546,7 @@ const guide: Article[] = [
     paragraphs: [
       "An app is never finished in the way a brochure website can be. Apple releases a major iOS version every year, usually in September, and Google ships a new Android version every year as well. Each release can change permissions, notification behaviour, background tasks or screen layouts, and both stores periodically raise the SDK and API levels that new submissions and updates must target. An app that goes a year or two without updates can stop meeting store requirements.",
       "<strong>What maintenance covers.</strong> Crash monitoring and fixes, framework and dependency updates, adjustments for new OS versions, renewing push notification keys and certificates, answering store review questions on updates, small content or feature changes, and checking that integrations such as LINE, payments and maps still work after their providers change their APIs.",
-      `<strong>What it costs.</strong> The first five months after launch are included free. From month six, maintenance is available from ${both("Maintenance")}, or you can contact us only when changes are needed, although apps left without updates for a long time usually cost more to bring back to current standards. Cloud and third-party services continue to be billed to your company directly.`,
+      `<strong>What it costs.</strong> The first two months after launch are included free. From month three, maintenance is available from ${both("Maintenance")}, or you can contact us only when changes are needed, although apps left without updates for a long time usually cost more to bring back to current standards. Cloud and third-party services continue to be billed to your company directly.`,
       `<strong>Growing the app.</strong> Version two should come from data rather than guesses: which screens people use, where they drop out of bookings and which notifications they switch off. Store search and the app's own website both bring installs, so a simple landing page with store badges, deep links and good search visibility helps; our <a href="/japan/seo-services/">SEO services in Japan</a> page and the <a href="/services/seo-services/">SEO services</a> overview explain that side.`,
     ],
   },
@@ -589,7 +589,7 @@ const comparison: [string, string, string, string][] = [
   ["Language and meetings", "Japanese, in person or online", "Usually Japanese, online", "English only, remote: video calls, chat and test builds"],
   ["Hours in Japan time", "Usually weekday business hours", "Varies by individual", "12:30 pm to 12:30 am JST every day"],
   ["Store accounts and code", "Usually the client's, occasionally held by the vendor", "Varies from job to job", "Always in your company's name"],
-  ["After launch", "Monthly maintenance quoted on top", "Hard to secure once the job ends", `5 months free, then from ${both("Maintenance")}`],
+  ["After launch", "Monthly maintenance quoted on top", "Hard to secure once the job ends", `2 months free, then from ${both("Maintenance")}`],
   ["IT subsidy eligibility", "Possible when the vendor is a registered provider", "Rarely", "Not a registered IT support provider, so not eligible"],
 ];
 
@@ -602,7 +602,7 @@ const process: [string, string][] = [
   ["Design", "User flows and wireframes, then visual design for key screens, reviewed as a clickable prototype on your phone."],
   ["Build & test builds", "Development in short cycles, with TestFlight and Google Play internal test builds you install on your own phone."],
   ["Store submission", "Japanese listing fields, screenshots, privacy details and reviewer notes prepared; builds submitted under your developer accounts."],
-  ["Launch & support", "Release, crash monitoring and handover of every login and document, then five months of free maintenance."],
+  ["Launch & support", "Release, crash monitoring and handover of every login and document, then two months of free maintenance."],
 ];
 const timelineFine = "Timelines assume Japanese text, approvals and store account verification arrive on time. Store review times vary, and payments, offline sync and integrations add testing time.";
 

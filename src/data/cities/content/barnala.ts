@@ -7,7 +7,7 @@ const barnala: CityContent = {
   meta: {
     title: "IT Services in Barnala: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, UPI stores and WhatsApp bots for Barnala harvester makers, grain market arhtiyas, clinics and Sadar Bazar shops. From ₹10,000, 5 months upkeep free.",
+      "Websites, SEO, UPI stores and WhatsApp bots for Barnala harvester makers, grain market arhtiyas, clinics and Sadar Bazar shops. From ₹10,000, 2 months upkeep free.",
     keywords: [
       "website development team in Barnala",
       "web designer Barnala",
@@ -31,11 +31,11 @@ const barnala: CityContent = {
     eyebrow: "Barnala · Malwa, Punjab",
     h1: "Websites, apps, SEO and AI automation for Barnala's harvester makers, mandi traders and bazaar shops",
     lede:
-      "We are three engineers working remotely who build websites, Punjabi and English SEO pages, UPI stores and WhatsApp automations for Barnala firms: combine harvester and implement makers, arhtiyas at the grain market, clinics, immigration and IELTS offices, and shops in Sadar Bazar and Handiaya Bazar. Prices start from ₹10,000 and upkeep is free for five months.",
+      "We are three engineers working remotely who build websites, Punjabi and English SEO pages, UPI stores and WhatsApp automations for Barnala firms: combine harvester and implement makers, arhtiyas at the grain market, clinics, immigration and IELTS offices, and shops in Sadar Bazar and Handiaya Bazar. Prices start from ₹10,000 and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Punjabi, Hindi, English", "Machinery catalogues", "Mandi season automation", "Domain in your name"],
   },
   quickAnswer:
-    "In Barnala, our static business website starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000, and a UPI-enabled store from ₹50,000. We are a remote team of three with no Barnala office, and the first five months of maintenance are free.",
+    "In Barnala, our static business website starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000, and a UPI-enabled store from ₹50,000. We are a remote team of three with no Barnala office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Region", value: "District headquarters in Punjab's Malwa belt, about 60 km from Ludhiana, with Punjabi (Malwai) spoken by nearly everyone" },
     { label: "Machinery", value: "Known for agricultural machinery; Standard Corporation India, maker of combine harvesters, tractors and hydraulic cranes, is based here" },
@@ -52,7 +52,7 @@ const barnala: CityContent = {
     ai: "WhatsApp assistants that share spare-part availability, mandi arrival updates or visa-file checklists in Punjabi, Hindi or English and escalate to your staff.",
     data: "Season dashboards for machinery orders, dealer stock and service calls, so owners see what is selling in which district before the harvest starts.",
     app: "Android and iOS apps for field mechanics, dealer order booking or student attendance, built once and published to Google Play and the App Store from ₹40,000.",
-    maintenance: "Price list edits, backups, updates and uptime checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Price list edits, backups, updates and uptime checks free for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Barnala businesses tend to hire web help through a cousin, a Ludhiana agency or someone who made a friend's site. Some of those sites work; many quietly break once the builder moves on. We publish our starting prices, you speak directly to the three engineers who build and look after your site, and ownership stays with you from the first day.",
@@ -173,11 +173,11 @@ const barnala: CityContent = {
     },
     {
       id: "ownership-barnala",
-      heading: "You own everything, and the first five months of upkeep are on us",
+      heading: "You own everything, and the first two months of upkeep are on us",
       paragraphs: [
         "A common Barnala story: a site built years ago by a relative's contact stops loading, the domain is registered to an email nobody can access, and the business has to start over with a new name. We prevent this by registering the domain in your name and keeping hosting in an account you own. At launch you receive all logins and a one-page note explaining where everything lives.",
-        "The code is yours too. You can keep working with us, move to a Ludhiana developer or hire your own staff later, with no exit fee or lock-in. For five months after launch, maintenance is free: text and price updates, bug fixes, software and security updates, backups, uptime and speed checks.",
-        "After those five months, ongoing maintenance starts from ₹8,000 a month. If you prefer, you can simply message us when a change is needed and pay only for that job.",
+        "The code is yours too. You can keep working with us, move to a Ludhiana developer or hire your own staff later, with no exit fee or lock-in. For two months after launch, maintenance is free: text and price updates, bug fixes, software and security updates, backups, uptime and speed checks.",
+        "After those two months, ongoing maintenance starts from ₹8,000 a month. If you prefer, you can simply message us when a change is needed and pay only for that job.",
       ],
     },
     {
@@ -265,9 +265,9 @@ const barnala: CityContent = {
         "Yes. The domain is registered in your name, the hosting account belongs to you, and at launch you receive all logins and the source code. You can switch developers at any time without an exit fee. We insist on this because lost domains are a frequent problem for older Barnala websites.",
     },
     {
-      question: "What is included in five months of free maintenance?",
+      question: "What is included in two months of free maintenance?",
       answer:
-        "For five months after launch we handle text and price changes, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work.",
+        "For two months after launch we handle text and price changes, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work.",
     },
     {
       question: "How soon will SEO bring results in Barnala?",

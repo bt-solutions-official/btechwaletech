@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["API used", "Official Zoho Books API v3 with OAuth 2.0"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Who owns it", "You: Zoho org, API client, code, hosting"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who read your books flow end to end" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Middleman or platform fees on your payments to us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom portal around Books", value: `From ${P.software}, 6–12 weeks` },
       { label: "India API endpoint", value: "zohoapis.in, with your organisation ID on every call" },
       { label: "Payment to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "Zoho Books integration cost in India: what drives the number",
       paragraphs: [
-        `With BtechWaleTech, a Zoho Books integration starts at ${P.ai} for one or two one-way flows and usually takes 2–4 weeks. That covers discovery, the mapping sheet, the service, testing on a copy of your data, go-live and five months of free maintenance.`,
+        `With BtechWaleTech, a Zoho Books integration starts at ${P.ai} for one or two one-way flows and usually takes 2–4 weeks. That covers discovery, the mapping sheet, the service, testing on a copy of your data, go-live and two months of free maintenance.`,
         `Quotes vary widely across freelancers and Zoho partners, and the variation comes from scope rather than the hourly figure. The lines that move the price most are: how many systems send data; whether any sync is two-way; refunds, partial payments and COD; multiple GSTINs or branches; e-invoice error handling; and data clean-up for a Tally switch. A store-to-Books flow with prepaid orders only is at the low end. Two stores, a CRM, stock sync and three GSTINs is several flows and priced accordingly.`,
         `Running costs are separate and yours: the Zoho Books plan that gives enough API calls, and a small cloud server or serverless function for the integration. We size these in the quote so there is no surprise in month two. See <a href='/pricing/'>our pricing page</a> for all starting prices.`,
       ],
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
       heading: "Who owns the integration, the tokens and the data?",
       paragraphs: [
         `You do. The API client is registered in your Zoho account, the server or function runs in your cloud account, the code sits in your repository, and the log database is yours. We work through access you grant and can revoke at any time.`,
-        `At handover you receive the source code, a runbook that explains how to restart the service and rotate the refresh token, the field-mapping sheet, the list of scopes, and a short video walkthrough. If you later move the work to another developer or bring it in-house, nothing needs our permission. Five months of maintenance are included after go-live; after that, support continues from ${P.care} a month if you want it, or not at all if you do not.`,
+        `At handover you receive the source code, a runbook that explains how to restart the service and rotate the refresh token, the field-mapping sheet, the list of scopes, and a short video walkthrough. If you later move the work to another developer or bring it in-house, nothing needs our permission. Two months of maintenance are included after go-live; after that, support continues from ${P.care} a month if you want it, or not at all if you do not.`,
       ],
     },
     {
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get flow-by-flow pricing and timelines. Nothing is billed until you approve it in writing."],
       ["Build and test", "The service is built in your cloud account and tested on a copy of your books with named cases for every tax and payment path."],
       ["Replay and go-live", "Past orders are replayed and compared with manual postings. After fixes, we switch on at an agreed cut-over time and watch exceptions daily."],
-      ["Handover and care", "You receive code, runbook, scopes list and a walkthrough video. Five months of maintenance are included, then optional monthly support."],
+      ["Handover and care", "You receive code, runbook, scopes list and a walkthrough video. Two months of maintenance are included, then optional monthly support."],
     ],
   },
   faqHeading: "Zoho Books integration questions",
@@ -443,7 +443,7 @@ const content: FreelanceContent = {
     { question: "What happens when the integration fails to post an order?", answer: "Temporary errors, such as a rate limit, are retried automatically after a pause. Anything that still cannot be posted, for example an invalid GSTIN or a missing item, is listed in a daily exception report sent to your team with the order number and reason. Your accountant fixes the data, and the order is re-posted without duplicates." },
     { question: "Can you integrate Zoho Books with a custom app we already have?", answer: "Yes. If your billing portal, field sales app or booking system has a database or an API, we can post invoices and payments from it to Zoho Books and send statuses back. Sometimes the cleanest path is a small endpoint added to your app. If the app itself needs rebuilding, that becomes a custom software project." },
     { question: "Do you visit our office to set up the integration?", answer: "No. All Zoho Books integration work is done remotely through screen sharing, WhatsApp and access you grant. Your accountant joins short calls to approve tax rules and to check the opening balances or replay results. This keeps costs down and works across India and abroad. If you need someone on-site daily, a local hire suits you better." },
-    { question: "What support do we get after the integration goes live?", answer: "Five months of free maintenance are included after go-live, covering fixes and small rule changes such as a new tax rate or item category. After that, you can continue with monthly support from " + P.care + " or run it yourself using the runbook. Larger changes like a new sales channel are quoted separately and approved in writing first." },
+    { question: "What support do we get after the integration goes live?", answer: "Two months of free maintenance are included after go-live, covering fixes and small rule changes such as a new tax rate or item category. After that, you can continue with monthly support from " + P.care + " or run it yourself using the runbook. Larger changes like a new sales channel are quoted separately and approved in writing first." },
     { question: "How do we pay for Zoho Books integration work?", answer: "Clients in India pay by UPI or bank transfer against the milestones in the approved quote. Clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote in writing. Payment terms, milestones and any contract details are set out in your written quote; see our terms page for general conditions." },
     { question: "Zoho Books ko website se connect karna hai, kaise hoga?", answer: "Pehle hum aapka ek typical order aur Zoho Books plan dekhte hain. Phir ek mapping sheet banti hai: order paid hone par Books mein customer, invoice aur payment kaise banenge, GST kaise lagega, COD aur return ka kya hoga. Aapke CA approve karein, uske baad hum API se integration banate hain, test karte hain aur live karte hain. Kaam " + P.ai + " se shuru hota hai." },
   ],

@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised in about 2 working days"],
     ["Runs in", "Your cloud, email and sheet accounts"],
     ["Human review", "Built in wherever a mistake costs money"],
-    ["Support", "5 months free, then optional"],
+    ["Support", "2 months free, then optional"],
   ],
   stats: [
     { value: "3", label: "Freelancers covering AI, automation and development" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free fixes after a workflow goes live" },
+    { value: "2", label: "Months of free fixes after a workflow goes live" },
     { value: "7", label: "Days a week of WhatsApp replies" },
   ],
   answer: {
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Freelance quotes for AI automation vary widely, mostly because “automate our invoices” can mean a two-day script or a two-month system. The way to compare is to fix the scope first: which inputs, how many formats, which systems, what accuracy and what review step.`,
         `With us, one workflow starts from ${P.ai} (${P.aiUsd}) and typically takes 2–4 weeks. A second workflow that reuses the same connections usually costs less than the first. Where automation needs its own interface, such as an approval dashboard used by several staff, it moves towards custom software, which starts at ${P.software}.`,
-        `Running costs are separate and paid from your own accounts: language model usage, a small cloud server if self-hosted, and any tool subscriptions. We estimate these at your volume in writing. After five free months of support, optional maintenance starts at ${P.care}.`,
+        `Running costs are separate and paid from your own accounts: language model usage, a small cloud server if self-hosted, and any tool subscriptions. We estimate these at your volume in writing. After two free months of support, optional maintenance starts at ${P.care}.`,
       ],
     },
     {
@@ -217,7 +217,7 @@ const content: FreelanceContent = {
       heading: "How to hire an AI automation freelancer you can rely on",
       paragraphs: [
         `Judge candidates on how they handle your messiest examples, not on polished demos. Send the same three to five real, anonymised samples to each and see what comes back.`,
-        `Good signs: they ask what happens with exceptions, propose a review step, estimate running costs unprompted, and suggest building in your accounts. Warning signs: promises of “100% automation”, a tool they insist on without asking about your data, API keys in their name, and no plan for what happens when the workflow breaks at month six.`,
+        `Good signs: they ask what happens with exceptions, propose a review step, estimate running costs unprompted, and suggest building in your accounts. Warning signs: promises of “100% automation”, a tool they insist on without asking about your data, API keys in their name, and no plan for what happens when the workflow breaks at month three.`,
         `Ask for a short written runbook as a deliverable: what the workflow does, where it runs, how to pause it and who to call. If the freelancer disappears, that document lets someone else take over. Our general guide to vetting AI work is on <a href='/hire-ai-developer/'>hire an AI developer</a>.`,
       ],
     },
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
       heading: "What happens after launch: will my AI automation freelancer still be around?",
       paragraphs: [
         `An automation is not finished on launch day; it is finished when it has run quietly for a few months. Inputs drift, suppliers change invoice templates, a colleague renames a sheet tab, a connected app changes its login rules. Someone has to notice and adjust, and the question to put to any AI automation freelancer is who that someone will be.`,
-        `With us, the first five months after a workflow goes live are covered by free maintenance. In practice that means reviewing the logs and correction rate, tuning instructions when a new document layout appears, and fixing broken connections. After that you can continue with optional maintenance from ${P.care}, hand the runbook to your own staff, or bring in another developer; nothing is locked to us.`,
+        `With us, the first two months after a workflow goes live are covered by free maintenance. In practice that means reviewing the logs and correction rate, tuning instructions when a new document layout appears, and fixing broken connections. After that you can continue with optional maintenance from ${P.care}, hand the runbook to your own staff, or bring in another developer; nothing is locked to us.`,
         `We also suggest a short monthly check even when nothing seems wrong: how many items ran, how many went to review, how many were corrected. If the review share creeps up, the workflow needs attention before your team loses trust in it. A good AI automation freelancer will set that report up during the build rather than leave you to discover problems from a customer complaint.`,
       ],
     },
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       heading: "AI automation freelancer kya karta hai? Aasan jawab",
       paragraphs: [
         `Jo kaam aapki team roz ek hi tareeke se karti hai, jaise emails padh kar sheet mein entry, PDF orders ko type karna, ya har hafte report banana, woh AI automation se kaafi had tak apne aap ho sakta hai. Jahan galti mehngi pad sakti hai, wahan ek insaan check karta hai.`,
-        `Hamare saath ek workflow ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Sab kuch aapke apne accounts mein chalta hai. Launch ke baad 5 mahine support free hai. Apne kaam ka ek-do sample WhatsApp par bhejiye, hum bata denge ki automation ka fayda hoga ya nahi.`,
+        `Hamare saath ek workflow ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Sab kuch aapke apne accounts mein chalta hai. Launch ke baad 2 mahine support free hai. Apne kaam ka ek-do sample WhatsApp par bhejiye, hum bata denge ki automation ka fayda hoga ya nahi.`,
       ],
     },
   ],
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
       ["Quote with running costs", "In about two working days you get itemised build lines plus a written estimate of monthly usage. Nothing is billed before written approval."],
       ["Build in your accounts", "Model access, server, mailbox and sheet connections are set up under your ownership, with us added as users."],
       ["Parallel run, then switch", "The workflow runs beside the manual process until results match, then takes over with a review queue for doubtful items."],
-      ["Monitor and hand over", "Logs, alerts and a runbook are handed over. Fixes are free for five months; optional support continues after that."],
+      ["Monitor and hand over", "Logs, alerts and a runbook are handed over. Fixes are free for two months; optional support continues after that."],
     ],
   },
   faqHeading: "AI automation freelancer: frequently asked questions",
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
     { question: "What are the running costs of an AI workflow?", answer: "Usually language model usage priced by the amount of text processed, a small cloud server if the workflow is self-hosted, and any automation tool subscription. For most small and mid-sized workloads these are modest, but they scale with volume. We give a written estimate at your volume before you approve the build." },
     { question: "Can AI automation read scanned documents and handwriting?", answer: "Printed scans read well after OCR. Handwriting is far less reliable and depends on legibility. A workflow can still help by extracting what it can and flagging the rest for review. We always test on your real documents first so you know the success rate before paying for a full build." },
     { question: "Who owns the automation after it is built?", answer: "You should own everything: the model provider account, server, mailbox connections, workflow files and code. BtechWaleTech builds in accounts registered to your business and hands over a diagram and runbook, so your staff or another developer can run and change it later." },
-    { question: "What happens when an automation breaks?", answer: "A well-built workflow alerts someone by WhatsApp or email when a step fails, retries temporary errors and can be paused safely. Common causes are changed login permissions, a new document layout or a software update on a connected app. Fixes are free for five months after launch with us." },
+    { question: "What happens when an automation breaks?", answer: "A well-built workflow alerts someone by WhatsApp or email when a step fails, retries temporary errors and can be paused safely. Common causes are changed login permissions, a new document layout or a software update on a connected app. Fixes are free for two months after launch with us." },
     { question: "Can you automate work in Tally or other accounting software?", answer: "Often yes, through the software’s import formats or supported integration options. A common pattern is to extract and validate data, prepare it in the import format and let your accountant import after a quick check. We confirm what is possible with your specific version before quoting." },
     { question: "Do you work with businesses outside India?", answer: `Yes. Many automation projects come from teams abroad. We work in overlapping hours, bill in USD from ${P.aiUsd} per workflow and accept Wise, bank wire or PayPal. The process is the same: screen-share walkthrough, sample test, itemised quote and a build in your own accounts.` },
     { question: "Do I need to sign a contract or NDA with an automation freelancer?", answer: "You should at least have a written scope covering what is automated, price, payment stages, ownership and data handling. If you share sensitive data, an NDA is sensible; ask us and terms are agreed in your written quote. See the terms page for the general conditions that apply to our work." },

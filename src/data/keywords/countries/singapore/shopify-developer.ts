@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Our access", "Shopify collaborator account"],
     ["Checkout currency", "SGD for Singapore shoppers"],
     ["Quote", "Line by line, in USD, about 2 working days"],
-    ["Aftercare", "5 months free, then from " + P.care],
+    ["Aftercare", "2 months free, then from " + P.care],
   ],
   stats: [
     { value: "3", label: "Developers who know your theme code" },
     { value: "0", label: "Platform or middleman fees on our invoices" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Local agency and freelancer quotes for Shopify work in Singapore vary widely, and we do not quote other people's figures. What reliably drives the number up is custom design, the volume of product data, the number of integrations and how much ongoing marketing is bundled in.`,
         `A remote Shopify developer can start lower because overheads are lower, not because the work is lighter. Our stores start at ${P.shop}, with custom theme work, migrations and integrations listed line by line. When you compare quotes, ask each supplier to split the same way: theme, product setup, payments, delivery, integrations, SEO and aftercare. Bundled "all-in" numbers hide the parts you might not need.`,
-        `Also compare what happens after launch. Some quotes include only a few weeks of support. Ours includes five months of maintenance, then optional care from ${P.care}.`,
+        `Also compare what happens after launch. Some quotes include only a few weeks of support. Ours includes two months of maintenance, then optional care from ${P.care}.`,
       ],
     },
     {
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
         ["Build", "Templates, custom sections, product import, policies", "Weeks 2–4"],
         ["Payments and delivery", "Shopify Payments, PayNow app, GST settings, courier and pickup rules", "Weeks 3–5"],
         ["Testing", "Real orders and refunds, mobile speed, emails, redirects", "Weeks 4–6"],
-        ["Launch and aftercare", "Domain switch, Search Console, five months of maintenance", "Weeks 5–8"],
+        ["Launch and aftercare", "Domain switch, Search Console, two months of maintenance", "Weeks 5–8"],
       ],
     },
     {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the Shopify account and apply for payment providers; we request collaborator access and set up a Git repository you own."],
       ["Build on a preview theme", "Templates and sections take shape on an unpublished theme you can open on your phone, so the live store is never disturbed."],
       ["Test with real money", "Real orders through every payment and delivery option, refunded afterwards, plus speed checks and email reviews."],
-      ["Publish and support", "Theme published, domain connected, redirects live and Search Console set up. Five months of maintenance follow at no charge."],
+      ["Publish and support", "Theme published, domain connected, redirects live and Search Console set up. Two months of maintenance follow at no charge."],
     ],
   },
   faqHeading: "Shopify developer Singapore: frequently asked questions",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Do you work on Shopify Plus stores?", answer: "We can work on theme, app and integration tasks for Plus stores. Very large Plus programmes that need a dedicated team of many developers or an official Shopify Plus partner relationship are better served by a larger agency, and we would say so before quoting." },
     { question: "Can my Shopify store rank on Google Singapore?", answer: "It can compete if the technical foundation is right and the content is useful. We handle canonical product URLs, structured data, speed, collection copy structure and Search Console. Rankings depend on competition, content and links as well, and nobody can guarantee them. Monthly SEO is available if you want ongoing work." },
     { question: "How do I pay you from Singapore?", answer: "Quotes and invoices are in USD from India, paid by Wise or bank wire against milestones listed in the quote. Many clients use Wise from an SGD account to see the rate first. We do not charge Singapore GST, and your accountant can advise on how to record an overseas service." },
-    { question: "What happens after my Shopify store launches?", answer: `Five months of maintenance are included: theme fixes, app checks, small content changes and help when Shopify releases updates. After that, ongoing care starts from ${P.care} if you want it. Larger changes, such as new sections or integrations, are quoted separately before work starts.` },
+    { question: "What happens after my Shopify store launches?", answer: `Two months of maintenance are included: theme fixes, app checks, small content changes and help when Shopify releases updates. After that, ongoing care starts from ${P.care} if you want it. Larger changes, such as new sections or integrations, are quoted separately before work starts.` },
     { question: "Can you build a mobile app for my Shopify store?", answer: `Yes. We build Android and iOS apps with Flutter or React Native that connect to your Shopify store's data, starting from ${P.app}. For many stores a fast mobile website is enough at first; an app makes most sense once you have loyal repeat customers who would use it.` },
     { question: "Can the Productivity Solutions Grant pay for my Shopify build?", answer: "Not through us. The PSG supports pre-approved solutions from vendors listed on the government's GoBusiness portal, and we are not one of them. If a grant matters to your budget, check the current vendor list there, and compare the total scope rather than just the subsidised figure." },
   ],

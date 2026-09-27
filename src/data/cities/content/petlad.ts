@@ -56,7 +56,7 @@ const petlad: CityContent = {
     ai: "WhatsApp assistants in Gujarati that answer price, stock and admission questions and pass decisions back to you.",
     data: "Dashboards of purchases by village, stock in godowns, dealer orders and payments outstanding.",
     app: "Android and iOS apps for dealers re-ordering from a GIDC unit or for NRI families following work on a property, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "The first five months after launch carry no maintenance charge; from the sixth month, backups, fixes and content changes are ₹8,000 a month onwards.",
+    maintenance: "The first two months after launch carry no maintenance charge; from the third month, backups, fixes and content changes are ₹8,000 a month onwards.",
   },
   whyUsIntro:
     "In Charotar, a family business wants to see where each rupee goes before it spends one. That suits how we work. Our starting prices are on the website, the quote you receive is split into items, WhatsApp messages get answers seven days a week, and your domain, hosting, source code and store accounts are registered to you, not to us. When a feature is not worth what it costs, we say so before you decide.",
@@ -191,7 +191,7 @@ const petlad: CityContent = {
       heading: "Your name on every account: ownership and upkeep in Petlad",
       paragraphs: [
         "A fair test of any developer is what happens if they vanish. With us, nothing is lost. The domain is booked on your email address, the hosting bill is in your name, the source code is handed over complete, and you are listed as owner on the Google Business Profile, the Play Console and the Apple developer account. On handover day you also get a written list of every login.",
-        "Maintenance carries no charge for five months after launch. During that time we change prices and photographs, keep backups, install security updates and re-test the enquiry forms, checkout and WhatsApp buttons. From the sixth month you can retain us from ₹8,000 a month, look after things yourself, or pass the code to another developer.",
+        "Maintenance carries no charge for two months after launch. During that time we change prices and photographs, keep backups, install security updates and re-test the enquiry forms, checkout and WhatsApp buttons. From the third month you can retain us from ₹8,000 a month, look after things yourself, or pass the code to another developer.",
         "Apps need one extra habit. Google and Apple lift their minimum requirements each year, and apps that fall behind can disappear from the store. We watch those deadlines and ship updates early, so dealers, parents and NRI owners never search for your app and find nothing.",
       ],
     },
@@ -274,7 +274,7 @@ const petlad: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of maintenance at no charge after launch: price and photograph changes, backups, security patches and checks on forms, checkout and WhatsApp buttons. After that, choose between keeping us from ₹8,000 a month, doing it in-house, or moving to another developer. The code and accounts are already yours, so switching is simple.",
+        "You get two months of maintenance at no charge after launch: price and photograph changes, backups, security patches and checks on forms, checkout and WhatsApp buttons. After that, choose between keeping us from ₹8,000 a month, doing it in-house, or moving to another developer. The code and accounts are already yours, so switching is simple.",
     },
     {
       question: "Do you work in Sojitra, Tarapur, Anand and Nadiad too?",

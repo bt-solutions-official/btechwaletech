@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Typical build", "6–12 weeks"],
     ["Recruitment needed", "None: start after quote approval"],
     ["Code and IP", "Assigned to you in writing"],
-    ["Support after launch", `5 months free, then from ${P.care}`],
+    ["Support after launch", `2 months free, then from ${P.care}`],
     ["People on your project", "3 freelance developers"],
   ],
   stats: [
     { value: "3", label: "Skill sets: full-stack, cloud and AI, project management" },
     { value: "0", label: "Salaries, laptops or seats you pay for" },
-    { value: "5", label: "Months of free support after go-live" },
+    { value: "2", label: "Months of free support after go-live" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "ERP and CRM customisation", note: "Fit an existing ERP or CRM to your process, or connect it to the tools you already pay for, instead of hiring a specialist.", href: "/erp-software-developer/", size: "md" },
       { name: "Staff and customer apps", note: `Android and iOS apps for field staff, dealers or customers, from ${P.app}, using the same backend as your office software.`, href: "/it-services/android-ios-app/", size: "md" },
       { name: "Automation of repeat tasks", note: `Report generation, invoice reading and WhatsApp alerts from ${P.ai}: work an in-house hire would often be asked to do by hand.`, href: "/ai-automation-freelancer/", size: "md" },
-      { name: "Retained upkeep", note: `After five free months, monthly maintenance from ${P.care}, with what is covered set out line by line in your quote.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Retained upkeep", note: `After two free months, monthly maintenance from ${P.care}, with what is covered set out line by line in your quote.`, href: "/website-maintenance-freelancer/", size: "sm" },
       { name: "Dashboards and MIS", note: "Sales, stock and collection dashboards for owners who want numbers without waiting for month-end reports.", href: "/dashboard-developer/", size: "sm" },
       { name: "Cloud and hosting setup", note: "Servers, backups and access control set up on your own cloud account, so nothing depends on one person's laptop.", href: "/cloud-hosting-setup-freelancer/", size: "sm" },
     ],
@@ -92,14 +92,14 @@ const content: FreelanceContent = {
       ["IP by default", "Employer, for work in course of employment", "Depends on the written contract", "Assigned to you in writing"],
       ["Day-to-day control", "Highest; sits in your office", "Through an account manager", "Direct WhatsApp group with the builders"],
       ["Idle time", "You pay for it", "Not billed", "Not billed"],
-      ["Upkeep after launch", "Part of salary", "Support contract", `5 months free, then from ${P.care}`],
+      ["Upkeep after launch", "Part of salary", "Support contract", `2 months free, then from ${P.care}`],
       ["Not suited to", "Businesses with sporadic software needs", "Very small budgets", "Large programmes needing many engineers at once"],
     ],
     fine: "If your software changes every day and is the core of what you sell, an in-house team will eventually beat any outside partner, including us, and we would tell you that.",
   },
   pricing: {
     heading: "Outsourced project price vs the true cost of an in-house hire",
-    note: `The price table below lists where our projects start: custom software and web apps from ${P.software}, apps from ${P.app}, automation from ${P.ai} and maintenance from ${P.care} after five free months. An in-house developer does not appear there because the cost structure is different: a monthly salary plus statutory contributions, a laptop, software licences, office space and the owner's time spent supervising. When you compare, total the in-house costs over at least two years and set them against the outsourced build plus monthly upkeep for the same period. For work that is heavy for a few months and light afterwards, outsourcing usually costs less; for constant daily change, a hire can win.`,
+    note: `The price table below lists where our projects start: custom software and web apps from ${P.software}, apps from ${P.app}, automation from ${P.ai} and maintenance from ${P.care} after two free months. An in-house developer does not appear there because the cost structure is different: a monthly salary plus statutory contributions, a laptop, software licences, office space and the owner's time spent supervising. When you compare, total the in-house costs over at least two years and set them against the outsourced build plus monthly upkeep for the same period. For work that is heavy for a few months and light afterwards, outsourcing usually costs less; for constant daily change, a hire can win.`,
   },
   guideLabel: "In house vs outsourcing software development guide",
   guide: [
@@ -142,7 +142,7 @@ const content: FreelanceContent = {
         `Outsourcing costs a project fee for the build and, if you choose it, a monthly fee for maintenance. Its hidden costs come from unclear scope, not from salaries.`,
         `Across the market, quotes for the same system vary widely, because vendors include very different things: design, testing, data migration from old systems, staff training, hosting setup and months of support. The cheapest quote often leaves out migration and training, which are exactly the parts that decide whether your staff actually use the new software.`,
         `The other hidden cost is change. If requirements shift mid-build, a vendor bills change requests. That is fair, but it can surprise owners who expected one number. Our <a href='/fixed-price-vs-time-and-material/'>fixed price vs time and material</a> guide explains how each contract model handles change.`,
-        `Our figures are starting points you can check: custom software and web apps from ${P.software}, customer or staff apps from ${P.app}, automation from ${P.ai}, and maintenance from ${P.care} once the five free months end. Each quote lists migration, training and hosting as separate lines so nothing appears later as a surprise.`,
+        `Our figures are starting points you can check: custom software and web apps from ${P.software}, customer or staff apps from ${P.app}, automation from ${P.ai}, and maintenance from ${P.care} once the two free months end. Each quote lists migration, training and hosting as separate lines so nothing appears later as a surprise.`,
       ],
     },
     {
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
         `The usual arrangement has one internal person, often an operations manager or an IT-minded family member, acting as product owner. That person gathers requests from staff, sets priorities and approves releases. The outside team builds, hosts, maintains and advises. Neither side needs to be large.`,
       ],
       subs: [
-        { heading: "Build and retain", text: `The outside team builds the system, then stays on monthly upkeep. With us, the first five months after launch are free, then maintenance runs from ${P.care}.` },
+        { heading: "Build and retain", text: `The outside team builds the system, then stays on monthly upkeep. With us, the first two months after launch are free, then maintenance runs from ${P.care}.` },
         { heading: "Build, then hand over", text: "The outside team builds and documents the system, then trains an in-house hire to take it over, remaining available for larger changes." },
         { heading: "In-house core, outsourced spikes", text: "Your developer runs daily work; an outside team handles a mobile app, an AI feature or a migration when a burst of specialist effort is needed." },
       ],
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
         `The following is an imagined scenario to show the reasoning, not a client case.`,
         `Suppose a hardware distributor in Ludhiana runs orders, stock and dealer credit on Excel sheets shared over WhatsApp. Errors are rising, and the owner's son suggests hiring a developer. The family estimates the salary and assumes that is the full cost.`,
         `Laid out over three years, the picture changes. The hire needs a laptop, tools, statutory contributions and months of recruitment. The system needs heavy work for about three months, then maybe a few days a month. Nobody in the business can review code. If the developer leaves in year two, the Excel problem returns in a new form.`,
-        `The outsourced alternative: an order and stock system with dealer logins and credit limits, priced as custom software from ${P.software}, built in 6–12 weeks, followed by five free months of support and then maintenance from ${P.care}. The son becomes the internal product owner, collecting requests and testing releases. If the business later adds an app for salesmen, that is priced separately from ${P.app}. In this imagined case, hiring would make sense later, once daily software changes justify a full-time person.`,
+        `The outsourced alternative: an order and stock system with dealer logins and credit limits, priced as custom software from ${P.software}, built in 6–12 weeks, followed by two free months of support and then maintenance from ${P.care}. The son becomes the internal product owner, collecting requests and testing releases. If the business later adds an app for salesmen, that is priced separately from ${P.app}. In this imagined case, hiring would make sense later, once daily software changes justify a full-time person.`,
       ],
     },
     {
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
       columns: ["Cost item", "In-house developer", "Outsourced to our team"],
       rows: [
         ["Core build", "Salary for the months of building", `Custom software from ${P.software}`],
-        ["Quiet months after launch", "Full salary continues", `5 months free, then from ${P.care}`],
+        ["Quiet months after launch", "Full salary continues", `2 months free, then from ${P.care}`],
         ["Statutory costs", "Contributions and gratuity where applicable", "None"],
         ["Equipment and tools", "Laptop, licences, test devices", "Included in our own setup"],
         ["Recruitment and ramp-up", "Hiring time, notice period, onboarding", "Discovery calls before the quote"],
@@ -382,12 +382,12 @@ const content: FreelanceContent = {
       ["Set up ownership", "Cloud hosting, domain and code repository are created in your business's name, with individual access for each of us."],
       ["Build in visible milestones", "Every milestone ends with a test link your staff can use. Your product owner collects feedback and approves each stage."],
       ["Migrate data and train staff", "We move existing records from Excel or old software, check totals with you and train the people who will use the system daily."],
-      ["Go live, then retain or hand over", "Five months of support are free. After that, keep us on monthly upkeep from " + P.care + ", or hand the documented system to your own hire."],
+      ["Go live, then retain or hand over", "Two months of support are free. After that, keep us on monthly upkeep from " + P.care + ", or hand the documented system to your own hire."],
     ],
   },
   faqHeading: "In house vs outsourcing software development: questions SMEs ask",
   faqs: [
-    { question: "Is it cheaper to outsource software development or hire in-house?", answer: `For a defined project followed by light upkeep, outsourcing is usually cheaper, because you do not pay a salary during quiet months or carry statutory costs and equipment. For software needing full-time daily work for years, an employee can cost less per hour of work. With BtechWaleTech, custom software starts at ${P.software} and maintenance at ${P.care} after five free months.` },
+    { question: "Is it cheaper to outsource software development or hire in-house?", answer: `For a defined project followed by light upkeep, outsourcing is usually cheaper, because you do not pay a salary during quiet months or carry statutory costs and equipment. For software needing full-time daily work for years, an employee can cost less per hour of work. With BtechWaleTech, custom software starts at ${P.software} and maintenance at ${P.care} after two free months.` },
     { question: "What are the disadvantages of outsourcing software development?", answer: "You depend on an outside party's availability, you must write clearer requirements, and changes mid-build may be billed as change requests. Ownership needs a written assignment rather than coming automatically. These are manageable if the code, hosting and accounts stay in your name, milestones end in something you can test, and an internal person owns priorities." },
     { question: "What are the disadvantages of an in-house developer for an SME?", answer: "You pay the full cost of employment whether or not there is work, hiring can take months, and one person rarely covers design, back end, security, cloud and mobile. The biggest risk is knowledge loss: if the only developer resigns, the reasons behind the code often leave too. Without a technical manager, quality is also hard to judge." },
     { question: "How long does it take to hire a software developer in India?", answer: "It commonly takes several weeks to a few months once you include screening, interviews, an offer, possible counter-offers and a notice period, which is often a month or more for experienced developers. After joining, the developer needs time to learn your business. An outside team can usually start within days of an approved quote." },
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "In house vs outsourcing software development: which is better for a startup?", answer: "Startups whose product is software usually need an in-house technical lead eventually. Before product-market fit, many outsource a focused first version to test demand without committing to salaries. Once the product proves itself and changes daily, they hire internally and keep the outside team for overflow. The key is owning the code and accounts from day one." },
     { question: "How much does outsourced custom software cost in India?", answer: `Quotes vary widely with scope: number of screens, user roles, integrations, reports, data migration and training. BtechWaleTech's custom software and web apps start at ${P.software}, staff or customer apps at ${P.app}, and automation at ${P.ai}. Every quote is itemised, so you can see which lines drive the total and remove anything not needed yet.` },
     { question: "Can an outsourced team work with my existing IT person?", answer: "Yes. Many SMEs have one IT person who handles hardware, networks and email. That person can act as product owner or technical contact, while the outside team builds the software. We share test links, credentials and documentation with them, so knowledge stays inside the business even though the building happens outside." },
-    { question: "What happens to support after an outsourced project ends?", answer: `Agree it before the build. BtechWaleTech includes five months of free support after go-live, with the cover written into your quote. After that, you choose: continue maintenance from ${P.care}, move to another developer, or hand over to an in-house hire. Because the code and hosting are in your name, any of these works without permission from us.` },
+    { question: "What happens to support after an outsourced project ends?", answer: `Agree it before the build. BtechWaleTech includes two months of free support after go-live, with the cover written into your quote. After that, you choose: continue maintenance from ${P.care}, move to another developer, or hand over to an in-house hire. Because the code and hosting are in your name, any of these works without permission from us.` },
     { question: "Should a family business hire its own developer?", answer: "Only if software will need daily attention and someone in the family or management can direct a developer. Otherwise, a family member acting as product owner with an outside team building the system is usually safer. It keeps decisions inside the family while avoiding the risk of one employee becoming the only person who understands the business's software." },
     { question: "Apna developer rakhein ya software outsource karein?", answer: `Agar software ek baar banna hai aur baad mein thode changes chahiye, toh outsource karna sasta aur jaldi hota hai. Agar roz naye features chahiye aur koi technical manager hai, toh apna developer theek hai. BtechWaleTech ke saath custom software ${P.software} se shuru hota hai, 6–12 hafte lagte hain, aur code aapke naam par rehta hai.` },
     { question: "How do I manage an outsourced developer if I cannot code?", answer: "Judge what you can see. Ask for milestones that each end with a test link, have the staff who will use the system try each one, keep all requests in one shared list and pay only against approved milestones. A short weekly note on what is done, what is next and what is blocked keeps you informed without reading any code." },
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Weighing a hire against an outside build? Tell us about the work",
-    note: `Describe your process on WhatsApp. In about two working days you get an itemised quote, with custom software from ${P.software}, everything hosted in your name and five months of free support after go-live.`,
+    note: `Describe your process on WhatsApp. In about two working days you get an itemised quote, with custom software from ${P.software}, everything hosted in your name and two months of free support after go-live.`,
   },
 };
 

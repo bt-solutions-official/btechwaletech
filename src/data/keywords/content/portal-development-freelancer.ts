@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Companion app", `Android & iOS from ${P.app}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Code, domain, hosting in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and host your portal" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-user licence fees on a custom portal" },
   ],
   answer: {
@@ -138,7 +138,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Buy when a ready product fits most of your process; build when your process is the reason customers or vendors choose you, or when per-user fees would grow painfully with your user count.`,
         `Ready SaaS portals are quick to start and fine for standard needs such as a simple helpdesk or a common HR workflow. Their limits show when your approvals have extra steps, your pricing is dealer-specific, your data must sync with a particular accounting setup, or you have thousands of outside users each billed per seat.`,
-        `A portal development freelancer team builds exactly the workflow you use, charges once for the build and leaves you paying only hosting. The trade-off is time (weeks rather than days) and the need for someone to maintain it, which is why five months of maintenance are included and ongoing care is optional after that.`,
+        `A portal development freelancer team builds exactly the workflow you use, charges once for the build and leaves you paying only hosting. The trade-off is time (weeks rather than days) and the need for someone to maintain it, which is why two months of maintenance are included and ongoing care is optional after that.`,
       ],
       list: [
         "Standard process, few users: buy",
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       heading: "How much does portal development cost in India?",
       paragraphs: [
         `Portal quotes vary widely because “portal” covers anything from a single customer download page to a multi-company ERP front end. Compare quotes by listing user types, workflows and integrations side by side.`,
-        `With BtechWaleTech a portal is a custom web app starting at ${P.software} (${P.softwareUsd}), usually 6–12 weeks. A companion Android and iOS app starts at ${P.app}, and automation such as reading uploaded vendor invoices starts at ${P.ai}. After launch you get five months of free maintenance, then optional care from ${P.care} a month.`,
+        `With BtechWaleTech a portal is a custom web app starting at ${P.software} (${P.softwareUsd}), usually 6–12 weeks. A companion Android and iOS app starts at ${P.app}, and automation such as reading uploaded vendor invoices starts at ${P.ai}. After launch you get two months of free maintenance, then optional care from ${P.care} a month.`,
         `The biggest cost lever is phasing. A first release that handles the most common job for one user group, such as customers downloading invoices and paying dues, goes live sooner and teaches you what to build next. Nice-to-haves move to phase two once real usage shows they matter.`,
       ],
       list: [
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your portal holds your customers’, vendors’ or employees’ data, so it must live in accounts you control. We set up the cloud or hosting account, database, file storage, domain and code repository in your name from the start, with our access as invited users.`,
         `At launch you receive the repository, deployment and backup notes, admin logins, a list of every service and renewal date, and a short guide for your admin team on adding users, changing roles and reading reports.`,
-        `Five months of free maintenance cover fixes, updates and small changes after launch. After that, ongoing maintenance from ${P.care} a month is optional; your own developer or another team can take over at any time using the handover pack.`,
+        `Two months of free maintenance cover fixes, updates and small changes after launch. After that, ongoing maintenance from ${P.care} a month is optional; your own developer or another team can take over at any time using the handover pack.`,
       ],
     },
     {
@@ -319,7 +319,7 @@ const content: FreelanceContent = {
         ["Companion Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Portal automation (document reading, reminders)", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Public website in front of the portal", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Approve the permission grid", "We turn the process into user types, roles and approval rules. You sign off on this map before any screen is designed."],
       ["Build and test on staging", "Login, roles, the main workflow, integrations and notifications arrive in stages on a private link that your team tests."],
       ["Pilot with real users", "A small group of customers, vendors or staff uses the portal first. We fix what they find, then open it to everyone."],
-      ["Hand over and support", `You receive the code, documentation and admin guide, plus five months of free maintenance. Ongoing care from ${P.care} a month is optional.`],
+      ["Hand over and support", `You receive the code, documentation and admin guide, plus two months of free maintenance. Ongoing care from ${P.care} a month is optional.`],
     ],
   },
   faqHeading: "Portal development freelancer: common questions",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Do I need a mobile app as well as the portal?", answer: `Usually not at first. A responsive web portal works on any phone without installation. Add an Android and iOS app, from ${P.app}, when users need push notifications, daily use, offline capture or camera and location features. The app uses the same backend, so it is an extension rather than a second system.` },
     { question: "Can the portal be in Hindi or a regional language?", answer: "Yes. The portal interface can support Hindi or regional languages such as Kannada, Tamil or Telugu for user groups that prefer them, with a switch between languages. Plan which screens need translation and who will supply the wording, because translated text should be checked by someone who knows your users." },
     { question: "Who owns the portal code and data?", answer: "You do. The repository, database, file storage, hosting account and domain are set up in your name from the start, and we work as invited users. At handover you receive the code, documentation and all logins, so you can move to another developer at any time without asking permission." },
-    { question: "What happens after the portal goes live?", answer: `You get five months of free maintenance covering bug fixes, updates and small changes. After that, maintenance continues from ${P.care} a month if you want it, or your own team can take over using the documentation and admin guide provided at handover.` },
+    { question: "What happens after the portal goes live?", answer: `You get two months of free maintenance covering bug fixes, updates and small changes. After that, maintenance continues from ${P.care} a month if you want it, or your own team can take over using the documentation and admin guide provided at handover.` },
     { question: "Can you add features to the portal later?", answer: "Yes, and phasing is recommended. The first release handles the most common jobs; later phases add further user types, approvals, reports or automation once real usage shows what matters. Each phase gets its own itemised quote, so you only commit to what you have decided to build." },
     { question: "Can you rebuild an old portal that nobody maintains?", answer: "Yes. We review the existing portal and data, then either stabilise it or migrate users and records to a new build, keeping logins working where possible. You receive an itemised quote after the review, with an honest view of whether repair or rebuild costs less." },
     { question: "Do you work with portal clients outside India?", answer: `Yes. We build portals for clients abroad with billing in USD, custom portals from ${P.softwareUsd}, and payment by Wise, bank wire or PayPal. Work runs over video calls, written updates and a staging link in overlapping working hours.` },
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a portal development freelancer? Describe your process",
-    note: `Tell us on WhatsApp who the portal is for and what they come to do. In about two working days you get an itemised, phased quote, with custom portals from ${P.software}, everything in your name and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp who the portal is for and what they come to do. In about two working days you get an itemised, phased quote, with custom portals from ${P.software}, everything in your name and two months of free maintenance after launch.`,
   },
 };
 

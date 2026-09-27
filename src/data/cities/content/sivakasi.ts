@@ -35,7 +35,7 @@ const sivakasi: CityContent = {
     pills: ["Sites from ₹10,000", "Tamil and English", "Print job enquiry forms", "Dealer-only catalogues", "Order and job tracking"],
   },
   quickAnswer:
-    "Sivakasi businesses can get a website from ₹10,000, usually ready in one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software such as print job tracking at ₹60,000. We work remotely with no Sivakasi office and include five months of free maintenance.",
+    "Sivakasi businesses can get a website from ₹10,000, usually ready in one to two weeks. Search-led sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software such as print job tracking at ₹60,000. We work remotely with no Sivakasi office and include two months of free maintenance.",
   snapshot: [
     { label: "District", value: "Virudhunagar district; Sivakasi became a municipal corporation in August 2021" },
     { label: "Three big trades", value: "Fireworks, safety matches and printing, together employing well over 25,000 people" },
@@ -52,10 +52,10 @@ const sivakasi: CityContent = {
     ai: "WhatsApp assistants in Tamil or English that collect print specs, quantities and deadlines before your estimator steps in.",
     data: "Dashboards that show seasonal order load, paper consumption and dues by customer ahead of the calendar and diary rush.",
     app: "Android and iOS apps for sales agents booking calendar and diary orders from shops across South India, published on Google Play and the App Store.",
-    maintenance: "Free updates, fixes and backups for five months, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Free updates, fixes and backups for two months, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Sivakasi owners are used to agencies that promise a lot in the off-season and disappear during the rush. We publish starting prices, write in Tamil and English, respond on WhatsApp seven days a week, keep the domain and code in your name and look after your site free for the first five months.",
+    "Sivakasi owners are used to agencies that promise a lot in the off-season and disappear during the rush. We publish starting prices, write in Tamil and English, respond on WhatsApp seven days a week, keep the domain and code in your name and look after your site free for the first two months.",
   pricingIntro:
     "Our figures for Sivakasi are starting prices, not bundles. A press with a hundred product types and sample galleries needs more work than a small shop, and a dealer login adds more again. We send an itemised quote so you see where each rupee goes, and nothing is billed before your written approval.",
   sections: [
@@ -212,7 +212,7 @@ const sivakasi: CityContent = {
       heading: "You own everything, and support continues after launch",
       paragraphs: [
         "Many Sivakasi firms have had a website vanish because the domain was booked by a developer who later stopped answering. We set up every project to avoid this. Domain and hosting are in your name, every login is handed over at launch and the code belongs to you.",
-        "For five months after launch we provide free updates, fixes, security patches, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed. There is no exit fee if you move to another developer, and we leave a simple handover note.",
+        "For two months after launch we provide free updates, fixes, security patches, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can contact us only when needed. There is no exit fee if you move to another developer, and we leave a simple handover note.",
         "Read more about each type of build on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -300,7 +300,7 @@ const sivakasi: CityContent = {
     {
       question: "What happens when the free maintenance ends?",
       answer:
-        "For five months after launch, updates, fixes, security, backups and uptime checks are free. After that, maintenance starts from ₹8,000 a month, or you can pay only for changes you need. Nothing continues without your agreement.",
+        "For two months after launch, updates, fixes, security, backups and uptime checks are free. After that, maintenance starts from ₹8,000 a month, or you can pay only for changes you need. Nothing continues without your agreement.",
     },
     {
       question: "Do you work with businesses in Sattur, Virudhunagar or Rajapalayam?",

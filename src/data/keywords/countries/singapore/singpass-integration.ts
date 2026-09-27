@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "2", label: "Weeks Singpass says production approval may take" },
     { value: "3", label: "Freelance developers on your integration" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Myinfo Business via Corppass", note: "Company data auto-fill for business onboarding flows, built on the Corppass authorisation API for customers acting on behalf of their entity.", size: "md" },
       { name: "MVP with Singpass from day one", note: "For start-ups whose product depends on verified identity, a first version planned around Singpass approval timelines.", href: "/singapore/mvp-development/", size: "sm" },
       { name: "Secure data handling", note: "Encryption, role-based admin access, audit logs and retention rules for identity data.", href: "/singapore/pdpa-compliant-website/", size: "sm" },
-      { name: "Monitoring and key rotation", note: `Certificate and key rotation, dependency updates and incident support. Five months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
+      { name: "Monitoring and key rotation", note: `Certificate and key rotation, dependency updates and incident support. Two months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Singpass integration pricing",
-    note: `A custom web portal with Singpass Login and Myinfo auto-fill starts at ${P.software}; iOS and Android apps with Singpass start at ${P.app}. Adding Singpass to an existing application, or migrating an older integration to FAPI 2.0, is quoted after we review your codebase and the data items you need, because effort depends heavily on how your user accounts and sessions already work. Singpass's own transaction charges follow the pricing plan shown in the Singpass Developer Portal and are billed to your company, separately from our work. After five months of free maintenance, care starts at ${P.care}. All figures are USD starting prices, itemised in writing before any billing.`,
+    note: `A custom web portal with Singpass Login and Myinfo auto-fill starts at ${P.software}; iOS and Android apps with Singpass start at ${P.app}. Adding Singpass to an existing application, or migrating an older integration to FAPI 2.0, is quoted after we review your codebase and the data items you need, because effort depends heavily on how your user accounts and sessions already work. Singpass's own transaction charges follow the pricing plan shown in the Singpass Developer Portal and are billed to your company, separately from our work. After two months of free maintenance, care starts at ${P.care}. All figures are USD starting prices, itemised in writing before any billing.`,
   },
   guideLabel: "Singpass integration guide",
   guide: [
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Staging access and build", "Your team creates the staging app via Corppass; we build the FAPI 2.0 flow, account linking and Myinfo mapping against it."],
       ["Security and journey review", "Keys, token validation, logging and data handling are tested, and the user journey document is drafted with real staging screenshots."],
       ["Production approval", "Your team submits the production app; we answer technical questions and prepare the production configuration in your infrastructure."],
-      ["Controlled rollout and care", "Singpass is enabled for a share of users first, then fully; five months of free maintenance and key-rotation support follow."],
+      ["Controlled rollout and care", "Singpass is enabled for a share of users first, then fully; two months of free maintenance and key-rotation support follow."],
     ],
   },
   faqHeading: "Singpass integration: frequently asked questions",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "What is Myinfo Business?", answer: "Myinfo Business returns data about a company to users acting on its behalf, which helps B2B onboarding. According to Singpass and Corppass documentation, Myinfo Business v3 is built on the Corppass authorisation API with FAPI 2.0, and a new Myinfo Business v3 app is created on the Singpass Developer Portal; older client IDs cannot be reused." },
     { question: "Is it safe to have a team in India build our Singpass integration?", answer: "Yes, if control stays with you. Your company owns the Singpass apps, Corppass roles and production keys, which are generated and stored in your own infrastructure. We build against staging and work through access you grant and can revoke. India is two and a half hours behind Singapore, so our hours overlap most of your day." },
     { question: "Who owns the code and keys after the project?", answer: "You do. The code repository, hosting, secrets manager, keys and every Singpass Developer Portal app belong to your company, and all documentation is handed over. We keep no copies of identity data. You can maintain the integration in-house, pass it to another developer or keep us on a care plan." },
-    { question: "What maintenance does a Singpass integration need?", answer: `Key and certificate rotation, library and dependency updates, adjustments when Singpass changes its specifications or deadlines, log reviews and help if users report login problems. The first five months after launch are free; after that, care plans start at ${P.care}. Specification changes are planned with you before they take effect.` },
+    { question: "What maintenance does a Singpass integration need?", answer: `Key and certificate rotation, library and dependency updates, adjustments when Singpass changes its specifications or deadlines, log reviews and help if users report login problems. The first two months after launch are free; after that, care plans start at ${P.care}. Specification changes are planned with you before they take effect.` },
     { question: "Can you give legal advice on Singpass or PDPA obligations?", answer: "No. We are developers. We explain what Singpass documentation and PDPC guidance say so you can brief your adviser, and we build what your team and counsel approve. Decisions about your use case, data items, retention periods and privacy notice belong to your company and its legal advisers." },
     { question: "How do we pay for Singpass integration work?", answer: "You receive an itemised quote in USD and invoices from India, payable by Wise or bank wire in milestones agreed before work begins. Nothing is billed until you approve the quote in writing. Singpass's own charges are billed to your company by Singpass. Ask your accountant how the overseas invoice should be recorded." },
     { question: "Can Singpass be added to an ecommerce or booking site?", answer: `It can, for example to verify age for restricted products or to secure accounts, but most ecommerce and booking sites do not need it and approval requires a clear justification. Singpass fits best where verified identity is central, such as financial, property, healthcare or regulated services. Ecommerce builds start at ${P.shop} if you need a store as well.` },

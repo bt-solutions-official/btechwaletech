@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Input", "Text PDFs, Excel, CSV; scanned PDFs by OCR"],
     ["Output", "Tally payment, receipt and contra vouchers"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Free maintenance", "5 months, including new bank layouts"],
+    ["Free maintenance", "2 months, including new bank layouts"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support it" },
     { value: "2", label: "Working days to your quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Per-statement or per-page fees from us" },
   ],
   answer: {
@@ -62,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Posts", value: "Payment, receipt, contra and journal vouchers into TallyPrime" },
       { label: "Price", value: `From ${P.ai} (${P.aiUsd}); multi-user firm portal from ${P.software}` },
       { label: "Timeline", value: "2–4 weeks; more bank layouts add days, not weeks" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -163,7 +163,7 @@ const content: FreelanceContent = {
         `Every bank, and sometimes every account type within a bank, lays out its statement differently. Column order, header wording, whether the balance shows “Cr” after it, where the cheque number sits: all vary. A bank statement to Tally tool that claims to read “any bank” without templates is guessing.`,
         `We build a layout template per format you actually receive. A template records where each column sits, how dates are written, which lines to ignore, and how to spot the start of a new transaction. When a statement arrives, the pipeline identifies the bank and layout from header text and account number patterns, picks the template, and extracts rows.`,
         `Most firms find that a small number of banks covers the large majority of their clients’ statements. Start with those. The long tail (a co-operative bank used by two clients, a small finance bank used by one) can be added one template at a time, and each new template usually takes a day or two, not weeks.`,
-        `Banks do change layouts occasionally. When a template stops matching, the balance check fails loudly rather than posting wrong data, and fixing the template is covered in the first five months of free maintenance. Send us a sample of each format you handle, with amounts masked if you like, and we will tell you in the quote which ones need templates.`,
+        `Banks do change layouts occasionally. When a template stops matching, the balance check fails loudly rather than posting wrong data, and fixing the template is covered in the first two months of free maintenance. Send us a sample of each format you handle, with amounts masked if you like, and we will tell you in the quote which ones need templates.`,
       ],
     },
     {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       id: "cost-scope",
       eyebrow: "Costs",
       heading: "Bank statement to Tally cost by scope",
-      note: `Starting prices; the itemised quote follows your bank formats and client count. Five months of free maintenance included.`,
+      note: `Starting prices; the itemised quote follows your bank formats and client count. Two months of free maintenance included.`,
       columns: ["Scope", "What it covers", "Starts at", "Typical time"],
       rows: [
         ["Core pipeline", "Your main bank layouts, balance check, rules, Tally posting", `${P.ai}`, "2–3 weeks"],
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
       ["Extraction and balance checks", "We build templates until every sample passes the running-balance check, and show you the failures we found and how each was fixed."],
       ["Rules and Tally posting", "Starter rules per client are seeded from past entries, then vouchers post into a test copy of a client’s Tally company for comparison."],
       ["Pilot with real clients", "Your team runs three or four clients through the pipeline alongside the old method, and we tune rules, AI prompts and screens from their feedback."],
-      ["Roll-out and handover", "Remaining clients move over in batches. You get code, settings and a guide for staff; five months of free maintenance start at launch."],
+      ["Roll-out and handover", "Remaining clients move over in batches. You get code, settings and a guide for staff; two months of free maintenance start at launch."],
     ],
   },
   faqHeading: "Bank statement to Tally: frequently asked questions",
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
     { question: "Will it work with older Tally versions?", answer: "Posting through Tally’s XML interface works on TallyPrime and generally on Tally.ERP 9 as well, which helps firms whose clients have not upgraded. Tally’s own built-in statement import is documented for TallyPrime Release 6.0 and later. We test against each release your clients use before go-live." },
     { question: "Can Excel bank statements be converted too?", answer: "Yes, and they are easier than PDFs because columns are already separated. The pipeline still checks the running balance, applies narration rules and AI suggestions, and posts vouchers. If your clients send Excel statements from banks Tally supports, TallyPrime’s own import may be enough on its own." },
     { question: "Do you also do the bookkeeping?", answer: "No. We build and support the software; your team or firm reviews entries and makes accounting decisions. We do not classify transactions as an outsourced accounting service, and we do not give GST, TDS or audit opinions. Ledger rules and treatments always come from your CA." },
-    { question: "What happens when a bank changes its statement format?", answer: "The running-balance check fails for that statement instead of posting wrong data, and the batch is flagged. During the first five months after launch, updating the template is included free. After that, template updates are covered by a care plan at the maintenance price or quoted individually." },
+    { question: "What happens when a bank changes its statement format?", answer: "The running-balance check fails for that statement instead of posting wrong data, and the batch is flagged. During the first two months after launch, updating the template is included free. After that, template updates are covered by a care plan at the maintenance price or quoted individually." },
     { question: "Bank statement ko Tally me kaise import karein?", answer: "TallyPrime 6.0 ya naye release me Excel, CSV aur MT940 statement import ho sakta hai. PDF statement ke liye pehle rows nikalni padti hain, running balance se check karna hota hai, phir narration rules se ledger lagta hai. Hamari pipeline yeh sab karke approved vouchers Tally me post karti hai, AI automation plan ke starting price se." },
     { question: "Do you work remotely with firms outside my city?", answer: "Yes, entirely remotely with firms anywhere in India, over WhatsApp, Google Meet and screen sharing, in English or Hindi. We do not visit offices. Installation on your server or cloud account happens over a remote session, and your statements stay within your own systems once the pipeline runs." },
   ],
@@ -465,7 +465,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us one messy bank statement",
-    note: `Share a statement your team dreads (masked if you like), the bank it comes from, and how many clients you handle. You get an itemised quote in about two working days for a bank statement to Tally pipeline starting at ${P.ai}, running on your own systems, with five months of free maintenance.`,
+    note: `Share a statement your team dreads (masked if you like), the bank it comes from, and how many clients you handle. You get an itemised quote in about two working days for a bank statement to Tally pipeline starting at ${P.ai}, running on your own systems, with two months of free maintenance.`,
   },
 };
 

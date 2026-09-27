@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Pricing logic", "Per customer, per group and by quantity (staffels)"],
     ["Payment", "On account with terms, or iDEAL and cards for new buyers"],
     ["Back office", "Exact Online, AFAS or another ERP with an API"],
-    ["After go-live", `5 free months, then care from ${P.care}`],
+    ["After go-live", `2 free months, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who know the whole portal" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free care after launch" },
+    { value: "2", label: "Months of free care after launch" },
     { value: "0", label: "Invoices before written approval" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "UBL invoice export", note: "Invoices generated as UBL XML files alongside the PDF, so buyers and your accounting software can process them without retyping.", size: "md" },
       { name: "Quick order and reorder tools", note: "Order by article number, upload a CSV, reuse a saved order list, or reorder last month's delivery in two clicks.", size: "sm" },
       { name: "Sales rep ordering", note: "Your reps log in on behalf of a customer and place an order during a visit or call, with the customer's own prices.", size: "sm" },
-      { name: "Maintenance and changes", note: `Five months free after launch, then care from ${P.care}: updates, sync checks, price-list imports.`, size: "sm" },
+      { name: "Maintenance and changes", note: `Two months free after launch, then care from ${P.care}: updates, sync checks, price-list imports.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "B2B webshop development pricing",
-    note: `All prices are starting prices in USD and are itemised in writing before anything is billed. A B2B webshop on Shopify or WooCommerce with customer groups, price lists, staffels, ordering on account and a standard theme adaptation starts from ${P.shop}. A custom portal, needed when prices depend on contract rules, when the ERP must approve every order, or when catalogues differ per customer, starts from ${P.software}. ERP sync is quoted per data flow: stock, orders, customers and invoices each count as a line. Platform subscriptions, plugin licences, ERP API access and hosting are paid by you to those providers. Care after the five free months starts from ${P.care}.`,
+    note: `All prices are starting prices in USD and are itemised in writing before anything is billed. A B2B webshop on Shopify or WooCommerce with customer groups, price lists, staffels, ordering on account and a standard theme adaptation starts from ${P.shop}. A custom portal, needed when prices depend on contract rules, when the ERP must approve every order, or when catalogues differ per customer, starts from ${P.software}. ERP sync is quoted per data flow: stock, orders, customers and invoices each count as a line. Platform subscriptions, plugin licences, ERP API access and hosting are paid by you to those providers. Care after the two free months starts from ${P.care}.`,
   },
   guideLabel: "B2B webshop guide",
   guide: [
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
       ["Data and rules", "Articles, customers and price agreements are exported, cleaned with your team and written into a rules table that both sides sign off."],
       ["Build and test", "The shop or portal is built on a test environment, with pricing tested against real invoices and ERP sync against a test administration."],
       ["Pilot group", "A small group of friendly customers orders for real. Your order desk watches, we fix what they find, and you decide when to widen access."],
-      ["Rollout and care", "Invitations go out in waves. Five months of free maintenance follow, then care plans, with sync monitoring and price-list imports included."],
+      ["Rollout and care", "Invitations go out in waves. Two months of free maintenance follow, then care plans, with sync monitoring and price-list imports included."],
     ],
   },
   faqHeading: "B2B webshop development: questions from Dutch wholesalers",
@@ -461,7 +461,7 @@ const content: FreelanceContent = {
     { question: "How is our customer data protected?", answer: "The build uses role-based access, encrypted connections, audit logs and minimal copies of data outside your systems. Under the AVG you remain the controller for buyers' personal data, and your own adviser decides which agreements and privacy texts you need. We support those obligations in the build but do not give legal advice." },
     { question: "Why hire a remote team in India for B2B webshop development?", answer: "Because the work is mostly data, logic and integration, which suits remote collaboration, and starting prices are clear. You get three developers who share the codebase, working hours that overlap with yours from late morning, WhatsApp replies seven days a week and milestone payments by Wise, wire or PayPal. We do not visit warehouses or offices." },
     { question: "Can you migrate our old B2B webshop?", answer: "Yes. We export articles, customers, price lists and order history from the old system where it allows, map old URLs to new ones so search visibility carries over, and reconnect the ERP. Customers keep their logins only if the old platform allows password migration; otherwise they get an invitation to set a new password." },
-    { question: "What happens after launch?", answer: `The first five months of maintenance are free: updates, fixes and sync monitoring. After that, care plans start from ${P.care}. New features, such as an approval flow or a second warehouse, are quoted separately in writing before any work starts, so costs never surprise you.` },
+    { question: "What happens after launch?", answer: `The first two months of maintenance are free: updates, fixes and sync monitoring. After that, care plans start from ${P.care}. New features, such as an approval flow or a second warehouse, are quoted separately in writing before any work starts, so costs never surprise you.` },
   ],
   related: {
     heading: "Related pages for Dutch wholesalers",

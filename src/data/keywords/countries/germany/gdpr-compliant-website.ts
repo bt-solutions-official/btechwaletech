@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks for a standard site"],
     ["Hosting", "EU server in your own account"],
     ["Legal texts", "From your lawyer or legal-text service"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Non-essential cookies before consent" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "3", label: "Developers on your site" },
   ],
   answer: {
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `We design the site so that, by default, it makes no request to any third party and stores nothing on the visitor's device except what is strictly necessary. Everything else is added deliberately, listed and gated.`,
         `In practice that means a technical inventory in week one, listing each planned tool with its purpose, data, location and consent status. Fonts and icons are self-hosted from the first template. Analytics is chosen with you: a privacy-friendly EU option, or Google Analytics with Consent Mode in basic mode. Embeds get click-to-load placeholders. Forms are built with minimal fields and a retention setting. Hosting is set up in your EU account with an AVV you conclude.`,
-        `Before launch, we run the clean-browser test on every template, test accept, reject and change-of-mind flows, and hand you the inventory so your lawyer or legal-text service can write the privacy notice from facts. The Impressum and privacy notice are linked in every footer. Five months of free maintenance follow, during which any new tool goes through the same check. A new standard site starts at ${P.site}; a large SEO site at ${P.seoSite}.`,
+        `Before launch, we run the clean-browser test on every template, test accept, reject and change-of-mind flows, and hand you the inventory so your lawyer or legal-text service can write the privacy notice from facts. The Impressum and privacy notice are linked in every footer. Two months of free maintenance follow, during which any new tool goes through the same check. A new standard site starts at ${P.site}; a large SEO site at ${P.seoSite}.`,
       ],
     },
     {
@@ -357,7 +357,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days: the build or fixes, hosting setup and any migration, priced in USD line by line. Nothing is billed until you approve in writing."],
       ["Build with privacy defaults", "Fonts self-hosted, scripts gated, embeds behind placeholders, forms minimal and hosting set up in your EU account under the AVV you conclude."],
       ["Clean-browser testing", "Every template is tested before interaction, after reject and after accept, and the inventory is handed to your lawyer or legal-text service for the texts."],
-      ["Launch and care", "The site goes live with Impressum and privacy notice linked everywhere, and five months of free maintenance follow. Care plans start from " + P.care + " afterwards."],
+      ["Launch and care", "The site goes live with Impressum and privacy notice linked everywhere, and two months of free maintenance follow. Care plans start from " + P.care + " afterwards."],
     ],
   },
   faqHeading: "GDPR compliant website: questions from German businesses",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Why work with a team in India on a GDPR compliant website?", answer: "The main reason is budget: privacy-first development usually costs less with a small remote team. A website build does not require access to your visitors' data, and your live site runs on EU hosting in your account. If we ever need access to live personal data, your data protection officer can set up the required agreement and SCCs first." },
     { question: "How do we communicate across time zones?", answer: "India is three and a half hours ahead of German summer time and four and a half hours ahead in winter, so your mornings overlap our afternoons every weekday. We use short video calls in that window, a staging site for reviews and WhatsApp or email for questions, answered seven days a week." },
     { question: "How is the work paid for?", answer: "You get an itemised quote in USD within about two working days and approve it in writing before anything is billed. Invoices come from India in USD or EUR and are paid by Wise or bank wire according to the schedule in the quote. Hosting is billed directly to you by your EU provider." },
-    { question: "What happens after launch?", answer: `Five months of free maintenance cover updates and fixes, including checks whenever a new tool or plugin is added. After that, care plans start from ${P.care} and include updates, consent-tool checks and monitoring. Privacy compliance can drift as marketing adds tags, so a regular re-check is worth keeping.` },
+    { question: "What happens after launch?", answer: `Two months of free maintenance cover updates and fixes, including checks whenever a new tool or plugin is added. After that, care plans start from ${P.care} and include updates, consent-tool checks and monitoring. Privacy compliance can drift as marketing adds tags, so a regular re-check is worth keeping.` },
     { question: "Do online shops need extra measures beyond a GDPR compliant website?", answer: "Yes. Shops selling to consumers in Germany also need consumer-law elements such as a correctly labelled order button, withdrawal information and, since June 2026, an electronic withdrawal function, plus possibly BFSG accessibility duties. Payment and shipping providers add their own processing agreements. Our Shopware, Shopify and EU withdrawal button pages cover those areas." },
   ],
   related: {

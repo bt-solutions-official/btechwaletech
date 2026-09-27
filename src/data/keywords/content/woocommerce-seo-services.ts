@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Freelance developers: code, SEO and project management" },
-    { value: "5", label: "Months of free maintenance after a store build" },
+    { value: "2", label: "Months of free maintenance after a store build" },
     { value: "2", label: "Working days to receive an itemised quote" },
     { value: "0", label: "Platform fees added to your quote" },
   ],
@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `WooCommerce SEO quotes in India vary widely because stores vary widely. Four things drive the price: catalogue size, how messy the current URL structure is, how much content needs writing, and whether the theme can be fixed or must be replaced.`,
         `A store with 150 products, a sensible theme and a few filter issues needs a short one-time fix and then steady monthly work. A store with 8,000 products, supplier descriptions throughout, a page builder theme and three overlapping filter plugins is a larger project before monthly work even begins.`,
-        `With BtechWaleTech, monthly SEO starts at ${P.seo} (${P.seoUsd} for stores abroad) and covers content, fixes, monitoring and reporting. One-time technical work is quoted after we see the store. If a rebuild is the cheaper path, a new ecommerce store starts at ${P.shop} and takes 4–8 weeks, with five months of free maintenance after launch and maintenance from ${P.care} after that.`,
+        `With BtechWaleTech, monthly SEO starts at ${P.seo} (${P.seoUsd} for stores abroad) and covers content, fixes, monitoring and reporting. One-time technical work is quoted after we see the store. If a rebuild is the cheaper path, a new ecommerce store starts at ${P.shop} and takes 4–8 weeks, with two months of free maintenance after launch and maintenance from ${P.care} after that.`,
         `For full store budgets, see <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a>. Every quote we send is itemised, arrives in about two working days, and nothing is billed before your written approval.`,
       ],
     },

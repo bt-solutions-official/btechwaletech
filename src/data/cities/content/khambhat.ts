@@ -57,7 +57,7 @@ const khambhat: CityContent = {
     ai: "Gujarati WhatsApp assistants that answer price, stock and dispatch questions from wholesale buyers and pass real deals to you.",
     data: "Dashboards of export orders, stone lots in process, kite season sales and dues by buyer and city.",
     app: "Android and iOS apps for bead exporters' repeat buyers or kite wholesalers' retailers to order before the season, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Khambhat's trading families have dealt with buyers from distant ports for centuries and read every contract closely. We give them the same courtesy: starting prices in public, an itemised written quote, WhatsApp replies seven days a week, and the domain, hosting, code and store accounts registered in the client's own name from day one.",
@@ -169,7 +169,7 @@ const khambhat: CityContent = {
       heading: "Working with a remote IT services team in Khambhat: process, ownership and maintenance",
       paragraphs: [
         "Because we are not in Khambhat, we put everything in writing. After a first call about your business and customers, you get a page or screen plan, a timeline and an itemised quote. Once approved, we share preview links that you can open on your own phone and show to family or partners. We reply on WhatsApp every day, including weekends, on Indian Standard Time.",
-        "The domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and the logins are handed over in writing. Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "The domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and the logins are handed over in writing. Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
         "Apps need yearly updates as Google and Apple change their rules, and we plan for those so your app is not removed from the stores. Payments are staged against visible progress, and nothing is billed before you approve the quote. You can <a href=\"/contact/\">message us</a> to begin.",
       ],
     },
@@ -266,7 +266,7 @@ const khambhat: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for the first five months, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you choose.",
+        "Maintenance is free for the first two months, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You can also take the code and move to another developer whenever you choose.",
     },
     {
       question: "Do you work in Tarapur, Petlad and Anand as well?",

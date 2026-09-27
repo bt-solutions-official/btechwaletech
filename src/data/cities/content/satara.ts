@@ -52,7 +52,7 @@ const satara: CityContent = {
     ai: "WhatsApp assistants that answer room availability, class batches, sweet orders or OPD timings in Marathi, Hindi or English.",
     data: "Dashboards of orders, rejections and dues by customer for MIDC vendors, drawn from Tally and shop-floor sheets.",
     app: "Android and iOS apps for parents, field staff and dealers to check notices or place repeat orders, listed on Google Play and the App Store.",
-    maintenance: "Rate updates, backups, security fixes and uptime checks, free for five months and from ₹8,000 a month afterwards.",
+    maintenance: "Rate updates, backups, security fixes and uptime checks, free for two months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Satara businesses have a reputation for being careful with money and slow to trust outsiders. We think that is fair. Our starting prices are published, every quote is itemised in writing, nothing is billed until you sign off, and the domain, hosting and code are in your name from the first day. We answer WhatsApp seven days a week.",
@@ -149,7 +149,7 @@ const satara: CityContent = {
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software or web app:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the five free months end.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the two free months end.",
       ],
     },
     {
@@ -193,7 +193,7 @@ const satara: CityContent = {
       heading: "Ownership and upkeep after launch",
       paragraphs: [
         "Everything is in your name. The domain is registered to you, hosting is set up in your account, and the full code and every password are handed over at launch. If you later prefer a developer in Satara, Karad or Pune, you can move without our permission and without any transfer fee.",
-        "For five months after launch we maintain the site free: security updates, backups, uptime checks and small edits such as new tariffs, sweet prices, batch timings or doctor schedules. After that, maintenance is from ₹8,000 a month, and you can stop at any time. If your staff want to make routine changes themselves, we train them before handover.",
+        "For two months after launch we maintain the site free: security updates, backups, uptime checks and small edits such as new tariffs, sweet prices, batch timings or doctor schedules. After that, maintenance is from ₹8,000 a month, and you can stop at any time. If your staff want to make routine changes themselves, we train them before handover.",
         "Software data, such as RFQs, job cards or bookings, also stays in your account and can be exported to Excel whenever you need it.",
       ],
     },
@@ -281,7 +281,7 @@ const satara: CityContent = {
     {
       question: "What does maintenance cost?",
       answer:
-        "The first five months after launch are free, covering updates, backups, monitoring and small edits such as prices or timings. After that, maintenance is from ₹8,000 a month and can be cancelled at any time. We can also train your staff to make routine updates.",
+        "The first two months after launch are free, covering updates, backups, monitoring and small edits such as prices or timings. After that, maintenance is from ₹8,000 a month and can be cancelled at any time. We can also train your staff to make routine updates.",
     },
     {
       question: "How long does it take to build a website?",

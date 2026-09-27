@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers handling your school's search work" },
     { value: "2", label: "Working days to receive an itemised quote" },
-    { value: "5", label: "Months of free maintenance with a new website" },
+    { value: "2", label: "Months of free maintenance with a new website" },
     { value: "0", label: "Rankings anyone can honestly guarantee" },
   ],
   answer: {
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
         ["SEO website, 299+ pages", `${P.seoSite} (${P.seoSiteUsd})`, "School groups with many branches and locality pages"],
         ["Parent app for Android and iOS", `${P.app} (${P.appUsd})`, "Schools wanting notices, fee reminders and circulars in an app"],
         ["WhatsApp admission assistant", `${P.ai} (${P.aiUsd})`, "Schools flooded with repeat admission questions"],
-        ["Maintenance after the free period", `${P.care} (${P.careUsd})`, "After 5 free months of maintenance post-launch"],
+        ["Maintenance after the free period", `${P.care} (${P.careUsd})`, "After 2 free months of maintenance post-launch"],
       ],
     },
   ],

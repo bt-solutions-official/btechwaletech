@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "1", label: "Core job your MVP should prove" },
     { value: "3", label: "Developers covering product, code and cloud" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does MVP development for startups cost in Australia?",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Mobile MVP", value: `From ${P.app}, usually 6–10 weeks` },
       { label: "Billing", value: "Card subscriptions or one-off payments in AUD" },
       { label: "Records", value: "Dated tickets, commits and experiment notes you can hand to an adviser" },
-      { label: "After launch", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After launch, the MVP's job is to produce evidence: who signs up, who completes the core action, who comes back, and who pays. Decide those success numbers before launch so you cannot move the goalposts afterwards.`,
         `We set up product analytics with named events for each step and a simple dashboard. Pair the numbers with conversations: ask the first twenty users to a short call and watch where they hesitate. The mix of data and interviews tells you whether to double down, change direction or stop.`,
-        `Plan for a few weeks of quick fixes after launch. Early users find bugs no test did. Our five months of free maintenance covers that period, so you are not paying extra while you learn. Search visibility can wait for most B2B MVPs; for consumer products, a fast landing page with clear metadata is worth having from day one.`,
+        `Plan for a few weeks of quick fixes after launch. Early users find bugs no test did. Our two months of free maintenance covers that period, so you are not paying extra while you learn. Search visibility can wait for most B2B MVPs; for consumer products, a fast landing page with clear metadata is worth having from day one.`,
       ],
     },
     {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "About two working days later you receive a USD quote with each feature on its own line, a timeline and a list of accounts your company should open."],
       ["Weekly build and demo", "After written approval we build in your repository and cloud, demo every week on a preview link and keep dated records of each decision."],
       ["Test and launch", "Five friendly users test the core journey, we fix what they find, then launch, including App Store and Google Play submission for mobile MVPs."],
-      ["Learn and iterate", `Five months of free maintenance cover early fixes. Next features are quoted only once data shows what customers want; ongoing support then starts from ${P.care}.`],
+      ["Learn and iterate", `Two months of free maintenance cover early fixes. Next features are quoted only once data shows what customers want; ongoing support then starts from ${P.care}.`],
     ],
   },
   faqHeading: "MVP development for startups in Australia: FAQs",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "How do you decide which features to cut?", answer: "We write the one sentence your MVP must prove, then sort every feature into three columns: the job itself, the wrapper needed to run it, and later. Features that impress, reassure or prepare for scale go to later. Many can be replaced by manual work for the first months." },
     { question: "What tech stack do you use for startup MVPs?", answer: "For web MVPs, usually Next.js with TypeScript and a Postgres database, hosted on Vercel or in AWS's Sydney region. For mobile, Flutter or React Native published to both stores. We pick mainstream tools so future hires can pick up the code and investors see nothing unusual in due diligence." },
     { question: "Can you rebuild our no-code prototype in real code?", answer: "Yes. We review what your Bubble, Glide or AppSheet prototype does, keep the flows users actually rely on, and rebuild them in code with a migration plan for existing users and data. It is often a chance to drop features nobody used and simplify the core journey." },
-    { question: "What happens after the MVP launches?", answer: `Five months of free maintenance cover the bug fixes early users will find. Meanwhile you watch the analytics and interview users. New features are quoted only once data shows what customers want. After the free period, support starts from ${P.care}, or you can move to a monthly developer arrangement.` },
+    { question: "What happens after the MVP launches?", answer: `Two months of free maintenance cover the bug fixes early users will find. Meanwhile you watch the analytics and interview users. New features are quoted only once data shows what customers want. After the free period, support starts from ${P.care}, or you can move to a monthly developer arrangement.` },
     { question: "Do I need a technical co-founder before building an MVP?", answer: "Not necessarily. Many founders validate an idea and win first customers before bringing in a technical co-founder. What you do need is someone who will challenge scope, explain trade-offs and put code in your accounts. Later, a co-founder or first hire can take over the repository without starting again." },
     { question: "How do I pay for MVP development from Australia?", answer: "Quotes and invoices are in USD, issued from India. Australian founders usually pay by Wise or international bank wire. Nothing is billed before you approve the written quote. How the payments are treated for GST or tax is a question for your accountant, as we do not give tax advice." },
     { question: "Can you sign an NDA before I share my startup idea?", answer: "Send your NDA and we will review it before you share details. Confidentiality and other terms are agreed in writing alongside the quote. Many founders begin with a one-paragraph description of the problem, which is enough for us to say whether we are a good fit." },

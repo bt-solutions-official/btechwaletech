@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "React Native pricing · JavaScript on Android and iPhone",
     h1: "React Native app development cost: when JavaScript saves you money, and when it does not",
     lede: `React Native app development cost with BtechWaleTech starts at ${P.app} for one JavaScript codebase that ships to Google Play and the App Store. The savings are real when your business already runs a React website or a Node.js API, and smaller when the app leans on phone hardware. Below you will find how Expo changes the bill, what a <a href='/hire-react-native-developer/'>React Native developer</a> charges for native modules, and what yearly upgrades cost after launch.`,
-    pills: [`From ${P.app}`, "Expo or bare workflow", "Reuse your React code", "Native modules priced separately", "Upgrade plan included", "Code and keys in your name", "5 months free care"],
+    pills: [`From ${P.app}`, "Expo or bare workflow", "Reuse your React code", "Native modules priced separately", "Upgrade plan included", "Code and keys in your name", "2 months free care"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week, IST",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Usual build window", "6–10 weeks for a first release"],
     ["Default toolchain", "Expo with development builds"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["After release", "5 months of free fixes, then from " + P.care],
+    ["After release", "2 months of free fixes, then from " + P.care],
   ],
   stats: [
     { value: "1", label: "JavaScript/TypeScript codebase for two stores" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "3", label: "Developers you talk to directly" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Toolchain we default to", value: "Expo with development builds" },
       { label: "Store fees (paid by you)", value: "US$25 once for Play, US$99 a year for Apple" },
       { label: "Build time", value: "6–10 weeks for most first versions" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Takeover of an old React Native app", note: "Audit of the version, dependencies and signing setup, then a staged upgrade plan before any new features are added.", href: "/developer-left-project-midway/", size: "md" },
       { name: "Shopping and ordering apps", note: "Product lists, carts, delivery slots and order tracking for retailers who want an app next to their web store.", href: "/ecommerce-app-development-cost/", size: "sm" },
       { name: "AI chat or search inside the app", note: `An assistant or smart search answered by your own backend, from ${P.ai} when built as a separate automation.`, href: "/ai-agent-development-cost/", size: "sm" },
-      { name: "Upgrades and monthly care", note: `React Native, Expo SDK and store-policy updates after the free 5 months, from ${P.care}.`, href: "/app-maintenance-cost-in-india/", size: "sm" },
+      { name: "Upgrades and monthly care", note: `React Native, Expo SDK and store-policy updates after the free 2 months, from ${P.care}.`, href: "/app-maintenance-cost-in-india/", size: "sm" },
     ],
   },
   comparison: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Platform fees on payments", "None", "Marketplace service fees apply", "None: pay us directly"],
       ["Upgrade plan after launch", "If the hire stays", "Rarely included", "Written into the handover notes"],
       ["Code, keys and store accounts", "Yours", "Check the contract", "Yours from day one"],
-      ["Free support after launch", "Not applicable", "Varies by freelancer", "5 months included"],
+      ["Free support after launch", "Not applicable", "Varies by freelancer", "2 months included"],
       ["Best fit", "Apps that need daily full-time changes", "Very small, clearly defined tasks", "First releases and steady upkeep"],
     ],
     fine: "If your roadmap needs a full-time mobile engineer shipping every day for years, an in-house hire will eventually cost less than any outside quote.",
@@ -205,7 +205,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After launch, React Native app development cost continues as upgrades: the framework, Expo SDK, libraries and store rules all move, and an app left alone for two years becomes expensive to revive. Planning small, regular upgrades costs far less than one large rescue.`,
         `The pace is real. The React Native team announced that from version 0.76 “the New Architecture is enabled by default,” which meant older libraries built only for the legacy bridge needed replacements. Google Play’s target API policy moves every year too: Android Developers documentation states that from August 31, 2026, new apps and updates must target Android 16 (API level 36), with an extension available to November 1, 2026. Apple also raises its build requirements over time.`,
-        `We handle this in two ways. During the build we pick well-maintained libraries and avoid patching them locally, so upgrades stay mechanical. After the five free months, optional care from ${P.care} includes planned version bumps, a test pass on real devices and store resubmission. If you prefer to do upgrades in-house, our handover notes list every library, its purpose and its known upgrade risk.`,
+        `We handle this in two ways. During the build we pick well-maintained libraries and avoid patching them locally, so upgrades stay mechanical. After the two free months, optional care from ${P.care} includes planned version bumps, a test pass on real devices and store resubmission. If you prefer to do upgrades in-house, our handover notes list every library, its purpose and its known upgrade risk.`,
       ],
     },
     {
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
         ["Two-sided app (customer + staff)", "Partly, via shared package", "Sometimes", `From ${P.app}, extra lines per role`, `From ${P.appUsd}`, "8–10 weeks"],
         ["App with printer or vendor SDK", "Varies", "One or more, priced per module", `From ${P.app} + module lines`, `From ${P.appUsd}`, "8–10 weeks"],
         ["App plus new API and admin panel", "Little", "Varies", `From ${P.app} + panel from ${P.software}`, `From ${P.appUsd} + ${P.softwareUsd}`, "9–12 weeks"],
-        ["Upkeep after 5 free months", "—", "—", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Upkeep after 2 free months", "—", "—", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [1, 4],
     },
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Approve an itemised quote", "Within about two working days you receive screens, backend, modules, admin and publishing as separate lines with a timeline. You approve in writing; nothing is billed before that."],
       ["Set up accounts you own", "You create the store, Expo and cloud accounts and invite us. We help with Apple and Google verification on a short call and store keys in your accounts."],
       ["Build with frequent test builds", "Development builds reach your phone early. Every few days a new build arrives, you comment on WhatsApp, and fixes appear in the next one."],
-      ["Launch, hand over, keep current", "We submit to both stores, answer reviewer queries, hand over code and notes, and cover fixes free for five months, including routine library and policy updates."],
+      ["Launch, hand over, keep current", "We submit to both stores, answer reviewer queries, hand over code and notes, and cover fixes free for two months, including routine library and policy updates."],
     ],
   },
   faqHeading: "React Native app development cost: common questions",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
     { question: "What is a native module and why does it cost extra?", answer: "A native module is code written in Kotlin for Android and Swift for iOS that React Native calls from JavaScript. It is needed when no maintained library covers a device, SDK or operating system feature, such as a Bluetooth receipt printer or a bank’s native-only SDK. It costs extra because it is built and tested twice, once per platform, so we price each module as its own quote line." },
     { question: "Is React Native or Flutter cheaper?", answer: "For the same screens, features and backend, quotes for React Native and Flutter usually come out close. React Native tends to win when your business already has React, Next.js or Node.js code and developers who can maintain it. Flutter tends to win when the design must look identical on every device and there is no JavaScript stack to reuse. We build in both and recommend based on your code, not habit." },
     { question: "How long does a React Native app take to build?", answer: "Most first releases take 6–10 weeks. The first week settles the screen list and data model, design and a working skeleton follow, then features arrive in small slices with test builds every few days, and the final weeks cover payments, crash fixes and store review. Reusing an existing API shortens the timeline; custom native modules and a new admin panel lengthen it." },
-    { question: "What does it cost to maintain a React Native app?", answer: `BtechWaleTech covers fixes free for 5 months after launch. After that, optional monthly care starts at ${P.care} and covers React Native and Expo version bumps, library replacements, store policy changes, crash fixes and small improvements. Skipping upgrades for a long time is the costly option, because a large jump across several versions takes far more work than regular small ones.` },
+    { question: "What does it cost to maintain a React Native app?", answer: `BtechWaleTech covers fixes free for 2 months after launch. After that, optional monthly care starts at ${P.care} and covers React Native and Expo version bumps, library replacements, store policy changes, crash fixes and small improvements. Skipping upgrades for a long time is the costly option, because a large jump across several versions takes far more work than regular small ones.` },
     { question: "How often does React Native need to be upgraded?", answer: "React Native and the Expo SDK both release several times a year, and Google Play raises its target API level yearly. You do not have to take every release, but staying within a version or two of current keeps upgrades small. The React Native team made the New Architecture the default from version 0.76, which shows how a single release can require library changes across an older app." },
     { question: "What are the store fees for publishing a React Native app?", answer: "Google Play charges a one-time US$25 registration fee. Apple’s Developer Program costs 99 USD per membership year according to Apple’s developer site, with waivers available for eligible nonprofits, educational institutions and government entities. You pay these directly in your own accounts. They are not part of our React Native quote, but we help with the sign-up and verification steps." },
     { question: "Do I need to pay for Expo EAS to build my app?", answer: "Not necessarily. Expo’s pricing page lists a free plan with 15 Android and 15 iOS builds and over-the-air updates to 1,000 monthly active users, which covers many small apps. Larger teams or apps with many users may need a paid Expo plan held in your own account. We can also create builds locally if you would rather not use Expo’s cloud service." },
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a React Native quote that shows every line",
-    note: `Send your feature list, your website link or a voice note on WhatsApp. In about two working days you get an itemised React Native estimate from ${P.app}, with native modules named, accounts in your name and five months of free fixes after launch.`,
+    note: `Send your feature list, your website link or a voice note on WhatsApp. In about two working days you get an itemised React Native estimate from ${P.app}, with native modules named, accounts in your name and two months of free fixes after launch.`,
   },
 };
 

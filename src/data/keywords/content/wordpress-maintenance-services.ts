@@ -29,7 +29,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "WordPress maintenance services · updates, backups, security, uptime",
     h1: "WordPress maintenance services that test every update before your live site sees it",
-    lede: `WordPress maintenance services are only worth paying for when updates are tried on a staging copy first, backups sit somewhere other than your server, and someone actually reads the security and uptime alerts. BtechWaleTech is three freelance developers in India who run that routine for business sites and WooCommerce stores, then send a plain log of what changed each month. Plans start at ${P.care}, and sites we build get five months of free upkeep first. For broader help, see our <a href='/freelance-wordpress-developer/'>WordPress developer</a> page.`,
+    lede: `WordPress maintenance services are only worth paying for when updates are tried on a staging copy first, backups sit somewhere other than your server, and someone actually reads the security and uptime alerts. BtechWaleTech is three freelance developers in India who run that routine for business sites and WooCommerce stores, then send a plain log of what changed each month. Plans start at ${P.care}, and sites we build get two months of free upkeep first. For broader help, see our <a href='/freelance-wordpress-developer/'>WordPress developer</a> page.`,
     pills: ["Staging-first updates", "Offsite backups", "Restore drills", "Malware scans", "Uptime and SSL alerts", "PHP upgrades", "Monthly change log"],
     origin: "Three freelance developers working remotely from India · WhatsApp replies 7 days a week, IST",
   },
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Security and hosting", "Santosh Sharma (AWS, server hardening)"],
     ["Plans start at", `${P.care} · ${P.careUsd} abroad`],
     ["Update method", "Staging copy first, then live"],
-    ["New builds", "5 months of free maintenance after launch"],
+    ["New builds", "2 months of free maintenance after launch"],
     ["Who owns the site", "You: domain, hosting, logins, backups"],
   ],
   stats: [
     { value: "3", label: "Developers who can read PHP, not only click Update" },
-    { value: "5", label: "Months of free maintenance on sites we build" },
+    { value: "2", label: "Months of free maintenance on sites we build" },
     { value: "2", label: "Working days for an itemised maintenance quote" },
     { value: "7", label: "Days a week the team answers on WhatsApp" },
   ],
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How WordPress maintenance services are priced",
-    note: `Our WordPress maintenance plans start at ${P.care}. Four things move the figure: how many plugins and which page builder the site runs, whether it is a WooCommerce store or membership site where a broken update costs sales, how much traffic and how many user accounts it carries, and how many hours of content edits you want each month. We look at your plugin list, PHP version and hosting before quoting, and an itemised figure follows in about two working days. Nothing is billed before you approve it in writing. Sites we build ourselves get five months of free maintenance after launch before any plan begins.`,
+    note: `Our WordPress maintenance plans start at ${P.care}. Four things move the figure: how many plugins and which page builder the site runs, whether it is a WooCommerce store or membership site where a broken update costs sales, how much traffic and how many user accounts it carries, and how many hours of content edits you want each month. We look at your plugin list, PHP version and hosting before quoting, and an itemised figure follows in about two working days. Nothing is billed before you approve it in writing. Sites we build ourselves get two months of free maintenance after launch before any plan begins.`,
   },
   guideLabel: "WordPress maintenance guide",
   guide: [
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
         `This scenario is illustrative, not a real client. Say a coaching institute in Nashik runs a WordPress site with course pages, a batch timetable, a WooCommerce shop selling test-series packs and an enquiry form feeding WhatsApp. The site was built three years ago and nobody has updated it for eight months.`,
         `Month one is onboarding. The inventory finds PHP two versions behind, 34 plugins of which six are unused and two are abandoned by their authors, and backups stored only on the same shared server. We take an offsite backup, update in steps on staging, replace the abandoned slider and form plugins, and move form email to an authenticated sending service. The test-series checkout gets a test order before and after.`,
         `Months two to five settle into the routine: a monthly staging round, weekly scans, and edits to batch timings before each admission season. In month four a page-builder update breaks the timetable layout on staging; it is held back for a week until the author ships a fix, and the live site never sees the problem.`,
-        `Month six brings the PHP upgrade, tested on staging and switched at night. The quarterly restore drill confirms backups open. By the end of the year the institute has a lighter site, a clean admin list, and a log showing every version change, which makes it easy to judge whether the plan is earning its fee.`,
+        `Month three brings the PHP upgrade, tested on staging and switched at night. The quarterly restore drill confirms backups open. By the end of the year the institute has a lighter site, a clean admin list, and a log showing every version change, which makes it easy to judge whether the plan is earning its fee.`,
       ],
     },
     {
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
         ["Page-builder site", "Elementor or similar, many add-ons", "Builder and add-on version conflicts", `From ${P.care}, quoted by add-on count`],
         ["WooCommerce store", "Catalogue, payments, shipping, invoices", "Test orders, dependency order, session clean-up", `From ${P.care}, quoted by store size`],
         ["Membership or course site", "User accounts, subscriptions, LMS plugin", "Login, renewal and content-access tests", `From ${P.care}, quoted by user count`],
-        ["Site we built for you", "Any of the above", "Five months free after launch", `Then from ${P.care}`],
+        ["Site we built for you", "Any of the above", "Two months free after launch", `Then from ${P.care}`],
       ],
       hideSm: [1],
     },

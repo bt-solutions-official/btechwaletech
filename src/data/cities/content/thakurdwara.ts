@@ -56,7 +56,7 @@ const thakurdwara: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and appointment questions in Hindi at any hour and forward real decisions to the owner.",
     data: "Season dashboards of cane delivered and payments pending, or mentha oil bought, stored and sold by lot.",
     app: "Android and iOS apps for village retailers to reorder from a Thakurdwara dealer or for students to get notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of maintenance free after launch, then from ₹8,000 a month for changes, backups and security updates.",
+    maintenance: "Two months of maintenance free after launch, then from ₹8,000 a month for changes, backups and security updates.",
   },
   whyUsIntro:
     "Thakurdwara owners run tight margins and deal mostly on trust and credit. We work the same way: starting prices in public, a written itemised quote before any work, WhatsApp replies seven days a week, and your domain, hosting, code and app accounts registered in your own name. If a website will not bring you business, we say so.",
@@ -167,7 +167,7 @@ const thakurdwara: CityContent = {
         "<strong>AI or WhatsApp automation</strong>: from ₹40,000, two to four weeks.",
         "<strong>Online store</strong> with UPI and card checkout: from ₹50,000, four to eight weeks.",
         "<strong>Custom software</strong> such as cane or mentha ledgers: from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO</strong>: from ₹10,000 a month. <strong>Maintenance</strong>: from ₹8,000 a month after the free five months.",
+        "<strong>Monthly SEO</strong>: from ₹10,000 a month. <strong>Maintenance</strong>: from ₹8,000 a month after the free two months.",
       ],
     },
     {
@@ -184,7 +184,7 @@ const thakurdwara: CityContent = {
       heading: "Who owns the website, and what maintenance covers",
       paragraphs: [
         "You do, completely. The domain is registered in your name with your email, the hosting account is yours, the full source code is handed over, and your Google Business Profile, Play Store and App Store developer accounts are opened in your name with us added only as helpers. At handover you receive a written list of every username and password. Nobody, us included, can switch your website off or hold it back.",
-        "The first five months after launch carry no maintenance charge. We change rates and photos, take backups, install security and software updates, and check regularly that forms, payments and WhatsApp links work. After that, you can continue with us from ₹8,000 a month, manage small edits yourself, or give the code to any developer you trust.",
+        "The first two months after launch carry no maintenance charge. We change rates and photos, take backups, install security and software updates, and check regularly that forms, payments and WhatsApp links work. After that, you can continue with us from ₹8,000 a month, manage small edits yourself, or give the code to any developer you trust.",
         "Apps need yearly updates even if nothing is wrong, because Google and Apple keep raising their minimum requirements. We watch those deadlines and release updates early so your app is not removed from the stores.",
       ],
     },
@@ -267,7 +267,7 @@ const thakurdwara: CityContent = {
     {
       question: "What maintenance do I get after the website is live?",
       answer:
-        "The first five months of maintenance are free: rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. After that, you may continue from ₹8,000 a month, handle small edits yourself or move to any developer, since you already hold every login.",
+        "The first two months of maintenance are free: rate and photo changes, backups, security updates and checks on forms, payments and WhatsApp links. After that, you may continue from ₹8,000 a month, handle small edits yourself or move to any developer, since you already hold every login.",
     },
     {
       question: "Do you work in Kashipur, Jaspur and Moradabad too?",

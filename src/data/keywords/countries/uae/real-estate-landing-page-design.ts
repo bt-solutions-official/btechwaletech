@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Freelance developers: build, tracking, project management" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "7", label: "Days a week we answer on WhatsApp during a launch" },
-    { value: "5", label: "Months of free maintenance after the page goes live" },
+    { value: "2", label: "Months of free maintenance after the page goes live" },
   ],
   answer: {
     heading: "What makes a real estate landing page convert ad clicks into qualified leads?",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Template and routing set-up", "The page template is adapted to the project brand, and routing rules to agents, WhatsApp and your CRM are configured and tested with sample leads."],
       ["Content and permit block", "Payment plan, unit types, floor plans and gated files placed, permit details filled, and the page checked for speed on real phones."],
       ["Launch and first test", "Ads go live on the approved page, and the first A/B variant runs against a written plan with the deciding metric agreed."],
-      ["Updates through the campaign", "Payment plan changes, new phases and fresh variants are updated on request, with five months of free maintenance after launch."],
+      ["Updates through the campaign", "Payment plan changes, new phases and fresh variants are updated on request, with two months of free maintenance after launch."],
     ],
   },
   faqHeading: "Real estate landing page design: questions brokers and developers ask",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Can the page include a payment plan calculator?", answer: "Yes. A simple calculator turns the payment plan percentages into amounts for a chosen unit, using figures your sales team supplies, with dates labelled as estimates. It makes the plan concrete and often increases price list requests. Keep projected yields or returns off the page unless your team provides and approves them." },
     { question: "Is it safe to hire a remote team in India for launch pages?", answer: "It is when ownership and speed are clear: pages on your domain and hosting, leads in your CRM, test leads run before launch, and staged payments against a written quote. India is 1.5 hours ahead of the UAE, so your launch days overlap with our working hours, and we reply on WhatsApp seven days a week." },
     { question: "Can we reuse one landing page design for every launch?", answer: `Yes, and it saves time and money. A reusable template keeps the tested structure, permit block, routing and tracking, while each launch gets its own content, brand touches and variants. Brokerages running several launches a quarter often choose this under the SEO website plan from ${P.seoSite}.` },
-    { question: "What happens after the campaign ends?", answer: "The page can redirect to the permanent project page on your website, stay live as an archive for resale interest, or be updated for the next phase. Leads remain in your CRM. Five months of free maintenance follow launch; after that, care plans are available if you want continued updates." },
+    { question: "What happens after the campaign ends?", answer: "The page can redirect to the permanent project page on your website, stay live as an archive for resale interest, or be updated for the next phase. Leads remain in your CRM. Two months of free maintenance follow launch; after that, care plans are available if you want continued updates." },
     { question: "Do you also build full real estate websites and apps?", answer: `Yes. Permanent listing websites with CRM feeds start from ${P.seoSite}, and Android and iOS property apps for buyers or owners start from ${P.app}. Many teams start with landing pages for launches, then invest in a website or app once they know which projects and audiences bring the best leads.` },
   ],
   related: {

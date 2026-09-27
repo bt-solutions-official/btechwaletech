@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Checkout languages", "Arabic supported; theme must handle RTL"],
     ["Selling to the GCC", "Shopify Markets, currencies, duties"],
     ["Store ownership", "Your Shopify account, apps and domain"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers on your store" },
     { value: "2", label: "Languages set up: Arabic and English" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a Shopify developer do for a Saudi store?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Shopify Markets for GCC selling", note: "Separate market settings for Saudi Arabia, the UAE, Kuwait and neighbours, with local currency display and shipping rules.", size: "md" },
       { name: "E-invoicing and accounting apps", note: "Installing and configuring an invoicing app that meets ZATCA requirements, chosen with your accountant, and linking orders to your books.", href: "/saudi-arabia/zatca-e-invoicing-integration/", size: "sm" },
       { name: "WhatsApp order updates", note: "Order confirmation, cash-on-delivery checks and shipping updates sent on WhatsApp.", href: "/saudi-arabia/whatsapp-automation-services/", size: "sm" },
-      { name: "Shopify store care", note: `Theme updates, app reviews and fixes after launch; free for five months, then from ${P.care}.`, size: "sm" },
+      { name: "Shopify store care", note: `Theme updates, app reviews and fixes after launch; free for two months, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our Shopify builds start from ${P.shop}. Your running costs are paid to others: the Shopify plan, paid apps, gateway fees per transaction, Shopify’s third-party transaction fee, domain and couriers. We list all of these in the quote so you can compare the true monthly cost against Salla or Zid.`,
         `The build price is driven by the theme and Arabic work, the number of markets, integrations (gateway, courier, invoicing, WhatsApp, reviews), the product data you have ready, and migration. A store with a clean product sheet, one market and a well-built RTL theme sits near the starting price. Custom sections, product configurators and multi-market pricing add to it.`,
-        `After launch you get five months of free maintenance, which covers fixes, theme adjustments and app updates. Care plans after that start from ${P.care}. If you want the store to be found in Arabic and English searches, monthly SEO starts from ${P.seo}; our <a href='/saudi-arabia/seo-services/'>SEO services for Saudi Arabia</a> page explains what that covers. For a broader view of site budgets, see <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a>.`,
+        `After launch you get two months of free maintenance, which covers fixes, theme adjustments and app updates. Care plans after that start from ${P.care}. If you want the store to be found in Arabic and English searches, monthly SEO starts from ${P.seo}; our <a href='/saudi-arabia/seo-services/'>SEO services for Saudi Arabia</a> page explains what that covers. For a broader view of site budgets, see <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a>.`,
       ],
     },
     {
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Here is a hypothetical project. Say a Riyadh oud and perfume brand runs a Zid store for Saudi customers and now wants to sell properly to the UAE, Kuwait and Qatar, with prices in local currencies and one brand site for all of them.`,
         `The plan would start with a cost check: Shopify’s plan and third-party transaction fee against the brand’s monthly order volume, compared with staying on Zid and opening a second store. If Shopify still wins, the build covers an RTL-ready theme with Arabic as the default language, a Saudi market plus a Gulf market with local currency display, a Saudi gateway supporting mada and Apple Pay, courier apps for domestic and GCC shipping, and an invoicing app approved by the brand’s accountant.`,
-        `Migration moves products with Arabic and English names, customers and order history, with every old Zid URL redirected. Gift-set bundles and engraving options would be the main custom sections. That scope would start from our ${P.shop} store price, with the migration and GCC markets as itemised extras on the quote, then five free months of maintenance after launch.`,
+        `Migration moves products with Arabic and English names, customers and order history, with every old Zid URL redirected. Gift-set bundles and engraving options would be the main custom sections. That scope would start from our ${P.shop} store price, with the migration and GCC markets as itemised extras on the quote, then two free months of maintenance after launch.`,
       ],
     },
     {
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You create or share the Shopify store and start gateway onboarding, while we set up the theme on a duplicate copy away from the live store."],
       ["Build in both languages", "Arabic and English storefronts, collections, product data and checkout are built and shared on preview links for your review every week."],
       ["Test and launch", "Test orders with mada, Apple Pay, cards and refunds; courier labels; invoices; redirects if migrating. Then the domain is switched."],
-      ["Care after launch", "Five months of free maintenance covers fixes, app updates and small changes. New features are always quoted in writing first."],
+      ["Care after launch", "Two months of free maintenance covers fixes, app updates and small changes. New features are always quoted in writing first."],
     ],
   },
   faqHeading: "Shopify developer in Saudi Arabia: frequently asked questions",
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
     { question: "Do I need a Saudi Shopify Partner, or can a remote developer do it?", answer: "Shopify work is done entirely online, so a remote developer can build a Saudi store as long as they understand local payments, Arabic RTL and invoicing. What matters is proof: a live Arabic store, a clear gateway plan and ownership in your name. A local partner makes sense if you need in-person workshops." },
     { question: "Which Shopify apps does a Saudi store need?", answer: "Usually a payment gateway app, a courier or shipping app, an invoicing app that supports ZATCA requirements, and possibly reviews and WhatsApp notifications. We keep the list short, because each extra app can slow the store, and we check whether the theme can do the job natively first." },
     { question: "How do I pay a Shopify developer in India from Saudi Arabia?", answer: "Our quotes are in US dollars, paid in milestones by Wise, international bank wire or PayPal. Nothing is billed before you approve the scope in writing. Invoices come from India, so ask your accountant how payments to a non-resident provider are treated for Saudi tax purposes." },
-    { question: "What maintenance does a Shopify store need?", answer: `Themes and apps update regularly, gateways change their integrations, and seasonal campaigns need new sections. We include five months of free maintenance after launch for fixes and small changes, then care plans start from ${P.care}. New features are quoted in writing before any work starts.` },
+    { question: "What maintenance does a Shopify store need?", answer: `Themes and apps update regularly, gateways change their integrations, and seasonal campaigns need new sections. We include two months of free maintenance after launch for fixes and small changes, then care plans start from ${P.care}. New features are quoted in writing before any work starts.` },
     { question: "Can you fix Arabic layout problems on my existing Shopify store?", answer: "Yes. We audit the Arabic storefront on real phones, list every issue from reversed sliders to wrapped prices and mixed-language titles, and quote the fixes. Most problems are solved in the theme’s CSS and Liquid without changing your products or apps, and we work on a duplicate theme so the live store is untouched." },
   ],
   related: {

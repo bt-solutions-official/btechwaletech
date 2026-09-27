@@ -35,7 +35,7 @@ const kashipur: CityContent = {
     pills: ["Sites from ₹10,000", "Vendor and RFQ pages", "Hindi and English", "Plant records software", "WhatsApp lead routing"],
   },
   quickAnswer:
-    "Kashipur businesses can get a website from ₹10,000, typically live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software for plants or institutes at ₹60,000. We are a remote team with no Kashipur office, and five months of maintenance come free.",
+    "Kashipur businesses can get a website from ₹10,000, typically live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software for plants or institutes at ₹60,000. We are a remote team with no Kashipur office, and two months of maintenance come free.",
   snapshot: [
     { label: "District", value: "Udham Singh Nagar, in the Terai plains of Kumaon, Uttarakhand" },
     { label: "Population", value: "About 1.22 lakh in the city and 2.83 lakh in the tehsil (Census 2011)" },
@@ -52,10 +52,10 @@ const kashipur: CityContent = {
     ai: "WhatsApp assistants that sort dealer enquiries, admission questions and hotel bookings in Hindi or English before a person steps in.",
     data: "Dashboards for daily production, reel or batch output, dispatch and collections pulled from the sheets your staff already fill.",
     app: "Android and iOS apps for field sales, security guards and contractors that run on basic handsets, published on both stores from ₹40,000.",
-    maintenance: "Free updates, fixes and backups for five months after launch; ongoing support starts from ₹8,000 a month.",
+    maintenance: "Free updates, fixes and backups for two months after launch; ongoing support starts from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Kashipur businesses usually choose between a relative who builds sites on the side and a Delhi or Dehradun agency that disappears after the advance. We publish starting prices, speak Hindi and English, give you ownership of everything, reply on WhatsApp all seven days, and look after the site free for five months.",
+    "Kashipur businesses usually choose between a relative who builds sites on the side and a Delhi or Dehradun agency that disappears after the advance. We publish starting prices, speak Hindi and English, give you ownership of everything, reply on WhatsApp all seven days, and look after the site free for two months.",
   pricingIntro:
     "These are opening prices for Kashipur projects, not fixed packages. A plant wanting product sheets for forty grades, or a school needing a parent portal, will cost more than a five-page shop site. You receive an itemised quote first and nothing is billed before you approve it in writing.",
   sections: [
@@ -205,7 +205,7 @@ const kashipur: CityContent = {
       heading: "Ownership, handover and support after launch",
       paragraphs: [
         "Many Kashipur businesses have discovered that their old website's domain belongs to a developer they can no longer reach. We prevent that from the start. The domain and hosting are registered in your company's name, every login is handed over at launch, and the code is yours.",
-        "For five months after launch we provide free updates, bug fixes, security patches, backups and uptime monitoring. After that you can continue maintenance from ₹8,000 a month or call us only when needed. There is no lock-in and no exit fee if you move to another developer, and we leave a short handover note so any competent developer can take over.",
+        "For two months after launch we provide free updates, bug fixes, security patches, backups and uptime monitoring. After that you can continue maintenance from ₹8,000 a month or call us only when needed. There is no lock-in and no exit fee if you move to another developer, and we leave a short handover note so any competent developer can take over.",
         "More detail on each type of build is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -286,7 +286,7 @@ const kashipur: CityContent = {
         "You do. Domain and hosting are registered in your name, all logins are handed over at launch and the source code is yours. You can switch developers at any time without an exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "During those months we cover updates, fixes, security patches, backups and uptime checks. After that, maintenance starts from ₹8,000 a month, or you can pay only when you need a change. Nothing is forced.",
     },

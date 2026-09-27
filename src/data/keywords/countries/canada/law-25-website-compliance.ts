@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who build the consent layer" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Privacy page and officer block", note: "A clean, bilingual privacy page template where your lawyer's text drops in, plus a footer block with your privacy officer's title and contact.", href: "/canada/bilingual-website-development/", size: "md" },
       { name: "Shopify and WooCommerce stores", note: `Checkout, marketing pixels and abandoned-cart emails brought in line with visitor choices, as part of store work from ${P.shop}.`, href: "/canada/shopify-developer/", size: "sm" },
       { name: "Vendor information pack", note: "A written description of what data we can see, where it is stored and how access ends, to support your own assessment before you hire us.", size: "sm" },
-      { name: "Ongoing consent upkeep", note: `New tags checked before they go live and banner categories kept current, from ${P.care} after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Ongoing consent upkeep", note: `New tags checked before they go live and banner categories kept current, from ${P.care} after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Law 25 calls it a confidentiality incident, and the CAI says businesses must keep a register of such incidents and communicate it to the Commission when required. Serious incidents trigger notification duties that your lawyer will walk you through.`,
         `In Law 25 website compliance terms, the website's part is to make incidents less likely and easier to understand. We keep plugins and themes updated, limit admin accounts to named people with two-factor login, store form submissions encrypted where the platform allows, and turn on logging so you can later tell what was accessed and when.`,
-        `If we spot something suspicious while working on your site, such as an unknown admin account or injected script, we tell you straight away with what we saw. We do not decide whether it is a reportable incident; that is for you and your adviser. During the five free months after launch, security patches are included; after that, care plans start at ${P.care}.`,
+        `If we spot something suspicious while working on your site, such as an unknown admin account or injected script, we tell you straight away with what we saw. We do not decide whether it is a reportable incident; that is for you and your adviser. During the two free months after launch, security patches are included; after that, care plans start at ${P.care}.`,
       ],
     },
     {
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "Does Law 25 cover chat widgets and embedded videos?", answer: "Anything that sets cookies or sends visitor data to a third party needs a look. Chat widgets, video embeds, maps and social feeds often set tracking cookies as soon as the page loads. We replace embeds with click-to-load placeholders and load chat only after consent for its category, unless your lawyer decides a particular tool is strictly necessary." },
     { question: "Who owns the consent platform account and records?", answer: "You do. Any consent platform subscription is set up in your business's name, and consent records sit in that account or your own database. We work through named access you grant and remove it when the job ends. If you change developers later, nothing needs to be transferred from us." },
     { question: "Do you write the privacy policy?", answer: "No. The policy is a legal document and should come from your lawyer or privacy adviser. We give them a list of what the site actually collects and which tools receive data, which makes drafting faster and more accurate, and then we publish their text as a clean, bilingual web page linked from the footer, forms and banner." },
-    { question: "How do you keep a site compliant after new tools are added?", answer: `New marketing tools are the most common way sites drift out of line. During the five free months after launch we check any tag you add; after that, care plans from ${P.care} include reviewing new scripts before they go live and re-running the clean-browser test. You can also use the checklist on this page yourself.` },
+    { question: "How do you keep a site compliant after new tools are added?", answer: `New marketing tools are the most common way sites drift out of line. During the two free months after launch we check any tag you add; after that, care plans from ${P.care} include reviewing new scripts before they go live and re-running the clean-browser test. You can also use the checklist on this page yourself.` },
     { question: "How do payments and approvals work?", answer: "You receive an itemised quote in USD, and no work or billing starts until you approve it in writing. Payment is by Wise, bank wire or PayPal, with invoices issued from India. Payment stages are set out in your quote, and our terms and refund policy pages describe the general conditions." },
   ],
   related: {

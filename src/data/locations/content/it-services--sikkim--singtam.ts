@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Wholesale order apps", "Stock and credit tracking", "Mobile websites from ₹10,000", "Lead forms to WhatsApp", "Regular updates included"],
   },
   quickAnswer:
-    "For Singtam traders and service businesses, BtechWaleTech, a freelance group of three remote engineers, builds mobile websites from ₹10,000 (1 to 2 weeks), WhatsApp and AI automation from ₹40,000 (2 to 4 weeks) and custom order or stock software from ₹60,000 (6 to 12 weeks). You get an itemised quote in about two working days and five months of free updates and maintenance.",
+    "For Singtam traders and service businesses, BtechWaleTech, a freelance group of three remote engineers, builds mobile websites from ₹10,000 (1 to 2 weeks), WhatsApp and AI automation from ₹40,000 (2 to 4 weeks) and custom order or stock software from ₹60,000 (6 to 12 weeks). You get an itemised quote in about two working days and two months of free updates and maintenance.",
   snapshot: [
     { label: "Location", value: "About 30 km south of Gangtok, where the Rani Khola meets the Teesta; the town spans Gangtok and Pakyong districts" },
     { label: "Road junction", value: "NH10 to Siliguri and Gangtok meets NH510 towards Temi, Namchi and the south, making Singtam a natural trading stop" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that take routine shop orders, share price lists, confirm stock and send payment reminders in Nepali, Hindi or English.",
     data: "Dashboards showing sales by town and retailer, slow stock, outstanding credit and delivery routes for Singtam traders.",
     app: "Android and iOS apps from ₹40,000 for Singtam wholesalers and traders: retailer reorder apps, salesman order-taking and delivery tracking, published on Google Play and the App Store.",
-    maintenance: "Regular updates to prices, photos and offers, plus backups and security checks, free for five months after launch and from ₹8,000 a month later.",
+    maintenance: "Regular updates to prices, photos and offers, plus backups and security checks, free for two months after launch and from ₹8,000 a month later.",
   },
   whyUsIntro:
     "Singtam traders do not need an expensive agency pitch or a system built for a city supermarket. They need order and stock tools that match how the hill trade works, including credit. A freelance group of three engineers can build that at a sensible starting price and answer on WhatsApp every day.",
@@ -177,9 +177,9 @@ const content: CityContent = {
       id: "singtam-updates-maintenance",
       heading: "Regular updates and maintenance without hiring IT staff",
       paragraphs: [
-        "Regular updates keep a Singtam website or app useful: new prices, fresh photos, festival offers, changed timings and fixes to anything that breaks; BtechWaleTech includes five months of maintenance free after launch, covering these updates plus backups, security patches and uptime checks.",
+        "Regular updates keep a Singtam website or app useful: new prices, fresh photos, festival offers, changed timings and fixes to anything that breaks; BtechWaleTech includes two months of maintenance free after launch, covering these updates plus backups, security patches and uptime checks.",
         "You simply send the change on WhatsApp and we make it, usually the same or next working day. We host on reliable cloud servers so local outages do not take the site down, and we keep a backup so nothing is lost.",
-        "After five months, plans start at ₹8,000 a month, or you can pay only for individual changes. We reply seven days a week.",
+        "After two months, plans start at ₹8,000 a month, or you can pay only for individual changes. We reply seven days a week.",
       ],
     },
     {
@@ -272,7 +272,7 @@ const content: CityContent = {
     { question: "Will the WhatsApp bot understand Nepali?", answer: "Yes. The AI assistant can reply in Nepali, Hindi or English, following the customer's language. It uses only your approved price lists and policies, and forwards complaints, special discounts and unusual requests to you." },
     { question: "Can you connect with Tally?", answer: "Often, yes. We can import Tally exports, sync data on a schedule where practical, or export in formats your accountant uses. We prefer working with your existing accounts setup over replacing it, which reduces disruption." },
     { question: "Who owns the website, software and data?", answer: "You do. Domain, hosting, source code and database are in your name or transferred at handover, and your customer and sales data stays with you. You can move to another developer at any time without losing anything." },
-    { question: "How often can we update prices and offers?", answer: "As often as you like. During the five free months of maintenance, send changes on WhatsApp and we update them, usually within a working day. With an admin panel, you can also change prices and photos yourself." },
+    { question: "How often can we update prices and offers?", answer: "As often as you like. During the two free months of maintenance, send changes on WhatsApp and we update them, usually within a working day. With an admin panel, you can also change prices and photos yourself." },
     { question: "How long before we appear on Google Maps?", answer: "A complete and verified Google Business Profile can start showing in local results within a few weeks. Website SEO usually takes three to six months to build steady traffic. We do not guarantee positions, but we report changes and results monthly." },
     { question: "Can you build an Android and iOS app for our retailers and salesmen?", answer: "Yes. Ordering apps for Android and iOS start from ₹40,000 and take six to ten weeks. Retailers reorder and see balances, salesmen take orders offline, and you manage everything from an admin panel. The app runs well on budget Android phones and is published on Google Play and the App Store under your own name." },
     { question: "Do you fix computers or billing machines?", answer: "No. We are remote software engineers and do not repair hardware or install equipment. A local technician handles that. We cover websites, software, apps, automation, hosting and online support." },

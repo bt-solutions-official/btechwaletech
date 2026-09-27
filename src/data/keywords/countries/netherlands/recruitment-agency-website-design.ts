@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Candidate or client portal from", `${P.software}, 6–12 weeks`],
     ["Vacancy source", "Your ATS feed or API, where the vendor provides one"],
     ["Search visibility", "JobPosting structured data on every open vacancy"],
-    ["Care after launch", `5 months free, then from ${P.care}`],
+    ["Care after launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers on the build" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of maintenance after launch, free" },
+    { value: "2", label: "Months of maintenance after launch, free" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What recruitment agency website design costs",
-    note: `Prices are starting points in USD, confirmed in an itemised quote within about two working days. A recruitment site with service pages, vacancy listing, apply flow and employer form starts from ${P.site}. If you run hundreds or thousands of vacancy, sector and city pages, the SEO website plan from ${P.seoSite} fits better, because templates, sitemaps and speed are designed for volume. A candidate or client portal with logins, timesheets or document upload starts from ${P.software}. The ATS connection is quoted separately because every vendor's feed differs. Maintenance is free for five months, then from ${P.care}.`,
+    note: `Prices are starting points in USD, confirmed in an itemised quote within about two working days. A recruitment site with service pages, vacancy listing, apply flow and employer form starts from ${P.site}. If you run hundreds or thousands of vacancy, sector and city pages, the SEO website plan from ${P.seoSite} fits better, because templates, sitemaps and speed are designed for volume. A candidate or client portal with logins, timesheets or document upload starts from ${P.software}. The ATS connection is quoted separately because every vendor's feed differs. Maintenance is free for two months, then from ${P.care}.`,
   },
   guideLabel: "Recruitment agency website design guide",
   guide: [
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
         ["Candidate or client portal", "Logins, documents, timesheets or shift views", P.software, "6–12 weeks"],
         ["AI CV triage for consultants", "Summaries and matching hints, human decides", P.ai, "2–4 weeks"],
         ["Monthly SEO", "Sector pages, technical fixes, reporting", P.seo, "Monthly"],
-        ["Maintenance", "Updates, feed monitoring, small edits", P.care, "Monthly, after 5 free months"],
+        ["Maintenance", "Updates, feed monitoring, small edits", P.care, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
       ["Request ATS credentials", "You ask your vendor for API or feed access in week one, since it is often the longest wait. We never ask for your admin password."],
       ["Build on staging with test data", "Vacancy template, filters, apply flow and employer forms are built and demoed weekly during your late morning or early afternoon."],
       ["Connect the live feed and test", "Real vacancies flow in, applications flow back, markup is validated, consent and retention jobs are checked, and every language is reviewed."],
-      ["Launch and look after it", `Redirects from the old site, Search Console submission and feed monitoring. Five months of maintenance are free, then from ${P.care}.`],
+      ["Launch and look after it", `Redirects from the old site, Search Console submission and feed monitoring. Two months of maintenance are free, then from ${P.care}.`],
     ],
   },
   faqHeading: "Recruitment agency website design: questions from Dutch agencies",
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
     { question: "Where are candidate CVs stored?", answer: "Outside the public web folder, on EU hosting registered to your agency, with access limited by role and downloads logged. Where your ATS is the system of record, the site passes the CV straight through and keeps only what it needs briefly. Deletion runs on the schedule you set." },
     { question: "Who owns the recruitment website and its data?", answer: "Your agency. The domain, hosting, code repository, Search Console and analytics accounts are registered to you. Candidate data belongs to your processes and systems. At handover you receive every login and a short document explaining the feed, the templates and how to change routing rules." },
     { question: "How do we pay a developer team in India?", answer: "Quotes are in USD, invoices come from India, and you pay by Wise, bank wire or PayPal. Payments are tied to milestones such as a staging site with a working feed, and nothing is billed before you approve the quote in writing. Your accountant advises on the VAT treatment of a non-EU invoice." },
-    { question: "What support do we get after launch?", answer: `Five months of free maintenance covering updates, feed monitoring, backups and small fixes. After that, maintenance starts from ${P.care} a month if you want us to continue. If your ATS vendor changes its feed format, we adapt the import under the maintenance plan or a separate quote.` },
+    { question: "What support do we get after launch?", answer: `Two months of free maintenance covering updates, feed monitoring, backups and small fixes. After that, maintenance starts from ${P.care} a month if you want us to continue. If your ATS vendor changes its feed format, we adapt the import under the maintenance plan or a separate quote.` },
     { question: "Can we see progress during the build?", answer: "Yes. Everything is built on a staging site you can open at any time, and each week ends with a video demo during your late morning or early afternoon. Comments go into a shared tracker so decisions are written down, and WhatsApp handles quick questions seven days a week." },
   ],
   related: {

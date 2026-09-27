@@ -57,7 +57,7 @@ const chirmiri: CityContent = {
     ai: "WhatsApp assistants that answer timing, fee and stock questions in Hindi and send real decisions to the owner.",
     data: "Simple dashboards of bills pending, trips completed, admissions or sales by locality.",
     app: "Android and iOS apps for school notices, contractor attendance or local delivery, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free upkeep after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Chirmiri has watched mines close and colonies thin out, so owners here are right to be careful about new spending. We give written starting prices, an itemised quote, WhatsApp replies every day of the week, and ownership of domain, hosting, code and app store accounts from the start. If something will not pay for itself, we say it plainly.",
@@ -179,7 +179,7 @@ const chirmiri: CityContent = {
       heading: "Who owns your Chirmiri website and app, and how upkeep works",
       paragraphs: [
         "Too many small-town websites have disappeared because the builder kept the domain in his own name and then vanished. With us, the domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts are registered to you, and every login is handed over in writing.",
-        "Upkeep is free for the first five months after launch: content changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links keep working. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you may switch developers whenever you like.",
+        "Upkeep is free for the first two months after launch: content changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links keep working. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you may switch developers whenever you like.",
         "Apps need yearly updates as Google and Apple change requirements. We follow those changes and release updates on time so your app stays in the stores.",
       ],
     },
@@ -276,7 +276,7 @@ const chirmiri: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can move your code and accounts to another developer at any time.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can move your code and accounts to another developer at any time.",
     },
     {
       question: "Do you work with businesses in Manendragarh and nearby towns?",

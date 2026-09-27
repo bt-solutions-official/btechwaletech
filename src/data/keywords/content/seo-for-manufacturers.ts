@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers: build, technical SEO and automation" },
     { value: "299+", label: "Pages in the SEO website plan for large catalogues" },
     { value: "0", label: "Other suppliers shown next to your RFQ form" },
-    { value: "5", label: "Months of free maintenance after a new site" },
+    { value: "2", label: "Months of free maintenance after a new site" },
   ],
   answer: {
     heading: "How does SEO for manufacturers bring direct B2B enquiries?",
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["Catalogue site with spec and application pages", "Large catalogues, 299+ pages", `${P.seoSite} (${P.seoSiteUsd})`, "3–5 weeks"],
         ["RFQ portal or dealer login system", "Distributors, repeat buyers, pricing tiers", `${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["AI RFQ triage and routing", "High RFQ volume with attachments", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
-        ["Site care after free period", "Sites we built, after 5 free months", `${P.care}`, "Monthly"],
+        ["Site care after free period", "Sites we built, after 2 free months", `${P.care}`, "Monthly"],
       ],
     },
   ],

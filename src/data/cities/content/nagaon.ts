@@ -7,7 +7,7 @@ const nagaon: CityContent = {
   meta: {
     title: "Nagaon Website Developer, SEO & Online Stores",
     description:
-      "Websites, Assamese and English SEO, UPI stores and WhatsApp bots for Nagaon shops, clinics, colleges and rice traders. Sites from ₹10,000, 5 months upkeep free.",
+      "Websites, Assamese and English SEO, UPI stores and WhatsApp bots for Nagaon shops, clinics, colleges and rice traders. Sites from ₹10,000, 2 months upkeep free.",
     keywords: [
       "website development team in Nagaon",
       "web designer Nagaon Assam",
@@ -31,11 +31,11 @@ const nagaon: CityContent = {
     eyebrow: "Nagaon · Central Assam",
     h1: "Websites, search visibility and automation for Nagaon and Haibargaon businesses",
     lede:
-      "We are three engineers working remotely who build websites, Assamese and English SEO pages, UPI stores and WhatsApp automations for Nagaon businesses: shops in Bara Bazar and Haibargaon Bazar, clinics and diagnostic centres, coaching institutes near the colleges, rice and fish traders, and hotels serving Kaziranga visitors. Prices start from ₹10,000 with five months of free upkeep.",
+      "We are three engineers working remotely who build websites, Assamese and English SEO pages, UPI stores and WhatsApp automations for Nagaon businesses: shops in Bara Bazar and Haibargaon Bazar, clinics and diagnostic centres, coaching institutes near the colleges, rice and fish traders, and hotels serving Kaziranga visitors. Prices start from ₹10,000 with two months of free upkeep.",
     pills: ["Sites from ₹10,000", "Assamese, Bengali, Hindi, English", "Clinic booking forms", "Hotel and homestay pages", "Code and domain are yours"],
   },
   quickAnswer:
-    "For a Nagaon business, our static website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store with UPI from ₹50,000. We are a remote team of three engineers with no Nagaon office, and maintenance is free for five months after launch.",
+    "For a Nagaon business, our static website starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp or AI automation from ₹40,000 and an online store with UPI from ₹50,000. We are a remote team of three engineers with no Nagaon office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Central Assam, about 120 km east of Guwahati by road, with the Kolong river dividing Nagaon from Haibargaon" },
     { label: "Markets", value: "Bara Bazar, Natun Bazar and Haibargaon Bazar are the main market places" },
@@ -52,7 +52,7 @@ const nagaon: CityContent = {
     ai: "WhatsApp assistants that answer timings, fees, stock and booking questions in Assamese, Bengali, Hindi or English and pass tricky ones to staff.",
     data: "Dashboards for wholesalers, schools and clinics showing sales, admissions or patient footfall by month instead of scattered registers.",
     app: "Android and iOS apps for delivery staff, student attendance or patient queues, built in Flutter or React Native and published on both stores.",
-    maintenance: "Price and notice updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Price and notice updates, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Nagaon owners usually choose between a local computer centre that builds a basic site, or a Guwahati agency whose quote includes its office costs. We offer a third option: published starting prices, direct access to the three engineers who build your site, replies seven days a week, and full ownership of your domain, hosting and code.",
@@ -164,11 +164,11 @@ const nagaon: CityContent = {
     },
     {
       id: "ownership-nagaon",
-      heading: "Ownership, handover and five months of free maintenance",
+      heading: "Ownership, handover and two months of free maintenance",
       paragraphs: [
         "A frequent problem in towns like Nagaon is the orphaned website: the person who built it has moved away, the domain is registered to an email nobody can open, and the site disappears. We prevent that by registering the domain in your name and keeping hosting in your own account. At launch, you receive every login and a one-page note explaining where everything is.",
-        "The source code belongs to you. You can continue with us, move to a developer in Guwahati or train your own staff later, with no exit fee and no lock-in. For five months after launch, maintenance is free, covering text and price updates, bug fixes, software and security updates, backups, uptime monitoring and speed checks.",
-        "After five months, ongoing maintenance starts from ₹8,000 a month. You can also skip the monthly plan and simply message us when you need a change, paying only for that job.",
+        "The source code belongs to you. You can continue with us, move to a developer in Guwahati or train your own staff later, with no exit fee and no lock-in. For two months after launch, maintenance is free, covering text and price updates, bug fixes, software and security updates, backups, uptime monitoring and speed checks.",
+        "After two months, ongoing maintenance starts from ₹8,000 a month. You can also skip the monthly plan and simply message us when you need a change, paying only for that job.",
       ],
     },
     {
@@ -257,9 +257,9 @@ const nagaon: CityContent = {
         "Yes. The domain is registered in your name, hosting sits in your own account, and at launch you receive every login and the source code. You can move to another developer whenever you want, without an exit fee. We insist on this to avoid the lost-website problems many Nagaon businesses have faced.",
     },
     {
-      question: "What does the five months of free maintenance cover?",
+      question: "What does the two months of free maintenance cover?",
       answer:
-        "For five months after launch, we handle text and price updates, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work.",
+        "For two months after launch, we handle text and price updates, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance starts from ₹8,000 a month, or you can contact us only when a change is needed and pay for that work.",
     },
     {
       question: "How long does SEO take to show results in Nagaon?",

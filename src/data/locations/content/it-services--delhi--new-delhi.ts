@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that draft routine letters and summaries, extract details from documents, and answer first-level client questions without exposing confidential files.",
     data: "Dashboards showing billable work, receivables, project progress and grant utilisation for partners, directors and boards.",
     app: "Android and iOS apps for New Delhi practices and institutions, letting clients upload documents, members renew and staff approve work, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Security updates, backups, uptime checks and fixes, free for five months after launch and from ₹8,000 per month afterwards.",
+    maintenance: "Security updates, backups, uptime checks and fixes, free for two months after launch and from ₹8,000 per month afterwards.",
   },
   whyUsIntro:
     "Central New Delhi offices pay some of the highest rents in the country, and many IT vendors price their work accordingly. As a freelance group working remotely, we skip that overhead: you speak with the engineers themselves, receive a written, itemised scope, and keep ownership of every repository, domain and database from day one.",
@@ -178,7 +178,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting for New Delhi professional firms must combine reliability with confidentiality: encrypted connections, regular backups, access controls, audit logs and a clear plan for what happens if something goes wrong. We deploy on AWS or comparable providers, choosing Indian data centre regions where data residency matters.",
         "We set up role-based access so juniors cannot see partner-only data, two-factor authentication for administrators, and backups that are tested rather than assumed. Deployment runs through a controlled pipeline, and every change is recorded in the code repository you own.",
-        "Five months of maintenance after launch are included free, covering updates, backups, security patches and monitoring. After that, maintenance plans start from ₹8,000 a month. We document the setup so your own IT person or another developer can take over at any time.",
+        "Two months of maintenance after launch are included free, covering updates, backups, security patches and monitoring. After that, maintenance plans start from ₹8,000 a month. We document the setup so your own IT person or another developer can take over at any time.",
       ],
     },
     {
@@ -296,7 +296,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get after launch?",
       answer:
-        "Five months of free maintenance once the system is live: security updates, bug fixes, backups, small changes and uptime monitoring. After that, plans start from ₹8,000 a month, or you can request work as needed.",
+        "Two months of free maintenance once the system is live: security updates, bug fixes, backups, small changes and uptime monitoring. After that, plans start from ₹8,000 a month, or you can request work as needed.",
     },
     {
       question: "Can the website and portal be bilingual?",

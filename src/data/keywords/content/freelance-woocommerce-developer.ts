@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Platform licence", "WooCommerce core is free and open source"],
     ["Hosting and domain", "Registered and billed in your name"],
     ["Quote", "Itemised within about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can work on your store" },
     { value: "0", label: "Monthly platform subscription for WooCommerce core" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
     { value: "2", label: "Working days for an itemised quote" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "India setup", value: "GST tax classes, HSN on invoices, UPI, COD rules" },
       { label: "Shipping", value: "Pincode checks, weight slabs, courier label sync" },
       { label: "Ownership", value: "Hosting, domain, admin and code in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       heading: "How much does a WooCommerce store cost to build and run?",
       paragraphs: [
         `With us a WooCommerce store starts at ${P.shop} (${P.shopUsd} for international clients). That covers a focused store: theme setup and styling, categories and a starter catalogue, checkout with UPI and cards, GST invoices, shipping zones, order emails and launch on your hosting.`,
-        `Running costs sit outside our invoice and are paid by you directly: domain renewal, hosting (sized to your traffic), premium plugin or theme licences if you choose any, and payment provider fees per transaction. WooCommerce core itself has no licence fee. Once the five free months of maintenance end, optional care plans start at ${P.care}.`,
+        `Running costs sit outside our invoice and are paid by you directly: domain renewal, hosting (sized to your traffic), premium plugin or theme licences if you choose any, and payment provider fees per transaction. WooCommerce core itself has no licence fee. Once the two free months of maintenance end, optional care plans start at ${P.care}.`,
         `Across the market, WooCommerce quotes vary widely for the same brief. The differences usually come from theme work (bought theme vs designed layout), who loads the catalogue, how carefully tax and shipping are tested, and whether support after launch is included. Put those four questions to every freelance WooCommerce developer you speak to.`,
       ],
     },
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show how a WooCommerce project unfolds, not a client account.`,
         `A handloom saree seller in a tier-2 city sells through Instagram and WhatsApp and wants a proper store. Around 250 products, each with a few colour variations. Most buyers are outside the seller's state, some want COD, and two boutique buyers need GST invoices with their GSTIN.`,
-        `We would quote the WooCommerce store plan starting at ${P.shop}, with lines for bulk product import from the seller's spreadsheet and a WhatsApp order-alert automation. Setup covers a light theme styled around large product photos, variations for colour, a 5% tax class with HSN codes on each product, IGST for inter-state orders, an optional GSTIN field at checkout, COD capped by order value with WhatsApp confirmation, pincode checks, and automatic shipment creation through a courier aggregator. Testing includes orders to three states with each payment method before launch. After go-live, five months of maintenance cover updates and small changes.`,
+        `We would quote the WooCommerce store plan starting at ${P.shop}, with lines for bulk product import from the seller's spreadsheet and a WhatsApp order-alert automation. Setup covers a light theme styled around large product photos, variations for colour, a 5% tax class with HSN codes on each product, IGST for inter-state orders, an optional GSTIN field at checkout, COD capped by order value with WhatsApp confirmation, pincode checks, and automatic shipment creation through a courier aggregator. Testing includes orders to three states with each payment method before launch. After go-live, two months of maintenance cover updates and small changes.`,
       ],
     },
     {
@@ -271,7 +271,7 @@ const content: FreelanceContent = {
       heading: "WooCommerce store banwana hai? Kaam ki baatein",
       paragraphs: [
         `WooCommerce WordPress ka free plugin hai, isliye har mahine platform ki fees nahi lagti. Hosting aur domain aapke naam par hote hain, store poori tarah aapka rehta hai.`,
-        `Hum store ${P.shop} se banate hain, 4–8 hafte mein. Isme UPI aur card payment, GST wale invoice (HSN code ke saath), pincode check aur courier se automatic shipment shamil hai. COD chahiye toh limit aur WhatsApp confirmation bhi laga sakte hain. Tax ki settings aapke CA ke hisaab se karte hain. Launch ke baad 5 mahine maintenance free hai.`,
+        `Hum store ${P.shop} se banate hain, 4–8 hafte mein. Isme UPI aur card payment, GST wale invoice (HSN code ke saath), pincode check aur courier se automatic shipment shamil hai. COD chahiye toh limit aur WhatsApp confirmation bhi laga sakte hain. Tax ki settings aapke CA ke hisaab se karte hain. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
         ["Headless store or large custom portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "When WooCommerce alone is not enough"],
         ["WhatsApp order and dispatch automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Can be added to any store"],
         ["Ongoing ecommerce SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Categories, schema, content, Search Console"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes, small changes"],
       ],
       hideSm: [2],
     },
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Create accounts together", "Hosting, domain, payment provider and courier accounts are opened in your name; we are added as users with only the access we need."],
       ["Test the store on staging", "You browse, add to cart and place test orders on a private staging copy, and send feedback directly to the developers."],
       ["Go live with real orders", "After final checks we switch the domain, run small real orders with each payment method, and connect Google Search Console."],
-      ["Five months of free upkeep", "Plugin updates, backups and small fixes are free for five months. Care plans from " + P.care + " continue only if you choose."],
+      ["Two months of free upkeep", "Plugin updates, backups and small fixes are free for two months. Care plans from " + P.care + " continue only if you choose."],
     ],
   },
   faqHeading: "Freelance WooCommerce developer: frequently asked questions",
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "How do you update WooCommerce without breaking the store?", answer: "We copy the live store to a staging site, apply WordPress, WooCommerce and plugin updates there, place test orders and check key pages. Only then are updates applied to the live store at a quiet hour, with a fresh backup taken just before. This avoids checkout failures during business hours." },
     { question: "Can you add wholesale pricing to a WooCommerce store?", answer: "Yes. Common setups show trade prices to approved business accounts, apply quantity-based tiers, set minimum order quantities, and offer a quick bulk order form listing many products on one page. We usually build this as a small custom plugin so it stays light and fits your exact rules." },
     { question: "Will my WooCommerce store rank on Google?", answer: `A well-built store gives Google clean category structure, product schema, fast pages and a sitemap, which helps. Rankings still depend on competition, content and links over months, and nobody can guarantee them. Ongoing ecommerce SEO with monthly Search Console reports starts at ${P.seo}.` },
-    { question: "What maintenance does a WooCommerce store need?", answer: `Regular WordPress, WooCommerce and plugin updates tested on staging, daily database backups stored off the server, uptime and security monitoring, renewal tracking for licences, and occasional speed checks. BtechWaleTech includes five months of free maintenance after launch; after that care plans start at ${P.care}.` },
+    { question: "What maintenance does a WooCommerce store need?", answer: `Regular WordPress, WooCommerce and plugin updates tested on staging, daily database backups stored off the server, uptime and security monitoring, renewal tracking for licences, and occasional speed checks. BtechWaleTech includes two months of free maintenance after launch; after that care plans start at ${P.care}.` },
     { question: "Can I manage products myself after launch?", answer: "Yes. WooCommerce's admin lets you add products, change prices and stock, run coupons and process orders without a developer. At handover we give you a short guide for daily tasks such as adding a product with variations, issuing a refund and changing a shipping charge." },
     { question: "WooCommerce store banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath WooCommerce store ${P.shop} se shuru hota hai aur 4–8 hafte mein live hota hai. UPI, card, GST invoice aur shipping setup shamil hai. Products ki sankhya, custom features aur migration se kharcha badh sakta hai. Pehle itemised quote milta hai, approval ke baad hi payment hota hai.` },
   ],
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a freelance WooCommerce developer? Send us your product list",
-    note: `Message us on WhatsApp with what you sell and where your buyers are. You will get an itemised quote in about two working days, with WooCommerce stores starting at ${P.shop}, every account in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with what you sell and where your buyers are. You will get an itemised quote in about two working days, with WooCommerce stores starting at ${P.shop}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

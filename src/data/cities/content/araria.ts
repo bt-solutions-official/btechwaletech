@@ -56,7 +56,7 @@ const araria: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rate, stock, fee and timing questions, then hand the tricky ones to a person.",
     data: "Dashboards showing purchases by season, truck dispatches, retailer dues and admissions by month.",
     app: "Android and iOS apps for village retailers to re-order stock or for coaching students to follow classes, from ₹40,000, listed on the Play Store and Apple's App Store.",
-    maintenance: "No maintenance charge for the first five months; after that, care plans begin at ₹8,000 monthly.",
+    maintenance: "No maintenance charge for the first two months; after that, care plans begin at ₹8,000 monthly.",
   },
   whyUsIntro:
     "Araria businesses work on thin margins and trust built over years. We publish starting prices, send a written itemised quote, answer WhatsApp seven days a week and keep domain, hosting, code and store logins under your ownership. A feature that cannot pay for itself gets flagged before you spend on it.",
@@ -177,7 +177,7 @@ const araria: CityContent = {
       heading: "Ownership and maintenance for Araria websites and apps",
       paragraphs: [
         "Plenty of small-town websites vanish because whoever built them held the domain and then stopped answering calls. To avoid that, your domain, hosting, source code, Google Business Profile and both app store developer accounts are opened under your name, and every password is handed over on paper and by message.",
-        "After launch, five months of upkeep cost nothing. That covers price and content edits, backups, security patches, software upgrades, and routine tests of forms, payment links and WhatsApp buttons. From month six, care plans are ₹8,000 a month onwards if you want us to carry on, and you remain free to hire any other developer instead.",
+        "After launch, two months of upkeep cost nothing. That covers price and content edits, backups, security patches, software upgrades, and routine tests of forms, payment links and WhatsApp buttons. From month three, care plans are ₹8,000 a month onwards if you want us to carry on, and you remain free to hire any other developer instead.",
         "Google and Apple revise store rules every year, and an app that falls behind can be delisted. We watch those notices and ship updates on time. When you are ready, send a message on WhatsApp or fill in the <a href=\"/contact/\">contact form</a>.",
       ],
     },
@@ -260,7 +260,7 @@ const araria: CityContent = {
     {
       question: "What happens to maintenance after launch?",
       answer:
-        "Upkeep is free for the first five months: edits, backups, security patches and regular tests of forms, payments and WhatsApp buttons. From the sixth month, plans are ₹8,000 a month onwards if you want us to continue. You may also take the code elsewhere at any point, and we help with the handover.",
+        "Upkeep is free for the first two months: edits, backups, security patches and regular tests of forms, payments and WhatsApp buttons. From the third month, plans are ₹8,000 a month onwards if you want us to continue. You may also take the code elsewhere at any point, and we help with the handover.",
     },
     {
       question: "Do you also work in Forbesganj, Jogbani, Purnia and Kishanganj?",

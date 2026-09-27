@@ -31,11 +31,11 @@ const medinipur: CityContent = {
     eyebrow: "Medinipur (Midnapore) · Paschim Medinipur, West Bengal",
     h1: "Web, app, SEO and automation services for Midnapore's clinics, colleges, courts and craft makers",
     lede:
-      "We are three engineers who build websites and search listings for businesses in Medinipur town and the district around it: doctors near the medical college, coaching centres serving Vidyasagar University students, traders in Bara Bazar and Raja Bazar, advocates near the court, and patachitra and madur makers. Prices are published, and the first five months of upkeep cost nothing.",
+      "We are three engineers who build websites and search listings for businesses in Medinipur town and the district around it: doctors near the medical college, coaching centres serving Vidyasagar University students, traders in Bara Bazar and Raja Bazar, advocates near the court, and patachitra and madur makers. Prices are published, and the first two months of upkeep cost nothing.",
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Clinic and diagnostic sites", "Patachitra and madur stores", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A basic website for a Medinipur business starts at ₹10,000 with us and is usually ready in one to two weeks. A 299+ page site built for search starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Midnapore office, and maintenance is free for five months after launch.",
+    "A basic website for a Medinipur business starts at ₹10,000 with us and is usually ready in one to two weeks. A 299+ page site built for search starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Midnapore office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Paschim Medinipur district, on the Kangsabati (Kasai) river, about 13 km from Kharagpur" },
     { label: "Population", value: "About 1.69 lakh at the 2011 census across 25 municipal wards, with Mohanpur, Keranichati and Khayerullachak in the urban area" },
@@ -52,7 +52,7 @@ const medinipur: CityContent = {
     ai: "WhatsApp auto-replies in Bengali, Hindi or English for fees, doctor timings and stock questions, with people taking anything sensitive.",
     data: "Clean dashboards that turn admissions, patient footfall or sales registers into numbers an owner can read on a phone each week.",
     app: "Android and iOS apps for attendance, test schedules or field orders that keep working on weak rural data, released on Google Play and the App Store.",
-    maintenance: "Backups, updates, uptime checks and small edits free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Backups, updates, uptime checks and small edits free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "In Midnapore a website is often made by a computer training centre, a nephew in Kolkata or an agency that disappears after the advance. The domain ends up in someone else's name and the site stops being updated. We are a small remote team with published rates, written quotes and direct access to the engineers, and you hold every login from launch day.",
@@ -177,7 +177,7 @@ const medinipur: CityContent = {
       paragraphs: [
         "A common story across the district: a business paid for a website, the developer registered the domain under his own name, and when the renewal came round his number no longer worked. The site went dark and the business lost the name it had printed on every bill and signboard.",
         "We register the domain and hosting in your name and payment account from day one. At launch you receive every login, the full source code and a short note on how the site is set up. You can move to any developer at any time, with no exit fee. Our <a href=\"/services/web-development/\">web development</a> uses common, documented tools so that handover is easy.",
-        "For five months after launch we maintain the site free: updates, backups, security fixes, uptime checks and small text or photo changes. After that you can continue from ₹8,000 a month or call us only when needed.",
+        "For two months after launch we maintain the site free: updates, backups, security fixes, uptime checks and small text or photo changes. After that you can continue from ₹8,000 a month or call us only when needed.",
       ],
     },
     {
@@ -268,7 +268,7 @@ const medinipur: CityContent = {
     {
       question: "What happens after launch?",
       answer:
-        "For five months we maintain the site free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months we maintain the site free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long does SEO take to work in Medinipur?",

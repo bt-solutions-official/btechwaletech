@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Buyer portal / sample tracking", `From ${P.software}`],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Ownership", "Domain, hosting and code in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or listing fees on enquiries" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Buyer login, sample tracking", value: `From ${P.software}, 6–12 weeks` },
       { label: "Data you supply", value: "Spreadsheet of articles with specs, photos, certificate copies" },
       { label: "Payments to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, from the same spreadsheet or a simple admin panel, without calling a developer every time a new quality comes off the loom. That is the practical difference between a catalogue that stays current and one that goes stale within a season.`,
         `For most mills we recommend the spreadsheet route: your merchandiser adds a row with the article number, specs and photo file names, and the site rebuilds. It suits teams who already live in Excel or Google Sheets. For businesses with several people editing, or with frequent price changes behind a login, an admin panel with roles is better, and that is part of a custom build.`,
-        `Discontinued articles should not simply vanish. Buyers may have bookmarked them or quoted them in old emails. We mark them as discontinued, point to the closest current alternative and keep the page live, which also preserves any search visibility the page earned. During the first five months after launch our free maintenance covers help with updates and fixes; after that, maintenance starts at ${P.care}.`,
+        `Discontinued articles should not simply vanish. Buyers may have bookmarked them or quoted them in old emails. We mark them as discontinued, point to the closest current alternative and keep the page live, which also preserves any search visibility the page earned. During the first two months after launch our free maintenance covers help with updates and fixes; after that, maintenance starts at ${P.care}.`,
       ],
     },
     {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Data clean-up", "We flag missing specs and mixed units; your merchandiser fills gaps. This step decides how useful the filters will be, so it is worth a few days."],
       ["Templates on test data", "You review the group page, article page, sample request and enquiry form on sample data before your full range goes in."],
       ["Import, routing, testing", "We load every article, connect filters, set email and WhatsApp routing, and you test as a buyer from a phone and a laptop."],
-      ["Launch and handover", "Search Console, sitemap, analytics and every login are handed to you. Five months of free maintenance begin on launch day."],
+      ["Launch and handover", "Search Console, sitemap, analytics and every login are handed to you. Two months of free maintenance begin on launch day."],
     ],
   },
   faqHeading: "Textile company website design: questions buyers and mill owners ask",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Should I show GOTS and OEKO-TEX certificates on my website?", answer: "Yes, if you hold them, but show scope, certificate number, issuing body and validity, not just a logo. Link each certificate to the articles it actually covers and, where the issuer offers a public check, link to it. You supply the documents and confirm scope; questions about the standards themselves go to your certification body." },
     { question: "Do I need a website if I already list on B2B directories?", answer: "A directory brings enquiries but places competitors beside you and limits how much detail you can show. Your own site lets buyers filter your whole range, request samples and verify certificates, and every lead belongs to you. Many textile businesses keep both: the directory for domestic traders, the website for serious and export buyers." },
     { question: "Can the website show prices to some buyers only?", answer: `Yes. Public pages can show specs without prices, while approved buyers log in to see their own price lists, order history and sample status. That is a buyer portal, which falls under custom software starting at ${P.software}, because it needs user accounts, roles and secure data handling.` },
-    { question: "Who updates new fabric articles after launch?", answer: "Your team does. In most builds a merchandiser adds a row to the spreadsheet with the article number, specs and photo names, and the site updates. Larger teams can have an admin panel with separate roles. During the five months of free maintenance after launch we help with any update that is not working as expected." },
+    { question: "Who updates new fabric articles after launch?", answer: "Your team does. In most builds a merchandiser adds a row to the spreadsheet with the article number, specs and photo names, and the site updates. Larger teams can have an admin panel with separate roles. During the two months of free maintenance after launch we help with any update that is not working as expected." },
     { question: "Will my textile website rank on Google?", answer: "Nobody can honestly guarantee rankings. What we do is build the foundations: fast pages, clean URLs naming the fabric, structured data, sitemaps, specific article and market pages, and Search Console set up in your name. Specific fabric pages tend to match precise buyer searches well, but results take months and depend on competition." },
     { question: "Can you build pages for export buyers in other countries?", answer: "Yes. We write or format pages aimed at particular markets and uses, showing units buyers expect such as GSM with ounces per square yard, and widths in centimetres and inches. If you run the site in more than one language, you supply or approve the translations and we set up the language versions correctly." },
     { question: "Do I own the website, domain and code?", answer: "Yes. The domain, hosting account, code repository and analytics are registered to your business from the start. If you later move to another developer, they receive everything. We never hold your accounts hostage, and your spreadsheet of articles stays your master data." },
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
     { question: "How do payments work if I hire BtechWaleTech?", answer: "In India you pay by UPI or bank transfer against an itemised quote, and nothing is billed until you approve the quote in writing. Clients outside India pay in US dollars by Wise, bank wire or PayPal. Milestones and payment stages are set out in your written quote." },
     { question: "Do you visit our mill to take photos or gather details?", answer: "No. We work remotely from India over WhatsApp, calls and screen sharing, and we do not make site visits. You or a local photographer take the swatch photos; we give you a short checklist of angles and lighting so every article looks consistent on the site." },
     { question: "Can the site connect to our CRM or ERP?", answer: "Usually yes. Enquiries and sample requests can go to a Google Sheet, a CRM such as Zoho, or your ERP if it has an API. Pulling stock or article data from an ERP is also possible, depending on what the system exposes. We check your system during the quote stage and price the integration separately." },
-    { question: "What happens after the five months of free maintenance?", answer: `You can continue with monthly maintenance starting at ${P.care}, which covers updates, fixes and backups, or manage the site yourself or with another developer since you own everything. Ongoing SEO work, if you want it, is separate and starts at ${P.seo}. Terms are agreed in writing.` },
+    { question: "What happens after the two months of free maintenance?", answer: `You can continue with monthly maintenance starting at ${P.care}, which covers updates, fixes and backups, or manage the site yourself or with another developer since you own everything. Ongoing SEO work, if you want it, is separate and starts at ${P.seo}. Terms are agreed in writing.` },
     { question: "Can AI search tools like ChatGPT find my fabric pages?", answer: "They can cite pages that are publicly accessible and state facts plainly. Article pages with a clear one-line description and a structured spec table are easy for AI answers to quote. We keep pages crawlable, add structured data and avoid hiding specs inside images or PDFs, which AI tools and search engines read poorly." },
     { question: "Textile company ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath simple catalogue website ${P.site} se shuru hoti hai, aur badi range jisme GSM, count aur composition filters chahiye, woh ${P.seoSite} se shuru hoti hai. Final kharcha aapke articles ki ginti aur data ki halat par depend karta hai. Quote itemised hota hai aur approval ke bina kuch bill nahi hota.` },
   ],
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to put your fabric range where buyers can filter it?",
-    note: `Send your article spreadsheet and a few swatch photos on WhatsApp. You will get an itemised quote in about two working days, catalogue sites from ${P.site}, large filterable ranges from ${P.seoSite}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send your article spreadsheet and a few swatch photos on WhatsApp. You will get an itemised quote in about two working days, catalogue sites from ${P.site}, large filterable ranges from ${P.seoSite}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

@@ -40,7 +40,7 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Developers covering web, payments logic and automation" },
-    { value: "5", label: "Months of free maintenance after going live" },
+    { value: "2", label: "Months of free maintenance after going live" },
     { value: "0", label: "Commission taken on your bookings" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp reminders and updates", note: "Automated reminders before each clean and a message when the cleaner is on the way.", href: "/uk/whatsapp-business-api-integration/", size: "md" },
       { name: "Local SEO for cleaners", note: `Town pages, Google Business Profile and Search Console reporting from ${P.seo}. No promised rankings.`, href: "/uk/local-seo-services/", size: "md" },
       { name: "Accounts integration", note: "Payments and invoices flowing into your accounting software.", href: "/uk/xero-integration-developer/", size: "sm" },
-      { name: "Care after launch", note: `Updates, backups and price changes from ${P.care} after five free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
+      { name: "Care after launch", note: `Updates, backups and price changes from ${P.care} after two free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
     ],
   },
   comparison: {
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting and payment provider accounts opened in your name, so money and data flow straight to you."],
       ["Calculator and booking on preview", "The calculator is tested against real jobs you have priced; recurring booking is built with your skip and pause rules."],
       ["Test payments end to end", "Test bookings, saved-card charges, Direct Debit set-up and refunds run in test mode before anything goes live."],
-      ["Launch and five free months", "The site goes live, you take real bookings, and fixes and small changes are free for five months after launch."],
+      ["Launch and two free months", "The site goes live, you take real bookings, and fixes and small changes are free for two months after launch."],
     ],
   },
   faqHeading: "Cleaning company website design: questions UK cleaners ask",
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
     { question: "Who owns the customer data and booking system?", answer: "You do. The domain, hosting, code, database and payment provider account are in your name. Your customer list is never locked inside our system, and you can export it at any time. If you move to another developer, they can take over from your accounts without needing anything from us." },
     { question: "Can a team in India build a cleaning website for a UK business?", answer: "Yes. You send your price list, services, areas and photos, often on WhatsApp; we build on a preview link and test the calculator against real jobs you have priced. There is no UK office and no site visit. Quotes are in USD, payable by Wise, bank wire or PayPal, with nothing billed before you approve." },
     { question: "Can the website send booking reminders by WhatsApp?", answer: `Yes. Automated reminders before each clean, a message when the cleaner is on the way and a follow-up asking for a review can be sent by WhatsApp or email, using customer consent collected at booking. Simple reminders are part of a booking build; wider automation starts at ${P.ai}.` },
-    { question: "What ongoing costs does a cleaning website have?", answer: `Hosting and domain renewal paid directly by you, payment provider fees charged by the provider on each transaction, and optional care from ${P.care} after five free months of maintenance. Monthly SEO from ${P.seo} is optional. There is no commission to us on your bookings.` },
+    { question: "What ongoing costs does a cleaning website have?", answer: `Hosting and domain renewal paid directly by you, payment provider fees charged by the provider on each transaction, and optional care from ${P.care} after two free months of maintenance. Monthly SEO from ${P.seo} is optional. There is no commission to us on your bookings.` },
     { question: "Does a cleaning website need a cookie banner?", answer: "If it uses non-essential cookies, such as advertising pixels or most analytics tools, the ICO’s PECR guidance requires consent before they are set, so those cookies stay off until the visitor agrees. Cookies strictly necessary for booking and payment do not need consent. You also need a privacy notice covering bookings and applications." },
   ],
   related: {

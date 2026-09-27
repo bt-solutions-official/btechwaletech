@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["What you get", "Commented .xlsm or .xlam plus a run guide"],
     ["Works on", "Excel for Windows desktop (VBA)"],
     ["Code ownership", "Yours, unlocked, from day one"],
-    ["Support", "5 months of free fixes after handover"],
+    ["Support", "2 months of free fixes after handover"],
   ],
   stats: [
     { value: "3", label: "Freelance developers: code, data and project handling" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after the macro goes live" },
+    { value: "2", label: "Months of free fixes after the macro goes live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "2–4 weeks, including testing on your real files" },
       { label: "Runs on", value: "Excel for Windows desktop; Office Scripts for the web" },
       { label: "Security", value: "Digitally signed macros or a trusted folder, set up with you" },
-      { label: "After handover", value: `5 months free, then maintenance from ${P.care}` },
+      { label: "After handover", value: `2 months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Power Query considered", "Seldom", "Seldom", "Chosen where it is simpler than VBA"],
       ["Time it takes away from their job", "A lot", "None", "None"],
       ["If they leave or disappear", "Knowledge leaves too", "Hard to reach", "Run guide and code stay with you"],
-      ["Fixes after delivery", "When they find time", "New order per fix", `5 months free, then from ${P.care}`],
+      ["Fixes after delivery", "When they find time", "New order per fix", `2 months free, then from ${P.care}`],
       ["Honest advice to stop using Excel", "Unlikely", "Unlikely", "Yes, when the file has outgrown it"],
     ],
     fine: "If your macro need is a single recorded routine that formats one sheet, a colleague with the macro recorder can do it in an afternoon, and paying anyone would be overkill.",
@@ -186,7 +186,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, Excel automation projects start at ${P.ai} (about ${P.aiUsd} for clients abroad), and most report or template projects finish in two to four weeks. Other freelancers quote hourly, per macro or per project, and rates vary widely, so compare scope rather than headline numbers.`,
         `Five things move an Excel VBA quote more than anything else. The number and messiness of input files: a clean CSV from software is easy, a hand-typed sheet from each branch is not. The number of outputs: one summary sheet versus a PDF per dealer plus an email per region. Validation depth: whether the macro simply runs, or checks totals and stops on bad data. Compatibility: whether it must work on Excel 2013 in one branch and Microsoft 365 in another. And inherited code: a clean rebuild is often cheaper than untangling a macro nobody understands.`,
-        `Ongoing costs are small. VBA needs no licence beyond desktop Excel itself. After the five free months of fixes, maintenance starts at ${P.care} if you want someone on call for format changes. If a quote from anyone looks unusually low, ask whether it includes testing on your real files, error messages, and a run guide. Those are the parts that get skipped.`,
+        `Ongoing costs are small. VBA needs no licence beyond desktop Excel itself. After the two free months of fixes, maintenance starts at ${P.care} if you want someone on call for format changes. If a quote from anyone looks unusually low, ask whether it includes testing on your real files, error messages, and a run guide. Those are the parts that get skipped.`,
       ],
     },
     {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
         `The usual project runs two to four weeks: a few days to understand the process and quote, one to two weeks to build, and a week of side-by-side testing on your live files. Simple fixes to an existing macro can be much quicker.`,
         `Week one is discovery. You share the workbook and two or three recent sets of input files, with names or amounts masked if you prefer. We record the current manual steps on a call, list the rules, and send an itemised quote within about two working days. Nothing is billed before you approve it in writing.`,
         `Week two is the build. Modules are written in the order input, logic, output, and you receive a first version to try on last month's data. We compare its output against the report your team produced by hand, line by line where it matters.`,
-        `Week three is parallel running. Your team produces the report both ways for a few cycles. Any difference is investigated: sometimes it is our bug, sometimes it reveals an old manual mistake. Once both match, the macro becomes the official method and the run guide is finalised. The first five months after that are covered by free fixes.`,
+        `Week three is parallel running. Your team produces the report both ways for a few cycles. Any difference is investigated: sometimes it is our bug, sometimes it reveals an old manual mistake. Once both match, the macro becomes the official method and the run guide is finalised. The first two months after that are covered by free fixes.`,
       ],
     },
     {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
         ["Inherited macro repair", "Document, fix and speed up old code", "Quoted after reading the code", "Depends on size"],
         ["Shared add-in", "Tools used across many workbooks", `From ${P.ai}`, "2–4 weeks"],
         ["Move to a web app", "Multi-user replacement for the workbook", `From ${P.software}`, "6–12 weeks"],
-        ["Maintenance after 5 free months", "Format changes, new branches", `From ${P.care}`, "Ongoing"],
+        ["Maintenance after 2 free months", "Format changes, new branches", `From ${P.care}`, "Ongoing"],
       ],
     },
     {
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get a quote listing each module, its estimate and the recommended tools. Nothing is billed until you approve it in writing."],
       ["Build and first run", "We write input, logic and output modules separately and send a first version to try on last month's data, with any differences explained."],
       ["Parallel running", "Your team runs old and new methods side by side for a few cycles until the numbers match and everyone trusts the button."],
-      ["Handover and support", "You receive unlocked code, a run guide and security set-up notes, followed by five months of free fixes if anything breaks."],
+      ["Handover and support", "You receive unlocked code, a run guide and security set-up notes, followed by two months of free fixes if anything breaks."],
     ],
   },
   faqHeading: "Excel VBA developer: common questions",
@@ -427,7 +427,7 @@ const content: FreelanceContent = {
     { question: "Do you work with Tally exports in Excel?", answer: "Yes. Reshaping Tally day book, ledger and stock exports into the format your accounts team, management or auditor expects is one of our most common Excel jobs. TallyPrime also supports XML, JSON and ODBC integration according to TallyHelp, which we use when a direct connection makes more sense than a manual export." },
     { question: "What Excel versions do your macros support?", answer: "We build and test on the Microsoft 365 version of desktop Excel by default. If some offices use older versions, tell us which ones before the quote, because certain newer functions and features are not available in older releases. We then either avoid those features or test on the older version too. Mac support is planned separately if needed." },
     { question: "How do you keep a macro from breaking when the export format changes?", answer: "The macro finds columns by header name rather than position, checks that expected headers exist before running, and stops with a clear message naming the file and missing column if something changes. Settings such as folder paths live on one settings sheet. These habits mean most format changes need a small edit, not a rewrite." },
-    { question: "What support do I get after the macro goes live?", answer: `Fixes are free for five months after handover, covering bugs and problems caused by our code. After that, maintenance starts at ${P.care} for clients who want someone on call for format changes, new branches or new reports. You can also simply contact us when needed and get a quote for each change.` },
+    { question: "What support do I get after the macro goes live?", answer: `Fixes are free for two months after handover, covering bugs and problems caused by our code. After that, maintenance starts at ${P.care} for clients who want someone on call for format changes, new branches or new reports. You can also simply contact us when needed and get a quote for each change.` },
     { question: "How do I pay for an Excel automation project?", answer: "Clients in India pay by UPI or bank transfer, and GST invoices are available. International clients pay in US dollars by Wise, bank wire or PayPal. Payment milestones are listed in your written quote before work starts, and nothing is billed before you approve that quote." },
     { question: "Excel macro banwana hai, Hindi mein baat kar sakte hain?", answer: "Haan, bilkul. Hum English aur Hindi dono mein kaam karte hain. Aap WhatsApp par apni Excel file aur ek-do din ki sample files bhej dijiye, phir screen-share call par aap apna roz ka process dikha dijiye. Lagbhag do working days mein itemised quote mil jayega, aur run guide bhi Hindi mein de sakte hain." },
   ],

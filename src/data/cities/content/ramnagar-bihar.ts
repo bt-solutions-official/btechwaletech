@@ -56,7 +56,7 @@ const ramnagarBihar: CityContent = {
     ai: "Hindi and Bhojpuri-friendly WhatsApp assistants that answer rate, stock and timing questions and route anything unusual to a person.",
     data: "Season dashboards for cane tonnage delivered, mill payments pending, milling recovery and dealer collection days.",
     app: "Android and iOS apps from ₹40,000 for cane supply status, dealer re-ordering or safari and homestay bookings, published on Google Play and the App Store in your name.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for content edits, backups and security patches.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for content edits, backups and security patches.",
   },
   whyUsIntro:
     "Ramnagar is far from Patna and further from the places where most software is sold, which is exactly why written terms matter here. We publish starting prices, itemise the quote, reply on WhatsApp every day of the week on Indian time, and register the domain, hosting, code and app store accounts in your own name. If a piece of work will not return its cost in a border block of 117 villages, we will tell you that instead of building it.",
@@ -195,7 +195,7 @@ const ramnagarBihar: CityContent = {
       heading: "Ownership and maintenance of your Ramnagar website or app",
       paragraphs: [
         "What we build is yours from the first day, not at the end. The domain is registered on your email address, the hosting is billed in your name, the complete source code is handed to you, and the Google Business Profile, Google Play developer account and Apple developer account name you as owner. You also get a written sheet with every login on it at handover. Ask any developer you talk to for that sheet: it is the single thing that stops a website from being held against a business later.",
-        "Maintenance costs nothing for the first five months after launch. In that period we change rates and photographs, run backups, apply security and version updates, and check periodically that your enquiry form, payment step and WhatsApp link still work. After five months you decide whether to continue from ₹8,000 a month, run it yourself, or hand the code to any other developer in Bettiah, Gorakhpur or Patna.",
+        "Maintenance costs nothing for the first two months after launch. In that period we change rates and photographs, run backups, apply security and version updates, and check periodically that your enquiry form, payment step and WhatsApp link still work. After two months you decide whether to continue from ₹8,000 a month, run it yourself, or hand the code to any other developer in Bettiah, Gorakhpur or Patna.",
         "Apps need a yearly pass even when nothing appears broken, because Google and Apple keep lifting the minimum versions their stores accept. We watch those dates and rebuild before the deadline so your app is never delisted in the middle of a season. Websites ask less of you: a check on the domain renewal, the SSL certificate and the contact form once a year is the difference between a ten-minute job and a month of silent lost enquiries.",
       ],
     },
@@ -287,7 +287,7 @@ const ramnagarBihar: CityContent = {
     {
       question: "What does maintenance cover after a Ramnagar site goes live?",
       answer:
-        "The first five months cost you nothing: we handle rate and photograph edits, backups, security patches and periodic checks of your form, payment step and WhatsApp link. After that you may continue from ₹8,000 a month, take it in-house, or move to another developer. Since the domain, hosting and code are already in your name, moving requires no permission from us.",
+        "The first two months cost you nothing: we handle rate and photograph edits, backups, security patches and periodic checks of your form, payment step and WhatsApp link. After that you may continue from ₹8,000 a month, take it in-house, or move to another developer. Since the domain, hosting and code are already in your name, moving requires no permission from us.",
     },
     {
       question: "Do you work in Narkatiaganj, Bagaha and Bettiah as well?",

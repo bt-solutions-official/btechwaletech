@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Candidate or client portal from", P.software],
     ["Per-job or per-applicant fee to us", "None"],
     ["Typical build", "2–6 weeks"],
-    ["Care plan", `From ${P.care} after 5 free months`],
+    ["Care plan", `From ${P.care} after 2 free months`],
   ],
   stats: [
     { value: "5", label: "Required JobPosting properties we populate" },
     { value: "3", label: "Ways to pull jobs from a CRM" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "What should recruitment website design include for a UK agency?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Client vacancy briefs", note: "A structured form for hiring managers: role, salary range, start date, must-haves, so consultants call back prepared.", size: "md" },
       { name: "Candidate job alerts", note: `Consent-based email or WhatsApp alerts for new roles matching a candidate's sector and area, automated from ${P.ai}.`, href: "/uk/whatsapp-business-api-integration/", size: "sm" },
       { name: "Candidate or client portal", note: `Timesheets, interview schedules or shortlists behind a login, from ${P.software}.`, href: "/uk/web-app-development-company/", size: "sm" },
-      { name: "Care plan", note: `Feed monitoring, updates and small changes from ${P.care} after five free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Care plan", note: `Feed monitoring, updates and small changes from ${P.care} after two free months.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Map fields and pages", "A shared sheet maps CRM fields to job pages and structured data, and lists the sector and location pages worth building."],
       ["Build on a preview site", "Job templates, search, applications and the vacancy form are built against test data, then live sandbox jobs, while you comment."],
       ["Test sync, markup and data", "We test job creation and closure, validate markup, run test applications into the CRM, and check consent text and cookie behaviour."],
-      ["Launch and monitor", "Old URLs redirect, Search Console updates, and the feed is monitored. Fixes are free for five months, then an optional care plan."],
+      ["Launch and monitor", "Old URLs redirect, Search Console updates, and the feed is monitored. Fixes are free for two months, then an optional care plan."],
     ],
   },
   faqHeading: "Recruitment website design questions",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate my existing job board without losing traffic?", answer: "We map every old job, sector and location URL to its new equivalent, set up permanent redirects, keep useful content, and resubmit sitemaps in Search Console. Some fluctuation after any migration is normal. Our website redesign guide explains the process in more detail." },
     { question: "Do you sign an NDA for recruitment projects?", answer: "If you need one, send it with your enquiry and we will review it before starting. Any confidentiality terms are agreed in writing alongside your quote. See our terms page for how projects and changes are handled." },
     { question: "Can you build a timesheet or candidate portal for temps?", answer: `Yes, as a custom web app from ${P.software}. Temps can log in to submit timesheets, view shifts or upload documents, and clients can approve hours. Whether it connects to your CRM or payroll depends on what those systems allow; we check before quoting.` },
-    { question: "What support do I get after launch?", answer: "Fixes are free for five months after launch, and we watch the job feed closely in the first weeks. After that, an optional care plan from our maintenance price covers updates, feed monitoring and small changes. Larger changes are quoted in writing first." },
+    { question: "What support do I get after launch?", answer: "Fixes are free for two months after launch, and we watch the job feed closely in the first weeks. After that, an optional care plan from our maintenance price covers updates, feed monitoring and small changes. Larger changes are quoted in writing first." },
     { question: "How do I pay for a recruitment website built in India?", answer: "Invoices are issued from India in USD, and UK agencies pay from a GBP account by Wise, bank wire or PayPal, in milestones set out in your approved written quote. Nothing is billed before approval. Your accountant can advise on how to record the payments." },
   ],
   related: {

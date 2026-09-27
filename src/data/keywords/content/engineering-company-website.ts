@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Customer portal or quote tool", `From ${P.software}`],
     ["Written quote", "Itemised, in about 2 working days"],
     ["Ownership", "Domain, hosting, code and files in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or platform commission" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Customer portal, quote tracking", value: `From ${P.software}, 6–12 weeks` },
       { label: "What you provide", value: "Machine list, drawings you may show, certificates, photos" },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
         `<strong>Portals.</strong> Buyer logins for quote history and dispatch status are custom software, from ${P.software}.`,
       ],
       after: [
-        `Monthly SEO starts at ${P.seo} if you want ongoing work, and maintenance starts at ${P.care} once the 5 free months end. For the wider picture, see <a href='/website-developer-cost/'>website developer cost</a>.`,
+        `Monthly SEO starts at ${P.seo} if you want ongoing work, and maintenance starts at ${P.care} once the 2 free months end. For the wider picture, see <a href='/website-developer-cost/'>website developer cost</a>.`,
       ],
     },
     {
@@ -256,7 +256,7 @@ const content: FreelanceContent = {
       heading: "Who owns and updates the engineering company website after launch?",
       paragraphs: [
         `You own everything: the domain is registered in your name, hosting runs on your account, and the code and files are handed over. We set it up that way from the first day, so there is nothing to transfer later.`,
-        `Updates are split sensibly. Your team can add a machine, change a spec field, swap a certificate or post a new part photo through a simple editor, and we show them how in a recorded walkthrough. Structural work such as a new product family template or a new integration is something we do, free during the first 5 months after launch and then under maintenance from ${P.care}.`,
+        `Updates are split sensibly. Your team can add a machine, change a spec field, swap a certificate or post a new part photo through a simple editor, and we show them how in a recorded walkthrough. Structural work such as a new product family template or a new integration is something we do, free during the first 2 months after launch and then under maintenance from ${P.care}.`,
         `Keep a short owner document: where the domain is registered, where hosting lives, who has admin access to Search Console and analytics, and where RFQ files are stored. We write it for you at handover. If your key person leaves, the next one can pick up the site without calling anyone.`,
       ],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Sitemap and RFQ fields", "We agree the page list, the spec template fields and the RFQ form fields with your estimator, so the form asks what pricing really needs."],
       ["Design and templates", "Home, one process page, one spec page and the RFQ page are designed first and reviewed by you, then turned into reusable templates."],
       ["Data, testing, launch", "Pages are filled from your sheet, uploads are tested with real CAD files, analytics and Search Console are set up, and the site goes live on your domain."],
-      ["Handover and upkeep", "You get admin access, an owner document and a recorded walkthrough. Five months of free maintenance follow, then optional plans."],
+      ["Handover and upkeep", "You get admin access, an owner document and a recorded walkthrough. Two months of free maintenance follow, then optional plans."],
     ],
   },
   faqHeading: "Engineering company website design: questions buyers ask us",
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
     { question: "Can the website send RFQs to our CRM or ERP?", answer: `Yes. RFQs can go into a Google Sheet, your CRM or an ERP that accepts inputs, with a WhatsApp alert to the right person. Simple routing is part of the build; deeper integrations and automated follow-ups are quoted separately, with AI automation starting at ${P.ai}. Tell us your current software and we will say what is practical.` },
     { question: "Do you build product configurators for machinery makers?", answer: `Yes, as custom software starting at ${P.software}. A buyer picks size, rating and options and gets a model code, an indicative spec sheet or an RFQ pre-filled with their choices. We need your option rules in writing; we do not engineer the machine logic, we turn your rules into a working tool.` },
     { question: "Can the site target overseas buyers as well as Indian ones?", answer: "Yes. We add metric and imperial units where useful, material grade equivalents, the Incoterms you usually quote, an export page on documents and samples, and an RFQ form that handles international numbers. Pages for specific countries make sense only when you have real reasons to target them, such as existing customers there." },
-    { question: "What happens after the 5 months of free maintenance?", answer: `You can continue with a maintenance plan from ${P.care}, move to monthly SEO, or manage the site yourselves using the editor and owner document we hand over. Nothing renews automatically. Exact maintenance scope is agreed in your written quote; our terms page covers the general basis.` },
+    { question: "What happens after the 2 months of free maintenance?", answer: `You can continue with a maintenance plan from ${P.care}, move to monthly SEO, or manage the site yourselves using the editor and owner document we hand over. Nothing renews automatically. Exact maintenance scope is agreed in your written quote; our terms page covers the general basis.` },
     { question: "How do we pay, and is there a GST invoice?", answer: "In India you pay by UPI or bank transfer against the milestones in your written quote, and nothing is billed before you approve it. Overseas clients pay in USD by Wise, bank wire or PayPal. Ask about invoice details when you request the quote so they match your accounts team’s needs." },
     { question: "Can you sign an NDA before we share drawings?", answer: "You can share your NDA and we will review it before you send confidential drawings. For the website itself we only need drawings or part photos you are allowed to show publicly. Specific confidentiality terms are agreed in writing with your quote rather than assumed, and our terms page sets out the general basis we work on." },
     { question: "Engineering company ki website banane mein kitna time aur kharcha lagta hai?", answer: `Capability website ${P.site} se shuru hoti hai aur lagbhag 1–2 hafte lagte hain, jab aap machine list, photos aur certificates bhej dete hain. Bade product catalogue ke liye ${P.seoSite} se shuru, 3–5 hafte. Quote 2 working days mein itemised milta hai, aur approval se pehle koi payment nahi.` },

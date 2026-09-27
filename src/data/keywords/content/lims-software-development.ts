@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Built for", "Food, water, pharma QC, environmental, textile"],
     ["Data and code", "Yours: your cloud, your repository"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one of them on data and cloud" },
     { value: "2", label: "Working days to an itemised LIMS quote" },
-    { value: "5", label: "Months of free fixes after the LIMS goes live" },
+    { value: "2", label: "Months of free fixes after the LIMS goes live" },
     { value: "0", label: "Per-user licence fees on code you own" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Output", value: "Certificate of analysis or test report with signatures and QR check" },
       { label: "Starts at", value: `${P.software}, first release in 6–12 weeks` },
       { label: "Hosting", value: "Your cloud account or your own server room" },
-      { label: "Support", value: `5 free months, then optional care from ${P.care}` },
+      { label: "Support", value: `2 free months, then optional care from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "LIMS software development pricing",
-    note: `Custom LIMS software development starts at ${P.software}. That covers sample login with barcode labels, chain of custody, test assignment, result entry against specifications, an audit trail, review and approval, and one COA layout. The quote grows with the number of matrices and specification sets, each instrument export we parse, the equipment and calibration module, a client portal, the depth of validation documentation you need, and any legacy data we migrate. A customer-facing website starts at ${P.site}. Your cloud hosting is billed to you directly. After five free months, maintenance is optional from ${P.care}.`,
+    note: `Custom LIMS software development starts at ${P.software}. That covers sample login with barcode labels, chain of custody, test assignment, result entry against specifications, an audit trail, review and approval, and one COA layout. The quote grows with the number of matrices and specification sets, each instrument export we parse, the equipment and calibration module, a client portal, the depth of validation documentation you need, and any legacy data we migrate. A customer-facing website starts at ${P.site}. Your cloud hosting is billed to you directly. After two free months, maintenance is optional from ${P.care}.`,
   },
   guideLabel: "LIMS software development guide",
   guide: [
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
         `Custom LIMS software development with our team starts at ${P.software} (about ${P.softwareUsd}) for a first release covering sample login, custody, tests, results, audit trail, approval and one COA. What moves the price is scope, not the word “LIMS”.`,
         `The biggest drivers are the number of matrices and specification sets, how many instrument formats we parse, whether you need a full equipment and calibration module, a client portal, stability studies or out-of-specification workflows, and how much validation paperwork we write with you. Migrating years of spreadsheet data adds time, because it always needs cleaning.`,
         `Quotes from other developers and product vendors vary widely. The gap usually comes from licensing models, how much configuration is done by the vendor, and whether validation support is included. Compare what each quote actually delivers, line by line, rather than the headline figure.`,
-        `Your running costs after launch are cloud hosting, paid directly to the provider, and optional maintenance from ${P.care} once the five free months end. There are no per-user fees on the code, so adding a new analyst does not change your bill.`,
+        `Your running costs after launch are cloud hosting, paid directly to the provider, and optional maintenance from ${P.care} once the two free months end. There are no per-user fees on the code, so adding a new analyst does not change your bill.`,
       ],
     },
     {
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The source code sits in a repository under your account, the database lives in your cloud account, and the admin credentials are yours from the first day. We work inside your accounts rather than holding anything back.`,
         `At handover you receive the code, deployment notes, the data model diagram, the validation test pack, and a short admin guide covering users, roles, specifications, templates and backups. If you later hire in-house developers or another freelancer, they start from the same documents we use.`,
-        `The first five months after launch include free maintenance: bug fixes, small adjustments found in daily use, and help during your first assessment or audit with the system. After that, maintenance is optional from ${P.care}, or you can take it in-house. New modules, such as a stability module or a client portal, are quoted separately when you want them.`,
+        `The first two months after launch include free maintenance: bug fixes, small adjustments found in daily use, and help during your first assessment or audit with the system. After that, maintenance is optional from ${P.care}, or you can take it in-house. New modules, such as a stability module or a client portal, are quoted separately when you want them.`,
         `Contract terms, confidentiality and anything beyond this are agreed in your written quote; our <a href='/terms/'>terms</a> page has the general conditions.`,
       ],
     },
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Build the core in weekly demos", "Sample login, custody, tests, results and audit trail go up on a test server first, so analysts try them with real past samples."],
       ["Add approval, COA and equipment", "E-signatures, report templates, calibration control and instrument parsers follow, each demonstrated before moving on."],
       ["Test, migrate and train", "We run scripted tests, hand you the traceability matrix, load master data and train each role, then support a parallel run."],
-      ["Go live and look after it", "The LIMS moves to your production account. Five months of free maintenance follow, then optional care if you want it."],
+      ["Go live and look after it", "The LIMS moves to your production account. Two months of free maintenance follow, then optional care if you want it."],
     ],
   },
   faqHeading: "LIMS software development: questions labs ask",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Do you help with LIMS validation documents?", answer: "Yes. For each requirement in the agreed scope we write test scripts with expected results, run them, and give you a traceability matrix linking requirements to tests and outcomes. Your lab or consultant then runs and signs acceptance testing in your environment. Validation remains the lab’s responsibility; our documents are inputs to it, not a sign-off." },
     { question: "Can one LIMS handle food, water and environmental samples together?", answer: "Yes, if it is designed that way from the start. The test master, specification sets and report templates are separate from the sample engine, so one LIMS can serve several matrices and clients. Each department sees its own worklists, while management sees one set of dashboards and turnaround figures across the whole lab." },
     { question: "Can you migrate our old Excel records into the new LIMS?", answer: "Yes. We usually migrate master data first: clients, products, tests, methods, specifications and instruments. Historical results can follow if they are consistent enough to import, which normally means a cleaning pass with your team. Migrated records are marked as imported so the audit trail stays honest about where they came from." },
-    { question: "What happens after the LIMS goes live?", answer: `You get five months of free maintenance covering bug fixes and small changes found in daily use, including support during your first assessment with the system. After that, maintenance is optional from ${P.care}, or your own team can take over with the handover documents. New modules are quoted separately whenever you want them.` },
+    { question: "What happens after the LIMS goes live?", answer: `You get two months of free maintenance covering bug fixes and small changes found in daily use, including support during your first assessment with the system. After that, maintenance is optional from ${P.care}, or your own team can take over with the handover documents. New modules are quoted separately whenever you want them.` },
     { question: "How do payments and approvals work for a LIMS project?", answer: "You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing. Payments in India are by UPI or bank transfer with invoices; international labs pay by Wise, bank wire or PayPal in USD. Milestones and other conditions are written into your quote, and our terms page sets out the general rules." },
     { question: "Can a small freelance team build a LIMS properly?", answer: "Yes, for the scope a single lab or small group needs. Our three developers cover full-stack development, data and cloud, and project management, and the same people stay with your project from discovery to support. We are not the right fit for a global rollout needing a large team or on-site staff; for a focused lab LIMS, a small team keeps decisions quick." },
     { question: "Can clients track their samples and download reports online?", answer: "Yes, with an optional client portal. Customers log in to submit sample requests, see status from receipt to approval, and download released COAs. The LIMS can also send a report-ready message on WhatsApp through the official business platform, or by email, with a secure link rather than an attachment that can be forwarded and edited." },

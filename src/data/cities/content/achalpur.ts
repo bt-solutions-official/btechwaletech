@@ -35,7 +35,7 @@ const achalpur: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "Cotton and orange trade pages", "Chikhaldara stay bookings", "WhatsApp automation"],
   },
   quickAnswer:
-    "For the twin towns, our static websites begin at ₹10,000 and need one to two weeks. Larger 299+ page SEO sites begin at ₹20,000, automation on WhatsApp or AI at ₹40,000, online stores at ₹50,000 and bespoke software at ₹60,000. We are three engineers working remotely, not from an Achalpur office, and upkeep costs nothing for the first five months.",
+    "For the twin towns, our static websites begin at ₹10,000 and need one to two weeks. Larger 299+ page SEO sites begin at ₹20,000, automation on WhatsApp or AI at ₹40,000, online stores at ₹50,000 and bespoke software at ₹60,000. We are three engineers working remotely, not from an Achalpur office, and upkeep costs nothing for the first two months.",
   snapshot: [
     { label: "Location", value: "Twin city with Paratwada in Amravati district, Vidarbha, at about 369 m in the Satpura foothills" },
     { label: "History", value: "Once Ellichpur: an early Rashtrakuta seat and later capital of the Berar Sultanate and of Mughal Berar" },
@@ -52,7 +52,7 @@ const achalpur: CityContent = {
     ai: "WhatsApp replies in Marathi or Hindi for rates, fees, rooms and appointments, with unusual questions passed to you.",
     data: "Season dashboards that show arrivals, purchases, dues and dispatch on the owner's phone.",
     app: "Android and iOS apps for dealer orders, class notices or guest check-ins at Chikhaldara stays, listed on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Free for five months after launch, then from ₹8,000 a month for updates, backups and security.",
+    maintenance: "Free for two months after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "Owners in the twin towns usually end up choosing between an agency in Amravati or Nagpur and a local shop that builds a template and quietly keeps the domain. We offer something plainer: three engineers, starting prices published online, written itemised quotes, daily WhatsApp replies, and domain, hosting and code in your name.",
@@ -182,7 +182,7 @@ const achalpur: CityContent = {
       paragraphs: [
         "We often meet businesses in the twin towns whose website disappeared because the domain was booked by a former employee or a local developer who moved to Pune or Nagpur. When renewal lapses, the address, reviews and every link shared with customers go with it.",
         "To stop that happening, we book your domain and hosting under your own name before any design work begins. On launch day we hand over all passwords, the complete code and a short note explaining how things fit together. Switching to someone else later costs you nothing extra.",
-        "Upkeep for the first five months after the site goes live is on us. That covers edits to text and prices, fixing bugs, applying security patches, taking backups and watching uptime. From the sixth month you can keep a plan from ₹8,000 per month or simply message us when a job comes up. Everything that ships with a build is described on our <a href=\"/services/web-development/\">web development page</a>.",
+        "Upkeep for the first two months after the site goes live is on us. That covers edits to text and prices, fixing bugs, applying security patches, taking backups and watching uptime. From the third month you can keep a plan from ₹8,000 per month or simply message us when a job comes up. Everything that ships with a build is described on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const achalpur: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "During the first five months after going live, content and price edits, bug fixes, security patches, backups and uptime monitoring cost you nothing. Afterwards you can pick a plan from ₹8,000 per month, or keep things informal and message us whenever work comes up.",
+        "During the first two months after going live, content and price edits, bug fixes, security patches, backups and uptime monitoring cost you nothing. Afterwards you can pick a plan from ₹8,000 per month, or keep things informal and message us whenever work comes up.",
     },
     {
       question: "Do you work in Amravati, Anjangaon, Chandur Bazar and Chikhaldara?",

@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers covering code, SEO and delivery" },
     { value: "2", label: "Working days to an itemized store SEO estimate" },
     { value: "0", label: "Commission taken on your store's sales" },
-    { value: "5", label: "Months of free maintenance after any store build" },
+    { value: "2", label: "Months of free maintenance after any store build" },
   ],
   answer: {
     heading: "What should ecommerce SEO services include for a Shopify or WooCommerce store?",
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Ecommerce SEO pricing for US stores",
-    note: `Monthly ecommerce SEO services start from ${P.seo}. That covers a store-level review in the first month, then a steady cycle of collection work, product template fixes, schema, feed cleanup and content. Stores with tens of thousands of SKUs, complex filters or custom headless front ends take more hours, and the written quote shows that in advance. If the theme itself is the obstacle, a rebuild may be the better spend: new stores start from ${P.shop} over 4–8 weeks, with 5 months of free maintenance afterwards and care from ${P.care}.`,
+    note: `Monthly ecommerce SEO services start from ${P.seo}. That covers a store-level review in the first month, then a steady cycle of collection work, product template fixes, schema, feed cleanup and content. Stores with tens of thousands of SKUs, complex filters or custom headless front ends take more hours, and the written quote shows that in advance. If the theme itself is the obstacle, a rebuild may be the better spend: new stores start from ${P.shop} over 4–8 weeks, with 2 months of free maintenance afterwards and care from ${P.care}.`,
   },
   guideLabel: "Ecommerce SEO services guide for US Shopify and WooCommerce stores",
   guide: [

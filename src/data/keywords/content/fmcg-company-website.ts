@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["D2C store for consumers", `From ${P.shop}`],
     ["Distributor ordering portal", `From ${P.software}`],
     ["Itemised quote", "About 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who design, build and support your FMCG site" },
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
         `Quotes from other freelancers and agencies vary widely for this work. The difference usually comes from what is included: whether content is written for you, whether each SKU is entered, whether the distributor form has routing rules, and who owns the site afterwards. Compare what is delivered, line by line, rather than the headline figure.`,
       ],
       after: [
-        `Maintenance is free for five months after launch; after that it starts at ${P.care}. The full list of starting prices is on our <a href='/pricing/'>pricing page</a>.`,
+        `Maintenance is free for two months after launch; after that it starts at ${P.care}. The full list of starting prices is on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
         "Code in a repository you own",
         "Lead sheet or CRM in your workspace",
         "Google Search Console and analytics under your login",
-        "Five months of free maintenance, then optional support",
+        "Two months of free maintenance, then optional support",
       ],
     },
     {
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get a line-by-line quote. Work starts only after you approve it in writing; nothing is billed before that."],
       ["Build and phone testing", "We build the catalogue, forms and locator, then test every form from real Android phones on slow connections in the languages you chose."],
       ["Lead routing check", "Test enquiries from different states go through the whole path to your sales team's WhatsApp and sheet before launch day."],
-      ["Launch and handover", "The site goes live in your accounts, Search Console is connected, your team gets a walkthrough, and five months of free maintenance begins."],
+      ["Launch and handover", "The site goes live in your accounts, Search Console is connected, your team gets a walkthrough, and two months of free maintenance begins."],
     ],
   },
   faqHeading: "FMCG company website design: questions brands ask",
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
     { question: "Is a freelance team or an agency better for an FMCG website?", answer: "A small freelance team works well when you want direct contact with the people building the site and a clear, itemised scope. A larger agency suits brands needing ad campaigns, packaging design and media buying under one roof. BtechWaleTech covers design, development, SEO and automation, and says plainly what it does not do, such as packaging or on-site photography." },
     { question: "Can you work with an FMCG company in another city without visiting?", answer: "Yes. We are three freelance developers working remotely from India, and we handle projects through WhatsApp, video calls and shared documents. You share SKU data, pack photos and certificates digitally. We do not make site visits, so if you need a photo shoot at the factory, a local photographer does that and sends us the files." },
     { question: "Who owns the website after it is built?", answer: "With FMCG company website design from BtechWaleTech, your company owns the domain, hosting, source code, catalogue data and every lead. We set everything up in accounts registered to your company from the start, so there is nothing to hand back later. You also receive admin access, a written guide and a recorded walkthrough so your team can update SKUs and the locator." },
-    { question: "What happens after the website launches?", answer: `You get five months of free maintenance covering fixes, updates and small changes. After that, maintenance starts at ${P.care} if you want us to continue, or your own team can take over with the handover guide. Adding new SKUs or territory pages later is quoted separately so you always know the cost beforehand.` },
+    { question: "What happens after the website launches?", answer: `You get two months of free maintenance covering fixes, updates and small changes. After that, maintenance starts at ${P.care} if you want us to continue, or your own team can take over with the handover guide. Adding new SKUs or territory pages later is quoted separately so you always know the cost beforehand.` },
     { question: "How do I pay for the FMCG website project?", answer: "Payments within India are by UPI or bank transfer, and clients abroad pay by Wise, bank wire or PayPal in USD. Payment milestones are written into your quote. Nothing is billed before you approve that quote in writing. Ask us about the milestone split for your specific scope." },
     { question: "Will you sign an NDA for our product plans?", answer: "Many brands share product launches and distributor lists before they are public, so confidentiality is a fair request. Ask us when you send your brief and we will agree the terms in writing as part of your quote. Our general terms are on the terms page, and nothing in your data is shared or used for any other project." },
     { question: "Can the website rank on Google for distributorship searches?", answer: "It can, if the territory pages are genuinely useful: specific products open in that area, delivery reach, the partner profile you want and a clear form. Copy-pasted pages with only the state name changed rarely rank. Nobody can guarantee rankings, but a well-structured site gives your brand a fair chance for those trade searches." },
@@ -456,7 +456,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to plan an FMCG website that brings in distributors?",
-    note: `Send your SKU count, current states and target territories on WhatsApp. You will get a page plan and itemised quote in about two working days, starting at ${P.site}, with every account in your company's name and five months of free maintenance after launch.`,
+    note: `Send your SKU count, current states and target territories on WhatsApp. You will get a page plan and itemised quote in about two working days, starting at ${P.site}, with every account in your company's name and two months of free maintenance after launch.`,
   },
 };
 

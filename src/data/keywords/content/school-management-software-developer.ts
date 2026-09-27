@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First release", "6–12 weeks"],
     ["Who owns it", "The school: code, data, app accounts"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering code, data and planning" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free support after go-live" },
+    { value: "2", label: "Months of free support after go-live" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Fee payments", value: "UPI and cards via checkout, receipts generated automatically" },
       { label: "Users", value: "Management, office staff, teachers, parents, students" },
       { label: "Ownership", value: "Code, database and app store accounts in the school’s name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["Setup time", "Quick if your process fits", "Long procurement and build", "6–12 weeks for a first release"],
       ["Fits your fee rules", "Within the product’s settings", "Yes, at vendor rates", "Yes, built around your structure"],
-      ["Recurring cost", "Per-student or yearly licence", "Licence plus support contract", `Your hosting; care from ${P.care} after 5 free months`],
+      ["Recurring cost", "Per-student or yearly licence", "Licence plus support contract", `Your hosting; care from ${P.care} after 2 free months`],
       ["Who holds the data", "Stored on the vendor’s platform", "Varies by contract", "Your school’s cloud account"],
       ["Parents app", "Vendor-branded or shared app", "Often extra", "Your school’s own app and name"],
       ["Changes later", "Request and wait for roadmap", "Change requests billed", "Quoted per change, code is yours"],
@@ -179,7 +179,7 @@ const content: FreelanceContent = {
       heading: "How much does it cost to hire a school management software developer?",
       paragraphs: [
         `Budget by modules, users and data. A single-campus school starting with students, fees and attendance sits near our starting price of ${P.software}. A group of schools with branch-specific fee rules, exams, transport and a parents app costs more and takes longer.`,
-        `The parents app starts at ${P.app}. Hosting is billed to the school directly, and maintenance is free for five months after launch, then from ${P.care} if you want us to continue. An AI add-on, such as a chatbot that answers parents’ routine questions about fees and timings, starts at ${P.ai}.`,
+        `The parents app starts at ${P.app}. Hosting is billed to the school directly, and maintenance is free for two months after launch, then from ${P.care} if you want us to continue. An AI add-on, such as a chatbot that answers parents’ routine questions about fees and timings, starts at ${P.ai}.`,
         `When comparing with ready-made products, add up the licence for your student strength over five years, not just the first year. When comparing custom quotes, check that data import, training, backups and the app store publishing work are included, because those are the lines most often left out.`,
       ],
       list: [
@@ -281,7 +281,7 @@ const content: FreelanceContent = {
       heading: "School software banwana hai? Seedhi baat Hinglish mein",
       paragraphs: [
         `Pehle tay kijiye ki sabse zyada pareshani kahan hai: fees, attendance ya report card. Wahi module pehle banwaiye aur baaki agle term mein jodiye. Isse kharcha bhi control mein rehta hai aur staff ko seekhne ka time bhi milta hai.`,
-        `Hamare saath custom school software ${P.software} se shuru hota hai, aur parents ke liye Android aur iPhone app ${P.app} se. Code, data aur app store account school ke naam par rehte hain. Launch ke baad 5 mahine support free hai. Apne sawal WhatsApp par Hindi ya English mein bhejiye.`,
+        `Hamare saath custom school software ${P.software} se shuru hota hai, aur parents ke liye Android aur iPhone app ${P.app} se. Code, data aur app store account school ke naam par rehte hain. Launch ke baad 2 mahine support free hai. Apne sawal WhatsApp par Hindi ya English mein bhejiye.`,
       ],
     },
   ],
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
         ["School website for admissions", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Public pages, enquiry and admission forms"],
         ["AI helpdesk for parents", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Answers routine fee and timing questions"],
         ["Monthly SEO for admissions", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Schools competing for local enquiries"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, new session setup"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, new session setup"],
       ],
       hideSm: [2],
     },
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Set up accounts in the school’s name", "Cloud hosting, the code repository and Play Console and App Store developer accounts are created for the school, with us added as users."],
       ["Import data and test on staging", "We clean and load your student and fee data, then your office tests each module on a private staging link before anything goes live."],
       ["Go live with training", "Short role-based sessions for accounts, teachers and coordinators, plus a simple install guide for parents. Old and new records run side by side briefly."],
-      ["Five months of free support", "Fixes, small changes and session rollovers are covered for five months. After that, support continues from " + P.care + " if the school chooses."],
+      ["Two months of free support", "Fixes, small changes and session rollovers are covered for two months. After that, support continues from " + P.care + " if the school chooses."],
     ],
   },
   faqHeading: "School management software developer: questions schools ask",
@@ -384,10 +384,10 @@ const content: FreelanceContent = {
     { question: "Can teachers use the software on their phones?", answer: "Yes. Teachers get a phone-friendly view for attendance, homework and marks entry, restricted to their own classes. Attendance is designed to take under a minute: everyone is present by default and the teacher taps only absentees. The office and management use a fuller dashboard on computers." },
     { question: "Can the software send messages to parents in Hindi or regional languages?", answer: "Yes. Notices, the parents app interface and alert templates can be set up in Hindi or a regional language alongside English. Parents choose their preferred language. We make sure fonts load quickly on budget phones and that report cards print correctly in the chosen script." },
     { question: "What happens if we want to leave or change developers later?", answer: "Because the code, database and app store accounts are in the school’s name, you can hand them to another developer at any time. At handover we provide documentation covering setup, deployment and the database structure. Your data can be exported in standard formats such as CSV or Excel." },
-    { question: "What does maintenance of school software include?", answer: `For five months after launch we cover fixes, small changes, security updates and help with the new session rollover. After that, maintenance continues from ${P.care} if the school wants it. New modules or major features are always quoted separately before work starts, so there are no surprise bills.` },
+    { question: "What does maintenance of school software include?", answer: `For two months after launch we cover fixes, small changes, security updates and help with the new session rollover. After that, maintenance continues from ${P.care} if the school wants it. New modules or major features are always quoted separately before work starts, so there are no surprise bills.` },
     { question: "Can you also build our school website?", answer: `Yes. A school website with admissions, notices, gallery and contact pages starts at ${P.site}. It can link directly to online admission forms and fee payment in the school ERP, so parents move smoothly from the public site into the system. Many schools launch the website first and the ERP in the following term.` },
     { question: "How do payments to BtechWaleTech work for a school project?", answer: "Payments are staged against modules you can see and test on a staging link. Indian schools pay by UPI or bank transfer; institutions abroad pay by Wise, bank wire or PayPal. The exact stages are written into the quote, and nothing is billed before the school approves the estimate in writing." },
-    { question: "School ke liye software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom school software, jismein fees, attendance aur student records hote hain, ${P.software} se shuru hota hai. Parents app ${P.app} se shuru hota hai. Har module ka alag price hota hai, isliye aap pehle zaroori module bana kar baaki baad mein jod sakte hain. Launch ke baad 5 mahine support free hai.` },
+    { question: "School ke liye software banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom school software, jismein fees, attendance aur student records hote hain, ${P.software} se shuru hota hai. Parents app ${P.app} se shuru hota hai. Har module ka alag price hota hai, isliye aap pehle zaroori module bana kar baaki baad mein jod sakte hain. Launch ke baad 2 mahine support free hai.` },
     { question: "Do you work with international schools outside India?", answer: `Yes. Schools and education groups abroad receive the same module-wise estimate in USD, with custom ERP builds from ${P.softwareUsd} and apps from ${P.appUsd}. We adapt fee structures, grading and languages to the local system, overlap working hours for calls, and bill through Wise, bank wire or PayPal.` },
   ],
   related: {
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning school management software? Tell us how your school runs",
-    note: `Share your fee structure, attendance routine and report card format on WhatsApp. You will get a module-wise estimate in about two working days, with custom school ERPs from ${P.software}, everything in the school’s name and five months of free support.`,
+    note: `Share your fee structure, attendance routine and report card format on WhatsApp. You will get a module-wise estimate in about two working days, with custom school ERPs from ${P.software}, everything in the school’s name and two months of free support.`,
   },
 };
 

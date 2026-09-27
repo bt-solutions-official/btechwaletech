@@ -30,11 +30,11 @@ const eluru: CityContent = {
     eyebrow: "Eluru · Andhra Pradesh",
     h1: "Websites, search and automation for Eluru's aqua, carpet and oil palm economy",
     lede:
-      "Three remote engineers building websites, Telugu and English search pages, online stores and WhatsApp workflows for Eluru's aquaculture dealers, hand-knotted carpet exporters, oil palm and farm businesses, hospitals, colleges and shops, from R.R. Pet and Powerpet to Tangellamudi. Starting prices are published, you own the code and domain, and five months of upkeep are free.",
+      "Three remote engineers building websites, Telugu and English search pages, online stores and WhatsApp workflows for Eluru's aquaculture dealers, hand-knotted carpet exporters, oil palm and farm businesses, hospitals, colleges and shops, from R.R. Pet and Powerpet to Tangellamudi. Starting prices are published, you own the code and domain, and two months of upkeep are free.",
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Aqua and feed dealer sites", "Carpet export catalogues", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Eluru, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Eluru office, and every website we build includes five months of free maintenance after launch.",
+    "In Eluru, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Eluru office, and every website we build includes two months of free maintenance after launch.",
   snapshot: [
     { label: "City", value: "Headquarters of Eluru district, formed in 2022; on NH 16 and the Howrah–Chennai rail line" },
     { label: "Craft and export", value: "Hand-knotted woollen carpets, a weaving tradition going back to the 17th century" },
@@ -51,10 +51,10 @@ const eluru: CityContent = {
     ai: "WhatsApp assistants that answer repeated questions about feed stock, prices, timings and delivery in Telugu or English, and hand over anything complex.",
     data: "Dashboards for dealer sales, farmer dues, harvest dispatches and enquiry sources, easy to read on a phone at the shop or pond.",
     app: "Android and iPhone apps for field staff visiting farms, college portals and clinic appointments, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security and speed checks free for five months after launch, then from ₹8,000 a month if you want ongoing care.",
+    maintenance: "Updates, backups, security and speed checks free for two months after launch, then from ₹8,000 a month if you want ongoing care.",
   },
   whyUsIntro:
-    "Many Eluru businesses have been quoted by Vijayawada or Hyderabad agencies that never show prices, or built sites with a local contact who later vanished. We publish our starting prices, write in Telugu where your customers expect it, reply on WhatsApp seven days a week, and maintain your website free for five months after it goes live.",
+    "Many Eluru businesses have been quoted by Vijayawada or Hyderabad agencies that never show prices, or built sites with a local contact who later vanished. We publish our starting prices, write in Telugu where your customers expect it, reply on WhatsApp seven days a week, and maintain your website free for two months after it goes live.",
   pricingIntro:
     "All figures below are starting prices. The final amount depends on the number of pages, products and languages and on features like payments or logins. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
   sections: [
@@ -189,11 +189,11 @@ const eluru: CityContent = {
     },
     {
       id: "ownership-eluru",
-      heading: "Ownership, handover and five free months of maintenance",
+      heading: "Ownership, handover and two free months of maintenance",
       paragraphs: [
         "Some Eluru businesses have lost their websites because a developer registered the domain in their own name and later stopped responding. When renewal lapsed, the site and email disappeared.",
         "With us, the domain and hosting are registered in your name from day one. At launch you receive every login, the full source code and a short guide. You can switch developers at any time with no exit fee.",
-        "Maintenance is free for five months after launch: content updates, bug fixes, security updates, backups and speed checks. After that it is from ₹8,000 a month, or you can contact us only when needed. Start on our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "Maintenance is free for two months after launch: content updates, bug fixes, security updates, backups and speed checks. After that it is from ₹8,000 a month, or you can contact us only when needed. Start on our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -285,7 +285,7 @@ const eluru: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security updates, backups and speed checks free. After that, maintenance is from ₹8,000 a month, or you can contact us only when something needs changing.",
+        "For two months after launch we handle content updates, bug fixes, security updates, backups and speed checks free. After that, maintenance is from ₹8,000 a month, or you can contact us only when something needs changing.",
     },
     {
       question: "What should I send to get a quote?",

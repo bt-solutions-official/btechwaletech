@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical app timeline", "6–10 weeks"],
     ["Audit first?", "Yes, for live projects"],
     ["Who owns the project", "You, as Firebase project owner"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who read your Firebase project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or platform fees on top" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Web app or portal", value: `From ${P.software}, 6–12 weeks` },
       { label: "Live project rescue", value: "Audit first, then an itemised fix quote" },
       { label: "Billing safety", value: "Budget alerts, query limits, App Check, emulator testing" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Project ownership", "Varies; check who created the project", "Yours", "Created in your Google account from day one"],
       ["Frontend included", "Often backend only", "Depends on the role", "Flutter or React Native app, web panel too"],
       ["Cost visibility", "Hourly or fixed bids vary widely", "Monthly salary regardless of workload", "Itemised quote; starting prices published"],
-      ["After launch", "New contract for each fix", "Ongoing, at full salary", "5 months free, then monthly maintenance"],
+      ["After launch", "New contract for each fix", "Ongoing, at full salary", "2 months free, then monthly maintenance"],
       ["Best when", "A small, well-defined task", "Firebase is your core product for years", "You need a working app or a rescue, not a new employee"],
     ],
     fine: "If your product is large enough to need a dedicated backend engineer every day for years, hiring in-house makes sense; we can still help design the first version and hand over cleanly.",
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The Firebase project, the Google Cloud billing account, the app store accounts and the code repository should all sit in your name, with the developer added as a member you can remove. We work that way on every project, and it is the single most important thing to check before you hire any Firebase developer.`,
         `On day one, you create the Google account (or use your business Google Workspace account), create the Firebase project or let us create it and immediately transfer ownership, and add a billing account with your card. We join as editors. When the work ends, you can downgrade or remove our access in two clicks, and the app keeps running because nothing depends on our accounts.`,
-        `Handover includes a short document describing each collection, each function and what triggers it, the rules and their tests, how to deploy, and where the logs and alerts live. You get the full source code for the app, the functions and the admin panel. After launch, five months of maintenance are included; after that, ongoing care starts at ${P.care} a month if you want us to keep watching the project.`,
+        `Handover includes a short document describing each collection, each function and what triggers it, the rules and their tests, how to deploy, and where the logs and alerts live. You get the full source code for the app, the functions and the admin panel. After launch, two months of maintenance are included; after that, ongoing care starts at ${P.care} a month if you want us to keep watching the project.`,
       ],
     },
     {
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
         ["AI feature on Firebase", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Callable function, model calls, usage limits"],
         ["Security rules audit and rewrite", "Quoted after review", "Quoted after review", "Days, not weeks", "Report, rewritten rules, emulator tests"],
         ["Firebase bill reduction", "Quoted after review", "Quoted after review", "Days to a few weeks", "Usage analysis, code fixes, alerts"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, rule changes, monitoring"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, rule changes, monitoring"],
       ],
       hideSm: [2],
     },
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you get a quote with each feature, function and fix listed separately, plus a rough estimate of Google usage costs."],
       ["Build with tests", "We build features and rules together, test them in the Emulator Suite, and share staging builds of the app you can install on your own phone."],
       ["Launch and alerts", "Production rules, App Check and budget alerts go live, the app is published to Google Play and the App Store under your accounts, and usage is watched closely."],
-      ["Handover and care", "You receive the code, deployment notes and an architecture summary. Five months of maintenance follow at no charge, then monthly care if you want it."],
+      ["Handover and care", "You receive the code, deployment notes and an architecture summary. Two months of maintenance follow at no charge, then monthly care if you want it."],
     ],
   },
   faqHeading: "Questions people ask before they hire a Firebase developer",
@@ -445,7 +445,7 @@ const content: FreelanceContent = {
     { question: "Freelancer or agency: which is better for Firebase work?", answer: "It depends on the size and length of the work. A small freelance team gives you direct contact with the developers who write the rules and functions, with no account managers in between. Larger agencies can supply more people at once. For most apps, what matters more is tested rules, clear ownership and a named person watching costs." },
     { question: "How do I pay and what does the contract cover?", answer: "Clients in India pay by UPI or bank transfer; international clients pay in USD by Wise, bank wire or PayPal. Scope, milestones and deliverables are written in the itemised quote you approve before work starts. Specific contract terms such as confidentiality are agreed in that written quote; our terms page covers the general conditions." },
     { question: "Can you migrate my data into Firebase from Excel or another database?", answer: "Yes. We map your existing data to the new Firestore model, write an import script, run it against a test project first and check counts and samples with you before importing into production. Migration from an old Firebase project or from a SQL database is handled the same way, with a rollback plan." },
-    { question: "What happens after my Firebase app launches?", answer: `Five months of maintenance are included after launch: bug fixes, small changes, rules updates and keeping an eye on usage. After that, ongoing maintenance starts at ${P.care} a month if you want us to stay involved. You can also take the documented project to another developer at any time.` },
+    { question: "What happens after my Firebase app launches?", answer: `Two months of maintenance are included after launch: bug fixes, small changes, rules updates and keeping an eye on usage. After that, ongoing maintenance starts at ${P.care} a month if you want us to stay involved. You can also take the documented project to another developer at any time.` },
     { question: "Can you help my app show up in Google and AI search?", answer: "The app itself ranks in store search, but a web landing page, a help centre or a web version built on Firebase Hosting can be indexed by Google and cited by AI assistants. We build those pages with proper titles, structured data and fast loading, and can pair them with app store listing optimisation." },
     { question: "Can I hire a Firebase developer part-time or for a few hours?", answer: "We work by scoped tasks rather than selling blocks of hours. A small job, such as fixing one function or reviewing rules for one collection, can be quoted on its own. For regular small changes after launch, the maintenance plan covers ongoing work without a new quote each time." },
     { question: "Firebase developer chahiye, Hindi mein baat kar sakte hain?", answer: "Haan, bilkul. Hamari team English aur Hindi dono mein kaam karti hai. Aap WhatsApp par voice note bhej kar apni app ka idea ya Firebase project ki problem bata sakte hain. Hum project dekh kar likhit, itemised quote lagbhag do working days mein bhejte hain, aur approval se pehle kuch bhi bill nahi hota." },
@@ -471,7 +471,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire a Firebase developer? Send us your project",
-    note: `Message us on WhatsApp with your app idea or your Firebase project details. You will get a written plan or audit and an itemised quote in about two working days, with new apps starting at ${P.app}, the project in your own Google account and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with your app idea or your Firebase project details. You will get a written plan or audit and an itemised quote in about two working days, with new apps starting at ${P.app}, the project in your own Google account and two months of free maintenance after launch.`,
   },
 };
 

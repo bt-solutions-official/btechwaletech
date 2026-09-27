@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Dealer portal or warranty system", `From ${P.software}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Domain, hosting, code and data in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your site" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Dealer portal, warranty database", value: `From ${P.software}, 6–12 weeks` },
       { label: "Online store for direct sales", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Search focus", value: "Imported brand and model names, “authorised dealer” and city searches" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a website for an import business costs",
-    note: `A brand and catalogue site for an importer usually fits our static plan from ${P.site}. Costs rise with the size of the catalogue and the systems behind it. A few hundred imported models, each needing its own searchable page, suits an SEO build from ${P.seoSite}. A warranty registration database, serial verification or a dealer login area is custom software from ${P.software}. Direct online sales need a store from ${P.shop}. Hosting, domain and any WhatsApp or CRM subscriptions are paid by you directly. Every item is itemised, nothing is billed before written approval, and maintenance is free for 5 months after launch.`,
+    note: `A brand and catalogue site for an importer usually fits our static plan from ${P.site}. Costs rise with the size of the catalogue and the systems behind it. A few hundred imported models, each needing its own searchable page, suits an SEO build from ${P.seoSite}. A warranty registration database, serial verification or a dealer login area is custom software from ${P.software}. Direct online sales need a store from ${P.shop}. Hosting, domain and any WhatsApp or CRM subscriptions are paid by you directly. Every item is itemised, nothing is billed before written approval, and maintenance is free for 2 months after launch.`,
   },
   guideLabel: "Importer website guide",
   guide: [
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a website for import business starts at ${P.site} (about ${P.siteUsd}) for a brand and catalogue site of up to 100 pages. A larger searchable catalogue of 299+ model pages starts at ${P.seoSite}. Warranty databases, serial checks and dealer portals are custom software from ${P.software}. Other developers quote very differently, so compare scope and ownership as well as the total.`,
         `The main cost drivers for importers are the catalogue size and how it is fed (a spreadsheet or feed is cheaper to maintain than hand-built pages), the number of brands with separate rules, the systems behind the site (warranty, verification, dealer login), integrations with your CRM, WhatsApp or accounting software, and bilingual content.`,
-        `Running costs are hosting, domain and any third-party subscriptions, all in your name. Maintenance is free for 5 months after launch, then from ${P.care} if you want us to handle updates, new models and dealer list changes.`,
+        `Running costs are hosting, domain and any third-party subscriptions, all in your name. Maintenance is free for 2 months after launch, then from ${P.care} if you want us to handle updates, new models and dealer list changes.`,
       ],
       after: [`For more on general pricing, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Catalogue structure first", "We turn your product spreadsheet into a page template so every model page fills itself, while you request logos and images from principals."],
       ["Design, build, test", "Brand pages, catalogue, locator and enquiry forms are built on a test link you check on your phone, then tested with real serials and dealer data."],
       ["Launch and search setup", "Structured data, sitemap, Search Console and redirects from any old site go live together, followed by checks in the first weeks."],
-      ["Systems and handover", "Warranty, verification or dealer login follow as phase two if needed. You get code, logins, documentation and 5 months of free maintenance."],
+      ["Systems and handover", "Warranty, verification or dealer login follow as phase two if needed. You get code, logins, documentation and 2 months of free maintenance."],
     ],
   },
   faqHeading: "Website for import business: questions importers ask",
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
     { question: "Can the site be in Hindi or another Indian language?", answer: "Yes. We can build bilingual pages with a language switch and separate URLs, which helps dealers and buyers who prefer Hindi or a regional language. You write or approve the translated copy, and technical specifications can stay in English where that is the norm. Model codes stay identical across languages so searches still match." },
     { question: "Who owns the website and the dealer and warranty data?", answer: "Your business does. The domain, hosting and cloud accounts are in your name, the code is handed over, and dealer and warranty data can be exported at any time. It does not belong to the overseas brand or to us. If you ever change developers, everything moves with you." },
     { question: "How do payments for the website work?", answer: "Payment stages are set in your written quote, usually tied to approval, build and launch. In India you pay by UPI or bank transfer against an invoice; overseas clients pay by Wise, bank wire or PayPal in USD. Nothing is billed before written approval. For cancellation questions, ask us before starting or read our refund policy page." },
-    { question: "What support is included after launch?", answer: `Maintenance is free for 5 months after launch, covering fixes and small updates. After that, care plans start at ${P.care} and can include adding new models from each shipment, updating dealer lists and keeping software patched. New systems, such as adding warranty registration later, are quoted separately so costs are always clear in advance.` },
+    { question: "What support is included after launch?", answer: `Maintenance is free for 2 months after launch, covering fixes and small updates. After that, care plans start at ${P.care} and can include adding new models from each shipment, updating dealer lists and keeping software patched. New systems, such as adding warranty registration later, are quoted separately so costs are always clear in advance.` },
   ],
   related: {
     heading: "More for importers, traders and distributors",

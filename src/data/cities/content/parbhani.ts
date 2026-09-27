@@ -31,11 +31,11 @@ const parbhani: CityContent = {
     eyebrow: "Parbhani · Marathwada, Maharashtra",
     h1: "Websites, apps, SEO and AI automation for Parbhani's farm trade, clinics, colleges and shops",
     lede:
-      "We are three engineers working remotely who build websites, Google listings and WhatsApp workflows for Parbhani and its talukas: seed and fertiliser dealers, cotton and soybean traders, hospitals and nursing homes, colleges and coaching classes, and the shops that serve them. Rates are published, you deal directly with the developers, and upkeep is free for five months after launch.",
+      "We are three engineers working remotely who build websites, Google listings and WhatsApp workflows for Parbhani and its talukas: seed and fertiliser dealers, cotton and soybean traders, hospitals and nursing homes, colleges and coaching classes, and the shops that serve them. Rates are published, you deal directly with the developers, and upkeep is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "Agri dealer catalogues", "Clinic appointment flows", "WhatsApp order logging"],
   },
   quickAnswer:
-    "A simple business website in Parbhani starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team of three engineers with no Parbhani office, and maintenance is free for five months after launch.",
+    "A simple business website in Parbhani starts at ₹10,000 with us and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team of three engineers with no Parbhani office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Regional role", value: "Headquarters of Parbhani district in Marathwada, with nine talukas including Purna, Sailu, Pathri, Jintur and Gangakhed" },
     { label: "Farm economy", value: "Cotton, soybean, tur, jowar and sugarcane; the local economy depends largely on agriculture and agribusiness" },
@@ -52,10 +52,10 @@ const parbhani: CityContent = {
     ai: "WhatsApp replies in Marathi and Hindi that handle routine questions about stock, rates, timings or fees and pass real conversations to you.",
     data: "Season-wise sales, credit and stock figures turned into a simple dashboard so you know what moved before the next sowing season.",
     app: "Android and iOS apps for field staff, order booking or school notices, one codebase listed on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "In Parbhani, website options tend to be a local computer institute's template or an agency in Aurangabad or Pune with city prices. We offer a different route: published rates, an itemised written quote, the engineers themselves on WhatsApp seven days a week, Marathi content that reads naturally, and five months of free upkeep after the site goes live.",
+    "In Parbhani, website options tend to be a local computer institute's template or an agency in Aurangabad or Pune with city prices. We offer a different route: published rates, an itemised written quote, the engineers themselves on WhatsApp seven days a week, Marathi content that reads naturally, and two months of free upkeep after the site goes live.",
   pricingIntro:
     "Most Parbhani businesses never see a clear website price list, only a figure quoted over the phone. Ours is public. Your final quote depends on the number of pages, languages, features and how much writing we do for you, and it is sent in writing, item by item, before any work or billing begins.",
   sections: [
@@ -170,7 +170,7 @@ const parbhani: CityContent = {
       paragraphs: [
         "Many businesses in smaller Maharashtra towns have lost websites because the domain was bought in a developer's name. When the developer stopped answering, the owner could not renew the site or even change the phone number on it.",
         "We register the domain and hosting in your name and on your payment method from day one. At launch you receive every login, the full source code and a written handover note. You can move to another developer whenever you like, with no exit charge. Our <a href=\"/services/web-development/\">web development</a> uses widely known tools, so any capable developer can continue the work.",
-        "For five months after launch we maintain the site free: software and security updates, backups, uptime checks, bug fixes and small content changes. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "For two months after launch we maintain the site free: software and security updates, backups, uptime checks, bug fixes and small content changes. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const parbhani: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle security and software updates, backups, uptime checks, bug fixes and small text or photo changes at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle security and software updates, backups, uptime checks, bug fixes and small text or photo changes at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How soon will SEO show results in Parbhani?",

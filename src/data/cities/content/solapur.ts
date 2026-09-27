@@ -30,11 +30,11 @@ const solapur: CityContent = {
     eyebrow: "Solapur · Maharashtra",
     h1: "Websites, stores and automation built for Solapur's mills, markets and colleges",
     lede:
-      "From terry towel units on Akkalkot Road to Navi Peth shops, Hotgi Road clinics and the pilgrim trade around Pandharpur and Akkalkot, Solapur businesses need websites that sell as well as they look. We are three remote engineers with published prices, Marathi-aware SEO and five months of free maintenance after every launch.",
+      "From terry towel units on Akkalkot Road to Navi Peth shops, Hotgi Road clinics and the pilgrim trade around Pandharpur and Akkalkot, Solapur businesses need websites that sell as well as they look. We are three remote engineers with published prices, Marathi-aware SEO and two months of free maintenance after every launch.",
     pills: ["Websites from ₹10,000", "Towel and chaddar stores", "Marathi and English SEO", "WhatsApp order flows", "Full ownership"],
   },
   quickAnswer:
-    "A website for a Solapur business costs from ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, and an online store for towels, chaddars or food products starts at ₹50,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for five months.",
+    "A website for a Solapur business costs from ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, and an online store for towels, chaddars or food products starts at ₹50,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Textile heritage", value: "Solapur Terry Towel and Solapuri Chaddar, both protected by Geographical Indication tags" },
     { label: "Industrial areas", value: "MIDC Akkalkot Road with its powerloom units, and MIDC Chincholi on the Pune road" },
@@ -51,7 +51,7 @@ const solapur: CityContent = {
     ai: "WhatsApp assistants that answer dealer and customer questions in Marathi, Hindi or English, log orders and send dispatch updates automatically.",
     data: "Dashboards that show sales by dealer, product and season, built from Tally and order sheets and readable on a phone.",
     app: "Android and iOS apps for field salesmen, pilgrim-town hotel bookings and customer order tracking, released on Google Play and the App Store.",
-    maintenance: "Catalogue and price updates, backups, security patches and uptime checks, free for five months and from ₹8,000 a month thereafter.",
+    maintenance: "Catalogue and price updates, backups, security patches and uptime checks, free for two months and from ₹8,000 a month thereafter.",
   },
   whyUsIntro:
     "Solapur business owners are practical: they want to know what they get, what it costs and who to call when something breaks. We publish prices, give every quote in writing, answer WhatsApp seven days a week and hand over every login at launch. No surprises, no lock-in.",
@@ -172,11 +172,11 @@ const solapur: CityContent = {
     },
     {
       id: "ownership-solapur",
-      heading: "You own it all, with five months of free maintenance",
+      heading: "You own it all, with two months of free maintenance",
       paragraphs: [
         "We regularly meet Solapur business owners who have lost control of their websites. The developer registered the domain in his own name and stopped answering calls, or the hosting expired and nobody noticed until customers said the site was down. Recovering access can take weeks.",
         "Every site we build is set up in your name. The domain belongs to your business, the hosting account is yours, and at launch you receive every login, the source code and a short note on how things are set up. You can move to another developer at any time without paying any exit fee.",
-        "For five months after launch, maintenance is free: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you can simply contact us when you need a change.",
+        "For two months after launch, maintenance is free: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you can simply contact us when you need a change.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const solapur: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks free of charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks free of charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How do I get started?",

@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers on your project, and no one else" },
     { value: "2", label: "Working days to an itemized quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Platform fees added on top of our quote" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Referral partner page", note: "A direct line for discharge planners, case managers and elder law attorneys, with referral hours and a fax or secure upload option.", size: "md" },
       { name: "Service-area pages", note: `County and town pages that say who you serve there and how fast you can start, with monthly local search work from ${P.seo}.`, href: "/usa/local-seo-services/", size: "md" },
       { name: "Applicant follow-up automation", note: `Instant text or email replies to applicants, interview booking and reminders, from ${P.ai}.`, href: "/usa/ai-automation-agency/", size: "sm" },
-      { name: "Care after launch", note: `Five free months of fixes, then maintenance from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Care after launch", note: `Two free months of fixes, then maintenance from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["Medicaid and VA pages", "Generic national text", "Often, if you ask", "Written for your state programs and approved by you"],
       ["Inquiry form handling", "Franchisor’s system", "Agency’s form tools", "A vendor you choose, with health details kept out"],
       ["Starting cost", "Franchise fees cover it, with limits", "Commonly the highest option", `From ${P.site}`],
-      ["Ongoing cost", "Tied to the franchise agreement", "Retainer is common", `Optional SEO from ${P.seo}; care from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Tied to the franchise agreement", "Retainer is common", `Optional SEO from ${P.seo}; care from ${P.care} after 2 free months`],
       ["Who owns the site", "Usually the franchisor", "Check the contract", "Your agency, domain to code"],
       ["Paid ads, TV, mailers", "Handled by the network", "Often included", "Not offered"],
     ],
@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a single-office home care site of up to 100 pages starts at ${P.site}, and a larger multi-office or county-heavy build starts at ${P.seoSite}. Healthcare marketing agencies usually quote much more, largely because they bundle ongoing marketing and account management.`,
         `The figure rises or falls with a handful of choices. Copy is the largest: if your team writes or heavily edits the service and benefit pages, the build moves faster; if you want us to draft everything from interviews, it takes more time. The number of offices and service-area pages is next, since each needs its own facts. A careers section with many roles, language versions, automated applicant replies or interview booking adds work. Integrations with existing systems vary from a simple embed to a custom connection. Photography, if you want it, is arranged locally by you.`,
-        `Running costs are separate and paid to the providers you choose: the domain renewal, hosting, any form service with a business associate agreement, and optional tools like an applicant tracking system. After five months of free fixes, maintenance starts at ${P.care}, and local search work starts at ${P.seo}. You see all of this line by line in the quote before approving anything. The <a href='/pricing/'>pricing page</a> lists every starting plan.`,
+        `Running costs are separate and paid to the providers you choose: the domain renewal, hosting, any form service with a business associate agreement, and optional tools like an applicant tracking system. After two months of free fixes, maintenance starts at ${P.care}, and local search work starts at ${P.seo}. You see all of this line by line in the quote before approving anything. The <a href='/pricing/'>pricing page</a> lists every starting plan.`,
       ],
     },
     {
@@ -317,7 +317,7 @@ const content: FreelanceContent = {
         ["Referral or intake portal", "Logins for partners, secure uploads, status tracking", "6–12 weeks", P.software],
         ["Caregiver app for shifts or updates", "Android and iOS app for your staff", "6–10 weeks", P.app],
         ["Monthly local search", "Area pages, profile updates, review requests, reporting", "Ongoing", `${P.seo}`],
-        ["Maintenance after the free period", "Updates, backups, small edits, uptime checks", "Monthly after 5 free months", `${P.care}`],
+        ["Maintenance after the free period", "Updates, backups, small edits, uptime checks", "Monthly after 2 free months", `${P.care}`],
       ],
       hideSm: [2],
     },
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Confirm the page map", "We map pages to families, caregivers and referral partners, and list the facts only you can confirm, such as programs accepted and start times."],
       ["Write, design and wire up", "Drafts go to you for edits while the inquiry form, caregiver application and referral route are built and tested with made-up entries."],
       ["Check it like a family would", "Real-phone speed tests, keyboard and screen reader passes, 200% zoom checks, form routing tests and a final read-through by your team."],
-      ["Launch and hand over", "Redirects from the old site, Search Console and analytics in your agency’s name, a list of every account, and five months of free fixes."],
+      ["Launch and hand over", "Redirects from the old site, Search Console and analytics in your agency’s name, a list of every account, and two months of free fixes."],
     ],
   },
   faqHeading: "Home care agency website design: common questions",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Why should a US home care agency hire a team in India?", answer: `Mainly cost and focus. You get a site built around families, caregivers and referrals starting at ${P.site}, from three developers who do the work themselves, with calls in your morning and progress overnight. The trade-offs are real too: no in-person meetings, no local photography, and you need to supply facts about your services and programs promptly.` },
     { question: "Do I own my home care agency website?", answer: "Yes. The domain, hosting, code repository, analytics and Search Console are registered to your agency and you keep the admin logins. We work as added users you can remove at any time. At handover you receive a list of every account, service and script on the site, so another developer could take over without needing anything from us." },
     { question: "How do I pay for a home care website from the US?", answer: "Quotes and invoices are in USD and issued from India. You can pay by bank wire, Wise or PayPal. Payment milestones are listed in your written quote, and nothing is billed before you approve it. How the expense is recorded is a question for your accountant; we do not advise on US tax treatment." },
-    { question: "What happens after my home care website launches?", answer: `You get five months of free fixes and small edits, such as new job pages, updated program lists or a new service-area page. After that, maintenance starts at ${P.care} and covers updates, backups, uptime checks and routine edits. Monthly local search work is optional from ${P.seo}. You can also make simple edits yourself.` },
+    { question: "What happens after my home care website launches?", answer: `You get two months of free fixes and small edits, such as new job pages, updated program lists or a new service-area page. After that, maintenance starts at ${P.care} and covers updates, backups, uptime checks and routine edits. Monthly local search work is optional from ${P.seo}. You can also make simple edits yourself.` },
     { question: "Can you guarantee my home care agency ranks first on Google?", answer: "No, and nobody can honestly promise that. Rankings depend on your Google Business Profile, reviews, competition in each town and how long your site has been around. What we can do is build fast, accessible pages with specific local detail, correct structured data and clean technical foundations, then show you what is improving in Search Console." },
     { question: "How do home care agencies show up in AI search answers?", answer: "AI tools such as Google AI Overviews, ChatGPT search and Perplexity tend to quote pages that answer one question directly and consistently. A page that says clearly what you provide, where, how soon and who pays, backed by structured data and a matching Google profile, gives those tools something to cite. There is no switch that guarantees a mention." },
     { question: "Can my website connect to my home care scheduling software?", answer: "Sometimes. If your scheduling or care management vendor provides an inquiry embed or a documented way to receive leads, we use it and test it with dummy data. If it does not, inquiries go to a secure inbox and your office enters them. We confirm what your specific vendor supports before quoting, rather than promising an integration that may not exist." },

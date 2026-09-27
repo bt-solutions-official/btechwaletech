@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who design, build and support the sync" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Invoices before you approve the quote in writing" },
   ],
   answer: {
@@ -226,7 +226,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a simple one-way Xero sync starts from ${P.ai} and a full two-way integration from ${P.software}. Local developer and agency quotes vary widely; the spread comes from how much discovery, accounting design, testing and support is bundled in rather than from the API code itself.`,
         `The biggest cost drivers are the number of systems, the complexity of your tax and discount rules, how many edge cases need handling, and whether you want historical data backfilled into Xero. A Shopify store with standard GST posting daily summaries is at the low end. A business with a CRM, a job system and a store all feeding one Xero organisation, with contact matching, tracking categories and payments flowing back, is at the other.`,
-        `Running costs are separate and paid directly by you: hosting for the integration, usually a small serverless or container setup in your AWS or other cloud account; a Xero custom connection subscription if you use one; and any connector or automation subscriptions you keep. After five months of free maintenance, optional care starts from ${P.care}.`,
+        `Running costs are separate and paid directly by you: hosting for the integration, usually a small serverless or container setup in your AWS or other cloud account; a Xero custom connection subscription if you use one; and any connector or automation subscriptions you keep. After two months of free maintenance, optional care starts from ${P.care}.`,
       ],
     },
     {
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "You create the cloud account, repository and Xero connection or custom connection, and invite us. Credentials go straight into an encrypted store."],
       ["Build against test data", "The integration runs against the Xero Demo Company or a test organisation first, so your bookkeeper can inspect real-looking entries safely."],
       ["Parallel run and go-live", "We run alongside your current process for an agreed period, compare results, fix differences, then switch on the live sync during your business hours."],
-      ["Monitor and support", `Daily summaries and an error queue keep problems visible. Five months of free maintenance follow, then optional care from ${P.care}.`],
+      ["Monitor and support", `Daily summaries and an error queue keep problems visible. Two months of free maintenance follow, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Xero integration developer: common questions from Australian businesses",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "How do Australian clients pay for a Xero integration?", answer: "Quotes are in USD. Australian businesses usually pay by Wise from an AUD account, by international bank wire or by PayPal, in stages set out in the written quote. Nothing is billed until you approve the itemised quote in writing. Invoices come from India; ask your accountant how to record them." },
     { question: "Can the integration backfill historical data into Xero?", answer: "It can, but think carefully first. Backfilling months of orders uses a lot of API calls and can clash with figures already entered by hand. Many businesses choose a cut-over date instead and leave history in the source system. If you need a backfill, we run it in batches over several days within Xero's daily limit, with your bookkeeper's approval." },
     { question: "Does my bookkeeper need to be involved?", answer: "Yes, and it saves money on the Xero integration developer's time. Your bookkeeper or accountant decides the tax types, accounts, tracking categories and payment treatment. We turn those decisions into rules and show them the results in a test organisation. An integration designed without them tends to post entries that someone later fixes by hand." },
-    { question: "What happens after the Xero integration goes live?", answer: `You get five months of free maintenance covering fixes and small mapping changes. After that, optional care starts from ${P.care} and includes monitoring the error queue, handling Xero API changes and adjusting rules when you add products, channels or tracking options. The runbook we hand over lets your team pause and replay the sync if needed.` },
+    { question: "What happens after the Xero integration goes live?", answer: `You get two months of free maintenance covering fixes and small mapping changes. After that, optional care starts from ${P.care} and includes monitoring the error queue, handling Xero API changes and adjusting rules when you add products, channels or tracking options. The runbook we hand over lets your team pause and replay the sync if needed.` },
     { question: "Can you also build dashboards on top of Xero data?", answer: "Yes. Once sales, jobs and Xero data line up, a dashboard can show margin by channel, overdue invoices by client or revenue by location, refreshed on a schedule. We build these in Power BI or Looker Studio depending on what your team already uses, as a separate piece of work after the integration is stable." },
   ],
   related: {

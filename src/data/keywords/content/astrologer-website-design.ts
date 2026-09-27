@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on your consultations" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Horoscope and remedy content site (299+ pages)", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Booking engine with payments", value: `From ${P.software}, 6–12 weeks` },
       { label: "Puja samagri or gemstone shop", value: `From ${P.shop}, 4–8 weeks` },
-      { label: "After launch", value: `5 months free care, then from ${P.care}` },
+      { label: "After launch", value: `2 months free care, then from ${P.care}` },
     ],
   },
   services: {
@@ -211,7 +211,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Astrologer website design starts at ${P.site} for a static site with consultation pages, an enquiry form and payment links, and at ${P.software} for a custom booking engine with prepaid slots, time zones and a client dashboard. The spread comes from features, not from the zodiac graphics.`,
         `Cost rises with each of these: a real slot calendar instead of a request form; chat or video inside the site; a free kundli generator; hundreds of rashifal or remedy pages; a samagri store; multiple languages; and automation after the booking. Each is priced as a line in your quote, so you can launch with the first few and add others later without rebuilding.`,
-        `Running costs are separate and yours: domain renewal, hosting, payment provider fees, WhatsApp Business Platform charges if you use it, and any paid calculation library. We set these up in your name so you see the bills directly. The first 5 months of maintenance after launch are free; after that, care plans start at ${P.care}.`,
+        `Running costs are separate and yours: domain renewal, hosting, payment provider fees, WhatsApp Business Platform charges if you use it, and any paid calculation library. We set these up in your name so you see the bills directly. The first 2 months of maintenance after launch are free; after that, care plans start at ${P.care}.`,
         `Quotes from other freelancers and agencies vary widely for the same brief. The difference usually comes from whether the booking engine is built properly or improvised with plugins, whether content is written or left to you, and whether anyone is responsible after launch. Ask each quote to list those three things. For a wider view of pricing, the <a href='/pricing/'>pricing page</a> shows every plan's starting point.`,
       ],
     },
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The domain, hosting account, source code, payment account and database of clients and birth details are registered in your name from the first day, and we work inside them with access you grant.`,
         `That matters more for astrologers than for most businesses. Your client list, with years of charts and consultation notes, is the practice itself. If a developer holds the hosting or the database, you cannot leave without their cooperation. Marketplace apps are worse: the relationship sits entirely with the platform.`,
-        `At handover you receive admin logins, a short recorded walkthrough of how to add a puja page, change prices, block dates and export bookings, and the code repository. If you later move to another developer, they start from everything we built. During the 5 free months after launch we fix problems and make small changes; after that, a care plan from ${P.care} is optional, not a lock-in.`,
+        `At handover you receive admin logins, a short recorded walkthrough of how to add a puja page, change prices, block dates and export bookings, and the code repository. If you later move to another developer, they start from everything we built. During the 2 free months after launch we fix problems and make small changes; after that, a care plan from ${P.care} is optional, not a lock-in.`,
       ],
     },
     {
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Content and design", "You send photos, biography, puja details and policies. We design phone-first pages in Hindi and English and share a clickable preview for your comments."],
       ["Booking and payment build", "We build the calendar, birth-details form, checkout and confirmations, then run test bookings from Indian and overseas time zones with real test payments."],
       ["Soft launch to existing clients", "Your regular clients book through the new site first. Their feedback catches unclear wording and small bugs before you promote it widely."],
-      ["Public launch and care", "Sitemap submitted, Search Console and analytics connected, handover recording shared. Five months of free maintenance follow, with WhatsApp support seven days a week."],
+      ["Public launch and care", "Sitemap submitted, Search Console and analytics connected, handover recording shared. Two months of free maintenance follow, with WhatsApp support seven days a week."],
     ],
   },
   faqHeading: "Astrologer website design: questions astrologers ask",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Can WhatsApp send booking confirmations and reminders automatically?", answer: `Yes. After payment, the client gets a WhatsApp message and an email with the time in their zone and how the consultation will happen, then a reminder before it starts. Automated WhatsApp messages from a business number need the WhatsApp Business Platform with approved templates. Automation work of this kind starts at ${P.ai} if it goes beyond simple confirmations.` },
     { question: "Do I own the website and the client data?", answer: "Yes. The domain, hosting, code, payment account and the database of bookings and birth details are registered in your name from day one. We work inside them with access you grant and hand over admin logins, a recorded walkthrough and the code at launch. If you ever switch developers, the new person starts with everything, and your client history stays with you." },
     { question: "Can a vastu consultant use the same kind of website?", answer: "Yes, with a few changes. Vastu sites need a floor-plan upload in the booking form, separate pages for homes, offices, factories and shops, and video consultation for walk-throughs. Many vastu consultants also offer site visits; the website can take those enquiries, while all our own work stays remote. Before-and-after layout explanations work well as content if clients agree to share them." },
-    { question: "What happens after the website goes live?", answer: `You get five months of free maintenance: bug fixes, small content changes, plugin and security updates, and help with any booking problems. After that, a care plan starting at ${P.care} is optional. You can also take the site to another developer with full access. Support happens on WhatsApp seven days a week in IST, in English or Hindi.` },
+    { question: "What happens after the website goes live?", answer: `You get two months of free maintenance: bug fixes, small content changes, plugin and security updates, and help with any booking problems. After that, a care plan starting at ${P.care} is optional. You can also take the site to another developer with full access. Support happens on WhatsApp seven days a week in IST, in English or Hindi.` },
     { question: "How do I pay for the website build?", answer: "In India you pay by UPI or bank transfer against the itemised quote you approved in writing. Payment milestones, such as an advance and a balance at launch, are written in that quote. Clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the estimate. See the terms and refund policy pages on our site for the general conditions." },
     { question: "Can you also build an astrology app later?", answer: `Yes. Once the website and booking engine are running, an Android and iOS app can share the same bookings, payments and client accounts, starting from ${P.app}. Building the website first is usually wiser: it tests your consultation menu and prices, and the app then reuses the same backend. Our astrology app development page explains what changes in an app build.` },
     { question: "Do you work with tarot readers and numerologists too?", answer: "Yes. Tarot readers typically sell timed chat or video readings and recorded card spreads, and numerologists sell name correction and date analysis reports. The booking and payment engine is the same; the forms differ, because a numerology report needs the exact name spelling and date of birth rather than birth time and place. We adjust the fields and pages to your method." },

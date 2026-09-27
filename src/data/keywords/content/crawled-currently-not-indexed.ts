@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who can read the report and change the code" },
     { value: "2", label: "Working days to an itemised indexing fix quote" },
-    { value: "5", label: "Months of free maintenance after any rebuild" },
+    { value: "2", label: "Months of free maintenance after any rebuild" },
     { value: "7", label: "Days a week on WhatsApp for questions" },
   ],
   answer: {
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Send us a WhatsApp message with your domain and a screenshot of the “Why pages aren't indexed” table. With view access to Search Console, we can tell you within about two working days which groups matter and send an itemised quote for fixing them.`,
         `Santosh Sharma leads the technical SEO and data side, reading the reports and logs. Ankur Kumar makes the template and code changes in your stack, whether that is WordPress, WooCommerce, Shopify themes, Astro, Next.js or a custom app. Vedansh Shrivastava keeps the checklist, the change log and the validation dates in order so you always know what was done and when.`,
-        `Most fixes fall inside monthly SEO from ${P.seo} (${P.seoUsd}). If a rebuild makes more sense, an SEO website of 299+ pages starts at ${P.seoSite} and includes five months of free maintenance, then maintenance from ${P.care}. Your Search Console, hosting and code stay in your name throughout. We cannot force Google to index a page; we can make sure every page you care about deserves it and is easy to find.`,
+        `Most fixes fall inside monthly SEO from ${P.seo} (${P.seoUsd}). If a rebuild makes more sense, an SEO website of 299+ pages starts at ${P.seoSite} and includes two months of free maintenance, then maintenance from ${P.care}. Your Search Console, hosting and code stay in your name throughout. We cannot force Google to index a page; we can make sure every page you care about deserves it and is easy to find.`,
       ],
     },
   ],

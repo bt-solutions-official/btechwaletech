@@ -56,7 +56,7 @@ const nasirabad: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer price, delivery and admission questions and hand real decisions to you.",
     data: "Dashboards of body orders in progress, material cost per job, trips per vehicle and freight dues.",
     app: "Android and iOS apps for drivers logging trips or for body building customers tracking their job, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Nothing to pay for upkeep during the first five months after launch; from then on, backups, updates and security patches start at ₹8,000 a month.",
+    maintenance: "Nothing to pay for upkeep during the first two months after launch; from then on, backups, updates and security patches start at ₹8,000 a month.",
   },
   whyUsIntro:
     "Nasirabad's workshop owners quote steel, labour and delivery dates every day, so they expect the same clarity from us. We publish starting prices, send an itemised written quote, reply on WhatsApp all seven days, and register your domain, hosting, code and app store accounts in your name. If something will not earn back its cost, we say so upfront.",
@@ -184,7 +184,7 @@ const nasirabad: CityContent = {
       heading: "The RC stays in your name: ownership and maintenance in Nasirabad",
       paragraphs: [
         "Just as a truck's registration certificate names its owner, every part of your website or app is registered to you. The domain sits on your email ID, the hosting account is billed in your name, the complete source code is handed over, and you are the owner on the Google Business Profile, the Google Play console and the Apple developer account. A written sheet at handover lists each login.",
-        "Maintenance is included free for five months after launch: price and photo changes, backups, security updates and periodic tests of forms, checkout and WhatsApp buttons. After that you can keep us on from ₹8,000 a month, run things yourself, or give the code to a different developer; nothing is locked to us.",
+        "Maintenance is included free for two months after launch: price and photo changes, backups, security updates and periodic tests of forms, checkout and WhatsApp buttons. After that you can keep us on from ₹8,000 a month, run things yourself, or give the code to a different developer; nothing is locked to us.",
         "Apps also need a yearly service, even when nothing is broken, because Google and Apple raise their minimum versions. We track those deadlines and push updates early, so drivers and customers never find the app gone from the store.",
       ],
     },
@@ -267,7 +267,7 @@ const nasirabad: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after going live, maintenance costs nothing. It covers price and photo updates, backups, security patches and routine checks on forms, checkout and WhatsApp buttons. Once that period ends, keep us from ₹8,000 a month, handle it yourself, or move to another developer, which is easy because the code and every account are already in your name.",
+        "For two months after going live, maintenance costs nothing. It covers price and photo updates, backups, security patches and routine checks on forms, checkout and WhatsApp buttons. Once that period ends, keep us from ₹8,000 a month, handle it yourself, or move to another developer, which is easy because the code and every account are already in your name.",
     },
     {
       question: "Do you also work in Ajmer, Kishangarh and Beawar?",

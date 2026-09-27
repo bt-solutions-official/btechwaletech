@@ -31,11 +31,11 @@ const rohtak: CityContent = {
     eyebrow: "Rohtak · Haryana",
     h1: "Web development and SEO for Rohtak, from IMT to Model Town",
     lede:
-      "We are three remote engineers who build websites, stores, portals and WhatsApp automations for Rohtak's auto-component suppliers, fastener units, hospitals, coaching institutes and retailers. Prices are published, you deal directly with the developers, and after launch we maintain your site free for five months.",
+      "We are three remote engineers who build websites, stores, portals and WhatsApp automations for Rohtak's auto-component suppliers, fastener units, hospitals, coaching institutes and retailers. Prices are published, you deal directly with the developers, and after launch we maintain your site free for two months.",
     pills: ["Websites from ₹10,000", "Vendor capability sites", "Rohtak local SEO", "UPI stores", "AI and WhatsApp bots"],
   },
   quickAnswer:
-    "In Rohtak, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page SEO site built in three to five weeks. Stores start at ₹50,000. We are a remote team of three engineers without a Rohtak office, and every launch includes five months of free maintenance.",
+    "In Rohtak, our websites start at ₹10,000 for a static site ready in one to two weeks, and ₹20,000 for a 299+ page SEO site built in three to five weeks. Stores start at ₹50,000. We are a remote team of three engineers without a Rohtak office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Industrial base", value: "IMT Rohtak, developed by HSIIDC, with Maruti Suzuki's 600-acre R&D centre and proving ground" },
     { label: "Other employers", value: "Suzuki Motorcycle, Asian Paints, Amul, Aisin Automotive, Nippon Carbide and a forging and fastener cluster" },
@@ -52,10 +52,10 @@ const rohtak: CityContent = {
     ai: "AI replies and WhatsApp flows that handle routine questions from students, patients and buyers, handing complex ones to staff.",
     data: "Production, dispatch and sales dashboards built from the spreadsheets your plant team already keeps.",
     app: "Android and iPhone apps for attendance, service bookings and field sales, built in Flutter or React Native and listed on Google Play and the App Store.",
-    maintenance: "Backups, updates and small edits free for five months after go-live, then from ₹8,000 a month.",
+    maintenance: "Backups, updates and small edits free for two months after go-live, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Rohtak sits close enough to Delhi and Gurugram that many local firms hire web agencies there and pay NCR rates. Others go to a local operator and hope for the best. We sit between the two: published prices, direct access to the engineers, WhatsApp replies every day and five months of free support.",
+    "Rohtak sits close enough to Delhi and Gurugram that many local firms hire web agencies there and pay NCR rates. Others go to a local operator and hope for the best. We sit between the two: published prices, direct access to the engineers, WhatsApp replies every day and two months of free support.",
   pricingIntro:
     "Our starting prices apply in Rohtak exactly as everywhere else. A small practice site and a fifty-part catalogue for an IMT supplier are very different jobs, so the final figure follows scope. Each quote lists every page and feature with its own price, and you approve it before we bill anything.",
   sections: [
@@ -168,7 +168,7 @@ const rohtak: CityContent = {
       paragraphs: [
         "We regularly meet Rohtak businesses whose website sits in a former developer's hosting account, with the domain registered under that developer's email. When the relationship ends, so does access. Renewals are missed, security certificates expire, and customers see a browser warning instead of your homepage.",
         "With us, the domain is registered in your name and hosting runs on your own account from the start. At launch you get every login, the complete source code and a short document explaining the set-up. You can move to another developer at any point, without an exit fee or awkward requests.",
-        "Five months of maintenance are included free after launch: content edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can pay only for the changes you ask for.",
+        "Two months of maintenance are included free after launch: content edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can pay only for the changes you ask for.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const rohtak: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch, we handle content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that you can take a plan from ₹8,000 a month or pay only for the changes you request.",
+        "For two months after launch, we handle content and price changes, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks at no cost. After that you can take a plan from ₹8,000 a month or pay only for the changes you request.",
     },
     {
       question: "How long before SEO shows results in Rohtak?",

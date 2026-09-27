@@ -35,7 +35,7 @@ const lakhimpur: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Dudhwa stay bookings", "Agri dealer catalogues", "WhatsApp auto-replies"],
   },
   quickAnswer:
-    "For Lakhimpur Kheri businesses, our websites begin at ₹10,000 and usually take one to two weeks. SEO sites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely without a Lakhimpur office, send itemised quotes, and give five months of free maintenance.",
+    "For Lakhimpur Kheri businesses, our websites begin at ₹10,000 and usually take one to two weeks. SEO sites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely without a Lakhimpur office, send itemised quotes, and give two months of free maintenance.",
   snapshot: [
     { label: "District", value: "Lakhimpur is headquarters of Lakhimpur Kheri, the largest district in Uttar Pradesh by area, on the Nepal border" },
     { label: "Distance", value: "About 124 km from Lucknow, with broad-gauge rail and UPSRTC buses; Lucknow airport roughly 135 km away" },
@@ -52,10 +52,10 @@ const lakhimpur: CityContent = {
     ai: "WhatsApp assistants answering fee, stock or booking questions in Hindi and passing tricky conversations to your team.",
     data: "Dashboards for crushing-season sales, admissions or clinic footfall, built from the registers and sheets you already keep.",
     app: "Android and iOS apps for field staff, dealer orders and school attendance on everyday phones, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Five months of free fixes, backups and updates after launch, then maintenance from ₹8,000 a month if needed.",
+    maintenance: "Two months of free fixes, backups and updates after launch, then maintenance from ₹8,000 a month if needed.",
   },
   whyUsIntro:
-    "Lakhimpur owners often hire someone from Lucknow who disappears after launch, or a nephew who built one site in college. We show starting prices openly, write in natural Hindi, reply on WhatsApp every day including Sundays, and keep your site maintained without charge for five months after it goes live.",
+    "Lakhimpur owners often hire someone from Lucknow who disappears after launch, or a nephew who built one site in college. We show starting prices openly, write in natural Hindi, reply on WhatsApp every day including Sundays, and keep your site maintained without charge for two months after it goes live.",
   pricingIntro:
     "These are our entry prices for Lakhimpur Kheri projects, not package rates. The actual quote grows or shrinks with pages, products, languages and features. It comes to you itemised in writing, and we bill nothing until you approve it in writing.",
   sections: [
@@ -192,11 +192,11 @@ const lakhimpur: CityContent = {
     },
     {
       id: "ownership-maintenance-lakhimpur",
-      heading: "Full ownership and five months of free maintenance",
+      heading: "Full ownership and two months of free maintenance",
       paragraphs: [
         "A familiar Lakhimpur problem: the old website was registered in the developer's name, the developer moved to another city, and one day the domain expired. The business lost its site, its listings pointed nowhere and the email stopped working.",
         "We avoid this from the start. The domain and hosting are registered in your name, every login is handed over at launch, and you own the source code. If you ever want to move to another developer, you can, with no exit fee and nothing held back. We also give you a short written guide to how the site is set up.",
-        "For five months after launch we handle updates, bug fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can message us only when something is needed. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
+        "For two months after launch we handle updates, bug fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can message us only when something is needed. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
       ],
     },
   ],
@@ -278,7 +278,7 @@ const lakhimpur: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that you can continue from ₹8,000 a month, or simply contact us when you need a change. There is no compulsory contract.",
+        "For two months after launch we handle content updates, bug fixes, security and software updates, backups and uptime monitoring without charge. After that you can continue from ₹8,000 a month, or simply contact us when you need a change. There is no compulsory contract.",
     },
     {
       question: "How long does SEO take to work in Lakhimpur?",

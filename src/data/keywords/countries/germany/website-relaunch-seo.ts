@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Shop relaunch from", P.shop],
     ["Monitoring after launch", "90 days of Search Console checks"],
     ["Redirects kept", "At least a year, ideally permanently"],
-    ["Free maintenance", `5 months, then from ${P.care}`],
+    ["Free maintenance", `2 months, then from ${P.care}`],
   ],
   stats: [
     { value: "90", label: "Days of post-launch monitoring" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "3", label: "Developers on your relaunch" },
   ],
   answer: {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
         { heading: "Day 90 review", text: "A written summary for your team: what moved, what was fixed, what remains, and whether the redirects, sitemaps and old domain are set up to stay as they are." },
       ],
       after: [
-        `If you want ongoing SEO after that, monthly work starts from ${P.seo}; many clients simply move to a maintenance plan from ${P.care} after the five free months.`,
+        `If you want ongoing SEO after that, monthly work starts from ${P.seo}; many clients simply move to a maintenance plan from ${P.care} after the two free months.`,
       ],
     },
     {
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "Can you handle only the SEO side while my agency builds the site?", answer: "Yes. For website relaunch SEO alone, we can own the URL inventory, redirect map, content parity checks, staging checks, launch-day tests and monitoring while another team designs and builds. We need access to staging and the server or edge where redirects are configured. This works best when we join before the new structure is signed off." },
     { question: "What does the first week of a relaunch project look like?", answer: "Access to Search Console, analytics and the current CMS; a full crawl; export of sitemaps and existing redirects; and a first draft of the URL inventory with traffic and link data attached. By the end of the first week your team can see which pages carry the site's search value and plan the new structure around them." },
     { question: "Why hire a remote team in India for a German website relaunch?", answer: "Mainly budget and focus: website relaunch SEO is detailed planning, building and testing, which suits a small remote team, and our starting prices are published so you can compare them with the quotes you collect. Launch day is scheduled for a German morning so everyone is online. The limits are real: calls are in English, German copy comes from your side, and we do not visit your office." },
-    { question: "Who owns the new website after the relaunch?", answer: "Your company does. Domain, hosting, code and Search Console properties are in your accounts, and we work with individual logins you can remove at any time. After launch you get five months of free maintenance, and care plans start from " + P.care + " if you want us to continue." },
+    { question: "Who owns the new website after the relaunch?", answer: "Your company does. Domain, hosting, code and Search Console properties are in your accounts, and we work with individual logins you can remove at any time. After launch you get two months of free maintenance, and care plans start from " + P.care + " if you want us to continue." },
   ],
   related: {
     heading: "More web and SEO pages for German companies",

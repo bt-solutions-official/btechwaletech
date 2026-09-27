@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks after your service list is agreed"],
     ["Launch target", "Before the first hard freeze"],
     ["Ownership", "Everything registered to your company"],
-    ["Included", "5 months of free maintenance"],
+    ["Included", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers you deal with directly" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Platform fees added to your quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a Canadian plumbing company's website need to win emergency and renovation calls?",
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
         { heading: "Monthly SEO", text: `Seasonal updates, area pages and call-report reviews, from ${P.seo}.` },
       ],
       after: [
-        `Maintenance is free for 5 months after launch, then from ${P.care} if you keep it. Hosting, domain and call-tracking subscriptions are paid by you directly. For broader numbers, see <a href='/canada/website-design-cost/'>website design costs in Canada</a>.`,
+        `Maintenance is free for 2 months after launch, then from ${P.care} if you keep it. Hosting, domain and call-tracking subscriptions are paid by you directly. For broader numbers, see <a href='/canada/website-design-cost/'>website design costs in Canada</a>.`,
       ],
     },
     {
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
     { question: "Who owns my plumbing website?", answer: "Your company does. The domain, hosting account, call-tracking account and source code are registered in your name from the start, and all logins are handed over at launch. If you stop working with us, the site keeps running and any other developer can take it over." },
     { question: "Can my plumbing website reply to missed calls automatically?", answer: `Yes. A missed-call text reply asks whether the problem is an emergency, shares your after-hours options and can book routine jobs into your calendar. Overnight website messages can be handled the same way. This automation starts at ${P.ai} and uses only the wording you approve.` },
     { question: "Can a plumbing website help win renovation work?", answer: "Yes. Planning pages for bathroom rough-ins, water heaters, repiping and flood protection, with your own photos, a clear explanation of the process and a quote form that accepts photos, attract homeowners who are comparing plumbers. A short page for general contractors helps win subcontract work too." },
-    { question: "What does plumbing website maintenance cost?", answer: `Maintenance is free for the first 5 months after launch, covering fixes, updates, seasonal banners and small content changes. After that it starts at ${P.care} if you want to continue. Monthly SEO, starting at ${P.seo}, covers new seasonal and area content and call-report reviews.` },
+    { question: "What does plumbing website maintenance cost?", answer: `Maintenance is free for the first 2 months after launch, covering fixes, updates, seasonal banners and small content changes. After that it starts at ${P.care} if you want to continue. Monthly SEO, starting at ${P.seo}, covers new seasonal and area content and call-report reviews.` },
     { question: "Do you build French plumbing websites?", answer: "Yes. We build separate English and French versions with a language switcher and correct language tags for search engines. We write in English, so you supply the French copy or approve a professional translation. Quebec businesses should have their lawyer confirm the site meets provincial language rules." },
     { question: "How do I pay a web team in India from Canada?", answer: "Your quote is in USD, and you pay by Wise, bank wire or PayPal from a Canadian-dollar account, with the conversion handled by your bank or Wise. Nothing is billed before you approve the quote in writing, and invoices come from India. Your accountant decides how they're treated." },
     { question: "Can a plumbing website appear in AI search answers?", answer: "It can when pages give direct answers, numbered emergency steps and local detail, with subsidy or permit information linked to official sources. We structure pages that way and add structured data. Nobody can guarantee an AI tool will cite a particular page or that it will rank first in Google." },

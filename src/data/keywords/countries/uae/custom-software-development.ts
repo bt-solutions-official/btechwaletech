@@ -44,7 +44,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who scope, build and support" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Licence or per-seat fees to us" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Discovery", value: "Video calls, screen shares of your current sheets and tools" },
       { label: "Connects to", value: "Zoho apps, TallyPrime, Excel or Google Sheets, email, WhatsApp" },
       { label: "Hosting", value: "AWS Middle East (UAE) or Azure UAE North, on your account" },
-      { label: "After launch", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -86,7 +86,7 @@ const content: FreelanceContent = {
     rows: [
       ["Time to start using it", "Days", "Weeks to months", "First phase in 6–12 weeks"],
       ["Fits your exact workflow", "Partly; you adapt to it", "Yes", "Yes, built around it"],
-      ["Ongoing cost shape", "Per user, per month, rising with headcount", "Project fee plus support contract", `Project from ${P.software}; support from ${P.care} after 5 free months`],
+      ["Ongoing cost shape", "Per user, per month, rising with headcount", "Project fee plus support contract", `Project from ${P.software}; support from ${P.care} after 2 free months`],
       ["Who owns the code", "The vendor", "Depends on the contract", "You, from the first commit"],
       ["Data location", "Vendor's choice of region", "Agreed per project", "Your cloud account, UAE region available"],
       ["Face-to-face workshops", "Not applicable", "Usually available", "No; video calls and screen shares only"],
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       id: "support",
       heading: "Support and handover after custom software development in Dubai",
       paragraphs: [
-        `Every system we launch includes five months of free maintenance, covering fixes to what we built. After that, monthly support starts from ${P.care}, with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours; we do not offer overnight on-call cover, so plan accordingly if your system runs a 24-hour operation.`,
+        `Every system we launch includes two months of free maintenance, covering fixes to what we built. After that, monthly support starts from ${P.care}, with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours; we do not offer overnight on-call cover, so plan accordingly if your system runs a 24-hour operation.`,
         `Support is not only about bugs. Operating-system and browser updates, library security patches, API changes at Zoho or elsewhere, and new VAT or e-invoicing fields all create work even when you request no features. We keep a short monthly log of what changed so that anyone taking over later can see the history.`,
         `If you prefer to bring the system in-house, we will onboard your developer with a recorded walkthrough and a few paired sessions. Whether you ultimately hire a custom software development company in Dubai, a freelancer or an employee to run it next, a clean handover protects the investment. For examples of the kind of work we do, see our <a href='/portfolio/'>portfolio</a>.`,
       ],
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
         ["Phase 2: next bottleneck", "Purchasing, approvals, portal or second integration", "4–10 weeks", "Quoted after phase 1"],
         ["Automation and AI steps", "Document reading, reminders, drafted replies with human review", "2–4 weeks", P.ai],
         ["Mobile screens for field staff", "Cross-platform app on the same backend", "6–10 weeks", P.app],
-        ["Support after launch", "Fixes, updates, monitoring, small changes", "Monthly, after 5 free months", P.care],
+        ["Support after launch", "Fixes, updates, monitoring, small changes", "Monthly, after 2 free months", P.care],
       ],
     },
   ],
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Remote discovery", "Two or three recorded video sessions tracing real examples, followed by a process map and clickable screens for you to correct."],
       ["Itemised USD quote", "Within about two working days: phase one scope, each integration and rule priced, week-by-week plan, and what is deliberately left for later."],
       ["Build in your accounts", "Code in your repository, hosting on your cloud, weekly demos on a live test environment, and data migration rehearsed before go-live."],
-      ["Go live and review", "Launch with your team, five months of free maintenance, and a review after real use to decide whether phase two is worth doing."],
+      ["Go live and review", "Launch with your team, two months of free maintenance, and a review after real use to decide whether phase two is worth doing."],
     ],
   },
   faqHeading: "Custom software development company in Dubai: questions answered",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "How is custom software different from a web application?", answer: "The terms overlap. Custom software is the broad category: any system built for your business, including internal tools, integrations and automations. A web application is one way to deliver it, running in a browser, and is what we recommend for most UAE SMEs because it works on every device without app-store reviews. Customer or dealer portals are covered on our web application page." },
     { question: "Do you migrate data from our old spreadsheets?", answer: "Yes. We import customers, items, price lists and open transactions from Excel or Google Sheets, after a cleanup pass to merge duplicates and fix inconsistent codes. Someone on your side signs off the cleaned data before go-live, and we rehearse the migration on the test environment first so the final switch-over takes hours, not days." },
     { question: "How do we pay a software team in India from the UAE?", answer: "Quotes are in USD and invoices are issued from India. You pay by Wise, bank wire or PayPal against the milestones set out in your written quote, and nothing is billed before you approve that quote in writing. For how foreign services are treated for VAT or accounting in your books, please check with your own accountant." },
-    { question: "Do you provide maintenance after the software goes live?", answer: `Yes. Every system includes five months of free maintenance after launch, covering fixes to what we built. After that, monthly support starts from ${P.care}, with the scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours but do not offer 24/7 on-call cover, which matters if your operation never stops.` },
+    { question: "Do you provide maintenance after the software goes live?", answer: `Yes. Every system includes two months of free maintenance after launch, covering fixes to what we built. After that, monthly support starts from ${P.care}, with the scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours but do not offer 24/7 on-call cover, which matters if your operation never stops.` },
     { question: "Can you add AI to our existing business software?", answer: `Often, yes. Common additions are reading supplier invoices or delivery notes into structured data, drafting replies to routine enquiries, and summarising long job histories. Each AI step includes human review for anything that affects money or customers, and we tell you where the text is processed. Automation work starts from ${P.ai}.` },
     { question: "How do you handle personal data in custom software?", answer: "We design for data minimisation, role-based access, encryption in transit and at rest, and audit logs of who changed what. The UAE's federal personal data protection law came into force in January 2022, and some free zones such as the DIFC have their own laws. Which rules apply to you, and how, should be confirmed by your own legal adviser." },
     { question: "Can the software have an Arabic interface?", answer: "Yes. We build right-to-left layouts, mirrored navigation and bilingual screens where staff or customers need them, and test each screen in both languages. The Arabic wording itself should come from you or a professional translator, because our team writes in English. We provide the text files for translation and load them back into the system." },

@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "2", label: "Stores published from one codebase" },
     { value: "3", label: "Freelance developers on your app" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "App MVP for startups", note: "A first version with only the flows that prove the idea, released to testers on both platforms before a public launch.", href: "/startup-app-developer/", size: "md" },
       { name: "PWA before the app", note: "An installable web app to test demand on any phone before committing to store releases.", href: "/pwa-vs-native-app/", size: "sm" },
       { name: "Landing page for the app", note: `A fast page with store badges and a QR code so search and ads can send people to the right store, from ${P.site}.`, href: "/landing-page-vs-website/", size: "sm" },
-      { name: "App maintenance", note: `OS updates, store policy changes and bug fixes after 5 free months, from ${P.care}.`, href: "/pricing/", size: "sm" },
+      { name: "App maintenance", note: `OS updates, store policy changes and bug fixes after 2 free months, from ${P.care}.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Build tools", "Any OS", "Needs macOS and Xcode for builds", "We handle both toolchains"],
       ["Build start price", "Same codebase either way", "Same codebase either way", `From ${P.app} for both stores`],
       ["Risk", "iPhone customers feel left out", "Most of India cannot use it", "Slightly more testing and review time"],
-      ["After launch", "Android updates and policy changes", "iOS updates and review for each release", "5 months free, then from " + P.care],
+      ["After launch", "Android updates and policy changes", "iOS updates and review for each release", "2 months free, then from " + P.care],
     ],
     fine: "If your app depends on deep platform-specific hardware features, separate native apps may be justified, and that changes the cost picture; we will say so in the quote.",
   },
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
         ["Shared backend and admin panel for larger apps", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["App landing page with store badges", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
         ["WhatsApp bot before any app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Open store accounts in your name", "You register with Google Play and Apple, including a D-U-N-S number if needed, and invite us as users with the right permissions."],
       ["Build once, test on real phones", "The shared Flutter or React Native app is built in weekly increments and tested on budget Android, mid-range Android and iPhone."],
       ["Run closed testing and TestFlight", "Testers from your staff and customers use pre-release builds, including any 14-day Play testing period, while we fix what they report."],
-      ["Release and support", "We submit to both stores in the agreed order, answer reviewer questions, then cover fixes and OS updates free for five months."],
+      ["Release and support", "We submit to both stores in the agreed order, answer reviewer questions, then cover fixes and OS updates free for two months."],
     ],
   },
   faqHeading: "Android or iOS app first: questions business owners ask",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Do I need an app at all, or is a website enough?", answer: "Many businesses are better served by a fast mobile website plus WhatsApp until customers return often enough to justify an app. Apps pay off with repeat use, loyalty, subscriptions and device features. If you are unsure, start with a website and measure repeat visits before committing to either store." },
     { question: "Android ya iPhone app pehle banwaye?", answer: `Zyada tar Indian business ke liye Android pehle ya dono ek saath, kyunki Android sabse zyada logon ke paas hai. Agar aapke customers premium ya metro wale hain to iPhone bhi zaroori hai. Flutter mein ek hi code se dono app bante hain, aur humare saath ${P.app} se shuru hote hain.` },
     { question: "Can you add iOS later if I launch Android first?", answer: "Yes, if the app was built cross-platform from the start. The iOS build then needs Apple account setup, some platform-specific configuration, testing on iPhones and App Store review, not a rewrite. If the Android app was written natively in Kotlin, adding iOS means building a second app, which is why we plan for both from day one." },
-    { question: "What does maintenance look like for apps on both stores?", answer: `Both Android and iOS release new versions every year, and both stores update their policies, so apps need periodic updates to stay compatible and listed. Our apps include five months of free maintenance after launch, then maintenance continues from ${P.care} only if you want it. Apple's developer membership also renews yearly.` },
+    { question: "What does maintenance look like for apps on both stores?", answer: `Both Android and iOS release new versions every year, and both stores update their policies, so apps need periodic updates to stay compatible and listed. Our apps include two months of free maintenance after launch, then maintenance continues from ${P.care} only if you want it. Apple's developer membership also renews yearly.` },
   ],
   related: {
     heading: "More on Android, iOS and app launch decisions",

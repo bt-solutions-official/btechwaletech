@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Most expensive category", "Marketing"],
     ["Our setup work from", `${P.ai} · ${P.aiUsd}`],
     ["Our markup on Meta charges", "None; Meta bills you"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "0", label: "Markup from us on Meta’s message rates" },
     { value: "24", label: "Hours in the free customer service window" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What is the WhatsApp Business API cost in India per month?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Provider layer", value: "Monthly plan, per-message margin or both, depending on the BSP" },
       { label: "Direct Cloud API", value: "No platform fee from Meta; you pay Meta’s rates only" },
       { label: "One-time setup with us", value: `From ${P.ai} (${P.aiUsd})` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,14 +90,14 @@ const content: FreelanceContent = {
       ["Chatbot or inbox features", "Often a higher plan tier", "Whatever you build", "Built to your need, quoted per line"],
       ["Cost visibility", "Provider’s invoice", "Meta’s billing in WhatsApp Manager", "Meta’s billing plus our message log"],
       ["Changing provider later", "Number and templates must move", "Nothing to move", "Nothing to move"],
-      ["Ongoing upkeep", "Included while you pay the plan", "Your developer", `5 months free, then from ${P.care}`],
+      ["Ongoing upkeep", "Included while you pay the plan", "Your developer", `2 months free, then from ${P.care}`],
       ["Cheapest when", "Low volume, no own software, want a dashboard now", "You have a developer with spare time", "Steady volume and your own website or CRM"],
     ],
     fine: "At very low volumes with no software to connect, a provider’s entry plan can cost less overall than any custom setup, including ours; the maths changes as volume and integration needs grow.",
   },
   pricing: {
     heading: "WhatsApp Business API cost in India: our part of the bill",
-    note: `Our work is the one-time setup, not the messages. Direct Cloud API setup starts at ${P.ai} (${P.aiUsd}) and covers onboarding in your Meta account, one number, a webhook receiver and message log, a first set of templates and one connected system such as your website or CRM. It takes 2–4 weeks. Meta’s per-message charges go straight to the payment method in your WhatsApp Business account, and we never resell or mark them up. A custom team inbox or CRM is quoted as custom software from ${P.software}. After five months of free maintenance, optional upkeep starts at ${P.care}. The table below lists all our starting prices.`,
+    note: `Our work is the one-time setup, not the messages. Direct Cloud API setup starts at ${P.ai} (${P.aiUsd}) and covers onboarding in your Meta account, one number, a webhook receiver and message log, a first set of templates and one connected system such as your website or CRM. It takes 2–4 weeks. Meta’s per-message charges go straight to the payment method in your WhatsApp Business account, and we never resell or mark them up. A custom team inbox or CRM is quoted as custom software from ${P.software}. After two months of free maintenance, optional upkeep starts at ${P.care}. The table below lists all our starting prices.`,
   },
   guideLabel: "WhatsApp Business API cost guide",
   guide: [
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       heading: "When is direct Cloud API cheaper than a BSP?",
       paragraphs: [
         `Direct Cloud API is cheaper when the provider’s monthly plan plus its per-message margin, over the months you will use WhatsApp, adds up to more than a one-time integration plus a small hosting and upkeep bill. The break-even depends on volume and on whether you have your own software to connect.`,
-        `Work it out like this. Take the provider’s monthly plan and multiply by 24 or 36 months. Add its per-message margin multiplied by your monthly marketing, utility and authentication volumes over the same period. Compare that with a direct setup (ours starts at ${P.ai}), hosting in your own cloud account, and optional upkeep after the free five months, from ${P.care}. Meta’s message charges appear on both sides, so they cancel out unless the provider marks them up.`,
+        `Work it out like this. Take the provider’s monthly plan and multiply by 24 or 36 months. Add its per-message margin multiplied by your monthly marketing, utility and authentication volumes over the same period. Compare that with a direct setup (ours starts at ${P.ai}), hosting in your own cloud account, and optional upkeep after the free two months, from ${P.care}. Meta’s message charges appear on both sides, so they cancel out unless the provider marks them up.`,
         `Choose a provider when you send a few hundred to a few thousand messages a month, need a ready inbox and campaign screen immediately, and have no website, CRM or store that must trigger messages. Choose direct when you have your own software to connect, send tens of thousands of messages, want chat data in your own database, or already pay for a CRM that can serve as the inbox. Our page on <a href='/whatsapp-crm-for-small-business/'>choosing a WhatsApp CRM</a> covers the inbox side of that decision.`,
       ],
     },
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
         ["Provider subscription and seats", "Recurring, monthly", "BSP", "Plan × months, plus seats per agent"],
         ["Provider per-message margin", "Recurring", "BSP", "Provider rate minus Meta rate × monthly volume"],
         ["Direct Cloud API setup", "One-time", "Developer", `From ${P.ai} with us`],
-        ["Upkeep", "Recurring, optional", "Developer", `5 months free, then from ${P.care}`],
+        ["Upkeep", "Recurring, optional", "Developer", `2 months free, then from ${P.care}`],
       ],
       hideSm: [2],
     },
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Fix categories and timing", "We rewrite templates so updates stay utility, plan sends inside open windows, and move promotions to opted-in segments."],
       ["Set up direct billing", "Your WhatsApp Business account sits in your own portfolio with INR billing and your payment method, so Meta bills you without a middleman."],
       ["Log every message", "Each send is stored with its category and window status, so you can see month by month what was charged and what was free."],
-      ["Review after the first month", "We compare real charges with the estimate and adjust. Maintenance is free for five months, then optional from " + P.care + "."],
+      ["Review after the first month", "We compare real charges with the estimate and adjust. Maintenance is free for two months, then optional from " + P.care + "."],
     ],
   },
   faqHeading: "WhatsApp Business API cost in India: common questions",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us last month’s messages and get a real WhatsApp cost estimate",
-    note: `Share rough message counts or a provider export on WhatsApp. In about two working days you get a monthly Meta cost estimate by category and an itemised setup quote, with direct Cloud API setup from ${P.ai}, billing in your own name and five months of free maintenance.`,
+    note: `Share rough message counts or a provider export on WhatsApp. In about two working days you get a monthly Meta cost estimate by category and an itemised setup quote, with direct Cloud API setup from ${P.ai}, billing in your own name and two months of free maintenance.`,
   },
 };
 

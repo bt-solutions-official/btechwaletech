@@ -56,7 +56,7 @@ const vellakoil: CityContent = {
     ai: "WhatsApp assistants in Tamil that answer rate, stock and dispatch questions and hand anything unusual to the owner.",
     data: "Dashboards of metres woven per loom, yarn stock, oil batches pressed, poultry batch costs and dues outstanding by buyer.",
     app: "Android and iOS apps from ₹40,000 for loom supervisors to log output or for repeat oil buyers to re-order, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and store updates.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and store updates.",
   },
   whyUsIntro:
     "Vellakoil runs on thin margins and repeat buyers, so owners here judge a supplier by whether promises hold. We publish starting prices, send a written itemised quote, answer on WhatsApp every day, and put the domain, hosting, code and app store accounts in your name from the first day. When a feature is not worth paying for, we tell you.",
@@ -178,7 +178,7 @@ const vellakoil: CityContent = {
       heading: "Who owns the site, and how maintenance works after launch",
       paragraphs: [
         "Everything we build for a Vellakoil client is registered to that client. The domain is booked on your email address, hosting is billed in your name, the source code is handed over, and the Google Business Profile, Google Play and Apple developer accounts list you as the owner. At handover you get a written sheet of every login, so no developer, including us, can hold your site back later.",
-        "The first five months after launch are covered free. In that time we update prices and photographs, take backups, apply security and version updates, and check that forms, checkout and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or give the code to any developer you prefer.",
+        "The first two months after launch are covered free. In that time we update prices and photographs, take backups, apply security and version updates, and check that forms, checkout and WhatsApp buttons still work. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or give the code to any developer you prefer.",
         "Apps need attention even when nothing is broken, because Google and Apple raise their minimum requirements every year. We track those deadlines and rebuild in good time so your app is not removed from the store.",
       ],
     },
@@ -275,7 +275,7 @@ const vellakoil: CityContent = {
     {
       question: "What maintenance do I get after my website goes live?",
       answer:
-        "The first five months are free: we update prices and photographs, take backups, apply security patches and check that forms, checkout and WhatsApp links still work. After that, continuing with us starts at ₹8,000 a month, but it is optional. The code and all accounts are already yours, so you can move to anyone.",
+        "The first two months are free: we update prices and photographs, take backups, apply security patches and check that forms, checkout and WhatsApp links still work. After that, continuing with us starts at ₹8,000 a month, but it is optional. The code and all accounts are already yours, so you can move to anyone.",
     },
     {
       question: "Do you work with businesses in Muthur, Kangeyam and Dharapuram?",

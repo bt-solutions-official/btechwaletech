@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "7", label: "Days a week we answer on WhatsApp" },
     { value: "3", label: "People who can open your site if one is away" },
-    { value: "5", label: "Months of free care after any new build" },
+    { value: "2", label: "Months of free care after any new build" },
     { value: "2", label: "Working days to an itemised estimate" },
   ],
   answer: {

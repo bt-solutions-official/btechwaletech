@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Usual build time", "6–10 weeks for the apps"],
     ["Written quote", "Itemised, in about 2 working days"],
     ["Customer payments", "UPI, cards and cash on job completion"],
-    ["Post-launch support", "5 months of free maintenance"],
+    ["Post-launch support", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Apps in one system: customer, partner, admin" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Share of your commission taken by us" },
   ],
   answer: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Home service app development pricing",
-    note: `We price a home services marketplace in parts, so you can see what each piece costs. The customer app and the partner app, both for Android and iPhone from a shared Flutter codebase, start at ${P.app}. The admin panel, where your team approves partners, manages zones and slot capacity, dispatches jobs, sets commission rules and runs payouts, starts at ${P.software}. WhatsApp updates and automated partner reminders start at ${P.ai}. A marketing website with service and area pages starts at ${P.site}, or ${P.seoSite} for a large SEO build. Upkeep after the five free months starts at ${P.care} a month. Every figure is a starting price.`,
+    note: `We price a home services marketplace in parts, so you can see what each piece costs. The customer app and the partner app, both for Android and iPhone from a shared Flutter codebase, start at ${P.app}. The admin panel, where your team approves partners, manages zones and slot capacity, dispatches jobs, sets commission rules and runs payouts, starts at ${P.software}. WhatsApp updates and automated partner reminders start at ${P.ai}. A marketing website with service and area pages starts at ${P.site}, or ${P.seoSite} for a large SEO build. Upkeep after the two free months starts at ${P.care} a month. Every figure is a starting price.`,
   },
   guideLabel: "Home service app guide",
   guide: [
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Choose a clone script when you want to test demand in one area cheaply and can live with its limits; choose custom home service app development when your rules, commission structure or partner process differ from the template, or when you need to own clean code you can keep extending.`,
         `Clone scripts are ready-made copies of popular service apps sold with a licence. Some are fine for a pilot. The recurring problems are licences that restrict editing or reselling, code that nobody on the seller’s side will maintain, and a data model built for one flat commission and a single category type. Adding inspect-and-quote jobs or a partner wallet to such a base often costs more than building it cleanly.`,
-        `With a custom build, the Google Play and App Store listings are in your business’s developer accounts, the server runs in your cloud account and the full source is handed over. Google Play charges a one-time US$25 registration fee and Apple’s developer programme costs US$99 a year, paid by you directly. After five free months of maintenance, you can keep us on for upkeep from ${P.care} a month or hand the code to another team. Our page on <a href='/readymade-app-vs-custom-app/'>readymade vs custom apps</a> gives the general decision rules.`,
+        `With a custom build, the Google Play and App Store listings are in your business’s developer accounts, the server runs in your cloud account and the full source is handed over. Google Play charges a one-time US$25 registration fee and Apple’s developer programme costs US$99 a year, paid by you directly. After two free months of maintenance, you can keep us on for upkeep from ${P.care} a month or hand the code to another team. Our page on <a href='/readymade-app-vs-custom-app/'>readymade vs custom apps</a> gives the general decision rules.`,
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Rule sheet and screens", "Before code, we agree a short rule sheet for slots, commission, cancellations and payouts, plus screen designs for the three apps, and you sign off."],
       ["Partner side, then customer side", "We build onboarding and the job flow first so you can recruit partners while the customer app and payments are finished. Test builds arrive weekly."],
       ["Field trial with real partners", "A few partners run real jobs through the app for your existing customers. We fix what the field reveals before public launch."],
-      ["Store release and handover", "Apps go live in your store accounts, code and logins are handed over, and five months of free maintenance start."],
+      ["Store release and handover", "Apps go live in your store accounts, code and logins are handed over, and two months of free maintenance start."],
     ],
   },
   faqHeading: "Home service app development: questions founders ask",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Can the partner app work in Hindi and other Indian languages?", answer: "Yes. We build the partner app with language files, so labels, job instructions and notifications can appear in Hindi or a regional language you choose. You supply or approve the translated wording. Large buttons, icons and voice notes for job details make it easier for partners who rarely type, and it runs on budget Android phones." },
     { question: "Can you add AC repair, cleaning and salon services in one app?", answer: "Yes, that is what a multi-category marketplace is for. Each category gets its own rules: salon services use fixed start times and fixed prices, cleaning uses team bookings and long durations, and AC repair uses a visit charge with an on-site quote. The customer sees one app and one account across all of them." },
     { question: "Should I hire a freelancer or an agency for home service app development?", answer: "Either can work if they understand marketplaces with two-sided payments. With a small freelance team like ours you speak directly with the three people who build the apps and overheads stay low. A larger agency offers more staff and layers of process. Whoever you choose, ask them to explain slot capacity, cash-commission recovery and ownership before signing." },
-    { question: "What does maintenance of a home service app include?", answer: `The first five months after launch are free and cover bug fixes, store updates and small changes. After that, maintenance starts at ${P.care} a month and usually includes Android and iOS version updates, security patches, server monitoring and minor adjustments. New modules, such as memberships or a second city, are quoted separately in writing.` },
+    { question: "What does maintenance of a home service app include?", answer: `The first two months after launch are free and cover bug fixes, store updates and small changes. After that, maintenance starts at ${P.care} a month and usually includes Android and iOS version updates, security patches, server monitoring and minor adjustments. New modules, such as memberships or a second city, are quoted separately in writing.` },
     { question: "How do I get my first customers for a home services app?", answer: "Begin with customers you already serve, housing society notice boards and WhatsApp groups, and partners who bring their regulars. Build a website with a page per service in each area you cover, set up a Google Business Profile where you qualify, and ask happy customers for reviews. Nobody can guarantee search rankings, but specific, honest pages help." },
     { question: "Can the app handle annual maintenance plans and memberships?", answer: "Yes. A membership is sold once and then redeemed across visits, such as three AC services a year or monthly bathroom cleaning. The app tracks visits used and remaining, books them against normal slot capacity and reminds customers when a visit is due. If AMCs are your core business, our AMC management software page goes deeper." },
     { question: "Do you visit our city to train partners?", answer: "No. We work fully remotely from India and do not make site visits. Instead we record short training videos for partners and ops staff, write simple guides in English or Hindi, and join video calls during the field trial. Your supervisors handle in-person partner training, using the checklists we build into the app." },

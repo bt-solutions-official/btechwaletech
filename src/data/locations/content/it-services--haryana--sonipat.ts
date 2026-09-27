@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Sonipat · Haryana · NCR",
     h1: "Freelance software developers in Sonipat for Kundli factories, Rai campuses and Kharkhoda suppliers",
     lede:
-      "Comparing software development companies in Sonipat? BtechWaleTech is a freelance group of three engineers working remotely from India that ships working systems rather than slide decks. We build production and dispatch tools, vendor portals, AI agents, mobile apps, dashboards, online stores and SEO sites for manufacturers, warehouses, universities and retailers across Sonipat district, with published starting prices and five months of free maintenance after launch.",
+      "Comparing software development companies in Sonipat? BtechWaleTech is a freelance group of three engineers working remotely from India that ships working systems rather than slide decks. We build production and dispatch tools, vendor portals, AI agents, mobile apps, dashboards, online stores and SEO sites for manufacturers, warehouses, universities and retailers across Sonipat district, with published starting prices and two months of free maintenance after launch.",
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Stores from ₹50,000", "Android & iOS apps from ₹40,000", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read purchase orders and invoices, answer dealer and student queries on WhatsApp, and prepare daily summaries for owners.",
     data: "Dashboards for output, rejection rates, stock, dispatch and receivables, pulling from Tally, spreadsheets or the software we build.",
     app: "Android and iOS apps from ₹40,000 for Sonipat factories, warehouses, student housing and food brands, built once in Flutter or React Native and released on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month covering fixes, updates, backups and monitoring.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month covering fixes, updates, backups and monitoring.",
   },
   whyUsIntro:
     "Sonipat firms often get quoted by Delhi or Gurugram agencies whose rates assume Cyber City budgets, or by generalists who resell templates. BtechWaleTech is three engineers: you talk to the people who write your software, see prices before the first call, and keep every account in your own name.",
@@ -205,7 +205,7 @@ const content: CityContent = {
       paragraphs: [
         "A Sonipat project with BtechWaleTech takes one to two weeks for a static site, two to four weeks for automation, three to five weeks for a large SEO site, four to eight weeks for a store and six to twelve weeks for custom software. The main variables are how fast decisions and data arrive and how many user roles need testing.",
         "We are remote and have no Sonipat office, which suits factory owners who cannot leave the floor for meetings. Discovery happens over a video call where you share your screen and show us the registers or spreadsheets you use. We send a written scope, then build in short cycles on a live preview link. Your supervisors test real entries before launch, which catches problems a demo never shows.",
-        "After launch, five months of maintenance are free. You message a screenshot on WhatsApp and we fix it. To start, <a href='/contact/'>send a short description of your requirement</a>; the itemised quote follows in about two working days.",
+        "After launch, two months of maintenance are free. You message a screenshot on WhatsApp and we fix it. To start, <a href='/contact/'>send a short description of your requirement</a>; the itemised quote follows in about two working days.",
       ],
     },
   ],
@@ -265,7 +265,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance after launch?",
       answer:
-        "Five months of maintenance are free after the system goes live: bug fixes, small changes, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change. Urgent problems such as a system being down get priority on any day of the week.",
+        "Two months of maintenance are free after the system goes live: bug fixes, small changes, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change. Urgent problems such as a system being down get priority on any day of the week.",
     },
     {
       question: "Can an AI agent really read our purchase orders?",

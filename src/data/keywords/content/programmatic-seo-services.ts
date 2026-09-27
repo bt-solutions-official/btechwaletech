@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "299+", label: "Pages in our SEO website plan, the usual programmatic starting point" },
     { value: "3", label: "Freelance developers across data, build and technical SEO" },
     { value: "50,000", label: "URLs Google accepts in a single sitemap file" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How do you build thousands of SEO pages without thin-content penalties?",
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
         ["Live or frequently updated data", "Database, admin panel, imports, server-rendered pages", `${P.software}`, "6–12 weeks"],
         ["Messy or unstructured records", "AI-assisted cleaning and enrichment with review", `${P.ai}`, "2–4 weeks"],
         ["After launch", "Indexing monitoring, pruning, new segments", `${P.seo} per month`, "Ongoing"],
-        ["Upkeep", "Maintenance after 5 free months", `${P.care} per month`, "Ongoing"],
+        ["Upkeep", "Maintenance after 2 free months", `${P.care} per month`, "Ongoing"],
       ],
       hideSm: [1],
     },

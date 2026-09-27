@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Toronto & the GTA · remote build, Eastern-morning calls",
     h1: "Web developer for Toronto businesses: GTA-ready websites without downtown overheads",
     lede: `Looking for a web developer in Toronto who quotes clearly and answers on WhatsApp? BtechWaleTech is three freelance developers in India building websites for GTA businesses, from a single-location clinic in Leslieville to a trades company covering Mississauga, Brampton and Vaughan. Static sites up to 100 pages start at ${P.site}, and SEO sites with a page for every suburb you serve start at ${P.seoSite}. Accessibility is planned in from the first wireframe, so the build lines up with <a href='/canada/aoda-compliant-website/'>AODA website requirements</a> for Ontario organisations.`,
-    pills: ["Calls 8–11 a.m. Eastern", "WhatsApp 7 days a week", "AODA-aware templates", "Suburb pages for the GTA", "You own the .ca domain and code", "Quotes in USD, pay from CAD via Wise", "5 months free maintenance"],
+    pills: ["Calls 8–11 a.m. Eastern", "WhatsApp 7 days a week", "AODA-aware templates", "Suburb pages for the GTA", "You own the .ca domain and code", "Quotes in USD, pay from CAD via Wise", "2 months free maintenance"],
     origin: "Three freelance developers in India · working Toronto mornings, building while the GTA sleeps",
   },
   facts: [
@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers you speak to directly, no account manager in between" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "100", label: "Pages included in the static plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Should a Toronto business hire a remote web developer instead of a downtown agency?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Online stores for Toronto retailers", note: `Card and wallet checkout, local pickup and delivery zones, with stores from ${P.shop}.`, href: "/canada/ecommerce-website-development/", size: "md" },
       { name: "Web apps and client portals", note: `Booking systems, quoting tools and dashboards for GTA firms that have outgrown spreadsheets, from ${P.software}.`, href: "/canada/custom-software-development/", size: "sm" },
       { name: "Redesigns without losing rankings", note: "Redirect maps and content carry-over so a new look does not wipe out years of search visibility.", href: "/canada/website-redesign-services/", size: "sm" },
-      { name: "Monthly care and SEO", note: `Updates, backups and fixes; care from ${P.care} after five free months, SEO from ${P.seo}.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Monthly care and SEO", note: `Updates, backups and fixes; care from ${P.care} after two free months, SEO from ${P.seo}.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
         `Accessibility test notes and the redirect map if we migrated an old site.`,
       ],
       after: [
-        `Five months of maintenance are included after launch. After that, care starts at ${P.care}, or you can take the site to any other developer with nothing held back. Contract specifics are in your written quote and our <a href='/terms/'>terms</a>.`,
+        `Two months of maintenance are included after launch. After that, care starts at ${P.care}, or you can take the site to any other developer with nothing held back. Contract specifics are in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
         ["Booking or quoting web app", "Client logins, scheduling, admin dashboard", `${P.software}`, "6–12 weeks"],
         ["Automation add-on", "Lead routing, WhatsApp alerts, AI reply drafts", `${P.ai}`, "2–4 weeks"],
         ["Monthly SEO", "Suburb page expansion, content, Search Console reviews", `${P.seo}`, "Monthly"],
-        ["Care after 5 free months", "Updates, backups, fixes, small edits", `${P.care}`, "Monthly"],
+        ["Care after 2 free months", "Updates, backups, fixes, small edits", `${P.care}`, "Monthly"],
       ],
     },
     {
@@ -452,7 +452,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting, Google Business Profile, Search Console and analytics are confirmed or created under your business, with us added as removable users."],
       ["Build on staging", "Templates and pages appear on a private link you can open on any phone. Feedback goes on WhatsApp or the shared list and is usually actioned overnight."],
       ["Accessibility and SEO checks", "Keyboard, contrast, forms and headings are tested against WCAG 2.0 AA; titles, schema, redirects and suburb page links are checked before launch."],
-      ["Launch and handover", "We launch in your morning, test every form with you, hand over access and a recorded training session, then provide five months of free maintenance."],
+      ["Launch and handover", "We launch in your morning, test every form with you, hand over access and a recorded training session, then provide two months of free maintenance."],
     ],
   },
   faqHeading: "Web developer in Toronto: questions GTA owners ask",
@@ -472,7 +472,7 @@ const content: FreelanceContent = {
     { question: "Which platform is best for a Toronto business website?", answer: "For most service businesses, a fast static site or a lean WordPress build. Static sites are quick, secure and cheap to host; WordPress suits teams that publish often. Retailers usually need Shopify or WooCommerce, and firms with scheduling or quoting needs may need a custom web app." },
     { question: "Can my staff update the website themselves?", answer: "Yes. We set up an editor suited to the platform, lock layouts so edits cannot break the design or the accessibility work, and record a training session your team can rewatch. Staff can change text, photos, prices, team members and blog posts without calling us." },
     { question: "Do you build websites in Punjabi, Hindi or other languages?", answer: "Yes, as translated pages with proper language tags and fonts. The team writes English and speaks Hindi, so we can review Hindi pages ourselves. For Punjabi, Tamil, Chinese, French or other languages, you or your translator supply or approve the copy and we build it." },
-    { question: "What does website maintenance cost after launch?", answer: `The first five months after launch include free maintenance: updates, backups, fixes and small edits. After that, care plans start at ${P.care}. You are never locked in; because you own every account, you can move maintenance to another developer at any time.` },
+    { question: "What does website maintenance cost after launch?", answer: `The first two months after launch include free maintenance: updates, backups, fixes and small edits. After that, care plans start at ${P.care}. You are never locked in; because you own every account, you can move maintenance to another developer at any time.` },
     { question: "Will you help my business appear in AI search answers?", answer: "We structure pages so AI assistants and search engines can quote them: direct answers near the top, clear headings, FAQ and business schema, and consistent name, address and phone details. That improves your chances of being cited, but no developer can guarantee appearances in AI answers or rankings." },
     { question: "Can you work with my Toronto designer or marketing consultant?", answer: "Yes. We regularly build from another designer’s files or alongside a marketing consultant who handles ads or social media. Shared access to the staging site and the WhatsApp group keeps everyone aligned, and you still receive full ownership of the finished site." },
     { question: "Do you sign contracts or NDAs with Canadian clients?", answer: "The itemised quote you approve works as the project agreement for most small sites. If your organisation needs its own services agreement or NDA, send it and we will review it; terms are agreed in writing. See our terms page for the general conditions that apply." },

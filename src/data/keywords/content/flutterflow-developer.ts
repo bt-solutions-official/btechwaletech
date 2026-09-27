@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Backends", "Firebase or Supabase"],
     ["Beyond the builder", "Custom Dart code, APIs, exported Flutter"],
     ["FlutterFlow subscription", "In your account, paid by you"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who can work in FlutterFlow and plain Flutter" },
     { value: "2", label: "Working days to an itemised app quote" },
-    { value: "5", label: "Free maintenance months once the app is live" },
+    { value: "2", label: "Free maintenance months once the app is live" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "App build with us", value: `From ${P.app}, 6–10 weeks` },
       { label: "Backend choices", value: "Firebase, Supabase, or your own REST API" },
       { label: "Escape hatch", value: "Custom code in the builder, or export to a full Flutter project" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should own every part: the FlutterFlow project, the backend project, both store accounts, the domain and any exported code repository. With our team, each of these is created in your name, and we are added as collaborators whom you can remove whenever you like.`,
         `FlutterFlow ownership has a twist compared with a plain code project. The visual project lives inside FlutterFlow, so your ability to edit it visually depends on an active subscription in your account. That is why we export the code into your Git repository at milestones; if you ever stop paying for FlutterFlow, you still hold a buildable Flutter project.`,
-        `At handover you get the FlutterFlow project with a structure note, the exported code in your repository, backend rules and any functions with their deployment steps, store listing details and a list of every account and who has access. After launch there are five months of free maintenance; after that, monthly care starts at ${P.care} if you want it.`,
+        `At handover you get the FlutterFlow project with a structure note, the exported code in your repository, backend rules and any functions with their deployment steps, store listing details and a list of every account and who has access. After launch there are two months of free maintenance; after that, monthly care starts at ${P.care} if you want it.`,
       ],
     },
     {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
         ["Weeks 4–6", "Custom widgets and actions, integrations", "Supply content and logos", "Feature-complete build"],
         ["Weeks 6–8", "Device testing, fixes, store assets", "One consolidated feedback round", "Release candidate"],
         ["Weeks 8–10", "Closed test if needed, store review, launch", "Recruit testers, final payment", "Live app in both stores"],
-        ["After launch", "Fixes, small changes, monitoring", "Report issues on WhatsApp", "5 months free maintenance"],
+        ["After launch", "Fixes, small changes, monitoring", "Report issues on WhatsApp", "2 months free maintenance"],
       ],
       hideSm: [2],
     },
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "In about two working days you receive a quote splitting screens, backend, custom code, integrations and store launch, with the FlutterFlow plan you will need."],
       ["Build and review", "Screens and backend rules are built together. You install test builds on your own phone and send feedback in one consolidated round per milestone."],
       ["Publish under your accounts", "We prepare listings, privacy answers and reviewer logins, run closed testing where Google Play requires it, and publish to both stores from your developer accounts."],
-      ["Handover and support", "You get the project, exported code in your repository and a structure note. Five months of maintenance follow free, then optional monthly care."],
+      ["Handover and support", "You get the project, exported code in your repository and a structure note. Two months of maintenance follow free, then optional monthly care."],
     ],
   },
   faqHeading: "FlutterFlow developer questions, answered",
@@ -461,7 +461,7 @@ const content: FreelanceContent = {
     { question: "Can you move my FlutterFlow app to plain Flutter later?", answer: "Yes. We export the latest version, set it up in your repository and refactor in stages: structure, shared widgets, state management and tests around key flows. Updates keep shipping during the move, so users see no disruption. We only recommend moving when custom code, performance or team size make it worthwhile." },
     { question: "Will a FlutterFlow app rank on Google or appear in AI answers?", answer: "The app itself is found through Play Store and App Store search, so store listing text and screenshots matter. For Google and AI assistants, you need a fast web page describing the app, with clear headings and structured data. We can build that page and help with store listing optimisation." },
     { question: "Can you add AI features to a FlutterFlow app?", answer: `Yes. AI features such as chat, document reading or smart search run through a backend function that holds the API keys and enforces usage limits, and the FlutterFlow app calls that function. AI automation work starts at ${P.ai}. Keeping model calls on the server protects your keys and your bill.` },
-    { question: "What happens after my FlutterFlow app goes live?", answer: `Five months of maintenance are included: bug fixes, small changes and updates when store or Flutter requirements change. After that, monthly maintenance starts at ${P.care} if you want us to keep looking after the app. You can also hand the documented project to any other developer.` },
+    { question: "What happens after my FlutterFlow app goes live?", answer: `Two months of maintenance are included: bug fixes, small changes and updates when store or Flutter requirements change. After that, monthly maintenance starts at ${P.care} if you want us to keep looking after the app. You can also hand the documented project to any other developer.` },
     { question: "FlutterFlow app banwana hai, kya Hindi mein baat ho sakti hai?", answer: "Haan. Hum English aur Hindi dono mein kaam karte hain. WhatsApp par apni app ka idea ya voice note bhejiye; hum batayenge ki FlutterFlow sahi rahega ya coded Flutter, aur lagbhag do working days mein itemised quote bhejenge. Approval se pehle koi payment nahi lagta." },
   ],
   related: {
@@ -484,7 +484,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a FlutterFlow developer? Tell us about your app",
-    note: `Send your app idea or your existing FlutterFlow project on WhatsApp. You will get an honest fit check and an itemised quote in about two working days, with app builds starting at ${P.app}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send your app idea or your existing FlutterFlow project on WhatsApp. You will get an honest fit check and an itemised quote in about two working days, with app builds starting at ${P.app}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

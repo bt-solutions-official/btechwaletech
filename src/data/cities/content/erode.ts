@@ -7,7 +7,7 @@ const erode: CityContent = {
   meta: {
     title: "IT Services in Erode: Websites, Apps, SEO & AI",
     description:
-      "Websites, Tamil local SEO and WhatsApp order automation for Erode textile wholesalers, turmeric traders, SIPCOT units and clinics. From ₹10,000, 5 months free care.",
+      "Websites, Tamil local SEO and WhatsApp order automation for Erode textile wholesalers, turmeric traders, SIPCOT units and clinics. From ₹10,000, 2 months free care.",
     keywords: [
       "website development team in Erode",
       "website designer Erode",
@@ -30,11 +30,11 @@ const erode: CityContent = {
     eyebrow: "Erode · Tamil Nadu",
     h1: "Websites, wholesale catalogues and automation for Erode businesses",
     lede:
-      "Erode trades turmeric, cloth, coconut oil and yarn with buyers across India, and many of those buyers now find their next supplier through a search or a shared link. Our remote team of three engineers builds wholesale catalogues, UPI stores and WhatsApp order systems at published starting prices, with five months of free maintenance after launch.",
+      "Erode trades turmeric, cloth, coconut oil and yarn with buyers across India, and many of those buyers now find their next supplier through a search or a shared link. Our remote team of three engineers builds wholesale catalogues, UPI stores and WhatsApp order systems at published starting prices, with two months of free maintenance after launch.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Login-based wholesale catalogues", "WhatsApp order automation", "Domain and hosting in your name"],
   },
   quickAnswer:
-    "For Erode businesses, our websites start at ₹10,000 and a 299+ page SEO website at ₹20,000. Wholesale stores and ecommerce begin from ₹50,000, and custom software from ₹60,000. We are a remote three-engineer team with no office in Erode, and every launch comes with five months of free maintenance.",
+    "For Erode businesses, our websites start at ₹10,000 and a 299+ page SEO website at ₹20,000. Wholesale stores and ecommerce begin from ₹50,000, and custom software from ₹60,000. We are a remote three-engineer team with no office in Erode, and every launch comes with two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "Turmeric City and a major handloom, powerloom and textile trading centre" },
     { label: "GI products", value: "Erode turmeric (GI in 2019) and Bhavani Jamakkalam bedspreads (GI in 2005)" },
@@ -51,7 +51,7 @@ const erode: CityContent = {
     ai: "WhatsApp assistants that share catalogues, answer rate and stock questions in Tamil or English, and pass bulk orders to the owner.",
     data: "Dashboards for traders who track arrivals, rates, pending payments and buyer-wise sales across seasons and markets.",
     app: "Android and iOS apps for retailer ordering, agent visits and school or clinic logins that run on ordinary phones, from ₹40,000 in six to ten weeks.",
-    maintenance: "Free updates and backups for five months after launch, then from ₹8,000 a month, with Deepavali and Pongal textile rushes planned for.",
+    maintenance: "Free updates and backups for two months after launch, then from ₹8,000 a month, with Deepavali and Pongal textile rushes planned for.",
   },
   whyUsIntro:
     "Erode traders judge a supplier by clear rates, reliable delivery and quick replies, and they expect the same from their web developer. Our starting prices are published, every quote is itemised, and the three engineers who build your site answer on WhatsApp seven days a week.",
@@ -72,7 +72,7 @@ const erode: CityContent = {
       heading: "What websites cost for Erode firms",
       paragraphs: [
         "We publish our starting prices so you can plan in advance. A business website of up to 100 pages starts at ₹10,000 and usually goes live in one to two weeks. An SEO website with 299+ pages, where each product line, fabric type, count or variety has its own page, starts at ₹20,000 and takes three to five weeks. Online stores and wholesale catalogues with UPI and card payment start from ₹50,000, and custom web applications start from ₹60,000.",
-        "AI and WhatsApp automation projects begin at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month after the five free months. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "AI and WhatsApp automation projects begin at ₹40,000. Monthly SEO starts at ₹10,000 a month, and maintenance starts at ₹8,000 a month after the two free months. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope decides the final number. A clinic with eight pages is quick. A textile wholesaler with 600 products, several price levels, dealer logins and a Tamil version needs far more work. Every item is listed in the quote, and nothing is billed until you approve it in writing.",
       ],
       list: [
@@ -175,11 +175,11 @@ const erode: CityContent = {
     },
     {
       id: "ownership-erode",
-      heading: "Your domain, your code and five months of free care",
+      heading: "Your domain, your code and two months of free care",
       paragraphs: [
         "Several Erode firms have found that the person who built their website years ago still controls the domain. When that person stops responding, the business cannot renew, change or move its own site. We set things up so this does not happen.",
         "The domain is registered in your name, the hosting account is yours, and at launch you receive every login with a short note on what runs where. The source code belongs to you, and you can move it to another developer without an exit fee.",
-        "For five months after launch, maintenance is free: product and rate updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance starts at ₹8,000 a month, or you can pay per change when you need one.",
+        "For two months after launch, maintenance is free: product and rate updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance starts at ₹8,000 a month, or you can pay per change when you need one.",
       ],
     },
     {
@@ -275,7 +275,7 @@ const erode: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch, we handle product and rate updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change.",
+        "For two months after launch, we handle product and rate updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance starts at ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Do you work with businesses in Perundurai, Bhavani, Gobi and Tiruppur?",

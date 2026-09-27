@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Listing feed and search from", `${P.software}, 6–12 weeks`],
     ["CRM sources", "Realworks APIs, Kolibri and other CRM exports"],
     ["Languages", "Dutch and English; you approve Dutch copy"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers building and maintaining your site" },
     { value: "2", label: "Working days until an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Listings to copy by hand once the feed runs" },
   ],
   answer: {
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
         "<strong>Branches:</strong> multiple offices mean routing leads and separate local pages.",
       ],
       after: [
-        `Running costs are hosting, your domain, any CRM API fee and optional care from ${P.care} after the five free months. The <a href='/pricing/'>pricing page</a> lists all starting prices.`,
+        `Running costs are hosting, your domain, any CRM API fee and optional care from ${P.care} after the two free months. The <a href='/pricing/'>pricing page</a> lists all starting prices.`,
       ],
     },
     {
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
         ["Lead automation", "AI summaries, reminders, rental FAQ assistant", `${P.ai}`, "2–4 weeks"],
         ["Buyer or tenant app", "Saved searches and favourites on phones", `${P.app}`, "6–10 weeks"],
         ["Monthly SEO", "Area pages, technical fixes, reporting", `${P.seo}`, "Ongoing"],
-        ["Care after launch", "Updates, feed monitoring, small changes", `${P.care}`, "Monthly, after 5 free months"],
+        ["Care after launch", "Updates, feed monitoring, small changes", `${P.care}`, "Monthly, after 2 free months"],
       ],
       hideSm: [1],
     },
@@ -441,7 +441,7 @@ const content: FreelanceContent = {
       ["CRM access and designs", "You request API access or an export from your CRM vendor while page designs for home, listings, search and valuation are agreed."],
       ["Feed and search build", "Listings sync from your CRM into the new site, search and map are built on real data, and forms send leads to the right place."],
       ["Content and redirects", "English and Dutch pages go in, area pages are written with your input, and old URLs are redirected so rankings carry over."],
-      ["Launch and care", "The site goes live with feed monitoring and consent in place. Five free months of maintenance follow, then optional care from the monthly starting price."],
+      ["Launch and care", "The site goes live with feed monitoring and consent in place. Two free months of maintenance follow, then optional care from the monthly starting price."],
     ],
   },
   faqHeading: "Real estate websites in the Netherlands: common questions",
@@ -464,7 +464,7 @@ const content: FreelanceContent = {
     { question: "Can you add a chatbot for rental questions?", answer: `Yes. An assistant can answer common questions about availability, the viewing process and required documents from your own content, tell visitors it is an AI, and pass anything personal or complex to your team. It never books a tenancy on its own. Chat and lead automation starts from ${P.ai}; WhatsApp versions are covered on the sibling WhatsApp chatbot page.` },
     { question: "What hours can we reach you from the Netherlands?", answer: "India is three and a half hours ahead of the Netherlands in summer time and four and a half in winter, so calls fit between about 10:00 and 16:00 Dutch time. WhatsApp is answered seven days a week, which helps when a listing problem turns up during a weekend of viewings." },
     { question: "How do we pay?", answer: "Quotes and invoices are in USD, paid per milestone by Wise, bank wire or PayPal. Nothing is billed before you approve the written quote. Hosting, domain and any CRM API fee are paid by you directly to those providers. For how to book an invoice from outside the EU, ask your accountant." },
-    { question: "Can you maintain the site after launch?", answer: `Yes. The first five months after launch include free maintenance: updates, feed monitoring and fixes. After that, care continues from ${P.care} if you want it, covering the same, plus small content changes. Because code, hosting and documentation are yours, you can also hand the site to another developer.` },
+    { question: "Can you maintain the site after launch?", answer: `Yes. The first two months after launch include free maintenance: updates, feed monitoring and fixes. After that, care continues from ${P.care} if you want it, covering the same, plus small content changes. Because code, hosting and documentation are yours, you can also hand the site to another developer.` },
     { question: "What will you not do?", answer: "We do not visit offices or properties, take property photos, write Dutch copy as final text, give legal advice on rental rules or tenant selection, or copy data from property portals. We also will not recommend a custom site when your CRM vendor's template already serves you well. Anything outside our scope is stated plainly in the quote." },
   ],
   related: {

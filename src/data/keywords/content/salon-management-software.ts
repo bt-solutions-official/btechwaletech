@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Written estimate", "About 2 working days"],
     ["Focus", "Back office, not a booking app"],
     ["Who owns it", "You: code, data, hosting"],
-    ["Included after launch", "5 months of free maintenance"],
+    ["Included after launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "0", label: "Per-branch licence fees on software you own" },
-    { value: "5", label: "Free maintenance months after go-live" },
+    { value: "2", label: "Free maintenance months after go-live" },
     { value: "2", label: "Working days until your itemised quote" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Client app (optional)", value: `From ${P.app}` },
       { label: "Messaging", value: "WhatsApp confirmations and rebooking nudges" },
       { label: "Tax on bills", value: "Rates held in a master your CA confirms" },
-      { label: "After launch", value: `5 free months, then from ${P.care}` },
+      { label: "After launch", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Salon management software pricing when you own it",
-    note: `A salon back office you own starts at ${P.software}: billing, commissions, packages and memberships, stock and core reports for one or more branches. The estimate grows with unusual commission structures, the number of branches that share memberships and stock, data brought over from your current system, and how many WhatsApp message types you automate. A branded client app starts at ${P.app}, and a salon website at ${P.site}. You pay hosting and WhatsApp message charges to the providers directly. Five months of maintenance are included; after that, support is optional from ${P.care}.`,
+    note: `A salon back office you own starts at ${P.software}: billing, commissions, packages and memberships, stock and core reports for one or more branches. The estimate grows with unusual commission structures, the number of branches that share memberships and stock, data brought over from your current system, and how many WhatsApp message types you automate. A branded client app starts at ${P.app}, and a salon website at ${P.site}. You pay hosting and WhatsApp message charges to the providers directly. Two months of maintenance are included; after that, support is optional from ${P.care}.`,
   },
   guideLabel: "Salon management software guide",
   guide: [
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Rent while you are small and standard; own once branches and custom rules make the subscription expensive or awkward. Neither is right for every salon.`,
         `A salon SaaS product gets you running in days, includes updates and needs no project from you. It fits a single salon whose commission rules match the options on offer. The cost usually grows as you add branches, staff logins or message volume, and your data sits in the vendor’s system under their export terms.`,
-        `Owning your salon management software means a one-time build, starting at ${P.software}, plus hosting you pay directly and optional maintenance from ${P.care} after five free months. It fits chains, franchise-style groups and salons with pay rules or packages the products handle badly. To compare honestly, total the subscription for the branches you expect over the next three years, using the plan’s own figures, against the build plus running costs. Quotes vary widely between vendors, which is exactly why the comparison has to use your real numbers.`,
+        `Owning your salon management software means a one-time build, starting at ${P.software}, plus hosting you pay directly and optional maintenance from ${P.care} after two free months. It fits chains, franchise-style groups and salons with pay rules or packages the products handle badly. To compare honestly, total the subscription for the branches you expect over the next three years, using the plan’s own figures, against the build plus running costs. Quotes vary widely between vendors, which is exactly why the comparison has to use your real numbers.`,
       ],
     },
     {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["WhatsApp confirmations and rebooking", `From ${P.ai}`, "2–4 weeks", "Templates, consent lists, schedules"],
         ["Branded client app", `From ${P.app}`, "6–10 weeks", "Booking, balances, offers; your store accounts"],
         ["Salon website", `From ${P.site}`, "1–2 weeks", "Service menu, booking link, reviews"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Monthly", "Updates, backups, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Monthly", "Updates, backups, small changes"],
       ],
       hideSm: [2],
     },
@@ -359,13 +359,13 @@ const content: FreelanceContent = {
       ["Check the rules against real months", "We run last month’s bills through the commission and package logic and compare with your own figures until they agree."],
       ["Try it on the salon tablet", "Front-desk staff bill dummy clients on a test system, including split payments and package redemptions, and tell us what slows them down."],
       ["Launch branch by branch", "The first branch goes live on its quietest day, balances are entered and checked, and the next branch follows once things settle."],
-      ["Five months of support included", `Fixes and small changes are free for five months after launch; maintenance then continues from ${P.care} only if you want it.`],
+      ["Two months of support included", `Fixes and small changes are free for two months after launch; maintenance then continues from ${P.care} only if you want it.`],
     ],
   },
   faqHeading: "Salon management software: questions owners ask",
   faqs: [
     { question: "What is salon management software?", answer: "Salon management software is the back-office system for salons, spas and beauty parlours. It handles billing, stylist commissions, prepaid packages and memberships, retail and professional product stock, staff attendance, client records and branch reports. Many systems also send appointment confirmations and rebooking reminders on WhatsApp. It differs from a booking app, which mainly lets clients reserve slots." },
-    { question: "How much does salon management software cost in India?", answer: `Subscription salon software is billed monthly or yearly, often rising with branches or users, and quotes vary widely between vendors. Owning your own salon management software with BtechWaleTech starts at ${P.software} for billing, commissions, packages, stock and reports, plus hosting you pay directly and optional maintenance after five free months.` },
+    { question: "How much does salon management software cost in India?", answer: `Subscription salon software is billed monthly or yearly, often rising with branches or users, and quotes vary widely between vendors. Owning your own salon management software with BtechWaleTech starts at ${P.software} for billing, commissions, packages, stock and reports, plus hosting you pay directly and optional maintenance after two free months.` },
     { question: "Is a booking app enough for my salon?", answer: "A booking app is enough if your main problem is filling slots and your back office is simple. If commissions are worked out by hand, packages live on paper cards or stock keeps disappearing, you need salon management software as well. Many salons use a booking link for clients and a separate back office behind it." },
     { question: "Should I rent salon software or get my own built?", answer: "Rent if you run one salon with standard commission rules and want to start this week. Consider owning once you have several branches, unusual commission or package rules, or a subscription that keeps rising with each branch and login. Compare three years of real subscription quotes against a one-time build, hosting and optional maintenance." },
     { question: "Can the software calculate tiered stylist commissions?", answer: "Yes. We build commission rules the way your salon actually pays: percentage or flat per service, different rates for products, tiers above monthly targets, splits between stylist and assistant, and deductions for product cost if you use them. Before launch, we run last month’s bills through the rules and compare with your own calculations until they match." },
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "How do you protect client data and photos?", answer: "Access is role-based, bulk exports are limited to the owner, views and edits are logged, and data is hosted in your own cloud account with daily backups. Clients are told what is recorded and asked for consent before any before-and-after photos are stored. The DPDP Rules were notified in November 2025; your lawyer should approve the consent wording." },
     { question: "Do we need a client app as well?", answer: `Not necessarily. Many salons do well with a booking link on WhatsApp, Instagram and their website. A branded Android and iOS app makes sense when you have many repeat clients who would use it to book, check package balances and see offers. Client apps start at ${P.app} and are published in your own store accounts.` },
     { question: "How do payments and agreements work with your team?", answer: "You receive an itemised written estimate first; nothing is billed before you approve it. Payments in India are by UPI or bank transfer, on the schedule written into your quote. Scope, milestones and ownership are in the written quote, and any NDA or further terms are agreed in writing before work begins." },
-    { question: "What support is there after launch?", answer: `Five months of maintenance are included after go-live, covering fixes, small rule changes and updates. After that, maintenance is optional from ${P.care}. New modules such as a client app or a new branch type are quoted separately. We reply on WhatsApp seven days a week, which helps when a Saturday problem cannot wait.` },
+    { question: "What support is there after launch?", answer: `Two months of maintenance are included after go-live, covering fixes, small rule changes and updates. After that, maintenance is optional from ${P.care}. New modules such as a client app or a new branch type are quoted separately. We reply on WhatsApp seven days a week, which helps when a Saturday problem cannot wait.` },
     { question: "Can freelance developers build software for a salon chain?", answer: "For small and mid-sized chains, yes. We are three freelance developers covering full-stack development, cloud and data, and project management, and you talk to us directly. We do not supply hardware, visit salons or train staff in person, and a very large national chain with complex integrations would need a bigger team." },
     { question: "Parlour ke liye software lena chahiye ya banwana chahiye?", answer: `Agar ek hi parlour hai aur commission simple hai, toh monthly plan wala salon software kaafi hai. Agar do ya zyada branch hain, package cards kaagaz par chal rahe hain aur commission ka hisaab har mahine jhagda banta hai, toh apna salon management software banwana behtar hai. Hamare saath yeh ${P.software} se shuru hota hai.` },
   ],

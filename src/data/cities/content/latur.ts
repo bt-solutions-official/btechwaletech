@@ -34,7 +34,7 @@ const latur: CityContent = {
     pills: ["Websites from ₹10,000", "Dal mill catalogues", "Marathi and English SEO", "Admission enquiry bots", "Everything in your name"],
   },
   quickAnswer:
-    "A Latur business can launch a website with us from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store for dal, oil or food products at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for five months.",
+    "A Latur business can launch a website with us from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, and an online store for dal, oil or food products at ₹50,000. We are a remote team, you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Trade", value: "India's largest soybean trading centre, with a strong market in tur, urad, moong and chana" },
     { label: "Industrial areas", value: "Latur MIDC of about 263 hectares and Additional MIDC Latur of about 1,077 hectares, plus estates at Ausa, Ahmedpur and Nilanga" },
@@ -51,7 +51,7 @@ const latur: CityContent = {
     ai: "WhatsApp assistants that answer daily rate, stock and admission questions in Marathi, Hindi or English and log every lead.",
     data: "Dashboards showing purchases, dispatches and dealer balances by day and season, drawn from Tally and mill registers.",
     app: "Android and iOS apps for test series, attendance and dealer re-orders, published on Google Play and the App Store and starting at ₹40,000.",
-    maintenance: "Rate updates, backups, security fixes and uptime checks, free for five months and ₹8,000 a month thereafter.",
+    maintenance: "Rate updates, backups, security fixes and uptime checks, free for two months and ₹8,000 a month thereafter.",
   },
   whyUsIntro:
     "Latur people like plain dealing and clear numbers, which is how we prefer to work. Our prices are published, the quote comes in writing with every item listed, WhatsApp gets a reply seven days a week and you receive every password at launch. If a feature is not worth its cost for your business, we will tell you.",
@@ -111,7 +111,7 @@ const latur: CityContent = {
         "<strong>₹40,000 upward, 2–4 weeks:</strong> WhatsApp and AI automation for rates, admissions and orders.",
         "<strong>₹50,000 upward, 4–8 weeks:</strong> an online store for dal, oil, spices or packaged food with UPI.",
         "<strong>₹60,000 upward, 6–12 weeks:</strong> custom software such as lot tracking or dealer portals.",
-        "<strong>From ₹10,000 a month for ongoing SEO; from ₹8,000 a month for maintenance</strong> after five free months.",
+        "<strong>From ₹10,000 a month for ongoing SEO; from ₹8,000 a month for maintenance</strong> after two free months.",
       ],
     },
     {
@@ -179,10 +179,10 @@ const latur: CityContent = {
     },
     {
       id: "ownership-care",
-      heading: "You own everything, and the first five months of care are free",
+      heading: "You own everything, and the first two months of care are free",
       paragraphs: [
         "The domain, hosting and code are yours from day one. We register the domain in your name, set up hosting in your account and hand over the code and every password at launch. If you ever want to move to another developer in Latur or elsewhere, you can do it without our permission.",
-        "For five months after launch, maintenance is free: security updates, backups, uptime monitoring and small content changes such as new rates, products, batch timings or doctor schedules. After that, maintenance costs from ₹8,000 a month, and you can stop at any time.",
+        "For two months after launch, maintenance is free: security updates, backups, uptime monitoring and small content changes such as new rates, products, batch timings or doctor schedules. After that, maintenance costs from ₹8,000 a month, and you can stop at any time.",
         "A site left alone slowly degrades: forms stop working, software goes out of date and pages slow down. We check these regularly and send a short monthly note of what was done, so you always know your site is in working order.",
       ],
     },
@@ -265,7 +265,7 @@ const latur: CityContent = {
     {
       question: "What does maintenance cost?",
       answer:
-        "Maintenance is free for five months after launch, including updates, backups, monitoring and small content changes. After that it is from ₹8,000 a month, and you can cancel any time. If you prefer to update the site yourself, we show you how before handover.",
+        "Maintenance is free for two months after launch, including updates, backups, monitoring and small content changes. After that it is from ₹8,000 a month, and you can cancel any time. If you prefer to update the site yourself, we show you how before handover.",
     },
     {
       question: "Can I sell dal, oil or spices online from Latur?",

@@ -31,11 +31,11 @@ const nagapattinam: CityContent = {
     eyebrow: "Nagapattinam (Nagai) · Tamil Nadu coast",
     h1: "Web, app, SEO and automation services for Nagapattinam's harbour trade, pilgrim towns and delta businesses",
     lede:
-      "We are three remote engineers who build websites, map listings and WhatsApp workflows for Nagai businesses: fish and dry-fish traders near the harbours, lodges and shops serving Velankanni and Nagore pilgrims, Vedaranyam salt units, clinics, schools and delta farm dealers. Rates are published, you speak to the builder directly, and upkeep is free for five months.",
+      "We are three remote engineers who build websites, map listings and WhatsApp workflows for Nagai businesses: fish and dry-fish traders near the harbours, lodges and shops serving Velankanni and Nagore pilgrims, Vedaranyam salt units, clinics, schools and delta farm dealers. Rates are published, you speak to the builder directly, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Tamil and English pages", "Pilgrim lodge booking", "Seafood trade catalogues", "WhatsApp replies in Tamil"],
   },
   quickAnswer:
-    "In Nagapattinam, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Nagai office, and the first five months of maintenance are free.",
+    "In Nagapattinam, a basic business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page search-focused site starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote team with no Nagai office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Nagapattinam district, on the Bay of Bengal in the Cauvery delta, roughly 350 km south of Chennai" },
     { label: "Sea economy", value: "Fishing is the main livelihood; the district has a major fishing harbour at Akkaraipettai and a medium harbour at Nambiyar Nagar" },
@@ -52,7 +52,7 @@ const nagapattinam: CityContent = {
     ai: "WhatsApp assistants that answer room availability, tariff, route and stock questions in Tamil or English at any hour, and hand real decisions to a person.",
     data: "Season-wise dashboards showing catch purchases, room occupancy or admissions, so owners can plan staff and stock before the festival rush arrives.",
     app: "Android and iOS apps for boat-owner accounts, delivery rounds or school notices that cope with weak coastal signal, from ₹40,000 on both stores.",
-    maintenance: "Updates, backups, security checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Updates, backups, security checks and small edits free for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Plenty of Nagapattinam firms have a site made years ago by a relative, a Chennai agency or a browsing centre in town, and many of those sites no longer open or show old phone numbers. We are a small remote team that publishes its starting rates, writes every quote down line by line and hands you all the logins at launch.",
@@ -177,7 +177,7 @@ const nagapattinam: CityContent = {
       paragraphs: [
         "A common complaint on the coast: the lodge or shop paid for a website, the developer registered the domain under his own email, and when he moved away the site expired. The owner then had to start again under a new name, losing years of reviews and links.",
         "We register the domain and hosting in your name, paid from your account. At launch you receive every password, the full source code and a short note explaining how the site is put together. If you ever hire someone else, you pass them those details and they can continue. There is no exit charge and nothing is locked.",
-        "For the first five months after launch we maintain the site free of charge: software and security updates, backups, uptime monitoring, bug fixes and small changes such as new tariffs or festival notices. After that you can continue maintenance from ₹8,000 a month or simply call us when something needs doing.",
+        "For the first two months after launch we maintain the site free of charge: software and security updates, backups, uptime monitoring, bug fixes and small changes such as new tariffs or festival notices. After that you can continue maintenance from ₹8,000 a month or simply call us when something needs doing.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const nagapattinam: CityContent = {
     {
       question: "What happens after my site goes live?",
       answer:
-        "For five months we maintain it free: updates, backups, security fixes, uptime checks and small edits like new tariffs or festival notices. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Monthly SEO is separate and starts from ₹10,000.",
+        "For two months we maintain it free: updates, backups, security fixes, uptime checks and small edits like new tariffs or festival notices. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long does local SEO take to work in Nagapattinam?",

@@ -56,7 +56,7 @@ const venkatagiri: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that share catalogues, answer fabric and price questions and pass bulk or bridal orders to you.",
     data: "Dashboards of sarees woven per loom, yarn issued, stock by design and sales by city or buyer.",
     app: "Android and iOS apps for resellers to browse new designs and order, or for weavers to log work, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and new product uploads.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and new product uploads.",
   },
   whyUsIntro:
     "Weaving families in Venkatagiri have watched middlemen and copycat sellers profit from the name, so trust has to be earned. We publish starting prices, itemise every quote in writing, reply on WhatsApp seven days a week and register the domain, hosting, code and store accounts to you. If a feature will not pay for itself, we say so.",
@@ -174,7 +174,7 @@ const venkatagiri: CityContent = {
       heading: "Ownership and maintenance of Venkatagiri websites, stores and apps",
       paragraphs: [
         "What we build belongs to you. The domain is registered with your email, the hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you receive a written list of every login, so nobody, including us, can lock you out later.",
-        "The first five months of maintenance after launch are free. During that time we upload new sarees if you send photos, update prices, take backups, apply security updates and check that checkout, forms and WhatsApp buttons work. After that, you can continue with us from ₹8,000 a month, handle it yourself or pass the code to another developer.",
+        "The first two months of maintenance after launch are free. During that time we upload new sarees if you send photos, update prices, take backups, apply security updates and check that checkout, forms and WhatsApp buttons work. After that, you can continue with us from ₹8,000 a month, handle it yourself or pass the code to another developer.",
         "Apps need a periodic update even when nothing is broken, because Google and Apple raise the minimum versions they accept. We keep track of those deadlines and release updated builds on time so your app is not removed from the stores.",
       ],
     },
@@ -266,7 +266,7 @@ const venkatagiri: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: we upload new products, update prices, take backups, apply security updates and test checkout and forms. After that you can continue from ₹8,000 a month or move elsewhere. Because the code and accounts are yours, switching needs nobody's approval.",
+        "Maintenance is free for two months after launch: we upload new products, update prices, take backups, apply security updates and test checkout and forms. After that you can continue from ₹8,000 a month or move elsewhere. Because the code and accounts are yours, switching needs nobody's approval.",
     },
     {
       question: "Do you also work in Gudur, Naidupet and Srikalahasti?",

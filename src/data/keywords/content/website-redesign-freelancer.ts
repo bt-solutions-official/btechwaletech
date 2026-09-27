@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["First deliverable", "Crawl of every current URL"],
     ["Redirects", "301, one hop, old URL to closest new page"],
     ["Launch checks", "Search Console, sitemap, broken links"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
     ["Quote", "Itemised in about 2 working days"],
   ],
   stats: [
     { value: "100", label: "Pages covered by the static redesign plan" },
-    { value: "5", label: "Months of free care after the new site goes live" },
+    { value: "2", label: "Months of free care after the new site goes live" },
     { value: "2", label: "Working days to an itemised redesign quote" },
     { value: "3", label: "Developers checking redirects before launch" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Static redesign", value: `From ${P.site}, 1–2 weeks after content is agreed` },
       { label: "Large SEO site redesign", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "After launch", value: "Daily checks in week one, weekly after that" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Speed-focused refresh", note: "Heavy sliders, page builders and unoptimised images replaced so Core Web Vitals pass on mid-range phones.", href: "/website-speed-optimization-freelancer/", size: "md" },
       { name: "Content audit and rewrite", note: "Thin, duplicate and outdated pages merged or refreshed so the new site carries fewer, stronger pages.", href: "/freelance-seo-expert/", size: "sm" },
       { name: "Post-launch SEO watch", note: `Search Console coverage, redirects and rankings tracked after launch, then monthly SEO from ${P.seo} if you want it.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Ongoing care", note: `Five free months after launch, then updates, backups and small edits from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Ongoing care", note: `Two free months after launch, then updates, backups and small edits from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -226,7 +226,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Expect some movement for a few weeks after launch while Google recrawls the site. What you are watching for is anything that looks like a structural problem rather than normal settling.`,
         `In the first week, check the Pages report for spikes in “Not found (404)” and “Page with redirect” counts, and look at which URLs are affected; old URLs missing from the map show up here. Use URL Inspection on your top five pages to confirm Google sees the new versions. Keep an eye on server errors.`,
-        `Over the following weeks, compare clicks per page against the export from before launch. A page whose clicks fall sharply while others hold steady usually has a specific cause: a missing redirect, a changed title, content cut too far, or an internal link removed. During our five months of free maintenance after launch, we fix those issues as they appear. For ongoing growth after that, monthly <a href='/technical-seo-freelancer/'>technical SEO</a> work starts at ${P.seo}.`,
+        `Over the following weeks, compare clicks per page against the export from before launch. A page whose clicks fall sharply while others hold steady usually has a specific cause: a missing redirect, a changed title, content cut too far, or an internal link removed. During our two months of free maintenance after launch, we fix those issues as they appear. For ongoing growth after that, monthly <a href='/technical-seo-freelancer/'>technical SEO</a> work starts at ${P.seo}.`,
       ],
     },
     {
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       heading: "Purani website nayi banwani hai? Traffic kaise bachayein",
       paragraphs: [
         `Nayi design se pehle purani website ke saare pages ki list banaiye aur dekhiye kaunse pages se Google par enquiries aati hain. Jo URL chal rahe hain, unhe wahi rakhiye. Jo badalna zaroori hai, unka 301 redirect nayi page par lagwaiye, home page par nahi.`,
-        `Top pages ka title aur content launch ke din zyada mat badaliye. Launch ke baad Search Console mein 404 aur clicks roz dekhiye. Hamare saath redesign ${P.site} se shuru hota hai aur launch ke baad 5 mahine ka maintenance free hai.`,
+        `Top pages ka title aur content launch ke din zyada mat badaliye. Launch ke baad Search Console mein 404 aur clicks roz dekhiye. Hamare saath redesign ${P.site} se shuru hota hai aur launch ke baad 2 mahine ka maintenance free hai.`,
       ],
     },
   ],
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Agree the URL map", "Together we mark every old URL as kept, moved, merged or removed. You approve the map before design work starts."],
       ["Design and build on staging", "The new site takes shape on a hidden staging link. Top pages keep their titles and core content while layouts, speed and structure improve."],
       ["Launch with redirects tested", "Redirects go live with the new site, the sitemap is submitted, and forms, WhatsApp links and tracking are tested from a phone."],
-      ["Watch and fix for five months", "We compare Search Console data against the old site, fix missed redirects or dropped pages, and handle edits free for five months."],
+      ["Watch and fix for two months", "We compare Search Console data against the old site, fix missed redirects or dropped pages, and handle edits free for two months."],
     ],
   },
   faqHeading: "Website redesign freelancer: questions and answers",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "What should I check after the redesigned site goes live?", answer: "Check that old URLs redirect correctly, the new sitemap is submitted, robots.txt allows crawling, no noindex tags remain, forms and WhatsApp buttons work, and analytics tracks visits. Then watch Search Console for spikes in 404 errors and compare clicks per page with the months before launch for several weeks." },
     { question: "Can a redesign improve my website speed?", answer: "Usually yes, and it should. A redesign is the right moment to remove heavy sliders, page builders and oversized images, reduce JavaScript and fonts, and pass Core Web Vitals on mid-range phones. Faster pages help visitors stay and are one of the signals search engines consider, though speed alone does not guarantee better rankings." },
     { question: "Who owns the redesigned website?", answer: "You should own the domain, hosting, code and any new platform accounts. With BtechWaleTech everything stays in your name, and at handover you receive the repository or admin access, the redirect map, DNS details and a list of services with renewal dates, so you can switch developers later if you wish." },
-    { question: "Is maintenance included after a website redesign?", answer: `Yes. BtechWaleTech includes five months of free maintenance after the redesigned site launches, covering missed redirects, small edits, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}. Monthly SEO work, if you want ongoing growth, starts at ${P.seo}.` },
+    { question: "Is maintenance included after a website redesign?", answer: `Yes. BtechWaleTech includes two months of free maintenance after the redesigned site launches, covering missed redirects, small edits, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care}. Monthly SEO work, if you want ongoing growth, starts at ${P.seo}.` },
     { question: "Can I redesign my store without losing product rankings?", answer: `Yes, with the same method at a larger scale. Product and category URLs are kept or mapped one to one, images and reviews carried over, structured data preserved and checkout tested with UPI and cards before launch. Store redesigns with BtechWaleTech start at ${P.shop}, with migration lines shown separately.` },
     { question: "Do I need to be in the same city as my redesign freelancer?", answer: "No. A redesign needs access to your site, analytics and Search Console, plus a couple of video calls, all of which work remotely. What matters more is that the freelancer audits the old site properly and stays around after launch. Distance does not change the redirect work or the monitoring." },
     { question: "Website redesign karwane se Google ranking girti hai kya?", answer: `Agar purane URLs ka redirect na lage ya top pages ka content hata diya jaaye toh ranking gir sakti hai. Sahi tareeka: pehle saare pages ki list, jo URL chal rahe hain unhe wahi rakhna, baaki ka 301 redirect, aur launch ke baad Search Console dekhna. Hamare saath redesign ${P.site} se shuru hota hai.` },
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a redesign? Start with an audit of what already works",
-    note: `Send your current website address on WhatsApp. We will look at what ranks, then send an itemised quote for the redesign and migration in about two working days. Redesigns start at ${P.site}, and the five months after launch include free maintenance.`,
+    note: `Send your current website address on WhatsApp. We will look at what ranks, then send an itemised quote for the redesign and migration in about two working days. Redesigns start at ${P.site}, and the two months after launch include free maintenance.`,
   },
 };
 

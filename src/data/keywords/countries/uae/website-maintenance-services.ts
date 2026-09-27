@@ -28,13 +28,13 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Updates, backups, security, edits · after launch",
     h1: "Website maintenance services Dubai businesses can hand over and stop worrying about",
-    lede: `Website maintenance services in Dubai should keep three promises: the site stays up, stays secure, and changes when your business changes. BtechWaleTech is three freelance developers in India who look after WordPress, WooCommerce, Shopify and custom sites for UAE businesses: <strong>tested backups, safe updates, uptime and certificate checks, and content edits</strong> handled across UAE working hours. Monthly care starts from ${P.care}, and sites we build get five months free first. Planning a bigger change? Read our <a href='/uae/website-redesign-services/'>website redesign guide</a> first.`,
+    lede: `Website maintenance services in Dubai should keep three promises: the site stays up, stays secure, and changes when your business changes. BtechWaleTech is three freelance developers in India who look after WordPress, WooCommerce, Shopify and custom sites for UAE businesses: <strong>tested backups, safe updates, uptime and certificate checks, and content edits</strong> handled across UAE working hours. Monthly care starts from ${P.care}, and sites we build get two months free first. Planning a bigger change? Read our <a href='/uae/website-redesign-services/'>website redesign guide</a> first.`,
     pills: ["Core, plugin and theme updates", "Backups with test restores", "Security and malware checks", "Uptime and SSL monitoring", "Content edits on request", "Takeovers from past agencies", "Replies 7 days a week"],
     origin: "Three freelance developers in India · 1.5 hours ahead of UAE time · quotes in USD",
   },
   facts: [
     ["Monthly maintenance from", `${P.care}, scoped per site`],
-    ["Free period", "5 months of maintenance after a site we build"],
+    ["Free period", "2 months of maintenance after a site we build"],
     ["Platforms", "WordPress, WooCommerce, Shopify, custom and static sites"],
     ["Backups", "Off-site copies in storage you own, restore-tested"],
     ["Access model", "Your hosting, domain and admin accounts; we are users"],
@@ -42,13 +42,13 @@ const content: FreelanceContent = {
   ],
   stats: [
     { value: "3", label: "Freelance developers sharing the maintenance work" },
-    { value: "5", label: "Months of free maintenance after a new build" },
+    { value: "2", label: "Months of free maintenance after a new build" },
     { value: "2", label: "Working days to an itemised maintenance quote" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
     heading: "What should monthly website maintenance include for a UAE business?",
-    text: `Monthly website maintenance should cover tested updates to the core, plugins and theme, off-site backups with restore checks, security and malware monitoring, uptime alerts, SSL and domain renewal checks, a speed review and an agreed allowance of content changes. BtechWaleTech provides this for UAE sites from ${P.care}, with five free months after any site we build.`,
+    text: `Monthly website maintenance should cover tested updates to the core, plugins and theme, off-site backups with restore checks, security and malware monitoring, uptime alerts, SSL and domain renewal checks, a speed review and an agreed allowance of content changes. BtechWaleTech provides this for UAE sites from ${P.care}, with two free months after any site we build.`,
     more: `Stores have extra upkeep such as checkout testing; see our <a href='/uae/woocommerce-development/'>WooCommerce development page</a>. For a site's search health, pair maintenance with <a href='/uae/technical-seo-services/'>technical SEO services</a>.`,
   },
   snapshot: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Suits", value: "Business sites, online stores, booking sites and custom portals" },
       { label: "Core tasks", value: "Updates, backups, security, uptime, SSL, domain, speed, edits" },
       { label: "Monthly price", value: `From ${P.care}` },
-      { label: "After a new build", value: "Five months of maintenance included free" },
+      { label: "After a new build", value: "Two months of maintenance included free" },
       { label: "Edit requests", value: "Sent by WhatsApp or email; turnaround agreed in your quote" },
       { label: "Takeovers", value: "Audit and access recovery before monthly care begins" },
       { label: "Your part", value: "Keep ownership of hosting and domain; send changes and approvals" },
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What website maintenance costs for a UAE business",
-    note: `Monthly website maintenance starts from ${P.care}. At that level a typical business site gets tested updates, off-site backups with periodic restore checks, security and uptime monitoring, SSL and domain expiry tracking, a monthly speed and error review, and an agreed allowance of content changes. Cost rises with the platform (a WooCommerce store with many plugins needs more testing than a static site), the number of languages, how often content changes, and whether the site handles payments or bookings. Sites we build get five months of maintenance free before any plan starts. Taking over a neglected site may need a one-off clean-up first, quoted separately, and nothing is billed before your written approval.`,
+    note: `Monthly website maintenance starts from ${P.care}. At that level a typical business site gets tested updates, off-site backups with periodic restore checks, security and uptime monitoring, SSL and domain expiry tracking, a monthly speed and error review, and an agreed allowance of content changes. Cost rises with the platform (a WooCommerce store with many plugins needs more testing than a static site), the number of languages, how often content changes, and whether the site handles payments or bookings. Sites we build get two months of maintenance free before any plan starts. Taking over a neglected site may need a one-off clean-up first, quoted separately, and nothing is billed before your written approval.`,
   },
   guideLabel: "Website maintenance in the UAE: updates, backups, security, edits and takeovers",
   guide: [
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much do website maintenance services in Dubai cost?",
       paragraphs: [
-        `With BtechWaleTech, monthly maintenance starts from ${P.care}, and sites we build get five months free first. Across Dubai, quotes for website maintenance services vary widely because providers include very different things under the same name.`,
+        `With BtechWaleTech, monthly maintenance starts from ${P.care}, and sites we build get two months free first. Across Dubai, quotes for website maintenance services vary widely because providers include very different things under the same name.`,
         `The main cost drivers are the platform and plugin count, how often the site changes, the edit allowance, whether the site takes payments or bookings, the number of languages, and the backup and monitoring setup. A static corporate site with a handful of edits a year needs little time. A bilingual WooCommerce store with dozens of plugins and weekly promotions needs regular testing, especially around updates and sale periods.`,
         `When comparing quotes, ask what is included in writing: update testing or just clicking update, where backups are stored and whether restores are tested, what monitoring covers, how many edits are included, how outages are handled and who holds the accounts. A cheaper plan that skips testing and off-site backups often costs more the first time something breaks. Quotes are in USD, and nothing is billed until you approve the scope; our <a href='/pricing/'>pricing page</a> lists starting prices across services.`,
       ],
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
       id: "maintenance-scope-cost",
       eyebrow: "Scope and starting prices",
       heading: "Website maintenance scopes for UAE sites, with starting prices",
-      note: `All figures are starting prices in USD. Sites we build include five months of maintenance free; takeovers may need a one-off clean-up first.`,
+      note: `All figures are starting prices in USD. Sites we build include two months of maintenance free; takeovers may need a one-off clean-up first.`,
       columns: ["Scope", "Suits", "Starting price", "Includes"],
       rows: [
         ["Monthly maintenance", "Business and bilingual sites", `From ${P.care}`, "Updates, backups, security, uptime, SSL, edits allowance"],
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
   faqHeading: "Website maintenance services Dubai: questions business owners ask",
   faqs: [
     { question: "What do website maintenance services include?", answer: "Website maintenance usually covers software updates for the core, plugins and theme, off-site backups with restore tests, security and malware monitoring, uptime alerts, SSL and domain renewal tracking, speed and error checks, and an agreed allowance of content changes. A good provider also sends a short monthly record of what was done and what was found." },
-    { question: "How much do website maintenance services in Dubai cost?", answer: `With BtechWaleTech, monthly maintenance starts from ${P.care}, and sites we build get five months free first. Quotes across Dubai vary widely because providers include very different work, from clicking update buttons to staged testing, off-site backups and monitoring. Always compare what is written into the scope, not just the monthly figure.` },
+    { question: "How much do website maintenance services in Dubai cost?", answer: `With BtechWaleTech, monthly maintenance starts from ${P.care}, and sites we build get two months free first. Quotes across Dubai vary widely because providers include very different work, from clicking update buttons to staged testing, off-site backups and monitoring. Always compare what is written into the scope, not just the monthly figure.` },
     { question: "Does my website need maintenance every month?", answer: "If it runs on WordPress or another CMS with plugins, or takes enquiries, bookings or payments, monthly maintenance is sensible. A static site without a CMS needs much less, mainly certificate and domain checks, dependency updates and edits. Shopify handles core updates, but apps, themes and checkout still benefit from regular checks." },
     { question: "What happens if a website is not maintained?", answer: "Outdated plugins and themes accumulate known vulnerabilities, forms can break without anyone noticing, backups may stop working, and certificates or domains can lapse. Many owners find out through a customer, a browser warning or a sudden drop in enquiries. Fixing a neglected or hacked site usually costs more than steady maintenance would have." },
     { question: "How often should a website be backed up?", answer: "As often as it changes. A brochure site might need weekly backups plus one before every update. An online store or booking site needs at least daily database backups, and more during busy sales periods. Keep copies off the web server in storage you own, keep several generations, and test a restore regularly." },

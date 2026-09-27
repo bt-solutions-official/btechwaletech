@@ -56,7 +56,7 @@ const tura: CityContent = {
     ai: "WhatsApp assistants in English that answer fee, timing, room and stock questions and pass anything sensitive to a person.",
     data: "Dashboards of admissions, fee collection, project spending for NGOs, room bookings and daily sales, readable on a phone.",
     app: "Android and iOS apps for school notices and results, church announcements or homestay bookings, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates, security fixes and content edits.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates, security fixes and content edits.",
   },
   whyUsIntro:
     "Institutions and families in Tura often work with limited budgets and cannot afford software that stops working when a developer disappears. We publish starting prices, send an itemised quote in writing, reply on WhatsApp every day of the week, and register your domain, hosting, code and app store accounts in your name from the start.",
@@ -185,7 +185,7 @@ const tura: CityContent = {
       heading: "Ownership, handover and maintenance for Tura organisations",
       paragraphs: [
         "Schools and churches in smaller towns sometimes lose their website because a volunteer or vendor registered it in a personal name and then moved on. We prevent this from day one. The domain, hosting, code, Google Business Profile and app store accounts are set up in your institution's or business's name, with us added as users only.",
-        "Every project includes five months of free maintenance after launch: bug fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime checks and small changes. You may stop at any time and pass the work to someone else; we hand over every login and our notes.",
+        "Every project includes two months of free maintenance after launch: bug fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime checks and small changes. You may stop at any time and pass the work to someone else; we hand over every login and our notes.",
         "For software, we write plain-language documentation so a new office staff member or another developer can manage it. Institutions in Tura have stood for a century; their records should not depend on one vendor.",
       ],
     },
@@ -228,7 +228,7 @@ const tura: CityContent = {
     {
       question: "Which is the best IT services team in Tura for a school or small business?",
       answer:
-        "Choose someone who registers your domain, code and accounts in your name, gives a written itemised quote and explains maintenance up front. We are a remote team of three engineers with published starting prices and five months of free maintenance. Compare options on ownership, reliability on slow networks and support after launch, not just price.",
+        "Choose someone who registers your domain, code and accounts in your name, gives a written itemised quote and explains maintenance up front. We are a remote team of three engineers with published starting prices and two months of free maintenance. Compare options on ownership, reliability on slow networks and support after launch, not just price.",
     },
     {
       question: "How long does it take to build a website in Tura?",
@@ -263,7 +263,7 @@ const tura: CityContent = {
     {
       question: "How much does website maintenance cost after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime monitoring and small changes. You can stop at any time and manage the site yourself or hand it to someone else.",
+        "Every project includes two months of free maintenance after launch for fixes, small edits and security updates. After that, maintenance starts from ₹8,000 a month for backups, updates, uptime monitoring and small changes. You can stop at any time and manage the site yourself or hand it to someone else.",
     },
     {
       question: "Can you build a website for a homestay near Nokrek or Tura Peak?",

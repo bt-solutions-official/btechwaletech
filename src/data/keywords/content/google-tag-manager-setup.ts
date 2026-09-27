@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A simple Google Tag Manager setup for one site with WhatsApp, call and form tracking to GA4 usually takes a few working days including testing; adding Google Ads, Meta, consent mode and an inherited container clean-up stretches it. We quote each piece as its own line so you can choose.`,
         `Price follows destinations and actions. Every extra platform means another set of tags to build and another place to verify. Every extra lead action means another trigger and another test. The container clean-up on an old site can cost more than the new work, because each unknown tag has to be traced before it is deleted. Freelancers and agencies quote this work very differently; compare scope lines, not totals.`,
-        `Our reference points: ongoing tag care after setup sits in maintenance from ${P.care} (${P.careUsd}); monthly SEO with conversion reporting starts at ${P.seo}; and a new static website with the container built in from the start begins at ${P.site}, with 5 months of free maintenance after launch. The full list is on our <a href='/pricing/'>pricing page</a>.`,
+        `Our reference points: ongoing tag care after setup sits in maintenance from ${P.care} (${P.careUsd}); monthly SEO with conversion reporting starts at ${P.seo}; and a new static website with the container built in from the start begins at ${P.site}, with 2 months of free maintenance after launch. The full list is on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {

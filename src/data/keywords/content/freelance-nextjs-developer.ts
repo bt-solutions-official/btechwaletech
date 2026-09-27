@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Web app or SaaS", `From ${P.software}, 6–12 weeks`],
     ["Hosting", "Vercel, AWS, Netlify or your own server"],
     ["Repository", "Your GitHub or GitLab account"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your codebase" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free care after go-live" },
+    { value: "2", label: "Months of free care after go-live" },
     { value: "0", label: "Platform fees between you and us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Programmatic SEO site", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Web app with logins", value: `From ${P.software}, 6–12 weeks` },
       { label: "Hosting accounts", value: "Opened in your name, billed to your card" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -233,7 +233,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `For a typical business or SEO site, the build takes one to five weeks; for a web app, six to twelve. The rhythm is the same: plan the routes and data first, then design, then build in small releases you can see.`,
         `Week one covers the route map, content model and rendering plan, written down so you know which pages are static and which are dynamic. Design follows, phone first. Development happens on a branch with automatic preview deployments, so every change has its own link you can open on WhatsApp and comment on. Vedansh keeps a short checklist of what is done and what is waiting on you, usually content and approvals.`,
-        `Before launch we run Lighthouse, check every metadata tag, validate structured data, test forms and payment flows, and set up redirects if an old site exists. On launch day we point the domain, confirm HTTPS, submit the sitemap in Search Console and hand over access. Five months of free maintenance then covers fixes, dependency updates and small edits.`,
+        `Before launch we run Lighthouse, check every metadata tag, validate structured data, test forms and payment flows, and set up redirects if an old site exists. On launch day we point the domain, confirm HTTPS, submit the sitemap in Search Console and hand over access. Two months of free maintenance then covers fixes, dependency updates and small edits.`,
       ],
     },
     {
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
       heading: "Next.js developer chahiye? Simple bhasha mein samjhiye",
       paragraphs: [
         `Next.js ek React framework hai jo pages ko server par hi taiyaar kar deta hai. Iska fayda yeh hai ki website jaldi khulti hai aur Google ko poora content turant dikh jaata hai, jo SEO ke liye accha hai.`,
-        `Agar aapki website mein bahut saare pages honge, jaise har city ya har service ka alag page, ya website ke saath login wala dashboard bhi chahiye, toh Next.js sahi choice hai. Chhoti si 5 page ki website ke liye iski zarurat nahi; simple static site bhi kaafi hai. Hamare yahan website ${P.site} se shuru hoti hai aur web app ${P.software} se. Hosting aur code dono aapke naam par rahenge, aur launch ke baad 5 mahine maintenance free hai. WhatsApp par Hindi ya English mein baat kar sakte hain.`,
+        `Agar aapki website mein bahut saare pages honge, jaise har city ya har service ka alag page, ya website ke saath login wala dashboard bhi chahiye, toh Next.js sahi choice hai. Chhoti si 5 page ki website ke liye iski zarurat nahi; simple static site bhi kaafi hai. Hamare yahan website ${P.site} se shuru hoti hai aur web app ${P.software} se. Hosting aur code dono aapke naam par rahenge, aur launch ke baad 2 mahine maintenance free hai. WhatsApp par Hindi ya English mein baat kar sakte hain.`,
       ],
     },
     {
@@ -309,7 +309,7 @@ const content: FreelanceContent = {
         ["Headless online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks", "ISR catalogue, SSR cart and checkout"],
         ["SaaS or web app", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks", "SSR dashboards, server actions"],
         ["AI feature in a Next.js app", `${P.ai}`, `${P.aiUsd}`, "2–4 weeks", "Streaming route handlers"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Updates, fixes, dependency upgrades"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly", "Updates, fixes, dependency upgrades"],
       ],
       hideSm: [2, 4],
     },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Accounts created under your name", "Your GitHub organisation, hosting project, domain and CMS workspace are set up with your email; we join as collaborators with only the access we need."],
       ["Build in small releases", "Every change deploys to its own preview link. You check it on your phone, reply with comments, and approve milestones before the next payment."],
       ["Launch with SEO checks", "We run Lighthouse, validate schema, apply redirects, point the domain, confirm HTTPS and submit the sitemap in Google Search Console."],
-      ["Hand over and support", `You get a README, environment variable list and deploy notes. Five months of free maintenance follow; after that, care starts from ${P.care} if you want it.`],
+      ["Hand over and support", `You get a README, environment variable list and deploy notes. Two months of free maintenance follow; after that, care starts from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Freelance Next.js developer: common questions",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a freelance Next.js developer?", answer: "Payment is staged against visible progress on preview links, starting after you approve an itemised written quote. Clients in India pay by UPI or bank transfer; clients abroad use Wise, bank wire or PayPal. There are no platform fees because you deal with the three developers directly rather than through a marketplace." },
     { question: "Can you build an online store in Next.js?", answer: `Yes. Product and category pages are rendered for search, often with incremental regeneration so stock and prices stay current, while the cart and checkout run on the server with UPI and card payments. Order emails, WhatsApp confirmations and GST-ready invoice data can be added. Next.js stores with us start at ${P.shop}.` },
     { question: "Can a Next.js developer also build my mobile app?", answer: `A Next.js site can work as an installable progressive web app for simple needs. For a full Android and iOS app with push notifications or device features, we build in Flutter or React Native from ${P.app}, and the app can share the same API and database as your Next.js site, so data and logins stay in one place.` },
-    { question: "What maintenance does a Next.js site need?", answer: `Regular dependency updates, including Next.js and React releases, security patches, checking Core Web Vitals and Search Console errors, renewing domains and reviewing hosting costs. BtechWaleTech includes five months of free maintenance after launch. After that, ongoing care starts at ${P.care} a month, or you can handle it in-house with our handover notes.` },
+    { question: "What maintenance does a Next.js site need?", answer: `Regular dependency updates, including Next.js and React releases, security patches, checking Core Web Vitals and Search Console errors, renewing domains and reviewing hosting costs. BtechWaleTech includes two months of free maintenance after launch. After that, ongoing care starts at ${P.care} a month, or you can handle it in-house with our handover notes.` },
     { question: "Is a freelance Next.js developer better than an agency?", answer: "A small freelance team suits projects with clear scope where you want to speak directly to the people writing the code, at lower overhead. An agency suits very large builds needing many specialists at once or on-site presence. Our three-person team is not the right fit for a project requiring twenty developers in parallel." },
     { question: "Next.js developer se website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath Next.js website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Bahut saare SEO pages wali website ${P.seoSite} se, aur login wala web app ${P.software} se shuru hota hai. Hosting ka kharcha alag hai jo aap seedha provider ko dete hain. Code aur accounts aapke naam par rehte hain.` },
     { question: "Do you work with Next.js clients outside India?", answer: `Yes. We work with clients in the USA, UK, Canada, Australia, the UAE, Singapore and elsewhere, billing in USD with static builds from ${P.siteUsd} and web apps from ${P.softwareUsd}. Calls are scheduled to overlap your working hours, progress is shared on preview deployments, and payment goes through Wise, bank wire or PayPal.` },
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance Next.js developer? Tell us what you are building",
-    note: `Message us on WhatsApp with your goal, page count and any current site. You will receive an itemised quote and a rendering plan in about two working days. Next.js sites start at ${P.site}, with code and hosting in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with your goal, page count and any current site. You will receive an itemised quote and a rendering plan in about two working days. Next.js sites start at ${P.site}, with code and hosting in your name and two months of free maintenance after launch.`,
   },
 };
 

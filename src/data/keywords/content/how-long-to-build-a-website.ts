@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "1–2", label: "Weeks for a static site of up to 100 pages" },
     { value: "100", label: "Pages included in the static website plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Portal or web application", note: `Logins, dashboards, bookings or workflows beyond a normal site. Planned in phases over 6–12 weeks, from ${P.software}.`, href: "/web-application-developer/", size: "md" },
       { name: "Redesign of an existing site", note: "New design and faster code while keeping URLs and rankings safe. Content already exists, so timelines depend on how much of it changes.", href: "/website-redesign-freelancer/", size: "sm" },
       { name: "SEO after launch", note: `Search Console, fixes and content that builds rankings month by month, from ${P.seo}.`, href: "/seo-for-new-website/", size: "sm" },
-      { name: "Care after launch", note: `Updates, backups and edits free for five months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Care after launch", note: `Updates, backups and edits free for two months, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
       ["Set up domain and hosting in your name", "While design starts, we register or connect your domain, hosting, SSL and business email so none of it becomes a last-minute task."],
       ["Review a live preview on your phone", "You see real pages on a preview link from early in the build and send one consolidated list of changes per round."],
       ["Test, launch and submit to Google", "We test speed, forms and mobile layout, go live at a quiet hour, and submit the sitemap in Google Search Console."],
-      ["Five months of free care", "Edits, updates and fixes are free for five months after launch. After that, maintenance continues from a monthly starting price if you want it."],
+      ["Two months of free care", "Edits, updates and fixes are free for two months after launch. After that, maintenance continues from a monthly starting price if you want it."],
     ],
   },
   faqHeading: "How long does it take to build a website: common questions",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Website banane me kitna time lagta hai?", answer: `Ek normal business website, 100 pages tak, content ready ho to 1–2 hafte mein ban jaati hai. Online store ko 4–8 hafte lagte hain aur 299+ pages wali SEO website ko 3–5 hafte. Sabse zyada deri text, photos aur approval mein hoti hai. Website ${P.site} se shuru hoti hai.` },
     { question: "What should I prepare before the website build starts?", answer: "Domain access or a new name, logo and colours, a list of services or products, real photos, contact details and service areas, two or three sites you like, one person to approve, and your real deadline. A rough version of each is far better than waiting for perfect material." },
     { question: "How long does it take to build a website with 300 or more pages?", answer: `A large SEO website of 299+ pages usually takes 3–5 weeks. The build uses templates and structured data, so the time goes mostly into planning keywords, making each page genuinely useful and linking pages sensibly. These sites start at ${P.seoSite}.` },
-    { question: "What happens after the website goes live?", answer: "We watch Search Console and analytics in the first weeks, fix anything real users uncover, and add pages that followed after launch. Edits, updates and fixes are free for five months. After that, maintenance continues from a monthly starting price, and ongoing SEO is available separately if you want it." },
+    { question: "What happens after the website goes live?", answer: "We watch Search Console and analytics in the first weeks, fix anything real users uncover, and add pages that followed after launch. Edits, updates and fixes are free for two months. After that, maintenance continues from a monthly starting price, and ongoing SEO is available separately if you want it." },
     { question: "Is a freelancer or an agency faster at building a website?", answer: "It depends on queue and process more than label. A small freelance team often starts sooner and has fewer handovers; an agency may have more people but also more meetings and approvals. Compare the dated plan each offers, when you first see a preview, and who handles content." },
     { question: "How long does it take to build a website with online booking?", answer: `A business site with a booking calendar, reminders and payments typically takes two to four weeks, depending on how many services, staff and locations must be scheduled. Complex booking rules move it toward a web app, which starts at ${P.software} and takes 6–12 weeks.` },
   ],

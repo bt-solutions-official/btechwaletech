@@ -56,7 +56,7 @@ const mandapeta: CityContent = {
     ai: "Telugu-capable WhatsApp assistants that quote current rates, log orders from wholesale buyers and hand anything unusual to the owner.",
     data: "Season dashboards that show paddy bought, rice sold, broker dues and truck dispatches in one view.",
     app: "Android and iOS apps from ₹40,000 for millers to take repeat orders from traders or for poultry supervisors to log daily counts, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for changes, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for changes, backups and security patches.",
   },
   whyUsIntro:
     "Mandapeta owners run tight margins and remember who delivered and who did not. We show starting prices openly, send a written line-by-line quote, answer WhatsApp every day, and keep your domain, hosting, source code and app store accounts in your own name. When something is not worth the money, we tell you before you pay for it.",
@@ -156,7 +156,7 @@ const mandapeta: CityContent = {
       heading: "Website cost in Mandapeta: what each type of project starts at",
       paragraphs: [
         "Here is how our starting prices line up against the kind of work Mandapeta businesses usually need. A shop, clinic or mill profile with up to 100 pages starts from ₹10,000 and takes one to two weeks. A larger SEO site of 299+ pages, suited to a trader covering many products and towns, is ₹20,000 onwards over three to five weeks. An online store for packed rice, oil or snacks starts from ₹50,000 and takes four to eight weeks.",
-        "Android and iOS apps and AI or WhatsApp automation each begin at ₹40,000. Custom software, such as a paddy intake and dispatch system, is ₹60,000 onwards and is built over six to twelve weeks. Monthly SEO starts from ₹10,000 a month, and maintenance from ₹8,000 a month once the free five months end.",
+        "Android and iOS apps and AI or WhatsApp automation each begin at ₹40,000. Custom software, such as a paddy intake and dispatch system, is ₹60,000 onwards and is built over six to twelve weeks. Monthly SEO starts from ₹10,000 a month, and maintenance from ₹8,000 a month once the free two months end.",
         "The number rises only with what you add: Telugu and English versions, many product pages, payment options, staff logins, links to your billing software, or content writing if you would rather not write your own. Each of these appears as a separate line in the quote, which reaches you in about two working days.",
         "Quotes from different developers in the delta can vary a great deal for work that sounds the same. Compare who owns the domain and code, whether the site is tested on cheap phones, how many revisions are included and what happens after launch. Our full list is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -176,7 +176,7 @@ const mandapeta: CityContent = {
       heading: "Who owns your Mandapeta website or app, and how it is maintained",
       paragraphs: [
         "Everything is registered to you from the first day. The domain is booked on your email, the hosting account is in your name, the source code is handed over in full, and the Google Business Profile, Play Console and Apple developer accounts list you as the owner. At handover you get a single document with every login. If you ever stop working with us, the site keeps running and any developer can pick it up.",
-        "After launch we maintain the site or app free for five months. That covers text and price changes, new photographs, backups, security updates, and regular checks that forms, payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, move the work to your own staff, or hire someone else.",
+        "After launch we maintain the site or app free for two months. That covers text and price changes, new photographs, backups, security updates, and regular checks that forms, payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, move the work to your own staff, or hire someone else.",
         "Apps need attention every year even when they work, because Google and Apple raise their minimum requirements. We track those deadlines and update your app before a store can hide or remove it, so a customer never finds an app that has quietly disappeared.",
       ],
     },
@@ -273,7 +273,7 @@ const mandapeta: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: price and text changes, photographs, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Since the code and accounts are yours, you can also move to another developer at any time.",
+        "The first two months after launch are free: price and text changes, photographs, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. Since the code and accounts are yours, you can also move to another developer at any time.",
     },
     {
       question: "Do you work in Ramachandrapuram, Alamuru and Rajamahendravaram too?",

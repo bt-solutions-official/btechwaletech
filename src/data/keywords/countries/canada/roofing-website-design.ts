@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks with photos in hand"],
     ["Launch before", "Spring inspections and hail season"],
     ["Ownership", "Domain, hosting, photos and code are yours"],
-    ["Included care", "5 months of free maintenance"],
+    ["Included care", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and answer your messages" },
     { value: "2", label: "Working days until your itemised quote" },
     { value: "7", label: "Days a week on WhatsApp, storm season included" },
-    { value: "5", label: "Months of maintenance at no charge after launch" },
+    { value: "2", label: "Months of maintenance at no charge after launch" },
   ],
   answer: {
     heading: "How does a Canadian roofing company get more inspection and replacement leads from its website?",
@@ -217,7 +217,7 @@ const content: FreelanceContent = {
         { heading: "Ongoing SEO", text: `New job pages, seasonal updates, profile checks, from ${P.seo}.` },
       ],
       after: [
-        `Maintenance is free for the first 5 months and available afterwards from ${P.care}. The general <a href='/canada/website-design-cost/'>Canadian website design cost guide</a> explains wider price factors. Every quote is itemised in USD, and nothing is billed before you approve it.`,
+        `Maintenance is free for the first 2 months and available afterwards from ${P.care}. The general <a href='/canada/website-design-cost/'>Canadian website design cost guide</a> explains wider price factors. Every quote is itemised in USD, and nothing is billed before you approve it.`,
       ],
     },
     {
@@ -446,7 +446,7 @@ const content: FreelanceContent = {
     { question: "Should roofers hire a local web designer or a remote team?", answer: "A local designer can meet you and photograph jobs. A remote team suits roofers happy with video calls and shared photo folders, and usually costs less for the same scope. With us in India, your early mornings overlap with our evenings, so changes you ask for at lunch are often done by the next morning." },
     { question: "Who owns my roofing website once it's built?", answer: "You own everything. The domain, hosting account, photos and source code are set up in your company's name from the first day, and all logins are handed over at launch. If you stop working with us, the site carries on and any other developer can take it over without asking our permission." },
     { question: "Do you take photos or inspect roofs?", answer: "No. We are three freelance developers working remotely from India, so we never visit sites, inspect roofs or take photos. You supply job photos, ideally before, during and after shots. If you don't have enough good ones, a local photographer or drone operator for a day before launch is money well spent." },
-    { question: "What does roofing website maintenance include?", answer: `The first 5 months after launch are free, covering fixes, updates, new job pages you send and seasonal banner changes. After that, maintenance starts at ${P.care} if you want to keep it. Monthly SEO from ${P.seo} is separate and covers new content, storm updates and profile checks.` },
+    { question: "What does roofing website maintenance include?", answer: `The first 2 months after launch are free, covering fixes, updates, new job pages you send and seasonal banner changes. After that, maintenance starts at ${P.care} if you want to keep it. Monthly SEO from ${P.seo} is separate and covers new content, storm updates and profile checks.` },
     { question: "Can you build a French version of my roofing site?", answer: "Yes. We build separate English and French pages with a language switcher and correct language tags for search engines. We write in English, so you supply the French copy or approve a professional translation. For work in Quebec, have your lawyer confirm the site meets provincial language rules before launch." },
     { question: "How do I pay a web team in India from Canada?", answer: "The quote is in USD and you pay by Wise, bank wire or PayPal, which works from a Canadian-dollar account with the conversion handled by your bank or Wise. Nothing is billed before you approve the quote in writing, and invoices come from India. Your accountant decides how they are recorded." },
     { question: "Can roofing websites show up in AI search answers?", answer: "They can when pages answer homeowner questions clearly, with the answer in the first sentence, local detail and links to official sources. We structure storm, insurance and material pages that way and add structured data. Nobody can guarantee that an AI tool will cite a page, but clear, specific content gives you the best chance." },

@@ -335,7 +335,7 @@ const content: FreelanceContent = {
         ["Matching business website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
         ["SEO website with location pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks"],
         ["WhatsApp review request automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Website maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Website maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
   ],

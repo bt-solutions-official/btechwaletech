@@ -56,7 +56,7 @@ const visnagar: CityContent = {
     ai: "WhatsApp assistants in Gujarati that answer price, model, delivery and appointment questions and pass real decisions to you.",
     data: "Dashboards for dealer sales by district, pump returns under warranty, crop arrivals or monthly copperware orders.",
     app: "Android and iOS apps for pump dealers to place orders and log service calls, or for students to see timetables, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security work.",
   },
   whyUsIntro:
     "Visnagar business families compare every quote twice and expect the numbers to hold. We publish starting prices, send an itemised written quote, reply on WhatsApp every day of the week, and put your domain, hosting, code and store accounts in your name. If a feature will not earn back its cost, we tell you.",
@@ -158,7 +158,7 @@ const visnagar: CityContent = {
       heading: "Website cost in Visnagar: starting prices and how to compare quotes",
       paragraphs: [
         "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 299+ pages, useful for manufacturers with many models or businesses serving many villages, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation start at ₹40,000.",
-        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a dealer portal or market-yard ledger starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance from ₹8,000 a month after five free months.",
+        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as a dealer portal or market-yard ledger starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance from ₹8,000 a month after two free months.",
         "Local quotes vary widely. When comparing, ask who owns the domain and hosting, whether Gujarati text is written by a person who reads it, how fast the site loads on a mid-range phone and what support costs after launch. Our full breakdown is on the <a href=\"/pricing/\">pricing page</a>, and every quote we send lists each item separately.",
       ],
     },
@@ -173,10 +173,10 @@ const visnagar: CityContent = {
     },
     {
       id: "ownership-maintenance",
-      heading: "Ownership and maintenance: your domain, your code, five free months",
+      heading: "Ownership and maintenance: your domain, your code, two free months",
       paragraphs: [
         "Many Visnagar owners have lost a website because a developer kept the domain in his own name. We register your domain, hosting, source code, Google Business Profile and any Google Play or App Store developer accounts in your name, with your email and phone number, from the start.",
-        "After launch you get five months of free maintenance covering bug fixes, small content updates, security patches and backups. After that, maintenance starts at ₹8,000 a month if you want us to keep looking after the site or app. You can take the code to another developer at any time and we will hand everything over.",
+        "After launch you get two months of free maintenance covering bug fixes, small content updates, security patches and backups. After that, maintenance starts at ₹8,000 a month if you want us to keep looking after the site or app. You can take the code to another developer at any time and we will hand everything over.",
         "We also train you or a staff member to update prices, products, notices and photos yourself, usually in one screen-share session. That way a new copper set or a revised pump price goes live the same day.",
       ],
     },
@@ -264,7 +264,7 @@ const visnagar: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month if you want ongoing care. We also train you to update prices, products and notices yourself, so routine changes do not wait on us.",
+        "Two months of free maintenance after launch, covering bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month if you want ongoing care. We also train you to update prices, products and notices yourself, so routine changes do not wait on us.",
     },
     {
       question: "Do you work with businesses in Mehsana, Vadnagar and nearby towns?",

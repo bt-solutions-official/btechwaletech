@@ -56,7 +56,7 @@ const malkapur: CityContent = {
     ai: "WhatsApp assistants in Marathi and Hindi that answer rate, stock and timing questions and hand real decisions back to you.",
     data: "Season dashboards showing kapas bought, bales pressed, dispatches, payments due and margins per lot.",
     app: "Android and iOS apps for field agents buying kapas or for regular customers placing repeat orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Malkapur traders count every rupee and remember who kept their word last season. We publish starting prices, send itemised written quotes, reply on WhatsApp all seven days, and register your domain, hosting, code and app store accounts in your own name. If something will not earn back its cost, we tell you before you spend.",
@@ -188,7 +188,7 @@ const malkapur: CityContent = {
       heading: "Ownership and maintenance after your Malkapur website goes live",
       paragraphs: [
         "A common story in small towns is the business owner who paid for a website years ago, lost touch with the developer, and now cannot change a phone number because the domain and hosting are in someone else's name. We avoid this completely. Your domain, hosting, source code, Google Business Profile and app store accounts are registered to you, and you hold the passwords.",
-        "After launch, you get five months of free maintenance. That covers bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular updates, monitoring and support. If your site rarely changes, we will tell you that you may not need a monthly plan at all.",
+        "After launch, you get two months of free maintenance. That covers bug fixes, small content changes, security updates and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular updates, monitoring and support. If your site rarely changes, we will tell you that you may not need a monthly plan at all.",
         "We document how everything is set up in plain language, so if you ever move to another developer, they can take over without starting from scratch. That handover note is part of every project, not an extra.",
         "For apps, maintenance also covers updates required by Google and Apple when they change their rules, which happens more often than most owners expect. We keep an eye on these notices so your app does not quietly disappear from the store.",
       ],
@@ -272,7 +272,7 @@ const malkapur: CityContent = {
     {
       question: "What does website maintenance cost after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch, covering fixes, small content updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular updates. If your site hardly changes, we will tell you honestly that a monthly plan may not be necessary.",
+        "Every project includes two months of free maintenance after launch, covering fixes, small content updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular updates. If your site hardly changes, we will tell you honestly that a monthly plan may not be necessary.",
     },
     {
       question: "Can you build an ecommerce website in Malkapur for my cloth shop?",

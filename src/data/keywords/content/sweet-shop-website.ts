@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store build time", "4–8 weeks"],
     ["Start before Diwali", "By July or early August"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building and supporting your store" },
     { value: "0", label: "Commission on orders placed through your own site" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to receive an itemised quote" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a sweet shop website costs",
-    note: `Two routes. If you mainly sell locally and take festive orders by phone, a catalogue site with prices, gift box pages and WhatsApp ordering starts at ${P.site} and takes 1–2 weeks. If you want customers across India to pay online, with pincode checks, shipping rules by shelf life and courier tracking, a full store starts at ${P.shop} and takes 4–8 weeks. A separate corporate gifting portal with company logins and approval flows starts at ${P.software}. Monthly SEO starts at ${P.seo}; care after five free months starts at ${P.care}. All figures are starting prices.`,
+    note: `Two routes. If you mainly sell locally and take festive orders by phone, a catalogue site with prices, gift box pages and WhatsApp ordering starts at ${P.site} and takes 1–2 weeks. If you want customers across India to pay online, with pincode checks, shipping rules by shelf life and courier tracking, a full store starts at ${P.shop} and takes 4–8 weeks. A separate corporate gifting portal with company logins and approval flows starts at ${P.software}. Monthly SEO starts at ${P.seo}; care after two free months starts at ${P.care}. All figures are starting prices.`,
   },
   guideLabel: "Sweet shop website guide",
   guide: [
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
         `Domain in your name and a Google Business Profile you can access.`,
       ],
       after: [
-        `At launch you own the domain, store account, code and every customer record. Five months of free maintenance cover fixes, new boxes and festival banners; after that, care starts at ${P.care} if you want it. Payment and change terms are in your written quote and our <a href='/terms/'>terms</a>.`,
+        `At launch you own the domain, store account, code and every customer record. Two months of free maintenance cover fixes, new boxes and festival banners; after that, care starts at ${P.care} if you want it. Payment and change terms are in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
       ["Approve the shipping logic", "We map every product to its group and zones, and you check the pincode and shelf-life rules before any design work begins."],
       ["Build and test orders", "On a private link you place test orders to local and distant pincodes, try the box builder and check how corporate uploads behave."],
       ["Launch on your accounts", "The store goes live on your domain with payments settling to your bank, courier booking connected and Search Console set up."],
-      ["Free care through the season", "Five months of free maintenance cover new boxes, festival banners, price changes and fixes; optional care or SEO continues only if you choose."],
+      ["Free care through the season", "Two months of free maintenance cover new boxes, festival banners, price changes and fixes; optional care or SEO continues only if you choose."],
     ],
   },
   faqHeading: "Sweet shop website questions",
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
     { question: "Will my sweet shop website rank on Google?", answer: "Nobody can guarantee rankings. Your chances improve with an accurate Google Business Profile, a store page with correct hours, and a dedicated page for each speciality sweet with clear names, including the Hinglish spellings people type. Good photos and genuine reviews help both local and national searches." },
     { question: "How do I handle daily production limits during festivals?", answer: "The store can cap orders per day for each box or product. When the cap is reached, the next available dispatch date appears automatically. This stops the site from promising more boxes than your kitchen can make and pack, which is the most common festival failure." },
     { question: "Who owns the sweet shop website and customer data?", answer: "You do. The domain, store account and hosting are in your name, and you get the code and logins at launch. Customer names, addresses and order history belong to your business, so you can remind past buyers before the next festival without paying a platform." },
-    { question: "What happens after the website launches?", answer: `Five months of free maintenance cover fixes, new gift boxes, price changes and festival banners. After that, care starts at ${P.care} if you want it, or your staff can handle routine updates. Many shops update boxes and prices before Raksha Bandhan and Diwali each year.` },
+    { question: "What happens after the website launches?", answer: `Two months of free maintenance cover fixes, new gift boxes, price changes and festival banners. After that, care starts at ${P.care} if you want it, or your staff can handle routine updates. Many shops update boxes and prices before Raksha Bandhan and Diwali each year.` },
     { question: "Can the website be in Hindi?", answer: "Yes. We build Hindi or regional-language versions as separate pages so each can appear in search. You supply or approve the translated text so sweet names, ingredients and prices are exactly right. Many shops keep product names in both scripts because buyers search both ways." },
     { question: "How do I pay for my sweet shop website?", answer: "Payments are by UPI or bank transfer in stages written into your quote, and nothing is billed before you approve the quote in writing. Customers' payments on your store go through a payment provider account in your name and settle directly to your bank." },
     { question: "Mithai ki dukan online kaise bechein?", answer: `Jo mithai aur namkeen courier me kharab nahi hote, unhe poore India me bhejiye, aur taaza doodh ya chhena ki mithai sirf local delivery me rakhiye. Website har pincode check karti hai aur shelf life ke hisaab se order leti hai. BtechWaleTech ka online store ${P.shop} se aur WhatsApp order waali site ${P.site} se shuru hoti hai.` },

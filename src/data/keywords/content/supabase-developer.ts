@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: backend, data and delivery" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Server code", value: "Edge Functions in TypeScript on a Deno-compatible runtime" },
       { label: "Web app on Supabase", value: `From ${P.software}, 6–12 weeks` },
       { label: "Hosting choice", value: "Supabase Cloud or self-hosted with Docker" },
-      { label: "After launch", value: `5 months free, then maintenance from ${P.care}` },
+      { label: "After launch", value: `2 months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
         ["AI feature with pgvector search", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Store or catalogue site using Supabase data", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Marketing website for the product", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Create the project in your org", "You create the Supabase organisation, repository and domain, and invite us. Keys and billing stay under your control."],
       ["Build with tested policies", "Migrations, policies and functions go into Git. Each policy is tested as different users on a staging project before screens depend on it."],
       ["Launch and verify", "We re-run the policy tests on production, confirm backups, set up monitoring and hand you the documentation and a recorded walk-through."],
-      ["Five months of free fixes", `Bugs, advisor warnings and small changes are covered for five months. Afterwards, maintenance starts at ${P.care} if you choose it.`],
+      ["Two months of free fixes", `Bugs, advisor warnings and small changes are covered for two months. Afterwards, maintenance starts at ${P.care} if you choose it.`],
     ],
   },
   faqHeading: "Supabase developer: common questions",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Can I hire a Supabase developer just to review my prototype?", answer: "Yes. Many founders build a first version themselves, often with AI coding tools, and want a Supabase developer to check it before launch. A review covers the schema, every policy, storage buckets, key usage, migrations and backups, and ends with a prioritised fix list. You can then fix items yourself or ask us to, with each fix priced separately." },
     { question: "Why is my Supabase app slow?", answer: "Usually because of missing indexes on columns used in filters and policies, policies that run expensive sub-queries for every row, or screens that fetch whole tables. Checking EXPLAIN plans, adding indexes on user and organisation ID columns, paginating results and moving dashboard totals into views typically fixes most of it." },
     { question: "How do I pay a Supabase developer at BtechWaleTech?", answer: "Indian clients pay by UPI or bank transfer and international clients pay in USD by Wise, bank wire or PayPal. Payments are split into milestones written into the quote. You receive an itemised estimate first, and nothing is billed until you approve it in writing." },
-    { question: "What happens after my Supabase app launches?", answer: `You get five months of free maintenance covering bug fixes, advisor warnings, small changes and policy adjustments. After that, maintenance continues from ${P.care} a month if you want it. Contract details such as notice or NDA terms are agreed in writing in your quote; see our terms page.` },
+    { question: "What happens after my Supabase app launches?", answer: `You get two months of free maintenance covering bug fixes, advisor warnings, small changes and policy adjustments. After that, maintenance continues from ${P.care} a month if you want it. Contract details such as notice or NDA terms are agreed in writing in your quote; see our terms page.` },
     { question: "Supabase developer chahiye, pehle kya taiyaar karun?", answer: "Ek simple list banaiye: app kaun use karega, har user kya dekh ya badal sakta hai, aur kaunse screens pehle chahiye. Figma ya prototype ho toh bhej dijiye. WhatsApp par yeh bhejne ke baad lagbhag do working days mein table list aur itemised quote mil jaata hai, approval ke baad hi kaam shuru hota hai." },
   ],
   related: {
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Looking for a Supabase developer? Tell us who your users are",
-    note: `Send a short description of your app and its user roles on WhatsApp. Within about two working days you get a draft data model and an itemised quote, with web apps from ${P.software}, every account in your name and five months of free fixes after launch.`,
+    note: `Send a short description of your app and its user roles on WhatsApp. Within about two working days you get a draft data model and an itemised quote, with web apps from ${P.software}, every account in your name and two months of free fixes after launch.`,
   },
 };
 

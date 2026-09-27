@@ -56,7 +56,7 @@ const talcher: CityContent = {
     ai: "WhatsApp assistants in Odia, Hindi and English that answer rate, availability and admission questions and hand real decisions back to you.",
     data: "Dashboards of trips by siding, vehicle downtime, pending bills from each principal and monthly cash position.",
     app: "Android and iOS apps from ₹40,000 for drivers logging loads, site supervisors filing daily reports or school parents getting notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, updates and form checks.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, updates and form checks.",
   },
   whyUsIntro:
     "Talcher firms often work for large public-sector principals, so they are used to written orders, measured work and delayed payments. We fit that habit: itemised quotes on paper, starting prices published openly, WhatsApp replies every day of the week, and every domain, hosting plan, repository and store account registered to you, never to us.",
@@ -178,7 +178,7 @@ const talcher: CityContent = {
       heading: "Who owns your Talcher website or app, and what upkeep looks like",
       paragraphs: [
         "You do. The domain is registered with your email, hosting is billed to you, the complete source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account all name you as the owner. At handover you get a single document listing every login. If we part ways, your site and app keep running and any developer can pick them up.",
-        "For five months after launch, maintenance costs you nothing. In that time we update rates and photos, take backups, apply security patches and platform updates, and test the enquiry form, checkout and WhatsApp links from time to time. After that you can continue with us from ₹8,000 a month, handle it in-house, or move to someone else.",
+        "For two months after launch, maintenance costs you nothing. In that time we update rates and photos, take backups, apply security patches and platform updates, and test the enquiry form, checkout and WhatsApp links from time to time. After that you can continue with us from ₹8,000 a month, handle it in-house, or move to someone else.",
         "Apps need a little care every year even when nothing is broken, because Google and Apple keep raising their minimum requirements. We track those deadlines and ship the update early, so your listing is never removed from the store for falling behind.",
       ],
     },
@@ -270,7 +270,7 @@ const talcher: CityContent = {
     {
       question: "What happens to maintenance after launch?",
       answer:
-        "The first five months of maintenance are free: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that you may continue from ₹8,000 a month, manage it yourself or hand it to another developer. Since every account and the code are yours, no permission from us is needed to switch.",
+        "The first two months of maintenance are free: rate and photo updates, backups, security patches and checks on forms, checkout and WhatsApp links. After that you may continue from ₹8,000 a month, manage it yourself or hand it to another developer. Since every account and the code are yours, no permission from us is needed to switch.",
     },
     {
       question: "Do you work in Angul, Kaniha and nearby towns too?",

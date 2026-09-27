@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: build, SEO and data" },
     { value: "299+", label: "Pages in the SEO website plan for locality coverage" },
-    { value: "5", label: "Months of free maintenance after a new site launches" },
+    { value: "2", label: "Months of free maintenance after a new site launches" },
     { value: "0", label: "Portal commissions on leads from your own site" },
   ],
   answer: {
@@ -409,7 +409,7 @@ const content: FreelanceContent = {
         ["Monthly SEO", "Any property site that already exists", "Technical fixes, page improvements, profiles, lead report", `${P.seo} per month`],
         ["Lead management tool", "Sales teams handling many enquiries", "Lead inbox, assignment, follow-up status, source reports", P.software],
         ["WhatsApp follow-up automation", "Fast first response to every enquiry", "Instant replies with brochure, visit slot reminders", P.ai],
-        ["Site care", "Keeping pages and listings current", "Updates, backups, fixes after 5 free months", P.care],
+        ["Site care", "Keeping pages and listings current", "Updates, backups, fixes after 2 free months", P.care],
       ],
       hideSm: [2],
     },

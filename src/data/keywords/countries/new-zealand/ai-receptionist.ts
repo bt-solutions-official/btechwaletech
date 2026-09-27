@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Your phone number", "Stays with your carrier; unanswered calls forward"],
     ["Bookings into", "ServiceM8, Tradify or Cliniko, as each allows"],
     ["After every call", "Text or email summary to you"],
-    ["Support", `5 months free tuning, then from ${P.care}`],
+    ["Support", `2 months free tuning, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Engineers who design, test and tune your receptionist themselves" },
     { value: "7", label: "Days a week you can reach us on WhatsApp about a call that went wrong" },
     { value: "2", label: "Working days, roughly, to receive an itemised quote" },
-    { value: "5", label: "Months of free tuning after your receptionist goes live" },
+    { value: "2", label: "Months of free tuning after your receptionist goes live" },
   ],
   answer: {
     heading: "How does an AI receptionist work for a NZ business?",
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the telephony, voice and AI accounts, plus access to ServiceM8, Tradify or Cliniko. We are invited as users and every key stays yours."],
       ["Build and record test calls", "The receptionist answers on a trial number. We record calls with varied accents, noise and place names, then fix every mishearing."],
       ["Switch on forwarding", "You set busy, no-answer and unreachable forwarding on your number. We test each condition together and watch the first real calls closely."],
-      ["Review and tune", "Daily log reviews in the first fortnight, then weekly. Five months of free tuning follow, with optional care after that."],
+      ["Review and tune", "Daily log reviews in the first fortnight, then weekly. Two months of free tuning follow, with optional care after that."],
     ],
   },
   faqHeading: "AI receptionists in New Zealand: common questions",
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
     { question: "What if the AI receptionist gets details wrong?", answer: "It reads back addresses and numbers to catch most errors, sends you a summary after every call and keeps a transcript so you can check what was said. In the first fortnight we review logs daily and fix patterns, such as a street name it keeps mishearing. Mistakes become rarer with tuning, not impossible." },
     { question: "Can the AI receptionist also answer website chat?", answer: "Yes. The same knowledge sheet and booking logic can power a chat widget on your website, so answers about hours, service areas and availability agree across phone and web. It is usually added as a second phase once the phone flow has settled." },
     { question: "How do we pay and work together from New Zealand?", answer: "We quote in USD and invoice per milestone from India, payable by Wise, bank wire or PayPal. Calls happen in your afternoon, which is our morning. You flag problem calls by WhatsApp and we tune the receptionist while your day continues. Ask your accountant how to treat overseas invoices." },
-    { question: "Who owns the AI receptionist once it is built?", answer: `You do. The telephony number, voice and AI provider accounts, prompts, integrations and call logs sit in accounts in your business's name, with us invited as users. After 5 months of free tuning you can choose care from ${P.care} or move support elsewhere.` },
+    { question: "Who owns the AI receptionist once it is built?", answer: `You do. The telephony number, voice and AI provider accounts, prompts, integrations and call logs sit in accounts in your business's name, with us invited as users. After 2 months of free tuning you can choose care from ${P.care} or move support elsewhere.` },
   ],
   related: {
     heading: "More for New Zealand businesses",

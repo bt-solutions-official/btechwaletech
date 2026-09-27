@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: store build, data and automation" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on your sales" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "COD handling", value: "Confirmation, pincode rules, prepaid nudges" },
       { label: "Pricing", value: "Rule-based margins, rounding, shipping and COD fees" },
       { label: "Must-have pages", value: "Returns, refunds, shipping, grievance contact, terms" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
         "Reviews, COD confirmation and upsell apps, if used",
         "WhatsApp Business API provider and per-conversation charges",
         "Payment gateway fees per transaction, and courier or supplier shipping charges",
-        `Maintenance after the free five months, from ${P.care}`,
+        `Maintenance after the free two months, from ${P.care}`,
       ],
     },
     {
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
         `The build runs in five stages: supplier check, store set-up, product and pricing work, COD and policy set-up, then testing with real orders. A focused store launches in 4–8 weeks.`,
         `We start with your niche, supplier details and budget on WhatsApp or a call, and review your supplier's feed and process before quoting. You get an itemised quote in about two working days, including the list of recurring vendor costs. Nothing is billed before written approval.`,
         `Ankur builds the store and integrations. Santosh handles analytics, ad tracking, structured data and speed. Vedansh coordinates supplier questions, product data and your reviews, which is where most dropshipping projects slow down.`,
-        `Before launch we place real test orders: prepaid and COD, confirmed and cancelled, to your address and to another state. We check the order reaches the supplier, tracking comes back, the customer receives each message and refunds work. Only then do you switch on ads. Launch comes with five months of free maintenance for fixes and small changes.`,
+        `Before launch we place real test orders: prepaid and COD, confirmed and cancelled, to your address and to another state. We check the order reaches the supplier, tracking comes back, the customer receives each message and refunds work. Only then do you switch on ads. Launch comes with two months of free maintenance for fixes and small changes.`,
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
         ["Reviews, COD and upsell apps", "App developers", "Monthly", "Yes, if installed"],
         ["WhatsApp Business API messages", "Your WhatsApp provider", "Per conversation or message", "Only once messages send"],
         ["Payment gateway fees", "Your payment provider", "Per transaction", "No"],
-        ["Store maintenance", `BtechWaleTech, from ${P.care}`, "Monthly, after 5 free months", "No"],
+        ["Store maintenance", `BtechWaleTech, from ${P.care}`, "Monthly, after 2 free months", "No"],
       ],
     },
     {
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
       ["Build the store and integrations", "Theme, collections, checkout, supplier sync and order routing are set up on a preview store, with every account in your name."],
       ["Prepare products and pricing", "A focused catalogue is imported and cleaned, pricing rules and a margin floor are applied, and policy pages are written around your supplier's real terms."],
       ["Switch on COD controls and tracking", "WhatsApp confirmation, COD limits, prepaid nudges, GA4, pixel and Conversions API are configured and tested with real orders."],
-      ["Launch, then watch delivered orders", "After real test orders pass, you start ads. Five months of free maintenance follow, and we help you read delivered orders, not just checkouts."],
+      ["Launch, then watch delivered orders", "After real test orders pass, you start ads. Two months of free maintenance follow, and we help you read delivered orders, not just checkouts."],
     ],
   },
   faqHeading: "Dropshipping website development questions, answered",
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
     { question: "Can I use the supplier's product descriptions and images?", answer: "You can start with their images if they permit it, but rewrite titles and descriptions. The same supplier text appears on many other stores, which makes yours look generic to buyers and gives search engines nothing original to rank. Where possible, take your own photos of best-selling products. Check your supplier's terms about image use before launch." },
     { question: "How should I price products in a dropshipping store?", answer: "Use rules: supplier cost plus shipping, payment and COD allowances, plus a category margin, rounded to a clean price. The store should recalculate when supplier prices change and flag products that fall below your margin floor. Show a compare-at price only when it is genuine, because inflated original prices mislead buyers and can breach consumer rules." },
     { question: "What policy pages should dropshipping website development include?", answer: "At minimum: shipping policy with realistic delivery times, return and refund policy matching your supplier's actual terms, terms of use, privacy notice, and a contact page with a grievance contact and business address. The Consumer Protection (E-Commerce) Rules, 2020 expect such details. We build accurate, linked pages from your inputs; your lawyer should approve the wording." },
-    { question: "What are the monthly costs of running a dropshipping store?", answer: `Expect a platform plan or hosting, domain and email, a supplier app, possibly reviews and COD apps, WhatsApp messaging charges, and per-transaction payment fees. After five free months of maintenance, our care plans start at ${P.care}. We list every recurring cost with the vendor's published pricing in your quote so you can check the total before committing.` },
+    { question: "What are the monthly costs of running a dropshipping store?", answer: `Expect a platform plan or hosting, domain and email, a supplier app, possibly reviews and COD apps, WhatsApp messaging charges, and per-transaction payment fees. After two free months of maintenance, our care plans start at ${P.care}. We list every recurring cost with the vendor's published pricing in your quote so you can check the total before committing.` },
     { question: "How long does dropshipping website development take?", answer: "A focused dropshipping store usually takes 4–8 weeks. Supplier integration and product clean-up take most of that time, especially if the supplier has no app. Launch happens only after real test orders, prepaid and COD, confirmed and cancelled, go through correctly. Quick responses from you and your supplier are the biggest factor in the timeline." },
     { question: "Can you find winning products or suppliers for me?", answer: "No. We build and automate the store, and we help you check a supplier's processes before you commit, but we do not pick products or promise sales. Product choice depends on your niche knowledge, demand and ad testing. Be cautious of anyone selling guaranteed winning products or stores with income screenshots; the store is only one part of the business." },
     { question: "Will my dropshipping store rank on Google?", answer: `It can, over time, if it has a focused niche, original product descriptions, useful collection pages, Product structured data and good speed. Most new stores rely on ads first and add SEO once the niche is settled; monthly SEO starts at ${P.seo}. Nobody can guarantee rankings, and stores with only copied supplier text rarely rank well.` },
@@ -457,7 +457,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a dropshipping store? Send us your supplier first",
-    note: `Share your niche and supplier details on WhatsApp. In about two working days you get an itemised quote with every recurring cost listed, dropshipping stores from ${P.shop}, all accounts in your name and five months of free maintenance.`,
+    note: `Share your niche and supplier details on WhatsApp. In about two working days you get an itemised quote with every recurring cost listed, dropshipping stores from ${P.shop}, all accounts in your name and two months of free maintenance.`,
   },
 };
 

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Runs on", "Android tablets, Windows all-in-ones or iPads"],
     ["Payments", "UPI dynamic QR plus your bank's card terminal"],
     ["Kitchen output", "KOT printer, token slip or kitchen screen"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support your kiosk" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Payments", value: "UPI QR on screen, card terminal, optional pay-at-counter" },
       { label: "Kitchen", value: "KOT print by station or a kitchen display screen" },
       { label: "Build cost", value: `From ${P.software}, 6–12 weeks` },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       heading: "Who owns the kiosk software, and who keeps it running?",
       paragraphs: [
         `You own it. The code sits in a repository under your account, the cloud hosting and database are in your name, and the kiosk devices are yours. We hand over admin logins, a deployment guide and a list of every account and renewal.`,
-        `Kiosk software needs regular care because the world around it changes: OS updates on the tablets, payment provider API changes, new printers, menu seasons. The first 5 months after go-live are maintenance-free on our side, covering bug fixes, small menu-flow changes and updates. After that, maintenance continues from ${P.care} if you want it, or your own team can take over with the handover notes.`,
+        `Kiosk software needs regular care because the world around it changes: OS updates on the tablets, payment provider API changes, new printers, menu seasons. The first 2 months after go-live are maintenance-free on our side, covering bug fixes, small menu-flow changes and updates. After that, maintenance continues from ${P.care} if you want it, or your own team can take over with the handover notes.`,
         `Kiosk-specific upkeep we plan for: remote updates pushed to all kiosks at night, so no one has to reinstall apps by hand; crash and error logs sent to a dashboard so we see problems before your manager does; a device checklist for your staff (clean the screen, check printer paper, restart weekly); and a simple way to roll back a bad menu change. What we cannot do is replace a broken screen or visit the outlet; that needs your hardware supplier's service team. Terms for anything beyond this are set out in your written quote and on our <a href='/terms/'>terms page</a>.`,
       ],
     },
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
         ["Food court kiosk", "Multi-vendor cart, split KOTs, vendor settlements", `From ${P.software}, itemised`, "9–12 weeks"],
         ["Kitchen display add-on", "Order cards, bump screen, pickup display", "Quoted as a line item", "2–3 extra weeks"],
         ["Order-ahead mobile app", "Android and iOS app on the same menu", `From ${P.app} (${P.appUsd})`, "6–10 weeks"],
-        ["Maintenance after 5 free months", "Updates, fixes, remote kiosk deployments", `From ${P.care}`, "Monthly"],
+        ["Maintenance after 2 free months", "Updates, fixes, remote kiosk deployments", `From ${P.care}`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -345,7 +345,7 @@ const content: FreelanceContent = {
         ["5–6", "UPI flow, KOT routing, reports", "Confirm payment provider access", "Paid test orders printing"],
         ["7–8", "Hardware testing, offline mode", "Buy one sample kiosk", "App on your real device"],
         ["9–10", "Soft launch, staff training, fixes", "Run quiet-hour trials", "Kiosk live on the floor"],
-        ["Next 5 months", "Free fixes and small changes", "Send feedback on WhatsApp", "Monthly report review"],
+        ["Next 2 months", "Free fixes and small changes", "Send feedback on WhatsApp", "Monthly report review"],
       ],
       hideSm: [2],
     },
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
       ["Try the flow on a tablet", "We send clickable designs of every screen. Tap through them on any tablet, with your staff, and tell us where people hesitate."],
       ["Test on your real kiosk", "Once you buy one sample unit, we install the build, connect printers and payment, and run test orders until paid-to-print works every time."],
       ["Soft launch in quiet hours", "One kiosk goes live during a slow afternoon. We watch the logs remotely, your staff give feedback, and we fix issues before peak use."],
-      ["Five months of free care", `Menu tweaks, bug fixes and remote updates are covered for five months. After that, maintenance runs from ${P.care} only if you want it.`],
+      ["Two months of free care", `Menu tweaks, bug fixes and remote updates are covered for two months. After that, maintenance runs from ${P.care} only if you want it.`],
     ],
   },
   faqHeading: "Self ordering kiosk software: questions owners ask",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Will a kiosk replace my cashier?", answer: "Usually not entirely. Most outlets keep one staffed counter for cash payments, older customers, complaints and large group orders, while kiosks take the routine orders. Staff then shift to packing, pickup and keeping the kiosks clean and stocked with printer paper. The aim is to shorten queues at peak times, not to leave the floor unattended." },
     { question: "Can the kiosk show the menu in Hindi or a regional language?", answer: "Yes. We build a language toggle, and item names, descriptions and buttons can appear in English plus Hindi or another Indian language. You supply or approve the translated copy, since the team writes English. Keep translations short, because long text on small tiles makes the menu harder to scan." },
     { question: "Who owns the kiosk software and customer data?", answer: "You do. The code sits in a repository in your name, hosting and database run on your cloud account, and customer phone numbers collected at the kiosk belong to your business. At handover we share admin logins, deployment notes and a list of every account and renewal, so another developer could take over if you ever wanted." },
-    { question: "What maintenance does kiosk software need?", answer: `Tablet OS updates, payment provider changes, new menu seasons and printer swaps all need occasional software work. We cover bug fixes, small changes and remote updates for five months after go-live. After that, maintenance starts from ${P.care} if you want us to continue. Physical repairs are handled by your hardware supplier.` },
+    { question: "What maintenance does kiosk software need?", answer: `Tablet OS updates, payment provider changes, new menu seasons and printer swaps all need occasional software work. We cover bug fixes, small changes and remote updates for two months after go-live. After that, maintenance starts from ${P.care} if you want us to continue. Physical repairs are handled by your hardware supplier.` },
     { question: "Can you add a mobile order-ahead app to the same system?", answer: `Yes. An order-ahead app for Android and iOS can share the kiosk's menu, combos and kitchen routing, so an app order prints on the same KOT printers. It starts at ${P.app} and is published in your own Google Play and App Store developer accounts. Many outlets add it once regulars start asking to skip the kiosk queue too.` },
     { question: "Do you visit the restaurant to install the kiosk?", answer: "No. We work remotely from India and do not make site visits. Your hardware supplier installs and bolts down the kiosks; we set up the software over a remote session, connect printers and payment with a staff member on a video call, and watch the first live orders through logs. It works well because the setup steps are the same each time." },
     { question: "How is kiosk software different from a QR code menu?", answer: "A kiosk is a fixed touch screen in the outlet that anyone can use, which suits takeaway counters and food courts. A QR menu runs on the customer's own phone at their table, which suits dine-in seating. Both can share one menu admin, one kitchen routing setup and one sales report, so many restaurants start with one and add the other." },
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning kiosks for your outlet? Send us your menu",
-    note: `Share your menu, combos and payment provider on WhatsApp. You will get an itemised quote for self ordering kiosk software in about two working days, with builds starting at ${P.software}, code in your name and five months of free maintenance.`,
+    note: `Share your menu, combos and payment provider on WhatsApp. You will get an itemised quote for self ordering kiosk software in about two working days, with builds starting at ${P.software}, code in your name and two months of free maintenance.`,
   },
 };
 

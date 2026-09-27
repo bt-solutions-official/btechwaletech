@@ -34,7 +34,7 @@ const ramagundam: CityContent = {
     pills: ["From ₹10,000", "Vendor and contractor sites", "Telugu local SEO", "Fleet and wage tools", "Your code, your domain"],
   },
   quickAnswer:
-    "In Ramagundam and Godavarikhani we build a website of up to 100 pages from ₹10,000 in one to two weeks and a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for five months.",
+    "In Ramagundam and Godavarikhani we build a website of up to 100 pages from ₹10,000 in one to two weeks and a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Power", value: "NTPC Ramagundam, 2,600 MW, plus the Telangana Super Thermal Power Project commissioned in 2023" },
     { label: "Coal", value: "Singareni Collieries' Ramagundam areas, with open-cast and underground mines including Adriyala" },
@@ -51,7 +51,7 @@ const ramagundam: CityContent = {
     ai: "A WhatsApp assistant that handles the late-evening flood of fee, rate and OPD questions in Telugu and passes real orders to a person.",
     data: "One screen per day showing trips run, workers present, bills raised and money pending, instead of a clerk totalling registers.",
     app: "Android and iOS apps for supervisors at pit heads and plant gates, built for patchy signal and entry-level handsets, from ₹40,000 on both stores.",
-    maintenance: "No charge for the first five months after launch; afterwards upkeep starts at ₹8,000 a month, or you call us only when something needs changing.",
+    maintenance: "No charge for the first two months after launch; afterwards upkeep starts at ₹8,000 a month, or you call us only when something needs changing.",
   },
   whyUsIntro:
     "Contractors and shop owners in the twin towns tell us the same story: a site built by someone who has since moved to Hyderabad, and nobody left who knows the password. We work under our own names, write our prices down, answer WhatsApp on Sundays too, and put every account in the client's name.",
@@ -73,7 +73,7 @@ const ramagundam: CityContent = {
       paragraphs: [
         "Quotes in GDK swing between a couple of thousand rupees for a template and several lakhs from a city agency. Neither number tells you much on its own. The useful question is what you are left holding after launch: the domain, the hosting login, the code, and someone who picks up the phone.",
         "Our figures are starting points that everyone can see. A static site of up to 100 pages is <strong>from ₹10,000</strong> and goes live in one to two weeks. A 299+ page SEO build, where every service, route, department or product gets its own page, is <strong>from ₹20,000</strong> across three to five weeks. A store with UPI and card payments begins at ₹50,000 and needs four to eight weeks, and custom systems such as trip logs or wage software begin at ₹60,000 over six to twelve weeks.",
-        "WhatsApp and AI automation starts at ₹40,000, ongoing SEO at ₹10,000 a month, and upkeep at ₹8,000 a month once the five free months are over. The breakdown for each plan sits on our <a href=\"/pricing/\">pricing page</a>, and an itemised estimate for your project reaches you in roughly two working days.",
+        "WhatsApp and AI automation starts at ₹40,000, ongoing SEO at ₹10,000 a month, and upkeep at ₹8,000 a month once the two free months are over. The breakdown for each plan sits on our <a href=\"/pricing/\">pricing page</a>, and an itemised estimate for your project reaches you in roughly two working days.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a clinic, tutor, advocate or hardware shop that needs a clear, owned site.",
@@ -184,7 +184,7 @@ const ramagundam: CityContent = {
       paragraphs: [
         "Ramagundam is a transfer town. Engineers, teachers and bank staff arrive and leave every few years, and so do the freelancers who build local websites. The business that stays behind then finds its domain renewed in a stranger's name, or not renewed at all.",
         "Our rule is simple. The domain is bought in your name, the hosting account is opened in your name, and at launch you receive every password, the complete source code and a one-page note explaining where everything lives and when it renews. If you later want another developer, you hand them that note; there is no fee and no permission to ask.",
-        "The first five months after launch include updates, fixes, security patches, backups and speed checks at no cost. From the sixth month, upkeep starts at ₹8,000 a month, or you pay only for changes you request. The <a href=\"/services/web-development/\">web development page</a> explains what the build itself includes.",
+        "The first two months after launch include updates, fixes, security patches, backups and speed checks at no cost. From the third month, upkeep starts at ₹8,000 a month, or you pay only for changes you request. The <a href=\"/services/web-development/\">web development page</a> explains what the build itself includes.",
       ],
     },
     {
@@ -280,7 +280,7 @@ const ramagundam: CityContent = {
     {
       question: "What does maintenance cost after the free period?",
       answer:
-        "The first five months after launch are free: updates, fixes, backups and security patches. From the sixth month, maintenance starts at ₹8,000 a month, or you can skip the plan and pay only when you need a change. Nothing is compulsory.",
+        "The first two months after launch are free: updates, fixes, backups and security patches. From the third month, maintenance starts at ₹8,000 a month, or you can skip the plan and pay only when you need a change. Nothing is compulsory.",
     },
     {
       question: "Can you build trip and billing software for my tippers?",

@@ -7,7 +7,7 @@ const siliguri: CityContent = {
   meta: {
     title: "IT Services in Siliguri: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and automation for Siliguri travel agents, tea traders, wholesalers and clinics. From ₹10,000, remote team, five months of free maintenance.",
+      "Websites, SEO and automation for Siliguri travel agents, tea traders, wholesalers and clinics. From ₹10,000, remote team, two months of free maintenance.",
     keywords: [
       "website development team in Siliguri",
       "web designer Siliguri",
@@ -31,11 +31,11 @@ const siliguri: CityContent = {
     eyebrow: "Siliguri · West Bengal",
     h1: "Websites and automation for Siliguri, the gateway city of North Bengal",
     lede:
-      "A remote team of three engineers building booking sites for Darjeeling and Sikkim tour operators, catalogues for tea and wholesale traders, and WhatsApp systems for Siliguri clinics, schools and shops. Our prices are published, you talk directly to the developers, and the first five months of maintenance after launch cost you nothing.",
+      "A remote team of three engineers building booking sites for Darjeeling and Sikkim tour operators, catalogues for tea and wholesale traders, and WhatsApp systems for Siliguri clinics, schools and shops. Our prices are published, you talk directly to the developers, and the first two months of maintenance after launch cost you nothing.",
     pills: ["Websites from ₹10,000", "Tour and homestay bookings", "Tea and wholesale catalogues", "Bengali, Hindi and English SEO", "WhatsApp automation"],
   },
   quickAnswer:
-    "A business website in Siliguri costs from ₹10,000 with us and takes one to two weeks; a 299+ page SEO site for a travel agency, trader or clinic starts at ₹20,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, and five months of maintenance after launch are included free.",
+    "A business website in Siliguri costs from ₹10,000 with us and takes one to two weeks; a 299+ page SEO site for a travel agency, trader or clinic starts at ₹20,000. Online stores begin at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team, and two months of maintenance after launch are included free.",
   snapshot: [
     { label: "Main roads", value: "Hill Cart Road towards Darjeeling, Sevoke Road towards Sikkim, and Burdwan Road" },
     { label: "Markets", value: "Bidhan Market, the Hong Kong Market inside it, and Seth Srilal Market near the city centre" },
@@ -52,10 +52,10 @@ const siliguri: CityContent = {
     ai: "WhatsApp assistants that answer package, permit-document and stock questions late into the evening and pass bookings to your team.",
     data: "Season-wise booking, vehicle use and distributor sales reports pulled into one dashboard you can check on your phone.",
     app: "Android and iOS apps for drivers, field salesmen and repeat customers that cope with weak signal on hill routes, listed on Google Play and the App Store.",
-    maintenance: "Package, rate and stock updates, backups and security checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Package, rate and stock updates, backups and security checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
-    "Siliguri businesses often find that web designers either come from Kolkata at Kolkata prices or work locally with little follow-up after launch. We offer a third way: published prices, direct access to three engineers, replies on WhatsApp every day of the week, and five months of free maintenance so the site stays current through the tourist season.",
+    "Siliguri businesses often find that web designers either come from Kolkata at Kolkata prices or work locally with little follow-up after launch. We offer a third way: published prices, direct access to three engineers, replies on WhatsApp every day of the week, and two months of free maintenance so the site stays current through the tourist season.",
   pricingIntro:
     "These are our genuine starting prices, the same for Siliguri as anywhere else. The final amount depends on pages, languages, booking or payment features and how much content you have ready. You receive an itemised quote first, and nothing is billed until you approve it in writing.",
   sections: [
@@ -164,11 +164,11 @@ const siliguri: CityContent = {
     },
     {
       id: "ownership-siliguri",
-      heading: "Owning your site, and five months of free maintenance",
+      heading: "Owning your site, and two months of free maintenance",
       paragraphs: [
         "A common problem with older Siliguri websites is that nobody can update them. The travel agency's site still lists last year's packages, the domain renewal went to a former employee's email, or the hosting belongs to a designer who has moved on. When the domain lapses, years of reviews and links point to a dead page.",
         "We register the domain in your name and on your email, open the hosting account in your name, and give you every login at launch along with the full source code and a short note explaining what renews when. You can switch to another developer at any time without an exit fee or our permission.",
-        "For five months after launch, maintenance is free: package and price updates, new products, bug fixes, security and dependency updates, backups, uptime checks and speed tests. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change. Tour operators often keep the monthly plan so seasonal packages stay accurate.",
+        "For two months after launch, maintenance is free: package and price updates, new products, bug fixes, security and dependency updates, backups, uptime checks and speed tests. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change. Tour operators often keep the monthly plan so seasonal packages stay accurate.",
       ],
     },
     {

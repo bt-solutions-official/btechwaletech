@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Pehla kadam", "Free tools se ek hafte ka trial"],
     ["Bhashayein", "Hindi, English, Hinglish"],
     ["Data", "Aapke accounts aur aapke server par"],
-    ["Launch ke baad", `5 mahine free, phir ${P.care} se`],
+    ["Launch ke baad", `2 mahine free, phir ${P.care} se`],
   ],
   stats: [
     { value: "5", label: "Kaam jahan chhote business AI se sabse jaldi faayda dekhte hain" },
     { value: "3", label: "Freelance developers: full-stack, AI aur automation" },
     { value: "2", label: "Working din mein itemised quote" },
-    { value: "5", label: "Mahine free maintenance go-live ke baad" },
+    { value: "2", label: "Mahine free maintenance go-live ke baad" },
   ],
   answer: {
     heading: "Business me AI kaise use kare?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Hindi aur Hinglish bot", note: "Jo customer English mein type nahi karte, unke liye Hindi, Hinglish aur voice notes samajhne wala bot.", href: "/hindi-ai-chatbot/", size: "md" },
       { name: "Custom GPT for your team", note: "Staff ke liye ek assistant jo aapke SOPs, product manuals aur policies se jawab de.", href: "/custom-gpt-for-business/", size: "sm" },
       { name: "Daily reports", note: "Sales, dues aur stock ka chhota saaransh roz subah owner ke WhatsApp par.", href: "/mis-report-automation/", size: "sm" },
-      { name: "Dekhbhaal", note: `Launch ke baad 5 mahine free fixes; phir ${P.care} se, agar chahein.`, size: "sm" },
+      { name: "Dekhbhaal", note: `Launch ke baad 2 mahine free fixes; phir ${P.care} se, agar chahein.`, size: "sm" },
     ],
   },
   comparison: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Business me AI kaise use kare, kharcha kitna: hamare starting prices",
-    note: `Ek AI automation, jaise WhatsApp par jawab dene wala bot, invoice reading ya lead follow-up, hamare saath ${P.ai} se shuru hota hai aur 2–4 hafte leta hai. Isme aapke data se setup, testing, staff ke liye approval step aur handover aata hai. Chalane ka chhota kharcha alag hai: AI model ka API usage aur hosting, jo seedhe aapke account par bill hota hai. Jab AI ke saath poora software chahiye, jaise dashboard ya order system, toh woh ${P.software} se hai. International clients ke liye automation ${P.aiUsd} se. Launch ke baad 5 mahine free maintenance, phir ${P.care} se.`,
+    note: `Ek AI automation, jaise WhatsApp par jawab dene wala bot, invoice reading ya lead follow-up, hamare saath ${P.ai} se shuru hota hai aur 2–4 hafte leta hai. Isme aapke data se setup, testing, staff ke liye approval step aur handover aata hai. Chalane ka chhota kharcha alag hai: AI model ka API usage aur hosting, jo seedhe aapke account par bill hota hai. Jab AI ke saath poora software chahiye, jaise dashboard ya order system, toh woh ${P.software} se hai. International clients ke liye automation ${P.aiUsd} se. Launch ke baad 2 mahine free maintenance, phir ${P.care} se.`,
   },
   guideLabel: "Chhote business mein AI ki practical guide",
   guide: [
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Aapke data se test", "Aapke asli bills, sawal ya leads ke 30–50 examples par test. Aap dekhte hain ki AI kitna sahi hai, kaam shuru karne se pehle."],
       ["Build aur connect", "WhatsApp, Sheets, email ya Tally se jodna, approval step aur human handover ke saath, aapke accounts aur aapke server par."],
       ["Staff ke saath trial", "Do hafte staff ke saath chalana, har galat nateeje ko theek karna, aur safalta ka number naapna jo shuru mein tay hua tha."],
-      ["Handover", "Code, logins, prompts aur ek chhota document ki price list ya niyam kaise badlein. Phir 5 mahine free fixes."],
+      ["Handover", "Code, logins, prompts aur ek chhota document ki price list ya niyam kaise badlein. Phir 2 mahine free fixes."],
     ],
   },
   faqHeading: "Business me AI kaise use kare: aam sawal",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Does AI help my website rank on Google?", answer: "AI can help draft content, product descriptions and FAQs faster, but pages still need your real knowledge, accurate details and editing. Google’s spam policies warn against producing many low-value pages mainly to manipulate rankings, so mass-generated pages are a risk. Used carefully, AI saves writing time; the ranking work itself is covered on our Google ranking guide." },
     { question: "Do you work on-site to set up AI in our office?", answer: "No. We are three freelance developers working remotely from India. Discovery, testing on your sample documents, setup and staff training happen over WhatsApp and screen share. That keeps pricing the same across cities. We do not install hardware, cameras or on-premise servers ourselves; if you need those, your local IT vendor handles them." },
     { question: "Who owns the automation, prompts and data after handover?", answer: "You do. API keys, cloud hosting, the workflow or code, prompts and your data sit in accounts in your business name, and we work through access you can remove. At handover you get the code or workflow export, logins, a list of prompts and a short guide to changing prices or rules without calling us." },
-    { question: "What happens after the free maintenance period?", answer: "For five months after launch we fix bugs and make small adjustments at no charge. After that, maintenance is optional and starts at the listed maintenance price, covering model updates, prompt changes and connection fixes when a tool changes its API. Scope is agreed in your written quote, and payments in India are by UPI or bank transfer." },
+    { question: "What happens after the free maintenance period?", answer: "For two months after launch we fix bugs and make small adjustments at no charge. After that, maintenance is optional and starts at the listed maintenance price, covering model updates, prompt changes and connection fixes when a tool changes its API. Scope is agreed in your written quote, and payments in India are by UPI or bank transfer." },
     { question: "Hamare liye AI sahi hai ya nahi, yeh kaise pata kare?", answer: "Agar aapke business mein koi kaam roz ek jaisa hota hai aur usme ghante jaate hain, toh AI shaayad madad karega. Agar kaam kabhi-kabhi hota hai ya har baar naya soch maangta hai, toh abhi ruk jaiye. WhatsApp par apni kaam ki list bhejiye; hum imaandaari se bata denge ki kaunsa kaam free tool se ho jaayega aur kaunsa automation maangta hai." },
   ],
   related: {

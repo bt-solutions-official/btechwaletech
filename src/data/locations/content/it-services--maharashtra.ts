@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Freelance IT services in Maharashtra: software, Android and iOS apps and AI automation",
     lede:
       "BtechWaleTech delivers IT services in Maharashtra as a freelance group of three engineers working remotely from India, a lean alternative to hiring a software development team in Maharashtra. We build custom software, Android and iOS apps, AI and WhatsApp automations, dashboards, ecommerce stores and SEO websites for businesses from Mumbai and Pune to Nagpur, Nashik, Kolhapur and the Konkan.",
-    pills: ["Software from ₹60,000", "Android & iOS apps from ₹40,000", "Automation from ₹40,000", "Marathi, Hindi and English", "5 months free maintenance"],
+    pills: ["Software from ₹60,000", "Android & iOS apps from ₹40,000", "Automation from ₹40,000", "Marathi, Hindi and English", "2 months free maintenance"],
   },
   quickAnswer:
-    "For IT services in Maharashtra, BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. You receive an itemised quote in about two working days and five months of free maintenance after launch.",
+    "For IT services in Maharashtra, BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. You receive an itemised quote in about two working days and two months of free maintenance after launch.",
   snapshot: [
     { label: "Financial centre", value: "Mumbai hosts the RBI, BSE, NSE and the head offices of many banks, insurers and large companies" },
     { label: "IT hubs", value: "Hinjewadi, Kharadi and Magarpatta in Pune; Airoli, Thane and Powai in the Mumbai region; MIHAN in Nagpur" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that answer customer and dealer questions in Marathi, Hindi or English and update your records automatically.",
     data: "Dashboards that combine sales, production and collections from branches and plants across Maharashtra into one live view.",
     app: "Android and iOS apps for Maharashtra dealers, field sales teams, farmers' groups, schools and clinics, built once in Flutter or React Native, from ₹40,000.",
-    maintenance: "Hosting, backups, updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Maharashtra has some of India's largest IT employers, yet a sugar cooperative in Sangli or a foundry in Kolhapur can still find it hard to get a clear quote and a developer who answers after launch. A freelance group of three named engineers, with starting prices published and every login in your name, fills that gap.",
@@ -191,7 +191,7 @@ const content: CityContent = {
       paragraphs: [
         "Every system BtechWaleTech builds for a Maharashtra client runs on cloud hosting with HTTPS, automated backups, uptime monitoring, role-based access and audit logs, in an account registered to the client. That protects businesses from the common risk of one office computer holding all their data.",
         "Our usual stack is Astro or Next.js for front ends, Node.js or Python with PostgreSQL for backends, Flutter or React Native for mobile, and AWS or a comparable cloud, with automated deployments and rollback. Backups are tested by restoring them. For organisations holding personal data, such as clinics, schools and cooperatives, we design with the obligations of India's Digital Personal Data Protection Act, 2023 in mind.",
-        "Hosting and deployment are included in every project, followed by five months of free maintenance.",
+        "Hosting and deployment are included in every project, followed by two months of free maintenance.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const content: CityContent = {
       heading: "What do IT services cost in Maharashtra, and how long do they take?",
       paragraphs: [
         "Pricing from one IT services team in Maharashtra to the next varies enormously, but BtechWaleTech's starting prices are ₹10,000 for a static website (1 to 2 weeks), ₹20,000 for a 299+ page SEO website (3 to 5 weeks), ₹40,000 for Android and iOS apps (6 to 10 weeks), ₹40,000 for AI automation (2 to 4 weeks), ₹50,000 for ecommerce (4 to 8 weeks) and ₹60,000 for custom software (6 to 12 weeks).",
-        "Cost rises with user roles, integrations, reports, languages and data migration. Linking to Tally, importing years of records, or supporting several plants adds scope. We list each item separately so you can phase the build. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Cost rises with user roles, integrations, reports, languages and data migration. Linking to Tally, importing years of records, or supporting several plants adds scope. We list each item separately so you can phase the build. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "Payment is by UPI QR code or bank transfer in INR, in milestones written into the quote. Full details are on the <a href='/pricing/'>pricing page</a>.",
       ],
     },
@@ -225,7 +225,7 @@ const content: CityContent = {
       id: "support-ownership-mh",
       heading: "IT support, maintenance and ownership after launch",
       paragraphs: [
-        "Every Maharashtra project includes five months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. The client owns the code, domain, hosting, app store listings and all logins.",
+        "Every Maharashtra project includes two months of free maintenance after launch, covering bug fixes, small changes, security updates, backups and uptime checks, with optional support from ₹8,000 a month afterwards. The client owns the code, domain, hosting, app store listings and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week. We have no office in Maharashtra and do not claim one; the engineers who built your system answer your messages. Larger changes are quoted before work starts.",
         "Documentation at handover means another developer can continue if needed. Browse <a href='/services/'>all services</a>, read <a href='/about/'>about the team</a>, see <a href='/portfolio/'>our portfolio</a>, or start on the <a href='/contact/'>contact page</a>.",
       ],
@@ -300,7 +300,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of free maintenance: bug fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month, or you can pay per change. New features and modules are quoted before work starts.",
+        "Two months of free maintenance: bug fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month, or you can pay per change. New features and modules are quoted before work starts.",
     },
     {
       question: "Can you build software for a sugar or dairy cooperative?",

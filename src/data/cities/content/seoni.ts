@@ -56,7 +56,7 @@ const seoni: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer safari, room, admission and timing questions and pass real bookings to you.",
     data: "Dashboards of room occupancy by safari season, paddy procured and rice dispatched, and truck trips and dues.",
     app: "Android and iOS apps from ₹40,000 for a resort's guests or a school's parents, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Seoni businesses often serve two very different customers: villagers from across a large district and travellers who only pass through or arrive for Pench. We plan for both, publish starting prices, send an itemised written quote, answer WhatsApp seven days a week, and register every domain, hosting account, code repository and app listing in your name.",
@@ -170,7 +170,7 @@ const seoni: CityContent = {
       heading: "Ownership and maintenance for Seoni websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and app store developer accounts are registered in your name, and logins are handed over in writing. This matters in smaller towns, where many businesses have lost a website because the person who built it held the domain and moved on.",
-        "The first five months after launch include free maintenance: content and rate updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish.",
+        "The first two months after launch include free maintenance: content and rate updates, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish.",
         "Apps need at least one update a year to meet Google and Apple rules. We track those requirements so your app stays available in both stores.",
       ],
     },
@@ -267,7 +267,7 @@ const seoni: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you continue with us. You can take the code to another developer whenever you like.",
+        "Two months of maintenance are free after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you continue with us. You can take the code to another developer whenever you like.",
     },
     {
       question: "Do you also work in Lakhnadon, Barghat, Keolari and Chhindwara?",

@@ -28,27 +28,27 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Maintenance pricing · monthly and yearly · India",
     h1: "Website maintenance charges in India: what to pay per month or year, and what it should include",
-    lede: `Website maintenance charges in India depend on three things: the type of site, how often it changes, and whether renewals such as hosting and domain are bundled in or billed separately. With BtechWaleTech, a monthly maintenance plan starts at ${P.care}, and every site we build gets five months of maintenance free after launch. This page breaks down yearly AMC against monthly plans, charges by site type, the renewals you pay directly, and a checklist of what any plan should cover. For the full yearly running bill, see <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a>.`,
+    lede: `Website maintenance charges in India depend on three things: the type of site, how often it changes, and whether renewals such as hosting and domain are bundled in or billed separately. With BtechWaleTech, a monthly maintenance plan starts at ${P.care}, and every site we build gets two months of maintenance free after launch. This page breaks down yearly AMC against monthly plans, charges by site type, the renewals you pay directly, and a checklist of what any plan should cover. For the full yearly running bill, see <a href='/website-ka-yearly-kharcha/'>website ka yearly kharcha</a>.`,
     pills: ["Monthly from " + P.care, "Yearly AMC explained", "Static, WordPress, stores, custom", "Renewals billed separately", "Inclusion checklist", "GST invoice", "Terms agreed in writing"],
     origin: "Three freelance developers in India · replies on WhatsApp, 7 days a week",
   },
   facts: [
     ["Monthly plan from", `${P.care} · ${P.careUsd}`],
-    ["Free period", "5 months after launch on sites we build"],
+    ["Free period", "2 months after launch on sites we build"],
     ["Hosting and domain", "Paid by you directly to the provider"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Billing", "UPI or bank transfer, GST invoice"],
     ["Terms", "Agreed in writing before any charge"],
   ],
   stats: [
-    { value: "5", label: "Months of maintenance free after we launch a site" },
+    { value: "2", label: "Months of maintenance free after we launch a site" },
     { value: "2", label: "Working days for a written maintenance quote" },
     { value: "3", label: "Developers who can pick up your request" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
     heading: "What are typical website maintenance charges in India?",
-    text: `Website maintenance charges in India are usually billed monthly or as a yearly AMC. With BtechWaleTech, maintenance starts at ${P.care} after five free months post-launch. Static sites sit at the low end; WordPress, ecommerce and custom web apps cost more because they need updates, backups and testing. Hosting, domain and paid licences are renewed separately in your name.`,
+    text: `Website maintenance charges in India are usually billed monthly or as a yearly AMC. With BtechWaleTech, maintenance starts at ${P.care} after two free months post-launch. Static sites sit at the low end; WordPress, ecommerce and custom web apps cost more because they need updates, backups and testing. Hosting, domain and paid licences are renewed separately in your name.`,
     more: `Owners of WordPress sites can compare <a href='/wordpress-maintenance-services/'>WordPress maintenance plans</a>; Shopify stores have their own <a href='/shopify-maintenance-services/'>Shopify maintenance scope</a>.`,
   },
   snapshot: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How we price website maintenance",
-    note: `Our maintenance plans start at ${P.care} and are scoped to the site, not sold as fixed packages. A small static site with occasional text edits sits near that starting point. WordPress sites with many plugins, online stores with payments and custom web applications need more hours because updates must be tested and more things can break. Domain, hosting, business email and paid licences are renewed by you directly, so our charge covers only work. Every site we launch gets five months of maintenance free, and nothing is billed until you approve an itemised quote in writing.`,
+    note: `Our maintenance plans start at ${P.care} and are scoped to the site, not sold as fixed packages. A small static site with occasional text edits sits near that starting point. WordPress sites with many plugins, online stores with payments and custom web applications need more hours because updates must be tested and more things can break. Domain, hosting, business email and paid licences are renewed by you directly, so our charge covers only work. Every site we launch gets two months of maintenance free, and nothing is billed until you approve an itemised quote in writing.`,
   },
   guideLabel: "Website maintenance charges guide",
   guide: [
@@ -219,11 +219,11 @@ const content: FreelanceContent = {
     },
     {
       id: "free-period",
-      heading: "Five months of free maintenance: what it covers and what comes after",
+      heading: "Two months of free maintenance: what it covers and what comes after",
       paragraphs: [
-        `Every website, store or app we build includes five months of maintenance free after launch. That period covers the same kind of work as a paid plan: updates, backups, fixes and small edits.`,
+        `Every website, store or app we build includes two months of maintenance free after launch. That period covers the same kind of work as a paid plan: updates, backups, fixes and small edits.`,
         `We offer it because most launch-related issues surface in the first few months, when real visitors use real devices and the owner starts making changes. It also gives you time to see what maintenance you actually need before committing to a plan.`,
-        `After five months you choose. Continue with a monthly plan from ${P.care}, take the site over yourself using the handover notes, or move it to anyone else. Your domain, hosting and code are already in your name, so switching is a matter of sharing logins, not negotiating a release.`,
+        `After two months you choose. Continue with a monthly plan from ${P.care}, take the site over yourself using the handover notes, or move it to anyone else. Your domain, hosting and code are already in your name, so switching is a matter of sharing logins, not negotiating a release.`,
       ],
     },
     {
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `If a site costs more to keep alive each year than a clean rebuild would cost, rebuild. The warning signs appear in the maintenance log well before the bills get large.`,
         `Signs include updates that cannot be applied because something will break, a pirated or abandoned theme, dozens of plugins nobody can explain, PHP stuck on an unsupported version and repeated malware infections. Each month of patching buys only a little time.`,
-        `A rebuild can also cut future maintenance. A static site starts at ${P.site} and has very little to update; an online store starts at ${P.shop}. Both come with five months of free maintenance. Our <a href='/website-redesign-cost-in-india/'>website redesign cost guide</a> helps you weigh the numbers.`,
+        `A rebuild can also cut future maintenance. A static site starts at ${P.site} and has very little to update; an online store starts at ${P.shop}. Both come with two months of free maintenance. Our <a href='/website-redesign-cost-in-india/'>website redesign cost guide</a> helps you weigh the numbers.`,
       ],
     },
     {
@@ -395,16 +395,16 @@ const content: FreelanceContent = {
   },
   faqHeading: "Website maintenance charges: questions people ask",
   faqs: [
-    { question: "What are website maintenance charges in India?", answer: `Website maintenance charges are the fees for keeping a site updated, backed up, secure and edited after launch. They are usually billed monthly or as a yearly AMC. With BtechWaleTech, plans start at ${P.care} after five free months post-launch, and hosting, domain and licences are paid separately by the owner.` },
+    { question: "What are website maintenance charges in India?", answer: `Website maintenance charges are the fees for keeping a site updated, backed up, secure and edited after launch. They are usually billed monthly or as a yearly AMC. With BtechWaleTech, plans start at ${P.care} after two free months post-launch, and hosting, domain and licences are paid separately by the owner.` },
     { question: "How much does website maintenance cost per month?", answer: `With BtechWaleTech, monthly website maintenance starts at ${P.care}. Static sites stay close to that starting point, while WordPress sites with many plugins, online stores and custom web apps need more hours for tested updates and fixes. You receive an itemised scope in about two working days before anything is billed.` },
-    { question: "How much does website maintenance cost per year?", answer: `The yearly cost is the monthly labour for twelve months plus your renewals. Labour with BtechWaleTech starts at ${P.care}; renewals such as domain, hosting, email and paid licences are paid directly to each provider. Sites we build get five months free, so the first year's labour cost is lower.` },
+    { question: "How much does website maintenance cost per year?", answer: `The yearly cost is the monthly labour for twelve months plus your renewals. Labour with BtechWaleTech starts at ${P.care}; renewals such as domain, hosting, email and paid licences are paid directly to each provider. Sites we build get two months free, so the first year's labour cost is lower.` },
     { question: "What is a website AMC?", answer: "A website AMC, or annual maintenance contract, is a yearly agreement covering updates, backups, fixes and edits for a single annual payment. It suits organisations that prefer one invoice a year. Before signing, check that the tasks are listed in writing, that hosting and domain are in your name, and what happens if the vendor stops delivering." },
     { question: "Is a monthly plan or yearly AMC better for a small business?", answer: "Monthly is usually better for small businesses, because you can review value regularly and are not exposed if a vendor stops delivering mid-year. A yearly AMC is fine when your accounts team needs one payment and the vendor is proven. Either way, insist on a written task list and keep renewals in your own name." },
     { question: "What should be included in website maintenance?", answer: "A sound plan includes tested updates, off-server backups, uptime and SSL monitoring, security checks, a set amount of time for edits and fixes, Search Console error review, a renewal calendar and a short monthly report. Redesigns, new features and growth SEO are separate projects and should be quoted as such." },
     { question: "Are hosting and domain included in website maintenance charges?", answer: "They should not be. Hosting and domain are paid directly to the provider from your own account, so you keep control and see the real renewal cost. A maintenance plan should track their renewal dates and handle technical settings, but the accounts and payments stay in your name." },
     { question: "Why is WordPress maintenance more expensive than a static site?", answer: "WordPress has a core, a theme and plugins that update frequently and can conflict with each other, plus a database and PHP version to manage. Each update should be tested before it goes live. A static site has few moving parts, so maintenance is mostly content edits and monitoring." },
     { question: "How much does ecommerce website maintenance cost?", answer: `Ecommerce maintenance starts at the same ${P.care} with BtechWaleTech, but stores usually need more hours than brochure sites. Checkout, payment, shipping and tax settings must be tested after changes, integrations checked and products edited. Shopify removes server work but adds theme updates and app reviews.` },
-    { question: "Do you charge for small changes after launch?", answer: `Not during the first five months after we launch your site; small edits and fixes are included free. After that, a maintenance plan from ${P.care} includes a set amount of edit time. Larger additions such as new features or page templates are quoted separately so you always know the cost in advance.` },
+    { question: "Do you charge for small changes after launch?", answer: `Not during the first two months after we launch your site; small edits and fixes are included free. After that, a maintenance plan from ${P.care} includes a set amount of edit time. Larger additions such as new features or page templates are quoted separately so you always know the cost in advance.` },
     { question: "What happens if I don't maintain my website?", answer: "Nothing dramatic at first. Over months, plugins and software fall behind on security fixes, certificates may fail to renew, forms can stop sending, and the site slows. Eventually a hack, a white screen or a failed upgrade forces an expensive emergency fix, or a rebuild that planned maintenance might have avoided." },
     { question: "Can I maintain my website myself?", answer: "Yes, if the site is simple and you are comfortable with backups and hosting panels. Update on a copy or after a full backup, keep a list of plugins and why they exist, and set up uptime and SSL alerts. Hire help for stores, sites with many integrations or custom code, or when updates keep failing." },
     { question: "Why do website maintenance quotes vary so much?", answer: "Quotes vary because the work behind them varies: whether updates are tested first, whether renewals are bundled, how much edit time is included, how fast requests are handled and who does the work. Compare quotes as task lists, not totals, and ask each vendor the same questions before deciding." },
@@ -412,8 +412,8 @@ const content: FreelanceContent = {
     { question: "Do maintenance charges include SEO?", answer: `Maintenance includes technical hygiene such as broken link fixes, sitemap checks and Search Console error review. Growth SEO, meaning keyword research, new content, local listings and link work, is a separate monthly plan from ${P.seo}. No one can honestly guarantee rankings, and we do not promise them.` },
     { question: "Do you give a GST invoice for website maintenance?", answer: "We provide proper invoices for every payment, and clients in India pay by UPI or bank transfer. For how GST applies to your business and whether you can claim input credit, please check with your own accountant, since that depends on your registration and circumstances." },
     { question: "What does website maintenance cost for clients outside India?", answer: `International clients are quoted in USD, with maintenance starting at ${P.careUsd}, paid by Wise, bank wire or PayPal. The scope works the same way: recurring tasks, request time and separate quotes for projects. Hosting and domain remain in your name with your chosen providers.` },
-    { question: "When should I rebuild instead of paying for maintenance?", answer: `Consider rebuilding when updates cannot be applied safely, the theme is pirated or abandoned, PHP is stuck on an unsupported version, or malware keeps returning. A new static site starts at ${P.site} and needs far less upkeep; a store starts at ${P.shop}. Both include five months of free maintenance after launch.` },
-    { question: "Website maintenance ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath website maintenance ${P.care} se shuru hota hai, aur jo website hum banate hain uspar launch ke baad 5 mahine maintenance free hai. Domain, hosting aur email ka renewal aap seedha provider ko dete hain, apne naam par. Static site sasti padti hai, store aur custom app mein zyada kaam hota hai.` },
+    { question: "When should I rebuild instead of paying for maintenance?", answer: `Consider rebuilding when updates cannot be applied safely, the theme is pirated or abandoned, PHP is stuck on an unsupported version, or malware keeps returning. A new static site starts at ${P.site} and needs far less upkeep; a store starts at ${P.shop}. Both include two months of free maintenance after launch.` },
+    { question: "Website maintenance ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath website maintenance ${P.care} se shuru hota hai, aur jo website hum banate hain uspar launch ke baad 2 mahine maintenance free hai. Domain, hosting aur email ka renewal aap seedha provider ko dete hain, apne naam par. Static site sasti padti hai, store aur custom app mein zyada kaam hota hai.` },
     { question: "How do I get a maintenance quote from BtechWaleTech?", answer: "Send your website address on WhatsApp with a line on what platform it uses and how often it changes. We review the site, check who holds each account, and send an itemised monthly scope in about two working days. Nothing is billed until you approve it in writing." },
   ],
   related: {

@@ -56,7 +56,7 @@ const sihor: CityContent = {
     ai: "Gujarati WhatsApp assistants that quote rate lists, confirm dispatch and pass a real negotiation to you instead of guessing.",
     data: "Dashboards that put rolling hours, furnace oil use, rejection percentage and outstanding dealer payments on one screen.",
     app: "Android and iOS apps from ₹40,000 for mill supervisors logging heats, or utensil dealers re-ordering stock, published on Google Play and the App Store under your accounts.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Metal trades work on thin margins and long credit, so Sihor owners judge a supplier by whether the promised thing arrives. We publish our starting prices instead of hiding them, send a written itemised quote, keep the domain and code in your name from the first day, and answer WhatsApp all seven days on Indian time. When a feature will not earn back what it costs, we tell you before you pay for it.",
@@ -177,7 +177,7 @@ const sihor: CityContent = {
       heading: "Ownership and maintenance for Sihor websites and apps",
       paragraphs: [
         "Everything we build for you is registered to you. The domain goes on your email address, the hosting account carries your name and card, the full source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you get a written sheet with every login on it, which means no developer, ourselves included, can ever hold your website to ransom.",
-        "For five months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and test now and again that the enquiry form, the UPI and card checkout and the WhatsApp button still work. When those five months end you choose: stay with us from ₹8,000 a month, hand it to someone in your own office, or pass the code to any other developer without asking us.",
+        "For two months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and test now and again that the enquiry form, the UPI and card checkout and the WhatsApp button still work. When those two months end you choose: stay with us from ₹8,000 a month, hand it to someone in your own office, or pass the code to any other developer without asking us.",
         "Apps need a yearly touch even when nothing is broken, because Google and Apple keep lifting the minimum versions they will accept and quietly stop showing listings that fall behind. We watch those deadlines and rebuild ahead of them. For websites, the routine items are an expiring domain, a renewal of the security certificate and a form that silently stops delivering mail, and all three are cheaper to catch on a calendar than in a panic.",
       ],
     },
@@ -269,7 +269,7 @@ const sihor: CityContent = {
     {
       question: "What maintenance do Sihor websites need after launch?",
       answer:
-        "For five months after your Sihor site goes live, upkeep is free: rate and photo edits, backups, security patches and periodic tests of the enquiry form, checkout and WhatsApp button. After that you can stay with us from ₹8,000 a month, manage it in your own office, or move to another developer, since the code and every account are already yours.",
+        "For two months after your Sihor site goes live, upkeep is free: rate and photo edits, backups, security patches and periodic tests of the enquiry form, checkout and WhatsApp button. After that you can stay with us from ₹8,000 a month, manage it in your own office, or move to another developer, since the code and every account are already yours.",
     },
     {
       question: "Do you also work in Songadh, Bhavnagar and Palitana?",

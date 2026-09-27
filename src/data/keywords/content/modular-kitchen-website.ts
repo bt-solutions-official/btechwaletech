@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "1–2 weeks for up to 100 pages"],
     ["Main goal", "Showroom visits and 3D design requests"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform or listing fees on your own leads" },
   ],
   answer: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Showroom booking", "No", "Third-party widget, if any", "Slots per showroom with reminders"],
       ["Speed with many photos", "Controlled by the platform", "Often heavy", "Responsive images, WebP/AVIF, lazy loading"],
       ["Local search visibility", "Ranks the platform, not you", "Basic tags", "Locality pages, schema, Search Console"],
-      ["Monthly cost", "Subscription or per-lead charges", "Theme and plugin renewals", `Hosting only; care from ${P.care} after 5 free months`],
+      ["Monthly cost", "Subscription or per-lead charges", "Theme and plugin renewals", `Hosting only; care from ${P.care} after 2 free months`],
     ],
     fine: "A listing can still bring leads in a new city; keep it alongside your own site if it pays, but do not let it be the only place buyers can find you.",
   },
@@ -227,7 +227,7 @@ const content: FreelanceContent = {
       heading: "How much does modular kitchen website design cost in India?",
       paragraphs: [
         `With BtechWaleTech, a modular kitchen website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and usually takes 1–2 weeks. That covers layout pages, finish explainers, project pages, the estimator, the 3D request form, showroom booking and WhatsApp alerts.`,
-        `The SEO website plan starts at ${P.seoSite} for 299+ pages and suits brands that want a page for each locality, building cluster or city they serve. A custom lead dashboard, with designer assignment, stage tracking and quotation PDFs, is a web app from ${P.software}. Ongoing SEO work starts at ${P.seo}, and maintenance after the five free months starts at ${P.care}.`,
+        `The SEO website plan starts at ${P.seoSite} for 299+ pages and suits brands that want a page for each locality, building cluster or city they serve. A custom lead dashboard, with designer assignment, stage tracking and quotation PDFs, is a web app from ${P.software}. Ongoing SEO work starts at ${P.seo}, and maintenance after the two free months starts at ${P.care}.`,
         `Quotes elsewhere vary widely, and the difference usually comes from four things: how many unique page designs there are, whether photos need editing and background clean-up, who writes the finish and layout copy, and whether the estimator logic is custom or a plugin. Ask any developer to itemise those four lines; it makes quotes comparable.`,
       ],
       after: [
@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A kitchen site of 25–60 pages takes 1–2 weeks once photos and rates are ready; a locality SEO build takes 3–5 weeks. The single biggest delay is the photo library, so start sorting project photos by layout the day you decide to build.`,
         `Days one and two go to the brief, page map and itemised quote. Days three to five produce the home page, one layout page and one finish page on a private staging link, using your real photos, so you judge the design on your own work rather than stock images. The second week fills in the remaining layouts, finishes, wardrobes and projects, wires up the estimator with your rate bands, and connects the 3D form and booking to WhatsApp.`,
-        `Before launch we test every form on a low-end Android phone on mobile data, check that uploads work from both camera and gallery, and verify Google Search Console. After launch, five months of free maintenance cover photo additions, text edits and small fixes.`,
+        `Before launch we test every form on a low-end Android phone on mobile data, check that uploads work from both camera and gallery, and verify Google Search Console. After launch, two months of free maintenance cover photo additions, text edits and small fixes.`,
       ],
     },
     {
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
       ["See real installs on staging", "The home page, one layout page and one finish page appear on a private link using your photos, so you judge design on your own kitchens."],
       ["Wire the estimator and forms", "We load your rate bands into the estimator, connect the 3D request and showroom booking to WhatsApp and a sheet, and test uploads on real phones."],
       ["Launch with accounts in your name", "Domain, hosting, image storage and Search Console are set up under your email. You receive every login, the code and a short update guide."],
-      ["Five months of free care", `New projects, rate changes and small fixes are free for five months after launch. Maintenance continues from ${P.care} only if you choose.`],
+      ["Two months of free care", `New projects, rate changes and small fixes are free for two months after launch. Maintenance continues from ${P.care} only if you choose.`],
     ],
   },
   faqHeading: "Modular kitchen website design: questions owners ask",
@@ -443,13 +443,13 @@ const content: FreelanceContent = {
     { question: "Can the same website cover wardrobes and full-home interiors?", answer: "Yes. A wardrobes and storage section with sliding, hinged and walk-in options can sit alongside the kitchen pages, sharing the same finish library. A combined request for a kitchen plus wardrobes often uncovers a larger order. Brands that sell full-home turnkey interiors can add a separate section for that." },
     { question: "How do I get more showroom visits from my website?", answer: "Make booking the easiest action on every page, keep slots and reminders on WhatsApp, and show real installs near the buyer’s locality. Ask one question at booking about what they want to see. Follow up estimator and 3D leads within the hours you promise; speed of reply often decides which showroom a family visits." },
     { question: "Who owns the website and the photos after launch?", answer: "You do. Domain, hosting, code, image storage and the lead sheet are set up in your name from the start. At handover you receive every login, the code repository and the estimator rate table, so you can change developers later without losing anything." },
-    { question: "What does maintenance include for a kitchen website?", answer: `The first five months after launch are free and cover adding new projects, updating the estimator rates, text edits and small fixes. After that, maintenance is optional and starts at ${P.care}. You can also update projects yourself if the site is built on an editor you are comfortable with.` },
+    { question: "What does maintenance include for a kitchen website?", answer: `The first two months after launch are free and cover adding new projects, updating the estimator rates, text edits and small fixes. After that, maintenance is optional and starts at ${P.care}. You can also update projects yourself if the site is built on an editor you are comfortable with.` },
     { question: "Can you build a website for a modular kitchen franchise or dealer network?", answer: `Yes. Each dealer or franchise showroom gets its own page, calendar and Business Profile link, while layouts and finishes stay central. If dealers need logins to see and update their own leads, that becomes a custom web app from ${P.software}. Scope and access rules are agreed in your written quote.` },
     { question: "How do payments work for a website project?", answer: "You get an itemised quote first and nothing is billed until you approve it in writing. Payments in India are by UPI or bank transfer, in stages tied to visible work. Clients abroad pay in USD through Wise, bank wire or PayPal. Specific stages are listed in your quote." },
     { question: "Can my kitchen website appear in Google AI Overviews or ChatGPT answers?", answer: "It can be quoted if pages answer common questions directly: which board suits wet areas, which layout fits a narrow kitchen, how the design process works. Short definitions, clear comparison tables and consistent brand and city details help. Nobody controls what AI tools quote, but clear, specific pages give them something worth using." },
     { question: "Should I also build a mobile app for my kitchen business?", answer: `Usually not at first. Buyers purchase a kitchen once every many years, so a fast website serves them better than an app. An app makes sense later for dealers, installers or site supervisors who need job sheets and photo uploads. Android and iOS apps start at ${P.app}.` },
     { question: "Can the website send leads to my CRM?", answer: "Yes. Estimates, 3D requests and bookings can go to WhatsApp, a Google Sheet or a CRM such as Zoho with the layout, finish and budget band attached. That lets you see which pages and finishes bring the best leads, and stops design requests from being forgotten." },
-    { question: "Modular kitchen ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath modular kitchen website ${P.site} se shuru hoti hai aur 1–2 hafte mein ready ho jaati hai. Isme layout pages, finish guide, price estimator, 3D design form aur showroom booking aa jaate hain. Pehle itemised quote milta hai, approval ke baad hi payment, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Modular kitchen ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath modular kitchen website ${P.site} se shuru hoti hai aur 1–2 hafte mein ready ho jaati hai. Isme layout pages, finish guide, price estimator, 3D design form aur showroom booking aa jaate hain. Pehle itemised quote milta hai, approval ke baad hi payment, aur launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related guides for kitchen, interiors and home businesses",
@@ -471,7 +471,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a modular kitchen website? Send us your showroom details",
-    note: `Message us on WhatsApp with your layouts, finishes and showrooms. You will get a page map and itemised quote in about two working days, with sites from ${P.site}, everything in your name and five months of free maintenance.`,
+    note: `Message us on WhatsApp with your layouts, finishes and showrooms. You will get a page map and itemised quote in about two working days, with sites from ${P.site}, everything in your name and two months of free maintenance.`,
   },
 };
 

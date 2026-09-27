@@ -34,7 +34,7 @@ const pondicherry: CityContent = {
     pills: ["Sites from ₹10,000", "Direct room bookings", "Tamil, English, French", "Craft and pottery stores", "You own everything"],
   },
   quickAnswer:
-    "A website for a Pondicherry business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, a guesthouse booking or online store setup from ₹50,000 and automation from ₹40,000. We are three remote engineers, you own the domain and code, and maintenance is free for five months.",
+    "A website for a Pondicherry business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO site costs from ₹20,000, a guesthouse booking or online store setup from ₹50,000 and automation from ₹40,000. We are three remote engineers, you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Character", value: "Former French territory with a planned French Quarter and Tamil Quarter, once divided by a canal" },
     { label: "Visitors", value: "Promenade Beach, Sri Aurobindo Ashram, Manakula Vinayagar Temple, and Auroville about 8 km to the north-west" },
@@ -51,7 +51,7 @@ const pondicherry: CityContent = {
     ai: "WhatsApp assistants that answer room, menu and timing questions in English, Tamil or French and pass bookings to your staff.",
     data: "Dashboards for occupancy, booking sources, sales by product and seasonal demand, readable on a phone.",
     app: "Android and iOS apps for café pre-orders, class and workshop bookings and patient appointment queues, listed on Google Play and the App Store.",
-    maintenance: "Rate, menu and catalogue updates, backups, security patches and uptime checks, free for five months and then from ₹8,000 a month.",
+    maintenance: "Rate, menu and catalogue updates, backups, security patches and uptime checks, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Pondicherry owners often juggle bookings, guests and staff personally, so they need a web team that is easy to reach and never vague. We publish our prices, send written itemised quotes, answer on WhatsApp seven days a week and set up the domain and hosting in your name so you are never dependent on us.",
@@ -181,11 +181,11 @@ const pondicherry: CityContent = {
     },
     {
       id: "ownership-pondy",
-      heading: "Your accounts, your code, and five months of free maintenance",
+      heading: "Your accounts, your code, and two months of free maintenance",
       paragraphs: [
         "Guesthouse and café owners in Pondicherry sometimes discover that the booking site they paid for belongs, in practice, to someone else: the domain is in the designer's name, the hosting is on his card, and changing a room rate means waiting for him to reply. When he moves on, the website often goes with him.",
         "We set up the domain in your business's name and the hosting in your account from the beginning. At launch you receive every login, the full source code and a short guide to how the site works. You are free to move to another developer at any time without paying any exit fee.",
-        "For five months after launch, maintenance is free, covering content and rate updates, fixes, security patches, backups, uptime checks and speed tests. After that you can continue from ₹8,000 a month or contact us only when something needs changing.",
+        "For two months after launch, maintenance is free, covering content and rate updates, fixes, security patches, backups, uptime checks and speed tests. After that you can continue from ₹8,000 a month or contact us only when something needs changing.",
       ],
     },
   ],
@@ -277,7 +277,7 @@ const pondicherry: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch, we handle content and rate updates, fixes, security patches, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can pay only when you need changes.",
+        "For two months after launch, we handle content and rate updates, fixes, security patches, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can pay only when you need changes.",
     },
     {
       question: "How do we get started?",

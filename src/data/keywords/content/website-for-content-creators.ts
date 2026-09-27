@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["With merch store", `From ${P.shop}`],
     ["Payments", "UPI, cards and wallets at checkout"],
     ["Who owns it", "You: domain, hosting, code, subscriber list"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers: build, SEO and automation" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on your merch or product sales" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Site with merch or products", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Search-led content hub", value: `From ${P.seoSite}, 3–5 weeks` },
       { label: "Ownership", value: "Domain, hosting, code and list in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
         "<strong>Design depth:</strong> custom illustration, motion and a bespoke type system cost more than a clean, well-made layout.",
       ],
       after: [
-        `Running costs are separate and paid by you directly: domain renewal, hosting, your email tool and any payment processing fees. After launch you get five months of free maintenance, then care plans start at ${P.care}. Compare our <a href='/pricing/'>starting prices</a> for every plan.`,
+        `Running costs are separate and paid by you directly: domain renewal, hosting, your email tool and any payment processing fees. After launch you get two months of free maintenance, then care plans start at ${P.care}. Compare our <a href='/pricing/'>starting prices</a> for every plan.`,
       ],
     },
     {
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
       ["Approve a phone-first design", "We show the home page and media kit on a real phone screen, because most visitors tap through from an app. One direction, refined with your feedback."],
       ["Build and connect", "Pages, video library, brand-deal form, newsletter, store and analytics are built on a preview link, with each integration tested using your real accounts."],
       ["Review and launch", "Two review rounds, then launch on your domain. We submit sitemaps, run test payments and sign-ups, and hand over every login in a shared vault."],
-      ["Measure and grow", "We check which bio link, video or post sends visitors in the first weeks, and you get five months of free maintenance for fixes and small updates."],
+      ["Measure and grow", "We check which bio link, video or post sends visitors in the first weeks, and you get two months of free maintenance for fixes and small updates."],
     ],
   },
   faqHeading: "Questions creators ask before building a website",
@@ -437,7 +437,7 @@ const content: FreelanceContent = {
     { question: "Can you build a bilingual Hindi and English creator website?", answer: "Yes. The team works in Hindi and English, and we build bilingual sites with a language switch, separate URLs for each language and correct hreflang tags so Google shows the right version. You write or approve the final Hindi copy, or any other regional language, because the tone has to sound like you. We handle layout, fonts and search setup." },
     { question: "Kya YouTube channel ke liye alag website banana zaroori hai?", answer: "Shuruaat mein zaroori nahi hai, lekin jab brands contact karne lagein, aap kuch bechna chahein, ya channel par strike ka dar ho, tab apni website bahut kaam aati hai. Website par media kit, brand-deal form, merch shop aur email list sab aapke naam par rehte hain. Humare saath simple creator website ${P.site} se shuru hoti hai." },
     { question: "Is it better to hire a freelancer or an agency for a website for content creators?", answer: "For most creators, a small freelance team is a good fit: the scope is modest, you talk directly to the people building it, and decisions move quickly. An agency may suit a creator business that also needs video production, talent management and ad campaigns from one supplier. Whoever you pick, insist on accounts in your name and an itemised quote." },
-    { question: "What happens after the website is launched?", answer: `You get five months of free maintenance for fixes, updates and small changes, and we review the first weeks of analytics with you to see which platforms send visitors. After that, maintenance plans start at ${P.care}. You can also update the media kit, add video pages and publish posts yourself, because we show you how at handover.` },
+    { question: "What happens after the website is launched?", answer: `You get two months of free maintenance for fixes, updates and small changes, and we review the first weeks of analytics with you to see which platforms send visitors. After that, maintenance plans start at ${P.care}. You can also update the media kit, add video pages and publish posts yourself, because we show you how at handover.` },
     { question: "Can you add automation like WhatsApp alerts or comment-to-DM flows?", answer: `Yes. Common additions are a WhatsApp alert when a brand fills the enquiry form, a welcome email sequence for new subscribers, and Instagram comment-to-DM flows that send your link to people who comment a keyword. Automation work starts at ${P.ai}. We only use official platform APIs and tools, so your accounts are not put at risk by unofficial bots.` },
     { question: "Can I move my existing Wix, Squarespace or link-in-bio content to the new site?", answer: "Usually, yes. We can import blog posts, video descriptions, product lists and images, keep your old URLs working with redirects where possible, and move your newsletter list into the tool you choose. We first check what the old platform lets you export. A migration plan is part of the itemised quote so you know the scope before you approve." },
     { question: "How do payments work when I hire you?", answer: "You get an itemised quote first, and nothing is billed before you approve it in writing. Creators in India pay by UPI or bank transfer; creators abroad pay in USD by Wise, bank wire or PayPal. The exact schedule of milestone payments is agreed in your written quote, and our terms and refund policy pages explain the general rules." },
@@ -463,7 +463,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a site the algorithm cannot take away?",
-    note: `Send your channel links and how you earn on WhatsApp. In about two working days you get an itemised quote, with creator websites from ${P.site}, everything registered in your name and five months of free maintenance after launch.`,
+    note: `Send your channel links and how you earn on WhatsApp. In about two working days you get an itemised quote, with creator websites from ${P.site}, everything registered in your name and two months of free maintenance after launch.`,
   },
 };
 

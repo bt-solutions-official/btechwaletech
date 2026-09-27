@@ -56,7 +56,7 @@ const sagara: CityContent = {
     ai: "Kannada WhatsApp assistants that answer rate, room, stock and timing questions and hand decisions to your staff.",
     data: "Dashboards of areca arrivals, stock by grade, outstanding payments and homestay occupancy by month.",
     app: "Android and iOS apps for co-operative members, homestay guests or school parents, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of upkeep after launch, then maintenance from ₹8,000 a month through every monsoon.",
+    maintenance: "Two free months of upkeep after launch, then maintenance from ₹8,000 a month through every monsoon.",
   },
   whyUsIntro:
     "Malnad families tend to deal with people they have known for decades, and they are right to be cautious with an outside developer. So everything we offer is on paper: public starting prices, itemised written quotes, WhatsApp replies seven days a week, and the domain, hosting, code and store accounts registered to you. When a feature will not pay back, we say so plainly.",
@@ -161,7 +161,7 @@ const sagara: CityContent = {
       heading: "Website cost in Sagara and what makes the quote go up",
       paragraphs: [
         "Here are the numbers most Sagara owners ask for first. A static website up to 100 pages starts at ₹10,000 and usually takes one to two weeks. An SEO build of 299 pages or more, useful for a trader or tourism business that wants a page for every variety, village or attraction, starts at ₹20,000 and takes three to five weeks. Android and iOS apps and AI automation each start at ₹40,000.",
-        "An online store starts at ₹50,000, custom software or a web app at ₹60,000 and monthly SEO at ₹10,000 a month. After five free months of maintenance, ongoing support starts at ₹8,000 a month, and it is optional.",
+        "An online store starts at ₹50,000, custom software or a web app at ₹60,000 and monthly SEO at ₹10,000 a month. After two free months of maintenance, ongoing support starts at ₹8,000 a month, and it is optional.",
         "Additional lines appear only for what you choose: Kannada and English versions, a long product list, courier rate tables, UPI checkout, booking calendars, staff logins or Tally sync. If you supply your own text and photographs, very little is added for content.",
         "Quotes in the Shivamogga region vary widely, so compare like with like. Ask who registers the domain, whether the site is tested on cheap phones and slow networks, what SEO basics are included, how many revisions are covered and what support costs later. Our full list is on the <a href=\"/pricing/\">pricing page</a>, and your itemised quote usually arrives within two working days.",
       ],
@@ -180,7 +180,7 @@ const sagara: CityContent = {
       heading: "Ownership, handover and maintenance for Sagara clients",
       paragraphs: [
         "Your website and app belong to you in every sense. The domain is registered on your email, hosting invoices carry your name, the complete source code is handed over, and your Google Business Profile, Google Play account and Apple developer account are in your ownership. A written list of logins comes with the handover, so nobody, us included, can lock you out.",
-        "Maintenance is free for five months after launch. We update rates, photos and seasonal notices, take backups, apply security and platform updates, and check that forms, UPI payments and WhatsApp buttons work. Heavy rain sometimes brings power and network cuts that expose weak hosting, so we watch uptime closely in the monsoon. After five months, continue with us from ₹8,000 a month or take the work elsewhere.",
+        "Maintenance is free for two months after launch. We update rates, photos and seasonal notices, take backups, apply security and platform updates, and check that forms, UPI payments and WhatsApp buttons work. Heavy rain sometimes brings power and network cuts that expose weak hosting, so we watch uptime closely in the monsoon. After two months, continue with us from ₹8,000 a month or take the work elsewhere.",
         "Apps also need a yearly update because Google and Apple keep raising their minimum requirements. We track those deadlines so your listing is not removed. For work across Sagara taluk and beyond, including Talaguppa, Anandapuram, Keladi, Heggodu, Shikaripur, Sirsi and Shivamogga, we write area pages only where your business genuinely serves that area.",
       ],
     },
@@ -263,7 +263,7 @@ const sagara: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months after launch are covered free: rate and photo changes, backups, security updates and regular checks of forms, payments and WhatsApp links, including uptime watch through the monsoon. After that, support is optional and starts at ₹8,000 a month. All code and accounts are already yours, so switching developers needs nobody's permission.",
+        "The first two months after launch are covered free: rate and photo changes, backups, security updates and regular checks of forms, payments and WhatsApp links, including uptime watch through the monsoon. After that, support is optional and starts at ₹8,000 a month. All code and accounts are already yours, so switching developers needs nobody's permission.",
     },
     {
       question: "Do you work in Talaguppa, Shikaripur and Shivamogga too?",

@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering apps, cloud and data, and delivery" },
     { value: "2", label: "Working days to an itemised module quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-truck or per-user licence fees on custom code" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Custom module cost", value: `From ${P.software}, 6–12 weeks` },
       { label: "Driver app cost", value: `From ${P.app}, Android and iOS` },
       { label: "Hosting", value: "EU cloud region, your account, data processing agreement" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, custom logistics modules start at ${P.software} each and take 6–12 weeks; driver apps start at ${P.app} and take 6–10 weeks; document and email automation starts at ${P.ai}. A typical first project combines one planning or portal module with a driver app.`,
         `Across the market, quotes from any logistics software development company vary widely, and headline rates say little. What moves cost is scope: how many external interfaces, how many exception cases the driver app must handle, whether the board needs real-time sync between planners, and how much of your existing data needs cleaning. Each carrier, shipper and telematics provider adds its own adapter and test cycle.`,
-        `Running costs are modest but real: cloud hosting in an EU region, app store accounts, SMS or messaging fees, and maintenance. They are paid by you directly to the providers, apart from maintenance, which after five free months starts at ${P.care}.`,
+        `Running costs are modest but real: cloud hosting in an EU region, app store accounts, SMS or messaging fees, and maintenance. They are paid by you directly to the providers, apart from maintenance, which after two free months starts at ${P.care}.`,
       ],
       subs: [
         { heading: "Keeps cost down", text: "One well-defined module first, a TMS with a usable API, sample files from shippers early, and a single decision-maker on your side." },
@@ -306,7 +306,7 @@ const content: FreelanceContent = {
         ["Customer tracking portal", `From ${P.software}`, "6–10 weeks", "Customer logins, documents, API for shippers"],
         ["Document and email order capture", `From ${P.ai}`, "2–4 weeks", "Document variety, validation rules"],
         ["Company website for the forwarder", `From ${P.site}`, "1–2 weeks", "Pages, languages, careers section"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Ongoing", "Interfaces to watch, release frequency"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Ongoing", "Interfaces to watch, release frequency"],
       ],
       hideSm: [3],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Accounts and data access", "Cloud, app store and repository accounts are opened in your company’s name, and we receive test access to the TMS and sample interface files."],
       ["Build with weekly demos", "Each week you see working software on staging or a test build on your phone, reviewed with a planner and, for the app, a driver."],
       ["Pilot on real tours", "Two or three drivers and one planner use the new tools on live work while the old process stays as a fallback for a short period."],
-      ["Roll out and five free months", `All drivers switch over, documentation and credentials are handed over, and five months of free maintenance begin, with care from ${P.care} afterwards.`],
+      ["Roll out and two free months", `All drivers switch over, documentation and credentials are handed over, and two months of free maintenance begin, with care from ${P.care} afterwards.`],
     ],
   },
   faqHeading: "Questions German forwarders ask about custom logistics software",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Can AI read delivery notes and emailed orders?", answer: `Yes. AI-based document capture can turn emailed orders, delivery notes and scanned PODs into structured data, with a human check for low-confidence fields. These automations start at ${P.ai} and usually take 2–4 weeks, depending on how varied the documents are and which system receives the data.` },
     { question: "How do we pay a development team in India?", answer: "Quotes are in USD, and you pay in USD or EUR by Wise or bank wire per milestone, each tied to software you can see working. Invoices come from India. How to book them in Germany is a question for your Steuerberater; we do not give tax advice." },
     { question: "Do you sign NDAs and contracts?", answer: "Every project starts with a written, itemised quote covering scope, milestones, ownership and response times. If you need an NDA before sharing shipper data or TMS documentation, ask and we will agree terms in writing. Anything not covered falls under the terms page on our website." },
-    { question: "What happens after a logistics software development company hands over?", answer: `For five months after launch, fixes, small changes and interface adjustments are free. After that, maintenance starts at ${P.care} and covers app and library updates, monitoring of interfaces and error queues, and small improvements. You can move maintenance elsewhere at any time, since code and accounts are yours.` },
+    { question: "What happens after a logistics software development company hands over?", answer: `For two months after launch, fixes, small changes and interface adjustments are free. After that, maintenance starts at ${P.care} and covers app and library updates, monitoring of interfaces and error queues, and small improvements. You can move maintenance elsewhere at any time, since code and accounts are yours.` },
     { question: "Can you work with our existing TMS vendor?", answer: "Yes, as long as the TMS offers an API, database export or file interface we are allowed to use. We ask for the vendor’s interface documentation early and design around it, so their updates do not break our modules. If the TMS has no usable interface, we will tell you before any build starts." },
     { question: "What do you not do on logistics projects?", answer: "We do not visit depots, supply hardware such as scanners or telematics boxes, run 24/7 hotlines, certify eFTI platforms, give legal advice on driver monitoring or consignment notes, or staff large multi-country rollouts. We say this upfront so you can plan the right partners alongside us." },
   ],

@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI workflows that read RFQs and purchase orders from email or WhatsApp, pull out quantities and specs, and prepare draft quotations for review.",
     data: "Dashboards showing melt output, rejection rates, pending orders, job-worker balances and receivables for owners and partners.",
     app: "Android and iOS apps for Howrah dealers, shop-floor supervisors and garment buyers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Fixes, backups and updates free for five months after launch, then maintenance plans from ₹8,000 a month.",
+    maintenance: "Fixes, backups and updates free for two months after launch, then maintenance plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Howrah's factories and markets are practical places where software must earn its keep on the shop floor. A freelance group that studies your job cards before writing code, keeps screens simple for supervisors and answers WhatsApp seven days a week fits better than an agency selling a generic ERP.",
@@ -241,7 +241,7 @@ const content: CityContent = {
       id: "process-timeline-howrah",
       heading: "How long do Howrah projects take, and how do we work remotely?",
       paragraphs: [
-        "Howrah automations take two to four weeks, Android and iOS apps six to ten weeks, stores four to eight weeks and custom software six to twelve weeks. Every project runs through a discovery call, an itemised scope and quote, weekly builds with a live preview, testing with your staff and launch with five months of free maintenance.",
+        "Howrah automations take two to four weeks, Android and iOS apps six to ten weeks, stores four to eight weeks and custom software six to twelve weeks. Every project runs through a discovery call, an itemised scope and quote, weekly builds with a live preview, testing with your staff and launch with two months of free maintenance.",
         "Since we work remotely, photos of job cards, melt logs, challans and registers are the most valuable inputs you can send. Training is recorded in Bengali or Hindi, and support runs on WhatsApp seven days a week with the engineers who built the system.",
         "See <a href='/portfolio/'>past work</a>, our <a href='/it-services/west-bengal/kolkata/'>Kolkata page</a> across the river, or the <a href='/it-services/west-bengal/'>West Bengal overview</a>.",
       ],
@@ -309,7 +309,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "Five months of free maintenance after launch cover bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you contact us only when needed.",
+        "Two months of free maintenance after launch cover bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you contact us only when needed.",
     },
     {
       question: "Can AI read RFQs and purchase orders for us?",

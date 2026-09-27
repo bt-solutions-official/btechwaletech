@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Keys and servers", "In your accounts, never ours"],
     ["Handover", "API docs, test collection, runbook"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering code, cloud and planning" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Workflow integration", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Standards", value: "REST, JSON, webhooks, OAuth 2.0, OpenAPI docs" },
       { label: "Ownership", value: "API keys, server and repository in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -221,7 +221,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Our custom API and integration projects start from ${P.software} (${P.softwareUsd}); integrations that are mainly workflow automation with AI steps start from ${P.ai}. Quotes rise with the number of systems, the direction of sync and the amount of failure handling needed.`,
         `Across the market, quotes for the same integration vary a great deal. The differences usually come from what is included: one quote covers only the happy path, another covers retries, duplicate protection, reconciliation, documentation and monitoring. Legacy systems with no proper API, such as older desktop accounting software, add discovery and connector work. So does poor sandbox access from a provider.`,
-        `Running costs are separate and usually paid by you directly: SMS and WhatsApp message charges, payment provider fees, cloud hosting and any paid middleware. After five free months, our maintenance starts at ${P.care} and includes updates when a provider changes or retires an API version.`,
+        `Running costs are separate and usually paid by you directly: SMS and WhatsApp message charges, payment provider fees, cloud hosting and any paid middleware. After two free months, our maintenance starts at ${P.care} and includes updates when a provider changes or retires an API version.`,
       ],
     },
     {
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Integrations rarely break on day one. They break months later when a provider rotates a certificate, deprecates an API version, changes a field name or has an outage during your busiest sale.`,
         `Keep them healthy with a few habits. Monitor error rates and queue lengths, with alerts to a person who can act. Subscribe to each provider’s changelog. Rotate keys when staff change. Review failed jobs weekly and retry or fix them. Keep the documentation current whenever an endpoint changes.`,
-        `Our five months of free maintenance after go-live covers these checks and fixes. After that, maintenance continues from ${P.care}, or your own team can take over using the runbook. Either way, you should never discover a broken integration because a customer complains.`,
+        `Our two months of free maintenance after go-live covers these checks and fixes. After that, maintenance continues from ${P.care}, or your own team can take over using the runbook. Either way, you should never discover a broken integration because a customer complains.`,
       ],
     },
     {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This hypothetical example, not a client story, shows how one freelance API developer project might be scoped.`,
         `A coaching institute collects enquiries on its website, follows up by phone, takes fees by UPI and keeps accounts in desktop accounting software. Staff copy data between four places, and fee receipts are often late. The goal: one flow from enquiry to receipt.`,
-        `We would propose: website form to CRM with deduplication by phone; an automatic WhatsApp template reply with batch details; a UPI payment link generated per student, confirmed by webhook; a GST-ready receipt sent on WhatsApp; and a nightly push of fee vouchers into the accounting software. The quote would start from ${P.software}, with separate lines for the accounting connector and the WhatsApp templates. DLT and WhatsApp registrations would start in week one. After go-live, five months of free maintenance covers template changes and new batches.`,
+        `We would propose: website form to CRM with deduplication by phone; an automatic WhatsApp template reply with batch details; a UPI payment link generated per student, confirmed by webhook; a GST-ready receipt sent on WhatsApp; and a nightly push of fee vouchers into the accounting software. The quote would start from ${P.software}, with separate lines for the accounting connector and the WhatsApp templates. DLT and WhatsApp registrations would start in week one. After go-live, two months of free maintenance covers template changes and new batches.`,
       ],
     },
     {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
         ["Workflow integration with AI steps", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Online store with payment and shipping APIs", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["App with API and admin panel", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
-        ["Integration maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Integration maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
   ],
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
       ["Keys and registrations", "You create provider accounts, sandbox keys, DLT and WhatsApp registrations in your name. We guide each form so approvals start early."],
       ["Build against sandboxes", "We build and test with sandbox keys and fake data, sharing a staging environment and logs so you can watch records move."],
       ["Controlled go-live", "We switch to live keys for a small batch of real transactions, check every one, then open fully once the numbers match."],
-      ["Docs and five months of care", "You receive the OpenAPI file, test collection and runbook. Monitoring and fixes are free for five months, then from " + P.care + " if you want to continue."],
+      ["Docs and two months of care", "You receive the OpenAPI file, test collection and runbook. Monitoring and fixes are free for two months, then from " + P.care + " if you want to continue."],
     ],
   },
   faqHeading: "Freelance API developer: frequent questions",
@@ -370,12 +370,12 @@ const content: FreelanceContent = {
     { question: "What documentation will I receive?", answer: "You receive an OpenAPI file describing every endpoint, a test collection with sandbox and live examples, a list of external providers and account owners, the environment variables required, architecture notes and a runbook covering deployment, key rotation, logs and what to do when a provider is down. The repository with full history is yours." },
     { question: "Who owns the API code and accounts?", answer: "You do. Provider accounts, API keys, cloud hosting and the code repository are created in your name from the start, and we are added as users. Once paid, the code and documentation belong to you, so your own team or another developer can take over at any time without asking our permission." },
     { question: "Can a freelance API developer work remotely on my systems?", answer: "Yes. Integration work needs documentation, sandbox keys, access to test environments and a call with the person who knows your process, none of which requires being in the same city. For desktop software such as on-premise accounting, we use secure remote access or install a small connector with your IT person." },
-    { question: "What happens when a provider changes its API?", answer: `Providers regularly retire versions, rename fields or change authentication. Monitoring and changelog tracking catch this early. BtechWaleTech includes five months of free maintenance after go-live, covering such updates, and maintenance continues from ${P.care} afterwards if you choose. Your runbook also lets your own developers handle changes.` },
+    { question: "What happens when a provider changes its API?", answer: `Providers regularly retire versions, rename fields or change authentication. Monitoring and changelog tracking catch this early. BtechWaleTech includes two months of free maintenance after go-live, covering such updates, and maintenance continues from ${P.care} afterwards if you choose. Your runbook also lets your own developers handle changes.` },
     { question: "Can you integrate the WhatsApp Business Platform?", answer: `Yes. We set up approved message templates, record customer opt-in and opt-out, connect incoming chats to your database or CRM, log delivery status for each message and fall back to SMS when needed. WhatsApp integrations that include automation or AI replies start from ${P.ai}. Message charges are billed to you by the provider.` },
     { question: "How do I choose a good freelance API developer?", answer: "Ask about failures: duplicate webhooks, missing callbacks, provider outages and how you will be alerted. Ask where API keys will live and request a sample of their documentation. Prefer someone who asks about your data volumes and source of truth before quoting. A short paid discovery phase is a sensible first step." },
     { question: "Do you sign an NDA for integration projects?", answer: "Yes. Integration work often involves customer records, pricing and financial data, so BtechWaleTech signs a reasonable NDA before you share access. We also work in sandboxes with fake data wherever possible and limit production access to what the job needs, removing it at handover if you prefer." },
     { question: "Can you build APIs for clients outside India?", answer: `Yes. We build and integrate APIs for businesses in the USA, UK, Canada, Australia, the UAE and elsewhere, with custom API projects from ${P.softwareUsd}. We overlap part of the working day for calls, share staging environments and bill through Wise, bank wire or PayPal. Accounts and keys stay in your organisation’s name.` },
-    { question: "API integration karwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom API ya kai systems ko jodne ka kaam ${P.software} se shuru hota hai, aur AI wale workflow integration ${P.ai} se. Final kharcha systems ki ginti aur error handling par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 5 mahine maintenance free hai.` },
+    { question: "API integration karwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath custom API ya kai systems ko jodne ka kaam ${P.software} se shuru hota hai, aur AI wale workflow integration ${P.ai} se. Final kharcha systems ki ginti aur error handling par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment, aur go-live ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "More on APIs, back ends and automation",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need systems connected? Talk to a freelance API developer",
-    note: `Send us on WhatsApp the systems you use and the manual steps you want gone. You will get an itemised quote in about two working days, with custom API work from ${P.software}, every key and account in your name and five months of free maintenance after go-live.`,
+    note: `Send us on WhatsApp the systems you use and the manual steps you want gone. You will get an itemised quote in about two working days, with custom API work from ${P.software}, every key and account in your name and two months of free maintenance after go-live.`,
   },
 };
 

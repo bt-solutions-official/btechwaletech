@@ -7,7 +7,7 @@ const ajmer: CityContent = {
   meta: {
     title: "IT Services in Ajmer: Websites, Apps, SEO & AI",
     description:
-      "Websites, local SEO, stores and WhatsApp automation for Ajmer, Pushkar and Kishangarh businesses. Sites from ₹10,000, itemised quotes, 5 months free maintenance.",
+      "Websites, local SEO, stores and WhatsApp automation for Ajmer, Pushkar and Kishangarh businesses. Sites from ₹10,000, itemised quotes, 2 months free maintenance.",
     keywords: [
       "website development team in Ajmer",
       "website designer Ajmer",
@@ -30,11 +30,11 @@ const ajmer: CityContent = {
     eyebrow: "Ajmer · Rajasthan",
     h1: "Websites, software, SEO and AI tools for Ajmer hotels, marble traders, classes and shops",
     lede:
-      "Three remote engineers building websites, online stores and automation for businesses in Ajmer, Pushkar and Kishangarh: guest houses near the Dargah, marble and granite dealers, coaching institutes, clinics and sweet shops. Our starting prices are public, you work directly with the developers, and the first five months of maintenance after launch are free.",
+      "Three remote engineers building websites, online stores and automation for businesses in Ajmer, Pushkar and Kishangarh: guest houses near the Dargah, marble and granite dealers, coaching institutes, clinics and sweet shops. Our starting prices are public, you work directly with the developers, and the first two months of maintenance after launch are free.",
     pills: ["Sites from ₹10,000", "Hotel booking pages", "Marble catalogues", "Hindi search pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "An Ajmer business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team with no Ajmer office, and five months of maintenance after launch are included.",
+    "An Ajmer business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team with no Ajmer office, and two months of maintenance after launch are included.",
   snapshot: [
     { label: "Pilgrimage and tourism", value: "Dargah of Khwaja Moinuddin Chishti, Ana Sagar lake, and Pushkar about 15 km away" },
     { label: "Markets", value: "Dargah Bazaar, Diggi Bazaar, Naya Bazaar, Madar Gate and Kaiserganj" },
@@ -51,10 +51,10 @@ const ajmer: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that answer questions about rooms, stone rates, batches or timings, and pass unusual cases to your team.",
     data: "Bookings, sales and stock pulled together into a clear dashboard for owners who manage several counters or yards.",
     app: "Android and iOS apps for guests, students and field staff that work well on basic phones, from ₹40,000 with Play Store and App Store publishing included.",
-    maintenance: "Free updates, backups, security fixes and speed checks for five months after launch, then from ₹8,000 a month if you wish.",
+    maintenance: "Free updates, backups, security fixes and speed checks for two months after launch, then from ₹8,000 a month if you wish.",
   },
   whyUsIntro:
-    "Ajmer businesses usually choose between a local operator with no published prices and a Jaipur agency that disappears after launch. We print our starting prices, answer on WhatsApp all seven days of the week, and keep looking after your site at no charge for five months after it goes live.",
+    "Ajmer businesses usually choose between a local operator with no published prices and a Jaipur agency that disappears after launch. We print our starting prices, answer on WhatsApp all seven days of the week, and keep looking after your site at no charge for two months after it goes live.",
   pricingIntro:
     "In Ajmer the same basic website can be quoted at wildly different prices with no explanation. Here is what we actually charge to start. Your quote depends on page count, products and features, and it comes itemised so you can see exactly what you are paying for before approving anything.",
   sections: [
@@ -176,7 +176,7 @@ const ajmer: CityContent = {
       paragraphs: [
         "Many Ajmer businesses have lost a website because the domain was in a former developer's name and the renewal was missed. Sometimes a hotel's booking email stops working for weeks before anyone notices. We set things up so that this cannot happen to you.",
         "Your domain is registered in your name, the hosting account is opened for you, and at launch you receive every login plus a short note explaining where everything is. The code belongs to you. You can move it to another developer at any time without an exit fee.",
-        "Maintenance is free for five months after launch: content and tariff updates, bug fixes, security and software updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month, or contact us only when you need changes.",
+        "Maintenance is free for two months after launch: content and tariff updates, bug fixes, security and software updates, backups, uptime checks and speed checks. After that, you can continue from ₹8,000 a month, or contact us only when you need changes.",
       ],
     },
     {
@@ -266,7 +266,7 @@ const ajmer: CityContent = {
     {
       question: "What does the free maintenance period include?",
       answer:
-        "For five months after launch, we handle content and tariff updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can simply message us when you need a change.",
+        "For two months after launch, we handle content and tariff updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can simply message us when you need a change.",
     },
     {
       question: "Can you guarantee first-page Google rankings?",

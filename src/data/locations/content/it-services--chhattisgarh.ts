@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT services · Chhattisgarh state",
     h1: "Freelance IT services in Chhattisgarh: software, apps and AI for steel, power, rice and service businesses",
     lede:
-      "BtechWaleTech offers freelance IT services in Chhattisgarh through a group of three engineers working remotely from India. We build vendor portals for Korba contractors, production and dispatch tools for Bhilai and Raigarh suppliers, rice mill software, clinic and school systems in Raipur and Bilaspur, AI agents, dashboards and websites, with starting prices published and five months of maintenance free.",
+      "BtechWaleTech offers freelance IT services in Chhattisgarh through a group of three engineers working remotely from India. We build vendor portals for Korba contractors, production and dispatch tools for Bhilai and Raigarh suppliers, rice mill software, clinic and school systems in Raipur and Bilaspur, AI agents, dashboards and websites, with starting prices published and two months of maintenance free.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Vendor and contractor portals", "Hindi and Chhattisgarhi-friendly interfaces", "Paid by UPI QR or bank transfer"],
   },
   quickAnswer:
-    "For IT services in Chhattisgarh, BtechWaleTech, a freelance group of three remote engineers, charges from ₹10,000 for a website, ₹40,000 for AI automation or an Android and iOS app (six to ten weeks), ₹50,000 for an online store and ₹60,000 for custom software (six to twelve weeks). Five months of maintenance are free.",
+    "For IT services in Chhattisgarh, BtechWaleTech, a freelance group of three remote engineers, charges from ₹10,000 for a website, ₹40,000 for AI automation or an Android and iOS app (six to ten weeks), ₹50,000 for an online store and ₹60,000 for custom software (six to twelve weeks). Two months of maintenance are free.",
   snapshot: [
     { label: "Capital region", value: "Raipur and the planned capital Nava Raipur Atal Nagar, home to Mantralaya, the state secretariat and new IT and institutional zones" },
     { label: "Steel and metals", value: "SAIL's Bhilai Steel Plant, sponge iron and steel units around Raigarh and Raipur's Urla and Siltara industrial areas, and BALCO aluminium at Korba" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents that read tenders and purchase orders, answer customer questions in Hindi, draft quotations and route enquiries to the right person.",
     data: "Dashboards pulling from Tally, ERP exports and spreadsheets to show production, dispatch, bills pending and collections across plants and branches.",
     app: "Android and iOS apps from ₹40,000 for Chhattisgarh site supervisors, procurement agents, dealers and patients, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Updates, backups, fixes and monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Updates, backups, fixes and monitoring, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Chhattisgarh's industrial suppliers and service businesses often find that city agencies only build websites, while ERP vendors sell large packages they only partly use. As a freelance group of three engineers, we build the specific tool a contractor, mill or clinic needs, explain it in Hindi, and remain on WhatsApp after launch.",
@@ -219,7 +219,7 @@ const content: CityContent = {
       id: "maintenance-support-chhattisgarh",
       heading: "IT support and maintenance for businesses across Chhattisgarh",
       paragraphs: [
-        "IT support after launch keeps Chhattisgarh software secure, backed up and aligned with changing work. Every BtechWaleTech project includes five months of free maintenance once hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes such as new report columns or document types.",
+        "IT support after launch keeps Chhattisgarh software secure, backed up and aligned with changing work. Every BtechWaleTech project includes two months of free maintenance once hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes such as new report columns or document types.",
         "After that, plans start at ₹8,000 a month, or you can pay per request. We answer WhatsApp seven days a week, and anything that blocks billing or dispatch is handled first. Read more <a href='/about/'>about us</a>, see examples in the <a href='/portfolio/'>portfolio</a>, or explore other states on our <a href='/it-services/'>IT services index</a>.",
       ],
     },
@@ -292,7 +292,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "Five months of maintenance are free after hosting goes live. That covers bug fixes, security and library updates, backups, uptime and speed checks, and small changes like new fields or report columns. Afterwards, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp every day of the week.",
+        "Two months of maintenance are free after hosting goes live. That covers bug fixes, security and library updates, backups, uptime and speed checks, and small changes like new fields or report columns. Afterwards, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp every day of the week.",
     },
     {
       question: "How long does SEO take to work in Chhattisgarh?",

@@ -255,7 +255,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything sits in your name: the GitHub organisation, the Expo organisation, the Apple Developer and Google Play accounts, and any analytics or crash-reporting projects. We are invited members, and we leave cleanly when the project ends.`,
         `React Native projects built with Expo have a few credentials worth tracking. EAS can manage iOS distribution certificates and provisioning profiles and the Android upload keystore; we make sure those live under your Expo organisation, not a personal account. Google Play App Signing keeps the app signing key with Google, so a lost upload key can be reset. Push notification keys, API secrets and environment variables go into your secret store, and the handover document lists every one of them with where it lives.`,
-        `The written quote describes intellectual property and confidentiality terms; if you would like your attorney to review them, please do. At the end you can remove our access in minutes, and the release runbook lets any competent React Native developer cut the next version. Five months of free maintenance follow launch, then care from ${P.care} if you want us to stay.`,
+        `The written quote describes intellectual property and confidentiality terms; if you would like your attorney to review them, please do. At the end you can remove our access in minutes, and the release runbook lets any competent React Native developer cut the next version. Two months of free maintenance follow launch, then care from ${P.care} if you want us to stay.`,
       ],
     },
     {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Set up the monorepo and accounts", "You invite us to GitHub, Expo, Apple and Google. We create the shared package and the Expo app, and the first preview build follows."],
       ["Build feature by feature", "Each feature lands as pull requests you can review, then in a preview build on TestFlight and Play internal testing for hands-on checks."],
       ["Harden and release", "Tests, accessibility checks, crash reporting, store listings and submission. We handle reviewer feedback until both apps are approved."],
-      ["Update, hand over, maintain", "Over-the-air channels go live, the runbook is handed over, and five months of free maintenance begin, with optional care plans afterwards."],
+      ["Update, hand over, maintain", "Over-the-air channels go live, the runbook is handed over, and two months of free maintenance begin, with optional care plans afterwards."],
     ],
   },
   faqHeading: "React Native app development: questions from US teams",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "Do React Native apps support in-app purchases and subscriptions?", answer: "Yes. Digital subscriptions and premium features generally must use App Store and Google Play billing, which React Native reaches through maintained libraries, with receipts validated on your server. Physical goods and real-world services use card or wallet checkout instead. We confirm the current store policies at the start of each project." },
     { question: "Are React Native apps accessible to screen-reader users?", answer: "They can be. React Native exposes labels, roles, states and focus order to VoiceOver and TalkBack, and supports dynamic text sizes. We build those in from the first screen and test key flows with both screen readers. Whether your app meets a particular legal standard is a question for your own counsel." },
     { question: "Can you add AI features to our React Native app?", answer: `Yes. Typical additions are assistants that answer from your own content, document or photo summaries, and smarter search, built on an AI provider's API billed to your account. AI work starts from ${P.ai}. API keys stay on the server, and usage limits stop a single user from running up costs.` },
-    { question: "What does a React Native app development company do after launch?", answer: `Five months of free maintenance follow launch, covering fixes and compatibility updates. After that, care plans start at ${P.care} and cover React Native and Expo SDK upgrades, store policy changes, crash fixes and small improvements. Staying close to current versions keeps each upgrade small and inexpensive.` },
+    { question: "What does a React Native app development company do after launch?", answer: `Two months of free maintenance follow launch, covering fixes and compatibility updates. After that, care plans start at ${P.care} and cover React Native and Expo SDK upgrades, store policy changes, crash fixes and small improvements. Staying close to current versions keeps each upgrade small and inexpensive.` },
     { question: "What do you not handle on React Native projects?", answer: "We do not provide hardware, on-site visits, large device farms or legal advice about privacy and store policies. We are three developers, so we do not staff many parallel squads for very large programmes. Where a project needs something outside our range, we say so in the estimate instead of stretching." },
   ],
   related: {

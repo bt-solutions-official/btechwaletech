@@ -57,7 +57,7 @@ const samastipur: CityContent = {
     ai: "WhatsApp bots that reply in Hindi about batch timings, fees, rates or OPD days and pass real decisions to a person.",
     data: "Dashboards of litres collected per society, grain bought per season, admissions per course and dues outstanding.",
     app: "Android and iOS apps for coaching tests and attendance or dairy farmer payment slips, from ₹40,000, listed on Google Play and the App Store.",
-    maintenance: "No maintenance charge for five months after launch; after that, updates, backups and security care from ₹8,000 a month.",
+    maintenance: "No maintenance charge for two months after launch; after that, updates, backups and security care from ₹8,000 a month.",
   },
   whyUsIntro:
     "Samastipur clients tend to ask two things first: what will it cost, and will you still pick up the phone next year? Our answer is published starting prices, an itemised quote, WhatsApp replies every day of the week, and the domain, hosting, code and app accounts opened in your name. We also tell you when a feature is not worth paying for.",
@@ -170,7 +170,7 @@ const samastipur: CityContent = {
       heading: "Ownership and maintenance for Samastipur websites, apps and software",
       paragraphs: [
         "Many institutes and shops have lost a website because whoever built it held the domain in his own name. With us, the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are registered to you from the beginning, and all logins are handed over in writing.",
-        "For five months after launch, maintenance costs nothing. That period covers content and fee updates, backups, security and software updates, and regular checks that forms, payment links and WhatsApp buttons still work. Afterwards, continued maintenance starts at ₹8,000 a month if you want it, and you can take the code to another developer whenever you choose.",
+        "For two months after launch, maintenance costs nothing. That period covers content and fee updates, backups, security and software updates, and regular checks that forms, payment links and WhatsApp buttons still work. Afterwards, continued maintenance starts at ₹8,000 a month if you want it, and you can take the code to another developer whenever you choose.",
         "Coaching and school systems need extra care before admission season and exam results, and dairy software must never stop during collection. We schedule backups and reviews ahead of those peaks, and track Google and Apple policy changes so your app stays listed.",
       ],
     },
@@ -262,7 +262,7 @@ const samastipur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover content updates, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want to continue. You may take the code to any other developer at any time.",
+        "The first two months are free and cover content updates, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want to continue. You may take the code to any other developer at any time.",
     },
     {
       question: "Do you work in Dalsinghsarai, Rosera and Pusa as well?",

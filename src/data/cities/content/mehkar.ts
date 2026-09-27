@@ -57,7 +57,7 @@ const mehkar: CityContent = {
     ai: "WhatsApp assistants that reply in Marathi with the morning's crop rates, stock, fees or room availability and hand tricky chats to you.",
     data: "Season summaries of quintals bought per crop, dues by buyer and farmer, and enquiry sources for colleges and lodges.",
     app: "Android and iOS apps from ₹40,000 for retailers re-ordering farm inputs or parents following a coaching class, published on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for rate updates, backups and security fixes.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for rate updates, backups and security fixes.",
   },
   whyUsIntro:
     "Mehkar customers compare carefully and talk to each other, so a bad job gets known quickly. We keep things plain: starting prices on our site, a written quote with every item priced, WhatsApp replies on all seven days, and the domain, hosting, code and store accounts registered to you. If something you ask for will not earn back its cost, we say so before you pay for it.",
@@ -177,7 +177,7 @@ const mehkar: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month once the five free months end",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month once the two free months end",
       ],
     },
     {
@@ -204,7 +204,7 @@ const mehkar: CityContent = {
       heading: "Ownership and maintenance of your Mehkar website or app",
       paragraphs: [
         "The domain, hosting, source code, Google Business Profile, and the Google Play and App Store developer accounts are registered in your name from the start. We work inside them with access you grant and can withdraw at any time. At handover you get a written list of every login, so the project never depends on one person's phone, ours included.",
-        "For five months after launch, maintenance costs nothing. That covers edits such as new rates or course dates, backups, security and software updates, and periodic checks that forms, payments and WhatsApp buttons still work. After that you decide: continue with us from ₹8,000 a month, let a family member or staff handle simple edits, or give the code to another developer. None of those choices needs our permission.",
+        "For two months after launch, maintenance costs nothing. That covers edits such as new rates or course dates, backups, security and software updates, and periodic checks that forms, payments and WhatsApp buttons still work. After that you decide: continue with us from ₹8,000 a month, let a family member or staff handle simple edits, or give the code to another developer. None of those choices needs our permission.",
         "Apps need one more kind of care. Google and Apple raise their minimum requirements every year, and an app that is never rebuilt can disappear for new users. We track those deadlines and schedule updates ahead of them. See our <a href=\"/services/web-development/\">web development service</a> for how sites are built to stay easy to maintain.",
       ],
     },
@@ -296,7 +296,7 @@ const mehkar: CityContent = {
     {
       question: "What maintenance do I get after my Mehkar site goes live?",
       answer:
-        "Five months of free maintenance: rate and content edits, backups, security updates and regular checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it another way, perhaps with your own staff. Since every account and the code are in your name, switching needs nobody's permission.",
+        "Two months of free maintenance: rate and content edits, backups, security updates and regular checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it another way, perhaps with your own staff. Since every account and the code are in your name, switching needs nobody's permission.",
     },
     {
       question: "Do you work with businesses in Lonar, Dongaon and Chikhli too?",

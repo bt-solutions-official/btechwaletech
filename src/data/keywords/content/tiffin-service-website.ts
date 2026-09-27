@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Website build time", "1–2 weeks for up to 100 pages"],
     ["Built around", "Monthly subscribers, not one-off orders"],
     ["Written quote", "Itemised, in about 2 working days"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "7", label: "Days a week we reply on WhatsApp, like your kitchen" },
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to a written, itemised quote" },
-    { value: "5", label: "Months of free maintenance after going live" },
+    { value: "2", label: "Months of free maintenance after going live" },
   ],
   answer: {
     heading: "What does a tiffin service website need to manage monthly customers?",
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Renewal reminders", "You remember", "Automated", "Automated on WhatsApp"],
       ["Delivery area check", "Customer asks", "Sometimes", "Locality check from your routes"],
       ["Office and PG plans", "Same form", "Often not supported", "Separate page and enquiry form"],
-      ["Monthly cost", "Free", "Subscription per month or per order", `Hosting; care from ${P.care} after 5 free months`],
+      ["Monthly cost", "Free", "Subscription per month or per order", `Hosting; care from ${P.care} after 2 free months`],
       ["Who holds customer data", "You, in scattered sheets", "The software provider", "You, on your own hosting"],
       ["Changing the way it works", "Easy but manual", "Only what the vendor allows", "Anything, quoted per change"],
     ],
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a tiffin service website costs",
-    note: `A tiffin website with weekly menus, plan pages, pause and skip forms, a delivery area check, payment links and bulk plan pages starts at ${P.site} and usually takes 1–2 weeks. When you want customers to log in, see meals left, pause from their account and pay renewals online, that is a custom web app from ${P.software}, usually 6–12 weeks. A customer app for Android and iOS starts at ${P.app}. A WhatsApp assistant for menus and pauses starts at ${P.ai}. Care after five free months starts at ${P.care}. All figures are starting prices.`,
+    note: `A tiffin website with weekly menus, plan pages, pause and skip forms, a delivery area check, payment links and bulk plan pages starts at ${P.site} and usually takes 1–2 weeks. When you want customers to log in, see meals left, pause from their account and pay renewals online, that is a custom web app from ${P.software}, usually 6–12 weeks. A customer app for Android and iOS starts at ${P.app}. A WhatsApp assistant for menus and pauses starts at ${P.ai}. Care after two free months starts at ${P.care}. All figures are starting prices.`,
   },
   guideLabel: "Tiffin service website guide",
   guide: [
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
         `WhatsApp number for orders and a domain, if you have one.`,
       ],
       after: [
-        `When the site launches, the domain, hosting, code and every subscriber record are in your name. You get five months of free maintenance for fixes, plan changes and new area pages; after that, care starts at ${P.care} if you want it, or you can manage the site yourself or move it to anyone else. Payment and change terms are in your written quote and our <a href='/terms/'>terms</a>.`,
+        `When the site launches, the domain, hosting, code and every subscriber record are in your name. You get two months of free maintenance for fixes, plan changes and new area pages; after that, care starts at ${P.care} if you want it, or you can manage the site yourself or move it to anyone else. Payment and change terms are in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -348,7 +348,7 @@ const content: FreelanceContent = {
       ["Approve the rules on paper", "We write out your plan, skip, pause and renewal rules as they will appear on the site. You correct them before any page is designed."],
       ["Build and test with real menus", "On a private link you update a menu from the sheet, submit a skip, check a locality and make a test payment from your own phone."],
       ["Launch and announce", "The site goes live on your domain. We set up Search Console and your Business Profile, and give you a link and message to share with subscribers."],
-      ["Five months of free care", "Plan changes, new areas, menu tweaks and fixes are covered free for five months. Customer accounts or an app can be added later without rebuilding."],
+      ["Two months of free care", "Plan changes, new areas, menu tweaks and fixes are covered free for two months. Customer accounts or an app can be added later without rebuilding."],
     ],
   },
   faqHeading: "Tiffin service website questions",
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
     { question: "When should I add customer logins to my tiffin website?", answer: "When tracking pauses, skips and payments by hand takes more than an hour a day, or when meal-count disputes become common. For many kitchens that happens between 100 and 200 subscribers. Customer accounts add OTP login, meals left, one-tap skip, online renewal and an automatic kitchen count for tomorrow." },
     { question: "Can the tiffin website be in Hindi or a regional language?", answer: "Yes. We build separate language pages for Hindi, Marathi, Tamil, Bengali or others so each can appear in search. You supply or approve the translated text, so dish names and rules read exactly as you want. Many kitchens keep dish names in both English and the regional script." },
     { question: "Who owns the tiffin service website?", answer: "You do. The domain, hosting and code are in your name, and every subscriber's details and history belong to your kitchen. If you later hire someone else or want to move the site, you can do so without asking us." },
-    { question: "What support do I get after the website launches?", answer: `Five months of free maintenance cover fixes, plan and price changes, new delivery areas and menu page tweaks. After that, care starts at ${P.care} if you want it, or you can manage the site yourself, since menus and plans update from your sheet.` },
+    { question: "What support do I get after the website launches?", answer: `Two months of free maintenance cover fixes, plan and price changes, new delivery areas and menu page tweaks. After that, care starts at ${P.care} if you want it, or you can manage the site yourself, since menus and plans update from your sheet.` },
     { question: "How long does it take to build a tiffin service website?", answer: "A tiffin website with menus, plans, forms and payment links usually takes one to two weeks once you share your plans, rules, areas and photos. Customer accounts take six to twelve weeks, and apps take six to ten weeks. You can start taking online sign-ups within days of approving content." },
     { question: "Should I choose a local developer or a remote freelance team?", answer: "A local developer can meet you, while we work remotely over WhatsApp and calls in English and Hindi and do not make visits. What matters more is whether the developer understands subscriptions, pauses and meal counts. Quotes vary widely, so ask each bidder exactly how skipped meals and renewals will be handled." },
     { question: "How do I pay for my tiffin website?", answer: "In India, you pay by UPI or bank transfer, in stages written into your quote, and nothing is billed until you approve the quote in writing. If you are based outside India, we quote in US dollars and accept Wise, bank wire or PayPal." },

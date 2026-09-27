@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering build, data and automation" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission on your sales" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Headless or custom logic from", value: `${P.software}` },
       { label: "COD handling", value: "WhatsApp confirmation, pincode rules, prepaid nudges" },
       { label: "Measurement", value: "GA4 purchase events, ad pixels, server-side events, UTMs" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
         ["Scale content", "SEO for collections and products, content pages", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly"],
         ["Headless or custom", "Custom storefront or business logic on a commerce back end", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Shopping app", "Android and iOS app for repeat buyers", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
-        ["Upkeep", "Updates, fixes, app audits after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Upkeep", "Updates, fixes, app audits after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Accounts set up in the brand's name", "Store, domain, analytics, ad pixels, WhatsApp Business and shipping accounts are owned by you. We join as collaborators with the access each task needs."],
       ["Build pages and checkout on a preview", "Product page template, landing sections, checkout, COD rules and policies appear on a preview link you test on your own phone."],
       ["Test orders and tracking before launch", "Prepaid and COD orders to different pincodes, confirmation messages, GA4 purchase events and server-side events are checked end to end."],
-      ["Launch, then review the numbers", "After launch we look at conversion, RTO and repeat data with you. Five months of maintenance are included, then optional from " + P.care + "."],
+      ["Launch, then review the numbers", "After launch we look at conversion, RTO and repeat data with you. Two months of maintenance are included, then optional from " + P.care + "."],
     ],
   },
   faqHeading: "D2C website development: questions founders ask",
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Do you run our ads or influencer campaigns too?", answer: "No. We build the store, landing pages, automations and analytics that make ads measurable and profitable, and we can set up pixels and tracking. Running ad accounts, creative production, photography and influencer management are best handled by your marketing team or a specialist performance marketer working alongside us." },
     { question: "D2C website kaise banaye jo ads se sales laaye?", answer: `Ad ka traffic seedha matching product page par bhejiye, page fast rakhiye, price, delivery date aur COD availability upar dikhaiye, aur checkout chhota rakhiye jisme UPI pehle ho. COD order ko WhatsApp par confirm karwaiye taaki RTO kam ho. Hamare saath D2C store ${P.shop} se shuru hota hai, saare accounts aapke naam par.` },
     { question: "Who owns the D2C store and its data?", answer: "You do. The store account, domain, analytics property, ad pixels, WhatsApp Business account and shipping aggregator account are registered to your brand, with us added as collaborators. At handover you receive every login, a list of apps and their costs, and notes on how the automations work, so you can switch developers at any time." },
-    { question: "What does D2C website maintenance cover after launch?", answer: `Maintenance covers theme and app updates, fixing broken flows, checking that pixels and GA4 events still fire, small design changes and periodic app audits to keep speed up. BtechWaleTech includes five months of free maintenance after launch; after that it continues from ${P.care} if you want it.` },
+    { question: "What does D2C website maintenance cover after launch?", answer: `Maintenance covers theme and app updates, fixing broken flows, checking that pixels and GA4 events still fire, small design changes and periodic app audits to keep speed up. BtechWaleTech includes two months of free maintenance after launch; after that it continues from ${P.care} if you want it.` },
   ],
   related: {
     heading: "More for D2C brands and online sellers",
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Building or fixing a D2C store? Send us your numbers",
-    note: `Message us your products, channels and COD share on WhatsApp. In about two working days you get a staged, itemised quote, with D2C stores from ${P.shop}, accounts in your name and five months of free maintenance.`,
+    note: `Message us your products, channels and COD share on WhatsApp. In about two working days you get a staged, itemised quote, with D2C stores from ${P.shop}, accounts in your name and two months of free maintenance.`,
   },
 };
 

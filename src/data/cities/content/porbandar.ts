@@ -30,8 +30,8 @@ const porbandar: CityContent = {
     eyebrow: "Porbandar · Gujarat",
     h1: "Websites, local SEO and WhatsApp automation for Porbandar's coast, port and bazaar",
     lede:
-      "We are a remote team of three engineers who build websites, Google Maps profiles, online stores and WhatsApp workflows for Porbandar's seafood processors, boat and net suppliers, hotels, tour operators, clinics, schools and bazaar shops. Starting prices are public, the domain and code belong to you, and maintenance is free for five months after launch.",
-    pills: ["Sites from ₹10,000", "Gujarati and English pages", "Export-ready catalogues", "Hotel and tour bookings", "Five months' free care"],
+      "We are a remote team of three engineers who build websites, Google Maps profiles, online stores and WhatsApp workflows for Porbandar's seafood processors, boat and net suppliers, hotels, tour operators, clinics, schools and bazaar shops. Starting prices are public, the domain and code belong to you, and maintenance is free for two months after launch.",
+    pills: ["Sites from ₹10,000", "Gujarati and English pages", "Export-ready catalogues", "Hotel and tour bookings", "Two months' free care"],
   },
   quickAnswer:
     "A website for a Porbandar business starts at ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We work remotely with no Porbandar office, and you own the domain, hosting and code.",
@@ -51,10 +51,10 @@ const porbandar: CityContent = {
     ai: "WhatsApp assistants that reply in Gujarati or Hindi about room availability, tour timings or stock, then pass bookings to a person.",
     data: "Dashboards showing catch purchases, processed output, export shipments or hotel occupancy by month.",
     app: "Android and iOS apps for boat-owner accounts, hotel housekeeping checklists or school fee reminders, from ₹40,000 with release on both stores.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay per change.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay per change.",
   },
   whyUsIntro:
-    "Porbandar business owners often get a website through a Rajkot agency or a nephew in Ahmedabad, and then struggle to get changes made. We publish starting prices, itemise every quote, answer on WhatsApp every day of the week and keep maintaining the site for five months without charge.",
+    "Porbandar business owners often get a website through a Rajkot agency or a nephew in Ahmedabad, and then struggle to get changes made. We publish starting prices, itemise every quote, answer on WhatsApp every day of the week and keep maintaining the site for two months without charge.",
   pricingIntro:
     "All figures below are starting prices. A seafood exporter with product sheets for twenty species needs more work than a single-doctor clinic near Sudamapuri, and the quote reflects that. You see each line priced separately and nothing is billed without your written approval.",
   sections: [
@@ -176,7 +176,7 @@ const porbandar: CityContent = {
       paragraphs: [
         "A familiar story in coastal towns: a business paid for a website, the developer moved to another city, and nobody knows who controls the domain. When renewal fails, the site and email vanish, and export buyers who saved that address start bouncing emails. Getting control back can take weeks.",
         "We prevent that by registering the domain in your name and setting up hosting on your own account. At launch you receive every login, the complete source code and a short note on how things are set up. You may move to another developer whenever you like, without an exit fee or our permission.",
-        "The first five months after launch include free maintenance: updates, bug fixes, security patches, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change if your site rarely needs editing between seasons.",
+        "The first two months after launch include free maintenance: updates, bug fixes, security patches, backups and uptime checks. After that, plans start at ₹8,000 a month, or you can pay per change if your site rarely needs editing between seasons.",
       ],
     },
   ],
@@ -261,7 +261,7 @@ const porbandar: CityContent = {
         "You do. The domain is registered in your name, hosting is on your account and you receive every login and the full source code at launch. You can change developers at any time without an exit fee.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose. A maintenance plan starts at ₹8,000 a month and covers updates, backups, security and small edits. If your site rarely changes, skip the plan and pay only for the changes you request.",
     },

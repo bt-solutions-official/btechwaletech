@@ -7,7 +7,7 @@ const murwaraKatni: CityContent = {
   meta: {
     title: "Katni Website & SEO Services | Sites from ₹10,000",
     description:
-      "Websites, Hindi SEO and WhatsApp automation for Katni's lime, marble, dal mill, transport and retail businesses. Static sites from ₹10,000, five months free upkeep.",
+      "Websites, Hindi SEO and WhatsApp automation for Katni's lime, marble, dal mill, transport and retail businesses. Static sites from ₹10,000, two months free upkeep.",
     keywords: [
       "website development team in Katni",
       "web designer Katni",
@@ -30,11 +30,11 @@ const murwaraKatni: CityContent = {
     eyebrow: "Katni (Murwara) · Madhya Pradesh",
     h1: "Websites, apps, SEO and AI automation for Katni's lime kilns, dal mills, marble yards and Gole Bazar traders",
     lede:
-      "Three engineers working remotely with businesses in Katni, the city of lime: mineral and marble suppliers, dal and rice mills in Lamtara, transporters around the railway junction, and the shops, schools and clinics of Gole Bazar, Mission Chowk and Madhav Nagar. Published starting prices, direct access to the developers and five months of free maintenance after launch.",
+      "Three engineers working remotely with businesses in Katni, the city of lime: mineral and marble suppliers, dal and rice mills in Lamtara, transporters around the railway junction, and the shops, schools and clinics of Gole Bazar, Mission Chowk and Madhav Nagar. Published starting prices, direct access to the developers and two months of free maintenance after launch.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Mineral supplier sites", "Dal mill dealer portals", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Katni, a business website with us starts from ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Katni office, and maintenance is free for five months.",
+    "In Katni, a business website with us starts from ₹10,000 and usually goes live within one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Katni office, and maintenance is free for two months.",
   snapshot: [
     { label: "Official name", value: "Murwara, commonly called Katni; headquarters of Katni district, about 90 km from Jabalpur" },
     { label: "Known as", value: "The city of lime, for its limestone, lime kilns and cement-linked mining" },
@@ -51,7 +51,7 @@ const murwaraKatni: CityContent = {
     ai: "WhatsApp auto-replies that send today's rate list, stock status or dispatch updates in Hindi while you are at the mill or the mine.",
     data: "Daily dispatch, tonnage and payment figures pulled into one phone-friendly dashboard instead of three registers.",
     app: "Android and iOS apps for drivers, field staff and dealers, one Flutter or React Native codebase published on both stores from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Katni's economy runs on minerals, milling and the railway, yet very few of its firms have a website a purchase manager in Nagpur or Raipur would trust. Most local web work is either a one-page template or a costly agency job from a bigger city. We publish our starting prices, reply on WhatsApp seven days a week and hand over full ownership at launch.",
@@ -177,7 +177,7 @@ const murwaraKatni: CityContent = {
       paragraphs: [
         "Many Katni businesses have lost a website because the person who built it registered the domain in their own name and then disappeared. Without that login, you cannot renew, update or move the site.",
         "We register the domain and hosting in your name from day one. At launch you receive all logins, the complete code and a simple guide explaining how things are set up. You are free to move to another developer at any time with no exit fee.",
-        "Maintenance is free for five months after launch, covering content and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, it starts from ₹8,000 a month, or you can simply call us when you need something changed.",
+        "Maintenance is free for two months after launch, covering content and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, it starts from ₹8,000 a month, or you can simply call us when you need something changed.",
       ],
     },
     {
@@ -268,7 +268,7 @@ const murwaraKatni: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content changes, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long before SEO brings calls in Katni?",

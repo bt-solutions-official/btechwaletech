@@ -56,7 +56,7 @@ const kendujhar: CityContent = {
     ai: "WhatsApp assistants in Odia and English that handle bookings, availability and routine questions and pass the rest to you.",
     data: "Fleet dashboards showing trips, tonnage, fuel, breakdowns and payments due per vehicle and per client.",
     app: "Android and iOS apps for truck drivers logging trips or for hotel guests booking rooms, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Businesses around the mines deal with large numbers and tight paperwork, and they expect the same discipline from anyone they hire. We publish starting prices, send itemised written quotes, reply on WhatsApp every day of the week, and put your domain, hosting, code and app store accounts in your own name. If a feature will not pay back, we say so first.",
@@ -188,7 +188,7 @@ const kendujhar: CityContent = {
       heading: "Ownership and maintenance after your Kendujhar site or app goes live",
       paragraphs: [
         "Too many small-town websites stop working because the developer kept the domain in their own name and then disappeared. We prevent this from the start: domain, hosting, source code, Google Business Profile and app store developer accounts are registered to you, and you hold the passwords.",
-        "Each launch includes five months of free maintenance for bug fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular work. If your site rarely changes, we will honestly say you may not need a monthly plan.",
+        "Each launch includes two months of free maintenance for bug fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular work. If your site rarely changes, we will honestly say you may not need a monthly plan.",
         "At handover you get a plain-language note describing the setup, hosting and renewal dates, so any developer can continue later without rebuilding.",
         "Apps need yearly updates as Google and Apple change their requirements. Maintenance covers these so your app stays listed without last-minute emergencies.",
       ],
@@ -277,7 +277,7 @@ const kendujhar: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Every launch includes five months of free maintenance for fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular work. If your site rarely changes, we will tell you a monthly plan may not be needed.",
+        "Every launch includes two months of free maintenance for fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular work. If your site rarely changes, we will tell you a monthly plan may not be needed.",
     },
     {
       question: "Do you build websites for mining service contractors?",

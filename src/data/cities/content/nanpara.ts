@@ -56,7 +56,7 @@ const nanpara: CityContent = {
     ai: "Hindi WhatsApp assistants that answer freight, rate and appointment questions and pass real decisions to you.",
     data: "Dashboards of trips, freight dues, paddy arrivals and mill output by day and by season.",
     app: "Android and iOS apps for truck drivers to update trip status or for retailers to re-order stock, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "No maintenance charge for five months after launch; from month six, care plans for updates and backups start at ₹8,000 a month.",
+    maintenance: "No maintenance charge for two months after launch; from month three, care plans for updates and backups start at ₹8,000 a month.",
   },
   whyUsIntro:
     "Traders in Nanpara know the cost of a vague promise, because border business runs on exact paperwork. We work the same way: published starting prices, an itemised written quote, WhatsApp replies seven days a week, and your domain, hosting, code and app store accounts registered in your name. If something will not help your business, we say it.",
@@ -177,7 +177,7 @@ const nanpara: CityContent = {
       heading: "Ownership and maintenance for Nanpara websites and apps",
       paragraphs: [
         "Ownership stays with you. Your email holds the domain, the hosting bill carries your name, the source code is delivered to you, and your own accounts own the Google Business Profile, the Play Console listing and the Apple developer account. We hand over a written list of every username at the end.",
-        "For the first five months after going live, maintenance costs you nothing. That covers text and photo changes, backups, security fixes and routine tests of checkout, enquiry forms and WhatsApp buttons. Later, stay with us from ₹8,000 a month, look after it in-house, or give the code to a different developer with no permission needed from us.",
+        "For the first two months after going live, maintenance costs you nothing. That covers text and photo changes, backups, security fixes and routine tests of checkout, enquiry forms and WhatsApp buttons. Later, stay with us from ₹8,000 a month, look after it in-house, or give the code to a different developer with no permission needed from us.",
         "Apps need a yearly update even when nothing is broken, because Google and Apple keep raising minimum versions. We track these deadlines and update early so your app stays listed.",
       ],
     },
@@ -269,7 +269,7 @@ const nanpara: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Nothing is charged for maintenance in the first five months after launch; that period includes edits to text and photos, backups, security fixes and testing of carts, forms and WhatsApp buttons. Afterwards, paid care from ₹8,000 a month is optional. Because code and accounts are registered to you, moving to another developer is always your decision.",
+        "Nothing is charged for maintenance in the first two months after launch; that period includes edits to text and photos, backups, security fixes and testing of carts, forms and WhatsApp buttons. Afterwards, paid care from ₹8,000 a month is optional. Because code and accounts are registered to you, moving to another developer is always your decision.",
     },
     {
       question: "Do you work in Bahraich, Mihinpurwa and Tulsipur too?",

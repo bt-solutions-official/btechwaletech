@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised in about 2 working days"],
     ["Database default", "PostgreSQL with Prisma or TypeORM"],
     ["Handover", "Repo, OpenAPI spec, runbook, test suite"],
-    ["Support", `5 months free, then from ${P.care}`],
+    ["Support", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who review each other's pull requests" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace commission added to your bill" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Microservice split, when justified", note: "Extract one busy module into a service over NATS, RabbitMQ, Kafka or gRPC, only after a modular monolith has shown where the seams are.", size: "md" },
       { name: "Mobile app back ends", note: `APIs for Flutter or React Native apps with push notifications and file uploads. Apps themselves start from ${P.app}.`, href: "/hire-flutter-developer/", size: "sm" },
       { name: "Test suite and CI for an existing Nest app", note: "Unit tests with provider overrides, end-to-end tests with Supertest and a pipeline that blocks broken merges.", href: "/ci-cd-pipeline-setup/", size: "sm" },
-      { name: "NestJS maintenance", note: `Dependency updates, Node.js upgrades, monitoring and small features after the free five months, from ${P.care}.`, size: "sm" },
+      { name: "NestJS maintenance", note: `Dependency updates, Node.js upgrades, monitoring and small features after the free two months, from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -285,7 +285,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own all of it. The repository lives in your GitHub, GitLab or Bitbucket organisation, the servers and databases sit in your cloud account, and domains, API keys and third-party accounts are registered to your business.`,
         `We work through access you grant and can revoke. On handover you receive the code, the OpenAPI spec, database migrations, environment variable list (without secrets in plain text), a runbook covering deployment, rollback, backups and common failures, and a module map explaining where each business feature lives.`,
-        `After launch there are five months of free maintenance: bug fixes, dependency updates and small changes. After that, maintenance starts from ${P.care} (${P.careUsd}). Many clients later hire an in-house developer; the structure of a NestJS app, plus our notes, makes that onboarding far quicker than with an unstructured codebase.`,
+        `After launch there are two months of free maintenance: bug fixes, dependency updates and small changes. After that, maintenance starts from ${P.care} (${P.careUsd}). Many clients later hire an in-house developer; the structure of a NestJS app, plus our notes, makes that onboarding far quicker than with an unstructured codebase.`,
       ],
     },
     {
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
         ["Express to NestJS restructuring", "Audit, module plan, phased move, tests", "Quoted after a paid audit", "Depends on codebase"],
         ["AI feature on a NestJS back end", "Document parsing, chat or classification module", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
         ["Mobile app using the API", "Flutter or React Native, store publishing", `${P.app} · ${P.appUsd}`, "6–10 weeks"],
-        ["Maintenance after 5 free months", "Updates, monitoring, small features", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", "Updates, monitoring, small features", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
       ["Foundations sprint", "Repository in your account, CI, auth, roles, database schema, migrations and OpenAPI docs set up first, so every later module slots in cleanly."],
       ["Module by module", "Each business module ships to staging with tests and updated docs. You or your app developers try it through Swagger UI and give feedback weekly."],
       ["Queues, integrations, hardening", "Background jobs, third-party integrations, rate limits, logging, alerts and backups are added and tested under realistic load."],
-      ["Launch and handover", "Production deployment in your cloud, runbook, module map and walkthrough call, followed by five months of free maintenance."],
+      ["Launch and handover", "Production deployment in your cloud, runbook, module map and walkthrough call, followed by two months of free maintenance."],
     ],
   },
   faqHeading: "Hire NestJS developer: frequently asked questions",
@@ -424,7 +424,7 @@ const content: FreelanceContent = {
     { question: "How do you test a NestJS application?", answer: "We write unit tests for services, using Nest's testing module to replace external providers with mocks, and end-to-end tests that send real HTTP requests with Supertest. We focus on what would hurt most: permissions, money and stock logic, and webhook handling. The tests run in a CI pipeline on every merge request." },
     { question: "Can a NestJS backend serve AI features?", answer: `Yes. NestJS can call LLM APIs, run retrieval over your documents and queue long AI jobs through BullMQ. If you need to host your own Python model, we usually put it behind a small FastAPI service that the NestJS app calls. AI automation work with us starts from ${P.ai}.` },
     { question: "Where should a NestJS app be hosted?", answer: "For most new products, a Docker image on a cloud VM or container service with managed PostgreSQL and Redis is enough and affordable. AWS, Google Cloud and Azure all work. Kubernetes makes sense only with several services and someone to operate the cluster. Everything is set up in your own cloud account." },
-    { question: "What happens after the NestJS project is delivered?", answer: `You get five months of free maintenance covering bug fixes, dependency updates and small changes. After that, maintenance starts from ${P.care} (${P.careUsd}) and includes Node.js and NestJS upgrades, security patches, monitoring and minor features. Larger additions are quoted separately as new milestones.` },
+    { question: "What happens after the NestJS project is delivered?", answer: `You get two months of free maintenance covering bug fixes, dependency updates and small changes. After that, maintenance starts from ${P.care} (${P.careUsd}) and includes Node.js and NestJS upgrades, security patches, monitoring and minor features. Larger additions are quoted separately as new milestones.` },
     { question: "How do payments work when I hire your NestJS developers?", answer: "After you approve an itemised quote in writing, work is billed by milestone. Indian clients pay by UPI or bank transfer and receive GST invoices; international clients are quoted in USD and pay by Wise, bank wire or PayPal. Nothing is billed before written approval, and payment terms are set out in the quote." },
     { question: "Will you sign an NDA before we share our product idea?", answer: "Send us your NDA before sharing sensitive details and we will review it; confidentiality terms are agreed in writing before work starts. Code and data stay in your own accounts throughout, which limits exposure regardless of paperwork. Anything specific about confidentiality for your project goes into the written quote." },
     { question: "Can you work with our in-house developers?", answer: "Yes. We can build the foundations and first modules, then pair with your developers through pull request reviews, a module map and recorded walkthroughs so they can take over. We can also stay on for reviews only. Working hours overlap with Indian office hours, and we reply on WhatsApp seven days a week." },

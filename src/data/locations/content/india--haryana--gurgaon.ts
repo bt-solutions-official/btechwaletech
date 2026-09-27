@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "LLM-based agents with retrieval, guardrails and evaluation, connected to your CRM, ticketing, email and WhatsApp, and priced from ₹40,000.",
     data: "Warehousing and BI that combine product, CRM, finance and ad data into dashboards leadership trusts, with clear metric definitions.",
     app: "Android and iOS apps from ₹40,000 for Gurgaon startups, field teams and customers, built in Flutter or React Native on your existing APIs and published on both stores.",
-    maintenance: "Five months of free support after launch, then monthly retainers from ₹8,000 for updates, monitoring, security patches and small features.",
+    maintenance: "Two months of free support after launch, then monthly retainers from ₹8,000 for updates, monitoring, security patches and small features.",
   },
   whyUsIntro:
     "Gurgaon teams have usually met the large vendor who sends juniors and the solo freelancer who vanishes. BtechWaleTech is three senior-minded engineers who review before they build, document decisions, work in your Git repository and hand over everything.",
@@ -218,13 +218,13 @@ const content: CityContent = {
       heading: "How long do consulting and transformation engagements take in Gurgaon?",
       paragraphs: [
         "Consulting and transformation engagements in Gurgaon usually start with a one to two week review, followed by delivery phases of two to twelve weeks each. An architecture or cloud review produces its report in about two weeks; the first fixes are often live within a month. Broader transformation programmes run three to six months in phases.",
-        "We work in your tools: your Git repository, issue tracker, Slack or Teams and cloud accounts. Each phase has a written scope, weekly demos, pull requests you can review, and documentation updated as we go. The first five months of support after each launch are free.",
+        "We work in your tools: your Git repository, issue tracker, Slack or Teams and cloud accounts. Each phase has a written scope, weekly demos, pull requests you can review, and documentation updated as we go. The first two months of support after each launch are free.",
       ],
       list: [
         "Review: 1 to 2 weeks, written report",
         "Quick wins: 2 to 4 weeks",
         "Builds: 6 to 12 weeks per phase",
-        "Support: 5 months free, then from ₹8,000 a month",
+        "Support: 2 months free, then from ₹8,000 a month",
       ],
     },
     {
@@ -303,7 +303,7 @@ const content: CityContent = {
     },
     {
       question: "What support do you provide after launch?",
-      answer: "Five months of free support after each launch, covering fixes, small changes, security updates, backups and monitoring. After that, retainers start from ₹8,000 a month, or you can engage us only when needed. We respond on WhatsApp seven days a week.",
+      answer: "Two months of free support after each launch, covering fixes, small changes, security updates, backups and monitoring. After that, retainers start from ₹8,000 a month, or you can engage us only when needed. We respond on WhatsApp seven days a week.",
     },
     {
       question: "Can you sign an NDA and follow our security policies?",

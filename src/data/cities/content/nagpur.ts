@@ -31,11 +31,11 @@ const nagpur: CityContent = {
     eyebrow: "Nagpur · Maharashtra",
     h1: "Websites and software for Nagpur, from Itwari traders to MIHAN suppliers",
     lede:
-      "Nagpur sits at the centre of the country's road and rail map, and its businesses sell across Vidarbha and well beyond. We are three engineers who build websites, stores, logistics tools and WhatsApp automations for them, at published prices, with your name on the domain and five months of free maintenance after launch.",
+      "Nagpur sits at the centre of the country's road and rail map, and its businesses sell across Vidarbha and well beyond. We are three engineers who build websites, stores, logistics tools and WhatsApp automations for them, at published prices, with your name on the domain and two months of free maintenance after launch.",
     pills: ["From ₹10,000", "Marathi and Hindi SEO", "Logistics and dispatch tools", "UPI stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Nagpur businesses, our websites start at ₹10,000 for a static site and ₹20,000 for a 299+ page site built for Google search. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, you own the domain, hosting and code, and the first five months of maintenance are free.",
+    "For Nagpur businesses, our websites start at ₹10,000 for a static site and ₹20,000 for a 299+ page site built for Google search. Online stores start at ₹50,000 and custom software at ₹60,000. We are a remote team of three engineers, you own the domain, hosting and code, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Old trading core", value: "Itwari, Mahal and Gandhibagh for wholesale grain, cloth and household goods; Sitabuldi for retail" },
     { label: "Newer commercial areas", value: "Dharampeth, Ramdaspeth, Civil Lines, Sadar, Manish Nagar and the Wardha Road corridor" },
@@ -52,7 +52,7 @@ const nagpur: CityContent = {
     ai: "WhatsApp assistants that quote freight, confirm appointments and answer stock questions in Marathi or Hindi, then hand real conversations to your team.",
     data: "Dashboards that pull trips, orders, collections and branch sales into one view for owners who currently wait for a weekly Excel sheet.",
     app: "Android and iOS apps for drivers, field staff and repeat customers on highways with weak signal, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free fixes, updates, backups and monitoring for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free fixes, updates, backups and monitoring for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Nagpur has plenty of web agencies around Dharampeth and Sadar, and many more freelancers on classified sites, but almost none of them list prices. We do. We answer on WhatsApp seven days a week, put everything in your name, and the person you speak to on the first call is one of the three people who will build your site.",
@@ -177,7 +177,7 @@ const nagpur: CityContent = {
       paragraphs: [
         "A common Nagpur story: the business paid for a website, the developer moved to Pune, and the domain renewal notice went to an email nobody checks. The site goes down during the busiest month of the year and nobody has the login. We set up every project so this cannot happen.",
         "The domain and hosting are registered in your name from day one. At launch you receive every login, the source code and a short explanation of where everything is. You are free to hand the site to another developer at any time, with no fee and no delay.",
-        "Maintenance is free for five months after launch and covers updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you pay only for the changes you ask for. See our <a href=\"/services/web-development/\">web development service</a> for everything that is included.",
+        "Maintenance is free for two months after launch and covers updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it continues from ₹8,000 a month, or you pay only for the changes you ask for. See our <a href=\"/services/web-development/\">web development service</a> for everything that is included.",
       ],
     },
     {
@@ -271,9 +271,9 @@ const nagpur: CityContent = {
         "You do. We register the domain and open the hosting account in your name and hand over every login and the full source code at launch. You can move to another developer at any time without paying an exit fee.",
     },
     {
-      question: "What does the five months of free maintenance include?",
+      question: "What does the two months of free maintenance include?",
       answer:
-        "Content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks for five months after launch, at no cost. Afterwards you can continue from ₹8,000 a month or pay only when you need a change.",
+        "Content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks for two months after launch, at no cost. Afterwards you can continue from ₹8,000 a month or pay only when you need a change.",
     },
     {
       question: "Do you work with businesses in Wardha, Amravati, Chandrapur and nearby towns?",

@@ -7,7 +7,7 @@ const ahmedabad: CityContent = {
   meta: {
     title: "IT Services in Ahmedabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, Gujarati and English SEO, online stores and WhatsApp automation for Ahmedabad traders, GIDC units and pharma suppliers. From ₹10,000, 5 months free upkeep.",
+      "Websites, Gujarati and English SEO, online stores and WhatsApp automation for Ahmedabad traders, GIDC units and pharma suppliers. From ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Ahmedabad",
       "web design team Ahmedabad",
@@ -31,11 +31,11 @@ const ahmedabad: CityContent = {
     eyebrow: "Ahmedabad · Gujarat",
     h1: "Websites and automation for Ahmedabad's traders, factories and brands",
     lede:
-      "We are three remote engineers building catalogue websites, Gujarati and English SEO, online stores and WhatsApp workflows for Ahmedabad businesses, from Kalupur cloth merchants to Naroda manufacturers and SG Highway consultancies. Prices are published, quotes are itemised, and maintenance is free for five months after launch.",
+      "We are three remote engineers building catalogue websites, Gujarati and English SEO, online stores and WhatsApp workflows for Ahmedabad businesses, from Kalupur cloth merchants to Naroda manufacturers and SG Highway consultancies. Prices are published, quotes are itemised, and maintenance is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Gujarati and English SEO", "B2B catalogues for GIDC", "UPI and Razorpay stores", "WhatsApp automation"],
   },
   quickAnswer:
-    "An Ahmedabad business can get a static website from us starting at ₹10,000, or a 299+ page SEO website from ₹20,000, usually within one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Ahmedabad office, and five months of maintenance are free.",
+    "An Ahmedabad business can get a static website from us starting at ₹10,000, or a 299+ page SEO website from ₹20,000, usually within one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Ahmedabad office, and two months of maintenance are free.",
   snapshot: [
     { label: "Commercial roads", value: "CG Road, Ashram Road, SG Highway, Prahladnagar, Sindhu Bhavan Road and Satellite" },
     { label: "Old city markets", value: "Kalupur cloth market, Ratanpole, Manek Chowk, Relief Road and Bhadra, within the UNESCO-listed historic city" },
@@ -52,10 +52,10 @@ const ahmedabad: CityContent = {
     ai: "AI assistants that answer price, stock and dispatch questions in Gujarati, Hindi or English and pass real negotiations to your team.",
     data: "Dashboards built from Tally, ERP or spreadsheets so owners see receivables, dispatches and dealer sales every morning.",
     app: "Android and iOS apps for field sales, dealer ordering and service bookings that run smoothly on budget phones, starting at ₹40,000 in six to ten weeks.",
-    maintenance: "Updates, backups, security patches and uptime monitoring, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and uptime monitoring, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Ahmedabad business owners compare prices carefully, and they are right to. Most local web firms still quote only after a meeting. We publish our starting prices, send a written itemised quote, answer on WhatsApp seven days a week, and include five months of maintenance after launch.",
+    "Ahmedabad business owners compare prices carefully, and they are right to. Most local web firms still quote only after a meeting. We publish our starting prices, send a written itemised quote, answer on WhatsApp seven days a week, and include two months of maintenance after launch.",
   pricingIntro:
     "Ahmedabad web design quotes range widely, and many come with hidden yearly renewals. Below are our genuine starting prices. The final figure depends on pages, products and features, and you see it item by item before any work begins.",
   sections: [
@@ -171,7 +171,7 @@ const ahmedabad: CityContent = {
       paragraphs: [
         "Hidden renewals are a common complaint in Ahmedabad. A business pays for a cheap website, then gets an annual bill for “server and maintenance” that exceeds the original price, and discovers that the domain is registered to the developer. Leaving means losing the site.",
         "We work the other way. The domain is registered in your name, hosting is set up in your account and billed to you directly by the provider, and at launch you receive every login, the source code and a short note explaining the setup. You can move to any other developer at any time, with no exit fee.",
-        "The first five months of maintenance after launch are free: text and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
+        "The first two months of maintenance after launch are free: text and price updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const ahmedabad: CityContent = {
     {
       question: "Are there yearly renewal charges?",
       answer:
-        "Only the domain and hosting renewals, which you pay directly to the provider at their price. We add no markup. Maintenance is free for five months after launch, and after that it is optional, from ₹8,000 a month.",
+        "Only the domain and hosting renewals, which you pay directly to the provider at their price. We add no markup. Maintenance is free for two months after launch, and after that it is optional, from ₹8,000 a month.",
     },
     {
       question: "Will I own the website and code?",

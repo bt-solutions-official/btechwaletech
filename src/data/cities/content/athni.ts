@@ -56,7 +56,7 @@ const athni: CityContent = {
     ai: "WhatsApp assistants that reply in Kannada, Marathi or Hindi on sizes, stock, rates and timings, and pass real orders to you.",
     data: "Season dashboards of cane delivered by factory, payments pending, chappal orders by city and grape dispatches by buyer.",
     app: "Android and iOS apps for Athni dealers, transporters or schools, published on Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "No charge for upkeep in the first five months after launch; after that, maintenance runs from ₹8,000 a month.",
+    maintenance: "No charge for upkeep in the first two months after launch; after that, maintenance runs from ₹8,000 a month.",
   },
   whyUsIntro:
     "Athni owners deal with factory payments that come late and middlemen who take a cut, so they are rightly wary of paying for anything unclear. Our answer is transparency: starting prices on the page, a written itemised quote, WhatsApp replies every day, and the domain, hosting, code and store accounts in your name from day one.",
@@ -170,7 +170,7 @@ const athni: CityContent = {
       heading: "Ownership, handover and maintenance for Athni projects",
       paragraphs: [
         "Everything we build is legally and practically yours. The domain is booked on your email, hosting is billed to you, the full source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts are registered to you. At handover you get a written list of every login.",
-        "For five months after launch, maintenance costs nothing. That includes text and price changes, new photos, backups, security and software updates, and checks that forms, payments and WhatsApp links are working. After those five months, continue with us from ₹8,000 a month, or take the work in-house or to another developer without any exit fee.",
+        "For two months after launch, maintenance costs nothing. That includes text and price changes, new photos, backups, security and software updates, and checks that forms, payments and WhatsApp links are working. After those two months, continue with us from ₹8,000 a month, or take the work in-house or to another developer without any exit fee.",
         "Apps need a technical update every year because Google and Apple regularly raise their minimum requirements. We watch those deadlines and ship updates in time, so your app stays listed in both stores.",
       ],
     },
@@ -262,7 +262,7 @@ const athni: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch include free maintenance: edits, backups, security and software updates, and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you choose to continue. Since the code and accounts are already yours, you are free to switch developers at any time.",
+        "The first two months after launch include free maintenance: edits, backups, security and software updates, and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you choose to continue. Since the code and accounts are already yours, you are free to switch developers at any time.",
     },
     {
       question: "Do you work in Ugar, Kagwad, Shedbal and Ainapur?",

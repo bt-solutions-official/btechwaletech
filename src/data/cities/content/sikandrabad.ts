@@ -57,7 +57,7 @@ const sikandrabad: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and admission questions in Hindi and hand serious enquiries to you.",
     data: "Dashboards of daily dispatch, pending payments, cold-store occupancy or milk volumes by route.",
     app: "Android and iOS apps for dairy route collection, dealer re-orders or school notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Sikandrabad owners deal every week with buyers from Delhi, Noida and Ghaziabad who expect proper paperwork. We work the same way: published starting prices, an itemised written quote, replies on WhatsApp seven days a week, and every domain, hosting account, code repository and store listing registered to you.",
@@ -179,7 +179,7 @@ const sikandrabad: CityContent = {
       heading: "Ownership and maintenance for Sikandrabad websites and apps",
       paragraphs: [
         "A common complaint in towns around the NCR is a website held hostage: the developer registered the domain in his own name, then stopped answering or demanded a large renewal fee. We avoid that from day one. The domain, hosting, source code, Google Business Profile and app store developer accounts are all registered to you, and login details are handed over in writing.",
-        "Maintenance is free for the first five months after launch. That covers content and price updates, backups, security patches, software updates and regular checks that forms, WhatsApp links and payments still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer whenever you choose.",
+        "Maintenance is free for the first two months after launch. That covers content and price updates, backups, security patches, software updates and regular checks that forms, WhatsApp links and payments still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer whenever you choose.",
         "Apps need yearly attention because Google and Apple keep updating their requirements. We track those changes and release updates in time so your app is not pulled from the stores.",
       ],
     },
@@ -276,7 +276,7 @@ const sikandrabad: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, WhatsApp links and payments. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and accounts to another developer at any time without any lock-in.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, WhatsApp links and payments. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take your code and accounts to another developer at any time without any lock-in.",
     },
     {
       question: "Do you work with businesses in Dankaur, Dadri and Bulandshahr too?",

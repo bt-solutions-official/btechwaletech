@@ -354,7 +354,7 @@ const content: FreelanceContent = {
         ["Rebuild for multi-market structure", "New site with market folders and hreflang built in", `${P.seoSite} (${P.seoSiteUsd})`, "3–5 weeks"],
         ["Export ecommerce store", "Catalogue, currency per market, card and wallet checkout", `${P.shop} (${P.shopUsd})`, "4–8 weeks"],
         ["Market site, small scope", "Static site up to 100 pages for one market", `${P.site} (${P.siteUsd})`, "1–2 weeks"],
-        ["After launch care", "Updates, backups, monitoring after free period", `${P.care} (${P.careUsd})`, "After 5 free months"],
+        ["After launch care", "Updates, backups, monitoring after free period", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
     },
   ],

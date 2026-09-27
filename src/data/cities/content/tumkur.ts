@@ -35,7 +35,7 @@ const tumkur: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada and English", "Vendor sites for KIADB units", "Coconut product stores", "College and hospital pages"],
   },
   quickAnswer:
-    "In Tumakuru, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-person engineering team with no Tumakuru office, and every site gets five months of free maintenance.",
+    "In Tumakuru, our static business websites start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and a custom web app at ₹60,000. We are a remote three-person engineering team with no Tumakuru office, and every site gets two months of free maintenance.",
   snapshot: [
     { label: "Location", value: "About 70 km north-west of Bengaluru, on the Bengaluru–Hubballi rail line" },
     { label: "Industrial corridor", value: "Vasanthanarasapura, a node of the Chennai–Bengaluru industrial corridor, with a planned Japanese township" },
@@ -52,7 +52,7 @@ const tumkur: CityContent = {
     ai: "WhatsApp replies in Kannada or English that handle rate, stock, admission or appointment questions around the clock.",
     data: "Production, arrival and sales records turned into a phone-readable dashboard for owners and partners.",
     app: "Android and iOS apps for student notices, patient tokens or dealer ordering, built in Flutter or React Native and listed on both stores.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Tumakuru is close enough to Bengaluru that many owners assume they must pay Bengaluru agency rates for a decent website. We are a remote team of three with published prices, WhatsApp replies seven days a week and a rule that the client owns the domain, hosting and code.",
@@ -187,7 +187,7 @@ const tumkur: CityContent = {
       paragraphs: [
         "A common story in Tumakuru: someone built the company website, registered the domain in his own name and later moved to Bengaluru or changed his number. The business cannot update anything, the domain lapses and the site disappears from search.",
         "We avoid that from day one. The domain and hosting are registered in your name, and at launch you receive every login, the full source code and a short note explaining the setup. You can move to any other developer whenever you choose, without paying an exit fee.",
-        "Maintenance is free for five months after launch: content and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
+        "Maintenance is free for two months after launch: content and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed. Our <a href=\"/services/web-development/\">web development page</a> lists what each build includes.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const tumkur: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "For five months after launch, we handle text and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch, we handle text and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in Tiptur, Sira, Madhugiri and Bengaluru too?",

@@ -56,7 +56,7 @@ const najibabad: CityContent = {
     ai: "WhatsApp assistants in Hindi that reply to rate, stock and appointment questions at night and hand real decisions back to the owner.",
     data: "Crushing-season dashboards showing tonnage, trips, dues by mill and credit outstanding with village retailers.",
     app: "Android and iOS apps from ₹40,000 for dealer re-orders, driver trip logs or school notices, published on Google Play and the App Store under your account.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups, renewals and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups, renewals and security patches.",
   },
   whyUsIntro:
     "Traders in Najibabad tend to decide on trust built over years, not on a slick presentation. So we keep things plain: starting prices on the page, an itemised quote in writing, WhatsApp replies every day of the week, and your domain, hosting, code and app store accounts registered in your own name from day one.",
@@ -176,7 +176,7 @@ const najibabad: CityContent = {
       heading: "You own it: domains, code and maintenance after launch",
       paragraphs: [
         "A common complaint we hear from small towns is a website that vanished when the developer stopped answering, because the domain was in the developer's name. We register your domain, hosting, code repository and Google Play and App Store accounts in your name, and hand over every password in writing.",
-        "After launch you get five months of free maintenance: fixes, small content changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, and you can stop it whenever you like, or move the work to another developer with everything you need already in hand.",
+        "After launch you get two months of free maintenance: fixes, small content changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, and you can stop it whenever you like, or move the work to another developer with everything you need already in hand.",
         "For a Najibabad shop or clinic, this matters more than any design choice. A simple site kept current for five years is worth more than an elaborate one that goes stale in six months. We would rather build the smaller version and keep it working.",
       ],
     },
@@ -264,7 +264,7 @@ const najibabad: CityContent = {
     {
       question: "What happens after my Najibabad website goes live?",
       answer:
-        "You get five months of free maintenance covering fixes, small edits, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be stopped anytime. Your domain, hosting, code and store accounts stay in your name, so you are never locked in with us.",
+        "You get two months of free maintenance covering fixes, small edits, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be stopped anytime. Your domain, hosting, code and store accounts stay in your name, so you are never locked in with us.",
     },
     {
       question: "Do you work with businesses in Kotdwar, Nagina and Bijnor too?",

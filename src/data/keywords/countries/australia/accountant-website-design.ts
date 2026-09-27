@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Multi-office SEO build", `From ${P.seoSite}`],
     ["Custom client portal", `From ${P.software}`],
     ["Written quote", "Itemised, about 2 working days"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
       heading: "How long does an accounting practice website take?",
       paragraphs: [
         `Most accountant website design projects take 1 to 2 weeks of build time once copy and credentials are confirmed. The part that takes longer is usually internal: partners reviewing service wording, gathering staff photos, and deciding on fee wording.`,
-        `A realistic sequence for a practice planning ahead of tax time: discovery call and quote in about two working days; a week for you to gather profiles, fee notes and badges; one to two weeks of build with a staging link; a round of partner review; launch; then five months of free maintenance while the first season runs. If you want to launch before July, start the conversation in April or May so nobody is rushing copy during your busiest weeks.`,
+        `A realistic sequence for a practice planning ahead of tax time: discovery call and quote in about two working days; a week for you to gather profiles, fee notes and badges; one to two weeks of build with a staging link; a round of partner review; launch; then two months of free maintenance while the first season runs. If you want to launch before July, start the conversation in April or May so nobody is rushing copy during your busiest weeks.`,
         `A custom client portal runs on its own track of 6 to 12 weeks and can go live after the website, which lets the public site launch on time while the portal is tested with a handful of friendly clients first. That staged approach also means your team learns the portal before the July rush rather than during it.`,
       ],
     },
@@ -249,7 +249,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your practice owns all of it. The domain, hosting account, analytics, Google Business Profile, portal cloud account and source code are created in the practice's name or transferred to it, and you receive every login at launch.`,
         `This matters more for accountants than for many businesses, because the website may connect to systems holding client data. If a developer controls the hosting or the portal storage, they effectively control part of your client records. We avoid that by setting up accounts under your email addresses, adding ourselves as users with the access we need, and removing that access whenever you ask.`,
-        `We also document the build: where the site is hosted, how forms route, what the portal stores, and how to restore from backup. If you later move to another developer, they start from that document instead of guessing. Ongoing work after the five free months is optional, and our <a href='/terms/'>terms</a> explain how agreements are handled.`,
+        `We also document the build: where the site is hosted, how forms route, what the portal stores, and how to restore from backup. If you later move to another developer, they start from that document instead of guessing. Ongoing work after the two free months is optional, and our <a href='/terms/'>terms</a> explain how agreements are handled.`,
       ],
     },
     {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Picture a hypothetical two-partner practice in Geelong with a bookkeeper and a graduate. They do individual returns, sole trader and small company work, BAS for about half their business clients, and a handful of SMSFs. Their current site is five years old, says little about services, and asks clients to email documents.`,
         `A sensible accountant website design plan for them would be the static plan from ${P.site}: home, team with each registered agent's details, six service pages, a fees page with ranges the partners choose, a tax-time page, a software page with their Xero status, and contact. The contact form collects only name, phone, email and service type. Document upload links into the portal their practice software already offers, so no custom portal is needed yet.`,
-        `Before launch, we would map every old page to its nearest new page with redirects, set up Google Search Console, and check the Business Profile. After launch, the five free months cover the first tax season, and the partners review which pages generated calls. If demand from Ballarat or the Surf Coast grows, suburb pages and the SEO plan from ${P.seoSite} are the next step. This is an illustration of how we would scope the work, not a description of a real client.`,
+        `Before launch, we would map every old page to its nearest new page with redirects, set up Google Search Console, and check the Business Profile. After launch, the two free months cover the first tax season, and the partners review which pages generated calls. If demand from Ballarat or the Surf Coast grows, suburb pages and the SEO plan from ${P.seoSite} are the next step. This is an illustration of how we would scope the work, not a description of a real client.`,
       ],
     },
     {
@@ -430,7 +430,7 @@ const content: FreelanceContent = {
       ["Content gathering", "You send team profiles, fee wording, registration numbers and partner badges. We draft service pages from your notes for partners to correct."],
       ["Build on staging", "We build on a private staging link, testing forms, booking links and portal routes on phones and desktops, with speed and accessibility checks."],
       ["Partner review and launch", "Partners approve credentials and fee wording. We set up redirects, Search Console and analytics, then launch in your hosting account."],
-      ["Five months of care", "Free maintenance covers updates, fixes and seasonal page edits. Afterwards you can manage it yourself or continue with a monthly plan."],
+      ["Two months of care", "Free maintenance covers updates, fixes and seasonal page edits. Afterwards you can manage it yourself or continue with a monthly plan."],
     ],
   },
   faqHeading: "Accountant website design: questions practices ask",
@@ -450,10 +450,10 @@ const content: FreelanceContent = {
     { question: "How do we get our practice mentioned in AI answers?", answer: "AI assistants tend to quote short, clear answers from pages that explain one thing well. Service pages with plain question-and-answer blocks, consistent practice details across your website and Business Profile, and structured data all help. There are no guarantees, but pages written this way are more quotable than vague marketing copy." },
     { question: "Can we run a tax-time campaign through the website?", answer: "Yes. We build a tax-time landing page with a what-to-bring checklist, appointment types, booking link and fee wording, ready before 1 July. It stays at the same address every year so it keeps its search history, and we update dates and details each June as part of maintenance or a small paid update." },
     { question: "Do you write the tax content on our service pages?", answer: "We draft structure and plain-English wording from notes you supply, but tax substance must come from your practitioners. We are developers, not tax advisers, so every technical statement on your pages is reviewed and approved by your team before launch. That keeps the content accurate and in your voice." },
-    { question: "Can staff update fees, hours and team profiles themselves?", answer: "Yes. We set up simple editing for the parts that change often, such as fees, hours, holiday closures, staff profiles and seasonal notices, and record a short walkthrough video. Larger changes like new page types are easier for us to handle, and small edits are covered during the five free months of maintenance." },
+    { question: "Can staff update fees, hours and team profiles themselves?", answer: "Yes. We set up simple editing for the parts that change often, such as fees, hours, holiday closures, staff profiles and seasonal notices, and record a short walkthrough video. Larger changes like new page types are easier for us to handle, and small edits are covered during the two free months of maintenance." },
     { question: "Is our client data safe on the website?", answer: "The website is designed to hold as little client data as possible. Contact forms collect only basic details, uploads go through a secure portal, admin accounts use multi-factor sign-in, and the site runs on HTTPS with security headers. Privacy obligations remain your practice's responsibility, so have your adviser confirm the setup suits your policies." },
     { question: "Do you sign an NDA before seeing our client workflows?", answer: "If your practice needs a confidentiality agreement, tell us at the start and we will discuss it before you share anything sensitive. In most cases we do not need to see real client data at all, only examples of your processes with names removed. Any agreed terms are recorded in your written quote." },
-    { question: "What happens after the five free months of maintenance?", answer: `You can look after the site yourself, move it to another developer with full documentation, or keep us on from ${P.care} a month for updates, backups, badge refreshes and seasonal page edits. Nothing renews automatically without your written approval, and the terms and refund policy pages explain how agreements work.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You can look after the site yourself, move it to another developer with full documentation, or keep us on from ${P.care} a month for updates, backups, badge refreshes and seasonal page edits. Nothing renews automatically without your written approval, and the terms and refund policy pages explain how agreements work.` },
     { question: "Can you build an app for our accounting clients?", answer: `Yes. We build Android and iOS apps from ${P.app} for things like receipt capture, document requests or appointment reminders, published under your own developer accounts. Many practices find their accounting software's existing apps are enough, so we check that first before recommending a custom build.` },
     { question: "Do you also build websites for law firms and mortgage brokers?", answer: "Yes. Professional services share a need for trust signals and careful intake, though each has its own rules. We have separate guides for Australian law firms and mortgage brokers, covering legal advertising limits and credit licence disclosures, and practices sometimes refer each other once they see the process." },
   ],

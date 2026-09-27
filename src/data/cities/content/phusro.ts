@@ -32,10 +32,10 @@ const phusro: CityContent = {
     h1: "Web, app, SEO and automation services for Phusro's coalfield suppliers, shops, schools and clinics",
     lede:
       "We are three remote engineers building websites, Google listings, contractor profiles and WhatsApp tools for Phusro and the Bermo coal belt. We work with transporters and CCL suppliers, hardware and spare-parts dealers, private schools and tutors, clinics and pharmacies, and shops serving Dhori, Kargali, Kathara, Jaridih and Bokaro Thermal.",
-    pills: ["Websites from ₹10,000", "Hindi-first pages", "Contractor and supplier profiles", "School and clinic sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Hindi-first pages", "Contractor and supplier profiles", "School and clinic sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "A Phusro business can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Phusro, and maintenance is free for five months.",
+    "A Phusro business can get a static website from us starting at ₹10,000, ready in one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no office in Phusro, and maintenance is free for two months.",
   snapshot: [
     { label: "Status", value: "Nagar parishad and the only statutory town in Bermo subdivision of Bokaro district, about 35 km from the district headquarters" },
     { label: "Coal", value: "Surrounded by Central Coalfields' Dhori, Bokaro and Kargali, and Kathara areas, with open-cast and underground mines" },
@@ -52,7 +52,7 @@ const phusro: CityContent = {
     ai: "WhatsApp replies for rates, stock, admissions or OPD timings in Hindi, with orders and urgent patients sent straight to you.",
     data: "Dashboards for truck trips, diesel use, sales by item or fee collection, built from your current sheets and registers.",
     app: "Android and iOS apps for drivers, supervisors and delivery staff that work offline in patchy mining areas, from ₹40,000 on both stores.",
-    maintenance: "Free fixes, updates and backups for five months after launch, then care from ₹8,000 a month or paid per task.",
+    maintenance: "Free fixes, updates and backups for two months after launch, then care from ₹8,000 a month or paid per task.",
   },
   whyUsIntro:
     "Phusro is a working town built around coal and power. Its customers are mining staff, contractors, power-station employees and families from dozens of colonies and villages, and more of them now check a business on their phone before visiting. We build clear, honest websites and listings, publish our starting prices and reply on WhatsApp every day.",
@@ -190,7 +190,7 @@ const phusro: CityContent = {
       paragraphs: [
         "A common problem in smaller towns is a website built by someone who kept the domain and hosting in his own name. When that person moves away or stops answering, the business owner cannot change a single phone number.",
         "We register the domain and hosting in your name. At launch you receive all passwords, the full code and a short note on how the setup works. You can move to another developer at any time, and there is no exit fee.",
-        "For five months after launch, maintenance is free: text and price updates, fixes, security patches, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when you need something done and pay just for that.",
+        "For two months after launch, maintenance is free: text and price updates, fixes, security patches, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when you need something done and pay just for that.",
         "Nothing about the site depends on us being around. If you ever want to manage small edits yourself, we show your staff how to change text, prices and photographs in a short screen-sharing session.",
         "We also keep a simple record of what was changed and when. If you later hire someone else, that log and the handover note let them pick up the work in hours rather than weeks.",
       ],
@@ -277,7 +277,7 @@ const phusro: CityContent = {
         "You do. We register the domain and hosting in your name and hand over every login and the full code at launch. You can change developers at any time without an exit fee.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You decide. Maintenance continues from ₹8,000 a month for updates, backups, security and small changes, or you message us only when something needs doing and pay for that task alone.",
     },

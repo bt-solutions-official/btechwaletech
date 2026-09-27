@@ -56,7 +56,7 @@ const sirhind: CityContent = {
     ai: "WhatsApp assistants that reply in Punjabi, Hindi or English on prices, stock and timings, then hand real decisions to you.",
     data: "Dashboards of enquiries, dispatches, dealer dues and seasonal sales that owners can read on a phone.",
     app: "Android and iOS apps for dealer orders or college notices, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Sirhind business owners tend to buy after a proper conversation and expect the seller to stand behind the work. We publish starting prices, write out every line of the quote, reply on WhatsApp all week, and keep your domain, hosting, code and store accounts registered to you. When a feature will not earn its cost, we tell you plainly.",
@@ -187,7 +187,7 @@ const sirhind: CityContent = {
       heading: "Ownership, maintenance and IT services around Sirhind: Bassi Pathana, Mandi Gobindgarh, Amloh",
       paragraphs: [
         "Everything we build is yours in name and in practice. The domain is registered on your email, hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you get a written sheet of every login, so nobody, including us, can hold your business hostage.",
-        "For five months after launch, upkeep is included free. We update prices and photos, take backups, apply security and version updates, and test your forms, payment and WhatsApp links from time to time. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you like. Apps also need a yearly rebuild because Google and Apple keep raising their minimum requirements, and we plan for that early.",
+        "For two months after launch, upkeep is included free. We update prices and photos, take backups, apply security and version updates, and test your forms, payment and WhatsApp links from time to time. After that you choose: stay with us from ₹8,000 a month, manage it yourself, or pass the code to any developer you like. Apps also need a yearly rebuild because Google and Apple keep raising their minimum requirements, and we plan for that early.",
         "We work across the district and beyond: Bassi Pathana, Mandi Gobindgarh with its steel trade, Amloh, Khamanon, and on to Rajpura, Khanna, Patiala, Mohali and Ludhiana. A business serving several of these towns can have a page for each, but each page must carry real facts: whether you have a branch there, delivery times, villages covered and the number to call. We do not clone pages and swap town names.",
         "Unsure where to start? Send two lines on WhatsApp about your business. Sometimes the answer is a full website or app; sometimes it is just fixing your map pin, which you can do yourself, and we will say so.",
       ],
@@ -271,7 +271,7 @@ const sirhind: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are covered free: price and photo edits, backups, security and version updates, and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it yourself, or move to another developer, since the code and accounts are already yours.",
+        "The first two months after launch are covered free: price and photo edits, backups, security and version updates, and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month, manage it yourself, or move to another developer, since the code and accounts are already yours.",
     },
     {
       question: "Do you work in Mandi Gobindgarh, Bassi Pathana and Amloh too?",

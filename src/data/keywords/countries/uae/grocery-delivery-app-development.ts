@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Integrations", "Your POS or ERP for stock, prices and promotions"],
     ["Delivery modes", "Scheduled slots, express, click and collect"],
     ["Published under", "Your Google Play and App Store accounts"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting the platform" },
     { value: "4", label: "Apps in a full grocery platform" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a grocery delivery app development company in Dubai build, and what does it cost?",
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a grocery delivery app costs",
-    note: `A customer grocery app MVP on Android and iOS starts from ${P.app}. The parts that make grocery different, such as POS or ERP stock sync, picker app, driver app, slot capacity and the operations dashboard, are quoted as custom software from ${P.software}, usually in phases. A web shop sharing the same back end starts from ${P.shop}. After five months of free maintenance, support starts from ${P.care}. Store developer fees are paid by you: Google Play's one-time US$25 and Apple's US$99 a year. Your quote itemises every part.`,
+    note: `A customer grocery app MVP on Android and iOS starts from ${P.app}. The parts that make grocery different, such as POS or ERP stock sync, picker app, driver app, slot capacity and the operations dashboard, are quoted as custom software from ${P.software}, usually in phases. A web shop sharing the same back end starts from ${P.shop}. After two months of free maintenance, support starts from ${P.care}. Store developer fees are paid by you: Google Play's one-time US$25 and Apple's US$99 a year. Your quote itemises every part.`,
   },
   guideLabel: "Grocery delivery app guide for UAE supermarkets",
   guide: [
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         "Analytics track searches with no results, abandoned baskets and substitution rates.",
       ],
       after: [
-        `Five months of free maintenance cover fixes and small adjustments after launch, while real shoppers and pickers use the platform. New phases are quoted separately. For store-side delivery tools beyond grocery, see <a href='/uae/logistics-app-development/'>logistics app development in Dubai</a>.`,
+        `Two months of free maintenance cover fixes and small adjustments after launch, while real shoppers and pickers use the platform. New phases are quoted separately. For store-side delivery tools beyond grocery, see <a href='/uae/logistics-app-development/'>logistics app development in Dubai</a>.`,
       ],
     },
   ],
@@ -341,7 +341,7 @@ const content: FreelanceContent = {
         ["Picker app", "Batching, pick paths, scanning, weights, substitutions", P.software, "Phase 2"],
         ["Driver app and dispatch", "Routes by slot, proof of delivery, cash records", P.software, "Phase 2 or 3"],
         ["WhatsApp updates and approvals", "Substitution approvals, delivery messages", P.ai, "2–4 weeks"],
-        ["Maintenance after 5 free months", "Fixes, OS updates, integration upkeep", P.care, "Monthly"],
+        ["Maintenance after 2 free months", "Fixes, OS updates, integration upkeep", P.care, "Monthly"],
       ],
       hideSm: [3],
     },
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
       ["Pilot branch sync", "Stock, prices and promotions from one pilot branch flow into a test catalogue, so decisions are made on real data from the start."],
       ["App build in short cycles", "Customer app and picking screen built in weekly demos, tested by your staff on real devices inside the pilot store."],
       ["Soft launch with loyal shoppers", "Staff and invited loyalty members order first while we watch picking times, substitutions and payment captures daily."],
-      ["Roll out and maintain", "More branches and phases follow the data. Five months of free maintenance cover fixes and platform updates after launch."],
+      ["Roll out and maintain", "More branches and phases follow the data. Two months of free maintenance cover fixes and platform updates after launch."],
     ],
   },
   faqHeading: "Grocery delivery app development in Dubai: questions supermarkets ask",
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Is a remote team in India suitable for a UAE grocery platform?", answer: "For software, yes. India is only 1.5 hours ahead of the UAE, so working hours overlap almost fully, and we answer WhatsApp every day. We cannot visit stores, map aisles on site or install hardware, so your operations team walks a branch with us on video or shares floor plans. Everything else is done online." },
     { question: "How do we pay and what are the terms?", answer: "Quotes are in USD, and you can pay by Wise, bank wire or PayPal, with invoices issued from India. Nothing is billed before you approve a written quote setting out scope, phases and milestones. Any NDA or other commercial terms are agreed in writing before work starts; our terms and refund policy pages explain the general approach." },
     { question: "How do you protect customer data in a grocery app?", answer: "Customer data stays in your cloud account with encryption, role-based access and audit logs; drivers only see the delivery details they need. Marketing consent is recorded separately. The UAE's data protection law is Federal Decree Law No. 45 of 2021, and compliance is your responsibility, confirmed by your own lawyer. We build the controls that support it." },
-    { question: "What support do we get after the grocery app launches?", answer: `Five months of free maintenance after launch cover bug fixes, small adjustments and keeping integrations working. After that, maintenance starts from ${P.care}. New features such as express delivery, a dark store, extra branches or a driver app are quoted as separate phases and only billed after you approve the written quote.` },
+    { question: "What support do we get after the grocery app launches?", answer: `Two months of free maintenance after launch cover bug fixes, small adjustments and keeping integrations working. After that, maintenance starts from ${P.care}. New features such as express delivery, a dark store, extra branches or a driver app are quoted as separate phases and only billed after you approve the written quote.` },
     { question: "Can the platform support a dark store later?", answer: "Yes. We model each fulfilment location as a branch with its own stock, slots, zones and pickers, so a dark store is configured in the dashboard and its layout mapped for the picker app. Deciding whether to open one is a real-estate and staffing decision; we can provide order data by area to help you judge demand." },
   ],
   related: {

@@ -35,12 +35,12 @@ const content: FreelanceContent = {
     ["Contract style", "Fixed scope, paid by milestone"],
     ["Estimate", "Itemised, in about 2 working days"],
     ["Payment", "Quoted in USD · settle in USD or JPY by Wise or wire"],
-    ["After launch", `5 months free maintenance, then from ${P.care}`],
+    ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "2", label: "Platforms from one codebase: iOS and Android" },
     { value: "3", label: "Developers who know your app’s code" },
-    { value: "5", label: "Months of free fixes and updates after release" },
+    { value: "2", label: "Months of free fixes and updates after release" },
     { value: "2", label: "Working days to a written, itemised estimate" },
   ],
   answer: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "LINE alternatives and add-ons", note: "When a native app is more than you need, a LINE MINI App may do the job at lower cost.", href: "/japan/line-mini-app-development/", size: "md" },
       { name: "AI features", note: `Chat assistants, document reading and recommendations inside the app, from ${P.ai}.`, size: "sm" },
       { name: "MVPs for startups", note: "A narrow first version for investors or pilot users, built to grow later.", href: "/japan/mvp-development-for-startups/", size: "sm" },
-      { name: "App maintenance", note: `Five free months after launch, then OS updates and fixes from ${P.care}.`, size: "sm" },
+      { name: "App maintenance", note: `Two free months after launch, then OS updates and fixes from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -295,7 +295,7 @@ const content: FreelanceContent = {
       heading: "After launch: updates, OS changes and maintenance",
       paragraphs: [
         `Every app needs updates after launch: new iOS and Android versions, store policy changes, library updates and the fixes your users find. Plan for it from the start.`,
-        `We maintain the app free for five months after launch, covering bug fixes, small changes and compatibility updates. After that, maintenance starts at ${P.care}. New features are estimated separately, like the original build, so you always know what you are paying for.`,
+        `We maintain the app free for two months after launch, covering bug fixes, small changes and compatibility updates. After that, maintenance starts at ${P.care}. New features are estimated separately, like the original build, so you always know what you are paying for.`,
         `If your app grows into a continuing product, a longer arrangement with the same three developers may fit better than a string of separate projects. The <a href='/japan/offshore-development-center/'>offshore development center</a> page explains that model, and the <a href='/japan/mvp-development-for-startups/'>MVP development</a> page covers founders who want to test an idea first.`,
       ],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Approve scope and open accounts", "We agree the scope document; you open Apple and Google developer accounts, a Git organization and cloud accounts in your company’s name."],
       ["Build in milestones", "Each milestone ends with a build you install on your phone. You test against acceptance criteria and approve before it is invoiced."],
       ["Test and submit", "We test on real devices, check Japanese input and payment flows, prepare store listings with your Japanese text, and submit for review."],
-      ["Launch, hand over, maintain", `After launch you receive code, keys and documentation. Maintenance is free for five months, then from ${P.care}.`],
+      ["Launch, hand over, maintain", `After launch you receive code, keys and documentation. Maintenance is free for two months, then from ${P.care}.`],
     ],
   },
   faqHeading: "Outsource app development to India: questions from Japan",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Do you also build the admin panel and back end?", answer: `Yes. Most apps need a back end for accounts, data and notifications, and an admin panel for staff. We build both with the app, starting from ${P.software} for the back end and admin, so one team is responsible for the whole system.` },
     { question: "How do we test an app being built in India?", answer: "You install milestone builds through TestFlight on iPhone and a closed or internal test track on Google Play, test them against the acceptance criteria, and report issues with screenshots or recordings. We test on a range of real devices and fix issues before each milestone is approved." },
     { question: "What happens if we want to change the scope during the project?", answer: "Changes are written up as change requests with their effect on cost and schedule, and nothing extra is billed until you approve it in writing. Small adjustments that fit within the agreed scope are simply included. The process is set out in your estimate and our terms page." },
-    { question: "What maintenance does an app need after launch?", answer: `New iOS and Android versions, store policy changes, library updates and user-reported bugs all need attention. We maintain the app free for five months after launch, then maintenance starts at ${P.care}. New features are estimated separately.` },
+    { question: "What maintenance does an app need after launch?", answer: `New iOS and Android versions, store policy changes, library updates and user-reported bugs all need attention. We maintain the app free for two months after launch, then maintenance starts at ${P.care}. New features are estimated separately.` },
     { question: "Should we outsource to a Japanese company or to India?", answer: "Choose a Japanese app development company if your team works only in Japanese, wants in-person meetings or needs a large native team. Choose a team in India if someone on your side works in English, the scope is clear and you want direct access to developers at lower overhead." },
     { question: "What is the time difference for working with an app team in India?", answer: "India is 3.5 hours behind Japan, with no daylight saving time on either side. Our day starts around 12:30 or 13:00 JST, so weekday afternoons are good for calls and demos, and fixes made in our evening are usually ready for your next morning." },
     { question: "Can you add AI features to our app?", answer: `Yes. Common requests include in-app chat assistants answering from your own content, reading receipts or documents from photos, and recommendations. AI features start at ${P.ai}. We keep user data handling in mind and explain what each AI service stores.` },
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to outsource your app to India?",
-    note: `Send a short brief on WhatsApp. You will receive an itemised USD estimate with milestones in about two working days, apps from ${P.app}, published under your own store accounts, with the full source code handed over and five months of free maintenance.`,
+    note: `Send a short brief on WhatsApp. You will receive an itemised USD estimate with milestones in about two working days, apps from ${P.app}, published under your own store accounts, with the full source code handed over and two months of free maintenance.`,
   },
 };
 

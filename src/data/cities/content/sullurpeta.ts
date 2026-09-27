@@ -56,7 +56,7 @@ const sullurpeta: CityContent = {
     ai: "WhatsApp assistants in Telugu and Tamil that handle room enquiries, admission questions and order status, and hand real decisions to you.",
     data: "Dashboards of vehicle trips, worker attendance, room occupancy on launch weeks and fee collection by month.",
     app: "Android and iOS apps for contractors' site crews, a lodge's booking desk or a school's parent notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for content changes, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for content changes, backups and security updates.",
   },
   whyUsIntro:
     "Sullurpeta owners deal every week with Chennai buyers and industrial purchase teams, so they notice vague promises quickly. We publish starting prices, send a written line-by-line quote, answer WhatsApp on all seven days and register every domain, hosting account, code repository and app store listing in your own name.",
@@ -169,7 +169,7 @@ const sullurpeta: CityContent = {
       paragraphs: [
         "Because we are not in Sullurpeta, we rely on writing. After a first call about your business, you receive a page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links you can open on your phone and show to partners or family. Telugu and Tamil text is sent for your check before anything goes live.",
         "We answer WhatsApp every day of the week on Indian Standard Time. If something slips, we tell you when we know, not on the delivery date. Payments are tied to visible stages, and nothing is billed before you approve the quote in writing.",
-        "Ownership is not negotiable. Your domain, hosting, source code, Google Business Profile and Play Store and App Store accounts are registered in your name, and logins are handed over in writing. Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms and payments; after that it is from ₹8,000 a month if you want us to continue, and you can move to anyone else at any time.",
+        "Ownership is not negotiable. Your domain, hosting, source code, Google Business Profile and Play Store and App Store accounts are registered in your name, and logins are handed over in writing. Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms and payments; after that it is from ₹8,000 a month if you want us to continue, and you can move to anyone else at any time.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const sullurpeta: CityContent = {
     {
       question: "What maintenance is included after my site or app goes live?",
       answer:
-        "You get five months of free maintenance: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance is from ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time without any lock-in.",
+        "You get two months of free maintenance: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance is from ₹8,000 a month if you want us to continue. You can also take your code and move to another developer at any time without any lock-in.",
     },
     {
       question: "Do you work in Tada, Naidupet and Gudur as well?",

@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Port and pharma workflows", "AWS Mumbai / Hyderabad hosting", "WhatsApp replies 7 days"],
   },
   quickAnswer:
-    "Freelance software developers in Visakhapatnam from BtechWaleTech, a remote group of three engineers, build custom software from ₹60,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Delivery takes one to twelve weeks, an itemised quote comes in about two working days, and five months of maintenance are free.",
+    "Freelance software developers in Visakhapatnam from BtechWaleTech, a remote group of three engineers, build custom software from ₹60,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Delivery takes one to twelve weeks, an itemised quote comes in about two working days, and two months of maintenance are free.",
   snapshot: [
     { label: "Port and shipping", value: "Visakhapatnam Port and Gangavaram Port, with container, bulk and ore traffic handled by agents, CHAs and forwarders" },
     { label: "Heavy industry", value: "Visakhapatnam Steel Plant (RINL), HPCL refinery, BHEL, Hindustan Shipyard and the Eastern Naval Command" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents for Vizag firms that read shipping documents, answer rate and schedule questions on WhatsApp, and route leads to the right desk.",
     data: "Dashboards for Visakhapatnam traders and logistics firms showing shipments, dues, vehicle trips and stock without a month-end Excel chase.",
     app: "Android and iOS apps from ₹40,000 for Vizag drivers, technicians, patients and students, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Hosting, backups, updates and fixes for Visakhapatnam clients, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, updates and fixes for Visakhapatnam clients, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Visakhapatnam has large IT employers on the Rushikonda hills and plenty of small web shops, but mid-size Vizag businesses often struggle to get engineers who answer directly. We are a freelance group of three engineers who write the code, publish prices and reply on WhatsApp every day.",
@@ -202,7 +202,7 @@ const content: CityContent = {
       id: "cost-software-vizag",
       heading: "How much does software development cost in Visakhapatnam?",
       paragraphs: [
-        "Software development in Visakhapatnam with BtechWaleTech starts at ₹60,000 for custom web apps, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "Software development in Visakhapatnam with BtechWaleTech starts at ₹60,000 for custom web apps, ₹40,000 for AI automation or Android and iOS apps, ₹50,000 for ecommerce, ₹20,000 for a 299+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "The final quote depends on the number of screens and user roles, integrations such as Tally, WhatsApp or courier APIs, data migration, and deadlines. Our <a href='/pricing/'>pricing page</a> lists every plan.",
         "To keep a Vizag project affordable, launch the smallest version your team will actually use, prepare sample documents and data early, and leave nice-to-have features for a second phase once real users have given feedback.",
         "Payments are made only through UPI by scanning our QR code or by direct bank transfer, in INR, against milestones set out in the quote.",
@@ -214,7 +214,7 @@ const content: CityContent = {
       paragraphs: [
         "A Visakhapatnam software project with us moves through five steps: a discovery call, a written scope and itemised quote, design and build with a live preview, testing with your staff, and launch with handover. Most projects take one to twelve weeks depending on type, and you see progress every few days.",
         "Delays in Vizag projects usually come from outside the code: sample documents arriving late, a decision-maker travelling, or WhatsApp Business and payment accounts waiting for verification. We start those verifications on day one and keep a shared list of pending items so nothing is lost in voice notes.",
-        "At handover you receive credentials, the repository, a short technical guide and a walkthrough recording for staff. Five months of free maintenance begin once the system is live.",
+        "At handover you receive credentials, the repository, a short technical guide and a walkthrough recording for staff. Two months of free maintenance begin once the system is live.",
       ],
       list: [
         "Discovery call and sample documents",
@@ -257,7 +257,7 @@ const content: CityContent = {
     { question: "Do you build AI agents for WhatsApp?", answer: "Yes. Using the WhatsApp Business API through a provider account in your name, we build agents that answer approved questions, collect lead details and hand over to staff. Projects start from ₹40,000. Language model and messaging costs are billed directly to your accounts so running costs are transparent." },
     { question: "Do you build Android and iOS apps for Visakhapatnam businesses?", answer: "Yes. Android and iOS apps start from ₹40,000 and usually take six to ten weeks. One Flutter or React Native codebase serves both platforms, with login, forms, push notifications, an admin panel and publishing on Google Play and the App Store under your accounts. If a simpler progressive web app would do the job, we will tell you before you spend more." },
     { question: "Who owns the code and accounts?", answer: "You do. The domain, hosting, cloud account, WhatsApp Business account and Git repository are registered to your business wherever possible. We work with delegated access and hand over all credentials with a technical guide, so another developer can take over any time." },
-    { question: "What is covered in the free maintenance?", answer: "Five months of maintenance are included after launch. That covers bug fixes, small content updates, security and dependency updates, backups, uptime monitoring and performance checks. Afterwards, plans start from ₹8,000 a month, or you can request individual changes when needed." },
+    { question: "What is covered in the free maintenance?", answer: "Two months of maintenance are included after launch. That covers bug fixes, small content updates, security and dependency updates, backups, uptime monitoring and performance checks. Afterwards, plans start from ₹8,000 a month, or you can request individual changes when needed." },
     { question: "Can you work in Telugu?", answer: "Our calls and WhatsApp are in English and Hindi. For the product itself, we build Telugu interfaces, Telugu website pages and Telugu-aware AI agents, with text written or reviewed by a native speaker you approve. We test real Telugu and Tenglish messages before launch." },
     { question: "How soon will SEO help our Vizag business?", answer: "Local visibility can improve within weeks of fixing technical issues and optimising your Google Business Profile. Competitive terms in Visakhapatnam usually need three to six months or more. We send monthly Search Console reports and never promise specific positions." },
     { question: "Can you migrate our old software or website?", answer: "Yes, in most cases. We review the current system, export data, rebuild or move it to a modern stack and cloud account in your name, and redirect old URLs so search visibility is preserved. If the old system is locked by a previous vendor, we help you request the data." },

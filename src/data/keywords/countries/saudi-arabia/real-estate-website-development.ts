@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Languages", "Arabic RTL and English, separate URLs"],
     ["Listing compliance", "FAL and advertisement licence fields"],
     ["Leads go to", "The listing agent on WhatsApp and your CRM"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on your leads or sales" },
   ],
   answer: {
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, real estate website development in Saudi Arabia starts from ${P.site} for a single-project or small brokerage site, ${P.seoSite} for an SEO-led broker site with many district and property-type pages, and ${P.software} for a full listing platform with agent logins, admin approval, map search and portal feeds.`,
         `The price moves with a few clear drivers: how many listings and agents the system handles, whether agents add listings themselves or an admin does it, the number of portal feeds, CRM integration, and whether you want a mobile app for agents. Photo-heavy listings need a proper image pipeline, which is part of the platform scope.`,
-        `Running costs are hosting, a map provider's usage charges if traffic is high, and the domain, all billed to your accounts. Maintenance is free for five months after launch, then optional from ${P.care}. Ongoing SEO for district pages starts from ${P.seo}.`,
+        `Running costs are hosting, a map provider's usage charges if traffic is high, and the domain, all billed to your accounts. Maintenance is free for two months after launch, then optional from ${P.care}. Ongoing SEO for district pages starts from ${P.seo}.`,
       ],
       after: [`Quotes from Saudi agencies and other developers vary widely for property sites; line up the listing features first, then compare. General price context is on <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a>.`],
     },
@@ -336,7 +336,7 @@ const content: FreelanceContent = {
         ["Weeks 7–9", "Agent logins, lead routing, portal feeds", "Agent numbers, CRM access, portal specs", "End-to-end lead tests"],
         ["Weeks 10–11", "Arabic version polish, speed, SEO setup", "Approved Arabic copy", "Full bilingual site"],
         ["Launch week", "DNS, SSL, Search Console, handover", "Final approval", "Live site and admin guide"],
-        ["Next 5 months", "Fixes and small changes", "Requests on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes and small changes", "Requests on WhatsApp", "Free maintenance"],
       ],
       hideSm: [3],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting, map provider and code repository are set up under your company, with us added as users you can remove."],
       ["Prototype and listing admin", "You and your agents test search and add real listings from phones on a staging link, and we adjust based on their feedback."],
       ["Leads, feeds and bilingual polish", "WhatsApp routing, CRM logging, portal feeds and the reviewed Arabic version are completed and tested end to end."],
-      ["Launch and five free months", "The site goes live with Search Console set up. Maintenance is free for five months, then continues from " + P.care + " if you choose."],
+      ["Launch and two free months", "The site goes live with Search Console set up. Maintenance is free for two months, then continues from " + P.care + " if you choose."],
     ],
   },
   faqHeading: "Real estate website development in Saudi Arabia: questions answered",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us three listings and your district list",
-    note: `Share them on WhatsApp and tell us whether you broker, develop or both. You will get an itemised USD quote in about two working days, with property sites starting from ${P.site}, everything registered in your company's name and five months of free maintenance after launch.`,
+    note: `Share them on WhatsApp and tell us whether you broker, develop or both. You will get an itemised USD quote in about two working days, with property sites starting from ${P.site}, everything registered in your company's name and two months of free maintenance after launch.`,
   },
 };
 

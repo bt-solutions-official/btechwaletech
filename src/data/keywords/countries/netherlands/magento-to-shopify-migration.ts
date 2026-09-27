@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers on your migration" },
     { value: "2", label: "Working days to an itemised plan" },
-    { value: "5", label: "Months of free fixes after cutover" },
+    { value: "2", label: "Months of free fixes after cutover" },
     { value: "0", label: "Platform fees on your payments to us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "SEO protection", value: "301 map for products, categories, CMS pages and store views" },
       { label: "Payments", value: "iDEAL, Bancontact and cards via Shopify Payments or the Mollie app" },
       { label: "Feeds", value: "bol.com, Google Merchant Center, ERP and warehouse links rebuilt" },
-      { label: "After cutover", value: `5 months of free fixes, then care from ${P.care}` },
+      { label: "After cutover", value: `2 months of free fixes, then care from ${P.care}` },
     ],
   },
   services: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Custom Magento features", "Kept", "Usually lost silently", "Listed, then rebuilt, replaced by an app or dropped by you"],
       ["Cutover risk", "Low (no move)", "Highest: one-shot import", "Test store, delta sync, planned switch"],
       ["Upfront budget", "Upgrade and extension costs vary widely", "App fee plus your time", `From ${P.shop}; integrations from ${P.software}`],
-      ["Aftercare", "Ongoing Magento maintenance", "None", `5 months free, then from ${P.care}`],
+      ["Aftercare", "Ongoing Magento maintenance", "None", `2 months free, then from ${P.care}`],
     ],
     fine: "If your store depends on deep Magento customisations such as complex B2B quoting or multi-warehouse logic you cannot live without, upgrading Magento or moving to a custom build may suit you better; we will say so in the plan rather than force a migration.",
   },
@@ -264,7 +264,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a Magento to Shopify migration cost in the Netherlands?",
       paragraphs: [
-        `With BtechWaleTech, a Magento to Shopify migration starts from ${P.shop}, integration rebuilds start from ${P.software}, and care after the five free months starts from ${P.care}. Dutch agencies and freelancers quote across a wide range for the same job; the spread comes from local rates, how much design is included, and how many integrations they assume.`,
+        `With BtechWaleTech, a Magento to Shopify migration starts from ${P.shop}, integration rebuilds start from ${P.software}, and care after the two free months starts from ${P.care}. Dutch agencies and freelancers quote across a wide range for the same job; the spread comes from local rates, how much design is included, and how many integrations they assume.`,
         `Whoever you ask, the same factors move the number:`,
       ],
       list: [
@@ -468,7 +468,7 @@ const content: FreelanceContent = {
       ["Mapping sign-off", "You approve the product model, the list of what moves and what stays, the payment route, and who owns stock during cutover. Nothing is built before that."],
       ["Build and rehearse", "A Shopify store in your name is set up, imported twice from Magento exports, connected to payments and feeds, and walked through by your team."],
       ["Cutover", "In an agreed quiet window we freeze Magento, import the last orders, switch DNS, confirm redirects and place live test orders with iDEAL and cards."],
-      ["Watch and settle", "For thirty days we check Search Console, feeds and ERP sync, fixing anything that slipped. Five months of free fixes run from launch."],
+      ["Watch and settle", "For thirty days we check Search Console, feeds and ERP sync, fixing anything that slipped. Two months of free fixes run from launch."],
     ],
   },
   faqHeading: "Magento to Shopify migration: questions Dutch merchants ask",
@@ -492,7 +492,7 @@ const content: FreelanceContent = {
     { question: "Can we test the new store before switching?", answer: "Yes, and you should insist on it. We build on a development store in your name, run at least two rehearsal imports, place test orders, and walk your team through the admin before any DNS change. You can click through products, customer accounts and orders with real data while Magento keeps taking orders as normal." },
     { question: "How do we pay for the migration from the Netherlands?", answer: "Quotes are in USD, payable by Wise, bank wire or PayPal in milestones linked to migration phases. Nothing is billed before you approve the written plan. Invoices come from India; how you book them is a question for your own accountant, as we do not give tax advice. Shopify, app and payment fees are paid by you directly." },
     { question: "Who owns the new Shopify store and the code?", answer: "You do. The Shopify store, domain, apps and payment accounts are set up in your business name from the start. Theme code and any integration code are handed over with a short README. You keep your original Magento export and can revoke our access at any time. If we ever part ways, you lose nothing but a supplier." },
-    { question: "What support do we get after the Magento to Shopify migration?", answer: `The first five months after launch include free fixes for anything related to the migration, plus thirty days of close checks on Search Console, feeds and ERP sync. After that, store care continues from ${P.care} if you want it. What is included is written into your quote, so there is no guessing later.` },
+    { question: "What support do we get after the Magento to Shopify migration?", answer: `The first two months after launch include free fixes for anything related to the migration, plus thirty days of close checks on Search Console, feeds and ERP sync. After that, store care continues from ${P.care} if you want it. What is included is written into your quote, so there is no guessing later.` },
     { question: "Will the migration help my store appear in AI search answers?", answer: "It can, if the new store is set up with clean product and organisation schema, clear shipping and returns pages and fast templates. AI tools such as Google's AI features and ChatGPT read the same public pages as search engines. Nobody can guarantee a citation, but a migration is a good moment to fix structured data that Magento extensions left incomplete." },
   ],
   related: {

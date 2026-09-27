@@ -35,7 +35,7 @@ const phagwara: CityContent = {
     pills: ["Sites from ₹10,000", "Punjabi, Hindi and English", "Auto-parts catalogues", "PG and hostel pages", "Run it from abroad"],
   },
   quickAnswer:
-    "A basic business website in Phagwara starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote with no Phagwara office, and maintenance is free for five months.",
+    "A basic business website in Phagwara starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000, AI or WhatsApp automation at ₹40,000 and custom software at ₹60,000. We are remote with no Phagwara office, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "Kapurthala district in the Doaba region between the Beas and Sutlej, on the GT Road (NH 44) between Jalandhar and Ludhiana" },
     { label: "Industry", value: "Known for sugar, glucose, starch, fine fabric and auto parts; Sukhjit Starch dates to 1943 and the JCT textile mill shaped the town" },
@@ -52,7 +52,7 @@ const phagwara: CityContent = {
     ai: "WhatsApp assistants that answer room, fee, part-number and price-list questions in Punjabi, Hindi or English, day and night, and pass real decisions to you.",
     data: "Dashboards for sales by dealer, rejection rates or room occupancy, so an owner in Phagwara or abroad can see the numbers on a phone.",
     app: "Android and iOS apps for dealer ordering, hostel check-in or attendance, published on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Updates, backups, security and small edits free for five months after launch, then from ₹8,000 a month if you want us to keep looking after it.",
+    maintenance: "Updates, backups, security and small edits free for two months after launch, then from ₹8,000 a month if you want us to keep looking after it.",
   },
   whyUsIntro:
     "Many Phagwara businesses already have a website, often built by a Jalandhar agency or a relative's friend, and many of those sites have not been touched since. We are a three-person remote team with public starting rates, itemised written quotes, the engineers on the phone themselves and every login handed to you at launch.",
@@ -177,7 +177,7 @@ const phagwara: CityContent = {
       paragraphs: [
         "A familiar story in Doaba: a family business paid for a website, the developer registered the domain in his name, and when the owner moved abroad or the developer moved on, nobody could renew or change anything. The site expired and a stranger bought the name.",
         "With us, the domain, hosting and any cloud accounts are in your name, paid from your account. At launch you receive every login, the full source code and a short guide to how everything is set up. Another developer can take over at any time. There is no exit fee.",
-        "For five months after launch we maintain the site free: updates, security fixes, backups, uptime checks, bug fixes and small content changes. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we maintain the site free: updates, security fixes, backups, uptime checks, bug fixes and small content changes. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const phagwara: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "Five months of free maintenance covering updates, security fixes, backups, uptime checks and small edits. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
+        "Two months of free maintenance covering updates, security fixes, backups, uptime checks and small edits. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long does SEO take to work in Phagwara?",

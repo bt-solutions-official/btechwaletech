@@ -56,7 +56,7 @@ const byasanagar: CityContent = {
     ai: "WhatsApp assistants in English, Odia and Hindi that answer booking, rate and availability questions and route the rest to you.",
     data: "Dashboards of work orders, running bills, pending payments, crew deployment and machine hours by site.",
     app: "Android and iOS apps from ₹40,000 for contractor crews, hotel guests or coaching students, on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Contractors and traders around Jajpur Road deal with large plants that expect paperwork to be exact, and they expect the same from us. We publish starting prices, send a written itemised scope before starting, reply on WhatsApp every day, and register domain, hosting, code and app accounts in your name. When something is not worth building, we tell you.",
@@ -158,7 +158,7 @@ const byasanagar: CityContent = {
       heading: "Website cost in Byasanagar: starting prices and comparing quotes",
       paragraphs: [
         "Our entry prices are straightforward. A static website of up to 100 pages is from ₹10,000, typically ready in one to two weeks. An SEO website of 299 pages or more, for vendors, hospitals or institutes that want a page for every service, department or course, is from ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and AI or WhatsApp automation starts at ₹40,000 too.",
-        "Online stores begin at ₹50,000 with four to eight weeks of work. Custom software, such as a contractor's attendance and billing system, begins at ₹60,000 and takes six to twelve weeks. Monthly SEO is ₹10,000 a month onwards, and maintenance, after five free months, is ₹8,000 a month onwards.",
+        "Online stores begin at ₹50,000 with four to eight weeks of work. Custom software, such as a contractor's attendance and billing system, begins at ₹60,000 and takes six to twelve weeks. Monthly SEO is ₹10,000 a month onwards, and maintenance, after two free months, is ₹8,000 a month onwards.",
         "Costs go up only for things you choose: extra languages, many products, online payment, staff logins, SMS alerts, file uploads or links to Tally and payroll tools. Each is a separate line in the quote, so you can leave out whatever is not needed now. Supplying your own text and photographs keeps the content cost low.",
         "Quotes in the Jajpur and Cuttack area vary widely for similar-sounding work. When you compare, ask who owns the domain and hosting, whether the site is tested on low-cost phones, what SEO is included, how many revisions are covered and what support costs after launch. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and a written, itemised quote reaches you in around two working days.",
       ],
@@ -178,7 +178,7 @@ const byasanagar: CityContent = {
       heading: "Ownership and maintenance for Byasanagar websites and apps",
       paragraphs: [
         "All the work belongs to you. The domain is registered on your email, the hosting account is in your name, the source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts are yours. You receive a written list of every login at handover, so nobody, including us, can lock you out.",
-        "For five months after launch, maintenance is free. We update content and prices when asked, take backups, apply security patches and version updates, and check that forms, file uploads, UPI payments and WhatsApp links work. After that, you can stay with us from ₹8,000 a month, handle it yourself, or give the code to another developer.",
+        "For two months after launch, maintenance is free. We update content and prices when asked, take backups, apply security patches and version updates, and check that forms, file uploads, UPI payments and WhatsApp links work. After that, you can stay with us from ₹8,000 a month, handle it yourself, or give the code to another developer.",
         "Apps need yearly updates even if nothing changes on your side, because Google and Apple raise their minimum requirements. We track these and update ahead of the deadline so your app stays listed.",
         "Vendor sites also need regular care. Certifications renew, new equipment arrives, contact people change. Keeping these current matters more to a purchase officer than a fresh design, and our maintenance work is organised around quick updates of this kind.",
       ],
@@ -267,7 +267,7 @@ const byasanagar: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch come with free maintenance: content changes, backups, security and version updates, and checks on forms, uploads, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer, as all accounts and code are already yours.",
+        "The first two months after launch come with free maintenance: content changes, backups, security and version updates, and checks on forms, uploads, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer, as all accounts and code are already yours.",
     },
     {
       question: "Can you build attendance and billing software for plant contractors?",

@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Buyer or vendor app from", `${P.app}, 6–10 weeks`],
     ["Payment options", "mada, cards, Apple Pay via your chosen gateway"],
     ["Invoicing", "Per-vendor or on-behalf e-invoices, per your adviser"],
-    ["After launch", `5 months free maintenance, then from ${P.care}`],
+    ["After launch", `2 months free maintenance, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers: build, data and project lead" },
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Upfront cost", "Low, plus monthly fees", "Licence plus customisation", `From ${P.software}`],
       ["Code ownership", "You rent the platform", "Licence terms apply", "Code and data are yours"],
       ["Changing rules later", "Hard", "Possible, often messy", "Planned for in the data model"],
-      ["Support", "Platform and add-on vendor", "Script vendor, if active", `5 months free, then from ${P.care}`],
+      ["Support", "Platform and add-on vendor", "Script vendor, if active", `2 months free, then from ${P.care}`],
     ],
     fine: "If you have fewer than ten sellers and simple commissions, start with the cheaper route and come back when the manual work starts to hurt.",
   },
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
       id: "handover-checklist",
       heading: "Handover, red flags and a launch checklist for your marketplace",
       paragraphs: [
-        `At handover you get the code repository, deployment notes, admin credentials rotated to your team, a data dictionary for orders and ledgers, and a recorded walkthrough of vendor approval, payouts and dispute handling. Five months of free maintenance follow, then support from ${P.care} if you want it.`,
+        `At handover you get the code repository, deployment notes, admin credentials rotated to your team, a data dictionary for orders and ledgers, and a recorded walkthrough of vendor approval, payouts and dispute handling. Two months of free maintenance follow, then support from ${P.care} if you want it.`,
         `Be wary of any developer who cannot explain where the money sits between checkout and payout, who proposes storing card data themselves, or who treats invoicing as "just a PDF". Those are the three places marketplaces fail audits and lose vendor trust.`,
       ],
       list: [
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
       ["Data model and screens", "Vendors, products, orders, ledger and invoice data designed first, then vendor, admin and buyer screens shown on a staging link for sign-off."],
       ["Build in short cycles", "Weekly demos on staging. Onboarding first, then catalogue, checkout, payouts and invoices, each tested with sample vendors before moving on."],
       ["Pilot with real vendors", "Five to ten sellers use the live system in a closed pilot. We fix what confuses them and test at least one full payout cycle."],
-      ["Launch and hand over", "Public launch, handover of code and access, recorded walkthroughs, then five months of free maintenance while vendor numbers grow."],
+      ["Launch and hand over", "Public launch, handover of code and access, recorded walkthroughs, then two months of free maintenance while vendor numbers grow."],
     ],
   },
   faqHeading: "Multi vendor marketplace questions from Saudi founders",
@@ -438,7 +438,7 @@ const content: FreelanceContent = {
     { question: "Will AI assistants recommend my marketplace?", answer: "AI search tools quote pages that answer questions clearly and factually. Vendor profiles with specific descriptions, delivery areas and return terms, plus buying guides for each category, give them something to cite. Fast pages, structured data and consistent Arabic and English content help. We build that structure; the ongoing content work fits monthly SEO." },
     { question: "How do payments to BtechWaleTech work from Saudi Arabia?", answer: "Quotes are in US dollars and invoices come from India. You pay by Wise or bank wire, and PayPal is also possible. Payment milestones are agreed in your written quote before work starts, and nothing is billed before you approve that quote. Because the riyal is pegged to the dollar, the riyal cost of each milestone is easy to predict." },
     { question: "Do you sign contracts and NDAs for marketplace projects?", answer: "Yes. Scope, milestones, ownership and confidentiality are written into the agreement before work begins, and we are happy to sign your NDA. Specific terms, such as how changes or pauses are handled, are agreed in your written quote rather than fixed in advance; our terms and refund policy pages set out the general basis." },
-    { question: "What happens after the marketplace launches?", answer: `You get five months of free maintenance after launch for fixes, updates and monitoring. After that, maintenance starts from ${P.care} per month, and monthly SEO from ${P.seo} if you want ongoing growth work. New features, such as a vendor app or automated split payouts, are quoted as separate phases.` },
+    { question: "What happens after the marketplace launches?", answer: `You get two months of free maintenance after launch for fixes, updates and monitoring. After that, maintenance starts from ${P.care} per month, and monthly SEO from ${P.seo} if you want ongoing growth work. New features, such as a vendor app or automated split payouts, are quoted as separate phases.` },
   ],
   related: {
     heading: "Related pages for Saudi marketplace builders",

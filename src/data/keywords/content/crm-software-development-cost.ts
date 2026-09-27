@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Build time", "6–12 weeks, first version"],
     ["Per-user fee", "None; add users freely"],
     ["WhatsApp", "Official API; Meta bills you directly"],
-    ["Free maintenance", "5 months after go-live"],
+    ["Free maintenance", "2 months after go-live"],
     ["Then", `Maintenance from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Per-seat charges on a CRM you own" },
     { value: "36", label: "Months used in our CRM cost comparison" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "3", label: "Developers who design, build and support it" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "WhatsApp messages", value: "Meta charges billed to your own account" },
       { label: "Field sales app", value: `Optional, Android and iOS from ${P.app}` },
       { label: "Hosting", value: "Your cloud account, grows with data not seats" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -117,7 +117,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `SaaS CRMs charge per user per month; a custom CRM carries a one-time CRM software development cost for the build and then only for hosting and optional maintenance. Which is cheaper depends almost entirely on how many seats you need and for how long.`,
         `The seat maths is simple. Multiply the number of users by the per-user monthly fee of the plan you would actually need, including any add-ons such as WhatsApp, telephony or advanced reports, then by the number of months. Over three years that is 36 months of fees. For 5 users that is 180 seat-months; for 20 users, 720; for 50 users, 1,800.`,
-        `On the custom side, add the build, from ${P.software}, three years of cloud hosting, and maintenance after the 5 free months. Hosting for a CRM grows with the volume of leads, attachments and messages rather than with seats.`,
+        `On the custom side, add the build, from ${P.software}, three years of cloud hosting, and maintenance after the 2 free months. Hosting for a CRM grows with the volume of leads, attachments and messages rather than with seats.`,
         `The pattern that usually emerges: at 5 users a SaaS CRM often wins, especially on an entry plan. At 20 users the lines tend to cross within the three-year window, depending on plan tier and add-ons. At 50 users, 1,800 seat-months of fees usually outweigh a custom build comfortably, unless you need breadth the build would take years to match. Put your own quotes into the table further down this page to see where your crossover is.`,
       ],
     },
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
         "<strong>50 users:</strong> 1,800 seat-months. At this size the recurring fees usually dwarf a custom build plus hosting and maintenance.",
       ],
       after: [
-        `On the custom side, the same three years cost the build from ${P.software}, cloud hosting, and maintenance from ${P.care} after the 5 free months. Adding the 51st user costs nothing. Also count the switching cost you avoid: with your own CRM, you never migrate because a vendor changed its plans.`,
+        `On the custom side, the same three years cost the build from ${P.software}, cloud hosting, and maintenance from ${P.care} after the 2 free months. Adding the 51st user costs nothing. Also count the switching cost you avoid: with your own CRM, you never migrate because a vendor changed its plans.`,
       ],
     },
     {
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
         "What does support cost after the free period, and what does it cover?",
       ],
       after: [
-        `Our answers: official WhatsApp API with Meta billing you, hosting and code in your accounts, migration priced after seeing your data, and 5 free months of maintenance. For more interview questions, see <a href='/questions-to-ask-app-developer/'>questions to ask a developer</a>.`,
+        `Our answers: official WhatsApp API with Meta billing you, hosting and code in your accounts, migration priced after seeing your data, and 2 free months of maintenance. For more interview questions, see <a href='/questions-to-ask-app-developer/'>questions to ask a developer</a>.`,
       ],
     },
     {
@@ -260,7 +260,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the CRM outright: code in your repository, database in your cloud account, WhatsApp Business Account in your business name. That is the other half of the value of paying a CRM software development cost instead of a subscription.`,
         `Hosting is billed by your cloud provider and scales with data volume. Backups run daily to storage in your account. You can grant or remove our access at any time.`,
-        `After launch you get 5 months of free maintenance, with its scope written into your quote. After that, maintenance plans start from ${P.care}, and new features are quoted individually. India’s Digital Personal Data Protection Act, 2023 applies to the personal data a CRM holds; we build access controls, audit logs and deletion tools, and your adviser confirms your legal obligations. Payments are by UPI or bank transfer; international clients pay in USD via Wise, wire or PayPal.`,
+        `After launch you get 2 months of free maintenance, with its scope written into your quote. After that, maintenance plans start from ${P.care}, and new features are quoted individually. India’s Digital Personal Data Protection Act, 2023 applies to the personal data a CRM holds; we build access controls, audit logs and deletion tools, and your adviser confirms your legal obligations. Payments are by UPI or bank transfer; international clients pay in USD via Wise, wire or PayPal.`,
       ],
     },
     {
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
       note: "Multiply the seat-months by the per-user monthly fee of the SaaS plan you would really need, add-ons included. We do not quote vendors’ prices; use their current price pages.",
       columns: ["Team size", "SaaS seat-months over 36 months", "Custom CRM over the same 36 months", "Where the crossover tends to sit"],
       rows: [
-        ["5 users", "180 × per-user fee", `Build from ${P.software} + hosting + care after 5 months`, "SaaS usually cheaper"],
+        ["5 users", "180 × per-user fee", `Build from ${P.software} + hosting + care after 2 months`, "SaaS usually cheaper"],
         ["20 users", "720 × per-user fee", "Same build; hosting slightly higher", "Often crosses within three years"],
         ["50 users", "1,800 × per-user fee", "Same build; more permission design", "Custom usually cheaper"],
         ["Adding 10 more users", "Fee rises every month", "No change", "Favours custom as you grow"],
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
       ["Screens before code", "Stage names, forms and the daily task screen are shown as clickable mock-ups so salespeople can object before anything is built."],
       ["Build in slices", "Pipeline and capture first, then reminders and roles, then WhatsApp and reports, each shared as a test link for feedback."],
       ["Migrate and run in parallel", "Old leads are cleaned and imported, and the team uses the CRM alongside the old sheet for a short period before the switch."],
-      ["Launch and support", "After go-live you get 5 months of free maintenance, then an optional plan from our maintenance starting price, with code and data always yours."],
+      ["Launch and support", "After go-live you get 2 months of free maintenance, then an optional plan from our maintenance starting price, with code and data always yours."],
     ],
   },
   faqHeading: "CRM software development cost: common questions",
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
     { question: "Can you build a mobile app for our sales team?", answer: `Yes. Office teams can use the responsive web CRM on phones. Field teams benefit from a dedicated Android and iOS app with visit check-ins, offline notes, photos and location, starting from ${P.app}. The app syncs with the same database, so managers see visits and leads in one place.` },
     { question: "Can AI be added to a custom CRM?", answer: `Yes, as an optional addition from ${P.ai}. Useful features include lead scoring from your past wins, drafting replies for a salesperson to review, summarising long chat histories before a call and extracting requirements from emails. Model usage is billed to your own AI provider account, and a person stays in control of what is sent.` },
     { question: "Who owns the custom CRM and its data?", answer: "You do. Code sits in your repository, the database in your cloud account and the WhatsApp Business Account in your business name. We work with access you grant and can remove. If you later move to another developer, they receive the code and documentation and continue without rebuilding." },
-    { question: "What does CRM maintenance cost after launch?", answer: `Maintenance sits outside the CRM software development cost. The first 5 months after go-live are free, with the exact scope written into your quote. After that, maintenance plans start from ${P.care}, and new features are quoted individually before any work begins. Hosting is billed separately by your cloud provider and grows with data volume rather than users.` },
+    { question: "What does CRM maintenance cost after launch?", answer: `Maintenance sits outside the CRM software development cost. The first 2 months after go-live are free, with the exact scope written into your quote. After that, maintenance plans start from ${P.care}, and new features are quoted individually before any work begins. Hosting is billed separately by your cloud provider and grows with data volume rather than users.` },
     { question: "Is Zoho or another SaaS CRM a better option for us?", answer: "It can be. If your sales process is fairly standard, your team is small or stable, and you value a wide feature set from day one, a SaaS CRM is a sensible choice. Custom makes sense for unusual processes, growing teams or deep integration needs. We also help businesses implement Zoho CRM when that fits better." },
     { question: "How secure is a custom CRM?", answer: "Security comes from design: role-based access, restricted and logged exports, audit trails on deletions, encrypted connections, daily backups in your account and regular updates. India’s Digital Personal Data Protection Act, 2023 applies to the personal data a CRM holds; we build the technical controls and your own adviser confirms legal obligations." },
     { question: "What makes CRM software development cost go up?", answer: "The main drivers are the number of lead sources, complex reminder and assignment rules, WhatsApp and email built into records, integrations with accounting or ERP, detailed permission structures across branches or partners, and mobile apps. Messy data migration and changing scope mid-project also raise cost, which is why we fix a written first-version list." },

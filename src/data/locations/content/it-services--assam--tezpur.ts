@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Freelance IT and app developers in Tezpur for mobile-first sites, local pages, apps and upkeep",
     lede:
       "BtechWaleTech is a freelance group of three IT and app developers serving Tezpur remotely from India. Instead of a software development team in Tezpur, you work directly with the engineers who build your mobile-first website, local landing pages for Sonitpur towns, Android and iOS apps, booking systems for the Tawang and Nameri routes, AI automation and the maintenance that keeps it all running.",
-    pills: ["Mobile-first sites from ₹10,000", "Local landing pages", "Android & iOS apps from ₹40,000", "Maintenance from ₹8,000/month", "5 months upkeep free"],
+    pills: ["Mobile-first sites from ₹10,000", "Local landing pages", "Android & iOS apps from ₹40,000", "Maintenance from ₹8,000/month", "2 months upkeep free"],
   },
   quickAnswer:
-    "BtechWaleTech's three freelance IT and app developers serve Tezpur remotely. Mobile-first websites start at ₹10,000 (1 to 2 weeks), SEO sites with local landing pages at ₹20,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000. Maintenance is free for five months, then from ₹8,000 a month.",
+    "BtechWaleTech's three freelance IT and app developers serve Tezpur remotely. Mobile-first websites start at ₹10,000 (1 to 2 weeks), SEO sites with local landing pages at ₹20,000, Android and iOS apps and AI automation at ₹40,000, and custom software at ₹60,000. Maintenance is free for two months, then from ₹8,000 a month.",
   snapshot: [
     { label: "Place", value: "Headquarters of Sonitpur district on the north bank of the Brahmaputra" },
     { label: "Education", value: "Tezpur University, a central university set up in 1994, plus Tezpur Medical College and several colleges" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI assistants that answer route, permit, room, course and timing questions on WhatsApp in English, Hindi and Assamese.",
     data: "Simple dashboards for bookings, sales, fees or appointments so owners can see the week at a glance.",
     app: "Android and iOS apps for Tezpur tour operators, schools, clinics and shops, built in Flutter or React Native and published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Regular updates, security patches, backups, speed checks and content changes, free for five months and from ₹8,000 a month afterwards.",
+    maintenance: "Regular updates, security patches, backups, speed checks and content changes, free for two months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Many Tezpur websites were built once and then left alone, slowly breaking as plugins age and phone screens change. We are a freelance group of three engineers who build lean, maintainable sites and apps, publish prices, reply on WhatsApp every day and look after them after launch.",
@@ -106,7 +106,7 @@ const content: CityContent = {
       paragraphs: [
         "Website and app maintenance means keeping software updated, secure, backed up, fast and accurate after launch: applying security patches, fixing bugs, renewing domains and certificates, checking speed and uptime, and updating content such as prices, timings and staff. Without it, sites slowly break and start showing wrong information.",
         "We often see Tezpur sites with expired SSL certificates, contact forms that silently stopped sending, old phone numbers and festival offers from years ago. Each one costs enquiries. Apps face a similar issue: new Android and iOS versions arrive every year, and an app that is not updated may stop working or be removed from the store.",
-        "Every project we deliver includes five months of free maintenance after launch. After that, plans start at ₹8,000 a month, or you can pay per change. If you already have a site built by someone else, we can review it and quote to take over its care, provided we can get access to the domain and hosting.",
+        "Every project we deliver includes two months of free maintenance after launch. After that, plans start at ₹8,000 a month, or you can pay per change. If you already have a site built by someone else, we can review it and quote to take over its care, provided we can get access to the domain and hosting.",
       ],
       list: [
         "Security and software updates",
@@ -151,7 +151,7 @@ const content: CityContent = {
         "Android and iOS app development in Tezpur starts at ₹40,000 with BtechWaleTech and takes six to ten weeks. We build one app in Flutter or React Native and publish it on Google Play and the Apple App Store under your own accounts, with login, forms, push notifications and an admin panel connected through an API.",
         "Apps make sense in Tezpur where people return regularly. Tour operators can give travellers an app with their itinerary, pickup details and emergency contacts for the Arunachal leg, which remains useful even when network drops in the hills. Schools and coaching centres can push notices, homework and fee reminders to parents. Clinics and labs can offer bookings and report downloads. Shops and distributors can offer reorder apps to regular customers in Dhekiajuli, Rangapara or Balipara.",
         "Families posted to Tezpur and students from other states often carry iPhones, while most local customers use Android, so we publish on both stores by default. We keep downloads small, store essential information offline where useful, and test on the budget phones common in the district.",
-        "If customers will use it only once, a mobile-first website is cheaper and easier to find. When they will open it weekly, an app earns its place. You own the code, both store listings and the admin panel, and maintenance, including updates for new Android and iOS versions, is free for five months.",
+        "If customers will use it only once, a mobile-first website is cheaper and easier to find. When they will open it weekly, an app earns its place. You own the code, both store listings and the admin panel, and maintenance, including updates for new Android and iOS versions, is free for two months.",
       ],
       list: [
         "Traveller app with itinerary and offline trip details",
@@ -263,7 +263,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance?",
       answer:
-        "Security and software updates, bug fixes, backups, uptime and speed checks, form checks, and content changes such as prices, hours and staff. The first five months after launch are free; after that, plans start at ₹8,000 a month, or you can pay per change.",
+        "Security and software updates, bug fixes, backups, uptime and speed checks, form checks, and content changes such as prices, hours and staff. The first two months after launch are free; after that, plans start at ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Can you maintain a website someone else built?",

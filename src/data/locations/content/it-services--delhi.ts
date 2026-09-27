@@ -40,7 +40,7 @@ const content: CityContent = {
     h1: "Freelance IT services in Delhi, from Chandni Chowk counters to Okhla factories",
     lede:
       "Searching for IT services in Delhi without paying agency overheads? BtechWaleTech is a freelance group of three engineers, working remotely from India, who build custom software, web apps, mobile apps, AI and WhatsApp automation, dashboards, cloud deployments, SEO websites and online stores for businesses across the National Capital Territory. Starting prices are public, quotes are itemised, and every login ends up in your name.",
-    pills: ["Software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "All 11 Delhi districts", "5 months free maintenance"],
+    pills: ["Software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "All 11 Delhi districts", "2 months free maintenance"],
   },
   quickAnswer:
     "IT services in Delhi from BtechWaleTech, a freelance group of three remote engineers, start at ₹10,000 for a website (one to two weeks), ₹40,000 for AI automation (two to four weeks), ₹50,000 for an online store and ₹60,000 for custom software (six to twelve weeks). We have no Delhi office; itemised quotes arrive in about two working days.",
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp workflows that take orders, qualify leads and answer routine queries in Hindi or English around the clock.",
     data: "Dashboards that pull from Tally, spreadsheets and your software to show sales, stock and collections across branches in Delhi and NCR.",
     app: "Android and iOS apps for Delhi retailers, wholesalers, clinics and coaching institutes, published on Google Play and the App Store with an admin panel, from ₹40,000 in six to ten weeks.",
-    maintenance: "Updates, backups, security checks and fixes: free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security checks and fixes: free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Delhi has thousands of IT vendors, from large software houses to one-person shops, which makes choosing harder, not easier. Our pitch as a freelance group is simple: you talk directly to the three engineers who build your system, starting prices are published, quotes are itemised, replies come on WhatsApp seven days a week, and you own every account at handover.",
@@ -94,7 +94,7 @@ const content: CityContent = {
       paragraphs: [
         "A software development team in Delhi typically offers a larger team, project managers, sales staff and an office you can visit, with published custom software budgets that often start around ₹2 lakh. A freelance group like BtechWaleTech offers fewer layers, direct engineer access and lower starting prices, with the limit that we work remotely and take on fewer projects at a time.",
         "Neither model is automatically better. Large enterprises with compliance audits, dozens of integrations and a need for on-site staff are usually better served by an established IT company. Small and mid-sized Delhi businesses, such as a Sadar Bazar wholesaler, an Okhla exporter, a clinic chain in West Delhi or a coaching institute in North Delhi, often get more from a small team that listens carefully and ships in weekly steps.",
-        "Whoever you choose, judge them on the same things: who writes the code, whether you own the source and accounts, how scope changes are priced and what support looks like a year later. We answer those questions plainly: our three engineers write it, you own it, changes are quoted in advance, and support is free for five months and from ₹8,000 a month thereafter.",
+        "Whoever you choose, judge them on the same things: who writes the code, whether you own the source and accounts, how scope changes are priced and what support looks like a year later. We answer those questions plainly: our three engineers write it, you own it, changes are quoted in advance, and support is free for two months and from ₹8,000 a month thereafter.",
       ],
       list: [
         "Team size: company, many staff; freelance group, three engineers",
@@ -161,7 +161,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting and deployment for a Delhi project means your website or software runs on managed infrastructure, with SSL, automated backups, monitoring and a repeatable release process, rather than on a shared plan nobody remembers the password to. We set up hosting on AWS or comparable providers, sized to your actual traffic.",
         "Good DevOps is invisible when it works. Code lives in a repository you own, updates are deployed through a pipeline instead of manual file copying, backups run daily and are tested, and alerts fire if the site goes down. For businesses handling customer data, we add access controls, encrypted connections and audit logs.",
-        "Every project includes deployment and five months of free maintenance after launch. You receive full credentials and a short document describing the setup. If you already have hosting, we can review it, tighten security and cut costs where plans are oversized.",
+        "Every project includes deployment and two months of free maintenance after launch. You receive full credentials and a short document describing the setup. If you already have hosting, we can review it, tighten security and cut costs where plans are oversized.",
       ],
     },
     {
@@ -232,14 +232,14 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech runs Delhi projects in five steps: a requirement call, a written scope with an itemised price, clickable screen designs, weekly development releases you can test, and launch with training and handover. Everything happens over WhatsApp, calls and screen sharing, since we are a remote freelance group without a Delhi office.",
         "We ask for real examples early: invoices, order slips, reports, spreadsheets, even photos of registers. They reveal what your business actually tracks. Screens are shown before heavy coding, so your staff can object while changes are cheap. Releases arrive weekly, and you test them on your own devices.",
-        "At launch, you receive the code repository, database access, hosting and domain credentials, and a short technical note. Five months of maintenance follow at no charge. What we will not do: promise rankings, invent timelines to win a deal, or keep any account in our name. You can read more <a href=\"/about/\">about our group</a>.",
+        "At launch, you receive the code repository, database access, hosting and domain credentials, and a short technical note. Two months of maintenance follow at no charge. What we will not do: promise rankings, invent timelines to win a deal, or keep any account in our name. You can read more <a href=\"/about/\">about our group</a>.",
       ],
       list: [
         "1. Requirement call and sample documents",
         "2. Written scope and itemised quote in about two working days",
         "3. Clickable screens and feedback",
         "4. Weekly releases and testing",
-        "5. Launch, training, handover and five months of free maintenance",
+        "5. Launch, training, handover and two months of free maintenance",
       ],
     },
     {
@@ -304,7 +304,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance?",
       answer:
-        "Five months of free maintenance start once your project is live: bug fixes, minor content changes, security and dependency updates, backups, and uptime and speed monitoring. After that, you can take a monthly plan from ₹8,000 or request work as needed.",
+        "Two months of free maintenance start once your project is live: bug fixes, minor content changes, security and dependency updates, backups, and uptime and speed monitoring. After that, you can take a monthly plan from ₹8,000 or request work as needed.",
     },
     {
       question: "Can you build software in Hindi?",

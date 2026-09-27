@@ -40,13 +40,13 @@ const content: FreelanceContent = {
     ["Typical build", "1–2 weeks for up to 100 pages"],
     ["Written quote", "Itemised, in about 2 working days"],
     ["Ownership", "Domain, hosting and code in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers working on your site" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "100", label: "Pages allowed in the starting static plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What kind of website does an MSME need to win B2B buyers?",
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "SEO for industrial searches", note: `Specification and process keywords that purchase teams type, tracked in Google Search Console, from ${P.seo}.`, href: "/seo-for-manufacturers/", size: "md" },
       { name: "Enquiry-to-CRM link", note: "RFQs from the site land in a sheet or CRM with source, product and drawing attached, so no enquiry sits in one person’s inbox.", href: "/website-crm-integration/", size: "sm" },
       { name: "WhatsApp follow-ups", note: `Quote reminders and dispatch updates to buyers on the official WhatsApp API, from ${P.ai}.`, href: "/whatsapp-business-api-integration/", size: "sm" },
-      { name: "Upkeep after launch", note: `Five free months, then optional care from ${P.care} to add products, certificates and new capacity.`, href: "/services/web-development/", size: "sm" },
+      { name: "Upkeep after launch", note: `Two free months, then optional care from ${P.care} to add products, certificates and new capacity.`, href: "/services/web-development/", size: "sm" },
     ],
   },
   comparison: {
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a website for an MSME starts at ${P.site} on the static plan (up to 100 pages, 1–2 weeks) and at ${P.seoSite} for an SEO website of 299+ pages (3–5 weeks). Other providers’ quotes vary widely, and the difference usually comes from content, page count and integrations rather than design.`,
         `What drives the cost of an MSME website is fairly predictable. The number of product families and processes decides the page count. Whether you supply product data in a clean spreadsheet or we have to piece it together from brochures and WhatsApp photos decides the content effort. Specification tables, downloadable datasheets and a multi-file RFQ upload add a little. Linking enquiries to a CRM, a dealer login or online ordering adds more, and those are separate starting prices: online ordering from ${P.shop}, a buyer portal from ${P.software}.`,
-        `Running costs are modest and in your name: yearly domain renewal and hosting. Maintenance is free for 5 months after launch and optional after that from ${P.care}. If you want ongoing search work for specification keywords, monthly SEO starts at ${P.seo}. For international buyers comparing, the static plan is ${P.siteUsd} and the SEO build ${P.seoSiteUsd}.`,
+        `Running costs are modest and in your name: yearly domain renewal and hosting. Maintenance is free for 2 months after launch and optional after that from ${P.care}. If you want ongoing search work for specification keywords, monthly SEO starts at ${P.seo}. For international buyers comparing, the static plan is ${P.siteUsd} and the SEO build ${P.seoSiteUsd}.`,
         `The table further down breaks cost down by type of MSME. For a line-by-line look at how any Indian website is priced, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`,
       ],
     },
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A typical MSME website takes 1–2 weeks on the static plan once content arrives, or 3–5 weeks for a large SEO build. The slowest part is almost always gathering photos, machine lists and certificates from the plant, not the coding.`,
         `Week zero is the brief on WhatsApp or a call: what you make, who buys it, which enquiries you want more of. We send an itemised quote in about 2 working days. After written approval, we share a page plan and a simple content sheet with columns for products, specs, machines and certificates. You or your production head fill it; we can take voice notes in Hindi and write them up in English.`,
-        `Design and build run in parallel with content. You see a preview link on your phone, check that specifications and machine data are right, and we correct them. We then set up the domain and hosting in your name, connect forms to your email and sheet, add Search Console, and launch. After launch come five months of free maintenance for fixes and small updates.`,
+        `Design and build run in parallel with content. You see a preview link on your phone, check that specifications and machine data are right, and we correct them. We then set up the domain and hosting in your name, connect forms to your email and sheet, add Search Console, and launch. After launch come two months of free maintenance for fixes and small updates.`,
         `One thing we cannot do is visit your plant. Photos come from your team; we send a short shot list (machines, inspection area, dispatch, finished parts, team) so a phone camera is enough.`,
       ],
     },
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
       ["Content sheet and shot list", "We send a simple sheet for products, machines and certificates, plus a photo list your team can shoot on a phone."],
       ["Preview on your phone", "You check every specification, capacity and certificate date on a preview link and send corrections in one list."],
       ["Launch in your name", "Domain, hosting and email set up in your business name, forms tested, Search Console verified and sitemap submitted."],
-      ["Five free months", "Free maintenance for 5 months after launch for fixes and small updates, then optional care if you want us to continue."],
+      ["Two free months", "Free maintenance for 2 months after launch for fixes and small updates, then optional care if you want us to continue."],
     ],
   },
   faqHeading: "Website for MSME: questions owners ask",

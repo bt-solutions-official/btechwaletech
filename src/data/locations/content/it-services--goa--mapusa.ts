@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["POS and stock software", "Catalogue and ordering apps", "Online stores from ₹50,000", "AI automation from ₹40,000", "Paid via UPI QR or bank"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Mapusa: POS, stock and ordering software from ₹60,000 in six to twelve weeks, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000 and catalogue websites from ₹10,000. We are a freelance group of three remote engineers with no Mapusa office, and maintenance is free for five months after launch.",
+    "BtechWaleTech's freelance software developers build for Mapusa: POS, stock and ordering software from ₹60,000 in six to twelve weeks, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000 and catalogue websites from ₹10,000. We are a freelance group of three remote engineers with no Mapusa office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Role", value: "Headquarters of Bardez taluka and the main commercial town of North Goa, governed by the Mapusa Municipal Council" },
     { label: "Market", value: "Mapusa Municipal Market, built around 1960 as Goa's first planned market, famous for its Friday bazaar of village produce, spices and crafts" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI assistants that turn WhatsApp orders into draft bills, answer stock and price questions and follow up on unpaid invoices politely.",
     data: "Dashboards comparing weekday and Friday sales, season and monsoon demand, and each hotel customer's orders and dues.",
     app: "Android and iOS apps for Mapusa riders, salesmen, hotel buyers and loyal shoppers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Free maintenance for five months after launch, then plans from ₹8,000 a month so updates happen before the tourist season, not during it.",
+    maintenance: "Free maintenance for two months after launch, then plans from ₹8,000 a month so updates happen before the tourist season, not during it.",
   },
   whyUsIntro:
     "Mapusa traders have heard plenty of big software promises. We keep it plain: a freelance group of three engineers, starting prices on the page, working previews early, the code and accounts in your name, and replies on WhatsApp seven days a week, including Fridays.",
@@ -208,7 +208,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>POS, ordering or villa software:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -281,7 +281,7 @@ const content: CityContent = {
     {
       question: "What maintenance do I get?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay only when you need work. We schedule larger updates for the monsoon so the busy season is not disrupted.",
+        "Two months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month, or you pay only when you need work. We schedule larger updates for the monsoon so the busy season is not disrupted.",
     },
     {
       question: "Can the software and website be in Konkani or Marathi?",

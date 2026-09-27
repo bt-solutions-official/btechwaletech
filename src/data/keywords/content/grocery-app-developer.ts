@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Built with", "Flutter or React Native"],
     ["Payments", "UPI, cards, cash on delivery"],
     ["Store accounts", "Play Console and App Store in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on your grocery app" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Commission taken on your orders" },
-    { value: "5", label: "Months of free maintenance after release" },
+    { value: "2", label: "Months of free maintenance after release" },
   ],
   answer: {
     heading: "How much does a grocery app developer charge in India?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Starting price", value: `${P.app} for Android and iOS with a store panel` },
       { label: "Timeline", value: "6–10 weeks to store release" },
       { label: "Store listings", value: "Published in your Play Console and App Store accounts" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp order updates", note: `Order confirmation, packing and out-for-delivery messages, plus orders sent as a photo of a handwritten list, from ${P.ai}.`, href: "/whatsapp-automation-expert/", size: "md" },
       { name: "Web store alongside the app", note: `A browser-based shop for customers who will not install an app, sharing the same catalogue. Stores from ${P.shop}.`, href: "/freelance-ecommerce-developer/", size: "sm" },
       { name: "Local SEO", note: `Google Business Profile and local search so nearby buyers find the shop and the app, from ${P.seo}.`, href: "/local-seo-expert/", size: "sm" },
-      { name: "Maintenance", note: `OS updates, store policy changes and fixes. Five months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `OS updates, store policy changes and fixes. Two months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -257,7 +257,7 @@ const content: FreelanceContent = {
       heading: "Kirana store ke liye grocery app banwana hai? Seedhi baat",
       paragraphs: [
         `Agar aapke regular customers hafte mein ek-do baar saaman mangwate hain aur aap delivery kar sakte hain, toh app ka fayda hai. Customer phone se order karega, UPI ya cash on delivery se payment karega, aur aapke staff ko order ek panel par dikhega. Sabzi ke daam roz subah panel mein badal sakte hain.`,
-        `BtechWaleTech ke saath Android aur iPhone dono ke liye grocery app ${P.app} se shuru hota hai, aur 6–10 hafte lagte hain. Delivery boy ke liye alag app, do branch, ya billing software se stock sync ho toh quote badhta hai. App aapke apne Play Store aur App Store account mein publish hota hai, code bhi aapka. Launch ke baad 5 mahine maintenance free hai. Pehle WhatsApp par apni dukaan ke baare mein bataiye, 2 din mein itemised quote mil jaayega.`,
+        `BtechWaleTech ke saath Android aur iPhone dono ke liye grocery app ${P.app} se shuru hota hai, aur 6–10 hafte lagte hain. Delivery boy ke liye alag app, do branch, ya billing software se stock sync ho toh quote badhta hai. App aapke apne Play Store aur App Store account mein publish hota hai, code bhi aapka. Launch ke baad 2 mahine maintenance free hai. Pehle WhatsApp par apni dukaan ke baare mein bataiye, 2 din mein itemised quote mil jaayega.`,
       ],
     },
     {
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
       ["Approve scope and quote", "An itemised quote in about two working days separates the customer app, store panel, rider app and integrations, so you can phase them."],
       ["Try the prototype", "Tap through the designs on your own phone and let one or two staff try the panel. Send one combined round of changes."],
       ["Soft launch with regulars", "Weekly test builds lead to a trial with a small group of loyal customers. We fix what confuses them, then submit to both stores."],
-      ["Release and keep improving", "The app goes live in your accounts. For five months fixes and small changes are free, then optional maintenance continues."],
+      ["Release and keep improving", "The app goes live in your accounts. For two months fixes and small changes are free, then optional maintenance continues."],
     ],
   },
   faqHeading: "Grocery app developer: questions shop owners ask",
@@ -372,9 +372,9 @@ const content: FreelanceContent = {
     { question: "What licences does an online grocery business need?", answer: "Food businesses in India need FSSAI registration or a licence depending on turnover and activity, and showing your FSSAI number in the app is good practice. Packaged product listings should display declarations such as MRP, net quantity and country of origin. You also need GST registration where applicable and a clear privacy policy. Confirm specifics with your consultant." },
     { question: "How do I get customers to download my grocery app?", answer: "Start with the customers you already have: tell them at the counter, add a QR code to bills and bags, and message regulars on WhatsApp with a first-order offer. Make sure your Google Business Profile links to the app. Repeat use matters more than installs, so a quick reorder feature and reliable delivery do most of the work." },
     { question: "Is a freelance grocery app developer better than an agency?", answer: "For a single shop or small chain, a small freelance team usually fits well: direct contact with the people building the app, lower overheads and faster changes. An agency or larger engineering team makes sense for quick-commerce platforms with many dark stores, hundreds of riders and round-the-clock operations that need large teams working in parallel." },
-    { question: "What maintenance does a grocery app need?", answer: `Apps need updates for new Android and iOS versions, changes in store policies, security patches, and fixes as customers find edge cases. BtechWaleTech includes five months of free maintenance after release. After that, maintenance is optional and starts at ${P.care} a month, and your staff handle daily prices, stock and offers from the panel themselves.` },
+    { question: "What maintenance does a grocery app need?", answer: `Apps need updates for new Android and iOS versions, changes in store policies, security patches, and fixes as customers find edge cases. BtechWaleTech includes two months of free maintenance after release. After that, maintenance is optional and starts at ${P.care} a month, and your staff handle daily prices, stock and offers from the panel themselves.` },
     { question: "Can I hire a grocery app developer near me, or does remote work?", answer: "Remote works well. A video walkthrough of your shop gives the developer what an in-person visit would, test builds arrive on your phone every week, and questions go on WhatsApp. What matters is a clear scope, accounts in your name, staged payments and a soft launch with real customers, none of which depends on distance." },
-    { question: "Grocery app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iPhone ke liye grocery app, store panel ke saath, ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Delivery boy app, extra branch ya billing software sync ho toh kharcha badhta hai. Hosting aur Play Store, App Store ki fees aap seedha dete hain. Launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Grocery app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iPhone ke liye grocery app, store panel ke saath, ${P.app} se shuru hota hai aur 6–10 hafte lagte hain. Delivery boy app, extra branch ya billing software sync ho toh kharcha badhta hai. Hosting aur Play Store, App Store ki fees aap seedha dete hain. Launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related guides on apps for shops and delivery",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Talk to a grocery app developer about your shop",
-    note: `Tell us on WhatsApp how your shop takes orders today. In about two working days you get an itemised quote for the app, store panel and any rider app, with Android and iOS apps starting at ${P.app}, store accounts in your name and five months of free maintenance.`,
+    note: `Tell us on WhatsApp how your shop takes orders today. In about two working days you get an itemised quote for the app, store panel and any rider app, with Android and iOS apps starting at ${P.app}, store accounts in your name and two months of free maintenance.`,
   },
 };
 

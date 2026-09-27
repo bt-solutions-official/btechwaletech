@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents answering catalogue, MOQ, room and booking questions in Hindi and English on WhatsApp, collecting details and passing real leads to your team.",
     data: "Dashboards for container schedules, production backlog, trade positions, occupancy and receivables, drawn from Tally, sheets and your software.",
     app: "Android and iOS apps for Jodhpur buyers, dealers, guests and field staff, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Hosting, backups, security updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, security updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Jodhpur exporters answer to buyers in Germany, the Netherlands and the US who expect clear communication and on-time containers. Local hotels, advocates and traders expect straight talk. We are three freelance engineers who put scopes in writing, build in testable steps and keep every account in the client's name.",
@@ -122,7 +122,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development in Jodhpur starts at ₹40,000 with BtechWaleTech and takes six to ten weeks for a typical first version. We build one app in Flutter or React Native, publish it on both Google Play and the Apple App Store under your own developer accounts, and include login, forms, push notifications, an admin panel and an API linked to your software.",
         "Worthwhile Jodhpur apps usually have a clear repeat audience. Furniture and decor exporters can give overseas buyers and showroom partners a private catalogue app with new-collection notifications and enquiry forms. Textile and spice wholesalers can offer retailers a reorder app with current rates and their own ledger. Guest houses in the blue city and heritage hotels can provide repeat guests a booking and concierge app. Coaching centres and schools can share schedules and results, and clinics can take bookings and deliver reports.",
-        "Because many overseas buyers use iPhones, publishing on both stores from one codebase makes sense for exporters. If users would open the app only once, we recommend a fast mobile website instead. Apps share one backend with your website and software, and five months of post-launch fixes are included.",
+        "Because many overseas buyers use iPhones, publishing on both stores from one codebase makes sense for exporters. If users would open the app only once, we recommend a fast mobile website instead. Apps share one backend with your website and software, and two months of post-launch fixes are included.",
       ],
       list: [
         "Private catalogue app for furniture and decor buyers",
@@ -189,7 +189,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting keeps your tracker, ledger or booking system on managed servers with SSL, daily backups and monitoring, reachable from the factory, the office or a trade fair abroad. Everything is registered in your name on AWS or comparable providers, with automated deployments that can be rolled back.",
         "Legal and trade data get extra care: restricted roles, activity logs and encrypted connections. We also fix email deliverability so quotations and invoices reach overseas inboxes rather than spam folders.",
-        "Maintenance is free for five months after launch, then from ₹8,000 a month or on request. We reply on WhatsApp seven days a week. Office hardware and networking stay with your local technician.",
+        "Maintenance is free for two months after launch, then from ₹8,000 a month or on request. We reply on WhatsApp seven days a week. Office hardware and networking stay with your local technician.",
       ],
     },
     {
@@ -310,7 +310,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month or pay per request. We reply on WhatsApp seven days a week.",
+        "Two months of free maintenance after launch: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month or pay per request. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can the AI read buyer purchase orders automatically?",

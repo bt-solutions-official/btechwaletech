@@ -34,13 +34,13 @@ const content: FreelanceContent = {
     ["Workflow automation add-on", `From ${P.ai}, 2–4 weeks`],
     ["Licence fees per user", "None; you own the software"],
     ["Hosting", "Your cloud account, region of your choice"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
     ["Quote", "Itemised in USD in about 2 working days"],
   ],
   stats: [
     { value: "0", label: "Per-seat fees to us, however many users" },
     { value: "3", label: "Developers who design, build and support it" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "2", label: "Working days to a written, itemised quote" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Accounting", value: "Contacts, quotes and invoices synced with Xero" },
       { label: "Consent", value: "PDPA purpose, marketing consent and DNC check dates" },
       { label: "Hosting", value: "Your own cloud account, e.g. the Singapore region" },
-      { label: "Support", value: `5 free months, then from ${P.care}` },
+      { label: "Support", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Custom CRM development pricing for Singapore",
-    note: `Custom CRM builds start at ${P.software} and usually take six to twelve weeks. The quote grows with the number of pipelines and record types, the integrations (WhatsApp Business Platform, web forms, Xero, email, calendars), reporting needs, user roles and permissions, and data migration from spreadsheets or an existing CRM. Automation such as AI lead summaries or drafted follow-ups is a separate line from ${P.ai}. Hosting is billed to your own cloud account. Maintenance is free for five months, then from ${P.care}. We will also show you a three-year comparison against your current subscription.`,
+    note: `Custom CRM builds start at ${P.software} and usually take six to twelve weeks. The quote grows with the number of pipelines and record types, the integrations (WhatsApp Business Platform, web forms, Xero, email, calendars), reporting needs, user roles and permissions, and data migration from spreadsheets or an existing CRM. Automation such as AI lead summaries or drafted follow-ups is a separate line from ${P.ai}. Hosting is billed to your own cloud account. Maintenance is free for two months, then from ${P.care}. We will also show you a three-year comparison against your current subscription.`,
   },
   guideLabel: "Custom CRM development Singapore guide",
   guide: [
@@ -124,7 +124,7 @@ const content: FreelanceContent = {
       ],
       subs: [
         { heading: "Subscription three-year cost", text: "Users × per-seat monthly price × 36 months, plus add-ons, connectors and any onboarding fees." },
-        { heading: "Custom three-year cost", text: `Build (from ${P.software}) + 36 months of hosting + maintenance after the 5 free months + planned feature work.` },
+        { heading: "Custom three-year cost", text: `Build (from ${P.software}) + 36 months of hosting + maintenance after the 2 free months + planned feature work.` },
         { heading: "Also count", text: "Staff hours lost to double entry and workarounds in both cases; they are often the biggest number." },
       ],
     },
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This example is hypothetical. Picture a building-supplies distributor in Jurong with eighteen sales and admin staff, enquiries mostly on WhatsApp, quotations prepared in spreadsheets and invoices in Xero. They are weighing a mid-tier subscription CRM against a custom build.`,
         `Subscription path: eighteen seats at the tier that includes the automation they want, plus a WhatsApp connector and a Xero connector from the vendor's marketplace, over thirty-six months. The team would still adapt its quotation process to the product's deal model.`,
-        `Custom path: a build from ${P.software} covering accounts, contacts, a quotation pipeline, WhatsApp lead capture, Xero quotes and invoices, credit-term visibility and consent fields, delivered in about ten weeks. Then hosting in their own cloud account, five months of free maintenance, and maintenance from ${P.care} after that.`,
+        `Custom path: a build from ${P.software} covering accounts, contacts, a quotation pipeline, WhatsApp lead capture, Xero quotes and invoices, credit-term visibility and consent fields, delivered in about ten weeks. Then hosting in their own cloud account, two months of free maintenance, and maintenance from ${P.care} after that.`,
         `We would put both paths into a spreadsheet using the subscription's published prices on the day, and include an estimate of staff hours saved from removing double entry. The answer could go either way. If the subscription wins, the distributor should buy it; if the custom build wins by year three, they have the numbers to justify it.`,
       ],
     },
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
         ["Per user", "Monthly per seat, by tier", "None"],
         ["Integrations", "Marketplace connectors, some paid", "Built into the scope"],
         ["Hosting", "Included", "Your cloud account, billed to you"],
-        ["Support and updates", "Included in plan", `5 months free, then from ${P.care}`],
+        ["Support and updates", "Included in plan", `2 months free, then from ${P.care}`],
         ["New features", "When the vendor ships them", "Quoted work, when you choose"],
         ["Price changes", "Set by the vendor", "Set by your own choices"],
       ],
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
       ["Prototype and approve", "A clickable prototype and data model, tested with sample records from your spreadsheet. Build begins only after your written approval of scope."],
       ["Build in your cloud", "The CRM is developed on a staging system in your own cloud account, with weekly demos and a changelog your team can follow."],
       ["Migrate and test", "Trial imports, duplicate merging, consent history carried over, and real users testing daily tasks before the final switch-over weekend."],
-      ["Train and hand over", "Role-based training, admin guide, full source code and deployment notes, followed by five months of free maintenance."],
+      ["Train and hand over", "Role-based training, admin guide, full source code and deployment notes, followed by two months of free maintenance."],
     ],
   },
   faqHeading: "Custom CRM development in Singapore: frequently asked questions",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Will staff actually use a custom CRM?", answer: "Adoption depends on design. We involve daily users from the first workshop, keep mobile data entry quick, remove fields nobody fills in, and make the CRM do things staff value, such as reminders and WhatsApp capture. A system that saves each salesperson time gets used without constant reminders from managers." },
     { question: "Can the CRM work on phones for agents and field sales?", answer: `Yes. The CRM is a responsive web app that works well in a phone browser, so agents can log viewings, meetings and notes on the move. If you need offline use or push notifications, a native Android and iOS app can be added, starting from ${P.app}.` },
     { question: "Can you add AI features to a custom CRM?", answer: `Yes, as a separate line from ${P.ai}. Common examples are summarising a long WhatsApp conversation into a lead note, drafting follow-up messages for staff to approve, and extracting details from emailed enquiries. Personal data sent to an AI service is kept to the minimum needed and covered in your data-protection review.` },
-    { question: "What happens after the CRM goes live?", answer: `Five months of free maintenance cover fixes and small adjustments. After that, maintenance starts at ${P.care} and includes updates, monitoring and minor changes. New modules are quoted separately so you control spending. You can also take the code in-house or to another developer at any time.` },
+    { question: "What happens after the CRM goes live?", answer: `Two months of free maintenance cover fixes and small adjustments. After that, maintenance starts at ${P.care} and includes updates, monitoring and minor changes. New modules are quoted separately so you control spending. You can also take the code in-house or to another developer at any time.` },
     { question: "Is a remote team in India safe for a CRM with customer data?", answer: "It can be, with the right set-up: production data stays in your cloud account, we work on test data where possible, access is role-limited and revocable, and actions are logged. Because the PDPA covers overseas transfers, ask your counsel which safeguards you need; we will sign reasonable data-protection terms you provide." },
     { question: "How do we pay for a custom CRM project from Singapore?", answer: "We quote in USD and accept Wise, bank wire or PayPal against milestones set out in your written quote. Nothing is billed before you approve that quote in writing. Invoices come from India, so check any tax treatment with your accountant. Refund points follow our published refund policy." },
     { question: "Can the CRM grow into a customer portal or ordering system later?", answer: "Yes. Because the data model is yours, a trade ordering portal, a client login area or a booking system can be built on the same database later. That is one of the stronger reasons to own your CRM: new tools reuse the customer records instead of creating another silo." },

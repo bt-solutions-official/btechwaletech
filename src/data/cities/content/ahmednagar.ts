@@ -7,7 +7,7 @@ const ahmednagar: CityContent = {
   meta: {
     title: "Ahmednagar (Ahilyanagar) Web Design, SEO & Apps",
     description:
-      "Websites, local SEO and automation for Ahilyanagar (Ahmednagar) MIDC units, dairies, traders, clinics and Shirdi hotels. From ₹10,000 with 5 months free support.",
+      "Websites, local SEO and automation for Ahilyanagar (Ahmednagar) MIDC units, dairies, traders, clinics and Shirdi hotels. From ₹10,000 with 2 months free support.",
     keywords: [
       "website development team in Ahmednagar",
       "website designer Ahilyanagar",
@@ -30,11 +30,11 @@ const ahmednagar: CityContent = {
     eyebrow: "Ahilyanagar (Ahmednagar) · Maharashtra",
     h1: "Websites and local SEO for Ahilyanagar firms, from MIDC to Shirdi",
     lede:
-      "Nagar’s economy runs from the MIDC estate and cooperative sugar mills to dairies, onion traders, clinics on Savedi Road and hotels serving Shirdi pilgrims. We are three remote engineers who build websites, online stores, local SEO and WhatsApp automation at published prices, with five months of maintenance included free.",
+      "Nagar’s economy runs from the MIDC estate and cooperative sugar mills to dairies, onion traders, clinics on Savedi Road and hotels serving Shirdi pilgrims. We are three remote engineers who build websites, online stores, local SEO and WhatsApp automation at published prices, with two months of maintenance included free.",
     pills: ["Sites from ₹10,000", "Marathi and English search", "MIDC capability pages", "Pilgrim hotel bookings", "Full ownership handed over"],
   },
   quickAnswer:
-    "In Ahilyanagar (Ahmednagar), a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Nagar office, and every launch includes five months of free maintenance.",
+    "In Ahilyanagar (Ahmednagar), a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no Nagar office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Name", value: "Officially renamed Ahilyanagar in October 2024; Ahmednagar and Nagar are still widely searched" },
     { label: "Industry", value: "MIDC estate outside the city with over 200 units, plus MIDC areas at Supa, Shrirampur and Sangamner" },
@@ -51,10 +51,10 @@ const ahmednagar: CityContent = {
     ai: "WhatsApp assistants that answer booking, stock or timing questions in Marathi, Hindi or English and hand real leads to your team.",
     data: "Milk collection, sales and production dashboards that owners can check on a phone instead of waiting for month-end reports.",
     app: "Android and iPhone apps for field staff, milk collection centres, patients and students, tuned for basic handsets and published on both app stores.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, including the name-change updates many Nagar sites still need.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then from ₹8,000 a month, including the name-change updates many Nagar sites still need.",
   },
   whyUsIntro:
-    "Nagar businesses often get websites from Pune agencies at Pune prices, or from local freelancers who move on after launch. We are three engineers who publish our prices, reply on WhatsApp every day of the week, and maintain your site for five months after it goes live at no charge.",
+    "Nagar businesses often get websites from Pune agencies at Pune prices, or from local freelancers who move on after launch. We are three engineers who publish our prices, reply on WhatsApp every day of the week, and maintain your site for two months after it goes live at no charge.",
   pricingIntro:
     "Most website quotes in Ahilyanagar arrive as a single figure with no breakdown. Ours start from the numbers below and arrive item by item, so you can see exactly what each page and feature costs. Nothing is billed before you approve the quote in writing.",
   sections: [
@@ -72,7 +72,7 @@ const ahmednagar: CityContent = {
       heading: "Website costs in Ahilyanagar, stated upfront",
       paragraphs: [
         "Our prices are published so you have a clear reference before any meeting. A basic website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. A 299+ page SEO website, with a page for each service, product or area you serve, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start at ₹50,000. Custom applications, such as supplier portals or booking systems, start at ₹60,000.",
-        "Automation projects start at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the five free months. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
+        "Automation projects start at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the two free months. The complete list is on our <a href=\"/pricing/\">pricing page</a>.",
         "Scope decides the final figure. A clinic with three doctors is a small project. An engineering unit with twelve processes, certifications and downloadable datasheets is a bigger one. Your quote lists every item so you can remove what you do not need.",
       ],
       list: [
@@ -173,11 +173,11 @@ const ahmednagar: CityContent = {
     },
     {
       id: "ownership-maintenance-nagar",
-      heading: "Ownership, hosting and five months of free maintenance",
+      heading: "Ownership, hosting and two months of free maintenance",
       paragraphs: [
         "Many Nagar businesses have lost control of a website because the domain or hosting was in a former developer’s name. With the city’s rename, some cannot even update their own address. We set things up so this never happens.",
         "Your domain is registered to you and your hosting account is in your name. At launch, you receive every login and a short guide to how things fit together. The code is yours, and you can give it to another developer at any time without paying an exit fee.",
-        "For five months after launch, maintenance is free: content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, maintenance is free: content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
     {
@@ -274,7 +274,7 @@ const ahmednagar: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can pay per change.",
+        "For two months after launch we handle content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks without charge. After that, maintenance is from ₹8,000 a month, or you can pay per change.",
     },
     {
       question: "Do you work with businesses in Shrirampur, Sangamner and Rahuri?",

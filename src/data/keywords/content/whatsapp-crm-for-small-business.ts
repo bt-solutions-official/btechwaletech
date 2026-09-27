@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Per-user licence fees", "None on a custom build"],
     ["Runs on", "Official WhatsApp Business API"],
     ["Data lives in", "Your database or your Google Sheet"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "1", label: "WhatsApp number shared by the whole team" },
     { value: "0", label: "Per-user fees on a custom WhatsApp CRM" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What is the best WhatsApp CRM for small business in India?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Custom inbox and pipeline", value: `From ${P.software}, 6–12 weeks` },
       { label: "Subscription route", value: "Monthly fee per user or per plan, plus message charges" },
       { label: "Meta message charges", value: "Same on every route; billed to your account" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "WhatsApp CRM for small business pricing: rent or own",
-    note: `Two starting points. A Google Sheets-based WhatsApp CRM, with enquiries logged as rows, stages, owners and reminders, starts at ${P.ai} (${P.aiUsd}) and takes 2–4 weeks, including your WhatsApp Business API setup. A custom shared inbox with pipeline, assignment rules and reports is custom software from ${P.software} (${P.softwareUsd}), 6–12 weeks. Neither has per-user fees. Meta’s message charges are the same whichever route you pick and go to your own Meta account. After five free months of maintenance, upkeep is optional from ${P.care}. The table below shows every starting price.`,
+    note: `Two starting points. A Google Sheets-based WhatsApp CRM, with enquiries logged as rows, stages, owners and reminders, starts at ${P.ai} (${P.aiUsd}) and takes 2–4 weeks, including your WhatsApp Business API setup. A custom shared inbox with pipeline, assignment rules and reports is custom software from ${P.software} (${P.softwareUsd}), 6–12 weeks. Neither has per-user fees. Meta’s message charges are the same whichever route you pick and go to your own Meta account. After two free months of maintenance, upkeep is optional from ${P.care}. The table below shows every starting price.`,
   },
   guideLabel: "WhatsApp CRM for small business guide",
   guide: [
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       heading: "WhatsApp CRM for small business cost over 3 years",
       paragraphs: [
         `Compare three-year totals, not first-month prices. A subscription looks cheaper in month one and a custom build looks cheaper in year three; the crossing point depends on how many users you have and how long you will use it.`,
-        `For a subscription, the three-year cost is the monthly plan (or per-user price × users) × 36, plus any add-ons for extra numbers, chatbots or integrations, plus expected growth in users. For a custom build, it is the one-time build (from ${P.ai} for a Sheets-based setup, from ${P.software} for a custom inbox), plus hosting in your own cloud account, plus optional upkeep after the five free months, from ${P.care}. Meta’s message charges are identical on both sides unless the subscription adds a margin, so leave them out of the comparison and check the margin separately.`,
+        `For a subscription, the three-year cost is the monthly plan (or per-user price × users) × 36, plus any add-ons for extra numbers, chatbots or integrations, plus expected growth in users. For a custom build, it is the one-time build (from ${P.ai} for a Sheets-based setup, from ${P.software} for a custom inbox), plus hosting in your own cloud account, plus optional upkeep after the two free months, from ${P.care}. Meta’s message charges are identical on both sides unless the subscription adds a margin, so leave them out of the comparison and check the margin separately.`,
         `Then add the costs that do not show on invoices: time spent working around a pipeline that does not match your process, and the cost of moving data out if you switch later. For a team of two, the subscription usually wins. For eight salespeople who will use the system for years, the arithmetic often flips. We are happy to run both sides with your real numbers before you decide; the <a href='/crm-software-development-cost/'>CRM development cost page</a> shows the same method for bigger CRMs.`,
       ],
     },
@@ -261,7 +261,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The best WhatsApp CRM for small business fails if staff keep replying from their personal phones. Adoption is a people project, and it is worth planning as carefully as the software.`,
         `Start with one rule: all customer chats happen on the business number. Put the number on your website, bills, visiting cards and Google Business Profile, and ask staff to redirect customers who message them personally. Train in a single thirty-minute session using real chats, not slides. Keep the first version small, with an inbox, owners and reminders, and add stages or reports only when the team asks.`,
-        `For the first two weeks, the owner should look at the “no reply in 48 hours” list daily and follow up with staff in person. Once people see that reminders save them from awkward customer complaints, usage becomes habit. Expect small tweaks in this period, such as a new tag, a renamed stage or a change to the assignment rule; the five months of free maintenance after launch are there for exactly this stage, with the scope written into your quote.`,
+        `For the first two weeks, the owner should look at the “no reply in 48 hours” list daily and follow up with staff in person. Once people see that reminders save them from awkward customer complaints, usage becomes habit. Expect small tweaks in this period, such as a new tag, a renamed stage or a change to the assignment rule; the two months of free maintenance after launch are there for exactly this stage, with the scope written into your quote.`,
       ],
     },
     {
@@ -312,7 +312,7 @@ const content: FreelanceContent = {
         ["Per-user fee", "Plan or seat price × users × 36", "None", "None"],
         ["Add-ons (numbers, bots, integrations)", "Often extra plan tiers", "Quoted once, as lines", "Quoted once, as lines"],
         ["Hosting", "Included", "Negligible (Google account)", "Small cloud bill in your account"],
-        ["Upkeep", "Included while subscribed", `5 months free, then from ${P.care}`, `5 months free, then from ${P.care}`],
+        ["Upkeep", "Included while subscribed", `2 months free, then from ${P.care}`, `2 months free, then from ${P.care}`],
         ["Meta message charges", "Same (check for margin)", "Same, billed to you", "Same, billed to you"],
         ["Leaving later", "Export and migrate", "Data already in your Sheet", "Data already in your database"],
       ],
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Set up the number in your name", "We onboard your business number to the WhatsApp Business API in your own Meta account, keeping the phone app alongside if that suits you."],
       ["Build inbox, stages and rules", "Sheets or custom inbox, assignment rules, reminders and source tags, tested with your staff’s real phones and sample chats."],
       ["Walk through and switch over", "A handover walkthrough on a video call with your team, a short written how-to, and a date from which all customer chats move to the business number."],
-      ["Tune it while the team settles", "Maintenance is free for five months after launch, with what it covers set out in your quote. After that, upkeep is optional from " + P.care + "."],
+      ["Tune it while the team settles", "Maintenance is free for two months after launch, with what it covers set out in your quote. After that, upkeep is optional from " + P.care + "."],
     ],
   },
   faqHeading: "WhatsApp CRM for small business: questions owners ask",
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
     { question: "What reports should a small business get from a WhatsApp CRM?", answer: "Five are enough to start: first response time by person, new enquiries by source, chats untouched for 48 hours, quotes sent against deals won with lost reasons, and chats handled per person. Checked weekly, these show where leads leak and which lead sources are worth paying for." },
     { question: "Is customer data safe in a WhatsApp CRM?", answer: "It depends where it lives and who can see it. With a custom or Sheets-based setup, data stays in your own database or Google account, staff have role-based access and you control exports and deletion. With a subscription, it sits on the vendor’s servers under their terms. In India, handle it in line with the Digital Personal Data Protection Act, 2023." },
     { question: "Can the WhatsApp CRM reply automatically using AI?", answer: `Yes. An AI assistant can answer routine questions from your price list or FAQ, ask qualifying questions such as budget and location, and hand the chat to the assigned person with a summary. It works inside the free 24-hour window. AI features are quoted as separate lines, starting at ${P.ai}.` },
-    { question: "What does a WhatsApp CRM cost to run each month after it is built?", answer: `For a Sheets-based or custom build, running costs are Meta’s template message charges, a small hosting bill for a custom inbox, and optional upkeep, which BtechWaleTech provides free for five months and then from ${P.care}. There are no per-user fees, so adding staff does not raise the monthly bill.` },
+    { question: "What does a WhatsApp CRM cost to run each month after it is built?", answer: `For a Sheets-based or custom build, running costs are Meta’s template message charges, a small hosting bill for a custom inbox, and optional upkeep, which BtechWaleTech provides free for two months and then from ${P.care}. There are no per-user fees, so adding staff does not raise the monthly bill.` },
     { question: "Do you build WhatsApp CRMs for small businesses outside India?", answer: `Yes. The WhatsApp Business API works worldwide, and we can set up shared inboxes and light CRMs for small businesses in the UAE, UK, USA or anywhere else, billed in USD with Sheets-based setups from ${P.aiUsd}. Calls are scheduled in your hours and payment is by Wise, bank wire or PayPal.` },
     { question: "Chhote business ke liye WhatsApp CRM kaise banaye?", answer: `Pehle ek business number tay kijiye jis par saari enquiries aayengi. Phir har chat ka ek owner, 5–7 stages aur follow-up reminder set kijiye. Shuruaat Google Sheet se ho sakti hai, jo BtechWaleTech ${P.ai} se set karta hai. Team badhne par custom inbox ${P.software} se banta hai, bina per-user fees ke.` },
   ],
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Losing WhatsApp enquiries between phones? Let us look at how you sell",
-    note: `Tell us on WhatsApp how many people answer customers and where your leads come from. You get an itemised quote and a three-year rent-vs-own comparison in about two working days, with Sheets-based setups from ${P.ai}, everything in your name and five months of free maintenance.`,
+    note: `Tell us on WhatsApp how many people answer customers and where your leads come from. You get an itemised quote and a three-year rent-vs-own comparison in about two working days, with Sheets-based setups from ${P.ai}, everything in your name and two months of free maintenance.`,
   },
 };
 

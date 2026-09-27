@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Menu format we build", "HTML text, not a scanned PDF"],
     ["Owned by you", "Domain, hosting, Google profile, code"],
-    ["After a new site", "5 months of free maintenance"],
+    ["After a new site", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers working on your listing and site" },
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
         ["Online ordering site with UPI and card checkout", "Restaurant pushing direct delivery", `${P.shop}`, "4–8 weeks"],
         ["WhatsApp order and review automation", "High takeaway or delivery volume", `${P.ai}`, "2–4 weeks"],
         ["Ongoing monthly restaurant SEO", "Any outlet after setup", `${P.seo}`, "Month to month, reviewed quarterly"],
-        ["Website care after free period", "Sites we built, after 5 free months", `${P.care}`, "Monthly"],
+        ["Website care after free period", "Sites we built, after 2 free months", `${P.care}`, "Monthly"],
       ],
     },
     {

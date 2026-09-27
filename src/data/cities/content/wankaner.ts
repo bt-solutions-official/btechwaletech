@@ -56,7 +56,7 @@ const wankaner: CityContent = {
     ai: "WhatsApp and email assistants that collect port, quantity and design codes from export enquiries and pass ready leads to your sales desk.",
     data: "Morning dashboards of production, dispatch, dealer dues and enquiry sources, read from Tally or your own plant records.",
     app: "Android and iOS apps for dealers to re-order, sales reps to log showroom visits and drivers to confirm deliveries, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for backups, updates, new tile series and app store refreshes.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for backups, updates, new tile series and app store refreshes.",
   },
   whyUsIntro:
     "Wankaner owners deal with suppliers, dealers and exporters all day and can spot a vague promise quickly. We give written scopes, itemised quotes and published starting prices, reply on WhatsApp seven days a week, and register every domain, hosting plan, codebase and app account in your name. If a feature will not earn back its cost, we tell you.",
@@ -168,7 +168,7 @@ const wankaner: CityContent = {
       heading: "Who owns the site after launch, and what maintenance covers",
       paragraphs: [
         "Everything we build for a Wankaner client is registered to the client. The domain is booked on your email address, hosting is billed to you, the source code is handed over, and the Google Business Profile, Play Console and App Store accounts list you as owner. At handover you get a document with every login. If you later move to another developer or bring the work in-house, nothing stands in the way.",
-        "The first five months after launch come with free maintenance. That covers backups, security and software updates, small content edits such as new tile series or revised prices, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month, or you can take it over yourself using the documentation we leave behind.",
+        "The first two months after launch come with free maintenance. That covers backups, security and software updates, small content edits such as new tile series or revised prices, and checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month, or you can take it over yourself using the documentation we leave behind.",
         "Apps need extra attention because Google and Apple raise their technical requirements every year, and apps that fall behind can be pulled from the stores. We watch those deadlines and update your app ahead of them, so dealers and drivers are never locked out in the middle of a busy dispatch week.",
       ],
     },
@@ -259,7 +259,7 @@ const wankaner: CityContent = {
     {
       question: "Who maintains the website or app after launch?",
       answer:
-        "We do, free, for the first five months: backups, security updates, content edits and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or take it over yourself. Because the code and accounts already belong to you, switching to another developer needs no permission from us.",
+        "We do, free, for the first two months: backups, security updates, content edits and checks on forms, payments and WhatsApp links. After that you can continue with us from ₹8,000 a month or take it over yourself. Because the code and accounts already belong to you, switching to another developer needs no permission from us.",
     },
     {
       question: "Do you also work in Morbi, Rajkot and Thangadh?",

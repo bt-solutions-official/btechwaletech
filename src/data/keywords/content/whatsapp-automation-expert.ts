@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Platform", "Official WhatsApp Business Platform"],
     ["Message charges", "Paid by you to Meta, per template message"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who know your setup" },
     { value: "24", label: "Hour service window after a customer writes" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
     { value: "0", label: "Middleman markup on Meta’s message charges" },
   ],
   answer: {
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       heading: "WhatsApp automation karwana hai? Seedhi baat",
       paragraphs: [
         `Sabse pehle order updates automatic kijiye: order confirm, dispatch, tracking link aur delivery. Customer khush rehta hai aur staff ka time bachta hai. Offers ka broadcast sirf unhi logon ko bhejiye jinhone WhatsApp par message lene ki permission di hai, warna number block ho sakta hai.`,
-        `Hamare saath setup ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Meta ka per-message charge alag hota hai jo seedha aapke Meta account se jaata hai. Number, account aur code sab aapke naam par rehte hain, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Hamare saath setup ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Meta ka per-message charge alag hota hai jo seedha aapke Meta account se jaata hai. Number, account aur code sab aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
         ["Week 2", "Store or CRM integration, opt-in capture", "Test orders", "Working flows on staging"],
         ["Week 3", "Inbox, segments, logging, monitoring", "Staff try the inbox", "Go-live on real orders"],
         ["Handover", "Code, credentials, runbook", "Final payment", "Everything in your accounts"],
-        ["Next 5 months", "Template edits and fixes", "Message us on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Template edits and fixes", "Message us on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
       ["Set up your Meta account", "We guide you through the Meta Business account, verification and number onboarding in your name, then submit your templates for approval."],
       ["Connect and test", "Triggers from your systems are wired up and tested with real orders on your own phone before any customer receives a message."],
       ["Go live and hand over", "Automations switch on, logging and alerts start, and you receive the code, credentials, template list and a short runbook."],
-      ["Five months of free care", `Template edits, new triggers of the same kind and fixes are free for five months. Maintenance continues from ${P.care} afterwards if you want it.`],
+      ["Two months of free care", `Template edits, new triggers of the same kind and fixes are free for two months. Maintenance continues from ${P.care} afterwards if you want it.`],
     ],
   },
   faqHeading: "WhatsApp automation expert: common questions",
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
     { question: "Can the automation reply to customers using AI?", answer: `Yes. An AI assistant can answer routine questions from your price list, catalogue or FAQ, collect order or booking details and pass the chat to a staff member when the question is unusual. We keep AI answers limited to your own information and log every reply. AI features are quoted as separate lines, with AI automation work starting at ${P.ai}.` },
     { question: "Can messages be sent in Hindi and regional languages?", answer: "Yes. Each template can have approved versions in Hindi, Hinglish, Tamil, Telugu, Marathi, Bengali and other languages, and the automation chooses the version based on the customer’s preference stored in your records. Each language version goes through Meta’s approval separately, so plan a little extra time when launching several languages at once." },
     { question: "Who owns the WhatsApp account and number?", answer: "You should. The Meta Business account, WhatsApp Business account, phone number, templates and access tokens should all be registered to your business, with the developer added as a user. BtechWaleTech sets everything up in your name and hands over code, credentials and a runbook, so you can change developers or tools later without losing your number or history." },
-    { question: "What happens after the automation goes live?", answer: `For five months after go-live, BtechWaleTech handles template edits, small new triggers of the same kind, token renewals and fixes at no charge. After that, maintenance is optional and starts at ${P.care}. We also set up alerts, so if a webhook fails or an access token expires, someone is notified instead of updates quietly stopping.` },
+    { question: "What happens after the automation goes live?", answer: `For two months after go-live, BtechWaleTech handles template edits, small new triggers of the same kind, token renewals and fixes at no charge. After that, maintenance is optional and starts at ${P.care}. We also set up alerts, so if a webhook fails or an access token expires, someone is notified instead of updates quietly stopping.` },
     { question: "How do I pay for a WhatsApp automation project?", answer: "You receive an itemised written quote, and nothing is billed until you approve it. Payments are staged against visible work such as approved templates and working flows on test orders. Indian businesses pay by UPI or bank transfer; international clients by Wise, bank wire or PayPal. Meta’s message charges are always paid by you directly to Meta." },
     { question: "WhatsApp automation ka kharcha kitna aata hai?", answer: `BtechWaleTech ke saath WhatsApp automation setup ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. Iske alawa Meta har template message ka charge leta hai, jo category aur desh par depend karta hai aur seedha aapke Meta account se jaata hai. Customer ke message ke 24 ghante ke andar reply free hote hain. Number aur account aapke naam par rehte hain.` },
     { question: "Do you set up WhatsApp automation for businesses abroad?", answer: `Yes. The WhatsApp Business Platform works the same way worldwide, though Meta’s message rates differ by the recipient’s country. We work remotely with businesses in the UAE, UK, USA and elsewhere, billed in USD with setup starting at ${P.aiUsd}, and payments by Wise, bank wire or PayPal. Templates can be written in English, Arabic or other languages your customers use.` },
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tired of sending the same WhatsApp updates by hand?",
-    note: `Tell us on WhatsApp which messages your team types every day. In about two working days you get an itemised quote and a Meta cost estimate, with setup starting at ${P.ai}, the account and number in your name, and five months of free maintenance.`,
+    note: `Tell us on WhatsApp which messages your team types every day. In about two working days you get an itemised quote and a Meta cost estimate, with setup starting at ${P.ai}, the account and number in your name, and two months of free maintenance.`,
   },
 };
 

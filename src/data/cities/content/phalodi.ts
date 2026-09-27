@@ -56,7 +56,7 @@ const phalodi: CityContent = {
     ai: "WhatsApp assistants that quote approved rates, share dispatch status and answer stay or admission questions in Hindi.",
     data: "Dashboards of trucks loaded, tonnage by buyer, outstanding payments and seasonal mandi arrivals.",
     app: "Android and iOS apps for regular salt buyers to place orders or for drivers to update trips, from ₹40,000, listed on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Phalodi has a long trading tradition, and traders here know the difference between a rate and a promise. So we put our starting prices on the website, send a line-by-line quote in writing, reply on WhatsApp all seven days, and register the domain, hosting, code and app store accounts to you before a single page is built.",
@@ -191,7 +191,7 @@ const phalodi: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store or B2B ordering portal: from ₹50,000, four to eight weeks",
         "Custom software such as a dispatch register: from ₹60,000, six to twelve weeks",
-        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO: from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -216,7 +216,7 @@ const phalodi: CityContent = {
       heading: "Ownership, handover and maintenance for Phalodi websites and apps",
       paragraphs: [
         "You own the work outright. The domain is registered to your email, the hosting account is in your name, the source code is handed over, and your Google Business Profile, Play Console and Apple developer accounts list you as owner. At handover we give you a written record of every login so nobody, us included, can hold your website hostage.",
-        "Maintenance is free for five months after launch: rate and photo updates, backups, security patches and checks that forms, payments and WhatsApp links still work. After that, continue with us from ₹8,000 a month, move upkeep in-house, or give the code to any developer you prefer. Apps also need a yearly rebuild to meet Google and Apple's rising requirements, and we schedule that before any store deadline.",
+        "Maintenance is free for two months after launch: rate and photo updates, backups, security patches and checks that forms, payments and WhatsApp links still work. After that, continue with us from ₹8,000 a month, move upkeep in-house, or give the code to any developer you prefer. Apps also need a yearly rebuild to meet Google and Apple's rising requirements, and we schedule that before any store deadline.",
       ],
     },
     {
@@ -307,7 +307,7 @@ const phalodi: CityContent = {
     {
       question: "What maintenance do you give after launch?",
       answer:
-        "The first five months after launch include free maintenance: updates to rates and photos, backups, security patches and checks on forms and payments. Later, maintenance starts at ₹8,000 a month if you want us to continue. Because code and accounts are yours, you can move to anyone else freely.",
+        "The first two months after launch include free maintenance: updates to rates and photos, backups, security patches and checks on forms and payments. Later, maintenance starts at ₹8,000 a month if you want us to continue. Because code and accounts are yours, you can move to anyone else freely.",
     },
     {
       question: "Do you work in Bap, Lohawat and other Phalodi district towns?",

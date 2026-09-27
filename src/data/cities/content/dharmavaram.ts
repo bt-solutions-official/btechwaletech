@@ -35,7 +35,7 @@ const dharmavaram: CityContent = {
     pills: ["Websites from ₹10,000", "Saree stores from ₹50,000", "Telugu and English pages", "Handloom proof pages", "WhatsApp order desk"],
   },
   quickAnswer:
-    "A Dharmavaram business website with us starts from ₹10,000 and usually goes live in one to two weeks. Online saree stores start at ₹50,000, 299+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom software at ₹60,000. We are a remote team with no Dharmavaram office, and launch includes five months of free maintenance.",
+    "A Dharmavaram business website with us starts from ₹10,000 and usually goes live in one to two weeks. Online saree stores start at ₹50,000, 299+ page SEO sites at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom software at ₹60,000. We are a remote team with no Dharmavaram office, and launch includes two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The Silk City of Andhra Pradesh, in Sri Sathya Sai district" },
     { label: "GI product", value: "Dharmavaram handloom pattu sarees and paavadas hold a Geographical Indication" },
@@ -52,7 +52,7 @@ const dharmavaram: CityContent = {
     ai: "WhatsApp assistants that answer price-range, colour and delivery questions in Telugu or English and pass serious buyers to you.",
     data: "Sales dashboards that show which colours, borders and price bands actually sell before the wedding season.",
     app: "Android and iOS apps for agents who collect sarees from weavers' homes and record pieces, advances and dues, published on both stores.",
-    maintenance: "Five months of free fixes and backups after launch, then care from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free fixes and backups after launch, then care from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Dharmavaram sellers are often approached by marketplace consultants who push commission-heavy listings, or by template builders who vanish after payment. We give you a site you own, write product details a silk buyer actually checks, publish our starting prices openly and answer WhatsApp every day of the week.",
@@ -194,7 +194,7 @@ const dharmavaram: CityContent = {
       heading: "Your domain, your code, and who fixes things later",
       paragraphs: [
         "Several Dharmavaram sellers have lost websites because the domain was booked in a developer's name and nobody renewed it. We set up every project so that cannot happen. The domain and hosting are registered to you, all logins are handed over at launch, and the code is yours to keep or move.",
-        "For five months after launch, we handle updates, bug fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can call us only when something needs changing. There is no exit fee if you choose another developer, and we leave a short note explaining how everything is set up.",
+        "For two months after launch, we handle updates, bug fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can call us only when something needs changing. There is no exit fee if you choose another developer, and we leave a short note explaining how everything is set up.",
         "Our <a href=\"/services/web-development/\">web development page</a> explains each type of build in more detail if you want to read before talking to us.",
       ],
     },
@@ -282,7 +282,7 @@ const dharmavaram: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "For five months after launch we cover updates, fixes, security, backups and uptime checks free. Afterwards, maintenance starts from ₹8,000 a month, or you can pay only when you need a change. Nothing renews automatically without your agreement.",
+        "For two months after launch we cover updates, fixes, security, backups and uptime checks free. Afterwards, maintenance starts from ₹8,000 a month, or you can pay only when you need a change. Nothing renews automatically without your agreement.",
     },
     {
       question: "Do you work with businesses in Anantapur, Puttaparthi or Hindupur?",

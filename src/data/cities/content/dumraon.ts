@@ -56,7 +56,7 @@ const dumraon: CityContent = {
     ai: "WhatsApp assistants in Hindi that reply to fee, stock and timing questions at any hour and hand genuine decisions back to you.",
     data: "Simple dashboards of paddy bought, rice sold, dues pending and admissions by batch, readable on a phone.",
     app: "Android and iOS apps for coaching institutes to send tests and notices, or for traders to take re-orders from village retailers, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Dumraon owners have usually heard a few stories about a designer who took an advance and vanished, or a site whose domain was never handed over. We work against that: starting prices published, every item quoted in writing, WhatsApp replies seven days a week, and the domain, hosting, code and store accounts registered in your name from the first day.",
@@ -172,7 +172,7 @@ const dumraon: CityContent = {
       heading: "Ownership and maintenance of Dumraon websites and apps",
       paragraphs: [
         "Everything we build is yours in law and in practice. The domain is registered on your email, the hosting account is in your name, you receive the complete source code, and your Google Business Profile, Google Play developer account and Apple developer account show you as the owner. At handover you get a written sheet listing every login.",
-        "For the first five months after launch, maintenance is free. We update prices and photographs, take backups, apply security and software updates, and check that forms, UPI payment and WhatsApp buttons keep working. After that you can continue with us from ₹8,000 a month, manage the site yourself, or give the code to another developer without asking our permission.",
+        "For the first two months after launch, maintenance is free. We update prices and photographs, take backups, apply security and software updates, and check that forms, UPI payment and WhatsApp buttons keep working. After that you can continue with us from ₹8,000 a month, manage the site yourself, or give the code to another developer without asking our permission.",
         "Apps need a yearly update even if nothing looks broken, because Google and Apple raise their minimum requirements regularly. We track those deadlines and ship updates early, so your app is not removed from the store over a technical rule nobody noticed.",
       ],
     },
@@ -264,7 +264,7 @@ const dumraon: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: price and photo changes, backups, security updates and checks on forms, UPI payment and WhatsApp buttons. After that you can continue from ₹8,000 a month or move elsewhere. Since the code and accounts are already yours, switching needs no permission from us.",
+        "Maintenance is free for two months after launch: price and photo changes, backups, security updates and checks on forms, UPI payment and WhatsApp buttons. After that you can continue from ₹8,000 a month or move elsewhere. Since the code and accounts are already yours, switching needs no permission from us.",
     },
     {
       question: "Do you also work in Buxar, Nawanagar and Brahmpur?",

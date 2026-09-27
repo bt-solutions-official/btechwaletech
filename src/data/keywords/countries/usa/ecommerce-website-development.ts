@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering build, cloud and project management" },
     { value: "2", label: "Working days to an itemised store estimate" },
-    { value: "5", label: "Months of free fixes after the store opens" },
+    { value: "2", label: "Months of free fixes after the store opens" },
     { value: "7", label: "Days a week someone answers on WhatsApp" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Tax and shipping", value: "Nexus states, tax app setup, carrier rates and zones configured" },
       { label: "Migration", value: "Products, variants, images, customers, order history and 301 redirects" },
       { label: "Ownership", value: "Store account, domain, apps and any custom code registered to you" },
-      { label: "After launch", value: `5 months of free fixes, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free fixes, then care from ${P.care} a month` },
     ],
   },
   services: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Headless storefront", note: `A fast Astro or Next.js front end over Shopify or WooCommerce for brands that need custom content and speed. Scoped with web apps, from ${P.software}.`, href: "/usa/custom-website-development/", size: "md" },
       { name: "Store SEO", note: `Collection and product page structure, Product schema, Merchant Center feed and ongoing search work from ${P.seo} a month.`, href: "/usa/ecommerce-seo-services/", size: "sm" },
       { name: "Shopify Plus features", note: "Checkout extensions, B2B price lists and international markets for larger brands.", href: "/usa/shopify-plus-developer/", size: "sm" },
-      { name: "Store upkeep", note: `App and plugin updates, speed checks and small changes, free for five months then from ${P.care} a month.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Store upkeep", note: `App and plugin updates, speed checks and small changes, free for two months then from ${P.care} a month.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Account ownership", "Yours", "Depends on the agreement", "Yours from day one; we are invited as staff"],
       ["Meetings", "None needed", "In person or video", "Video in US Eastern mornings; no site visits"],
       ["Team size", "Just you", "Large teams available", "Three developers; not for enterprise replatforms with many workstreams"],
-      ["After launch", "App updates on you", "Retainer", `5 free months, then from ${P.care} a month`],
+      ["After launch", "App updates on you", "Retainer", `2 free months, then from ${P.care} a month`],
     ],
     fine: "If you run a very large catalogue across many brands with an ERP, a warehouse system and a merchandising team, a bigger ecommerce agency with dedicated specialists will cover more ground than three developers can.",
   },
@@ -307,7 +307,7 @@ const content: FreelanceContent = {
       id: "after-launch",
       heading: "After launch: keeping an ecommerce store healthy",
       paragraphs: [
-        `The first month after launch is when small problems show up in real orders, so we watch errors, abandoned checkouts and Search Console closely and fix issues quickly. Fixes and small changes are included for five months.`,
+        `The first month after launch is when small problems show up in real orders, so we watch errors, abandoned checkouts and Search Console closely and fix issues quickly. Fixes and small changes are included for two months.`,
         `After that, stores need regular care: app and plugin updates, theme updates, checking that tax and shipping rules still match your business, seasonal banners and new product templates. You can take a care plan from ${P.care} a month, pay per change or run it yourselves. Our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page explains what a plan includes.`,
         `Growth features often follow: subscriptions, wholesale portals, a mobile app from ${P.app} or AI tools that answer product questions from ${P.ai}. We plan the store’s data so those can be added without a rebuild.`,
       ],
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Store, domain, payment provider and carrier accounts are yours. We join as staff users and work on a preview theme or staging site."],
       ["Build templates and import a sample", "Home, collection and product templates plus twenty sample products, including your hardest one, reviewed on your phone before the full import."],
       ["Configure tax, shipping and checkout", "State tax settings from your accountant’s list, carrier rates, emails and payments, then test orders to real addresses across the country."],
-      ["Launch, watch and hand over", "Go live on a quiet weekday morning, monitor orders and errors, then hand over a written guide. Five months of free fixes begin at launch."],
+      ["Launch, watch and hand over", "Go live on a quiet weekday morning, monitor orders and errors, then hand over a written guide. Two months of free fixes begin at launch."],
     ],
   },
   faqHeading: "Ecommerce website development: questions US sellers ask",
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
     { question: "How do I get my products into Google Shopping for free?", answer: "Google Merchant Center offers free listings that can show products across Search, the Shopping tab, Images, YouTube, Maps and Lens. You need a product feed with accurate prices, availability, shipping and return details, and products must follow Google’s policies. We set up the feed and structured data during the build so the store is ready to submit." },
     { question: "Do I need a cookie banner on my online store?", answer: "It depends on where your customers are and which state laws apply to your business, which your attorney should confirm. Technically, we can add a consent banner that keeps non-essential tracking off until a shopper agrees and honours browser opt-out signals where required. The privacy policy wording should come from you or your lawyer." },
     { question: "Do you write product descriptions?", answer: "We can, in US English, as a separate line on the estimate. We usually start from your supplier data and a short call about what customers ask, then write clear descriptions with a specs table for each product. You approve everything, particularly claims about health, safety or materials, since those claims are yours to stand behind." },
-    { question: "What happens after my store launches?", answer: `We watch orders, errors and Search Console closely for the first weeks, and fixes and small changes are included for five months. After that you can take a care plan from ${P.care} a month, pay per change, or run the store yourself using the written guide we hand over. App updates and seasonal changes are the usual ongoing work.` },
+    { question: "What happens after my store launches?", answer: `We watch orders, errors and Search Console closely for the first weeks, and fixes and small changes are included for two months. After that you can take a care plan from ${P.care} a month, pay per change, or run the store yourself using the written guide we hand over. App updates and seasonal changes are the usual ongoing work.` },
     { question: "Can you also build a mobile app for my store?", answer: `Yes. We build Android and iOS apps in Flutter or React Native from ${P.app}, published under your own Google Play and App Store developer accounts. For most stores, a fast mobile website comes first; an app makes sense once you have repeat customers who would use push notifications and saved carts.` },
   ],
   related: {

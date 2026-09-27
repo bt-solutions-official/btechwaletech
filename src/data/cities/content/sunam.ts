@@ -56,7 +56,7 @@ const sunam: CityContent = {
     ai: "WhatsApp assistants that reply in Punjabi and Hindi to rate, stock and admission questions and pass real deals to you.",
     data: "Dashboards of crop arrivals, farmer balances, wholesale orders by town and outstanding retailer dues.",
     app: "Android and iOS apps for retailers to reorder from Sunam wholesalers or for students to get college notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Sunam's traders have worked with the same families and retailers for generations, and they value straight dealing. We match that: published starting prices, an itemised quote in writing, WhatsApp replies on all seven days, and the domain, hosting, code and store accounts registered to you. If a feature will not pay for itself, we tell you before you pay for it.",
@@ -158,7 +158,7 @@ const sunam: CityContent = {
       heading: "Website cost in Sunam: starting prices and what to compare",
       paragraphs: [
         "Most conversations in Sunam open with “kinne da banega?”, so the entry points come first. A plain business site, anything up to 100 pages, begins at ₹10,000 and is normally finished inside a fortnight. A larger search-focused build of 299-plus pages, the kind a cloth house with dozens of ranges or a college with many courses needs, begins at ₹20,000 and runs three to five weeks.",
-        "Phone apps for Android and iPhone begin at ₹40,000. WhatsApp and AI automation also begins at ₹40,000 and usually needs two to four weeks. A retailer catalogue or online shop begins at ₹50,000 with four to eight weeks of work, and custom tools such as an arhtiya ledger begin at ₹60,000 over six to twelve weeks. Ongoing SEO work begins at ₹10,000 per month, and after the free five-month support period, upkeep begins at ₹8,000 per month for those who want it.",
+        "Phone apps for Android and iPhone begin at ₹40,000. WhatsApp and AI automation also begins at ₹40,000 and usually needs two to four weeks. A retailer catalogue or online shop begins at ₹50,000 with four to eight weeks of work, and custom tools such as an arhtiya ledger begin at ₹60,000 over six to twelve weeks. Ongoing SEO work begins at ₹10,000 per month, and after the free two-month support period, upkeep begins at ₹8,000 per month for those who want it.",
         "The figure moves up only for options you pick: three languages instead of one, a thousand-item catalogue, retailer logins, UPI collection or an export for your accountant. Every option is a separate line that you may accept or cross out, and sending your own photographs and write-up keeps the total close to the base.",
         "Two quotes in Sangrur district for similar-sounding work can be far apart. Put the same questions to everyone: in whose name will the domain sit, will the site be tried on an inexpensive handset, is on-page SEO part of the job, how many change rounds are allowed, and what will support cost in year two. Our base rates are listed on the <a href=\"/pricing/\">pricing page</a>, and a line-by-line quote for your job follows within roughly two working days.",
       ],
@@ -178,7 +178,7 @@ const sunam: CityContent = {
       heading: "Ownership and upkeep for Sunam websites and apps",
       paragraphs: [
         "A Sunam client keeps full control of the finished work. We book the web address against your email, hosting invoices carry your name, every file of source code is passed to you, and your map listing, Play Console and Apple developer account are set up with you as the owner. A signed handover sheet lists every password, so neither we nor any future freelancer can keep the site hostage.",
-        "The first five months after going live cost nothing for upkeep. In that time we change stock photos and rates when asked, keep backups, install security and version updates, and test the forms, UPI checkout and WhatsApp links at intervals. When the period ends, it is your call: stay on from ₹8,000 a month, run things yourself, or give the code to someone else.",
+        "The first two months after going live cost nothing for upkeep. In that time we change stock photos and rates when asked, keep backups, install security and version updates, and test the forms, UPI checkout and WhatsApp links at intervals. When the period ends, it is your call: stay on from ₹8,000 a month, run things yourself, or give the code to someone else.",
         "Even a working app has to be rebuilt about once a year, because the two app stores keep lifting the lowest version they will accept. We note those deadlines in advance and release the refresh early, so a college or wholesaler never finds its listing suspended during admissions or the wheat season.",
       ],
     },
@@ -270,7 +270,7 @@ const sunam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You pay nothing for upkeep during the first five months: edits to rates and photos, backups, security patches and periodic tests of forms, UPI and WhatsApp buttons are included. Afterwards, support continues from ₹8,000 a month if you want it. Every account already belongs to you, so you are free to change developers at any time.",
+        "You pay nothing for upkeep during the first two months: edits to rates and photos, backups, security patches and periodic tests of forms, UPI and WhatsApp buttons are included. Afterwards, support continues from ₹8,000 a month if you want it. Every account already belongs to you, so you are free to change developers at any time.",
     },
     {
       question: "Do you work in Longowal, Sangrur and Dhuri too?",

@@ -31,11 +31,11 @@ const nagina: CityContent = {
     eyebrow: "Nagina · Bijnor district · Uttar Pradesh",
     h1: "Websites, apps, SEO and AI automation for Nagina's woodcarvers, sugar-belt traders and family businesses",
     lede:
-      "We are three remote engineers who build websites, online catalogues, small business software and WhatsApp automation for Nagina and the surrounding Bijnor towns. Our work suits ebony and sheesham workshops selling to exporters, cane-belt dealers, schools, clinics and shops. Prices are published as starting points, you deal with the people writing the code, and upkeep is free for five months.",
+      "We are three remote engineers who build websites, online catalogues, small business software and WhatsApp automation for Nagina and the surrounding Bijnor towns. Our work suits ebony and sheesham workshops selling to exporters, cane-belt dealers, schools, clinics and shops. Prices are published as starting points, you deal with the people writing the code, and upkeep is free for two months.",
     pills: ["Websites from ₹10,000", "Woodcraft catalogues", "Hindi, Urdu and English", "UPI and Razorpay stores", "WhatsApp enquiry bots"],
   },
   quickAnswer:
-    "For a Nagina business, our static website starts at ₹10,000 and usually takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nagina office, and maintenance is free for five months.",
+    "For a Nagina business, our static website starts at ₹10,000 and usually takes one to two weeks. SEO websites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We are a remote team with no Nagina office, and maintenance is free for two months.",
   snapshot: [
     { label: "Where it is", value: "Tehsil town and municipal board in Bijnor district, western Uttar Pradesh, on the rail line between Moradabad and Najibabad" },
     { label: "Known for", value: "Nagina Wood Craft: carving, inlay and jali work on ebony and sheesham, awarded a Geographical Indication tag in 2023" },
@@ -52,7 +52,7 @@ const nagina: CityContent = {
     ai: "WhatsApp assistants that send catalogue photos, sizes and starting rates to overseas and domestic buyers while the owner is at the bench.",
     data: "Simple dashboards showing which designs sell, which buyers repeat and which invoices are still unpaid, readable on a phone.",
     app: "Android and iOS apps for woodcraft buyer orders, school notices or clinic appointments, listed on both stores with builds from ₹40,000.",
-    maintenance: "Five months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Nagina makes objects that sell in Delhi showrooms and foreign gift shops, yet most of the town's workshops have no website of their own, and the buyer's link is usually an exporter's page. We help Nagina businesses own that link. We publish starting prices, answer on WhatsApp all week, and keep your domain, hosting and code in your name.",
@@ -161,7 +161,7 @@ const nagina: CityContent = {
       paragraphs: [
         "Small towns are full of stories about a nephew or local shop that built a website, kept the domain in its own name and then lost interest. When the renewal lapses, the business loses its address and years of search history with it.",
         "We register the domain and hosting in your name, hand over every password at launch, and give you the complete code with a short written note on how it is set up. If you ever want another developer to take over, there is nothing to negotiate and no exit charge.",
-        "For five months after launch we maintain the site free: updating text and prices, fixing bugs, applying security patches, taking backups and checking that it loads fast. After that, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work.",
+        "For two months after launch we maintain the site free: updating text and prices, fixing bugs, applying security patches, taking backups and checking that it loads fast. After that, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing and pay for that work.",
       ],
     },
     {
@@ -259,9 +259,9 @@ const nagina: CityContent = {
         "Yes. We register the domain and hosting in your name and hand over every login and the full source code at launch. You can move to another developer at any time without paying us anything to leave. We would rather keep clients through good service than by holding their website hostage.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months we handle updates, fixes, backups, security patches and speed checks at no charge. After that you can choose monthly maintenance from ₹8,000, or simply contact us when you need a change and pay for that piece of work. There is no lock-in either way.",
+        "During the first two months we handle updates, fixes, backups, security patches and speed checks at no charge. After that you can choose monthly maintenance from ₹8,000, or simply contact us when you need a change and pay for that piece of work. There is no lock-in either way.",
     },
     {
       question: "Can you build software to track orders and karigar payments?",

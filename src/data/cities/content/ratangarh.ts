@@ -56,7 +56,7 @@ const ratangarh: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rates, stock, fees and room availability, and pass real decisions to you.",
     data: "Dashboards of purchases by season, sales by buyer, dues by retailer and admissions by class.",
     app: "Android and iOS apps for retailer re-orders, school notices or dharamshala bookings, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Maintenance is free for the first five months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Maintenance is free for the first two months after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Ratangarh has produced trading families who built businesses from Kolkata to Assam, and they expect accounts to be clean. Our starting prices are public, quotes come itemised and in writing, WhatsApp is answered every day, and every domain, hosting, code and app store account is registered to you. If a feature is not worth the money, we will tell you.",
@@ -176,7 +176,7 @@ const ratangarh: CityContent = {
       heading: "Ownership and maintenance for Ratangarh websites and apps",
       paragraphs: [
         "We have heard of many cases where a website vanished because the person who made it held the domain in his own name. That does not happen with us. Your domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are opened in your name, and all logins are handed over in writing.",
-        "The first five months after launch come with free maintenance: content and price edits, backups, security patches, software updates and regular checks on forms, payments and WhatsApp links. From then on, maintenance is optional at ₹8,000 a month onwards, and you may move to another developer at any time.",
+        "The first two months after launch come with free maintenance: content and price edits, backups, security patches, software updates and regular checks on forms, payments and WhatsApp links. From then on, maintenance is optional at ₹8,000 a month onwards, and you may move to another developer at any time.",
         "Apps also need yearly updates as Google and Apple change their requirements. We plan those in good time so your app stays available in both stores.",
       ],
     },
@@ -268,7 +268,7 @@ const ratangarh: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, you can continue at ₹8,000 a month onwards or stop. Because the code is yours, you can also move to another developer at any time.",
+        "Two months of maintenance are free after launch, covering edits, backups, security patches and checks on forms, payments and WhatsApp links. After that, you can continue at ₹8,000 a month onwards or stop. Because the code is yours, you can also move to another developer at any time.",
     },
     {
       question: "Do you work in Sujangarh, Sardarshahar and Rajaldesar?",

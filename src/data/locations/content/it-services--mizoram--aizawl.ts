@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "Workflow automation from ₹40,000", "Portals and dashboards", "Android & iOS apps from ₹40,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "Freelance software developers in Aizawl: BtechWaleTech, three remote engineers, builds custom software and web apps from ₹60,000 in 6 to 12 weeks, AI agents and workflow automation from ₹40,000 in 2 to 4 weeks, and online stores from ₹50,000. We have no Aizawl office, reply seven days a week and include five months of free maintenance.",
+    "Freelance software developers in Aizawl: BtechWaleTech, three remote engineers, builds custom software and web apps from ₹60,000 in 6 to 12 weeks, AI agents and workflow automation from ₹40,000 in 2 to 4 weeks, and online stores from ₹50,000. We have no Aizawl office, reply seven days a week and include two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Capital of Mizoram and its administrative, commercial, medical and education hub, built along steep north–south ridges" },
     { label: "Institutions", value: "Mizoram University at Tanhril, Pachhunga University College, NIT Mizoram and Zoram Medical College at Falkawn" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents that draft letters, summarise reports, answer routine questions and route requests to the right person inside your organisation.",
     data: "MIS dashboards for managers and committees, pulling from registers, Tally exports and sheets into one current view.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for Aizawl students, patients, members and retailers.",
-    maintenance: "Remote updates, security patches, backups and uptime checks, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Remote updates, security patches, backups and uptime checks, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Aizawl has capable local IT vendors, and for hardware or on-site work they are often the right call. For software, a freelance group offers a different deal: direct access to the engineers, published starting prices, WhatsApp replies every day and full handover of code and accounts.",
@@ -200,7 +200,7 @@ const content: CityContent = {
       id: "support-maintenance-aizawl",
       heading: "IT support and maintenance after launch in Aizawl",
       paragraphs: [
-        "Every Aizawl project includes five months of free maintenance after going live: bug fixes, security updates, small changes, backups and uptime checks. Afterwards, maintenance continues from ₹8,000 a month, or you contact us only when a change is needed.",
+        "Every Aizawl project includes two months of free maintenance after going live: bug fixes, security updates, small changes, backups and uptime checks. Afterwards, maintenance continues from ₹8,000 a month, or you contact us only when a change is needed.",
         "Our support is remote and covers the software, websites, hosting, domains, email setup and automations we built. On-site hardware or network work needs a local Aizawl technician, whom we can guide by phone where the problem touches our systems.",
         "Requests arrive on WhatsApp or email and are answered seven days a week. Outages are restored first and explained afterwards. Before the free period ends, we send a health report listing updates made and renewals ahead.",
       ],
@@ -227,7 +227,7 @@ const content: CityContent = {
         "Itemised estimate in about two working days",
         "Screen map and data model sign-off",
         "Weekly demos and feedback",
-        "Launch, training by video and five free months of maintenance",
+        "Launch, training by video and two free months of maintenance",
       ],
     },
   ],
@@ -288,7 +288,7 @@ const content: CityContent = {
     {
       question: "What is covered in the free maintenance period?",
       answer:
-        "For five months after launch we fix bugs, apply security and dependency updates, make small changes, verify backups and monitor uptime and speed. After that, plans start at ₹8,000 a month, or you can pay per change. On-site hardware support is not included.",
+        "For two months after launch we fix bugs, apply security and dependency updates, make small changes, verify backups and monitor uptime and speed. After that, plans start at ₹8,000 a month, or you can pay per change. On-site hardware support is not included.",
     },
     {
       question: "Is it safe to store member or patient data in the cloud?",

@@ -56,7 +56,7 @@ const anjangaon: CityContent = {
     ai: "WhatsApp assistants that reply in Marathi and Hindi to rate, loading and timing questions and forward real negotiations to you.",
     data: "Season dashboards of lorries dispatched, buyers by state, rates paid to growers and dues still outstanding.",
     app: "Android and iOS apps for buyers in other states to book banana loads or for school parents to get notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Traders in Anjangaon deal on trust and on the phone, and they notice quickly when a promise is not kept. We publish starting prices, send an itemised quote in writing, reply on WhatsApp every day, and register the domain, hosting, code and app store accounts in your own name. When a feature will not earn back its cost, we tell you plainly.",
@@ -158,7 +158,7 @@ const anjangaon: CityContent = {
       heading: "Website cost in Anjangaon: starting prices and what to compare",
       paragraphs: [
         "People in Anjangaon usually ask the price first, so here it is. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 or more pages, the size a trader or college uses to cover every product, course and nearby village, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, and so does AI automation, which takes two to four weeks.",
-        "An online store starts at ₹50,000 over four to eight weeks, custom software at ₹60,000 over six to twelve weeks, and monthly SEO at ₹10,000 a month. After launch you get five months of free maintenance, and ongoing care then starts at ₹8,000 a month if you want it.",
+        "An online store starts at ₹50,000 over four to eight weeks, custom software at ₹60,000 over six to twelve weeks, and monthly SEO at ₹10,000 a month. After launch you get two months of free maintenance, and ongoing care then starts at ₹8,000 a month if you want it.",
         "Your figure rises only with choices you make: Marathi and English versions, many product photographs, payment collection, staff logins, or a Tally export. Each appears as its own line so you can keep or drop it. Writing is also optional; if you send your own text and phone photos, the quote barely changes.",
         "Local quotes vary widely for jobs that sound the same. When comparing, ask who will own the domain, whether the site is tested on low-cost phones, whether basic SEO is included, how many rounds of changes are covered and what support costs after a year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your written quote arrives in about two working days.",
       ],
@@ -178,7 +178,7 @@ const anjangaon: CityContent = {
       heading: "Ownership and maintenance for Anjangaon websites and apps",
       paragraphs: [
         "Everything we build for an Anjangaon client belongs to that client. The domain is registered on your email, hosting is billed in your name, the full source code is handed over, and the Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you receive a written sheet of every login, so no single person, including us, can lock you out later.",
-        "For five months after launch, maintenance is free. We update rates and photographs, take backups, apply security and software updates, and test the enquiry forms, UPI payments and WhatsApp buttons from time to time. After that, you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
+        "For two months after launch, maintenance is free. We update rates and photographs, take backups, apply security and software updates, and test the enquiry forms, UPI payments and WhatsApp buttons from time to time. After that, you choose: continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer.",
         "Apps need a yearly update even when nothing seems broken, because Google and Apple raise their minimum requirements regularly. We track those deadlines and push the update before your app is flagged, so buyers never find it missing from the store in the middle of a season.",
       ],
     },
@@ -270,7 +270,7 @@ const anjangaon: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: rate and photo changes, backups, security updates and regular checks of forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. Since all accounts and code are already yours, switching developers needs no permission from us.",
+        "Maintenance is free for two months after launch: rate and photo changes, backups, security updates and regular checks of forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. Since all accounts and code are already yours, switching developers needs no permission from us.",
     },
     {
       question: "Do you work in Akot, Achalpur and Daryapur too?",

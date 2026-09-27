@@ -56,7 +56,7 @@ const mahasamund: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rate, stock, admission and appointment questions and hand real decisions to you.",
     data: "Season-wise dashboards of paddy received, rice dispatched, outstanding payments and orders by buyer.",
     app: "Android and iOS apps for mill buyers to place repeat orders or for a school to reach parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Mahasamund owners usually know exactly what a job should cost and dislike surprises halfway through. We publish starting prices, send an itemised written quote, reply on WhatsApp every day of the week and keep the domain, hosting, code and store accounts in your name. When a feature will not earn back its cost, we tell you plainly.",
@@ -169,7 +169,7 @@ const mahasamund: CityContent = {
       paragraphs: [
         "Because we are not in Mahasamund, we put everything in writing. The first call covers your business, your customers and what the website or app must do. You then receive a page or screen plan, a timeline and an itemised quote. After approval, we share preview links you can open on your own phone, show to partners and comment on. Nothing is billed before you approve the quote in writing, and payments follow visible progress.",
         "We reply on WhatsApp seven days a week on Indian Standard Time. Hindi and Odia text goes to you for checking before it is published, and if a delay comes up you hear about it when we know, not on the delivery date.",
-        "A familiar problem in district towns is a website that vanished because the builder kept the domain in his own name. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts to you, and hand over logins in writing. Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
+        "A familiar problem in district towns is a website that vanished because the builder kept the domain in his own name. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store accounts to you, and hand over logins in writing. Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const mahasamund: CityContent = {
     {
       question: "What maintenance do I get after my website launches?",
       answer:
-        "Maintenance is free for five months after launch. That covers content and price changes, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you wish to continue, and you can take the code to another developer whenever you like.",
+        "Maintenance is free for two months after launch. That covers content and price changes, backups, security patches, software updates and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you wish to continue, and you can take the code to another developer whenever you like.",
     },
     {
       question: "Do you work in Bagbahara, Pithora and Sirpur too?",

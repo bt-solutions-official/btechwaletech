@@ -56,7 +56,7 @@ const pachora: CityContent = {
     ai: "WhatsApp assistants that reply in Marathi or Hindi with today's rates, stock and timings, and pass real bargaining to the owner.",
     data: "Season dashboards of cotton bought per village, bales pressed, banana loads dispatched and money still owed.",
     app: "Android and iOS apps from ₹40,000 for farmer registration, dealer re-orders or college notices, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "In Pachora, a business owner usually knows the seller, the seller's father and the shop next door. Trust is built slowly. We cannot shake hands at your counter, so we earn it on paper instead: a written itemised quote, starting prices in public view, replies on WhatsApp every day, and every account registered in your name from the first day.",
@@ -198,7 +198,7 @@ const pachora: CityContent = {
       heading: "Ownership, handover and maintenance for Pachora websites and apps",
       paragraphs: [
         "Everything we build for a Pachora client is registered to that client. The domain is booked on your email, hosting is billed in your name, the source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as the owner. At handover you receive a sheet of every login, so no developer, including us, can hold your business online to ransom.",
-        "For five months after launch, maintenance costs you nothing. In that time we change rates and photographs when the season turns, keep backups, apply security and software updates, and test forms, UPI checkout and WhatsApp links from time to time. After that you can continue with us from ₹8,000 a month, manage it in-house or give the code to another developer.",
+        "For two months after launch, maintenance costs you nothing. In that time we change rates and photographs when the season turns, keep backups, apply security and software updates, and test forms, UPI checkout and WhatsApp links from time to time. After that you can continue with us from ₹8,000 a month, manage it in-house or give the code to another developer.",
         "Apps need attention even when nothing is broken, because Google and Apple raise their minimum requirements every year. We track those deadlines and ship the required update early so your app is not removed from the store. For ginning and dealer software, we plan changes in the off-season so the system is never being rebuilt while tractors are waiting at the gate.",
       ],
     },
@@ -276,7 +276,7 @@ const pachora: CityContent = {
     {
       question: "What maintenance do you provide after the site goes live?",
       answer:
-        "The first five months after launch are free: we update rates and photographs, keep backups, apply security updates and check forms, UPI checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take it in-house, since the code and accounts are already yours.",
+        "The first two months after launch are free: we update rates and photographs, keep backups, apply security updates and check forms, UPI checkout and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take it in-house, since the code and accounts are already yours.",
     },
     {
       question: "Do you work in Bhadgaon, Jamner, Soegaon and Jalgaon too?",

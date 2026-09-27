@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Ordering apps and portals", "AI and WhatsApp from ₹40,000", "Software from ₹60,000", "Serving all of Salcete", "Paid by UPI QR or bank"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers serve Margao with custom web apps and ordering portals from ₹60,000 (six to twelve weeks), AI and WhatsApp automation or Android and iOS apps from ₹40,000, and websites from ₹10,000 (one to two weeks). We are a freelance group of three engineers working remotely, not a local office, and five months of maintenance comes free.",
+    "BtechWaleTech's freelance software developers serve Margao with custom web apps and ordering portals from ₹60,000 (six to twelve weeks), AI and WhatsApp automation or Android and iOS apps from ₹40,000, and websites from ₹10,000 (one to two weeks). We are a freelance group of three engineers working remotely, not a local office, and two months of maintenance comes free.",
   snapshot: [
     { label: "Role", value: "Headquarters of South Goa district and the main commercial town of Salcete taluka" },
     { label: "Trade centres", value: "The old Gandhi Market area, the new municipal market, Station Road and the shopping streets around the Municipal Garden" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents that read retailer orders from WhatsApp messages or photos, answer rate queries and draft replies for a person to approve.",
     data: "Dashboards showing orders, collections, route sales and stock across Salcete, Quepem and Canacona on one phone screen.",
     app: "Android and iOS apps for Margao salesmen, delivery riders, clinics and schools, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month, handled remotely and answered seven days a week.",
+    maintenance: "Two months of free maintenance after launch, then support from ₹8,000 a month, handled remotely and answered seven days a week.",
   },
   whyUsIntro:
     "Margao business owners are careful buyers who like to know exactly what they are paying for. That suits the way we work: a freelance group of three engineers with starting prices on the page, itemised quotes, code and accounts in your name, and direct WhatsApp access to the people writing the software.",
@@ -184,7 +184,7 @@ const content: CityContent = {
       id: "it-support-margao",
       heading: "IT support and maintenance for Margao systems after launch",
       paragraphs: [
-        "IT support from BtechWaleTech means the software and hosting we build keep running: bugs fixed, updates applied, backups checked and small changes made. The first five months after launch are free, and ongoing plans start from ₹8,000 a month.",
+        "IT support from BtechWaleTech means the software and hosting we build keep running: bugs fixed, updates applied, backups checked and small changes made. The first two months after launch are free, and ongoing plans start from ₹8,000 a month.",
         "We work remotely, so we support software, hosting, domains and email, not office printers or network cabling. For hardware in Margao, a local technician is the right choice, and we can work alongside one. Clients message us on WhatsApp any day of the week, and urgent problems such as a failed payment page or an ordering app outage are dealt with first.",
         "Every change goes through a staging copy before reaching the live system. Monthly, we check security updates, backup restores and site speed, and we tell you if anything needs a decision from you, such as renewing a domain or upgrading a server.",
       ],
@@ -203,7 +203,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Custom software or web app:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -283,7 +283,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include after launch?",
       answer:
-        "Five months of maintenance is included free once the system is live. That covers bug fixes, security updates, backups, uptime and speed checks, and small changes. After that, plans start from ₹8,000 a month, or you can pay only when you need work done. We support software and hosting remotely, not office hardware.",
+        "Two months of maintenance is included free once the system is live. That covers bug fixes, security updates, backups, uptime and speed checks, and small changes. After that, plans start from ₹8,000 a month, or you can pay only when you need work done. We support software and hosting remotely, not office hardware.",
     },
     {
       question: "Can you move our old desktop billing program to the cloud?",

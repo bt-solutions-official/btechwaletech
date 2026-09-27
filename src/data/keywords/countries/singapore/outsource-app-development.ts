@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Singapore · outsourcing playbook · Android & iOS",
     h1: "Outsource app development from Singapore and keep full control of your app",
     lede: `To outsource app development from Singapore safely, you need four things on paper before a line of code: a scope, milestones you can test, an IP assignment and accounts in your own name. BtechWaleTech is three freelance developers in India who build Android and iOS apps from ${P.app}, share a test build at every milestone and hand over the full repository. This page is the playbook we would want if we were the founder signing the cheque; the <a href='/singapore/'>Singapore overview</a> covers everything else we do there.`,
-    pills: [`Android + iOS from ${P.app}`, "Written scope before any invoice", "IP assigned to your business", "Milestone-based payments", "TestFlight and Play test tracks", "Your Apple and Google accounts", "5 months free maintenance"],
+    pills: [`Android + iOS from ${P.app}`, "Written scope before any invoice", "IP assigned to your business", "Milestone-based payments", "TestFlight and Play test tracks", "Your Apple and Google accounts", "2 months free maintenance"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · most of the SGT day overlaps",
   },
   facts: [
@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers on your app, not a single point of failure" },
     { value: "2", label: "Working days to an itemised written quote" },
     { value: "0", label: "Invoices before you approve the scope" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How do you outsource app development in Singapore without losing control?",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "How you pay", value: "Per milestone you have tested and approved" },
       { label: "What you can test", value: "A TestFlight or Play test build at every milestone" },
       { label: "What you own", value: "Source code, designs, store listings, cloud accounts" },
-      { label: "After launch", value: `Five months free, then maintenance from ${P.care}` },
+      { label: "After launch", value: `Two months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -66,7 +66,7 @@ const content: FreelanceContent = {
     heading: "Parts of an app build Singapore founders outsource to us",
     note: "You can outsource the whole app or just the pieces your team lacks. Each card becomes a separate line on your quote.",
     cards: [
-      { name: "Full app build, idea to store", note: "Scope workshop over video, screen designs, Flutter or React Native code, backend, store submission and the first five months of fixes, all under one written plan.", href: "/it-services/android-ios-app/", size: "lg" },
+      { name: "Full app build, idea to store", note: "Scope workshop over video, screen designs, Flutter or React Native code, backend, store submission and the first two months of fixes, all under one written plan.", href: "/it-services/android-ios-app/", size: "lg" },
       { name: "Scope and milestone document", note: "A written feature list, acceptance tests and a milestone map you can show investors or other vendors, useful even if you compare quotes elsewhere.", size: "md" },
       { name: "Rescue of a stalled outsourced app", note: "We audit code you already paid for, list what works and what does not, and quote only for finishing it. Sometimes the honest answer is a rewrite.", size: "md" },
       { name: "Backend and admin panel only", note: `Your designers or in-house mobile developer keep the app; we build the API, database and staff dashboard. Larger systems follow custom software pricing from ${P.software}.`, href: "/singapore/outsource-software-development/", size: "sm" },
@@ -172,7 +172,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, an Android and iOS app starts from ${P.app} and usually takes 6 to 10 weeks. Quotes from other teams vary widely, and the gap is mostly explained by scope, location of the team, how much design is included and who carries the risk of overruns.`,
         `The biggest cost drivers are the number of user roles, anything real-time (chat, live location, stock levels), payments and refunds, integrations with other systems, and offline behaviour. A booking app with one customer role and a simple admin panel sits near the start price. A two-sided marketplace with riders, merchants, customers and payouts is a different project.`,
-        `Remember the costs that sit outside the build: the Apple Developer Program at US$99 a year, the one-time US$25 Google Play registration fee, cloud hosting, push-notification and SMS providers, and maintenance after launch. Our first five months of maintenance are free, after which plans start from ${P.care}. The <a href='/singapore/app-development-cost/'>Singapore app cost breakdown</a> goes line by line through these.`,
+        `Remember the costs that sit outside the build: the Apple Developer Program at US$99 a year, the one-time US$25 Google Play registration fee, cloud hosting, push-notification and SMS providers, and maintenance after launch. Our first two months of maintenance are free, after which plans start from ${P.care}. The <a href='/singapore/app-development-cost/'>Singapore app cost breakdown</a> goes line by line through these.`,
       ],
     },
     {
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
         "Known issues and ideas for phase two, written down",
       ],
       after: [
-        `After launch our five months of free maintenance cover bug fixes and OS compatibility. Later, you can keep us on a plan, move to an in-house hire or brief another team; the handover pack is written so all three work. Our <a href='/about/'>team page</a> explains who does what.`,
+        `After launch our two months of free maintenance cover bug fixes and OS compatibility. Later, you can keep us on a plan, move to an in-house hire or brief another team; the handover pack is written so all three work. Our <a href='/about/'>team page</a> explains who does what.`,
       ],
     },
     {
@@ -399,13 +399,13 @@ const content: FreelanceContent = {
       ["Set up your accounts", "Your business registers Apple, Google and cloud accounts and invites us. We guide the steps, including the D-U-N-S lookup for Apple."],
       ["Build in milestones", "Each milestone ends with a test build on your phone and a short demo. You approve against the acceptance tests before paying for it."],
       ["Submit to the stores", "We prepare listings and submit under your accounts, then handle review questions from Apple or Google until the app is live."],
-      ["Hand over and support", "You receive the repository and handover pack. Five months of free maintenance follow, then optional plans if you want us to stay on."],
+      ["Hand over and support", "You receive the repository and handover pack. Two months of free maintenance follow, then optional plans if you want us to stay on."],
     ],
   },
   faqHeading: "Questions about outsourcing app development from Singapore",
   faqs: [
     { question: "Is it safe to outsource app development from Singapore to India?", answer: "It is as safe as the contract and set-up you insist on. Keep the Apple, Google and cloud accounts in your business's name, pay per approved milestone, get a written IP assignment and receive the full source code. With those in place, switching developers later is a nuisance rather than a disaster. Distance matters far less than paperwork and weekly visibility of real builds." },
-    { question: "How much does it cost to outsource app development in Singapore?", answer: `With BtechWaleTech an Android and iOS app starts from ${P.app}, usually over 6 to 10 weeks. The final quote depends on user roles, payments, real-time features, integrations and design work. Add the Apple Developer Program fee of US$99 a year, Google Play's one-time US$25 fee, hosting and maintenance after the first five free months.` },
+    { question: "How much does it cost to outsource app development in Singapore?", answer: `With BtechWaleTech an Android and iOS app starts from ${P.app}, usually over 6 to 10 weeks. The final quote depends on user roles, payments, real-time features, integrations and design work. Add the Apple Developer Program fee of US$99 a year, Google Play's one-time US$25 fee, hosting and maintenance after the first two free months.` },
     { question: "How long does it take to outsource and launch an app?", answer: "A focused first version usually takes 6 to 10 weeks from approved scope to store submission. Allow time before that for writing the scope and verifying your Apple organisation account, and time after for store review. Larger apps with several user types or heavy integrations take longer, and your own speed at answering questions affects the schedule too." },
     { question: "Who owns the source code when I outsource my app?", answer: "You should, but only if the contract says so. Singapore's copyright rules generally make the creator the default owner, and an outside developer is not your employee. Ask for a clause assigning copyright and IP in the code, designs and documents to your business on payment, plus delivery of the complete repository. Have your own lawyer check the wording." },
     { question: "Can the contract be under Singapore law?", answer: "Governing law is something you raise when you receive the quote and agree in the written agreement. Many Singapore clients prefer Singapore law and a clear dispute process. We are developers, not lawyers, so we suggest your own lawyer reviews the draft. Our general terms are on the terms page, and anything specific to your project goes into the signed quote." },
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
     { question: "Can you take over an app another vendor started?", answer: "Often, yes. We first review the existing code, accounts and documentation, then tell you honestly whether finishing it or rebuilding parts is cheaper. The review needs access to the repository and store accounts. If the previous vendor still controls those, recovering them becomes the first milestone." },
     { question: "Flutter or React Native for an outsourced app?", answer: "Both produce Android and iOS apps from one codebase. Flutter suits design-heavy apps and consistent performance on budget Android phones. React Native suits teams that already work in JavaScript or TypeScript on the web. Either way, ask for mainstream libraries and a readme so a future developer in Singapore can maintain the app." },
     { question: "Does outsourcing affect PDPA obligations?", answer: "Your business stays responsible for personal data under the PDPA even when an overseas team builds the app. Section 26 limits transfers outside Singapore unless the recipient is bound by enforceable obligations such as a contract. Hosting data in the AWS Singapore region under your account, with limited developer access, keeps things simpler. Your counsel should confirm the details." },
-    { question: "What happens after the app launches?", answer: `The first five months of maintenance are free: bug fixes, OS compatibility and small adjustments. After that, maintenance plans start from ${P.care}. New features are quoted as separate phases. You can also take the handover pack to an in-house hire or another team; nothing ties you to us.` },
+    { question: "What happens after the app launches?", answer: `The first two months of maintenance are free: bug fixes, OS compatibility and small adjustments. After that, maintenance plans start from ${P.care}. New features are quoted as separate phases. You can also take the handover pack to an in-house hire or another team; nothing ties you to us.` },
     { question: "Can you meet us in person in Singapore?", answer: "No. We work remotely from India and do not make site visits. Kick-offs, demos and reviews happen over video calls, and day-to-day questions on WhatsApp. Because India is only 2.5 hours behind Singapore, calls fit comfortably inside your working day, usually from late morning SGT onwards." },
     { question: "Will outsourcing my app help it rank in the App Store or Google?", answer: "The build itself does not rank anything. Discovery comes from a clear store listing, good screenshots, reviews from real users and a fast landing page on your website. We can prepare the listing and landing page. Nobody can guarantee store or Google rankings, and anyone promising that should be treated with caution." },
     { question: "Can you add AI features to an outsourced app?", answer: `Yes, as a scoped item. Common requests are document or receipt scanning, smarter search and a support assistant trained on your own FAQs. Larger AI features start from ${P.ai}. We explain what data each feature sends to an AI provider so you can check it against your privacy notice.` },

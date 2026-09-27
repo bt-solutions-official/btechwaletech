@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Online store from", `${P.shop}, about 4–8 weeks`],
     ["Riyadh 10 am call", "12:30 pm in India"],
     ["Quote", "Itemised in USD in about 2 working days"],
-    ["After launch", "5 months of maintenance at no charge"],
+    ["After launch", "2 months of maintenance at no charge"],
   ],
   stats: [
     { value: "3", label: "Developers who all know your project" },
     { value: "2.5", label: "Hours India runs ahead of Riyadh" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Office visits needed to ship your site" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Large SEO sites", note: `Service-by-district or product-by-sector sites with 299+ pages, structured data and clean internal links, from ${P.seoSite}.`, href: "/saudi-arabia/seo-services/", size: "md" },
       { name: "Portals and internal tools", note: `Supplier portals, booking tools, approval workflows and admin dashboards, from ${P.software}.`, href: "/saudi-arabia/custom-software-development/", size: "md" },
       { name: "WhatsApp lead routing", note: "Click-to-chat buttons that tell your sales team which page the visitor came from, plus optional automated replies.", href: "/saudi-arabia/whatsapp-automation-services/", size: "sm" },
-      { name: "Care after launch", note: `Five months of maintenance included; afterwards, optional care from ${P.care}.`, href: "/pricing/", size: "sm" },
+      { name: "Care after launch", note: `Two months of maintenance included; afterwards, optional care from ${P.care}.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a web developer in Riyadh costs when the team is remote",
-    note: `A bilingual static site of up to 100 pages starts from ${P.site} and usually takes one to two weeks once content is ready. A large SEO site with 299+ pages starts from ${P.seoSite}, an online store from ${P.shop}, and a portal or custom web app from ${P.software}. Riyadh agencies usually quote in riyals and their figures vary widely, because office costs, account management and bundled photography are built in. We quote in USD, itemise every page and integration, and bill nothing until you approve the quote in writing. Five months of maintenance follow launch at no charge; optional care after that starts from ${P.care}.`,
+    note: `A bilingual static site of up to 100 pages starts from ${P.site} and usually takes one to two weeks once content is ready. A large SEO site with 299+ pages starts from ${P.seoSite}, an online store from ${P.shop}, and a portal or custom web app from ${P.software}. Riyadh agencies usually quote in riyals and their figures vary widely, because office costs, account management and bundled photography are built in. We quote in USD, itemise every page and integration, and bill nothing until you approve the quote in writing. Two months of maintenance follow launch at no charge; optional care after that starts from ${P.care}.`,
   },
   guideLabel: "Hiring a web developer in Riyadh: the full guide",
   guide: [
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do, completely. The domain, hosting account, code repository, analytics, Search Console and any platform subscriptions are opened in your company's name, and we are added as users.`,
         `At handover you receive the repository with its full history, a short document explaining how to update content and deploy changes, a list of every account with its owner, and admin logins moved to your password manager. If you later change suppliers, the next developer starts from a complete project instead of reverse-engineering a live site.`,
-        `Maintenance for five months after launch is included: bug fixes, small changes, updates and security patches. After that, you can take an optional care plan from ${P.care}, handle maintenance in-house with our documentation, or move to another supplier. There is no lock-in built into the code or hosting.`,
+        `Maintenance for two months after launch is included: bug fixes, small changes, updates and security patches. After that, you can take an optional care plan from ${P.care}, handle maintenance in-house with our documentation, or move to another supplier. There is no lock-in built into the code or hosting.`,
       ],
     },
     {
@@ -300,7 +300,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This example is hypothetical. Picture a Riyadh-based supplier of HVAC and electrical equipment that sells to contractors and facility managers across the Kingdom. Its current site is English-only, slow on phones, and was built by someone no longer reachable; nobody at the company has the hosting login.`,
         `In week one we would help the company recover or re-register access in its own name, then propose a bilingual site: home, six product-family pages, a sector page each for healthcare, hospitality and government-linked projects, a project gallery limited to approved names, a company profile download, and separate forms for RFQs and supplier registration. The Arabic copy would come from the company's translator; we would handle RTL layout and structure.`,
-        `The build would sit comfortably within the static range, starting from ${P.site}, with launch one to two weeks after content approval. Forms would route RFQs to sales and registrations to procurement, and WhatsApp buttons would tell the sales team which product page the visitor was on. After launch, five months of maintenance would be included, with monthly SEO from ${P.seo} as an option once the new site settles.`,
+        `The build would sit comfortably within the static range, starting from ${P.site}, with launch one to two weeks after content approval. Forms would route RFQs to sales and registrations to procurement, and WhatsApp buttons would tell the sales team which product page the visitor was on. After launch, two months of maintenance would be included, with monthly SEO from ${P.seo} as an option once the new site settles.`,
       ],
     },
   ],
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting, repository and analytics are opened or transferred to your company, and we are added as users you control."],
       ["Design on live previews", "Home and inner pages appear in Arabic and English on a preview link; your team comments on the real pages during Riyadh working hours."],
       ["Build, test and approve", "Pages, forms, WhatsApp buttons and any checkout are built and tested on real phones, then reviewed with you before launch."],
-      ["Launch and maintain", "The site goes live, Search Console and analytics are verified, and five months of maintenance begin, with optional care after that."],
+      ["Launch and maintain", "The site goes live, Search Console and analytics are verified, and two months of maintenance begin, with optional care after that."],
     ],
   },
   faqHeading: "Questions Riyadh companies ask before hiring a web developer",
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Will my Riyadh website rank on Google?", answer: "We build every site to be fast, well structured and easy for search engines to read, with Search Console set up at launch. Nobody can honestly guarantee rankings, and we do not. Ongoing SEO, including local search for your branches, is available from " + P.seo + " if you want steady work after launch." },
     { question: "Will AI assistants be able to describe my company correctly?", answer: "Clear, factual pages help. We write short answer-style paragraphs about what you do, where you operate and how to contact you, add structured data, and keep details consistent with your Google Business Profile. No one can promise an assistant will mention you, but accurate pages make correct descriptions far more likely." },
     { question: "Does my Riyadh website need to follow PDPL?", answer: "If it collects personal data through forms, registrations or accounts, the Personal Data Protection Law is relevant, and SDAIA publishes the official guidance. We build minimal forms, consent where required, tracking that waits for consent, and restricted access to submissions. Whether your site is compliant is for your own lawyer to confirm." },
-    { question: "What happens after the website launches?", answer: `Five months of maintenance are included: bug fixes, small edits, updates and security patches. After that, you can choose an optional care plan from ${P.care}, maintain the site in-house using our handover notes, or move to another supplier. New sections or features are quoted separately so costs stay clear.` },
+    { question: "What happens after the website launches?", answer: `Two months of maintenance are included: bug fixes, small edits, updates and security patches. After that, you can choose an optional care plan from ${P.care}, maintain the site in-house using our handover notes, or move to another supplier. New sections or features are quoted separately so costs stay clear.` },
     { question: "Can you take over a website another Riyadh developer built?", answer: "Yes. We start by recovering access to the domain, hosting and code in your company's name, then review the site's speed, security and structure. You receive a written list of issues and a quote to fix or rebuild. If the previous supplier holds the domain, we guide you through the registrar's transfer process." },
     { question: "Do you sign NDAs with Riyadh companies?", answer: "Confidentiality can be agreed in your written quote, and you are welcome to send your own agreement for review before sharing sensitive material. We never publish client names or work without permission. Our published terms apply to every project; raise any special requirement before you approve the quote." },
     { question: "Can the same team build a mobile app later?", answer: `Yes. Many Riyadh companies start with a website and add an Android and iOS app once customers ask for one. We build apps in Flutter from ${P.app}, sharing the same backend and content where possible, so the website and app stay consistent without paying for two separate systems.` },

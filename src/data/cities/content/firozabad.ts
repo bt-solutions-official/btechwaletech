@@ -7,7 +7,7 @@ const firozabad: CityContent = {
   meta: {
     title: "IT Services in Firozabad: Websites, Apps, SEO & AI",
     description:
-      "Websites, online catalogues, SEO and WhatsApp ordering for Firozabad glass, bangle and local businesses. Sites from ₹10,000, 5 months free maintenance.",
+      "Websites, online catalogues, SEO and WhatsApp ordering for Firozabad glass, bangle and local businesses. Sites from ₹10,000, 2 months free maintenance.",
     keywords: [
       "website development team in Firozabad",
       "website designer Firozabad",
@@ -35,7 +35,7 @@ const firozabad: CityContent = {
     pills: ["Websites from ₹10,000", "Catalogues for bulk buyers", "Hindi and English SEO", "WhatsApp order flows", "UPI stores"],
   },
   quickAnswer:
-    "In Firozabad, a website from our team starts at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom order systems from ₹60,000. We are a remote freelance team of three engineers, so no office costs are added, and the first five months of maintenance are free.",
+    "In Firozabad, a website from our team starts at ₹10,000 for a static site and ₹20,000 for a 299+ page SEO site, with online stores from ₹50,000 and custom order systems from ₹60,000. We are a remote freelance team of three engineers, so no office costs are added, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Known as", value: "India's glass city, and among the world's largest centres of glass bangle making" },
     { label: "Main products", value: "Glass bangles and kadas, tableware, jars, vases, candle stands, chandeliers and decorative lights" },
@@ -52,7 +52,7 @@ const firozabad: CityContent = {
     ai: "WhatsApp flows that answer rate and stock questions, collect bulk orders and send the owner a clean daily summary.",
     data: "Sales-by-buyer and design-by-season reports, so a trader can see which colours and sizes actually move before placing the next furnace order.",
     app: "Android and iPhone apps that let regular buyers browse the glassware and bangle catalogue and reorder from their phones, on both app stores.",
-    maintenance: "Catalogue updates, backups, security and speed checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Catalogue updates, backups, security and speed checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Most Firozabad businesses have no website, or one made years ago by a relative that has since gone offline. Those who ask around get vague quotes and no clarity on who owns what. We publish our starting prices, put every account in your name and reply on WhatsApp seven days a week.",
@@ -186,7 +186,7 @@ const firozabad: CityContent = {
       paragraphs: [
         "Some Firozabad traders have lost websites entirely because the domain was booked in a designer's name and the designer stopped answering. The site vanished, the email addresses on visiting cards stopped working, and the business had to start again under a new name.",
         "We make sure that cannot happen. The domain is registered in your name and the hosting account is opened in your name. At launch you receive every login, the full source code and a short note explaining the setup. If you ever want to change developers, you can do so without asking our permission or paying an exit fee.",
-        "Maintenance for the first five months after launch is free: catalogue and price updates, bug fixes, security updates, backups, uptime checks and speed reviews. After that, plans start from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Maintenance for the first two months after launch is free: catalogue and price updates, bug fixes, security updates, backups, uptime checks and speed reviews. After that, plans start from ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
   ],
@@ -271,7 +271,7 @@ const firozabad: CityContent = {
         "You do. Everything is registered in your name, and at launch you get every login and the source code. You can move to another developer at any time with no exit fee.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You can continue with a plan from ₹8,000 a month covering updates, backups, security and small edits, or simply contact us when you need something changed. The site keeps running on hosting you own either way.",
     },

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Every change", "Tested in CI and reviewed by a teammate"],
     ["Handover", "Repository, README, deploy notes, logins"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Engineers, so every change gets a second reader" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "AI automation", note: `LLM and workflow automation with evaluation sets, logging and fallbacks, from ${P.ai}.`, href: "/ai-automation-freelancer/", size: "md" },
       { name: "CI/CD and hosting", note: "Pipelines, staging environments, backups and error monitoring for software you already run.", href: "/freelance-devops-engineer/", size: "sm" },
       { name: "SaaS MVP", note: "Multi-user products with sign-up, subscriptions and tests on the billing logic from the first sprint.", href: "/freelance-saas-developer/", size: "sm" },
-      { name: "Maintenance", note: `Five months free after launch, then from ${P.care} a month for updates, dependency upgrades and fixes.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Two months free after launch, then from ${P.care} a month for updates, dependency upgrades and fixes.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -191,7 +191,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Quotes vary widely across India, and much of the gap comes from what is included. Two proposals for “the same app” can differ because one includes tests, CI, staging and documentation, and the other quietly leaves them out.`,
         `With us, custom software starts at ${P.software} (${P.softwareUsd}) for a web app built over 6–12 weeks, Android and iOS apps from ${P.app} (${P.appUsd}), and AI automation from ${P.ai} (${P.aiUsd}). Those starting prices already assume engineering quality; there is no cheaper untested version on offer.`,
-        `Tests pay back in maintenance. Changing a well-tested system is quicker because the engineer does not have to re-check every screen by hand, and fewer regressions reach your customers. After five free months of maintenance, ongoing care starts at ${P.care} a month.`,
+        `Tests pay back in maintenance. Changing a well-tested system is quicker because the engineer does not have to re-check every screen by hand, and fewer regressions reach your customers. After two free months of maintenance, ongoing care starts at ${P.care} a month.`,
       ],
       list: [
         "More user roles and permissions raise effort",
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Good engineering ends with you being able to leave. Everything we build sits in accounts you own, so the handover is a walkthrough, not a transfer negotiation.`,
         `At launch we run a session with you or your next engineer: how to run the project locally, how the pipeline deploys, where logs and alerts go, how to restore a backup. We confirm access to the repository, cloud account, domain, and for apps the Play Console and App Store Connect. Renewal dates and third-party services are listed with who pays each.`,
-        `Five months of free maintenance follow, covering fixes, dependency updates and small changes. After that you can keep us from ${P.care} a month, take it in-house, or pass it on. Because the tests and documents travel with the code, whoever comes next starts from solid ground.`,
+        `Two months of free maintenance follow, covering fixes, dependency updates and small changes. After that you can keep us from ${P.care} a month, take it in-house, or pass it on. Because the tests and documents travel with the code, whoever comes next starts from solid ground.`,
       ],
     },
     {
@@ -322,7 +322,7 @@ const content: FreelanceContent = {
         ["AI automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks"],
         ["Business website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Foundations in week one", "Repository in your organisation, pipeline, staging environment and an empty app that passes all checks. You get access to all of it."],
       ["Build in reviewed increments", "Features land as small pull requests, each tested and reviewed by a second engineer, then deployed to staging for you to try."],
       ["Harden and release", "End-to-end tests, security checks, a rehearsed restore and monitoring before a tagged release to production."],
-      ["Hand over and support", `A walkthrough of code, docs and runbook, then five months of free maintenance. Ongoing care from ${P.care} a month is optional.`],
+      ["Hand over and support", `A walkthrough of code, docs and runbook, then two months of free maintenance. Ongoing care from ${P.care} a month is optional.`],
     ],
   },
   faqHeading: "Freelance software engineer: questions buyers ask",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "How long does a custom software project take?", answer: "A custom web app typically takes 6–12 weeks, a mobile app 6–10 weeks and an AI automation 2–4 weeks. The first week sets up the repository, pipeline and staging environment, so you can see progress on a live link from the start. Late feedback or new requirements extend the timeline." },
     { question: "Who owns the code a freelance software engineer writes?", answer: "You should, and it should be stated in writing. We work in a repository owned by your organisation from the first commit, and cloud, domain and app store accounts are registered in your name. Once paid, the code, designs and documentation are yours to keep, change or hand to anyone." },
     { question: "How do you handle security in the software you build?", answer: "Through routine habits: parameterised queries, server-side permission checks, secrets kept out of the code, HTTPS everywhere, strong password hashing, automated alerts for vulnerable dependencies, and tested backups. If you handle health, financial or children’s data, tell us early so access rules and logging are designed in from the start." },
-    { question: "What happens after the software goes live?", answer: `Monitoring and error alerts are on from launch day. You get five months of free maintenance for fixes, dependency updates and small changes. After that, maintenance continues from ${P.care} a month if you want it, or you can hand the system to your own team using the documentation.` },
+    { question: "What happens after the software goes live?", answer: `Monitoring and error alerts are on from launch day. You get two months of free maintenance for fixes, dependency updates and small changes. After that, maintenance continues from ${P.care} a month if you want it, or you can hand the system to your own team using the documentation.` },
     { question: "Can a freelance software engineer build mobile apps too?", answer: `Yes. We build Android and iOS apps with Flutter or React Native from ${P.app}, with automated tests on the app logic and test builds sent through internal testing on Google Play and TestFlight on iOS. Releases go out through store accounts registered in your name.` },
     { question: "How do payments work?", answer: "Payments are made in stages tied to work you can see on staging. Clients in India pay by UPI or bank transfer; clients abroad pay by Wise, bank wire or PayPal. The itemised quote lists the stages, and nothing is billed until you approve it in writing." },
     { question: "Can I hire you for code review or test setup only?", answer: "Yes, for projects your own team is building we can review code, set up a CI pipeline, add tests around risky areas or write missing documentation. Scope and price are agreed in a written quote after we look at the repository, so you know exactly what the work covers." },
@@ -416,7 +416,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance software engineer who leaves tests and docs behind?",
-    note: `Send us what your software must do. In about two working days you get an itemised quote with a test plan, custom software starting at ${P.software}, everything in your own accounts and five months of free maintenance after launch.`,
+    note: `Send us what your software must do. In about two working days you get an itemised quote with a test plan, custom software starting at ${P.software}, everything in your own accounts and two months of free maintenance after launch.`,
   },
 };
 

@@ -56,7 +56,7 @@ const karaikal: CityContent = {
     ai: "WhatsApp assistants in Tamil and English that answer room, fee, stock and timing questions and hand real decisions to you.",
     data: "Monthly dashboards of room occupancy by festival week, truck trips, catch sales or dues pending, readable on a phone.",
     app: "Android and iOS apps for lodge bookings, parent updates or fish trade orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then ₹8,000 a month onwards for edits, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then ₹8,000 a month onwards for edits, backups and security fixes.",
   },
   whyUsIntro:
     "Karaikal is a small town where word of mouth decides who gets the next job. We publish starting rates, give an itemised quote in writing, answer WhatsApp on every day of the week and open the domain, hosting, code and app store accounts in your own name. If a feature will not earn back its cost for your trade, we tell you before you spend on it.",
@@ -178,7 +178,7 @@ const karaikal: CityContent = {
       paragraphs: [
         "Because none of us is based in Puducherry UT, writing does the job that a visit would. The first call covers your trade, your customers and the one or two things the site or app must get right. Next you receive a written scope with pages or screens, dates and an itemised price. Nothing is billed until you approve it in writing. During the build, preview links reach your phone, so you or a family member can tap through and comment, and each later payment follows something you have already seen working.",
         "WhatsApp messages are answered on all seven days, during IST hours. Any Tamil copy is shown to you before it goes live, and if a date is going to slip, we tell you when we see it coming rather than on the day itself.",
-        "Many owners in smaller towns have lost an old website because the person who built it kept the domain. With us the domain, hosting, source code, Google Business Profile and app store developer accounts are opened in your name from the start, and passwords are handed over in writing. The first five months after launch include free maintenance: fixes, backups, security updates and checks of forms, payments and WhatsApp buttons. After that, care is ₹8,000 a month onwards, optional, and you may move the code to another developer whenever you like.",
+        "Many owners in smaller towns have lost an old website because the person who built it kept the domain. With us the domain, hosting, source code, Google Business Profile and app store developer accounts are opened in your name from the start, and passwords are handed over in writing. The first two months after launch include free maintenance: fixes, backups, security updates and checks of forms, payments and WhatsApp buttons. After that, care is ₹8,000 a month onwards, optional, and you may move the code to another developer whenever you like.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const karaikal: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch we maintain the site or app free: text and price edits, backups, security updates and regular tests of forms, payments and buttons. After that you can continue at ₹8,000 a month onwards, or move to another developer, since you hold all accounts and code.",
+        "For two months after launch we maintain the site or app free: text and price edits, backups, security updates and regular tests of forms, payments and buttons. After that you can continue at ₹8,000 a month onwards, or move to another developer, since you hold all accounts and code.",
     },
     {
       question: "Do you also work in Thirunallar, Nagapattinam and Mayiladuthurai?",

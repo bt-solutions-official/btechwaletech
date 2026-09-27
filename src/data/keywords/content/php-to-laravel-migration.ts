@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Database", "Reused, not rebuilt"],
     ["Downtime target", "Minutes per module switch"],
     ["Code ownership", "Your Git repository, from week one"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who read your old code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after cutover" },
+    { value: "2", label: "Months of free fixes after cutover" },
     { value: "0", label: "Rupees billed before written approval" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Mid-sized app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Testing", value: "Characterisation tests written before code is replaced" },
       { label: "Rollback", value: "Route a module back to the old script if needed" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "APIs for apps and partners", note: `Clean JSON APIs built alongside the migration so a mobile app from ${P.app} or a partner system can use the same data.`, href: "/freelance-api-developer/", size: "md" },
       { name: "Tests and CI", note: "Feature tests that pin current behaviour, run on every push through a CI pipeline before anything reaches the live server.", href: "/ci-cd-pipeline-setup/", size: "sm" },
       { name: "Hosting on PHP 8.x", note: "A server or managed platform on a supported PHP branch, with queues, scheduler, backups and SSL set up in your account.", href: "/cloud-hosting-setup-freelancer/", size: "sm" },
-      { name: "Care after cutover", note: `Five months of free fixes, then framework and dependency updates from ${P.care}.`, href: "/it-services/", size: "sm" },
+      { name: "Care after cutover", note: `Two months of free fixes, then framework and dependency updates from ${P.care}.`, href: "/it-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario to show the sequence, not a client story.`,
         `Say a pharmaceutical distributor in Nagpur runs a core-PHP order portal built in 2014. About 60 screens, 40 tables in MySQL, 300 retailer logins, MD5 passwords, and it only runs on an old PHP 5.6 server the hosting provider wants to retire. Staff enter orders all day; downtime means lost sales.`,
         `We would quote an audit first, then stages from ${P.software}. Week one: map every screen and table, write characterisation tests for the ordering and invoicing flows, and stand up Laravel in front of the app on a PHP 8 staging server. Weeks two and three: move login with rehash-on-login for the MD5 passwords, and the shared layout. Weeks four to nine: migrate retailer ordering, stock, invoicing with GST totals compared row by row against the old output, then reports and admin. Weeks ten and eleven: remove the legacy bridge, add missing indexes, write the handover notes.`,
-        `Each module switches on a weekday evening, with a rollback route ready. After go-live the five free months of maintenance cover fixes as staff find edge cases.`,
+        `Each module switches on a weekday evening, with a rollback route ready. After go-live the two free months of maintenance cover fixes as staff find edge cases.`,
       ],
     },
     {
@@ -329,7 +329,7 @@ const content: FreelanceContent = {
         ["Companion Android and iOS app on the new API", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["AI or WhatsApp automation on migrated data", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Public marketing site rebuilt alongside", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
       ["Repository and staging in your name", "Your Git repository and a staging server are set up under your accounts, with a copy of production data restored for testing."],
       ["Laravel in front, logins first", "Laravel takes over as the entry point with the old code behind it. Authentication and passwords move first, tested by your own staff."],
       ["Module-by-module switches", "Each module is rewritten, compared against the old behaviour and switched on a quiet evening, with a rollback route ready."],
-      ["Remove the old code and hand over", "The legacy bridge is deleted, documentation handed over, and five months of free maintenance begin."],
+      ["Remove the old code and hand over", "The legacy bridge is deleted, documentation handed over, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "PHP to Laravel migration: questions people ask",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "What about background scripts and cron jobs in the old app?", answer: "They become scheduled commands and queued jobs inside Laravel, defined in code and kept in the repository. During the audit we list every crontab entry and what it does, because forgotten jobs like reminder emails or nightly syncs are a common cause of surprises after a migration." },
     { question: "Can the migrated Laravel app power a mobile app?", answer: `Yes. As modules move, we can expose clean JSON APIs protected by token authentication. The same data then serves a Flutter or React Native app for Android and iOS, which BtechWaleTech builds from ${P.app}, or a partner integration, without duplicating business rules.` },
     { question: "Do you sign an NDA before looking at our code?", answer: "If you need one, send it along with your request. Terms are agreed in writing before you share code or data; see our terms page for how engagements work. We can also start from a screen recording and a schema export if you prefer to limit access until the quote is approved." },
-    { question: "What does maintenance cost after the migration?", answer: `The first five months after go-live are free, covering fixes, small changes and dependency updates. After that, maintenance is optional and starts at ${P.care}. It covers Laravel and package updates, security patches, backups and monitoring. Plan a framework upgrade roughly once a year.` },
+    { question: "What does maintenance cost after the migration?", answer: `The first two months after go-live are free, covering fixes, small changes and dependency updates. After that, maintenance is optional and starts at ${P.care}. It covers Laravel and package updates, security patches, backups and monitoring. Plan a framework upgrade roughly once a year.` },
     { question: "Can you migrate CodeIgniter or another framework to Laravel too?", answer: "Yes. Framework-to-framework moves follow the same staged approach, and are often simpler than core PHP because the old code already has some structure. See our CodeIgniter to Laravel migration page for that route specifically. Very old custom frameworks are treated like core PHP." },
     { question: "What are the biggest risks in a PHP to Laravel migration?", answer: "Hidden business rules buried in old code, forgotten integrations and cron jobs, schema changes that break legacy screens during the overlap, and big-bang switch-overs without rollback. A careful audit, characterisation tests, a shared database strategy and one module switch at a time address each of these directly." },
   ],
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Running an old PHP app you are afraid to touch? Talk to us",
-    note: `Send a short description or screen recording on WhatsApp. After a quick look at the code you get an audit summary and a staged, itemised quote in about two working days, with projects from ${P.software} and five months of free maintenance after go-live.`,
+    note: `Send a short description or screen recording on WhatsApp. After a quick look at the code you get an audit summary and a staged, itemised quote in about two working days, with projects from ${P.software} and two months of free maintenance after go-live.`,
   },
 };
 

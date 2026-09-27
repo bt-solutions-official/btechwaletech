@@ -38,7 +38,7 @@ const content: CityContent = {
     h1: "Freelance software developers in Jalandhar for sports-goods makers, exporters and Doaba's NRI-facing services",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Jalandhar businesses hire us as freelance software developers to build export order trackers, sample and catalogue systems, immigration and coaching CRMs, WhatsApp AI agents, dealer apps and owner dashboards, with hosting, SEO and support handled after launch and every account left in your name.",
-    pills: ["Export order tracking", "Immigration CRMs", "WhatsApp AI agents", "Dealer and staff apps", "5 months free support"],
+    pills: ["Export order tracking", "Immigration CRMs", "WhatsApp AI agents", "Dealer and staff apps", "2 months free support"],
   },
   quickAnswer:
     "Freelance software developers in Jalandhar from BtechWaleTech build custom software and CRMs from ₹60,000 (six to twelve weeks), WhatsApp and AI automation from ₹40,000 (two to four weeks), online stores from ₹50,000 and websites from ₹10,000. We are a freelance group of three engineers working remotely from India, with no Jalandhar office.",
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents that handle visa, course and fee questions for consultancies and coaching centres, or price and stock questions for traders, in Punjabi, Hindi or English.",
     data: "Dashboards for orders by country, production backlog, lead conversion by counsellor and fee collections, updated automatically.",
     app: "Android and iOS apps for Jalandhar students, dealers, sports clubs and patients, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Hosting, updates, backups and fixes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Hosting, updates, backups and fixes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Jalandhar businesses deal with the world every day: buyers in Europe and Australia, students heading to Canada, relatives sending money home. They need software that looks and works at that standard, built by people who answer quickly. Our three freelance engineers work directly with owners, with written quotes and no lock-in.",
@@ -142,7 +142,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development in Jalandhar costs from ₹40,000 with BtechWaleTech and takes six to ten weeks for a first release. One Flutter or React Native codebase is published on both Google Play and the Apple App Store, with login, forms, push notifications, an admin panel and an API link to your CRM or order system.",
         "The apps that pay off in Jalandhar tend to serve people who return daily or weekly. An IELTS or study-abroad centre can give students an app for batch timings, mock-test band scores, speaking-slot bookings and document checklists, with notifications when a visa-file stage changes. A sports-goods brand can give clubs, academies and retailers a catalogue-and-ordering app with team-kit customisation requests. Hand-tool and fittings makers can give dealers an app showing item codes, stock and their own ledger. Hospitals and diagnostic labs can let patients book slots and download reports.",
-        "Jalandhar's audience makes iOS matter more than in many Punjab towns: overseas buyers, NRI families and students heading to Canada or the UK often carry iPhones. Publishing to both stores from one build keeps costs down. You own the developer accounts and code, and we handle store submission, review responses and the first five months of fixes after launch. For staff-only tools used by a handful of people, a cheaper installable web app may be enough, and we will say so.",
+        "Jalandhar's audience makes iOS matter more than in many Punjab towns: overseas buyers, NRI families and students heading to Canada or the UK often carry iPhones. Publishing to both stores from one build keeps costs down. You own the developer accounts and code, and we handle store submission, review responses and the first two months of fixes after launch. For staff-only tools used by a handful of people, a cheaper installable web app may be enough, and we will say so.",
       ],
       list: [
         "Student app: batches, band scores, slot booking, file stages",
@@ -175,14 +175,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting runs your software on managed servers with SSL, daily backups, access control and monitoring, which matters when you store applicant documents or overseas buyer data. We set everything up in your name, on AWS or comparable providers, with automated deployments that can be rolled back.",
         "Security basics are built in: role-based logins, encrypted connections, activity logs and regular updates. We also help with domain email deliverability so quotations and visa updates do not land in spam folders abroad.",
-        "Maintenance is free for five months after launch, then from ₹8,000 a month or on a pay-per-request basis. We reply on WhatsApp seven days a week.",
+        "Maintenance is free for two months after launch, then from ₹8,000 a month or on a pay-per-request basis. We reply on WhatsApp seven days a week.",
       ],
     },
     {
       id: "cost-jalandhar",
       heading: "How much do freelance software developers in Jalandhar charge?",
       paragraphs: [
-        "Starting prices with BtechWaleTech are ₹60,000 for custom software, CRMs and web apps, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "Starting prices with BtechWaleTech are ₹60,000 for custom software, CRMs and web apps, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store, ₹10,000 for a website and ₹20,000 for a 299+ page SEO website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months.",
         "Cost rises with the number of modules, user roles and integrations. An enquiry CRM for one branch sits near the starting price, while a multi-branch system with coaching, fees and document storage costs more. The quote is itemised, so you can build in phases.",
         "Clients pay us only in INR by UPI through our QR code or by direct bank transfer to our bank account. Larger projects use milestones paid after you review working software.",
       ],
@@ -306,7 +306,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of free maintenance covering bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week and prioritise issues that stop orders, enquiries or payments.",
+        "Two months of free maintenance covering bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week and prioritise issues that stop orders, enquiries or payments.",
     },
     {
       question: "Do you build Android and iOS apps for Jalandhar institutes and dealers?",

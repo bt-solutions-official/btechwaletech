@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Online input or produce store", `From ${P.shop}`],
     ["Buyer portal or trading system", `From ${P.software}`],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers who plan, build and look after your agri site" },
@@ -238,7 +238,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Agriculture website development starts at ${P.site} for a static site of up to 100 pages, which suits most dealers and small produce sellers. A large site with 299+ crop, product and district pages starts at ${P.seoSite}. An online store for inputs or farm products starts at ${P.shop}, and a buyer portal or trading system is custom software from ${P.software}.`,
         `Three things push the price up. First, the number of languages: each language version needs its own pages, checking and testing. Second, live data such as mandi prices or stock levels, which needs server code and scheduled jobs rather than plain pages. Third, logins: a portal where buyers see their own rates, orders and documents is software, not a brochure.`,
-        `Content is the hidden cost. Crop pages written by someone who knows agronomy, product photos of real stock and translations all take time. You can cut the bill by supplying photos and approving text drafts quickly. After launch, the recurring costs are hosting, the domain, any messaging fees and, if you choose, SEO from ${P.seo} a month or maintenance from ${P.care} once the first five free months end.`,
+        `Content is the hidden cost. Crop pages written by someone who knows agronomy, product photos of real stock and translations all take time. You can cut the bill by supplying photos and approving text drafts quickly. After launch, the recurring costs are hosting, the domain, any messaging fees and, if you choose, SEO from ${P.seo} a month or maintenance from ${P.care} once the first two free months end.`,
       ],
     },
     {
@@ -298,7 +298,7 @@ const content: FreelanceContent = {
       heading: "Who owns your agriculture website after it is built?",
       paragraphs: [
         `You own everything: the domain, hosting account, source code, content, photos and the full list of enquiries. Nothing is registered in the developer's name, and nothing is held back at handover.`,
-        `At the end of the project you get admin logins, access to the code repository, a list of renewal dates and a short guide showing your staff how to add a product, change a price note, update a scheme page and download enquiries. Maintenance is free for five months after launch, covering fixes, updates, backups and small edits. After that you can continue from ${P.care}, manage it yourself or hand it to anyone else. Other terms are agreed in your written quote; our <a href='/terms/'>terms page</a> sets out the general conditions.`,
+        `At the end of the project you get admin logins, access to the code repository, a list of renewal dates and a short guide showing your staff how to add a product, change a price note, update a scheme page and download enquiries. Maintenance is free for two months after launch, covering fixes, updates, backups and small edits. After that you can continue from ${P.care}, manage it yourself or hand it to anyone else. Other terms are agreed in your written quote; our <a href='/terms/'>terms page</a> sets out the general conditions.`,
       ],
       list: [
         "Domain and hosting accounts opened in your business name",
@@ -445,7 +445,7 @@ const content: FreelanceContent = {
       ["Supply content, approve drafts", "You send photos and product details; we draft pages in English and Hindi, and you or your translator approve regional-language text before it goes live."],
       ["Test on a real phone", "You check the staging site on an ordinary Android phone over mobile data, submit test enquiries and confirm they reach the right salesperson."],
       ["Launch and connect Google", "The site goes live on your domain, the sitemap is submitted in Search Console and your Business Profile is linked, with accounts in your name throughout."],
-      ["Five free months, then your choice", `Fixes, updates and small edits are free for five months. After that, maintenance from ${P.care} a month is optional; you can also manage it yourself.`],
+      ["Two free months, then your choice", `Fixes, updates and small edits are free for two months. After that, maintenance from ${P.care} a month is optional; you can also manage it yourself.`],
     ],
   },
   faqHeading: "Agriculture website development: questions agri businesses ask",
@@ -466,7 +466,7 @@ const content: FreelanceContent = {
     { question: "Can AI assistants recommend my agri business?", answer: "They can quote your site if it states clear facts: which crops and products you handle, districts served, minimum order quantities, packing and contact details. Short FAQ answers and one-sentence definitions are easy for AI tools to cite. No one can force a mention, but vague or outdated pages make it much less likely that assistants describe your business correctly." },
     { question: "Do I need an app or is an agriculture website enough?", answer: `Start with a website in most cases. Farmers and buyers can open a link without installing anything, and search engines can find it. An app becomes worthwhile when the same farmers return often for advisory, price alerts or repeat ordering. An Android and iOS app starts at ${P.app} and can use the same data as your website.` },
     { question: "Can the website send enquiries to my salespeople on WhatsApp?", answer: "Yes. Enquiry forms can be routed by commodity, district or order size, so each lead reaches the right person on WhatsApp with all the details, while the buyer gets an instant acknowledgement. Everything is also logged in a Google Sheet or CRM, and a daily summary shows which enquiries are still waiting for a reply." },
-    { question: "What maintenance does an agriculture website need?", answer: `Seasonal banners, stock and price notes, scheme page reviews, security updates, backups and checks that data feeds are running. BtechWaleTech includes five months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care} a month, or your staff can handle routine edits through the admin panel we set up.` },
+    { question: "What maintenance does an agriculture website need?", answer: `Seasonal banners, stock and price notes, scheme page reviews, security updates, backups and checks that data feeds are running. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance is optional and starts at ${P.care} a month, or your staff can handle routine edits through the admin panel we set up.` },
     { question: "Can you build a website for an exporter of agricultural produce?", answer: "Yes. Export-focused agri sites need English commodity pages with specifications, packing and loading ports, sample request forms, certificate displays for the certifications you hold, and pages targeting importer searches. You may also need a second language for particular markets, supplied or approved by you. Our export business website notes cover international buyer trust in detail." },
     { question: "How do payments and quotes work with your team?", answer: "You get an itemised written quote in about two working days, split into stages you can approve one at a time. Nothing is billed before your written approval. Payments in India are by UPI or bank transfer, and GST-related questions about your invoices should go to your CA. Any special terms are agreed in the quote itself." },
     { question: "Do you visit farms or shops to take photos?", answer: "No. The team works remotely from India and does not make site visits. You or a local photographer can shoot stock, grading, packing and your shop, and we send a simple shot list so the photos suit the pages. Calls, reviews and testing all happen over WhatsApp and video." },
@@ -492,7 +492,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning agriculture website development before the next season?",
-    note: `Send us your crops, buyers, languages and districts on WhatsApp. You will get an itemised page plan and quote in about two working days, starting at ${P.site}, with every account in your name and five months of free maintenance after launch.`,
+    note: `Send us your crops, buyers, languages and districts on WhatsApp. You will get an itemised page plan and quote in about two working days, starting at ${P.site}, with every account in your name and two months of free maintenance after launch.`,
   },
 };
 

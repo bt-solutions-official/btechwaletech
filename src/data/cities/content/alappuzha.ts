@@ -32,10 +32,10 @@ const alappuzha: CityContent = {
     h1: "Websites, booking apps, SEO and AI automation that bring Alappuzha houseboats, coir makers and shops direct customers",
     lede:
       "We are three remote engineers building websites, booking pages, online stores and WhatsApp tools for Alappuzha. Our work suits houseboat and shikara operators at Punnamada and the Finishing Point, homestays and resorts from Mararikulam to Kuttanad, coir makers and exporters around Kalavoor, and shops, clinics and schools in Mullakkal and Thathampally.",
-    pills: ["Websites from ₹10,000", "Direct booking for houseboats", "Coir catalogues and export pages", "Malayalam and English", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Direct booking for houseboats", "Coir catalogues and export pages", "Malayalam and English", "2 months free maintenance"],
   },
   quickAnswer:
-    "Our static websites for Alappuzha businesses start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, booking or AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Alappuzha office, and maintenance is free for five months.",
+    "Our static websites for Alappuzha businesses start at ₹10,000 and take one to two weeks. A 299+ page SEO site starts at ₹20,000, booking or AI and WhatsApp automation from ₹40,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team with no Alappuzha office, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "Coastal town about 62 km south of Kochi, between the Arabian Sea and the Vembanad backwaters" },
     { label: "Waterways", value: "Built along the Commercial and Vadai canals; the backwaters form part of National Waterway 3" },
@@ -52,7 +52,7 @@ const alappuzha: CityContent = {
     ai: "WhatsApp assistants that answer houseboat availability, starting rates and route questions, and pass confirmed guests to your team.",
     data: "Dashboards for bookings by season and channel, occupancy by boat, and coir orders by buyer, built from your existing records.",
     app: "Android and iOS apps for boat crews, drivers and sales staff to see bookings and pickup details, published on Google Play and the App Store.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then support from ₹8,000 a month or paid per change.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then support from ₹8,000 a month or paid per change.",
   },
   whyUsIntro:
     "Alappuzha is two economies side by side: a tourism trade that lives on online bookings and reviews, and a coir, fishing and farming trade that sells to buyers across India and abroad. Both depend more and more on being found and trusted online. We build clear sites, publish our starting prices and reply on WhatsApp every day of the week.",
@@ -197,7 +197,7 @@ const alappuzha: CityContent = {
       paragraphs: [
         "Tourism businesses in particular get caught by platforms and developers who keep control of the domain, the booking data or the listing. When the relationship ends, years of reviews and search history can go with it.",
         "We register the domain and hosting in your name. At launch you receive all passwords, the full source code and a note explaining the setup. Booking and enquiry data belong to you and can be exported at any time. You can move to another developer whenever you like, with no exit fee.",
-        "For five months after launch, maintenance is free: updates to rates and photographs, fixes, security patches, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when something needs changing and pay per task. Many tourism clients find it useful to plan a pre-season update each year before the winter rush.",
+        "For two months after launch, maintenance is free: updates to rates and photographs, fixes, security patches, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when something needs changing and pay per task. Many tourism clients find it useful to plan a pre-season update each year before the winter rush.",
       ],
     },
   ],
@@ -284,7 +284,7 @@ const alappuzha: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle rate and photo updates, fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you pay only for the changes you ask for.",
+        "For two months after launch we handle rate and photo updates, fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you pay only for the changes you ask for.",
     },
     {
       question: "Do you work with businesses in Cherthala, Kayamkulam, Kottayam and Kochi?",

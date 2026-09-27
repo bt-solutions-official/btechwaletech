@@ -56,7 +56,7 @@ const udhagamandalam: CityContent = {
     ai: "WhatsApp assistants that answer room, rate, route and timing questions from tourists at any hour and pass confirmed bookings to you.",
     data: "Occupancy and enquiry dashboards by month and source, and sales reports for tea and chocolate orders by state.",
     app: "Android and iOS apps from ₹40,000 for repeat tea buyers, school parents or tour guests, published on Google Play and the App Store in your name.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month, covering seasonal rate changes, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month, covering seasonal rate changes, backups and security updates.",
   },
   whyUsIntro:
     "Ooty owners juggle a short peak season, travel portals taking a large cut, and guests who expect instant replies. We keep our side simple: starting prices in public, an itemised written quote, WhatsApp replies every day, and every domain, hosting, code and app store account registered in your name. If a direct-booking site will not pay back, we will say so.",
@@ -185,7 +185,7 @@ const udhagamandalam: CityContent = {
       heading: "Ownership and maintenance for Ooty websites and apps",
       paragraphs: [
         "Your domain, hosting, code repository and Google Play and App Store accounts are registered in your name, and every password is handed to you in writing. If you decide to move to another developer, nothing is held back.",
-        "Every project includes five months of free maintenance after launch: fixes, small content and photo changes, seasonal rate updates, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be cancelled anytime.",
+        "Every project includes two months of free maintenance after launch: fixes, small content and photo changes, seasonal rate updates, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be cancelled anytime.",
         "In Ooty, stale information costs bookings. Last year's rates, a closed road or an old phone number on a website sends guests elsewhere. Regular upkeep is less exciting than a launch, but it is what keeps a site earning.",
       ],
     },
@@ -278,7 +278,7 @@ const udhagamandalam: CityContent = {
     {
       question: "What maintenance is included after my Ooty website launches?",
       answer:
-        "You get five months of free maintenance covering fixes, small edits, seasonal rate updates, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be stopped at any time. Your domain, hosting, code and app store accounts stay in your name.",
+        "You get two months of free maintenance covering fixes, small edits, seasonal rate updates, backups and security updates. After that, maintenance starts at ₹8,000 a month and can be stopped at any time. Your domain, hosting, code and app store accounts stay in your name.",
     },
     {
       question: "Should an Ooty homestay stop using travel portals after getting a website?",

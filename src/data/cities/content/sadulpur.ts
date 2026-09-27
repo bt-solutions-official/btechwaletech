@@ -30,11 +30,11 @@ const sadulpur: CityContent = {
     eyebrow: "Sadulpur (Rajgarh) · Rajasthan",
     h1: "Websites, apps, SEO and AI automation for Sadulpur's mandi traders, mithai shops, schools and service businesses",
     lede:
-      "A remote team of three engineers building simple websites, small online stores and WhatsApp tools for businesses in Sadulpur, also called Rajgarh, and nearby villages of Churu district. We work with grain and guar traders, sweet shops, schools, clinics and transporters. Prices are published, you talk to the developers directly, and upkeep is free for five months.",
+      "A remote team of three engineers building simple websites, small online stores and WhatsApp tools for businesses in Sadulpur, also called Rajgarh, and nearby villages of Churu district. We work with grain and guar traders, sweet shops, schools, clinics and transporters. Prices are published, you talk to the developers directly, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi-first pages", "Mithai ordering online", "Mandi rate updates", "School and clinic sites"],
   },
   quickAnswer:
-    "A website for a Sadulpur business starts from ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for sweets or produce at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Sadulpur office, and five months of maintenance are free.",
+    "A website for a Sadulpur business starts from ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store for sweets or produce at ₹50,000 and WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Sadulpur office, and two months of maintenance are free.",
   snapshot: [
     { label: "Also known as", value: "Rajgarh, a municipality and tehsil headquarters in Churu district, northern Rajasthan" },
     { label: "Rail junction", value: "Sadulpur Junction, the largest station in Churu district, where the Rewari–Bikaner, Hisar and Sri Ganganagar lines meet" },
@@ -51,10 +51,10 @@ const sadulpur: CityContent = {
     ai: "WhatsApp replies in Hindi that share today's rates, shop timings or admission details while you deal with customers at the counter.",
     data: "Season-wise purchase and sale records turned into a phone-friendly dashboard for arhtiyas and wholesalers.",
     app: "Android and iOS apps for school notices, coaching attendance or delivery rounds, available on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Five months of free updates and security fixes after launch, then maintenance from ₹8,000 a month if needed.",
+    maintenance: "Two months of free updates and security fixes after launch, then maintenance from ₹8,000 a month if needed.",
   },
   whyUsIntro:
-    "In a town like Sadulpur, websites usually come from a relative's contact or an agency in Hisar or Jaipur, with a verbal price and no clarity about who owns what. We publish our starting prices, answer WhatsApp seven days a week, register everything in your name and look after the site free for five months after launch.",
+    "In a town like Sadulpur, websites usually come from a relative's contact or an agency in Hisar or Jaipur, with a verbal price and no clarity about who owns what. We publish our starting prices, answer WhatsApp seven days a week, register everything in your name and look after the site free for two months after launch.",
   pricingIntro:
     "These are starting prices. A sweet shop with twenty items needs less work than a trader wanting daily rate updates and buyer logins, so your quote is itemised once we understand what you need. It comes in writing, and you pay nothing until you approve it.",
   sections: [
@@ -181,11 +181,11 @@ const sadulpur: CityContent = {
     },
     {
       id: "ownership-sadulpur",
-      heading: "Your website, your name, and five months of free care",
+      heading: "Your website, your name, and two months of free care",
       paragraphs: [
         "A familiar story in smaller towns: someone built the website, registered the domain in their own name, and later stopped answering. The business couldn't renew the domain or change a phone number, and the site eventually disappeared along with any search presence it had.",
         "We register the domain and hosting in your name from the start. At launch you get every login, the full code and a simple note explaining the setup. You can move to another developer whenever you like, with no exit charge.",
-        "For five months after launch, maintenance is free: text and price updates, bug fixes, security updates, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when something needs changing. See our <a href=\"/services/web-development/\">web development page</a> for how we build.",
+        "For two months after launch, maintenance is free: text and price updates, bug fixes, security updates, backups, uptime and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when something needs changing. See our <a href=\"/services/web-development/\">web development page</a> for how we build.",
       ],
     },
     {
@@ -277,7 +277,7 @@ const sadulpur: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle text and price changes, bug fixes, security updates, backups, uptime and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and price changes, bug fixes, security updates, backups, uptime and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How soon will SEO show results in Sadulpur?",

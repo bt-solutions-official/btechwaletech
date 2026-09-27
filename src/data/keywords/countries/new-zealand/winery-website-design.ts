@@ -35,14 +35,14 @@ const content: FreelanceContent = {
     ["Wine shop and club from", P.shop],
     ["Content-rich region site from", P.seoSite],
     ["Store build time", "About 4 to 8 weeks"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Quote", "Itemised in USD, about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Revenue jobs every winery site is planned around: shop, club, cellar door" },
     { value: "3", label: "Freelance developers building, ranking and managing your project" },
     { value: "2", label: "Working days, about, until your itemised quote" },
-    { value: "5", label: "Months of free maintenance once the site is live" },
+    { value: "2", label: "Months of free maintenance once the site is live" },
   ],
   answer: {
     heading: "What does a New Zealand winery need from its website?",
@@ -231,7 +231,7 @@ const content: FreelanceContent = {
         "Trade area or custom portal",
         "Region, food-match and wine trail pages we write",
       ],
-      after: [`After five months of free maintenance, care plans start from ${P.care}. Platform subscriptions, apps and payment fees are paid directly by you. See <a href='/new-zealand/website-design-cost/'>website costs in NZ</a> for broader figures.`],
+      after: [`After two months of free maintenance, care plans start from ${P.care}. Platform subscriptions, apps and payment fees are paid directly by you. See <a href='/new-zealand/website-design-cost/'>website costs in NZ</a> for broader figures.`],
     },
     {
       id: "timeline",
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Platform and structure", "Platform confirmed, access granted, shop and club templates built on staging with age checks and licence details in place."],
       ["Products, club and bookings", "Wines loaded, club tiers configured, tasting bookings connected, shipping zones set from your courier's rates."],
       ["Test orders and a mock release", "We run test orders, under-18 rejections and a mock club release before any real card is charged."],
-      ["Launch before your release", "Live on your accounts, logins handed over, five months of free maintenance begins, timed ahead of your next release."],
+      ["Launch before your release", "Live on your accounts, logins handed over, two months of free maintenance begins, timed ahead of your next release."],
     ],
   },
   faqHeading: "Winery website design: questions from NZ wineries",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "How do I pay and who owns the store and member data?", answer: "Pay in USD by Wise, bank wire or PayPal at milestones in your written quote, with nothing billed before approval. You own the domain, platform accounts, products, club records and customer data. Invoices come from India; ask your accountant how to record them." },
     { question: "Can you add a restaurant booking and events calendar?", answer: "Yes. Restaurants get a menu page and table booking link, events get listings with tickets, and weddings and functions get an enquiry form. Each links back to the club, since events are a good place to recruit members." },
     { question: "Can you write the wine descriptions and region pages?", answer: "We draft region pages and product layouts from your notes, and edit your tasting notes for the web. The winemaker should write or approve tasting notes and technical details. We never invent awards, scores or technical figures." },
-    { question: "What does a winery website cost to run after launch?", answer: `Platform subscriptions, apps, hosting and payment fees are paid by you directly. Maintenance is free for five months; after that, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional.` },
+    { question: "What does a winery website cost to run after launch?", answer: `Platform subscriptions, apps, hosting and payment fees are paid by you directly. Maintenance is free for two months; after that, care plans start from ${P.care} and monthly SEO from ${P.seo}, both optional.` },
     { question: "Is winery website design different from a normal online shop?", answer: "Yes. Winery website design adds age checks, licence details, alcohol-aware shipping rules, club subscriptions with releases, cellar door bookings and trade information. A normal shop template handles none of these well without careful set-up." },
   ],
   related: {

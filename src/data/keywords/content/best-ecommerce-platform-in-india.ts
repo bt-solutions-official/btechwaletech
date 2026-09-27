@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Platforms we work on", "Shopify, WooCommerce, custom"],
     ["Checkout", "UPI, cards and COD"],
     ["Store accounts", "Registered in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "4", label: "Platform families compared on this page" },
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
         `Compare platforms on what you will pay over three years, not on the launch price; the best ecommerce platform in India on day one is not always the cheapest by year three. A cheaper build can become the expensive option if monthly fees and app subscriptions keep rising with your sales.`,
         `List every recurring line for each platform you are considering: plan or hosting, apps or premium plugins, payment gateway charges, any platform transaction fee, shipping aggregator charges, email or WhatsApp messaging, domain renewal, and maintenance. Then estimate them at your expected order volume in year one and year three.`,
         `The usual pattern: Shopify's cost grows with apps and, for Indian stores using gateways, with the platform transaction fee as sales rise. WooCommerce's cost grows with hosting needs and maintenance effort. Custom stores cost more upfront and then mostly hosting plus developer time for changes. Indian builders stay cheap at small scale and vary widely as you move up tiers.`,
-        `Our part of the bill is simple: store builds from ${P.shop}, five months of free maintenance after launch, then maintenance from ${P.care} if you want it. We list provider costs separately in the quote so you can see the whole three-year picture.`,
+        `Our part of the bill is simple: store builds from ${P.shop}, two months of free maintenance after launch, then maintenance from ${P.care} if you want it. We list provider costs separately in the quote so you can see the whole three-year picture.`,
       ],
     },
     {
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
       id: "running-costs",
       eyebrow: "Running costs",
       heading: "Recurring costs to list before choosing a platform",
-      note: `Fill in current figures from each provider. Our maintenance starts at ${P.care} after five free months.`,
+      note: `Fill in current figures from each provider. Our maintenance starts at ${P.care} after two free months.`,
       columns: ["Cost line", "Shopify", "WooCommerce", "Custom store"],
       rows: [
         ["Platform or software", "Monthly plan", "Free core plugin", "None"],
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "The platform account, hosting, domain, payment gateway and shipping aggregator are registered to your business. We are added as collaborators."],
       ["Build catalogue, checkout and policies", "Products, categories, UPI, card and COD checkout, pincode checks, GST invoice fields and policy pages are set up and shown on a preview link."],
       ["Test real orders end to end", "We place prepaid and COD test orders to different pincodes and confirm invoices, emails and courier handover work before launch."],
-      ["Launch, then five free months", "The store goes live with Search Console and analytics. Five months of maintenance are included; after that it continues only if you want it."],
+      ["Launch, then two free months", "The store goes live with Search Console and analytics. Two months of maintenance are included; after that it continues only if you want it."],
     ],
   },
   faqHeading: "Best ecommerce platform in India: questions sellers ask",

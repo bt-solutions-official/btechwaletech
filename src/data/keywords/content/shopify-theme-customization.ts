@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Single theme tasks", "Quoted per task, itemised"],
     ["Quote turnaround", "About 2 working days"],
     ["Where we work", "A duplicate theme, never your live one"],
-    ["After a store build", "5 months of free maintenance"],
+    ["After a store build", "2 months of free maintenance"],
     ["Ongoing care", `From ${P.care} a month`],
   ],
   stats: [

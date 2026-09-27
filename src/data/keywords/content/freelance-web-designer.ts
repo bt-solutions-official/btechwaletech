@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First screen to review", "Home page on phone and desktop"],
     ["Fonts", "Latin plus Devanagari when needed"],
     ["Files you receive", "Design file, code, style notes"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelancers: design, build and launch in one team" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Home, category, product, cart and checkout screens"],
         ["Custom web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Dashboard, forms, tables and empty states"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "App screens matching your website"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New sections in the existing design system"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New sections in the existing design system"],
       ],
       hideSm: [2],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Approve structure first", "Wireframes of two key pages settle the order of content before colours and fonts come in, which saves rework later."],
       ["Review the visual design", "Branded mockups arrive as a Figma link you can open on your phone. Comment directly and we revise within the agreed rounds."],
       ["Check the build on staging", "The approved design is coded and shared on a private link, filled with your real text and photos, and tested on budget Android phones."],
-      ["Launch and hand over", "Domain, SSL and Search Console are set up, and you receive the design file, code, style note and five months of free maintenance."],
+      ["Launch and hand over", "Domain, SSL and Search Console are set up, and you receive the design file, code, style note and two months of free maintenance."],
     ],
   },
   faqHeading: "Freelance web designer: common questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "What should I send a web designer before the project starts?", answer: "Send your logo in the best format you have, any brand colours or fonts, three sites you like and why, one you dislike, a list of pages, your real text or at least rough notes, and photos of your business, products and team. The more real material the designer has, the more honest the layout will be." },
     { question: "How do I pay a freelance web designer?", answer: "Payments are normally split into stages linked to visible work, such as approved design and a working staging site. BtechWaleTech accepts UPI and bank transfer in India, and Wise, bank wire or PayPal from abroad. Nothing is billed until you approve the itemised quote in writing." },
     { question: "Freelance web designer se website design karwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath design aur coding dono milakar simple website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho sakti hai. Online store ${P.shop} se shuru hota hai. Kharcha is baat par depend karta hai ki kitne alag page layouts chahiye. Pehle itemised quote milta hai, approval ke baad hi payment.` },
-    { question: "What happens after the website design goes live?", answer: `You get five months of free maintenance covering small text changes, fixes and updates. After that, maintenance is optional and starts at ${P.care}. Because the style note and design file are yours, you can also add new pages yourself or hand the site to another designer who can follow the same system.` },
+    { question: "What happens after the website design goes live?", answer: `You get two months of free maintenance covering small text changes, fixes and updates. After that, maintenance is optional and starts at ${P.care}. Because the style note and design file are yours, you can also add new pages yourself or hand the site to another designer who can follow the same system.` },
   ],
   related: {
     heading: "More on web design, redesigns and building your site",
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a freelance web designer who also builds the site? Send your brief",
-    note: `Share your logo, a few sites you like and what the website must achieve. You will get an itemised quote in about two working days, with designed websites from ${P.site}, all files and accounts in your name and five months of free maintenance after launch.`,
+    note: `Share your logo, a few sites you like and what the website must achieve. You will get an itemised quote in about two working days, with designed websites from ${P.site}, all files and accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

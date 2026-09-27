@@ -31,11 +31,11 @@ const kurnool: CityContent = {
     eyebrow: "Kurnool · Rayalaseema, Andhra Pradesh",
     h1: "Web development, Telugu SEO and automation for Kurnool businesses",
     lede:
-      "Three remote engineers building websites, online stores and WhatsApp automations for Kurnool's hospitals and clinics, Budhwarpet and Park Road traders, colleges, stone and oil businesses across the district, and suppliers preparing for the Orvakal node. You see prices upfront, you talk to the developers themselves, and the first five months of maintenance are free.",
+      "Three remote engineers building websites, online stores and WhatsApp automations for Kurnool's hospitals and clinics, Budhwarpet and Park Road traders, colleges, stone and oil businesses across the district, and suppliers preparing for the Orvakal node. You see prices upfront, you talk to the developers themselves, and the first two months of maintenance are free.",
     pills: ["Websites from ₹10,000", "Telugu, Urdu and English", "Clinic booking pages", "Supplier catalogues", "WhatsApp replies in Telugu"],
   },
   quickAnswer:
-    "A basic business website for a Kurnool business costs from ₹10,000 with our team and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no office in Kurnool, and five months of maintenance are included free.",
+    "A basic business website for a Kurnool business costs from ₹10,000 with our team and goes live in one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and automation at ₹40,000. We are a remote team of three engineers with no office in Kurnool, and two months of maintenance are included free.",
   snapshot: [
     { label: "History", value: "Capital of Andhra State from 1953 to 1956; long known as the gateway to Rayalaseema" },
     { label: "Regional economy", value: "Groundnut oil, granite and stone quarrying, and handloom weaving across Adoni, Yemmiganur and nearby Betamcherla" },
@@ -52,10 +52,10 @@ const kurnool: CityContent = {
     ai: "WhatsApp assistants that answer timings, fees, stock and rate questions in Telugu or English and hand anything complicated to your staff.",
     data: "Sales, collections and dispatch figures organised into a phone-friendly dashboard so you can see which branch or product is paying off.",
     app: "Android and iPhone apps for patient bookings, dealer orders or student notices, listed on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Kurnool has local designers, freelancers and agencies from Hyderabad and Bengaluru ready to quote for your website, but published prices are rare and support often fades after launch. We list every starting price, answer on WhatsApp seven days a week, and look after your website at no cost for five months once it is live.",
+    "Kurnool has local designers, freelancers and agencies from Hyderabad and Bengaluru ready to quote for your website, but published prices are rare and support often fades after launch. We list every starting price, answer on WhatsApp seven days a week, and look after your website at no cost for two months once it is live.",
   pricingIntro:
     "Website quotes in Kurnool tend to be verbal and vague about what is included. These are our actual starting prices. The final figure depends on the number of pages, the features and how much content you already have, and you receive it itemised in writing before any work begins.",
   sections: [
@@ -168,7 +168,7 @@ const kurnool: CityContent = {
       paragraphs: [
         "A common problem we hear from Kurnool businesses: an old developer registered the domain, the hosting was on his account, and now the site is down and nobody can reach him. Recovering a lost domain can take weeks, and sometimes it cannot be done at all.",
         "With us, the domain is in your name and the hosting account is yours. At launch you receive every login, the source code and a short note explaining how things are set up. You can move to another developer at any time with no exit fee.",
-        "The first five months after launch include maintenance at no charge: text and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can message us only when you need something.",
+        "The first two months after launch include maintenance at no charge: text and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is available from ₹8,000 a month, or you can message us only when you need something.",
       ],
     },
     {
@@ -257,9 +257,9 @@ const kurnool: CityContent = {
         "Yes. The domain is registered in your name, the hosting account is yours, and you receive every login and the source code at launch. You can change developers whenever you want, with no exit fee. Lost domains are a frequent problem for older Kurnool websites, so we set this up correctly from the start.",
     },
     {
-      question: "What does the five months of free maintenance include?",
+      question: "What does the two months of free maintenance include?",
       answer:
-        "For five months after launch, we handle text and price changes, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch, we handle text and price changes, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How long does SEO take in Kurnool?",

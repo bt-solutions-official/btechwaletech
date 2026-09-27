@@ -32,10 +32,10 @@ const vasaiVirar: CityContent = {
     h1: "Websites, apps, SEO and AI automation across Vasai, Nalasopara and Virar",
     lede:
       "A three-engineer remote team that builds websites, catalogues, booking sites and WhatsApp automations for Vasai-Virar. We work with furniture and packaging units in Waliv and Gauraipada, beach resorts near Arnala and Kalamb, clinics along the Western line and new shops in fast-growing Virar. Prices are published and nothing is billed before you approve.",
-    pills: ["Sites from ₹10,000", "Catalogues for industrial galas", "Resort and banquet booking", "Marathi, Hindi, English SEO", "5 months free maintenance"],
+    pills: ["Sites from ₹10,000", "Catalogues for industrial galas", "Resort and banquet booking", "Marathi, Hindi, English SEO", "2 months free maintenance"],
   },
   quickAnswer:
-    "In Vasai-Virar, a basic website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, you own everything we build, and maintenance is free for five months.",
+    "In Vasai-Virar, a basic website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three engineers with no local office, you own everything we build, and maintenance is free for two months.",
   snapshot: [
     { label: "Civic body", value: "Vasai-Virar City Municipal Corporation, formed in 2010 from four municipal councils and 53 gram panchayats" },
     { label: "Rail stations", value: "Naigaon, Vasai Road, Nalasopara and Virar on the Western Railway suburban line" },
@@ -52,10 +52,10 @@ const vasaiVirar: CityContent = {
     ai: "WhatsApp auto-replies and AI assistants that answer room availability, price and stock questions in Marathi, Hindi or English.",
     data: "Production, sales and booking data turned into simple dashboards you can check from home in Virar or on site in Waliv.",
     app: "Android and iOS apps for repeat dealer orders, resort bookings and patient appointments, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Content edits, backups, security updates and speed checks, free for five months after launch and ₹8,000 a month later.",
+    maintenance: "Content edits, backups, security updates and speed checks, free for two months after launch and ₹8,000 a month later.",
   },
   whyUsIntro:
-    "Vasai-Virar has grown faster than its web design market. Many businesses here still rely on a site made by a Mumbai agency they can no longer reach, or on an Instagram page alone. We publish our starting prices, reply on WhatsApp seven days a week and keep supporting your site free for five months after it goes live.",
+    "Vasai-Virar has grown faster than its web design market. Many businesses here still rely on a site made by a Mumbai agency they can no longer reach, or on an Instagram page alone. We publish our starting prices, reply on WhatsApp seven days a week and keep supporting your site free for two months after it goes live.",
   pricingIntro:
     "Vasai-Virar owners often get website quotes from Mumbai agencies priced for Andheri offices, or from someone local who won't put anything in writing. Here are our actual starting prices. Your final quote depends on pages, products, features and how much content you already have, and it arrives itemised for approval first.",
   sections: [
@@ -169,7 +169,7 @@ const vasaiVirar: CityContent = {
       paragraphs: [
         "We regularly meet Vasai-Virar business owners who have lost control of their website. The agency that built it has closed, or the freelancer changed numbers, and the domain and hosting are in someone else's account. When the renewal date passes, the site and business email go offline together.",
         "With us, ownership is clear from the start. The domain is registered in your name. The hosting account is yours. At launch you receive every login, the complete source code and a short note on how everything is set up. You can move to another developer whenever you want, without paying an exit fee.",
-        "For the first five months after launch, maintenance costs nothing. That includes text and price changes, fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something changed.",
+        "For the first two months after launch, maintenance costs nothing. That includes text and price changes, fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need something changed.",
       ],
     },
     {
@@ -265,7 +265,7 @@ const vasaiVirar: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we cover content and price updates, bug fixes, security updates, backups, uptime checks and speed tests at no charge. After that you can continue from ₹8,000 a month or simply contact us when you need something.",
+        "For two months after launch we cover content and price updates, bug fixes, security updates, backups, uptime checks and speed tests at no charge. After that you can continue from ₹8,000 a month or simply contact us when you need something.",
     },
     {
       question: "Do you also work with businesses in Mira-Bhayandar, Palghar and Bhiwandi?",

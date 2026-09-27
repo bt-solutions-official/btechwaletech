@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Town-by-town build", `From ${P.seoSite} · 3–5 weeks`],
     ["Quote-intake automation", `From ${P.ai}`],
     ["Monthly local SEO", `From ${P.seo}`],
-    ["After launch", `5 free months, then from ${P.care}`],
+    ["After launch", `2 free months, then from ${P.care}`],
     ["Billing", "USD · wire, Wise, PayPal"],
   ],
   stats: [
     { value: "2", label: "Separate lead paths: homes and businesses" },
     { value: "3", label: "Freelance developers who build and support it" },
-    { value: "5", label: "Months of free fixes once the site is live" },
+    { value: "2", label: "Months of free fixes once the site is live" },
     { value: "0", label: "Accounts or domains held in our name" },
   ],
   answer: {
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With our team, electrician website design starts at ${P.site} for a site of up to 100 pages with both lead paths, job pages, photo-upload forms and license display. A larger build with a page for each town in your service radius starts at ${P.seoSite}. You get an itemized USD quote in about two working days.`,
         `The main cost drivers are the number of job and town pages, whether we write all the copy or edit yours, a commercial section with project entries, and integrations with your field-service or CRM software. Automated follow-up for missed calls and web forms is a separate item from ${P.ai}.`,
-        `Ongoing costs you pay directly: domain renewal, hosting and any paid tools. The first five months of fixes and small edits after launch are free; care plans then start at ${P.care}. Other providers' quotes for the same brief vary widely, so compare what is included line by line. Our <a href='/usa/small-business-website-cost/'>small business website cost guide</a> breaks down running costs in more detail.`,
+        `Ongoing costs you pay directly: domain renewal, hosting and any paid tools. The first two months of fixes and small edits after launch are free; care plans then start at ${P.care}. Other providers' quotes for the same brief vary widely, so compare what is included line by line. Our <a href='/usa/small-business-website-cost/'>small business website cost guide</a> breaks down running costs in more detail.`,
       ],
     },
     {
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
       ["Map both lead paths", "On a short video call we agree which pages belong to the residential and commercial sides and where each form's requests should land."],
       ["Preview the design", "A clickable design preview arrives within days. You check it on your phone between jobs and leave comments; changes are made overnight."],
       ["Test forms with real photos", "We submit test requests with photo uploads from iPhone and Android devices, check routing and confirm your license details display correctly."],
-      ["Launch and hand over", "The site goes live, sitemaps are submitted, every account is confirmed in your name, and five months of free fixes begin."],
+      ["Launch and hand over", "The site goes live, sitemaps are submitted, every account is confirmed in your name, and two months of free fixes begin."],
     ],
   },
   faqHeading: "Electrician website design: common questions",
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "How do I get my electrician website into Google's map pack?", answer: "Map pack results depend mostly on your Google Business Profile: correct categories, service areas, hours, photos and steady real reviews. The website supports it with matching details, town pages that say something real and fast mobile pages. No one can guarantee map pack placement, but those steps give you a fair chance." },
     { question: "What does an electrician website need to show up in AI search answers?", answer: "Pages that answer questions directly, facts in plain text, clear business details and structured data. Each job page on our builds opens with a short answer, lists what affects the job and includes a small FAQ, and the About page states who you are and which license you hold." },
     { question: "Who owns the electrician website after it's built?", answer: "You do. The domain, hosting, code, analytics and Google Business Profile are registered to your business from the start, and we're added as users. At handover you get the code and a list of every account. If you change providers later, you remove our access and keep everything." },
-    { question: "What happens after my electrician website launches?", answer: `Five months of free fixes and small edits start at launch. After that, care plans begin at ${P.care} and cover updates, backups, uptime monitoring and content changes. Monthly SEO from ${P.seo} is separate and optional if you want ongoing work on rankings and content.` },
+    { question: "What happens after my electrician website launches?", answer: `Two months of free fixes and small edits start at launch. After that, care plans begin at ${P.care} and cover updates, backups, uptime monitoring and content changes. Monthly SEO from ${P.seo} is separate and optional if you want ongoing work on rankings and content.` },
     { question: "Can you add automatic replies when I miss a call?", answer: `Yes. Missed-call text-back sends the caller a message asking what they need and where, and web form requests get an instant acknowledgment. Replies can route to different staff for residential and commercial enquiries. These automations start at ${P.ai} and usually take two to four weeks.` },
     { question: "How do I pay for an electrician website from the US?", answer: "Quotes and invoices are in US dollars, and you can pay by bank wire, Wise or PayPal. Payments are split into milestones written in the quote you approve, and nothing is billed before approval. Invoices are issued from India, so ask your accountant how to record them." },
     { question: "Do you sign contracts or NDAs for electrician website projects?", answer: "The written quote you approve sets scope, milestones, payments and ownership, and our published terms apply. If you need your own contract or NDA, send it with your brief and we'll review it with you. Specific terms are agreed in writing rather than assumed." },

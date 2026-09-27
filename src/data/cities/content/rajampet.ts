@@ -31,10 +31,10 @@ const rajampet: CityContent = {
     h1: "Web, app, SEO and automation services for Rajampet's fruit growers, traders, nurseries, colleges, clinics and shops",
     lede:
       "We are three engineers working remotely who build websites, local search setups and simple business software for Rajampet and the Cheyyeru valley. Our work fits mango, banana and papaya traders, plant nurseries, engineering and degree colleges, clinics, temple-route businesses and the shops around the bus stations, all at published starting prices.",
-    pills: ["Sites from ₹10,000", "Telugu and English", "Fruit trade registers", "College admission pages", "5 months free upkeep"],
+    pills: ["Sites from ₹10,000", "Telugu and English", "Fruit trade registers", "College admission pages", "2 months free upkeep"],
   },
   quickAnswer:
-    "A static website for a Rajampet business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Rajampet, and maintenance is free for five months.",
+    "A static website for a Rajampet business starts at ₹10,000 with us and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store from ₹50,000, WhatsApp or AI automation from ₹40,000 and custom software from ₹60,000. We are a remote team with no office in Rajampet, and maintenance is free for two months.",
   snapshot: [
     { label: "Where it sits", value: "Municipal town on the Cheyyeru river in Rayalaseema, now in YSR Kadapa district" },
     { label: "Administration", value: "Headquarters of Rajampeta revenue division, covering Rajampeta, Nandalur, Veeraballi and T. Sundupalle mandals" },
@@ -51,10 +51,10 @@ const rajampet: CityContent = {
     ai: "WhatsApp replies for daily rates, stock, admission and appointment questions, handing buyers, parents and patients to your staff.",
     data: "Dashboards showing arrivals and sales by crop and buyer, admissions by course, or enquiries by source.",
     app: "Android and iOS apps for field agents, nursery orders or student notices on ordinary phones, from ₹40,000 with Google Play and App Store release.",
-    maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Free updates, fixes and backups for two months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
-    "Businesses in Rajampet often have to choose between a Kadapa or Tirupati agency priced for bigger clients and a local helper who builds a page and moves on. We publish starting prices, answer on WhatsApp seven days a week, work directly with owners and keep the site maintained free for five months after launch.",
+    "Businesses in Rajampet often have to choose between a Kadapa or Tirupati agency priced for bigger clients and a local helper who builds a page and moves on. We publish starting prices, answer on WhatsApp seven days a week, work directly with owners and keep the site maintained free for two months after launch.",
   pricingIntro:
     "These figures are starting prices. A tiffin centre near the bus station will spend far less than a fruit exporter wanting buyer logins, a daily rate board and a Telugu and English catalogue. You get an itemised quote for your own scope in about two working days, and nothing is billed before you approve it in writing.",
   sections: [
@@ -187,7 +187,7 @@ const rajampet: CityContent = {
       paragraphs: [
         "Plenty of Rajampet businesses have been through this: a website built by an acquaintance, a domain registered in that person's name, and a site that disappears when the renewal is missed. Buyer contacts and years of search history go with it.",
         "We register your domain and hosting in your name from the start. At launch you receive all logins, the full source code and a brief note on how it all works. Trade records, student enquiries and customer lists stay in accounts you control and can be exported whenever you like. If you move to another developer, you take everything and pay no exit fee.",
-        "For five months after launch we handle updates, fixes, security patches, backups and speed checks for free. Afterwards, maintenance continues from ₹8,000 a month, or you contact us only when something needs changing. See our <a href=\"/services/web-development/\">web development service</a> for more.",
+        "For two months after launch we handle updates, fixes, security patches, backups and speed checks for free. Afterwards, maintenance continues from ₹8,000 a month, or you contact us only when something needs changing. See our <a href=\"/services/web-development/\">web development service</a> for more.",
       ],
     },
     {
@@ -278,7 +278,7 @@ const rajampet: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we update text, rates and photos, fix bugs, apply security updates, take backups and check speed for free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we update text, rates and photos, fix bugs, apply security updates, take backups and check speed for free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "Can you make a website for a college in Rajampet?",

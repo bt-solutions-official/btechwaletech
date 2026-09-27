@@ -37,10 +37,10 @@ const content: CityContent = {
     h1: "Hire freelance app and software developers in Durg for retail, mills, agri dealers, hostels and local services",
     lede:
       "BtechWaleTech is a freelance group of three engineers who build for Durg businesses remotely: mobile-first websites with enquiry systems for Indira Market shops, billing and stock software for retailers, mill records for Borai units, credit tracking for agri-input dealers, hostel tools near the colleges, Android and iOS apps and AI assistants. Starting prices are public, and support continues after launch.",
-    pills: ["Mobile-first sites from ₹10,000", "Enquiry and WhatsApp systems", "Android and iOS apps from ₹40,000", "Retail and mill software", "5 months free support"],
+    pills: ["Mobile-first sites from ₹10,000", "Enquiry and WhatsApp systems", "Android and iOS apps from ₹40,000", "Retail and mill software", "2 months free support"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance app and software developers build for Durg from ₹10,000 for a mobile-first website (one to two weeks), ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, ₹50,000 for online stores and ₹60,000 for custom software (six to twelve weeks). We are three remote engineers in India, with five months of free maintenance.",
+    "BtechWaleTech's freelance app and software developers build for Durg from ₹10,000 for a mobile-first website (one to two weeks), ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, ₹50,000 for online stores and ₹60,000 for custom software (six to twelve weeks). We are three remote engineers in India, with two months of free maintenance.",
   snapshot: [
     { label: "Twin city", value: "Forms the Durg–Bhilai urban area, the second largest in Chhattisgarh after Raipur, with the Shivnath river on its western edge" },
     { label: "Industry", value: "Industrial Growth Centre at Borai and Rasmada, the Durg industrial estate, and Bhilai Steel Plant next door" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that reply to enquiries in Hindi at any hour, share prices and timings, capture orders and hand complex requests to your staff.",
     data: "Simple dashboards showing daily sales, stock, dues from customers and farmers, and enquiries converted, readable on a phone.",
     app: "Android and iOS apps from ₹40,000 for Durg shoppers, students, farmers' dealers and staff, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Ongoing support with backups, fixes, updates and small edits, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Ongoing support with backups, fixes, updates and small edits, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Durg businesses often sit in Bhilai's shadow when it comes to IT help: agencies there chase industrial accounts, and local shops get a template page and no follow-up. As a freelance group of three engineers, we build for the counter, the mill and the hostel, and keep supporting what we build.",
@@ -212,7 +212,7 @@ const content: CityContent = {
       id: "support-durg",
       heading: "Ongoing IT support for Durg after launch",
       paragraphs: [
-        "Ongoing support keeps Durg websites, apps and software updated, secure and in line with changing prices, stock and staff. Every BtechWaleTech project includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small edits such as new products, offers or timings.",
+        "Ongoing support keeps Durg websites, apps and software updated, secure and in line with changing prices, stock and staff. Every BtechWaleTech project includes two months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small edits such as new products, offers or timings.",
         "After that, support plans start at ₹8,000 a month, or you can pay per request. We answer WhatsApp seven days a week, including festival weekends when shops are busiest, and anything stopping sales is handled first. Read more <a href='/about/'>about us</a>, or see our <a href='/it-services/chhattisgarh/bhilai/'>Bhilai</a> page and the <a href='/durg/'>Durg city page</a>.",
       ],
     },
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What support do we get after launch?",
       answer:
-        "Five months of maintenance are free once hosting goes live, covering bug fixes, security updates, backups, uptime checks and small edits such as new products, prices or timings. After that, support plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance are free once hosting goes live, covering bug fixes, security updates, backups, uptime checks and small edits such as new products, prices or timings. After that, support plans start at ₹8,000 a month, or you can pay per request. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How soon will local SEO bring customers in Durg?",

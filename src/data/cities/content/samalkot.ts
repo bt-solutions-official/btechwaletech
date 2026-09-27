@@ -56,7 +56,7 @@ const samalkot: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer rate, stock and timing questions and pass real orders to your staff.",
     data: "Dashboards of production batches, dispatches, dealer dues and seasonal sales, readable on a phone.",
     app: "Android and iOS apps for dealers to re-order oil and spices or for schools to reach parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Samalkot sits between two larger cities, and many owners have already been quoted by designers from Kakinada or Rajahmundry. We keep it simple to compare: published starting prices, a written itemised quote, WhatsApp replies every day, and the domain, hosting, code and store accounts registered to you. If something is not worth the money, we tell you.",
@@ -180,7 +180,7 @@ const samalkot: CityContent = {
       heading: "Ownership and maintenance for Samalkot websites and apps",
       paragraphs: [
         "Everything we build belongs to you. The domain is booked on your email, the hosting is in your name, you receive the full source code, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover, you get a written list of every login and password.",
-        "Maintenance is free for the first five months after launch. We change prices and photographs, take backups, apply security and software updates, and check that enquiry forms, payment and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, handle it in-house, or pass the code to another developer without needing our consent.",
+        "Maintenance is free for the first two months after launch. We change prices and photographs, take backups, apply security and software updates, and check that enquiry forms, payment and WhatsApp buttons still work. After that you can continue with us from ₹8,000 a month, handle it in-house, or pass the code to another developer without needing our consent.",
         "Apps need an update at least once a year, because Google and Apple keep raising their minimum requirements. We track those deadlines and release updates early, so your app stays listed.",
       ],
     },
@@ -272,7 +272,7 @@ const samalkot: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For five months after launch, maintenance is free: content changes, backups, security updates and checks on forms, payments and WhatsApp buttons. After that you can continue from ₹8,000 a month or move to anyone else. Since the code and accounts are already yours, switching needs no permission from us.",
+        "For two months after launch, maintenance is free: content changes, backups, security updates and checks on forms, payments and WhatsApp buttons. After that you can continue from ₹8,000 a month or move to anyone else. Since the code and accounts are already yours, switching needs no permission from us.",
     },
     {
       question: "Do you work in Peddapuram, Kakinada and Pithapuram as well?",

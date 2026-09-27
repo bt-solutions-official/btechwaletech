@@ -41,7 +41,7 @@ const content: FreelanceContent = {
     { value: "4", label: "WCAG principles every page is tested against" },
     { value: "3", label: "Screen readers used in manual testing" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after a new build" },
+    { value: "2", label: "Months of free maintenance after a new build" },
   ],
   answer: {
     heading: "What are the BFSG website requirements?",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "What happens if full accessibility would be a disproportionate burden?", answer: "Section 17 of the BFSG allows an exemption where compliance would be an unreasonable burden, based on criteria in Annex 4. You must document the assessment, keep it for five years, reassess regularly and notify the market surveillance authority; microenterprises are excluded from that notice duty. This is a legal judgement for your lawyer, not something a developer decides." },
     { question: "Does accessibility help my SEO?", answer: "Indirectly. Accessibility is not a named ranking factor, but semantic headings, descriptive links, alt text, transcripts and fast, clean pages help search engines and AI assistants understand your content. Removing heavy scripts often improves Core Web Vitals. Nobody can guarantee rankings; we combine accessibility fixes with technical SEO so both improve together." },
     { question: "How do payments and contracts work from Germany?", answer: "We send an itemised quote in USD within about two working days, and nothing is billed before your written approval. Invoices come from India and are paid by Wise or bank wire, in USD or EUR. You keep ownership of the code, theme and accounts. For contract details, the written quote and our published terms apply." },
-    { question: "Is website maintenance included after BFSG fixes?", answer: `New builds include five months of free maintenance after launch. After that, maintenance starts at ${P.care} and can include monthly regression checks on your key journeys, testing of new plugins before they go live, and updates to the known-issues section of your accessibility statement.` },
+    { question: "Is website maintenance included after BFSG fixes?", answer: `New builds include two months of free maintenance after launch. After that, maintenance starts at ${P.care} and can include monthly regression checks on your key journeys, testing of new plugins before they go live, and updates to the known-issues section of your accessibility statement.` },
   ],
   related: {
     heading: "More for German websites, shops and apps",

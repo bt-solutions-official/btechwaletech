@@ -56,7 +56,7 @@ const sikandraRao: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rate, stock, timing and admission questions and pass anything unusual straight to the owner.",
     data: "Season dashboards of chamber occupancy, lots in and out, outstanding credit and which villages send the most business.",
     app: "Android and iOS apps from ₹40,000 for farmer lot slips or retailer re-orders, published on Google Play and the App Store under your accounts.",
-    maintenance: "Five months of free upkeep after go-live, then from ₹8,000 a month for edits, backups, updates and security checks.",
+    maintenance: "Two months of free upkeep after go-live, then from ₹8,000 a month for edits, backups, updates and security checks.",
   },
   whyUsIntro:
     "Trade here is built on credit, memory and long relationships, so nobody hands work to a stranger on a promise. We put the promise in writing instead: starting prices published, a line-by-line quote before anything begins, no billing until you approve it, WhatsApp answered all seven days on Indian time, and your domain, hosting, code and app-store accounts opened under your own name. When a feature is not worth the money for a town this size, we say it plainly.",
@@ -177,8 +177,8 @@ const sikandraRao: CityContent = {
       heading: "Who owns the website, and what maintenance costs in Sikandra Rao",
       paragraphs: [
         "At handover you get a single sheet listing every account and password: domain registrar, hosting, email, Google Business Profile, analytics, and the Google Play and Apple developer accounts if an app was built. They are all in your name, registered on your email, from the first day rather than transferred later. The full source code is yours too. Nothing about your business is locked behind a login only we hold.",
-        "For five months after launch, upkeep costs you nothing. That covers changes to rates and photographs, backups, security and version updates, and occasional checks that the enquiry form, UPI checkout and WhatsApp button are all still working. Nobody bills you for a price edit during that window.",
-        "When the five months end you have a free choice: continue with us from ₹8,000 a month, manage it from your own office, or give the code to a developer in Aligarh or Agra. Apps do need a yearly pass regardless, because Google and Apple keep raising the minimum build they accept, and a listing that falls behind can be pulled. We track those dates and rebuild ahead of them.",
+        "For two months after launch, upkeep costs you nothing. That covers changes to rates and photographs, backups, security and version updates, and occasional checks that the enquiry form, UPI checkout and WhatsApp button are all still working. Nobody bills you for a price edit during that window.",
+        "When the two months end you have a free choice: continue with us from ₹8,000 a month, manage it from your own office, or give the code to a developer in Aligarh or Agra. Apps do need a yearly pass regardless, because Google and Apple keep raising the minimum build they accept, and a listing that falls behind can be pulled. We track those dates and rebuild ahead of them.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const sikandraRao: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months at no cost, covering rate and photo changes, backups, security and version updates, and periodic tests of your forms, checkout and WhatsApp button. After that, staying with us starts at ₹8,000 a month, or you can move on. Since the accounts and code are already yours, nothing needs our permission.",
+        "Two months at no cost, covering rate and photo changes, backups, security and version updates, and periodic tests of your forms, checkout and WhatsApp button. After that, staying with us starts at ₹8,000 a month, or you can move on. Since the accounts and code are already yours, nothing needs our permission.",
     },
     {
       question: "Do you work in Sasni, Sadabad, Hathras and Aligarh too?",

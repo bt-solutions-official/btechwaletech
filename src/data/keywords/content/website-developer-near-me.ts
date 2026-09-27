@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Included", "Maps embed, WhatsApp button, call link"],
     ["Local SEO", "Schema, city pages, Search Console"],
     ["Meetings", "Video call or WhatsApp, your hours"],
-    ["Aftercare", "5 months of free fixes and edits"],
+    ["Aftercare", "2 months of free fixes and edits"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who know your site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Middleman or platform fees" },
   ],
   answer: {
@@ -89,7 +89,7 @@ const content: FreelanceContent = {
       ["Speed on a budget phone", "Rarely tested", "Varies", "Tested on older Android phones and mobile data"],
       ["Domain and hosting owner", "Often the vendor", "Varies", "Always you, from day one"],
       ["Area and service pages", "One page for everything", "Extra cost", "Planned in the sitemap for local search"],
-      ["Help after launch", "When they have time", "Paid per task", `5 months free, then from ${P.care}`],
+      ["Help after launch", "When they have time", "Paid per task", `2 months free, then from ${P.care}`],
       ["Who writes the code", "Sometimes outsourced again", "The seller or a sub-contractor", "The three of us, directly"],
     ],
     fine: "If you need someone to physically come to your shop to click photos or install a computer, a local vendor is the practical choice; we do not make site visits.",
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A local business site is usually live in 1–2 weeks. The slowest part is almost never the coding; it is photos, prices and approvals from a busy owner who is also running the counter.`,
         `In the first two days we talk through your services and customers, agree the page list and send an itemised quote. Once you approve it, we set up the domain and hosting in your name. By the end of the first week you see the home page and one service page on a private staging link, which you can open on your phone between customers. In week two we add the remaining pages, the map, the WhatsApp and call buttons, the schema and speed work, then do one combined round of changes.`,
-        `On launch day we point the domain, switch on HTTPS, verify Search Console, update the website link on your Google Business Profile, and check every button on a real phone. You then get five months of free edits: new timings, a price change, a festival offer banner.`,
+        `On launch day we point the domain, switch on HTTPS, verify Search Console, update the website link on your Google Business Profile, and check every button on a real phone. You then get two months of free edits: new timings, a price change, a festival offer banner.`,
       ],
     },
     {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       heading: "Website developer near me dhoondh rahe hain? Seedha jawab",
       paragraphs: [
         `Aapki dukaan ya clinic ke liye developer ka paas hona zaroori nahi hai. Zaroori yeh hai ki website Google Maps se judi ho, phone par jaldi khule, aur customer ek tap mein call ya WhatsApp kar sake.`,
-        `Hamare saath local business website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par rehte hain. Quote pehle milta hai, line by line, aur approval ke baad hi payment hota hai. Launch ke baad 5 mahine tak chhote badlav free hain, jaise timing ya rate badalna.`,
+        `Hamare saath local business website ${P.site} se shuru hoti hai aur aam taur par 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par rehte hain. Quote pehle milta hai, line by line, aur approval ke baad hi payment hota hai. Launch ke baad 2 mahine tak chhote badlav free hain, jaise timing ya rate badalna.`,
       ],
     },
   ],
@@ -346,7 +346,7 @@ const content: FreelanceContent = {
       ["Photos and details", "We send a short shot list and a simple form for timings, prices and services. Phone photos taken in daylight are usually good enough."],
       ["See it on your phone", "The home page and a service page appear on a private staging link. You reply with comments on WhatsApp, and we revise in one combined round."],
       ["Go live and link Maps", "We connect the domain, switch on HTTPS, add schema, verify Search Console and update the website link on your Google Business Profile."],
-      ["Free care for five months", `Timing changes, new services, offer banners and fixes are free for five months. After that, care is optional from ${P.care}.`],
+      ["Free care for two months", `Timing changes, new services, offer banners and fixes are free for two months. After that, care is optional from ${P.care}.`],
     ],
   },
   faqHeading: "Website developer near me: common questions",
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
     { question: "Is local SEO included in the website price?", answer: `The basics are included in every local site: page titles with service and area, LocalBusiness schema, a sitemap, Search Console setup and a consistent name, address and phone. Ongoing local SEO, such as new area pages, review routines and monthly checks, is a separate service starting at ${P.seo} a month. It is optional.` },
     { question: "Can my shop take orders online through the website?", answer: `Yes. A simple option is a catalogue with a WhatsApp order button, which fits the static plan from ${P.site}. If you want a cart with UPI and card checkout, stock tracking and order emails, that is an online store, starting at ${P.shop}. Many local shops start with WhatsApp orders and move to a cart later.` },
     { question: "Can the website be in Hindi or my regional language?", answer: "Yes. We can build the site in English plus Hindi, Marathi, Tamil, Telugu, Kannada, Bengali, Gujarati or another language, with proper language tags so Google shows the right version. You or a trusted person should supply or check the regional text, since good translation matters more for trust than design." },
-    { question: "What happens after the website is live?", answer: `You get five months of free maintenance: timing changes, new services, price edits, offer banners and small fixes. After that, maintenance is optional and starts at ${P.care}. You can also manage simple edits yourself or hand the site to another developer, since all logins and code are already yours.` },
+    { question: "What happens after the website is live?", answer: `You get two months of free maintenance: timing changes, new services, price edits, offer banners and small fixes. After that, maintenance is optional and starts at ${P.care}. You can also manage simple edits yourself or hand the site to another developer, since all logins and code are already yours.` },
     { question: "How do I pay a remote website developer safely?", answer: "Pay in stages tied to work you can see: an advance after approving the written quote, a payment once the design is on a staging link, and the balance before launch. In India we take UPI or bank transfer. Avoid paying the full amount upfront to anyone, local or remote, before seeing progress." },
     { question: "Is a website still useful if I already have a Google Business Profile?", answer: "Yes. The profile shows basic facts, but a website lets you explain each service, answer common questions, show qualifications and prices, and rank for searches the profile alone may miss. A linked website with matching details also makes the profile look more complete and trustworthy to people comparing nearby options." },
     { question: "Should I use a free website builder instead?", answer: "A free builder can work for a very small business that wants a single page quickly. The trade-offs are limited local SEO control, a site you cannot move easily, slower pages and branding from the builder on free plans. When you want area pages, schema and ownership of the code, a developer-built site is the better long-term choice." },
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want customers nearby to find you? Send us your Maps link",
-    note: `Message us on WhatsApp with your business name and main services. You get an itemised quote in about two working days, with local sites starting at ${P.site}, the domain in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp with your business name and main services. You get an itemised quote in about two working days, with local sites starting at ${P.site}, the domain in your name and two months of free maintenance after launch.`,
   },
 };
 

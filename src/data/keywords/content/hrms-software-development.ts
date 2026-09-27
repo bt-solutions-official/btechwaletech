@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["First phase live in", "Typically 6–12 weeks"],
     ["Quote", "Itemised in about 2 working days"],
     ["Where it runs", "Your own cloud account"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Per-employee fees owed to us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Phase 3", value: `Automation, AI helpdesk or payroll links, from ${P.ai}` },
       { label: "Typical first release", value: "6–12 weeks" },
       { label: "Ownership", value: "Code, database and cloud account in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "HRMS software development pricing by phase",
-    note: `We price custom HRMS in phases so you can stop after any of them. Phase 1, covering employee records, the leave-policy engine, attendance sync and core approvals on a web app, starts at ${P.software}. Phase 2 adds the employee self-service mobile app from ${P.app}. Phase 3 covers automation such as a WhatsApp HR helpdesk, document reading or AI answers to policy questions, from ${P.ai}. Cost rises with the number of legal entities and locations, shift complexity, biometric device variety, integrations with ERP or payroll, and migration of historical leave balances. Maintenance starts at ${P.care} a month after five free months.`,
+    note: `We price custom HRMS in phases so you can stop after any of them. Phase 1, covering employee records, the leave-policy engine, attendance sync and core approvals on a web app, starts at ${P.software}. Phase 2 adds the employee self-service mobile app from ${P.app}. Phase 3 covers automation such as a WhatsApp HR helpdesk, document reading or AI answers to policy questions, from ${P.ai}. Cost rises with the number of legal entities and locations, shift complexity, biometric device variety, integrations with ERP or payroll, and migration of historical leave balances. Maintenance starts at ${P.care} a month after two free months.`,
   },
   guideLabel: "HRMS software development guide",
   guide: [
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         ["2. Self-service app", "Android and iPhone app for leave, attendance, payslips, approvals", `From ${P.app}`, "6–10 weeks"],
         ["3. Automation and AI", "WhatsApp HR helpdesk, document reading, policy Q&A, reminders", `From ${P.ai}`, "2–4 weeks"],
         ["Careers page", "Job listings and applications on your website", `From ${P.site}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", "Fixes, policy changes, app updates", `From ${P.care}/month`, "Ongoing"],
+        ["Maintenance after 2 free months", "Fixes, policy changes, app updates", `From ${P.care}/month`, "Ongoing"],
       ],
     },
     {
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       ["Clickable HR and employee screens", "HR, managers and a few employees try a clickable prototype. Changes are cheap here, so we invite honest criticism from the people who will use it daily."],
       ["Build with weekly releases", "Ankur builds the web app, Santosh sets up hosting and device integrations in your cloud account, and Vedansh shares a working version every week."],
       ["Parallel month", "The HRMS calculates attendance and leave alongside your current method for a full month. Every difference is explained or fixed before switching over."],
-      ["Go-live and handover", "Employees get access, HR gets guides and recordings, you receive the code and credentials, and five months of free maintenance begins."],
+      ["Go-live and handover", "Employees get access, HR gets guides and recordings, you receive the code and credentials, and two months of free maintenance begins."],
     ],
   },
   faqHeading: "HRMS software development: common questions",
@@ -366,12 +366,12 @@ const content: FreelanceContent = {
     { question: "How are approvals handled in a custom HRMS?", answer: "Each request type follows a chain based on department, location, grade and sometimes amount or number of days. Chains support delegation when a manager is away, escalation when a request waits too long and approval from the phone or a WhatsApp notification. Every decision is logged with the approver, time and comment." },
     { question: "Is employee data secure in a custom HRMS?", answer: "It should be protected with field-level role permissions, encryption, audit logs of views and changes, secure document storage and single sign-on where available. Hosting sits in your own cloud account. Biometric templates usually stay on the devices, with the HRMS storing only punch times. Your legal adviser should review privacy notices under the DPDP Act." },
     { question: "Can you migrate data from our current HR software or Excel?", answer: "Yes. We import employee records, reporting lines, opening leave balances and recent attendance, then give HR a reconciliation sheet per employee to sign off before go-live. If you are leaving a subscription product, request a full data export before the contract ends. Migration is priced as its own line in the quote." },
-    { question: "Who owns the HRMS code and data?", answer: "Your business does. The source code, database, cloud account and app store listings are in your name, and we work with access you can revoke. The system is documented so another developer could maintain it. Nothing in the build ties you to us after the five free months of maintenance end." },
+    { question: "Who owns the HRMS code and data?", answer: "Your business does. The source code, database, cloud account and app store listings are in your name, and we work with access you can revoke. The system is documented so another developer could maintain it. Nothing in the build ties you to us after the two free months of maintenance end." },
     { question: "Can the HRMS connect to our ERP or accounting software?", answer: "Usually. Common integrations send cost-centre data to the ERP, monthly attendance to payroll, and new joiners to email and access systems. Each depends on the other system offering an API or reliable import format. We check documentation during scoping and quote each integration as a separate line." },
     { question: "Is a freelance team suitable for HRMS development?", answer: "For focused HRMS builds, yes: you work directly with the three developers who write and support the code, and phases keep scope manageable. For a programme needing a large team across many countries, on-site staff or formal enterprise procurement, a bigger vendor is a better fit, and we will say so on the first call." },
     { question: "Can AI help inside an HRMS?", answer: `Yes, in practical ways: answering employees' policy questions on WhatsApp from your own handbook, reading uploaded documents into joining forms, and flagging unusual attendance patterns for HR to review. These are phase 3 add-ons starting at ${P.ai}, built on your data and your rules, with HR keeping every final decision.` },
     { question: "Hamein apna HRMS banwana hai, shuru kahan se karein?", answer: `Sabse pehle apni leave policy, shift patterns aur biometric machine ke model WhatsApp par bhejiye. Hum lagbhag do working days mein itemised quote dete hain. Pehla phase, jismein employee records, leave engine aur attendance sync hota hai, ${P.software} se shuru hota hai. Mobile app baad mein alag phase mein aata hai.` },
-    { question: "What happens after the HRMS goes live?", answer: `You get five months of free maintenance for bugs and small adjustments. After that, maintenance starts at ${P.care} a month and covers fixes, policy setting changes, security updates and app releases. Larger additions, such as a new module, are quoted separately. The exact support scope is written into your quote.` },
+    { question: "What happens after the HRMS goes live?", answer: `You get two months of free maintenance for bugs and small adjustments. After that, maintenance starts at ${P.care} a month and covers fixes, policy setting changes, security updates and app releases. Larger additions, such as a new module, are quoted separately. The exact support scope is written into your quote.` },
     { question: "Do you come on site to implement the HRMS?", answer: "No. We are three freelance developers working remotely from India. Workshops, training and the parallel month run over video calls, WhatsApp and shared documents, in English or Hindi. Your HR team and device supplier handle on-site steps, and we stay close during go-live to fix issues quickly." },
   ],
   related: {
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Outgrowing your HR tool? Send us your leave policy and shift patterns",
-    note: `Share your headcount, locations, leave policy and biometric device models on WhatsApp. We reply with questions and an itemised, phased quote in about two working days. Custom HRMS software development starts at ${P.software}, runs in your own cloud account and includes five months of free maintenance.`,
+    note: `Share your headcount, locations, leave policy and biometric device models on WhatsApp. We reply with questions and an itemised, phased quote in about two working days. Custom HRMS software development starts at ${P.software}, runs in your own cloud account and includes two months of free maintenance.`,
   },
 };
 

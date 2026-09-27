@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Store redesign from", P.shop],
     ["Redirects", "Mapped page by page, kept long term"],
     ["Accessibility target", "WCAG 2.2 Level AA"],
-    ["After launch", `5 free months, then care from ${P.care}`],
+    ["After launch", `2 free months, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers on your redesign" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "100", label: "Pages included in the static plan" },
   ],
   answer: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What website redesign services cost",
-    note: `Redesign pricing follows the size and complexity of the new site, not the old one. A brochure redesign of up to 100 pages starts from ${P.site} and usually takes one to two weeks. Content-heavy sites with 299 or more pages, where the URL map and content decisions take real time, start from ${P.seoSite}. Online store redesigns start from ${P.shop}, because products, variants, customer accounts and order history move too. Portals and custom web apps start from ${P.software}. Every redesign includes the content audit, redirect map, WCAG 2.2 AA work and post-launch checks, plus five free months of maintenance. You get an itemised quote in about two working days.`,
+    note: `Redesign pricing follows the size and complexity of the new site, not the old one. A brochure redesign of up to 100 pages starts from ${P.site} and usually takes one to two weeks. Content-heavy sites with 299 or more pages, where the URL map and content decisions take real time, start from ${P.seoSite}. Online store redesigns start from ${P.shop}, because products, variants, customer accounts and order history move too. Portals and custom web apps start from ${P.software}. Every redesign includes the content audit, redirect map, WCAG 2.2 AA work and post-launch checks, plus two free months of maintenance. You get an itemised quote in about two working days.`,
   },
   guideLabel: "Website redesign services guide",
   guide: [
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["Structure and URL map", "Keep, merge and retire decisions go into a shared spreadsheet with the new sitemap and redirect map for your review."],
       ["Design and staging build", "One template is designed and approved, then the rest are built on a private staging site you can click through at any time."],
       ["Test and launch", "Redirects, speed, accessibility, forms and tracking are checked on staging, then the site launches on a quiet weekday with a recrawl on production."],
-      ["Monitor for three months", "Search Console checks at day 1, week 1, week 4 and month 3, with fixes as needed and five months of free maintenance."],
+      ["Monitor for three months", "Search Console checks at day 1, week 1, week 4 and month 3, with fixes as needed and two months of free maintenance."],
     ],
   },
   faqHeading: "Website redesign services: frequently asked questions",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Do you rewrite the content during a redesign?", answer: "We refine and restructure existing copy, keep the wording that ranks on important pages, and write or expand content on pages marked for improvement. If you want a full rewrite in a new brand voice, that is scoped separately in the quote. You approve all copy before launch." },
     { question: "What happens to my blog posts in a redesign?", answer: "Each post is judged on its own traffic and links. Posts that earn clicks keep their topic and usually their URL. Thin or overlapping posts are merged into stronger guides with redirects. Posts with no traffic, links or purpose are redirected to the closest relevant page, or retired if nothing relevant exists." },
     { question: "Will my Google Analytics and ad tracking still work after the redesign?", answer: "They should, but only if someone checks. We move GA4, conversion events, Google Ads tags and any call tracking onto the new templates, then confirm on launch day that data is arriving and conversions fire. Broken tracking at launch is common and makes it impossible to judge whether the redesign worked." },
-    { question: "What support comes after website redesign services launch a site?", answer: `You get three months of scheduled Search Console checks and five months of free maintenance covering updates, backups and fixes. After that, optional care starts from ${P.care}. Bigger changes, such as new sections or features, are quoted separately so you always know the cost first.` },
+    { question: "What support comes after website redesign services launch a site?", answer: `You get three months of scheduled Search Console checks and two months of free maintenance covering updates, backups and fixes. After that, optional care starts from ${P.care}. Bigger changes, such as new sections or features, are quoted separately so you always know the cost first.` },
     { question: "Can you guarantee my rankings will improve after a redesign?", answer: "No, and be cautious of anyone who does. Nobody controls Google's rankings. What a careful redesign can do is avoid the avoidable losses, such as missing redirects and deleted content, and give you a faster, clearer, accessible site that is a better base for future SEO work." },
   ],
   related: {

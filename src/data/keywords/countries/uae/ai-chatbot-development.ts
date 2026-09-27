@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Developers building and testing your bot" },
     { value: "2", label: "Languages answered: English and Arabic" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How do you build an AI chatbot in Dubai that answers in English and Arabic from your own data?",
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "First version", value: "2–4 weeks, including an accuracy test in both languages" },
       { label: "Handoff", value: "Live agent, WhatsApp or email, with the full transcript" },
       { label: "Data home", value: "Your cloud account; model provider and region agreed up front" },
-      { label: "After launch", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `2 months free maintenance, then from ${P.care}` },
     ],
   },
   services: {
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     columns: ["Aspect", "Off-the-shelf chatbot SaaS", "Dubai chatbot development company", "BtechWaleTech"],
     rows: [
       ["Setup time", "Hours to days", "Weeks", "2–4 weeks for a first version"],
-      ["Cost shape", "Monthly plan, often per conversation or seat", "Project fee plus support", `From ${P.ai}; support from ${P.care} after 5 free months`],
+      ["Cost shape", "Monthly plan, often per conversation or seat", "Project fee plus support", `From ${P.ai}; support from ${P.care} after 2 free months`],
       ["Answers from your data", "Upload documents within the product's limits", "Custom retrieval", "Custom retrieval with tuned search and source checks"],
       ["Arabic quality", "Varies by product", "Usually offered", "Tested against an Arabic question set you approve"],
       ["Handoff to staff", "Built into many products", "Custom", "To your live chat, WhatsApp or email, with transcript"],
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What AI chatbot development in Dubai costs",
-    note: `A first AI chatbot starts from ${P.ai}. That covers content preparation for one knowledge base, the retrieval pipeline, prompts and guardrails, a chat widget on your website, basic handoff to email or WhatsApp, and an accuracy test in English and Arabic. Cost rises with the number and messiness of documents, live-agent integration, an in-app version, connections to booking or order systems, and extra languages. Model usage is billed to your own provider account, so you see exactly what each conversation costs. Support after five free months starts from ${P.care} a month.`,
+    note: `A first AI chatbot starts from ${P.ai}. That covers content preparation for one knowledge base, the retrieval pipeline, prompts and guardrails, a chat widget on your website, basic handoff to email or WhatsApp, and an accuracy test in English and Arabic. Cost rises with the number and messiness of documents, live-agent integration, an in-app version, connections to booking or order systems, and extra languages. Model usage is billed to your own provider account, so you see exactly what each conversation costs. Support after two free months starts from ${P.care} a month.`,
   },
   guideLabel: "AI chatbots for UAE businesses: data, Arabic, handoff and testing",
   guide: [
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Chatbots drift when content changes and nobody updates the index, when new questions appear, or when a model version changes behaviour. Plan for a light, regular review from day one.`,
         `We set up a simple routine: the index refreshes when your key pages change, a weekly sample of conversations is reviewed for wrong answers and missed handoffs, and new real questions join the test set. When your model provider announces a new version or retires an old one, we re-run the full test set before switching.`,
-        `Every chatbot launch includes five months of free maintenance for what we built. After that, support starts from ${P.care} a month with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours; there is no overnight on-call cover, so the bot's handoff message should say when staff will respond. See the <a href='/portfolio/'>portfolio</a> for the kind of systems we build.`,
+        `Every chatbot launch includes two months of free maintenance for what we built. After that, support starts from ${P.care} a month with scope agreed in your quote. We reply on WhatsApp seven days a week during Indian working hours; there is no overnight on-call cover, so the bot's handoff message should say when staff will respond. See the <a href='/portfolio/'>portfolio</a> for the kind of systems we build.`,
       ],
     },
   ],
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["In-app assistant", "Same backend inside your Android and iOS app", "6–10 weeks with the app", P.app],
         ["Customer portal with chatbot", "Logged-in area, account data, bot with permissions", "6–12 weeks", P.software],
         ["Accuracy audit of an existing bot", "Test set, graded run, fix list", "1–2 weeks", "Quoted separately"],
-        ["Support after launch", "Index updates, reviews, model changes", "Monthly, after 5 free months", P.care],
+        ["Support after launch", "Index updates, reviews, model changes", "Monthly, after 2 free months", P.care],
       ],
       hideSm: [1],
     },
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
       ["Itemised USD quote", "Within about two working days: build lines, channels, handoff, testing depth and estimated running costs per conversation."],
       ["Build and index", "Your content indexed on your cloud account, retrieval tuned, prompts and guardrails written, chat widget styled to your site."],
       ["Test in both languages", "A graded English and Arabic test set, fixes until results meet the agreed pass rules, then a staff-only soft launch."],
-      ["Launch and review", "Public launch, a first conversation review after a week, and five months of free maintenance for what we built."],
+      ["Launch and review", "Public launch, a first conversation review after a week, and two months of free maintenance for what we built."],
     ],
   },
   faqHeading: "AI chatbot development in Dubai: common questions",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Can a remote team in India build a chatbot for a Dubai business?", answer: "Yes. The work is content, retrieval, prompts and testing, all done on screens. India is 1.5 hours ahead of the UAE, so reviews and fixes happen in your working day. Our team writes English; the Arabic answers are reviewed by a native speaker you nominate or a translator you hire, and we say so openly." },
     { question: "How is the running cost of a chatbot calculated?", answer: "Mostly by model usage, which providers bill per amount of text processed, plus hosting for the index and logs on your cloud account. Longer answers, more retrieved passages and larger models cost more per conversation. We estimate running costs from your expected traffic in the quote and can switch to a smaller model where tests show it performs well." },
     { question: "Can the chatbot capture leads?", answer: "Yes, with consent. When a visitor wants a quote, booking or callback, the bot asks for a name and a phone number or email, explains how it will be used, and writes the lead into your CRM or sends it to your sales inbox with a summary of the conversation. It never asks for ID numbers or card details in chat." },
-    { question: "What maintenance does an AI chatbot need?", answer: `Content updates, a regular review of real conversations, new questions added to the test set, and re-testing when the model provider releases or retires versions. Every launch includes five months of free maintenance for what we built; after that, support starts from ${P.care} a month with scope agreed in your quote.` },
+    { question: "What maintenance does an AI chatbot need?", answer: `Content updates, a regular review of real conversations, new questions added to the test set, and re-testing when the model provider releases or retires versions. Every launch includes two months of free maintenance for what we built; after that, support starts from ${P.care} a month with scope agreed in your quote.` },
     { question: "How do we pay for chatbot development from the UAE?", answer: "Quotes are itemised in USD and invoices come from India. You pay by Wise, bank wire or PayPal against milestones set out in your written quote, and nothing is billed before you approve that quote in writing. Model usage and hosting are billed to your own accounts by those providers. Ask your accountant about VAT treatment." },
     { question: "What does an AI chatbot not do well?", answer: "It struggles when your content is thin, contradictory or out of date, when questions need judgement about a specific person's case, and when writing natural Emirati dialect. It should not handle payments, diagnoses or legal decisions. Honest scoping sets these limits in advance and routes such cases to people instead of hoping the model copes." },
   ],

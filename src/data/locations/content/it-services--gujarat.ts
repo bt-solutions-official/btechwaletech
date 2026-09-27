@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Gujarati and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance IT services in Gujarat include custom software and dealer apps from ₹60,000 (six to twelve weeks), AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. We are a freelance group of three remote engineers with no Gujarat office, and five months of maintenance is free after launch.",
+    "BtechWaleTech's freelance IT services in Gujarat include custom software and dealer apps from ₹60,000 (six to twelve weeks), AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. We are a freelance group of three remote engineers with no Gujarat office, and two months of maintenance is free after launch.",
   snapshot: [
     { label: "Capital and districts", value: "Gandhinagar is the capital; the state has 33 districts, with Ahmedabad, Surat, Vadodara and Rajkot as the largest cities" },
     { label: "Industrial base", value: "Chemicals, pharmaceuticals, textiles, engineering, ceramics, petrochemicals, dairy, diamonds and auto components" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that read orders, quotations and emails in Gujarati and English, answer dealer queries and draft follow-ups for a person to approve.",
     data: "Dashboards built on Tally and spreadsheet data showing sales, outstanding, production and dispatch across plants and branches.",
     app: "Android and iOS apps for Gujarat dealers, salesmen, service engineers and shoppers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of fixes, updates and backups after launch, then maintenance plans from ₹8,000 a month.",
+    maintenance: "Two free months of fixes, updates and backups after launch, then maintenance plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Gujarati business owners compare every rupee and expect straight answers. We work that way too: a freelance group of three engineers, starting prices published, itemised quotes, code and accounts in your name, and replies on WhatsApp seven days a week, even during Navratri.",
@@ -209,7 +209,7 @@ const content: CityContent = {
         "<strong>Android and iOS app:</strong> from ₹40,000, six to ten weeks",
         "<strong>Online store:</strong> from ₹50,000, four to eight weeks",
         "<strong>Custom software or dealer app:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after five free months",
+        "<strong>Monthly SEO:</strong> from ₹10,000; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month or you can pay per request. We support software and hosting remotely; on-site hardware stays with your local vendor.",
+        "Two months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start from ₹8,000 a month or you can pay per request. We support software and hosting remotely; on-site hardware stays with your local vendor.",
     },
     {
       question: "Can websites and apps be in Gujarati?",

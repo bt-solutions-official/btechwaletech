@@ -55,7 +55,7 @@ const sibsagar: CityContent = {
     ai: "WhatsApp assistants in Assamese, Hindi and English that handle room, fee, stock and appointment questions and pass real choices to you.",
     data: "Dashboards of bookings by season, contract bills pending by client, admissions by course and tea lots dispatched.",
     app: "Android and iOS apps for field crews to log shifts or for visitors to book heritage walks, from ₹40,000, released on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security fixes.",
   },
   whyUsIntro:
     "Sivasagar clients tend to ask direct questions: who owns the site, what happens after launch, and what exactly am I paying for. Our answers are in writing. Starting prices are public, every quote is itemised, WhatsApp is answered seven days a week, and the domain, hosting, code and app store accounts are opened in your name. When a feature will not pay for itself, we tell you plainly.",
@@ -175,7 +175,7 @@ const sibsagar: CityContent = {
       heading: "Who owns your Sivasagar website or app, and how we maintain it",
       paragraphs: [
         "You do, completely. The domain is booked on your email, hosting is billed in your name, the full source code is handed over, and the Google Business Profile and the Google Play and Apple developer accounts list you as owner. At handover we give you a written sheet of all logins, so no individual, including any of us, can lock you out of your own site.",
-        "For five months after launch, upkeep costs nothing. We change rates and photographs, run backups, apply security and version updates, and check periodically that forms, booking buttons and payments still work. After that, you decide whether to continue with us from ₹8,000 a month, run it yourself, or give the code to another developer.",
+        "For two months after launch, upkeep costs nothing. We change rates and photographs, run backups, apply security and version updates, and check periodically that forms, booking buttons and payments still work. After that, you decide whether to continue with us from ₹8,000 a month, run it yourself, or give the code to another developer.",
         "Apps need an update at least once a year, even if nothing is wrong, because Google and Apple raise their minimum requirements. We track those dates and ship updates early. For hotels we also suggest a check before the winter tourist months, and for colleges before admissions open.",
       ],
     },
@@ -267,7 +267,7 @@ const sibsagar: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months after launch are free: rate and photo changes, backups, security patches and routine checks of forms, bookings and payments. After that you can continue from ₹8,000 a month or stop. Since the code and all accounts are already yours, moving to another developer needs no permission from us.",
+        "The first two months after launch are free: rate and photo changes, backups, security patches and routine checks of forms, bookings and payments. After that you can continue from ₹8,000 a month or stop. Since the code and all accounts are already yours, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you work in Nazira, Demow and Jorhat as well?",

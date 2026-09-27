@@ -316,7 +316,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `SEO audit services are only worth what gets implemented. You have three options: your own developer works through the list, we implement a one-off batch of fixes, or the fixes roll into ongoing monthly SEO that starts at ${P.seo}.`,
         `One-off fixes suit sites where the problems are mostly technical and finite: a redirect map, a canonical cleanup, a speed pass. Ongoing work suits sites where the gap is content and authority, which build month by month. The page on <a href='/one-time-vs-monthly-seo/'>one-time vs monthly SEO</a> compares both honestly.`,
-        `Sometimes the audit concludes the platform itself is the limit, such as a site builder that cannot set canonicals or a theme so heavy no amount of tuning helps. Then a rebuild is cheaper in the long run, either a <a href='/seo-website-developer/'>search-first website</a> from ${P.seoSite} or a simpler static site from ${P.site}. After launch you get five months of free maintenance, then care plans from ${P.care}.`,
+        `Sometimes the audit concludes the platform itself is the limit, such as a site builder that cannot set canonicals or a theme so heavy no amount of tuning helps. Then a rebuild is cheaper in the long run, either a <a href='/seo-website-developer/'>search-first website</a> from ${P.seoSite} or a simpler static site from ${P.site}. After launch you get two months of free maintenance, then care plans from ${P.care}.`,
       ],
     },
     {

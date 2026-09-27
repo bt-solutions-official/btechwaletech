@@ -274,7 +274,7 @@ const content: FreelanceContent = {
       heading: "The hybrid model: fix once, then a lighter monthly plan",
       paragraphs: [
         `For most businesses the choice between one time SEO vs monthly SEO is not either-or. The sensible sequence is a one-time fix first, then a monthly plan sized to what is left.`,
-        `The one-time phase clears technical debt so monthly hours are not wasted on problems that should have been solved once. The monthly phase then spends its time on pages and improvements that compound. Some clients pause the monthly plan after a season, keep the site healthy with basic maintenance from ${P.care} (after the five free months that follow any build we do), and restart SEO work when they add a service or a city.`,
+        `The one-time phase clears technical debt so monthly hours are not wasted on problems that should have been solved once. The monthly phase then spends its time on pages and improvements that compound. Some clients pause the monthly plan after a season, keep the site healthy with basic maintenance from ${P.care} (after the two free months that follow any build we do), and restart SEO work when they add a service or a city.`,
         `Pausing is fine. Rankings do not vanish the day you stop paying; they drift as competitors keep working and your pages age. How fast depends on the market. In a quiet niche, a well-built site can hold its ground for a long time. In a busy one, gaps show sooner. Terms for pausing or ending a plan are agreed in your written quote; see our <a href='/terms/'>terms</a> for the general conditions.`,
       ],
     },

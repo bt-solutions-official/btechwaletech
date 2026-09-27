@@ -56,7 +56,7 @@ const peddapuram: CityContent = {
     ai: "WhatsApp assistants that reply in Telugu or English about stock, prices, fees and timings, and hand real decisions back to you.",
     data: "Dashboards of paddy received, rice shipped, silk orders by city and hostel dues, refreshed from the records you already keep.",
     app: "Android and iOS apps for handloom societies' repeat buyers or hostel parents near Surampalem, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Peddapuram families have run looms, sweet counters and mills for generations, and they judge a supplier on whether the work still holds up years later. We show starting prices openly, send an itemised written quote, reply on WhatsApp every day, and put the domain, hosting, code and store accounts in your name. When something will not pay for itself, we tell you before you spend on it.",
@@ -167,7 +167,7 @@ const peddapuram: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store for silk, sweets or other goods: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -184,7 +184,7 @@ const peddapuram: CityContent = {
       heading: "Who owns your Peddapuram website and app, and what maintenance covers",
       paragraphs: [
         "Ownership is settled on the first day rather than argued about at the end. The domain is registered on your email, hosting is billed to you, the source code is shared with you, and your Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you receive a written list of every login and password.",
-        "For five months after launch, maintenance costs you nothing. That period covers price and photo changes, backups, security and software updates, and periodic checks that your forms, UPI and card checkout and WhatsApp links still work. After that you can stay with us from ₹8,000 a month, manage it in-house, or pass the code to another developer without needing our permission.",
+        "For two months after launch, maintenance costs you nothing. That period covers price and photo changes, backups, security and software updates, and periodic checks that your forms, UPI and card checkout and WhatsApp links still work. After that you can stay with us from ₹8,000 a month, manage it in-house, or pass the code to another developer without needing our permission.",
         "Apps need a little more care than websites. Google and Apple raise their minimum requirements every year, and an app that falls behind can be hidden or removed from the stores. We track those deadlines and schedule the updates early, so a society's reorder app or a hostel's parent app keeps working right through the admission and wedding seasons.",
       ],
     },
@@ -271,7 +271,7 @@ const peddapuram: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: price and photo edits, backups, security patches and routine checks of forms, checkout and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, but it is your choice. Because the code and accounts are already yours, you can move to anyone else without our permission.",
+        "The first two months after launch are free: price and photo edits, backups, security patches and routine checks of forms, checkout and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, but it is your choice. Because the code and accounts are already yours, you can move to anyone else without our permission.",
     },
     {
       question: "Do you work with businesses in Samalkot, Kakinada and Surampalem too?",

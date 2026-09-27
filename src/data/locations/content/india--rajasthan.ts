@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["IT consulting first", "Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "Hindi and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "For IT solutions and IT consulting in Rajasthan, BtechWaleTech is a remote freelance group of three engineers. Websites start from ₹10,000 (one to two weeks), AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000 (six to twelve weeks). Every launch includes five months of free maintenance.",
+    "For IT solutions and IT consulting in Rajasthan, BtechWaleTech is a remote freelance group of three engineers. Websites start from ₹10,000 (one to two weeks), AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000 (six to twelve weeks). Every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Capital and size", value: "Jaipur is the capital; Rajasthan is India's largest state by area, with Jodhpur, Kota, Bikaner, Ajmer and Udaipur as other major cities" },
     { label: "Stone and minerals", value: "Makrana and Kishangarh for marble, Rajsamand and Udaipur for stone processing, with granite, sandstone and mineral trading across the state" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp automation that answer Hindi and English enquiries, qualify leads, draft quotations and follow up, always with a person able to step in.",
     data: "Dashboards built on Tally, spreadsheet and billing data so a Rajasthan owner can see sales, receivables, stock and branch performance on one screen.",
     app: "Android and iOS apps for Rajasthan dealers, field staff, hotel guests and students, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of maintenance free after launch, then optional plans from ₹8,000 a month for updates, backups, security patches and uptime checks.",
+    maintenance: "Two months of maintenance free after launch, then optional plans from ₹8,000 a month for updates, backups, security patches and uptime checks.",
   },
   whyUsIntro:
     "Rajasthan business owners are careful buyers who want to understand what they are paying for. We are three engineers, not a sales team, so the person who scopes your project is the person who writes the code, and every quote is itemised in rupees.",
@@ -90,7 +90,7 @@ const content: CityContent = {
         "A freelance IT team suits most Rajasthan MSMEs better than a large IT solutions company when the project is under a few lakh rupees and the owner wants to deal directly with the engineers. Larger firms make sense for regulated enterprise work, 24-hour staffed support desks or projects needing dozens of developers at once.",
         "If you are comparing IT companies in Jaipur, Jodhpur or Kota, you will notice that many present a large team but hand small projects to one or two junior developers behind an account manager. With BtechWaleTech the three of us are the whole team. That cuts the layers, but it also sets honest limits: we take a small number of projects at a time, and we will tell you if your timeline cannot fit.",
         "Ask any provider the same four questions. Who exactly will write the code? Will the domain, hosting, app store listings and source code be registered in my name? What happens if the developer leaves mid-project? What is included after launch? A good freelance group and a good company will both answer clearly. Vague answers, or a price that appears only after a long sales pitch, are warning signs regardless of size.",
-        "We state our answers upfront: the three of us build it, everything is registered to you, code sits in a repository you own, and five months of maintenance come free once hosting is live.",
+        "We state our answers upfront: the three of us build it, everything is registered to you, code sits in a repository you own, and two months of maintenance come free once hosting is live.",
       ],
     },
     {
@@ -225,7 +225,7 @@ const content: CityContent = {
       heading: "How much do IT solutions cost for a Rajasthan business?",
       paragraphs: [
         "IT solutions for a Rajasthan business range from ₹10,000 for a static website to ₹60,000 and up for custom software, with most MSME digital transformation projects landing between ₹40,000 and a few lakh rupees depending on scope. Every figure here is a starting price; your final number depends on scope.",
-        "Here is how the pieces usually add up. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts from ₹20,000. An online store starts from ₹50,000. Android and iOS apps and AI automation each start from ₹40,000. Custom web apps and software start from ₹60,000. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month, after the first five free months.",
+        "Here is how the pieces usually add up. A static website of up to 100 pages starts from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts from ₹20,000. An online store starts from ₹50,000. Android and iOS apps and AI automation each start from ₹40,000. Custom web apps and software start from ₹60,000. Monthly SEO starts from ₹10,000 and maintenance from ₹8,000 a month, after the first two free months.",
         "What moves the price is the number of user roles, integrations with Tally or other systems, offline requirements, languages, data migration from old files and how much content we need to write. You receive an itemised quote in about two working days after the consulting call. Clients pay only by UPI (scanning our QR code) or direct bank transfer to our bank account, in INR, usually in milestones tied to visible progress.",
       ],
     },
@@ -233,7 +233,7 @@ const content: CityContent = {
       id: "maintenance-it-support",
       heading: "What happens after launch: maintenance and IT support for Rajasthan clients",
       paragraphs: [
-        "After launch, every Rajasthan project gets five months of free maintenance covering bug fixes, content updates, security patches, backups and uptime checks. After that you can continue on a plan from ₹8,000 a month, pay per change, or take everything in-house with the documentation we provide.",
+        "After launch, every Rajasthan project gets two months of free maintenance covering bug fixes, content updates, security patches, backups and uptime checks. After that you can continue on a plan from ₹8,000 a month, pay per change, or take everything in-house with the documentation we provide.",
         "Support happens on WhatsApp, where we reply seven days a week, and on scheduled calls when something needs a walkthrough. We do not offer on-site visits, since we are a remote freelance team, but most software and hosting problems do not need one. For hardware, office networks or CCTV, we recommend you keep a trusted local technician in your city.",
         "We also schedule a short review a few months after launch. By then staff have used the system under real conditions and usually have a list of small changes. Those tweaks, done early, decide whether software becomes part of the daily routine or quietly gets abandoned. Our <a href='/about/'>about page</a> explains who the three of us are and how we split the work.",
       ],
@@ -317,7 +317,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. Five months of maintenance are free once hosting goes live: bug fixes, small content changes, security updates, backups and uptime checks. After that, plans start from ₹8,000 per month, or you can pay per change. Support is by WhatsApp seven days a week. We cannot visit sites, so local hardware and network issues need a local technician.",
+        "Yes. Two months of maintenance are free once hosting goes live: bug fixes, small content changes, security updates, backups and uptime checks. After that, plans start from ₹8,000 per month, or you can pay per change. Support is by WhatsApp seven days a week. We cannot visit sites, so local hardware and network issues need a local technician.",
     },
     {
       question: "Do you work with businesses in small Rajasthan towns, not just Jaipur?",

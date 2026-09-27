@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Meta charges", "Per delivered template message"],
     ["Service replies", "Free inside the 24-hour window"],
     ["Meta billing", "Paid by you, directly"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Markup we add on Meta’s message charges" },
     { value: "24", label: "Hours of free replies after each customer message" },
-    { value: "5", label: "Months of free maintenance after the bot goes live" },
+    { value: "2", label: "Months of free maintenance after the bot goes live" },
     { value: "2", label: "Working days to receive an itemised bot estimate" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Customer-initiated replies", value: "Free within the 24-hour service window" },
       { label: "Provider markup", value: "Varies by provider; none on our builds" },
       { label: "Hosting", value: "Small server or serverless, billed to you" },
-      { label: "Upkeep", value: `5 free months, then from ${P.care}` },
+      { label: "Upkeep", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -115,7 +115,7 @@ const content: FreelanceContent = {
         `<strong>Software:</strong> one-time build from ${P.ai}, or a monthly subscription.`,
         "<strong>Meta charges:</strong> per delivered template, by category; service replies free.",
         "<strong>Markup:</strong> whatever a provider adds on top of Meta’s rate.",
-        `<strong>Running:</strong> hosting, plus maintenance from ${P.care} after 5 free months on our builds.`,
+        `<strong>Running:</strong> hosting, plus maintenance from ${P.care} after 2 free months on our builds.`,
       ],
     },
     {
@@ -213,7 +213,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `To compare the WhatsApp chatbot price in India across quotes, put every quote into the same four columns, software, Meta charges, markup and running costs, over 36 months. The cheapest-looking quote often moves once markup and plan upgrades are counted.`,
         `Ask each builder or provider: Is this the official WhatsApp Business Platform or an unofficial tool? Unofficial automation on the regular app risks your number being banned. Whose name is the WhatsApp Business Account in? Who pays Meta, and at what rate? Can I export my contacts, chat history and flows if I leave? Which integrations are included, and which are extra? Who fixes the bot when Meta changes something?`,
-        `Our answers are simple: official Cloud API, accounts in your name, Meta billed to you, code in your repository, and 5 months of free maintenance after go-live. We are also clear about our limits: we are three people, so we do not staff a 24/7 call centre, and we do not run bulk campaigns to purchased lists.`,
+        `Our answers are simple: official Cloud API, accounts in your name, Meta billed to you, code in your repository, and 2 months of free maintenance after go-live. We are also clear about our limits: we are three people, so we do not staff a 24/7 call centre, and we do not run bulk campaigns to purchased lists.`,
       ],
     },
     {
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Maintenance adds little to the WhatsApp chatbot price in India for a stable bot: Meta API version updates, template changes, menu and price updates, and fixes when a connected system changes.`,
         `Meta versions its Graph API and retires old versions on a published schedule, so bots need occasional updates to keep working. Your business changes too: new products, new outlets, festival offers, changed delivery areas. And integrations shift when your store, CRM or accounting software updates its own API.`,
-        `Our bots include 5 months of free maintenance after going live. After that, plans start from ${P.care}, or you can ask for changes one at a time, quoted before work starts. Because the code and accounts are yours, you can also hand maintenance to your own developer at any time.`,
+        `Our bots include 2 months of free maintenance after going live. After that, plans start from ${P.care}, or you can ask for changes one at a time, quoted before work starts. Because the code and accounts are yours, you can also hand maintenance to your own developer at any time.`,
       ],
     },
     {
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
       columns: ["Cost line", "SaaS chatbot plan", "Custom build"],
       rows: [
         ["Setup", "Setup fee, if any", `Build from ${P.ai}`],
-        ["Months 1–12", "Plan fee × 12", "Hosting; maintenance free for 5 months"],
+        ["Months 1–12", "Plan fee × 12", "Hosting; maintenance free for 2 months"],
         ["Months 13–36", "Likely higher tier × 24 as contacts grow", `Hosting plus optional care from ${P.care}`],
         ["Message markup", "Provider rate minus Meta rate, × volume", "None: Meta bills you"],
         ["Integrations", "Included connectors; custom work extra", "Built in to the quote"],
@@ -341,13 +341,13 @@ const content: FreelanceContent = {
       ["Meta setup", "On a screen share we set up your WhatsApp Business Account, business verification, number and display name, all in your business’s name."],
       ["Build and templates", "Flows, integrations and templates are built on a test number, templates submitted for approval, and categories labelled so you know their cost."],
       ["Staff testing", "Your team tests on their own phones with real products and prices. We fix wording, add hand-offs and check payment status updates."],
-      ["Launch and care", "The bot goes live on your number. Five months of free maintenance follow, then an optional plan from our maintenance starting price."],
+      ["Launch and care", "The bot goes live on your number. Two months of free maintenance follow, then an optional plan from our maintenance starting price."],
     ],
   },
   faqHeading: "WhatsApp chatbot price in India: questions buyers ask",
   faqs: [
     { question: "How much does a WhatsApp chatbot cost in India?", answer: `A custom WhatsApp chatbot from BtechWaleTech starts from ${P.ai} (${P.aiUsd}) as a one-time build you own, taking 2–4 weeks. On top of that, Meta charges per delivered template message by category, and you pay for hosting. Replies within 24 hours of a customer’s message are free, so bots built around customer-started chats keep running costs low.` },
-    { question: "Is there a monthly fee for a WhatsApp chatbot?", answer: `With a SaaS chatbot tool, yes: you pay a plan fee every month. With our custom builds there is no software subscription; you pay once for the build, then hosting and Meta’s message charges directly. Maintenance is free for 5 months after launch and optional after that, from ${P.care}.` },
+    { question: "Is there a monthly fee for a WhatsApp chatbot?", answer: `With a SaaS chatbot tool, yes: you pay a plan fee every month. With our custom builds there is no software subscription; you pay once for the build, then hosting and Meta’s message charges directly. Maintenance is free for 2 months after launch and optional after that, from ${P.care}.` },
     { question: "What does Meta charge for WhatsApp chatbot messages?", answer: "Since 1 July 2025, Meta charges per delivered template message, based on category (marketing, utility or authentication) and the recipient’s country code. Service replies to customers who messaged you are free, and utility templates are free inside the 24-hour customer service window. Rates change periodically, so always check Meta’s current rate card." },
     { question: "Does Meta still charge per conversation?", answer: "No. Meta’s developer documentation states that conversation-based pricing was replaced by per-message pricing on 1 July 2025. You are now charged for each delivered template message according to its category. Many older blog posts still describe 24-hour conversation charges, so treat those figures as outdated when estimating the WhatsApp chatbot price in India." },
     { question: "Which WhatsApp messages are free for a chatbot?", answer: "Free-form service replies within 24 hours of a customer’s last message are free, as are utility templates sent inside that window. When a chat starts from a Click-to-WhatsApp ad or Facebook Page button, Meta opens a 72-hour window in which all messages are free. Marketing and authentication templates are charged." },
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
     { question: "How long does it take to build a WhatsApp chatbot?", answer: "Most custom bots take 2–4 weeks. Simple menu and FAQ bots can be live within the first week once Meta business verification is approved; catalogue, order and payment bots take longer because of testing. Meta verification and template approvals are often the slowest steps, so we start them on day one." },
     { question: "Do you use the official WhatsApp API?", answer: "Yes, always the official WhatsApp Business Platform through Meta’s Cloud API. Unofficial tools that automate the regular WhatsApp app break WhatsApp’s terms and put your number at risk of being banned. The WhatsApp Business Account and its payment method are set up in your business’s name, so Meta bills you directly." },
     { question: "Can the chatbot reply in Hindi?", answer: "Yes. Button flows can be written in Hindi and English, and an AI layer can understand free-text questions in Hindi, English or Hinglish and answer from your price list and policies. You approve the Hindi wording. AI replies add model token costs billed to your AI provider account, on top of Meta’s message charges." },
-    { question: "What does it cost to maintain a WhatsApp chatbot?", answer: `For stable bots, upkeep is a small part of the WhatsApp chatbot price in India: Meta API version updates, new templates, menu and price changes, and fixes when a connected system changes. Our bots include 5 months of free maintenance after launch; after that, plans start from ${P.care}, or you can request changes one at a time, quoted before work begins.` },
+    { question: "What does it cost to maintain a WhatsApp chatbot?", answer: `For stable bots, upkeep is a small part of the WhatsApp chatbot price in India: Meta API version updates, new templates, menu and price changes, and fixes when a connected system changes. Our bots include 2 months of free maintenance after launch; after that, plans start from ${P.care}, or you can request changes one at a time, quoted before work begins.` },
     { question: "Can the WhatsApp bot connect to Shopify, Tally or my CRM?", answer: "Yes. Integrations are part of the custom build: orders can flow into Shopify or WooCommerce, dues can be read from Tally exports or an API layer, and leads can be written into Zoho or your own CRM. Each integration is quoted as its own line, because its effort depends on the other system’s API." },
     { question: "WhatsApp chatbot kitne ka banta hai?", answer: `BtechWaleTech ke saath custom WhatsApp chatbot ${P.ai} se shuru hota hai, ek baar ka build, jo aapka apna hota hai. Iske alawa Meta har template message ka charge seedha aapke account se leta hai. Customer ke message ke 24 ghante ke andar bot ke reply free hote hain, isliye sahi design se kharcha kam rehta hai.` },
     { question: "Do I need a website if I have a WhatsApp chatbot?", answer: `Not strictly, and it is not part of the WhatsApp chatbot price in India, but it helps. A website with a WhatsApp button brings customers who search on Google, and customer-started chats are the cheapest for your bot. Pages that answer common questions also help AI assistants recommend you. A simple site starts from ${P.site} with us, and a full online store from ${P.shop}.` },

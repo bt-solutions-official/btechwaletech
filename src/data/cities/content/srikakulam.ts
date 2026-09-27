@@ -30,11 +30,11 @@ const srikakulam: CityContent = {
     eyebrow: "Srikakulam · Andhra Pradesh",
     h1: "Websites, software, SEO and AI tools for Srikakulam's khadi, cashew and temple trade",
     lede:
-      "We are a remote team of three engineers making websites, Telugu and English search pages, UPI stores and WhatsApp tools for Ponduru khadi sellers, Palasa cashew units, Pydibhimavaram suppliers, Arasavalli lodges, clinics and the shops around Day and Night Junction. Our prices are starting points, you own the code and domain, and upkeep is free for five months.",
+      "We are a remote team of three engineers making websites, Telugu and English search pages, UPI stores and WhatsApp tools for Ponduru khadi sellers, Palasa cashew units, Pydibhimavaram suppliers, Arasavalli lodges, clinics and the shops around Day and Night Junction. Our prices are starting points, you own the code and domain, and upkeep is free for two months.",
     pills: ["Websites ₹10,000 onwards", "Telugu and English pages", "Khadi and cashew stores", "Pilgrim lodge bookings", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Srikakulam, our static business websites start from ₹10,000 and go live in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Srikakulam office, and maintenance is free for five months after launch.",
+    "In Srikakulam, our static business websites start from ₹10,000 and go live in one to two weeks. SEO websites with 299+ pages start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are three remote engineers with no Srikakulam office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "City", value: "Headquarters of Srikakulam district, known as Chicacole before Independence; municipality from 1856, corporation since 2015" },
     { label: "Transport", value: "NH 16 bypasses the city; the railhead, Srikakulam Road station, is at Amadalavalasa on the Howrah–Chennai line" },
@@ -51,7 +51,7 @@ const srikakulam: CityContent = {
     ai: "WhatsApp assistants that answer routine questions on room availability, stock, rates or OP timings in Telugu, Odia or English and pass complex ones to you.",
     data: "Dashboards showing orders, dispatches, dealer dues and where enquiries come from, readable on a phone at the shop counter.",
     app: "Android and iPhone apps for students, patients and field staff, listed on Google Play and the App Store and ready in six to ten weeks.",
-    maintenance: "Updates, backups and security checks free for five months after launch, then maintenance from ₹8,000 a month if you need it.",
+    maintenance: "Updates, backups and security checks free for two months after launch, then maintenance from ₹8,000 a month if you need it.",
   },
   whyUsIntro:
     "Srikakulam businesses often end up waiting on Visakhapatnam agencies that quote without detail, or on a local helper who built the site and then moved away. We publish starting prices, send an itemised quote before any billing, draft Telugu text that you approve, and answer WhatsApp seven days a week.",
@@ -196,7 +196,7 @@ const srikakulam: CityContent = {
       paragraphs: [
         "A recurring problem in smaller cities is a developer who keeps the domain and hosting in his own name. When he stops answering calls and the renewal lapses, the business loses its site and email overnight.",
         "We register the domain and hosting in your name from the first day. At launch you receive all logins, the full source code and a short guide to editing text and photos. You can move to another developer at any time without paying an exit fee.",
-        "For five months after launch, maintenance is free: content updates, bug fixes, security patches, backups and speed checks. After that it is ₹8,000 a month onwards, or you can contact us only when needed. Start on our <a href=\"/contact/\">contact page</a> or send a WhatsApp message.",
+        "For two months after launch, maintenance is free: content updates, bug fixes, security patches, backups and speed checks. After that it is ₹8,000 a month onwards, or you can contact us only when needed. Start on our <a href=\"/contact/\">contact page</a> or send a WhatsApp message.",
       ],
     },
   ],
@@ -288,7 +288,7 @@ const srikakulam: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle text and photo updates, bug fixes, security patches, backups and speed checks at no charge. Afterwards, maintenance is ₹8,000 a month onwards, or you can contact us only when a change is needed.",
+        "For two months after launch we handle text and photo updates, bug fixes, security patches, backups and speed checks at no charge. Afterwards, maintenance is ₹8,000 a month onwards, or you can contact us only when a change is needed.",
     },
     {
       question: "What should I share to get a quote?",

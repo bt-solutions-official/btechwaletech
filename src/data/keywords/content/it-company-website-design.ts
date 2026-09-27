@@ -39,7 +39,7 @@ const content: FreelanceContent = {
     ["Client or partner portal", `From ${P.software}`],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Accounts and code", "Registered to your business"],
-    ["Post-launch care", "First 5 months free"],
+    ["Post-launch care", "First 2 months free"],
   ],
   stats: [
     { value: "3", label: "Developers who build, optimise and automate" },
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Client portal or partner dashboard", value: `From ${P.software}, 6–12 weeks` },
       { label: "Lead routing and AI enquiry triage", value: `From ${P.ai}` },
       { label: "Monthly SEO", value: `From ${P.seo}; rankings are never guaranteed` },
-      { label: "Maintenance", value: `5 months free, then from ${P.care}` },
+      { label: "Maintenance", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -225,7 +225,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `IT company website design with BtechWaleTech starts at ${P.site} (${P.siteUsd}) for a site of up to 100 pages with services, tech stacks, case studies, engagement models and careers. Larger generated networks of stack, industry and country pages start at ${P.seoSite}, and portals start at ${P.software}.`,
         `The main cost drivers are: number of distinct page templates; size of the case study and stack libraries; whether we write copy from interviews with your architects and project leads; international pages and hreflang; careers workflows; and any logged-in areas. Animation-heavy visuals add cost without adding enquiries, so we use them sparingly.`,
-        `Running costs are yours and modest: domain, hosting, a CMS plan if you choose a hosted one, and email or form tools. The first 5 months of maintenance after launch are free, then optional from ${P.care}. Monthly SEO for your own site starts at ${P.seo}.`,
+        `Running costs are yours and modest: domain, hosting, a CMS plan if you choose a hosted one, and email or form tools. The first 2 months of maintenance after launch are free, then optional from ${P.care}. Monthly SEO for your own site starts at ${P.seo}.`,
         `Other freelancers and agencies quote across a wide range for similar scopes. Differences come from how much content strategy is included, whether case studies are structured or just pages of text, how internationalisation is handled, and responsibility after launch. Ask for pages, templates and integrations itemised separately. Starting points for every plan are on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your business owns the domain, hosting, code, CMS, content and every lead and application collected. We work inside accounts registered to you and hand over the repository and admin access at launch.`,
         `For an IT team this is also practical: your own engineers may want to extend the site later. We keep the codebase conventional, documented and free of licensed components you have not agreed to, and we walk your team through the content model and deployment in a recorded session.`,
-        `The first 5 months after launch include free maintenance. After that, care from ${P.care} is optional; many IT teams take the site in-house at that point, which we are happy to support. Payment milestones, confidentiality and other terms are written into your quote; general conditions sit on our <a href='/terms/'>terms page</a>.`,
+        `The first 2 months after launch include free maintenance. After that, care from ${P.care} is optional; many IT teams take the site in-house at that point, which we are happy to support. Payment milestones, confidentiality and other terms are written into your quote; general conditions sit on our <a href='/terms/'>terms page</a>.`,
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Client portal or applicant tracker", "Logins, roles, documents, tickets or candidate pipeline", `${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["Enquiry triage automation", "AI classification, CRM routing, alerts", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Monthly SEO", "Technical articles, fixes, international Search Console", `${P.seo} (${P.seoUsd}) a month`, "Ongoing"],
-        ["Maintenance", "Updates, backups, small changes after free months", `${P.care} (${P.careUsd})`, "After 5 free months"],
+        ["Maintenance", "Updates, backups, small changes after free months", `${P.care} (${P.careUsd})`, "After 2 free months"],
       ],
     },
   ],
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
       ["Content interviews", "Short recorded interviews with your tech leads for each case study and stack page. We draft; your engineers review for accuracy instead of writing from scratch."],
       ["Design and build", "Phone-first design, content model for services, stacks, case studies, jobs and countries, hreflang, structured data and forms, built on your hosting."],
       ["Quality checks", "Core Web Vitals, accessibility basics, security headers, form routing, job schema validation and redirect map for existing URLs are all checked before launch."],
-      ["Launch and handover", "Sitemaps submitted per market, repository and admin access handed over, recorded walkthrough shared. Five months of free maintenance and WhatsApp support follow."],
+      ["Launch and handover", "Sitemaps submitted per market, repository and admin access handed over, recorded walkthrough shared. Two months of free maintenance and WhatsApp support follow."],
     ],
   },
   faqHeading: "IT company website design: frequently asked questions",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Can you add a client portal to our website?", answer: `Yes. A portal where clients log in to see project status, documents, invoices and support tickets is a custom build starting at ${P.software}. It suits teams with several retained clients who currently manage this through scattered emails and spreadsheets. Access control ensures each client sees only their own data, and hosting location can match client expectations.` },
     { question: "Freelancers or a large agency for our IT company website?", answer: "A small freelance team works well for IT companies that know their positioning and want a fast, conversion-focused site built properly. A large agency suits teams needing brand identity, video and full marketing in one contract. BtechWaleTech is three freelance developers covering design, development, SEO and automation, and the site is built so your own engineers can take it over." },
     { question: "Who owns the website and code after launch?", answer: "Your business owns everything: domain, hosting, code, CMS, content, leads and job applications. Accounts are set up in your name from the start, and at launch you receive the repository, admin access and a recorded walkthrough. Many IT teams take maintenance in-house afterwards, and the codebase is kept conventional and documented so that is easy." },
-    { question: "What maintenance do you provide after launch?", answer: `Five months of free maintenance follow launch: fixes, small changes, updates and help with forms, jobs or tracking. After that, a care plan starting at ${P.care} is optional, covering updates, backups, security checks and small edits. There is no lock-in, and we are happy to hand over fully to your own team at any point.` },
+    { question: "What maintenance do you provide after launch?", answer: `Two months of free maintenance follow launch: fixes, small changes, updates and help with forms, jobs or tracking. After that, a care plan starting at ${P.care} is optional, covering updates, backups, security checks and small edits. There is no lock-in, and we are happy to hand over fully to your own team at any point.` },
     { question: "How do payments work for an IT company website project?", answer: "Clients in India pay by UPI or bank transfer, and international clients pay in USD via Wise, bank wire or PayPal. Payment milestones are set out in the quote you approve in writing, and nothing is billed before that approval. Terms on confidentiality and handover are agreed in the quote, and general conditions are on our terms and refund policy pages." },
     { question: "Can you redesign our IT company website without losing traffic?", answer: "Yes. We crawl the existing site, identify URLs with traffic or backlinks, map each to its new equivalent, set up permanent redirects, keep valuable content, and monitor Search Console after launch. Short-term fluctuation is normal, but a careful redirect map prevents the large losses that happen when old URLs are simply deleted." },
     { question: "IT company ki website mein sabse zaroori kya hona chahiye?", answer: `Sabse zaroori hai saaf service pages, jo technology pages aur case studies se jude hon. Engagement model ka page, leadership ki jaankari, security practices aur careers section bhi hona chahiye. Videshi clients ke liye overlap hours aur contract ki jaankari dijiye. Aisi IT company website ${P.site} se shuru hoti hai, aur quote lagbhag do working days mein milta hai.` },

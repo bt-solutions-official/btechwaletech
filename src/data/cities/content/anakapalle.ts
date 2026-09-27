@@ -56,7 +56,7 @@ const anakapalle: CityContent = {
     ai: "WhatsApp flows that answer rate, stock and timing questions in Telugu or English and pass serious enquiries to you.",
     data: "Daily sales, arrivals or order dashboards that a trader can read on a phone at the end of the market day.",
     app: "Android and iOS apps for dealer ordering, contractor attendance or school notices, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free updates and fixes after launch, then maintenance from ₹8,000 a month only if you want it.",
+    maintenance: "Two months of free updates and fixes after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:
     "Anakapalle businesses sit between two worlds: an old market town with family traders, and an industrial district where purchase teams expect a proper website and quick documentation. Agencies in Visakhapatnam often price for the city. We publish starting prices, work directly with owners on WhatsApp and hand over every account at launch.",
@@ -194,11 +194,11 @@ const anakapalle: CityContent = {
     },
     {
       id: "ownership-maintenance-anakapalle",
-      heading: "Your domain, code and app accounts, with five months of free maintenance",
+      heading: "Your domain, code and app accounts, with two months of free maintenance",
       paragraphs: [
         "A common story in smaller towns is the website that vanished because the developer registered the domain in his own name and stopped answering calls. We avoid that by setting up the domain, hosting, Google Play and App Store developer accounts in your name from day one.",
         "At launch you receive every login, the complete source code and a short note explaining how things are set up. You are free to move to another developer whenever you like, with no exit charge.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups and uptime checks. After that you can continue from ₹8,000 a month or simply message us when something needs changing.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups and uptime checks. After that you can continue from ₹8,000 a month or simply message us when something needs changing.",
       ],
     },
   ],
@@ -283,9 +283,9 @@ const anakapalle: CityContent = {
         "Yes. The domain, hosting and Google Play and App Store developer accounts are registered in your name. At launch you receive every login, the full source code and a handover note, and you can switch developers at any time without an exit fee.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
-        "During those five months we handle edits, fixes, security patches, backups and uptime checks at no charge. Afterwards, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when a change is needed.",
+        "During those two months we handle edits, fixes, security patches, backups and uptime checks at no charge. Afterwards, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when a change is needed.",
     },
     {
       question: "Can you guarantee a first-page ranking for my business?",

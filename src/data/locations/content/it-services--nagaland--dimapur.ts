@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Order and dispatch tools", "Dashboards from your data", "Websites from ₹10,000"],
   },
   quickAnswer:
-    "Instead of a software development team in Dimapur, hire BtechWaleTech, a freelance group of three engineers: custom software from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no Dimapur office, and include five months of free maintenance.",
+    "Instead of a software development team in Dimapur, hire BtechWaleTech, a freelance group of three engineers: custom software from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no Dimapur office, and include two months of free maintenance.",
   snapshot: [
     { label: "Role in the state", value: "Nagaland's commercial capital and main entry point for goods, fuel and passengers from Assam and the rest of India" },
     { label: "Connectivity", value: "Dimapur railway station (the state's principal railhead), Dimapur Airport, and the national highway climbing to Kohima and Imphal" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI assistants that answer rate, stock and delivery questions on WhatsApp, and agents that turn a customer's voice note or photo of a list into a draft order.",
     data: "Dashboards that pull from Tally exports, billing software or spreadsheets so owners see outstanding credit, fast movers and branch sales in one screen.",
     app: "Android and iOS apps for Dimapur wholesalers, transporters and retailers, from ₹40,000: salesman order-booking, driver delivery confirmation and retailer reorder apps on Google Play and the App Store.",
-    maintenance: "Backups, security patches, bug fixes and uptime checks, free for five months after launch and then from ₹8,000 a month if you want us to stay on.",
+    maintenance: "Backups, security patches, bug fixes and uptime checks, free for two months after launch and then from ₹8,000 a month if you want us to stay on.",
   },
   whyUsIntro:
     "Most software used in Dimapur was bought off the shelf in Guwahati or Kolkata and bent to fit. A remote engineering team can build around how your counter, godown and credit book actually work, at a price you see before you commit, and without a local office adding to the bill.",
@@ -189,7 +189,7 @@ const content: CityContent = {
       id: "it-support-maintenance-dimapur",
       heading: "IT support and maintenance once your system is live",
       paragraphs: [
-        "Maintenance keeps your software and website working safely after launch: security updates, backups, bug fixes, small changes and checks on speed and uptime. Every project we deliver includes five months of maintenance free once hosting is live, and after that you can continue from ₹8,000 a month or call us only when needed.",
+        "Maintenance keeps your software and website working safely after launch: security updates, backups, bug fixes, small changes and checks on speed and uptime. Every project we deliver includes two months of maintenance free once hosting is live, and after that you can continue from ₹8,000 a month or call us only when needed.",
         "Remote support works well for browser-based systems. When a Dimapur user reports a problem on WhatsApp, we can check server logs, reproduce the issue and push a fix without anyone visiting your premises. For questions about how to use a feature, a short screen-share usually solves it faster than a site visit would.",
         "We are honest about the limits. We do not repair printers, lay office network cables or fix hardware. Those are jobs for a local technician. What we support is the software, hosting, domains, email setup and the integrations we built, and we keep a written log of every change so there is always a record.",
         "We reply seven days a week on WhatsApp, which matters when an order system stops on a Sunday before a Monday dispatch. Response is from engineers, not a call centre, and the same people who built the system are the ones fixing it.",
@@ -295,7 +295,7 @@ const content: CityContent = {
         "Technical fixes and new pages are usually indexed within a few weeks, and map visibility can improve within one to three months if your Google Business Profile is complete and active. Competitive searches typically take four to six months or longer. We report progress from Search Console every month and never guarantee positions, because no honest provider can.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
         "You choose. You can continue with a monthly plan from ₹8,000 covering updates, backups, security patches, fixes and uptime checks, or you can contact us only when you need something and pay for that work. The system keeps running either way, because it sits on hosting registered to you.",
     },
@@ -307,7 +307,7 @@ const content: CityContent = {
     {
       question: "Do you set up hosting and handle deployment?",
       answer:
-        "Yes. We choose suitable cloud hosting, configure the domain, SSL, email records, backups and monitoring, and deploy the system. Updates are tested on a separate copy before they go live. You receive a written list of services and logins so nothing depends on our memory, and the five months of free maintenance begin once hosting is live.",
+        "Yes. We choose suitable cloud hosting, configure the domain, SSL, email records, backups and monitoring, and deploy the system. Updates are tested on a separate copy before they go live. You receive a written list of services and logins so nothing depends on our memory, and the two months of free maintenance begin once hosting is live.",
     },
     {
       question: "Can our online store accept UPI and cards?",

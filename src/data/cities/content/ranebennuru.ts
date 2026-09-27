@@ -32,10 +32,10 @@ const ranebennuru: CityContent = {
     h1: "Web, app, SEO and automation services for Ranebennuru's seed producers, cotton traders and shops",
     lede:
       "Three remote engineers building Kannada and English websites, Google listings, stores and WhatsApp tools for Ranebennuru and Haveri district. We work with hybrid seed companies and seed dealers, cotton and APMC traders, clinics and nursing homes, schools and PU colleges, and the shops and showrooms along Station Road, Medleri Road and the NH48 stretch.",
-    pills: ["Websites from ₹10,000", "Kannada and English pages", "Seed company websites", "APMC trader tools", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Kannada and English pages", "Seed company websites", "APMC trader tools", "2 months free maintenance"],
   },
   quickAnswer:
-    "For Ranebennuru businesses, our static websites start at ₹10,000 and are ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team without an office in Ranebennuru, and maintenance is free for five months after launch.",
+    "For Ranebennuru businesses, our static websites start at ₹10,000 and are ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000, and an online store at ₹50,000. We are a remote team without an office in Ranebennuru, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Position", value: "Largest town in Haveri district, on NH48 and the Bengaluru–Hubballi rail line, near the Tungabhadra" },
     { label: "Seeds", value: "Known as a hybrid seed production hub, with vegetable and field-crop seed companies and R&D units" },
@@ -52,7 +52,7 @@ const ranebennuru: CityContent = {
     ai: "WhatsApp replies in Kannada or English for rates, stock, OPD timings and admissions, with bulk buyers sent to a person.",
     data: "Dashboards for seed production by grower and village, dealer sales, APMC arrivals or admissions, from your existing records.",
     app: "Android and iOS apps for field inspectors, seed dealer reps and delivery staff on everyday phones, published on Google Play and the App Store.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:
     "Ranebennuru sits at the heart of Karnataka and trades with every part of it, but many of its businesses still depend on dealer networks and word of mouth. A clear website and an accurate Google listing let new buyers, farmers and patients find and trust them. We publish starting prices, reply on WhatsApp every day and keep ownership with the client.",
@@ -151,7 +151,7 @@ const ranebennuru: CityContent = {
       paragraphs: [
         "Every price we give is a starting price. A static website of up to 100 pages starts at ₹10,000 and usually takes one to two weeks. It suits most shops, clinics, schools and small traders who need a clear site with a map, contact form and WhatsApp button.",
         "An SEO website with 700 or more pages starts at ₹20,000 and takes three to five weeks. It suits businesses with many products or locations, such as a seed company with dozens of varieties or a dealer network spread across districts. Online stores with UPI and Razorpay start at ₹50,000, and custom web applications, such as a seed production register or an APMC ledger, start at ₹60,000.",
-        "WhatsApp and AI automation starts at ₹40,000, and monthly SEO starts at ₹10,000 a month. After five months of free maintenance, you can continue from ₹8,000 a month or pay per change. Our <a href=\"/pricing/\">pricing page</a> explains each plan in detail.",
+        "WhatsApp and AI automation starts at ₹40,000, and monthly SEO starts at ₹10,000 a month. After two months of free maintenance, you can continue from ₹8,000 a month or pay per change. Our <a href=\"/pricing/\">pricing page</a> explains each plan in detail.",
         "Scope determines the final figure: pages, languages, catalogue size, integrations with accounting or billing software, and custom features. You receive an itemised written quote within about two working days, and pay nothing until you approve it. If a smaller project would serve you better, we will say so.",
       ],
     },
@@ -171,7 +171,7 @@ const ranebennuru: CityContent = {
       paragraphs: [
         "Many small businesses have lost websites because the developer registered the domain in his own name and later disappeared. We prevent that by registering the domain and hosting in your name from the first day and handing over every login and the full source code at launch.",
         "You can move to another developer whenever you like, without an exit fee or our permission. We want clients to stay because they are happy with the work, not because they are locked in.",
-        "For five months after launch, maintenance is free. That covers text and price updates, small design changes, security updates, backups and uptime monitoring. Early months are when most businesses want adjustments, such as a new variety for the season, revised fees or a new doctor joining the clinic.",
+        "For two months after launch, maintenance is free. That covers text and price updates, small design changes, security updates, backups and uptime monitoring. Early months are when most businesses want adjustments, such as a new variety for the season, revised fees or a new doctor joining the clinic.",
         "After that, maintenance continues from ₹8,000 a month if you want regular care, or you can contact us only when a change is needed and pay for that job. Each update comes with a short written note. Read more on our <a href=\"/services/web-development/\">web development page</a>, or <a href=\"/contact/\">contact us</a> to begin.",
       ],
     },
@@ -264,7 +264,7 @@ const ranebennuru: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch, we handle text and price updates, fixes, security updates, backups and uptime checks without charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need a change and pay for that job.",
+        "For two months after launch, we handle text and price updates, fixes, security updates, backups and uptime checks without charge. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need a change and pay for that job.",
     },
     {
       question: "Do you work in Haveri, Byadgi, Harihar and Davanagere?",

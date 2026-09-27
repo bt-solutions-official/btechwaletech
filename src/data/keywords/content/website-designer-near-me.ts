@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Built for", "Shops, clinics, schools, coaching centres"],
     ["Files you receive", "Code, logo files, image sources, logins"],
-    ["Care after launch", "5 months free, then optional"],
+    ["Care after launch", "2 months free, then optional"],
   ],
   stats: [
     { value: "3", label: "Freelancers who design, build and look after your site" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free changes after launch" },
+    { value: "2", label: "Months of free changes after launch" },
     { value: "0", label: "Platform or middleman fees on your payment" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Design review", value: "Mockup link first, then pages, over video or WhatsApp" },
       { label: "Languages", value: "English plus Hindi or a regional language" },
       { label: "What you own", value: "Domain, hosting, code and design files" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Online store design", note: `Catalogue, cart and UPI or card checkout when the shop wants to sell beyond its street, from ${P.shop}.`, href: "/freelance-ecommerce-developer/", size: "md" },
       { name: "Redesign of an old site", note: "A fresh look for a dated site while keeping existing page addresses so search visitors are not lost.", href: "/website-redesign-freelancer/", size: "sm" },
       { name: "Google Business Profile tie-in", note: "Your profile, map and reviews link to the right page so Maps visitors land somewhere useful.", href: "/google-business-profile-expert/", size: "sm" },
-      { name: "Care after launch", note: `Timings, prices, notices and photos changed for you: five months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Care after launch", note: `Timings, prices, notices and photos changed for you: two months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Clinic or school specifics", "Depends on past work", "Generic sections", "Appointment, admission and notice layouts"],
       ["Domain and code", "Sometimes held by the designer", "Tied to the builder", "In your name from day one"],
       ["Speed on budget phones", "Rarely tested", "Heavy scripts common", "Tested on older Android phones"],
-      ["Changes after launch", "Call and wait", "You edit", `5 months free, then from ${P.care}`],
+      ["Changes after launch", "Call and wait", "You edit", `2 months free, then from ${P.care}`],
       ["Visits to your premises", "Yes", "Not applicable", "No visits; photos come from you"],
     ],
     fine: "If you need someone to photograph your shop in person or sit with your staff for a day, a designer in your own town will suit that part of the job better than any remote team.",
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       heading: "How much does a website designer near me charge?",
       paragraphs: [
         `Quotes from designers vary widely for what looks like the same site, so ask what each quote includes before comparing numbers. The spread usually comes from how custom the layout is, who writes the text, whether photos are edited, and whether building and hosting are included or only the design.`,
-        `With us, design and build go together. A static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. A site with hundreds of location or service pages built for search starts at ${P.seoSite}. A store where customers pay online starts at ${P.shop}. After the first five months of free maintenance, ongoing care starts at ${P.care}.`,
+        `With us, design and build go together. A static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. A site with hundreds of location or service pages built for search starts at ${P.seoSite}. A store where customers pay online starts at ${P.shop}. After the first two months of free maintenance, ongoing care starts at ${P.care}.`,
         `Watch for quotes that cover “design” but leave out development, hosting setup or launch. You may receive a nice image file and then need a second person to make it work. Ask any website designer near me, in writing: will I get a working, live website at the end of this price? For a full breakdown, see <a href='/website-developer-cost/'>website developer cost</a>.`,
       ],
     },
@@ -241,7 +241,7 @@ const content: FreelanceContent = {
         "What happens after launch, and what do changes cost?",
       ],
       after: [
-        `A designer who is comfortable with these questions is usually comfortable with the whole project. Our answers: yes to live links and mockups, build and launch are included, everything sits in your name, and the first five months of changes are free.`,
+        `A designer who is comfortable with these questions is usually comfortable with the whole project. Our answers: yes to live links and mockups, build and launch are included, everything sits in your name, and the first two months of changes are free.`,
       ],
     },
     {
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show how a design project runs, not a real client.`,
         `A primary school in a tier-3 town has a Facebook page and a printed prospectus. Admissions open in two months, and parents keep calling to ask for fees and bus routes. The principal wants a site parents can open on a phone, in English and Hindi.`,
-        `Day one, we agree the pages: home, about, academics, admissions, fees, transport, gallery, notices and contact. Day three, the home page mockup arrives: admission dates and a “Call the office” button at the top, a real photo of the assembly ground, three reasons parents choose the school. The principal asks for the bus route list to move higher; we change it the same day. Week two, the inner pages and Hindi versions are built, the notices section gets a simple dated-post layout the office can update through us, and Search Console is verified. The plan starts at ${P.site}, with separate lines for the Hindi pages and for writing text. During the five free months, new circulars and holiday lists are added on request.`,
+        `Day one, we agree the pages: home, about, academics, admissions, fees, transport, gallery, notices and contact. Day three, the home page mockup arrives: admission dates and a “Call the office” button at the top, a real photo of the assembly ground, three reasons parents choose the school. The principal asks for the bus route list to move higher; we change it the same day. Week two, the inner pages and Hindi versions are built, the notices section gets a simple dated-post layout the office can update through us, and Search Console is verified. The plan starts at ${P.site}, with separate lines for the Hindi pages and for writing text. During the two free months, new circulars and holiday lists are added on request.`,
       ],
     },
     {
@@ -276,7 +276,7 @@ const content: FreelanceContent = {
       heading: "Website designer near me kaise chunein? Dukaan, clinic ya school ke liye",
       paragraphs: [
         `Sabse pehle designer se unki banayi hui live websites ke link maangiye aur apne phone par kholkar dekhiye. Photo ya PDF se kaam nahi chalega. Phir poochiye ki kya woh build karne se pehle design ka mockup dikhayenge, aur domain kiske naam par hoga. Jawab hona chahiye: aapke naam par.`,
-        `Dukaan ke liye timings, WhatsApp button aur products ki range upar dikhni chahiye. Clinic ke liye doctor ki photo, timings aur appointment ka tareeka. School ke liye admission ki date, fees aur bus route. Hamare saath aisi website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur launch ke baad 5 mahine tak chhote badlav free hain. Video call par sab dikha dete hain, milne aane ki zaroorat nahi.`,
+        `Dukaan ke liye timings, WhatsApp button aur products ki range upar dikhni chahiye. Clinic ke liye doctor ki photo, timings aur appointment ka tareeka. School ke liye admission ki date, fees aur bus route. Hamare saath aisi website ${P.site} se shuru hoti hai, 1–2 hafte mein live hoti hai, aur launch ke baad 2 mahine tak chhote badlav free hain. Video call par sab dikha dete hain, milne aane ki zaroorat nahi.`,
       ],
     },
   ],
@@ -309,7 +309,7 @@ const content: FreelanceContent = {
         ["Search-focused site, 299+ pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "3–5 weeks", "Multi-branch clinics, chains"],
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Shops selling beyond their area"],
         ["Monthly local SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Owners who want steady search work"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Notices, offers, timings, fixes"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Notices, offers, timings, fixes"],
       ],
       hideSm: [2],
     },
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Review the home page mockup", "A private link opens on your phone. You react to order, photos and the main button, and we revise until the direction is right."],
       ["See the full draft site", "Inner pages follow the agreed style. You check names, timings, fees and phone numbers while we work on speed and search setup."],
       ["Launch on your own domain", "The site goes live on a domain and hosting in your name, with Search Console verified and every file and login handed to you."],
-      ["Keep it current for free", "For five months, new notices, offers and timing changes are done on request. After that, care continues from " + P.care + " only if you want it."],
+      ["Keep it current for free", "For two months, new notices, offers and timing changes are done on request. After that, care continues from " + P.care + " only if you want it."],
     ],
   },
   faqHeading: "Website designer near me: common questions",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Do I need to write the text for my website myself?", answer: "Not necessarily. You know your business best, so a short call or voice note from you is the raw material. A designer can then draft page text for your approval, which is usually priced as a separate line. If you write it yourself, the quote drops. Either way, check that timings, fees and phone numbers are correct before launch." },
     { question: "Can my website be in Hindi or a regional language?", answer: "Yes. Pages can be built in English plus Hindi, Marathi, Tamil, Telugu, Malayalam, Kannada, Bengali or another language, with a switch in the header and proper language tags so Google shows the right version. Each extra language adds translation or writing time and is shown as its own line in the quote." },
     { question: "How do I pay a website designer safely?", answer: "Pay in stages tied to work you can see, such as an advance, a payment after the mockup is approved and the balance before launch. Avoid paying everything upfront. With BtechWaleTech, clients in India pay by UPI or bank transfer, international clients by Wise, bank wire or PayPal, and nothing is billed until you approve the written quote." },
-    { question: "What if I want changes after the website goes live?", answer: `Ask about this before you start, because terms differ a lot. BtechWaleTech includes five months of free maintenance after launch for text changes, new notices, timing updates, small fixes and backups. After that, care is optional and starts at ${P.care}, or you can take over the site or hand it to another designer.` },
+    { question: "What if I want changes after the website goes live?", answer: `Ask about this before you start, because terms differ a lot. BtechWaleTech includes two months of free maintenance after launch for text changes, new notices, timing updates, small fixes and backups. After that, care is optional and starts at ${P.care}, or you can take over the site or hand it to another designer.` },
     { question: "Is a template builder enough instead of a website designer?", answer: "For a very simple one-page presence, a DIY template builder can be enough if you have time to learn it. The trade-offs are a monthly fee, generic layouts, heavier pages on budget phones and a site tied to that builder. When you want a design shaped around your customers and a site you own outright, a designer is the better route." },
     { question: "Can a website designer near me also build an online store?", answer: `Many can. BtechWaleTech designs and builds online stores from ${P.shop}, with a catalogue, cart and UPI or card checkout, order notifications and stock basics. For shops that mainly take orders on WhatsApp, a catalogue site with enquiry buttons from ${P.site} is often a better first step before moving to full online payments.` },
     { question: "Should I sign an agreement with my website designer?", answer: "Yes, at least a written scope covering pages, features, review rounds, timeline, payment stages and who owns the domain, code and files. A detailed email both sides confirm is enough for most local projects. If you share sensitive business or patient information, ask about a confidentiality agreement and agree its terms in your written quote." },

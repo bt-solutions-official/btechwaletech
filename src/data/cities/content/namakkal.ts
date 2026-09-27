@@ -56,7 +56,7 @@ const namakkal: CityContent = {
     ai: "WhatsApp assistants that reply in Tamil to rate, load, order and admission questions and pass real decisions to you.",
     data: "Dashboards of daily egg output, mortality, feed cost per tray, truck earnings per trip and admissions by class.",
     app: "Android and iOS apps for drivers logging trips, farm staff recording daily counts or parents of boarding students, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for changes, backups and security updates.",
   },
   whyUsIntro:
     "Namakkal owners count costs by the tray and by the kilometre, so they judge any vendor on numbers. We publish starting prices, send a written line-by-line quote, answer WhatsApp all seven days and register the domain, hosting, code and store accounts to you. If a feature will not pay for itself on your farm, fleet or shop floor, we say so.",
@@ -183,7 +183,7 @@ const namakkal: CityContent = {
       heading: "Ownership and maintenance for Namakkal websites and apps",
       paragraphs: [
         "Every website and app we deliver is owned by you. The domain sits under your email, the hosting bill is in your name, the source code is handed over in full, and your Google listing and Google Play and Apple developer accounts name you as owner. With the handover comes a written sheet of all logins, so nobody can hold your systems to ransom later, us included.",
-        "Maintenance is free for five months after launch: rate and photo updates, backups, security and version updates, and routine checks of forms, payments and WhatsApp buttons. Afterwards you can continue with us from ₹8,000 a month, look after it in-house or move the code to another developer.",
+        "Maintenance is free for two months after launch: rate and photo updates, backups, security and version updates, and routine checks of forms, payments and WhatsApp buttons. Afterwards you can continue with us from ₹8,000 a month, look after it in-house or move the code to another developer.",
         "Apps need updating every year even when they work fine, because Google and Apple keep raising their minimum standards. We follow those deadlines and release updates ahead of time so your app stays listed.",
       ],
     },
@@ -280,7 +280,7 @@ const namakkal: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You pay nothing for upkeep during the first five months after going live, which covers updates to rates and photos, backups, security patches and tests of forms, payments and WhatsApp links. Later plans start at ₹8,000 a month. Since the code and accounts are yours, moving to another developer needs no permission.",
+        "You pay nothing for upkeep during the first two months after going live, which covers updates to rates and photos, backups, security patches and tests of forms, payments and WhatsApp links. Later plans start at ₹8,000 a month. Since the code and accounts are yours, moving to another developer needs no permission.",
     },
     {
       question: "Do you work in Rasipuram, Tiruchengode and Mohanur too?",

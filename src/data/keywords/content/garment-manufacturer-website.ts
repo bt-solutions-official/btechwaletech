@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Buyer portal, order tracking", `From ${P.software}`],
     ["Quote", "Line by line, in about 2 working days"],
     ["You own", "Domain, hosting, code, analytics"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers you talk to directly" },
     { value: "100", label: "Pages in the starting static plan" },
-    { value: "5", label: "Months of free post-launch maintenance" },
+    { value: "2", label: "Months of free post-launch maintenance" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Buyer logins, style tracking", value: `From ${P.software}, 6–12 weeks` },
       { label: "What you send us", value: "Machine list, product photos, audit reports, MOQ rules" },
       { label: "How you pay", value: "UPI or bank transfer in India; Wise, wire, PayPal abroad" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Update it every time something a buyer relies on changes: a new audit date, a new category, a revised MOQ, a new machine line. A site that still shows last year’s audit as current does more harm than a site with no audit page.`,
         `Set a simple routine. Once a month, a merchandiser checks the compliance list and MOQ table. Once a season, add photos of new styles to category pages. Once a quarter, look at Search Console to see which queries bring buyers and which pages they land on; this tells you which categories deserve more depth.`,
-        `Our five months of free maintenance cover fixes and help with updates. After that, maintenance starts at ${P.care}, or your team manages the site alone since it is built from editable data files. If you want steady work on export visibility, monthly SEO starts at ${P.seo}. For automation of enquiry sorting, see <a href='/ai-lead-qualification/'>AI lead qualification</a>.`,
+        `Our two months of free maintenance cover fixes and help with updates. After that, maintenance starts at ${P.care}, or your team manages the site alone since it is built from editable data files. If you want steady work on export visibility, monthly SEO starts at ${P.seo}. For automation of enquiry sorting, see <a href='/ai-lead-qualification/'>AI lead qualification</a>.`,
       ],
     },
   ],
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Approve structure and form", "We share the page map and quote form fields. Your merchandising head confirms what costing actually needs before we build."],
       ["Build and test", "Capability, category, MOQ and compliance pages go up on a test link. You upload a real tech pack from a phone to check the flow."],
       ["Connect routing and search", "Enquiries route to merchandisers and a master sheet. Search Console, sitemap and analytics are set up under your business."],
-      ["Launch and look after it", "The site goes live, logins are handed over, and five months of free maintenance start while buyers begin to find you."],
+      ["Launch and look after it", "The site goes live, logins are handed over, and two months of free maintenance start while buyers begin to find you."],
     ],
   },
   faqHeading: "Garment manufacturer website: frequently asked questions",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Can enquiries go to WhatsApp as well as email?", answer: "Yes. Each quote request can be sent to a merchandiser’s WhatsApp with the reference number and product type, copied to email and logged in a Google Sheet or CRM. For high volumes we can sort enquiries by country or category first. Enquiry automation of this kind starts at the AI automation plan price." },
     { question: "How do I pay BtechWaleTech for the website?", answer: "Indian clients pay by UPI or bank transfer against the itemised quote you approved in writing. Clients abroad pay in US dollars through Wise, bank wire or PayPal. Payment stages are written into the quote, and nothing is billed before approval. Invoices come from India." },
     { question: "Will you sign an NDA before seeing our buyer details?", answer: "Confidentiality terms for our work together are agreed in your written quote; ask us and we will discuss what you need. Your NDAs with brands remain between you and them. You can also share only general information until you are comfortable. See our terms page for how engagements run." },
-    { question: "What happens after the free maintenance period?", answer: `After five months of free maintenance you can move to monthly maintenance starting at ${P.care}, manage the site yourself, or hand it to another developer, since everything is in your name. Monthly SEO for export visibility is optional and starts at ${P.seo}. Nothing renews automatically without your agreement.` },
+    { question: "What happens after the free maintenance period?", answer: `After two months of free maintenance you can move to monthly maintenance starting at ${P.care}, manage the site yourself, or hand it to another developer, since everything is in your name. Monthly SEO for export visibility is optional and starts at ${P.seo}. Nothing renews automatically without your agreement.` },
     { question: "Can AI search tools recommend my garment factory?", answer: "They can cite pages that are public, clear and factual. A capability page with specific numbers, an MOQ table and plain answers to common buyer questions is easier for AI answers to quote than a page of slogans. We keep text as text, not inside images or PDFs, and add structured data." },
     { question: "Garment factory ki website se export buyers kaise milte hain?", answer: "Website par apni categories, asli photos, MOQ table, machines ki jaankari aur audit details saaf dikhaiye, aur quote form mein tech pack upload ka option rakhiye. Isse buyer aapko khud check kar leta hai. Saath mein trade fairs aur sourcing platforms bhi chalaiye. Google ranking mein time lagta hai aur koi guarantee nahi de sakta." },
   ],
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want brands to vet your factory before the first call?",
-    note: `Send your categories, machine list and MOQ rules on WhatsApp. You will get an itemised quote in about two working days, factory sites from ${P.site}, category and market sites from ${P.seoSite}, every account in your name and five months of free maintenance.`,
+    note: `Send your categories, machine list and MOQ rules on WhatsApp. You will get an itemised quote in about two working days, factory sites from ${P.site}, category and market sites from ${P.seoSite}, every account in your name and two months of free maintenance.`,
   },
 };
 

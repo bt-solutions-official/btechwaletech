@@ -30,11 +30,11 @@ const saharanpur: CityContent = {
     eyebrow: "Saharanpur · Uttar Pradesh",
     h1: "Web, app, SEO and automation services for Saharanpur's carvers, traders and schools",
     lede:
-      "Three remote engineers building websites, export-ready catalogues, online stores and WhatsApp automation for Saharanpur's wood craft workshops, mango and grain traders, schools, madrasa-linked publishers, clinics and shops. Prices are published, you speak straight to the developers, and maintenance after launch is free for the first five months.",
+      "Three remote engineers building websites, export-ready catalogues, online stores and WhatsApp automation for Saharanpur's wood craft workshops, mango and grain traders, schools, madrasa-linked publishers, clinics and shops. Prices are published, you speak straight to the developers, and maintenance after launch is free for the first two months.",
     pills: ["Sites from ₹10,000", "Wood craft export catalogues", "UPI online stores", "Hindi and Urdu pages", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "For Saharanpur businesses, our static website starts at ₹10,000 and is ready in one to two weeks, a 299+ page SEO site starts at ₹20,000, and an online store for wood craft or other products starts at ₹50,000. We are a remote team of three engineers with no office in the city, and maintenance is free for five months.",
+    "For Saharanpur businesses, our static website starts at ₹10,000 and is ready in one to two weeks, a 299+ page SEO site starts at ₹20,000, and an online store for wood craft or other products starts at ₹50,000. We are a remote team of three engineers with no office in the city, and maintenance is free for two months.",
   snapshot: [
     { label: "Signature craft", value: "Saharanpur Wood Craft, GI-registered in 2014, known for carved sheesham furniture, screens, boxes and jaali work" },
     { label: "Wood market", value: "Lakkad Bazaar in the old city, lined with carving workshops and showrooms" },
@@ -51,10 +51,10 @@ const saharanpur: CityContent = {
     ai: "WhatsApp assistants that answer price, size, finish and shipping questions from buyers in Hindi or English and flag serious orders for you.",
     data: "Clear dashboards showing which products, buyers and markets bring the most revenue across seasons and fairs.",
     app: "Android and iOS apps for school fee notices, clinic bookings and woodcraft order status, one Flutter build published on both stores from ₹40,000.",
-    maintenance: "Product uploads, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month later.",
+    maintenance: "Product uploads, backups, security fixes and speed checks, free for two months after launch and from ₹8,000 a month later.",
   },
   whyUsIntro:
-    "In Saharanpur, websites are often made by a local computer centre or a relative, and many are never updated after the first year. We work differently: our prices are published, three engineers build and maintain the site themselves, and for the first five months after launch we handle updates at no charge.",
+    "In Saharanpur, websites are often made by a local computer centre or a relative, and many are never updated after the first year. We work differently: our prices are published, three engineers build and maintain the site themselves, and for the first two months after launch we handle updates at no charge.",
   pricingIntro:
     "Very few website providers in Saharanpur publish prices, so you end up comparing quotes that are hard to read. Our real starting prices are below. Your final quote depends on pages, product count, languages and features, and it arrives itemised, in writing, before any payment is due.",
   sections: [
@@ -172,11 +172,11 @@ const saharanpur: CityContent = {
     },
     {
       id: "ownership-maintenance-saharanpur",
-      heading: "Ownership, hosting and five free months of maintenance",
+      heading: "Ownership, hosting and two free months of maintenance",
       paragraphs: [
         "Many Saharanpur businesses have lost websites because the person who made them registered the domain in his own name and then disappeared, or because a renewal email went unread. A workshop can lose years of search visibility and every product page overnight.",
         "We avoid that from the start. The domain is registered in your name, the hosting account is yours, and at launch you receive every login, the source code and a short note explaining how everything fits together. You can move to another developer at any time without an exit fee. Our <a href=\"/services/web-development/\">web development</a> work is written so another competent developer can understand and continue it.",
-        "For five months after launch, maintenance is free. That includes adding and editing products, updating prices and text, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month, or message us only when something needs changing.",
+        "For two months after launch, maintenance is free. That includes adding and editing products, updating prices and text, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month, or message us only when something needs changing.",
       ],
     },
   ],
@@ -261,9 +261,9 @@ const saharanpur: CityContent = {
         "Yes. The domain is registered in your name, the hosting account is yours, and you receive all logins and the source code at launch. You can move to any other developer at any time without an exit fee. We insist on this because losing access to an old website is common in Saharanpur.",
     },
     {
-      question: "What is included in the five months of free maintenance?",
+      question: "What is included in the two months of free maintenance?",
       answer:
-        "Adding and editing products, updating prices and text, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all at no charge for five months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Adding and editing products, updating prices and text, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks, all at no charge for two months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you work with businesses in Deoband, Nakur, Roorkee, Yamunanagar and Dehradun?",

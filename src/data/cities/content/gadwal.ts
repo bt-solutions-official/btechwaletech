@@ -56,7 +56,7 @@ const gadwal: CityContent = {
     ai: "WhatsApp replies in Telugu for saree prices, seed stock, fees and doctor timings, with real decisions passed to you.",
     data: "Season dashboards showing acres contracted per village, seed lots delivered, bales ginned and saree sales by colour and price band.",
     app: "Android and iOS apps for seed organisers visiting fields or for repeat saree buyers in Gadwal, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then plans from ₹8,000 a month covering updates and backups.",
+    maintenance: "Two free months of upkeep after launch, then plans from ₹8,000 a month covering updates and backups.",
   },
   whyUsIntro:
     "Weavers, seed organisers and mill owners in Gadwal deal in advances, trust and word of mouth. We work the same way: public starting prices, a written quote broken into items, WhatsApp replies on every day of the week, and your domain, hosting, source code and store accounts opened under your name before a single screen is designed.",
@@ -178,7 +178,7 @@ const gadwal: CityContent = {
       heading: "IT services team in Gadwal terms: ownership, handover and upkeep",
       paragraphs: [
         "Before choosing any <strong>IT services team in Gadwal</strong> or outside it, find out who will control the accounts. We have seen saree shops and dealers lose their websites because a freelancer kept the domain in his own name and stopped answering. With us, the domain, hosting, code repository, Google Play and App Store developer accounts are all opened with your email and in your name before work begins.",
-        "The first five months after launch come with free maintenance: bug fixes, security patches and minor edits such as new photos or prices. From then on, a monthly plan starts at ₹8,000 and covers backups, updates, uptime checks and regular changes. Stopping is easy; your code is already yours.",
+        "The first two months after launch come with free maintenance: bug fixes, security patches and minor edits such as new photos or prices. From then on, a monthly plan starts at ₹8,000 and covers backups, updates, uptime checks and regular changes. Stopping is easy; your code is already yours.",
         "At the end of every project we hand over a written list of all logins, the email address each uses, and where each is stored.",
         "That document is small, but it is what lets you change developers or bring work in-house without starting over.",
       ],
@@ -272,7 +272,7 @@ const gadwal: CityContent = {
     {
       question: "What support do I get after launch?",
       answer:
-        "Five months of free maintenance cover bug fixes, security patches and minor edits. After that, plans from ₹8,000 a month include backups, updates and regular changes. The domain, hosting, code and store accounts are yours from the start, so you can move to another developer or stop at any time.",
+        "Two months of free maintenance cover bug fixes, security patches and minor edits. After that, plans from ₹8,000 a month include backups, updates and regular changes. The domain, hosting, code and store accounts are yours from the start, so you can move to another developer or stop at any time.",
     },
     {
       question: "Do you serve Alampur, Ieeja, Wanaparthy or Kurnool too?",
@@ -282,7 +282,7 @@ const gadwal: CityContent = {
     {
       question: "Can I update prices and photos on my Gadwal website myself?",
       answer:
-        "Yes. We add a simple admin screen where you or your staff can change prices, upload new saree or product photos, and post notices without touching code. We show you how on a short video call. Larger changes during the first five months are covered by our free maintenance.",
+        "Yes. We add a simple admin screen where you or your staff can change prices, upload new saree or product photos, and post notices without touching code. We show you how on a short video call. Larger changes during the first two months are covered by our free maintenance.",
     },
     {
       question: "Gadwal me website ya app banwane ke liye kya bhejna hoga?",

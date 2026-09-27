@@ -56,7 +56,7 @@ const parli: CityContent = {
     ai: "WhatsApp assistants that answer darshan-timing and room questions, share trader rates or take clinic bookings in Marathi, Hindi and English.",
     data: "Dashboards of daily arrivals and purchase rates at the yard, contract billing by site, or room occupancy by festival season.",
     app: "Android and iOS apps from ₹40,000 for contractor supervisors, school parents or cotton buyers, published on Google Play and the App Store.",
-    maintenance: "No charge for five months after launch, then maintenance from ₹8,000 a month covering rate updates, backups and security fixes.",
+    maintenance: "No charge for two months after launch, then maintenance from ₹8,000 a month covering rate updates, backups and security fixes.",
   },
   whyUsIntro:
     "Parli owners often tell us they paid for a website once and never found out who controlled it. We work the other way round: the domain, hosting and code are in your name, the quote lists each item with its own price, and work begins only after your written go-ahead. Messages on WhatsApp get a reply every day of the week.",
@@ -142,7 +142,7 @@ const parli: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Ecommerce store with UPI and Razorpay:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom software, such as contractor billing:</strong> ₹60,000 onwards, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the five free months end.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> once the two free months end.",
       ],
     },
     {
@@ -187,7 +187,7 @@ const parli: CityContent = {
       heading: "Ownership, handover and maintenance for Parli clients",
       paragraphs: [
         "From the first day, the domain is registered to you and hosting runs in your account. At launch you receive the complete source code and every password. Apps are published under your own Google Play and Apple developer accounts. If you later choose a developer in Beed, Latur or Pune, they can take over without asking us and without any release charge.",
-        "Maintenance is free for five months after launch and covers security updates, backups, uptime monitoring and small edits such as new tariffs, festival notices or updated doctor timings. After that it costs from ₹8,000 a month, and you can stop whenever you want. We can also train someone on your staff to make routine changes.",
+        "Maintenance is free for two months after launch and covers security updates, backups, uptime monitoring and small edits such as new tariffs, festival notices or updated doctor timings. After that it costs from ₹8,000 a month, and you can stop whenever you want. We can also train someone on your staff to make routine changes.",
         "Records kept in software we build, whether contractor hours, trader rates or school fees, remain in your account and can be exported to Excel for audits, bank files or tender submissions.",
       ],
     },
@@ -275,7 +275,7 @@ const parli: CityContent = {
     {
       question: "What does maintenance cost after the website goes live?",
       answer:
-        "Maintenance is free for five months after launch, covering updates, backups, monitoring and small edits like new tariffs or notices. After that it starts at ₹8,000 a month and can be cancelled whenever you like. We can train your staff to handle simple changes.",
+        "Maintenance is free for two months after launch, covering updates, backups, monitoring and small edits like new tariffs or notices. After that it starts at ₹8,000 a month and can be cancelled whenever you like. We can train your staff to handle simple changes.",
     },
     {
       question: "Will I own my website, app and data?",

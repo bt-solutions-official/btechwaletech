@@ -34,7 +34,7 @@ const agartala: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali and English pages", "Rubber and bamboo catalogues", "WhatsApp order replies", "You own every login"],
   },
   quickAnswer:
-    "An Agartala business can get a small website from ₹10,000, ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store with UPI at ₹50,000. We work remotely, hand over domain and code, and maintain the site free for five months.",
+    "An Agartala business can get a small website from ₹10,000, ready in one to two weeks. A 299+ page site built for Google search starts at ₹20,000, AI and WhatsApp automation at ₹40,000, and an online store with UPI at ₹50,000. We work remotely, hand over domain and code, and maintain the site free for two months.",
   snapshot: [
     { label: "Role", value: "State capital of Tripura and its largest city, on the Haora river close to the Bangladesh border" },
     { label: "Old markets", value: "Maharajganj Bazar (Gol Bazar), set up under the Tripura kings, and Battala, known for fish, garments and footwear" },
@@ -51,7 +51,7 @@ const agartala: CityContent = {
     ai: "WhatsApp assistants that reply in Bengali or English, share price lists, collect booking details and hand tricky chats to a person.",
     data: "Phone-friendly dashboards that combine Tally exports, order sheets and daily sales so an Agartala owner sees the week at a glance.",
     app: "Android and iOS apps for delivery tracking, clinic tokens and tour bookings, from ₹40,000 and published under your own Play Store and App Store accounts.",
-    maintenance: "Price updates, security patches, backups and uptime checks, free for five months after launch and ₹8,000 a month after that.",
+    maintenance: "Price updates, security patches, backups and uptime checks, free for two months after launch and ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Agartala owners often tell us the same story: a relative or a Kolkata agency built a site years ago, nobody kept the passwords and nothing can be changed now. We work differently. Every quote is written, every price is published, every login is handed over, and questions on WhatsApp get answered seven days a week.",
@@ -111,7 +111,7 @@ const agartala: CityContent = {
         "<strong>AI and WhatsApp automation, from ₹40,000 (2–4 weeks):</strong> auto-replies, lead capture and booking flows.",
         "<strong>Online store, from ₹50,000 (4–8 weeks):</strong> bamboo, handloom, tea or food products with UPI checkout.",
         "<strong>Custom web application, from ₹60,000 (6–12 weeks):</strong> ledgers, dealer portals and internal tools.",
-        "<strong>Monthly SEO from ₹10,000; upkeep from ₹8,000 a month</strong> once the free five months after launch end.",
+        "<strong>Monthly SEO from ₹10,000; upkeep from ₹8,000 a month</strong> once the free two months after launch end.",
       ],
     },
     {
@@ -181,10 +181,10 @@ const agartala: CityContent = {
     },
     {
       id: "ownership-upkeep",
-      heading: "Your domain, your code and five months of free maintenance",
+      heading: "Your domain, your code and two months of free maintenance",
       paragraphs: [
         "The domain name, hosting account and code belong to you from the first day. We register the domain in your name, or transfer it to you if we set it up, and hand over every login at launch. If you later decide to work with someone else in Agartala or elsewhere, you can do so without asking our permission.",
-        "After launch, maintenance is free for five months. That covers security updates, backups, uptime monitoring and small content changes such as prices, photos, staff names and festival offers. After five months, maintenance costs from ₹8,000 a month, and you can stop at any time.",
+        "After launch, maintenance is free for two months. That covers security updates, backups, uptime monitoring and small content changes such as prices, photos, staff names and festival offers. After two months, maintenance costs from ₹8,000 a month, and you can stop at any time.",
         "Websites need regular care, especially in a place where power and network interruptions are common and phones are the main screen. We check that forms still deliver, that WhatsApp buttons still open the right number and that pages stay fast as you add content. You receive a short monthly note explaining what was done.",
       ],
     },
@@ -267,7 +267,7 @@ const agartala: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "Maintenance is free for five months after launch, covering updates, backups, monitoring and small content edits. After that it costs from ₹8,000 a month and you can cancel at any time. If you prefer to manage the site yourself, we show you how before handing it over.",
+        "Maintenance is free for two months after launch, covering updates, backups, monitoring and small content edits. After that it costs from ₹8,000 a month and you can cancel at any time. If you prefer to manage the site yourself, we show you how before handing it over.",
     },
     {
       question: "Can you build a booking website for my hotel or homestay?",

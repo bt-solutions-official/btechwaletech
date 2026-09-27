@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Website banwana hai · seedha raasta, aasaan bhasha",
     h1: "Website banwana hai? Kaunsi chahiye, budget kitna rakhein aur aaj kya shuru karein",
     lede: `<strong>Website banwana hai</strong> toh sabse pehle yeh samajhiye ki aapko website se kya kaam lena hai: phone calls, WhatsApp par enquiry, ya online order. Uske baad baaki faisle aasaan ho jaate hain. BtechWaleTech teen freelance developers ki team hai jo India se remote kaam karti hai aur har tarah ke business ke liye website banati hai. Is page par aapko milega ki aapke kaam ke liye kaunsi website theek hai, budget kaise tay karein (${P.site} se shuru), pehla message kya bhejein aur 14 din mein kya-kya hota hai.`,
-    pills: [`Simple website ${P.site} se`, "1–2 hafte mein live", "Hindi ya English, dono", "UPI se stages mein payment", "Domain aapke naam", "5 mahine free dekhbhaal", "WhatsApp par seedhi baat"],
+    pills: [`Simple website ${P.site} se`, "1–2 hafte mein live", "Hindi ya English, dono", "UPI se stages mein payment", "Domain aapke naam", "2 mahine free dekhbhaal", "WhatsApp par seedhi baat"],
     origin: "Teen freelance developers · India se remote · Chhoti dukaan se factory tak",
   },
   facts: [
@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Quote kab", "Lagbhag 2 working days mein"],
     ["Payment", "UPI ya bank transfer, kaam dekh kar"],
     ["Malik", "Aap: domain, hosting, code sab"],
-    ["Launch ke baad", "5 mahine free maintenance"],
+    ["Launch ke baad", "2 mahine free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developer, ek hi team mein" },
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Online dukaan", value: `${P.shop} se, 4–8 hafte` },
       { label: "Paise kaise dein", value: "UPI ya bank transfer, kaam dikhne ke saath stages mein" },
       { label: "Kiske naam par", value: "Domain, hosting aur code aapke naam" },
-      { label: "Baad ki dekhbhaal", value: `5 mahine free, phir ${P.care} se` },
+      { label: "Baad ki dekhbhaal", value: `2 mahine free, phir ${P.care} se` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Google ke liye setup", "Khud seekhna padega", "Aksar chhoot jaata hai", "Title, schema, sitemap, Search Console"],
       ["Wo busy ho jaaye toh", "Aap hi hain", "Kaam ruk jaata hai", "Teen log project jaante hain"],
       ["Baad mein app ya bot", "Alag se dhoondhna", "Shayad nahi", "Wahi team bana deti hai"],
-      ["Launch ke baad", "Khud sambhaliye", "Har kaam ka alag paisa", "5 mahine free, phir optional"],
+      ["Launch ke baad", "Khud sambhaliye", "Har kaam ka alag paisa", "2 mahine free, phir optional"],
     ],
     fine: "Agar aapko sirf ek page chahiye aur weekend khud laga sakte hain, toh builder bhi chalega. Agar koi roz aapki dukaan par aakar kaam kare, woh hum nahi karte; hum remote kaam karte hain.",
   },
@@ -157,7 +157,7 @@ const content: FreelanceContent = {
       heading: "Website banwana hai, budget kitna rakhna theek hai?",
       paragraphs: [
         `Seedhi baat: jitna kaam, utna kharcha. Chaar-paanch pages ki dukaan wali website aur hazaar pages wali SEO website dono “website” hain, par mehnat mein hafton ka fark hai.`,
-        `Hamare yahan shuruaati daam aise hain. 100 pages tak ki static website ${P.site} se. 299+ pages wali SEO website ${P.seoSite} se. Online dukaan ${P.shop} se. Login, booking ya dashboard wali custom website ${P.software} se. Android aur iPhone app ${P.app} se. Launch ke baad paanch mahine maintenance free, uske baad ${P.care} se, woh bhi sirf agar aap chahein.`,
+        `Hamare yahan shuruaati daam aise hain. 100 pages tak ki static website ${P.site} se. 299+ pages wali SEO website ${P.seoSite} se. Online dukaan ${P.shop} se. Login, booking ya dashboard wali custom website ${P.software} se. Android aur iPhone app ${P.app} se. Launch ke baad do mahine maintenance free, uske baad ${P.care} se, woh bhi sirf agar aap chahein.`,
         `Bazaar mein ek hi kaam ke quote bahut alag-alag milte hain. Fark aksar is baat ka hota hai ki design khud banaya ya kharida hua theme hai, text kaun likhega, aur launch ke baad kitna support milega. Budget kam ho toh pages kam rakhiye, features baad ke liye chhodiye, par domain apne naam aur likhit quote par samjhauta mat kijiye. Aur detail <a href='/website-making-cost-in-india/'>website making cost in India</a> par hai.`,
       ],
     },
@@ -241,10 +241,10 @@ const content: FreelanceContent = {
     },
     {
       id: "launch-ke-baad",
-      heading: "Launch ke baad kya hota hai? Pehle 5 mahine aur uske aage",
+      heading: "Launch ke baad kya hota hai? Pehle 2 mahine aur uske aage",
       paragraphs: [
-        `Website live hone ke baad bhi chhote kaam aate rehte hain: naya rate, nayi photo, tyohaar ka offer, timing ka badlaav. Launch ke baad paanch mahine yeh sab free hai, saath mein backup aur zaroori updates bhi.`,
-        `Badlaav chahiye toh WhatsApp par likh dijiye ya screenshot par nishaan laga kar bhej dijiye. Paanch mahine ke baad maintenance ${P.care} se chalta hai, par zaroori nahi. Aap chahein toh admin login se chhote badlaav khud kijiye, ya kisi aur developer ko de dijiye, kyunki code aur saare account aapke hi naam hain.`,
+        `Website live hone ke baad bhi chhote kaam aate rehte hain: naya rate, nayi photo, tyohaar ka offer, timing ka badlaav. Launch ke baad do mahine yeh sab free hai, saath mein backup aur zaroori updates bhi.`,
+        `Badlaav chahiye toh WhatsApp par likh dijiye ya screenshot par nishaan laga kar bhej dijiye. Do mahine ke baad maintenance ${P.care} se chalta hai, par zaroori nahi. Aap chahein toh admin login se chhote badlaav khud kijiye, ya kisi aur developer ko de dijiye, kyunki code aur saare account aapke hi naam hain.`,
         `Har teen-chaar mahine mein ek baar dekhiye: form ki enquiry aa rahi hai ya nahi, website phone par jaldi khul rahi hai ya nahi, aur Search Console mein koi error toh nahi. Yeh dus minute ka kaam badi pareshani se bachata hai.`,
       ],
     },
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       heading: "In English: what “website banwana hai” means and how we help",
       paragraphs: [
         `“Website banwana hai” is how millions of Indian business owners say “I need a website made”. This page answers that request in the same everyday Hinglish. In short: decide what the website must make visitors do, send us your business details on WhatsApp, and you receive an itemised quote in about two working days.`,
-        `A static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and goes live in 1–2 weeks. An online store starts at ${P.shop}. The domain, hosting and code are registered in your name, payments are staged by UPI or bank transfer, and the first five months of maintenance after launch are free. Nobody can guarantee Google rankings, and we will not pretend to.`,
+        `A static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and goes live in 1–2 weeks. An online store starts at ${P.shop}. The domain, hosting and code are registered in your name, payments are staged by UPI or bank transfer, and the first two months of maintenance after launch are free. Nobody can guarantee Google rankings, and we will not pretend to.`,
       ],
     },
   ],
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Account aapke naam banaiye", "Chhoti call par domain aur hosting aapke email aur card se bante hain. Hum sirf user ke taur par jude rehte hain."],
       ["Phone par dekhiye aur batayiye", "Design aur pages ek private link par aate hain. WhatsApp par jo badlaav chahiye bataiye, hum wahin sudhaar dete hain."],
       ["Launch aur saare login", "Domain judta hai, SSL lagta hai, Search Console set hota hai, aur saare password, code aur renewal ki list aapko milti hai."],
-      ["Paanch mahine free dekhbhaal", "Rate, photo, timing jaise chhote badlaav aur backup paanch mahine free. Uske baad chahein toh " + P.care + " se, warna aap khud sambhaliye."],
+      ["Do mahine free dekhbhaal", "Rate, photo, timing jaise chhote badlaav aur backup do mahine free. Uske baad chahein toh " + P.care + " se, warna aap khud sambhaliye."],
     ],
   },
   faqHeading: "Website banwana hai: log yeh bhi poochhte hain",
@@ -376,13 +376,13 @@ const content: FreelanceContent = {
     { question: "Payment kaise karna hota hai?", answer: "Payment stages mein hota hai: shuru karne par advance, design aur pages dikhne ke baad doosra hissa, aur launch se pehle baaki. Kitna-kitna, yeh likhit quote mein tay hota hai. India mein UPI ya bank transfer, videsh se Wise, bank wire ya PayPal. Poora paisa pehle kisi ko mat dijiye." },
     { question: "Freelancer se website banwana theek hai ya company se?", answer: "Saaf kaam, seemit budget aur seedhi baat chahiye toh freelancer ya chhoti freelance team theek rehti hai. Bahut bade project mein jahan dus-bees log ek saath lagen, badi team behtar hai. Zyada tar dukaan, clinic, coaching aur office ki website freelance tareeke se achhi ban jaati hai." },
     { question: "Kya website banne ke baad Google par pehle number par aa jaayegi?", answer: "Iski guarantee koi imaandaar insaan nahi de sakta. Hum website mein Google ke liye zaroori setup karte hain: title, description, sitemap, schema, speed aur Search Console. Local dukaan ke liye Google Business Profile bhi zaroori hai. Ranking competition aur mahino ki mehnat par nirbhar hai; jo pakka vaada kare, usse bachiye." },
-    { question: "Website banne ke baad badlaav kaun karega?", answer: `Launch ke baad paanch mahine tak chhote badlaav, fixes aur backup free hain; bas WhatsApp par likh dijiye. Uske baad maintenance ${P.care} se hai, par zaroori nahi. Code aur saare account aapke naam hain, isliye aap khud badlaav kar sakte hain ya kisi aur ko de sakte hain.` },
+    { question: "Website banne ke baad badlaav kaun karega?", answer: `Launch ke baad do mahine tak chhote badlaav, fixes aur backup free hain; bas WhatsApp par likh dijiye. Uske baad maintenance ${P.care} se hai, par zaroori nahi. Code aur saare account aapke naam hain, isliye aap khud badlaav kar sakte hain ya kisi aur ko de sakte hain.` },
     { question: "Online dukaan banwani hai, UPI se payment le sakte hain?", answer: `Haan. Online dukaan ${P.shop} se shuru hoti hai aur 4–8 hafte mein banti hai. Isme product list, cart, UPI aur card se checkout, order ki email aur stock ka basic hisaab hota hai. Payment provider aap chunte hain aur account aapke naam par hota hai.` },
     { question: "Sirf ek page ki website chahiye, kya banegi?", answer: `Haan, chhoti website bhi simple plan mein aati hai, jo ${P.site} se shuru hota hai. Ek ya kuch pages mein aapka kaam, photos, map aur WhatsApp button aa jaate hain. Agar budget bahut kam hai aur aap khud time de sakte hain, toh website builder bhi ek raasta hai, bas domain apne naam rakhiye.` },
     { question: "Website ke saath app bhi banwana chahiye kya?", answer: `Zyada tar chhote business ke liye pehle website kaafi hai. App tab kaam ka hai jab customer baar-baar order ya booking karte hon, jaise kirana, tiffin ya gym. Tab Android aur iPhone app ${P.app} se ban sakta hai, jo aapke apne Play Console aur App Store account par publish hota hai.` },
     { question: "Purani website sudharwani hai ya nayi banwani hai?", answer: "Agar purani website phone par tootti hai, bahut der se khulti hai ya uska login kisi aur ke paas hai, toh nayi banana aksar sasta padta hai. Hum purane pages ke Google links ko nayi website par sahi jagah bhejte hain, taaki jo log pehle aate the woh ab bhi pahunchein." },
     { question: "NDA ya agreement sign karte hain?", answer: "Scope, daam, time aur payment stages likhit quote mein hote hain, jise aap approve karte hain. NDA chahiye toh baat kijiye, uski sharten pehle likhit mein tay hoti hain. Refund aur cancel ke niyam website ke terms aur refund policy page par hain; kaam se pehle koi bhi sawal poochh lijiye." },
-    { question: "I want to get a website made in India. What does it cost?", answer: `With BtechWaleTech, a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and goes live in 1–2 weeks; an online store starts at ${P.shop}. You get an itemised quote in about two working days, the domain and hosting are in your name, and five months of maintenance after launch are free.` },
+    { question: "I want to get a website made in India. What does it cost?", answer: `With BtechWaleTech, a static business website of up to 100 pages starts at ${P.site} (${P.siteUsd}) and goes live in 1–2 weeks; an online store starts at ${P.shop}. You get an itemised quote in about two working days, the domain and hosting are in your name, and two months of maintenance after launch are free.` },
     { question: "Website banwane wala near me chahiye, kya remote theek hai?", answer: "Paas wala developer milne mein aasaan lagta hai, par website ki quality hunar aur tareeke se banti hai, doori se nahi. Remote team review link, video call aur WhatsApp se roz update deti hai. Chuniye saboot aur likhit sharton ke hisaab se; phir sochiye ki milna sach mein zaroori hai ya nahi." },
   ],
   related: {
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Website banwana hai? Aaj hi WhatsApp par likhiye",
-    note: `Apna business aur website ka maqsad bhejiye. Lagbhag do working days mein line by line quote milega. Simple website ${P.site} se, domain aur hosting aapke naam, aur launch ke baad paanch mahine free dekhbhaal.`,
+    note: `Apna business aur website ka maqsad bhejiye. Lagbhag do working days mein line by line quote milega. Simple website ${P.site} se, domain aur hosting aapke naam, aur launch ke baad do mahine free dekhbhaal.`,
   },
 };
 

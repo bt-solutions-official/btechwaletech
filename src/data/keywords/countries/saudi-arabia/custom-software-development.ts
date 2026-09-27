@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Admin languages", "Arabic (RTL) and English"],
     ["Invoicing", "Structured data ready for a ZATCA connector"],
     ["Code", "In a repository your business owns"],
-    ["After launch", "5 months free maintenance, then from " + P.care],
+    ["After launch", "2 months free maintenance, then from " + P.care],
   ],
   stats: [
     { value: "3", label: "Developers who design, build and support your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Licence fees per user for software you own" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Custom software development in Saudi Arabia: what it costs with us",
-    note: `Custom web apps start from ${P.software}, quoted in US dollars, which the riyal's dollar peg makes easy to budget. The quote rises with the number of user roles, screens and approval steps, how many outside systems need connecting (store, POS, accounting, WhatsApp, shipping), whether a mobile app shares the backend, and how much existing data needs cleaning and importing. Bilingual Arabic and English screens are part of the build rather than an add-on. Cloud hosting is billed to your own account by the provider, not marked up by us. After five free months of maintenance, ongoing care starts from ${P.care}.`,
+    note: `Custom web apps start from ${P.software}, quoted in US dollars, which the riyal's dollar peg makes easy to budget. The quote rises with the number of user roles, screens and approval steps, how many outside systems need connecting (store, POS, accounting, WhatsApp, shipping), whether a mobile app shares the backend, and how much existing data needs cleaning and importing. Bilingual Arabic and English screens are part of the build rather than an add-on. Cloud hosting is billed to your own account by the provider, not marked up by us. After two free months of maintenance, ongoing care starts from ${P.care}.`,
   },
   guideLabel: "Saudi custom software guide",
   guide: [
@@ -147,7 +147,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, custom software development for a Saudi business starts from ${P.software} for a first release, quoted and invoiced in US dollars. Quotes from other developers vary widely, and the gap is rarely about hourly rates alone; it comes from how clearly the scope is defined, how many systems are involved and who carries the risk of changes.`,
         `Six factors move the number. User roles and permissions: a system with an admin and one user type is far simpler than one with branch managers, accountants, drivers and external dealers. Workflow depth: every approval step, status and notification adds screens and tests. Integrations: each outside system, whether a Salla or Zid store, a POS, an accounting package or a shipping carrier, needs its own connection and error handling. Data migration: cleaning years of spreadsheets costs more than people expect. Reporting: a handful of fixed reports is cheaper than a flexible dashboard. Mobile: a companion Android and iOS app sharing the backend starts from ${P.app}.`,
-        `Running costs are separate and yours to see directly: cloud hosting billed by the provider to your account, any paid APIs such as WhatsApp messaging, and optional maintenance after the free five months, from ${P.care}. The price table on this page and our <a href='/pricing/'>full pricing</a> show starting points for every service.`,
+        `Running costs are separate and yours to see directly: cloud hosting billed by the provider to your account, any paid APIs such as WhatsApp messaging, and optional maintenance after the free two months, from ${P.care}. The price table on this page and our <a href='/pricing/'>full pricing</a> show starting points for every service.`,
       ],
     },
     {
@@ -253,7 +253,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The code lives in a Git repository created under your organisation's account from day one, the cloud account and domain are in your name, and we work inside them as invited users you can remove at any time. This is the single most important clause to check with any provider, because code held by the developer turns a one-off build into a permanent dependency.`,
         `Handover is a checklist, not a zip file. You receive the repository with its history, infrastructure notes that explain how the system is deployed, environment settings stored safely, an admin guide for your team, a short technical guide for any future developer, and a recorded walkthrough of the codebase. Third-party licences, such as a paid component or API, are listed with their owners and renewal dates.`,
-        `After go-live you get five months of free maintenance for fixes and small adjustments. After that, care starts from ${P.care}, or you can move the system to an in-house developer or another team. Because the code uses mainstream tools and is documented, that move should take days of reading, not months of rebuilding.`,
+        `After go-live you get two months of free maintenance for fixes and small adjustments. After that, care starts from ${P.care}, or you can move the system to an in-house developer or another team. Because the code uses mainstream tools and is documented, that move should take days of reading, not months of rebuilding.`,
       ],
     },
     {
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
       ["Scope and itemised quote", "Within about two working days of the sessions you receive a scope document and a USD quote split into milestones. Nothing is billed before your written approval."],
       ["Designs in both languages", "Clickable Arabic and English screens for the main workflow, reviewed with the people who will use them, before any serious coding starts."],
       ["Weekly builds on staging", "Each week ends with a demo on a staging link in your cloud account. You test real scenarios, and feedback goes into the next week's tasks."],
-      ["Go-live and handover", "Data import, user training over video, a closely watched first week, then the repository, documents and walkthrough handed over, followed by five free months of maintenance."],
+      ["Go-live and handover", "Data import, user training over video, a closely watched first week, then the repository, documents and walkthrough handed over, followed by two free months of maintenance."],
     ],
   },
   faqHeading: "Custom software development in Saudi Arabia: questions buyers ask",
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "Can you integrate with Salla, Zid or Foodics?", answer: "Yes, through their official APIs and webhooks where access is available, or through scheduled imports otherwise. Typical flows move orders, customers and stock from a store, or daily sales from a POS, into your custom system, with a sync log and a screen that shows failed records so problems are caught the same day." },
     { question: "Can you connect the system to our accounting software?", answer: "Usually. If your accounting tool offers an API, invoices and receipts can sync automatically; if it only accepts file imports, we generate those files on a schedule. We agree which system is the source of truth for customers, items and balances before building, which prevents duplicate records later." },
     { question: "Do you build CRM or ERP systems from scratch?", answer: "We build CRM and ERP-style modules shaped to a specific business, such as leads and quotes, stock and purchasing, or job cards and approvals. We do not try to rebuild a full enterprise ERP with payroll and general ledger; for those functions, established accounting software is safer, and we connect to it instead." },
-    { question: "What happens after the software goes live?", answer: `You get five months of free maintenance covering fixes and small adjustments, starting with a closely watched first week. After that, ongoing care starts from ${P.care} and covers updates, backups, monitoring and small changes. You can also move maintenance to your own developer at any point, because you hold the code and documentation.` },
+    { question: "What happens after the software goes live?", answer: `You get two months of free maintenance covering fixes and small adjustments, starting with a closely watched first week. After that, ongoing care starts from ${P.care} and covers updates, backups, monitoring and small changes. You can also move maintenance to your own developer at any point, because you hold the code and documentation.` },
     { question: "Can we add features after the first release?", answer: "Yes, and that is the plan. The first release covers the core workflow so your team starts using it quickly. Features from the exclusions list and ideas from real use are then estimated one by one in writing, so you decide what is worth building next based on what staff actually need." },
     { question: "Can you add a mobile app to the system?", answer: `Yes. A companion Android and iOS app built in Flutter or React Native can share the same backend, for drivers, technicians or customers. Apps start from ${P.app}, and the Google Play and Apple developer accounts are opened in your business's name so the listing stays yours.` },
     { question: "Is it safe to give an offshore team access to our data?", answer: "Access is limited and revocable. We work in accounts you own, use anonymised or sample data during development where possible, and get production access only for tasks that need it. Admin logins use two-factor authentication, and audit logs record changes. You can remove our access at any time without losing anything." },

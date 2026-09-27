@@ -56,7 +56,7 @@ const kapadvanj: CityContent = {
     ai: "WhatsApp assistants in Gujarati and English that reply about rates, stock and timings and hand real decisions back to you.",
     data: "Dashboards of orders, dispatches, dues and repeat customers by village, dealer or month.",
     app: "Android and iOS apps for repeat customers of a grocery, dairy products or school notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Kapadvanj has been a trading town for centuries, and its business owners know how to read a deal. So we keep ours plain: starting prices published, an itemised quote in writing, no billing before your approval, WhatsApp replies every day, and domain, hosting, code and app accounts registered to you rather than to us.",
@@ -178,7 +178,7 @@ const kapadvanj: CityContent = {
       heading: "Ownership, handover and maintenance for Kapadvanj websites and apps",
       paragraphs: [
         "Many small businesses discover too late that their domain was registered by the designer and cannot be moved. We avoid this entirely. Your domain, hosting, source code, Google Business Profile and app store developer accounts are created in your name, and you keep the logins.",
-        "After launch you receive five months of free maintenance: content and price edits, backups, security updates and regular checks that forms, UPI checkout and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month and is entirely optional. You may move to another developer at any time without needing our permission.",
+        "After launch you receive two months of free maintenance: content and price edits, backups, security updates and regular checks that forms, UPI checkout and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month and is entirely optional. You may move to another developer at any time without needing our permission.",
         "We also hand over a short note in plain language explaining where the site is hosted, when renewals fall due and how to change common content yourself. For apps, build files and store listings are kept tidy so another developer could take over if you ever wish.",
       ],
     },
@@ -270,7 +270,7 @@ const kapadvanj: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Five months of free maintenance covering edits, backups, security updates and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month and is optional. Because you own the code and every account, you can change developers whenever you like without asking us.",
+        "Two months of free maintenance covering edits, backups, security updates and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month and is optional. Because you own the code and every account, you can change developers whenever you like without asking us.",
     },
     {
       question: "Do you work in Nadiad, Balasinor, Dakor and Modasa too?",

@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Assam · North East India",
     h1: "Freelance IT services in Assam: software, apps, AI automation and SEO from Guwahati to the Barak Valley",
     lede:
-      "BtechWaleTech provides freelance IT services in Assam through three independent engineers working remotely from India. We build custom software, web and mobile apps, AI and WhatsApp automation, dashboards, online stores, websites and SEO for tea estates, oil-belt suppliers, silk weavers, hotels, hospitals, colleges and traders across the state. Prices are published, and maintenance is free for five months after launch.",
+      "BtechWaleTech provides freelance IT services in Assam through three independent engineers working remotely from India. We build custom software, web and mobile apps, AI and WhatsApp automation, dashboards, online stores, websites and SEO for tea estates, oil-belt suppliers, silk weavers, hotels, hospitals, colleges and traders across the state. Prices are published, and maintenance is free for two months after launch.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp automations that answer routine questions, sort enquiries and send confirmations across the state, day and night.",
     data: "Dashboards that bring together figures from branches in several districts, so owners in Guwahati see what is happening in Tezpur or Silchar.",
     app: "Android and iOS apps for Assam estates, distributors, hospitals, colleges and resorts, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Remote maintenance with five free months after launch, then plans from ₹8,000 a month for fixes, updates, backups and monitoring.",
+    maintenance: "Remote maintenance with two free months after launch, then plans from ₹8,000 a month for fixes, updates, backups and monitoring.",
   },
   whyUsIntro:
     "Assam has capable IT providers in Guwahati, but businesses in smaller towns often struggle to get attention, clear prices or support after launch. We are a freelance group of three engineers who publish starting prices, reply seven days a week on WhatsApp and hand over every login, wherever in Assam you are.",
@@ -165,7 +165,7 @@ const content: CityContent = {
         "Android and iOS app development in Assam starts at ₹40,000 with BtechWaleTech and takes six to ten weeks. We build each app once in Flutter or React Native, publish it on Google Play and the Apple App Store in your own accounts, and include login, forms, push notifications and an admin panel connected through an API.",
         "The apps Assam businesses need follow the state's economy. Tea estates want supervisor apps for plucking and attendance entry in the section. Distributors in Guwahati and Silchar want B2B catalogue and reorder apps for retailers across the North East. Hospitals want patient apps for appointments and reports. Colleges and coaching centres want student apps for notices, fees and tests. Resorts near Kaziranga want booking apps for repeat guests and travel partners. Transporters want driver apps for trip status and delivery proof.",
         "Network coverage in Assam is good in towns but weak along highways, in tea sections, char areas and near the hills, so we design offline-first: entries are saved immediately, photographs are compressed, and sync happens quietly once a signal returns. Screens can carry Assamese, Bengali, Hindi or English labels, and we test on the low-cost Android phones most staff actually use as well as on iPhones.",
-        "Not every business needs an app. If customers visit once, a fast website found on Google does more for less. An Android and iOS app earns its cost when the same people open it every week. You own the store listings, source code and admin panel, and maintenance is free for five months after launch.",
+        "Not every business needs an app. If customers visit once, a fast website found on Google does more for less. An Android and iOS app earns its cost when the same people open it every week. You own the store listings, source code and admin panel, and maintenance is free for two months after launch.",
       ],
       list: [
         "Estate supervisor app for plucking and attendance",
@@ -179,7 +179,7 @@ const content: CityContent = {
       id: "cloud-hosting-assam",
       heading: "Cloud hosting, deployment and maintenance for Assam projects",
       paragraphs: [
-        "Every Assam project BtechWaleTech delivers includes cloud hosting in the client's name, SSL, backups, uptime monitoring and scripted deployment, followed by five months of free maintenance. Websites run on fast static hosts; applications run on AWS or similar managed platforms with automatic database backups.",
+        "Every Assam project BtechWaleTech delivers includes cloud hosting in the client's name, SSL, backups, uptime monitoring and scripted deployment, followed by two months of free maintenance. Websites run on fast static hosts; applications run on AWS or similar managed platforms with automatic database backups.",
         "We document every account, password and configuration in a handover file. If your team or another developer needs to take over, nothing depends on us. Deployments are automated, so fixes go live in minutes and can be rolled back if something unexpected happens.",
         "After the free period, maintenance continues from ₹8,000 a month or on a pay-per-change basis. Our support is remote and covers the software and hosting we manage; hardware, printers and office networks need a local technician in your town.",
       ],
@@ -262,7 +262,7 @@ const content: CityContent = {
     {
       question: "How much do IT services cost in Assam?",
       answer:
-        "From ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the five free months. Final costs depend on scope and are itemised in writing.",
+        "From ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after the two free months. Final costs depend on scope and are itemised in writing.",
     },
     {
       question: "How long does a typical project take?",
@@ -277,7 +277,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "Five months of bug fixes, small content updates, security patches, backups and uptime and speed checks, starting when your project goes live. New features are quoted separately. Afterwards you can continue from ₹8,000 a month or simply pay per change when needed.",
+        "Two months of bug fixes, small content updates, security patches, backups and uptime and speed checks, starting when your project goes live. New features are quoted separately. Afterwards you can continue from ₹8,000 a month or simply pay per change when needed.",
     },
     {
       question: "Who owns the domain, hosting and code?",

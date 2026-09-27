@@ -56,7 +56,7 @@ const jhargram: CityContent = {
     ai: "WhatsApp assistants that reply in Bengali to room, tour, fee and timing questions and hand anything unusual back to you.",
     data: "Monthly dashboards of bookings by season, craft orders by city, patient footfall or admission enquiries by source.",
     app: "Android and iOS apps for homestay guests, coaching students or clinic patients, from ₹40,000, published on Google Play and the App Store in your name.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Jhargram clients are often trying a website or app for the first time and want to know exactly what they are paying for. We publish starting prices, send itemised quotes in writing, answer WhatsApp seven days a week and register the domain, hosting, code and store accounts in your own name. If something will not earn its cost, we tell you.",
@@ -169,7 +169,7 @@ const jhargram: CityContent = {
       paragraphs: [
         "Because we are not in Jhargram, we write everything down. The first call covers your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. After you approve it, we share preview links that you can open on your own phone and show to partners or family before anything goes live. Bengali text is always sent to you for checking first.",
         "We reply on WhatsApp every day of the week on Indian Standard Time, and if a delay comes up we tell you when we find out, not on the delivery date. Payments are staged against work you can see, and nothing is billed before your written approval.",
-        "Ownership is simple: the domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and logins are handed over in writing. Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms and payment links. After that it starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time. Apps also get the yearly updates Google and Apple require, so they are not pulled from the stores.",
+        "Ownership is simple: the domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and logins are handed over in writing. Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms and payment links. After that it starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time. Apps also get the yearly updates Google and Apple require, so they are not pulled from the stores.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const jhargram: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for the first five months, covering content updates, backups, security patches and checks on forms and payment links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like.",
+        "Maintenance is free for the first two months, covering content updates, backups, security patches and checks on forms and payment links. After that it starts at ₹8,000 a month if you want us to continue. You can take your code and move to another developer whenever you like.",
     },
     {
       question: "Do you work in Belpahari, Gopiballavpur and Nayagram too?",

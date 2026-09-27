@@ -32,10 +32,10 @@ const bahadurgarh: CityContent = {
     h1: "Web, app, SEO and automation services for Bahadurgarh's shoe makers, industrial estates and Delhi-border traders",
     lede:
       "We are three remote engineers who build catalogues, stores, dealer tools and WhatsApp workflows for Bahadurgarh footwear units in the Sector 17 Footwear Park, factories in MIE and HSIIDC sectors, warehouses near the expressways, and the schools, clinics and shops of a town a metro ride from Delhi. Prices start low and are published.",
-    pills: ["Static sites from ₹10,000", "Article-wise shoe catalogues", "Hindi and English content", "Dealer orders on WhatsApp", "Free upkeep for 5 months"],
+    pills: ["Static sites from ₹10,000", "Article-wise shoe catalogues", "Hindi and English content", "Dealer orders on WhatsApp", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "For a Bahadurgarh business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Bahadurgarh office, and the first five months of maintenance are free.",
+    "For a Bahadurgarh business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites with 299+ pages start at ₹20,000, AI and WhatsApp automation at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000. We work remotely with no Bahadurgarh office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Jhajjar district, Haryana, about 21 km from the Delhi border on the road to Rohtak" },
     { label: "Metro link", value: "Delhi Metro Green Line since 2018, with Bahadurgarh City and Brigadier Hoshiyar Singh stations" },
@@ -52,7 +52,7 @@ const bahadurgarh: CityContent = {
     ai: "WhatsApp assistants that answer MOQ, article number and dispatch questions for distributors, then pass real orders to your sales desk.",
     data: "Dashboards pulling from Tally or billing exports that show which articles, sizes and dealers bring margin, and which only bring returns.",
     app: "Android and iOS apps that let field salesmen book dealer orders at retailer counters, released on Google Play and the App Store from ₹40,000.",
-    maintenance: "Season catalogue changes, security patches and backups free for five months after launch, then from ₹8,000 a month if you want us on call.",
+    maintenance: "Season catalogue changes, security patches and backups free for two months after launch, then from ₹8,000 a month if you want us on call.",
   },
   whyUsIntro:
     "Bahadurgarh owners often get two kinds of offers: a cheap template from someone nearby, or a big quote from a Delhi agency with a sales team. We sit in between. Starting prices are public, the engineers who build your site answer your WhatsApp messages every day of the week, and you own the domain, hosting and code from day one.",
@@ -167,10 +167,10 @@ const bahadurgarh: CityContent = {
     },
     {
       id: "ownership-maintenance-bahadurgarh",
-      heading: "You own everything, and maintenance is free for five months",
+      heading: "You own everything, and maintenance is free for two months",
       paragraphs: [
         "We have met Bahadurgarh firms who could not update their own website because an old vendor held the domain, or whose site vanished when a hosting bill went unpaid to someone else's account. We set things up so that cannot happen: the domain and hosting are registered in your company's name, and you receive every login and the full source code at launch.",
-        "For the first five months after launch, maintenance costs nothing. That covers adding new articles, changing rates, fixing bugs, security updates, backups and uptime checks. After that, you can continue maintenance from ₹8,000 a month or call us only when you need something. You are free to move to another developer at any point without paying an exit fee.",
+        "For the first two months after launch, maintenance costs nothing. That covers adding new articles, changing rates, fixing bugs, security updates, backups and uptime checks. After that, you can continue maintenance from ₹8,000 a month or call us only when you need something. You are free to move to another developer at any point without paying an exit fee.",
         "Details of what each build includes are on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
@@ -260,9 +260,9 @@ const bahadurgarh: CityContent = {
         "Yes. The domain and hosting are registered in your company's name and you receive all logins and the full source code at launch. You can move to another developer whenever you like without any exit fee. We set this up from the first day because lost domains are a common problem for local firms.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months we handle updates, fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month if you want us on call, or you can come to us only when you need a change and pay for that work.",
+        "During the first two months we handle updates, fixes, security patches, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month if you want us on call, or you can come to us only when you need a change and pay for that work.",
     },
     {
       question: "How soon will SEO show results?",

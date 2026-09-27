@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Trade software from ₹60,000", "Android & iOS apps from ₹40,000", "Catalogue sites from ₹10,000", "Automation from ₹40,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "Freelance software developers in Champhai: BtechWaleTech, three engineers working remotely from India, builds catalogue websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom trade or stock software from ₹60,000 (6 to 12 weeks). We have no Champhai office and include five months of free maintenance.",
+    "Freelance software developers in Champhai: BtechWaleTech, three engineers working remotely from India, builds catalogue websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom trade or stock software from ₹60,000 (6 to 12 weeks). We have no Champhai office and include two months of free maintenance.",
   snapshot: [
     { label: "Location", value: "District headquarters in eastern Mizoram, close to the international border with Myanmar" },
     { label: "Border trade", value: "Zokhawthar, on the Tiau river, is Mizoram's main land trading point with Myanmar" },
@@ -58,7 +58,7 @@ const content: CityContent = {
     ai: "AI assistants that answer price, stock and booking questions on WhatsApp and summarise daily enquiries for owners.",
     data: "Dashboards showing consignments, stock by warehouse, dues and seasonal sales for owners who travel to Aizawl often.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for retailer reorders, tour bookings and field buying in the valley.",
-    maintenance: "Remote backups, updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote backups, updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Champhai is a long drive from most IT vendors, so projects often stall between visits. A freelance group works differently: direct WhatsApp contact with the engineers, weekly demos on your phone, published starting prices, and every login and file handed over to you.",
@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "hosting-maintenance-champhai",
       heading: "Hosting, maintenance and remote support for Champhai systems",
       paragraphs: [
-        "Champhai systems run on cloud hosting with SSL, daily backups and uptime checks, so they stay available through local power cuts and hardware problems. We set up domain, DNS, hosting and deployments, and every project includes five months of free maintenance after going live.",
+        "Champhai systems run on cloud hosting with SSL, daily backups and uptime checks, so they stay available through local power cuts and hardware problems. We set up domain, DNS, hosting and deployments, and every project includes two months of free maintenance after going live.",
         "Maintenance covers bug fixes, security updates, small content changes and backup checks. Afterwards it continues from ₹8,000 a month, or you can contact us only when needed. Support is remote and covers what we built; computers and networks need a local technician.",
         "Accounts are registered in your name where possible, and all credentials are handed over. We explain monthly hosting costs before launch so there are no surprises at renewal time.",
       ],
@@ -210,9 +210,9 @@ const content: CityContent = {
       id: "running-costs-champhai",
       heading: "What does it cost to keep a Champhai website, store or app running?",
       paragraphs: [
-        "Keeping a Champhai website, store or app running costs a yearly domain fee, a hosting bill that grows with traffic and data, message charges if you automate WhatsApp or SMS, and maintenance once our five free months end. Online stores add payment fees on each sale, charged by the provider you choose, and apps add store developer accounts.",
+        "Keeping a Champhai website, store or app running costs a yearly domain fee, a hosting bill that grows with traffic and data, message charges if you automate WhatsApp or SMS, and maintenance once our two free months end. Online stores add payment fees on each sale, charged by the provider you choose, and apps add store developer accounts.",
         "For a grape or rice producer selling through a small store, the recurring bill is usually dominated by payment fees and courier costs rather than technology. For a border trader running consignment software, hosting with daily backups is the main line. We put all of these in writing before the build begins, with the name of each provider and who pays them, so the second year brings no surprises.",
-        "Our own role after launch is optional. The first five months of maintenance are free; afterwards, plans start from ₹8,000 a month, or you can message us only when something needs changing and pay for that piece of work. All renewals are billed to your accounts, in your name, which keeps control of the domain and data with the Champhai business rather than with us.",
+        "Our own role after launch is optional. The first two months of maintenance are free; afterwards, plans start from ₹8,000 a month, or you can message us only when something needs changing and pay for that piece of work. All renewals are billed to your accounts, in your name, which keeps control of the domain and data with the Champhai business rather than with us.",
       ],
       list: [
         "Which accounts will be in my name, and which in the developer's?",
@@ -311,7 +311,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch: bug fixes, security updates, small content changes, backups and uptime checks. After that, plans start at ₹8,000 a month, or you pay only when you request changes. Hardware support is not included because we work remotely.",
+        "For two months after launch: bug fixes, security updates, small content changes, backups and uptime checks. After that, plans start at ₹8,000 a month, or you pay only when you request changes. Hardware support is not included because we work remotely.",
     },
     {
       question: "How soon will SEO bring enquiries?",

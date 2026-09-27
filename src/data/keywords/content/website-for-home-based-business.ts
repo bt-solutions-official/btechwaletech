@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Orders arrive on", "Your WhatsApp, with the item list filled in"],
     ["Home address", "Shown as locality only, or not at all"],
     ["Want online payment?", `UPI and card checkout store from ${P.shop}`],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and look after your site" },
     { value: "2", label: "Working days to get an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on your orders" },
   ],
   answer: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Home based business website pricing: start small, grow later",
-    note: `For most home businesses the static website plan is plenty: it covers up to 100 pages and a typical home kitchen or tailoring site needs six to fifteen. That starts at ${P.site}. The cost rises when you add a proper cart with online payment (the store plan, from ${P.shop}), a large product catalogue that needs stock tracking, or automated WhatsApp replies. What does not raise the price much: changing colours, adding a few more menu items, or a Hindi version of key pages. Your domain and hosting are paid in your own name. After five free months of maintenance, upkeep starts at ${P.care}, and you can skip it if you are comfortable handling small edits yourself.`,
+    note: `For most home businesses the static website plan is plenty: it covers up to 100 pages and a typical home kitchen or tailoring site needs six to fifteen. That starts at ${P.site}. The cost rises when you add a proper cart with online payment (the store plan, from ${P.shop}), a large product catalogue that needs stock tracking, or automated WhatsApp replies. What does not raise the price much: changing colours, adding a few more menu items, or a Hindi version of key pages. Your domain and hosting are paid in your own name. After two free months of maintenance, upkeep starts at ${P.care}, and you can skip it if you are comfortable handling small edits yourself.`,
   },
   guideLabel: "Home based business website guide",
   guide: [
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A website for home based business sellers takes one to two weeks to build, and most of that time depends on how quickly you send photos and the menu. The coding itself is the smaller part for a site this size.`,
         `Day one is a WhatsApp or phone conversation in Hindi or English: what you sell, where you deliver, how you take payment, and what you want customers to do. Vedansh turns that into a page list and an itemised quote within about two working days. After you approve it in writing, Ankur designs the phone layout first and shares a preview link. You check it on your own phone and send changes. Santosh handles the domain connection, hosting, Search Console, Business Profile linking and structured data.`,
-        `Before launch we test every order button on Android and iPhone, confirm the WhatsApp message comes through complete, and check the pages on slow mobile data. Then we go live, share the handover notes and stay on for five months of free maintenance.`,
+        `Before launch we test every order button on Android and iPhone, confirm the WhatsApp message comes through complete, and check the pages on slow mobile data. Then we go live, share the handover notes and stay on for two months of free maintenance.`,
       ],
     },
     {
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
         ["Many areas or a bilingual audience", "Orders from several localities", "Same site with area pages and a Hindi version of key pages", `From ${P.site}`, "2–3 weeks"],
         ["Shipping across India", "Packaged products, courier orders", "Online store with UPI and card checkout", `From ${P.shop}`, "4–8 weeks"],
         ["Too many chats to handle", "Messages at all hours", "Automated WhatsApp replies with menu and timings", `From ${P.ai}`, "2–4 weeks"],
-        ["Ongoing care", "Site live for five months", "Updates, backups, small edits", `From ${P.care} a month`, "Monthly"],
+        ["Ongoing care", "Site live for two months", "Updates, backups, small edits", `From ${P.care} a month`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Send photos and menu", "Share your own phone photos, prices and delivery rules. We help you choose the best photos and fill gaps in the text."],
       ["Check the preview on your phone", "We share a private link to the phone layout. You test the order button, read every price and ask for changes before launch."],
       ["Go live in your name", "We connect your domain, set up hosting in your account, link Google Business Profile with your address hidden if you prefer, and submit the sitemap."],
-      ["Five months of free care", "We fix issues and make small edits for five months after launch. After that, maintenance is optional and starts at a low monthly rate."],
+      ["Two months of free care", "We fix issues and make small edits for two months after launch. After that, maintenance is optional and starts at a low monthly rate."],
     ],
   },
   faqHeading: "Questions home business owners ask about getting a website",
@@ -384,11 +384,11 @@ const content: FreelanceContent = {
     { question: "Can you make my home business website in Hindi?", answer: "Yes. We work in Hindi and English. Many home businesses launch with English pages plus a Hindi version of the menu, delivery and contact pages. For other Indian languages we can build the pages if you supply or approve the translated text, since we write fluently only in English and Hindi." },
     { question: "Who owns the domain and website after it is built?", answer: "You own everything. The domain is registered in your name, hosting is in your account, and you receive the full site files and logins at handover. We work inside accounts you control. If you ever want another developer to take over, you can do so without asking our permission." },
     { question: "How will people find my home business on Google?", answer: "Through a Google Business Profile set up as a service-area business and a website that clearly mentions what you sell and which areas you serve. We connect both, submit your sitemap to Google Search Console and add structured data. Nobody can guarantee rankings; real reviews, accurate details and regular updates help most over time." },
-    { question: "Can I update prices and the menu myself?", answer: "Yes. We can set up a simple editable menu or product list you update from your phone, or keep it static and make the changes for you during the five months of free maintenance. Tiffin kitchens that change the menu weekly usually prefer the self-edit option; bakers with a stable range often do not need it." },
+    { question: "Can I update prices and the menu myself?", answer: "Yes. We can set up a simple editable menu or product list you update from your phone, or keep it static and make the changes for you during the two months of free maintenance. Tiffin kitchens that change the menu weekly usually prefer the self-edit option; bakers with a stable range often do not need it." },
     { question: "What photos do I need for a home business website?", answer: "Clear, well-lit phone photos of your real products are enough. Shoot near a window in daylight, on a plain background, from two or three angles. Twenty to thirty good photos cover most home businesses. Avoid showing house numbers, vehicle plates or family members. We compress and crop them so pages still load quickly." },
     { question: "Can I take bulk and corporate orders through the site?", answer: "Yes. We add a separate bulk order form asking for quantity, date, budget per box and delivery address, which opens WhatsApp or sends an email. A page showing past festive hampers or office lunch trays helps companies trust a home business with larger orders. Showing your GST details also helps if you are registered." },
     { question: "Will the website work on cheap Android phones?", answer: "It should, and we test it that way. Home business sites are built as light static pages with compressed images and large buttons, so they open quickly on mid-range Android phones and slow mobile data. We avoid heavy page builders and animations that make budget phones lag." },
-    { question: "What happens after the five months of free maintenance?", answer: `You can continue with maintenance from ${P.care} a month, which covers updates, backups and small edits, or you can stop and handle changes yourself or with another developer. Nothing locks you in. Any specific terms are agreed in your written quote and on our terms page.` },
+    { question: "What happens after the two months of free maintenance?", answer: `You can continue with maintenance from ${P.care} a month, which covers updates, backups and small edits, or you can stop and handle changes yourself or with another developer. Nothing locks you in. Any specific terms are agreed in your written quote and on our terms page.` },
     { question: "Do you visit my home to take photos or set things up?", answer: "No. We work fully remotely over WhatsApp and calls, so we do not make home visits or do photo shoots. We guide you on taking good phone photos and choose the best ones with you. This keeps costs low and lets home businesses anywhere in India work with us." },
     { question: "Can a tailor or boutique run from home use the same kind of site?", answer: "Yes. A tailoring site replaces the menu with a price list per garment and alteration, adds a measurement guide and a gallery of finished work, and lists pickup areas for fabric. Orders or trial bookings still go to WhatsApp. Many home boutiques also add a small catalogue of ready pieces later." },
     { question: "How do I pay for the website?", answer: "In India you pay by UPI or bank transfer. The payment schedule is set out in your written quote, and nothing is billed before you approve it. Clients abroad, such as family members paying for a relative’s home business, can pay in USD by Wise, bank wire or PayPal." },
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready for a website for your home based business?",
-    note: `Send us a WhatsApp message with what you make and where you deliver. You will get an itemised quote in about two working days, with starter sites from ${P.site}, the domain in your name and five months of free maintenance after launch.`,
+    note: `Send us a WhatsApp message with what you make and where you deliver. You will get an itemised quote in about two working days, with starter sites from ${P.site}, the domain in your name and two months of free maintenance after launch.`,
   },
 };
 

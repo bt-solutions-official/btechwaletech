@@ -56,7 +56,7 @@ const dhuri: CityContent = {
     ai: "WhatsApp assistants that answer rates, stock and admission questions in Punjabi or Hindi and hand serious enquiries to you.",
     data: "Season dashboards of arrivals, dues by farmer, workshop orders by model and enquiries by village.",
     app: "Android and iOS apps for an arhtiya's farmers to see their accounts or a coaching centre's students to get schedules, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then plans from ₹8,000 a month for edits, backups and security work.",
+    maintenance: "Two free months of upkeep after launch, then plans from ₹8,000 a month for edits, backups and security work.",
   },
   whyUsIntro:
     "Dhuri runs on trust built over many harvests, and nobody here likes a vendor who talks big and delivers late. We show our starting prices openly, send a written quote line by line, reply on WhatsApp every day and put the domain, hosting, code and app store accounts in your name. When something is not worth your money, you will hear that from us first.",
@@ -174,7 +174,7 @@ const dhuri: CityContent = {
       heading: "Ownership and upkeep of Dhuri websites and apps",
       paragraphs: [
         "Your website and app belong to you, fully. We register the domain with your email address, the hosting account is in your name, you get the complete source code, and your Google listing and Play and Apple developer accounts show you as the owner. At the end of the project you receive a written list of every login, so neither we nor anyone else can hold your site back.",
-        "Upkeep is free for five months after launch. We change rates and photos before the season, run backups, apply security and version updates and test the enquiry form, payments and WhatsApp buttons from time to time. After that you decide whether to continue with us from ₹8,000 a month, run it yourself or pass the code to another developer.",
+        "Upkeep is free for two months after launch. We change rates and photos before the season, run backups, apply security and version updates and test the enquiry form, payments and WhatsApp buttons from time to time. After that you decide whether to continue with us from ₹8,000 a month, run it yourself or pass the code to another developer.",
         "Apps need an update every year even if nothing looks wrong, because Google and Apple keep raising their minimum requirements. We track those deadlines and push updates in good time so the store listing stays up.",
       ],
     },
@@ -266,7 +266,7 @@ const dhuri: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep are included free after launch: rate and photo updates, backups, security patches and tests of forms, payments and WhatsApp links. After that, plans begin at ₹8,000 a month if you want us to continue. Because every account and the code are already yours, you can switch developers whenever you like.",
+        "Two months of upkeep are included free after launch: rate and photo updates, backups, security patches and tests of forms, payments and WhatsApp links. After that, plans begin at ₹8,000 a month if you want us to continue. Because every account and the code are already yours, you can switch developers whenever you like.",
     },
     {
       question: "Do you work in Sangrur, Malerkotla and Sherpur as well?",

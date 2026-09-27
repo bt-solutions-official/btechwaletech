@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers across web, mobile and cloud" },
     { value: "2", label: "Working days to an itemised pipeline quote" },
-    { value: "5", label: "Months of free fixes after we hand over" },
+    { value: "2", label: "Months of free fixes after we hand over" },
     { value: "7", label: "Days a week we reply on WhatsApp (IST)" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What CI/CD pipeline setup costs",
-    note: `A full CI/CD pipeline setup across development, staging and production starts at ${P.software} (${P.softwareUsd}); smaller jobs, such as adding tests and deploys to a single existing repository, are quoted after we read the code. The price depends on how many repositories and services you have, whether tests exist already or must be written, preview environments, database migration handling, mobile builds for Android and iOS, and self-hosted versus hosted runners. Runner minutes, Apple Developer Program membership and hosting are billed to you by those providers. Keeping the pipeline healthy is part of maintenance from ${P.care} after 5 free months. Every figure is a starting price.`,
+    note: `A full CI/CD pipeline setup across development, staging and production starts at ${P.software} (${P.softwareUsd}); smaller jobs, such as adding tests and deploys to a single existing repository, are quoted after we read the code. The price depends on how many repositories and services you have, whether tests exist already or must be written, preview environments, database migration handling, mobile builds for Android and iOS, and self-hosted versus hosted runners. Runner minutes, Apple Developer Program membership and hosting are billed to you by those providers. Keeping the pipeline healthy is part of maintenance from ${P.care} after 2 free months. Every figure is a starting price.`,
   },
   guideLabel: "CI/CD pipeline setup guide",
   guide: [
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does CI/CD pipeline setup cost?",
       paragraphs: [
-        `With our freelance team, a full CI/CD pipeline setup across environments starts at ${P.software} (${P.softwareUsd}), and a narrow job on one repository is quoted after we read the code. Pipeline upkeep sits inside maintenance from ${P.care} once the 5 free months end.`,
+        `With our freelance team, a full CI/CD pipeline setup across environments starts at ${P.software} (${P.softwareUsd}), and a narrow job on one repository is quoted after we read the code. Pipeline upkeep sits inside maintenance from ${P.care} once the 2 free months end.`,
         `Other providers’ quotes vary widely for CI/CD work, mostly because the phrase covers everything from a ten-line deploy script to a multi-service platform with previews and mobile releases. When comparing quotes, check what is actually included, because the expensive parts are rarely the YAML file itself.`,
       ],
       list: [
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Build and staging first", "Fast build checks and automatic staging deploys go live early, because they help the team from the first week."],
       ["Tests and previews", "Targeted tests on the flows that matter, flaky tests fixed, and preview URLs posted on pull requests."],
       ["Production path", "Approvals, zero-downtime release, post-deploy checks, rollback job and, for apps, Fastlane lanes to testing tracks."],
-      ["Parallel run and handover", "Old and new methods run side by side for a few releases, then a README, recorded walkthrough and 5 months of free fixes."],
+      ["Parallel run and handover", "Old and new methods run side by side for a few releases, then a README, recorded walkthrough and 2 months of free fixes."],
     ],
   },
   faqHeading: "CI/CD pipeline setup: frequently asked questions",

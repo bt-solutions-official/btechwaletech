@@ -28,8 +28,8 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "App development company Australia · the remote alternative",
     h1: "Comparing an app development company in Australia? Consider a remote three-person team",
-    lede: `If you are comparing an app development company in Australia, you are probably weighing studio quotes from Sydney or Melbourne against what a smaller remote team could do for less. BtechWaleTech is three freelance developers in India who build iOS and Android apps from one Flutter codebase, publish them under your own Australian entity's App Store and Google Play accounts, and assign the code to you in writing. Apps start from ${P.app}, typically take 6–10 weeks, and come with five months of free maintenance after launch.`,
-    pills: ["iOS and Android, one codebase", "Store accounts under your ABN entity", "Written IP assignment", "Source code in your repository", "Weekly builds on your phone", "5 months free maintenance", "Calls in your afternoon"],
+    lede: `If you are comparing an app development company in Australia, you are probably weighing studio quotes from Sydney or Melbourne against what a smaller remote team could do for less. BtechWaleTech is three freelance developers in India who build iOS and Android apps from one Flutter codebase, publish them under your own Australian entity's App Store and Google Play accounts, and assign the code to you in writing. Apps start from ${P.app}, typically take 6–10 weeks, and come with two months of free maintenance after launch.`,
+    pills: ["iOS and Android, one codebase", "Store accounts under your ABN entity", "Written IP assignment", "Source code in your repository", "Weekly builds on your phone", "2 months free maintenance", "Calls in your afternoon"],
     origin: "Three freelance developers in India · English and Hindi · WhatsApp 7 days a week",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Framework", "Flutter (React Native on request)"],
     ["Store accounts", "Held by your business"],
     ["Code ownership", "Assigned to you in writing"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "1", label: "Codebase for iPhone and Android" },
     { value: "3", label: "Developers building your app" },
-    { value: "5", label: "Months of free post-launch maintenance" },
+    { value: "2", label: "Months of free post-launch maintenance" },
     { value: "2", label: "Working days to an itemised quote" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Internal field-staff apps", note: `Job lists, photos, checklists and sign-offs synced to your office system; web back-office from ${P.software}.`, href: "/australia/custom-software-development/", size: "md" },
       { name: "AI features inside apps", note: `Smart search, summaries or chat trained on your own content, from ${P.ai} as a separate line.`, href: "/australia/ai-chatbot-development/", size: "sm" },
       { name: "Take over an existing app", note: "Code review, dependency updates and a store re-release for apps a previous developer left behind.", size: "sm" },
-      { name: "App care plan", note: `OS updates, store policy changes and fixes after the free five months, from ${P.care}.`, size: "sm" },
+      { name: "App care plan", note: `OS updates, store policy changes and fixes after the free two months, from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Store accounts", "Usually your entity; confirm in writing", "Sometimes the freelancer's own", "Always your entity's accounts"],
       ["Code ownership", "Set by their contract", "Set by marketplace terms and your contract", "Written IP assignment to you"],
       ["Continuity if someone leaves", "Larger bench", "Single point of failure", "Three people know the code"],
-      ["After launch", "Support retainers", "Depends on availability", `5 months free, then from ${P.care}`],
+      ["After launch", "Support retainers", "Depends on availability", `2 months free, then from ${P.care}`],
     ],
     fine: "A local studio earns its higher cost when you need facilitated product strategy in a room, a large parallel team, or someone who can visit your site; we cannot offer any of those.",
   },
@@ -137,7 +137,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "Store fees you pay directly", text: "The Apple Developer Program costs US$99 a year and Google Play has a one-time US$25 registration fee, both paid by your business." },
         { heading: "Running costs", text: "Hosting, database, email and SMS services are billed to your accounts, usually modest at launch and rising with users." },
-        { heading: "Support after launch", text: `Five months of free maintenance with us, then optional care from ${P.care}.` },
+        { heading: "Support after launch", text: `Two months of free maintenance with us, then optional care from ${P.care}.` },
       ],
     },
     {
@@ -180,7 +180,7 @@ const content: FreelanceContent = {
       heading: "What post-launch support should an app developer provide?",
       paragraphs: [
         `Expect bug fixes, updates for new iOS and Android releases, store policy changes, dependency upgrades and small improvements. An app that is not maintained starts breaking within a year as operating systems and libraries move on.`,
-        `Every app we launch gets five months of free maintenance. It covers bug fixes and keeping the app working through the first months with real users, which is when most rough edges show up; the exact inclusions are listed in your written quote. After that, care plans start from ${P.care}, or you can move the work to anyone else, since the code and accounts are already yours.`,
+        `Every app we launch gets two months of free maintenance. It covers bug fixes and keeping the app working through the first months with real users, which is when most rough edges show up; the exact inclusions are listed in your written quote. After that, care plans start from ${P.care}, or you can move the work to anyone else, since the code and accounts are already yours.`,
         `Bigger additions, such as a new user type or a subscription model, are quoted separately. We suggest collecting feedback for the first few weeks before deciding version two, because real usage often changes priorities.`,
       ],
     },
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
       ["Register accounts in your name", "You start Apple and Google developer registrations and create the code repository; we guide each step on a short video call."],
       ["Approve screen designs", "Clickable designs of the main screens arrive for review on your phone before we write the bulk of the code."],
       ["Test a build every week", "New versions land on TestFlight and a Google Play test track weekly, and you send one consolidated list of feedback each time."],
-      ["Launch and look after it", "We submit under your accounts, handle review questions with you, then cover five months of free maintenance before any care plan."],
+      ["Launch and look after it", "We submit under your accounts, handle review questions with you, then cover two months of free maintenance before any care plan."],
     ],
   },
   faqHeading: "App development company Australia: founder questions",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
     { question: "Do I need a D-U-N-S number to publish an app in Australia?", answer: "To publish as an organisation, yes: both Apple and Google Play require one for organisation developer accounts. Check whether your business already has one, and apply early if not, because issuing can take time. Individuals can register personal accounts, but the seller name and testing rules then differ." },
     { question: "Who owns the source code of my app?", answer: "You should, but make it certain in writing. The Arts Law Centre of Australia notes that contractors keep copyright unless it is assigned in writing and signed. Our written quote assigns the code, designs and listings to your business, and the repository sits in your own account from day one. Have your lawyer review the documents." },
     { question: "How long does it take to build an app?", answer: "Most first versions take 6–10 weeks with us, depending on screens, user types and integrations. Store review adds some days on top. The biggest delays usually come from late developer account registrations and slow feedback, so starting the Apple and Google paperwork in week one keeps the schedule on track." },
-    { question: "What happens after my app launches?", answer: `Every app gets five months of free maintenance after launch, covering bug fixes and keeping the app running, with exact inclusions listed in your quote. After that you can choose a care plan from ${P.care}, move maintenance elsewhere, or handle it in-house. New features are quoted separately once you have real user feedback.` },
+    { question: "What happens after my app launches?", answer: `Every app gets two months of free maintenance after launch, covering bug fixes and keeping the app running, with exact inclusions listed in your quote. After that you can choose a care plan from ${P.care}, move maintenance elsewhere, or handle it in-house. New features are quoted separately once you have real user feedback.` },
     { question: "Can you take over an app another developer built?", answer: "Often, yes. We start with a code review to check the framework, dependencies, backend and store account situation, then give you an honest view of whether to continue or rebuild. If the previous developer holds the store account or the code, recovering access is the first job." },
     { question: "How do I compare app development quotes fairly?", answer: "Break every quote into the same parts: discovery, design, each feature, testing, admin panel, store submission and support. Check who holds the accounts and repository and how change requests are priced. Then compare. Totals alone mislead because providers include different things in their headline figure." },
     { question: "Can I pay for app development in milestones?", answer: "Yes. Payments are staged against milestones you can see and test, such as approved designs, a working core flow and store submission. Quotes are in USD, and Australian clients usually pay by Wise from an AUD account, bank wire or PayPal. Nothing is billed before you approve the written quote." },

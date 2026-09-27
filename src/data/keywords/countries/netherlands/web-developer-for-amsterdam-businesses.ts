@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers on your Amsterdam project" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Marketplace or platform fees added" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Web apps and client portals", note: `Dashboards, onboarding flows, partner portals and internal tools with logins and roles. From ${P.software}.`, href: "/netherlands/custom-software-development/", size: "md" },
       { name: "Headless CMS setups", note: "Sanity, Strapi or WordPress as a headless back end so marketers edit content without a developer on call.", href: "/headless-cms-development/", size: "sm" },
       { name: "Technical SEO and AI-search groundwork", note: `Schema, sitemaps, Core Web Vitals and Search Console on launch day; monthly SEO from ${P.seo} if you want it.`, href: "/netherlands/technical-seo-services/", size: "sm" },
-      { name: "Care after launch", note: `Five months of free maintenance, then updates, backups and small edits from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Care after launch", note: `Two months of free maintenance, then updates, backups and small edits from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a remote web developer costs an Amsterdam business",
-    note: `All figures are starting prices in USD, and the final number comes from an itemised quote about two working days after we see your brief. A business or startup marketing site of up to 100 pages starts from ${P.site}. A content-heavy site with 299 or more pages, such as a SaaS knowledge base or a city guide for a hospitality group, starts from ${P.seoSite}. A web shop starts from ${P.shop}, a web app or client portal from ${P.software}, and an AI automation from ${P.ai}. Monthly SEO starts from ${P.seo}; maintenance starts from ${P.care} once five free months end. Nothing is billed before you approve the quote in writing.`,
+    note: `All figures are starting prices in USD, and the final number comes from an itemised quote about two working days after we see your brief. A business or startup marketing site of up to 100 pages starts from ${P.site}. A content-heavy site with 299 or more pages, such as a SaaS knowledge base or a city guide for a hospitality group, starts from ${P.seoSite}. A web shop starts from ${P.shop}, a web app or client portal from ${P.software}, and an AI automation from ${P.ai}. Monthly SEO starts from ${P.seo}; maintenance starts from ${P.care} once two free months end. Nothing is billed before you approve the quote in writing.`,
   },
   guideLabel: "Web developer Amsterdam guide",
   guide: [
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
         "What happens to the code and access if you end the relationship?",
       ],
       after: [
-        `For us the answers are short: you decide the language mix, everything sits in your accounts, the quote is itemised, maintenance is free for five months and then starts from ${P.care}, and calls fit your Amsterdam working day. <a href='/contact/'>Send us your brief</a> and you will see it in writing.`,
+        `For us the answers are short: you decide the language mix, everything sits in your accounts, the quote is itemised, maintenance is free for two months and then starts from ${P.care}, and calls fit your Amsterdam working day. <a href='/contact/'>Send us your brief</a> and you will see it in writing.`,
       ],
     },
   ],
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
       ["Set up your accounts", "You own the domain, hosting, repository and analytics. We ask for access, never ownership, and list every account in a handover sheet."],
       ["Build in weekly cycles", "Each week ends with a demo during your late morning or early afternoon and a staging link you can click through with your team."],
       ["Test and launch", "We test forms, consent, speed, redirects and both languages, submit sitemaps in Search Console and launch at a time that suits your traffic."],
-      ["Hand over and look after it", `You receive logins, a README and a short training call. Maintenance is free for five months, then starts from ${P.care} if you want it.`],
+      ["Hand over and look after it", `You receive logins, a README and a short training call. Maintenance is free for two months, then starts from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "Questions Amsterdam businesses ask about hiring a web developer",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Will my Amsterdam website follow the AVG and cookie rules?", answer: "We build the technical side so you can comply: tracking and advertising scripts stay off until a visitor consents, refusing is as easy as accepting, forms collect only what you use, and hosting sits in the EU on your account. Legal sign-off is your responsibility, so we suggest your own privacy adviser reviews the setup." },
     { question: "Can you guarantee my site will rank first on Google in Amsterdam?", answer: `No, and nobody honest can guarantee rankings. We build the foundations that search engines reward: fast mobile pages, clear structure, schema, hreflang and a clean sitemap in Search Console. Rankings then depend on your content, reputation and competition. Monthly SEO starts from ${P.seo} if you want ongoing help.` },
     { question: "Will my site show up in AI answers like Google AI Overviews or ChatGPT?", answer: "Nobody can promise that, but structure helps. We place direct answers near the top of service pages, use question headings, add tables where comparisons help and mark up FAQs honestly. AI systems quote content that is clear and self-contained, and your expertise supplies the substance they cite." },
-    { question: "What happens after the website launches?", answer: `Maintenance is free for five months after launch: updates, backups, monitoring and small fixes. After that, care starts from ${P.care} if you want us to continue. You can also take the site to another developer at any time, since the code and accounts are yours.` },
+    { question: "What happens after the website launches?", answer: `Maintenance is free for two months after launch: updates, backups, monitoring and small fixes. After that, care starts from ${P.care} if you want us to continue. You can also take the site to another developer at any time, since the code and accounts are yours.` },
     { question: "Can you take over a site another Amsterdam developer built?", answer: "Usually, yes. We start with an audit: access check, code review, plugin or dependency list, speed and security scan. Then we tell you plainly what is safe to keep and what needs fixing, with an itemised quote. If the previous developer holds your accounts, getting them transferred to you is the first step." },
     { question: "Do you build web apps and portals, not just websites?", answer: `Yes. Client portals, partner dashboards, onboarding flows and internal tools start from ${P.software} and usually take six to twelve weeks. We can also add AI automations such as lead routing or inbox triage from ${P.ai}. Each part is quoted separately so you can phase the work.` },
     { question: "Can you meet us in person in Amsterdam?", answer: "No. We work fully remotely and do not travel for site visits or workshops. If in-person sessions are essential to your project, an Amsterdam agency will suit you better, and we are happy to build from a design they produce. Everything else, from kick-off to training, runs well on video." },

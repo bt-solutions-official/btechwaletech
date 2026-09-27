@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Baddi · Barotiwala · Nalagarh · Solan district",
     h1: "Freelance software developers for Baddi's pharma units, suppliers and industrial businesses",
     lede:
-      "If you are comparing a software development team in Baddi with other options, BtechWaleTech is a freelance group of three engineers working remotely from India. We build document and quality workflow tools, dispatch and vendor portals, production dashboards, AI automation, B2B websites and SEO for manufacturers and suppliers across the Baddi–Barotiwala–Nalagarh belt, with published starting prices and five months of free maintenance after launch.",
+      "If you are comparing a software development team in Baddi with other options, BtechWaleTech is a freelance group of three engineers working remotely from India. We build document and quality workflow tools, dispatch and vendor portals, production dashboards, AI automation, B2B websites and SEO for manufacturers and suppliers across the Baddi–Barotiwala–Nalagarh belt, with published starting prices and two months of free maintenance after launch.",
     pills: ["Workflow software from ₹60,000", "AI automation from ₹40,000", "B2B websites from ₹10,000", "Code and data owned by you", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Searching for a software development team in Baddi? BtechWaleTech is a freelance group of three remote engineers building pharma workflow tools and web apps from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, B2B websites from ₹10,000 and SEO sites from ₹20,000. Expect an itemised quote in about two working days and five free months of maintenance.",
+    "Searching for a software development team in Baddi? BtechWaleTech is a freelance group of three remote engineers building pharma workflow tools and web apps from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, B2B websites from ₹10,000 and SEO sites from ₹20,000. Expect an itemised quote in about two working days and two free months of maintenance.",
   snapshot: [
     { label: "Industrial belt", value: "Baddi, Barotiwala and Nalagarh in Solan district, planned under the Baddi Barotiwala Nalagarh Development Authority (BBNDA)" },
     { label: "Main industry", value: "Pharmaceutical formulations, widely described as one of Asia's largest pharma manufacturing clusters, plus FMCG, textiles and packaging" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents that sort RFQs from marketing companies, draft quotation replies, and search your SOP library in plain language, with a human approving every output.",
     data: "Production, QC turnaround, dispatch and receivables dashboards that pull from ERP exports and spreadsheets for plant heads and owners.",
     app: "Android and iOS apps from ₹40,000 for Baddi distributors, field reps, technicians and QC staff, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Backups, security patches, access reviews and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, security patches, access reviews and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Baddi plants usually meet two kinds of IT vendor: large ERP implementers with long contracts, and local web designers who stop at a brochure site. We fill the space between: three engineers who build the specific workflow tool, portal or dashboard your plant is missing, with clear scope and full ownership handed to you.",
@@ -192,7 +192,7 @@ const content: CityContent = {
       id: "support-maintenance-baddi",
       heading: "Maintenance and support for plant software after go-live",
       paragraphs: [
-        "Maintenance keeps your software secure, current and aligned with changing procedures after launch, and every BtechWaleTech project includes five months of it at no charge once hosting is live. That covers bug fixes, small changes, security and dependency updates, backups, uptime checks and access reviews.",
+        "Maintenance keeps your software secure, current and aligned with changing procedures after launch, and every BtechWaleTech project includes two months of it at no charge once hosting is live. That covers bug fixes, small changes, security and dependency updates, backups, uptime checks and access reviews.",
         "In a regulated plant, changes need discipline. We follow a simple change process: you raise a request, we describe the impact, you approve, we test on a staging copy, and we release with a change note your QA team can file. This fits naturally with your own change-control procedure and keeps validated systems in a known state.",
         "After the free period, maintenance plans start from ₹8,000 a month, or you can request work as needed. We reply on WhatsApp seven days a week. Because we are remote, we cannot attend the plant for hardware issues, network cabling or printer setup; those remain with your local IT support, and we coordinate with them where software and hardware meet.",
       ],
@@ -201,7 +201,7 @@ const content: CityContent = {
       id: "cost-software-baddi",
       heading: "Software development cost in Baddi: what do freelance developers charge?",
       paragraphs: [
-        "BtechWaleTech's starting prices for Baddi projects are ₹10,000 for a B2B website, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software, portals or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free five months. Every figure is a starting point.",
+        "BtechWaleTech's starting prices for Baddi projects are ₹10,000 for a B2B website, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation or an Android and iOS app, ₹60,000 for custom software, portals or dashboards, ₹10,000 a month for SEO and ₹8,000 a month for maintenance after the free two months. Every figure is a starting point.",
         "Costs rise with integrations, user roles, validation documentation and data migration. A visitor register is small; a full document and change-control system with training links and audit trails is larger. Starting with the workflow that hurts most, proving it in daily use, and then adding modules keeps both cost and risk under control.",
         "You receive an itemised quote in about two working days that lists every module, its cost and timeline. We begin only after written approval. Clients pay us only by UPI, scanning our QR code, or by direct bank transfer to our bank account, in INR, usually in milestones tied to approved deliverables.",
       ],
@@ -211,7 +211,7 @@ const content: CityContent = {
         "<strong>SEO website, 299+ pages:</strong> from ₹20,000, three to five weeks",
         "<strong>AI automation workflow:</strong> from ₹40,000, two to four weeks",
         "<strong>Portal, dashboard or workflow software:</strong> from ₹60,000, six to twelve weeks",
-        "<strong>Maintenance after five free months:</strong> from ₹8,000 a month",
+        "<strong>Maintenance after two free months:</strong> from ₹8,000 a month",
       ],
     },
     {
@@ -283,9 +283,9 @@ const content: CityContent = {
         "Your business does. The code repository, cloud account, domain and database are registered to you or transferred at handover, along with documentation. No licence fee is owed to us for using your own software. If you later move support to another developer or your in-house team, they receive full access without any release fee.",
     },
     {
-      question: "What does the five months of free maintenance include?",
+      question: "What does the two months of free maintenance include?",
       answer:
-        "Once your system is live, five months of maintenance are included: bug fixes, small changes, security and dependency updates, backups, uptime checks and access reviews. Changes follow a simple request, approval and release process with notes your QA team can file. After that, plans start from ₹8,000 a month or you can request work as needed.",
+        "Once your system is live, two months of maintenance are included: bug fixes, small changes, security and dependency updates, backups, uptime checks and access reviews. Changes follow a simple request, approval and release process with notes your QA team can file. After that, plans start from ₹8,000 a month or you can request work as needed.",
     },
     {
       question: "Can AI read RFQs and draft quotations for our BD team?",

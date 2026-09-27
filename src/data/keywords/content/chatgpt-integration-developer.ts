@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Inside a larger app", `Custom web apps from ${P.software}`],
     ["API keys and billing", "Your provider account, not ours"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers: app code, AI and data, delivery" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Most integrations take 2–4 weeks and follow the same arc: prove quality on your data first, then wire it into your systems.`,
         `Week one: we agree the single task, gather sample documents and questions, and build the first evaluation set. A quick prototype runs against it so you see real accuracy numbers early. Week two: retrieval and prompts are improved until scores meet the target you set, and the output schema is fixed. Weeks three and four: the feature is integrated into your app, CRM, website or WhatsApp flow, with logging, limits, error handling and a fallback to a human.`,
-        `Launch is often staged: internal staff first, then a small share of customers, then everyone. The five months of free maintenance after launch cover prompt adjustments, fixes and reruns of tests when the provider updates a model.`,
+        `Launch is often staged: internal staff first, then a small share of customers, then everyone. The two months of free maintenance after launch cover prompt adjustments, fixes and reruns of tests when the provider updates a model.`,
       ],
     },
     {
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
       heading: "ChatGPT ko apne software mein jodna hai? Aasaan bhasha mein",
       paragraphs: [
         `ChatGPT integration ka matlab hai ki aapki website, app ya CRM khud AI model se baat kare: documents padhe, jawab ka draft banaye ya invoice se details nikaale. Aapka data har sawal ke waqt search karke model ko diya jaata hai, isliye jawab aapke hi documents se aata hai.`,
-        `Hamare saath integration ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. API ka usage kharcha alag hota hai aur seedha aapke account mein aata hai; hum launch se pehle monthly limit set karte hain. Launch ke baad 5 mahine maintenance free hai.`,
+        `Hamare saath integration ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. API ka usage kharcha alag hota hai aur seedha aapke account mein aata hai; hum launch se pehle monthly limit set karte hain. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
         ["Week 2", "Retrieval and prompt tuning, output schema", "Accuracy report meeting your target"],
         ["Weeks 3–4", "Integration, limits, logging, human fallback", "Working feature on staging"],
         ["Launch", "Staged rollout, budget alerts on", "Live feature and handover notes"],
-        ["Next 5 months", "Prompt tweaks, fixes, model update retests", "Free maintenance"],
+        ["Next 2 months", "Prompt tweaks, fixes, model update retests", "Free maintenance"],
       ],
     },
   ],
@@ -355,7 +355,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "In about two working days you get build lines and a monthly usage estimate. Nothing is billed until you approve in writing."],
       ["Prototype and score", "A working prototype runs against your test set. You see accuracy numbers and decide whether to proceed to full integration."],
       ["Integrate with limits", "The feature is wired into your app, CRM or WhatsApp flow with logging, token budgets, a human fallback and keys in your account."],
-      ["Launch in stages, then support", "Internal users first, then customers. Five months of free maintenance cover prompt tweaks, fixes and retests after model updates."],
+      ["Launch in stages, then support", "Internal users first, then customers. Two months of free maintenance cover prompt tweaks, fixes and retests after model updates."],
     ],
   },
   faqHeading: "ChatGPT integration developer: frequently asked questions",
@@ -375,9 +375,9 @@ const content: FreelanceContent = {
     { question: "Will ChatGPT understand Hindi and other Indian languages?", answer: "Current models handle Hindi and major Indian languages reasonably well, including Hindi written in Latin script, though quality varies by language and task. We include real mixed-language messages in the test set, instruct the model to reply in the customer’s language, and have native speakers check outputs for customer-facing use." },
     { question: "Do I need a ChatGPT Plus or Team subscription for an integration?", answer: "No. Integrations use the provider’s developer API, which is billed separately per token from the chat product subscriptions. You create a developer account with the provider, add billing and generate API keys. Staff can keep using the chat product for their own work if they wish; it is unrelated to the integration." },
     { question: "Can a freelance ChatGPT integration developer work with clients abroad?", answer: `Yes. We work with businesses in the USA, UK, UAE, Singapore and elsewhere, bill in USD with integrations from ${P.aiUsd}, and accept Wise, bank wire or PayPal. Keys and data stay in your accounts and region choices can follow your compliance needs. Calls overlap your working hours where possible.` },
-    { question: "What maintenance does a ChatGPT integration need?", answer: `Integrations need periodic prompt adjustments, reruns of the test set when providers update or retire models, index refreshes when documents change, and a look at usage costs. The first five months after launch are covered by our free maintenance. After that, maintenance starts at ${P.care} if you want us to continue.` },
+    { question: "What maintenance does a ChatGPT integration need?", answer: `Integrations need periodic prompt adjustments, reruns of the test set when providers update or retire models, index refreshes when documents change, and a look at usage costs. The first two months after launch are covered by our free maintenance. After that, maintenance starts at ${P.care} if you want us to continue.` },
     { question: "Is it better to buy an off-the-shelf AI chatbot instead?", answer: "For a basic FAQ bubble on a small website, a ready-made chatbot plugin can be enough and cheaper. A custom ChatGPT integration makes sense when the model must use private data with access rules, connect to your systems, produce structured results for software, or meet specific accuracy and cost targets." },
-    { question: "ChatGPT ko apni website ya app mein jodne ka kharcha kitna hai?", answer: `BtechWaleTech ke saath ChatGPT integration ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. API usage ka kharcha alag hota hai jo seedha aapke provider account mein bill hota hai. Hum launch se pehle monthly usage ka andaaza aur spending limit set karte hain, aur 5 mahine maintenance free dete hain.` },
+    { question: "ChatGPT ko apni website ya app mein jodne ka kharcha kitna hai?", answer: `BtechWaleTech ke saath ChatGPT integration ${P.ai} se shuru hota hai aur 2–4 hafte lagte hain. API usage ka kharcha alag hota hai jo seedha aapke provider account mein bill hota hai. Hum launch se pehle monthly usage ka andaaza aur spending limit set karte hain, aur 2 mahine maintenance free dete hain.` },
     { question: "Can you build a custom GPT for my team?", answer: "Custom GPTs inside the ChatGPT product are quick to set up for internal experiments and need little development. When you need your own interface, strict access control, integration with company systems, usage limits or measurable accuracy, a proper API integration is the better route. We can advise which fits your case during the first call." },
   ],
   related: {
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a ChatGPT integration developer? Start with one task",
-    note: `Message us on WhatsApp with the task you want AI to handle and a few sample documents or questions. You get an itemised quote and usage estimate in about two working days, integrations from ${P.ai}, keys in your own account and five months of free maintenance.`,
+    note: `Message us on WhatsApp with the task you want AI to handle and a few sample documents or questions. You get an itemised quote and usage estimate in about two working days, integrations from ${P.ai}, keys in your own account and two months of free maintenance.`,
   },
 };
 

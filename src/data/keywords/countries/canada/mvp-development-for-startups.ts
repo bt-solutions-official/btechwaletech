@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks to first users"],
     ["Scope rule", "One core workflow in version one"],
     ["Ownership", "Code, domain, cloud and store accounts are yours"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "1", label: "Core workflow in the first release" },
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "AI features, if they are the product", note: `When AI is the core value, such as document reading or matching, we build that one capability properly. AI automation starts at ${P.ai}.`, href: "/canada/ai-automation-agency/", size: "md" },
       { name: "Landing page and waitlist", note: `A fast marketing page to collect sign-ups while the product is built. Static sites start at ${P.site}.`, href: "/canada/small-business-website-design/", size: "sm" },
       { name: "Path to SaaS", note: "Subscription billing, teams and roles added once real users confirm the MVP is worth scaling.", href: "/canada/saas-development-company/", size: "sm" },
-      { name: "Post-launch fixes", note: `Five months of free maintenance, then care from ${P.care} while you iterate with users.`, size: "sm" },
+      { name: "Post-launch fixes", note: `Two months of free maintenance, then care from ${P.care} while you iterate with users.`, size: "sm" },
     ],
   },
   comparison: {
@@ -176,7 +176,7 @@ const content: FreelanceContent = {
         `Our web MVPs start at ${P.software} and mobile MVPs at ${P.app}, quoted in USD. Where your quote lands above that depends on the workflow's complexity, not on how many hours we can fill.`,
         `The drivers we price line by line are the number of user roles, the number of screens in the core workflow, whether payments are needed, integrations with outside systems, AI features, which start at ${P.ai}, and whether you need web, mobile or both. A marketplace with buyers, sellers and admins is three products in one; a tool for one type of user is one.`,
         `Costs outside our quote are small but real: your domain, cloud hosting in your own account, email sending, and for apps the Google Play one-time US$25 registration and the Apple Developer Program at US$99 a year. We list these in the quote so nothing appears as a surprise on your card.`,
-        `Every new build includes five months of free maintenance after launch, which covers bug fixes while you gather feedback. Our <a href='/canada/app-development-cost/'>Canadian app cost guide</a> and <a href='/canada/website-design-cost/'>website cost guide</a> give broader context.`,
+        `Every new build includes two months of free maintenance after launch, which covers bug fixes while you gather feedback. Our <a href='/canada/app-development-cost/'>Canadian app cost guide</a> and <a href='/canada/website-design-cost/'>website cost guide</a> give broader context.`,
       ],
     },
     {
@@ -317,7 +317,7 @@ const content: FreelanceContent = {
       heading: "After the MVP: iterate, rebuild or scale?",
       paragraphs: [
         `Iterate on the MVP as long as users keep telling you something new; scale when the workflow is proven and customers are paying or clearly would. A full rebuild is rarely necessary if the MVP was written in mainstream code with clean ownership from the start.`,
-        `The first month after launch is for listening. Fix what blocks users, watch the activation and retention numbers, and hold off on new features until patterns appear. The free five months of maintenance that come with every build cover bug fixes during this period; new features are quoted separately so you control the spend.`,
+        `The first month after launch is for listening. Fix what blocks users, watch the activation and retention numbers, and hold off on new features until patterns appear. The free two months of maintenance that come with every build cover bug fixes during this period; new features are quoted separately so you control the spend.`,
         `When the product is ready to grow, the usual next steps are subscription billing, team accounts and roles, integrations customers keep asking for, and better onboarding. That is where an MVP becomes a SaaS product, which our <a href='/canada/saas-development-company/'>SaaS build guide for Canadian founders</a> covers, and where a sales team might need a <a href='/canada/custom-crm-development/'>custom CRM</a> or just a well-configured off-the-shelf one.`,
         `If you raise a seed round and hire your own engineers, we hand over the repository, documentation and a walkthrough call, and stay available for questions if you want us.`,
       ],
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a USD quote with milestones, timeline and exclusions. Nothing is billed until you approve it in writing."],
       ["Accounts and designs", "You register the domain, repository, cloud and store accounts and invite us. Clickable designs for the core workflow follow in the first two weeks."],
       ["Build with Friday demos", "The workflow is built end to end in weekly slices, each shown on a call and available on a staging link or test build for you to try."],
-      ["Launch and learn", "We launch to your first users, set up the metrics page and demo account, then fix issues free for five months while you gather evidence."],
+      ["Launch and learn", "We launch to your first users, set up the metrics page and demo account, then fix issues free for two months while you gather evidence."],
     ],
   },
   faqHeading: "MVP development for startups in Canada: common questions",
@@ -428,7 +428,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a development team in India from Canada?", answer: "Quotes are in USD and split into milestones. You pay through Wise, bank wire or PayPal, from a CAD or USD account, and your provider converts the currency. Invoices come from India. Nothing is billed until you approve the written quote, and each milestone is linked to something you can try on a staging link or test build." },
     { question: "What time are meetings with your team?", answer: "India is 9.5 hours ahead of Toronto and Montreal during daylight saving and 12.5 hours ahead of Vancouver. That makes 9 a.m. Eastern 6:30 p.m. in India, and 8 a.m. Pacific 8:30 p.m. in India. We hold weekly demo calls in your morning and reply on WhatsApp seven days a week between calls." },
     { question: "Can you sign an NDA before I share my startup idea?", answer: "Yes, send your NDA and we will review and sign a reasonable one before you share details. Confidentiality and intellectual property assignment terms are then written into your quote and contract. Our standard terms are published on the terms page. If investors will rely on these documents, have your own lawyer review them." },
-    { question: "What happens after the MVP launches?", answer: `Every build includes five months of free maintenance for bugs and small fixes while you gather feedback. New features are quoted separately, so you decide what to spend and when. After the free period, care plans start at ${P.care}. If you raise a round and hire engineers, we hand over the repository, documentation and a walkthrough.` },
+    { question: "What happens after the MVP launches?", answer: `Every build includes two months of free maintenance for bugs and small fixes while you gather feedback. New features are quoted separately, so you decide what to spend and when. After the free period, care plans start at ${P.care}. If you raise a round and hire engineers, we hand over the repository, documentation and a walkthrough.` },
     { question: "Will the MVP code need to be rewritten later?", answer: "Not usually, if it is built in mainstream technology with tests on critical paths and clear documentation. We write MVPs in stacks such as TypeScript, React, Node or Python and PostgreSQL, which most developers know. Some parts will be refactored as you grow, which is normal, but a full rewrite is rarely needed unless the product direction changes completely." },
     { question: "Can the MVP include AI features?", answer: `Yes, when AI is central to the value you are testing, such as reading documents, matching users or summarizing data. We build that one capability carefully, log inputs and outputs so you can improve it, and keep costs visible. AI automation starts at ${P.ai}. If AI is only a nice-to-have, we usually recommend leaving it for version two.` },
     { question: "Where will my startup's data be hosted?", answer: "In a cloud account you open and own. If you want data kept in Canada, AWS offers Canada (Central) and Canada West (Calgary) regions, and we can deploy there. We use test data during development, restrict admin access by role and encrypt traffic. Your privacy obligations remain yours, so have your own counsel review your privacy notice." },

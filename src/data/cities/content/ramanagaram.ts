@@ -56,7 +56,7 @@ const ramanagaram: CityContent = {
     ai: "WhatsApp replies in Kannada, English and Urdu that share yarn stock, clinic timings or school fees and log every enquiry to a sheet.",
     data: "Daily dashboards of cocoon bought, yarn produced, renditta and dues, built from the entries your staff already make.",
     app: "Android and iOS apps for silk buyers to check lots and re-order, or for students and parents at a Ramanagara school, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Updates, backups, security patches and uptime checks free for two months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Ramanagara owners deal with Bengaluru buyers, factory procurement desks and mandi rates every day, so they know when a vendor is vague. We publish starting prices, send an itemised quote, reply on WhatsApp seven days a week and put the domain, hosting and code in your own name from the first day.",
@@ -168,7 +168,7 @@ const ramanagaram: CityContent = {
       heading: "Ownership and maintenance for Ramanagara websites and apps",
       paragraphs: [
         "Many Ramanagara businesses have lost a website because the person who built it registered the domain in his own name and then stopped answering calls. We avoid that from the first day. The domain, hosting account, source code, Google Business Profile and the Play Store and App Store developer accounts are all registered to you, with logins shared in writing.",
-        "After launch, maintenance is free for five months. That covers updates to text and prices, backups, security patches, plugin and framework updates, and checks that forms and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to hand the work to anyone else.",
+        "After launch, maintenance is free for two months. That covers updates to text and prices, backups, security patches, plugin and framework updates, and checks that forms and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to hand the work to anyone else.",
         "For apps, maintenance also covers updates needed when Android or iOS changes its rules, which happens every year. Skipping these can get an app pulled from the store, so we flag them well in advance.",
       ],
     },
@@ -260,7 +260,7 @@ const ramanagaram: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "Maintenance is free for five months after launch, including updates, backups, security patches and checks on forms and links. After that, it starts at ₹8,000 a month if you want us to continue. You keep full ownership of the domain, hosting and code, so you can also move to someone else.",
+        "Maintenance is free for two months after launch, including updates, backups, security patches and checks on forms and links. After that, it starts at ₹8,000 a month if you want us to continue. You keep full ownership of the domain, hosting and code, so you can also move to someone else.",
     },
     {
       question: "Do you work with businesses in Channapatna, Bidadi and Magadi too?",

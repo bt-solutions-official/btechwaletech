@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Mobile sites from ₹10,000", "Custom software from ₹60,000", "AI automation from ₹40,000", "Android & iOS apps from ₹40,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "Freelance software and app developers for Lunglei: BtechWaleTech, three engineers working remotely from India, builds mobile-first websites from ₹10,000 (1 to 2 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks), Android and iOS apps from ₹40,000 and custom software from ₹60,000 (6 to 12 weeks). We have no Lunglei office; maintenance is free for five months.",
+    "Freelance software and app developers for Lunglei: BtechWaleTech, three engineers working remotely from India, builds mobile-first websites from ₹10,000 (1 to 2 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks), Android and iOS apps from ₹40,000 and custom software from ₹60,000 (6 to 12 weeks). We have no Lunglei office; maintenance is free for two months.",
   snapshot: [
     { label: "Position", value: "Second-largest town in Mizoram and the main centre of the south, set on a ridge at roughly 700 metres" },
     { label: "District", value: "Headquarters of Lunglei district, with Tlabung sub-division on the Bangladesh border to the west" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that answer routine questions on WhatsApp, draft notices and pass anything unusual to a person on your team.",
     data: "Dashboards that let district offices, NGOs and business owners see numbers from Lunglei and surrounding blocks in one place.",
     app: "Android and iOS apps from ₹40,000, one Flutter or React Native build on Google Play and the App Store, for Lunglei wholesalers, hospitals, schools and staff who travel to Tlabung or Lungsen.",
-    maintenance: "Remote upkeep with backups and security updates, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote upkeep with backups and security updates, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Lunglei organisations often wait on vendors based in Aizawl or further away. A freelance group removes the layers: you message the engineer directly, see weekly progress, pay published starting prices and keep every file and login when the project is finished.",
@@ -213,7 +213,7 @@ const content: CityContent = {
       id: "maintenance-lunglei",
       heading: "Maintenance and remote IT support for Lunglei clients",
       paragraphs: [
-        "Each Lunglei project includes five months of free maintenance after launch: bug fixes, security updates, small content changes, backup checks and uptime monitoring. Afterwards, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "Each Lunglei project includes two months of free maintenance after launch: bug fixes, security updates, small content changes, backup checks and uptime monitoring. Afterwards, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
         "Support is remote and covers software, websites, hosting, domains, email setup and automations we built. For computers, printers or networks you need a local technician; we can guide them by phone when the issue touches our systems.",
         "We reply on WhatsApp or email every day of the week. Before the free period ends we send a health report with updates made and renewals ahead, so you can decide whether a monthly plan makes sense.",
       ],
@@ -224,7 +224,7 @@ const content: CityContent = {
       paragraphs: [
         "Software and app development in Lunglei starts at ₹60,000 for custom software or a web app, ₹40,000 for AI and WhatsApp automation, ₹40,000 for an Android and iOS app, ₹50,000 for an online store and ₹10,000 for a mobile-first website. A 299+ page SEO site starts at ₹20,000, monthly SEO at ₹10,000 and maintenance at ₹8,000.",
         "Scope sets the final price: screens or pages, user roles, offline features, integrations, data migration and content. We itemise each part so you can phase features to match budget.",
-        "Payments are in INR against milestones, accepted only by UPI through our QR code or direct bank transfer to our account. Hosting setup, deployment and five months of maintenance are included. See all services on our <a href='/services/'>services page</a>.",
+        "Payments are in INR against milestones, accepted only by UPI through our QR code or direct bank transfer to our account. Hosting setup, deployment and two months of maintenance are included. See all services on our <a href='/services/'>services page</a>.",
       ],
     },
     {
@@ -298,7 +298,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, security updates, small content edits, backups and uptime checks. After that, plans start at ₹8,000 a month, or you pay per change. Hardware and network repairs are outside our remote support.",
+        "Two months of free maintenance after launch, covering bug fixes, security updates, small content edits, backups and uptime checks. After that, plans start at ₹8,000 a month, or you pay per change. Hardware and network repairs are outside our remote support.",
     },
     {
       question: "How soon will we appear on Google?",

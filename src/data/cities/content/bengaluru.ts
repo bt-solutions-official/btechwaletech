@@ -7,7 +7,7 @@ const bengaluru: CityContent = {
   meta: {
     title: "IT Services in Bengaluru: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, SaaS landing pages, online stores and AI automation for Bengaluru startups and local businesses. From ₹10,000 with 5 months free maintenance.",
+      "Websites, SEO, SaaS landing pages, online stores and AI automation for Bengaluru startups and local businesses. From ₹10,000 with 2 months free maintenance.",
     keywords: [
       "website development team in Bengaluru",
       "website development team in Bangalore",
@@ -30,11 +30,11 @@ const bengaluru: CityContent = {
     eyebrow: "Bengaluru · Karnataka",
     h1: "Web development and AI automation for Bengaluru startups and local businesses",
     lede:
-      "Three remote engineers building product sites, online stores, internal tools and AI workflows for Bengaluru founders, manufacturers, clinics, restaurants and silk traders. Prices are public, you talk to the people who write the code, and the first five months of maintenance after launch are on us.",
+      "Three remote engineers building product sites, online stores, internal tools and AI workflows for Bengaluru founders, manufacturers, clinics, restaurants and silk traders. Prices are public, you talk to the people who write the code, and the first two months of maintenance after launch are on us.",
     pills: ["Sites from ₹10,000", "Startup landing pages", "SEO in English and Kannada", "AI agents and automation", "Web apps from ₹60,000"],
   },
   quickAnswer:
-    "In Bengaluru, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, taking one to five weeks. AI automation starts at ₹40,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bengaluru office, and five months of maintenance come free after launch.",
+    "In Bengaluru, a static business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, taking one to five weeks. AI automation starts at ₹40,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Bengaluru office, and two months of maintenance come free after launch.",
   snapshot: [
     { label: "Tech corridors", value: "Whitefield and ITPL, Outer Ring Road, Electronic City and Manyata Tech Park near Hebbal" },
     { label: "Startup neighbourhoods", value: "Koramangala, HSR Layout, Indiranagar and Domlur" },
@@ -51,7 +51,7 @@ const bengaluru: CityContent = {
     ai: "AI agents, retrieval-based assistants and workflow automation built with sensible guardrails and honest cost estimates.",
     data: "Dashboards and data pipelines that pull from your product database, CRM and billing tools into one view the team trusts.",
     app: "Android and iOS apps for delivery, booking and field-staff work across the city, built once in Flutter or React Native, from ₹40,000.",
-    maintenance: "Dependency updates, backups, uptime monitoring and small changes, free for five months after launch and from ₹8,000 a month after.",
+    maintenance: "Dependency updates, backups, uptime monitoring and small changes, free for two months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Bengaluru is full of excellent engineers, most of them already busy with their employers' products. What local businesses and early-stage founders often can't find is a small team that quotes publicly, ships quickly and stays reachable. That is what we offer: three engineers, published prices and replies seven days a week.",
@@ -164,11 +164,11 @@ const bengaluru: CityContent = {
     },
     {
       id: "ownership-bengaluru",
-      heading: "Handover, ownership and the first five months after launch",
+      heading: "Handover, ownership and the first two months after launch",
       paragraphs: [
         "Startups learn the ownership lesson during due diligence, when an investor asks who holds the domain and the answer is a freelancer who has left the country. Local businesses learn it when the site goes down and the only person with the hosting password stops answering. Both are avoidable.",
         "We register domains in your name, create cloud and hosting accounts under your company, and put the code in a repository you own. At launch you receive every credential and a short architecture note. You can move the work to another team or bring it in-house whenever you want, without an exit fee.",
-        "For five months after launch, maintenance is free: content changes, bug fixes, security and dependency updates, backups, uptime monitoring and performance checks. After that it continues from ₹8,000 a month, or you can call on us only when needed.",
+        "For two months after launch, maintenance is free: content changes, bug fixes, security and dependency updates, backups, uptime monitoring and performance checks. After that it continues from ₹8,000 a month, or you can call on us only when needed.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const bengaluru: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch, we cover content edits, bug fixes, security and dependency updates, backups, uptime monitoring and performance checks. After that, maintenance continues from ₹8,000 a month, or you can hire us only when you need changes.",
+        "For two months after launch, we cover content edits, bug fixes, security and dependency updates, backups, uptime monitoring and performance checks. After that, maintenance continues from ₹8,000 a month, or you can hire us only when you need changes.",
     },
     {
       question: "Can you build a saree or textile store that ships abroad?",

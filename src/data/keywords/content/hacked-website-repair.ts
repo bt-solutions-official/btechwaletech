@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who can look at your site" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
-    { value: "5", label: "Months of free maintenance on sites we rebuild" },
+    { value: "2", label: "Months of free maintenance on sites we rebuild" },
     { value: "0", label: "Middlemen between you and the people fixing it" },
   ],
   answer: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Hacked website repair pricing: quoted after we see the damage",
-    note: `There is no honest one-size price for a hack cleanup, because a single injected script and a server with thousands of spam pages and several backdoors are very different jobs. After you share access, we take a first look and send an itemised quote covering containment, cleanup, database work, search cleanup and hardening as separate lines. Nothing is billed until you approve it in writing. If the site is old, built on nulled themes or keeps getting reinfected, we may recommend a clean rebuild instead, starting at ${P.site}, with five months of free maintenance. Ongoing care starts at ${P.care}.`,
+    note: `There is no honest one-size price for a hack cleanup, because a single injected script and a server with thousands of spam pages and several backdoors are very different jobs. After you share access, we take a first look and send an itemised quote covering containment, cleanup, database work, search cleanup and hardening as separate lines. Nothing is billed until you approve it in writing. If the site is old, built on nulled themes or keeps getting reinfected, we may recommend a clean rebuild instead, starting at ${P.site}, with two months of free maintenance. Ongoing care starts at ${P.care}.`,
   },
   guideLabel: "Hacked website repair guide",
   guide: [
@@ -214,7 +214,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Cleanup quotes across the market vary widely, and the gap usually reflects depth. A quick scan-and-delete service is cheap and often temporary. A cleanup that includes database work, root-cause tracing, search cleanup and hardening takes longer and is more likely to last.`,
         `We quote after a first look, because the size of the job only becomes clear once we see the files, logs and database. The quote separates containment, file cleanup, database cleanup, search cleanup and hardening into lines, so you see where effort goes. Nothing is billed until you approve it in writing.`,
-        `Two figures are fixed starting points. If repair is not worth it, a clean rebuild of a business site starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks, including five months of free maintenance. For ongoing protection after cleanup, monthly care starts at ${P.care} (${P.careUsd}), covering updates, backups and monitoring. Online stores, where checkout integrity matters, may justify a rebuild on our store plan starting at ${P.shop}.`,
+        `Two figures are fixed starting points. If repair is not worth it, a clean rebuild of a business site starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks, including two months of free maintenance. For ongoing protection after cleanup, monthly care starts at ${P.care} (${P.careUsd}), covering updates, backups and monitoring. Online stores, where checkout integrity matters, may justify a rebuild on our store plan starting at ${P.shop}.`,
       ],
     },
     {

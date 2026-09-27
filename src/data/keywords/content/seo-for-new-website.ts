@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "New website SEO · from zero to first rankings",
     h1: "SEO for new website launches: from an empty domain to indexed pages and first enquiries",
-    lede: `SEO for a new website is the work of getting a domain that Google has never seen crawled, indexed and trusted enough to rank, ideally planned before launch rather than bolted on after. BtechWaleTech is three freelance developers in India who build new sites with SEO in the structure from day one. Below you will find a pre-launch checklist, how indexing really starts, how to plan your first 30 pages, where first links come from, what the “sandbox” talk means, and a month-by-month six-month roadmap.`,
+    lede: `SEO for a new website is the work of getting a domain that Google has never seen crawled, indexed and trusted enough to rank, ideally planned before launch rather than bolted on after. BtechWaleTech is three freelance developers in India who build new sites with SEO in the structure from day one. Below you will find a pre-launch checklist, how indexing really starts, how to plan your first 30 pages, where first links come from, what the “sandbox” talk means, and a month-by-month three-month roadmap.`,
     pills: ["Pre-launch checklist", "Search Console on day one", "First 30 pages planned", "Clean URL structure", "First genuine backlinks", "Six-month roadmap", "You own the domain"],
     origin: "A freelance team of three developers in India · WhatsApp, English and Hindi, 7 days a week",
   },
@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Large SEO site (299+ pages)", `From ${P.seoSite}, 3–5 weeks`],
     ["Monthly SEO after launch", `From ${P.seo}`],
     ["Roadmap length", "Six months, reviewed monthly"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Domain and accounts", "Registered to you"],
   ],
   stats: [
     { value: "30", label: "Pages to plan before or soon after launch" },
     { value: "6", label: "Months in the new-site SEO roadmap" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to get an itemised quote" },
   ],
   answer: {
@@ -325,7 +325,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Ideally, the same people who build the site, because most new-site SEO lives in the templates, the URL plan and the launch-day setup. When a designer builds the site and an SEO provider arrives later, the first months of SEO are often spent undoing build decisions.`,
         `BtechWaleTech is three freelance developers: Ankur Kumar builds the full-stack site, Santosh Sharma handles technical SEO, structured data and analytics, and Vedansh Shrivastava plans the pages and keeps the project on schedule. Because the builders and the SEO person are the same small team, launch-day checks and early fixes happen without handoffs.`,
-        `Whatever you choose, keep ownership in your hands from the first day: the domain registered to your business, hosting in your account, Search Console and Analytics owned by you, and the code delivered to you. After launch, you get five months of free maintenance, then maintenance from ${P.care} if you want it, and monthly SEO from ${P.seo} is optional and separate.`,
+        `Whatever you choose, keep ownership in your hands from the first day: the domain registered to your business, hosting in your account, Search Console and Analytics owned by you, and the code delivered to you. After launch, you get two months of free maintenance, then maintenance from ${P.care} if you want it, and monthly SEO from ${P.seo} is optional and separate.`,
       ],
       after: [
         `If you are an early-stage company rather than a local business, <a href='/seo-for-startups/'>SEO for startups</a> covers product-led and content-led approaches for new domains.`,
@@ -436,9 +436,9 @@ const content: FreelanceContent = {
     { question: "Will changing my new website later hurt SEO?", answer: "Changing content and design is normal and healthy. Changing URLs without redirects is what hurts, because Google and any links still point at the old addresses. That is why URL structure should be settled before launch. If URLs must change, map each old URL to its new equivalent with a permanent redirect." },
     { question: "Do you build new websites with SEO included?", answer: `Yes. Every site we build has SEO in the templates: clean URLs, titles and headings, structured data, sitemap, mobile speed and a launch-day checklist. Static sites start at ${P.site} and structured SEO sites at ${P.seoSite}. Ongoing monthly SEO after launch is optional, from ${P.seo}.` },
     { question: "How does a new website appear in AI Overviews or ChatGPT answers?", answer: "The same foundations help: pages that answer questions directly, clear information about who runs the business, consistent details across the web, accurate structured data and genuine mentions elsewhere. A brand-new domain is unlikely to be cited widely at first. Nobody can guarantee inclusion in AI answers, but these habits make it more likely over time." },
-    { question: "Who owns the domain and site when you build it?", answer: "You do. The domain is registered to your business, hosting is in your account, Search Console and Analytics are owned by you, and the code is delivered to you. We are added as users with the access needed for the work. After launch you get five months of free maintenance, and ongoing support is optional." },
+    { question: "Who owns the domain and site when you build it?", answer: "You do. The domain is registered to your business, hosting is in your account, Search Console and Analytics are owned by you, and the code is delivered to you. We are added as users with the access needed for the work. After launch you get two months of free maintenance, and ongoing support is optional." },
     { question: "Nayi website ka SEO kaise shuru karein?", answer: "Launch se pehle hi plan banaiye: har service ka alag page, saaf URLs aur mobile par tez loading. Launch wale din Google Search Console verify kijiye, sitemap submit kijiye aur main pages ke liye indexing request kijiye. Phir suppliers, partners aur local directories se links lijiye. Ranking aane mein kuch mahine lagte hain, isliye pehle chhote, specific searches par dhyan dijiye." },
-    { question: "What happens in the first six months of new website SEO?", answer: "Month one covers launch, indexing and listings. Month two completes the first set of pages and tracking. Month three uses the first Search Console data to improve pages close to page one. Months four and five build links and deepen pages that are gaining ground. Month six compares enquiries with launch and sets the next plan." },
+    { question: "What happens in the first six months of new website SEO?", answer: "Month one covers launch, indexing and listings. Month two completes the first set of pages and tracking. Month three uses the first Search Console data to improve pages close to page one. Months four and five build links and deepen pages that are gaining ground. Month three compares enquiries with launch and sets the next plan." },
     { question: "Should a new local business set up a Google Business Profile before the website?", answer: "Set them up together if you can. The profile can bring calls within weeks, often before a new domain earns much organic visibility, and linking it to the website helps Google connect the two. Use exactly the same business name, address and phone number on both, and keep hours accurate from day one." },
   ],
   related: {

@@ -56,7 +56,7 @@ const narasapuram: CityContent = {
     ai: "Telugu WhatsApp assistants that answer product, stock and timing questions and route real decisions to the owner.",
     data: "Dashboards of orders by buyer, pieces received from makers, pond harvests and payments due, built from your current sheets.",
     app: "Android and iOS apps for lace buyers browsing new designs or patients booking tokens, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for changes, backups and security patches.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for changes, backups and security patches.",
   },
   whyUsIntro:
     "Delta businesses have seen enough fly-by-night vendors to be wary. We answer that wariness with published starting prices, a written quote that prices every item, WhatsApp replies seven days a week, and domain, hosting, code and app store accounts set up in your own name. When something is not worth building, we tell you before you pay for it.",
@@ -169,7 +169,7 @@ const narasapuram: CityContent = {
       heading: "Ownership and maintenance for Narasapuram websites and apps",
       paragraphs: [
         "An export catalogue that goes offline in the middle of a buyer's season can cost an order. That is why we register your domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts in your name from the first day, and hand every login over in writing. No one, including us, can hold your site hostage.",
-        "Upkeep is free for five months after launch: text and price changes, backups, security patches, software updates and regular checks of forms, payment links and WhatsApp buttons. After that, ongoing maintenance starts at ₹8,000 a month if you want it, and you are free to move to another developer at any time.",
+        "Upkeep is free for two months after launch: text and price changes, backups, security patches, software updates and regular checks of forms, payment links and WhatsApp buttons. After that, ongoing maintenance starts at ₹8,000 a month if you want it, and you are free to move to another developer at any time.",
         "Apps need yearly updates as Google and Apple change technical and privacy rules. We track those deadlines and update your app in time so it stays in both stores. You also receive a short setup note, so any future developer can continue without guessing.",
       ],
     },
@@ -266,7 +266,7 @@ const narasapuram: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of upkeep come free after launch, covering edits, backups, security patches, software updates and checks of forms, payment links and WhatsApp buttons. After that, maintenance begins at ₹8,000 a month and is optional. You may move your code to another developer whenever you like.",
+        "Two months of upkeep come free after launch, covering edits, backups, security patches, software updates and checks of forms, payment links and WhatsApp buttons. After that, maintenance begins at ₹8,000 a month and is optional. You may move your code to another developer whenever you like.",
     },
     {
       question: "Do you work in Palakollu, Bhimavaram and Razole as well?",

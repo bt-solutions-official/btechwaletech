@@ -30,11 +30,11 @@ const bilaspur: CityContent = {
     eyebrow: "Bilaspur · Chhattisgarh",
     h1: "Websites, software, SEO and AI tools for Bilaspur's courts, mills and markets",
     lede:
-      "A three-engineer remote team building websites, business software and WhatsApp automation for Bilaspur law chambers, rice and dal mills, suppliers to SECL and the railways, hospitals and Vyapar Vihar traders. Prices are published before you ask, you speak to the engineers, and upkeep is free for five months after launch.",
+      "A three-engineer remote team building websites, business software and WhatsApp automation for Bilaspur law chambers, rice and dal mills, suppliers to SECL and the railways, hospitals and Vyapar Vihar traders. Prices are published before you ask, you speak to the engineers, and upkeep is free for two months after launch.",
     pills: ["Sites from ₹10,000", "Advocate and clinic sites", "Mill and supplier portals", "Hindi and English pages", "Code and domain in your name"],
   },
   quickAnswer:
-    "In Bilaspur, Chhattisgarh, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000, typically delivered in one to five weeks. Ecommerce starts at ₹50,000. We are a remote team of three engineers with no Bilaspur office, and each project comes with hosting setup, basic SEO and five months of free maintenance.",
+    "In Bilaspur, Chhattisgarh, our websites start at ₹10,000 and a 299+ page SEO site at ₹20,000, typically delivered in one to five weeks. Ecommerce starts at ₹50,000. We are a remote team of three engineers with no Bilaspur office, and each project comes with hosting setup, basic SEO and two months of free maintenance.",
   snapshot: [
     { label: "Institutions", value: "Seat of the High Court of Chhattisgarh; headquarters of South East Central Railway and South Eastern Coalfields Ltd" },
     { label: "Industrial areas", value: "Sirgitti, Tifra and Silpahri, with manufacturing, chemical and sponge iron units" },
@@ -51,10 +51,10 @@ const bilaspur: CityContent = {
     ai: "WhatsApp auto-replies, lead sorting and AI assistants that answer routine questions in Hindi, freeing staff at hospitals, coaching centres and showrooms.",
     data: "Dashboards for paddy procurement, mill output, dealer sales or tender pipelines, built on the spreadsheets you already use.",
     app: "Android and iOS apps for client updates, bookings and field staff reporting, listed on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups, security fixes and monitoring.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups, security fixes and monitoring.",
   },
   whyUsIntro:
-    "Bilaspur has plenty of people who can make a website, and very few who tell you the price up front or stay reachable a year later. We publish our starting rates, give a written quote, reply on WhatsApp all week, and remain responsible for your site for five months after launch at no charge.",
+    "Bilaspur has plenty of people who can make a website, and very few who tell you the price up front or stay reachable a year later. We publish our starting rates, give a written quote, reply on WhatsApp all week, and remain responsible for your site for two months after launch at no charge.",
   pricingIntro:
     "These are the real starting points for our work in Bilaspur. A two-advocate chamber needs far less than a rice mill wanting dealer logins and dispatch tracking, and the quote will spell out each item so you can see where the money goes before approving anything.",
   sections: [
@@ -185,7 +185,7 @@ const bilaspur: CityContent = {
       paragraphs: [
         "Many Bilaspur businesses that come to us have the same problem: the old site was built on a developer's hosting, the domain is in his name, and he no longer answers. Getting back control means paperwork with registrars and, often, starting from scratch on a new domain.",
         "We do it differently from the start. Your domain is registered in your name, your hosting account is yours, and at launch you receive all logins and the code, together with a one-page note explaining how everything fits. Moving to another developer later is your decision, and it costs you nothing extra.",
-        "The first five months after launch include free maintenance: text and price edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start at ₹8,000 a month, or you can contact us only when you need a change.",
+        "The first two months after launch include free maintenance: text and price edits, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start at ₹8,000 a month, or you can contact us only when you need a change.",
       ],
     },
   ],
@@ -267,7 +267,7 @@ const bilaspur: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle content and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle content and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "How long before SEO brings enquiries in Bilaspur?",

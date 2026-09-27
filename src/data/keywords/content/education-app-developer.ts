@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Typical version one", "6–10 weeks"],
     ["Built with", "Flutter or React Native, one codebase"],
     ["Store accounts", "Play Console and App Store Connect in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
     ["Quote", "Itemised in about 2 working days"],
   ],
   stats: [
     { value: "2", label: "Stores published to: Google Play and App Store" },
     { value: "3", label: "Developers who know your app" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Web learning platform", value: `From ${P.software}, 6–12 weeks` },
       { label: "Platforms", value: "Android and iOS from one codebase" },
       { label: "Accounts", value: "Play Console, App Store Connect, servers in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your app, your student list and your lectures are the business, so they must sit in accounts you control. Many institutes discover too late that a white-label provider owns the store listing and the student database.`,
         `We publish under your own Google Play Console and Apple Developer accounts, set up hosting and the video service in your name, and keep source code in a repository you can access. You pay those services directly. If you ever want to change developer, the new team can pick up from the same accounts without re-uploading courses or asking students to reinstall.`,
-        `At handover you receive the source code, admin logins, server and video service access, a list of every paid service with renewal dates, and notes on how to publish updates. The first five months after launch include free maintenance for fixes and small changes; after that, care continues from ${P.care} only if you want it.`,
+        `At handover you receive the source code, admin logins, server and video service access, a list of every paid service with renewal dates, and notes on how to publish updates. The first two months after launch include free maintenance for fixes and small changes; after that, care continues from ${P.care} only if you want it.`,
       ],
     },
     {
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       heading: "Coaching ke liye app banwana hai? Seedhi baat",
       paragraphs: [
         `Pehle tay kijiye app mein kya chahiye: recorded lectures, notes, test series ya live class. Pehle version mein sirf zaroori cheezein rakhiye, taaki app 6–10 hafte mein Play Store aur App Store par aa jaye. Android aur iOS app ${P.app} se shuru hota hai.`,
-        `App aapke apne Play Console aur App Store account mein publish hota hai, aur students ka data aapke server par rehta hai. Video ko signed links aur device limit se protect karte hain. Launch ke baad 5 mahine maintenance free hai. Sawal WhatsApp par Hindi ya English mein poochiye.`,
+        `App aapke apne Play Console aur App Store account mein publish hota hai, aur students ka data aapke server par rehta hai. Video ko signed links aur device limit se protect karte hain. Launch ke baad 2 mahine maintenance free hai. Sawal WhatsApp par Hindi ya English mein poochiye.`,
       ],
     },
   ],
@@ -352,7 +352,7 @@ const content: FreelanceContent = {
       ["Set up your accounts", "Play Console, Apple Developer, hosting and the video service are opened in your name. Nothing is billed before you approve the estimate in writing."],
       ["Build with test builds on phones", "You receive internal test builds on Android and TestFlight on iPhone as features land, while your team uploads lectures and imports questions."],
       ["Pilot, then publish", "A small group of students tries the app. We fix what they find, prepare store listings and privacy labels, and submit for review."],
-      ["Five months of free care", "After launch we handle fixes, store updates and small changes free for five months, then care continues from " + P.care + " if you choose."],
+      ["Two months of free care", "After launch we handle fixes, store updates and small changes free for two months, then care continues from " + P.care + " if you choose."],
     ],
   },
   faqHeading: "Education app development: questions people ask",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Do education apps for children need special rules?", answer: "Yes. In India the Digital Personal Data Protection Act, 2023 requires verifiable parental consent before processing a child’s personal data and restricts tracking and targeted ads aimed at children. Google Play’s Families policies and Apple’s Kids category rules also limit ads, analytics and data sharing. We keep data collection minimal and plan a consent step." },
     { question: "What are the monthly running costs of an education app?", answer: "The main ones are video storage and streaming, which usually dominate, live class provider fees if you use live sessions, server hosting, OTP SMS charges and annual store developer fees. Costs grow with students and watch hours. We estimate them for your expected numbers alongside the build quote, so the monthly bill is predictable." },
     { question: "Can you add AI features to an education app?", answer: `Yes, as a separate module starting at ${P.ai}. Useful examples include answering doubts from your own notes, generating practice questions from a chapter, and checking short written answers. We keep AI answers grounded in your material and recommend teacher review for anything used in marks, since AI can still make mistakes.` },
-    { question: "Is maintenance included after the app launches?", answer: `Yes. The first five months after launch include free maintenance: bug fixes, updates for new Android and iOS versions, store policy changes and small edits. After that, maintenance continues from ${P.care} if you want it. You can also take over the app with another developer using the handover documents.` },
+    { question: "Is maintenance included after the app launches?", answer: `Yes. The first two months after launch include free maintenance: bug fixes, updates for new Android and iOS versions, store policy changes and small edits. After that, maintenance continues from ${P.care} if you want it. You can also take over the app with another developer using the handover documents.` },
     { question: "Do I need to meet an education app developer in person?", answer: "No. Education apps are planned on video calls, reviewed through test builds on your own phone and discussed on WhatsApp. What matters more is that the developer understands tests, video protection and store rules. BtechWaleTech works remotely with institutes across India and abroad with the same process everywhere." },
     { question: "Coaching institute ka app banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath Android aur iOS coaching app ${P.app} se shuru hota hai, jisme login, video lectures, notes, test series aur admin panel hota hai. Live class, video DRM ya online fee payment alag line mein price hote hain. Pehla version 6–10 hafte mein Play Store aur App Store par aa jaata hai.` },
     { question: "Should I build an app, a website, or both for my institute?", answer: `A website is best for admissions, course information and search visibility; an app is best for enrolled students watching lectures and taking tests every week. Many institutes start with a website from ${P.site} to attract students and add an app once they have content and students ready to use it regularly.` },
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an education app? Tell us how you teach",
-    note: `Send a short description of your students, courses and fee model on WhatsApp. You will get an itemised estimate with version one and version two separated in about two working days. Education apps start at ${P.app}, published in your own store accounts, with five months of free maintenance after launch.`,
+    note: `Send a short description of your students, courses and fee model on WhatsApp. You will get an itemised estimate with version one and version two separated in about two working days. Education apps start at ${P.app}, published in your own store accounts, with two months of free maintenance after launch.`,
   },
 };
 

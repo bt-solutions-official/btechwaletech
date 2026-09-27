@@ -32,10 +32,10 @@ const amreli: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Amreli businesses",
     lede:
       "Three remote engineers building websites, Google listings, online stores and WhatsApp tools for Amreli and its talukas. We work with groundnut and cotton traders at the market yard, oil mills and ginning units, diamond polishing workshops, clinics and hospitals, schools and coaching classes, and shops around Rajkamal Chowk, Nagnath Road and Manekpara.",
-    pills: ["Websites from ₹10,000", "Gujarati and English pages", "Trader and oil mill sites", "Clinic and school sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Gujarati and English pages", "Trader and oil mill sites", "Clinic and school sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "An Amreli business can get a static website from us starting at ₹10,000, usually ready in one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp or AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no Amreli office, and maintenance is free for the first five months.",
+    "An Amreli business can get a static website from us starting at ₹10,000, usually ready in one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp or AI automation at ₹40,000, and online stores at ₹50,000. We are a remote team with no Amreli office, and maintenance is free for the first two months.",
   snapshot: [
     { label: "Position", value: "District headquarters in Saurashtra, Gujarat; the city had about 1.18 lakh people in 2011" },
     { label: "History", value: "Developed under Gaekwad rule of Baroda; introduced free, compulsory education in 1886" },
@@ -52,7 +52,7 @@ const amreli: CityContent = {
     ai: "WhatsApp replies in Gujarati or English for rates, stock, OPD timings and admissions, with bulk orders passed to a person.",
     data: "Dashboards for daily arrivals, oil and cake output, sales or admissions, built from the books and sheets you already use.",
     app: "Android and iPhone apps for field buyers, delivery staff and workshop supervisors, running on ordinary phones and listed on both Google Play and the App Store.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:
     "Amreli's businesses are old and well known locally, but many are hard to find online, especially for buyers outside Saurashtra. A clear Gujarati and English website and an accurate Google listing change that. We publish starting prices, reply on WhatsApp seven days a week and register everything in the client's own name.",
@@ -181,8 +181,8 @@ const amreli: CityContent = {
       paragraphs: [
         "Plenty of Saurashtra businesses have learnt the hard way that whoever registers the domain controls the website. When that person moves on, the site dies with him. For that reason, your domain and hosting are registered in your own name on day one, and at launch you receive the logins and a copy of the code.",
         "Nothing ties you to us afterwards. If you prefer another developer next year, you simply give them the logins; there is no transfer charge and no permission needed.",
-        "Maintenance is free for five months after the site goes live. During that time we make text and price edits, fix anything that breaks, apply security updates, run backups and watch uptime. Those months are when owners notice what they want changed, such as a new product line, new fees for the school year or a doctor added to the panel.",
-        "From the sixth month, you can choose ongoing care from ₹8,000 a month or call on us per job. Every change comes with a short note of what was done. See the <a href=\"/services/web-development/\">web development page</a> for how we build, or <a href=\"/contact/\">write to us</a> with your business name to begin.",
+        "Maintenance is free for two months after the site goes live. During that time we make text and price edits, fix anything that breaks, apply security updates, run backups and watch uptime. Those months are when owners notice what they want changed, such as a new product line, new fees for the school year or a doctor added to the panel.",
+        "From the third month, you can choose ongoing care from ₹8,000 a month or call on us per job. Every change comes with a short note of what was done. See the <a href=\"/services/web-development/\">web development page</a> for how we build, or <a href=\"/contact/\">write to us</a> with your business name to begin.",
       ],
     },
   ],
@@ -264,7 +264,7 @@ const amreli: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch, we handle text and price changes, fixes, security updates, backups and uptime checks at no cost. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need a change and pay for that job alone.",
+        "For two months after launch, we handle text and price changes, fixes, security updates, backups and uptime checks at no cost. After that, maintenance starts at ₹8,000 a month, or you can contact us only when you need a change and pay for that job alone.",
     },
     {
       question: "Do you work in Savarkundla, Babra, Rajula and Dhari as well?",

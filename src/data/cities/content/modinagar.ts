@@ -31,11 +31,11 @@ const modinagar: CityContent = {
     eyebrow: "Modinagar · Uttar Pradesh",
     h1: "Web, app, SEO and automation services for Modinagar's schools, clinics, shops and industrial suppliers",
     lede:
-      "We are a remote team of three engineers building websites, Google Maps visibility, online stores and WhatsApp workflows for Modinagar, the old Modi industrial township between Ghaziabad and Meerut. Schools in Govindpuri, shops on the highway, clinics, coaching centres and factory vendors get published prices, direct access to the developers and five months of free upkeep.",
+      "We are a remote team of three engineers building websites, Google Maps visibility, online stores and WhatsApp workflows for Modinagar, the old Modi industrial township between Ghaziabad and Meerut. Schools in Govindpuri, shops on the highway, clinics, coaching centres and factory vendors get published prices, direct access to the developers and two months of free upkeep.",
     pills: ["Websites from ₹10,000", "School and coaching sites", "Hindi and English pages", "Google Maps fixes", "WhatsApp enquiry logging"],
   },
   quickAnswer:
-    "For a Modinagar business, a website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Modinagar office, and maintenance is free for five months after launch.",
+    "For a Modinagar business, a website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely with no Modinagar office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Ghaziabad district in the National Capital Region, roughly midway between Ghaziabad and Meerut" },
     { label: "Origin", value: "Formerly Begumabad; renamed Modinagar in 1945 after Gujarmal Modi, who began building industry here in 1933" },
@@ -52,10 +52,10 @@ const modinagar: CityContent = {
     ai: "WhatsApp replies for fee queries, OPD timings, batch schedules or stock questions in Hindi and English, with each lead saved to a sheet.",
     data: "Simple dashboards for admissions by class, fee collection, sales or pending orders, readable on a phone.",
     app: "Android and iOS apps for school notices, coaching test schedules and customer reorders, built once and released on both stores.",
-    maintenance: "Five months of free updates, backups and security fixes after launch, then from ₹8,000 a month or pay only when you need changes.",
+    maintenance: "Two months of free updates, backups and security fixes after launch, then from ₹8,000 a month or pay only when you need changes.",
   },
   whyUsIntro:
-    "Modinagar businesses sit between two big markets and usually get quotes from agencies in Ghaziabad, Noida or Meerut that price like Delhi firms. We publish our prices, reply on WhatsApp seven days a week, register the domain in your name and maintain the site free for five months after launch.",
+    "Modinagar businesses sit between two big markets and usually get quotes from agencies in Ghaziabad, Noida or Meerut that price like Delhi firms. We publish our prices, reply on WhatsApp seven days a week, register the domain in your name and maintain the site free for two months after launch.",
   pricingIntro:
     "These are our real starting prices for Modinagar, the same as everywhere we work. The final quote depends on pages, features and content, and you receive it in writing, item by item, before any work begins. Nothing is billed without your written approval.",
   sections: [
@@ -174,10 +174,10 @@ const modinagar: CityContent = {
     },
     {
       id: "modinagar-ownership",
-      heading: "You own the site; we look after it for five months",
+      heading: "You own the site; we look after it for two months",
       paragraphs: [
         "The domain and hosting are registered in your name from the first day. At launch you get every login, the full source code and a short written guide to the setup, so any developer can take over later without an exit fee or our permission.",
-        "For five months after launch, maintenance costs nothing: text and fee updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it is from ₹8,000 a month, or you can skip the plan and pay only when you need a change made.",
+        "For two months after launch, maintenance costs nothing: text and fee updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that it is from ₹8,000 a month, or you can skip the plan and pay only when you need a change made.",
         "If you already have an old site, we check which pages bring visitors and set up redirects before switching, so you do not lose the search visibility you have. Our <a href=\"/services/web-development/\">web development page</a> explains a typical build step by step.",
       ],
     },
@@ -264,7 +264,7 @@ const modinagar: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content and price or fee updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need a change and pay just for that work.",
+        "For two months after launch we handle content and price or fee updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no cost. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need a change and pay just for that work.",
     },
     {
       question: "How soon will SEO bring results in Modinagar?",

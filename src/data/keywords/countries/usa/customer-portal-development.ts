@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who design, build and support your portal" },
     { value: "2", label: "Working days to an itemised portal estimate" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-seat licence fees for a portal you own" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Staff side", value: "Client records, task and request tracking, templates, reports, permissions" },
       { label: "Security", value: "Multi-factor login, encryption in transit and at rest, audit logs, session timeouts" },
       { label: "Integrations", value: "QuickBooks Online, e-signature services, CRM, calendar, email and SMS" },
-      { label: "Starting price", value: `From ${P.software}; care from ${P.care} after 5 free months` },
+      { label: "Starting price", value: `From ${P.software}; care from ${P.care} after 2 free months` },
       { label: "Compliance", value: "Built to support your obligations; your counsel confirms compliance" },
     ],
   },
@@ -194,7 +194,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, customer portal development starts at ${P.software} for a first release with secure logins, roles, document requests and uploads, and a staff dashboard. E-signature, invoice sync, messaging, single sign-on, regulated-data controls and a mobile app each add to the estimate.`,
         `The main cost drivers are the number of roles and how finely permissions are split, the number and complexity of integrations, whether data is regulated, how much reporting staff need, and whether existing client data must be migrated from spreadsheets or an old system. A portal for one kind of client with a simple checklist is at the lower end; a multi-location firm with several client types, approval chains and three integrations is at the higher end.`,
-        `Running costs are separate and paid to providers directly: cloud hosting, e-signature plans, payment processing fees, email and SMS delivery. Other developers' quotes vary widely, usually because of assumptions about security work, testing and support. Compare quotes against the same module list, and ask each bidder how they would handle audit logs and MFA, since those are where cheap portals cut corners. After five months of free maintenance, our care plans start at ${P.care}.`,
+        `Running costs are separate and paid to providers directly: cloud hosting, e-signature plans, payment processing fees, email and SMS delivery. Other developers' quotes vary widely, usually because of assumptions about security work, testing and support. Compare quotes against the same module list, and ask each bidder how they would handle audit logs and MFA, since those are where cheap portals cut corners. After two months of free maintenance, our care plans start at ${P.care}.`,
       ],
     },
     {
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your firm owns the portal: the code in your GitHub, the cloud account, the database, the files, the domain and every integration account. We work with invited, least-privilege access that you can remove at any time.`,
         `At handover you receive architecture notes, a list of every service and who pays for it, runbooks for common tasks such as adding a staff user or restoring a file, and a recorded walkthrough of the admin screens. Credentials live in your password manager and your cloud secret store, not in our inboxes. Intellectual property and confidentiality terms are written into your quote.`,
-        `Portals need steady care: security updates for libraries, renewals of certificates and keys, changes when integration APIs evolve, and small features as staff ask for them. The first five months after launch are free. After that, care plans start at ${P.care}, or you can move maintenance to your own IT provider using the handover pack.`,
+        `Portals need steady care: security updates for libraries, renewals of certificates and keys, changes when integration APIs evolve, and small features as staff ask for them. The first two months after launch are free. After that, care plans start at ${P.care}, or you can move maintenance to your own IT provider using the handover pack.`,
       ],
     },
     {
@@ -348,7 +348,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "You create the cloud account, domain records and integration accounts, then invite us with limited access. Confidentiality terms are signed first."],
       ["Discovery and clickable screens", "We map your process, agree the role matrix and show clickable screens for the main client journey before building."],
       ["Build in demoable slices", "Logins and roles, documents, signatures and invoices, then messaging and reports, each demoed on a staging portal you can try."],
-      ["Soft launch, then everyone", "A small group of clients goes first, staff are trained, fixes are made, then all clients are invited. Five free months of maintenance follow."],
+      ["Soft launch, then everyone", "A small group of clients goes first, staff are trained, fixes are made, then all clients are invited. Two free months of maintenance follow."],
     ],
   },
   faqHeading: "Customer portal development: questions from US service businesses",
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
     { question: "Can you migrate our existing client files into the new portal?", answer: "Usually, yes. We import clients and documents from spreadsheets, shared drives or an older portal's export, map them to the right client records, and run a test import before the real one. The effort depends on how organised the source data is, so it appears as its own line in the estimate." },
     { question: "Why hire a team in India to build a US customer portal?", answer: "A small remote team can build the same portal for a lower starting price, and you talk directly with the developers. The trade-offs are no in-person meetings and a time difference; we overlap with US Eastern mornings and early Pacific calls, and you can click through progress on a staging portal at any hour." },
     { question: "How do contracts and payments work?", answer: "You receive a written quote in USD with modules, milestones and terms; nothing is billed before you approve it. Payment is by bank wire, Wise or PayPal, and invoices come from India. Confidentiality and intellectual property terms are included, and our terms and refund policy pages explain the general basis." },
-    { question: "What maintenance does a customer portal need?", answer: `Security updates for libraries and frameworks, certificate and key renewals, changes when QuickBooks or e-signature APIs evolve, backup checks and small features staff request. The first five months after launch are free; after that, care plans start at ${P.care}, or your own IT provider can take over using the handover pack.` },
+    { question: "What maintenance does a customer portal need?", answer: `Security updates for libraries and frameworks, certificate and key renewals, changes when QuickBooks or e-signature APIs evolve, backup checks and small features staff request. The first two months after launch are free; after that, care plans start at ${P.care}, or your own IT provider can take over using the handover pack.` },
     { question: "Can the portal use AI to sort documents?", answer: `Yes. AI can classify uploads, pull key fields from forms, flag missing pages and draft reminder messages, with staff approving the results. AI features start from ${P.ai}. For regulated data, the AI provider and its terms must be approved by your organisation first, and sensitive fields can be excluded entirely.` },
     { question: "What do you not do on portal projects?", answer: "We do not give legal or compliance sign-off, sign business associate agreements, provide on-site setup or hardware, or act as your IT help desk for staff computers. We build and maintain the portal software and its cloud setup, and say clearly in the estimate when something falls outside that." },
   ],

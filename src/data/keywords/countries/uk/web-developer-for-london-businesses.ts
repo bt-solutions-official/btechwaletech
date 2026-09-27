@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "0", label: "London offices: we work fully remotely" },
     { value: "3", label: "Developers you speak to directly" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "How much does a web developer in London cost, and is a remote team a real alternative?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "London local SEO", note: "Google Business Profile, borough-level service pages and technical fixes for businesses competing in dense London search results.", href: "/uk/local-seo-services/", size: "md" },
       { name: "Redesigns", note: "Older sites rebuilt for speed and clarity without losing rankings.", href: "/uk/website-redesign-services/", size: "sm" },
       { name: "White-label for London agencies", note: "Development capacity for design studios that sell under their own name.", href: "/white-label-web-development/", size: "sm" },
-      { name: "Maintenance", note: `Five free months after launch, then care from ${P.care}.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Maintenance", note: `Two free months after launch, then care from ${P.care}.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What London businesses pay us",
-    note: `Our prices are the same wherever the client is based: websites from ${P.site}, SEO websites of 299+ pages from ${P.seoSite}, online shops from ${P.shop}, web apps and portals from ${P.software}, AI automation from ${P.ai}, monthly SEO from ${P.seo}, and maintenance from ${P.care} after five free months. Every figure is a starting price; your quote depends on pages, features, integrations and content. Quotes come in USD and you pay from GBP by Wise, bank wire or PayPal. We do not quote other developers’ or agencies’ rates, because they vary widely; the guide below explains what drives London pricing so you can compare fairly.`,
+    note: `Our prices are the same wherever the client is based: websites from ${P.site}, SEO websites of 299+ pages from ${P.seoSite}, online shops from ${P.shop}, web apps and portals from ${P.software}, AI automation from ${P.ai}, monthly SEO from ${P.seo}, and maintenance from ${P.care} after two free months. Every figure is a starting price; your quote depends on pages, features, integrations and content. Quotes come in USD and you pay from GBP by Wise, bank wire or PayPal. We do not quote other developers’ or agencies’ rates, because they vary widely; the guide below explains what drives London pricing so you can compare fairly.`,
   },
   guideLabel: "Hiring a web developer in London: an honest guide",
   guide: [
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
         ["Web app or client portal", "Professional services, property", `From ${P.software}`, "6–12 weeks"],
         ["AI automation", "Enquiry triage, reporting, document handling", `From ${P.ai}`, "2–4 weeks"],
         ["Monthly local SEO", "Any business competing locally", `From ${P.seo}`, "Ongoing"],
-        ["Maintenance after 5 free months", "Any site we build", `From ${P.care}`, "Monthly"],
+        ["Maintenance after 2 free months", "Any site we build", `From ${P.care}`, "Monthly"],
       ],
     },
     {
@@ -379,13 +379,13 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting, analytics and repository are set up or confirmed under your ownership before building, so everything stays yours from the start."],
       ["Build on staging", "Pages appear on a private staging link. You review on your own devices, comment in a shared document or on WhatsApp, and join a short weekly call."],
       ["Launch and redirects", "Speed and accessibility checks, redirects from any old URLs, analytics and Search Console verified, then launch at a quiet time of your choosing."],
-      ["Care and growth", "Five months of free fixes, then optional maintenance and local SEO. Monthly reports explain what changed and what to do next."],
+      ["Care and growth", "Two months of free fixes, then optional maintenance and local SEO. Monthly reports explain what changed and what to do next."],
     ],
   },
   faqHeading: "Web developer London: common questions",
   faqs: [
     { question: "How much does a web developer in London cost?", answer: "London developers charge by the day or by project, and quotes vary widely with seniority, overheads and how clearly the project is scoped. Agencies usually cost more because their quotes include studio, account management and sales. Compare total project prices rather than day rates, and ask each supplier to itemise what is included so you are comparing like with like." },
-    { question: "What does BtechWaleTech charge London businesses?", answer: `The same starting prices as any client: websites from ${P.site}, SEO websites of 299+ pages from ${P.seoSite}, online shops from ${P.shop}, web apps from ${P.software}, monthly SEO from ${P.seo} and maintenance from ${P.care} after five free months. Quotes are itemised in USD and you pay from GBP by Wise, bank wire or PayPal.` },
+    { question: "What does BtechWaleTech charge London businesses?", answer: `The same starting prices as any client: websites from ${P.site}, SEO websites of 299+ pages from ${P.seoSite}, online shops from ${P.shop}, web apps from ${P.software}, monthly SEO from ${P.seo} and maintenance from ${P.care} after two free months. Quotes are itemised in USD and you pay from GBP by Wise, bank wire or PayPal.` },
     { question: "Do you have an office in London?", answer: "No. We are three freelance developers working remotely from India, with no London office and no site visits. All meetings happen on Teams, Zoom or Google Meet, and day-to-day messages go through WhatsApp, answered seven days a week. If your project needs someone at your premises, a local developer is the better choice." },
     { question: "Is it better to hire a local web developer in London or a remote one?", answer: "Hire locally if you need in-person workshops, on-site work or a UK-registered supplier. Hire remotely if your project can run on video calls and a staging site and you want good value. Many London businesses already work with remote colleagues, so a remote developer fits naturally. Ownership and communication matter more than postcode." },
     { question: "What hours can I reach you from London?", answer: "Our working day overlaps with London from late morning into the evening. India is four and a half hours ahead in summer and five and a half in winter. Calls fit best between late morning and late afternoon, London time. Work done during our morning is waiting when you start, and WhatsApp messages are answered seven days a week." },
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Can you redesign my existing London business website without losing rankings?", answer: "Yes. We crawl the existing site, map every URL to its new equivalent with 301 redirects, keep titles and descriptions that perform, and monitor Search Console after launch. Some short-term fluctuation is normal after any redesign, but careful redirects keep it small." },
     { question: "Do you offer white-label development for London design agencies?", answer: "Yes. London studios that design in-house but need development capacity can brief us under their own brand. We build to their designs, work in their tools and stay invisible to their clients if they prefer. Our white-label web development page explains how it works." },
     { question: "Can my website appear in AI search answers?", answer: "It can help its chances. AI search tools draw on pages that are crawlable, clearly structured and specific. We write direct answers to common questions, add structured data, keep pages fast, and make sure facts such as services, areas and prices are stated plainly. No one controls whether an AI tool cites a page, but clear, well-organised content is more likely to be used." },
-    { question: "What if I only need a small change to my London website?", answer: `Small fixes and changes are fine. Tell us what you need on WhatsApp and we will say whether it fits a quick one-off job or a care plan from ${P.care}. For sites we built, fixes are free for the first five months after launch.` },
+    { question: "What if I only need a small change to my London website?", answer: `Small fixes and changes are fine. Tell us what you need on WhatsApp and we will say whether it fits a quick one-off job or a care plan from ${P.care}. For sites we built, fixes are free for the first two months after launch.` },
   ],
   related: {
     heading: "More pages for London and UK businesses",

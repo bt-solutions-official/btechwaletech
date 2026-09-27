@@ -56,7 +56,7 @@ const nanjangud: CityContent = {
     ai: "Kannada WhatsApp assistants that answer room, hall booking, rate and admission questions and pass decisions to you.",
     data: "Dashboards of jobs by customer, trips by vehicle, hall bookings by month or produce sold by grade.",
     app: "Android and iOS apps for vendor staff, devotees booking rooms or a school's parents, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for edits, backups and updates.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for edits, backups and updates.",
   },
   whyUsIntro:
     "Nanjangud businesses deal with two very different customers: plant purchase teams who want paperwork in order, and pilgrims or farmers who want a quick, honest answer. We work for both: public starting prices, an itemised written quote, no bill before approval, WhatsApp replies seven days a week, and every account registered to you.",
@@ -167,7 +167,7 @@ const nanjangud: CityContent = {
       heading: "Website cost in Nanjangud: starting prices and what to check",
       paragraphs: [
         "A simple site for a shop, lodge, clinic or vendor, up to 100 pages, starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site, useful for a school group or a dealer with a big range, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation.",
-        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as attendance, trip or booking systems starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after five free months.",
+        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software such as attendance, trip or booking systems starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000, and maintenance starts at ₹8,000 a month after two free months.",
         "The quote grows only with what you choose: Kannada and English versions, many rooms or products, delivery rules, staff logins, Tally links. Each is a line you can accept or remove. If you send your own text and photographs, the cost barely moves.",
         "Quotes around Mysuru vary widely for jobs that sound alike. Compare who owns the domain, whether the site is tested on low-cost phones, whether on-page SEO is included, how many revisions you get and the cost of support after a year. Your itemised quote from us comes in about two working days; ask via our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -186,7 +186,7 @@ const nanjangud: CityContent = {
       heading: "Ownership and maintenance for Nanjangud websites and apps",
       paragraphs: [
         "A plant vendor, a lodge owner and a school trust all ask us the same thing sooner or later: who holds the keys? The answer is you. Domain registration sits on your email address, the hosting invoice carries your firm's name, the repository with the full source code is shared with you, and the Play Console, Apple developer and Google Business Profile accounts are opened under your ownership. A signed handover note lists each credential.",
-        "Upkeep costs nothing for the first five months once the site or app is live. In that window we change room rates and festival notices, keep backups, patch the software stack and test that enquiry forms, UPI checkout and WhatsApp links still respond. When it ends, pick what suits you: a plan with us from ₹8,000 a month, an in-house person, or a different developer entirely.",
+        "Upkeep costs nothing for the first two months once the site or app is live. In that window we change room rates and festival notices, keep backups, patch the software stack and test that enquiry forms, UPI checkout and WhatsApp links still respond. When it ends, pick what suits you: a plan with us from ₹8,000 a month, an in-house person, or a different developer entirely.",
         "Store apps age even when untouched, since Apple and Google periodically lift the minimum OS and SDK levels they accept. We watch those notices and push a rebuild before the cut-off, so a devotee searching for your lodge app never finds it delisted.",
       ],
     },
@@ -278,7 +278,7 @@ const nanjangud: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering edits, backups, security and version updates, and checks on forms, UPI and WhatsApp links. After that you may continue with us from ₹8,000 a month or move on. Since the code and accounts are yours, switching needs no permission from us.",
+        "Two months of maintenance are free after launch, covering edits, backups, security and version updates, and checks on forms, UPI and WhatsApp links. After that you may continue with us from ₹8,000 a month or move on. Since the code and accounts are yours, switching needs no permission from us.",
     },
     {
       question: "Do you work in Mysuru, T Narsipur and Chamarajanagar too?",

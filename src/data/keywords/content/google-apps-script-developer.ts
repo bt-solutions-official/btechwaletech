@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Language", "Apps Script (JavaScript, V8)"],
     ["Runs on", "Google’s servers, in your account"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free fixes"],
+    ["After launch", "2 months of free fixes"],
   ],
   stats: [
     { value: "3", label: "Developers who write and test your scripts" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "6", label: "Minutes: Apps Script’s per-run time limit we design around" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "2–4 weeks per workflow, including a test sheet" },
       { label: "Limits to respect", value: "Per-run time, daily email and URL fetch quotas" },
       { label: "Ownership", value: "Script bound to your sheet or your Drive, code handed over" },
-      { label: "Support", value: `5 months free, then optional care from ${P.care}` },
+      { label: "Support", value: `2 months free, then optional care from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Google Apps Script pricing",
-    note: `A single Apps Script workflow, such as a form that generates a PDF, files it and emails it, or a scheduled report built from several tabs, starts at ${P.ai}. Price grows with the number of sheets and services involved, the outside APIs called, how messy the existing data is, and how carefully the script must work around quotas at your volumes. A web portal built with HtmlService, or a move from Sheets to a real database, is quoted as custom software from ${P.software}. There is no Google fee for Apps Script itself beyond your existing account. Every quote is itemised per workflow, and fixes are free for five months after launch, then optional from ${P.care}.`,
+    note: `A single Apps Script workflow, such as a form that generates a PDF, files it and emails it, or a scheduled report built from several tabs, starts at ${P.ai}. Price grows with the number of sheets and services involved, the outside APIs called, how messy the existing data is, and how carefully the script must work around quotas at your volumes. A web portal built with HtmlService, or a move from Sheets to a real database, is quoted as custom software from ${P.software}. There is no Google fee for Apps Script itself beyond your existing account. Every quote is itemised per workflow, and fixes are free for two months after launch, then optional from ${P.care}.`,
   },
   guideLabel: "Google Apps Script developer guide",
   guide: [
@@ -273,7 +273,7 @@ const content: FreelanceContent = {
         `Good Apps Script code has named settings at the top (sheet names, column headers, folder IDs) instead of numbers buried in functions, looks up columns by header rather than position, logs each run and emails someone when something fails. That is what makes it maintainable by the next developer.`,
         `For anything longer than a page, our Google Apps Script developer team works locally with Google’s clasp tool and keeps the code in a Git repository you own, so changes are tracked and reversible. Deployments to the live file happen after testing on a copy. A small README explains what each function does, which triggers exist, who owns them and how to pause the automation in an emergency.`,
         `We also leave a “health” tab in the sheet: last run time, rows processed, rows failed and the reason. Staff can glance at it without opening the script editor. If the last run time is old, the trigger has stopped; if failures pile up, something upstream changed. This one tab prevents most “it stopped working and nobody noticed” stories.`,
-        `After launch you get five months of free fixes. After that, maintenance is optional from ${P.care}, useful when Google changes a service or your process changes.`,
+        `After launch you get two months of free fixes. After that, maintenance is optional from ${P.care}, useful when Google changes a service or your process changes.`,
       ],
     },
     {
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days you receive a quote per workflow with its acceptance test. Nothing is billed until you approve it in writing."],
       ["Build on a test copy", "The script is written and tested against your sample data, with logging, a health tab and alerts, in a test file inside your account."],
       ["Switch on live", "Triggers are created under the agreed account, the first live runs are watched closely, and staff get a short walkthrough of any menus or sidebars."],
-      ["Hand over and support", "You receive the code, README and repository access. Fixes are free for five months; optional care afterwards covers Google changes and new requests."],
+      ["Hand over and support", "You receive the code, README and repository access. Fixes are free for two months; optional care afterwards covers Google changes and new requests."],
     ],
   },
   faqHeading: "Google Apps Script developer: common questions",

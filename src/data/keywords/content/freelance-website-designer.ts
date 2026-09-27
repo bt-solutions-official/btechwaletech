@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Revisions", "Rounds agreed in your written quote"],
     ["Design files", "Handed to you with the code"],
     ["Launch window", "1–2 weeks for a static site"],
-    ["Aftercare", "5 months free maintenance"],
+    ["Aftercare", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelancers covering design, code and SEO" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees added to your bill" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Static website", value: `From ${P.site}, 1–2 weeks` },
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Handoff", value: "Design file, style guide, code repository, logins" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to show the flow, not a client story.`,
         `A family-run homestay in a hill town wants direct bookings instead of relying only on travel portals. The owner sends a voice note: six rooms, a garden café, a view of the valley, guests from Delhi and abroad, and most enquiries arriving on WhatsApp.`,
-        `In the first two days we agree a page list of home, rooms, café, things to do nearby, getting there, gallery and contact, and send an itemised quote starting from the static plan at ${P.site}. By day four the owner opens a home page mockup on her phone: a tall valley photo, a “Check dates on WhatsApp” button, and room cards with prices written as “from”. Her feedback, sent as one list, asks for the café higher up and larger text. The second round settles it. Inner templates follow, then code, a Hindi version of the room pages, schema for the lodging business, and launch in the second week. The five free months cover seasonal rate changes.`,
+        `In the first two days we agree a page list of home, rooms, café, things to do nearby, getting there, gallery and contact, and send an itemised quote starting from the static plan at ${P.site}. By day four the owner opens a home page mockup on her phone: a tall valley photo, a “Check dates on WhatsApp” button, and room cards with prices written as “from”. Her feedback, sent as one list, asks for the café higher up and larger text. The second round settles it. Inner templates follow, then code, a Hindi version of the room pages, schema for the lodging business, and launch in the second week. The two free months cover seasonal rate changes.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       heading: "Website designer chahiye? Aasaan shabdon mein",
       paragraphs: [
         `Pehle design dekhiye, phir website banwaiye. Hum sabse pehle aapke home page ka mockup bhejte hain jo aap apne phone par khol kar dekh sakte hain. Jo badalna ho, ek hi list mein likh kar bhejiye; kitne revision rounds honge, woh quote mein likha hota hai.`,
-        `Design pasand aane ke baad hi coding shuru hoti hai, isliye live website wahi dikhti hai jo aapne approve kiya. Poori business website ${P.site} se shuru hoti hai, aur Figma file, code aur domain sab aapke naam par rehte hain. Launch ke baad 5 mahine maintenance free hai.`,
+        `Design pasand aane ke baad hi coding shuru hoti hai, isliye live website wahi dikhti hai jo aapne approve kiya. Poori business website ${P.site} se shuru hoti hai, aur Figma file, code aur domain sab aapke naam par rehte hain. Launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
         ["Online store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Product pages and checkout"],
         ["Custom web app or portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Dashboards, forms, roles"],
         ["Android & iOS app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Screens matching the website"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New pages in the same style"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "New pages in the same style"],
       ],
       hideSm: [2],
     },
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Approve the home page mockup", "We share a clickable design link. You review it on your phone, send one consolidated list of changes, and we revise until the direction feels right."],
       ["Design the inner templates", "Service, about, contact and any special pages follow the approved style, reviewed together in a single round to keep the schedule tight."],
       ["Build and compare", "The approved designs become code on a staging link. You check the real site against the mockups before domain and hosting are switched on."],
-      ["Launch and hand over", "Domain, SSL and Search Console go live, and you receive the Figma file, style guide, code and logins, with five months of free maintenance."],
+      ["Launch and hand over", "Domain, SSL and Search Console go live, and you receive the Figma file, style guide, code and logins, with two months of free maintenance."],
     ],
   },
   faqHeading: "Freelance website designer: common questions",
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
     { question: "What should I send a freelance website designer to get started?", answer: "Send your main goal, a rough page list, your logo and brand colours, photos of your business, three to five websites you like with reasons, a description of your customers, your budget band and any fixed launch date. Even a short voice note covering these points is enough to begin and saves a revision round." },
     { question: "Can I hire a freelance website designer near me instead of remote?", answer: "You can, but design reviews work very well remotely. Mockups are shared as links you open on your phone, feedback goes on WhatsApp, and calls happen on Google Meet or Zoom. What matters is the designer's live work, process and handoff files. Choose on those first, then decide whether meeting in person still matters." },
     { question: "Will the same team design my mobile app later?", answer: `Yes, if you want. We carry the website's colours, type and components into Flutter or React Native app screens so the brand feels consistent, and publish the app in your own Play Console and App Store Connect accounts. Android and iOS apps start at ${P.app}.` },
-    { question: "What happens after the website design goes live?", answer: `You get five months of free maintenance covering small text and image changes, fixes and updates. New pages are designed in the same style using the handed-over style guide. After five months, maintenance is optional and starts at ${P.care}, or you can manage the site yourself.` },
+    { question: "What happens after the website design goes live?", answer: `You get two months of free maintenance covering small text and image changes, fixes and updates. New pages are designed in the same style using the handed-over style guide. After two months, maintenance is optional and starts at ${P.care}, or you can manage the site yourself.` },
     { question: "Website design ke liye freelancer kaise chunein?", answer: `Aise designer ko chuniye jo coding se pehle mockup dikhaye, revision rounds quote mein likhe, aur Figma file, code aur domain aapke naam par de. BtechWaleTech ke saath poori business website ${P.site} se shuru hoti hai aur lagbhag 1–2 hafte mein live hoti hai. Payment kaam dekh kar stages mein hota hai.` },
   ],
   related: {

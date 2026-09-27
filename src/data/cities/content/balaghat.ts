@@ -56,7 +56,7 @@ const balaghat: CityContent = {
     ai: "WhatsApp assistants that share paddy rates, rice stock, safari stay availability or OPD timings in Hindi.",
     data: "Dashboards of paddy bought, rice milled and dues by buyer, built from Tally exports or daily entries.",
     app: "Android and iOS apps for rice buyers to reorder or for a school's parent notices, on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free updates and backups after launch, then maintenance from ₹8,000 a month that you can cancel.",
+    maintenance: "Two months of free updates and backups after launch, then maintenance from ₹8,000 a month that you can cancel.",
   },
   whyUsIntro:
     "Balaghat business owners usually get two choices: a cheap template from someone who stops answering, or an agency in Jabalpur or Nagpur quoting far more than the job needs. We sit between those. Starting prices are public, quotes are written line by line, you own the domain and code, and WhatsApp gets a reply every day.",
@@ -168,7 +168,7 @@ const balaghat: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store for rice or produce:</strong> starts at ₹50,000, four to eight weeks.",
         "<strong>Custom mill or trading software:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000;</strong> maintenance from ₹8,000 a month after five free months.",
+        "<strong>Monthly SEO from ₹10,000;</strong> maintenance from ₹8,000 a month after two free months.",
       ],
     },
     {
@@ -186,7 +186,7 @@ const balaghat: CityContent = {
       heading: "What you own, and how maintenance works",
       paragraphs: [
         "Your domain is registered in your name and your hosting sits in your account. At launch you receive the complete source code and every password, and app developer accounts on Google Play and the App Store are yours as well. If you later hire someone in Jabalpur, Gondia or Nagpur, they can take over without our involvement.",
-        "Maintenance is free for five months after launch, covering security updates, backups, uptime checks and small edits such as new rates or timings. After that it starts at ₹8,000 a month and can be stopped anytime. Mill or trading data can be exported to Excel whenever you want it.",
+        "Maintenance is free for two months after launch, covering security updates, backups, uptime checks and small edits such as new rates or timings. After that it starts at ₹8,000 a month and can be stopped anytime. Mill or trading data can be exported to Excel whenever you want it.",
         "We also leave a short handover note in plain Hindi or English: where the domain renews, which email receives hosting bills, how to add a new rice variety or room tariff, and whom to call if the site goes down. Many Balaghat owners change phones or staff every few years, so this note, together with the passwords kept in your own records, keeps the business in control rather than dependent on one person.",
       ],
     },
@@ -234,7 +234,7 @@ const balaghat: CityContent = {
     {
       question: "Which is the best IT services team in Balaghat for a small business?",
       answer:
-        "Look for a provider who gives a written itemised quote, puts the domain and code in your name and keeps answering after launch. We do all three and publish our starting prices, with five months of free maintenance. We are a remote team, though, not a local office in the city.",
+        "Look for a provider who gives a written itemised quote, puts the domain and code in your name and keeps answering after launch. We do all three and publish our starting prices, with two months of free maintenance. We are a remote team, though, not a local office in the city.",
     },
     {
       question: "Can you build an online store for Chinnor rice?",
@@ -279,7 +279,7 @@ const balaghat: CityContent = {
     {
       question: "What happens after launch? Is maintenance included?",
       answer:
-        "The first five months after launch include free maintenance: security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled anytime. The domain, hosting, code and app accounts all remain in your name throughout.",
+        "The first two months after launch include free maintenance: security updates, backups, uptime checks and small edits. After that, maintenance starts at ₹8,000 a month and can be cancelled anytime. The domain, hosting, code and app accounts all remain in your name throughout.",
     },
     {
       question: "Can you guarantee first rank on Google in Balaghat?",

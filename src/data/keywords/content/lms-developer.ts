@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Custom build time", "6–12 weeks for version one"],
     ["Moodle route", "Setup, theme and plugins, quoted per scope"],
     ["Ownership", "Code, server and learner data in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering LMS code, cloud video and data" },
     { value: "2", label: "Routes compared honestly: custom or Moodle" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Per-learner licence fees on a custom LMS we build" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Custom LMS from", value: `${P.software} (${P.softwareUsd})` },
       { label: "Learner app from", value: `${P.app} (${P.appUsd})` },
       { label: "Custom timeline", value: "6–12 weeks for a focused version one" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
         ["Course-selling website", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
         ["AI study helpers", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Moodle setup and theming", "Quoted per scope", "Quoted per scope", "Usually weeks, not months"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
       ["Approve an itemised quote", "Each module is priced separately: video, tests, payments, app, admin. Drop or defer any line; nothing is billed before your written approval."],
       ["Build and review with real teachers", "Two-week slices on a staging site, checked by a couple of teachers and students. Accounts, servers and storage stay in your name throughout."],
       ["Pilot batch, then full launch", "A small batch uses the LMS for two or three weeks. We fix what they find, run a load check for test days, then open it to everyone."],
-      ["Handover and five free months", "You receive code, guides and admin training. Fixes are free for five months; maintenance then continues from " + P.care + " if you want it."],
+      ["Handover and two free months", "You receive code, guides and admin training. Fixes are free for two months; maintenance then continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "LMS developer: questions institutes ask",
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
     { question: "Is an LMS developer better than a hosted course platform?", answer: "A hosted course platform is quick and cheap to start, which suits solo creators testing an idea. As you grow, subscription fees, sales cuts, limited test formats and data on someone else’s platform often become constraints. An LMS developer builds or configures a system you own, which pays off once the platform is central to your business." },
     { question: "How do payments work when hiring an LMS developer?", answer: "Payments are split into stages tied to visible work on the staging site, with the final payment before full launch. Clients in India pay by UPI or bank transfer; clients abroad pay through Wise, bank wire or PayPal. Every stage appears in the itemised quote you approve in writing, and nothing is billed before that." },
     { question: "LMS banwane mein kitna kharcha aur time lagta hai?", answer: `BtechWaleTech ke saath custom LMS ${P.software} se shuru hota hai aur pehla version aam taur par 6–12 hafte mein ready hota hai. Students ke liye Android aur iOS app ${P.app} se shuru hoti hai. Moodle ka setup scope ke hisaab se quote hota hai aur aksar sasta padta hai. Code aur data aapke naam par rehta hai.` },
-    { question: "What support does an LMS need after launch?", answer: `Expect bug fixes, security updates, server monitoring, video cost checks, new features between batches and, for Moodle, careful upgrades with plugin compatibility checks. BtechWaleTech includes five months of free maintenance after launch. After that, maintenance continues from ${P.care} if you want it, or your own team can take over with the handover guides.` },
+    { question: "What support does an LMS need after launch?", answer: `Expect bug fixes, security updates, server monitoring, video cost checks, new features between batches and, for Moodle, careful upgrades with plugin compatibility checks. BtechWaleTech includes two months of free maintenance after launch. After that, maintenance continues from ${P.care} if you want it, or your own team can take over with the handover guides.` },
   ],
   related: {
     heading: "Related pages on education platforms and apps",
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an LMS? Get a custom-vs-Moodle recommendation first",
-    note: `Tell us on WhatsApp how you teach and how you charge. You get an itemised quote in about two working days, custom LMS platforms start at ${P.software}, learner apps at ${P.app}, and everything is built in accounts you own, with five months of free maintenance.`,
+    note: `Tell us on WhatsApp how you teach and how you charge. You get an itemised quote in about two working days, custom LMS platforms start at ${P.software}, learner apps at ${P.app}, and everything is built in accounts you own, with two months of free maintenance.`,
   },
 };
 

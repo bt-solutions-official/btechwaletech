@@ -32,7 +32,7 @@ const baharampur: CityContent = {
     h1: "Websites, apps, SEO and AI automation for Berhampore",
     lede:
       "Three engineers working remotely for businesses in Baharampur and across Murshidabad district. We build Bengali and English websites, Google listings, online stores and WhatsApp tools for silk sellers, sweet shops, Khagra kansa workshops, clinics near the medical college, tutors and coaching centres, and traders around Panchanantala and Gora Bazar.",
-    pills: ["Websites from ₹10,000", "Bengali and English pages", "Silk and sweet shop stores", "Clinic and tutor sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Bengali and English pages", "Silk and sweet shop stores", "Clinic and tutor sites", "2 months free maintenance"],
   },
   quickAnswer:
     "A Baharampur business can have a static website built by us from ₹10,000, usually within two weeks. SEO sites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores for silk or sweets at ₹50,000 and custom software at ₹60,000. We are remote, with no office in Berhampore.",
@@ -52,7 +52,7 @@ const baharampur: CityContent = {
     ai: "WhatsApp replies in Bengali for prices, stock, tuition batches and doctor timings, with real buyers and patients sent to a person.",
     data: "Monthly dashboards for sales by product, festival season or area, drawn from records you already keep.",
     app: "Android and iPhone apps for delivery staff, tutors taking attendance and field agents, built for ordinary handsets and listed on both stores.",
-    maintenance: "Free maintenance for five months after launch, then support from ₹8,000 a month or paid changes only when you need them.",
+    maintenance: "Free maintenance for two months after launch, then support from ₹8,000 a month or paid changes only when you need them.",
   },
   whyUsIntro:
     "Berhampore is where Murshidabad district comes to shop, study, see a doctor and settle paperwork, but many of its businesses are invisible online beyond a half-filled map listing. We write in Bengali where your customers do, keep every account in your name, and reply on WhatsApp through the week, including festival season.",
@@ -196,7 +196,7 @@ const baharampur: CityContent = {
       paragraphs: [
         "Several Berhampore businesses have lost their websites because a former developer controlled the domain and stopped responding. Without that login, even changing a phone number becomes impossible, and sometimes the whole site has to be rebuilt on a new address.",
         "We register the domain and hosting in your name. At handover you get every password, the full source code and a short note explaining the setup. You are free to move to another developer at any time, and there is no exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month, or contact us only when something needs changing.",
+        "For two months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups and uptime checks. After that, you can continue from ₹8,000 a month, or contact us only when something needs changing.",
       ],
     },
   ],
@@ -283,7 +283,7 @@ const baharampur: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed and pay just for that work.",
+        "For two months after launch we handle text and price updates, bug fixes, security updates, backups and uptime checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when a change is needed and pay just for that work.",
     },
     {
       question: "Do you work in Murshidabad, Jangipur, Kandi and Malda too?",

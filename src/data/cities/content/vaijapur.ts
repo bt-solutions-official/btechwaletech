@@ -56,7 +56,7 @@ const vaijapur: CityContent = {
     ai: "WhatsApp assistants that reply in Marathi with rates, stock and timings, record orders and flag anything unusual to the owner.",
     data: "Season dashboards of onion and maize purchases, truck earnings per trip and pending farmer payments.",
     app: "Android and iOS apps for drivers logging trips, farmers re-ordering inputs or parents tracking a college, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "No maintenance fee for five months after go-live; after that it starts at ₹8,000 a month if you want us to continue.",
+    maintenance: "No maintenance fee for two months after go-live; after that it starts at ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Vaijapur buyers compare carefully and remember who kept their word. So we publish starting prices, send an itemised written quote, begin only after you approve it, and register the domain, hosting, code and app store accounts under your name. WhatsApp is answered every day of the week, and we will talk you out of anything that will not pay for itself.",
@@ -182,7 +182,7 @@ const vaijapur: CityContent = {
       heading: "Your accounts, your code, and maintenance after launch",
       paragraphs: [
         "Every piece of what we build is registered to you. The domain sits on your email, hosting bills come to you, the full source code is handed over, and the Google Business Profile, Google Play console and Apple developer account list you as owner. At handover you get one document with every login and password, so no single person, including us, can hold your site hostage.",
-        "For five months after launch, maintenance is free. We update rates and photos, run backups, apply security and version updates, and check that forms, payments and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, look after it in-house, or pass the code to another developer without needing our permission.",
+        "For two months after launch, maintenance is free. We update rates and photos, run backups, apply security and version updates, and check that forms, payments and WhatsApp links still work. After that you choose: continue with us from ₹8,000 a month, look after it in-house, or pass the code to another developer without needing our permission.",
         "Apps need one update a year even if nothing is broken, because Google and Apple raise their minimum requirements regularly. We track those deadlines and ship early. Before the onion season or the admission rush, a quick check of speed, listings and contact details is worth doing every year.",
       ],
     },
@@ -265,7 +265,7 @@ const vaijapur: CityContent = {
     {
       question: "What maintenance do you offer after the site goes live?",
       answer:
-        "The first five months after launch are free: content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move to another developer at any time, since the code and accounts are already yours.",
+        "The first two months after launch are free: content edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also move to another developer at any time, since the code and accounts are already yours.",
     },
     {
       question: "Do you work in Yeola, Gangapur, Shirdi and Sambhajinagar as well?",

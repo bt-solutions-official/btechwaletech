@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical build", "2–4 weeks"],
     ["Best launch time", "At least two intakes’ worth of lead time"],
     ["Quote", "Itemised, about 2 working days"],
-    ["Aftercare", "5 months free after launch"],
+    ["Aftercare", "2 months free after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one conversation" },
     { value: "100", label: "Pages in the starting static plan" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Platform commission on your leads" },
   ],
   answer: {
@@ -201,7 +201,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a study abroad consultant website starts at ${P.site} (about ${P.siteUsd}) for the static plan of up to 100 pages. The course finder and CRM follow-ups are the parts that change the quote most, typically from ${P.ai} for automation and from ${P.software} if the finder needs its own database and admin panel.`,
         `Other cost drivers are the number of destination countries and university pages, how many services have their own booking paths, whether the site runs in more than one language, and how many branches need their own pages. Content matters too: if your counsellors supply notes for each country and institution, the build is quicker than if we research and draft everything.`,
-        `Consultancies wanting pages for many course-and-country combinations, such as “MS in data science in Germany” or “nursing in Australia”, may fit the SEO website plan from ${P.seoSite}, which is built for 299 or more pages. Monthly SEO from ${P.seo} and maintenance from ${P.care} after the five free months are optional. Our <a href='/pricing/'>pricing page</a> lists every starting price.`,
+        `Consultancies wanting pages for many course-and-country combinations, such as “MS in data science in Germany” or “nursing in Australia”, may fit the SEO website plan from ${P.seoSite}, which is built for 299 or more pages. Monthly SEO from ${P.seo} and maintenance from ${P.care} after the two free months are optional. Our <a href='/pricing/'>pricing page</a> lists every starting price.`,
       ],
     },
     {
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Ideally at least two intakes before the one you care about most, because search visibility takes months to build and your CRM needs time to warm up leads. Launching a new site a few weeks before a major intake means you get the traffic you were already getting, not much more.`,
         `The build itself takes two to four weeks. Week one agrees the countries, courses, partner list and lead fields; week two builds templates and booking; weeks three and four add the finder, CRM connection, WhatsApp alerts and content. A very large course database can add time, mostly for data cleaning.`,
-        `After launch, the first months are about filling gaps: pages for courses students keep asking about, event pages for upcoming fairs, and follow-up templates for each intake. Five months of maintenance are free after launch; your quote lists what that covers, and new pages beyond it are quoted separately. For the general picture, see <a href='/how-long-to-build-a-website/'>how long it takes to build a website</a>.`,
+        `After launch, the first months are about filling gaps: pages for courses students keep asking about, event pages for upcoming fairs, and follow-up templates for each intake. Two months of maintenance are free after launch; your quote lists what that covers, and new pages beyond it are quoted separately. For the general picture, see <a href='/how-long-to-build-a-website/'>how long it takes to build a website</a>.`,
       ],
     },
     {
@@ -314,7 +314,7 @@ const content: FreelanceContent = {
         ["Finder with its own database and admin panel", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Large multi-branch consultancies"],
         ["Student app for applications and updates", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Consultancies with many active students"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "New course pages, freshness updates"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Course data, events, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Course data, events, fixes"],
       ],
       hideSm: [2],
     },
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
       ["Agree the lead fields", "Together we fix the fields every lead carries, especially intake, level and stage, because they drive the finder, booking and every follow-up."],
       ["Preview and test", "Templates, finder and booking go up on a private link. Your counsellors try it as students would, and test leads flow into the CRM."],
       ["Launch before the season", "Search Console, sitemaps, redirects and WhatsApp alerts are checked, then the domain moves, ideally well ahead of your key intake."],
-      ["Refresh each intake", "Maintenance is free for five months after launch, with its scope written into your quote; optional care continues after that."],
+      ["Refresh each intake", "Maintenance is free for two months after launch, with its scope written into your quote; optional care continues after that."],
     ],
   },
   faqHeading: "Study abroad consultant website: common questions",
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
     { question: "Is it better to use a CRM vendor’s website or build my own?", answer: "A CRM vendor’s forms are fine for capturing leads, but they add little content, rarely rank in search and stop working if you switch vendors. Your own study abroad consultant website builds long-term search visibility and brand, while connecting to whichever CRM you prefer. Most consultancies benefit from having both working together." },
     { question: "Can the website be in Hindi, Telugu or Punjabi?", answer: "Yes. We build separate language versions with proper tags, often starting with the parents’ section and main country pages. Our team writes English and Hindi; for Telugu, Punjabi, Gujarati or other languages, you supply or approve the translated copy and we handle fonts, layout and search setup." },
     { question: "Do I own the website, domain and student data?", answer: "Yes. The domain, hosting, CRM and analytics accounts are in your consultancy’s name, the code is handed over at launch, and student data stays in your systems. Payments to us are by UPI or bank transfer in India, or by Wise, bank wire or PayPal in USD from abroad, with no platform in between." },
-    { question: "What happens after launch?", answer: `For five months after launch, maintenance is free, and your written quote lists what it covers, typically fixes and small updates to existing pages. After that you can continue with optional care from ${P.care}, manage the site yourself, or hire anyone else, since you hold every account and the code.` },
+    { question: "What happens after launch?", answer: `For two months after launch, maintenance is free, and your written quote lists what it covers, typically fixes and small updates to existing pages. After that you can continue with optional care from ${P.care}, manage the site yourself, or hire anyone else, since you hold every account and the code.` },
     { question: "Can you also build a student app for my consultancy?", answer: `Yes, if you have enough active students to justify it. An Android and iOS app for application tracking, document uploads, deadline reminders and chat with counsellors starts at ${P.app} and takes six to ten weeks. Most consultancies start with the website and WhatsApp updates and add an app later.` },
     { question: "Study abroad consultant website banwane me kitna time lagta hai?", answer: `Usually do se chaar hafte. Countries, universities, services aur booking wali basic site lagbhag do hafte me ban jaati hai aur ${P.site} se start hoti hai. Course finder, CRM aur WhatsApp follow-ups add karne par teen se chaar hafte lagte hain. Best hai ki aap apne main intake se kaafi pehle launch karein.` },
   ],
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a study abroad consultant website ready before your next intake rush?",
-    note: `Message us on WhatsApp with your destinations, partner institutions and services. An itemised quote follows in about two working days, starting at ${P.site}, with every account in your name and five months of free care after launch.`,
+    note: `Message us on WhatsApp with your destinations, partner institutions and services. An itemised quote follows in about two working days, starting at ${P.site}, with every account in your name and two months of free care after launch.`,
   },
 };
 

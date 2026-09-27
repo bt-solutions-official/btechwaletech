@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers: automation, AI and cloud, project management" },
     { value: "2", label: "Working days to an itemised automation estimate" },
-    { value: "5", label: "Months of free maintenance once a workflow goes live" },
+    { value: "2", label: "Months of free maintenance once a workflow goes live" },
     { value: "7", label: "Days a week we answer WhatsApp messages" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Running costs", value: "Platform plan or small server, plus AI model usage billed to your card" },
       { label: "Where data goes", value: "Only the fields each step needs; API providers that do not train on your data by default" },
       { label: "How success is measured", value: "Hours saved per week and response time, logged from day one" },
-      { label: "After launch", value: `5 months of free maintenance, then support from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then support from ${P.care} a month` },
     ],
   },
   services: {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Workflow plus dashboard", "Automation with a weekly KPI view", `From ${P.ai} + dashboard scope`, "4–6 weeks"],
         ["Automation inside custom software", "Own database, admin screens, roles", `From ${P.software}`, "6–12 weeks"],
         ["Website plus lead automation", "New lead site wired to the CRM", `From ${P.site} + ${P.ai}`, "3–6 weeks"],
-        ["Ongoing support", "Monitoring, fixes, small changes", `From ${P.care} a month after 5 free months`, "Monthly"],
+        ["Ongoing support", "Monitoring, fixes, small changes", `From ${P.care} a month after 2 free months`, "Monthly"],
       ],
     },
   ],

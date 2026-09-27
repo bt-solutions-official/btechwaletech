@@ -56,7 +56,7 @@ const firozpurCantt: CityContent = {
     ai: "WhatsApp assistants that answer timing, fee, stock and delivery questions in English, Hindi or Punjabi and pass anything unusual to you.",
     data: "Monthly views of admissions, orders, rent received and repeat customers, so you can see how postings shift demand.",
     app: "Android and iOS apps for defence-exam coaching centres or a school's parent notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No charge for upkeep in the first five months after launch; afterwards from ₹8,000 a month for changes, backups and security work.",
+    maintenance: "No charge for upkeep in the first two months after launch; afterwards from ₹8,000 a month for changes, backups and security work.",
   },
   whyUsIntro:
     "Cantonment customers are used to rules, receipts and procedure, and we work the same way. Starting prices are public, every quote is itemised in writing, WhatsApp is answered on all seven days, and the domain, hosting, code and app store accounts are put in your name. Anything that will not pay you back, we flag before you commit.",
@@ -171,7 +171,7 @@ const firozpurCantt: CityContent = {
       paragraphs: [
         "With no office in the cantonment, we rely on documents instead of visits. A first call covers your business and customers; afterwards you receive a written plan of pages or screens, a date for each stage and a price for each line. Work starts only on your written approval, and you are not billed before it. Previews come as links that open on any phone, so a spouse on duty elsewhere can review them too. We answer WhatsApp on all seven days, Indian time, and tell you the same day if a date slips.",
         "Ownership is yours from the start. The domain is registered to your email, hosting is billed to you, the full source code is handed over, and the Google Business Profile, Play Console and Apple developer account show you as owner. A handover sheet lists every login.",
-        "The first five months of maintenance after launch are free: content changes, backups, security and version updates, and checks that forms, payments and WhatsApp links work. After that, stay with us from ₹8,000 a month, manage it yourself or hire someone else. Apps also need a yearly compliance update for Google and Apple, which we schedule early. Start through the <a href=\"/contact/\">contact page</a>, or read about <a href=\"/services/web-development/\">our web development work</a>.",
+        "The first two months of maintenance after launch are free: content changes, backups, security and version updates, and checks that forms, payments and WhatsApp links work. After that, stay with us from ₹8,000 a month, manage it yourself or hire someone else. Apps also need a yearly compliance update for Google and Apple, which we schedule early. Start through the <a href=\"/contact/\">contact page</a>, or read about <a href=\"/services/web-development/\">our web development work</a>.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const firozpurCantt: CityContent = {
     {
       question: "What maintenance do you offer after the site goes live?",
       answer:
-        "The first five months are free: content updates, backups, security patches and checks on forms, payments and WhatsApp links. Afterwards you may continue from ₹8,000 a month, manage it yourself or switch developers without asking us, since every account and the code already belong to you.",
+        "The first two months are free: content updates, backups, security patches and checks on forms, payments and WhatsApp links. Afterwards you may continue from ₹8,000 a month, manage it yourself or switch developers without asking us, since every account and the code already belong to you.",
     },
     {
       question: "Do you also work with businesses in Firozpur city and nearby towns?",

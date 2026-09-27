@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on your project, no hand-offs to strangers" },
     { value: "2", label: "Working days to an itemized USD quote" },
-    { value: "5", label: "Months of free fixes and small edits after launch" },
+    { value: "2", label: "Months of free fixes and small edits after launch" },
     { value: "7", label: "Days a week we answer WhatsApp messages" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Startup MVPs and apps", note: `Web apps from ${P.software} and iOS plus Android apps in Flutter or React Native from ${P.app}, published under your own developer accounts.`, href: "/usa/mvp-development-for-startups/", size: "md" },
       { name: "AI lead handling", note: `Instant replies to web and WhatsApp enquiries, lead scoring and hand-off to your team, from ${P.ai}.`, href: "/usa/ai-automation-agency/", size: "md" },
       { name: "Local SEO for Miami", note: `Google Business Profile tune-up, neighborhood pages and Spanish-language search coverage, from ${P.seo}.`, href: "/usa/local-seo-services/", size: "sm" },
-      { name: "Care after launch", note: `Five free months of fixes, then care plans from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
+      { name: "Care after launch", note: `Two free months of fixes, then care plans from ${P.care}.`, href: "/usa/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -87,7 +87,7 @@ const content: FreelanceContent = {
       ["Who does the work", "Account team plus designers and developers", "One seller, sometimes subcontracted", "The same three developers from start to finish"],
       ["Apps and AI in the same place", "Sometimes, often via partners", "Separate sellers per task", `Yes: apps from ${P.app}, AI from ${P.ai}`],
       ["Code and account ownership", "Check the contract", "Check the contract", "Yours from day one, in writing"],
-      ["After launch", "Retainer or hourly", "Often ends with delivery", `5 free months, then care from ${P.care}`],
+      ["After launch", "Retainer or hourly", "Often ends with delivery", `2 free months, then care from ${P.care}`],
       ["Time zone", "Same as yours", "Anywhere", "Evening in India overlaps your morning"],
       ["Local networking and referrals", "Strong", "None", "None; we are remote"],
     ],
@@ -188,7 +188,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a small business website starts at ${P.site}, a bilingual SEO site at ${P.seoSite}, an online store at ${P.shop}, a mobile app at ${P.app} and custom software at ${P.software}. Your exact figure depends on scope, and it arrives as an itemized USD quote in about two working days.`,
         `The drivers are predictable. Page count and the number of distinct page designs come first. A second language adds pages and review time, even though you supply the Spanish text. Integrations add work: IDX, reservation platforms, booking tools, CRMs and payment steps each need setup and testing. Video and heavy photography need careful optimization. English copywriting adds hours if you want us to write it rather than edit yours.`,
-        `Running costs belong in your budget too, and they are paid by you directly to the providers: domain renewal, hosting, any paid plugins or booking tools, and your translator. After launch you get five months of free fixes and small edits; care plans then start at ${P.care}, and monthly SEO starts at ${P.seo} if you want ongoing search work. See the full <a href='/pricing/'>pricing page</a> for every starting price.`,
+        `Running costs belong in your budget too, and they are paid by you directly to the providers: domain renewal, hosting, any paid plugins or booking tools, and your translator. After launch you get two months of free fixes and small edits; care plans then start at ${P.care}, and monthly SEO starts at ${P.seo} if you want ongoing search work. See the full <a href='/pricing/'>pricing page</a> for every starting price.`,
       ],
     },
     {
@@ -258,7 +258,7 @@ const content: FreelanceContent = {
       heading: "Who owns the website when a remote web developer builds it for your Miami business?",
       paragraphs: [
         `You do. The domain, hosting account, source code, analytics, Google Business Profile, app store listings and any paid tools are registered to your business, and we work in them as invited users. If we part ways, you remove our access and nothing breaks.`,
-        `Handover is a checklist, not a promise. At launch you receive a document listing every account, where it lives and who has access; the code in your repository; admin logins you have set yourself; and a short screen recording showing how to edit pages, menus or listings. The five free months of maintenance start that day.`,
+        `Handover is a checklist, not a promise. At launch you receive a document listing every account, where it lives and who has access; the code in your repository; admin logins you have set yourself; and a short screen recording showing how to edit pages, menus or listings. The two free months of maintenance start that day.`,
         `This matters more than it sounds. The most common rescue job in small business web work is an owner whose previous developer disappeared holding the domain. Setting things up in your name from day one removes that risk completely, and it costs nothing extra.`,
       ],
     },
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
       ["Kick off on a morning call", "A 9 a.m. Eastern video call sets the page plan, design references and who supplies each piece of copy, including the Spanish."],
       ["Review designs on your phone", "You get a preview link with two directions. Comment directly or on a call; we refine overnight so the update is waiting in your morning."],
       ["Build, translate and test", "Pages are built in English first, Spanish copy goes in when your translator returns it, and every form, booking link and phone button is tested from US numbers."],
-      ["Launch and hand over", "We go live at a quiet hour, submit sitemaps, hand over every account and record a how-to video. Five free months of fixes begin the same day."],
+      ["Launch and hand over", "We go live at a quiet hour, submit sitemaps, hand over every account and record a how-to video. Two free months of fixes begin the same day."],
     ],
   },
   faqHeading: "Questions Miami small business owners ask before hiring a web developer",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Will my Miami website show up in AI answers like ChatGPT or Google AI Overviews?", answer: "No one controls that, but you can make your site easy to quote. We open each service page with a direct answer, keep hours, areas and prices in plain text, add FAQ sections and structured data, and make sure crawlers can reach every page. Those same steps help ordinary search results as well." },
     { question: "Can you build a mobile app for my Miami startup?", answer: `Yes. We build iOS and Android apps with Flutter or React Native from ${P.app}, usually in six to ten weeks. Your company opens the Apple Developer Program account, which costs US$99 a year, and a Google Play developer account with a one-time US$25 fee, and we publish under your accounts.` },
     { question: "Do you meet clients in person in Miami?", answer: "No. We are three freelance developers working remotely from India and do not make site visits or attend meetings in person. Everything runs on video calls, a shared preview link and WhatsApp. If an in-person photo shoot is needed, a local photographer can supply images and we build around them." },
-    { question: "What happens after my Miami website launches?", answer: `You get five months of free fixes and small edits. After that, care plans start at ${P.care} and cover updates, backups, monitoring and content changes. We also set up uptime alerts and off-site backups, which matter during hurricane season when your own office may be closed.` },
+    { question: "What happens after my Miami website launches?", answer: `You get two months of free fixes and small edits. After that, care plans start at ${P.care} and cover updates, backups, monitoring and content changes. We also set up uptime alerts and off-site backups, which matter during hurricane season when your own office may be closed.` },
     { question: "Can you add AI to answer customer questions in English and Spanish?", answer: `Yes. An AI assistant can answer common questions on your site or WhatsApp in both languages, collect contact details and pass qualified enquiries to your staff. You approve the knowledge it draws on and the hand-off rules. AI automation projects start at ${P.ai} and usually take two to four weeks.` },
     { question: "Do I need to sign an NDA or contract before starting?", answer: "A written quote that you approve sets the scope, milestones, payments and ownership before work starts, and our published terms apply. If your business needs its own NDA or a contract on your paper, send it with your brief and we will review it; the specific terms are agreed in writing with you." },
     { question: "Can you redesign my existing Miami website without losing Google traffic?", answer: "Yes. We list your current URLs, keep or redirect each one with a 301 to its new home, carry over titles and content that already rank, and watch Search Console for several weeks after launch. A redesign is also a good moment to add a Spanish section built properly." },

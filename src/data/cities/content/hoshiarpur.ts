@@ -34,7 +34,7 @@ const hoshiarpur: CityContent = {
     pills: ["Sites from ₹10,000", "Wood inlay catalogues", "Punjabi and English content", "Enquiries from abroad", "5 free maintenance months"],
   },
   quickAnswer:
-    "In Hoshiarpur, a business website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and automation at ₹40,000. We are three remote engineers with no local office, and the first five months of maintenance are free.",
+    "In Hoshiarpur, a business website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO website starts at ₹20,000. Online stores start at ₹50,000 and automation at ₹40,000. We are three remote engineers with no local office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Region", value: "Doaba region of Punjab, Jalandhar division, bordering Kangra and Una districts of Himachal Pradesh" },
     { label: "Signature craft", value: "Hoshiarpur wood inlay, a GI-tagged craft of engraved sheesham inlaid with acrylic, bone and shell" },
@@ -51,7 +51,7 @@ const hoshiarpur: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and appointment questions any time of day, which matters when half your enquiries come from another time zone.",
     data: "Dashboards for mandi arrivals, dealer orders or patient flow, pulled into one screen an owner can read quickly.",
     app: "Android and iOS apps for school notices, clinic bookings or field staff visits across the district, released on Google Play and the App Store.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then plans from ₹8,000 a month or pay-as-needed changes.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then plans from ₹8,000 a month or pay-as-needed changes.",
   },
   whyUsIntro:
     "Plenty of Hoshiarpur families have a son, daughter or cousin abroad, and many local businesses first hear about websites through them. That brings sharp questions about ownership, speed and price. We answer them upfront: starting prices in writing, your name on the domain, replies on WhatsApp seven days a week.",
@@ -176,7 +176,7 @@ const hoshiarpur: CityContent = {
       paragraphs: [
         "In a district where so many people move abroad, a familiar problem is the website built by a relative or local freelancer who later emigrated. The domain renewal notice goes to an inbox no one checks, the site disappears, and recovering the domain takes weeks of emails. We have heard versions of this story in almost every Doaba town.",
         "We register the domain in your name and host the site on your own account. At launch you receive every login, the full source code and a one-page note on what runs where. You can move to another developer whenever you want, with no exit fee.",
-        "Maintenance is free for five months after launch, covering content and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, plans start at ₹8,000 a month, or you can pay per job. Stores and institutes usually choose the plan; small practices often prefer paying only when something changes.",
+        "Maintenance is free for two months after launch, covering content and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, plans start at ₹8,000 a month, or you can pay per job. Stores and institutes usually choose the plan; small practices often prefer paying only when something changes.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const hoshiarpur: CityContent = {
         "You do. The domain is registered in your name, hosting is on your account, and you receive the full source code and every password at launch. You can hand the site to any developer later without an exit fee.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You choose. Plans start at ₹8,000 a month for updates, backups, security patches and content changes. If your site rarely changes, you can skip the plan and pay per job. Either way, you keep complete access to everything.",
     },

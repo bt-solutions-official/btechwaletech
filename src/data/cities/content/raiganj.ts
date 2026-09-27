@@ -32,10 +32,10 @@ const raiganj: CityContent = {
     h1: "Web, app, SEO and automation services for rice traders, clinics, tutors and highway businesses",
     lede:
       "A remote team of three engineers building sites, Maps listings, small stores and WhatsApp tools for the Uttar Dinajpur headquarters. We help Tulaipanji rice sellers and grain traders, doctors and labs near the medical college, coaching centres and schools, shops in Mohanbati and Bandar, and hotels and dhabas along the national highway.",
-    pills: ["Websites from ₹10,000", "Bengali, Hindi and English", "Tulaipanji rice stores", "Clinic and coaching sites", "5 months free maintenance"],
+    pills: ["Websites from ₹10,000", "Bengali, Hindi and English", "Tulaipanji rice stores", "Clinic and coaching sites", "2 months free maintenance"],
   },
   quickAnswer:
-    "For a Raiganj business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, online stores from ₹50,000, WhatsApp and AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Raiganj office and give five months of free maintenance.",
+    "For a Raiganj business, our static websites start at ₹10,000 and go live in one to two weeks. SEO sites of 299+ pages start at ₹20,000, online stores from ₹50,000, WhatsApp and AI automation from ₹40,000 and custom software from ₹60,000. We work remotely with no Raiganj office and give two months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Headquarters of Uttar Dinajpur district, with the collectorate at Karnajora, on the banks of the Kulik river" },
     { label: "Connectivity", value: "National highway link to Kolkata and Siliguri; Raiganj station on the Barsoi–Radhikapur branch line; Bagdogra airport about 166 km away" },
@@ -52,7 +52,7 @@ const raiganj: CityContent = {
     ai: "WhatsApp replies about rice rates, test prices, OPD days or batch timings in Bengali, with bulk buyers and urgent cases sent to you.",
     data: "Dashboards showing purchase rates, sales by variety and dues by buyer, built from the ledgers and sheets you already use.",
     app: "Android and iOS apps for purchase agents, delivery staff and field workers covering Kaliaganj, Hemtabad and Itahar, released on both stores.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then care from ₹8,000 a month or paid per change.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then care from ₹8,000 a month or paid per change.",
   },
   whyUsIntro:
     "Raiganj is the market and service town for a largely rural district. People travel in from Kaliaganj, Hemtabad and Itahar for hospitals, courts, colleges and wholesale buying, and more of them now search on their phones before making the trip. We build clear websites and Google listings, publish our starting prices and answer on WhatsApp every day.",
@@ -197,7 +197,7 @@ const raiganj: CityContent = {
       paragraphs: [
         "Many businesses in north Bengal have lost websites because a developer registered the domain in his own name and then disappeared. Without the login, even changing a phone number becomes impossible.",
         "We register the domain and hosting in your name. At launch, you receive every password, the full source code and a short note explaining how things are arranged. You can move to another developer at any time with no exit fee.",
-        "Maintenance is free for five months after launch: content and price updates, fixes, security patches, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when a change is needed and pay for that job alone.",
+        "Maintenance is free for two months after launch: content and price updates, fixes, security patches, backups and uptime checks. After that, you can continue from ₹8,000 a month or contact us only when a change is needed and pay for that job alone.",
       ],
     },
   ],
@@ -284,7 +284,7 @@ const raiganj: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, fixes, security patches, backups and uptime monitoring at no charge. After that, maintenance continues from ₹8,000 a month, or you pay only for the changes you ask for.",
+        "For two months after launch we handle content and price updates, fixes, security patches, backups and uptime monitoring at no charge. After that, maintenance continues from ₹8,000 a month, or you pay only for the changes you ask for.",
     },
     {
       question: "Do you work with businesses in Kaliaganj, Itahar, Malda and Siliguri?",

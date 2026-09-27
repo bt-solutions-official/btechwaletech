@@ -56,7 +56,7 @@ const mandamarri: CityContent = {
     ai: "WhatsApp replies in Telugu and English for stock, timings and service bookings, with anything involving money passed to your staff.",
     data: "Dashboards of vehicle trips, fuel use, contractor bills pending and sales by week, built from records you already keep.",
     app: "Android and iOS apps for schools, coaching centres or fleet owners whose users need daily updates, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Mandamarri owners have seen suppliers vanish after the first payment, so they want written terms and someone who answers. We publish starting prices, send itemised quotes in writing, reply on WhatsApp every day of the week, and register your domain, hosting, code and app store accounts in your name.",
@@ -179,7 +179,7 @@ const mandamarri: CityContent = {
       heading: "Ownership and maintenance: you stay in control",
       paragraphs: [
         "Everything we build is yours. The domain, hosting, source code, Google Business Profile and the Google Play and App Store developer accounts are registered in your name. If you move to another developer, you hand over the logins and they continue without starting from scratch.",
-        "Every project includes five months of free maintenance after launch. After that, maintenance starts at ₹8,000 a month and covers updates, backups, security fixes and small content edits. For a contractor's software, that includes keeping the database backed up, since losing a year of trip records is far worse than a website going offline for a day.",
+        "Every project includes two months of free maintenance after launch. After that, maintenance starts at ₹8,000 a month and covers updates, backups, security fixes and small content edits. For a contractor's software, that includes keeping the database backed up, since losing a year of trip records is far worse than a website going offline for a day.",
         "If you only need changes now and then, we can quote each one separately. More on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -257,7 +257,7 @@ const mandamarri: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "Every project includes five months of free maintenance after launch for fixes, updates and small changes. After that, maintenance starts at ₹8,000 a month and covers backups, security updates and content edits. For software holding trip or wage records, regular backups are the most important part of that plan.",
+        "Every project includes two months of free maintenance after launch for fixes, updates and small changes. After that, maintenance starts at ₹8,000 a month and covers backups, security updates and content edits. For software holding trip or wage records, regular backups are the most important part of that plan.",
     },
     {
       question: "Do you provide monthly SEO services in Mandamarri?",

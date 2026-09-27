@@ -56,7 +56,7 @@ const yadgir: CityContent = {
     ai: "WhatsApp assistants that reply in Kannada to price, stock, admission and appointment questions, and hand real decisions back to you.",
     data: "Dashboards that show arrivals, rates paid, dispatches and dues per trader or per season, readable on a phone.",
     app: "Android and iOS apps for tur buyers to log village purchases or for coaching students to get notes and notices, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Yadgir owners have seen outside vendors promise a lot and vanish after the first payment. We work differently: starting prices are public, the quote is itemised in writing, we answer WhatsApp every day of the week, and your domain, hosting, code and app store accounts are registered to you from day one.",
@@ -177,7 +177,7 @@ const yadgir: CityContent = {
       heading: "Ownership, handover and maintenance for Yadgir websites and apps",
       paragraphs: [
         "In smaller towns it is common for a website to disappear because the person who built it registered the domain in his own name and then stopped answering calls. We avoid that by registering the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts in your name, and handing over every login in writing.",
-        "Maintenance is free for five months after launch. It covers content and rate updates, backups, security patches, plugin and framework updates, and regular checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time with the full code.",
+        "Maintenance is free for two months after launch. It covers content and rate updates, backups, security patches, plugin and framework updates, and regular checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time with the full code.",
         "Apps need attention every year because Google and Apple keep changing their rules. We track those changes and update your app before any deadline, so it is not pulled from the stores.",
       ],
     },
@@ -274,7 +274,7 @@ const yadgir: CityContent = {
     {
       question: "What maintenance do you provide after a Yadgir site goes live?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the full code and move to another developer whenever you like.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the full code and move to another developer whenever you like.",
     },
     {
       question: "Do you work in Shahapur, Surapura and Gurmitkal too?",

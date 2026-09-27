@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Candidate app", `From ${P.app}, optional`],
     ["Listing SEO", "JobPosting schema, sitemaps, expiry handling"],
     ["Data", "Consent-based resume storage in your cloud"],
-    ["Aftercare", "5 months free maintenance"],
+    ["Aftercare", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "User sides: candidates, employers, admin" },
     { value: "3", label: "Freelance developers on your portal" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "What does a job portal developer build, and how much does a job portal cost?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Resume parsing and matching", value: `AI build from ${P.ai}` },
       { label: "Revenue", value: "Paid postings, featured jobs, resume database credits" },
       { label: "Ownership", value: "Code, database and cloud account in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A portal holds thousands of people's phone numbers, work histories and sometimes salary expectations. That makes ownership and security part of the build, not an afterthought.`,
         `You own the code repository, the cloud account, the database and the domain from day one. Resume files sit in private storage with time-limited links. Passwords are hashed; admin accounts use two-factor login; every employer view of a resume is logged. Rate limits stop scrapers from harvesting your resume database, and employer accounts that behave like scrapers are flagged.`,
-        `At handover you get repository access, infrastructure notes, a list of paid services with renewal dates, admin credentials, and a short runbook for common tasks such as approving employers or refunding a plan. Five months of free maintenance follow launch; after that, care continues from ${P.care} only if you want it.`,
+        `At handover you get repository access, infrastructure notes, a list of paid services with renewal dates, admin credentials, and a short runbook for common tasks such as approving employers or refunding a plan. Two months of free maintenance follow launch; after that, care continues from ${P.care} only if you want it.`,
       ],
     },
     {
@@ -272,7 +272,7 @@ const content: FreelanceContent = {
       heading: "Job portal banwana hai? Seedhi baat",
       paragraphs: [
         `Sabse pehle tay kijiye ki portal kiske liye hai: kisi ek field ke log, jaise nurses, drivers ya teachers, ya kisi ek shehar ya industrial area ke liye. General job site banakar badi sites se ladna mushkil hai; niche portal jaldi chalta hai.`,
-        `Phir sochiye paisa kaun dega. Aam taur par employers job post, featured job ya resume database ke liye pay karte hain. BtechWaleTech ke saath job portal ${P.software} se shuru hota hai aur pehla version 6–12 hafte mein ban jaata hai. Code, database aur server aapke naam par rehte hain, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Phir sochiye paisa kaun dega. Aam taur par employers job post, featured job ya resume database ke liye pay karte hain. BtechWaleTech ke saath job portal ${P.software} se shuru hota hai aur pehla version 6–12 hafte mein ban jaata hai. Code, database aur server aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -305,7 +305,7 @@ const content: FreelanceContent = {
         ["Resume parsing and matching", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Marketing site for the portal", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
         ["Ongoing listing SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
       ["Set up your infrastructure", "Domain, cloud account, database, storage and code repository are created in your name, with us invited as team members."],
       ["Review clickable designs", "Candidate search, apply flow, employer dashboard and admin queue are designed first, so you can test the journeys before we build them."],
       ["Build in weekly increments", "Each week a new part works on the staging link with sample jobs and resumes. You test it and report issues on WhatsApp."],
-      ["Launch, hand over and support", "Security checks, markup validation, launch, then full handover of code and runbook, followed by five months of free fixes."],
+      ["Launch, hand over and support", "Security checks, markup validation, launch, then full handover of code and runbook, followed by two months of free fixes."],
     ],
   },
   faqHeading: "Job portal developer: questions people ask",

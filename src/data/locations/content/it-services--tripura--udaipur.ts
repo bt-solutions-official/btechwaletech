@@ -36,7 +36,7 @@ const content: CityContent = {
     h1: "Freelance software developers for Udaipur, Tripura: apps, automation and search visibility",
     lede:
       "BtechWaleTech is a freelance group of three engineers offering IT solutions to Udaipur in Tripura's Gomati district, working remotely from India. We build custom software for traders and institutions, booking and enquiry systems for lodges near the Tripura Sundari Temple, WhatsApp and AI automation, mobile-friendly apps, dashboards and the local SEO that helps pilgrims and residents find you.",
-    pills: ["Custom software from ₹60,000", "Booking and enquiry automation", "Websites from ₹10,000", "Bengali-first pages", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Booking and enquiry automation", "Websites from ₹10,000", "Bengali-first pages", "2 months free maintenance"],
   },
   quickAnswer:
     "For businesses in Udaipur, Tripura, BtechWaleTech, a freelance group of three remote engineers, builds custom software from ₹60,000, AI and WhatsApp automation from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Websites go live in one to two weeks; software takes six to twelve weeks. Quotes arrive within about two working days.",
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer room rates, darshan timings and directions in Bengali and English, then hand bookings to a person.",
     data: "Simple dashboards showing daily sales, room occupancy or fee collections for owners who manage more than one outlet in Gomati district.",
     app: "Android and iOS apps from ₹40,000 in Flutter or React Native, published on Google Play and the App Store, for field staff, lodges and institutions in Gomati district.",
-    maintenance: "Content updates, backups and security checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Content updates, backups and security checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Udaipur businesses rarely find a software developer in town and often wait for help from Agartala. Working with a freelance group online removes that wait: you message the engineers directly, see published starting prices and keep every login in your own name.",
@@ -175,7 +175,7 @@ const content: CityContent = {
       id: "udaipur-cost-guide",
       heading: "How much do IT services cost in Udaipur, Tripura?",
       paragraphs: [
-        "IT services in Udaipur, Tripura with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months.",
+        "IT services in Udaipur, Tripura with BtechWaleTech start at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months.",
         "The final price depends on scope. A three-page lodge website with ready photos stays close to the starting figure. A trading system with customer accounts, SMS reminders and a dashboard costs more. We send an itemised estimate within about two working days, and you can drop any line you do not need.",
         "There is no travel or office charge because we work remotely. Compare every plan on our <a href=\"/pricing/\">pricing page</a>, and see how Udaipur fits into our wider <a href=\"/it-services/tripura/\">Tripura IT services</a> coverage.",
       ],
@@ -192,14 +192,14 @@ const content: CityContent = {
         "Step 2: itemised quote within about two working days",
         "Step 3: designs or screen mock-ups for your approval",
         "Step 4: build on a staging link, tested by you and your staff",
-        "Step 5: launch, handover of code, domain and hosting, then five months of free maintenance",
+        "Step 5: launch, handover of code, domain and hosting, then two months of free maintenance",
       ],
     },
     {
       id: "udaipur-ownership-support",
       heading: "Ownership, maintenance and support after launch in Udaipur",
       paragraphs: [
-        "Every Udaipur client owns their domain, hosting, source code and data outright, and receives five months of free maintenance after launch. After that, BtechWaleTech offers monthly support from ₹8,000, or you can simply contact us when something needs changing. Nothing stays locked in our name.",
+        "Every Udaipur client owns their domain, hosting, source code and data outright, and receives two months of free maintenance after launch. After that, BtechWaleTech offers monthly support from ₹8,000, or you can simply contact us when something needs changing. Nothing stays locked in our name.",
         "Ownership matters because many small businesses in Tripura have lost websites when a developer registered the domain personally and then moved on. We register everything in your name from day one and hand over logins, a short admin guide and a recorded walkthrough. If you later choose another developer, they can continue without needing us.",
         "Maintenance covers content changes, bug fixes, security updates, backups and uptime checks. We do not repair office computers or wiring, and we will suggest a local technician when a problem is physical rather than software. For the closest larger market, see our <a href=\"/it-services/tripura/agartala/\">Agartala software development</a> page, or read <a href=\"/about/\">about our freelance group</a>.",
       ],
@@ -266,7 +266,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free after your project goes live: text and photo updates, bug fixes, security patches, backups, and speed and uptime checks. After that, plans start at ₹8,000 a month, or you can pay only when changes are needed. We answer on WhatsApp seven days a week, including the busy festival season around Diwali.",
+        "Two months of maintenance are free after your project goes live: text and photo updates, bug fixes, security patches, backups, and speed and uptime checks. After that, plans start at ₹8,000 a month, or you can pay only when changes are needed. We answer on WhatsApp seven days a week, including the busy festival season around Diwali.",
     },
     {
       question: "How soon will local SEO work for an Udaipur business?",

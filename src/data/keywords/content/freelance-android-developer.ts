@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Freelance Android developer · Play Store ready",
     h1: "Freelance Android developer for apps that run well on the phones your customers really carry",
     lede: `A freelance Android developer builds, tests and publishes your app on Google Play without you hiring a full-time mobile team. BtechWaleTech is three freelance developers in India, and this page is about Android specifically: when to pick native <strong>Kotlin</strong> and when <strong>Flutter</strong> is the better buy, how Play Console policies shape your launch date, and why an app has to be tested on budget phones before it goes live. Android apps start at ${P.app}, and the Play developer account stays in your name.`,
-    pills: ["Kotlin or Flutter, chosen per project", "Google Play publishing", "Tested on budget phones", "Hindi and regional UI", "UPI payment flows", "Play account in your name", "5 months free fixes"],
+    pills: ["Kotlin or Flutter, chosen per project", "Google Play publishing", "Tested on budget phones", "Hindi and regional UI", "UPI payment flows", "Play account in your name", "2 months free fixes"],
     origin: "Three freelance developers · Remote from India · Android apps for businesses across the country",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Stack", "Flutter by default, Kotlin where native wins"],
     ["Play Console account", "Registered by you, we get access"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app's code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform fees added to your bill" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Minimum test phones", value: "A budget 3–4 GB RAM phone plus two mid-range brands" },
       { label: "Play account", value: "Yours; one-time US$25 registration paid by you to Google" },
       { label: "Payments to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "After launch", value: `5 months free, then maintenance from ${P.care}` },
+      { label: "After launch", value: `2 months free, then maintenance from ${P.care}` },
     ],
   },
   services: {
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
       heading: "Android app banwana hai? Seedha jawab",
       paragraphs: [
         `Agar aapke zyada customers Android phone chalate hain, to pehle Android app banwana sahi rahega. Hamare saath Android app ${P.app} se shuru hota hai aur aam taur par 6 se 10 hafte mein Google Play par live ho jata hai. Play Console account aapke naam par banega, fee aap khud Google ko denge, aur code bhi aapka hi rahega.`,
-        `Shuruaat mein bas itna bhejiye: app kya karega, kaun use karega, kitni screens chahiye, aur koi aisa app jo aapko pasand ho. Hum do working days mein item-wise quote bhejte hain. Launch ke baad 5 mahine tak chhote fixes free hain. Zyada detail ke liye <a href='/app-banwana-hai/'>app banwana hai</a> wala page dekhiye.`,
+        `Shuruaat mein bas itna bhejiye: app kya karega, kaun use karega, kitni screens chahiye, aur koi aisa app jo aapko pasand ho. Hum do working days mein item-wise quote bhejte hain. Launch ke baad 2 mahine tak chhote fixes free hain. Zyada detail ke liye <a href='/app-banwana-hai/'>app banwana hai</a> wala page dekhiye.`,
       ],
     },
     {
@@ -247,7 +247,7 @@ const content: FreelanceContent = {
         "Weeks 2–3: design, backend, internal builds to the owner's phone",
         "Weeks 4–6: subscriptions, pause logic, staff route view, payments",
         "Weeks 7–8: tests on three budget phones, closed test with 12+ loyal customers, store listing in Hindi and English",
-        "Week 9: staged production rollout, then 5 months of free fixes",
+        "Week 9: staged production rollout, then 2 months of free fixes",
       ],
     },
     {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       heading: "What happens after your Android app is live?",
       paragraphs: [
         `Launch starts the part that decides whether the app survives. In the first weeks, watch three numbers: crash-free users, one-day retention and the ratio of installs to uninstalls. Read every review; Indian users often report bugs there instead of by email. Reply politely in the Play Console, because replies are public and future customers read them.`,
-        `With us, the first five months after release include free maintenance: bug fixes, small text and image changes, and help with any policy notice from Google. After that, maintenance starts at ${P.care} a month and covers library updates, the yearly target API upgrade, backups of the backend and a set number of small changes. Bigger features are quoted separately, just like the original build. If you prefer to move the app to an in-house developer, you already hold the code and accounts, and we can walk them through it on a call.`,
+        `With us, the first two months after release include free maintenance: bug fixes, small text and image changes, and help with any policy notice from Google. After that, maintenance starts at ${P.care} a month and covers library updates, the yearly target API upgrade, backups of the backend and a set number of small changes. Bigger features are quoted separately, just like the original build. If you prefer to move the app to an in-house developer, you already hold the code and accounts, and we can walk them through it on a call.`,
       ],
     },
   ],
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
         ["Web app or admin panel only", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Ordering app plus online store", `App from ${P.app}, store from ${P.shop}`, `From ${P.appUsd} + ${P.shopUsd}`, "8–12 weeks"],
         ["AI feature added to an app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Ongoing"],
+        ["Maintenance after 2 free months", `From ${P.care}/month`, `From ${P.careUsd}/month`, "Ongoing"],
       ],
       hideSm: [2],
     },
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
       ["Designs you can tap", "Figma screens for a small phone first. You click through them on your own device and ask for changes before building begins."],
       ["Builds every few days", "Internal-track builds land on your phone regularly, so you watch the app grow and catch misunderstandings while they are still cheap to fix."],
       ["Real-phone testing and closed test", "Budget and mid-range devices, large fonts, weak networks. The closed test runs with your own testers while we polish the store listing."],
-      ["Staged release and handover", "A cautious production rollout, Android vitals watched daily, then a written handover of code, keys and accounts, with five months of free fixes."],
+      ["Staged release and handover", "A cautious production rollout, Android vitals watched daily, then a written handover of code, keys and accounts, with two months of free fixes."],
     ],
   },
   faqHeading: "Freelance Android developer: common questions",
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
     { question: "Do I need to pay Google to publish an Android app?", answer: "Yes, a one-time US$25 registration fee for a Play developer account, paid by you directly to Google. There is no yearly fee for Play, unlike Apple's developer programme. Google takes a service fee on paid apps and in-app digital purchases, but physical goods and services paid through normal UPI or card checkout are outside that system." },
     { question: "Can the app accept UPI payments?", answer: "Yes. On Android a checkout can pass the customer to the UPI app already installed on their phone, and card payments can be offered alongside. Payment confirmation must be verified on the server, never only in the app. For physical goods and services this does not fall under Google Play's billing rules." },
     { question: "Can the app be in Hindi or other Indian languages?", answer: "Yes. We keep all text in translation files so Hindi, Marathi, Tamil, Telugu, Bengali or any other language can sit beside English. On newer Android versions users can pick a language just for your app from system settings. You supply or approve the translations, because a native speaker should check tone and terms." },
-    { question: "What does maintenance of an Android app include?", answer: `Maintenance covers library and SDK updates, the yearly target API upgrade Google requires, crash fixes, backend backups and small changes. With us the first five months after release are free. After that it starts at ${P.care} a month, and new features are quoted separately so you always know what you are paying for.` },
+    { question: "What does maintenance of an Android app include?", answer: `Maintenance covers library and SDK updates, the yearly target API upgrade Google requires, crash fixes, backend backups and small changes. With us the first two months after release are free. After that it starts at ${P.care} a month, and new features are quoted separately so you always know what you are paying for.` },
     { question: "Can a freelance Android developer also build the backend and admin panel?", answer: "Our team can. Ankur builds full-stack systems, and the admin panel, APIs and database for your app are part of the same project, hosted in an account you own. Keeping the app and backend with one small team avoids the blame game between two vendors when an order fails to sync." },
     { question: "Do you sign an NDA before seeing my app idea?", answer: "Yes, we are happy to sign a reasonable non-disclosure agreement before you share details. The project agreement also states that the code, designs and data belong to you after payment. Honestly, the idea itself is rarely the risk; execution and ownership of accounts matter far more." },
     { question: "How do I pay a freelance Android developer safely?", answer: "Pay in stages tied to things you can see: an advance after the written estimate is approved, a payment when a working internal build reaches your phone, and the balance at production release. In India we take UPI or bank transfer; clients abroad use Wise, bank wire or PayPal. Never pay the full amount upfront to anyone." },
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance Android developer? Send the screen list",
-    note: `Message us on WhatsApp with what your app should do and who will use it. We reply with a Kotlin or Flutter recommendation and an itemised quote in about two working days. Android apps start at ${P.app}, the Play account stays yours, and the first five months of fixes are free.`,
+    note: `Message us on WhatsApp with what your app should do and who will use it. We reply with a Kotlin or Flutter recommendation and an itemised quote in about two working days. Android apps start at ${P.app}, the Play account stays yours, and the first two months of fixes are free.`,
   },
 };
 

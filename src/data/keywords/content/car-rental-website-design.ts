@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Booking engine with deposit and KYC", `From ${P.software}`],
     ["Customer or driver app", `From ${P.app}`],
     ["Written quote", "Itemised, around 2 working days"],
-    ["Post-launch care", "5 months free maintenance"],
+    ["Post-launch care", "2 months free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, no middlemen" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free upkeep after launch" },
+    { value: "2", label: "Months of free upkeep after launch" },
     { value: "0", label: "Commission taken on your bookings" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Availability, deposit, KYC engine", value: `From ${P.software}, 6–12 weeks` },
       { label: "Your inputs", value: "Fleet list, rate chart, route fares, rental terms" },
       { label: "How you pay us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
         `<strong>Back office:</strong> handover checklists, damage photos, driver assignment, reports.`,
       ],
       after: [
-        `Maintenance starts at ${P.care} after the first 5 free months; monthly SEO from ${P.seo}. See <a href='/rental-management-software/'>rental management software</a> if the back office matters more than the front end.`,
+        `Maintenance starts at ${P.care} after the first 2 free months; monthly SEO from ${P.seo}. See <a href='/rental-management-software/'>rental management software</a> if the back office matters more than the front end.`,
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Rates and content", "You send the fleet list, photos, rate chart, route fares and terms; we structure fleet, route and policy pages around them."],
       ["Design and booking flow", "Home, fleet, route and booking screens are designed and reviewed on your phone, then built with availability, payments and KYC where included."],
       ["Test bookings", "We run bookings for real cars and dates, try double bookings, failed payments and blurry uploads, and fix every rough edge with you."],
-      ["Launch and care", "The site goes live on your domain with analytics and Search Console, staff get a walkthrough, and 5 months of maintenance follow at no charge."],
+      ["Launch and care", "The site goes live on your domain with analytics and Search Console, staff get a walkthrough, and 2 months of maintenance follow at no charge."],
     ],
   },
   faqHeading: "Car rental website design: frequently asked questions",
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
     { question: "Can the website send booking confirmations on WhatsApp?", answer: `Yes, to customers who opt in: booking confirmation, KYC approval, driver and car details, pickup reminders and trip completion. Messages run through the WhatsApp Business Platform on an account in your name. Setup and automation start at ${P.ai}, and we record each customer’s opt-in.` },
     { question: "How should rental terms and damage rules appear on the site?", answer: "Show a short summary of key rules beside the price, link the full terms, ask customers to confirm they have read them, and save the accepted version with each booking. Handover and return checklists with timestamped photos protect both sides. Your lawyer should review the terms themselves." },
     { question: "Can I show different rates for weekends and festivals?", answer: "Yes. Pricing rules can vary by day of week, date range, festival or peak season, rental length and car type, with discounts for longer rentals. Your team edits these from the back office. Complex pricing adds to the build scope, and the quote lists it as a separate line." },
-    { question: "What happens after launch?", answer: `The first 5 months include maintenance at no charge for fixes and small changes. After that you can take a maintenance plan from ${P.care}, add monthly SEO, or run the site yourselves with our documentation. Exact scope is agreed in your written quote.` },
+    { question: "What happens after launch?", answer: `The first 2 months include maintenance at no charge for fixes and small changes. After that you can take a maintenance plan from ${P.care}, add monthly SEO, or run the site yourselves with our documentation. Exact scope is agreed in your written quote.` },
     { question: "How do we pay for the website?", answer: "Operators in India pay by UPI or bank transfer against milestones in the written quote, and nothing is billed until you approve it. Owners abroad pay in USD through Wise, bank wire or PayPal. Milestones usually follow design approval, build completion and launch." },
     { question: "Car rental website banane ka kharcha kitna hai?", answer: `Fleet, rate aur outstation route pages wali car rental website ${P.site} se shuru hoti hai, lagbhag 1–2 hafte mein. Online deposit, KYC upload aur availability wala booking system ${P.software} se shuru hota hai, 6–12 hafte. Quote 2 working days mein itemised milta hai.` },
     { question: "What should I prepare before starting a car rental website?", answer: "Prepare a list of every car with model, year, seats, fuel and transmission; real photos of each; your rate chart with limits and extras; outstation route fares; deposit and refund rules; rental terms; pickup locations and hours; and the WhatsApp numbers that should receive bookings and applications." },

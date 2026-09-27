@@ -36,7 +36,7 @@ const jhumriTilaiya: CityContent = {
     eyebrow: "Jhumri Tilaiya · Jharkhand",
     h1: "Websites, Android & iOS apps, SEO and AI automation for Jhumri Tilaiya's traders, schools and Koderma district suppliers",
     lede:
-      "Three remote engineers building websites, Android and iOS apps, map listings and WhatsApp automation for Jhumri Tilaiya and the rest of Koderma district: Station Road shops, mica and stone traders, schools and coaching classes, clinics, contractors around the Banjhedih power plant and stays near Tilaiya Dam. Our prices are starting figures, published openly, with five months of free maintenance.",
+      "Three remote engineers building websites, Android and iOS apps, map listings and WhatsApp automation for Jhumri Tilaiya and the rest of Koderma district: Station Road shops, mica and stone traders, schools and coaching classes, clinics, contractors around the Banjhedih power plant and stays near Tilaiya Dam. Our prices are starting figures, published openly, with two months of free maintenance.",
     pills: ["Sites from ₹10,000", "Android & iOS apps from ₹40,000", "Hindi-first content", "Mineral trader catalogues", "School and coaching portals"],
   },
   quickAnswer:
@@ -57,7 +57,7 @@ const jhumriTilaiya: CityContent = {
     ai: "Hindi WhatsApp replies that send school fee details, mineral rate lists or room availability without making customers wait.",
     data: "Dashboards for truck trips, material sales or admissions, collected from registers into a view the owner can read on a phone.",
     app: "Android and iOS apps for Koderma schools, coaching batches or trader reorders, published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Free fixes, backups and small edits for five months after launch; ongoing maintenance from ₹8,000 a month is optional.",
+    maintenance: "Free fixes, backups and small edits for two months after launch; ongoing maintenance from ₹8,000 a month is optional.",
   },
   whyUsIntro:
     "Jhumri Tilaiya's businesses usually hear about websites from agencies in Ranchi, Dhanbad or Patna, which are hard to reach once the invoice is paid. We work remotely too, but we answer on WhatsApp every day, publish our starting prices, and put the domain, hosting and code in your name from day one.",
@@ -185,7 +185,7 @@ const jhumriTilaiya: CityContent = {
       paragraphs: [
         "Plenty of Koderma businesses have lost a website because the person who built it kept the domain under his own login and then stopped answering calls. When renewal came, nobody could pay it, and years of work disappeared overnight.",
         "With us, the domain, hosting, Google Play developer account and Apple developer account are opened in your name. At launch, you get all passwords, the full source code and a short handover note. You may move to another developer at any time, and we will not charge anything for letting you go.",
-        "The first five months after launch include free maintenance: text and price changes, bug fixes, security updates, backups and uptime monitoring. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when a change is needed.",
+        "The first two months after launch include free maintenance: text and price changes, bug fixes, security updates, backups and uptime monitoring. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when a change is needed.",
       ],
     },
   ],
@@ -267,7 +267,7 @@ const jhumriTilaiya: CityContent = {
     {
       question: "What does maintenance include after launch?",
       answer:
-        "For five months after launch, we handle content updates, fixes, security patches, backups and uptime checks for free. After that, maintenance starts from ₹8,000 a month if you want us to continue, or you can pay only for specific changes when you need them. Nothing renews automatically.",
+        "For two months after launch, we handle content updates, fixes, security patches, backups and uptime checks for free. After that, maintenance starts from ₹8,000 a month if you want us to continue, or you can pay only for specific changes when you need them. Nothing renews automatically.",
     },
     {
       question: "Will my business reach the top of Google?",

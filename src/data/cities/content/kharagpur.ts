@@ -31,11 +31,11 @@ const kharagpur: CityContent = {
     eyebrow: "Kharagpur · West Bengal",
     h1: "Websites, software, SEO and AI tools for Kharagpur's rail town, industrial park and campus",
     lede:
-      "We are three engineers working remotely, building websites, online stores, web apps and WhatsApp automations for Kharagpur's industrial suppliers, railway contractors, campus startups, clinics, tutors and shops. You see our prices before you call, you own the domain and code, and five months of maintenance after launch cost nothing.",
+      "We are three engineers working remotely, building websites, online stores, web apps and WhatsApp automations for Kharagpur's industrial suppliers, railway contractors, campus startups, clinics, tutors and shops. You see our prices before you call, you own the domain and code, and two months of maintenance after launch cost nothing.",
     pills: ["Sites from ₹10,000", "Bengali, Hindi, English", "Vendor and contractor sites", "Startup landing pages", "WhatsApp automation"],
   },
   quickAnswer:
-    "A Kharagpur business website with us starts at ₹10,000 and goes live in one to two weeks; a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000. We are three remote engineers with no Kharagpur office, and every project includes five months of free maintenance.",
+    "A Kharagpur business website with us starts at ₹10,000 and goes live in one to two weeks; a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores start at ₹50,000. We are three remote engineers with no Kharagpur office, and every project includes two months of free maintenance.",
   snapshot: [
     { label: "Railways", value: "Divisional headquarters of South Eastern Railway, a large workshop, and a 1,072-metre platform at the junction" },
     { label: "Education", value: "IIT Kharagpur, India's first IIT (1951); Kharagpur College, Hijli College, a medical college" },
@@ -52,10 +52,10 @@ const kharagpur: CityContent = {
     ai: "WhatsApp bots and AI assistants that answer routine questions in Bengali, Hindi or English and pass real leads to staff.",
     data: "Dashboards for tenders, orders and dispatches, built from the spreadsheets your team already maintains.",
     app: "Android and iOS apps for bookings, student portals and field staff, published on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Five free months of updates, backups and fixes, then from ₹8,000 a month or per change.",
+    maintenance: "Two free months of updates, backups and fixes, then from ₹8,000 a month or per change.",
   },
   whyUsIntro:
-    "Kharagpur has plenty of technically skilled people, but few small businesses have a website that works, and many agencies quoting here are based in Kolkata. We publish our prices, talk to you directly on WhatsApp seven days a week, and maintain your site free for the first five months.",
+    "Kharagpur has plenty of technically skilled people, but few small businesses have a website that works, and many agencies quoting here are based in Kolkata. We publish our prices, talk to you directly on WhatsApp seven days a week, and maintain your site free for the first two months.",
   pricingIntro:
     "Our starting prices are the same in Kharagpur as elsewhere. A tutor's five-page site and a contractor's thirty-page credentials site need very different effort, so your quote itemises every page and feature. You approve it in writing before any billing.",
   sections: [
@@ -178,7 +178,7 @@ const kharagpur: CityContent = {
       paragraphs: [
         "A familiar problem in Kharagpur: a website built by a student or freelancer who later graduated or moved away, with the domain registered under their personal email. When renewal comes, nobody can log in. The site disappears, and years of Google visibility go with it.",
         "We register your domain in your name and set up hosting on your own account. At launch you receive every login, the full source code and a short explanation of the set-up. You can move to another developer at any time with no exit fee.",
-        "Five months of maintenance after launch are free: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change and pay for that job.",
+        "Two months of maintenance after launch are free: content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance costs from ₹8,000 a month, or you can contact us only when you need a change and pay for that job.",
       ],
     },
     {
@@ -274,7 +274,7 @@ const kharagpur: CityContent = {
     {
       question: "What does free maintenance cover, and what does it cost later?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can pay only for the changes you request.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can pay only for the changes you request.",
     },
     {
       question: "How long does SEO take in Kharagpur?",

@@ -56,7 +56,7 @@ const mangrol: CityContent = {
     ai: "WhatsApp assistants that answer rate, stock and timing questions in Gujarati and hand real deals back to you.",
     data: "Dashboards of trips, catch by species, buyer dues and processing yield across the fishing season.",
     app: "Android and iOS apps for boat crews to log trips or for mango buyers to order each season, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Mangrol's harbour and bazaar run on quick decisions and long relationships. We keep our side simple: published starting prices, a written itemised quote, WhatsApp replies every day of the week, and the domain, hosting, code and store accounts registered in your name. If something you ask for will not pay back, we say it before you spend.",
@@ -158,7 +158,7 @@ const mangrol: CityContent = {
       heading: "Website cost in Mangrol: starting prices and how to compare quotes",
       paragraphs: [
         "Here are our starting points for Mangrol. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700 or more pages, useful for an exporter listing every species and market or a school covering every class, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation, which takes two to four weeks.",
-        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month. Maintenance is free for five months after launch and then starts at ₹8,000 a month if you want us to continue.",
+        "An online store starts at ₹50,000 and takes four to eight weeks. Custom software starts at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month. Maintenance is free for two months after launch and then starts at ₹8,000 a month if you want us to continue.",
         "Your figure goes up only for things you choose: Gujarati and English versions, large product catalogues, export enquiry forms, payment collection, staff logins or accounting links. Each is written as its own line so you can keep it or remove it. If you supply your own text and photographs, the cost barely moves.",
         "Quotes in the area vary widely for work that sounds alike. Ask every provider who will own the domain, whether the site is tested on cheap phones, whether basic SEO is included, how many revisions are covered and what support costs in the second year. Our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and your written quote arrives in about two working days.",
       ],
@@ -178,7 +178,7 @@ const mangrol: CityContent = {
       heading: "Ownership and maintenance for Mangrol websites and apps",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered on your email, hosting is billed in your name, the full source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as owner. At handover you get a written list of every login, so nobody, including us, can hold your site back.",
-        "For five months after launch we maintain it at no charge: seasonal price and photo changes, backups, security and software updates, and regular checks of forms, UPI payments and WhatsApp links. After that you choose whether to continue with us from ₹8,000 a month, manage it yourself or hand the code to another developer.",
+        "For two months after launch we maintain it at no charge: seasonal price and photo changes, backups, security and software updates, and regular checks of forms, UPI payments and WhatsApp links. After that you choose whether to continue with us from ₹8,000 a month, manage it yourself or hand the code to another developer.",
         "Apps need a yearly update even when nothing looks broken, because Google and Apple keep raising their minimum requirements. We watch those deadlines and ship updates early, so your app is never removed from a store just before mango season or the start of the fishing months.",
       ],
     },
@@ -275,7 +275,7 @@ const mangrol: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch, covering price and photo changes, backups, security updates and checks of forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. All accounts and code are already yours, so switching needs no permission from us.",
+        "Maintenance is free for two months after launch, covering price and photo changes, backups, security updates and checks of forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. All accounts and code are already yours, so switching needs no permission from us.",
     },
     {
       question: "Do you work in Chorwad, Keshod and Veraval as well?",

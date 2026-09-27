@@ -316,7 +316,7 @@ const content: FreelanceContent = {
       heading: "Keeping a website PDPL-ready after the fixes",
       paragraphs: [
         `PDPL compliance for websites is not a one-off project, because websites change weekly. New campaigns bring new pixels, new forms appear for events, and plugins update. A light monthly check keeps the controls working.`,
-        `After our work you get five months of free maintenance, during which we re-check tags after changes and keep the request and incident tools running. After that, maintenance starts from ${P.care} a month. If you also want search growth, monthly SEO starts from ${P.seo}; privacy and SEO work well together, because a lean, fast site with fewer scripts also scores better on Core Web Vitals.`,
+        `After our work you get two months of free maintenance, during which we re-check tags after changes and keep the request and incident tools running. After that, maintenance starts from ${P.care} a month. If you also want search growth, monthly SEO starts from ${P.seo}; privacy and SEO work well together, because a lean, fast site with fewer scripts also scores better on Core Web Vitals.`,
         `For AI search, clear public pages about how you handle data, in plain Arabic and English, help assistants answer customers' privacy questions accurately. Our <a href='/saudi-arabia/seo-services/'>SEO services for Saudi businesses</a> cover that content side.`,
       ],
     },
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
       ["Counsel decisions", "Your lawyer decides notice wording, consent approach, transfers and retention. Their written answers become our checklist and acceptance criteria."],
       ["Quick fixes first", "Consent banner, notice links, form clean-up and tag removal go live early, because they reduce exposure fastest and need little new code."],
       ["Workflows and logs", "Request queue, export and deletion across tools, incident log and admin alerts are built on staging, tested with drills, then launched."],
-      ["Handover and upkeep", "Runbook, recorded walkthrough and technical inventory handed over, followed by five months of free maintenance and tag re-checks after changes."],
+      ["Handover and upkeep", "Runbook, recorded walkthrough and technical inventory handed over, followed by two months of free maintenance and tag re-checks after changes."],
     ],
   },
   faqHeading: "PDPL compliance for websites: common questions",
@@ -426,7 +426,7 @@ const content: FreelanceContent = {
     { question: "What about PDPL for mobile apps?", answer: "Apps need the same controls plus a few of their own: consent screens before tracking SDKs start, in-app account deletion, accurate privacy labels on Google Play and the App Store, and careful handling of device permissions. We update Flutter and React Native apps and keep the app and website consistent with one privacy notice." },
     { question: "Can a developer in India work on a Saudi website's personal data?", answer: "Yes, with care, and your lawyer should confirm the arrangement fits your transfer decisions. We work in staging copies with personal data masked where possible, use limited accounts you create and control, and never keep copies of your database. Production systems stay in your cloud account, including any in-Kingdom hosting you choose." },
     { question: "Will PDPL changes hurt my SEO or marketing?", answer: "Usually less than people fear. Consent affects how much analytics data you see, and consent mode helps fill some gaps. Removing unused scripts often makes pages faster, which helps Core Web Vitals. Marketing lists built on clear opt-in tend to perform better, and a plain privacy page can help AI assistants answer customer questions accurately." },
-    { question: "What happens after the PDPL fixes are live?", answer: `You get five months of free maintenance, including tag re-checks after marketing changes and upkeep of the request and incident tools. After that, maintenance starts from ${P.care} a month. We recommend a quick tag review whenever a new pixel, form or plugin is added, because that is how most sites drift.` },
+    { question: "What happens after the PDPL fixes are live?", answer: `You get two months of free maintenance, including tag re-checks after marketing changes and upkeep of the request and incident tools. After that, maintenance starts from ${P.care} a month. We recommend a quick tag review whenever a new pixel, form or plugin is added, because that is how most sites drift.` },
   ],
   related: {
     heading: "More Saudi pages on building sites and apps properly",

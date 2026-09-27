@@ -43,7 +43,7 @@ const content: FreelanceContent = {
     { value: "2", label: "Languages the team works in: Hindi and English" },
     { value: "3", label: "Freelance developers on strategy, build and SEO" },
     { value: "2", label: "Working days to an itemised written quote" },
-    { value: "5", label: "Months of free maintenance after a new build" },
+    { value: "2", label: "Months of free maintenance after a new build" },
   ],
   answer: {
     heading: "How do you rank a Hindi or bilingual website on Google?",
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
         ["Many services, both languages", "Bilingual SEO website, 299+ pages", `${P.seoSite}`, "3–5 weeks"],
         ["Hindi enquiries flooding WhatsApp", "Hindi auto-replies and lead sorting", `${P.ai}`, "2–4 weeks"],
         ["Hindi customers want an app", "Android and iOS app with Hindi interface", `${P.app}`, "6–10 weeks"],
-        ["After launch", "Maintenance after 5 free months", `${P.care} per month`, "Ongoing"],
+        ["After launch", "Maintenance after 2 free months", `${P.care} per month`, "Ongoing"],
       ],
       hideSm: [1],
     },

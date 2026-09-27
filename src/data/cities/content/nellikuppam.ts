@@ -56,7 +56,7 @@ const nellikuppam: CityContent = {
     ai: "Tamil and English WhatsApp assistants that quote rates, book slots and log orders, handing anything unusual to you.",
     data: "Season dashboards showing tonnage hauled, advances paid, dues from the factory and orders by village.",
     app: "Android and iOS apps for drivers logging loads or village retailers reordering inputs, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of upkeep after launch, then from ₹8,000 a month for backups, updates and fixes.",
+    maintenance: "Two free months of upkeep after launch, then from ₹8,000 a month for backups, updates and fixes.",
   },
   whyUsIntro:
     "Nellikuppam has watched one factory run for close to two centuries, so people here judge a supplier by whether it is still around and still answering later. We publish our starting prices, put every quote in writing, answer WhatsApp all week, and register your domain, code and store accounts to you from day one.",
@@ -161,7 +161,7 @@ const nellikuppam: CityContent = {
         "Ecommerce store: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance: from ₹8,000 a month once the five free months end",
+        "Maintenance: from ₹8,000 a month once the two free months end",
       ],
     },
     {
@@ -178,7 +178,7 @@ const nellikuppam: CityContent = {
       heading: "Ownership, handover and maintenance for Nellikuppam websites and apps",
       paragraphs: [
         "Ownership is settled on the first day, not at the end. Your domain is registered on your email, hosting is billed to you, the Google Business Profile lists you as owner, and the Play Console and Apple developer accounts are opened in your business name. At handover you receive the source code and one sheet with every login, so no developer, us included, can hold your site back later.",
-        "The first five months after launch are maintained free. In that window we change prices and photos, keep backups, apply security and version updates, renew certificates where needed, and test forms, checkout and WhatsApp links every few weeks. After that the choice is yours: stay with us from ₹8,000 a month, manage it in-house, or pass the code to any developer you like.",
+        "The first two months after launch are maintained free. In that window we change prices and photos, keep backups, apply security and version updates, renew certificates where needed, and test forms, checkout and WhatsApp links every few weeks. After that the choice is yours: stay with us from ₹8,000 a month, manage it in-house, or pass the code to any developer you like.",
         "Apps need slightly more care than websites. Google and Apple lift their minimum requirements every year, and an app that falls behind can be hidden from the store. We track those deadlines and rebuild ahead of them. Websites age more slowly, though a yearly look at speed, broken links and stale content keeps them bringing in enquiries.",
       ],
     },
@@ -265,7 +265,7 @@ const nellikuppam: CityContent = {
     {
       question: "What maintenance do I get after my site or app goes live?",
       answer:
-        "The first five months after launch are free: price and photo edits, backups, security and version updates, and regular tests of forms, checkout and WhatsApp links. After that you can continue from ₹8,000 a month or take it in-house. For apps we also handle the yearly Google and Apple requirement changes so your listing stays live.",
+        "The first two months after launch are free: price and photo edits, backups, security and version updates, and regular tests of forms, checkout and WhatsApp links. After that you can continue from ₹8,000 a month or take it in-house. For apps we also handle the yearly Google and Apple requirement changes so your listing stays live.",
     },
     {
       question: "Do you work in Cuddalore, Panruti and Neyveli as well?",

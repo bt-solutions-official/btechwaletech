@@ -57,7 +57,7 @@ const bhatapara: CityContent = {
     ai: "WhatsApp assistants that quote today's rates you set, collect order details in Hindi and hand every negotiation back to you.",
     data: "Season dashboards of paddy received, output by grade, dispatch by buyer and dues outstanding.",
     app: "Android and iOS apps for a trader's regular buyers to see rates and place orders, or for mill supervisors to log lorries, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "The first five months after launch are covered free; after that, upkeep starts at ₹8,000 a month.",
+    maintenance: "The first two months after launch are covered free; after that, upkeep starts at ₹8,000 a month.",
   },
   whyUsIntro:
     "Bhatapara runs on trust built over years of dealing in the same mandi, and people here want to see numbers before they commit. We publish starting prices, send a written itemised quote, answer WhatsApp seven days a week and put your domain, hosting, code and app store accounts in your own name. If something will not earn back its cost, we tell you.",
@@ -178,7 +178,7 @@ const bhatapara: CityContent = {
       heading: "Ownership and maintenance for Bhatapara websites and apps",
       paragraphs: [
         "Everything we build for a Bhatapara client is registered to that client. The domain is booked on your email, hosting is billed in your name, you receive the full source code, and you are the owner on the Google Business Profile, the Google Play console and the Apple developer account. At handover you get a written list of every login, so no developer, including us, can ever lock you out.",
-        "For five months after launch, maintenance costs nothing. We update rates and photographs, take backups, apply security and software updates, and check that forms, payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to someone else.",
+        "For two months after launch, maintenance costs nothing. We update rates and photographs, take backups, apply security and software updates, and check that forms, payments and WhatsApp buttons still work. After that you choose: continue with us from ₹8,000 a month, manage it yourself, or hand the code to someone else.",
         "Apps need a rebuild roughly once a year even when they work perfectly, because Google and Apple raise their minimum requirements. We track those deadlines and update early, so your app is never removed from a store for falling behind.",
       ],
     },
@@ -270,7 +270,7 @@ const bhatapara: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: rate and photo updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. Since the code and accounts are in your name, switching developers needs no permission from us.",
+        "Maintenance is free for two months after launch: rate and photo updates, backups, security patches and checks on forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or manage it yourself. Since the code and accounts are in your name, switching developers needs no permission from us.",
     },
     {
       question: "Do you work in Baloda Bazar, Tilda and Bilaspur as well?",

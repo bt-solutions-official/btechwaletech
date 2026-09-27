@@ -31,11 +31,11 @@ const karimnagar: CityContent = {
     eyebrow: "Karimnagar · Telangana",
     h1: "Websites, Telugu search visibility and automation for Karimnagar's granite yards, filigree workshops and hospitals",
     lede:
-      "A remote team of three engineers building websites, Google listings and WhatsApp workflows for Karimnagar businesses: granite quarry and processing firms, silver filigree artisans, the hospitals and medical colleges that serve north Telangana, rice mills, schools and retailers. You see prices before the first call, speak to the people doing the work, and pay nothing for maintenance for five months.",
+      "A remote team of three engineers building websites, Google listings and WhatsApp workflows for Karimnagar businesses: granite quarry and processing firms, silver filigree artisans, the hospitals and medical colleges that serve north Telangana, rice mills, schools and retailers. You see prices before the first call, speak to the people doing the work, and pay nothing for maintenance for two months.",
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Granite export catalogues", "Filigree online stores", "WhatsApp appointment flows"],
   },
   quickAnswer:
-    "In Karimnagar, a simple business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Karimnagar office, and the first five months of maintenance are free.",
+    "In Karimnagar, a simple business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and AI or WhatsApp automation at ₹40,000. We are a remote three-engineer team with no Karimnagar office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Regional role", value: "District headquarters and a major education and healthcare centre for north-western Telangana" },
     { label: "Granite", value: "Known as a city of granite; quarries across Karimnagar, Manakondur and nearby mandals supply varieties such as Tan Brown and Maple Red" },
@@ -52,10 +52,10 @@ const karimnagar: CityContent = {
     ai: "WhatsApp assistants that share catalogues, OP timings or admission details in Telugu and English and hand real conversations to your staff.",
     data: "Dashboards that pull together dispatches, admissions or patient numbers so owners see the week's picture on one screen.",
     app: "Android and iOS apps for staff attendance, granite quarry trip logs or student notices, released on both app stores with prices from ₹40,000.",
-    maintenance: "Free updates, backups, security patches and uptime checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups, security patches and uptime checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Karimnagar businesses usually choose between a local freelancer who builds a quick template and a Hyderabad agency that quotes city rates and communicates through account managers. We sit between the two: published prices, written itemised quotes, direct access to the three engineers who build the work, WhatsApp replies seven days a week, and five months of free maintenance after launch.",
+    "Karimnagar businesses usually choose between a local freelancer who builds a quick template and a Hyderabad agency that quotes city rates and communicates through account managers. We sit between the two: published prices, written itemised quotes, direct access to the three engineers who build the work, WhatsApp replies seven days a week, and two months of free maintenance after launch.",
   pricingIntro:
     "Website pricing in Karimnagar is often a verbal number that changes once work starts. Our starting prices are published openly. Your final quote depends on page count, features, languages and how much content we prepare, and it is sent in writing, line by line, before any work begins or any bill is raised.",
   sections: [
@@ -169,7 +169,7 @@ const karimnagar: CityContent = {
       paragraphs: [
         "Too many Karimnagar businesses have lost a website because the domain sat in a former developer's account. When the renewal lapsed or the developer moved on, the site vanished and the business could not even update its phone number.",
         "With us, the domain and hosting are in your name and on your payment method from the start. At launch you receive every login, the full source code and a written handover note. If you later hire someone else, you give them the access and they can continue. There is no lock-in and no exit charge. Our <a href=\"/services/web-development/\">web development</a> follows common, well-documented tools so any competent developer can pick it up.",
-        "For five months after launch, maintenance is free: software and security updates, backups, uptime monitoring, bug fixes and small content changes. After that, you can continue from ₹8,000 a month or contact us only when you need something.",
+        "For two months after launch, maintenance is free: software and security updates, backups, uptime monitoring, bug fixes and small content changes. After that, you can continue from ₹8,000 a month or contact us only when you need something.",
       ],
     },
     {
@@ -261,7 +261,7 @@ const karimnagar: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we cover security and software updates, backups, uptime checks, bug fixes and small text or photo changes. After that you can continue from ₹8,000 a month or contact us only when needed. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months after launch we cover security and software updates, backups, uptime checks, bug fixes and small text or photo changes. After that you can continue from ₹8,000 a month or contact us only when needed. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long does SEO take in Karimnagar?",

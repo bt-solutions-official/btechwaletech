@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers building it" },
     { value: "2", label: "Working days to your quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "0", label: "Commission on meals served" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Counter setup", value: "Android tablet with QR scanner or RFID reader" },
       { label: "Payments", value: "Wallet top-ups by UPI; salary deduction; subsidy" },
       { label: "Reports", value: "Meals served, subsidy cost, vendor bills, wastage" },
-      { label: "After launch", value: `5 months free, then support from ${P.care}` },
+      { label: "After launch", value: `2 months free, then support from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a canteen management system costs",
-    note: `A canteen management system for one location with counter scanning, wallet, subsidy rules, menus and vendor settlement starts at ${P.software}. A diner app for Android and iOS with UPI top-up and pre-orders starts at ${P.app} when built as a separate app. Costs rise with multiple campuses, several vendors with different contracts, face-recognition counters, integration with HR or payroll for salary deduction, and AI features such as demand forecasting for pre-cooking quantities, which start from ${P.ai}. Hardware such as tablets, RFID readers and printers is bought by you. Hosting is billed to your own cloud account. After five free months, support starts at ${P.care}.`,
+    note: `A canteen management system for one location with counter scanning, wallet, subsidy rules, menus and vendor settlement starts at ${P.software}. A diner app for Android and iOS with UPI top-up and pre-orders starts at ${P.app} when built as a separate app. Costs rise with multiple campuses, several vendors with different contracts, face-recognition counters, integration with HR or payroll for salary deduction, and AI features such as demand forecasting for pre-cooking quantities, which start from ${P.ai}. Hardware such as tablets, RFID readers and printers is bought by you. Hosting is billed to your own cloud account. After two free months, support starts at ${P.care}.`,
   },
   guideLabel: "Canteen system guide",
   guide: [
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
       ["Rule sheet", "HR, admin and finance sign a plain-language rule sheet: who eats what, who pays which share, vendor rates, caps and cut-offs. It becomes the testing standard."],
       ["Build with weekly demos", "We build the admin, counter and diner apps on a staging server and show progress weekly, using your real menu and a sample of diners."],
       ["Pilot counter", "One counter runs the new system alongside coupons for about a week. Counts are compared daily, rules are adjusted, and staff get comfortable before the full switch."],
-      ["Launch and handover", "All counters switch over, diners are onboarded, and you receive code, server access and documentation. Five months of free maintenance start at launch."],
+      ["Launch and handover", "All counters switch over, diners are onboarded, and you receive code, server access and documentation. Two months of free maintenance start at launch."],
     ],
   },
   faqHeading: "Canteen management system: frequently asked questions",
@@ -388,7 +388,7 @@ const content: FreelanceContent = {
     { question: "Is a restaurant POS good enough for a corporate canteen?", answer: "Sometimes. If every diner pays in full and there is one vendor, a restaurant POS may be enough. It struggles with subsidies by grade or shift, identified diners, contract worker rules and vendor settlement with employer and employee shares. That is where a canteen-specific system earns its cost." },
     { question: "Can visitors and guests use the canteen system?", answer: "Yes. Reception or the host can issue single-use QR coupons valid for one meal on one date, charged to the host's department or paid by the visitor. The coupon cannot be reused, and the department cross-charge appears in the monthly report so finance does not have to chase paper slips." },
     { question: "Canteen ke liye software banwana ho to kaise shuru karein?", answer: `Pehle WhatsApp par batayiye ki abhi coupon, cash ya register kaise chalta hai, aur agar subsidy policy likhi hui hai to bhej dijiye. Hum 2 working days mein itemised quote dete hain. Custom canteen system ${P.software} se shuru hota hai aur diner app ${P.app} se. Approval se pehle kuch bill nahi hota.` },
-    { question: "What happens after the canteen system goes live?", answer: `You get five months of free maintenance after launch for fixes and help as counters and diners settle in. After that, support starts at ${P.care}. Changes such as new vendors, new sites or new subsidy rule types are quoted in writing first, and terms are agreed in your written quote.` },
+    { question: "What happens after the canteen system goes live?", answer: `You get two months of free maintenance after launch for fixes and help as counters and diners settle in. After that, support starts at ${P.care}. Changes such as new vendors, new sites or new subsidy rule types are quoted in writing first, and terms are agreed in your written quote.` },
     { question: "How do we pay for the build?", answer: "Nothing is charged before you approve the itemised quote in writing. In India you pay by UPI or bank transfer against invoices; overseas clients pay in USD through Wise, bank wire or PayPal. Milestones and confidentiality are covered in the written quote, and our general terms and refund policy are on the website." },
   ],
   related: {

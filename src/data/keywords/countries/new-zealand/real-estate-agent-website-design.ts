@@ -35,13 +35,13 @@ const content: FreelanceContent = {
     ["Suburb-heavy site (299+ pages) from", P.seoSite],
     ["Custom listing or vendor portal from", P.software],
     ["Usual build time", "1 to 2 weeks; 3 to 5 with many suburb pages"],
-    ["Free maintenance", "5 months from launch"],
+    ["Free maintenance", "2 months from launch"],
     ["Quote", "Itemised in USD in about 2 working days"],
   ],
   stats: [
     { value: "3", label: "Freelance developers covering build, SEO and project management" },
     { value: "2", label: "Working days, roughly, until your written quote" },
-    { value: "5", label: "Months of free fixes and small edits after go-live" },
+    { value: "2", label: "Months of free fixes and small edits after go-live" },
     { value: "0", label: "Platform or portal commission taken by us on any listing" },
   ],
   answer: {
@@ -197,7 +197,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, real estate agent website design starts from ${P.site} for a personal-brand site and from ${P.seoSite} for a suburb-driven site with hundreds of pages. Custom portals start from ${P.software}. Quotes from other designers vary widely, so it helps to know what actually moves the number.`,
         `The biggest cost drivers are the listing integration, the number of genuinely distinct suburb pages, and any logged-in area for vendors. Design polish matters less than people expect, because agent sites follow a proven layout. Copywriting is another variable: if you supply voice notes and we shape them, it costs less than writing everything from scratch.`,
-        `Running costs are modest. You pay your own domain registration and hosting directly to the provider, in your name. After launch you get five months of free maintenance. From then, a care plan starts from ${P.care}, and ongoing search work from ${P.seo} if you want it. There is no percentage of commission, no per-listing fee and no lock-in tied to the site.`,
+        `Running costs are modest. You pay your own domain registration and hosting directly to the provider, in your name. After launch you get two months of free maintenance. From then, a care plan starts from ${P.care}, and ongoing search work from ${P.seo} if you want it. There is no percentage of commission, no per-listing fee and no lock-in tied to the site.`,
       ],
       after: [
         `See the cost table further down for how scopes map to plans, or compare approaches on our <a href='/new-zealand/affordable-web-design/'>affordable web design in NZ</a> page if budget is the deciding factor.`,
@@ -394,12 +394,12 @@ const content: FreelanceContent = {
       ["Layout on your phone", "We share a clickable layout for home, appraisal and one suburb page. You review it between appointments and send changes by message."],
       ["Content from voice notes", "You record short notes per suburb; we turn them into drafts. You correct facts and tone, and your compliance person reviews claims and licence wording."],
       ["Build, connect and test", "Ankur builds the pages and connects your CRM feed. Every form is tested end to end, with alerts reaching your phone and leads reaching your CRM."],
-      ["Launch and five months of care", "The domain goes live on your accounts, Search Console is verified, and you get five months of free fixes and small edits from launch day."],
+      ["Launch and two months of care", "The domain goes live on your accounts, Search Console is verified, and you get two months of free fixes and small edits from launch day."],
     ],
   },
   faqHeading: "Real estate agent website design: questions NZ agents ask",
   faqs: [
-    { question: "How much does real estate agent website design cost in New Zealand?", answer: `With BtechWaleTech, a personal-brand agent site starts from ${P.site}, and a suburb-heavy site with hundreds of pages starts from ${P.seoSite}. A vendor portal or custom listing search starts from ${P.software}. Quotes from others vary widely, mostly because of CRM integration, page count and copywriting. You pay your own domain and hosting directly, and get five months of free maintenance after launch.` },
+    { question: "How much does real estate agent website design cost in New Zealand?", answer: `With BtechWaleTech, a personal-brand agent site starts from ${P.site}, and a suburb-heavy site with hundreds of pages starts from ${P.seoSite}. A vendor portal or custom listing search starts from ${P.software}. Quotes from others vary widely, mostly because of CRM integration, page count and copywriting. You pay your own domain and hosting directly, and get two months of free maintenance after launch.` },
     { question: "Do I need my own website if I am listed on my agency's site?", answer: "Not necessarily. Your agency profile shows your listings, but it rarely explains how you work or proves local knowledge. A personal site helps once you have an established patch and people search your name. If you are in your first year, or your franchise agreement restricts personal branding, an agency profile plus a Google Business Profile may be enough for now." },
     { question: "What must a real estate agent website show under NZ law?", answer: "The Real Estate Authority's guidance, based on section 121 of the Real Estate Agents Act 2008, says your name, the fact you are licensed under the Act, and any different trading name must appear on websites and social media. Short forms like “Licensed REAA 2008” are accepted. We place this on every page, and your agency or lawyer should confirm the final wording." },
     { question: "Can a salesperson call themselves a licensed real estate agent online?", answer: "REA's marketing guidance says licensed salespersons should use “licensed salesperson” or “licensee”, while “licensed agent” belongs to those holding an agent's licence. Salespersons can still use the everyday word “agent” in general copy. Tell us your licence class at the start and we will keep titles consistent across headings, profiles, meta descriptions and structured data." },
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
     { question: "Can I put reviews and testimonials on my agent website?", answer: "Yes, if they are genuine and you can show where they came from, such as a review platform or a signed note from a vendor. We add the text you supply and can link to the source. We never write, edit or embellish reviews, since that risks breaching the Fair Trading Act and misleading vendors." },
     { question: "Do you handle privacy for appraisal forms?", answer: "We build the forms to support your Privacy Act 2020 obligations: minimal fields, HTTPS, submissions stored in your CRM or inbox, and a privacy statement template for you or your lawyer to finalise. Newsletter sign-ups record consent and include working unsubscribes. Compliance remains your responsibility, and we recommend your own adviser checks the final setup." },
     { question: "How do payments work when hiring a team in India?", answer: "You receive an itemised quote in USD and pay by Wise, bank wire or PayPal. Invoices are issued from India. Nothing is billed before you approve the written quote. Any milestone schedule is set out in that quote, and our terms and refund policy pages explain the general approach. We do not advise on how you treat the cost for tax." },
-    { question: "What happens after the five months of free maintenance?", answer: `You can take over updates yourself, move to any other developer with full access to your code, or choose a care plan from ${P.care} for fixes, updates and small edits. If you want continued search work such as new suburb pages and Search Console reviews, monthly SEO starts from ${P.seo}. Neither is required to keep the site running.` },
+    { question: "What happens after the two months of free maintenance?", answer: `You can take over updates yourself, move to any other developer with full access to your code, or choose a care plan from ${P.care} for fixes, updates and small edits. If you want continued search work such as new suburb pages and Search Console reviews, monthly SEO starts from ${P.seo}. Neither is required to keep the site running.` },
     { question: "Can you build a website for a boutique real estate agency?", answer: "Yes. A boutique agency site usually combines agency listings from the CRM with a page for each salesperson, each carrying their own appraisal form and licence line, plus the agency's licensed status. It typically starts on the SEO website plan and takes three to six weeks, depending on team size and how many suburb pages you want." },
     { question: "Do you visit my office or take property photos?", answer: "No. We are three freelance developers working remotely from India, so there are no site visits, photo shoots or in-person meetings. Your photographer supplies images and video; we optimise and display them. Briefing happens by video call and WhatsApp during New Zealand afternoons, which line up with our mornings." },
     { question: "Can a real estate website include a vendor portal?", answer: `Yes. A vendor portal gives each vendor a private login showing open home numbers, buyer feedback, campaign progress and documents. It is quoted as a custom web app from ${P.software} and typically takes six to twelve weeks. Access is controlled per vendor, and activity is logged so you can see who viewed what.` },

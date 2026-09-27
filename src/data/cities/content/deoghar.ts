@@ -31,11 +31,11 @@ const deoghar: CityContent = {
     eyebrow: "Deoghar · Santhal Pargana, Jharkhand",
     h1: "Web, app, SEO and automation services for Deoghar's pilgrim economy and local trade",
     lede:
-      "We are three remote engineers who build websites, booking pages, UPI stores and WhatsApp workflows for Deoghar businesses: hotels and dharamshalas near Baba Baidyanath Dham, peda makers, travel operators, hospitals and clinics, coaching centres and shops from Tower Chowk to Jasidih. You see starting prices upfront, and maintenance is free for five months after launch.",
+      "We are three remote engineers who build websites, booking pages, UPI stores and WhatsApp workflows for Deoghar businesses: hotels and dharamshalas near Baba Baidyanath Dham, peda makers, travel operators, hospitals and clinics, coaching centres and shops from Tower Chowk to Jasidih. You see starting prices upfront, and maintenance is free for two months after launch.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Room booking enquiries", "Peda and prasad stores", "Shravani Mela ready"],
   },
   quickAnswer:
-    "A website for a Deoghar business starts from ₹10,000 with our team and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote team of three engineers with no Deoghar office, and the first five months of maintenance are free.",
+    "A website for a Deoghar business starts from ₹10,000 with our team and is ready in one to two weeks. A 299+ page SEO website starts from ₹20,000, AI and WhatsApp automation from ₹40,000 and an online store from ₹50,000. We are a remote team of three engineers with no Deoghar office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Known for", value: "Baba Baidyanath Temple, one of the twelve Jyotirlingas, which gives the town the name Baba Dham" },
     { label: "Biggest season", value: "Shravani Mela in Shravan, when Kanwariyas carry Ganga water about 108 km on foot from Sultanganj" },
@@ -52,10 +52,10 @@ const deoghar: CityContent = {
     ai: "WhatsApp replies in Hindi or English about room availability, darshan timings you publish, fees or stock, with a person taking over when needed.",
     data: "Season-by-season bookings, enquiries and sales in one dashboard, so a hotel or shop can plan staff and stock before Shravan.",
     app: "Android and iPhone apps for guest bookings, patient tokens or student tests, released on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Updates, backups and security fixes free for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Updates, backups and security fixes free for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Deoghar businesses often get websites from a relative's contact in Ranchi, Patna or Kolkata, or from a listing portal that keeps the leads. Few quotes are written down, and many sites are abandoned after a year. We publish starting prices, register the domain in your name, answer on WhatsApp all seven days and look after your site free for five months.",
+    "Deoghar businesses often get websites from a relative's contact in Ranchi, Patna or Kolkata, or from a listing portal that keeps the leads. Few quotes are written down, and many sites are abandoned after a year. We publish starting prices, register the domain in your name, answer on WhatsApp all seven days and look after your site free for two months.",
   pricingIntro:
     "Everything below is a starting price. A small peda shop with a catalogue costs less than a hotel with forty rooms, seasonal rates and a booking flow. We price the actual work, send an itemised written quote within about two working days, and bill nothing until you approve it.",
   sections: [
@@ -171,7 +171,7 @@ const deoghar: CityContent = {
       paragraphs: [
         "A common Deoghar story: a hotel paid for a website a few years ago, the domain was registered in the developer's name, and when renewal was missed the site disappeared just before Shravan. Recovering a domain from someone else's account can take weeks, and sometimes the name is lost for good.",
         "We avoid this from the start. The domain is registered to you and the hosting account is yours. At launch you get every login, the full source code and a short note describing the setup. You can move to another developer whenever you like, with no exit fee.",
-        "For five months after launch, maintenance is free: text and rate changes, bug fixes, security updates, backups, uptime checks and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when something needs doing. We suggest a check-up a few weeks before each Shravani Mela.",
+        "For two months after launch, maintenance is free: text and rate changes, bug fixes, security updates, backups, uptime checks and speed checks. After that, maintenance continues from ₹8,000 a month, or you can message us only when something needs doing. We suggest a check-up a few weeks before each Shravani Mela.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const deoghar: CityContent = {
     {
       question: "What does the free maintenance period cover?",
       answer:
-        "For five months after launch we handle text and rate changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle text and rate changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "How long does SEO take for a Deoghar business?",

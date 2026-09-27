@@ -56,7 +56,7 @@ const shirpurWarwade: CityContent = {
     ai: "WhatsApp assistants that answer rate, room, fee and timing questions in Marathi and Hindi and pass real decisions to you.",
     data: "Season dashboards of cotton arrivals, bales pressed, dues by buyer and hostel occupancy by month.",
     app: "Android and iOS apps for hostel residents, coaching students or dealer networks, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Shirpur businesses know their margins to the rupee and do not like surprises. We publish starting prices, send itemised quotes in writing, reply on WhatsApp seven days a week and register the domain, hosting, code and store accounts in your name. If a feature will not pay for itself in your season, we say so before you spend on it.",
@@ -171,7 +171,7 @@ const shirpurWarwade: CityContent = {
       paragraphs: [
         "Since we are not based in Shirpur, the process is written down from the start. A first call covers your business and goals, then you receive a page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links you can open on your phone and show to partners. Marathi text is sent to you for checking before anything is published.",
         "We answer WhatsApp every day of the week on Indian Standard Time. If a delay comes up, you hear about it as soon as we know. Payments are staged against visible progress, and nothing is billed before your written approval of the quote.",
-        "The domain, hosting, source code, Google Business Profile and Play Store and App Store accounts are registered in your name, with logins handed over in writing. Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms and payments. After that it starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish. Apps receive the yearly updates Google and Apple require so they stay listed.",
+        "The domain, hosting, source code, Google Business Profile and Play Store and App Store accounts are registered in your name, with logins handed over in writing. Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms and payments. After that it starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you wish. Apps receive the yearly updates Google and Apple require so they stay listed.",
       ],
     },
     {
@@ -262,7 +262,7 @@ const shirpurWarwade: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months of maintenance are free, covering updates, backups, security patches and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code to another developer at any time.",
+        "The first two months of maintenance are free, covering updates, backups, security patches and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take your code to another developer at any time.",
     },
     {
       question: "Do you work in Dhule, Shahada and Nandurbar as well?",

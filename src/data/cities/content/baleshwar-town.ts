@@ -30,11 +30,11 @@ const baleshwarTown: CityContent = {
     eyebrow: "Balasore (Baleswar) · Odisha",
     h1: "Web, app, SEO and automation services for Balasore's seafood, industry, beach and market trade",
     lede:
-      "We are three remote engineers who build websites, Odia and English search pages, online stores and WhatsApp workflows for Balasore shrimp exporters, Balgopalpur and Somnathpur suppliers, Chandipur hotels, clinics near FM Square and traders in Motiganj and Nua Bazar. Prices are published as starting points, you own every account, and upkeep is free for five months.",
+      "We are three remote engineers who build websites, Odia and English search pages, online stores and WhatsApp workflows for Balasore shrimp exporters, Balgopalpur and Somnathpur suppliers, Chandipur hotels, clinics near FM Square and traders in Motiganj and Nua Bazar. Prices are published as starting points, you own every account, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Odia, English and Bengali pages", "Seafood export profiles", "Chandipur hotel booking", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Balasore, a static website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 299+ page SEO website starts from ₹20,000, and online stores start from ₹50,000. We are a remote team of three engineers with no office in Balasore, and five months of maintenance after launch are free.",
+    "In Balasore, a static website of up to 100 pages starts from ₹10,000 and takes one to two weeks, a 299+ page SEO website starts from ₹20,000, and online stores start from ₹50,000. We are a remote team of three engineers with no office in Balasore, and two months of maintenance after launch are free.",
   snapshot: [
     { label: "Town", value: "Headquarters of Balasore (Baleswar) district; about 144,000 people in the municipality at the 2011 Census" },
     { label: "Location", value: "On NH 16 and the Howrah–Chennai main line, roughly 215 km from Bhubaneswar and 240 km from Kolkata" },
@@ -51,7 +51,7 @@ const baleshwarTown: CityContent = {
     ai: "WhatsApp assistants that handle routine questions about rooms, tide timings, stock, rates or clinic slots in Odia, Bengali, Hindi or English.",
     data: "Dashboards for shipments, supplier dues, room occupancy and enquiry sources that an owner can check on a phone in the evening.",
     app: "Android and iOS apps for field sales staff, college students and hotel guests at Chandipur, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "Plenty of agencies claim to serve Balasore, but few publish prices or explain who will actually build the site. We state starting prices openly, send an itemised quote before billing, write Odia content that you approve line by line, and answer WhatsApp every day of the week.",
@@ -195,7 +195,7 @@ const baleshwarTown: CityContent = {
       paragraphs: [
         "Too many small businesses have lost a website because the developer held the domain and then disappeared. When the renewal lapsed, the site and business email went with it.",
         "With us, the domain and hosting are opened in your name from day one. At launch you receive every password, the complete source code and a short guide to simple edits. You are free to switch developers at any time with no exit fee.",
-        "Maintenance is free for five months after launch, covering content updates, bug fixes, security patches, backups and speed checks. After that it is from ₹8,000 a month, or you can contact us only when something needs changing. Reach us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "Maintenance is free for two months after launch, covering content updates, bug fixes, security patches, backups and speed checks. After that it is from ₹8,000 a month, or you can contact us only when something needs changing. Reach us through the <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -287,7 +287,7 @@ const baleshwarTown: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security updates, backups and speed checks free of charge. After that, maintenance is from ₹8,000 a month, or you can reach out only when you need a change.",
+        "For two months after launch we handle content updates, bug fixes, security updates, backups and speed checks free of charge. After that, maintenance is from ₹8,000 a month, or you can reach out only when you need a change.",
     },
     {
       question: "What details should I send for a quote?",

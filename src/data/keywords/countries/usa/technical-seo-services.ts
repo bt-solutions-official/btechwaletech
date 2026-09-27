@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "How technical SEO services are priced here",
-    note: `Monthly technical SEO work starts from ${P.seo} and covers triage, fixes and a changelog for a typical small or mid-sized site. Very large sites, heavy JavaScript front ends and migrations take more hours, and the estimate says so line by line before you approve anything. When the real problem is a template or CMS that cannot be fixed, we quote a rebuild instead: a static site from ${P.site}, an SEO-ready site of 299+ pages from ${P.seoSite}, or a custom web app from ${P.software}. After any rebuild, 5 months of maintenance are free, then care starts from ${P.care}.`,
+    note: `Monthly technical SEO work starts from ${P.seo} and covers triage, fixes and a changelog for a typical small or mid-sized site. Very large sites, heavy JavaScript front ends and migrations take more hours, and the estimate says so line by line before you approve anything. When the real problem is a template or CMS that cannot be fixed, we quote a rebuild instead: a static site from ${P.site}, an SEO-ready site of 299+ pages from ${P.seoSite}, or a custom web app from ${P.software}. After any rebuild, 2 months of maintenance are free, then care starts from ${P.care}.`,
   },
   guideLabel: "Technical SEO services guide for US site owners",
   guide: [
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
         ["SEO site rebuild", "Programmatic or content-heavy sites", P.seoSite, "299+ page site with clean templates in 3–5 weeks"],
         ["Custom app rendering work", "Framework apps needing server rendering or restructuring", P.software, "Scoped engineering over 6–12 weeks"],
         ["White-label implementation", "US agencies needing developer hours for clients", `${P.seo}`, "Fixes under the agency's process"],
-        ["Care after a rebuild", "Keeping speed and indexing healthy", `${P.care}`, "After 5 free months of maintenance"],
+        ["Care after a rebuild", "Keeping speed and indexing healthy", `${P.care}`, "After 2 free months of maintenance"],
       ],
       hideSm: [1],
     },

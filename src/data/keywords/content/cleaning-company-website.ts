@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks for up to 100 pages"],
     ["Two buyer paths", "Home deep cleaning and facility contracts"],
     ["Quote from us", "Itemised, in about 2 working days"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "2", label: "Working days to your itemised written quote" },
     { value: "3", label: "Developers you talk to directly, no middle layer" },
-    { value: "5", label: "Months of free maintenance after the site goes live" },
+    { value: "2", label: "Months of free maintenance after the site goes live" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -91,13 +91,13 @@ const content: FreelanceContent = {
       ["Booking and advance payment", "Manual follow-up", "Add-on apps and fees", "Built in, UPI and card through your account"],
       ["Language options", "Captions only", "Extra plugins", "English plus Hindi or a regional language you approve"],
       ["Who holds the data", "The platform", "The builder platform", "You, on your own hosting"],
-      ["Monthly cost", "Free, plus your time", "Subscription to the builder", `Hosting; care from ${P.care} after 5 free months`],
+      ["Monthly cost", "Free, plus your time", "Subscription to the builder", `Hosting; care from ${P.care} after 2 free months`],
     ],
     fine: "Keep Instagram: before-and-after videos sell deep cleaning well, and the website should embed them rather than replace them.",
   },
   pricing: {
     heading: "What a cleaning company website costs",
-    note: `A cleaning business covering one city usually fits the static plan from ${P.site}: package pages, a quote calculator, staff and trust pages, facility pages, a contract form and a set of area pages fit well within 100 pages. If you serve many localities across several cities and want each ranked separately, the SEO build from ${P.seoSite} is the better base. Staff attendance, visit scheduling and client reporting are software, quoted from ${P.software}. Monthly SEO starts at ${P.seo}; care after the free five months starts at ${P.care}. All are starting prices, confirmed in an itemised quote.`,
+    note: `A cleaning business covering one city usually fits the static plan from ${P.site}: package pages, a quote calculator, staff and trust pages, facility pages, a contract form and a set of area pages fit well within 100 pages. If you serve many localities across several cities and want each ranked separately, the SEO build from ${P.seoSite} is the better base. Staff attendance, visit scheduling and client reporting are software, quoted from ${P.software}. Monthly SEO starts at ${P.seo}; care after the free two months starts at ${P.care}. All are starting prices, confirmed in an itemised quote.`,
   },
   guideLabel: "Cleaning company website guide",
   guide: [
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       heading: "Who owns your cleaning company website, and what happens after launch?",
       paragraphs: [
         `You own everything: domain, hosting account, code, content, photos and every enquiry. We build inside accounts registered to you and hand over logins and files at launch.`,
-        `After go-live you get five months of free maintenance. That covers fixes, rate card changes, new package or area pages and seasonal offers such as festival deep-cleaning drives before Diwali. After five months you can take optional care from ${P.care}, manage the site yourself, or move it to another developer without asking us. The details of payments and changes are written into your quote; our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the rest. We work remotely over WhatsApp and calls in English and Hindi, and we do not make site visits, so photos of your team, equipment and past work come from you.`,
+        `After go-live you get two months of free maintenance. That covers fixes, rate card changes, new package or area pages and seasonal offers such as festival deep-cleaning drives before Diwali. After two months you can take optional care from ${P.care}, manage the site yourself, or move it to another developer without asking us. The details of payments and changes are written into your quote; our <a href='/terms/'>terms</a> and <a href='/refund-policy/'>refund policy</a> set out the rest. We work remotely over WhatsApp and calls in English and Hindi, and we do not make site visits, so photos of your team, equipment and past work come from you.`,
       ],
     },
     {
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Agree the page map and rates", "We send the two-path page plan and the calculator logic with your rates filled in, so you can correct figures before design starts."],
       ["Build on a private link", "You test the calculator on your phone, try a booking, submit a contract enquiry and check every package page for accuracy."],
       ["Launch and connect", "The site goes live on your domain. We connect forms to WhatsApp and your sheet or CRM, set up Search Console and tidy your Business Profile."],
-      ["Five months of free changes", "Rate updates, new packages, area pages and festive offers are covered free for five months; optional care and SEO continue only if you want them."],
+      ["Two months of free changes", "Rate updates, new packages, area pages and festive offers are covered free for two months; optional care and SEO continue only if you want them."],
     ],
   },
   faqHeading: "Cleaning company website questions",
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
     { question: "Do I need an app for my cleaning company?", answer: `Customers rarely install an app to book a deep clean once or twice a year, so a fast website with booking and WhatsApp is usually better. Apps help your staff: attendance, checklists and photo proof. We build those as web apps from ${P.software} or as Android and iOS apps from ${P.app} when you are ready.` },
     { question: "Can the website be in Hindi or a regional language?", answer: "Yes. We build language versions with separate pages so each can appear in search. You supply or approve the translated text, since the wording about packages and prices must be exactly right. Many cleaning businesses add Hindi, Marathi, Tamil, Telugu, Kannada or Malayalam depending on their customers." },
     { question: "Who owns the cleaning company website after it is built?", answer: "You do. The domain and hosting are in your name, and you receive the code and logins at launch. Customer enquiries, photos and reviews belong to your business. You can manage the site yourself or hand it to another developer at any time." },
-    { question: "What maintenance do I get after launch?", answer: `Five months of free maintenance covers fixes, rate changes, new package or area pages and seasonal offers. After that, care starts at ${P.care} if you want it, or you can manage updates yourself. Many cleaning businesses update rates once or twice a year and add festive offers before Diwali.` },
+    { question: "What maintenance do I get after launch?", answer: `Two months of free maintenance covers fixes, rate changes, new package or area pages and seasonal offers. After that, care starts at ${P.care} if you want it, or you can manage updates yourself. Many cleaning businesses update rates once or twice a year and add festive offers before Diwali.` },
     { question: "Should I hire a local agency or a remote freelance team for my cleaning website?", answer: "A local agency can meet you in person; our team works remotely over WhatsApp and calls and does not make site visits. The deciding factors are whether the builder understands cleaning services, writes package pages specific to you and gives you full ownership. Quotes vary widely, so compare scope line by line." },
     { question: "Can you connect enquiries to WhatsApp or a CRM?", answer: "Yes. Quotes, bookings and contract enquiries can go to WhatsApp, email and a Google Sheet at once, or into a CRM you already use. Automatic confirmations, evening-before reminders and review requests can be added on WhatsApp so your office staff spend less time on follow-ups." },
     { question: "How do I get corporate cleaning contracts through my website?", answer: "Give corporate buyers their own section: sector pages, a clear description of staffing and supervision, the registrations you hold, a downloadable profile and an enquiry form that respects their time. Respond quickly with a named contact. A professional email address on your own domain also makes a difference when buyers shortlist vendors." },

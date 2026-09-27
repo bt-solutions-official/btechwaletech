@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Methods used", "XML, JSON, ODBC, sync agent"],
     ["Where Tally runs", "Your PC, server or rented cloud VM"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Free support", "5 months after go-live"],
+    ["Free support", "2 months after go-live"],
   ],
   stats: [
     { value: "3", label: "Developers, one of whom owns your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Price", value: `From ${P.ai} (${P.aiUsd}); portals from ${P.software}` },
       { label: "Timeline", value: "2–4 weeks per connection, longer for two-way stock" },
       { label: "Runs on", value: "A small agent beside Tally plus an optional cloud relay" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Tally API integration pricing",
-    note: `One connection in one direction, for example website orders into Tally, starts at ${P.ai}. Two-way sync, several Tally companies, stock that must match to the unit, or a CRM that has its own quirks add scope. If the project includes a new portal, dealer app or custom back office built on top of Tally data, that part is quoted under custom software, starting at ${P.software}. Hosting for a cloud relay is small and billed to your own account. You receive the quote itemised by connection and direction, and each line has its own timeline, so you can phase the work. Maintenance is free for five months, then optional from ${P.care}.`,
+    note: `One connection in one direction, for example website orders into Tally, starts at ${P.ai}. Two-way sync, several Tally companies, stock that must match to the unit, or a CRM that has its own quirks add scope. If the project includes a new portal, dealer app or custom back office built on top of Tally data, that part is quoted under custom software, starting at ${P.software}. Hosting for a cloud relay is small and billed to your own account. You receive the quote itemised by connection and direction, and each line has its own timeline, so you can phase the work. Maintenance is free for two months, then optional from ${P.care}.`,
   },
   guideLabel: "Tally API integration guide",
   guide: [
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A single, one-direction Tally API integration built by BtechWaleTech starts at ${P.ai}. Price grows with the number of systems, directions, Tally companies and rules, not with the number of records synced.`,
         `Across the market, quotes for “Tally integration” vary widely, partly because the phrase covers everything from a one-off report export to a two-way stock sync. When comparing offers, ask what happens on failure, who hosts any cloud piece, whether you get the source code, and whether the price assumes Tally stays on one PC.`,
-        `Running costs are modest: a small cloud relay on your hosting account and, if you choose, maintenance after the free five months. A Tally Release upgrade rarely breaks XML integrations, but testing after each upgrade is part of our care plan.`,
+        `Running costs are modest: a small cloud relay on your hosting account and, if you choose, maintenance after the free two months. A Tally Release upgrade rarely breaks XML integrations, but testing after each upgrade is part of our care plan.`,
       ],
     },
     {
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       heading: "Ownership, handover and what happens after go-live",
       paragraphs: [
         `You own the agent, the relay, the mapping rules and the code, from day one. We commit code to a repository in your name, deploy the relay to hosting you control, and document each flow in plain language so your CA and any future developer can follow it.`,
-        `Handover includes an error-queue walkthrough for the staff who will use it, a list of every Tally field the integration writes, and a note of what to test after a Tally upgrade. Five months of free maintenance cover fixes and small rule changes. After that, you can take support from us from ${P.care}, move it to your own team, or leave it running untouched; nothing phones home to us.`,
+        `Handover includes an error-queue walkthrough for the staff who will use it, a list of every Tally field the integration writes, and a note of what to test after a Tally upgrade. Two months of free maintenance cover fixes and small rule changes. After that, you can take support from us from ${P.care}, move it to your own team, or leave it running untouched; nothing phones home to us.`,
       ],
     },
     {
@@ -329,7 +329,7 @@ const content: FreelanceContent = {
         ["Reporting pipeline", "ODBC or XML extract to database or Sheets", P.ai, "2–3 weeks"],
         ["Dealer portal on Tally data", "Logins, ledgers, orders, invoice downloads", P.software, "6–12 weeks"],
         ["Field sales app with Tally sync", "Android and iOS app plus sync", P.app, "6–10 weeks"],
-        ["Care after 5 free months", "Fixes, upgrade tests, small changes", P.care, "Monthly"],
+        ["Care after 2 free months", "Fixes, upgrade tests, small changes", P.care, "Monthly"],
       ],
     },
   ],
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Test copy of Tally", "We work against a backup of your company on a separate machine, so live books are never touched while the mapping is proved."],
       ["Agent and relay", "The office-side agent and cloud relay are installed in your accounts, then connected to the test copy and the other system’s sandbox."],
       ["Parallel run", "Live data flows while staff keep their old routine for a week; daily reconciliation shows whether both sides match."],
-      ["Handover", "Code, documentation, an error-queue walkthrough and five months of free fixes. We check again after your next TallyPrime upgrade."],
+      ["Handover", "Code, documentation, an error-queue walkthrough and two months of free fixes. We check again after your next TallyPrime upgrade."],
     ],
   },
   faqHeading: "Tally API integration: questions businesses ask",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Tell us which two systems should stop needing a typist",
-    note: `Message us on WhatsApp with your Tally release, where Tally runs, and the software you want connected. You receive an itemised quote in about two working days, with Tally integrations from ${P.ai}, code and hosting in your name, and five months of free maintenance.`,
+    note: `Message us on WhatsApp with your Tally release, where Tally runs, and the software you want connected. You receive an itemised quote in about two working days, with Tally integrations from ${P.ai}, code and hosting in your name, and two months of free maintenance.`,
   },
 };
 

@@ -46,7 +46,7 @@ const content: FreelanceContent = {
     { value: "250", label: "Unique logon ki starting daily limit ek naye business portfolio par (Meta)" },
     { value: "24", label: "Ghante tak template review mein lag sakte hain" },
     { value: "2", label: "Working din mein line-by-line quote" },
-    { value: "5", label: "Mahine free maintenance, setup live hone ke baad" },
+    { value: "2", label: "Mahine free maintenance, setup live hone ke baad" },
   ],
   answer: {
     heading: "WhatsApp bulk message kaise bheje bina number ban hue?",
@@ -62,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Meta ka billing", value: "1 July 2025 se per delivered template message" },
       { label: "Pehle din ki limit", value: "250 unique log / 24 ghante, verification ke baad badhti hai" },
       { label: "Hamara setup", value: `${P.ai} se, 2–4 hafte` },
-      { label: "Baad mein dekhbhaal", value: `5 mahine free, phir ${P.care} se` },
+      { label: "Baad mein dekhbhaal", value: `2 mahine free, phir ${P.care} se` },
     ],
   },
   services: {
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Bulk WhatsApp setup ka kharcha: ek baar ka kaam, aur Meta ka alag bill",
-    note: `Bulk messaging ke do alag kharche hote hain. Pehla, setup: Meta account, number, templates, opt-in form, sender dashboard aur Sheets ya CRM connection. Yeh humari AI automation line mein aata hai, ${P.ai} se, aur scope badhne par quote badhta hai. Doosra, Meta ka per-message charge, jo template category aur recipient ke country code par depend karta hai aur seedha aapke WhatsApp Business account se katta hai. Hum is par koi margin nahi lete. Poora campaign dashboard ya CRM chahiye toh custom software line ${P.software} se lagti hai. Launch ke baad 5 mahine ki maintenance free hai, phir ${P.care} se.`,
+    note: `Bulk messaging ke do alag kharche hote hain. Pehla, setup: Meta account, number, templates, opt-in form, sender dashboard aur Sheets ya CRM connection. Yeh humari AI automation line mein aata hai, ${P.ai} se, aur scope badhne par quote badhta hai. Doosra, Meta ka per-message charge, jo template category aur recipient ke country code par depend karta hai aur seedha aapke WhatsApp Business account se katta hai. Hum is par koi margin nahi lete. Poora campaign dashboard ya CRM chahiye toh custom software line ${P.software} se lagti hai. Launch ke baad 2 mahine ki maintenance free hai, phir ${P.care} se.`,
   },
   guideLabel: "Bulk WhatsApp guide",
   guide: [
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
       ["Meta account aur number", "Aapke naam par business portfolio, number registration, display name, payment method aur zaroorat ho toh business verification ka submission."],
       ["Templates likhna aur approve karwana", "Har campaign ke liye sahi category, Hindi ya English text, variables aur stop option. Meta review ke baad hi aage badhte hain."],
       ["Sender aur connections", "Sheet, CRM ya database se list padhne wala sender, tier ke andar queue, delivery reports, aur replies ke liye inbox ya bot."],
-      ["Test, launch aur handover", "Staff numbers par test, phir chhote segment par pehla campaign. Logins, code aur ek chhota how-to note aapko, aur 5 mahine ki free maintenance shuru."],
+      ["Test, launch aur handover", "Staff numbers par test, phir chhote segment par pehla campaign. Logins, code aur ek chhota how-to note aapko, aur 2 mahine ki free maintenance shuru."],
     ],
   },
   faqHeading: "Bulk WhatsApp par aksar puche jaane wale sawaal",

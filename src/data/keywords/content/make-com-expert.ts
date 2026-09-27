@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Account ownership", "Your Make organisation, your logins"],
     ["Billing unit on Make", "Credits, paid by you to Make"],
     ["Handover", "Scenario map, blueprint exports, run notes"],
-    ["After launch", "5 months of free fixes"],
+    ["After launch", "2 months of free fixes"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who design, build and monitor" },
     { value: "2", label: "Working days to an itemised scenario plan and quote" },
-    { value: "5", label: "Months of free fixes once scenarios go live" },
+    { value: "2", label: "Months of free fixes once scenarios go live" },
     { value: "0", label: "Markup on your Make subscription; you pay Make directly" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Timeline", value: "2–4 weeks including test runs on live data" },
       { label: "Make plan", value: "Chosen after the credit estimate, paid by you" },
       { label: "Reliability", value: "Error handlers, incomplete executions, alert emails" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Indian apps without a ready module", "Webhooks or code step", "HTTP node or custom code", "HTTP and webhook modules, mapped by us"],
       ["Best fit", "Simple two to five step jobs", "High volume, data kept in-house", "Branching logic at moderate volume"],
       ["Documentation at handover", "Depends who built it", "Depends who built it", "Scenario map, blueprints and run notes"],
-      ["Fixes after launch", "Self-serve", "Self-serve or hired", `5 months free, then from ${P.care}`],
+      ["Fixes after launch", "Self-serve", "Self-serve or hired", `2 months free, then from ${P.care}`],
     ],
     fine: "If your whole need is one trigger and one action, such as copying form entries into a sheet, a free Zapier or Make plan set up by yourself is enough, and hiring a Make.com expert would be money you do not need to spend.",
   },
@@ -193,7 +193,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, Make builds start at ${P.ai} (about ${P.aiUsd} for clients abroad). Your Make subscription is a separate cost, paid by you to Make and sized from our credit estimate. Other freelancers charge hourly, per scenario or per project, and quotes vary widely; compare what is included rather than the headline.`,
         `The build fee moves with five things. The number of scenarios and branches: one lead router is smaller than a lead router plus order sync plus reporting. Apps without modules: each raw HTTP integration needs authentication, pagination and error mapping. Data cleanliness: phone numbers with and without +91, duplicate leads, free-text city names. Error handling depth: a log-and-alert pattern versus replay with idempotency checks. And documentation: whether your team needs a written runbook to take over.`,
-        `Running costs are Make credits, any WhatsApp template charges from Meta, and the subscriptions of the apps being connected. After five free months of fixes, maintenance starts at ${P.care} if you want someone watching the scenario history. A cheap quote that skips error handling is not cheaper; it simply moves the cost to the day a failed payment goes unnoticed.`,
+        `Running costs are Make credits, any WhatsApp template charges from Meta, and the subscriptions of the apps being connected. After two free months of fixes, maintenance starts at ${P.care} if you want someone watching the scenario history. A cheap quote that skips error handling is not cheaper; it simply moves the cost to the day a failed payment goes unnoticed.`,
       ],
     },
     {
@@ -329,7 +329,7 @@ const content: FreelanceContent = {
         ["Order and payment set", "Webhook, sync, WhatsApp, reporting", `From ${P.ai}`, "2–4 weeks"],
         ["Audit of existing scenarios", "Credit waste, silent failures, fixes", "Quoted after review", "Depends on size"],
         ["Custom service beside Make", "Heavy jobs moved to code", `From ${P.software}`, "6–12 weeks"],
-        ["Maintenance after 5 free months", "Monitoring, app changes, new routes", `From ${P.care}`, "Ongoing"],
+        ["Maintenance after 2 free months", "Monitoring, app changes, new routes", `From ${P.care}`, "Ongoing"],
       ],
     },
     {
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Build in your organisation", "You invite us to your Make organisation. Scenarios are built there, with connections authorised through logins you control, never through our accounts."],
       ["Test every route", "Each route, including the fallback, gets a crafted test bundle. Duplicate leads, failed payments and rejected templates are tested on purpose."],
       ["Supervised live running", "Scenarios run on real data beside the manual process. We check execution history daily and compare counts until the numbers match."],
-      ["Handover and watch period", "Blueprints, the scenario map and run notes are handed over, and fixes stay free for five months after go-live."],
+      ["Handover and watch period", "Blueprints, the scenario map and run notes are handed over, and fixes stay free for two months after go-live."],
     ],
   },
   faqHeading: "Make.com expert: questions buyers ask",
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Do I need a paid Make plan?", answer: "For business processes, almost certainly. Make's pricing page lists a Free plan with 1,000 credits a month and only two active scenarios, plus a 5-minute limit per run. That is useful for testing an idea, but most live processes need more. Our credit estimate tells you which paid tier fits before you buy anything." },
     { question: "Make.com or n8n: which should I choose?", answer: "Choose Make if you want a hosted service with no server to maintain and your volume is moderate. Choose n8n if volume is high, data should stay on your own server, or you want to pay per workflow execution instead of per step, which n8n's pricing page describes. n8n's Community Edition is free to self-host, but someone must run and update the server." },
     { question: "Can a Make scenario handle payment gateway webhooks?", answer: "Yes. A custom webhook in Make receives the gateway's payment event, and the scenario verifies it, matches it to the order and updates your sheet, CRM or store. We verify signatures where the gateway supports them and never treat a customer's redirect page as proof of payment. Failed and partial payments get their own route and alert." },
-    { question: "What support do I get after the scenarios go live?", answer: `Fixes are free for five months after go-live, covering bugs in our scenarios and problems caused by our design. After that, maintenance starts at ${P.care} if you want someone checking execution history and adapting scenarios when apps change their APIs. You can also contact us only when needed and receive a quote for each change.` },
+    { question: "What support do I get after the scenarios go live?", answer: `Fixes are free for two months after go-live, covering bugs in our scenarios and problems caused by our design. After that, maintenance starts at ${P.care} if you want someone checking execution history and adapting scenarios when apps change their APIs. You can also contact us only when needed and receive a quote for each change.` },
     { question: "How do I pay for a Make.com project?", answer: "Clients in India pay by UPI or bank transfer, and GST invoices are available. International clients pay in US dollars by Wise, bank wire or PayPal. Milestones are listed in the written quote before work starts. Your Make subscription is always paid by you directly to Make, so there is no markup hidden inside our fee." },
     { question: "Make.com expert se Hindi mein baat ho sakti hai?", answer: "Haan. Hum Hindi aur English dono mein kaam karte hain. WhatsApp par batayiye ki leads ya orders abhi kahan se aate hain aur kaun kaun se apps use hote hain. Screen-share call ke baad lagbhag do working days mein scenario plan, credit estimate aur itemised quote mil jayega. Run notes bhi Hindi mein de sakte hain." },
   ],

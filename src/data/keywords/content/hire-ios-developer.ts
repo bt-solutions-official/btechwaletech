@@ -28,7 +28,7 @@ const content: FreelanceContent = {
     eyebrow: "Hire iOS developer · Swift or cross-platform",
     h1: "Hire an iOS developer in India: Swift versus cross-platform, skills to test and real costs",
     lede: `Before you hire an iOS developer, decide one thing: do you need a native Swift app, or an iPhone app that shares one codebase with Android? That choice changes who you should hire, the budget and the timeline. BtechWaleTech is three freelance developers in India who build iPhone and Android apps together with Flutter or React Native, from ${P.app}, and publish them in your own App Store and Google Play accounts. This guide helps you make that choice, test candidates properly and avoid common App Store surprises.`,
-    pills: ["iPhone + Android together", "Flutter or React Native", "App Store Connect setup", "TestFlight betas", "Your Apple developer account", "UPI and card checkout", "5 months free fixes"],
+    pills: ["iPhone + Android together", "Flutter or React Native", "App Store Connect setup", "TestFlight betas", "Your Apple developer account", "UPI and card checkout", "2 months free fixes"],
     origin: "Three freelance developers · Remote from India · Apps for Indian and overseas clients",
   },
   facts: [
@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Approach", "Cross-platform: Flutter or React Native"],
     ["Apple account", "Enrolled in your name"],
     ["Quote", "Itemised, about 2 working days"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who know your app’s code" },
     { value: "2", label: "Stores published from one codebase" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       heading: "iPhone app banwana hai? Kisko hire karein",
       paragraphs: [
         `Agar aapki app ko Android aur iPhone dono par chahiye, toh Flutter ya React Native wala developer hire kijiye; ek hi code se dono apps banti hain aur kharcha kam aata hai. Sirf iPhone wali, Apple Watch ya AR jaisi app ho toh Swift developer behtar hai.`,
-        `Hamare saath dono platforms ki app ${P.app} se shuru hoti hai aur 6–10 hafte lagte hain. Apple developer account aapke naam par banta hai, aur har hafte TestFlight se app aapke iPhone par test ke liye aati hai. Launch ke baad 5 mahine ki maintenance free hai.`,
+        `Hamare saath dono platforms ki app ${P.app} se shuru hoti hai aur 6–10 hafte lagte hain. Apple developer account aapke naam par banta hai, aur har hafte TestFlight se app aapke iPhone par test ke liye aati hai. Launch ke baad 2 mahine ki maintenance free hai.`,
       ],
     },
   ],
@@ -315,7 +315,7 @@ const content: FreelanceContent = {
         ["5–6", "Payments, notifications, admin panel", "Final content and images", "Feature-complete build"],
         ["7–8", "Device testing, store listings", "Approve screenshots and text", "Release candidate"],
         ["9–10", "Submission and reviewer replies", "Final payment", "Live apps in both stores"],
-        ["Next 5 months", "Fixes and OS updates", "Report issues on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Fixes and OS updates", "Report issues on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
       ["Enrol your store accounts", "We guide you through Apple and Google enrolment in your business name and you add us as users. Signing assets stay in your accounts."],
       ["Try weekly builds", "TestFlight and Android test builds reach your phone regularly, so feedback is based on the real app, not mock-ups."],
       ["Submit and release", "We prepare listings, demo logins and reviewer notes, answer review questions and release the apps, optionally in stages."],
-      ["Five months of free fixes", `Bug fixes, small changes and OS compatibility updates are free for five months. Ongoing maintenance is optional afterwards, from ${P.care}.`],
+      ["Two months of free fixes", `Bug fixes, small changes and OS compatibility updates are free for two months. Ongoing maintenance is optional afterwards, from ${P.care}.`],
     ],
   },
   faqHeading: "Hire iOS developer: questions people ask",
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
     { question: "What should an iOS developer hand over at the end?", answer: "You should receive the full source code in a repository you own, access to Apple and Google developer accounts in your name, signing certificates stored in those accounts, backend code and database access, admin panel logins, a list of paid services and renewal dates, and short notes explaining how to build and release the next update." },
     { question: "Should I hire a freelancer or an agency for my iOS app?", answer: "A freelancer or small freelance team suits a clearly scoped business app where you want direct contact and a lower budget. An agency suits very large apps needing many parallel specialists, formal procurement or on-site staff. Whichever you choose, insist on your own store accounts, a shared repository and test builds you can install on your phone." },
     { question: "Can you add an iPhone version to my existing Android app?", answer: "If the Android app is built with Flutter or React Native, adding iOS is usually a matter of fixing platform-specific issues, adjusting payments and notifications, and publishing. If it is written natively in Kotlin or Java, the iPhone version is effectively a new app. Share the code and we will tell you which case applies in the quote." },
-    { question: "Do you provide maintenance after the app is released?", answer: `Yes. The first five months after release include free bug fixes, small changes and updates for new iOS and Android versions. After that, maintenance is optional and starts at ${P.care}. Because the code and accounts are yours, you can also move maintenance to your own staff or another developer at any time.` },
+    { question: "Do you provide maintenance after the app is released?", answer: `Yes. The first two months after release include free bug fixes, small changes and updates for new iOS and Android versions. After that, maintenance is optional and starts at ${P.care}. Because the code and accounts are yours, you can also move maintenance to your own staff or another developer at any time.` },
     { question: "How do payments and contracts work when I hire you?", answer: "You receive an itemised written quote, and nothing is billed until you approve it. Payments are staged against visible work such as the clickable design, the first TestFlight build and the release. Indian clients pay by UPI or bank transfer; international clients by Wise, bank wire or PayPal. Confidentiality needs can be agreed in your written quote." },
     { question: "iPhone app banwane ke liye kaunsa developer hire karein?", answer: `Agar app Android aur iPhone dono par chahiye, toh Flutter ya React Native developer hire kijiye; ek code se dono apps ban jaati hain. BtechWaleTech ke saath dono platforms ki app ${P.app} se shuru hoti hai aur 6–10 hafte lagte hain. Apple account aapke naam par hota hai aur har hafte test build aapke iPhone par aata hai.` },
     { question: "Can I hire an iOS developer from India if I am abroad?", answer: `Yes. App development works well remotely: you receive TestFlight builds on your own iPhone, review designs on video calls and message us on WhatsApp. International clients are billed in USD, with iPhone and Android apps starting at ${P.appUsd}, and pay by Wise, bank wire or PayPal. Your Apple account stays registered in your own country and name.` },
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning an iPhone app? Get a straight answer on Swift or cross-platform",
-    note: `Tell us about your app on WhatsApp. In about two working days you get an itemised quote and an honest platform recommendation, with iPhone and Android apps starting at ${P.app}, store accounts in your name and five months of free maintenance.`,
+    note: `Tell us about your app on WhatsApp. In about two working days you get an itemised quote and an honest platform recommendation, with iPhone and Android apps starting at ${P.app}, store accounts in your name and two months of free maintenance.`,
   },
 };
 

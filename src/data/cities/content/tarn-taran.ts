@@ -56,7 +56,7 @@ const tarnTaran: CityContent = {
     ai: "WhatsApp assistants that answer course fees, stock, timings and booking questions in Punjabi and pass real decisions to you.",
     data: "Season dashboards of farmer accounts, crop arrivals, sales by village and dealer dues.",
     app: "Android and iOS apps for farmers to check arhtiya accounts or for schools to message parents, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Tarn Taran business runs on trust built over years, often across families. We publish starting prices, put every quote in writing item by item, reply on WhatsApp seven days a week and register the domain, hosting, code and app store accounts in your own name. If something is not worth the money, we tell you plainly.",
@@ -186,7 +186,7 @@ const tarnTaran: CityContent = {
       paragraphs: [
         "BtechWaleTech has no office in Tarn Taran or Amritsar. We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We work over WhatsApp, phone and video calls and reply seven days a week during Indian working hours.",
         "Everything we build is registered in your name: domain, hosting, source code, Google Business Profile and the Google Play and App Store developer accounts. You keep every login. If you later choose another developer, you already have everything you need.",
-        "Each project includes five months of free maintenance after launch for fixes, small changes and security updates. After that, maintenance starts at ₹8,000 a month for systems that need regular care, such as arhtiya software used daily through both harvests. A simple shop site may need nothing more than an occasional update.",
+        "Each project includes two months of free maintenance after launch for fixes, small changes and security updates. After that, maintenance starts at ₹8,000 a month for systems that need regular care, such as arhtiya software used daily through both harvests. A simple shop site may need nothing more than an occasional update.",
         "If you prefer to meet your developer face to face, a local provider will suit you better. We would rather say that at the start than disappoint you later.",
       ],
     },
@@ -279,7 +279,7 @@ const tarnTaran: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Every project has five months of free maintenance after launch, covering fixes, small content updates and security patches. After that, maintenance starts at ₹8,000 a month. Software used daily through the harvests usually needs it; a simple shop website may not.",
+        "Every project has two months of free maintenance after launch, covering fixes, small content updates and security patches. After that, maintenance starts at ₹8,000 a month. Software used daily through the harvests usually needs it; a simple shop website may not.",
     },
     {
       question: "Can you do digital marketing in Tarn Taran for an IELTS centre?",

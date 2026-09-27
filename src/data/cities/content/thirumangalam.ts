@@ -55,7 +55,7 @@ const thirumangalam: CityContent = {
     ai: "WhatsApp assistants in Tamil that answer price, stock and admission questions and forward real decisions to you.",
     data: "Dashboards of orders by dealer, production against plan, daily flower purchases and payments outstanding.",
     app: "Android and iOS apps for dealer re-orders from Kappalur factories or school notices to parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "No maintenance fee for five months from launch; after that we can keep backups, security fixes and updates running from ₹8,000 a month.",
+    maintenance: "No maintenance fee for two months from launch; after that we can keep backups, security fixes and updates running from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Thirumangalam owners have collected quotes from Madurai that were hard to read and harder to compare. Ours are built to be the opposite. Starting prices are published, the quote gives each piece of work its own amount, WhatsApp is answered every day of the week, and every account, from the domain and hosting to the code and the store listings, is opened in your name. If a feature will not pay for itself, we tell you before you buy it.",
@@ -203,7 +203,7 @@ const thirumangalam: CityContent = {
       id: "maintenance-thirumangalam",
       heading: "Maintenance for Thirumangalam websites and apps after launch",
       paragraphs: [
-        "The first five months after launch carry no maintenance charge. We change prices and photographs when you ask, keep backups, apply security updates and test forms, checkout and WhatsApp buttons at regular intervals. After that the choice is yours: keep us from ₹8,000 a month, handle it with your own staff, or hand the code to another developer.",
+        "The first two months after launch carry no maintenance charge. We change prices and photographs when you ask, keep backups, apply security updates and test forms, checkout and WhatsApp buttons at regular intervals. After that the choice is yours: keep us from ₹8,000 a month, handle it with your own staff, or hand the code to another developer.",
         "Apps need one update a year even when they work perfectly, because Google and Apple keep lifting the minimum versions they accept. We watch those dates and release updates ahead of them, so dealers and parents never open the store to find your app missing.",
       ],
     },
@@ -286,7 +286,7 @@ const thirumangalam: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "Five months of maintenance are included free after launch: price and photo changes, backups, security patches and regular checks of forms, checkout and WhatsApp buttons. From then on, you can keep us from ₹8,000 a month, manage it with your own staff, or shift to another developer; the code and accounts are already in your name.",
+        "Two months of maintenance are included free after launch: price and photo changes, backups, security patches and regular checks of forms, checkout and WhatsApp buttons. From then on, you can keep us from ₹8,000 a month, manage it with your own staff, or shift to another developer; the code and accounts are already in your name.",
     },
     {
       question: "Do you work in Kallikudi, T. Kallupatti and Madurai too?",

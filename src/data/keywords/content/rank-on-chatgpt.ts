@@ -374,7 +374,7 @@ const content: FreelanceContent = {
         ["Rebuild as an SEO website (299+ pages)", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "The current site hides text or cannot be fixed"],
         ["New static site, up to 100 pages", `From ${P.site}`, `From ${P.siteUsd}`, "You only have a Maps listing and WhatsApp"],
         ["AI chatbot trained on your pages", `From ${P.ai}`, `From ${P.aiUsd}`, "You also want AI answering on your own site"],
-        ["Upkeep after launch", `From ${P.care}`, `From ${P.careUsd}`, "After the 5 free months on sites we build"],
+        ["Upkeep after launch", `From ${P.care}`, `From ${P.careUsd}`, "After the 2 free months on sites we build"],
       ],
     },
   ],

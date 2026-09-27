@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Patient app (optional)", `From ${P.app}`],
     ["Images stored", "In your own cloud storage"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Per-chair or per-dentist licence fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Lab and imaging", value: "Lab work orders with due dates; RVG, OPG and CBCT exports on the chart" },
       { label: "Build price", value: `From ${P.software} (${P.softwareUsd}), 6–12 weeks` },
       { label: "Reminders", value: "Appointments, next stage, recalls, lab-ready alerts on WhatsApp" },
-      { label: "Support", value: `5 months free, then optional from ${P.care}` },
+      { label: "Support", value: `2 months free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -198,7 +198,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Owned dental clinic software from BtechWaleTech starts at ${P.software} (about ${P.softwareUsd}), with an optional patient app from ${P.app}. After that there are no per-chair or per-dentist fees, only your own hosting and optional maintenance.`,
         `Subscription dental software is widely available and usually priced per dentist, chair or branch each month, with quotes varying widely between vendors. It is quick to start and fine for many clinics. The case for owning grows when you add chairs and consultants, want your own treatment plan and consent formats, need lab and image workflows that fit how you already work, or simply want your patient history in an account you control.`,
-        `The factors that move a custom quote are chart detail (periodontal charting adds work), the number of plan templates and staged payment rules, lab-side access, the method of importing images from your RVG and OPG software, multi-branch records, data migration from your current system, and a patient app. Running costs include cloud hosting, image storage that grows with each radiograph, and WhatsApp template messages at Meta's rates, all paid by you directly. After five free months, maintenance from ${P.care} is your choice.`,
+        `The factors that move a custom quote are chart detail (periodontal charting adds work), the number of plan templates and staged payment rules, lab-side access, the method of importing images from your RVG and OPG software, multi-branch records, data migration from your current system, and a patient app. Running costs include cloud hosting, image storage that grows with each radiograph, and WhatsApp template messages at Meta's rates, all paid by you directly. After two free months, maintenance from ${P.care} is your choice.`,
       ],
     },
     {
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       heading: "Should a dental practice rent software or have its own built?",
       paragraphs: [
         `Rent if you are starting a new, single-chair practice, your workflow is standard and you want to begin this month. Have your own dental clinic software built once you run several chairs or branches, host visiting consultants, send a lot of lab work, or find the subscription no longer fits how you treat patients.`,
-        `A fair comparison runs over three years. On the subscription side, take the monthly fee for the chairs, dentists and branches you expect in year three, multiply by 36, and add any charges for extra modules, messaging or storage. On the owned side, take the build from ${P.software}, add your hosting and storage, and add optional maintenance from ${P.care} after five free months. Then weigh what the numbers leave out: whether the product fits your plans and staging, and what happens to your records if you leave.`,
+        `A fair comparison runs over three years. On the subscription side, take the monthly fee for the chairs, dentists and branches you expect in year three, multiply by 36, and add any charges for extra modules, messaging or storage. On the owned side, take the build from ${P.software}, add your hosting and storage, and add optional maintenance from ${P.care} after two free months. Then weigh what the numbers leave out: whether the product fits your plans and staging, and what happens to your records if you leave.`,
         `There is no single right answer. Some excellent practices run happily on a subscription for years. Others outgrow it the day a second orthodontist joins. We are glad to tell you honestly if a subscription looks like the better fit for your size. See our <a href='/custom-software-development-cost-in-india/'>custom software cost guide</a> for how owned builds are priced more generally.`,
       ],
     },
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
         ["Multi-branch practice", "Shared records, branch reports, central lab tracking", "Quoted by scope", "10–12 weeks"],
         ["Patient app add-on", "Bookings, plans, bills, images", `From ${P.app}`, "6–10 weeks"],
         ["AI add-on", "Voice notes to case sheet drafts, recall message drafts", `From ${P.ai}`, "2–4 weeks"],
-        ["Ongoing care", "Updates, backups, small changes", `5 months free, then from ${P.care}`, "Monthly"],
+        ["Ongoing care", "Updates, backups, small changes", `2 months free, then from ${P.care}`, "Monthly"],
       ],
     },
   ],
@@ -377,13 +377,13 @@ const content: FreelanceContent = {
       ["Shape the chart with a dentist", "One dentist tests the tooth chart and plan screens with dummy patients on video, and we adjust colours, pick lists and stages to fit the way they work."],
       ["Connect labs and imaging", "We test image exports from your RVG and OPG software and set up lab work orders for your usual labs before touching live patients."],
       ["Go live on a quiet day", "Records are imported, reception and dentists start on the new system, and we stay on WhatsApp through the first full week of appointments."],
-      ["Look after it", `Five months of free maintenance cover fixes and small changes. After that, care continues from ${P.care} only if you want it.`],
+      ["Look after it", `Two months of free maintenance cover fixes and small changes. After that, care continues from ${P.care} only if you want it.`],
     ],
   },
   faqHeading: "Dental clinic software: questions dentists ask",
   faqs: [
     { question: "What is dental clinic software?", answer: "Dental clinic software is practice management software organised around teeth and multi-visit treatment. It combines a tooth chart, treatment plans with estimates and staged payments, lab work orders for crowns and bridges, radiograph storage linked to teeth, recall reminders, a chair-wise appointment diary and billing. It replaces paper case sheets, lab registers and payment diaries with one record per patient." },
-    { question: "How much does dental clinic software cost in India?", answer: `Subscription dental software is usually billed monthly per dentist, chair or branch, and quotes vary widely between vendors. Owned dental clinic software from BtechWaleTech starts at ${P.software}, with an optional patient app from ${P.app}. You then pay your own hosting and image storage, and after five free months, optional maintenance from ${P.care}. More chairs do not add licence fees.` },
+    { question: "How much does dental clinic software cost in India?", answer: `Subscription dental software is usually billed monthly per dentist, chair or branch, and quotes vary widely between vendors. Owned dental clinic software from BtechWaleTech starts at ${P.software}, with an optional patient app from ${P.app}. You then pay your own hosting and image storage, and after two free months, optional maintenance from ${P.care}. More chairs do not add licence fees.` },
     { question: "Which is the best dental clinic software for a small clinic?", answer: "For a brand-new single-chair clinic with simple work, an established subscription product is often the sensible start. The best software for your clinic is the one whose chart, treatment plans and staged payments match how you treat patients. Once you add chairs, consultants and regular lab work, owned software shaped around your workflow usually becomes the better fit." },
     { question: "Does dental software support the FDI tooth numbering system?", answer: "Yes. The chart uses FDI two-digit numbering by default, covering permanent and primary teeth, with findings recorded per surface. If your practice prefers another notation for display, that can be set while the underlying data stays consistent. Clicking any tooth shows its complete history of findings, procedures, lab work and images across all visits." },
     { question: "How are staged payments handled for root canals, implants and braces?", answer: "Each treatment plan is split into stages that match visits, with an amount per stage. Reception sees what is done, what is paid and what is due next, and the patient gets a clear breakdown. Orthodontic plans can use an initial amount plus monthly instalments. Advance payments and payments for completed work are reported separately for your accountant." },

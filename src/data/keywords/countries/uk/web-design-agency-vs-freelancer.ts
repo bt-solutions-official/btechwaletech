@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who know your site, not one" },
     { value: "100", label: "Pages included in our starting static plan" },
-    { value: "5", label: "Months of free maintenance once you launch" },
+    { value: "2", label: "Months of free maintenance once you launch" },
     { value: "7", label: "Days a week we answer WhatsApp messages" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Redesigns and rescues", note: "Taking over a site a freelancer or agency left behind, recovering logins and rebuilding what is worth keeping.", href: "/uk/website-redesign-services/", size: "md" },
       { name: "White-label builds for UK studios", note: "Agencies and freelancers who need extra hands hire us under their own brand.", href: "/white-label-web-development/", size: "sm" },
       { name: "Accessibility fixes", note: "Contrast, headings, keyboard use and forms checked against WCAG 2.2 AA.", href: "/uk/website-accessibility-audit/", size: "sm" },
-      { name: "Care after launch", note: `Five free months of fixes, then updates and backups from ${P.care}.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
+      { name: "Care after launch", note: `Two free months of fixes, then updates and backups from ${P.care}.`, href: "/uk/wordpress-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What our small team charges, and how it compares",
-    note: `We will not quote other suppliers' figures, because agency and freelancer quotes vary widely across the UK. What we can give you is our own starting points: business websites up to 100 pages from ${P.site}, SEO sites of 299+ pages from ${P.seoSite}, online shops from ${P.shop} and monthly SEO from ${P.seo}. Every quote is itemised in USD so you can compare it line by line with an agency proposal or a freelancer's estimate. Nothing is billed until you approve it in writing, and you get five free months of maintenance before optional care from ${P.care}.`,
+    note: `We will not quote other suppliers' figures, because agency and freelancer quotes vary widely across the UK. What we can give you is our own starting points: business websites up to 100 pages from ${P.site}, SEO sites of 299+ pages from ${P.seoSite}, online shops from ${P.shop} and monthly SEO from ${P.seo}. Every quote is itemised in USD so you can compare it line by line with an agency proposal or a freelancer's estimate. Nothing is billed until you approve it in writing, and you get two free months of maintenance before optional care from ${P.care}.`,
   },
   guideLabel: "Web design agency vs freelancer guide",
   guide: [
@@ -315,7 +315,7 @@ const content: FreelanceContent = {
         `In the web design agency vs freelancer debate, maintenance is where continuity beats size. The best maintainer is whoever knows your site and will still be around next year, and that could be an agency, a freelancer or a small team.`,
         `Agencies usually sell maintenance as a monthly retainer with a ticket system. That gives you process and cover, though small jobs can wait in a queue. Freelancers often fix things quickly but may be unavailable when you most need them, and a single freelancer's retirement ends the arrangement.`,
         `Whatever you choose, maintenance should cover software updates, security patches, backups you can restore, uptime monitoring and a clear way to request small changes. Ask what is included and what counts as a new project.`,
-        `With us, the first five months after launch include free fixes to our work. After that, care starts from ${P.care}, and because three people know the site, holidays do not leave you stranded. If you would rather move maintenance to a local freelancer later, the handover note makes that straightforward. The <a href='/uk/website-maintenance-cost/'>UK website maintenance cost guide</a> explains typical care plans.`,
+        `With us, the first two months after launch include free fixes to our work. After that, care starts from ${P.care}, and because three people know the site, holidays do not leave you stranded. If you would rather move maintenance to a local freelancer later, the handover note makes that straightforward. The <a href='/uk/website-maintenance-cost/'>UK website maintenance cost guide</a> explains typical care plans.`,
       ],
     },
     {
@@ -430,7 +430,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You approve in writing, register or confirm the domain and hosting in your name, and give us user access so nothing depends on us."],
       ["Design on a staging link", "The homepage and one inner page first, reviewed on a call in your UK morning, then the rest of the site built to match."],
       ["Launch with SEO basics", "Redirects, Search Console, analytics, cookie consent and speed checks done before the site goes live, followed by a handover note."],
-      ["Care or hand over", "Five months of free fixes, then optional care from us, or a clean handover to a local freelancer if you prefer."],
+      ["Care or hand over", "Two months of free fixes, then optional care from us, or a clean handover to a local freelancer if you prefer."],
     ],
   },
   faqHeading: "Web design agency vs freelancer: frequently asked questions",
@@ -453,7 +453,7 @@ const content: FreelanceContent = {
     { question: "Is WordPress or a website builder better when hiring a freelancer?", answer: "WordPress gives you portability: any developer can pick it up, and you can move hosts. Hosted builders are simpler but tie you to one platform. If you rely on a single freelancer, a mainstream platform that many developers know reduces your risk if they become unavailable. We build on WordPress and other mainstream stacks." },
     { question: "Does a web design agency vs freelancer choice affect accessibility?", answer: "Only through skill and attention. Gov.uk says public sector sites meet legal requirements by meeting WCAG 2.2 AA, a sensible target for any business site. Ask each supplier how they test contrast, headings, keyboard navigation and form labels. We build with WCAG 2.2 AA in mind and can audit an existing site." },
     { question: "In web design agency vs freelancer projects, who handles cookie consent?", answer: "Your builder should set it up and you remain responsible for compliance. The ICO says non-essential cookies need clear information and consent through a positive action, while strictly necessary ones are exempt. We configure the banner so analytics and marketing tags stay off until a visitor agrees; your adviser should check your privacy policy." },
-    { question: "What does website maintenance cover after launch?", answer: `Good maintenance covers software and plugin updates, security patches, restorable backups, uptime monitoring and small content changes. Agencies often sell it as a retainer; freelancers may charge per job. With us, the first five months after launch include free fixes to our work, and care plans start from ${P.care}.` },
+    { question: "What does website maintenance cover after launch?", answer: `Good maintenance covers software and plugin updates, security patches, restorable backups, uptime monitoring and small content changes. Agencies often sell it as a retainer; freelancers may charge per job. With us, the first two months after launch include free fixes to our work, and care plans start from ${P.care}.` },
     { question: "Can you meet me in person to discuss the website?", answer: "No. We are three freelance developers working remotely from India and do not visit clients or keep a UK office. We meet on Zoom, Google Meet or Teams during your morning and message on WhatsApp seven days a week. If face-to-face meetings are important to you, a local agency or freelancer is the better choice." },
     { question: "Can UK agencies hire your team for white-label work?", answer: "Yes. Agencies and freelancers in the UK hire us to build sites under their own brand when they need extra capacity. Confidentiality is agreed in writing, and handover documents can carry their branding. It is one way an agency adds hands without taking on staff, and it is worth asking any agency whether they do the same." },
   ],

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Stitching order tracker", `From ${P.software}`],
     ["Quote", "Itemised, in about 2 working days"],
     ["Ownership", "Domain, hosting, Instagram links: all yours"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers, one WhatsApp chat" },
     { value: "100", label: "Pages included in the starting site plan" },
-    { value: "5", label: "Months of maintenance free after launch" },
+    { value: "2", label: "Months of maintenance free after launch" },
     { value: "7", label: "Days a week we answer messages" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Order and tailor tracking", value: `From ${P.software}, 6–12 weeks` },
       { label: "Customer payments", value: "UPI and cards in India; international cards for NRIs" },
       { label: "Paying us", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -216,7 +216,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `After boutique website design with us, you own everything: domain, hosting, code, your photos and every customer record, including measurements. Customer measurements are personal data and a real business asset, since they bring customers back for easy repeat orders.`,
         `We register the domain and hosting in your name, connect your Instagram with your own login, and store orders and measurements in a database or sheet under your account. Access is limited to you and staff you add. If you change developers later, you keep everything.`,
-        `Treat measurement data with care. Collect only what you need for stitching, tell customers why you keep it, and let them ask for deletion. Our <a href='/privacy-policy/'>privacy policy</a> shows the kind of plain wording that helps; your own adviser should approve yours. Five months of free maintenance follow launch, and after that maintenance starts at ${P.care}.`,
+        `Treat measurement data with care. Collect only what you need for stitching, tell customers why you keep it, and let them ask for deletion. Our <a href='/privacy-policy/'>privacy policy</a> shows the kind of plain wording that helps; your own adviser should approve yours. Two months of free maintenance follow launch, and after that maintenance starts at ${P.care}.`,
       ],
     },
     {
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
       ["Map your stitching options", "Together we list garment types, measurement points and design choices, based on your own measurement card and the questions customers ask."],
       ["Build and fill", "We connect Instagram, build the two paths, the stitching form and booking, and fill pages with your photos and details on a test link."],
       ["Try it as a customer", "You place a stitching order, book a video slot in another time zone and send a WhatsApp order, and we fix anything that feels awkward."],
-      ["Go live", "Domain, Search Console and Business Profile link are set, logins handed over, and five months of free maintenance start on launch day."],
+      ["Go live", "Domain, Search Console and Business Profile link are set, logins handed over, and two months of free maintenance start on launch day."],
     ],
   },
   faqHeading: "Boutique website design: common questions",
@@ -369,12 +369,12 @@ const content: FreelanceContent = {
     { question: "Who owns my boutique website and customer measurements?", answer: "You do. Domain, hosting, code, photos, orders and measurements are all registered to you or stored in your accounts. We connect Instagram through your own login. If you ever change developers, you keep everything. Measurement data is personal, so we limit access to you and staff you add." },
     { question: "Should I hire a freelancer or an agency for my boutique website?", answer: "For most boutiques a small freelance team is the better fit: you speak directly to the people building the site, costs stay reasonable and small changes happen quickly. Choose an agency if you also want photo shoots, influencer campaigns and ads handled together. We build the site, forms, automation and SEO." },
     { question: "Can the website show prices only on request for bridal pieces?", answer: "Yes. Each outfit can show a price, a starting range or ‘price on request’ with a WhatsApp button. Many bridal boutiques show ranges for lehengas and exact prices for ready suits and blouses. You choose per product and can change it any time from the admin screen." },
-    { question: "Can I update the boutique website myself?", answer: "Yes. New arrivals come from Instagram, and you set price, sizes and sold status from a simple phone screen. Pages like shipping or about can be edited in the admin panel. During the five months of free maintenance after launch we help with anything that does not work as expected." },
+    { question: "Can I update the boutique website myself?", answer: "Yes. New arrivals come from Instagram, and you set price, sizes and sold status from a simple phone screen. Pages like shipping or about can be edited in the admin panel. During the two months of free maintenance after launch we help with anything that does not work as expected." },
     { question: "What photos work best for a boutique website?", answer: "Natural light near a window, a plain wall and the same angle for every outfit. Add close-ups of embroidery, fabric and finishing, and a full-length shot on a model or mannequin. Note the model’s height and size. Phone photos work well when the light is steady and the background is clean." },
     { question: "Can my boutique website work in Hindi as well as English?", answer: "Yes. Pages and the stitching form can appear in both languages with a simple switch. You supply or approve the Hindi text, and we set it up so both versions stay in sync. Measurement instructions in Hindi often help customers who are more comfortable reading it." },
     { question: "How do I pay BtechWaleTech for my boutique website?", answer: "In India you pay by UPI or bank transfer against the itemised quote you approved in writing, with stages set out in that quote. Clients outside India pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before written approval." },
     { question: "Can you build a tracker for my stitching orders and tailors?", answer: `Yes. A tracker lets tailors update each order’s stage from a phone, lets customers check progress with their phone number, and shows you trials and deliveries due this week. It is custom software starting at ${P.software}. Most boutiques add it after the website once order volume grows.` },
-    { question: "What happens after the free maintenance ends?", answer: `After five months of free maintenance you can continue with monthly maintenance starting at ${P.care}, update the site yourself, or move it to another developer, since you own everything. Monthly SEO for local visibility is optional and starts at ${P.seo}. Terms are set in your written quote.` },
+    { question: "What happens after the free maintenance ends?", answer: `After two months of free maintenance you can continue with monthly maintenance starting at ${P.care}, update the site yourself, or move it to another developer, since you own everything. Monthly SEO for local visibility is optional and starts at ${P.seo}. Terms are set in your written quote.` },
     { question: "Can AI search tools recommend my boutique?", answer: "They can mention boutiques whose pages are public and clear about what they offer. Plain text describing your services, city, turnaround times and how ordering works, plus structured data and a matching Business Profile, makes your boutique easier for AI answers to describe accurately. No one can guarantee a mention." },
     { question: "Apne boutique ki website kaise banwaye aur kitna kharcha aayega?", answer: `BtechWaleTech ke saath boutique website ${P.site} se shuru hoti hai, jisme Instagram se new arrivals, WhatsApp ordering, stitching ka measurement form aur video call booking aa jaati hai. Online checkout wala store ${P.shop} se shuru hota hai. WhatsApp par apna Instagram handle bhejiye, quote lagbhag do working days mein milega.` },
   ],
@@ -398,7 +398,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to take your boutique’s stitching orders online?",
-    note: `Send your Instagram handle and what you stitch on WhatsApp. You will get an itemised quote in about two working days, boutique sites from ${P.site}, full stores from ${P.shop}, every account in your name and five months of free maintenance after launch.`,
+    note: `Send your Instagram handle and what you stitch on WhatsApp. You will get an itemised quote in about two working days, boutique sites from ${P.site}, full stores from ${P.shop}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

@@ -56,7 +56,7 @@ const suratgarh: CityContent = {
     ai: "WhatsApp assistants that share daily rates, stock and appointment details in Hindi and pass real orders to your staff.",
     data: "Season dashboards comparing purchases, sales, outstanding dues and village-wise business across cotton and rabi crops.",
     app: "Apps for Android and iPhone from ₹40,000, submitted to Google Play and the App Store, suited to dealer orders, coaching updates or clinic tokens.",
-    maintenance: "Upkeep is free for five months after launch; after that, optional plans start at ₹8,000 a month for changes, backups and security fixes.",
+    maintenance: "Upkeep is free for two months after launch; after that, optional plans start at ₹8,000 a month for changes, backups and security fixes.",
   },
   whyUsIntro:
     "Suratgarh traders have lived through bad seasons and know what a loose promise costs. That is why our starting prices are public, quotes come itemised and in writing, WhatsApp gets answered seven days a week, and the domain, hosting, code and store accounts are opened in your name. When a feature won't return its cost, we say so up front.",
@@ -186,7 +186,7 @@ const suratgarh: CityContent = {
       paragraphs: [
         "Nobody from our side sits in a Suratgarh office, because there isn't one. Three engineers do the work: Ankur Kumar on full-stack builds, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. You message us on WhatsApp, receive a written scope with a line-by-line quote, give the go-ahead, and then watch the build take shape on preview links. Replies come every day of the week in Indian hours.",
         "Registrations are made in your name from the outset: domain, hosting, source code, the Google Business Profile and any developer accounts on Google Play or the App Store. You hold the passwords, so no developer, including us, can keep your site hostage.",
-        "Five months of upkeep come free once the project goes live: text and price changes, backups, security patches and checks that forms, UPI checkout and WhatsApp links still work. Beyond that, a maintenance plan from ₹8,000 a month is available but never compulsory. We schedule the heavier checks ahead of cotton arrivals, admissions and festival sales. Start with a message through the <a href=\"/contact/\">contact page</a>.",
+        "Two months of upkeep come free once the project goes live: text and price changes, backups, security patches and checks that forms, UPI checkout and WhatsApp links still work. Beyond that, a maintenance plan from ₹8,000 a month is available but never compulsory. We schedule the heavier checks ahead of cotton arrivals, admissions and festival sales. Start with a message through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const suratgarh: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "For the first five months after go-live, upkeep costs nothing: content changes, backups, security patches and tests on forms, UPI checkout and WhatsApp links are included. From the sixth month, maintenance plans begin at ₹8,000 a month if you want one. You are free to switch providers at any point and keep all the code.",
+        "For the first two months after go-live, upkeep costs nothing: content changes, backups, security patches and tests on forms, UPI checkout and WhatsApp links are included. From the third month, maintenance plans begin at ₹8,000 a month if you want one. You are free to switch providers at any point and keep all the code.",
     },
     {
       question: "Do you work in Sri Ganganagar, Hanumangarh and nearby towns?",

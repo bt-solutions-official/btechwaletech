@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Build window", "1–2 weeks once your service list is set"],
     ["Best time to launch", "Late summer, before the first cold snap"],
     ["Ownership", "Domain, hosting and code stay in your name"],
-    ["Post-launch", "5 months of free maintenance"],
+    ["Post-launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers working directly with you" },
@@ -207,7 +207,7 @@ const content: FreelanceContent = {
         "Migration and redirects from an existing site",
       ],
       after: [
-        `Monthly SEO starts at ${P.seo}. Maintenance is free for 5 months after launch and then starts at ${P.care} if you want it. The <a href='/canada/website-design-cost/'>website design cost guide for Canada</a> covers general price factors.`,
+        `Monthly SEO starts at ${P.seo}. Maintenance is free for 2 months after launch and then starts at ${P.care} if you want it. The <a href='/canada/website-design-cost/'>website design cost guide for Canada</a> covers general price factors.`,
       ],
     },
     {
@@ -434,7 +434,7 @@ const content: FreelanceContent = {
     { question: "Can my HVAC website work with Google Local Services Ads?", answer: "Yes. Google lists HVAC among Local Services Ads categories and Canada among supported countries, subject to availability in your area. Your website supports those ads with consistent business details, matching service pages and reviews that tell the same story. We build the site and landing pages but don't manage ad accounts." },
     { question: "Should I hire a local web designer or a remote team for my HVAC site?", answer: "A local designer can meet in person and photograph your crew. A remote team suits contractors comfortable with video calls and shared folders, usually at a lower cost for the same scope. With us in India, your early morning is our evening, so work you request during the day is often done overnight." },
     { question: "Who owns the HVAC website after launch?", answer: "Your business does. The domain, hosting account, merchant account for plan payments and source code are registered in your name from the start, and all logins are handed over. If you stop working with us, the site keeps running and any developer can maintain it." },
-    { question: "Do you offer maintenance for HVAC websites?", answer: `Yes. The first 5 months after launch are free, covering fixes, updates, rebate card changes and seasonal adjustments you request. After that, maintenance starts at ${P.care} if you want it. Monthly SEO, starting at ${P.seo}, covers new seasonal content and profile care separately.` },
+    { question: "Do you offer maintenance for HVAC websites?", answer: `Yes. The first 2 months after launch are free, covering fixes, updates, rebate card changes and seasonal adjustments you request. After that, maintenance starts at ${P.care} if you want it. Monthly SEO, starting at ${P.seo}, covers new seasonal content and profile care separately.` },
     { question: "Can you build an after-hours assistant for HVAC calls?", answer: `Yes. An AI assistant can answer overnight website and message enquiries, ask whether the problem is urgent, share your emergency line for real emergencies and book routine tune-ups into your calendar. It starts at ${P.ai}. It never gives repair or safety advice beyond the approved wording you supply.` },
     { question: "Can an HVAC website include financing information?", answer: "Yes, if you offer financing or rentals through a lender. We build a page explaining how your arrangement works, who the lender is and how to apply, plus a financing checkbox in the quote form. All wording about rates, terms or approvals comes from your lender's approved materials." },
     { question: "Do you build French HVAC websites for Quebec?", answer: "Yes. We build separate French and English versions with a language switcher and correct language tags. We write in English, so you supply the French copy or approve a professional translation. For Quebec businesses, your lawyer should confirm the site meets provincial language rules before launch." },

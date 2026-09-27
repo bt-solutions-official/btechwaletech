@@ -56,7 +56,7 @@ const gurdaspur: CityContent = {
     ai: "WhatsApp assistants in Punjabi and English that answer course, fee, price and stock questions and forward real decisions to you.",
     data: "Season dashboards of paddy and wheat purchases, payments to farmers, student enquiries by course and sales by branch.",
     app: "Android and iOS apps for coaching institutes, clinic appointments or dealer re-orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Gurdaspur owners are used to dealing face to face and checking every claim. We cannot sit across the counter, so we make everything else checkable: published starting prices, a written item-wise quote, WhatsApp replies seven days a week, and your domain, hosting, code and app store accounts registered in your own name from the start.",
@@ -169,7 +169,7 @@ const gurdaspur: CityContent = {
       paragraphs: [
         "Since we are not in Gurdaspur, we put everything in writing. The first call covers your business and customers; then you get a page or screen plan, a timeline and a line-by-line quote. After approval, we share live preview links you can open on your phone and show to your partners or family. Punjabi text is sent to you for checking before it goes live.",
         "We reply to WhatsApp every day, weekends included, on Indian Standard Time. If a delay appears, we tell you as soon as we know. Payments follow visible stages, and nothing is billed before your written approval of the quote.",
-        "Ownership stays with you. The domain, hosting, source code, Google Business Profile and the Play Store and App Store accounts are registered in your name, and logins are handed over in writing. The first five months of maintenance after launch are free, covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to anyone else.",
+        "Ownership stays with you. The domain, hosting, source code, Google Business Profile and the Play Store and App Store accounts are registered in your name, and logins are handed over in writing. The first two months of maintenance after launch are free, covering updates, backups, security patches and checks on forms and payments. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to anyone else.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const gurdaspur: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months of maintenance are free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer whenever you choose.",
+        "The first two months of maintenance are free: updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to another developer whenever you choose.",
     },
     {
       question: "Do you work in Batala, Dinanagar and Pathankot too?",

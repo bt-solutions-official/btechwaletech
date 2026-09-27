@@ -56,7 +56,7 @@ const samana: CityContent = {
     ai: "WhatsApp assistants that reply in Punjabi, Hindi or English about rates, stock, admissions and timings, then hand real decisions to you.",
     data: "Season dashboards showing paddy received, outturn, bags dispatched and payments pending by party.",
     app: "Android and iOS apps for mill staff to log trucks and bags, or for a school to reach parents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Samana runs on trust built over many harvests, and people here compare every rupee. So we put our starting prices in public, send a written line-by-line quote, answer WhatsApp all seven days, and register the domain, hosting, code and app accounts in your name. If something you ask for will not earn back its cost, we tell you plainly.",
@@ -168,7 +168,7 @@ const samana: CityContent = {
       heading: "Ownership, handover and maintenance for Samana clients",
       paragraphs: [
         "Every Samana project ends with a handover sheet. It lists the domain registrar, hosting account, source code location, Google Business Profile, analytics, and, for apps, the Google Play and Apple developer accounts. Each is registered to your email and phone number. We keep access only as long as you want us to, and you can remove us with a click.",
-        "Maintenance is free for the first five months after launch. In that period we update prices and photographs, add notices before admissions or festivals, take backups, apply security updates and test the forms, payments and WhatsApp links. After five months you can continue with us from ₹8,000 a month, manage the site yourself or pass it to anyone else.",
+        "Maintenance is free for the first two months after launch. In that period we update prices and photographs, add notices before admissions or festivals, take backups, apply security updates and test the forms, payments and WhatsApp links. After two months you can continue with us from ₹8,000 a month, manage the site yourself or pass it to anyone else.",
         "Apps need regular attention even when they work, because Google and Apple raise their technical requirements every year. We track those deadlines and release updates before they arrive, so a school or mill app is not removed from the store during the busiest month of the season.",
       ],
     },
@@ -260,7 +260,7 @@ const samana: CityContent = {
     {
       question: "What maintenance do I get after my website goes live?",
       answer:
-        "The first five months after launch are free: price and photo updates, notices, backups, security patches and checks on forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or take the work elsewhere. Since the code and accounts are in your name, switching needs nothing from us.",
+        "The first two months after launch are free: price and photo updates, notices, backups, security patches and checks on forms, payments and WhatsApp links. After that you may continue from ₹8,000 a month or take the work elsewhere. Since the code and accounts are in your name, switching needs nothing from us.",
     },
     {
       question: "Do you work with businesses in Ghagga, Patran and Patiala too?",

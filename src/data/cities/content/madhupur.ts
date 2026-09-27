@@ -57,7 +57,7 @@ const madhupur: CityContent = {
     ai: "WhatsApp assistants that answer room, fee, stock and timing questions in Hindi, English and Bengali, and pass bookings or orders to you.",
     data: "Simple dashboards of bookings by month, sales by route and dues by shop, readable on any phone.",
     app: "Android and iOS apps for school notices or retailer reordering in Madhupur, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Madhupur is a town where people still ask around before hiring anyone, and a bad experience travels fast. We make that easy to check: starting prices on our website, a written quote with every item costed, WhatsApp replies on all seven days, and your domain, hosting, code and store accounts registered to you from the first day.",
@@ -186,7 +186,7 @@ const madhupur: CityContent = {
         "Online store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance: from ₹8,000 a month, after five free months",
+        "Maintenance: from ₹8,000 a month, after two free months",
       ],
     },
     {
@@ -204,7 +204,7 @@ const madhupur: CityContent = {
       heading: "Ownership, handover and maintenance for Madhupur websites and apps",
       paragraphs: [
         "From the first day, the accounts belong to you. We register the domain on your email, set up hosting in your name, give you the source code, and make you owner of the Google Business Profile, the Google Play developer account and the Apple developer account. The handover note lists every login in one place.",
-        "Maintenance is free for five months after launch. We change rates and photographs, take backups, apply security and software updates, and check that forms, booking requests, payments and WhatsApp links work. From the sixth month, you can keep us from ₹8,000 a month, look after it yourself, or pass the code to any developer without asking us.",
+        "Maintenance is free for two months after launch. We change rates and photographs, take backups, apply security and software updates, and check that forms, booking requests, payments and WhatsApp links work. From the third month, you can keep us from ₹8,000 a month, look after it yourself, or pass the code to any developer without asking us.",
         "Guest houses should expect seasonal changes, such as Puja and winter rates, and schools need the new session each year. Apps need an annual update to keep up with Google and Apple requirements, and we plan that in advance so your listing stays live.",
       ],
     },
@@ -282,7 +282,7 @@ const madhupur: CityContent = {
     {
       question: "Who looks after the website after launch?",
       answer:
-        "We do, free, for the first five months: updates to rates and photos, backups, security patches and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month if you want to continue with us, or you can move it to your own staff or another developer whenever you like.",
+        "We do, free, for the first two months: updates to rates and photos, backups, security patches and checks on forms and payment links. After that, maintenance starts at ₹8,000 a month if you want to continue with us, or you can move it to your own staff or another developer whenever you like.",
     },
     {
       question: "Do you also serve Deoghar, Jasidih, Giridih and Jamtara?",

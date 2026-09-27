@@ -30,11 +30,11 @@ const munger: CityContent = {
     eyebrow: "Munger · Jamalpur · Bihar",
     h1: "Web, app, SEO and automation services for Munger's Ganga-side town and the Jamalpur workshop belt",
     lede:
-      "Three remote engineers building websites, Hindi and English search pages, small online stores and WhatsApp workflows for Munger's shops, clinics, coaching centres, hotels and traders, from the old fort area and Kashtaharni Ghat to Jamalpur and Tarapur. Starting prices are public, the domain and code are yours, and the first five months of maintenance are free.",
+      "Three remote engineers building websites, Hindi and English search pages, small online stores and WhatsApp workflows for Munger's shops, clinics, coaching centres, hotels and traders, from the old fort area and Kashtaharni Ghat to Jamalpur and Tarapur. Starting prices are public, the domain and code are yours, and the first two months of maintenance are free.",
     pills: ["Sites from ₹10,000", "Hindi and English pages", "Coaching and school sites", "Clinic and lab sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "In Munger, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Munger office, and every website we build comes with five months of free maintenance after launch.",
+    "In Munger, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000 and online stores from ₹50,000. We are a remote team of three engineers with no Munger office, and every website we build comes with two months of free maintenance after launch.",
   snapshot: [
     { label: "Location", value: "On the south bank of the Ganga, about 180 km east of Patna; the Munger Ganga rail-cum-road bridge links it to the north bank" },
     { label: "Industry", value: "Jamalpur Locomotive Workshop (1862), the ITC factory, a dairy unit and a historic gun factory" },
@@ -51,10 +51,10 @@ const munger: CityContent = {
     ai: "WhatsApp assistants that answer repeated questions about fees, batches, timings, stock and appointments in Hindi or English, and hand anything complicated to your staff.",
     data: "Simple dashboards for student fees, enquiries, stock and sales that an owner can read on a phone between classes or customers.",
     app: "Android and iPhone apps for student portals, clinic appointments and shop orders, released on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Updates, backups, security and speed checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Updates, backups, security and speed checks free for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
-    "Munger businesses usually get websites from a Patna or Bhagalpur agency they never meet again, or from a local contact who stops answering after delivery. We publish our starting prices, write Hindi pages where customers need them, reply on WhatsApp seven days a week and keep caring for your site free of charge for five months after launch.",
+    "Munger businesses usually get websites from a Patna or Bhagalpur agency they never meet again, or from a local contact who stops answering after delivery. We publish our starting prices, write Hindi pages where customers need them, reply on WhatsApp seven days a week and keep caring for your site free of charge for two months after launch.",
   pricingIntro:
     "Every price here is a starting point, and the final figure follows your scope. A tuition teacher's site costs much less than a school with online admissions and fee payment. You receive an itemised quote in about two working days, and nothing is billed until you approve it in writing.",
   sections: [
@@ -178,11 +178,11 @@ const munger: CityContent = {
     },
     {
       id: "ownership-munger",
-      heading: "Your website stays yours, with five months of free upkeep",
+      heading: "Your website stays yours, with two months of free upkeep",
       paragraphs: [
         "A common complaint in smaller Bihar towns is a website that vanished because the developer booked the domain in their own name and later stopped responding. When the renewal lapsed, the site and business email went with it.",
         "With us, the domain and hosting are registered in your name from the start. At launch you receive every login, the full source code and a short guide. You can move to another developer at any time without paying us anything.",
-        "Maintenance is free for five months after launch, covering content changes, bug fixes, security updates, backups and speed checks. After that, it is from ₹8,000 a month, or you can contact us only when needed. Start a conversation through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "Maintenance is free for two months after launch, covering content changes, bug fixes, security updates, backups and speed checks. After that, it is from ₹8,000 a month, or you can contact us only when needed. Start a conversation through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -274,7 +274,7 @@ const munger: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content changes, bug fixes, security updates, backups and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content changes, bug fixes, security updates, backups and speed checks at no charge. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How do I get started?",

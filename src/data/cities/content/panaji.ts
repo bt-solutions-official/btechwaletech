@@ -35,7 +35,7 @@ const panaji: CityContent = {
     pills: ["Sites from ₹10,000", "Konkani and English", "Direct booking pages", "Property project pages", "Domain and code yours"],
   },
   quickAnswer:
-    "A website for a Panaji business starts at ₹10,000 with us and takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three without an office in Goa, and maintenance is free for five months.",
+    "A website for a Panaji business starts at ₹10,000 with us and takes one to two weeks. SEO websites of 299+ pages start at ₹20,000, WhatsApp and AI automation at ₹40,000, online stores at ₹50,000 and custom web apps at ₹60,000. We are a remote team of three without an office in Goa, and maintenance is free for two months.",
   snapshot: [
     { label: "Role", value: "Capital of Goa and headquarters of North Goa district, on the Mandovi estuary where it meets the Arabian Sea" },
     { label: "Civic body", value: "Corporation of the City of Panaji with 30 wards; Panaji was raised to city status on 22 March 1843" },
@@ -52,7 +52,7 @@ const panaji: CityContent = {
     ai: "WhatsApp replies that handle room, table and site-visit questions from tourists and outstation buyers at any hour.",
     data: "Season-wise booking, footfall and lead dashboards so owners can see how the monsoon lull and December peak really compare.",
     app: "Android and iOS apps for guest check-in details, event passes and staff rosters, published on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Free care for five months after launch, then support from ₹8,000 a month, timed around the tourist season.",
+    maintenance: "Free care for two months after launch, then support from ₹8,000 a month, timed around the tourist season.",
   },
   whyUsIntro:
     "Panaji businesses often pay Mumbai or Bengaluru agencies for sites nobody locally can edit, or rely on portals that keep their guests' details. We are three engineers who publish starting prices, reply on WhatsApp seven days a week, and give you the domain, hosting and code in your own name.",
@@ -73,7 +73,7 @@ const panaji: CityContent = {
       heading: "What websites cost in Panaji",
       paragraphs: [
         "Our starting prices are on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. It covers a mobile layout, contact and enquiry forms, WhatsApp button, Google map and basic search setup. Most guesthouses, clinics, cafés and professional firms fit within this.",
-        "A 299+ page site built around real searches starts at ₹20,000 over three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom web applications at ₹60,000. Monthly SEO begins at ₹10,000, and ongoing maintenance at ₹8,000 a month after five free months.",
+        "A 299+ page site built around real searches starts at ₹20,000 over three to five weeks. WhatsApp and AI automation starts at ₹40,000, online stores at ₹50,000 and custom web applications at ₹60,000. Monthly SEO begins at ₹10,000, and ongoing maintenance at ₹8,000 a month after two free months.",
         "Goa sees a wide spread of quotes, from freelancers to large agencies. Rather than comparing only the total, ask who registers the domain, whether the site can take bookings or leads without a monthly portal fee, how easily you can change prices before the season, and who fixes things in December when everyone is busy. Our written quote answers each point.",
       ],
       list: [
@@ -186,7 +186,7 @@ const panaji: CityContent = {
       heading: "Ownership, handover and care between seasons",
       paragraphs: [
         "We register the domain and hosting in your name from the start. At launch you receive every password, the full source code and a short guide to how the site is built. If you ever want to move to another developer, you can do so without paying us any exit fee.",
-        "Maintenance is free for five months after launch: text and price updates, bug fixes, security patches, backups and uptime checks. For many Panaji businesses those months cover part of the tourist season, when a broken form costs the most. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
+        "Maintenance is free for two months after launch: text and price updates, bug fixes, security patches, backups and uptime checks. For many Panaji businesses those months cover part of the tourist season, when a broken form costs the most. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something.",
         "The monsoon is a good time for bigger work, such as new photographs, fresh pages for new rooms or projects, and a check of your Google profile before the season. Our <a href=\"/services/web-development/\">web development page</a> explains what each build includes.",
       ],
     },

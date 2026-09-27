@@ -30,11 +30,11 @@ const raghunathganj: CityContent = {
     eyebrow: "Raghunathganj · Murshidabad, West Bengal",
     h1: "Websites, software, SEO and AI tools for Raghunathganj, Jangipur and the towns along the Bhagirathi",
     lede:
-      "Three engineers working remotely to build websites, Google listings and WhatsApp systems for shops, doctors, tutors, traders and beedi firms in Raghunathganj, Jangipur and the wider subdivision. Prices are written down in advance, the people you talk to are the people writing the code, and the first five months after launch cost nothing.",
+      "Three engineers working remotely to build websites, Google listings and WhatsApp systems for shops, doctors, tutors, traders and beedi firms in Raghunathganj, Jangipur and the wider subdivision. Prices are written down in advance, the people you talk to are the people writing the code, and the first two months after launch cost nothing.",
     pills: ["Websites from ₹10,000", "Bengali and English pages", "Google Maps setup", "WhatsApp replies", "No lock-in"],
   },
   quickAnswer:
-    "For a Raghunathganj or Jangipur business, a simple website with us costs from ₹10,000 and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. We are a three-engineer remote team without a local office, so you pay for the work only. Hosting setup, basic SEO and five months of free maintenance are included.",
+    "For a Raghunathganj or Jangipur business, a simple website with us costs from ₹10,000 and a 299+ page SEO site from ₹20,000, delivered in one to five weeks. We are a three-engineer remote team without a local office, so you pay for the work only. Hosting setup, basic SEO and two months of free maintenance are included.",
   snapshot: [
     { label: "Where it sits", value: "Twin town of Jangipur across the Bhagirathi, in Jangipur subdivision of Murshidabad district" },
     { label: "Main trade", value: "Beedi manufacturing and home-based beedi rolling across the subdivision, plus farm trade and retail" },
@@ -51,10 +51,10 @@ const raghunathganj: CityContent = {
     ai: "WhatsApp auto-replies and enquiry logging for clinics, coaching centres and shops that get the same questions every day.",
     data: "Sales, stock and payment dashboards built from the Excel files or registers you already maintain, readable on a phone.",
     app: "Android and iOS apps for bookings, orders or student attendance, available on Google Play and the App Store with prices from ₹40,000.",
-    maintenance: "Five months of free upkeep after launch, including edits, backups and security updates, then from ₹8,000 a month.",
+    maintenance: "Two months of free upkeep after launch, including edits, backups and security updates, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Businesses in Raghunathganj and Jangipur often get websites through a relative, a cyber café or a Kolkata agency that rarely answers the phone afterwards. We keep things plainer than that: published prices, a written quote, replies on WhatsApp every day of the week, and five months of support after launch at no extra cost.",
+    "Businesses in Raghunathganj and Jangipur often get websites through a relative, a cyber café or a Kolkata agency that rarely answers the phone afterwards. We keep things plainer than that: published prices, a written quote, replies on WhatsApp every day of the week, and two months of support after launch at no extra cost.",
   pricingIntro:
     "Here is what our work starts at. A doctor's single-location website and a beedi company's product and dealer portal are very different jobs, so your quote lists every page and feature separately. You approve it in writing before any money changes hands.",
   sections: [
@@ -185,7 +185,7 @@ const raghunathganj: CityContent = {
       paragraphs: [
         "A common story in small towns goes like this: a website is made, the developer registers the domain in his own name, and a year later he changes his number. The site stops working, the business name is gone, and starting again means a new domain and lost customers. We have seen it more than once.",
         "With us, the domain is registered in your name and paid from your account, the hosting is yours, and at launch you receive every password and the full code with a simple written note on what is where. If you later want another developer, you hand over the details and leave. There is no exit charge.",
-        "For five months after launch, maintenance is free: text and price changes, fixes, security updates, backups and checks that the site is up and fast. After that, it continues from ₹8,000 a month if you want it, or you can contact us only when needed.",
+        "For two months after launch, maintenance is free: text and price changes, fixes, security updates, backups and checks that the site is up and fast. After that, it continues from ₹8,000 a month if you want it, or you can contact us only when needed.",
       ],
     },
   ],
@@ -265,9 +265,9 @@ const raghunathganj: CityContent = {
         "You will. The domain is registered in your name, the hosting account is yours, and you receive every password and the full code at launch. You can move to any other developer later without paying us anything extra.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months after launch we handle edits, fixes, security updates, backups and uptime checks free of charge. After that, you can continue with us from ₹8,000 a month or contact us only when a change is needed.",
+        "During the first two months after launch we handle edits, fixes, security updates, backups and uptime checks free of charge. After that, you can continue with us from ₹8,000 a month or contact us only when a change is needed.",
     },
     {
       question: "How soon will I get customers from Google?",

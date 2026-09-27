@@ -45,7 +45,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers reviewing each payment flow" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Card numbers stored on your server" },
   ],
   answer: {
@@ -92,7 +92,7 @@ const content: FreelanceContent = {
       ["Card data", "Handled by provider", "Sometimes touches your server", "Never touches your server"],
       ["Custom flows", "Limited to what the plug-in offers", "Possible", "Deposits, part payments, subscriptions, split settlements"],
       ["Testing", "Few test orders", "Happy path only", "Sandbox tests for success, failure, pending, refund and duplicate"],
-      ["After launch", "You watch for problems", "Ad hoc", `5 free months, then from ${P.care}`],
+      ["After launch", "You watch for problems", "Ad hoc", `2 free months, then from ${P.care}`],
     ],
     fine: "If your site runs on a mainstream platform and sells simple products, the provider’s official plug-in may be all you need; we will tell you so rather than write custom code.",
   },
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Android and iOS app with in-app checkout", P.app, P.appUsd, "6–10 weeks"],
         ["Automated reconciliation and daily payment summary", P.ai, P.aiUsd, "2–4 weeks"],
         ["Payments added to an existing site", "Quoted after code review", "Quoted after code review", "Depends on the codebase"],
-        ["Maintenance after 5 free months", P.care, P.careUsd, "Monthly"],
+        ["Maintenance after 2 free months", P.care, P.careUsd, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -358,7 +358,7 @@ const content: FreelanceContent = {
       ["You open the merchant account", "Your business applies with the provider of your choice and shares test keys. Live keys stay in your control until go-live."],
       ["Build and verify", "Server-side orders, checkout, signature checks, webhooks, refunds and invoices are built on staging against the provider’s test mode."],
       ["Test every path", "We rehearse success, failure, pending, duplicate and refund cases, then run small live payments and refund them before launch."],
-      ["Launch and watch", "After launch we monitor the first days of real payments closely. Five months of free maintenance follow; ongoing care afterwards is optional."],
+      ["Launch and watch", "After launch we monitor the first days of real payments closely. Two months of free maintenance follow; ongoing care afterwards is optional."],
     ],
   },
   faqHeading: "Payment gateway integration: questions people ask",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Who owns the merchant account and API keys?", answer: "Your business should own everything: the merchant account, the API keys, the bank account for settlements and the website or app code. Developers work with test keys and access you can revoke. BtechWaleTech never opens merchant accounts in its own name for clients, so the money and the relationship with the provider always stay with you." },
     { question: "My site charges customers but orders stay unpaid. Can you fix it?", answer: "Usually. This almost always comes from trusting the browser redirect alone, a missing or failing webhook, or a signature check that rejects valid payments. We review logs and the provider dashboard, repair verification and webhook handling, and reconcile the stuck orders. With code and dashboard access, the cause is normally found quickly." },
     { question: "Can you work on payment integration remotely?", answer: "Yes. Payment integration is entirely online: we work in your repository, use the provider’s test mode, share staging links and talk on WhatsApp or video. BtechWaleTech works with businesses across India and abroad this way and does not make on-site visits. Live keys are added by you or with you at go-live." },
-    { question: "Website mein UPI payment lagwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath naya online store UPI aur card checkout ke saath ${P.shop} se shuru hota hai. Agar website pehle se bani hai to code dekhne ke baad quote milta hai. Payment provider ki transaction fees alag hoti hai. Merchant account aapke business ke naam par hi khulta hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Website mein UPI payment lagwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath naya online store UPI aur card checkout ke saath ${P.shop} se shuru hota hai. Agar website pehle se bani hai to code dekhne ke baad quote milta hai. Payment provider ki transaction fees alag hoti hai. Merchant account aapke business ke naam par hi khulta hai, aur launch ke baad 2 mahine maintenance free hai.` },
   ],
   related: {
     heading: "Related ecommerce, API and app pages",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a payment gateway integration developer? Tell us your payment flow",
-    note: `Send us what customers pay for and where your site or app runs. You will get an itemised estimate in about two working days, with online stores from ${P.shop}, the merchant account in your name and five months of free maintenance after launch.`,
+    note: `Send us what customers pay for and where your site or app runs. You will get an itemised estimate in about two working days, with online stores from ${P.shop}, the merchant account in your name and two months of free maintenance after launch.`,
   },
 };
 

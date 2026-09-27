@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Custom quote engine or portal", `From ${P.software}`],
     ["Store build time", "4–8 weeks"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Included after launch", "5 months of maintenance"],
+    ["Included after launch", "2 months of maintenance"],
   ],
   stats: [
     { value: "0", label: "Commission taken on your orders by us" },
     { value: "2", label: "Working days to your itemised quote" },
-    { value: "5", label: "Months of free upkeep after go-live" },
+    { value: "2", label: "Months of free upkeep after go-live" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Artwork handling", value: "Upload, preflight checklist, proof, approval log" },
       { label: "Payments", value: "UPI and cards, GST invoice emailed on payment" },
       { label: "Order updates", value: "Status page plus WhatsApp or SMS alerts" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Order tracking", note: "A status page for each job (received, in prepress, printing, finishing, dispatched) with courier details and alerts to the customer.", href: "/order-management-system/", size: "md" },
       { name: "Local search setup", note: `Google Business Profile, product-level pages for city searches and Search Console reporting, with monthly SEO from ${P.seo}.`, href: "/google-business-profile-expert/", size: "sm" },
       { name: "WhatsApp order alerts", note: "Automatic messages when a proof is ready, a job is printed or a parcel ships, sent from your own business number.", href: "/whatsapp-business-api-integration/", size: "sm" },
-      { name: "Maintenance", note: `Price-table edits, new products, backups and updates: 5 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance", note: `Price-table edits, new products, backups and updates: 2 months free, then from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own the domain, hosting, code and every order and customer record. We set things up in your accounts and hand over admin access, the code repository and a short guide for your staff.`,
         `Your team should be able to add a product, change a rate table, upload a new sample photo and move jobs through stages without us. We design the admin area for counter staff, not developers, and walk them through it on a video call before launch.`,
-        `Five months of maintenance are included after go-live: fixes, updates, backups and small changes such as a new product type. After that, maintenance continues from ${P.care} if you want it. Terms for any ongoing work sit in your written quote, and our <a href='/refund-policy/'>refund policy</a> explains how cancellations are handled.`,
+        `Two months of maintenance are included after go-live: fixes, updates, backups and small changes such as a new product type. After that, maintenance continues from ${P.care} if you want it. Terms for any ongoing work sit in your written quote, and our <a href='/refund-policy/'>refund policy</a> explains how cancellations are handled.`,
       ],
     },
     {
@@ -316,7 +316,7 @@ const content: FreelanceContent = {
         ["Costing engine or corporate portal", "Imposition-based pricing, company logins, saved jobs, statements", `${P.software} (${P.softwareUsd})`, "6–12 weeks"],
         ["Automated order alerts", "WhatsApp messages at each job stage", `${P.ai} (${P.aiUsd})`, "2–4 weeks"],
         ["Large SEO catalogue", "Hundreds of product and city pages", `${P.seoSite} (${P.seoSiteUsd})`, "3–5 weeks"],
-        ["Ongoing care", "Updates, backups, price and product edits", `${P.care} (${P.careUsd}) after 5 free months`, "Monthly"],
+        ["Ongoing care", "Updates, backups, price and product edits", `${P.care} (${P.careUsd}) after 2 free months`, "Monthly"],
       ],
       hideSm: [1],
     },
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Turn prices into rules", "We convert your rate card into option sets and price rules, list any gaps, and agree how rush jobs, design help and delivery are charged."],
       ["Build and test with real jobs", "Product pages, calculator, upload, proofs and checkout are built, then your counter team prices real orders on the site until results match their quotes."],
       ["Soft launch", "A handful of regular customers order through the site first. We fix confusing labels, then connect Search Console, Business Profile links and analytics in your accounts."],
-      ["Five months of care", "Fixes, updates and small additions such as new products are covered for five months, after which monthly maintenance is optional."],
+      ["Two months of care", "Fixes, updates and small additions such as new products are covered for two months, after which monthly maintenance is optional."],
     ],
   },
   faqHeading: "Printing press website: questions print shop owners ask",
@@ -404,7 +404,7 @@ const content: FreelanceContent = {
     { question: "Do you design the products or artwork for printing?", answer: "No, we build the website and ordering system; your designers handle artwork. The site can offer a “request design help” option that sends the brief to your team. If you want online design templates where customers edit text on a card, that is possible as custom software, quoted separately." },
     { question: "Can I track orders and show status to customers?", answer: "Yes. Each order has stages such as received, artwork check, proof sent, approved, printing, finishing and dispatched. Staff move jobs along from a production screen, and each change can send an alert. For courier shipments, the dispatch stage stores the courier name and tracking number for the customer." },
     { question: "Who owns the website and the customer data?", answer: "You do. The domain, hosting, payment account and code are all in your name, and every order and customer record sits in your database. At handover you get admin access, the code repository and a guide for staff. Nothing ties you to us if you later move maintenance elsewhere." },
-    { question: "What happens after the printing website goes live?", answer: `Five months of maintenance are included: fixes, updates, backups and small changes such as adding a product. After that, maintenance continues from ${P.care} a month if you want it. Your staff can change prices, products and photos themselves from the admin area, so routine updates do not need us.` },
+    { question: "What happens after the printing website goes live?", answer: `Two months of maintenance are included: fixes, updates, backups and small changes such as adding a product. After that, maintenance continues from ${P.care} a month if you want it. Your staff can change prices, products and photos themselves from the admin area, so routine updates do not need us.` },
     { question: "How do I pay for the website?", answer: "In India you pay by UPI or bank transfer against the milestones in your approved quote, with proper invoices. International clients pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before written approval of the quote, and the refund policy page on our site explains how cancellations work." },
     { question: "Can the website handle wedding card orders?", answer: "Yes. Wedding card pages work differently from cards or flyers: customers browse designs, pick inserts and envelopes, and fill a form with names, dates and venues. The proof step matters most here, because families review text carefully. A shareable proof link lets relatives check it before the customer approves." },
     { question: "Can you add a mobile app for my printing business?", answer: `We can, from ${P.app}, but most presses do not need one. A fast mobile-friendly website handles ordering on any phone without an install. An app suits a large press with many repeat corporate users who want push alerts. Start with the website and consider an app only if customers ask for it.` },

@@ -35,14 +35,14 @@ const content: FreelanceContent = {
     ["Apps start from", P.app],
     ["Typical timeline", "6–10 weeks for a first release"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Store accounts", "Held by your Australian business"],
     ["Billing", "USD via Wise, bank wire or PayPal"],
   ],
   stats: [
     { value: "3", label: "Developers pricing and building your app" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Marketplace fees on top of the quote" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Most expensive features", value: "Two-sided marketplaces, real-time chat, live tracking, video" },
       { label: "Store fees", value: "Apple US$99 a year; Google Play US$25 once" },
       { label: "First release", value: "6–10 weeks for a focused scope" },
-      { label: "After launch", value: `5 months free, then maintenance from ${P.care}` },
+      { label: "After launch", value: `2 months free, then maintenance from ${P.care}` },
       { label: "Web dashboard or portal", value: `Custom web apps from ${P.software}` },
     ],
   },
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Chat and notifications", note: "Push notifications are cheap to add; full in-app chat with read receipts, images and moderation is a feature set of its own.", size: "md" },
       { name: "AI features", note: `Summaries, smart search or an in-app assistant, priced like AI automation work from ${P.ai} when it goes beyond a single API call.`, href: "/australia/ai-chatbot-development/", size: "sm" },
       { name: "Store release", note: "Screenshots, privacy labels, data safety form, review responses and TestFlight or closed testing before the public launch.", size: "sm" },
-      { name: "Maintenance plans", note: `Five free months after launch, then OS updates, library upgrades and small fixes from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Maintenance plans", note: `Two free months after launch, then OS updates, library upgrades and small fixes from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -169,7 +169,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `The first year of running an app usually costs a fraction of the build, but it is never zero. Plan for store fees, a backend, third-party services and maintenance, and you will not be surprised in month four.`,
         `Hosting for a new app with modest traffic is typically low, especially on serverless or managed platforms such as Firebase or AWS in the Sydney region. Costs grow with users, stored photos and video. SMS verification and transactional email are billed per message. Map services charge by request above their free allowances. Crash reporting and analytics tools often have free tiers that suit a first release.`,
-        `Maintenance is the line people skip. Apple and Google release new operating system versions every year, libraries go out of date, and stores change their rules. With us, the first <strong>5 months after launch are free</strong>; after that, maintenance starts from ${P.care} and covers updates, fixes and small changes. Our <a href='/australia/website-maintenance-services/'>maintenance services page</a> lists what that includes.`,
+        `Maintenance is the line people skip. Apple and Google release new operating system versions every year, libraries go out of date, and stores change their rules. With us, the first <strong>2 months after launch are free</strong>; after that, maintenance starts from ${P.care} and covers updates, fixes and small changes. Our <a href='/australia/website-maintenance-services/'>maintenance services page</a> lists what that includes.`,
       ],
       list: [
         "Apple Developer Program: US$99 each year, in your business's name.",
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Here is a made-up scenario to show how an app estimate is assembled. Say a Brisbane pilates studio with two locations wants members to book classes, buy class packs and get reminders.`,
         `The base covers login, member profile, the class timetable, booking and cancellation, and push reminders on iOS and Android, which is the part closest to our ${P.app} starting point. The studio needs staff to manage classes, so an admin dashboard is a separate line. Class packs are services used in person, so they go through normal card checkout rather than in-app purchase; that is another line, with receipts and refunds. A waitlist that auto-promotes members when someone cancels adds logic and notifications, so it is priced separately and could wait for version two.`,
-        `Running costs are Apple's US$99 a year, Google's US$25 once, hosting and push services on a free or low tier at first, and maintenance from ${P.care} after five free months. The studio sees each line, keeps the waitlist for phase two, and launches in about eight weeks. If the studio also needs a new <a href='/australia/small-business-website-design/'>small business website</a>, that is quoted on its own.`,
+        `Running costs are Apple's US$99 a year, Google's US$25 once, hosting and push services on a free or low tier at first, and maintenance from ${P.care} after two free months. The studio sees each line, keeps the waitlist for phase two, and launches in about eight weeks. If the studio also needs a new <a href='/australia/small-business-website-design/'>small business website</a>, that is quoted on its own.`,
       ],
     },
     {
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
         ["Google Play registration", "Google", "US$25 once"],
         ["Store commission on digital sales", "Apple and Google", "15% for most small developers"],
         ["Hosting, SMS, maps, email", "Each provider", "Usage-based, starts low"],
-        ["Maintenance", "BtechWaleTech", `5 months free, then from ${P.care}`],
+        ["Maintenance", "BtechWaleTech", `2 months free, then from ${P.care}`],
       ],
     },
     {
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
         ["Feature milestones", "Weeks 3–8", "Installable builds after each milestone"],
         ["Testing on devices", "Final 1–2 weeks", "Bug list closed, performance checked"],
         ["Store submission", "Final week", "Listings, privacy forms, review responses"],
-        ["Aftercare", "5 months after launch", "Free fixes and OS updates"],
+        ["Aftercare", "2 months after launch", "Free fixes and OS updates"],
       ],
     },
   ],
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
       ["Accounts and setup", "Your business enrols with Apple and Google, and we are added as team members. The code repository and cloud project are created under your ownership."],
       ["Build in milestones", "Each milestone ends with an installable build on your phone and a short call in your afternoon. Feedback goes into the next milestone, not a surprise invoice."],
       ["Test and submit", "We test on real iOS and Android devices, prepare store listings and privacy forms, and handle reviewer questions until both apps are live."],
-      ["Five free months", `Fixes, OS updates and small tweaks are free for five months after launch. After that, maintenance starts from ${P.care} if you want us to continue.`],
+      ["Two free months", `Fixes, OS updates and small tweaks are free for two months after launch. After that, maintenance starts from ${P.care} if you want us to continue.`],
     ],
   },
   faqHeading: "App development cost in Australia: questions people ask",
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
     { question: "Is it cheaper to build an app in India than in Australia?", answer: "For the same feature list, a team in India usually costs less because salaries and overheads are lower. The saving is real only when the work is well organised: a clear scope, milestone builds you can test, and code and accounts in your name. Without those, rework can eat the difference. We quote in USD, itemised, and share the code repository from the start." },
     { question: "How much does it cost to add payments to an app?", answer: "Payments add a checkout flow, receipts, refunds and failure handling, so they are a medium-effort feature priced as their own line. For physical goods and in-person services, apps normally use regular card checkout. For digital content inside the app, Apple and Google require their own in-app purchase systems and take a commission, which changes both the build and your margins." },
     { question: "What are the App Store and Google Play fees in Australia?", answer: "Apple charges US$99 a year for the Apple Developer Program, shown in local currency where available. Google Play charges a one-time US$25 registration fee. On digital sales, Apple's Small Business Program rate is 15% for developers under one million US dollars in yearly proceeds, and Google says most fee-paying developers qualify for 15% or less." },
-    { question: "How much does an app cost to maintain each year?", answer: `Yearly running costs include store fees, hosting, third-party services such as SMS and maps, and maintenance for operating system updates and fixes. Hosting usually starts low and grows with users. With BtechWaleTech the first five months after launch are free, then maintenance starts from ${P.care}. Budgeting for upkeep from day one avoids an app that quietly breaks after an iOS update.` },
+    { question: "How much does an app cost to maintain each year?", answer: `Yearly running costs include store fees, hosting, third-party services such as SMS and maps, and maintenance for operating system updates and fixes. Hosting usually starts low and grows with users. With BtechWaleTech the first two months after launch are free, then maintenance starts from ${P.care}. Budgeting for upkeep from day one avoids an app that quietly breaks after an iOS update.` },
     { question: "How long does it take to build an app?", answer: "A focused first release usually takes 6 to 10 weeks with our team: about a week for scope, two weeks for design and the backend base, several weeks of feature milestones and a final week or two for testing and store submission. Marketplaces and workflow apps take longer and are delivered in phases. Store review can add a few days." },
     { question: "Does building for both iPhone and Android double the cost?", answer: "Not with a cross-platform framework. Flutter and React Native let one codebase publish to both the App Store and Google Play, so you pay for most of the work once. Some testing, store setup and occasional platform-specific code still apply to each. Two separate native apps would cost close to double, which is why most small businesses now choose cross-platform." },
     { question: "Should I pay hourly or per project for an app?", answer: "A per-milestone quote based on a written scope gives you more certainty than open-ended hourly billing, because each milestone has a price and a demo you can test. Hourly suits ongoing small changes after launch. We quote itemised milestones for new builds; change requests are priced before work starts, and nothing is billed until you approve it in writing." },

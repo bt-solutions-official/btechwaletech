@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Consulting before code", "Product builds from ₹60,000", "Android & iOS from ₹40,000", "Hindi and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT consulting and IT solutions in Noida as a remote freelance group of three engineers working from India, with no office in Noida. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software or product builds from ₹60,000, with five months of free maintenance.",
+    "BtechWaleTech offers IT consulting and IT solutions in Noida as a remote freelance group of three engineers working from India, with no office in Noida. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software or product builds from ₹60,000, with two months of free maintenance.",
   snapshot: [
     { label: "IT and office sectors", value: "Sectors 62 and 63, the Noida-Greater Noida Expressway belt from Sector 125 to 144, and Sector 16 and 18 commercial districts" },
     { label: "Industrial and export zones", value: "Phase 1 and Phase 2 industrial areas, the Noida Special Economic Zone, the Hosiery Complex and Sectors 57 to 60 and 80 to 88" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents and workflow automation for Noida operations: document extraction, lead qualification, support triage and internal knowledge assistants, with human review.",
     data: "Data engineering and dashboards that pull ERP, CRM, product and spreadsheet data into reliable reporting for founders and plant managers.",
     app: "Android and iOS apps for Noida startups, societies, suppliers and service firms, built in Flutter or React Native for Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, followed by plans from ₹8,000 a month and WhatsApp replies on all seven days.",
+    maintenance: "Two months of free maintenance after launch, followed by plans from ₹8,000 a month and WhatsApp replies on all seven days.",
   },
   whyUsIntro:
     "Noida buyers can hire from dozens of IT firms in a single sector. We offer something narrower: three engineers who consult and build personally, explain architecture choices plainly, publish starting prices and hand over clean, documented code.",
@@ -195,7 +195,7 @@ const content: CityContent = {
       id: "noida-cost-payment-remote",
       heading: "What IT solutions cost in Noida and how our remote process works",
       paragraphs: [
-        "IT solutions in Noida with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or product builds. Monthly SEO starts from ₹10,000, and maintenance from ₹8,000 a month after five free months.",
+        "IT solutions in Noida with BtechWaleTech start from ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce and ₹60,000 for custom software or product builds. Monthly SEO starts from ₹10,000, and maintenance from ₹8,000 a month after two free months.",
         "Final cost depends on features, roles, integrations, data migration, content and languages. The process: free consultation, itemised estimate in about two working days, milestone plan, working preview in the first week, weekly updates, testing with your users, launch on infrastructure in your name, and documented handover with recorded walkthroughs.",
         "Noida clients pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR, in milestones tied to visible progress. We have no Noida office and do not work on site. See our <a href='/portfolio/'>portfolio</a>, meet the team on the <a href='/about/'>about page</a>, or read the wider <a href='/india/uttar-pradesh/'>Uttar Pradesh overview</a>.",
       ],
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance?",
       answer:
-        "Five months of maintenance are free after hosting goes live: bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance are free after hosting goes live: bug fixes, content updates, security and dependency updates, backups, and uptime and speed checks. After that, plans start from ₹8,000 per month, or you can pay per change. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can you work alongside our in-house developers?",

@@ -40,10 +40,10 @@ const content: CityContent = {
     h1: "Freelance IT services in Madhya Pradesh: custom software, apps and AI automation",
     lede:
       "BtechWaleTech provides IT services in Madhya Pradesh as a freelance group of three engineers working remotely from India, an alternative to hiring a software development team in Madhya Pradesh. We build custom software, web applications, mobile apps, AI and WhatsApp automations, dashboards, ecommerce stores and SEO websites for firms from Indore and Bhopal to Jabalpur, Gwalior, Ujjain and the district towns in between.",
-    pills: ["Software from ₹60,000", "Android & iOS apps from ₹40,000", "Automation from ₹40,000", "Hindi-first interfaces", "All 55 districts, remotely", "5 months free maintenance"],
+    pills: ["Software from ₹60,000", "Android & iOS apps from ₹40,000", "Automation from ₹40,000", "Hindi-first interfaces", "All 55 districts, remotely", "2 months free maintenance"],
   },
   quickAnswer:
-    "For IT services in Madhya Pradesh, BtechWaleTech is a freelance group of three engineers working remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. Quotes arrive in about two working days, with five months of free maintenance after launch.",
+    "For IT services in Madhya Pradesh, BtechWaleTech is a freelance group of three engineers working remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. Quotes arrive in about two working days, with two months of free maintenance after launch.",
   snapshot: [
     { label: "Capital and commercial centre", value: "Bhopal is the state capital; Indore is the largest city and main commercial hub" },
     { label: "IT hubs", value: "Crystal IT Park and the Super Corridor in Indore, IT parks in Bhopal, Jabalpur and Gwalior promoted through MPSEDC" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp flows that answer Hindi enquiries, take orders, book appointments and chase payments without extra staff.",
     data: "Dashboards that combine sales, stock and collections from branches in several MP cities into one live screen for the owner.",
     app: "Android and iOS apps for MP dealers, field sales teams, schools, hospitals and pilgrim services, built in Flutter or React Native, from ₹40,000.",
-    maintenance: "Hosting, backups, updates and fixes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Hosting, backups, updates and fixes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Madhya Pradesh has good IT firms in Indore and Bhopal, but many businesses in Satna, Sagar or Ratlam still struggle to get a clear quote or a developer who answers after launch. We work statewide from India, publish starting prices and hand every login back to the owner.",
@@ -193,7 +193,7 @@ const content: CityContent = {
       paragraphs: [
         "Every system BtechWaleTech builds for a Madhya Pradesh client runs on cloud hosting with HTTPS, scheduled backups, monitoring and scripted deployments, with the hosting account in the client's name. This protects businesses from the common problem of a single office computer holding the only copy of their data.",
         "Our usual stack is Astro or Next.js for websites and front ends, Node.js or Python for backends, PostgreSQL for data, and AWS or a similar provider for hosting. Deployments are automated so updates go live in minutes with a rollback option. Access is role-based, so a branch manager sees only that branch while the owner sees everything.",
-        "Power cuts and network drops still happen in many districts, so forms are designed to keep entries safely and pages are built to load on slower connections. Uptime checks alert us if something fails. Hosting setup and deployment are included in every project, followed by five months of free maintenance.",
+        "Power cuts and network drops still happen in many districts, so forms are designed to keep entries safely and pages are built to load on slower connections. Uptime checks alert us if something fails. Hosting setup and deployment are included in every project, followed by two months of free maintenance.",
       ],
     },
     {
@@ -219,7 +219,7 @@ const content: CityContent = {
       heading: "What do IT services cost in Madhya Pradesh, and how long does work take?",
       paragraphs: [
         "IT project costs in Madhya Pradesh vary widely from one IT services team in Madhya Pradesh to the next, but with BtechWaleTech a static website starts at ₹10,000 (1 to 2 weeks), a 299+ page SEO website at ₹20,000 (3 to 5 weeks), AI automation at ₹40,000 (2 to 4 weeks), ecommerce at ₹50,000 (4 to 8 weeks) and custom software at ₹60,000 (6 to 12 weeks).",
-        "Costs rise with user roles, integrations, data migration and the number of reports. Importing years of Tally or Excel history adds work; so does connecting courier, SMS or WhatsApp APIs. We list each item separately, so an owner can decide what to build now and what to add later. Maintenance is ₹8,000 a month after the first five free months, and monthly SEO is ₹10,000.",
+        "Costs rise with user roles, integrations, data migration and the number of reports. Importing years of Tally or Excel history adds work; so does connecting courier, SMS or WhatsApp APIs. We list each item separately, so an owner can decide what to build now and what to add later. Maintenance is ₹8,000 a month after the first two free months, and monthly SEO is ₹10,000.",
         "Timelines depend as much on the client as on us. A business that shares sample data early and reviews the preview link weekly will finish on schedule. Full details are on our <a href='/pricing/'>pricing page</a>, and payment is by UPI QR or bank transfer in INR, in milestones written into the quote.",
       ],
     },
@@ -227,7 +227,7 @@ const content: CityContent = {
       id: "support-ownership-mp",
       heading: "IT support, maintenance and ownership after launch",
       paragraphs: [
-        "After launch, every Madhya Pradesh project includes five months of free maintenance covering bug fixes, small changes, security updates, backups and uptime checks, followed by optional monthly support from ₹8,000. Clients own the domain, hosting, source code and all admin logins from day one.",
+        "After launch, every Madhya Pradesh project includes two months of free maintenance covering bug fixes, small changes, security updates, backups and uptime checks, followed by optional monthly support from ₹8,000. Clients own the domain, hosting, source code and all admin logins from day one.",
         "Ownership is where many MP businesses have been burned before: a developer registered the domain in his own name, hosted the site on a personal account, or kept the source code. We avoid this by creating accounts in the client's name, documenting the system, and handing over repository access at launch. If you later hire someone else, they can continue without rebuilding.",
         "Support happens remotely over WhatsApp, calls and screen share, seven days a week. We have no office in Madhya Pradesh and do not claim one; we are three engineers working from India, and the people who answer are the people who built the system. For our full list of services, see <a href='/services/'>services</a> or start a conversation on the <a href='/contact/'>contact page</a>.",
       ],
@@ -297,7 +297,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are free after launch: bug fixes, small changes, security updates, backups and uptime checks. After that, monthly support starts at ₹8,000, or you can contact us only when you need something and pay for that work alone. Large new modules are always quoted separately first.",
+        "Two months of maintenance are free after launch: bug fixes, small changes, security updates, backups and uptime checks. After that, monthly support starts at ₹8,000, or you can contact us only when you need something and pay for that work alone. Large new modules are always quoted separately first.",
     },
     {
       question: "Do you build Android and iOS apps for Madhya Pradesh businesses?",

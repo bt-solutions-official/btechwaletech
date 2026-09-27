@@ -27,8 +27,8 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "WordPress website design · for Australian businesses",
     h1: "WordPress website design in Australia: a fast site you can edit yourself, built and taught remotely",
-    lede: `WordPress website design in Australia should give you two things: a site that opens quickly on a phone, and the confidence to change your own prices, photos and opening hours without ringing anyone. BtechWaleTech is three freelance developers in India who design WordPress sites on lightweight block themes, host them in Sydney on an account you own, and train you on video during your afternoon. Business sites start from ${P.site}; after launch you get five months of free maintenance.`,
-    pills: ["Block themes, not heavy builders", "Sydney-hosted, in your name", "Daily off-site backups", "Spam Act-friendly forms", "WCAG 2.2 AA basics", "Owner training on video", "Five months free care"],
+    lede: `WordPress website design in Australia should give you two things: a site that opens quickly on a phone, and the confidence to change your own prices, photos and opening hours without ringing anyone. BtechWaleTech is three freelance developers in India who design WordPress sites on lightweight block themes, host them in Sydney on an account you own, and train you on video during your afternoon. Business sites start from ${P.site}; after launch you get two months of free maintenance.`,
+    pills: ["Block themes, not heavy builders", "Sydney-hosted, in your name", "Daily off-site backups", "Spam Act-friendly forms", "WCAG 2.2 AA basics", "Owner training on video", "Two months free care"],
     origin: "Three freelance developers working from India · English and Hindi · WhatsApp 7 days a week",
   },
   facts: [
@@ -37,12 +37,12 @@ const content: FreelanceContent = {
     ["Theme approach", "Block theme, minimal plugins"],
     ["Hosting", "Sydney data centre, your account"],
     ["Training", "Recorded video sessions"],
-    ["After launch", "5 months free maintenance"],
+    ["After launch", "2 months free maintenance"],
   ],
   stats: [
     { value: "100", label: "Pages included in the starting plan" },
     { value: "3", label: "Developers who can answer your questions" },
-    { value: "5", label: "Months of maintenance at no charge" },
+    { value: "2", label: "Months of maintenance at no charge" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Editing", value: "WordPress block editor with locked layouts, so pages stay tidy" },
       { label: "Hosting", value: "Australian data centre, account and billing in your name" },
       { label: "Accessibility", value: "Built toward WCAG 2.2 AA: contrast, keyboard use, labels, alt text" },
-      { label: "Care", value: `5 months free, then optional from ${P.care}` },
+      { label: "Care", value: `2 months free, then optional from ${P.care}` },
     ],
   },
   services: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Accessibility uplift", note: "Contrast, focus states, form labels, headings and alt text brought toward WCAG 2.2 AA, with a written summary of what changed.", href: "/australia/wcag-compliant-website-design/", size: "md" },
       { name: "Custom blocks and plugins", note: `Bespoke blocks for price tables, team profiles or booking widgets; bigger plugin work quoted from ${P.software}.`, size: "sm" },
       { name: "Hosting move and hardening", note: "Migration to a Sydney-hosted account in your name, SSL, backups, updates and login protection.", size: "sm" },
-      { name: "Care plan", note: `Updates, backups, uptime checks and small edits after the free five months, from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Care plan", note: `Updates, backups, uptime checks and small edits after the free two months, from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
       heading: "Looking after a WordPress site after launch",
       paragraphs: [
         `Plan for updates, backups and small edits every month, whether you do them or someone else does. WordPress core, themes and plugins release updates regularly, and security fixes should not wait.`,
-        `For five months after launch our maintenance is free: updates, backup checks, uptime monitoring, fixes and small content changes. After that you choose. You can do the routine work yourself using the training, or keep a care plan from ${P.care}. Either way the site keeps running on your hosting and nothing is switched off.`,
+        `For two months after launch our maintenance is free: updates, backup checks, uptime monitoring, fixes and small content changes. After that you choose. You can do the routine work yourself using the training, or keep a care plan from ${P.care}. Either way the site keeps running on your hosting and nothing is switched off.`,
         `If you later need more than a website, the same team can help. We build AI automations that sort enquiries or draft replies from ${P.ai}, and custom web tools from ${P.software}. For a simple multi-page service site with suburb pages, compare this page with <a href='/australia/small-business-website-design/'>small business website design in Australia</a>.`,
       ],
     },
@@ -378,7 +378,7 @@ const content: FreelanceContent = {
       ["Set up hosting in your name", "On a short call you create the hosting and domain accounts, or we guide you, then add us as users. Your card pays the provider directly."],
       ["Review the design on staging", "Your home page and patterns appear on a private staging link. You check them on your phone and send one consolidated list of changes."],
       ["Launch with checks done", "We connect the domain, confirm SSL, backups, accessibility basics, forms and Search Console, then publish once you approve."],
-      ["Train, then support", `Recorded training sessions in your afternoon, five months of free maintenance, then optional care from ${P.care} if you want it.`],
+      ["Train, then support", `Recorded training sessions in your afternoon, two months of free maintenance, then optional care from ${P.care} if you want it.`],
     ],
   },
   faqHeading: "WordPress website design Australia: questions answered",
@@ -393,7 +393,7 @@ const content: FreelanceContent = {
     { question: "Can a remote team in India design a WordPress site for my Australian business?", answer: "Yes. The work is done through video calls, WhatsApp and a private staging site you can open on any device. Our morning overlaps your afternoon, so calls fit your business day. Quotes are in USD and payments go by Wise or bank wire. There is no local office or site visit." },
     { question: "Who owns my WordPress website?", answer: "You do. The domain, hosting account, WordPress administrator login, theme and any licences are in your business's name, and the site's files and database sit on your hosting. If you ever want to change developers, you simply remove our user accounts. Ownership terms are written into your quote and our terms." },
     { question: "How many plugins should a WordPress site have?", answer: "As few as the site genuinely needs. There is no magic number, but each plugin adds code to maintain and a possible security risk. A typical small business build from us uses a handful: forms, SEO, backups, security and caching where the host does not provide it. We explain each one in the handover notes." },
-    { question: "What does WordPress maintenance involve?", answer: `Applying core, theme and plugin updates, checking backups run and can be restored, monitoring uptime, fixing anything an update breaks, and making small content changes. We include five months of this free after launch. After that you can do it yourself or keep a care plan from ${P.care}.` },
+    { question: "What does WordPress maintenance involve?", answer: `Applying core, theme and plugin updates, checking backups run and can be restored, monitoring uptime, fixing anything an update breaks, and making small content changes. We include two months of this free after launch. After that you can do it yourself or keep a care plan from ${P.care}.` },
     { question: "Is WordPress secure enough for a small business?", answer: "WordPress is as secure as its setup and upkeep. Most compromises come from outdated plugins, pirated themes, weak passwords and shared logins. We use licensed or free official themes and plugins, turn on two-factor login for administrators, limit login attempts, keep backups off the server and apply updates promptly during the maintenance period." },
     { question: "Can you move my existing WordPress site to a faster theme?", answer: "Yes. We map every existing URL, rebuild the design on a lean block theme, move your content, and set 301 redirects for anything that changes, so search rankings carry over. Moving to Australian hosting at the same time often improves speed further. It is quoted as a redesign, with migration as its own line." },
     { question: "Does WordPress work for online shops in Australia?", answer: `Yes, through WooCommerce. It suits stores that want full control of their site and already like WordPress. It needs GST-inclusive prices, AUD checkout and shipping zones configured properly. With us a WooCommerce store starts from ${P.shop}. For larger catalogues we often compare it with Shopify first.` },
@@ -402,7 +402,7 @@ const content: FreelanceContent = {
     { question: "Can you add bookings or a CRM to my WordPress site?", answer: "Yes. Most booking tools and CRMs offer an embed or an API. We either embed the booking system you already use or connect forms directly to your CRM so enquiries appear without retyping. Deeper integrations are quoted as separate lines, and larger custom tools start from our custom web app plan." },
     { question: "Will WordPress website design help my Google ranking?", answer: "A well-built site gives you a fair chance: fast pages, clean headings, schema, a sitemap, Search Console and a linked Google Business Profile. Rankings still depend on competition, content and reviews over time, so nobody can honestly guarantee them. We set up the foundations and offer monthly SEO if you want ongoing help." },
     { question: "Do you write the content for my website?", answer: "We can. Copywriting and editing are listed as separate lines in the quote so you can choose. Many owners write a rough draft and we shape it into clear pages with direct answers near the top. For regulated professions, the practitioner or owner should always check claims before publishing." },
-    { question: "What happens if my WordPress site breaks after launch?", answer: "During the five free months, message us on WhatsApp and we fix it. We can also restore from the daily backup if an update causes trouble. After that period, fixes are covered by a care plan if you have one, or quoted individually. Because everything is in your name, any developer can help if you prefer." },
+    { question: "What happens if my WordPress site breaks after launch?", answer: "During the two free months, message us on WhatsApp and we fix it. We can also restore from the daily backup if an update causes trouble. After that period, fixes are covered by a care plan if you have one, or quoted individually. Because everything is in your name, any developer can help if you prefer." },
     { question: "Can you build a bilingual WordPress site?", answer: "Yes. We set up the language structure, switcher and correct language tags, and you supply or approve the translated text. The team writes in English, so for another language we rely on your translator or bilingual staff for the copy, which keeps the wording accurate for your customers." },
   ],
   related: {

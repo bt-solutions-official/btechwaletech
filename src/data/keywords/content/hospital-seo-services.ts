@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who both plan and build the pages" },
     { value: "2", label: "Working days to send an itemised quote" },
-    { value: "5", label: "Months of free maintenance after a new site goes live" },
+    { value: "2", label: "Months of free maintenance after a new site goes live" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
         ["Doctor directory or appointment portal", `From ${P.software} (${P.softwareUsd})`, "When profiles and OPD schedules must update from data"],
         ["WhatsApp appointment assistant", `From ${P.ai} (${P.aiUsd})`, "When the front desk is overloaded with booking chats"],
         ["Patient app for Android and iOS", `From ${P.app} (${P.appUsd})`, "When reports, bookings and reminders need an app"],
-        ["Maintenance after free period", `From ${P.care} (${P.careUsd})`, "After 5 months of free maintenance post-launch"],
+        ["Maintenance after free period", `From ${P.care} (${P.careUsd})`, "After 2 months of free maintenance post-launch"],
       ],
     },
     {

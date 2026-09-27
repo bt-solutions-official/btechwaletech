@@ -7,7 +7,7 @@ const content: CityContent = {
   meta: {
     title: "Freelance IT Services in Haryana: Software, AI & SEO",
     description:
-      "Freelance IT services in Haryana: custom software, web apps, AI automation, SEO and stores from Gurugram to Hisar. Starting prices listed, 5 months free upkeep.",
+      "Freelance IT services in Haryana: custom software, web apps, AI automation, SEO and stores from Gurugram to Hisar. Starting prices listed, 2 months free upkeep.",
     keywords: [
       "IT services in Haryana",
       "freelance IT services Haryana",
@@ -44,7 +44,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "UPI or bank transfer in INR"],
   },
   quickAnswer:
-    "BtechWaleTech, a freelance group of three engineers, offers IT services in Haryana: websites from ₹10,000, SEO websites of 299+ pages from ₹20,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Most projects go live in one to twelve weeks, and five months of maintenance is free.",
+    "BtechWaleTech, a freelance group of three engineers, offers IT services in Haryana: websites from ₹10,000, SEO websites of 299+ pages from ₹20,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000. Most projects go live in one to twelve weeks, and two months of maintenance is free.",
   snapshot: [
     { label: "Corporate and tech belt", value: "Gurugram's Cyber City, Golf Course Road and Udyog Vihar, with IT parks also in Panchkula and Faridabad" },
     { label: "Automotive cluster", value: "Vehicle plants and component suppliers across Gurugram, IMT Manesar, Faridabad, Rohtak, Bawal and Dharuhera" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents and WhatsApp workflows that answer rate, stock, admission and appointment questions round the clock, in Hindi or English.",
     data: "Dashboards that turn scattered sales, production and collection sheets into one screen a Faridabad or Hisar owner can check every morning.",
     app: "Android and iOS apps from ₹40,000 for Haryana dealers, field sales teams and service engineers moving between districts, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Backups, fixes, updates and uptime checks, free for five months after launch and then from ₹8,000 a month if you want us to stay on.",
+    maintenance: "Backups, fixes, updates and uptime checks, free for two months after launch and then from ₹8,000 a month if you want us to stay on.",
   },
   whyUsIntro:
     "Haryana buyers are practical: they want to know the price, who is doing the work and whether the thing will still work in two years. We answer all three upfront. Three engineers write the code, starting prices are published and every login is handed to you.",
@@ -231,7 +231,7 @@ const content: CityContent = {
       paragraphs: [
         "The best way to choose an IT services team in Haryana is to check who actually writes the code, who owns the accounts afterwards, what happens after launch, and whether the quote is itemised. Many local disputes come from a vendor holding the domain or hosting login, or from a reseller disappearing once the first payment clears.",
         "Ask any vendor, including us, to put ownership in writing: domain, hosting, source code, databases and third-party accounts should all be in your business's name. Ask to see live work, not mock-ups. Ask what the monthly cost will be after the first year. And ask how quickly they reply on a Sunday, because breakdowns do not wait for Monday.",
-        "We are a small remote team with no office in Haryana, which we say openly. What you get instead is direct access to the three engineers who build your system, quick WhatsApp replies seven days a week and five months of free maintenance after launch. You can read more about how we work on the <a href='/about/'>about page</a> or compare us with <a href='/it-services/'>our other state hubs</a>.",
+        "We are a small remote team with no office in Haryana, which we say openly. What you get instead is direct access to the three engineers who build your system, quick WhatsApp replies seven days a week and two months of free maintenance after launch. You can read more about how we work on the <a href='/about/'>about page</a> or compare us with <a href='/it-services/'>our other state hubs</a>.",
       ],
     },
     {
@@ -317,7 +317,7 @@ const content: CityContent = {
     {
       question: "What happens after launch? Is maintenance included?",
       answer:
-        "Yes. After hosting goes live you get five months of maintenance free, covering content changes, bug fixes, security and dependency updates, backups and speed checks. After that you can continue on a monthly plan from ₹8,000 or simply message us when something needs doing and pay for that work. Software and automations get the same five months of cover.",
+        "Yes. After hosting goes live you get two months of maintenance free, covering content changes, bug fixes, security and dependency updates, backups and speed checks. After that you can continue on a monthly plan from ₹8,000 or simply message us when something needs doing and pay for that work. Software and automations get the same two months of cover.",
     },
     {
       question: "How long before SEO brings results in Haryana?",

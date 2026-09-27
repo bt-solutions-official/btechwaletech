@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Many destinations or languages", `SEO site from ${P.seoSite}`],
     ["Custom booking or agent portal", `From ${P.software}`],
     ["Quote turnaround", "Itemised, about 2 working days"],
-    ["After launch", `5 free months, then care from ${P.care}`],
+    ["After launch", `2 free months, then care from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build your tour site" },
     { value: "2", label: "Working days until your itemised quote" },
-    { value: "5", label: "Months of free maintenance after going live" },
+    { value: "2", label: "Months of free maintenance after going live" },
     { value: "0", label: "Commission taken on your direct bookings" },
   ],
   answer: {
@@ -237,7 +237,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a tour operator website starts from ${P.site} for up to 100 pages, which covers most single-region operators with a handful to a few dozen tours. Larger destination sites start from ${P.seoSite}, and custom booking or agent tools start from ${P.software}.`,
         `The main drivers of tour operator website design cost are the number of tours and how different they are from one another, the number of languages, how much original content you need written or edited, and whether the booking system integration is a standard embed or something unusual. Photo preparation also counts: sorting and compressing a folder of 400 raw images takes real time, so it is itemised separately in the quote.`,
-        `Other freelancers and agencies quote widely different amounts for similar-sounding projects. Usually the difference comes down to what is included: some quotes cover design only, others include copywriting, SEO setup, review integration, speed work and training. Ask every provider for an itemised list and compare the lines, not the totals. Ongoing costs to budget for are your domain, hosting, booking-system subscription and fees, and maintenance after our five free months, starting from ${P.care}.`,
+        `Other freelancers and agencies quote widely different amounts for similar-sounding projects. Usually the difference comes down to what is included: some quotes cover design only, others include copywriting, SEO setup, review integration, speed work and training. Ask every provider for an itemised list and compare the lines, not the totals. Ongoing costs to budget for are your domain, hosting, booking-system subscription and fees, and maintenance after our two free months, starting from ${P.care}.`,
       ],
       after: [`Our <a href='/australia/small-business-website-design/'>small business website design guide</a> covers the basics that every Australian site shares, from ABN display to hosting.`],
     },
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
       heading: "Tour operator website design checklist before launch",
       paragraphs: [
         `Before a tour site goes live, walk through it on your own phone as a guest would, then check the items below. Anything unticked is a reason to delay launch by a day rather than fix it after bookings start arriving.`,
-        `We run through the same list on our side and send you the results in writing, including screenshots from a throttled mobile test. After launch, your five months of free maintenance cover fixes, small edits and updates, so seasonal changes in the first months are handled without a new quote.`,
+        `We run through the same list on our side and send you the results in writing, including screenshots from a throttled mobile test. After launch, your two months of free maintenance cover fixes, small edits and updates, so seasonal changes in the first months are handled without a new quote.`,
       ],
       list: [
         "Every tour page has a working calendar and a test booking has been made",
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Approve one tour page", "We design a single mobile tour page with calendar, inclusions, map and policy summary. Once you approve it, every other tour page follows the same pattern."],
       ["Build on staging", "The full site goes up on a private staging link, with booking widgets connected, reviews loaded, images compressed and every channel mismatch listed for you to fix."],
       ["Test like a guest", "We test on real phones with throttled data, make a test booking where possible, check analytics events and confirm redirects from any old tour URLs."],
-      ["Launch and hand over", "The site moves to your hosting, the sitemap is submitted in Search Console, and five months of free maintenance begin. You keep every login."],
+      ["Launch and hand over", "The site moves to your hosting, the sitemap is submitted in Search Console, and two months of free maintenance begin. You keep every login."],
     ],
   },
   faqHeading: "Tour operator website design: questions Australian operators ask",
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
     { question: "Do you write the tour descriptions?", answer: "We turn your notes, voice memos and existing listings into clear tour pages and flag anything that could read as a promise, such as guaranteed wildlife sightings. You approve every word. We do not invent reviews, awards, visitor numbers or years in business, because anything on the site should be something you can stand behind." },
     { question: "Can you add a shop for merchandise or gift vouchers?", answer: `Yes. If your booking system already sells gift vouchers, we connect to that. If you want a proper shop for apparel, gear or hire add-ons, that is ecommerce work starting from ${P.shop}, usually four to eight weeks, with card and wallet checkout and shipping rules set up for Australian addresses.` },
     { question: "Can an AI assistant answer questions about my tours after hours?", answer: `Yes. We can build a chat assistant that answers only from your own FAQs and policies, covering pick-up points, weather calls and group sizes, then hands anything uncertain to you by email or WhatsApp. AI automation starts from ${P.ai}. It should never quote prices or availability that differ from your booking system.` },
-    { question: "What happens after my tour website launches?", answer: `You get five months of free maintenance covering fixes, small edits, plugin updates and backups. After that, care is optional and starts from ${P.care}. Operators often use it for seasonal price edits, new departures, winter schedules and checking that booking links on ATDW and Google still land on the right pages.` },
+    { question: "What happens after my tour website launches?", answer: `You get two months of free maintenance covering fixes, small edits, plugin updates and backups. After that, care is optional and starts from ${P.care}. Operators often use it for seasonal price edits, new departures, winter schedules and checking that booking links on ATDW and Google still land on the right pages.` },
     { question: "Can you help my tour website rank on Google?", answer: `We launch with fast mobile pages, destination and activity pages with clear headings, structured data, a submitted sitemap and a linked Google Business Profile. Rankings also depend on reviews, competition and content, so nobody can honestly guarantee them. Monthly SEO starts from ${P.seo} if you want ongoing work after launch.` },
     { question: "Do tour operators need a privacy policy on their website?", answer: "It is strongly advisable. The OAIC says many small businesses with annual turnover of A$3 million or less are outside the Privacy Act, but there are exceptions, and booking partners and guests expect a clear policy. We build a privacy page and collection notices into every tour site; your own adviser should confirm what applies to you." },
   ],

@@ -38,7 +38,7 @@ const content: CityContent = {
     h1: "Freelance software developers in Mysuru for bookings, operations and automation",
     lede:
       "Weighing a software development team in Mysuru against freelance developers? BtechWaleTech is a freelance group of three engineers working remotely from India who create booking engines, operations software, AI and WhatsApp automation, dashboards, apps and search-ready websites for Mysuru hotels, schools, manufacturers, clinics and traders. You speak to the engineers, see progress on a live link, and keep every login.",
-    pills: ["Booking engines", "Custom software from ₹60,000", "WhatsApp and AI automation", "Kannada and English", "5 months free maintenance"],
+    pills: ["Booking engines", "Custom software from ₹60,000", "WhatsApp and AI automation", "Kannada and English", "2 months free maintenance"],
   },
   quickAnswer:
     "BtechWaleTech is a freelance group of three engineers serving Mysuru remotely, a lean alternative to a software development team in Mysuru: custom software and booking systems start at ₹60,000 over 6 to 12 weeks, AI automation from ₹40,000 in 2 to 4 weeks, and websites from ₹10,000 in 1 to 2 weeks. We have no Mysuru office, and send itemised quotes within about two working days.",
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI assistants that answer booking, admission and product questions and pass warm leads to staff on WhatsApp.",
     data: "Owner dashboards for occupancy, admissions, sales and stock, fed from bookings, Tally exports or Google Sheets.",
     app: "Android and iOS apps for Mysuru hotels, institutes and dealers, built in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Five free months of fixes, updates and backups after launch, then care plans from ₹8,000 a month.",
+    maintenance: "Two free months of fixes, updates and backups after launch, then care plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mysuru has good local developers and Bengaluru agencies only three hours away, so why a remote trio? Because owners here tell us they want someone who publishes prices, writes the scope down, answers on Sunday during Dasara rush, and hands over the code without drama.",
@@ -218,7 +218,7 @@ const content: CityContent = {
       id: "maintenance-and-it-support-mysuru",
       heading: "Maintenance and IT support after your Mysuru software goes live",
       paragraphs: [
-        "Maintenance keeps software secure and working as browsers, phones and libraries update. After launch, every BtechWaleTech client gets five months of maintenance free: bug fixes, security and dependency updates, backups, uptime checks and small content changes.",
+        "Maintenance keeps software secure and working as browsers, phones and libraries update. After launch, every BtechWaleTech client gets two months of maintenance free: bug fixes, security and dependency updates, backups, uptime checks and small content changes.",
         "After that you can take a plan from ₹8,000 a month or pay only when you need a change. We reply on WhatsApp seven days a week, which matters for a hotel on Dasara weekend or an institute on the last day of admissions. Read more <a href='/about/'>about how our team works</a>.",
         "Neighbouring pages you may find useful: <a href='/it-services/karnataka/'>Karnataka IT services</a>, our <a href='/mysore/'>Mysore web design page</a>, and <a href='/it-services/karnataka/bengaluru/'>software work for Bengaluru</a>. When ready, <a href='/contact/'>share your requirement</a>.",
       ],
@@ -272,7 +272,7 @@ const content: CityContent = {
     { question: "How do I pay BtechWaleTech?", answer: "You pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not collect payments through any gateway or payment link. Work is split into milestones, and each payment follows a stage you have already reviewed on the staging site." },
     { question: "Can you add Kannada to our website or software?", answer: "Yes. We build interfaces and pages that support Kannada and English side by side, with fonts that display properly on phones, and we can add Hindi for visitors. For best results a Kannada-speaking person on your side should review translations, since tone matters for customers and parents." },
     { question: "Will I own the code and domain?", answer: "Yes, fully. The domain is registered in your name, hosting runs in your account, the code sits in a repository you control, and any payment gateway is opened under your business. At handover you receive all credentials and short documentation, so you can switch developers at any time without asking us." },
-    { question: "What is included after launch?", answer: "Five months of maintenance free after hosting goes live. That includes bug fixes, security and plugin updates, backups, uptime and speed checks and small content edits. After those months you can choose a plan from ₹8,000 a month or contact us only when needed. We answer on WhatsApp every day of the week." },
+    { question: "What is included after launch?", answer: "Two months of maintenance free after hosting goes live. That includes bug fixes, security and plugin updates, backups, uptime and speed checks and small content edits. After those months you can choose a plan from ₹8,000 a month or contact us only when needed. We answer on WhatsApp every day of the week." },
     { question: "How soon will SEO bring enquiries in Mysuru?", answer: "Usually within three to six months for local searches, sometimes sooner for less competitive areas and services. Technical fixes and new pages get indexed in weeks, but rankings and map visibility build gradually with reviews and content. We never guarantee positions; we report what changed each month using Search Console data." },
     { question: "Can AI automation really help a small Mysuru business?", answer: "Yes, when it targets a narrow repetitive task. Common wins are answering guest or admission questions, sorting enquiries by type, reading invoices into spreadsheets and drafting review replies. Projects start at ₹40,000 over two to four weeks. We add human approval for anything sensitive and explain costs and data handling upfront." },
     { question: "Do you build Android and iOS apps in Mysuru?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. One Flutter or React Native codebase runs on both platforms, with login, forms, push notifications and an admin panel. We publish on Google Play and the Apple App Store under your own accounts, so the app belongs to you." },

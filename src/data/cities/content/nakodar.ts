@@ -57,7 +57,7 @@ const nakodar: CityContent = {
     ai: "WhatsApp assistants that answer students and NRI clients at midnight Indian time, in Punjabi or English, and flag serious cases to you.",
     data: "Dashboards of enquiries by source, visa files by stage, crop arrivals by season and dues outstanding by farmer.",
     app: "Android and iOS apps for coaching institutes, hospitals or dealers with regular customers, from ₹40,000, listed on Google Play and the App Store in your name.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Nakodar owners have usually been burned once: a site built by a cousin's friend that vanished when the hosting lapsed, or a page that nobody could edit. We work differently. Starting prices are public, the quote is itemised and written, WhatsApp is answered seven days a week, and every account from domain to Play Store is registered to you.",
@@ -169,7 +169,7 @@ const nakodar: CityContent = {
       heading: "Who owns your Nakodar website, and how maintenance works afterwards",
       paragraphs: [
         "Many Nakodar owners have discovered, too late, that their old website's domain belonged to the developer. With us that cannot happen. The domain is booked on your email, hosting is billed to you, the full code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as the owner. You receive a written list of every login at handover.",
-        "For five months after launch, maintenance costs nothing. In that period we update prices and photos, take backups, install security updates and check that forms, payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without asking our permission.",
+        "For two months after launch, maintenance costs nothing. In that period we update prices and photos, take backups, install security updates and check that forms, payments and WhatsApp links still work. After that you can continue with us from ₹8,000 a month, manage it yourself, or give the code to another developer without asking our permission.",
         "Apps need attention even when they work, because Google and Apple raise their minimum requirements every year. We watch those deadlines and release updates early, so your listing is never pulled while your customers are still using it.",
       ],
     },
@@ -266,7 +266,7 @@ const nakodar: CityContent = {
     {
       question: "What happens after my website goes live?",
       answer:
-        "The first five months of maintenance are free: updates to text and photos, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code to anyone else, since everything is in your name.",
+        "The first two months of maintenance are free: updates to text and photos, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code to anyone else, since everything is in your name.",
     },
     {
       question: "Do you also work in Shahkot, Nurmahal and Jalandhar?",

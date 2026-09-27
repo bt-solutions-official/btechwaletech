@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Data sources", "Access, SQL Server, Excel, DBF files"],
     ["Access from", "Any browser, office or home"],
     ["Hosting", "Your cloud account, your bill"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers on your conversion" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-user licence fees in custom code" },
   ],
   answer: {
@@ -62,7 +62,7 @@ const content: FreelanceContent = {
       { label: "Conversion project", value: `From ${P.software}, 6–12 weeks` },
       { label: "Offline", value: "Designed per task: online-only, cached, or local-first" },
       { label: "Hosting", value: "Cloud server or managed database in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario to illustrate the steps, not a client story.`,
         `Say a hardware and electrical wholesaler in Thane uses a desktop billing and stock program built on Access about fifteen years ago. It runs on the counter PC; the owner wants to open a second godown in Bhiwandi and see sales from his phone. The Access file is 1.4 GB and slowing down, and bills sometimes show stock that the godown does not have.`,
         `We would record a week of counter work and profile the data, finding 18,000 items, 3,000 customers and years of invoices with some duplicate customer entries. The quote, from ${P.software}, covers masters, billing with GST, purchases, stock transfers between two locations, credit tracking, and eight reports. Billing gets a local-first offline mode because the counter cannot stop during an outage; reports stay online-only.`,
-        `Over about ten weeks, masters go live first for data cleaning, then billing on staging with thermal-printer testing, then trial migrations reconciled month by month. A one-week parallel run follows. After switch-over, the Access file is archived read-only, and the five free months of maintenance cover the adjustments staff ask for as the godown opens.`,
+        `Over about ten weeks, masters go live first for data cleaning, then billing on staging with thermal-printer testing, then trial migrations reconciled month by month. A one-week parallel run follows. After switch-over, the Access file is archived read-only, and the two free months of maintenance cover the adjustments staff ask for as the godown opens.`,
       ],
     },
     {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Android and iOS app for sales or delivery staff", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["WhatsApp alerts, reminders and reports on the data", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Public company website alongside", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Data profiled, accounts opened", "We copy and study your Access or SQL Server data, and open cloud hosting and a code repository in your name."],
       ["Build and review on staging", "Screens are built module by module on a staging link. Your staff test with copies of real data and send feedback on WhatsApp."],
       ["Migrate, compare, run in parallel", "Trial migrations are reconciled against the old program, printers and scanners tested, then both systems run side by side briefly."],
-      ["Switch over and support", "Staff move to the web app, the old database is archived read-only, and five months of free maintenance begin."],
+      ["Switch over and support", "Staff move to the web app, the old database is archived read-only, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Converting a desktop application to a web application: questions people ask",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Can you convert a VB6 or WinForms application to the web?", answer: "Yes. VB6 and WinForms billing, inventory and production tools are common starting points. Microsoft ended support for the VB6 development environment in 2008, so these programs are rebuilt as web applications, keeping the database structure at first so data moves cleanly and staff see familiar fields." },
     { question: "Do we own the code and data of the new web application?", answer: "Yes. The code repository, cloud hosting and database are in your accounts from the first day, and there are no per-user licence fees in custom code. At handover you receive documentation, admin access and deployment notes, so any developer can maintain or extend the system later." },
     { question: "How do you make sure calculations match the old software?", answer: "We extract formulas for tax, discounts, schemes and stock from the old program, confirm them with your staff and write tests comparing old and new outputs. During trial migrations and the parallel run, totals are compared bill by bill and month by month. Any difference is explained and fixed or approved as a correction." },
-    { question: "What does maintenance cost after go-live?", answer: `The first five months after go-live are free, covering fixes, small changes and updates. After that, maintenance is optional and starts at ${P.care}, covering security updates, backups, monitoring and small improvements. You can also hand maintenance to your own IT staff using the documentation we provide.` },
+    { question: "What does maintenance cost after go-live?", answer: `The first two months after go-live are free, covering fixes, small changes and updates. After that, maintenance is optional and starts at ${P.care}, covering security updates, backups, monitoring and small improvements. You can also hand maintenance to your own IT staff using the documentation we provide.` },
     { question: "Can you start with one module and convert the rest later?", answer: "Yes, and it is often wise. Master data or reports can move to the web first while billing stays on the desktop, with the two sharing or syncing data. Each later module then goes live on its own. This spreads cost and lets staff adapt gradually instead of changing everything on one day." },
     { question: "Desktop software ko online banane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath desktop billing ya inventory software ko web application mein badalna ${P.software} se shuru hota hai aur aam taur par 6–12 hafte lagte hain. Kharcha screens, reports, purane data ki safai, printer setup aur offline zaroorat par depend karta hai. Pehle itemised quote milta hai, approval ke baad hi payment.` },
   ],
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Software stuck on one office PC? Send us a screen recording",
-    note: `Show us how your team uses the desktop program on WhatsApp. You get an itemised quote in about two working days, with desktop to web conversions starting at ${P.software}, hosting in your own account and five months of free maintenance after go-live.`,
+    note: `Show us how your team uses the desktop program on WhatsApp. You get an itemised quote in about two working days, with desktop to web conversions starting at ${P.software}, hosting in your own account and two months of free maintenance after go-live.`,
   },
 };
 

@@ -28,7 +28,7 @@ const content: FreelanceContent = {
   hero: {
     eyebrow: "Freelance website developer · Built for Indian customers",
     h1: "Freelance website developer in India for sites your customers actually use: UPI, Hindi and phone-first",
-    lede: `A freelance website developer in India should build for the way Indian customers browse: on Android phones, over mobile data, often in Hindi or a regional language, and ready to pay by UPI or ask on WhatsApp. BtechWaleTech is three freelance developers who build exactly that kind of site for shops, clinics, schools, manufacturers and service firms across the country. Business websites start at ${P.site}, and <a href='/services/web-development/'>every build</a> ships in your name, with five months of free upkeep.`,
+    lede: `A freelance website developer in India should build for the way Indian customers browse: on Android phones, over mobile data, often in Hindi or a regional language, and ready to pay by UPI or ask on WhatsApp. BtechWaleTech is three freelance developers who build exactly that kind of site for shops, clinics, schools, manufacturers and service firms across the country. Business websites start at ${P.site}, and <a href='/services/web-development/'>every build</a> ships in your name, with two months of free upkeep.`,
     pills: ["Phone-first layouts", "UPI and card checkout", "Hindi and regional pages", "WhatsApp enquiries", "GST-ready invoices", "Light pages for slow data", "Code and domain in your name"],
     origin: "Three freelance developers · Remote across India · Hindi and English on WhatsApp",
   },
@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Languages", "English, Hindi, and regional scripts on request"],
     ["Built for", "Budget Android phones first, then desktop"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Aftercare", "5 months of free maintenance"],
+    ["Aftercare", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who know your site" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Platform or middleman fees" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What should a freelance website developer in India build for Indian customers?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Location pages for many towns", value: `SEO website from ${P.seoSite}, 3–5 weeks` },
       { label: "Languages", value: "English plus Hindi or a regional language" },
       { label: "Paying us", value: "UPI or bank transfer, GST details on request" },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -230,7 +230,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything happens online, so the city you are in makes no difference. The flow is simple and visible at each stage.`,
         `You start with a WhatsApp message or a voice note describing your business, customers and what the site must do. We reply with questions, then send an itemised quote in about two working days. Once you approve it in writing, we set up the domain and hosting with you on a short call, in your name.`,
-        `Design comes next, shared as a private staging link you open on your own phone rather than a PDF. You comment on WhatsApp, and we revise. Inner pages, the language version, payments and forms follow. Before launch we test on several devices and connections, set up Search Console, and walk you through editing basic content. The first five months of fixes and small updates after launch are free.`,
+        `Design comes next, shared as a private staging link you open on your own phone rather than a PDF. You comment on WhatsApp, and we revise. Inner pages, the language version, payments and forms follow. Before launch we test on several devices and connections, set up Search Console, and walk you through editing basic content. The first two months of fixes and small updates after launch are free.`,
       ],
     },
     {
@@ -239,7 +239,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your website should belong to you completely: the domain registered in your name, hosting billed to your card, and the code in a repository you control. That way no single person, including us, can hold your business hostage.`,
         `At handover you receive admin logins, repository access, DNS details, a list of every paid service and its renewal date, and a short note on common edits. Because three developers work on each project, one person being away does not stop support.`,
-        `After the free five months, maintenance is optional and starts at ${P.care}. It covers updates, backups, uptime checks and small changes. You are also free to manage the site yourself or pass it to another developer; the handover pack is written so they can pick it up.`,
+        `After the free two months, maintenance is optional and starts at ${P.care}. It covers updates, backups, uptime checks and small changes. You are also free to manage the site yourself or pass it to another developer; the handover pack is written so they can pick it up.`,
       ],
     },
     {
@@ -256,7 +256,7 @@ const content: FreelanceContent = {
       heading: "India ke customers ke liye website: seedhi baat",
       paragraphs: [
         `Aapke zyada customers mobile par website kholte hain, isliye website pehle phone ke liye banni chahiye. WhatsApp button, call button aur Google Maps ka rasta har page par hona chahiye. Agar aap online bechte hain toh UPI se payment sabse aasaan hona chahiye.`,
-        `Agar aapke customer Hindi ya apni bhasha mein padhte hain, toh main pages ka Hindi version zaroor banwaiye. Hamare saath simple business website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Agar aapke customer Hindi ya apni bhasha mein padhte hain, toh main pages ka Hindi version zaroor banwaiye. Hamare saath simple business website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par rehte hain, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
     {
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
         ["Portal or web app", `From ${P.software}`, "6–12 weeks", "Logins, fee collection, bookings"],
         ["Android and iOS app", `From ${P.app}`, "6–10 weeks", "Same data as the website, published in your accounts"],
         ["WhatsApp and AI automation", `From ${P.ai}`, "2–4 weeks", "Hindi and English auto-replies, lead capture"],
-        ["Maintenance after 5 free months", `From ${P.care}`, "Monthly", "Updates, backups, small edits"],
+        ["Maintenance after 2 free months", `From ${P.care}`, "Monthly", "Updates, backups, small edits"],
       ],
       hideSm: [3],
     },
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
       ["Create accounts in your name", "On a short call we register your domain and hosting under your email, so the site is legally and practically yours from day one."],
       ["Check designs on your phone", "You open a private staging link on your own mobile, share comments on WhatsApp, and we revise layouts and language pages."],
       ["Launch after device testing", "We test on older Android phones and slow connections, set up Search Console and Maps links, then connect your domain and go live."],
-      ["Five months of free fixes", "Price changes, new photos and small fixes are covered free for five months after launch. After that, optional upkeep starts at " + P.care + "."],
+      ["Two months of free fixes", "Price changes, new photos and small fixes are covered free for two months after launch. After that, optional upkeep starts at " + P.care + "."],
     ],
   },
   faqHeading: "Freelance website developer in India: common questions",
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
     { question: "How do I pay a freelance website developer in India?", answer: "With BtechWaleTech you pay in stages by UPI or bank transfer, linked to work you can see, such as the approved design and the finished staging site. Nothing is billed until you approve the itemised quote in writing. Clients abroad can pay by Wise, bank wire or PayPal." },
     { question: "Is a freelance website developer better than a web design company for a small business?", answer: "For most small and medium Indian businesses, a small freelance team offers direct contact with the people building the site and lower overheads. A larger company may suit projects that need many specialists working at once, formal procurement or on-site staff. Compare scope, ownership terms and aftercare, not only the headline figure." },
     { question: "Will my website show up on Google Maps and local searches?", answer: "We build in the signals Google uses: consistent address and phone details, local business schema, a Maps embed and links with your Google Business Profile. Town-specific pages help if you serve several places. Nobody can guarantee rankings, but a well-structured site gives you a solid base for local visibility." },
-    { question: "What maintenance do I get after the website goes live?", answer: `Five months of free maintenance after launch, covering small text and price changes, photo updates, fixes and backups. After that, maintenance is optional and starts at ${P.care}. You can also edit content yourself if you chose an editable setup, or hand the site to another developer using the handover notes.` },
+    { question: "What maintenance do I get after the website goes live?", answer: `Two months of free maintenance after launch, covering small text and price changes, photo updates, fixes and backups. After that, maintenance is optional and starts at ${P.care}. You can also edit content yourself if you chose an editable setup, or hand the site to another developer using the handover notes.` },
     { question: "Can you move my existing website from a website builder to my own hosting?", answer: "Yes. We rebuild the site on a fast setup you own, keep the same page addresses where possible, and add redirects for any that change so your search traffic carries over. We also move your content and forms. Our page on moving off hosted builders explains the process step by step." },
     { question: "Do you follow India's data protection rules on forms and checkout?", answer: "We keep forms limited to the data you actually need, use HTTPS everywhere, and add a clear privacy policy explaining what is collected and why, which supports compliance with India's Digital Personal Data Protection Act. We are not lawyers, so we recommend your advisor reviews the final policy wording." },
     { question: "Can the same team build a mobile app later?", answer: `Yes. We build Android and iOS apps with Flutter or React Native from ${P.app} and publish them in your own Google Play and App Store accounts. Because we already know your website and data, the app can share products, bookings and logins without starting from scratch.` },
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a website your Indian customers can use on any phone?",
-    note: `Send a WhatsApp message or voice note in Hindi or English about your business. You will get an itemised quote in about two working days, with websites from ${P.site}, accounts in your name and five months of free maintenance.`,
+    note: `Send a WhatsApp message or voice note in Hindi or English about your business. You will get an itemised quote in about two working days, with websites from ${P.site}, accounts in your name and two months of free maintenance.`,
   },
 };
 

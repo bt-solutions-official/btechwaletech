@@ -44,7 +44,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Freelance developers, all based in India" },
     { value: "2", label: "Working days for an itemised quote" },
     { value: "0", label: "Platform fees added to your bill" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Does a freelance web developer in India charge differently in each city?",
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance web developer in India cost for common projects?",
       paragraphs: [
         `With us, prices begin at the same points everywhere in the country. A static business website of up to 100 pages starts at ${P.site} and usually takes one to two weeks. An SEO website of 299+ pages generated from structured data starts at ${P.seoSite} and takes three to five weeks. An online store starts at ${P.shop}, a custom web app at ${P.software}, and an Android plus iOS app at ${P.app}.`,
-        `Ongoing work is priced monthly. SEO starts at ${P.seo}. Maintenance is free for five months after launch and then starts at ${P.care} if you want us to continue; you can also take the site in-house or move it to another developer.`,
+        `Ongoing work is priced monthly. SEO starts at ${P.seo}. Maintenance is free for two months after launch and then starts at ${P.care} if you want us to continue; you can also take the site in-house or move it to another developer.`,
         `Across the wider market, quotes for the same brief differ a lot between freelancers. That gap comes from experience, custom design versus a bought theme, content writing, integrations and support, rather than from the state the freelancer lives in. Our <a href='/website-making-cost-in-india/'>website making cost in India</a> guide breaks each type down further.`,
       ],
     },
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
         `Here is an illustrative scenario, not a client story, to show how one freelance web developer team in India handles two very different briefs.`,
         `A homestay owner near Alappuzha wants bookings from Indian and foreign travellers. The brief calls for English and Malayalam pages, a photo gallery that stays light on mobile, a WhatsApp enquiry button, and a map. That fits the static website plan from ${P.site}, with separate lines for the Malayalam version and image preparation.`,
         `A seed and fertiliser trader in Punjab wants dealers across three districts to find product information in Punjabi and Hindi, plus a page per district. That leans towards the SEO website plan from ${P.seoSite}, because the location pages are generated from a product and district sheet the trader maintains.`,
-        `Both projects follow the same steps: brief, itemised quote in about two working days, accounts in the owner's name, staging reviews on the phone, launch, and five months of free maintenance. Only the scope lines differ.`,
+        `Both projects follow the same steps: brief, itemised quote in about two working days, accounts in the owner's name, staging reviews on the phone, launch, and two months of free maintenance. Only the scope lines differ.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       heading: "India mein freelance web developer kaise dhoondhein?",
       paragraphs: [
         `Sabse pehle apne kaam ka chhota sa brief likhiye: kaunse pages chahiye, website se customer kya kare (call, WhatsApp ya order), aur kis bhasha mein content hoga. Yahi brief do-teen developers ko bhejiye, taaki quote barabar ho.`,
-        `Developer kis sheher mein hai, isse zyada farak nahi padta. Dekhiye ki unki banayi hui live websites aapke phone par jaldi khulti hain ya nahi. Domain aur hosting apne naam par rakhiye, aur payment kaam dekh kar stages mein kijiye. Hamare saath simple website ${P.site} se shuru hoti hai, Hindi pages alag line mein quote hote hain, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Developer kis sheher mein hai, isse zyada farak nahi padta. Dekhiye ki unki banayi hui live websites aapke phone par jaldi khulti hain ya nahi. Domain aur hosting apne naam par rakhiye, aur payment kaam dekh kar stages mein kijiye. Hamare saath simple website ${P.site} se shuru hoti hai, Hindi pages alag line mein quote hote hain, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
         ["Invoice or receipt details", "Needed for your books and GST records", "Agreed in your written quote"],
         ["Account ownership", "You keep control if anything changes", "Quote and handover note"],
         ["Third-party renewals", "Avoids surprise expiry of domain or hosting", "Handover list with dates"],
-        ["Support after launch", "Defines who fixes what, and when paid work starts", "Quote; five free months then monthly"],
+        ["Support after launch", "Defines who fixes what, and when paid work starts", "Quote; two free months then monthly"],
       ],
     },
   ],
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "Domain, hosting and business email are created under your details, paid from your card, with us added as users only."],
       ["Review on your own phone", "Each section appears on a private staging link. You reply with one consolidated round of comments, in whichever language is easiest."],
       ["Go live and hand over", "We connect the domain, enable SSL, verify Search Console, and send repository access, logins and a renewals list for your folder."],
-      ["Free care for five months", `Small edits, fixes and updates cost nothing for five months. After that, maintenance from ${P.care} is optional.`],
+      ["Free care for two months", `Small edits, fixes and updates cost nothing for two months. After that, maintenance from ${P.care} is optional.`],
     ],
   },
   faqHeading: "Freelance web developer in India: common questions",
@@ -382,9 +382,9 @@ const content: FreelanceContent = {
     { question: "Can an Indian freelance web developer work for clients abroad?", answer: `Yes. We work with clients in the USA, UK, Canada, Australia, the UAE and elsewhere, billing in USD with a static site from ${P.siteUsd}. We share progress on staging links, keep a short daily overlap for calls when needed, and accept Wise, bank wire or PayPal. Scope and process stay identical to our Indian projects.` },
     { question: "Will my website work well on cheap Android phones?", answer: "It should, and it is worth testing before you pay the final stage. We design at phone width first, compress and resize images, keep scripts minimal and check Core Web Vitals on a throttled mobile profile. We also test on older Android devices, because many Indian visitors use budget phones on patchy mobile data." },
     { question: "Does a freelance web developer in India also handle SEO?", answer: `We build the SEO foundations into every site: unique titles, clean URLs, sitemap, schema, speed work and Search Console setup. Ongoing SEO, including Google Business Profile and location pages, is a separate monthly service from ${P.seo}. Nobody can honestly guarantee rankings, so be careful with anyone who does.` },
-    { question: "What happens after my website goes live?", answer: `You get five months of free maintenance covering small text changes, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care} per month. You can also manage the site yourself or pass it to another developer, since all accounts and code are already in your name.` },
+    { question: "What happens after my website goes live?", answer: `You get two months of free maintenance covering small text changes, fixes, updates and backups. After that, maintenance is optional and starts at ${P.care} per month. You can also manage the site yourself or pass it to another developer, since all accounts and code are already in your name.` },
     { question: "Can the same team build an app for my Indian customers?", answer: `Yes. We build Android and iOS apps from ${P.app} with Flutter or React Native, publish them in your own Google Play and App Store accounts, and test on budget Android phones. Using the team that built your website means the app can share data, logins and design without starting from zero.` },
-    { question: "India mein freelance web developer se website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath simple business website ${P.site} se shuru hoti hai, chahe aap kisi bhi sheher mein hon. Hindi ya regional bhasha ke pages alag line mein quote hote hain. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "India mein freelance web developer se website banwane ka kharcha kitna hai?", answer: `BtechWaleTech ke saath simple business website ${P.site} se shuru hoti hai, chahe aap kisi bhi sheher mein hon. Hindi ya regional bhasha ke pages alag line mein quote hote hain. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "How do I compare quotes from freelancers in different Indian cities?", answer: "Write one scope and send it to everyone: page list, features, languages, who writes content, and support after launch. Ask each freelancer to price that scope line by line. Differences that remain are then about experience, design depth and aftercare, which you can weigh. Never compare a lump sum against an itemised estimate." },
   ],
   related: {
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Wherever you are in India, send us your website brief",
-    note: `Message us on WhatsApp in Hindi or English. You will get an itemised quote in about two working days, starting at ${P.site} for a static website, with accounts in your name and five months of free maintenance after launch.`,
+    note: `Message us on WhatsApp in Hindi or English. You will get an itemised quote in about two working days, starting at ${P.site} for a static website, with accounts in your name and two months of free maintenance after launch.`,
   },
 };
 

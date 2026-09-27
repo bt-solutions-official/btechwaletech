@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Hire an ecommerce developer · Online stores for Indian sellers",
     h1: "Hire an ecommerce developer with a clear brief, the right platform and a quote you can check line by line",
     lede: `Before you hire an ecommerce developer, you need three things on paper: what you sell and how it ships, which platform suits that, and a budget that covers operations as well as design. This guide walks through each, with a requirement template, platform comparison and interview questions. BtechWaleTech is three freelance developers in India who build online stores with <strong>UPI and card checkout</strong>, GST-ready invoices and admin panels your staff can run. Stores start at ${P.shop}.`,
-    pills: ["Shopify, WooCommerce or custom", "UPI and card checkout", "GST-ready invoices", "COD and shipping rules", "Product and category SEO", "Store accounts in your name", "5 months free support"],
+    pills: ["Shopify, WooCommerce or custom", "UPI and card checkout", "GST-ready invoices", "COD and shipping rules", "Product and category SEO", "Store accounts in your name", "2 months free support"],
     origin: "Three freelance developers · Remote from India · Online stores for sellers across the country and abroad",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Platforms", "Shopify, WooCommerce or custom-coded"],
     ["You own", "Domain, store account, hosting, code"],
     ["Estimate", "Itemised, in about 2 working days"],
-    ["Support", "5 months free after launch"],
+    ["Support", "2 months free after launch"],
   ],
   stats: [
     { value: "3", label: "Developers you speak to directly" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "What you prepare", value: "Product sheet, photos, policies, shipping rates" },
       { label: "Contract basics", value: "Scope list, milestones, ownership clause, NDA if wanted" },
       { label: "Payment to us", value: "UPI or bank transfer; Wise, wire or PayPal from abroad" },
-      { label: "After launch", value: `5 months free, then from ${P.care} a month` },
+      { label: "After launch", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -212,7 +212,7 @@ const content: FreelanceContent = {
       heading: "What the build looks like after you hire an ecommerce developer",
       paragraphs: [
         `A 4–8 week store build with us follows a predictable path. First, the product sheet and policies are finalised, because everything else depends on clean data. Next, the store structure: categories, filters, navigation and the homepage layout, reviewed on your phone. Then the build and import, with a staging store where you and your staff click around and place test orders using both UPI and card test modes.`,
-        `Before launch we test tax on a sample of products, check shipping charges for near and far pincodes, send test order emails and WhatsApp messages, confirm refund handling and set up Google Search Console and analytics. Launch day includes a final backup and a short screen-share training for whoever will manage orders. The first weeks after launch are when small problems appear, which is why five months of support are included without charge.`,
+        `Before launch we test tax on a sample of products, check shipping charges for near and far pincodes, send test order emails and WhatsApp messages, confirm refund handling and set up Google Search Console and analytics. Launch day includes a final backup and a short screen-share training for whoever will manage orders. The first weeks after launch are when small problems appear, which is why two months of support are included without charge.`,
       ],
     },
     {
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
       heading: "Online store banwana hai? Developer hire karne se pehle ye samjhiye",
       paragraphs: [
         `Pehle likh lijiye ki aap kya bechte hain, kitne products hain, delivery kaise hogi aur COD dena hai ya nahi. Yahi list har developer ko bhejiye, taki quote ek jaisi cheez ka aaye. Hamare saath online store ${P.shop} se shuru hota hai aur 4 se 8 hafte mein live ho jata hai.`,
-        `Domain, store account aur payment account hamesha aapke business ke naam par bane. Store mein UPI aur card dono se payment aayega, aur GST wala invoice bhi banega. Launch ke baad 5 mahine support free hai. Aur detail chahiye to <a href='/website-banwana-hai/'>website banwana hai</a> wala page padhiye.`,
+        `Domain, store account aur payment account hamesha aapke business ke naam par bane. Store mein UPI aur card dono se payment aayega, aur GST wala invoice bhi banega. Launch ke baad 2 mahine support free hai. Aur detail chahiye to <a href='/website-banwana-hai/'>website banwana hai</a> wala page padhiye.`,
       ],
     },
     {
@@ -291,7 +291,7 @@ const content: FreelanceContent = {
         ["Shopping app for Android and iOS", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["Order automation with AI (emails, invoices, WhatsApp)", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Monthly store SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -342,7 +342,7 @@ const content: FreelanceContent = {
       ["Accounts opened in your name", "You create the domain, store or hosting, payment and courier accounts. We join as collaborators, so nothing important ever sits with us."],
       ["Staging store and data import", "We build on staging, import your catalogue and set tax and shipping rules. You place test orders and your staff try the admin."],
       ["Launch checklist and training", "Every pre-launch check is ticked in front of you. Your order manager gets a recorded screen-share walkthrough before go-live."],
-      ["Five months of support", "Bugs, small edits and questions are handled free for five months after launch, then maintenance continues only if you want it."],
+      ["Two months of support", "Bugs, small edits and questions are handled free for two months after launch, then maintenance continues only if you want it."],
     ],
   },
   faqHeading: "Hiring an ecommerce developer: questions sellers ask",
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
     { question: "Do you build multi-vendor marketplaces?", answer: "Yes, scoped carefully. A marketplace needs vendor sign-up, product approval, commission rules, payouts and vendor dashboards, and it is a much bigger job than a single-seller store. We usually suggest launching with a small number of hand-picked vendors and a simpler model before building full self-service onboarding." },
     { question: "Can you also build a shopping app for my store?", answer: `Yes. A shopping app for Android and iOS can share the store's catalogue, cart and orders, and it starts at ${P.app}. We generally suggest launching the website first, proving demand, and then adding an app for repeat buyers who order often enough to keep it installed.` },
     { question: "Will my online store rank on Google?", answer: `We build stores so search engines can read them: clean product URLs, product schema, canonical tags and fast mobile pages. Rankings then depend on content, competition and time, and nobody can honestly guarantee a position. Ongoing SEO for categories and content is a separate service starting at ${P.seo} a month.` },
-    { question: "What is included in maintenance after the store goes live?", answer: `The first five months after launch are free: bug fixes, small changes and help with questions. After that, maintenance starts at ${P.care} a month and covers platform, theme and plugin updates, backups, uptime checks and a set number of small edits. New features are quoted separately.` },
+    { question: "What is included in maintenance after the store goes live?", answer: `The first two months after launch are free: bug fixes, small changes and help with questions. After that, maintenance starts at ${P.care} a month and covers platform, theme and plugin updates, backups, uptime checks and a set number of small edits. New features are quoted separately.` },
     { question: "How do I pay when I hire you?", answer: "Payments are split into milestones tied to visible progress, starting only after you approve the written estimate. In India you can pay by UPI or bank transfer. Clients abroad pay by Wise, bank wire or PayPal. We do not ask for the full amount upfront, and we never bill before written approval." },
     { question: "Can I hire an ecommerce developer only for small fixes?", answer: "Yes. Short jobs such as checkout errors, slow pages, broken filters, shipping rule changes or theme edits are quoted per task after we look at the store. For ongoing small work, a monthly maintenance arrangement is usually cheaper than paying for each fix separately." },
     { question: "Do I need a developer if I sell on marketplaces already?", answer: "Not always, but your own store adds things marketplaces cannot: customer relationships with consent, control over branding, no per-order marketplace commission and a destination for repeat buyers. If you run both, the developer should plan stock sync so a single unit does not sell on two channels." },
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to hire an ecommerce developer? Send your product list",
-    note: `Share what you sell, how you ship and how customers pay. You will get a platform recommendation and an itemised estimate in about two working days. Stores start at ${P.shop}, every account stays in your name, and support is free for five months after launch.`,
+    note: `Share what you sell, how you ship and how customers pay. You will get a platform recommendation and an itemised estimate in about two working days. Stores start at ${P.shop}, every account stays in your name, and support is free for two months after launch.`,
   },
 };
 

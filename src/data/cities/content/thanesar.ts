@@ -7,7 +7,7 @@ const thanesar: CityContent = {
   meta: {
     title: "IT Services in Thanesar: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO and WhatsApp automation for Kurukshetra and Thanesar hotels, coaching, clinics, shops and grain trade. Sites from ₹10,000, 5 months free upkeep.",
+      "Websites, SEO and WhatsApp automation for Kurukshetra and Thanesar hotels, coaching, clinics, shops and grain trade. Sites from ₹10,000, 2 months free upkeep.",
     keywords: [
       "website development team in Kurukshetra",
       "website development team in Thanesar",
@@ -31,11 +31,11 @@ const thanesar: CityContent = {
     eyebrow: "Thanesar · Kurukshetra district, Haryana",
     h1: "Web, app, SEO and automation services for Kurukshetra's hotels, colleges, clinics and grain traders",
     lede:
-      "We are three engineers working remotely for businesses in Thanesar and Kurukshetra: hotels and dharamshalas near Brahma Sarovar, coaching centres and PGs serving university students, hospitals and Ayurvedic clinics, highway businesses at Pipli and grain traders across the district. Prices are published as starting figures, you talk to the developers directly, and maintenance is free for five months.",
+      "We are three engineers working remotely for businesses in Thanesar and Kurukshetra: hotels and dharamshalas near Brahma Sarovar, coaching centres and PGs serving university students, hospitals and Ayurvedic clinics, highway businesses at Pipli and grain traders across the district. Prices are published as starting figures, you talk to the developers directly, and maintenance is free for two months.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Pilgrim and hotel bookings", "Student housing listings", "WhatsApp enquiry replies"],
   },
   quickAnswer:
-    "Our websites for Kurukshetra and Thanesar businesses start at ₹10,000 for a static site, delivered in roughly one to two weeks. Search-focused sites of 299+ pages begin at ₹20,000, and online shops from ₹50,000. Three engineers work on it remotely, with no Kurukshetra office, and upkeep costs nothing for the first five months.",
+    "Our websites for Kurukshetra and Thanesar businesses start at ₹10,000 for a static site, delivered in roughly one to two weeks. Search-focused sites of 299+ pages begin at ₹20,000, and online shops from ₹50,000. Three engineers work on it remotely, with no Kurukshetra office, and upkeep costs nothing for the first two months.",
   snapshot: [
     { label: "City", value: "Thanesar is the main town of Kurukshetra district and merges with Kurukshetra city, about 160 km north-west of Delhi" },
     { label: "History", value: "Capital of the Pushyabhuti dynasty under Harsha; Harsha ka Tila preserves remains of that period" },
@@ -52,7 +52,7 @@ const thanesar: CityContent = {
     ai: "WhatsApp replies that share room availability, batch timings or rates instantly, even during the Gita Mahotsav rush.",
     data: "Dashboards of bookings by season, admissions by course or grain purchases by week, built from records you already keep.",
     app: "Android and iOS apps for hostel bookings, student notices or clinic appointments near Kurukshetra, from ₹40,000 in six to ten weeks.",
-    maintenance: "No upkeep charge in the first five months; later, plans begin at ₹8,000 monthly and cover backups, patches and small edits.",
+    maintenance: "No upkeep charge in the first two months; later, plans begin at ₹8,000 monthly and cover backups, patches and small edits.",
   },
   whyUsIntro:
     "Pilgrims, students, patients and farmers all look for Kurukshetra businesses, and each group looks in its own way. You can hire a local designer or an agency in Chandigarh, but plenty of sites in this city end up slow, stale or locked in someone else's account. Our starting rates are public, WhatsApp gets a reply on any day of the week, and the site is legally yours.",
@@ -186,7 +186,7 @@ const thanesar: CityContent = {
       paragraphs: [
         "Trusts, dharamshalas and family businesses in Kurukshetra sometimes find that a past volunteer or developer registered the website in their own name. When that person moves on, nobody can update the site or renew the domain.",
         "From the first invoice, the domain and hosting accounts carry your name, or the registered name of your trust or samaj. On launch day we hand over the passwords, a copy of the source code and a one-page explanation of where everything lives, so a future treasurer or manager can pick it up. Should you ever prefer another developer, you simply take the site with you; we charge nothing for leaving.",
-        "For the first five months after going live, we look after the site at no cost: wording and tariff edits, fixes if something breaks, software patches, regular backups and checks that the site stays online. Beyond that, a monthly plan begins at ₹8,000, or you can pay only for the occasional job when you need one.",
+        "For the first two months after going live, we look after the site at no cost: wording and tariff edits, fixes if something breaks, software patches, regular backups and checks that the site stays online. Beyond that, a monthly plan begins at ₹8,000, or you can pay only for the occasional job when you need one.",
       ],
     },
   ],
@@ -266,9 +266,9 @@ const thanesar: CityContent = {
         "You do, or your trust if the site belongs to one. Both the domain and hosting are opened in that name, and at launch we hand over every password and the code. Leaving us later costs nothing and needs no permission from us.",
     },
     {
-      question: "What happens during the five free months after launch?",
+      question: "What happens during the two free months after launch?",
       answer:
-        "We make text and tariff edits, fix anything that breaks, apply security patches, keep backups and watch that the site stays up, all without a bill. Once the five months end, a monthly plan begins at ₹8,000, or you can simply pay per job when something needs changing.",
+        "We make text and tariff edits, fix anything that breaks, apply security patches, keep backups and watch that the site stays up, all without a bill. Once the two months end, a monthly plan begins at ₹8,000, or you can simply pay per job when something needs changing.",
     },
     {
       question: "Do you take work from Pehowa, Ladwa, Shahabad, Karnal and Kaithal?",

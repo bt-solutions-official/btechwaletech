@@ -39,7 +39,7 @@ const content: FreelanceContent = {
     ["Many city and job pages", `From ${P.seoSite}`],
     ["Candidate apply time", "Under two minutes on a phone"],
     ["Employer requests", "Role, headcount, location, salary band"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Employer form", value: "Role, headcount, location, shift, salary band, joining date" },
       { label: "Candidate form", value: "Name, phone, city, trade, experience, CV or photo of CV" },
       { label: "Candidate alerts", value: `Opt-in WhatsApp job alerts, from ${P.ai}` },
-      { label: "Upkeep", value: `5 months free, then from ${P.care} a month` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -268,7 +268,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your agency owns everything: domain, hosting, code, database and every CV and employer lead. We work in your accounts as invited users and hand over all access at launch.`,
         `Handover includes admin and recruiter logins, cloud and domain access, the code repository, a recorded walkthrough of posting a job and moving a candidate through the pipeline, and an export of all data in standard formats so you are never locked in. If you change developers later, the new team can pick up from the repository.`,
-        `Maintenance is free for five months after launch. After that it is optional from ${P.care} a month, covering updates, backups checks and small changes. Longer terms and any custom arrangements are agreed in your written quote; see our <a href='/terms/'>terms</a> for the general position.`,
+        `Maintenance is free for two months after launch. After that it is optional from ${P.care} a month, covering updates, backups checks and small changes. Longer terms and any custom arrangements are agreed in your written quote; see our <a href='/terms/'>terms</a> for the general position.`,
       ],
     },
     {
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Agree forms and stages", "We draft the employer form, the candidate form and your pipeline stages; your recruiters confirm the fields before any design work starts."],
       ["Build and review on staging", "Employer pages, job listings and trust pages go up on a private link. Recruiters apply from their own phones to test the candidate side."],
       ["Import and test with real data", "Existing CVs are cleaned and imported, duplicates merged, and a live job runs end to end from posting to interview reminder."],
-      ["Launch and train the team", `We connect the domain, verify Search Console, hand over all logins and record short training videos for recruiters. Five months of free maintenance follow, then optional care from ${P.care}.`],
+      ["Launch and train the team", `We connect the domain, verify Search Console, hand over all logins and record short training videos for recruiters. Two months of free maintenance follow, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Placement agency website: questions agency owners ask",
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
     { question: "Who owns the website and the candidate database?", answer: "Your agency does. Domain, hosting, code and the database are in accounts registered in your name, and every CV and employer lead stays there. At launch you receive the repository, all logins and a full data export, so you are never locked in to us or to any platform." },
     { question: "Will my placement agency website rank first for “placement agency near me”?", answer: `Nobody can honestly guarantee that. Local results depend on your Google Business Profile, reviews, distance and competition. We build fast pages for your industries and cities, structured data for jobs and your business, and verify Search Console. Monthly SEO starting at ${P.seo} covers ongoing content and technical work.` },
     { question: "How do AI search tools decide which placement agency to mention?", answer: "They rely on readable facts: the industries and roles you recruit for, cities you cover, registration details, how your process works and consistent business information across the web. Clear question-and-answer sections on your site give AI assistants and Google’s AI Overviews text to quote; vague slogans give them nothing." },
-    { question: "What happens after the website launches?", answer: `Maintenance is free for five months: fixes, small changes and checks that forms and alerts work. After that it is optional from ${P.care} a month. Your team can post jobs, close them, update pages and manage candidates from the admin panel without waiting for a developer.` },
+    { question: "What happens after the website launches?", answer: `Maintenance is free for two months: fixes, small changes and checks that forms and alerts work. After that it is optional from ${P.care} a month. Your team can post jobs, close them, update pages and manage candidates from the admin panel without waiting for a developer.` },
     { question: "How do I pay for the placement agency website?", answer: "Agencies in India pay by UPI or bank transfer in stages tied to visible progress, as set out in the written quote. International clients pay in US dollars by Wise, bank wire or PayPal. Nothing is billed before you approve the itemised quote, and our refund policy page explains the general position." },
     { question: "Placement agency ki website mein candidate CV kaise bhejte hain?", answer: `Candidate website par job dekh kar apna naam, phone, shehar, kaam aur experience bharta hai, aur CV ki file ya printed CV ki photo upload kar deta hai. Poori jaankari aapke WhatsApp aur database mein aa jaati hai. BtechWaleTech ke saath placement agency website ${P.site} se shuru hoti hai.` },
   ],
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to give employers and candidates their own front door?",
-    note: `Send us your industries, current openings and how your recruiters track candidates today on WhatsApp. You will receive an itemised quote in about two working days, with placement agency websites from ${P.site}, all data in your accounts and five months of free maintenance.`,
+    note: `Send us your industries, current openings and how your recruiters track candidates today on WhatsApp. You will receive an itemised quote in about two working days, with placement agency websites from ${P.site}, all data in your accounts and two months of free maintenance.`,
   },
 };
 

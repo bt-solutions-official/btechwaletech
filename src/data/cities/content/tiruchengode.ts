@@ -31,11 +31,11 @@ const tiruchengode: CityContent = {
     eyebrow: "Tiruchengode · Namakkal, Tamil Nadu",
     h1: "Websites and software for Tiruchengode's rig builders, body-building yards, looms and colleges",
     lede:
-      "We are three engineers working remotely, building websites, Tamil and English search pages, fleet and job tools and WhatsApp automations for Tiruchengode businesses: borewell rig makers and operators, lorry body builders, lathe and spare-part workshops, powerloom and spinning units, educational institutions, temple-town shops and clinics. Starting prices are published and the first five months of maintenance are free.",
+      "We are three engineers working remotely, building websites, Tamil and English search pages, fleet and job tools and WhatsApp automations for Tiruchengode businesses: borewell rig makers and operators, lorry body builders, lathe and spare-part workshops, powerloom and spinning units, educational institutions, temple-town shops and clinics. Starting prices are published and the first two months of maintenance are free.",
     pills: ["Sites from ₹10,000", "Rig and body-building catalogues", "Tamil and English pages", "Fleet and job tracking tools", "WhatsApp lead handling"],
   },
   quickAnswer:
-    "A basic website for a Tiruchengode workshop, loom unit, shop or clinic starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom fleet or job software at ₹60,000. We are a remote team with no Tiruchengode office, and maintenance is free for five months.",
+    "A basic website for a Tiruchengode workshop, loom unit, shop or clinic starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and custom fleet or job software at ₹60,000. We are a remote team with no Tiruchengode office, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "Largest town in Namakkal district, about 25 km from Erode and 63 km from Salem" },
     { label: "Population", value: "95,335 at the 2011 census" },
@@ -52,7 +52,7 @@ const tiruchengode: CityContent = {
     ai: "WhatsApp assistants that send spec sheets, answer drilling-rate or availability questions in Tamil or English and pass serious leads to you.",
     data: "Feet drilled, diesel used, jobs billed and payments pending, shown per rig in a dashboard you can check from anywhere.",
     app: "Android and iOS apps for rig crew daily reports, dealer orders and college notices, available on both stores with prices from ₹40,000.",
-    maintenance: "Spec and price updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Spec and price updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Tiruchengode builds machines that work in every corner of India, yet many of its firms are hard to find online beyond a directory entry. Agencies in Coimbatore or Chennai charge city rates and seldom understand rig or body-building work. We publish starting prices, write in Tamil and English, reply on WhatsApp seven days a week and register everything in your name.",
@@ -168,11 +168,11 @@ const tiruchengode: CityContent = {
     },
     {
       id: "ownership-tiruchengode",
-      heading: "Your site, your records, and five months of free maintenance",
+      heading: "Your site, your records, and two months of free maintenance",
       paragraphs: [
         "We register your domain and hosting in your name. At launch you receive every login, the full source code and a short note explaining the setup. For custom software, your data stays in an account you own, and you can export it whenever you want. Moving to another developer needs no permission from us and carries no exit fee.",
         "This matters for firms whose records, rig logs, customer lists and payment histories, are the business itself. Losing access because a developer disappeared is a risk no owner should carry.",
-        "For five months after launch, maintenance is free: content and specification updates, small fixes, security patches, backups, uptime checks and speed checks. After that, maintenance starts from ₹8,000 a month, or you can pay only for specific changes as needed.",
+        "For two months after launch, maintenance is free: content and specification updates, small fixes, security patches, backups, uptime checks and speed checks. After that, maintenance starts from ₹8,000 a month, or you can pay only for specific changes as needed.",
       ],
     },
     {
@@ -263,7 +263,7 @@ const tiruchengode: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and spec updates, small fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can pay only for specific changes.",
+        "For two months after launch we handle content and spec updates, small fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can pay only for specific changes.",
     },
     {
       question: "Can SEO guarantee I rank first?",

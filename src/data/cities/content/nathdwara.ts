@@ -56,7 +56,7 @@ const nathdwara: CityContent = {
     ai: "WhatsApp assistants that answer festival-season room, rate and order questions and hand real decisions to your staff.",
     data: "Dashboards of occupancy by festival, orders by buyer city and marble enquiries by variety, readable on a phone.",
     app: "Android and iOS apps for repeat pilgrim bookings or monthly shringar reorders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months after launch, then from ₹8,000 a month for rate changes, festival notices, backups and security updates.",
+    maintenance: "Two free months after launch, then from ₹8,000 a month for rate changes, festival notices, backups and security updates.",
   },
   whyUsIntro:
     "Nathdwara businesses serve visitors who arrive once, decide quickly and judge a place by its phone screen, so a site that breaks in festival week costs real money. We publish starting prices, send itemised written quotes, reply on WhatsApp every day and register domain, hosting, code and store accounts to you. If a feature will not earn its cost, we say so before quoting.",
@@ -159,7 +159,7 @@ const nathdwara: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Online store for Pichwai, dry prasad or shringar: from ₹50,000, four to eight weeks",
         "Custom software such as room calendars or karigar ledgers: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after five free months",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month after two free months",
       ],
     },
     {
@@ -199,7 +199,7 @@ const nathdwara: CityContent = {
       heading: "Who owns your Nathdwara website and app, and what maintenance covers",
       paragraphs: [
         "You do. The domain is registered on your email, the hosting account is in your name, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. At launch you get one document with every login, so no designer, us included, can ever hold the site back from you.",
-        "For the first five months after launch, maintenance is free. That covers updating room rates and festival notices, swapping product photographs, backups, security patches and regular checks that forms, UPI payment and WhatsApp buttons still work. After that you can continue from ₹8,000 a month, manage it in-house or pass the code to any developer you prefer.",
+        "For the first two months after launch, maintenance is free. That covers updating room rates and festival notices, swapping product photographs, backups, security patches and regular checks that forms, UPI payment and WhatsApp buttons still work. After that you can continue from ₹8,000 a month, manage it in-house or pass the code to any developer you prefer.",
         "Apps need a rebuild roughly once a year because Google and Apple keep raising their minimum requirements. We track those deadlines and ship the update early, so your listing is never pulled in the middle of the Annakut rush. WhatsApp stays open seven days a week on Indian time, and a delayed task comes with a new date the same day.",
       ],
     },
@@ -286,7 +286,7 @@ const nathdwara: CityContent = {
     {
       question: "What happens after the free maintenance ends for a Nathdwara website?",
       answer:
-        "Every Nathdwara project gets five months of free maintenance after launch: rate and notice updates, backups, security patches and checks on forms and payments. After that you can continue with us from ₹8,000 a month, manage it yourself or hand the code to another developer, since every account is already yours.",
+        "Every Nathdwara project gets two months of free maintenance after launch: rate and notice updates, backups, security patches and checks on forms and payments. After that you can continue with us from ₹8,000 a month, manage it yourself or hand the code to another developer, since every account is already yours.",
     },
     {
       question: "Do you also serve Rajsamand, Kankroli, Molela and Udaipur?",

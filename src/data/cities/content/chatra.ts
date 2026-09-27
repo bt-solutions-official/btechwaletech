@@ -56,7 +56,7 @@ const chatra: CityContent = {
     ai: "Hindi WhatsApp assistants that answer rate, stock, fee and timing questions and pass real decisions to you.",
     data: "Dashboards of trips, machine hours, pending bills from contractors and sales by block.",
     app: "Android and iOS apps for drivers to log coal trips or for school parents to receive notices and fee reminders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Chatra businesses have seen outsiders promise a lot and disappear. We work the other way: starting prices on the page, a written quote with every item listed, WhatsApp replies seven days a week, and your domain, hosting, code and store accounts registered in your name. If a feature will not pay for itself in your market, we tell you before you spend on it.",
@@ -187,7 +187,7 @@ const chatra: CityContent = {
       paragraphs: [
         "Since we have no office in Chatra, everything happens online. You describe your business on WhatsApp or a call, we send a written plan and quote, and designs and test versions arrive as links you can open on your phone. You approve each stage before the next begins. We reply seven days a week during IST hours.",
         "Your domain, hosting, source code and any Google Play or App Store accounts are registered to you from the first day. If you ever move to another developer, you already hold every login. At launch we hand over passwords and a short guide in plain language.",
-        "Five months of free maintenance follow launch, covering bug fixes, small text changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, or you can look after the site yourself. Reach us on our <a href=\"/contact/\">contact page</a>, or see our <a href=\"/services/web-development/\">web development service</a>.",
+        "Two months of free maintenance follow launch, covering bug fixes, small text changes, backups and security updates. After that, maintenance starts at ₹8,000 a month, or you can look after the site yourself. Reach us on our <a href=\"/contact/\">contact page</a>, or see our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
   ],
@@ -269,7 +269,7 @@ const chatra: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Five months of free maintenance come with every launch, covering bug fixes, small text edits, backups and security updates. After that, maintenance starts at ₹8,000 a month. You may also run the site yourself, because we hand over every login and a short guide.",
+        "Two months of free maintenance come with every launch, covering bug fixes, small text edits, backups and security updates. After that, maintenance starts at ₹8,000 a month. You may also run the site yourself, because we hand over every login and a short guide.",
     },
     {
       question: "Do you work in Hazaribagh, Simaria and nearby towns?",

@@ -31,11 +31,11 @@ const rajahmundry: CityContent = {
     eyebrow: "Rajamahendravaram · East Godavari, Andhra Pradesh",
     h1: "Websites, software, SEO and AI tools for Rajahmundry's traders, nurseries and clinics",
     lede:
-      "Three engineers, working remotely, who build websites, online stores and WhatsApp automations for Rajahmundry: jewellers and cloth merchants on Main Road, Kadiyam nurseries shipping plants across India, hospitals and colleges, and service firms working for the KG basin. Our prices are published, you talk directly to the developers, and there is no maintenance charge for five months.",
+      "Three engineers, working remotely, who build websites, online stores and WhatsApp automations for Rajahmundry: jewellers and cloth merchants on Main Road, Kadiyam nurseries shipping plants across India, hospitals and colleges, and service firms working for the KG basin. Our prices are published, you talk directly to the developers, and there is no maintenance charge for two months.",
     pills: ["Websites from ₹10,000", "Telugu and English pages", "Nursery plant catalogues", "Jewellery and saree stores", "WhatsApp order handling"],
   },
   quickAnswer:
-    "Our team builds a basic website for a Rajahmundry business from ₹10,000, usually within one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Rajahmundry office, and maintenance is free for five months after launch.",
+    "Our team builds a basic website for a Rajahmundry business from ₹10,000, usually within one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp automation at ₹40,000. We are three remote engineers with no Rajahmundry office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Also called", value: "Rajamahendravaram since 2015, often described as the cultural capital of Andhra Pradesh" },
     { label: "Heritage", value: "Associated with Nannaya, the first poet of Telugu literature, and reformer Kandukuri Veeresalingam" },
@@ -52,10 +52,10 @@ const rajahmundry: CityContent = {
     ai: "WhatsApp assistants that send plant availability, gold rates, clinic timings or course details in Telugu or English and hand real conversations to you.",
     data: "Seasonal sales, dispatch and payment figures turned into a clear dashboard, so you know which plants, products or branches are really earning.",
     app: "Android and iOS apps for dealer orders, patient bookings or student notices, one Flutter or React Native build listed on both stores.",
-    maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Rajahmundry businesses usually choose between local freelancers, agencies in Vijayawada or Visakhapatnam, and Hyderabad firms that work entirely by phone. Few publish prices, and follow-up after launch is patchy. We list every starting price, reply on WhatsApp seven days a week and keep your site maintained for five months at no cost.",
+    "Rajahmundry businesses usually choose between local freelancers, agencies in Vijayawada or Visakhapatnam, and Hyderabad firms that work entirely by phone. Few publish prices, and follow-up after launch is patchy. We list every starting price, reply on WhatsApp seven days a week and keep your site maintained for two months at no cost.",
   pricingIntro:
     "Website prices in Rajahmundry are usually agreed verbally and seldom broken down. Here are our real starting prices. The final figure depends on page count, features and the content you already have, and it arrives in writing, itemised, before we start.",
   sections: [
@@ -173,11 +173,11 @@ const rajahmundry: CityContent = {
     },
     {
       id: "ownership-rajahmundry",
-      heading: "Ownership, hosting and five months of free maintenance",
+      heading: "Ownership, hosting and two months of free maintenance",
       paragraphs: [
         "A common Rajahmundry story: an old website stops working, the domain was registered by a developer who cannot be reached, and nobody has the hosting login. Recovering it takes weeks, and sometimes the domain is lost for good.",
         "We set things up so that cannot happen. Your business name goes on the domain registration, the hosting bill is paid from an account you control, and on launch day you get a folder with every password, the full code and a single page describing how the pieces fit together. If you ever want a different developer, hand them that folder; we charge nothing to leave.",
-        "The first five months after going live carry no maintenance fee. In that window we change text and prices, fix anything that breaks, apply security patches, keep backups, watch uptime and check speed. From the sixth month, ongoing care costs from ₹8,000 a month, or you can skip the plan and pay only for the occasional change.",
+        "The first two months after going live carry no maintenance fee. In that window we change text and prices, fix anything that breaks, apply security patches, keep backups, watch uptime and check speed. From the third month, ongoing care costs from ₹8,000 a month, or you can skip the plan and pay only for the occasional change.",
       ],
     },
     {
@@ -266,9 +266,9 @@ const rajahmundry: CityContent = {
         "Entirely. Your business is the registered owner of the domain, you hold the hosting account, and the complete code plus every password is handed over when the site launches. Changing developers later costs you nothing extra. We are strict about this because we keep meeting Rajahmundry owners whose old site vanished along with the person who built it.",
     },
     {
-      question: "What does the five months of free maintenance cover?",
+      question: "What does the two months of free maintenance cover?",
       answer:
-        "During the five free months we make text and price edits, repair bugs, install security patches, keep backups, monitor uptime and check loading speed. Once that period ends, you can keep us on from ₹8,000 a month or simply message when something needs changing and pay for that job alone.",
+        "During the two free months we make text and price edits, repair bugs, install security patches, keep backups, monitor uptime and check loading speed. Once that period ends, you can keep us on from ₹8,000 a month or simply message when something needs changing and pay for that job alone.",
     },
     {
       question: "How long does SEO take in Rajahmundry?",

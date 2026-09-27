@@ -34,7 +34,7 @@ const bikaner: CityContent = {
     pills: ["From ₹10,000", "Food brand stores", "Hotel booking pages", "Hindi and English SEO", "WhatsApp orders"],
   },
   quickAnswer:
-    "Bikaner businesses can get a static website from us from ₹10,000 in one to two weeks, a 299+ page SEO site from ₹20,000, a UPI online store for namkeen or crafts from ₹50,000, and custom web apps from ₹60,000. We are a remote team without a Bikaner office, and maintenance is free for five months after launch.",
+    "Bikaner businesses can get a static website from us from ₹10,000 in one to two weeks, a 299+ page SEO site from ₹20,000, a UPI online store for namkeen or crafts from ₹50,000, and custom web apps from ₹60,000. We are a remote team without a Bikaner office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Signature trade", value: "Bikaneri bhujia, papad, namkeen and rasgulla, made by hundreds of units in the city and nearby districts" },
     { label: "Industrial areas", value: "RIICO estates at Karni, Karni Extension, Bichhwal and Khara, with food, wool, ceramics and mineral units" },
@@ -51,7 +51,7 @@ const bikaner: CityContent = {
     ai: "WhatsApp assistants that take hotel enquiries, bulk namkeen orders and rate questions in Hindi or English before staff take over.",
     data: "Dashboards for distributor sales, seasonal demand, raw material costs and room occupancy, fed from Tally and Excel.",
     app: "Android and iOS apps for sales reps visiting retailers across Shekhawati, Haryana and Punjab, working on patchy networks, from ₹40,000.",
-    maintenance: "Price changes, new product photos, festival offers and security updates free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Price changes, new product photos, festival offers and security updates free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "In Bikaner, a lot of website work is done by someone in the family circle, which is fine until that person is busy and the site still shows last Diwali's offer. We publish our prices, register the domain and hosting in your name and reply on WhatsApp every day, so the site stays current without favours.",
@@ -181,11 +181,11 @@ const bikaner: CityContent = {
     },
     {
       id: "ownership-bikaner",
-      heading: "Your domain, your code, and five free months of upkeep",
+      heading: "Your domain, your code, and two free months of upkeep",
       paragraphs: [
         "Family businesses in Bikaner often last generations, and their websites should outlast any single developer. Too often we see domains registered in a former employee's name or hosting that expired quietly because the renewal emails went nowhere.",
         "We register the domain and hosting in your name from the start and hand over every login, the complete source code and a short setup note at launch. If you move to another developer, you take everything with you, with no fee and no permission needed from us.",
-        "For five months after launch, maintenance is free: product and price updates, festival banners, new photos, bug fixes, security patches, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Send us a message</a> with what you sell and we will reply with a plan.",
+        "For two months after launch, maintenance is free: product and price updates, festival banners, new photos, bug fixes, security patches, backups and uptime monitoring. After that it continues from ₹8,000 a month, or you contact us only when needed. <a href=\"/contact/\">Send us a message</a> with what you sell and we will reply with a plan.",
       ],
     },
   ],
@@ -272,7 +272,7 @@ const bikaner: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we cover product, price and content updates, festival banners, bug fixes, security and software updates, backups and uptime monitoring at no charge. Afterwards, maintenance starts at ₹8,000 a month, or you contact us only when something needs changing.",
+        "For two months after launch we cover product, price and content updates, festival banners, bug fixes, security and software updates, backups and uptime monitoring at no charge. Afterwards, maintenance starts at ₹8,000 a month, or you contact us only when something needs changing.",
     },
     {
       question: "Do you work with businesses in Nokha, Suratgarh and Nagaur?",

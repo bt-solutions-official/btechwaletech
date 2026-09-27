@@ -7,7 +7,7 @@ const guwahati: CityContent = {
   meta: {
     title: "IT Services in Guwahati: Websites, Apps, SEO & AI",
     description:
-      "Website design, SEO, ecommerce and WhatsApp automation for Guwahati firms and Northeast suppliers. Sites from ₹10,000 with five months of free maintenance.",
+      "Website design, SEO, ecommerce and WhatsApp automation for Guwahati firms and Northeast suppliers. Sites from ₹10,000 with two months of free maintenance.",
     keywords: [
       "website development team in Guwahati",
       "web design team Guwahati",
@@ -31,11 +31,11 @@ const guwahati: CityContent = {
     eyebrow: "Guwahati · Assam",
     h1: "Web development and local SEO for Guwahati and the businesses that supply the Northeast",
     lede:
-      "Three engineers, working remotely, building websites, online stores and automations for Fancy Bazar wholesalers, tea and silk sellers, GS Road clinics and travel operators across Assam. Our prices are public, you deal with the developers directly, and maintenance costs nothing for the first five months after launch.",
+      "Three engineers, working remotely, building websites, online stores and automations for Fancy Bazar wholesalers, tea and silk sellers, GS Road clinics and travel operators across Assam. Our prices are public, you deal with the developers directly, and maintenance costs nothing for the first two months after launch.",
     pills: ["Websites from ₹10,000", "Assamese, Hindi and English pages", "Stores with UPI checkout", "Tour and hotel enquiries", "Automated WhatsApp replies"],
   },
   quickAnswer:
-    "In Guwahati, our business websites start at ₹10,000 and are ready in one to two weeks; 299+ page SEO sites start at ₹20,000 and online stores at ₹50,000. We are a three-engineer remote team without a Guwahati office, which keeps costs down, and every project includes five months of free maintenance after launch.",
+    "In Guwahati, our business websites start at ₹10,000 and are ready in one to two weeks; 299+ page SEO sites start at ₹20,000 and online stores at ₹50,000. We are a three-engineer remote team without a Guwahati office, which keeps costs down, and every project includes two months of free maintenance after launch.",
   snapshot: [
     { label: "Trading districts", value: "Fancy Bazar, Paltan Bazar, Pan Bazar and the GS Road stretch from Bhangagarh to Ganeshguri" },
     { label: "Tea trade", value: "Guwahati Tea Auction Centre, set up in 1970, one of the busiest tea auction centres in the world" },
@@ -52,10 +52,10 @@ const guwahati: CityContent = {
     ai: "WhatsApp assistants that handle tour enquiries, room availability or stock questions in English, Hindi or Assamese, and pass unusual ones to your team.",
     data: "Sales, dispatch and collection reports combined into one dashboard, so an owner can see which districts are paying on time.",
     app: "Android and iPhone apps for bookings, delivery orders and retailer reorders, usable on basic handsets and published on Google Play and the App Store.",
-    maintenance: "Backups, security updates, content changes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Backups, security updates, content changes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Guwahati has no shortage of web designers, but most of them quote only after a long call, and plenty go quiet once the site is live. We publish our starting prices, reply on WhatsApp all seven days, and keep maintaining your site for five months after launch without charging for it.",
+    "Guwahati has no shortage of web designers, but most of them quote only after a long call, and plenty go quiet once the site is live. We publish our starting prices, reply on WhatsApp all seven days, and keep maintaining your site for two months after launch without charging for it.",
   pricingIntro:
     "Very few Guwahati web firms show prices, so business owners end up collecting quotes that vary wildly and explain nothing. These are our actual starting prices. Your quote depends on the number of pages, the features you need and how much content is already ready, and it comes itemised before any work begins.",
   sections: [
@@ -164,11 +164,11 @@ const guwahati: CityContent = {
     },
     {
       id: "ownership-guwahati",
-      heading: "Your site stays yours, with five months of free upkeep",
+      heading: "Your site stays yours, with two months of free upkeep",
       paragraphs: [
         "We often meet Guwahati business owners who cannot update their own website because a former developer controls the domain or hosting. Sometimes the renewal lapses and the site disappears overnight. Recovering it can take weeks and occasionally is not possible at all.",
         "We set things up to avoid that. Your domain and hosting are registered in your name, you receive every login and a short guide to what runs where, and the source code belongs to you. You can move to another developer at any time without an exit fee.",
-        "After launch, five months of maintenance are free. That covers content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply get in touch when something needs changing.",
+        "After launch, two months of maintenance are free. That covers content and price updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply get in touch when something needs changing.",
       ],
     },
     {
@@ -257,9 +257,9 @@ const guwahati: CityContent = {
         "Yes. Your domain and hosting are registered in your name, and at launch you receive every login and the complete source code. You can move to a different developer whenever you want, with no exit fee. Lost access to old websites is a problem we see often, so we set this up correctly from the start.",
     },
     {
-      question: "What is covered by the five months of free maintenance?",
+      question: "What is covered by the two months of free maintenance?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How soon will SEO show results in Guwahati?",

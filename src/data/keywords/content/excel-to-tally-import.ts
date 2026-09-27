@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Data types", "Masters, sales, purchase, journal"],
     ["Checks", "Every row validated before Tally sees it"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After delivery", "5 months of free maintenance"],
+    ["After delivery", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and test the import" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free fixes after delivery" },
+    { value: "2", label: "Months of free fixes after delivery" },
     { value: "7", label: "Days a week on WhatsApp, IST" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Duplicate control", value: "Unique reference per voucher, checked against Tally" },
       { label: "Price", value: `Custom tools from ${P.ai}; web portals from ${P.software}` },
       { label: "Batch size", value: "Monthly files of tens of thousands of rows" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What an Excel to Tally import setup costs",
-    note: `A custom import tool starts at ${P.ai}. That covers the template, the mapping rules, row-level validation, duplicate checks and a tested import for one or two voucher types. More voucher types, several Tally companies, messy source files from multiple billing systems, or a one-time migration of years of history add scope. If several people across branches need to upload files through a browser, with logins and an approval step before anything reaches Tally, that becomes a small web app starting at ${P.software}. Nothing is billed before you approve the itemised quote. Fixes are free for five months, and care afterwards starts at ${P.care}.`,
+    note: `A custom import tool starts at ${P.ai}. That covers the template, the mapping rules, row-level validation, duplicate checks and a tested import for one or two voucher types. More voucher types, several Tally companies, messy source files from multiple billing systems, or a one-time migration of years of history add scope. If several people across branches need to upload files through a browser, with logins and an approval step before anything reaches Tally, that becomes a small web app starting at ${P.software}. Nothing is billed before you approve the itemised quote. Fixes are free for two months, and care afterwards starts at ${P.care}.`,
   },
   guideLabel: "Excel to Tally import guide",
   guide: [
@@ -266,7 +266,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your data stays with you: the tool runs on your machine or your own hosting, and we work on sample files or trimmed copies during the build. You own the code, templates and mapping rules once delivered.`,
         `Spreadsheets for import often contain GSTINs, addresses, phone numbers and amounts. We ask for only the columns needed, delete working copies after testing, and never keep a client’s Tally backup after the project. A CA practice handling many clients can keep each client’s rules in its own configuration file, which also makes it easy to hand one client’s setup to another firm if needed.`,
-        `Handover includes the source code, a short staff guide with screenshots, and the rule tables. Fixes are free for five months.`,
+        `Handover includes the source code, a short staff guide with screenshots, and the rule tables. Fixes are free for two months.`,
       ],
     },
     {
@@ -371,7 +371,7 @@ const content: FreelanceContent = {
       ["Agree the rules", "Tax, rounding, discounts, numbering and special parties are written as a table and checked by your accountant."],
       ["Build and dry-run", "The tool validates your sample files and imports into a copy of your Tally company, never the live one."],
       ["First live month", "You run the real month with us watching the validation and reconciliation reports."],
-      ["Handover", "Source code, templates, rule tables and a staff guide, with five months of free fixes afterwards."],
+      ["Handover", "Source code, templates, rule tables and a staff guide, with two months of free fixes afterwards."],
     ],
   },
   faqHeading: "Excel to Tally import: questions answered",
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
     { question: "Does Excel to Tally import work with Tally.ERP 9?", answer: "Custom import tools can post to Tally.ERP 9 through its XML interface, which older releases also support. TallyPrime’s built-in Excel import is not available in Tally.ERP 9. If you are planning to move to TallyPrime soon, build the import so it can run on both during the changeover." },
     { question: "How long does it take to set up an Excel to Tally import tool?", answer: "Two to four weeks is typical for a custom tool covering one or two voucher types, including a dry run on a copy of your Tally company and one real month with us watching the reports. Agreeing GST and rounding rules with your accountant often takes longer than the coding, so share sample files and rules early." },
     { question: "Excel se Tally mein data kaise import kare?", answer: "TallyPrime mein Alt+O dabakar Excel file import ki ja sakti hai, pehle ledger aur item jaise masters, phir vouchers. Badi ya bikhri hui files ke liye custom tool pehle har row check karta hai, jaise party naam, GSTIN, HSN aur total, aur duplicate voucher rokta hai. BtechWaleTech aise tools banata hai." },
-    { question: "Who can help me set up Excel to Tally import remotely?", answer: `BtechWaleTech, three freelance developers in India, set it up remotely using your sample files and a test copy of your Tally company. We reply on WhatsApp seven days a week, quote in about two working days, and hand over code and templates with five months of free fixes. Tools start at ${P.ai}.` },
+    { question: "Who can help me set up Excel to Tally import remotely?", answer: `BtechWaleTech, three freelance developers in India, set it up remotely using your sample files and a test copy of your Tally company. We reply on WhatsApp seven days a week, quote in about two working days, and hand over code and templates with two months of free fixes. Tools start at ${P.ai}.` },
   ],
   related: {
     heading: "More on Tally, spreadsheets and accounting data",
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us last month’s Excel file and stop re-typing it",
-    note: `Message us on WhatsApp with a sample of the spreadsheets you receive, your TallyPrime release and the voucher types they should become. You get an itemised quote in about two working days, import tools from ${P.ai}, code in your name and five months of free maintenance.`,
+    note: `Message us on WhatsApp with a sample of the spreadsheets you receive, your TallyPrime release and the voucher types they should become. You get an itemised quote in about two working days, import tools from ${P.ai}, code in your name and two months of free maintenance.`,
   },
 };
 

@@ -58,7 +58,7 @@ const puranpur: CityContent = {
     ai: "Hindi WhatsApp assistants that quote rates, confirm timings and hand over anything unusual with the whole chat attached.",
     data: "Season dashboards showing tonnage supplied, milling days, dues outstanding and homestay occupancy month by month.",
     app: "Android and iOS apps from ₹40,000 for cane supply crews logging trips, for parents tracking school notices, or for safari operators handling bookings, published on Google Play and the App Store under your accounts.",
-    maintenance: "Five months of upkeep free after launch, then ₹8,000 a month onwards for edits, backups and security patches.",
+    maintenance: "Two months of upkeep free after launch, then ₹8,000 a month onwards for edits, backups and security patches.",
   },
   whyUsIntro:
     "Puranpur runs on credit cycles and crushing seasons, so nobody here pays twice for the same job. We publish our starting prices, send an itemised written quote, keep replying on WhatsApp all seven days, and put the domain, hosting, code and store accounts in your own name from day one. When a feature will not earn back its cost, we tell you before you spend on it.",
@@ -179,7 +179,7 @@ const puranpur: CityContent = {
       heading: "Who owns your Puranpur website, and what happens after launch",
       paragraphs: [
         "Everything we build for you is yours, in writing and in the account settings. The domain is registered on your email address, the hosting bill carries your name, the source code is handed over in full, and the Google Business Profile, Google Play developer account and Apple developer account all list you as owner. At handover you get a single sheet with every login on it, which means no developer, ourselves included, can ever hold your site to ransom.",
-        "For five months after launch, upkeep costs you nothing. In that window we change rates before festival season, take backups, apply security and version updates, and check now and then that the enquiry form, the UPI checkout and the WhatsApp button are all still doing their job. When the five months end you choose what happens next: stay with us from ₹8,000 a month, move it in-house, or hand the code to any other developer without asking us anything.",
+        "For two months after launch, upkeep costs you nothing. In that window we change rates before festival season, take backups, apply security and version updates, and check now and then that the enquiry form, the UPI checkout and the WhatsApp button are all still doing their job. When the two months end you choose what happens next: stay with us from ₹8,000 a month, move it in-house, or hand the code to any other developer without asking us anything.",
         "Apps need one thing that websites do not: an annual rebuild even when nothing is broken, because Google and Apple keep raising the minimum versions they will accept in their stores. We track those deadlines and ship the update early, so your listing is never pulled for being out of date in the middle of your busiest month.",
       ],
     },
@@ -276,7 +276,7 @@ const puranpur: CityContent = {
     {
       question: "What maintenance do I get after my Puranpur site launches?",
       answer:
-        "The first five months after launch cost you nothing for upkeep: rate and photo edits, backups, security patches, and routine checks that your Puranpur enquiry form, UPI checkout and WhatsApp link still work. After that you may continue from ₹8,000 a month or stop. Since the code and accounts are already yours, moving to another developer needs no permission from us.",
+        "The first two months after launch cost you nothing for upkeep: rate and photo edits, backups, security patches, and routine checks that your Puranpur enquiry form, UPI checkout and WhatsApp link still work. After that you may continue from ₹8,000 a month or stop. Since the code and accounts are already yours, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you also work in Kalinagar, Madhotanda, Bisalpur and Palia Kalan?",

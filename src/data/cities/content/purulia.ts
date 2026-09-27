@@ -35,7 +35,7 @@ const purulia: CityContent = {
     pills: ["Sites from ₹10,000", "Bengali, Hindi and English", "Chhau mask stores", "Lac and shellac trade pages", "Homestay booking pages"],
   },
   quickAnswer:
-    "A Purulia business can get a static website from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Purulia office, and the first five months of maintenance are free.",
+    "A Purulia business can get a static website from ₹10,000 in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp and AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We are three remote engineers with no Purulia office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "District headquarters on the north bank of the Kangsabati (Kansai), on the lowest step of the Chota Nagpur plateau" },
     { label: "Craft", value: "Purulia Chhau masks, GI-registered in 2018, made mainly by families in Charida village near Baghmundi" },
@@ -52,7 +52,7 @@ const purulia: CityContent = {
     ai: "WhatsApp replies that handle fee, stock, tariff or OPD-time questions in Bengali and Hindi, and pass tricky ones to you.",
     data: "Simple phone dashboards that show a mill, school or clinic owner what came in, what went out and what is pending.",
     app: "Android and iPhone apps for dealer orders, student notices or guest check-in on low-cost phones, released on Google Play and the App Store.",
-    maintenance: "Free care for five months after launch, then from ₹8,000 a month, with backups and security updates included.",
+    maintenance: "Free care for two months after launch, then from ₹8,000 a month, with backups and security updates included.",
   },
   whyUsIntro:
     "Most Purulia owners we speak to have been quoted either a cheap template with no ownership or a Kolkata or Ranchi agency retainer they cannot justify. We sit in between: three engineers, published starting prices, written quotes, WhatsApp replies every day, and the domain, hosting and code registered to you from the first day.",
@@ -174,11 +174,11 @@ const purulia: CityContent = {
     },
     {
       id: "ownership-purulia",
-      heading: "Your domain, your code, and five months of care after launch",
+      heading: "Your domain, your code, and two months of care after launch",
       paragraphs: [
         "A familiar Purulia problem: a site was made years ago by an acquaintance, the domain was booked in his email, and when he moved to Bengaluru nobody could renew it. The business lost its address online and had to start again from zero, including every review link it had shared.",
         "We set things up so that cannot happen. The domain and hosting are registered in your name from the start. At launch you get every login, the complete source code and a short written guide. If you ever want to move to another developer, you can do so without paying us anything.",
-        "For five months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month, or you can simply call us when you need something. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "For two months after launch, maintenance is free: text and price edits, bug fixes, security updates, backups and uptime checks. After that it continues from ₹8,000 a month, or you can simply call us when you need something. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
   ],
@@ -263,7 +263,7 @@ const purulia: CityContent = {
         "You do. The domain and hosting are registered in your name, and you receive the complete source code and all logins at launch. You can move to any other developer at any time, and we charge no exit fee.",
     },
     {
-      question: "What happens after the five months of free maintenance?",
+      question: "What happens after the two months of free maintenance?",
       answer:
         "You can continue with a maintenance plan from ₹8,000 a month, covering updates, backups, security patches and small edits, or you can contact us only when something is needed. Either way, your site keeps running on hosting you own.",
     },

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Brochure site launch", "1–2 weeks after photos and rates"],
     ["Payments", "UPI and card deposits on your account"],
     ["Ownership", "Domain, hosting and booking data yours"],
-    ["Aftercare", "5 months free, covers season rate changes"],
+    ["Aftercare", "2 months free, covers season rate changes"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your property’s site" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free updates after launch" },
+    { value: "2", label: "Months of free updates after launch" },
     { value: "0", label: "Commission taken on your direct bookings" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Visibility", value: "Google Business Profile, Hotel schema, fast mobile pages" },
       { label: "Brochure hotel site", value: `From ${P.site}, 1–2 weeks` },
       { label: "Custom booking system", value: `From ${P.software}, 6–12 weeks` },
-      { label: "After launch", value: `5 months free, then from ${P.care}` },
+      { label: "After launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a hotel, homestay or resort website with room pages, gallery, policies, location, WhatsApp and an enquiry or booking engine link starts at ${P.site} (${P.siteUsd} for properties marketed abroad). A custom booking and deposit system starts at ${P.software}. A large site with destination and attraction pages for search starts at ${P.seoSite}.`,
         `Across the market, quotes for hotel websites vary widely. The difference usually comes from the booking tool, the number of languages, whether photos and descriptions are included, and whether the price covers updates in peak season. A cheap site that cannot be updated when rates change in October is not cheap for a hotel.`,
-        `Separate running costs to plan for: domain renewal, hosting, the booking engine or channel manager subscription if you use one, payment processing charges, and WhatsApp messaging costs if you automate confirmations. These go straight from your account to each provider. After five free months of maintenance, ongoing care starts at ${P.care} per month.`,
+        `Separate running costs to plan for: domain renewal, hosting, the booking engine or channel manager subscription if you use one, payment processing charges, and WhatsApp messaging costs if you automate confirmations. These go straight from your account to each provider. After two free months of maintenance, ongoing care starts at ${P.care} per month.`,
       ],
     },
     {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example, not a real client, to show how a hotel website developer might plan a project.`,
         `A family-run resort with twelve rooms in the hills gets most bookings from two OTAs and many phone calls from repeat guests. The old website is slow, the booking link is broken, and the owners want repeat guests and groups to book directly.`,
-        `The plan would keep the OTAs and add a channel manager so availability stays in sync. The new site gets a page per room type, a gallery split by season, a location page with road conditions and the nearest railway station, clear policies, and Hindi and English versions. A hosted booking engine is embedded and styled to match, with UPI and card deposits. A direct-booking perk of free breakfast is shown on the site. WhatsApp confirmations and a day-before directions message are automated. The build sits in the static plan from ${P.site} plus integration lines, with automation from ${P.ai}, and five months of free updates cover the first season’s rate changes.`,
+        `The plan would keep the OTAs and add a channel manager so availability stays in sync. The new site gets a page per room type, a gallery split by season, a location page with road conditions and the nearest railway station, clear policies, and Hindi and English versions. A hosted booking engine is embedded and styled to match, with UPI and card deposits. A direct-booking perk of free breakfast is shown on the site. WhatsApp confirmations and a day-before directions message are automated. The build sits in the static plan from ${P.site} plus integration lines, with automation from ${P.ai}, and two months of free updates cover the first season’s rate changes.`,
       ],
     },
     {
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
         ["Custom booking and deposit system", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Inventory, rates, deposits, dashboard"],
         ["WhatsApp guest automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Confirmations, reminders, FAQs"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Content, listings, Search Console"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Rates, offers, fixes, backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Rates, offers, fixes, backups"],
       ],
       hideSm: [2],
     },
@@ -356,7 +356,7 @@ const content: FreelanceContent = {
       ["Accounts and payments set up", "Domain, hosting and payment accounts are created in your name on a short call; your booking engine or channel manager is connected."],
       ["Rooms, photos and policies", "We write or polish room pages and policies from your details, optimise photos, and show everything on a private staging link."],
       ["Test bookings and launch", "Test bookings run end to end on mobile, schema and Search Console are set, and the site is linked from your Google profile."],
-      ["Season-ready support", "Five months of free updates cover rate and offer changes. Afterwards, care continues from " + P.care + " per month if you want it."],
+      ["Season-ready support", "Two months of free updates cover rate and offer changes. Afterwards, care continues from " + P.care + " per month if you want it."],
     ],
   },
   faqHeading: "Hotel website developer: frequently asked questions",
@@ -375,10 +375,10 @@ const content: FreelanceContent = {
     { question: "Can my hotel website be in Hindi and other languages?", answer: "Yes. Home, room, location and policy pages can be built in Hindi, English and any other language your guests commonly use, each with proper language tags for search engines. Text is written or reviewed by a fluent speaker. Policy wording in particular is checked carefully, because a poorly translated cancellation rule leads to real disputes with guests." },
     { question: "How is SEO different for hotel websites?", answer: "Guests search the destination first, then compare options, then check the property name. So besides technical basics like Hotel schema, titles, sitemap and speed, hotel sites benefit from pages on routes, seasons and nearby attractions that OTAs do not cover in depth. Genuine reviews and a complete Google Business Profile matter too. Nobody can guarantee rankings." },
     { question: "Can guests get automatic WhatsApp confirmations?", answer: `Yes. Booking confirmations, a day-before directions message, check-in reminders and answers to common questions can be automated through the WhatsApp Business Platform, which needs customer opt-in and has its own messaging costs. BtechWaleTech builds this automation from ${P.ai}, and it can connect to your booking engine or custom system.` },
-    { question: "What does hotel website maintenance include?", answer: `The first five months after launch are free and cover rate and offer changes, new photos, small text edits, fixes and backups. After that, maintenance is optional from ${P.care} per month. For hotels, the busiest months for updates are before peak season, festivals and long weekends, when rates, packages and banners change most often.` },
+    { question: "What does hotel website maintenance include?", answer: `The first two months after launch are free and cover rate and offer changes, new photos, small text edits, fixes and backups. After that, maintenance is optional from ${P.care} per month. For hotels, the busiest months for updates are before peak season, festivals and long weekends, when rates, packages and banners change most often.` },
     { question: "Do you work with resorts and hotels outside India?", answer: `Yes. Remote work suits hospitality websites anywhere. International properties are billed in USD, with hotel sites starting at ${P.siteUsd}, and pay by Wise, bank wire or PayPal. We keep overlap hours for calls, share progress on staging links, and build language versions for the markets your guests come from.` },
     { question: "How do I get paid bookings instead of just enquiries?", answer: "Make booking the easiest action on every page: dates and a “Check availability” button near the top, clear room rates, deposit and refund rules shown before payment, and UPI plus card options. Remove unnecessary form fields. Test the whole flow on a mid-range phone on mobile data, because slow or confusing steps are where most guests give up." },
-    { question: "Hotel ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath hotel ya homestay ki website ${P.site} se shuru hoti hai, jisme room pages, photos, policies, location aur booking ya WhatsApp enquiry shaamil hai. Apna custom booking system ${P.software} se banta hai. Domain, hosting aur booking engine ki fees aap seedhe dete hain, aur launch ke baad 5 mahine updates free hain.` },
+    { question: "Hotel ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath hotel ya homestay ki website ${P.site} se shuru hoti hai, jisme room pages, photos, policies, location aur booking ya WhatsApp enquiry shaamil hai. Apna custom booking system ${P.software} se banta hai. Domain, hosting aur booking engine ki fees aap seedhe dete hain, aur launch ke baad 2 mahine updates free hain.` },
     { question: "Should I use a template builder or a custom hotel website?", answer: "A template builder can work for a very small property on a tight budget if you are comfortable editing it yourself. A custom site suits properties that want fast pages on phones, a booking flow matched to their rules, Hotel schema, multi-language pages and full ownership of the domain and code, without being tied to one platform’s monthly plan." },
   ],
   related: {

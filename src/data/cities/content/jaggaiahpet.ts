@@ -55,7 +55,7 @@ const jaggaiahpet: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer rate, stock and delivery questions and route bulk orders to your staff.",
     data: "Dashboards of trips per truck, freight earned, dealer dues and mango dispatches in season.",
     app: "Android and iOS apps for transport fleets to log trips or for dealers to take re-orders from masons and contractors, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security patches.",
   },
   whyUsIntro:
     "Jaggaiahpet traders deal in large, repeated transactions and expect paperwork to match. That is how we work: starting prices in public, every item quoted in writing, WhatsApp answered seven days a week, and your domain, hosting, code and store accounts registered in your own name. If a feature will not pay for itself, we tell you before you buy it.",
@@ -170,7 +170,7 @@ const jaggaiahpet: CityContent = {
       heading: "Ownership and maintenance for Jaggaiahpet websites and apps",
       paragraphs: [
         "Everything we build is yours. The domain is booked on your email, hosting is in your name, the full source code is shared with you, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. You receive a written sheet of every login at handover.",
-        "The first five months after launch come with free maintenance: price and photo updates, backups, security and software updates, and checks that forms, payment and WhatsApp buttons still work. After that, continue with us from ₹8,000 a month, manage it yourself, or give the code to any developer without our permission.",
+        "The first two months after launch come with free maintenance: price and photo updates, backups, security and software updates, and checks that forms, payment and WhatsApp buttons still work. After that, continue with us from ₹8,000 a month, manage it yourself, or give the code to any developer without our permission.",
         "Apps need at least one update a year because Google and Apple raise their minimum standards. We watch those dates and release updates in good time so your app is never pulled from the store.",
       ],
     },
@@ -262,7 +262,7 @@ const jaggaiahpet: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for five months after launch: content edits, backups, security updates and checks on forms, payments and WhatsApp buttons. After that you can stay on from ₹8,000 a month or move elsewhere. Since the code and every account are already in your name, switching needs no permission from us.",
+        "Maintenance is free for two months after launch: content edits, backups, security updates and checks on forms, payments and WhatsApp buttons. After that you can stay on from ₹8,000 a month or move elsewhere. Since the code and every account are already in your name, switching needs no permission from us.",
     },
     {
       question: "Do you work in nearby towns like Vijayawada and Suryapet?",

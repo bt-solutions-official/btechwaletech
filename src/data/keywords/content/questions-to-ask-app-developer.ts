@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Typical build", "6–10 weeks"],
     ["Store accounts", "Opened in your name, not ours"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "40+", label: "Questions to put to any app developer" },
     { value: "3", label: "Developers you can question directly" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance after release" },
+    { value: "2", label: "Months of free maintenance after release" },
   ],
   answer: {
     heading: "What are the most important questions to ask an app developer before hiring?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Second opinion on a quote", note: "Already have a proposal from another developer? Send it and we will point out missing items: backend, admin panel, store fees, support terms.", href: "/hire-app-developer/", size: "lg" },
       { name: "Admin panel and backend", note: `The part many quotes skip: dashboard, database, APIs and hosting setup in your cloud account, from ${P.software} when built as a standalone web app.`, href: "/web-application-developer/", size: "md" },
       { name: "MVP for a first release", note: "A smaller first version with only the features needed to test demand, so you learn before spending on everything.", href: "/mvp-development-cost-in-india/", size: "md" },
-      { name: "App maintenance", note: `OS updates, store policy changes, crash fixes and small features after launch, from ${P.care} a month once five free months end.`, href: "/mobile-app-maintenance-services/", size: "md" },
+      { name: "App maintenance", note: `OS updates, store policy changes, crash fixes and small features after launch, from ${P.care} a month once two free months end.`, href: "/mobile-app-maintenance-services/", size: "md" },
       { name: "Rescue of an unfinished app", note: "Code audit and recovery plan when a previous developer stopped responding.", href: "/developer-left-project-midway/", size: "sm" },
       { name: "Store rejection help", note: "Fixing policy issues when Google Play or the App Store rejects a build.", href: "/app-rejected-by-google-play/", size: "sm" },
       { name: "AI features in apps", note: `Chat assistants, document reading or smart search inside your app, from ${P.ai}.`, href: "/ai-agent-developer/", size: "sm" },
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Where will the backend run?", "“Don’t worry, we host it”", "Named provider, your account, estimated monthly cost", "Your cloud account, with the expected running cost explained"],
       ["What is the total cost?", "One number with no breakdown", "Itemised lines, including backend and admin", `Itemised quote; apps start at ${P.app}`],
       ["How do you get paid?", "Most of the money up front", "Milestones tied to working builds you can test", "Schedule set in your written quote, linked to builds you can install"],
-      ["What happens after launch?", "“We will support you” with nothing written", "Defined period, what counts as a bug, what is extra", "Five months of free maintenance, then optional plans"],
+      ["What happens after launch?", "“We will support you” with nothing written", "Defined period, what counts as a bug, what is extra", "Two months of free maintenance, then optional plans"],
       ["Who writes the code?", "Evasive; work may be passed on", "Named people you can speak to", "Ankur, Santosh and Vedansh, reachable on WhatsApp"],
       ["What if you disappear?", "Laughs it off", "Code, accounts and docs mean anyone can continue", "Everything is in your accounts, so another developer can take over"],
     ],
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What the answers mean for your app budget",
-    note: `The answers to these questions change the price more than the feature list does. A quote that looks low often leaves out the backend, the admin panel, store publishing or support after launch, and those return later as extra bills. With us an Android and iOS app starts at ${P.app}, and the itemised quote shows the app screens, backend and database, admin dashboard, integrations, store publishing and testing as separate lines. Store fees are paid by you directly: Google Play charges a one-time US$25 registration and the Apple Developer Program costs US$99 a year. Cloud hosting is billed to your own account. After five free months, maintenance starts at ${P.care} a month.`,
+    note: `The answers to these questions change the price more than the feature list does. A quote that looks low often leaves out the backend, the admin panel, store publishing or support after launch, and those return later as extra bills. With us an Android and iOS app starts at ${P.app}, and the itemised quote shows the app screens, backend and database, admin dashboard, integrations, store publishing and testing as separate lines. Store fees are paid by you directly: Google Play charges a one-time US$25 registration and the Apple Developer Program costs US$99 a year. Cloud hosting is billed to your own account. After two free months, maintenance starts at ${P.care} a month.`,
   },
   guideLabel: "Guide to vetting an app developer",
   guide: [
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
         "What does ongoing maintenance cost after the included period?",
       ],
       after: [
-        `Our standard: five months of free maintenance after launch, then optional maintenance from ${P.care} a month. Response details and anything beyond that are agreed in the written quote and our <a href='/terms/'>terms</a>.`,
+        `Our standard: two months of free maintenance after launch, then optional maintenance from ${P.care} a month. Response details and anything beyond that are agreed in the written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       id: "support-terms",
       eyebrow: "After launch",
       heading: "Post-launch support terms to get in writing",
-      note: `Ask for each of these in the quote. Ours: five months free, then maintenance from ${P.care} a month; details in the written quote and <a href='/terms/'>terms</a>.`,
+      note: `Ask for each of these in the quote. Ours: two months free, then maintenance from ${P.care} a month; details in the written quote and <a href='/terms/'>terms</a>.`,
       columns: ["Term", "Why it matters", "What a clear answer includes"],
       rows: [
         ["Included period", "Defines when fixes stop being free", "Start date, end date, what triggers it"],
@@ -412,7 +412,7 @@ const content: FreelanceContent = {
       ["Itemised quote in two working days", "Screens, backend, admin panel, integrations, publishing, testing and support each appear as separate lines, with exclusions stated."],
       ["Accounts opened in your name", "We guide you through Play Console, Apple Developer, cloud and repository setup before development starts, and you add us as users."],
       ["Builds you can install at each stage", "You test on your own phone through testing tracks and TestFlight, report issues in a shared list and approve before the next stage."],
-      ["Launch and five months of care", "We handle store submission with you, fix issues for five months free, and hand over documentation so any developer could continue."],
+      ["Launch and two months of care", "We handle store submission with you, fix issues for two months free, and hand over documentation so any developer could continue."],
     ],
   },
   faqHeading: "More questions people ask before hiring an app developer",
@@ -427,7 +427,7 @@ const content: FreelanceContent = {
     { question: "What backend questions should I ask an app developer before hiring?", answer: "Ask which backend will be used, whether the cloud account and billing will be in your name, what monthly running costs to expect at launch and as users grow, whether an admin panel is included, how backups work, and whether another developer could run it without the original team. Vague answers here often lead to surprise bills later." },
     { question: "How long should an app take to build?", answer: "A typical business app for Android and iOS takes six to ten weeks with us once scope is agreed, depending on features, backend work and how quickly feedback comes. Be cautious of anyone promising a full app with backend and admin panel in a week or two, unless it is a very small prototype." },
     { question: "Should I choose Flutter, React Native or native development?", answer: "Ask the developer to explain the choice for your app. Flutter and React Native share one codebase across Android and iOS, which usually lowers cost and keeps versions in step. Native suits apps with heavy device features or complex graphics. The right answer depends on your features and on who will maintain the app later." },
-    { question: "What support should I expect after my app launches?", answer: `Expect a defined support period that covers crash fixes, compatibility with new Android and iOS versions and store policy changes, with a clear line between bug fixes and new features. We include five months of free maintenance after launch, then optional maintenance from ${P.care} a month. Get the terms in writing before you hire anyone.` },
+    { question: "What support should I expect after my app launches?", answer: `Expect a defined support period that covers crash fixes, compatibility with new Android and iOS versions and store policy changes, with a clear line between bug fixes and new features. We include two months of free maintenance after launch, then optional maintenance from ${P.care} a month. Get the terms in writing before you hire anyone.` },
     { question: "Is a freelancer or an app development company safer?", answer: "Neither is automatically safer. Safety comes from ownership in your name, a written scope, milestone payments and clear support terms. A small freelance team gives you direct access to the builders; a larger company gives more people and more process. Ask both the same questions from this page and compare the answers." },
     { question: "How should I pay an app developer?", answer: "Pay in stages linked to builds you can install and test, rather than most of the money up front. A written schedule should show what you receive at each stage. With us, payment in India is by UPI or bank transfer, international clients pay in USD by Wise, bank wire or PayPal, and nothing is billed before your written approval." },
     { question: "What is the Google Play closed testing requirement?", answer: "According to Google’s Play Console help, new personal developer accounts must run a closed test with at least 12 testers who have been opted in continuously for the previous 14 days before applying for production access. Ask your developer how they will organise testers, because it can add two weeks or more to your launch plan." },

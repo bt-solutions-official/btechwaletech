@@ -40,12 +40,12 @@ const content: FreelanceContent = {
     ["Typical first release", "6–12 weeks"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Integrations", "Marketplaces, store platforms, Tally, courier APIs"],
-    ["After go-live", "5 months of free maintenance"],
+    ["After go-live", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support your WMS" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-user or per-order licence fees to us" },
   ],
   answer: {
@@ -99,7 +99,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Warehouse management software pricing",
-    note: `A custom WMS is quoted in modules. The web software, which holds the location master, inbound, outbound, reports and user roles, starts at ${P.software}. The Android app your team uses on scanner phones for putaway, picking and counts starts at ${P.app}. Marketplace, courier and Tally integrations, and automated alerts, are quoted per connector, with automation work from ${P.ai}. 3PL operators often add a client portal and billing module to the web software. After five free months, maintenance starts at ${P.care} a month. These are all starting prices, and the written quote lists each module with its own figure.`,
+    note: `A custom WMS is quoted in modules. The web software, which holds the location master, inbound, outbound, reports and user roles, starts at ${P.software}. The Android app your team uses on scanner phones for putaway, picking and counts starts at ${P.app}. Marketplace, courier and Tally integrations, and automated alerts, are quoted per connector, with automation work from ${P.ai}. 3PL operators often add a client portal and billing module to the web software. After two free months, maintenance starts at ${P.care} a month. These are all starting prices, and the written quote lists each module with its own figure.`,
   },
   guideLabel: "Warehouse software guide",
   guide: [
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
         `Buy an off-the-shelf WMS when your flows are standard and its per-user or per-order fees stay reasonable at your volume; build custom warehouse management software when your contracts, processes or integrations do not fit, or when licence fees grow faster than your margins.`,
         `Good WMS products exist, including modules inside ERPs such as Odoo and ERPNext, and we will say so if one fits you. The limits tend to appear in 3PL billing, where each client contract is slightly different, in unusual flows like kitting or cross-docking, and in integrations with smaller channels. Our <a href='/odoo-vs-erpnext/'>Odoo vs ERPNext</a> and <a href='/off-the-shelf-vs-custom-software/'>off-the-shelf vs custom software</a> pages lay out the trade-offs.`,
         `With a custom build, the code, database and server belong to you. There is no per-user licence, so adding a night shift of pickers costs nothing extra in software. The trade-off is time: expect weeks to go live instead of days, and a real commitment from your team to test flows during the build.`,
-        `After go-live you get five months of free maintenance. Upkeep then starts at ${P.care} a month, or you can take the full source and documentation to another developer; ownership terms are written into your quote and our <a href='/terms/'>terms</a>.`,
+        `After go-live you get two months of free maintenance. Upkeep then starts at ${P.care} a month, or you can take the full source and documentation to another developer; ownership terms are written into your quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -411,7 +411,7 @@ const content: FreelanceContent = {
       ["Location scheme and flow sheets", "We agree the bin coding scheme and one-page flow sheets for inbound, putaway, picking, packing and counts before development starts."],
       ["Build with weekly test builds", "Each week you get a working build to test on your own scanner. Inbound and locations come first, outbound and billing follow."],
       ["Zone-by-zone go-live", "Labels, opening count, inbound switch, then outbound and integrations, with the old method as a fallback during the first days."],
-      ["Handover and support", "Code, cloud access and admin notes are handed over, and five months of free maintenance begin from go-live."],
+      ["Handover and support", "Code, cloud access and admin notes are handed over, and two months of free maintenance begin from go-live."],
     ],
   },
   faqHeading: "Warehouse management software: questions warehouse owners ask",
@@ -434,7 +434,7 @@ const content: FreelanceContent = {
     { question: "Do you install scanners or visit the warehouse?", answer: "No. We are a remote freelance team in India and do not make site visits or supply hardware. We work from a video floor walk, test the app on one of your devices, record training videos, and support go-live over video calls. Your supervisors handle labelling and floor training with the checklists and videos we provide." },
     { question: "How does a WMS reduce picking errors?", answer: "By asking for a scan at every step. The picker scans the bin and the item, so a wrong product is flagged immediately. The packer scans every item again before sealing, and the box cannot be closed if something is missing. Dispatch scans parcels into the manifest. Each check catches what the previous step missed." },
     { question: "Can a freelancer build warehouse management software, or do I need a large vendor?", answer: "For a single site or a small multi-client 3PL, a focused freelance team can build and support a WMS well, with direct contact with the developers and no licence fees. Very large operations with automated storage, conveyors and robotics need specialist integrators. We are clear about that line and connect to such systems by API when needed." },
-    { question: "What does WMS maintenance include after launch?", answer: `The first five months after go-live are free and cover bug fixes, small changes and help as staff settle in. After that, maintenance starts at ${P.care} a month and typically includes security updates, server checks, Android version updates for the scanner app and minor adjustments. New modules or integrations are quoted separately.` },
+    { question: "What does WMS maintenance include after launch?", answer: `The first two months after go-live are free and cover bug fixes, small changes and help as staff settle in. After that, maintenance starts at ${P.care} a month and typically includes security updates, server checks, Android version updates for the scanner app and minor adjustments. New modules or integrations are quoted separately.` },
     { question: "How does warehouse software handle returns?", answer: "Returns are received against the original order, graded on the scanner app as resellable, damaged, needs repacking or to be returned to the supplier, and each grade goes to its own location. Resellable stock becomes available again after putaway. For 3PL clients, each return is recorded as a billable activity with its grade and final disposition." },
     { question: "Godown ke liye warehouse management software banwane mein kitna kharcha hoga?", answer: `BtechWaleTech ke saath custom warehouse management software ${P.software} se shuru hota hai, aur scanner wala Android app ${P.app} se. Final kharcha is par depend karta hai ki kitne godown hain, picking kaise hoti hai, batch aur expiry chahiye ya nahi, aur Tally ya marketplace se jodna hai ya nahi. Video call par godown dekh kar hum do working days mein itemised quote bhejte hain.` },
   ],

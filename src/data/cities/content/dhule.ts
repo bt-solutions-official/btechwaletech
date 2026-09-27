@@ -34,7 +34,7 @@ const dhule: CityContent = {
     pills: ["Websites from ₹10,000", "Transport and fleet tools", "Marathi and Khandeshi searches", "WhatsApp lead replies", "Your domain, your code"],
   },
   quickAnswer:
-    "With us, a Dhule business website starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for five months after launch.",
+    "With us, a Dhule business website starts at ₹10,000 and is usually live in one to two weeks. A 299+ page SEO site starts at ₹20,000, WhatsApp and AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team, the domain and code are yours, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Khandesh region of north-western Maharashtra, on the Panzara river" },
     { label: "Connectivity", value: "Junction of the Mumbai–Agra highway with routes towards Surat and Nagpur; a node on the Delhi–Mumbai Industrial Corridor plan" },
@@ -51,7 +51,7 @@ const dhule: CityContent = {
     ai: "WhatsApp assistants that answer freight, price and appointment questions in Marathi, Hindi or English and log every enquiry.",
     data: "Dashboards showing trips, freight earned, dealer sales and dues, drawn from Tally and daily registers.",
     app: "Android and iOS apps for drivers, field salesmen and patient queues, listed on Google Play and the App Store and starting at ₹40,000.",
-    maintenance: "Updates, backups, security patches and uptime checks, free for five months and ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security patches and uptime checks, free for two months and ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Dhule business owners tend to be direct: tell me the price, tell me what I get, tell me who answers when something stops working. That suits us. Our prices are published, quotes are written and itemised, WhatsApp is answered seven days a week and all logins are handed over at launch.",
@@ -110,7 +110,7 @@ const dhule: CityContent = {
         "<strong>AI and WhatsApp automation — from ₹40,000, 2–4 weeks.</strong> Quote requests, appointments and order capture.",
         "<strong>Online store — from ₹50,000, 4–8 weeks.</strong> Food, textiles and farm products with UPI checkout.",
         "<strong>Custom web application — from ₹60,000, 6–12 weeks.</strong> Trip registers, order trackers and dealer portals.",
-        "<strong>Monthly SEO — from ₹10,000. Maintenance — ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO — from ₹10,000. Maintenance — ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -184,7 +184,7 @@ const dhule: CityContent = {
       heading: "Ownership and after-launch support",
       paragraphs: [
         "Everything is registered in your name from the start: the domain, the hosting account and the code. At launch you receive every password. If you later prefer a developer in Dhule, Nashik or anywhere else, you can move without asking us.",
-        "Maintenance is free for five months after launch, covering security updates, backups, uptime monitoring and small edits like new rates, routes, products or doctor timings. After that, it is from ₹8,000 a month, and you can stop at any time.",
+        "Maintenance is free for two months after launch, covering security updates, backups, uptime monitoring and small edits like new rates, routes, products or doctor timings. After that, it is from ₹8,000 a month, and you can stop at any time.",
         "Neglected websites break slowly: forms stop sending, software goes out of date and pages become sluggish. We check for these problems regularly and send a short monthly summary, so you always know the site is working.",
       ],
     },
@@ -267,7 +267,7 @@ const dhule: CityContent = {
     {
       question: "How much is maintenance after launch?",
       answer:
-        "Maintenance is free for the first five months after launch and covers updates, backups, monitoring and small content edits. After that it costs from ₹8,000 a month and can be cancelled any time. We can also train your staff to handle simple updates themselves.",
+        "Maintenance is free for the first two months after launch and covers updates, backups, monitoring and small content edits. After that it costs from ₹8,000 a month and can be cancelled any time. We can also train your staff to handle simple updates themselves.",
     },
     {
       question: "Can I sell products online from Dhule?",

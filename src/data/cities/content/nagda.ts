@@ -30,7 +30,7 @@ const nagda: CityContent = {
     eyebrow: "Nagda · Madhya Pradesh",
     h1: "Web, app, SEO and automation services for plant contractors, junction-town trade and Birlagram families",
     lede:
-      "BtechWaleTech is a remote team of three engineers building websites, Google Maps profiles and WhatsApp systems for Nagda's industrial contractors and vendors, schools, tuition centres, clinics, hotels near the junction, soybean traders and retailers. Prices are published as starting figures, the domain and code belong to you, and five months of maintenance after launch are included free.",
+      "BtechWaleTech is a remote team of three engineers building websites, Google Maps profiles and WhatsApp systems for Nagda's industrial contractors and vendors, schools, tuition centres, clinics, hotels near the junction, soybean traders and retailers. Prices are published as starting figures, the domain and code belong to you, and two months of maintenance after launch are included free.",
     pills: ["Sites from ₹10,000", "Hindi and Malwi-aware SEO", "Vendor capability sites", "WhatsApp enquiry flows", "Code and domain yours"],
   },
   quickAnswer:
@@ -51,7 +51,7 @@ const nagda: CityContent = {
     ai: "WhatsApp assistants that share fee details, room availability or service lists in Hindi and route real enquiries to the owner.",
     data: "Dashboards for bills pending with each plant, labour hours by site or admissions by class, readable on a phone.",
     app: "Android and iOS apps for site attendance, safety checklists or student tests where mobile data is weak, published on both app stores from ₹40,000.",
-    maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month or charges per change.",
+    maintenance: "Two months of free maintenance after launch, then plans from ₹8,000 a month or charges per change.",
   },
   whyUsIntro:
     "Nagda is used to working with large companies that expect documents, timelines and follow-through. Local businesses deserve the same from their web developer: a written, itemised quote, starting prices in public, replies on WhatsApp every day and every account registered in the owner's name.",
@@ -185,7 +185,7 @@ const nagda: CityContent = {
       paragraphs: [
         "It is common to find a Nagda business whose website belongs, technically, to someone else: the domain sits in the developer's account, hosting is on his card, and nobody at the business has a login. When that person moves away, the site slowly breaks and cannot be fixed.",
         "We do it the other way round. Your business is the registrant of the domain, the hosting bill is in your name, and on launch day we hand over all passwords, the complete codebase and a one-page explanation of how it hangs together. Should you ever prefer a different developer, pass them the access; we charge nothing to leave.",
-        "Support costs nothing for the five months following launch, covering content edits, bug fixes, security patching, backups and uptime alerts. From month six you can take a plan from ₹8,000 a month or simply pay when you need something changed. The <a href=\"/services/web-development/\">web development page</a> sets out the full handover.",
+        "Support costs nothing for the two months following launch, covering content edits, bug fixes, security patching, backups and uptime alerts. From month three you can take a plan from ₹8,000 a month or simply pay when you need something changed. The <a href=\"/services/web-development/\">web development page</a> sets out the full handover.",
       ],
     },
     {
@@ -281,7 +281,7 @@ const nagda: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "For five months from launch you pay nothing for upkeep. From then on a monthly plan starts at ₹8,000 and covers backups, updates, security and minor edits; a site that seldom changes can do without it and simply be billed for each change request.",
+        "For two months from launch you pay nothing for upkeep. From then on a monthly plan starts at ₹8,000 and covers backups, updates, security and minor edits; a site that seldom changes can do without it and simply be billed for each change request.",
     },
     {
       question: "How long does SEO take to work in Nagda?",

@@ -30,11 +30,11 @@ const khammam: CityContent = {
     eyebrow: "Khammam · Telangana",
     h1: "Websites, Telugu search presence and WhatsApp automation for Khammam's chilli traders, granite units, hospitals and colleges",
     lede:
-      "We are three engineers who work remotely for Khammam businesses: commission agents and traders at the agricultural market yard, black granite quarry and polishing units around Pandurangapuram, hospitals that draw patients from across the district, colleges and coaching centres, and shops on Wyra Road. Starting prices are public, the engineers answer you directly, and the first five months of maintenance cost nothing.",
+      "We are three engineers who work remotely for Khammam businesses: commission agents and traders at the agricultural market yard, black granite quarry and polishing units around Pandurangapuram, hospitals that draw patients from across the district, colleges and coaching centres, and shops on Wyra Road. Starting prices are public, the engineers answer you directly, and the first two months of maintenance cost nothing.",
     pills: ["Websites from ₹10,000", "Telugu-first pages", "Chilli and cotton trade profiles", "Granite slab catalogues", "Hospital appointment flows"],
   },
   quickAnswer:
-    "For a Khammam business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Khammam office; you own the domain and code, and maintenance is free for five months.",
+    "For a Khammam business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO website starts at ₹20,000, WhatsApp or AI automation at ₹40,000 and an online store at ₹50,000. We are a remote team with no Khammam office; you own the domain and code, and maintenance is free for two months.",
   snapshot: [
     { label: "Location", value: "On the Munneru river, about 193 km east of Hyderabad and close to the Andhra Pradesh border near Vijayawada" },
     { label: "Market yard", value: "The Khammam Agricultural Market houses Telangana's second-largest chilli yard and handles large cotton arrivals" },
@@ -51,10 +51,10 @@ const khammam: CityContent = {
     ai: "WhatsApp assistants that share rate lists, OP timings or admission details in Telugu and English and pass real negotiations to a person.",
     data: "Dashboards for arrivals, sales, dispatches or patient numbers, so an owner sees the season clearly without chasing staff.",
     app: "Android and iOS apps for field staff, delivery boys or student notices, one codebase listed on both app stores in six to ten weeks.",
-    maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month if you choose.",
+    maintenance: "Free updates, backups and security fixes for two months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
-    "In Khammam the choice is usually between a local designer who is easy to meet but hard to reach later, and a Hyderabad or Vijayawada agency whose rates include rent and salespeople. We work differently: starting prices on our site, a written line-by-line quote, WhatsApp access to the engineers every day of the week, and five months of maintenance included.",
+    "In Khammam the choice is usually between a local designer who is easy to meet but hard to reach later, and a Hyderabad or Vijayawada agency whose rates include rent and salespeople. We work differently: starting prices on our site, a written line-by-line quote, WhatsApp access to the engineers every day of the week, and two months of maintenance included.",
   pricingIntro:
     "The prices we publish are starting points for each type of project. Your actual figure depends on how many pages you need, whether the site is Telugu, English or both, the features involved and how much writing we do for you. A written itemised quote follows in about two working days, and no bill is raised before your approval.",
   sections: [
@@ -167,7 +167,7 @@ const khammam: CityContent = {
       paragraphs: [
         "A familiar Khammam problem: the website was made years ago by someone who kept the domain in his own name. He is no longer reachable, the renewal failed, and the business cannot even change the phone number on its own site.",
         "We set it up so that cannot happen. Your domain and hosting are registered in your name, on your payment method, from the first day. At launch you receive every login, the full source code and a written handover note. Our <a href=\"/services/web-development/\">web development</a> uses common, well-documented tools, so another developer can take over whenever you wish. There is no lock-in and no exit fee.",
-        "For five months after launch, maintenance is free: updates, security patches, backups, uptime monitoring, bug fixes and small changes to text or photos. After that, you can continue from ₹8,000 a month or simply contact us when something comes up.",
+        "For two months after launch, maintenance is free: updates, security patches, backups, uptime monitoring, bug fixes and small changes to text or photos. After that, you can continue from ₹8,000 a month or simply contact us when something comes up.",
       ],
     },
     {
@@ -258,7 +258,7 @@ const khammam: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small changes to text or photos without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
+        "For two months after launch we handle updates, security patches, backups, uptime checks, bug fixes and small changes to text or photos without charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long does local SEO take in Khammam?",

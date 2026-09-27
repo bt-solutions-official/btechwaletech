@@ -34,7 +34,7 @@ const loni: CityContent = {
     pills: ["Sites from ₹10,000", "Tronica City units", "Hindi and Hinglish SEO", "WhatsApp enquiry tools", "Your domain, your code"],
   },
   quickAnswer:
-    "A website for a Loni business costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team, you own the domain, hosting and code, and the first five months of maintenance are free.",
+    "A website for a Loni business costs from ₹10,000 with us and is ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team, you own the domain, hosting and code, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Location", value: "Ghaziabad district, Uttar Pradesh, on the Delhi border north-east of Shahdara, in the Ganga–Yamuna doab" },
     { label: "Civic body", value: "Loni Nagar Palika Parishad, formed in 1971, with 55 wards; Loni became a separate tehsil in 2015" },
@@ -51,7 +51,7 @@ const loni: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi to price, catalogue and timing questions and hand serious buyers to the owner.",
     data: "Simple dashboards of orders, dues, job-work payments and GST figures, built from Tally or Excel and readable on a phone.",
     app: "Android and iPhone apps for delivery staff, school fee reminders and dealer ordering, available on both app stores from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Updates, backups, security fixes and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Loni businesses usually work on thin margins and need every rupee to show results. We keep costs low by working remotely, publish our starting prices, give an itemised written quote before any billing, and answer on WhatsApp seven days a week. The domain and hosting are in your name, so you are never stuck with us.",
@@ -181,11 +181,11 @@ const loni: CityContent = {
     },
     {
       id: "ownership-loni",
-      heading: "Everything in your name, and five months of free support",
+      heading: "Everything in your name, and two months of free support",
       paragraphs: [
         "One story we hear often around Loni and east Delhi: a business paid someone to make a website, the domain was registered on that person's email, and when he stopped picking up the phone, the website went offline at renewal time. The business lost its email address, its reviews link and its search presence in one go.",
         "We register the domain in your business's name and open hosting in your account from the start. At launch you get all logins, the source code and a short explanation of how everything is set up. If you ever want to change developers, you can, without paying us anything or asking permission.",
-        "For five months after launch, we handle updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change. There is no long contract.",
+        "For two months after launch, we handle updates, bug fixes, security patches, backups, uptime monitoring and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change. There is no long contract.",
       ],
     },
   ],
@@ -277,7 +277,7 @@ const loni: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch, we handle content changes, bug fixes, security updates, backups, uptime monitoring and speed checks for free. After that, maintenance is available from ₹8,000 a month, or you can simply pay when you need a change.",
+        "For two months after launch, we handle content changes, bug fixes, security updates, backups, uptime monitoring and speed checks for free. After that, maintenance is available from ₹8,000 a month, or you can simply pay when you need a change.",
     },
     {
       question: "How do I get started?",

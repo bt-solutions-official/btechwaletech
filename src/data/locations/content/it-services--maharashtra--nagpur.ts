@@ -36,10 +36,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Nagpur for transport, trade, contractors and service firms",
     lede:
       "BtechWaleTech is a freelance group of three engineers working remotely from India. Nagpur transporters, Kalamna and Itwari traders, mining and power contractors, clinics and service businesses hire us instead of a software development team in Nagpur to build trip and fleet software, lead CRMs, contractor tools, AI agents, dashboards and Android and iOS apps.",
-    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Fleet and trip software", "5 months free maintenance"],
+    pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Fleet and trip software", "2 months free maintenance"],
   },
   quickAnswer:
-    "Considering a software development team in Nagpur? BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Quotes are itemised within about two working days, with five months of free maintenance.",
+    "Considering a software development team in Nagpur? BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Quotes are itemised within about two working days, with two months of free maintenance.",
   snapshot: [
     { label: "Geography", value: "Near the geographic centre of India, with the Zero Mile Stone and national highways NH 44 and NH 53 crossing the city" },
     { label: "SEZ and IT", value: "MIHAN SEZ near the airport with IT delivery centres, plus IT parks in Parsodi and the city" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp that quote standard routes, capture leads, answer customer questions and send payment reminders.",
     data: "Dashboards for trip profit, fleet utilisation, receivables, leads and site progress, fed from your apps, Tally or sheets.",
     app: "Android and iOS apps for Nagpur drivers, site supervisors, field sales teams and customers, built once in Flutter or React Native, from ₹40,000.",
-    maintenance: "Backups, fixes, updates and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, fixes, updates and uptime checks, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Nagpur has large IT centres in MIHAN and many local software firms, but transporters and contractors often end up with generic software that does not match how they work. A freelance group of three named engineers can build around your process and still hand every login back to you.",
@@ -86,7 +86,7 @@ const content: CityContent = {
       paragraphs: [
         "Custom software in Nagpur costs from ₹60,000 with BtechWaleTech for a focused web application over six to twelve weeks, from ₹40,000 for an Android and iOS app over six to ten weeks, and from ₹40,000 for AI automation over two to four weeks. Websites start at ₹10,000 and online stores at ₹50,000.",
         "Cost depends on the number of users and roles, reports, integrations and data to migrate. A transporter with ten trucks and one office needs less than a fleet of two hundred with branches in Raipur and Hyderabad. Linking to Tally or GPS devices adds scope. We list every item separately so you can start small and add modules as they prove their worth.",
-        "Payment is by UPI QR code or bank transfer in INR, in milestones written into the quote. Maintenance is from ₹8,000 a month after five free months. See our <a href='/pricing/'>pricing page</a> for the full table.",
+        "Payment is by UPI QR code or bank transfer in INR, in milestones written into the quote. Maintenance is from ₹8,000 a month after two free months. See our <a href='/pricing/'>pricing page</a> for the full table.",
       ],
     },
     {
@@ -173,7 +173,7 @@ const content: CityContent = {
       paragraphs: [
         "Every Nagpur system we build runs on cloud hosting with HTTPS, automated backups, uptime monitoring, role-based access and audit logs, in an account registered to the client. This removes the risk of losing years of records to a failed office computer.",
         "Our usual stack is Node.js or Python with PostgreSQL, a React or Astro front end, Flutter or React Native for mobile, and AWS or a comparable cloud, deployed through an automated pipeline with rollback. Backups are restore-tested and access is removed when staff leave.",
-        "Mobile apps queue entries when the network drops and sync later, which matters on highways and remote sites. Hosting and deployment are included, followed by five months of free maintenance.",
+        "Mobile apps queue entries when the network drops and sync later, which matters on highways and remote sites. Hosting and deployment are included, followed by two months of free maintenance.",
       ],
     },
     {
@@ -222,7 +222,7 @@ const content: CityContent = {
       id: "running-costs-nagpur",
       heading: "What will a Nagpur business pay each month to run its software after launch?",
       paragraphs: [
-        "After launch, a Nagpur business pays for hosting and a database, a yearly domain renewal, any SMS or WhatsApp message charges, GPS or map API usage where relevant, and maintenance once the five free months are over. For a typical trip or lead management system used by a small office, these recurring costs are a small fraction of the original build.",
+        "After launch, a Nagpur business pays for hosting and a database, a yearly domain renewal, any SMS or WhatsApp message charges, GPS or map API usage where relevant, and maintenance once the two free months are over. For a typical trip or lead management system used by a small office, these recurring costs are a small fraction of the original build.",
         "Transporters in Nagpur usually find message and map charges are the lines that move. A system that sends every customer a WhatsApp update at each checkpoint, or draws live routes on a map for every trip, uses more paid requests than one that updates only at loading and delivery. We show owners that trade-off with rough monthly estimates before building, and set spending alerts on each provider account.",
         "Everything is billed in your name. Our maintenance plan starts from ₹8,000 a month after the free period, and you can pause it and switch to paying per change whenever work is light, such as after the orange season. Apps add Google Play's one-time registration and Apple's yearly membership, also in your name.",
         "Before signing off on any system, ask the developer to write down the expected monthly running cost at today's usage and at double that usage. If they cannot answer, the quote is incomplete, whoever wrote it.",
@@ -242,7 +242,7 @@ const content: CityContent = {
       id: "support-ownership-nagpur",
       heading: "Support, maintenance and ownership after launch",
       paragraphs: [
-        "Every Nagpur project includes five months of free maintenance after launch, with fixes, small changes, security updates, backups and uptime checks, then optional support from ₹8,000 a month. You own the code, cloud account, domain, app store listings and all logins.",
+        "Every Nagpur project includes two months of free maintenance after launch, with fixes, small changes, security updates, backups and uptime checks, then optional support from ₹8,000 a month. You own the code, cloud account, domain, app store listings and all logins.",
         "Support is remote over WhatsApp, calls and screen share, seven days a week, which suits transport and site businesses that do not stop on Sundays. We have no office in Nagpur; the engineers who built your system answer directly.",
         "Documentation at handover lets another developer continue if needed. Our <a href='/it-services/maharashtra/'>Maharashtra hub</a> covers the state, with sibling pages for <a href='/it-services/maharashtra/pune/'>Pune</a> and <a href='/it-services/maharashtra/mumbai/'>Mumbai</a>, and Vidarbha towns such as <a href='/wardha/'>Wardha</a> and <a href='/amravati/'>Amravati</a> are served the same way. Start on the <a href='/contact/'>contact page</a>.",
       ],
@@ -315,7 +315,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month or per change. New modules are quoted before work begins.",
+        "Two months of free maintenance after launch: fixes, small changes, security updates, backups and uptime checks. After that, support is from ₹8,000 a month or per change. New modules are quoted before work begins.",
     },
     {
       question: "Can you import data from our GPS devices?",
@@ -340,7 +340,7 @@ const content: CityContent = {
     {
       question: "What will our Nagpur system cost to run every month?",
       answer:
-        "It depends on usage, but for a small office system the recurring bill is mainly hosting, a domain and message charges, all paid directly to providers in your name. Every quote includes a written estimate of monthly running costs. Maintenance is free for five months, then from ₹8,000 a month, and you can switch it off and pay per change instead.",
+        "It depends on usage, but for a small office system the recurring bill is mainly hosting, a domain and message charges, all paid directly to providers in your name. Every quote includes a written estimate of monthly running costs. Maintenance is free for two months, then from ₹8,000 a month, and you can switch it off and pay per change instead.",
     },
     {
       question: "How do we start?",

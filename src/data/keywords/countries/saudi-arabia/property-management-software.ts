@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers building your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Maintenance tickets with photos", value: "Tenant, manager and technician views" },
       { label: "Owner statements", value: "Monthly, per owner, per building" },
       { label: "Tenant app (optional)", value: `From ${P.app}, Android and iOS` },
-      { label: "Support after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Support after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Invoicing hook", note: "For commercial units billed with tax invoices, rent lines pass to the ZATCA-compliant invoicing tool you already use.", href: "/saudi-arabia/zatca-e-invoicing-integration/", size: "md" },
       { name: "Vacancy and listings link", note: "Vacant units flow to your listings website so marketing never advertises a flat that was let last week.", href: "/saudi-arabia/real-estate-website-development/", size: "sm" },
       { name: "AI helpers", note: `Reading scanned lease PDFs into draft records, or sorting incoming tenant messages by urgency, from ${P.ai}.`, href: "/saudi-arabia/ai-automation-services/", size: "sm" },
-      { name: "Care plans", note: `Five free months after launch, then care from ${P.care}.`, href: "/pricing/", size: "sm" },
+      { name: "Care plans", note: `Two free months after launch, then care from ${P.care}.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -84,7 +84,7 @@ const content: FreelanceContent = {
     columns: ["Aspect", "Spreadsheets and WhatsApp", "Off-the-shelf property software", "Custom build with BtechWaleTech"],
     rows: [
       ["Setup time", "Immediate", "Days to weeks", "About 6–12 weeks for the core"],
-      ["Cost shape", "Staff time", "Subscription, often per unit or user", `Build from ${P.software}, care from ${P.care} after 5 free months`],
+      ["Cost shape", "Staff time", "Subscription, often per unit or user", `Build from ${P.software}, care from ${P.care} after 2 free months`],
       ["Fits unusual instalments and owner splits", "Yes, by hand", "Only if the product supports it", "Built to your rules"],
       ["Ejar contract reference per lease", "A column, if someone fills it", "Depends on the product", "Required field with expiry alerts"],
       ["Maintenance tracking", "Lost in chat threads", "Usually included", "Tickets with WhatsApp status updates"],
@@ -186,7 +186,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a custom core system starts from ${P.software}, a tenant or technician app from ${P.app}, and messaging automation from ${P.ai}. Subscription products charge differently, often per unit or per user each month, so compare total cost over three to five years rather than the first month.`,
         `The main cost drivers for property management software are rules and history, not screens. Rules include instalment patterns, fee splits between owners and managers, late-payment handling and recharge policies. History is the lease and payment data you want imported: clean exports from one system are quick, while years of spreadsheets with merged cells and inconsistent unit names need cleaning first. Integrations with accounting and invoicing tools add further scope.`,
-        `Ongoing costs are modest and sit in your accounts: cloud hosting, WhatsApp and SMS message fees, and app store fees if you publish a tenant app. After five free months of maintenance, care plans start from ${P.care}. For a wider picture of Saudi build costs, see our <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a> guide.`,
+        `Ongoing costs are modest and sit in your accounts: cloud hosting, WhatsApp and SMS message fees, and app store fees if you publish a tenant app. After two free months of maintenance, care plans start from ${P.care}. For a wider picture of Saudi build costs, see our <a href='/saudi-arabia/website-design-cost/'>website design cost in Saudi Arabia</a> guide.`,
       ],
     },
     {
@@ -270,7 +270,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your company does: code, database, documents and the cloud account they run in. There are no per-unit or per-user licence fees on software you paid to build, and you can hand it to another developer whenever you like.`,
         `For a property business, this matters because the lease and payment history is your record of the relationship with every tenant and owner. When it lives in your own database, you can export it, audit it and keep it for as long as you need, without depending on a vendor staying in business or keeping its prices.`,
-        `At handover you get the code repository, deployment instructions, a data dictionary explaining each table and field, admin credentials, and a list of external services with renewal dates. The first five months after launch include free maintenance for bugs and small changes. After that, care plans start from ${P.care}. Cancellations and changes are explained on the <a href='/refund-policy/'>refund policy</a> page.`,
+        `At handover you get the code repository, deployment instructions, a data dictionary explaining each table and field, admin credentials, and a list of external services with renewal dates. The first two months after launch include free maintenance for bugs and small changes. After that, care plans start from ${P.care}. Cancellations and changes are explained on the <a href='/refund-policy/'>refund policy</a> page.`,
       ],
     },
     {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Pilot", "One building runs alongside the spreadsheet", "Pilot team", "About 4 weeks"],
         ["Maintenance", "Tickets, technician app, tenant updates", "Tenants and technicians", "4–8 weeks"],
         ["Owners", "Statements, share rules, owner portal", "Owners and accountant", "3–5 weeks"],
-        ["Aftercare", "Fixes and small changes", "Named contact", "5 months free"],
+        ["Aftercare", "Fixes and small changes", "Named contact", "2 months free"],
       ],
     },
   ],
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Get a module quote", "In about two working days you receive starting prices in USD per module, with running costs estimated. Nothing is billed before your written approval."],
       ["Pilot one building", "The core system goes live for one building alongside the spreadsheet for about a month, until rent totals and balances match exactly."],
       ["Move the portfolio", "Remaining buildings are imported in batches, reminders switch on, and maintenance and owner modules follow in the next release."],
-      ["Hand over and support", "You receive code, data dictionary and credentials; five free months of maintenance start, then optional care plans."],
+      ["Hand over and support", "You receive code, data dictionary and credentials; two free months of maintenance start, then optional care plans."],
     ],
   },
   faqHeading: "Property management software questions from Saudi landlords",
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "Can the system connect to our accounting software?", answer: "Often, yes, where the accounting product offers an API or import format. Rent received, expenses and management fees can be exported or pushed as journal entries, and commercial rent lines can go to your e-invoicing tool. We quote each integration after checking what your accounting product supports." },
     { question: "Can you add an owner portal?", answer: "Yes. Owners log in to see statements, rent status per unit, open maintenance tickets on their property and upcoming lease expiries, in Arabic or English. Each owner sees only their own buildings and shares. Many clients add the portal in a second release once statements have been checked manually for a few months." },
     { question: "Can AI help with property management tasks?", answer: `Yes, for repetitive work. AI can read scanned lease PDFs into draft records for staff to check, sort incoming tenant messages by urgency, or summarise the week's tickets for managers. A person approves anything that changes a lease or payment. AI workflows start from ${P.ai}, typically in 2–4 weeks.` },
-    { question: "What support is available after launch?", answer: `Five months of free maintenance cover bug fixes and small adjustments after launch. After that, care plans start from ${P.care}, or your in-house team or another developer can take over using the handover documents. New modules are quoted separately and approved in writing before work begins.` },
+    { question: "What support is available after launch?", answer: `Two months of free maintenance cover bug fixes and small adjustments after launch. After that, care plans start from ${P.care}, or your in-house team or another developer can take over using the handover documents. New modules are quoted separately and approved in writing before work begins.` },
     { question: "Will you sign an NDA for our property data?", answer: "If you need one, yes: send your NDA or contract terms at the start and we agree the wording in writing before any access to data. The written quote and our published terms cover scope, milestones and ownership. Access to your systems is through named accounts you can remove at any time." },
     { question: "Can vacant units appear on our listings website automatically?", answer: "Yes. When a unit becomes vacant in the management system, it can be published to your listings site with its details and photos, and removed once let. That keeps the site accurate and saves staff from updating two places. The listings site itself is a separate build covered on our real estate website page." },
   ],

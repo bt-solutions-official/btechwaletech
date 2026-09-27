@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Platforms", "Shopify, WooCommerce, headless"],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Billing", "USD via Wise, wire or PayPal"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Developers on your store from scope to launch" },
     { value: "3", label: "Platforms we compare before recommending one" },
     { value: "2", label: "Working days to an itemised store quote" },
-    { value: "5", label: "Months of free fixes once you are live" },
+    { value: "2", label: "Months of free fixes once you are live" },
   ],
   answer: {
     heading: "How should an Australian business scope and build a new online store?",
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Payments and BNPL", note: "Card and wallet checkout in AUD, with Afterpay or Zip added from your own merchant accounts and tested with purchases and refunds.", size: "md" },
       { name: "Accounting and stock sync", note: `Orders into Xero, stock from a supplier feed or POS, built as a connector or custom integration from ${P.software}.`, href: "/australia/xero-integration-developer/", size: "sm" },
       { name: "Launch SEO", note: `Redirects, sitemap, Product structured data and Merchant Center feed on day one; ongoing store SEO from ${P.seo}.`, href: "/australia/ecommerce-seo-services/", size: "sm" },
-      { name: "Aftercare", note: `Five free months of fixes after launch, then optional care from ${P.care} a month.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Aftercare", note: `Two free months of fixes after launch, then optional care from ${P.care} a month.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -228,7 +228,7 @@ const content: FreelanceContent = {
       heading: "How much does ecommerce website development cost in Australia?",
       paragraphs: [
         `Quotes for a new online store vary widely across Australian agencies, freelancers and remote teams, and the spread comes mostly from scope assumptions rather than hourly rates. Comparing totals without comparing what each supplier assumed about data, integrations and design tells you very little.`,
-        `With us, a new store starts from ${P.shop} and usually takes 4–8 weeks. That starting figure covers a configured theme adapted to your brand, core templates, a clean import of a modest catalogue, GST, payments, shipping zones, policy pages and launch. Custom integrations, such as order sync to accounting or stock from a POS, start from ${P.software}. After launch, maintenance is free for five months and optional care starts from ${P.care}. Monthly store SEO starts from ${P.seo}.`,
+        `With us, a new store starts from ${P.shop} and usually takes 4–8 weeks. That starting figure covers a configured theme adapted to your brand, core templates, a clean import of a modest catalogue, GST, payments, shipping zones, policy pages and launch. Custom integrations, such as order sync to accounting or stock from a POS, start from ${P.software}. After launch, maintenance is free for two months and optional care starts from ${P.care}. Monthly store SEO starts from ${P.seo}.`,
         `Separate from any developer fee are the running costs you pay directly: platform subscription or hosting, domain renewal, app or plugin licences, payment and BNPL fees, and carrier charges. For a three-year view of all of those, read our <a href='/australia/ecommerce-website-cost/'>ecommerce website cost breakdown for Australia</a>.`,
       ],
       subs: [
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
       heading: "After launch: what an Australian store usually needs next",
       paragraphs: [
         `The first three months after launch show where the store needs attention. Usually it is one of four things: slow pages on mobile, manual order admin, thin category pages, or customer questions that repeat.`,
-        `Your five free months of maintenance cover bugs and small changes during that period. Beyond that, the common next steps are order sync to accounting through our <a href='/australia/xero-integration-developer/'>Xero integration work</a>, an AI assistant that answers delivery and returns questions from your own policies from ${P.ai}, and ongoing SEO for category pages. A companion app for repeat buyers starts from ${P.app}, though most stores are better served by a fast mobile site for their first few years.`,
+        `Your two free months of maintenance cover bugs and small changes during that period. Beyond that, the common next steps are order sync to accounting through our <a href='/australia/xero-integration-developer/'>Xero integration work</a>, an AI assistant that answers delivery and returns questions from your own policies from ${P.ai}, and ongoing SEO for category pages. A companion app for repeat buyers starts from ${P.app}, though most stores are better served by a fast mobile site for their first few years.`,
         `What sits outside our work: warehouse hardware, product photography, running paid ads and on-site visits. If you need those, we can work alongside whoever you choose for them.`,
       ],
     },
@@ -425,7 +425,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the platform, hosting and merchant accounts under your business and invite us. We set up staging and send the product data template."],
       ["Build in previews you can test", "Templates, imports and settings appear on the staging store. Updates land overnight your time, and you send one consolidated list of feedback."],
       ["Test, redirect and launch", "We run purchases and refunds on every payment method, check shipping in each zone, set up redirects and Search Console, then launch in your business hours."],
-      ["Handover and five free months", `You get the account list and documentation. Fixes and small changes are free for five months, then optional care starts from ${P.care}.`],
+      ["Handover and two free months", `You get the account list and documentation. Fixes and small changes are free for two months, then optional care starts from ${P.care}.`],
     ],
   },
   faqHeading: "Ecommerce website development in Australia: questions owners ask",
@@ -448,7 +448,7 @@ const content: FreelanceContent = {
     { question: "Does my online store need to meet accessibility standards?", answer: "The Australian Human Rights Commission's guidance under the Disability Discrimination Act points organisations to WCAG 2.2 Level AA as a minimum. We build stores to those criteria, including keyboard-usable menus and checkout, readable contrast, labelled form fields and alt text, and we test checkout with the keyboard alone before launch." },
     { question: "Can I sell to New Zealand from my Australian store?", answer: "Yes. Both Shopify and WooCommerce can show NZD prices and New Zealand shipping rates alongside Australian ones, though tax and duty rules for exports need your accountant's input. We usually recommend launching in Australia first, then adding New Zealand once the store is stable, so shipping and tax settings for each country can be tested properly." },
     { question: "Can you migrate my old store to a new platform?", answer: "Yes. We move products, customers and order history where the platforms allow, redirect every old product and category URL to its closest new match, and compare traffic in Search Console after launch. Migration is quoted as its own line because data quality varies a lot. Our website redesign services page covers the ranking side in more detail." },
-    { question: "What happens after my online store launches?", answer: `You get five months of free maintenance covering fixes and small changes. After that, care is optional and starts from ${P.care} a month. Since every account is in your name, you can also run the store yourself, hire someone in-house or switch developers without transferring anything from us.` },
+    { question: "What happens after my online store launches?", answer: `You get two months of free maintenance covering fixes and small changes. After that, care is optional and starts from ${P.care} a month. Since every account is in your name, you can also run the store yourself, hire someone in-house or switch developers without transferring anything from us.` },
     { question: "Do you visit businesses in Australia during a build?", answer: "No. The three of us work remotely from India with no Australian office or staff. Scoping, reviews and training happen over video calls, WhatsApp and staging links. If you need someone on site for product photography, stocktake or hardware, it is better to hire a local provider for that part and we will coordinate with them." },
     { question: "What does a remote team not do on an ecommerce project?", answer: "We do not take product photos, install warehouse or POS hardware, run paid advertising campaigns, give tax or legal advice, or staff very large multi-warehouse ERP projects. We say so on the first call when a request falls outside what three developers should handle, and we can work alongside the specialists you choose." },
   ],

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Revision rounds", "Written into your quote"],
     ["Quote turnaround", "About 2 working days"],
     ["You receive", "Live site, code and any design files"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelancers who design and build together" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free care after launch" },
+    { value: "2", label: "Months of free care after launch" },
     { value: "0", label: "Platform fees on top of the quote" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Designed static website", value: `From ${P.site}, 1–2 weeks` },
       { label: "Designed online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Payment", value: "UPI or bank transfer; Wise, wire or PayPal abroad" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
         `This is a hypothetical example to show the hiring steps in action, not a client story.`,
         `A two-chair dental clinic wants a site that makes new patients comfortable enough to book. The owner writes a one-page brief: seven pages, a Hindi version of the treatments page, real photos of the clinic, and one action, “Book on WhatsApp”. She sends it to three people and asks each for live links.`,
         `One replies with a price and a theme demo. One sends five live sites but only desktop mock-ups for the proposal. The third asks who the patients are, whether they arrive by search or referral, and proposes a phone-first home page with timings, fees guidance and a sticky WhatsApp button. That quote itemises layouts, the Hindi page and two revision rounds on the home page.`,
-        `With us, a project like this would sit in the static plan from ${P.site}, launch in about two weeks if photos arrive on time, and fall under five months of free maintenance for timing and fee updates. Medical sites have extra rules; see <a href='/doctor-website-developer/'>doctor website developer</a>.`,
+        `With us, a project like this would sit in the static plan from ${P.site}, launch in about two weeks if photos arrive on time, and fall under two months of free maintenance for timing and fee updates. Medical sites have extra rules; see <a href='/doctor-website-developer/'>doctor website developer</a>.`,
       ],
     },
     {
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       heading: "Web designer hire karna hai? Seedhe steps",
       paragraphs: [
         `Pehle ek chhota brief likhiye: business kya karta hai, customer kaun hai, website par visitor kya kare (call, WhatsApp ya order), kaunse pages chahiye aur kaunsi 2–3 websites pasand hain. Yahi brief har designer ko bhejiye.`,
-        `Designer ki live websites apne phone par kholkar dekhiye, sirf screenshots par bharosa mat kijiye. Kitne revision rounds milenge, yeh quote mein likhwa lijiye. Domain aur hosting apne naam par rakhiye. Hamare saath designed website ${P.site} se shuru hoti hai, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Designer ki live websites apne phone par kholkar dekhiye, sirf screenshots par bharosa mat kijiye. Kitne revision rounds milenge, yeh quote mein likhwa lijiye. Domain aur hosting apne naam par rakhiye. Hamare saath designed website ${P.site} se shuru hoti hai, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -350,7 +350,7 @@ const content: FreelanceContent = {
         ["Designed online store", `${P.shop}`, `${P.shopUsd}`, "4–8 weeks"],
         ["Web app screens and build", `${P.software}`, `${P.softwareUsd}`, "6–12 weeks"],
         ["Android & iOS app design and build", `${P.app}`, `${P.appUsd}`, "6–10 weeks"],
-        ["Maintenance after 5 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `${P.care}`, `${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Approve the structure", "We agree the section order of the home page first, so the visual design starts from decisions rather than guesses."],
       ["Review designs on your phone", "The home page and inner templates appear on a private staging link. You send one consolidated list of changes per round."],
       ["Build with your real content", "Approved layouts are coded with your text and photos, tested for speed and checked against the signed-off designs on phone and desktop."],
-      ["Launch and hand everything over", `Domain connected, Search Console verified, then code, assets and design files handed to you. Five months of free care follow, then optional upkeep from ${P.care}.`],
+      ["Launch and hand everything over", `Domain connected, Search Console verified, then code, assets and design files handed to you. Two months of free care follow, then optional upkeep from ${P.care}.`],
     ],
   },
   faqHeading: "Hiring a web designer: common questions",
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
     { question: "Can the same designer design my mobile app later?", answer: `If they work on apps, yes. BtechWaleTech designs and builds Android and iOS apps from ${P.app} with Flutter or React Native, publishing them in your own store accounts. Reusing the website's colours, type and components keeps the app and site consistent for your customers.` },
     { question: "What are the red flags when hiring a web designer?", answer: "Watch for image-only portfolios, identical samples in different colours, prices sent before any questions, promises of unlimited revisions, desktop-only mock-ups, unlicensed fonts or photos, and demands for full payment upfront. A designer who refuses to hand over files after payment is the most serious warning of all." },
     { question: "Can I hire a web designer for just a redesign?", answer: "Yes. A redesign keeps your content and web addresses while replacing the layout and often the underlying code. The important extra step is planning redirects for any URL that changes, so search visibility is not lost. We scope redesigns like new projects, with an itemised quote before work starts." },
-    { question: "Web designer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath design aur development ek saath hota hai. Designed static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Online store ${P.shop} se shuru hota hai. Revision rounds quote mein likhe hote hain, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Web designer hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath design aur development ek saath hota hai. Designed static website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Online store ${P.shop} se shuru hota hai. Revision rounds quote mein likhe hote hain, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Do you design logos and brand identity as well?", answer: "No. We design websites and app screens around your existing logo and colours. If you have no logo, we can choose clean, licensed web fonts and a simple palette for the site, but a proper logo or brand book is better done by a brand designer before the website project begins." },
   ],
   related: {

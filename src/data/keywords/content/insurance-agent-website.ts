@@ -38,11 +38,11 @@ const content: FreelanceContent = {
     ["Client dashboard from", `${P.software}`],
     ["Content approach", "Generic pages; product pages after insurer approval"],
     ["Your estimate", "Itemised, about 2 working days"],
-    ["Maintenance", "Free for 5 months after launch"],
+    ["Maintenance", "Free for 2 months after launch"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Leads shared with anyone else" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "WhatsApp quotes and renewal reminders", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Client dashboard of policies and renewals", value: `From ${P.software}` },
       { label: "Compliance approach", value: "You and your insurer approve content; we build it" },
-      { label: "Care after launch", value: `5 months free, then from ${P.care}` },
+      { label: "Care after launch", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Cover calculators", note: "A generic cover-needs calculator; premium calculators only with insurer-approved rates or by linking the insurer’s own tool.", size: "md" },
       { name: "Client policy dashboard", note: `A private list of each client’s policies, due dates and nominee reminders, for you and your team, from ${P.software}.`, href: "/freelance-crm-developer/", size: "sm" },
       { name: "Local search setup", note: `Google Business Profile, local schema and city pages, with monthly SEO from ${P.seo}.`, href: "/local-seo-expert/", size: "sm" },
-      { name: "Upkeep", note: `Free for five months after launch, then from ${P.care}: content updates as plans change, backups, fixes.`, size: "sm" },
+      { name: "Upkeep", note: `Free for two months after launch, then from ${P.care}: content updates as plans change, backups, fixes.`, size: "sm" },
     ],
   },
   comparison: {
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `An insurance agent website with BtechWaleTech starts at ${P.site} (${P.siteUsd}): profile, cover explainers, cover-needs calculator, claim-assistance page, WhatsApp quote forms, schema and Search Console setup.`,
         `Add renewal reminder automation from ${P.ai}. A private client dashboard listing policies, due dates and follow-ups is a custom build from ${P.software}. If you want many city and cover-type pages to reach a whole district, the SEO website plan starts at ${P.seoSite}. Content writing is its own line; many agents give us voice notes and review drafts, which keeps cost down and keeps your voice.`,
-        `Across the market, quotes vary widely. The usual reason is scope: one quote may include approval-ready content, reminders and aftercare while another is a single page. Compare line by line. After launch you get five months of free maintenance, then optional care from ${P.care}.`,
+        `Across the market, quotes vary widely. The usual reason is scope: one quote may include approval-ready content, reminders and aftercare while another is a single page. Compare line by line. After launch you get two months of free maintenance, then optional care from ${P.care}.`,
       ],
     },
     {
@@ -240,7 +240,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A fast static site suits most agents: cheap to host, secure, and quick on mobile data. The reminder engine and dashboard run as a separate small application with a database, so client data never sits in a public website’s plugin folder.`,
         `Everything is registered to you: domain, hosting, WhatsApp Business account, database and code. We work as users you can remove. At handover you get logins, a renewal list for every paid service, and a short guide to editing a cover page, adding a client to the reminder list and exporting your data.`,
-        `Five months of maintenance are free after launch, which usually covers the first round of approved product pages and small corrections. After that, care is optional from ${P.care} a month. If you later want an app for clients to see their policies, we build Android and iOS apps from ${P.app} in your own store accounts.`,
+        `Two months of maintenance are free after launch, which usually covers the first round of approved product pages and small corrections. After that, care is optional from ${P.care} a month. If you later want an app for clients to see their policies, we build Android and iOS apps from ${P.app} in your own store accounts.`,
       ],
     },
     {
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Renewal reminders and quote automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Agents with large client books"],
         ["Client policy dashboard", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Agent teams with assistants"],
         ["Client app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Agencies with many repeat clients"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates and approved page additions"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates and approved page additions"],
       ],
       hideSm: [2],
     },
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Separate generic and product content", "We mark which pages publish at launch and which wait for your insurer’s approval, so nothing risky goes live by accident."],
       ["Review on a private staging link", "You read every page on your phone and correct anything about products, claims or your licence before anyone else sees it."],
       ["Test quotes and reminders", "We send test quote requests and reminders to our own numbers to check wording, timing and that no sensitive details appear."],
-      ["Launch and five free months", `Launch with Search Console and profile updates, then add approved product pages as they clear. Care is free for five months, then from ${P.care}.`],
+      ["Launch and two free months", `Launch with Search Console and profile updates, then add approved product pages as they clear. Care is free for two months, then from ${P.care}.`],
     ],
   },
   faqHeading: "Insurance agent website: questions agents ask",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Freelancers or an agency for an insurance agent website?", answer: "A personal agent site has a clear, modest scope, which suits a small freelance team you can talk to directly. Large broking houses with many branches and in-house compliance teams may prefer an agency. Either way, ask who owns the accounts and how approval-sensitive pages are handled." },
     { question: "How do I pay for the website?", answer: "In India by UPI or bank transfer, in stages tied to visible work, after you approve the written, itemised quote. Clients outside India pay in USD by Wise, bank wire or PayPal. Stage details are agreed in your quote; general conditions are on our terms page." },
     { question: "Can the website show my testimonials?", answer: "Only genuine ones, with the client’s permission, and without implying guaranteed claim outcomes. Many agents prefer a claim-assistance page and real reviews on their Google Business Profile, which visitors trust more than quotes on the site itself." },
-    { question: "What happens after the free maintenance period?", answer: `The first five months after launch are free, covering fixes, backups and small updates such as newly approved pages. After that you can continue care from ${P.care} a month, manage the site yourself, or move it to another developer, since every account is already yours.` },
+    { question: "What happens after the free maintenance period?", answer: `The first two months after launch are free, covering fixes, backups and small updates such as newly approved pages. After that you can continue care from ${P.care} a month, manage the site yourself, or move it to another developer, since every account is already yours.` },
     { question: "Can my agent website appear in AI search answers?", answer: "AI tools tend to cite short, clear answers with a named author and a recent review date. We write explainers and FAQs that way and add structured data. No one controls which pages AI assistants quote, so treat it as a benefit of good content rather than a promise." },
     { question: "Insurance agent ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath insurance agent website ${P.site} se shuru hoti hai, jisme cover explainers, claim help page aur WhatsApp quote form hote hain. Renewal reminder automation ${P.ai} se shuru hota hai. Product wale pages insurer ki approval ke baad hi live hote hain.` },
   ],
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want an insurance agent website your clients actually use?",
-    note: `Message us on WhatsApp with the lines you sell and how you track renewals. You get an itemised quote in about two working days, with agent sites from ${P.site}, every account in your name and five months of free maintenance.`,
+    note: `Message us on WhatsApp with the lines you sell and how you track renewals. You get an itemised quote in about two working days, with agent sites from ${P.site}, every account in your name and two months of free maintenance.`,
   },
 };
 

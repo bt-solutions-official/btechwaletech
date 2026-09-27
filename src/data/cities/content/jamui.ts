@@ -56,7 +56,7 @@ const jamui: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer fee, timing, room and price questions and hand anything unusual to a person.",
     data: "Simple dashboards of admissions, patient visits, dues and stock movement that owners can read on a phone.",
     app: "Android and iOS apps for coaching institutes, schools and clinics in Jamui to send notices, tokens and fee reminders, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Many Jamui owners have been let down before by a website maker who vanished with the domain. We publish starting prices, send a written itemised quote, reply on WhatsApp every day, and register the domain, hosting, code and store accounts in your own name. If a website is enough and an app is not needed, we tell you plainly.",
@@ -177,7 +177,7 @@ const jamui: CityContent = {
       heading: "Ownership and maintenance for Jamui websites and apps",
       paragraphs: [
         "We register the domain, hosting, source code, Google Business Profile and any Play Store or App Store developer accounts in your name, and hand over every login in writing. If you ever decide to work with someone else, you take everything with you.",
-        "Maintenance is free for five months after launch. That covers content and price changes, backups, security patches, software updates and regular checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue.",
+        "Maintenance is free for two months after launch. That covers content and price changes, backups, security patches, software updates and regular checks that forms, payments and WhatsApp links still work. After that, maintenance starts at ₹8,000 a month if you want us to continue.",
         "Apps need attention every year because Google and Apple change their rules. We track those changes and update your app in time so it is not pulled from the stores, and we tell you in advance if an update will cost extra.",
       ],
     },
@@ -260,7 +260,7 @@ const jamui: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for the first five months and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You are free to take your code and move to another developer at any time.",
+        "Maintenance is free for the first two months and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want us to continue. You are free to take your code and move to another developer at any time.",
     },
     {
       question: "Do you work with businesses in Jhajha, Sikandra and Chakai too?",

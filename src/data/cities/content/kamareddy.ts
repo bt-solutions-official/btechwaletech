@@ -55,7 +55,7 @@ const kamareddy: CityContent = {
     ai: "WhatsApp assistants in Telugu, Hindi and English that answer rate, stock and appointment questions and hand real decisions to you.",
     data: "Dashboards of paddy and maize bought, stock by godown, flock performance, sales by shop and outstanding payments.",
     app: "Android and iOS apps, listed on Google Play and the App Store, that let poultry supervisors log each shed's day or let village retailers re-order from their dealer, priced from ₹40,000.",
-    maintenance: "No upkeep charge for the first five months; after that, care plans begin at ₹8,000 a month.",
+    maintenance: "No upkeep charge for the first two months; after that, care plans begin at ₹8,000 a month.",
   },
   whyUsIntro:
     "Kamareddy traders compare prices closely and expect a vendor to keep answering after the invoice is paid. We publish starting prices, send an itemised written quote, reply on WhatsApp every day and register your domain, hosting, code and app store accounts in your own name. If a feature will not pay back, we tell you before you spend on it.",
@@ -177,7 +177,7 @@ const kamareddy: CityContent = {
       heading: "Ownership and maintenance for Kamareddy websites and apps",
       paragraphs: [
         "Plenty of Kamareddy owners have paid for a site once and lost it, because the domain sat in the designer's account and the designer stopped picking up. With us, the domain, the hosting, the source code, the Maps profile and the developer accounts on both app stores are opened under your business name from the first day, and the passwords come to you in a written handover.",
-        "For the first five months after going live, upkeep costs nothing. We change text and rates when you ask, take backups, apply security and software updates, and test that enquiry forms, payment links and WhatsApp buttons still respond. From the sixth month, continued care is ₹8,000 a month onwards, entirely optional, and you may hand the code to someone else whenever you wish.",
+        "For the first two months after going live, upkeep costs nothing. We change text and rates when you ask, take backups, apply security and software updates, and test that enquiry forms, payment links and WhatsApp buttons still respond. From the third month, continued care is ₹8,000 a month onwards, entirely optional, and you may hand the code to someone else whenever you wish.",
         "Google Play and Apple revise their policies every year, and apps that fall behind get pulled. We watch for those notices and ship updates before deadlines, and mill or poultry tools get a check-up ahead of every crop or flock cycle.",
       ],
     },
@@ -269,7 +269,7 @@ const kamareddy: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "You get five months of upkeep at no cost once the project is live: edits, backups, patches and regular tests of forms and links. Beyond that, a monthly plan from ₹8,000 is available but never compulsory, and nothing stops you giving the code to a different developer.",
+        "You get two months of upkeep at no cost once the project is live: edits, backups, patches and regular tests of forms and links. Beyond that, a monthly plan from ₹8,000 is available but never compulsory, and nothing stops you giving the code to a different developer.",
     },
     {
       question: "Do you work in Banswada, Yellareddy and Nizamabad as well?",

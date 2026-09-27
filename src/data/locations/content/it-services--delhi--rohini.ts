@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI assistants that answer admission questions, share batch and fee details, book demo classes and send lab reports on WhatsApp.",
     data: "Dashboards for institute owners, hospital managers and factory owners showing enquiries, conversions, test results, fee dues, output and stock.",
     app: "Android and iOS apps for Rohini students, parents, patients and factory staff, built once in Flutter or React Native and published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Hosting, updates, backups and fixes, free for five months after launch and from ₹8,000 per month afterwards.",
+    maintenance: "Hosting, updates, backups and fixes, free for two months after launch and from ₹8,000 per month afterwards.",
   },
   whyUsIntro:
     "Rohini's coaching founders, doctors and factory owners are busy people who have usually been let down once by a developer who vanished. Our freelance group works differently: you message the three engineers directly, get an itemised quote, see progress every week and own the code, domain and app store accounts outright.",
@@ -176,7 +176,7 @@ const content: CityContent = {
       paragraphs: [
         "Dashboards and cloud hosting give Rohini owners a live, reliable view of their business from anywhere: enquiries and conversions for institutes, bookings and report turnaround for labs, output and stock for factories. We host systems on AWS or comparable providers with SSL, daily backups and uptime monitoring.",
         "Dashboards read from your LMS, clinic system, inventory software, Tally or spreadsheets, and access is limited by role. An institute owner sees all branches; a branch head sees one. A factory owner sees output and dues; a supervisor sees only the production screens. Everything works on a phone.",
-        "Every project includes five months of free maintenance after launch, covering fixes, updates, backups and speed checks. After that, plans start from ₹8,000 a month. We build with Next.js, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, and we hand over every credential with a short setup document.",
+        "Every project includes two months of free maintenance after launch, covering fixes, updates, backups and speed checks. After that, plans start from ₹8,000 a month. We build with Next.js, Node.js or Python, PostgreSQL, and Flutter or React Native for apps, and we hand over every credential with a short setup document.",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000",
         "Online course store: from ₹50,000",
         "Coaching LMS or custom software: from ₹60,000",
-        "Maintenance after five free months: from ₹8,000 a month",
+        "Maintenance after two free months: from ₹8,000 a month",
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What maintenance do we get?",
       answer:
-        "Five months of free maintenance after launch: bug fixes, small updates, security patches, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can request changes as needed.",
+        "Two months of free maintenance after launch: bug fixes, small updates, security patches, backups and uptime checks. After that, plans start from ₹8,000 a month, or you can request changes as needed.",
     },
     {
       question: "Will the admission bot reply in Hindi?",

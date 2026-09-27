@@ -56,7 +56,7 @@ const noorpur: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi about stock, fees, OPD timings and directions, then hand anything unusual to the owner with the full chat.",
     data: "Phone-friendly dashboards of trolley trips, cane slips, dues by farmer and month-wise counter sales.",
     app: "Android and iOS apps for school notices, clinic tokens or dealer re-orders from village retailers, from ₹40,000, published on Google Play and the App Store under your own accounts.",
-    maintenance: "Five months of free upkeep after launch; after that, maintenance from ₹8,000 a month only if you want us to carry on.",
+    maintenance: "Two months of free upkeep after launch; after that, maintenance from ₹8,000 a month only if you want us to carry on.",
   },
   whyUsIntro:
     "Noorpur owners like to deal with someone they can reach, and they compare prices hard. We cannot offer a counter in the bazaar, so we offer paperwork instead: published starting prices, a costed quote in writing, WhatsApp replies on every day of the week, and each account registered to you. If a feature will not earn back its cost, we tell you before you pay for it.",
@@ -185,11 +185,11 @@ const noorpur: CityContent = {
     },
     {
       id: "ownership-maintenance-noorpur",
-      heading: "You own the website and app; maintenance is free for five months",
+      heading: "You own the website and app; maintenance is free for two months",
       paragraphs: [
         "A common complaint in small towns is a website that disappears when the person who made it stops answering. We avoid that by putting everything in your name from the first day: the domain is registered with your email, hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play account and Apple developer account list you as owner.",
         "At launch you receive a written sheet of every login and where it lives. Keep it with your shop papers. If you ever want another developer to take over, you can hand them that sheet and the code without asking our permission.",
-        "For five months after launch, maintenance costs you nothing. We update prices and photos, take backups, apply security patches and plugin or framework updates, and test that forms, UPI checkout and WhatsApp buttons still work. After that you can stay with us from ₹8,000 a month, manage updates yourself, or move on.",
+        "For two months after launch, maintenance costs you nothing. We update prices and photos, take backups, apply security patches and plugin or framework updates, and test that forms, UPI checkout and WhatsApp buttons still work. After that you can stay with us from ₹8,000 a month, manage updates yourself, or move on.",
         "Apps need an annual check even if nothing breaks, because Google and Apple regularly raise the minimum technical versions they accept. We watch those deadlines and release the update early, so your app is not hidden from the store for being out of date.",
       ],
     },
@@ -282,7 +282,7 @@ const noorpur: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "The first five months after going live are free: content edits, backups, security updates and regular checks of forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code elsewhere at any time, since it is already yours.",
+        "The first two months after going live are free: content edits, backups, security updates and regular checks of forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can also take the code elsewhere at any time, since it is already yours.",
     },
     {
       question: "What should I send you to get a quote?",

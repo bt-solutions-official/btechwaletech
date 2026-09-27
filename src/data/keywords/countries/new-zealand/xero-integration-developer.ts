@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "60", label: "Xero API calls per minute per organisation; we design around it" },
     { value: "5", label: "Concurrent calls Xero allows per connection at one time" },
     { value: "3", label: "Freelance developers; the one who scopes it also builds it" },
-    { value: "5", label: "Months of free maintenance after the integration goes live" },
+    { value: "2", label: "Months of free maintenance after the integration goes live" },
   ],
   answer: {
     heading: "What does a Xero integration developer do, and what does it cost?",
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a custom Xero integration costs",
-    note: `Focused, one-direction syncs, such as store orders to Xero invoices with GST mapping and error alerts, usually fall in our AI automation plan from ${P.ai} and take two to four weeks. Two-way integrations, multi-organisation OAuth 2.0 apps or anything with its own admin screens fall in the custom web app plan from ${P.software}. The price moves with the number of systems involved, how unusual your accounting rules are, historical data you want imported, and volume. Running costs such as hosting and any Xero subscription sit in your own accounts. Maintenance is free for five months, then from ${P.care}.`,
+    note: `Focused, one-direction syncs, such as store orders to Xero invoices with GST mapping and error alerts, usually fall in our AI automation plan from ${P.ai} and take two to four weeks. Two-way integrations, multi-organisation OAuth 2.0 apps or anything with its own admin screens fall in the custom web app plan from ${P.software}. The price moves with the number of systems involved, how unusual your accounting rules are, historical data you want imported, and volume. Running costs such as hosting and any Xero subscription sit in your own accounts. Maintenance is free for two months, then from ${P.care}.`,
   },
   guideLabel: "Xero integration developer guide for NZ businesses",
   guide: [
@@ -222,7 +222,7 @@ const content: FreelanceContent = {
         "Hosting preferences, such as an Australian or NZ cloud region",
       ],
       after: [
-        `Running costs are separate and sit in your accounts: hosting, any Custom Connection subscription Xero charges, and the other system's API plan if it has one. Maintenance is free for five months after launch, then from ${P.care} if you want us to keep watching it. See all plans on our <a href='/pricing/'>pricing page</a>.`,
+        `Running costs are separate and sit in your accounts: hosting, any Custom Connection subscription Xero charges, and the other system's API plan if it has one. Maintenance is free for two months after launch, then from ${P.care} if you want us to keep watching it. See all plans on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
       ["Mapping sheet", "A shared sheet of contacts, accounts, items, tax rates and tracking categories for you and your accountant to approve."],
       ["Demo Company build", "Built and tested against Xero's Demo Company, with logs and alerts working before any live data moves."],
       ["Parallel run", "Real source data processed alongside your usual process, compared line by line, and adjusted until it matches."],
-      ["Go live and monitor", "Switched to your organisation from an agreed start date, watched closely, and maintained free for five months."],
+      ["Go live and monitor", "Switched to your organisation from an agreed start date, watched closely, and maintained free for two months."],
     ],
   },
   faqHeading: "Xero integration developer: common questions",
@@ -430,7 +430,7 @@ const content: FreelanceContent = {
     { question: "Where will the integration be hosted?", answer: "In your own cloud account, usually as serverless functions with a queue and a small log table, which costs little to run. Many NZ businesses pick an Australian or New Zealand cloud region. If you already run a custom app or portal, the integration can live inside it instead." },
     { question: "Is it safe to let a developer in India access our Xero data?", answer: "Access is limited to what the build needs, granted by you and removed at handover. Tokens and secrets are stored encrypted, logs hold IDs rather than full customer details, and the integration runs in your own account. The Privacy Act 2020 still applies to your data, so confirm your set-up with your adviser." },
     { question: "How do we pay and communicate from New Zealand?", answer: "Quotes are in USD, paid by Wise, bank wire or PayPal at milestones in the written quote. We book calls in your afternoon, which is our morning, and reply on WhatsApp seven days a week. Invoices come from India; ask your accountant how to record them." },
-    { question: "Do you maintain Xero integrations after launch?", answer: `Yes. The first five months after go-live include free maintenance for fixes and small changes. After that, maintenance plans start from ${P.care}. Xero updates its API and policies from time to time, and the other system may change too, so having someone watch the logs is sensible.` },
+    { question: "Do you maintain Xero integrations after launch?", answer: `Yes. The first two months after go-live include free maintenance for fixes and small changes. After that, maintenance plans start from ${P.care}. Xero updates its API and policies from time to time, and the other system may change too, so having someone watch the logs is sensible.` },
     { question: "Can you take over a Xero integration another developer built?", answer: "Often yes, if you can give us the code, hosting access and the Xero app or Custom Connection details. We review how it handles limits, errors and tax mapping, move anything held in the old developer's name into yours, and then fix or rebuild depending on what we find." },
   ],
   related: {

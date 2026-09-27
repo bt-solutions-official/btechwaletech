@@ -56,7 +56,7 @@ const alipurduar: CityContent = {
     ai: "WhatsApp assistants that answer room, safari, fee and timing questions in Bengali, Hindi or English and hand bookings to you.",
     data: "Season dashboards of bookings, occupancy, orders and dues across Alipurduar's tourist and trading months.",
     app: "Android and iOS apps from ₹40,000 for resort guests, dealer re-orders or school notices, published on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Dooars businesses often work through long monsoon lulls and short, intense tourist seasons, so money has to be spent carefully. We publish starting prices, send itemised quotes in writing, reply on WhatsApp every day of the week, and keep your domain, hosting, code and store accounts in your own name.",
@@ -186,7 +186,7 @@ const alipurduar: CityContent = {
       heading: "Ownership and maintenance for Alipurduar websites and apps",
       paragraphs: [
         "Your domain, hosting, source code, Google Business Profile and app store developer accounts are registered in your name, and every login is handed over in writing. That protects you if you ever want to change developers.",
-        "After launch, five months of maintenance are free: security updates, backups, minor content changes and fixes. After that, plans start from ₹8,000 a month. Before each tourist season we can update rates, photos and availability notes so the site matches the new season.",
+        "After launch, two months of maintenance are free: security updates, backups, minor content changes and fixes. After that, plans start from ₹8,000 a month. Before each tourist season we can update rates, photos and availability notes so the site matches the new season.",
         "If you want to keep improving, our <a href=\"/services/web-development/\">web development service</a> and SEO work can continue monthly, but neither is compulsory and there is no lock-in.",
       ],
     },
@@ -274,7 +274,7 @@ const alipurduar: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months after launch are free, covering security updates, backups, small content edits and fixes. After that, maintenance starts from ₹8,000 a month. Seasonal businesses can ask for updates timed around the tourist months, and you are never tied to us.",
+        "The first two months after launch are free, covering security updates, backups, small content edits and fixes. After that, maintenance starts from ₹8,000 a month. Seasonal businesses can ask for updates timed around the tourist months, and you are never tied to us.",
     },
     {
       question: "Do you work in Jaigaon, Falakata and Jalpaiguri too?",

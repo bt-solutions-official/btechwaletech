@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Marketplace commission", "None: clients pay you, not a platform"],
     ["Time difference", "India is 2.5 hours behind Singapore"],
     ["Quote", "Itemised in USD in about 2 working days"],
-    ["Free care after launch", "5 months, then plans from " + P.care],
+    ["Free care after launch", "2 months, then plans from " + P.care],
   ],
   stats: [
     { value: "0", label: "Commission taken on your bookings by us" },
     { value: "3", label: "Freelance developers on your project" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "WhatsApp reminders and rebooking", note: `Automated confirmation, reminder and six-week rebooking nudges sent through WhatsApp, set up as automation from ${P.ai}.`, href: "/singapore/whatsapp-chatbot-development/", size: "md" },
       { name: "Local SEO for neighbourhood searches", note: `Location pages, Google Business Profile tidy-up and schema so “nail salon near me” searches in your estate can find you. Monthly SEO from ${P.seo}.`, href: "/singapore/ai-seo-services/", size: "sm" },
       { name: "Client app for larger chains", note: `A branded booking and loyalty app for multi-outlet groups, on Google Play and the App Store, from ${P.app}.`, href: "/singapore/mobile-app-development-services/", size: "sm" },
-      { name: "Care after launch", note: `Menu and price changes, booking plugin updates and backups. Five months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
+      { name: "Care after launch", note: `Menu and price changes, booking plugin updates and backups. Two months free, then from ${P.care}.`, href: "/singapore/website-maintenance/", size: "sm" },
     ],
   },
   comparison: {
@@ -283,7 +283,7 @@ const content: FreelanceContent = {
       heading: "Ownership, handover and red flags in beauty salon website design projects",
       paragraphs: [
         `Your salon should own the domain, hosting, booking data, client list and code from the first day. Be wary of any arrangement where a developer or platform registers these in its own name, because moving away later can mean losing your client history.`,
-        `At handover you receive every login, a short video walkthrough for updating prices and adding staff, and a document listing each third-party service with its renewal date. After launch, five months of maintenance are free; after that, care plans start at ${P.care} for updates, backups and small edits.`,
+        `At handover you receive every login, a short video walkthrough for updating prices and adding staff, and a document listing each third-party service with its renewal date. After launch, two months of maintenance are free; after that, care plans start at ${P.care} for updates, backups and small edits.`,
       ],
       list: [
         "Red flag: the domain or booking account is registered in the developer's name.",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
       ["Design on staging", "A mobile-first design with your photos and brand colours on a private link, reviewed on your own phone rather than on slides."],
       ["Booking and package build", "Calendar, deposits, credits and vouchers configured and tested with fake clients, including cancellations and expired packages."],
       ["Launch on a quiet morning", "Domain switched while your old booking method keeps running, then retired once new bookings are confirmed flowing in."],
-      ["Five months of free care", "Price updates, staff changes and fixes handled free for five months, then optional care plans from the monthly starting price."],
+      ["Two months of free care", "Price updates, staff changes and fixes handled free for two months, then optional care plans from the monthly starting price."],
     ],
   },
   faqHeading: "Beauty salon website design in Singapore: frequently asked questions",
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
     { question: "Do I need a separate website for each outlet?", answer: "Usually not. One website with a page per outlet, each with its own address, hours, staff and services, is easier to manage and stronger for search. The booking calendar lets clients choose the outlet first. Separate sites only make sense when outlets operate as clearly different brands." },
     { question: "Can you build a website for a massage spa or wellness centre?", answer: "Yes. The same booking, package and menu features apply to massage spas and wellness centres, with room scheduling for treatment beds and longer buffers. Your business remains responsible for any licences its services require; the website simply presents your services and takes bookings according to your rules." },
     { question: "How do I pay for a salon website built from India?", answer: "You receive an itemised quote in USD, and invoices come from India. Payment is by Wise or bank wire, split into milestones written into the quote before work starts. Nothing is billed until you approve the quote in writing. For how an overseas invoice is treated in your books, ask your accountant." },
-    { question: "What maintenance does a salon website need after launch?", answer: `Price and menu updates, staff changes, booking tool and plugin updates, security patches and backup checks. The first five months after launch are free; after that, care plans start at ${P.care}. Seasonal offers and new landing pages for campaigns can be added under a care plan or quoted separately.` },
+    { question: "What maintenance does a salon website need after launch?", answer: `Price and menu updates, staff changes, booking tool and plugin updates, security patches and backup checks. The first two months after launch are free; after that, care plans start at ${P.care}. Seasonal offers and new landing pages for campaigns can be added under a care plan or quoted separately.` },
     { question: "Can my salon website sell retail skincare products too?", answer: `Yes. Retail products can sit alongside packages and vouchers in the same shop, with stock levels, delivery or outlet pick-up, and card or wallet checkout. Stores with product catalogues start at ${P.shop}. If you only sell a handful of products, they can be added to a simpler booking site as well.` },
   ],
   related: {

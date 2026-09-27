@@ -39,12 +39,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, about 2 working days"],
     ["Enquiries go to", "Your WhatsApp, email or a Google Sheet"],
     ["Paid by", "UPI or bank transfer in India"],
-    ["Free care", "5 months after launch"],
+    ["Free care", "2 months after launch"],
   ],
   stats: [
     { value: "100", label: "Pages allowed in the starting website plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "3", label: "Freelancers who know your project" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Where enquiries land", value: "Your phone, inbox or a shared sheet" },
       { label: "Selling online", value: `Store from ${P.shop}, UPI and card checkout` },
       { label: "Running costs", value: "Domain, hosting and email billed to you directly" },
-      { label: "After launch", value: `5 months free, then care from ${P.care}` },
+      { label: "After launch", value: `2 months free, then care from ${P.care}` },
     ],
   },
   services: {
@@ -76,7 +76,7 @@ const content: FreelanceContent = {
       { name: "Simple CRM or lead tracker", note: `A shared place for every enquiry with status and follow-up date, when a sheet is no longer enough, from ${P.software}.`, href: "/freelance-crm-developer/", size: "md" },
       { name: "Billing or inventory tool", note: "Custom software for GST billing or stock when off-the-shelf tools do not fit how you work.", href: "/billing-software-developer/", size: "sm" },
       { name: "Redesign of an old site", note: "Keep what brings traffic, fix what loses enquiries, and redirect old addresses properly.", href: "/website-redesign-freelancer/", size: "sm" },
-      { name: "Monthly upkeep", note: `After five free months: backups, updates, small edits and a check that forms still deliver, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Monthly upkeep", note: `After two free months: backups, updates, small edits and a check that forms still deliver, from ${P.care}.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario, not a client story, to show how the budget, pages and lead capture fit together.`,
         `A two-person interior design studio in a tier-2 city gets most work through referrals and an old social media page. They want a steady flow of homeowners planning renovations, with a modest budget.`,
-        `We would propose the website plan from ${P.site}. Phase one pages: home, modular kitchens, wardrobes, full home interiors, office interiors, a projects page with eight real jobs and before-and-after photos taken on site, about the two designers, and contact. Lead capture: WhatsApp button prefilled with the page name, a callback request asking for flat size and possession date, and every submission landing in a shared sheet with an email alert. Tracking: form, call and chat events in analytics. After two months, the sheet shows kitchens bring half the enquiries, so the next step is two more kitchen pages covering specific styles and budgets and a FAQ built from real client questions. Free maintenance covers adding new project photos during the first five months.`,
+        `We would propose the website plan from ${P.site}. Phase one pages: home, modular kitchens, wardrobes, full home interiors, office interiors, a projects page with eight real jobs and before-and-after photos taken on site, about the two designers, and contact. Lead capture: WhatsApp button prefilled with the page name, a callback request asking for flat size and possession date, and every submission landing in a shared sheet with an email alert. Tracking: form, call and chat events in analytics. After two months, the sheet shows kitchens bring half the enquiries, so the next step is two more kitchen pages covering specific styles and budgets and a FAQ built from real client questions. Free maintenance covers adding new project photos during the first two months.`,
       ],
     },
     {
@@ -304,7 +304,7 @@ const content: FreelanceContent = {
         ["Online store", "Catalogue, cart, UPI and cards", `From ${P.shop}`, `From ${P.shopUsd}`, "When WhatsApp orders prove demand"],
         ["Automation", "WhatsApp replies, lead sorting", `From ${P.ai}`, `From ${P.aiUsd}`, "When enquiries outgrow your team"],
         ["CRM or custom tool", "Lead tracking, billing, stock", `From ${P.software}`, `From ${P.softwareUsd}`, "When a sheet is not enough"],
-        ["Care after 5 free months", "Backups, updates, edits", `From ${P.care}`, `From ${P.careUsd}`, "Month six onwards"],
+        ["Care after 2 free months", "Backups, updates, edits", `From ${P.care}`, `From ${P.careUsd}`, "Month three onwards"],
       ],
       hideSm: [3],
     },
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Agree the lead capture plan", "We decide together which contact routes appear on each page and where every enquiry lands: your WhatsApp, email, or a shared sheet."],
       ["Review the site on your phone", "Home page first on a staging link, then service pages. You check facts and wording; we handle speed, tracking and search setup."],
       ["Launch in your name", "The site goes live on your domain and hosting. You receive the code, logins, renewal dates and a note on reading your enquiry reports."],
-      ["Grow it for five months free", "New pages, photos and small fixes are free for five months. After that, care continues from " + P.care + " if you want it."],
+      ["Grow it for two months free", "New pages, photos and small fixes are free for two months. After that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "Freelance web developer for small business: questions owners ask",
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
     { question: "How can my website bring more enquiries?", answer: "Make contact effortless on a phone. Put a WhatsApp button with a prefilled message, a tap-to-call button and a short form on every service page, not just the contact page. Show real photos, your service area and response time near those buttons. Then make sure someone replies to every enquiry the same day." },
     { question: "Where do website enquiries go after someone fills the form?", answer: "Wherever you choose. For small teams we usually send each enquiry to email and into a shared Google Sheet with columns for date, name, phone, page, status and follow-up date. That works as a simple lead tracker. When volume grows, the next step is a small CRM or an automated WhatsApp follow-up." },
     { question: "How long does it take to build a small business website?", answer: "A small business website of up to 100 pages usually takes 1–2 weeks from agreed brief to launch. An online store takes 4–8 weeks and a search-heavy site with hundreds of pages takes 3–5 weeks. Having your photos, service descriptions and one decision-maker ready is the fastest way to stay on schedule." },
-    { question: "What running costs does a small business website have?", answer: `Expect a yearly domain renewal, hosting and, if you want it, business email. These are paid directly by you to the providers, so there is no markup. Optional costs include monthly SEO from ${P.seo} and maintenance from ${P.care} after the five free months. A static site keeps hosting costs low.` },
+    { question: "What running costs does a small business website have?", answer: `Expect a yearly domain renewal, hosting and, if you want it, business email. These are paid directly by you to the providers, so there is no markup. Optional costs include monthly SEO from ${P.seo} and maintenance from ${P.care} after the two free months. A static site keeps hosting costs low.` },
     { question: "Do I need to write the website content myself?", answer: "You provide the knowledge; the writing can be shared. A short call where you describe each service gives us enough to draft pages for your approval, priced as a separate line. Writing it yourself lowers the quote. Either way, real photos of your work and accurate details matter more than polished language." },
     { question: "Can a small business website work without an online store?", answer: `Yes, and most do. A service business, workshop or B2B supplier often gets more value from clear service pages and WhatsApp enquiries than from a checkout. If you sell products you can ship and orders already come in by WhatsApp, an online store from ${P.shop} is a sensible next step.` },
     { question: "How do I know if the website is actually working?", answer: "Track enquiries, not only visitors. We set up analytics events for form submissions, WhatsApp clicks and call clicks, plus Google Search Console for search data. Also ask each new customer how they found you and record it in your lead sheet. Review the numbers monthly and grow the pages that bring the most enquiries." },
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
     { question: "What if my freelance web developer stops responding?", answer: "If the domain, hosting and code are in your name, another developer can take over quickly, which is why ownership should be settled at the start. With BtechWaleTech, three developers share each project and its notes, so one person being away does not stop your changes or lock you out." },
     { question: "Can the same developer build an app or automation later?", answer: `Yes. BtechWaleTech builds Android and iOS apps from ${P.app}, custom tools such as a CRM or billing software from ${P.software}, and WhatsApp or AI automation from ${P.ai}. Most small businesses should wait until the website and lead sheet show a clear need before adding any of these.` },
     { question: "Should I sign a contract with a freelance web developer?", answer: "Yes, even a detailed email both sides confirm is enough for most small business sites. It should list pages, features, timeline, payment stages, who owns the domain, hosting and code, and what happens after launch. If you share confidential business information, ask about an NDA and agree its terms in the written quote." },
-    { question: "Chhote business ke liye website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath chhote business ki website ${P.site} se shuru hoti hai, 100 pages tak, aur 1–2 hafte mein live ho jaati hai. Online store ${P.shop} se shuru hota hai. Domain aur hosting ka kharcha aap seedha provider ko dete hain. Quote pehle itemised milta hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Chhote business ke liye website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath chhote business ki website ${P.site} se shuru hoti hai, 100 pages tak, aur 1–2 hafte mein live ho jaati hai. Online store ${P.shop} se shuru hota hai. Domain aur hosting ka kharcha aap seedha provider ko dete hain. Quote pehle itemised milta hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "Is a cheap website builder enough for my small business?", answer: "A DIY builder can work for a very simple online presence if you have time to set it up and maintain it. The trade-offs are monthly fees, generic layouts, weaker lead capture and a site tied to that platform. When enquiries are the goal and you want to own the site, a developer-built site usually pays back sooner." },
   ],
   related: {
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Small business owner? Tell us how customers find you today",
-    note: `Send us a WhatsApp message about your business and the enquiries you want. You get an itemised quote in about two working days, websites from ${P.site}, every account in your name and five months of free maintenance.`,
+    note: `Send us a WhatsApp message about your business and the enquiries you want. You get an itemised quote in about two working days, websites from ${P.site}, every account in your name and two months of free maintenance.`,
   },
 };
 

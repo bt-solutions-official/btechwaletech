@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Platform advice", "Free, inside your itemised quote"],
     ["Licences and apps", "Billed to you by Shopware or Shopify, never by us"],
     ["Quote currency", "USD · pay in USD or EUR by Wise or wire"],
-    ["Care after launch", `5 months free, then from ${P.care}`],
+    ["Care after launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "2", label: "Platforms we build on, so no bias toward either" },
     { value: "3", label: "Freelance developers on your project" },
     { value: "2", label: "Working days to a quote with both options" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Shopware vs Shopify: which should a German merchant choose?",
@@ -280,7 +280,7 @@ const content: FreelanceContent = {
         `This is a hypothetical scenario to show the reasoning, not a client story.`,
         `Say a Hamburg tea importer sells about 400 teas to consumers online and supplies 150 cafés and delicatessens by phone and email. The owners want one system for both. Cafés need their own prices, minimum order quantities per tin size and payment on invoice with 30-day terms. Two people run marketing; nobody codes.`,
         `On the Shopify side, companies, net payment terms and up to three catalogues cover a lot, but 150 cafés with individually negotiated prices would push them toward Plus for company-specific catalogues. On the Shopware side, Community Edition with customer groups, advanced prices and one small plugin for minimum quantities covers the trade rules, with hosting in Germany, but the owners would need a maintenance plan because nobody in-house can update the shop.`,
-        `Our quote would show both routes: a shop from ${P.shop} on either platform, the Shopware minimum-quantity plugin as its own line, the recurring third-party costs for each option over five years, and maintenance from ${P.care} after the five free months. The owners then decide with the numbers in front of them.`,
+        `Our quote would show both routes: a shop from ${P.shop} on either platform, the Shopware minimum-quantity plugin as its own line, the recurring third-party costs for each option over five years, and maintenance from ${P.care} after the two free months. The owners then decide with the numbers in front of them.`,
       ],
     },
     {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
         ["Content hub next to the shop", `From ${P.seoSite}`, `From ${P.seoSite}`, "3–5 weeks"],
         ["AI product assistant or order bot", `From ${P.ai}`, `From ${P.ai}`, "2–4 weeks"],
         ["Monthly shop SEO", `From ${P.seo}`, `From ${P.seo}`, "Ongoing"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.care}`, "Ongoing"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.care}`, "Ongoing"],
       ],
       hideSm: [3],
     },
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
       ["Decide and open accounts", "You choose the platform, then open the plan, hosting, domain and payment contracts in your company’s name and invite us as users."],
       ["Staging build", "We import products, build the theme and set up checkout and integrations on a staging shop you can test on any device, with updates each German morning."],
       ["German checkout testing", "Order button wording, withdrawal function, legal pages, consent banner, unit prices and every payment method are tested with you before launch."],
-      ["Launch and five months of care", `We go live, watch the first orders, hand over code, logins and notes, and maintain the shop free for five months, then from ${P.care}.`],
+      ["Launch and two months of care", `We go live, watch the first orders, hand over code, logins and notes, and maintain the shop free for two months, then from ${P.care}.`],
     ],
   },
   faqHeading: "Shopware vs Shopify: questions German merchants ask",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "How hard is it to migrate from Shopify to Shopware?", answer: "It is a medium-sized project. Products, customers and orders transfer, but the theme is rebuilt, each Shopify app is replaced by an extension or plugin, and every old URL needs a redirect. Customers set new passwords after the move. A typical migration on our side starts at the same level as a new shop and runs 4–8 weeks." },
     { question: "How hard is it to migrate from Shopware to Shopify?", answer: "The data move is manageable; the real work is deciding what happens to each custom plugin. Some become existing apps, some become Shopify Functions or a small custom app, and some features get dropped. B2B price lists and SEO URLs need the most care, because Shopify’s catalogue limits and fixed URL paths differ from Shopware’s." },
     { question: "Is Shopware or Shopify better for SEO?", answer: "Both can rank well, and nobody can guarantee rankings on either. Shopware gives more control over URL patterns and structured data; Shopify is quicker to set up correctly but has fixed URL prefixes. Content quality, speed and a careful redirect plan during any platform change matter more than the platform itself." },
-    { question: "Do I need a developer to run Shopware?", answer: "For routine content, products and promotions, no; the admin handles those. For updates, plugins, hosting and template changes, yes. That is why Shopware merchants usually have an in-house developer or a maintenance plan. With us, maintenance is free for five months after launch and then available from a starting monthly price." },
+    { question: "Do I need a developer to run Shopware?", answer: "For routine content, products and promotions, no; the admin handles those. For updates, plugins, hosting and template changes, yes. That is why Shopware merchants usually have an in-house developer or a maintenance plan. With us, maintenance is free for two months after launch and then available from a starting monthly price." },
     { question: "Can one developer team build on both Shopware and Shopify?", answer: "Yes. Shopware 6 needs PHP, Symfony, Twig and Vue.js skills; Shopify needs Liquid, JavaScript and its app APIs. Our three developers work across both, which is why we can compare them without favouring either. What we do not offer is Shopware partner status or Shopify agency tiers." },
     { question: "Which platform is better for selling in several EU countries?", answer: "Shopify handles currencies, languages and domains centrally through Markets, which suits consumer brands expanding quickly. Shopware handles them through sales channels, giving more control per country but more setup. For DACH-only shops the difference is small; for many markets with different price logic, map the requirements first." },
     { question: "What about Shopify Plus vs Shopware Evolve for larger merchants?", answer: "Both target larger merchants with B2B needs. Shopify Plus adds unlimited and company-specific catalogues, deposits and partial payments; Shopware Evolve adds the B2B Components and advanced search, with Beyond adding customer-specific pricing and multi-inventory. Both are priced by the vendors, so request their current offers and compare with your requirements list." },
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Still torn between Shopware and Shopify? Get both options priced",
-    note: `Send your shop URL or a short brief on WhatsApp. Within about two working days you get an itemised quote with a Shopware route and a Shopify route, shops from ${P.shop}, all accounts in your name and five months of free maintenance.`,
+    note: `Send your shop URL or a short brief on WhatsApp. Within about two working days you get an itemised quote with a Shopware route and a Shopify route, shops from ${P.shop}, all accounts in your name and two months of free maintenance.`,
   },
 };
 

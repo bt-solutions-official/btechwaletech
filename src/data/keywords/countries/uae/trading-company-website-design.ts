@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Enquiry types", "RFQ basket, single-product form, WhatsApp"],
     ["Buyer content", "Specs, datasheets, MOQ, packing, Incoterms"],
     ["Languages", "English plus Arabic, French or Russian you supply"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your project" },
     { value: "100", label: "Pages included in the static plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a UAE trading company website design need to win B2B enquiries?",
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "B2B product SEO", note: `Product and category pages written around the exact part numbers, grades and specs buyers search. SEO catalogues from ${P.seoSite}.`, href: "/uae/technical-seo-services/", size: "md" },
       { name: "Arabic and other language versions", note: "Right-to-left Arabic or French and Russian versions, with translated copy you supply or approve.", href: "/uae/arabic-website-design/", size: "sm" },
       { name: "Stock and price-list tools", note: `Private price lists for approved buyers, or live stock from your system. Custom tools from ${P.software}.`, href: "/uae/erp-software-development/", size: "sm" },
-      { name: "Hosting, care and updates", note: `Product uploads, security updates and backups after the five free months, from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
+      { name: "Hosting, care and updates", note: `Product uploads, security updates and backups after the two free months, from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -469,7 +469,7 @@ const content: FreelanceContent = {
     { question: "What trust signals should a UAE trading company show online?", answer: "Show your legal name, trade licence number and issuing authority, a real UAE address, named contacts, genuine warehouse and stock photos, and certificates you currently hold. Avoid free email addresses, invented badges and client logos you have no permission to use. Verifiable details persuade buyers far more than slogans." },
     { question: "Does my website need to follow UAE data protection law?", answer: "If it collects personal data through forms, the UAE Personal Data Protection Law, Federal Decree-Law No. 45 of 2021, is relevant. We build short forms, consent wording, a privacy notice you approve and cookie controls, and keep enquiry data in your own systems. Your lawyer should confirm the final wording." },
     { question: "Can buyers order and pay online?", answer: `Yes, for standard items with stable prices, typically sold to GCC trade buyers. We build a cart with card or wallet checkout through your chosen payment provider, starting from ${P.shop}. For bulk export deals where price depends on quantity and freight, an RFQ usually works better than a cart.` },
-    { question: "What happens after the five months of free maintenance?", answer: `You can take the site in-house, move to another developer, or continue with us from ${P.care} for updates, backups, security patches and product uploads. Nothing renews automatically; any ongoing work is agreed in writing, and our terms page covers the general conditions.` },
+    { question: "What happens after the two months of free maintenance?", answer: `You can take the site in-house, move to another developer, or continue with us from ${P.care} for updates, backups, security patches and product uploads. Nothing renews automatically; any ongoing work is agreed in writing, and our terms page covers the general conditions.` },
     { question: "How do payments and contracts work from the UAE?", answer: "You receive an itemised quote in USD, and nothing is billed before you approve it in writing. Payments go by Wise, bank wire or PayPal against the milestones in your quote, and invoices are issued from India. Specific contract terms, including any NDA, are agreed in your written quote." },
     { question: "Can you connect the website to our CRM or ERP?", answer: "Yes. RFQs can create leads in your CRM with the product list attached, and product data can sync from an ERP or inventory system. We check what your system allows through its API or exports during the first call, then quote the integration as its own line." },
     { question: "Will AI search tools like ChatGPT mention my trading company?", answer: "No one can promise it, but clear trading company website design helps. AI answers tend to draw on pages that state facts plainly, so we give each product and market page a one-sentence summary, a spec table and short FAQs, and keep your business details consistent across the web." },

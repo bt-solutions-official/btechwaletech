@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers: build, data and project management" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Before-and-after photos in the advertising copy we write" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Rules we build around", value: "Healthcare Services (Advertisement) Regulations and MOH FAQs" },
       { label: "Booking options", value: "Appointment request, live queue link or full booking system" },
       { label: "Data approach", value: "Minimum details, clear notice, access limited to clinic staff" },
-      { label: "After launch", value: `Five months of free maintenance, then care from ${P.care}` },
+      { label: "After launch", value: `Two months of free maintenance, then care from ${P.care}` },
     ],
   },
   services: {
@@ -265,7 +265,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Your clinic owns the domain, hosting, code, content, analytics and any booking data. We work in accounts registered to the clinic and remove our access at handover unless you keep us on for maintenance.`,
         `The handover includes a short recorded guide on updating hours, adding or removing a doctor, editing a service page, changing fees and posting a public-holiday notice. Public-holiday hours are the update clinics forget most, and they generate the angriest phone calls, so we make that edit a two-minute job.`,
-        `Maintenance is free for five months after launch, covering fixes and small changes. After that, care starts from ${P.care}, or your staff can manage the site. We also suggest a yearly review of all advertising wording against the latest MOH FAQs, since they are updated from time to time. Anything beyond this is agreed in your written quote and our <a href='/terms/'>terms</a>.`,
+        `Maintenance is free for two months after launch, covering fixes and small changes. After that, care starts from ${P.care}, or your staff can manage the site. We also suggest a yearly review of all advertising wording against the latest MOH FAQs, since they are updated from time to time. Anything beyond this is agreed in your written quote and our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -347,7 +347,7 @@ const content: FreelanceContent = {
         ["WhatsApp appointment reminders", P.ai, "2–4 weeks"],
         ["Custom booking or queue system", P.software, "6–12 weeks"],
         ["Patient app on Android and iOS", P.app, "6–10 weeks"],
-        ["Care after five free months", P.care, "Monthly"],
+        ["Care after two free months", P.care, "Monthly"],
       ],
     },
   ],
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Factual draft on preview", "We draft doctor, service and location pages in factual language on a private preview, flagging anything that needs substantiation."],
       ["Doctor and adviser review", "Your doctors check medical content and advertising wording; your adviser reviews anything uncertain. We revise until you approve."],
       ["Booking and listings", "Booking or queue links are connected, Google Business Profile updates are guided, and Search Console and analytics are set up."],
-      ["Launch and handover", "The site goes live on your domain, you receive a recorded editing guide, and maintenance is free for five months after launch."],
+      ["Launch and handover", "The site goes live on your domain, you receive a recorded editing guide, and maintenance is free for two months after launch."],
     ],
   },
   faqHeading: "Clinic website design in Singapore: common questions",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Is a remote team in India suitable for a Singapore clinic website?", answer: "Yes for the website itself. India is two and a half hours behind Singapore, so our days overlap almost completely. Everything happens through a shared folder, a preview link and short video calls. We do not visit premises, take photographs or give legal advice." },
     { question: "Who owns the clinic website and booking data?", answer: "Your clinic does. The domain, hosting, code, content, analytics and any booking data sit in accounts registered to the clinic. At handover you receive a recorded editing guide, and we remove our access unless you keep us on for maintenance." },
     { question: "How do we pay for the website from Singapore?", answer: "Quotes and invoices are in USD and issued from India. You can pay by Wise, which is simple from an SGD balance, by international bank wire or by PayPal, following the schedule in your quote. Nothing is billed before you approve the quote in writing. Your accountant can advise on recording it." },
-    { question: "What happens after the clinic website launches?", answer: `Maintenance is free for five months after launch, covering fixes and small changes. After that, optional care starts from ${P.care}. We also recommend a yearly review of the site's wording against the latest MOH FAQs, and updating public-holiday hours well before each holiday.` },
+    { question: "What happens after the clinic website launches?", answer: `Maintenance is free for two months after launch, covering fixes and small changes. After that, optional care starts from ${P.care}. We also recommend a yearly review of the site's wording against the latest MOH FAQs, and updating public-holiday hours well before each holiday.` },
   ],
   related: {
     heading: "Related Singapore pages",

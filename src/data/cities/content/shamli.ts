@@ -56,7 +56,7 @@ const shamli: CityContent = {
     ai: "WhatsApp assistants that share axle size charts, gur rates or clinic timings in Hindi and log every enquiry automatically.",
     data: "Dashboards of orders, dispatches and dues by dealer, fed from Tally exports or daily factory entries.",
     app: "Android and iOS dealer ordering and field-sales apps for Shamli manufacturers, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Backups, security fixes, rate and catalogue updates, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, security fixes, rate and catalogue updates, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Shamli's factory owners and traders deal in thin margins and firm handshakes. We publish our starting prices, break every quote into items, reply on WhatsApp seven days a week and register the domain, hosting and code to you. If something you ask for will not pay back its cost, we tell you plainly.",
@@ -144,7 +144,7 @@ const shamli: CityContent = {
         "<strong>WhatsApp and AI automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> from ₹50,000, four to eight weeks.",
         "<strong>Factory or trading software:</strong> starts at ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000 and maintenance from ₹8,000 a month</strong> after five months free.",
+        "<strong>Monthly SEO from ₹10,000 and maintenance from ₹8,000 a month</strong> after two months free.",
       ],
     },
     {
@@ -197,7 +197,7 @@ const shamli: CityContent = {
       heading: "What stays in your name, and how we look after it",
       paragraphs: [
         "Your domain is registered in your name, hosting is set up in your account, and at launch you get the complete code and every password. Apps are published in your own Google Play and App Store accounts. If you later move to a developer in Meerut, Delhi or anywhere else, you can do so without our consent and without any release fee.",
-        "Maintenance is free for the first five months: security updates, backups, uptime checks and small changes such as new product sizes, revised rates or festival banners. After that it costs from ₹8,000 a month and can be stopped whenever you like. We can also train your staff to update prices and photos themselves.",
+        "Maintenance is free for the first two months: security updates, backups, uptime checks and small changes such as new product sizes, revised rates or festival banners. After that it costs from ₹8,000 a month and can be stopped whenever you like. We can also train your staff to update prices and photos themselves.",
         "Factory data in your software stays in your account and can be exported to Excel at any time. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
     },
@@ -290,7 +290,7 @@ const shamli: CityContent = {
     {
       question: "What does maintenance cost after the website is live?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, monitoring and small edits like new sizes, rates or photos. After that it is from ₹8,000 a month and can be cancelled at any time. We can also show your staff how to make simple changes themselves.",
+        "Maintenance is free for two months after launch and covers updates, backups, monitoring and small edits like new sizes, rates or photos. After that it is from ₹8,000 a month and can be cancelled at any time. We can also show your staff how to make simple changes themselves.",
     },
     {
       question: "Can you guarantee first rank on Google in Shamli?",

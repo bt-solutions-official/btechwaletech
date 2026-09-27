@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Built with", "Flutter or React Native"],
     ["Store account", "Google Play Console in your name"],
     ["Test devices", "Entry-level and mid-range Android"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app’s code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after release" },
+    { value: "2", label: "Months of free fixes after release" },
     { value: "0", label: "Platform or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Phones we target", value: "Entry-level and mid-range Android, older OS versions" },
       { label: "Language", value: "English plus Hindi or a regional language if needed" },
       { label: "Payments in app", value: "UPI and cards via a standard checkout" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["If the developer is unavailable", "Work stops", "Someone is reassigned", "Two teammates already know the code"],
       ["Admin panel and website", "Often a separate hire", "Available, separately billed", "Same three people"],
       ["Hindi or regional language UI", "Case by case", "Available", "Built with proper string files from the start"],
-      ["After the first release", "Paid per fix", "Annual contract", `5 months free, then from ${P.care}`],
+      ["After the first release", "Paid per fix", "Annual contract", `2 months free, then from ${P.care}`],
     ],
     fine: "If you need someone to sit in your shop, install apps on staff phones by hand or repair hardware, a developer in your own city will serve you better than any remote team.",
   },
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
       heading: "Android developer near me chahiye? Seedhi baat Hinglish mein",
       paragraphs: [
         `Paas wala developer tabhi zaroori hai jab kisi ko aapki dukaan par aakar phones ya printer set karne hon. App banana, test karna aur Play Store par daalna remote bhi utna hi achha hota hai. Test app aapke phone par Play Store ke through aata hai, aur baat WhatsApp par hoti hai.`,
-        `Sabse zaroori baat: Play Console account aur code aapke naam par ho. App chhota ho, sasta phone par chale aur kam data khaaye. Hamare saath Android app ${P.app} se shuru hota hai, 6–10 hafte lagte hain, aur release ke baad 5 mahine maintenance free milta hai.`,
+        `Sabse zaroori baat: Play Console account aur code aapke naam par ho. App chhota ho, sasta phone par chale aur kam data khaaye. Hamare saath Android app ${P.app} se shuru hota hai, 6–10 hafte lagte hain, aur release ke baad 2 mahine maintenance free milta hai.`,
       ],
     },
   ],
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
         ["Booking and appointment app", `From ${P.app}`, `From ${P.appUsd}`, "6–8 weeks", "Multiple branches, staff calendars"],
         ["Field staff app with offline sync", `From ${P.app}`, `From ${P.appUsd}`, "8–10 weeks", "Photo uploads, GPS logs, conflict handling"],
         ["Large admin panel alongside the app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Reports, roles, integrations"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Frequent feature requests"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Frequent feature requests"],
       ],
       hideSm: [2],
     },
@@ -370,7 +370,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "We walk you through Google Play Console, a code repository and the server account on a screen-share, then you add us as users."],
       ["Install weekly test builds", "Internal testing builds arrive on your phone through Google Play. You try them in your shop or office and send screenshots or recordings of anything odd."],
       ["Closed test and store listing", "Your staff and friendly customers test the near-final app while we prepare the listing, Data safety form and privacy policy for review."],
-      ["Release and five months of care", `After release we watch Android Vitals, fix issues and handle small changes free for five months. Later support starts at ${P.care}, only if you want it.`],
+      ["Release and two months of care", `After release we watch Android Vitals, fix issues and handle small changes free for two months. Later support starts at ${P.care}, only if you want it.`],
     ],
   },
   faqHeading: "Android developer near me: common questions",
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "Can the app take UPI payments?", answer: "Yes. Customer apps can accept UPI and cards through a standard checkout integration, with order confirmation shown in the app and sent by notification. For many small businesses we also keep cash on delivery or pay-at-store options, and add a WhatsApp link for customers who prefer to confirm orders by message." },
     { question: "Can my Android app be in Hindi or a regional language?", answer: "Yes. We keep all text in string files from the first build so Hindi, Marathi, Tamil, Telugu, Bengali, Gujarati or another language can be added cleanly. Layouts are tested with longer words, and numbers, dates and rupee amounts use Indian formats. Adding a language after launch is possible but takes longer than planning it upfront." },
     { question: "Will an Android developer near me visit my shop, and do you?", answer: "No. BtechWaleTech is three freelance developers who work remotely, so we do not make on-site visits or set up hardware in person. Design reviews happen on video calls, test builds arrive through Google Play and support runs on WhatsApp seven days a week. If in-person setup is essential, a local technician can handle that part." },
-    { question: "What does an Android developer near me do after the app is live?", answer: `We watch crash reports and Android Vitals, fix bugs, handle Google’s yearly target API updates and make small changes free for five months after release. After that, maintenance is optional and starts at ${P.care}. You can also move the app to another developer, because the code and accounts are already yours.` },
+    { question: "What does an Android developer near me do after the app is live?", answer: `We watch crash reports and Android Vitals, fix bugs, handle Google’s yearly target API updates and make small changes free for two months after release. After that, maintenance is optional and starts at ${P.care}. You can also move the app to another developer, because the code and accounts are already yours.` },
     { question: "Can you fix or update an Android app another developer built?", answer: "Usually, yes. First we check whether you can access the Play Console, source code and server. If access is missing, we help you recover what can be recovered. Then we audit the code, fix whatever blocks the next release, often an outdated target API level or crashing screens, and hand the project back into your control." },
     { question: "Do I also need a website or admin panel?", answer: `Most business apps need an admin panel so the owner can update products, prices and orders. Small panels are included in app quotes; larger ones with reports and integrations follow the custom software plan from ${P.software}. A basic website is also useful for the Play Store privacy policy link and for customers who never install apps.` },
     { question: "How do I pay a remote Android developer in India?", answer: "With BtechWaleTech, payments within India go by UPI or bank transfer, split into stages linked to builds you can install. International clients pay by Wise, bank wire or PayPal. Nothing is billed until you approve a written, itemised quote, and you never pay for a stage you have not seen working on your own phone." },
@@ -415,7 +415,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need an Android app your customers will actually keep?",
-    note: `Message us on WhatsApp with what your customers or staff need and which phones they use. You get an itemised quote in about two working days, apps start at ${P.app}, every account stays in your name and the first five months of maintenance are free.`,
+    note: `Message us on WhatsApp with what your customers or staff need and which phones they use. You get an itemised quote in about two working days, apps start at ${P.app}, every account stays in your name and the first two months of maintenance are free.`,
   },
 };
 

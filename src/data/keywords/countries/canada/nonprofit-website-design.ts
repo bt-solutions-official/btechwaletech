@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Build time", "1–2 weeks core, 3–5 weeks larger"],
     ["Donations", "Through the platform you choose"],
     ["Accessibility", "Built to WCAG 2.0 AA"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support it" },
     { value: "2", label: "Working days to an itemised USD quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Cut of donations taken by us" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Consent", value: "Separate unticked newsletter box, consent records kept" },
       { label: "Price", value: `From ${P.site}; larger program sites from ${P.seoSite}` },
       { label: "Paying from Canada", value: "USD quote; Wise, wire or PayPal" },
-      { label: "Upkeep", value: `5 months free, then care from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then care from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["Accessibility", "Rarely tested", "Template-dependent", "Built and checked to WCAG 2.0 AA"],
       ["French pages", "If someone has time", "Plugins or duplicate sites", "Proper page sets with a language switch"],
       ["When the builder leaves", "Logins may leave too", "Account owner matters", "Every login in your charity's name, handover notes provided"],
-      ["Ongoing cost", "Volunteer time", "Monthly subscription", `Optional care from ${P.care} after 5 free months`],
+      ["Ongoing cost", "Volunteer time", "Monthly subscription", `Optional care from ${P.care} after 2 free months`],
     ],
     fine: "If a capable volunteer maintains your current site well, keep them; we are useful when the site has become a risk or a bottleneck.",
   },
@@ -131,7 +131,7 @@ const content: FreelanceContent = {
         { heading: "Level three: tools for members or clients", text: `Member directories, program intake systems or volunteer scheduling built as custom software from ${P.software}.` },
       ],
       after: [
-        `Most charities should start at level one and grow. Hosting for a lean site is modest, and after five free months, care starts at ${P.care} if you want us to keep things updated. Many small groups manage edits themselves after training.`,
+        `Most charities should start at level one and grow. Hosting for a lean site is modest, and after two free months, care starts at ${P.care} if you want us to keep things updated. Many small groups manage edits themselves after training.`,
       ],
     },
     {
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Charity shop", "Merchandise or fundraising products", "Online store with card and wallet checkout", `${P.shop}`],
         ["Supporter assistant", "Busy small office", "Answers FAQs from your own pages", `${P.ai}`],
         ["Custom member or volunteer tool", "Outgrown spreadsheets", "Directory, intake or scheduling", `${P.software}`],
-        ["Care plan", "After 5 free months", "Updates, fixes, accessibility checks", `${P.care}`],
+        ["Care plan", "After 2 free months", "Updates, fixes, accessibility checks", `${P.care}`],
       ],
     },
   ],
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
     { question: "Will our charity website rank on Google?", answer: `No one can guarantee rankings. We build clear program and location pages, nonprofit schema, event markup, fast mobile pages and a Search Console setup so you can see what people search. Monthly SEO from ${P.seo} is optional if you want ongoing help with content and fixes.` },
     { question: "Can AI help a small charity office?", answer: `A small assistant that answers common supporter questions, such as receipts, volunteering and event details, from your own pages can save staff time. It starts at ${P.ai}. It does not give tax advice, handle personal cases or make promises, and it hands anything sensitive to a person.` },
     { question: "Can you redesign our existing charity website?", answer: "Yes. We review what works, keep pages that earn traffic, map old URLs to new ones with redirects, and rebuild the donate journey and forms properly. Existing donation platform links and embeds are tested again before launch so no gifts are lost in the switch." },
-    { question: "What maintenance does a nonprofit website need?", answer: `Software updates, form and donate page tests, accessibility checks on new content, and occasional new pages. The first five months after launch are free. Afterwards, care from ${P.care} is optional, and many small charities handle routine edits themselves using the handover guide.` },
+    { question: "What maintenance does a nonprofit website need?", answer: `Software updates, form and donate page tests, accessibility checks on new content, and occasional new pages. The first two months after launch are free. Afterwards, care from ${P.care} is optional, and many small charities handle routine edits themselves using the handover guide.` },
     { question: "Do you write the content or take photos?", answer: "Your team supplies the facts, stories and photos, because they must be true and consented. We structure pages, edit English text for clarity and web readability, and optimise images. We do not visit your programs, write French copy or invent statistics or testimonials." },
   ],
   related: {

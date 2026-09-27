@@ -42,7 +42,7 @@ const content: FreelanceContent = {
     { value: "8", label: "Scheduled refreshes a day on Power BI shared capacity" },
     { value: "48", label: "Daily refresh slots on Premium, PPU or Fabric capacity" },
     { value: "3", label: "Freelance developers, one leading data work" },
-    { value: "5", label: "Months of free maintenance after handover" },
+    { value: "2", label: "Months of free maintenance after handover" },
   ],
   answer: {
     heading: "How can a UK SME get Power BI dashboards without hiring a data analyst?",
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Deliverables", value: "Data model, 3 to 8 report pages, refresh schedule, documentation" },
       { label: "Audience", value: "Directors, finance lead, sales and operations managers" },
       { label: "Hosting", value: "Your Power BI tenant or Google account; nothing held by us" },
-      { label: "Support", value: "Five months free after handover, then optional monthly care" },
+      { label: "Support", value: "Two months free after handover, then optional monthly care" },
       { label: "Price", value: `Data builds from ${P.ai}; custom web dashboards from ${P.software}` },
     ],
   },
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a Power BI consultant in the UK costs with us",
-    note: `Dashboard and data builds start from ${P.ai}. Your quote depends mainly on the number and messiness of sources: one clean Xero organisation is quick, while Sage 50 on an office PC plus three Shopify stores and a stock spreadsheet maintained by hand takes longer. The number of report pages, row-level security roles, whether a gateway is needed and how much reconciliation your finance lead wants all move the figure. If a custom web dashboard makes more sense than Power BI licences for many viewers, that starts from ${P.software}. Microsoft or Google licences are billed to you directly, and maintenance is free for five months, then from ${P.care}.`,
+    note: `Dashboard and data builds start from ${P.ai}. Your quote depends mainly on the number and messiness of sources: one clean Xero organisation is quick, while Sage 50 on an office PC plus three Shopify stores and a stock spreadsheet maintained by hand takes longer. The number of report pages, row-level security roles, whether a gateway is needed and how much reconciliation your finance lead wants all move the figure. If a custom web dashboard makes more sense than Power BI licences for many viewers, that starts from ${P.software}. Microsoft or Google licences are billed to you directly, and maintenance is free for two months, then from ${P.care}.`,
   },
   guideLabel: "Power BI consultant UK guide",
   guide: [
@@ -223,7 +223,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does a Power BI consultant cost in the UK?",
       paragraphs: [
-        `Quotes vary widely, mostly because of how many sources are involved and how clean they are. With BtechWaleTech, dashboard and data builds start from ${P.ai}, a custom web dashboard starts from ${P.software}, and ongoing care starts from ${P.care} after five free months.`,
+        `Quotes vary widely, mostly because of how many sources are involved and how clean they are. With BtechWaleTech, dashboard and data builds start from ${P.ai}, a custom web dashboard starts from ${P.software}, and ongoing care starts from ${P.care} after two free months.`,
         `When comparing a Power BI consultant UK quote with ours, compare deliverables rather than day rates. Ask how many sources, how many report pages, whether reconciliation to your accounts is included, whether gateway setup and refresh monitoring are included, what documentation you get and how much training. A cheap quote that stops at “connected to Xero” leaves you to discover that VAT, credit notes and multi-currency invoices are not handled.`,
         `The biggest cost driver is data quality. If product codes differ between Shopify and your stock spreadsheet, or customers appear under three spellings in Sage, somebody has to map them. We price that honestly in the quote after a quick look at your data, rather than discovering it halfway through.`,
         `Licences sit outside our quote. Power BI Pro or capacity is billed by Microsoft, Looker Studio has no licence cost for standard use, and any cloud database for API pulls is billed to your own Azure, AWS or Google account.`,
@@ -234,7 +234,7 @@ const content: FreelanceContent = {
       heading: "One-off Power BI build or monthly support: which suits a UK SME?",
       paragraphs: [
         `Choose a one-off build when your questions are stable and your sources rarely change. Add monthly support when you expect new reports, new sources or staff who will lean on someone for changes and explanations.`,
-        `A one-off build ends with a documented model, trained users and five months of free maintenance to catch problems like a changed column name or an expired connection. Many SMEs never need more. After that, maintenance from ${P.care} covers refresh monitoring, fixes when a source changes its API, and small tweaks.`,
+        `A one-off build ends with a documented model, trained users and two months of free maintenance to catch problems like a changed column name or an expired connection. Many SMEs never need more. After that, maintenance from ${P.care} covers refresh monitoring, fixes when a source changes its API, and small tweaks.`,
         `Monthly support suits businesses whose needs keep moving: a new branch, a second Shopify store, a lender asking for a covenant report, a director wanting a new cut of the numbers each quarter. It is agreed in your written quote, with the scope stated clearly, so you know what is included and what is quoted separately.`,
       ],
       subs: [
@@ -412,13 +412,13 @@ const content: FreelanceContent = {
       ["Connect and check the data", "Access granted in your tenant, sources connected, sample data reviewed and quality issues raised with real examples before modelling."],
       ["Model and reconcile", "Date table built to your year end, measures defined with your finance lead, and monthly totals reconciled and signed off."],
       ["Design, refresh and test", "Report pages built for each audience, scheduled refresh and gateway configured, alerts set, and pages tested on desktop and phone."],
-      ["Hand over and support", "Documentation, training for two staff, five months of free maintenance, then optional monthly care from the maintenance price."],
+      ["Hand over and support", "Documentation, training for two staff, two months of free maintenance, then optional monthly care from the maintenance price."],
     ],
   },
   faqHeading: "Power BI consultant UK: frequently asked questions",
   faqs: [
     { question: "What does a Power BI consultant do?", answer: "A Power BI consultant connects your business systems to Power BI, cleans and models the data, writes the calculations behind KPIs, designs report pages for each audience, and sets up refresh, security and sharing. For an SME, the aim is to replace manual spreadsheet reporting with numbers that update automatically and match the accounts." },
-    { question: "How much does a Power BI consultant cost in the UK?", answer: `Quotes vary widely with the number and quality of data sources. BtechWaleTech's dashboard and data builds start from ${P.ai}, custom web dashboards from ${P.software}, and ongoing maintenance from ${P.care} after five free months. Power BI licences are billed separately by Microsoft. You receive an itemised quote in about two working days.` },
+    { question: "How much does a Power BI consultant cost in the UK?", answer: `Quotes vary widely with the number and quality of data sources. BtechWaleTech's dashboard and data builds start from ${P.ai}, custom web dashboards from ${P.software}, and ongoing maintenance from ${P.care} after two free months. Power BI licences are billed separately by Microsoft. You receive an itemised quote in about two working days.` },
     { question: "Do I need a data analyst or a Power BI consultant?", answer: "Hire a consultant when your questions are fairly stable and you mainly need reliable automated reporting. Hire an analyst when you need fresh analysis every week, forecasting and someone inside the business challenging assumptions. Many SMEs start with a consultant-built dashboard and only hire an analyst once the data foundations exist." },
     { question: "Can Power BI connect to Xero?", answer: "Yes. Xero data such as invoices, bills, contacts, payments and profit and loss can be pulled through Xero's API, either by a connector or by a small scheduled script that stores the data in a database Power BI reads. The database route is often more reliable for SMEs with years of history and several joined sources." },
     { question: "Can Power BI connect to Sage 50?", answer: "Yes, though Sage 50 desktop needs extra setup. Data is read on the machine where the company files live, through a local connection or scheduled exports, and an on-premises data gateway lets Power BI refresh it. That machine must be switched on when refreshes run, so we install the gateway on an always-on PC or server." },
@@ -431,7 +431,7 @@ const content: FreelanceContent = {
     { question: "How long does a Power BI project take?", answer: "Most SME projects take two to four weeks from approval: roughly a week to connect sources, a week to model and reconcile, and one or two weeks for report pages, refresh setup, testing and training. Delays usually come from slow access to systems or an unavailable spreadsheet owner, so we send an access checklist with the quote." },
     { question: "Can different managers see only their own data?", answer: "Yes, using row-level security. We define roles, for example by branch, region or sales rep, and link them to Microsoft accounts, so each person opening the same report sees only their rows. It is tested with each role before launch. Looker Studio has more limited options, which is one reason businesses with branches often choose Power BI." },
     { question: "Is it safe to give an offshore consultant access to our data?", answer: "It can be, with sensible controls. We work through named accounts in your own tenant, prefer read-only access to source systems, exclude personal data where reports do not need it, and never copy data to our own storage. You remain controller under UK GDPR, so record the arrangement and check transfer safeguards with your adviser." },
-    { question: "Do you offer monthly Power BI support?", answer: `Yes. Every build includes five months of free maintenance after handover. After that, maintenance starts from ${P.care} and covers refresh monitoring, fixes when sources change and small tweaks. Businesses expecting regular new reports or sources can agree a wider monthly support scope in their written quote, with inclusions and exclusions stated clearly.` },
+    { question: "Do you offer monthly Power BI support?", answer: `Yes. Every build includes two months of free maintenance after handover. After that, maintenance starts from ${P.care} and covers refresh monitoring, fixes when sources change and small tweaks. Businesses expecting regular new reports or sources can agree a wider monthly support scope in their written quote, with inclusions and exclusions stated clearly.` },
     { question: "Can Power BI show Shopify and Amazon sales together?", answer: "Yes. We pull orders, refunds and products from each channel's API into one model, map SKUs so the same product matches across channels, and join landed costs and fees to show margin by channel. Combined with accounting data, it gives a single view of which channel and product actually make money." },
     { question: "Can the dashboard follow our financial year and VAT quarters?", answer: "Yes. The date table is built around your company's year end, which UK companies choose themselves, plus your VAT quarter pattern and, if useful, the tax year from 6 April. Year-to-date and prior-year comparisons then follow your calendar, and VAT-period views can be reconciled against the returns your accountant files." },
     { question: "Will you train our staff?", answer: "Yes. Handover includes documentation of sources, measures and refresh settings, a glossary page inside the report, and a recorded training session for at least two staff covering how to read, filter and make simple edits. Training people internally prevents the common problem of one person understanding the dashboard and everyone else ignoring it." },

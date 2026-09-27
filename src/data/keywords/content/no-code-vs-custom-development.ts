@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Android & iOS app from", `${P.app}, 6–10 weeks`],
     ["Code ownership", "Repository in your name"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Years to compare, not 3 months" },
     { value: "2", label: "Working days for an itemised quote" },
-    { value: "5", label: "Months of free maintenance on custom builds" },
+    { value: "2", label: "Months of free maintenance on custom builds" },
     { value: "0", label: "Platform fees on code you own" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Indian payments and GST", value: "No-code: depends on plugins. Custom: built to your rules" },
       { label: "Leaving later", value: "No-code: data export, usually no code export. Custom: take the repo anywhere" },
       { label: "Best for", value: "No-code: validation. Custom: a product the business runs on" },
-      { label: "Our free maintenance", value: "5 months after a custom launch, then from " + P.care },
+      { label: "Our free maintenance", value: "2 months after a custom launch, then from " + P.care },
     ],
   },
   services: {
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["First usable version", "Days, if you have the time", "One to three weeks", "6–12 weeks for a web app"],
       ["Upfront spend", "Your time plus the plan", "Freelancer fee plus the plan", `From ${P.software}, itemised`],
-      ["Monthly cost later", "Plan price rises with users and usage", "Plan price plus paid changes", "Hosting bill in your name; care optional after 5 free months"],
+      ["Monthly cost later", "Plan price rises with users and usage", "Plan price plus paid changes", "Hosting bill in your name; care optional after 2 free months"],
       ["UPI checkout and GST invoices", "Only what plugins allow", "Only what plugins allow", "Built to your flow and invoice format"],
       ["Offline data entry", "Limited or none", "Limited or none", "Possible in a mobile app with sync"],
       ["If the tool changes pricing", "You absorb it", "You absorb it", "Not applicable: no platform licence"],
@@ -146,7 +146,7 @@ const content: FreelanceContent = {
       heading: "No code vs custom development cost over three years",
       paragraphs: [
         `Over three years, no-code usually wins on cash in year one and loses ground in years two and three, while custom development costs more upfront and then flattens out. The crossover point depends on your plan tier, user count and how often you need paid help.`,
-        `Do the maths yourself with your own figures. For the no-code side, multiply the monthly plan you will realistically need (not the starter tier) by 36, add any plugin or add-on subscriptions, add the fees you pay a no-code freelancer for changes, and add GST if the vendor bills you from India or charges it on imports of services. For the custom side, add the one-time build (a web app starts at ${P.software} with us), 36 months of hosting in your own account, and maintenance after our five free months if you want it, from ${P.care} a month.`,
+        `Do the maths yourself with your own figures. For the no-code side, multiply the monthly plan you will realistically need (not the starter tier) by 36, add any plugin or add-on subscriptions, add the fees you pay a no-code freelancer for changes, and add GST if the vendor bills you from India or charges it on imports of services. For the custom side, add the one-time build (a web app starts at ${P.software} with us), 36 months of hosting in your own account, and maintenance after our two free months if you want it, from ${P.care} a month.`,
         `Two costs rarely appear in anyone’s spreadsheet. First, staff time lost to workarounds: exporting CSVs, re-entering orders, chasing payments made outside the app. Second, the eventual rebuild. If you are fairly sure you will outgrow the tool within eighteen months, the honest total for no-code is the subscription plus the custom build you will pay for anyway.`,
       ],
       list: [
@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Platform licence", "Monthly plan, often rising with users, records or workload", "None", "Every month"],
         ["Hosting", "Included in the plan", "Paid by you to your chosen provider", "Every month"],
         ["Add-ons and plugins", "Separate subscriptions for payments, PDFs, SMS", "Built into the code once", "Every month vs once"],
-        ["Changes and fixes", "DIY or paid per task", `Free for 5 months, then care from ${P.care}`, "Ongoing"],
+        ["Changes and fixes", "DIY or paid per task", `Free for 2 months, then care from ${P.care}`, "Ongoing"],
         ["Leaving later", "Rebuild logic elsewhere; data export only", "Move the repo and database to any host", "When you outgrow it"],
         ["Hidden cost", "Staff workarounds and the eventual rebuild", "Longer wait before first launch", "Year 2–3 vs month 0–3"],
       ],
@@ -392,7 +392,7 @@ const content: FreelanceContent = {
       ["Receive an itemised quote", "If custom work makes sense, you get a line-by-line estimate in about two working days. Remove lines to phase it. Nothing is billed before written approval."],
       ["Accounts in your name", "Repository, hosting, domain and store accounts are created under your email. We join as users so ownership is never in question."],
       ["Build, migrate and test", "We build on a staging link, import your exported data, and test with your real records while the old app keeps running."],
-      ["Switch over, then five free months", "One planned switch-over day, redirects in place, users informed. Fixes and small changes are free for five months afterwards."],
+      ["Switch over, then two free months", "One planned switch-over day, redirects in place, users informed. Fixes and small changes are free for two months afterwards."],
     ],
   },
   faqHeading: "No code vs custom development: questions people ask",

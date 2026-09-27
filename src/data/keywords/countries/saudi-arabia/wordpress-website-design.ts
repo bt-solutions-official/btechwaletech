@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["WooCommerce store from", `${P.shop}, 4–8 weeks`],
     ["Languages", "Arabic right-to-left and English"],
     ["Hosting", "Your account, region of your choice"],
-    ["Maintenance", `5 months free, then from ${P.care}`],
+    ["Maintenance", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers who know your site" },
     { value: "100", label: "Pages included in the starting business site plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does WordPress website design in Saudi Arabia involve, and what does it cost?",
@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Arabic RTL fixes on existing themes", note: "Correcting mirrored layouts, fonts, forms and menus on a WordPress site whose Arabic version was never quite right.", href: "/saudi-arabia/arabic-english-website-development/", size: "md" },
       { name: "Clinic, real estate and hospitality sites", note: "Booking forms, listing templates and enquiry routing to WhatsApp, built on custom post types.", href: "/saudi-arabia/clinic-website-design/", size: "sm" },
       { name: "Security hardening and migration", note: "Moving a site to better hosting, updating PHP, adding 2FA and backups, and closing common attack routes.", size: "sm" },
-      { name: "WordPress care plans", note: `Updates, backups, uptime checks and small edits; free for five months after launch, then from ${P.care}.`, size: "sm" },
+      { name: "WordPress care plans", note: `Updates, backups, uptime checks and small edits; free for two months after launch, then from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -88,7 +88,7 @@ const content: FreelanceContent = {
       ["Security updates", "Many components to patch", "Few, but custom code to maintain", "Few components, updated on a schedule"],
       ["Multilingual", "Plugin bolted on later", "Custom build", "WPML or Polylang configured from day one"],
       ["Starting cost", "Low upfront", "Higher", `From ${P.site}`],
-      ["Long-term cost", "Rises with fixes and conflicts", "Rises with every change", `5 months free care, then from ${P.care}`],
+      ["Long-term cost", "Rises with fixes and conflicts", "Rises with every change", `2 months free care, then from ${P.care}`],
     ],
     fine: "A page-builder bundle can be the right choice for a short-lived campaign site you will edit heavily yourself; for a company site meant to last years, lean usually wins.",
   },
@@ -190,7 +190,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a bilingual business WordPress site starts from ${P.site} for up to 100 pages and takes about 1–2 weeks; content-heavy SEO builds start from ${P.seoSite}; WooCommerce stores from ${P.shop}. Quotes are itemised in US dollars.`,
         `What pushes a WordPress quote above the starting price in Saudi projects: custom templates such as project galleries, property listings or branch pages; complex forms with routing to departments or WhatsApp; WooCommerce with many variants, payment and invoicing integrations; migration from an old site with hundreds of URLs; and the multilingual setup when content types are complex. What does not push it up: the Arabic right-to-left layout itself, which is part of every build.`,
-        `Running costs are separate and paid by you: hosting, domain, premium plugin licences such as WPML if chosen, and payment fees for stores. After launch, maintenance is free for five months, then care plans start from ${P.care}. Quotes elsewhere in the Kingdom vary widely for good reasons; our <a href='/saudi-arabia/website-design-cost/'>website design cost</a> page explains what drives the differences.`,
+        `Running costs are separate and paid by you: hosting, domain, premium plugin licences such as WPML if chosen, and payment fees for stores. After launch, maintenance is free for two months, then care plans start from ${P.care}. Quotes elsewhere in the Kingdom vary widely for good reasons; our <a href='/saudi-arabia/website-design-cost/'>website design cost</a> page explains what drives the differences.`,
       ],
     },
     {
@@ -232,7 +232,7 @@ const content: FreelanceContent = {
       heading: "WordPress maintenance for Saudi sites: what it covers",
       paragraphs: [
         `WordPress needs regular care: core, theme and plugin updates, backups, security checks and small content changes. A site left alone for a year is the most common hacking target we see.`,
-        `For five months after launch, maintenance is free. After that, care plans start from ${P.care} and are quoted in USD. A typical plan covers scheduled updates tested on a staging copy before going live, daily off-site backups with a monthly restore test, uptime monitoring, a monthly check of Core Web Vitals in Search Console, and a set number of small edits in either language.`,
+        `For two months after launch, maintenance is free. After that, care plans start from ${P.care} and are quoted in USD. A typical plan covers scheduled updates tested on a staging copy before going live, daily off-site backups with a monthly restore test, uptime monitoring, a monthly check of Core Web Vitals in Search Console, and a set number of small edits in either language.`,
         `Plans also include a yearly plugin review: we remove anything no longer needed, replace abandoned plugins, and check that the PHP version on your host is still supported. Larger changes, such as a new section or a WooCommerce extension, are quoted in writing before work begins.`,
       ],
     },
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example. Say a mid-sized MEP contractor in Dammam wants a WordPress website that presents its projects to Saudi and international clients, accepts tender enquiries and lists job openings, in Arabic and English.`,
         `The build would use a lightweight block theme with CSS logical properties, Polylang because the contractor’s team writes both languages and the site has no store, and three custom post types: projects (with sector, city, client type and photos), services and vacancies. The Arabic version sits at the root because most visitors are Saudi; English lives under /en/. Tender enquiries go by email to the bids team, with a WhatsApp button on mobile.`,
-        `The plugin list stays short: Polylang, an SEO plugin, a forms plugin, backups and a security plugin configured at the host. Fonts are self-hosted and subset. Hosting is a managed WordPress plan with a CDN, in the contractor’s own account. That scope fits our ${P.site} starting plan, with the project gallery templates as the main itemised addition, then five months of free maintenance.`,
+        `The plugin list stays short: Polylang, an SEO plugin, a forms plugin, backups and a security plugin configured at the host. Fonts are self-hosted and subset. Hosting is a managed WordPress plan with a CDN, in the contractor’s own account. That scope fits our ${P.site} starting plan, with the project gallery templates as the main itemised addition, then two months of free maintenance.`,
       ],
     },
     {
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
         ["WooCommerce store", "Catalogue, mada and Apple Pay checkout, shipping", `From ${P.shop}`, "4–8 weeks"],
         ["Speed and bloat clean-up", "Plugin audit, font fixes, Core Web Vitals", "Quoted after audit", "1–2 weeks"],
         ["Monthly SEO", "Arabic and English content and technical work", `From ${P.seo}`, "Ongoing"],
-        ["Care plan", "Updates, backups, monitoring, small edits", `From ${P.care}`, "After 5 free months"],
+        ["Care plan", "Updates, backups, monitoring, small edits", `From ${P.care}`, "After 2 free months"],
       ],
     },
     {
@@ -344,7 +344,7 @@ const content: FreelanceContent = {
       ["Sitemap and plugin list", "After written approval we agree the page structure for both languages and the exact plugin list, and you set up hosting and domain in your name."],
       ["Design in both directions", "Homepage and key templates are designed and shown on staging in Arabic right-to-left and English left-to-right, on phones as well as desktops."],
       ["Build, content and checks", "Templates are built, your team loads content, and we test speed, security, forms, hreflang and payments before launch."],
-      ["Launch and five months of care", "We go live, submit sitemaps to Search Console, train your team on the editor and maintain the site free for five months."],
+      ["Launch and two months of care", "We go live, submit sitemaps to Search Console, train your team on the editor and maintain the site free for two months."],
     ],
   },
   faqHeading: "WordPress website design in Saudi Arabia: questions and answers",
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
     { question: "Do you write the Arabic content?", answer: "No. We build and lay out the Arabic site, including right-to-left design, fonts and forms, but native Arabic copy should come from your team or a translator you trust. We make it easy to load and review, and we check that Arabic text displays correctly everywhere it appears." },
     { question: "Can you redesign my existing WordPress site without losing Google rankings?", answer: "A redesign can keep search visibility if URLs stay the same or are redirected one-to-one, content is not thinned out, and hreflang and sitemaps are updated. We map every existing URL before changes, keep a staging copy for testing, and watch Search Console after launch. No one can promise rankings, but careful migrations avoid avoidable losses." },
     { question: "Who owns the WordPress site you build?", answer: "You do. Hosting, domain and admin accounts are in your company’s name, premium plugin licences are bought by you, and any custom code sits in a repository you control. We work with our own user accounts on your site, which you can remove at any time." },
-    { question: "What does WordPress maintenance cost after launch?", answer: `Maintenance is free for five months after launch. After that, care plans start from ${P.care} and cover tested updates, backups, uptime monitoring, performance checks and small edits in both languages. New features are quoted in writing before any work starts.` },
+    { question: "What does WordPress maintenance cost after launch?", answer: `Maintenance is free for two months after launch. After that, care plans start from ${P.care} and cover tested updates, backups, uptime monitoring, performance checks and small edits in both languages. New features are quoted in writing before any work starts.` },
     { question: "Is WordPress better than Salla, Zid or Shopify for my Saudi business?", answer: "WordPress is better for content-rich company sites and for stores that need unusual content alongside products. Salla and Zid are simpler for Saudi-only stores wanting local payments built in, and Shopify suits brands selling across the GCC. We build on all of them and recommend based on what you sell and where." },
     { question: "Can my WordPress site support the PDPL?", answer: "We build features that support your obligations under Saudi Arabia’s Personal Data Protection Law, such as a clear privacy page, consent for marketing forms, minimal data collection, restricted admin access and secure storage. Compliance itself is your responsibility and should be confirmed by your own legal counsel." },
     { question: "Can you add WhatsApp and booking forms to a WordPress site?", answer: "Yes. A WhatsApp click-to-chat button, enquiry forms routed to the right department and simple appointment request forms are common on Saudi sites. For live availability and payments, a dedicated booking system or a custom build may fit better, and we will tell you which suits your volume." },

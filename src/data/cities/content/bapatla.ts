@@ -56,7 +56,7 @@ const bapatla: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer price, stock and timing questions and pass real decisions to you.",
     data: "Dashboards of pond-wise feed and harvest, mill output, collections due or patient visits, readable on a phone.",
     app: "Android and iOS apps for aqua input dealers' field staff, college students or repeat customers, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then care plans starting at ₹8,000 a month.",
+    maintenance: "Two free months of maintenance after launch, then care plans starting at ₹8,000 a month.",
   },
   whyUsIntro:
     "Since Bapatla became a district headquarters, more offices, lawyers, consultants and visitors come through the town, and local businesses face competition from Guntur and Chirala. We keep things straightforward: starting prices in public, an itemised written quote, WhatsApp replies every day and your domain, hosting, code and store accounts in your own name.",
@@ -168,7 +168,7 @@ const bapatla: CityContent = {
       heading: "Website cost in Bapatla and how a quote is built",
       paragraphs: [
         "The <strong>website cost in Bapatla</strong> depends on what you need, but our starting points are public. A static site up to 100 pages begins at ₹10,000 with a one to two week timeline. An SEO site of 299+ pages begins at ₹20,000, over three to five weeks. Android and iOS apps begin at ₹40,000, and AI or WhatsApp automation also begins at ₹40,000, typically over two to four weeks.",
-        "Online stores begin at ₹50,000 with four to eight weeks of work, and custom web applications at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After the five months of free maintenance that come with every launch, maintenance plans start at ₹8,000 a month.",
+        "Online stores begin at ₹50,000 with four to eight weeks of work, and custom web applications at ₹60,000 over six to twelve weeks. Monthly SEO starts at ₹10,000 a month. After the two months of free maintenance that come with every launch, maintenance plans start at ₹8,000 a month.",
         "Each of these is a floor, not a final price. Pages, products, Telugu and English content, app screens, payment and delivery logic and billing integrations all shape the quote. We send it itemised, usually within two working days, and nothing is billed until you give written approval.",
         "Quotes from providers in Bapatla, Chirala and Guntur vary a lot, so compare terms as well as totals. Ask who registers the domain, whether you receive the source code, how many rounds of changes are included and what renewal and maintenance will cost after the first year. The full list is on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -189,7 +189,7 @@ const bapatla: CityContent = {
       paragraphs: [
         "Too many small businesses have lost a website because the domain was booked in the developer's name and the hosting password left with him. When he stopped answering, the site vanished and the owner paid again. We organise every project so this cannot happen.",
         "Your domain, hosting, source code, Google Business Profile and, for apps, the Play Console and Apple developer accounts are registered to your business. At handover you receive a written list of all logins, and we go through it with you or someone you trust. Another developer can take over later without rebuilding anything.",
-        "Maintenance is free for the first five months after launch, covering bug fixes, small edits and security updates. After that, plans start at ₹8,000 a month with backups, updates, uptime checks and editing time. App plans also include the updates Google and Apple require when their rules change.",
+        "Maintenance is free for the first two months after launch, covering bug fixes, small edits and security updates. After that, plans start at ₹8,000 a month with backups, updates, uptime checks and editing time. App plans also include the updates Google and Apple require when their rules change.",
         "A small site that rarely changes may not need a monthly plan. We will tell you honestly when an occasional paid update is the better choice.",
       ],
     },
@@ -272,7 +272,7 @@ const bapatla: CityContent = {
     {
       question: "Do you maintain websites after launch in Bapatla?",
       answer:
-        "Yes. Maintenance is free for five months after launch and covers bug fixes, small edits and security updates. Then plans start at ₹8,000 a month, with backups, updates, uptime checks and editing time. If your site rarely changes, we will tell you when occasional paid updates make more sense than a plan.",
+        "Yes. Maintenance is free for two months after launch and covers bug fixes, small edits and security updates. Then plans start at ₹8,000 a month, with backups, updates, uptime checks and editing time. If your site rarely changes, we will tell you when occasional paid updates make more sense than a plan.",
     },
     {
       question: "Can you build an online store for Chirala handloom saris?",

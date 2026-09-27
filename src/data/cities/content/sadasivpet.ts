@@ -57,7 +57,7 @@ const sadasivpet: CityContent = {
     ai: "Telugu WhatsApp assistants that quote tyre sizes, plot availability or OPD timings and hand real negotiations to you with the chat attached.",
     data: "Dashboards that show freight per vehicle, plot bookings by layout, seed sales by village and enquiry sources month by month.",
     app: "Android and iOS apps from ₹40,000, published on Google Play and the App Store — a driver trip app, a plot-site visit tracker or a school notice app for Sadasivpet parents.",
-    maintenance: "Five months of maintenance included after launch, then from ₹8,000 a month for edits, backups, patches and form testing.",
+    maintenance: "Two months of maintenance included after launch, then from ₹8,000 a month for edits, backups, patches and form testing.",
   },
   whyUsIntro:
     "Sadasivpet owners have watched plenty of promises arrive along the highway and leave again. So we keep it plain: published starting prices, a written itemised quote in about two working days, nothing billed before you approve it, and every account registered in your name from the first day. WhatsApp is answered all seven days on IST. If a feature will not earn its keep, we say that instead of quoting for it.",
@@ -187,7 +187,7 @@ const sadasivpet: CityContent = {
       heading: "Ownership, handover and maintenance for Sadasivpet websites and apps",
       paragraphs: [
         "Everything we build is yours in law and in practice. The domain is booked on your email, the hosting account is billed in your name, the complete source code is handed to you, and the Google Business Profile, Google Play developer account and Apple developer account list you as the owner. At handover you get a written sheet with every login and where it is used, so nobody — us included — can hold your site or your app for ransom later.",
-        "For the first five months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and framework updates, and test now and then that the enquiry form, the UPI checkout and the WhatsApp link still behave. Five months covers at least one busy season, which is when problems surface if they are going to.",
+        "For the first two months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and framework updates, and test now and then that the enquiry form, the UPI checkout and the WhatsApp link still behave. Two months covers at least one busy season, which is when problems surface if they are going to.",
         "After that it is your call: continue with us from ₹8,000 a month, hand it to somebody local, or run it yourself. Because the code and accounts are already in your name, moving needs no permission from us and no handover negotiation. We will answer questions from your next developer without charging for it.",
         "Apps need a yearly pass even when nothing is broken, since Google and Apple keep raising their minimum target versions and will stop serving a listing that falls behind. We watch those deadlines and rebuild early rather than after the removal notice arrives.",
       ],
@@ -280,7 +280,7 @@ const sadasivpet: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Five months of maintenance is included at no cost: rate and photo edits, backups, security and framework updates, and periodic testing of your forms, UPI checkout and WhatsApp link. After that you can continue from ₹8,000 a month, move to a local developer, or manage it yourself. Every account is already in your name, so switching needs nothing from us.",
+        "Two months of maintenance is included at no cost: rate and photo edits, backups, security and framework updates, and periodic testing of your forms, UPI checkout and WhatsApp link. After that you can continue from ₹8,000 a month, move to a local developer, or manage it yourself. Every account is already in your name, so switching needs nothing from us.",
     },
     {
       question: "Is local SEO worth it for a small Sadasivpet business?",

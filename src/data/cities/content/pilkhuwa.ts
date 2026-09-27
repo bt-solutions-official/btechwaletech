@@ -56,7 +56,7 @@ const pilkhuwa: CityContent = {
     ai: "WhatsApp assistants that send catalogues, answer rate and stock questions from shopkeepers and record orders for your staff to confirm.",
     data: "Dashboards of orders by city, design-wise sales, pending job-work and dues from retailers.",
     app: "Android and iOS apps where retailers browse new designs and reorder, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, new designs, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, new designs, backups and security fixes.",
   },
   whyUsIntro:
     "Pilkhuwa's textile trade runs on thin margins and repeat buyers, so every rupee spent on software has to show a return. We publish starting prices, send written itemised quotes, answer WhatsApp seven days a week and register the domain, hosting, code and app accounts under your name. If a feature will not bring you orders, we will say so.",
@@ -185,7 +185,7 @@ const pilkhuwa: CityContent = {
       heading: "Who owns your Pilkhuwa website and app, and how maintenance works",
       paragraphs: [
         "Everything we build is registered in your name from the beginning: domain, hosting, source code, Google Business Profile, payment gateway and the Google Play and App Store developer accounts. You hold every password. If you later want to work with another developer, nothing needs to be handed over by us.",
-        "Each project includes five months of free maintenance after launch. That covers bug fixes, small content changes, security updates and help when something stops working. After that, maintenance starts at ₹8,000 a month for projects that need regular attention, such as a store with new designs every season.",
+        "Each project includes two months of free maintenance after launch. That covers bug fixes, small content changes, security updates and help when something stops working. After that, maintenance starts at ₹8,000 a month for projects that need regular attention, such as a store with new designs every season.",
         "A simple showroom website that rarely changes may need no paid maintenance at all. We will show you how to change photographs and details yourself and help only when you ask.",
         "Before the peak season we suggest a quick check of your store or app: speed, backups, payment settings and the designs that are out of stock. It takes an hour and avoids lost orders later.",
       ],
@@ -279,7 +279,7 @@ const pilkhuwa: CityContent = {
     {
       question: "What maintenance do you provide after the website goes live?",
       answer:
-        "Every project includes five months of free maintenance after launch for fixes, small updates and security patches. After that, maintenance starts at ₹8,000 a month. Stores that add designs every season usually need it; a simple showroom site may not.",
+        "Every project includes two months of free maintenance after launch for fixes, small updates and security patches. After that, maintenance starts at ₹8,000 a month. Stores that add designs every season usually need it; a simple showroom site may not.",
     },
     {
       question: "Do you do SEO services in Pilkhuwa for all-India bedsheet searches?",

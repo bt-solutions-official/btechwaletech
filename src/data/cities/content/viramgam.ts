@@ -55,7 +55,7 @@ const viramgam: CityContent = {
     ai: "Gujarati WhatsApp assistants that reply on rates, stock, trip status and timings and hand negotiations back to you.",
     data: "Dashboards of daily kapas arrivals, bales pressed, freight billed and dues from buyers.",
     app: "Android and iOS apps for truck drivers updating trip status or dealers re-ordering, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Viramgam's traders count every rupee and expect a vendor to stand behind a written price. We show our entry prices publicly, send an item-by-item quote, reply on WhatsApp every day and set up your domain, hosting, code and store accounts under your own name. If a feature is not worth its cost for your volume, we say that before you pay.",
@@ -176,7 +176,7 @@ const viramgam: CityContent = {
       heading: "Ownership and maintenance for Viramgam websites and apps",
       paragraphs: [
         "You own the result outright. The domain sits on your email, the hosting account is in your name, you receive the complete source code, and your Google Business Profile, Play Console and Apple developer accounts name you as owner. We hand over a written list of all logins, so there is never a situation where one person controls your online presence.",
-        "Five months of maintenance after launch cost you nothing. That covers rate and price edits, backups, security and version updates, and routine checks that forms, payments and WhatsApp buttons still work. Afterwards you are free to continue with us from ₹8,000 a month, run it internally or pass the code to another developer.",
+        "Two months of maintenance after launch cost you nothing. That covers rate and price edits, backups, security and version updates, and routine checks that forms, payments and WhatsApp buttons still work. Afterwards you are free to continue with us from ₹8,000 a month, run it internally or pass the code to another developer.",
         "Store apps need a rebuild roughly every year because Google and Apple steadily raise the minimum versions they accept. We follow those deadlines and rebuild in good time, so your app stays listed. Read about our <a href=\"/services/web-development/\">website development work</a> for more.",
       ],
     },
@@ -268,7 +268,7 @@ const viramgam: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for the first five months after launch, covering edits, backups, security patches and checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or stop. Since every account and the code already belong to you, moving to someone else needs no approval from us.",
+        "Maintenance is free for the first two months after launch, covering edits, backups, security patches and checks of forms, payments and WhatsApp links. After that you can continue from ₹8,000 a month or stop. Since every account and the code already belong to you, moving to someone else needs no approval from us.",
     },
     {
       question: "Do you work in Mandal, Detroj and Sanand as well?",

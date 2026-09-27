@@ -37,10 +37,10 @@ const content: CityContent = {
     h1: "Freelance software developers in Korba for contractor paperwork, coal fleets, fly ash units and township services",
     lede:
       "BtechWaleTech is a freelance group of three engineers who build software for Korba remotely: document and billing workflows for contractors at the power plants and SECL mines, trip and diesel logs for coal transporters, production tracking for fly ash brick units, industrial websites, Android and iOS apps, AI automation and dashboards. Prices start where we publish them, and the developers answer you directly.",
-    pills: ["Contractor document workflows", "Fleet, trip and diesel logs", "Industrial websites from ₹10,000", "Android and iOS apps from ₹40,000", "5 months free maintenance"],
+    pills: ["Contractor document workflows", "Fleet, trip and diesel logs", "Industrial websites from ₹10,000", "Android and iOS apps from ₹40,000", "2 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Korba from ₹10,000 for an industrial website, ₹40,000 for AI automation or Android and iOS apps (six to ten weeks), and ₹60,000 for document workflow, fleet or other custom software (six to twelve weeks). We are a freelance group of three remote engineers in India, with five months of free maintenance.",
+    "BtechWaleTech's freelance software developers build for Korba from ₹10,000 for an industrial website, ₹40,000 for AI automation or Android and iOS apps (six to ten weeks), and ₹60,000 for document workflow, fleet or other custom software (six to twelve weeks). We are a freelance group of three remote engineers in India, with two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The power capital of Chhattisgarh, with several large thermal power stations in and around the city" },
     { label: "Power plants", value: "NTPC's Korba Super Thermal Power Station at Jamnipali and the state generation company's plants at Korba East and Korba West" },
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI agents that read work orders and tender documents into checklists, extract bill details, and answer routine WhatsApp enquiries in Hindi.",
     data: "Dashboards for bills pending with each plant or mine, trips and diesel per vehicle, brick output and manpower cost per site.",
     app: "Android and iOS apps from ₹40,000 for Korba site supervisors, drivers and township customers, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Backups, updates, fixes and monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, updates, fixes and monitoring, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Korba contractors lose more money to paperwork than to competition: a missing certificate stalls a bill, a diesel entry goes unrecorded, a pass expires unnoticed. Large ERPs are too heavy for them and spreadsheets too fragile. As a freelance group of three engineers, we build the right-sized tool and stay reachable on WhatsApp.",
@@ -207,7 +207,7 @@ const content: CityContent = {
       heading: "What do freelance software developers in Korba cost, and what support follows?",
       paragraphs: [
         "BtechWaleTech's starting prices for Korba are ₹10,000 for an industrial website (one to two weeks), ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for document workflow, fleet or other custom software (six to twelve weeks). Monthly SEO is from ₹10,000.",
-        "Each project includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes such as new document types or bill formats. Afterwards, plans start at ₹8,000 a month, or you pay per request. We answer WhatsApp seven days a week. Read more <a href='/about/'>about us</a>, or see <a href='/it-services/chhattisgarh/bilaspur/'>Bilaspur</a> and the <a href='/korba/'>Korba city page</a>.",
+        "Each project includes two months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes such as new document types or bill formats. Afterwards, plans start at ₹8,000 a month, or you pay per request. We answer WhatsApp seven days a week. Read more <a href='/about/'>about us</a>, or see <a href='/it-services/chhattisgarh/bilaspur/'>Bilaspur</a> and the <a href='/korba/'>Korba city page</a>.",
       ],
     },
   ],
@@ -283,7 +283,7 @@ const content: CityContent = {
     {
       question: "What is covered by the free maintenance?",
       answer:
-        "For five months after hosting goes live, maintenance is free: bug fixes, security updates, backups, uptime and speed checks, and small changes such as new document types or bill formats. After that, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp every day of the week.",
+        "For two months after hosting goes live, maintenance is free: bug fixes, security updates, backups, uptime and speed checks, and small changes such as new document types or bill formats. After that, plans start at ₹8,000 a month, or you can pay per request. We respond on WhatsApp every day of the week.",
     },
     {
       question: "How long does SEO take for a Korba business?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Typical timeline", "1–2 weeks light motion; 3–6 weeks for scroll stories"],
     ["Motion stack", "CSS, GSAP, Lottie, Motion for React"],
     ["Accessibility", "prefers-reduced-motion respected on every effect"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Freelance developers: build, motion QA and SEO" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The code sits in your Git repository, the site runs on your hosting account and the domain is registered to you from the first day. Lottie files, fonts and images are handed over with their source files where we have them.`,
         `Editing is where animated sites often go wrong, because text changes can break carefully tuned motion. We avoid that by keeping content separate from choreography: text lives in a CMS or Markdown files, and animations target sections by stable names rather than by exact wording or pixel positions. A longer headline wraps to two lines and the reveal still works.`,
-        `Every handover includes a short motion document: which library drives which effect, where the settings live, how to switch an effect off, and how to test reduced motion. After launch you get five months of free maintenance, then care plans from ${P.care}. See <a href='/website-maintenance-freelancer/'>website maintenance</a> for what that covers.`,
+        `Every handover includes a short motion document: which library drives which effect, where the settings live, how to switch an effect off, and how to test reduced motion. After launch you get two months of free maintenance, then care plans from ${P.care}. See <a href='/website-maintenance-freelancer/'>website maintenance</a> for what that covers.`,
       ],
     },
     {
@@ -384,7 +384,7 @@ const content: FreelanceContent = {
         ["Animated SEO site (299+ pages)", "Rich homepage, calm templated inner pages", `${P.seoSite} · ${P.seoSiteUsd}`, "3–5 weeks"],
         ["Ecommerce with motion touches", "Cart feedback, zoom, drawer and filter motion", `${P.shop} · ${P.shopUsd}`, "4–8 weeks"],
         ["Web app with animated interface", "Component, layout and route animation", `${P.software} · ${P.softwareUsd}`, "6–12 weeks"],
-        ["Care after the free 5 months", "Library updates, fixes, new sections", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Care after the free 2 months", "Library updates, fixes, new sections", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -454,7 +454,7 @@ const content: FreelanceContent = {
     { question: "Which is better for animation: Webflow, Framer or a custom build?", answer: "Webflow and Framer are good when your team wants to edit motion visually and accepts a platform subscription. A custom build with GSAP or Motion suits sites that need deeper SEO control, custom back-end features or code you fully own. We build custom sites, and our Webflow and Framer pages cover those platforms in more detail." },
     { question: "Can an animated website still rank in Google AI Overviews?", answer: "Yes, if the content is readable without the animation. AI Overviews and assistants quote short, self-contained passages from HTML. We write each section as a complete answer, use question-style headings and add schema, then animate around the text. A scroll story that splits sentences across frames is much harder for AI search to quote." },
     { question: "Who owns the code and animation files after launch?", answer: "You do. The code is in your Git repository, the site runs on your hosting account, the domain is registered to you, and Lottie files, fonts and images are handed over with their sources where available. We keep access only as long as you want us maintaining the site, and you can revoke it any time." },
-    { question: "What happens after the site goes live?", answer: `You get five months of free maintenance after launch covering fixes, library updates and small changes. After that, care plans start from ${P.care} (${P.careUsd}). Animated sites benefit from this because browser updates occasionally change how scroll effects behave, and someone should check the key sections every few months.` },
+    { question: "What happens after the site goes live?", answer: `You get two months of free maintenance after launch covering fixes, library updates and small changes. After that, care plans start from ${P.care} (${P.careUsd}). Animated sites benefit from this because browser updates occasionally change how scroll effects behave, and someone should check the key sections every few months.` },
     { question: "How do payments work for an animated website project?", answer: "You receive an itemised quote in about two working days and nothing is billed before you approve it in writing. Indian clients pay by UPI or bank transfer with a GST invoice; international clients pay in USD by Wise, bank wire or PayPal. Milestones and any other terms are agreed in your written quote." },
     { question: "Do you sign an NDA before seeing our launch designs?", answer: "If your launch is confidential, tell us before sharing files and send your NDA; any terms are agreed in writing before work begins. We never publish unreleased work, and we only show a finished site in our portfolio with your permission. Details of confidentiality for your project go into the written quote." },
     { question: "Animation wali website banwani hai, kitna kharcha aayega?", answer: `Halki animation wali website (reveals, hover effects, ek hero effect) ${P.site} se shuru hoti hai aur 1–2 hafte lagte hain. Scroll story jaisi badi animation ka kharcha sections ki ginti par depend karta hai, jo quote mein alag-alag likha hota hai. WhatsApp par apna idea bhejiye, lagbhag 2 working days mein itemised quote mil jayega.` },

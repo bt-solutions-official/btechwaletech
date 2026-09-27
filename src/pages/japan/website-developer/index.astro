@@ -89,7 +89,7 @@ const faqs = [
   },
   {
     question: "What happens after the website launches?",
-    answer: `You receive five months of maintenance free after launch: text and image updates, bug fixes, CMS and plugin updates where relevant, backups and speed checks. From the sixth month you can keep a maintenance plan from ${both("Maintenance")}, or simply message us whenever a change is needed. Japanese maintenance plans that include content updates are commonly quoted at ¥20,000 to ¥50,000 a month, so compare what each plan includes, not only the monthly figure. Hosting, domain and platform fees are paid by you directly to those providers.`,
+    answer: `You receive two months of maintenance free after launch: text and image updates, bug fixes, CMS and plugin updates where relevant, backups and speed checks. From the third month you can keep a maintenance plan from ${both("Maintenance")}, or simply message us whenever a change is needed. Japanese maintenance plans that include content updates are commonly quoted at ¥20,000 to ¥50,000 a month, so compare what each plan includes, not only the monthly figure. Hosting, domain and platform fees are paid by you directly to those providers.`,
   },
   {
     question: "Do you do SEO as part of the website build?",
@@ -169,19 +169,19 @@ const facts: [string, string][] = [
   ["Renewals", "URL redirect maps so search traffic survives"],
   ["Japan time", "Online 12:30 pm to 12:30 am JST, 7 days"],
   ["Billing", "USD or yen invoices, paid by Wise or wire"],
-  ["After launch", "Five free months of maintenance"],
+  ["After launch", "Two free months of maintenance"],
 ];
 const pills = ["Corporate sites", "Recruitment sites", "Landing pages", "Japanese and English sites", "WordPress and headless CMS", "Renewals from Wix, STUDIO and Jimdo"];
 const heroOrigin = "Engineers based in India · Websites for Japan built remotely · No Japan office";
 const quoteKicker = "Website starting prices for Japan";
 const quotePlans = ["Static", "SEO website", "Ecommerce", "Maintenance", "Monthly SEO"];
-const quoteFoot = `Starting prices in USD, with yen at about ¥${JPY_PER_USD} per dollar for comparison. Your written quote depends on pages, features and languages. 5 months of maintenance free after launch.`;
+const quoteFoot = `Starting prices in USD, with yen at about ¥${JPY_PER_USD} per dollar for comparison. Your written quote depends on pages, features and languages. 2 months of maintenance free after launch.`;
 
 const stats = [
   { value: usd("Static"), label: `Website starting price, about ${jpy("Static")}` },
   { value: "¥150,000+", label: "Typical Japanese price for a small corporate site in 2026 guides" },
   { value: "12:30 pm", label: "When we come online in Japan time, 7 days a week" },
-  { value: "5 months", label: "Maintenance free after launch" },
+  { value: "2 months", label: "Maintenance free after launch" },
 ];
 
 const answerHeading = "Looking for an affordable website developer for your business in Japan?";
@@ -209,7 +209,7 @@ const services: { name: string; note: string; href?: string; size: "lg" | "md" |
   { name: "Bilingual and inbound sites", note: "Japanese, English, Chinese and Korean versions with hreflang and a switcher that keeps the visitor on the same page.", size: "sm" },
   { name: "Ecommerce storefronts", note: `Shopify or custom stores with tax-inclusive prices and Japanese payment methods, from ${both("Ecommerce")}.`, size: "sm" },
   { name: "SEO-ready builds", note: "Structured data, sitemaps, clean URLs and Core Web Vitals checks in every build, with ongoing SEO available.", href: "/japan/seo-services/", size: "sm" },
-  { name: "Maintenance", note: `Updates, fixes, backups and speed checks: 5 months free, then from ${both("Maintenance")}.`, size: "sm" },
+  { name: "Maintenance", note: `Updates, fixes, backups and speed checks: 2 months free, then from ${both("Maintenance")}.`, size: "sm" },
 ];
 
 // ---------- Pricing ----------
@@ -343,7 +343,7 @@ const guide: Article[] = [
         ["Mid-size site with copy supplied by the client", "¥800,000 to ¥1,500,000", `${both("Static")} or ${both("SEO website")}, depending on size`],
         ["Large site of 60+ pages", "¥3,000,000 and up; fully custom large sites can exceed ¥10,000,000", `${both("SEO website")}, 299+ pages`],
         ["Basic Shopify store by an agency", "¥300,000 to ¥1,000,000; migration adds 20 to 50 percent", both("Ecommerce")],
-        ["Maintenance, general SME plan", "¥5,000 to ¥30,000 a month", `${both("Maintenance")}, first 5 months free`],
+        ["Maintenance, general SME plan", "¥5,000 to ¥30,000 a month", `${both("Maintenance")}, first 2 months free`],
         ["Maintenance with content updates", "¥20,000 to ¥50,000 a month; ¥50,000+ with marketing", `${both("Maintenance")}, updates included`],
         ["SEO consulting for SMEs", "¥100,000 to ¥300,000 a month", both("Monthly SEO")],
       ],
@@ -364,7 +364,7 @@ const guide: Article[] = [
       `<strong>Static website, from ${both("Static")}:</strong> up to 100 pages built from reusable templates, such as a clinic, law office, manufacturer or school site with a top page, services, company profile, access, news, recruitment and contact pages. Includes responsive design, Japanese font setup, a contact form with furigana and postal code lookup, basic SEO tags, a sitemap and deployment.`,
       `<strong>SEO website, from ${both("SEO website")}:</strong> a structured site of 299+ pages planned around search demand, for example a page for each station and ward for a real estate agency, or for each product category and material for an industrial distributor. Includes keyword planning, templates, schema, internal linking and indexing checks. Search strategy is covered on our <a href="/japan/seo-services/">SEO services page for Japan</a>.`,
       `<strong>Ecommerce storefront, from ${both("Ecommerce")}:</strong> product and collection pages, cart and checkout with Japanese payment methods, delivery date and time slot options, tax-inclusive pricing, the Specified Commercial Transactions Act page and basic order management.`,
-      `<strong>Maintenance, from ${both("Maintenance")}:</strong> content changes, fixes, updates, backups and speed checks, with the first five months after launch free.`,
+      `<strong>Maintenance, from ${both("Maintenance")}:</strong> content changes, fixes, updates, backups and speed checks, with the first two months after launch free.`,
       `<strong>Monthly SEO, from ${both("Monthly SEO")}:</strong> ongoing technical work, content planning with your native writer and monthly reports, for sites that need to grow search traffic after launch.`,
     ],
     after: [
@@ -639,7 +639,7 @@ const comparison: [string, string, string, string][] = [
   ["Face-to-face meetings", "Usually possible", "Uncommon", "None; video calls and a staging link instead"],
   ["Renewal with redirect map", "Depends on the agency's SEO knowledge", "Often missing", "Standard in every renewal"],
   ["Availability in JST", "Office hours on weekdays", "Whenever the individual works", "Every day, 12:30 pm to 12:30 am JST, on WhatsApp"],
-  ["After launch", "Paid maintenance, often ¥5,000 to ¥50,000 a month", "Hard to predict once the job closes", `5 months free, then from ${both("Maintenance")}`],
+  ["After launch", "Paid maintenance, often ¥5,000 to ¥50,000 a month", "Hard to predict once the job closes", `2 months free, then from ${both("Maintenance")}`],
   ["Accounts and code ownership", "Varies; some agencies keep the server or CMS", "Varies", "Domain, hosting, code and logins all registered to your company"],
 ];
 
@@ -652,7 +652,7 @@ const process: [string, string][] = [
   ["Structure & design", "Sitemap and wireframes first, then designs for the key templates, reviewed on your own phone."],
   ["Build on staging", "Pages appear on a private staging site as they are built, and comments sent in your morning are usually applied the same day."],
   ["Test & migrate", "Before launch we test Japanese forms and fonts, speed, accessibility, structured data, every redirect and analytics."],
-  ["Launch & handover", "We switch the domain, verify Search Console, hand over every login and start your five free months of maintenance."],
+  ["Launch & handover", "We switch the domain, verify Search Console, hand over every login and start your two free months of maintenance."],
 ];
 const timelineFine = "Timelines assume Japanese text, photos and approvals arrive when agreed. Renewals with many old URLs and bilingual sites add time for mapping and review.";
 

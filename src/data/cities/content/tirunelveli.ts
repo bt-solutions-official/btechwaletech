@@ -31,11 +31,11 @@ const tirunelveli: CityContent = {
     eyebrow: "Tirunelveli · Tamil Nadu",
     h1: "Websites and automation for Nellai's halwa makers, colleges, clinics and factories",
     lede:
-      "Tirunelveli is known for its halwa, its Palayamkottai colleges and a temple that has stood for well over a thousand years, and now for the factories at Gangaikondan too. We are three remote engineers who build fast websites, online stores and WhatsApp automations for Nellai businesses at published prices, with five months of free maintenance.",
+      "Tirunelveli is known for its halwa, its Palayamkottai colleges and a temple that has stood for well over a thousand years, and now for the factories at Gangaikondan too. We are three remote engineers who build fast websites, online stores and WhatsApp automations for Nellai businesses at published prices, with two months of free maintenance.",
     pills: ["Sites from ₹10,000", "Halwa and sweet stores", "Tamil and English pages", "College and school sites", "Gangaikondan B2B catalogues"],
   },
   quickAnswer:
-    "In Tirunelveli, our websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, delivered in one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Tirunelveli office, and every launch includes five months of free maintenance.",
+    "In Tirunelveli, our websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, delivered in one to five weeks. Online stores begin at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Tirunelveli office, and every launch includes two months of free maintenance.",
   snapshot: [
     { label: "Heritage", value: "Nellaiappar Temple, a twin Shiva–Parvati temple mentioned in 7th-century Saiva hymns" },
     { label: "Signature product", value: "Tirunelveli halwa, with the famous Iruttu Kadai opposite the temple" },
@@ -52,7 +52,7 @@ const tirunelveli: CityContent = {
     ai: "WhatsApp assistants that answer routine questions about prices, admissions or clinic timings in Tamil or English and hand anything complicated to your staff.",
     data: "Sales, stock and admission dashboards built from the ledgers and Excel sheets you already keep.",
     app: "Android and iOS apps for school notices, clinic appointments and delivery orders, one codebase published on both app stores from ₹40,000.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Tirunelveli business owners often tell us their last website was built once and never touched again. We publish our starting prices, keep the same three engineers on your project from the first call onwards, and reply on WhatsApp seven days a week, including festival weeks when shops are busiest.",
@@ -177,7 +177,7 @@ const tirunelveli: CityContent = {
       paragraphs: [
         "We often meet Tirunelveli businesses that cannot edit or even renew their own websites. The domain was registered by someone who has since moved to Chennai, the hosting is billed to an old email, or a site builder will not export the content. Recovering access takes weeks.",
         "We set everything up in your name from day one. You own the domain, the hosting account and the source code, and at launch you receive every login and a short note explaining where everything lives. You can change developers whenever you want, with no exit fee.",
-        "Five months of maintenance after launch are free: content and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can message us only when something needs changing.",
+        "Two months of maintenance after launch are free: content and price changes, bug fixes, security updates, backups, uptime checks and speed tests. After that, <a href=\"/services/web-development/\">maintenance</a> continues from ₹8,000 a month, or you can message us only when something needs changing.",
       ],
     },
     {
@@ -273,7 +273,7 @@ const tirunelveli: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when a change is needed.",
+        "For two months after launch we handle content and price changes, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance costs from ₹8,000 a month, or you can contact us only when a change is needed.",
     },
     {
       question: "Do you work with businesses in Tenkasi, Nagercoil and Thoothukudi?",

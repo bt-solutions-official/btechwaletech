@@ -39,7 +39,7 @@ const content: CityContent = {
     pills: ["Free first consultation", "Custom software from ₹60,000", "AI automation from ₹40,000", "Android and iOS apps from ₹40,000", "UPI or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers freelance IT consulting and development in Bangalore: a free scoping call, then websites from ₹10,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three remote engineers, not an office-based firm, with five months of free maintenance.",
+    "BtechWaleTech offers freelance IT consulting and development in Bangalore: a free scoping call, then websites from ₹10,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000 and custom software from ₹60,000, delivered in one to twelve weeks. We are three remote engineers, not an office-based firm, with two months of free maintenance.",
   snapshot: [
     { label: "Tech corridors", value: "Outer Ring Road, Whitefield, Electronic City, Manyata Tech Park in Hebbal and the Sarjapur Road belt" },
     { label: "Startup neighbourhoods", value: "Koramangala, HSR Layout and Indiranagar, home to a dense mix of early-stage startups, cafés and coworking spaces" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents and automations for Bangalore operations: support triage, document extraction, sales research and reporting, with evaluation and human review built in.",
     data: "Metabase, Looker Studio or custom dashboards over Postgres, BigQuery or product data, giving Bengaluru founders reliable weekly metrics without a data team.",
     app: "Android and iOS apps for Bangalore businesses from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Retained engineering support for Bangalore products: upgrades, incident response, monitoring and small features, starting at ₹8,000 per month after five free months.",
+    maintenance: "Retained engineering support for Bangalore products: upgrades, incident response, monitoring and small features, starting at ₹8,000 per month after two free months.",
   },
   whyUsIntro:
     "Bangalore has thousands of IT vendors, which makes honest advice rare. We scope before we sell, recommend existing tools when they fit, and when custom work makes sense, the three consultants you speak with are the engineers who build it.",
@@ -220,7 +220,7 @@ const content: CityContent = {
       id: "support-and-handover-bangalore",
       heading: "Support, handover and what you own after a Bangalore project",
       paragraphs: [
-        "After a Bangalore project goes live, you own everything: source code in your Git repository, domains, cloud and app store accounts, and documentation describing how the system is set up. We stay on as collaborators for five months of free maintenance covering fixes, updates, backups and performance checks.",
+        "After a Bangalore project goes live, you own everything: source code in your Git repository, domains, cloud and app store accounts, and documentation describing how the system is set up. We stay on as collaborators for two months of free maintenance covering fixes, updates, backups and performance checks.",
         "Handover is designed for independence. If you later hire an in-house engineer in Bengaluru, they receive a README, environment details, deployment steps and an architecture note. We are happy to spend a session walking them through the system. After the free period, support continues from ₹8,000 per month, or per task when needed.",
         "Support happens on WhatsApp, email and calls seven days a week. Production issues that stop orders, bookings or payments get immediate priority. For more about how we work, see our <a href='/about/'>about page</a> and the wider <a href='/india/karnataka/'>Karnataka overview</a>.",
       ],
@@ -322,7 +322,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. Five months of maintenance are free after go-live, covering fixes, updates, backups, security and performance checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
+        "Yes. Two months of maintenance are free after go-live, covering fixes, updates, backups, security and performance checks. After that, plans start at ₹8,000 per month, or you can pay per task.",
     },
     {
       question: "Do you communicate in Kannada or other languages?",

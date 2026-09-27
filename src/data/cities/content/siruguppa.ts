@@ -56,7 +56,7 @@ const siruguppa: CityContent = {
     ai: "WhatsApp replies in Kannada and English for rate enquiries, stock checks and appointment requests, with a person handling anything important.",
     data: "Season dashboards that compare paddy bought, rice sold, broken percentage and payments pending by buyer.",
     app: "Android and iOS apps for rice buyers to see stock and reorder, or for field staff logging paddy purchases, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for backups, updates and fixes during the milling rush.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for backups, updates and fixes during the milling rush.",
   },
   whyUsIntro:
     "Rice millers in Siruguppa count every paisa and remember who delivered on time last season. So we keep it plain: starting prices are public, the quote arrives itemised, work starts only after you approve it in writing, and the domain, hosting, code and app store accounts are registered to you. We answer WhatsApp all seven days.",
@@ -184,7 +184,7 @@ const siruguppa: CityContent = {
       heading: "Ownership, handover and maintenance for Siruguppa clients",
       paragraphs: [
         "Everything we build for you is yours. The domain is registered in your name, hosting is billed to your account, the source code is handed over in full, and apps are published under your own Google Play and Apple developer accounts. If you move to another developer later, they get working access on day one.",
-        "After launch, maintenance is free for five months. That covers bug fixes, security updates, backups and small content changes. After that, maintenance starts at ₹8,000 a month, and you can stop at any time. Most mills keep it through the season and review it in the lean months.",
+        "After launch, maintenance is free for two months. That covers bug fixes, security updates, backups and small content changes. After that, maintenance starts at ₹8,000 a month, and you can stop at any time. Most mills keep it through the season and review it in the lean months.",
         "Siruguppa me website banwana ho ya app, process same hai: pehle quote, phir approval, phir kaam. You never pay for work you did not sign off.",
       ],
     },
@@ -262,7 +262,7 @@ const siruguppa: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: bug fixes, security updates, backups and small text or photo changes. After that, maintenance starts at ₹8,000 a month and can be paused or cancelled. Mills often keep it through the harvest season when downtime would hurt most.",
+        "The first two months after launch are free: bug fixes, security updates, backups and small text or photo changes. After that, maintenance starts at ₹8,000 a month and can be paused or cancelled. Mills often keep it through the harvest season when downtime would hurt most.",
     },
     {
       question: "Can I sell rice or oil online from Siruguppa?",

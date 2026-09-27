@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "IT services · Khammam, Telangana",
     h1: "Freelance software developers for Khammam's chilli traders, cold stores, clinics and service businesses",
     lede:
-      "Freelance software developers for Khammam and the surrounding district: BtechWaleTech is a freelance group of three remote engineers who build lot and cold-storage software for the chilli trade, service websites with local pages, Telugu WhatsApp agents, Android and iOS apps, dashboards and the maintenance that keeps it all running. If you were shortlisting a software development team in Khammam, compare our public starting prices and the five months of maintenance we include after launch.",
+      "Freelance software developers for Khammam and the surrounding district: BtechWaleTech is a freelance group of three remote engineers who build lot and cold-storage software for the chilli trade, service websites with local pages, Telugu WhatsApp agents, Android and iOS apps, dashboards and the maintenance that keeps it all running. If you were shortlisting a software development team in Khammam, compare our public starting prices and the two months of maintenance we include after launch.",
     pills: ["Chilli lot and cold-store software", "Service and local pages", "Telugu WhatsApp agents", "Android and iOS apps", "Maintenance that continues"],
   },
   quickAnswer:
-    "Khammam businesses can hire BtechWaleTech, three freelance engineers who work remotely from India. A service website costs from ₹10,000 and goes live in one to two weeks; Telugu WhatsApp automation or an Android and iOS app costs from ₹40,000; chilli trade or cold-storage software costs from ₹60,000. The first five months of upkeep are free, then ₹8,000 monthly.",
+    "Khammam businesses can hire BtechWaleTech, three freelance engineers who work remotely from India. A service website costs from ₹10,000 and goes live in one to two weeks; Telugu WhatsApp automation or an Android and iOS app costs from ₹40,000; chilli trade or cold-storage software costs from ₹60,000. The first two months of upkeep are free, then ₹8,000 monthly.",
   snapshot: [
     { label: "Chilli trade", value: "The Khammam agricultural market yard is among Telangana's biggest red chilli markets, with cotton and other crops also traded" },
     { label: "Cold storage", value: "A large number of cold storages around the city hold chilli stocks for traders and farmers between seasons" },
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "WhatsApp agents in Telugu that share daily chilli rates, answer storage or appointment questions, send rent and dues reminders, and pass anything unusual to staff.",
     data: "Dashboards for cold-store occupancy, lots by farmer and variety, dues and rents, or hospital appointments, readable on a phone from the yard.",
     app: "Android and iOS apps from ₹40,000: one Flutter or React Native build for Android phones and iPhones, listed on Google Play and the App Store, so Khammam farmers check settlements, depositors check bags and patients book slots.",
-    maintenance: "Ongoing maintenance for websites and software: backups, updates, fixes and content changes, free for five months and from ₹8,000 a month after.",
+    maintenance: "Ongoing maintenance for websites and software: backups, updates, fixes and content changes, free for two months and from ₹8,000 a month after.",
   },
   whyUsIntro:
     "Khammam businesses often have a website that worked once and was then left alone, with broken forms and expired certificates. A freelance group of three builds with maintenance in mind: the same engineers who launch your system keep it updated, backed up and working, with support on WhatsApp every day.",
@@ -164,7 +164,7 @@ const content: CityContent = {
       heading: "Website and software maintenance in Khammam: what it covers and why it matters",
       paragraphs: [
         "Maintenance keeps a Khammam website or system secure, fast and working after launch, covering backups, security and software updates, bug fixes, form testing, uptime checks and small content changes. Without it, forms break silently, certificates expire, and software falls behind security patches until something fails at a bad moment.",
-        "Every project we deliver includes five months of free maintenance after launch. After that, plans start from ₹8,000 a month, or you can pay per change. We test contact forms monthly, check backups actually restore, and keep a log of every change so you can see what was done.",
+        "Every project we deliver includes two months of free maintenance after launch. After that, plans start from ₹8,000 a month, or you can pay per change. We test contact forms monthly, check backups actually restore, and keep a log of every change so you can see what was done.",
         "If you already have a website or system built by someone else, we can review it and take over maintenance once we understand how it is set up. We will tell you honestly if it would be cheaper to rebuild.",
       ],
       list: [
@@ -223,14 +223,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Trade, cold-storage or custom software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
       id: "working-with-us-khammam",
       heading: "How our freelance software developers work with Khammam clients",
       paragraphs: [
-        "Working with our freelance software developers from Khammam follows a fixed rhythm. First a call to understand your yard, store or clinic; then a line-by-line quote within roughly two working days; then a demo link you can open every week; then go-live with Telugu training for your staff; then five months of upkeep at no charge. WhatsApp stays open every day of the week for questions.",
+        "Working with our freelance software developers from Khammam follows a fixed rhythm. First a call to understand your yard, store or clinic; then a line-by-line quote within roughly two working days; then a demo link you can open every week; then go-live with Telugu training for your staff; then two months of upkeep at no charge. WhatsApp stays open every day of the week for questions.",
         "When the project closes, the code, the database, all passwords and a short note on how the system is hosted are handed to you. We will not promise a Google position, post made-up reviews or pretend to have a Khammam branch. Learn <a href=\"/about/\">about us</a>, see <a href=\"/portfolio/\">our portfolio</a>, explore <a href=\"/services/\">all services</a> and our <a href=\"/it-services/telangana/\">Telangana overview</a>, then contact us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
@@ -282,7 +282,7 @@ const content: CityContent = {
     {
       question: "What does maintenance include?",
       answer:
-        "For five months after go-live we cover, at no charge, daily backups and trial restores, security patches, bug fixes, a monthly check that every form and booking still works, uptime alerts and small wording or price edits. From the sixth month it is ₹8,000 a month, or pay only when you ask for a change. Bigger additions get their own quote.",
+        "For two months after go-live we cover, at no charge, daily backups and trial restores, security patches, bug fixes, a monthly check that every form and booking still works, uptime alerts and small wording or price edits. From the third month it is ₹8,000 a month, or pay only when you ask for a change. Bigger additions get their own quote.",
     },
     {
       question: "Can you take over maintenance of our existing website?",

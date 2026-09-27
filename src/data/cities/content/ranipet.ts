@@ -31,11 +31,11 @@ const ranipet: CityContent = {
     eyebrow: "Ranipet · Tamil Nadu",
     h1: "Web, app, SEO and automation services for Ranipet's leather, chemical and engineering firms and the towns around them",
     lede:
-      "Three remote engineers building export-ready websites, supplier profiles, online stores and WhatsApp automations for Ranipet's SIPCOT units, leather and footwear makers, BHEL vendors, and the schools, clinics and shops of Arcot, Walajapet and Arakkonam. Prices are public, you deal with the developers, and five months of maintenance are free.",
+      "Three remote engineers building export-ready websites, supplier profiles, online stores and WhatsApp automations for Ranipet's SIPCOT units, leather and footwear makers, BHEL vendors, and the schools, clinics and shops of Arcot, Walajapet and Arakkonam. Prices are public, you deal with the developers, and two months of maintenance are free.",
     pills: ["Sites from ₹10,000", "Export buyer pages", "Tamil and English content", "Supplier capability profiles", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A business website in Ranipet costs from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site for a manufacturer or exporter starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ranipet office, and maintenance is free for five months after launch.",
+    "A business website in Ranipet costs from ₹10,000 with us and is usually live in one to two weeks. A 299+ page SEO site for a manufacturer or exporter starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no Ranipet office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "On the north bank of the Palar, about 115 km west of Chennai and 26 km east of Vellore, on the Chennai–Bengaluru highway" },
     { label: "District", value: "Headquarters of Ranipet district, carved out of Vellore district in 2019, with taluks Arcot, Walajapet, Arakkonam, Sholinghur, Nemili and Kalavai" },
@@ -52,10 +52,10 @@ const ranipet: CityContent = {
     ai: "WhatsApp assistants that answer routine product, sample and dispatch questions and pass serious enquiries to your sales team.",
     data: "Dashboards pulling production, dispatch and receivables data from your spreadsheets into one view for the owner.",
     app: "Android and iOS apps for shop-floor checklists, gate passes or field sales orders on ordinary phones, published on Google Play and the App Store.",
-    maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security fixes for two months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Many Ranipet firms have a website that has not changed since it was first made, with an old phone number and a product list from years ago. We publish our starting prices, write pages around what your buyers actually search for, reply on WhatsApp seven days a week, and keep the site updated free for five months after launch.",
+    "Many Ranipet firms have a website that has not changed since it was first made, with an old phone number and a product list from years ago. We publish our starting prices, write pages around what your buyers actually search for, reply on WhatsApp seven days a week, and keep the site updated free for two months after launch.",
   pricingIntro:
     "Web quotes around Ranipet and Vellore vary a lot and rarely explain what you are paying for. Our starting prices are published below. The final figure depends on pages, products, languages and features, and on how much content you already have. You receive an itemised quote before we begin.",
   sections: [
@@ -168,11 +168,11 @@ const ranipet: CityContent = {
     },
     {
       id: "ownership-maintenance-ranipet",
-      heading: "You own the website; we maintain it free for five months",
+      heading: "You own the website; we maintain it free for two months",
       paragraphs: [
         "We regularly meet Ranipet firms who cannot change their own website because a former developer controls the domain or hosting. For an exporter, a broken site or lost email domain can mean missed buyer enquiries for weeks.",
         "We set up every project so this does not happen. Your domain and hosting are registered in your name, you receive every login and a short guide to how the site works, and the source code belongs to you. You can move to another developer at any time without an exit fee.",
-        "Maintenance is free for five months after launch, covering content and product updates, bug fixes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
+        "Maintenance is free for two months after launch, covering content and product updates, bug fixes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed. Our <a href=\"/services/web-development/\">web development</a> page explains what each build includes.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const ranipet: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle content and product updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something.",
+        "For two months after launch we handle content and product updates, bug fixes, security and software updates, backups and uptime monitoring at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need something.",
     },
     {
       question: "How long does SEO take for a Ranipet business?",

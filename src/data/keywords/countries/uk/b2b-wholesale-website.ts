@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Purchase-order email automation from", P.ai],
     ["Order fee or revenue share to us", "None"],
     ["Typical build", "4–12 weeks"],
-    ["Care plan", `From ${P.care} after 5 free months`],
+    ["Care plan", `From ${P.care} after 2 free months`],
   ],
   stats: [
     { value: "3", label: "Platform routes we build on" },
     { value: "30", label: "Days before an unagreed invoice is late, per GOV.UK" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
   ],
   answer: {
     heading: "What does a B2B wholesale ecommerce website need, and what does it cost?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Rep ordering app", note: `Field sales reps take orders on a tablet at the customer's counter, even offline, published under your developer accounts, from ${P.app}.`, href: "/uk/flutter-app-development/", size: "md" },
       { name: "Catalogue SEO", note: `Indexable product and category pages that bring new trade enquiries while prices stay behind the login, with monthly SEO from ${P.seo}.`, href: "/uk/ecommerce-seo-services/", size: "sm" },
       { name: "Data dashboards", note: "Order frequency, lapsed accounts and top lines per customer, built on your own sales data.", href: "/uk/power-bi-consultant/", size: "sm" },
-      { name: "Care plan", note: `Platform updates, sync monitoring and small changes from ${P.care} after five free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
+      { name: "Care plan", note: `Platform updates, sync monitoring and small changes from ${P.care} after two free months.`, href: "/uk/website-maintenance-cost/", size: "sm" },
     ],
   },
   comparison: {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Sign off the pricing sheet", "We write your price groups, overrides, quantity rules and credit terms into one document, tested against real customer examples."],
       ["Build on a preview site", "Trade flow, catalogue, ordering tools and account pages built while you test them. ERP sync developed against a test company where possible."],
       ["Test with real buyers", "A few trusted trade customers place test orders, prices are checked against invoices, and sync failures are simulated to prove the alerts work."],
-      ["Launch in batches", "Accounts are invited in groups so the order desk can support them. Fixes are free for five months, then an optional care plan."],
+      ["Launch in batches", "Accounts are invited in groups so the order desk can support them. Fixes are free for two months, then an optional care plan."],
     ],
   },
   faqHeading: "B2B wholesale ecommerce website questions",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Is a developer team in India suitable for a UK wholesale project?", answer: "Yes, if you are comfortable working by video, WhatsApp and shared documents. We overlap with the UK day from late morning, reply seven days a week, and use ERP credentials created in your own accounts. Quotes are in USD, payable from GBP by Wise, wire or PayPal. We do not visit warehouses." },
     { question: "Who owns the trade website and customer data?", answer: "You do. The domain, platform account, hosting, code and customer records are in your name from the start. Your ERP remains the system of record for accounts and invoices. If you change developer, you hand over logins; there is nothing to buy back from us and no licence fee." },
     { question: "What happens if an order fails to sync to the ERP?", answer: "Every sync is logged. If an order fails, for example because a product code changed, the system sends an alert by email or WhatsApp and shows the failed order on a retry screen with the reason. Your team fixes the data and retries, so nothing waits unnoticed until month end." },
-    { question: "What support is available after launch?", answer: "Fixes are free for five months after launch, and we watch the sync closely while accounts are invited. After that, an optional care plan from our maintenance price covers updates, sync monitoring and small changes. Larger changes are quoted in writing first; see our terms for how changes are agreed." },
+    { question: "What support is available after launch?", answer: "Fixes are free for two months after launch, and we watch the sync closely while accounts are invited. After that, an optional care plan from our maintenance price covers updates, sync monitoring and small changes. Larger changes are quoted in writing first; see our terms for how changes are agreed." },
     { question: "How do UK wholesalers pay for a build in India?", answer: "Invoices come from India in USD. You pay from a GBP account by Wise, bank wire or PayPal, against milestones in the written quote you approve. Nothing is billed before that approval. Your accountant can advise on how to record the payments." },
   ],
   related: {

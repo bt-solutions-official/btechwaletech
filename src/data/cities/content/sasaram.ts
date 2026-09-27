@@ -31,11 +31,11 @@ const sasaram: CityContent = {
     eyebrow: "Sasaram · Rohtas district, Bihar",
     h1: "Websites, apps, SEO and AI automation for Sasaram's rice millers, quarry suppliers, clinics and coaching institutes",
     lede:
-      "We are three engineers who build websites, Google Maps profiles and WhatsApp systems for businesses in Sasaram and across Rohtas: rice mills on the Sone canal belt, stone and aggregate suppliers near the Kaimur hills, doctors and hospitals, coaching centres, hotels on the GT Road and shops in the town's bazaars. Rates are published and upkeep is free for five months.",
+      "We are three engineers who build websites, Google Maps profiles and WhatsApp systems for businesses in Sasaram and across Rohtas: rice mills on the Sone canal belt, stone and aggregate suppliers near the Kaimur hills, doctors and hospitals, coaching centres, hotels on the GT Road and shops in the town's bazaars. Rates are published and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Hindi and Bhojpuri-aware copy", "Rice mill and trade pages", "Clinic and hospital sites", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "A simple business website in Sasaram starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no office in Sasaram, and maintenance is free for five months after launch.",
+    "A simple business website in Sasaram starts at ₹10,000 with us and is ready in one to two weeks. A 299+ page site built for search starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote team with no office in Sasaram, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "District role", value: "Headquarters of Rohtas district in Patna division, on the Grand Trunk Road between the Sone and the Kaimur hills" },
     { label: "Farm economy", value: "Rohtas is known as a rice bowl of Bihar (“dhan ka katora”), and rice milling is a leading local industry" },
@@ -52,7 +52,7 @@ const sasaram: CityContent = {
     ai: "Hindi WhatsApp replies for fees, doctor days, rates and stock questions, with anything involving money or medicine handed to a person.",
     data: "Simple dashboards that show a mill's dispatches, a hospital's footfall or a coaching centre's admissions by week on your phone.",
     app: "Android and iOS apps for attendance, truck entries or order booking that keep working on patchy data around the plateau villages, from ₹40,000.",
-    maintenance: "Updates, backups, uptime checks and small edits free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, uptime checks and small edits free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Sasaram businesses got their first website from a local computer institute or a Patna agency, and a year later nobody could find the password. The domain was often registered to the builder. We are a small remote team with published rates, written quotes and direct access to the engineers, and every login is handed to you at launch.",
@@ -177,7 +177,7 @@ const sasaram: CityContent = {
       paragraphs: [
         "Across Rohtas, a common complaint is a website that vanished because the person who built it registered the domain in his own name and then stopped answering. The business cannot renew it, change it or move it, and eventually the name expires.",
         "We register the domain and hosting in your name and account from day one. At launch you receive every login, the full source code and a short note on the setup, so any developer can take over later without an exit fee. Our <a href=\"/services/web-development/\">web development</a> uses common, documented tools for that reason.",
-        "For five months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small changes. After that you can continue from ₹8,000 a month or contact us only when you need something.",
+        "For two months after launch, maintenance is free: updates, backups, security fixes, uptime checks and small changes. After that you can continue from ₹8,000 a month or contact us only when you need something.",
       ],
     },
     {
@@ -267,7 +267,7 @@ const sasaram: CityContent = {
     {
       question: "What happens after the website goes live?",
       answer:
-        "For five months we maintain it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you contact us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
+        "For two months we maintain it free: updates, backups, security fixes, uptime checks and small edits. After that, maintenance starts from ₹8,000 a month, or you contact us only when you need a change. Monthly SEO is separate and starts at ₹10,000.",
     },
     {
       question: "How long before SEO shows results in Sasaram?",

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Calculator", "Bill or units in, system size and payback range out"],
     ["Funnels", "Residential and commercial, kept separate"],
     ["Written quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Separate funnels: homes and businesses" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
     { value: "2", label: "Working days to your itemised quote" },
   ],
   answer: {
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, solar company website design starts at ${P.site} (roughly ${P.siteUsd}) for up to 100 pages including both funnels, the calculator, the subsidy explainer, survey booking and a project gallery. Other quotes vary widely, so compare calculator logic, gallery setup and ownership terms, not just the headline figure.`,
         `The calculator decides most of the cost difference. A bill-based estimate with one generation assumption per state is quick. A tariff-slab calculator that handles fixed charges, different consumer categories and net-metering credit needs more work and careful testing with your engineers. The next driver is content: town pages and project write-ups each need facts and photos from you. Third comes any software: a customer portal showing installation progress, subsidy paperwork status and service tickets is a custom web app from ${P.software}.`,
-        `Other options: a technician or survey app starts at ${P.app}; automated WhatsApp nurturing for slow deciders starts at ${P.ai}; monthly SEO from ${P.seo}; maintenance after the five free months from ${P.care}. See all plans on our <a href='/pricing/'>pricing page</a>.`,
+        `Other options: a technician or survey app starts at ${P.app}; automated WhatsApp nurturing for slow deciders starts at ${P.ai}; monthly SEO from ${P.seo}; maintenance after the two free months from ${P.care}. See all plans on our <a href='/pricing/'>pricing page</a>.`,
       ],
     },
     {
@@ -263,7 +263,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You do. The domain, hosting, Google Search Console, analytics, CRM or lead sheet, and WhatsApp Business account are set up in your business name from the start, and the full source code is handed over at launch.`,
         `We document the calculator: where each assumption lives, what it means, and how to update prices, tariffs or subsidy rules when they change. Anyone on your team who can edit a spreadsheet can keep it current. Build-time access is removed at handover. If you later work with another developer, they can continue without needing anything from us.`,
-        `Maintenance is free for five months after launch: updating assumptions, adding projects to the gallery, new town pages, small fixes. After that it is optional from ${P.care}. Clients in India pay by UPI or bank transfer, international clients by Wise, wire or PayPal, against milestones in the approved quote. Details are in our <a href='/terms/'>terms</a>.`,
+        `Maintenance is free for two months after launch: updating assumptions, adding projects to the gallery, new town pages, small fixes. After that it is optional from ${P.care}. Clients in India pay by UPI or bank transfer, international clients by Wise, wire or PayPal, against milestones in the approved quote. Details are in our <a href='/terms/'>terms</a>.`,
       ],
     },
     {
@@ -332,7 +332,7 @@ const content: FreelanceContent = {
         ["Survey and technician app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Firms with several field engineers"],
         ["Customer portal for installation, paperwork and service status", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "EPCs with large installed bases"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Service-area pages, reviews, blog"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Assumption updates, gallery, fixes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Ongoing", "Assumption updates, gallery, fixes"],
       ],
       hideSm: [2],
     },
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Tune the calculator with your engineer", "We build the assumption table first and test it against real customer bills until the ranges match what your engineers would say on site."],
       ["Review both funnels on a preview", "Residential and commercial paths, the subsidy page, survey form and gallery go up on a private link for your sales team to test from their phones."],
       ["Launch with lead routing live", "WhatsApp alerts, the CRM or sheet, Search Console and analytics are set up in your name, and the domain moves to the new site."],
-      ["Keep figures current for five months", "Tariffs, prices and subsidy details change; for five months after launch we update them and add projects at no charge."],
+      ["Keep figures current for two months", "Tariffs, prices and subsidy details change; for two months after launch we update them and add projects at no charge."],
     ],
   },
   faqHeading: "Solar company website design: questions installers ask",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "Can existing customers book service or cleaning through the website?", answer: "Yes. A service request page lets customers report faults or book panel cleaning and inverter checks, with system details and photos. Requests can feed a simple schedule or a full AMC system. A visible service page also reassures new buyers that you support installations long after commissioning." },
     { question: "What do you need from us to start solar company website design?", answer: "Your services and capacity range, towns you cover, per-kW pricing bands, generation assumptions your engineer uses, scheme registration details, warranty information, installation photos with customer permission, your logo and business details. If you already use a CRM, tell us its name so leads can flow straight into it." },
     { question: "How do payments work with your team?", answer: "Clients in India pay by UPI or bank transfer against milestones in the approved estimate; clients abroad pay by Wise, bank wire or PayPal in USD. No payment is taken before you approve the itemised quote in writing. Any refund terms are written into that quote and summarised on our refund policy page." },
-    { question: "Is maintenance included after the solar website launches?", answer: `Yes. Five months of free maintenance covers calculator assumption updates, new projects in the gallery, new town pages, small edits and fixes. Afterwards, maintenance is optional from ${P.care}. You own the code, so you can also handle updates in-house or with another developer.` },
+    { question: "Is maintenance included after the solar website launches?", answer: `Yes. Two months of free maintenance covers calculator assumption updates, new projects in the gallery, new town pages, small edits and fixes. Afterwards, maintenance is optional from ${P.care}. You own the code, so you can also handle updates in-house or with another developer.` },
     { question: "Solar company ki website banwane me kitna kharcha aata hai?", answer: `BtechWaleTech ke saath solar company website design ${P.site} se start hota hai. Isme savings calculator, PM Surya Ghar subsidy ki simple explanation, rooftop survey booking, project gallery aur ghar aur factory ke liye alag pages aate hain. Itemised quote lagbhag do working days me WhatsApp par milta hai.` },
   ],
   related: {
@@ -414,7 +414,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a solar company website that books surveys with serious buyers?",
-    note: `Send your service area, pricing bands and a few project photos on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain, hosting, calculator and code in your business name and five months of free maintenance after launch.`,
+    note: `Send your service area, pricing bands and a few project photos on WhatsApp. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain, hosting, calculator and code in your business name and two months of free maintenance after launch.`,
   },
 };
 

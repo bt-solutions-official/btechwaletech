@@ -56,7 +56,7 @@ const dhenkanal: CityContent = {
     ai: "Odia WhatsApp assistants that answer rate, stock and timing questions and hand negotiations over to you.",
     data: "Dashboards of jobs completed, invoices raised to plants, payments pending and craft orders by state.",
     app: "Android and iOS apps for contractor crews to log attendance or for coaching students to get notes, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Dhenkanal clients often deal with big plants that pay slowly and scrutinise every bill, so they value paperwork that holds up. We give published starting prices, an itemised written quote, WhatsApp replies every day of the week, and domain, hosting, code and app accounts in your name. If an idea will not pay back, we tell you before you spend.",
@@ -170,7 +170,7 @@ const dhenkanal: CityContent = {
       heading: "Ownership and maintenance for Dhenkanal websites and apps",
       paragraphs: [
         "A common complaint in district towns is the website that stops working because the developer registered the domain in his own name and then moved on. We register the domain, hosting, source code, Google Business Profile access and app store accounts to you from the first day.",
-        "Maintenance is free for five months after launch: content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue; otherwise you can hand over to anyone, because all access is already yours.",
+        "Maintenance is free for two months after launch: content and price updates, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue; otherwise you can hand over to anyone, because all access is already yours.",
         "Apps need yearly updates as Google and Apple change requirements, and we keep track so your app is not removed from the stores. For search support after launch see our <a href=\"/services/seo-services/\">SEO services</a>, and for app work our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -262,7 +262,7 @@ const dhenkanal: CityContent = {
     {
       question: "What maintenance do you offer after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. All logins belong to you, so moving to another developer is always possible.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp buttons. After that, maintenance starts at ₹8,000 a month if you want us to continue. All logins belong to you, so moving to another developer is always possible.",
     },
     {
       question: "Do you work in Kamakhyanagar, Bhuban and Talcher as well?",

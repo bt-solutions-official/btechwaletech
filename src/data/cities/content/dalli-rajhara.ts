@@ -55,7 +55,7 @@ const dalliRajhara: CityContent = {
     ai: "WhatsApp assistants that answer rates, stock and timing questions in Hindi and pass any real decision to the owner.",
     data: "Monthly dashboards of trips, tonnage, machine hours, fuel issued and payments pending, per vehicle and per site.",
     app: "Android and iOS apps from ₹40,000 for drivers logging trips or supervisors marking attendance, published on Google Play and the App Store in your name.",
-    maintenance: "No upkeep charges for five months after launch; after that, from ₹8,000 a month if you want us to keep looking after it.",
+    maintenance: "No upkeep charges for two months after launch; after that, from ₹8,000 a month if you want us to keep looking after it.",
   },
   whyUsIntro:
     "Contractors and traders in Dalli-Rajhara are used to work orders, measurement books and payment schedules, and they want the same clarity from a software supplier. You get a written, itemised quote, public starting prices, a WhatsApp line answered every day, and a handover where the domain, hosting, code and app store accounts all sit in your name.",
@@ -167,7 +167,7 @@ const dalliRajhara: CityContent = {
       heading: "Your ownership, our maintenance: after-launch support in Dalli-Rajhara",
       paragraphs: [
         "Everything we make is registered to you. The domain uses your email, hosting is billed to you, the source code is handed over, and your Google Business Profile, Google Play developer account and Apple developer account list you as owner. You receive a written list of all logins at handover, so no developer, including us, can hold your site or data hostage.",
-        "The first five months after launch come with free maintenance: content changes, backups, security and software updates, and regular checks that forms, payments and WhatsApp links work. After that you choose. Continue with us from ₹8,000 a month, manage it yourself, or give the code to any other developer.",
+        "The first two months after launch come with free maintenance: content changes, backups, security and software updates, and regular checks that forms, payments and WhatsApp links work. After that you choose. Continue with us from ₹8,000 a month, manage it yourself, or give the code to any other developer.",
         "Apps and software used for payments or wages need careful upkeep. Google and Apple raise their minimum requirements every year, and a trip or wage tool should be backed up so a lost phone or failed server does not wipe out a month of records. We handle both during maintenance and tell you in advance about anything that will cost extra.",
       ],
     },
@@ -259,7 +259,7 @@ const dalliRajhara: CityContent = {
     {
       question: "What maintenance do you offer after the website or app goes live?",
       answer:
-        "Five months of free maintenance after launch, covering updates, backups, security fixes and checks on forms, payments and WhatsApp links. Then you can continue from ₹8,000 a month, manage it yourself, or move to another developer. Since everything is in your name, switching needs nobody's permission.",
+        "Two months of free maintenance after launch, covering updates, backups, security fixes and checks on forms, payments and WhatsApp links. Then you can continue from ₹8,000 a month, manage it yourself, or move to another developer. Since everything is in your name, switching needs nobody's permission.",
     },
     {
       question: "Can a coaching centre in Dalli-Rajhara use an app for parents?",

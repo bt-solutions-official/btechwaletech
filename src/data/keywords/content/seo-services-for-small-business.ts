@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         "Monthly reports: kept in a shared folder you control",
       ],
       after: [
-        `Once SEO work is settled, routine upkeep of the site itself is covered by maintenance from ${P.care} after the first five free months; see <a href='/website-maintenance-charges/'>website maintenance charges</a>.`,
+        `Once SEO work is settled, routine upkeep of the site itself is covered by maintenance from ${P.care} after the first two free months; see <a href='/website-maintenance-charges/'>website maintenance charges</a>.`,
       ],
     },
   ],

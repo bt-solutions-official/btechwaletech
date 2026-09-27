@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that answer rates, availability, course and order questions in Hindi and English on WhatsApp and pass qualified leads to your team.",
     data: "Dashboards for export orders, occupancy, admissions, stock and collections, drawn from Tally, spreadsheets and your own software.",
     app: "Android and iOS apps for Rajasthan coaching students, hotel guests, dealers and field staff, built once in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Hosting, backups, security updates and fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Hosting, backups, security updates and fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Rajasthan businesses sell to the world, from Jaipur gem houses to Jodhpur furniture exporters and Udaipur hotels, yet many still depend on software and websites that nobody maintains. We are three freelance engineers who publish prices, build in testable stages, hand over every login and stay reachable on WhatsApp seven days a week.",
@@ -131,7 +131,7 @@ const content: CityContent = {
       paragraphs: [
         "Android and iOS app development for a Rajasthan business starts at ₹40,000 with BtechWaleTech and takes six to ten weeks. We build one app in Flutter or React Native, publish it on Google Play and the Apple App Store under your own developer accounts, and include login, forms, push notifications, an admin panel and an API link to your existing systems.",
         "Kota is the clearest example of app demand in the state: coaching institutes and hostels serve students from across India, and parents want updates. A coaching app can deliver timetables, test results, doubt-session bookings, attendance and fee reminders, while a hostel app can handle room allotment, mess menus, complaints and parent notifications. Elsewhere, Jaipur and Jodhpur exporters use private catalogue apps for buyers and dealer ordering apps, hotels offer booking and concierge apps to repeat guests, and FMCG brands from Bikaner give distributors an ordering app.",
-        "We check whether an app will be opened regularly before recommending it; for occasional visitors, a fast mobile website is cheaper and better. Apps share one backend with your website and software, work on low-cost Android handsets, and include five months of post-launch fixes."],
+        "We check whether an app will be opened regularly before recommending it; for occasional visitors, a fast mobile website is cheaper and better. Apps share one backend with your website and software, work on low-cost Android handsets, and include two months of post-launch fixes."],
       list: [
         "Coaching and hostel apps for Kota students and parents",
         "Private catalogue and dealer ordering apps for exporters",
@@ -181,14 +181,14 @@ const content: CityContent = {
       paragraphs: [
         "Cloud hosting runs your software, apps and websites on managed servers with SSL, backups and monitoring, all registered in your name. We use AWS or comparable providers for applications and fast edge networks for websites, with automated deployments that can be rolled back quickly.",
         "Peak loads in Rajasthan are predictable: tourist season, wedding season, coaching admission windows and export shipment deadlines. We test for those peaks before they arrive.",
-        "Maintenance is free for five months after launch, covering fixes, updates, backups and small changes. After that, plans start at ₹8,000 a month or you can pay per request. We reply on WhatsApp seven days a week.",
+        "Maintenance is free for two months after launch, covering fixes, updates, backups and small changes. After that, plans start at ₹8,000 a month or you can pay per request. We reply on WhatsApp seven days a week.",
       ],
     },
     {
       id: "cost-it-services-rajasthan",
       heading: "How much do IT services cost in Rajasthan?",
       paragraphs: [
-        "With BtechWaleTech, IT services in Rajasthan start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
+        "With BtechWaleTech, IT services in Rajasthan start at ₹10,000 for a website, ₹20,000 for a 299+ page SEO website, ₹40,000 for an Android and iOS app, ₹40,000 for AI or WhatsApp automation, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after two free months.",
         "The final figure depends on modules, users, integrations and how much content is ready. Each quote is itemised so you can phase work across seasons. Details are on our <a href='/pricing/'>pricing page</a>.",
         "Payment is simple: clients pay us in INR only, by UPI through our QR code or by direct bank transfer to our bank account. Larger projects are split into milestones paid after you review working software.",
       ],
@@ -303,7 +303,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of maintenance after launch are free: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month or you can pay per request. We reply on WhatsApp seven days a week.",
+        "Two months of maintenance after launch are free: bug fixes, security updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month or you can pay per request. We reply on WhatsApp seven days a week.",
     },
     {
       question: "Can you help exporters track orders given to artisans?",

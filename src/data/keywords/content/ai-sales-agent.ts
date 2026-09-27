@@ -37,7 +37,7 @@ const content: FreelanceContent = {
     ["Channels", "WhatsApp, email, website chat"],
     ["Knowledge source", "Your catalogue and price list only"],
     ["Pricing promises", "Blocked unless you set the rule"],
-    ["Free maintenance", "5 months after go-live"],
+    ["Free maintenance", "2 months after go-live"],
   ],
   stats: [
     { value: "3", label: "Developers who build and tune your agent" },
@@ -236,7 +236,7 @@ const content: FreelanceContent = {
         "Approval workflows and number of salespeople to route between",
       ],
       after: [
-        `Running costs are yours and paid directly: AI model usage, WhatsApp template charges, and hosting. For typical ranges of chatbot builds in general, see <a href='/chatbot-development-cost-in-india/'>chatbot development cost in India</a>. Maintenance is free for five months after launch, then optional from ${P.care}.`,
+        `Running costs are yours and paid directly: AI model usage, WhatsApp template charges, and hosting. For typical ranges of chatbot builds in general, see <a href='/chatbot-development-cost-in-india/'>chatbot development cost in India</a>. Maintenance is free for two months after launch, then optional from ${P.care}.`,
       ],
     },
     {
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Quote in two working days", "An itemised quote lists each module, running costs you will pay directly, exclusions and timeline. Work starts only after written approval."],
       ["Build and connect", "Channels, retrieval over your catalogue, the quote engine, calendar routing and CRM mapping are built inside accounts owned by your business."],
       ["Test with real questions", "We run your past enquiries and trick questions through the agent, fix every wrong answer at its source and show you the results before anything goes live."],
-      ["Launch with supervision", "The agent drafts while your team sends, then takes over routine replies once trusted. You get the source code, a walkthrough and five months of free maintenance."],
+      ["Launch with supervision", "The agent drafts while your team sends, then takes over routine replies once trusted. You get the source code, a walkthrough and two months of free maintenance."],
     ],
   },
   faqHeading: "AI sales agent: questions buyers ask us",
@@ -421,7 +421,7 @@ const content: FreelanceContent = {
     { question: "What happens if the agent does not know an answer?", answer: "It says it will check with the team, captures the question and the buyer's details, and hands the conversation to the right person with full context. Those gaps are reviewed weekly; if many buyers ask the same unanswered question, the answer is added to the catalogue data so the agent can handle it next time." },
     { question: "Is customer data safe with an AI sales agent?", answer: "Data stays in accounts your business owns, access is limited by role, and every message is logged. We choose AI providers and settings where your data is not used for model training. The build supports your obligations under Indian data protection law, but compliance decisions stay with your business and its advisers." },
     { question: "How do we pay for the build?", answer: "In India by UPI or bank transfer; from abroad by Wise, bank wire or PayPal, quoted in US dollars. Nothing is charged before you approve the itemised quote in writing, and payment milestones are listed in that quote. General terms are on our terms page and refund conditions on the refund policy page." },
-    { question: "What does maintenance cover after launch?", answer: `The first five months after launch are free: fixes, catalogue updates and small rule changes. After that, an optional plan starts from ${P.care}. You can also maintain it yourself, since price lists and follow-up wording live in sheets your team can edit and the source code is handed over with setup notes.` },
+    { question: "What does maintenance cover after launch?", answer: `The first two months after launch are free: fixes, catalogue updates and small rule changes. After that, an optional plan starts from ${P.care}. You can also maintain it yourself, since price lists and follow-up wording live in sheets your team can edit and the source code is handed over with setup notes.` },
     { question: "Sales ke liye AI agent kaise kaam karta hai?", answer: "Customer WhatsApp ya email par sawal bhejta hai, AI agent turant aapke catalogue se jawab deta hai, zaroori details poochta hai, price list ke hisaab se quote banata hai aur meeting book karta hai. Discount ya special terms ki baat aaye to conversation aapki team ko de deta hai. Sab kuch aapke CRM mein save hota hai." },
   ],
   related: {

@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised in about 2 working days"],
     ["Java baseline", "Java 17 or later (21 or 25 LTS preferred)"],
     ["Deployment", "Docker images; Kubernetes when justified"],
-    ["After launch", `5 months free care, then from ${P.care}`],
+    ["After launch", `2 months free care, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers sharing one codebase and review process" },
     { value: "2", label: "Working days to an itemised estimate" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Docker and Kubernetes rollout", note: "Container images, Actuator liveness and readiness probes, resource limits, secrets and a deployment pipeline in your own cloud.", href: "/kubernetes-consultant/", size: "md" },
       { name: "Kafka or RabbitMQ integration", note: "Event publishing and consumers for orders, payments and notifications, with retries and dead-letter handling.", size: "sm" },
       { name: "APIs for mobile apps", note: `Back ends for Flutter or React Native apps with push and file uploads; apps from ${P.app}.`, href: "/hire-react-native-developer/", size: "sm" },
-      { name: "Spring Boot maintenance", note: `Dependency updates, CVE patching, monitoring and small features after the free five months, from ${P.care}.`, size: "sm" },
+      { name: "Spring Boot maintenance", note: `Dependency updates, CVE patching, monitoring and small features after the free two months, from ${P.care}.`, size: "sm" },
     ],
   },
   comparison: {
@@ -248,7 +248,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does it cost to hire a Spring Boot developer in India?",
       paragraphs: [
-        `With BtechWaleTech, a Spring Boot REST API or web application starts from ${P.software} (${P.softwareUsd}) and usually takes 6–12 weeks. AI features added to a Spring Boot platform, such as document reading or an assistant, start from ${P.ai}. Maintenance after the free five months starts from ${P.care}.`,
+        `With BtechWaleTech, a Spring Boot REST API or web application starts from ${P.software} (${P.softwareUsd}) and usually takes 6–12 weeks. AI features added to a Spring Boot platform, such as document reading or an assistant, start from ${P.ai}. Maintenance after the free two months starts from ${P.care}.`,
         `Rates for Spring Boot developers in India vary widely between freelancers, product engineers and IT services vendors, and hourly figures rarely tell you what a project will cost. A project estimate should be built from the items below, each visible in the quote:`,
       ],
       list: [
@@ -292,7 +292,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Everything belongs to you: the Git repository, container registry, cloud account, databases, identity provider configuration and third-party integrations. We work with access you grant and can remove at any time.`,
         `Handover includes the source, OpenAPI specification, database migrations, a service map, a runbook covering deployment, rollback, backups, certificate renewal and common alerts, plus a recorded walkthrough for your team or a future hire. Java teams can pick up a well-structured Spring Boot codebase quickly, which is one reason organisations choose the stack.`,
-        `Five months of free maintenance follow go-live. After that, maintenance starts from ${P.care} (${P.careUsd}) and covers dependency and CVE updates, Spring Boot minor upgrades, monitoring and small changes. Major version upgrades are quoted separately.`,
+        `Two months of free maintenance follow go-live. After that, maintenance starts from ${P.care} (${P.careUsd}) and covers dependency and CVE updates, Spring Boot minor upgrades, monitoring and small changes. Major version upgrades are quoted separately.`,
       ],
     },
     {
@@ -354,7 +354,7 @@ const content: FreelanceContent = {
         ["Split into services on Kubernetes", "Gateway, probes, pipelines, monitoring", "Quoted after architecture review", "Depends on estate"],
         ["Spring Boot 2 to 3/4 upgrade", "jakarta migration, security rewrite, regression", "Quoted after code audit", "Depends on size"],
         ["AI feature on a Spring platform", "Document reading, assistant, classification", `${P.ai} · ${P.aiUsd}`, "2–4 weeks"],
-        ["Maintenance after 5 free months", "CVE patches, updates, monitoring", `${P.care} · ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", "CVE patches, updates, monitoring", `${P.care} · ${P.careUsd}`, "Monthly"],
       ],
     },
     {
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
       ["Foundations", "Repository in your account, CI pipeline, Spring Security set-up, database migrations, error format and OpenAPI docs are established before feature work begins."],
       ["Milestone delivery", "Modules ship to staging with unit, slice and Testcontainers tests. You or your client developers try endpoints through the OpenAPI docs each week."],
       ["Production readiness", "Container images, Actuator probes, monitoring, alerts, backups and load tests are completed, and security configuration gets a final review."],
-      ["Go-live and handover", "Deployment to your cloud, runbook and recorded walkthrough, followed by five months of free maintenance for fixes and updates."],
+      ["Go-live and handover", "Deployment to your cloud, runbook and recorded walkthrough, followed by two months of free maintenance for fixes and updates."],
     ],
   },
   faqHeading: "Hire Spring Boot developer: questions and answers",
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
     { question: "How do you test Spring Boot applications?", answer: "With layers: JUnit 5 unit tests for business logic, @WebMvcTest and @DataJpaTest slices for controllers and repositories, and @SpringBootTest integration tests with Testcontainers running a real database or broker. Security rules are tested per role. Everything runs in CI and blocks merges when it fails." },
     { question: "Can Spring Boot work with AI features?", answer: `Yes. A Spring Boot platform can call LLM APIs or a separate Python model service for document reading, classification or assistants. When the AI part is Python-heavy, we usually build it as a small FastAPI service that the Spring Boot core calls. AI features start from ${P.ai}.` },
     { question: "Can a Spring Boot developer also build the front end and mobile app?", answer: `Our team covers the stack. We build React or Next.js front ends on top of Spring Boot APIs, and mobile apps in Flutter or React Native published on Google Play and the App Store, with apps starting from ${P.app}. One team owning the API and its clients avoids contract mismatches.` },
-    { question: "What happens after the Spring Boot project goes live?", answer: `You get five months of free maintenance for bug fixes, dependency updates and small changes. After that, maintenance starts from ${P.care} (${P.careUsd}) and includes CVE patching, minor Spring Boot upgrades, monitoring and small features. Major version upgrades and new modules are quoted separately.` },
+    { question: "What happens after the Spring Boot project goes live?", answer: `You get two months of free maintenance for bug fixes, dependency updates and small changes. After that, maintenance starts from ${P.care} (${P.careUsd}) and includes CVE patching, minor Spring Boot upgrades, monitoring and small features. Major version upgrades and new modules are quoted separately.` },
     { question: "How do payments work for a Spring Boot project?", answer: "You approve an itemised estimate in writing before any billing. Work is then invoiced by milestone. Indian clients pay by UPI or bank transfer and receive GST invoices; international clients are quoted in USD and pay by Wise, bank wire or PayPal. Specific payment terms are written into the quote." },
     { question: "Do you sign NDAs for Spring Boot projects?", answer: "Share your NDA before sending confidential details and we will review it; confidentiality terms are agreed in writing before work begins. Because code, data and infrastructure stay in your accounts throughout, exposure is limited regardless. Project-specific confidentiality requirements are captured in the written quote." },
     { question: "Can you take over a Spring Boot project another developer started?", answer: "Yes, beginning with a paid code audit. We review structure, security configuration, JPA usage, tests, dependencies and known vulnerabilities, then give you a written report and an itemised plan. If access or documentation is missing, recovering those comes first. Nothing is billed for fixes until you approve the plan." },

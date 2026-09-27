@@ -56,7 +56,7 @@ const kayamkulam: CityContent = {
     ai: "WhatsApp assistants that answer Malayalam and English questions about prices, stock, timings and bookings, and hand real decisions back to you.",
     data: "Dashboards that show which products, branches and months bring money in, drawn from your billing or Tally exports.",
     app: "Android and iOS apps from ₹40,000 for Kayamkulam tuition centres, clinics and delivery shops, published on Google Play and the App Store in your name.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Kayamkulam customers compare carefully, often with a relative in the Gulf or in Kochi offering an opinion. We make that easy: starting prices are public, the quote is itemised and written, replies come on WhatsApp all week, and the domain, hosting, code and store accounts are registered to you. If something is not worth building, we tell you.",
@@ -176,7 +176,7 @@ const kayamkulam: CityContent = {
       heading: "Ownership and maintenance for Kayamkulam websites and apps",
       paragraphs: [
         "A familiar complaint in Kerala towns is a site that vanished because the developer held the domain and stopped answering calls. We avoid that from day one: the domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and the logins are handed over in writing.",
-        "Maintenance is free for five months after launch. That covers content and price updates, backups, security patches, plugin and framework updates, and regular checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any point.",
+        "Maintenance is free for two months after launch. That covers content and price updates, backups, security patches, plugin and framework updates, and regular checks that forms, payments and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any point.",
         "Apps need attention every year because Google and Apple keep changing their rules. We watch those changes and release updates on time so your app is not pulled from the stores. Monsoon months also bring more power and network problems, so we keep backups off-site and can restore a site quickly if hosting fails.",
       ],
     },
@@ -268,7 +268,7 @@ const kayamkulam: CityContent = {
     {
       question: "What maintenance do you give after the website goes live?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to any other developer whenever you choose.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can take the code and move to any other developer whenever you choose.",
     },
     {
       question: "Do you work in Haripad, Mavelikkara and Oachira too?",

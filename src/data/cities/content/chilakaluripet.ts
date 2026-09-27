@@ -30,11 +30,11 @@ const chilakaluripet: CityContent = {
     eyebrow: "Chilakaluripet · Palnadu district · Andhra Pradesh",
     h1: "Websites, software, SEO and AI tools for Chilakaluripet cotton mills, traders and local businesses",
     lede:
-      "We are three remote engineers who build websites, buyer catalogues and simple business software for Chilakaluripet, from ginning, spinning and weaving units along NH16 to market yard traders, schools, hospitals and shops around NRT Centre and Kalamandir Centre. Our starting prices are published, you talk to the engineers directly, and maintenance is free for the first five months.",
+      "We are three remote engineers who build websites, buyer catalogues and simple business software for Chilakaluripet, from ginning, spinning and weaving units along NH16 to market yard traders, schools, hospitals and shops around NRT Centre and Kalamandir Centre. Our starting prices are published, you talk to the engineers directly, and maintenance is free for the first two months.",
     pills: ["Sites from ₹10,000", "Telugu and English pages", "Yarn and fabric catalogues", "Mill order trackers", "Google Maps setup"],
   },
   quickAnswer:
-    "A business website in Chilakaluripet starts from ₹10,000 with us and usually goes live in one to two weeks. An SEO site of 299+ pages starts from ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team of three with no office in Chilakaluripet, and upkeep is free for five months after launch.",
+    "A business website in Chilakaluripet starts from ₹10,000 with us and usually goes live in one to two weeks. An SEO site of 299+ pages starts from ₹20,000, WhatsApp and AI automation from ₹40,000 and an online store from ₹50,000. We are a remote team of three with no office in Chilakaluripet, and upkeep is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Palnadu district, Narasaraopet revenue division; about 40 km from Guntur and 75 km from Amaravati" },
     { label: "Highway", value: "NH16, part of the Golden Quadrilateral, runs through the town for about 5 km; a bypass has been sanctioned" },
@@ -51,7 +51,7 @@ const chilakaluripet: CityContent = {
     ai: "WhatsApp replies in Telugu or English for rate, stock and appointment questions, passed to staff when judgement is needed.",
     data: "Dashboards of arrivals, production, dispatches and payments that a mill owner can read on a phone after hours.",
     app: "Android and iOS apps for school parents, field agents or brokers, published on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Five free months of edits, updates and backups after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two free months of edits, updates and backups after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Many Chilakaluripet firms have had a website made once, through a Guntur or Vijayawada agency or a friend, and then left it untouched for years because nobody knew how to change it. We keep things simple: published starting prices, itemised quotes, the domain and hosting in your name, and three engineers who reply on WhatsApp seven days a week without a salesperson in the middle.",
@@ -184,7 +184,7 @@ const chilakaluripet: CityContent = {
       heading: "Owning your website and keeping it current",
       paragraphs: [
         "A mill or shop that has been in the family for decades should not lose its website because a developer stopped answering calls. We register your domain and hosting in the business's name from day one, and at launch hand over every login, the complete source code and a short written note on the setup.",
-        "Maintenance is free for five months after launch. That includes content and price changes, software and security updates, backups, bug fixes and speed checks. Cotton season and admission months both bring bursts of updates, and during those five months we handle them at no charge.",
+        "Maintenance is free for two months after launch. That includes content and price changes, software and security updates, backups, bug fixes and speed checks. Cotton season and admission months both bring bursts of updates, and during those two months we handle them at no charge.",
         "After that, you can continue with maintenance from ₹8,000 a month, or message us whenever you need a change and pay only for that work. You can also move to another developer at any time without an exit fee.",
       ],
     },
@@ -270,7 +270,7 @@ const chilakaluripet: CityContent = {
         "Yes. Everything is registered in your business's name from the start, and at launch you receive all logins and the full code. You can move to another developer whenever you wish, with no exit fee.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You decide. Maintenance continues from ₹8,000 a month for updates, backups, security fixes and edits, or you can pay per job whenever you need a change. Seasonal businesses such as ginning mills often prefer paying per job.",
     },

@@ -56,7 +56,7 @@ const dhubri: CityContent = {
     ai: "WhatsApp assistants in Bengali, Assamese or English that answer rates, stock, fees and timings and pass decisions to you.",
     data: "Dashboards of purchases by season, dues by buyer, patient visits by department and admissions by course.",
     app: "Android and iOS apps for retailer re-orders, coaching notices or clinic tokens, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of maintenance free after going live, then ₹8,000 a month onwards for updates, backups and security fixes.",
+    maintenance: "Two months of maintenance free after going live, then ₹8,000 a month onwards for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Dhubri businesses have seen outside vendors promise a lot and then vanish across the river. We work the other way: public starting prices, itemised written quotes, WhatsApp replies every day of the week, and your domain, hosting, code and app store accounts opened in your name from the start. When a feature is not worth it, we say so.",
@@ -176,7 +176,7 @@ const dhubri: CityContent = {
       heading: "Ownership and maintenance for Dhubri websites and apps",
       paragraphs: [
         "A frequent complaint in smaller towns is a website that went dark because the developer kept the domain in his own name. With us, the domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts are all registered to you, and logins are handed over in writing.",
-        "Maintenance is free for five months after launch, covering content and price changes, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons work. After that, continued maintenance is optional at ₹8,000 a month onwards, and you can move to another developer whenever you like.",
+        "Maintenance is free for two months after launch, covering content and price changes, backups, security patches, software updates and checks that forms, payments and WhatsApp buttons work. After that, continued maintenance is optional at ₹8,000 a month onwards, and you can move to another developer whenever you like.",
         "Apps need a yearly refresh because Google and Apple update their requirements. We schedule those updates early so your app stays listed.",
       ],
     },
@@ -268,7 +268,7 @@ const dhubri: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance is optional from ₹8,000 a month. Since the code is yours, you can also hand it to another developer whenever you like.",
+        "The first two months are free and cover updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance is optional from ₹8,000 a month. Since the code is yours, you can also hand it to another developer whenever you like.",
     },
     {
       question: "Do you work in Gauripur, Golakganj and Bilasipara?",

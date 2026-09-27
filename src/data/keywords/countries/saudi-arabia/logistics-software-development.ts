@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who build and support your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-user licence fees on software you own" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Courier label and tracking sync", value: "Quoted per carrier account" },
       { label: "Billing export to your e-invoicing tool", value: "Included in the custom scope" },
       { label: "Email and document automation", value: `From ${P.ai}` },
-      { label: "Support after go-live", value: `5 months free, then from ${P.care}` },
+      { label: "Support after go-live", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Lane and fleet dashboards", note: "On-time rate per lane, empty return legs, vehicle utilisation and late-POD alerts, fed from your own data, not a vendor's black box.", href: "/saudi-arabia/power-bi-developer/", size: "md" },
       { name: "Billing hooks", note: "Trip and consignment charges pushed to the ZATCA-compliant invoicing tool you already use, so finance stops re-keying.", href: "/saudi-arabia/zatca-e-invoicing-integration/", size: "sm" },
       { name: "WhatsApp status updates", note: `Dispatched, out for delivery and delivered messages to consignees through the official WhatsApp Business Platform, from ${P.ai}.`, href: "/saudi-arabia/whatsapp-automation-services/", size: "sm" },
-      { name: "Care and hosting", note: `Five free months after go-live, then support plans from ${P.care}, on hosting in your own cloud account.`, href: "/pricing/", size: "sm" },
+      { name: "Care and hosting", note: `Two free months after go-live, then support plans from ${P.care}, on hosting in your own cloud account.`, href: "/pricing/", size: "sm" },
     ],
   },
   comparison: {
@@ -85,7 +85,7 @@ const content: FreelanceContent = {
     rows: [
       ["Fit to your workflow", "You adapt to the product", "Built around you", "Built around you, one module at a time"],
       ["Time to first use", "Days, if your process matches", "Usually months", "First module in about 6–12 weeks"],
-      ["Ongoing cost shape", "Per user, vehicle or shipment", "Retainer or support contract", `Build from ${P.software}, care from ${P.care} after 5 free months`],
+      ["Ongoing cost shape", "Per user, vehicle or shipment", "Retainer or support contract", `Build from ${P.software}, care from ${P.care} after 2 free months`],
       ["Who owns code and data", "The vendor owns the software", "Depends on the contract", "You own code, database and cloud account"],
       ["Courier and address integrations", "Only those the vendor supports", "Whatever you pay for", "The carriers you hold API access with"],
       ["Arabic interface", "Varies by product", "Usually strong", "Arabic RTL and English; you approve Arabic labels"],
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You own it outright: source code, database, cloud account, app store listings and documentation. We work inside accounts registered to your company as invited users, and there are no per-user or per-shipment licence fees on software you commissioned.`,
         `Ownership matters more in logistics than in most sectors, because your operational history is the asset. Years of lane performance, customer delivery windows and POD records are how you price new contracts. If that data sits in a vendor's system, leaving becomes painful. With custom software, the data model is documented, the database is yours, and exports are one query away.`,
-        `At handover, you receive the repository with a README that explains how to run and deploy the system, an architecture diagram, API documentation for any customer integrations, admin credentials, and a list of third-party services with renewal dates. After go-live, five months of free maintenance cover bug fixes and small changes. Support then continues from ${P.care}, or your in-house team or another developer takes over; see the <a href='/refund-policy/'>refund policy</a> for how changes and cancellations are handled.`,
+        `At handover, you receive the repository with a README that explains how to run and deploy the system, an architecture diagram, API documentation for any customer integrations, admin credentials, and a list of third-party services with renewal dates. After go-live, two months of free maintenance cover bug fixes and small changes. Support then continues from ${P.care}, or your in-house team or another developer takes over; see the <a href='/refund-policy/'>refund policy</a> for how changes and cancellations are handled.`,
       ],
     },
     {
@@ -364,7 +364,7 @@ const content: FreelanceContent = {
         ["Pilot", "Two or three trucks or one branch use it live", "Pilot drivers and planner", "2 weeks"],
         ["Fixes", "Changes from pilot feedback", "Same pilot group", "1 week"],
         ["Rollout", "Other branches or trucks added in batches", "Branch supervisors", "As you choose"],
-        ["Aftercare", "Bug fixes and small changes", "Named contact", "5 months free"],
+        ["Aftercare", "Bug fixes and small changes", "Named contact", "2 months free"],
       ],
     },
   ],
@@ -397,7 +397,7 @@ const content: FreelanceContent = {
       ["Receive a module-by-module quote", "Within about two working days you get starting prices in USD for each module, running costs estimated, and nothing billed until you approve in writing."],
       ["Build and review weekly", "Code goes to your repository and runs in your cloud account. You review working screens every week in Arabic and English and flag changes early."],
       ["Pilot on a few trucks", "A small group of drivers or one branch uses the system live for about two weeks while the rest continue as before, so fixes stay cheap."],
-      ["Roll out and hand over", "Remaining branches join in batches, documentation and credentials are handed over, and five months of free maintenance begin."],
+      ["Roll out and hand over", "Remaining branches join in batches, documentation and credentials are handed over, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Questions about logistics software development in Saudi Arabia",
@@ -419,7 +419,7 @@ const content: FreelanceContent = {
     { question: "Will you sign an NDA or use our procurement contract?", answer: "Every project runs on a written quote and our published terms. If your company needs an NDA, a data processing clause or its own contract template, share it at the start and we agree the wording in writing before any work begins. Security questionnaires can be answered with documentation of how the system is built." },
     { question: "How is personal data protected in the system?", answer: "We collect only the consignee fields a delivery needs, restrict who can view phone numbers, mask personal details on public tracking pages, log views and exports, and encrypt data in transit and at rest. These features support your obligations under Saudi Arabia's Personal Data Protection Law; whether you comply overall is for your own legal counsel to confirm." },
     { question: "Can consignees get WhatsApp updates about their delivery?", answer: `Yes. Dispatched, out-for-delivery and delivered updates can be sent through the official WhatsApp Business Platform using approved templates, with opt-in respected. Message fees are billed to your own account. Setup of these flows starts from ${P.ai}.` },
-    { question: "What support do we get after the system goes live?", answer: `Five months of free maintenance cover bug fixes, updates and small changes after go-live. After that, support plans start from ${P.care}, or your own team or another developer can take over using the handover documentation. New modules and larger changes are quoted separately before any work starts.` },
+    { question: "What support do we get after the system goes live?", answer: `Two months of free maintenance cover bug fixes, updates and small changes after go-live. After that, support plans start from ${P.care}, or your own team or another developer can take over using the handover documentation. New modules and larger changes are quoted separately before any work starts.` },
     { question: "Can you connect GPS trackers or telematics to the software?", answer: "Yes, where your telematics provider offers an API or data export. Vehicle positions and trip start and stop events can feed the dispatch board and dashboards. We do not sell or install tracking hardware; the device contract stays with your provider, and we integrate the data it makes available." },
     { question: "Can AI help with logistics paperwork?", answer: `Yes, for repetitive documents. AI workflows can read rate sheets, supplier delivery notes or booking emails and propose structured entries in your system for a human to approve. We keep a person in the loop for anything that affects billing. Automation of this kind starts from ${P.ai}, typically in 2–4 weeks.` },
     { question: "What do you need from us to start logistics software development?", answer: "A short description of your operation, the number of vehicles and daily shipments, a list of systems and courier accounts you use, sample exports of orders and customers, and two named people: one from operations and one from finance who can make decisions. With that, we can quote within about two working days." },

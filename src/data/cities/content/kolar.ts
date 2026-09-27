@@ -35,7 +35,7 @@ const kolar: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada, Telugu, English", "Vendor pages for Narasapura", "Tomato and mango traders", "Hospital and college sites"],
   },
   quickAnswer:
-    "In Kolar, our static websites start at ₹10,000 and are ready in one to two weeks. Sites with 299+ SEO pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are three engineers working remotely with no office in Kolar, and we maintain every site free for five months after launch.",
+    "In Kolar, our static websites start at ₹10,000 and are ready in one to two weeks. Sites with 299+ SEO pages start at ₹20,000, online stores at ₹50,000 and custom software at ₹60,000. We are three engineers working remotely with no office in Kolar, and we maintain every site free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Karnataka's easternmost district headquarters, about 70 km from Bengaluru and 50 km from Kempegowda airport" },
     { label: "History", value: "An early capital of the Western Gangas; Kolaramma and Someshwara temples, Antaragange hill nearby" },
@@ -52,7 +52,7 @@ const kolar: CityContent = {
     ai: "WhatsApp replies that share daily tomato rates, stock or appointment slots in Kannada, Telugu or English.",
     data: "Arrivals, rates, milk collection or production figures turned into a dashboard readable on a phone.",
     app: "Android and iPhone apps for dealer orders, patient tokens or student notices, from ₹40,000 with release on both Google Play and the App Store.",
-    maintenance: "Free updates, backups and checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Kolar owners are an hour from Bengaluru, so they are often quoted Bengaluru agency rates for simple work. We are a remote team of three engineers with published starting prices, WhatsApp replies seven days a week and a rule that the client holds the domain, hosting and code.",
@@ -180,7 +180,7 @@ const kolar: CityContent = {
       paragraphs: [
         "Many Kolar businesses have lost a website because the developer registered the domain under his own account and then took a job in Bengaluru. When the renewal notice goes to an inbox nobody checks, the site simply disappears, along with years of search history.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the full source code and a short note explaining how the site is put together. You can move to another developer whenever you like, and there is no exit fee.",
-        "Maintenance is free for five months after launch: content and price updates, bug fixes, security patches, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can come to us only when a change is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "Maintenance is free for two months after launch: content and price updates, bug fixes, security patches, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can come to us only when a change is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
   ],
@@ -267,7 +267,7 @@ const kolar: CityContent = {
     {
       question: "What does free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price changes, bug fixes, security updates, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle content and price changes, bug fixes, security updates, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in KGF, Bangarpet, Malur and Mulbagal too?",

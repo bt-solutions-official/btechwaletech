@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Large SEO website from", `${P.seoSite}, 299+ pages`],
     ["Online store from", `${P.shop}, 4–8 weeks`],
     ["Web app or portal from", `${P.software}, 6–12 weeks`],
-    ["Maintenance", `5 months free, then from ${P.care}`],
+    ["Maintenance", `2 months free, then from ${P.care}`],
     ["Payment", "USD or CAD by Wise, wire or PayPal"],
   ],
   stats: [
     { value: "100", label: "Pages included in our starting website plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees added to our quotes" },
   ],
   answer: {
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "Yearly costs", value: "Domain, hosting, email, licences, maintenance" },
       { label: "Your time", value: "Content, photos, approvals and translation" },
       { label: "Our starting prices", value: `${P.site} site · ${P.shop} store · ${P.software} web app` },
-      { label: "After launch", value: `5 months free maintenance, then from ${P.care}` },
+      { label: "After launch", value: `2 months free maintenance, then from ${P.care}` },
       { label: "Quote", value: "Itemised, in USD, in about two working days" },
     ],
   },
@@ -77,7 +77,7 @@ const content: FreelanceContent = {
       { name: "Web app or client portal", note: `Logins, dashboards and workflows, from ${P.software}.`, href: "/canada/custom-software-development/", size: "md" },
       { name: "Bilingual English–French build", note: "French version priced as its own line, with translation paid to your translator.", href: "/canada/bilingual-website-development/", size: "sm" },
       { name: "Redesign of an existing site", note: "Priced from your current page count and what can be reused.", href: "/canada/website-redesign-services/", size: "sm" },
-      { name: "Maintenance plan", note: `Updates, backups and fixes from ${P.care} after five free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
+      { name: "Maintenance plan", note: `Updates, backups and fixes from ${P.care} after two free months.`, href: "/canada/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -86,7 +86,7 @@ const content: FreelanceContent = {
     columns: ["What you pay for", "DIY website builder", "Local agency", "BtechWaleTech (remote)"],
     rows: [
       ["Upfront build", "Your own time", "The highest of the options, usually", `From ${P.site} for sites, ${P.shop} for stores`],
-      ["Ongoing", "Monthly plan for as long as the site lives", "Retainer or hourly support", `5 months free, then from ${P.care}`],
+      ["Ongoing", "Monthly plan for as long as the site lives", "Retainer or hourly support", `2 months free, then from ${P.care}`],
       ["Design", "Templates you adapt", "Custom, often with brand strategy", "Custom templates around your content"],
       ["French version", "Add-on apps or manual duplication", "Usually offered", "Built in; your translator writes the French"],
       ["Accessibility", "Depends on template and your edits", "Often offered", "Built and checked to WCAG 2.0 AA"],
@@ -98,7 +98,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Our website prices for Canadian businesses",
-    note: `Our plan prices are in the table below, quoted in USD and payable in USD or CAD. A business site of up to 100 pages starts at ${P.site} and takes one to two weeks; an SEO site of 299+ pages starts at ${P.seoSite}; an online store at ${P.shop}; a custom web app at ${P.software}. These are starting prices: the quote grows with extra page templates, a French version, integrations, accessibility testing and custom features. You get an itemised quote in about two working days and nothing is billed before you approve it. Five months of maintenance are included after launch.`,
+    note: `Our plan prices are in the table below, quoted in USD and payable in USD or CAD. A business site of up to 100 pages starts at ${P.site} and takes one to two weeks; an SEO site of 299+ pages starts at ${P.seoSite}; an online store at ${P.shop}; a custom web app at ${P.software}. These are starting prices: the quote grows with extra page templates, a French version, integrations, accessibility testing and custom features. You get an itemised quote in about two working days and nothing is billed before you approve it. Two months of maintenance are included after launch.`,
   },
   guideLabel: "Website cost guide",
   guide: [
@@ -184,7 +184,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Any answer to how much does a website cost in Canada that stops at the build is incomplete. The build is a one-time cost; a website also has running costs every year. The usual list is the domain renewal, hosting, business email, software licences or platform plans, and maintenance. Budget for them before you sign.`,
         `A .ca or .com domain renews yearly through a registrar. Hosting ranges from shared plans to managed WordPress or cloud servers, billed monthly or yearly by the host. Business email, if you use Google Workspace or Microsoft 365, is billed per user. Premium plugins, theme licences and ecommerce apps often renew yearly. Stores pay per-transaction payment processing fees. Maintenance, meaning updates, backups, security checks and small fixes, is either your time or a plan with someone.`,
-        `With us, every one of these accounts is in your name and paid directly to the provider, so you see the real cost and keep control. We add no markup on hosting or licences. Our own maintenance is free for five months after launch, then starts at ${P.care}. If you later build an app, Google Play charges a <a href='${PLAY_FEE}' rel='noopener'>one-time US$25 registration fee</a> and the <a href='${APPLE_FEE}' rel='noopener'>Apple Developer Program costs US$99 a year</a>, both paid by you to the stores.`,
+        `With us, every one of these accounts is in your name and paid directly to the provider, so you see the real cost and keep control. We add no markup on hosting or licences. Our own maintenance is free for two months after launch, then starts at ${P.care}. If you later build an app, Google Play charges a <a href='${PLAY_FEE}' rel='noopener'>one-time US$25 registration fee</a> and the <a href='${APPLE_FEE}' rel='noopener'>Apple Developer Program costs US$99 a year</a>, both paid by you to the stores.`,
       ],
     },
     {
@@ -254,7 +254,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A hypothetical example to show how a quote is built. Say a Calgary renovation company wants a new site with a homepage, six service pages, a project gallery, an about page, a quote request form and twelve service-area pages for nearby communities.`,
         `That is roughly 22 pages on five templates: home, service, service area, gallery and contact. It fits the business site plan starting at ${P.site}. The quote would itemise design, the five templates, the gallery with image optimisation, the quote form with email notifications, basic SEO, Search Console setup and training. Optional lines might include copywriting for the service-area pages, if the owner cannot write them, and a CRM connection for quote requests.`,
-        `Running costs would be listed separately: domain renewal, hosting and business email, all in the company's name, plus maintenance from ${P.care} after the five free months. The owner can accept the core quote and add optional lines later. That is the whole point of itemising: the answer to how much does a website cost in Canada becomes a list the owner controls.`,
+        `Running costs would be listed separately: domain renewal, hosting and business email, all in the company's name, plus maintenance from ${P.care} after the two free months. The owner can accept the core quote and add optional lines later. That is the whole point of itemising: the answer to how much does a website cost in Canada becomes a list the owner controls.`,
       ],
     },
     {
@@ -310,7 +310,7 @@ const content: FreelanceContent = {
         ["Platform plan (Shopify, builders)", "The platform", "Monthly", "Applies to hosted platforms"],
         ["Plugins, themes, apps", "Each vendor", "Usually yearly or monthly", "We list them in the quote"],
         ["Payment processing", "Your payment provider", "Per transaction", "Stores only"],
-        ["Maintenance", "Us or your team", `5 months free, then from ${P.care}`, "Updates, backups, fixes"],
+        ["Maintenance", "Us or your team", `2 months free, then from ${P.care}`, "Updates, backups, fixes"],
         ["App store accounts", "Google and Apple", "US$25 once; US$99 yearly", "Only if you publish an app"],
       ],
       hideSm: [3],
@@ -361,15 +361,15 @@ const content: FreelanceContent = {
       ["Itemised quote", "Within about two working days: every item with a starting price in USD, plus a list of expected running costs paid to third parties."],
       ["Adjust scope", "Remove or phase items to fit your budget. You approve the final quote in writing before any work or billing starts."],
       ["Build in milestones", "Design, templates, content, testing, following the payment schedule in your approved quote. You see progress on a staging link throughout."],
-      ["Launch and handover", "The site goes live on your hosting, you get logins and training, and five months of free maintenance begin."],
+      ["Launch and handover", "The site goes live on your hosting, you get logins and training, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Website cost in Canada: questions people ask",
   faqs: [
-    { question: "How much does a website cost in Canada for a small business?", answer: `It depends on the option you choose: a DIY builder costs a monthly plan and your time, while freelancers and agencies quote very differently depending on scope. With us, a small business site starts at ${P.site} for up to 100 pages, quoted in USD and payable in USD or CAD, with five months of free maintenance.` },
+    { question: "How much does a website cost in Canada for a small business?", answer: `It depends on the option you choose: a DIY builder costs a monthly plan and your time, while freelancers and agencies quote very differently depending on scope. With us, a small business site starts at ${P.site} for up to 100 pages, quoted in USD and payable in USD or CAD, with two months of free maintenance.` },
     { question: "Why do website quotes in Canada vary so much?", answer: "Because they price different scopes, which is why how much does a website cost in Canada has no single answer. One quote may include custom design, French, content writing, accessibility testing and a year of support; another may be a template with your logo. Ask every provider to itemise templates, languages, integrations, content, testing and maintenance, then compare line by line." },
     { question: "How much does an ecommerce website cost in Canada?", answer: `Our online store builds start at ${P.shop} and usually take four to eight weeks. The price depends on the platform, number of products and variants, shipping and tax rules, apps and integrations. Stores also have running costs such as the platform plan, apps and payment processing fees, which we list in the quote.` },
-    { question: "How much does it cost to maintain a website per year?", answer: `Expect yearly costs for the domain, hosting, business email, any plugin or app licences and maintenance. Each is paid to its provider in your name. With us, maintenance is free for five months after launch and then starts at ${P.care}, covering updates, backups and small fixes.` },
+    { question: "How much does it cost to maintain a website per year?", answer: `Expect yearly costs for the domain, hosting, business email, any plugin or app licences and maintenance. Each is paid to its provider in your name. With us, maintenance is free for two months after launch and then starts at ${P.care}, covering updates, backups and small fixes.` },
     { question: "Is it cheaper to build a website with Wix or Squarespace?", answer: "In cash, usually yes, because you pay a monthly plan and do the work yourself. The real cost is your time and the limits: templates you adapt, add-on fees, and a site you cannot move to another host without rebuilding. For a first simple site that can be fine; for a lead-generating business site, custom often pays back." },
     { question: "How much does a bilingual English and French website cost?", answer: "A French version adds a technical line to the build quote and a translation bill from your translator. The technical cost depends on platform and how the site is built; new sites planned for two languages cost less to make bilingual than old ones retrofitted. We itemise the French work separately so you can see it." },
     { question: "Do I need to pay extra for an AODA accessible website?", answer: "On a new build with us, accessibility is designed in and tested, so the extra is small. Fixing an existing inaccessible site can cost more, sometimes more than rebuilding. Ontario requires businesses and non-profits with 50 or more employees to make public websites meet WCAG 2.0 Level AA." },

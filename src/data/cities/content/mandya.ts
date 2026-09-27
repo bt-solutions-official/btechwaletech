@@ -35,7 +35,7 @@ const mandya: CityContent = {
     pills: ["Websites from ₹10,000", "Kannada and English", "Jaggery and produce stores", "College and hospital pages", "Highway restaurant sites"],
   },
   quickAnswer:
-    "For Mandya businesses, static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for jaggery or farm products at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandya office, and every site is maintained free for five months.",
+    "For Mandya businesses, static websites start at ₹10,000 and take one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store for jaggery or farm products at ₹50,000 and custom software at ₹60,000. We are a remote three-engineer team with no Mandya office, and every site is maintained free for two months.",
   snapshot: [
     { label: "Location", value: "On the Bengaluru–Mysuru corridor, about 100 km from Bengaluru and 40 km from Mysuru" },
     { label: "Sugar City", value: "Named for its sugarcane; MySugar, founded in 1932, is Karnataka's only government-owned sugar factory" },
@@ -52,7 +52,7 @@ const mandya: CityContent = {
     ai: "WhatsApp replies in Kannada or English that answer price, stock, admission or table-booking questions at any hour.",
     data: "Purchase, production and sales figures shaped into a phone dashboard for mill owners and partners.",
     app: "Android and iPhone apps for dealer ordering, patient tokens or student notices, released on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Free updates, backups and checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Mandya sits between two cities with plenty of agencies, and most of them quote for Mandya as if it were Bengaluru. We are a remote team of three with published starting prices, WhatsApp replies seven days a week, and a rule that domain, hosting and code stay in the client's name.",
@@ -181,7 +181,7 @@ const mandya: CityContent = {
       paragraphs: [
         "Many Mandya businesses have lost a website because the person who built it registered the domain under his own name and then moved to Bengaluru. When the renewal lapsed, the site vanished along with its search history, and the business had to start again.",
         "We register the domain and hosting in your name from the first day. At launch you get every login, the complete source code and a short written note on how the site is built. You can move to another developer whenever you choose, and there is no exit fee.",
-        "Maintenance is free for five months after launch: text and price changes, bug fixes, security updates, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when a change is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
+        "Maintenance is free for two months after launch: text and price changes, bug fixes, security updates, backups, uptime and speed checks. After that, it continues from ₹8,000 a month, or you can contact us only when a change is needed. Our <a href=\"/services/web-development/\">web development page</a> lists what every build includes.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const mandya: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we handle text and price updates, bug fixes, security patches, backups, uptime and speed checks at no charge. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in Maddur, Srirangapatna, Malavalli and Mysuru?",

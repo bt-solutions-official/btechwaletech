@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Ordering site timeline", "4–8 weeks"],
     ["Quote", "Itemised in about 2 working days"],
     ["Commission per order", "None to us; you pay your payment provider’s fee"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "0", label: "Commission we take on your cake orders" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week you can reach us on WhatsApp" },
   ],
   answer: {
@@ -206,7 +206,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Bakery website design with BtechWaleTech starts at ${P.site} (${P.siteUsd}) for a mobile menu site where orders reach you on WhatsApp, and at ${P.shop} (${P.shopUsd}) for a full cake-ordering site with option pricing, delivery slots and online payment. These are starting prices, and every quote is itemised.`,
         `The quote rises with the number of cake types that need their own rules, the number of zones and slot types, custom and photo cake flows, festive pre-orders, a staff order screen and any integration with your billing software. A home baker with twenty items and WhatsApp orders sits near the lower figure. A three-outlet bakery with midnight delivery, corporate hampers and kitchen tickets sits well above the store starting price.`,
-        `Running costs are separate and paid by you directly: domain renewal, hosting and your payment provider’s fee per transaction. We take no commission on your orders. After five free months, maintenance is optional from ${P.care}. The <a href='/ecommerce-website-cost-in-india/'>ecommerce cost guide</a> explains store pricing in more depth.`,
+        `Running costs are separate and paid by you directly: domain renewal, hosting and your payment provider’s fee per transaction. We take no commission on your orders. After two free months, maintenance is optional from ${P.care}. The <a href='/ecommerce-website-cost-in-india/'>ecommerce cost guide</a> explains store pricing in more depth.`,
       ],
     },
     {
@@ -262,7 +262,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is invented to show how a project runs; it is not a client story. Picture a family bakery in Lucknow with two outlets, a menu of about forty cakes, pastries and breads, strong festive sales, and most orders arriving through delivery apps and phone calls.`,
         `We would suggest the store plan starting at ${P.shop}. Cakes get weight and flavour pricing with an eggless filter. Photo and themed cakes use a request flow with two days’ minimum notice. Delivery runs from both outlets: the site picks the nearer outlet by pincode, each outlet has its own slots and daily limits, and midnight delivery is offered only from one outlet with a set surcharge. COD applies to breads and pastries only.`,
-        `A Diwali hamper page opens for pre-orders with a batch limit and a corporate section that accepts a sheet of addresses. Staff at each outlet see only their orders on a printable screen. A card in every aggregator bag invites customers to order direct next time. After launch, five months of free maintenance cover menu changes and slot tweaks through the first festive season.`,
+        `A Diwali hamper page opens for pre-orders with a batch limit and a corporate section that accepts a sheet of addresses. Staff at each outlet see only their orders on a printable screen. A card in every aggregator bag invites customers to order direct next time. After launch, two months of free maintenance cover menu changes and slot tweaks through the first festive season.`,
       ],
     },
     {
@@ -339,7 +339,7 @@ const content: FreelanceContent = {
         ["Ordering site plus Android & iOS app", `App from ${P.app}`, `App from ${P.appUsd}`, "6–10 weeks for the app", "Chains with many repeat buyers"],
         ["WhatsApp order automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Busy shops drowning in chats"],
         ["Monthly local SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Bakeries growing search orders"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu and price updates"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Menu and price updates"],
       ],
       hideSm: [2],
     },
@@ -374,7 +374,7 @@ const content: FreelanceContent = {
       ["Fill the menu and zone sheets", "We send two templates: one for items, weights, prices and egg status, one for pincodes, charges and slots. They become the site."],
       ["Test on your own phone", "Place test orders on a staging link across different pincodes, slots and cake options, and send us everything that feels wrong."],
       ["Go live in your accounts", "Domain, hosting and payment provider stay in your name. We connect them, switch on order alerts and hand over every login."],
-      ["Five free months of changes", `Menu edits, new flavours, price updates and slot changes are covered for five months, then maintenance is optional from ${P.care}.`],
+      ["Two free months of changes", `Menu edits, new flavours, price updates and slot changes are covered for two months, then maintenance is optional from ${P.care}.`],
     ],
   },
   faqHeading: "Bakery website design: common questions",
@@ -391,14 +391,14 @@ const content: FreelanceContent = {
     { question: "How can my bakery show up for “cake shop near me”?", answer: "Local results depend mainly on your Google Business Profile, its reviews and photos, and a website that matches it. We add Bakery structured data with your name, address and hours, link the profile, and list the areas you deliver to on the site. No one can guarantee a map-pack position, so avoid anyone who promises one." },
     { question: "Can my bakery website show eggless cakes separately?", answer: "Yes. Every item carries an eggless or contains-egg mark beside the price, and a filter at the top of the menu shows eggless items only. FSSAI’s labelling rules treat egg as non-vegetarian, so using the same green and brown marks as your boxes keeps the site consistent with your packaging." },
     { question: "Can I take bulk and corporate cake orders online?", answer: "Yes. A corporate page can set minimum quantities, collect company name and GSTIN, accept a spreadsheet of delivery addresses and allow payment by bank transfer against an invoice. Hampers and gift boxes for Diwali or New Year usually sell better through this kind of page than through the retail cart." },
-    { question: "Will you charge a commission on my cake orders?", answer: "No. BtechWaleTech builds the site for a one-time quoted price; you pay hosting, domain and your payment provider’s transaction fee directly to those providers. Maintenance is free for five months after launch and optional after that. There is no percentage taken from your orders." },
+    { question: "Will you charge a commission on my cake orders?", answer: "No. BtechWaleTech builds the site for a one-time quoted price; you pay hosting, domain and your payment provider’s transaction fee directly to those providers. Maintenance is free for two months after launch and optional after that. There is no percentage taken from your orders." },
     { question: "Who owns my bakery website and customer data?", answer: "You do. The domain, hosting and payment accounts are opened in your name, the code sits in a repository you can access, and the order and customer records live in your database or sheet. At handover you receive every login, so you can move to another developer at any time." },
     { question: "Can the bakery website route orders to the nearest outlet?", answer: "Yes. Each outlet gets its own delivery zones, slots and capacity. When a customer enters a pincode, the site assigns the order to the outlet that serves it, and staff at each outlet see only their own orders on the kitchen screen or printed tickets." },
     { question: "Does a bakery need an app as well as a website?", answer: `Most do not at first. A fast mobile site handles ordering well and needs no download. An app becomes useful for bakery chains with many repeat buyers who order weekly, where saved favourites and push notifications help. Apps start at ${P.app} and can use the same menu and order data as the site.` },
     { question: "Can my bakery website be in Hindi or a regional language?", answer: "Yes. The site can run in two languages with proper language tags so search engines show the right version. You supply or approve the translated menu and pages; we build the structure, the language switch and the ordering flow in both languages." },
     { question: "What does a bakery need to prepare before the website build?", answer: "A menu sheet listing each item with weights, prices per weight, flavours, egg status, allergens and lead time; real photos of your products; a list of pincodes you deliver to with charges and slots; your FSSAI number; and a decision on which items allow COD. With these ready, the build moves quickly." },
     { question: "Can a freelance team handle bakery website design properly?", answer: "Yes, for most bakeries. The work is a well-scoped ordering site, which suits a small team that talks to you directly. BtechWaleTech is three freelance developers, so more than one person knows your site. Very large chains needing many specialists at once may prefer a bigger vendor." },
-    { question: "Bakery ki website banwane mein kitna kharcha aata hai?", answer: `WhatsApp par order lene wali menu website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Poori cake ordering website, jisme weight, flavour, delivery slot aur UPI payment ho, ${P.shop} se shuru hoti hai. Quote itemised milta hai, approval ke baad hi payment hota hai, aur launch ke baad 5 mahine maintenance free hai.` },
+    { question: "Bakery ki website banwane mein kitna kharcha aata hai?", answer: `WhatsApp par order lene wali menu website ${P.site} se shuru hoti hai aur 1–2 hafte mein ban jaati hai. Poori cake ordering website, jisme weight, flavour, delivery slot aur UPI payment ho, ${P.shop} se shuru hoti hai. Quote itemised milta hai, approval ke baad hi payment hota hai, aur launch ke baad 2 mahine maintenance free hai.` },
     { question: "How do payments and the project contract work?", answer: "You get an itemised quote in about two working days, and nothing is billed until you approve it in writing. Any payment stages are written into that quote. Indian clients pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Other terms are set in your written quote and our terms page." },
   ],
   related: {

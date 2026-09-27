@@ -47,7 +47,7 @@ const content: FreelanceContent = {
     { value: "3", label: "Freelance developers building your app" },
     { value: "0", label: "Commission we take per booking" },
     { value: "2", label: "Working days to a detailed quote" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
   ],
   answer: {
     heading: "What does salon booking app development cost, and is it better than a subscription tool?",
@@ -100,7 +100,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What salon booking app development costs with us",
-    note: `A bilingual booking website for one salon, with the service menu and a booking flow tied to a simple calendar, starts from ${P.site}. Android and iOS booking apps start from ${P.app}. A full back office with staff calendars, rooms, deposits, packages, home-visit zones and reports is custom software from ${P.software}, and apps usually sit on top of it. Payment processing, WhatsApp message charges, hosting and the store fees (Google Play's one-time US$25 registration and Apple's US$99 a year) are paid by you to those providers. Five months of maintenance are free, then care starts from ${P.care}.`,
+    note: `A bilingual booking website for one salon, with the service menu and a booking flow tied to a simple calendar, starts from ${P.site}. Android and iOS booking apps start from ${P.app}. A full back office with staff calendars, rooms, deposits, packages, home-visit zones and reports is custom software from ${P.software}, and apps usually sit on top of it. Payment processing, WhatsApp message charges, hosting and the store fees (Google Play's one-time US$25 registration and Apple's US$99 a year) are paid by you to those providers. Two months of maintenance are free, then care starts from ${P.care}.`,
   },
   guideLabel: "Salon booking app guide for Saudi businesses",
   guide: [
@@ -200,7 +200,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, salon booking app development starts from ${P.app} for Android and iOS apps, from ${P.site} for a booking website and from ${P.software} for a custom back office with staff calendars, deposits, packages and home-visit zones. Every figure is a starting price; your quote follows your features.`,
         `The main cost drivers are the scheduling rules (rooms, skills, buffers, branches), home-visit logic, payments and packages, loyalty, and how many languages and roles you need. A single-branch salon with standard services and a simple deposit rule sits at the lower end; a multi-branch spa with home service, memberships and commission reports sits higher.`,
-        `Running costs are paid by you directly: hosting, payment fees, WhatsApp template charges, and store fees of US$25 once for Google Play and US$99 a year for Apple's developer programme. Maintenance is free for five months after launch, then from ${P.care}. Quotes from other developers vary widely, often depending on whether a back office is included or the app connects to a third-party tool; ask each bidder exactly what the staff side can do. Our <a href='/pricing/'>pricing page</a> lists all plans.`,
+        `Running costs are paid by you directly: hosting, payment fees, WhatsApp template charges, and store fees of US$25 once for Google Play and US$99 a year for Apple's developer programme. Maintenance is free for two months after launch, then from ${P.care}. Quotes from other developers vary widely, often depending on whether a back office is included or the app connects to a third-party tool; ask each bidder exactly what the staff side can do. Our <a href='/pricing/'>pricing page</a> lists all plans.`,
       ],
     },
     {
@@ -333,7 +333,7 @@ const content: FreelanceContent = {
         ["Custom back office", "Calendars, rooms, deposits, packages, zones, reports", P.software, "6–12 weeks"],
         ["Android and iOS apps", "Booking, rebooking, loyalty, push reminders", P.app, "6–10 weeks"],
         ["Retail product shop", "Online store for salon products", P.shop, "4–8 weeks"],
-        ["Ongoing care", "Updates, store policy changes, small features", P.care, "Monthly, after 5 free months"],
+        ["Ongoing care", "Updates, store policy changes, small features", P.care, "Monthly, after 2 free months"],
       ],
     },
   ],
@@ -366,7 +366,7 @@ const content: FreelanceContent = {
       ["Clickable Arabic prototype", "Arabic-first booking screens your receptionists and a few loyal clients try on their own phones, so problems surface before development begins."],
       ["Calendar and back office first", "Availability rules, rooms, buffers, deposits and reminders built and tested on staging with your real services before the client apps are finished."],
       ["Apps, testing and store review", "Android and iOS apps completed, tested for double bookings and privacy, then submitted under your store accounts with Arabic and English listings."],
-      ["Launch before your peak", "Go-live timed ahead of busy seasons, staff trained with short videos, documentation handed over and five months of free maintenance begin."],
+      ["Launch before your peak", "Go-live timed ahead of busy seasons, staff trained with short videos, documentation handed over and two months of free maintenance begin."],
     ],
   },
   faqHeading: "Salon booking app development: questions Saudi salon owners ask",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "How will new clients find our salon?", answer: "Mostly through Google Maps, Instagram and recommendations. A complete Google Business Profile per branch, service pages in Arabic and English, honest reviews and a booking link on every profile bring new clients; the app then keeps them. Nobody can guarantee rankings, but consistent local details help steadily." },
     { question: "Is it practical to hire an Indian team for a Saudi salon app?", answer: "Yes. India is 2.5 hours ahead of Saudi Arabia, so your mornings overlap with our working day, and we reply on WhatsApp seven days a week. Prototypes and test builds are shared on phones and staging links. We do not visit salons, so in-salon testing and photos are handled by your team." },
     { question: "How do we pay for the project?", answer: "Quotes and invoices are in USD, payable by Wise, bank wire or PayPal, with invoices issued from India. Milestones are set in the itemised quote you approve in writing, and nothing is billed before that approval. For contract terms beyond the quote, ask us or read our published terms." },
-    { question: "What happens after the app is live?", answer: `Five months of free maintenance cover fixes, OS updates and small changes. After that, care plans start from ${P.care} for store policy updates, new services and features, security and backups. Larger additions such as a product shop or new branches are quoted separately and approved in writing.` },
+    { question: "What happens after the app is live?", answer: `Two months of free maintenance cover fixes, OS updates and small changes. After that, care plans start from ${P.care} for store policy updates, new services and features, security and backups. Larger additions such as a product shop or new branches are quoted separately and approved in writing.` },
     { question: "Can the app include a product shop for salon retail items?", answer: `Yes. Clients can buy shampoos, treatments and other retail products in the app or on your website, paid through your provider and collected at the salon or delivered. A product shop is an ecommerce build starting from ${P.shop}, and it shares client accounts with the booking app.` },
   ],
   related: {

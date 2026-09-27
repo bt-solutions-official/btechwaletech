@@ -56,7 +56,7 @@ const rudauli: CityContent = {
     ai: "WhatsApp assistants that reply in Hindi or Hinglish about rates, dates and admissions, and pass unusual chats straight to you.",
     data: "Plain dashboards of credit due by village, season-wise gur sales and admission enquiries by source.",
     app: "Android and iOS apps for Rudauli schools, wholesalers and clinics, such as parent notices or weekly shop reorders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months free after launch, then from ₹8,000 a month for updates, backups and checks ahead of the urs and wedding seasons.",
+    maintenance: "Two months free after launch, then from ₹8,000 a month for updates, backups and checks ahead of the urs and wedding seasons.",
   },
   whyUsIntro:
     "Rudauli families tend to trust people they can hold to their word, so we put ours in writing. Starting prices are public, quotes are itemised, WhatsApp is answered every day, and your domain, hosting, code and app accounts are registered to you. When a feature will not earn back its cost, we tell you before you pay for it.",
@@ -175,7 +175,7 @@ const rudauli: CityContent = {
         "Online store with UPI and card checkout: from ₹50,000, about 4–8 weeks",
         "Custom web app or software: from ₹60,000, about 6–12 weeks",
         "Monthly SEO: from ₹10,000 a month",
-        "Maintenance: from ₹8,000 a month, after five free months",
+        "Maintenance: from ₹8,000 a month, after two free months",
       ],
     },
     {
@@ -202,7 +202,7 @@ const rudauli: CityContent = {
       heading: "Ownership, hosting and maintenance for Rudauli websites and apps",
       paragraphs: [
         "From the first day, the domain is booked on your email address, hosting is billed to you, and the Google Business Profile, Play Console and Apple developer accounts list you as owner. At handover you receive the complete source code and a written sheet of every login. No developer, us included, should ever be able to hold a business's website to ransom, and this arrangement makes that impossible.",
-        "The first five months after launch carry free maintenance: small text and price edits, backups, security updates, uptime checks, and a regular test that forms, UPI checkout and WhatsApp buttons still work. After that, the choice is yours. Keep us on from ₹8,000 a month, let someone in your own team handle updates, or hand the code to a different developer without asking our permission.",
+        "The first two months after launch carry free maintenance: small text and price edits, backups, security updates, uptime checks, and a regular test that forms, UPI checkout and WhatsApp buttons still work. After that, the choice is yours. Keep us on from ₹8,000 a month, let someone in your own team handle updates, or hand the code to a different developer without asking our permission.",
         "Apps need slightly more care than websites. Google and Apple raise their technical requirements every year, and an app left without updates can be hidden from new users. If we look after your app, we schedule those updates ahead of each deadline so the listing stays live.",
       ],
     },
@@ -294,7 +294,7 @@ const rudauli: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: text and price edits, backups, security updates and regular tests of forms, payment and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue with us. Because the code and accounts are already yours, you can also move to another developer without needing our consent.",
+        "The first two months after launch are free: text and price edits, backups, security updates and regular tests of forms, payment and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want to continue with us. Because the code and accounts are already yours, you can also move to another developer without needing our consent.",
     },
     {
       question: "Do you work in Mawai, Bhelsar, Amaniganj and Ayodhya too?",

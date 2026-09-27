@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Typical timeline", "2–4 weeks for a sync, 6–12 for a bespoke system"],
     ["Xero access", "Connection you authorise and can revoke"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", `5 months free, then care from ${P.care}`],
+    ["After launch", `2 months free, then care from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Xero passwords we ask you to share" },
     { value: "3", label: "Developers who know your integration" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
   ],
   answer: {
     heading: "What does a Xero integration developer do, and when do you need one?",
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Booking and subscription billing", note: "Bookings, memberships or recurring services creating invoices on schedule and marking them paid when money arrives.", href: "/uk/booking-system-development/", size: "md" },
       { name: "Reporting from Xero data", note: "Sales, margin and aged-debt dashboards built on Xero data rather than exported spreadsheets.", href: "/uk/power-bi-consultant/", size: "sm" },
       { name: "Fix a broken connector", note: "Failed syncs, duplicate invoices or wrong tax codes traced to the cause and corrected.", size: "sm" },
-      { name: "Integration care", note: `Monitoring, token and API version updates from ${P.care}, after five free months.`, size: "sm" },
+      { name: "Integration care", note: `Monitoring, token and API version updates from ${P.care}, after two free months.`, size: "sm" },
     ],
   },
   comparison: {
@@ -218,7 +218,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A focused one-way sync with us starts at ${P.ai}; a bespoke integration or system that works with Xero starts at ${P.software}. Rates elsewhere vary widely, so compare quotes by what they include rather than by headline figure.`,
         `What drives the price: how many types of record move (invoices only, or contacts, payments, credit notes and items too), whether the sync is one-way or two-way, the number of VAT treatments, multi-currency, how dirty the historic data is, and how often the sync must run. A nightly summary is simpler than real-time two-way sync with conflict handling.`,
-        `Also budget for the running side. Hosting for the integration is small but not zero and billed to you by the provider. Xero's own subscription and any API charges are between you and Xero. Our care plan from ${P.care} covers monitoring, token and API version updates after the five free months. For a wider view of custom software budgets, see <a href='/uk/bespoke-software-cost/'>bespoke software development cost</a>.`,
+        `Also budget for the running side. Hosting for the integration is small but not zero and billed to you by the provider. Xero's own subscription and any API charges are between you and Xero. Our care plan from ${P.care} covers monitoring, token and API version updates after the two free months. For a wider view of custom software budgets, see <a href='/uk/bespoke-software-cost/'>bespoke software development cost</a>.`,
       ],
     },
     {
@@ -294,7 +294,7 @@ const content: FreelanceContent = {
         "Your accountant has reviewed a month of synced data",
       ],
       after: [
-        `New builds get five months of free fixes; after that, care is optional from ${P.care}. Ready to scope yours? <a href='/contact/'>Send us a note</a> describing where your sales start and how they reach Xero today.`,
+        `New builds get two months of free fixes; after that, care is optional from ${P.care}. Ready to scope yours? <a href='/contact/'>Send us a note</a> describing where your sales start and how they reach Xero today.`,
       ],
     },
   ],
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
       ["Mapping with your accountant", "We draft a field-by-field mapping of accounts, tax rates and tracking. Your accountant or bookkeeper approves it in writing before any code."],
       ["Itemised quote", "A USD quote listing each object, sync direction, schedule, alerts and testing, sent within about two working days of the mapping call."],
       ["Build and test on demo data", "We build against a Xero demo company with real edge cases, then your bookkeeper reviews the results before the live connection is switched on."],
-      ["Go live and hand over", "Live sync switched on, first weeks monitored daily, then the repository, credentials note and sync log handed over. Five months of fixes are free."],
+      ["Go live and hand over", "Live sync switched on, first weeks monitored daily, then the repository, credentials note and sync log handed over. Two months of fixes are free."],
     ],
   },
   faqHeading: "Xero integration developer: common questions from UK businesses",
@@ -400,7 +400,7 @@ const content: FreelanceContent = {
     { question: "Can you work with multi-currency or Irish customers in Xero?", answer: "Yes. Invoices can be created in the customer's currency with the right contact and account settings, provided multi-currency is enabled on your Xero plan. VAT treatment for cross-border sales must be set by your accountant, and we build and test the integration to follow it." },
     { question: "Is it safe to use a developer in India for financial integrations?", answer: "Safety comes from how access is set up, not where the developer sits. You authorise limited access, credentials live in your hosting, testing uses a Xero demo company, and code sits in your repository. You can revoke everything at any time. If you need confidentiality terms, ask us and they are agreed in the written quote." },
     { question: "How do UK clients pay you?", answer: "Invoices are in USD from India. UK businesses usually pay from a GBP account through Wise, or by bank wire or PayPal, against milestones in the written quote you approve. We do not charge UK VAT as an overseas supplier; your accountant will know how to record the purchase in your own books." },
-    { question: "Do you offer ongoing support for Xero integrations?", answer: `Yes. Every new integration includes five months of free fixes. After that, an optional care plan from ${P.care} covers monitoring, re-authorisation help, updates when Xero changes its API and small mapping adjustments. Larger changes, such as adding a new sales channel, are quoted separately first.` },
+    { question: "Do you offer ongoing support for Xero integrations?", answer: `Yes. Every new integration includes two months of free fixes. After that, an optional care plan from ${P.care} covers monitoring, re-authorisation help, updates when Xero changes its API and small mapping adjustments. Larger changes, such as adding a new sales channel, are quoted separately first.` },
     { question: "Can you connect Xero to a bespoke system you build for us?", answer: `Yes, and that is often the best time to do it. Building Xero in from the start means customer IDs, tax classes and invoice references are designed to match. Bespoke systems with us start at ${P.software}, and the Xero integration is scoped and priced as a clear line within that quote.` },
   ],
   related: {

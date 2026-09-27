@@ -57,7 +57,7 @@ const palwancha: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock and timing questions in Telugu or English and pass decisions to you.",
     data: "Dashboards of running bills, attendance, trips or admissions that an owner can read on the phone.",
     app: "Android and iOS apps for contractor attendance, college notices or clinic tokens, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Much of Palwancha's business runs on contracts with large plants, where payment terms are long and paperwork is strict. We match that discipline: published starting prices, a written itemised quote, WhatsApp replies every day, and domain, hosting, code and store accounts registered in your name from the first step.",
@@ -179,7 +179,7 @@ const palwancha: CityContent = {
       heading: "Ownership, upkeep and app updates for Palwancha clients",
       paragraphs: [
         "A familiar problem in smaller towns is a website that goes dark because the developer registered the domain in his own name and stopped responding. We register the domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts to you, and hand over every login in writing.",
-        "Maintenance is free for five months after launch, covering content changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that it starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you choose.",
+        "Maintenance is free for two months after launch, covering content changes, backups, security patches, software updates and checks that forms, payments and WhatsApp links work. After that it starts at ₹8,000 a month if you want us to continue, and you can move to another developer whenever you choose.",
         "Apps need updates each year as Google and Apple change their rules. We track those changes and release updates on time, so your app is not removed from the stores. Before each release you get a short note listing what changed, so the staff who use the app at the counter or on site are not caught off guard by a moved button or a new screen.",
       ],
     },
@@ -276,7 +276,7 @@ const palwancha: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "The first five months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can move your code and accounts to another developer at any time.",
+        "The first two months are free, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want us to continue. You can move your code and accounts to another developer at any time.",
     },
     {
       question: "Do you work in Kothagudem, Bhadrachalam and Manuguru too?",

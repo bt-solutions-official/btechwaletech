@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Singapore · Freelance web developer · Remote from India",
     h1: "Freelance web developer Singapore choice: one local freelancer, or a three-person remote team?",
     lede: `Hiring a freelance web developer in Singapore usually means betting your site on one person's health, workload and inbox. BtechWaleTech offers a different shape of freelance: three developers in India who share one codebase, overlap with most of the SGT working day and quote in USD from ${P.site}. This page compares a solo <a href='/singapore/'>Singapore</a> freelancer with a small remote team honestly, covering rates, handover risk, hours, contracts and Wise payments.`,
-    pills: ["Business sites from " + P.site, "Three developers, one codebase", "Overlap with SGT office hours", "Quotes in USD, Wise or wire", "You own domain, hosting and code", "PDPA-ready forms", "5 months free maintenance"],
+    pills: ["Business sites from " + P.site, "Three developers, one codebase", "Overlap with SGT office hours", "Quotes in USD, Wise or wire", "You own domain, hosting and code", "PDPA-ready forms", "2 months free maintenance"],
     origin: "Three freelance developers in India · WhatsApp replies 7 days a week · Serving Singapore SMEs remotely",
   },
   facts: [
@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["Time difference", "Singapore is 2.5 hours ahead of India"],
     ["How you pay", "USD by Wise or bank wire"],
     ["Written quote", "Itemised, about 2 working days"],
-    ["After launch", "5 months of maintenance at no charge"],
+    ["After launch", "2 months of maintenance at no charge"],
   ],
   stats: [
     { value: "3", label: "Developers who can each pick up your project" },
     { value: "2.5", label: "Hours between SGT and IST" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "Should a Singapore SME hire a solo freelance web developer or a small remote team?",
@@ -299,7 +299,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Picture a hypothetical four-person accounting practice near Tanjong Pagar that wants a new website before the corporate tax season. Their last freelance web developer stopped replying after taking a deposit, leaving a half-built theme on a hosting plan nobody can log in to.`,
         `Week one would be recovery and scope: the partners confirm the domain is in the firm's name with the registrar, open a fresh hosting account on their own card, and approve a page list of about fifteen pages covering bookkeeping, GST filing support, corporate secretarial referrals and a resources section. Week two is design and build on staging, with copy supplied by the partners and edited by us. The enquiry form sends to their shared inbox with consent wording they have checked. Launch happens once the redirect map from the old URLs is tested.`,
-        `On a scope like that, a quote would start from our business website price of ${P.site} and rise only for listed extras such as copy editing or a client-upload portal. The partners would own every account, and five months of maintenance would follow at no charge. This is an illustration, not a past client.`,
+        `On a scope like that, a quote would start from our business website price of ${P.site} and rise only for listed extras such as copy editing or a client-upload portal. The partners would own every account, and two months of maintenance would follow at no charge. This is an illustration, not a past client.`,
       ],
     },
     {
@@ -351,7 +351,7 @@ const content: FreelanceContent = {
         ["Customer portal or web app", "Logins, bookings, dashboards", P.software, "6–12 weeks"],
         ["AI automation", "Lead sorting, document reading, reply drafts", P.ai, "2–4 weeks"],
         ["Monthly SEO", "Technical fixes, content, reporting", P.seo, "Ongoing"],
-        ["Maintenance after 5 free months", "Updates, backups, small edits", P.care, "Ongoing"],
+        ["Maintenance after 2 free months", "Updates, backups, small edits", P.care, "Ongoing"],
       ],
     },
     {
@@ -399,7 +399,7 @@ const content: FreelanceContent = {
       ["Accounts set up in your name", "Domain, hosting and repository are created or transferred under your company. We join as invited users, never owners."],
       ["Design and build on staging", "You review a private staging link at each milestone. Comments go into one shared list so nothing gets lost between WhatsApp and email."],
       ["Launch and Search Console", "DNS switch, SSL, redirects from old URLs, sitemap submission and analytics checks, timed for a quiet hour in Singapore."],
-      ["Handover and five free months", "You receive the handover pack and admin access. Maintenance for the next five months is included; after that it is optional and monthly."],
+      ["Handover and two free months", "You receive the handover pack and admin access. Maintenance for the next two months is included; after that it is optional and monthly."],
     ],
   },
   faqHeading: "Freelance web developer Singapore: questions SMEs ask",
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
     { question: "Can I use the Productivity Solutions Grant with you?", answer: "No. The PSG covers pre-approved solutions from vendors listed on the government's GoBusiness portal, and we are not on that list. Some SMEs use a grant for one packaged tool and hire an independent developer for their marketing site. Check current grant rules directly on the official portal." },
     { question: "Will a freelance web developer get my site ranked on Google Singapore?", answer: "No developer can promise rankings, and anyone who does is guessing. What we do is build the technical foundation properly, with fast pages, schema, clean URLs, a sitemap and Search Console set up, and write page structures that match how Singapore customers search. Monthly SEO is available if you want ongoing work." },
     { question: "How do you make my site visible in AI answers like ChatGPT or Google AI Overviews?", answer: "We structure pages so a direct answer sits near the top, facts are specific and your business details are consistent across the site and schema markup. We also make sure AI crawlers are not blocked unintentionally. Citations cannot be guaranteed, but clear, well-structured pages are the ones these systems quote most readily." },
-    { question: "What is included in the five months of free maintenance?", answer: "Security and software updates, backups, uptime checks, bug fixes and small content edits for five months after launch. Larger changes, such as new sections or features, are quoted separately. After the free period, maintenance continues monthly from our published starting price if you want it." },
+    { question: "What is included in the two months of free maintenance?", answer: "Security and software updates, backups, uptime checks, bug fixes and small content edits for two months after launch. Larger changes, such as new sections or features, are quoted separately. After the free period, maintenance continues monthly from our published starting price if you want it." },
     { question: "Can you build an online store or app later with the same team?", answer: `Yes. The same three developers build online stores from ${P.shop} and Android and iOS apps from ${P.app}, so a later project reuses what we already know about your business. You are never obliged to use us again, which is why every project ends with a full handover pack.` },
     { question: "What should I prepare before contacting a freelance web developer?", answer: "A short list of goals, the pages you think you need, two or three websites you like and why, your domain login details, and any brand files such as a logo and colours. Rough is fine. We turn it into a structured scope and quote within about two working days." },
     { question: "What if I am not happy with the design?", answer: "Designs are reviewed on a staging link at agreed milestones, before the build goes further, so direction changes are caught early. The number of revision rounds and what happens if you decide to stop are written into your quote. Our refund policy page explains the general approach." },

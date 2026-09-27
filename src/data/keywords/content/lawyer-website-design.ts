@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Rule framework", "BCI Rule 36 and its 2008 proviso"],
     ["Owner of domain & code", "The advocate or the firm"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Free care after launch", "5 months"],
+    ["Free care after launch", "2 months"],
   ],
   stats: [
     { value: "5", label: "Particular groups in the BCI website Schedule" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "3", label: "Developers who know your build" },
-    { value: "5", label: "Months of free maintenance" },
+    { value: "2", label: "Months of free maintenance" },
   ],
   answer: {
     heading: "Can a lawyer in India have a website, and what should lawyer website design include?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Leave out", value: "Testimonials, win rates, “best lawyer” claims, fee offers" },
       { label: "Starting price", value: `From ${P.site}, 1–2 weeks` },
       { label: "Languages", value: "English plus Hindi or a regional language you approve" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care} a month` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Bilingual versions", note: "Hindi, Marathi, Tamil or another language you or your translator approve, with correct language tags for Google.", size: "md" },
       { name: "Legal-information articles", note: "Explainers on procedure and timelines that answer common questions without offering representation.", href: "/seo-for-lawyers/", size: "sm" },
       { name: "Chamber and court map", note: "Directions to the chamber, with court complex references, so clients reach the right building on hearing days.", size: "sm" },
-      { name: "Monthly care and edits", note: `Five months free after launch, then from ${P.care}: updates, backups and new practice notes.`, href: "/services/seo-services/", size: "sm" },
+      { name: "Monthly care and edits", note: `Two months free after launch, then from ${P.care}: updates, backups and new practice notes.`, href: "/services/seo-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -91,7 +91,7 @@ const content: FreelanceContent = {
       ["Search visibility", "Ranks for the directory brand", "Depends on your SEO skill", "Schema, sitemap and speed work included"],
       ["Confidential enquiries", "Messages sit on the platform", "Default forms collect anything", "Short form, no case facts, HTTPS"],
       ["Starting cost", "Varies by platform", "Subscription plus your time", `From ${P.site}`],
-      ["Who maintains it", "The platform", "You", "Us for 5 months free, then optional"],
+      ["Who maintains it", "The platform", "You", "Us for 2 months free, then optional"],
     ],
     fine: "A directory profile can sit alongside your own site; nothing stops you keeping both, as long as each shows only the particulars you are comfortable defending before your Bar Council.",
   },
@@ -206,7 +206,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A solo advocate’s site usually fits our static plan starting at ${P.site} (${P.siteUsd} for clients abroad), and launches in one to two weeks. A multi-partner firm with several offices, bilingual content and a people directory costs more because of the page count and review rounds, not because of any special technology.`,
         `Lawyer website design quotes across the market vary widely for the same brief. The difference usually hides in content: some quotes assume you hand over final text, others include drafting help for each practice area; some include a second language, others price it separately; some end at launch, others include months of edits. Ask each designer to separate these lines, and you will see what you are comparing.`,
-        `Our itemised quote lists page groups, language versions, the disclaimer build, the appointment form and any integrations as separate lines. Maintenance is free for five months after launch and then optional from ${P.care} a month. Domain and hosting are paid by you directly to the providers. If you later want a client portal for document exchange, that is a custom web app, starting at ${P.software}.`,
+        `Our itemised quote lists page groups, language versions, the disclaimer build, the appointment form and any integrations as separate lines. Maintenance is free for two months after launch and then optional from ${P.care} a month. Domain and hosting are paid by you directly to the providers. If you later want a client portal for document exchange, that is a custom web app, starting at ${P.software}.`,
       ],
     },
     {
@@ -279,7 +279,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This scenario is illustrative, not a client story. Two advocates practising civil and revenue matters before the Lucknow bench of the Allahabad High Court and district courts want a site that clients can check before a first meeting, in Hindi and English.`,
         `The plan would run to about fourteen pages per language: home, two profiles each carrying the full Schedule particulars, five practice-area pages (civil suits, property and title, revenue matters, writ petitions, consumer disputes), a courts and chamber page with directions, contact, and the disclaimer, privacy and terms pages. The quote would start from the static plan at ${P.site}, with separate lines for the Hindi version and for help structuring the practice-area notes the advocates dictate.`,
-        `Week one would produce the English home, one profile and one practice page on a staging link, with the bilingual disclaimer overlay working on mobile. Week two would add the remaining pages, the Hindi version with hreflang tags, a four-field appointment form that sends a WhatsApp alert to the clerk, schema, Search Console and a printable particulars sheet. After launch, the five months of free maintenance would cover adding a new associate’s profile or updating chamber hours.`,
+        `Week one would produce the English home, one profile and one practice page on a staging link, with the bilingual disclaimer overlay working on mobile. Week two would add the remaining pages, the Hindi version with hreflang tags, a four-field appointment form that sends a WhatsApp alert to the clerk, schema, Search Console and a printable particulars sheet. After launch, the two months of free maintenance would cover adding a new associate’s profile or updating chamber hours.`,
       ],
     },
     {
@@ -340,7 +340,7 @@ const content: FreelanceContent = {
         ["Client document portal", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Firms sharing files and matter updates"],
         ["Intake automation (WhatsApp, sheets)", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Busy chambers sorting appointment requests"],
         ["Monthly information-only SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Articles, Search Console, technical fixes"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Edits, updates, backups"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Edits, updates, backups"],
       ],
       hideSm: [2],
     },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Approve an itemised quote", "Within about two working days you get page groups, languages and integrations priced line by line. Nothing is billed before written approval."],
       ["Review on a private link", "Pages appear on a staging link with the disclaimer working. You and your partners read every sentence and mark changes."],
       ["Launch in your accounts", "Domain, hosting and code sit in the firm’s name. We connect Search Console, test the form and hand over all logins."],
-      ["Five months of free care", "New associates, changed hours or added practice notes are handled free for five months, then optional maintenance continues."],
+      ["Two months of free care", "New associates, changed hours or added practice notes are handled free for two months, then optional maintenance continues."],
     ],
   },
   faqHeading: "Lawyer website design: questions advocates ask",
@@ -396,7 +396,7 @@ const content: FreelanceContent = {
     { question: "Does a law firm website need a privacy policy in India?", answer: "If the site collects personal data through forms, the Digital Personal Data Protection Act, 2023 expects a notice explaining what data is collected and why, and valid consent. We build the notice into the form and link a privacy page, but the text is your document and should be approved by you or your own counsel." },
     { question: "How are payments made for a lawyer website project?", answer: "Payments are staged against visible work, and nothing is billed until you approve the itemised quote in writing. In India we accept UPI or bank transfer with an invoice; advocates abroad pay by Wise, bank wire or PayPal in USD. Domain and hosting charges go from your account straight to the providers." },
     { question: "Will my law firm website appear in Google AI Overviews or ChatGPT answers?", answer: "No one can promise that. What helps is clear, factual content: pages that answer procedural questions in the first two sentences, question-style headings, schema identifying the practice and each advocate, and the same name, address and phone across your site and Google Business Profile. Those same qualities make the site more useful to human readers." },
-    { question: "What maintenance does a lawyer website need after launch?", answer: `Mostly small edits: a new associate, changed chamber hours, a new area of practice, security updates and backups. We include five months of free maintenance after launch. After that it is optional and starts at ${P.care} a month, or you can manage a static site through us only when changes are needed.` },
+    { question: "What maintenance does a lawyer website need after launch?", answer: `Mostly small edits: a new associate, changed chamber hours, a new area of practice, security updates and backups. We include two months of free maintenance after launch. After that it is optional and starts at ${P.care} a month, or you can manage a static site through us only when changes are needed.` },
     { question: "Can you build a client portal for my law firm?", answer: `Yes, as a separate custom web app starting at ${P.software} and usually taking six to twelve weeks. It can offer secure logins, document upload, hearing dates and matter updates. Most firms launch the public site first and add a portal later once they know which files and updates clients actually ask about.` },
     { question: "Can a law firm website show fees or a fee schedule?", answer: "We do not add fee tables or offers by default, because advertising rates can read as an inducement to bring work. Most advocates discuss fees after understanding the matter. If you want to mention anything about fees, such as how consultation appointments are arranged, decide the wording with your seniors and we will implement it exactly." },
     { question: "Advocate ki website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath ek advocate ki simple website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Isme disclaimer screen, Rule 36 ke hisaab se profile particulars, practice-area pages aur appointment form hota hai. Hindi version alag line mein quote hota hai. Domain aur hosting aapke naam par rehte hain.` },
@@ -422,7 +422,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning lawyer website design for your chamber? Send your particulars",
-    note: `Message us on WhatsApp with your enrolment details and areas of practice. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain and code in your name and five months of free care after launch.`,
+    note: `Message us on WhatsApp with your enrolment details and areas of practice. You will get an itemised quote in about two working days, starting at ${P.site}, with the domain and code in your name and two months of free care after launch.`,
   },
 };
 

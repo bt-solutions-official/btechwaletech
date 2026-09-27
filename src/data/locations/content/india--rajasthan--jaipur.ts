@@ -41,7 +41,7 @@ const content: CityContent = {
     pills: ["Consulting call free", "Software from ₹60,000", "Android & iOS apps from ₹40,000", "Hindi and English", "Pay by UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT consulting and IT solutions in Jaipur as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
+    "BtechWaleTech offers IT consulting and IT solutions in Jaipur as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with two months of free maintenance.",
   snapshot: [
     { label: "Business districts", value: "C-Scheme, MI Road, Tonk Road, Malviya Nagar, Vaishali Nagar and the walled city bazaars around Johari Bazaar and Tripolia" },
     { label: "Industrial areas", value: "Vishwakarma Industrial Area (VKI), Sitapura, Sanganer, Jhotwara, Bagru and Kaladera RIICO areas" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents for Jaipur front desks and sales teams that answer routine questions in Hindi and English, book appointments and prepare draft quotes for human approval.",
     data: "Reporting and dashboards that combine Tally, billing software and Google Sheets data for Jaipur owners who manage several showrooms, sites or branches.",
     app: "Android and iOS apps for Jaipur customers and staff, built in Flutter or React Native, published on Google Play and the App Store, starting from ₹40,000.",
-    maintenance: "Free maintenance for five months after go-live, then support from ₹8,000 a month with WhatsApp replies seven days a week.",
+    maintenance: "Free maintenance for two months after go-live, then support from ₹8,000 a month with WhatsApp replies seven days a week.",
   },
   whyUsIntro:
     "Jaipur has hundreds of IT firms, from global campuses at Mahindra World City to one-person shops. We sit in a specific place: three engineers who consult, build and support directly, with published starting prices and no account managers between you and the code.",
@@ -82,7 +82,7 @@ const content: CityContent = {
       heading: "How do you judge the best IT services team in Jaipur, and where does a freelance team fit?",
       paragraphs: [
         "The best IT services team in Jaipur for your project is the one whose size, skills and working style match the job, not the one with the biggest office or the highest listing on a directory. A ten-crore enterprise rollout and a ₹60,000 order management app need very different partners.",
-        "If you are comparing IT companies in Jaipur, judge them on evidence you can check. Look at live work you can open on your own phone. Ask to speak to the developer, not only the salesperson. Check whether the quote lists features individually or hides everything in one lump sum. Confirm who will own the domain, hosting and code. Ask what support looks like in month six, not just at launch.",
+        "If you are comparing IT companies in Jaipur, judge them on evidence you can check. Look at live work you can open on your own phone. Ask to speak to the developer, not only the salesperson. Check whether the quote lists features individually or hides everything in one lump sum. Confirm who will own the domain, hosting and code. Ask what support looks like in month three, not just at launch.",
         "A freelance team like ours fits projects where the owner wants direct access to engineers, a clear starting price and fast decisions. It does not fit projects that need thirty developers, round-the-clock staffed support or on-site teams inside your premises. We are a small freelance group of three developers, and we say that plainly so you can compare honestly. What we offer is continuity: the three people who plan your project are the three who build and maintain it.",
       ],
       list: [
@@ -185,7 +185,7 @@ const content: CityContent = {
       paragraphs: [
         "Cloud migration for a Jaipur business means moving software, files and databases from local computers or old shared hosting to managed cloud services that are backed up, secure and reachable from anywhere. It is usually cheaper and safer than maintaining an office server.",
         "We deploy on AWS, DigitalOcean, Vercel, Cloudflare or similar providers, selecting Indian regions where speed and data location matter. Each project gets automated deployments from a code repository, daily backups with a tested restore, HTTPS, access roles, error alerts and uptime monitoring. For growing startups in Malviya Nagar or at Mahindra World City's periphery, we can set up staging environments and CI pipelines so new features are tested before they reach users.",
-        "Cloud bills can creep up quietly. We size servers for your real traffic, use static hosting where possible, and review costs periodically. All cloud accounts are opened in your name with your billing, and we document the setup so any competent engineer can take over. Hosting and deployment are included in every build, and the first five months of maintenance cost nothing.",
+        "Cloud bills can creep up quietly. We size servers for your real traffic, use static hosting where possible, and review costs periodically. All cloud accounts are opened in your name with your billing, and we document the setup so any competent engineer can take over. Hosting and deployment are included in every build, and the first two months of maintenance cost nothing.",
       ],
     },
     {
@@ -202,7 +202,7 @@ const content: CityContent = {
       heading: "How much do IT solutions cost in Jaipur, and how do we work remotely?",
       paragraphs: [
         "IT solutions in Jaipur cost from ₹10,000 for a static website to ₹60,000 and above for custom software, with apps and AI automation from ₹40,000 and stores from ₹50,000. These are starting points; features, integrations and data migration set the final figure.",
-        "Our process is the same for every Jaipur client. First, a free call or WhatsApp chat to understand the goal. Second, a written plan and itemised quote in about two working days. Third, the build, with a live preview link from the first week and short progress updates. Fourth, testing with your staff. Fifth, launch on hosting in your name, followed by five months of free maintenance.",
+        "Our process is the same for every Jaipur client. First, a free call or WhatsApp chat to understand the goal. Second, a written plan and itemised quote in about two working days. Third, the build, with a live preview link from the first week and short progress updates. Fourth, testing with your staff. Fifth, launch on hosting in your name, followed by two months of free maintenance.",
         "Clients pay only by UPI (scanning our QR code) or direct bank transfer to our bank account, in INR, split into milestones. We do not have a Jaipur office and do not visit on site; everything happens over calls, screen shares and WhatsApp. Many Jaipur clients find this faster than meetings. If you mainly need a website, our <a href='/jaipur/'>Jaipur web and SEO page</a> covers that in detail. You can see examples of our work in the <a href='/portfolio/'>portfolio</a> and read about the three of us on the <a href='/about/'>about page</a>.",
       ],
     },
@@ -290,7 +290,7 @@ const content: CityContent = {
     {
       question: "What is included in maintenance?",
       answer:
-        "For five months after hosting goes live, maintenance is free: bug fixes, content changes, security and dependency updates, backups, and uptime and speed checks. Afterwards, plans start from ₹8,000 per month, or you can pay for changes as needed. We reply on WhatsApp seven days a week, though complex fixes are scheduled during working hours.",
+        "For two months after hosting goes live, maintenance is free: bug fixes, content changes, security and dependency updates, backups, and uptime and speed checks. Afterwards, plans start from ₹8,000 per month, or you can pay for changes as needed. We reply on WhatsApp seven days a week, though complex fixes are scheduled during working hours.",
     },
     {
       question: "Can a small Jaipur shop or clinic afford IT consulting?",

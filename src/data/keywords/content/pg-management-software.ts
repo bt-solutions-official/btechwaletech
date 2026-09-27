@@ -38,11 +38,11 @@ const content: FreelanceContent = {
     ["Typical first release", "6–12 weeks"],
     ["Itemised quote", "In about 2 working days"],
     ["Rent lands in", "Your own bank account"],
-    ["Post-launch support", "5 months free"],
+    ["Post-launch support", "2 months free"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building your system" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "2", label: "Working days to receive your quote" },
     { value: "0", label: "Per-bed charges paid to us" },
   ],
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Verification", value: "Aadhaar offline eKYC, police verification records, Form C reminders" },
       { label: "Custom build", value: `From ${P.software}, 6–12 weeks` },
       { label: "Ownership", value: "Code, data and app listings in your name" },
-      { label: "Upkeep", value: `Free for 5 months, then from ${P.care} per month` },
+      { label: "Upkeep", value: `Free for 2 months, then from ${P.care} per month` },
     ],
   },
   services: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "PG management software pricing",
-    note: `Custom PG management software with an owner dashboard, manager web panel and tenant-facing flows starts at ${P.software}. If you already have a back end and want only a tenant app or a manager app, that starts at ${P.app}. The quote grows with the number of properties and roles, mess complexity, electricity sub-meter billing, integrations with accounting tools, and data migration from your current app or sheets. WhatsApp rent reminders and an AI assistant that answers tenant questions start at ${P.ai}. A public website for enquiries starts at ${P.site}. Maintenance after five free months starts at ${P.care} per month.`,
+    note: `Custom PG management software with an owner dashboard, manager web panel and tenant-facing flows starts at ${P.software}. If you already have a back end and want only a tenant app or a manager app, that starts at ${P.app}. The quote grows with the number of properties and roles, mess complexity, electricity sub-meter billing, integrations with accounting tools, and data migration from your current app or sheets. WhatsApp rent reminders and an AI assistant that answers tenant questions start at ${P.ai}. A public website for enquiries starts at ${P.site}. Maintenance after two free months starts at ${P.care} per month.`,
   },
   guideLabel: "PG management software guide",
   guide: [
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Custom PG management software from BtechWaleTech starts at ${P.software} for the platform (owner dashboard, manager panel, bed inventory, rent and deposits), and a tenant or manager app on its own starts at ${P.app}. The quote depends mostly on the number of modules and roles, not on the number of beds.`,
         `What pushes the figure up: mess management with multiple kitchens, electricity sub-meter billing, a branded tenant app with community features, WhatsApp automation, accounting exports, and migration of existing tenants and ledgers. What keeps it down: launching with bed inventory, rent and complaints first, and adding meals and the tenant app in a second round.`,
-        `Running costs are separate and modest: cloud hosting in your account, WhatsApp or SMS message charges, and store fees if you publish an app (Google Play's one-time US$25 registration and Apple's US$99 yearly programme fee). After five months of free maintenance, upkeep starts at ${P.care} a month. For wider context, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
+        `Running costs are separate and modest: cloud hosting in your account, WhatsApp or SMS message charges, and store fees if you publish an app (Google Play's one-time US$25 registration and Apple's US$99 yearly programme fee). After two months of free maintenance, upkeep starts at ${P.care} a month. For wider context, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
       ],
     },
     {
@@ -293,7 +293,7 @@ const content: FreelanceContent = {
         ["Tenant or manager app", "Flutter app for Android and iPhone", `From ${P.app}`, `From ${P.appUsd}`],
         ["WhatsApp and AI automation", "Rent reminders, menu replies, tenant FAQ assistant", `From ${P.ai}`, `From ${P.aiUsd}`],
         ["PG website", "Rooms, photos, location, enquiry form", `From ${P.site}`, `From ${P.siteUsd}`],
-        ["Maintenance after 5 free months", "Fixes, updates, store releases", `From ${P.care}/month`, `From ${P.careUsd}/month`],
+        ["Maintenance after 2 free months", "Fixes, updates, store releases", `From ${P.care}/month`, `From ${P.careUsd}/month`],
       ],
       hideSm: [3],
     },
@@ -329,7 +329,7 @@ const content: FreelanceContent = {
       ["Screens you can click", "Owner, manager and tenant screens as a clickable prototype. Your managers try it before a line of code, because they will use it most."],
       ["Build and weekly versions", "Ankur builds the platform and apps, Santosh sets up hosting and payments in your accounts, and Vedansh sends a working version every week for review."],
       ["Pilot property for one cycle", "One PG goes live for a full rent cycle with the old method alongside. We import tenants and deposits, then compare collections to your records."],
-      ["Rollout and handover", "Other properties follow; you receive code, credentials, guides and recordings, and five months of free maintenance starts."],
+      ["Rollout and handover", "Other properties follow; you receive code, credentials, guides and recordings, and two months of free maintenance starts."],
     ],
   },
   faqHeading: "PG management software: questions owners ask",
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
     { question: "Can the software split electricity bills among tenants?", answer: "Yes. Managers enter room sub-meter readings at cycle end, and the software divides the units by occupied beds or days stayed, then adds the share to each tenant's invoice. That removes one of the most common monthly disputes, because tenants can see the reading and calculation on their bill." },
     { question: "PG ke liye software banwana hai, kya WhatsApp par rent collect ho sakta hai?", answer: `Haan. Har mahine software har tenant ka invoice banata hai aur WhatsApp par UPI payment link bhejta hai. Payment seedha aapke bank account mein aata hai aur receipt apne aap chali jaati hai. Custom PG management software ${P.software} se shuru hota hai, aur kaam shuru hone se pehle aapko itemised quote milta hai.` },
     { question: "Can you also build a website to get PG enquiries?", answer: `Yes. A PG website with room types, photos, location, prices shown as starting figures and an enquiry form starts at ${P.site}. Enquiries can flow straight into the PG management software for visit scheduling and token bookings. Pairing the site with a well-kept Google Business Profile helps nearby searchers find you, though nobody can guarantee rankings.` },
-    { question: "What happens after the software goes live?", answer: `Five months of free maintenance cover bugs and small adjustments after launch. After that, maintenance starts at ${P.care} a month for fixes, updates and store releases. You can also take the code to any other developer, because everything is documented and sits in your accounts. The exact scope is written into your quote.` },
+    { question: "What happens after the software goes live?", answer: `Two months of free maintenance cover bugs and small adjustments after launch. After that, maintenance starts at ${P.care} a month for fixes, updates and store releases. You can also take the code to any other developer, because everything is documented and sits in your accounts. The exact scope is written into your quote.` },
     { question: "Do you visit the PG to set things up?", answer: "No. We are three freelance developers working remotely from India. Training for managers happens over video in English or Hindi, backed by short recordings and a quick guide. Your team handles on-site steps, and we stay available on WhatsApp during the pilot cycle to fix problems quickly." },
   ],
   related: {
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Running PGs or co-living? Tell us how many beds you manage",
-    note: `Message us on WhatsApp with your properties, bed count and current rent process. You will get an itemised quote in about two working days. Custom PG management software starts at ${P.software}, rent settles into your own account, and five months of maintenance come free after launch.`,
+    note: `Message us on WhatsApp with your properties, bed count and current rent process. You will get an itemised quote in about two working days. Custom PG management software starts at ${P.software}, rent settles into your own account, and two months of maintenance come free after launch.`,
   },
 };
 

@@ -56,7 +56,7 @@ const lakshmeshwar: CityContent = {
     ai: "Kannada WhatsApp assistants that quote rates, timings and stock, record an order, and hand anything unusual straight to you.",
     data: "Season dashboards showing arrivals by commodity, dues by farmer and buyer, and which pages actually brought a phone call.",
     app: "Android and iOS apps for weighment entry at the yard, retailer re-orders or college notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and form checks.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and form checks.",
   },
   whyUsIntro:
     "Lakshmeshwar owners are used to being quoted a round figure with nothing behind it. We do the opposite: published starting prices, a written line-by-line quote, WhatsApp replies on all seven days, and your name on the domain, hosting, source code and store accounts from the first day. When a feature will not earn back its cost, we say so in the quote itself.",
@@ -176,7 +176,7 @@ const lakshmeshwar: CityContent = {
       heading: "Ownership and maintenance for Lakshmeshwar websites and apps",
       paragraphs: [
         "Everything we build for a Lakshmeshwar client is registered to that client. The domain goes on your email address, the hosting invoice carries your name, the complete source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account all list you as owner. At handover you receive a written sheet with every login on it, so nobody, ourselves included, can hold your site to ransom later.",
-        "For five months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check now and then that the enquiry form, the UPI checkout and the WhatsApp button still behave. After it ends you choose: stay with us from ₹8,000 a month, hand it to a local person, or take the code to any other developer without asking us.",
+        "For two months after launch, upkeep costs you nothing. In that window we change rates and photographs, take backups, apply security and version updates, and check now and then that the enquiry form, the UPI checkout and the WhatsApp button still behave. After it ends you choose: stay with us from ₹8,000 a month, hand it to a local person, or take the code to any other developer without asking us.",
         "Apps need a yearly touch even when nothing is broken, because Google and Apple keep raising the minimum versions they will accept and pull listings that fall behind. We watch those deadlines and rebuild early rather than in a panic. Websites need less, but a site left untouched for two years usually shows it in load speed and in a contact form quietly delivering to a dead mailbox.",
       ],
     },
@@ -268,7 +268,7 @@ const lakshmeshwar: CityContent = {
     {
       question: "What does maintenance include after my Lakshmeshwar site goes live?",
       answer:
-        "The first five months are free: rate and photograph edits, backups, security patches, version updates and periodic tests of your form, checkout and WhatsApp button. After that it is your call, starting at ₹8,000 a month. Since the code and every account already sit in your name, moving to another developer needs no permission from us.",
+        "The first two months are free: rate and photograph edits, backups, security patches, version updates and periodic tests of your form, checkout and WhatsApp button. After that it is your call, starting at ₹8,000 a month. Since the code and every account already sit in your name, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you work in Shirhatti, Gajendragad, Ron and Mundargi too?",

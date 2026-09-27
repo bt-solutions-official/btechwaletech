@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Booking and guest software", "Contractor project trackers", "AI agents from ₹40,000", "Portals from ₹60,000", "Replies 7 days a week"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT solutions in Kohima as a freelance team, not a software development team: portals and custom software from ₹60,000 (6 to 12 weeks), AI agents and Android and iOS apps from ₹40,000, and websites from ₹10,000. Three engineers work remotely from India, and maintenance is free for five months after launch.",
+    "BtechWaleTech offers IT solutions in Kohima as a freelance team, not a software development team: portals and custom software from ₹60,000 (6 to 12 weeks), AI agents and Android and iOS apps from ₹40,000, and websites from ₹10,000. Three engineers work remotely from India, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Capital of Nagaland, home to the Civil Secretariat, the Legislative Assembly and most state directorates" },
     { label: "Signature event", value: "The Hornbill Festival at the Naga Heritage Village, Kisama, about 12 km from town, every December, plus a Night Bazaar in the town itself" },
@@ -62,7 +62,7 @@ const content: CityContent = {
     ai: "AI agents that answer tourist queries in English, draft routine letters and summarise long documents, with a person approving anything that goes out.",
     data: "Dashboards for NGOs, cooperatives and contractors that turn field records into clean monthly reports without manual retyping.",
     app: "Android and iOS apps for Kohima homestays, tour guides, schools and field staff, from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Remote upkeep covering updates, backups, security and small fixes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Remote upkeep covering updates, backups, security and small fixes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "In Kohima, much IT work is either done by a relative who knows computers or bought from an outside vendor who disappears after launch. A small freelance group sits between those extremes: engineers who answer on WhatsApp, publish their starting prices and hand over every password when the job is done.",
@@ -228,7 +228,7 @@ const content: CityContent = {
       heading: "How does IT support work from a remote team?",
       paragraphs: [
         "Remote IT support means we monitor, update and fix your website and software over the internet, answering on WhatsApp seven days a week, without visiting your premises. For browser-based systems this is usually faster than an on-site visit, because we can read server logs and push a fix within the same conversation.",
-        "Every launch includes five months of maintenance free: security and dependency updates, backups, bug fixes, uptime checks and small content changes. After that, a monthly plan starts from ₹8,000, or you can simply message us when something needs attention and pay for that work.",
+        "Every launch includes two months of maintenance free: security and dependency updates, backups, bug fixes, uptime checks and small content changes. After that, a monthly plan starts from ₹8,000, or you can simply message us when something needs attention and pay for that work.",
         "We are clear about the boundary. We support software, hosting, domains, email configuration and the integrations we built. We do not repair laptops, printers or office networks; a local technician in Kohima is the right person for those. Keeping that line clear means you always know who to call.",
         "Read more about who we are and how we work on the <a href=\"/about/\">about page</a>, or see the kinds of projects we build on our <a href=\"/portfolio/\">portfolio</a>.",
       ],
@@ -305,7 +305,7 @@ const content: CityContent = {
     {
       question: "Is maintenance included after launch?",
       answer:
-        "Yes. Five months of maintenance are free once hosting is live, covering updates, backups, security, bug fixes and small content changes. After that, you can continue from ₹8,000 a month or contact us only when something needs doing. The system keeps running on your own hosting either way.",
+        "Yes. Two months of maintenance are free once hosting is live, covering updates, backups, security, bug fixes and small content changes. After that, you can continue from ₹8,000 a month or contact us only when something needs doing. The system keeps running on your own hosting either way.",
     },
     {
       question: "Can you build an Android and iOS app for our Kohima organisation?",
@@ -320,7 +320,7 @@ const content: CityContent = {
     {
       question: "Do you handle hosting and deployment?",
       answer:
-        "Yes, end to end. We choose hosting, set up the domain, SSL, email records, backups and monitoring, and deploy through a tested process. You receive a written list of every service and login, and the five months of free maintenance begin from the day hosting goes live.",
+        "Yes, end to end. We choose hosting, set up the domain, SSL, email records, backups and monitoring, and deploy through a tested process. You receive a written list of every service and login, and the two months of free maintenance begin from the day hosting goes live.",
     },
     {
       question: "Can you repair our office computers or network?",

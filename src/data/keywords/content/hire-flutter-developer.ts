@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers who review each other’s Flutter code" },
     { value: "2", label: "Working days to a written quote" },
-    { value: "5", label: "Months of free maintenance after release" },
+    { value: "2", label: "Months of free maintenance after release" },
     { value: "0", label: "Platform fees on your payments" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Fair test task", value: "Paid, 4–8 hours, one screen with an API and tests" },
       { label: "Our Flutter builds", value: `From ${P.app}, 6–10 weeks` },
       { label: "Hiring models", value: "Project, monthly retainer or full-time employee" },
-      { label: "Aftercare with us", value: `5 months free, then from ${P.care}` },
+      { label: "Aftercare with us", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -203,7 +203,7 @@ const content: FreelanceContent = {
       heading: "How much does it cost to hire a Flutter developer in India?",
       paragraphs: [
         `It depends on the hiring model. Hourly freelancers bill for time and the total stays open until scope is fixed. A full-time employee costs a monthly salary plus hiring time, equipment and benefits. A project-based team quotes the whole app. Quotes vary widely across the market; experience, whether backend and design are included, and the level of testing explain most of the gap.`,
-        `With us, a complete Flutter app for Android and iOS starts from ${P.app} (${P.appUsd} abroad), including backend, admin panel and store release. Larger portals with complex roles and integrations fall under custom software, which starts from ${P.software}. After five free months of maintenance, ongoing care starts from ${P.care}.`,
+        `With us, a complete Flutter app for Android and iOS starts from ${P.app} (${P.appUsd} abroad), including backend, admin panel and store release. Larger portals with complex roles and integrations fall under custom software, which starts from ${P.software}. After two free months of maintenance, ongoing care starts from ${P.care}.`,
         `When comparing quotes, put them side by side on scope first: does each include the API, the admin panel, tests, CI and publishing? A cheaper quote that leaves those out is not cheaper. The page on <a href='/app-development-cost-in-india/'>app development cost in India</a> breaks costs down by complexity.`,
       ],
     },
@@ -219,7 +219,7 @@ const content: FreelanceContent = {
         { heading: "Hourly freelancer", text: "Good for small, well-defined tasks such as fixing one bug or adding one screen, when you can review the work yourself." },
         { heading: "Full-time employee", text: "Right when the app is your core product, funding is secure, and you want someone in your team every day for years." },
       ],
-      after: [`Many clients start project-based, then move to a retainer after the five free months. Read more on <a href='/dedicated-web-developer/'>dedicated versus project models</a>.`],
+      after: [`Many clients start project-based, then move to a retainer after the two free months. Read more on <a href='/dedicated-web-developer/'>dedicated versus project models</a>.`],
     },
     {
       id: "red-flags",
@@ -327,7 +327,7 @@ const content: FreelanceContent = {
         ["Larger portal with app and web", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["AI feature added to an app", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Landing site for the app", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
   ],
@@ -361,7 +361,7 @@ const content: FreelanceContent = {
       ["Set up your accounts", "Repository, Play Console, Apple Developer and cloud accounts are created in your name, with us added as users."],
       ["Build with tests and CI", "Features land in small steps, each with tests that run automatically. You install a test build from about week four."],
       ["Release to both stores", "We handle signing, testing tracks, TestFlight, privacy details and submission, and fix any reviewer feedback."],
-      ["Hand over and support", "You get the README, keys documentation and service list. Five months of maintenance are free; then care starts from " + P.care + "."],
+      ["Hand over and support", "You get the README, keys documentation and service list. Two months of maintenance are free; then care starts from " + P.care + "."],
     ],
   },
   faqHeading: "Hire Flutter developer: common questions",
@@ -381,7 +381,7 @@ const content: FreelanceContent = {
     { question: "Do Flutter apps work well on low-end Android phones?", answer: "They can, when the developer is careful: small release bundles, resized and cached images, cheap build methods and profiling in release mode on an older phone. Flutter draws its own interface, so it looks consistent across devices, but sloppy code shows up quickly on budget hardware." },
     { question: "Can Flutter apps support Hindi and regional languages?", answer: "Yes. Flutter’s localisation tools support Hindi, Tamil, Telugu, Marathi, Bengali, Gujarati and other Indian languages. The key is to keep all text strings out of the code from the first day, so adding a language later means translating a file, not editing every screen." },
     { question: "Do you sign an NDA when I hire your Flutter developers?", answer: "Yes. We sign a reasonable NDA before you share sensitive details, and the project agreement states that code, designs and data belong to you. Store accounts and repositories are yours from the start, so there is never a question about who controls the product." },
-    { question: "What support do I get after the Flutter app launches?", answer: `Five months of free maintenance cover bug fixes, small changes and updates for new Android and iOS versions. After that, maintenance is optional and starts from ${P.care}. Because the code, CI and accounts are yours, you can also move the work to anyone else.` },
+    { question: "What support do I get after the Flutter app launches?", answer: `Two months of free maintenance cover bug fixes, small changes and updates for new Android and iOS versions. After that, maintenance is optional and starts from ${P.care}. Because the code, CI and accounts are yours, you can also move the work to anyone else.` },
     { question: "Flutter developer hire karna hai, kya dekhna chahiye?", answer: `Pehle developer ke live apps Play Store aur App Store par install karke dekhiye. Phir poochiye ki state management kaise karte hain aur tests likhte hain ya nahi. Chhota paid test task dijiye. Signing keys aur store accounts apne naam par rakhiye. Hamare saath Flutter app ${P.app} se shuru hota hai.` },
     { question: "Can I hire a Flutter developer from India if I am based abroad?", answer: `Yes. BtechWaleTech works with clients in the USA, UK, Canada, Australia, the UAE and elsewhere. Flutter apps start from ${P.appUsd}, calls are placed in overlapping hours, test builds arrive through TestFlight and Play testing tracks, and payment goes by Wise, bank wire or PayPal.` },
   ],

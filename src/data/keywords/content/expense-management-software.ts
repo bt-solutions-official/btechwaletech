@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Quote", "Itemised, in about 2 working days"],
     ["Mobile claims", `Android & iOS app from ${P.app}, or a PWA`],
     ["Accounts link", "Tally-ready export, ledger-mapped"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and support your system" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
     { value: "0", label: "Per-user licence fees on a custom build" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Mobile", value: `Installable PWA included; native app from ${P.app}` },
       { label: "Build time", value: "6–12 weeks, first working module in about 3" },
       { label: "Hosting", value: "Your own cloud account, in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -215,7 +215,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, custom expense management software starts at ${P.software} (${P.softwareUsd}) for a web app covering claims, bill photos, approvals and basic reports. The final quote rises with each additional module and with the complexity of your policy, and it is itemised so you can see exactly what each part costs.`,
         `The main cost drivers are easy to list. Approval chains with many conditional branches take longer than a single manager step. A TA/DA engine with grades, city tiers, vehicle types and effective dates is more work than simple caps. A native Android and iOS app starts at ${P.app} on its own; a PWA that installs from the browser is included in the web app and suits most field teams. AI bill reading is an automation line starting at ${P.ai}. Tally export depth, advance tracking and data migration from old spreadsheets each add a line.`,
-        `After launch you get five months of free maintenance, covering fixes, small changes and updates. After that, care continues from ${P.care} only if you want it. There is no per-user charge, so adding fifty employees next year costs nothing beyond hosting, which you pay directly to your cloud provider. For a wider view of how custom systems are priced, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
+        `After launch you get two months of free maintenance, covering fixes, small changes and updates. After that, care continues from ${P.care} only if you want it. There is no per-user charge, so adding fifty employees next year costs nothing beyond hosting, which you pay directly to your cloud provider. For a wider view of how custom systems are priced, see <a href='/custom-software-development-cost-in-india/'>custom software development cost in India</a>.`,
       ],
     },
     {
@@ -324,7 +324,7 @@ const content: FreelanceContent = {
         ["Plus advances, payouts and Tally export", `Above ${P.software}, itemised`, `Above ${P.softwareUsd}`, "9–12 weeks", "Distributors, pharma, manufacturers"],
         ["Native Android & iOS claims app", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Staff offline for days"],
         ["AI bill reading add-on", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "High claim volumes"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Rule changes, updates, backups"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Rule changes, updates, backups"],
       ],
       hideSm: [2],
     },
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
       ["Agree the Tally mapping", "A short call with your accountant fixes ledgers, cost centres and voucher types, so the export matches your books from the first test run."],
       ["Test the core on staging", "Within about three weeks, a few employees and one manager file and approve real claims on a private link. Their feedback shapes the rest of the build."],
       ["Pilot one department for a cycle", "One team runs a full month of claims, approvals, payouts and Tally export. We tune policy warnings and fix anything confusing before company-wide rollout."],
-      ["Hand over and support", `You receive code, hosting access in your name and short guides for each role. Five months of free maintenance follow; after that, care from ${P.care} is optional.`],
+      ["Hand over and support", `You receive code, hosting access in your name and short guides for each role. Two months of free maintenance follow; after that, care from ${P.care} is optional.`],
     ],
   },
   faqHeading: "Expense management software: questions businesses ask",
@@ -410,7 +410,7 @@ const content: FreelanceContent = {
     { question: "Does the DPDP Act affect an expense system?", answer: "The Digital Personal Data Protection Act, 2023 covers personal data handled digitally, which includes employee details and bill photos in an expense system. Your lawyer should advise on your specific obligations. On the build side we keep only necessary fields, restrict access by role, log access, encrypt data and make it possible to export or delete a former employee’s records." },
     { question: "Can reimbursements be paid through payroll instead of separately?", answer: "Yes. Approved totals can be exported to your payroll process or software for the monthly salary run, with categories split as your accountant specifies. Other companies prefer separate payouts through their bank’s bulk transfer upload, which the software can prepare as a file. Small teams often just pay by UPI and record the reference." },
     { question: "Can you migrate our old claims from Excel?", answer: "Usually, yes. We clean and map historical claims from your spreadsheets into the new database so reports cover past months too. The effort depends on how consistent the old sheets are; messy data takes longer to clean. Many clients move only the current financial year and archive older sheets as read-only files." },
-    { question: "What happens after the software goes live?", answer: `You get five months of free maintenance covering bug fixes, small changes and updates. After that, ongoing care starts at ${P.care} if you want it, covering rule changes, new reports and dependency updates. You can also take support in-house or hand it to another developer, since you hold the code and all accounts.` },
+    { question: "What happens after the software goes live?", answer: `You get two months of free maintenance covering bug fixes, small changes and updates. After that, ongoing care starts at ${P.care} if you want it, covering rule changes, new reports and dependency updates. You can also take support in-house or hand it to another developer, since you hold the code and all accounts.` },
     { question: "Do you work with small companies or only large ones?", answer: "Both, within limits. A twenty-person company with a clear policy is a good fit, as is a two-hundred-person distributor. We are three freelance developers, so we are not suited to projects that need a large dedicated team on-site, formal enterprise procurement or round-the-clock operations staff." },
     { question: "How do payments for the project work?", answer: "Payments are staged against visible progress, as set out in your written, itemised quote. Clients in India pay by UPI or bank transfer; clients abroad pay in USD by Wise, bank wire or PayPal. Nothing is billed before you approve the quote. For terms not covered there, see our terms page or ask us directly." },
     { question: "Can the expense system connect to our HRMS or attendance app?", answer: "Yes, if the other system offers an API or a regular export file. Linking employee records avoids keeping two staff lists, and linking attendance or tour plans lets the software check daily allowance claims against days actually spent on tour. We review the other system’s documentation before quoting, so the integration line is realistic." },
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Send us your TA/DA policy and get an expense software quote",
-    note: `Share your reimbursement policy and approval structure on WhatsApp. You will get an itemised quote in about two working days, with custom expense management software starting at ${P.software}, code and hosting in your name, and five months of free maintenance after go-live.`,
+    note: `Share your reimbursement policy and approval structure on WhatsApp. You will get an itemised quote in about two working days, with custom expense management software starting at ${P.software}, code and hosting in your name, and two months of free maintenance after go-live.`,
   },
 };
 

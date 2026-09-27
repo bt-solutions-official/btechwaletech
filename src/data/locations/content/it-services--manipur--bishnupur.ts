@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer visitor questions on routes, timings and prices, then pass confirmed bookings to your team.",
     data: "Dashboards showing enquiries, bookings and seasonal visitor patterns, or catch and sales for fisheries groups.",
     app: "Android and iOS apps for tour operators, homestays, schools and traders in Bishnupur, built in Flutter or React Native for both stores.",
-    maintenance: "Content updates before each season, backups and fixes, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Content updates before each season, backups and fixes, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Most Loktak operators rely on word of mouth and phone calls that go unanswered while they are out on the lake. We build simple systems that catch those enquiries, and you speak directly to the engineers who build them.",
@@ -140,7 +140,7 @@ const content: CityContent = {
       paragraphs: [
         "A service website for a Bishnupur, Nambol or Moirang business is a fast, mobile-first site that lists what you offer, where you are, your timings and how to contact you, with a tap-to-call and WhatsApp button. It helps local customers and visitors find you and gives you a trusted place to share updates.",
         "Clinics can list doctors and timings, schools can post admissions and notices, shops can show products and prices, and transport operators can show routes and fares. Enquiry forms send details straight to WhatsApp and are logged so none are lost. We build these sites with Astro so they load quickly on weak signal and cost very little to host.",
-        "Static websites start at ₹10,000 and are usually live in one to two weeks. You can edit text and photos yourself, and five months of maintenance are included free.",
+        "Static websites start at ₹10,000 and are usually live in one to two weeks. You can edit text and photos yourself, and two months of maintenance are included free.",
       ],
     },
     {
@@ -205,7 +205,7 @@ const content: CityContent = {
       id: "cost-choose-bishnupur",
       heading: "What does IT work cost in Bishnupur, and how do you choose a provider?",
       paragraphs: [
-        "IT work for Bishnupur clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
+        "IT work for Bishnupur clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 299+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after two free months. See the <a href='/pricing/'>pricing page</a>.",
         "If you are comparing a software development team for Bishnupur with a freelance team, ask to see earlier work, who writes the code, whether the scope is written down, whether the domain, hosting and store accounts will be in your name, and how the system copes with weak signal. Local providers can visit; remote teams usually cost less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. See our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a>.",
       ],
@@ -216,7 +216,7 @@ const content: CityContent = {
       paragraphs: [
         "The best time for a Bishnupur tourism business to start is a few months before the busy season, so pages have time to be indexed and staff can practise with the booking system. Send a WhatsApp message describing your business, what you offer and how bookings happen today, with a few photos.",
         "We reply with questions and send an itemised quote within about two working days. Websites take one to two weeks, automation two to four weeks, Android and iOS apps six to ten weeks, stores four to eight weeks and custom software six to twelve weeks. Nothing is billed until you approve the scope.",
-        "At launch you receive the source code, credentials and a short guide, plus five months of free maintenance. Explore our <a href='/services/'>services</a>, the nearby <a href='/it-services/manipur/imphal/'>Imphal page</a> or the statewide <a href='/it-services/manipur/'>Manipur hub</a>.",
+        "At launch you receive the source code, credentials and a short guide, plus two months of free maintenance. Explore our <a href='/services/'>services</a>, the nearby <a href='/it-services/manipur/imphal/'>Imphal page</a> or the statewide <a href='/it-services/manipur/'>Manipur hub</a>.",
       ],
     },
   ],
@@ -291,7 +291,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch: bug fixes, content and price updates, backups, security updates and uptime checks. After that, a monthly plan starts at ₹8,000, or you can message us only when you need a change, such as new season prices, with the cost confirmed first.",
+        "Two months of free maintenance after launch: bug fixes, content and price updates, backups, security updates and uptime checks. After that, a monthly plan starts at ₹8,000, or you can message us only when you need a change, such as new season prices, with the cost confirmed first.",
     },
     {
       question: "Can you build records software for our fishing cooperative?",

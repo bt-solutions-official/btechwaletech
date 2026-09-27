@@ -56,7 +56,7 @@ const narayanpet: CityContent = {
     ai: "WhatsApp assistants that reply in Telugu to price, size and availability questions at night and pass real orders to your phone.",
     data: "Dashboards showing looms active, sarees received by design, dues pending to weavers and orders by destination city.",
     app: "Android and iOS apps for repeat saree buyers to reorder or for a weaver society to record issue and receipt, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for edits, backups and security updates.",
   },
   whyUsIntro:
     "Narayanpet trade runs on long relationships and small margins, so nobody here pays for software twice. We publish starting prices, send a written itemised quote, reply on WhatsApp every day of the week, and put the domain, hosting, source code and store accounts in your name from the first day. When a feature will not earn back its cost, we tell you before you spend on it.",
@@ -177,7 +177,7 @@ const narayanpet: CityContent = {
       heading: "Ownership and maintenance for Narayanpet websites and apps",
       paragraphs: [
         "What we build is yours, in documents and in practice. The domain is booked on your email address, hosting is billed in your name, the complete source code is handed over, and the Google Business Profile, Google Play developer account and Apple developer account all list you as owner. At handover you get a written sheet of every login, so no developer, ourselves included, can ever hold your website over you.",
-        "For five months after launch, upkeep costs you nothing. In that window we change prices and photographs before festival season, take backups, apply security and version updates, and periodically test that the enquiry form, the payment step and the WhatsApp button still work. After five months the choice is yours: stay with us from ₹8,000 a month, run it in-house, or hand the code to any developer you like.",
+        "For two months after launch, upkeep costs you nothing. In that window we change prices and photographs before festival season, take backups, apply security and version updates, and periodically test that the enquiry form, the payment step and the WhatsApp button still work. After two months the choice is yours: stay with us from ₹8,000 a month, run it in-house, or hand the code to any developer you like.",
         "Apps need a small yearly refresh even when nothing appears broken, because Google and Apple keep lifting the minimum versions they will accept. We watch those deadlines and rebuild ahead of them, so a Narayanpet business never finds its app quietly pulled from the store.",
       ],
     },
@@ -269,7 +269,7 @@ const narayanpet: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after going live cost you nothing: we handle price and photograph edits, backups, security patches and routine checks of your forms, payment step and WhatsApp links. Continuing after that is optional, from ₹8,000 a month. Because the code and every account already sit in your name, moving to another developer needs no permission from us.",
+        "The first two months after going live cost you nothing: we handle price and photograph edits, backups, security patches and routine checks of your forms, payment step and WhatsApp links. Continuing after that is optional, from ₹8,000 a month. Because the code and every account already sit in your name, moving to another developer needs no permission from us.",
     },
     {
       question: "Do you also work in Makthal, Kosgi and Mahbubnagar?",

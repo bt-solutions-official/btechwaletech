@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Specialists: development, technical SEO, coordination" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free site maintenance after a build" },
+    { value: "2", label: "Months of free site maintenance after a build" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {

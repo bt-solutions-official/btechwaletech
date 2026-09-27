@@ -7,7 +7,7 @@ const mysore: CityContent = {
   meta: {
     title: "Mysuru Web Development, SEO & AI Automation Team",
     description:
-      "Websites, SEO and automation for Mysuru hotels, silk and sandalwood sellers, clinics and IT firms. Sites from ₹10,000, stores from ₹50,000, 5 months free support.",
+      "Websites, SEO and automation for Mysuru hotels, silk and sandalwood sellers, clinics and IT firms. Sites from ₹10,000, stores from ₹50,000, 2 months free support.",
     keywords: [
       "website development team in Mysore",
       "web design team Mysuru",
@@ -30,11 +30,11 @@ const mysore: CityContent = {
     eyebrow: "Mysuru (Mysore) · Karnataka",
     h1: "Web, app, SEO and automation services for Mysuru’s businesses",
     lede:
-      "Mysuru serves tourists at Dasara, trainees at Hebbal and families who have shopped at Devaraja Market for generations. We are a remote team of three engineers building fast websites, online stores, SEO and WhatsApp automation for businesses here, with published prices and five months of free maintenance.",
+      "Mysuru serves tourists at Dasara, trainees at Hebbal and families who have shopped at Devaraja Market for generations. We are a remote team of three engineers building fast websites, online stores, SEO and WhatsApp automation for businesses here, with published prices and two months of free maintenance.",
     pills: ["Sites from ₹10,000", "Kannada and English SEO", "Hotel and homestay booking", "Silk and incense stores", "Automation from ₹40,000"],
   },
   quickAnswer:
-    "A business website in Mysuru costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Mysuru office, and each launch comes with five months of free maintenance.",
+    "A business website in Mysuru costs from ₹10,000 with us, and a 299+ page SEO site from ₹20,000. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team without a Mysuru office, and each launch comes with two months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "City of Palaces and the cultural capital of Karnataka" },
     { label: "Commercial core", value: "Sayyaji Rao Road, Devaraja Market, Devaraj Urs Road and the palace area" },
@@ -51,10 +51,10 @@ const mysore: CityContent = {
     ai: "WhatsApp and web assistants that answer tourist, patient or student questions in Kannada and English and pass real enquiries to staff.",
     data: "Occupancy, sales and enquiry dashboards for hotels and retailers, so you can see which season and channel actually paid off.",
     app: "Android and iOS apps for tour bookings, clinic appointments and member portals, published on Google Play and the App Store with builds from ₹40,000.",
-    maintenance: "Updates, backups and security work free for five months after launch, then from ₹8,000 a month, with Dasara season changes planned in advance.",
+    maintenance: "Updates, backups and security work free for two months after launch, then from ₹8,000 a month, with Dasara season changes planned in advance.",
   },
   whyUsIntro:
-    "Mysuru has everything from Bengaluru-linked agencies to part-time freelancers, and prices are rarely published. We are three engineers who show our starting prices openly, reply on WhatsApp every day, and keep your site running for five months after launch at no extra cost.",
+    "Mysuru has everything from Bengaluru-linked agencies to part-time freelancers, and prices are rarely published. We are three engineers who show our starting prices openly, reply on WhatsApp every day, and keep your site running for two months after launch at no extra cost.",
   pricingIntro:
     "Asking for a website quote in Mysuru often means a meeting, a sales pitch and a number that depends on how the conversation went. Our starting prices are listed below. The final figure depends on pages, products and features, and you see it itemised before we write a line of code.",
   sections: [
@@ -72,7 +72,7 @@ const mysore: CityContent = {
       heading: "How much a website costs in Mysuru",
       paragraphs: [
         "Mysuru prices are influenced by Bengaluru, and some local agencies quote Bengaluru rates for work that does not need them. At the other end, very cheap offers often mean a reused template on hosting you do not control. We publish our numbers so you have a fair reference.",
-        "A simple business site of up to 100 pages starts at ₹10,000 and usually launches in one to two weeks. A 299+ page SEO website, with pages for each service, room type or product line, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start at ₹50,000. Custom web applications, such as booking engines or training portals, start at ₹60,000. Automation starts at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the five free months. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
+        "A simple business site of up to 100 pages starts at ₹10,000 and usually launches in one to two weeks. A 299+ page SEO website, with pages for each service, room type or product line, starts at ₹20,000 and takes three to five weeks. Online stores with UPI and card payment start at ₹50,000. Custom web applications, such as booking engines or training portals, start at ₹60,000. Automation starts at ₹40,000, monthly SEO at ₹10,000 a month, and maintenance at ₹8,000 a month after the two free months. See the full breakdown on our <a href=\"/pricing/\">pricing page</a>.",
         "Your quote lists each page and feature separately, and nothing is billed until you approve it in writing. If your needs are simpler than you expected, we say so.",
       ],
       list: [
@@ -173,11 +173,11 @@ const mysore: CityContent = {
     },
     {
       id: "ownership-maintenance-mysuru",
-      heading: "Ownership, hosting and five months of free upkeep",
+      heading: "Ownership, hosting and two months of free upkeep",
       paragraphs: [
         "We regularly meet Mysuru businesses who cannot update their own website because a former developer holds the domain or hosting. Sometimes the site has been showing an expired certificate warning for months. We set things up so this never happens to you.",
         "The domain is registered to you, the hosting account is in your name, and at launch you get every login and a short document explaining how it all fits together. The code is yours, and you can take it to another developer whenever you like, with no exit fee.",
-        "Maintenance is free for five months after launch: content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can pay only for changes when you need them.",
+        "Maintenance is free for two months after launch: content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks. After that, it continues from ₹8,000 a month, or you can pay only for changes when you need them.",
       ],
     },
     {
@@ -271,9 +271,9 @@ const mysore: CityContent = {
         "You do. The domain is registered in your name, the hosting account is yours, and at launch you receive the source code and every login. You can move to any other developer at any time without an exit fee.",
     },
     {
-      question: "What does the five months of free maintenance cover?",
+      question: "What does the two months of free maintenance cover?",
       answer:
-        "Content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks, all free for five months after launch. After that, maintenance is from ₹8,000 a month, or you can pay per change instead.",
+        "Content and price updates, bug fixes, security patches, backups, uptime monitoring and speed checks, all free for two months after launch. After that, maintenance is from ₹8,000 a month, or you can pay per change instead.",
     },
     {
       question: "Do you work with businesses in Mandya, Nanjangud and Srirangapatna?",

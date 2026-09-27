@@ -35,14 +35,14 @@ const content: FreelanceContent = {
     ["Portfolio plus area pages (299+)", `From ${P.seoSite}`],
     ["Client portal or estimator", `From ${P.software}`],
     ["Local SEO each month", `From ${P.seo}`],
-    ["Free care", `5 months, then from ${P.care}`],
+    ["Free care", `2 months, then from ${P.care}`],
     ["Overlap", "US Eastern mornings; early Pacific calls"],
   ],
   stats: [
     { value: "3", label: "Freelancers: full-stack build, SEO, project lead" },
     { value: "2", label: "Working days until your itemized quote" },
     { value: "100", label: "Pages included in the starting site plan" },
-    { value: "5", label: "Months of free support after launch" },
+    { value: "2", label: "Months of free support after launch" },
   ],
   answer: {
     heading: "What should contractor website design include for a remodeler or general contractor?",
@@ -95,7 +95,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Contractor website design costs",
-    note: `A contractor site of up to 100 pages, with portfolio, kitchen, bath and addition pages, qualifying lead form, review links and license display, starts at ${P.site} and takes one to two weeks once photos and project notes arrive. If you have dozens of projects to publish and many towns to cover, the larger build starts at ${P.seoSite} over three to five weeks. A client portal or budget estimator is custom software from ${P.software}. Monthly local SEO starts at ${P.seo}, and care starts at ${P.care} after five free months. Every figure is a starting price; the itemized quote shows your exact scope.`,
+    note: `A contractor site of up to 100 pages, with portfolio, kitchen, bath and addition pages, qualifying lead form, review links and license display, starts at ${P.site} and takes one to two weeks once photos and project notes arrive. If you have dozens of projects to publish and many towns to cover, the larger build starts at ${P.seoSite} over three to five weeks. A client portal or budget estimator is custom software from ${P.software}. Monthly local SEO starts at ${P.seo}, and care starts at ${P.care} after two free months. Every figure is a starting price; the itemized quote shows your exact scope.`,
   },
   guideLabel: "Contractor website design guide",
   guide: [
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Contractor website design with us starts at ${P.site} for a site of up to 100 pages, and ${P.seoSite} for large builds of 299 or more pages with extensive project and area pages. Quotes you receive elsewhere will vary a lot, and the spread mostly comes from the same few factors.`,
         `The drivers are the number of project pages and how much writing each needs, whether your photos need sorting and editing, how smart the lead form is (conditional questions, routing, CRM links), how many service and area pages you want, and extras such as a client portal or estimator, which are custom software from ${P.software}. Contractors who send organized photos per project, with a few lines of notes, get the fastest and cheapest builds.`,
-        `Ongoing costs are yours and visible: domain and hosting billed to your card by the provider, optional monthly local SEO from ${P.seo}, and care from ${P.care} after five free months. Nothing is billed until you approve the itemized quote. Compare this with an overall small business view on our page about <a href='/usa/small-business-website-cost/'>small business website costs</a>.`,
+        `Ongoing costs are yours and visible: domain and hosting billed to your card by the provider, optional monthly local SEO from ${P.seo}, and care from ${P.care} after two free months. Nothing is billed until you approve the itemized quote. Compare this with an overall small business view on our page about <a href='/usa/small-business-website-cost/'>small business website costs</a>.`,
       ],
     },
     {
@@ -284,7 +284,7 @@ const content: FreelanceContent = {
         "Month 3: update your Houzz and Angi profiles to link to matching project pages.",
       ],
       after: [
-        `All of this is covered in the five free months after launch; after that, care from ${P.care} or monthly SEO from ${P.seo} keeps it going. You can also do it yourselves with the handover guide.`,
+        `All of this is covered in the two free months after launch; after that, care from ${P.care} or monthly SEO from ${P.seo} keeps it going. You can also do it yourselves with the handover guide.`,
       ],
     },
   ],
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
         ["Lead automation", "Form routing, CRM entry, follow-up messages", P.ai, "2–4 weeks"],
         ["Client portal or estimator", "Logins, schedules, selections or a budget estimator", P.software, "6–12 weeks"],
         ["Monthly local SEO", "Profile, reviews, new project and area pages", P.seo, "Ongoing"],
-        ["Care after free months", "Updates, new projects, security checks", P.care, "After 5 free months"],
+        ["Care after free months", "Updates, new projects, security checks", P.care, "After 2 free months"],
       ],
       hideSm: [1],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Plan the portfolio and form", "We choose the first project pages, draft the budget bands and start windows with you, and outline service and area pages."],
       ["Design and build", "Phone-first design, then desktop. We build project pages, service pages, the qualifying form with routing, review links and license display."],
       ["Test with real enquiries", "We submit test enquiries across every budget band and project type, check routing, speed, galleries on phones and accessibility basics."],
-      ["Launch and keep adding", "Launch with redirects and analytics in your name, a handover guide for adding projects, and five months of free fixes and edits."],
+      ["Launch and keep adding", "Launch with redirects and analytics in your name, a handover guide for adding projects, and two months of free fixes and edits."],
     ],
   },
   faqHeading: "Contractor website design: common questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "How do I get my contractor business into AI search answers?", answer: "Write service and planning pages that open with direct answers, publish specific project pages with real details, keep your business information consistent across your site and profiles, and add GeneralContractor or HomeAndConstructionBusiness structured data. AI tools tend to cite clear, specific, trustworthy pages, and that same content helps human buyers." },
     { question: "Should I mention lead-safe certification on my website?", answer: "If your firm holds it and you work on older homes, yes. The EPA’s Renovation, Repair and Painting rule requires firms disturbing lead-based paint in homes built before 1978 to be EPA- or state-certified and use certified renovators. Stating your certification plainly reassures owners of older houses. We include it only when you confirm it." },
     { question: "Can you build a client portal for my remodeling firm?", answer: `Yes. A secure portal where clients see schedules, selections, change orders and photos is custom software starting at ${P.software}, usually taking six to twelve weeks. Many contractors start with the website and add a portal later once they know what clients ask for most.` },
-    { question: "What happens after my contractor website goes live?", answer: `You get five months of free fixes and small edits, including adding new projects. After that, care starts at ${P.care} and covers updates, new project pages and security checks. You can also add projects yourself with the handover guide, or bring in another developer, since everything is in your name.` },
+    { question: "What happens after my contractor website goes live?", answer: `You get two months of free fixes and small edits, including adding new projects. After that, care starts at ${P.care} and covers updates, new project pages and security checks. You can also add projects yourself with the handover guide, or bring in another developer, since everything is in your name.` },
     { question: "Can you redesign my current contractor site without losing rankings?", answer: "Yes. We list your existing URLs, keep and improve pages that bring traffic, redirect the rest, and carry over what already ranks. After launch we watch Google Search Console for errors. Rankings can shift briefly after any rebuild, so we launch mid-week and check results closely in the weeks after." },
     { question: "What should I prepare before contractor website design starts?", answer: "Photos organized by project, a few notes per project, your list of services and towns, license, bond and insurance wording, links to your Google, Houzz and Angi profiles, your budget bands and minimum project size, and domain login details. Send what you have on WhatsApp; the quote lists anything missing." },
   ],

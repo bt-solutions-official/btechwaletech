@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Developers covering AI, code and cloud" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer WhatsApp" },
   ],
   answer: {
@@ -245,7 +245,7 @@ const content: FreelanceContent = {
       subs: [
         { heading: "Week 1", text: "We collect your content, list contradictions for you to fix, agree the controlled topics and draft their wording, and create the model provider and hosting accounts in your name." },
         { heading: "Week 2", text: "A working chatbot on a private test page, the first run of the question set, handoff wired to your email or SMS, and your review of every failed answer." },
-        { heading: "After launch", text: "Weekly transcript reviews for a month, cost-per-conversation reporting, and content updates as policies change, within five months of free maintenance." },
+        { heading: "After launch", text: "Weekly transcript reviews for a month, cost-per-conversation reporting, and content updates as policies change, within two months of free maintenance." },
       ],
     },
     {
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
         ["Embeddings and search", "Large, frequently changing content", "Re-index only changed pages", "Your cloud account"],
         ["Hosting", "High traffic, many channels", "Serverless hosting that scales down when quiet", "Your cloud account"],
         ["SMS handoff", "Many after-hours alerts", "Email first, SMS for urgent cases", "Your SMS gateway"],
-        ["Maintenance", "Frequent policy changes", `5 months free, then from ${P.care}`, "Quoted separately"],
+        ["Maintenance", "Frequent policy changes", `2 months free, then from ${P.care}`, "Quoted separately"],
       ],
       hideSm: [2],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "About two working days later you receive a USD quote covering sources, channels, integrations and testing. Nothing is billed before written approval."],
       ["Build and test privately", "We build in your accounts, run a test set of real questions on a private page, and fix every failure before anyone else sees it."],
       ["Launch with guardrails", "The chatbot goes live with an AI disclosure, privacy notice, spending cap and handoff to your team by SMS, email or live chat."],
-      ["Review and improve", `Weekly transcript reviews for the first month, then content updates within five months of free maintenance. Support afterwards starts from ${P.care}.`],
+      ["Review and improve", `Weekly transcript reviews for the first month, then content updates within two months of free maintenance. Support afterwards starts from ${P.care}.`],
     ],
   },
   faqHeading: "AI chatbot for business in Australia: FAQs",
@@ -401,7 +401,7 @@ const content: FreelanceContent = {
     { question: "Who owns the chatbot and its data?", answer: "You do. The code sits in your repository, hosting and the model provider account are in your name, and transcripts are stored in your cloud account. If you ever want another developer to take over, they have everything they need without asking us for access." },
     { question: "Can a team in India build a chatbot for an Australian business?", answer: "Yes. Content reviews and test sessions happen in your afternoon, which is our morning, and written summaries follow the same day. All accounts and data stay in your name, and we write the chatbot's answers in Australian English with local details such as AUD prices and regional delivery zones from your content." },
     { question: "How do we pay for an AI chatbot from Australia?", answer: "Quotes and invoices are in USD, issued from India, and Australian clients usually pay by Wise or international bank wire. Nothing is billed before you approve the written quote. Model usage and hosting are billed by those providers directly. Ask your accountant about GST on imported services." },
-    { question: "What maintenance does an AI chatbot need?", answer: `Content updates whenever policies, prices or products change, a rerun of the test set after each change, and periodic review of transcripts and costs. Five months of free maintenance follow launch. After that, support starts from ${P.care}, or your own staff can update content through the admin view.` },
+    { question: "What maintenance does an AI chatbot need?", answer: `Content updates whenever policies, prices or products change, a rerun of the test set after each change, and periodic review of transcripts and costs. Two months of free maintenance follow launch. After that, support starts from ${P.care}, or your own staff can update content through the admin view.` },
     { question: "Can the chatbot answer in languages other than English?", answer: "Yes, most modern models handle many languages. For controlled topics such as refunds and pricing, you should supply or approve translated wording, because we write in English and cannot vouch for legal accuracy in other languages. Other answers can be generated in the customer's language from your English sources." },
   ],
   related: {

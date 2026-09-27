@@ -31,11 +31,11 @@ const tenali: CityContent = {
     eyebrow: "Tenali · Andhra Pradesh",
     h1: "Websites, apps, SEO and AI automation for traders, jewellers, clinics and colleges",
     lede:
-      "Three remote engineers building websites, online stores and WhatsApp automation for businesses in Tenali and the Krishna western delta: grain traders near the market yard, jewellers on Bose Road, sweet shops, hospitals, junior colleges and theatre groups. You see our starting prices before the first call, and the first five months of maintenance cost nothing.",
+      "Three remote engineers building websites, online stores and WhatsApp automation for businesses in Tenali and the Krishna western delta: grain traders near the market yard, jewellers on Bose Road, sweet shops, hospitals, junior colleges and theatre groups. You see our starting prices before the first call, and the first two months of maintenance cost nothing.",
     pills: ["Websites from ₹10,000", "Telugu-first pages", "Jewellery and sweet shop stores", "Market yard trader sites", "WhatsApp replies in Telugu"],
   },
   quickAnswer:
-    "For a Tenali business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Tenali office, and maintenance is free for five months after launch.",
+    "For a Tenali business, a static website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no Tenali office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Guntur district, in the Krishna river's western delta, about 25 km from Guntur" },
     { label: "Nickname", value: "“Andhra Paris”, from the three Krishna canals that run through the town" },
@@ -52,7 +52,7 @@ const tenali: CityContent = {
     ai: "WhatsApp replies in Telugu that share today's rates, OPD timings or admission details and save every enquiry in one sheet.",
     data: "Dashboards that show purchases, stock and payments across seasons, useful for traders dealing with dozens of farmers.",
     app: "Android and iOS apps for college notices, clinic tokens or customer orders, one codebase published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Free updates, backups and security checks for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Businesses in Tenali often go to agencies in Vijayawada or Guntur, or hand the job to a student who later moves to Hyderabad. We offer a steadier option: three engineers who publish starting prices, answer WhatsApp every day and put every account in your name.",
@@ -170,7 +170,7 @@ const tenali: CityContent = {
       paragraphs: [
         "Many Tenali businesses have lost websites because the person who built them kept the domain in their own name and then moved away. The owner cannot update a phone number, the renewal lapses and years of search presence disappear.",
         "We register the domain and hosting in your name from the start. At launch you get every login, the complete code and a short written note on how things are set up, so any developer can take over later. There is no exit fee and no lock-in.",
-        "For five months after launch, maintenance is free: content and price changes, fixes, security updates, backups and uptime and speed checks. After that it continues from ₹8,000 a month, or you can simply message us when you need a change.",
+        "For two months after launch, maintenance is free: content and price changes, fixes, security updates, backups and uptime and speed checks. After that it continues from ₹8,000 a month, or you can simply message us when you need a change.",
       ],
     },
     {
@@ -270,7 +270,7 @@ const tenali: CityContent = {
     {
       question: "What does the free maintenance cover?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security updates, backups and uptime and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content and price updates, bug fixes, security updates, backups and uptime and speed checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you also work in Guntur, Ponnur, Repalle and Bapatla?",

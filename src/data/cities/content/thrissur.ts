@@ -31,11 +31,11 @@ const thrissur: CityContent = {
     eyebrow: "Thrissur · Kerala",
     h1: "Web development, search and automation for Thrissur's gold, textile and service trades",
     lede:
-      "We are a three-person remote engineering team making websites, stores and AI-assisted workflows for jewellers around Swaraj Round, silk and textile showrooms, chit and finance firms, Ayurveda makers, clinics and the IT companies at Koratty. Our prices are public, you work with the engineers themselves, and upkeep costs nothing for five months after launch.",
+      "We are a three-person remote engineering team making websites, stores and AI-assisted workflows for jewellers around Swaraj Round, silk and textile showrooms, chit and finance firms, Ayurveda makers, clinics and the IT companies at Koratty. Our prices are public, you work with the engineers themselves, and upkeep costs nothing for two months after launch.",
     pills: ["From ₹10,000", "Jewellery catalogues", "Malayalam-ready pages", "AI and WhatsApp workflows", "Full ownership"],
   },
   quickAnswer:
-    "Our Thrissur websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, taking one to five weeks. Online stores start at ₹50,000 and AI automation at ₹40,000. We are three remote engineers without a Thrissur office, and each project includes hosting setup, SEO basics and five months of free maintenance.",
+    "Our Thrissur websites start at ₹10,000 for a static business site and ₹20,000 for a 299+ page SEO site, taking one to five weeks. Online stores start at ₹50,000 and AI automation at ₹40,000. We are three remote engineers without a Thrissur office, and each project includes hosting setup, SEO basics and two months of free maintenance.",
   snapshot: [
     { label: "City centre", value: "Swaraj Round around the Vadakkunnathan Temple, with MG Road, Round South and the Sakthan Thampuran area" },
     { label: "Gold and textiles", value: "Makes around 70% of Kerala's gold jewellery; home to large jewellery and silk retail groups" },
@@ -52,10 +52,10 @@ const thrissur: CityContent = {
     ai: "AI assistants and WhatsApp workflows that answer routine customer questions in Malayalam or English and route everything else to the right staff member.",
     data: "Branch-wise sales, collections and stock reports turned into dashboards that owners can check from a phone.",
     app: "Android and iOS apps for loyalty schemes, gold savings plans, appointments or member accounts, listed on both app stores from ₹40,000.",
-    maintenance: "Free for five months after launch, then from ₹8,000 a month for content edits, rate updates, backups and security fixes.",
+    maintenance: "Free for two months after launch, then from ₹8,000 a month for content edits, rate updates, backups and security fixes.",
   },
   whyUsIntro:
-    "Thrissur has capable designers and agencies, and also a lot of sites that were built well once and then left to decay. We publish our starting prices, send a written quote, respond on WhatsApp every day of the week, and remain responsible for the site for five months after launch at no charge.",
+    "Thrissur has capable designers and agencies, and also a lot of sites that were built well once and then left to decay. We publish our starting prices, send a written quote, respond on WhatsApp every day of the week, and remain responsible for the site for two months after launch at no charge.",
   pricingIntro:
     "These are our genuine starting figures for Thrissur work. A physiotherapy clinic needs a few pages; a jewellery showroom with daily gold rates, hundreds of designs and branch pages needs far more. Your quote will list each part separately so you can see where the cost comes from before you approve.",
   sections: [
@@ -182,11 +182,11 @@ const thrissur: CityContent = {
     },
     {
       id: "ownership-thrissur",
-      heading: "Ownership and five months of free upkeep",
+      heading: "Ownership and two months of free upkeep",
       paragraphs: [
         "Many Thrissur businesses we speak to have lost control of an earlier website: the domain was registered by a previous agency, the hosting account belongs to someone no longer reachable, or the site was built on a proprietary platform that cannot be moved. Recovering from that often means rebuilding and losing years of search history.",
         "We set things up so this cannot happen. The domain is in your name, the hosting account is yours, and at launch you receive all logins and the full code, along with a short document explaining how the parts fit. Moving to another developer later is entirely your choice and carries no exit charge.",
-        "For five months after launch, maintenance is free: content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need a change.",
+        "For two months after launch, maintenance is free: content and rate updates, bug fixes, security and dependency updates, backups, uptime monitoring and speed checks. After that, you can continue from ₹8,000 a month or contact us only when you need a change.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const thrissur: CityContent = {
     {
       question: "What is included in the free maintenance period?",
       answer:
-        "For five months after launch we cover content and rate updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
+        "For two months after launch we cover content and rate updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "How long does SEO take to work in Thrissur?",

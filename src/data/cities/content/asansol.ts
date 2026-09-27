@@ -7,7 +7,7 @@ const asansol: CityContent = {
   meta: {
     title: "Web Design & SEO for Asansol Businesses | From ₹10,000",
     description:
-      "Websites, local SEO, online stores and WhatsApp automation for Asansol, Burnpur, Kulti and Raniganj firms. From ₹10,000, with 5 months of free maintenance.",
+      "Websites, local SEO, online stores and WhatsApp automation for Asansol, Burnpur, Kulti and Raniganj firms. From ₹10,000, with 2 months of free maintenance.",
     keywords: [
       "website development team in Asansol",
       "web designer Asansol",
@@ -31,11 +31,11 @@ const asansol: CityContent = {
     eyebrow: "Asansol · West Bengal",
     h1: "Websites, search visibility and automation for Asansol's coal-belt businesses",
     lede:
-      "We are three remote engineers who build websites, stores and small software tools for traders on Hutton Road, suppliers to Burnpur and Chittaranjan, clinics in Chelidanga and coaching centres around Court More. Starting prices are public, you speak directly to the developers, and maintenance is free for five months after your site goes live.",
+      "We are three remote engineers who build websites, stores and small software tools for traders on Hutton Road, suppliers to Burnpur and Chittaranjan, clinics in Chelidanga and coaching centres around Court More. Starting prices are public, you speak directly to the developers, and maintenance is free for two months after your site goes live.",
     pills: ["Sites from ₹10,000", "Bengali and Hindi search", "UPI-ready stores", "WhatsApp order flows", "Vendor portals"],
   },
   quickAnswer:
-    "For an Asansol business, a small website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores begin at ₹50,000. We are a remote team with no local office, and five months of maintenance after launch are included free.",
+    "For an Asansol business, a small website with us starts at ₹10,000 and takes one to two weeks, while a 299+ page SEO website starts at ₹20,000 and takes three to five weeks. Stores begin at ₹50,000. We are a remote team with no local office, and two months of maintenance after launch are included free.",
   snapshot: [
     { label: "Commercial areas", value: "Hutton Road and Raha Lane, GT Road, Court More, Chelidanga, Sen Raleigh Road and Apcar Garden" },
     { label: "Heavy industry", value: "SAIL's IISCO Steel Plant at Burnpur and Chittaranjan Locomotive Works" },
@@ -52,10 +52,10 @@ const asansol: CityContent = {
     ai: "WhatsApp bots and AI assistants that answer the same questions about stock, rates and timings in Bengali, Hindi or English, and hand anything unusual to your staff.",
     data: "Truck trips, tonnage, dispatch and payment data pulled from scattered Excel files into one dashboard you can check before the day's first loading.",
     app: "Android and iOS apps for site supervisors, delivery staff and patients, tuned for budget phones and published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and speed checks at no cost for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Updates, backups, security fixes and speed checks at no cost for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
-    "Most Asansol businesses find a web developer through a nephew, a Justdial listing or a Kolkata agency that visits once. Prices are rarely written down and support tends to fade after launch. We write our starting prices on the site, answer WhatsApp every day of the week, and look after your site free for its first five months.",
+    "Most Asansol businesses find a web developer through a nephew, a Justdial listing or a Kolkata agency that visits once. Prices are rarely written down and support tends to fade after launch. We write our starting prices on the site, answer WhatsApp every day of the week, and look after your site free for its first two months.",
   pricingIntro:
     "Ask three developers in Asansol for a five-page website and the quotes will not agree with each other. Below are the starting figures we actually charge. Your own quote depends on how many pages, products and features you need, and it arrives itemised, line by line, before we begin anything.",
   sections: [
@@ -159,7 +159,7 @@ const asansol: CityContent = {
       paragraphs: [
         "A familiar Asansol story: the website was made years ago by someone who has since moved to Kolkata or Bengaluru, the domain renewal went to their email, and one day the site simply disappears. Getting the domain back can take weeks of emails and proof, and sometimes it cannot be recovered at all.",
         "We avoid this from the first day. The domain is registered in your name or your company's name, the hosting account is opened in your name, and at launch you receive every password along with a one-page note explaining where everything lives. The source code belongs to you. You can hand it to another developer tomorrow without asking our permission or paying an exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that you can keep us on from ₹8,000 a month, or simply message us when you need something done.",
+        "For two months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that you can keep us on from ₹8,000 a month, or simply message us when you need something done.",
       ],
     },
     {
@@ -256,9 +256,9 @@ const asansol: CityContent = {
         "Yes. The domain and hosting are registered to you, and at launch you receive every login and the full source code. You are free to move to another developer at any time without an exit fee. We insist on this because lost domains are one of the most common problems we see with older Asansol websites.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months after launch, updates, fixes, security patches, backups and speed checks are free. After that, you can continue maintenance from ₹8,000 a month or contact us only when you need a change. There is no contract forcing you to stay.",
+        "During the first two months after launch, updates, fixes, security patches, backups and speed checks are free. After that, you can continue maintenance from ₹8,000 a month or contact us only when you need a change. There is no contract forcing you to stay.",
     },
     {
       question: "Do you guarantee a first-page Google ranking?",

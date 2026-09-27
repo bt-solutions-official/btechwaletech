@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Store build time", "4–8 weeks"],
     ["Checkout", "UPI and cards in India; cards and wallets abroad"],
     ["Your quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers building and supporting your store" },
     { value: "2", label: "Languages we work in: English and Hindi" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Commission taken on orders from your own store" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Wholesale and trade portal", note: `A trade enquiry form to start; later, logins with line sheets, trade prices and MOQs for boutiques and importers, from ${P.software}.`, href: "/b2b-website-developer/", size: "md" },
       { name: "GI and authenticity content", note: "Explainer pages on your craft’s origin, materials and technique, and GI registration details if you are a registered user, stated exactly.", href: "/seo-website-developer/", size: "md" },
       { name: "Instagram and WhatsApp selling", note: "Product links for posts, automatic replies to common DM questions, and WhatsApp order updates tied to the same store.", href: "/instagram-dm-automation/", size: "sm" },
-      { name: "Craft SEO and upkeep", note: `Search Console, new collection pages and craft explainers from ${P.seo}; maintenance from ${P.care} after 5 free months.`, href: "/services/seo-services/", size: "sm" },
+      { name: "Craft SEO and upkeep", note: `Search Console, new collection pages and craft explainers from ${P.seo}; maintenance from ${P.care} after 2 free months.`, href: "/services/seo-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
       id: "ownership-checklist",
       heading: "Handicraft website launch checklist and who owns what",
       paragraphs: [
-        `Everything belongs to you: domain, store or hosting account, code, product data and customer list. We set accounts up in your name from the start and hand over all logins. Maintenance is free for five months after launch, then optional from ${P.care}. Payment stages are written into the quote you approve; see our <a href='/terms/'>terms</a> for the general position. Before going live, check:`,
+        `Everything belongs to you: domain, store or hosting account, code, product data and customer list. We set accounts up in your name from the start and hand over all logins. Maintenance is free for two months after launch, then optional from ${P.care}. Payment stages are written into the quote you approve; see our <a href='/terms/'>terms</a> for the general position. Before going live, check:`,
       ],
       list: [
         "Artisan consent recorded for every name, face and story shown",
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
         ["Trade portal with logins and line sheets", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks"],
         ["Instagram and WhatsApp automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Monthly SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -365,7 +365,7 @@ const content: FreelanceContent = {
       ["Collect photos and stories", "We send a shot list and a short questionnaire for each craft and artisan. You gather consent and answers while we design."],
       ["Build and review on staging", "The store appears on a private link. You test it on your phone, place test orders and send changes as messages."],
       ["Launch in your accounts", "Payments, domain and store are connected in your name, shipping tested with real addresses, Search Console verified and your team shown how to add products."],
-      ["Five months of free care", `Small changes, fixes and updates are free for five months after launch. Then maintenance from ${P.care} continues only if you want it.`],
+      ["Two months of free care", `Small changes, fixes and updates are free for two months after launch. Then maintenance from ${P.care} continues only if you want it.`],
     ],
   },
   faqHeading: "Handicraft website development: questions artisans and exporters ask",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Can AI assistants recommend my handicraft store?", answer: "There is no guaranteed method, but clear pages help. AI answers tend to draw on pages that define a craft in one sentence, explain origin and process, and answer specific questions directly. Craft explainer pages, honest product details and consistent business information across the web make your store easier to cite." },
     { question: "Do I still need Instagram if I have a website?", answer: "Usually yes. Instagram helps people discover your work; the website is where they read the story, check shipping and pay safely. Connect them with product links and automatic replies to common questions, so conversations end in a checkout link. Your customer list stays with you even if social reach changes." },
     { question: "Can you build the site in Hindi or other languages?", answer: "Yes. We build multilingual stores where each language has its own pages and proper hreflang tags. You supply or approve the translated text, since we write in English and Hindi. Many craft businesses add Hindi for Indian buyers and one European language for a key export market once sales justify it." },
-    { question: "Who owns my handicraft website?", answer: `You do. The domain, store or hosting account, code, product data and customer list are set up in your name, and all logins are handed over at launch. Maintenance is free for five months, then optional from ${P.care}. You can move to another developer at any time with full access.` },
+    { question: "Who owns my handicraft website?", answer: `You do. The domain, store or hosting account, code, product data and customer list are set up in your name, and all logins are handed over at launch. Maintenance is free for two months, then optional from ${P.care}. You can move to another developer at any time with full access.` },
     { question: "Do you visit workshops to take photos?", answer: "No, we work remotely and do not travel for shoots. We send a clear shot list your team or a local photographer can follow with a good phone: daylight, plain backgrounds, scale shots, close-ups and room settings. We then edit, compress and place images so the store looks consistent and loads quickly." },
     { question: "Handicraft business ke liye online store banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath handicraft online store ${P.shop} se shuru hota hai, jismein UPI aur card checkout, craft pages aur shipping rules hote hain. Sirf catalogue aur WhatsApp enquiry wali site ${P.site} se shuru hoti hai. Pehle itemised quote milta hai aur approval ke baad hi payment hota hai.` },
     { question: "How are payments made for the website project?", answer: "In India you pay by UPI or bank transfer in stages set out in the quote you approve. International clients pay in USD by Wise, bank wire or PayPal. Nothing is billed before written approval of the itemised quote, and payment stages are linked to work you can see on the staging site." },
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want a handicraft website that sells your craft in India and abroad?",
-    note: `Send a few product photos and your price list on WhatsApp. You will get an itemised quote in about two working days, with stores from ${P.shop}, everything in your name, and five months of free maintenance after launch.`,
+    note: `Send a few product photos and your price list on WhatsApp. You will get an itemised quote in about two working days, with stores from ${P.shop}, everything in your name, and two months of free maintenance after launch.`,
   },
 };
 

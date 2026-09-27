@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers building and optimizing your moving website" },
     { value: "2", label: "Working days to an itemized quote in USD" },
-    { value: "5", label: "Months of free maintenance through your peak moving season" },
+    { value: "2", label: "Months of free maintenance through your peak moving season" },
     { value: "100", label: "Pages included in the starter site plan" },
   ],
   answer: {
@@ -58,7 +58,7 @@ const content: FreelanceContent = {
       { label: "Compliance display", value: "USDOT number in the required format, MC number where held, FMCSA publication link for interstate movers" },
       { label: "Trust signals", value: "Real crew and truck photos, live Google reviews, clear valuation and deposit terms" },
       { label: "Starting price", value: `From ${P.site}; route-page builds from ${P.seoSite}; monthly SEO from ${P.seo}` },
-      { label: "After launch", value: `5 months of free maintenance, then care from ${P.care} a month` },
+      { label: "After launch", value: `2 months of free maintenance, then care from ${P.care} a month` },
     ],
   },
   services: {
@@ -256,7 +256,7 @@ const content: FreelanceContent = {
         "You own the domain, hosting, code, content, leads and customer records. We register everything in your business name and hand over every login at the end.",
         "Moving leads contain addresses, move dates and inventories, which is sensitive information: a list of who will be away from home and when. We collect only what estimating needs, use encrypted connections, store uploads in secure storage on your own account, and limit who can see leads in your CRM. Your privacy policy, written or approved by your attorney, is linked from every form.",
         "If you use a moving CRM, the site pushes leads into it; if you do not, leads go to a shared inbox and spreadsheet until you choose one. Either way, switching tools later does not break the site. At handover you receive an account map, a short video on editing pages, updating reviews and changing deposit terms, and a list of the few things worth checking monthly.",
-        `Care after the five free months starts from ${P.care} a month, and a broader explanation of what that covers is on our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page.`,
+        `Care after the two free months starts from ${P.care} a month, and a broader explanation of what that covers is on our <a href='/usa/website-maintenance-services/'>website maintenance services</a> page.`,
       ],
     },
     {
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
       ["Design and form prototype", "A mobile-first design on staging with the inventory form working, so your estimators can test it against real jobs."],
       ["Pages, deposits and display", "Service and route pages, deposit checkout, reviews and USDOT, MC and FMCSA publication display built and checked with your adviser."],
       ["Connect and test", "Leads flow into your CRM with inventory attached, confirmation texts go out, and full dates close automatically on the calendar."],
-      ["Launch before peak season", "Speed and accessibility checks, Search Console and analytics, then five months of free maintenance through your busiest months."],
+      ["Launch before peak season", "Speed and accessibility checks, Search Console and analytics, then two months of free maintenance through your busiest months."],
     ],
   },
   faqHeading: "Moving company website design questions from US movers",
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "How is customer data kept safe on a moving website?", answer: "Moving leads reveal addresses and when people will be away, so we collect only what estimating needs, use encrypted connections, store uploads in secure storage on your own account and limit CRM access by role. Your attorney writes or approves the privacy policy, which is linked from every form." },
     { question: "Does my moving website need to be ADA accessible?", answer: "The Department of Justice says the ADA applies to what businesses open to the public offer online and points to WCAG as helpful guidance. We build readable contrast, labeled fields, keyboard-friendly quote steps and alt text on photos. Your attorney can advise on your own obligations." },
     { question: "Can you build an app for my moving crews or customers?", answer: `Yes. A customer app can show move status, documents and balance payments, and a crew app can capture inventory photos and signatures. Android and iOS apps built with Flutter or React Native start from ${P.app}. Most movers start with the website and add an app once volume justifies it.` },
-    { question: "What does moving website maintenance cost after launch?", answer: `The first five months after launch include free maintenance, covering updates, backups, security checks and small edits through peak season. After that, care starts from ${P.care} a month. Adding route pages and ongoing SEO work fall under the monthly SEO plan.` },
+    { question: "What does moving website maintenance cost after launch?", answer: `The first two months after launch include free maintenance, covering updates, backups, security checks and small edits through peak season. After that, care starts from ${P.care} a month. Adding route pages and ongoing SEO work fall under the monthly SEO plan.` },
   ],
   related: {
     heading: "Related website pages for US service businesses",

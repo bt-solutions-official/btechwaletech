@@ -30,11 +30,11 @@ const sawaiMadhopur: CityContent = {
     eyebrow: "Sawai Madhopur · Rajasthan",
     h1: "Websites, software, SEO and AI tools for Sawai Madhopur hotels, guava growers and local trade",
     lede:
-      "We are three remote engineers who build websites, booking enquiry systems and simple business software for Sawai Madhopur, from resorts and safari operators along Ranthambore Road to guava orchards, Bajaria shops, schools, clinics and traders in Gangapur City and Khandar. Published starting prices, direct access to the builders, and five months of free upkeep after launch.",
+      "We are three remote engineers who build websites, booking enquiry systems and simple business software for Sawai Madhopur, from resorts and safari operators along Ranthambore Road to guava orchards, Bajaria shops, schools, clinics and traders in Gangapur City and Khandar. Published starting prices, direct access to the builders, and two months of free upkeep after launch.",
     pills: ["Sites from ₹10,000", "Hotel and safari enquiry forms", "Hindi and English pages", "Guava and farm stores", "Google Maps setup"],
   },
   quickAnswer:
-    "In Sawai Madhopur, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. Hotels wanting a 299+ page SEO site start at ₹20,000, WhatsApp and AI automation at ₹40,000 and online stores at ₹50,000. We are a remote team with no local office, and maintenance is free for five months.",
+    "In Sawai Madhopur, a business website with us starts from ₹10,000 and usually goes live in one to two weeks. Hotels wanting a 299+ page SEO site start at ₹20,000, WhatsApp and AI automation at ₹40,000 and online stores at ₹50,000. We are a remote team with no local office, and maintenance is free for two months.",
   snapshot: [
     { label: "Founded", value: "19 January 1763 by Maharaja Sawai Madho Singh I, laid out on the pattern of Jaipur" },
     { label: "Town layout", value: "Man Town with the railway station and Bajariya market, the old walled city about 4 km away in a valley, and Alanpur" },
@@ -51,7 +51,7 @@ const sawaiMadhopur: CityContent = {
     ai: "WhatsApp replies about room rates, safari timings and park closures in English and Hindi, handed to staff when a guest needs a person.",
     data: "Season dashboards showing enquiries, bookings, occupancy and guava dispatches by month, readable on a phone.",
     app: "Android and iOS apps for Ranthambore guests to see their itinerary or for school parents to get notices, published on both stores from ₹40,000.",
-    maintenance: "Five free months of edits, updates and backups after launch, then plans from ₹8,000 a month if you want to continue.",
+    maintenance: "Two free months of edits, updates and backups after launch, then plans from ₹8,000 a month if you want to continue.",
   },
   whyUsIntro:
     "Hotels in Sawai Madhopur usually meet two kinds of web sellers: a local operator who builds a site and holds on to its logins, and a metro agency that treats a thirty-room property like a chain. We sit between them. Rates are published, quotes are itemised, the domain and booking data stay in your name, and the three engineers who build the site answer your WhatsApp messages every day.",
@@ -176,7 +176,7 @@ const sawaiMadhopur: CityContent = {
       heading: "Ownership, off-season updates and ongoing care",
       paragraphs: [
         "A hotel website collects years of value: reviews that link to it, guests who bookmark it, and search rankings built slowly. If the domain belongs to the developer, all of that can vanish. We register the domain and hosting in your name from day one, and at launch you receive all logins, the full source code and a written note on the setup.",
-        "Maintenance is free for five months after launch. That includes rate changes, new photos, security and software updates, backups and bug fixes. For hotels, those months often cover the switch between peak season and the monsoon closure, when rates, packages and messages all need updating.",
+        "Maintenance is free for two months after launch. That includes rate changes, new photos, security and software updates, backups and bug fixes. For hotels, those months often cover the switch between peak season and the monsoon closure, when rates, packages and messages all need updating.",
         "After that, maintenance continues from ₹8,000 a month if you want it. Many seasonal businesses prefer to call us only when needed and pay per job, which is equally fine. You can move to any other developer at any time without an exit fee.",
       ],
     },
@@ -262,7 +262,7 @@ const sawaiMadhopur: CityContent = {
         "Yes. They are registered in your name from the start, and at launch you get every login and the full code. You can move to another developer whenever you want with no exit fee, so years of reviews and search visibility stay with your business.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
         "You choose. Monthly maintenance starts from ₹8,000 and covers updates, backups, security fixes and content changes. Or you can pay per job when something changes, such as monsoon rates or new packages. Many seasonal hotels prefer the second option.",
     },

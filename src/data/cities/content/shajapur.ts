@@ -56,7 +56,7 @@ const shajapur: CityContent = {
     ai: "WhatsApp assistants that share mandi rates, stock and appointment details in Hindi and forward genuine orders to you.",
     data: "Dashboards tracking purchases, storage losses, sales and dues across the rabi and kharif seasons.",
     app: "Apps for Android phones and iPhones from ₹40,000, live on Google Play and the App Store, built for things like dealer re-orders, college notices or clinic queues.",
-    maintenance: "No upkeep charges for five months after go-live; afterwards, optional support from ₹8,000 a month for edits, backups and security patches.",
+    maintenance: "No upkeep charges for two months after go-live; afterwards, optional support from ₹8,000 a month for edits, backups and security patches.",
   },
   whyUsIntro:
     "Shajapur traders deal in crops whose rates can jump or fall within a week, so they prize suppliers who behave the same way every time. Our starting prices are on the website, quotes arrive in writing with every item listed, WhatsApp is answered all week, and the domain, hosting, code and store accounts are created in your name. If a feature will not repay what it costs, you hear that from us first.",
@@ -186,7 +186,7 @@ const shajapur: CityContent = {
       paragraphs: [
         "You will not find us in a Shajapur office, since we do not run one. Three engineers handle every project: Ankur Kumar writes the full-stack web code, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava manages delivery along with data science and automation. The process is simple: a WhatsApp chat, a written scope and a quote in separate items, your yes, then preview links you can open on your phone as the build moves along. We answer messages all seven days, in Indian hours.",
         "From day one, the domain, hosting, source code, Google Business Profile and any Play Store or App Store developer accounts are opened under your name, and the passwords stay with you. It rules out the familiar small-town trap where a developer keeps the domain and then goes silent.",
-        "For five months after launch, maintenance is on us: edits, backups, security fixes and routine tests of forms, UPI checkout and WhatsApp buttons. Later, a monthly plan from ₹8,000 is available, but nobody is locked in. We plan the heavier checks for the weeks before harvest arrivals, admissions, and the Navratri and Diwali rush. To get going, reach us through the <a href=\"/contact/\">contact page</a>.",
+        "For two months after launch, maintenance is on us: edits, backups, security fixes and routine tests of forms, UPI checkout and WhatsApp buttons. Later, a monthly plan from ₹8,000 is available, but nobody is locked in. We plan the heavier checks for the weeks before harvest arrivals, admissions, and the Navratri and Diwali rush. To get going, reach us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
   ],
@@ -268,7 +268,7 @@ const shajapur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Nothing is charged for upkeep during the five months after go-live. That covers text and rate changes, backups, security fixes and regular tests of forms, UPI checkout and WhatsApp buttons. From month six an ₹8,000-a-month plan is on offer if you want it, and you may take the whole codebase elsewhere whenever you choose.",
+        "Nothing is charged for upkeep during the two months after go-live. That covers text and rate changes, backups, security fixes and regular tests of forms, UPI checkout and WhatsApp buttons. From month three an ₹8,000-a-month plan is on offer if you want it, and you may take the whole codebase elsewhere whenever you choose.",
     },
     {
       question: "Do you work in Shujalpur, Maksi and Ujjain as well?",

@@ -37,8 +37,8 @@ const content: CityContent = {
     eyebrow: "IT services · Warangal, Telangana",
     h1: "Freelance software developers for Warangal's colleges, hospitals and traders",
     lede:
-      "Freelance software developers for the Warangal tri-city of Warangal, Hanamkonda and Kazipet: BtechWaleTech is a freelance group of three remote engineers who build admission CRMs for colleges and coaching centres, appointment systems for hospitals, trader software for the Enumamula market, WhatsApp AI agents, dashboards and the Telugu-English websites that bring leads in. If you were comparing a software development team in Warangal, our prices are public and maintenance is free for five months.",
-    pills: ["Admission CRMs and portals", "Hospital booking in Telugu", "Trader lot and dues software", "Lead capture that reaches staff", "Five months free support"],
+      "Freelance software developers for the Warangal tri-city of Warangal, Hanamkonda and Kazipet: BtechWaleTech is a freelance group of three remote engineers who build admission CRMs for colleges and coaching centres, appointment systems for hospitals, trader software for the Enumamula market, WhatsApp AI agents, dashboards and the Telugu-English websites that bring leads in. If you were comparing a software development team in Warangal, our prices are public and maintenance is free for two months.",
+    pills: ["Admission CRMs and portals", "Hospital booking in Telugu", "Trader lot and dues software", "Lead capture that reaches staff", "Two months free support"],
   },
   quickAnswer:
     "BtechWaleTech is a freelance group of three engineers, working remotely from India, serving Warangal, Hanamkonda and Kazipet. Websites with lead capture start from ₹10,000 (one to two weeks), WhatsApp and AI automation from ₹40,000 (two to four weeks), and custom software such as admission CRMs from ₹60,000 (six to twelve weeks). Quotes are itemised within two working days.",
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents on WhatsApp answering admission, fee, doctor and rate questions in Telugu or English, logging every lead and passing tricky cases to staff.",
     data: "Dashboards showing admissions by course, appointments by doctor, or purchases and dues by commodity, updated automatically and readable on a phone.",
     app: "Android and iOS apps in Flutter or React Native, published on Google Play and the App Store, for Warangal parents, students, patients and market traders, from ₹40,000.",
-    maintenance: "Fixes, backups, updates and content changes, free for five months after launch and from ₹8,000 a month thereafter.",
+    maintenance: "Fixes, backups, updates and content changes, free for two months after launch and from ₹8,000 a month thereafter.",
   },
   whyUsIntro:
     "Warangal buyers want the reliability of a city vendor without Hyderabad prices or the risk of a local freelancer who stops answering. A freelance group of three offers continuity: the engineer who scopes your admission CRM or booking system is the one who builds and supports it.",
@@ -211,14 +211,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom software or web app: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
       id: "working-with-us-warangal",
       heading: "How our freelance software developers work with Warangal clients",
       paragraphs: [
-        "Our freelance software developers work with Warangal clients remotely: a discovery call, an itemised quote within two working days, weekly demos on a staging link, launch with staff training in Telugu or English, and five months of free maintenance. Support runs on WhatsApp seven days a week.",
+        "Our freelance software developers work with Warangal clients remotely: a discovery call, an itemised quote within two working days, weekly demos on a staging link, launch with staff training in Telugu or English, and two months of free maintenance. Support runs on WhatsApp seven days a week.",
         "At handover you receive the source code, database, every login and a deployment note. We do not guarantee rankings, invent reviews or replace certified systems where rules require them. Learn <a href=\"/about/\">about us</a>, view <a href=\"/portfolio/\">our portfolio</a>, see <a href=\"/services/\">all services</a> or our <a href=\"/it-services/telangana/\">Telangana overview</a>, and contact us through the <a href=\"/contact/\">contact page</a>.",
       ],
     },
@@ -290,7 +290,7 @@ const content: CityContent = {
     {
       question: "What maintenance comes after launch?",
       answer:
-        "Five months of maintenance are free after launch, covering bug fixes, security updates, backups, uptime monitoring and small content changes. After that, plans start from ₹8,000 a month or you pay per change. New features are quoted separately, so costs stay predictable.",
+        "Two months of maintenance are free after launch, covering bug fixes, security updates, backups, uptime monitoring and small content changes. After that, plans start from ₹8,000 a month or you pay per change. New features are quoted separately, so costs stay predictable.",
     },
     {
       question: "How long does local SEO take in Warangal?",

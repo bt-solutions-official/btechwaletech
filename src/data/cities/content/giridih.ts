@@ -30,11 +30,11 @@ const giridih: CityContent = {
     eyebrow: "Giridih · Jharkhand",
     h1: "Web, app, SEO and automation services for Giridih's steel units, mica traders, pilgrim-route hotels and local shops",
     lede:
-      "Three remote engineers building websites, product catalogues and WhatsApp automation for Giridih businesses: sponge iron and rolling mills, mica processors, coal-area suppliers, hotels and dharamshalas on the Madhuban route, hospitals, coaching centres and the shops around Kalibari and Tower Chowk. Starting prices are published and maintenance is free for five months.",
+      "Three remote engineers building websites, product catalogues and WhatsApp automation for Giridih businesses: sponge iron and rolling mills, mica processors, coal-area suppliers, hotels and dharamshalas on the Madhuban route, hospitals, coaching centres and the shops around Kalibari and Tower Chowk. Starting prices are published and maintenance is free for two months.",
     pills: ["Static sites from ₹10,000", "Steel and mica catalogues", "Pilgrim stay bookings", "Hindi-first local pages", "WhatsApp replies daily"],
   },
   quickAnswer:
-    "For a Giridih business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Giridih, and maintenance is free for the first five months.",
+    "For a Giridih business, a static website with us starts at ₹10,000 and is usually ready in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI and WhatsApp automation at ₹40,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Giridih, and maintenance is free for the first two months.",
   snapshot: [
     { label: "District role", value: "Headquarters of Giridih district in north-eastern Jharkhand, on the Chota Nagpur plateau" },
     { label: "Minerals", value: "Coal in the Giridih coalfield around Beniadih, and mica mines in the Gawan and Tisri blocks" },
@@ -51,7 +51,7 @@ const giridih: CityContent = {
     ai: "WhatsApp replies that share today's rates, room availability or OPD timings in Hindi while you are busy on the floor.",
     data: "Production, dispatch and sales figures brought together in a dashboard you can check from your phone.",
     app: "Android and iOS apps for school notices, coaching attendance or dharamshala bookings near Parasnath, available on Google Play and the App Store.",
-    maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you need it.",
+    maintenance: "Two months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you need it.",
   },
   whyUsIntro:
     "Giridih has substantial industry and a steady flow of pilgrims, but very few local businesses are properly visible online. Agencies in Ranchi, Dhanbad or Kolkata tend to charge heavily and move on after launch. We publish prices, keep your domain in your name, and answer on WhatsApp seven days a week.",
@@ -168,7 +168,7 @@ const giridih: CityContent = {
       paragraphs: [
         "It is common in smaller towns for a business to discover that its website's domain is registered to the person who built it, who can no longer be reached. The site cannot be renewed, changed or moved, and eventually disappears along with whatever search visibility it had built up.",
         "We prevent that by registering the domain and hosting in your name, on your account, from the first day. At launch, you receive every login, the full source code and a short written guide to how everything is set up. You can move to another developer at any time with no exit fee.",
-        "For five months after launch, maintenance is free: updates to text and prices, fixes, security patches, backups and uptime and speed checks. After that, it continues from ₹8,000 a month if you want us to keep looking after it, or you can call us only when you need something done.",
+        "For two months after launch, maintenance is free: updates to text and prices, fixes, security patches, backups and uptime and speed checks. After that, it continues from ₹8,000 a month if you want us to keep looking after it, or you can call us only when you need something done.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const giridih: CityContent = {
     {
       question: "What does the free maintenance period include?",
       answer:
-        "For five months after launch we handle text and price updates, fixes, security patches, backups and uptime checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle text and price updates, fixes, security patches, backups and uptime checks at no cost. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Can you guarantee a top Google ranking?",

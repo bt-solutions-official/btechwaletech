@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Custom web app from", `${P.software} · ${P.softwareUsd}`],
     ["Typical custom build time", "6–12 weeks"],
     ["Code and data ownership", "Yours, in your accounts"],
-    ["Free maintenance after launch", "5 months"],
+    ["Free maintenance after launch", "2 months"],
   ],
   stats: [
     { value: "5", label: "Years to model before choosing" },
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom software and add-ons cost with us",
-    note: `A full custom web app, such as billing with inventory, an order portal or a CRM built around your process, starts at ${P.software} and usually takes 6–12 weeks. Smaller add-ons that sit beside Tally or a SaaS tool are scoped individually and are often below that, because they do one job. Automations that read documents or send WhatsApp updates start at ${P.ai}. There are no per-user licence fees on anything we build; your running costs are cloud hosting in your own account and, after five free months, optional maintenance from ${P.care}. Every figure is a starting price and the written quote shows what moves it.`,
+    note: `A full custom web app, such as billing with inventory, an order portal or a CRM built around your process, starts at ${P.software} and usually takes 6–12 weeks. Smaller add-ons that sit beside Tally or a SaaS tool are scoped individually and are often below that, because they do one job. Automations that read documents or send WhatsApp updates start at ${P.ai}. There are no per-user licence fees on anything we build; your running costs are cloud hosting in your own account and, after two free months, optional maintenance from ${P.care}. Every figure is a starting price and the written quote shows what moves it.`,
   },
   guideLabel: "Off the shelf vs custom software guide",
   guide: [
@@ -296,7 +296,7 @@ const content: FreelanceContent = {
         ["Modules and plans", "Higher tiers for key features", "Included in scope", "Only in the add-on"],
         ["Integrations", "Paid connectors or none", "Built in", "Built into the add-on"],
         ["Hosting", "Included", "Your cloud account", "Small, for the add-on"],
-        ["Upkeep", "Included in subscription", `5 months free, then from ${P.care}`, `5 months free, then from ${P.care}`],
+        ["Upkeep", "Included in subscription", `2 months free, then from ${P.care}`, `2 months free, then from ${P.care}`],
         ["Hidden cost", "Workaround hours", "Your time on requirements", "Keeping the connection updated"],
       ],
       hideSm: [3],
@@ -362,7 +362,7 @@ const content: FreelanceContent = {
       ["Quote only the gap", "If custom work makes sense, you get an itemised quote in about two working days, often for an add-on rather than a full replacement. Nothing is billed before approval."],
       ["Build in short cycles", "We design screens you can click through, then deliver working pieces your staff test with real transactions, adjusting as we go."],
       ["Connect and migrate", "Masters imported, Tally vouchers posting, WhatsApp messages sending, sheets exporting. The old process runs alongside until your team is confident."],
-      ["Hand over and support", "Code, database and hosting stay in your accounts, with setup notes. Five months of maintenance are free, then optional upkeep."],
+      ["Hand over and support", "Code, database and hosting stay in your accounts, with setup notes. Two months of maintenance are free, then optional upkeep."],
     ],
   },
   faqHeading: "Off the shelf vs custom software: questions SME owners ask",
@@ -386,7 +386,7 @@ const content: FreelanceContent = {
     { question: "Readymade software lena chahiye ya custom banwana chahiye?", answer: "Agar aapka kaam standard hai aur team chhoti hai, to readymade software theek hai. Agar har naye user pe fees badh rahi hai, staff Excel mein kaam chala raha hai, ya software Tally aur WhatsApp se connect nahi hota, to custom ya ek chhota custom add-on behtar hai. Paanch saal ka total cost dono ka compare kijiye." },
     { question: "Do you also set up readymade software or ERPs?", answer: "We work with open-source platforms such as Odoo and ERPNext, setting them up and building custom modules where needed, and we integrate with commercial packages like TallyPrime. We do not resell licences for commercial products. If a readymade product fits you without changes, we will say so and you can buy it directly." },
     { question: "How do you keep custom software secure?", answer: "Role-based logins so each person sees only what they need, encrypted connections, hashed passwords, automated backups in your cloud account, activity logs of who changed what, and updates to dependencies during maintenance. Hosting stays in an account you control, so you can review access at any time." },
-    { question: "What happens after the five free months of maintenance?", answer: `You choose. Your team can manage it, another developer can take over, or we continue with maintenance from ${P.care}. Maintenance covers updates, security patches, backups checks and small changes as written in your quote. Larger new features are quoted separately.` },
+    { question: "What happens after the two free months of maintenance?", answer: `You choose. Your team can manage it, another developer can take over, or we continue with maintenance from ${P.care}. Maintenance covers updates, security patches, backups checks and small changes as written in your quote. Larger new features are quoted separately.` },
     { question: "Can custom software use AI, for example to read invoices?", answer: `Yes. Common additions are reading supplier invoices and purchase orders into your system, summarising customer chats, or flagging unusual transactions. These automations start at ${P.ai}. We keep a human review step for anything that posts to accounts, and your data stays in your own accounts.` },
   ],
   related: {

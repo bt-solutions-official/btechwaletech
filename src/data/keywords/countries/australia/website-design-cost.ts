@@ -36,13 +36,13 @@ const content: FreelanceContent = {
     ["SEO website, 299+ pages, from", P.seoSite],
     ["Online store from", P.shop],
     ["Web app or portal from", P.software],
-    ["Care after 5 free months", `From ${P.care}`],
+    ["Care after 2 free months", `From ${P.care}`],
     ["Quote", "Itemised in about 2 working days"],
   ],
   stats: [
     { value: "100", label: "Pages included in the starter website plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Invoices before you approve the quote in writing" },
   ],
   answer: {
@@ -74,7 +74,7 @@ const content: FreelanceContent = {
       { name: "Portal or web app", note: `Client logins, bookings, quoting tools or dashboards built as custom software, from ${P.software}.`, href: "/australia/custom-software-development/", size: "md" },
       { name: "Redesign of an existing site", note: "Priced like a new build, plus URL mapping and redirects so you keep the rankings you have.", href: "/australia/website-redesign-services/", size: "sm" },
       { name: "Monthly SEO", note: `Search visibility work after launch, from ${P.seo} a month.`, href: "/australia/seo-cost-per-month/", size: "sm" },
-      { name: "Care plan", note: `Updates, backups and small edits after the five free months, from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
+      { name: "Care plan", note: `Updates, backups and small edits after the two free months, from ${P.care}.`, href: "/australia/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Our starting prices for Australian businesses",
-    note: `If you are asking how much does a website cost in Australia with BtechWaleTech, every figure here is a starting price in USD. A service website of up to 100 pages starts from ${P.site} and takes one to two weeks. An SEO website of 299 or more pages starts from ${P.seoSite}. Online stores start from ${P.shop}, apps from ${P.app}, AI automation from ${P.ai} and custom web apps from ${P.software}. After launch you get five months of free maintenance, then optional care from ${P.care}; monthly SEO starts from ${P.seo}. Domain, hosting, email and any paid plugins are billed to you directly by those providers, not marked up by us. The itemised quote arrives in about two working days.`,
+    note: `If you are asking how much does a website cost in Australia with BtechWaleTech, every figure here is a starting price in USD. A service website of up to 100 pages starts from ${P.site} and takes one to two weeks. An SEO website of 299 or more pages starts from ${P.seoSite}. Online stores start from ${P.shop}, apps from ${P.app}, AI automation from ${P.ai} and custom web apps from ${P.software}. After launch you get two months of free maintenance, then optional care from ${P.care}; monthly SEO starts from ${P.seo}. Domain, hosting, email and any paid plugins are billed to you directly by those providers, not marked up by us. The itemised quote arrives in about two working days.`,
   },
   guideLabel: "Website cost in Australia: the full guide",
   guide: [
@@ -156,7 +156,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `How much does a website cost in Australia once it is live? Yearly running costs cover the domain, hosting, email, security certificate, any paid plugins or apps, and optional maintenance and SEO. They are usually much smaller than the build for a simple site, but for stores and web apps they add up, so list them before you choose a platform.`,
         `The domain is renewed on the licence term you choose. Hosting ranges from basic shared plans to managed WordPress hosting and cloud servers; a simple static site needs very little, while a busy store or web app needs more. Business email is often a separate subscription per user. Free SSL certificates are standard on good hosts. Stores add platform subscriptions, app fees and payment processing fees, and booking or CRM tools add their own monthly charges.`,
-        `We list each running cost in the quote with who you pay, how often, and whether it is optional, so you see the first-year and three-year totals before you approve. You pay those providers directly; we do not resell hosting or mark up subscriptions. After five free months, a care plan from ${P.care} is optional, and monthly SEO from ${P.seo} only makes sense if search is a real source of customers for you.`,
+        `We list each running cost in the quote with who you pay, how often, and whether it is optional, so you see the first-year and three-year totals before you approve. You pay those providers directly; we do not resell hosting or mark up subscriptions. After two free months, a care plan from ${P.care} is optional, and monthly SEO from ${P.seo} only makes sense if search is a real source of customers for you.`,
       ],
     },
     {
@@ -277,7 +277,7 @@ const content: FreelanceContent = {
       heading: "Worked example: budgeting a website for an Adelaide landscaping business",
       paragraphs: [
         `This is a hypothetical scenario, not a client story. Say a four-person landscaping business in Adelaide wants a new website to replace a builder site it has outgrown, and it receives three quotes: one from an agency, one from a local freelancer and one from us.`,
-        `The owner lists the lines. The agency quote includes a brand workshop, copywriting and a photo shoot, plus a yearly retainer. The freelancer quote covers design and build on a theme, with copy and photos supplied by the owner and hosting on the freelancer's own server. Our quote covers a service site of about twelve pages from ${P.site}, with the owner supplying photos and approving text we shape from voice notes, hosting and domain in the business's name, and five free months of care.`,
+        `The owner lists the lines. The agency quote includes a brand workshop, copywriting and a photo shoot, plus a yearly retainer. The freelancer quote covers design and build on a theme, with copy and photos supplied by the owner and hosting on the freelancer's own server. Our quote covers a service site of about twelve pages from ${P.site}, with the owner supplying photos and approving text we shape from voice notes, hosting and domain in the business's name, and two free months of care.`,
         `On a three-year view, the owner adds hosting, domain and email to each option, notes the freelancer's hosting would need moving if they part ways, and values the agency's photography, which they genuinely need. They might choose our build and hire a local photographer separately, or choose the agency for the brand work. Either decision is reasonable once the lines are laid out side by side. That is the point of comparing properly.`,
       ],
     },
@@ -330,7 +330,7 @@ const content: FreelanceContent = {
         ["Business email", "Email provider", "Per user, monthly or yearly", "Number of mailboxes"],
         ["Store platform and apps", "Platform and app vendors", "Monthly", "Plan level and number of apps"],
         ["Premium plugins or themes", "Plugin or theme vendor", "Usually yearly", "Number of licences"],
-        ["Maintenance", "Us, optional after 5 free months", "Monthly", `Scope; care from ${P.care}`],
+        ["Maintenance", "Us, optional after 2 free months", "Monthly", `Scope; care from ${P.care}`],
         ["SEO", "Us or another provider, optional", "Monthly", `Competition and scope; from ${P.seo}`],
       ],
       hideSm: [3],
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
       ["Itemised quote in about two days", "You receive build lines, running costs by provider, timeline and payment stages in USD. Remove anything you do not need."],
       ["Approve in writing", "Nothing is billed until you approve. You then register the domain and hosting in your business name and invite us."],
       ["Build and review", "You see a full preview on your phone, send one consolidated list of changes, and we apply them, usually overnight."],
-      ["Launch and five free months", `After launch, five months of free maintenance cover fixes and small edits. Care from ${P.care} is optional after that.`],
+      ["Launch and two free months", `After launch, two months of free maintenance cover fixes and small edits. Care from ${P.care} is optional after that.`],
     ],
   },
   faqHeading: "Website cost in Australia: common questions",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Do I pay GST on a website built by an overseas team?", answer: "It depends on your circumstances, including whether your business is registered for GST and how the service is used. The ATO publishes guidance on GST for imported services, and your accountant can tell you how it applies to you. Our quotes are in USD and invoices are issued from India; we do not give tax advice." },
     { question: "How much does a .com.au domain cost?", answer: "A .com.au domain is an inexpensive licence bought from an accredited registrar, and prices differ slightly between registrars. auDA says you can register it for one to five years at a time and renew it while you remain eligible. Register it in your business's name and turn on auto-renewal so it never lapses." },
     { question: "How much does website hosting cost in Australia?", answer: "It ranges from very cheap shared plans to managed WordPress hosting and cloud servers. A static site needs little; a busy WordPress site, store or web app needs more. Managed hosting costs more but often includes backups, security scanning and staging. Open the account in your business name and pay the host directly." },
-    { question: "How much does website maintenance cost in Australia?", answer: `It depends on the platform and how much the site changes. A static site needs very little; WordPress sites and stores need regular updates and backups. Every site we build includes five months of free maintenance after launch, and optional care starts from ${P.care} after that. You can also look after a simple site yourself.` },
+    { question: "How much does website maintenance cost in Australia?", answer: `It depends on the platform and how much the site changes. A static site needs very little; WordPress sites and stores need regular updates and backups. Every site we build includes two months of free maintenance after launch, and optional care starts from ${P.care} after that. You can also look after a simple site yourself.` },
     { question: "How much does an ecommerce website cost in Australia?", answer: `More than a service site, because products, shipping, payments and GST settings all need building and testing. With BtechWaleTech, stores start from ${P.shop} and take four to eight weeks. Platform subscriptions, apps and payment fees continue after launch. Our ecommerce website cost guide breaks this down by catalogue size.` },
     { question: "Is a DIY website builder cheaper than a custom website?", answer: "Up front, usually yes. Over three years, not always: subscriptions and add-ons continue for as long as the site exists, and your own time has a cost. Builders also limit speed, design and portability. Add up three years of builder fees and your time, then compare with a professional build plus running costs." },
     { question: "What should a website quote include?", answer: "Scope with page types and features, content responsibilities, design approach, migration and redirects, testing, running costs by provider, ownership of the domain, hosting and code, aftercare terms and payment stages. If a quote is a single package price with no line items, ask for a breakdown before comparing it with others." },

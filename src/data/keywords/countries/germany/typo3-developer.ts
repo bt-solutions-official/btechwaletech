@@ -30,7 +30,7 @@ const content: FreelanceContent = {
     origin: "Three freelance developers in India · English calls in German business hours · WhatsApp replies 7 days a week",
   },
   facts: [
-    ["Maintenance", `From ${P.care}, after 5 months free on new builds`],
+    ["Maintenance", `From ${P.care}, after 2 months free on new builds`],
     ["Upgrade or custom extension", `Scoped per project, apps from ${P.software}`],
     ["New TYPO3 site", `From ${P.seoSite} (large page counts)`],
     ["Quote", "Itemised in about 2 working days"],

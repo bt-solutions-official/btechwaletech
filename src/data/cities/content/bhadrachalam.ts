@@ -56,7 +56,7 @@ const bhadrachalam: CityContent = {
     ai: "WhatsApp replies in Telugu about room availability, festival dates, boat trip timings and fees, with a person stepping in for anything unusual.",
     data: "Occupancy by festival week for lodges, monthly job billing for contractors, and admission trends for schools and coaching centres.",
     app: "Android and iOS apps from ₹40,000 for hospital tokens, school notices or contractor site attendance, listed on Google Play and the App Store.",
-    maintenance: "Free upkeep for five months after launch, then from ₹8,000 a month, with tariff changes done before the Navami and Ekadashi rush.",
+    maintenance: "Free upkeep for two months after launch, then from ₹8,000 a month, with tariff changes done before the Navami and Ekadashi rush.",
   },
   whyUsIntro:
     "Bhadrachalam's business calendar swings between quiet weeks and festival crowds, and a website has to keep pace with both. We quote in writing, line by line, reply on WhatsApp every day of the week, keep your domain, code and store accounts in your own name, and tell you plainly when a cheaper option will do the job.",
@@ -152,7 +152,7 @@ const bhadrachalam: CityContent = {
         "Rather than a bare table, here is how pricing tends to work out for three kinds of local client. The complete list of starting prices is on our <a href=\"/pricing/\">pricing page</a>.",
         "<strong>A twelve-room lodge near the temple.</strong> A static site with rooms, tariffs, photographs, directions and a WhatsApp booking button starts at ₹10,000 and goes live in one to two weeks. A Telugu version, a festival-rate calendar or online advance payment each add a separate line.",
         "<strong>A coaching centre drawing students from several mandals.</strong> A 299+ page SEO website covering every course, subject and nearby town starts at ₹20,000 and takes three to five weeks. A parent app for marks and notices starts at ₹40,000, as does WhatsApp automation for admission questions.",
-        "<strong>A contractor working at the Sarapaka plant.</strong> A capability site starts at ₹10,000; a job and invoice register is custom software from ₹60,000 over six to twelve weeks. If you also sell products, an online store starts at ₹50,000. Monthly SEO is from ₹10,000 a month, and maintenance from ₹8,000 a month once five free months end.",
+        "<strong>A contractor working at the Sarapaka plant.</strong> A capability site starts at ₹10,000; a job and invoice register is custom software from ₹60,000 over six to twelve weeks. If you also sell products, an online store starts at ₹50,000. Monthly SEO is from ₹10,000 a month, and maintenance from ₹8,000 a month once two free months end.",
         "Local quotes vary widely, so compare what sits behind the number: who owns the domain and code, whether pages are tested on low-cost phones, whether a map listing is included, how many changes are covered and what support costs later. Your itemised quote arrives in about two working days.",
       ],
     },
@@ -170,7 +170,7 @@ const bhadrachalam: CityContent = {
       heading: "Your accounts, your code: ownership and upkeep for Bhadrachalam projects",
       paragraphs: [
         "Before a single page is designed, the domain is registered on your email and the hosting account opens in your name. The code is handed over complete at the end, and your Google Business Profile, Play Console and Apple developer accounts remain under your ownership. You receive one sheet with every login. If we ever part ways, your site keeps running.",
-        "Maintenance is free for five months after launch: changing tariffs before festival season, updating trip notes, backups, security patches and regular checks on forms, payments and WhatsApp links. After that, continue with us from ₹8,000 a month, handle it yourself, or pass the code to another developer. There is no lock-in and no permission to ask for.",
+        "Maintenance is free for two months after launch: changing tariffs before festival season, updating trip notes, backups, security patches and regular checks on forms, payments and WhatsApp links. After that, continue with us from ₹8,000 a month, handle it yourself, or pass the code to another developer. There is no lock-in and no permission to ask for.",
         "For apps, keep the yearly store rules in mind. Google and Apple keep raising the minimum versions they accept, and apps that fall behind can vanish from store search. We watch those deadlines and publish updates ahead of them.",
       ],
     },
@@ -257,7 +257,7 @@ const bhadrachalam: CityContent = {
     {
       question: "What happens after the free maintenance period ends?",
       answer:
-        "The first five months after launch cover edits, tariff changes, backups, security patches and checks on forms and payments at no cost. Afterwards you can keep us on from ₹8,000 a month, manage the site yourself, or give the code to another developer. Everything is already in your name, so switching needs no approval from us.",
+        "The first two months after launch cover edits, tariff changes, backups, security patches and checks on forms and payments at no cost. Afterwards you can keep us on from ₹8,000 a month, manage the site yourself, or give the code to another developer. Everything is already in your name, so switching needs no approval from us.",
     },
     {
       question: "Can a tour operator sell Parnasala and Papikondalu trips online?",

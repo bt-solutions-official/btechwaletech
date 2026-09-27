@@ -56,7 +56,7 @@ const padrauna: CityContent = {
     ai: "WhatsApp assistants that reply in simple Hindi, note down orders or bookings and pass anything unusual to you with the chat attached.",
     data: "Dashboards of sales by tehsil, dues by retailer and admissions by course, fed from the sheets you already keep.",
     app: "Android and iOS apps for village retailers to re-order stock or for coaching students to get notes and test alerts, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and app store updates.",
+    maintenance: "Two months of free upkeep after launch, then from ₹8,000 a month for edits, backups, security patches and app store updates.",
   },
   whyUsIntro:
     "People in Padrauna prefer to buy from someone they can hold to account, which is harder with a team you never meet in person. So we put everything on paper: starting prices in public, a written quote item by item, WhatsApp replies every day of the week, and your name on the domain, hosting, code and store accounts from day one.",
@@ -172,7 +172,7 @@ const padrauna: CityContent = {
         "AI or WhatsApp automation: from ₹40,000, two to four weeks",
         "Ecommerce store with UPI and card checkout: from ₹50,000, four to eight weeks",
         "Custom web app or software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month once five free months end",
+        "Monthly SEO from ₹10,000 a month; maintenance from ₹8,000 a month once two free months end",
       ],
     },
     {
@@ -189,7 +189,7 @@ const padrauna: CityContent = {
       heading: "Who owns your website and app, and what upkeep costs after launch",
       paragraphs: [
         "Everything we build for a Padrauna client is registered to that client. The domain is booked on your email, the hosting account bills you, the source code is handed over, and the Google Play and App Store developer accounts carry your name. You also get a written sheet of every login, so no developer, ourselves included, can ever lock you out.",
-        "The first five months after launch are maintained at no charge: updates, backups, security patches, fixes to forms and checkout, and small text or price changes. After that you can stay with us from ₹8,000 a month, pass the work to someone local, or manage it yourself. Apps also need a yearly update to meet Google and Apple rules even when nothing looks broken, and we plan that ahead so your listing stays live.",
+        "The first two months after launch are maintained at no charge: updates, backups, security patches, fixes to forms and checkout, and small text or price changes. After that you can stay with us from ₹8,000 a month, pass the work to someone local, or manage it yourself. Apps also need a yearly update to meet Google and Apple rules even when nothing looks broken, and we plan that ahead so your listing stays live.",
       ],
     },
   ],
@@ -271,7 +271,7 @@ const padrauna: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: content and price edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, but it is optional. Since you already hold the code and every login, any other developer can take over without our permission.",
+        "The first two months after launch are free: content and price edits, backups, security updates and checks on forms, payments and WhatsApp links. After that, continuing with us starts at ₹8,000 a month, but it is optional. Since you already hold the code and every login, any other developer can take over without our permission.",
     },
     {
       question: "Do you also work in Kasia, Hata, Kaptanganj and Tamkuhi Road?",

@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "IT services · Nizamabad, Telangana",
     h1: "Freelance software developers for Nizamabad's turmeric traders, rice millers and local services",
     lede:
-      "Freelance software developers for Nizamabad businesses: BtechWaleTech is a freelance group of three remote engineers who build lot and settlement software for turmeric commission agents, stock and dispatch systems for rice mills, Telugu WhatsApp agents, Android and iOS apps, owner dashboards and fast mobile websites with contact forms that actually reach someone. If you were weighing up a software development team in Nizamabad, compare our public starting prices and five months of free maintenance.",
+      "Freelance software developers for Nizamabad businesses: BtechWaleTech is a freelance group of three remote engineers who build lot and settlement software for turmeric commission agents, stock and dispatch systems for rice mills, Telugu WhatsApp agents, Android and iOS apps, owner dashboards and fast mobile websites with contact forms that actually reach someone. If you were weighing up a software development team in Nizamabad, compare our public starting prices and two months of free maintenance.",
     pills: ["Turmeric lot and settlement software", "Rice mill stock and dispatch", "Telugu WhatsApp agents", "Android and iOS apps", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "Telugu and Urdu WhatsApp agents that share rates, answer appointment or service questions, send dues reminders and hand anything unusual to staff.",
     data: "Dashboards showing daily arrivals, purchases, sales, mill stock and dues by party, updated automatically and readable on a phone.",
     app: "Android and iOS apps built in Flutter or React Native and published on Google Play and the App Store, for Nizamabad traders, farmers, patients and Gulf-based families, from ₹40,000.",
-    maintenance: "Fixes, updates, backups and content changes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Fixes, updates, backups and content changes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Nizamabad businesses have often been let down by a developer who built a website and disappeared. A freelance group of three stays on the project: the engineer who scopes your system builds it, trains your staff on WhatsApp video calls and fixes it when something breaks.",
@@ -209,14 +209,14 @@ const content: CityContent = {
         "Android and iOS app: from ₹40,000, six to ten weeks",
         "Online store: from ₹50,000, four to eight weeks",
         "Custom trade or mill software: from ₹60,000, six to twelve weeks",
-        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after five free months",
+        "Monthly SEO from ₹10,000; maintenance from ₹8,000 after two free months",
       ],
     },
     {
       id: "working-with-us-nizamabad",
       heading: "How our freelance software developers work with Nizamabad clients",
       paragraphs: [
-        "Our freelance software developers work with Nizamabad clients remotely: a discovery call, an itemised quote within two working days, weekly demos on a staging link, launch with staff training in Telugu, and five months of free maintenance. Support runs on WhatsApp seven days a week.",
+        "Our freelance software developers work with Nizamabad clients remotely: a discovery call, an itemised quote within two working days, weekly demos on a staging link, launch with staff training in Telugu, and two months of free maintenance. Support runs on WhatsApp seven days a week.",
         "Practical advice before you hire anyone: write down how a lot, order or appointment moves through your business today, list the three most common mistakes, and collect sample slips or registers. This makes any quote more accurate.",
         "At handover you receive source code, database access, every login and a deployment note. We do not guarantee rankings or invent reviews. Learn <a href=\"/about/\">about us</a>, see <a href=\"/portfolio/\">our portfolio</a>, <a href=\"/services/\">all services</a> and our <a href=\"/it-services/telangana/\">Telangana overview</a>, then contact us through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -314,7 +314,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included?",
       answer:
-        "Five months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks, form testing and small content changes. After that, plans start from ₹8,000 a month, or you pay per change. New features are quoted separately.",
+        "Two months of free maintenance after launch, covering bug fixes, security updates, backups, uptime checks, form testing and small content changes. After that, plans start from ₹8,000 a month, or you pay per change. New features are quoted separately.",
     },
     {
       question: "How long before local SEO brings enquiries?",

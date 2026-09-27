@@ -34,7 +34,7 @@ const amravati: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English pages", "Textile catalogues", "Google Maps setup", "WhatsApp replies"],
   },
   quickAnswer:
-    "For Amravati businesses we build static websites from ₹10,000 in one to two weeks, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team with no Amravati office, we reply on WhatsApp every day, and the first five months of maintenance after launch are free.",
+    "For Amravati businesses we build static websites from ₹10,000 in one to two weeks, 299+ page SEO websites from ₹20,000, online stores from ₹50,000 and custom web apps from ₹60,000. We are a remote team with no Amravati office, we reply on WhatsApp every day, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "Commercial core", value: "Rajkamal Chowk, Jaistambh Chowk, Gandhi Chowk, Jawahar Road and the Itwara Bazaar area" },
     { label: "Industrial base", value: "Additional Amravati Industrial Area (MIDC) at Nandgaon Peth, with a textile park and the PM MITRA park site next to it" },
@@ -51,7 +51,7 @@ const amravati: CityContent = {
     ai: "WhatsApp assistants that answer admission, rate and appointment questions in Marathi, Hindi or English and pass real leads to your staff.",
     data: "Dashboards built from Tally, Excel and mandi rate sheets to show dues, stock and seasonal sales for cotton and soybean trade.",
     app: "Android and iOS apps for field reps visiting dealers across Amravati, Akola and Yavatmal districts, built to work on weak mobile networks, from ₹40,000.",
-    maintenance: "Rate changes, new batch notices, backups and security updates are free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Rate changes, new batch notices, backups and security updates are free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Amravati businesses have been burned by a website built by a relative's friend that nobody can now update, or a domain that lapsed because the renewal went to someone else's email. We publish our prices, put the domain and hosting in your name, and stay reachable on WhatsApp seven days a week after launch.",
@@ -176,7 +176,7 @@ const amravati: CityContent = {
       paragraphs: [
         "The most common problem we hear from Amravati businesses is not a bad design. It is lost control: the domain registered in a freelancer's name, the hosting login forgotten, or a site built on a platform only one person understands. When that person moves to Pune, the business is stuck with an old phone number on its homepage.",
         "We avoid this from the first day. The domain and hosting are registered in your name and paid from your account. At launch you receive every password, the complete source code and a short written note on how the site is set up. If you later want to work with another developer, you can hand them everything without asking our permission or paying a fee.",
-        "Maintenance is free for five months after launch and covers text and price changes, new photos, bug fixes, security updates, backups and uptime checks. After that you can continue from ₹8,000 a month or contact us only when something is needed. <a href=\"/contact/\">Tell us about your business</a> and we will send a plan.",
+        "Maintenance is free for two months after launch and covers text and price changes, new photos, bug fixes, security updates, backups and uptime checks. After that you can continue from ₹8,000 a month or contact us only when something is needed. <a href=\"/contact/\">Tell us about your business</a> and we will send a plan.",
       ],
     },
   ],
@@ -263,7 +263,7 @@ const amravati: CityContent = {
     {
       question: "What is included in the free maintenance period?",
       answer:
-        "For five months after launch we handle content and price updates, new photos, bug fixes, security and software updates, backups and uptime checks at no charge. After that, maintenance is from ₹8,000 a month, or you can simply contact us when something needs doing.",
+        "For two months after launch we handle content and price updates, new photos, bug fixes, security and software updates, backups and uptime checks at no charge. After that, maintenance is from ₹8,000 a month, or you can simply contact us when something needs doing.",
     },
     {
       question: "Do you work with businesses in Akola, Yavatmal and Achalpur?",

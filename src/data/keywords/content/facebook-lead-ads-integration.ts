@@ -39,13 +39,13 @@ const content: FreelanceContent = {
     ["Lead arrives in CRM", "Seconds after the form is submitted"],
     ["Quote", "Itemised, in about 2 working days"],
     ["Pages, ad account, CRM", "All stay in your name"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers who build and support the integration" },
     { value: "24", label: "Hours in WhatsApp’s customer service window after a lead messages you" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after go-live" },
+    { value: "2", label: "Months of free fixes after go-live" },
   ],
   answer: {
     heading: "How does a Facebook lead ads CRM integration work?",
@@ -61,7 +61,7 @@ const content: FreelanceContent = {
       { label: "CRMs we connect", value: "Zoho CRM, HubSpot, LeadSquared, Google Sheets, custom databases" },
       { label: "Follow-up channels", value: "WhatsApp template message, salesperson alert, call task, email" },
       { label: "Feedback loop", value: "Lead stages sent back to Meta to improve ad targeting" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -359,7 +359,7 @@ const content: FreelanceContent = {
       ["Grant access the safe way", "You add us as a partner in Business Manager and create a system user, so the integration never depends on one person’s Facebook login."],
       ["Build and test with test leads", "We build capture, mapping and alerts, then submit test leads through Meta’s testing tool until every form writes correctly to the CRM."],
       ["Switch on WhatsApp and routing", "Templates are approved, routing rules go live, and your team handles real leads for a few days while we watch the logs."],
-      ["Hand over and support", "You get documentation, admin access and a failure alert. Fixes are free for five months; maintenance then continues from " + P.care + " a month if you want it."],
+      ["Hand over and support", "You get documentation, admin access and a failure alert. Fixes are free for two months; maintenance then continues from " + P.care + " a month if you want it."],
     ],
   },
   faqHeading: "Facebook lead ads CRM integration: common questions",
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
     { question: "Why are some Facebook leads fake or low quality?", answer: "Instant forms pre-fill details from the profile, so submitting takes seconds, and some people tap without real interest. Forms optimised for volume attract more of these. Adding custom questions, choosing the higher-intent form option, and sending qualified and junk stages back to Meta through the Conversions API all help. The integration also flags obviously invalid numbers before sales calls them." },
     { question: "What is lead-quality feedback and how does it help ads?", answer: "Lead-quality feedback means telling Meta which leads became qualified, booked a visit or bought, by sending CRM stage changes through the Meta Conversions API with the original lead ID. Meta can then aim delivery at people who resemble your real buyers rather than anyone who fills forms. It depends on your team updating lead stages honestly and promptly in the CRM." },
     { question: "Can leads be split between salespeople automatically?", answer: "Yes. Common rules are round robin, city or branch, product, language and working hours. Each lead gets one owner and an alert with a tap-to-call link. If it is not marked contacted within a time you choose, the manager is alerted and the lead can be reassigned. Contact speed per salesperson is reported, which usually improves results quickly." },
-    { question: "What happens if the integration stops working?", answer: `Every lead is logged, and failures, such as a webhook not arriving or the CRM rejecting a record, trigger an alert to a named person. A scheduled comparison between Meta and the CRM inserts any missing lead. For five months after launch, BtechWaleTech fixes issues free; after that, maintenance starts at ${P.care} a month if you want it.` },
+    { question: "What happens if the integration stops working?", answer: `Every lead is logged, and failures, such as a webhook not arriving or the CRM rejecting a record, trigger an alert to a named person. A scheduled comparison between Meta and the CRM inserts any missing lead. For two months after launch, BtechWaleTech fixes issues free; after that, maintenance starts at ${P.care} a month if you want it.` },
     { question: "Can old leads already in Meta be imported into the CRM?", answer: "Usually, yes, as long as Meta still makes them available. We run a one-time bulk read of each form’s existing leads, clean and deduplicate them, and import them into the CRM with a marker so your team knows they are older. Download or import historic leads early, because relying on Meta as long-term storage for leads is not a good plan." },
     { question: "Is it legal to message Facebook leads on WhatsApp?", answer: "WhatsApp requires an opt-in before businesses send business-initiated messages, so we add a clear consent question to the form and only send templates to leads who agree. India’s Digital Personal Data Protection Act, 2023 also governs personal data. We are developers, not lawyers, so confirm your obligations with your own adviser; the integration records consent and opt-outs to support them." },
     { question: "How long does the setup take?", answer: "The core flow, from form to CRM with a salesperson alert, is usually live in the first week after access is granted. WhatsApp templates, routing, duplicate handling and feedback to Meta take another one to three weeks. Meta’s own reviews of apps or message templates can add a few days, and we tell you whenever a step is waiting on Meta rather than on us." },
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Stop downloading leads by hand",
-    note: `Message us on WhatsApp with the instant forms you run and the CRM your team uses. We will suggest a setup, whether no-code or custom, and send an itemised quote in about two working days. Facebook lead ads CRM integration starts at ${P.ai}, with five months of free fixes after launch.`,
+    note: `Message us on WhatsApp with the instant forms you run and the CRM your team uses. We will suggest a setup, whether no-code or custom, and send an itemised quote in about two working days. Facebook lead ads CRM integration starts at ${P.ai}, with two months of free fixes after launch.`,
   },
 };
 

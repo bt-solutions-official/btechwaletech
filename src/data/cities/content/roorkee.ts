@@ -30,11 +30,11 @@ const roorkee: CityContent = {
     eyebrow: "Roorkee · Uttarakhand",
     h1: "Websites, apps, SEO and AI automation for Roorkee's instrument makers, pharma vendors and campus-town businesses",
     lede:
-      "We are three remote engineers who build websites, product catalogues and WhatsApp automation for Roorkee businesses: survey instrument makers in Civil Lines, suppliers to the Bhagwanpur pharma belt, coaching institutes, PG owners, clinics and Ganeshpur shops. Prices are published, you talk straight to the developers, and the first five months of maintenance cost nothing.",
+      "We are three remote engineers who build websites, product catalogues and WhatsApp automation for Roorkee businesses: survey instrument makers in Civil Lines, suppliers to the Bhagwanpur pharma belt, coaching institutes, PG owners, clinics and Ganeshpur shops. Prices are published, you talk straight to the developers, and the first two months of maintenance cost nothing.",
     pills: ["Static sites from ₹10,000", "Instrument catalogues", "Pharma vendor profiles", "Hindi and English pages", "Replies seven days a week"],
   },
   quickAnswer:
-    "A basic business website for a Roorkee shop, clinic or workshop starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no Roorkee office, and include five months of free maintenance.",
+    "A basic business website for a Roorkee shop, clinic or workshop starts at ₹10,000 with us and usually goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000 and an online store at ₹50,000. We are three engineers working remotely, with no Roorkee office, and include two months of free maintenance.",
   snapshot: [
     { label: "Where it sits", value: "A city in Haridwar district, Uttarakhand, about 31 km from Haridwar on the road towards Delhi and Saharanpur" },
     { label: "Engineering heritage", value: "Thomason College, formally constituted in 1847, became IIT Roorkee in 2001; CSIR-CBRI also works from the city" },
@@ -51,7 +51,7 @@ const roorkee: CityContent = {
     ai: "WhatsApp replies that share price lists, stock and delivery estimates while you are on the shop floor or at a site.",
     data: "Sales, enquiry and dispatch figures pulled into one simple dashboard, so you can see which products and cities bring orders.",
     app: "Android and iOS apps for coaching attendance, hostel rent collection or field-service bookings, published on both app stores from ₹40,000.",
-    maintenance: "Five free months of updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
+    maintenance: "Two free months of updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
     "Roorkee has no shortage of technical people. What its smaller businesses lack is someone who will build a proper site, explain it in plain words and still answer the phone six months later. We quote in writing, keep everything in your name, and reply on WhatsApp every day of the week.",
@@ -176,7 +176,7 @@ const roorkee: CityContent = {
       paragraphs: [
         "A surprising number of Roorkee businesses have lost a website because a student or freelancer who built it graduated, moved away and stopped answering. The domain was in their name, the hosting was on their card, and nobody else had the passwords. When the renewal lapsed, the site simply vanished.",
         "We avoid that from day one. The domain and hosting are registered in your name, on your account. At launch you receive all logins, the full source code and a short written note explaining how everything fits together. If you later want another developer to take over, you can hand them that note and walk away, without any exit charge.",
-        "For five months after launch we maintain the site at no cost: content changes, price updates, fixes, security patches, backups and uptime and speed checks. After that, maintenance continues from ₹8,000 a month if you want us to keep looking after it, or you can call us only when something needs doing.",
+        "For two months after launch we maintain the site at no cost: content changes, price updates, fixes, security patches, backups and uptime and speed checks. After that, maintenance continues from ₹8,000 a month if you want us to keep looking after it, or you can call us only when something needs doing.",
       ],
     },
     {
@@ -265,9 +265,9 @@ const roorkee: CityContent = {
         "Yes. The domain and hosting are registered in your name, and at launch you get every login, the full source code and a short handover note. You can move to another developer at any time with no exit fee. This matters in Roorkee, where many sites were built by students who later moved away.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months we handle updates, fixes, security patches, backups and uptime checks free. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. There is no lock-in either way.",
+        "During the first two months we handle updates, fixes, security patches, backups and uptime checks free. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change. There is no lock-in either way.",
     },
     {
       question: "Can you guarantee first position on Google?",

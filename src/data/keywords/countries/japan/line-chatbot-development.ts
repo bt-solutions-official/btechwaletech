@@ -36,7 +36,7 @@ const content: FreelanceContent = {
     ["Platform", "LINE Messaging API and webhooks"],
     ["Languages", "Japanese and English, copy approved by you"],
     ["Hosting", "Your cloud account, Tokyo region by default"],
-    ["Maintenance", `5 months free, then from ${P.care}`],
+    ["Maintenance", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Developers covering bot, AI and cloud" },
@@ -199,7 +199,7 @@ const content: FreelanceContent = {
         "Admin screens for staff, such as a handoff inbox or audience builder",
       ],
       after: [
-        `Running costs come from your providers: the LINE plan, AI model usage, and a small cloud setup. After five months of free maintenance, optional care starts at ${P.care} per month.`,
+        `Running costs come from your providers: the LINE plan, AI model usage, and a small cloud setup. After two months of free maintenance, optional care starts at ${P.care} per month.`,
       ],
     },
     {
@@ -321,7 +321,7 @@ const content: FreelanceContent = {
         ["Booking bot", "Availability, book, change, cancel, reminders", `From ${P.ai}`, "3–4 weeks"],
         ["Bot inside a larger system", "Admin panel, CRM workflows, multi-store logic", `From ${P.software}`, "6–12 weeks"],
         ["Bot plus ecommerce store", "New store with LINE bot and notifications", `From ${P.shop}`, "4–8 weeks"],
-        ["Care after launch", "Content tuning, API updates, monitoring", `From ${P.care}`, "Monthly, after 5 free months"],
+        ["Care after launch", "Content tuning, API updates, monitoring", `From ${P.care}`, "Monthly, after 2 free months"],
       ],
     },
     {
@@ -369,7 +369,7 @@ const content: FreelanceContent = {
       ["Channel and accounts", "You create the Messaging API channel, AI provider account and cloud account in your name and add us with the least access that works."],
       ["Content and build", "We clean and index your content, build the flows and integrations, and put a test bot on your phone within the first two weeks."],
       ["Staff test and tone check", "Your team asks real questions, marks answers in a shared sheet and approves the Japanese register; we fix sources and flows."],
-      ["Launch and tune", "The bot goes live for all friends, and we watch the unanswered-question log closely, with five months of free maintenance to follow."],
+      ["Launch and tune", "The bot goes live for all friends, and we watch the unanswered-question log closely, with two months of free maintenance to follow."],
     ],
   },
   faqHeading: "LINE chatbot development: frequently asked questions",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Is chat data safe with a developer in India?", answer: "Logs stay in your cloud account in the Tokyo region, encrypted, with role-based access. Our access to production is limited and logged, identifiers can be stripped before messages reach the AI model, and payment details are never processed by the bot. Your lawyer should confirm how APPI applies to your setup." },
     { question: "Why hire a remote team in India for LINE chatbot development?", answer: `You work directly with the three developers who build it, covering AI, cloud and integrations, with afternoon overlap from about 12:30 JST and WhatsApp replies seven days a week. AI bots start at ${P.ai}. The trade-off is that we work in English, so you supply or approve all Japanese wording.` },
     { question: "How do we pay for a LINE chatbot project from Japan?", answer: "Proposals are in USD and can be paid in USD or JPY by Wise or bank wire, in milestones written into the proposal. Nothing is billed before your written approval, and invoices come from India. Your accountant can advise on how to record overseas invoices." },
-    { question: "What maintenance does a LINE chatbot need?", answer: `Content changes whenever prices, policies or products change, the unanswered-question log needs regular review, and LINE and AI provider APIs evolve. You get five months of free maintenance after launch; optional care after that starts at ${P.care} per month and covers tuning, updates and monitoring.` },
+    { question: "What maintenance does a LINE chatbot need?", answer: `Content changes whenever prices, policies or products change, the unanswered-question log needs regular review, and LINE and AI provider APIs evolve. You get two months of free maintenance after launch; optional care after that starts at ${P.care} per month and covers tuning, updates and monitoring.` },
     { question: "Does a LINE chatbot help with SEO or AI search visibility?", answer: "Chats inside LINE are not indexed by search engines. The content you prepare for the bot, however, makes a strong FAQ page on your website, which search engines and AI assistants can read and cite. We often publish the cleaned FAQ as a structured page at the same time as the bot launches." },
     { question: "Can a LINE bot be used by our staff internally?", answer: "Yes. Teams that already coordinate on LINE use bots for shift swaps, stock checks, daily reports or answers from internal manuals. The build is similar to a customer bot, with access limited to staff accounts and content drawn from internal documents instead of public FAQs." },
     { question: "What does BtechWaleTech not do for LINE chatbot projects?", answer: "We do not staff your chat inbox, write Japanese marketing copy, choose your LINE plan for you, or give legal advice on privacy. We do not visit your premises. We build, test and tune the bot and its integrations, and we say early if part of the project needs another specialist." },

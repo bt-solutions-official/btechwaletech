@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Billing starts", "Only after written approval"],
     ["Accounts and code", "Registered to you, not us"],
     ["Direct contact", "WhatsApp, 7 days a week, IST"],
-    ["Aftercare", "5 months free after launch"],
+    ["Aftercare", "2 months free after launch"],
   ],
   stats: [
     { value: "3", label: "Developers you can interview directly" },
     { value: "2", label: "Working days to an itemised quote" },
     { value: "0", label: "Platform or middleman fees" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "How do you hire a web developer in India without getting burned?",
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Step 4", value: "Paid test task of one to three days" },
       { label: "Step 5", value: "Contract: scope, milestones, ownership, support" },
       { label: "Typical first build", value: `Static site from ${P.site}, 1–2 weeks` },
-      { label: "After launch", value: `5 free months, then care from ${P.care}` },
+      { label: "After launch", value: `2 free months, then care from ${P.care}` },
     ],
   },
   services: {
@@ -195,7 +195,7 @@ const content: FreelanceContent = {
       heading: "How much does it cost to hire a web developer in India?",
       paragraphs: [
         `It depends on whether you hire per project, per month or as a salaried employee, and on what the site must do. Project pricing is the most common for business websites because you know the total before work starts.`,
-        `Our starting points: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website of 299+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software} and Android plus iOS apps from ${P.app}. Monthly SEO starts at ${P.seo}, and maintenance, once the five free months end, starts at ${P.care}.`,
+        `Our starting points: a static website of up to 100 pages from ${P.site} (${P.siteUsd}), an SEO website of 299+ pages from ${P.seoSite}, an online store from ${P.shop}, a custom web app from ${P.software} and Android plus iOS apps from ${P.app}. Monthly SEO starts at ${P.seo}, and maintenance, once the two free months end, starts at ${P.care}.`,
         `Across the wider market, quotes vary widely for the same brief. The spread comes from whether design is custom or a bought theme, who writes content, how many integrations there are, what testing is done and how much aftercare is included. Compare scope line by line before comparing totals. For hourly versus project billing, see <a href='/freelance-web-developer-rates/'>web developer rates explained</a>.`,
       ],
     },
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Handover is where many hires quietly fail. The site works, the developer moves on, and months later nobody knows where the code lives or when the domain renews. Put the handover list in the contract so it is not an afterthought.`,
         `At minimum you should receive: access to the code repository in your account, the admin login for any CMS, the DNS records written down, a list of every paid service with renewal dates and who pays, Google Search Console and analytics ownership, and a short note explaining how to change common content. If the build uses environment variables or API keys, those should be stored in your accounts, not the developer's.`,
-        `We send this as a single document on launch day and walk through it on a call. Then the five free months of maintenance begin, so you have time to ask questions while the build is fresh.`,
+        `We send this as a single document on launch day and walk through it on a call. Then the two free months of maintenance begin, so you have time to ask questions while the build is fresh.`,
       ],
     },
     {
@@ -301,7 +301,7 @@ const content: FreelanceContent = {
       heading: "Web developer hire karna hai? Pehle yeh 5 kaam kijiye",
       paragraphs: [
         `Ek page ka brief likhiye: business kya hai, website se kya chahiye, kitne pages, aur budget kitna hai. Wahi brief do-teen developers ko bhejiye. Jo developer sawal pooche aur quote ko line by line tod kar de, usko shortlist kijiye.`,
-        `Chhota paid test task dijiye, jaise sirf home page. Kaam pasand aaye toh likhit agreement kijiye: scope, payment stages, aur domain-hosting aapke naam par. Hamare saath simple website ${P.site} se shuru hoti hai, quote lagbhag 2 working days mein milta hai, aur launch ke baad 5 mahine maintenance free hai.`,
+        `Chhota paid test task dijiye, jaise sirf home page. Kaam pasand aaye toh likhit agreement kijiye: scope, payment stages, aur domain-hosting aapke naam par. Hamare saath simple website ${P.site} se shuru hoti hai, quote lagbhag 2 working days mein milta hai, aur launch ke baad 2 mahine maintenance free hai.`,
       ],
     },
   ],
@@ -387,7 +387,7 @@ const content: FreelanceContent = {
       ["Optional paid test", "For larger projects, start with a small paid slice such as the home page, so you judge our work before committing the full budget."],
       ["Accounts in your name", "Domain, hosting, repository and analytics are created under your email on a short call, and we are added as users."],
       ["Build with staging links", "Each milestone appears on a private link you can check on your phone. Payments follow milestones you have seen working."],
-      ["Launch, handover, free care", "We go live, hand over every login and a renewals list, and cover fixes and small edits free for five months."],
+      ["Launch, handover, free care", "We go live, hand over every login and a renewals list, and cover fixes and small edits free for two months."],
     ],
   },
   faqHeading: "Hiring a web developer: common questions",
@@ -407,9 +407,9 @@ const content: FreelanceContent = {
     { question: "Do I need to be technical to hire a web developer?", answer: "No. You need to be clear about what the site should achieve and willing to check work on your phone. Use a fixed interview question list, compare itemised quotes, and rely on a paid test task to judge quality. Developers who explain choices in plain language are easier to work with and usually more reliable." },
     { question: "Should I sign an NDA with a web developer?", answer: "Sign one if you will share customer data, unreleased products, pricing strategy or internal systems. For a simple brochure site it is usually unnecessary. A reasonable NDA is short and mutual, covers what is confidential and for how long, and does not stop the developer showing the public website in a portfolio unless you both agree otherwise." },
     { question: "Can I hire the same web developer for SEO and apps later?", answer: `You can if they have those skills. BtechWaleTech covers monthly SEO from ${P.seo} and Android and iOS apps from ${P.app}, so the team that built your website can extend it without re-learning your business. Just be wary of anyone who promises guaranteed rankings, since nobody controls those.` },
-    { question: "What happens after the web developer launches my site?", answer: `You should receive a handover pack with logins, repository access, DNS details and a renewals list. Then comes support. BtechWaleTech covers fixes, updates and small edits free for five months after launch; after that, maintenance is optional and starts at ${P.care}, or you can manage the site yourself or pass it to another developer.` },
+    { question: "What happens after the web developer launches my site?", answer: `You should receive a handover pack with logins, repository access, DNS details and a renewals list. Then comes support. BtechWaleTech covers fixes, updates and small edits free for two months after launch; after that, maintenance is optional and starts at ${P.care}, or you can manage the site yourself or pass it to another developer.` },
     { question: "How do I hire a web developer for a startup?", answer: "Start with the smallest site that explains the product and captures sign-ups, then add features as you learn. Hire someone who can build fast pages, set up analytics and later extend the site into a web app. Keep the code in your company's repository from the first commit, since investors may ask about it." },
-    { question: "Web developer hire karne se pehle kya check karein?", answer: `Unka live kaam apne phone par kholkar dekhiye, quote line by line maangiye, aur poochiye ki domain-hosting kiske naam par hoga. Chhota paid test task dijiye aur payment stages mein kijiye. BtechWaleTech ke saath simple website ${P.site} se shuru hoti hai, approval ke baad hi billing hoti hai, aur 5 mahine maintenance free hai.` },
+    { question: "Web developer hire karne se pehle kya check karein?", answer: `Unka live kaam apne phone par kholkar dekhiye, quote line by line maangiye, aur poochiye ki domain-hosting kiske naam par hoga. Chhota paid test task dijiye aur payment stages mein kijiye. BtechWaleTech ke saath simple website ${P.site} se shuru hoti hai, approval ke baad hi billing hoti hai, aur 2 mahine maintenance free hai.` },
     { question: "Can I hire a web developer in India if I am based abroad?", answer: `Yes. Many businesses in the USA, UK, Canada, Australia and the UAE hire Indian developers remotely. BtechWaleTech bills in USD, with a static site from ${P.siteUsd}, overlaps some working hours for calls, shares staging links for review and accepts payment through Wise, bank wire or PayPal, with ownership in your name.` },
   ],
   related: {

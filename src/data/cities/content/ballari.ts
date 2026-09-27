@@ -30,11 +30,11 @@ const ballari: CityContent = {
     eyebrow: "Ballari · Karnataka",
     h1: "Websites, apps, SEO and automation that get Ballari's jeans makers, steel-belt vendors and shops found online",
     lede:
-      "A remote team of three engineers making websites, wholesale catalogues and WhatsApp automations for Ballari: denim units and washing plants, contractors serving the steel and mining belt towards Toranagallu and Sanduru, hospitals near VIMS, and retailers in Cowl Bazaar and Brucepet. Every price is public, you work with the builders directly, and five months of upkeep cost nothing.",
+      "A remote team of three engineers making websites, wholesale catalogues and WhatsApp automations for Ballari: denim units and washing plants, contractors serving the steel and mining belt towards Toranagallu and Sanduru, hospitals near VIMS, and retailers in Cowl Bazaar and Brucepet. Every price is public, you work with the builders directly, and two months of upkeep cost nothing.",
     pills: ["Sites from ₹10,000", "Jeans wholesale catalogues", "Kannada, Telugu, Urdu, English", "Vendor profiles for steel plants", "Owner-held domain and code"],
   },
   quickAnswer:
-    "A basic website for a Ballari business costs from ₹10,000 with us and takes one to two weeks. Thirty SEO pages start at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely, with no office in Ballari, and the first five months of maintenance after launch are free.",
+    "A basic website for a Ballari business costs from ₹10,000 with us and takes one to two weeks. Thirty SEO pages start at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are three engineers working remotely, with no office in Ballari, and the first two months of maintenance after launch are free.",
   snapshot: [
     { label: "Name", value: "Officially Ballari since November 2014 (formerly Bellary); a city corporation since 2004" },
     { label: "Garment cluster", value: "Around 260 denim garment units, a trade that grew from tailoring military uniforms during the Second World War" },
@@ -51,10 +51,10 @@ const ballari: CityContent = {
     ai: "WhatsApp assistants that send the latest jeans catalogue, lot sizes, OPD timings or fees in Kannada, Telugu or English and flag serious buyers to you.",
     data: "Production, dispatch and receivables pulled into one dashboard, so a unit owner can see which retailers are overdue before calling them.",
     app: "Android and iPhone apps for retailer re-orders, patient appointments or site reporting, published on Google Play and the App Store in six to ten weeks.",
-    maintenance: "Catalogue refreshes, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Catalogue refreshes, backups, security patches and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Ballari owners usually hear from a local freelancer, a Hosapete or Bengaluru agency, or a directory salesman offering a listing package. Rates are rarely written down and the maker often vanishes after launch. Our rates are public, WhatsApp replies come every day of the week, and the first five months of care are included.",
+    "Ballari owners usually hear from a local freelancer, a Hosapete or Bengaluru agency, or a directory salesman offering a listing package. Rates are rarely written down and the maker often vanishes after launch. Our rates are public, WhatsApp replies come every day of the week, and the first two months of care are included.",
   pricingIntro:
     "Few Ballari website offers come with a written breakdown. Below are the prices we actually start from. Pages, features and how much material you can hand over decide the final amount, which you see line by line before anything begins.",
   sections: [
@@ -172,11 +172,11 @@ const ballari: CityContent = {
     },
     {
       id: "ownership-ballari",
-      heading: "You keep the keys: domain, hosting, code and five free months",
+      heading: "You keep the keys: domain, hosting, code and two free months",
       paragraphs: [
         "Ask a few Ballari business owners about their first website and you will hear similar stories: the person who made it moved to Bengaluru, the domain lapsed, and the business name was bought by someone else. Once that happens, getting it back is slow and sometimes impossible.",
         "We register the domain under your business, open the hosting in an account you control, and hand over all passwords, the complete source code and a one-page explanation of the setup on launch day. Switching to another developer later costs nothing.",
-        "The five months after launch come with free maintenance: edits to text and prices, bug fixes, security patches, backups, uptime monitoring and speed checks. From then on it is from ₹8,000 a month, or pay only for the changes you ask for.",
+        "The two months after launch come with free maintenance: edits to text and prices, bug fixes, security patches, backups, uptime monitoring and speed checks. From then on it is from ₹8,000 a month, or pay only for the changes you ask for.",
       ],
     },
     {
@@ -264,9 +264,9 @@ const ballari: CityContent = {
         "You do. The domain is in your business name, the hosting account is yours, and at launch you receive every password and the full source code. You can take the site to any other developer without paying us anything. We are firm on this because lost domains are a common problem among older Ballari websites.",
     },
     {
-      question: "What happens during the five free months of maintenance?",
+      question: "What happens during the two free months of maintenance?",
       answer:
-        "We make text and price changes, fix bugs, apply security patches, keep backups, monitor uptime and check loading speed, all without charge for five months after launch. After that you can continue from ₹8,000 a month or contact us only when a change is needed.",
+        "We make text and price changes, fix bugs, apply security patches, keep backups, monitor uptime and check loading speed, all without charge for two months after launch. After that you can continue from ₹8,000 a month or contact us only when a change is needed.",
     },
     {
       question: "When will SEO start bringing enquiries in Ballari?",

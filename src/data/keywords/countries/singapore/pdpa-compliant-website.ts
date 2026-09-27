@@ -73,7 +73,7 @@ const content: FreelanceContent = {
       { name: "Secure portals and admin panels", note: `Client or patient portals with role-based access, encryption and audit logs, quoted as custom software from ${P.software}.`, href: "/singapore/outsource-software-development/", size: "md" },
       { name: "Ecommerce privacy features", note: `Guest checkout, data-minimised address forms and retention rules for order data, on stores from ${P.shop}.`, href: "/singapore/ecommerce-website-design/", size: "sm" },
       { name: "Privacy-aware AI and chat", note: `Chatbots and automations configured not to store more than they need, with retention settings, from ${P.ai}.`, href: "/singapore/ai-chatbot-development/", size: "sm" },
-      { name: "Ongoing care and logs", note: `Plugin and dependency updates, backup checks and log reviews. Care plans from ${P.care} after five free months.`, href: "/singapore/website-maintenance/", size: "sm" },
+      { name: "Ongoing care and logs", note: `Plugin and dependency updates, backup checks and log reviews. Care plans from ${P.care} after two free months.`, href: "/singapore/website-maintenance/", size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "PDPA compliant website pricing",
-    note: `A new brochure site of up to 100 pages with consent-ready forms, a cookie preference centre and a data protection contact page starts at ${P.site}. Larger content sites start at ${P.seoSite}, and online stores with privacy-minded checkout start at ${P.shop}. Portals that hold sensitive records, with role-based access and audit logs, are custom software from ${P.software}. Reworking an existing site is quoted per form, script and integration after a technical inventory. After five months of free maintenance, care starts at ${P.care}. All prices are USD starting points, itemised in writing before any work is billed.`,
+    note: `A new brochure site of up to 100 pages with consent-ready forms, a cookie preference centre and a data protection contact page starts at ${P.site}. Larger content sites start at ${P.seoSite}, and online stores with privacy-minded checkout start at ${P.shop}. Portals that hold sensitive records, with role-based access and audit logs, are custom software from ${P.software}. Reworking an existing site is quoted per form, script and integration after a technical inventory. After two months of free maintenance, care starts at ${P.care}. All prices are USD starting points, itemised in writing before any work is billed.`,
   },
   guideLabel: "PDPA compliant website guide",
   guide: [
@@ -367,7 +367,7 @@ const content: FreelanceContent = {
       ["Minimise and redesign forms", "Unneeded fields go, purpose notices and unticked consent boxes arrive, and marketing opt-ins are split out and recorded with their wording."],
       ["Cookie panel and scripts", "Analytics and advertising tags move behind a preference panel, and we show you in the browser that nothing loads before consent."],
       ["Secure storage and logs", "Data moves to encrypted storage in your hosting account, admin roles are set up, and access and export logs are switched on."],
-      ["Counsel review and launch", "Your lawyer or DPO approves the notice, DPO page and consent text, we publish exactly that, and five months of free maintenance begin."],
+      ["Counsel review and launch", "Your lawyer or DPO approves the notice, DPO page and consent text, we publish exactly that, and two months of free maintenance begin."],
     ],
   },
   faqHeading: "PDPA compliant website in Singapore: frequently asked questions",
@@ -390,7 +390,7 @@ const content: FreelanceContent = {
     { question: "Can my AI chatbot be PDPA compliant?", answer: "A chatbot can be set up to support your obligations: a notice before the chat starts, limits on what is stored and for how long, no unnecessary personal data sent to the AI model, and clear information on where processing happens. We configure those settings; your counsel reviews the notice and any overseas processing." },
     { question: "How do I pay for PDPA website work?", answer: "You receive an itemised quote in USD and invoices from India, payable by Wise or bank wire. Milestones and any extra terms your counsel asks for are written into the quote before work begins, and nothing is billed until you approve it. For the tax treatment of an overseas invoice, ask your accountant." },
     { question: "Who owns the data and the website after the build?", answer: "You do. The domain, hosting account, database, code and every record belong to your organisation, and you receive all logins at handover. We do not keep copies of your visitors' data. After launch you can remove our access entirely or keep a limited role for maintenance." },
-    { question: "What does ongoing PDPA-related maintenance involve?", answer: `Keeping plugins and dependencies patched, checking that cookie behaviour still works after tag changes, running scheduled deletion of old records, reviewing access logs and testing backups. The first five months after launch are free; after that, care plans start at ${P.care}. We also update the inventory when you add a new tool.` },
+    { question: "What does ongoing PDPA-related maintenance involve?", answer: `Keeping plugins and dependencies patched, checking that cookie behaviour still works after tag changes, running scheduled deletion of old records, reviewing access logs and testing backups. The first two months after launch are free; after that, care plans start at ${P.care}. We also update the inventory when you add a new tool.` },
     { question: "Should my ecommerce checkout collect less data?", answer: "Usually yes. Offer guest checkout, ask for a delivery address only when items ship, avoid date of birth unless you sell age-restricted goods, and keep marketing consent as a separate unticked box. Payment details should be handled by your payment provider's secure fields rather than stored on your server." },
     { question: "Can a PDPA compliant website still run remarketing ads?", answer: "Yes, with consent. Advertising pixels and remarketing tags load only after a visitor opts in through the cookie preference panel. Your audiences will be smaller than with blanket tracking, but the people in them chose to be there, which matches the PDPC's view that targeted advertising through cookies needs consent." },
   ],

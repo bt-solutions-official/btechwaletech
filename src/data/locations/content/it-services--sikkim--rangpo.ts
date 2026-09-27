@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Pharma vendor portals", "Load and trip trackers", "Transit hotel bookings", "Business websites from ₹10,000", "SEO basics done properly"],
   },
   quickAnswer:
-    "For Rangpo businesses, BtechWaleTech, a freelance group of three remote engineers, builds business websites and service pages from ₹10,000 (1 to 2 weeks), WhatsApp and AI automation from ₹40,000 (2 to 4 weeks) and custom vendor or logistics software from ₹60,000 (6 to 12 weeks). Quotes are itemised in about two working days, with five months of free maintenance after launch.",
+    "For Rangpo businesses, BtechWaleTech, a freelance group of three remote engineers, builds business websites and service pages from ₹10,000 (1 to 2 weeks), WhatsApp and AI automation from ₹40,000 (2 to 4 weeks) and custom vendor or logistics software from ₹60,000 (6 to 12 weeks). Quotes are itemised in about two working days, with two months of free maintenance after launch.",
   snapshot: [
     { label: "Gateway role", value: "The main road entry into Sikkim from West Bengal on NH10, where the Rangpo river joins the Teesta" },
     { label: "Administration", value: "A municipal town in Pakyong district, roughly 40 km from Gangtok by road" },
@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants that answer booking, fare, load and document questions in Nepali, Hindi or English and pass real work to staff.",
     data: "Dashboards showing trips, loads, receivables from plants, room occupancy or staff hours for Rangpo businesses.",
     app: "Android and iOS apps from ₹40,000 for Rangpo transporters, pharma contractors and Majitar hostels: driver trip logs, supervisor attendance and resident apps, published on Google Play and the App Store.",
-    maintenance: "Backups, updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Backups, updates and uptime checks, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Rangpo businesses often depend on providers from Siliguri or Gangtok who build a site once and disappear. A freelance group of three engineers offers steady, practical support: written starting prices, software fitted to contractor and transport workflows, and replies on WhatsApp every day.",
@@ -178,7 +178,7 @@ const content: CityContent = {
       id: "rangpo-cloud-maintenance",
       heading: "Hosting, maintenance and support for Rangpo businesses",
       paragraphs: [
-        "BtechWaleTech hosts Rangpo websites and software on reliable cloud servers with daily backups, SSL and uptime monitoring, includes five months of free maintenance after launch, and offers plans from ₹8,000 a month afterwards, so compliance records and bookings stay safe even when local networks or office computers fail.",
+        "BtechWaleTech hosts Rangpo websites and software on reliable cloud servers with daily backups, SSL and uptime monitoring, includes two months of free maintenance after launch, and offers plans from ₹8,000 a month afterwards, so compliance records and bookings stay safe even when local networks or office computers fail.",
         "Updates are handled by the engineers who built your system. Send a change on WhatsApp and it is usually done within a working day. Security patches and backups run in the background.",
         "We do not provide on-site hardware or networking support; for office computers and CCTV, a local technician remains the right choice.",
       ],
@@ -208,7 +208,7 @@ const content: CityContent = {
         "Android and iOS apps for Rangpo businesses start from ₹40,000 with BtechWaleTech and take six to ten weeks. We build one app in Flutter or React Native and publish it on Google Play and the Apple App Store, with login, forms, push notifications and an admin panel connected through an API to your portal or tracker.",
         "Transporters on the NH10 corridor benefit most from a driver app: each trip's load, route and advance, fuel and toll expenses entered on the spot, and a delivery photo as proof, all saved offline and synced when the signal returns. Manpower contractors serving the pharma units can give supervisors an attendance app that records check-ins by plant and shift. Clients can get a small tracking app showing dispatch status. Hostels and PGs near Majitar can offer residents an app for rent, complaints and mess menus, with alerts for parents.",
         "Drivers and workers typically carry low-cost Android phones, so the interface uses large buttons, Hindi or Nepali labels and minimal typing. Engineering students and visiting plant staff often have iPhones, which is why both stores are included. Developer accounts are registered in your business name, never ours.",
-        "When a mobile website is enough, such as a transit hotel's booking page, we recommend that instead. Store updates for new Android and iOS versions are covered in the first five months of free maintenance.",
+        "When a mobile website is enough, such as a transit hotel's booking page, we recommend that instead. Store updates for new Android and iOS versions are covered in the first two months of free maintenance.",
       ],
       list: [
         "Driver app: trips, expenses, delivery photos",
@@ -231,7 +231,7 @@ const content: CityContent = {
         "Monthly: hosting or cloud, heavier for portals holding photos and PDFs",
         "Usage-based: WhatsApp conversations and AI replies",
         "One-time: Google Play registration for Android apps",
-        "Optional: our support from ₹8,000 a month after 5 free months"
+        "Optional: our support from ₹8,000 a month after 2 free months"
       ]
     },
   ],
@@ -266,7 +266,7 @@ const content: CityContent = {
     { question: "Do you build Android and iOS apps for drivers and supervisors?", answer: "Yes. Android and iOS apps start from ₹40,000 and take six to ten weeks. Driver and supervisor apps save trips, expenses, attendance and delivery photos offline and sync when signal returns, which suits the NH10 corridor and plant interiors. We build in Flutter or React Native and publish on Google Play and the App Store in your name." },
     { question: "Can the chatbot reply in Nepali and Hindi?", answer: "Yes. The WhatsApp assistant can reply in Nepali, Hindi or English, following the customer's language. It answers only from information you approve and passes negotiations, disputes and payment questions to your staff." },
     { question: "Who owns the software and records?", answer: "You do. Domain, hosting, source code and database are registered in your name or transferred at handover. Your compliance records, customer data and trip history stay with you, and you can switch developers at any time." },
-    { question: "What does free maintenance cover?", answer: "Five months after launch: bug fixes, content updates, security patches, backups, uptime monitoring and performance checks. After that, plans start from ₹8,000 a month, or you can pay only for the changes you request. We reply on WhatsApp seven days a week." },
+    { question: "What does free maintenance cover?", answer: "Two months after launch: bug fixes, content updates, security patches, backups, uptime monitoring and performance checks. After that, plans start from ₹8,000 a month, or you can pay only for the changes you request. We reply on WhatsApp seven days a week." },
     { question: "How long before our hotel shows up on Google?", answer: "A verified Google Business Profile with the right category, photos and reviews can appear in map results within weeks. Website SEO usually takes three to six months. We do not guarantee rankings, but we set up the basics correctly and report progress monthly." },
     { question: "Do you set up computers or CCTV at plants?", answer: "No. We are remote software engineers and do not install hardware, CCTV or networks. A local technician should handle that. We build websites, portals, apps, automation and dashboards, and host and maintain them." },
     { question: "Can you build a website for a hostel near Majitar?", answer: "Yes. A static hostel website starts at ₹10,000, with room photos, rent, rules, meals and a request-to-book form. Adding room management and rent reminders is custom software from ₹60,000. Parents in other states appreciate clear pages and quick WhatsApp replies." },
@@ -275,7 +275,7 @@ const content: CityContent = {
     { question: "Can you manage several client plants in one vendor portal?", answer: "Yes. The portal can hold separate records for each client plant, including purchase orders, gate passes, labour lists, compliance documents and invoices, while giving the owner one combined view of dues and renewals. Supervisors can be limited to the plants they handle, and monthly reports can be generated per plant in the format each client expects." },
     { question: "Do you use AI to write our service pages?", answer: "We use AI tools to speed up drafts, but every page is checked and edited against the facts you give us: your real services, routes, vehicles, rates and contact details. We do not publish invented claims, fake reviews or copied text, because thin or inaccurate pages hurt search visibility and trust with Rangpo customers." },
     { question: "How do we start?", answer: "Message us on WhatsApp or use the <a href='/contact/'>contact page</a> with a few lines about your business and what you need. We usually arrange a short call, then send an itemised quote in about two working days. Work starts after approval and the first milestone payment." },
-    { "question":"Can we pause monthly support during slow months?","answer":"Yes. Support after the five free months is optional and billed monthly, so you can stop it and restart later. Hosting and domain renewals must continue, otherwise the website and data go offline. We show you how to keep auto-renew on and where each provider's bill arrives." },
+    { "question":"Can we pause monthly support during slow months?","answer":"Yes. Support after the two free months is optional and billed monthly, so you can stop it and restart later. Hosting and domain renewals must continue, otherwise the website and data go offline. We show you how to keep auto-renew on and where each provider's bill arrives." },
     { "question":"Will the attendance app work if the plant gate has weak signal?","answer":"Yes, if it is designed for that. The Android app can record check-ins offline with time and photo, then sync once the phone reaches signal. Supervisors see which entries are still waiting to upload, so gaps are visible rather than silently lost." },
   ],
   nearby: ["siliguri", "darjiling", "jalpaiguri", "kishanganj", "raiganj", "english-bazar"],

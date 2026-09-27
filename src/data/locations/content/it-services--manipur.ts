@@ -63,7 +63,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants and document automation that answer routine questions in English and Meitei and pass real enquiries to staff.",
     data: "Dashboards for NGOs, cooperatives and multi-branch businesses that pull scattered spreadsheets into one reliable view.",
     app: "Android and iOS apps for Manipur schools, clinics, academies and producers, built in Flutter or React Native with offline sync for the hills.",
-    maintenance: "Backups, fixes and security updates, free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Backups, fixes and security updates, free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Manipur has capable local developers, but many buyers still end up with a site built by a distant agency that never considered slow networks or Meitei script. We design for those realities first, and you talk directly to the engineers.",
@@ -203,7 +203,7 @@ const content: CityContent = {
       id: "cost-it-services-manipur",
       heading: "How much do IT services in Manipur cost?",
       paragraphs: [
-        "IT services in Manipur from BtechWaleTech start at ₹10,000 for a static website of up to 100 pages, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after the free five months.",
+        "IT services in Manipur from BtechWaleTech start at ₹10,000 for a static website of up to 100 pages, ₹20,000 for a 299+ page SEO website, ₹50,000 for an online store, ₹40,000 for AI automation, ₹40,000 for an Android and iOS app and ₹60,000 for custom software or web apps. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after the free two months.",
         "These are starting prices, not package prices. What you pay depends on pages, features, integrations, offline requirements and how much content is ready. You receive an itemised quote in about two working days, and nothing is billed until you approve it. The full table is on our <a href='/pricing/'>pricing page</a>.",
         "When comparing quotes from any IT company in Manipur or elsewhere, check what is included: hosting setup, deployment, source code handover, training and post-launch fixes. Cheaper quotes sometimes leave these out, which makes them more expensive in the end.",
       ],
@@ -227,7 +227,7 @@ const content: CityContent = {
       heading: "Timelines, payments and support for Manipur clients",
       paragraphs: [
         "Most Manipur projects take one to two weeks for a website, three to five weeks for a 299+ page SEO website, two to four weeks for automation, four to eight weeks for a store and six to twelve weeks for custom software. Timelines depend mostly on how quickly content and feedback reach us, and we plan around connectivity interruptions when they happen.",
-        "Payments are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account in rupees, usually in milestones. At launch you receive the source code, credentials, documentation and training, and five months of maintenance are included free.",
+        "Payments are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account in rupees, usually in milestones. At launch you receive the source code, credentials, documentation and training, and two months of maintenance are included free.",
         "To see every service in one place, visit our <a href='/services/'>services overview</a>, or explore neighbouring states such as <a href='/it-services/meghalaya/'>Meghalaya</a> and the wider <a href='/it-services/'>IT services directory</a>.",
       ],
     },
@@ -293,7 +293,7 @@ const content: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "Five months of maintenance after launch are included at no cost: bug fixes, small content updates, backups, security and dependency updates, and uptime checks. After that you can choose a monthly plan from ₹8,000 or pay only when you need changes. New features are quoted separately before any work starts.",
+        "Two months of maintenance after launch are included at no cost: bug fixes, small content updates, backups, security and dependency updates, and uptime checks. After that you can choose a monthly plan from ₹8,000 or pay only when you need changes. New features are quoted separately before any work starts.",
     },
     {
       question: "Can AI automation help a small Manipur business?",

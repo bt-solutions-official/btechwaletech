@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["App or portal on Sanity", `From ${P.software}`],
     ["Sanity plan", "Free tier or paid, in your name"],
     ["Quote", "Itemised in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Freelance developers on your Sanity build" },
     { value: "20", label: "Seats on Sanity's Free plan, per its pricing page" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "What does a Sanity CMS developer do, and what does a Sanity site cost?",
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "App, portal or multi-site build", value: `From ${P.software}, 6–12 weeks` },
       { label: "Sanity subscription", value: "Free tier or paid plan, billed to you by Sanity" },
       { label: "Ownership", value: "Sanity project, Studio code, front end and domain in your name" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -269,7 +269,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `You should own the Sanity project (under your organisation in Sanity's dashboard), the Studio code, the Next.js repository, the hosting account for the front end and the domain. We join as members with the access we need and step back at handover.`,
         `At handover you receive the repositories, a list of document types with plain-language descriptions for editors, notes on how preview and webhooks are wired, and guidance on your current plan's limits and how to watch usage in Sanity's dashboard. Studio and front-end dependencies are pinned and documented, so the next upgrade is a planned task.`,
-        `For five months after launch, maintenance is free: Studio and package updates, small fixes, new fields when editors ask for them, and help if usage approaches your plan's limits. After that, care starts at ${P.care} a month if you want it. Anything else is agreed in your written quote. If you ever leave Sanity, your content can be exported as JSON, and we can help you plan that move too.`,
+        `For two months after launch, maintenance is free: Studio and package updates, small fixes, new fields when editors ask for them, and help if usage approaches your plan's limits. After that, care starts at ${P.care} a month if you want it. Anything else is agreed in your written quote. If you ever leave Sanity, your content can be exported as JSON, and we can help you plan that move too.`,
       ],
     },
     {
@@ -318,7 +318,7 @@ const content: FreelanceContent = {
         ["App, portal or multi-brand hub", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Several front ends, custom roles, integrations"],
         ["AI helpers in the Studio", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Alt text, summary and translation drafts"],
         ["Mobile app on Sanity content", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Flutter or React Native reading the same content"],
-        ["Ongoing care", `From ${P.care}/month`, `From ${P.careUsd}/month`, "After 5 free months", "Updates, new fields, usage checks"],
+        ["Ongoing care", `From ${P.care}/month`, `From ${P.careUsd}/month`, "After 2 free months", "Updates, new fields, usage checks"],
       ],
     },
     {
@@ -383,7 +383,7 @@ const content: FreelanceContent = {
       ["Create the project in your name", "You create the Sanity project and repositories under your organisation and invite us, so ownership is settled from day one."],
       ["Build Studio and schemas first", "Editors try the Studio with sample content early, and we adjust navigation, fields and validation before the front end is finished."],
       ["Front end, preview and content", "The Next.js site, GROQ queries, image pipeline and preview are built while your team loads or migrates content."],
-      ["Launch and five months of care", "We go live, submit the sitemap in Google Search Console, hand over documentation and cover updates free for five months."],
+      ["Launch and two months of care", "We go live, submit the sitemap in Google Search Console, hand over documentation and cover updates free for two months."],
     ],
   },
   faqHeading: "Sanity CMS developer: common questions",
@@ -405,7 +405,7 @@ const content: FreelanceContent = {
     { question: "Can Sanity work with an online store?", answer: `Yes. A common pattern keeps products, prices and checkout in a commerce back end while Sanity manages editorial content: lookbooks, product stories, campaign pages and guides, referencing products by ID. The front end combines both. Store builds with us start at ${P.shop}, with UPI and card checkout in India and card or wallet checkout abroad.` },
     { question: "What is Portable Text in Sanity?", answer: "Portable Text is the structured format Sanity uses for rich text. Instead of storing raw HTML, it stores paragraphs, marks and custom blocks as JSON, so the same article can render as a web page, native app text or email. Developers decide which custom blocks editors may insert, such as product cards or callouts, which keeps long content consistent." },
     { question: "How do I pay for a Sanity project?", answer: "In India you pay by UPI or bank transfer; international clients pay by Wise, bank wire or PayPal, with quotes in USD. The itemised quote lists payment milestones, and nothing is billed before you approve it in writing. Sanity's subscription, if you need a paid plan, is paid by you directly to Sanity." },
-    { question: "What maintenance does a Sanity site need?", answer: `Periodic Studio and package updates, occasional new fields or document types as your content grows, checks on plan usage, and front-end dependency updates. We handle this free for five months after launch. After that, maintenance starts at ${P.care} a month if you want it, and many teams book it only during redesigns or campaign seasons.` },
+    { question: "What maintenance does a Sanity site need?", answer: `Periodic Studio and package updates, occasional new fields or document types as your content grows, checks on plan usage, and front-end dependency updates. We handle this free for two months after launch. After that, maintenance starts at ${P.care} a month if you want it, and many teams book it only during redesigns or campaign seasons.` },
     { question: "Can a mobile app use my Sanity content?", answer: `Yes. Flutter or React Native apps can query the same Sanity content through its API, so articles, product stories or menus stay in sync between web and app. We build apps and publish them on Google Play and the App Store under your developer accounts, starting at ${P.app}.` },
     { question: "Sanity CMS kya hai, aur kab use karna chahiye?", answer: `Sanity ek hosted headless CMS hai jisme content structured form mein store hota hai aur editors ek customisable Studio mein kaam karte hain. Agar aapki team mein kai log har hafte content daalte hain aur wahi content website aur app dono par dikhana hai, tab Sanity achha choice hai. Website ${P.seoSite} se shuru hoti hai.` },
   ],

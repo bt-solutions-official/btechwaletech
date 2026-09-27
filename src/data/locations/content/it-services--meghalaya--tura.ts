@@ -45,7 +45,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Software development in Tura with BtechWaleTech, a freelance group of three engineers, starts at ₹60,000 for custom software or a web app (6 to 12 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks) and a business website from ₹10,000 (1 to 2 weeks). We work remotely from India, have no Tura office, and include five months of free maintenance.",
+    "Software development in Tura with BtechWaleTech, a freelance group of three engineers, starts at ₹60,000 for custom software or a web app (6 to 12 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks) and a business website from ₹10,000 (1 to 2 weeks). We work remotely from India, have no Tura office, and include two months of free maintenance.",
   snapshot: [
     { label: "Role in the region", value: "Headquarters of West Garo Hills and the main town of the whole Garo Hills, seat of the Garo Hills Autonomous District Council" },
     { label: "Main languages", value: "Garo (A·chik) and English, with Bengali, Hindi and Assamese heard in the market" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "WhatsApp assistants and AI agents that answer fee, stock and appointment questions in English and simple Garo phrases you approve, day or night.",
     data: "Dashboards that turn sales, collection and attendance data into a one-screen daily view for owners who travel between Tura, Guwahati and Shillong.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native and published on Google Play and the App Store, for ordering, school updates and field staff across the Garo Hills.",
-    maintenance: "Updates, backups, bug fixes and uptime checks, free for five months after launch, then from ₹8,000 a month if you want us to stay on.",
+    maintenance: "Updates, backups, bug fixes and uptime checks, free for two months after launch, then from ₹8,000 a month if you want us to stay on.",
   },
   whyUsIntro:
     "Tura businesses usually choose between a relative who knows some web design and a big-city agency that has never seen the Garo Hills road. We sit in between: trained engineers, published starting prices, replies on WhatsApp seven days a week, and full handover of code and logins.",
@@ -185,7 +185,7 @@ const content: CityContent = {
       id: "it-support-maintenance-tura",
       heading: "IT support and maintenance after launch",
       paragraphs: [
-        "Every project includes five months of free maintenance once it is hosted and live. During that period we fix bugs, apply security updates, make small content changes, watch uptime and speed, and confirm that backups are running. After five months, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing.",
+        "Every project includes two months of free maintenance once it is hosted and live. During that period we fix bugs, apply security updates, make small content changes, watch uptime and speed, and confirm that backups are running. After two months, maintenance continues from ₹8,000 a month, or you can simply message us when something needs changing.",
         "Our support is remote. We cannot come to Tura to repair a printer or run network cable, and we do not pretend otherwise. What we do support is the software, hosting, domains, email setup, integrations and automations we built, plus guidance for your local hardware vendor when a problem sits between the two.",
         "Support requests come through WhatsApp or email, and we reply seven days a week. For urgent outages we prioritise restoring service first and explaining the cause afterwards. Many Tura clients keep us on a monthly plan simply because nobody in the office has time to manage updates, renewals and backups, and a lapsed domain or expired certificate costs far more than prevention.",
       ],
@@ -221,7 +221,7 @@ const content: CityContent = {
         "Step 2: itemised estimate in about two working days",
         "Step 3: screen map and data model agreed in writing",
         "Step 4: weekly demos on a staging link you can test on your phone",
-        "Step 5: launch, training by video call, and five months of free maintenance",
+        "Step 5: launch, training by video call, and two months of free maintenance",
       ],
     },
   ],
@@ -287,7 +287,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "The first five months after going live are covered free: bug fixes, security and dependency updates, small content edits, backups, uptime and speed checks. After that you can continue on a monthly plan from ₹8,000, or contact us only when something needs changing. Support covers what we built; local hardware repairs need a technician in Tura.",
+        "The first two months after going live are covered free: bug fixes, security and dependency updates, small content edits, backups, uptime and speed checks. After that you can continue on a monthly plan from ₹8,000, or contact us only when something needs changing. Support covers what we built; local hardware repairs need a technician in Tura.",
     },
     {
       question: "How soon will SEO bring customers from Tura searches?",

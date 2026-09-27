@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Platform", "WordPress or a static site, your choice"],
     ["Ownership", "Domain, hosting and content in your name"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who build and maintain your blog" },
     { value: "100", label: "Pages in the static plan before you outgrow it" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "0", label: "Platform or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Platform", value: "WordPress, or static with a simple editor" },
       { label: "Built in", value: "SEO structure, schema, sitemap, fast images" },
       { label: "Monetisation", value: "Ad slots, affiliate disclosures, email sign-ups" },
-      { label: "Support", value: `5 months free, then from ${P.care}` },
+      { label: "Support", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -90,7 +90,7 @@ const content: FreelanceContent = {
       ["SEO control", "Limited settings", "Plugin defaults", "Schema, sitemaps, categories and linking set up for you"],
       ["Monetisation", "Platform rules apply", "Ad code pasted anywhere", "Planned ad slots, affiliate disclosures, email capture"],
       ["Moving later", "Export can be partial", "Possible, if you have the logins", "Content in formats you can take anywhere"],
-      ["After launch", "Self-service", "Paid per fix", `5 months free, then from ${P.care}`],
+      ["After launch", "Self-service", "Paid per fix", `2 months free, then from ${P.care}`],
     ],
     fine: "If you only want to test whether you enjoy writing, a free blogging platform is a fine start; hire a blog website developer once you know you will keep publishing.",
   },
@@ -155,7 +155,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a blog website starts at ${P.site} (${P.siteUsd}) and takes 1–2 weeks. That covers the platform, design of the home, article, category, author and about pages, SEO setup, speed work and launch. A content site planned for hundreds of structured pages starts at ${P.seoSite} and takes 3–5 weeks.`,
         `Across the market, quotes vary widely. The gap usually comes from design depth, whether a theme is customised or pages are designed for your content, whether an existing archive has to be migrated, and what support is included after launch. A cheap install with a pirated theme can cost more in the end if it is slow, insecure or hard to move.`,
-        `Running costs are separate and paid to others: the domain renewal, hosting, an email newsletter service if you use one, and any premium theme or plugin licences. Static blogs usually have the lowest running costs. We list these in the quote so you know the yearly total. After five free months of maintenance, ongoing care starts at ${P.care}.`,
+        `Running costs are separate and paid to others: the domain renewal, hosting, an email newsletter service if you use one, and any premium theme or plugin licences. Static blogs usually have the lowest running costs. We list these in the quote so you know the yearly total. After two free months of maintenance, ongoing care starts at ${P.care}.`,
       ],
       after: [`For wider website budgets by type, see <a href='/website-making-cost-in-india/'>website making cost in India</a>.`],
     },
@@ -275,7 +275,7 @@ const content: FreelanceContent = {
         `This is a hypothetical example to show how a blog project is planned, not a client story.`,
         `A chartered accountant in a tier-2 city wants to explain GST, income tax and business registration topics in simple English and Hindi, so that small business owners who search for answers end up calling the practice.`,
         `We would propose a static blog on the practice's own domain, starting at ${P.site}, with two languages linked by hreflang, category hubs for GST, income tax and company matters, an author page listing the CA's qualifications, and Article and Person schema. Each post ends with a short “need help with this?” box linking to a WhatsApp chat. The CA writes; we set up a simple editor, an email sign-up for tax-deadline reminders and Search Console. No ads, because the income comes from clients.`,
-        `After launch, five months of free maintenance cover small template changes. If the CA later wants help with topic planning and technical reports, monthly SEO starts at ${P.seo}.`,
+        `After launch, two months of free maintenance cover small template changes. If the CA later wants help with topic planning and technical reports, monthly SEO starts at ${P.seo}.`,
       ],
     },
     {
@@ -316,7 +316,7 @@ const content: FreelanceContent = {
         ["Blog with store for products", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Creators selling physical products"],
         ["Membership or custom features", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Paid content, portals, tools"],
         ["Monthly blog SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Monthly", "Technical checks, topic plans, reports"],
-        ["Maintenance (after 5 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes"],
+        ["Maintenance (after 2 free months)", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Updates, backups, fixes"],
       ],
       hideSm: [2],
     },
@@ -368,7 +368,7 @@ const content: FreelanceContent = {
       ["Domain and hosting in your name", "We register or connect the domain and hosting under your email on a short call, or you create them and add us as users."],
       ["Review designs on a staging link", "Home, article, category and author pages appear on a private link. Test them on your phone with a real post of yours."],
       ["Launch with SEO in place", "Schema, sitemap, Search Console, analytics and redirects are set, then we publish and walk you through writing and scheduling posts."],
-      ["Five months of free care", `Fixes, updates and small template changes are free for five months. After that, maintenance from ${P.care} is optional; everything stays in your accounts.`],
+      ["Two months of free care", `Fixes, updates and small template changes are free for two months. After that, maintenance from ${P.care} is optional; everything stays in your accounts.`],
     ],
   },
   faqHeading: "Blog website developer: questions people ask",
@@ -388,8 +388,8 @@ const content: FreelanceContent = {
     { question: "Do I need a blog on my business website?", answer: "If customers search for answers before they buy, a blog helps them find you. Posts answering real questions, such as costs, how-tos and comparisons, can bring steady enquiries over time. A business blog needs clear links to your services and contact options inside posts, otherwise traffic rarely turns into customers." },
     { question: "Should I enable comments on my blog?", answer: "Only if you will moderate them. Comments can build community on creator blogs, but they attract spam and need regular attention. Many small and business blogs get better conversations by inviting replies by email, WhatsApp or social media. We can enable comments with spam filtering, moderate-first settings, or leave them off." },
     { question: "Can you add a newsletter to my blog?", answer: "Yes. We add sign-up forms at the end of posts and in other sensible places, connected to the email service you choose, plus an RSS feed. Your subscriber list stays in your own account with that service. Email is the one audience channel you control directly, so it is worth starting early." },
-    { question: "What maintenance does a blog need after launch?", answer: `WordPress blogs need regular core, theme and plugin updates, backups and spam control; static blogs need far less. BtechWaleTech includes five months of free maintenance after launch. After that, optional maintenance starts at ${P.care}, or you can manage updates yourself using the handover notes.` },
-    { question: "Blog website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath blog website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par hote hain. WordPress ya static, jo aapke liye sahi ho, wahi suggest karte hain. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur 5 mahine maintenance free hai.` },
+    { question: "What maintenance does a blog need after launch?", answer: `WordPress blogs need regular core, theme and plugin updates, backups and spam control; static blogs need far less. BtechWaleTech includes two months of free maintenance after launch. After that, optional maintenance starts at ${P.care}, or you can manage updates yourself using the handover notes.` },
+    { question: "Blog website banwane mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath blog website ${P.site} se shuru hoti hai aur 1–2 hafte mein live ho jaati hai. Domain aur hosting aapke naam par hote hain. WordPress ya static, jo aapke liye sahi ho, wahi suggest karte hain. Pehle itemised quote milta hai, approval ke baad hi payment hota hai, aur 2 mahine maintenance free hai.` },
     { question: "Can bloggers outside India hire your blog website developers?", answer: `Yes. Bloggers and publishers abroad work with us remotely, with designs shared on staging links and calls scheduled in overlapping hours. Blog websites are billed in USD from ${P.siteUsd} through Wise, bank wire or PayPal, with the domain and hosting kept in your own name.` },
   ],
   related: {
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Ready to work with a blog website developer?",
-    note: `Tell us on WhatsApp what you want to write about and what the blog should achieve. You will get an itemised quote in about two working days, blogs starting at ${P.site}, the domain and hosting in your name, and five months of free maintenance after launch.`,
+    note: `Tell us on WhatsApp what you want to write about and what the blog should achieve. You will get an itemised quote in about two working days, blogs starting at ${P.site}, the domain and hosting in your name, and two months of free maintenance after launch.`,
   },
 };
 

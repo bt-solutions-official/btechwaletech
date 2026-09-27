@@ -40,7 +40,7 @@ const content: CityContent = {
     pills: ["Case diary and practice tools", "Contractor billing and documents", "Lead capture for professionals", "Android and iOS apps from ₹40,000", "UPI QR or bank transfer only"],
   },
   quickAnswer:
-    "BtechWaleTech's freelance software developers build for Bilaspur, Chhattisgarh from ₹10,000 for professional websites with lead capture, ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, and ₹60,000 for case, contractor or mill software (six to twelve weeks). We are three remote engineers in India, and maintenance is free for five months after launch.",
+    "BtechWaleTech's freelance software developers build for Bilaspur, Chhattisgarh from ₹10,000 for professional websites with lead capture, ₹40,000 for Android and iOS apps (six to ten weeks) or AI automation, and ₹60,000 for case, contractor or mill software (six to twelve weeks). We are three remote engineers in India, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Legal centre", value: "Seat of the High Court of Chhattisgarh at Bodri, supporting a large community of advocates, notaries and law chambers" },
     { label: "Railway and coal headquarters", value: "Headquarters of South East Central Railway and of South Eastern Coalfields Ltd (SECL)" },
@@ -61,7 +61,7 @@ const content: CityContent = {
     ai: "AI agents that sort enquiries, summarise documents, draft routine letters for review and answer common questions in Hindi on WhatsApp.",
     data: "Dashboards for bills pending with railway and coal customers, mill yields, fee collections and enquiry-to-client conversion.",
     app: "Android and iOS apps from ₹40,000 for Bilaspur advocates, site supervisors, students and patients, built in Flutter or React Native and published on Google Play and the App Store.",
-    maintenance: "Backups, updates, fixes and small edits, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, updates, fixes and small edits, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Bilaspur's professionals and contractors need tools that respect how their work is organised: hearing dates, bill cycles, compliance papers and seasons. Generic software rarely fits. As a freelance group of three engineers, we build around your routine, explain it in Hindi and stay reachable on WhatsApp after the project ends.",
@@ -208,7 +208,7 @@ const content: CityContent = {
       heading: "What do freelance software developers in Bilaspur cost, and what support follows?",
       paragraphs: [
         "BtechWaleTech's starting prices for Bilaspur are ₹10,000 for a professional website (one to two weeks), ₹20,000 for a 299+ page SEO site, ₹40,000 for AI automation (two to four weeks), ₹40,000 for Android and iOS apps (six to ten weeks), ₹50,000 for an online store and ₹60,000 for case, contractor or mill software (six to twelve weeks). Monthly SEO starts at ₹10,000.",
-        "Every project includes five months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you pay per request. We reply on WhatsApp seven days a week. Read more <a href='/about/'>about us</a>, or see nearby pages for <a href='/it-services/chhattisgarh/korba/'>Korba</a>, <a href='/it-services/chhattisgarh/raipur/'>Raipur</a> and the <a href='/bilaspur/'>Bilaspur city page</a>.",
+        "Every project includes two months of free maintenance after hosting goes live, covering bug fixes, security updates, backups, uptime checks and small changes. Afterwards, plans start at ₹8,000 a month, or you pay per request. We reply on WhatsApp seven days a week. Read more <a href='/about/'>about us</a>, or see nearby pages for <a href='/it-services/chhattisgarh/korba/'>Korba</a>, <a href='/it-services/chhattisgarh/raipur/'>Raipur</a> and the <a href='/bilaspur/'>Bilaspur city page</a>.",
       ],
     },
     {
@@ -297,7 +297,7 @@ const content: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "Five months of maintenance are free after hosting goes live: bug fixes, security and library updates, backups, uptime and speed checks, and small changes such as new fields or formats. After that, plans start at ₹8,000 a month, or you can pay per request. Requests are answered on WhatsApp seven days a week.",
+        "Two months of maintenance are free after hosting goes live: bug fixes, security and library updates, backups, uptime and speed checks, and small changes such as new fields or formats. After that, plans start at ₹8,000 a month, or you can pay per request. Requests are answered on WhatsApp seven days a week.",
     },
     {
       question: "How long does local SEO take in Bilaspur?",

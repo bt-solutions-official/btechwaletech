@@ -37,7 +37,7 @@ const content: CityContent = {
     h1: "Freelance software developers in Thiruvananthapuram for institutions and custom tools",
     lede:
       "If you are weighing a software development team in Thiruvananthapuram against freelancers, meet BtechWaleTech: a freelance group of three engineers working remotely from India. We build custom tools for institutions and associations, clinic and coaching software, Android and iOS apps, AI and WhatsApp automation, dashboards, secure cloud hosting and SEO websites for Trivandrum organisations, with every account kept in your name.",
-    pills: ["Custom tools from ₹60,000", "Android and iOS apps from ₹40,000", "Coaching and exam apps", "Secure, role-based access", "5 months free maintenance"],
+    pills: ["Custom tools from ₹60,000", "Android and iOS apps from ₹40,000", "Coaching and exam apps", "Secure, role-based access", "2 months free maintenance"],
   },
   quickAnswer:
     "BtechWaleTech is a freelance group of three engineers serving Thiruvananthapuram remotely, as an alternative to a software development team in Thiruvananthapuram. Custom tools start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. No Trivandrum office; itemised quotes in about two working days.",
@@ -60,7 +60,7 @@ const content: CityContent = {
     ai: "AI assistants that answer member, patient and student questions from your own documents and route complex cases to staff.",
     data: "Dashboards for admissions, footfall, membership, collections and programme outcomes, built on data you already hold.",
     app: "Android and iOS apps for Trivandrum coaching centres, clinics and associations, built in Flutter or React Native and published on both stores, from ₹40,000.",
-    maintenance: "Five free months of fixes, security updates and backups after launch, then plans from ₹8,000 a month.",
+    maintenance: "Two free months of fixes, security updates and backups after launch, then plans from ₹8,000 a month.",
   },
   whyUsIntro:
     "Trivandrum organisations value credibility and careful handling of data, and many have been burned by vendors who disappeared after launch. We write the scope, show progress on a staging link, restrict access properly, hand over every login and stay reachable seven days a week.",
@@ -246,7 +246,7 @@ const content: CityContent = {
       id: "maintenance-support-trivandrum",
       heading: "Maintenance and support after launch",
       paragraphs: [
-        "Every BtechWaleTech project includes five months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
+        "Every BtechWaleTech project includes two months of free maintenance after hosting goes live: bug fixes, security and dependency updates, backups, uptime checks and small content changes. After that, plans start at ₹8,000 a month, or you pay per change.",
         "We reply on WhatsApp seven days a week. See our <a href='/it-services/kerala/'>Kerala IT services page</a>, read <a href='/about/'>about us</a> or <a href='/contact/'>send your requirement</a>.",
       ],
     },
@@ -308,7 +308,7 @@ const content: CityContent = {
     { question: "Do you build Android and iOS apps for coaching centres?", answer: "Yes. Android and iOS apps start at ₹40,000 and take about 6 to 10 weeks. We build once in Flutter or React Native with mock tests, question banks, push notifications and an admin panel, and publish on Google Play and the App Store in your name." },
     { question: "Can the software be in Malayalam?", answer: "Yes. Interfaces, messages, tests and web pages can be in Malayalam, English or both, with fonts that render properly on phones. We can add Tamil for patients or students from neighbouring districts. A native speaker should review final text." },
     { question: "Who owns the code and data?", answer: "You do. The repository, domain, hosting, database and app store accounts are in your name, and the data belongs to your organisation. At handover you get credentials and documentation so another developer can take over any time." },
-    { question: "What support is included after launch?", answer: "Five months of free maintenance once hosting is live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
+    { question: "What support is included after launch?", answer: "Two months of free maintenance once hosting is live: bug fixes, security and library updates, backups, uptime checks and small changes. After that, plans start at ₹8,000 a month, or you pay per change. We reply on WhatsApp seven days a week." },
     { question: "How long does SEO take in Thiruvananthapuram?", answer: "Usually three to six months for local results, sometimes longer for competitive coaching or medical terms. Pages index within weeks, but rankings build with content, reviews and time. We never guarantee positions." },
     { question: "Can AI answer member or student questions?", answer: "Yes. An AI assistant can answer questions from your own documents, such as rules, fees, schedules and syllabi, on your website or WhatsApp, and pass complex cases to staff. Projects start at ₹40,000 and take two to four weeks." },
     { question: "Do you handle government tenders?", answer: "No. We do not bid on government tenders, which usually need larger registered vendors. We work with associations, clinics, coaching centres, private institutions, startups and businesses that can engage a freelance group directly." },

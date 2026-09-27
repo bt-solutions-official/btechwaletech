@@ -7,7 +7,7 @@ const udaipur: CityContent = {
   meta: {
     title: "Udaipur Web Design, SEO & Online Stores",
     description:
-      "Websites for Udaipur hotels, wedding planners, marble firms and handicraft shops. Prices from ₹10,000, local SEO, WhatsApp automation, 5 months free upkeep.",
+      "Websites for Udaipur hotels, wedding planners, marble firms and handicraft shops. Prices from ₹10,000, local SEO, WhatsApp automation, 2 months free upkeep.",
     keywords: [
       "website development team in Udaipur",
       "web design Udaipur",
@@ -30,11 +30,11 @@ const udaipur: CityContent = {
     eyebrow: "Udaipur · Rajasthan",
     h1: "Websites, software, SEO and AI tools for Udaipur's hotels, crafts and trades",
     lede:
-      "Three remote engineers building fast websites, booking pages and automations for Udaipur: lakeside guesthouses, wedding planners, Hathi Pol craft shops, Sukher marble units and clinics in Hiran Magri. Every starting price is published, you work directly with the developers, and we look after the site free for five months after launch.",
+      "Three remote engineers building fast websites, booking pages and automations for Udaipur: lakeside guesthouses, wedding planners, Hathi Pol craft shops, Sukher marble units and clinics in Hiran Magri. Every starting price is published, you work directly with the developers, and we look after the site free for two months after launch.",
     pills: ["Websites from ₹10,000", "Hotel and wedding sites", "Marble and craft catalogues", "WhatsApp booking replies", "You own everything"],
   },
   quickAnswer:
-    "In Udaipur, a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are three engineers working remotely, without an Udaipur office. Each project includes hosting setup, Google search basics and five months of free maintenance after launch.",
+    "In Udaipur, a business website with us starts at ₹10,000 and a 299+ page SEO website at ₹20,000, delivered in one to five weeks. We are three engineers working remotely, without an Udaipur office. Each project includes hosting setup, Google search basics and two months of free maintenance after launch.",
   snapshot: [
     { label: "Tourist and old-city markets", value: "Hathi Pol, Bapu Bazaar, Bada Bazaar and the lanes around City Palace and Lake Pichola" },
     { label: "Newer commercial areas", value: "Chetak Circle, Hiran Magri sectors, Fatehpura and Shobhagpura" },
@@ -51,10 +51,10 @@ const udaipur: CityContent = {
     ai: "WhatsApp assistants that answer room, wedding-date and product questions in Hindi or English and log every enquiry.",
     data: "Occupancy, event and sales dashboards built from your booking exports and spreadsheets.",
     app: "Android and iOS apps for guest check-in details, wedding vendor coordination and dealer orders, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Rate and season updates, security patches and backups, free for five months and then from ₹8,000 a month.",
+    maintenance: "Rate and season updates, security patches and backups, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Udaipur businesses are often approached by agencies from Jaipur, Delhi or abroad selling expensive packages, and by local operators who disappear after launch. We publish prices, work directly with you on WhatsApp seven days a week, register everything in your name and support the site free for five months.",
+    "Udaipur businesses are often approached by agencies from Jaipur, Delhi or abroad selling expensive packages, and by local operators who disappear after launch. We publish prices, work directly with you on WhatsApp seven days a week, register everything in your name and support the site free for two months.",
   pricingIntro:
     "Website prices in Udaipur are rarely published and often depend on who is asking. These are our real starting figures. Your final quote depends on page count, languages, booking features and how much content you already have, and you receive it itemised before work begins.",
   sections: [
@@ -163,11 +163,11 @@ const udaipur: CityContent = {
     },
     {
       id: "ownership-udaipur",
-      heading: "You own the site; we maintain it free for five months",
+      heading: "You own the site; we maintain it free for two months",
       paragraphs: [
         "We often meet Udaipur hotels and shops whose site was built by someone who has since moved on. The domain is in the developer's name, nobody knows the hosting password, and the booking form has been silently failing for months. Recovering control can take weeks, and in the meantime you lose enquiries.",
         "From the start, your domain is registered in your name and your hosting is on an account you control. At launch you receive every login, the source code and a short explanation of how the site works. If you want to move to another developer, you can, immediately and without an exit fee.",
-        "Maintenance is free for the first five months after launch: rate and content updates, bug fixes, security updates, backups, uptime checks and speed checks. That usually covers the run-up to a tourist season. After that, maintenance continues from ₹8,000 a month, or you can pay only when you need a change.",
+        "Maintenance is free for the first two months after launch: rate and content updates, bug fixes, security updates, backups, uptime checks and speed checks. That usually covers the run-up to a tourist season. After that, maintenance continues from ₹8,000 a month, or you can pay only when you need a change.",
       ],
     },
     {
@@ -263,7 +263,7 @@ const udaipur: CityContent = {
     {
       question: "What is included in the free maintenance?",
       answer:
-        "For five months after launch we handle rate and content updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change and pay for that work alone.",
+        "For two months after launch we handle rate and content updates, bug fixes, security updates, backups, uptime monitoring and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can contact us only when you need a change and pay for that work alone.",
     },
     {
       question: "Can you guarantee a top Google ranking?",

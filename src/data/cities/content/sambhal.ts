@@ -31,11 +31,11 @@ const sambhal: CityContent = {
     eyebrow: "Sambhal · Uttar Pradesh",
     h1: "Websites, apps, SEO and AI automation for Sambhal's horn craft exporters, mentha oil traders and local shops",
     lede:
-      "A remote team of three engineers building websites, export catalogues and WhatsApp automation for businesses in Sambhal district: horn and bone craft workshops in Sarai Tarin, mentha oil distillers and traders, potato growers and cold stores, and the schools, clinics and shops of Sambhal, Chandausi and Bahjoi. Starting prices are published, and maintenance is free for five months.",
+      "A remote team of three engineers building websites, export catalogues and WhatsApp automation for businesses in Sambhal district: horn and bone craft workshops in Sarai Tarin, mentha oil distillers and traders, potato growers and cold stores, and the schools, clinics and shops of Sambhal, Chandausi and Bahjoi. Starting prices are published, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Export-ready catalogues", "Hindi, Urdu and English", "Mentha trade pages", "WhatsApp order replies"],
   },
   quickAnswer:
-    "A website for a Sambhal business starts from ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Sambhal office, and the first five months of maintenance are free.",
+    "A website for a Sambhal business starts from ₹10,000 with us and usually takes one to two weeks. A 299+ page SEO website starts from ₹20,000, an online store from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers with no Sambhal office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "District", value: "Sambhal district, carved out of Moradabad in 2012; district offices sit at Bahjoi, courts at Chandausi" },
     { label: "Distance", value: "About 158 km east of New Delhi, in the Moradabad division of western Uttar Pradesh" },
@@ -52,7 +52,7 @@ const sambhal: CityContent = {
     ai: "WhatsApp replies that send catalogues, MOQ details or daily rate lists in Hindi or English while you are in the workshop or at the mandi.",
     data: "Dispatch, payment and seasonal stock figures turned into one clear dashboard you can check from your phone.",
     app: "Android and iOS apps for artisan attendance, field purchase entries or school updates, available on Google Play and the App Store from ₹40,000.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Sambhal's products already reach Europe, the Gulf and big Indian cities, but the makers are rarely visible online. Most sell through buying agents who control the relationship. A well-built website lets buyers find you directly. We publish starting prices, work in Hindi and English, reply on WhatsApp seven days a week, and give you full ownership at launch.",
@@ -178,7 +178,7 @@ const sambhal: CityContent = {
       paragraphs: [
         "A common problem in smaller towns: someone builds the website, registers the domain in their own name, then stops answering. The business cannot renew it, and years of search presence vanish with it. For an exporter whose overseas buyers know only the web address, that can mean lost orders.",
         "We register the domain and hosting in your name from day one. At launch you receive every login, the full code and a short note explaining the setup. You can move the site to another developer whenever you like, with no exit fee.",
-        "Maintenance is free for five months after launch, covering content and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that it starts from ₹8,000 a month, or you can call us only when something needs changing.",
+        "Maintenance is free for two months after launch, covering content and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that it starts from ₹8,000 a month, or you can call us only when something needs changing.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const sambhal: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle content and price updates, bug fixes, security patches, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change.",
+        "For two months after launch we handle content and price updates, bug fixes, security patches, backups, uptime checks and speed checks at no charge. After that, maintenance starts from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "How soon will SEO show results?",

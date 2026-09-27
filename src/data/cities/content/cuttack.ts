@@ -31,11 +31,11 @@ const cuttack: CityContent = {
     eyebrow: "Cuttack · Odisha",
     h1: "Websites, search visibility and automation for Cuttack firms",
     lede:
-      "Three remote engineers building quick, honest websites for the Silver City: Choudhury Bazaar jewellers, Link Road showrooms, lawyers near the High Court, clinics around SCB and small units at Jagatpur and Khapuria. Prices are published up front, the code and domain are registered to you, and maintenance is free for five months after launch.",
-    pills: ["Sites from ₹10,000", "Odia and English pages", "Filigree and jewellery stores", "WhatsApp order flows", "Free upkeep for 5 months"],
+      "Three remote engineers building quick, honest websites for the Silver City: Choudhury Bazaar jewellers, Link Road showrooms, lawyers near the High Court, clinics around SCB and small units at Jagatpur and Khapuria. Prices are published up front, the code and domain are registered to you, and maintenance is free for two months after launch.",
+    pills: ["Sites from ₹10,000", "Odia and English pages", "Filigree and jewellery stores", "WhatsApp order flows", "Free upkeep for 2 months"],
   },
   quickAnswer:
-    "A business website for a Cuttack shop, clinic or practice starts at ₹10,000 with us and takes one to two weeks; a 299+ page SEO website starts at ₹20,000. We are three engineers working remotely, with no Cuttack office, and every build includes hosting setup, Google basics and five months of free maintenance.",
+    "A business website for a Cuttack shop, clinic or practice starts at ₹10,000 with us and takes one to two weeks; a 299+ page SEO website starts at ₹20,000. We are three engineers working remotely, with no Cuttack office, and every build includes hosting setup, Google basics and two months of free maintenance.",
   snapshot: [
     { label: "Trade streets", value: "Choudhury Bazaar, Buxi Bazaar, Link Road, Badambadi, Nayasarak and Chandni Chowk" },
     { label: "Industrial estates", value: "Jagatpur (IDCO), Khapuria and Madhupatna estates for MSME and ancillary units" },
@@ -52,7 +52,7 @@ const cuttack: CityContent = {
     ai: "WhatsApp assistants that answer repeat questions in Odia or English, log enquiries and remind patients or clients of appointments and hearing dates.",
     data: "Sales and inventory dashboards for Cuttack wholesalers, built from the Excel and Tally exports you already keep.",
     app: "Android and iOS apps for coaching batches, clinic bookings and distributor orders across Cuttack and Bhubaneswar, released on both stores from ₹40,000.",
-    maintenance: "Updates before Durga Puja and wedding season, security patches and backups, free for five months and then from ₹8,000 a month.",
+    maintenance: "Updates before Durga Puja and wedding season, security patches and backups, free for two months and then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Many Cuttack owners already paid someone for a website that stopped working after a year. The developer moved to Bhubaneswar or Bengaluru, the domain lapsed, and nobody has the login. We publish prices, register everything in your name, and answer WhatsApp every day of the week.",
@@ -168,7 +168,7 @@ const cuttack: CityContent = {
       paragraphs: [
         "A familiar Cuttack story: a website was made years ago by a nephew or a local operator, the domain was booked in that person's name, and now nobody can change a phone number on it. Sometimes the domain expires and gets taken by someone else. Recovering it can cost more than building a new site.",
         "We avoid this from the first day. The domain is registered in your business name, hosting is on an account you control, and at launch you receive every login, the source code and a one-page note on what runs where. If you later want another developer to take over, they can start immediately, and we charge nothing for the handover.",
-        "For five months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that it continues from ₹8,000 a month, or you can pay only when you need a change. There is no contract that locks you in.",
+        "For two months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that it continues from ₹8,000 a month, or you can pay only when you need a change. There is no contract that locks you in.",
       ],
     },
     {
@@ -262,9 +262,9 @@ const cuttack: CityContent = {
         "Completely. The domain is registered in your name, hosting sits on your account, and you receive all logins and the source code at launch. You can switch developers whenever you like without an exit fee. We insist on this because lost domains are one of the most common problems we see with older Cuttack websites.",
     },
     {
-      question: "What happens after the five free months of maintenance?",
+      question: "What happens after the two free months of maintenance?",
       answer:
-        "During the first five months after launch we handle updates, fixes, backups, security patches and speed checks at no cost. After that, maintenance continues from ₹8,000 a month. If your site rarely changes, you can skip the plan and contact us only when you need something done, paying for that work alone.",
+        "During the first two months after launch we handle updates, fixes, backups, security patches and speed checks at no cost. After that, maintenance continues from ₹8,000 a month. If your site rarely changes, you can skip the plan and contact us only when you need something done, paying for that work alone.",
     },
     {
       question: "Can you guarantee a first-page ranking on Google?",

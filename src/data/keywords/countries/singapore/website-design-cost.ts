@@ -27,7 +27,7 @@ const content: FreelanceContent = {
     eyebrow: "Singapore · Website design cost · Quoted in USD",
     h1: "Website design cost in Singapore: what you pay for, what you shouldn't, and how to read a quote",
     lede: `Website design cost in Singapore swings so widely that two quotes for the “same” company site can look like they come from different planets. The gap is rarely about the design itself; it is about scope, content, who does the writing, what happens after launch and which recurring fees are hidden in the package. BtechWaleTech is three freelance developers in India who build business websites for <a href='/singapore/'>Singapore companies</a> from ${P.site}. This page breaks the price down line by line so you can compare any quote with confidence.`,
-    pills: [`Business sites from ${P.site}`, `SEO sites from ${P.seoSite}`, "Itemised quote in ~2 working days", "Domain and hosting in your name", "5 months free maintenance", "No payment before written approval", "Working hours overlap with SGT"],
+    pills: [`Business sites from ${P.site}`, `SEO sites from ${P.seoSite}`, "Itemised quote in ~2 working days", "Domain and hosting in your name", "2 months free maintenance", "No payment before written approval", "Working hours overlap with SGT"],
     origin: "Three freelance developers in India · Singapore sites built remotely · WhatsApp replies 7 days a week",
   },
   facts: [
@@ -41,7 +41,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers on your build" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "100", label: "Pages allowed in the static website plan" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Online store", value: `From ${P.shop}, 4–8 weeks` },
       { label: "Custom portal or web app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Monthly SEO", value: `From ${P.seo}` },
-      { label: "Maintenance", value: `From ${P.care} after 5 free months` },
+      { label: "Maintenance", value: `From ${P.care} after 2 free months` },
       { label: "Billing", value: "USD quote; Wise, bank wire or PayPal" },
     ],
   },
@@ -82,7 +82,7 @@ const content: FreelanceContent = {
     columns: ["What you are paying for", "DIY site builder", "Singapore web agency", "BtechWaleTech (remote, India)"],
     rows: [
       ["Upfront spend", "Low; mostly your own hours", "Highest of the three", `From ${P.site} for a business site`],
-      ["Recurring fees", "Builder subscription every year", "Retainer often bundled in", `Hosting paid by you; care from ${P.care} after 5 free months`],
+      ["Recurring fees", "Builder subscription every year", "Retainer often bundled in", `Hosting paid by you; care from ${P.care} after 2 free months`],
       ["Who does the design work", "You, inside a template", "Designer plus account manager", "The same three developers who build it"],
       ["Content writing", "You", "Sometimes included, sometimes extra", "Structure and edits included; you approve all copy"],
       ["Ownership of code", "Locked to the builder", "Check the contract", "Code, domain and hosting in your name"],
@@ -158,7 +158,7 @@ const content: FreelanceContent = {
         `After launch you keep paying for three things: the domain name, the hosting and some form of maintenance. Many cheap packages look attractive only because these are bundled into the first year and then renewed at a higher rate.`,
         `The <strong>.sg domain</strong> is registered through an SGNIC-accredited registrar; SGNIC publishes the <a href='https://www.sgnic.sg/domain-registration/list-of-registrars' rel='noopener'>list of accredited registrars</a>. SGNIC's VerifiedID@SG process also asks the administrative contact to verify the registrant's identity, so the domain should be registered to your business with your own details, not to the web designer's account. Foreign applicants need a local administrative contact with a Singapore address, which is one more reason for the domain to sit with you.`,
         `<strong>Hosting</strong> depends on the stack. A static business site can live on low-cost static hosting or a content delivery network; a WordPress site needs PHP hosting, ideally in or near Singapore. We set the account up in your company's name, so the bill comes to you directly and nobody can hold your site hostage.`,
-        `<strong>Maintenance</strong> covers updates, backups, monitoring and small edits. Ours is free for five months after launch and then starts at ${P.care}. Some businesses skip it for a static site that rarely changes; a WordPress site with plugins should never go unmaintained. See <a href='/singapore/website-maintenance/'>website maintenance in Singapore</a> for what a plan ought to include.`,
+        `<strong>Maintenance</strong> covers updates, backups, monitoring and small edits. Ours is free for two months after launch and then starts at ${P.care}. Some businesses skip it for a static site that rarely changes; a WordPress site with plugins should never go unmaintained. See <a href='/singapore/website-maintenance/'>website maintenance in Singapore</a> for what a plan ought to include.`,
       ],
     },
     {
@@ -288,7 +288,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example, not a real client. Say a four-person HR consultancy near Tanjong Pagar wants a site with a home page, six service pages, an about page with team profiles, a resources section for articles and a contact page with a booking link.`,
         `That is five unique templates: home, service, about, article and contact. The six service pages share one template, and the articles share another. The consultancy writes its own drafts; we edit them for structure and search. They want a calendar booking link from a tool they already use and a PDPA-friendly enquiry form that records consent.`,
-        `This project fits the business website plan, which starts at ${P.site}, delivered in roughly two weeks. The itemised quote would show design, build, content editing, technical SEO, the form, and launch tasks separately. The recurring lines would list the .sg domain renewal and hosting paid to those providers directly, followed by five months of free maintenance, then maintenance from ${P.care} if they want it.`,
+        `This project fits the business website plan, which starts at ${P.site}, delivered in roughly two weeks. The itemised quote would show design, build, content editing, technical SEO, the form, and launch tasks separately. The recurring lines would list the .sg domain renewal and hosting paid to those providers directly, followed by two months of free maintenance, then maintenance from ${P.care} if they want it.`,
         `If the same consultancy later wanted 150 location-and-industry pages to target searches across Singapore, that would move them into the SEO website plan from ${P.seoSite}. The design would carry over; the new work is the data structure and the content.`,
       ],
     },
@@ -344,7 +344,7 @@ const content: FreelanceContent = {
         ["Custom portal or web app", "Client logins, dashboards, booking engines", `From ${P.software}`, "6–12 weeks"],
         ["Mobile app alongside the site", "Loyalty, bookings, repeat orders", `From ${P.app}`, "6–10 weeks"],
         ["Monthly SEO", "Growing search visibility after launch", `From ${P.seo}`, "Ongoing"],
-        ["Maintenance", "Updates, backups, edits", `From ${P.care}`, "After 5 free months"],
+        ["Maintenance", "Updates, backups, edits", `From ${P.care}`, "After 2 free months"],
       ],
       hideSm: [3],
     },
@@ -360,7 +360,7 @@ const content: FreelanceContent = {
         ["SSL certificate", "Often free with hosting", "Auto-renewal switched on"],
         ["Business email", "Google Workspace or Microsoft 365", "Billed per user; separate from the website"],
         ["Premium plugins or tools", "The plugin or SaaS vendor", "Licence in your name; renewal price known"],
-        ["Maintenance", "BtechWaleTech, optional", `Free for 5 months, then from ${P.care}`],
+        ["Maintenance", "BtechWaleTech, optional", `Free for 2 months, then from ${P.care}`],
       ],
     },
     {
@@ -407,7 +407,7 @@ const content: FreelanceContent = {
       ["Approve and set up accounts", "You approve in writing. We create the domain, hosting and analytics accounts in your business's name and add ourselves as users."],
       ["Design on a staging link", "Key templates are designed first. You review them on your own phone and desktop, then comment in one consolidated list per round."],
       ["Build, load content, test", "Pages are built, copy loaded, forms tested, and speed checked against Core Web Vitals. Technical SEO and schema are completed before launch."],
-      ["Launch and hand over", "DNS switched, SSL confirmed, sitemap submitted to Search Console. You receive logins, files and five months of free maintenance."],
+      ["Launch and hand over", "DNS switched, SSL confirmed, sitemap submitted to Search Console. You receive logins, files and two months of free maintenance."],
     ],
   },
   faqHeading: "Website design cost in Singapore: frequently asked questions",
@@ -417,7 +417,7 @@ const content: FreelanceContent = {
     { question: "What is included in your starting price for a website?", answer: `The business website plan from ${P.site} covers up to 100 pages built from agreed templates, mobile-first design, contact forms, technical SEO foundations, schema, an XML sitemap, Search Console setup and launch. Content editing is included; original long-form writing, paid plugins and third-party subscriptions are listed separately in your quote.` },
     { question: "How much does a .sg domain cost per year?", answer: "Prices are set by each SGNIC-accredited registrar and change over time, so check the registrar you choose. What matters more is that the domain is registered to your business, with your details, and that you complete SGNIC's VerifiedID@SG check on time. We help set it up but never register it under our own name." },
     { question: "How much is website hosting in Singapore?", answer: "It depends on the stack. A static site can run on very low-cost static hosting; a WordPress site needs managed PHP hosting, which costs more but handles updates and backups better. We recommend a plan sized to your traffic, open the account in your company's name, and you pay the provider directly. There is no hosting mark-up from us." },
-    { question: "What does website maintenance cost after launch?", answer: `Maintenance is free for five months after launch, then starts at ${P.care}. It covers software updates, backups, security checks, uptime monitoring and small content edits. A simple static site may need little ongoing work; a WordPress site with plugins should always be maintained. The exact scope is written into your quote.` },
+    { question: "What does website maintenance cost after launch?", answer: `Maintenance is free for two months after launch, then starts at ${P.care}. It covers software updates, backups, security checks, uptime monitoring and small content edits. A simple static site may need little ongoing work; a WordPress site with plugins should always be maintained. The exact scope is written into your quote.` },
     { question: "Can I use the PSG grant for a website built by you?", answer: "No. The Productivity Solutions Grant only supports pre-approved solutions from vendors on the GoBusiness list, and we are not a pre-approved vendor. If you want to use PSG, choose from that list and do not pay any deposit before applying, because Enterprise Singapore says prior payment rules out the application." },
     { question: "Is it cheaper to build a website myself in Singapore?", answer: "In cash, yes. A DIY builder subscription costs less than a professional build. The hidden price is your time, the ongoing subscription, limited SEO control and a site that usually cannot be moved elsewhere. For a one-page presence it can make sense; for a site that must win Google enquiries, a professional build usually pays back sooner." },
     { question: "How long does it take to design a website?", answer: "A business website with us usually takes one to two weeks, an SEO website of 299 pages or more takes three to five weeks, and an online store four to eight weeks. The biggest factor is how quickly content, photos and feedback arrive. A clear page list and ready copy can cut days off any timeline." },
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
     { question: "Should I pay a deposit before seeing any design?", answer: "A deposit against a written, itemised quote is normal. Paying the full amount before any design, with no milestones, is a warning sign. With us, milestones are agreed in the quote, and you see the first designs on a staging link early in the project. If you plan to claim PSG, do not pay anything before applying." },
     { question: "Can you redesign my existing site without losing Google rankings?", answer: "Yes. We inventory every existing URL, map each one to its new address with 301 redirects, keep the pages that bring traffic, and check Search Console after launch. The cost depends on how many URLs and how much content change is involved. Our website revamp page for Singapore explains the process." },
     { question: "Do you build bilingual English and Chinese websites?", answer: "Yes. We build the bilingual structure, language switcher and separate URLs so both versions can be indexed. You supply or approve the Chinese copy; we do not write native Chinese marketing text. Adding a second language adds templates to check and content to load, so it appears as its own line in the quote." },
-    { question: "What if I need changes after the five free months?", answer: `You can choose a maintenance plan from ${P.care}, or ask for individual changes to be quoted when you need them. Either way, the site and all logins stay with you, so you are free to use another developer at any time. The scope of any ongoing plan is agreed in writing first.` },
+    { question: "What if I need changes after the two free months?", answer: `You can choose a maintenance plan from ${P.care}, or ask for individual changes to be quoted when you need them. Either way, the site and all logins stay with you, so you are free to use another developer at any time. The scope of any ongoing plan is agreed in writing first.` },
   ],
   related: {
     heading: "More for Singapore businesses planning a website",

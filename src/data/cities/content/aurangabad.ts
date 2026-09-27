@@ -35,7 +35,7 @@ const aurangabad: CityContent = {
     pills: ["Sites from ₹10,000", "Marathi, Hindi and English", "MIDC supplier catalogues", "Hotel and tour booking", "Custom software from ₹60,000"],
   },
   quickAnswer:
-    "In Aurangabad (Chhatrapati Sambhajinagar), a business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office, and maintenance is free for five months.",
+    "In Aurangabad (Chhatrapati Sambhajinagar), a business website with us starts at ₹10,000 and takes one to two weeks. A 299+ page SEO site starts at ₹20,000, AI automation at ₹40,000, an online store at ₹50,000 and custom software at ₹60,000. We work remotely with no local office, and maintenance is free for two months.",
   snapshot: [
     { label: "Name", value: "The city was officially renamed Chhatrapati Sambhajinagar in February 2023; many people and businesses still search for Aurangabad" },
     { label: "Industrial estates", value: "MIDC areas at Waluj, Chikalthana and Shendra, plus the Shendra–Bidkin Industrial Area (AURIC) on the Delhi–Mumbai Industrial Corridor" },
@@ -52,7 +52,7 @@ const aurangabad: CityContent = {
     ai: "AI assistants that read RFQs, draft quotes from your rate sheet, answer hotel and tour questions on WhatsApp and route anything unusual to your team.",
     data: "Production, rejection and sales dashboards pulled from Tally, spreadsheets or machine logs, readable on a supervisor's phone during a shift.",
     app: "Android and iOS apps for shop-floor checklists, field sales visits or guest check-in that cope with unsteady networks, from ₹40,000 on both stores.",
-    maintenance: "Security updates, backups, uptime checks and content edits free for five months after launch, then from ₹8,000 a month if you continue with us.",
+    maintenance: "Security updates, backups, uptime checks and content edits free for two months after launch, then from ₹8,000 a month if you continue with us.",
   },
   whyUsIntro:
     "Aurangabad has capable local agencies, and also many small firms whose site was built once and then left alone, still showing an old address or a broken form. We are a three-person remote team with public starting rates, itemised written quotes, direct access to the engineers and full ownership handed to you at launch.",
@@ -177,7 +177,7 @@ const aurangabad: CityContent = {
       paragraphs: [
         "Some Aurangabad firms have discovered that their domain was registered by a former agency, their hosting is in someone else's account, or their software vendor will not hand over the code. That makes every change slow and every exit expensive.",
         "With us, the domain, hosting and cloud accounts are in your company's name from the start. At launch you receive every login, the complete source code and short documentation on how things are built and deployed. If you later bring in an in-house developer or another firm, they can take over without asking our permission.",
-        "For five months after launch, maintenance is free: updates, security patches, backups, uptime monitoring, bug fixes and small content changes. After that, it continues from ₹8,000 a month, or you can call us only when needed.",
+        "For two months after launch, maintenance is free: updates, security patches, backups, uptime monitoring, bug fixes and small content changes. After that, it continues from ₹8,000 a month, or you can call us only when needed.",
       ],
     },
     {
@@ -273,7 +273,7 @@ const aurangabad: CityContent = {
     {
       question: "What maintenance do I get after launch?",
       answer:
-        "Five months of free maintenance covering updates, security patches, backups, uptime checks, bug fixes and small edits. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts from ₹10,000.",
+        "Two months of free maintenance covering updates, security patches, backups, uptime checks, bug fixes and small edits. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need changes. Monthly SEO is separate and starts from ₹10,000.",
     },
     {
       question: "How long before SEO results show in Aurangabad?",

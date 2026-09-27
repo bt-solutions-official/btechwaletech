@@ -59,7 +59,7 @@ const content: CityContent = {
     ai: "AI agents that read OEM schedules, purchase orders and supplier bills, answer dealer queries on WhatsApp and prepare daily plant summaries.",
     data: "Plant and business dashboards combining Tally, machine counts and spreadsheets into one view of output, rejections, dispatch and dues.",
     app: "Android and iOS apps from ₹40,000 for Faridabad supervisors, service engineers, salesmen and patients, built in Flutter or React Native and published on both stores.",
-    maintenance: "Five months of free support after launch, then monthly plans from ₹8,000 covering fixes, updates, backups and user changes.",
+    maintenance: "Two months of free support after launch, then monthly plans from ₹8,000 covering fixes, updates, backups and user changes.",
   },
   whyUsIntro:
     "Faridabad has seen many ERP projects stall halfway. BtechWaleTech takes the opposite route: a short written audit, one focused system at a time, Hindi-friendly screens for the floor, and three engineers who stay reachable on WhatsApp every day.",
@@ -157,7 +157,7 @@ const content: CityContent = {
       paragraphs: [
         "A plant dashboard gives a Faridabad owner one screen showing output against schedule, rejection rates, pending job work, dispatches and receivables, while cloud hosting keeps all of it on secure servers with daily backups. Together they end dependence on a single office computer and on phone calls to the production manager.",
         "We consolidate Tally exports, machine counters where available, spreadsheets and our own systems, and agree definitions with your team before automating. Hosting runs on AWS, DigitalOcean or similar providers with SSL, role-based access, audit logs and monitoring, all in your company's name.",
-        "The first five months of support after launch are free, then plans start from ₹8,000 a month. Hardware, networking and CCTV are outside our scope; a local vendor handles those.",
+        "The first two months of support after launch are free, then plans start from ₹8,000 a month. Hardware, networking and CCTV are outside our scope; a local vendor handles those.",
       ],
     },
     {
@@ -301,7 +301,7 @@ const content: CityContent = {
     },
     {
       question: "What support comes after go-live?",
-      answer: "Five months of free support covering bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
+      answer: "Two months of free support covering bug fixes, small changes, security updates, backups and performance checks. After that, monthly plans start from ₹8,000, or you can contact us only when needed. We reply on WhatsApp seven days a week.",
     },
     {
       question: "How long before SEO brings enquiries for a Faridabad supplier?",

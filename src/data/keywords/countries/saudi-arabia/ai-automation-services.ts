@@ -35,12 +35,12 @@ const content: FreelanceContent = {
     ["Documents handled", "PDF invoices, receipts, forms, emails"],
     ["Accounting targets", "Tools with an API, or import files"],
     ["Money steps", "Always approved by a person"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers covering AI, data and integrations" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -57,7 +57,7 @@ const content: FreelanceContent = {
       { label: "Not automated", value: "Payment release, legal decisions, anything without a check" },
       { label: "Starting price", value: `From ${P.ai}, 2–4 weeks` },
       { label: "Language", value: "Arabic and English inputs, tested on your samples" },
-      { label: "Care", value: `5 months free, then from ${P.care}` },
+      { label: "Care", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -192,7 +192,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, AI automation services for Saudi businesses start from ${P.ai} for a first workflow with testing and handover. Each extra workflow is a separate line, and running costs are billed to you by the tool and AI providers.`,
         `What moves the setup price: the number of systems involved, whether those systems have usable APIs, how varied the documents or emails are, and how much exception handling you want. Invoices from five regular suppliers in one format are quick. Invoices from two hundred suppliers in Arabic, English and mixed layouts need more testing and a better review screen.`,
-        `Running costs come from three places: the workflow tool plan or a small server for self-hosted n8n, AI usage per document or email processed, and any API plan your accounting or CRM tool requires. We estimate all three before you approve, from your real monthly volumes. Maintenance is free for five months after launch, then optional from ${P.care}.`,
+        `Running costs come from three places: the workflow tool plan or a small server for self-hosted n8n, AI usage per document or email processed, and any API plan your accounting or CRM tool requires. We estimate all three before you approve, from your real monthly volumes. Maintenance is free for two months after launch, then optional from ${P.care}.`,
       ],
       after: [`Quotes elsewhere vary widely because some include subscriptions or per-task fees and some do not. Compare the full yearly cost, including running costs, not just the setup line.`],
     },
@@ -343,7 +343,7 @@ const content: FreelanceContent = {
         ["Arabic and English email triage", `From ${P.ai}`, "2–4 weeks", "Custom categories, routing, reply drafts"],
         ["Three linked workflows", `From ${P.ai}`, "4–6 weeks", "Shared hosting, monitoring, weekly report"],
         ["Internal tool with logins", `From ${P.software}`, "6–12 weeks", "Web app, roles, admin panel, integrations"],
-        ["Monthly care after 5 free months", `From ${P.care}`, "Monthly", "Monitoring, fixes, small changes"],
+        ["Monthly care after 2 free months", `From ${P.care}`, "Monthly", "Monitoring, fixes, small changes"],
       ],
       hideSm: [3],
     },
@@ -377,7 +377,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "You create or invite us to the workflow tool, server and API accounts. Access stays under your control and can be removed at any time."],
       ["Build and test on samples", "The workflow runs on your real documents or emails in a test space, with results shown next to what a person would have entered."],
       ["Shadow mode, then live", "The workflow drafts in parallel with manual work until results match, then switches on with alerts, logs and a review queue."],
-      ["Five free months of care", "Fixes, tuning and small changes are free for five months after launch. After that, care continues from " + P.care + " if you want it."],
+      ["Two free months of care", "Fixes, tuning and small changes are free for two months after launch. After that, care continues from " + P.care + " if you want it."],
     ],
   },
   faqHeading: "AI automation services in Saudi Arabia: frequent questions",
@@ -395,7 +395,7 @@ const content: FreelanceContent = {
     { question: "Where does our data go when AI processes it?", answer: "Workflows run in accounts registered to your business, on a server or hosted tool you choose. For AI steps, the relevant text or document is sent to the chosen model provider under its terms, with training on your data switched off where the provider allows. We send only the fields each step needs." },
     { question: "Can automations run on servers in Saudi Arabia?", answer: "Self-hosted tools such as n8n can run on any cloud server, including providers with Saudi regions, subject to their access terms. Google's documentation, for example, says its Dammam region is available to KSA-based customers through its local reseller and to others on invoiced billing. Hosted tools like Make run in their own infrastructure." },
     { question: "What happens if an automation breaks?", answer: "Every workflow we build logs its runs and sends an alert to a named person when a step fails, such as an expired login or an unreadable file. A daily summary shows processed items and failures. Affected items are queued rather than lost, so they can be reprocessed once the cause is fixed." },
-    { question: "Do I need a developer to change a workflow later?", answer: "For simple edits in n8n or Make, such as a new email address or a changed category name, your team can follow the runbook. Logic changes, new systems or AI prompt changes are better done by a developer. Maintenance is free for five months after launch, then optional from a monthly starting price." },
+    { question: "Do I need a developer to change a workflow later?", answer: "For simple edits in n8n or Make, such as a new email address or a changed category name, your team can follow the runbook. Logic changes, new systems or AI prompt changes are better done by a developer. Maintenance is free for two months after launch, then optional from a monthly starting price." },
     { question: "Is AI automation safe for finance tasks?", answer: "It is safe when AI prepares and a person approves. We create draft bills rather than final entries, check VAT arithmetic and duplicates with plain rules, show the original document beside extracted fields for fast review, and log every approval. We do not build workflows that release payments without human sign-off." },
     { question: "Can you connect Salla or Zid orders to our accounting?", answer: "Yes, typically by listening to order events from the store and creating matching entries or import files in your accounting tool, subject to each platform's API and your plan. The workflow also flags refunds, cancellations and mismatched totals so month-end reconciliation takes less time." },
     { question: "What does PDPL mean for automation workflows?", answer: "Saudi Arabia's Personal Data Protection Law, overseen by SDAIA, applies whenever workflows handle personal data such as names, phone numbers or employee records. We build controls that help: minimised fields, access limits, logs and retention settings. Whether your processing complies is for you and your legal adviser to confirm." },
@@ -423,7 +423,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Which task would you hand over first? Tell us on WhatsApp",
-    note: `Describe the task or send a short screen recording. You will get a step map and an itemised USD quote in about two working days, with automations starting from ${P.ai}, every account in your name and five months of free maintenance after launch.`,
+    note: `Describe the task or send a short screen recording. You will get a step map and an itemised USD quote in about two working days, with automations starting from ${P.ai}, every account in your name and two months of free maintenance after launch.`,
   },
 };
 

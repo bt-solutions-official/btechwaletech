@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Target", "Current Laravel on a supported PHP 8 branch"],
     ["Database", "Kept, cleaned, never re-keyed by hand"],
     ["Estimate", "Per module, itemised, about 2 working days"],
-    ["After launch", "5 months of free maintenance"],
+    ["After launch", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers you talk to directly" },
     { value: "2", label: "Working days to a module-by-module estimate" },
-    { value: "5", label: "Months of free maintenance after cutover" },
+    { value: "2", label: "Months of free maintenance after cutover" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Users", value: "Existing passwords keep working; no mass reset" },
       { label: "Typical app", value: `From ${P.software}, 6–12 weeks` },
       { label: "Estimate style", value: "Per module, approved one stage at a time" },
-      { label: "Upkeep", value: `5 months free, then from ${P.care}` },
+      { label: "Upkeep", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "API endpoints for apps", note: "CodeIgniter endpoints used by an Android app or partner system recreated in Laravel with the same request and response shapes.", href: "/freelance-api-developer/", size: "md" },
       { name: "PHP compatibility fixes on the old side", note: "Just enough patching of the CodeIgniter code to run on a supported PHP version while the move is under way.", href: "/php-version-upgrade/", size: "sm" },
       { name: "Queues, schedules and emails", note: "Cron scripts and slow tasks moved to Laravel’s scheduler and queues so pages stop waiting on email or PDF generation.", href: "/web-application-developer/", size: "sm" },
-      { name: "After-launch care", note: `Five free months of fixes, then Laravel and package updates from ${P.care}.`, href: "/it-services/", size: "sm" },
+      { name: "After-launch care", note: `Two free months of fixes, then Laravel and package updates from ${P.care}.`, href: "/it-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -349,7 +349,7 @@ const content: FreelanceContent = {
         ["Android and iOS app on the new Laravel API", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks"],
         ["WhatsApp or AI automation on migrated data", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks"],
         ["Marketing pages split out as a fast static site", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
       hideSm: [2],
     },
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Staging and Laravel front door", "A staging server on the target PHP version gets Laravel installed in front of CodeIgniter, with a database baseline and nightly backups in place."],
       ["Logins and risky modules first", "Accounts, passwords and payments move early, tested against real sample data, so the hardest parts are behind you before routine screens start."],
       ["Remaining modules in stages", "Each approved stage moves a group of modules, compares their output with the old code, and goes live only after you check it on staging."],
-      ["Remove CodeIgniter and hand over", "Old code and the fallback route are removed, cron moves to the scheduler, and you receive credentials, documents and five free months of support."],
+      ["Remove CodeIgniter and hand over", "Old code and the fallback route are removed, cron moves to the scheduler, and you receive credentials, documents and two free months of support."],
     ],
   },
   faqHeading: "CodeIgniter to Laravel migration questions",
@@ -406,7 +406,7 @@ const content: FreelanceContent = {
     { question: "Do you also migrate core PHP apps that are not on CodeIgniter?", answer: "Yes. Hand-written PHP without a framework follows a similar staged approach, though the audit usually takes longer because there is less structure to follow. Our PHP to Laravel migration page covers that route in detail. Apps built on CakePHP, Yii or older custom frameworks are assessed the same way." },
     { question: "Freelancers or an agency for a CodeIgniter to Laravel migration?", answer: "A small freelance team suits most business apps: you talk to the developers reading your code, decisions are quick, and overheads are low. A larger vendor fits programmes needing many developers at once or formal procurement. BtechWaleTech is three freelance developers, and we tell you early if a project needs more people than that." },
     { question: "Who owns the code after migration?", answer: "You own everything. Code sits in a Git repository in your name, hosting and database are billed to you, and all credentials are handed over. The handover pack includes a module map, deployment steps and scheduled job list so any competent Laravel developer can continue the work later." },
-    { question: "What does maintenance cost after the migration?", answer: `The first five months after cutover are free and cover fixes and small adjustments. After that, maintenance is optional and starts at ${P.care} a month, covering Laravel and package updates, PHP version changes, backups and security checks. Laravel releases get security fixes for two years, so plan a framework upgrade about once a year.` },
+    { question: "What does maintenance cost after the migration?", answer: `The first two months after cutover are free and cover fixes and small adjustments. After that, maintenance is optional and starts at ${P.care} a month, covering Laravel and package updates, PHP version changes, backups and security checks. Laravel releases get security fixes for two years, so plan a framework upgrade about once a year.` },
     { question: "Can you add new features during the migration?", answer: "Yes, but ideally in a separate stage after a module has moved and been checked. Adding features while migrating the same module makes it hard to tell whether a difference comes from the migration or the new feature. Small changes are fine; bigger ones are estimated as their own stage." },
     { question: "How do payments and contracts work?", answer: "Each stage is described and priced in a written quote you approve before work starts, and nothing is billed before that approval. Indian clients pay by UPI or bank transfer with GST invoices where required; international clients are quoted in USD and pay by Wise, bank wire or PayPal. NDAs and specific terms are agreed in writing." },
     { question: "CodeIgniter se Laravel mein shift karne mein data safe rahega?", answer: "Haan. Laravel usi MySQL database se connect hota hai, isliye data kahin copy nahi hota. Table ya character set badalne jaise kaam pehle production ki copy par test hote hain, row count aur checksum milaye jaate hain, aur live par sirf fresh backup ke baad planned time par chalte hain. Users ke password bhi kaam karte rehte hain." },
@@ -432,7 +432,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Get a module-by-module plan for your CodeIgniter app",
-    note: `Message us on WhatsApp with the app’s purpose and how to reach the code. Within about two working days you get an audit summary and an itemised per-module estimate, with projects from ${P.software} and five free months of support after cutover.`,
+    note: `Message us on WhatsApp with the app’s purpose and how to reach the code. Within about two working days you get an audit summary and an itemised per-module estimate, with projects from ${P.software} and two free months of support after cutover.`,
   },
 };
 

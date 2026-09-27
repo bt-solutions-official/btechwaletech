@@ -38,13 +38,13 @@ const content: FreelanceContent = {
     ["Flow and AI automations", `From ${P.ai}`],
     ["Expansion stores on Plus", "9, per Shopify’s plan page"],
     ["Quote turnaround", "About 2 working days"],
-    ["Free maintenance after launch", "5 months"],
+    ["Free maintenance after launch", "2 months"],
   ],
   stats: [
     { value: "9", label: "Expansion stores Shopify includes with Plus" },
     { value: "3", label: "Freelance developers: build, cloud and data, delivery" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after go-live" },
+    { value: "2", label: "Months of free maintenance after go-live" },
   ],
   answer: {
     heading: "What does a Shopify Plus developer do, and does your brand need Plus?",
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Shopify Plus developer pricing: what each type of project starts at",
-    note: `Most Plus work falls into four bands. Replatforming a store to Shopify Plus, or rebuilding its theme and data, starts at ${P.shop} (${P.shopUsd}). A custom app carrying Shopify Functions or checkout UI extensions, such as tiered B2B discounts or delivery rules, starts at ${P.software} (${P.softwareUsd}). Flow and AI automation projects, like order routing with a model classifying support tickets, start at ${P.ai}. Ongoing care starts at ${P.care} a month after five free months. The Shopify Plus subscription itself is billed by Shopify to you and is not part of our quote.`,
+    note: `Most Plus work falls into four bands. Replatforming a store to Shopify Plus, or rebuilding its theme and data, starts at ${P.shop} (${P.shopUsd}). A custom app carrying Shopify Functions or checkout UI extensions, such as tiered B2B discounts or delivery rules, starts at ${P.software} (${P.softwareUsd}). Flow and AI automation projects, like order routing with a model classifying support tickets, start at ${P.ai}. Ongoing care starts at ${P.care} a month after two free months. The Shopify Plus subscription itself is billed by Shopify to you and is not part of our quote.`,
   },
   guideLabel: "Shopify Plus developer guide",
   guide: [
@@ -413,7 +413,7 @@ const content: FreelanceContent = {
       ["Itemised proposal", "Each Function, extension, workflow and store change becomes a priced line with its test plan, so you approve scope before any billing."],
       ["Build and test", "Custom apps are built in your Shopify organisation and tested on a development or copy store against a table of real carts."],
       ["Switch-over", "Changes go live in a planned window, with old behaviour kept ready to restore and your team watching orders alongside us."],
-      ["Handover and care", "You receive documentation, a Flow register and five months of free maintenance, then optional care plans from our standard starting rate."],
+      ["Handover and care", "You receive documentation, a Flow register and two months of free maintenance, then optional care plans from our standard starting rate."],
     ],
   },
   faqHeading: "Shopify Plus developer: questions brands ask",
@@ -436,7 +436,7 @@ const content: FreelanceContent = {
     { question: "Does Shopify Plus improve SEO?", answer: "Not directly; search engines rank pages, not plans. Plus can add SEO risk if expansion stores, markets or B2B views create duplicate or indexable private pages. A careful Shopify Plus developer sets hreflang, canonicals and sitemaps per market, keeps B2B pages out of the index and cleans up event landing pages. Nobody can honestly guarantee rankings." },
     { question: "Shopify Plus kya hai aur kab lena chahiye?", answer: "Shopify Plus, Shopify ka sabse bada plan hai jismein checkout customisation, custom Shopify Functions, B2B wholesale, Launchpad aur 9 expansion stores milte hain. Isse tab lena chahiye jab in features se koi asli business problem solve ho. Agar public apps se kaam chal raha hai, toh Advanced plan sasta aur kaafi hai." },
     { question: "Can you add a GST number field to checkout?", answer: "On Plus, a checkout UI extension can add a field on the information step to collect a GST number from business buyers and save it to the order, where invoicing apps can read it. On other plans, options on those steps are limited. We keep the field optional for retail buyers so it does not slow down normal checkouts." },
-    { question: "What maintenance does a Plus store need?", answer: `Plus stores need regular checks on Functions, extensions and Flow workflows as Shopify updates APIs, plus app reviews and speed monitoring. You get five months of free maintenance after launch; care plans then start at ${P.care} a month. Monthly SEO support starts at ${P.seo} if you want ongoing work on markets, content and technical health.` },
+    { question: "What maintenance does a Plus store need?", answer: `Plus stores need regular checks on Functions, extensions and Flow workflows as Shopify updates APIs, plus app reviews and speed monitoring. You get two months of free maintenance after launch; care plans then start at ${P.care} a month. Monthly SEO support starts at ${P.seo} if you want ongoing work on markets, content and technical health.` },
     { question: "How do payments and contracts work with your team?", answer: "You get an itemised written quote with milestones, and nothing is billed until you approve it in writing. Indian clients pay by UPI or bank transfer with GST invoices where applicable; clients abroad pay in USD by Wise, bank wire or PayPal. Confidentiality and other specific clauses are agreed in your written quote, and our terms page covers the rest." },
     { question: "Do you work with Plus brands outside India?", answer: "Yes. We work remotely from India in IST, overlapping with European mornings and US evenings. Quotes for overseas brands are in USD, payable by Wise, bank wire or PayPal. All stores, apps and repositories stay in your accounts, and we communicate on WhatsApp, email and scheduled video calls." },
   ],

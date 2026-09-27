@@ -56,7 +56,7 @@ const mandla: CityContent = {
     ai: "WhatsApp assistants in Hindi and English that answer room, safari and stock questions and pass bookings to your staff.",
     data: "Season dashboards of bookings, occupancy, guest sources and revenue, or production and dispatch figures for units.",
     app: "Android and iOS apps for resort guests to book stays and safaris, or for retailers re-ordering from Mandla wholesalers, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "No maintenance charge for the first five months after going live; later plans begin at ₹8,000 monthly and cover patches, backups and edits before each Kanha season.",
+    maintenance: "No maintenance charge for the first two months after going live; later plans begin at ₹8,000 monthly and cover patches, backups and edits before each Kanha season.",
   },
   whyUsIntro:
     "Mandla business owners often deal with seasonal swings, from the Kanha tourist months to harvest and wedding seasons, so they need systems that are simple and costs that are clear. We publish starting prices, send itemised quotes in writing, reply on WhatsApp all week, and register your domain, hosting, code and store accounts to you.",
@@ -198,7 +198,7 @@ const mandla: CityContent = {
       heading: "Ownership and maintenance once your Mandla website or app is live",
       paragraphs: [
         "Plenty of Mandla shops have an old site frozen in time because a former developer booked the domain under his own email and stopped answering. That cannot happen with us: from day one the domain, server, code repository, Google Business Profile and both app store accounts are opened under your details.",
-        "For the first five months after going live, fixes, minor edits, security patches and backups cost nothing. Beyond that, a care plan begins at ₹8,000 per month for projects that change often. A site that barely changes may not need one, and we will say that.",
+        "For the first two months after going live, fixes, minor edits, security patches and backups cost nothing. Beyond that, a care plan begins at ₹8,000 per month for projects that change often. A site that barely changes may not need one, and we will say that.",
         "You also receive a simple written guide listing where everything is hosted, which renewals fall due when and how the pieces fit, so a future developer can carry on without a rebuild.",
         "Apps need yearly updates as Google and Apple change their rules. Maintenance covers these so your app is not pulled from a store over a missed deadline, which matters most just before the tourist season.",
       ],
@@ -287,7 +287,7 @@ const mandla: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "The first five months after launch are covered free: bug fixes, small edits, security patches and backups. After that a care plan begins at ₹8,000 per month for sites and apps that change often. If yours barely changes between seasons, we will tell you that you can probably skip the plan.",
+        "The first two months after launch are covered free: bug fixes, small edits, security patches and backups. After that a care plan begins at ₹8,000 per month for sites and apps that change often. If yours barely changes between seasons, we will tell you that you can probably skip the plan.",
     },
     {
       question: "Can you build an ecommerce website in Mandla for forest produce?",

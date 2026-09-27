@@ -57,7 +57,7 @@ const nuzvid: CityContent = {
     ai: "WhatsApp assistants in Telugu that answer box prices, variety availability and hostel fees, then hand real bargaining back to you.",
     data: "Season dashboards showing boxes sold, lorries dispatched, payments pending and which cities ordered most.",
     app: "Android and iOS apps for repeat mango buyers, orchard supervisors or hostel residents, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes before each mango season.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and fixes before each mango season.",
   },
   whyUsIntro:
     "Mango money in Nuzvid arrives in a short burst and has to last the year, so owners here weigh every rupee. We publish starting prices, send itemised written quotes, reply on WhatsApp seven days a week, and register your domain, hosting, code and store accounts in your own name. If a feature will not earn its keep, we tell you plainly.",
@@ -150,7 +150,7 @@ const nuzvid: CityContent = {
       heading: "Website cost in Nuzvid: starting prices and what changes the quote",
       paragraphs: [
         "The question we hear most is how much a website costs in Nuzvid. Our static websites of up to 100 pages start at ₹10,000 and take one to two weeks. SEO websites of 299+ pages, built to rank for many varieties, villages or services, start at ₹20,000 and take three to five weeks. Android and iOS apps start at ₹40,000, and AI automation starts at ₹40,000.",
-        "Online stores start at ₹50,000 and take four to eight weeks, while custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000. After launch you get five months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
+        "Online stores start at ₹50,000 and take four to eight weeks, while custom web apps and business software start at ₹60,000 and take six to twelve weeks. Monthly SEO starts at ₹10,000. After launch you get two months of free maintenance, and ongoing maintenance starts at ₹8,000 a month.",
         "Local quotes vary widely, so compare like with like: who owns the domain, whether Telugu content is included, how many revisions you get, what happens after launch and whether the code is handed over. Our quote arrives itemised in about two working days, and nothing is billed before you approve it. Full details sit on our <a href=\"/pricing/\">pricing</a> page.",
       ],
     },
@@ -178,7 +178,7 @@ const nuzvid: CityContent = {
       heading: "Ownership and maintenance: your Nuzvid website stays yours between seasons",
       paragraphs: [
         "A common story in small towns is the website that vanished because the person who made it moved away and the domain was in his name. We avoid that by registering your domain, hosting, code repository and app store accounts in your name from the first day. You hold the passwords, and we work with the access you grant.",
-        "After launch you get five months of free maintenance for fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and routine changes. For a mango business, the most useful habit is a pre-season review each February: update varieties, prices and photographs, test the order flow, and check the map listing.",
+        "After launch you get two months of free maintenance for fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month and covers backups, updates, uptime checks and routine changes. For a mango business, the most useful habit is a pre-season review each February: update varieties, prices and photographs, test the order flow, and check the map listing.",
         "If you ever want to move to another developer, you take everything with you. We would rather keep you because the work is good than because you are locked in.",
       ],
     },
@@ -251,7 +251,7 @@ const nuzvid: CityContent = {
     {
       question: "Is maintenance included after my Nuzvid website launches?",
       answer:
-        "Yes, you get five months of free maintenance after launch, covering fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month for backups, updates and routine changes. You can also stop and manage the site yourself, since you own every account.",
+        "Yes, you get two months of free maintenance after launch, covering fixes, small edits and security updates. After that, maintenance starts at ₹8,000 a month for backups, updates and routine changes. You can also stop and manage the site yourself, since you own every account.",
     },
     {
       question: "You have no office in Nuzvid. How do we work together?",

@@ -37,13 +37,13 @@ const content: FreelanceContent = {
     ["Build time", "4 to 8 weeks on either platform"],
     ["Shopify", "Hosted, subscription, apps"],
     ["WooCommerce", "Free plugin, your hosting"],
-    ["Free maintenance", "5 months after launch"],
+    ["Free maintenance", "2 months after launch"],
     ["Quote", "Itemised in about 2 working days"],
   ],
   stats: [
     { value: "2", label: "Platforms we build on, so the advice is not tied to one" },
     { value: "3", label: "Freelance developers who build, migrate and optimise stores" },
-    { value: "5", label: "Months of free maintenance after your store launches" },
+    { value: "2", label: "Months of free maintenance after your store launches" },
     { value: "2", label: "Working days to an itemised quote for either platform" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Store SEO on either platform", note: "Collection and category copy, schema, speed and Search Console reporting.", href: "/shopify-seo-expert/", size: "md" },
       { name: "WooCommerce SEO", note: "Permalinks, category pages, product schema and plugin clean-up for WordPress stores.", href: "/woocommerce-seo-services/", size: "sm" },
       { name: "WhatsApp order updates", note: "Order confirmations and delivery updates on WhatsApp for either platform.", href: "/shopify-whatsapp-integration/", size: "sm" },
-      { name: "Maintenance after launch", note: `Five free months, then upkeep from ${P.care} a month.`, href: "/shopify-maintenance-services/", size: "sm" },
+      { name: "Maintenance after launch", note: `Two free months, then upkeep from ${P.care} a month.`, href: "/shopify-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What building on Shopify or WooCommerce costs with us",
-    note: `Ecommerce stores start at ${P.shop} on either platform, typically in 4 to 8 weeks. The platform itself changes the quote less than people expect. What moves it is catalogue size, how many custom features you need, design work, payment and courier setup, and content. Shopify builds often need fewer hours of server and plugin work; WooCommerce builds need hosting setup and hardening but no monthly platform plan. Running costs after launch differ more than build costs, so the quote lists both. Five months of free maintenance follow launch, then maintenance from ${P.care} a month if you want it.`,
+    note: `Ecommerce stores start at ${P.shop} on either platform, typically in 4 to 8 weeks. The platform itself changes the quote less than people expect. What moves it is catalogue size, how many custom features you need, design work, payment and courier setup, and content. Shopify builds often need fewer hours of server and plugin work; WooCommerce builds need hosting setup and hardening but no monthly platform plan. Running costs after launch differ more than build costs, so the quote lists both. Two months of free maintenance follow launch, then maintenance from ${P.care} a month if you want it.`,
   },
   guideLabel: "Shopify vs WooCommerce guide for India",
   guide: [
@@ -132,7 +132,7 @@ const content: FreelanceContent = {
         `Compare Shopify vs WooCommerce on two-year running cost, not on the first month. Shopify’s costs are predictable subscriptions; WooCommerce’s are lower on paper but include hosting, plugin renewals and developer hours that are easy to underestimate.`,
         `On Shopify, the regular lines are the plan fee, paid apps (reviews, GST invoices, WhatsApp, shipping), your payment provider’s charges, and, because Shopify Payments is not available in India, a third-party transaction fee that Shopify’s India pricing page says depends on your plan. Theme purchase is optional; many good free themes exist.`,
         `On WooCommerce, the regular lines are hosting sized for your traffic, a domain, premium plugins or themes with yearly renewals, a backup and security service if the host does not include one, payment provider charges, and developer time for updates and fixes. There is no platform subscription or platform transaction fee.`,
-        `The build itself costs about the same with us on either platform: ecommerce stores start at ${P.shop}. After the five free months of maintenance, upkeep starts at ${P.care} a month on either, though a WooCommerce store usually needs more of that time. For a full breakdown of store budgets, see <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a>.`,
+        `The build itself costs about the same with us on either platform: ecommerce stores start at ${P.shop}. After the two free months of maintenance, upkeep starts at ${P.care} a month on either, though a WooCommerce store usually needs more of that time. For a full breakdown of store budgets, see <a href='/ecommerce-website-cost-in-india/'>ecommerce website cost in India</a>.`,
       ],
     },
     {
@@ -313,7 +313,7 @@ const content: FreelanceContent = {
         ["Payments", "Provider charges plus a plan-based transaction fee", "Provider charges only"],
         ["Features", "App subscriptions", "Free and premium plugins with renewals"],
         ["Theme", "Free or one-time paid theme", "Free or paid theme with renewals"],
-        ["Upkeep after 5 free months", `Maintenance from ${P.care} a month`, `Maintenance from ${P.care} a month, usually more hours`],
+        ["Upkeep after 2 free months", `Maintenance from ${P.care} a month`, `Maintenance from ${P.care} a month, usually more hours`],
       ],
     },
     {
@@ -380,7 +380,7 @@ const content: FreelanceContent = {
       ["Itemised quote", "An itemised quote arrives in about two working days, with ecommerce builds from the starting price. Nothing is billed before your written approval."],
       ["Build and set up payments", "We build the store, connect a payment provider in your name with UPI, cards and COD, and set up shipping, GST invoices and WhatsApp updates."],
       ["Test and launch", "Real test orders on each payment method, speed checks on budget Android phones, and a launch once you have approved everything."],
-      ["Hand over and maintain", "You get admin notes for daily tasks and five free months of maintenance, then optional upkeep and monthly SEO."],
+      ["Hand over and maintain", "You get admin notes for daily tasks and two free months of maintenance, then optional upkeep and monthly SEO."],
     ],
   },
   faqHeading: "Shopify vs WooCommerce: questions Indian sellers ask",
@@ -403,7 +403,7 @@ const content: FreelanceContent = {
     { question: "Can I sell internationally with Shopify or WooCommerce?", answer: "Both can. Shopify Markets lets one store show local currencies and languages for different countries. WooCommerce does the same with multi-currency and multilingual plugins. International cards and wallets come through your payment provider. You supply or approve translated content, and shipping rules are set per destination." },
     { question: "Which is better for dropshipping in India?", answer: "Shopify is generally better for dropshipping because of its large ecosystem of supplier and order-routing apps and its simple setup. WooCommerce can dropship with plugins but needs more configuration and maintenance. Check delivery times and COD rules carefully, since slow delivery and refused COD orders hurt dropshipping margins in India." },
     { question: "Shopify ya WooCommerce, chhote business ke liye kaunsa sahi hai?", answer: "Agar aapke paas developer nahi hai aur jaldi store chalu karna hai, to Shopify aasaan hai: hosting, updates aur security Shopify sambhalta hai. Agar aap pehle se WordPress chala rahe hain ya blog se sales aati hai, to WooCommerce behtar hai. Dono par UPI, card aur COD chal jaata hai. Do saal ka poora kharcha compare karke decide kijiye." },
-    { question: "Can you build on either platform and maintain it?", answer: `Yes. We build on both Shopify and WooCommerce and recommend the one that fits your business in writing. Every build includes five months of free maintenance after launch, then upkeep from ${P.care} a month if you want it. Monthly SEO from ${P.seo} is available for stores that want to grow organic traffic.` },
+    { question: "Can you build on either platform and maintain it?", answer: `Yes. We build on both Shopify and WooCommerce and recommend the one that fits your business in writing. Every build includes two months of free maintenance after launch, then upkeep from ${P.care} a month if you want it. Monthly SEO from ${P.seo} is available for stores that want to grow organic traffic.` },
     { question: "Do you work with sellers outside India?", answer: `Yes. International clients receive quotes in USD, with ecommerce builds from ${P.shopUsd}, and pay by Wise, bank wire or PayPal. The same Shopify vs WooCommerce reasoning applies, with local payment methods and shipping rules for your market. Sellers in India pay by UPI or bank transfer.` },
     { question: "How do we get started?", answer: "Message us on WhatsApp with what you sell, rough product count and how you take orders today. We reply 7 days a week in English or Hindi, send a written platform recommendation, then an itemised quote in about two working days. Contract details are set in your written quote, and our terms page covers general conditions." },
   ],

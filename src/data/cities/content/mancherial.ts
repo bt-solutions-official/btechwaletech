@@ -30,11 +30,11 @@ const mancherial: CityContent = {
     eyebrow: "Mancherial · Telangana",
     h1: "Websites, software, SEO and AI tools for Mancherial's coal belt, cement and trading businesses",
     lede:
-      "Three remote engineers building websites, Telugu and English search pages, online stores and WhatsApp workflows for Mancherial mining contractors, cement and power plant suppliers, builders, hospitals, colleges and shops in Hamaliwada and near Bellampalli Chowrasta. Prices are published as starting points, every account stays in your name, and five months of upkeep come free.",
+      "Three remote engineers building websites, Telugu and English search pages, online stores and WhatsApp workflows for Mancherial mining contractors, cement and power plant suppliers, builders, hospitals, colleges and shops in Hamaliwada and near Bellampalli Chowrasta. Prices are published as starting points, every account stays in your name, and two months of upkeep come free.",
     pills: ["Websites starting ₹10,000", "Telugu and English content", "Contractor and vendor profiles", "Hospital and college sites", "WhatsApp automation"],
   },
   quickAnswer:
-    "For Mancherial businesses, static websites of up to 100 pages start at ₹10,000 and take one to two weeks, 299+ page SEO websites start at ₹20,000, and online stores start at ₹50,000. We are three engineers working remotely with no Mancherial office, and each site gets five months of free maintenance after it goes live.",
+    "For Mancherial businesses, static websites of up to 100 pages start at ₹10,000 and take one to two weeks, 299+ page SEO websites start at ₹20,000, and online stores start at ₹50,000. We are three engineers working remotely with no Mancherial office, and each site gets two months of free maintenance after it goes live.",
   snapshot: [
     { label: "City", value: "Headquarters of Mancherial district; municipality since 1952, upgraded to a municipal corporation in January 2025" },
     { label: "Location", value: "North bank of the Godavari, about 244 km from Hyderabad on NH 63 and NH 363" },
@@ -51,7 +51,7 @@ const mancherial: CityContent = {
     ai: "WhatsApp assistants that answer routine questions on rates, stock, vehicle availability or OP timings in Telugu, Hindi or English, then hand over to your staff.",
     data: "Phone-friendly dashboards for work orders, machine hours, dealer sales and enquiry sources, so the owner sees the day's position quickly.",
     app: "Android and iOS apps for site supervisors at the coal belt, college students and patients, published on Google Play and the App Store from ₹40,000.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month only if you choose it.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month only if you choose it.",
   },
   whyUsIntro:
     "Mancherial businesses often get web quotes from Hyderabad or Karimnagar agencies that never explain the costs, or from local contacts who disappear after a year. We publish starting prices, itemise every quote before billing, write Telugu content that you check, and reply on WhatsApp seven days a week.",
@@ -197,7 +197,7 @@ const mancherial: CityContent = {
       paragraphs: [
         "Some Mancherial businesses have lost their websites when a developer who registered the domain in his own name stopped responding. When the renewal lapsed, the site and email vanished together.",
         "We avoid that from the start. Domain and hosting accounts are created in your name, and at launch you receive all logins, the full source code and a short guide to making simple changes. You may move to another developer whenever you like, with no exit fee.",
-        "For five months after launch, maintenance costs nothing: content updates, bug fixes, security patches, backups and speed checks. After that it is from ₹8,000 a month, or you can contact us only when a change is needed. Start with our <a href=\"/contact/\">contact page</a> or a WhatsApp message.",
+        "For two months after launch, maintenance costs nothing: content updates, bug fixes, security patches, backups and speed checks. After that it is from ₹8,000 a month, or you can contact us only when a change is needed. Start with our <a href=\"/contact/\">contact page</a> or a WhatsApp message.",
       ],
     },
   ],
@@ -287,9 +287,9 @@ const mancherial: CityContent = {
         "Yes. Your domain and hosting are registered in your name from day one, and at launch you receive all logins and the complete source code. You can switch developers at any time without an exit fee.",
     },
     {
-      question: "What is included in the five free months of maintenance?",
+      question: "What is included in the two free months of maintenance?",
       answer:
-        "Content updates, bug fixes, security patches, backups and speed checks for five months after launch, at no cost. Afterwards, maintenance is from ₹8,000 a month, or you can message us only when you need something changed.",
+        "Content updates, bug fixes, security patches, backups and speed checks for two months after launch, at no cost. Afterwards, maintenance is from ₹8,000 a month, or you can message us only when you need something changed.",
     },
     {
       question: "How do I get a quote?",

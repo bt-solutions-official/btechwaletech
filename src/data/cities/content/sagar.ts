@@ -34,7 +34,7 @@ const sagar: CityContent = {
     pills: ["Sites from ₹10,000", "Hindi-first content", "Coaching and hostel pages", "Mill and trader catalogues", "WhatsApp enquiry handling"],
   },
   quickAnswer:
-    "In Sagar, a simple business website with us costs from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Sagar office, and maintenance is free for five months after launch.",
+    "In Sagar, a simple business website with us costs from ₹10,000 and takes one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and WhatsApp or AI automation at ₹40,000. We are a remote three-engineer team with no Sagar office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "About 182 km north-east of Bhopal on a spur of the Vindhya range, with NH 44 passing through" },
     { label: "University", value: "Dr. Harisingh Gour University, founded in 1946 and one of the oldest in Madhya Pradesh, now a central university" },
@@ -51,7 +51,7 @@ const sagar: CityContent = {
     ai: "WhatsApp replies that answer fee, admission, OPD or price questions in Hindi, day and night, while your staff focus on walk-ins.",
     data: "Production, sales and collection records turned into a simple dashboard an owner can read on a phone.",
     app: "Android and iOS apps for student attendance, hostel notices, clinic tokens or dealer orders, released on Google Play and the App Store.",
-    maintenance: "Updates, backups and security checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups and security checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
     "Businesses in Sagar often hear that a proper website must come from Bhopal or Indore, at Bhopal or Indore prices. We are a small remote team that publishes its rates, answers on WhatsApp seven days a week and registers every domain in the client's own name.",
@@ -178,7 +178,7 @@ const sagar: CityContent = {
       paragraphs: [
         "Many Sagar businesses have had the same experience: someone built the website, kept the domain in his own name, and later moved away or stopped responding. The site expired, the business lost its search listing, and a new site had to start from nothing.",
         "We prevent that from the beginning. The domain and hosting are registered in your name, and at launch you receive every login, the full source code and a short written note explaining the setup. If you ever want another developer, you hand over the access. There is no exit fee and no lock-in.",
-        "Maintenance is free for five months after launch: text and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need something. See our <a href=\"/services/web-development/\">web development page</a> for what every build includes.",
+        "Maintenance is free for two months after launch: text and price updates, bug fixes, security patches, backups, uptime checks and speed checks. After that it continues from ₹8,000 a month, or you can contact us only when you need something. See our <a href=\"/services/web-development/\">web development page</a> for what every build includes.",
       ],
     },
   ],
@@ -263,9 +263,9 @@ const sagar: CityContent = {
         "You do. The domain and hosting are in your name, and you receive every login and the full code at launch. You can move to any other developer at any time without paying an exit fee.",
     },
     {
-      question: "What is included in five months of free maintenance?",
+      question: "What is included in two months of free maintenance?",
       answer:
-        "We handle text and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost for five months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
+        "We handle text and price changes, bug fixes, security updates, backups, uptime checks and speed checks at no cost for two months after launch. After that, maintenance is available from ₹8,000 a month, or you can contact us only when needed.",
     },
     {
       question: "Do you work in Bina, Rahatgarh, Rehli and Damoh?",

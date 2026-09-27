@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Platforms", "Android and iOS, one codebase"],
     ["Staff side", "Web dashboard for owners and trainers"],
     ["Store accounts", "In the gym owner's name"],
-    ["After release", "5 months of free maintenance"],
+    ["After release", "2 months of free maintenance"],
   ],
   stats: [
     { value: "3", label: "Developers who know your app's code" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free fixes after launch" },
+    { value: "2", label: "Months of free fixes after launch" },
     { value: "7", label: "Days a week we answer on WhatsApp" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Core features", value: "Memberships, check-in, class booking, plans, renewals" },
       { label: "Health data", value: "Health Connect on Android, HealthKit on iPhone, with consent" },
       { label: "Paying us", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -242,7 +242,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical example to illustrate scope and timeline; it is not a client story.`,
         `A gym with two branches in a tier-2 city runs group classes and personal training. Renewals are tracked in a register, classes are booked over WhatsApp, and trainers send plans as photos. The owner wants fewer missed renewals and fair class booking.`,
-        `We would scope a Flutter app for members, a web dashboard for owner, desk staff and trainers, QR check-in valid at both branches, class booking with waitlists, renewal reminders with a UPI payment link, and a trainer plan builder, starting from ${P.app} with extra lines for the second branch and WhatsApp reminders. Weeks one and two: rules and flows. Weeks three to seven: app, backend and dashboard. Week eight: a trial with regular members at one branch. Week nine: store release and rollout to both branches. Five months of free fixes follow launch.`,
+        `We would scope a Flutter app for members, a web dashboard for owner, desk staff and trainers, QR check-in valid at both branches, class booking with waitlists, renewal reminders with a UPI payment link, and a trainer plan builder, starting from ${P.app} with extra lines for the second branch and WhatsApp reminders. Weeks one and two: rules and flows. Weeks three to seven: app, backend and dashboard. Week eight: a trial with regular members at one branch. Week nine: store release and rollout to both branches. Two months of free fixes follow launch.`,
       ],
     },
     {
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
         ["WhatsApp and AI automation", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Renewal nudges, enquiry replies, lead sorting"],
         ["Gym website with trial booking", `From ${P.site}`, `From ${P.siteUsd}`, "1–2 weeks", "Plans, trainers, trial class form, local SEO basics"],
         ["Supplement and merchandise store", `From ${P.shop}`, `From ${P.shopUsd}`, "4–8 weeks", "Catalogue, UPI and card checkout"],
-        ["Maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, small changes"],
+        ["Maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "OS updates, fixes, small changes"],
       ],
       hideSm: [2],
     },
@@ -334,7 +334,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "You create the Google Play and Apple developer accounts and cloud hosting with our help, then add us as users."],
       ["Weekly builds on your phone", "Test builds arrive every week so you and a couple of trainers can try booking, check-in and plans as they take shape."],
       ["Trial run and store release", "We test at your front desk during a busy hour, run a trial with regular members, fix issues and publish to both stores."],
-      ["Five months of free fixes", "Bug fixes and small changes are free for five months after launch, then optional maintenance from " + P.care + " a month."],
+      ["Two months of free fixes", "Bug fixes and small changes are free for two months after launch, then optional maintenance from " + P.care + " a month."],
     ],
   },
   faqHeading: "Fitness app developer: frequently asked questions",
@@ -355,9 +355,9 @@ const content: FreelanceContent = {
     { question: "Can I sell online workout programmes through the app?", answer: "Yes, but plan for store billing. Recorded programmes and group online classes consumed in the app generally must use Google Play or Apple in-app purchase, which carries a commission. One-to-one live coaching and in-person services have more flexibility. Some coaches sell programmes on their website and deliver them in the app." },
     { question: "How can a gym app reduce missed renewals?", answer: "Automatic reminders a week before expiry and on the expiry day, a one-tap payment link, and a daily list for desk staff of members who are due or overdue. Sending the reminders on WhatsApp as well as push notifications usually improves response. Many gyms find this single flow justifies much of the app." },
     { question: "Can you build an app for a yoga studio or personal trainer?", answer: "Yes. Yoga and dance studios usually need a booking-focused app with timetables, capacity, waitlists and passes. Personal trainers and online coaches need plan builders, progress logs, check-in forms and chat. Solo trainers starting out may be better served by a website and WhatsApp first, adding an app once they have enough clients." },
-    { question: "Gym ke liye app banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath gym ya studio ka Android aur iPhone app ${P.app} se shuru hota hai. Isme membership, check-in, class booking, workout plan aur owner dashboard shaamil hai. Zyada branches, video ya smartwatch sync se kharcha badhta hai. Itemised quote pehle milta hai aur launch ke baad 5 mahine fixes free hain.` },
+    { question: "Gym ke liye app banwane mein kitna kharcha hai?", answer: `BtechWaleTech ke saath gym ya studio ka Android aur iPhone app ${P.app} se shuru hota hai. Isme membership, check-in, class booking, workout plan aur owner dashboard shaamil hai. Zyada branches, video ya smartwatch sync se kharcha badhta hai. Itemised quote pehle milta hai aur launch ke baad 2 mahine fixes free hain.` },
     { question: "Do you build fitness apps for clients outside India?", answer: `Yes. We work with gyms, studios and coaches in the USA, UK, Canada, Australia, the UAE and elsewhere, billed in USD from ${P.appUsd}. We plan calls in overlapping hours, share weekly test builds and accept payment through Wise, bank wire or PayPal.` },
-    { question: "What support do I get after the fitness app launches?", answer: `BtechWaleTech includes five months of free maintenance after launch for bug fixes, small changes and updates required by new Android and iOS versions. After that, maintenance is optional from ${P.care} a month, and your code is documented so another developer could take over if you prefer.` },
+    { question: "What support do I get after the fitness app launches?", answer: `BtechWaleTech includes two months of free maintenance after launch for bug fixes, small changes and updates required by new Android and iOS versions. After that, maintenance is optional from ${P.care} a month, and your code is documented so another developer could take over if you prefer.` },
   ],
   related: {
     heading: "More on apps for gyms, bookings and health",
@@ -379,7 +379,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Planning a gym or fitness app? Talk to the developers",
-    note: `Tell us on WhatsApp how your gym or studio runs. Within about two working days you get an itemised quote, with fitness apps from ${P.app}, store accounts and member data in your name and five months of free fixes after launch.`,
+    note: `Tell us on WhatsApp how your gym or studio runs. Within about two working days you get an itemised quote, with fitness apps from ${P.app}, store accounts and member data in your name and two months of free fixes after launch.`,
   },
 };
 

@@ -56,7 +56,7 @@ const tamluk: CityContent = {
     ai: "WhatsApp assistants that reply in Bengali to fee, timing and appointment questions and hand real decisions to your staff.",
     data: "Dashboards of patient footfall, admissions, dues and orders by block across Purba Medinipur.",
     app: "Android and iOS apps from ₹40,000 for clinic tokens, coaching notices or dealer re-orders, published on Google Play and the App Store in your account.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for backups, updates and security patches.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for backups, updates and security patches.",
   },
   whyUsIntro:
     "People in Tamluk tend to ask around before they pay anyone. We make that easier: starting prices are on this page, the quote comes itemised and in writing, WhatsApp gets a reply every day of the week, and your domain, hosting, code and app store accounts stay registered in your own name.",
@@ -166,7 +166,7 @@ const tamluk: CityContent = {
       paragraphs: [
         "The honest answer to “what is the <strong>website cost in Tamluk</strong>?” is that it depends on what the site has to do. Local quotes vary widely, from very cheap template sites to expensive agency proposals, so compare what each quote includes: who owns the domain, whether hosting renewal is extra, how many revisions you get, whether Bengali content is written or just translated by machine, and what happens after launch.",
         "Our starting prices are published. A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 299+ pages starts at ₹20,000 and takes three to five weeks. Online stores start at ₹50,000, Android and iOS apps at ₹40,000, AI automation at ₹40,000, and custom web apps or software at ₹60,000. Full details are on our <a href=\"/pricing/\">pricing page</a>.",
-        "You receive a written, itemised quote within about two working days of sharing your requirements, and nothing is billed until you approve it. After launch, five months of maintenance are free, and plans start from ₹8,000 a month after that.",
+        "You receive a written, itemised quote within about two working days of sharing your requirements, and nothing is billed until you approve it. After launch, two months of maintenance are free, and plans start from ₹8,000 a month after that.",
       ],
     },
     {
@@ -183,7 +183,7 @@ const tamluk: CityContent = {
       heading: "You own it: domain, hosting, code and maintenance for Tamluk clients",
       paragraphs: [
         "A common complaint we hear from small businesses in Bengal is that an earlier developer registered the domain in their own name and then stopped responding. We do the opposite. Your domain, hosting, source code, Google Business Profile and app store developer accounts are registered to you, and we hand over every login in writing.",
-        "After launch you get five months of free maintenance: security updates, backups, minor text and photo changes, and fixes if anything breaks. After that, maintenance plans start from ₹8,000 a month. If you would rather manage the site yourself or move to another developer, you can take the code and go, with no lock-in.",
+        "After launch you get two months of free maintenance: security updates, backups, minor text and photo changes, and fixes if anything breaks. After that, maintenance plans start from ₹8,000 a month. If you would rather manage the site yourself or move to another developer, you can take the code and go, with no lock-in.",
         "For businesses that want to keep growing search traffic, our <a href=\"/services/seo-services/\">SEO service</a> and <a href=\"/services/web-development/\">web development service</a> can continue monthly, but neither is required.",
       ],
     },
@@ -266,7 +266,7 @@ const tamluk: CityContent = {
     {
       question: "What does maintenance cost after the website goes live?",
       answer:
-        "The first five months after launch are free, covering security updates, backups, small content changes and fixes. After that, maintenance plans start from ₹8,000 a month. If your site rarely changes, we can suggest a lighter arrangement, and you are never forced to continue with us.",
+        "The first two months after launch are free, covering security updates, backups, small content changes and fixes. After that, maintenance plans start from ₹8,000 a month. If your site rarely changes, we can suggest a lighter arrangement, and you are never forced to continue with us.",
     },
     {
       question: "Do you work with businesses in Haldia, Panskura and Nandakumar as well?",

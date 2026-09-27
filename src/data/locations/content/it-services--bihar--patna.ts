@@ -7,7 +7,7 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Patna: Apps & AI",
     description:
-      "Freelance software developers for Patna: custom software, web and mobile apps, AI automation and SEO. Three remote engineers, 5 months free support.",
+      "Freelance software developers for Patna: custom software, web and mobile apps, AI automation and SEO. Three remote engineers, 2 months free support.",
     keywords: [
       "software development team in Patna",
       "IT services team in Patna",
@@ -43,7 +43,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Android and iOS apps from ₹40,000", "Dashboards over Tally and Excel", "Hindi and English interfaces"],
   },
   quickAnswer:
-    "For a Patna business, custom software or a web app with us starts at ₹60,000 (six to twelve weeks), Android and iOS apps at ₹40,000 (six to ten weeks), AI automation at ₹40,000, websites at ₹10,000 and online stores at ₹50,000. BtechWaleTech is a freelance group of three remote engineers in India, with five months of free maintenance.",
+    "For a Patna business, custom software or a web app with us starts at ₹60,000 (six to twelve weeks), Android and iOS apps at ₹40,000 (six to ten weeks), AI automation at ₹40,000, websites at ₹10,000 and online stores at ₹50,000. BtechWaleTech is a freelance group of three remote engineers in India, with two months of free maintenance.",
   snapshot: [
     { label: "Commercial corridors", value: "Fraser Road, Exhibition Road, Boring Road, Bailey Road and Dak Bungalow Chauraha" },
     { label: "Old trading town", value: "Patna City with Marufganj grain market, Chowk and Gulzarbagh, plus wholesale around Mahendru" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents that reply to enquiries in Hindi or English, qualify leads, book demo classes and pass hot prospects to your counsellor.",
     data: "Dashboards that turn Tally exports, fee registers and Google Sheets into a daily view of collections, dues and branch performance.",
     app: "Android and iOS apps from ₹40,000, built once in Flutter or React Native for Patna coaching students, clinic patients and dealers, and published on Google Play and the App Store.",
-    maintenance: "Backups, fixes, security updates and small changes, free for five months after launch and from ₹8,000 a month afterwards.",
+    maintenance: "Backups, fixes, security updates and small changes, free for two months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
     "Patna has plenty of people who can make a website, and a handful of larger firms that mostly chase government tenders. Owners in between, running a coaching chain or a pharma distributorship, rarely find engineers who will build proper software, explain it in Hindi and stay reachable after go-live. That is the gap we try to fill.",
@@ -196,8 +196,8 @@ const content: CityContent = {
       id: "it-support-maintenance-patna",
       heading: "IT support and maintenance after launch",
       paragraphs: [
-        "Software needs looking after once it is live: libraries need security updates, backups need testing, and users will ask for small changes as they get comfortable. Every project we deliver includes five months of maintenance free after hosting goes live, covering bug fixes, updates, backups, uptime checks and minor content edits.",
-        "After those five months, support plans start at ₹8,000 a month, or you can simply message us when something needs doing and pay for that piece of work. We reply on WhatsApp seven days a week, including during Chhath and Durga Puja when local staff are away. If a problem is urgent, such as a payment page failing during admissions, it is handled first.",
+        "Software needs looking after once it is live: libraries need security updates, backups need testing, and users will ask for small changes as they get comfortable. Every project we deliver includes two months of maintenance free after hosting goes live, covering bug fixes, updates, backups, uptime checks and minor content edits.",
+        "After those two months, support plans start at ₹8,000 a month, or you can simply message us when something needs doing and pay for that piece of work. We reply on WhatsApp seven days a week, including during Chhath and Durga Puja when local staff are away. If a problem is urgent, such as a payment page failing during admissions, it is handled first.",
       ],
     },
     {
@@ -302,7 +302,7 @@ const content: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Five months of maintenance are included free once hosting is live. That covers bug fixes, security and library updates, backups, uptime and speed checks, and small text or content changes. Afterwards you can continue from ₹8,000 a month, or pay only when you need something done. Requests are handled over WhatsApp every day of the week.",
+        "Two months of maintenance are included free once hosting is live. That covers bug fixes, security and library updates, backups, uptime and speed checks, and small text or content changes. Afterwards you can continue from ₹8,000 a month, or pay only when you need something done. Requests are handled over WhatsApp every day of the week.",
     },
     {
       question: "How soon will SEO bring results in Patna?",

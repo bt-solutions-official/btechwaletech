@@ -40,11 +40,11 @@ const content: CityContent = {
     eyebrow: "Agra · Uttar Pradesh · Software and automation",
     h1: "Freelance software developers in Agra for order systems, apps and AI workflows",
     lede:
-      "If you are searching for a software development team in Agra, BtechWaleTech offers another route: a freelance group of three engineers in India who write custom software, web applications, installable apps and AI automations for Agra businesses. Footwear units in Sikandra, hotels on Fatehabad Road, petha and marble-inlay sellers, clinics and schools all get the same thing: a quoted starting price, direct access to the developers and five months of free maintenance once you go live.",
+      "If you are searching for a software development team in Agra, BtechWaleTech offers another route: a freelance group of three engineers in India who write custom software, web applications, installable apps and AI automations for Agra businesses. Footwear units in Sikandra, hotels on Fatehabad Road, petha and marble-inlay sellers, clinics and schools all get the same thing: a quoted starting price, direct access to the developers and two months of free maintenance once you go live.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Export order tracking", "Hotel and tour booking flows", "Code and domain in your name"],
   },
   quickAnswer:
-    "As a freelance software development team serving Agra remotely, we build custom web apps and portals from ₹60,000 in six to twelve weeks, AI and WhatsApp automations from ₹40,000 in two to four weeks, and websites from ₹10,000. You get an itemised quote in about two working days and five months of free maintenance after launch.",
+    "As a freelance software development team serving Agra remotely, we build custom web apps and portals from ₹60,000 in six to twelve weeks, AI and WhatsApp automations from ₹40,000 in two to four weeks, and websites from ₹10,000. You get an itemised quote in about two working days and two months of free maintenance after launch.",
   snapshot: [
     { label: "Commercial centres", value: "Sanjay Place, MG Road, Civil Lines, Kamla Nagar, Belanganj and the old markets of Kinari Bazaar and Johri Bazaar" },
     { label: "Industrial estates", value: "UPSIDC Sikandra, Nunhai, Foundry Nagar and the Kosi Kalan–Mathura Road manufacturing stretch" },
@@ -64,7 +64,7 @@ const content: CityContent = {
     ai: "AI agents that answer booking, rate and stock questions on WhatsApp, draft buyer replies in English and route leads to the right person in your firm.",
     data: "Dashboards that pull sales from Tally or spreadsheets, so owners in Sikandra or Sanjay Place see pending orders and receivables at a glance.",
     app: "Android and iOS apps for Agra footwear sales teams, hotel guests and petha retailers, built once in Flutter or React Native and published on Google Play and the App Store, from ₹40,000.",
-    maintenance: "Bug fixes, backups, security updates and small changes, free for five months after launch and from ₹8,000 a month after that.",
+    maintenance: "Bug fixes, backups, security updates and small changes, free for two months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
     "Agra has plenty of website makers but far fewer people who will sit with a footwear exporter and turn a messy order process into working software. We are a small remote team that writes the code ourselves, publishes starting prices and keeps the same engineers on your project from first call to handover.",
@@ -189,7 +189,7 @@ const content: CityContent = {
       id: "it-support-agra",
       heading: "IT support, maintenance and updates after your Agra project goes live",
       paragraphs: [
-        "Every Agra project we launch includes five months of free maintenance after hosting goes live, covering bug fixes, content changes, security updates, backups and speed checks. After that, a monthly plan starts at ₹8,000, or you can call on us only when something needs doing.",
+        "Every Agra project we launch includes two months of free maintenance after hosting goes live, covering bug fixes, content changes, security updates, backups and speed checks. After that, a monthly plan starts at ₹8,000, or you can call on us only when something needs doing.",
         "Maintenance for software is different from maintenance for a brochure site. Business rules change: a new GST treatment, an extra production stage, a different commission structure for tour agents. We handle those changes in the same codebase instead of patching around it, and we keep dependencies updated so security holes do not pile up quietly.",
         "Support happens on WhatsApp, seven days a week, with screen-share calls when needed. Because the engineers who built your system also maintain it, there is no hand-off to a support desk that has never seen your code.",
       ],
@@ -284,7 +284,7 @@ const content: CityContent = {
     {
       question: "What happens after launch, and is maintenance included?",
       answer:
-        "Five months of maintenance are included free once hosting is live. That covers bug fixes, small content and feature changes, security updates, backups and uptime and speed checks. After those months you can continue on a plan from ₹8,000 a month or contact us only when you need changes. Support is on WhatsApp seven days a week.",
+        "Two months of maintenance are included free once hosting is live. That covers bug fixes, small content and feature changes, security updates, backups and uptime and speed checks. After those months you can continue on a plan from ₹8,000 a month or contact us only when you need changes. Support is on WhatsApp seven days a week.",
     },
     {
       question: "Can an AI agent answer our hotel or showroom enquiries?",

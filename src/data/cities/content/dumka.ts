@@ -56,7 +56,7 @@ const dumka: CityContent = {
     ai: "WhatsApp assistants that answer fee, stock, route and room questions in Hindi and send anything unusual to a real person.",
     data: "Dashboards showing cocoon lots by block, truck loads by site, OPD numbers by day or admissions by course, updated from a shared sheet.",
     app: "Android and iOS apps for coaching institutes, clinics or pilgrim lodges in Dumka, from ₹40,000, published on Google Play and the App Store under your own accounts.",
-    maintenance: "No charge for upkeep in the first five months after launch; after that, maintenance starts at ₹8,000 a month if you want us to continue.",
+    maintenance: "No charge for upkeep in the first two months after launch; after that, maintenance starts at ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
     "People in Dumka have heard plenty of promises from outsiders, so we keep ours short and written. Starting prices are public, every quote lists each item, WhatsApp is answered on all seven days, and the domain, hosting, source code and app store accounts are registered in your name before launch.",
@@ -185,7 +185,7 @@ const dumka: CityContent = {
       heading: "Ownership, maintenance and support for Dumka websites and apps",
       paragraphs: [
         "Everything we build for you is registered to you from the start. The domain is booked on your email, hosting is billed in your name, the source code is shared with you, and the Google Business Profile, Google Play developer account and Apple developer account list you as owner. At handover you receive a document with every login and what it is for.",
-        "For five months after launch, maintenance costs nothing. In that period we update rates and photos, take backups, apply security and software updates and test the forms, payment page and WhatsApp buttons from time to time. After that you choose: keep us on from ₹8,000 a month, do it yourself, or pass the code to another developer without asking our permission.",
+        "For two months after launch, maintenance costs nothing. In that period we update rates and photos, take backups, apply security and software updates and test the forms, payment page and WhatsApp buttons from time to time. After that you choose: keep us on from ₹8,000 a month, do it yourself, or pass the code to another developer without asking our permission.",
         "Apps need attention once a year even when they work, because Google and Apple keep raising the minimum versions they accept. We track those deadlines and ship an updated build early, so your listing is not removed. Seasonal businesses around Basukinath should also plan a content check before every Shravan.",
         "We work across the district and nearby: Basukinath and Jarmundi, Hansdiha, Shikaripara, Kathikund, Masalia, Ranishwar, Massanjore, and towns such as Deoghar, Pakur, Godda, Rampurhat and Bhagalpur. Pages for several towns each get their own true details, never a copy with the name swapped.",
       ],
@@ -269,7 +269,7 @@ const dumka: CityContent = {
     {
       question: "What maintenance do I get after my Dumka site goes live?",
       answer:
-        "The first five months of maintenance are free: rate and photo changes, backups, security updates and checks of forms, payments and WhatsApp buttons. After that you can continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer.",
+        "The first two months of maintenance are free: rate and photo changes, backups, security updates and checks of forms, payments and WhatsApp buttons. After that you can continue with us from ₹8,000 a month, manage it yourself, or hand the code to another developer.",
     },
     {
       question: "Do you work in Basukinath, Jarmundi, Hansdiha and Shikaripara too?",

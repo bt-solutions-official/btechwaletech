@@ -56,7 +56,7 @@ const nimbahera: CityContent = {
     ai: "WhatsApp assistants in Hindi that answer rate, stock and admission questions and forward serious enquiries to you.",
     data: "Dashboards of trucks dispatched, tonnage billed, labour days, payments pending and mandi purchases by crop.",
     app: "Android and iOS apps for truck drivers to log trips, for site supervisors to mark attendance or for school parents, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then from ₹8,000 a month for backups, updates and security fixes.",
+    maintenance: "Two free months of maintenance after launch, then from ₹8,000 a month for backups, updates and security fixes.",
   },
   whyUsIntro:
     "Traders in Nimbahera bargain hard and remember who kept their word. We put our starting prices in public, send a written quote with each item listed, reply on WhatsApp seven days a week, and register the domain, hosting, code and app store accounts in your name. If a feature will not earn back its cost, we say that first.",
@@ -170,7 +170,7 @@ const nimbahera: CityContent = {
       heading: "Who owns your Nimbahera website, and how we maintain it",
       paragraphs: [
         "A frequent complaint in smaller towns is a website that vanished because the domain was registered in the developer's name. We register your domain, hosting, source code, Google Business Profile and Play Store and App Store developer accounts to you, and hand over the logins in writing.",
-        "For five months after launch, maintenance is free. That includes content and rate changes, backups, security and software updates, and checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you may switch to any other developer whenever you like.",
+        "For two months after launch, maintenance is free. That includes content and rate changes, backups, security and software updates, and checks that forms, payment links and WhatsApp buttons still work. After that, maintenance starts at ₹8,000 a month if you want us to continue, and you may switch to any other developer whenever you like.",
         "Apps need an update every year or so because Google and Apple revise their requirements. We watch those changes so your app stays listed rather than getting removed for falling behind.",
       ],
     },
@@ -267,7 +267,7 @@ const nimbahera: CityContent = {
     {
       question: "What maintenance is included after launch?",
       answer:
-        "Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you choose to continue. You can take your code and move to another developer at any time.",
+        "Maintenance is free for two months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you choose to continue. You can take your code and move to another developer at any time.",
     },
     {
       question: "Do you also work in Bari Sadri, Chhoti Sadri and Neemuch?",

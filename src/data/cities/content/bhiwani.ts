@@ -30,7 +30,7 @@ const bhiwani: CityContent = {
     eyebrow: "Bhiwani · Haryana",
     h1: "Bhiwani websites that work as hard as its boxers: design, SEO and automation",
     lede:
-      "BtechWaleTech is a remote team of three engineers making websites, Google Maps profiles and WhatsApp workflows for Bhiwani's cloth and grain traders, sports academies, schools, coaching centres, hospitals and shops. Our starting prices are public, you own the domain and code outright, and five months of maintenance after launch are included free.",
+      "BtechWaleTech is a remote team of three engineers making websites, Google Maps profiles and WhatsApp workflows for Bhiwani's cloth and grain traders, sports academies, schools, coaching centres, hospitals and shops. Our starting prices are public, you own the domain and code outright, and two months of maintenance after launch are included free.",
     pills: ["Websites from ₹10,000", "Hindi and Haryanvi-friendly SEO", "Academy and coaching sites", "WhatsApp lead capture", "You own the code"],
   },
   quickAnswer:
@@ -51,7 +51,7 @@ const bhiwani: CityContent = {
     ai: "WhatsApp assistants that share fee structures, batch timings or stock lists in Hindi and route serious leads to the owner.",
     data: "Dashboards showing admissions by month, pending dues by customer or fabric sales by quality, readable on one phone screen.",
     app: "Android and iOS apps for athlete attendance, parent updates, student test scores or dealer orders, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month or a per-change charge.",
+    maintenance: "Free updates, backups and fixes for two months after launch, then from ₹8,000 a month or a per-change charge.",
   },
   whyUsIntro:
     "Plenty of Bhiwani businesses have been burned once: a website bought for a few thousand rupees, a developer who vanished, and a domain nobody can renew. We publish starting prices, send itemised quotes, reply on WhatsApp every day and register everything in your name from day one.",
@@ -168,7 +168,7 @@ const bhiwani: CityContent = {
       paragraphs: [
         "A domain registered in a developer's personal account is the most common trap we see. When that developer disappears, the business loses its website, its email and sometimes years of reviews linked to that address. Recovering control can take weeks.",
         "With us, the domain is in your name, hosting is on your account, and at launch you receive every login, the full source code and a simple document explaining the setup. You are free to move the site to another developer at any time. There is no exit fee and no permission needed.",
-        "Maintenance is free for five months after launch: content and price changes, bug fixes, security patches, backups and uptime monitoring. After that, you can choose a plan from ₹8,000 a month or pay per change if your site stays mostly the same through the year.",
+        "Maintenance is free for two months after launch: content and price changes, bug fixes, security patches, backups and uptime monitoring. After that, you can choose a plan from ₹8,000 a month or pay per change if your site stays mostly the same through the year.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const bhiwani: CityContent = {
     {
       question: "What happens after the free maintenance period?",
       answer:
-        "The first five months after launch are free. After that, a maintenance plan starts at ₹8,000 a month and covers updates, backups, security and small edits. If your site changes rarely, skip the plan and pay only for the changes you request.",
+        "The first two months after launch are free. After that, a maintenance plan starts at ₹8,000 a month and covers updates, backups, security and small edits. If your site changes rarely, skip the plan and pay only for the changes you request.",
     },
     {
       question: "How long before SEO shows results in Bhiwani?",

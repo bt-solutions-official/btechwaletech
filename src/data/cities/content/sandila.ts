@@ -56,7 +56,7 @@ const sandila: CityContent = {
     ai: "Hindi WhatsApp assistants that answer sweet orders, stock and timing questions and hand bulk or custom requests to you.",
     data: "Dashboards of daily sweet sales, festival order volumes, contractor bills and dispatch by customer.",
     app: "Android and iOS apps from ₹40,000 for repeat laddoo buyers, school parents or contractor crews, published on Google Play and the App Store.",
-    maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security.",
+    maintenance: "Free maintenance for two months after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:
     "Sandila's sweet makers have kept customers for decades by being consistent, and that is the standard we hold ourselves to. We publish starting prices, send an itemised written quote, reply on WhatsApp every day, and register domain, hosting, code and store accounts in your name. If a feature will not pay for itself, we say so up front.",
@@ -158,7 +158,7 @@ const sandila: CityContent = {
       heading: "Website cost in Sandila: starting prices and what to compare",
       paragraphs: [
         "The starting points are easy to state. A static website of up to 100 pages is ₹10,000 onwards and usually takes one to two weeks. An SEO website of 700 or more pages, for a supplier with many services or a hospital that wants a page for each department, is ₹20,000 onwards and takes three to five weeks. Android and iOS apps are ₹40,000 onwards, and AI or WhatsApp automation is also ₹40,000 onwards.",
-        "An online store for laddoos or embroidery starts at ₹50,000 and takes four to eight weeks. Custom software, such as a contractor's attendance and billing system, starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance, after five free months, at ₹8,000 a month.",
+        "An online store for laddoos or embroidery starts at ₹50,000 and takes four to eight weeks. Custom software, such as a contractor's attendance and billing system, starts at ₹60,000 and takes six to twelve weeks. Monthly SEO starts at ₹10,000 a month, and maintenance, after two free months, at ₹8,000 a month.",
         "The quote rises only with choices you make: Hindi and English versions, many products, gift box options, delivery rules, online payment, staff logins, SMS alerts or a Tally link. Each is a separate line, so you can remove anything that can wait. If you write your own text and send phone photographs, the content cost stays low.",
         "Prices from developers around Lucknow and Hardoi vary widely for work that sounds similar. Ask each one who will own the domain and hosting, whether the site is tested on basic phones, what SEO is included, how many revision rounds are covered and what support costs after launch. All our starting prices are on the <a href=\"/pricing/\">pricing page</a>, and an itemised written quote arrives within about two working days.",
       ],
@@ -178,7 +178,7 @@ const sandila: CityContent = {
       heading: "Ownership and maintenance for Sandila websites and apps",
       paragraphs: [
         "Everything we build is legally and practically yours. The domain is registered on your email, the hosting is billed to you, the full source code is handed over, and the Google Business Profile, Play Console and Apple developer accounts list you as owner. At handover you get a written list of all logins, so no one, including us, can keep control of your site.",
-        "Maintenance is free for five months after launch. We change prices and photos before festivals, take backups, apply security and version updates, and check that forms, UPI checkout and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage the site yourself, or hand the code to another developer without our permission.",
+        "Maintenance is free for two months after launch. We change prices and photos before festivals, take backups, apply security and version updates, and check that forms, UPI checkout and WhatsApp buttons still work. After that, you can continue with us from ₹8,000 a month, manage the site yourself, or hand the code to another developer without our permission.",
         "Apps need yearly updates because Google and Apple keep raising their requirements, and outdated apps can be removed from the stores. We track those deadlines and update early.",
         "For a sweet shop, the most valuable maintenance is often seasonal: new gift boxes before Diwali, updated prices, holiday closures and delivery cut-off dates. Keeping those details right does more for sales than any redesign.",
       ],
@@ -267,7 +267,7 @@ const sandila: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of free maintenance after launch, covering content changes, backups, security and version updates, and checks on forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer, since all accounts and code already belong to you.",
+        "You get two months of free maintenance after launch, covering content changes, backups, security and version updates, and checks on forms, UPI payments and WhatsApp links. After that you can continue from ₹8,000 a month, manage it yourself, or move to another developer, since all accounts and code already belong to you.",
     },
     {
       question: "Can you make websites for vendors in the Sandila industrial area?",

@@ -56,7 +56,7 @@ const miryalaguda: CityContent = {
     ai: "WhatsApp assistants that share today's rice rates, confirm lorry loading slots or book OPD appointments in Telugu and English.",
     data: "Dashboards of paddy bought, rice dispatched and dues by buyer, fed from Tally exports or daily mill entries.",
     app: "Android and iOS apps for mill buyers, lorry drivers or hospital patients, published on Google Play and the App Store, starting at ₹40,000.",
-    maintenance: "Rate updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month later.",
+    maintenance: "Rate updates, backups, security patches and uptime checks, free for two months after launch and from ₹8,000 a month later.",
   },
   whyUsIntro:
     "Miryalaguda millers and traders bargain hard and read the fine print. Our starting prices are published, every quote is broken into line items, WhatsApp messages get an answer seven days a week, and the domain, hosting and source code sit in your name. When a feature will not pay for itself, we tell you before you spend on it.",
@@ -156,7 +156,7 @@ const miryalaguda: CityContent = {
         "<strong>AI and WhatsApp automation:</strong> from ₹40,000, two to four weeks.",
         "<strong>Online store with UPI and Razorpay:</strong> ₹50,000 onwards, four to eight weeks.",
         "<strong>Custom mill or trading software:</strong> from ₹60,000, six to twelve weeks.",
-        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after five free months.",
+        "<strong>Monthly SEO from ₹10,000; maintenance from ₹8,000 a month</strong> after two free months.",
       ],
     },
     {
@@ -209,7 +209,7 @@ const miryalaguda: CityContent = {
       heading: "Your domain, your code, and care after launch",
       paragraphs: [
         "The domain is registered in your name, hosting runs under your account, and the full source code and every password are handed over at launch. App store listings sit in your developer accounts. If you later choose a developer in Nalgonda, Hyderabad or anywhere else, you can move without asking us and without paying a release fee.",
-        "Maintenance is free for five months after launch: security updates, backups, uptime checks and small edits such as new rates, doctor timings or festival banners. After that it costs from ₹8,000 a month and can be stopped whenever you like. If your staff want to change rates or photos themselves, we train them before handover.",
+        "Maintenance is free for two months after launch: security updates, backups, uptime checks and small edits such as new rates, doctor timings or festival banners. After that it costs from ₹8,000 a month and can be stopped whenever you like. If your staff want to change rates or photos themselves, we train them before handover.",
         "Data held in mill software or an app stays in your account and can be exported to Excel at any time. Details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
     },
@@ -302,7 +302,7 @@ const miryalaguda: CityContent = {
     {
       question: "How much does maintenance cost after launch?",
       answer:
-        "The first five months after launch are free, covering updates, backups, monitoring and small edits such as rates, timings or photos. After that, maintenance is from ₹8,000 a month and can be cancelled whenever you choose. We can also train your staff to handle simple updates themselves.",
+        "The first two months after launch are free, covering updates, backups, monitoring and small edits such as rates, timings or photos. After that, maintenance is from ₹8,000 a month and can be cancelled whenever you choose. We can also train your staff to handle simple updates themselves.",
     },
     {
       question: "Do you guarantee first rank on Google for Miryalaguda searches?",

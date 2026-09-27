@@ -323,7 +323,7 @@ const content: FreelanceContent = {
         ["Local business website", `From ${P.site}`, `From ${P.siteUsd}`, "One-time"],
         ["SEO website with many service and area pages", `From ${P.seoSite}`, `From ${P.seoSiteUsd}`, "One-time"],
         ["WhatsApp or AI enquiry automation", `From ${P.ai}`, `From ${P.aiUsd}`, "One-time"],
-        ["Website maintenance after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
+        ["Website maintenance after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly"],
       ],
     },
   ],

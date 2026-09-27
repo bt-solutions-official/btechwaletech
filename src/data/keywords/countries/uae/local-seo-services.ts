@@ -42,7 +42,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers, one leading technical and local SEO" },
     { value: "2", label: "Working days to an itemised local SEO plan" },
-    { value: "5", label: "Months of free site maintenance after a new build" },
+    { value: "2", label: "Months of free site maintenance after a new build" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -353,7 +353,7 @@ const content: FreelanceContent = {
         ["Multi-branch local SEO", "Clinic group or restaurant chain", "Quoted per branch", "One profile and one branch page per location"],
         ["New site with area pages", "Business outgrowing a one-page site", `From ${P.seoSite}`, "299+ page SEO website in 3–5 weeks"],
         ["Small static site", "New business needing a first site", `From ${P.site}`, "Up to 100 pages in 1–2 weeks"],
-        ["Ongoing site maintenance", "Any site after the free period", `From ${P.care}`, "Updates, backups and fixes after 5 free months"],
+        ["Ongoing site maintenance", "Any site after the free period", `From ${P.care}`, "Updates, backups and fixes after 2 free months"],
       ],
       hideSm: [1],
     },
@@ -429,7 +429,7 @@ const content: FreelanceContent = {
     { question: "Does local SEO help with AI search tools like ChatGPT and Google's AI features?", answer: "It helps. AI search tools draw on business listings, reviews and clear web pages when answering questions like the best physiotherapist in a named area. Accurate profiles, consistent citations and area pages with short, factual answers give them reliable information to cite. Nobody controls whether an AI tool mentions you, but clear data improves the odds." },
     { question: "What does local SEO involve for a clinic in the UAE?", answer: "A clinic needs the most specific medical category, accurate doctor and department details, bilingual service descriptions, and review replies that never reveal patient information. Treatment claims on profiles and pages must follow the relevant emirate's health advertising rules, which the clinic should confirm with its regulator or adviser. Branch pages and appointment tracking complete the set-up." },
     { question: "How are payments and quotes handled for UAE clients?", answer: "Quotes are itemised in USD within about two working days. Nothing is billed before you approve the quote in writing. UAE clients usually pay by Wise or bank wire, and invoices are issued from India. Payment stages and any contract terms are set out in your written quote; see our terms page for general conditions." },
-    { question: "Can you also build or fix my website for local SEO?", answer: `Yes. The same three developers who manage your profile build the pages it links to. A small static site starts from ${P.site} and an SEO website with 299+ pages starts from ${P.seoSite}. After launch you get five months of free maintenance, with ongoing care from ${P.care} afterwards.` },
+    { question: "Can you also build or fix my website for local SEO?", answer: `Yes. The same three developers who manage your profile build the pages it links to. A small static site starts from ${P.site} and an SEO website with 299+ pages starts from ${P.seoSite}. After launch you get two months of free maintenance, with ongoing care from ${P.care} afterwards.` },
   ],
   related: {
     heading: "More UAE pages on search and websites",

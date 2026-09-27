@@ -34,7 +34,7 @@ const chhapra: CityContent = {
     pills: ["From ₹10,000", "Hindi-first pages", "Google Maps setup", "WhatsApp enquiry tracking", "Your domain, your code"],
   },
   quickAnswer:
-    "In Chhapra, we build a business website of up to 100 pages from ₹10,000 in one to two weeks and a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores cost from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers, you own the domain and code, and the first five months of maintenance are free.",
+    "In Chhapra, we build a business website of up to 100 pages from ₹10,000 in one to two weeks and a 299+ page SEO website from ₹20,000 in three to five weeks. Online stores cost from ₹50,000 and custom software from ₹60,000. We are a remote team of three engineers, you own the domain and code, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Role", value: "Headquarters of Saran district and Saran division, about 70 km west of Patna" },
     { label: "Geography", value: "Near the meeting of the Ghaghara and the Ganga in north-western Bihar" },
@@ -51,7 +51,7 @@ const chhapra: CityContent = {
     ai: "WhatsApp assistants that reply to fee, appointment and price questions in Hindi at any hour and pass real enquiries to your counter.",
     data: "Simple dashboards that show collections, admissions or distributor sales daily, instead of someone totting up registers at night.",
     app: "Android and iPhone apps for students, field staff and delivery boys, listed on Google Play and the App Store, with builds starting at ₹40,000.",
-    maintenance: "Free fixes, updates and backups for five months after launch, then maintenance from ₹8,000 a month if you choose.",
+    maintenance: "Free fixes, updates and backups for two months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
     "Chhapra businesses usually buy websites through word of mouth, and many end up with a site they cannot edit, hosted in an account they have never seen. We publish our prices, answer WhatsApp messages every day of the week, and put the domain, hosting and code in your name from the start.",
@@ -73,7 +73,7 @@ const chhapra: CityContent = {
       paragraphs: [
         "Offers in Chhapra range from ₹2,000 packages to quotes from Patna firms that run into lakhs. A very cheap site is often a template on the designer's hosting, and it vanishes when you stop paying him. A very expensive one may include things you do not need. Ask for a list of what the price includes, in writing.",
         "Our starting prices are published. A static site of up to 100 pages is from ₹10,000 and takes one to two weeks. A 299+ page SEO site, with a page for each department, course, product range or service, is from ₹20,000 over three to five weeks. An online store with UPI and card payments via Razorpay starts at ₹50,000 and takes four to eight weeks. Custom software starts at ₹60,000 and takes six to twelve weeks.",
-        "WhatsApp and AI automation starts at ₹40,000, monthly SEO at ₹10,000, and paid maintenance at ₹8,000 a month after five free months. Details are on our <a href=\"/pricing/\">pricing page</a>. You get an itemised quote in about two working days after we understand your business.",
+        "WhatsApp and AI automation starts at ₹40,000, monthly SEO at ₹10,000, and paid maintenance at ₹8,000 a month after two free months. Details are on our <a href=\"/pricing/\">pricing page</a>. You get an itemised quote in about two working days after we understand your business.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> a site of up to 100 pages for a shop, clinic, advocate, tutor or tent house.",
@@ -175,7 +175,7 @@ const chhapra: CityContent = {
       paragraphs: [
         "Too many Chhapra businesses have lost a website because the designer kept the domain in his own name and later stopped answering. The site went offline at renewal time, along with the email address printed on every visiting card. We make sure that never happens to our clients.",
         "The domain is registered in your name and the hosting account opened in your name. At launch you receive all the logins, the full source code and a short written guide. You can move the site to any developer at any time without asking us or paying a fee.",
-        "For five months after launch we maintain the site free: text and price changes, fixes, security updates, backups and speed checks. After that, maintenance continues from ₹8,000 a month, or you pay only for work when you need it. See our <a href=\"/services/web-development/\">web development page</a> for what is included.",
+        "For two months after launch we maintain the site free: text and price changes, fixes, security updates, backups and speed checks. After that, maintenance continues from ₹8,000 a month, or you pay only for work when you need it. See our <a href=\"/services/web-development/\">web development page</a> for what is included.",
       ],
     },
     {
@@ -269,9 +269,9 @@ const chhapra: CityContent = {
         "You do. The domain and hosting are registered in your name, and at launch you get all logins and the full source code. You can move to another developer whenever you want without paying us or asking permission.",
     },
     {
-      question: "What happens after five months of free maintenance?",
+      question: "What happens after two months of free maintenance?",
       answer:
-        "For five months after launch we handle updates, fixes, backups and security at no cost. After that, you can choose maintenance from ₹8,000 a month or call us only when you need a change. There is no compulsory contract.",
+        "For two months after launch we handle updates, fixes, backups and security at no cost. After that, you can choose maintenance from ₹8,000 a month or call us only when you need a change. There is no compulsory contract.",
     },
     {
       question: "Can you make a page for the Sonepur fair season?",

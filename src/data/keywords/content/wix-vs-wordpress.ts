@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Online store from", `${P.shop}, 4–8 weeks`],
     ["Domain and hosting", "Registered in your name"],
     ["Quote", "Itemised, in about 2 working days"],
-    ["Aftercare", "5 months free after launch"],
+    ["Aftercare", "2 months free after launch"],
   ],
   stats: [
     { value: "2", label: "Platforms we build on, plus custom code" },
     { value: "100", label: "Pages in our static website plan" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Wix design and fixes", note: "Already committed to Wix? We can tidy layouts, fix mobile views and set up SEO fields inside the editor.", href: "/wix-website-designer/", size: "md" },
       { name: "WordPress speed rescue", note: "Slow WordPress site? We audit plugins, images and hosting, then fix what is dragging Core Web Vitals down.", href: "/wordpress-speed-optimization/", size: "sm" },
       { name: "Local SEO after launch", note: `Google Business Profile, local pages and monthly Search Console reporting, from ${P.seo}. No ranking promises.`, href: "/services/seo-services/", size: "sm" },
-      { name: "Maintenance plans", note: `Plugin updates, backups and small edits free for five months, then from ${P.care} if you want us to continue.`, href: "/website-maintenance-freelancer/", size: "sm" },
+      { name: "Maintenance plans", note: `Plugin updates, backups and small edits free for two months, then from ${P.care} if you want us to continue.`, href: "/website-maintenance-freelancer/", size: "sm" },
     ],
   },
   comparison: {
@@ -189,7 +189,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Wix maintains itself; WordPress needs someone to maintain it. That is the honest summary and the single biggest reason small businesses stay on Wix.`,
         `On Wix, the company patches the platform, runs the servers and handles SSL. Your job is content. On WordPress, core, theme and every plugin get updates, some of them security fixes. Skip updates for months, use a pirated “nulled” theme, or install twenty plugins, and the risk of a hacked site rises sharply. Cleaning up a spam-injected site costs far more than the updates that would have prevented it, so budget for upkeep from day one.`,
-        `Good WordPress maintenance is not hard: a short plugin list, automatic minor updates, weekly backups stored off the server, a firewall or security plugin, and someone who tests updates on a copy before applying big ones. With us, that is free for five months after launch and then available from ${P.care} a month. You can also run it yourself with a checklist we hand over.`,
+        `Good WordPress maintenance is not hard: a short plugin list, automatic minor updates, weekly backups stored off the server, a firewall or security plugin, and someone who tests updates on a copy before applying big ones. With us, that is free for two months after launch and then available from ${P.care} a month. You can also run it yourself with a checklist we hand over.`,
       ],
     },
     {
@@ -267,7 +267,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `This is a hypothetical scenario to show the reasoning, not a real client.`,
         `Say a two-therapist physiotherapy clinic in Madurai wants a site. The owner is busy, not technical, and wants patients to find the clinic for “back pain physiotherapy near me” and book by WhatsApp. Pages needed: home, about the therapists, six conditions treated, fees, location and contact. Content changes maybe twice a year. Tamil pages would be nice.`,
-        `Wix would work if the owner had time to build it; they do not. WordPress would work, but it brings update duties for a site that rarely changes. Our suggestion would be a static site from ${P.site}: fast on phones, no builder plan, a WhatsApp button with a prefilled message, clinic schema with opening hours, and Tamil versions of the condition pages with proper language tags. Edits come to us on WhatsApp and are free for five months.`,
+        `Wix would work if the owner had time to build it; they do not. WordPress would work, but it brings update duties for a site that rarely changes. Our suggestion would be a static site from ${P.site}: fast on phones, no builder plan, a WhatsApp button with a prefilled message, clinic schema with opening hours, and Tamil versions of the condition pages with proper language tags. Edits come to us on WhatsApp and are free for two months.`,
         `If the clinic later wanted online appointment slots and patient records, we would scope a custom tool separately; see <a href='/physiotherapy-clinic-software/'>physiotherapy clinic software</a>.`,
       ],
     },
@@ -294,7 +294,7 @@ const content: FreelanceContent = {
         ["Domain", "Free first year on some plans, then renewal", "Bought separately", "Bought separately, in your name"],
         ["Theme or design", "Templates included", "Free or premium theme", `Designed as part of the build, from ${P.site}`],
         ["Extra features", "Wix apps, some paid", "Plugins, some paid yearly", "Written into the site once"],
-        ["Maintenance", "Included", "Your time or a developer", `Free for 5 months, then from ${P.care}`],
+        ["Maintenance", "Included", "Your time or a developer", `Free for 2 months, then from ${P.care}`],
         ["Online store", "Ecommerce-capable plan", "WooCommerce plus extensions", `Custom store from ${P.shop}`],
       ],
       hideSm: [3],
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Approve an itemised quote", "Within about two working days you receive a line-by-line estimate. Nothing is billed until you approve it in writing."],
       ["Create accounts in your name", "Domain, hosting or Wix account, and admin logins are set up under your email. We join as collaborators, never owners."],
       ["Build and review on your phone", "You check pages on a staging link or preview, send comments on WhatsApp, and we revise before launch."],
-      ["Launch, redirect, look after it", "We connect the domain, set redirects, verify Search Console and hand over logins. Five months of maintenance follow free."],
+      ["Launch, redirect, look after it", "We connect the domain, set redirects, verify Search Console and hand over logins. Two months of maintenance follow free."],
     ],
   },
   faqHeading: "Wix vs WordPress: questions people ask",
@@ -382,7 +382,7 @@ const content: FreelanceContent = {
     { question: "Can WordPress handle Hindi and regional language pages?", answer: "Yes. WordPress supports Unicode text in Hindi, Tamil, Marathi and other scripts, and multilingual plugins or separate language sections can serve each version with correct language tags. Wix also offers multilingual features. Either way, you supply or approve the translated copy; good fonts and correct hreflang tags matter for readers and for Google." },
     { question: "Which platform is better for a blog, Wix or WordPress?", answer: "WordPress is the stronger blogging platform, with mature categories, tags, scheduling, revisions, author roles and import tools. Wix’s blog is fine for occasional posts. If publishing content regularly is central to how you get customers, WordPress, or a custom site with a headless content system, will scale better." },
     { question: "Will my Wix or WordPress site show up in AI answers like Google AI Overviews?", answer: "It can, if pages are clearly written and structured: direct answers under question headings, real text rather than images, FAQ and organisation schema, and fast loading. WordPress and custom sites allow finer control of schema and markup. No one can promise inclusion in AI answers, but clear, factual pages are quoted more often." },
-    { question: "Who maintains a WordPress site after launch?", answer: `Someone has to update WordPress core, the theme and plugins, check backups and watch for problems. With BtechWaleTech, maintenance is free for five months after launch and optional afterwards from ${P.care} a month. You can also do it yourself with the checklist we hand over, or give it to any other developer.` },
+    { question: "Who maintains a WordPress site after launch?", answer: `Someone has to update WordPress core, the theme and plugins, check backups and watch for problems. With BtechWaleTech, maintenance is free for two months after launch and optional afterwards from ${P.care} a month. You can also do it yourself with the checklist we hand over, or give it to any other developer.` },
     { question: "Can you build a site that is neither Wix nor WordPress?", answer: `Yes. A hand-built static site is often the best fit for businesses that rarely edit their site: fast, secure, and without a builder subscription or plugin updates. It starts at ${P.site} for up to 100 pages and takes 1–2 weeks. If you want to edit content yourself, we can add a simple headless CMS.` },
     { question: "Do I own my website if I use Wix?", answer: "You own the content you create, such as text, images and your brand, and you can connect and later move your own domain. The site’s design and structure, however, run only on Wix’s proprietary platform, so leaving Wix means rebuilding the site elsewhere. With self-hosted WordPress or custom code, the full site is yours to move." },
     { question: "Wix ya WordPress, chhote business ke liye kaunsa sahi hai?", answer: `Agar aap khud website banayenge aur hosting ka jhanjhat nahi chahiye, toh Wix aasaan hai. Agar SEO par zyada control, blog, WooCommerce store aur baad mein host badalne ki azaadi chahiye, toh WordPress better hai. Dono nahi chahiye? BtechWaleTech se fast website ${P.site} se shuru hoti hai, domain aur hosting aapke naam par.` },

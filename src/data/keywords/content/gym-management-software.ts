@@ -37,11 +37,11 @@ const content: FreelanceContent = {
     ["Quote turnaround", "About 2 working days"],
     ["Entry devices", "Fingerprint, face, card or QR"],
     ["Ownership", "Code and member data in your account"],
-    ["Free support", "5 months after go-live"],
+    ["Free support", "2 months after go-live"],
   ],
   stats: [
     { value: "3", label: "Developers building and supporting your system" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week on WhatsApp, gym hours included" },
     { value: "0", label: "Per-member or per-branch licence fees once you own it" },
   ],
@@ -59,7 +59,7 @@ const content: FreelanceContent = {
       { label: "Device link", value: "Your existing fingerprint, face or RFID controller" },
       { label: "Reminders", value: "WhatsApp before and after expiry" },
       { label: "Member app", value: `Optional, from ${P.app}` },
-      { label: "Upkeep", value: `5 free months, then from ${P.care}` },
+      { label: "Upkeep", value: `2 free months, then from ${P.care}` },
     ],
   },
   services: {
@@ -96,7 +96,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "Gym management software pricing for an owned system",
-    note: `An owned gym system starts at ${P.software}: members, plans, billing, renewals, freeze and transfer rules, PT packs, trainer commissions, reports and a link to one type of entry device. The estimate rises with each extra device model or turnstile controller, the number of branches with cross-access, how much history we import from registers or another system, and the WhatsApp flows you automate. A member app starts at ${P.app} and a gym website at ${P.site}. Hosting and WhatsApp message charges are paid by you to the providers. Five months of maintenance are free, and after that support is optional from ${P.care}.`,
+    note: `An owned gym system starts at ${P.software}: members, plans, billing, renewals, freeze and transfer rules, PT packs, trainer commissions, reports and a link to one type of entry device. The estimate rises with each extra device model or turnstile controller, the number of branches with cross-access, how much history we import from registers or another system, and the WhatsApp flows you automate. A member app starts at ${P.app} and a gym website at ${P.site}. Hosting and WhatsApp message charges are paid by you to the providers. Two months of maintenance are free, and after that support is optional from ${P.care}.`,
   },
   guideLabel: "Gym management software guide",
   guide: [
@@ -210,7 +210,7 @@ const content: FreelanceContent = {
       id: "cost",
       heading: "How much does gym management software cost: subscription or owning?",
       paragraphs: [
-        `Subscription gym software is usually billed monthly or yearly and often rises with members, branches or add-ons; quotes vary widely between vendors, so use the actual plan figures you are offered. An owned build with BtechWaleTech starts at ${P.software}, plus hosting you pay directly and optional maintenance from ${P.care} after five free months.`,
+        `Subscription gym software is usually billed monthly or yearly and often rises with members, branches or add-ons; quotes vary widely between vendors, so use the actual plan figures you are offered. An owned build with BtechWaleTech starts at ${P.software}, plus hosting you pay directly and optional maintenance from ${P.care} after two free months.`,
         `The fair comparison is over three years and includes growth. Write down the members and branches you expect by year three, price the subscription for that size using the vendor’s own plans, add any SMS or WhatsApp credit packs and device-integration add-ons, then compare with the build, hosting and maintenance. If the subscription is close to or cheaper than owning, and it supports your device and freeze rules, rent it.`,
         `Owning tends to win in three cases: a chain adding branches, a gym with unusual plans or PT pay rules, and a gym that wants member data in its own account for its own reports. What drives the build quote is not the number of members but the number of rules, device models and branches.`,
       ],
@@ -352,13 +352,13 @@ const content: FreelanceContent = {
       ["Confirm the device connection", "We check your device’s documented connection mode and test it through a remote session before building the access logic."],
       ["Test with dummy members", "Front-desk staff join, freeze, renew and transfer test members, and an expired test member is tried at the door after closing."],
       ["Go live on a quiet afternoon", "Active members are imported and checked, device access is synced, and we stay on WhatsApp through the first busy mornings."],
-      ["Support after launch", `The first five months of fixes and small changes are free. After that, maintenance continues from ${P.care} if you choose to keep it.`],
+      ["Support after launch", `The first two months of fixes and small changes are free. After that, maintenance continues from ${P.care} if you choose to keep it.`],
     ],
   },
   faqHeading: "Gym management software: questions gym owners ask",
   faqs: [
     { question: "What is gym management software?", answer: "Gym management software is the owner-side system for running a gym or fitness centre. It handles membership plans, billing and part payments, renewal reminders, entry control through biometric or face devices, freezes and transfers, personal training packs, trainer commissions, enquiries and reports. It differs from a fitness app, which members use for workouts and diet." },
-    { question: "How much does gym management software cost in India?", answer: `Subscription gym software is usually billed monthly or yearly and often rises with members, branches or add-ons; quotes vary widely between vendors. Owning your own gym management software with BtechWaleTech starts at ${P.software}, plus hosting paid directly to the provider and optional maintenance after five free months.` },
+    { question: "How much does gym management software cost in India?", answer: `Subscription gym software is usually billed monthly or yearly and often rises with members, branches or add-ons; quotes vary widely between vendors. Owning your own gym management software with BtechWaleTech starts at ${P.software}, plus hosting paid directly to the provider and optional maintenance after two free months.` },
     { question: "Can gym software connect to my fingerprint or face device?", answer: "Usually, if the device model supports integration through an SDK or a network or cloud push mode. We check your model’s documentation first. Once linked, members are enabled on the device when their plan is active and disabled automatically on expiry, freeze or overdue balances, and every entry comes back into the software as attendance." },
     { question: "Will expired members be blocked automatically?", answer: "Yes, when the software is linked to your entry device. When a plan expires, is frozen or has an overdue balance beyond the grace days you set, the member is disabled on the device and cannot pass the reader or turnstile. When they renew, access returns immediately. No one needs to edit fingerprints on the device by hand." },
     { question: "How does membership freeze work in gym software?", answer: "You set the rules: minimum and maximum freeze days, number of freezes per plan, any fee and whether long freezes need a note. When staff apply a freeze, the software extends the end date by the frozen days, blocks entry during the freeze and reactivates the member on the resume date. Every freeze is logged with who applied it." },
@@ -376,7 +376,7 @@ const content: FreelanceContent = {
     { question: "Who owns the gym software and member data?", answer: "You do. The code is in a repository you control, the database runs in your own cloud account and all logins are handed over at launch. You can move hosting or hand the system to another developer without permission or exit charges. Member data stays in your account for your own reports." },
     { question: "Do you install biometric devices or turnstiles?", answer: "No. We are software developers and do not supply, install or wire hardware. Your device dealer handles terminals, turnstiles and door locks. We confirm what your device supports, build the software link and guide your staff through testing remotely, including trying an expired test member at the door after closing time." },
     { question: "How do payments and contracts work with you?", answer: "You get an itemised written quote first, and nothing is billed until you approve it. Payments in India are by UPI or bank transfer, on the schedule written into your quote. Scope, milestones and ownership are set out in the quote, and any NDA or further terms are agreed in writing before work starts." },
-    { question: "What support do we get after launch?", answer: `Five months of maintenance are included after go-live, covering fixes, rule tweaks and updates. After that, maintenance is optional from ${P.care}. New pieces, such as a second branch, another device model or a member app, are quoted separately. We reply on WhatsApp seven days a week, including the early mornings when gyms are busiest.` },
+    { question: "What support do we get after launch?", answer: `Two months of maintenance are included after go-live, covering fixes, rule tweaks and updates. After that, maintenance is optional from ${P.care}. New pieces, such as a second branch, another device model or a member app, are quoted separately. We reply on WhatsApp seven days a week, including the early mornings when gyms are busiest.` },
     { question: "Gym ke liye software lena chahiye ya apna banwana chahiye?", answer: `Agar ek hi gym hai, device supported hai aur freeze ke rules simple hain, toh monthly plan wala software theek hai. Agar branch badh rahi hain, PT ka commission alag tarah se dete hain ya expired members bhi andar aa jaate hain, toh apna gym management software behtar hai. Hamare saath yeh ${P.software} se shuru hota hai.` },
   ],
   related: {

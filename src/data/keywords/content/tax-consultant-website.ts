@@ -38,7 +38,7 @@ const content: FreelanceContent = {
     ["Reminder automation from", `${P.ai}`],
     ["Best launch window", "Before Form 16 season in June"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["Free care after launch", "5 months"],
+    ["Free care after launch", "2 months"],
   ],
   stats: [
     { value: "100", label: "Pages included in the starter site plan" },
@@ -220,7 +220,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `A tax consultant website with BtechWaleTech starts at ${P.site} (${P.siteUsd}). That covers service-plus-price pages, checklists, a tax calendar, WhatsApp buttons, local business schema and Search Console setup.`,
         `Three things push the quote up. First, scale: if you want pages for every locality and service combination, the SEO website plan starts at ${P.seoSite}. Second, a client portal with login, uploads and return status starts at ${P.software}. Third, automation such as WhatsApp auto-replies and reminders starts at ${P.ai}. Writing the explainers ourselves is a separate line too; many consultants prefer to dictate and let us edit.`,
-        `Quotes elsewhere vary widely for the same brief, usually because some include content, portals or aftercare and others stop at a home page. Compare scope lines, not totals. After launch, maintenance is free for five months, then optional from ${P.care}.`,
+        `Quotes elsewhere vary widely for the same brief, usually because some include content, portals or aftercare and others stop at a home page. Compare scope lines, not totals. After launch, maintenance is free for two months, then optional from ${P.care}.`,
       ],
     },
     {
@@ -278,7 +278,7 @@ const content: FreelanceContent = {
       heading: "Handover, ownership and aftercare for your practice site",
       paragraphs: [
         `Everything is registered to you: domain, hosting, storage for client documents, WhatsApp Business account and code repository. We work as users you can remove at any time.`,
-        `At launch you get admin logins, a list of renewals, a short guide to changing fees and dates yourself, and notes on where uploads are stored and how backups work. The first five months of maintenance are free, which conveniently covers the first filing season: updating fees, adding a service page, fixing anything that breaks. After that, care continues from ${P.care} a month if you want it, or you can manage it yourselves.`,
+        `At launch you get admin logins, a list of renewals, a short guide to changing fees and dates yourself, and notes on where uploads are stored and how backups work. The first two months of maintenance are free, which conveniently covers the first filing season: updating fees, adding a service page, fixing anything that breaks. After that, care continues from ${P.care} a month if you want it, or you can manage it yourselves.`,
         `Ownership matters more for a tax practice than for most small businesses, because the website ends up holding years of client relationships: the reminder list, the enquiry log and, if you add the portal, uploaded documents. If a designer holds the hosting login, all of that is effectively theirs. We avoid the problem by never paying for your accounts on your behalf; renewals are charged to your card by the provider, and we only ever have user access you granted.`,
         `Before we step back, we run a short handover call with whoever in your office will manage the site. We walk through changing a fee, adding a deadline to the date table, removing a staff login and restoring a file from backup. It takes about half an hour, and it means your office is never stuck waiting for a developer during the week before 31 July.`,
       ],
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
         ["Client login, uploads, return status", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Hundreds of returns a season"],
         ["WhatsApp auto-replies and reminders", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Practices with repeat clients"],
         ["Monthly local SEO", `From ${P.seo}`, `From ${P.seoUsd}`, "Ongoing", "Competitive city markets"],
-        ["Care after 5 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fee and date updates, fixes"],
+        ["Care after 2 free months", `From ${P.care}`, `From ${P.careUsd}`, "Monthly", "Fee and date updates, fixes"],
       ],
       hideSm: [2],
     },
@@ -372,7 +372,7 @@ const content: FreelanceContent = {
       ["Accounts in your name", "Domain, hosting, document storage and WhatsApp Business account are opened for your practice, with us added as removable users."],
       ["Pages on a staging link", "You check fees, checklists and wording on your phone. We fix anything that reads like a promise you cannot keep."],
       ["Test the client journey", "We enquire, upload sample files, receive reminders and download an acknowledgement as a test client before real clients arrive."],
-      ["Go live before the season", `Launch ideally by April or May, with Search Console, profile updates and handover notes. Five months of care are free, then optional from ${P.care}.`],
+      ["Go live before the season", `Launch ideally by April or May, with Search Console, profile updates and handover notes. Two months of care are free, then optional from ${P.care}.`],
     ],
   },
   faqHeading: "Tax consultant website: common questions",
@@ -391,7 +391,7 @@ const content: FreelanceContent = {
     { question: "How is client PAN and Aadhaar data protected?", answer: "Documents are uploaded over encrypted connections into storage in your account, readable only by named staff with two-step login, with activity logs and scheduled deletion. The site shows a privacy notice and consent checkbox to support your duties under the DPDP Act, 2023; overall compliance is yours to confirm with an adviser." },
     { question: "Can you write the tax explainers for my website?", answer: "We can draft explainers from your notes or a recorded call, structure them for search and AI answers, and you check every figure and rule before publishing. Writing is a separate line in the quote. Many consultants dictate answers to common client questions and let us edit." },
     { question: "Will my site appear in Google AI Overviews or ChatGPT answers?", answer: "Pages that answer one question clearly, show an author with credentials and a recent update date have the best chance of being quoted. We structure explainers and FAQs that way. No one controls which pages AI tools cite, so treat it as a bonus, not a promise." },
-    { question: "Can I edit fees and deadlines myself after launch?", answer: "Yes. Fees and dates live in simple editable tables, so your staff can update them without a developer. During the five free months of maintenance we also make such edits on request, and afterwards care continues from a monthly starting price if you want it." },
+    { question: "Can I edit fees and deadlines myself after launch?", answer: "Yes. Fees and dates live in simple editable tables, so your staff can update them without a developer. During the two free months of maintenance we also make such edits on request, and afterwards care continues from a monthly starting price if you want it." },
     { question: "Freelance developers or a big agency for a tax practice site?", answer: "A tax consultant website has a clear scope, so a small freelance team is usually a good fit: direct contact with the people building it and no account-manager layer. Very large firms with many branches and in-house IT may prefer an agency. Either way, insist on owning every account." },
     { question: "How do I pay BtechWaleTech?", answer: "In India by UPI or bank transfer, in stages linked to visible progress, only after you approve the itemised written quote. Clients outside India pay in USD by Wise, bank wire or PayPal. Exact stages are set in your written quote, and general conditions are on our terms page." },
     { question: "Can the site connect to Tally or Google Sheets?", answer: "Enquiries, reminder lists and client status can sync with Google Sheets from the start. Links to accounting tools such as Tally depend on how your data is set up and are scoped separately in the quote, so we check your setup before promising anything." },
@@ -420,7 +420,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Want next season’s ITR and GST enquiries from your own website?",
-    note: `Send your service list and usual fees on WhatsApp. You get an itemised quote in about two working days, with tax consultant sites from ${P.site}, every account in your name and five months of free care after launch.`,
+    note: `Send your service list and usual fees on WhatsApp. You get an itemised quote in about two working days, with tax consultant sites from ${P.site}, every account in your name and two months of free care after launch.`,
   },
 };
 

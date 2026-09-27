@@ -56,7 +56,7 @@ const dhamtari: CityContent = {
     ai: "WhatsApp bots in Hindi that reply on rates, rooms, fees and timings and forward real decisions to you.",
     data: "Daily views of paddy received, rice produced, lorries dispatched and payments outstanding, on the owner's phone.",
     app: "Android and iOS apps for dealer orders, resort bookings or parent updates, from ₹40,000, listed on Google Play and the App Store.",
-    maintenance: "The first five months after go-live carry no upkeep fee; later plans start at ₹8,000 per month.",
+    maintenance: "The first two months after go-live carry no upkeep fee; later plans start at ₹8,000 per month.",
   },
   whyUsIntro:
     "Mill owners in Dhamtari check every figure twice, and they are right to. Our starting rates are published, quotes come itemised on paper, WhatsApp is answered on holidays as well, and the domain, hosting, code and store logins sit under your name. When a feature is unlikely to earn back its cost, we point that out before any money moves.",
@@ -187,7 +187,7 @@ const dhamtari: CityContent = {
       paragraphs: [
         "We cannot sit across the table in your mill office, so we put everything on paper instead. A first call covers your business, your buyers and the one or two outcomes that matter. A written scope follows with pages or screens, dates and an itemised price, and nothing is invoiced until you sign it. As the build progresses, preview links land on your phone so you, a partner or your munim can test and comment, and each later payment is linked to a part you have already used.",
         "Replies on WhatsApp come every day of the week in IST hours. Hindi text is sent for your approval before it is published, and if a deadline looks shaky we tell you at once rather than on the due date.",
-        "Plenty of owners have lost a website because the person who made it held the domain and then disappeared. We prevent that by registering the domain, hosting, code repository, Google profile and both app store developer accounts in your name and handing over every login in writing. For five months after launch, upkeep is free: bug fixes, backups, security updates and checks of forms, payments and WhatsApp links. From the sixth month, care costs ₹8,000 a month onwards if you want it, and you are free to take the code to another developer.",
+        "Plenty of owners have lost a website because the person who made it held the domain and then disappeared. We prevent that by registering the domain, hosting, code repository, Google profile and both app store developer accounts in your name and handing over every login in writing. For two months after launch, upkeep is free: bug fixes, backups, security updates and checks of forms, payments and WhatsApp links. From the third month, care costs ₹8,000 a month onwards if you want it, and you are free to take the code to another developer.",
       ],
     },
     {
@@ -278,7 +278,7 @@ const dhamtari: CityContent = {
     {
       question: "What happens after my website or app launches?",
       answer:
-        "You get five months of upkeep free: edits to text and prices, backups, security patches and regular checks on forms, payments and buttons. After that, plans begin at ₹8,000 a month if you want to continue, or you can hand the work to anyone, since the code and accounts belong to you.",
+        "You get two months of upkeep free: edits to text and prices, backups, security patches and regular checks on forms, payments and buttons. After that, plans begin at ₹8,000 a month if you want to continue, or you can hand the work to anyone, since the code and accounts belong to you.",
     },
     {
       question: "Do you work in Kurud, Nagri and Raipur too?",

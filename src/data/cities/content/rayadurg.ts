@@ -56,7 +56,7 @@ const rayadurg: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that answer rate, size-set and dispatch questions from retailers and pass bargaining to you.",
     data: "Dashboards of pieces produced per day, orders by buyer town, pending payments from agents and stock by style and size.",
     app: "Android and iOS apps for wholesale buyers to browse new denim styles and re-order sets, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for catalogue updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for catalogue updates, backups and security fixes.",
   },
   whyUsIntro:
     "Rayadurg's garment owners work on thin margins and count every rupee against pieces stitched. We keep that in mind: starting prices are published, quotes list each item, WhatsApp is answered daily, and the domain, hosting, code and app accounts are registered in your name. If a feature will not earn back its cost in a season, we tell you before you pay for it.",
@@ -185,7 +185,7 @@ const rayadurg: CityContent = {
       heading: "Ownership and maintenance for Rayadurg websites and apps",
       paragraphs: [
         "Everything we build is yours. The domain is registered with your email, hosting is billed in your name, you receive the complete source code, and your Google Business Profile, Google Play account and Apple developer account list you as owner. At handover we give you a written sheet of every login, so nobody, including us, can lock you out later.",
-        "For five months after launch, maintenance is free. In that time we update styles and rates, take backups, apply security updates and check that forms, payments and WhatsApp links work. After that you can continue with us from ₹8,000 a month, manage it yourself, or pass the code to another developer without asking our permission.",
+        "For two months after launch, maintenance is free. In that time we update styles and rates, take backups, apply security updates and check that forms, payments and WhatsApp links work. After that you can continue with us from ₹8,000 a month, manage it yourself, or pass the code to another developer without asking our permission.",
         "Apps need a rebuild every year or so because Google and Apple raise their minimum requirements. We track those deadlines and update early, so your app is not removed from the store in the middle of a busy season.",
       ],
     },
@@ -277,7 +277,7 @@ const rayadurg: CityContent = {
     {
       question: "What maintenance do you provide after the website goes live?",
       answer:
-        "The first five months after launch are free: we update styles, rates and photos, take backups, apply security patches and test forms, payments and WhatsApp links. After that, maintenance continues from ₹8,000 a month if you want it. Since the code and accounts are in your name, you are free to move elsewhere.",
+        "The first two months after launch are free: we update styles, rates and photos, take backups, apply security patches and test forms, payments and WhatsApp links. After that, maintenance continues from ₹8,000 a month if you want it. Since the code and accounts are in your name, you are free to move elsewhere.",
     },
     {
       question: "Do you work in Kanekal, Ballari and other nearby towns?",

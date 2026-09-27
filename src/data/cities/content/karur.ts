@@ -39,7 +39,7 @@ const karur: CityContent = {
     pills: ["Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Export buyer catalogues", "Tamil and English SEO", "Code and domain in your name"],
   },
   quickAnswer:
-    "For Karur businesses, our websites start at ₹10,000 (one to two weeks) and a 299+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, and online stores at ₹50,000. We are a remote team of three with no Karur office, and the first five months of maintenance are free.",
+    "For Karur businesses, our websites start at ₹10,000 (one to two weeks) and a 299+ page SEO website at ₹20,000. Android and iOS apps start at ₹40,000, AI and WhatsApp automation at ₹40,000, and online stores at ₹50,000. We are a remote team of three with no Karur office, and the first two months of maintenance are free.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Karur district, with Karur and Kulithalai as its two revenue divisions" },
     { label: "Rivers", value: "Lies by the Amaravathi, with the Kaveri and Noyyal close by; much of the district's farming is irrigated from them" },
@@ -56,7 +56,7 @@ const karur: CityContent = {
     ai: "AI replies on WhatsApp that answer rate, MOQ and delivery questions in Tamil or English and pass serious buyers to the owner.",
     data: "Dashboards that pull orders, looms, dispatch and payments into one view instead of four registers and a phone full of photos.",
     app: "Android and iOS apps, published on Google Play and the App Store from ₹40,000, for dealer ordering, coach build progress or school and clinic updates in Karur.",
-    maintenance: "Five months of free maintenance after launch, then updates, backups and security from ₹8,000 a month only if you choose to continue.",
+    maintenance: "Two months of free maintenance after launch, then updates, backups and security from ₹8,000 a month only if you choose to continue.",
   },
   whyUsIntro:
     "Karur's businesses already deal with demanding customers: buyers from European and American chains, transport operators waiting on a coach, contractors ordering in bulk. What most of them lack is a website and phone workflow that looks as organised as the work itself. We write the quote item by item, keep the domain and code in your name and reply on WhatsApp every day.",
@@ -140,7 +140,7 @@ const karur: CityContent = {
       paragraphs: [
         "Business owners in Karur tend to hear two kinds of quotes: a very low figure from someone who will reuse a template and keep the hosting login, or a large agency number that includes items a small firm never uses. Local quotes vary widely, so compare what is included rather than the headline figure: page count, content writing, search setup, whose name the domain is in, and support after launch.",
         "Our starting prices are public on the <a href=\"/pricing/\">pricing page</a>. A static website with up to 100 pages starts from ₹10,000 and is typically ready in one to two weeks. A 299+ page SEO website starts from ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, AI automation at ₹40,000 over two to four weeks, an online store at ₹50,000 over four to eight weeks, and custom software from ₹60,000 over six to twelve weeks.",
-        "The written quote lists every item, so an exporter can see exactly what a 300-product catalogue adds, and a shop can remove what it does not need. Monthly SEO starts from ₹10,000 a month, and maintenance is free for five months after launch.",
+        "The written quote lists every item, so an exporter can see exactly what a 300-product catalogue adds, and a shop can remove what it does not need. Monthly SEO starts from ₹10,000 a month, and maintenance is free for two months after launch.",
       ],
       list: [
         "<strong>From ₹10,000:</strong> up to 100 pages for shops, clinics, halls and small manufacturers",
@@ -192,7 +192,7 @@ const karur: CityContent = {
       paragraphs: [
         "A common story in towns like Karur: a website was made years ago by someone who registered the domain under their own name, and when they stopped answering calls, the owner could neither renew nor change it. Export firms have lost email addresses that buyers knew for a decade this way.",
         "We register the domain, hosting and app store accounts in your name from day one. At handover you get every login, the full source code and a short note explaining how things are set up. If you later want another developer, you can move without paying us anything.",
-        "For five months after launch, maintenance costs nothing: content and price changes, bug fixes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when something needs changing.",
+        "For two months after launch, maintenance costs nothing: content and price changes, bug fixes, security updates, backups and uptime checks. After that, maintenance continues from ₹8,000 a month if you want it, or you can contact us only when something needs changing.",
       ],
     },
   ],
@@ -279,7 +279,7 @@ const karur: CityContent = {
     {
       question: "What does maintenance cost after the free period?",
       answer:
-        "For the first five months after launch, content edits, fixes, security updates, backups and uptime checks are free. After that, maintenance starts from ₹8,000 a month if you want ongoing care, or you can simply contact us when a change is needed and pay for that work alone.",
+        "For the first two months after launch, content edits, fixes, security updates, backups and uptime checks are free. After that, maintenance starts from ₹8,000 a month if you want ongoing care, or you can simply contact us when a change is needed and pay for that work alone.",
     },
     {
       question: "Can you guarantee a first-page ranking for my Karur business?",

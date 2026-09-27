@@ -56,7 +56,7 @@ const tirupathur: CityContent = {
     ai: "Tamil WhatsApp assistants that answer fee, stock, room and timing questions and route real decisions to you.",
     data: "Dashboards of admissions by course, bookings by month, orders by buyer and dues by customer.",
     app: "Android and iOS apps for college notices, resort bookings or dealer re-orders, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Tirupathur customers compare carefully and talk to each other, so a vendor who overpromises is found out quickly. We publish starting prices, send a written itemised quote, reply on WhatsApp every day of the week and keep your domain, hosting, code and app store accounts in your name. If something will not pay back, we tell you.",
@@ -176,7 +176,7 @@ const tirupathur: CityContent = {
       heading: "Ownership and maintenance for Tirupathur websites and apps",
       paragraphs: [
         "Plenty of Tirupathur owners have lost a site because a freelancer booked the domain for himself and later changed his number. With us, every account that matters, from domain and server to code repository, Google profile and both app store listings, is opened under your name, and a written sheet of passwords is handed over at launch.",
-        "For the first five months after going live we look after the site at no cost: text and rate changes, backups, security fixes, plugin and framework upgrades, and routine tests of enquiry forms, payment pages and chat buttons. From the sixth month, continued care is ₹8,000 a month onwards, purely optional, and you are free to hand the work to someone else.",
+        "For the first two months after going live we look after the site at no cost: text and rate changes, backups, security fixes, plugin and framework upgrades, and routine tests of enquiry forms, payment pages and chat buttons. From the third month, continued care is ₹8,000 a month onwards, purely optional, and you are free to hand the work to someone else.",
         "Mobile apps also age. Google and Apple raise their minimum requirements every year, and we plan those upgrades ahead of the deadline so your listing stays live.",
       ],
     },
@@ -268,7 +268,7 @@ const tirupathur: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "You get five months of upkeep free once the project is live, including edits, backups, patches and working checks on forms and payments. Later support is optional and begins at ₹8,000 per month. Since the code is yours, switching developers is always possible.",
+        "You get two months of upkeep free once the project is live, including edits, backups, patches and working checks on forms and payments. Later support is optional and begins at ₹8,000 per month. Since the code is yours, switching developers is always possible.",
     },
     {
       question: "Do you work in Jolarpettai, Vaniyambadi and Ambur too?",

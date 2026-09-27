@@ -43,7 +43,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "2", label: "Team members focused on data and ML" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free support after delivery" },
+    { value: "2", label: "Months of free support after delivery" },
     { value: "0", label: "Platform or middleman fees" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Tools", value: "Python, SQL, scikit-learn, Power BI or Looker Studio" },
       { label: "Data handling", value: "Stays in your database, drive or cloud account" },
       { label: "Payment", value: "UPI or bank transfer in India; Wise, wire or PayPal abroad" },
-      { label: "Support", value: `5 months free, then from ${P.care} a month` },
+      { label: "Support", value: `2 months free, then from ${P.care} a month` },
     ],
   },
   services: {
@@ -175,7 +175,7 @@ const content: FreelanceContent = {
       heading: "How much does a freelance data scientist cost in India?",
       paragraphs: [
         `Cost depends on how messy the data is, how many sources must be joined, and whether the output must run automatically. The modelling itself is often the smaller part; cleaning, joining and deploying usually take longer.`,
-        `With BtechWaleTech, a model deployed into your workflow, for example a weekly demand forecast written to a Google Sheet or a lead score posted into your CRM, starts at ${P.ai} (${P.aiUsd}) and typically takes 2–4 weeks once data access is sorted. A dashboard or analytics web app with logins, filters and scheduled refresh starts at ${P.software} (${P.softwareUsd}). Maintenance after the five free months starts at ${P.care} a month.`,
+        `With BtechWaleTech, a model deployed into your workflow, for example a weekly demand forecast written to a Google Sheet or a lead score posted into your CRM, starts at ${P.ai} (${P.aiUsd}) and typically takes 2–4 weeks once data access is sorted. A dashboard or analytics web app with logins, filters and scheduled refresh starts at ${P.software} (${P.softwareUsd}). Maintenance after the two free months starts at ${P.care} a month.`,
         `In the wider market, quotes for data science vary a great deal. The spread reflects how much data engineering is included, whether the work ends in a report or a running system, and how much support follows. When comparing, check that each quote covers cleaning, validation and deployment, not just “model building”. Every plan we offer is listed on <a href='/pricing/'>all starting prices</a>.`,
       ],
     },
@@ -208,7 +208,7 @@ const content: FreelanceContent = {
         "Audit and exploratory analysis with early charts",
         "Baseline to beat, then candidate models on hold-out data",
         "Deploy to sheet, CRM, email or dashboard",
-        "Handover report and five months of free support",
+        "Handover report and two months of free support",
       ],
     },
     {
@@ -308,7 +308,7 @@ const content: FreelanceContent = {
         ["Text or document analysis with AI", `From ${P.ai}`, `From ${P.aiUsd}`, "2–4 weeks", "Classified, extracted data with checks"],
         ["Dashboard or analytics web app", `From ${P.software}`, `From ${P.softwareUsd}`, "6–12 weeks", "Logins, filters, scheduled refresh"],
         ["Mobile app showing your KPIs", `From ${P.app}`, `From ${P.appUsd}`, "6–10 weeks", "Android and iOS app on your data"],
-        ["Ongoing monitoring and retraining", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 5 free months", "Health checks, retraining, fixes"],
+        ["Ongoing monitoring and retraining", `From ${P.care}`, `From ${P.careUsd}`, "Monthly, after 2 free months", "Health checks, retraining, fixes"],
       ],
       hideSm: [2],
     },
@@ -375,7 +375,7 @@ const content: FreelanceContent = {
       ["Data audit in the first days", "We check history, gaps and codes, then send a short note on what the data can answer and an itemised quote."],
       ["Baseline, then models", "A simple benchmark comes first. Models are tested on a later period they never saw, and results are shown as ranges."],
       ["Deploy where your team works", "The output lands in a sheet, CRM field, email or dashboard on a schedule, with alerts if a run fails."],
-      ["Report, handover, support", "You get a plain-language report, code in your repository and five months of free support, then optional care from " + P.care + " a month."],
+      ["Report, handover, support", "You get a plain-language report, code in your repository and two months of free support, then optional care from " + P.care + " a month."],
     ],
   },
   faqHeading: "Freelance data scientist: questions businesses ask",
@@ -394,7 +394,7 @@ const content: FreelanceContent = {
     { question: "Do you use AI or ChatGPT-style models for data science?", answer: "Where they genuinely help, yes: classifying tickets, summarising reviews or extracting fields from invoices. We check their output against a labelled sample before anyone relies on it. For numeric forecasting and scoring, classical statistics and gradient-boosted models are usually more accurate, cheaper to run and easier to explain." },
     { question: "How do I hire a freelance data scientist?", answer: "Write down the decision you want to improve and what data you hold. Share a small anonymised sample with two or three candidates and ask what they would check first. Prefer the one who mentions data quality, time-based testing and deployment before algorithms. Start with a paid audit so you can judge their work cheaply." },
     { question: "Can a data scientist help a small business?", answer: "Yes, when there is a repeated decision and a year or two of records. Typical wins are stock forecasting for retailers and pharmacies, identifying lapsed customers to win back, and ranking enquiries for sales calls. If your data is scattered across paper and phones, the first project is usually getting it into one system." },
-    { question: "What happens after the model is delivered?", answer: `Models drift as your business changes, so they need occasional checks and retraining. BtechWaleTech provides five months of free support after delivery, covering fixes and adjustments. After that, monitoring and retraining are optional from ${P.care} a month, or your own team can take over using the handover notes.` },
+    { question: "What happens after the model is delivered?", answer: `Models drift as your business changes, so they need occasional checks and retraining. BtechWaleTech provides two months of free support after delivery, covering fixes and adjustments. After that, monitoring and retraining are optional from ${P.care} a month, or your own team can take over using the handover notes.` },
     { question: "Do you work with clients outside India?", answer: `Yes. We work remotely with clients in the USA, UK, Canada, Australia, the UAE and elsewhere, keeping data in the client's own cloud account. Billing is in USD, with deployed models from ${P.aiUsd}, paid through Wise, bank wire or PayPal, and calls are scheduled in overlapping hours.` },
     { question: "Data scientist hire karne mein kitna kharcha aata hai?", answer: `BtechWaleTech ke saath aapke workflow mein chalne wala model, jaise weekly stock forecast, ${P.ai} se shuru hota hai aur data ready ho toh 2–4 hafte lagte hain. Login wala dashboard web app ${P.software} se shuru hota hai. Pehle data audit hota hai, phir itemised quote, aur approval ke baad hi payment.` },
     { question: "Can you work with data in Excel and Tally exports?", answer: "Yes. Many small businesses keep data in Excel files and accounting software exports. We clean and combine them, map product and customer codes that changed over time, and set up a repeatable way to load new exports. If files arrive every week, we automate the loading so nobody copies and pastes." },

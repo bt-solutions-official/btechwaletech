@@ -36,12 +36,12 @@ const content: FreelanceContent = {
     ["Larger multi-region site", `From ${P.seoSite}`],
     ["Quote turnaround", "About 2 working days, itemised"],
     ["Gallery images", "Resized and served in modern formats"],
-    ["Aftercare", `5 free months, then from ${P.care}`],
+    ["Aftercare", `2 free months, then from ${P.care}`],
   ],
   stats: [
     { value: "100", label: "Pages included in the starter website plan" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -187,7 +187,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With BtechWaleTech, a builder website starts from ${P.site}; a multi-region site with many genuinely distinct local and project pages starts from ${P.seoSite}. Other quotes vary widely, mostly because photography, videography, branding and copywriting are bundled or left out.`,
         `The builder-specific cost drivers are image preparation for large galleries, branching enquiry forms connected to a CRM, a process and contract page that you and your adviser review, and optional extras such as a client progress portal from ${P.software}. The number of pages itself rarely matters inside the 100-page starter plan.`,
-        `You pay domain, hosting, email and any CRM or form subscriptions directly; the quote lists each. Five months of maintenance are free after launch, then optional care from ${P.care} covers new project pages, updates and backups. For broader numbers see <a href='/australia/website-design-cost/'>what a website costs in Australia</a>.`,
+        `You pay domain, hosting, email and any CRM or form subscriptions directly; the quote lists each. Two months of maintenance are free after launch, then optional care from ${P.care} covers new project pages, updates and backups. For broader numbers see <a href='/australia/website-design-cost/'>what a website costs in Australia</a>.`,
       ],
     },
     {
@@ -363,7 +363,7 @@ const content: FreelanceContent = {
       ["Set up accounts in your name", "You register domain, hosting and email, invite us, and send licence, registration and membership details plus notes on each project."],
       ["Review galleries and forms", "Preview the site on your phone, test the enquiry forms with realistic answers, and send one list of changes. We update overnight your time."],
       ["Check the process page", "You and your adviser review the contract and process page. We link the state consumer guidance and connect Search Console and your Google profile."],
-      ["Launch, train and maintain", `A short recorded session shows how to add a new project. Five months of free maintenance follow, then optional care from ${P.care}.`],
+      ["Launch, train and maintain", `A short recorded session shows how to add a new project. Two months of free maintenance follow, then optional care from ${P.care}.`],
     ],
   },
   faqHeading: "Builder website design: common questions from Australian builders",
@@ -385,9 +385,9 @@ const content: FreelanceContent = {
     { question: "Is it safe to have a team in India build my builder website?", answer: "Yes, when your business holds every account. You register the domain, hosting and email in your name, store photos in your own cloud folder and invite us as users. If you change developers, you remove our access and keep everything. Ownership of the work transfers as set out in your written quote." },
     { question: "What time zone overlap is there between Australia and India?", answer: "India is four and a half hours behind Sydney and Melbourne in winter and five and a half during daylight saving, four and a half behind Brisbane all year and two and a half behind Perth. Our morning overlaps your afternoon. WhatsApp messages get answered seven days a week." },
     { question: "How do I pay BtechWaleTech from Australia?", answer: "Quotes are in USD. Most Australian clients pay by Wise from an AUD account, international wire or PayPal, in stages set out in the written quote. Nothing is billed before you approve the itemised quote in writing. Invoices come from India, and your accountant can advise how to record them." },
-    { question: "Can I add new projects to my website myself?", answer: "Yes. We build a simple project template where you add a title, summary, area, photos and project type, and it appears in the right filtered gallery. A short recorded training session covers it. During the five free months after launch we can add projects for you." },
+    { question: "Can I add new projects to my website myself?", answer: "Yes. We build a simple project template where you add a title, summary, area, photos and project type, and it appears in the right filtered gallery. A short recorded training session covers it. During the two free months after launch we can add projects for you." },
     { question: "Should my builder website show prices?", answer: "Most custom builders avoid set prices because every project differs, but explaining what drives cost, such as site conditions, design complexity and finishes, helps clients prepare. If you publish any price guidance, keep it accurate and complete; NSW guidance warns against stating a price that is only part of the cost." },
-    { question: "What happens after my builder website launches?", answer: `You get five months of free maintenance covering fixes, updates, small edits and backup checks. After that, care is optional from ${P.care} and can include adding new projects as they finish. Builders who publish completed projects regularly usually see their site improve as a sales tool over time.` },
+    { question: "What happens after my builder website launches?", answer: `You get two months of free maintenance covering fixes, updates, small edits and backup checks. After that, care is optional from ${P.care} and can include adding new projects as they finish. Builders who publish completed projects regularly usually see their site improve as a sales tool over time.` },
   ],
   related: {
     heading: "More for Australian builders and trades",

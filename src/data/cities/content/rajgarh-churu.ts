@@ -56,7 +56,7 @@ const rajgarhChuru: CityContent = {
     ai: "WhatsApp assistants in Hindi that share the day's rates, answer fee and timing questions and pass large orders to the owner.",
     data: "Dashboards of arrivals by crop, dues by farmer and buyer, fee collection and sweet orders around festivals.",
     app: "Android and iOS apps for mandi buyers and farmers to check lot status, or for colleges to reach students, from ₹40,000, on Google Play and the App Store.",
-    maintenance: "Five months of free support after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free support after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Rajgarh is a town of traders who read every line of a bill. So our rates are published, our quotes list each item on its own line, our WhatsApp is answered on all seven days, and your domain, hosting, code and app store accounts are registered in your name from the start. If an idea will not earn back its cost, you will hear that from us.",
@@ -174,7 +174,7 @@ const rajgarhChuru: CityContent = {
       heading: "Ownership and maintenance for Rajgarh websites and apps",
       paragraphs: [
         "What we build for you is yours outright. The domain is registered with your email address, hosting is billed in your name, the full source code is handed over, and your Google Business Profile and both app store developer accounts list you as owner. At the end you receive one sheet with every login, so neither an old employee nor we can ever shut you out.",
-        "Support for the first five months after launch is free. In that time we change rates and prices, update photographs, keep backups, apply security fixes and platform updates, and check that forms, payments and WhatsApp links still work. After that, continue with us from ₹8,000 a month, run it yourself, or hand the code to another developer.",
+        "Support for the first two months after launch is free. In that time we change rates and prices, update photographs, keep backups, apply security fixes and platform updates, and check that forms, payments and WhatsApp links still work. After that, continue with us from ₹8,000 a month, run it yourself, or hand the code to another developer.",
         "Apps need an occasional rebuild even when nothing is wrong, because Google and Apple raise their minimum requirements over time. We keep track of those dates and release the update ahead of time so your app stays listed.",
       ],
     },
@@ -266,7 +266,7 @@ const rajgarhChuru: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "The first five months after launch are free: rate and price changes, photo updates, backups, security fixes and checks on forms, payments and WhatsApp links. Afterwards you can stay with us from ₹8,000 a month or move elsewhere; since you hold the code and every account, no permission is needed.",
+        "The first two months after launch are free: rate and price changes, photo updates, backups, security fixes and checks on forms, payments and WhatsApp links. Afterwards you can stay with us from ₹8,000 a month or move elsewhere; since you hold the code and every account, no permission is needed.",
     },
     {
       question: "Do you also work in Pilani, Taranagar, Churu and Hisar?",

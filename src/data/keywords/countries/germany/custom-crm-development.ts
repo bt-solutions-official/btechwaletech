@@ -35,17 +35,17 @@ const content: FreelanceContent = {
     ["AI add-ons", `From ${P.ai}`],
     ["Hosting", "Your AWS Frankfurt account or your own servers"],
     ["Licence fees", "None: the code is yours"],
-    ["After launch", `5 months free, then from ${P.care}`],
+    ["After launch", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "0", label: "Per-seat licence fees on the finished CRM" },
     { value: "3", label: "Developers who build and maintain it" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
   ],
   answer: {
     heading: "Is custom CRM development worth it for a German SME?",
-    text: `Custom CRM development is worth it when you have enough users that per-seat fees add up over five years, a sales process that standard CRMs force into workarounds, or strict needs on hosting and deletion. With us, a custom CRM starts at ${P.software}, a field sales app at ${P.app}, and maintenance at ${P.care} after five free months. Small teams with standard pipelines should keep a SaaS CRM.`,
+    text: `Custom CRM development is worth it when you have enough users that per-seat fees add up over five years, a sales process that standard CRMs force into workarounds, or strict needs on hosting and deletion. With us, a custom CRM starts at ${P.software}, a field sales app at ${P.app}, and maintenance at ${P.care} after two free months. Small teams with standard pipelines should keep a SaaS CRM.`,
     more: `Need your CRM to hand invoices to accounting? See <a href='/germany/datev-api-integration/'>DATEV API integration</a>. Want leads to arrive from WhatsApp? Read <a href='/germany/whatsapp-business-api-gdpr/'>WhatsApp Business API and GDPR</a>.`,
   },
   snapshot: {
@@ -72,7 +72,7 @@ const content: FreelanceContent = {
       { name: "AI sales assistant", note: `Call summaries, lead scoring and email drafts, from ${P.ai}.`, href: "/germany/ai-automation-agency/", size: "md" },
       { name: "Workflow automation", note: "Follow-ups, reminders and hand-offs automated between systems.", href: "/germany/n8n-automation-agency/", size: "sm" },
       { name: "Phone assistant", note: "Inbound calls answered and logged to the right contact.", href: "/germany/ai-phone-assistant-for-business/", size: "sm" },
-      { name: "Maintenance", note: `Updates, backups and small changes, from ${P.care} after five free months.`, size: "sm" },
+      { name: "Maintenance", note: `Updates, backups and small changes, from ${P.care} after two free months.`, size: "sm" },
     ],
   },
   comparison: {
@@ -94,7 +94,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What custom CRM development costs with us",
-    note: `A custom CRM starts at ${P.software} for the core web app: companies, contacts, deals, tasks, pipeline views, roles and an audit log. The price rises with the number of integrations, the complexity of your pipeline rules, the reporting you need and whether data must be migrated from an existing CRM or spreadsheets. A field sales app adds from ${P.app}. Hosting on AWS Frankfurt is billed to your own AWS account, never through us. After five free months, maintenance starts at ${P.care}, which is the number to set against five years of per-seat fees.`,
+    note: `A custom CRM starts at ${P.software} for the core web app: companies, contacts, deals, tasks, pipeline views, roles and an audit log. The price rises with the number of integrations, the complexity of your pipeline rules, the reporting you need and whether data must be migrated from an existing CRM or spreadsheets. A field sales app adds from ${P.app}. Hosting on AWS Frankfurt is billed to your own AWS account, never through us. After two free months, maintenance starts at ${P.care}, which is the number to set against five years of per-seat fees.`,
   },
   guideLabel: "Custom CRM development guide",
   guide: [
@@ -120,7 +120,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Compare five years, not one. A SaaS CRM costs little in month one and a steady amount forever; a custom CRM costs more up front and much less per month afterwards. The crossover point depends almost entirely on your seat count and tier.`,
         `Build the SaaS side like this: number of users × monthly price per seat for the tier you actually need × 60 months, plus paid add-ons, plus any implementation help, plus expected growth in seats. Check HubSpot’s and Pipedrive’s current pricing pages in euros for the per-seat figures; both price per user, and higher tiers add features such as custom objects, advanced reporting or permissions.`,
-        `Build the custom side like this: the one-time build (with us from ${P.software}), plus hosting in your AWS account, plus maintenance (free for five months, then from ${P.care}), plus a budget for new features in years two to five.`,
+        `Build the custom side like this: the one-time build (with us from ${P.software}), plus hosting in your AWS account, plus maintenance (free for two months, then from ${P.care}), plus a budget for new features in years two to five.`,
         `Put both totals next to each other with your real numbers. For three or four users the SaaS route nearly always wins. For larger teams, especially where only a few people need advanced features and many need simple access, the custom route often wins by year three. We fill this model in with you during the quote so the number, not a sales pitch, decides.`,
       ],
     },
@@ -297,7 +297,7 @@ const content: FreelanceContent = {
         ["Tier upgrades", "Needed for advanced features", "Features built once"],
         ["Mobile field app", "Usually included in tier", `From ${P.app} if offline use is needed`],
         ["Hosting", "Included", "Your AWS Frankfurt account"],
-        ["Maintenance and changes", "Admin time, partner fees", `5 months free, then from ${P.care}`],
+        ["Maintenance and changes", "Admin time, partner fees", `2 months free, then from ${P.care}`],
         ["Add-ons and integrations", "Marketplace apps, often monthly", "Built to your systems, quoted per integration"],
       ],
     },
@@ -361,12 +361,12 @@ const content: FreelanceContent = {
       ["Discovery with real users", "Video sessions with two or three of your sales staff shape the data model and screens. Your DPO sets retention periods."],
       ["Build on staging", "The CRM takes shape in your AWS Frankfurt account with test data. Users try each feature and comment before it is final."],
       ["Migrate and switch", "Data is cleaned, deduplicated and imported. Both systems run briefly, then the old one becomes read-only and is cancelled."],
-      ["Five months of free care", `Fixes, updates and small changes are free for five months after launch, then maintenance starts at ${P.care}.`],
+      ["Two months of free care", `Fixes, updates and small changes are free for two months after launch, then maintenance starts at ${P.care}.`],
     ],
   },
   faqHeading: "Custom CRM development: questions from German SMEs",
   faqs: [
-    { question: "How much does custom CRM development cost?", answer: `With us, a custom CRM starts at ${P.software} for the core web app with contacts, companies, deals, tasks, pipeline, roles and audit log. A field sales app starts at ${P.app}, and AI features at ${P.ai}. Integrations, reporting and data migration add to the scope. Maintenance starts at ${P.care} after five free months.` },
+    { question: "How much does custom CRM development cost?", answer: `With us, a custom CRM starts at ${P.software} for the core web app with contacts, companies, deals, tasks, pipeline, roles and audit log. A field sales app starts at ${P.app}, and AI features at ${P.ai}. Integrations, reporting and data migration add to the scope. Maintenance starts at ${P.care} after two free months.` },
     { question: "Is a custom CRM cheaper than HubSpot or Pipedrive?", answer: "It depends on your seat count and tier. Multiply users by the per-seat monthly price by 60 months, add add-ons, and compare with the build plus hosting plus maintenance. For a few users SaaS almost always wins. For larger teams, especially where many users need only simple access, a custom CRM often costs less over five years." },
     { question: "How long does it take to build a custom CRM?", answer: "A focused first version takes 6–12 weeks with us, depending on integrations and data migration. A field sales app runs 6–10 weeks, often in parallel. The quickest projects are those where the sales process is written down and a few users can test weekly from the start." },
     { question: "What is a Löschkonzept and does my CRM need one?", answer: "A Löschkonzept, or deletion concept, defines how long each type of personal data is kept and what happens afterwards. It supports GDPR principles such as storage limitation and the right to erasure while respecting tax retention duties. A CRM holds a lot of personal data, so yes. Your DPO sets the periods; we build the rules into the software." },
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
     { question: "How do we work with a team in India from Germany?", answer: "India is 3.5 hours ahead of German summer time and 4.5 hours ahead in winter, so our afternoon overlaps your morning. Calls are in English over video, updates come by WhatsApp or email 7 days a week, and staging links let your users test whenever it suits them." },
     { question: "How do payments work?", answer: "Quotes are in USD and itemised by milestone. You pay in USD or EUR through Wise or bank wire after approving each milestone on staging, and nothing is billed before you approve the written quote. Invoices come from India; ask your Steuerberater how to book them." },
     { question: "Do you sign a data processing agreement or NDA?", answer: "We design projects so we work with test data and never need your live customer data. If access to personal data is unavoidable, or you need an NDA, ask and we agree terms in writing, reviewed by your DPO and lawyer. Anything not in the quote falls under the terms page on our site." },
-    { question: "What happens after launch?", answer: `For five months after launch, bug fixes, updates and small changes are free. After that, maintenance starts at ${P.care} and covers security updates, backups, monitoring and small improvements. Larger new features are quoted separately, so the CRM grows with your team without surprise costs.` },
+    { question: "What happens after launch?", answer: `For two months after launch, bug fixes, updates and small changes are free. After that, maintenance starts at ${P.care} and covers security updates, backups, monitoring and small improvements. Larger new features are quoted separately, so the CRM grows with your team without surprise costs.` },
     { question: "What will you not do on a CRM project?", answer: "We do not visit your offices, give legal or tax advice, define your retention periods, act as your data protection officer or staff large teams of developers. We build the software, document it and support it, and we say plainly where your lawyer, DPO or tax adviser needs to decide." },
   ],
   related: {
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Paying per seat for a CRM that does not fit? Get a five-year comparison",
-    note: `Send your user count, sales stages and systems on WhatsApp. In about two working days you get an itemised quote with a five-year cost model, custom CRM builds from ${P.software}, everything hosted in your name and five months of free maintenance.`,
+    note: `Send your user count, sales stages and systems on WhatsApp. In about two working days you get an itemised quote with a five-year cost model, custom CRM builds from ${P.software}, everything hosted in your name and two months of free maintenance.`,
   },
 };
 

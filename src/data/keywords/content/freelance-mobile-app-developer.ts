@@ -29,7 +29,7 @@ const content: FreelanceContent = {
     eyebrow: "Freelance mobile app developer · Android & iOS",
     h1: "Freelance mobile app developer for apps that feel right in the hand, work offline and pass store review",
     lede: `A freelance mobile app developer should think about thumbs, weak signal and store reviewers before writing a single screen. BtechWaleTech is three freelance developers in India who build Android and iOS apps from one Flutter or React Native codebase, starting at ${P.app}. This page is about the phone-specific craft: layouts sized for one-handed use, data that survives a dead network, notifications people keep switched on, and the <a href='/freelance-ios-developer/'>App Store</a> and Play Console checks that decide whether your launch happens this week or next month.`,
-    pills: ["Flutter or React Native", "Offline-first data", "Push notifications", "Play Store & App Store release", "Low-end Android tested", "Your developer accounts", "5 months free care"],
+    pills: ["Flutter or React Native", "Offline-first data", "Push notifications", "Play Store & App Store release", "Low-end Android tested", "Your developer accounts", "2 months free care"],
     origin: "Three freelance developers · Remote from India · Building for phones used across India and abroad",
   },
   facts: [
@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Codebase", "One Flutter or React Native project"],
     ["Store accounts", "Play Console and Apple in your name"],
     ["Quote turnaround", "About 2 working days, itemised"],
-    ["After release", "5 months of free fixes and updates"],
+    ["After release", "2 months of free fixes and updates"],
   ],
   stats: [
     { value: "2", label: "Stores published from one shared codebase" },
     { value: "3", label: "Developers who know your app's code" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "0", label: "Platform fees added to your invoice" },
   ],
   answer: {
@@ -60,7 +60,7 @@ const content: FreelanceContent = {
       { label: "Phone-specific work", value: "Thumb-zone layout, offline cache, push, deep links" },
       { label: "Testing", value: "Budget Android handsets, iPhones, slow networks" },
       { label: "Ownership", value: "Code, store listings and signing keys stay with you" },
-      { label: "Aftercare", value: `5 months free, then from ${P.care}` },
+      { label: "Aftercare", value: `2 months free, then from ${P.care}` },
     ],
   },
   services: {
@@ -259,7 +259,7 @@ const content: FreelanceContent = {
       heading: "Updates after launch: OS versions, store rules and crashes",
       paragraphs: [
         `An app is never finished, because the phones around it keep changing. Each year brings a new Android and iOS version, Google Play raises its required target API level, and store policies shift. An app nobody maintains will eventually be hidden from new users or stop working properly.`,
-        `For five months after launch we fix bugs, handle crash reports and keep the app compliant at no charge. After that, maintenance is optional and starts at ${P.care}, covering OS updates, dependency upgrades, policy changes and small improvements. We watch Firebase Crashlytics or a similar tool, so we often see a crash before a customer reports it.`,
+        `For two months after launch we fix bugs, handle crash reports and keep the app compliant at no charge. After that, maintenance is optional and starts at ${P.care}, covering OS updates, dependency upgrades, policy changes and small improvements. We watch Firebase Crashlytics or a similar tool, so we often see a crash before a customer reports it.`,
         `Release updates in stages. Google Play lets you roll out to a percentage of users first; Apple offers phased release over seven days. If something goes wrong, you stop the rollout before it reaches everyone.`,
       ],
     },
@@ -286,7 +286,7 @@ const content: FreelanceContent = {
       heading: "Mobile app banwana hai? Seedhe sawaal, seedhe jawab",
       paragraphs: [
         `Pehle socho ki log app kitni baar kholenge. Roz ya har hafte kholenge, jaise order, booking ya attendance ke liye, toh app sahi hai. Ek-do baar ke liye website kaafi hai aur sasti bhi padti hai.`,
-        `Hum Android aur iPhone dono ke liye ek hi code se app banate hain, ${P.app} se shuru, aur 6–10 hafte lagte hain. Play Store aur App Store ka account aapke naam par banta hai, code bhi aapka. Network na ho tab bhi zaroori screens chalti rahein, yeh hum shuru se plan karte hain. Launch ke baad 5 mahine tak bug fix free. Kuch poochna ho toh WhatsApp par Hindi ya English mein message kijiye.`,
+        `Hum Android aur iPhone dono ke liye ek hi code se app banate hain, ${P.app} se shuru, aur 6–10 hafte lagte hain. Play Store aur App Store ka account aapke naam par banta hai, code bhi aapka. Network na ho tab bhi zaroori screens chalti rahein, yeh hum shuru se plan karte hain. Launch ke baad 2 mahine tak bug fix free. Kuch poochna ho toh WhatsApp par Hindi ya English mein message kijiye.`,
       ],
     },
   ],
@@ -337,7 +337,7 @@ const content: FreelanceContent = {
         ["Weeks 3–6", "Build in slices, backend, admin", "Weekly feedback on test builds", "Installable test app"],
         ["Weeks 6–8", "Offline, push, payments, device testing", "Recruit closed testers if needed", "Release candidate"],
         ["Weeks 8–10", "Listings, privacy forms, submission", "Approve listing text and final payment", "App live on both stores"],
-        ["Next 5 months", "Crash fixes and compliance updates", "Report issues on WhatsApp", "Free maintenance"],
+        ["Next 2 months", "Crash fixes and compliance updates", "Report issues on WhatsApp", "Free maintenance"],
       ],
       hideSm: [2],
     },
@@ -373,7 +373,7 @@ const content: FreelanceContent = {
       ["Open accounts in your name", "We guide you through Google Play Console and Apple Developer registration and set up Firebase and hosting billed to you."],
       ["Install test builds weekly", "From around week three you install real builds on your phone, test them in daily use and send feedback directly to the developers."],
       ["Submit and handle review", "We prepare listings, privacy forms and reviewer notes, run closed testing, submit, and fix any rejection until both stores approve."],
-      ["Stay supported after release", "Five months of free fixes and compliance updates follow launch. Later, maintenance from " + P.care + " is optional."],
+      ["Stay supported after release", "Two months of free fixes and compliance updates follow launch. Later, maintenance from " + P.care + " is optional."],
     ],
   },
   faqHeading: "Freelance mobile app developer: common questions",
@@ -389,7 +389,7 @@ const content: FreelanceContent = {
     { question: "Is a freelancer or an app development agency better for my app?", answer: "A freelancer or small freelance team suits a focused app with a clear first version, a limited budget and a wish to talk to the builders directly. A large studio suits projects needing many engineers at once, hardware integration or formal vendor processes. Check device testing, store handling and account ownership whichever you choose." },
     { question: "Can I hire a freelance mobile app developer near me instead of remote?", answer: "You can, but app quality depends on skills and process more than distance. Remote developers share weekly test builds you install on your own phone, which gives more realistic feedback than seeing screens on a laptop in a meeting. Choose on installable portfolio apps, ownership terms and testing practice, then decide whether proximity still matters." },
     { question: "Do you test apps on low-end Android phones?", answer: "Yes. Many Indian users run budget Android handsets with limited memory and storage on inconsistent networks. We test on older, low-memory Android phones as well as newer devices and iPhones, check behaviour on slow and dropped connections, keep app size small with Android App Bundles and trim heavy animations that stutter on cheaper hardware." },
-    { question: "What happens after my app is launched?", answer: `For five months after launch BtechWaleTech fixes bugs, monitors crash reports and keeps the app compliant with store rules at no charge. After that, maintenance starts at ${P.care} and covers new Android and iOS versions, dependency upgrades, target API changes and small improvements. You can also take the code to another developer at any time.` },
+    { question: "What happens after my app is launched?", answer: `For two months after launch BtechWaleTech fixes bugs, monitors crash reports and keeps the app compliant with store rules at no charge. After that, maintenance starts at ${P.care} and covers new Android and iOS versions, dependency upgrades, target API changes and small improvements. You can also take the code to another developer at any time.` },
     { question: "Can you add UPI payments inside a mobile app?", answer: "Yes. We add UPI through intent flows that open the user's installed UPI app, plus card payments, with receipts and order status updates. Payment details are handled by a licensed payment provider, not stored in the app. If your business is GST-registered, invoices generated from orders can include GSTIN and tax lines." },
     { question: "How do I write a brief for a mobile app developer?", answer: "Describe who the users are, how often they will open the app, the three main tasks it must handle, whether it needs to work offline, any payments or location features, who manages content from the office, examples of apps you like, and your budget range and deadline. A one-page brief like that gets comparable, itemised quotes." },
     { question: "Do I need a separate website if I have an app?", answer: "Usually yes. A website helps people find you on Google, holds your privacy policy and support pages that the stores require, and can link to both store listings. A small site starting at " + P.site + " is often enough. Some businesses launch a website first and add the app once repeat usage justifies it." },
@@ -418,7 +418,7 @@ const content: FreelanceContent = {
   },
   cta: {
     heading: "Need a freelance mobile app developer? Tell us what the app must do",
-    note: `Send a short description on WhatsApp. Within about two working days you get an itemised quote, with Android and iOS apps starting at ${P.app}, store accounts in your name and five months of free fixes after release.`,
+    note: `Send a short description on WhatsApp. Within about two working days you get an itemised quote, with Android and iOS apps starting at ${P.app}, store accounts in your name and two months of free fixes after release.`,
   },
 };
 

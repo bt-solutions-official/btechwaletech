@@ -77,8 +77,8 @@ const faqs = [
     answer: "You do. The code, content, design files, hosting account, domain and every admin login are handed over in accounts under your name. You can take the site to another developer at any time without asking our permission.",
   },
   {
-    question: "What does the five months of free maintenance cover?",
-    answer: `From the day hosting goes live, five months of maintenance are included: content and price updates, bug fixes, security updates, backups and uptime and speed checks. After that you can continue from ${usd("Maintenance")} or simply get in touch when something needs changing.`,
+    question: "What does the two months of free maintenance cover?",
+    answer: `From the day hosting goes live, two months of maintenance are included: content and price updates, bug fixes, security updates, backups and uptime and speed checks. After that you can continue from ${usd("Maintenance")} or simply get in touch when something needs changing.`,
   },
   {
     question: "How long will our project take?",
@@ -151,7 +151,7 @@ const facts = [
   ["Starting price", `Websites from ${usd("Static")}`],
   ["Call window", "Your afternoon, our early morning"],
   ["Invoicing", "USD, or NZD on request via Wise or wire"],
-  ["After launch", "5 months of maintenance free"],
+  ["After launch", "2 months of maintenance free"],
   ["Coverage", "All 16 regions, North and South Island"],
 ];
 
@@ -160,7 +160,7 @@ const pills = ["Business websites", "Shopify & WooCommerce", "SEO for google.co.
 const stats = [
   { value: "3", label: "Engineers you talk to directly" },
   { value: usd("Static"), label: "Websites starting price" },
-  { value: "5", label: "Months maintenance free" },
+  { value: "2", label: "Months maintenance free" },
   { value: "16", label: "Regions served remotely" },
 ];
 
@@ -171,7 +171,7 @@ const snapshot = [
   { label: "Checkout options we set up", value: "Windcave, Stripe, Shopify Payments, PayPal, Afterpay and POLi where available" },
   { label: "Language", value: "New Zealand English, with macrons and te reo Māori content supported" },
   { label: "Starting prices", value: `From ${usd("Static")} for a website; every figure is a starting price in USD` },
-  { label: "After launch", value: `5 months of free maintenance, then from ${usd("Maintenance")} or as needed` },
+  { label: "After launch", value: `2 months of free maintenance, then from ${usd("Maintenance")} or as needed` },
 ];
 
 // ---------- Services bento ----------
@@ -184,7 +184,7 @@ const services = [
   { name: "Android & iOS apps", note: `Android and iPhone apps for staff in the field or for customers, on Google Play and the App Store, from ${usd("Android")}.`, size: "sm" },
   { name: "AI automation", note: "Enquiries, jobs, bookings and invoices flowing between your website, Xero, Tradify or Timely.", size: "sm" },
   { name: "Bilingual content", note: "Te reo Māori and English pages with correct macrons, language tags and navigation.", size: "sm" },
-  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with the first 5 months after launch included.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with the first 2 months after launch included.", size: "sm" },
 ] as const;
 
 // ---------- Comparison ----------
@@ -195,7 +195,7 @@ const comparison = [
   ["Live contact", "Your whole working day", "Unpredictable", "Your afternoon, plus written async updates"],
   ["Scope in writing", "Usually, after a paid discovery", "Often just a job post", "Always, before the first payment"],
   ["SEO basics", "Frequently an add-on", "Often left out", "Titles, schema, sitemap and Search Console included"],
-  ["After launch", "Retainer or hourly from day one", "Contact often lapses", "5 months of maintenance included"],
+  ["After launch", "Retainer or hourly from day one", "Contact often lapses", "2 months of maintenance included"],
   ["Ownership", "Varies by contract", "Check the terms carefully", "Code, domain, hosting and logins in your name"],
   ["Face-to-face", "Yes, if nearby", "No", "No: remote only, stated upfront"],
 ];
@@ -208,7 +208,7 @@ const process = [
   ["Design", "Sitemap and wireframes, then visual designs for the key pages, checked on your own phone."],
   ["Build on staging", "A private staging link you can open any time, with a written note whenever it changes."],
   ["Test & SEO", "Titles, schema, redirects, macrons, speed, forms, GST display and payments tested before launch."],
-  ["Launch & support", "Domain pointed, Search Console verified, logins handed over, then 5 months of free maintenance."],
+  ["Launch & support", "Domain pointed, Search Console verified, logins handed over, then 2 months of free maintenance."],
 ];
 
 // ---------- Industries table ----------
@@ -252,7 +252,7 @@ const guide: GuideSection[] = [
       "<strong>SEO for google.co.nz.</strong> Monthly SEO covers technical fixes, on-page work, content and local search. For businesses serving a town or region we focus on service pages, Google Business Profile guidance and the directories New Zealanders use. Stores that ship nationwide get the attention on category and product pages instead. More on the <a href=\"/services/seo-services/\">SEO services page</a>.",
       "<strong>Custom software and web apps.</strong> Booking systems for tour operators, quoting tools for manufacturers, portals for clients to upload documents to an accountant, dashboards that pull data from several systems, and internal tools for teams that have outgrown spreadsheets. When a business asks for a mobile app, we often suggest a progressive web app instead: it installs from the browser, works on iPhone and Android, and updates without app store review or fees.",
       "<strong>AI automation.</strong> Practical automations that remove admin: an enquiry from the website becomes a job in Tradify with an acknowledgement text to the customer; a paid order creates an invoice in Xero; a booking in Timely triggers a reminder and a follow-up review request; an AI assistant drafts replies to common questions or sorts incoming emails, with a person checking anything important. We map the process first and automate second.",
-      "<strong>Maintenance.</strong> Once hosting goes live, five months of maintenance are included: content edits, bug fixes, security updates, backups, uptime and speed monitoring and basic SEO health checks. After that, maintenance starts from " + usd("Maintenance") + ", or you can simply contact us when something needs doing. Full starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
+      "<strong>Maintenance.</strong> Once hosting goes live, two months of maintenance are included: content edits, bug fixes, security updates, backups, uptime and speed monitoring and basic SEO health checks. After that, maintenance starts from " + usd("Maintenance") + ", or you can simply contact us when something needs doing. Full starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
     ],
   },
   {
@@ -569,7 +569,7 @@ const servicePages = countryPageLinks("new-zealand");
             <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}</strong></li>
           ))}
         </ul>
-        <p class="quote-foot">Starting prices; your quote depends on requirements. NZD invoicing on request. 5 months maintenance free after launch.</p>
+        <p class="quote-foot">Starting prices; your quote depends on requirements. NZD invoicing on request. 2 months maintenance free after launch.</p>
         <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
           <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
         </a>
@@ -594,7 +594,7 @@ const servicePages = countryPageLinks("new-zealand");
       <div>
         <p class="eyebrow">The short answer</p>
         <h2 id="answer-heading">Need a web development team for your New Zealand business?</h2>
-        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team in India that builds websites, online stores, SEO systems, custom software and AI automations for New Zealand businesses, working remotely with calls in your afternoon and progress overnight. Websites start from {usd("Static")}, ecommerce from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}, priced in US dollars with NZD invoicing on request. Hosting and deployment are included, with five months of free maintenance after launch.</p>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team in India that builds websites, online stores, SEO systems, custom software and AI automations for New Zealand businesses, working remotely with calls in your afternoon and progress overnight. Websites start from {usd("Static")}, ecommerce from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}, priced in US dollars with NZD invoicing on request. Hosting and deployment are included, with two months of free maintenance after launch.</p>
         <p class="answer-more">A kiwifruit contractor in Te Puke, a Queenstown tour operator and a Wellington policy consultancy need very different websites. This page covers what we build, how New Zealand payments, SEO, te reo Māori content and compliance fit in, what it costs, how we handle the biggest time difference of any market we serve, and how to hire an offshore developer without regrets.</p>
       </div>
       <table class="snapshot">
@@ -887,7 +887,7 @@ const servicePages = countryPageLinks("new-zealand");
         <h2 id="cta-heading">Tell us what you want built, from Northland to Southland</h2>
         <p class="closing-note">
           Message us on WhatsApp or email a short description of your business. We reply with questions, then a page plan, a timeline and an
-          itemised quote in USD or NZD. You pay nothing until the scope is approved, and the first five months of maintenance after launch cost nothing.
+          itemised quote in USD or NZD. You pay nothing until the scope is approved, and the first two months of maintenance after launch cost nothing.
         </p>
         <div class="hero-actions closing-actions">
           <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">

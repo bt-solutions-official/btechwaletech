@@ -31,11 +31,11 @@ const jharsuguda: CityContent = {
     eyebrow: "Jharsuguda · Industrial western Odisha",
     h1: "Vendor websites, contractor software and local search for Jharsuguda's industrial belt",
     lede:
-      "Three remote engineers building websites, job and billing tools, local SEO and WhatsApp automation for Jharsuguda district: fabricators, contractors, transporters and suppliers who work around the smelter, the Ib Valley mines and steel units, plus hotels near the airport and junction, clinics, schools and shops in Brajrajnagar and Belpahar. Prices start from published figures, with five months of free upkeep.",
+      "Three remote engineers building websites, job and billing tools, local SEO and WhatsApp automation for Jharsuguda district: fabricators, contractors, transporters and suppliers who work around the smelter, the Ib Valley mines and steel units, plus hotels near the airport and junction, clinics, schools and shops in Brajrajnagar and Belpahar. Prices start from published figures, with two months of free upkeep.",
     pills: ["Websites from ₹10,000", "Vendor profiles and RFQ forms", "Job, trip and billing tools", "Odia, Hindi and English pages", "WhatsApp enquiry automation"],
   },
   quickAnswer:
-    "In Jharsuguda, a static website with our team starts from ₹10,000 and takes about one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software such as contractor job-tracking tools at ₹60,000. We are fully remote with no Jharsuguda office, and maintenance is free for five months after launch.",
+    "In Jharsuguda, a static website with our team starts from ₹10,000 and takes about one to two weeks. A 299+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software such as contractor job-tracking tools at ₹60,000. We are fully remote with no Jharsuguda office, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Role", value: "District headquarters and one of western Odisha's main industrial towns, often called the powerhouse of Odisha" },
     { label: "Aluminium", value: "Vedanta's aluminium smelter and captive power plant, described by the company as the largest single-location smelter in the world" },
@@ -52,7 +52,7 @@ const jharsuguda: CityContent = {
     ai: "WhatsApp flows that capture enquiries, share rate lists and document checklists, and pass real negotiations to you.",
     data: "Trip, diesel, manpower and billing records turned into a monthly dashboard the owner can check on a phone.",
     app: "Android and iOS apps for site supervisors to log work and photos from plants and mines, released on Google Play and the App Store.",
-    maintenance: "Five free months of updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two free months of updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Jharsuguda firms often hire a big-city agency that does not understand vendor registration, or a local helper who builds a page and vanishes. We publish our starting prices, send a written itemised quote, and reply on WhatsApp all seven days of the week, directly from the engineers building your site or software.",
@@ -178,7 +178,7 @@ const jharsuguda: CityContent = {
       paragraphs: [
         "For an industrial vendor, losing a website is more than an inconvenience. If the domain sits in a former developer's account and expires, the email addresses on your letterheads and tender documents stop working too. We have seen this happen to businesses in many towns.",
         "We register the domain, hosting and business email in your name from the start. At launch you receive every login, the full source code, and for software projects, a copy of your database and an explanation of how backups work. You can move to another developer whenever you want, without our permission and without any exit fee.",
-        "Maintenance is free for five months after launch: edits, bug fixes, security updates, backups and uptime and speed monitoring. Afterwards you can continue from ₹8,000 a month or come to us only when you need changes. The <a href=\"/services/web-development/\">web development</a> page describes each build in more detail.",
+        "Maintenance is free for two months after launch: edits, bug fixes, security updates, backups and uptime and speed monitoring. Afterwards you can continue from ₹8,000 a month or come to us only when you need changes. The <a href=\"/services/web-development/\">web development</a> page describes each build in more detail.",
       ],
     },
     {
@@ -269,7 +269,7 @@ const jharsuguda: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle edits, bug fixes, security updates, backups and uptime and speed checks free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed and pay for that work.",
+        "For two months after launch we handle edits, bug fixes, security updates, backups and uptime and speed checks free. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need something changed and pay for that work.",
     },
     {
       question: "How long will SEO take to show results in Jharsuguda?",

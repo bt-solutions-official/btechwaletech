@@ -35,7 +35,7 @@ const gwalior: CityContent = {
     pills: ["Sites from ₹10,000", "School and coaching sites", "Hotel and wedding venues", "Hindi-first SEO", "Code and domain yours"],
   },
   quickAnswer:
-    "A business website in Gwalior costs from ₹10,000 with us for a static site and from ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Gwalior office, and each project comes with five months of free maintenance after launch.",
+    "A business website in Gwalior costs from ₹10,000 with us for a static site and from ₹20,000 for a 299+ page SEO site. Online stores start at ₹50,000 and custom web apps at ₹60,000. We are a remote three-engineer team with no Gwalior office, and each project comes with two months of free maintenance after launch.",
   snapshot: [
     { label: "Old-city markets", value: "Maharaj Bada in Lashkar, with Sarafa Bazaar, Topi Bazaar, Daulat Ganj, Nazarbagh and Subhash Market nearby" },
     { label: "Newer commercial areas", value: "City Centre, Thatipur, Phool Bagh, Padav and the Morar side of the city" },
@@ -52,10 +52,10 @@ const gwalior: CityContent = {
     ai: "WhatsApp automation that handles admission-season enquiries, wedding-venue availability questions and repeat orders from retailers across the Chambal region.",
     data: "Fee collection, admissions and sales reports cleaned up into dashboards that owners and principals can check each morning.",
     app: "Android and iOS apps for parent communication, student attendance and field sales, released on both app stores with prices from ₹40,000.",
-    maintenance: "Notice uploads, rate changes, backups and security updates free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Notice uploads, rate changes, backups and security updates free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Gwalior has local agencies around City Centre, freelancers from its engineering colleges and plenty of listings on Justdial. We are different in specific ways: published prices, direct contact with the three engineers doing the work, WhatsApp replies seven days a week, and five months of free maintenance after your site goes live.",
+    "Gwalior has local agencies around City Centre, freelancers from its engineering colleges and plenty of listings on Justdial. We are different in specific ways: published prices, direct contact with the three engineers doing the work, WhatsApp replies seven days a week, and two months of free maintenance after your site goes live.",
   pricingIntro:
     "Gwalior business owners usually hear a price only after a meeting, and the same five-page site can be quoted at very different amounts. Our starting prices are listed below. Your actual quote depends on pages, features and how much of the content you can provide, and it comes itemised before anything is charged.",
   sections: [
@@ -168,7 +168,7 @@ const gwalior: CityContent = {
       paragraphs: [
         "We regularly meet Gwalior businesses that cannot update their own website because they have no access to it. The developer registered the domain in his own name, hosted it on his own server and then stopped answering calls. When the domain renewal lapses, the business loses its web address and email with it.",
         "To avoid that, we register your domain in your name, create hosting on your own account and give you every login at launch, along with a short guide to what runs where. The source code is yours too. You can move to another developer whenever you like without paying an exit fee.",
-        "For five months after launch, maintenance is free: content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply get in touch when you need a change.",
+        "For two months after launch, maintenance is free: content and price updates, bug fixes, security and software updates, backups, uptime monitoring and speed checks. After that, maintenance continues from ₹8,000 a month, or you can simply get in touch when you need a change.",
       ],
     },
     {
@@ -264,7 +264,7 @@ const gwalior: CityContent = {
     {
       question: "What does free maintenance include, and what happens after?",
       answer:
-        "The first five months after launch cover content and price updates, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
+        "The first two months after launch cover content and price updates, bug fixes, security and software updates, backups, uptime checks and speed checks at no cost. After that, maintenance continues from ₹8,000 a month, or you can contact us only when you need a change.",
     },
     {
       question: "Do you also work with businesses in Morena, Shivpuri and Jhansi?",

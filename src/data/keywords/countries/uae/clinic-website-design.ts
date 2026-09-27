@@ -38,12 +38,12 @@ const content: FreelanceContent = {
     ["Booking", "Your clinic system's widget, or a request form to WhatsApp"],
     ["Content rule", "Every claim checked by you against your regulator's rules"],
     ["Ownership", "Domain, hosting, code and analytics in your name"],
-    ["Aftercare", `5 months free, then from ${P.care}`],
+    ["Aftercare", `2 months free, then from ${P.care}`],
   ],
   stats: [
     { value: "3", label: "Health regulators whose rules a UAE clinic site may follow" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after launch" },
+    { value: "2", label: "Months of free maintenance after launch" },
     { value: "7", label: "Days a week we reply on WhatsApp" },
   ],
   answer: {
@@ -75,7 +75,7 @@ const content: FreelanceContent = {
       { name: "Treatment pages written within the rules", note: "Plain descriptions of what a treatment is, who it suits and how a consultation works, with no cure promises or unapproved offers.", size: "md" },
       { name: "Arabic and English versions", note: "Right-to-left layouts, separate URLs per language and hreflang tags, using copy your team supplies or approves.", href: "/uae/arabic-website-design/", size: "md" },
       { name: "WhatsApp enquiries", note: "Click-to-chat on every page, plus reminder templates if you later automate follow-ups.", href: "/uae/whatsapp-chatbot-development/", size: "sm" },
-      { name: "Care after launch", note: `Doctor changes, new insurers and offer updates, free for 5 months, then from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
+      { name: "Care after launch", note: `Doctor changes, new insurers and offer updates, free for 2 months, then from ${P.care}.`, href: "/uae/website-maintenance-services/", size: "sm" },
     ],
   },
   comparison: {
@@ -97,7 +97,7 @@ const content: FreelanceContent = {
   },
   pricing: {
     heading: "What a clinic website in the UAE costs with us",
-    note: `A single-location clinic with up to 100 pages, doctor profiles, an insurer list and a booking form or widget starts from ${P.site} and usually takes one to two weeks. A group with several branches, dozens of treatment pages and Arabic versions fits the SEO website plan from ${P.seoSite}, three to five weeks. If you want a patient login, results download or your own booking engine, that becomes custom software from ${P.software}. Monthly local SEO starts from ${P.seo}, and maintenance is free for five months, then from ${P.care}. Your quote is itemised, in USD, and nothing is billed before you approve it in writing.`,
+    note: `A single-location clinic with up to 100 pages, doctor profiles, an insurer list and a booking form or widget starts from ${P.site} and usually takes one to two weeks. A group with several branches, dozens of treatment pages and Arabic versions fits the SEO website plan from ${P.seoSite}, three to five weeks. If you want a patient login, results download or your own booking engine, that becomes custom software from ${P.software}. Monthly local SEO starts from ${P.seo}, and maintenance is free for two months, then from ${P.care}. Your quote is itemised, in USD, and nothing is billed before you approve it in writing.`,
   },
   guideLabel: "Clinic website design Dubai: the complete guide",
   guide: [
@@ -210,7 +210,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `With us, a single-clinic website starts from ${P.site} and a multi-branch, multi-treatment build from ${P.seoSite}. Custom patient portals or a self-built booking engine start from ${P.software}. Other providers' quotes vary widely, and the difference usually comes from what's included rather than the design alone.`,
         `The cost drivers in clinic website design in Dubai are predictable. The number of doctors and treatments sets the page count. Each branch adds a location page and possibly a separate insurer list. An Arabic version roughly doubles the pages to build and check. Booking integration ranges from a simple embed to an API project. Photography, video and copywriting are often the hidden costs: we don't provide them, so budget for a photographer and either write treatment copy in-house or hire a medical writer.`,
-        `Ongoing costs are hosting (paid directly by you to the provider), the domain, any booking software subscription, and maintenance from ${P.care} after five free months. For a wider view of UAE website pricing, see our <a href='/uae/website-development-cost/'>website development cost guide for the UAE</a>.`,
+        `Ongoing costs are hosting (paid directly by you to the provider), the domain, any booking software subscription, and maintenance from ${P.care} after two free months. For a wider view of UAE website pricing, see our <a href='/uae/website-development-cost/'>website development cost guide for the UAE</a>.`,
       ],
     },
     {
@@ -303,7 +303,7 @@ const content: FreelanceContent = {
       id: "after-launch",
       heading: "What happens after a clinic website goes live in Dubai?",
       paragraphs: [
-        `After launch, the site needs regular care: doctors join and leave, insurers change, Ramadan hours come round, and offers need approval before they appear. Maintenance is free for five months, then from ${P.care}, and you can always edit content yourself.`,
+        `After launch, the site needs regular care: doctors join and leave, insurers change, Ramadan hours come round, and offers need approval before they appear. Maintenance is free for two months, then from ${P.care}, and you can always edit content yourself.`,
         `In the first month we check Google Search Console for crawl errors, confirm every branch page is indexed, test the booking route weekly and watch Core Web Vitals on real devices. After that, the rhythm is simple: send changes on WhatsApp, we make them on staging, you approve, they go live. Anything touching claims or offers goes through your approver first, every time.`,
         `If you want the booking experience to grow into reminders or a patient app, look at <a href='/uae/whatsapp-chatbot-development/'>WhatsApp automation for UAE businesses</a> first, since reminders over WhatsApp templates are cheaper to run than an app and patients already use WhatsApp.`,
       ],
@@ -385,7 +385,7 @@ const content: FreelanceContent = {
       ["Structure and design", "Sitemap with doctor, treatment and branch pages, then a design on a staging link using your real names, colours and photos."],
       ["Booking and forms", "The booking widget or request form is wired up and tested end to end, with submissions routed to reception and nothing stored on the site."],
       ["Claims review", "Your medical director works through the review sheet on staging. We change or remove anything they flag before launch."],
-      ["Launch and care", "Redirects, Search Console, Business Profiles and analytics set up in your accounts. Five months of free maintenance follow."],
+      ["Launch and care", "Redirects, Search Console, Business Profiles and analytics set up in your accounts. Two months of free maintenance follow."],
     ],
   },
   faqHeading: "Clinic website design Dubai: questions clinics ask",
@@ -408,7 +408,7 @@ const content: FreelanceContent = {
     { question: "Do you sign an NDA or contract?", answer: "Every project runs on a written, itemised quote and our published terms. If your clinic needs an NDA or specific contract clauses, raise it at the quote stage and we'll agree it in writing before work starts." },
     { question: "What happens if a doctor leaves the clinic?", answer: "Their profile page is removed and redirected to the relevant speciality or doctors page, so patients and search engines aren't sent to a dead page. Their name comes off branch pages and booking options at the same time. During the five free maintenance months, we handle this on request via WhatsApp." },
     { question: "Will my clinic website appear in Google AI Overviews and chat answers?", answer: "No one controls that, but clear, factual pages are what these systems cite. We structure treatment and branch pages with question headings, short direct answers, FAQs and structured data for the clinic, branches and doctors, and keep facts consistent with your Business Profiles." },
-    { question: "Do you offer maintenance after the clinic website launches?", answer: `Yes. The first five months of maintenance are free: doctor changes, insurer updates, hours, fixes and security updates. After that, maintenance starts from ${P.care}. You can also edit doctors, insurers and treatments yourself through the content system we set up.` },
+    { question: "Do you offer maintenance after the clinic website launches?", answer: `Yes. The first two months of maintenance are free: doctor changes, insurer updates, hours, fixes and security updates. After that, maintenance starts from ${P.care}. You can also edit doctors, insurers and treatments yourself through the content system we set up.` },
     { question: "Can you build a patient app as well as the website?", answer: `Yes, as a separate project. Booking and patient apps for Android and iOS start from ${P.app}, and portals with patient logins from ${P.software}. Many clinics start with the website and WhatsApp reminders, then decide on an app once they see how patients book.` },
     { question: "Do you visit the clinic to take photos or meet the team?", answer: "No. Our clinic website design for Dubai practices is fully remote. We work remotely through video calls, WhatsApp and a shared staging site. For photography, hire a local photographer or use recent photos you already own, with permission from anyone pictured. We'll send a shot list covering doctors, reception, treatment rooms and each branch exterior." },
   ],

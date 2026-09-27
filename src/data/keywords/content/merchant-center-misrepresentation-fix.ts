@@ -45,7 +45,7 @@ const content: FreelanceContent = {
   stats: [
     { value: "3", label: "Freelance developers who fix the code, not just the feed" },
     { value: "2", label: "Working days to an itemised quote" },
-    { value: "5", label: "Months of free maintenance after a rebuild" },
+    { value: "2", label: "Months of free maintenance after a rebuild" },
     { value: "0", label: "Review requests sent before the fixes are live" },
   ],
   answer: {
@@ -328,7 +328,7 @@ const content: FreelanceContent = {
       paragraphs: [
         `Once products are serving again, the job is to stop the store drifting back into the same gaps. Most repeat suspensions come from a new app, a festival sale or a policy change that nobody mirrored across the site and feed.`,
         `Keep a one-page store rulebook: the registered name and address format, the current return window, shipping rates and COD fee, and who is allowed to install apps. Before every sale event, check that discount prices in the feed, the page and the checkout agree, and that timers end when they say. When you change couriers or return rules, update the policy page and Merchant Center settings on the same day.`,
-        `Watch the Merchant Center diagnostics weekly for new item issues, and fix them while they are still product-level. Our <a href='/shopify-maintenance-services/'>maintenance plans</a> include this check, and store builds come with five months of free maintenance before paid care from ${P.care}.`,
+        `Watch the Merchant Center diagnostics weekly for new item issues, and fix them while they are still product-level. Our <a href='/shopify-maintenance-services/'>maintenance plans</a> include this check, and store builds come with two months of free maintenance before paid care from ${P.care}.`,
         `What we will not do: invent a business address, write reviews, hide dropshipping, create a new Merchant Center account to get round a suspension, or promise that Google will approve you. Google's policy on abusing the Shopping network names creating new accounts to re-enter the system after a suspension as an egregious violation, so a second account usually ends in a second, permanent suspension. The durable fix is a store that is honest in every detail, and that is what we build and maintain. If your mobile app faces a similar trust problem on Google Play, the separate guide to a <a href='/google-play-app-suspended/'>suspended Google Play app</a> applies.`,
       ],
     },

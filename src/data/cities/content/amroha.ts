@@ -7,7 +7,7 @@ const amroha: CityContent = {
   meta: {
     title: "IT Services in Amroha: Websites, Apps, SEO & AI",
     description:
-      "Websites, SEO, online stores and WhatsApp automation for Amroha, Gajraula and Hasanpur businesses. Static sites from ₹10,000 with five months free maintenance.",
+      "Websites, SEO, online stores and WhatsApp automation for Amroha, Gajraula and Hasanpur businesses. Static sites from ₹10,000 with two months free maintenance.",
     keywords: [
       "website development team in Amroha",
       "web design Amroha",
@@ -31,11 +31,11 @@ const amroha: CityContent = {
     eyebrow: "Amroha · Uttar Pradesh",
     h1: "Websites, apps, SEO and AI automation for Amroha's dholak makers, traders and Gajraula suppliers",
     lede:
-      "Three engineers, working remotely, building websites, small online stores and WhatsApp automations for businesses across Amroha district, from dholak workshops and mango growers to Gajraula's industrial suppliers, schools and clinics. You know the price before you call, you speak to the developers yourself, and there is no maintenance charge for five months.",
+      "Three engineers, working remotely, building websites, small online stores and WhatsApp automations for businesses across Amroha district, from dholak workshops and mango growers to Gajraula's industrial suppliers, schools and clinics. You know the price before you call, you speak to the developers yourself, and there is no maintenance charge for two months.",
     pills: ["Websites from ₹10,000", "Hindi and English pages", "Sell dholaks online", "Supplier sites for Gajraula", "WhatsApp order handling"],
   },
   quickAnswer:
-    "In Amroha, a simple business website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Amroha, and five months of maintenance after launch are included free.",
+    "In Amroha, a simple business website with us starts at ₹10,000 and goes live in one to two weeks. A 299+ page SEO site starts at ₹20,000 and an online store at ₹50,000. We are a remote team of three engineers with no office in Amroha, and two months of maintenance after launch are included free.",
   snapshot: [
     { label: "District role", value: "Headquarters of Amroha district in Moradabad division, western Uttar Pradesh" },
     { label: "Signature craft", value: "Hand-made dholaks with mango-wood shells, Amroha's product under UP's One District One Product scheme" },
@@ -52,10 +52,10 @@ const amroha: CityContent = {
     ai: "WhatsApp replies that share catalogues, rates and delivery timelines in Hindi, so enquiries from other states are answered even when you are in the workshop.",
     data: "Monthly sales, dispatch and payment records turned into a simple dashboard you can check on your phone.",
     app: "Android and iOS apps for orders, school updates or clinic bookings, built once in Flutter or React Native and published to both stores.",
-    maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
+    maintenance: "Updates, backups, security fixes and uptime checks free for two months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
-    "Most Amroha businesses either have no website or a single page someone made years ago. Local options for building one are limited, and bigger agencies in Moradabad, Meerut or Delhi tend to quote high and move slowly. We publish our prices, reply on WhatsApp seven days a week, and look after your site free for five months after launch.",
+    "Most Amroha businesses either have no website or a single page someone made years ago. Local options for building one are limited, and bigger agencies in Moradabad, Meerut or Delhi tend to quote high and move slowly. We publish our prices, reply on WhatsApp seven days a week, and look after your site free for two months after launch.",
   pricingIntro:
     "Website pricing is rarely clear in a town like Amroha, where most work comes through contacts and quotes are given verbally. These are our published starting prices. Your final quote depends on pages, features and content, and you receive it in writing, item by item, before any work begins.",
   sections: [
@@ -168,7 +168,7 @@ const amroha: CityContent = {
       paragraphs: [
         "A common problem in smaller towns: someone made the website, registered the domain in their own name, and then became unreachable. The business cannot update a phone number or renew the site, and it eventually disappears.",
         "We register the domain and hosting in your name from the start. You receive every login, the full code and a simple note explaining how everything is set up. You can take the site to any other developer whenever you want, with no exit fee.",
-        "For five months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that it continues from ₹8,000 a month, or you can simply call us when you need something changed.",
+        "For two months after launch, maintenance is free: text and price changes, bug fixes, security updates, backups, uptime checks and speed checks. After that it continues from ₹8,000 a month, or you can simply call us when you need something changed.",
       ],
     },
     {
@@ -259,7 +259,7 @@ const amroha: CityContent = {
     {
       question: "What does free maintenance include?",
       answer:
-        "For five months after launch we handle text and price updates, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can call us only when you need a change.",
+        "For two months after launch we handle text and price updates, bug fixes, security updates, backups, uptime checks and speed checks at no charge. After that, maintenance is available from ₹8,000 a month, or you can call us only when you need a change.",
     },
     {
       question: "How long does SEO take to show results in Amroha?",

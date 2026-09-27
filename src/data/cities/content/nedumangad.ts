@@ -56,7 +56,7 @@ const nedumangad: CityContent = {
     ai: "WhatsApp assistants that reply in Malayalam and English to price, stock, fee and booking questions, handing real decisions to you.",
     data: "Dashboards of daily purchase rates, stock by grade, pending payments to farmers and orders by region.",
     app: "Android and iOS apps for a school's parents, a clinic's patients or a wholesaler's retailers, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Nedumangad businesses often have family members working in the Gulf or in Thiruvananthapuram who check every quote. We make that easy: published starting prices, itemised written quotes, WhatsApp replies seven days a week, and every domain, hosting account, code repository and store login registered in your name. If something will not pay for itself, we say so.",
@@ -169,7 +169,7 @@ const nedumangad: CityContent = {
       paragraphs: [
         "With no office in Nedumangad, we document everything. A first call covers your business and what the site or app should achieve. You receive a page or screen plan, a timeline and an itemised quote. After approval, you get live preview links to open on your own phone. We reply on WhatsApp every day of the week on Indian Standard Time, and Malayalam text is sent to you for checking before anything is published.",
         "Your domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and logins are handed over in writing. Nothing is billed before you approve the quote, and payments follow visible progress. <a href=\"/contact/\">Contact us</a> when you are ready to start.",
-        "Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you wish to continue, and you can move to another developer whenever you like. Apps get updated for yearly Google and Apple rule changes so they stay in the stores.",
+        "Maintenance is free for two months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you wish to continue, and you can move to another developer whenever you like. Apps get updated for yearly Google and Apple rule changes so they stay in the stores.",
       ],
     },
     {
@@ -260,7 +260,7 @@ const nedumangad: CityContent = {
     {
       question: "What maintenance do you provide after launch?",
       answer:
-        "Maintenance is free for the first five months, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want to continue. You can take your code and move to another developer whenever you choose.",
+        "Maintenance is free for the first two months, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that it starts at ₹8,000 a month if you want to continue. You can take your code and move to another developer whenever you choose.",
     },
     {
       question: "Do you work in Karakulam, Vembayam and Vithura as well?",

@@ -31,11 +31,11 @@ const panchkula: CityContent = {
     eyebrow: "Panchkula · Chandigarh Tricity · Haryana",
     h1: "Websites, search and automation for Panchkula's sectors, industrial areas and hill towns",
     lede:
-      "We are a remote team of three engineers building websites, local search pages, online stores, AI tools and WhatsApp workflows for Panchkula's clinics, consultants, schools, IT firms and industrial units, and for businesses in Pinjore, Kalka, Barwala and Morni. Starting prices are public, you own the domain and code, and upkeep is free for five months.",
+      "We are a remote team of three engineers building websites, local search pages, online stores, AI tools and WhatsApp workflows for Panchkula's clinics, consultants, schools, IT firms and industrial units, and for businesses in Pinjore, Kalka, Barwala and Morni. Starting prices are public, you own the domain and code, and upkeep is free for two months.",
     pills: ["Sites from ₹10,000", "Tricity local SEO", "Clinic and consultant sites", "Industrial unit catalogues", "AI and WhatsApp automation"],
   },
   quickAnswer:
-    "In Panchkula, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panchkula office, and every site includes five months of free maintenance.",
+    "In Panchkula, our static business websites start from ₹10,000 and take one to two weeks; 299+ page SEO websites start from ₹20,000, online stores from ₹50,000 and custom software from ₹60,000. We are a remote three-engineer team with no Panchkula office, and every site includes two months of free maintenance.",
   snapshot: [
     { label: "City", value: "Planned satellite city of Chandigarh, laid out in sectors; part of the Chandigarh tricity with Mohali" },
     { label: "Work hubs", value: "Panchkula IT Park across 74 acres in Sector 22, industrial areas, district and state offices" },
@@ -52,10 +52,10 @@ const panchkula: CityContent = {
     ai: "AI assistants and WhatsApp workflows that answer routine questions, qualify leads and draft replies for busy professionals, with people handling judgement calls.",
     data: "Dashboards for appointments, sales, leads and production that owners and managers can check on a phone.",
     app: "Android and iPhone apps for patient bookings, school parent portals and field sales teams, available on both app stores from ₹40,000.",
-    maintenance: "Updates, backups, security and speed checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
+    maintenance: "Updates, backups, security and speed checks free for two months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
-    "Panchkula has no shortage of agencies, since the whole tricity is full of them. What is harder to find is a team that publishes starting prices, hands you full ownership of your domain and code, answers WhatsApp every day, and keeps maintaining your site for five months after launch at no charge. That is how we work.",
+    "Panchkula has no shortage of agencies, since the whole tricity is full of them. What is harder to find is a team that publishes starting prices, hands you full ownership of your domain and code, answers WhatsApp every day, and keeps maintaining your site for two months after launch at no charge. That is how we work.",
   pricingIntro:
     "Every price below is a starting point. A single-doctor clinic and a manufacturer with a dealer portal need very different work, and your quote reflects that. You receive it itemised within about two working days, and nothing is billed until you approve it in writing.",
   sections: [
@@ -179,12 +179,12 @@ const panchkula: CityContent = {
     },
     {
       id: "ownership-panchkula",
-      heading: "Full ownership and five months of free maintenance",
+      heading: "Full ownership and two months of free maintenance",
       paragraphs: [
         "A surprising number of tricity businesses do not actually control their own website. The agency registered the domain, holds the hosting login and charges to hand anything over. When the relationship ends, the business either pays or starts again.",
         "With us, the domain and hosting are registered in your name from day one. At launch you receive every login, the complete source code and a short guide. You can move to another developer at any time with no exit fee.",
         "This matters more in the tricity than in many places, because businesses here change agencies often as they grow. Clean code, sensible documentation and credentials stored in your own accounts mean a future developer, whether that is us or someone else, can pick up the work in hours rather than weeks. We would rather keep clients because the work is good than because leaving is difficult.",
-        "Maintenance is free for five months after launch: content updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, it is from ₹8,000 a month, or you can contact us only when needed. Reach us through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
+        "Maintenance is free for two months after launch: content updates, bug fixes, security updates, backups, uptime monitoring and speed checks. After that, it is from ₹8,000 a month, or you can contact us only when needed. Reach us through our <a href=\"/contact/\">contact page</a> or on WhatsApp.",
       ],
     },
   ],
@@ -276,7 +276,7 @@ const panchkula: CityContent = {
     {
       question: "What does the free maintenance include?",
       answer:
-        "For five months after launch we handle content updates, bug fixes, security updates, backups, uptime monitoring and speed checks free. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need changes.",
+        "For two months after launch we handle content updates, bug fixes, security updates, backups, uptime monitoring and speed checks free. After that, maintenance is from ₹8,000 a month, or you can contact us only when you need changes.",
     },
     {
       question: "How do I start?",

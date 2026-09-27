@@ -31,11 +31,11 @@ const sirsa: CityContent = {
     eyebrow: "Sirsa · Haryana",
     h1: "Web, app, SEO and automation services for cotton ginners, rice shellers, kinnow growers and town businesses",
     lede:
-      "Three remote engineers building websites, online stores and WhatsApp automation for Sirsa district, from ginning and pressing units and rice shellers to kinnow orchards around Dabwali, implement and cooler makers on Dabwali Road, coaching centres, hospitals and shops. Our prices start low and are published, and maintenance is free for five months.",
+      "Three remote engineers building websites, online stores and WhatsApp automation for Sirsa district, from ginning and pressing units and rice shellers to kinnow orchards around Dabwali, implement and cooler makers on Dabwali Road, coaching centres, hospitals and shops. Our prices start low and are published, and maintenance is free for two months.",
     pills: ["Sites from ₹10,000", "Punjabi, Hindi and English", "Mandi and mill websites", "Kinnow pre-order stores", "WhatsApp rate replies"],
   },
   quickAnswer:
-    "In Sirsa, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no office in Sirsa, and maintenance is free for five months after launch.",
+    "In Sirsa, a basic business website with us starts at ₹10,000 and is ready in one to two weeks. A 299+ page SEO site starts from ₹20,000 and an online store from ₹50,000. We are a remote team of three engineers with no office in Sirsa, and maintenance is free for two months after launch.",
   snapshot: [
     { label: "Location", value: "Haryana's westernmost district, about 250 km north-west of Delhi, near the Punjab and Rajasthan borders" },
     { label: "Farm economy", value: "Known as the cotton belt of Haryana; paddy, cotton and bajra in kharif, wheat, gram and mustard in rabi" },
@@ -52,7 +52,7 @@ const sirsa: CityContent = {
     ai: "WhatsApp replies in Hindi or Punjabi that share today's rates, stock or OPD timings and keep every enquiry in one sheet.",
     data: "Season-wise dashboards of arrivals, purchases, output and dues for mill owners and traders.",
     app: "Android and iOS apps for gate entries, truck trips, coaching attendance or clinic tokens, built in Flutter or React Native and released on both stores.",
-    maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
+    maintenance: "Two months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
     "Sirsa businesses usually look to Hisar, Bathinda or Chandigarh for a web developer, or accept a directory listing that sends enquiries to competitors. We offer a simpler route: engineers you talk to directly, starting prices published openly, WhatsApp replies every day and every account in your name.",
@@ -178,7 +178,7 @@ const sirsa: CityContent = {
       paragraphs: [
         "We hear the same complaint from shop owners in towns like Sirsa again and again: the young man who made the website moved abroad, the domain was on his email, and now nobody can change the phone number printed on it. Eventually the renewal date passes and the site simply stops loading.",
         "To avoid that, the domain and hosting are bought in your name and paid from your account from the first day. On launch day you get the passwords, the source code and a one-page note on where everything lives. If you later choose another developer, you hand them that note; we charge nothing to let you go.",
-        "The first five months after launch come with free upkeep: edits to text and prices, bug fixes, security patches, backups and checks on uptime and loading speed. Beyond that, a maintenance plan begins at ₹8,000 a month, or you can skip the plan and message us only when a change is needed.",
+        "The first two months after launch come with free upkeep: edits to text and prices, bug fixes, security patches, backups and checks on uptime and loading speed. Beyond that, a maintenance plan begins at ₹8,000 a month, or you can skip the plan and message us only when a change is needed.",
       ],
     },
     {
@@ -267,9 +267,9 @@ const sirsa: CityContent = {
         "You do. It is bought in your name, hosting is in your account, and on launch day you receive every password and the source code. Switching to a different developer later costs nothing.",
     },
     {
-      question: "What happens during the five free months of maintenance?",
+      question: "What happens during the two free months of maintenance?",
       answer:
-        "We make text and price edits, fix bugs, apply security patches, take backups and keep an eye on uptime and speed, all without charge. After month five you can take a plan from ₹8,000 a month or simply message us whenever something needs changing.",
+        "We make text and price edits, fix bugs, apply security patches, take backups and keep an eye on uptime and speed, all without charge. After month two you can take a plan from ₹8,000 a month or simply message us whenever something needs changing.",
     },
     {
       question: "Do you work in Dabwali, Ellenabad, Rania and nearby towns?",

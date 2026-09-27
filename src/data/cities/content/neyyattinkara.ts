@@ -56,7 +56,7 @@ const neyyattinkara: CityContent = {
     ai: "WhatsApp assistants in Malayalam, English and Tamil that handle price, booking and timing questions and pass real decisions to staff.",
     data: "Dashboards of sales by product, loom output, bookings by month or patient visits that owners can read on a phone.",
     app: "Android and iOS apps for resort guests, repeat grocery orders or college notices, from ₹40,000, published on Google Play and the App Store.",
-    maintenance: "Five free months of maintenance after launch, then care plans from ₹8,000 a month for updates, backups and fixes.",
+    maintenance: "Two free months of maintenance after launch, then care plans from ₹8,000 a month for updates, backups and fixes.",
   },
   whyUsIntro:
     "Neyyattinkara customers compare everything against Thiruvananthapuram, just half an hour up the road, so a local business needs to look just as organised online. We help with that at a sensible cost: public starting prices, a written line-by-line quote, WhatsApp replies every day and every login registered to you.",
@@ -168,7 +168,7 @@ const neyyattinkara: CityContent = {
       heading: "Website cost in Neyyattinkara: our floor prices and what changes them",
       paragraphs: [
         "People usually want the <strong>website cost in Neyyattinkara</strong> before anything else, so here are our floor prices. A static site of up to 100 pages is ₹10,000 onwards, with one to two weeks of work. A search-focused site of 299+ pages starts at ₹20,000 over three to five weeks. An Android and iOS app is ₹40,000 onwards, and AI or WhatsApp automation begins at ₹40,000 over two to four weeks.",
-        "An online store starts at ₹50,000 and takes four to eight weeks. A custom web application starts at ₹60,000 and takes six to twelve weeks. Monthly SEO begins at ₹10,000 a month. Maintenance plans start at ₹8,000 a month, but only after the five months of free maintenance that follow every launch.",
+        "An online store starts at ₹50,000 and takes four to eight weeks. A custom web application starts at ₹60,000 and takes six to twelve weeks. Monthly SEO begins at ₹10,000 a month. Maintenance plans start at ₹8,000 a month, but only after the two months of free maintenance that follow every launch.",
         "None of these is a final figure. The quote rises with page and product count, extra languages, app screens, payment and delivery logic and integrations. You will usually receive an itemised quote within two working days, and we invoice nothing before you approve it in writing.",
         "Quotes around Neyyattinkara and Thiruvananthapuram differ widely, so compare the terms and not just the total. Whose name is on the domain? Do you receive the source code? How many revision rounds are included? What will renewals and upkeep cost next year? Our complete list is on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -189,7 +189,7 @@ const neyyattinkara: CityContent = {
       paragraphs: [
         "A story we hear often: a website went dark because the person who built it moved on, the domain was booked in his name and nobody had the hosting password. The business paid again to start over. We set up our projects so that this cannot happen to you.",
         "Domain, hosting, source code, Google Business Profile and, for apps, the Google Play and App Store developer accounts are all opened in your business name. On handover we give you a written list of logins and go through it with you or someone you trust. Any future developer can continue from there without rebuilding.",
-        "The first five months after launch include free maintenance: fixes, small edits and security patches. After that, maintenance is ₹8,000 a month onwards and covers backups, updates, uptime checks and a set amount of editing. App plans also cover the updates Android and iOS require from time to time.",
+        "The first two months after launch include free maintenance: fixes, small edits and security patches. After that, maintenance is ₹8,000 a month onwards and covers backups, updates, uptime checks and a set amount of editing. App plans also cover the updates Android and iOS require from time to time.",
         "If your site is small and hardly changes, we will say that paying for an occasional edit is probably better value than a monthly plan.",
       ],
     },
@@ -272,7 +272,7 @@ const neyyattinkara: CityContent = {
     {
       question: "What happens after my Neyyattinkara website goes live?",
       answer:
-        "The first five months of maintenance are free, covering bug fixes, small edits and security patches. After that, plans start at ₹8,000 a month with backups, updates, uptime checks and editing time, and app plans cover required store updates. If your site barely changes, we will tell you an occasional paid edit may suit you better.",
+        "The first two months of maintenance are free, covering bug fixes, small edits and security patches. After that, plans start at ₹8,000 a month with backups, updates, uptime checks and editing time, and app plans cover required store updates. If your site barely changes, we will tell you an occasional paid edit may suit you better.",
     },
     {
       question: "Can you build a booking website for a Poovar resort or homestay?",

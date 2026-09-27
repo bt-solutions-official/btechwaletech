@@ -56,7 +56,7 @@ const gudur: CityContent = {
     ai: "WhatsApp assistants in Telugu and English that share rates, confirm orders and hand real negotiations to you.",
     data: "Daily and seasonal dashboards of lemon arrivals, sale prices, buyer dues and mineral dispatches by grade.",
     app: "Android and iOS apps for aqua farm supervisors logging pond checks or for lemon buyers booking lots, from ₹40,000 on Google Play and the App Store.",
-    maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
+    maintenance: "Two months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security fixes.",
   },
   whyUsIntro:
     "Gudur's traders work on thin margins and fast decisions, so they want developers who are just as clear. Our starting prices are published, quotes are itemised in writing, WhatsApp replies come every day of the week, and the domain, hosting, code and store accounts are registered to you. We will also tell you when something is not worth building.",
@@ -188,7 +188,7 @@ const gudur: CityContent = {
       heading: "Ownership and maintenance for Gudur websites and apps after launch",
       paragraphs: [
         "A familiar problem in smaller towns is a website that nobody can edit because the developer registered the domain in their own name and has since moved on. We rule that out. Domain, hosting, source code, Google Business Profile and app store developer accounts are set up in your name, and you hold the passwords.",
-        "Each launch includes five months of free maintenance for fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular attention. If your site changes rarely, we will say plainly that a monthly plan may be unnecessary.",
+        "Each launch includes two months of free maintenance for fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps that need regular attention. If your site changes rarely, we will say plainly that a monthly plan may be unnecessary.",
         "We also hand over a plain-language note explaining the setup, hosting and renewal dates. Any developer you choose later can continue from it without rebuilding.",
         "Apps need yearly attention because Google and Apple update their technical rules. Maintenance covers these required updates, so your app is not removed from a store because of a missed deadline.",
       ],
@@ -277,7 +277,7 @@ const gudur: CityContent = {
     {
       question: "What does maintenance cost after launch?",
       answer:
-        "Every project includes five months of free maintenance for fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps needing regular work. If your site rarely changes, we will tell you a monthly plan may not be needed.",
+        "Every project includes two months of free maintenance for fixes, small updates, security patches and backups. After that, maintenance starts at ₹8,000 a month for sites and apps needing regular work. If your site rarely changes, we will tell you a monthly plan may not be needed.",
     },
     {
       question: "Can you build an ecommerce website in Gudur for food products or sarees?",
